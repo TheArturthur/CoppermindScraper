@@ -11,4 +11,4 @@ in 341 PC, Cett Mansion can be found in the southern 5th Octant, near the 4th-5t
 
 
 
-https://coppermind.net/wiki/Cett_mansion
+https://coppermind.net/wiki/House_Cett

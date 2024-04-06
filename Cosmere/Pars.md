@@ -30,4 +30,4 @@ The case of Pars was one of many that disillusioned [[Miles\|Miles]] about Elend
 
 
 
-https://coppermind.net/wiki/Pars
+https://coppermind.net/wiki/Pars_the_Deadman

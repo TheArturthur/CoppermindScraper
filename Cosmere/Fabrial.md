@@ -122,7 +122,7 @@ The ardent [[Rushu\|Rushu's]] experimentation with this behavior results in a mo
 There are no confirmed instances of other types of fabrial being modified by aluminum in the same way. Reverser fabrials are stated to operate similarly to conjoiners and therefore likely behave similarly under aluminum modification. It is unclear what effect aluminum would have on fabrials that do not rely on two paired gemstones. Attractor fabrials would have a "shadow" if partially blocked by aluminum. Though the attraction will bend round the edges, in the same way as light would bend.
 
 ### Special Interactions
-
+#### Raysium
 [[Raysium\|Raysium]] conducts Investiture, allowing it to flow from one gemstone to another. It is used by the [[Fused\|Fused]] to combat [[Knights Radiant\|Knights Radiant]], pulling their [[Stormlight\|Stormlight]] away from them, and leaving them vulnerable to attack. It appears that the orientation of the metal, rather than the pressure differential, determines which way that Investiture flows through the metal, much like a magnetic polarity.
 
 ## Types
@@ -132,10 +132,10 @@ Modern artifabrians divide the fabrials they design into five groups across thre
 ### Altering fabrials
 Appropriately named, altering fabrials qualitatively alter the property or attribute they target. Well-known examples include altering the temperature of an object or an area and enhancing or dampening the sensation of pain, though artifabrians believe there is potential for even greater types of fabrials in this category.
 
-
+#### Augmenters
 Altering fabrials that increase or enhance an attribute are known as augmenters. They work best with forces, emotions or sensations. [[Half-shard\|Half-shards]] and [[Grandbow\|Grandbows]] are examples of augmenters that increase durability. There are also heating fabrials that generate heat, sometimes called warmers or heatrials. Heatrials were first developed just before [[Assassination of Gavilar\|Gavilar's feast]], though earlier models were much less effective. Painrials that enhance the feeling of pain also fall under this category. Pewter is used for augmenters.
 
-
+#### Diminishers
 Diminishers act as opposites of augmenters, decreasing the magnitude of their targeted trait. In general, they operate in a similar manner to augmenters, with similar restrictions. [[Painrial\|Painrials]] that decrease pain are a type of diminisher. Tin is used to make diminishers.
 
 ### Pairing fabrials
@@ -143,70 +143,70 @@ Diminishers act as opposites of augmenters, decreasing the magnitude of their ta
 Pairing fabrials are, as the name suggests, created in pairs that can move in parallel, or the opposite, over great distances. This category was a recent discovery during the [[War of Reckoning\|War of Reckoning]]. Force is conserved between each pair of fabrials, and the force required to move one is equivalent to one required for moving both. The farther apart the two halves are, the more resistance is felt when moving them. Despite limitations in how far the fabrials can be separated and still work (dictated by certain processes during manufacture), conjectures about possible applications are being discussed.
 By using raysium, a half-spren trapped in one half of a conjoined pair of gems can be transferred to another gem, not part of the original pairing. This can lead to an asymmetry between the movements of the two spren halves, as moving a larger gem a certain distance will now make its smaller paired counterpart move a larger distance. This does not, however, allow for force multiplication.
 
-
+#### Conjoiners
 Conjoiners are created from infused rubies which are split in half after the spren is already captured. The two halves are then able to exhibit parallel movements over large distances. [[Spanreed\|Spanreeds]] are the most widespread example of conjoiner, linking two pens and allowing for long-distance communication. Conjoined rubies don't drain much Light to maintain their connection.
 
-
+#### Reversers
 Reversers are created in a similar manner to conjoiners, using an amethyst instead of a ruby. The two halves are then able to exhibit equal, but opposite reactions; lifting one would cause the other to be lowered.
 
 ### Warning fabrials
 Warning fabrials detect things and give notice to the user. Their range depends on the amount of Stormlight infused into its fabrial-gem.
 
-
+#### Alerters
 Alerters use a heliodor to detect the presence of objects, feelings, sensations, or phenomena, and warn the user. There are alerters which can detect approaching people while excluding certain persons from detection. The [[Emotion bracelet\|Emotion bracelet]] is an alerter able to detect different emotions. Bronze is the metal used to stimulate these types of fabrials. Theoretically, a fabrial could be used to detect emotional [[Allomancy\|Allomancy]].
 
  by  Ben McSweeney  An Oathgate as seen from [[Shadesmar\|Shadesmar]]
 ### Surge Fabrials
 These are fabrials that are able to manipulate Surges, replicating the effects of [[Surgebinding\|Surgebinding]] and [[Voidbinding\|Voidbinding]].
 
-
+#### Soulcasters
 For more information, see [[Soulcasting\|Soulcasting]].
 These fabrials mimic the Radiant ability of [[Soulcasting\|Soulcasting]].  A Soulcaster fabrial consists of two rings and a bracelet connected by chains which hold a group of three gemstones across the back of the hand. Most are only able to effect small, singular changes, such as turning stone into water, while about one in ten can effect any change. They can be activated by tapping one of the three gemstones when holding the hand against what is to be changed. They manipulate the Surge of Transformation.
 
-
+#### Regrowth fabrial
 Ancient Radiants possessed fabrials constructed from a large topaz and heliodor that were able to "regrow" and repair injuries through manipulating the Surge of [[Progression\|Progression]]. In the present day, they have been lost; however, the [[Herald\|Herald]] [[Nale\|Nale]] possesses one capable of bringing someone back even from the brink of death.
 
-
+#### Oathgates
 For more information, see [[Oathgate\|Oathgate]].
 These fabrials manipulate the Surge of [[Transportation\|Transportation]], and allow the user to transport anything on top of the platform and in the control chamber between Oathgates in an instant. However, as far as is known, they function in pairs - an Oathgate in [[Urithiru\|Urithiru]] only connects to one Oathgate outside, and the Oathgate outside only connects to one Oathgate in Urithiru. They can only be activated by living [[Shardblade\|Shardblades]], as wielded by the [[Knights Radiant\|Knights Radiant]], or an [[Honorblade\|Honorblade]]. Transportation of more than one person through them requires use of more Stormlight.
 
 ### Unknown types
  by [[Kelley Harris\|Kelley Harris]] A fabrial wristwatch
-
+#### Clock
 Rosharan clocks are fabrials, with their mechanisms powered in some fashion by an infused smokestone in their center, holding a captured [[Logicspren\|logicspren]]. They are noted as being rather expensive, although in recent years they have become more and more common. Dozens of them can be found in [[Kharbranth\|Kharbranth]]. Many have bells hanging from them to announce the hour. In the past, they came only in standing and hanging varieties. Recently, Navani has managed to create a design small enough to wear on one's hand.
 
-
+#### Attractor
 Used to attract certain substances, possibly determined by the gemstone used. They use iron in their metal lattices. During the [[Battle of Narak\|Battle of Narak]], Navani unveils one capable of drawing moisture from the air, pooling the water into a globe around the garnet that powers it. [[Shallan\|Shallan]] spots one that gathers smoke from a fire in the [[Ghostbloods\|Ghostbloods's]] hideout at the [[Shattered Plains\|Shattered Plains]]. The *Wandersail* is said to have stabilizers made from attractor fabrials that move weights inside the hull to prevent capsizing.
 It is possible to create a repeller fabrial, possibly using steel.
 
-
+#### Stabilizer
 Thaylen engineered fabrials that help to stabilize ships during the highstorm. [[Rysn\|Rysn's]] ship, *Wandersail*, has been equipped with these fabrials.
 
-
+#### Drainer
 Though their name is unknown, these fabrials can partially drain Stormlight from gems to diminish their glow, for aesthetic purposes.
 
-
+#### Urithiru lifts
 The lifts in Urithiru are related to conjoined fabrials working together with sets of gears. There are empty slots on the railings on which infused gemstones can be inserted, from which the lift will draw Stormlight and begin to move. The lift draws enough power to reach the next floor, and upon reaching the first destination the platform will keep drawing Stormlight from the gemstone to perpetuate the operation of the fabrial. If at any point during the rise or descend the gemstone is removed, the lift will continue to travel until the following floor, stopping at that position. A lever on the platform can be switched to determine the direction of motion.
 
-
+#### Suppressor
 For more information, see [[Suppression fabrial\|suppression fabrial]].
 These fabrials can suppress Surgebinding and Invested entities, such as Fused and Radiant spren.
 
-
+#### Aura
 For more information, see [[Aura fabrial\|aura fabrial]].
 These fabrials can analyze the [[Spiritweb\|spiritweb]] and [[Connection\|Connections]] of a subject.
 
 ### Possible Fabrials
-
+#### Stormclock
 The wristwatch that [[Dalinar\|Dalinar]] receives from [[Navani\|Navani]] includes a [[Stormclock\|stormclock]], which might be a fabrial, although it might as well operate purely mechanically. The vambrace is also equipped with a clock and a diminisher painrial, while Navani's own version has a switch that allows it to turn into an augmenter, for self-defense.
 
-
+#### Gemstone Column
 There is a column of gemstones in [[Urithiru\|Urithiru's]] lower levels which serves as the main residence for the [[Sibling\|Sibling]] and an access point for all of the fabrials found in Urithiru. A certain pattern of gems control the Tower's defenses against the [[Fused\|Fused]]. [[Raboniel\|Raboniel]] used it to corrupt and disable these defenses. The column also has a defense mechanism designed by [[Melishi\|Melishi]] in the form of a glowing barrier that can be activated by four nodes found throughout the tower.
 
-
+#### Stormlight transfer device
 These devices can move Stormlight between gems, and are used by the moneychangers of [[Celebrant\|Celebrant]] to transfer Stormlight into perfect gemstones.
 
-
+#### Threnodite shadow detector
 The [[Ire\|Ire]] have a device capable of detecting [[Cognitive shadows\|cognitive shadows]] from [[Threnody\|Threnody]], which may be similar to a Rosharan alerter fabrial.
 
 ## Trivia

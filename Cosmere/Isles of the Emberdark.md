@@ -35,4 +35,4 @@ In the second narrative, Starling, a Yolish Dragon, is exiled from Yolen twelve 
 
 
 
-https://coppermind.net/wiki/Sixth_of_the_Dusk_sequel
+https://coppermind.net/wiki/Isles_of_the_Emberdark

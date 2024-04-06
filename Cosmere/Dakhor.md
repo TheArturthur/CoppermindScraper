@@ -46,4 +46,4 @@ Dakhor has a specific tie to the land of Fjorden. Like all Selish magic, Dakhor 
 [[Dilaf\|Dilaf]]
 
 
-https://coppermind.net/wiki/Dakhor
+https://coppermind.net/wiki/Dahkor

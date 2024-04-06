@@ -135,4 +135,4 @@ After the battle on ReDawn, Alanik and Arturo spend lots of time together. Artur
 
 
 
-https://coppermind.net/wiki/Arturo_Mendez
+https://coppermind.net/wiki/Arturo

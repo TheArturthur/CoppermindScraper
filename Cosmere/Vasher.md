@@ -161,4 +161,4 @@ Vasher has not accomplished what he has Returned to do, nor has he had any real 
 If he was alone with [[Wayne\|Wayne]] and [[Lopen\|Lopen]], it's likely that he'd end up punching Lopen first, since Wayne is capable of reading the room.
 
 
-https://coppermind.net/wiki/Vasher
+https://coppermind.net/wiki/Talaxin

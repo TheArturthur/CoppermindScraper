@@ -247,4 +247,4 @@ The final chapter arch is known as the Jester and is associated not with a Heral
 The Heralds are some of the oldest beings in the cosmere, apart from [[Hoid\|Hoid]], the original [[Shard of Adonalsium\|Vessels]], and some of the [[Dragon (cosmere)\|dragons]].
 
 
-https://coppermind.net/wiki/Herald
+https://coppermind.net/wiki/Kadasix

@@ -62,7 +62,7 @@ Hershel Black served for many years in the Special Forces. He participated in ma
 
 Hershel once had an assignment where he and his squad had to go the Cameron Park Zoo, where all the animals had been horribly mutated by an Epic named [[Feral\|Feral]]. Hershel and his men had to put them down, though it was difficult.
 
-
+#### Mission in Siberia
 >“*I say Hershel is hardcore, so he deserves a hardcore leg story.*”
 \-Jax on the subject of how Hershel lost his leg.[9]
 
@@ -90,4 +90,4 @@ Hershel had a wife at some point, whose name is not known. She doesn’t like hi
 
 
 
-https://coppermind.net/wiki/Hershel_Black
+https://coppermind.net/wiki/Hershel

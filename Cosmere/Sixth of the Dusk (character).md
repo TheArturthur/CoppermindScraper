@@ -69,4 +69,4 @@ Dusk has tried [[Herdazian\|Herdazian]] food, and he hates it.
 The second story about him will involve him going to explore [[Shadesmar\|Shadesmar]].
 
 
-https://coppermind.net/wiki/Sixth
+https://coppermind.net/wiki/Dusk

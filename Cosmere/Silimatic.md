@@ -49,4 +49,4 @@ During his time in [[Nalhalla\|Nalhalla]], Alcatraz discovers that Oculators can
 
 
 
-https://coppermind.net/wiki/Glass
+https://coppermind.net/wiki/Transporter%27s_Glass

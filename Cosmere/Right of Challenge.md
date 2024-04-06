@@ -25,14 +25,14 @@ The Right of Challenge allows a person to demand justice through combat from som
 
 
 ## History
-
+#### Unification of Alethkar
 >“*I will have no boon other than Yenev’s cowardly heart on the end of my sword, Your Majesty!*”
 \-Sadeas [1]
 
 
 Highprince Yenev was one of the main forces in opposition against [[Gavilar Kholin\|Gavilar Kholin]] and the unification of Alethkar. To remove him Sadeas spoke with Gavilar regarding the Right of Challenge and the King’s Boon. Since they were traditions that shared a relationship to the historical crown, invoking them echoed the right of rule Gavilar and his camp were trying to establish. Using a tournament as part of their plan Sadeas dueled another [[Shardbearer\|Shardbearer]]. During the duel he paused the fighting at several points and raised the stakes, offering money and then lands. In the end, the victory was dramatic and King Gavilar stood and offered Sadeas the boon. Sadeas dueled Yenev and killed him, the lands going to their ally [[Aladar\|Aladar]]. 
 
-
+#### The War of Reckoning
 >“*I demand the Right of Challenge. I demand the chance to duel Highprince Sadeas, right here and now, as redress for the crimes he committed against my house!*”
 \-Adolin [2]
 

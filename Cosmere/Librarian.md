@@ -43,4 +43,4 @@ There are many stereotypes for librarians:
 
 
 
-https://coppermind.net/wiki/Scrivener%27s_Bones
+https://coppermind.net/wiki/Wardens_of_the_Standard

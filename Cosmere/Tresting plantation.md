@@ -1,11 +1,11 @@
-| **Tresting plantation** |                                          |
-| ----------------------- | ---------------------------------------- |
-| by  Francis Goeltner    |                                          |
-| **Owner**               | [[Themos Tresting\|Themos Tresting]]     |
-| **Dominance**           | [[Central Dominance\|Central Dominance]] |
-| **Nation**              | [[Final Empire\|Final Empire]]           |
-| **World**               | [[Scadrial\|Scadrial]]                   |
-| **Universe**            | [[Cosmere\|Cosmere]]                     |
+|**Tresting plantation**|
+|-|-|
+|by  Francis Goeltner |
+|**Owner**|[[Themos Tresting\|Themos Tresting]]|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
 **Tresting plantation** is located in the [[Central Dominance\|Central Dominance]] north-west of [[Luthadel\|Luthadel]].
 The plantation is owned by [[Themos Tresting\|Themos Tresting]] and the staff at the plantation included other lords and at least two minor [[Obligator\|obligators]], as well as a number of taskmasters and over two dozen soldiers. His plantation was manned by a workforce of several hundred [[Skaa\|skaa]].

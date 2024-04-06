@@ -18,4 +18,4 @@ His name is likely a reference to  in Alaska.
 
 
 
-https://coppermind.net/wiki/Blackburn
+https://coppermind.net/wiki/Radrian_Blackburn

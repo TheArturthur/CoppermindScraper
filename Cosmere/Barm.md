@@ -4,6 +4,7 @@
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*The Way of Kings*|
 
 Barm is a [[Darkeyed\|darkeyed]] chef who works in the kitchen of the citylord's mansion in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 

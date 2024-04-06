@@ -42,14 +42,14 @@ Kuth lies north of the [[Idris\|Idrian]] mountains. Not much is known of Kuth’
 Kuth is a kingdom, and as such it has a king or queen.
 
 ### Foreign Policy and international relationships
-
+#### Hanald
 Kuth has a bad relationship with [[Hanald\|Hanald]]. They are jealous of the riches Hanald posseses, as well as afraid of Hanald's military might.
 This eventually lead to Hanald declaring war on Kuth, and invading the Kingdom.
 
-
+#### Huth
 [[Huth\|Huth]] lies near Kuth, north of the Idrian mountains. They also fought together during the Manywar, with each of the nations being invaded by [[Hanald\|Hanald]].
 
-
+#### Pahn Unity
 It is unclear whether or not Kuth was a part of the [[Pahn Unity\|Pahn Unity]].
 During the Manywar Kuth was on the same side as the Pahn Unity. Due to this it is likely that they had at least fine relationships with the nations that made up this alliance.
 

@@ -8,4 +8,4 @@ This page or section needs to be updated with new information for *The Frugal W
 
 
 
-https://coppermind.net/wiki/Quinn_Jericho
+https://coppermind.net/wiki/Quinn

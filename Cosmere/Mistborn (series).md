@@ -127,4 +127,4 @@ All three Mistborn Trilogy books are SF Book Club selections
 THE HERO OF AGES — selected as an Indie Next List Notable for Dec. 2008
 
 
-https://coppermind.net/wiki/Mistborn_series
+https://coppermind.net/wiki/Mistborn_Era_1

@@ -33,13 +33,13 @@ A large portion of the city’s power is provided by windmills.
 
 ## Landmarks
 ### Palace
-
+#### Throne Room
 Lifeforce’s throne room is thoroughly decorated with gold, including the chandelier, decorations, and banisters. The floor is marble inlaid with gold, and the room is decorated with golden pillars and a grand golden staircase. Lifeforce’s golden throne is elevated so that people have to look up to meet his eyes.
 
-
+#### Lab
 Lifeforce and Parik have a lab underneath the palace where they store information on Epics, as well as their DNA samples. The room is filled with electronically activated steel cupboards, each one labeled with an Epic’s name. Another group of cupboards holds confiscated items. Each Epic drawer contains a file on that Epic, blood samples, and often pieces of that Epic, such as fingers or hair.
 
-
+#### Chrysalis Hollows
 The Chrysalis Hollows is the special sectioned off area of the lab where Lifeforce preforms his most important experiment. It is separated from the rest of the lab by a large red door, on which is written the words “rise anew”. The door is locked with both a keypad and a handprint scanner, only permitting Lifeforce and Parik to open it. Inside, numerous Chrysalis chambers line the walls, each one shrouded by a pane of frosted glass, which turn clear upon Lifeforce’s touch.
 
 ### Raven Tunnels

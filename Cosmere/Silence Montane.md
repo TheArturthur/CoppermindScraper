@@ -59,4 +59,4 @@ Silence ultimately decides to pin the White Fox identity on [[Theopolis\|Theopol
 At the midnight release/book signing for [[Shadows of Self\|Shadows of Self]], a scavenger hunt-style "Wanted" poster labeled Silence as a member of the 17th shard. This was not in any way a canonical event, merely a way of getting the [[17thshard.com\|17thshard.com]] booth involved in the festivities.
 
 
-https://coppermind.net/wiki/Silence_Forescout
+https://coppermind.net/wiki/Silence

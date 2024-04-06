@@ -65,13 +65,13 @@ The Azish military presence in Tashikk is not limited to its ships. The credenti
 Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]] hub, and the reeds connected to it are used even as far East as [[Alethkar\|Alethkar]]. More than simply a relay station, Tashikk provides spanreed services to the entire world, distributing them and providing connections. They are also well-known for their ability to acquire information from all over, and sharing it for outrageous prices. Rumours and gossip traveling the world often start in Tashikk.
 
 ### Foreign Policy and International Relationships
-
+#### Alm
 They have a good relationship with Alm, and Alm people are allowed to enter the nation without much trouble.
 
-
+#### Alethkar
 They are a member of the Coalition of Monarchs with Alethkar. They also grant them spanreed services to Alethkar, who makes effective use of their services.
 
-
+#### Azir
 They are under the control of the Azish Empire, and are thus subservient to Azir.
 
 ## Culture

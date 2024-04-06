@@ -37,4 +37,4 @@ The strain used by the Set has the ability to track like a hound, and retains so
 
 
 
-https://coppermind.net/wiki/Chimera
+https://coppermind.net/wiki/Hemalurgic_chimera

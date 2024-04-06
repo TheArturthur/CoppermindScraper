@@ -69,7 +69,7 @@ Ships on the seas tend to have reinforced bows in order to protect the ship from
 The seas are not especially deep, measuring only a few hundred yards at their deepest. There is an entire complex ecosystem of its own at the bottom; however, nothing is known about it. It is a matter of research by [[Xisisrefliel\|Xisisrefliel]] and his servants.
 The maps of Lumar keep the pentagonal shape of the seas, but it is not known what sort of projection these use in order to retain the shape despite regular pentagons being unable to tile the plane.
 
-
+#### Known oceans
 [[Emerald Sea\|Emerald Sea]] (made of verdant aether; also known as Verdant Sea)
 [[Crimson Sea\|Crimson Sea]] (made of crimson aether)
 [[Midnight Sea\|Midnight Sea]] (made of midnight aether)
@@ -103,7 +103,7 @@ Although most of the planet is covered in spore oceans, Lumar does have numerous
 The largest known land feature of Lumar are multiple mountain ranges that border the Crimson Sea. They are largely considered impassable for ships; as such, the only way to cross to the other side of the planet, at least in that direction, is through Crimson and the bordering Midnight Sea.
 Humans are the only known sapient inhabitants of Lumar, barring rare offworlders such as [[Ulaam\|Ulaam]] or [[Xisis\|Xisis]]. There is no coral, or any other sea life on the planet, owing to the oceans being deadly to any water-based living creature. Fish, however, can be found in lakes on some of the islands. Rats, cats, pigeons and butterflies are common, as are seagulls; despite the dangers of the spore oceans, the birds can often be found far from the island shores.
 
-
+#### Known islands
 
 [[Diggen's Point\|Diggen's Point]], also known as the Rock
 [[Core Archipelago\|Core Archipelago]]
@@ -128,14 +128,14 @@ Pirates act as an important part to the economy, taking it from the wealthy who 
 The Verdant Sea feuds with the Midnight Sea; as all trade to the other side of the planet must go through Midnight, the Sorceress has imposed high tariffs. The king eventually refused to pay them and began to prepare for war until [[Tress\|Tress]] and her crew banished the sorceress.
 The Verdant Sea borders the [[Crimson Sea\|Crimson Sea]], the [[Rose Sea\|Rose Sea]], and the [[Sapphire Sea\|Sapphire Sea]].
 
-
+#### Known settlements
 [[Kingsport\|Kingsport]]
 [[Shimmerbay\|Shimmerbay]]
 [[Filistrate City\|Filistrate City]]
 ### Sapphire Sea
 The Sapphire Sea borders the Verdant Sea.
 
-
+#### Islands of Lobu
 >“*It is a mark of pride among my people, and my family in particular, to execute an excellent hunt.*”
 \-Fort[19]
 
@@ -213,4 +213,4 @@ The [[Cognitive Realm\|Cognitive Realm]] of Lumar is "a little weirder than norm
 After he began envisioning Lumar's fluidized oceans, Brandon watched YouTuber Mark Rober's video  to confirm that the scientific concept was feasible.
 
 
-https://coppermind.net/wiki/Lumar
+https://coppermind.net/wiki/Seethe

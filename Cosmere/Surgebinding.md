@@ -70,17 +70,17 @@ Surgebinding is not innate to Rosharans, and can be gained in several ways. Orig
 The exact Surges that someone can manipulate depend on the specific Honorblade or Nahel bond that individual has, or which brand they belong to.
 Radiants often learn their "anti-clockwise" Surge first.
 
-
+#### Honorblade
 For more information, see [[Honorblade\|Honorblade]].
 **Honorblades** are the ten Shardblades that the Almighty originally gave the Heralds. Each of these Blades gives its wielder the ability to manipulate two Surges just like the Nahel bond, with [[Jezrien\|Jezrien's]] Blade giving Adhesion and Gravitation, etc. They can be wielded by anyone, and they do not require the safeguards the spren do to avoid abusing these powers. Honorblades consume far more Stormlight than the Nahel bond. They also do not grant the additional abilities of the Nahel bond.
 
-
+#### Nahel Bond
 For more information, see [[Nahel bond\|Nahel bond]].
 The **Nahel bond** is a symbiotic relationship between humans and [[Spren\|spren]], through which the human gains Surgebinding powers and the spren gains sapience in the [[Physical Realm\|Physical Realm]]. The spren choose the people they bond with according to the actions and personalities of those people. There are ten types of spren that bond with humans—each granting access to two of the ten Surges, with overlap between them—and each of these types are attracted to different attributes in their bondmates.
 Once the bond is established, the spren is pulled into the Physical Realm, although they retain very little intelligence and memories and act almost like lesser spren until the bond grows stronger. The strengthening of the bond is accomplished by the Surgebinder continuing to act in line with the attributes that attracted the spren in the first place, and swearing [[Immortal Words\|oaths]] that are related to those attributes. As the bond grows stronger, the spren regains their sapience, and the effectiveness of Stormlight for the Surgebinder increases. Once the bond is at sufficient strength, the spren can manifest as a [[Shardblade\|Shardblade]], and the eye color of the Surgebinder changes into the color their spren is associated with.
 If the Surgebinder acts in a manner conflicting with their oaths, the bond grows weaker until, eventually, the spren "breaks" and is trapped in a cycle of agony after having a significant portion of its consciousness ripped out of it, and their bondmate loses all Surgebinding abilities. If the spren "breaks" while in Shardblade form, it reverts to its basic sword form, and can be temporarily revived by being linked to the heartbeat of a person using it. Spren cannot "unbreak" on their own, but can be revived if their bondmates take up their oaths again. It is possible, but extremely difficult, for a spren to be healed without its bondmate. A Surgebinder dying without betraying oaths is a very traumatic event for a spren, but it does not cause it to be broken.
 
-
+#### Fused
 For more information, see [[Fused\|Fused]].
 A group of powerful [[Singers\|singers]] known as the Fused are able to Surgebind; however, they differ from the Knights Radiant in several ways. As their power is granted by Odium, they are powered by [[Voidlight\|Voidlight]] instead of Stormlight. There are only nine orders of them, rather than ten, and each has access to only a single Surge; Adhesion is considered to be "of Honor" and not accessible to Odium. Fused are not ordinary singers; they are [[Cognitive shadow\|souls of ancient singers]] who reincarnate into the bodies of willing, living singers and displace that soul. Each group of Fused, distinguished by its access to a unique Surge, is known as a brand.
 
@@ -215,4 +215,4 @@ Knights Radiant are an organization of Surgebinders with the Nahel bond who live
 
 
 
-https://coppermind.net/wiki/Progression
+https://coppermind.net/wiki/Gravitation

@@ -137,4 +137,4 @@ She will probably have a role, or at least a cameo, in future *Elantris* books.
 If she had joined the [[Knights Radiant\|Knights Radiant]], she would most likely have been in the [[Order of Edgedancers\|Order of Edgedancers]].
 
 
-https://coppermind.net/wiki/Wan_ShaiLu
+https://coppermind.net/wiki/Shay-I

@@ -58,7 +58,7 @@ Based on limited available information about cosmere standard measurements, Sel'
 ### Opelon/Sycla
 The story of *Elantris* and the short story *The Hope of Elantris* are both set on a continent on Sel called **Opelon** by those in the west and **Sycla** by those in the east. There is a vast desert to the south of the known nations of the continent.
 
-
+#### Fjordell Empire
 Most nations on Sycla have been subsumed into the [[Fjordell Empire\|Fjordell Empire]]. The empire is ruled by a leader known as [[Wyrn (title)\|Wyrn]], who is also head of [[Shu-Dereth\|Shu-Dereth]], which has been used as a vehicle to dominate nations. The Fjordell Empire is, on the surface, completely Derethi. However, many of the people of the empire, especially those in backcountry areas like Hrovell, still secretly follow their old religions, like the [[Jeskeri Mysteries\|Jeskeri Mysteries]].
 The Fjordell Empire is made up of the following nations:
 
@@ -72,16 +72,16 @@ The Fjordell Empire is made up of the following nations:
 [[Hrovell\|Hrovell]]
 [[Svorden\|Svorden]]
 
-
+#### Arelon
 Located to the west of the Fjordell Empire, [[Arelon\|Arelon]] is the only remaining independent nation on Opelon. The capital of Arelon is the city of [[Elantris (city)\|Elantris]], which is a monarchy ruled by the [[Elantrian\|Elantrian]] King [[Raoden\|Raoden]]. Under the king, there is a class of nobles who control various plantations throughout Arelon. Their primary function is to distribute food to the people of Arelon. Arelon controls the area to the west of the Atad Mountains, and south of the northern ocean. Arelon is mainly made up of followers of the [[Shu-Korath\|Shu-Korath]] religion, although there are still remnants of the old pagan religion that worshiped the Elantrians. There is also a small number of followers of the Jeskeri Mysteries.
 
 ### The Northern Continent
 There is another continent north of Opelon. No official name for this continent has been revealed.
 
-
+#### Teod
 The nation of [[Teod\|Teod]] is located on a small peninsula attached to the northern continent. The capital of Teod is Teoras, and its ruler is King [[Eventeo\|Eventeo]]. Teod's martial strength exists mainly in the form of its navy, which dominates the northern sea, protecting Teod's borders from the Fjordell Empire. Unlike the rest of the northern continent, Teod is within Opelon's cultural sphere of influence. For example, the nation's state religion is [[Shu-Korath\|Shu-Korath]], which originated in Opelon. The Teo people are also of [[Aonic\|Aonic]] descent and are therefore related to the [[Arelene\|Arelene]] and [[Dula\|Dula]] people of Opelon.
 
-
+#### Rose Empire
 North of the Teod peninsula, beyond the mountains, is the [[Rose Empire\|Rose Empire]]. This empire has many provinces, including but not limited to [[Mulla'dil\|Mulla'dil]], [[MaiPon\|MaiPon]], [[Dzhamar\|Dzhamar]] and [[Ukurgi\|Ukurgi]]. The empire maintains a little-used mountain pass that leads to Teod. Unlike Teod, the Rose Empire has limited cultural exchange with the nations of Opelon, though it has some diplomatic relations with [[Svorden\|Svorden]] and [[JinDo\|JinDo]]. By the time of the assassination attempt on Emperor [[Ashravan\|Ashravan]], they seem to have made contact with the Fjordell Empire, as a southern ambassador with [[Gyorn\|red priest's armor]] is present while [[Shai\|Shai]] is rushing through the palace. Certain segments of the population seem to have a concept of [[Realmatic Theory\|Realmatic Theory]].
 The story of [[The Emperor's Soul\|The Emperor's Soul]] is set in the Rose Empire.
 
@@ -132,4 +132,4 @@ Because of this, while travel to Sel is possible via the Cognitive Realm (for ex
 Initially, Brandon had the shadows of Elantris falling on the city of Kae at dawn. As Kae is to the east of Elantris, this indicated that the sun rises in the west on Sel. However, in the Anniversary Edition, this was identified as an error and corrected.
 
 
-https://coppermind.net/wiki/Opelon
+https://coppermind.net/wiki/Selish

@@ -37,4 +37,4 @@ Her first name is likely a reference to  in California. The name Fletcher is lik
 
 
 
-https://coppermind.net/wiki/Shasta
+https://coppermind.net/wiki/Ms._Fletcher

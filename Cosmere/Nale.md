@@ -112,11 +112,11 @@ Like all other Heralds besides [[Taln\|Taln]], in time Nale grew too exhausted t
 
  by  Egilde Art 
 ### Era of Solitude
-
+#### Living in Hiding
 At the end of the [[False Desolation\|False Desolation]] and shortly before the [[Recreance\|Recreance]], Nale and [[Kalak\|Kalak]] were both present at the capture of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], and thus witnessed the mental damage done to the singers. While Kalak came to regret this event happening, Nale's opinion on it is unknown.
 At some point, possibly after the [[Recreance\|Recreance]], Nale began working to prevent another Desolation from happening. Eventually, likely following the advice of Ishar, he came to understand this as eliminating every nascent [[Surgebinder\|Surgebinder]] other than the prospective Skybreakers, whose bonds he had the capacity to permit and deny. By the time of the reunification of [[Alethkar\|Alethkar]], he was still doing it, forming a methodology that agreed with his own sentiments: he would track down Surgebinders who had committed some kind of a crime, no matter how minor, and execute them under the pretense of punishment. Many [[Spren\|spren]] were aware of what he was doing, but were largley indifferent to it, seeing it as spren willing to bond getting what was coming to them.
 
-
+#### The Assassination of Gavilar Kholin
 >“*Tonight I found reason to have [Gavilar] killed, but it will take me months of planning to achieve the proper legality.*”
 \-Nale[22]
 
@@ -126,18 +126,18 @@ A few hours before the feast began, Nale stumbled upon [[Venli\|Venli]] and [[Ul
 During the feast, Nale, once more accompanied by [[Kalak\|Kalak]], met with Gavilar to discuss the king's progress. When the Queen [[Navani Kholin\|Navani Kholin]] walked into the room to question Gavilar's absence from the feast, Nale took it as an opportunity to take his leave, dragging Kalak along with him, perhaps still furious with what Venli had told him. The same night, the two of them briefly spoke with [[Elhokar Kholin\|Elhokar Kholin]], then left the feasting hall and stumbled on [[Jasnah Kholin\|Jasnah Kholin]], whom Nale treated rather coldly before moving on.
 
  by  LittleGreyDragon  [[Lift\|Lift]] hugging Nale in the [[Everstorm\|Everstorm]]
-
+#### Hunting Surgebinders
 Following the feast, Nale continued his trail of murder, killing the [[Truthwatcher\|Truthwatcher]] [[Ym\|Ym]] for a forty-year-old crime. Afterwards, he focused his efforts on the [[Edgedancer\|Edgedancer]] [[Lift\|Lift]], tracking her down all the way to the royal palace of [[Azimir\|Azimir]]. While he managed to catch her, and fill out the proper paperwork to have her killed, [[Gawx\|Gawx]] died in the process and Lift managed to heal the boy. This led to Gawx being pronounced the new [[Prime Aqasix\|Prime Aqasix]] and pardoning Lift, which in turn forced Nale to relent, as he had no excuse to kill her anymore.
 Nale briefly returned East for the [[Battle of Narak\|Battle of Narak]], where he caught and revived recently-killed [[Szeth\|Szeth]]. He proceeded to recruit the [[Shin\|Shin]] and gave him [[Nightblood\|Nightblood]], which he had acquired at an unknown point in the past. Afterwards, he took Szeth with him back West on another hunt, this time to [[Yeddaw\|Yeddaw]], to track down yet another budding Surgebinder. He successfully found the Truthwatcher [[Arshqqam\|Arshqqam]], but before he could kill her, Lift confronted him just as the [[Everstorm\|Everstorm]] was approaching. The combination of the storm and Lift's words managed to get through to Nale as he realized that his plan had failed, and that he had killed for nothing.
 
 ### True Desolation
-
+#### Joining the Singers
 Following the Everstorm, Nale had a minor breakdown, leaving for parts unknown for several weeks before coming back for Szeth, dropping him off at the Skybreaker training grounds, then leaving again to seek Ishar's guidance. Whatever Ishar had told him worked well enough to calm Nale down, enough so that he was back to his confident self when he returned months later.
 He took all the Skybreakers with him south, to [[Marat\|Marat]]. There, he told them the truth of Aharietiam and the origins of the Desolations. Afterwards, they went further, to [[Thaylen City\|Thaylen City]], though only Nale and Szeth were present during the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. As they watched, Nale informed Szeth that he intended for the Skybreakers to follow the singers, as they were the original owners of Roshar. However, he did not participate in the battle.
 Initially, Nale attempted to convince Szeth to do the same. When the Shin chose to follow [[Dalinar Kholin\|Dalinar Kholin]] instead, Nale had no hard feelings about it, and promised to return later to teach Szeth the [[Surge\|Surge]] of [[Division\|Division]]. He then departed, though it's uncertain where to.
 
  by  Esther Schrader 
-
+#### The Emuli Frontline
 >“*How are you a Bondsmith? You should not exist, Blackthorn. Your cause is not righteous. You should be denied the true Surges of Honor.*”
 \-Nale to Dalinar[10]
 

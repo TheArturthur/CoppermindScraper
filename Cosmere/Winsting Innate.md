@@ -43,4 +43,4 @@ Winsting's death was reported on in a rather sensationalistic manner by the Elen
 
 
 
-https://coppermind.net/wiki/Winsting_Innate%27s_mansion
+https://coppermind.net/wiki/Winsting_Innate

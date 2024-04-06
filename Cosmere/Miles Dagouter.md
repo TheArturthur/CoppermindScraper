@@ -234,4 +234,4 @@ This is also another place where Brandon wants to explore themes of how men act 
 If Miles were somehow to be severed perfectly in half and he attempted to heal himself, his spirit would randomly choose a half of his body from which to regrow a new half of his body.
 
 
-https://coppermind.net/wiki/Miles_Dagouter
+https://coppermind.net/wiki/Miles

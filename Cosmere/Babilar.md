@@ -34,4 +34,4 @@ For all residents, see here.
 [[Sam (Reckoner)\|Sam]]
 
 
-https://coppermind.net/wiki/Babylon_Restored
+https://coppermind.net/wiki/Babilar

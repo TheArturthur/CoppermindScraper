@@ -44,4 +44,4 @@ In recent years [[Autonomy\|Autonomy]] attempted to invade the system, however t
 
 
 
-https://coppermind.net/wiki/Scadrian_System
+https://coppermind.net/wiki/Scadrian_system

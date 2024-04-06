@@ -1,11 +1,11 @@
-| **Fort**            |                                      |
-| ------------------- | ------------------------------------ |
-| by  Marie Seeberger |                                      |
-| **Profession**      | Pirate, cook, trader, hunter         |
-| **Birthplace**      | [[Islands of Lobu\|Islands of Lobu]] |
-| **Homeworld**       | [[Lumar\|Lumar]]                     |
-| **Universe**        | [[Cosmere\|Cosmere]]                 |
-| **First Appeared**  | *Tress of the Emerald Sea*           |
+|**Fort**|
+|-|-|
+|by  Marie Seeberger |
+|**Profession**|Pirate, cook, trader, hunter|
+|**Birthplace**|[[Islands of Lobu\|Islands of Lobu]]|
+|**Homeworld**|[[Lumar\|Lumar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*Tress of the Emerald Sea*|
 
 This article deals with the trader from Lumar. For the Threnodite forts, see [[Fortress Town\|Fortress Town]].
 **Fort** is a cook and trader on the *Crow's Song*, and later the *Two Cups*, on [[Lumar\|Lumar]]. He is deaf, and communicates using a piece of [[Nalthis\|Nalthian]] technology he obtained by trading with an unknown worldhopper.

@@ -59,7 +59,7 @@ Herdazian cuisine uses mostly a wide variety of shellfood, as well as flatbread.
 ### Language
 Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning.
 
-
+#### Terms
 *calah* - An old Herdazian term for .
 *chorlano* - unknown meaning, used by Lopen to refer to [[Huio\|Huio]]
 *chortana* - a woman, possibly an intimidating or powerful one
@@ -96,4 +96,4 @@ Herdaz's size is roughly similar to that of , or about half of .
 Brandon created Herdazians after his wife noted that there are very few Hispanic cultures in fantasy worlds. In particular, some elements of Herdaz are inspired by Mexico.
 
 
-https://coppermind.net/wiki/Herdaz
+https://coppermind.net/wiki/Herdazian

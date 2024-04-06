@@ -48,4 +48,4 @@ As the Luhel bond is referred to by [[Hoid\|Hoid]] as the manner in which aether
 
 
 
-https://coppermind.net/wiki/Luhel_Bond
+https://coppermind.net/wiki/Luhel_bond

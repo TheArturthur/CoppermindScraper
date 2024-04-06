@@ -85,4 +85,4 @@ Austre may be a very old Returned.
 
 
 
-https://coppermind.net/wiki/Austrism
+https://coppermind.net/wiki/Austre

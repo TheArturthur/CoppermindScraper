@@ -25,4 +25,4 @@ The Marewill flower was chosen as the basis of the [[Ghostbloods\|Ghostbloods']]
 
 
 
-https://coppermind.net/wiki/Marewill_flowers
+https://coppermind.net/wiki/Flower_picture

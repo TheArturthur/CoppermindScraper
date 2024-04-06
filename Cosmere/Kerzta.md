@@ -38,4 +38,4 @@ Most people in Kerzta follow [[Ker'reen\|Ker'reen]], which calls for worship of 
 
 
 
-https://coppermind.net/wiki/Kerzta
+https://coppermind.net/wiki/Kli

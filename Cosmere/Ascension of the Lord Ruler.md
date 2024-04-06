@@ -36,7 +36,7 @@ Rashek was given knowledge of [[Lerasium\|Lerasium]], nuggets of metal in the Ch
 ### Hemalurgy
 While Rashek still held the power of the Well, he created three Hemalurgic Constructs: [[Koloss\|koloss]], [[Kandra\|kandra]] and [[Steel Inquisitor\|Steel Inquisitors]].
 
-
+#### Kandra
 During the time he held the power of the Well, he changed all other living [[Feruchemist\|Feruchemists]] into [[Mistwraith\|Mistwraiths]] and his close friends into the first generation of [[Kandra\|Kandra]]. He did this because he saw and understood that someone with the full power of [[Allomancy\|Allomancy]] and Feruchemy (like him) would challenge his supremacy.
 
 

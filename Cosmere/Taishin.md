@@ -206,4 +206,4 @@ In the final vote of the Taishin the Lady Mason voted for the Diem, saying that 
 In the [[White Sand (prose)\|prose]] the Taisha of the Mason's guild was male and was named Selcomb. He used representatives to attend the Taishin meetings so that he would not need to leave Nor'Tallon.
 
 
-https://coppermind.net/wiki/Lord_Merchant
+https://coppermind.net/wiki/Lady_Mason

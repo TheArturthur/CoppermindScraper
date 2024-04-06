@@ -12,4 +12,4 @@ The public elevators that can take people and cargo to the surface can be found 
 
 
 
-https://coppermind.net/wiki/Igneous_Cavern
+https://coppermind.net/wiki/Igneous

@@ -61,7 +61,7 @@ Sand mastery can also be used to construct buildings, though this has not been p
 ### Overmastery
 Overmastery occurs when a sand master overexerts themselves and uses too much of their water supply, resulting in dehydration. When overmastering, a sand master's mouth will go dry and their eyes will burn. After overmastering, a sand master's powers will temporarily disappear, which can last as long as a week. During this time, when they attempt to sand master, the sand will immediately turn black. Once they recover, a sand master's power will increase, similar to how exercising muscles until they are sore will make a person stronger. Each time a sand master overmasters, the strength they can obtain yields diminishing returns. If a sand master is not careful, overmastery can lead to death. If a sand master dies from overmastering, their skin and eyes will dry up as the water is sucked out of their body and they will die from dehydration.
 
-
+#### Overburn
 If overmastery is kept up for too long, an accomplished sand master under extreme duress can push themselves far beyond overmastery into what the Diem calls overburning. This comes when the sand master feeds the sand the last drops of water from their body and then gives up their lifeforce to the sand in exchange for one final explosive command.
 
 ### Terken

@@ -109,4 +109,4 @@ For a full list of Surgebinders, see :Category:Surgebinders.
 The word "Nahel" is a Rosharan word that means "the bond to divinity", while the word "bond" was added to the term to avoid confusing readers. Assuming the Luhel bond comes from the same root, it can be assumed that the root *-hel* indicates a bond to something, and *na-* relates to divinity.
 
 
-https://coppermind.net/wiki/Nahel
+https://coppermind.net/wiki/Nahel_bond

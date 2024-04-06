@@ -13,4 +13,4 @@
 He is a cameo for [[Dan dos Santos\|Dan dos Santos]], one of the people that create art for [[Brandon\|Brandon's]] works.
 
 
-https://coppermind.net/wiki/Dandos_Heraldin
+https://coppermind.net/wiki/Oilsworn

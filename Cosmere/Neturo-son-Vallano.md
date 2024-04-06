@@ -53,4 +53,4 @@ Szeth greatly respected his father and considered him a gentle, wise man. When S
 An early concept of the character that became Neturo is briefly mentioned in *The Way of Kings Prime* when Jek (the prototype for Szeth) notes that he is skilled in the art of stealth killing due to extensive training with his father.
 
 
-https://coppermind.net/wiki/Neturo
+https://coppermind.net/wiki/Neturo-son-Vallano

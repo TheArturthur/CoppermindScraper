@@ -72,18 +72,18 @@ Paul has no combat experience prior to facing off against [[Evermouth\|Evermouth
 
 ## History
 ### Childhood
-
+#### Sibling
 As a child, Paul and his sister, Nikka, were inseparable. Paul would look after his younger sister, and play games with her. After the death of their father, [[Zoran Tanasin\|Zoran Tanasin]], they soon forgot they had a father. One day, the two of them snuck into their father's office, and found a portal to [[Mirandus\|Mirandus]]. Going through, they found a place where they felt comfortable and could have fun. Nikka accidently stepped on a mine and Paul, acting instinctively, used the power of the Dark One to kill and bind her soul to the necklace she was wearing. Sometime after this, Paul started to forget he ever had a sister.
 
 ### Young Adult
-
+#### Therapy
 Prior to the meeting with [[Dr. Marcus\|Dr. Marcus]], Paul moved out of his home after making a deal with his mother to see the doctor in exchange for getting his own place. During an emergency session with Dr. Marcus after a panic attack in a cafe, Paul was attacked by a knight, Sir Ysla, who Paul killed using his newfound power. In the process of killing the knight, Paul was transported to Mirandus.
 
-
+#### The Truth
 After arriving on Mirandus, Paul met Feotora, who started to lead Paul back to the [[Kingdoms of Light\|Kingdoms of Light]] once he managed to convince her that he was not a [[Drull\|drull]]. They fought off a pack of Evermouths that were following them, and faced off against a group of drull before Feotora and the drull realized that Paul was the [[Dark One (title)\|Dark One]]. Surviving a fight with Feotora, the drull confirmed Paul as the Dark One while Feotora fled back to the Kingdoms of Light alone.
 One of the drull, [[Rastik\|Rastik]], after convincing Paul of the need, led Paul to [[Pitch\|Pitch]], [[Pitch\|the Black City]]. In the [[Dark Keep\|Dark Keep]], Rastik showed Paul to the [[Well of Sorrows\|Well of Sorrows]] and encouraged him to drink from it, and full take up the mantle of the Dark One. Just prior to Paul drinking from the well, Nikka showed Paul memories from their childhood involving their father's death, and how they discovered Mirandus for the first time. After reliving these memories, Paul drank from the well.
 
-
+#### Dark One
 After drinking from the well, Rastik led Paul to his armor and then offered himself up for Paul to draw power from. Paul killed Rastik to activate the [[Ironkeeper\|Ironkeepers]] to face the army of the light that had started attacking the city. Paul entered the battle and after almost being killed, defeated [[Kraisis\|Kraisis]], using his soul to raise more drull to fight for the dark. Feotora then insisted on fighting Paul, but was wounded and called a retreat of the light's army. After the battle, Paul spoke to the drull and promised to protect and care for them. After leaving the drull behind for some time alone, Paul was magically pulled to a courtroom on [[Earth (Dark One)\|Earth]]. Here he was taken into custody by police who believed him to have been holding [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] and the other people in the room hostage. He was dragged from the courtroom, powerless.
 
 ## Relationships

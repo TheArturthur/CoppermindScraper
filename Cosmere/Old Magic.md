@@ -70,12 +70,12 @@ The precise wording of her request is unknown, but [[Lift\|Lift]] believes that 
 [[Taravangian\|Taravangian]] claims to have asked the Nightwatcher for, "Capacity. Capacity to stop what was coming. The capacity to save humankind." Cultivation personally intervened when he asked for his boon. As a result, Taravangian's level of intelligence varies from day to day. This enabled him to write the [[Diagram (literature)\|Diagram]] on a day of particularly notable intelligence. He believes that his curse is a level of compassion inversely proportional to his intelligence; he feels little to no compassion on days of high intelligence, contrasted with days of low intelligence and great compassion "to feel pain for what he had done." Some days he is as dull-minded as a [[Parshman\|Parshman]] and brought easily to tears as he realizes decisions he makes may bring death to innocents, while on others he is more intelligent and able-minded than the greatest scholar but regards everything he is ordering done with cold logic and an eye for the bigger picture of Roshar. The change in intelligence and compassion will still happen even if Taravangian is awake and conscious in the middle of the night.
 
 ### Av's family
-
+#### Av's Brother
 **Boon:** Unknown
 **Curse:** Numb hands
 [[Av\|Av's]] brother's boon is unknown, as he was too embarrassed to share what he asked for. As a curse, both his hands became numb.
 
-
+#### Av's Father
 **Boon:** A heap of good cloth
 **Curse:** Seeing the world upside down
 Av's father received a heap of good cloth, which he sold to keep his family from starving during the lurnip famine. As a curse, he sees the world upside down. The rest of Av's brothers also went, as well as his mother. According to him, all of them except his father regret their curse.

@@ -24,7 +24,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 ## Attributes and Abilities
-
+#### Shardwielding
 Thude has trained with both a [[Shardblade\|Shardblade]] and a set of [[Shardplate\|Shardplate]]. He is capable enough with them that [[Eshonai\|Eshonai]] considers him to be the best candidate for them should she die.
 
 ## History

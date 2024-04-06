@@ -52,4 +52,4 @@ Rillir began courting Laral upon his arrival in Hearthstone; this was presumably
 
 
 
-https://coppermind.net/wiki/Rillir_Roshone
+https://coppermind.net/wiki/Rillir

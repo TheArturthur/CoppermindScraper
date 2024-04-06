@@ -15,4 +15,4 @@ Keep Hasting is the location of a number of [[Luthadel\|Luthadel's]] balls. It c
 
 
 
-https://coppermind.net/wiki/Keep_Hasting
+https://coppermind.net/wiki/House_Hasting

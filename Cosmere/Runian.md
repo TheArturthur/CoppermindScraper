@@ -53,4 +53,4 @@ John first met Sefawynn when he was captured just after his arrival to the dimen
 
 
 
-https://coppermind.net/wiki/Runian
+https://coppermind.net/wiki/John_West

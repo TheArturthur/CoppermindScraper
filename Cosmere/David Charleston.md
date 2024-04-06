@@ -83,7 +83,7 @@ Energy Beams: Like [[Steelheart (Epic)\|Steelheart]], David can project energy b
 The Ocean: David used to fear the depths, but he has brought his fear under control; in practical terms, what David describes as an uneasy truce. It was revealed that this fear was exaggerated by Calamity when he gave David the powers of [[Steelheart (Epic)\|Steelheart]], but after confronting it, his fear returned to normal. It is unclear if this would affect David anymore, with [[Calamity (Epic)\|Calamity]] gone.
 ## History
 ### Newcago
-
+#### Childhood
 >“*My education mostly involved learning to avoid gangs and how to keep my head down at school.*”
 \-David[31]
 
@@ -94,7 +94,7 @@ After graduating from the Factory, David took on a job as a cab driver. However,
 >“*You know, David, you really need to start thinking your plans through a little more carefully.*”
 \-To himself[24]
 
-
+#### Joining the Reckoners
 David managed to track down the [[Reckoners\|Reckoners]], a rebel group fighting against the [[Epic\|Epics]], by anticipating where and against whom they would strike next. He found [[Megan Tarash\|Megan Tarash]], a member of the Reckoners, at the [[Reeve Playhouse\|Reeve Playhouse]] seducing [[Fortuity\|Fortuity]]. When another Epic named [[Curveball\|Curveball]] appeared, David assumed that the plan was going awry and intervened. He drew Curveball away from Megan and Fortuity by pretending to be one of [[Spritzer\|Spritzer's]] employees, but he accidentally gave himself away when he mentioned a [[Eddie Macano\|man]] Curveball knew to be dead. Curveball pulled his gun on David, and the commotion caused Fortuity to flee. Megan killed Curveball, then briefly confronted David before giving chase. She initially left David behind by convincing him that a sniper on her team would kill him if he moved, but he realized there was no sniper when no one acted to save her from some of Spritzer's men who arrived on the scene. After Megan and David took down Fortuity, the rest of the Reckoner team picked them up in a garbage truck and took them back to their base in the steel catacombs below the city.
 
 >“*Your work means something! But it's not enough! So long as the most powerful of the Epics consider themselves immune, nothing will change.*”
@@ -102,7 +102,7 @@ David managed to track down the [[Reckoners\|Reckoners]], a rebel group fighting
 
 David eventually convinced them, against their usual protocol, to let him join. He told them that he had seen Steelheart bleed and got them to entertain the idea of targeting Steelheart next. The Reckoners were alarmed to discover that he had handwritten notes on various Epics and on themselves back at his apartment. Though they originally wanted to blow up his entire apartment building, David talked them into letting him go retrieve the notes. Cody and Megan accompanied him, and David was able to warn them of the presence of [[Refractionary\|Refractionary]] as they surveyed the area around his apartment. They agreed to let him enter his apartment and serve as bait, with the ultimate goal of taking out Refractionary. As David gathered up a backpack of his possessions and notebooks, a [[Enforcement\|Core]] arrived to arrest him. One of the members, [[Roy\|Roy]], tried to intervene, but as the team was discussing his acquaintance with David, Cody and Megan sniped the two men with Roy. After shooting Roy in the thigh, David took the boy's mobile and called Refractionary to help Cody and Megan locate her. Megan was able to take her down, and David burned his source materials that he had to leave behind. He lied to Roy about working for a new Epic called [[Limelight\|Limelight]] before leaving. They went back to the Reckoner base, where everyone looked through David's notebooks. Impressed by his information, the Reckoners allowed David to outline his plan against Steelheart and agreed to try it.
 
-
+#### Drawing out Steelheart
 David began learning how to use the tensors, and then Prof sent him along with Abraham and Megan to buy some arms from [[Diamond\|Diamond]]. Just as they wrapped up their deal with Diamond to buy the gauss gun, [[Nightwielder\|Nightwielder]] arrived. While Abraham and Megan worked on digging their way out of the back of Diamond's shop using a tensor, Nightwielder heard them. David came out of hiding, pretending to be an employee who had made the noise while working on a gun, and gave Diamond Abraham's gun to sell to Nightwielder to allay the Epic's suspicion at the blank stretch of wall that had just held the gauss gun. He managed to get video evidence of Nightwielder becoming corporeal in UV light but then quickly had to flee with the others. When the group got back to the base, David and Prof discussed further alterations to their plan and decided to hit the power plant next.
 
 >“*Ponder. Worry. Stay up nights, frightened for the casualties of your ideology. It will do you good to realize the price of fighting.*”
@@ -114,7 +114,7 @@ Tia located the old First Union Bank vault, so the whole team went to look at it
 >“*Prof, you said that you worry our failure will depress people. I don't see that. They’ll hear our story and realize that there’s an option other than doing what the Epics command.*”
 \-David[53]
 
-
+#### Confronting Steelheart
 After Steelheart sent out an invitation for Limelight to meet him in combat, David suggested [[Soldier Field\|Soldier Field]] as a good location. The team discussed their theories on Steelheart's weakness, David positing that he could be wounded by crossfire. He began to feel anxious and excited that the confrontation would finally happen. Per their plan, David and Cody dug extra tunnels under the stadium with tensors and created various rooms and pockets. David finished rigging up his sniper's nest with an escape route fifteen minutes prior to the Reckoners summoning Steelheart.
 When Steelheart and his soldiers arrived, it quickly became clear to the team that their preparations had been compromised. Nightwielder went after David, who ran into the stadium and was distracted by an image of Megan appearing in a hallway. He fought Nightwielder off, reporting his sighting of Megan to the team, but the Epic kept ambushing him as he attempted to get to the field to try shooting Steelheart with his father's gun. David ran into another "illusion" of Megan, but this one spoke to him, mentioning the word knees. Deciding not to shoot her, he instead grabbed onto her and discovered that she was real right as an explosion knocked him down. Realizing both that Megan had disappeared again and that Steelheart's team must be listening in on their conversation, David lured Nightwielder and Megan to him again and managed to kill Nightwielder. He understood suddenly that Megan had been Firefight all along. Megan appeared to just be coming back to full awareness, with memories of the past still trickling in, but in the end she let David go, and he went to join Prof. David helped cover Abraham and Cody's retreat to the copter, but then he ran out to the confrontation between Prof and Steelheart and shot the latter with his father's gun.
 
@@ -124,7 +124,7 @@ When Steelheart and his soldiers arrived, it quickly became clear to the team th
 
 The bullets failed to harm Steelheart, and Prof was forced to jump in and save David. Steelheart savagely attacked Prof, leading David to think that he was dead. As Steelheart advanced on him, David finally put together the Epic's weakness: someone who was not afraid of him. He quickly rigged the handgun to explode, pointing it at Steelheart so that the Epic would grab it and try to kill him with it. Steelheart did so and fired, killing himself in the explosion. Prof kept the explosion from harming himself and David, revealing to David that he was really an Epic. They discussed his powers and Megan's identity as Firefight, and then Prof handed David Steelheart's steel skull. As Prof waited on the field for Tia to bring the helicopter, David ran into the stadium again and sought out Megan. He tried to convince her to come with him, but she refused; failing that, he warned her not to use her powers for a while so her mind could clear. The copter arrived, and Prof called David out to the team. They flew away from Soldier Field as the citizens of Newcago gathered outside to look up at the sky in daylight.
 
-
+#### Mitosis
 >“*I'm here for the one they call Steelslayer, the child who supposedly killed Steelheart.*”
 \-Mitosis[61]
 
@@ -136,11 +136,11 @@ David hid briefly in a hotel, but the clones detected him and came after him. Ti
 \-Prof to David[65]
 
 
-
+#### Journey to Babilar
 David and the Reckoners continued to defend Newcago against Epics who would like to take over, many of whom targeted the team rather than Prof himself. David began to develop a reputation among the citizens of the city, and they largely regarded him with awe. The [[Briggs\|mayor]] came to talk to David after he successfully took down [[Sourcefield\|Sourcefield]], and she expressed concern over how long it had taken the Reckoners to deal with the Epic. In order to soothe her fears, David told her that the Reckoners had a final solution for dealing with all the Epics. Back at the base, Prof planned for David and Tia to accompany him to [[Babilar\|Babilar]] to investigate why [[Regalia\|Regalia]] was sending Epics to Newcago to target them. David was eager to go when he heard that Megan was in Babilar, and he refused to believe in her culpability when Prof told him that she had killed [[Sam (Reckoner)\|Sam]], one of the Reckoner team out there. Prof got angry with David for pushing the team so far when he insisted that recruiting Megan and other Epics was the way forward. After packing, replacing his rifle, and receiving a [[Faithful\|pendant]] from Abraham, David left with Tia and Prof.
 During the three days' drive to Babilar, David read notes on various Epics and theorized about a pattern to their weaknesses. He met [[Valentine\|Val]], [[Exel\|Exel]], and [[Mizzy\|Mizzy]] in New Jersey, where they took a boat across into Babilar. On their way into the city, the group went to administer aid after a set of explosions. Regalia appeared by David and Prof, admitting that she had brought [[Obliteration\|Obliteration]] to town in order to lure Prof there; after she left, David convinced Prof to go after Obliteration. He and Mizzy took point, distracting Obliteration and causing him to teleport over and over again. They all discussed a possible weakness and in the end decided to try to stick a bomb to him, then get him to teleport away with it before it blew. Mizzy prepared the bomb, which David then retrieved. Obliteration soon appeared beside David, granting him the opportunity to stick the bomb to the Epic. However, he overpowered David and stripped him of weapons and electronics before taking the bomb off of himself. Obliteration strapped a weight to David's leg and pushed him into the water. Someone jumped in and saved him from drowning by ridding him of the weight, and he managed to haul himself up onto the building; only when he was leaving with the rest of the team did he see someone in wet clothes nearby and realize that Megan was the one to save him.
 
-
+#### A Familiar Face
 David and the Reckoners, minus Prof, faced Regalia on their way to the [[Howard Righton's bunker\|base]]. Seeming confused not to find Prof there, Regalia explained that she meant to destroy the city and exhibited her powers by picking each of them up in tendrils of water. After she let them go, the group took a submarine down to the base, where David got a tour and then crashed. When he woke up, Prof called a meeting to discuss their plan to kill Regalia. David disagreed with Prof that they needed to kill her, and the two argued about it both before and after the meeting. Two days later, Exel and Mizzy asked David to come with them into the city to talk to people, so he went with them to a [[Party in Babilar\|party]]. There, he felt very out of place until he spotted [[Newton\|Newton]] and began tailing her. Mizzy tried to talk David into relaxing, but he ended up following Newton and overhearing her conversation with Obliteration. Inadvertently making a noise while listening in, he realized Megan was there with him when the two Epics looked his way and failed to see him.
 
 >“*This time, when she'd pointed it at me, she'd flicked the safety on. If that wasn't true love, I don't know what was.*”
@@ -154,7 +154,7 @@ Back at the base, David spoke with Tia about the research she was doing into Epi
 
 David and Megan went to his room, where Megan told him that abstaining from using her powers had helped recover her empathy. She described the feeling that urged her to use her powers, and David explained his theory about Epic weaknesses. They started kissing right when Tia walked in to ask David to plant a camera on Obliteration, so Megan hid under the bed. David distracted Val long enough for Megan to sneak onto the submarine, and then the three of them headed into the city. When they surfaced from the sub, David invited Megan to go with him on his mission. On the way, she explained to him the true nature of her powers, and he told her about his plan to kidnap an Epic. Megan stayed behind to spot with David's rifle while he planted the camera. Over their phone connection, she told David that her weakness was fire. David spoke with [[Dawnslight\|Dawnslight]] via his fortune cookies, reassuring the Epic that he wasn't dreaming. After accidentally attracting [[Knoxx\|Knoxx's]] attention, David hatched a plan to kidnap him. He managed to subdue Knoxx in the end, but Val arrived and confronted David betraying them with Megan, shooting him in the thigh. She killed Knoxx and then tried to kill David, but Prof arrived and intervened. Prof forced David to tell Megan everything was alright, and then they took him back to the base.
 
-
+#### Revelations
 >**Regalia**: "*It doesn't matter if you're interested or not! You don't get a choice.**"***David**: "*Made one anyway. Thanks, though. Nice of you to think of me.**"*
 \-Regalia: "It doesn't matter if you're interested or not! You don't get a choice.
 "
@@ -201,4 +201,4 @@ David runs point most of the time.
 David has killed many Epics, including [[Nightwielder\|Nightwielder]], [[Steelheart\|Steelheart]], [[Mitosis\|Mitosis]], [[Instabam\|Instabam]], [[Sourcefield\|Sourcefield]], [[Newton\|Newton]], [[Regalia\|Regalia]], [[Wiper\|Wiper]], [[Loophole\|Loophole]], and maybe [[Calamity (Epic)\|Calamity]].
 
 
-https://coppermind.net/wiki/David
+https://coppermind.net/wiki/David_Charleston

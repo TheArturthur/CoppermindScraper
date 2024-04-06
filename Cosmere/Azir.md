@@ -104,11 +104,11 @@ At some point following the collapse of the Silver Kingdoms, Makabakam splintere
 Throughout history, the Alethi attempted to conquer Azir many times, and came to be known to them as the Tagarut. Each time, they were able to fend them off. These invasions exist recorded in the form of legend, as it is from an era were historical record is slim and ambiguous.
 Legends exist which refer to a dynasty known as the [[Ulutu Dynasty\|Ulutu Dynasty]], which lasted for at least fifteen emperors. It is unclear if this was an actual historical entity, or if it exists only in legend.
 
-
+#### Sadees's Occupation
 [[Sadees\|Sadees]] the Sunmaker, the infamous [[Alethkar\|Alethi]] warrior, conquered Azir as part of his bid to take over the entire continent during the reign of [[Prime Aqasix\|Prime Aqasix]] [[Snoxil\|Snoxil]]. The occupation was extremely violent: up to ten percent of the country's population died, many of them due to Sadees seemingly seeking to eradicate the Azish. In some areas, Sadees ordered a certain number of executions a day. In others, he declared all men with hair at a certain length to be killed. Sadees rationalized this by claiming that the Azish were uncivilized since they did not use [[Lighteyes\|eye color]] as a basis for their social hierarchy.
 Following Sadees's passing, his kingdom was split between his sons. Without a true leader, the empire was stretched too thin, and the Azish regained their independence.
 
-
+#### Post-Occupation Azir
 In the centuries since Sadees's conquest, Azir rose to the position of the cultural and political center of [[Makabak\|Makabak]]. Many of the surrounding Makabaki nations became client states to it, leading to the formation of the Azish Empire — a semi-formal name for the group of states led by the [[Prime Aqasix\|Prime Aqasix]] in all international matters.
 The peace of the empire was broken in the final year of the [[Era of Solitude\|Era of Solitude]], as the [[Assassin in White\|Assassin in White]] killed two Primes in a row, leaving the country in a succession crisis as all prospective candidates attempted to avoid the position. This ended the night that a group of thieves, including [[Lift\|Lift]] and [[Gawx\|Gawx]], attempted to rob the [[Bronze Palace\|Bronze Palace]]. After Gawx was seemingly killed, Lift revived him using her nascent [[Surgebinding\|Surgebinding]] power of [[Regrowth\|Regrowth]]. To the assembled courtiers, unaware of Lift's involvement, this was a miracle that proved that Gawx was the Prime they were looking for. Thus, he was crowned as [[Yanagawn\|Yanagawn]] the First.
 
@@ -157,7 +157,7 @@ In times of peace, the fleet's duty is to patrol "the grand waterway" — an uns
 Their army is divided into battalions, which have both numbers and name designations, such as Red and Gold for the Thirteenth Battalion. A single battalion is comprised of about one thousand soldiers.
 Little is known about their cavalry. Units are led by officers called cavalrylords.
 
-
+#### General
 The position of general requires passing a number of tests, and [[Dalinar\|Dalinar]] theorizes that the officers with practical expertise tend to fail them on purpose so that they may retain field command. Azish military leaders have a poor reputation in [[Alethkar\|Alethkar]] and are considered little more than military historians and theorists. However, the generals are actually highly practical people, and their advice is usually astute.
 
 ### Armour and Uniforms

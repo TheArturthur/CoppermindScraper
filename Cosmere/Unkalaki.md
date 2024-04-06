@@ -177,4 +177,4 @@ Unulukuak'kina'autu'atai - One of [[Shallan\|Shallan's]] aliases, meaning yet un
 The Unkalaki peoples are a mixture of Hawaiian, Scottish, and Russian cultures.
 
 
-https://coppermind.net/wiki/Unkalaki
+https://coppermind.net/wiki/Horneater

@@ -108,7 +108,7 @@ The **Final Empire** was the major state on [[Scadrial\|Scadrial]] for over 1000
 ## Geography and Ecology
  by  Isaac Stewart  Map of the Final Empire
 ### Geography
-
+#### Location
 The Final Empire was located in the northern hemisphere. It was bordered on all sides by the [[Burnlands\|burnlands]], inhospitable deserts with temperatures too hot for survival. The border areas between the Final Empire and the burnlands were sometimes referred to as the "wastes".
 Notable lakes and seas inside the Final Empire include the [[Tyrian Sea\|Tyrian Sea]], [[Lake Luthadel\|Lake Luthadel]], the [[Black Lake\|Black Lake]] and [[North Seran\|North Seran]]. There are a number of large mountains in the Final Empire called [[Ashmounts\|Ashmounts]]. The Empire also contains a number of mountain ranges, the most notable of which is called the Terris range.
 The Final Empire also included multiple islands like the [[Southern Islands\|Southern Islands]] and [[The Shrouded Isles\|The Shrouded Isles]].
@@ -119,11 +119,11 @@ The Final Empire also experienced ashfalls, the raining down of the ash in the s
 Every night, shortly after sunset, the Mists appeared. These Mists seem natural, but are in fact [[Preservation\|Preservation]]’s gaseous investiture. The Mist is important to the cultures of both the Skaa and the noblemen.
 
 ### Ecology
-
+#### Flora
 The Final Empire contains many different types of Flora. Most of the Flora was created and designed to survive the Ashfalls.
 The Lord Ruler designed new plants that could break down the falling ash in order to prevent the ashfalls from covering the world. The plants in the Final Empire are usually brown. This was due to the Lord Ruler altering their physiology to be able to use more wavelengths of light (such as green light, which is normally reflected) to compensate for the loss of light caused by the ash. Since the plants' light absorption still wasn't fully efficient, the plants became brown instead of black.
 
-
+#### Fauna
 The Final Empire has many different types of animals. Most of these animals were created after [[Rashek\|Rashek]]’s Ascension, and were designed to survive and thrive in the ash. Some species from before the ashfalls are still around however, such as horses and some types of dogs.
 The most notable animal in the Final Empire was the [[Mistwraith\|mistwraith]], a creature made of mostly muscle, which uses the bones of deceased animals to create unique skeletal structures for itself. They were created from all the living Feruchemists at the time of the Lord Ruler's Ascension. The Lord Ruler also created microbes that broke down the ash as part of their biological processes, in order to prevent the ashfalls from covering the world.
 The Final Empire also contains multiple species made through Hemalurgy. These species are the [[Kandra\|kandra]], [[Koloss\|koloss]], and [[Inquisitors\|Inquisitors]].
@@ -145,7 +145,7 @@ He has absolute authority in the Final Empire. It must be noted however that he 
 The noble houses effectively rule the empire, although they are policed heavily by the Steel Ministry. The houses control imperial trade and also enslave the majority of the Empire’s Skaa population.
 Most noblemen are provincial lords, owning plantations that produce food or other products. Most of these lords seem to live on their plantations, although a lot of them also live in nearby cities, controlling their plantations from a distance away.
 
-
+#### Great Houses
 The Great Houses are the most prominent noble families in the Final Empire, notable for their ability to build a keep and maintain a high-profile presence in Luthadel. This is made difficult by the Lord Ruler's keep tax. Country nobility resent the Great Houses for their control of the canal systems. The Great Houses get to buy a monthly stipend of atium, one of the main ways that the Lord Ruler controls them.
 A major house war between the Great Houses tends to happen every couple of centuries or so. House Wars are primarily political. The last House War was devastating.
 
@@ -186,47 +186,47 @@ Luthadel is also the seat of the Lord Ruler. This upon itself makes it very impo
 ### People
 The Final Empire had somewhere around a hundred million citizens. A couple million of those lived in [[Luthadel\|Luthadel]].
 
-
+#### Ethnicity and Skin Color
 After a thousand years the peoples that initially formed the Empire lost most of their individual culture, with a few exceptions such as the Terrismen. Nonetheless they were still ethnically distinct.
 Many people in the southern dominances had darker skin than those in the inner Dominances. The [[Terris\|Terris]] people lived in the northern most Dominance, appropriately called the Terris Dominance. These people generally have a dark skin color, darker even than the people from the southern dominances. They have a lot of diversity in skin color. They are also, notably, a rather tall people.
 
-
+#### Social Caste
 The descendants of the people who originally supported the Lord Ruler during his rise to power are now the nobility of the Final Empire. The Lord Ruler and his allies had access to beads of [[Lerasium\|lerasium]], and gained Allomantic powers. Because of this, certain nobles gain the use of Allomancy. There is a wide range of nobles, from the high houses to the impoverished.
 Skaa descend from people who did not support the Lord Ruler. When he ascended, the skaa were changed so they were more fertile. Skaa cannot become Allomancers unless they have noble blood recently in their lineage. Skaa are essentially slaves, property for nobles to exchange between them, although they are ultimately owned by the Lord Ruler. The best-off skaa are craftsmen or tradesmen. They and their families live in relative comfort, although only a few skaa have this privilege. Even the highest skaa are subject to the whims of the nobility. However, far from the center of the empire, skaa can own land and achieve wealth.
 
 ### Fashion and Beauty
-
+#### Noblemen
 [[Noble\|Noble]] fashion is heavily influenced by the [[Lord Ruler\|Lord Ruler]].
 Men generally wear sharp suits, of many different colors. They may also wear cloaks and carry dueling canes. The fashion around the year 1024 FE dictates that Noble suit coates should be long. Noblemen may also wear hats. They often carry metal jewelry, despite [[Allomancy\|Allomancy]].
 Women often wear elaborate gowns and dresses. These sets of clothing are often brightly colored, although some clothing is black or other muted colors. Most of a noblewoman’s clothing is made from silk. In place of a cloak for men, women use a shawl. Women are fond of jewelry, and often use them to change their appearance. Examples of jewelry used are barrettes, bracelets, earrings and necklaces. While they are often made of metal, some pieces of jewelry are made from painted wood to protect against Allomancers. During the year 1024 FE it is fashion for women to wear two starkly different colors of jewelry to provide contrast.
 
-
+#### Skaa
 [[Skaa\|Skaa]] often wear cheap clothing such as smocks, trousers, shirts and more. These clothes are often coloured black, grey or brown and it’s rare those a Skaa in colourful clothing.
 Skaa men and women often keep their hair short.
 
 ### Architecture
-
+#### Noble Keeps
 The largest dozen or so noble keeps are interspersed throughout Luthadel, these keeps are the homes of the high nobility. Other cities in the Final Empire also contain noble keeps however. The keeps are tall, four or five stories high. The noble keeps are also intricately decorated, with rows of spearlike spires and deep archways. It appears that these keeps all have large banquet halls inside them. The keeps are illuminated by powerful limelights. A token feature of noble keeps are the enormous, rectangular stained-glass windows.
 These keeps are often the location of large balls hosted by the nobility. They are the mark of a high noble family, any family who could afford to build a keep and maintain a high-proﬁle presence in Luthadel is considered to be a Great House.
 These keeps often have large open areas around them. They themselves look like solitary mountains rising above the rest of the landscape.
 
-
+#### Skaa City Tenements
 City [[Skaa\|Skaa]] live in large tenements. Most of these buildings are built from stone blocks, with simple, peaked wooden roofs. The structures are packed closely together, making them seem squat despite the fact that they are generally three stories high. The tenements are uniform in appearance. The patches of space amid the tenements are like clearings in a forest.
 
-
+#### Skaa Hovels
 The plantation [[Skaa\|Skaa]] live in large hovels. These buildings look moundlike and are unguarded. They are made of wood. Skaa hovels have a single room, they also have a firepit at the center upon which food is cooked. These hovels have little furniture, a few crude tables and chairs.
 
 ### The Metallic Arts
-
+#### Allomancy
 [[Allomancy\|Allomancy]] is known to both the [[Skaa\|Skaa]] and the [[Noble\|Noblemen]]. The Skaa, while having stories of it, have very limited actual knowledge of it and often describe mystical powers to Allomancy. The nobles meanwhile are very aware of its capabilities and limitations.
 Allomancy only appears in people with noble blood. This includes full blooded noblemen and Skaa with recent noble ancestry. This is because the noblemen are the descendants of [[Classical Scadrial\|ancient kings]] who ingested [[Lerasium\|lerasium]].
 The Lord Ruler is also an Allomancer. He gained Allomancy by using the Well of Ascemsion to make himself a mistborn. He uses Allomancy to great effect, constantly soothing and rioting people’s emotions. He also uses Allomancy to compound his Feruchemy, allowing for great feats of power.
 
-
+#### Feruchemy
 [[Feruchemy\|Feruchemy]] is seen in the [[Terris\|Terris]] people and in the [[Lord Ruler\|Lord Ruler]]. Among the Terris people are a group known as the [[Keeper\|Keepers]], full Feruchemists with the goals of collecting and spreading information. Other Terris people have the genes for Feruchemy as well, albeit buried deeply.
 The [[Lord Ruler\|Lord Ruler]] was a Feruchemist as well. He used Feruchemy to effectively become immortal, compounding his metals to gain extreme amounts of every attribute. The Lord Ruler, scared that another person would be born with both Allomancy and Feruchemy, tried breeding Feruchemy out of the Terris population, although some people worked hard to prevent this.
 
-
+#### Hemalurgy
 When the [[Lord Ruler\|Lord Ruler]] ascended he gained knowledge of the [[Metallic Arts\|Metallic Arts]], including [[Hemalurgy\|Hemalurgy]]. He used this knowledge to create servants for himself. Foremost among these servants were the [[Inquisitors\|inquisitors]], humans who had gained 9 to 11 spikes, granting them a wide range of abilities. He also created Koloss to serve as his soldiers, and Kandra to serve as his spies. The Lord Ruler himself was also spiked.
 
 ### Technology
@@ -234,28 +234,28 @@ When the [[Lord Ruler\|Lord Ruler]] ascended he gained knowledge of the [[Metall
 
 ## Military
 ### Armies
-
+#### Human armies
 The empire had a standing army around [[Luthadel\|Luthadel]] including a number of garrisons. The [[Luthadel\|Luthadel]] Garrison consisted of twenty thousand troops, mostly skaa, and many of the smaller towns in the [[Central Dominance\|Central Dominance]] had smaller Garrisons of their own, such as [[Valtroux\|Valtroux]] and [[Holstep\|Holstep]].
 The [[Canton of Inquisition\|Canton of Inquisition]] itself is trained to have formidable warriors, each member more than capable of overcoming any target. The Noble houses operate guardsmen, militias and armies when necessary.
 
-
+#### Koloss armies
 There is also a large amount of koloss, who are either under the control of the [[Lord Ruler\|Lord Ruler]] or a remote [[Inquisitor\|Inquisitor]].
 
 ### The Lord Ruler
 The Lord Ruler is a fullborn, someone who is a full Feruchemist and a Mistborn. As a fullborn he is extremely powerful, being capable of [[Compounding\|compounding]] his [[Feruchemy\|feruchemy]] and [[Allomancy\|Allomancy]]. Due to this he can slaughter entire armies by himself, and has done so before, nonetheless he still uses regular armies for almost everything.
 
-
+#### Kandra
 The Lord Ruler used the [[Kandra\|kandra]] as spies with the ability to accurately imitate and replace anyone whose skeleton is available.
 
 ## Economy
 ### Skaa
-
+#### Plantations
 The Empire is fed by the food produced on plantations, these plantations often contain a few hundred [[Skaa\|Skaa]] and a number of overseers. Each plantation is owned by a noblemen, who may or may not live on the plantation itself.
 
-
+#### Craftsmen
 Some Skaa work as craftsmen in cities. These Skaa have much better lives then regular city skaa, although they are still subject to the whims of the nobility.
 
-
+#### Other Jobs
 Most of the manual labour is done by [[Skaa\|Skaa]]. For example, they work jobs as builders and clear ash from the city streets. Skaa also operate canal boats.
 
 ### Currency

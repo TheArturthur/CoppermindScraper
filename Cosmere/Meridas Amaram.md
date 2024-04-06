@@ -198,4 +198,4 @@ In the original draft of *The Way of Kings Prime*, Amaram wields two Shardblades
 In a draft of *Words of Radiance*, [[Iyatil\|Iyatil]] successfully kills Amaram when he tries to retrieve [[Taln\|Taln]] from Dalinar's warcamp. In that same outline, Adolin does not kill Sadeas.
 
 
-https://coppermind.net/wiki/Meridas_Amaram
+https://coppermind.net/wiki/Amaram

@@ -139,29 +139,29 @@ Each Shard appears particularly predisposed toward acting in line with their int
 
 ### Individual Powers
  by  eyeronis  [[Ruin\|Ruin]] commanding a [[Steel Inquisitor\|Steel Inquisitor]]
-
+#### Movement
 Shards are capable of appearing in various parts of their own Invested worlds instantaneously. They can also travel to other planets by willing themselves to do so. However, when a Shard Invests its power in a world, it's bound to it and will have difficulty leaving the system it is in. Shards can also trap each other in systems, though the precise mechanics of that are unknown.
 
-
+#### Communication
 Shards have several ways of communicating with people. Some Shards can speak directly into the minds of others, while others can listen. A Shard can also communicate with a person directly through dreams or visions, and even take on a physical form -- a puppet of sorts, serving as a Physical outlet for communication. While the use of visions and speaking directly into a mind are limited to a single person, a puppet can be seen by many people.
 A Shard can also communicate directly with [[Cognitive Shadow\|Cognitive Shadows]].
 
-
+#### Mind Capacity
 Upon Ascension, the [[Vessel\|Vessel's]] mind will be greatly expanded, allowing a far greater capacity to think than a mortal could. A Shard is capable of bilocation -- being present in several places at once -- within its sphere of influence. As moments can pass like years to a Shard, they can also appear to think far faster than normal minds. Fundamental understanding of the cosmere, to the point of [[Axi\|axi]] and anti-axi, also comes as a result. They seem to possess flawless memory, with no obvious upper limit, as [[Sazed\|Sazed]] is able to absorb the tremendous amount of knowledge in his [[Metalmind\|metalminds]].
 However, contrary to what many believes, Shards are neither omniscient nor omnipresent. They can only appear at limited places at once, and can be distracted, deceived or surprised. It is also possible to block a Shard's senses away from a certain area. They are incapable of breaking a formal contract, at least not without seriously wounding themselves.
 
-
+#### Creating Sapience
 Shards can use their power to create complex **constructs**, capable of continuing their function past the Shard's death. Examples of such constructs are the snapping mists of [[Preservation\|Preservation]], and the vision journal of [[Honor\|Honor]]. Shards can also create sapient beings from their power -- this is most commonly seen on [[Roshar\|Roshar]], with its overabundance of [[Spren\|spren]]. Many of them, like the [[Stormfather\|Stormfather]], [[Nightwatcher\|Nightwatcher]], and [[Honorspren\|honorspren]] were created by local Shards.
 Shards can also create **avatars**, personas that can act independently of them. Avatars can be of any gender, race, and species, regardless of the original Vessel creating them, and can be formed at a considerable distance from the main body of the Shard, with many different avatars able to exist on a single planet. Though a Shard can create them directly, avatars can also form without a conscious decision on the Shard's part, though the Shard is still aware of what is happening. When created directly, however, they can be instilled with specific traits. Some avatars are self-aware, while others are not, although the parent Shard will always be aware. Though some would call these avatars Splinters, it is not clear whether they truly fit the definition.
 Avatars are, in a way, considered to be Shards in their own right. Known ones include [[Patji (being)\|Patji]] and the [[Sand Lord\|Sand Lord]], both of [[Autonomy\|Autonomy]]. It is difficult but possible for someone to become a Vessel of an avatar.
 Shardic power is also directly related to sentience and sapience. The close presence of a particular Shard, such as [[Cultivation\|Cultivation]], can lead to some beings developing higher levels of sapience. Shardic power can also grant sentience directly -- [[Scadrian\|Scadrians]] are sapient due to Preservation's power within them, and [[Nightblood\|Nightblood's]] sapience is partially derived from his large quantity of [[Breath\|Breaths]]. [[Splinter\|Splinters]] can also become sapient. Even the raw power of a Shard, if left alone and without a Vessel, will eventually begin to form a rudimentary mind.
 
-
+#### Magic Generation
 When a Shard Invests a world, it will begin to fuel the local magic system. Each Shard can do this differently, though much of the system is dictated by the planet itself. Because of this connection to the magic, a Shard is able to directly interact with its users and provide Investiture when necessary, without the need for intermediaries.
 While not all magic systems in the cosmere are directly tied to a Shard, Shardic presence greatly influences the shape a magic system takes. On a planet inhabited by a Shard, magic forms as a result of the interactions between a Shard's power, [[Realmatic\|Realmatics]], the world's natural inclinations and, in some cases, even genetics. For this reason, the exact function magic performs will not always be related to the Shard's nature -- for example, [[Surgebinding\|Surgebinding]], despite being powered by [[Honor\|Honor]], is capable of manipulating [[Division\|Division]], which controls separating things. However, how the magic is *obtained* is tied to the Shard. [[Hemalurgy\|Hemalurgy]] demands that a person be destroyed, in line with the intent of Ruin, while Surgebinding demands forging bonds.
 Shards are capable of tampering with Investiture that does not belong to them.
 
-
+#### Future Sight
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 >“*It's as if the future is a shattering window. The further you look, the more pieces that window breaks into. The near future can be anticipated, but the distant future… I can only guess.*”
@@ -200,4 +200,4 @@ It is possible for a Shard to name a "champion" when making a deal with another 
 [[Realmatic Theory\|Realmatic Theory]]
 
 
-https://coppermind.net/wiki/Vessel
+https://coppermind.net/wiki/Avatar

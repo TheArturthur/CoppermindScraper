@@ -74,10 +74,10 @@ Jax and Zeff drove to El Paso, where a group of Epics had faced off against the 
 Jax and the others set up a trap for [[Lifeforce\|Lifeforce]] in Galveston, where Lux was due to attack. Lifeforce didn’t appear however, and Wingflare was out in the open instead. Abigail called for them to abort the mission, but Jax disobeyed, firing a rocket salvo at the attacking Ravens. Jax furthur disobeyed, orders, attacking Wingflare instead. Hershel used explosives to crack Lux in half, distracting Wingflare. Though Wingflare managed to rebuff Jax’s attack, he still managed to snatch some of her hair, which was valuable for her DNA. Jax and the other Reckoners escaped, though [[Briggen\|Briggen]] was badly wounded by shrapnel.
 
 ### Infiltration of Lux
-
+#### Preparation and Entry
 Jax and the others worked to prepare for their infiltration and assassination, using the Fathom motivator to preform reconnaissance. Jax tinkered with motivators, inventing scorchnotes and reversing the mitosis motivator. With it reversed, it caused singular objects to cease to exist, making it the perfect weapon to use against Lifeforce. They went a town where Lux was due to stop and take in new residents, then joined the massive crowd of people swarming up the latter. Jax and the other Reckoners fought their way to a ladder and climbed up into the city of Lux, where they were greeted by a Raven processing group. They were partially searched, and several of their bags that contained their scorchnotes were confiscated. The Ravens’ search was interrupted when a high ranking Raven took over, and led them to their new house personally. The Raven revealed herself as Paige, who had survived Wingflare’s attack and become a high ranking Raven. In their new house, they discussed how to best to take control of the city and kill Lifeforce.
 
-
+#### The Mission
 Jax and the other Reckoners used maintenance tunnels to get near the power grid, where Jax and Briggen were assigned to connect the Wingflare motivator to it. Briggen made a mistake however, and the Ravens were alerted. Jax was forced to leave Briggen behind, and Briggen was captured. After they had retreated back to their safehouse, they sent a message to Briggen using his broken boomerang watch. They went to Lifeforce’s palace to kill Lifeforce, but Briggen betrayed them. Lifeforce allowed Jax to duel him, but Lifeforce won. They were captured, and Jax was offered the chance to join Lifeforce. When he refused, Jax was locked up along with his fellow Reckoners.
 
 ### Work with Motivators

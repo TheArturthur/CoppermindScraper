@@ -10,4 +10,4 @@ While discussing crop farming in [[New Elantris\|New Elantris]], [[Galladon\|Gal
 
 
 
-https://coppermind.net/wiki/Kike
+https://coppermind.net/wiki/Trike

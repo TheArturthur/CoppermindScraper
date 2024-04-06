@@ -1,11 +1,11 @@
-| **Skyward Flight**  |                                                                         |
-| ------------------- | ----------------------------------------------------------------------- |
-| by  botanicaxu      |                                                                         |
-| **Leader**          | [[Jorgen\|Jorgen]]                                                      |
-| **Headquarters**    | [[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]] |
-| **Type**            | DDF flight                                                              |
-| **World of Origin** | [[Detritus\|Detritus]]                                                  |
-| **Universe**        | [[Cytoverse\|Cytoverse]]                                                |
+|**Skyward Flight**|
+|-|-|
+|by  botanicaxu |
+|**Leader**|[[Jorgen\|Jorgen]]|
+|**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
+|**Type**|DDF flight|
+|**World of Origin**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
 
 This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 

@@ -92,7 +92,7 @@ Fjorden is a theocracy. It’s state religion is [[Shu-Dereth\|Shu-Dereth]].
 Fjorden seems to be ruled by [[Wyrn (title)\|Wyrn]]. The Fjordell empire isn’t a true empire, rather it is a collection of nations united by their belief in a single religion, Shu-Dereth. Each of these nations has their own rulers, although all of them are Derethi. Shu-Dereth teaches that Wyrn is the highest priest, prophet and Jaddeth’s chosen. Due to this the Derethi obey his every command, which means that he essentially rules the Empire. The Fjordell priests have a very tight grip on the Derethi nations, no king rules east of the Dathreki Mountains unless he has professed allegiance to Shu-Dereth, and the most desirable and lucrative governmental positions always fall to those who were diligent in their worship of Jaddeth.
 The [[Skaze\|skaze]], [[Splinter\|Splinters]] of [[Dominion\|Dominion]], also have a direct influence on Fjordell politics.
 
-
+#### Territories
 While Fjorden itself doesn’t directly rule over other territories, the Fjordell Empire consists of many different kingdoms.
 
 [[Svorden\|Svorden]] - A kingdom in the eastern part of the Fjordell empire, it is considered to be the cultural epicentre of the east.
@@ -103,34 +103,34 @@ While Fjorden itself doesn’t directly rule over other territories, the Fjordel
 [[Jindo\|Jindo]] - A nation in the Fjordell empire. When the Fjordell began expanding the JinDo, preferring peace to fighting, outwardly converted to [[Shu-Dereth\|Shu-Dereth]] and joined the Empire.
 [[Duladel\|Duladel]] - A kingdom in the west of the empire, they joined the Fjordell empire after a bloody revolution, which ended with the foundation of a pro Fjordell monarchy.
 ### The Wyrns
-
+#### Political significance
 Fjorden is ruled by a [[Wyrn (title)\|Wyrn]]. It appears that the Wyrn can do whatever he wishes inside Fjorden. Wyrn doesn’t directly rule the other Derethi kingdoms however, instead of this he holds significant influence in them. Wyrn can command the Fjordell monasteries, including [[Dakhor\|Dakhor]], to carry out certain tasks for him.
 The Wyrns live in the Zigareth, a palace located in the Fjordell city of [[Widor\|Widor]]. Because of this it can be assumed that Widor functions as the Fjordell capital.
 
-
+#### Religious significance
 The title Wyrn is also the title of the highest priest in the Derethi religion. It is believed that only Wyrn is holy enough to commune directly with [[Jaddeth\|Jaddeth]]. This, combined with the strict Derethi chain of command, makes each Derethi serve Wyrn. Because of his position as Jaddeth’s prophet Wyrn holds great influence within all the Derethi nations.
 Wyrn is also the hroden of many important priests, such as the Gyorns.
 
-
+#### Titles
 The Wyrns have numerous titles, known titles are: Emperor of Fjorden, Prophet of Shu-Dereth, Ruler of Jaddeth’s holy kingdom and Regent of all Creation. This last title refers to their state of rulership until Jaddeth rises from his throne. Some priests also refer to him as their master.
 
 ### Foreign Policy and International Relationships
-
+#### Arelon
 The Fjordell have bad relations with the Arelene people. This is mainly because of the difference in religion, the Arelenes worship both [[Shu-Korath\|Domi]] and the [[Elantrians\|Elantrians]], which makes the Fjordell see them as pagans. Besides that the Fjordell have repeatedly attempted to conquer Arelon, with little to no succes, which contributes a great deal to their hatred of Arelon.
 Ten years after the [[Reod\|Reod]] Wyrn sent some of his fiercest warrior monks, the monks from the Dakhor monastery, to invade Arelon and slaughter the Arelene people. He got them into Arelon without anyone noticing, and at Wyrn’s command, they began slaughtering the Arelenes, both nobles and commoners alike. This invasion was eventually stopped, but it significantly worsened the relations between the Fjordell and the Arelenes.
 
-
+#### Teod
 >“*The day Teod fell beneath Fjorden's glory would be a joyous day indeed.*”
 \-Hrathen
 
 The Fjordell also have antagonistic relations with the [[Teod\|Teo]]. The Fjordell view the Teo as their archenemies and historical rivals. Many Fjordell also assume that there is no hope for the Teo. This isn’t actually Derethi doctrine however, instead it is a simple justification that infused Fjorden's historical enemies with theological hatred.
 Ten years after the [[Reod\|Reod]] the Fjordell began invading Teod, sailing straight to [[Teoras\|Teoras]]. This invasion was stopped however as [[Elantris (city)\|Elantris]] was restored and an army of [[Elantrians\|Elantrians]] arrived at Teoras. The invasion significantly worsened the relations between the Teo and the Fjordell.
 
-
+#### The Rose Empire
 The Fjordell view the people of the Rose Empire as barbarians, calling them the Rose barbarians. It seems that they don’t interact much with these peoples. Svorden is known to have diplomatic relations with the Rose Empire, although in recent years these relations have become somewhat strained. There is a Gyorn, who essentially functions as an ambassador, stationed in the [[Imperial Seat\|Imperial Seat]].
 
 ## Military
-
+#### Armies
 Fjorden itself only has a basic defence force, the other nations in the Fjordell empire have far larger armies however. Due to the strict Derethi chain of command these armies are also under Wyrn’s command.
 
 >“*The pagan nations of Arelon and Teod have been blackened scars upon my land for long enough.*”
@@ -138,26 +138,26 @@ Fjorden itself only has a basic defence force, the other nations in the Fjordell
 
 These militaries will crush entire civilizations for their Wyrn. Their conquests are also quickly soldified by the arrival of Derethi priests, who strive to convert the entire population to Shu-Dereth. The Fjordell believe that with all mankind united under Wyrn's rule, Jaddeth could rise from His throne beneath the earth and reign in glorious majesty upon the world. This is one of the reasons for their conquests. The Fjordell also have multiple bandit groups under their control. Ten years after the Reod these bandits were operating in Arelon.
 
-
+#### Warrior Priests
 The conventional armies are augmented by Derethi priests. Derethi priests are trained in the monasteries of Fjorden, where they are required to undergo vigorous physical training. This makes all Derethi priests excellent warriors. Besides that, this training makes the priests into a capable force for Wyrn to use in his conquests.
 
-
+#### Equipment and Weaponry
 Fjordell soldiers likely use small and light spears that can be thrown. The common soldiers wear steel armour, most of them also carry swords. Derethi warrior monks wear red surcoats over their armour.
 
-
+#### Navy
 They are also wealthy enough to have a huge navy, large enough that they could beat Teod by sheer numbers. Most of these ships come from [[Svorden\|Svorden]]. Fjorden itself lacks any real maritime strength.
 
 ## Culture
 ### People
 Fjordell tend to have dark black hair and be very wide of build. Fjordell are also notably tall, some Fjordell can even rival the Teo when it comes to height.
 
-
+#### Sports and Games
 The Fjordell also spar using dueling blades. For these sparring matches they use a special type of sword called a [[Syre\|Syre]]. The Fjordell also presumably play a [[Svorden\|Svordish]] game called [[Leky stick\|Leky stick]].
 
-
+#### Social structure
 The Fjordell have a very strict social structure. The people are expected to obey the commands of their superiors, who obey others and so forth, until the chain reaches Wyrn, who is the only man allowed to serve Jaddeth directly. Fjordell will do anything to rise in ranks — ambition is the one emotion Jaddeth would accept as readily as devotion.
 
-
+#### Foods and drinks
 The Fjordell drink Garha, a caffeine rich drink. They probably eat [[Kike\|kike]], as it is found in the [[Sea of Fjorden\|Sea of Fjorden]].
 
 ### Language

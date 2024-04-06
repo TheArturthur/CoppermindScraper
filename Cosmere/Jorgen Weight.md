@@ -195,4 +195,4 @@ Brandon came up with his callsign before his name.
 He was both the character Brandon had the hardest time writing and the one he feels is most like him.
 
 
-https://coppermind.net/wiki/Jorgen
+https://coppermind.net/wiki/Jorgen_Weight

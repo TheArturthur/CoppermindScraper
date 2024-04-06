@@ -11,4 +11,4 @@ A young [[Gavilar\|Gavilar]] references his rule along with the [[Sunmaker\|Sunm
 
 
 
-https://coppermind.net/wiki/Shubreth
+https://coppermind.net/wiki/Shubreth-son-Mashalan

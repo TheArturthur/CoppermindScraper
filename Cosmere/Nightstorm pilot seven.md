@@ -12,4 +12,4 @@ Both of Nedd's brothers died in a fight around a falling old shipyard. Attemptin
 
 
 
-https://coppermind.net/wiki/Nightstorm_Seven
+https://coppermind.net/wiki/Nightstorm_pilot_seven

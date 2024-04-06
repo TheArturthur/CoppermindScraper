@@ -113,18 +113,18 @@ Like all of the Silver Kingdoms, they were constantly returned back to primitive
 Eventually at an unknown date the kingdom collapsed and fractured into multiple other nations.
 
 ### Era of Solitude
-
+#### Saving the Larkin
 At some point after the [[Scouring of Aimia\|scouring of Aimia]] a group of [[Tai-na\|Tai-na]] known as the [[Na-Alind\|Na-Alind]] took in the [[Larkin\|Larkin]], as of 1174, they are still protecting the Larkin.
 
-
+#### Conquest of the Akak Reshi
 The [[Akak\|Akak]] Reshi fought a war with the [[Alethi\|Alethi]] around the year 1155. They eventually lost this war and were destroyed. [[Dalinar\|Dalinar]] fought as general on the Alethi side and claimed the land for Alethkar.
 
-
+#### The Wastescum Skirmishes
 The [[Wastescum skirmishes\|Wastescum skirmishes]] are a collection of skirmishes in the northern region of Alethkar which occurred some time before 1166, and some time after the crowning of Gavilar in 1145. The skirmishes were started by Reshi raiders raiding northern Alethkar, seeking to take advantage of the instability of [[Alethkar\|Alethkar]] soon after the crowning of Gavilar Kholin. It can be reasonably assumed that the raiders were repelled from Alethkar.
 This conflict did not fully dissuade the Reshi from engaging in border skirmishes but combined with the destruction of the Akak Reshi it dealt a heavy blow to the nearby Reshi. Nevertheless they are still known to attack Alethkar as late as Kak 1173. However, some Reshi allied with the Alethi military during the [[War of Reckoning\|War of Reckoning]], providing them with Chulls, painted to indicate their origin.
 
 ### The True Desolation
-
+#### The Coalition
 The Coalition invited the Reshi king Ral-na and his son to [[Urithiru\|Urithiru]] to talk and show them around.
 
 ## Notable Characters

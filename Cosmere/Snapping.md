@@ -25,4 +25,4 @@ At some point after the [[Final Ascension\|Final Ascension]], [[Harmony\|Harmony
 Many soldiers in [[Elend\|Elend's]] army, including [[Demoux\|Demoux]], were Snapped by the [[Mist\|mists]].
 
 
-https://coppermind.net/wiki/Snap
+https://coppermind.net/wiki/Snapping

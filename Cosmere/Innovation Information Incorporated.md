@@ -10,4 +10,4 @@ The buildings are mentioned as being very 'creative-friendly,' with brightly col
 
 
 
-https://coppermind.net/wiki/I3
+https://coppermind.net/wiki/Innovation_Information_Incorporated

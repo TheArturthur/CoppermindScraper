@@ -282,10 +282,10 @@ However, Bridge Four's support proves to be inconsistent. Most can be relied upo
 
 Further, he is treated very differently from Bridge Four's human members, due to biases they had difficulty shaking. When only he, Skar, and Dabbid are unable to draw in Stormlight after weeks of practice, the other bridgemen encourage Skar to keep trying, but say nothing to Rlain, fearing that use of Stormlight will cause him to become a monster, despite his explanations that he would have to *voluntarily* choose to do so. Some conflate him with the Fused and assume that he can understand the enemy's motivations, forcing Rlain to remind them that the Fused are more the listeners' enemies than theirs. However, despite feeling invisible and something of an outsider to Bridge Four, Rlain still views its members as his family and understands that they mean well.
 
-
+#### Rock
 As non-combatants, Rock, Dabbid, and Lopen spend the most time with "Shen" as they gather salvage during Chasm Duty under Sadeas, then the team becomes Rock's assistants under Dalinar. Rock is consistently kind to Rlain, from delighting when his assistant musters the nerve to request seconds on stew, to encouraging Renarin to recognize the ways Rlain relates to his experience of being ostracized.
 
-
+#### Teft
 Rlain’s relationship with Teft is one of great extremes. When Rlain first joins Bridge Four, Teft is not shy about voicing his suspicions that the parshman could spoil or sabotage their plans to escape. Later, when Rlain tries to stop Kaladin from scavenging from a listener corpse, Teft grabs Rlain in a choke hold to protect his bridge leader, and Kaladin orders Teft and Moash to restrain him while the bodies are looted for valuables. Teft repeatedly advocates putting Shen in the deathline at the front of the bridge to absorb enemy arrows.
 This attitude changes around the time Kaladin wears listener carapace into battle, and Teft sees Rlain's immediate reaction and his very relatable emotional agony. He advises Kaladin that Rlain may not be good for bridge runs any more. When the bridgemen are liberated from Sadeas' crews, Teft is the first of many to speak up for Shen, defending his right to get his tattoos of freedom like the rest of Bridge Four.
 Like most of the other bridgemen socialized not to notice parshmen, Teft often overlooks Rlain, though he offers him genuine smiles when he acknowledges his presence, and Rlain considers Teft a friend. Later, when Teft, Kaladin, and Rlain meet at a winehouse after the rest of Bridge Four departs for Emul, Teft is far more attentive to Rlain's needs. He notices the listener's difficulty flagging down a server and orders Rlain's drink for him, then asks Rlain about his experience running bridges against his own people.
@@ -295,7 +295,7 @@ Like most of the other bridgemen socialized not to notice parshmen, Teft often o
 
 When Teft is knocked unconscious by Raboniel's inversion of the Sibling's defenses, Rlain is deeply concerned, and assists Kaladin in getting him help. When Teft wakes weeks later, Rlain's joy at seeing Teft restored is a great source of strength for the older man. They plan their next course of action, then part ways to put it into effect, and the next time Rlain encounters Teft, he is dead, murdered by Moash. While only a year and a half before, Teft forcibly prevents Rlain from showing respect to a listener corpse, here Rlain mourns him as a hero, singing the Song of the Fallen, and wishing he could give the man a proper sky burial. He and Dabbid draw anguishspren. In a timely tribute, Rlain channels his best Teft impersonation to unite the humans and the rebellious singers in defense of the Radiants.
 
-
+#### Dabbid
 Rlain is very protective of Dabbid. During their time as the only two members of Bridge Four who haven't gained Radiant abilities, they are often set to work together. Rlain is greatly relieved to discover Dabbid is safe, and feels hurt when he discovers Dabbid can talk, claiming "Bridge Four doesn't lie to one another." Ironic, given Rlain's months hiding the truth of his identity.
 
 ### Dalinar

@@ -13,4 +13,4 @@ In the undersea caverns of Aimia, there is a room containing six greatshell skul
 
 
 
-https://coppermind.net/wiki/Lancer
+https://coppermind.net/wiki/Lanceryn

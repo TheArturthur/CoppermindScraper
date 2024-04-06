@@ -165,4 +165,4 @@ When Nale returned, he told the Skybreakers the truth of the Recreance and gave 
 If [[Rashek\|Rashek]] were to have joined the Knights Radiant he would have made an okay, though not great, Skybreaker.
 
 
-https://coppermind.net/wiki/Skybreaker
+https://coppermind.net/wiki/Skybreakers

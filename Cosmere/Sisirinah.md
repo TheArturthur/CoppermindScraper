@@ -111,4 +111,4 @@ Siri enjoys Llarimar's helpfulness, contrasted by the discourteous attitude she'
 
 
 
-https://coppermind.net/wiki/Sisirinah
+https://coppermind.net/wiki/Siri

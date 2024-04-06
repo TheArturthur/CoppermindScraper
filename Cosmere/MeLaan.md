@@ -90,7 +90,7 @@ After [[KanPaar\|KanPaar]] revolted against the first generation and imprisoned 
 Following the Catacendre, her loyalty shifted to Harmony, as she began to follow his orders and act as his hands in the world. It is not known what she did over the majority of the over three centuries between the Catacendre and her interactions with Wax and Wayne.
 MeLaan was the kandra who gave [[Waxillium Ladrian\|Waxillium Ladrian]] his earring; a hemalurgic spike to let Harmony communicate with him, so that he could eventually come to act as Harmony's Sword.
 
-
+#### Paalm's Madness
 MeLaan once again met Wax at [[Lady ZoBell's party\|Lady ZoBell's party]]. She introduced herself as Milan, a slight mispronunciation of her real name. After seeming to flirt with Wax, she walked away.
 After the party, she saved Wax from the [[Set\|Set]] agents who had ambushed him. She revealed that she was a kandra sent by [[Harmony\|Harmony]] to help him.
 Later, she met Wax, [[Wayne\|Wayne]], and [[Marasi\|Marasi]] at a tavern. She went on to help them on their quest to defeat [[Bleeder\|Bleeder]]. MeLaan impersonated one of Governor [[Replar Innate\|Replar Innate's]] guards and saved Wax from Bleeder after the rogue kandra revealed herself.
@@ -98,13 +98,13 @@ With Bleeder unmasked and on the run, MeLaan attempted to impersonate Governor I
 MeLaan did not know about the true identity of Bleeder and was told only afterward. However she firmly believed that Harmony had done the right thing in not informing Wax of the true identity of his antagonist. After the defeat of Bleeder she continued to impersonate Governor Innate, "hanging" herself in her cell so that she did not have to falsely testify in a court of law.
 
  by  Shuravf  MeLaan dodging bullets during a gunfight
-
+#### Search for ReLuur
 MeLaan agreed to accompany Wax, Marasi, Wayne and [[Steris\|Steris]] on their mission to [[New Seran\|New Seran]] in the hope of curing [[ReLuur\|ReLuur's]] insanity by restoring his spike. ReLuur was injured looking into myths about [[The Bands of Mourning\|The Bands of Mourning]]. Wax couldn’t find MeLaan during the fight, and later found her topless with Wayne in a compartment.
 When the group arrived in the city MeLaan shocked several of them by turning into a man, indicating that she was comfortable as either sex. MeLaan aided Wax and Steris at [[Kelesina Shores\|Kelesina Shores's]] ball, helping Wax escape from the scene after he was framed for Kelesina's murder.
 After escaping, she traveled with the party to the crashed *Brunstell*, where she and Marasi found ReLuur's spike and liberated [[Allik Neverfar\|Allik Neverfar]]. Together the three of them reconvened with Wax and Wayne and escape on one of the *Brunstell'*s ships called *Wilg*. After Marasi was injured in the escape, MeLaan was able to graft a piece of Marasi's own flesh onto the wound to heal her.
 After retrieving Steris, they went to the second site to retrieve the Bands of Mourning. MeLaan's invulnerability proved critical in reaching the temple where they were supposedly stored, as she was able to survive the damage of the many traps the [[Sovereign\|Sovereign]] had left behind. However she was immobilized by [[Telsin\|Telsin]] on reaching the temple and losing her spikes, reverting to a [[Mistwraith\|mistwraith]]. After the battle for the Bands, MeLaan's spikes were returned by Wayne, and her sentience was restored. The Bands were left in her keeping to keep them from being used for political purposes or conquest.
 
-
+#### Worldhopping
 After the events involving the Bands of Mourning, she began her relationship with Wayne in earnest, but had to be called away on missions by Harmony, sometimes disappearing for months at a time.
 At some point during this period, she began to favor a more androgynous form.
 Six years later, Harmony gave her a mission of going to other worlds in the cosmere to help deal with the rising threat of [[Trell (Trellism)\| Trell]]. Before she left, she broke up with Wayne.
@@ -130,4 +130,4 @@ In the original concept that evolved into *The Alloy of Law*, she was planned as
 She is planned to play a role in Era 3.
 
 
-https://coppermind.net/wiki/Melaan
+https://coppermind.net/wiki/MeLaan

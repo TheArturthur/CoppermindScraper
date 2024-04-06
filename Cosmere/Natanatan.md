@@ -49,4 +49,4 @@ The city-state of New Natanan, located on the easternmost coast of Roshar, is al
 
 
 
-https://coppermind.net/wiki/Natanatan
+https://coppermind.net/wiki/Natan

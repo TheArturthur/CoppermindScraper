@@ -34,4 +34,4 @@ There may be a connection between Endowment and the Bright Sea.
 
 
 
-https://coppermind.net/wiki/Inner_Sea
+https://coppermind.net/wiki/Bright_Sea

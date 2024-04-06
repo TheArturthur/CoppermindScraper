@@ -6,6 +6,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*The Way of Kings*|
 
 **Bashin** is a [[Darkeyes\|darkeyed]] [[Alethi\|Alethi]] of the first [[Nahn\|nahn]] on [[Roshar\|Roshar]] and a longtime associate of [[Dalinar Kholin\|Dalinar Kholin]].
 

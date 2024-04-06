@@ -62,4 +62,4 @@ Because acclivity rings are so valuable, most instructors tell their students th
 
 
 
-https://coppermind.net/wiki/Flight_school
+https://coppermind.net/wiki/Flight_School

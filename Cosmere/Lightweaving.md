@@ -9,4 +9,4 @@ The [[Mavset-im\|mavset-im]], or Masked Ones, [[Fused\|Fused]] with access to th
 [[Khriss\|Khriss]] mentions variations of Lightweaving present on [[Sel\|Sel]], which likely include Aon Shao in [[AonDor\|AonDor]]
 
 
-https://coppermind.net/wiki/Lightweaving
+https://coppermind.net/wiki/Lightweaver

@@ -86,19 +86,19 @@ Ialai's death confused Shallan, and she assumed that a spy among her team, possi
 Torol was intrigued by Ialai's blasphemous name when he first met her. It is likely that she and Torol were very young when they were married; at a feast around the year 1143 when Torol was approximately twenty years old, he and Ialai were already husband and wife. He notes that she has never been considered a beauty and is not aging particularly gracefully, but he has always been attracted to her "dangerous" personality. The couple often fondly scratch each other's backs. Ialai and Torol are like-minded and regularly share information about the politics, personalities, and happenings of Alethkar. They collaborate on schemes to increase their personal wealth and influence, typically with little regard for the welfare of others. Ialai was distraught when Torol was murdered.
 
 ### Kholin Family
-
+#### Dalinar
 Ialai and Dalinar seemed to have a cordial relationship in their youth, during Gavilar's unification war. Ialai served as a matchmaker of sorts for Dalinar's political marriage to Evi and she even joked with Dalinar on occasion. However, the Sadeas's thirst for power eventually turned them against Dalinar. This led to them plotting against him and eventually becoming outright enemies; they attempted to defame and even assassinate him. After Torol was killed, Ialai redoubled her efforts to plot against Dalinar. She did not believe that Dalinar killed Torol, but she defied his authority and sabotaged his coalition. She continued to undermine him at every opportunity.
 
-
+#### Evi
 Ialai did not have a good first impression of [[Evi\|Evi]], calling her "vapid". She and Navani counseled Evi to be more assertive during her marriage to Dalinar. Evi thought Ialai was clever and admired her wit.
 
-
+#### Navani
 Although Ialai had worked closely with Navani in their youth to further their common goals, any vestiges of friendship seemed to be gone by the time Navani got together with Dalinar.
 
-
+#### Adolin
 Ialai did not think highly of Adolin, and he was sometimes targeted by her schemes to get at Dalinar. She seemed suspicious of Adolin after Torol's death.
 
-
+#### Jasnah
 Ialai and Jasnah dislike each other, but Ialai knows better than to verbally spar with her. She does not acknowledge Jasnah as the legitimate queen of Alethkar.
 
 ### Mraize
@@ -108,4 +108,4 @@ After the [[Battle of Narak\|Battle of Narak]], [[Mraize\|Mraize]] and the Ghost
 Brandon noted that the rise and fall of Ialai's mini-empire when she returned to the Shattered Plains could have been a major thread in a Stormlight Archive novel, but by the time it occurred in the overall story arc, he wanted to move on from the earlier group of antagonists that Ialai represented (and whom had already been defeated). Ialai's story had the potential for exciting political intrigue, but it did not fit into the narrative of an expanding war epic.
 
 
-https://coppermind.net/wiki/Ialai
+https://coppermind.net/wiki/Ialai_Sadeas

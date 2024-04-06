@@ -85,7 +85,7 @@ The northern mountains have vegetation that buds out in spring, There are fields
 ### Monarchy
 Idris has a monarchical system of government.
 
-
+#### The King or Queen
 The Idrian King or Queen is responsible for ruling the country.
 They can write treaties themselves, such as the marriage treaty between Idris and Hallandren somewhere around the year 327. They also sit on the Idrian war council.
 
@@ -120,15 +120,15 @@ Idrian Royal Family
 | |Deceased|
 
 
-
+#### Succesion
 The eldest child of the King and Queen inherits the throne, regardless of gender. This only happens after the ruler, be it the king or the queen, has died.
 There is at least one known case of the second eldest child inheriting, while the eldest child is still alive. This usually happens because the eldest child is engaged to a ruler of another country, and cannot rule Idris.
 
-
+#### The Royal Locks
 Those of the royal family who either rule or are potential heirs have the [[Royal Locks\|Royal Locks]]: hereditary hair that changes color according to the bearer's emotional state, at their will, or not at all when the bearer uses training and discipline to suppress the changes. Those with the Royal Locks can also grow them when they want to, and this feels to them as if they were using a physical muscle. The members of the royal family usually keep their hair black or brown, as other colors such as red or yellow are considered ostentatious.
 
 ### Foreign Policy and International Relationships
-
+#### Hallandren
 >“*Your people are in a state of rebellion against the rest of the kingdom.*”
 \-Treledees to Siri[8]
 
@@ -137,14 +137,14 @@ Idris and Hallandren used to be the same country, although at the conclusion of 
 The Idrian religion of [[Austrism\|Austrism]] teaches against many things done or used in Hallandren such as ostentation, [[Lifeless\|lifeless]] and [[Awakening\|awakening]]. This makes the Idrians believe that the Hallandren are terrible, as they do everything their religions preaches against. The Idrians also view the Iridescent Tones as heresy, thinking of the Hallandren as pagans. This further provokes hostilities.
 The Idrians have many false views of Hallandren, this is because of, among others, false stories told by ramblemen.
 
-
+#### Tedradel
 [[Tedradel\|Tedradel]] has good relations with Idris. The General of the Idrian army, [[Yarda\|Yarda]], considers it possible that Tedradel would aid Idris if Hallandren attacked them.
 These nations also have many similarities, such as in fashion, with both nations preferring covering clothing.
 
-
+#### The Northern Kingdoms
 There are dozens of kingdoms north of Idris that do not share Hallandren's belief that Idris is a rebel faction, and these countries would ally with Idris should a war break out, or use the opportunity to seize control of [[T'Telir\|T'Telir]].
 
-
+#### Vendis
 It is currrently unknown who or what the Vendis are. They are in a state of war with Idris however, constantly raiding them. They are still doing this around the year 327 of the Hallandren calendar.
 
 ## Military
@@ -173,10 +173,10 @@ Clothing is drab, bleached grey or white. Some clothes are also brown, although 
 Clothing is typically very covering. Most women wear clothing that covers even the neck. Trousers are not found to be modest. These clothes are often made out of wool. The Idrians don’t use silk for clothing. Some Idrians wear gloves when they are working.
 
 ### Biochroma
-
+#### Breath
 The Idrians consider their breath to be intimately linked to their soul. For that reason they are afraid of losing their Breath, and consider holding the [[Breath\|Breaths]] of others to be sinful. Using them to [[Awakening\|Awaken]] is considered to be an even greater sin.
 
-
+#### Returned
 Although the people of Idris can also become [[Returned\|Returned]], this is a rare occurrence. The people of Idris, unlike those in Hallandren, refuse to provide the Returned with [[Breath\|Breath]], causing them to die at the end of the week. It is unknown if this affects their ‘mission’.
 
 ### Architecture
@@ -240,4 +240,4 @@ General [[Yarda\|Yarda]]
 
 
 
-https://coppermind.net/wiki/Idris
+https://coppermind.net/wiki/Idrian

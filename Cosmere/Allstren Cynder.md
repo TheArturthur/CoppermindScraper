@@ -49,4 +49,4 @@ He went with Khriss to watch Kenton's duel with [[Drile\|Drile]]. Two weeks afte
 In [[White Sand\|White Sand Volume 1]] Jon Acron and Cynder's speech bubbles are occasionally misattributed, particularly when they converse with one another. Noting the clothing of the speaker and context of the quote is required to catch these mistakes. For example, Acron wears white in most of Volume 1, though in at least one frame their clothing was switched.
 
 
-https://coppermind.net/wiki/Allstren_Cynder
+https://coppermind.net/wiki/Cynder

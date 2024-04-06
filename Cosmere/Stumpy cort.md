@@ -10,4 +10,4 @@ Some of the Purelakers, including [[Ishikk\|Ishikk]], believe that a stumpy cort
 
 
 
-https://coppermind.net/wiki/Stumpy_Cort
+https://coppermind.net/wiki/Stumpy_cort

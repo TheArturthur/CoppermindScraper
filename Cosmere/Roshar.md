@@ -130,7 +130,7 @@ Several species are noted as having body parts made of stone, such as the bark o
 The substance is actually stone, somehow either grown or gathered by the creatures,
 The substance is organic, but highly similar in appearance to stone,
 The substance is hardened crem, deliberately cultivated by those creatures.
-
+#### Flora
 Rosharan flora had to adapt to several conditions not found on Earth or Earth-like worlds, such as the severe weather and scarcity of soil.
 
  by  Ben McSweeney  In highstorm-heavy regions, laits like this are the oases of plant life.
@@ -146,7 +146,7 @@ Additionally, there exist a number of plants with known healing properties. This
 By contrast, several species of plant are noted to have detrimental effect on humans. Firemoss is known to be highly addictive, and [[Blackbane\|blackbane's]] leaves, once dried, are extremely poisonous. Eating shells of rockbuds is similarly known to be unhealthy, although the [[Unkalaki\|Unkalaki]] are capable of eating them without problems, likely thanks to their [[Singer\|singer]] ancestry. While not all plants are edible, some, like [[Breachtree\|breachtree]] and [[Narbin\|narbin]], are grown to make fabrics.
 
  by  Ben McSweeney  A Chasmfiend, with gleaming [[Mandra\|mandras]] surrounding it. They allow the greatshell to exist despite its enormous size.
-
+#### Fauna
 Roshar contains a wide variety of fauna, most of which appears to be shelled. While most creatures are native to the world, some have been introduced into Roshar during human exodus from [[Ashyn\|Ashyn]], among them mammals and birds.
 Like Rosharan flora, the animals of Roshar have also adapted to their unusual circumstances. Several species, including the largest, grow massive shells which can protect them from highstorms. Others hide in dens or, in case of small [[Sarpenthyn\|sarpenthyn]], ooze between the cracks in the rock.
 
@@ -179,10 +179,10 @@ Separately from this, Roshar is known to have developed two independent sapient 
 ## History
 For a list of Rosharan events and eras, see :Category:Rosharan events .
 ### Pre-Desolation Roshar
-
+#### Creation and Early Inhabitants
 The planet of Roshar predates the [[Shattering\|Shattering]]. It had likely existed for about 12 to 13 thousand years by the time of the True Desolation. The continent was specifically grown by [[Adonalsium\|Adonalsium]]. Much of the ecology of the planet existed from this time, including the [[Highstorm\|highstorms]] and the [[Spren\|spren]]. People lived on Roshar prior to the [[Shattering\|Shattering]]. The [[Singers\|singers]] were the primary inhabitants of Roshar at this time and are likely the [[Dawnsingers\|Dawnsingers]] spoken of in modern times. At some point after the Shattering, [[Honor\|Honor]] and [[Cultivation\|Cultivation]] settled on Roshar. They were equally Invested in the planet originally, though the balance shifted after Honor's death.
 
-
+#### The Expulsion and Early Interactions
 
 >“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging*”
 \-From the Eila Stele[63]
@@ -192,18 +192,18 @@ Humans fled to Roshar from [[Ashyn\|Ashyn]], another planet in the [[Rosharan sy
 
  by  Greg Call  A [[Vorin\|Vorin]] perspective on the history of mankind by [[Greg Call\|Greg Call]]
 ### The Heraldic Epochs
-
+#### The Desolations
 
 The [[Desolation\|Desolations]] were conflicts between mankind and [[Voidbringer\|Voidbringers]]. The first Desolation occurred when humans invaded Roshar from the land they were given. Some of the singers were infused with Odium's [[Investiture\|Investiture]] and became the [[Fused\|Fused]]. The Fused did not pass into the [[Beyond\|Beyond]] and were instead reborn into the bodies of singers.
 To combat this, the [[Herald\|Heralds]] made a deal with Honor called the [[Oathpact\|Oathpact]]. This deal sealed away the Fused on Braize. However, there was a loophole. The Heralds could choose to allow the Fused to return to Roshar, so they were caught on Braize and tortured. The return of Heralds and Fused and the conflict that occurred became known as the Desolations. The spren started to mimic the herald's [[Honorblade\|Honorblades]] and the [[Knights Radiant\|Knights Radiant]] were formed. They helped to fight and rebuild society after a Desolation.
 Time during this period was separated into several-century long Epochs, which are further separated into years. The exact method for defining when a Desolation starts or ends is currently unknown. One Desolation began to show signs of occurring in the Eighth Epoch, year 337, when a small village in [[Natanatan\|Natanatan]] was attacked by the [[Midnight Essence\|Midnight Essence]].
 
-
+#### The Last Legion
 
 At some point during the Desolations, a group of singers known as the [[Last Legion\|Last Legion]] were sent to fight in the farthest plains, most likely the ruins of [[Natanatan\|Natanatan]] on the [[Shattered Plains\|Shattered Plains]]. They followed the commands of the Fused and took whatever forms were forced upon them. Seeking freedom, they fled during a highstorm and took on dullform to escape the Fused's control. In order to avoid forgetting their knowledge, they composed songs, including [[Song of Listing\|Song of Listing]], [[Song of Secrets\|Song of Secrets]] and [[Song of Histories\|Song of Histories]]. They didn't, however, know how to transform into any forms except dullform and mateform by themselves. They planned to remain living as tribes and refugees, unnoticed and forgotten, as they studied and rediscovered the forms. Although it is not known exactly when this happened, it must have been prior to the [[Last Desolation\|Last Desolation]] as the Fused remained trapped on Braize from then until the [[True Desolation\|True Desolation]].
 
 
-
+#### The Last Desolation
 
  by  Petar Penev  The Last Desolation
 >“*A...a decision has been made. It is time for the Oathpact to end.*”
@@ -217,7 +217,7 @@ At the end of the [[Last Desolation\|Last Desolation]], nine of the ten Heralds 
 \-Kabsal to Shallan[41]
 
 
-
+#### The False Desolation
 
 >“*Something must be done about the remnants of Odium’s forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
 \-Drawer 30-20, first emerald[75]
@@ -225,25 +225,25 @@ At the end of the [[Last Desolation\|Last Desolation]], nine of the ten Heralds 
 The [[False Desolation\|False Desolation]] began when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] learned how to [[Connection\|Connect]] with the majority of the singers, giving them [[Regal\|forms of power]] and access to [[Voidlight\|Voidlight]]. The Radiants, unaware of how she did this, sought a way to end the fighting for good, as the Heralds had promised them. The fighting became particularly intense at this time, as the singers made a push towards [[Feverstone Keep\|Feverstone Keep]], possibly as part of a plan to capture [[Rall Elorim\|Rall Elorim]].
 Working together, the scholars among the Radiants theorized that an [[Unmade\|Unmade]] could be imprisoned like a regular [[Spren\|spren]]. That devised a plan to trap Ba-Ado-Mishram and prevent her from Connecting with the singers and providing them with Voidlight. This plan would require [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation, and a special prison, likely a [[Perfect gemstone\|perfect gemstone]]. Although Melishi was confident the plan would succeed in destroying the Voidbringers, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unintended side effects. Although the plan seems to have succeeded, as Ba-Ado-Mishram has not been seen in modern times unlike other Unmade, Naze-daughter-Kuzodo's warning was correct. Because she had been Connected to all the singers, their Connection and [[Identity\|Identity]] was torn out of them, creating slaveform or parshmen. The Radiants' horror for what happened likely contributed to the Recreance.
 
-
+#### The Recreance
 
 During the lead up to the [[Day of Recreance\|Day of Recreance]], many events occurred which demoralized the Knights Radiant. The [[Sibling\|Sibling]], for some unknown reason, withdrew from [[Urithiru\|Urithiru]] and forced the Knights to abandon their ancestral home. Many Radiants blamed this on a perceived unworthiness, including increased conflicts between the [[Windrunners\|Windrunners]] and [[Skybreakers\|Skybreakers]], but scholars of the time disagreed. This concern extended to potential infiltration by [[Unmade\|Unmade]]. While this was occurring, the False Desolation was coming to a close. The presumed success in imprisoning Ba-Ado-Mishram leading to the singers having their Connection and Identity ripped out of them likely influenced the Radiants. In the midst of this turmoil, the Radiants discovered the truth about the origins of humans on Roshar. The singers had been the original inhabitants of Roshar. The humans came as refugees from their [[Ashyn\|homeworld]], which they had destroyed with surges. After being taken in by the singers and given [[Shinovar\|Shinovar]], they invaded Roshar and started the Desolations. While Honor had comforted previous generations who learned this, this time he was dying. He raved about the [[Dawnshard\|Dawnshards]] and promised the Radiants they would destroy Roshar like they had their homeworld.
 As a result of these revelations, the nine of the ten orders decided to abandon their oaths, and in agreement with their spren, kill them. They believed that this would prevent the destruction of Roshar Honor warned them about. At the locations they left their [[Shardplate\|Plate]] and [[Shardblade\|Blades]], men quickly began fighting over the weapons, leading to much death and destruction. The Radiants, other than the Skybreakers, were quickly turned on and killed because of the sense of betrayal felt. Society for both spren and humans drastically changed in the aftermath. Those with Shardblades quickly consolidated their power, including using *Arts and Majesty* to justify women not wielding them. It is likely that this is when [[Lighteyes\|lighteyes]] truly came to power. The genocide decimated the populations of spren societies. Most of the survivors were children forced to spend centuries without nurture or guidance. Some societies took two thousand years to fully recover. 
 
-
+#### The Scouring of Aimia
 
 What exactly occurred during the [[Scouring of Aimia\|Scouring of Aimia]] is unknown but it appears that the vast majority of Aimia's ecosystem collapsed, leading to the extinction of the [[Lanceryn\|lanceryn]] and the near extinction of the [[Larkin\|larkin]]. Most creatures there are quite rare since the scouring. The island of [[Akinah\|Akinah]], however, was not destroyed and is still protected from outsiders by the [[Sleepless\|Sleepless]]. [[Hessi\|Hessi]] indicates in [[Mythica\|Mythica]] that [[Dai-Gonarthis\|Dai-Gonarthis]] may have been responsible for the scouring.
 
-
+#### The Hierocracy and the War of Loss
 
 The [[Hierocracy\|Hierocracy]] began when the [[Vorinism\|Vorin Church]] decided to conquer the world and run the government rather than just provide spiritual guidance. They claimed their conquering was for the good of the people. Some of the most powerful ardents claimed to have visions from the [[Almighty\|Almighty]], which they used to solidify their rule and obfuscate their religion. One of their main goals was to destroy knowledge of the failures of Vorinism, including [[Shadesmar\|Shadesmar]], the Knights Radiant, and the Recreance. They were primarily successful, as even the major libraries on Roshar are missing this information. Before the Hierocracy could spread to the west, [[Sadees\|Sadees]], the Sunmaker, united the princedoms of [[Alethkar\|Alethkar]] to drive out the Hierocracy. They fought in many epic battles the likes of which have not been seen since in what came to be known as the [[War of Loss\|War of Loss]]. The Sunmaker successfully cast down the Hierocracy and stated the visions were a fraud.
 Sadees's win in the War of Loss affected much of eastern Roshar. Sadees declared himself king of Alethkar and began a conquest of Roshar. Although the extent of his empire is not exactly known, [[Herdaz\|Herdaz]] and [[Azir\|Azir]] were both included. He committed genocide in Azir and killed ten percent of the population. His empire quickly collapsed after his death, however, as he did not choose an heir, and his ten sons divided the kingdom into princedoms and became [[Highprince\|highprinces]]. The effects of the Hierocracy on Vorinism can still be felt in the modern time. The central leadership of the church was destroyed and split into mostly independent [[Devotaries\|Devotaries]]. The ardents became slaves who could not own land or property. Their revisions to historical texts also perpetuate, and it is difficult to find information about pre-Hierocracy history or the Knights Radiant.
 
-
+#### Reunification of Alethkar
 
 In the year 1158, House Kholin, led by [[Gavilar Kholin\|Gavilar Kholin]], led a war in order to reunify Alethkar like Sadees did before him. This conquest was successful, subjugating all ten Alethi princedoms under a singular crown for the first time since the times of the Sunmaker.
 
-
+#### Singer-Human Relations
 
 
 
@@ -251,39 +251,39 @@ For more information, see [[Assassination of Gavilar\|Assassination of Gavilar]]
 In 1167, during the signing celebration of the Alethi-Listener treaty, Gavilar revealed his plans to return the Fused to Roshar to Eshonai. This led her to warning the Five. Together, the Five decided that he had to be killed before he could go through with his plans. Coming to this decision, they sent [[Szeth\|Szeth]] as an assassin, and successfully killed the king.
 This assassination was traced back to the Listeners, as three Listeners remained to take credit for ordering the assassination, leading to [[Elhokar Kholin\|Elhokar Kholin]] and the Ten Highprinces to declare war upon them in the [[Vengeance Pact\|Vengeance Pact]], beginning the [[War of Reckoning\|War of Reckoning]].
 
-
+#### The Eighties War
 For more information, see [[Eighty's War\|Eighty's War]].
 Meanwhile, in the Makabakam region, Emul and Tukar began to engage in a protracted war over ownership of the Dawncity of [[Sesemalex Dar\|Sesemalex Dar]]. The Emul had the city situated as their capital, and claimed it was their ancestral homeland, granted to them by the Heralds themselves. On the other side, the Tukari, led by the Herald Ishar, also claimed rightful ownership of the city for unknown reasons.
 This conflict was not something new, with various wars over Sesemalex Dar occurring over the history of the two nations, with the Eighty's War only being the most recent iteration of these conflicts.
 
-
+#### The War of Reckoning
 For more information, see [[War of Reckoning\|War of Reckoning]].
 
 
 ### The True Desolation
 On Ishishach 1173, during the [[Battle of Narak\|Battle of Narak]], the [[Everstorm\|Everstorm]] was summoned by Odium and a collection of [[Listeners\|Listeners]]. This brought an end to the Era of Solitude, and brought forth the True Desolation. Following the True Desolation, the Alethi side of the Battle of Narak came across an oathgate leading to Urithiru, which they promptly occupied as their base of operations.
 
-
+#### Battle of Thaylen Field
 For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 
 At the end of the battle, the Unmade Nergaoul was sealed away in the [[King's Drop\|King's Drop]]. The Unmade was studied for a period following his being sealed away, but he was eventually locked in an aluminum box and hidden away at the bottom of the ocean to keep him out of enemy hands.
 
-
+#### Expedition to Aimia
 For more information, see [[Expedition to Akinah\|Expedition to Akinah]].
 
 
-
+#### Singer Occupation of Urithiru
 
 During the Occupation, Navani and Raboniel worked together to discover [[Anti-Voidlight\|Anti-Voidlight]], through which they were able to bring permanent death to the Fused. Following this discover, Raboniel was able to discover [[Anti-Stormlight\|Anti-Stormlight]], to be used as a weapon against Spren and the Knights Radiant.
 
-
+#### Expedition to Emul and Ascension of Taravangian
 
 Taravangian was assassinated by Szeth while being met by Odium. On his transition to the Cognitive Realm, he managed to kill Odium's Vessel with the Cognitive Aspect of Nightblood, and took the Shard for himself. Thus, he ascended as the new Vessel of Odium.
 
-
+#### Contest of Champions
 The Contest of Champions between Odium and Dalinar, wherein the fate of Roshar and the Oathpact was to be decided, was planned to occur on Palahanah 1175.
 
-
+#### Post-Contest
 Even several years after the Contest of Champions, in 348 [[Catacendre\|PC]] in the Scadrian reckoning, travel to and from Roshar was still considered extremely dangerous. This made interplanetary trade infeasible.
 
 ## Culture and Society
@@ -367,7 +367,7 @@ Glass beads without gemstones inside are called 'Ends', and are mainly used as g
 ### Food and Drink
 A wide variety of alcoholic drinks can be found on Roshar.
 
-
+#### Wines
  by  Miranda Meeks  Types of Rosharan wine
 Unlike Earth wines, on Roshar the term refers to a number of alcoholic drinks, only a small subset of which are made of fermented fruit. The use of the term "wine" is the result of linguistic shift, much in the same way that all birds became [[Chicken\|chickens]] and all small crustaceans became [[Cremling\|cremlings]]. The alcohols that fall under the term "wine" are categorized by strength and color, with different colors denoting different alcohol content. Additionally, the stronger "wines" are actually distilled spirits.
 In order from weakest to strongest, those are:
@@ -382,13 +382,13 @@ In order from weakest to strongest, those are:
 **Violet**, the strongest, typically with an aroma of sandalwood.
 Within those colors, a number of different wines exist - for example, among the sapphire varieties are **kimik**, **vari** and **Veden saph**. While generally the wine colors are standardized, they gain their color by intentional colored infusions, and are occasionally made without them.
 
-
+#### Other Beverages
  by  Yen Shu Liao  Rosharan drinks
 Apart from wines, Roshar has a number of other alcoholic drinks. Among those is beer, of which the most popular variety appears to be [[Mudbeer\|mudbeer]], often drunk to warm up. Another drink is a liquor called [[Honu\|honu]], which comes in several varieties that differ in strength. Both beer and honu are made from [[Lavis\|lavis]] grain.
 The [[Unkalaki\|Unkalaki]] people have a number of their own alcoholic beverages. This includes a brownish drink called [[Shiki\|shiki]], which has to be chilled overnight, and the infamous Horneater lager, which is far stronger than regular beers, with one bartender claiming it melts their cups. Strongest among the Horneater beverages is the  **Horneater white**. A clear, distilled moonshine, it is the strongest known alcohol on Roshar (with the possible exception of some violet wines). It is known to strip paint, and can apparently be deadly to non-Unkalaki. It is comparable to .
 Other, unspecified alcohols drank across Roshar include a variety of ciders, juices and lagers.
 
-
+#### Drinking Culture
 [[Vorinism\|Vorin]] parties typically involve wine of the weakest colors, watered down to prevent the participants from getting drunk too quickly. Sapphire appears to be the strongest color imbibed casually, and the phrase "to be in (someone)'s violets" refers to a person being heavily, perhaps dangerously drunk.
 Beer and [[Mudbeer\|mudbeer]] are typical casual drinks, commonly served in taverns. Among [[Unkalaki\|Unkalaki]], mudbeer is also used for duels - the winner is decided by who can drink the most without passing out.
 Like most processes on Roshar, the act of drinking has its own dedicated [[Spren\|spren]]. Winespren, or alespren, appear near people who are heavily intoxicated, taking form of small bubbles clinging to nearby objects. They are considered quite rare or even nonexistent, as they require a person to be deeply drunk before they appear, which can also lead to the assumption that an alespren sighting was simply a drunken hallucination; however, both [[Axies\|Axies]] and [[Nazh\|Nazh]] attest to their existence.
@@ -402,7 +402,7 @@ The Aimian language family has two very different languages that get lumped toge
 Spren in Shadesmar speak their own languages, of which we have little information on.
 Rosharan phrases and curses often have distinct connotations specific to Roshar, such as mentioning Stormfather or storms in some way. [[Alethi\|Alethi]] and other [[Vorin\|Vorin]] cultures are also likely to use [[Almighty\|Almighty]] or [[Heralds\|Heralds]] in their phrases, while [[Singer\|Singer]] / [[Listener\|Listener]] phrases would often use rhythms or tones.
 
-
+#### Writing
 There are at least three Rosharan writing systems, the Alethi [[Women's script\|Women's script]], [[Thaylen script\|Thaylen script]] and the [[Glyphs\|Glyphs]].
 Vorinism teaches that it is unnatural and not masculine for men to read and write in the Alethi script.
 Although men being able to read Glyphs is permitted, people have a heavy prejudice towards [[Stormwarden\|Stormwardens]], who have adapted glyphs into a full writing system, although this prejudice is largely due to the Vorin teachings about those who claim to see the future.
@@ -446,4 +446,4 @@ Roshar is of interest to several powers in the cosmere, as it is a world where p
 At least one Rosharan obscene gesture requires two hands, one representing a man and one representing a woman.
 
 
-https://coppermind.net/wiki/Rosharan
+https://coppermind.net/wiki/Nomon

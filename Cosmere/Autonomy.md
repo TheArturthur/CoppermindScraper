@@ -90,7 +90,7 @@ Like all Shards, Autonomy is able to create avatars—semi-autonomous entities t
 Avatars, both made and Invested, can be of any gender, race and species, including fully inhuman ones. They are considered to be Shards of Adonalsium, in a way. Autonomy can create avatars on different planets in the cosmere without physically visiting them. Avatars can also form without a direct and conscious decision on Autonomy's part, but she will always be aware of this happening.
 Through this process, Autonomy has created several personas, both male and female; she has more female personas than male ones, though the latter are also quite popular. She prefers to make her avatars rather than herself the center of attention.
 
-
+#### Known avatars
 **Sand Lord**, on Taldain; Taldain is also home to many other, unnamed personas of Autonomy, though it is unclear if they are all avatars or if they are all different "faces" of the Sand Lord. He apparently manifested himself at some point to [[Elorin\|Elorin]], leading to an attempt to destroy the [[Diem\|sand masters]], though whether driving sand mastery to extinction was his goal remains uncertain. The Sand Lord may have also been responsible for the schism between Kerzta and Lossand, as the siblings to found both nations, [[Kerzt\|Kerzt]] and [[Lossa\|Lossa]] both claimed to have received visits from the Sand Lord, but the content of those visits were very different. Lossa was gifted sand mastery, while Kerzt was led to beleive sand mastery was a curse.
 **Patji**, located on [[First of the Sun\|First of the Sun]]; the origin and amount of its [[Investiture\|Investiture]] is unknown. It wrote a letter to Hoid where it dismisses his concerns over [[Odium\|Odium]].
 **Obrodai avatar**, younger than either of the above. She has been instilled with a great dislike of [[Hoid\|Hoid]] in order to prevent him from returning there.
@@ -132,7 +132,7 @@ It is possible that Autonomy aided [[Odium\|Odium]] in killing [[Devotion\|Devot
 Millennia later, [[Hoid\|Hoid]] sent a message to Autonomy asking for aid with Odium and the ongoing [[True Desolation\|True Desolation]]. The message was intercepted by her avatar on First of the Sun and the request denied, although [[Patji (being)\|Patji]] indicated that other avatars may be more inclined to assist. At the same time, Autonomy was manifesting another avatar on [[Obrodai\|Obrodai]], and Patji demanded that Hoid does not return there.
 
 ### Trell
-
+#### The Set
 >“*One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait…*”
 \-Miles Hundredlives[44]
 
@@ -144,7 +144,7 @@ Before this could happen, however, [[Telsin Ladrian\|Telsin Ladrian]] somehow ma
 At some point during this time, Autonomy's actions came under attention of the [[Ghostbloods\|Ghostbloods]], who began their work to stop her.
 
  by  Ben McSweeney  [[Telsin Ladrian\|Telsin Ladrian]], avatar of Autonomy
-
+#### Bilming
 >“*It is not the bomb you should worry about. It is the destruction I have sent if that bomb fails.*”
 \-Autonomy[2]
 

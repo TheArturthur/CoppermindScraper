@@ -6,4 +6,4 @@
 
 
 
-https://coppermind.net/wiki/Landswight
+https://coppermind.net/wiki/Wight

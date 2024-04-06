@@ -68,15 +68,15 @@ A person’s spiritweb, closely related to Spiritual DNA, makes up their presenc
 This spiritual aspect would exist for all thinking beings, including true artificial intelligence, as they would Spiritually and Cognitively operate the same as an organic sapient being.
 
 ### Properties
-
+#### Connection
 For more information, see [[Connection\|Connection]].
 Connection is a Spiritual property that describes the relationships between people, objects, and even more abstract concepts. If a person can gain Connection to a region, that Connection will allow them to speak that region's language. Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it. Connection also includes information about bonds between one person and another, such as the [[Nahel bond\|Nahel bond]]. Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation\|False Desolation]] is part of what trapped the [[Singer\|singers]] in [[Slaveform\|slaveform]]. In order to take up a [[Shard\|Shard]] after a Vessel dies, a person must be Connected to that Shard.
 
-
+#### Identity
 For more information, see [[Identity\|Identity]].
 [[Identity\|Identity]] is a Spiritual attribute related to spiritwebs. Each person’s Identity is as unique as their genetic sequence, and is tied to the place where someone is born. Identity is not altered with general damage to the spiritweb. Instead, someone would have to try and do something with Identity specifically. Most magic in the cosmere is keyed to a person’s Identity. Two people both blanking their Identity will almost always allow them to use each other’s Investiture. A lack of Identity will make a person more susceptible to many things in the cosmere, including [[Soulstamp\|soulstamps]]. This does not mean that someone with blank Identity could use any soulstamp, as the soulstamp’s Identity still causes issues. Identity can be very useful in things like healing, though it may occur in a roundabout method.
 
-
+#### Fortune
 For more information, see [[Fortune\|Fortune]].
 [[Fortune\|Fortune]] is a Spiritual property. Fortune can be used to learn things you would not know otherwise or to see the future. While there are ways to access the Spiritual Realm that do not involve Fortune, every use of Fortune involves the Spiritual Realm.
 

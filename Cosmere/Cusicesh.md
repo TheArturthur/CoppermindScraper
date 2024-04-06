@@ -39,4 +39,4 @@ When [[Shallan Davar\|Shallan Davar]] first learned of the name "[[Odium\|Odium]
 In facing east towards the [[Origin\|Origin]], Cusicesh must look across the continent of Roshar. The fact that observers in Kasitor can see Cusicesh's changing faces implies that at least part of the city is situated to the east of the bay.
 
 
-https://coppermind.net/wiki/Cusicesh
+https://coppermind.net/wiki/Cusicesh_the_Protector

@@ -1,17 +1,17 @@
-| **Tress**          |                                                                    |
-| ------------------ | ------------------------------------------------------------------ |
-| by  Howard Lyon    |                                                                    |
-| **Family**         |                                                                    |
-| **Parents**        | [[Lem\|Lem]], [[Ulba\|Ulba]]                                       |
-| **Siblings**       | little brother                                                     |
-| **Relatives**      | [[Aunt Glorf\|Aunt Glorf]]                                         |
-| **Ancestors**      | [[Great-grandmother Glorf\|Great-grandmother Glorf]]               |
-| **Aliases**        | Glorf                                                              |
-| **Profession**     | [[Sprouter\|Sprouter]], Merchant, Captain, Pirate , Window Cleaner |
-| **Birthplace**     | [[Diggen's Point\|Diggen's Point]]                                 |
-| **Homeworld**      | [[Lumar\|Lumar]]                                                   |
-| **Universe**       | [[Cosmere\|Cosmere]]                                               |
-| **First Appeared** | *Tress of the Emerald Sea*                                         |
+|**Tress**|
+|-|-|
+|by  Howard Lyon |
+|**Family**|
+|**Parents**|[[Lem\|Lem]], [[Ulba\|Ulba]]|
+|**Siblings**|little brother|
+|**Relatives**|[[Aunt Glorf\|Aunt Glorf]]|
+|**Ancestors**|[[Great-grandmother Glorf\|Great-grandmother Glorf]]|
+|**Aliases**|Glorf|
+|**Profession**|[[Sprouter\|Sprouter]], Merchant, Captain, Pirate , Window Cleaner |
+|**Birthplace**|[[Diggen's Point\|Diggen's Point]]|
+|**Homeworld**|[[Lumar\|Lumar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*Tress of the Emerald Sea*|
 
 >“*The girl, however, might be as you imagined—assuming you imagined her as thoughtful, soft-spoken, and overly fond of collecting cups.*”
 \-Hoid describing Tress.[1]
@@ -74,7 +74,7 @@ Tress likes to see the best in people, not willing to accept that they are bad p
 She is quite naive about how the world works, and has much to learn while on her travels looking for Charlie. Simple things like eating verdant vines, common knowledge to many, is new to her.
 Tress is very brave and willing to go to great lengths to help others, including leaving the island she grew up on for the love of her life. Rather than risking the life of her crew, Tress tries to face the [[Midnight Essence\|midnight essence]] alone, believing it to be her task alone and not wanting to lose any more crew.
 
-
+#### Cups
 >“*Tress cherished her cups. She had fine porcelain cups with painted glaze, clay cups that felt rough beneath her fingers, and wooden cups that were rugged and well-used.*”
 \-Hoid describing Tress's Cups[13]
 

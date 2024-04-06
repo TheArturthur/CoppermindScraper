@@ -29,4 +29,4 @@ Films about detectives investigating in a Snapshot are popular in the Restored A
 Brandon's initial premise was that an [[Epic\|Epic]] could create them, but because of conflicts with film rights, Snapshot is not in the Reckoners universe "right now."
 
 
-https://coppermind.net/wiki/Dupe
+https://coppermind.net/wiki/Snapshot_(event)

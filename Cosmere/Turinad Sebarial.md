@@ -146,4 +146,4 @@ A year later, Sebarial stayed behind at Urithiru to aid with the tower's adminis
 Sebarial and [[Ashweather Cett\|Ashweather Cett]] together would "make a good comedy show."
 
 
-https://coppermind.net/wiki/Sebarial
+https://coppermind.net/wiki/Turinad_Sebarial

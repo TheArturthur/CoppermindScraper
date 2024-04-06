@@ -24,4 +24,4 @@ In 1168, with both his wife and daughter dead, Harl voluntarily enlisted in High
 In early editions of *The Way of Kings*, the man who confronts Lirin in the night was named **Horl**. This was a typo, and it was corrected in the leatherbound edition.
 
 
-https://coppermind.net/wiki/Horl
+https://coppermind.net/wiki/Harl

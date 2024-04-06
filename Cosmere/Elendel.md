@@ -1,9 +1,9 @@
-| **Elendel**       |                                  |
-| ----------------- | -------------------------------- |
-| by  Isaac Stewart |                                  |
-| **Region**        | [[Elendel Basin\|Elendel Basin]] |
-| **World**         | [[Scadrial\|Scadrial]]           |
-| **Universe**      | [[Cosmere\|Cosmere]]             |
+|**Elendel**|
+|-|-|
+|by  Isaac Stewart |
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
 This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -136,7 +136,7 @@ The government of Elendel is a democratic republic unitary government. Though it
 ### Executive
 The leader of the Executive Branch is the Governor. The Governor is elected by the Senate, over which he presides. The Governor is assisted in his duties by an Executive Staff. Known Executive Staff positions include the sanitation director, minister of trade, secretary of education, minister of public affairs, and minister of science and technology. The governor has the authority to declare martial law, a strong implication that, like on Earth, law enforcement is considered within the penumbra of the executive branch. As such, they will be covered here.
 
-
+#### The Constabulary
 Primary (and possibly all) law enforcement within Elendel is the Constabulary. Each Octant is headed by a Constable-General, though each reports directly to the Governor. The Governor had the authority to appoint Aradel as "lord high constable", a position which it seems he invented on the spot, as neither the Constable-General, one of his best lieutenants, or his aide had ever heard of it before. They even wondered aloud whether or not the "lord" in the title conveyed peerage, though the Governor lacks the authority to appoint someone to the nobility. The lord high constable was given authority over the other seven Constable-Generals, and did not seem to give up his position as Constable-General of his own octant.
 There seems to be roughly six hundred constables per octant.
 In the novels, Lord Waxillium Ladrian is granted a "city-wide deputized forbearance" in the Constabulary, though what specifically this means is a little confusing. In the broadsheets of Shadows of Self, it's said that the decision was that of the Fourth Octant constables, yet Constable-General Brettin said that he had to ask the Senate for it. Presumably, then, the decision is made by the Constabulary, but must be approved/ratified by the Senate, though whether this goes before the full Senate or is handled by a sub-committee is unknown at this time.
@@ -152,7 +152,7 @@ There are entire departments dedicated to watching for violations of this agreem
 The legislative branch of Elendel is bicameral in nature. Both houses, however, are comprised of politicians called Senators. There are mixed methods of appointment, some hereditary and some elected. One house is comprised entirely of Noble Houses. Whoever inherits any given High Noble title also inherits their vote in the Senate, although they can assign a proxy to do the actual voting. The other house is elected by the people, divided by profession via guilds (i.e., there is a seat for Orchard Growers, and one for Seamstresses, etc). Term limits and years of service are, at the moment, unknown. It is also unknown if the guild seats are weighted in some way to reflect number of constituents or importance towards the city. It is unknown what allows a group of workers to band together, declare themselves a guild, and gain a seat, or if some arrangement is made for people in niche industries that might not have a guild.
 There are at least 243 senators as of 348 [[Catacendre\|PC]].
 
-
+#### Senate Members
 [[Darlin Cett\|Darlin Cett]]
 [[Dupon Melstrom\|Dupon Melstrom]]
 [[Lady Faula\|Lady Faula]]
@@ -192,4 +192,4 @@ For a full list see, see :Category:Residents of Elendel.
 
 
 
-https://coppermind.net/wiki/Elendel_Senate
+https://coppermind.net/wiki/Hammond_Promenade

@@ -17,4 +17,4 @@ He was a candidate for the Canalworkers 2nd Seat in the elections for the Elende
 His last name is similar to that of Elendel entrepreneur [[Carmine Feltry\|Carmine Feltry]], but there is no confirmed connection between them.
 
 
-https://coppermind.net/wiki/Alloran_Feltri
+https://coppermind.net/wiki/Feltri

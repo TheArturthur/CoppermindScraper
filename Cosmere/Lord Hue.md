@@ -11,4 +11,4 @@ During the deposition of King [[Elend Venture\|Elend Venture]], he votes for Kin
 
 
 
-https://coppermind.net/wiki/Hue
+https://coppermind.net/wiki/Lord_Hue

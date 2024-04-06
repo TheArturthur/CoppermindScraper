@@ -122,4 +122,4 @@ According to [[Vorinism\|Vorinism]], mankind fought the [[Voidbringer\|Voidbring
 
 
 
-https://coppermind.net/wiki/Desolation
+https://coppermind.net/wiki/First_Desolation

@@ -49,4 +49,4 @@ The main religion is the [[Church of the Monarch\|Church of the Monarch]]. It is
 
 
 
-https://coppermind.net/wiki/Albert
+https://coppermind.net/wiki/United_Isles_of_America

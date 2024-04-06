@@ -15,4 +15,4 @@ When [[Hoid\|Hoid]] and [[Tress\|Tress]] force Riina to leave Lumar, she does so
 
 
 
-https://coppermind.net/wiki/Seslo
+https://coppermind.net/wiki/Sorceress%27s_tower

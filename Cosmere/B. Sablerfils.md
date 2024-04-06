@@ -15,4 +15,4 @@ He composed the historical operetta *A Hero for All Ages* with [[Buissonommes\|B
 Sablerfils loosely translates from French to English as "Sanderson", and the character is a writer and teacher, much like [[Brandon Sanderson\|Brandon Sanderson]]. [[Peter Ahlstrom\|Peter Ahlstrom]] has confirmed that Sablerfils is a cameo for Brandon that was inserted into the broadsheets by [[Isaac Stewart\|Isaac Stewart]].
 
 
-https://coppermind.net/wiki/Sablerfils
+https://coppermind.net/wiki/B._Sablerfils

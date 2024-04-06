@@ -66,4 +66,4 @@ Putting an iron tool near a growing [[Aether\|aether]] substance pulls the subst
 
 
 
-https://coppermind.net/wiki/Lurcher
+https://coppermind.net/wiki/Blessing_of_Potency

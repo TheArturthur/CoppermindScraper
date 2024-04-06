@@ -63,4 +63,4 @@ A [[Fabrial\|fabrial]] with a tin cage will suppress the element corresponding w
 In 2015, Brandon said that the Allomantic symbol for tin is also sometimes used to represent Allomancy in general because [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] likes how it looks.
 
 
-https://coppermind.net/wiki/Tin
+https://coppermind.net/wiki/Blessing_of_Awareness

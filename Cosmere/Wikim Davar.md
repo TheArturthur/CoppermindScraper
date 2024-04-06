@@ -66,4 +66,4 @@ Wikim's [[Lin Davar\|father]], just as he does to his other sons, screams at and
 
 
 
-https://coppermind.net/wiki/Wikim_Davar
+https://coppermind.net/wiki/Wikim

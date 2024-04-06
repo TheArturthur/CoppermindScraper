@@ -86,34 +86,34 @@ Apart from the regular metals, [[Scadrial\|Scadrial]] also has access to two God
 ### Special Metalminds
 Special metalminds can be created so more than the Feruchemist who filled it can access the stored attributes. There are no genetic or Spiritual restrictions to using them. Due to the nature of [[Intention\|Intention]] in the cosmere, an individual must be aware of the metalmind's nature before they can use it.
 
-
+#### Unkeyed Metalminds
 An **unkeyed metalmind** is a special kind of metalmind that anyone with the relevant Feruchemical ability can access. They are created through manipulation of Identity, such as through aluminum Feruchemy. Whereas a conventional metalmind is keyed to the Identity of the Feruchemist who created it, unkeyed metalminds are not attuned to any specific individual's Identity.
 
-
+#### Unsealed Metalminds
 An **unsealed metalmind** is a special kind of metalmind that anyone can access. The exact method of their creation is unknown, but it involves Feruchemical [[Nicrosil\|nicrosil]] and [[Duralumin\|duralumin]] and something referred to as an [[Excisor\|Excisor]]. Unsealed metalminds are formed of nicrosil and one or more other metals. The nicrosil grants the user the ability to use the other metals. Unsealed metalminds see widespread use among the [[Southern Peoples of Scadrial\|Southern Peoples of Scadrial]], but perhaps the most famous example are the fabled [[Bands of Mourning\|Bands of Mourning]]. Hemalurgy makes it easier to create medallions, even if one is already a full Feruchemist and Mistborn. Unsealed metalminds have more of an Identity than normal metalminds, which may allow people to fill them while sleeping.
 
 ### Interactions with Other Investitures
-
+#### Allomancy
 Perhaps the most dramatic interaction between Feruchemy and [[Allomancy\|Allomancy]] is [[Compounding\|Compounding]], by which a Feruchemist can Allomantically burn a metalmind and dramatically increase the amount of the attribute stored. Effectively this uses the end-positive nature of Allomancy to use Preservation's power to fuel the end-neutral art of Feruchemy.
 Following the Catacendre, and the emergence of Ferrings, it is possible for individuals to be born with a single Allomantic ability and a single Feruchemical ability. These individuals are known as [[Twinborn\|Twinborn]]. When an individual's abilities share a metal, they are capable of Compounding. Even when they do not, however, the interaction between the two abilities creates an effect, known as a [[Resonance\|Resonance]].
 Like any Invested object, a metalmind resists Allomantic Ironpulls and Steelpushes. The strength of resistance is based on the level of Investiture stored in the metalmind. A metalmind with only a small amount of stored attribute might resist only slightly, whereas a fully charged metalmind will be effectively immune.
 It is theoretically possible to detect the use of Feruchemy using bronze Allomancy, as it can detect any kinetic Investiture, however it requires a "tweak" that is not currently known. Part of the issue is that Feruchemy is a more internal manifestation of Investiture than Allomancy.
 
-
+#### Hemalurgy
 A [[Hemalurgic\|Hemalurgic]] spike can be used as a Feruchemical metalmind, much like how multiple Feruchemists can store in the same piece of metal, as the charges are stored in different parts of the metal.
 An individual who has Feruchemy as a result of a Hemalurgic spike can access the metalminds of the Feruchemist who was used to create the spike, as the spike contains enough of the original Feruchemist's Identity. If that spike is split and implanted into two different people, they would each be able to access the original Feruchemist's metalminds, but they would not be able to share metalminds as their own Identity would interfere.
 It is possible to use gold Feruchemy in order to heal the damage caused by Hemalurgy, effectively replacing the piece of the [[Spiritweb\|spiritweb]] that was stolen.
 
-
+#### Nightblood
 Tapping a metalmind is enough to fuel [[Nightblood\|Nightblood]] while it is unsheathed.
 
-
+#### Awakening
 If an aluminummind is filled, then Awakened with Nightblood-level Investiture to give it sentience, the resulting object's personality would probably be influenced by the Feruchemist's Identity, but it would not be an identical copy of the Feruchemist's personality.
 
-
+#### Nahel Bond
 If a [[Surgebinder\|Surgebinder]] were to store [[Connection\|Connection]] and Identity into the appropriate metalminds on a heavy basis, it would affect the [[Nahel bond\|Nahel bond]] between the Surgebinder and the [[Spren\|spren]].
 
-
+#### Shardblades
 A fully charged metalmind would be enough to block, or at least resist, a blow from a [[Shardblade\|Shardblade]].
 It is possible to use gold Feruchemy in order to heal the damage caused by a Shardblade, restoring function to a soul-severed limb.
 
@@ -143,4 +143,4 @@ Other names considered in development include Sangrimancy, Ferruchemy, Auronomy,
 
 
 
-https://coppermind.net/wiki/Metalmind
+https://coppermind.net/wiki/Feruchemy

@@ -13,4 +13,4 @@ The **Taldain system** is the planetary system that contains [[Taldain\|Taldain]
 
 
 
-https://coppermind.net/wiki/AisDa
+https://coppermind.net/wiki/Taldain_System

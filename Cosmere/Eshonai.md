@@ -95,13 +95,13 @@ Eshonai was an explorer who often travelled the wilderness of [[Natanatan\|Natan
 On the day of his [[Assassination of Gavilar\|assassination]], [[Gavilar\|Gavilar]] spoke to Eshonai privately. She was the first listener to learn that Gavilar wanted to bring back the listeners' old gods. He gave her a [[Black sphere\|dark gemstone]] and told her to give it to [[The Five\|The Five]]. Taking the gemstone, Eshonai went to the Five and told them of Gavilar's plans, and the group decided to assassinate the Alethi king. Though Eshonai was not yet on the Council of Five, the council gave her a vote and listened to her advice due to her role as an interpreter. She voted in favor of killing Gavilar, in order to keep the listeners free of their gods and to affirm the decision made by their [[Last Legion\|ancestors]] centuries ago.
 
 ### The War of Reckoning (1167-1173)
-
+#### Narak
 Sometime between the assassination of Gavilar and the Battle of the Tower, Eshonai became a member of the Council of Five and was made the general of the listener army. After the death of the king, the listeners relocated to [[Narak\|Narak]] in the hopes that a war of attrition would deter the Alethi from pursuing longterm action. Unfortunately, the presence of chasmfiends on the Shattered Plains allowed the war to continue for many years, with the Alethi and listener forces clashing over the beast's gemhearts. Eshonai would sometimes join her troops in the skirmishes over these gems.
 
-
+#### The Battle of the Tower
 During the battle, Eshonai dueled [[Dalinar Kholin\|Dalinar Kholin]] as the army made its retreat. She defeated him in combat, and recognised him as the Alethi Shardbearer she had been searching for, but was stabbed in the leg by [[Kaladin Stormblessed\|Kaladin Stormblessed]], who made his escape with Dalinar before she had a chance to speak with him. As the army made its retreat from the [[Tower (Roshar)\|Tower]], she saluted Dalinar as a gesture of respect. She allowed the Alethi to escape the battle without attacking them once they cleared the Tower.
 
-
+#### The Everstorm
  by  Casey Fallon  Eshonai bonding with a stormspren during a [[Highstorm\|highstorm]]
 >“*With enough of us bearing this form together, we could bring it. We could bend the storms to our will, and could bring bring them down upon our enemies.*”
 \-Eshonai in stormform[8]

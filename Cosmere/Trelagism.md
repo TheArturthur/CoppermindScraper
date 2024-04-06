@@ -50,4 +50,4 @@ Trelagism was created by Autonomy, in an attempt to leave a seed of herself in t
 
 
 
-https://coppermind.net/wiki/Trelagism
+https://coppermind.net/wiki/Nelazan

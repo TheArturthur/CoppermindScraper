@@ -70,4 +70,4 @@ A group of Inquisitors is called a murder.
 Kelsier was not the first person to kill a Steel Inquisitor.
 
 
-https://coppermind.net/wiki/Inquisitor
+https://coppermind.net/wiki/Steel_Inquisitors

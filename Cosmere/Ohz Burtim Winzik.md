@@ -66,4 +66,4 @@ Despite his previous failures, Winzik continued his plans to use the Delvers. He
 
 
 
-https://coppermind.net/wiki/Ohz_Burtim_Winzik
+https://coppermind.net/wiki/Winzik

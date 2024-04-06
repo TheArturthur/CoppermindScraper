@@ -54,7 +54,7 @@ Those with the ability are able to induce visions on their targets. In order to 
 Those pulled into a vision have little control over it and often can't refuse. However, they may be able to pull in those they are bonded with. Those pulled into a vision manifest via their mind and soul, ignoring physical aliments. Some visions can be slowed down, similar to the effects of a [[Bendalloy\|speed bubble]].
 Those who a brought into a vision can bring some things with them (such as the [[Thrill\|Thrill]], [[Surgebinding\|Surgebinding]], or [[Nightblood\|Nightblood]]), though some things cannot be brought (such as [[Shardblade\|Shardblades]]). Things affected in a vision will carry over after exiting one, such as paper being torn in a vision remaining torn after leaving the vision. Likewise, some entities inside a vision can still be harmed or killed. Accents might not carry over inside of visions.
 
-
+#### Interference
 Some individuals are able to control the visions of others, entering, leaving, and removing others on their own without the creators authority. They can also be messed with under certain inhibitors, such as [[Suppression fabrial\|suppression fabrials]].
 
 ## Honor's Visions

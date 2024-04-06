@@ -4,6 +4,7 @@
 |**Relatives**|[[Wilson\|Wilson]], , , |
 |**Profession**|Butler|
 |**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
+|**First Appeared**|*Legion: Lies of the Beholder*|
 
 **Barb** is [[Wilson\|Wilson's]] grandniece and [[Stephen Leeds\|Stephen Leeds']] new butler.
 Barb is a young woman with short blonde hair. Stephen thinks she looks awkward wearing coachman's gear. Barb is a upbeat person who truly wishes to be of help to Stephen, but Stephen repeatedly rejects her help.

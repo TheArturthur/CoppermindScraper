@@ -32,17 +32,17 @@ The Palace is located in the northern portion of the city of [[Kholinar\|Kholina
 The main building of the palace stands between the Monastery Dais and the Sunmaker Park. The main entrance leads to twin ballrooms - presumably, a separate one for men and for women. Both ballrooms have access to the garden that forms the northern side of the palace. Directly adjacent to the Grand Entry are the palace garrison and the guest quarters. From the latter, one may reach the Eastern Gallery and through it, the Sunwalk, which leads to the Monastery Dais.
 The lower floors of the palace have broad and wide corridors. The palace basements house the unloading docks, used to transport cargo to and from the palace plateau. The upper floors are narrow and cavernous. The royal quarters are located there.
 
-
+#### Monastery Dais
 The Monastery Dais is a large, almost perfectly circular platform near the main building, and may be technically considered part of the palace complex. As its name indicates, it houses the Kholinar ardentia. Notable features include the King's Chapel and a room, the Circle of Memories, with eleven lanterns. The ardents believe that the lanterns represent the [[Silver Kingdoms\|Silver Kingdoms]], with the last one marking the [[Tranquiline Halls\|Tranquiline Halls]].
 In actuality, the room is the Kholinar [[Oathgate\|Oathgate]] chamber, and the entire dais is the Oathgate platform.
 
-
+#### People's Hall
 The People's Hall is a separate building within the palace complex. It's a large, open-air structure sitting in the shadow of the palace. In contrast to other parts of the complex, it is open to the public, as it is from there that the reigning monarch can address the common people of the city. It also holds a dais with the **Common Throne**, where the king or queen sits while making pronouncements. It is there that [[Pai\|Pai]] chooses to write her denouncement of [[Aesudan Kholin\|Aesudan Kholin]].
 
-
+#### Beggars' Porch
 The Beggars' Porch is a small patio in the back of the palace gardens, so named because the city's homeless often come there, hoping for some charity from the royal family. During the time between [[Evi\|Evi]] and [[Gavilar\|Gavilar's]] deaths, [[Dalinar Kholin\|Dalinar Kholin]] would visit it often to get alcohol from the beggars, as his family would hide it from him. It was also there that the [[Herald\|Herald]] [[Jezrien\|Jezrien]] could be found, under the nickname Ahu. Whether the Porch still remains in this capacity after Gavilar's death is unclear.
 
-
+#### The Catacombs
 The catacombs are located in the depths of the palace. They can be reached through the eastern wing, by the same passage that leads into the kitchens and the Beggars' Porch. It's a stone structure composed of long corridors, with a central chamber spacious enough to hold several dozen people, lit with real fires rather than spherelight. Funerals for the [[Lighteyes\|lighteyes]] of House Kholin take place there, and their bodies, [[Soulcast\|Soulcast]] to stone, are placed upright along the walls of both the main chamber and the tunnels surrounding it.
 
 ## Palace Guard and Queen's Guard
@@ -58,4 +58,4 @@ The strike team led by Elhokar Kholin tried and failed to re-take the Palace fro
 
 
 
-https://coppermind.net/wiki/Circle_of_Memories
+https://coppermind.net/wiki/Queen%27s_Guard

@@ -101,4 +101,4 @@ Broken Windows theory: The best way to lower crime in an area is through renovat
 Deviations: When exploring a crime scene, finding the deviations from typical patterns, then finding out why they deviated will often yield something on the criminals.
 
 
-https://coppermind.net/wiki/Marasi_Colms
+https://coppermind.net/wiki/Marasi

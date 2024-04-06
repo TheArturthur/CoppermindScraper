@@ -41,4 +41,4 @@ Ranette believed that her hazekiller rounds were even more effective than [[Alum
 [[Vindication\|Vindication]]
 
 
-https://coppermind.net/wiki/Hazekiller
+https://coppermind.net/wiki/Kill_squad

@@ -57,7 +57,7 @@ This was not meant to be, however, as Protective Services used their human opera
 The Superiority is some form of a federation or republic. It's divided into regions, containing a number of worlds and space stations. Each region is designated by a letter and a number, and each has a local government responsible for maintaining the affairs there; one such local government is [[Starsight (station)\|Starsight]] station, responsible for region C4. It's unknown whether they have some sort of capital world.
 The leader of the Superiority holds the title of the **High Minister**; the current High Minister is [[Ved (Skyward)\|Ved]]. Beneath the High Minister is a number of Ministers, each of whom controls one of the **departments** of Superiority. Each department is responsible for a particular facet of Superiority's existence; the precise number of departments is unknown. There is also the **senate**, which is responsible for assessing and passing or vetoing new laws and legislation. While local sub-governments can exile people for various actions with virtually no oversight, the senate regulates any more impactful activities, like shutting down news networks. The Ministers seem to be members of the senate, though it's likely it's comprised of more than just them.
 
-
+#### Department of Protective Services
 >“*They are primarily tasked with resolving external threats to the Superiority.*”
 \-Cuna[3]
 
@@ -65,7 +65,7 @@ The leader of the Superiority holds the title of the **High Minister**; the curr
 Led by [[Ohz Burtim Winzik\|Ohz Burtim Winzik]], the Department of Protective Services is responsible for keeping the peace throughout Superiority. Their main duty is to isolate and control any aggressive species, chief among them humanity. They do so by maintaining observation posts and space stations above the affected worlds, and by launching offensive strikes to keep their prisoners under containment. They seem to be the military arm of the Superiority, and command the [[KRELL\|KRELL]].
 Apart from raw force, the Department of Protective Services employs a number of more subtle measures, including a hefty propaganda machine. Silencing internal discord within the Superiority seems to be part of their responsibilities; for this reason, they employ **suppressors**, meant to censor the news or turn the news cycle against any dissenters. They're also known for stoking up public fears of humanity whenever they feel the need to attain greater funding from the government.
 
-
+#### Department of Species Integration
 >“*Personally I believe there is a home for many different types of species in the Superiority.*”
 \-Cuna[3]
 
@@ -105,4 +105,4 @@ On the other hand, Superiority does provide safety and prosperity to its members
 
 
 
-https://coppermind.net/wiki/Department_of_Species_Integration
+https://coppermind.net/wiki/Superiority

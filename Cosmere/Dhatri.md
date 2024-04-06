@@ -34,10 +34,10 @@ At an unknown point before 348 [[Catacendre\|PC]], it was struck by a force or e
 
 ## Culture
 ### Religion
-
+#### Gods
 They are known to worship the aethers as gods, which they believe predate not only the [[Shattering\|Shattering]], but [[Adonalsium\|Adonalsium]] in its entirety. They believe that aethers made all people, creating them to each think differently from one another.
 
-
+#### Rebirth
 They also believe humans were gifted with rebirth by the aethers to encourage, bless, and uplift their fellow people. Those that follow the aethers also hold that people return to the aethers upon their deaths to reflect upon their choices in life. It is believed that people who have made poor choices are cursed to wait a long time until their next rebirth. They often swear with phrases such as "by the first aether".
 
 ## Nations

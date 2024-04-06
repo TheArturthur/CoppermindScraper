@@ -60,10 +60,10 @@ A Reod Elantrian has limited access to AonDor and cannot produce very powerful e
 ### Arelon
 The Elantrians have almost always ruled Arelon, with a short interruption during the [[Reod\|Reod]].. Before the Reod they were worshipped as deities by the people of Arelon. People from the furthest corners of Arelon would go to the Elantrians to receive blessings and be healed from disease. The Elantrians and their use of AonDor also served as the lynchpin of the Arelene economy for centuries. Their ability to cheaply create large amounts of food had supported massive urban populations. Fencing, specifically with a [[Syre\|Syre]], never became popular in Arelon because the  disapproved of anything resembling violence.
 
-
+#### Elantris
 The grand city of [[Elantris\|Elantris]] was constructed by Elantrians. This city is accounted as one of the most beautiful cities on Sel. Elantris eventually became the capital of Arelon, and with that it became seat of the Elantrians. During the [[Reod\|Reod]] Elantris was abandoned due to its association with the Elantrians. During this time it served as a place for the exiled Elantrians.
 
-
+#### The Aonic script
 As Elantrians are the only ones who can draw Aons, someone taken by the Shaod must have developed the Aonic writing system. Due to the association with the Elantrians the Aonic people view writing as a noble art.
 
 ## Notable Elantrians
@@ -83,4 +83,4 @@ For more information, see :Category: Elantrians.
 
 
 
-https://coppermind.net/wiki/Elantrians
+https://coppermind.net/wiki/Elantrian

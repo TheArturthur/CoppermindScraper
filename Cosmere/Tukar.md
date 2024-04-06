@@ -65,7 +65,7 @@ During the [[Silver Kingdoms\|Silver Kingdoms]] era, Tukar was part of [[Makabak
 When the [[Azir\|Azish Empire]] began to form, Tukar might've joined them, although their status within the coalition, if it even is part of the coalition, is confusing.
 The nations of Tukar and Emul have been in the state of on-and-off conflict for centuries, with the main point of contention being the city of [[Sesemalex Dar\|Sesemalex Dar]]. This was done due to a combination of the religious value ascribed to Sesemalex Dar by both sides, and due to its effectiveness and value as a port city.
 
-
+#### Rise of Tezim and the Eighty's War
 Around 1167, Ishar rose to power as the God-Priest of Tukar. As the leader, he began to lead a new conflict against Emul for control of Sesemalex Dar, known as the [[Eighty's War\|Eighty's War]]. Shortly before the [[Everstorm\|Everstorm]], in 1173, the fighting grew in ferocity. At the same time, tensions with [[Marat\|Marat]] began to rise, leading some to theorize that they may quickly turn their aggression to them instead.
 
 ### The True Desolation
@@ -73,7 +73,7 @@ Around 1167, Ishar rose to power as the God-Priest of Tukar. As the leader, he b
 When the True Desolation began, [[Dalinar Kholin\|Dalinar Kholin]] sent messages to both Emul and Tukar, hoping that at least one of them would join his alliance. Tukar outright refused, with the god-priest demanding that, as an "aspect of the [[Almighty\|Almighty]]", he should be the one in charge of [[Urithiru\|Urithiru]] and the [[Knights Radiant\|Knights Radiant]], they quickly refused to submit to his demands.
 During the Desolation, [[Voidspren\|voidspren]] began appearing in [[Shadesmar\|Shadesmar]] in the region equivalent to Tukar. Nonetheless, by the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the country is still considered to be neutral in the conflict.
 
-
+#### The Emuli Offensive
 They played a major role in the Emuli Offensive in 1175, fighting against Alethi and Azish forces and the Coalition of Monarchs who were attempting to push the occupying Fused out of Emul. They primarily set up their armies in northeastern Tukar, around the [[Drunmu Basin\|Drunmu Basin]].
 
 

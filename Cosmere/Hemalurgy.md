@@ -75,7 +75,7 @@ This was likely done without a conscious decision by Harmony, and more of a bypr
 After the spike pierces through the initial person and is Hemalurgically charged, the **Law of Hemalurgic Decay** states that the spike loses some of its potency. The longer a spike is outside a body, the weaker it becomes, and a spike will lose most of the power it can lose on the first day outside of a body. Thus, when the [[Steel Ministry\|Steel Ministry]] created an [[Inquisitor\|Inquisitor]], the spikes were driven directly through a victim into the bindpoint of the Inquisitor below to minimize the spike's time spent outside of a person. Additionally, spikes which are physically broken into several pieces will split the charge into the broken pieces, and more Hemalurgic power will be lost when spikes are split.
 Despite the decay, a spike will never completely lose its charge. As a spike loses its charge, the stolen soul will move on to the Beyond.
 
-
+#### Reduction of Hemalurgic Decay
 Coating a spike with blood can reduce the Hemalurgic decay significantly. It is unknown how much blood is necessary to make that effect happen; however, the blood does not need to be fresh nor separated from a body, with cuts of meat large enough to contain the spike also sufficing to reduce decay. This works by 'tricking' the spike into believing that it is buried in a body. It is possible that encasing spikes in [[Aluminum\|aluminum]] may prevent decay.
 Eventually, Arcanists discovered a way to completely avoid Hemalurgic decay outside of the body. However, there is still an amount of Investiture lost during the creation of the spike. The exact method behind this is unknown.
 
@@ -226,4 +226,4 @@ People using Hemalurgy have been to [[Roshar\|Roshar]] and have likely been seen
 The early editions of *The Hero of Ages* said Feruchemical healing was granted by pewter spikes, even though the Hemalurgy table says pewter spikes only give Physical Feruchemical abilities. Brandon indicated that pewter spikes could steal from the hybrid quadrant as well. However, later editions of the book changed the pewter spike mentioned to a gold spike and added an additional mention to a gold health spike in chapter 5.
 
 
-https://coppermind.net/wiki/Hemalurgy
+https://coppermind.net/wiki/Hemalurgic

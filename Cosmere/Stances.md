@@ -64,4 +64,4 @@ There are three more stances, corresponding to the [[Ten Essences\| Essences]] o
 
 
 
-https://coppermind.net/wiki/Bloodstance
+https://coppermind.net/wiki/Flamestance

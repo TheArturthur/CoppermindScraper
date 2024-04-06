@@ -45,7 +45,7 @@ Wingflare has bleached-white hair and artificial-looking skin, and often often w
 ### Powers
 Wingflare's telekinesis powers are so extensive that she can control individual bits of matter at will. She uses this power to fly, and to keep her hair and clothing completely motionless while in flight. It also allows her to stop bullets or sword strikes, which makes her very difficult to kill. She is so powerful that she keeps the entire city of Lux in the air, as well as her entire compound. She has great control over her abilities, and can move very large objects very rapidly with great precision. She can also hold someone completely immobile with her powers, or stretch out their limbs as a method of torture.
 
-
+#### Wingflare’s Compound
 Wingflare lives in a large floating compound a little ways outside of Lux, which is comprised of about a dozen state capital buildings, kept in the air by her powers. Small floating stone steps form bridges leading to the each of the buildings, with the last steps slanted. Wingflare stocks the capital buildings with treasure, and enjoys watching people struggle and die trying to cross the bridges. She lives in the White House, which she has redecorated.
 
 ### Weakness

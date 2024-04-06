@@ -47,4 +47,4 @@ The terms strong axial force and strong axial interconnection are reminiscent of
 Brandon has spoken about the nuclear forces and other fundamental forces being the inspiration behind the Surges. However, he also qualified this by saying that he was not actually using those specific forces exactly, but is rather using more fanciful ideas partially derived from the concept of fundamental forces. Thus, the similarity between the strong axial force and the strong nuclear force might just be mostly in the name. This is likely the same for the soft axial interconnection and the *weak nuclear force*.
 
 
-https://coppermind.net/wiki/Axon
+https://coppermind.net/wiki/Axi

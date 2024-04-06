@@ -75,4 +75,4 @@ Due to the fact that Elhokar cannot use Aesudan as a scribe while he is on the S
 The [[Ghostbloods\|Ghostbloods]] believe that [[Bordin\|Bordin]], one of Dalinar's most trusted servants, is left behind in Alethkar to spy on Aesudan.
 
 
-https://coppermind.net/wiki/Aesudan
+https://coppermind.net/wiki/Aesudan_Kholin

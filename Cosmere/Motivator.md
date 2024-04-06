@@ -62,7 +62,7 @@ Later on, Jax put the boomerang motivator into a more convenient model. He turne
 ### Fathom Radar
 The **fathom radar**, or simply **fathom**, is a surveillance motivator made from the DNA of the Epic [[Fathom (Epic)\|Fathom]]. The motivator is inside a drone, which can scan large areas and display them as wire-frame 3D models. Jax uses it to gain valuable schematics of [[Lux (city)\|Lux's]] layout, using fathom to scan the city from underneath.
 
-
+#### Scorchnotes
 The fathom motivator is extremely useful when a reversing coiler is added. It can emit a ray, which when it hits an object, causes that object to be come two-dimensional. The two-dimensional object appears as an outline drawn in ash atop whatever surface the object was on, and the drawing cannot be removed. Firing again at the object restores it to its original state, causing the surface on which it rests to burst into flames and disintegrate. This allows the Reckoners to hide weapons, gear, and even vehicles on scraps of paper, smuggling them into Lux and then restoring them later. These are called **scorchnotes**, as they burn the notes with the motivator to restore the gear.
 
 ### Rtich
@@ -122,4 +122,4 @@ Created by the [[Knighthawk Foundry\|Knighthawk Foundry]] from the cells of Prof
 
 
 
-https://coppermind.net/wiki/Fathom_radar
+https://coppermind.net/wiki/Motivator

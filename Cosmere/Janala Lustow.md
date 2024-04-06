@@ -24,4 +24,4 @@ In [[Urithiru\|Urithiru]] Janala was working as [[Teshav\|Teshav's]] assistant. 
 
 
 
-https://coppermind.net/wiki/Janala
+https://coppermind.net/wiki/Janala_Lustow

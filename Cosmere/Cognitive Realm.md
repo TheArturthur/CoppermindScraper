@@ -46,23 +46,23 @@ The Cognitive Realm exists as a connected plane that is heavily distorted based 
 ### Subastrals
 Parts of the Cognitive Realm that are reflections of planets are called subastrals.
 
-
+#### Rosharan Subastral
 
  by  Isaac Stewart 
 Shadesmar is a bustling land and home to the spren. Shadesmar is composed of an inverted ocean made of beads that represent the souls of Physical Realm objects, while living souls from the Physical Realm are represented by flames. There is a thriving society that lives in the area with both spren specific and mixed spren cities being found in the region. Humans can also be found living in Shadesmar however they are rarer and are more commonly travelers. Trade is common between Rosharans and off worlders, with goods being bought and sold using the local Investiture, Stormlight. Relations, however, between spren and humans are not always positive with many spren treating humans poorly due to the lingering effects of the Recreance on their peoples. As well as this, several factions, including Odium's Forces and the Ghostbloods became active in the area c. 1174. Odium's forces have worked to gain influence over the Realm, while the Ghostbloods have sought to build a network for Stormlight trade off world.
 
-
+#### Scadrian Subastral
 The Scadrian subastral is also known as the [[Expanse of the Vapors\|Expanse of the Vapors]] or, in popular accounts, the 'ghostly dimension'. This region is characterized by its misty environment, with all objects from the Physical Realm appearing as misty figures. Like with the Rosharan subastral, bodies of water in the Physical Realm reflect as rocky shores, while the ground appears as a misty liquid. Living beings, as well as all metal, glow brightly in the Cognitive Realm, to the point that they can mask objects in the Physical Realm if concentrated enough.
 Worldhoppers have been known to travel by boat across the misty fluid of the Scadrian Cognitive Realm, but [[Cognitive shadow\|Cognitive shadows]], [[Shard\|Shards]], and the souls of the dead appear capable of walking on the fluid. It is not known whether such beings can also walk on the Cognitive seas of other worlds.
 
-
+#### Selish Subastral
 The Selish subastral is also known as the [[Expanse of the Densities\|Expanse of the Densities]]. Due to the Splintering of the local Shards, and subsequent locking of those Splintered bodies in the Cognitive Realm, the Selish subastral is uninhabitable, as the Shardic substance has formed into a highly pressurized plasma-like storm known as the Dor. This makes the Cognitive Realm on Sel extremely dangerous as anyone who comes there unprepared would be ripped apart by the power of the Shards. It is possible to pass through the Dor and survive, though by what means it is unclear.
 The Selish subastral appears different based on where it is linked in the Physical Realm.
 
-
+#### Lumaran Subastral
 Little is known about the Lumaran Subastral, however, the solid-fluid inversion is weirder than normal in comparison to the other subastrals shown.
 
-
+#### Canticle Subastral
 Little is known about the Canticle Subastral besides the fact that it has constant and dangerous shakings and tremors.
 
 ### Notable Locations
@@ -92,4 +92,4 @@ Living beings reflect in the Cognitive Realm in some manner. If someone is to di
 Although Brandon plans for Shadesmar to be used in reference to the whole cosmere and not just the Rosharan subastral, this may shift to the more scientific term ‘Cognitive Realm’ once Brandon reaches Era 4.
 
 
-https://coppermind.net/wiki/Cognitive_Realm
+https://coppermind.net/wiki/Subastral

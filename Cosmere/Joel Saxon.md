@@ -84,4 +84,4 @@ Joel confronted Nalizar on the day of the [[Melee\|Melee]], and Nalizar heavily 
 
 
 
-https://coppermind.net/wiki/Joel
+https://coppermind.net/wiki/Joel_Saxon

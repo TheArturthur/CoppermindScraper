@@ -7,4 +7,4 @@ One of their Operatives, [[Coln Abrams\|Coln Abrams]], investigates the [[Phone 
 
 
 
-https://coppermind.net/wiki/UIB
+https://coppermind.net/wiki/United_Intelligence_Bureau

@@ -11,4 +11,4 @@ Sazed used Cazzi teachings about the body to restore humans to their pre-ascensi
 
 
 
-https://coppermind.net/wiki/Canzi
+https://coppermind.net/wiki/Cazzi

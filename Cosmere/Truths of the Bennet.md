@@ -17,4 +17,4 @@ While they are planning to overthrow the Final Empire, Sazed suggests the Truths
 
 
 
-https://coppermind.net/wiki/Truths_of_the_Bennet
+https://coppermind.net/wiki/Bennet

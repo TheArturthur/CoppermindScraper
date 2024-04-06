@@ -40,4 +40,4 @@ The father machine attempted to patch over Yumi's memories to hide the truth fro
 
 
 
-https://coppermind.net/wiki/Machine
+https://coppermind.net/wiki/Father_machine

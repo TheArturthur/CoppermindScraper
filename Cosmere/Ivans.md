@@ -8,4 +8,4 @@ They were some form of mechanic, and Stephen regrets not taking them to Jerusale
 
 
 
-https://coppermind.net/wiki/Ivan
+https://coppermind.net/wiki/Ivans

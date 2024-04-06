@@ -135,11 +135,11 @@ Singers possess four distinct sexes; male and female, which are capable of repro
 Singers cannot switch between male and female or malen and femalen by biological means, though it is possible to do so through Invested means. Their sex-determination system is unknown, and following from the inability to switch between male and female, ultimately decides between two sexes, despite their tetramorphism. Their ability to breed with humans implies that they possess an , but this is not confirmed.
 Due to the presence of internal organs; the presence of skin, hair, and nails; the implied presence of neural tissues, and the presence of bilateral symmetry, they can be assumed to to triploblastic. That is to say, possessing of three primary germ layers of the gastrula during embryonic development.
 
-
+#### Interspecies Breeding and Introgression
 Despite these genotypical and phenotypical differences, singers and humans are capable of cross-breeding; the [[Herdazian\|Herdazians]] and [[Unkalaki\|Unkalaki]] are notable examples of human ethnicities with singer ancestry, although they experienced a heavy degree of introgression. This ancestry is the source of the Herdazians' stone-like nails as well as the Unkalaki's shell-chewing teeth and red hair. As a result of their singer ancestry, Herdazians and Unkalaki are also more likely to identify as asexual. It's unknown whether there are currently any people with both human and singer ancestry who identify as singers.
 They do not share a common ancestor, though can interbreed due to the similar intent behind their creation.
 
-
+#### Sexual Tetramorphism
 Sexual tetramorphism is minimal in asexual forms, enough so that it is easy to misidentify the sex of a singer. The presence of facial hair on male and malen singers is one mark of sexual dimorphism present in malen and femalen forms. Female individuals, particularly those in mateform, have prominent breasts which are less notable in femalen individuals.
 
 ### Spiritual Aspects
@@ -156,7 +156,7 @@ When changing forms, a singer may temporarily not be able to hear certain rhythm
 ### Known common forms
 These forms are mentioned in the listener [[Song of Listing\|Song of Listing]]. After the [[Recreance\|Recreance]] and before the [[True Desolation\|True Desolation]], when the only singers who could think clearly were the [[Listener\|listeners]], the listeners only discovered five forms: dullform, mateform, warform, workform, and nimbleform. When the [[Everstorm\|Everstorm]] arrived and healed the other singers, singers held these forms and other common forms the listeners could not reproduce, such as artform and scholarform, and had a "dozen" options.
 
-
+#### Dullform
  by  Marie Seeberger 
 >“* Dullform dread, with the mind most lost.The lowest, and one not bright.To find this form, one needs banish cost.It finds you and brings you to blight.*”
 \- final stanza of the Song of Listing[60]
@@ -167,7 +167,7 @@ Dullform was one of the two forms the [[Last Legion\|Last Legion]] was left with
 Singer children are born in dullform, though for them, it is more vibrant and less cloudy; a property it loses as the singer ages. The listeners call this subtype of dullform "childform". They need to take another form around the age of seven or eight.
 
 
-
+#### Mateform
  by  Marie Seeberger 
 >“* Mateform meek, for love to share,Given to life, it brings us joy.To find this form, one must care.True empathy, one must employ.*”
 \- 5th stanza of the Song of Listing[61]
@@ -177,7 +177,7 @@ Mateform is used by singers to reproduce; though the other forms are capable of 
 It was one of the original forms the [[Last Legion\|Last Legion]] had after abandoning the [[Regal\|Regal]] forms, alongside dullform. Presently, most singers assume it only transiently, when they wish to attempt having children, though there are some who keep it on at all times.
 
 
-
+#### Warform
  by  Marie Seeberger 
 >“* Warform is worn for battle and reign,Claimed by the gods, given to kill.Unknown, unseen, but vital to gain.It comes to those with the will.*”
 \- 15th stanza of the Song of Listing[62]
@@ -187,7 +187,7 @@ Warform gives listeners an armor-like carapace, and makes them taller and bulkie
 The first listeners to enter warform heard the pure tone of Honor.
 
 
-
+#### Workform
  by  Marie Seeberger 
 >“* Workform worn for strength and care.Whispering spren breathe at your ear.Seek first this form, its mysteries to bear.Found here is freedom from fear.*”
 \- 19th stanza of the Song of Listing[64]
@@ -197,7 +197,7 @@ Workform endows increased strength, though it lacks the armor; rather, singers i
 The first listeners to bond workform heard the pure tone of Cultivation.
 
 
-
+#### Nimbleform
  by  Marie Seeberger 
 >“* Nimbleform has a delicate touch.Gave the gods this form to many,Tho' once defied, by the gods they were crushed.This form craves precision and plenty.*”
 \- 27th stanza of the Song of Listing[67]
@@ -207,21 +207,21 @@ Nimbleform is a general form without any singular, apparent function; rather, it
 This form was rediscovered by the singers during the [[War of Reckoning\|War of Reckoning]], through research led by [[Venli\|Venli]]. It is possible that a bond with a windspren is what allows singers to enter nimbleform. During the [[True Desolation\|True Desolation]], most liberated singers wore either it or workform.
 
 
-
+#### Mediationform
 >“* Mediationform made for peace, it's said.Form of teaching and consolation.When used by the gods, it became insteadForm of lies and desolation.*”
 \- 33rd stanza of the Song of Listing[69]
 
 
 Little is known about mediationform; it appears to bestow improved speech capabilities, or better ability to convince or bestow information upon others. Singers in mediationform have smooth, beautiful carapace, and open faces. The head researcher of the listeners, [[Venli\|Venli]], claimed that she was looking for it throughout the [[War of Reckoning\|War of Reckoning]], but in reality, she never truly attempted to rediscover mediationform in the first place, instead searching for stormform.
 
-
+#### Scholarform
 >“* Scholarform shown for patience and thought.Beware its ambitions innate.Though study and diligence bring the reward,Loss of innocence may be one's fate.*”
 \- 69th stanza of the Song of Listing[71]
 
 
 Though present in the [[Song of Listing\|Song of Listing]], scholarform has only been reclaimed during the [[True Desolation\|True Desolation]]; during the [[War of Reckoning\|War of Reckoning]], listeners used nimbleform as a substitute. It appears to increase one's mental faculty and patience. Physically, it produces long hairstrands and angular features.
 
-
+#### Artform
 >“* Artform applied for beauty and hue.One yearns for the songs it creates.Most misunderstood by the artist it's true,Come the spren to foundation's fates.*”
 \-90th stanza of the Song of Listing[72]
 
@@ -313,4 +313,4 @@ To make these new singers more combat-ready, the Fused employed not only their n
 Singer gemhearts are related to Tamu Keks, a type of bone from *Dragonsteel Prime*.
 
 
-https://coppermind.net/wiki/Parshwoman
+https://coppermind.net/wiki/Singer

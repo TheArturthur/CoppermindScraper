@@ -113,4 +113,4 @@ Place value is read from top to bottom. Different glyphs are sometimes used to r
 Glyphs were inspired by Arabic word art.
 
 
-https://coppermind.net/wiki/Glyphpair
+https://coppermind.net/wiki/Glyphs

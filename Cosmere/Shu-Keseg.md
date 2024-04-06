@@ -31,7 +31,7 @@ Shu-Keseg was founded by a [[JinDo\|JinDo]] man named [[Keseg\|Keseg]] who preac
 ### Sects
 Keseg’s students, [[Korath\|Korath]] and [[Dereth\|Dereth]], left JinDo to spread Shu-Keseg, but they disagreed about how to achieve the central tenet of unity. Korath preached that mankind should be united through love, whereas Dereth taught of achieving unity through obedience. This schism resulted in the two opposing sects of Shu-Korath and Shu-Dereth.
 
-
+#### Cultural Influence
 The nation of Fjorden, the home of Shu-Dereth, used the new religion as an excuse to conquer nearby nations under the guise of divine unification.
 
 For more information, see [[Shu-Dereth\|Shu-Dereth]].

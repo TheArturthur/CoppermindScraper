@@ -130,4 +130,4 @@ Taln was a major viewpoint character in *The Way of Kings Prime*.
 
 
 
-https://coppermind.net/wiki/Taln
+https://coppermind.net/wiki/Talenelat

@@ -82,7 +82,7 @@ Early in its history the nation of [[Chedesh\|Chedesh]] dominated the world, and
 For most of their history the inhabitants of the planet were unaware of the art of [[Awakening\|Awakening]]. The death of Vo helped begin exploration into this art, which was only discovered some four centuries prior to the events of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
 
 ### The Manywar
-
+#### Prelude to the Manywar
 For more information, see [[Five Scholars\|Five Scholars]].
 [[Austrism\|Austrism]] was the predominant religion of Hanald when it was founded, and the Idrian royal family itself followed it. At the same time the [[Cult of the Returned\|Cult of the Returned]] formed and began to worship the Returned, believing that each individual had been sent from [[Austre\|Austre]] in order to fulfill a mission. They were the individuals who discovered, maintained, and named Warbreaker the Peaceful and Glorysinger.
 Three hundred years after the arrival of Vo, these Returned would be renamed as [[Vasher\|Talaxin]] and [[Shashara\|Shashara]] respectively and joined with other Returned [[Arsteel\|Arsteel]], [[Yesteel\|Yesteel]], and [[Denth\|VaraTreledees]] to form the [[Five Scholars\|Five Scholars]]. The years preceding the Manywar were ones of quick discovery about Awakening led by the Scholars. Beyond this, some of them became [[Worldhoppers\|worldhoppers]]. Their discoveries about Awakening and their exploration of the [[Cosmere\|cosmere]] cemented the legacy of these Nalthians as early scholars of the cosmere by those at [[Silverlight\|Silverlight]].
@@ -91,7 +91,7 @@ Tensions between Hanald and its neighbors began to grow due to a wide variety of
 >“*I get out of hand, Vasher? Me? When's the last time I started a war? Slaughtered tens of thousands?*”
 \-Denth to Vasher about his past[20]
 
-
+#### The Events of the Manywar
 For more information, see [[Manywar\|Manywar]].
 Despite the increase in tensions, however, the Manywar was not properly triggered by any one of these factors. Instead, a Returned had a vision about an upcoming war and told Talaxin about it, who in turn spread the news to those in the nation of Hanald. The Idrian monarchy refused to begin a preemptive war against their neighbors, so Talaxin sparked a rebellion against them and deposed their government. Talaxin rose to power as Kalad the Usurper and ordered preemptive strikes against the kingdoms of [[Kuth\|Kuth]] and [[Huth\|Huth]] to the north of Hanald.
 In response to this, several nations joined Kuth and Huth to form a coalition known as the [[Pahn Unity\|Pahn Unity]] in order to oppose Hanald. The Five Scholars broke up, taking different sides in the war.
@@ -105,7 +105,7 @@ Shortly afterwards Kalad and Shashara decided to attempt to create a [[Shardblad
 >“*It's odd, what history does to a man. I guess people couldn't understand why I suddenly changed. Why I stopped fighting and why I brought the Phantoms back to seize control of my own kingdom. So they decided I must have been two people.*”
 \-Vasher about his past[26]
 
-
+#### Resolution of the Manywar
 According to legend Kalad, called Peacegiver at that point of his life, ended the war with negotiation, but in actuality threatening to use his Phantoms played a role. By the time the war ended, the nations of Huth and Kuth were already destroyed. Peacegiver founded the nation of [[Hallandren\|Hallandren]] and began the lineage of the God Kings by granting them political power in the kingdom. They also began to hand down his [[Peacegiver's Treasure\|gift]] of Breaths to each subsequent God King. The [[Cult of the Returned\|Cult of the Returned]], now the [[Iridescent Tones\|Iridescent Tones]], took full power and began to manage the [[Court of Gods\|Court of Gods]]. Peacegiver dispersed his phantoms throughout the city secretly as the [[D'Denir Celabrin\|D'Denir Celabrin]], hiding them in plain sight.
 The Idrian royal family did not return to Hallandren but instead remained in exile to the mountains of the north, where they formed the nation of [[Idris\|Idris]]. Austrism turned its back on [[Awakening\|Awakening]] and began to consider it an abomination, also dismissing the worship of Returned as "pagan" beliefs. The nation of [[Tedradel\|Tedradel]] would continue to have an antagonistic relationship with Hallandren from that time.
 
@@ -118,13 +118,13 @@ Over the centuries the control and subjugation of the Pahn Kahl people grew wors
 
 ### The Pahn Kahl Rebellion
 For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
-
+#### Vahr's Rebellion
 Another Pahn Kahl, [[Vahr\|Vahr]], prematurely began his own rebellion against Hallandren. He had spent a decade getting the contacts needed for it and had persuaded his fellow workers to grant him their Breaths so that he could grow in power. Along the way, Vahr received help from other nations worried about Hallandren, including Idris, and various crime lords in [[T'Telir\|T'Telir]].
 
  by  CarloswkArt  [[Vasher\|Vasher]] stealing Vahr's [[Breath\|Breath]] before killing him
 Fearing this rebellion would draw too much attention to his own efforts, Bluefingers leaked Vahr's location to the Hallandren authorities and had him arrested. Without his leadership, the rebellion fell apart. The Kingdom of Idris had hoped that this rebellion would take attention away from them for a time; instead, they found even more focus was put on them than ever before as Hallandren grew paranoid about its potential enemies. In order to stave off a potential war, King Dedelin moved to fulfill his contract with [[Susebron\|Susebron]]. However, he hesitated to send [[Vivenna\|Vivenna]] and ended up sending [[Siri\|Siri]] in her place. [[Vasher\|Vasher]] took advantage of Vahr's arrest by persuading Vahr to grant him his Breaths so that Hallandren would not gain them. He killed Vahr in return for the gift.
 
-
+#### Bluefingers' Manipulation
 By this time VaraTreledees had renamed himself Denth and began working for Bluefingers to help cause the war. He corrupted [[Lemex\|Lemex]], an Idrian spy, and went to meet Vivenna, who went to [[T'Telir\|T'Telir]] after her sister, in his place. He and his [[Denth's crew\|crew]] managed to gain her trust. Convincing her that he was on his side, Denth managed to kidnap her without her realizing it.
 
 >“*You should watch yourself, child.*
@@ -137,7 +137,7 @@ While pretending to entertain Vivenna's plans to prevent the war, Denth in actua
 >“*When this is through, Princess, Idris will fight until either it or Hallandren is destroyed.*”
 \-Bluefingers to Siri.[45]
 
-
+#### The Rebellion
 Vivenna was saved by Vasher, who discovered how she had been tricked by Denth. Together, they both did what they could to prevent the war by talking to the Idrians and rescuing the [[Misel\|child]] of a [[Nanrovah\|head priest]] that Denth had kidnapped as blackmail. Their efforts were not enough, however, and the push for war was still taking place. The priests feared that the vote would come to pass and went to protect Siri from a potential riot. Seeing the unexpected vote of [[Lightsong\|Lightsong]] and the sudden increased security for Siri, Bluefingers panicked and moved to cause the rebellion that day.
 
  by  Connor Chamberlain  [[Vasher\|Vasher]] using Awakening

@@ -97,4 +97,4 @@ This page or section deals with theories or speculation.Please read carefully an
 In the planned sequel to Elantris, Wyrn decides to reinterpret scripture to suggest that only the nations to the east of the [[Atad Mountains\|Atad Mountains]] needed to be Derethi for Jaddeth to return, so it is possible that the Day of Empire will occur during the [[Elantris sequel\|Elantris sequel]].
 
 
-https://coppermind.net/wiki/Derethi
+https://coppermind.net/wiki/Odiv

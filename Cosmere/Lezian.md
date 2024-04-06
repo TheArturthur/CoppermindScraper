@@ -79,7 +79,7 @@ He was so successful at this that the other Fused encouraged his tradition, givi
 
  by  Joshua Carrenca  [[Kaladin\|Kaladin]] battling Lezian
 ### The True Desolation
-
+#### The Evacuation of Hearthstone
 Lezian first appears at [[Hearthstone\|Hearthstone]] in 1175, just before the [[Knights Radiant\|Knights Radiant]] and the forces of the [[Coalition of monarchs\|coalition]] land the *Fourth Bridge* there in an effort to evacuate the village. [[Kaladin\|Kaladin]] and the *Fourth Bridge* had been spotted while flying to Hearthstone, and Lezian, alongside a group of *shanay-im* under the command of [[Leshwi\|Leshwi]], were sent by the [[Nine\|Nine]] to gather intel on the *Fourth Bridge*, and test a new suppressor [[Fabrial\|fabrial]] that would prevent Radiants from using their powers.
 
 >“*Watch for me from the corner of your eye, Windrunner. We’ll meet again soon.*”
@@ -88,7 +88,7 @@ Lezian first appears at [[Hearthstone\|Hearthstone]] in 1175, just before the [[
 Lezian leads a small squad of warforms, and is able to successfully find and identify Kaladin from his description, who takes to the skies. Lezian engages him immediately, and his novel powerset and his brutal and expert fighting style give Kaladin a hard time. When Kaladin eventually starts predicting and reacting to Lezian's jumps, Lezian leaves him, warning Kaladin to watch for him from the corner of his eye. He shows up again later, when Kaladin and his windrunners are engaged with Leshwi and the rest of the *shanay-im*, but Kaladin sees him coming, and Lezian retreats without engaging. He then gathers a squad of warform [[Singers\|singers]], and starts accosting a group of civilians, as well as [[Godeke\|Godeke]] the Edgedancer, to lure Kaladin to him. When Kaladin lands and challenges him, Lezian takes Godeke, and retreats into the manor with the remaining squad of Parshmen, saying he will fight him inside. Once Kaladin follows, they trigger the suppressor [[Fabrial\|fabrial]] powered by [[Voidlight\|Voidlight]] to stop Kaladin from summoning Syl or using his powers. Lezian assumes that Kaladin would not be used to fighting without his powers and mocks him, but Kaladin quickly overpowers four of the warform Singers, and then proceeds to kill Lezian by successfully predicting where he would teleport to.
 Lezian is then reborn again, soon after, and is summoned by the [[Nine\|Nine]] to provide a report on what happened at Hearthstone. He refuses to take blame for losing the device, and immediately claims his right to Pursue Kaladin by his tradition. He is angered, and lashes out when Leshwi challenges his sanity and his right to Pursue Kaladin, which undermines his claim, and leads to the [[Nine\|Nine]] allowing Leshwi - or someone else if the situation demands it - prior claim on Kaladin's life. Lezian storms out of the meeting, and is later seen conferring with [[Raboniel\|Raboniel]] soon after the invasion on [[Urithiru\|Urithiru]] is decided upon.
 
-
+#### Occupation of the Tower
 Lezian loans his troops to [[Raboniel\|Raboniel]] for the invasion.
 
 >“*You, who were once banished for recklessly endangering our kind in your attempts to exterminate humankind? You, Lady of Wishes, ask for restraint?*”
@@ -99,7 +99,7 @@ Lezian is next seen tracking Kaladin, after the latter kills one of the Singers 
 Lezian continues to sweep the upper tiers for Kaladin, sending Raboniel reports periodically. He manages to capture Kaladin's family and intends to exact revenge for the Regal he killed, once he's done interrogating them. [[Venli\|Venli]] learns of this, and asks Leshwi to intervene, who promptly takes Kaladin's family into her custody, protecting them from the Pursuer and his troops.
 During the occupation, Lezian instructs all Singers to watch out for signs of Radiants.
 
-
+#### Hunting the Shield Nodes
 >“*The Pursuer isn’t lying, he will hunt you forever. To the abandonment of all reason and duty.*”
 \-Raboniel about Lezian[4]
 
@@ -121,7 +121,7 @@ After this event, Lezian is left with more free reign in leading the occupation 
 
 When the final node is found, and Kaladin and company make preparations, Kaladin and [[Teft\|Teft]] realize that like the last two times, the Pursuer would be waiting for him with a trap ready. Meanwhile, Raboniel, who has sent the Pursuer to break the node, suspects he is deliberately stalling to lure Kaladin, and sends [[Vyre\|Vyre]] out to do the task. As Kaladin approaches what he expects to be a trap, he sees the Pursuer sitting in the center of the atrium waiting for him, and engages. Their contest quickly takes centerstage, and even the Heavenly Ones descend to watch. Like before, Lezian immediately drops his body as his first husk, streaking forward in ribbon form to grapple with his opponent. Kaladin expects this and drops his spear, catching Lezian's wrists as he manifests a body, willingly entering the grapple. Lezian manages to hook Kaladin's foot and shove him to the ground, but Kaladin is able to pull him down with him. As before, Lezian taunts him, but this time, Kaladin correctly surmises that the most important thing to Lezian is his legend, and that each time he loses to Kaladin, that legend dies a little bit more. He then uses Navani's fabrial, which he has shifted around from a glove to a belt, to break the wrestle.
 
-
+#### The Sibling's Restoration
 >“*You’re no soldier. That’s what I realized about you, Defeated One. You’ve never faced death.*”
 \-Kaladin to Lezian[26]
 
@@ -135,7 +135,7 @@ After Moash has broken Kaladin's resolve by showing him a dead Teft, he grabs a 
 Lezian is restless regardless. He hands Lirin over to Leshwi, and as she cuts away his bonds, berates her for trying to turn the Nine against him, saying she wants to destroy his legacy. Leshwi argues that his legacy is already dead, and that it died the moment he ran from Kaladin. This enrages Lezian, and he loudly declares that his legacy is untouched, and that he can prove it, as he drops his first body as a husk and streaks as a ribbon towards Kaladin. He materializes his second body just above him, and breaks off a spur off his elbow to stab him. However, the moment he touches Kaladin's shoulder to lift him up and stab him, he howls with pain, then grabs Lezian's arm and turns and twists, ending up behind him. Kaladin pulls out a knife and stabs Lezian through the throat, which he barely manages to avoid by ejecting from his own body, barely in time. He quickly reforms into his third body and tries to wrestle with Kaladin again, but is completely outclassed at this point, getting stabbed first through the arm, and then almost getting stabbed in the face. Lezian has to eject again, dropping his third body.
 He materializes into his final body right next to his soldiers, and commands them to kill Kaladin, and then the other radiants. He then charges Kaladin, and his soldiers seemingly follow, but shy away from Kaladin and his glowing yellow-red eyes, leaving Lezian to fight him alone. Lezian, who at this point has to engage Kaladin or lose any chance at salvaging any of his reputation, meets Kaladin in front of the massive window of the Urithiru atrium. As he tries to grapple Kaladin, the latter simply turns and folds into it, and then slams them both against the window. He then manages to bind Lezian (who is in his final, fourth body, and is thus unable to drop it) to the window with a full lashing, leaving him stuck there. Kaladin then reverse lashes Lezian's head to the floor, making it pull towards the ground. Between these two opposing forces, Lezian is literally ripped apart, as Kaladin turns and walks away from him.
 
-
+#### Aftermath of the Occupation
 When Lezian returns after this death, [[El\|El]] annihilates him with a dagger charged with anti-Voidlight in order to test whether the inverse Light functions as Raboniel theorized. It does, and Lezian permanently dies.
 
 

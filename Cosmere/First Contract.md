@@ -44,7 +44,7 @@ The Resolution
 In addition to the above, the First Contract contains some level of information, predicted by the Lord Ruler, about the return of Ruin and the disappearance of the mists. During this time, the kandra were to seek out the Lord Ruler in person to serve him. Although not explicitly stated, this event would likely trigger enactment of the Resolution.
 Kandra that break the First Contract can be sentenced by the First Generation. Murder of a human is punishable by death.
 
-
+#### Resolution
 The Resolution was a stipulation added to the First Contract by the Lord Ruler. If enacted, the kandra are to remove their Blessings to prevent Ruin from taking control of their bodies. This would cause the kandra to lose sapience and change back into mistwraiths. All kandra are told of the Resolution upon birth and have this duty ingrained in them throughout their lifetime.
 The Resolution has only been enacted once since the creation of the kandra, though not all kandra were there, so not all kandra removed their Blessings.
 

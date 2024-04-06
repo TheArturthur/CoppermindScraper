@@ -17,4 +17,4 @@ When Raoden formed [[New Elantris\|New Elantris]] and Shaor's men were restricte
 
 
 
-https://coppermind.net/wiki/Shaor
+https://coppermind.net/wiki/Soine

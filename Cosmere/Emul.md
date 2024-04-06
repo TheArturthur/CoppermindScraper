@@ -104,4 +104,4 @@ Emul is still largely agrarian with many people working as farmers, reliant on c
 At around 596,000 km, it is only a little smaller than .
 
 
-https://coppermind.net/wiki/Emul
+https://coppermind.net/wiki/Emuli

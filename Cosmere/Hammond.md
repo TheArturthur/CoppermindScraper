@@ -105,4 +105,4 @@ After the death of the Lord Ruler, Ham became Elend’s captain. He respected El
 Brandon wishes he had written Ham as a woman, to better balance the gender ratio in the series and create an interesting world building dynamic by having on screen female Thugs.
 
 
-https://coppermind.net/wiki/Ham
+https://coppermind.net/wiki/Hammond

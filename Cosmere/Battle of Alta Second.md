@@ -85,4 +85,4 @@ After the battle, and with help from Spensa's cytonics and Rodge and the Enginee
 
 
 
-https://coppermind.net/wiki/Second_Battle_of_Alta
+https://coppermind.net/wiki/Battle_of_Alta_Second

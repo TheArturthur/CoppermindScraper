@@ -36,7 +36,7 @@ The metal **silver** has some notable properties in the [[Cosmere\|cosmere]]. Th
 Silver is a significant substance and a valuable currency in the [[Forests of Hell\|Forests of Hell]], as it is known to repel [[Shade\|shades]]. Shades that touch it are thrown backward, though the touch of the spirits blacken and ruin the metal. A ring of silver is installed around every house to ward off the shades, and the ring needs to be maintained regularly. Silver is particularly dangerous to shades for unknown reasons.
 Silver can also heal the effects of a shade attack. Silver dust is applied immediately to areas of the body that are affected, reversing the necrotic effects of the shade's touch. Applying silver too late would have no effect on the wound.
 
-
+#### Threnodite Chains
 Silvery chains that originate on [[Threnody\|Threnody]] somehow allow a user to "anchor" themselves through a [[Cognitive anomaly\|Cognitive anomaly]]. The implications of anchoring are unknown, but the chains are incredibly rare and valuable on other planets. They are used by the scholars of [[Silverlight\|Silverlight]].
 The chains are described as "silver" or "silvery", but their exact composition is unclear. [[Raboniel\|Raboniel]] was immediately shocked at the sight of a Threnodite chain on [[Roshar\|Roshar]] while [[Kaladin\|Kaladin]] failed to notice anything unusual about a chain that he saw in [[Shadesmar\|Shadesmar]], implying that the chains have distinguishing characteristics that are not obvious to every observer.
 
@@ -46,17 +46,17 @@ Due to the aether-resistant properties of silver, ships on Lumar are partially c
 Silver's effect on spores is not instantaneous. Spores may take a few seconds to be fully neutralized by silver, especially in large quantities. Roseite is known to resist the effects of silver, particularly if it has been hardened. Unlike spores, [[Midnight Essence\|Midnight Essence]] must touch silver to be affected by it, rather than simply being in its proximity.
 Much like how Shades blacken and damage silver upon interacting with it, aether spores slowly tarnish and break down silver. Silver has a finite capacity for neutralization; if a silver-reinforced ship were to sink in a spore ocean, the silver would kill many spores but eventually become inert. Due to this effect, the silver used in ship construction likely requires periodic replacement.
 
-
+#### Sorceress
 The [[Sorceress's tower\|Sorceress's tower]] is fully coated in a layer of silver, offering protection from spores and enemy [[Sprouter\|sprouters]]. However, the tower did not originate on Lumar, and it is unknown if the silver exterior also serves other purposes.
 
 ### Other Planets
 On planets where silver is not known to exhibit special properties (such as [[Scadrial\|Scadrial]], Roshar, and [[Sel\|Sel]]), it is typically used as jewelry or decoration.
 
-
+#### Scadrial
 Silver is [[Allomancy\|Allomantically]] inert and is not known to play a role in [[Feruchemy\|Feruchemy]] or [[Hemalurgy\|Hemalurgy]]. If a [[Mistborn\|Mistborn]] attempts to burn silver, nothing happens. Although silver alone does not have Allomantic properties, [[Electrum\|electrum]] is an alloy of forty-five percent [[Gold\|gold]] and fifty-five percent silver. Like all metals other than [[Aluminum\|aluminum]] (and certain aluminum alloys), silver can be used as an anchor by [[Coinshot\|Coinshots]] and [[Lurcher\|Lurchers]].
 Silver has interesting properties that are undiscovered on Scadrial. It is unclear if these properties would directly affect the [[Metallic Arts\|Metallic Arts]].
 
-
+#### Roshar
 On Roshar, silver could potentially be used to permanently kill [[Spren\|spren]], unlike aluminum. A silver-nickel alloy houses the [[Polestone\|polestone]] on the pommel of at least one [[Raysium\|Raysium]] dagger used by the [[Fused\|Fused]], but the metal does not affect the dagger's function.
 
 ## Trivia

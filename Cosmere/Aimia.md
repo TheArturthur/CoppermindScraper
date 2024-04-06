@@ -81,7 +81,7 @@ The Sleepless have been very dedicated to protecting the Dawnshard in the time s
 Very recently, perhaps coinciding with the arrival of the Everstorm, the protective storm around Akinah has weakened somewhat. As a result of this, the ship *First Dreams* was able to approach Akinah, but the crew was poisoned by one of the Sleepless, who was actively preventing humans from reaching the island. The Sleepless said that it was protecting a secret that could lead to the "end of worlds". Kaza made it to shore and saw a larkin, or perhaps a hordeling with the appearance of a larkin, and the faked ruins of Akinah before dying.
 Recently, scouting parties have been sent to the main island and found it quite barren. The Royal Navy of Thaylenah has set up outposts there just in case.
 
-
+#### Expedition to Akinah
 For more information, see [[Expedition to Akinah\|Expedition to Akinah]].
 In late 1174, [[Rysn Ftori\|Rysn Ftori]] headed an expedition to Akinah which brought back eight Soulcasters and a set of Shardplate. Rysn became the Dawnshard and the Sleepless guarding it let her return, conceding that Akinah was growing too hard to protect. 
 

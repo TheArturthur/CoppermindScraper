@@ -96,4 +96,4 @@ This article is still missing information. Please help The Coppermind by .
 
 
 
-https://coppermind.net/wiki/Atium_cache
+https://coppermind.net/wiki/Seer

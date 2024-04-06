@@ -46,4 +46,4 @@ The 'government' of The Village is run by the [[Synod\|Synod]], a [[Terris\|Terr
 [[Kwashim\|Kwashim]]
 
 
-https://coppermind.net/wiki/Village
+https://coppermind.net/wiki/The_Village

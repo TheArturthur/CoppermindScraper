@@ -55,4 +55,4 @@ Sunhearts can have slivers shaved off, which keep some Investiture and can still
 
 
 
-https://coppermind.net/wiki/Sunheart
+https://coppermind.net/wiki/Cinderheart

@@ -49,7 +49,7 @@ Alloys of lerasium grant the user the powers of the associated metal, so that if
 Atium is the God Metal corresponding to the Shard [[Ruin\|Ruin]]. An Allomancer burning atium is able to see a few seconds into the future. Feruchemists can use atium to store youth, and when used as a Hemalurgic spike, atium can steal the power to use any Invested Art.
 
 
-
+#### Malatium
 
 Malatium is an alloy of atium and [[Gold\|gold]]. An Allomancer burning malatium is able to see either who another person was in the past, or who they could have become if they had made different choices.
 

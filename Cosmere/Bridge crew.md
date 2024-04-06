@@ -59,4 +59,4 @@ Kaladin also creates a modernized command structure for the bridge crews. A typi
 
 
 
-https://coppermind.net/wiki/Bridge_Thirteen
+https://coppermind.net/wiki/Bridge_crew

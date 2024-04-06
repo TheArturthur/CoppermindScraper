@@ -40,4 +40,4 @@ The Aonic Royal Families
 
 
 
-https://coppermind.net/wiki/Aonic_Royal_Families
+https://coppermind.net/wiki/Teo_Royal_Family

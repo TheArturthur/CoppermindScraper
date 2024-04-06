@@ -39,4 +39,4 @@ According to Vorin tradition, mankind, led by the [[Herald\|Heralds]] and their 
 The name Aharietiam is based on the hebrew words אחרית הימים (*Acharit Hayamim*) meaning the end of days or the apocalypse.
 
 
-https://coppermind.net/wiki/Last_Desolation
+https://coppermind.net/wiki/Aharietiam

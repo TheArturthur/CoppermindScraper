@@ -46,10 +46,10 @@ On [[Threnody\|Threnody]], the Scar is known as the **Starbelt**. Threnody has n
 Most [[Roshar\|Rosharan]] people refer to the Scar as **Taln's Scar**, named for the [[Herald\|Herald]] known as [[Taln\|Taln]]. Taln's Scar is described as deep red in color, and it changes position in different seasons. It is visible before the sun sets and other twinkling white stars (accompanied by [[Starspren\|starspren]]) appear. [[Reya\|Reya's]] [[Tear\|Tear]] is another notably bright star in the sky, but it is not part of Taln's Scar. Roshar has three moons that rise and set during the night; between moons, the stars provide adequate illumination for someone to move around but not quite enough to read or draw. The position of Taln's scar on one's seventh birthday is relevant in Rosharan astrology.
 
 ### Scadrial
-
+#### Classical Scadrial
 In [[Classical Scadrial\|Classical Scadrial]], no mention is made of any unusually bright stars or constellations, even when [[Sazed\|Sazed]] discusses an astronomically-aware people known as the [[Nelazan\|Nelazan]]. During the [[Final Empire\|Final Empire]], the sky was largely obscured by [[Mist\|mist]] and the [[Ashmounts\|ashmounts]], to the point that even an [[Allomancer\|allomancer]] burning [[Tin\|tin]] could not always see the stars, with the exception of tin [[Savant\|savants]]. [[Vin\|Vin]] is able to see the stars by using tin or by using [[Steel\|steel]] to fly above the mists. When she does so, she can see some of the same stars that would be in the skies of Threnody, yet she still does not take note of anything that resembles the Scar. It is possible that [[Luthadel\|Luthadel's]] orientation at the north pole of [[Scadrial\|Scadrial]] during this era was such that the Scar was not visible.
 
-
+#### Post-Catacendre Scadrial
 >“*The mists were out, curling around outside, though the skyscraper was tall enough he thought he could see stars and the Red Rip through that mist.*”
 \-Waxillium Ladrian[13]
 
@@ -61,4 +61,4 @@ The Scar is visible on [[Canticle\|Canticle]], but only from certain angles of t
 
 
 
-https://coppermind.net/wiki/Scar
+https://coppermind.net/wiki/Starbelt

@@ -145,4 +145,4 @@ The blurbs on the back covers of the *Stormlight Archive* books are written from
 The Sleepless will play a major role in Mistborn Era 4.
 
 
-https://coppermind.net/wiki/Dysian_Aimian
+https://coppermind.net/wiki/Natricatich_strain

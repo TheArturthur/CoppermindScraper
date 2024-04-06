@@ -121,4 +121,4 @@ Realmatic Theory was first used in *Dragonsteel Prime*, Brandon’s second book 
 
 
 
-https://coppermind.net/wiki/Realmatic
+https://coppermind.net/wiki/Realmatic_theory

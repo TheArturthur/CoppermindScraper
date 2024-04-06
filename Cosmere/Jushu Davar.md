@@ -88,4 +88,4 @@ Shallan believes that Jushu harbors some resentment towards her due to Lin's fav
 
 
 
-https://coppermind.net/wiki/Jushu
+https://coppermind.net/wiki/Jushu_Davar

@@ -29,14 +29,14 @@ States come in all kinds of shapes and sizes. Each one has its own setting, tech
 ### Type
 There are three types of States; Personal, Border, and Communal States. Each one comes with its own features.
 
-
+#### Personal States
 Personal States are specifically tailored to an individual Liveborn. They will be the only Liveborn living in the State, with the rest of the population being Machineborn. The State is intended to allow the Liveborn to excel in life, attaining tremendous achievments, and often becoming the single most important being within the State. Liveborn from other Personal States are generally not able to visit.
 Personal States often change to keep the Liveborn's life from growing stagnant. An example of such changes is new locations being discovered for the Liveborn to explore. These States are meant to keep the Liveborn happy their entire life.
 
-
+#### Border States
 Border States are very small hubs that connect multiple Personal States. These connections are often physical connections, allowing Liveborn and Machineborn to move between them seemlessly. Border States are tailored to bring up conflict between Liveborn. Connecting three Liveborn, the State requires that the Liveborn compete with each other for access to resources and allies. These States are therefore populated with natives whose allegiance would benefit the Liveborn, and resources that are invaluable to the Liveborn. Such a situation fosters competition, and even alliances.
 
-
+#### Communal States
 Communal States are large hubs that large groups of Liveborn can visit. Populated mostly with Machineborn, these States have no native leaders, instead allowing Liveborn to compete for the favor of the Machineborn, and a leader is elected every two years. Factions of Liveborn are often formed, and these Factions compete in both politics and games.
 Communal States are usually treated as neutral ground, with any real conflict between Liveborn frowned upon. Hacking is also supposed to be impossible in these States, as it would allow Liveborn to injure or kill each other easily. Due to this, Communal States are used for Liveborn to meet up in nonhostile situations, such as when they are called upon to procreate.
 

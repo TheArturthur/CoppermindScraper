@@ -44,11 +44,11 @@ Tedradel lies east of the [[Bright Sea\|Bright Sea]], directly across from [[Hal
 Tedradel is a kingdom, and as such it is ruled by a monarch.
 
 ### Foreign Policy and International Relationships
-
+#### Hallandren
 Tedradel’s opinion of Hallandren hasn’t improved much since the [[Manywar\|Manywar]], which saw Hanald, the predecessor of Hallandren, and Tedradel go to war with each other Their opinion of Hallandren is low enough that [[Yarda\|Yarda]] considers it possible that Tedradel would go to war with Hallandren again, should Idris be attacked.
 Tedradel still has many traders in T’Telir, and likely other Hallandren cities as well.
 
-
+#### Idris
 Tedradel has good relations with Idris. These nations also have many similarities, such as in fashion, with both nations preferring covering clothing.
 
 ## Culture

@@ -47,4 +47,4 @@ The Wars have also led to vast political upheavals. In their aftermath, the surv
 
 
 
-https://coppermind.net/wiki/Third_Human_War
+https://coppermind.net/wiki/Human_Wars

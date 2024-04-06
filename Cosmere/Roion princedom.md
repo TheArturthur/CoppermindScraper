@@ -42,7 +42,7 @@ Like the other highprinces, Roion recruits (or conscripts) people from both insi
 ### War of Reckoning (1167-1173)
 Roion declined Dalinar's initial offer of an Alethi coalition, and Dalinar realized that he was protective of what little power he did have, and would not risk exposing himself. However, Roion was later swayed, and was the first highprince to join Dalinar on the expedition that resulted in the [[Battle of Narak\|Battle of Narak]].
 
-
+#### The Battle of Narak (Ishishach 1173)
 Roion was able to offer insightful observations about the potential Parshendi strategy in preparation for the battle, and Dalinar inspired him to lead his army.
 During the battle, Dalinar believed that Roion's troops were the worst under his command. Roion's lines were indeed among the first broken by the Parshendi, and his armies became trapped on a plateau. Roion's archers performed admirably despite adverse weather conditions, and helped some troops to escape. However, half of the army was killed, and Roion was distraught.
 [[Szeth\|Szeth]] appeared with the intent to kill Dalinar, and Roion and his men attacked him despite the danger. Szeth easily dispatched them all; he launched Roion high into the sky using a Basic Lashing, killing him when he hit the ground. Sebarial helped organize the remaining Roion army in their retreat.

@@ -23,4 +23,4 @@ When [[Harmony\|Harmony]] spoke to Wax about his earring being a [[Hemalurgic\|H
 
 
 
-https://coppermind.net/wiki/Grimes
+https://coppermind.net/wiki/Miss_Grimes

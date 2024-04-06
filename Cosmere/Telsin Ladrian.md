@@ -63,4 +63,4 @@ She eventually was chosen by Autonomy to become her Avatar.
 
 
 
-https://coppermind.net/wiki/Telsin
+https://coppermind.net/wiki/Telsin_Ladrian

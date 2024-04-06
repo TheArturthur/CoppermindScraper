@@ -18,4 +18,4 @@ Despite their name on the star map the other inhabited planets in the system hav
 
 
 
-https://coppermind.net/wiki/Drominad_system
+https://coppermind.net/wiki/Drominad_System

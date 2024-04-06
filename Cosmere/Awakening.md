@@ -79,11 +79,11 @@ Incomplete or mumbled Commands will take Breath but create no effect. Sometimes 
 At the Sixth [[Heightening\|Heightening]], Awakeners can use basic Commands instinctively and learn to use new Commands much more easily. At the Eighth Heightening, Awakeners can override others' Commands, though this is exhausting. Awakeners of the Ninth Heightening can Awaken stone and metal with specialized Commands, and can Awaken without touching the object they are Awakening. Vasher comments at one point that Awakeners at the Tenth Heightening can Command without speaking, though it takes a lot of training. Mental Commands do not require verbalization, but many believe they do since it has never worked without one. Those with the [[Royal Locks\|Royal Locks]] have a much easier time learning to Awaken.
 
 ### Basic Commands
-
+#### Breath Transfer
 The first and most important [[Command\|Command]] is the one that allows any human being to give their [[Breath\|Breath]] to another human being: *"My life to yours, my Breath become yours."* Unlike most Awakening, this drains color from the user.
 This Command transfers all of a person's Breath at once no matter how many there are. An Awakener can also use this Command to store all of their Breath in an object to be retrieved later, or to prevent being sensed by other Awakener's life sense. An Awakener can learn to split off some of their Breaths, Investing them into a place within themselves. Doing so would allow them to only transfer a certain number of their available Breaths.
 
-
+#### Breath Retrieval
 An Awakener can retrieve the Breath from an object they Awakened by touching the object and speaking the Command *"Your Breath to mine."*
 Note that only the Awakener who Awakened the object can retrieve Breath from it, though it is possible to Awaken an object so others can access the Breath. This Command also does not work on anything that the Breath has stuck to too strongly (e.g. corpses). A person who has put their Breaths into an object and died can retrieve them if they have Returned, but not if they are made into a Lifeless. There are also tricks an Awakener can do to use other peoples Breaths or Awaken an object so that others could access its Breaths. If a Awakener has no [[Identity\|Identity]] while Awakening an object, anyone would be able to retrieve the Breaths.
 
@@ -141,11 +141,11 @@ Stone is presumed to be similarly difficult to Awaken. However, Lifeless can be 
 Burning metals containing BioChromatic Breath has no effect on the Allomancy, although if the Breath belongs to the Allomancer it will be regained.
 
 ### Technology
-
+#### Fort's Tablets
 **Awakened technology** is possible through the process of Awakening circuitry; the only known example of such technology is **Fort's Tablet**, which is an Awakened device that provides a dual function to [[Fort\|Fort]]. On the back, it allows him to tap letters and bring down a list of common words. These letters and words are then displayed on the front of the tablet for the reader or person(s) he is communicating with to see and read. The board is able to anticipate his needs, giving him likely suggestions-working with supernatural speed. In turn, the tablet is also able to hear and understand audible words from those near Fort, and will then display them for Fort to be able to read. It has the ability to differentiate between voices and will place a symbol before each voice, allowing Fort to differentiate between speakers. This process of communication is accomplished via Awakened predictive Connection circuits. Further utilizing Connection, the device will only work for Fort, as he mentions when he warns Tress not to attempt to steal it. Fort's tablet operates on a solar battery, which requires it to be left out in the sun at least once a week to charge, or it will cease to function. The tablet also has security protocols, although they are off by default. The Sorceress hacked Fort's tablets to spy on the *Crow's Song*.
 Fort's second tablet, received from [[Tress\|Tress]] as a part of her boon in trade with [[Xisis\|Xisis]], is an improvement upon the original device. It can change between different fonts. It also offers more real-time-like communication, accomplished by allowing the text to disappear at the top of the board as he taps, allowing for longer sentences and fewer pauses, as he does not have to wait for the old text to disappear. Additionally, Fort's new tablet is advanced enough to allow for video conferencing.
 
-
+#### Komashi machines
 The [[Father machine\|father machine]] and its prototype, created by scholars on [[Komashi\|Komashi]] to extract [[Hion\|hion]] from the [[Hijo\|hijo]], was described by [[Hoid\|Hoid]] as having been Awakened with Commands. The father machine was Awakened using something other than Nalthian Breath, but the exact method is unknown.
 
 ## Known Awakeners
@@ -165,4 +165,4 @@ For more information, see :Category:Awakeners.
 In the *Warbreaker* , Vasher uses the Command "*My Breath to give for life to live*" (instead of the usual Breath transfer Command, "*My life to yours, my Breath become yours*") to avoid accidentally giving away his divine Breath. [[Brandon Sanderson\|Brandon]] believes GraphicAudio got that from his team and that it is the canonical version of the Command, but was unsure and said he would have the check with [[Isaac Stewart\|Isaac Stewart]] and [[Peter Ahlstrom\|Peter Ahlstrom]].
 
 
-https://coppermind.net/wiki/Awakener
+https://coppermind.net/wiki/Awakening

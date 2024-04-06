@@ -62,4 +62,4 @@ Freedom of the hijo caused the surface of Komashi to heat up once more, but only
 
 
 
-https://coppermind.net/wiki/Hijo
+https://coppermind.net/wiki/Flyer

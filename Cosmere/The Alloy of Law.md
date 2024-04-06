@@ -120,4 +120,4 @@ For a full statistical analysis, see [[The Alloy of Law/Statistical analysis\|/S
 
 
 
-https://coppermind.net/wiki/Alloy_of_Law
+https://coppermind.net/wiki/The_Alloy_of_Law

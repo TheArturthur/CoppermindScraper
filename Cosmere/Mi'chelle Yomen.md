@@ -30,4 +30,4 @@ This page or section deals with theories or speculation.Please read carefully an
 Lady Mi'chelle is a cameo for , one of the founders of [[17thshard.com\|17thshard.com]].
 
 
-https://coppermind.net/wiki/Mi%27chelle_Ostlin
+https://coppermind.net/wiki/Mi%27chelle_Yomen

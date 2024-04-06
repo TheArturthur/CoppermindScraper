@@ -57,4 +57,4 @@ During the [[Final Empire\|Final Empire]], gold was classified as a higher metal
 
 
 
-https://coppermind.net/wiki/Augur
+https://coppermind.net/wiki/Gold

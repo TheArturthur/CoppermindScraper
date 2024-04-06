@@ -58,4 +58,4 @@ After [[Jasnah Kholin\|Jasnah Kholin's]] duel with [[Ruthar\|Ruthar]], Dalinar n
 In the Rosharan ecosystem, minks tend to scavenge and skulk in the shadows, and they are colloquially used as a metaphor for sneaky or secretive people. In the game of [[Pieces\|pieces]], the player who takes the role of the mink controls hidden information that the other players cannot see. This cultural view of minks is presumably the source of Dieno's nickname, although this has not been explicitly confirmed.
 
 
-https://coppermind.net/wiki/Dieno_enne_Calah
+https://coppermind.net/wiki/The_Mink

@@ -12,4 +12,4 @@ The range is considered a major geographical feature of Arelon; the curvature of
 
 
 
-https://coppermind.net/wiki/Dathreki_Mountains
+https://coppermind.net/wiki/Atad_Mountains

@@ -111,4 +111,4 @@ Hurl's characterization serves as a contrast to Spensa, to show a path that Spen
 Brandon always planned for Hurl to die.
 
 
-https://coppermind.net/wiki/Hurl
+https://coppermind.net/wiki/Hudiya

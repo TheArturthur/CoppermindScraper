@@ -68,13 +68,13 @@ Teft has harbored a [[Firemoss\|firemoss]] addiction since his time in [[Torol S
 ### Surgebinding
 As a Windrunner, Teft has the ability to manipulate the [[Surges\|Surges]] of [[Adhesion\|Adhesion]] and [[Gravitation\|Gravitation]] through his [[Nahel bond\|Nahel bond]] with his [[Honorspren\|honorspren]]. By breathing in [[Stormlight\|Stormlight]], he gains superhuman strength, speed, agility, durability, stamina, and healing for the duration of his access to Stormlight. While his [[Phendorana\|honorspren]] is present with him, his movements are enhanced by her. This gives Teft a superior natural fighting talent, although it does not replace skill by itself. After Teft swears the Third Ideal of the Windrunners, his honorspren gains the ability to become a [[Shardblade\|Shardblade]]. Unlike the dead Blades left after the [[Recreance\|Recreance]], he can summon it in the form of any weapon he chooses, including a shield, and transform it from one to another almost instantaneously.
 
-
+#### Adhesion
 Teft can manipulate the Surge of Adhesion, also known as the Full [[Lashing\|Lashing]], to bind objects or creatures together using Stormlight.
 
-
+#### Gravitation
 Teft can manipulate the Surge of Gravitation to change the direction and strength of an object's gravitational attraction. This enables him to achieve a form of flight.
 
-
+#### Resonance
 As a Knight Radiant who has access to two Surges, Teft also has a [[Resonance\|resonance]]. Windrunners have an increased number of squires, more than any other order, as their resonance. Teft's squires include the entire crew of [[Bridge Thirteen\|Bridge Thirteen]].
 
 ## History

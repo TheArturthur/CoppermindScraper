@@ -43,10 +43,10 @@ The **koloss** are a bestial race of creatures on [[Scadrial\|Scadrial]], create
 ### Appearance
  by  cyangorilla 
 For more images, see [[Koloss/Gallery\|/Gallery]].
-
+#### Koloss
 The koloss are physically very large and very powerful. Koloss have blue skin and red eyes. A full-sized koloss could grow to be as tall as twelve feet. The transformation process corrupts the ability of their skin to grow and heal. Therefore Koloss are said to only have a fixed amount of skin that does not change over their lifetime. Because of this, the younger a koloss is, the fatter it may appear, due to having much baggy skin covering itself. The skin itself doesn't hold terribly well to the koloss' body. As the koloss grow taller, their skin tears and fits tightly to them. An ancient koloss is a hideous sight indeed, having little remaining original skin. Being covered instead in scars, half-healed wounds, and innumerable newly formed tears. Older koloss protect their mutilated skin with leather wrappings. A koloss continuously grows until its death. When it reaches roughly twelve feet, despite its hemalugically enhanced strength and fortitude, its heart and lungs can no longer sustain its disproportionate weight. Heart failure begins to set in. It dies shortly thereafter, or in a weakened state is killed by younger koloss seeking to take its blade.
 
-
+#### Koloss-blooded
 Koloss-blooded resemble normal humans with skin ranging from mottled granite to various shades of blue. Like koloss, they continue growing taller throughout their life.
 
 ### Creation and reproduction

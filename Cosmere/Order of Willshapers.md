@@ -85,4 +85,4 @@ The Willshapers were one of the first orders [[Brandon\|Brandon]] developed whil
 The Willshapers would "probably be okay" with Adolin killing Sadeas.
 
 
-https://coppermind.net/wiki/Order_of_Willshapers
+https://coppermind.net/wiki/Willshapers

@@ -95,10 +95,10 @@ For more information, see [[Peacegiver's Treasure\|Peacegiver's Treasure]].
 Vasher also gave up the majority of his Breaths, around fifty thousand or so that he had collected during the course of the Manywar. Vasher endowed them on a priest, likely of the [[Cult of the Returned\|Cult of the Returned]], and told him to keep them safe for him, in the event they should ever be needed. This man became the first God King.
 
 ### Shattering of Hanald
-
+#### Formation of Idris
 For reasons unknown to the modern world, the House of Idris fled T'Telir. They traveled to the northern highlands of Hanald, bringing the religion of [[Austrism\|Austrism]] with them, and established the kingdom of Idris. Though they had previously experimented with Awakening, they turned their backs on it as a result of their recent experiences, and used the tenets of Austrism to make Awakening sound immoral and evil. This fear of Awakening had a deep impact on Idrian culture, and many superstitions grew up around Awakening. For example, Idrians always wear drab colors, such as black, greys, or tans, so Awakeners can not use that color. However, this is based on misconception, as an Awakener could use those colors anyway. As a result of this isolation and distrust, Idrians are, for the most part, totally ignorant about how Awakening works.
 
-
+#### Formation of Hallandren
 In the wake of the Idrian Royal family's departure, and Vasher's step down from military dictatorship, the Cult of the Returned took control of the new nation, naming it Hallandren. Their religion eventually evolved into the [[Iridescent Tones\|Iridescent Tones]] and became the norm within Hallandren's territory. The only notable exception was Pahn Kahl, which was absorbed into the new nation of Hallandren as a province, where the people retained their own religion and culture. The conclusion of the Manywar was also the foundation for Hallandren's power in the region of the [[Bright Sea\|Bright Sea]] in the modern post-war era.
 
 ## Legacy
@@ -114,4 +114,4 @@ Eventually, about twenty years before the [[Pahn Kahl rebellion\|Pahn Kahl rebel
 
 
 
-https://coppermind.net/wiki/Battle_of_Twilight_Falls
+https://coppermind.net/wiki/Manywar

@@ -76,19 +76,19 @@ The Sovereign had priests accompanying him who did not belong to any of the curr
 ### Nations
 The Southern Scadrians were divided into five different nations, however following the discovery of the Northern Scadrians their politics changed until they united under the banner of single nation, the [[Malwish Consortium\|Malwish Consortium]]. So far, the names of three of these previous nations have been revealed:
 
-
+#### Malwish
 The **Malwish** wear red masks that change according to their profession or their mood. Allik Neverfar and Jordis are Malwish. Dancing is very important to them, so much so that they have been known to give harsh (although friendly) punishment just for getting the steps to a dance wrong.
 Following the discovery of the Northern Continent, the Malwish took over diplomatic relations with the Basin, and the majority of Southerners who visited the North were from there. They were the only tribe who sent an ambassador up. It is under their banner that the Southern Nations united.
 Some of the researchers on [[Canticle\|Canticle]] view Malwish as a civilized language.
 
-
+#### The Hunters
 The people known as the **Hunters** receive one mask at birth, which is replaced by a second mask upon reaching adulthood. This second mask eventually grows into the skin. The Hunters were warriors before the Ice Death, but now they search for the cause of the cataclysm that ruined their society. They took an airship to find the Bands of Mourning, intending to destroy them.
 [[Iyatil\|Iyatil]], a Silverlight born woman with Southern Scadrian ancestry, wears a mask reminiscent of those worn by the Hunters nation.
 
-
+#### The Fallen
 The former rulers of the Southern Scadrians became known as the **Fallen** after they lost their authority due to the Ice Death, which is seen as their divine punishment. A member of the Fallen wears a plain, unpainted mask until he earns the right to wear an ornate one through some great achievement. The Fallen were the kings before the Ice Death, and their simple masks are a punishment for having offended the Jaggenmire.
 
-
+#### The Maskless
 A people in the far south, on a separate landmass from the Elendel Basin and Malwish Consortium. It is unknown if this is one nation, or a collection of peoples. They are not part of the Malwish Consortium.
 They are most likely the [[Deniers of Masks\|Deniers of Masks]] mentioned by [[Allik\|Allik]], who actively shun masks and are considered quite dangerous by the rest of Southern Scadrial.
 
@@ -116,4 +116,4 @@ For a complete list of Southern Scadrians, see :Category: Southern Scadrians.
 They are mysteriously referred to in [[The Hero of Ages\|The Hero of Ages]] annotations, suggesting that something is perhaps there. Later, Brandon confirmed that there is life on the southern pole of Scadrial.
 
 
-https://coppermind.net/wiki/Southern_Scadrial
+https://coppermind.net/wiki/Southern_Scadrians

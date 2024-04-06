@@ -9,4 +9,4 @@ The Kelzin form the upper class in [[Lossand\|Lossand]], and were partially resp
 
 
 
-https://coppermind.net/wiki/Kelzin
+https://coppermind.net/wiki/Kelzi

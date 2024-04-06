@@ -48,4 +48,4 @@ Brightlord [[Tanalan's father\|Tanalan]] (father)
 [[Tanalan's mother\|Tanalan's mother]]
 
 
-https://coppermind.net/wiki/The_Rift
+https://coppermind.net/wiki/Rathalas

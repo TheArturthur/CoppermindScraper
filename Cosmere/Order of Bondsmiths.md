@@ -171,4 +171,4 @@ Dalinar remained the only bonded Bondsmith for the following year. This changed 
 
 
 
-https://coppermind.net/wiki/Order_of_Bondsmiths
+https://coppermind.net/wiki/Bondsmith

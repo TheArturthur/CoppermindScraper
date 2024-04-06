@@ -201,7 +201,7 @@ Navani resumed her studies on the crystal pillar beneath Urithiru, but reached a
 At a meeting of the coalition of monarchs, Navani encountered [[Taravangian\|Taravangian]]. She coldly criticized his takeover of Jah Keved. Taravangian asserted that both Gavilar and Dalinar had committed worse crimes. When the meeting began, she expected Taravangian to oppose the proposal for an Emuli offensive. However, Taravangian agreed, much to everyone's surprise. The coalition made significant progress in organizing their forces to prepare for Emul, as well as designating people to lead an envoy to the honorspren. Despite this, Navani felt uneasy at Taravangian's swift agreement to the proposal.
 Later, in private, she eventually voiced her concerns to Dalinar about Taravangian. Dalinar told her that he had similar worries, likening Taravangian's betrayal to Sadeas's treachery on the Shattered Plains. He insisted that Navani stay at Urithiru in case something went awry in Emul. Navani promised that she would.
 
-
+#### Trials of the Tower
  by  Esther Schrader  Working with [[Raboniel\|Raboniel]]
 During the departure of the coalition's forces, Navani bade Dalinar goodbye as she warned him about Taravangian's potential schemes. Thought it troubled her that Dalinar wanted to take Gavinor to the front lines in Emul, she permitted him to do so, since Dalinar argued that he wanted to be more involved with their grandson. She asked Jasnah to watch over Dalinar on the battlefield and keep him out of the fighting.
 With the help of [[Sebarial\|Sebarial]] and [[Anesa\|Anesa]], she began coordinating the day-to-day running of Urithiru in Dalinar's absence. She checked on a team of Radiants and engineers, who were studying a crack in the wall that her scribes found. Falilar told her that the crack concealed a hidden room, which contained a scale model of Urithiru. As Navani was leaving the room, her scribe [[Isabi\|Isabi]] brought her a blinking spanreed. Navani immediately dropped her current task to answer the mysterious person's request.
@@ -300,4 +300,4 @@ Navani would make a better Amyrlin than Jasnah for most of the history of Tar Va
 [[Navani's journal\|Navani's journal]]
 
 
-https://coppermind.net/wiki/Navani
+https://coppermind.net/wiki/Navani_Kholin

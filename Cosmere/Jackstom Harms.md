@@ -55,4 +55,4 @@ His relationship with Marasi however, is far less positive. Years after her birt
 
 
 
-https://coppermind.net/wiki/Jackstom_Harms
+https://coppermind.net/wiki/Lord_Harms

@@ -8,4 +8,4 @@
 
 
 
-https://coppermind.net/wiki/Shalrim
+https://coppermind.net/wiki/ShalRim

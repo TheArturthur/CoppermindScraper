@@ -56,4 +56,4 @@ Despite House Lekal's traitorous actions and near-destruction, it survived the [
 The pyramid shape of the Keep Lekal ballroom was inspired by the .
 
 
-https://coppermind.net/wiki/Keep_Lekal
+https://coppermind.net/wiki/House_Lekal

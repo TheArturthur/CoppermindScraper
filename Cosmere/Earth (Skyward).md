@@ -14,4 +14,4 @@ By the time the Superiority became a major power, Earth appears to have vanished
 
 
 
-https://coppermind.net/wiki/Old_Earth
+https://coppermind.net/wiki/Earth_(Skyward)

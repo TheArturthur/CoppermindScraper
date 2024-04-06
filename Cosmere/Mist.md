@@ -59,4 +59,4 @@ After [[Sazed\|Sazed]] picked up both [[Shard\|Shards]], becoming [[Harmony\|Har
 
 
 
-https://coppermind.net/wiki/Mists
+https://coppermind.net/wiki/Mist

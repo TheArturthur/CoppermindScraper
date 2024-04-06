@@ -29,4 +29,4 @@ After the battle, the DDF sent a science ship to investigate and analyse the ves
 
 
 
-https://coppermind.net/wiki/C-137-KJM_orbital_shipyard
+https://coppermind.net/wiki/Shipyard

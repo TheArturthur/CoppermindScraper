@@ -50,13 +50,13 @@ Fitch studied the origins of Rithmatic powers and their treatment in early Ameri
 Fitch spent only a few weeks on the front line at [[Nebrask\|Nebrask]], instead spending most of his time serving on the defensive planning committee in Denver City.
 
 ### Armedius Academy
-
+#### Before Nalizar's Challenge
 Fitch worked as a full professor at [[Armedius Academy\|Armedius Academy]] teaching defensive Rithmatics to the Rithmatic students.
 
-
+#### Nalizar's Challenge
 A few days before the start of summer, Professor Fitch is challenged by [[Andrew Nalizar\|Andrew Nalizar]]. Initially stunned by the prospect of a duel, Fitch draws an Easton Defence, which he had been teaching the class. It is a poor defense for a one-on-one duel and the stress causes his hands to shake and him to draw an outer circle lopsided. Nalizar is able to defeat him in the duel, giving himself the rank of tenured professor and demoting Fitch to a tutoring professor. The whole class, including Joel Saxon, who is secretly sitting on the stairs, witnesses Fitch's defeat.
 
-
+#### After Nalizar's Challenge
 >“*You will leave them alone!*”
 \-Fitch to Harding[5]
 

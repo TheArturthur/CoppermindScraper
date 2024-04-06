@@ -14,4 +14,4 @@ Following the arrival of the [[True Desolation\|True Desolation]] and the [[Sieg
 
 
 
-https://coppermind.net/wiki/Kaves_Kholin
+https://coppermind.net/wiki/Kaves

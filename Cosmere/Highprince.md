@@ -75,4 +75,4 @@ The Veden highprinces include:
 
 
 
-https://coppermind.net/wiki/Princedom
+https://coppermind.net/wiki/Highprinces

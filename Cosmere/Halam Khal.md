@@ -40,4 +40,4 @@ Halam survived the battle and came to [[Urithiru\|Urithiru]] along with the rest
 Halam goes unnamed throughout the entirety of *Words of Radiance*, being referred to only as "Captain Khal".
 
 
-https://coppermind.net/wiki/Captain_Khal
+https://coppermind.net/wiki/Halam

@@ -86,7 +86,7 @@ Despite being incredibly organized and studious, Sigzil thinks less of himself f
 Despite his penchant for keeping things organized, Sigzil is not content with only being a clerk, and wants to be the "first into the sky," rather than spending all his time poring over ledgers. He is encouraging and optimistic to his friends.
 His personality changed greatly after he became a Dawnshard and fled Roshar, as the events and a life of fleeing the Night Brigade had a great effect on him.
 
-
+#### Religion
 During his time on Roshar he was modestly religious, believing in Yaezir and the Azish emperor. After learning about the Cosmere, and having to flee Roshar, he appears to lose much of his faith, after this he still believes in the [[God Beyond\|God Beyond]], and a part of him continues to want to believe in Yaezir.
 
 ## Attributes and Abilities
@@ -102,7 +102,7 @@ With these bonds, Sigzil has access to both [[Shardblade\|Shardblade]] and [[Sha
 When Sigzil was thirty-eight years old he was given a [[Dawnshard\|Dawnshard]] by [[Hoid\|Hoid]]. This gave him enhancements in durability, strength, endurance, and healing. This has allowed him to form Connections to planets though these abilities need some Investiture to function. It also sets his appearance, including features like his hair length, to look as it did the moment he took the Dawnshard.
 A side effect of holding and having held this Dawnshard is that Sigzil is unable to physically harm others, with his body locking up whenever he tries to attack. Sigzil comes to refer to this effect as his **Torment**, though not all others affected this way would refer to it as such. He is able to mitigate this using a [[Sunheart\|sunheart]] he took from [[Canticle\|Canticle]], allowing him to fight as normal by pushing some of the unwanted Investiture into it. This Investiture is then filtered and purified, allowing Sigzil to absorb it to fuel his abilities.
 
-
+#### Skipping
 After becoming a Dawnshard, he gained the ability to **Skip** to other worlds. When he has enough Investiture, he can quickly travel to other planets via the [[Connection\|Connection]] to all places that the Dawnshard granted to him. Each Skip requires approximately 20,000 [[BioChromatic Breath\|Breath Equivalent Units]] of [[Investiture\|Investiture]] to be initiated.
 His Skip destinations are seemingly random, but are known to be attracted to sources of Investiture. Therefore, it is very unlikely for him to end up on a planet where natural sources of Investiture are not present.
 
@@ -199,4 +199,4 @@ Zellion shares his name with the protagonist of *The Sixth Incarnation of Pandor
 Brandon also used the name Zellion for his character in a playthrough of the video game *Elden Ring*.
 
 
-https://coppermind.net/wiki/Nomad
+https://coppermind.net/wiki/Sigzil

@@ -85,4 +85,4 @@ Also known as [[Trellium\|Trellium]]. It is a silvery metal with a red cast to i
 The interaction of other metallic isotopes with the Metallic Arts is planned to be covered in [[Mistborn Era 3\|Mistborn Era 3]].
 
 
-https://coppermind.net/wiki/Metalborn
+https://coppermind.net/wiki/Metallic_Arts

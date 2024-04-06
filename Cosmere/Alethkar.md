@@ -222,29 +222,29 @@ Due to the Desolations, they were constantly returned back to primitive technolo
 Very early in the nation's history, the Dawncity of [[Kholinar\|Kholinar]] was created and made into its capital. It eventually was made into the home of the Alethelan Oathgate. Despite its age, it still stands as of 1175, making it one of the oldest cities on Roshar.
 It was the place that many people wanted Urithiru to be built, likely due to Alethkar being the home to the Knight's Radiant. Despite this, for a reason obvious to many others at the time, it could not be, instead being built in the mountains near [[Makabakam\|Makabakam]].
 
-
+#### The Rule of Nohadon
 At some point early in its history, it was ruled over by King [[Nohadon\|Nohadon]]. During one Desolation during his life, they fought for over eleven years and nine-in-ten Alethelan citizens were killed. [[Eiliz\|Eiliz]], [[Tarma\|Tarma]], and [[Sur\|Sur]], likely sub-divisions of Alethela, fell during this Desolation. They are no longer remembered in modern historical memory by 1173.
 Nohadon wanted to abdicate due to the tragic events of this Desolation, however, he kept his throne and tried to rebuild. Over the decades, he successfully managed to rebuild Alethela into a bustling and colorful place. Eventually, he went to war with [[Makabakam\|Makabakam]] over trade routes, the full effects this had on both kingdoms are unknown.
 Nohadon was a very influential figure on the ideals that form the backbone of the Knights Radiant.
 One of the many Desolations that struck the nation, along with the rest of Roshar, arrived in the year 337 of the Eighth Epoch. This Desolation was heralded by the release of [[Midnight Essence\|Midnight Essence]] in a small settlement in [[Natanatan\|Natanatan]]. The length of this Desolation is unknown.
 
-
+#### The Last Desolation
 The Last Desolation was a large scale Desolation which occured around 4500 years before the arrival of the [[True Desolation\|True Desolation]]. This Desolation was particularly devasting due to the fact that it happened only a year after the previous Desolation, and thus society was weakened and still recovering. Tired of the Desolations and their torture on Braize, the nine Heralds still on Roshar refused to return to Braize, leaving Taln as the sole Herald on the planet for millennia.
 After the Last Desolation, Desolations ceased to ravage the nation. Due to this, society was able to advance much further than ever before, giving them the strength to potentially resist any potential Desolation without complete societal collapse. The era heralded by the Last Desolation came to be known as the Era of Solitude.
 
-
+#### After the Aharietiam
 At some point before the [[Hierocracy\|Hierocracy]], and likely before the [[Recreance\|Recreance]], the ancestors of the [[Oldblood\|Oldbloods]] acted as the monarchs of what would become Alethkar. Little is known about them, but they are known to have been a dynasty, implying that they had ruled for a long time. It is not known how, when, or why, but they eventually lost their authority, but it would be remembered by their descendants for many generations.
 At some point following Aharietiam, the kingdom splintered apart into many different smaller nations, and would not reunify for centuries following the splintering.
 They are said to have invaded [[Azir\|Azir]], under the [[Ulutu Dynasty\|Ulutu Dynasty]], at least five times during this period; with legends stating that they attempted to climb the mountains to gather gemstones and weapons from the sun itself, which bleached their eyes and left them defeated by its majesty. This tale is a complex mixture of truth and legend, that historians struggle to untangle.
 
 ### The Hierocracy and Sadees the Sunmaker (??? - c.673)
-
+#### The Hierocracy
 For more information, see [[Hierocracy\|Hierocracy]].
 Alethela survived the Desolations, but fell under the sway of the [[Hierocracy\|Hierocracy]] some point after the Recreance. This was possible as religion permeated every aspect of life and Ardents were allowed to own poperty and political office, and were seen as the only figures capable of interpreting scripture. This allowed them to, at some point, overthrow the power of the government and make themselves into a powerful theocracy, claiming the divine right to rule over mankind. They further controlled the populace through their access to information, both religious and secular.
 While ruling, they sought to expunge historical information regarding [[Shadesmar\|Shadesmar]], the Knights Radiant and the Recreance, from the records as best as they could. They did not just expunge information, but also tampered with text to create their own revisionist history of Roshar. This left knowledge about the past clouded by propaganda and censorship.
 They did not just control Alethelan territories, but expanded to become a wider Vorin coalition, including the likes of what would come to be known as Jah Keved, Kharbranth, and Thaylenah. But as it grew larger, it become more and more difficult to keep it itself stable and consolidated, thus their power began to become unstable, laying the foundations for the War of Loss.
 
-
+#### The War of Loss (c.673)
 For more information, see [[War of Loss\|War of Loss]].
 This lasted until the [[Sunmaker\|Sunmaker]] led the kingdom in a successful revolt against [[Vorin\|Vorin]] rule circa 673, known as the [[War of Loss\|War of Loss]]. Following his successful reunification of Alethela under the name of Alethkar, he set his eyes upon the rest of Roshar.
 Many cities were sacked and destroyed in this war and the chaos of its aftermath, with Kholinar being one of the few eastern cities to survive.
@@ -252,7 +252,7 @@ After overthrowing the Hierocracy, Vorinism was split into many Devotaries, leav
 This was all done by Sadees in the attempt to prevent another Hierocracy from rising in the future. The Hierocracy and its fall served to shape modern Vorinism.
 Despite its collapse many centuries ago, various groups during the War of Reckoning and the True Desolation, such as the [[Sons of Honor\|Sons of Honor]], still seek for the return of the Hierocracy.
 
-
+#### The Rule of the Sunmaker
 His first conquest was over the northern nation of [[Herdaz\|Herdaz]], which was successful. At some point following the occupation of Herdaz, he marched upon [[Azir\|Azir]], then under the rule of Prime Aqasix [[Snoxil\|Snoxil]]. He successfully conquered the capital city of [[Azimir\|Azimir]], claiming to have come to "civilize" them. With a powerful army stationed in the nation, he instituted a policy of genocide against their people, it is said one of every ten Azish people died under the tyranny of Sadees.
 After the Sunmaker's death, his ten sons could not agree on one of their number as his successor. With none of them willing to forego their claim to the throne, they split the kingdom into ten princedoms, which they ruled individually as [[Highprince\|Highprinces]], with no unifying government. This loss of central government in the empire led to the Azish regaining their independence.
 The legacy of this era would live on, with the Alethi seeing him as a great conquerer and a hero to his people, while many other people across the world saw him as a genocidal tyrant, causing other leaders to be hesitant to trust Dalinar and the Alethi. However, Alethkar's conquests forged trade routes to other regions including Azir, Herdaz, and Jah Keved; these routes persisted into the modern era, bringing great wealth to the nation.
@@ -261,30 +261,30 @@ The legacy of this era would live on, with the Alethi seeing him as a great conq
 
 Several centuries later, in approximately 1140, [[Gavilar Kholin\|Gavilar Kholin]]--inspired by the Sunmaker--sought to conquer and unite the highprinces, which he achieved by about 1145. He was then crowned king and his brother [[Dalinar Kholin\|Dalinar Kholin]] became highprince to the [[House Kholin\|Kholin]] Princedom. However, due to the lineage of each Princedom going back to the Sunmaker and his sons, the Highprinces were loathe to surrender their autonomous power to a supreme ruler. The integrity and unity of Gavilar's kingdom is therefore questionable, as evidenced by the ferocity with which the Highprinces resisted his military approach to unification and continued to strain against his rule. The most severe instance of this was the rebellion in [[Rathalas\|Rathalas]], where Gavilar eventually had to send troops led by [[Dalinar\|Dalinar]] and [[Torol Sadeas\|Torol Sadeas]] in order to quench the revolt, as political means had resulted in a failure.
 
-
+#### Brightlord Yezriar (1140)
 One notable battle during the war was the battle against Brightlord Yezriar.
 
-
+#### Conquest of Rathalas (1141)
 They led a conquest against Rathalas in 1141, the seat of Brightlord [[Tanalan's father\|Tanalan]]. During this fight, Dalinar slew Tanalan, but his body was taken away before his shard manifested. Thus he tracked it down and found his family, where he observed as the Brightlord's son took up the Shardblade [[Oathbringer (Shardblade)\|Oathbringer]] in an attempt to protect the rest of his family. Ultimately, he couldn't bring himself to kill them, so he simply took the blade and left.
 The conquest was ultimately successful, placing Rathalas under Kholin hegemony, although the rule was not peaceful. The ruling family was enraged by the conquest and the death of Tanalan, and was even further enraged by the loss of Oathbringer, which they demanded be returned to the rightful heir.
 This battle was notable for laying the foundations of the Burning of Rathalas, and with the Kholin family obtaining the Shardblade Oathbringer.
 
-
+#### Conquest of Kalanor's Territory (1145)
 Gavilar and Kalanor were major enemies during the Unification War, with Kalanor acting as one of the major stonewalls in Gavilar's quest towards the complete unification of Alethkar. They have both been politically maneuvering around one another for two years before the start of the conquest. Gavilar believed that he needed to fall at all costs.
 In 1145, the Kholin army attacked myriad small cities in Kalanor's region in an attempt to undermine his authority and pull him out of hiding, provoking him into a large scale battle in which they could secure a decisive victory. This strategy was successful, leading to the two armies into a large-scale battle on a large, open plain. This was the largest battle the Kholin army engaged in during the Unification War, and ended in a decisive Kholin victory and the death of Kalanor.
 Kalanor's shards were given to Gavilar by Dalinar, and Kalanor's territory was given to [[Loradar Vamah\|Loradar Vamah]], thus it was officially named the [[Vamah princedom\|Vamah princedom]]. This battle marked the official end of the Alethi war of unification, however battles and skirmishes could continue for decades afterward.
 
-
+#### Alethi-Herdazian Border Conflict (1150 - 1154)
 A violent war between Alethkar and Herdaz occurred starting in 1150 and lasting up until 1154. It was intended primarily as a show of Alethi strength, and as a way to ensure security at the border and expand Alethi territory. Dalinar Kholin was a major general in the conflict.
 This conflict led to the deaths of many on both sides, and defined the modern Alethi-Herdazian Border.
 
-
+#### Conquest of Akak (1155)
 At some point in 1155, Dalinar Kholin led a military conquest of the [[Reshi\|Reshi]] island of [[Akak\|Akak]]. The conquest was ultimately successful as he destroyed the Akak Reshi, and claimed the island for Alethkar.
 
-
+#### Alethi-Veden Border Conflict (1155 - ???)
 Around 1155, a war broke out at the border between Alethkar and Jah Keved. Dalinar also acted as one of the major generals in this conflict as well. Part of the motivation for the conflict was Jah Keved taking land from Alethkar in around 1143.
 
-
+#### Burning of Rathalas (1163)
  by  greatunknown  The burning of Rathalas
 In 1163, due to increasing hostilities and calls for rebellion in Rathalas, led by Brightlord Tanalan's son, also named [[Tanalan\|Tanalan]], Gavilar Kholin sent Dalinar Kholin and Torol Sadeas back to the Rift in order to quell them. Dalinar attempted to peacefully negotiate, offering Tanalan the position of Highprince if he surrendered. His offer was refused and his contingent, including himself, were struck by a landslide orchestrated by Tanalan, killing all of his men and leaving him injured, but alive.
 Enraged, Dalinar slaughtered his ambushers, and ordered his surviving men (stationed outside of the Rift) to douse the city in oil and set it alight, as to slaughter all of its people and leave the city in ruins. Panicked at what Dalinar ordered, Evi went into the city in secret and attempted to negotiate with Tanalan herself, in order to prevent the massacre from being carried out. Tanalan came to agree, and decided to send out a plea for surrender.
@@ -301,7 +301,7 @@ This conflict did not fully dissuade the Reshi from engaging in border assaults,
 Gavilar met with the Parshendi in Vev 1166 and was instantly fascinated by them. The Parshendi exploration that underwent first contact was led by [[Eshonai\|Eshonai]], who became a very important figure in Alethi-Parshendi relations.
 
  by  Artem Demura  Szeth arriving to kill Gavilar
-
+#### Assassination of Gavilar Kholin (1167)
 For more information, see [[Assassination of Gavilar\|Assassination of Gavilar]].
 During the feast celebrating the signing of the Parshendi-Alethi Treaty in Ishi 1167, Gavilar revealed to Eshonai that he knew how to bring back the old gods they abandoned, and that he planned on doing so. Horrified, Eshonai reported his plans to [[The Five\|the Five]], and they agreed that he needed to be assassinated.
 They sent [[Szeth\|Szeth]] to kill him, and Gavilar fought back in a desperate attempt to survive. Szeth ultimately won in the battle and assassinated him. However, Gavilar managed to make out some last words, telling his assassin to tell Dalinar that "he must find the most important words a man can say", and gave him a Voidlight sphere. Szeth honored these last wishes, writing his last words on a piece of nearby debris, and taking the sphere.
@@ -313,24 +313,24 @@ During the war, the highprince Dalinar Kholin began to have visions of the past,
 The siege took much longer than was expected, and was still active by 1173.
 Despite the Highprinces all joining together in the War of Reckoning, fighting for territory between Princedoms continued without abeyance. Such as one skirmish between the Sadeas Princedom and [[Vamah princedom\|Vamah]] or [[Aladar princedom\|Aladar princedom]].
 
-
+#### Sadeas Princedom Border Conflict (c.Tanat 1172)
 In c.Tanat 1172, the Sadeas Princedom engaged in a border skirmish with the Vamah or Aladar princedom. During this battle, which was led by [[Meridas Amaram\|Meridas Amaram]] on the Sadeas side, [[Helaran Davar\|Helaran Davar]], a Veden Shardbearer, was killed on the battlefield. While the killer was [[Kaladin\|Kaladin]], and thus he had legal right to the dropped Shardblade, Amaram killed his squad and marked him as a slave, taking the Shardblade for himself.
 In late 1173, Reshi border encroachments grew increasingly bold, recognizing the weakening state of Alethkar due to the prolonged War of Reckoning.
 
-
+#### Battle of the Side Carry (Kakahach 1173)
 During an attack on the Tower led by Sadeas, Bridge Four attempted a strategy that they believed would protect them from Parshendi attack by carrying their bridge on the side. This successfully protected themselves, but focused Parshendi attack on other bridge crews, causing a large amount to fall. This disrupted the attack, and led to a large amount of deaths, of both trained soldiers and bridgemen. Over two-hundred bridgemen perished in the attack.
 This ultimately dealt a crippling blow to Sadeas's army, and led to the execution of Captain [[Lamaril\|Lamaril]] for allowing the disaster to take place. Kaladin was also punished by being strung up in the coming highstorm and left for death, as a punishment for the actions of his crew.
 
-
+#### The Fall of Kholinar (1173)
 Late into the War of Reckoning, after [[Navani Kholin\|Navani Kholin]] left [[Aesudan\|Aesudan]] to rule for herself after deeming her fit to do so without her advisement, Kholinar was infiltrated by [[Ashertmarn\|Ashertmarn]], [[Sja-anat\|Sja-anat]], and [[Yelig-nar\|Yelig-nar]]. These Unmade caused Aesudan to fall into an abyss of decadence, throwing lavish feasts as Kholinar society collapsed around her, while Sja-anat corrupted the spren of the city; and Yelig-nar bonded with Aesudan, but she ultimately couldn't handle it and it led to her death.
 The events that took place in Kholinar served as the basis of the [[Siege of Kholinar\|Siege of Kholinar]], and its eventual fall and occupation by Fused forces.
 
-
+#### Battle of the Tower (Tanatashev 1173)
 For more information, see [[Battle of the Tower\|Battle of the Tower]].
 On Tanatashev 1173, Highprince Sadeas set up a battle on the [[Tower (Roshar)\|Tower]] as a trap to murder Dalinar Kholin. The motivation for this was a part of his desire to protect Elhokar from Dalinar's ideals.
 The battle led to the decimation of Dalinar Kholin's army, he arrived at the battle with 8000 men, but returned with only 2,653 men, coming out at 5347 fatalities. It also led to Dalinar successfully attempting to gain the title of Highprince of War in order to insure more authority to manage the war directly, in response to Sadeas' betrayal.
 
-
+#### Battle of Narak and Failed Assassination of Elhokar Kholin (Ishishach 1173)
 For more information, see [[Battle of Narak\|Battle of Narak]].
 The Battle of Narak occured on Ishishach 1173, and marked the summoning of the Everstorm and the start of the True Desolation.
 
@@ -339,21 +339,21 @@ For more information, see [[True Desolation\|True Desolation]].
 It eventually ended when the Parshendi summoned the [[Everstorm\|Everstorm]], beginning the [[True Desolation\|True Desolation]] during the [[Battle of Narak\|Battle of Narak]]. Afterwards, some of the Highprinces -- [[Dalinar\|Dalinar]], [[Aladar\|Aladar]] and [[Sebarial\|Sebarial]] -- along with their remaining forces, took refuge in [[Urithiru\|Urithiru]], while others remained on the [[Shattered Plains\|Shattered Plains]], slowly taking over the abandoned warcamps of those who left and consolidating their power base there.
 Shortly following the start of the True Desolation, Torol Sadeas was murdered by Adolin Kholin. Following his murder, rulership of the Sadeas Princedom was passed to Meridas Amaram by [[Ialai Sadeas\|Ialai Sadeas]], as the heir to the position was too young to fill it.
 
-
+#### Siege of Kholinar (1173)
 For more information, see [[Siege of Kholinar\|Siege of Kholinar]].
 Meanwhile, the Alethkar homelands were besieged by the newly awakened [[Singer\|singer]] forces led by the [[Fused\|Fused]], culminating in the [[Siege of Kholinar\|siege]] and eventual fall of [[Kholinar\|Kholinar]].
 After Elhokar was killed by [[Moash\|Moash]] during the siege, and [[Adolin Kholin\|Adolin Kholin]] refused to take the throne after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Jasnah Kholin\|Jasnah Kholin]] became Queen. The current heir to the throne is Elhokar's son, [[Gavinor\|Gavinor]] -- however, he's still a child and a regency in his name was deemed too unstable and dangerous during the time of the [[True Desolation\|True Desolation]].
 
-
+#### Battle of Thaylen Field (Nanishah 1174)
 For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 On Nanishah 1174, the Alethi and Thaylen armies defended [[Thaylen City\|Thaylen City]] against the incursion of the [[Fused\|Fused]] army. This battle was motivated by the Alethi wishing to protect their Thaylen allies, and in order to secure the Thaylen [[Oathgate\|Oathgate]]; They wished to secure the Oathgate due to the strategic advantage it granted them.
 During this battle, the Unmade Nergaoul was successfully sealed away into the [[King's Drop\|King's Drop]], thus ending its control over people across Roshar.
 
-
+#### Fused Occupation (1174 - )
 By the time of the Battle of Thaylen Field, most of Alethkar was under Fused hegemony. One of the major military centers in the occupation was the capital city of the [[Vamah princedom\|Vamah princedom]], [[Revolar\|Revolar]]. Between 40,000 and 50,000 Singers were stationed there.
 A year after the Battle of Thaylen Field, Dalinar had managed to retake the southwestern corner of Alethkar which touches the Tarat Sea. Dalinar considered launching a major offensive into Alethkar but was convinced by the [[Dieno\|Mink]] that it would be wiser to attempt to retake Emul.
 
-
+#### Evacuation of Hearthstone (1175)
 In Chach 1175, an attempt was mounted by the coalition to evacuate the city of Hearthstone. After a battle with Fused occupiers, most notably [[Lezian\|Lezian]], all but fifteen occupants of Hearthstone were successfully evacuated via the *Fourth Bridge*, and brought to Urithiru. During the battle, Brightlord Roshone was killed by [[Vyre\|Vyre]], leading to the position of citylady eventually being passed on to Laral.
 
 ## Culture
@@ -384,11 +384,11 @@ As of 1173, Alethkar was going through a trend of bright colors and ornate frill
 Alethkar and Jah Keved have closely aligned fashion styles, enough so for Liafor to market to them using the same fashion folios.
 
  by  Dan dos Santos  Contemporary Male Fashion
-
+#### Masculine Fashion
 A common form of male clothing, typically worn by warriors, is the [[Takama\|takama]]. The takama is a form of long, straight, calf-length skirt, typically worn with a belt and shirts specifically designed for use with a takama. The Takama has similarities with the Veden [[Vakama\|vakama]] and [[Ulatu\|ulatu]].
 
  by  Dan dos Santos  The Vorin Havah
-
+#### Feminine Fashion
 The Vorin Havah is a very common form of clothing amongst Lighteyed women in Alethkar. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt; fitting with Vorin ideals, these Havah have a long left sleeve, hiding their [[Safehand\|safehand]]. These sleeves often have a pouch to store belongings known as a safepouch. Havah are often made of brightly coloured silk, which is thin enough to allow women to easily grip objects with their safehand, when necessary.
 Havah often have elaborate embroidery, often taking the form of multifarious designs, hatchings, and stylized glyphs.
 Lighteyed women often arrange their hair high in a complex series of braids secured by four steel spikes. These hair-spikes are considered to be traditional in Alethi culture. Some women deign to use different metals, such as gold, to construct these spikes; some even choose to wear a different number of spikes in their hair, such as six.
@@ -405,7 +405,7 @@ It is common for children to eat fruited tallew rice with flatbread.
 They make use of a wide range of sauces of a variety of different flavours, ranging from spicy, to sweet, to peppery, to salty.
 
  by  Miranda Meeks  The Colours of Alethi Wine
-
+#### Alcohol
 Alethi alcohol is often made of fermented tallew or lavis, but are occasionally made from fruit.
 Their alcohol is coloured with various dyes in accordance with the strength of the beverage. The strongest colours are not only fermented, but also distilled into spirits. Parties often only make use of the weaker colours, to prevent participants from getting drunk too quickly.
 There is a great variety of beverages even within the same colour, such as hard honu, a type of lavis grain liquor. Some alcohol is spiced, giving it a spicy flavour.
@@ -444,13 +444,13 @@ For more information on the Women's Script, see [[Women's script\|Women's script
 For more information on Glyphs and Glyphpairs, see [[Glyphs\|Glyphs]].
 The Alethi language is part of the Vorin language family, which includes others such as Veden (spoken in [[Jah Keved\|Jah Keved]]) and [[Herdaz\|Herdazian]]. It's particularly close to the former, making it easy to learn. It is also descended from Alethelan. Known words from the language include *dahn* and *nahn* for the ranking system, numerous [[Glyph\|glyph]] pronunciations, as well as two terms for family members -- *Mathana*, a formal term for older sister, and *Mashala*, for aunt.
 
-
+#### Script
 The Alethi language can be written using two different systems. The [[Women's script\|Women's script]], used broadly across eastern Roshar, is an alphabet, with twenty five letters, and at least two symbols -- a mark of maximum character height, at the start of a passage, and a small diactric denoting that a particular letter should be read as an "H".
 
-
+#### Grammar
 Pronouns, including the first-person pronoun, are gendered in the written language, with a masculine, feminine, and neuter form. Due to only woman and ardents being allowed to write, the use of the masculine first-person pronoun is largely restricted to use in quotes, whilst the neuter is used in writing by ardents. It is likely that no pronouns have gender in the spoken language. There are further additons to the written language that change the context of words, and are not read out loud.
 
-
+#### Literacy
 As a Vorin nation, reading and writing is restricted for use by the female part of the populace. and to ardents. Due to this, men are typically illiterate, regardless of their class.
 Men are permitted to learn [[Glyph\|glyphs]], a separate system where each symbol or pair of symbols represents a separate idea or concept. Despite this, stormwardens make use of glyphs in a system known as the [[Stormwarden script\|Stormwarden script]], which phonetically uses glyphs in order to construct words. This, however, is seen as a form of reading, and thus the manner in which they use glyphs is typically hidden from the public.
 Literacy is ubiquitous amongst lighteyed women, and is not uncommon even amongst darkeyed women in Alethi cities. However, literacy is uncommon in smaller, primarily darkeyed settlements such as Hearthstone, with some having literacy rates as low as 0%.
@@ -459,7 +459,7 @@ Literacy is ubiquitous amongst lighteyed women, and is not uncommon even amongst
 Wealthy lighteyes tend to have their bodies soulcast into stone or metal statues. They are positioned by mortuary sculptors before being soulcast into stone, leaving them suitable for display.
 Darkeyes tend to have their dead burned. Although some very wealthy darkeyes get different treatment.
 
-
+#### The Afterlife
 As a Vorin nation, they believe that people go to assist the Heralds in accordance with their Calling, with warriors being believed to fight in the battle to reclaim the [[Tranquiline Halls\|Tranquiline Halls]] from the Voidbringers. They believe that those who do not achieve their Calling are put into a dreamless sleep until the Halls are reconquered, whilst the sinful are cast down into Damnation.
 
 ### Sex and Sexuality
@@ -485,11 +485,11 @@ The monarchy's power over the highprinces, however limited, is primarily maintai
 The king has the right to promote individuals into the position of a classical Highprince if they deem it necessary, therefore consolidating inter-princedom national power in certain aspects of government into individuals. This right is controversial, and only began to be put into use late into the War of Reckoning in 1173, when King Elhokar granted highprince Torol Sadeas the position of [[Highprince of Information\|Highprince of Information]].
 Jasnah Kholin, the current queen, expresses an interest in disbanding the monarchy after the True Desolation is over.
 
-
+#### Rules of Succession
 Traditionally, the crown passes down to the eldest male heir of the ruling king upon his death. However, this traditional line of succession can be overruled if the heir is deemed too young to serve as king in the contemporary political climate of the nation. In such a case, the crown can pass to the sibling of the deceased king, to act as monarch until the heir comes of age or the political situation calms enough for them to be able to take the throne.
 A king can choose to grant the throne to another individual outside of their line of succession, as Elhokar briefly did to Lopen, making him the legitimate king for a short period of time. Though the nation refused to recognize the legitimacy of his claim or add him to the official list of kings. His children do have a valid claim to the throne, due to his brief role as king, though the Alethi are unlikely to accept his claim.
 
-
+#### List of Known Alethi Monarchs
 |**Alethi Monarchs**|
 |-|-|
 |**Name**|**Length of Rule**|
@@ -505,7 +505,7 @@ A king can choose to grant the throne to another individual outside of their lin
 |[[Elhokar Kholin\|Elhokar Kholin]]|Ishi 1167 - Nanachach 1174|
 |[[Jasnah Kholin\|Jasnah Kholin]]|Nanat 1174 - *Incumbent*|
 
-
+#### The King's Wit
 The King's Wit (known as the Queen's Wit during the rule of Jasnah Kholin) is a court jester that works for the residing monarch, mocking those of lower dahn. The current Wit, as of 1175, and beginning his service in 1173, is [[Hoid\|Hoid]].
 It is legal for a Highprince to murder a Wit, though doing so would lead to them losing their position and property.
 
@@ -515,7 +515,7 @@ Though it is ruled by a single king, Alethkar is divided into ten princedoms, ea
 Borders between Princedoms were largely, but not exclusively, defined by natural borders created by the Windrunner and Deathbend rivers, the Sunmaker mountains, and the Sea of Spears.
 It is unclear what princedom [[Akak\|Akak]] is a part of.
 
-
+#### Highprinces
 A highprince is the ruler of one of the ten princedoms that make up Alethkar. They essentially function as the leaders of sovereign nations, rather than simply as heads of administrative districts.
 
 
@@ -523,7 +523,7 @@ When a Highprince dies, the position passes to his eldest male child. If he has 
 If the deceased Highprince has no descendants that can act as valid heirs to the position, their spouse is allowed to elect someone from outside the family to take it up.
 In extreme circumstances, the monarch of Alethkar is allowed to step in and choose to elect a figure of their choosing to be the next Highprince.
 
-
+#### The Classical Highprince System
 During the rule of Sadees, the ten Highprinces had specialized roles in government, controlling certain aspects of the entire kingdom. This system fell into disuse after the death of Sadees, as Alethkar broke into ten self-governing regions.
 This system has seen a resurgence as of late 1173, starting with the election of Torol Sadeas as the Highprince of Information.
 
@@ -532,16 +532,16 @@ This system has seen a resurgence as of late 1173, starting with the election of
 **Highprince of Information:** This position had authority over criminal investigations and policing across the entire kingdom and appointed judges and magistrates. Of particular interest to the Highprince of Information were criminal investigations where the Crown's interest was at stake.
 **Highprince of War:** This position had control over the kingdom's combined military forces, likely only during a time of war.
 **Highprince of Works:** This position had management of the kingdoms infrastructure, such as sewage disposal, civil services, and potentially [[Stormlight\|Stormlight]] management; with the increase in uses for Stormlight since the [[Battle of Narak\|Battle of Narak]].
-
+#### Inter-Princedom Conflict
 Despite unification under one banner, it is common for princedoms to engage in violent border conflicts with one another. This continued even long into the War of Reckoning.
 
-
+#### Administrative Districts
 Each Princedom is further divided into named regions, such as [[Akanny\|Akanny]] in the Sadeas Princedom. These regions are controlled by Brightlords or Highlords that hold extensive land and property within a princedom, and collect taxes from the citylords.
 Another level down from regions are individual settlements, which are ruled by citylords. When a citylord dies without a proper heir, a new citylord is sent to replace them. These citylords own the land and territory of a settlement, and rent it out to inhabitants. These inhabitants pay an income tax, which varies depending upon the size and purpose of the settlement in question, with smaller farming towns like [[Hearthstone\|Hearthstone]] primarily paying in produce such as lavis grain, while larger cities levy more financial taxes. Furthermore, the citylord only gets a portion of the collected taxes, with most going to their own local highlord, or to their local Highprince.
 Citylords have legal authority over those on their manor, and are allowed to impress them into passing armies at will, so long as they are over the age of fifteen. They are also able to forbid an individual from willingly joining into service.
 Citylords are ultimately subservient to the lord of the territory that they inhabit, and in various ways have to pay tribute to their local lord.
 
-
+#### Known Princedoms
 The territories of Alethkar and their major settlements are:
 
 
@@ -593,10 +593,10 @@ Following the start of the True Desolation and the invasion and occuptation of A
 They retained political recognition by other states despite their exile.
 
 ### Foreign Policy and International Relationships
-
+#### Azir
 [[Azir\|Azir]] has a deep distrust of Alethkar due to their militaristic nature, and due to the genocide perpetrated against them by Sadees, who is still held as a hero in Alethi historical recollection. Due to this, they were hesitant to join Alethkar in the Coalition of Monarchs or give them access to their Oathgate, until their hand was forced by a Singer attack.
 
-
+#### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
 \-Taravangian[174]
 
@@ -605,29 +605,29 @@ They retained political recognition by other states despite their exile.
 After a change in dynasties in Herdaz around 1150 led to them rallying their forces and pushing against Alethi borders for around four years of combat. These skirmishes shaped the modern Alethi-Herdaz border, and incited a degree of ethnic stife between the two peoples, with the Herdazians becoming the target to stereotypes and discrimination. Due to their history, the Herdazian government was distrusting of Alethkar when they approached them with offers to join the Coalition of monarchs.
 Although they are currently allied in their fight against Fused forces, distrust and tension still exist between the two armies, as the people haven't forgotten the atrocities committed against their people by the Alethi during the 1150-1154 border conflicts, and other such conflicts. They are very quick to slate Alethi generals for execution when they commit crimes against their people.
 
-
+#### Jah Keved
 They have repeatedly fought with the neighboring [[Jah Keved\|Jah Keved]], fighting for territory at their shared border. These wars tend to be pushed more by western Highprinces instead of by national efforts pushed forward by the crown. At the same time, marriage of lighteyes between nations is nothing seen as particularly out of the ordinary, nor is it forbidden by any religious tenants or national laws.
 Through trade treaties, they are able to trade with Jah Kaved for cheap.
 
-
+#### Kharbranth
 Before Taravangian's betrayal of the Coalition of Monarchs, Kharbranth and Alethkar had a close political and economic relationship. This relationship led to Kharbranth joining the Coalition of Monarchs before any other nation. Whilst they appeared to be good allies, Taravangian was secretly planning to cause Dalinar's rule over Alethkar to collapse allowing him to take control of the nation.
 Following the reveal of his deceit, and his fall from authority in Kharbranth, [[Savrahalidem\|Savrahalidem]] became Queen and withdrew from the alliance, declaring neutrality in the conflict. This led to an increase in tensions between them, ultimately leading to Dalinar creating a trade blockade across the sea near Kharbranth to force them back into the alliance.
 
-
+#### Listeners
 When they first met, the Listeners and Alethi had a positive relationship which eventually led to the formation of a treaty between the two peoples in Ishi ? 1167. However this peace broke down once King Gavilar Kholin was assassinated under Listener orders, leading to the enactment of the Vengence Pact and the beginning of the War of Reckoning against the Listener people. This slaughter of their people would continue for six years, until it ended with the start of the True Desolation on Ishishach 1173.
 The Alethi see the Listeners as sub-human savages barely capable of thought, and spread that supremacist ideology amongst their people and their soldiers.
 
-
+#### Marabethia
 Alethkar requested that Marabethia join in the Coalition of monarchs, however, Marabethia refused to respond to these invitations.
 
-
+#### Reshi Isles
 Throughout their history, Alethkar and the [[Reshi\|Reshi Isles]] have been in a state of near constant conflict, seen in conflicts such as the [[Wastescum skirmishes\|Wastescum skirmishes]]. Attacks at the northern border continued even long into the War of Reckoning. The Alethi conquest of [[Akak\|Akak]], and their extermination of the Akak Reshi, likely played a role in Reshi aggression towards Alethkar.
 They appear to have good relationships with at least a few Reshi islands, with some providing chulls and handlers to the Alethi military during the War of Reckoning. During the True Desolation, in the year 1174, they allied with the Reshi isle of [[Relu-na\|Relu-na]] and their king [[Ral-na\|Ral-na]].
 
-
+#### Thaylenah
 Thaylenah is an important member of the Coalition of monarchs, though they deeply distrusted Alethkar and Dalinar due to the prior actions of both entities, before ultimately choosing to join the Coalition.
 
-
+#### Yezier
 They have a stable system of trade with Yezier, wherein Yezier sells them a variety of clothing articles, which are of great popularity in Alethkar. Yezier quickly requested to join the coalition of monarchs with Alethkar shortly after the start of the True Desolation. This created a close economic and military union between the two nations.
 
 ## Military

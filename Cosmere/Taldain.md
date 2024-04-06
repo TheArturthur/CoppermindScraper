@@ -53,11 +53,11 @@ The area between both sides is known as the [[Border Ocean\|Border Ocean]] which
 Most of the planet’s Investiture is found on Dayside. Much of Dayside is covered in [[Sand (Taldain)\|sand]] and rock, the sand itself being covered by lichen. This lichen is where the sand's striking white color comes from as well as the reason it changes between white and black in the process of sand mastery and other forms of Investiture.
 **Dayside** is home to one large circular landmass that is surrounded by ocean on all sides. On this landmass there are five nations; [[Kerzta\|Kerzta]], [[Lossand\|Lossand]], [[Denka\|Denka]], [[Seevis\|Seevis]], and [[Tallon\|Tallon]]. There is a mountain range on the eastern side of the landmass, which marks the borders of Seevis and Tallon and separates the [[Rim Kingdoms\|Rim Kingdoms]] from Kerzta and Lossand. A mountain named [[KraeDa\|KraeDa]] lies at the center of Dayside. A wide variety of Flora and Fauna make their home on this part of the planet. But due to the harshness of the sunlight and environment, most of the flora and fauna live beneath the surface of the sand. In the [[Kerla\|Kerla]], where the water table is high, the majority of life is found in a unique ecosystem beneath the sand that has been described as more like a lake of sand than a desert.
 
-
+#### Flora
 In the Kerla, most plants, including farms of vegetables, exist beneath the sand. The [[Dorim vine\|dorim vine]] is a plant used as a water source on Dayside by its inhabitants, and areas where they grow are not considered to be a desert. The plant stores water primarily as a defensive measure against other creatures as water dissolves the shells of many sand creatures. Because of this any creature attempting to eat the plant would find their mouths beginning to melt. As a result, the growth of dorim vines limits how large sandlings can grow in these regions.
 The banks of the [[Ry'Do Ali River\|Ry'do Ali]] in Lossand is cultivated for farming despite the area being less fertile than the Kerla. Plants in this area of rocky low sands are described as being noticbly shorter and "more stumpy" than Darkside flora. The [[Lonzare\|Darkside quarter]] of [[Kezare\|Kezare]] has flowers native to Darkside growing within it.
 
-
+#### Fauna
 [[Sandling\|Sandlings]] inhabit all areas of the continent, ranging in size from insectile sandlings found everywhere to gargantuan deep sandlings. It is rare for a deep sandling to venture far from the [[Deep sand\|deep sands]]. Most sandlings live by eating the layer of sand exposed to the sun, and digesting the lichen that covers the sand. The sand turns dull after being digested, but the lichen from undigested sand will spread back onto it, given time. Some sandlings, like the [[DelRak\|DelRakin]] are predators that eat other sandlings.
 There are multiple breeds of deep sandling. Some of them, such as [[KaRak\|KaRakin]], are hunted for sport. Another breed consists of thousands of small sandlings which act as a group in the deep sands; when they move they agitate the sand above them causing them to be mistaken for a much larger creature forcing wanderers to retreat. Delrak Naisha are another breed found in the deep sands. They are creatures that wait just beneath the sand; if the sand above them is disturbed, they emerge and consume whatever is above them.
 [[Tonk\|Tonks]] are a type of domesticated sandling on Dayside used as beasts of burden; they are primarily used as mounts. They are scared of water, however, and refuse to cross it. Travelling with tonks is also frustrating because of their natural instinct to bury themselves underneath sand during a sandstorm and their tendency to mistake many things for sandstorms.
@@ -68,10 +68,10 @@ There are multiple breeds of deep sandling. Some of them, such as [[KaRak\|KaRak
 The landmass of Darkside is of an unknown size and shape. There are many countries, though most have been subordinated to the [[Dynastic\|Dynastic]] Empire. Elis is a landlocked country on Darkside. Nimmyn is a geographical location whose flora has been imported to Lraezare, but it is not known if it is a country or region.
 Unlike what was once assumed, Darkside is Invested by [[Autonomy\|Autonomy]], though the effects of this aren't as noticeable. The particulate cloud around Ridos's Eye emits a pulse every week that Invests [[Starmarks\|Starmarks]] on Darkside, even if only some people can access that Investiture.
 
-
+#### Flora
 On Darkside, the flora having adapted to utilize the UV section of the electromagnetic spectrum. Lichen is a common growth across the entire Darkside continent, but flowers and crops also grow well. Grapes have been exported to Dayside for the making of wine, and some flowering plants have been imported for the [[Lraezare\|Lraezare]] district of [[Kezare\|Kezare]] to help [[Lonsha\|Lonsha]] expats feel more at-home.
 
-
+#### Fauna
 Fauna on Darkside is "remarkable" are often referenced as proverbs, usually with reference to Starmarks.  are a saddle-able beast of burden on Darkside. The diversity of animal life extends at least from invertibrates, like the , to apex predators, like the .
 
 ## History
@@ -105,4 +105,4 @@ Darkside magic primarily functions through tattoos, but its effects are not near
 
 
 
-https://coppermind.net/wiki/Lonsha
+https://coppermind.net/wiki/Darksider

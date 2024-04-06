@@ -46,4 +46,4 @@ There are multiple cultures within the UrDail, and apparently at least a few nat
 [[Nanalis\|Nanalis]]
 
 
-https://coppermind.net/wiki/Independence
+https://coppermind.net/wiki/UrDail

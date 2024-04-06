@@ -12,4 +12,4 @@ Catnip is with Skyward Flight during the fight with the [[KRELL\|KRELL]] when th
 
 
 
-https://coppermind.net/wiki/Catnip
+https://coppermind.net/wiki/Corbin

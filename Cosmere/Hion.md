@@ -36,4 +36,4 @@ The hion colors were intentionally picked as two of the colors commonly used in 
 The two colors are a manifestation of the general Push-Pull theme that can be seen with all Investiture. It is, however, much more pronounced with Virtuosity.
 
 
-https://coppermind.net/wiki/Hion
+https://coppermind.net/wiki/Hion_viewer

@@ -11,4 +11,4 @@ The Selay people have distinctive ripple patterns on their skin.
 
 
 
-https://coppermind.net/wiki/Sela_Tales
+https://coppermind.net/wiki/Selan

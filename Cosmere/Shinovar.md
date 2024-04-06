@@ -64,11 +64,11 @@ Buildings made of clay and earth seem to be common in Shinovar, as they remind [
 Little is known about the state of Shinovar before human arrival, except that [[Singer\|Singer]] relationship with the land was as such that it was the land they decided to grant to humanity upon their arrival. The ecology was very different during this era, not yet introduced to Ashynite flora and fauna.
 
 ### Heraldic Epochs
-
+#### Human Arrival
 When humans first arrived on Roshar from [[Ashyn\|Ashyn]] after leaving it inhospitable to human life, the [[Singer\|singers]] gave them the land of Shinovar to settle in. Because it is sheltered from highstorms, humans were able to grow the plants and animals they had brought with them there, and these became a defining aspect of the Shin ecology.
 Over time, humanity grew dissatisfied with the territory they were granted, and chose to violent expand it, which begun what came to be known as the First Desolation.
 
-
+#### The Silver Kingdoms
  by  Isaac Stewart  Map of the Silver Kingdoms
 For more information, see [[Shin Kak Nish\|Shin Kak Nish]].
 Shinovar was founded as [[Shin Kak Nish\|Shin Kak Nish]] in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch.
@@ -78,10 +78,10 @@ Due to the Desolations, they were constantly returned back to primitive technolo
 ### Era of Solitude
 After the [[Last Desolation\|Last Desolation]], the Shin took control of the [[Honorblade\|Honorblades]] and brought them to Shinovar (save for [[Taln\|Taln's]] Blade, as it was with him on [[Braize\|Braize]]). Because of this history, they consider themselves the only ones who remember the truth about Rosharan history, though what they remember might not be entirely accurate. [[Nale\|Nale]] came back and retrieved his at some point without informing the Shin leaders. Members of the Shin use and train with the Honorblades and [[Surge\|surges]].
 
-
+#### Shin Invasions
 During the [[Era of Solitude\|Era of Solitude]], the Shin tried multiple times to conquer all of Roshar, but they did not succeed any time. They used Honorblades, Surges, and cavalry, a fighting technique unfamiliar to the rest of the continent. [[Shubreth-son-Mashalan\|Shubreth-son-Mashalan]] was likely a leader during one of the invasions.
 
-
+#### Lead-up to the True Desolation
 Approximately seven years before the [[True Desolation\|True Desolation]], [[Szeth\|Szeth]] announced that the [[Voidbringers\|Voidbringers]] were returning. He was told by the Shin leaders that this was false, made [[Truthless\|Truthless]], and exiled, taking [[Jezrien\|Jezrien's]] Honorblade with him. He was traded to [[Vstim\|Vstim]], a [[Thaylen\|Thaylen]] merchant who often traded successfully with the Shin, and exiled from Shinovar.
 
 ### The True Desolation
@@ -139,4 +139,4 @@ The Shin people are the only group on Roshar who make wine out of grapes.
 Cats at one point lived in Shinovar.
 
 
-https://coppermind.net/wiki/Shinovar
+https://coppermind.net/wiki/Shin

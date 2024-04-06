@@ -62,4 +62,4 @@ After the [[Collapse\|Collapse]], Vin studied her copy of the logbook, trying to
 The [[The Final Empire/Epigraphs\|epigraphs]] of the first [[Mistborn (series)\|Mistborn]] book, *The Final Empire*, are excerpts from the logbook.
 
 
-https://coppermind.net/wiki/Alendi%27s_journal
+https://coppermind.net/wiki/Alendi%27s_logbook

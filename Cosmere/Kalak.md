@@ -123,7 +123,7 @@ At some point after the assassination, Kalak moved to [[Lasting Integrity\|Lasti
 
  by  Shuravf 
 ### The Trial of Adolin Kholin
-
+#### The Diplomatic Mission
 >“*Boy, you're doomed. You realize that, right? Tanavast is dead. Like, completely dead. The Oathpact is broken somehow. The only thing left is to try to get off the ship before it sinks.*”
 \-Kalak to Adolin[6]
 
@@ -132,7 +132,7 @@ Following the death of [[Ialai Sadeas\|Ialai Sadeas]], [[Mraize\|Mraize]] gave [
 When Kalak returned, Adolin approached him, asking for a trial by witness, and for Kalak to preside over it. Though initially spooked by the presence of a human, and son of a [[Bondsmith\|Bondsmith]] to boot, Kalak eventually agreed. [[Sekeir\|Sekeir]] attempted to convince him not to give Adolin the time of day, but Kalak rebuked him, annoyed that despite having spent years in Lasting Integrity, the honorspren did not help Kalak get off-world. However, the Herald refused to keep the trial private, and openly admitted to Adolin that he did not believe the other man stood any chance of winning. He also suggested that Adolin should rather focus on leaving Roshar altogether, as winning against [[Odium\|Odium]] was, in Kalak's opinion, impossible.
 At the same time, Mraize convinced Shallan to capture Kalak in a gemstone as a way to help Adolin succeed in the trial. Kalak, aware that someone would be sent to kill him, though unaware of who precisely, composed a message to his killer in the journal, mocking them for thinking they could capture a Herald and begging that they release the Unmade Ba-Ado-Mishram.
 
-
+#### The Trial
 >“*So we're arguing over even the definitions? This doesn’t bode well.*”
 \-Kalak[13]
 
@@ -146,12 +146,12 @@ After Notum was led out, Kelek quickly returned to a state of calm, and explaine
 
 On the second day, Kelek arrived after Adolin, having changed into a more formal set of robes. He was similarly wishing to hurry things up, but seemed to be taking his responsibility more seriously, threatening to have one honorspren removed for breaking the rules and guiding the trial along. As another spren grew far too agitated, Kalak had him dragged out of the forum. However, the trial still ended with a loss to Adolin as [[Testament\|Testament]] was brought up to prove the modern Radiants would still kill their spren.
 
-
+#### Assassination Attempt
 It was this day that convinced Shallan to go ahead with her plan of killing Kalak. Becoming Formless, she snuck into Kalak's house, fully intending on capturing his soul and throwing her lot with the Ghostbloods. However, her Veil and Radiant alters managed to convince her that she was strong enough to be Shallan, and so she changed her decision.
 At that moment, Kalak, possibly having heard Shallan talk to herself, entered the room, and asked if Shallan was here to kill him. He revealed that he always knew [[Thaidakar\|Thaidakar]] wanted him captured, and explained the conflict between the different generations of honorspren: the elders who wanted to keep themselves isolated, and the younger ones who wanted to keep fighting. When Shallan offered to exchange information about Ghostbloods for helping Adolin win the trial, however, Kalak was still undecided.
 Before he could consider it further, [[Lusintia\|Lusintia]], Sekeir and other honorpren burst in, accusing Shallan of attempting to influence the trial. Surprisingly, Kalak sided with the [[Lightweaver\|Lightweaver]], saying that she was here to bring him news of the [[Physical Realm\|Physical Realm]]; a half-truth skipping over the assassination attempt. In response, Sekeir declared that Kalak had a bout of mental instability and ordered him and Shallan locked away. As such, Kalak was absent from the final day of the trial.
 
-
+#### The Aftermath
 Adolin ultimately won the trial, thanks to [[Mayalaran\|Mayalaran]] managing to speak in his defense. In the aftermath, Kalak decided to assist him and Shallan. He aided them in opening the box holding [[Ala\|Ala]] without killing the seon inside, and shared more information about the Recreance, revealing that prior to Ba-Ado-Mishram's capture, spren did not become [[Deadeye\|deadeyes]]. He also told Shallan about other planets and what he managed to learn about them.
 
 ## Relationships
@@ -207,4 +207,4 @@ The epigraphs for Part Four of *Rhythm of War* are written by Kalak.
 The official painting of Kalak, by Magali Villeneuve, was included in the hardcover release of *Rhythm of War*.
 
 
-https://coppermind.net/wiki/Kellai
+https://coppermind.net/wiki/Kalak

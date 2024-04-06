@@ -63,21 +63,21 @@ Located in eastern Roshar, Jah Keved is the second largest state on the planet, 
 Though verdant, Jah Keved doesn't possess many major rivers. The country's most notable geographical feature are the [[Horneater Peaks\|Horneater Peaks]] in the east, which form an important strategic barrier against the Alethi.
 
 ### Notable Locations
-
+#### Regions
 [[Horneater Peaks\|Horneater Peaks]] - Massive mountains on the eastern side of the country, the Peaks are the home of the [[Unkalaki\|Unkalaki]] people. Despite their high altitude, the mountaintops are habitable thanks to a series of hot lakes known as the [[Horneater Oceans\|Horneater Oceans]].
 [[Bavland\|Bavland]] - A small mining region, known for being dusty.
-
+#### Cities
 [[Elanar\|Elanar]]
 [[Kneespike\|Kneespike]] - A city in Bavland.
 [[Vedenar\|Vedenar]] - The capital city of Jah Keved. Much of it was destroyed during the civil war of 1173. It is the site of the country's [[Oathgate\|Oathgate]].
 [[Valath\|Valath]] - The location of the Holy Enclave, the center of Vorin faith.
 [[Silnasen\|Silnasen]] - The main city of the Siln people.
 [[Northgrip\|Northgrip]] - The largest city located on the northern coast.
-
+#### Villages
 [[Bornwater\|Bornwater]] - A mining town in Bavland.
 [[Staplind\|Staplind]] - A settlement in Bavland.
 [[Ironsway\|Ironsway]] - A town in Bavland.
-
+#### Other
 [[Silent Mount\|The Silent Mount]] - A mountain where the [[Vanrial\|Vanrial]], an order of artists, live.
 [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] - Roshar's only stable [[Perpendicularity\|perpendicularity]], located somewhere in the Horneater Peaks.
 [[Jokasha Monastery\|Jokasha Monastery]] - Home of the Vorin Devotary of the Mind.
@@ -89,20 +89,20 @@ During the [[Silver Kingdoms\|Silver Kingdoms]] era, the territory now occupied 
 ### Era of Solitude
 For a long time, Jah Keved was the largest country on Roshar.
 
-
+#### Siln Dynasty
 According to scholar [[Natata Ved\|Natata Ved]], the dynasty before the Siln dynasty was ruled by the king NanHar, who invaded the area that would come to be [[Triax\|Triax]], but died in the invasion. Following his death, his brother, [[NanKhet\|NanKhet]], succeded the throne and was a tyrant that survived six assassination attempts. First his sister attempted to kill him to put her husband on the throne, following this their son tried to kill him, then NanKhet’s cousin, then his brother, an uncle, and finally his own son. This eventually led him to invite his entire household to a feast, where he killed and burned every member. The exact veracity of this history is questionable, due to the historical method only being in its infancy when Natana Ved wrote her record, two centuries after the events she described.
 He ultimately only led for three months, and after his death, the Siln Dynasty rose to power and replaced his line as the rules of Jah Keved.
 
-
+#### The Hierocracy (??? - c.673)
 For more information, see [[Hierocracy\|Hierocracy]].
 For more information, see [[Sadees\|Sadees]].
 In c.673, the Hierocracy was overthrown by the Alethi conqueror known as [[Sadees\|Sadees the Sunmaker]] in a conflict that would come to be known as the [[War of Loss\|War of Loss]].
 
-
+#### Alethi War of Unification
 For more information on the Alethi War of Unification, see [[Alethkar\|Alethkar]].
 After [[Gavilar Kholin\|Gavilar Kholin]] unified [[Alethkar\|Alethkar]] into a single state, the Veden fought a number of small border wars against the Alethi, testing their defenses. Though they were eventually pushed back by the forces led by [[Dalinar Kholin\|Dalinar Kholin]], small conflicts between Alethi and Veden highprinces continued for many years. Nonetheless, the country remained the main oasis of stability in the region.
 
-
+#### Veden Civil War (1173 - 1174)
 
 This changed, however, on Tanatesev 1173, when [[Szeth\|Szeth]] assassinated the Veden king, [[Hanavanar\|Hanavanar]], along with a number of highprinces. This plunged the country into a chaotic civil war, with at least seven different factions hoping to claim Vedenar and crown their leader king. The situation was further worsened by the presence of the [[Unmade\|Unmade]] [[Nergaoul\|Nergaoul]], known better as the Thrill, leading Veden soldiers to fight with unprecedented degree of drive and brutality.
 The civil war lasted for a few months, with the final confrontation being the battle at Vedenar. Highprince [[Valam\|Valam]] emerged victorious, becoming the new king. However, he quickly passed the crown to king [[Taravangian\|Taravangian]] before ordering his illegitimate son, [[Redin\|Redin]], to kill him. Given Valam's poor health and his insinuations shortly before his death, it's possible he was being poisoned by the [[Diagram (group)\| Diagram]] to achieve this, as it was them who instigated the civil war by sending Szeth.

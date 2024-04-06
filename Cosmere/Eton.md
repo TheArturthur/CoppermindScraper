@@ -14,4 +14,4 @@ Eton is assassinated, and his soldiers show up to try Raoden for causing Eton's 
 
 
 
-https://coppermind.net/wiki/Mad_Prince
+https://coppermind.net/wiki/Eton

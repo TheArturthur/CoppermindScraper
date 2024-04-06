@@ -139,4 +139,4 @@ The Ghostbloods do not trust the [[Sleepless\|Sleepless]]. They are worried abou
 The third Mistborn series will be subtitled 'Ghostbloods'.
 
 
-https://coppermind.net/wiki/Ghostblood
+https://coppermind.net/wiki/Ghostbloods

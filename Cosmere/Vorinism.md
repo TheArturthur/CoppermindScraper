@@ -84,25 +84,25 @@ The Voidbringers followed humanity to Roshar trying to destroy it or force human
 On Roshar, the Knights Radiant were left behind, although they ultimately betrayed humankind in the [[Day of Recreance\|Day of Recreance]]. One explanation for the betrayal is that the Knights Radiant imitated great powers and pretended a holy calling using elaborate tricks and once this was discovered they fled.
 
 ### Morality
-
+#### Calling
 All Vorins are expected to choose a **Calling**, their greatest talent, and practice it until death.
 In the Alethi variety of Vorinism, fighting is considered the most important Calling, as the Almighty depends on Alethi to join the Heralds' army in their afterlife and win back the Tranquiline Halls. The ardents are supposed to help someone follow their Calling, helping them to set goals for them to achieve in furtherance of it. When one furthers their Calling enough, they **Elevate**, one goes through multiple Elevations in the pursuance of their Calling.
 
-
+#### Glory
 Closely tied to the concept of a Calling is Glory. A Glory is a particular attribute of the Almighty that one is supposed to emulate in the pursuit of their Calling. One typically choses their Glory alongside their Calling, as the two are supposed to work together; for example, the Calling of a warrior and the Glory of determination.
 It is seen that Lighteyes have more innate Glory than others, and that the purer their blood, the more they possess.
 
 
 Determination
 Purity
-
+#### Telling the Future
 It is seen that telling the future is an utmost evil, inherently tied to [[Voidbinding\|Voidbinding]].
 Due to this, Vorins look down upon gambling and games of chance, seeing them as immoral, heretical, and dangerous.
 
-
+#### Oaths and Marriage
 When it comes to relationships, Vorinism is focused on making and upholding oaths. Breaking oaths, or acting without proper oaths, such as having sex outside of marriage, is frowned upon. However, Vorinism offers a wide variety of partnership oaths for those who do wish to pursue relationships, including some for same-sex couples.
 
-
+#### Sex and Sexuality
 As mentioned previously, premarital sex and adultery are frowned upon, alongside the institution of prositition. Hand-holding, particularly with the safehand of a woman, is considered very intimate.
 
 ### Life After Death
@@ -137,7 +137,7 @@ All official Vorin betrothals must be signed and verified by ardents. As a resul
 ### Law
 Apart from cultural and religious aspect, Vorinism has an impact on the legal system, as the teachings of Heralds demand implementation of certain laws.
 
-
+#### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
 \-Nale[38]
 
@@ -145,10 +145,10 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
 The Right of Travel is derived from the [[Herald\|Heralds]] teaching that all borders should be open. More specifically, it was established by [[Nale\|Nale]], as a way to protect the weak from abuses of power. It also serves as a form of addressing the power imbalance between lighteyes and darkeyes, as most darkeyes are able to leave a land that is poorly managed.
 
-
+#### The Right to Learn
 Most people in Vorin kingdoms have the Right to Learn professions in any temple of the [[Almighty\|Almighty]]. Larger Vorin temples have at least one [[Ardent\|ardent]] who is an expert in any given art or trade, and they provide training to anyone who's interested, regardless of eye color.
 
-
+#### The Right of Challenge
 For more information, see [[Right of Challenge\|Right of Challenge]].
 The Right of Challenge allows a distinguished lighteyed warrior to demand justice through combat from the one who wronged him. Though the Right is almost never used in the modern day, it can still be exercised, and is well-known among lighteyes. This Right, however, does not extend to darkeyes, and a darkeye attempting to call on it can be punished with execution.
 

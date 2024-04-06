@@ -12,4 +12,4 @@ The earthquake was not natural.
 
 
 
-https://coppermind.net/wiki/The_Reod
+https://coppermind.net/wiki/Reod

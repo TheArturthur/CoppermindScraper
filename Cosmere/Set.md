@@ -90,4 +90,4 @@ There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] 
 
 
 
-https://coppermind.net/wiki/Set
+https://coppermind.net/wiki/Cycle

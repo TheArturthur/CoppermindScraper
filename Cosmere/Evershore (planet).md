@@ -17,4 +17,4 @@ For centuries this world has been ruled by a hereditary monarchy that borders on
 
 
 
-https://coppermind.net/wiki/Evershore_(planet)
+https://coppermind.net/wiki/Kitsen_homeworld

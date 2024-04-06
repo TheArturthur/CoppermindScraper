@@ -37,4 +37,4 @@ Kaz initially dislikes his nephew Alcatraz due to a social faux pas Alcatraz mak
 His name is a reference to a defunct Russian  in .
 
 
-https://coppermind.net/wiki/Kazan_Smedry
+https://coppermind.net/wiki/Kaz

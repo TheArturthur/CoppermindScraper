@@ -21,4 +21,4 @@ There are eighty different factions in the Rose Empire's government. The number 
 [[Ukurgi\|Ukurgi]]
 
 
-https://coppermind.net/wiki/Factions
+https://coppermind.net/wiki/Rose_Empire

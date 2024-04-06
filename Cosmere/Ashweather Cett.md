@@ -40,4 +40,4 @@ He is the head of [[House Cett\|House Cett]] and sired both [[Allrianne Cett\|Al
 
 
 
-https://coppermind.net/wiki/Ashweather_Cett
+https://coppermind.net/wiki/Ashweather

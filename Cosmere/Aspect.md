@@ -52,4 +52,4 @@ When Stephen took the case of [[Razon's camera\|Razon's camera]], he had 45 livi
 
 
 
-https://coppermind.net/wiki/Aspect
+https://coppermind.net/wiki/Aspects

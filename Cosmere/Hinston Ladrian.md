@@ -17,4 +17,4 @@ Hinston's death was used as an excuse for why Edwarn, his wife, and Telsin were 
 
 
 
-https://coppermind.net/wiki/Hinston
+https://coppermind.net/wiki/Hinston_Ladrian

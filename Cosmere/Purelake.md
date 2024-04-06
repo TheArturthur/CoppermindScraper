@@ -69,7 +69,7 @@ It is unknown what type of, if any, mineral deposits can be found around the lak
 
  by User: Otto didact Map of the Purelake
 ### Locations
-
+#### Settlements
 Villages that can be found on the Purelake include:
 
 
@@ -81,7 +81,7 @@ Villages that can be found on the Purelake include:
 
 It can be observed that the Selay word *Fu* is in some way related to settlements, as it appears in the names of all known Purelake settlements. The exact meaning of the word, however, is unknown.
 
-
+#### Other Locations
 Large structures have previously existed on the Purelake, though their continued existence is questioned by scholars. A large obsidian fortress once existed somewhere on the lake, prior to the [[Recreance\|Recreance]], but it is believed to have been destroyed. Modern-day Purelakers still speak of large structures existing on the lake, although this is dismissed by those outside the region as mythology. This fortress is not related to the geography of the Purelake in the Cognitive Realm.
 A [[Order of Skybreakers\|Skybreaker]] compound sits along the northern edge of the Purelake, in [[Marabethia\|Marabethia]].
 
@@ -104,7 +104,7 @@ The Purelake is home to an abundance of lifeforms such as fish, [[Cremling\|crem
 The fish in the Purelake have magical properties and form symbiotic bonds with [[Spren\|spren]]. This [[Investiture\|Investiture]] does not come from [[Honor\|Honor]], but may come from [[Cultivation\|Cultivation]]. The magical nature of these fish is similar to that of [[Aviar\|Aviar]] from the island [[Patji (island)\|Patji]], on the planet [[First of the Sun\|First of the Sun]].
 The exact magical manifestations of these animals is unknown. The local inhabitants believe certain creatures to imbue specific supernatural gifts; however, it is yet to be seen whether the Purelakers' superstitions are based in fact or fiction. While it may be the case that these fish grant the abilities specified by the native inhabitants, it is uncertain whether the Purelaker religion correlates directly with the magical properties of these lifeforms.
 
-
+#### Types of Lifeforms
 [[Kolgril\|Kolgril]]
 [[Stumpy Cort\|Stumpy Cort]]
 
@@ -139,7 +139,7 @@ One of their weekdays is known as warli-day. Soup bowls on the Purelake are desi
 
 ### Peoples
  by  botanicaxu  [[Order of Skybreakers\|Skybreaker]] acolytes during a test at their stronghold in [[Marabethia\|Marabethia]]
-
+#### Purelakers
 >“*A good Purelaker never covered his shoulders when the sun was shining. A man could get sick that way, not getting enough sunlight.*”
 \-Ishikk[3]
 
@@ -149,7 +149,7 @@ Purelakers are also rather unconcerned with the notion of exact time, and do not
 Purelakers typically wear sandals and knee-length pants so they can maximize their exposure to the lake. Men rarely cover their upper body, preferring to leave their shoulders and torsos bare to the sun. Despite Purelakers' preference for sun exposure, it is possible to purchase wide-brimmed hats in the region. The fashion of the Purelake is known for being rather unchanging.
 Purelakers' feet don't get wrinkled.
 
-
+#### Skybreakers
 The [[Order of Skybreakers\|Skybreakers]] have a stronghold on the northern edge of the Purelake in [[Marabethia\|Marabethia]] that is used to train acolytes. They will often use their surroundings for this training, including by placing items in the lake, to be used by the squires.
 The Marabethian government is aware they are in the region and will contact the Skybreakers if they require assistance with enforcement. It is unknown if the Purelakers are aware of the order's presence along their northern shore and how much contact they have with the Skybreakers.
 Szeth visits the Purelake at some point before becoming a Skybreaker.
@@ -174,7 +174,7 @@ Holy grottos are the only places where Purelakers can voice their worship for Nu
 Outsiders do not understand the intricacies of the Purelaker religion, and will unwittingly speak of Nu Ralik freely.
 Vun Makak is said to approve of lies and false stories. Nu Ralik is believed to provide the day.
 
-
+#### Superstitions
 Purelakers hold a number of superstitious beliefs that are associated with the ecology and environment of the Purelake. Many types of fish are considered to have special abilities or provide certain powers. These superstitions influence many aspects of the Purelaker lifestyle; inhabitants tend towards exposing a large amount of skin, as the sun is believed to bring good health, while the magical properties of area's fauna affects the value of trade goods. Purelakers also believe that the tide of the lake can be used to predict the future.
 
 ## Notable Purelakers

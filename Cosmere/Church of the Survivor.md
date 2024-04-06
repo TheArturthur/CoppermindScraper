@@ -27,4 +27,4 @@ Survivor's Day is a Survivorist holiday, the exact practices of this holiday, or
 
 
 
-https://coppermind.net/wiki/Survivorist
+https://coppermind.net/wiki/Survivorism

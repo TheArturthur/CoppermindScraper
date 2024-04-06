@@ -22,4 +22,4 @@ When writing *Rhythm of War*, Brandon debated whether to have the communication 
 The fainlife ecosystem was built from Brandon thinking about what sort of ecology would likely give rise to dragons and about what other evolutionary strains would exist in such an ecology.
 
 
-https://coppermind.net/wiki/Fainlife
+https://coppermind.net/wiki/Fain

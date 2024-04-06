@@ -8,6 +8,7 @@
 |**Abilities**|[[Crystin\|Crystin]] Knight, princess of [[Nalhalla\|Nalhalla]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
 |**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**First Appeared**|*Alcatraz Versus the Evil Librarians*|
 
 This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 

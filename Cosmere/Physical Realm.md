@@ -108,7 +108,7 @@ Donne is the closest planet to the sun. While it is in a habitable region, it is
 
 The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. The planet was the location of [[Elantris (book)\|Elantris]]. Sel was dominated by the [[Fjordell Empire\|Fjordell Empire]], with [[Arelon\|Arelon]] and [[Teod\|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire).
 
-
+#### Moons
 Sel has a single moon named Oem.
 
 ## The Scadrian System
@@ -151,7 +151,7 @@ The Drominad system has seven planets. There are four planets in the habitable z
 
 First of the Sun is a minor world consisting mainly of a large ocean and island systems. It has no Shards in residence.
 
-
+#### Moons
 First of the Sun has a single moon named First of the First.
 
 ## The Rosharan System
@@ -168,7 +168,7 @@ Ashyn is mostly barren, with a few fertile patches. It currently has no [[Shard\
 
 Roshar is the second planet from the Rosharan system's sun. It has a gravity of 0.7, a year 500 days long, with each year being 1.1 earth years. The planet consists of one large super continent.
 
-
+#### Moons
 Roshar has three moons. The first moon is Salas. It is violet, and is the smallest moon. The middle moon is Nomon, which is a bright, pale blue. And the final moon is Mishim, which is small and green.
 
 ### Braize
@@ -184,7 +184,7 @@ The Nalthian System orbits a yellow star. There are three planets in the system:
 
 On Nalthis, [[T'Telir\|T'Telir]] is the capital city of [[Hallandren\|Hallandren]] and its bordering mountain state of [[Idris\|Idris]]. The jungles are situated in a large valley surrounded by mountains and a sea.
 
-
+#### Moons
 A single moon named Rrendos orbits the planet.
 
 ## The UTol System

@@ -22,4 +22,4 @@ In his final moments, Miles shouts out that the people of Elendel will soon be r
 
 
 
-https://coppermind.net/wiki/Citizen_Magistrate
+https://coppermind.net/wiki/Citizen_Magistrates

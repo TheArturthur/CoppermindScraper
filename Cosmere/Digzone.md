@@ -12,4 +12,4 @@ Later, Digzone moved to [[Newcago\|Newcago]] to work with [[Steelheart (Epic)\|S
 
 
 
-https://coppermind.net/wiki/Digzone
+https://coppermind.net/wiki/Diggers

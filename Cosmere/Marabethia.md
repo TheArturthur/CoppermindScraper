@@ -87,11 +87,11 @@ Before humanity arrived on Roshar from Ashyn, the land that would come to be kno
 For more information, see [[Sela Tales\|Sela Tales]].
 During the Heraldic Epochs, Marabethia was part of the Silver Kingdom of [[Sela Tales\|Sela Tales]] and [[Valhav\|Valhav]]. It was conquered by Ashynite migrants who were granted the land that would become [[Shinovar\|Shinovar]] by the Singers, but grew dissatisfied with their hegemony and chose to violently expand it, heralding the First Desolation.
 
-
+#### The Desolations
 Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]].
 One of the many Desolations that struck the nation, along with the rest of Roshar, arrived in the year 337 of the Eighth Epoch. This Desolation was heralded by the release of [[Midnight Essence\|Midnight Essence]] in a small settlement in [[Natanatan\|Natanatan]]. The length of this Desolation is unknown.
 
-
+#### Aharietiam and the Last Desolation
 The Last Desolation was a large scale Desolation which occured around 4500 years before the arrival of the [[True Desolation\|True Desolation]]. This Desolation was particularly devasting due to the fact that it happened only a year after the previous Desolation, and thus society was weakened and still recovering. Tired of the Desolations and their torture on Braize, the nine Heralds still on Roshar refused to return to Braize, leaving Taln as the sole Herald on the planet for millennia.
 After the Last Desolation, Desolations ceased to ravage the nations. Due to this, society was able to advance much further than ever before, giving them the strength to potentially resist any potential Desolation without complete societal collapse. The era heralded by the Last Desolation came to be known as the Era of Solitude.
 At some point following Aharietiam, Sela Tales broke into a large amount of smaller states, some of which eventually became what is present-day Marabethia. Though they were not a true nation, but a collection of states that shared a similar culture.

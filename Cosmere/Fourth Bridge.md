@@ -53,7 +53,7 @@ The entire structure requires significant manpower to function properly. In Urit
 ## History
  by  Kelley Harris  Navani's early airship designs
 ### Development
-
+#### Floating Platforms
 >“*Hey. Is that platform flying?*”
 \-Adolin[6]
 
@@ -61,7 +61,7 @@ The entire structure requires significant manpower to function properly. In Urit
 [[Navani Kholin\|Navani Kholin]] began conducting her first tests a few months after arriving on the [[Shattered Plains\|Shattered Plains]], in the last year of the [[War of Reckoning\|War of Reckoning]]. The earliest experiment was comprised of a tall tower, with its top and the column built as separate pieces, and a paired circular platform with crenellations. After infusing the embedded fabrials with Stormlight, when the pillar was rolled away, the top of the tower remained floating. As the top was pulled down, the platform rose into the air, creating an archer parapet unassailable to anyone standing below. While this was already useful, even back then, there were plans to do more with the technology.
 Over time, Navani and her [[Ardent\|ardents]] improved the platforms even as they began planning for more ambitious projects. Shortly after the [[True Desolation\|True Desolation]] began, Navani started designing proper airships; her initial sketches were more ship-like, with massive sails attached upside-down to the bottom of the hull. However, proper construction began only after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], as Navani threw herself into work following the death of her son, [[Elhokar\|Elhokar]]. A few months after the battle, the Alethi built a pair of massive platforms off the sides of the [[Urithiru\|Urithiru]] plateau as their early experiments. By then, rumours of what they were planning began to spread covertly among the high-ranking members of the coalition.
 
-
+#### Aluminum
 >“*[Huio] left a bit of foiled aluminum in the mechanism, and it is interfering with the conjoined rubies in a fascinating way.*”
 \-Rushu[9]
 

@@ -86,4 +86,4 @@ Cobb knows and acknowledges Jorgen’s background and gives him the fight leader
 His first name, Matthew, is very rarely used, even by his own family.
 
 
-https://coppermind.net/wiki/Mongrel
+https://coppermind.net/wiki/Cobb

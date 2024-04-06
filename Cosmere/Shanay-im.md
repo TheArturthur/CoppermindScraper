@@ -44,4 +44,4 @@ After the Fused capture [[Kholinar\|Kholinar]], the *shanay-im* oversee the cons
 The name shanay-im may derive from the Hebrew word "shamayim" (שָׁמַיִם) (IPA: ʃəˈmajim or ʃaˈmajim), which means "heavens".. "-im" is the Hebrew masculine plural suffix, hence the singular would be "shanay" and plural "shanayim". (The word "shamayim" is indeed in the plural, hence the translation "heaven*s*", and "shanayim" as "Heavenly Ones")
 
 
-https://coppermind.net/wiki/High_Chamber
+https://coppermind.net/wiki/Stormsetter

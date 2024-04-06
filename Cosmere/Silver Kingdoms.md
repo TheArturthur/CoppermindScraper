@@ -28,4 +28,4 @@ The Silver Kingdoms were:
 
 
 
-https://coppermind.net/wiki/Silver_Kingdom
+https://coppermind.net/wiki/Epoch_Kingdoms

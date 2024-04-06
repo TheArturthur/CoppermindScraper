@@ -78,4 +78,4 @@ However, for those of very high nahn, the children might slip down in rank until
 [[Gaz\|Gaz]], sergeant of Highprince Sadeas's [[Bridgemen\|bridgemen]]
 
 
-https://coppermind.net/wiki/Nahn
+https://coppermind.net/wiki/Darkeyed

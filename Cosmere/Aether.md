@@ -111,4 +111,4 @@ They are going to be relevant to Space-Age Cosmere.
 Aethers could develop symbiotic relationships with animals similar to the ones [[Spren\|spren]] on [[Roshar\|Roshar]] develop.
 
 
-https://coppermind.net/wiki/Aetherbound
+https://coppermind.net/wiki/Roseite

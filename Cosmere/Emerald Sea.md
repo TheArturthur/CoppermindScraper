@@ -46,4 +46,4 @@ Their government is known to recognize the , wherein, if somebody dies in the co
 Lumar#Verdant Sea
 
 
-https://coppermind.net/wiki/Emerald_Sea
+https://coppermind.net/wiki/Verdant_sea

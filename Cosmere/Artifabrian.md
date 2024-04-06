@@ -18,4 +18,4 @@ For a full list, see :Category: Artifabrians.
 
 
 
-https://coppermind.net/wiki/Artifabrians
+https://coppermind.net/wiki/Artifabrian

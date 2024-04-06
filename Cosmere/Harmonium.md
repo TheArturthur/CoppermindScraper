@@ -53,4 +53,4 @@ If harmonium followed the naming conventions of the other God Metals it would ha
 The Mistborn Metal Dice Set from Crafty Games lists a non-canonical description of harmonium's properties, stating "Unknown in the Classic Era, Harmonium replicates the effects of nearby Allomantic or Feruchemical metals." It also lists harmonium as an Internal and Pushing God Metal.
 
 
-https://coppermind.net/wiki/Harmonium
+https://coppermind.net/wiki/Ettmetal

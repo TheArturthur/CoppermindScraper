@@ -113,4 +113,4 @@ For a full list, see :Category:Fused.
 
 
 
-https://coppermind.net/wiki/Magnified_Ones
+https://coppermind.net/wiki/Fannahn-im

@@ -71,26 +71,26 @@ After the fall of Elantris and Iadon's coronation, Raoden became crown prince of
 
  by  Elisgardor  Seeing himself in the mirror the morning the [[Shaod\|Shaod]] struck him.
 ### Post Shaod
-
+#### Arrival to Elantris
 Ten years after the [[Reod\|Reod]], Raoden underwent the Shaod transformation into an [[Elantrian\|Elantrian]], a transformation that was, at the time, incomplete. He was immediately cast into the rotting city of Elantris, as was tradition, while his father claimed that he had died to the [[Coughing shivers\|Coughing shivers]]. When he was thrown into the city, he took the first step to the right and thus became the prey of [[Shaor\|Shaor's]] gang. Raoden was soon attacked by Shaor's men and attempted to run away. Raoden escaped from his pursuers by throwing them his basket with offerings. The mad Elantrians pounced on the basket and fought over it, paying no further attention to Raoden. Afterward he was approached by a [[Dula\|Dula]] named [[Galladon\|Galladon]] and learned that he had become like a corpse, with no heartbeat and an inability to heal his own wounds. Raoden hired Galladon as a guide for the next thirty days with the last of his offerings. Galladon told him of Elantris and the fate that awaited modern Elantrians. He eventually showed Raoden that Elantrians retained the ability to draw [[Aon\|Aons]], but that they were unable to access the [[Dor\|Dor]], making the glowing lines useless to the Elantrians. This led to Raoden's investigation of the connection between the failure of AonDor and the Reod.
 
-
+#### Restoring Elantris to its Glory
 As an Elantrian, Raoden worked to bring peace and civilization to the people living in Elantris, who had devolved into a primitive, bestial society. First, he adopted the identity Spirit and rounded up new arrivals and convinced them to join him in rebuilding the city. After rumors spread that those surrounding Raoden no longer felt pain or hunger, many were drawn to the Elantrian. He later brought some semblance of order to the city by bringing together the two opposing factions led by [[Karata\|Karata]] and [[Aanden\|Aanden]], and providing resources to the Elantrians. Despite his own suffering, Raoden managed to restore a sense of purpose and hope to the Elantrians by assigning them individual jobs and assignments so they could better their once-glorious city.
 
  by  Shuravf  Walking through the ruined city
-
+#### Reunion with Sarene
 In an attempt to better the lives of the Elantrians, Sarene brought food to Elantris. There Raoden met Sarene under the guise of Spirit but only he recognized the Teo princess while she believed him to be just a common Elantrian. Karata and Mareshe, posing as the head Elantrians, agreed to allow Sarene and the other nobles to distribute food to the people if they also provided various goods, which the Elantrians would later use to make clothing and some repairs to the city. Sarene suspected that Raoden as Spirit was the ruler of the Elantris and eventually started to trust him.
 
-
+#### Connecting to the Dor
 As Raoden and Galladon discussed AonDor, Galladon suggested that the land had changed, causing Raoden to realize that the chasm near Elantris had caused the Reod, rather than the other way around as most people believed. Raoden drew a modified Aon Ehe that included a line for the chasm, and a massive stream of fire that exploded from the Aon incinerated part of the library. With further experimentation, Galladon and Raoden determined that the AonDor was still inhibited and the strong burst of power was the result of a large reserve of energy being released at once. Further Aons didn't produce effects as powerful as the books described, any Aons that targeted each other didn't work at all, and they still had not become like the pre-Reod Elantrians. However, they were able to use the AonDor to some degree. For instance, Raoden crafted a handy Aon, based on Shao, that allowed him to create an illusion around him of a healthy human, making it possible to leave Elantris.
 
-
+#### Infiltrating Arelon
 Under the guise of exiled Dulas, Raoden and Galladon entered Arelon and met with Sarene and her allies. Suspecting the newcomer to be a spy, Sarene sparred with Raoden and accidentally wounded him, adding to the many pains he already suffered. He eventually revealed his identity as Spirit to Sarene and shared his reconnection to the Dor. During a meeting at [[Kiin\|Kiin's]] house, Count [[Ahan\|Ahan]] betrayed them to King [[Telrii\|Telrii]], who had Duke [[Roial\|Roial]] killed and ordered the execution of the others.
 
  by  Shuravf  Fighting to save Elantris
 On the spur of the moment, Raoden dropped one illusion to reveal another, one of his appearance before being taken by the Shaod. Telrii fled and Sarene and the others are shocked by the revelation. Raoden attempted to heal Roial but failed due to his lack of knowledge of the healing Aons and the blockage of the Dor. With news of his return, Raoden's coronation was scheduled, but while speaking his illusion dropped and his status as an Elantrian was revealed to the citizens. Sarene managed to calm the crowd and they accepted Raoden as king despite his appearance.
 
-
+#### Healing the Elantrians and Fixing AonDor
 While Elantris was under attack by Wyrn's army, Raoden discovered the key to restoring Elantris after realizing that Elantris and its surrounding cities formed one massive Aon. He drew a line to represent the chasm that caused the Reod, fixing the Dor and completing the Shaod in all living Elantrians. The healed Elantrians repelled the attacks from [[Fjorden\|Fjorden]] in both [[Arelon\|Arelon]] and [[Teod\|Teod]]. Raoden restored Elantris and from it rules both the city and Arelon.
 
 ### Married Life

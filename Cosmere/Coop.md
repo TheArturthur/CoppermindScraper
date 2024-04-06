@@ -10,7 +10,7 @@ There are no watches, clocks, or mobiles in the Coop, which makes the days blur 
 The Coop also has a small [[Motivator\|motivator]] workshop, a "room" walled on three sides by crates and shelves, and on the fourth side by the tank. It is equipped with many different motivators as well as general tools and a large collection of books. There are numerous microbiology books, as well as Reckoner intel on Epics. The last mechanic to work in this room was vaporized by a motivator containing [[Slingshot\|Slingshot's]] DNA. Jax works on motivators in this area often, using the M1A2 Abrams Tank as a workbench.
 [[Jonathan Phaedrus\|Prof]] occasionally drops off Reckoner trainees to the Coop, and periodically checks in there to see how the recruits are doing and to deliver orders.
 
-
+#### The Post
 Just outside the Coop is The Post, which is used as punishment by [[Zeff\|Zeff]], who is the head trainer there. It is about four feet high and about eight inches in diameter. The punishment consists of standing on the post, and balancing there without falling off. If someone falls off, they have to go another hour.
 
 ### Inhabitants

@@ -156,15 +156,15 @@ A number of works about Gavilar's life exist, including "Gavilar's Account", dic
 There is not much information on Gavilar's family dynamics, but there are hints of complex relationships.
 He is rather abusive and dismissive towards his family. Despite this, after his death most of the Kholins have remember him positively and even revere him.
 
-
+#### Dalinar Kholin
 Gavilar feels affection for his brother [[Dalinar\|Dalinar]], but he tends to use people around him as tools to further his goals. After their mother died and their father suffered a brain injury and was left unable to take care of them, he took on a sort of paternal role over Dalinar.
 When Gavilar was still alive, Dalinar often introduced him to people that he felt that he should know. Dalinar refuses to allow criticism of Gavilar and devotes himself to protecting Elhokar, the remaining piece of his brother. Dalinar feels responsibility for his brother's death, believing that he could have stopped the assassination; he had counseled Gavilar to follow the Codes up until his death. His guilt and grief (related to Gavilar and other people he believed he had failed) were major factors in his fundamental change as a person.
 
-
+#### Elhokar Kholin
 Late in his life Gavilar had a low opinion of Elhokar, telling Navani he is not even capable of mediocrity. Due to his feelings on Elhokar, he felt as if he was not a worthy heir to the throne.
 Elhokar himself remembered Gavilar as a perfect king he would never live up to, so he disliked when Gavilar was mentioned.
 
-
+#### Navani Kholin
 >“*You have no fame, accomplishment, or capacity of your own. Everything distinctive about you came from someone else.*”
 \-Gavilar to Navani[4]
 
@@ -172,7 +172,7 @@ Elhokar himself remembered Gavilar as a perfect king he would never live up to, 
 Although he and his wife Navani were once close and plotted the conquest of Alethkar together, when Navani spoke with passion on her spren research, Gavilar simply ignored her. Later in life as Gavilar developed larger goals, he stopped including Navani in his plans. He left her to handle the public-facing duties of the monarchy alone and repeatedly told her she is worthless, and was very dismissive of her passions and her intelligence.
 Due to how openly abusive he was towards her, Navani saw the darker side of his character. On the day of his assassination, he pushed her over the edge and caused her to burn a glyphward asking for the Almighty to kill him. Due to this, she felt responsible for his death when he was assassinated later that day. Despite her hatred for him, she chose to hide it, writing him a legacy of being the ideal Alethi man. She considers this illusion that she conjured to be what he once was.
 
-
+#### Jasnah Kholin
 Jasnah spent a lot of time with Gavilar discussing the Parshendi, and later says it was a rare time when she truly connected with him. This suggests that they were never that close, and always had a very strained relationship. Though she seems to respect his opinion, Gavilar often treats Jasnah as part of his legacy rather than a person, ignoring her resistance to marrying Amaram and demanding she follow the Vorin church in spite of her convictions.
 Dalinar references Gavilar's problems with young Jasnah and what he describes as her lunacy. Jasnah herself mentioned a childhood disease nobody remembered. As her father, he was likely a large factor in her treatment during this period, locking her away in a padded cell and leaving her with lasting trauma that still haunts her in adulthood.
 Jasnah takes great interest in the changes near the end of his life.
@@ -195,14 +195,14 @@ He had some working relationship with Thaidakar and the Ghostbloods, although it
 Near the end of his life, he began to be given visions by the Stormfather. He was on his way to become a Bondsmith, but was never able to complete the bond before his death.
 
 ### The Heralds
-
+#### Kalak
 He had some working relationship with Kalak, also known as Restares, who spoke to him in his palace on the day of his assassination. The exact details of this relationship, however, are unknown. It most likely had to do with his spheres of Voidlight and Anti-Voidlight, and in his position in the Sons of Honor, of which Restares is the leader of.
 
-
+#### Nale
 He had some working relationship with Nale, who spoke to him in his palace on the day of his assassination. The exact details of this relationship, however, are unknown. It most likely had to do with his spheres of Voidlight and Anti-Voidlight, of which was apparently the topic of discussion during their meeting.
 
 ## Trivia
 In *The Way of Kings Prime*, Gavilar went by the name Nolhonarin. Much like Gavilar, Nolhonarin dies before the story proper begins.
 
 
-https://coppermind.net/wiki/Gavilar_Kholin
+https://coppermind.net/wiki/Gavilar

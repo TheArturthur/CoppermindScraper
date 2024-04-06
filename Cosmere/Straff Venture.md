@@ -61,4 +61,4 @@ Several of these mistresses, including Amaranta, serve a purpose other than plea
 Although Brandon does not speak German, he researched Germanic morphemes to come up with several character names on Scadrial. Straff's name sounds like a German word for punishment (*strafe*), but this is just a coincidence.
 
 
-https://coppermind.net/wiki/Straff
+https://coppermind.net/wiki/Straff_Venture

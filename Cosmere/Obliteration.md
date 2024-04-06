@@ -71,22 +71,22 @@ Obliteration ruled in Houston for some time before deciding to destroy the entir
 Obliteration had also destroyed Albuquerque and San Diego in the same way. However, these weren't as destructive as Houston, because people realized what Obliteration was doing, and ran away before Obliteration had finished.
 
 ### Babylon Restored
-
+#### Regalia's Offer
 Obliteration was summoned to Babilar by Regalia, who offered to let Obliteration destroy Babilar if he did what she wanted for a short bit. In exchange for serving her, Regalia not only made Obliteration's powers stronger, but she also gave him motivator-powered bombs, detonated by remote control, that matched his own destructive abilities. They also had the advantages of being easily concealable, creatable, and transportable. Regalia also secretly makes a teleportation device from Obliteration's power.
 Obliteration fights the Reckoners from time to time in Babilar. He almost succeeds in drowning David by attaching a ball and chain to his leg and dropping him into the water. Later, David found that Obliteration is also working with Newton. Obliteration knew Newton's weakness, and kept her in check.
 
-
+#### Tricking Prof
 Obliteration started to store up sunlight in Babilar on a rooftop. During the next few days, [[Prof\|Prof]] decided he would stop Obliteration from destroying city by encasing him in a forcefield. However, on the day of their attack, [[Mizzy\|Mizzy]] discovered that Obliteration was gone from his spot on the rooftop. [[Valentine\|Val]] spotted a glowing coming from Regalia's old base, Building C. The Reckoners rushed to stop Obliteration, but the glowing coming from Building C was not Obliteration, but instead was the bomb that Regalia made from Obliteration. Obliteration fought David during this time, to prevent him from reaching Prof. However, when David revealed the secret of how the weaknesses relate to the fears of Epics, Obliteration thanked him and left. Obliteration's bomb exploded, forcing Prof to use his powers and save the city. However, this caused Prof to turn evil.
 
-
+#### Destroying Kansas City
 Obliteration used one more of the bombs that Regalia gave him to destroy Kansas City. He used the bomb instead of collecting heat himself because it is stealthier, and more people would be destroyed in the process.
 
 ### Ildithia
-
+#### Party at Sharp Tower
 Obliteration showed up at Prof's party in [[Sharp Tower\|Sharp Tower]], because Prof has a "calling card." This calling card was a motivator based off of Obliteration's powers. Both David and Obliteration assumed it was a bomb. However, it was actually a teleporter. Obliteration sat on a salt throne, and rested his hand on the hilt of his sword like a scepter. Even though David and [[Megan Tarash\|Megan]] were both in disguises, Obliteration recognized them anyways, claiming they had the same eyes, and that David had the same hunger in them. However, David did not buy this explanation, and instead assumed Obliteration has an extra power. Obliteration teleported away and returns with a coconut of all things, continuing to recline on his throne as if nothing had happened. Even though David and Megan changed disguises, Obliteration still spotted them.
 When David traveled to the alternate reality that Firefight resides in, he noted that Obliteration was there as well, fighting the Reckoners. He had the same goals in this alternate reality as in the "real" world, even though there was no Calamity in the sky.
 
-
+#### Killing Calamity
 Obliteration showed up when the Reckoners are fighting Prof in Ildithia, and revealed that Regalia had actually given him three bombs: the one used in Babilar, the one used to destroy Kansas City, and one that was meant to be used for [[Ildithia\|Ildithia]]. He was then about to kill David, along with the rest of Ildithia, when David revealed that he is going to kill Calamity, by teleporting up there. Obliteration claimed that if David could defeat Prof, he would aid David in teleporting up to Calamity. After [[Larcener\|Larcener]] absorbed Prof's powers, Obliteration fulfilled his promise and teleported David up to Calamity, using a picture of Calamity as a reference of where to teleport. Obliteration also gave David his last bomb to destroy Calamity.
 Prof teleported up to Calamity as well, using the teleporter Regalia had formed from Obliteration. However, Calamity destroyed this teleporter, preventing them from leaving. Megan then visited Firefight's reality, and forced that Obliteration to take her to Calamity. Megan claimed that the Obliteration in that reality is just as much of a slontze as the one in the "real" world. However, instead of vanishing with a flash (as the Obliteration in the "real" world did whenever he teleported), this one simply faded.
 After David defeated Calamity, Obliteration appeared and thanked David. He then announced his next target was Toronto, and challenged David to stop him, giving him a week to recover. David was surprised, assuming that Obliteration would turn good after the death of Calamity. However, Megan revealed that now that Calamity is gone, Obliteration was free to act how he chose, just as a normal human would.

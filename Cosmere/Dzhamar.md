@@ -14,4 +14,4 @@ Dzhamar was presumably once an independent nation, and it maintains a unique cul
 [[Weedfingers\|Weedfingers]]
 
 
-https://coppermind.net/wiki/Dzhamar
+https://coppermind.net/wiki/Dzhamarian

@@ -55,4 +55,4 @@ During the [[Final Empire\|Final Empire]], cadmium and [[Bendalloy\|bendalloy]] 
 The original plans for bendalloy and cadmium involved blueshifting and redshifting or blueshifting of light passing through the bubble. But this was dropped as it would have lead to people outside being microwaved and blasted with radiation. This was solved through the transfer of energy between the Physical and Spiritual Realms.
 
 
-https://coppermind.net/wiki/Cadmium
+https://coppermind.net/wiki/Pulser

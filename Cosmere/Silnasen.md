@@ -17,4 +17,4 @@ At least some of the Siln people follow [[Vorinism\|Vorinism]]; a Siln [[Ardent\
 
 
 
-https://coppermind.net/wiki/Silnasen
+https://coppermind.net/wiki/Siln

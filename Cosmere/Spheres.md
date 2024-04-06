@@ -111,4 +111,4 @@ Spheres are formally described by their gemstone and denomination. However, in e
 
 
 
-https://coppermind.net/wiki/Ends
+https://coppermind.net/wiki/Broam

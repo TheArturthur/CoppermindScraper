@@ -1,13 +1,13 @@
-| **Skyward>**         |                          |
-| -------------------- | ------------------------ |
-| by  Charlie Bowater  |                          |
-| **Skyward (series)** |                          |
-| **Precedes**         | *Starsight *             |
-| **Setting**          | [[Cytoverse\|Cytoverse]] |
-| **Released**         | November 6, 2018         |
-| **Publisher**        |                          |
-| **ISBN**             | 978-0399555770           |
-| **Page Count**       | 510                      |
+|**Skyward>**|
+|-|-|
+|by  Charlie Bowater |
+|**Skyward (series)**|
+|**Precedes**|*Starsight *|
+|**Setting**|[[Cytoverse\|Cytoverse]]|
+|**Released**|November 6, 2018|
+|**Publisher**||
+|**ISBN**|978-0399555770|
+|**Page Count**|510|
 
 This page is about the book. For the series, see [[Skyward (series)\|Skyward (series)]]. For the [[DDF\|DDF]] flight, see [[Skyward Flight\|Skyward Flight]].
 *Skyward* is a young adult science fiction novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first book in the four volume [[Skyward (series)\|Skyward series]] and the second work set in the [[Cytoverse\|Cytoverse]], with the plot taking place centuries after the short story *Defending Elysium*.

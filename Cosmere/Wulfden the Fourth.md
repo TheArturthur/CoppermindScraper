@@ -48,4 +48,4 @@ Wulfden is mentioned in the deleted scenes from *Elantris* known as "The Mad Pri
 Since Wulfden still leads Fjorden, he would potentially play a role in a [[Elantris sequel\|sequel to Elantris]].
 
 
-https://coppermind.net/wiki/Wulfden
+https://coppermind.net/wiki/Wulfden_the_Fourth

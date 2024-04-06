@@ -42,4 +42,4 @@ Tress notes that the consequences for non-deadrunner piracy, is a very civilized
 Pirate flags are "Red on black" on Lumar.
 
 
-https://coppermind.net/wiki/Deadrunner
+https://coppermind.net/wiki/Deadrunners

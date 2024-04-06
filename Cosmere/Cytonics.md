@@ -137,4 +137,4 @@ For a complete list of people with cytonic abilities, see Category:Cytonics.
 
 
 
-https://coppermind.net/wiki/Writellum
+https://coppermind.net/wiki/Concussion_bolt

@@ -1,10 +1,10 @@
-| **Kandra**          |                        |
-| ------------------- | ---------------------- |
-| by  Ben McSweeney   |                        |
-| **Type**            | Hemalurgic construct   |
-| **Sapient**         | Yes                    |
-| **World of Origin** | [[Scadrial\|Scadrial]] |
-| **Universe**        | [[Cosmere\|Cosmere]]   |
+|**Kandra**|
+|-|-|
+|by  Ben McSweeney |
+|**Type**|Hemalurgic construct|
+|**Sapient**|Yes|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
 This page or section needs to be updated with new information for *The Bands of Mourning*, *The Lost Metal*, and *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
 

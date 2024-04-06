@@ -55,4 +55,4 @@ The Kholins used to think that Ialai was the one who ordered Vamah and Thanadal 
 
 
 
-https://coppermind.net/wiki/Vamah
+https://coppermind.net/wiki/Loradar_Vamah

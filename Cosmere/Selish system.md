@@ -11,4 +11,4 @@ The **Selish system** is a planetary system in the cosmere. It is named after th
 
 
 
-https://coppermind.net/wiki/Mashe
+https://coppermind.net/wiki/Selish_System

@@ -16,4 +16,4 @@ Few specifics are known about Iiaria, but it is presumably the base of operation
 In the original version of *White Sand Volume 1*, Khriss mentioned "Irarians" when describing the people living in [[Lonzare\|Lonzare]]. This was presumably a typo, as the dialogue was changed for the omnibus edition.
 
 
-https://coppermind.net/wiki/Iiarian
+https://coppermind.net/wiki/Iiaria

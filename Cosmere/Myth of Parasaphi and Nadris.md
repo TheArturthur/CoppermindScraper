@@ -14,4 +14,4 @@ This legend says that the Makabaki people are all descended from Parasaphi's chi
 
 
 
-https://coppermind.net/wiki/Parasaphi
+https://coppermind.net/wiki/Myth_of_Parasaphi_and_Nadris

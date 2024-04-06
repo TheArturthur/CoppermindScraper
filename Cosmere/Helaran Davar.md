@@ -78,4 +78,4 @@ The reason behind Helaran's attempt on [[Amaram\|Amaram's]] life is unknown; how
 
 
 
-https://coppermind.net/wiki/Helaran
+https://coppermind.net/wiki/Helaran_Davar

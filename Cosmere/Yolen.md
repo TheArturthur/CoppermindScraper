@@ -88,4 +88,4 @@ There is a saying on Yolen: "May two worlds become one to you." This is not refe
 While gods existed and died on Yolen prior to the Shattering, these gods were not Shards. Current information suggests these gods were dragons.
 
 
-https://coppermind.net/wiki/Yolen
+https://coppermind.net/wiki/Yolish

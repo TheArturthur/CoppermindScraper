@@ -135,4 +135,4 @@ Indirect or uncertain references to the prophecy.
 
 
 
-https://coppermind.net/wiki/Rabzeen
+https://coppermind.net/wiki/Terris_Prophecies

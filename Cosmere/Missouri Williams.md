@@ -19,4 +19,4 @@ She is based with [[Valentine\|Valentine]] and [[Exel\|Exel]] in [[Babilar\|Babi
 
 
 
-https://coppermind.net/wiki/Mizzy
+https://coppermind.net/wiki/Missouri_Williams

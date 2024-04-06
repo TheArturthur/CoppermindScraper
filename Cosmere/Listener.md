@@ -66,23 +66,23 @@ Prior to the [[True Desolation\|True Desolation]], they lived on eastern Roshar,
 
 
 ## Geography and Agriculture
-
+#### Geography
 The Listeners lived in the [[Unclaimed Hills\|Unclaimed Hills]], very close to the [[Shattered Plains\|Shattered Plains]]. Some Listener families occupied the circular craters near the western edge of the plains, while others spent their lives living in the wilderness around these craters.
 
  by  Connor Chamberlain  Narak, the home of the Listeners during the War of Reckoning
 After the assassination of King [[Gavilar Kholin\|Gavilar Kholin]] the Listeners fled to the Shattered Plains, after this event they began inhabiting the city of [[Stormseat\|Narak]]. After the end of the [[War of Reckoning\|war]] and the [[Battle of Narak\|Battle of Narak]] the remaining Listeners roamed around the Shattered Plains for a while.
 
-
+#### Agriculture and Animal Husbandry
 The Listeners cultivate multiple plant species. Some of these species are rockbuds, while others are trees. They use the dried pulp from a species of rockbud to make paper. The Listeners also grow and prune Shalebark, although they do it for decoration.
 They also practice animal husbandry and hunting. They have at times hunted [[Chasmfiend\|chasmfiends]], although the amount differs heavily through time. They have access to leather, although it is unknown what creature this leather comes from.
 
 ## Government
 ### The Five
-
+#### Use and Function
 The Listeners are ruled by five individuals, collectively known as the Council of Five, or simply the Five. It is unknown how these five Listeners are chosen. The Five seem to have absolute authority over the Listeners, although any decision needs at least a majority among the Five before it can be put into action.
 The composition of the Five has changed over time as more forms were discovered. At first, the Five were all in [[Dullform\|dullform]], and later, after the discovery of [[Workform\|workform]], the members of the council were all in workform. When [[Nimbleform\|nimbleform]] was discovered, the Council changed to being made up of one member of each form. The Council had pondered whether to add another representative for each newly discovered form, but the discovery of [[Stormform\|stormform]] and the subsequent [[Battle of Narak\|Battle of Narak]] meant that there was never an opportunity to do so.
 
-
+#### Composition
 For a full list of those in the group, see Category: Council of Five.
 |**Form**|**Name**|
 |-|-|
@@ -93,15 +93,15 @@ For a full list of those in the group, see Category: Council of Five.
 |Workform|[[Davim\|Davim]]|
 
 ### Military
-
+#### Armament
 Listener soldiers use Warform, this grants them strong carapace armor as well as increased strength. Though not as strong or resilient as someone with Shardplate, warform listeners are a real threat to regular human soldiers. Their strength allows them to use heavy weapons like battleaxes, hammers, and sometimes clubs and swords. They are also capable of jumping far enough to cross the chasms on the [[Shattered Plains\|Shattered Plains]]. The Listeners are also fond of bows and two-handed slings. Some Listeners carry large shields called [[Stormshield\|stormshields]] when going out into a highstorm, however it is unknown if this type of shield is also used in combat.
 The Listeners had multiple sets of [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblades]], they gradually lost all of them during the War of Reckoning however. Regular soldiers often wear simple garments that are tailored around their warform carapace. Some of them also wear long coates, although these aren’t worn into battle. The Listener general wears a cap on their skullplate and a tight red cloth as a cape. The Listeners believe that a man should be able to see his own death coming, and for this reason they dress assassins in white.
 
-
+#### Tactics
 A notable aspect of the listeners' combat strategy is their use of **warpairs**, pairs of warriors who fight side by side as partners. These listener warpairs move around the battlefield in coordinated maneuvers and attack enemy troops with heavy weapons from multiple directions.
 Listeners also use two-handed slings to hurl head-sized rocks at Shardbearers, these rocks can quickly damage Shardplate, with a single blow being enough to make cracks in an unharmed section of Plate. The Listeners also use shortbows to harry and weaken their enemies.
 
-
+#### Organisation and Hierarchy
 The Listener army is divided into multiple divisions, each a hundred and twenty-eight in number. These divisions have their own name, and may sometimes be made up of of different forms entirely, an example of this is the Storm division, a division made entirely of Stormforms. During wartime the Listeners also have many warpair scouts, usually from a single division, roaming around, searching for any sign of their enemies. Near the end of the War of Reckoning the entire army was around seventeen thousand Listeners, or 133 divisions, strong.
 The Listener military is commanded by a general, also called a warleader, who is also the warform representative in the [[Council of Five\|Council of Five]]. During the [[War of Reckoning\|War of Reckoning]] [[Eshonai\|Eshonai]] served as general. Beneath the general are a number of lieutenants, it is likely that these lieutenants control a division each.
 
@@ -161,7 +161,7 @@ When a highstorm is close the people prepare their homes, this includes stuffing
 Due to their history the Listeners value their freedom. During the War of Reckoning many listeners stopped caring about their origins. It is also important to the Listeners that everyone can choose their own form, and the [[Council of Five\|Five]] cannot command people to choose a form. Some singers hate trapping spren, instead they prefer to go out into the highstorms themselves and attract the proper spren.
 
 ### Crafts
-
+#### Paper
 The Listeners have their own unique way of making paper. They make the paper from dried [[Rockbud\|rockbud]] pulp following a harvest. These rockbuds are native to the unclaimed hills and shattered plains. Their paper is much rougher then human paper and varies in Color. Their paper is also textured and full instead of neat and sterile. They also have a [[Song of Making Paper\|song]] describing the process. This ensures that the Listeners never forget how to make it.
 
 ## History
@@ -209,4 +209,4 @@ For a full list of listeners, see Category: Listeners.
 
 
 
-https://coppermind.net/wiki/First-Rhythm
+https://coppermind.net/wiki/Council_of_Five

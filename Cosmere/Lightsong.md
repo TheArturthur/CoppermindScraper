@@ -137,4 +137,4 @@ The relationship between Lightsong and Llarimar is a parallel to the relationshi
 Lightsong was designed as a character that could fit in an Oscar Wilde play.
 
 
-https://coppermind.net/wiki/Stennimar
+https://coppermind.net/wiki/Lightsong

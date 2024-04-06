@@ -8,4 +8,4 @@ She is snubbed by [[Kairominas\|Kairominas]], taking offence at Kai's epiphany o
 
 
 
-https://coppermind.net/wiki/Melhi
+https://coppermind.net/wiki/Sophie_(Perfect_State)

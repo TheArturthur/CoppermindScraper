@@ -112,13 +112,13 @@ The Thaylen language belongs to the Vorin family, alongside Alethi and Veden, al
 [[Kaise\|Kaise]] finds the language fascinating.
 Known full phrases in Thaylen include the thank you quoted above and *Mkai bade fortenthis*, an exclamation with unknown meaning. Thaylens have a distinctive accent; they give emphasis to unusual syllables and run words together. They seem to have a habit of ending sentences with "you see."
 
-
+#### Terms
 *babsk* - master or teacher
 *rebsk* - shipmaster
 *bah* - possibly meaning "apprentice of"
 *gthlebn* - seemingly related to asking of someone speaks a language, possible "(do you) speak"
 *tyvnk* - sullen. Also the name of [[Rysn\|Rysn's]] pot of Shin [[Tyvnk\|grass]].
-
+#### Writing
 For more information, see [[Thaylen script\|Thaylen script]].
 Thaylen's writing system is an  -- it contains no vowels. In contrast to most other Vorin countries, Thaylen men seem to be permitted to learn how to read or write the script, although it is not a skill shown off publicly.
 The letters are known to interlock with each other.

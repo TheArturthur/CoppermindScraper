@@ -45,4 +45,4 @@ Like many [[Dragon (cosmere)\|dragons]], his home base is in [[Silverlight\|Silv
 Brandon first revealed the name when asked if there are any [[Cosmere\|cosmere]] characters with names starting with X by an artist working on a "cosmere A-Z" fanart collection.
 
 
-https://coppermind.net/wiki/Xisisrefliel
+https://coppermind.net/wiki/Xisis

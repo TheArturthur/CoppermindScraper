@@ -43,4 +43,4 @@ Other members include [[Allekatrase\|Allekatrase]], [[Libby Smedry\|Libby]], [[M
 
 
 
-https://coppermind.net/wiki/Smedry
+https://coppermind.net/wiki/House_Smedry

@@ -10,4 +10,4 @@ They are descendants from marines of *Defiant*, and are rumored to be great warr
 
 
 
-https://coppermind.net/wiki/Vici_Cavern
+https://coppermind.net/wiki/Vician

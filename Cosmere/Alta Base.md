@@ -48,4 +48,4 @@ The [[Battle of Alta Second\|Battle of Alta Second]] took place on the day of [[
 
 
 
-https://coppermind.net/wiki/Alta_Base
+https://coppermind.net/wiki/Alta

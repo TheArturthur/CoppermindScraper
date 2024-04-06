@@ -26,15 +26,15 @@ While the cult only appeared in Kholinar around the time of the riots, it is pos
 [[Shallan\|Shallan]] managed to grab the attention of the Cult by stealing food and handing it out to the poor. This secured her an invitation to the palace, where the cultists organize their feasts.
 
 ## As A Religion
-
+#### Beliefs
 The Cult of Moments believes that a new world is coming - one ruled by spren, and in particular, the spren transformed by [[Sja-anat\|Sja-anat]]. Additionally, the members are encouraged to abandon all of their worries and concerns and give themselves over completely to hedonistic craving, indulging the body to the fullest possible extent.
 It's uncertain how much the members of the cult know about Ashertmarn and Sja-anat.
 
-
+#### Rituals
 The cult has two notable rituals - the parades, and the feast. The parades are organized daily on the streets of Kholinar. The participants dress up as the deformed, corrupted spren and attempt to imitate them further through odd movements and unnerving moaning. The purpose of the parades seems to be to both express the cult's values and to attract new members.
 The feast is organized at the Monastery Dais in the palace itself, and is invitation-only, with the chief requirement being that a new participant must bring food to the table. At the feast, the tables are filled with food, both fresh and rotten, which is eaten with bare hands. The participants are encourage to fully indulge themselves, abandoning all hesitation or reason. The feast is organized in concentric rings, with each ring bringing a participant closer to Ashertmarn, and makes it more difficult to resist his influence - though most participants do not even fight it. Some members of the feast are so far gone, they do not leave the Dais.
 
-
+#### Structure
 The cult has a hierarchy of membership, from common follower, to parade participant, to one who feasts at the endless party. The further up the ranks, the stronger Ashertmarn's influence becomes. Eventually, everyone who joins the feast loses their sanity and revels with reckless abandon.
 Within Kholinar, the cult is considered the most influential gang.
 

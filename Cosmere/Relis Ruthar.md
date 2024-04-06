@@ -47,4 +47,4 @@ At an unknown point, Relis and his brother [[Ivanar Ruthar\|Ivanar]] confided in
 
 
 
-https://coppermind.net/wiki/Relis_Ruthar
+https://coppermind.net/wiki/Relis

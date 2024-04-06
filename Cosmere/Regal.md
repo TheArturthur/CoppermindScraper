@@ -119,4 +119,4 @@ Nothing is known of smokeform beyond its mentions in the songs of the listeners,
 [[Voidbringer\|Voidbringer]]
 
 
-https://coppermind.net/wiki/Regal
+https://coppermind.net/wiki/Regals

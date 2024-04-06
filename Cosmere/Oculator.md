@@ -73,4 +73,4 @@ A pair of Lenses heightens [[Leavenworth Smedry\|Leavenworth Smedry's]] awarenes
 
 
 
-https://coppermind.net/wiki/Shatterer%27s_Lenses
+https://coppermind.net/wiki/Educator%27s_Lenses

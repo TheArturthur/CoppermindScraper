@@ -58,7 +58,7 @@ Soldiers for the battle were brought in from across the Sadeas Princedom, includ
 ### War of Reckoning (1167-1173)
 After the War of Reckoning began, the princedoms Highprince left to travel to the Shattered Plains to fight against the Parshendi. Sadeas left [[Meridas Amaram\|Meridas Amaram]] as the defender of the northern section of the princedom, tasked with repelling Reshi and Veden military advances, and attempts by other princedoms to secure their territory. repelling border incursions from the [[Veden\|Vedens]] and the [[Reshi\|Reshi]] while the bulk of the Alethi troops were away on the [[Shattered Plains\|Shattered Plains]].
 
-
+#### Border Skirmishes (1172)
 In late 1172, the Sadeas Princedom entered into a border skirmish with either the [[Vamah princedom\|Vamah]] or [[Aladar princedom\|Aladar princedom]]. During this battle, Veden Shardbearer [[Helaran Davar\|Helaran Davar]] arrived in an attempt to kill Amaram under orders from the Skybreakers, but he wound up being killed by [[Kaladin\|Kaladin]] on the battlefield. While Kaladin earned the Shards by legal right, Amaram betrayed him by killing his crew and marking him as a slave, taking the Shardblade and Shardplate for himself.
 
 ### The True Desolation (1173- )

@@ -60,4 +60,4 @@ Sandlings have a similar appearance to [[Chasmfiend\|Chasmfiends]] and other [[G
 Sandlings are also similar to (and probably inspired by) the Sandworms of Arrakis, found in Frank Herbert's *Dune*. Sandworms are also gargantuan creatures that live beneath the desert sands, and emerge when they feel a disturbance in the sand. Water is toxic to Sandworms, and they avoid it just as Sandlings do. Brandon has acknowledged *Dune* as significant inspiration for [[White Sand\|White Sand]].
 
 
-https://coppermind.net/wiki/KaRak
+https://coppermind.net/wiki/Karak

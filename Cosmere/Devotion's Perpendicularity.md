@@ -61,4 +61,4 @@ A running theme in the book is resisting defeat due to pain - Brandon intended f
 At some point, [[Hoid\|Hoid]] [[Worldhop\|worldhops]] from a pool near Elantris - the pool described does not match the description given by Raoden and it is unclear whether these are the same perpendicularities, though their proximity to Elantris indicate they may be. The postscript scene was not included until the 10th Anniversary edition of the book was released, which may explain the discrepancies in appearance. The pool Hoid uses seems to be in a similar area as visited by Raoden, and is described as very small, crystalline, and approximately waist-deep.
 
 
-https://coppermind.net/wiki/The_Lake
+https://coppermind.net/wiki/Devotion%27s_Perpendicularity

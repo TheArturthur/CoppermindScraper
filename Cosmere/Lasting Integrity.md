@@ -73,27 +73,27 @@ The southern wall of the fortress has been beautified and contains a number of g
 Official buildings are mostly found in a small cluster on the western wall near the base of the tower. This includes the building of justice. There is no prison or hospital in the fortress.
 
 ### Notable Locations
-
+#### Honorspren Library
 >“*Honorspren liked their books, judging by the extensive collection... they seemed to enjoy owning the books, treating them like relics to be hoarded.*”
 \-Observations of the honorspren library[7]
 
 
 A library can be found on the northern wall of the compound, housed in a long and flat building. There is an extensive collection of books stored in the room, however, the honorspren rarely seem to read them, indicating they may have been collected only for ownership purposes, instead of usability. Contained within the library are books on the honorspren legal code, as well as records of old spren treaties from prior to the Recreance. One of these treaties included a reference to [[Mayalaran\|Mayalaran]].
 
-
+#### Investiture Storeroom
 >“*The wealth of Lasting Integrity: gemstones—gathered over millennia—so flawless, so perfect, that they didn’t leak.*”
 \-Description of the honorspren's gem archive[6]
 
 
 A building is used by the honorspren as housing for their wealth. Inside is a device that they purchased from the [[Ire\|Ire]] where [[Investiture\|Investiture]] can be stored. Around the room are [[Perfect gemstone\|perfect gemstones]], infused with Stormlight.
 
-
+#### The Forum
 The forum is a large amphitheatre-like room that is located on the southern wall of the fortress. It has seating for a couple of hundred spren as well as standing room at the top of the room. At the front of the forum is a throne like seat and bench built among the tiered rows, where an official can conduct business. A movable podium, on a circular disk, is also available for use.
 
-
+#### Kelek’s House
 [[Kelek\|Kelek]]’s house can be found in the top corner of the southern wall near the battlements. It is a small, two roomed, building that may be the only structure in Lasting Integrity that has windows. The front room is a hoarder's den and full of furniture, nicknacks, correspondence, and mementoes, that are often stacked on top of one another. The back room is a study.
 
-
+#### Sixteen’s House
 [[Sixteen\|Sixteen]] lives in a small building that is built next to a garden of statues, located on the southern wall of the stronghold.
 
 ## History
@@ -120,7 +120,7 @@ In 1175 a delegation from [[Urithiru\|Urithiru]] headed by [[Adolin\|Adolin]] an
 While a number of the Urithiru party began the return journey to the tower, several members including [[Godeke\|Godeke]], [[Felt\|Felt]] and [[Malli\|Malli]], [[Unseen Court\|Shallan’s Lightweavers]], and [[Notum\|Notum]] remained camped outside the keep, on the edge of the nearby forest, and remained in contact with the [[Alethi\|Alethi]] Highprince via letter. Although Notum was forbidden to enter the keep, the honorspren did send him [[Stormlight\|Stormlight]] to help heal the wounds he had received when attacked by the [[Tukari caravaneers\|Tukari bandits]]. After being healed, the former ship captain departed and returned to his patrol. After some persuading, Godeke was allowed entry to the fortress on a one time basis to heal Adolin of his wounds, using Stormlight provided by the honorspren.
 Around the same time that Adolin and his group reached Lasting Integrity, the number of [[Deadeye\|deadeyes]] in the area began to increase, with the dead spren gathering together outside the honorspren keep, nearby on the coast. When the spren first began to arrive, the honorspren of Lasting Integrity took them in to be cared for, including twenty deadeye honorspren. The honorspren, however, quickly began running out of accommodations for the deadeyes, and eventually had to close their gates to the coalescing spren and leave them to congregate outside. By the start of Adolin’s trial, two hundred deadeyes had appeared outside of Lasting Integrity, not including those who had already been taken in and sheltered in the keep.
 
-
+#### The Sins of Humanity
 >“*Honor is not dead so long as he lives in the hearts of men!*”
 \-Notum speaking his true feelings during Adolin's trial[6]
 
@@ -140,7 +140,7 @@ The next day, Adolin was due to give his own testimony. Just after starting his 
 The third and final day of Adolin’s trial, saw almost every honorspren attend the forum to witness the verdict. Due to Kalak being detained by the honorspren, Sekeir stepped in as High Judge to oversee the last of the witness statements and started the day by reading a very long winded speech. When Adolin interrupted him, Sekeir threatened to gag the Highprince. Following Sekeir’s speech, Amuna led Maya into the room as the final witness. Sekeir "spoke" on Maya’s behalf, using the chance to tout his own vitriol. Maya grew increasingly distressed by Sekeir and the other honorspren’s treatment of her, and ended up being physically restrained by Amuna and another honorspren so that she could not escape. Adolin, wanting to end the abuse Maya was being subjected to, pleaded for judgement to be given, however, Sekeir refused and instead continued to use the moment as a spectacle to promote his platform. Maya grew more violent in her struggles, thrashing around and wanting to be let go. When Adolin tried to physically help her, he was restrained by several nearby honorspren, who were waiting for him to try and go to the [[Cultivationspren\|cultivationspren]]’s aid.
 Drawing strength from Adolin, Maya addressed the crowd herself, proclaiming that the deadeyes had willingly chosen to give up their bonds during the Recreance. Shocked, the honorspren left the room in clusters until only Adolin, Maya, and Blended remained. Although never formally determined, it is assumed Adolin’s trial either ruled in his favor or was dismissed.
 
-
+#### Hunting a Herald and Accepting the Past
 >“*“He possesses knowledge essential to our fight against the invaders. However, he will not share it willingly. He hides himself away in the world’s most remote fortress and tries to pretend there is no war, that he is not culpable. He is.*”
 \-Mraize to Shallan about Kalak[14]
 

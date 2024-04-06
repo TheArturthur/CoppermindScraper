@@ -81,4 +81,4 @@ In the Mistborn books, [[Brandon Sanderson\|Brandon]] likes to give characters n
 Edwarn's wife is dead.
 
 
-https://coppermind.net/wiki/Mister_Suit
+https://coppermind.net/wiki/Edwarn

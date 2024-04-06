@@ -42,4 +42,4 @@ She brought Tress down to the depths of the Crimson Sea in order to sell her to 
 
 
 
-https://coppermind.net/wiki/Captain_Crow
+https://coppermind.net/wiki/Crow

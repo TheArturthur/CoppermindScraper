@@ -58,4 +58,4 @@ The plight of the residents of Wayfarer affected Marasi. Reflecting on Armal's i
 
 
 
-https://coppermind.net/wiki/Armal_Harms
+https://coppermind.net/wiki/Armal

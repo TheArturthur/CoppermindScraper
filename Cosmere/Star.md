@@ -7,6 +7,7 @@
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*Oathbringer*|
 
 For the celestial body visible from Komashi through the shroud, see [[UTol\|UTol]].
 **Star** is [[Lunamor\|Lunamor]] and [[Tuaka\|Tuaka's]] third son. Per his cultural traditions, he has the honor of being a craftsman.

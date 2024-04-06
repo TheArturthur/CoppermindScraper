@@ -61,40 +61,40 @@ A person’s spiritweb, closely related to Spiritual DNA, makes up their presenc
 ### Damaging and Healing
 A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb. Investing an object or person for a long period of time will warp and change their spiritweb. In humans, this process leads to [[Savant\|Savantism]].
 
-
+#### Healing the Physical
 Most forms of healing work by using the three aspects of the user's self; their Physical, Cognitive, and Spiritual. Healing typically heals the Physical version by matching it to their Spiritual Ideal, which is filtered through the lens of their minds (the Cognitive aspect). Almost all forms of healing in the [[Cosmere\|cosmere]], even natural healing, are filtered through the perception of the user,  which means that if a person hasn't accepted a wound as a part of themselves, they can still heal it regardless of how long they've had it. However, even if a wound is recent, if the person has changed their mindset to see it as a part of themselves, they will not be able to heal from it. An example of this can be found when [[Kaladin\|Kaladin]] was unable to heal his slave brand until he swore the fourth oath and recognized that it wasn't a part of him.
 
 ## Interactions
 All forms of Investiture which one can use are related to the spiritweb. Some manifestations of Investiture are built into a person's Spiritual DNA, such as [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]]. Other abilities, such as [[Hemalurgy\|Hemalurgy]] and [[Surgebinding\|Surgebinding]], involve manipulating Spiritual DNA. A few types of Investiture even work by manipulating or overwriting the spiritweb directly, such as [[Forgery\|Forgery]].
 
 ### The Dor
-
+#### AonDor
 [[AonDor\|AonDor]] requires some innate Spiritual DNA, but the [[Shaod\|Shaod]] that turns someone into an [[Elantrian\|Elantrian]] involves some sort of change to the Spiritual DNA during the transition.
 
-
+#### Forgery
 [[Forgery\|Forgery]] works by overlaying an object’s or person’s history and spiritweb with an alternative one. This may indicate that it is possible to remove the effects of a [[Soulstamp\|soulstamp]], though it is currently unknown.
 
 ### Awakening
 The ability to give [[Breath\|Breath]], which is a part of a person's Spiritual aspect, is built into a [[Nalthis\|Nalthian's]] Spiritual DNA. The ability to [[Awakening\|Awaken]] is not limited to Nalthians.
 
 ### The Metallic Arts
-
+#### Allomancy
 Multiple forms of Allomancy relate to the spiritweb. Allomantic [[Zinc\|zinc]] and [[Brass\|brass]] will work only on creatures with a sufficient level of sapience and work better on creatures whose spiritweb has been damaged, as with Hemalurgic constructs. The ability to use Allomancy is passed down via Spiritual DNA.
 
-
+#### Feruchemy
 Several of the Feruchemical Attributes are deeply connected to the spiritweb, especially the Spiritual metals such as [[Aluminum\|aluminum]] and [[Duralumin\|duralumin]], which allow for Identity and Connection, respectively, to be stored. Similarly to Allomancy, the ability to use Feruchemy is passed down through Spiritual DNA.
 
-
+#### Hemalurgy
 In Hemalurgy, portions of the spiritweb seem to be ripped off of one person and grafted onto another person's spiritweb. This causes lasting damage to the spiritweb of the creature in which a Hemalurgic Spike is placed.
 
 ### Surgebinding
-
+#### Nahel Bond
 A [[Surgebinder\|Surgebinder's]] [[Nahel bond\|Nahel bond]] with a [[Spren\|spren]] works in a similar way, a spren becoming spiritually attached to a certain point on a person's spiritweb, merging together as the [[Surgebinder\|Surgebinder]] progresses in their [[Immortal Words\|Oaths]].
 
-
+#### Soulcasting
 Although it does not directly alter the spiritweb, [[Soulcasting\|Soulcasting]] can alter a spiritweb if the Cognitive aspect stays altered for long enough.
 
-
+#### Regrowth
 [[Regrowth\|Regrowth]] allows for healing both the Physical form of a living thing and its spiritweb, as does a sufficient amount of Stormlight. This likely functions by restoring one’s physical form to the state of their Spiritual Ideal. Regrowth can even go so far as to reattach the soul of one recently deceased.
 
 ### Shardblades

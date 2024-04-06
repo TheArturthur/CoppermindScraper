@@ -123,4 +123,4 @@ Breath is specifically named BioChromatic Breath due to some of the [[Five Schol
 A person from another planet in the cosmere would have more Innate Investiture than a Drab, but less than someone with one Breath.
 
 
-https://coppermind.net/wiki/Breath
+https://coppermind.net/wiki/Drab

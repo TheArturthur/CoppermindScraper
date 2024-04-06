@@ -91,11 +91,11 @@ However, Preservation broke the terms of the deal by sacrificing his mind to cre
 \-Leras[39]
 
 
-
+#### Alendi
 Ruin's prison, the [[Well of Ascension\|Well of Ascension]], had a fatal flaw: every thousand and twenty four years, the [[Perpendicularity\|perpendicularity]] would fill, requiring someone to take up the power. Were that person then to release it, Ruin's prison would vanish, letting him out; only by using the power themselves could that person, dubbed the [[Hero of Ages\|Hero of Ages]], keep Ruin trapped.
 Despite being imprisoned in the Well, Ruin could still affect the world in minuscule ways, and thus began to plan for exploiting this fatal flaw to free himself. His initial scheme was to use [[Alendi\|Alendi]], chosen by the power of the Well, and convince him, through altering the [[Terris Prophecies\|Terris Prophecies]], to free him. However, a [[Terrisman\|Terrisman]] named [[Kwaan\|Kwaan]] realized Ruin's alterations. He sent his nephew, [[Rashek\|Rashek]], to try and stop Alendi from reaching the Well. Rashek eventually killed Alendi and took the power for himself, becoming [[The Lord Ruler\|the Lord Ruler]] and perpetuating Ruin's imprisonment.
 
-
+#### Kelsier and Vin
 Undeterred, Ruin began working on another idea, timing it with the Well's next call, a thousand years later. His plan was two-pronged: first, to ensure that Rashek would be killed, thus opening the way to the Well for others; second, to create someone who would enter the Well and release the power. For the first, he manipulated [[Kelsier\|Kelsier]], a [[Skaa\|skaa]] [[Allomancy\|Mistborn]], with fabricated tales of the so-called Eleventh Metal, [[Malatium\|malatium]], convincing him that it would be the key to defeating the Lord Ruler; which, in a way, it turned out to be.
 For the second, Ruin picked a perfect pawn: another skaa Mistborn, a girl named [[Vin\|Vin]] with an insane mother and an infant [[Allomancer\|Allomancer]] sister. Speaking to the mother, Ruin caused her to kill the younger daughter and fashion a Hemalurgic spike out of her, then pierce Vin with the spike. Vin, unaware of this, eventually started wearing the spike as an earring and refused to give it up due to Ruin's influence, thus letting him subtly manipulate her. He did so mostly through the voice of her deceased brother, [[Reen\|Reen]].
 Eventually, the Well filled again, and Vin entered its chamber. [[Kelsier\|Kelsier]], now a [[Cognitive Shadow\|Cognitive Shadow]] and up to speed on Ruin's plan thanks to [[Leras\|Leras]], attempted to stop her from releasing the power. To no avail, though -- Vin did so, and freed Ruin.

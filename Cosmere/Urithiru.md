@@ -107,20 +107,20 @@ Known strata descriptions:
 **While Shallan chased the Midnight Mother**: "danced on the walls"
 **Storage room near the top of the tower**: "a line of red crystal embedded in the stone wall [...] started at the ceiling and wound all the way down the wall--within the pattern of the light green and grey strata--to the floor. It was smooth to the touch, distinct in texture from the rock around it [...] like the other strata lines ripple out from this one, getting wider as they move away from it"
 ### Notable locations
-
+#### The Breakaway
  by  Marie Seeberger  The Breakaway
 The Breakaway is a large, cavernous hall as large as a small town within Urithiru's walls. While its previous function is unknown, after the [[Alethkar\|Alethi]] arrive at the tower, it becomes their central market area, with stalls, food stands, and taverns. Many of the establishments are tents or simply roped-off areas, but an increasing number of permanent structures are being built there. Merchants from all ten Alethi princedoms mingle here and all kinds of goods can be purchased, including illicit ones like firemoss. The atmosphere is chaotic, busy, and varied. The Breakaway has a large, round well at its center, which, like all wells at Urithiru, never seems to run out of water no matter how much is taken from it. It is unclear where the water comes from.
 
 
 The Ten Rings is a section of the Breakaway that was planned by [[Navani Kholin\|Navani Kholin]]. The streets are neat and orderly, with quaint wooden buildings that include both shops and living quarters. Merchants who agree to Navani's oversight receive reduced taxes and frequent guard patrols. The area lacks high-end shops due to wealthier [[Lighteyes\|lighteyes]] refusing to give Navani control, but it also lacks seedier establishments due to the presence of law enforcement. [[Adolin\|Adolin]] frequents a winehouse named [[Jez's Duty\|Jez's Duty]] in the Ten Rings area.
 
-
+#### Oathgate Platforms
 The Oathgate platforms of Urithiru are arranged in a circle on the grand plateau in front of the tower. The platforms are 10 feet high, with ramps leading up to them. The small control buildings in the center of each platform have mosaics on the floor showing Dawnchant glyphs. In each control room, the keyhole is at the center of a ten-pointed star on a metal plate. At the present, the plateau in front of the Oathgates is used for storing lumber and training soldiers.
 
-
+#### The Theater
 A room resembling a theater can be found on the tower's third level, near the Breakaway. It's a large chamber with round walls and rows of stone benches facing a raised platform that served as a stage. This stage can be reached both by stairs from the audience and by a separate entrance. The corridor leading to it is narrow enough to be touched on both sides, and goes by several smaller chambers, possibly dressing rooms. Past the theater's back door (the one which would be, presumably, used by the audience), there is a circular room with large vertical slits in the walls, some of which face Breakaway, although neither it, nor the theater itself can be reached directly from the market. It is there that [[Shallan\|Shallan]] puts on a Lightwoven play of [[The Girl Who Looked Up\|The Girl Who Looked Up]] for [[Pattern\|Pattern]], and where they first encounter [[Re-Shephir\|Re-Shephir]].
 
-
+#### The Gem Archive and Re-Shephir's Chamber
 For more information, see [[Urithiru gem archive\|Urithiru gem archive]].
  by  Petar Penev  [[Shallan\|Shallan]] fighting [[Re-Shephir\|Re-Shephir]] in her chamber
 The chamber in which the [[Unmade\|Unmade]] [[Re-Shephir\|Re-Shephir]] hides until being banished by [[Shallan\|Shallan]] can be reached from the tower's ground floor, from a room where a large pit with a stone spiral staircase leads down several stories. Rust marks on the wall indicate that part of the stone once served as a secret door, though the hinges have long since decayed and Shallan has to cut her way in with a [[Shardblade\|shardblade]].
@@ -129,13 +129,13 @@ Navani's scholars catalog and remove the debris, turning the area into a meeting
 At the end of the hallway is a bowl-shaped room. At its center stands a twenty-foot-tall column of gemstones, around which Re-Shephir coiled when discovered. The column is composed of thousands of gemstones of all ten types melted together. This appears to be the core for all the fabrials in the tower, as [[Raboniel\|Raboniel]] was able to corrupt the Sibling using it.
 On the far side of the room, a tunnel with carved stone steps leads even further below the tower. The passage runs through a long string of caverns, eventually leading to an exit in the foothills of the [[Tu Fallia\|Tu Fallia]] mountains. Re-Shephir uses this path to flee Urithiru after her confrontation with Shallan.
 
-
+#### The Top Platform
 The platform atop Urithiru is the smallest floor of the whole tower. It is open-air, allowing the viewer to observe their entire surroundings. It appears to be [[Dalinar\|Dalinar's]] favorite spot in the tower to think, and has seen its fair share of notable events related to him, such as him swearing his First and Second Ideals as a [[Bondsmith\|Bondsmith]] and marrying [[Navani\|Navani]].
 
-
+#### The Gallery of Maps
 The Gallery of Maps is located near the top of the tower. From the moment the Alethi arrive in the city, it is used as their main meeting room, both for discussing strategy and when speaking with foreign dignitaries. Though it is initially barren, a table is brought in at some point, which Shallan and Dalinar use to create a real-time map of Roshar. It's named after a similar chamber back in the [[Pinnacle\|Pinnacle]].
 
-
+#### The Cloudwalk
 The Cloudwalk is a garden balcony, an open stone pathway with a railing, set up around the base of Urithiru's eighth tier. During the year or so after the reclaiming of Urithiru during the True Desolation, this balcony, with its stunning view over the mountains, becomes a popular location for people of any nation and rank to meet and relax.
 
 ## Mechanisms
@@ -163,7 +163,7 @@ Following the arrival of the [[Everstorm\|Everstorm]], Urithiru became the cente
 As a prelude to the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the [[Voidbringers\|Voidbringers]] attacked Urithiru through the subverted [[Kholinar\|Kholinar]] Oathgate. Although initially somewhat successful, they were eventually pushed back and out of the city.
 
  by  Hugh Hammons  Urithiru as it appears in [[Shadesmar\|Shadesmar]]
-
+#### Capture of Urithiru
 Around a year into the True Desolation, Urithiru was attacked by a large contingent of Fused soldiers, and the Sibling began to be corrupted by them when they found the central pillar, causing all the Radiants in Urithiru, sans Kaladin, to fall unconscious.
 During the occupation, the Sibling began to reveal themself and their powers, interacting with Kaladin, Dabbid, and Navani. Eventually bonding with Navani, leading to the birth of a new Bondsmith and the resurrection of Urithiru as a fully functioning city.
 
@@ -179,7 +179,7 @@ In contrast, [[Shinovar\|Shinovar]] is familiar with Urithiru, at least insofar 
 Back before the tower was abandoned, the [[Knights Radiant\|Knights Radiant]] would extract payment for the use of [[Oathgate\|Oathgates]]. Shortly before the [[Recreance\|Recreance]], the tariffs began to increase to the degree that some of their contemporaries found unreasonable. After the [[Alethi\|Alethi]] arrive at Urithiru, Dalinar designates [[Sebarial\|Sebarial]] as [[Highprince of Commerce\|Highprince of Commerce]] there. As has been done before, Sebarial plans to tax passage through the [[Oathgates\|Oathgates]] in order to provide revenue for the tower city, as it produces little else.
 Most trade in Urithiru takes place at the Breakaway. Though [[Navani\|Navani]] had plans for a carefully regulated market, Sebarial has instituted looser controls, resulting in a chaotic marketplace with several black markets and room for illicit goods.
 
-
+#### Problems
  by  Marie Seeberger  Scholars exploring Urithiru
 The tower city's economy suffers from three main difficulties: a lack of labor, a lack of supplies, and a lack of infrastructure.
 Following the healing of all [[Parshmen\|parshmen]] during the first [[Everstorm\|Everstorm]], the Alethi have suffered from the loss of their menial labor class that carried over as they relocated to Urithiru. To alleviate that, [[Darkeyes\|darkeyes]] of low [[Nahn\|nahn]], as well as soldiers and caravan workers, have been pressed into service doing tasks such as hauling water, to their dismay. In an effort to reduce labor tensions, Adolin encourages these men to form a water haulers' guild to bargain for wages. The lack of parshmen will no doubt result in increased consumer costs as slavery is replaced by paid labor, the wages of which are based on social rank and not very negotiable.
@@ -212,4 +212,4 @@ Urithiru provides passage to the cognitive realm through Oathgates.
  and  on the [[17thshard.com\|17thshard.com]] forums have analyzed the scale and size of the tower in posts which can be found on the  and .
 
 
-https://coppermind.net/wiki/Cloudwalk
+https://coppermind.net/wiki/Breakaway

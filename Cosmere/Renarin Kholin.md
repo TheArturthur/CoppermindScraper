@@ -105,7 +105,7 @@ Renarin's bond with Glys has granted him several abilities that are different fr
 He is able to use a surge of Stormlight to banish the life and animating force out from a [[Thunderclast\|Thunderclast]]. He is able to show a person an alternate version of themselves, similar to the effect of [[Allomancy\|Allomantic]] [[Gold\|gold]] or [[Malatium\|malatium]]. This manifests as an illusory image of the target's alternate self standing within a cloud of bright white light.
 
  by  Ari Ibarra  Renarin seeing the future
-
+#### Future Sight
 >“*What's wrong with me? Why do I see these things? I thought I was doing something right, with Glys but somehow, it’s all wrong.*”
 \-Renarin to Jasnah[42]
 
@@ -261,4 +261,4 @@ Renarin will be the flashback character in the seventh book of the Stormlight Ar
 The scene with Jasnah and Renarin at the end of *Oathbringer* is [[Brandon\|Brandon's]] favorite scene in the book.
 
 
-https://coppermind.net/wiki/Renarin
+https://coppermind.net/wiki/Renarin_Kholin

@@ -64,13 +64,13 @@ Allomancy is a spiritually hereditary trait, that does not follow the same princ
 It is possible to gain Allomancy through the use of Hemalurgic spikes where the spiritual DNA associated with Allomancy is transferred from one soul to another. If an Allomancer attempts to burn a [[Hemalurgic\|Hemalurgic]] spike, the Allomancer's spiritual DNA will be spliced to that of the person's contained in the spike. The consequences of this are as of yet unknown.
 Additionally, consuming a bead of lerasium will hardcode Allomancy into a person's spiritweb and grant them Allomantic abilities. The size of the bead that is consumed is proportional to the strength of their Allomancy.
 
-
+#### Snapping
 In the [[Final Empire\|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they [[Snap\|Snap]], as Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities.
 According to [[Realmatic Theory\|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities on this to other magic systems, such as the [[Knights Radiant\|Knights Radiant]] all being "broken" as indicated by [[Syl\|Syl]].
 It was possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. It was said that the more powerful the Allomancer, the more intense the trauma had to be to Snap.
 After the [[Final Ascension\|Final Ascension]], [[Harmony\|Harmony]] changed the way Snapping operated, but it is unknown how it was altered. After an Allomancer has Snapped, they will have access to their full power, and do not have to build to reach their full potential such as with Surgebinding.
 
-
+#### Mist Sickness
 In the run up to the [[Catacendre\|Catacendre]], however, the mists cause sickness in people, triggering their own Snapping; this process is started by [[Preservation\|Preservation]], but is manipulated by [[Ruin\|Ruin]] into killing people, thus raising superstitions about the mists being dangerous.
 The length a person has "mist sickness" relates to their Allomantic powers and abilities. The most powerful [[Atium\|atium]] mistings are sick for the longest time.
 During the time the mists are Snapping people in [[The Hero of Ages\|The Hero of Ages]], they also raise the Allomantic potential of the people they Snap so that exactly 16% are Snapped. The number is a hint left by Preservation for humans to understand.

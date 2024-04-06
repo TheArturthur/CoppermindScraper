@@ -40,4 +40,4 @@ The Noodle Pupil was founded by [[Design\|Design]], a [[Cryptic\|Cryptic]] from 
 
 
 
-https://coppermind.net/wiki/Noodle_Princess
+https://coppermind.net/wiki/Noodle_Pupil

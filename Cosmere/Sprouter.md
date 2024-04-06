@@ -21,4 +21,4 @@ The splintbox is another form of tool used by sprouters. They are filled with ro
 [[Weev\|Weev]]
 
 
-https://coppermind.net/wiki/Sprouter
+https://coppermind.net/wiki/Sprouters

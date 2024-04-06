@@ -105,22 +105,22 @@ After the skaa riots started, Straff Venture decided to leave the city. Elend, p
 Afterward, when seeking help for Vin, Elend and Sazed found skaa rebels slaughtering palace soldiers. The soldiers would try to surrender, but the rebels ignored it and kept slaughtering them. Elend, revolted by the sight of the mass slaughtering, stood up and started his speech. He spoke of the dangers of bloodshed and chaos as a basis for a nation, of the need for a stable system, and of his dreams for a new, fairer nation in the Central Dominance. Instead of killing him, the rebels listened to him and stopped fighting, acknowledging that the bloodshed wouldn't accomplish anything. This speech was ultimately the reason Elend was crowned king. [[Breeze\|Breeze]] also helped by Soothing away the skaa's anger.
 
 ### The Siege of Luthadel
-
+#### King of the Central Dominance
 After the Collapse, Elend established himself as king of the Central Dominance. He drafted a law code that applied the philosophies of his books, but had also a strong element of realism. The law code established a parliamentary council called the [[Luthadel Assembly\|Luthadel Assembly]], which was composed of twenty-four Assemblymen, including Elend himself: eight noblemen, eight skaa workers, and eight skaa merchants. A few months later, Elend proposed Vin in marriage, but she refused, feeling that he deserved a better woman. Unfortunately, their army was relatively small and weak, with only about twenty thousand soldiers, and peace didn't last long.
 A year after the Collapse, [[Straff Venture\|Straff Venture]] lay siege to the town with an army of fifty thousand soldiers. Elend passed a proposal for the Assembly to wait to decide anything about the future of the city until he had parlayed with Straff, and they accepted it. Soon later, a second army with forty thousand arrived at the city, led by [[Ashweather Cett\|Ashweather Cett]]. Breeze had persuaded Cett to march on Luthadel so that a  was created; if either Straff or Cett attacked Luthadel, he would be weakened enough that the other could beat him easily. Afterward, [[Tindwyl\|Tindwyl]] arrived and (forcefully) started coaching Elend in the art of leadership. Later, a third army of twenty thousand [[Koloss\|koloss]] led by [[Jastes Lekal\|Jastes Lekal]] arrives to the city.
 A few days later, Elend went with Vin inside Straff's camp to parlay. Elend offers an alliance against Cett's army and bluffs, saying they have the atium cache. Elend argues Straff can't win without his help, but Straff says he already has a treaty with Cett, and he'll only agree to the alliance if Elend goes to the city's walls and surrenders the city. Elend says that if Straff killed him, Vin would kill Straff, and they demonstrate Vin's powerful emotional Allomancy, ending with Vin burning [[Brass\|brass]] with [[Duralumin\|duralumin]] and soothing away all of his emotion. Straff is frightened and agrees to let Elend return to the city. However, during the meeting with Straff, the Assembly had invoked a no-confidence clause, deposing Elend from the position of king.
 
  by  Shuravf  Writing at his desk with [[Vin\|Vin]] sitting on the floor behind him
-
+#### The Elections for King
 In a later meeting, Elend nominated [[Ferson Penrod\|Ferson Penrod]] to be chancellor to preside over the meetings on the absence of a king, and the motion passes. Nominations for king were held; one of the skaa workers nominated Penrod. After Elend nominated him for Chancellor, Penrod felt obligated to nominate Elend as king, and he did so. Finally, [[Philen Frandeu\|Philen Frandeu]] nominated Cett, who turned out to be hidden within the crowd. Cett took residence in Keep Hasting with a thousand soldiers. After a week, Elend met with Cett in his keep to parlay. Elend said he hasn't found the atium cache.
 In the day of the election for king, Elend announced his conversion to the Church of the Survivor. He hoped to convince some of the skaa workers to vote for him, in order to create a deadlock so that he kept the position. However, half a dozen of Straff's half-skaa Misting children attack Elend and Cett, and Vin fought them. After that, the election was held on the same day in Penrod's mansion, because it was the last day in a thirty-day deadline to choose the new king. There were fifteen votes for Penrod, two to Cett, and seven to Elend; that would create a deadlock that would have caused Elend to remain on the throne. However, after being asked, Elend revealed that Assemblymen can change their votes. Then, the two who voted for Cett changed their votes to Penrod, making it seventeen votes for him, enough to win the election and become king. It is later revealed that Straff had bribed the skaa merchants with the promises of titles if they voted for Penrod, and convinced Penrod to ally with him against Cett. However, he didn't march onto Luthadel immediately for fear of Vin coming for him.
 
-
+#### The Trip for Terris
 Elend decided that even not being king anymore, he would keep helping the city. He worked on keeping the citizens from freezing, and tries to discover who had poisoned the city's water supply. He met with Jastes and warned him the koloss cannot be controlled. On the way back, he attacked one of the koloss and discovered Jastes is paying the koloss with fake coins.
 Believing the city would fall, [[Sazed\|Sazed]], [[Dockson\|Dockson]], [[Breeze\|Breeze]] and [[Clubs\|Clubs]] conspired to send Elend and Vin away, along with [[Spook\|Spook]] and Tindwyl. Vin fought and killed [[Zane\|Zane]], and then asked Elend to marry her, and Sazed married them with a Larsta ceremony. He told them the [[Well of Ascension\|Well of Ascension]] was on [[Derytatith\|Derytatith]], in order to send them away from the city. They agreed to go there with Tindwyl and Spook. When they departed, Tindwyl decided not to go, and [[Allrianne\|Allrianne]] convinced them to take her with them. Shortly after departing, Allriane parted ways with them.
 A group followed them, and they discover it was led by Jastes, who was fleeing from Luthadel. Enraged that Jastes had left an uncontrolled group of koloss outside Luthadel, Elend executed him. Then, Spook revealed that Sazed had tricked Elend and Vin to get them to safety. Vin realized the Well is in Luthadel, and they immediately returned, with Vin going ahead on a pewter drag and later by Pulling and Pushing on horseshoes and Elend and Spook following on horses. Elend and Spook encountered a group of Terris refugees on their way to Luthadel. They only arrived after the [[Battle of Luthadel\|Battle of Luthadel]] is over, and Vin informed Elend he is Emperor.
 
-
+#### The Well of Ascension
  by  Eleonor Piteira  Vin at the [[Well of Ascension\|Well of Ascension]]
 Vin and Elend found the storage cache in [[Kredik Shaw\|Kredik Shaw]], where the Well of Ascension is located. When they enter it, [[Leras\|Leras]] appears as the mist spirit, intent on dissuading them of giving up the power and freeing [[Ruin\|Ruin]]. [[Kelsier\|Kelsier]] encouraged Leras to stab Elend so that Vin uses the power of the Well to save him, and since Leras, being Preservation, can't do it, Kelsier moved his arm, stabbing Elend in the gut. However, Vin gave up the power anyway, trusting that that is what Elend would have wanted for his people. Later, Leras saved Elend by making Vin give him the [[Lerasium\|lerasium]] bead, turning him into a Mistborn and allowing him to burn pewter.
 
@@ -128,7 +128,7 @@ Vin and Elend found the storage cache in [[Kredik Shaw\|Kredik Shaw]], where the
 After the foundation of the [[New Empire\|New Empire]], Vin and Elend set out to recover the five storage caches of the [[Rashek\|Lord Ruler]]. They found the second one in [[Statlin City\|Statlin City]], containing large amounts of lumber, and a description of [[Aluminum\|aluminum]]. The second cache was in [[Urteau\|Urteau]], and though the city was in control of [[Quellion\|Quellion]], Vin managed to sneak into it and discover the location of the third storage cache, [[Vetitan\|Vetitan]], as well as a description of the metal [[Electrum\|electrum]]. They conquered Vetitan, taking control of a group of ten thousand [[Koloss\|koloss]] that were attacking the city, and took its people further towards the center of the empire, where food could still be grown. In the cache, they discovered large quantities of the first eight Allomantic metals, as well as a description of [[Malatium\|malatium]] and the location of the fifth and final cache, [[Fadrex City\|Fadrex City]], which was held by [[Aradan Yomen\|Aradan Yomen]].
 
  by  clarinking  Dancing with [[Vin\|Vin]]
-
+#### The Siege of Fadrex City
 >“*Arguing philosophy will not remove the fact that you have an army camped outside my city, nor change the fact that I find you a hypocrite*”
 \-Yomen to Elend[18]
 
@@ -142,7 +142,7 @@ In his trip back, feeling burdened by his responsibilities, he knelt down in the
 Despite from what Leras told Elend, the emperor decided to launch a surprise attack on Yomen on the next morning. However, he realized Vin wouldn't have done this, and decided to pull back. However, Ruin took control of the koloss and made them start attacking Elend's army. Ordering her koloss to attack Yomen's army, Vin managed to convince the obligator to retreat and let Elend's army enter Fadrex. An enormous army of koloss began to gather outside the city. Seeing a boy being taken by the mistsickness, he realized the mists are snapping the skaa, and the mistfallen are in fact Allomancers. Even with the new Allomancers, the koloss army was too big for Elend's and Yomen's army to face. However, the koloss retreated, going toward Luthadel. Yomen gave Elend his last atium bead, and Elend goes toward Luthadel to find Vin.
 
  by  Gar_leyva 
-
+#### The Battle of Hathsin
 >“*Lost? We've won, Marsh.*”
 \-Elend to Marsh.[73]
 
@@ -205,4 +205,4 @@ Elend's speech in the Collapse was inspired by the .
 Elend's  color alignment would probably be blue/white.
 
 
-https://coppermind.net/wiki/Elend_Venture
+https://coppermind.net/wiki/Elend

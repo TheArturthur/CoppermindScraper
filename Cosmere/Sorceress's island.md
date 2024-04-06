@@ -31,4 +31,4 @@ There are three known trials that one must pass in order to reach the Sorceress 
 
 
 
-https://coppermind.net/wiki/Sorceress%27_island
+https://coppermind.net/wiki/Sorceress%27s_island

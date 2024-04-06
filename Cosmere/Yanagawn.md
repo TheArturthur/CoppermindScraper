@@ -110,4 +110,4 @@ Yanagawn’s trust in [[Dalinar\|Dalinar]] is strongly influenced by Lift. As he
 Gawx wasn’t fully dead when Lift “resurrected” him. 
 
 
-https://coppermind.net/wiki/Gawx
+https://coppermind.net/wiki/Yanagawn

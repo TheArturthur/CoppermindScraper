@@ -200,7 +200,7 @@ The Kharbranthian government follows a , with the monarch being hereditary throu
 Kharbranth, while generally considered a safe city, has previously had issues surrounding violent crime, which have not been adequately policed. It is suspected by some that the city watch has deliberately avoided taking action against violent criminals due to corruption and influence from politicians.
 In the past, members of the Kharbranthian government worked for the [[Diagram (group)\|Diagram]], however, anyone with connections to the group was removed from office on Taravangian's orders shortly before he was deposed.
 
-
+#### King Taravangian
 >“*He may not offer binding commentary on the Diagram, but he may interact outside of supervision. He may change government policy so long as there is a three-day delay before the changes take effect, and he may also freely pass judgment in trials.*”
 \-Mrall's judgement on Taravangian's daily restrictions.[4]
 
@@ -208,7 +208,7 @@ Taravangian was a popular king, beloved by the common darkeyed citizens of Kharb
 Taravangian's intelligence and compassion fluctuated on a daily basis and he would be tested each morning to determine how much control he had over policy and how much he could interact with the politicians and citizens of Kharbranth. Initially, his political power was to be limited only on days of extreme unintelligence, however, after proposing, and attempting to implement, a eugenics program in Kharbranth on a day of high intelligence, it was decided that his ability to affect policy be restricted for both extremes. Additionally, Taravangian's ability to interact with others also had to be restricted, due to previous attempts to reveal his condition to the general public.
 King Taravangian was known to show deference to foreign nationals, which likely furthered the upper class' poor opinion of his political competency. Additionally, by welcoming [[Jasnah Kholin\|Jasnah Kholin]] to Kharbranth and allowing her access to the [[Palanaeum\|Palanaeum]], Taravangian may have strained relations between himself and the [[Vorin\|Vorin]] leaders in the city.
 
-
+#### Queen Savrahalidem
 Queen Savra's relationship with her council and the people of Kharbranth are unknown. Upon becoming queen, she has broken her father’s alliances with all parties of the war and claimed neutral ground, deciding to focus on Kharbranth’s history and strength in providing medical aid where it is needed. Taravangian deliberately did not involve his daughter in the Diagram as he knew he would likely have to sacrifice himself to save the city, and did not want her to be implicated by his actions.
 
 ### Military

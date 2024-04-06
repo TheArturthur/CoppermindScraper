@@ -47,4 +47,4 @@ The extra abilities gained by a savant cannot be transferred through [[Hemalurgy
 [[Waxillium Ladrian\|Waxillium Ladrian's]] ability to create a "steel bubble" to deflect metal moving around him was originally intended to be the result of him being a savant in the [[Resonance\|resonance]] between his Allomantic steel and Feruchemical iron. Brandon later backed up on that, as he realized Wax was not manifesting the usual consequences of savantism.
 
 
-https://coppermind.net/wiki/Savantism
+https://coppermind.net/wiki/Savant

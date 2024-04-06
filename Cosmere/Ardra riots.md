@@ -11,4 +11,4 @@ The **Ardra riots** are an event that destroyed most of the servers that could c
 
 
 
-https://coppermind.net/wiki/Ardra_riots
+https://coppermind.net/wiki/Ardra

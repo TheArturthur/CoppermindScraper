@@ -69,4 +69,4 @@ The Shattered Plains was originally envisioned as existing on the world of [[Yol
 The Listener [[Song of Wars\|Song of Wars]] claims that the Shattered Plains were not shattered by the [[Fused\|Fused]].
 
 
-https://coppermind.net/wiki/Shattered_Plains
+https://coppermind.net/wiki/Warcamp

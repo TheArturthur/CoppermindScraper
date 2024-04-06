@@ -41,4 +41,4 @@ Scadrial#History
 Southern Scadrian#History
 
 
-https://coppermind.net/wiki/Final_Ascension
+https://coppermind.net/wiki/Anteverdant

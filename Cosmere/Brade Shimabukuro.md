@@ -114,10 +114,10 @@ Brade's final confrontation with Spensa comes when she saves Spensa's life by sh
 
 Brade enters the Delver Resistance Program with a poor opinion of flying with a flight, preferring to fly on her own and take on all of her enemies at once - a product of her arrogance and competitiveness. Brade is aloof while with her flight, not conversing with the rest of them in the jump room while waiting for the Weights and Measures to hyperjump, or on their general comm line while training at the delver maze. Gradually, she begins to see the value of being part of a flight, with structured leadership and flightmates who have different skill sets that cover her weaknesses.
 
-
+#### Morriumur
 Brade light-lances [[Morriumur\|Morriumur]] into an asteroid during the tryout for the Delver Resistance Program, whether they come to terms on this bad interaction, or whether either of them remembered who each other were when they were put in the flight is unclear.
 
-
+#### Vapor
 Brade and [[Vapor\|Vapor]] might have a strained relationship, due to Vapor being an agent of Cuna, Winzik's main rival. Vapor was Brade's flightleader in Flower's of Nights Last Kiss during their training period in the Delver Resistance Program.
 
 

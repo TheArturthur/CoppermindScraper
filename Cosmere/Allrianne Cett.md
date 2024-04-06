@@ -75,4 +75,4 @@ She cares very much about Breeze, enough to ride out and convince her father to 
 
 
 
-https://coppermind.net/wiki/Allrianne
+https://coppermind.net/wiki/Allrianne_Ladrian

@@ -10,6 +10,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 

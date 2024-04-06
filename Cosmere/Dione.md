@@ -45,12 +45,12 @@ Each shade of skin indicates a different relationship status: purple skin indica
 
 Dione breeding involves two diones merging into one that has the features and personality of a possible offspring; such an unborn dione is called a draft. They can be recognized by their very particular coloration, being entirely crimson on the right half and blue on the left. Similarly, a draft's facial features are split into two, with each side being that of the respective parent. Otherwise, drafts look just like any other dione.
 
-
+#### Creation
 Drafts are created from a literal merger of their parents as a way for the rest of the family to meet the newest member before their birth. They inherit a mixture of skills, abilities, and memories from both of their parents, but not everything. Curiously, they are not twice as massive as an average dione, implying that some of the mass is shed in the pupation process.
 Drafts have two copies of most internal organs, one from each parent. This includes two brains, which fuse together to create the draft's brain. This merger is not perfect: from time to time, drafts will have small conflicts between their sides, such as reaching for a tool with both hands instead of just one. These conflicts wax at the end of the drafting period, as the two halves of the draft are preparing to once again separate into individuals.
 Notably, this makes drafts immune to the illusory powers of the [[Delver\|delvers]], as each brain receives a different hallucination, allowing the draft to easily tell what isn't real. On the other hand, the merger also means that a draft dying would almost certainly kill both of their parents.
 
-
+#### Redrafting
 Redrafting is a process in which a draft separates back into their parents -- the leftparent and rightparent. After five months have passed, the draft will either split back into their parents so that they can give birth to this new dione, or be redrafted with a new personality. This period can be cut short by the draft if desired. Redrafting does not hurt, even though the personality and most memories of the previous draft are erased. The drafting and redrafting processes take place in a drafting pod, a wooden bed-like object with a divot in the center. The draft lies in the hollow center, submerged in a nutrient bath which aids the process.
 Once the redrafting period has ended and the family has settled on a personality they all like, the parents produce a child. These baby diones require a few years to develop before they start taking on characteristics of the personalities they had as drafts.
 

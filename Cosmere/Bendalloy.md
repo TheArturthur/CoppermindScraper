@@ -69,4 +69,4 @@ The real world alloy for bendalloy is 50% bismuth, 26.7% lead, 13.3% tin, and 10
 The time dilation effect of bendalloy was originally defined as compressing 2 minutes of time into 15 seconds without flaring the metal. This was changed with the leatherbound release of Alloy of Law to leave the exact compression ratio to be ambiguous.
 
 
-https://coppermind.net/wiki/Slider
+https://coppermind.net/wiki/Bendalloy

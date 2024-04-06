@@ -237,7 +237,7 @@ Spren known to facilitate Nahel Bonds include:
 
 [[Bondsmiths\|Bondsmiths]] powers are granted by three unique spren; the [[Stormfather\|Stormfather]], the [[Nightwatcher\|Nightwatcher]], and the [[Sibling\|Sibling]].
 
-
+#### Notable Radiant Spren
 
 [[Sylphrena\|Sylphrena]]: Honorspren of [[Kaladin\|Kaladin]]
 [[Pattern\|Pattern]]: Cryptic of [[Shallan\|Shallan]]
@@ -253,14 +253,14 @@ Spren known to facilitate Nahel Bonds include:
 
 ## Known Subtypes
 ### Lesser Spren
-
+#### Agonyspren
 >“*Agonyspren, like upside-down faces carved from stone, twisted and faded in and out.*”
 \-Kaladin[107]
 
 
 Agonyspren, a much rarer spren drawn to a person’s agony and suffering, appear as upside down faces carved into stone.
 
-
+#### Alespren
  by  Miranda Meeks  Alespren
 >“*Test successful. Have noted spren who appear only when one is severely intoxicated. Appear as small brown bubbles clinging to objects nearby. Further testing may be needed to prove they were more than a drunken hallucination.*”
 \-Axies the Collector[15]
@@ -269,7 +269,7 @@ Agonyspren, a much rarer spren drawn to a person’s agony and suffering, appear
 A rare type of spren that appear only in [[Iri\|Iri]]. They are occasionally seen by people who are under the influence of alcohol. They look like small brown bubbles that cling to objects close to the observer. They were given the name "alespren" by Axies the Collector, a scholar who studies spren, after considering the name "intoxicationspren". The locals refer to them as sudspren. They may also be called winespren.
 Axies theorized their existence, but was only able to observe them once, leading him to doubt whether they're real. As there are other stories of people seeing them, their existence is likely.
 
-
+#### Angerspren
 >“*Vamah was watching them stand there, and his expression was as thunderous as a highstorm, angerspren boiling up from the ground around him like small pools of bubbling blood.*”
 \-Adolin Kholin[108]
 
@@ -278,7 +278,7 @@ A common type of spren that appear around people experiencing anger. They genera
 Among the listeners, angerspren have the appearance of bolts of lightning that radiate out from the feet of the angry individual.
 In Shadesmar, they have an unspecified appearance but make a loud screeching noise similar to sheets of steel grinding against each other when attracted. Angerspren are said to be "nasty" and very dangerous even to other spren. The pools of boiling blood seen in the Physical Realm are actually saliva drooling from their mouths.
 
-
+#### Anguishspren
 >“*Certainly there were painspren appearing in droves in the room, even a few rare anguishspren, like teeth growing from the walls.*”
 \-Navani Kholin[112]
 
@@ -286,7 +286,7 @@ In Shadesmar, they have an unspecified appearance but make a loud screeching noi
 A rare type of spren drawn by anguish and extreme loss. They appear similar to human teeth.
 
  by  EccoS  Anticipationspren in [[Shadesmar\|Shadesmar]]
-
+#### Anticipationspren
 >“*A few anticipationspren—like red streamers, growing from the ground and whipping in the wind—began to sprout from the rock and wave among the soldiers.*”
 \-The Way of Kings: Chapter Six[42]
 
@@ -294,28 +294,28 @@ A rare type of spren drawn by anguish and extreme loss. They appear similar to h
 A common type of spren that appear around people looking forward to something, or who are nervous about something. They appear as red streamers that grow out from the ground and blow in the wind. They often appear around soldiers directly before a battle.
 The streamer that appears in the Physical Realm is actually the tongue of the anticipationspren. The spren itself has a round bulbous body and is about the size of a human toddler. It will open its mouth and stick its tongue in the air when near feelings of anticipation.
 
-
+#### Anxietyspren
 >“* A few anxietyspren, like twisting black cross shapes, appeared around Rysn.*”
 \-Dawnshard: Chapter One[113]
 
 
 A type of spren attracted to feelings of anxiety or worry. They look like twisting black crosses.
 
-
+#### Awespren
 >“*A single awespren, like a ring of blue smoke, burst out above him, spreading like the ripple from a stone dropped in a pond. Shallan had seen such a spren only a handful of times in her life.*”
 \-Shallan Davar[116]
 
 
 A very rare type of spren that appear around people who are very awestruck. They take the form of a ripple of blue smoke spreading slowly outwards. They usually appear above and around the awed person's head, like a halo. Most of the time, only a single one can be seen at once, though a whole group of people can attract several. Singers see awespren as floating blue balls that approach the awestruck individual from afar and then expand with great enthusiasm.
 
-
+#### Bindspren
 >“*He thought he could faintly make out tiny spren, dark blue and shaped like little splashes of ink, clustering around the place where the rock met the wall.*”
 \-Kaladin[4]
 
 
 Spren that appear around objects bound with a [[Full Lashing\|Full Lashing]]. They appear as small splashes of dark blue ink. Their relationship to the Lashings is not fully understood -- [[Kaladin\|Kaladin]] believes they are what hold the objects together, while [[Sylphrena\|Sylphrena]] disagrees, saying they could be attracted to the Full Lashing Kaladin had created.
 
-
+#### Captivityspren
 >“*It appears I'll have another chance to search for captivityspren.*”
 \-Axies the Collector[15]
 
@@ -323,18 +323,18 @@ Spren that appear around objects bound with a [[Full Lashing\|Full Lashing]]. Th
 A type of spren theorized by Axies to appear around people in captivity. Despite being imprisoned numerous times he has never observed them, leading him to doubt their existence. However, while imprisoned, Kaladin sees strange spren like taut wires crossing before him, which have been confirmed to be captivityspren.
 It's possible that rather than being attracted to the state of being imprisoned, captivityspren are attracted to the feelings of being trapped. This would explain why Axies, who sees being in prison as an opportunity, never witnesses any, while Kaladin's degrading mental state in prison summons several.
 
-
+#### Coldspren
 A type of spren mentioned in [[Navani's notebook\|Navani's notebook]]. They can be captured in gems of a certain cut and used in fabrial machines. They look like spikes growing around the affected person's feet.
 [[Urithiru\|Urithiru]] is covered in hundreds of coldspren. It's unclear whether they're attracted to low temperatures or the sensation of being cold.
 
-
+#### Concentrationspren
 >“*Concentrationspren rippled in the air like waves overhead.*”
 \-Oathbringer: Chapter 53[125]
 
 
 A type of spren that looks like ripples in the air, similar to a drop in the pond, although without the pond. They are rare in [[Alethkar\|Alethkar]], but can be found in [[Urithiru\|Urithiru]] and [[Tashikk\|Tashikk]]. They most commonly appear around people who are deeply focused on their task.
 
-
+#### Creationspren
 >“*Her drawing gathered about a half-dozen of them, pulling them by her act of creation just as a bright fire would draw flamespren.*”
 \-Shallan Davar[58]
 
@@ -343,7 +343,7 @@ An uncommon type of spren that appear around creative acts such as painting or d
 When drawing, the more skilled one is, the more likely creationspren are to appear. Creationspren are attracted to the emotion and perception of the person doing the creating, instead of the creation itself.
 [[Singers\|Singers]] bond a creationspren to enter [[Artform\|artform]]. Additionally, creationspren form Lightweaver [[Shardplate\|Plate]].
 
-
+#### Deathspren
  by  Marianne Eie  Deathspren
 >“*Only the dying could see deathspren. You saw them, then died. Only the very, very lucky few survived after that. Deathspren knew when the end was close.*”
 \-Kaladin[131]
@@ -353,21 +353,21 @@ A type of spren that appears only to people near death. Very few people survive 
 It's possible that deathspren have a more direct effect on the dying than simply being attracted to them, as [[Syl\|Syl]] strives to protect Kaladin from them when he's close to death.
 It is also possible that only the dying can see the deathspren because they can temporarily see into the other Realms (either Spiritual or Cognitive); when Kaladin sees [[Syl\|Syl]] defending him from the deathspren, she appears differently than before, as a solid figure of glowing light as opposed to her normal translucent manifestation in the Physical Realm.
 
-
+#### Decayspren
 >“*I didn't know men got this old. You sure he's not decayspren wearing a man's skin?*”
 \-Sylphrena to Kaladin[62]
 
 
 A type of spren referenced by [[Sylphrena\|Sylphrena]]. It appears that they are attracted to things that have been abandoned or neglected, as well as rotting food. They look like barnacles, and usually appear in large numbers, huddling close together.
 
-
+#### Exhaustionspren
 >“*She noticed something sweeping through the air above her. She cringed, looking up to find large, birdlike creatures circling around her in Shadesmar. They were a dark grey and seemed to have no specific shape, their forms blurry.*”
 \-Words of Radiance: Chapter Eleven[137]
 
 
 A type of spren that appear around exhausted people. In the Physical Realm, they appear as brown-colored jets of dust shooting up in the air. In Shadesmar, they seem indistinct yet also large and birdlike.
 
-
+#### Fearspren
 >“*Fearspren—wiggling and violet—sprang up through the wood and wriggled in the air.*”
 \-The Way of Kings: Chapter Six[42]
 
@@ -375,11 +375,11 @@ A type of spren that appear around exhausted people. In the Physical Realm, they
 A common type of spren that appear around people experiencing fear. In the [[Physical Realm\|Physical Realm]], they look like small, violet globs that crawl up from out of the ground and gather around the feet of the fearful. They seem to be attracted to the highest concentration of fear in an area; people experiencing less fear will fail to attract fearspren. In [[Shadesmar\|Shadesmar]], fearspren appear as large eel-like creatures with multiple stumpy legs, ridges on their backs, and long, globby purple antennae: the antennae appear to be the part that visually manifest in the Physical Realm.
 Among the [[Listener\|listeners]], fearspren look like long purple worms. This is probably because they can see the entire antenna and not just the tip which humans see.
 
-
+#### Fermentationspren
 A type of spren related to fermentation.
 
  by  EccoS  Flamespren with some [[Spheres\|spheres]]
-
+#### Flamespren
 >“*...instead watching a pair of flamespren dance along one of the logs. These seemed vaguely human, with ever-shifting figures.*”
 \-Oathbringer: Chapter Thirty-Six[144]
 
@@ -388,7 +388,7 @@ A common type of spren that appear around and in fire. They look like tiny human
 The [[Ardent\|ardent]] [[Geranid\|Geranid]] was studying flamespren when she discovered that if she measured them, the spren seemed to be "stuck" by that measurement. This is similar to the physical process of  in .
 Flamespren are attracted to ruby Polestones, and are the easiest to split, making them commonly used in conjoined fabrials.
 
-
+#### Gloomspren
 >“*Long, grey, like a tattered streamer of cloth in the wind. It wound around him, fluttering.*”
 \-Oathbringer: Chapter Five[145]
 
@@ -396,7 +396,7 @@ Flamespren are attracted to ruby Polestones, and are the easiest to split, makin
 A rare type of spren that looks like a grey streamer, seemingly attracted to the feeling of resignation or deep sadness. One of [[Syl\|Syl's]] aunts hunts them in a manner similar to a greatshell hunt.
 
  by  EccoS  Gloryspren surrounding [[Dalinar\|Dalinar]]
-
+#### Gloryspren
 >“*Below, his men cheered, sending up calls that rose above the Parshendi war chant. Gloryspren sprouted around him.*”
 \-The Way of Kings: Chapter Sixty-Five[146]
 
@@ -405,41 +405,41 @@ A type of spren that appear around people when they experience pride in their ac
 A large number of gloryspren appeared around [[Dalinar\|Dalinar]] right before he summoned [[Honor's Perpendicularity\|Honor's Perpendicularity]] at the [[Battle of Thaylen Field\|Battle of Thaylen Field]] however when he summons it later on, they do not appear.
 Singers see gloryspren as enormous brilliant spheres with long wings along the sides and flowing tails.
 
-
+#### Gravitationspren
 A type of spren that represents the power or force that causes things to fall. [[Zen-daughter-Vath\|Zen-daughter-Vath]] sometimes found them around heavy objects. [[Singers\|Singers]] can bond them to enter [[Workform\|workform]]. Additionally, gravitationspren form Skybreaker [[Shardplate\|Plate]].
 It is possible that they are the same as gravityspren.
 
-
+#### Gravityspren
 A type of spren mentioned in [[Navani's notebook\|Navani's notebook]]. They can be captured in gems of a certain cut and used in fabrial machines. They are possibly another name for groundspren, luckspren, or gravitationspren.
 
-
+#### Groundspren
 A type of spren to which Rosharans attribute the pull of gravity.
 
-
+#### Heatspren
 A type of spren mentioned in [[Navani's notebook\|Navani's notebook]]. They can be captured in gems of a certain cut and used in fabrial machines. It's unknown whether this is a scientific name for a flamespren, or a different creature entirely.
 
-
+#### Hungerspren
 >“*As he spoke, he attracted a few hungerspren. They looked like brown flies that flitted around the man's head, almost too small to see.*”
 \-The Way of Kings: Chapter Two[43]
 
 
 A type of spren that appears around people experiencing extreme hunger. They appear as tiny brown flies that flit around the hungry person.
 
-
+#### Joyspren
 >“*Joyspren rose around her, like blue leaves that started at her feet then moved up in a swirl before flaring out above her as if in a blast of wind.*”
 \-Words of Radiance: Chapter Twenty-Eight[152]
 
 
 A relatively rare type of spren, usually accompanied to intense feelings of happiness or accomplishment. In the [[Physical Realm\|Physical Realm]], they take form of a blue leaves or petals that rise around a person in a flutter, circling them or trailing behind as the person moves. Singers see them burst around the joyful individual like a beautiful blue storm. In [[Shadesmar\|Shadesmar]], they appear as a spinning cyclone of color.
 
-
+#### Laughterspren
 >“*A few laughterspren—minnow-like silver spirits that darted through the air in circular patterns—began to zip about them.*”
 \-The Way of Kings: Chapter Fourteen[24]
 
 
 A type of spren that appears in the presence of laughter. They have the appearance of small, silver minnows that dart in circular motions around those who are laughing.
 
-
+#### Lifespren
 >“*A few lifespren—tiny, glowing green specks—floated around the shalebark mounds. Some danced amid the rifts in the bark, others in the air like dust motes zigzagging up, only to fall again.*”
 \-The Way of Kings: Chapter Thirty-Nine[156]
 
@@ -448,7 +448,7 @@ A common type of spren that appears around plantlife, particularly just after [[
 Rarely, lifespren may appear in particularly populated areas.
 There are multiple occasions where lifespren are attracted to Lift when she uses her powers. It's unclear whether this attraction is due to her being an Edgedancer, or if it has to do with her boon from the Nightwatcher.
 
-
+#### Logicspren
 >“*There were said to be logicspren—in the form of tiny stormclouds—who were attracted to great arguments...*”
 \-The Way of Kings: Chapter Seven[58]
 
@@ -458,13 +458,13 @@ They are used to create fabrial clocks, and affect timing, similar to [[Aon\|Aon
 In addition to this, they also make up the Shardplate of Elsecallers.
 
  by  Ben McSweeney  Sketch of [[Luckspren\|Luckspren]]
-
+#### Luckspren
 For more information, see [[Mandras\|Mandras]].
 A type of spren that flies around [[Skyeel\|skyeels]] and some [[Greatshell\|greatshells]]. In the Physical, luckspren have the appearance of tiny, blue, arrowhead-like fish that dart around the skyeel in the general direction of its travel. It is commonly believed by Rosharans that they allow the skyeel to fly in some manner, but the accuracy of this belief is not known. [[Larkin\|Larkin]] and other greatshells bond to luckspren as they grow, allowing them to reach much larger sizes without being crushed than would otherwise be physiologically possible. Occasionally, one around a chasmfiend will drift away from the rest and disappear, briefly puffing into a plume of smoke, and when a chasmfiend dies, its remaining luckspren leave in a similar way. This does not seem to happen around other creatures, however, and the knowledge these spren are luckspren does not appear to be widespread.
 In Shadesmar, luckspren are known as mandras. There, they are far larger, with long, sinuous bodies and arrow-shaped heads. They are often harnessed by various spren to pull ships through the seas of beads, as there is no wind to sail on. They have a habit of "dropping out", vanishing temporarily into the Physical Realm, and then reappearing in Shadesmar, necessitating any single ship to have several mandras hitched to it.
 They are known as chasmspren to the listeners.
 
-
+#### Musicspren
 >“*Musicspren zipped through the air around [the drummers], the tiny spirits taking the form of spinning translucent ribbons.*”
 \-The Way of Kings: Prologue[41]
 
@@ -472,28 +472,28 @@ They are known as chasmspren to the listeners.
 A type of spren that appear around musical performances. They have the appearance of spinning, translucent ribbons that whirl around the playing instrument. A single, pure note is enough to draw at least one musicspren, if only for a short time. They also seem attracted to [[Ryshadium\|Ryshadiums]], suggesting that they might be the spren the horses bond with.
 
  by  Elisgardor  A corrupted and uncorrupted painspren
-
+#### Painspren
 >“*Painspren swarmed the ground, like small orange hands or bits of sinew, reaching up from the ground amid the blood of the fallen.*”
 \-The Way of Kings: Chapter Forty-Seven[175]
 
 
 A common type of spren that appear around those experiencing pain. They have the appearance of sinewy, orange hands. They crawl out of the ground and swarm the pained, latching on to the wounded areas. Singers bond with them to enter warform.
 
-
+#### Passionspren
 >“*Passionspren, like tiny flakes of crystalline snow, floated down in the air around them.*”
 \-The Way of Kings: Chapter Sixty-One[178]
 
 
 A type of spren that appears around those experiencing passionate feelings. This includes both intense love and more violent passions, like the [[Thrill\|Thrill]]. In the [[Physical Realm\|Physical Realm]], they look like small flakes of snow. In [[Shadesmar\|Shadesmar]], they are long flying spren with mustaches and graceful bodies. They have the ability to eject tiny crystalline shards that float down and vanish.
 
-
+#### Persuasionspren
 >“*So good with words. Humans are like persuasionspren. I can't speak with one of you without being changed.*”
 \-Sibling[179]
 
 
 A type of spren related to persuasion.
 
-
+#### Plaguespren
 >“*Have you seen any plaguespren on these refugees? If those spren get into the city, it could kill everyone.*”
 \-Abiajan[180]
 
@@ -501,17 +501,17 @@ A type of spren related to persuasion.
 Plaguespren are a type of spren which seem to be of recent origin, with the first known modern manifestation happening as recently as 1173 when the plague (of common cold) began in the west. They appear on the bodies of people who have the plague, but their exact appearance is unknown.
 
  by  EccoS  Rainspren in Shadesmar
-
+#### Rainspren
 >“*[Rainspren] were said to be the souls of raindrops...*”
 \-The Way of Kings: Chapter Forty-Four[182]
 
 
 A type of spren that appears most often during the [[Weeping\|Weeping]]. The have the appearance of glowing, ankle-height, blue candles that, despite seeming to melt, never grow shorter, with a single eye at the top of their body. They often stand in puddles. Singers see feet on rainspren.
 
-
+#### Rainbowspren
 A type of spren related to rainbows.
 
-
+#### Riverspren
 >“*[The Purelake] was filled with tiny fish, colorful cremlings, and eel-like riverspren.*”
 \-The Way of Kings: Interlude One[184]
 
@@ -519,10 +519,10 @@ A type of spren related to rainbows.
 A common type of spren that appear in bodies of water such as rivers or the [[Purelake\|Purelake]]. They are often described as being eel-like. They are among the larger varieties of spren and have the ability to mimic faces and expressions, as well as voices, often choosing to torment people while doing so.
 Listeners see riverspren as having carapace.
 
-
+#### Rockspren
 A type of spren related to rocks.
 
-
+#### Rotspren
 >“*Rest... and keep that wound clean. We don't want to attract any rotspren. Let me know if you see any. They are small and red, like tiny insects.*”
 \-Kaladin[44]
 
@@ -530,24 +530,24 @@ A type of spren related to rocks.
 A common type of spren that appear around infected tissue and rotting corpses. They have the appearance of tiny red, translucent insects that gather around infected wounds.
 Unlike most spren, which most Rosharans believe are only attracted to their namesake, rotspren are often believed to be the cause of sickness and infection. They are seen to be repelled by water and antiseptics such as [[Lister's oil\|Lister's oil]], [[Knobweed\|Knobweed sap]], and [[Larmic mucus\|Larmic mucus]].
 
-
+#### Sailorspren
 >“*Well toss me overboard and call me a fish ... if you can see it, I guess you are a real sailor! You win the bet, then.*”
 \-Yalb[187]
 
 
 Sailorspren are a fake spren. These spren are described as large and yellow with tentacles and a bright red stripe on its back. New sailors are tricked into thinking that they exist and they eventually bet a lot of money, against other sailors, on the existence of sailorspren. They would then learn that sailorspren are not real.
 
-
+#### Shamespren
 Spren attracted to feelings of shame or embarrassment. They look like red and white flower petals floating down to the ground.
 
-
+#### Shockspren
 A rare type of spren that appear around people experiencing fearful shock (as opposed to awespren, associated with pleasant surprises). The look like pale yellow triangles breaking and reforming around the person who attracted them.
 
-
+#### Snowspren
 A type of spren that appear in the few snowy places on Roshar, such as the [[Horneater Peaks\|Horneater Peaks]].
 
  by  Connor Chamberlain  [[Shallan\|Shallan]] and [[Adolin\|Adolin]] watching a starspren
-
+#### Starspren
 >“*It was the time between moons, and so he was lit mostly by the firelight; there was a spray of stars in the sky above. Several of those moved about, the tiny pinpricks of light chasing after one another, zipping around like distant, glowing insects.*”
 \-The Way of Kings: Chapter Forty[193]
 
@@ -555,21 +555,21 @@ A type of spren that appear in the few snowy places on Roshar, such as the [[Hor
 A rare type of spren that appear at night amongst the stars. In the [[Physical Realm\|Physical Realm]] appear as small points of light that chase one another like insects. In [[Shadesmar\|Shadesmar]], starspren appear as huge, long-necked [[Greatshell\|greatshell]]-like creatures with ashen carapace that are only visible from a certain angle. They have seven sets of wings. They have clouds trailing behind them, and other clouds cling to their chin giving the appearance of a beard. Pinpricks of light glow beneath their skin or shell like points on a constellation, which are the visible parts in the Physical Realm.
 They were not imagined into existence by greatshells.
 
-
+#### *Stormstriders*
 *Stormstriders* are large spren on glowing legs that move only during highstorms. During Kaladin's youth, the residents of [[Hearthstone\|Hearthstone]] believe that they may have been responsible for destroying a nearby hillside. Kaladin and Shallan see one when they are in a chasm during a highstorm. Dalinar also sees one while he is out in a highstorm traveling between [[Stormshelter\|stormshelters]]. The name "Stormstriders" is a fan-given name that has not been canonized.
 
-
+#### Tai-na Spren
 For more information, see Tai-na#Spren_bond.
 The [[Tai-na\|Tai-na]] of the [[Reshi Sea\|Reshi Sea]] bond an unknown spren, referred to as their "soul" by their [[Reshi\|inhabitants]], that allow these greatshells to grow to gargantuan sizes. These "souls" will sometimes show themselves to people, and seem to be able to interact with the world and magic in some ways, such as slowing a person's fall. It is uncertain whether these are the [[Luckspren\|same spren]] bonded by other greatshells or not, but [[Axies the Collector\|Axies the Collector]] believes the "souls" must be more "spectacular" than the others.
 
-
+#### Wavespren
 >“*Wavespren danced atop the tips of whited caps across a field of shimmering blue.*”
 \-Dawnshard: Chapter Five[200]
 
 
 These spren are four-legged with smooth skin and large eyes. They are found in the ocean, and have been seen splashing into the air after the collision of two waves as well as riding waves on the beach.
 
-
+#### Windspren
 >“*Windspren were devious spirits who had a penchant for staying where they weren't wanted...*”
 \-The Way of Kings: Chapter Two[43]
 
@@ -585,51 +585,51 @@ It seems that Singers might bond windspren to use nimbleform.
 ### True Spren
 All true spren are created by Honor and Cultivation.
 
-
+#### Ashspren
 For more information, see [[Ashspren\|Ashspren]].
 A type of sapient spren that forms Nahel Bonds with the Knights Radiant [[Order of Dustbringers\|Order of Dustbringers]], granting them their powers. Ashspren grant the [[Surge\|Surges]] of Division and Abrasion. In Shadesmar, they have a humanoid form with ash-white skin that falls away when the ashspren moves, revealing bones underneath before quickly growing back. In the Physical Realm, they manifest as branching patterns of fire that appear to burn through the air or across the surfaces of objects, leaving behind illusionary cracks but not actually damaging their medium. They seem to have the ability to hide from both other humans and other spren.
 They seem to be fond of destroying the things around them.
 
-
+#### Cryptics
  by [[Isaac Stewart\|Isaac Stewart]], User: Awesomeness Drawings of [[Pattern\|Pattern]]
 For more information, see [[Cryptic\|Cryptic]].
 Also known as liespren, Cryptics are a type of sapient spren that forms Nahel Bonds with the Knights Radiant [[Order of Lightweavers\|Order of Lightweavers]], granting them their powers. Cryptics grant the [[Surge\|Surges]] of Transformation and Illumination. They represent fundamental mathematical laws of nature, and truths that explain the fabric of existence.
 In [[Shadesmar\|Shadesmar]], they have the appearance of figures in robes that hang stiffly, as if made of glass rather than fabric. Instead of heads, they have a floating symbol full of impossible angles and geometries. There, Cryptics reside in a single city-state, and do not wish to expand. In the [[Physical Realm\|Physical Realm]], Cryptics take the shape of a complex and constantly shifting geometric pattern slightly raised off a surface or object. They can also manifest as a floating three-dimensional mass of twisting lines.
 
-
+#### Cultivationspren
 For more information, see [[Cultivationspren\|Cultivationspren]].
 A type of sapient spren that forms Nahel Bonds with the Knight Radiant [[Order of Edgedancers\|Order of Edgedancers]], granting them their powers, which include the [[Surge\|Surges]] of Abrasion and Progression. They appear in the Physical Realm as a growing vine with crystals, while in Shadesmar they take a form of a humanoid seemingly made out of thickly-bound, thin vines and pieces of crystal. They are generally considered the spren that express the purest form of Cultivation.
 Cultivationspren are ruled by a group of them called the [[Ring\|Ring]], which, among others, dictates which spren are to bond whom. They have the capacity to let their kinsmen travel into the Physical Realm without the usual accompanying loss of mental functions.
 
-
+#### Highspren
 For more information, see [[Highspren\|Highspren]].
 A type of sapient spren that forms Nahel Bonds with the Knights Radiant [[Order of Skybreakers\|Order of Skybreakers]], granting them their powers. Highspren grant the [[Surge\|Surges]] of Gravitation and Division.
 In the Physical Realm, highspren are described as looking like black slits in reality, with white glowing stars shining through. They seem to have their own settlements in Shadesmar and appear rather isolationistic, with none to be seen in places like [[Celebrant\|Celebrant]]. Other spren consider them to be strict and rule-bound.
 
-
+#### Honorspren
  by  Marie Seeberger  [[Sylphrena\|Sylphrena]], an honorspren
 For more information, see [[Honorspren\|Honorspren]].
 A type of sapient spren that forms Nahel Bonds with the Knights Radiant [[Order of Windrunners\|Order of Windrunners]], granting them their powers. Honorspren grant the [[Surge\|Surges]] of Gravitation and Adhesion. They are said to be quite "discerning" in deciding who they would bond with. They are generally considered the spren that express the purest form of Honor.
 In the Physical Realm, they can change their forms, although in any shape, they are blue-white with a matching glow. In Shadesmar, they look like humans with blue-white skin and clothes that are part of them. They are noted to be highly warlike, with numerous cities and fortresses, as well as their own fleet.
 
-
+#### Inkspren
 For more information, see [[Inkspren\|Inkspren]].
 A type of sapient spren that form Nahel Bonds with the Knights Radiant [[Order of Elsecallers\|Order of Elsecallers]], granting them their powers. Inkspren grant the [[Surge\|Surges]] of Transformation and Transportation. They look like small, human-shaped figures with ink-black skin and clothing, coated in what seems to be oil, with a mother-of-pearl or prismatic quality to their look. They are capable of blending into shadows. In addition, they can change their size, but not their shape.
 
-
+#### Keenspren
 "Keenspren" is a nickname for one of the types of Radiant spren, although which one has not been clarified. [[Wyndle\|Wyndle]] considers "growing a garden for keenspren" to be a comparison point for the weirdness of a conversation.
 
-
+#### Lightspren
 For more information, see [[Lightspren\|Lightspren]].
 A type of sapient spren that formed Nahel Bonds with the Knights Radiant [[Order of Willshapers\|Order of Willshapers]], granting them their powers. Lightspren grant the [[Surge\|Surges]] of Transportation and Cohesion. In the Physical Realm, they appear as glowing balls of light. In Shadesmar, they appear as humans with metallic bronze skin and holes for pupils, like living statues. There, they are also known as Reachers.
 Reachers are often guides in Shadesmar, as they like to travel to different places, trading and selling goods. They have ships pulled by teams of [[Mandra\|mandras]], inlaid with lines of copper that may serve as a medium of communication.
 
-
+#### Mistspren
 For more information, see [[Mistspren\|Mistspren]].
 A type of sapient spren that forms Nahel Bonds with the Knights Radiant [[Order of Truthwatchers\|Order of Truthwatchers]], granting them their powers. In Shadesmar, they take the form of humanoid figures made out of swirling, indistinct fog. Their faces look like porcelain masks, and they wear gloves, trousers and vests that adhere to their bodies' shape despite their seeming incorporeality, and take the form of light reflected through the mirror while in the Physical Realm.
 They have at times been affiliated with [[Honorspren\|honorspren]], working as common sailors on their ships.
 
-
+#### Oathgate Spren
  by  Ben McSweeney  Uncorrupted Oathgate spren
 >“*We are apologetic. We have been… alone very long. We would enjoy granting passage to men again. But we cannot do that which was forbidden.*”
 \-Spren of Thaylen City Oathgate[221]
@@ -639,7 +639,7 @@ Oathgate spren reside over the [[Oathgates\|Oathgates]]. They call themselves th
 The Oathgate spren facilitate transfer between Oathgates, with any pair being able to transport anything on the Oathgate's physical platform and in its control chamber between themselves and a matching Oathgate in either [[Urithiru\|Urithiru]] or one other city. Their existence is a crucial element of the Oathgates' functionality, as an Oathgate can be rebuilt so long as the spren are left uncompromised. It appears they are bound to the eleven gemstones that are used to operate the Oathgate. While the Oathgate spren can be corrupted, this does not impact their ability to send travellers to uncorrupted ones.
 In the past, those spren also allowed people without the [[Surge\|Surge]] of Transportation to travel to and from [[Shadesmar\|Shadesmar]]; however, the [[Sibling\|Sibling]] forbade it to them shortly before their departure. While the Oathgate spren are highly regretful about it, they are physically incapable of disobeying their orders. Although many of the gatekeepers uphold the Siblings order, some of them have listened to the Stormfather's request to allow people to use the Oathgates to travel between the Physical Realm and Shadesmar once again.
 
-
+#### Peakspren
 For more information, see [[Peakspren\|Peakspren]].
 A type of sapient spren that forms Nahel Bonds with the Knights Radiant [[Order of Stonewards\|Order of Stonewards]], granting them their powers. In Shadesmar, they take the form of a humanoid figure with skin of cracked stone and molten light glowing from within.
 
@@ -728,4 +728,4 @@ There has also been some speculation regarding whether an [[Unmade\|Unmade]] can
 
 
 
-https://coppermind.net/wiki/Awespren
+https://coppermind.net/wiki/Windspren

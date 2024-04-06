@@ -140,26 +140,26 @@ After being made a slave and given an Oathstone, Szeth was traded to the Thaylen
 >“*I am Truthless. I do as my master requires and I require no explanation.*”
 \-Szeth, regarding his oath.[29]
 
-
+#### Killing King Gavilar
 For more information, see [[Assassination of Gavilar\|Assassination of Gavilar]].
 Two years after his banishment, Szeth was purchased by an assassin named [[Liss\|Liss]]. She believed that Szeth was the best servant she ever had and told [[Jasnah\|Jasnah]] that she wanted to show him off to her. However, she later found that Szeth was too good of a servant, so she sold him to slavers in [[Kholinar\|Kholinar]]. A few weeks later, Szeth was purchased by [[Klade\|Klade]], a member of the [[Listener\|listener]] ruling council, in 1167. Klade knew of him from [[Venli\|Venli]], who in turn learned of him from Nale. When Klade pressured him, Szeth told him about his Shardblade and the abilities it brought. As a result, in Ishi 1167, [[The Five\|the Five]] ordered him to murder king [[Gavilar Kholin\|Gavilar Kholin]] of [[Alethkar\|Alethkar]] during the treaty-signing celebration. They stipulated that the killing had to be done with live witnesses, and while wearing white.
 As Szeth attacked, he was fooled into believing Gavilar was a bodyguard, and decided to chase after the escaping target, instead of fighting a protracted battle. However, soon after he realized the "target" was simply a decoy, since Gavilar would be much safer fighting with his own Shardblade and Plate instead of fleeing for his life. Doubling back, Szeth returned to kill Gavilar, and a fierce battle commenced. Gavilar almost succeeded in killing Szeth with a Shardplate-enhanced punch, but ultimately failed and fell to his death onto a piece of wooden debris, which impaled him in an area where the Shardplate had been broken.
 Before dying, Gavilar had two last requests: to tell his brother to "find the most important words a man could say," and to protect a mysterious [[Black sphere\|black sphere]] that shone [[Anti-Voidlight\|dark light]]. Szeth honored both requests, scrawling a message to [[Dalinar\|Dalinar]] into the wood with Gavilar's own hand and blood. Eventually he also hid away the black orb somewhere in [[Jah Keved\|Jah Keved]].
 His clothes on the night of the killing led to the general public dubbing him the Assassin in White.
 
-
+#### Laying Low
 After Gavilar's death, the listeners threw away Szeth's Oathstone as they fled [[Kholinar\|Kholinar]]. Since the Alethi believed that Szeth had fled with the Parshendi, they did not attempt to track him down and instead initiated the [[Vengeance Pact\|Vengeance Pact]], waging war on the [[Shattered Plains\|Shattered Plains]]. Meanwhile the stone, and as a result Szeth, was eventually picked up by [[Avado\|Avado]], a travelling merchant.
 Avado took Szeth with him to [[Jah Keved\|Jah Keved]] in fear of possible Alethi retribution against strange foreigners in the wake of their king's assassination. He did not keep his slave for long, however; over the course of the next five years, the Oathstone changed possession many times before landing in the hands of [[Took\|Took]], a transient worker. Took was robbed and killed after a night of drinking in [[Ironsway\|Ironsway]], a town in the [[Bavland\|Bavland]], and Szeth's Oathstone is taken by [[Makkek\|Makkek]], a small-time criminal. With Szeth under his control, Makkek set out to gain wealth, first by killing his fellow robbers and then by establishing a gambling den in [[Bornwater\|Bornwater]].
 On one of Makkek's missions, this time to eliminate a rival who had opened his own gambling place, Szeth infiltrated the local lord's mansion where his target, [[Gavashaw\|Gavashaw]], resided. After entering Gavashaw's rooms, he met a mysterious stranger who knew of Szeth and his role in Gavilar's death, as well as his powers. After a short confrontation, the man revealed that both Makek and Gavashaw had been killed, and that Szeth's Oathstone was now in the hands of a new master. Thus, Szeth began to unwittingly serve the [[Diagram (group)\|Diagram]].
 
-
+#### Taravangian's Killer
  by  Marie Seeberger  First attempt to assassinate [[Dalinar\|Dalinar]], foiled by [[Kaladin\|Kaladin]]
 Szeth's new master gave him a list of high-ranking targets, all of whom were to be eliminated with the flashy display of skill seen over five years ago in [[Kholinar\|Kholinar]]. Szeth carved a bloody path across the continent, slaying, among many others, a [[Selay\|Selay]] [[Gerontarch\|gerontarch]] and two [[Azir\|Azish]] Primes. His second-to-last kill was King [[Hanavanar\|Hanavanar]] of Jah Keved, whom he killed on Tanatesev 1173 along with his two Shardbearer guards and many others who were present. This led directly to the Veden civil war.
 King [[Taravangian\|Taravangian]], the last name on Szeth's hit list, turned out to be his secret employer. When Szeth arrived in [[Kharbranth\|Kharbranth]], Taravangian revealed a portion of his schemes, showcasing his "hospitals" in which people were slowly killed in order to draw out [[Death Rattle\|Death Rattles]]. Upon showing this to Szeth, he ordered him to kill [[Dalinar Kholin\|Dalinar Kholin]].
 During a [[Highstorm\|highstorm]], Szeth attacked King [[Elhokar\|Elhokar's]] palace on the [[Shattered Plains\|Shattered Plains]], entering it through a hole cut in the wall with his Blade. On his way, he killed [[Beld\|Beld]] and cut through [[Hobber\|Hobber's]] midriff, crippling him, then proceeded to fight against [[Adolin\|Adolin]], [[Kaladin\|Kaladin]], and [[Dalinar\|Dalinar]], all of whom believed he was there to assassinate Elhokar. Szeth quickly gained the upper hand, lashing Adolin to the ceiling and cutting through Kaladin's arm. However, he ultimately failed, as Kaladin managed to push him through his entryway. The two of them fell to the ground, both surviving. Szeth panicked when he saw Kaladin healing his arm, and when Kaladin told him that he was a Windrunner, Szeth fled.
 After his confrontation with Kaladin, Szeth retreated to the top of Urithiru, shaken by Kaladin's words and wondering if he was wrong the entire time. Ultimately, he decided to confront Taravangian about the matter. He found the king in [[Vedenar\|Vedenar]], and, control almost gone, demanded to know if the [[Knights Radiant\|Knights Radiant]] were returning. Taravangian managed to appease him by claiming that an Honorblade with [[Regrowth\|Regrowth]] has been stolen. Having heard that, Szeth departed, vowing to kill [[Kaladin\|Kaladin]]; however, Taravangian forbade him to approach Kaladin, demanding that Szeth kill only Dalinar.
 
-
+#### Death and Resurrection
 >“*What I am owed will come to me eventually! Every bit of it. I will drown in it, stonewalker!*”
 \-Szeth to Dalinar[18]
 
@@ -168,13 +168,13 @@ Szeth attacked Dalinar during the climax of the [[Battle of Narak\|Battle of Nar
 Moments after his death, Szeth was revived by [[Nale\|Nale]], who used a fabrial to heal his body before his spirit departed. Though Szeth was initially outraged at being returned to life, Nale promised to give him a new purpose and gifted him with [[Nightblood\|Nightblood]].
 
 ### Skybreaker Trainee (1173 - 1174)
-
+#### Yeddaw
 After gifting him with Nightblood, Nale inducted Szeth into the [[Skybreakers\|Skybreakers]], and took him to [[Yeddaw\|Yeddaw]] in order to find a potential Radiant. Throughout this time, Szeth attempted to convince Nale of the upcoming [[True Desolation\|True Desolation]], but was unable to get through to him.
 During his time there, he met [[Lift\|Lift]] in the city's [[Grand Indicium\|Grand Indicium]]. He confronted her and drew Nightblood to test her, but left when Nightblood's power found her innocent. Later, he encountered her again, chasing after him and the other Skybreakers. He stopped to inform her that she could not possibly get there before they did, but also shared the identity of the person they were seeking.
 After the Everstorm passed over Yeddaw, Nale departed in a hurry, leaving Szeth stranded in Yeddaw. He was picked up by the Herald after a few weeks and taken to join the other Skybreakers. There, master [[Ki\|Ki]] informed him that his mission with [[Nale\|Nale]] was his first task, and that after being evaluated, he was found worthy of the First Ideal. This, however, was not enough for him to draw Stormlight, as Skybreaker trainees can only do so after attaining the Second.
 
  by  Marie Seeberger  Szeth at the [[Purelake\|Purelake]]
-
+#### Second Ideal
 After swearing the First Ideal, Szeth was taken to the [[Purelake\|Purelake]] along with other Skybreaker hopefuls and squires to complete the next test. The challenge was based on a message sent via [[Spanreed\|spanreed]] by the city's minister, who told them there was a breakout of convicts. The request was to find the guilty and execute them. While most of the squires and hopefuls started immediately to find and execute the convicts, Szeth stayed and questioned their motives, learning more about the local law.
 He was able to find and fight one. He found that the convict had a knife, but was thin, dirty and emaciated. Upon questioning him, Szeth also learned that the prison fort had only one guard. Once back, he saw other convicts, confirming that they had all been poorly fed and under a strict regime, leading him to the realization that the prison itself was improperly run. When he confirmed with Ki that the prison administrator was also on the list of the guilty, Szeth drew Nightblood and killed the man. This allowed him to swear the Second Ideal, letting him draw Stormlight. Impressed, Ki chose him as her squire.
 
@@ -182,19 +182,19 @@ He was able to find and fight one. He found that the convict had a knife, but wa
 \-The Second Ideal of the Skybreakers, as sworn by Szeth[23]
 
 
-
+#### Learning the Truth
 The next test was based on the newly acquired ability to Lash by the Skybreaker hopefuls. It involved Lashing oneself through the air and throwing pouches of colored powder at other competitors -- the one with the least spots of color on their outfit would win the game. Szeth originally held the lead, but when the rest of the group realised he would win, he was surrounded and pummeled with pouches. Shortly after, his Stormlight ran out and he fell into the Purelake. Nonetheless, he managed to win, as the water washed away the colors.
 Frustrated with the slow progress, Szeth intended to swear his next ideal there and then, but at this point [[Nale\|Nale]] arrived. The Herald took Szeth and the other full Skybreakers to [[Marat\|Marat]], where he showed them a village destroyed by the [[Voidbringer\|Voidbringers]] before telling them all the truth about the world. Afterwards, Nale declared his intentions: to side with the [[Singer\|singers]], the original inhabitants of Roshar, and oppose humanity.
 Initially, Szeth believed he had no choice other than to follow Nale, but in a conversation Nightblood about the topic, he changed his mind, realizing that there was always a choice. He decided to swear himself into service of Dalinar, and joined the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 
  by  Matthew Johnson  Szeth killing a [[Thunderclast\|thunderclast]]
 ### Serving Dalinar Kholin (1174 - Present)
-
+#### Battle of Thaylen Field
 During the Battle of Thaylen Field on Nanishah 1174, Szeth arrived on the field just in time to drop down and slay a [[Thunderclast\|thunderclast]]. After landing, he met [[Lift\|Lift]], who let him know that Dalinar asked her to recover the [[King's Drop\|King's Drop]], a perfect gemstone. Acknowledging this as Dalinar's will, Szeth joined her in the hunt. Things initially went poorly, especially when Szeth lost Nightblood's sheath to one of the [[Fused\|Fused]], causing the sword to go out of control and begin devouring him, despite Lift's attempts to help.
 Fortunately, it was then that Dalinar managed to open [[Honor's Perpendicularity\|Honor's Perpendicularity]], infusing the city with enough Stormlight to slake Nightblood's thirst. Szeth managed to resheathe the blade, and met with Dalinar. After managing to convince the Alethi of his new loyalty, he returned to his search for King's Drop with Lift.
 Together, the two managed to trick the Fused carrying it into letting it go and grabbing a Lightwoven fake, with Lift bringing the real King's Drop to Dalinar, who then used it to trap [[Nergaoul\|Nergaoul]].
 
-
+#### Aftermath of the Battle
 After the battle, Szeth met with Nale, who warned him about following a man instead of a law, but supported the decision overall. The Herald made to depart, promising to return later and teach Szeth about the Surge of Division. Before he left, Szeth swore his Third Oath. He also made it clear that for his Fourth, the Ideal of Crusade, he intended to travel to [[Shinovar\|Shinovar]] and cleanse it of the false leaders who made him the Truthless in the first place.
 
 >“*I swear to follow the will of Dalinar Kholin. This is my oath.*”
@@ -207,10 +207,10 @@ After the battle, Szeth met with Nale, who warned him about following a man inst
 
 Afterwards, Szeth became Dalinar’s bodyguard, despite the apprehension of other Alethi.
 
-
+#### Imprisonment in Urithiru
 Szeth only served as Dalinar's bodyguard for a short time, due to his unstable nature and the uncertainty of people close to Dalinar, notably [[Navani\|Navani]]. He was put in a makeshift prison cell on the upper floors of Urithiru, and was given food, fresh clothing (white, as he specified), and plenty of spheres for light (presumably to banish the voices in his head). After several people got annoyed, he requested that Nightblood stop speaking to anyone but him. During his imprisonment, Navani interviewed him a number of times, asking him about her husband Gavilar's death. During one of these interview sessions, Navani learned of the black sphere, and Szeth was temporarily released to go get it.
 
-
+#### Guarding Dalinar on the Emuli Front
 >“*I decide now. I finally decide. Me. No one else compelling me. Taravangian, know that in killing you, I make it my choice.*”
 \-Szeth, immediately before attempting to kill Taravangian[3]
 
@@ -274,4 +274,4 @@ In *The Way of Kings* and *Words of Radiance*, every chapter written exclusively
 In *The Way of Kings Prime*, Szeth-son-son-Vallano, Truthless of Shinovar, was known as Jeksonsonvallano, Truthless of Shinavar, or Jek.
 
 
-https://coppermind.net/wiki/Assassin_in_White
+https://coppermind.net/wiki/Vallano

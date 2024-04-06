@@ -32,4 +32,4 @@ Starmarks do not work and are not visible on Dayside.
 Starmarks may be a type of tattoo, possibly using ink only visible under UV since they cannot be seen while on Dayside.
 
 
-https://coppermind.net/wiki/Starmark
+https://coppermind.net/wiki/Starmarks

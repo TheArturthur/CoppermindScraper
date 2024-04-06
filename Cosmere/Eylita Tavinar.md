@@ -69,4 +69,4 @@ Eylita and [[Balat\|Balat]] seem smitten with each other from the time of their 
 
 
 
-https://coppermind.net/wiki/Eylita_Tavinar
+https://coppermind.net/wiki/Eylita

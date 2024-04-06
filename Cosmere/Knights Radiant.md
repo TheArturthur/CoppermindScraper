@@ -96,4 +96,4 @@ Brandon intended for sets of Ideals across Orders (e.g. the Third Ideal) to have
 The term for a Knight Radiant in Parshendi is Neshua Kadal.
 
 
-https://coppermind.net/wiki/Knight_Radiant
+https://coppermind.net/wiki/Immortal_Words

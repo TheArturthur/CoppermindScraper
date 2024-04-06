@@ -65,20 +65,20 @@ Rather than excavating Stormseat, the listeners constructed their own settlement
 Following the [[Battle of Narak\|Battle of Narak]], the city has been taken over by humans, who turn it into a fortress to protect the Oathgate to [[Urithiru\|Urithiru]] and the route between it and the warcamps. The tower is repurposed into a lookout, and the buildings become barracks. The surrounding plateaus serve as training grounds for the [[Windrunner\|Windrunner]] squires and assembly points.. They are connected to each other and Narak by old bridges from [[Gemheart\|gemheart]] hunts, though plans are made to replace those with permanent structures.
 
 ### Notable Landmarks
-
+#### The Oathgate
 The [[Natanatan\|Natanatan]] [[Oathgate\|Oathgate]] is located in Stormseat. The platform survived the shattering of the [[Shattered Plains\|Plains]] intact and splintered off completely from the surrounding land in defiance of the pattern that governs the shape of the plateaus, suggesting that it's made of a sturdier material than the rest of the city. Though by now, the dais is buried in [[Crem\|crem]], it has retained its former shape near-perfectly. Inside, the control chamber has been preserved exceptionally well, with colorful mosaics on the walls and the floor retaining their hue and the lanterns around its circumference still whole. Despite the added mass on top, the Oathgate remains functional.
 When [[Listeners\|listeners]] live in Narak, the plateau is used as practice ground by their soldiers. Afterwards, it's restored to its former function, and a ramp is constructed to allow wagons and [[Chull\|chulls]] to climb onto it. One of the [[Knights Radiant\|Knights Radiant]] is on standby either there or at the matching Oathgate in [[Urithiru\|Urithiru]] most of the time to operate it.
 
-
+#### The tower
 The tower is one of the few structures that can be found both in ancient Stormseat and modern Narak, although its appearance has changed during that time. Over the centuries, it has turned into a spire akin to a stalagmite, with the space inside clogged up by dried-up [[Crem\|crem]]. Nonetheless, it remains standing despite being exposed to the elements for centuries.
 To return the tower to a semblance of its prior functionality, the [[Listeners\|listeners]] carved steps into its outer side and added a railing to prevent people from falling off. The very top of it has been flattened, and became the meeting spot for the [[Council of Five\|Council of Five]] that rules the listeners. Despite this accomodation, the climb is noted as difficult for listeners with physically-weaker forms.
 After humans reclaim Stormseat, the top of the tower becomes a watchpost to warn about approaching [[Voidbringer\|Voidbringer]] attacks.
 
-
+#### The Hall of Art
 A long pavilion near the center of Narak serves as the Hall of Art. It has walls covered with crem and numerous alcoves one can hide in, as well as a small pedestal in the center for models and references. To let in as much sunlight as possible, there is no ceiling. It is there that the [[Listeners\|listeners]] of various forms attempt to create artwork in hopes of attracting [[Creationspren\|creationspren]] and unlocking [[Artform\|artform]].
 After humans begin to repurpose Narak into a fortress, they find the Hall of Art and the abandoned works it contains. While they note the paintings as interesting, it's uncertain whether they do anything about them or attempt to use the room for something else.
 
-
+#### The watering square
 Outside the Hall of Art sits a watering square. There, a pool has been sculpted out of clay by [[Nimbleform\|nimbleforms]] to collect highstorm water for drinking. Despite the fact that it's the main source of water for the whole city, the [[Mateform\|mateforms]] sometimes bathe there, although that is heavily discouraged. It's likely the square still serves its former purpose now that Stormseat is controlled by humans.
 
 ## History

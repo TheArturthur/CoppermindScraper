@@ -65,4 +65,4 @@ House Venture family tree
 Individuals in House Venture (but not the House itself) are involved in [[Worldhopping\|worldhopping]] and interplanetary trade during the [[Final Empire\|Final Empire]].
 
 
-https://coppermind.net/wiki/House_Venture
+https://coppermind.net/wiki/Keep_Venture

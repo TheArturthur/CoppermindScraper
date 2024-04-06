@@ -101,16 +101,16 @@ When used, its effects are somewhat similar to those of Shardblades, but much mo
 ## History
  by  Matthew Johnson  Wielded by Vasher
 ### Nalthis
-
+#### Creation
 Nightblood was created in collaboration between [[Vasher\|Vasher]] and [[Shashara\|Shashara]], [[Returned\|Returned]] lovers and two of the [[Five Scholars\|Five Scholars]]. Shashara, a very talented [[Awakener\|Awakener]], has some feelings of envy after [[Yesteel\|Yesteel]] invents [[Ichor-alcohol\|ichor-alcohol]], so she begins experimenting with steel. She eventually discovers a method to Awaken steel and give it sentience, although she and Vasher do not fully understand how this is possible. She reaches the Ninth [[Heightening\|Heightening]] and uses a thousand [[BioChromatic Breath\|Breaths]] and a very difficult visualization to Awaken a sword with the [[Command\|Command]] "Destroy Evil." However, the sword had no concept of evil, and so the Breaths it inherited decided evil was "someone who would try to take the sword and use it for evil purposes; selling it, manipulating, and extorting others, that sort of thing."
 Nightblood was not black before being Awakened, and had a different name when originally Awakened. It is unknown when the sword changed color and began leaking black smoke; but the sword was renamed Nightblood due to these qualities sometime after Vasher used Nightblood to kill Shashara.
 Nightblood was not originally a [[Feruchemy\|metalmind]] or a [[Hemalurgic\|Hemalurgic]] spike. If a different Allomantically viable metal had been used, Nightblood would have likely manifested different powers and capabilities. Nightblood would not likely have had the same powers or capabilities had a different object been awakened. A shield for instance, would have a different response to the command to 'destroy evil'.
 
-
+#### The Manywar
 Nightblood was wielded by Shashara at the Battle of Twilight Falls during the [[Manywar\|Manywar]], with devastating effects. Vasher decided that the knowledge of how to Awaken Type IV Entities was extremely dangerous and had a falling out with Shashara, ultimately using Nightblood to kill her in order to keep her from spreading this information; she had previously leaked knowledge of how to make [[Lifeless\|Lifeless]] from a single Breath. Another of the [[Five Scholars\|Five Scholars]], [[Yesteel\|Yesteel]], somehow learned the secret of creating Type IV Entities but is not known to have actually done so.
 The sword had another name when it was created, but Vasher renames it "Nightblood" after killing Shashara. Nightblood knows that Shashara is his creator, but has no recollection of killing her.
 
-
+#### The Pahn Kahl Rebellion
 Vasher was in possession of Nightblood during the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] in 327 and warned [[Vivenna\|Vivenna]] against asking questions about Type IV objects. At one point [[Denth\|Denth]] took the sword from Vasher and threw it into a shallow bay (although Nightblood thought it was "the ocean"). Nightblood was able to get the attention of [[Chapps\|Chapps]], who took it out of the water, but later kills four people and himself. Vivenna then retrieved it and gave it to a group of soldiers to use, who also all die. Vasher finally found it and used it to destroy a large number of Lifeless while pursuing Denth.
 
 ### Roshar
@@ -121,7 +121,7 @@ Vasher was in possession of Nightblood during the [[Pahn Kahl rebellion\|Pahn Ka
 Some time later, Vasher traveled to Roshar but was eventually separated from Nightblood after some kind of falling out a few generations after the Pahn Khal Rebellion. Some time before this, Nightblood was brought to one or more planets other than Nalthis or Roshar, but when or to what planets is unknown.
 The [[Nightwatcher\|Nightwatcher]] somehow came in possession of Nightblood, and offered it to Dalinar during his visit to the [[Valley\|Valley]] in 1168 in the Vorin reckoning. At some point following this, [[Nale\|Nale]] came in possession of the sword.
 
-
+#### The True Desolation
 The sword next surfaced after the [[Battle of Narak\|Battle of Narak]], when it is given to [[Szeth\|Szeth]] after his death and restoration by Nale on Ishishach 1173.
 
 

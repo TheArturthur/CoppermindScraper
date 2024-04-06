@@ -104,4 +104,4 @@ A masked worldhopper with an accent foreign to [[Szeth\|Szeth]].
 
 
 
-https://coppermind.net/wiki/Silent_Gatherer
+https://coppermind.net/wiki/King%27s_Testers

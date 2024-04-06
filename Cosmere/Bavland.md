@@ -34,4 +34,4 @@ The Bav curse by "Dustmother", or [[Chemoarish\|Chemoarish]]. However, as Chemoa
 
 
 
-https://coppermind.net/wiki/Bav
+https://coppermind.net/wiki/Bavland

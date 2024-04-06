@@ -74,4 +74,4 @@ A [[Fabrial\|fabrial]] with a pewter cage will express the element corresponding
 
 
 
-https://coppermind.net/wiki/Pewter
+https://coppermind.net/wiki/Brute

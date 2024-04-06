@@ -40,4 +40,4 @@ Her first name is likely a reference to the  in Asia. Her maiden name is likely 
 
 
 
-https://coppermind.net/wiki/Himalaya
+https://coppermind.net/wiki/Himalaya_Smedry

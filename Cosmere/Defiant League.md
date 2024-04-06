@@ -13,4 +13,4 @@ Prior to the [[Battle of Alta\|Battle of Alta]], the humans lived in small clans
 
 
 
-https://coppermind.net/wiki/United_Defiant_Caverns
+https://coppermind.net/wiki/Defiant_League

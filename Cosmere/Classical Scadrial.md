@@ -54,13 +54,13 @@ Many nations during this time were ruled by monarchs, both kings and queens. Exa
 The various classical civilisations believed in a number of [[Terris Prophecies\|prophecies]]. These prophecies were about a Hero, called The Hero of Ages, who would one day save the world. The civilisations all had a different name for this Hero, with the Khlenni calling him Rabzeen, but the prophecies were the same.
 
 ### The Metallic Arts
-
+#### Allomancy
 During this time period, [[Allomancy\|Allomancy]] was almost entirely unheard of. Towards the end of the era, when the [[Deepness\|Deepness]] arrived, it began to snap people into Mistings; Mistborn did not appear until Rashek discovered and gave away the [[Lerasium\|lerasium]] located at the [[Well of Ascension\|Well of Ascension]].
 
-
+#### Feruchemy
 [[Feruchemy\|Feruchemy]] was the most wide-spread of the [[Metallic Arts\|Metallic Arts]], and even that remained isolated with the [[Terris\|Terris]] people. The Terris used Feruchemy for many things in their daily lives, from storing and tapping heat to pass through mountain passes to storing memories in their copperminds. [[Worldbringer\|Worldbringers]] in particular were known for using Feruchemy to record lore.
 
-
+#### Hemalurgy
 [[Hemalurgy\|Hemalurgy]] was unknown to most, although piercings were seen as a means of communicating with a deity. For this reason the Hero of Ages wore Hemalurgically-charged piercings. This was a result of [[Ruin\|Ruin]] manipulating the [[Terris Prophecies\|Terris Prophecies]].
 
 ### Technology

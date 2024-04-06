@@ -57,4 +57,4 @@ Within two hundred years of the Recreance, knowledge of the Radiants was already
 , is a word meaning shameful cowardice, lack of faith to one's honor or duty, apostasy, disloyalty, or desertion.
 
 
-https://coppermind.net/wiki/Day_of_Recreance
+https://coppermind.net/wiki/Recreance

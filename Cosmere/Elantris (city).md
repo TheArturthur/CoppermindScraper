@@ -160,4 +160,4 @@ Brandon designed the three gangs who hold sway over Elantris at the time of Raod
 The wall was not [[Soulcast\|Soulcast]] but was constructed by local magic.
 
 
-https://coppermind.net/wiki/Toa
+https://coppermind.net/wiki/Ake

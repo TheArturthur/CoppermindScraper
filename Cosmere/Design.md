@@ -1,12 +1,12 @@
-| **Design**         |                                                                                                                                |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| by  Aliya Chen     |                                                                                                                                |
-| **Abilities**      | [[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]], [[Worldhopper\|Worldhopper]] |
-| **Bonded With**    | [[Elhokar\|Elhokar]] , [[Hoid\|Hoid]]                                                                                          |
-| **Species**        | [[Cryptic\|Cryptic]]                                                                                                           |
-| **Homeworld**      | [[Roshar\|Roshar]]                                                                                                             |
-| **Universe**       | [[Cosmere\|Cosmere]]                                                                                                           |
-| **First Appeared** | *Oathbringer*                                                                                                                  |
+|**Design**|
+|-|-|
+|by  Aliya Chen |
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]], [[Worldhopper\|Worldhopper]]|
+|**Bonded With**|[[Elhokar\|Elhokar]] , [[Hoid\|Hoid]]|
+|**Species**|[[Cryptic\|Cryptic]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*Oathbringer*|
 
 This page or section needs to be updated with new information for *Rhythm of War* and *Yumi and the Nightmare Painter*!Be aware that in its current state, it may not include all additional content yet.
 

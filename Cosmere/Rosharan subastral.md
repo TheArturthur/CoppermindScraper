@@ -169,7 +169,7 @@ Shadows behave strangely in Shadesmar, depending on the source of light that is 
 The land in Shadesmar is made of a glassy, black obsidian. Because of the nature of this material, the ground is cold to touch and it is easy to move quietly. The ground can be used as a resource if necessary, although it is difficult to remove chunks of obsidian as it shatters if struck incorrectly. The spren rarely use obsidian as a building material because of this difficulty, although they occasionally create weaponry from it. To access pieces of usable obsidian, pickaxes are needed. Once removed, the obsidian is able to be [[Soulcast\|Soulcast]], and is easily persuaded to change into other materials.
 It is common to find peninsulas in Shadesmar as they are the mirror of Physical Realm rivers. The depth of the river does not dictate the depth of the peninsula and in most cases one would not be able to swim underneath the peninsula. Channels are sometimes cut in these sections of land to create more convenient sea routes for travelers and traders. Lighthouses can be found at the end of these peninsulas to signal to passing ships that they are close to land and that they should beware of hidden rocks. These lighthouses are also trade waypoints where ships can deliver goods or restock supplies for their ongoing journey.
 
-
+#### Shadesmar Oceans
 Instead of water, Shadesmar oceans, rivers, and lakes are made of small, translucent, dark glass beads, approximately the size of the tip of an index finger, a bean, or a fingernail. Each of these beads represent the soul of a non-living item in the Physical Realm, and have a very basic consciousness that is able to communicate its primal intent. The beads cannot always be understood and some spren are able to act as translators between beads and other parties. Beads can be removed from their location in the ocean and taken anywhere within Shadesmar, regardless of where its corresponding item is in the Physical Realm, as the body and mind of the object are connected via the [[Spiritual Realm\|Spiritual Realm]]. The beads must be stored securely, however, to prevent them from returning on their own to the corresponding location of their item. Consuming a bead and transitioning to the Physical Realm would have a negative effect. There are no beads that represent the power of the [[Shard\|Shards]] in the system.
 
 >“*He was left with only the endless view of the ocean. It bent his mind to think about those beads. The souls of all the objects that made up the physical world. Churning and mixing together, forming waves and surging tides, each composed of small beads no wider than his index finger.*”
@@ -182,10 +182,10 @@ Stormlight can be used on the beads to manifest objects from the Physical Realm.
 Like with water, it is possible to drown if pulled under the beads, as they will swarm beings if they make contact and will attempt to force their way into a person's mouth and throat, causing them to suffocate. It is not possible to swim through the beads as they provide no buoyancy, and instead people will sink into what feels like a viscous liquid. There is an underwater current that moves the beads, that is stronger than what would normally be found in Physical Realm oceans.
 
 ### Flora and Fauna
-
+#### Flora
 There is a variety of plant life in Shadesmar, which, like in the Physical Realm, appears to differ based on region. Plants and trees are made of different types of glass or crystal and can be a variety of colors. While a number of these plants are brittle and will shatter if touched, some are sturdier and are less prone to breaking. While some plants and trees share the same general physical shape as flora in the [[Physical Realm\|Physical Realm]], others, such as mushroom trees, are much more alien. Fully fledged forests can be found in the south of Shadesmar, both near the Thaylenah Oathgate and near [[Lasting Integrity\|Lasting Integrity]].
 
-
+#### Fauna
 Physical Realm creatures can also be found in the Cognitive, having been brought through a perpendicularity. While most Physical Realm animals seem to appear as they would in their natural habitat, [[Ryshadium\|Ryshadium]] trail a faint afterimage.
 An animal exists in the Cognitive Realm that vaguely resembles a horse, and is used in a similar manner, by true spren.
 
@@ -199,7 +199,7 @@ If someone is corrupted, their soul will turn red. The souls of [[Fused\|Fused]]
 If someone is to die in the Physical Realm, their soul flame will disappear. Although the deceased does not seemingly appear in Shadesmar after they die, as they do in the Scadrial subastral, it may be that they are just not visible to regular people, and one would need to be a [[Cognitive Shadow\|Cognitive Shadow]] themselves to see the newly departed soul. Similar to the beads, touching a soul flame will give the impression of the person it represents and it is possible to feel their emotions and general thoughts.
 Singers are closer to the Cognitive Realm than humans and this, in part, is what allows them to change forms. [[Lift\|Lift]] is also unique in that she exists partially in the Cognitive, which allows her to physically touch spren when it shouldn't be possible.
 
-
+#### Spren
 
 Shadesmar is predominantly populated by spren, with true spren organized in civilizations and lesser spren roaming wild, similar to animals as they would be found in the Physical Realm. Many of these lesser spren live within the bead ocean as they are drawn to human populations that are in the equivalent location in the other realm. There is a regionality to the spread of spren types and certain spren may be more commonly found in different areas. The number of spren in Shadesmar help to act as "release valves" for Honor’s splintered power, due to their nature as [[Splinter\|Splinters]].
 
@@ -214,7 +214,7 @@ Not all lesser spren reside in Shadesmar, with those that are more suited to pri
 
 Sapient spren that have transitioned themselves to the Physical Realm, including corrupted spren, to become [[Fabrial\|fabrials]] and [[Soulcaster\|Soulcasters]] still manifest in the Cognitive Realm. Soulcaster spren are small and unresponsive, and appear in Shadesmar with their eyes closed, while corrupted spren have more of an ability to communicate and are more aware of their surroundings.
 
-
+#### Urithiru and the Sibling
 >“*The mother-of-pearl radiance didn’t exactly mimic the shape of the tower, but had a more crystalline feel to it. Except it wasn’t physical, but light. Radiant, resplendent, and brilliant.*”
 \-Adolin marveling at the Sibling[26]
 
@@ -222,14 +222,14 @@ In Shadesmar, the [[Sibling\|Sibling]] resembles a shimmering mountain of bright
 Spren can be harder to see when peaking into Shadesmar, due to the light given off by the Sibling, although it is not impossible to see regular spren or [[Voidspren\|Voidspren]]. The tower has some form of protection in Shadesmar against the more violent types of spren, who could be a danger to anyone in the Cognitive Realm and vicinity.
 Urithiru sits at a higher elevation than the bead ocean and ramps can be found spiraling down from the [[Oathgate\|Oathgate]] platforms, for those who need to reach the ocean below. Because of Shadesmar’s compressed space, the distance from the top of the Oathgate pillar to the ocean is smaller than it would be in the Physical Realm. The glow from the tower, though not the tower itself, can be seen from sea level.
 
-
+#### Unmade
 Many of the [[Unmade\|Unmade]] exists within the space between the Cognitive and Physical Realm, and were deliberately trapped there by [[Odium\|Odium]]. They are able to see into both, however the corporality of their form in either realm differs between individuals. Different Unmade may have varying levels of control over which plane they exist in at any given time, and how much they can move around the different realms.
 
 ### Climate
 Weather patterns in Shadesmar differ to those from the Physical Realm, and are not based on temperature or precipitation. As such, travelers and residents of the Cognitive Realm do not need shelters that are equipped to deal with storms or bad weather. There is also no wind in Shadesmar.
 Instead of physical patterns, the Shadesmar weather has a direct effect on the emotions and wellbeing of spren, causing them to feel invigorated on some days and dreary and weighed down on others. Both true spren and lesser spren are affected by these weather patterns, with lesser spren becoming aggravated depending on the weather. This phenomenon is also seen with the passing Highstorm, which provides true spren with energy and helps to revitalize them.
 
-
+#### Types of Weather Patterns
 
 On a crystalline day, a faint violet-pink shimmering haze can be seen in the air in the far distance. Plants are also affected on these days and will grow faster, with changes being visible to the naked eye. Before plant growth occurs, a faint shimmer can be seen in the surrounding air. Pink crystal fuzz will also spontaneously grow on objects before spreading over nearby surfaces.
 
@@ -245,7 +245,7 @@ The Highstorm appears as ripples and vibrant colors in the sky, with shimmering 
 The three realms blend together within the Highstorm, and an Invested person can briefly see into the Spiritual Realm if they are able to access the storm via Shadesmar. However, it does not appear possible to access the Physical Realm using this method. The Stormfather is able to sense someone accessing the realms through the Highstorm in the Cognitive Realm, however, this is not a common occurrence. This connection is not two ways, however, and the person in the storm cannot sense the Stormfather.
 
 ### Perpendicularity
-
+#### Honor's Perpendicularity
  by  Wanda Sonnemann  Dalinar opening Honor's Perpendicularity
 [[Honor's Perpendicularity\|Honor's Perpendicularity]], also referred to as Honor’s path, is an unstable portal that can allow for transport between the Physical and Cognitive Realm. It moves around Shadesmar randomly, however, can be summoned by both Dalinar and [[Ishar\|Ishar]]. The Stormfather can feel when the perpendicularity is opened, except when done by Ishar. The [[Fused\|Fused]] also appear to be negatively affected by the perpendicularity.
 The size of it when opened can be controlled and the perpendicularity often, but not always, shrouds the summoner in a bright, almost impenetrable light. This light is also blinding to the summoner from their place within the perpendicularity, with people in the vicinity being hard to see. Some people and objects, however, such as Ishar and [[Nightblood\|Nightblood]], can be seen clearly when they are within the perpendicularity. In Shadesmar, Honor’s Perpendicularity forms as a brilliant glowing pillar. If forming above the ocean, the perpendicularity will create a path from itself towards the land so it can be reached, by locking the beads together into a solid object. It is quite taxing to hold open. The perpendicularity can be consumed by Nightblood if he is drawn within it. If he is stabbed into its center, the perpendicularity will be closed but not destroyed.
@@ -254,7 +254,7 @@ The perpendicularity forms during each Highstorm, however does not appear to be 
 When moving freely of its own accord, Honor’s Perpendicularity is considered to be unpredictable and dangerous and will appear randomly at different points across the Cognitive Realm. Due to its wild nature, guides advise against travelers trying to locate it.
 It is potentially possible to open Honor’s Perpendicularity at Urithiru, however, it requires strong magical abilities, and may not be possible if a [[Bondsmith\|Bondsmith]] is below the Fourth Ideal. There is both a measure of strength and a measure of skill required.
 
-
+#### Cultivation's Perpendicularity
 [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] resides in the [[Horneater Peaks\|Horneater Peaks]], with clans of [[Unkalaki\|Unkalaki]] living on both sides of the portal. Although it is a working waypoint between the realms, the Horneaters that guard the perpendicularity are not amenable to travelers, though some worldhoppers have gained access to the portal and transitioned between the different planes. It is unclear whether this is with the permission of the Unkalaki people.
 As there are Physical Realm items that pass through Shadesmar, it is possible that some level of trade is allowed by the Horneater people, though they are selective of who can trade through the perpendicularity. The [[Dawnshard\|Dawnshard]] is known to have arrived on [[Roshar\|Roshar]] through Cultivation's Perpendicularity.
 
@@ -356,14 +356,14 @@ There is a level of hostility between the [[Honorspren\|honorspren]] and the [[F
 The [[Ghostbloods\|Ghostbloods]] are planning to commercialize [[Stormlight\|Stormlight]] and create a monopoly, due to its easy transportability to an off world market, by utilizing Shadesmar. A trade path has been established through the [[Sea of Lost Lights\|Sea of Lost Lights]]. With the main currency in Shadesmar being Stormlight, this would likely have a profound and wide reaching effect on the realm and would give the Ghostbloods and [[Thaidakar\|Thaidakar]], a large amount of power in Shadesmar.
 
 ## Culture and Society
-
+#### True Spren Societies
 True spren live in a number of cities and other settlements in Shadesmar. Some of these cities are inhabited and ruled by a single type of spren, however, not all Radiant spren their own kingdom, and some settlements are a conglomeration of different spren types. [[Cryptic\|Cryptics]] are known to rule one of the greater cities in Shadesmar, and the [[Honorspren\|honorspren]] have control of multiple locations. [[Cultivationspren\|Cultivationspren]] rule no cities in the realm. However, the true spren types are not homogenous, with different nationalities and subgroups being found in the different regions of Shadesmar.
 The longstanding presence of one type of spren in a given area, can affect the fundamental forces in that section of Shadesmar, and although this may mimic [[Surgebinding\|Surgebinding]], these environmental changes are caused by another mechanism. Some spren choose to build their cities in particular parts of Shadesmar for specific reasons, that may be related to these realmatic changes, however, this is rare and the different spren types mostly choose areas where they can assert political control. The [[Lasting Integrity\|honorspren capital]], however, is one such place where the environment has been altered and the spren of this keep have utilized and integrated these changes into their lifestyles. Most, if not all, spren cities utilize manifested objects to create their buildings.
 The lack of water in Shadesmar, leads the spren to keep stores of sand in their cities in the case of fires. They rarely use obsidian chunks as a building material even though is is abundantly available, although they occasionally create weapons using this resource.
 Like many of the Physical Realm Rosharan societies, the true spren disapprove of fortune telling and claims of predicting the future. Any who practice this discipline are shunned and forced to the outskirts and remote locations of the realm if they wish to practice their trade.
 There is an spren festivity known as the [[Feast of Light\|Feast of Light]].
 
-
+#### Deadeyes
 >“*It seemed as if someone had taken a knife to her face, except she hadn’t bled or been scarred by the cuts. She’d been erased. Ripped apart. Removed from existence. When she looked at Adolin, she seemed like a painting that had been vandalized.*”
 \-Description of Maya[26]
 
@@ -377,26 +377,26 @@ Although deadeyes physically live in Shadesmar, like with Radiant bonded spren, 
 Deadeyes are often placid, and unfazed by what goes on around them. However, that does not mean they are unable to feel stronger emotion or become dangerous if provoked, though this is rare. Deadeyes can be found wandering aimlessly around Shadesmar and are known to wander off without care for their surroundings. This has led to some spren imprisoning deadeyes to prevent them from leaving on their own, though this does not prevent them from being summoned as a Blade.
 The [[Honorspren\|honorspren]] of [[Lasting Integrity\|Lasting Integrity]] often find lost deadeyes in the barrens or the shallows of the ocean nearby their keep, and will bring them back to Lasting Integrity to take care of them. The honorspren take their duty seriously and the deadeyes are treated well in their care. Although, despite their good intentions, the honorspren do have a habit of being dismissive of deadeyes.
 
-
+#### Human Societies
 Generally humans that visit Shadesmar are refugees, merchants, or explorers. There are some permanent human settlements, such as a clan of [[Horneater\|Horneaters]] who live near [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] on the [[Horneater Peaks\|Horneater Peaks]]. Some of the true spren are not used to dealing with humans from [[Roshar\|Roshar]] proper, likely because the [[Cognitive Realm\|Cognitive Realm]] has not been visited by Rosharans for several millennia.
 
 ### Travel
  by  [[Mandra\|Mandras]] are often used to pull ships through Shadesmar's seas
-
+#### Local Travel
 Travel is largely conducted by [[Reachers\|Reachers]] and [[Peakspren\|peakspren]], who can be hired for travel over both land and sea. They utilize [[Mandras\|mandras]] for sea travel in lieu of standard sailing equipment to offset the lack of wind in Shadesmar. Multiple mandras have to be used at the same time on all ships, as these spren will occasionally be pulled into the [[Physical Realm\|Physical Realm]] and vanish -- a phenomenon known as "dropping." Ships in Shadesmar move faster than an average ship in the Physical Realm, largely because they are not dependent on wind direction and can use the most efficient path to reach their destination. Some ships will keep rations and a water making fabrial aboard in case they take on human passengers.
 Not all ships are equipped, or willing, to take on humans. Although dock registrar's will keep a list of all ships in port and their destinations, as well as which will take passengers, they do not keep records of which ships are human friendly, and humans looking for passage must visit each ship individually to enquire.
 Land travel is conducted using established caravan routes. A large number of caravans can be commonly found on the southern edge of Shadesmar near the [[Expanse of Vibrance\|Expanse of Vibrance]] and it is not unusual for these caravans to include humans.
 
-
+#### Realmatic Travel
 Travel between the realms is possible through the use of the [[Oathgate\|Oathgates]] or [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. Those with access to the Surge of Transportation are also able to physically move between the realms, although it is harder to move from Shadesmar to the Physical than vice versa. [[Stormlight\|Stormlight]] is necessary when using the Oathgates or Elsecalling. [[Odium\|Odium]] is also able to transition [[Cognitive Shadow\|Cognitive Shadows]] and the [[Unmade\|Unmade]] between the realms to allow them to take over a physical host’s body. He does this by pulling the souls “along ancient paths."
 Communication between the Physical Realm and Shadesmar is slow moving and likely requires the physical delivery of information through traders and travelers. Instantaneous communication methods such as spanreeds do not work across the realms, likely due to the nature of spren. Unbound [[Seon\|seons]], however, can be used to communicate with those on the different planes, provided one can be found and is willing to provide help with communication.
 Due to the nature of the Cognitive Realm, it is possible to reach different worlds in the [[Cosmere\|cosmere]]. However, this is significantly harder for highly Invested individuals who are [[Connection\|Connected]] to [[Roshar\|Roshar]].
 
 ### Economy
-
+#### Currency
 [[Stormlight\|Stormlight]] is the major currency of Shadesmar, however, due to its propensity to quickly fade, some cities have banks where infused gems can be exchanged for tokens. The Stormlight is then transferred into [[Perfect gemstone\|perfect gemstones]] so that it will not fade and is available for future use. Infused [[Sphere\|spheres]] can be used as currency though it is up to the merchant to decide if they will accept spheres directly, and while dun spheres can be traded, they are worth much less. In general, spren care very little about gemstones themselves or their value, and are instead only interested in any Stormlight the gems carry.
 
-
+#### Trade
 [[Reachers\|Reachers]] and [[Peakspren\|peakspren]] are commonly found as traders and sailors in Shadesmar, often transporting goods between the different port cities. There are dedicated cities and towns that act as waypoints where traders can resupply during their journeys. Haggling is an accepted practice in at least some trade cities. Trade within these places is conducted in an open aired manner as the realm does not need to worry about weather issues.
 Items that are imported from the [[Physical Realm\|Physical Realm]] are considered much more valuable than manifested items because they will not eventually disappear. However, these are much harder to obtain as they have to be brought through a perpendicularity or [[Oathgate\|Oathgate]]. This has been historically unattainable since the [[Recreance\|Recreance]], as the Oathgates had been sealed and abandoned and the [[Horneater\|Horneaters]] that guard [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] were not receptive to travelers using the waypoint. Non-manifested weapons, in particular, are worth a lot of money in Shadesmar. Following the [[True Desolation\|True Desolation]], traders from outside of the Rosharan system increased in traffic, with people being drawn to the subastral by stories of [[Shardblade\|Shardblades]], and a desire to purchase them. Rosharan wines are also popular off-world.
 As well as being the major currency, Stormlight is a valued commodity because it can be used to manifest objects from the Physical Realm. These objects can then be sold as wares by a merchant. The price set for an manifested item is reflective, not of the craftsmanship of the item, but the length of time the object will last in Shadesmar before it disappears, These items, however, can be reinfused so that they will last longer. The skill of the manifester determines the length of time the item will remain in the realm, although the ability to manifest objects is rare, can be quite dangerous, and is rather draining.
@@ -408,7 +408,7 @@ Human rations are available for purchase in Shadesmar cities and are sometimes c
 
 ### Leisure Activities
  by  Bonnie Johnson  [[Wyndle\|Wyndle]] gardening
-
+#### Gardening
 Gardening appears to be an art form in Shadesmar, that is enjoyed particularly by [[Cultivationspren\|cultivationspren]]. It differs from Physical Realm gardening, with the cultivation of plants being considered mundane and pedestrian. Instead, Shadesmar gardening involves growing items out of crystals, based on the souls of objects, though this method is distinctly different from manifesting souls. Cultivationspren are known to create gardens of chairs. Like with Physical Realm artwork, these garden creations are put on display in exhibitions where they can be viewed by other spren.
 
 ### Clothing
@@ -424,7 +424,7 @@ Like humans, spren speak a multitude of different languages that appear to have 
 There appears to be some languages that are specific for different types of spren. Not all languages are verbal, with some spren, such as [[Reachers\|Reachers]], being able to communicate using vibrations passed through metal plates.
 
 ### Religion
-
+#### Mythology
 Following the [[Recreance\|Recreance]], the disappearance of the [[Knights Radiant\|Knights Radiant]], and the locking of the [[Oathgate\|Oathgates]], knowledge of Shadesmar disappeared from the general population, and the realm faded into myths and legends, eventually becoming known as the mythical kingdom of the [[Spren\|spren]]. This fictionalization of the realm was further fueled by the [[Vorinism\|Vorin Church]] during the [[Hierocracy\|Hierocracy]], who tampered and altered a great number of texts to remove or change information about Shadesmar, in their effort to expunge knowledge of the Recreance and Knights Radiant from historical record. Older texts on [[Roshar\|Roshar]] still contain mentions of the [[Cognitive Realm\|Cognitive Realm]], including in literature and children’s books. Folklore contains references to those with backwards shadows, like one would have in Shadesmar, and describes the individuals as being cursed.
 Shadesmar is still believed to be real by at least some inhabitants of Roshar, prior to its "re-discovery" in 1174. [[Jasnah Kholin\|Jasnah Kholin]] has written about the realm in some of her earlier scholarly works, and at least some in the [[Ardentia\|ardentia]] are aware that Shadesmar is a real place.
 
@@ -432,7 +432,7 @@ Shadesmar is still believed to be real by at least some inhabitants of Roshar, p
  by  LittleGreyDragon  Jasnah Elsecalling Shadesmar beads
 Some species and people have a more natural ability to view the Cognitive Realm. [[Singers\|Singers]] can commonly see some level of Shadesmar, which usually equates to seeing the entirety of a [[Spren\|spren]]’s physical appearance, while humans rarely can see the other realm. Some [[Horneater\|Horneaters]] also have the ability to see spren that are invisible to others, though it is unclear if this is related to their singer ancestry, or their interactions with [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. [[Cultivation\|Cultivation]] has the power to permanently move someone more into the Cognitive than they normally would be, which can allow them to physical touch spren that are not manifested.
 
-
+#### Surgebinding
 All [[Knights Radiant\|Radiants]] have an attachment to Shadesmar, by virtue of the [[Nahel Bond\|Nahel Bond]], and on occasion, they can see a glimpse of the realm. Orders that have the Surges of Transformation or Transportation have greater access. Due to this higher affinity, it is particularly dangerous for [[Order of Elsecallers\|Elsecallers]], [[Order of Lightweavers\|Lightweavers]], and [[Order of Willshapers\|Willshapers]] to visit Shadesmar without sufficient Stormlight as it risks their minds or body becoming trapped. All three orders are capable of mentally peeking into Shadesmar, although there is a level of talent involved in this process. This ability is a "quiet" use of [[Investiture\|Investiture]] and will not draw the attention of [[Secretspren\|secretspren]].
 During times where the realms are closer, or combined, it is easier to access Shadesmar and an overlay effect can occur with the [[Physical Realm\|Physical Realm]]. [[Soulcast\|Soulcasting]] also becomes much easier to perform. When in Shadesmar, Soulcasting can be performed on any physical material that is in the Cognitive Realm, however, if performed on the beads then only the object in the Physical Realm is affected. Items that fully exists in Shadesmar, however, can be changed into other substances as would normally occur. Soulcasting items that are in the Cognitive Realm is easier than changing the souls of the beads.
 Elsecalling to Shadesmar requires a large amount of Stormlight, and it is harder when moving from the Cognitive to the Physical, than the other way around. Although it is possible to leave the Cognitive from any point, those who are less experience with using Transportation, require a transfer point, where the Physical and Cognitive Realms are closer together, to be able to make the journey.

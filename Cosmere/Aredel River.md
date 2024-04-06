@@ -11,4 +11,4 @@ The Aredel River appeared on Aon Eno, the character for water.
 
 
 
-https://coppermind.net/wiki/Aredel_River
+https://coppermind.net/wiki/Aredel

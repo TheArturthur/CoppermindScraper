@@ -7,6 +7,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**First Appeared**|*Oathbringer*|
 
 **Beard** is an eccentric member of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is a part of [[Noro\|Noro's]] squad, Platoon Seven, Squad Two.
 

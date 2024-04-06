@@ -26,4 +26,4 @@ When Raoden reconnected Elantrians with the Dor it would seem Taan was also save
 
 
 
-https://coppermind.net/wiki/Taan
+https://coppermind.net/wiki/Aanden

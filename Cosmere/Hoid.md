@@ -131,7 +131,7 @@ Another thing he finds joy in is getting away with things.
 For unknown reasons, he was willing to turn down the immense power of a [[Shard\|Shard]] when it was offered to him. This is likely connected to his self-professed distrust of the [[Vessel\|Vessels]] to make their own decisions.
 He has a very negative outlook on himself, often believing that he has no answers for others or even any answers at all, believes that he should never be trusted due to what he is willing to do to achieve his goals, he thinks himself arrogant and regrets many of his actions and inactions throughout his life, and he does not consider himself a good man. He even considers a Dawnshard itself to have become completely worthless in his wearing of it.
 
-
+#### Philosophy
 He believes that the main thing that people value in creation is not the creation itself, but the novelty, timeliness, and originality of it. Observing that if two people make the same discovery independently, the one who reveals their discovery first is the one given credit and lauded for their innovation, while the second is considered a forger. That if two artists create similar works of comparable pulchritude independent of each other, one would be lauded and the other would be bemoaned as derivative. He claims that if it was truly a matter of the aesthetic beauty of a work, it would not matter which came first. From this, he claims that the idea that what is valued most is creative ability, wisdom, and invention to be nothing more than a lie that humanity tells itself. He admits that it is a rather cynical viewpoint, but holds to it regardless.
 He feels that art and aesthetic beauty is not some eternal idea outside of humanity, but rather that it inherently relies upon and is defined by humanity. That art produced with low audience expectations can gain much love and loyal following from those given more then they expect; but conversely, an artist held in very high esteem can have their works torn apart and considered a failure for falling even slightly short from expectations. Aesthetic beauty is given definition through audience expectation and interpretation, it relies deeply upon audience participation, and therefore is not eternal and independent. He claims that this aspect of art makes it fundamentally unfair. He furthers this idea to say that the concept of expectation defining value extends to all parts of life, such as in financial gains.
 He believes that all great art is necessarily hated by some due to the variety in human tastes. To make it so nobody would hate a work of art, one must remove everything that makes it special, therefore making it so that it is loved by nobody. Being hated is not proof that art is great, but not being hated is proof that it is not. He believes that art is about emotion, examination and going places people have never gone before to discover and investigate new things; it is from this definition of art, and his recognition of the subjective nature of aesthetic taste, that he argues that all great art is necessarily hated by somebody. When questioning himself on how many people need to love a work of art to outweigh the hate it inevitably inspires, and balance out the risk. Thus, if even one person loves a work, no matter how many people hate it, it is worthwhile.
@@ -163,7 +163,7 @@ Hoid travels between various planets within the cosmere by making use of [[Perpe
 
 Hoid held the [[Dawnshard\|Dawnshard]] with an intent diametrically opposed to the concepts of harm and violence for a long period of time. His time holding it caused changes to his spiritweb in a similar manner to [[Savant\|savantism]]. These changes meant that long-term, Hoid found himself unable to inflict harm on himself or any others, as well as unable to eat meat he believes was naturally produced (i.e., he could eat meat he believes was made in a lab or by magic). His Dawnshard is in some way connected to the [[First Gem\|First Gem]], his eponymous topaz. There were other side effects of the Dawnshard. Hoid held it for so long that not only is he ageless, it has become essentially impossible for him to die. While other people who have held this Dawnshard have gained the ability to Skip and teleport from planet to planet, Hoid has not for most of his life had access to this ability, and it is uncertain if he ever gained it.
 
-
+#### Time-Dilation
 In addition to his agelessness, Hoid has not actually experienced all those years, instead making use of some time-dilation technique that may render him somehow unconscious or unaware. However, Hoid does not have the ability to travel backwards in time.
 
 ### Healing Factor
@@ -182,7 +182,7 @@ Hoid has access to an ability that allows him to make use of the Spiritual attri
 ### Connection
 Hoid has access to some manifestation of Investiture that allows him to manipulate the Spiritual attribute of [[Connection\|Connection]]. The full extent of this ability is unknown, but its primary known use is to help Hoid speak the various languages of the worlds of the cosmere that he visits. The ability allows him to Connect to whatever land he is in, temporarily altering his Spiritual aspect to believe that he was raised in that place, allowing him to speak as a native. While Hoid has learned naturally how to speak some foreign languages, and is decent with languages, he desires to pass as a local oftentimes, which requires something beyond natural learning. Generally he makes use of his Connection ability to communicate in foreign languages. This ability is not without fault though, as when Hoid speaks naturally it will fill in local idioms and phrases on its own, but if Hoid is careless and focuses on a specific word or phrase the ability may fail and he will say the word verbatim in his own tongue or it may be said in an odd way. Hoid is an expert in using his Connection ability, but even he sometimes makes mistakes. This is the reason he occasionally slips up and may say words that confuse others, such as "coin" and "bunny" on Roshar. As Hoid has demonstrated the ability to fluently speak foreign languages before the knowledge of unsealed metalminds became widespread, it is unlikely that he is making use of Feruchemical [[Duralumin\|duralumin]] to manipulate Connection.
 
-
+#### Visions
 Hoid, via unknown means, is able to enter and exit certain [[Visions\|visions]], as well as bring those he is bonded with, like Design. While doing so, he creates a large, pure white bubble of light, which can shelter those who have been brought into the vision naturally. While in the vision, Hoid is able to create whatever objects he wants. Hoid is only able to do this for roughly twenty minutes before being detected.
 
  by  Katie Payne 
@@ -216,11 +216,11 @@ His knowledge of AonDor is strong enough that he is able to hack the system in o
 ### Storytelling Method
 Hoid tells stories with smoke and sand.
 
-
+#### Sand
 On Nalthis, [[Lightsong\|Lightsong]] calls Hoid to tell the story of [[Hallandren\|Hallandren]] history to him and [[Siri\|Siri]]. As he told the story, he dropped sands, dusts, and small objects, mixing them together to produce various effects.
 He began by trailing sand out of his hand, then he added a powdery black sand, when both trails mixed it became a white sand. He began to scatter fern leaves and then threw the handful up with blue and deep red dust making it seem like a minor explosion. He sprinkled silver glitter in front of him, then trailed powdery brown dirt. Black dust, and then [[Tears of Edgli\|flower petals]]. He then sent out a spray of half a dozen colors from both hands. Then bright yellow dust from one hand and black from the other. Torn writing on paper, followed by metal bits, black charcoal dust from both hands, he crumbled clay, sprinkled golden dust around, bits of grass and earth, a white powder and then a spray of water that turned into mist.
 
-
+#### Smoke
 While telling stories with smoke he uses a flute, blowing the smoke, it may be [[Yolish Lightweaving\|Yolish Lightweaving]] that causes patterns and images to appear in smoke.
 On Roshar, the chasms echoed the music allowing him to speak and play, without the music ever seeming to stop. It is unclear how the flute could be used without chasms or canyons.
 
@@ -292,7 +292,7 @@ In Palah 1170 during the [[Middlefest Fair\|Middlefest Fair]] in [[Jah Keved\|Ja
 He met [[Lift\|Lift]] at some point after her blessing by the [[Nightwatcher\|Nightwatcher]] in 1170, but before her heist on the [[Bronze Palace\|Bronze Palace]] in 1173. She was fond of him, and they parted ways when he jumped into the mouth of a [[Greatshell\|greatshell]].
 [[Ishikk\|Ishikk]] was hired by three men from the [[Seventeenth Shard\|Seventeenth Shard]] to search for Hoid in the [[Purelake\|Purelake]], though all four failed to find him. He searched for five months, though came up with no results.
 
-
+#### The War of Reckoning
 Only a few months before the greatshell hunt on Kakabach 1173, he became the King's Wit, [[Elhokar Kholin\|Elhokar Kholin's]] court jester. As the king lived at the [[Shattered Plains\|Shattered Plains]] in order to better lead his people during the [[War of Reckoning\|War of Reckoning]], Wit spent most of his time at the plains. He was aware of Sigzil being held in slavery at the plains, but still avoided interacting with him, though not necessarily out of a lack of care.
 Through his role as Wit, he kept his eyes upon and influenced [[Dalinar Kholin\|Dalinar Kholin]], going so far as to ask him if he has ever heard the term "Adonalsium", as he believed that he was involved in secret societies such as the [[Sons of Honor\|Sons of Honor]], and thought that [[Gavilar Kholin\|Gavilar Kholin]] confided in him; his suspicions were proven wrong.
 He also told [[Kaladin\|Kaladin]] the story of [[Derethil\|Derethil]] and the *Wandersail* on Tanataches 1173. During the course of the story, Hoid uses a special, ancient flute called a [[Trailman's flute\|Trailman's flute]]. It is also likely that he used his [[Yolish Lightweaving\|Yolish Lightweaving]] to cause the smoke from the fire to take the form of various elements from his story. He told the story in order to teach Kaladin to take responsibility. As he sent him off, he gave him his Trailman's flute, and asked him to take care of Sigzil.
@@ -306,34 +306,34 @@ Hoid, acting as Wit, visits [[Kaladin\|Kaladin]] while he is in prison on Ishaha
  by  taratjah  Hoid, in his Wit persona
 After the start of the True Desolation circa Ishishach 1173, on the day that the Everstorm was projected to hit [[Shinovar\|Shinovar]] on Jesesev 1174, he monologued to a Sleepless Hordling about the nature of art. After he finished his monologue, he met with [[Jasnah Kholin\|Jasnah Kholin]] as she exited the Cognitive Realm, offering to travel with her.
 
-
+#### Siege of Kholinar
 Hoid next appeared as Wit in Alethkar, discussing the nature of power with Shallan. Prior to that, while telling the story of Mishim in Alethkar, Hoid sees something next to his pack, which startles him. After the story, Shallan looks into Hoid's pack and sees a small, sealed black jar. The side of the jar pointing at Shallan was white. This might be a jar of sand from [[Taldain\|Taldain's]] Dayside, with the sand turning white showing Hoid a Surgebinder is near. This may be important, but not much is known about it. During Hoid's conversation with Shallan, he says that he knew of a group like the Cult of Moments, describing them as equally foolish and dangerous. It is unclear at the moment which group he may be referring to.
 He later helps her get into the Cult of Moments, finding Shallan at her darkest moment, when she discovered the food she has been giving to the poor is just making things worse.
 [[Shalash\|Shalash]], upon seeing sketches of [[Talenel\|Talenel]] and herself, wondered aloud why Midius, another name for Hoid, was giving away drawings of them.
 
-
+#### Bonding of Design
 Shortly after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] circa Nanishah 1174, Hoid was in [[Kholinar\|Kholinar]] insulting a [[Thaylen\|Thaylen]] man in an attempt to elicit a reaction. Upon realizing that the man couldn't understand Alethi, Hoid decided that repeating it all in Thaylen would be boring, so he cut in front of the man. The man hit Hoid, knocking loose a tooth which Hoid discarded upon leaving the area. While in the city, he noticed Vatwha, recognizing her as an old acquaintance. Despite this old camaraderie, the Fused were trained to watch for him - most likely to capture him and deliver him to [[Odium\|Odium]].
 While walking through the city he found a child around the corpse of her mother, and used [[Awakening\|Awakening]] to lure her away from the body, leaving her in the care of a family in the city. He then headed to the palace where he finds a [[Cryptic\|Cryptic]], the spren [[Elhokar\|Elhokar]] was about to bond before he died. This Spren was [[Design\|Design]], and he bonded to her, becoming a Knight Radiant of the [[Order of Lightweavers\|Order of Lightweavers]].
 During an unknown point in the year between his bonding of Design and the expedition in [[Emul\|Emul]] and Singer occupation of Urithiru, he and [[Jasnah\|Jasnah]] began a romantic relationship.
 
-
+#### Campaign in Emul
 He and Jasnah both went to the expedition in Emul in 1175. During their expedition, [[Ruthar\|Ruthar]] angered them both greatly, and Jasnah sent him to insult the highprince. After doing so, Ruthar challenged him to combat, but he chose Jasnah as his champion. She easily stabbed him through the throat, but had Renarin heal him.
 He later noticed that a Sleepless was spying upon him and Jasnah.
 When Kaladin was stuck in a vision by Odium, he and Design appeared to him in order to tell him the story of the Dog and the Dragon, in order to try and cheer him up and point him in the right direction.
 
-
+#### Writing the Contract and the Ascension of Taravangian
 He and Jasnah worked together in order to write up a contract for the contest of champions with Odium.
 Some time after Taravangian took up Odium on Vevishev 1174, Hoid was visited by the new Vessel while he was telling stories at the Shattered Plains. Taravangian's demeanor revealed what happened to Hoid, who, terrified by the idea of Odium having a new Vessel, began to leave. Realizing that he was found out, Odium rammed into him with energy in order to lock him in place, trying to find a way to harm him without breaking the Shardic oath he was still held to. While searching, he discovered that Hoid kept his short-term memories stored in his Breaths. He destroyed these, erasing part of his memory, in order to redo the interaction. In this second interaction, Taravangian was able to interact with Hoid while successfully convincing the man that he was still Rayse. Hoid left this second conversation believing that everything had gone according to plan. However, afterwards he became aware of the fact that his memories were stolen and instituted protection protocols to defend himself if something or someone tried to interact with his soul.
 The destruction of his Breaths led him to falling below the Second Heightening, and losing his Perfect Pitch.
 
-
+#### Sigzil and the Dawnshard
 >“*I was wrong. I did the best with the situation I had, hoping it would prevent calamity. I ruined your life, and I was wrong. I’m sorry.*”
 \-Hoid to Sigzil[6]
 
 
 At some point, Hoid asked his apprentice Sigzil to briefly take up the same Dawnshard that gave Hoid his immortality, an action that he believed would be necessary to avert calamity. Hoid passed the Dawnshard to Sigzil, who was changed in some ways that were similar to Hoid, acquiring the ability to Skip to any planet in the cosmere, as well as his own inability to do violence. This action would ultimately cause Sigzil to nearly kill his spren [[Auxiliary\|Auxiliary]] when the Dawnshard drew upon the Investiture that made up the spren in an attempt to defend itself. This action ruined Sigzil's life, and forced him to remain on the move outrunning the [[Night Brigade\|Night Brigade]] in their quest to capture him. Hoid regained possession of that Dawnshard again as well, meaning Sigzil was ultimately running from the Night Brigade to prevent them from finding Hoid. However, Hoid had come to feel sorrowful for his actions there, and felt like though his motivations were noble, the outcomes were ultimately not worth it and he was wrong to have done what he did.
 
-
+#### The Letters
  by  Jenny Slife  With Frost
 At some point, he wrote a letter to [[Frost\|Frost]]. He wrote about how he was being hunted by the Seventeenth Shard and has set a false trail for them to follow, referencing the three figures sent by the Seventeenth Shard that were searching for him. He came across as not at all worried about them, and in fact seemed mildly amused. He also asked Frost for his support in stopping Rayse, but was dismissed since Odium was trapped in the [[Rosharan system\|Rosharan system]].
 He attempted to contact various Shards about Rayse and his worries that he would eventually escape. The figures he contacted were [[Endowment\|Endowment]], [[Autonomy\|Autonomy]], and [[Harmony\|Harmony]]. The first two responded with aggressive dismissal, but Harmony was very receptive to his contact and responded curiosity and a desire for further contact.
@@ -486,4 +486,4 @@ For several books, Hoid's best friend was somebody named Bat'Chor. This may no l
 Hoid is a fan of ramen. and co-owned a restaurant called the [[Noodle Pupil\|Noodle Pupil]] on [[Komashi\|Komashi]] with [[Design\|Design]] before Design gave it away to [[Yumi\|Yumi]] and [[Nikaro\|Nikaro]].
 
 
-https://coppermind.net/wiki/Topaz
+https://coppermind.net/wiki/Lunu%27anaki

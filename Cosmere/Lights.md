@@ -68,10 +68,10 @@ And finally, the similarities with gases are most evident in how Light behaves w
 All Lights can be stored in gems. How long a given quantity of Light will remain in a specific gem depends on the type of Light and the quality of the gem. The rate at which a Light leaks from gemstones is not constant either -- it appears slow at first, but accelerates rapidly near the end, making gems that begin to dim, dim *fast.* Regardless of the type of Light, perfect gems are said to be able to hold it indefinitely, but they are extremely rare.
 Light can also be transferred between gems. Prior to the occupation of Urithiru during the True Desolation, the methods of transferring Light -- only Stormlight at the time -- from one gem to another were closely guarded secrets of the different artifabrian communities.
 
-
+#### The Arnist Method
 The Arnist Method of transferring Light between gems is a procedure involving draining the Light from a small(er) infused gemstone and moving it into several large(r) empty ones of the same type; the procedure is reminiscent of the movement of gases across a pressure differential, as Light will naturally and passively leave a smaller gem and flow into a nearby larger one.
 
-
+#### The Vriztl Guild Method
 There exists at least one alternative to the Arnist Method, and while it doesn't have a formal name, it is known to the Vriztl Guild of Thaylenah -- and it traditionally involves tuning forks and sound. If a gem can be made to vibrate at a frequency matching one of the pure tones of Roshar, it will draw nearby Light corresponding to that Tone (e.g. a gem vibrating to Honor's tone will draw Stormlight in). To transfer Light from one gem to another, the artifabrian would first use a tuning fork matching the desired tone, and touch it against the full gemstone, making it vibrate with the same frequency. The gem and fork vibrating at a matching frequency allows the artifabrian to lead a line of Light from the full gemstone to an empty one, which -- when touched by the tuning fork and also made to vibrate at the matching frequency -- would proceed to siphon the Light from the originally full gem, though a small amount of Light is lost in the transfer.
 
 ### Intent

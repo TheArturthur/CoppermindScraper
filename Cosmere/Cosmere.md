@@ -85,15 +85,15 @@ In the cosmere, everything exists in three Realms: the [[Physical Realm\|Physica
 When someone in the cosmere dies, their body remains in the Physical Realm and a [[Cognitive Shadow\|Cognitive Shadow]] forms in the Cognitive Realm. For most people, this Cognitive Shadow quickly moves on to the [[Beyond\|Beyond]] and their [[Investiture\|Investiture]] returns to the Spiritual Realm. The more Investiture someone held in life, the longer they can linger before being drawn to the Beyond, but only [[Sliver\|Slivers]]—those who once held a significant portion of a [[Shard\|Shard's]] power—can resist the Beyond forever, though they can still choose to go if they so desire. Before the person passes to the Beyond, however, they can still be restored via Investiture healing or be infused with enough Investiture to become a more permanent Cognitive Shadow, usually as a result of a Shard's action. Those killed by [[Nightblood\|Nightblood]] or [[Anti-Investiture\|anti-Investiture]] or consumed by [[Yelig-nar\|Yelig-nar]], however, cannot be resurrected in any way, as nothing remains of their soul.
 Time travel to the past, in any of the Realms, is impossible.
 
-
+#### The Physical Realm
 In the [[Physical Realm\|Physical Realm]], the cosmere is a star cluster of about 50 to 100 stars. The Physical Realm is composed of fundamental particles known as [[Axi\|axi]] and follows ordinary laws of physics, except when the other Realms are involved. Currently, there are sixteen known planetary systems in the cosmere, which contain a total of nineteen notable planets. The cosmere is also home to other celestial objects, including several dwarf planets, gas giants, and constellations. At least one person has tried to leave the physical bounds of the cosmere, with unknown results.
 
-
+#### The Cognitive Realm
  by  Isaac Stewart  A map of [[Shadesmar\|Shadesmar]], the region of the Cognitive Realm around [[Roshar\|Roshar]]. Regions labelled "Expanse" lead to other planets in the cosmere.
 The [[Cognitive Realm\|Cognitive Realm]] is closely modeled on the Physical Realm, though there are significant differences. Because the Cognitive Realm is the Realm of thought, it is substantially impacted by how people imagine and perceive ideas. For example, outer space is significantly compressed in the Cognitive Realm, because people do not spend much time thinking about the space between planets. There are also some entities that naturally exist primarily in the Cognitive Realm, such as the [[Spren\|spren]] who personify thoughts, emotions, and natural features, as well as certain [[Cognitive Shadow\|Cognitive Shadows]].
 The appearance of the Cognitive Realm around a particular planet seems to reflect salient characteristics of that planet—around Scadrial, for instance, it is composed of mist, while around Roshar it is composed of spheres. Land and water are inverted in the Cognitive Realm—what is solid land in the Physical Realm is unstable ground in the Cognitive, while bodies of water in the Physical are solid in the Cognitive. As a result, physical beings attempting to traverse non-solid regions of the Cognitive Realm risk drowning in whatever composes the local Cognitive Realm, though cognitive entities can traverse these regions safely.
 
-
+#### The Spiritual Realm
 >“*All things exist in three Realms, Gaotona. Physical, Cognitive, Spiritual. The Physical is what we feel, what is before us. The Cognitive is how an object is viewed and how it views itself. The Spiritual Realm contains an object’s soul—its essence—as well as the ways it is connected to the things and people around it.*”
 \-Shai discussing the Realms with Gaotona[4]
 
@@ -133,7 +133,7 @@ When one form of Investiture attempts to co-opt or corrupt another form of Inves
 Investiture can be divided into two categories: **kinetic Investiture** and **static Investiture**. Kinetic Investiture refers to Investiture actively doing something. When Investiture is kinetic, it can often be detected by various methods, such as [[Allomancy\|Allomantic]] [[Bronze\|bronze]] or [[Sand (Taldain)\|sand from the Dayside of Taldain]]. Static Investiture refers to all Investiture not actively doing something, such as a [[Feruchemy\|Feruchemical]] charge in a metalmind. At least some forms of static Investiture, including [[Lights\|Lights]] not actively powering anything, can also be detected by [[Taldain\|Taldain's]] sand, though they affect the sand much more slowly than kinetic Investiture does. The term **innate Investiture** denotes a direct conduit between a person and the Spiritual Realm, such as the piece of [[Preservation\|Preservation]] in all [[Scadrial\|Scadrians]] or [[Breath\|Breath]], and would likely be a subcategory of static Investiture.
 Cosmere scholars term the various methods of utilizing Investiture (such as the [[Metallic Arts\|Metallic Arts]], [[Surgebinding\|Surgebinding]], and [[Awakening\|Awakening]]) **Invested Arts**. Since the Shattering, these can be grouped into three main categories. The most common are those powered directly by the Shards, which arise from the interactions between a Shard and the planet they are Invested in. Such Invested Arts are capable of far more spectacular results than other Invested Arts. If a planet does not have a Shard in residence, its inhabitants can still access and use Investiture by the ordinary laws of Realmatics, but, without a Shard to provide additional power, the results are far more limited. The last category is the few Invested Arts left over from before the Shattering of Adonalsium, of which the only known example is [[Yolish Lightweaving\|Yolish Lightweaving]].
 
-
+#### Anti-Investiture
 Much like there is both matter and , at least some forms of Investiture can be transformed into a substance known as **anti-Investiture**. Currently, the only known forms of [[Anti-Investiture\|anti-Investiture]] are [[Anti-Stormlight\|anti-Stormlight]] and [[Anti-Voidlight\|anti-Voidlight]], which can be made by at least partially isolating [[Stormlight\|Stormlight]] or [[Voidlight\|Voidlight]] respectively from their Shard's pure tone and then exposing it to their Shard's opposite tone; [[Khriss\|Khriss]] seems to believe additional forms of anti-Investiture are possible. Anti-Voidlight, at least, looks mostly similar to regular Voidlight, but appears to warp the air around it. When anti-Investiture mixes with Investiture of the same type, the two annihilate in a violent explosion; if the Investiture in question is the soul of a person or that of an entity composed entirely of Investiture, like a [[Spren\|spren]], then this annihilation results in their permanent death.
 
 ### Perpendicularities
@@ -153,7 +153,7 @@ When the cosmere began, there was an entity known as Adonalsium; this entity is 
 The exact nature of Adonalsium, however, remains unclear. It may have been a mere force that acted according to specific rules or an actual entity that could think on its own; [[Khriss\|Khriss]] suspects the latter. The way Adonalsium saw the cosmere was simply the way its magic worked. For example, the [[Spren\|spren]] on [[Roshar\|Roshar]] could not form [[Fabrial\|fabrials]] prior to the Shattering because Adonalsium did not want them to be able to do so. Given Adonalsium had this level of control over the cosmere, some have suggested that Adonalsium may have wanted the Shattering to occur.
 Some say there are "subtle forces" being manifest in the cosmere, separate from Adonalsium, likely referring to belief in the [[God Beyond\|God Beyond]].
 
-
+#### Shards of Adonalsium
 |**Shards of Adonalsium**|
 |-|-|
 |**Shard**|**Original Vessel**|
@@ -318,25 +318,25 @@ In total, the number of people traveling between planets probably numbers somewh
 Hoid is a mysterious worldhopper who has been alive since before the Shattering of Adonalsium and was present for that event. He has collected a variety of Invested items from around the cosmere and gained access to multiple Invested Arts. His long-term goals are unclear, but he is an adamant opponent of Odium's attempts to become the sole god of the cosmere. He has written to [[Frost\|Frost]], [[Endowment\|Endowment]], [[Autonomy\|Autonomy]], and [[Harmony\|Harmony]], hoping to enlist their help in dealing with Odium, though only Harmony has responded positively. He has some ability to manipulate [[Fortune\|Fortune]], which lets him learn where and when he needs to be to advance his goals, though he often doesn't know why being somewhere is important.
 
 ### Worldhopping Groups
-
+#### The Seventeenth Shard
 >“*However, it seems to me that all things have been set up for a purpose, and if we—as infants—stumble through the workshop, we risk exacerbating, not preventing, a problem.*”
 \-Frost to Hoid on his non-intervention policy[293]
 
 
 The [[Seventeenth Shard\|Seventeenth Shard]] is a group of worldhoppers that seeks to research and study the various worlds of the cosmere without interfering in existing cultures. They believe the Shards separated for a reason and want to minimize the risk of conflict between the Shards. Frost may have some influence over them, either formally or informally. They are worried about Hoid, as they fear his actions on planets will exacerbate Shardic conflict and, from at least 1173 to 1175 on the Rosharan calendar, unsuccessfully tried to hunt him down, though they have larger objectives as well.
 
-
+#### Silverlight
  by  botanicaxu  [[Khriss\|Khriss]] and her employee [[Nazh\|Nazh]]
 [[Silverlight\|Silverlight]] is a fully-functional city in the [[Cognitive Realm\|Cognitive Realm]] where many worldhoppers have settled down. Its population, however, also includes many people who are born in the city and spend their entire lives there, including a notable group of [[Southern Scadrian\|Southern Scadrians]]. The city is home to multiple universities, whose scholars possess a great deal of knowledge about the nature of the cosmere and will conduct expeditions to investigate unusual workings of Investiture to further that knowledge. At least one of those universities was founded by the researcher [[Khriss\|Khriss]], the most knowledgeable person in the cosmere and author of the [[Ars Arcanum\|Ars Arcana]]. As a result of these efforts and playing host to interactions between societies from across the cosmere, Silverlight enjoys scientific learning and progress that is without parallel in the rest of the cosmere. The city is also home to at least [[Silverlight Mercantile\|one mercantile enterprise]], whose services include an interplanetary postal service that makes use of unknown Invested entities that read [[Connection\|Connection]] to find the location of message recipients.
 
-
+#### The Ire
 >“*Perhaps the Ire know more [about Investiture on Sel], but they are not speaking on the topic and have repeatedly denied my requests for collaboration.*”
 \-Khriss on the Ire[61]
 
 
 The [[Ire\|Ire]] is a group of worldhopping [[Elantrian\|Elantrians]]. They existed prior to the [[Reod\|Reod]] and were able to weather it, though they were off-world when it occurred. Their objectives are unclear, though they did attempt to Ascend one of their members as the Vessel of Preservation after Leras died. At that time, they were at least associated with a group whose forces were keeping the [[Shade\|Shades]] of [[Threnody\|Threnody]] contained in the [[Threnodite system\|Threnodite system]]. They have some method of storing and transporting Investiture, which they use to sustain themselves and trade with others, such as the [[Honorspren\|honorspren]] of [[Lasting Integrity\|Lasting Integrity]].
 
-
+#### The Ghostbloods
 The [[Ghostbloods\|Ghostbloods]] is a cosmere-wide secret society created by [[Kelsier\|Kelsier]] for the purpose of protecting Scadrial from other forces in the cosmere. To that end, they seek to push technological progress forward and build alliances with other planets. They have recruited several worldhoppers and actively recruit from the Seventeenth Shard's field agents, though the two organizations do not work together. They have also recruited at least one [[Sleepless\|Sleepless]], though they are also worried about the Sleepless trying to take over their organization. The Ghostbloods on Roshar are working on finding a way to transport [[Stormlight\|Stormlight]] from Roshar, where it is easily accessible, to places where Investiture is harder to obtain, though members operating beyond Scadrial are somewhat removed from Kelsier's direct control.
 
 ### Other Notable Worldhoppers
@@ -434,4 +434,4 @@ Brandon has been somewhat evasive about the order of cosmere stories, so that th
 
 
 
-https://coppermind.net/wiki/Worldhop
+https://coppermind.net/wiki/Worldhopper

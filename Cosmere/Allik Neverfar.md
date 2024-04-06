@@ -61,7 +61,7 @@ Marasi finds Allik in a cage, captured by the Set alongside his companions, and 
 ### Wax
 Due to the fact that he was raised to revere [[Metalborn\|Metalborn]] Allik treats Wax with reverence. Wax finds this annoying and often tells Allik to stop.
 
-
+#### List of Titles for Wax
 Allik refers to Wax with many different titles during their time together.
 
 

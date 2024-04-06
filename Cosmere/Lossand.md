@@ -100,4 +100,4 @@ For a list of all Lossandin characters, see :Category: Lossandins.
 Most of the events in White Sand take place in Lossand.
 
 
-https://coppermind.net/wiki/Guild
+https://coppermind.net/wiki/Field

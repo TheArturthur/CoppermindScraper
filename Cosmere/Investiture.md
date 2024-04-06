@@ -170,15 +170,15 @@ Every [[Shard\|Shard]] is associated with certain colors. Their [[Perpendiculari
 
 
 ### Color in Investiture
+#### Nalthis
 
 
 
+#### Rosharan system
 
 
 
-
-
-
+#### Other
 
 
 ## Healing
@@ -197,22 +197,22 @@ Healing works by using the three versions of the user's self; their Physical, Co
 Highly Invested individuals can shift their Spiritual self to more closely match their Cognitive self, making self-perception more important in the process. This allows for the healing of old wounds if the person doesn't view them as being part of themself, something that is impossible with less Invested individuals.
 
 ### Types of known Investiture healing
+#### Metallic Arts
+
+
+
+#### The Dor
+
+
+
+#### Rosharan system
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+#### Other
 
 
 
@@ -227,7 +227,7 @@ Bonds are connections between entities in the [[Cosmere\|cosmere]] that exist ou
 **Aviar**: Birds infected with symbiotic worms native to the [[Pantheon\|Pantheon]].
 **Aether**: Various Pre-Shattering entities which are able to bond with sapient beings, trading power with them for water. They are capable of connecting with many people at one time.
 ### Bonds By Shard World
-
+#### Roshar Bonds
 **The Nahel Bond**: This Bond is between a human and certain types of intelligent [[Spren\|Spren]]. The [[Nahel bond\|Nahel bond]] gives a human access to the system of magic known as [[Surgebinding\|Surgebinding]], while granting the spren the ability to maintain their cognition in the Physical Realm. There are ten known forms the [[Nahel bond\|Nahel bond]] can take, each giving access to two different [[Surge\|Surges]]. See [[Surgebinding\|Surgebinding]] and [[Nahel bond\|Nahel bond]] for more information.
 **Singer Bond**: The [[Singer\|singers]] can bond with a spren. Doing so grants the singer a form (a specific physical and mental change). Not all spren grant a unique form; most spren give the singers dullform. Without a spren, singers exist in what is known as slaveform ([[Parshmen\|Parshmen]]). Singers in slaveform have very little mental capacity and are extremely docile. Dullform gives more free will and a small increase in mental capacity. Slaveform and dullform are physically similar. Singers can become [[Surgebinder\|Surgebinders]], but forms of power exist that grant them abnormal abilities. See [[Singer\|singer]] for more information on the various forms.
 **Shardblade**: [[Shardblade\|Shardblades]] are able to bond with people through the use of charged gemstones. The gem is placed in the hilt of the Blade and after a week of constant contact, the Blade is bonded and can be dismissed from and recalled to the [[Physical Realm\|Physical Realm]]. Once bonded the blade can be dismissed and recalled by syncing with the user's heart to the blade. Ten heartbeats are required. A person's iris will lighten during the bonding process. [[Surgebinding\|Surgebinding]] is not granted by this bond.
@@ -237,30 +237,30 @@ Bonds are connections between entities in the [[Cosmere\|cosmere]] that exist ou
 **Other Spren Bonds**: Certain spren bond with animals native to Roshar, enhancing those animals and granting them abilities. Animals that are confirmed to have these bonds are [[Chasmfiend\|chasmfiends]], chulls, [[Larkin\|Larkin]], [[Ryshadium\|Ryshadium]], and [[Skyeel\|skyeels]].
 **Honorblades**: Honorblades grant surgebinding abilities to humans who touch them, but this requires dangerous levels of stormlight.
 
-
+#### Sel Bonds
 **Seons**: A [[Seon\|seon]] can create bonds with humans and [[Elantrian\|Elantrians]]. Little is known of this bond other than that the [[Seon\|seon]] follows and helps the person it is bonded to, functioning as a servant to the owner of the bond. This bond does not give the [[Seon\|seon]] an innate ability to find the human to whom it is bonded. [[Seon\|Seons]] will automatically seek out a new person to bond with following the death of its master; often the new master has been prearranged. During the time of the [[Reod\|Reod]], while the [[Shaod\|Shaod]] was unable to finish transforming a human into an [[Elantrian\|Elantrian]], any [[Seon\|seon]] bonded to a [[Elantrian\|Elantrian]] lost its mind and would float around the city, often near their master. This bond grants new unknown powers to the members of the bond while on [[Roshar\|Roshar]] and is very similar to a [[Nahel bond\|Nahel bond]].
 
-
+#### First of the Sun Bonds
 **Aviar**: [[Aviar\|Aviars]] create a bond with a person and grant a specific power based of the type of Aviar bonded. Aviar are granted their ability if raised on one of the pantheon islands and consume a worm native to the island. See [[Aviar\|Aviar]] for more information.
 **Other Worm Infected Animals**: Other birds besides native island [[Aviar\|Aviar]] are able to eat the worms and create a bond with a new effect (i.e. Sak). It is unknown if eating the worms will grant new abilities to other non-bird animals.
 
-
+#### Nalthis Bonds
 **Sentient Awakened Entities in an Inorganic Host**: Also known as Type IV BioChromatic Entities. The only known entities of this kind are [[Nightblood\|Nightblood]] and Azure's Sword. [[Nightblood\|Nightblood]] is a sentient sword made using a thousand Breaths and the Command to destroy evil. It makes a bond with anyone with whom it wishes to communicate, and it is able to read and speak with minds directly. Distance appears to be a factor, but this may be a limitation of the mind of [[Nightblood\|Nightblood]] and not its ability. While idle, [[Nightblood\|Nightblood]] reaches out to other people, tempting them to draw the blade. "Pure" people who cannot be tempted would feel great nausea, even induce vomiting. Anyone who is able to wield [[Nightblood\|Nightblood]] and survive bonds with the blade to a greater degree and is no longer repelled by or abnormally drawn to use it. Those unable to control [[Nightblood\|Nightblood]] are controlled by it, in effect [[Nightblood\|Nightblood]] wields them killing everyone around and absorbing all of the  from the victim including the spark of life (i.e. the soul). This bond may grant additional powers on Roshar.
 
-
+#### Scadrial Bonds
 No bonds are known of on Scadrial.
 Of note is that by using [[Hemalurgy\|Hemalurgy]], bonds may be stolen and given to a new person.
 
-
+#### Lumar Bonds
 **The Luhel Bond**: This Bond is between a human and an [[Aether\|aether]]. The [[Luhel bond\|Luhel bond]] allows the human to manipulate the aether in exchange for water from their body. See [[Aether\|aether]], [[Luhel bond\|Luhel bond]], and [[Spore eater\|spore eater]] for more information.
 
-
+#### Komashi Bonds
 It is theoretically possible to form a bond with a [[Nightmare\|nightmare]]. How exactly one would do this, or what effects such a bond would have on either party, is unknown.
 
 ### The Known effect of Bonds while on other Planets
 Bonds on some planets provide the Holders of the bonds with additional powers.
 
-
+#### Roshar
 It has been confirmed that bonds other than the [[Nahel bond\|Nahel bond]] will provide powers to the constituent entities of that bond while on Roshar. What these powers are is unknown, and will not be of the ten [[Surge\|Surges]]. The seon bond is confirmed to do this, as the Nahel bond and the seon bond are very similar.
 
 ## Investiture of Humans

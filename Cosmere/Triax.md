@@ -33,10 +33,10 @@ The area around Triax and [[Tu Fallia\|Tu Fallia]] is incredibly lush compared t
 Triax's position near the center of Roshar lends it significant strategic importance. For any military force seeking to cross the southern continent, the mountains to the north and the coast to the south form a bottleneck through Triax. This makes moving troops through through the area highly difficult, and provides a defending force with a strategic advantage. However, this advantage may be affected by control of the nearby [[Vedenar\|Vedenar]] [[Oathgate\|Oathgate]].
 
 ## Culture
-
+#### Mining and Metals
 It seems that the people of Triax don’t mine extensively, many of the villagers carry tools that aren’t made from metal.
 
-
+#### Architecture
 The people of Triax live in small villages, which are often located in forest clearings. Their houses are built on stilts, although the risk of flooding is quite small. It seems that most of the buildings in this area are overgrown with the same type of vine that covers the rest of the landscape.
 
 ## History

@@ -71,7 +71,7 @@ After Skyward Flight returned with Cuna and their staff, Rig had a joyful reunio
 When Alanik came to Detritus and requested aid, Rig and other members of Skyward Flight came to chat with her while she awaited a decision. They chatted amiably, and Cobb came in and told them that Alanik’s request had been officially denied. He said his hands were tied, but heavily hinted that he wanted Skyward Flight to leave anyway. Rig decided not to leave with Skyward Flight, reluctantly staying behind.
 
 ### Helping Alanik
-
+#### On ReDawn
 >“*I’ll help you. But you should know, there’s a lot going on here too. Cobb and Jeshua met with some representatives from the Superiority.*”
 \-Rig to FM[19]
 
@@ -83,7 +83,7 @@ FM and Alanik hyperjumped to Deteritus to recruit Rig, since they needed his hel
 
 He helped Jorgen figure out how to work the platform’s cytonic inhibitor, and spent the next few days hard at work, not getting much sleep. He repaired Alanik’s ship, activated the platform’s shield, and helped figure out how to use Boomslug in the weapons system. After the others came up with a plan, he used [[Drape\|Drape]] to hyperjump the platform outside the tree city of Tower. While Alanik and Arturo went to rescue [[Rinakin\|Rinakin]] and Skyward Flight fought off Unity ships, Rig stayed on Wandering Leaf with Jorgen and operated the platform. When a Superiority battleship arrived to attack Tower, Rig hyperjumped Wandering Leaf up close to it, allowing the automatic turrets and mindblade weapons system to destroy it. A cytonic varvax soldier hyperjumped onto Wandering Leaf to try and seize the command room, and Rig called for Boomslug to help him. Boomslug attacked the varvax, destroying its armor and causing it to flee. The Unity forces retreated, and the Independence faction and Skyward Flgiht won the battle. Cobb called them, and told them to return to Detritus with some of the UrDail officials. Rig and the others thought Cobb was acting strangely, and determined that the man is actually an imposter posing as Cobb, using holographic technology stolen from M-Bot. They ended the conversation, and Rig hyperjumped Wandering Leaf to a point outside Detritus.
 
-
+#### Back to Detritus
 >“*The box is rigged to prevent tampering. I don’t know how it works, but I know that much. Alanik, I’m sorry. I can’t fix it. We need to get off this ship immediately.*”
 \-Rig to Alanik[24]
 

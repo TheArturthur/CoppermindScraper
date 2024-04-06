@@ -57,10 +57,10 @@ A human cannot eat the worms or an Aviar in order to gain powers, as the symbios
 ### Abilities
 The power obtained by Aviar is different for each species of bird. Many Aviar have abilities related to the [[Cognitive Realm\|Cognitive Realm]], but [[Spiritual Realm\|Spiritual]] and even [[Physical Realm\|Physical]] powers also exist. Some abilities work passively, while others must be intentionally activated by the Aviar, sometimes at the request of a bonded person. At least one unknown Aviar ability could assist with "navigation". Aviar abilities are usually very reliable, although they were disrupted by an unusual device that was given to the [[Northern Interests Trading Company\|Northern Interests Trading Company]] by the [[Ones Above\|Ones Above]].
 
-
+#### Bonds
 Aviar are able to share their powers with humans through a Spiritual [[Connection\|Connection]] similar to the [[Nahel bond\|Nahel bond]]. This bond is not as powerful as the Nahel bond, but because of that it can be shifted between people at its owner's will. The bond includes a mental connection; Dusk refers to Sak "sending" him her visions. Aviar are also able to sense the location of the person they have bonded with. The nature of the bond allows some Aviar to share their talents with people other than their usual master. Most people bond a single Aviar, but some [[Trapper\|trappers]] have bonded at least three Aviar at the same time.
 
-
+#### Cognitive Concealment
 >“*It was fortunate [Kokerlii's] breed was so mind-invisible, even deathants would consider him no more edible than a piece of bark.*”
 \-Dusk[1]
 
@@ -68,10 +68,10 @@ Aviar are able to share their powers with humans through a Spiritual [[Connectio
 [[Kokerlii\|Kokerlii]] and [[Mirris\|Mirris]] have a Cognitive ability to conceal their mental activity and those of others around them. This ability seems to work passively, as Dusk never needs to ask Kokerlii to use it or wait for him to do so. Some version of this ability appears to be relatively common, as flocks of wild Aviar are able to conceal themselves from mind-sensing predators such as [[Nightmaw\|nightmaws]]. [[Krell (cosmere)\|Krell]] are known to sleep near Aviar roosts in order to take advantage of the mental shield that they provide.
 Additionally, Aviar Cognitive concealment impedes the ability of others to sense the use of Investiture, much like an Allomantic [[Copper\|coppercloud]]. They would be able to block an [[Awakener\|Awakener's]] [[Heightening\|life sense]] and interfere with other methods of detecting Investiture, such as Allomantic [[Bronze\|bronze]] and secretspren.
 
-
+#### Future Sight
 [[Sak\|Sak's]] ability allows her to glimpse into the future, using the property of [[Fortune\|Fortune]] to glimpse the [[Spiritual Realm\|Spiritual Realm]]. She is able to see potential deaths of a person, and manifest these potential deaths as visions of corpses wherever they could be killed. The corpses are only visible to those with whom Sak chooses to share her talent. If the danger passes, the pertinent corpse will disappear. Sak is able to turn this ability on or off at will. She is even able to show Vathi the visions at Dusk's request. Sak, whose species is not native to the Pantheon, is the only known Aviar that has ever possessed this ability.
 
-
+#### Other Abilities
 Aviar talents have some parallels to other manifestations of [[Investiture\|Investiture]] in the cosmere. Aviar exist in the same universe as other manifestations of Investiture, so the powers that they provide share some characteristics with other magics such as [[Allomancy\|Allomancy]] and [[Surgebinding\|Surgebinding]]. Although known Aviar powers are similar to Allomantic [[Copper\|copper]] and [[Electrum\|electrum]], not every Aviar talent has an Allomantic counterpart, and vice versa.
 
 ## Ecology

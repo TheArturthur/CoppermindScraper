@@ -1,11 +1,11 @@
-| **Scadrial**           |                                                                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| by  Isaac Stewart      |                                                                                                                                                  |
-| **Shards**             | [[Preservation\|Preservation]], [[Ruin\|Ruin]], [[Harmony\|Harmony]]                                                                             |
-| **Perpendicularities** | [[Well of Ascension\|Well of Ascension]] (formerly), [[Ruin's Perpendicularity\|Ruin's Perpendicularity]] (formerly), Harmony's Perpendicularity |
-| **Investitures**       | [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], [[Hemalurgy\|Hemalurgy]]                                                                     |
-| **System**             | [[Scadrian system\|Scadrian system]]                                                                                                             |
-| **Universe**           | [[Cosmere\|Cosmere]]                                                                                                                             |
+|**Scadrial**|
+|-|-|
+|by  Isaac Stewart |
+|**Shards**|[[Preservation\|Preservation]], [[Ruin\|Ruin]], [[Harmony\|Harmony]]|
+|**Perpendicularities**|[[Well of Ascension\|Well of Ascension]] (formerly), [[Ruin's Perpendicularity\|Ruin's Perpendicularity]] (formerly), Harmony's Perpendicularity|
+|**Investitures**|[[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], [[Hemalurgy\|Hemalurgy]]|
+|**System**|[[Scadrian system\|Scadrian system]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
 This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
 
@@ -84,7 +84,7 @@ The most notable new animal however was the [[Mistwraith\|mistwraith]], a creatu
 When [[Sazed\|Sazed]] took both Ruin and [[Preservation\|Preservation]], he remade the planet and moved it back from the sun, removing the need for the ashmounts. He returned the world to the way it was before Rashek took the power at the Well of Ascension. He used the knowledge of his copperminds to return the geography to its original form, and restored all the animals that were extinct. The sole difference was the Elendel Basin. The equator runs very close to Elendel and the Prime Meridian runs through it.
 
  by  Isaac Stewart  A map of the [[Elendel Basin\|Elendel Basin]]
-
+#### The Elendel Basin
 In the northern hemisphere of Scadrial, Sazed created a basin of fertile lands that could never be over-farmed and ringed it with the Seran, Faleast, and Channeral mountain ranges. The [[Originators\|Originators]] named it the [[Elendel Basin\|Elendel Basin]], and built the city of [[Elendel\|Elendel]] in the center, on the coast of the [[Sea of Yomend\|Sea of Yomend]]. Most of the population of the northern hemisphere live within the Elendel Basin. Around the edges of the Basin many people farmed the land. The settlements in the basin include:
 
 
@@ -108,7 +108,7 @@ Demoux
 [[Wyllion\|Wyllion]]
 
 
-
+#### The Roughs
 The regular lands around the Elendel Basin were known as the [[Roughs\|Roughs]]. Due to the bountiful nature of the basin, there were few reasons to live in the Roughs. The cities in the Roughs include:
 
 
@@ -122,7 +122,7 @@ Isauec's Bend
 [[True Madil\|True Madil]]
 [[Weathering\|Weathering]]
 
-
+#### Lands to the South
 
 Near the south pole of Scadrial is another inhabited continent. This area was a much harsher place to live in, as there were no Ashmounts during the days of the Final Empire to protect it. During the Catacendre the land froze, and remained frozen over 3 centuries later, with the people there only surviving due to the intervention of [[Kelsier\|Kelsier]]. It is described as a cold place of ice, with 5 distinct groups in society, each of which wear masks but in their own way. The people live in towers, and hire out small craft to ferry them between towers. They have at least some awareness of the principles of the broader cosmere, as they known enough about [[Investiture\|Investiture]] and [[Identity\|Identity]] to create [[Unsealed metalminds\|unsealed metalminds]]. Kelsier also taught them about the Shards Ruin and Preservation, and may have given them some information about how the Shards are pieces of [[Adonalsium\|Adonalsium]].
 The people to the south are highly advanced. This is mentioned by [[Harmony\|Harmony]] himself several times, as he ponders over whether he has made life too easy for those living in the Basin, thus stunting their need to advance to survive. They are capable of using metalminds without any identity to them, which can then be used by anyone. They also have access to large numbers of flying craft. Their mining is extensive, as [[Allik Neverfar\|Allik Neverfar]] mentions that it is common knowledge that they managed to dig down deep enough into the mantle for temperatures to increase greatly, even on a frozen continent full of ice. Furthermore they also have access to a strange metal known as "ettmetal", which is capable of storing pure Investiture in it to use as a fuel source for allomancy. This metal is somewhat similar to alkali metals in that it reacts fiercely with water, leading to combustion, and thus is used by the southern peoples in their bombs.
@@ -291,4 +291,4 @@ For some reason, Scadrial was visited by "several" Shards before the events of *
 
 
 
-https://coppermind.net/wiki/Scadrian
+https://coppermind.net/wiki/Scadrial

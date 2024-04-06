@@ -50,4 +50,4 @@ For a full list of DDF Flights, see DDF Flights.
 
 
 
-https://coppermind.net/wiki/Defiant_Defense_Force
+https://coppermind.net/wiki/DDF

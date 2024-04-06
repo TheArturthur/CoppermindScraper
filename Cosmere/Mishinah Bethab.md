@@ -18,4 +18,4 @@ Mishinah and her husband eventually came to support Dalinar and the [[Coalition 
 
 
 
-https://coppermind.net/wiki/Mishinah_Bethab
+https://coppermind.net/wiki/Mishinah

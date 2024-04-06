@@ -74,4 +74,4 @@ Jalla is the only person known to hail from Svorden. Notable visitors to Svorden
 
 
 
-https://coppermind.net/wiki/Svorden
+https://coppermind.net/wiki/Svordish

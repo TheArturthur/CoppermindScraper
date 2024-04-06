@@ -1,12 +1,11 @@
-
-| **Seon**               |                                                                                              |
-| ---------------------- | -------------------------------------------------------------------------------------------- |
-| by  Connor Chamberlain |                                                                                              |
-| **Type**               | [[Splinter\|Splinter]]s of [[Devotion\|Devotion]]                                            |
-| **Abilities**          | Flight, immortality, enhanced senses, instantaneous communication to and through other seons |
-| **Sapient**            | Yes                                                                                          |
-| **World of Origin**    | [[Sel\|Sel]]                                                                                 |
-| **Universe**           | [[Cosmere\|Cosmere]]                                                                         |
+|**Seon**|
+|-|-|
+|by  Connor Chamberlain |
+|**Type**|[[Splinter\|Splinter]]s of [[Devotion\|Devotion]]|
+|**Abilities**|Flight, immortality, enhanced senses, instantaneous communication to and through other seons|
+|**Sapient**|Yes|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
 This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 

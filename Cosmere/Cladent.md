@@ -73,16 +73,16 @@ For nearly a year, Clubs acts as the general for [[Elend\|Elend's]] military for
 Prior to joining [[Kelsier's crew\|Kelsier's crew]] Clubs worked as a master carpenter and was a Skaa merchant in Luthadel. His woodworking shop, which also operated base of operations and hideout for Kelsier's crew was known as a prominent Skaa Craftsman's shop. Before this, Cladent worked as a soldier in the [[Lord Ruler\|Lord Ruler]]’s army with some level command. During his time fighting in the southeast, he [[Snapping\|Snapped]], becoming a [[Smoker\|Smoker]]. After being injured and discharged, Clubs joined the underground. Once he opened up his shop, he employed several apprentice carpenters. He 'adopted' his nephew, [[Spook\|Spook]], after he snapped and started showing signs of being able to use allomancy. He traded Spook's father a bag of coins in exchange for not killing him, and then took him back to Luthadel.
 
 ### The Skaa Rebellion
-
+#### Kelsier's Crew
  by  Marie Seeberger 
 Once Kelsier's crew used Club's shop as a secret base of operations in Luthadel, he was tasked with maintaining a [[Coppercloud\|coppercloud]] around his shop to protect those inside from prying [[Seeker\|Seekers]]. He also serves as host for the crew, offering them a place to sleep, eat and bathe as needed. While essential to the crew, Clubs rarely leaves the shop as he is the crews primary Smoker, though he also employs many assistant carpenters who are also Smokers.
 
-
+#### The Skaa Riots & Death of the Lord Ruler
 After Kelsier has been killed and the skaa begin to riot and fight back in his name, it is revealed by Renoux that Clubs was Kelsiers chosen crew member to lead the skaa in their direct attack on Kredik Shaw. After the [[Lord Ruler\|Lord Ruler]] was defeated, Elend appointed Clubs as the general of his armies.
 Clubs was not known to be a religious man, and so he disliked Captain [[Demoux\|Demoux]] preaching the [[Church of the Survivor\|Church of the Survivor]] to his troops.
 Although Clubs came to befriend Breeze. The two often spent time in the evenings conversing and drinking at Keep Venture.
 
-
+#### The Battle of Luthadel
 Before the [[Battle of Luthadel\|Battle of Luthadel]], [[Sazed\|Sazed]] tried to teach him about the religion of [[Dadradah\|Dadradah]], which focuses on art and craftsmanship. Sazed remarked that the care that Clubs devoted to his carpentry showed his true passion to be art, not warfare. As a token of the Dadradah faith, he also gives Clubs a small wooden disk carved with the image of a brush. During the battle itself, Clubs ends up fighting at Zinc gate with Breeze nearby.
 He died during the Battle of Luthadel, killed by a [[Koloss\|koloss]] while saving Breeze. Later on, Sazed found the wooden disk that he gave Clubs tied to the man's corpse.
 

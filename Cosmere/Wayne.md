@@ -93,7 +93,7 @@ Wayne struggles with self-loathing, and sometimes thinks that he does more harm 
 ### Metallic Arts
 Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[Twinborn\|Twinborn]]. He is both a Bloodmaker and a Slider.
 
-
+#### Feruchemy
 >“*Not that the pain went completely away, mind you. But he and pain were old friends what shared a handshake and a beer now and then. Didn’t much like each other, but they had a working relationship.*”
 \-Wayne[23]
 
@@ -101,7 +101,7 @@ Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[
 As a [[Bloodmaker\|Bloodmaker]], Wayne can store health in his goldminds at the price of being unwell. He can tap into his stores later to heal wounds. As long as Wayne has an adequate storage of health, he can recover from any wounds that aren't immediately lethal, such as curing poison, regrowing fingers, and surviving bullet wounds. He prefers to fill his metalminds all at once by spending weeks sick in bed instead of traveling around while slightly sick. He often stores health whenever he has a hangover as he is going to have a horrible time of it anyway. He sometimes uses his ability as a Bloodmaker strategically, by pretending that a bullet has actually killed him or incapacitated him, in order to make enemies dismiss him as a threat in a fight. However, many who know of his abilities aren’t fooled by this trick. He eventually embeds his goldminds deep into his thigh to protect them from Allomancers.
 
  by  Elisgardor 
-
+#### Allomancy
 >“*A large group of Vanishers had set up near the western tunnel, firing out at Wayne - who was in full form, burning through his bendalloy like a madman. He'd appear, draw fire, then vanish into a blur, then appear right next to where he'd been. He called insults as the bullets missed him, then moved again.*”
 \-Wax watching Wayne fight at the Vanisher hideout[27]
 
@@ -110,7 +110,7 @@ As a [[Slider\|Slider]], Wayne can burn bendalloy to form a "speed bubble" aroun
 In the six years following the events at the [[Sovereign's temple\|Sovereign's temple]], Wayne practices extensively with bendalloy that he is able to purchase thanks to his newfound immense wealth. This leads him to be able to drastically reduce the time between activating his speed bubbles, as well as granting him a high degree of control over their size and shape.
 While trying to stop the Set in Bilming, Wayne burns a small amount of [[Lerasium\|lerasium]], making him a [[Allomancy\|Mistborn]].
 
-
+#### Hemalurgy
 While trying to stop the Set in Bilming, Wax gives Wayne a [[Steel\|steel]] spike, granting him Allomantic steel.
 
 ### Fighting
@@ -215,7 +215,7 @@ VenDell, a sixth generation Kandra who wanted to meet with Wax, decided to talk 
 Wayne, along with Wax, Marasi, Steris, and MeLaan, traveled to New Seran. Wayne enjoyed talking with people on the train and learning new accents. He also chatted with Marasi, Marasi asking him about being in Wax’s shadow. Wayne and MeLaan found a luggage compartment in the floor, and were making out for the rest of the train ride, MeLaan topless. Though the [[Nightstreet Gang\|Nightstreet Gang]] attacked the train, Wayne and MeLaan were too distracted to realize it. They only found out only afterward when Wax found them, fearing that something had happened to Wayne. Marasi was outraged at their behavior, but Wayne and MeLaan weren’t embarrassed.
 
  by  Egilde Art 
-
+#### New Seran
 The group arrived in New Seran, and they went to their hotel. Between Steris’s list of possible disasters, Wayne’s trading of objects, and MeLaan’s strangeness, [[Aunt Gin\|the hotel owner]] was quite alarmed. Since Wax doubted Wayne’s usefulness at [[Kelesina Shores's party\|Kelesina Shores's party]], Marasi borrowed Wayne to go dig through graves for ReLuur’s spike.
 
 >“*Why, what happens when we have to thump some people, then run off with their ledgers? They’re gonna know it was us, and Wax’ll have to pay a big heap of compensatory fines.*”
@@ -224,7 +224,7 @@ The group arrived in New Seran, and they went to their hotel. Between Steris’s
 Wayne and Marasi went to a bank, Wayne planning for them to pose as a rich lord and his niece. Marasi however, shocked Wayne by using her status as a constable to let them talk to the bank’s owner. Wayne swapped a rats tail with the man’s silver letter opener, and Marasi discovered than all of the city’s graveyard workers are crooked. They went to a graveyard, and there Wayne disguised himself and Marasi, then talked to [[Dechamp\|Dechamp]], the night gravekeeper. Wayne bribed the man into digging up ReLuur’s grave. DeChamp however, sent his young assistant to alert members of the Set. A group of gunmen arrived, and opened fire immediately, accidentally killing Dechamp. Wayne and Marasi took cover in the freshly dug grave. Marasi supposed that the gunmen were so scared of Wayne's reputation that they had not waited for Dechamp to get clear preferring to kill Wayne without any chance for him to fight back; Wayne was immensely pleased at the thought that he was so feared by the criminals. Wayne and Marasi fought back against the gunmen, defeating several and causing the rest to retreat. Afterward, he went to the graveyard building, and found both Dechamp’s ledger and his stash of booze.
 Both Wayne and Marasi worked together to trick [[Templeton Fig\|Templeton Fig]], Dechamp’s boss. They caused him to think that he was being visited by [[Marsh\|Death]], who was actually Wayne in disguise. Wayne learned from him that ReLuur’s spike had been sent to the small town of [[Dulsing\|Dulsing]]. Wax returned from the party, giving Wayne an unkeyed metalmind with a lot of healing stored in it.
 
-
+#### Dulsing
 >“*You can throw your wooden teeth at ‘em. Do some cane wagging as well. I’m sure you’re cross about stayin’ up so late.*”
 \-Wayne making fun of Wax’s age[61]
 
@@ -232,7 +232,7 @@ Both Wayne and Marasi worked together to trick [[Templeton Fig\|Templeton Fig]],
 The group traveled by carriage to the small town of Dulsing, which has been turned into a huge construction site for some huge project. The area was well guarded, and Wayne has Wax Push him by his belt beyond the guarded border. Wayne used his healing to recover, then knocked out the power for the floodlights. Marasi, MeLaan, and Wax snuck in, and Wayne and Wax went to find Mr. Suit and Telsin.
 Wayne and Wax found Telsin in a guarded room, and Wayne distracted the guards so that Wax could rescue her. The guards spotted them, and a massive firefight broke out. Swarms of soldiers and kill squads attacked, knowing not to stop firing at Wayne even when he feigned being down. Wax, Wayne, MeLaan, and Marasi fought back with difficulty, and eventually escaped into the massive ship at [[Allik\|Allik]]’s urging. They went into a secret compartment, and Allik gave them weight-storing medallions, which Wayne and the others filled with weight. At Allik’s instruction, Wax Pushed the small aircraft into the air. They escaped Dulsing, picking up Steris on their way out. They headed towards the [[Kelsier\|Sovereign]]’s temple, where the Set was going. On the ride there, Allik told them about himself, Southern [[Scadrial\|Scadrial]], the Sovereign, and the Bands.
 
-
+#### The Sovereign’s Temple
  by  Maria Dimova 
 They flew over Edwarn’s expedition, Wayne inadvertently alerting them by kicking a pack overboard when Telsin bumped into him. They arrived at the temple, finding the crashed wreckage of another South Scadrian ship. They found a statue of the Sovereign, who was holding a spear with a spearhead that they assumed to be aluminum. Wayne stole the spearhead, which unbeknownst to any of them, was the Bands of Mourning. There were many booby traps in the temple, and MeLaan walked through them all, triggering them but remaining unharmed. Wayne stayed behind with Marasi and Steris, and soon Edwarn came forward with a flag of parley.
 With Edwarn claiming to know how to open the locked door at the end of the temple and Edwarn having the small group outnumbered, they were at an impasse. Wax brought Edwarn and the others to the door, which Edwarn helped Wax open. Inside there was an empty pedestal, with broken glass but no Bands. Telsin betrayed them, attacking along with Edwarn. They used an allomantic grenade and wiped Wayne and Marasi’s allomantic reserves, and Wax was shot badly. With Edwarn and Telsin having allomantic powers granted through [[Hemalurgy\|Hemalurgy]] and the element of surprise, Wayne and the others were outmatched. Wayne escaped the room, though the others were captured.

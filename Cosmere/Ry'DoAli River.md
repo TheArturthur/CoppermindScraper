@@ -17,4 +17,4 @@ The capital of Lossand, [[Kezare\|Kezare]], is located on a pair of islands wher
 
 
 
-https://coppermind.net/wiki/Ry%27DoAli_River
+https://coppermind.net/wiki/Ry%27Do_Ali_River

@@ -60,4 +60,4 @@ Red-eyed "[[Faceless Immortal\|Faceless Immortals]]" appear to work on behalf of
 
 
 
-https://coppermind.net/wiki/Trell_(Trellism)
+https://coppermind.net/wiki/Trellism

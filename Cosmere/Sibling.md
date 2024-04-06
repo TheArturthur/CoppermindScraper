@@ -95,4 +95,4 @@ The Sibling first made contact with Navani Kholin through a purposefully placed 
 
 
 
-https://coppermind.net/wiki/Sibling
+https://coppermind.net/wiki/The_Sibling

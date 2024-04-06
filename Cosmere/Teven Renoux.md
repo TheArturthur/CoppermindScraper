@@ -16,4 +16,4 @@ He is a prominent noble from the [[Farmost Dominance\|Farmost Dominance]], but s
 
 
 
-https://coppermind.net/wiki/Teven_Renoux
+https://coppermind.net/wiki/Renoux

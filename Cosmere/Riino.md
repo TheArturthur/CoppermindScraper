@@ -62,4 +62,4 @@ When the rest of the group arrived, Riino negotiated prices with them on supplie
 Riino's connection to the events of *Elantris* has not been revealed on-page; rather, Brandon pointed to it unprompted, referring to a scene where Kaladin meets "our 'so very beautiful' friend from *Elantris*".
 
 
-https://coppermind.net/wiki/Riino
+https://coppermind.net/wiki/Rii_Oracle

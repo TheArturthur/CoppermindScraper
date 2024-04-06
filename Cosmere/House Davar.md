@@ -45,4 +45,4 @@ House Davar
 
 
 
-https://coppermind.net/wiki/Davar_mansion
+https://coppermind.net/wiki/House_Davar

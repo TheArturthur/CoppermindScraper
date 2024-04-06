@@ -50,4 +50,4 @@ There are also the **nowalks**, which likewise seem to somehow connect physical 
 *Nowhere* was the working title for the third book in the [[Skyward (series)\|Skyward series]]; however, as Brandon's publisher disliked it, it was changed to *Cytonic*.
 
 
-https://coppermind.net/wiki/Belt
+https://coppermind.net/wiki/Nowhere

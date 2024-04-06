@@ -61,4 +61,4 @@ A [[Fabrial\|fabrial]] with a brass cage will reduce the strength of the fabrial
 Brandon made a mistake while writing [[The Well of Ascension\|The Well of Ascension]]. The Feruchemical effects of brass and [[Electrum\|electrum]] were to be swapped. By the time he realized this was forgotten, however, the book was already in print. Brandon didn't want to retcon this, so the effect of brass was canonized.
 
 
-https://coppermind.net/wiki/Soother
+https://coppermind.net/wiki/Brass

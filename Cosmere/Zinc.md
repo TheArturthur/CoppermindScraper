@@ -60,4 +60,4 @@ In the [[Ars Arcanum\|Ars Arcanum]] of [[The Final Empire\|The Final Empire]], t
 
 
 
-https://coppermind.net/wiki/Zinc
+https://coppermind.net/wiki/Rioter

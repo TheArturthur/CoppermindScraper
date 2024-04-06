@@ -24,4 +24,4 @@ When the group was fleeing New Seran after the events at both the party and the 
 
 
 
-https://coppermind.net/wiki/Aunt_Gin
+https://coppermind.net/wiki/Gin

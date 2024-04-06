@@ -66,28 +66,28 @@ The Steel Ministry is organized into subsections named Cantons. The priests are 
  by  Francis Goeltner  [[Straff Venture\|Straff Venture's]] obligators visiting Lord [[Themos Tresting\|Tresting's]] plantation
 As the bank of the Final Empire, the Canton of Finance directs the financial operations of the Final Empire. Its responsibilities also include the transport of funds.
 
-
+#### Headquarters
 The Canton of Finance's headquarters is housed in an imposing building in [[Luthadel\|Luthadel]]. It is tall and blocky with a massive rose window in the front, with two red banners hanging down beside the window, proclaiming praises to the Lord Ruler. Inside the building, one would find a desk at the end of an extended entryway, with an obligator manning the desk. Decorations within the building are sparse. It is often described as austere, bearing only necessary furniture and simple grey carpeting, the walls also lacking adornments. An exception to that rule is the waiting room; with plush chairs and lavish décor, the room clearly caters to the tastes of visiting noblemen. Snacks, such as small cakes, are also provided for those waiting.
 
 ### Canton of Resource
-
+#### Purpose
 There are many philosophers in the Steel Ministry and most end up in the Canton of Resource, the best place for those with analytical minds. This Canton is tasked with trade, transport, and taxation. A large portion of the [[Atium\|atium]] mined at the [[Pits of Hathsin\|Pits of Hathsin]] is secretly transported by the Canton of Resource to the [[Trustwarren\|Trustwarren]] or to be distributed by the Lord Ruler. There are obligators on duty at the Pits all the time to extract the metal from the geode while in a metal room. The beads of atium are then hidden in Ministry funds to be transported to Luthadel for distribution. They are disguised in piles of coins since metal coins radiate light in the [[Cognitive Realm\|Cognitive Realm]], which prevents [[Ruin\|Ruin]] from noticing where the atium goes. The Canton is also in charge of maintaining supply lines to the other Cantons, for feeding the people, and maintaining the canals.
 
-
+#### Headquarters
 The national headquarters of the Canton of Resource is in Luthadel while one of the [[Western Dominance\|Western Dominance's]] regional headquarters is in [[Fadrex City\|Fadrex City]] and houses the fifth, and final, of the Lord Ruler's [[Storage cache\|storage caches]]. The single story building housing the regional headquarters in Fadrex City is blocky and utilitarian with sharp, flat walls and small windows. It is the largest of any Ministry buildings in the city because it acts as a way station between Luthadel and more important cities (such as [[Tremredare\|Tremredare]]) to the west. This gives this Canton influence in Fadrex City, which makes [[Aradan Yomen\|Prelan Aradan Yomen]], the head of the Canton locally, the top religious authority in the city.
 
 ### Canton of Inquisition
-
+#### Purpose
 The Canton of Inquisition is run by the Steel Inquisitors and acts as law enforcement, especially over the Allomantic community. Members of the Canton of Inquisition have the usual tattoos around their eyes, with the addition of a stark red line on the side of their face. Administrators in this Canton collect and file information that might assist in the policing efforts. This information is about noble houses, skaa rebels, and the other Cantons.
 
  by  Ydunn Lopez  A Steel Inquisitor
 In addition to dealing with anyone that goes against Ministry protocol, the Canton of Inquisition also maintains Soothing stations all around the city of Luthadel. The purpose of these bases is to dampen the emotions of everyone in the area, calming and depressing them to prevent rebellion. In addition, many Inquisitors find skaa Mistings by installing [[Bronze\|Seekers]] in these stations. There are between thirty to forty Soothing stations around the city, each with three [[Brass\|Soothers]], a Seeker, and a [[Copper\|Smoker]] who has the job of masking the Allomancy to anyone outside.
 
-
+#### History
 The Canton of Inquisition was formed sometime during the sixth century of the Lord Ruler's reign. This Canton was the one to suggest the [[Terris\|Terris]] breeding programs to the Lord Ruler in order to keep the Terris population under control. The Lord Ruler agreed to it provisionally, and the programs were then kept until the collapse of the Final Empire. However, the subjugation of the Terris people started far before the Canton of Inquisition created the idea of the breeding programs.
 The Inquisitors themselves didn't belong to the regular chain of command in the Steel Ministry, but were ranked below the Lord Prelan. Through [[Kar\|Kar's]] revelation that [[Vin\|Vin]] was the daughter of the Lord Prelan [[Tevidian Tekiel\|Tevidian Tekiel]], shortly before the death of the Lord Ruler, the Canton of Inquisition gained dominance over the other Cantons in the final days of the Empire.
 
-
+#### Buildings
 >“*As I walk, I wonder what secrets the Inquisitors deemed worthy of hiding below the earth, in the basement of their stronghold.*”
 \-Sazed, observing the Conventical of Seran[14]
 
@@ -105,13 +105,13 @@ In addition to their bureaucratic functions, the obligators serve as the Lord Ru
  by  Anna_Korabelnikova  Noorden, an obligator
 Obligators are distinguished by their shaved heads and intricate black tattoos around their eyes that signify rank and Canton membership. They typically wear dark grey robes.
 
-
+#### Obligator Ranks
 Obligator
 Prelan
 High Prelan
 Steel Inquisitor
 Lord Prelan
-
+#### Known Obligators
 Lord Prelan [[Tevidian\|Tevidian]]: Canton of Orthodoxy
 [[Bendal\|Bendal]]: Canton of Inquisition
 [[Kar\|Kar]]: Canton of Inquisition
@@ -130,18 +130,18 @@ In the year 1022, the Ministry was presided over by Lord Prelan Tevidian. The Ca
 ### Post-Collapse
 After the Collapse of the Final Empire, the Steel Ministry remained in various forms, depending on the local ruler.
 
-
+#### The New Empire
 King [[Elend Venture\|Elend Venture]] used Steel Ministry facilities as his government buildings. In Luthadel, Elend used a low-ceilinged room, similar to a lecture hall, in the Canton of Finance headquarters as an assembly hall for the [[Luthadel Assembly\|Luthadel Assembly's]] meetings. He remodeled the building so that civilians could come and watch the Assembly proceedings.
 Elend allowed obligators to continue their preaching, but instituted laws that prohibited them from inciting rebellion or violence. The vast majority of obligators refused to lend their knowledge to Elend's new kingdom. Vin wanted to remove them from the city since they wouldn't assist the kingdom with their bureaucratic abilities. Noorden was a notable exception to this general attitude among obligators and he frequently aided Elend. The king employed Noorden for many reasons, partly to utilize his unique viewpoint.
 
  by  LittleGreyDragon  Prelan Araden Yomen
-
+#### Straff Venture's Lands
 Straff Venture used obligators to administrate and organize his lands.
 
-
+#### Urteau under the Citizen
 The [[Citizen\|Citizen]] left the Steel Ministry buildings in Urteau as they were when he took control of the city from Straff. He didn't burn or ransack them as he did with homes of the nobility. Possibly out of fear of the Inquisitors, he had the buildings boarded up instead.
 
-
+#### Fadrex City
 When [[Ashweather Cett\|Lord Cett]] left for Luthadel, Prelan Aradan Yomen took over the leadership of Fadrex City. Yomen was the highest ranked obligator in the region around Fadrex City and, when Cett left, he naturally took over. The people of the city quickly accepted him as their new ruler because they were used to obligator leadership. Yomen's rule helped them maintain a sense of normalcy because he, a high-ranking obligator himself, ran the government of Fadrex City after the manner of the Lord Ruler's empire. One way he encouraged the culture of the Lord Ruler was by continuing to throw balls. He used his own Canton, the Canton of Resource, building as the headquarters for his government. Yomen used the supplies from the storage cache under the city to feed his populace. He also used another Ministry building as an infirmary.
 
 ### Post-Catacendre
@@ -175,4 +175,4 @@ Obligators were originally just called priests and the Steel Ministry was called
 
 
 
-https://coppermind.net/wiki/Lord_prelan
+https://coppermind.net/wiki/Canton_of_Finance

@@ -39,4 +39,4 @@ While learning [[Allomancy\|Allomancy]] from [[Gemmel\|Gemmel]], [[Kelsier\|Kels
 
 
 
-https://coppermind.net/wiki/Eleventh_Metal
+https://coppermind.net/wiki/Malatium

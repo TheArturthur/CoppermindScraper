@@ -73,4 +73,4 @@ She is featured in a full-color Epic File found in the Books-a-Million special e
 Regalia's weakness is never publicly revealed in the Reckoners Series.
 
 
-https://coppermind.net/wiki/Abigail_Reed
+https://coppermind.net/wiki/Regalia

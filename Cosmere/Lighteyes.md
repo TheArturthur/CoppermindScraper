@@ -103,7 +103,7 @@ King [[Valam\|Valam]], former King of Jah Keved
 King [[Taravangian\|Taravangian]], former King of Jah Keved, and [[Kharbranth\|Kharbranth]].
 Queen [[Fen Rnamdi\|Fen Rnamdi]], Queen of [[Thaylenah\|Thaylenah]].
 ### Second dahn
-
+#### Alethkar
 Queen [[Navani Kholin\|Navani Kholin]], Queen of Urithiru.
 Queen [[Aesudan Kholin\|Aesudan Kholin]], Queen of Alethkar.
 Prince [[Gavinor Kholin\|Gavinor Kholin]], heir to Alethkar.
@@ -115,7 +115,7 @@ Highprince [[Bethab\|Bethab]].
 Highprince [[Hatham\|Hatham]], [[Highprince of Works\|Highprince of Works]].
 Highprince [[Turinad Sebarial\|Turinad Sebarial]], [[Highprince of Commerce\|Highprince of Commerce]].
 Highprince [[Relis Ruthar\|Relis Ruthar]].
-
+#### Jah Keved
 [[Abrial\|Abrial]]
 [[Boriar\|Boriar]]
 [[Evinor\|Evinor]]
@@ -137,4 +137,4 @@ Highprince [[Relis Ruthar\|Relis Ruthar]].
 [[Rind\|Rind]], Kholin head quartermaster
 
 
-https://coppermind.net/wiki/Brightlady
+https://coppermind.net/wiki/Brightlord

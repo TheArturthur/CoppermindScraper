@@ -90,7 +90,7 @@ Nazh also travelled throughout the [[Sea of Souls\|Sea of Souls]], visiting loca
 Nazh was sent to embed himself among the [[Stonewards\|Stonewards]], and found ways to look at the nature of [[Intent\|Intent]] as it relates to [[Stoneshaping\|Stoneshaping]].
 
 ### Time on Scadrial
-
+#### The Ghastly Gondola incident
 >“*I don't care if [this map]'s the Survivor's bathrobe! Just give it to me!*”
 \-Nazh to Nicelle Sauvage[1]
 
@@ -100,7 +100,7 @@ Some three and a half hundred years after the [[Catacendre\|Catacendre]], and a 
 Khriss either remained in or travelled to [[New Seran\|New Seran]], eventually meeting [[Wax\|Wax]] at a ball and questioning him about his abilities. Nazh, meanwhile, attempted to retrieve a map of [[New Seran\|New Seran]] inherited by [[Nicelle Sauvage\|Nicelle Sauvage]]. For this particular job, he dressed up in a [[Mistcloak\|mistcloak]] for unknown reasons. Nazh managed to acquire the map, but Nicelle pursued him onto a gondola of a cable train riding above the city. In return, Nazh opened fire from his shade gun, trying to make it seem as though he wanted to kill her so that she'd leave him alone.
 Nicelle, however, managed to use her [[Leecher\|leecher]] abilities to disarm the gun, to Nazh's shock. He managed to reactivate it in a few moments, but Nicelle quickly kicked it out of the gondola altogether and went for the map. The two struggled for it, with Nazh yelling at Nicelle in frustration to let go and Nicelle insisting that one, the map was her inheritance, and two, Nazh could've been much more polite about trying to acquire it. Nazh eventually resolved the situation by slicing the map in half and jumping off the gondola. He himself retained the part showing the city, while Nicelle had the half with a hidden pocket. It's unknown which was of greater interest to Nazh, and whether he was even aware of the hidden pocket's existence.
 
-
+#### The Compass of Spirits
 Over the following six years Nicelle's and Nazh's paths crossed many time until eventually Nicki began to count him as one of her adventuring companions. During this time they each made a promise to the other that they would explore the Cosmere together as their relationship took on a romantic tension.
 During one adventure they were on a quest to find an item Nicelle called 'The Compass of Spirits' which she claimed sent the bearer to the 'ghostly dimension', supposedly Shadesmar, Nicelle seemed convinced that the fate of Scadrial depended on their quest's success. Eventually the pair managed to collect the Compass of Spirits along with the key needed to open it up only for [[Vila Mecant\|Vila Mecant]] to steal the compass off them, panicked Nicelle told Nazh to run away with the key before Vila could take it as well whilst she went to retrieve the Compass. Nicelle ultimately proved successful in her task and reunited with Nazh, then Nazh moved as if to kiss her but instead pickpocketed the Compass and used it to escape to the ghostly dimension himself, apologizing whilst doing so. Nicelle was devastated with this development and considered her mission failed until the two Kandra alongside her informed her that there existed another means to enter the ghostly dimension.
 
@@ -148,4 +148,4 @@ This article is still missing information. Please help The Coppermind by .
 
 
 
-https://coppermind.net/wiki/Nazh
+https://coppermind.net/wiki/Nazrilof

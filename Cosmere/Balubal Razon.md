@@ -3,6 +3,7 @@
 |**Died**|Murdered|
 |**Profession**|Inventor|
 |**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
+|**First Appeared**|*Legion*|
 
 >“*A man seeking to meld science and faith, the first person—perhaps in the history of mankind—to actually find a way to apply science to the ultimate truths of religion.*”
 \-Tobias speaking about Balubal Razon[2]

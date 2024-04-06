@@ -42,4 +42,4 @@ His sister, [[Beldre\|Beldre]], is a [[Coinshot\|Coinshot]].
 
 
 
-https://coppermind.net/wiki/Citizen
+https://coppermind.net/wiki/Quellion

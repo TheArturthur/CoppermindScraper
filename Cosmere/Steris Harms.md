@@ -132,4 +132,4 @@ Steris was based on a friend of Brandon's whom he initially found very abrasive.
 Steris likes traditional names.
 
 
-https://coppermind.net/wiki/Steris
+https://coppermind.net/wiki/Steris_Harms

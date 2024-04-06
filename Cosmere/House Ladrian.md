@@ -44,7 +44,7 @@ The entryway of the mansion has a marble floor with silver inlays. The study, wh
 in residence, lies on the western side of the upper floor. The part of the mansion centered on the study is damaged in an explosion in 341 [[Catacendre\|PC]] and is subsequently rebuilt; afterwards, the study is located such that its doorway opens onto a balcony on the top level of the entryway. The mansion is decorated in a classical style with dark wood, stone sculptures, and lavish frames around the artwork. However, many of the portraits and paintings are sold during Edwarn's stint as High Lord, leaving blank spaces on the walls.
 The house also owns a ballroom, suitable for large events entertaining some three to four hundred people, in a separate location of the octant for a period of time before selling it off during Edwarn's stint as head of the house.
 
-
+#### Servants
 Servants employed in various positions related to service to the mansion or the High Lord include:
 
 
@@ -116,4 +116,4 @@ House Ladrian Family Tree
 
 
 
-https://coppermind.net/wiki/Ladrian_mansion
+https://coppermind.net/wiki/House_Ladrian
