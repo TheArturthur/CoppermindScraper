@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Porter|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Plamry** is a [[Thaylen\|Thaylen]] man on [[Roshar\|Roshar]] that worked with [[Nikliasorm\|Nikli]] as a porter to [[Rysn\|Rysn]].
 

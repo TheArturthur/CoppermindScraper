@@ -2,9 +2,8 @@
 |-|-|
 |by  Isaac Stewart |
 |**Fabrial type**|[[Alerter\|Alerter]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*The Stormlight Archive*|
 
 An **Emotion bracelet** is a type of  alerter fabrial that is able to detect emotions that are being experienced by those nearby. It was developed during the [[Era of Solitude\|Era of Solitude]] on [[Roshar\|Roshar]]. Brightlady [[Navani Kholin\|Navani Kholin]] drew a diagram of an emotion bracelet in her [[Navani's notebook\| notebook]]. As a well known artifabrian, it is likely she had a hand in its design.
 

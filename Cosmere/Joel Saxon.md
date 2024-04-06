@@ -4,8 +4,7 @@
 |**Parents**|[[Trent Saxon\|Trent]], [[Mrs. Saxon\|Mrs. Saxon]]|
 |**Profession**|Student|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Joel Saxon** is a student at [[Armedius Academy\|Armedius Academy]].
 He is not a [[Rithmatics\|Rithmatist]], but enjoys studying Rithmatics, and excels at mathematics. He is a fantastic line/circle drawer, even though he does not possess the magic properties needed to be a Rithmatist.
@@ -28,17 +27,16 @@ Joel is believed to be the only non-Rithmatist ever to encounter a [[Shadowblaze
 
 ## Appearance and Personality
 Joel is 16 years old and tall for his age.
-He is obsessed with Rithmatics, and is very good in every academic subject, especially geometry.
-
+He is obsessed with Rithmatics, and is very good in every academic subject, especially geometry. Despite his aptitude in academics, he tends to fail at least one class every year.
 
 ## History
 ### Student at Armedius
-Joel has lived at Armedius Academy his whole life. He grew up there due to his father being the school chalkmaker and his mother a cleaner. He was offered a scholarship by [[Thomas York\|Principal York]] when his father died in a springrail accident. Joel and his mother then moved from his father's workshop into a small room with one bed and one bathroom. Joel attended Armedius once old enough, and then proceeded to flunk one class every year.
+Joel has lived at Armedius Academy his whole life. He grew up there due to his father being the school chalkmaker and his mother a cleaner. He was offered a scholarship by [[Thomas York\|Principal York]] when his father died in a springrail accident when Joel was eight. Joel and his mother then moved from his father's workshop into a small room with one bed and one bathroom. Joel attended Armedius once old enough, and then proceeded to flunk one class every year.
 
 >“*No son, I can’t agree to this. Too unconventional. I have already caused enough trouble. I’m sorry, son.*”
 \-Professor Fitch denying Joel’s request to study under him[7]
 
-Joel was sneaking into a Rithmatist lecture from [[Fitch\|Professor Fitch]] when [[Andrew Nalizar\|Andrew Nalizar]] showed up to challenge Fitch. Fitch was beaten by Nalizar and subsequently demoted Joel had to decide on a summer elective. Joel heard that [[Lilly Whiting\|Lilly Whiting]], a Rithmatist student, is missing, and he sees a federal inspector on campus. Joel asked [[Davis\|another student]] he knew about spending the holidays with him as usual, but Davis told him he’s spending the holidays with a group of rich, popular students. Joel decided to try and get a summer elective studying Rithmatics under Professor Fitch. Joel asked Fitch, who said it wasn’t possible, and gently denied his request. Desperate to join Fitch’s class, Joel decided to purposefully fail his Rithmatic history exam, in hopes that he might be assigned to remedial tutoring with Professor Fitch. After failing it, Joel was sent to [[Thomas York\|the principal’s]] office. Joel confessed why he did it, and York compromised that if Joel passed his history test, he could be assigned to Fitch as a research assistant on a special project. Joel went back to class, and was allowed to redo his test, which he passed.
+Joel was sneaking into a Rithmatist lecture from [[Fitch\|Professor Fitch]] when [[Andrew Nalizar\|Andrew Nalizar]] showed up to challenge Fitch. Fitch was beaten by Nalizar and subsequently demoted Joel had to decide on a summer elective. Joel heard that [[Lilly Whiting\|Lilly Whiting]], a Rithmatist student, is missing, and he sees a federal inspector on campus. Joel asked [[Davis\|another student]] he knew about spending the holidays with him as usual, but Davis told him he’s spending the holidays with a group of rich, popular students. Joel decided to try and get a summer elective studying Rithmatics under Professor Fitch. Joel asked Fitch, who said it wasn’t possible, and gently denied his request. Desperate to join Fitch’s class, Joel decided to purposefully fail his Rithmatic history exam, in hopes that he might be assigned to remedial tutoring with Professor Fitch. After failing it, Joel was sent to [[Thomas York\|the principal’s]] office. Once the principal made it clear that he intended to expel him, Joel confessed why he did it, and York compromised that if Joel passed his history test, he could be assigned to Fitch as a research assistant on a special project. Joel went back to class, and was allowed to redo his test, which he passed.
 
 ### Research Assistant to Fitch
 >“*No, it’s perfect. I… Coming in here feels like home.*”

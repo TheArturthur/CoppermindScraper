@@ -4,9 +4,8 @@
 |**Relatives**|Highprince [[Hatham\|Hatham]]|
 |**Titles**|Highlord|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article contains information about the Alethi highlord. For the [[Fused\|Fused]] with the same given name, see [[Rine\|Rine]]. For the Alethi highprince, see [[Hatham\|Hatham]].
 Highlord **Rine Hatham** is a [[Lighteyes\|lighteyes]] living in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is presumably related to Highprince [[Hatham\|Hatham]].

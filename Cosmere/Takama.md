@@ -1,10 +1,9 @@
 |**Takama**|
 |-|-|
-|**Related to**|[[Vorinism\|Vorinism]]🐱︎|
+|**Related to**|[[Vorinism\|Vorinism]]|
 |**Type**|Garment|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Takamas** are traditional warrior garments from [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

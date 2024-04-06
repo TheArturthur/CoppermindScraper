@@ -1,9 +1,8 @@
 |**Polestone**|
 |-|-|
 |**Related to**|[[Spheres\|Spheres]] [[Soulcasting\|Soulcasting]] [[Fabrial\|Fabrials]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -61,7 +60,8 @@ It is associated with the [[Order of Windrunners\|Order of Windrunners]]
 ### Smokestone
 **Smokestone** is associated with the Essence of Vapor. They are used to Soulcast opaque gases, like smoke and fog.
 Smokestones are used in a type of fabrial clock.
-It is associated with the [[Order of Skybreakers\|Order of Skybreakers]]
+It is associated with the [[Order of Skybreakers\|Order of Skybreakers]].
+Smokestone is a chemically impure version of quartz.
 
 ### Ruby
 **Ruby** is associated with the Essence of Spark. They are used to Soulcast fire.
@@ -116,12 +116,12 @@ While Polestones are produced via mining, a significant source of them on Roshar
 Perfect gemstones have the capacity to hold [[Cognitive Shadow\|Cognitive Shadows]] in addition to spren, the latter of which they have a far larger capacity than normal gemstones--they can hold [[Herald\|Heralds]], the [[Unmade\|Unmade]], and even [[Fused\|Fused]]. They could also capture some of the [[Dor\|Dor]] or the sunlight from [[Taldain\|Taldain]].
 
 ## Transfer
-It is possible to transfer light from filled, small gemstone to a large and empty gemstone of its type by holding the filled gemstone to the empty one. This method of transfer is slow and inefficient, however the [[Thaylen\|Thaylens]] discovered an efficient way of transferring Stormlight from one gemstone to another. By using a tuning fork of a specific frequency, a person can touch an infused gemstone and then touch the fork to the empty gemstone for a rapid mode of transfer. With the Thaylen method, the type of Polestone does not matter, and light can be transferred from any type to any type. It is unknown how far the tuning fork can be brought before transfer is impossible, or the decay rate.
+It is possible to transfer Light from a filled, small gemstone to a large and empty gemstone of its type by holding the filled gemstone to the empty one. This method of transfer is slow and inefficient; however, the [[Thaylen\|Thaylens]] have discovered a more efficient way of transferring Stormlight from one gemstone to another. By using a tuning fork of a specific frequency, a person can touch an infused gemstone and then touch the fork to the empty gemstone for a rapid mode of transfer. With the Thaylen method, the type of Polestone does not matter, and light can be transferred from any type to any type. The decay rate is unknown, as is the distance the tuning fork can be brought before transfer is impossible.
 Surgebinders are also able to infuse Polestones regardless of the type, and can do so very quickly.
 
 ## Roshar Economy
 For more information, see [[Spheres\|Spheres]].
-Gemstones form the basis for the Roshar economy. When used as currency, the gems are encased in glass [[Spheres\|spheres]]. Although the spheres are of uniform size, the gemstones inside are of three sizes. In descending order of size (and value), these gem sizes are broam, mark, and chip.
+Gemstones form the basis for the Roshar economy. Gemstone weight is measured in kivs. When used as currency, the gems are encased in glass [[Spheres\|spheres]]. Although the spheres are of uniform size, the gemstones inside are of three sizes. In descending order of size (and value), these gem sizes are broam, mark, and chip.
 In addition, the value of the “sphere” is determined by the type of gemstone, which have different values as determined by their utility rather than their rarity.. Their relative value in descending order is as follows: emerald, sapphire, ruby, diamond, and garnet. In addition, amethyst is one of the more valuable gemstones; topaz and zircon are amongst the least valuable.
 
 

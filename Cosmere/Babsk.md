@@ -1,8 +1,7 @@
 |**Babsk**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* ...by tradition, he was more than just her master. He was her father, legally, until he pronounced her ready to become a merchant on her own.*”
 \- Rysn discussing her babsk[1]

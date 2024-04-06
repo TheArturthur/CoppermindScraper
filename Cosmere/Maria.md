@@ -1,7 +1,6 @@
 |**Maria**|
 |-|-|
-|**World**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
-|**Featured In**|*Snapshot*|
+|**Homeworld**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
 
 **Maria** is the IRL/[[Snapshot (event)\|Snapshot]] liaison officer who texts with [[Chaz\|Chaz]] and [[Anthony Davis\|Davis]] while they are in the Snapshot. Chaz and Davis talk to Maria in the back of the 42nd precinct, where the snapshot teams and Maria work, to get the information they don't want to ask IRL Maria. When threatening Snapshot Maria for information, Chaz gets frustrated and then shoots and kills her.
 

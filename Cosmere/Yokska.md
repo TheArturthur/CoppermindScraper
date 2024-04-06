@@ -1,11 +1,11 @@
 |**Yokska**|
 |-|-|
+|**Spouse**|Husband|
 |**Profession**|Tailor|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Yokska** is a [[Thaylen\|Thaylen]] tailor in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].
 

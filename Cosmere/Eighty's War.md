@@ -2,10 +2,9 @@
 |-|-|
 |**Date**|c. 1167-1174|
 |**Participants**|[[Emul\|Emul]], [[Tukar\|Tukar]]|
-|**City**|[[Sesemalex Dar\|Sesemalex Dar]]🐱︎|
+|**City**|[[Sesemalex Dar\|Sesemalex Dar]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 

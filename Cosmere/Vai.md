@@ -3,9 +3,9 @@
 |by  Marie Seeberger |
 |**Parents**|[[Sah\|Sah]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Vai** is a seven-year-old [[Singer\|singer]] on [[Roshar\|Roshar]]. She is [[Sah\|Sah's]] daughter, and one of the younger girls in their traveling group.
 
@@ -45,7 +45,7 @@ Vai sniffled and asked why, that they never tried to hurt them, that they were n
 When the singers and Kaladin approached [[Revolar\|Revolar]], Sah carried Vai on his shoulder so she could have a better view. She held onto some wooden cards, clutching them like another child might carry a favorite stuffed doll. As they walked, Sah told Kaladin that he'd dreamed of the parshmen having their own city, and here it was. Kaladin asked if that was what this was all about, conquering the kingdom, destroying humankind. Sah said he didn't know, but he could not be a slave again and he would not let them take Vai and imprison her.
 
 ### Separation from Sah
-Unfortunately, Vai was taken from her father by order of the [[Fused\|Fused]] when Sah, Khen, and the other singers in their group were sent along with [[Moash\|Moash]] to fight in the [[Siege of Kholinar\|Siege of Kholinar]]. This was supposedly a punishment for "harboring" Kaladin as a spy, although in reality the Fused were looking for reasons to conscript more singers into their infantry. Sah was enraged by this development, but had no recourse. He was ultimately killed in the fighting; Kaladin, who participated in the battle alongside the [[Kholinar Wall Guard\|Kholinar Wall Guard]], slumped to his knees upon seeing Sah fall, recalling that all he ever wanted was to protect his daughter. Vai's whereabouts after being separated from her father are unknown.
+Unfortunately, Vai was taken from her father by order of the [[Fused\|Fused]] when Sah, Khen, and the other singers in their group were sent along with [[Moash\|Moash]] to fight in the [[Siege of Kholinar\|Siege of Kholinar]]. This was supposedly a punishment for "harboring" Kaladin as a spy, although in reality the Fused were looking for reasons to conscript more singers into their infantry. Sah was enraged by this development, but had no recourse. He was ultimately killed in the fighting; Kaladin, who participated in the battle alongside the [[Kholinar Wall Guard\|Kholinar Wall Guard]], slumped to his knees upon seeing Sah fall, recalling that all he ever wanted was to protect his daughter. Vai's whereabouts after being separated from her father are unknown but she is still alive.
 
 
 

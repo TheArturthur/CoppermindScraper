@@ -4,9 +4,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Willshapers\|Willshaper]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Venli\|Venli]], [[Eshonai\|Eshonai]] |
 |**Species**|[[Lightspren\|Lightspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*"I'm a fraud, Timbre. A fake Radiant. I don’t know what I’m doing."*
 \-"I do."

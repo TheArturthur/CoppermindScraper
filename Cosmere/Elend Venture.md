@@ -9,12 +9,13 @@
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Titles**|King of the Central Dominance High Emperor of the [[New Empire\|New Empire]]Last Emperor|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]🐱︎, Venture army|
+|**Religion**|[[Survivorism\|Survivorism]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*Mistborn: The Final Empire*|
 
 **Elend Venture** is a [[Noble\|noble]] in [[Scadrial\|Scadrial]]. After the [[Collapse\|Collapse]], he becomes King of the [[Central Dominance\|Central Dominance]], and later, High Emperor of the [[New Empire\|New Empire]]. After swallowing a bead of [[Lerasium\|lerasium]], he becomes [[Allomancy\|Mistborn]]. He is married to [[Vin\|Vin]].
 
@@ -87,7 +88,7 @@ Though his roots are in philosophy, Elend has extensive knowledge on many differ
 ## History
 ### Early History
 As a child, Elend was beaten to near death to determine whether he was an Allomancer. His mother is presumably dead, since he speaks about her in the past tense, but she had a great influence on him. When he was thirteen, his father forced him to sleep with a skaa woman. He was horrified after discovering that she would be killed afterward. Elend started to intentionally behave in ways that would enrage his father. For example his clothing was always messy and too huge. He blew several engagements with his attitude. In the end however his acts were pointless, and both he and Straff knew it.
-He started a drinking group with [[Jastes Lekal\|Jastes Lekal]], [[Telden Hasting\|Telden Hasting]], [[Kevoux\|Kevoux]], and another young noble, to talk about philosophy and form an alliance to exert pressure on the Lord Ruler. The group was also at least in part formed to annoy Elend's father. While the other young Nobles were only interested in more independence from the Lord Ruler, Elend showed interest in the [[Skaa\|skaa]] and was horified by the way they were treated. He wanted to use his power to improve their lives.
+He started a drinking group with [[Jastes Lekal\|Jastes Lekal]], [[Telden Hasting\|Telden Hasting]], [[Kevoux\|Kevoux]], and another young noble, to talk about philosophy and form an alliance to exert pressure on the Lord Ruler. The group was also at least in part formed to annoy Elend's father. While the other young Nobles were only interested in more independence from the Lord Ruler, Elend showed interest in the [[Skaa\|skaa]] and was horrified by the way they were treated. He wanted to use his power to improve their lives.
 
  by  Stephanie McCrea Rainosek 
 ### Pre-Collapse
@@ -134,11 +135,14 @@ After the foundation of the [[New Empire\|New Empire]], Vin and Elend set out to
 
 After discovering the cache's location, Elend marched on Fadrex City with forty thousand soldiers, twenty thousand [[Koloss\|koloss]], and a contingent of Allomancers. Because of the city's fortifications, and of a reluctance to loose the koloss upon people, he decided to lay siege to the city, and try to negotiate with Yomen. So, Elend and Vin went to a ball in [[Keep Orielle\|Keep Orielle]], inside the city, to talk with the obligator. Elend discussed about philosophy with Yomen, and was impressed by the man's arguments, that called him a hypocrite for taking the throne by force. After that, Elend and Vin danced, though he teased her by picking up a copy of [[Trials of Monument\|Trials of Monument]]--the book he was reading when the two first met--and starting to read it.
 At a suggestion from Cett, Elend ordered the wells of Fadrex City poisoned, and warned the city's people so that they wouldn't get hurt by it. Yomen sent a raid on the camp, but it was a distraction; simultaneously, his men threw rocks at the koloss, driving them to a rage that caused them to start killing each other, and half the twenty thousand koloss died. He and Vin went to another ball at the Canton of Resource. There, Elend distracted Yomen to gain time for Vin to search for the cache. However, Yomen believed he was the one distracting Elend, while Vin got trapped in the cache building. Fearing that Yomen might manipulate him again, instead of negotiating Elend decided to go searching for more koloss as a threat to use against Yomen. He took control of thirty thousand additional koloss.
+
+ by  Hunter Bonyun 
+
 In his trip back, feeling burdened by his responsibilities, he knelt down in the ash, and almost gives up. However, Leras appeared to him as the mist spirit. They communicated with Elend asking yes/no questions, and Leras answering by waving his arms to indicate a positive answer. He said Elend shouldn't attack Fadrex City, and pointed at Elend's metal vials. Elend asked whether Ruin can be beaten, and Leras waved his arms hesitantly, indicating "maybe". He had used his last bits of life to talk with Elend, and he died soon after.
 Despite from what Leras told Elend, the emperor decided to launch a surprise attack on Yomen on the next morning. However, he realized Vin wouldn't have done this, and decided to pull back. However, Ruin took control of the koloss and made them start attacking Elend's army. Ordering her koloss to attack Yomen's army, Vin managed to convince the obligator to retreat and let Elend's army enter Fadrex. An enormous army of koloss began to gather outside the city. Seeing a boy being taken by the mistsickness, he realized the mists are snapping the skaa, and the mistfallen are in fact Allomancers. Even with the new Allomancers, the koloss army was too big for Elend's and Yomen's army to face. However, the koloss retreated, going toward Luthadel. Yomen gave Elend his last atium bead, and Elend goes toward Luthadel to find Vin.
 
+ by  Gar_leyva 
 
- by  Hunter Bonyun 
 >“*Lost? We've won, Marsh.*”
 \-Elend to Marsh.[73]
 
@@ -159,7 +163,7 @@ After the [[Catacendre\|Catacendre]], Elend became known as the **Last Emperor**
 [[Vin\|Vin]] and Elend's first encounter was pure happenstance on the part of Vin, but as Elend had grown up in the Luthadel Noble Society, he saw everything as being plots within plots, so a hitherto unknown scion of the Renoux house just so happening to come to his alcove left him baffled. He became interested in her early on when he saw that Vin was entirely forthright in her opinions and actions though still oblivious that she loved him, he did develop love for her when he realised what she had been doing to protect him and she had been captured by the Lord Ruler.
 Due to Vin's nature as a Mistborn and her traits trained into her by Kelsier as an assassin, she believed he deserved someone better, someone who shared his interests and ideals, someone who saw nobility in his decision of giving up the throne. She also thought she hurt his pride by being Mistborn while he was just a common man, that he deserved a woman he could protect. She thought she didn't deserve because she thought she didn't deserve to be happy at all.
 Elend he felt he needed her genuine realism to keep him grounded, and thought himself lucky that she needed him; he believed she was ten times as capable as him. He was sometimes frustrated by her idiosyncrasies, but he still loved her. Most of all, he trusted her; he defended her actions even when she attacked Cett, killing hundreds of men, and he trusted her to make the right decisions even when he didn't know what she was deciding. At the [[Well of Ascension\|Well of Ascension]], however, she knew that Elend would want her to sacrifice him to save his people, and she loved him enough to trust his wishes and give up the power instead of saving him.
-During the final years of the World of Ash, Elend's trust and faith in his wife were shown implicitly by considering her on her own being an army, having complete trust in her during the various fights with and command over Koloss armies that they controlled via[[Hemalurgy\|Hemalurgy]]. Coming to a complete understanding during the fight at [[Fadrex City\|Fadrex]] by silently explaining their bluff to divert [[Ruin\|Ruin's]] attention.
+During the final years of the World of Ash, Elend's trust and faith in his wife were shown implicitly by considering her on her own being an army, having complete trust in her during the various fights with and command over Koloss armies that they controlled via [[Hemalurgy\|Hemalurgy]]. Coming to a complete understanding during the fight at [[Fadrex City\|Fadrex]] by silently explaining their bluff to divert [[Ruin\|Ruin's]] attention.
 During the Siege of the Pits of Hathsin and Vin's Ascension, she assisted Elend by providing him additional powerful Investiture via contact that remained until the moment he was cut down by [[Marsh\|Marsh]], leading to Vin's sacrifice as she kills Ruin.
 After their death's and the ascension of Sazed as [[Harmony\|Harmony]], both Elend and Vin decline Kelsier's offer to remain in the Cognitive Realm and journey on together into the Beyond.
 
@@ -169,7 +173,7 @@ After their death's and the ascension of Sazed as [[Harmony\|Harmony]], both Ele
 
 
 In the battle before [[Kelsier\|Kelsier's]] death, despite his hate of noblemen, he saved Elend's life because he knew Vin loved the nobleman. But when he found out that Elend was king, he was angry for days. However, when Elend came to him in the Well, he wasn't angry, because he considered not Elend's fault that he became king, considering him "too oblivious to be dangerous".
-While king, Elend compared himself to Kelsier on numerous occasions. He thought that if Kelsier were alive, he would be king instead of Elend, and that he would have been a better king than Elend. However, he later accepted that there was no one mold for a leader, and that he didn't need to be Kelsier to be a good king.
+While king, Elend compared himself to Kelsier on numerous occasions, even though they had never really met. He thought that if Kelsier were alive, he would be king instead of Elend, and that he would have been a better king than Elend. However, he later accepted that there was no one mold for a leader, and that he didn't need to be Kelsier to be a good king.
 
 ### Tindwyl
 >“*You have good ideas, Elend Venture. Regal ideas. However, you are not a king. A man can only lead when others accept him as their leader, and he has only as much authority as his subjects give to him. All of the brilliant ideas in the world cannot save your kingdom if no one will listen to them.*”
@@ -201,4 +205,4 @@ Elend's speech in the Collapse was inspired by the .
 Elend's  color alignment would probably be blue/white.
 
 
-https://coppermind.net/wiki/Elend
+https://coppermind.net/wiki/Elend_Venture

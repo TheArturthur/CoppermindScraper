@@ -1,9 +1,8 @@
 |**Cadilar**|
 |-|-|
 |**Titles**|Brightlord|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlord **Cadilar** is an elderly [[Alethi\|Alethi]] noble on the [[Shattered Plains\|Shattered Plains]] associated with [[Highprince\|Highprince]] [[Vamah\|Vamah]].
 On ? 1173, Cadilar attended one of the feasts held by King [[Elhokar Kholin\|Elhokar Kholin]]. There he encountered [[Wit\|Wit]], who compared Cadilar's wizened face to that of Cadilar's own horse.

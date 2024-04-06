@@ -1,21 +1,47 @@
+
+
 |**Sigzil**|
 |-|-|
 |by  Marie Seeberger |
-|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]🐱︎|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Bridge Four\|Bridge Four]]🐱︎, [[Worldsingers\|Worldsingers]]🐱︎, Sadeas army , Kholin army|
-|**Residence**|[[Urithiru\|Urithiru]]|
+|**Abilities**|[[Order of Windrunners\|Windrunner]] , [[Shardbearer\|Shardbearer]], [[Order of Skybreakers\|Skybreaker]], [[Dawnshard\|Dawnshard]] , [[Worldhopper\|Worldhopper]]|
+|**Bonded With**|[[Auxiliary\|Auxiliary]], *Unnamed Honorspren* |
+|**Titles**|Sunlit Man, Sess Nassith Tor|
+|**Aliases**|Nomad, Zellion, Sunlit, Sig|
+|**Groups**|[[Knights Radiant\|Knights Radiant]]  [[Bridge Four\|Bridge Four]], [[Worldsingers\|Worldsingers]], Sadeas army , Kholin army |
 |**Ethnicity**|[[Makabaki\|Makabaki]]|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
-**Sigzil** is an [[Azish\|Azish]] member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]] and a companylord of the [[Knights Radiant\|Radiant]] [[Order of Windrunners\|Order of Windrunners]]. He was previously apprenticed to [[Hoid\|Hoid]] and is now a full [[Worldsinger\|Worldsinger]].
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+
+This page or section needs to be updated with new information for *The Sunlit Man*!Be aware that in its current state, it may not include all additional content yet.
+
+**Sigzil**, also known as **Nomad** or **Zellion**, is an [[Azish\|Azish]] member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]], a companylord of the [[Knights Radiant\|Radiant]] [[Order of Windrunners\|Order of Windrunners]], and later a [[Skybreaker\|Skybreaker]] and [[Dawnshard\|Dawnshard]]. He was previously apprenticed to [[Hoid\|Hoid]] and is now a full [[Worldsinger\|Worldsinger]].
 
 ## Contents
 
 1 Appearance and Personality
+
+1.1 Appearance
+1.2 Personality
+
+1.2.1 Religion
+
+
+
+
 2 Attributes and Abilities
+
+2.1 Surgebinding
+2.2 Dawnshard
+
+2.2.1 Skipping
+
+
+
+
 3 History
 
 3.1 Worldsinger
@@ -24,11 +50,15 @@
 3.4 Windrunner Squire
 3.5 Windrunner
 3.6 Emuli Offensive
+3.7 Dawnshard and the Night Brigade
+3.8 Arrival on Canticle
 
 
 4 Relationships
 
-4.1 Kaladin
+4.1 Auxiliary
+4.2 Kaladin
+4.3 Hoid
 
 
 5 Trivia
@@ -39,17 +69,42 @@
  by  Shuravf 
 For more images, see [[Sigzil/Gallery\|/Gallery]].
 >“*My master trained me to ask questions, so I’m asking them.*”
-\-Sigzil[5]
+\-Sigzil[10]
 
 
-Sigzil is clean-shaven with dark brown skin and thick, curly black hair. He is considered average height in Azir, which makes him short compared to most [[Alethi\|Alethi]]. He has a [[Bridge Four\|Bridge Four]] tattoo on his forehead covering the place where he used to be branded with a slave mark.
-Sigzil tends to be quiet and close-mouthed, though when he embraces his role as a [[Worldsinger\|Worldsinger]], he displays deep knowledge of a variety of cultures and speaks openly and volubly. He seems to enjoy deep conversations, especially when conducted one-on-one, and has a formal way of speaking. He also has a judgmental streak, particularly around disorderly people or when faced with other cultures' less organized and bureaucratic methods. Taking [[Hoid\|Hoid's]] teachings to heart, however, he does attempt to be more open-minded.
+### Appearance
+Sigzil is clean-shaven with dark brown skin and thick, curly black hair. He is considered short in his homeland of Azir, although he is considered to be very tall when compared to people from other planets. He has a [[Bridge Four\|Bridge Four]] tattoo on his forehead covering the place where he used to be branded with a slave mark.
+During his arrival on Canticle his hair was burned away by the sunlight, and he spent the first bit of his time on Canticle bald. Due to his invested nature it quickly grew back to its full length, but it was later burned away again.
+
+### Personality
+Sigzil tends to be quiet and close-mouthed, though when he embraces his role as a [[Worldsinger\|Worldsinger]], he displays deep knowledge of a variety of cultures and speaks openly and volubly. He seems to enjoy deep conversations, especially when conducted one-on-one, and has a formal way of speaking. He also has a judgmental streak, particularly around disorderly people or when faced with other cultures' less organized and bureaucratic methods. He is not very accepting of homosexuality, shaped by Azish views on the subject. Though he doesn't necessarily mistreat [[Drehy\|Drehy]] despite his views. Taking [[Hoid\|Hoid's]] teachings to heart, however, he does attempt to be more open-minded.
+
+>“*He was still the same person all these years later. Just as a hunk of metal was technically the same substance after being forged into an axe.*”
+\-Sigzil reflecting on himself during his time in Canticle.[19]
+
 Despite being incredibly organized and studious, Sigzil thinks less of himself for failing the governmental service exams in Azir. Likely as a result of growing up in a country where everything is well-organized, he prefers a clear relationship between himself and whomever he works for. He also expresses the need to figure out exactly what Bridge Four's chain of command is in regards to Alethi affairs after the beginning of the [[True Desolation\|True Desolation]].
-Despite his penchant for keeping this organized, Sigzil is not content with only being a clerk, and wants to be the "first into the sky," rather than spending all his time poring over ledgers. He is encouraging and optimistic to his friends.
+Despite his penchant for keeping things organized, Sigzil is not content with only being a clerk, and wants to be the "first into the sky," rather than spending all his time poring over ledgers. He is encouraging and optimistic to his friends.
+His personality changed greatly after he became a Dawnshard and fled Roshar, as the events and a life of fleeing the Night Brigade had a great effect on him.
+
+
+During his time on Roshar he was modestly religious, believing in Yaezir and the Azish emperor. After learning about the Cosmere, and having to flee Roshar, he appears to lose much of his faith, after this he still believes in the [[God Beyond\|God Beyond]], and a part of him continues to want to believe in Yaezir.
 
 ## Attributes and Abilities
-Sigzil has been trained with the spear and spearman tactics by Kaladin, and he uses the weapon "acceptably." He can read and write the Azish script, though out of deference to Alethi ideals he sticks with using glyphs to record written reports as Bridge Four's clerk. His understanding of other cultures, ability to work easily with numbers, and his level-headedness are all assets to the [[Order of Windrunners\|Order of Windrunners]].
-He has bonded an [[Honorspren\|honorspren]] and has sworn at least the Third Ideal of the Order of Windrunners, which allows him to draw in [[Stormlight\|Stormlight]] and use the [[Surge\|Surges]] of Gravitation and Adhesion.
+Sigzil has been trained with the spear and spearman tactics by Kaladin, and he uses the weapon "acceptably". He can read and write the Azish script, though out of deference to Alethi ideals he sticks with using glyphs to record written reports as Bridge Four's clerk. His understanding of other cultures, ability to work easily with numbers, and his level-headedness are all assets to the [[Order of Windrunners\|Order of Windrunners]]. Sigzil also speaks [[Alethi\|Alethi]] and [[Malwish\|Malwish]].
+Unlike most people, Sigzil is Connected to two places: Roshar and Canticle. Due to his Connection to Canticle, Sigzil is able to share Investiture with other [[Threnody\|Threnodites]], directly transferring it via touch.
+
+### Surgebinding
+ by  Ernanda Souza 
+Sigzil has bonded an [[Honorspren\|honorspren]] and has sworn at least the Fourth Ideal of the Order of Windrunners, which allows him to draw in [[Stormlight\|Stormlight]] and use the [[Surge\|Surges]] of Adhesion and Gravitation. Eventually, his bond was broken (although he retained some control over his old powers) and he bonded a [[Highspren\|highspren]] known as [[Auxiliary\|Auxiliary]], reaching at least the Fourth Ideal of that order as well.
+With these bonds, Sigzil has access to both [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]]. After being exposed to Canticle's sun, his Shardplate burns with red-orange light, and trails smoke.
+
+### Dawnshard
+When Sigzil was thirty-eight years old he was given a [[Dawnshard\|Dawnshard]] by [[Hoid\|Hoid]]. This gave him enhancements in durability, strength, endurance, and healing. This has allowed him to form Connections to planets though these abilities need some Investiture to function. It also sets his appearance, including features like his hair length, to look as it did the moment he took the Dawnshard.
+A side effect of holding and having held this Dawnshard is that Sigzil is unable to physically harm others, with his body locking up whenever he tries to attack. Sigzil comes to refer to this effect as his **Torment**, though not all others affected this way would refer to it as such. He is able to mitigate this using a [[Sunheart\|sunheart]] he took from [[Canticle\|Canticle]], allowing him to fight as normal by pushing some of the unwanted Investiture into it. This Investiture is then filtered and purified, allowing Sigzil to absorb it to fuel his abilities.
+
+
+After becoming a Dawnshard, he gained the ability to **Skip** to other worlds. When he has enough Investiture, he can quickly travel to other planets via the [[Connection\|Connection]] to all places that the Dawnshard granted to him. Each Skip requires approximately 20,000 [[BioChromatic Breath\|Breath Equivalent Units]] of [[Investiture\|Investiture]] to be initiated.
+His Skip destinations are seemingly random, but are known to be attracted to sources of Investiture. Therefore, it is very unlikely for him to end up on a planet where natural sources of Investiture are not present.
 
 ## History
 ### Worldsinger
@@ -62,7 +117,7 @@ After Kaladin started trying to rehabilitate Bridge Four, Sigzil was abrasive an
 After Kaladin was healed enough from being strung up in a [[Highstorm\|highstorm]] to go on bridge runs again, he, Rock, and Sigzil observed a battle and discussed the tactics behind putting the bridgemen's lives in such danger. That evening, impressed by Sigzil's earlier analysis, Kaladin discussed with him the education in each of their pasts while the others got their stew. In the chasms one time while on duty, Sigzil happened on [[Teft\|Teft's]] conversation with Kaladin and expanded on the First Ideal of the [[Knight Radiant\|Lost Radiants]]. Those words stuck in Kaladin's head and gave him the courage to suggest training the men with spears in preparation for an escape attempt; Sigzil wholeheartedly agreed to the plan, as did the rest.
 
 >“*I do not ‘give tales.’ I spread knowledge of cultures, peoples, thoughts, and dreams. I bring peace through understanding.*”
-\-Sigzil, to Bridge Four in the chasms[8]
+\-Sigzil, to Bridge Four in the chasms[17]
 
 One day after Kaladin had his beard shaved off for the first time since his time in [[Amaram\|Amaram's]] army, Sigzil discussed with him whether or not he would like to take the [[Lighteyes\|lighteyes']] place and rule [[Alethkar\|Alethkar]]. He brought up Babatharnam to illustrate the point that eye color was not the problem so much as people with power abusing their positions, then stalked off when Rock pointed out that he sounded like a Worldsinger.
 Another time on chasm duty, Sigzil reluctantly agreed to fill his role as a Worldsinger and confirmed that what Kaladin had seen in his vision during a highstorm was real by telling about [[Sesemalex Dar\|Sesemalex Dar]], though he protested at the group's requests for "stories." He was the one to tell Kaladin about the [[Parshendi\|Parshendi's]] reverence for their dead, planting the seeds for Kaladin's later idea about crafting armor from their corpses.
@@ -81,7 +136,7 @@ During the [[Battle of Narak\|Battle of Narak]], Sigzil was one of the bridgemen
 ### Windrunner Squire
  by  Marie Seeberger  Speaking with [[Kaladin\|Kaladin]] and [[Lyn\|Lyn]] at the gemstone reserve
 >“*I don’t want to be huddled over a ledger when Bridge Four takes to the air. I want to be first into the sky.*”
-\-Sigzil[7]
+\-Sigzil[13]
 
 
 Bridge Four went on scouting trips to explore Urithiru, and Sigzil was part of the group on one of these missions when they found [[Torol Sadeas\|Torol Sadeas']] body. Later, he approached Kaladin about many administrative issues the crew was facing, such as the need for a real scribe, the problem of how to accommodate the bridgemen as they pursued relationships, and their place in the army as budding Windrunners. He attempted to convey the idea of why he felt some responsibility for the others' religious beliefs and social views by telling Kaladin Hoid's story about [[Mishim\|Mishim]], but failed to get the point across. As they discussed the possibility of recruitment, Kaladin led him to the quartermaster's office to pick up the royal emerald reserve so Bridge Four could practice drawing in Stormlight. Kaladin told him he was glad Sigzil had failed the exams in Azir, and Sigzil realized he felt the same; the realization liberated him.
@@ -93,7 +148,7 @@ After Kaladin left on the expedition to [[Kholinar\|Kholinar]], Dalinar lent [[J
 During the following year, Sigzil bonded a spren of his own, becoming a fully-fledged Windrunner of the Third Ideal. He continued to run experiments on stormlight and Lashings with Kaladin, discovering that Reverse Lashings require one to visualize the desired outcome to work. He and others of the Windrunners acted as scouts for Dalinar, going on reconnaissance missions to various places. Sigzil, [[Lyn\|Lyn]], and [[Leyten\|Leyten]] flew to [[Akinah\|Akinah]], where Leyten was attacked from behind by strange shadows in the clouds that drained his stormlight. Lyn and Sigzil were barely able to rescue Leyten after his ability to use [[Surges\|surges]] failed. Sigzil also took part in the expedition to evacuate [[Hearthstone\|Hearthstone]], where he and the others engaged in a battle with the [[Fused\|Heavenly Ones]]. Sigzil paired off with [[Leshwi\|Leshwi]], who managed to stab him through the chest. The blow should have been fatal, but Leshwi had mercy on Sigzil out of deference to Kaladin, who had spared the life of another Fused earlier. Kaladin instructed Sigzil to drop his spear, bow to Leshwi, and retire from the battle to watch over the squires.
 
 >“*We Windrunners … we're acting in defiance of honorspren law. We’d make the worst envoys, because of … well, they don’t much like Kaladin, to be honest.*”
-\-Sigzil to the coalition[13]
+\-Sigzil to the coalition[27]
 
 When they returned to Urithiru, Dalinar relieved Kaladin of duty and directed him to promote some of the other Windrunners. After discussing Sigzil's new role with him, Kaladin announced to the others that Sigzil would be promoted to the rank of companylord and would oversee daily administrative matters such as supplies and recruitment. It took some time for the monarchs in the coalition to get used to Sigzil as leader of and spokesman for the Windrunners, as they were used to looking to Kaladin. Sigzil affirmed at their next meeting that the Windrunners would offer support to the offensive in [[Emul\|Emul]], then suggested that the coalition send an envoy to the [[Honorspren\|honorspren]] to address the discontinuance of honorspren seeking humans to bond as Radiants. He displayed a keen insight into their mindset, offering details on how the spren were likely to be thinking about humans, [[Nahel bond\|Nahel bonds]], and the [[Recreance\|Recreance]], but refused to go himself, explaining that the honorspren were unlikely to receive a Windrunner well.
 
@@ -103,17 +158,45 @@ Instead, Sigzil and most of the force of Windrunners and squires went to Emul. T
 In the field, the Windrunners continued their tradition of having a nightly stew for the group in their camp, and Sigzil took a turn telling stories one evening when Dalinar came to visit the camp to speak with [[Renarin\|Renarin]]. Later, when Dalinar determined the best way to learn about his abilities as a [[Bondsmith\|Bondsmith]] was to speak to the [[Herald\|Herald]] [[Ishar\|Ishar]], Sigzil took a small team, including the [[Order of Lightweavers\|Lightweaver]] [[Stargyle\|Stargyle]], to scout Ishar's location. When they returned, Stargyle used his abilities to create an illusion that played out what they saw as they flew over Ishar's pavilion. Dalinar ordered Sigzil to do another scouting mission while he spoke with [[Jasnah\|Jasnah]], though he was already decided that they would fly over to [[Tukar\|Tukar]] to meet Ishar.
 
 >“*I … don't think he’s altogether sane, despite what Shalash says.*”
-\-Sigzil to Dalinar, about Ishar[47]
+\-Sigzil to Dalinar, about Ishar[73]
 
 Sigzil and four other Windrunners flew with Dalinar and [[Szeth\|Szeth]] to Tukar. Sigzil approached Ishar first, landing to speak with the Herald and to ensure that there was no trap set for them. He warned Dalinar against approaching the man, who seemed insane, and when Dalinar was determined to go through with it, Sigzil and the others who were of the Third Ideal summoned their Blades to better protect him. Ishar, convinced that Dalinar was Odium's champion come to fight him, summoned his [[Honorblade\|Honorblade]] and attacked Dalinar; Sigzil deflected his attack and fought against Ishar with the other four, but they were no match for the Herald. Ishar used his abilities to Connect the Windrunners one by one to the ground and drain their stormlight into it, effectively disabling them. After Szeth used [[Nightblood\|Nightblood]] to collapse the [[Perpendicularity\|perpendicularity]] Dalinar had opened, the Windrunners' Connections to the ground had also vanished. When Sigzil drew in stormlight again, though, he found that it didn't do much to dull the pain and tiredness.
-Shortly after, Ishar fled through another perpendicularity into [[Shadesmar\|Shadesmar]]. Sigzil and the others waited in the sky above the camp, then descended again when it seemed obvious that Ishar was not immediately coming back. They poked through the Herald's tent among several odd corpses covered in sheets, and Sigzil found a ledger detailing his experiments: records recounting how long each [[Spren\|spren]] had lived in the body the Herald had created for it in the [[Physical Realm\|Physical Realm]]. Appalled, the group fled back their camp in Emul.
+Shortly after, Ishar fled through another perpendicularity into [[Shadesmar\|Shadesmar]]. Sigzil and the others waited in the sky above the camp, then descended again when it seemed obvious that Ishar was not immediately coming back. They poked through the Herald's tent among several odd corpses covered in sheets, and Sigzil found a ledger detailing his experiments: records recounting how long each [[Spren\|spren]] had lived in the body the Herald had created for it in the [[Physical Realm\|Physical Realm]]. Appalled, the group fled back to their camp in Emul.
+
+### Dawnshard and the Night Brigade
+At an unknown point, Hoid offered Sigzil a Dawnshard for the sake of protecting the cosmere, which he accepted. This put him on the radar of the Night Brigade, who began to hunt him down across the cosmere. The process also left him with what he described as a "torment": any attempt to hurt another person would cause his muscles to lock up, leaving him temporarily helpless.
+Eventually, he gave the Dawnshard to somebody else, hoping that it would get the Night Brigade off his trail, but they continued to hunt him regardless. This is because his lingering Connection to the Dawnshard could lead them to it by making a Hemalurgic spike out of him. Thus he was forced to continue running from them for decades. During this time, he had visited numerous planets, including [[Ashyn\|Ashyn]] and [[Threnody\|Threnody]].
+At some point, he came to an unnamed cavern planet on his run from the Night Brigade. During his stay, he stole a set of ragged clothes before Skipping to another planet.
+
+ by  Diego López  On Canticle
+### Arrival on Canticle
+After his visit to the cavern world, he skipped to a planet known as [[Canticle\|Canticle]]. After a short while he awoke, lying in the mud amid a group of prisoners. With only fifteen hundred BEU’s left he couldn’t form a [[Connection\|Connection]] to the planet, leaving him unable to understand anyone around him.
+Soon after he awoke he was spotted by two government officials, they tried speaking to him but he couldn’t understand them. Eventually they decided to simply chain him down with the rest, leaving him to die in the sunlight. Nomad resisted them, trying to fight them. Unfortunately his torment prevented him from touching them, and the action drew the attention of a [[Charred\|Charred]]. He and Nomad fought, but eventually Nomad was overwhelmed when a second Charred showed up. After taking a hit to his side Nomad was left dazed, and the government officials chained him to the ground. While the Canticlites were firing up their engines Nomad summoned [[Auxiliary\|Auxiliary]] as a crowbar, breaking through the chain. He then made Auxiliary into a hook and chain, attaching it to one of the hoverbikes. It was at this point that the sunlight reached him, setting his skin aflame, he didn’t spend much time in the sunlight however, as he was immediately yanked out of the light by the hoverbike.
+They took him to the city of [[Union\|Union]].
 
 ## Relationships
+### Auxiliary
+He and Auxiliary have a very complex and ambivalent relationship that mixes amicability and judgement.
+Auxiliary is his second spren, bonded after the bond ended with his first. Auxiliary ultimately gives his life to give Sigzil a last burst of power in order to help him protect his own life and that of the Beaconites, burning away his own essence.
+
 ### Kaladin
-At first, Sigzil despises what Kaladin tries to do to help [[Bridge Four\|Bridge Four]], but he slowly warms up to his efforts. Eventually Sigzil looks up to [[Kaladin\|Kaladin]] and is glad to help him with the administrative side of training the [[Bridgemen\|bridgemen]] and later the [[Windrunners\|Windrunners]], though he wishes his relationship with Kaladin were more clear cut. Kaladin helps Sigzil see that failing the exams in [[Azir\|Azir]] isn't such a bad thing, as he is now with a group of people who really appreciate him; Sigzil realizes that he is glad he found his way to Bridge Four. Kaladin listens when Sigzil speaks, finding himself remembering later things that Sigzil had told him about different parts of the world. Kaladin feels confident enough in Sigzil to name him one of the first lieutenants and later to transfer command of the Windrunners to him after his retirement. [[Odium\|Odium]] exploits Kaladin's care for Sigzil by showing him visions of Sigzil fighting other members of Bridge Four and telling him with his dying breaths that he should have let the rest of them just die on the [[Shattered Plains\|Shattered Plains]].
+At first, Sigzil despises what Kaladin tries to do to help [[Bridge Four\|Bridge Four]], but he slowly warms up to his efforts. Eventually Sigzil looks up to [[Kaladin\|Kaladin]] and is glad to help him with the administrative side of training the [[Bridgemen\|bridgemen]] and later the [[Windrunners\|Windrunners]], though he wishes his relationship with Kaladin were more clear cut.
+Kaladin helps Sigzil see that failing the exams in [[Azir\|Azir]] isn't such a bad thing, as he is now with a group of people who really appreciate him; Sigzil realizes that he is glad he found his way to Bridge Four. Kaladin listens when Sigzil speaks, finding himself remembering later things that Sigzil had told him about different parts of the world. He feels confident enough in Sigzil to name him one of the first lieutenants and later to transfer command of the Windrunners to him after his retirement.
+[[Odium\|Odium]] exploits Kaladin's care for Sigzil by showing him visions of Sigzil fighting other members of Bridge Four and telling him with his dying breaths that he should have let the rest of them just die on the [[Shattered Plains\|Shattered Plains]].
+
+### Hoid
+Sigzil has a very strained relationship with Hoid. Hating it for abandoning him when he became a slave at the Shattered Plains, doing nothing to help despite knowing how much he was suffering. For a long period during his slavery, he believed that Hoid thought him dead. Despite his hatred of Hoid, he still agreed to take on the Dawnshard for him for the good of the cosmere. He also finds some degree of guidance in his teachings.
+Before his enslavement, they had a rather amicable relationship, traveling the world and learning about different cultures. Hoid often had to help get him out of trouble, like when he was arrested thrice in Babatharnam.
+Hoid himself feels shame at how he treated Sigzil, knowing that his lack of action was wrong.
+
 
 ## Trivia
-Sigzil has not been off Roshar, despite being Hoid's apprentice.
+Despite being Hoid's apprentice, Sigzil had not been off Roshar as of the True Desolation.
+Zellion was first revealed as the final stretch goal for the Stormlight Premium Miniatures Kickstarter run by Brotherwise Games.
+While Zellion is shown wielding a white [[Shardblade\|Shardblade]] in the Kickstarter image, this is just a placeholder commonly used in [[Ben McSweeney\|Ben McSweeney's]] concept art.
+Johnny O'Neal, the president of Brotherwise Games, had indicated that Zellion would be a new character and not an alias of an existing character. This was a misunderstanding on his own part, and what Brandon meant was it was a new addition to the minifigure collection, and not necessarily a new character in and of itself.
+Zellion shares his name with the protagonist of *The Sixth Incarnation of Pandora*, Brandon's unpublished fifth novel. In that book, Zellion is a soldier made immortal through advanced technology which is also slowly driving him insane. Brandon has confirmed the origin of the name and stated that Zellion will "kind of" be related to the previous version of the character, but reimagined for the cosmere.
+Brandon also used the name Zellion for his character in a playthrough of the video game *Elden Ring*.
 
 
-https://coppermind.net/wiki/Sigzil
+https://coppermind.net/wiki/Nomad

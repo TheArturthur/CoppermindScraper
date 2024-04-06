@@ -1,14 +1,13 @@
 |**Heelis**|
 |-|-|
 |**Titles**|[[Lady Judge\|Lady Judge]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, [[Hall of Judgement\|The Hall]]|
+|**Groups**|[[Taishin\|Taishin]], [[Hall of Judgement\|The Hall]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
-This page or section needs to be updated with new information for *White Sand Volume 3*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The Lady Judge must remain impartial, no matter her personal biases. A simple majority would not be enough to heal the Diem's wound.*”
 \-Lady Heelis[2]

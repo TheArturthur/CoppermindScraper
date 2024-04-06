@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[Lancing\|Lancing]]|
 |**Type**|Magical mineral|
-|**World**|[[Alornia\|Alornia]]🐱︎|
+|**World of Origin**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“*I followed the instructions, entering a wide street populated by self-driving metal carriages. I had something similar working in most of my cities, though mine were connected to Aurorastone deposits inserted into the roads.*”
 \-Kairominas[1]

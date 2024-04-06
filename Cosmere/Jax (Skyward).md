@@ -1,8 +1,7 @@
 |**Jax**|
 |-|-|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 For the [[Reckoners\|Reckoner]] from Texas, see [[Jax (Reckoners)\|Jax (Reckoners)]].
 **Jax** works at the [[DDF\|DDF]]. Jax is reachable through the Flight School's intercom that is connected to the teaching room used by [[Cobb\|Cobb]] and Skyward Flight. Jax is able to find out information regarding mechanical issues at [[Alta\|Alta]] Base as well as get in contact with DDF Captains when requested.

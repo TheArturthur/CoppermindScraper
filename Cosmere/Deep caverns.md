@@ -2,9 +2,8 @@
 |-|-|
 |by  Isaac Stewart |
 |**Type**|Caves|
-|**World**|[[Detritus\|Detritus]]🐱︎|
+|**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *Sunreach*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -77,4 +76,4 @@ The command staff of the DDF, as well as DDF ships, are rotated through the deep
 
 
 
-https://coppermind.net/wiki/Deep_caverns
+https://coppermind.net/wiki/Deep_Caverns

@@ -1,9 +1,8 @@
 |**Geormin**|
 |-|-|
 |**Died**|Killed by [[Bloody Tan\|Bloody Tan]], 341 [[Catacendre\|PC]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Geormin** is a coachman who brought mail from smaller villages into [[Weathering\|Weathering]] on [[Scadrial\|Scadrial]].
 

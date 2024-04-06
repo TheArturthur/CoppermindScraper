@@ -1,16 +1,14 @@
 |**Malata**|
 |-|-|
 |by  Marie Seeberger |
-|**Abilities**|[[Order of Dustbringers\|Dustbringer]], [[Shardbearer\|Shardbearer]]🐱︎|
+|**Abilities**|[[Order of Dustbringers\|Dustbringer]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Spark\|Spark]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ [[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Diagram (group)\|Diagram]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+|**First Appeared**|*Oathbringer*|
 
 >“*Someone should have warned me how fun this would be. I’d have tried way harder to land the job.*”
 \-Malata, regarding her job as the Diagram's Knight Radiant[1]
@@ -38,11 +36,13 @@ As a Releaser, Malata has access to the [[Surge\|Surges]] of [[Division\|Divisio
 She has also progressed enough in her [[Immortal Words\|Oaths]] to turn Spark into a [[Shardblade\|Shardblade]], which she has been using to control [[Oathgate\|Oathgates]].
 
 ## History
-At some point after creating the Diagram, King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]] formed and managed a project to have some Diagram members attempt to bond a spren. Malata was supposedly part of this project, although she claims to have approached Taravangian only because of a suggestion by Spark, implying that she was already bonded prior to joining Taravangian's team.
-She was part of Taravangian's contingent in Dalinar Kholin's coalition. With some guidance from [[Navani Kholin\|Navani Kholin]], Malata was able to use Spark to unlock and activate the Veden Oathgate, transporting herself and the rest of the contingent to [[Urithiru\|Urithiru]], the base of operations for the coalition.
-Having access to a Radiant Shardblade, Malata was often given the responsibility of opening [[Oathgate\|Oathgates]] for members of the coalition. Malata accepted this role obediently, although she once expressed distrust against the Alethi and was apparently skeptical of the claims regarding the [[Desolation\|Desolation]].
+At some point after creating the [[Diagram (group)\|Diagram]], King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]] formed and managed a project to have some Diagram members attempt to bond a [[Spren\|spren]]. Malata was supposedly part of this project, although she claims to have approached Taravangian only because of a suggestion by [[Spark\|Spark]], implying that she was already bonded prior to joining Taravangian's team.
+She was part of Taravangian's contingent in Dalinar Kholin's coalition. With some guidance from [[Navani Kholin\|Navani Kholin]], Malata was able to use Spark to unlock and activate the Veden [[Oathgate\|Oathgate]], transporting herself and the rest of the contingent to [[Urithiru\|Urithiru]], the base of operations for the coalition.
+Having access to a Radiant [[Shardblade\|Shardblade]], Malata was often given the responsibility of opening Oathgates for members of the coalition. Malata accepted this role obediently, although she once expressed distrust against the Alethi and was apparently skeptical of the claims regarding the [[True Desolation\|True Desolation]].
 The Diagram later decided that Taravangian must replace Dalinar as leader of the coalition, and had Malata spy on the Blackthorn using Spark. Through this, they learned about Dalinar's visions where he talked to [[Odium\|Odium]]. They used the information about these visions, along with other secrets they discovered, to undermine the coalition's trust in Dalinar.
 Later on, while the [[Battle of Thaylen Field\|Battle of Thaylen Field]] was taking place, Malata opened Kholinar's [[Oathgate\|Oathgate]] upon orders from the Diagram to allow a strike force of Odium's [[Singer\|singer]] army into Urithiru, where they battled with Alethi soldiers. An agent of the Diagram disguised as a [[Bridge Four\|Bridge Four]] member was also able to enter Urithiru and steal [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] from [[Eth\|Eth]], killing him and injuring [[Rock\|Rock]] and [[Bisig\|Bisig]] in the process. All this was part of Taravangian's plan to appeal to Odium so that he would agree to sparing part of humanity on Roshar.
+In Urithiru, Malata is usually present in meetings of the coalition. She's there in the meeting where the coalition agrees to go and fight in [[Emul\|Emul]] and send an expedition to [[Lasting Integrity\|Lasting Integrity]] to convince more [[Honorspren\|honorspren]] to bond.
+When Taravangian decided to disband the Diagram, he believed that Malata would accept the truth of it's disbanding, knowing that its purpose had been fulfilled.
 
 
 

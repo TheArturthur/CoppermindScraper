@@ -1,9 +1,8 @@
 |**Slickrock**|
 |-|-|
 |**Type**|Rock|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the battle, see [[Battle of Slickrock\|Battle of Slickrock]].
 **Slickrock** is a type of rock on [[Roshar\|Roshar]].

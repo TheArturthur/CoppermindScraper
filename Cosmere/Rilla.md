@@ -1,9 +1,8 @@
 |**Rilla**|
 |-|-|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Rilla** is a woman on [[Roshar\|Roshar]].
 

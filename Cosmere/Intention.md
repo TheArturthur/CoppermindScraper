@@ -4,7 +4,7 @@
 |**Type**|Spiritual property|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Rhythm of War*, *The Lost Metal*, and *Yumi and the Nightmare Painter*!Be aware that in its current state, it may not include all additional content yet.
 
 It has been suggested that this page be moved to [[Intent\|Intent]].Please discuss the proposed move on the article's talk page.
 
@@ -23,6 +23,7 @@ Intention plays an important, esoteric role in the underlying framework of the c
 ## Role
 In general, while use of magic can often be learned without guidance, and even be performed subconsciously, many applications can be learned significantly faster and with greater ease when the magic user receives instruction and is able to perform the magic intentionally within the bounds of its nature.
 Intention is involved to some degree in the following contexts:
+
 
 
 

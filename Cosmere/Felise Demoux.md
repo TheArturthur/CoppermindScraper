@@ -1,8 +1,7 @@
 |**Felise Demoux**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lady **Felise Demoux** is a noblewoman living in [[New Seran\|New Seran]] on [[Scadrial\|Scadrial]].
 

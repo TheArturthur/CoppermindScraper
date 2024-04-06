@@ -2,21 +2,21 @@
 |-|-|
 |by  Shuravf |
 |**House Kholin**|
-|**Parents**|[[Gavilar Kholin\|Gavilar]], [[Navani Kholin\|Navani]]|
-|**Siblings**|[[Elhokar Kholin\|Elhokar]]|
-|**Relatives**|[[Dalinar Kholin\|Dalinar]], [[Adolin Kholin\|Adolin]], [[Renarin Kholin\|Renarin]], [[Gavinor\|Gavinor]]|
+|**Parents**|[[Gavilar\|Gavilar]], [[Navani\|Navani]]|
+|**Siblings**|[[Elhokar\|Elhokar]]|
+|**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
 |**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]]|
 |**Born**|1139|
 |**Abilities**|[[Order of Elsecallers\|Elsecaller]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Ivory\|Ivory]]|
 |**Titles**|Queen of [[Alethkar\|Alethkar]]|
 |**Profession**|Historian|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ [[Veristitalian\|Veristitalian]]🐱︎s|
-|**Residence**|[[Urithiru\|Urithiru]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Veristitalian\|Veristitalians]]|
+|**Residence**|[[Kholinar\|Kholinar]] , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -24,7 +24,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-Jasnah on why she researches Voidbringers[3]
 
 
-**Jasnah Kholin** is the queen of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. She is a [[Surgebinder\|Surgebinder]] and [[Elsecaller\|Elsecaller]], with access to the [[Surge\|Surges]] of [[Transformation\|Transformation]] and [[Transportation\|Transportation]], sometimes called "Elsecalling." She is the sister of the late King [[Elhokar Kholin\|Elhokar]], daughter of the late King [[Gavilar Kholin\|Gavilar]] and [[Navani Kholin\|Navani]], niece of Highprince [[Dalinar Kholin\|Dalinar]], aunt of royal heir [[Gavinor\|Gavinor]], and cousin to [[Adolin\|Adolin]] and [[Renarin\|Renarin]]. She is known widely as a brilliant scholar and for her denunciation of [[Vorinism\|Vorinism]]. She is a member of the [[Veristitalian\|Veristitalians]], an order of historians dedicated to reconstructing unbiased and factual accounts of the past in order to better understand the present. She is training [[Shallan Davar\|Shallan Davar]] as her [[Ward\|ward]].
+**Jasnah Kholin** is the queen of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. She is a [[Surgebinder\|Surgebinder]] and [[Elsecaller\|Elsecaller]], with access to the [[Surge\|Surges]] of [[Transformation\|Transformation]] and [[Transportation\|Transportation]], sometimes called "Elsecalling." She is the sister of the late King [[Elhokar Kholin\|Elhokar]], daughter of the late King [[Gavilar Kholin\|Gavilar]] and [[Navani Kholin\|Navani]], niece of Highprince [[Dalinar Kholin\|Dalinar]], aunt of royal heir [[Gavinor\|Gavinor]], and cousin to [[Adolin\|Adolin]] and [[Renarin\|Renarin]]. She is known widely as a brilliant scholar and for her denunciation of [[Vorinism\|Vorinism]]. She is a member of the [[Veristitalian\|Veristitalians]], an order of historians dedicated to reconstructing unbiased and factual accounts of the past in order to better understand the present. She was training [[Shallan Davar\|Shallan Davar]] as her [[Ward\|ward]], but has since finished prior to the capture of Urithiru.
 
 ## Contents
 
@@ -55,7 +55,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 3.1 Early Life (1139—1167)
 3.2 The Research (1167—1173)
 
-3.2.1 Parshendi Betrayal
+3.2.1 Singer Betrayal
 3.2.2 Travels
 
 
@@ -72,9 +72,9 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 3.5.2 Battle of Thaylen Field (1174)
 
 3.5.2.1 Battle Aftermath
-3.5.2.2 The Expedition of the Wandersail
 
 
+3.5.3 The Expedition of the Wandersail
 
 
 3.6 In Emul
@@ -103,10 +103,13 @@ Jasnah is a reserved and statuesque woman. She is widely praised for her beauty,
 \-Navani about Dalinar and Jasnah[6]
 
 
-Jasnah is generally a stern and serious person, although she occasionally shows a wry sense of humor, and allows familiarity among those she is close with. She sometimes acts in a brusque manner, and can be exceptionally rude when someone gets on her bad side. She is determined, confident, and often stubborn. She has a brilliant mind and shows wisdom and care in her studies. She is very passionate about scholarship and wants others to share in her passion as well. She often encourages her ward, Shallan, to come up with answers on her own, rather than simply giving them to her. She considers history to be the most important literary sub art. She is prejudiced against the visual arts, going so far as to call them frivolities, although having Shallan as her ward may have changed her opinions on the subject. She can be extremely tough and ruthless, as she showed when she killed four footpads that attacked her and Shallan. She harbors a deep hatred towards men like them, possibly because of something that has been done to her in the past.
+Jasnah is generally a stern and serious person, although she occasionally shows a wry sense of humor, and allows familiarity among those she is close with. She sometimes acts in a brusque manner, and can be exceptionally rude when someone gets on her bad side. She is determined, confident, and often stubborn. She can be extremely tough and ruthless, as she showed when she killed four footpads that attacked her and Shallan. She harbors a deep hatred towards men like them, possibly because of something that has been done to her in the past.
+She can be temperamental and prone to aggressive verbal outbursts when under stress, even when such a reaction isn't warranted or appropriate. When she calms down, and feels that her response was unwarranted, she feels guilty and apologizes to the target of her outburst. She recognizes this temper as one of her flaws.
+She has a brilliant mind and shows wisdom and care in her studies. She is very passionate about scholarship and wants others to share in her passion as well. She often encourages her ward, Shallan, to come up with answers on her own, rather than simply giving them to her. She also deeply appreciates when people pursue knowledge out of desire to learn and expand their knowledge, rather than for any ulterior motive. Furthermore, she respects and encourages persistence in others. She considers history to be the most important literary sub art, as she believes that the present can only be fully understood by understanding the past in a factual and unbiased manner.
+She is prejudiced against the visual arts, going so far as to call them frivolities, although having Shallan as her ward may have changed her opinions on the subject.
 She has also been shown to have some sort of aversion to darkness, or at the very least shadows, as seen when she became uneasy while staring at a shadow. Jasnah seems to have faced some sort of trauma as a child; Dalinar mentions her "lunacy" in conversation with Gavilar and she has memories of being locked in a dark room when she was a child, which taught her that even the people she loved could hurt her. No one else seems to remember it in the modern day, but Jasnah is terrified of it happening again to her.
-Jasnah is an atheist. This has caused her not an insignificant amount of problems and led to her being ostracized a bit, but she has never compromised in her beliefs for the sake of appearances. While she is confident in her lack of faith in the [[Devotary\|devotaries]], like the true scholar that she is, she also always keeps an open mind to the possibility of being wrong. She is content to keep her beliefs to herself, and doesn't particularly care about converting anyone else.
-Jasnah is asexual but is willing to be intimate with a person she cares for.
+Jasnah is an atheist. This has caused her a significant amount of problems and led to her being ostracized, but she has never compromised in her beliefs for the sake of appearances. While she is confident in her lack of faith in the [[Devotary\|devotaries]], like the true scholar that she is, she also always keeps an open mind to the possibility of being wrong. She is content to keep her beliefs to herself, and doesn't particularly care about converting anyone else.
+Jasnah is asexual but is willing to be intimate with a person she cares for. She also prefers that her sexuality not be a matter of discussion.
 
 ## Attributes and Abilities
  by  ToastSamurai  Jasnah and [[Ivory\|Ivory]]
@@ -125,7 +128,7 @@ Jasnah can identify Fused based on sight.
 
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-As a Knight Radiant who has access to two Surges she also has a [[Resonance\|resonance]]. When she met [[Hoid\|Hoid]] after returning from the [[Cognitive Realm\|Cognitive Realm]], she immediately starts walking towards the nearest town, which prompts Hoid to think she has "a good sense of direction." Some suspect this indicates that the Elsecaller resonance is some sort of internal GPS that, at least, allows them to determine their exact location and the direction to the nearest settlement. Brandon has not clearly confirmed or denied this.
+As a Knight Radiant who has access to two Surges she also has a [[Resonance\|resonance]]. When she met [[Hoid\|Hoid]] after returning from the [[Cognitive Realm\|Cognitive Realm]], she immediately starts walking towards the nearest town, which prompts Hoid to think she has "a good sense of direction." Some suspect this indicates that the Elsecaller resonance is some sort of internal GPS that, at least, allows them to determine their exact location and the direction to the nearest settlement. Her sense of direction could also be due to seeing the lights of human souls in the Cognitive Realm. Brandon has not clearly confirmed or denied this.
 
  by  Alba R. 
 ### Scholarship
@@ -147,8 +150,8 @@ Before Jasnah became famous as a heretic of Vorinism, her father wanted her to m
 
 In 1167, Jasnah attended the feast held in the [[Kholinar\|Kholinar]] Palace after the signing of the Parshendi treaty. While walking to a meeting with an assassin named [[Liss\|Liss]] with the intention of killing Elhokar's wife [[Aesudan Kholin\|Aesudan]], she noticed her shadow pointing toward the light. She walked past Highprince [[Torol Sadeas\|Sadeas]] and a [[Shinovar\|Shin]] [[Szeth-son-son-Vallano\|servant in white clothing]], and subsequently came across her father in quiet conference with [[Meridas Amaram\|Meridas Amaram]]. Once Amaram left, Jasnah asked Gavilar what he commanded Amaram, but Gavilar deflected the question and left hastily, leading her to wonder if he knew about her plans regarding Aesudan. Walking onward, Jasnah's shadow again acted oddly, and this time formed into a "man of midnight blackness [with] a certain reflective cast, as if he were made of oil." He carried an unsheathed sword. In panic, Jasnah went into [[Shadesmar\|Shadesmar]] for the first time. There, the shadowy figure sheathed its sword, and Jasnah fell into the sea of glass beads. Before she drowned, Jasnah managed to find the glass bead corresponding to the Kholinar Palace, and using that as her guide, willed herself to rise to the surface, standing on a platform of glass beads. From there, she formed the corridor she'd stood in before leaving the [[Physical Realm\|Physical Realm]], and when the shadowy figure stepped onto her platform with its sword drawn, she formed a statue of [[Talenel\|Talenelat'Elin]]. She confronted the figure, and it saluted and bowed, then left. When Jasnah returned to the Physical Realm, all the spheres lining the hallway walls were dun.
 Jasnah met with Liss but decided not to assassinate Aesudan, instead ordering Liss to survey her. Jasnah asked Liss about the servant she wanted to show off, but Liss answered that she had sold her Shin servant to a slaver weeks ago for being too good a slave. Hearing that the servant was Shin, Jasnah recalled the servant in white clothing and decided to look into him.
-Jasnah hesitated in returning to the party after she heard the music in the dining hall stop abruptly. She ran into Nale and possibly Kalak, two "ambassadors from the west" who had been invited by the king. Jasnah heard sudden screams and ran toward them, fearing for her family's safety. The sounds led to her father's chambers, and the way was littered with corpses with burned eyes and the walls marked by [[Shardblade\|Shardblade]] cuts. She eventually reached a balcony and saw her father in his [[Shardplate\|Shardplate]], called to him and made him hesitate. The balcony broke beneath Gavilar, and Jasnah saw the servant she'd seen before fall down with her father. The Shin man somehow changed direction in the air, and fell onto the wall, completely ignoring gravity. While crying to herself, Jasnah was approached by three Parshendi, [[Klade\|Klade]], [[Gangnah\|Gangnah]] and [[Varnali\|Varnali]]. They took responsibility for the assassination and told Jasnah they were sorry for her loss but explained that Gavilar had to be stopped from doing something dangerous. Gavilar, as a member of the [[Sons of Honor\|Son of Honor]], was trying to bring back the Parshendi gods in the hopes that the [[Knights Radiant\|Knights Radiant]] would return, reinstating the dominance of the Vorin church. Sadeas stumbled in, saw what happened, and ran toward Gavilar's corpse, where they found [[Szeth\|Szeth's]] note to Dalinar written in Gavilar's blood, telling him to find the most important [[Immortal Words\|words]] a man could say. Jasnah later discovered that this was a direct quote from [[The Way of Kings (in-world)\|The Way of Kings]] by [[Nohadon\|Nohadon]].
-Hours later, they discovered that the admission and the surrender of those three of the [[Council of Five\|Council of Five]] covered the escape of the rest of the Parshendi. Dalinar sent several failed expeditions after the escapees. After refusing to divulge information, the three Parshendi were hanged. Jasnah interrogated Liss and the King's guards about the Assassin in White to no avail, and for the next half-decade would turn to ancient books for her answers.
+Jasnah hesitated in returning to the party after she heard the music in the dining hall stop abruptly. She ran into [[Nale\|Nale]] and [[Kalak\|Kalak]], two "ambassadors from the west" who had been invited by the king. Jasnah heard sudden screams and ran toward them, fearing for her family's safety. The sounds led to her father's chambers, and the way was littered with corpses with burned eyes and the walls marked by [[Shardblade\|Shardblade]] cuts. She eventually reached a balcony and saw her father in his [[Shardplate\|Shardplate]], called to him and made him hesitate. The balcony broke beneath [[Gavilar\|Gavilar]], and Jasnah saw the servant she'd seen before fall down with her father. The Shin man somehow changed direction in the air, and fell onto the wall, completely ignoring gravity. While crying to herself, Jasnah was approached by three [[Singers\|singers]], [[Klade\|Klade]], [[Gangnah\|Gangnah]] and [[Varnali\|Varnali]]. They took responsibility for the assassination and told Jasnah they were sorry for her loss but explained that Gavilar had to be stopped from doing something dangerous. Gavilar, as a member of the [[Sons of Honor\|Sons of Honor]], was trying to bring back the [[Fused\|Fused]] in the hopes that the [[Knights Radiant\|Knights Radiant]] would return, reinstating the dominance of the Vorin church. Sadeas stumbled in, saw what happened, and ran toward Gavilar's corpse, where they found [[Szeth\|Szeth's]] note to [[Dalinar\|Dalinar]] written in Gavilar's blood, telling him to find the most important [[Immortal Words\|words]] a man could say. Jasnah later discovered that this was a direct quote from [[The Way of Kings (in-world)\|The Way of Kings]] by [[Nohadon\|Nohadon]].
+Hours later, they discovered that the admission and the surrender of those three of the [[Council of Five\|Council of Five]] covered the escape of the rest of the singers. Dalinar sent several failed expeditions after the escapees. After refusing to divulge information, the three singers were hanged. Jasnah interrogated Liss and the King's guards about the Assassin in White to no avail, and for the next half-decade would turn to ancient books for her answers.
 
 
 After the death of her father, she started drawing parallels between the Parshendi and the [[Voidbringers\|Voidbringers]]. Eventually, she discovered her [[Surgebinding\|Surgebinding]] abilities, and started carrying a [[Jasnah's Soulcaster\|fake Soulcaster]] [[Fabrial\|fabrial]] to disguise she was a [[Surgebinder\|Surgebinder]]. At some point, she made her way to the warcamps in the Shattered Plains, but eventually her studies took her elsewhere. She left a copy of her notes at an information center in Tashikk for safekeeping.
@@ -178,7 +181,7 @@ During their days sailing, Shallan occasionally asked Jasnah about the Ghostbloo
 Jasnah was murdered by mercenaries associated with [[Tyn\|Tyn]] who were trying to get into the Ghostbloods. Though she was stabbed through the heart, she was able to escape to Shadesmar using the Surge of Transportation, then heal herself with Stormlight. Jasnah reappeared in the [[Physical Realm\|Physical Realm]] after the summoning of the [[Everstorm\|Everstorm]], having learned about the original [[Knights Radiant\|Knights Radiant]] in her time away. Jasnah met [[Hoid\|Wit]] on her way and threatened him with a Shardblade, presumably her spren [[Ivory\|Ivory]].
 
 ### Return to the Physical Realm (1173—)
-After her travel through the Cognitive Realm, Jasnah returned to [[Urithiru\|Urithiru]] to resume her fight against the [[Voidbringers\|Voidbringers]]. She observed many of Dalinar's visions, searching for hints about locations and time periods in which they took place to try to glean more information about pre-[[Aharietiam\|Aharietiam]] Roshar and the ancient Knights Radiant. She was unable to identify distinguishing landmarks, either because the landscape had changed over time or because they were in uncharted territory, but she did identify [[Jezrien\|Jezerezeh, king of the Heralds]], in the vision of Aharietiam.
+After her travel through the Cognitive Realm, Jasnah headed to [[Urithiru\|Urithiru]] to resume her fight against the [[Voidbringers\|Voidbringers]]. She observed many of Dalinar's visions, searching for hints about locations and time periods in which they took place to try to glean more information about pre-[[Aharietiam\|Aharietiam]] Roshar and the ancient Knights Radiant. She was unable to identify distinguishing landmarks, either because the landscape had changed over time or because they were in uncharted territory, but she did identify [[Jezrien\|Jezerezeh, king of the Heralds]], in the vision of Aharietiam.
 After Dalinar released the vision proclaiming [[Honor\|Honor's]] death, he was labeled as a pariah and an outcast by ardents, colleagues, and former friends -- groups that were not necessarily mutually exclusive -- and eventually excommunicated from the Vorin church. Identifying a shared struggle between herself and her uncle, Jasnah offered sympathy and counsel on being an outcast in Alethi society.
 As Jasnah returned, her taking part in meetings with Roshar's world leaders inspired conflict between her and Shallan, who now resented being treated like a ward. Their first clash occurred shortly after Jasnah asked Shallan to take notes in a meeting. Jasnah later confronted Shallan about her rebellious attitude and lack of responsibility, chastising her for skipping meetings or arriving late, though she lessened the blow by expressing admiration for Shallan's accomplishments while Jasnah was stuck in the Cognitive Realm. Shallan proposed terminating her wardship, but Jasnah refused. In another meeting, Shallan rebuked [[Janala Lustow\|Janala]] after she insulted Renarin; After scolding Shallan once again, Jasnah confided that she didn't often take wards because she was bad at instructing them and keeping them in check. Shortly after, Shallan, resentful at returning to a more lowly position, decided to journey with [[Kaladin\|Kaladin]], [[Adolin Kholin\|Adolin]], and [[Elhokar Kholin\|Elhokar]] to [[Kholinar\|Kholinar]] just to get away from Jasnah and her orders.
 During their overlapping time in Urithiru, Jasnah observed Shallan's slow mental deterioration, which Ivory had warned her about.
@@ -205,10 +208,10 @@ Jasnah wrote a ketek for Shallan on her wedding day to celebrate the occasion.
 After the events of the Battle of Thaylen Field, Jasnah, as Queen of Alethkar, along with Dalinar, sent communications to various neutral nations in hopes of recruiting new allies for the coalition of nations. One such letter was sent to the [[Ral-na\|Ral-na]], King of the [[Reshi Isles\|Reshi Isles]], inviting the Reshi people to Urithiru to discuss an alliance. As the war waged on Jasnah and Dalinar suspected the enemy would launch a ground based invasion on [[Jah Keved\|Jah Keved]] by sailing an invasion force east, through the Reshi Isles.
 Jasnah had direct involvement in monitoring the [[Expedition to Akinah\|expedition]] of the *Wandersail* to [[Akinah\|Akinah]]. Ardent [[Rushu\|Rushu]] was in communication with Jasnah via [[Spanreed\|spanreed]] to report sightings of unusual spren and reported a cluster of [[Luckspren\|luckspren]] following the *Wandersail* after [[Cord\|Cord]] sighted them. After a [[Santhid\|santhid]] corpse was found by the crew of the *Wandersail*, and was subsequently exposed as a fake, Jasnah was contacted by [[Vstim\|Vstim]] on behalf of [[Rysn Ftori\|Rysn]] to ask about the legends of the [[Aimian\|Aimians]]. Jasnah recalled two theories on the nature of the santhid that disintegrated into a pile of cremlings; the first being reports of Aimians being able to take off their arms and legs and reattach them; the second being an old story about creatures who were living heaps of cremlings. In the stories these creatures would hide and grow in the attics of buildings before devouring the occupants below. Jasnah originally overlooked these stories but due to the current events on Roshar at the time, cautioned Rysn against these types of creatures. When Rysn postulated that the santhid could have been the work of a [[Fused\|Fused]] Lightweaver, Jasnah chided herself for her own lapse in judgement, citing the newness of Lightweaving magic as the reason for overlooking it as a possibility. Jasnah drew the conclusion that if an enemy Lightweaver were attempting to stop the expedition, then the [[Voidbringer\|Voidbringers]] would be taking considerable lengths to prevent them from reaching Akinah, and the secrets there must be more important than first believed.
 
+ by  Vedtom 
 ### In Emul
- by  Elisgardor  Wearing her [[Shardplate\|Shardplate]] on the battlefield
->“*No. I want to know the real feeling of war, or as close to is as I can allow myself, in Plate with Blade.*”
-\-Jasnah to Ivory[60]
+>“*No. I want to know the real feeling of war, or as close to it as I can allow myself, in Plate with Blade.*”
+\-Jasnah to Ivory[63]
 
 
 Jasnah went with [[Dalinar\|Dalinar]] on the military expedition into [[Emul\|Emul]], where she wanted to prove herself to be a good military leader and tactician. Highprince [[Ruthar\|Ruthar]] challenged her position, saying it was a disgrace to have a woman leading and making military decisions. Jasnah directed [[Wit\|Wit]] to insult him until Ruthar snapped and demanded a trial by combat. Acting according to Jasnah’s prearranged plan, Wit elected Jasnah as his champion to fight for him, letting her use his sword. Ruthar scoffed and said that fighting a woman would be demeaning, but Jasnah lunged forward and stabbed him through the throat. Jasnah had [[Renarin\|Renarin]] heal him, then pronounced that all Ruthar’s lands and titles are forfeit, and are now passed to his son, [[Relis\|Relis]]. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar.
@@ -218,13 +221,13 @@ During the military expedition in Emul, Jasnah and Wit worked on creating a docu
 ## Relationships
 ### Hoid
 >“*She found the way he spoke fascinating. After all this time - and all her worries - here was one who was her intellectual equal. Perhaps her  superior.*”
-\-Jasnah[62]
+\-Jasnah[65]
 
 
 Sometime after Jasnah’s return from Shadesmar, she and [[Hoid\|Hoid]] grow close. Jasnah likes him because he is never bothered by her frequent questions, even if he dodges them sometimes. Jasnah cares more for mental stimulation than the physical, which makes interacting with Hoid invigorating to her.
 
 ## Development
-Jasnah was a main character in [[The Way of Kings Prime\|The Way of Kings Prime]], Brandon's 2002 draft of [[The Way of Kings\|The Way of Kings]], and her arc was the most complete out of all the threads. Her plot line centered around her struggle against societal norms and her fight against outside pressures to marry. In the 2010 version of The Way of Kings, this was relegated to her backstory so that Shallan could take center stage. Jasnah's personality was left mostly unchanged between the two versions, and her name was one among a couple that was also -- in fact, Jasnah's name, along with Dalinar's, was central to Brandon's creation of the Alethi tongue.
+Jasnah was a main character in [[The Way of Kings Prime\|The Way of Kings Prime]], Brandon's 2002 draft of [[The Way of Kings\|The Way of Kings]], and her arc was the most complete out of all the threads. Her plot line centered around her struggle against societal norms and her fight against outside pressures to marry. In the 2010 version of The Way of Kings, this was relegated to her backstory so that Shallan could take center stage. Jasnah's personality was left mostly unchanged between the two versions, and her name was one among a couple that was also -- in fact, Jasnah's name, along with Dalinar's, was central to Brandon's creation of the Alethi tongue.She is the flashback character for Stormlight Archive Ten.As such, she will become even more prominent as the series continues.
 
 ## Quotes
 For a list of quotes, see [[Jasnah Kholin/Quotes\|/Quotes]].

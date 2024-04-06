@@ -3,12 +3,13 @@
 |by  Jessica Liu |
 |**Abilities**|[[Order of Stonewards\|Stoneward]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Ua'pam\|Ua'pam]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
 |**Nationality**|[[Iriali\|Iriali]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
+For the Striker from the Rose Empire on Sel, see [[Zu (Sel)\|Zu (Sel)]].
 >“*Might as well give it a last hurrah!*”
 \-Zu[1]
 
@@ -33,7 +34,7 @@
 
 
 ## Appearance and Personality
-Zu has golden hair and bronze skin that seems metallic. She wears traditional clothing, a wrap around the chest (like a warrior's sarashi) with loose flowing trousers and a thick coat.
+Zu has golden hair and bronze skin that seems metallic. She wears traditional clothing: a wrap around the chest (like a warrior's ) with loose flowing trousers and a thick coat.
 She prefers her [[Shardblade\|Shardblade]] to be long and slender, with a wicked curve.
 Zu is eager and excitable. She is also blunt and to the point, yet playful. She has a strong relationship with [[Ua'pam\|Ua'pam]], hugging him as they enter [[Shadesmar\|Shadesmar]]. He often preaches precaution, which she ignores to playfully unnerve him.
 
@@ -41,7 +42,7 @@ Zu is eager and excitable. She is also blunt and to the point, yet playful. She 
 Zu speaks Alethi well. She is more skilled with weaponry and stealth than her account of her past allows. She has the gracefulness of an [[Order of Edgedancers\|Edgedancer]].
 
 ### Surgebinding
-As a [[Stoneward\|Stoneward]], Zu has the ability to manipulate the [[Surges\|Surges]] of [[Tension\|Tension]] and [[Cohesion\|Cohesion]] through her [[Nahel bond\|Nahel bond]] with her [[Peakspren\|peakspren]]. The surge of Cohesion gives her the ability to reshape stone. The surge of Tension gives her the ability to control the hardness of an object allowing her to harden clothing into weapons.
+As a [[Stoneward\|Stoneward]], Zu has the ability to manipulate the [[Surges\|Surges]] of [[Tension\|Tension]] and [[Cohesion\|Cohesion]] through her [[Nahel bond\|Nahel bond]] with her [[Peakspren\|peakspren]]. The Surge of Cohesion gives her the ability to reshape stone. The Surge of Tension gives her the ability to control the hardness of an object allowing her to harden clothing into weapons.
 
 ## History
 ### Early life
@@ -55,7 +56,7 @@ Once on [[Unativi\|Unativi's]] barge, Zu liked to spend time in conversation wit
 >“*"Your people are trying to ride it.""My people are storming stupid."*”
 \-Godeke and Zu[5]
 
-When Adolin and the Radiants discussed their approach to the honorspren, Zu admitted that she had no patience for politics and would simply tell them they were "being storming stupid" for thinking they could remain out of the conflict. Zu was caught by surprise when Adolin figured out that the Tukari tailing them were actually after [[Notum\|Notum]], but she went to his aid with the others as quickly as she could. When they finally approached Lasting Integrity and Adolin reported to the group that he, [[Shallan\|Shallan]], [[Maya\|Maya]], and [[Pattern\|Pattern]] were going to have to enter without them, Zu protested that she didn't like the idea of splitting up; afterwards, she and Ua'pam returned with [[Arshqqam\|Arshqqam]], [[Dreaming-though-Awake\|Dreaming-though-Awake]], and Adolin's soldiers to apprise [[Dalinar\|Dalinar]] of the situation.
+When Adolin and the Radiants discussed their approach to the honorspren, Zu admitted that she had no patience for politics and would simply tell them they were "being storming stupid" for thinking they could remain out of the conflict. Zu was caught by surprise when Adolin figured out that the Tukari tailing them were actually after [[Notum\|Notum]], but she went to his aid with the others as quickly as she could. When they finally approached Lasting Integrity and Adolin reported to the group that he, [[Shallan\|Shallan]], [[Maya\|Maya]], and [[Pattern\|Pattern]] were going to have to enter without them, Zu protested that she didn't like the idea of splitting up. Afterwards, she and Ua'pam returned with [[Arshqqam\|Arshqqam]], [[Dreaming-though-Awake\|Dreaming-though-Awake]], and Adolin's soldiers to apprise [[Dalinar\|Dalinar]] of the situation.
 
 
 

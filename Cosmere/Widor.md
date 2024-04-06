@@ -1,9 +1,8 @@
 |**Widor**|
 |-|-|
-|**Nation**|[[Fjorden\|Fjorden]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Nation**|[[Fjorden\|Fjorden]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Widor** is the capital city of [[Fjorden\|Fjorden]] on [[Sel\|Sel]], and by extension, the entire [[Fjordell Empire\|Fjordell Empire]].
 It contains the [[Wyrn (title)\|Wyrn's]] palace, [[Zigareth\|Zigareth]]. A sword thought to be the mythical [[Gretgor\|Gretgor]] is enshrined somewhere in the city.

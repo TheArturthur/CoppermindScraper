@@ -1,7 +1,6 @@
 |**Liveborn**|
 |-|-|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* Each Liveborn received an entire world in which they were the most important person of their time. Some became artists, others politicians, but each had a chance for supreme greatness.*”
 \- Kairominas[1]

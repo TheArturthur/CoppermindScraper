@@ -4,17 +4,17 @@
 |**Abilities**|[[Worldhopper\|Worldhopper]]|
 |**Bonded With**|Unknown [[Aviar\|Aviar]]|
 |**Aliases**|Gobby|
-|**Groups**|[[Ghostbloods\|Ghostbloods]]🐱︎|
+|**Groups**|[[Ghostbloods\|Ghostbloods]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*Morality is as ephemeral as the changing weather.*”
 \-Mraize[4]
 
 
-**Mraize** is a member of the [[Ghostbloods\|Ghostbloods]] on Roshar. He is a Rosharan born [[Worldhopper\|worldhopper]] and might be in possession of [[Tears of Edgli\|Tears of Edgli]], among other artifacts. His name is unknown, as the term "Mraize" is a title, not a name. He corrects [[Shallan\|Shallan]] when she attempts to call him 'Brightlord.' Shallan mentions that the title is not Vorin in origin, and difficult to pronounce. As he also refers to [[Iyatil\|Iyatil]] as his [[Babsk\|babsk]], a Thaylen title, it is evidenced that he is from [[Thaylenah\|Thaylenah]].
+**Mraize** is a member of the [[Ghostbloods\|Ghostbloods]] on Roshar. He is a Rosharan born [[Worldhopper\|worldhopper]] and might be in possession of [[Tears of Edgli\|Tears of Edgli]], among other artifacts. His name is unknown, as the term "Mraize" is a title, not a name. He corrects [[Shallan\|Shallan]] when she attempts to call him 'Brightlord.' Shallan mentions that the title ‘Mraize’ is not Vorin in origin, and difficult to pronounce. As he also refers to [[Iyatil\|Iyatil]] as his [[Babsk\|babsk]], a Thaylen title, it is evidenced that he is from [[Thaylenah\|Thaylenah]].
 
 ## Contents
 
@@ -22,9 +22,10 @@
 2 Attributes and Abilities
 3 History
 
-3.1 The Shattered Plains
-3.2 Urithiru
-3.3 Pursuit of the Sons of Honor
+3.1 Early Life
+3.2 The Shattered Plains
+3.3 Urithiru
+3.4 Pursuit of the Sons of Honor
 
 
 4 Relationships
@@ -54,15 +55,19 @@ Despite his occasional likeable air, he has no problem with killing, or even let
 He refers to the Parshendi as the Listeners, one of few in the warcamps to do so.
 
 ## Attributes and Abilities
-Mraize is a worldhopper. His power resides on his knowledge and possessions. Among his possessions he has a "green chicken" which is known to be an [[Aviar\|Aviar]]. He has a [[Seon\|seon]] from [[Sel\|Sel]]. He also has [[Sand (Taldain)\|white sand]] from [[Taldain\|Taldain]] and a Yolish branch with weird scripts. He is also believed to have Tears of Edgli.  Many of these possessions and knowledge were gained outside of Roshar.
+Mraize is a worldhopper. His power resides in his knowledge and possessions. Among his possessions he has a "green chicken" which is known to be an [[Aviar\|Aviar]]. He has a [[Seon\|seon]] from [[Sel\|Sel]]. He also has [[Sand (Taldain)\|white sand]] from [[Taldain\|Taldain]], a Yolish branch with weird scripts, a silver knife, and an [[Aether\|aether]] he cannot use. He is also believed to have Tears of Edgli. Many of these possessions and knowledge were gained outside of Roshar.
 His [[Aviar\|Aviar]] has a large hooked beak and bright green feathers. It is trained to return to him with a whistle. It is carnivorous. Its chirps sound like words. It appears to dislike the cold. The Aviar sits on Mraize's shoulder. It appears intelligent.
-His knowledge gives him the capacity to blackmail, persuade and manipulate which is what makes him, as a high ranking member of the Ghostbloods, so dangerous.
-Mraize always watches doors. He seems to be able to sense when someone approaches. He is not as great at assuming a character as [[Shallan\|Shallan]].
+Mraize also seems to have an uncanny ability to sense the presence of others. Whether this is due to his having enough [[BioChromatic Breath\|Breath]] to have reached the Fourth Heightening or to some other, more mundane means is unclear. Mraize always watches doors.
+His knowledge gives him the capacity to blackmail, persuade and manipulate, which is what makes him, as a high-ranking member of the Ghostbloods, so dangerous. He is not as great at assuming a character as [[Shallan\|Shallan]].
 As a member of the Ghostbloods, Mraize is seeking a way to get [[Investiture\|Investiture]] off-world through [[Shadesmar\|Shadesmar]]. They hunt the [[Sons of Honor\|Sons of Honor]] as they fear they are close to discovering the secret of making this possible. They are not interested in seeing [[Odium\|Odium]] rule Roshar.
 
 ## History
+### Early Life
+Mraize was born on Roshar in an unknown year in Thaylenah.
+At some point, he became a member of the [[Ghostbloods\|Ghostbloods]], and has been to various different planets, and has collected trophies where he went. One of these is known to be an [[Aether\|Aether]]. He also at some point bonded with an [[Aviar\|Aviar]].
+
 ### The Shattered Plains
-Mraize, as a member of the [[Ghostbloods\|Ghostbloods]], reported to [[Iyatil\|Iyatil]], who reported to Master [[Thaidakar\|Thaidakar]]. He was confirmed to be behind the assassination attempt on Jasnah Kholin that took place on the *Wind's Pleasure*. He had sent a hunter, [[Tyn\|Tyn]], to execute the task. When he sent a [[Spanreed\|spanreed]] message to Tyn, Shallan, who had killed her, intercepted it and decided to go meet him herself, disguised as Veil. When they met, Shallan kept the pretense of Tyn being alive and managed to get Mraize to trust her with a task. She was to break into [[Amaram\|Amaram's]] manor and find the secrets he kept and report them back. Shallan agreed and manages to escape without being followed.
+Mraize, as a member of the Ghostbloods, reported to [[Iyatil\|Iyatil]], who reported to Master [[Thaidakar\|Thaidakar]]. He was confirmed to be behind the assassination attempt on Jasnah Kholin that took place on the *Wind's Pleasure*. He had sent a hunter, [[Tyn\|Tyn]], to execute the task. When he sent a [[Spanreed\|spanreed]] message to Tyn, Shallan, who had killed her, intercepted it and decided to go meet him herself, disguised as Veil. When they met, Shallan kept the pretense of Tyn being alive and managed to get Mraize to trust her with a task. She was to break into [[Amaram\|Amaram's]] manor and find the secrets he kept and report them back. Shallan agreed and manages to escape without being followed.
 After that, he was also confirmed to have surveilled the site to supervise the task. He was pleased when he saw Veil again; he initially thought she had not completed her task, but she delivered maps and some texts from Amaram. He was also amazed with her drawing skills and deduced that she had killed Tyn. Mraize offered her the opportunity to be part of the organization, but explicitly said that she was not in yet, and that killing people within the organization was not encouraged at all. On her way out, she decided not to take the coach and hid; she later found that they had killed her coachman during a failed attempt on her life.
 The second task Mraize asked of Veil (Shallan) was to get information from a madman inside Dalinar’s warcamp, as well as confirm his allegiance. He was aware that Gavilar had learned some information of an extraordinary nature. After Shallan managed to complete her task and deliver information on the madman, who was later revealed to be the [[Herald\|Herald]] [[Talenel\|Talenel]], Mraize accepted her into the Ghostbloods. He also said that “the truth destroys more people than it saves”.
 
@@ -77,18 +82,18 @@ He also plotted a trap for the Herald [[Shalash\|Shalash]] by attracting her wit
 Mraize and the Ghostbloods hunted and killed the Sons of Honor, including [[Thanadal\|Thanadal]] and [[Vamah\|Vamah]]. Mraize infiltrated [[Ialai Sadeas\|Ialai Sadeas's]] camp as Gobby. Ialai is assassinated by [[Shallan\|Shallan]], though she does not claim it as a member of the Ghostbloods, she believed it was for the good of [[Alethkar\|Alethkar]]. Mraize believed at this point that the [[Sons of Honor\|Sons of Honor]] were defunct.
 
 >“*A part that can be that strong. Let that side of you do what needs to be done. Save your husband, your kingdom, and your world all at once. Become that hunter, Shallan. Become the knife.*”
-\-Mraize to Shallan[22]
+\-Mraize to Shallan[27]
 
-[[Shallan\|Shallan]] brokered a deal with [[Sja-anat\|Sja-anat]] to have her child [[Tumi\|Tumi]] meet with Mraize. Mraize believed the deal including bonding Tumi to a Ghostblood. Mraize expressed interest in bringing Sja-anat to their side, looking to take advantage of her ancient knowledge.
-Mraize met with Shallan at [[Urithiru\|Urithiru]] as Gobby. He asked her to hunt [[Restares\|Restares]], leader of the [[Sons of Honor\|Sons of Honor]], in [[Lasting Integrity\|Lasting Integrity]]. In return, he offered to tell her everything, and allow her to ask any question. He also offered her the choice to leave the Ghostbloods, and promised he and his babsk ([[Iyatil\|Iyatil]]) would not hunt her and would discourage other Ghostbloods from doing so. Mraize informs Shallan that he has a spy close to her, a practice he experience with Iyatil. To aid in this mission, he gives her a rare communication cube containing [[Seon\|seon]] [[Ala\|Ala]], allowing them to communicate across realms.
+[[Shallan\|Shallan]] brokered a deal with [[Sja-anat\|Sja-anat]] to have [[Sja-anat\|Sja-anat's]] child, [[Tumi\|Tumi]], meet with Mraize. Mraize believed the deal including bonding Tumi to a Ghostblood. Mraize expressed interest in bringing Sja-anat to their side, looking to take advantage of her ancient knowledge.
+Mraize met with Shallan at [[Urithiru\|Urithiru]] as Gobby. He asked her to hunt [[Restares\|Restares]], leader of the [[Sons of Honor\|Sons of Honor]], in [[Lasting Integrity\|Lasting Integrity]]. In return, he offered to tell her everything, and allow her to ask any question. He also offered her the choice to leave the Ghostbloods, and promised he and his babsk ([[Iyatil\|Iyatil]]) would not hunt her and would discourage other Ghostbloods from doing so. Mraize informs Shallan that he has a spy close to her, a practice he experienced with Iyatil. To aid in this mission, he gives her a rare communication cube containing [[Seon\|seon]] [[Ala\|Ala]], allowing them to communicate across realms.
 While Shallan travelled to [[Lasting Integrity\|Lasting Integrity]], she worked to identify Mraize's spy, planting misinformation amongst her [[Unseen Court\|Unseen Court]]. Mraize mistakenly confirms the misinformation from [[Beryl\|Beryl]], though it is later discovered that he obtained this while spying on communications between [[Pattern\|Pattern]] and [[Wit\|Wit]].
 During this time, Mraize hunted and killed [[Gereh\|Gereh]] within [[Urithiru\|Urithiru]]. [[Lift\|Lift]] tried to interfere and ended up getting captured in a [[Ralkalest\|Ralkalest]] cage. Lift is then given as a gift to [[Raboniel\|Raboniel]] as part of a request for the [[Fused\|Fused]] to negotiate with his master for the right to utilize the [[Oathgate\|Oathgates]]. Mraize also gave her a large pouch, whose contents caused her to lose her rhythms.
 
 >“*Killing Sadeas saved thousands of lives. Delivering Kelek to us, sending the honorspren to bond Windrunners, could save millions.*”
-\-Mraize to Shallan[22]
+\-Mraize to Shallan[27]
 
 In [[Lasting Integrity\|Lasting Integrity]], Shallan sought out [[Restares\|Restares]], confirming with Mraize for any suspicious humans, and he ruled them out one by one. Shallan was upset Mraize withheld information, when she discovered Restares was actually the [[Herald\|Herald]] [[Kelek\|Kelek]]. Mraize had hidden a [[Raysium\|raysium]] dagger within the communication cube. Mraize asked Shallan to collect [[Kelek\|Kelek's]] soul, and in return, she'd become a full member of the Ghostbloods. He argued that the Heralds abandoned the [[Oathpact\|Oathpact]] and even though they knew the [[Fused\|Fused]] were back, they either hid or helped hasten the desolation. This would also give Shallan the opportunity to impersonate [[Kelek\|Kelek]] to save [[Adolin\|Adolin]] from the [[Honorspren\|honorspren's]] judgment.
-Shallan decided not to kill Kelek and informed Mraize that she was quitting the Ghostbloods. With Kelek's help, Shallan freed [[Ala\|Ala]], who acted like an abused child from her time with Mraize. Kelek believed [[Deadeye\|deadeye]] spren did not exist before the [[Recreance\|Recreance]], and this was why Mraize hunted him. Shallan told him to leave [[Urithiru\|Urithiru]] and that she'd hunt the gemstone containing [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. Mraize warned her that she'd made an enemy of the most powerful organization in the cosmere.
+Shallan decided not to kill Kelek and informed Mraize that she was quitting the Ghostbloods. With Kelek's help, Shallan freed [[Ala\|Ala]], who acted like an abused child from her time with Mraize. Kelek believed [[Deadeye\|deadeye]] spren did not exist before the [[Recreance\|Recreance]], and this was why Mraize hunted him. Shallan told him to leave [[Urithiru\|Urithiru]] and that she'd hunt the gemstone containing [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. She also passed on a message from [[Hoid\|Hoid]] for Thaidakar. Mraize warned her that she'd made an enemy of the most powerful organization in the cosmere. He would later pass on Hoid's message to Thaidakar.
 
 ## Relationships
 ### Shallan Davar

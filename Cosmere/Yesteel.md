@@ -1,11 +1,10 @@
 |**Yesteel**|
 |-|-|
 |**Siblings**|[[Arsteel\|Arsteel]]|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Awakener\|Awakener]]|
-|**Groups**|[[Five Scholars\|Five Scholars]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]]|
+|**Groups**|[[Five Scholars\|Five Scholars]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Yesteel** is one of the [[Five Scholars\|Five Scholars]] on [[Nalthis\|Nalthis]], and a master of [[Lifeless\|Lifeless]] Commands. He is [[Arsteel\|Arsteel's]] brother. His most well-known achievement is his discovery of [[Ichor-alcohol\|ichor-alcohol]].
 

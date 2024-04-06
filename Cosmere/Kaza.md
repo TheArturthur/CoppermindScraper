@@ -4,9 +4,8 @@
 |**Died**|c. 1174, *First Dreams*|
 |**Abilities**|[[Soulcaster\|Soulcaster]]|
 |**Nationality**|[[Liaforan\|Liaforan]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*It is blissful. I slowly connect to the device, and through it to Roshar. Until the day it will take me fully into its embrace. I could show you. Feel my touch, and you can know. One moment, and then you will mingle with the air itself.*”
 \-Kaza[1]
@@ -46,7 +45,7 @@ Kaza is intimately familiar with the use of a Soulcaster fabrial that can produc
 
  by  EccoS 
 For more information, see [[Savant\|savant]].
-Kaza's lifelong use of her Soulcaster has caused her to become a savant.  She spent a large amount of time with the fabrial in her youth, learning its secrets. She is able to transform part of an object, which is beyond the skill of most Soulcasters. There are limits to her abilities, as she cannot Soulcast very large objects completely into smoke. She can see, at least partially, into [[Shadesmar\|Shadesmar]], including the full shapes of [[Spren\|spren]]. She describes Soulcasting as "connect[ing] to the device, and through it to Roshar".
+Kaza's lifelong use of her Soulcaster has caused her to become a savant. She spent a large amount of time with the fabrial in her youth, learning its secrets. She is able to transform part of an object, which is beyond the skill of most Soulcasters. There are limits to her abilities, as she cannot Soulcast very large objects completely into smoke. She can see, at least partially, into [[Shadesmar\|Shadesmar]], including the full shapes of [[Spren\|spren]]. She describes Soulcasting as "connect[ing] to the device, and through it to Roshar".
 Her savantism has also affected her mind and her body. In addition to the difficulty that she has relating to other people, she seems to constantly fight back a desire to become smoke herself when she is actively using her Soulcaster. When she transforms something into smoke, she feels joy in her soul, and thinks about the freedom that would come from turning into smoke. Physically, she is slowly disintegrating, and believes that she takes a step towards death each time she uses the Soulcaster; she believes she only has a few years left to live. She barely needs to eat and she can no longer taste food, although she still enjoys its smell. When she drinks, she has to take care not to spill the liquid from the holes in her cheeks. She resists the poison administered by the cook of the *First Dreams* much longer than everyone else on the ship, and the cook describes her as "barely human anymore".
 
 ## History

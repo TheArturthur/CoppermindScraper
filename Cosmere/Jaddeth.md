@@ -1,9 +1,8 @@
 |**Jaddeth**|
 |-|-|
 |**Related to**|Shu-Dereth|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Jaddeth** is a deity on [[Sel\|Sel]] related to rocks and earth. He is the god of the modern [[Shu-Dereth\|Shu-Dereth]] religion.
 He is mentioned in *Wyrn the King*, the oldest text on Sel, as a minor god that cared for the rocks under the earth. The originally pantheistic religion later shifted to monotheism through the teachings of [[Keseg\|Keseg]]. [[Dereth\|Dereth]] further interpreted Keseg's doctrine to mean that mankind should serve a single monarch. Dereth's ideas were rejected in his native [[JinDo\|JinDo]], but were later embraced in [[Fjorden\|Fjorden]] after the fall of the Old Empire and the adoption of [[Shu-Dereth\|Shu-Dereth]] as the official state religion by [[Wulfden the First\|Wulfden the First]]. Jaddeth was elevated to be the primary god of Shu-Dereth and therefore the entire Fjordell Empire. Over the next several centuries, Fjordell [[Wyrn (title)\|Wyrns]] and priests altered historical texts to make it seem like Fjorden had always served Jaddeth with holy purpose.

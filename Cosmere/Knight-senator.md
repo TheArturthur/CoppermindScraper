@@ -1,7 +1,6 @@
 |**Knight-senator**|
 |-|-|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Knight-senators** are political leaders in the [[United Isles of America\|United Isles of America]].
 

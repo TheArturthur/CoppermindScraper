@@ -2,11 +2,8 @@
 |-|-|
 |**Related to**|[[Highstorm\|Highstorms]]|
 |**Type**|Weather pattern|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Never furious, never passionate like a highstorm. Slow, steady. Like the blood of a dying year that was taking its last few shambling steps toward the cairn.*”
 \-Kaladin's thoughts on the Weeping[1]

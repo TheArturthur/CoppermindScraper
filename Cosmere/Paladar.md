@@ -3,9 +3,8 @@
 |**Relatives**|[[Loradar Vamah\|Loradar Vamah]]|
 |**Residence**|[[Revolar\|Revolar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Paladar** is a highlord from [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is a relative of Highprince [[Loradar Vamah\|Loradar Vamah]] and rules [[Vamah princedom\|Vamah princedom]] as regent.
 

@@ -1,9 +1,8 @@
 |**Galbrometh**|
 |-|-|
 |**Species**||
-|**World**|[[Alornia\|Alornia]]|
+|**Homeworld**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“*Kairominas the First of Alornia, Keeper of the Seventeen Lanterns, Master of Ultimate Lancing, Slayer of Galbrometh.*”
 \-Kai introducing himself to Sophie[1]

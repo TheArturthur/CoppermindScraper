@@ -3,11 +3,10 @@
 |**Part of the Skaa rebellion**|
 |**Era**|[[New Empire\|New Empire]]|
 |**Participants**|[[Quellion\|Quellion]], [[Spook\|Spook]], [[Sazed\|Sazed]], [[Breeze\|Breeze]]|
-|**City**|[[Urteau\|Urteau]]🐱︎|
-|**Dominance**|[[Northern Dominance\|Northern Dominance]]🐱︎|
+|**City**|[[Urteau\|Urteau]]|
+|**Dominance**|[[Northern Dominance\|Northern Dominance]]|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Coup of Urteau** was one of the major events on [[Scadrial\|Scadrial]], in the city of [[Urteau\|Urteau]] between the end of the [[Final Empire\|Final Empire]] and [[Sazed\|Sazed's]] ascension.
 When [[Straff Venture\|Straff Venture]] left [[Urteau\|Urteau]] to [[Siege of Luthadel\|besiege Luthadel]], the skaa overthrew the government, placing [[Quellion\|Quellion]] as their new leader. Emperor [[Elend Venture\|Elend Venture]] sent [[Sazed\|Sazed]] and [[Breeze\|Breeze]] to bring the city under his control. After failing to negotiate with [[Quellion\|Quellion]], Sazed and Breeze met with [[Spook\|Spook]], and the group decided to incite a rebellion. After a confrontation between [[Spook\|Spook]] and [[Quellion\|Quellion]], Spook discovered that they have been playing into the hands of [[Ruin\|Ruin]], who has been subtly influencing both Spook and Quellion via [[Hemalurgy\|Hemalurgic Spikes]]. After a fire broke out, threatening to destroy the town, Spook removed the spikes and flooded the canals, saving the city.

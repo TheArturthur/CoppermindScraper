@@ -2,9 +2,8 @@
 |-|-|
 |**Services**|Cigars|
 |**City**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*You are fools! One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them.*”
 \-Miles Dagouter's last words[1]
@@ -23,4 +22,4 @@ In his final moments, Miles shouts out that the people of Elendel will soon be r
 
 
 
-https://coppermind.net/wiki/Citizen_Magistrates
+https://coppermind.net/wiki/Citizen_Magistrate

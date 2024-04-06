@@ -4,7 +4,6 @@
 |**Type**|Musical instrument|
 |**Owners**|[[Kaladin\|Kaladin]], [[Hoid\|Hoid]] (former), [[Torol Sadeas\|Torol Sadeas]] (former)|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **Trailman's flute** is a musical instrument used by storytellers to aid in the telling of their stories.
 

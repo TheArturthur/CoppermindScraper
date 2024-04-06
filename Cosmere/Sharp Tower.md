@@ -1,8 +1,7 @@
 |**Sharp Tower**|
 |-|-|
-|**City**|[[Ildithia\|Ildithia]]🐱︎|
+|**City**|[[Ildithia\|Ildithia]]|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Calamity*|
 
 **Sharp Tower** is a hotel in [[Ildithia\|Ildithia]] used by [[Larcener\|Larcener]] and then [[Prof\|Prof]] as a center of operations.
 

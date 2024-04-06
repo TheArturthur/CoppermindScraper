@@ -6,6 +6,10 @@ This article is about the novel. For the [[Epic\|Epic]] of the same name, see [
 |**Follows**|*Firefight*|
 |**Setting**|[[Ildithia\|Ildithia]], [[Earth (Reckoners)\|Alternate Earth]]|
 |**Released**|February 16, 2016|
+|**Publisher**||
+|**ISBN**|978-0-3857-4360-0|
+|**Page Count**|424|
+|**Word Count**|[[Calamity/Statistical analysis\|103,055]]|
 
 *Calamity* is the third and final book in *The Reckoners* series by [[Brandon Sanderson\|Brandon Sanderson]].
 It takes place in Atlanta, renamed to [[Ildithia\|Ildithia]].
@@ -13,7 +17,7 @@ The title of the book is named for a mysterious red star that appeared in the sk
 
 ## Contents
 
-1 Cover Blurb
+1 Synopsis
 2 Summary
 
 2.1 Part One
@@ -23,12 +27,13 @@ The title of the book is named for a mysterious red star that appeared in the sk
 2.5 Epilogue
 
 
-3 Behind the Scenes
+3 Development
 4 Cover Gallery
-5 Notes
+5 Statistical Analysis
+6 Notes
 
 
-## Cover Blurb
+## Synopsis
 >“*From the bestselling author of the Mistborn series and Words of Radiance comes Calamity, the final book in the New York Times bestselling Reckoners series. What started in the instant #1 New York Times bestseller Steelheart and continued in the instant #1 New York Times bestseller Firefight now concludes in Calamity.*
 \-When Calamity lit up the sky, the Epics were born. David's fate has been tied to their villainy ever since that historic night. Steelheart killed his father. Firefight stole his heart. And now Regalia has turned his closest ally into a dangerous enemy.
 David knew Prof's secret, and kept it even when Prof struggled to control the effects of his Epic powers. But facing Obliteration in Babilar was too much. Once the Reckoners' leader, Prof has now embraced his Epic destiny. He's disappeared into those murky shadows of menace Epics are infamous for the world over, and everyone knows there's no turning back. . . .
@@ -54,11 +59,20 @@ After they arrive, David is reunited with his [[Blain Charleston\|father]] from 
 ### Epilogue
 David, Megan, and Prof land somewhere in Australia and are forced to sit and wait for Knighthawk's helicopter. During that time they find out that Mizzy turned into an Epic and the darkness is completely gone. Obliteration comes to them unaffected by Calamity's apparent death and he still intends to blow up Toronto. Epics are now free to decide to be saviors or villains on their own. David wants to practice his kissing skills on Megan, but instead she sends him back to his father. They have the same powers, but David needs help flying. His father offers to teach him.
 
-## Behind the Scenes
+## Development
 Brandon started work on *Calamity* late during December 2014, where he put together his Book Guide. Drafting of Chapter 1 began on January 1st, 2015. He initially planned on finishing it by March 2015. However drafting took longer than expected and he instead finished during the early morning of May 6th, 2015.January and February were slow writing months for him, due to a lot of traveling and touring, only writing 5,000 and 8,000 words in each respective month. His pace picked up in March where he managed to write 30,000 words. Over the course of the final 13 work-hours he wrote 13,200 words out of the initial draft's 102,000 words, with a break in the middle to go to the cinema. The second draft was completed and turned in on May 18th. Brandon's final revisions for the book were completed during the early morning of Sep 2nd, 2015.
 
 ## Cover Gallery
 For a cover gallery of Calamity, see [[Calamity/Covers\|/Covers]].
+## Statistical Analysis
+For a full statistical analysis, see [[Calamity/Statistical analysis\|/Statistical analysis]].
+*Calamity* consists of one prologue, fifty-one chapters, and one epilogue, reaching a total 103,055 word count.
+
+|**Word Count**|103,055||
+|-|-|
+|**Page Count**|424|Delacorte Press hardback|
+|**Chapter Count**|51|Including prologue, and epilogue.|
+
 
 
 https://coppermind.net/wiki/Calamity

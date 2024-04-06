@@ -2,10 +2,9 @@
 |-|-|
 |**Related to**|[[Spook\|Spook]]|
 |**Type**|Dialect|
-|**Era**|Post-Catacendre|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Post-Catacendre\|Post-Catacendre]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn (series)*|
 This page or section needs to be updated with new information for *Shadows of Self*!Be aware that in its current state, it may not include all additional content yet.
 
 **High Imperial**, known before the [[Final Ascension\|Final Ascension]] of Harmony as Eastern street slang, is a dialect on Scadrial used by [[Spook\|Spook]] and his childhood friends. After the ascension of Harmony, High Imperial turned into a scholarly, formal language that was rarely used outside of important legal documents.
@@ -31,7 +30,7 @@ This page or section needs to be updated with new information for *Shadows of S
 \-The words etched on the gates of Elendel University[4]
 
 
->“* Ups in the where above the doing*”
+>“* Ups in the where above with the doing.*”
 \- Vin meets Spook[5]
 
 

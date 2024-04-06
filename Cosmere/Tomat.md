@@ -1,11 +1,10 @@
 |**Tomat**|
 |-|-|
 |**Occupied by**|[[Singer\|Singers]]|
-|**Princedom**|[[Sadeas princedom\|Sadeas princedom]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Princedom**|[[Sadeas princedom\|Sadeas princedom]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tomat** is a city in the [[Sadeas princedom\|Sadeas princedom]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

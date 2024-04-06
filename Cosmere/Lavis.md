@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Plant|
 |**Used for**|Food|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Lavis** is a species of plant from the [[Rockbud\|rockbud]] family. It is an important and ancient cereal crop on [[Roshar\|Roshar]].
 

@@ -2,9 +2,9 @@
 |-|-|
 |**Profession**|Leatherworker|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Avaran** is an darkeyed [[Alethi\|Alethi]] leatherworker on [[Roshar\|Roshar]].
 

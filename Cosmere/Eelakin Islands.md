@@ -1,8 +1,7 @@
 |**Eelakin Islands**|
 |-|-|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 The **Eelakin Islands** are the homeland of the [[Eelakin\|Eelakin]] people on [[First of the Sun\|First of the Sun]], a planet in the [[Drominad System\|Drominad System]].
 
@@ -31,4 +30,4 @@ In the centuries following the taming of the homeisles, the Eelakin people slowl
 
 
 
-https://coppermind.net/wiki/Homeisles
+https://coppermind.net/wiki/Eelakin_Islands

@@ -1,10 +1,9 @@
 |**Valam princedom**|
 |-|-|
 |**Ruler**|[[Valam\|Valam]] (former), [[Taravangian\|Taravangian]]|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Valam princedom** was a [[Veden\|Veden]] princedom on [[Roshar\|Roshar]]. After the fall of House Valam, it is under the control of [[Taravangian\|Taravangian]].
 

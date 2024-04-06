@@ -4,9 +4,8 @@
 |**Spouse**|[[Mi'chelle Ostlin\|Mi'chelle Ostlin]]|
 |**Ancestors**|[[Aradan Yomen\|Aradan Yomen]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Lord Joshin Yomen** is a wealthy and powerful lord in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 
@@ -20,7 +19,7 @@
 
 ## History
 As a Yomen, Joshin was raised as a [[Sliverism\|Sliverist]].
-Joshin married Lady [[Mi'chelle Ostlin\|Mi'chelle Ostlin]] in a wedding at [[Yomen mansion\|Yomen mansion]] attended by [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]], [[Steris Harms\|Steris Harms]], [[Marasi Colms\|Marasi Colms]], and [[Hoid\|Hoid]]. The wedding was attacked by [[Miles\|Miles]] and the [[Vanishers\|Vanishers]]. To Joshin's fury, the Vanishers even robbed Joshin, his wife, and their family stealing their jewelry and money, as well as the bridal necklace.
+Joshin married Lady [[Mi'chelle Ostlin\|Mi'chelle Ostlin]] in a wedding at [[Yomen mansion\|Yomen mansion]] attended by [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]], [[Steris Harms\|Steris Harms]], [[Marasi Colms\|Marasi Colms]], [[Khriss\|Khriss]] and [[Hoid\|Hoid]]. The wedding was attacked by [[Miles\|Miles]] and the [[Vanishers\|Vanishers]]. To Joshin's fury, the Vanishers even robbed Joshin, his wife, and their family stealing their jewelry and money, as well as the bridal necklace.
 Joshin has several property investments in Elendel. He had purchased buildings in a run-down area of town and renovated it, causing the crime rate in the area to drop substantially.
 
 ## Connection with Hoid

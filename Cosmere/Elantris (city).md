@@ -1,11 +1,10 @@
 |**Elantris**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
-|**Region**|[[Opelon\|Opelon]]🐱︎|
-|**Nation**|[[Arelon\|Arelon]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Region**|[[Opelon\|Opelon]]|
+|**Nation**|[[Arelon\|Arelon]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*Elantris was beautiful, once. It was called the city of the gods: a place of power, radiance, and magic. Visitors say that the very stones glowed with an inner light, and that the city contained wondrous arcane marvels. At night, Elantris shone like a great silvery fire, visible even from a great distance.*”
 \-Elantris Prologue[1]
@@ -50,7 +49,7 @@ The **City of Elantris** is a city in [[Arelon\|Arelon]] on the continent of [[O
 
 
 ## History
- by Venushin Elantris
+ by  Geoff Shupe  Elantris
 ### Construction
 The actual origins of the city are unknown. It was constructed "hundreds of years if not over a thousand years" before the [[Reod\|Reod]], likely before the [[Splinter\|Splintering]] of [[Devotion\|Devotion]] and [[Dominion\|Dominion]]. The people who built it possessed a keen understanding of [[AonDor\|AonDor]], as the Elantrian Metropolitan Area, comprising Elantris and its four outer cities, forms a massive Aon Rao, which acts as a power amplifier for the Elantrians. Its builders were themselves Elantrians, as only they would have been able to make the Aons formed by the city work.
 
@@ -78,10 +77,12 @@ The resettlement was supported in part by the [[Widow's Trial\|Widow's Trial]] o
 Around this time, Raoden, along with [[Galladon\|Galladon]] and Karata, discovered that at least one of the Hoed had been an Elantrian since before the fall. This shocked them, as all the original Elantrians were believed to have been killed in the chaos following the Reod. This Hoed led them to a hidden library containing books on AonDor, among other subjects, as well as a passage to [[Devotion's Perpendicularity\|a small pool]] where it appeared Elantrians could go to die. In the library, Raoden was able to gain an understanding of certain aspects of the fall of Elantris. The omnipresent slime, for example, was the result of the decomposition of a microorganism that had thrived on the light given off by the city. When the city fell dark, the organisms died. The microorganism was a type of fungus or mold that thrived on the light and grew as a thin translucent film on everything where it added an enhanced radiance to the already glowing city walls. The mold fungus did not make any mess and was practically imperceptible until it died and rotted into brown slime. He also discovered the tie between AonDor and the geography of Arelon, and was able to take his first step towards "fixing" AonDor, with the addition of the Chasm line to the Aons.
 
 ### The Restoration of Elantris
-During the events of the Invasion of Arelon by [[Dakhor\|Dakhor]] monks, Raoden was critically injured and became one of the Hoed. Galladon and Karata, keeping a promise they had made to Raoden, brought him to the lake in order to end his suffering. On the way, Raoden subconsciously noticed that Elantris was itself a broken Aon. After refusing the peace offered by the Lake, he added the Chasm line to the Elantrian Metropolitan District while avoiding capture by the enemy. Karata died protecting him. Once the Chasm line was added, Elantris and the Elantrians were restored to their pre-Reod state.
+During the events of the Invasion of Arelon by [[Dakhor\|Dakhor]] monks, Raoden was critically injured and became one of the Hoed. Galladon and Karata, keeping a promise they had made to Raoden, brought him to the lake in order to end his suffering. On the way, Raoden subconsciously noticed that Elantris was itself a broken Aon. After refusing the peace offered by the Lake, he added the Chasm line to the Elantrian Metropolitan District while avoiding capture by the enemy. Karata died protecting him. Once the Chasm line was added, Elantris became a completed Aon and the Elantrians, once stuck in their incomplete state, were transformed into full Elantrians.
 Following Raoden's coronation, Elantris was reinstated as the Arelene capital.
 
 ## Landmarks
+ by  Robin Costet  Bird's eye view of the city of Elantris
+For images of the city, see [[Elantris (city)/Gallery\|/Gallery]].
 ### Outer Cities
 Four separate smaller cities surround Elantris, bordered by low walls. Collectively, they are referred to as the outer cities. These four cities, plus Elantris, create Aon Rao. The cities are named after the Aons for the four cardinal directions: Ake (west), Ato (north), [[Kae\|Kae]] (east), and Toa (south). The cities are dense enough when populated that they require magical support from Elantris to survive; after the Reod, Iadon conscripts the inhabitants as laborers for his new government, and all cities are left abandoned, except for Kae, which he makes the capital of Arelon.
 
@@ -99,6 +100,7 @@ In addition to the extensive collection of books, both on AonDor and other subje
 During the Invasion of Arelon, the hidden library was where [[Ashe\|Ashe]] took the Elantrian children for safekeeping.
 The hidden library also held a secret passage to the Lake.
 
+ by Venushin The walls of Elantris
 ### Bank
 Elantris's bank is located in the market district, which, before the Reod, was a gathering place for merchants from across Opelon.
 The bank served as the base of operations for Shaor's gang.
@@ -137,6 +139,7 @@ The streets of Elantris form an enormous Aon Ela, which does not currently have 
 Most rooms within Elantris have metal plates inscribed with Aon Ashe that provide illumination. There are also metal plates inscribed with Aon Tia that allow for instantaneous travel from plate to plate within the city.
 
 ## Notable Residents
+ by  Shuravf  Elantrians
 For a full list see, see :Category:Residents of Elantris.
 
 [[Raoden\|Raoden]]
@@ -157,4 +160,4 @@ Brandon designed the three gangs who hold sway over Elantris at the time of Raod
 The wall was not [[Soulcast\|Soulcast]] but was constructed by local magic.
 
 
-https://coppermind.net/wiki/Ato
+https://coppermind.net/wiki/Toa

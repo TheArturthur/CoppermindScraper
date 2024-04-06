@@ -3,9 +3,10 @@
 |**House Yomen**|
 |**Spouse**|[[Joshin Yomen\|Joshin Yomen]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **Lady Mi'chelle Yomen**, née Ostlin, is a wealthy [[Elendel\|Elendel]] noblewoman on [[Scadrial\|Scadrial]].
 

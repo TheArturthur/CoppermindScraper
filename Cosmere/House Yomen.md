@@ -1,9 +1,10 @@
 |**House Yomen**|
 |-|-|
 |**Type**|Family|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The Yomens are powerful, even if they do believe in Sliverism.*”
 \-Steris, about House Yomen

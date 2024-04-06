@@ -1,9 +1,8 @@
 |**Bridge crew**|
 |-|-|
 |by  Artur Felipe Mósca |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **bridge crews**, crewed by men known as the **bridgemen**, were originally an expendable workforce used for hard labor and cannon fodder. They later become an infantry battalion, but retain the name "bridge crews" as their official unit name.
 Under [[Highprince\|Highprince]] [[Torol Sadeas\|Torol Sadeas]], the bridge crews carry large, heavy bridges in order to allow his soldiers to cross the chasms of the [[Shattered Plains\|Shattered Plains]]. The bridgemen consist mainly of slaves, deserters, thieves, foreigners, and some men who joined because they had nowhere else to go. The bridgemen were treated as expendable and incurred heavy casualties with every bridge run.
@@ -39,7 +38,7 @@ The bridgemen were split into 40 bridge crews, each carrying one bridge. Each br
 
 ### Functions
 For bridge crews' tactical use, see War_of_Reckoning#The_Use_of_Bridges_Between_Plateaus.
-During hunts for gemhearts, bridgemen will carry the bridge and place it to the next plateau. While the army is crossing the bridge, they have time to rest, but they will need to run and get ahead of the army once everyone passed. During such runs, positions in the front is preferred because of fresh air and better sight. Bridgemen will take turns for positions in a fair manner. However, if the next plateau is occupied by Parshendi forces, bridge crews will face heavy fire and almost always suffer heavy casualties because they act as easy targets to attract fire away from the main forces. Positions at the rear, which is better shielded against arrows, is preferred in this case, although the survival rate is very poor for every position. People who refuse to follow the rules will be forced to run in the front. Bridge leaders have power over the position arrangements.
+During hunts for gemhearts, bridgemen will carry the bridge and place it to the next plateau. While the army is crossing the bridge, they have time to rest, but they will need to run and get ahead of the army once everyone passed. During such runs, positions in the front is preferred because of fresh air and better sight. Bridgemen will take turns for positions in a fair manner. However, if the next plateau is occupied by Parshendi forces, bridge crews will face heavy fire and almost always suffer heavy casualties because they act as easy targets to attract fire away from the main forces. Positions at the rear, which are better shielded against arrows, are preferred in this case, although the survival rate is very poor for every position. People who refuse to follow the rules will be forced to run in the front; the position at the center is referred to as the "deathpoint" due to its high mortality rate. New recruits are often stationed at the deathpoint since they are considered expendable. Bridgeleaders have some power over the position arrangements and typically take the best positions for themselves.
 In normal times, the bridge crews act as man power and do various unwanted duties in the war camp. Among them is the chasm duty, which requires people to scavenge for weapons, armor or spheres from the chasms.
 
 ## Under Highprince Kholin

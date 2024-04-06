@@ -5,8 +5,7 @@
 |**Aliases**|Abigail Reed|
 |**Residence**|[[Babilar\|Babilar]]|
 |**Ethnicity**||
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 For the member of the [[Reckoners\|Reckoners]], see [[Abigail Casey\|Abigail Casey]].
 **Regalia**, also known as **Regalia, the Hydromancer**, is an [[Epic\|Epic]] that rules over the city of [[Babylon Restored\|Babylon Restored]]. Before becoming an Epic, she was known as **Abigail Reed**.
@@ -25,6 +24,7 @@ For the member of the [[Reckoners\|Reckoners]], see [[Abigail Casey\|Abigail Cas
 3.1 Before Calamity
 3.2 After Calamity
 3.3 Plans for a Successor
+3.4 Legacy
 
 
 4 Trivia
@@ -57,17 +57,20 @@ Regalia's weakness is being proven wrong. Her weakness is noticeably triggered a
 
 ## History
 ### Before Calamity
-Long before the arrival of [[Calamity (Epic)\|Calamity]] she was an attorney, and later a judge. She did not serve very long as she quit to star in her own reality show, *Judge Regalia*, which aired for six years. She then quit to join the *Light of Heaven Television Ministry*. She eventually became known as "one of America's most controversial religious figures" because of her divisive preaching.
+Long before the arrival of [[Calamity (Epic)\|Calamity]], Abigail was an attorney, and later a judge. She did not serve as a judge very long, as she quit to star in her own reality show, *Judge Regalia*, which aired for six years. She then became a preacher, quitting to join the *Light of Heaven Television Ministry*. She eventually became known as "one of America's most controversial religious figures" because of her divisive preaching.
 
 ### After Calamity
-Not long after the arrival of Calamity she gained her Epic abilities while on air. After revealing a level of intolerance and brutality not seen before, she lost most of her followers. For reasons unknown she killed her remaining followers then went to New York City where she killed the reigning Epic. She then flooded the streets, renaming the city Babylon Restored.
+Not long after the arrival of Calamity, she gained her Epic abilities while on air. After revealing a level of intolerance and brutality not seen before, she lost most of her followers. For reasons unknown, she killed her remaining followers and then went to New York City, where she killed the reigning Epic. She then flooded the streets, renaming the city Babylon Restored.
 
 ### Plans for a Successor
-When the [[Reckoners\|Reckoners]] discover that Regalia had been sending Epics such as [[Mitosis (Epic)\|Mitosis]] and [[Sourcefield\|Sourcefield]] to Newcago to engage with the team, they set their sights on Babilar to take down Abigail. She is served by the High Epics [[Newton\|Newton]] and [[Obliteration\|Obliteration]] in Babilar. Throughout the book, the Reckoners realize that she has some kind of connection to [[Prof\|Prof]] and a plan involving their leader. Prof informs [[David Charleston\|David Charleston]] that he had previously been a part of a team of Epics, including Abigail, that attempted to do good. She later reveals that she has a connection with the Epic [[Calamity (Epic)\|Calamity]] and tries to turn David into an Epic, but David rejects the influence of Calamity and seemingly fails to turn into an Epic. Later it is revealed that she planned to corrupt Prof so he could succeed her, as it turns out that Regalia is actually terminally ill with cancer and is treated by a doctor who also takes care of [[Dawnslight\|Dawnslight]]. The Reckoners find her and kill her before she could succumb to her disease. Although dead in the next book, her influence still remains as she is responsible for Prof's corruption and the creation of Epic-based technologies made from Obliteration's DNA.
+When the [[Reckoners\|Reckoners]] discovered that Regalia had been sending Epics such as [[Mitosis (Epic)\|Mitosis]] and [[Sourcefield\|Sourcefield]] to Newcago to engage with the team, they set their sights on Babilar to take down Regalia. She was served by the High Epics [[Newton\|Newton]] and [[Obliteration\|Obliteration]] in Babilar. The Reckoners eventually realized that she had some kind of connection to [[Prof\|Prof]] and a plan involving their leader. Prof informed [[David Charleston\|David Charleston]] that he had previously been part of a team of Epics, including Abigail, that attempted to do good. She later revealed that she had a connection with the Epic [[Calamity (Epic)\|Calamity]] and tried to turn David into an Epic, but David rejected the influence of Calamity and seemingly failed to turn into an Epic. Regalia had planned to corrupt Prof so he could succeed her, as it turns out that Regalia was actually terminally ill with cancer and was treated by a doctor who also took care of [[Dawnslight\|Dawnslight]]. The Reckoners found her and killed her before she could succumb to her disease.
+
+### Legacy
+Regalia's influence still remained, as she was responsible for Prof's corruption and the creation of Epic-based technologies made from Obliteration's DNA. Her plan was to use the powers of various other Epics to reach Calamity and absorb his own powers, thus becoming all-powerful. She lured Prof to Babilar for the express purpose of turning him so that he would fulfill the plan after her death. When the Reckoners, then led by David himself, tracked down Prof in [[Ildithia\|Ildithia]], Tia risked her life to find files on Prof's computers that detailed Regalia's old plan. Just before Tia's death, [[Dean Knighthawk\|Dean Knighthawk]] was able to copy the files from her mobile and send them to the rest of David's team.
 
 ## Trivia
 She is featured in a full-color Epic File found in the Books-a-Million special edition of [[Steelheart\|Steelheart]].
 Regalia's weakness is never publicly revealed in the Reckoners Series.
 
 
-https://coppermind.net/wiki/Regalia
+https://coppermind.net/wiki/Abigail_Reed

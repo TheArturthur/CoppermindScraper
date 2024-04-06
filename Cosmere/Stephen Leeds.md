@@ -4,8 +4,7 @@
 |**Abilities**|[[Aspect\|Aspects]]|
 |**Titles**|Legion|
 |**Profession**|Private Investigator|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 >“*My name is Stephen Leeds, and I am perfectly sane. My hallucinations, however, are all quite mad.*”
 \-Stephen Leeds[1]
@@ -38,7 +37,8 @@ Stephen does not like being studied by psychologists, something they attempt qui
 Stephen has the capability to process large amounts of information subconsciously. This, combined with his mental strangeness, led to the creation of [[Aspect\|aspects]], compartments of his brain that manifest as hallucinations. Each aspect specializes in manifesting one (or sometimes more) areas of his subconscious knowledge. Stephen must have the aspects re-tell him the information he already knows in order to process it directly.
 Stephen is able to skim a book or listen to a tape and create an aspect with the knowledge from that book or tape, even though he doesn't process the information directly. In a similar vein, he is able to skim a sheet of facts and have an aspect "read" it to him later.
 Stephen regularly binges on all kinds of information so that his aspects can tell it to him later.
-Typically, Stephen's aspects stay in their rooms in his [[Stephen Leeds' mansion\|mansion]], accompanying him when necessary. Sometimes, however, he will call them all together to a large white room in order to have the expertise on every subject to solve more difficult problems.
+Typically, Stephen's aspects stay in their rooms in his [[Stephen Leeds' mansion\|mansion]], accompanying him when necessary. Sometimes, however, he will call them all together to a large white room in order to have the expertise on every subject to solve more difficult problems. Manifesting many aspects at once is mentally taxing for Stephen and can make it much harder for his mind to uphold the illusion of their reality. As such, he uses the white room to deprive him of most stimuli and focus his mental energy on the aspects.
+As Stephen's aspects aren't truly real, they can't interact with real-world objects. If an interaction is enforced, such as Stephen tossing a phone to an aspect, his mind will cover what really happened or make up an excuse for why it did, such as the aspect fumbling the phone. If his mind fails to do so, it can result in an incongruency that is disconcerting for both him and the aspect.
 Stephen uses his abilities to solve cases as a private detective. He calls himself a specialist- one who specializes in many different areas.
 
 ## History

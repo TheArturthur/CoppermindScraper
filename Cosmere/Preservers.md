@@ -1,8 +1,7 @@
 |**Preservers**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 This page needs urgent attention!It has serious flaws, such as lack of clarity; contains placeholders; or is otherwise critically incomplete.
 
 >“*I speak of us as "we." The group. Those of us who were trying to discover and defeat Ruin. Perhaps my thoughts are now tainted, but I like to look back and see the sum of what we were doing as a single, united assault, though we were all involved in different processes and plans.*”
@@ -20,14 +19,14 @@ This page needs urgent attention!It has serious flaws, such as lack of clarity; 
 
 
 ## History
-They were the group that, due to [[Kelsier\|Kelsier's]] will for vengeance, planned to kill and overthrow the [[Lord Ruler\|Lord Ruler]]. Afterward, upon the release of [[Ruin\|Ruin]] from his imprisonment at [[The Well of Ascension\|The Well of Ascension]], the group fought and destroyed Ruin. One notable member of the group, [[Sazed\|Sazed]], took up both the power of Ruin and of [[Preservation\|Preservation]], started the [[Catacendre\|re-creation of the planet]] and saved the population of Scadrial.
-Some of the Preservers might be alive circa 300 years post-Catacendre, but all of them are now part of the mythology of northern Scadrial.
+They were the group that, due to [[Kelsier\|Kelsier's]] will for vengeance, planned to kill and overthrow the [[Lord Ruler\|Lord Ruler]]. Afterward, upon the release of [[Ruin\|Ruin]] from his imprisonment at the [[Well of Ascension\|Well of Ascension]], the group fought and killed Ruin's vessel [[Ati\|Ati]]. One notable member of the group, [[Sazed\|Sazed]], took up both the power of Ruin and of [[Preservation\|Preservation]], started the [[Catacendre\|re-creation of the planet]], and saved the population of Scadrial.
+Some of the Preservers are alive circa 300 years post-Catacendre, but all of them are now part of the mythology of northern Scadrial.
 
 ## Influence
 [[Sazed\|Sazed]] left the [[Words of Founding\|Words of Founding]] for the [[Originators\|Originators]], which improved their technology and advanced them quite rapidly.
 
 
-Many major religions in Elendel worship members of the Preservers. [[Survivorism\|Survivorism]] worships [[Kelsier\|Kelsier]], the Survivor. [[Sliverism\|Sliverism]] worships [[Marsh\|Marsh]], Ironeyes. [[The Path\|The Path]] worships [[Sazed\|Sazed]], known as Harmony.
+Many major religions in Elendel worship members of the Preservers. [[Survivorism\|Survivorism]] worships [[Kelsier\|Kelsier]], the Survivor. [[Sliverism\|Sliverism]] worships [[Marsh\|Marsh]], known as Ironeyes. [[The Path\|The Path]] worships [[Sazed\|Sazed]], known as Harmony.
 Though not a religion, [[Vin\|Vin]] became a strong female role model for the women of the new world.
 
 

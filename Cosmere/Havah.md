@@ -1,29 +1,34 @@
 |**Havah**|
 |-|-|
 |by  Dan dos Santos |
-|**Related to**|[[Vorinism\|Vorinism]]🐱︎|
+|**Related to**|[[Vorinism\|Vorinism]]|
 |**Type**|Garment|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-A **havah** is a traditional [[Vorin\|Vorin]] dress on [[Roshar\|Roshar]]. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt. It is buttoned up the sides, and the left sleeve is longer than the other in order to fully cover the [[Safehand\|safehand]]. Said sleeve can also contain a pouch, known as a safepouch, that can be used for storing valuable [[Spheres\|spheres]]. They are often made of silk in bright colors. 
+A **havah** is a traditional [[Vorin\|Vorin]] dress on [[Roshar\|Roshar]]. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt. It is buttoned up the sides, and the left sleeve is longer than the other in order to fully cover the [[Safehand\|safehand]]. Said sleeve can also contain a pouch, known as a safepouch, that can be used for storing valuable [[Spheres\|spheres]] or other small personal items. They are often made of silk in bright colors. 
 
 ## Contents
 
 1 Cut
-2 Replacement hem
-3 Images
-4 Bridal Gowns
-5 Trivia
-6 Notes
+2 Embroidery
+3 Replacement hem
+4 Images
+5 Bridal Gowns
+6 Trivia
+7 Notes
 
 
 ## Cut
 >“*The cut of a havah is similar to a cheongsam, with full sleeves and falling from the hips. Beneath the slitted outer skirt are many thin layers like fine silk which interweave to create a sort of accordion effect. This would (I think?) allow the dress to fall at a sharp angle from the hip when still, while expanding to allow a full range of leg movement. The buttons run from the throat down to the waist, following a line from the jaw down to the collarbone, curving out to follow the bust and then down the line of the torso. I don't think there's a rule for the number of buttons, but when in doubt remember that "10" is significant to the culture. Frog buttons are legit, I think.*”
 \-Ben McSweeney on havah's cut[4]
+
+
+## Embroidery
+>“*Alethi's don't do the flower thing as much... It's not really an Alethi thing, floral patterns. So you are seeing a lot of designs and hatchings. They may look a little Arabic to you. Or the glyphs and things like that you will see worked in but very stylized.*”
+\-Brandon Sanderson on embroidery[5]
 
 
 ## Replacement hem
@@ -77,14 +82,14 @@ Havah designs
 
 ## Bridal Gowns
 >“*Her sapphire gown was of an ancient style, with twin drooping sleeves that went far beyond her hands. Small rubies woven into the embroidery glowed with a complementary light. A golden vest draped over the shoulders, matched by the ornate headdress woven into her braids.*”
-\-Shallan Davar's bridal gown[6]
+\-Shallan Davar's bridal gown[7]
 
 
 The Vorin wedding gown is a variation of a havah. It is likely an older version of what is now accepted as the traditional havah design. Two Vorin wedding gowns have been described:
 The red light from the rubies' [[Stormlight\|Stormlight]] brings the "red for luck" to Shallan's gown. Using blue for Shallan's wedding gown indicates that Vorin brides are allowed more than one color option in a traditional wedding dress.
 
 >“*Red, for luck, it was embroidered with gold and shaped much looser style than the havah, with wide sleeves and a graceful drape.*”
-\-Navani Kholin's bridal gown[7]
+\-Navani Kholin's bridal gown[8]
 
 A bridal crown typically accompanies the wedding gown, and is worn by the bride as a headpiece for the wedding ceremonies in the Vorin tradition. Hair is worn braided for the occasion. The pieces are secured to the hair. Currently only two descriptions are available:
 

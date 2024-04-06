@@ -1,10 +1,9 @@
 |**River Channerel**|
 |-|-|
 |**Type**|River|
-|**Region**|[[Central Dominance\|Central Dominance]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Central Dominance\|Central Dominance]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **River Channerel** is one of the main rivers in the [[Final Empire\|Final Empire]].
 It flows from mountains in the east, providing the border of the [[Northern Dominance\|Northern]] and [[Eastern Dominance\|Eastern Dominances]], where it then goes into [[Lake Luthadel\|Lake Luthadel]]. From there, it runs directly through [[Luthadel\|Luthadel]], and continues down into the [[Southern Dominance\|Southern Dominance]], all the way into the sea.

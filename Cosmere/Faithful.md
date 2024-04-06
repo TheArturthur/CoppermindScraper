@@ -1,8 +1,7 @@
 |**Faithful**|
 |-|-|
 |**Related to**|[[Epic\|Epics]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 The **Faithful** are those who believe that good [[Epic\|Epics]] exist, ones who will use their power for protection rather than domination. The term comes into use after [[Calamity (Epic)\|Calamity]] and the Epics arrive and begin terrorizing humanity. The Faithful think that there will eventually be "superheroes" who will stop the evil Epics.
 [[Blain Charleston\|Blain Charleston]] (David's father) and [[Abraham\|Abraham]] are known to be among the Faithful.

@@ -5,9 +5,8 @@
 |**Abilities**|[[Cytonics\|Cytonics]], [[Nowhere\|nowhere]] travel, and more|
 |**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic* and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Ancient things stirred. And in that moment between heartbeats, they not only saw me, but they knew me.*”
 \-Spensa[1]
@@ -50,7 +49,7 @@ The **delvers**, sometimes called the **eyes**, are ancient, extra-dimensional b
 
 ## Appearance
 ### In the nowhere
-Delvers can be seen by cytonics who attempt to use their powers. Initially, they appear as hundreds of pinpricks of light across a vast blackness, which open to reveal small, white eyes that watch the cytonic. The effect is often compared the the attention of the entire universe suddenly focusing on the cytonic. The longer one observes the eyes, the larger they seem to appear. Perceiving them leaves a person with a sense of cold that persists for hours afterwards.
+Delvers can be seen by cytonics who attempt to use their powers. Initially, they appear as hundreds of pinpricks of light across a vast blackness, which open to reveal small, white eyes that watch the cytonic. The effect is often compared to the attention of the entire universe suddenly focusing on the cytonic. The longer one observes the eyes, the larger they seem to appear. Perceiving them leaves a person with a sense of cold that persists for hours afterwards.
 The appearance of delver eyes is preceded and accompanied by a pleasant sound, akin to a thousand musical notes playing together in harmony; similar to the sound of FTL communications to cytonics. It grows louder the closer one is to seeing them.
 
 ### In physical space
@@ -105,14 +104,14 @@ It is unclear how effective many of the safeguards are against delvers. FTL trav
 
 ## History
 ### Ancient Delvers
-According to Spensa's second vision on the Path of Elders, an alien species with access to advanced technology created a "beast" which wiped out the majority of the pre-Write cytonics before being defeated, causing a long period of isolation that cut off most races from each other and causing humanity to forget about the existence of cytonics until their rediscovery by Jason Write. In the vision, this "beast" appeared similar to a delver (shining white eyes in a featureless blackness), but it is unknown how similar it was to modern delvers.
+According to Spensa's second vision on the Path of Elders, an alien species with access to advanced technology created a "beast" which wiped out the majority of the pre-Write cytonics before being defeated, causing a long period of isolation that cut off most races from each other and causing humanity to forget about the existence of cytonics until their rediscovery by [[Jason Write\|Jason Write]]. In the vision, this "beast" appeared similar to a delver (shining white eyes in a featureless blackness), but it is unknown how similar it was to modern delvers.
 
 ### First appearance
 >“*Centuries ago, my kind learned firsthand how dangerous the delvers are.*”
 \-Cuna[16]
 
 
-Delvers are artificial intelligence that went into the nowhere and evolved to a higher form. However, many of the AI at first only experienced emotions over a period of days when their creator, Jason Wright, died. With the pain overloading the mind and not understanding how to deal with any sort of emotion, they expelled all memories and personality to copy themselves over and over to avoid any sort of pain whatsoever.
+Delvers were an artificial intelligence that went into the nowhere and evolved to a higher form. However, the AI at first only experienced emotions over a period of days when its creator, Jason Write, died. With the pain overloading its mind and not understanding how to deal with any sort of emotion, it expelled all memories and personality, then copied itself over and over to avoid any sort of pain or loneliness whatsoever.
 The first known appearance of a delver occurred during the second of the [[Human wars\|human wars]]. During that time, mankind built facilities on obscure planets as part of a weapons program hoping to summon and control a delver, with [[Detritus\|Detritus]] being one such base. They have also built stations to train people in handling the delvers. Though their attempts were successful, the beings proved impossible to control, and in some cases, the cytoshields proved insufficient, leading to delvers destroying the very people who sought them out.
 In total, thirteen delvers emerged into the physical world. They rampaged throughout the galaxy for the next few decades, destroying world after world, before eventually fading away one by one. From then on out, however, they were a constant presence in the [[Nowhere\|nowhere]], observing all visitors. For this reason, [[Superiority\|Superiority]], as well as human enclaves, drastically cut down on the use of cytonics and wireless communication, so as to avoid drawing them in again.
 

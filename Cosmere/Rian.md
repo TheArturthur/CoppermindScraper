@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Guardsman|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*You can’t save him. She’s going to kill him. She promised me freedom, but here I am, bound. Oh, Ruin.*”
 \-Rian to Waxillium Ladrian[1]

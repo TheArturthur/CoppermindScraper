@@ -3,9 +3,9 @@
 |**Profession**|[[Master-servant\|Master-servant]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*Whatever the enemy did, it knocked out all the others. Every single one. Except you.*”
 \-Alili to Kaladin[1]

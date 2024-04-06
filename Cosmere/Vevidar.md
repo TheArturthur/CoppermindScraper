@@ -3,9 +3,8 @@
 |**Profession**|Soldier, Quartermaster|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vevidar** is a quartermaster in the army of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

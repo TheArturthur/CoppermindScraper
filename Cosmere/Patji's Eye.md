@@ -1,10 +1,9 @@
 |**Patji's Eye**|
 |-|-|
 |by  Grace Oris |
-|**Type**|Lake, [[Perpendicularity\|Perpendicularity]]🐱︎|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**Type**|Lake, [[Perpendicularity\|Perpendicularity]]|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Patji's Eye** is an emerald lake on the island of [[Patji (island)\|Patji]].
 It is the home to the symbiotic worm which gives the [[Aviar\|Aviar]] their cognitive talents. Aviar come to Patji's Eye when they are young to gain their talent. The worms feed off of the fruits of [[Patji's Finger\|Patji's Finger]], which only grow on Patji, and the Aviar gain the symbiont by eating the worms. The lake conceals the minds of those in its vicinity, allowing them to hide from predators who hunt by seeking out consciousness.

@@ -2,9 +2,10 @@
 |-|-|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
+
 For the [[Veden\|Veden]], see [[Ton (Veden)\|Ton (Veden)]].
 **Ton** is an [[Alethi\|Alethi]] [[Singer\|singer]] on [[Roshar\|Roshar]] who was freed by the [[Everstorm\|Everstorm]].
 

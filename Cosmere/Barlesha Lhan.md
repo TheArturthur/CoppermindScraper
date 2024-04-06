@@ -1,9 +1,8 @@
 |**Barlesha Lhan**|
 |-|-|
 |**Profession**|Scholar|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Barely worth the time spent scribing them. A popular survey of historical events at best*”
 \-Jasnah's opinion of Topics

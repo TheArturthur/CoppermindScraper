@@ -1,8 +1,7 @@
 |**Fleshstone**|
 |-|-|
 |**Related to**|[[Crystin\|Crystin]], [[Mindstone\|Mindstone]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*The second become Fleshstones, which are what really make us into Crystin.*”
 \-Bastille's explanation of Crystallia[1]

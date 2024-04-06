@@ -5,9 +5,8 @@
 |**Siblings**|Shauka|
 |**Profession**|Scholar|
 |**Ethnicity**|[[Shin\|Shin]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ali-daughter-Hasweth** is a [[Shin\|Shin]] scholar. She may be the sister of another Shin scholar, [[Shauka-daughter-Hasweth\|Shauka-daughter-Hasweth]].
 [[Shallan\|Shallan]] references one of her works on [[Urithiru\|Urithiru]].
@@ -17,4 +16,4 @@
 
 
 
-https://coppermind.net/wiki/Ali
+https://coppermind.net/wiki/Ali-daughter-Hasweth

@@ -4,8 +4,11 @@
 |**Died**|Killed by [[Megan Tarash\|Megan Tarash]]|
 |**Abilities**|[[Epic\|Epic]]|
 |**Residence**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+
+>“*Slontze. His danger sense is weakened if he's attracted to you. So unless he finds you a whole lot prettier than I do, it’s not going to help.*”
+\-Megan to David[2]
+
 
 **Fortuity** is a [[High Epic\|High Epic]] living in [[Newcago\|Newcago]]. He isn't particularly important in [[Steelheart (Epic)\|Steelheart's]] government, and has fallen out of favor with him.
 
@@ -23,9 +26,9 @@
 
 
 ## Appearance and Personality
-He had a long face and hawkish nose. Fortuity wore a red pinstriped suit, a red fedora, and a red and black cape.
+Fortuity has a long face and hawkish nose. Fortuity wears a red pinstriped suit, a red fedora, and a red and black cape.
 He is known for being one of the most homicidal epics in Newcago outside of Steelheart's inner circle, having killed a lot of innocent people. He likes to perform extispicy with his victims, an act of reading of entrails to predict the future. He had over a hundred murders tied to his name.
-Even though Fortuity's weakness was being attracted to a woman, he still let himself become attracted. However, Fortuity did not like having women talk back to him.
+Even though Fortuity's weakness is being attracted to a woman, he still lets himself become attracted. However, Fortuity does not like having women talk back to him.
 
 ## Attributes and Abilities
 ### Epic Powers
@@ -34,7 +37,7 @@ Fortuity has precognition powers, which allows him to sense what will happen in 
 Because of this power, Fortuity needs no bodyguards, and believes he does not need to fear anything.
 
 
-He also has a secondary power of superhuman reflexes and dexterity. Fortuity kept this secondary power secret, so he would have an advantage when someone attempted to kill him.
+He also has a secondary power of superhuman reflexes and dexterity. Fortuity keeps this secondary power secret, so he has an advantage when someone attempts to kill him.
 
 ### Weakness
 His weakness is his attraction to women. It distracts him from his danger sense. However, his danger sense is still strong enough to detect if he is about to get killed, even while his weakness is in effect. However, he will most likely not realize if someone is about to do something nonlethal to him while the weakness is in effect, such as handcuff him to a pole.

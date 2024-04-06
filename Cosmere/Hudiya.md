@@ -5,16 +5,15 @@
 |**Aliases**|Callsign: Hurl|
 |**Profession**|DDF pilots|
 |**Residence**|[[Igneous Cavern\|Igneous Cavern]]|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*I’ve almost got him. We’re never going to break any records by being cowards.*”
 \-Hurl ignoring orders to retreat shortly before she is shot down[1]
 
 
 **Hudiya**, Callsign: **Hurl**, is a cadet in the [[DDF\|DDF]] [[Flight school\|flight school]]. She is a part of [[Skyward Flight\|Skyward Flight]] and [[Spensa\|Spensa's]] wingmate, prior to her death.
-Her callsign, Hurl, comes from a joke Hudiya made during the cadet's first lesson in the [[Starfighter\|starfighter]] simulators, where most of the cadet's crashed their [[Poco\|Poco's]] instead of flying them. Hurl is from [[Igneous Cavern\|Igneous Cavern]].
+Her callsign, Hurl, comes from a joke Hudiya made during the cadet's first lesson in the [[Starfighter\|starfighter]] simulators, where most of the cadet's crashed their [[Poco\|Pocos]] instead of flying them. Hurl is from [[Igneous Cavern\|Igneous Cavern]].
 
 ## Contents
 
@@ -53,7 +52,7 @@ She is an excellent flier, skilled at using a [[Light-lance\|light-lance]], and 
 Prior to joining flight school, Hurl was in the student [[Digball\|digball]] team, in the position of carrier. She was highly talented and known as one of the best in the league. She finds flying gives her a similar, though larger, adrenaline rush than sports. Although she enjoyed athletics, she finds that she misses her team more than she misses the game itself.
 
 ## History
-After passing the entrance exam, Hurl was placed in [[Skyward Flight\|Skyward Flight]] under the tutorledge of [[Cobb\|Cobb]]. Her first day of [[Flight school\|flight school]] saw her arriving at the class room with [[Bim\|Bim]], indicating that they may have known each other prior to the class. She was roomed with the other female members of her flight, with the exception of [[Spensa\|Spensa]], who was denied accommodation.
+After passing the entrance exam, Hurl was placed in [[Skyward Flight\|Skyward Flight]] under the tutelage of [[Cobb\|Cobb]]. Her first day of [[Flight school\|flight school]] saw her arriving at the class room with [[Bim\|Bim]], indicating that they may have known each other prior to the class. She was roomed with the other female members of her flight, with the exception of [[Spensa\|Spensa]], who was denied accommodation.
 Like many of the other members of Skyward Flight, Hurl crashed her hologram [[Poco\|Poco]] during their first lesson, however, she was highly entertained by the outcome instead of embarrassed. When the lesson was interrupted by a [[Varvax\|Krell]] attack, Hurl, along with the rest of Skyward Flight, were ordered to take to the sky and line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict. She followed Spensa's lead when the other cadet took it upon herself to engage the Krell and help distract them. Neither of the women were overly good at their task and had trouble flying adequately. Despite the danger the cadets had been in, and the near death experience that [[Jorgen\|Jorgen]] had encountered, Hurl was invigorated by the action instead of discouraged.
 
 >“*Wow! Now that was an explosion. How many points do I get for that performance, Cobb?*”
@@ -92,7 +91,7 @@ Although initially friendly, Hurl takes a disliking to Spensa after finding out 
 >“*Not cowards. No backing down. Brave until the end, right Spin? A pact.*”
 \-The commitment made between Spensa and Hurl[4]
 
-Following their newfound friendship, Hurl and Spensa become wingmates. The pair make a good team and their new dynamic leads to a noticeable improvement in their flying abilities and cooperation during battle. Hurl admires Spensa's tenacity in the face of her treatment by the DDF and becomes a fierce advocate for her wingmate. She is also highly impressed by Spensa's hunting abilities and how she utilized her strengths to support her mothers business.
+Following their newfound friendship, Hurl and Spensa become wingmates. The pair make a good team and their new dynamic leads to a noticeable improvement in their flying abilities and cooperation during battle. Hurl admires Spensa's tenacity in the face of her treatment by the DDF and becomes a fierce advocate for her wingmate. She is also highly impressed by Spensa's hunting abilities and how she utilized her strengths to support her mother's business.
 Hurl's death devastates Spensa. In the days following her wingmate's death, Spensa emotionally withdraws and isolates herself in an attempt to deal with her grief. When put on mandatory leave, Spensa sets out to find Hurl's crashed ship, telling her flightmates she wants to give Hurl a proper pilots burial. Secretly, Spensa hoped that Hurl might have miraculously survived the crash, despite evidence that this was unlikely. However, after finding Hurl's remains within her crashed [[Poco\|Poco]], Spensa had to face the reality that her wingmate was gone. Spensa had hoped that by providing Hurl with a proper burial it would help provide closure, however, the ceremony performed by Spensa and [[Jorgen\|Jorgen]] did not lessen her grief. Although Spensa eventually moved past her grief, Hurl's memory stayed with her.
 Spensa views Hurl as a hero who died bravely and has a low tolerance for anyone who suggests otherwise. As with after the deaths of [[Bim\|Bim]] and [[Morningtide\|Morningtide]], Spensa struggles with guilt while grieving for her friend, and feels conflicted about experiencing positive emotions. She is haunted by the commitment she made with Hurl about refusing to back down, likely because she acknowledges to some extent how this attitude factored into Hurl's death. When faced with the same situation as Hurl, a broken starfighter and an uncontrolled descent, Spensa is reminded of Hurl's words, however, makes the opposite choice - saving her own life over preserving a doomed ship. The memory of Hurl also plays a critical role in convincing Spensa to defend [[Alta Base\|Alta Base]], despite her fear of going rogue like her father, from a surprise Krell attack when the base is open and undefended.
 
@@ -112,4 +111,4 @@ Hurl's characterization serves as a contrast to Spensa, to show a path that Spen
 Brandon always planned for Hurl to die.
 
 
-https://coppermind.net/wiki/Hudiya
+https://coppermind.net/wiki/Hurl

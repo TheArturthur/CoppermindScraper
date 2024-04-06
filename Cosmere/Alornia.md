@@ -3,7 +3,6 @@
 |**Capital**|Alornia|
 |**Ruler**|[[Kairominas\|Kairominas]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 **Alornia** is the Personal State ruled by [[Kairominas\|Kairominas]].
 

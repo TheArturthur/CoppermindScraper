@@ -8,9 +8,8 @@
 |**Profession**|Citylord of Hearthstone|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -46,7 +45,7 @@ Roshone is middle-aged, with a short, grey-streaked beard and an angry expressio
 He is vindictive towards [[Kaladin\|Kaladin's]] family, and [[Dalinar Kholin\|Dalinar Kholin]] considers him a petty man. By the time of the [[True Desolation\|True Desolation]], he seems to soften--perhaps because of guilt.
 
 ## Attributes and Abilities
-Roshone doesn't have any outstanding ability or attribute other than being a lesser lighteye with some connections. When he lived in Kholinar, Roshone was one of Highprince [[Torol Sadeas\|Sadeas']] sworn liegemen and cousin to important men whose support the Kholin family needed for political reasons. Since being exiled to Hearthstone, Roshone's influenced and wealth is greatly diminished. As citylord of a small town, Roshone has no stewardship over any of the highprince's lands and is little more than a first point of contact for higher ranking lighteyes.
+Roshone doesn't have any outstanding ability or attribute other than being a lesser lighteye with some connections. When he lived in Kholinar, Roshone was one of Highprince [[Torol Sadeas\|Sadeas']] sworn liegemen and cousin to important men whose support the Kholin family needed for political reasons. Since being exiled to Hearthstone, Roshone's influence and wealth are greatly diminished. As citylord of a small town, Roshone has no stewardship over any of the highprince's lands and is little more than a first point of contact for higher ranking lighteyes.
 
 ## History
 ### Kholinar and the Roshone Affair
@@ -87,8 +86,8 @@ Years later, after the Everstorm came, Kaladin returned to Hearthstone and found
 
 ### Kaladin
 [[Kaladin\|Kaladin]] was deeply influenced by Roshone in many ways, including his negative views on lighteyes. Kaladin's life changed after he met Roshone. His family was cornered to eating low cost food and were alienated from the townpeople. As Roshone and Lirin's relationship worsen, so did Kaladin's life, ending in him going after Tien to Amaram's army. Another collateral damage for Kaladin was losing [[Laral\|Laral]], both as friend and as possible love interest. After Roshone's arrival, he decided she would be married into his family.
-Kaladin finally makes peace with Roshone after the Everstorm, when he returns to Hearthstone. Though he wants revenge and punches him at their reunion, Kaladin then puts Roshone's pety actions into perspective and determines to forgive the citylord to some degree. He recognizes he doesn't have any passion on abusing him and prompts him to be a good leader to his town in time of need.
+Kaladin finally makes peace with Roshone after the Everstorm, when he returns to Hearthstone. Though he wants revenge and punches him at their reunion, Kaladin then puts Roshone's petty actions into perspective and determines to forgive the citylord to some degree. He recognizes he doesn't have any passion on abusing him and prompts him to be a good leader to his town in time of need.
 
 
 
-https://coppermind.net/wiki/Roshone
+https://coppermind.net/wiki/Toralin_Roshone

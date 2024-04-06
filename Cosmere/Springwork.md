@@ -1,7 +1,6 @@
 |**Springwork**|
 |-|-|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Springworks** can refer to both spring-powered mechanical creations and the factories where they are created
 Springworks include

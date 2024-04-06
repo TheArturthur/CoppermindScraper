@@ -1,9 +1,8 @@
 |**Proving Day**|
 |-|-|
 |**Related to**|Vorinism|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 >“* Your demands are about as reasonable as the ones made of the Ten Heralds on Proving Day!*”

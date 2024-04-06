@@ -1,10 +1,10 @@
 |**Worldspire**|
 |-|-|
-|**Region**|[[Free Kingdoms\|Free Kingdoms]]🐱︎|
+|**Region**|[[Free Kingdoms\|Free Kingdoms]]|
 |**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
 
-This article is about the object. For the book, see [[The Worldspire\|The Worldspire]].
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
+
 The **Worldspire** is a massive glass spike located in the Pacific Ocean and marks the exact center of the world according to the people of the [[Free Kingdoms\|Free Kingdoms]].
 
 ## Contents

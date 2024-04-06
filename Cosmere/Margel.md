@@ -5,9 +5,8 @@
 |**Children**|[[Spook\|Spook]]|
 |**Siblings**|[[Cladent\|Cladent]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Margel** is a [[Skaa\|skaa]] woman from the [[Eastern Dominance\|Eastern Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. She is the mother of [[Spook\|Spook]] and the sister of [[Cladent\|Clubs]].
 

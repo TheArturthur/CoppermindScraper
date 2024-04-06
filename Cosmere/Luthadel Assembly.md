@@ -5,9 +5,8 @@
 |**Headquarters**|Former Canton of Finance building|
 |**Type**|Council|
 |**Era**|Post-[[Collapse\|Collapse]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Luthadel Assembly** is the ruling council of [[Luthadel\|Luthadel]] that is established as part of King [[Elend Venture\|Elend Venture's]] new government after the [[Collapse\|Collapse]].
 
@@ -29,7 +28,7 @@ The **Luthadel Assembly** is the ruling council of [[Luthadel\|Luthadel]] that i
 
 
 ## Structure and Powers
-The Assembly consists of seven [[Noble\|nobles]], eight [[Skaa\|skaa]] workers, and eight merchants. Elend set up this structure so that the common people would be able to outvote the nobles. In practice, however, the merchants held themselves separate from and above the other skaa. The King of the Central Dominance presides over the Assembly and has a vote of his own, and also exercises a  when the Assembly is evenly divided on a matter. If the throne is vacant, the Assembly elects a chancellor to preside and exercise the casting vote.
+The Assembly consists of eight [[Noble\|nobles]], eight [[Skaa\|skaa]] workers, and eight merchants. Elend set up this structure so that the common people would be able to outvote the nobles. In practice, however, the merchants held themselves separate from and above the other skaa. The King of the Central Dominance presides over the Assembly and exercises a  when the Assembly is evenly divided on a matter. If the throne is vacant, the Assembly elects a chancellor by majority vote to carry out these responsibilities instead.
 Elend intended the Assembly to be an advisory council, whose members could voice concerns to the king and make sure the peoples' voices were heard. He also, however, wanted the Assembly to be able to keep the king from becoming a tyrant, and gave it a fair measure of counterbalancing power.
 Most notably, the Assembly has the power to depose the king, which requires a unanimous vote, except for that of the king. After the king is deposed, the Assembly has one month to choose a new king, after which the throne reverts to the previous king, who then cannot be deposed for another year. Once the throne is vacant, the chancellor will hold nominations for the throne at an Assembly meeting. All members can nominate one person, and the Assembly must hold the nominations at least three days before it conducts the final vote. A nominee does not have to be a member of the Assembly, and can even be the king who was just deposed. A two-thirds majority is required to elect a new king from the list of nominees. The Assembly can also choose a new king if the previous one dies without an heir, likely by a similar method.
 The Assembly can also suspend its own authority to surrender the city, which requires a two-thirds vote; expel a member, which requires a unanimous vote; and also had authority over more mundane matters, such as who would be in control of the food stores. Surrendering the city to [[Ashweather Cett\|Ashweather Cett]] without a king would have required a unanimous vote.
@@ -41,7 +40,7 @@ The Assembly can also suspend its own authority to surrender the city, which req
 
 The following table lists the known members of the Assembly:
 
-|[[Elend Venture\|Elend Venture]][[Ferson Penrod\|Ferson Penrod]][[Dedri Vasting\|Dedri Vasting]]Lord [[Dukaler\|Dukaler]]Lord [[Hue\|Hue]]Lord [[Dridel\|Dridel]]Lord [[Habren\|Habren]]|[[Haws\|Haws]][[Hettel\|Hettel]][[Jasten\|Jasten]][[Thurts\|Thurts]][[Vet (skaa)\|Vet]]|[[Philen Frandeu\|Philen Frandeu]][[Getrue\|Getrue]]|
+|[[Elend Venture\|Elend Venture]][[Ferson Penrod\|Ferson Penrod]][[Dedri Vasting\|Dedri Vasting]]Lord [[Dukaler\|Dukaler]]Lord [[Hue\|Hue]]Lord [[Dridel\|Dridel]]Lord [[Habren\|Habren]]|[[Haws\|Haws]][[Hettel\|Hettel]][[Jasten\|Jasten]][[Thurts\|Thurts]][[Vet (skaa)\|Vet]][[Kinaler\|Kinaler]]|[[Philen Frandeu\|Philen Frandeu]][[Getrue\|Getrue]]|
 |-|-|
 
 ## History

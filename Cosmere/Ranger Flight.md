@@ -2,9 +2,8 @@
 |-|-|
 |**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Ranger Flight** is a flight of [[DDF\|DDF]] pilots that work as scouts. There was originally at least eight members of Ranger Flight. They pilot [[Val\|Val]]-class ships, which are designed for reconnaissance, scanner avoidance, and speed.
 

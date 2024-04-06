@@ -1,9 +1,8 @@
 |**Dawnsinger**|
 |-|-|
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -22,7 +21,7 @@ The **Dawnsingers** are the original native people of [[Roshar\|Roshar]], ancien
 
 
 ## Legends
-Like other ancient Rosharan concepts, [[Vorin\|Vorin]] legends obfuscated the true nature of the Dawnsingers for centuries, if not millenia. The ardentia believe them to be healing [[Spren\|spren]] sent by the [[Almighty\|Almighty]] to care for humans. They are also said to be the origin of [[Glyphs\|glyphs]] and letters.
+Like other ancient Rosharan concepts, [[Vorin\|Vorin]] legends obfuscated the true nature of the Dawnsingers for centuries, if not millennia. The ardentia believe them to be healing [[Spren\|spren]] sent by the [[Almighty\|Almighty]] to care for humans. They are also said to be the origin of [[Glyphs\|glyphs]] and letters.
 Some [[Lighteyed\|lighteyes]] believe that certain cities known as "[[Dawncities\|Dawncities]]" can trace their origins back to the Dawnsingers. These claims seem to stem from the spectacular organic architecture that mirrors specific [[Cymatics\|cymatic]] patterns in cities such as [[Sesemalex Dar\|Sesemalex Dar]] and surpasses known human capabilities, but there is no direct evidence of the origin of these cities.
 
 ## History
@@ -34,4 +33,4 @@ The Dawnsingers are the ancestors of modern singers, including the [[Listener\|l
 
 
 
-https://coppermind.net/wiki/Dawnsingers
+https://coppermind.net/wiki/Dawnsinger

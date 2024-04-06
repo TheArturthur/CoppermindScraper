@@ -4,9 +4,8 @@
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Profession**|Highguard|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tshadr** is a [[Thaylen\|Thaylen]] [[Shardbearer\|Shardbearer]] and [[Highguard (Roshar)\|highguard]] on [[Roshar\|Roshar]] during the [[True Desolation\|True Desolation]]. He is a wealthy man who owns a manor. He possesses a suit of [[Shardplate\|Shardplate]], and as such is a member of one of the eight Thaylen houses to own Shards.
 

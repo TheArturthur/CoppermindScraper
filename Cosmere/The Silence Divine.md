@@ -1,6 +1,6 @@
 |**The Silence Divine**|
 |-|-|
-|**Setting**|[[Ashyn\|Ashyn]]🐱︎, [[Cosmere\|Cosmere]]🐱︎|
+|**Setting**|[[Ashyn\|Ashyn]], [[Cosmere\|Cosmere]]|
 This page or section contains details from the unpublished work *The Silence Divine*!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
 
 *The Silence Divine* is an unpublished [[Cosmere\|cosmere]] work by [[Brandon Sanderson\|Brandon Sanderson]] about humans gaining magical powers from diseases. It was originally planned to be a standalone novel. However, Brandon has since downgraded it to a novella like *The Emperor's Soul*. It will be renamed. During the , Brandon said that he got much more interested in working on *The Silence Divine* but had to keep himself focused on *Rhythm of War*.
@@ -20,7 +20,7 @@ This page or section contains details from the unpublished work *The Silence Div
 
 
 ## Setting
-It is set on the [[Shardworld\|shardworld]] [[Ashyn\|Ashyn]], in the [[Rosharan system\|Rosharan system]].
+It is set on the planet [[Ashyn\|Ashyn]], which is located in the [[Rosharan system\|Rosharan system]].
 The magic system involves illnesses granting people powers as long as they are sick. The premise of the story involves someone developing penicillin, which could potentially cause Ashyn's floating cities to crash down due to them being held aloft by groups infected with a certain disease.
 It is currently set to take place around the time of book 8 of [[The Stormlight Archive\|The Stormlight Archive]], but this could change in the future.
 

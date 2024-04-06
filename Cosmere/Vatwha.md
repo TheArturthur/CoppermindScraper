@@ -1,10 +1,10 @@
 |**Vatwha**|
 |-|-|
-|**Abilities**|[[Fused\|Fused]]|
+|**Abilities**|[[Fused\|Fused]] |
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Vatwha** is a [[Singer\|singer]] and one of the [[Fused\|Fused]], a member of the shanay-im. During the [[True Desolation\|True Desolation]], she wears long clothing.
 [[Hoid\|Hoid]] danced with Vatwha thousands of years before the [[True Desolation\|True Desolation]], but later, she was trained--presumably by [[Odium\|Odium]]--to watch for Hoid.

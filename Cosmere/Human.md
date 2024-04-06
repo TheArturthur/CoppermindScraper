@@ -4,9 +4,9 @@
 |**Groups**|Venture army|
 |**Species**|[[Koloss\|Koloss]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*The Hero of Ages*|
 
 >“*That is my name. Human. You call me Human.*”
 \-Human to Vin[1]

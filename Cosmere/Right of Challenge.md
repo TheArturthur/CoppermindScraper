@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Related to**|[[Vorinism\|Vorinism]], [[Alethkar\|Alethkar]]|
 |**Type**|Law|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* The Right of Challenge is an ancient tradition—some say the Heralds instituted it.*”
 \- Adolin[1]

@@ -3,8 +3,7 @@
 |**Powers**|[[Rithmatics\|Rithmatics]]|
 |**Profession**|Professor|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*You'll get used to him, Nalizar. We keep having to throw the child out of our classes. He finds ways to sneak in and listen."*”
 \-Professor Haberstock to Andrew Nalizar after noticing Joel Saxon standing near the professors' dinner table[1]

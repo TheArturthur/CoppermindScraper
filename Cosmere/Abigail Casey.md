@@ -2,9 +2,9 @@
 |-|-|
 |by  Potato-sunrise |
 |**Died**|Killed by [[Lifeforce\|Lifeforce]] during the infiltration of [[Lux (city)\|Lux]]|
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**First Appeared**|*Lux*|
 
 This page is about the [[Reckoners\|Reckoner]] from Texas. For the [[Epic\|Epic]] originally known as Abigail Reed, see [[Regalia\|Regalia]].
 >“*She was like a mother to our dwindling team. She took care of us, mended our injuries, nursed us back to health, hugged us, bolstered our confidence.*”
@@ -56,7 +56,7 @@ Abigail was in command of the operation in the city of Arlington where Lux attac
 \-Abigail[8]
 
 
-Abigail and the other Texas Reckoners laid a trap for Lifeforce in [[Galveston\|Galveston]]. When [[Lifeforce\|Lifeforce]] didn’t come, Jax wanted to go after [[Wingflare\|Wingflare]] instead. Abigail ordered the team to abort, but Jax disobeyed his orders, going after Wingflare anyway and badly injuring Briggen in the process. Abigail was angry at Jax for disobeying orders and causing [[Briggen\|Briggen]]’s horrific scarring.
+Abigail and the other Texas Reckoners laid a trap for Lifeforce in [[Galveston\|Galveston]]. When [[Lifeforce\|Lifeforce]] didn’t come, Jax wanted to go after [[Wingflare\|Wingflare]] instead. Abigail ordered the team to abort, but Jax disobeyed his orders, going after Wingflare anyway and badly injuring Briggen in the process. Abigail was angry at Jax for disobeying orders and causing [[Briggen\|Briggen's]] horrific scarring.
 
 ### Infiltration of Lux
 Abigail was part in the infiltration of [[Lux (city)\|Lux]], in which they snuck into the city and discovered that Paige was alive. With Paige’s help and position as a [[Ravens\|Raven]], Abigail and the others were able to make it into Lifeforce’s palace for the assassination. They were betrayed by Briggen, who turned them over for wealth and luxury. After they were captured, Lifeforce locked her a green tube along with the other Reckoners. Lifeforce shot himself in the head, and his powers transferred the wound to Abigail, killing her.

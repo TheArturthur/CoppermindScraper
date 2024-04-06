@@ -4,9 +4,8 @@
 |**Type**|Family|
 |**Homeland**|[[Valam princedom\|Valam princedom]], [[Jah Keved\|Jah Keved]]|
 |**Era**|[[Era of Solitude\|Era of Solitude]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*The Stormlight Archive*|
 
 **House Davar** is a small [[Veden\|Veden]] family living in [[Valam princedom\|Valam princedom]] on [[Roshar\|Roshar]].
 It gives Highprince [[Valam\|Valam]] its fealty, but his health was ailing him and he no longer provided the protection for the Davars that he once did.

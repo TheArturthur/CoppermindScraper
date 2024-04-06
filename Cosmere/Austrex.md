@@ -1,10 +1,9 @@
 |**Austrex**|
 |-|-|
-|**Dominance**|[[Southern Dominance\|Southern Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Southern Dominance\|Southern Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Austrex** is the capital city of the [[Southern Dominance\|Southern Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 Austrex is near the northern edge of the Southern Dominance. It lies on the confluence of the [[River Channerel\|River Channerel]] and a canal that flows from [[Tremredare\|Tremredare]] and [[Fadrex City\|Fadrex City]] in the [[Western Dominance\|Western Dominance]], and [[Longsfollow\|Longsfollow]]. It is upriver from [[Lekal City\|Lekal City]].

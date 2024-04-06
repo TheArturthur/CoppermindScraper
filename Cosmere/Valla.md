@@ -1,9 +1,8 @@
 |**Valla**|
 |-|-|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“* Oh, they had leaders, Master Kelsier. Dead ones, true, but leaders nonetheless.*”
 \- Sazed[1]

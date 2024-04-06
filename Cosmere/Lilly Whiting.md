@@ -3,8 +3,7 @@
 |**Powers**|[[Rithmatics\|Rithmatics]]|
 |**Profession**|Student|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Lilly Whiting** is a [[Rithmatics\|Rithmatics]] student at [[Armedius Academy\|Armedius Academy]], a student of Professor [[Fitch\|Fitch]].
 She was one of the first victims of the [[Scribbler\|Scribbler]], and the first that occurred within the book's timeline.

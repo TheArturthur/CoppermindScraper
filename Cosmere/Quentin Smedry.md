@@ -5,8 +5,7 @@
 |**Siblings**|[[Folsom Smedry\|Folsom]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Quentin Smedry** is member of House Smedry who, like [[Leavenworth Smedry\|Grandpa Smedry]], comes from the Free Kingdom of [[Nalhalla\|Nalhalla]]. As the son of [[Pattywagon Smedry\|Pattywagon Smedry]], Leavenworth's daughter and [[Attica Smedry\|Attica's]] sister, Quentin is one of [[Alcatraz Smedry\|Alcatraz Smedry's]] cousins.
 

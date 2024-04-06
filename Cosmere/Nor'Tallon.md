@@ -1,13 +1,14 @@
 |**Nor'Tallon**|
 |-|-|
-|**Region**|[[Dayside\|Dayside]]🐱︎|
-|**World**|[[Taldain\|Taldain]]🐱︎|
+|**Region**|[[Dayside\|Dayside]]|
+|**Nation**|[[Tallon\|Tallon]]|
+|**World**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
-**Nor'Tallon** is a nation on the Dayside of [[Taldain\|Taldain]].
-It is on the eastern coast with [[Seevis\|Seevis]] to the north and [[Tallon\|Tallon]] to the south. Its western borders extend over the mountain range along the [[Nor'Tallon River\|Nor'Tallon River]], a major tributary of [[Ry'Do Ali River\|Ry'Do Ali River]].
+**Nor'Tallon** is a city on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. It is the capital of [[Tallon\|Tallon]]. It is located in a mountain range east of [[KraeDa\|KraeDa]], at the northern headwaters of the [[Nor'Tallon River\|Nor'Tallon River]].
 
+## Trivia
+In the original *White Sand* maps, Nor'Tallon was a nation on the eastern coast of Dayside with [[Seevis\|Seevis]] to the north and [[Tallon\|Tallon]] to the south, with its western borders extending over the mountain range along the Nor'Tallon River. However, an updated map in the *White Sand* omnibus edition merged Nor'Tallon into Tallon, with the former expressly defined as a city in the glossary.
 
 
 https://coppermind.net/wiki/Nor%27Tallon

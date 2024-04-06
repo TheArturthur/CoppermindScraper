@@ -2,17 +2,16 @@
 |-|-|
 |by  botanicaxu |
 |**Profession**|[[Arbiter\|Arbiter]]|
-|**Groups**|[[Heritage Faction\|Heritage Faction]]🐱︎|
+|**Groups**|[[Heritage Faction\|Heritage Faction]]|
 |**Nationality**|[[Grand\|Grand]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 >“*Is that not how you’ve made your entire career? Speaking honestly, teaching people what to expect of you, then expecting them to be honest to you in return?*”
 \-Shai about Gaotona[1]
 
 
-**Gaotona** is an [[Arbiter\|arbiter]] of the [[Heritage Faction\|Heritage Faction]] of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]]. He is noted as being the most influential of the arbiters, due to favor of the emperor .
+**Gaotona** is an [[Arbiter\|arbiter]] of the [[Heritage Faction\|Heritage Faction]] of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]]. He is noted as being the most influential of the arbiters, due to favor of the emperor.
 
 ## Contents
 
@@ -31,7 +30,8 @@
 4.3 Frava
 
 
-5 Notes
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
@@ -75,6 +75,8 @@ Initially, Gaotona has a strong dislike towards Shai because of her status as a 
 ### Frava
 Frava and Gaotona have an extremely antagonistic relationship. While they work together as arbiters of the Heritage Faction, they almost never agree on any course of action to take. Frava views him as an obstacle because he is the only arbiter willing to go against her, and she wants to remove him from his station for it. Frava misunderstands Gaotona's sincerity, instead believing it to be naiveté. She tries to use his perceived foolishness to her political advantage whenever possible.
 
+## Trivia
+Gaotona seems to be named after the concept of  from the Zoroastrian faith. A mystical fruit that can give healing and immortality to those that eat it. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.
 
 
 https://coppermind.net/wiki/Gaotona

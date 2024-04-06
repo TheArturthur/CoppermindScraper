@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Informant|
 |**Residence**|[[New Seran\|New Seran]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*People can ask questions, but where there is no money, there are no answers.*”
 \-Devlin Airs to Waxillium[1]

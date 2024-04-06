@@ -1,10 +1,10 @@
 |**Kalad's Phantoms**|
 |-|-|
-|**Appearance**|Statues|
-|**Magic**|[[Awakening\|Awakening]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Type**|[[Lifeless\|Lifeless]] encased in stone|
+|**Function**|Weapons|
+|**Creator**|[[Vasher\|Vasher]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Kalad's Phantoms** are an army of unconventional [[Lifeless\|Lifeless]] created by [[Vasher\|Vasher]] (then known as Kalad the Usurper) during the [[Manywar\|Manywar]] on [[Nalthis\|Nalthis]]. They were later hidden in plain sight as statues known as the **D'Denir Celabrin**.
 
@@ -48,4 +48,4 @@ After [[Bluefingers\|Bluefingers]] betrayed Hallandren and co-opted the Lifeless
 
 
 
-https://coppermind.net/wiki/Kalad%27s_Phantoms
+https://coppermind.net/wiki/D%27Denir_Celabrin

@@ -3,9 +3,8 @@
 |**Leader**|[[Eshonai\|Eshonai]]|
 |**Type**|[[Listener\|Listener]] military unit|
 |**Era**|[[War of Reckoning\|War of Reckoning]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*There had only been one storm since Eshonai's own transformation, and during it, Venli and her scholars had taken stormform along with two hundred soldiers chosen by Eshonai. Not officers. Common soldiers. The type she was sure would obey.*”
 \-Eshonai[1]

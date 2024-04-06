@@ -1,8 +1,7 @@
 |**Mindstone**|
 |-|-|
 |**Related to**|[[Crystin\|Crystin]], [[Fleshstone\|Fleshstone]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*It connects all of the Knights of Crystallia. It strengthens us, gives us comfort. By it, we all share a measure of who we are.*”
 \-Bastille's explanation of the Mindstone[1]

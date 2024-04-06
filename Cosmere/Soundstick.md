@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Weapon|
 |**Function**|[[Hazekiller\|Hazekiller]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*A crack sounded behind her. Vin cried out, her tin-enhanced ears overreacting to the sudden sound. Pain shot through her head, and she raised hands to her ears.*”
 \-Vin after someone uses soundsticks[1]

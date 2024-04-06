@@ -4,9 +4,8 @@
 |**Profession**|Brightlord in Kholin army|
 |**Groups**|Kholin army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlord **Havar** is an officer in Highprince [[Dalinar Kholin\|Dalinar Kholin's]] army on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
 

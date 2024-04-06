@@ -5,14 +5,16 @@
 |**Herald**|[[Jezrien\|Jezrien]]|
 |**Spren**|[[Honorspren\|Honorspren]]|
 |**Surges**|[[Adhesion\|Adhesion]] & [[Gravitation\|Gravitation]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Plate spren**|[[Windspren\|Windspren]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+
 The **Order of Windrunners** is an order of the [[Knights Radiant\|Knights Radiant]] on Roshar.
-The Windrunners are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] of Adhesion and Gravitation, and they are associated with the sapphire [[Polestone\|polestone]]. They form a [[Nahel bond\|Nahel bond]] with [[Honorspren\|honorspren]]. The combination of Adhesion and Gravitation results in the three Lashings.
+The Windrunners are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] of Adhesion and Gravitation, and they are associated with the sapphire [[Polestone\|polestone]]. They form a [[Nahel bond\|Nahel bond]] with [[Honorspren\|honorspren]]. [[Windspren\|Windspren]] form their Shardplate. The combination of Adhesion and Gravitation results in the three Lashings.
 
 ## Contents
 
@@ -39,7 +41,7 @@ The Windrunners are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] 
 4.2 The Refounded Windrunners
 
 
-5 Notable Windrunners
+5 Known Windrunners
 6 Quotes
 7 Notes
 8 References
@@ -54,36 +56,36 @@ The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal 
 
 ### The First Ideal
 >“*Life before death, strength before weakness, journey before destination.*”
-\-The First Ideal of the Knights Radiant[7]
+\-The First Ideal of the Knights Radiant[9]
 
 ### The Second Ideal
 >“*I will protect those who cannot protect themselves.*”
-\-The Second Ideal of the Windrunners (as spoken by Kaladin[3] and Lopen[5])
+\-The Second Ideal of the Windrunners (as spoken by Kaladin[4] and Lopen[5])
 
-The modern Windrunners considered those of the Second Ideal to be more than a squire, but not a full Windrunner.
+The modern Windrunners consider those of the Second Ideal to be more than a squire, but not a full Windrunner.
 
 ### The Third Ideal
 >“*I will protect even those I hate, so long as it is right.*”
-\- The Third Ideal of the Windrunners (as spoken by Kaladin)[9]
+\- The Third Ideal of the Windrunners (as spoken by Kaladin)[11]
 
 >“*I will protect those I hate. Even...even if the one I hate most is... myself.*”
-\- The Third Ideal of the Windrunners (as spoken by Teft)[11]
+\- The Third Ideal of the Windrunners (as spoken by Teft)[13]
 
 >“*I've got to protect people, you know? Even from myself.*”
-\- The Third Ideal of the Windrunners (as spoken by Lopen) [12]
+\- The Third Ideal of the Windrunners (as spoken by Lopen) [14]
 
 This oath focuses on protecting others despite one's caveats, but the exact wording varies from individual to individual. It must be spoken before a Windrunner can manifest their honorspren as a [[Shardblade\|Shardblade]].
 
 ### The Fourth Ideal
 >“*I accept that there will be those I cannot protect!*”
-\- The Fourth Ideal of the Windrunners (as spoken by Kaladin) [14]
+\- The Fourth Ideal of the Windrunners (as spoken by Kaladin) [16]
 
-A major component of this oath is forgiving oneself for previous failures. Upon achieving this Ideal, a Windrunner gains their [[Shardplate\|Shardplate]], which is formed of windspren.
+A major component of this oath is forgiving oneself for previous failures, and accepting that one cannot save everyone, while continuing to fight to protect them regardless of the possibility of failure. Upon achieving this Ideal, a Windrunner gains their [[Shardplate\|Shardplate]], which is formed of windspren.
 
 ## Abilities
  by  Ashley Coad  Kaladin using Gravitation
-The Windrunners use the Surges of **Adhesion** and **Gravitation**. The combination of these two Surges resulted in the three Lashings. Someone wearing Shardplate is immune to Lashings, but any objects that they are touching **can** be affected. Using a combination of Adhesion and Gravitation, a Windrunner could theoretically exit orbit. They have been noted as having traveled at at least 200 mph.
-Like most Knights Radiant, the Windrunners have squires, which their Resonance allowing them to have many more squires than other orders.
+The Windrunners use the Surges of **Adhesion** and **Gravitation**. The combination of these two Surges resulted in the three Lashings. Someone wearing Shardplate is immune to Lashings, but any objects that they are touching **can** be affected. Using a combination of Adhesion and Gravitation, a Windrunner could theoretically exit orbit. They have been noted as having traveled at at least 200 mph. While flying, Windrunners are able to lessen the force of the wind, and can also create a channel to keep groups of people close together.
+Like most Knights Radiant, the Windrunners have squires, with their Resonance allowing them to have many more squires than other orders.
 Unlike other Radiant orders, Windrunners will "explode with power" when they speak oaths, due to their order's proximity to the [[Order of Bondsmiths\|Order of Bondsmiths]].
 
 ### Adhesion
@@ -108,6 +110,7 @@ Due to a combination of their two surges, Windrunners have new, secondary effect
 Windrunner [[Shardplate\|Shardplate]] is comprised of [[Windspren\|windspren]], and glows a vibrant blue. It can be controlled to armor other people when they need protection from a Shardblade. The windspren can also be used to create barriers that deflect stormwinds.
 
 ## History
+ by  A Windrunner fighting some [[Shanay-im\|Shanay-im]]
 ### The Ancient Radiants
 Before the [[Day of Recreance\|Recreance]], the Windrunners primarily worked as scouts and special forces teams, and often used the Surge of Gravitation to deliver a team of Radiants on a secret mission. Though they were very similar to conventional soldiers, and had an appreciation for command structures and team dynamics, the Stonewards were generally considered the best soldiers, though the Windrunners did dispute that claim at times. Nevertheless, they also focused the most on mastering their weapons. As a result of their resonance, they had the most squires of all the orders.
 Around the time of the Recreance the Windrunners were an order with over a hundred members, and a considerable number of squires. They also reportedly had some issues with the [[Order of Skybreakers\|Order of Skybreakers]]. At the beginning of the Recreance a large number of Windrunners along with many [[Stonewards\|Stonewards]] abandoned their [[Shardblade\|Shardblades]] and [[Shardplate\|Shardplates]] before the fortress known as [[Feverstone Keep\|Feverstone Keep]], which was recorded in one of [[Dalinar's visions\|Dalinar's visions]].
@@ -117,7 +120,7 @@ During the [[Battle of the Tower\|Battle of the Tower]], the bridge leader [[Kal
 As a result of both their past as bridge crews in the army of [[Torol Sadeas\|Torol Sadeas]] and Kaladin's military training, the refounded order of Windrunners is well organized and maintains a strong military structure. They have ranks for squires, such as CP4 (Commission Placement 4), as they decided to have ranks that someone could earn while advancing as a squire. They felt it would be good to promote squires to different ranks. The Windrunners' resonance has led many of the bridgemen, as well as some others, to become squires, making the Windrunners one of, if not the, most numerous of the modern orders. About a year after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the order had roughly three hundred Windrunners, with about fifty full Windrunners.
 Having a Windrunner on board a vessel was considered by [[Thaylen\|Thaylen]] sailors to be a good omen.
 
-## Notable Windrunners
+## Known Windrunners
 [[Kaladin\|Kaladin]] (bonded to [[Sylphrena\|Sylphrena]])
 [[Teft\|Teft]] (bonded to [[Phendorana\|Phendorana]])
 [[Lopen\|Lopen]]  (bonded to [[Rua\|Rua]])
@@ -128,14 +131,17 @@ Having a Windrunner on board a vessel was considered by [[Thaylen\|Thaylen]] sai
 [[Punio\|Punio]]
 [[Leyten\|Leyten]]
 [[Lyn\|Lyn]]
+[[Laran\|Laran]]
+[[Mela\|Mela]]
+[[Relador\|Relador]] was a historic Windrunner from before the Recreance (bonded to Sylphrena)
 A significant number of original [[Bridge Four\|Bridge Four]] and Bridge Thirteen
 ## Quotes
 >“* Now, as the Windrunners were thus engaged, arose the event which has hitherto been referenced: namely, that discovery of some wicked thing of eminence, though whether it be some rogueries among the Radiants' adherents or of some external origin, Avena would not suggest.*”
-\- Words of Radiance, chapter 38, page 6[46]
+\- Words of Radiance, chapter 38, page 6[50]
 
 
 >“* There came also sixteen of the order of Windrunners, and with them a considerable number of squires, and finding in that place the Skybreakers dividing the innocent from the guilty, there ensued a great debate.*”
-\- Words of Radiance, chapter 28, page 3[1]
+\- Words of Radiance, chapter 28, page 3[2]
 
 
 

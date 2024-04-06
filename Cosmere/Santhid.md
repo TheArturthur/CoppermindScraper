@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Greatshell|
 |**Sapient**|Yes|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The santhid. It rescued me.*”
 \-Shallan[1]
@@ -45,7 +44,7 @@ Because sightings are so infrequent, the full range of santhidyn is unclear, alt
  by  Ashley Coad  [[Shallan\|Shallan]] meeting a santhid
 ## History
 Santhidyn are rarely seen by sailors, and even more rarely by scholars. A naturalist named [[Naladan\|Naladan]] spent her entire career chasing santhidyn and never got a good look at one. Sightings are so infrequent that there is a great deal of disagreement about their nature, and even their existence. Some corpses have washed ashore, but they are generally badly decomposed and not useful for study.
-[[Shallan Davar\|Shallan Davar]] and the crew of the *Wind's Pleasure* encountered a santhid in [[Longbrow's Straits\|Longbrow's Straits]] in in 1173. Shallan was determined to observe the creature underwater, and ordered the crew to tie some ropes around her and lower her over the gunwale down to the water, against [[Yalb\|Yalb]] and [[Tozbek\|Tozbek's]] better judgment. Shallan was amazed at the santhid's massive, majestic body and the many fish and [[Spren\|spren]] surrounding it. She was ecstatic after emerging from the water and made a number of sketches of the great animal.
+[[Shallan Davar\|Shallan Davar]] and the crew of the *Wind's Pleasure* encountered a santhid in [[Longbrow's Straits\|Longbrow's Straits]] in 1173. Shallan was determined to observe the creature underwater, and ordered the crew to tie some ropes around her and lower her over the gunwale down to the water, against [[Yalb\|Yalb]] and [[Tozbek\|Tozbek's]] better judgment. Shallan was amazed at the santhid's massive, majestic body and the many fish and [[Spren\|spren]] surrounding it. She was ecstatic after emerging from the water and made a number of sketches of the great animal.
 When the *Wind's Pleasure* later sank off the coast of the [[Frostlands\|Frostlands]], Shallan managed to survive; she made landfall near the [[Shallow Crypts\|Shallow Crypts]]. When she woke up, she did not remember what had happened, but she saw a santhid leaving the area. She believed that it was the same santhid she had encountered in Longbrow's Straits, even though she had since traveled a significant distance without seeing it again. She assumed that the santhid had saved her, and speculated about its level of intelligence. She lost her original drawings during the sinking, but later recreated some of them.
 During the [[Expedition to Akinah\|expedition to Akinah]], the crew of the *Wandersail* came across a replica of a dead santhid formed by a [[Sleepless\|Sleepless]]. Thinking it to be a regular santhid corpse, the crew were certain that it was a terrible omen until convinced by [[Rysn\|Rysn]] that, like a dead santhid washing up on shore, it was actually a good omen and that the crew should give the creature a proper burial. Upon the crew attempting to haul in it for a burial, however, it split into its constituent hordelings, horrifying the crew.
 

@@ -2,10 +2,9 @@
 |-|-|
 |**Participants**|[[Steelheart\|Steelheart]]|
 |**Effects**|Transformation of Chicago into steel|
-|**City**|[[Newcago\|Newcago]]🐱︎|
+|**City**|[[Newcago\|Newcago]]|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Universe**|[[Reckoners Multiverse\|Reckoners Multiverse]]|
-|**Featured In**|*The Reckoners*|
 
 >“* Later that night, he performed the Great Transfersion, an awesome display of power by which he transformed most of Chicago -- buildings, vehicles, streets -- into steel. That included a large portion of Lake Michigan, which became a glassy expanse of black metal. It was there that he built his palace.*”
 \- David[1]

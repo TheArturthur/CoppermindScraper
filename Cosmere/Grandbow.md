@@ -1,9 +1,8 @@
 |**Grandbow**|
 |-|-|
 |**Fabrial type**|[[Augmenter\|Augmenter]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*The Stormlight Archive*|
 
 A **grandbow** is an incredibly powerful bow created by attaching an augmenter fabrial to a large bow. Invented by the [[Alethi\|Alethi]] on [[Roshar\|Roshar]], they are sometimes called **Shardbows** because users typically must be enhanced by the strength of [[Shardplate\|Shardplate]] in order to fully draw them.
 

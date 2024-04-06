@@ -4,9 +4,8 @@
 |**Profession**|Sergeant in Amaram's army|
 |**Groups**|Amaram's army, [[Takers\|Takers]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Care. The key to fighting isn't lack of passion, it's controlled passion. Care about winning. Care about those you defend. You have to care about something.*”
 \-Tukks[2]

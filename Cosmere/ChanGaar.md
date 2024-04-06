@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[Kandra\|Kandra]]|
 |**Type**|Ritual, Capital Punishment|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Know that your greatest sin was that of rebellion... Because of you, the Trust has been endangered, as has every kandra of every generation!*”
 \-KanPaar during TenSoon's sentencing[1]

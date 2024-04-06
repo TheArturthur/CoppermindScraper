@@ -3,11 +3,10 @@
 |by  Connor Chamberlain |
 |**Ruled by**|[[Council of Five\|Council of Five]] |
 |**Occupied by**|[[Listeners\|Listeners]] , [[Alethi\|Alethi]]|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
 |**Nation**|[[Natanatan\|Natanatan]] |
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -63,7 +62,7 @@ In reality, the city sits in the very center of the Plains, surrounded by numero
 Little is known of the appearance of ancient Stormseat. Although the [[Song of Wars\|Song of Wars]] claims that the city "covered" the [[Shattered Plains\|Shattered Plains]], the surviving images of it paint it as rather small, though it likely had numerous outbuildings and satelite towns. Within the city itself, several landmarks could be distinguished, among them a tall tower in the very centre and the dais housing the city's [[Oathgate\|Oathgate]] to the south-west of it. It's known that Stormseat had a temple dedicated to the [[Herald\|Herald]] [[Chana\|Chana]], with a large mosaic on its leeward side. If Stormseat was similar to other major cities of its era, like [[Kholinar\|Kholinar]] and [[Thaylen City\|Thaylen]], it's possible every Herald had a temple of their own within its walls.
 In the present day, the city is split between numerous plateaus, the largest of which is home to the [[Listeners\|listeners]]. It encompasses the plaza that houses the ancient tower, as well as the buildings surrounding it. Of its stuctures, the tower is by far the best-preserved, as centuries of highstorms have toppled most of the city and covered it in [[Crem\|crem]]. While the original purpose of some buildings can still be guessed at, oftentimes the ancient houses and halls are utterly unrecognizable as works of people. Though numerous structures have been completely filled in with crem and rocks, just as many remain empty within, hiding what remains of Stormseat's once-great past — remnants of its inhabitants, rotten furniture and even rusted door hinges. The air within is humid, and musty with age.
 Rather than excavating Stormseat, the listeners constructed their own settlement atop the city's bones. The rocky shelves have been transformed into barracks and homes, while carapaces of [[Greatshell\|greatshells]] form ramshackle houses. Inside, crem is used to create divisions and make separate rooms, with additional layer on the outer walls to provide insulation and stability. Mounds of former buildings serve as [[Rockbud\|rockbud]] farms, while many houses grow [[Shalebark\|shalebark]] on the outside. Both the homes and the farms are built in the shadows of the older structures, to protect them from highstorms. This does not make them completely protected, however. As the highstorm arrives, the listeners stuff rags under the doors, set up support beams to prop up the walls, and close up the windows, hammering in large blocks of wood to secure them.
-Following the [[Battle of Narak\|Battle of Narak]], the city has been taken over by humans, who turn it into a fortress to protect Oathgate to [[Urithiru\|Urithiru]] and the route between it and the warcamps. The tower is repurposed into a lookout, and the buildings become barracks. The surrounding plateaus serve as training grounds for the [[Windrunner\|Windrunner]] squires and assembly points.. They are connected to each other and Narak by old bridges from [[Gemheart\|gemheart]] hunts, though plans are made to replace those with permanent structures.
+Following the [[Battle of Narak\|Battle of Narak]], the city has been taken over by humans, who turn it into a fortress to protect the Oathgate to [[Urithiru\|Urithiru]] and the route between it and the warcamps. The tower is repurposed into a lookout, and the buildings become barracks. The surrounding plateaus serve as training grounds for the [[Windrunner\|Windrunner]] squires and assembly points.. They are connected to each other and Narak by old bridges from [[Gemheart\|gemheart]] hunts, though plans are made to replace those with permanent structures.
 
 ### Notable Landmarks
 

@@ -4,9 +4,8 @@
 |**Titles**|Constable-general|
 |**Profession**|Law enforcement|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*This isn't the Roughs. You think you can do anything you want? You think you can just pick up a gun and take the law into your own hands?*”
 \-Captain Brettin to Waxillium Ladrian[1]

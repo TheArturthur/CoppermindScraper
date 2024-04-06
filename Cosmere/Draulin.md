@@ -5,8 +5,9 @@
 |**Children**|[[Angola Dartmoor\|Angola]], [[Rikers Dartmoor\|Rikers]], [[Bastille\|Bastille]]|
 |**Abilities**|[[Crystin\|Crystin]] Knight|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 
 **Draulin** is a Knight of [[Crystallia\|Crystallia]]. She is also the mother to [[Bastille\|Bastille]].
 

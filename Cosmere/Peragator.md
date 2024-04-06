@@ -1,7 +1,6 @@
 |**Peragator**|
 |-|-|
-|**World**||
-|**Featured In**|*Dark One*|
+|**World of Origin**|[[Earth (Dark One)\|Earth (Dark One)]]|
 
 This page or section needs to be updated with new information for *Dark One Book 1*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -24,9 +23,10 @@ It took Malmahan "years of work" and "many souls" to create the peragator. He co
 
 ## Function
 Little is known about the actual function of the peragator, other than it allows Malmahan to return to Mirandus alongside [[Lin Yang-Tanasin\|Lin Yang-Tanasin]]. Considering that Paul returns to Earth in the same place Malmahan disappeared from, it is possible that Paul's eviction from Mirandus was also tied to the peragator - though it is also possible that there is another cause for this.
+Caligo claims that to activate the peragator, it requires one last soul, as death is the door. He gets Lin to kill him as he can use her memory of Mirandus and love of her son [[Paul Tanasin\|Paul]] for both them to step through to Mirandus.
 
 ## Trivia
-The word "peragator" is not an actual English word, but "peragration" is, and it means "an act of traversing". It's possible that Brandon took inspiration from it, considering that the the peragator is a device for traversing between worlds.
+The word "peragator" is not an actual English word, but "peragration" is, and it means "an act of traversing". It's possible that Brandon took inspiration from it, considering that the peragator is a device for traversing between worlds.
 
 
 https://coppermind.net/wiki/Peragator

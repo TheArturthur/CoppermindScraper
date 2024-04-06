@@ -3,9 +3,8 @@
 |by  Jag519 |
 |**Abilities**|[[Cytonics\|Cytonics]], mimicry|
 |**Species**|[[Taynix\|Taynix]]|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *Sunreach* and *ReDawn*!Be aware that in its current state, it may not include all additional content yet.
 

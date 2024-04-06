@@ -4,9 +4,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Shallan\|Shallan]]|
 |**Species**|[[Cryptic\|Cryptic]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -90,12 +90,12 @@ Little is currently known about Pattern's time in Shadesmar and the Physical Rea
 In [[Kharbranth\|Kharbranth]], Pattern and other Cryptics watched over Shallan, although she could not see the spren directly.
 While sketching a portrait of [[Taravangian\|Taravangian]], king of Kharbranth, Shallan unconsciously drew a couple of Cryptics who had been standing in the room invisible to the humans there. Shallan had used her mnemonic ability to assist her drawing, and the presence of the Cryptics were somehow included in the Memory.
 Several weeks later, while Shallan puzzled over the [[Soulcaster\|Soulcaster]] alone in her room, Pattern spoke to her, attempting to obtain a new Truth. Shallan was alarmed by the disembodied voice, but dismissed the sound, reasoning with herself that it had been caused by the maid who had been cleaning in the room next door.
-The day before she was scheduled to return to her family's estate in [[Jah Keved\|Jah Keved]], Shallan again interacted with Pattern. After breaking the news to [[Kabsal\|Kabsal]] that she would be leaving, the [[Ardent\|ardent]] requested a portrait as she had not yet created one of him. Like with her sketch of Taravangian, Shallan unconsciously added several Cryptics into the background of the drawing. Panicked, she fled the room, taking Memories as she went and drawing the scenes as a way to track the spren. Pattern and his associates followed Shallan to her room within the guest quarters, where she attempted summon her Shardblade to protect herself, then unintentionally Soulcast a goblet into blood, and masked the act by slicing open her arm. Jasnah, upon finding Shallan, had the other women transported to hospital.
+The day before she was scheduled to return to her family's estate in [[Jah Keved\|Jah Keved]], Shallan again interacted with Pattern. After breaking the news to [[Kabsal\|Kabsal]] that she would be leaving, the [[Ardent\|ardent]] requested a portrait as she had not yet created one of him. Like with her sketch of Taravangian, Shallan unconsciously added several Cryptics into the background of the drawing. Panicked, she fled the room, taking Memories as she went and drawing the scenes as a way to track the spren. Pattern and his associates followed Shallan to her room within the guest quarters, where she attempted summoning her Shardblade to protect herself, then unintentionally Soulcast a goblet into blood, and masked the act by slicing open her arm. Jasnah, upon finding Shallan, had the other women transported to hospital.
 Pattern and his fellow Cryptics continued to follow Shallan while she was in the hospital. During her stay on the ward, Shallan noticed the spren several times, adding them to sketches she did of the room. Later, after she had been moved to a private room, she also found them lurking, whispering to her, though she chose not to respond. Shallan called on Pattern to help her transition to the Cognitive Realm when she confronted Jasnah about the fake Soulcaster, and confessed to him that she had killed her father. Pattern accepted the Truth and Shallan was transported to the Cognitive. After nearly drowning in the sea of beads, Shallan was saved by Jasnah who brought her back to her body in the [[Physical Realm\|Physical Realm]].
 
 ### The Wind's Pleasure
 
-Upon Shallan speaking her Truths, Pattern bonded her and transitioned from the Cognitive Realm to the Physical, losing much of his mind in the process. Several days after Shallan and Jasnah had set sail from Kharbranth, Shallan saw Pattern's Physical form while she sketched on the deck of the ship. Seeing a pattern rising like an embossment from the page of her sketchpad, Shallan did not initially understand that she was interacting with the Cryptic, thinking instead that she had done something herself or that the pattern had appeared as a side affect of drawing the Cognitive Realm. Pattern moved, disappearing from the drawing when Shallan touched the page, and caused the young woman to jump in fright. A while later he was seen once more by Shallan as she spoke with Jasnah, this time floating on a wave. Again he vanished, seen only for a brief moment.
+Upon Shallan speaking her Truths, Pattern bonded her and transitioned from the Cognitive Realm to the Physical, losing much of his mind in the process. Several days after Shallan and Jasnah had set sail from Kharbranth, Shallan saw Pattern's Physical form while she sketched on the deck of the ship. Seeing a pattern rising like an embossment from the page of her sketchpad, Shallan did not initially understand that she was interacting with the Cryptic, thinking instead that she had done something herself or that the pattern had appeared as a side effect of drawing the Cognitive Realm. Pattern moved, disappearing from the drawing when Shallan touched the page, and caused the young woman to jump in fright. A while later he was seen once more by Shallan as she spoke with Jasnah, this time floating on a wave. Again he vanished, seen only for a brief moment.
 
 >“*I thought I saw something in the water, just now. A pattern of sharp lines, like a maze*”
 \-Shallan to Jasnah[20]
@@ -135,7 +135,7 @@ Eventually they caught up to the group they had seen in the distance, and found 
 
 The highstorm came later that night. The storm agitated Pattern, who buzzed angrily and ranted in a foreign tongue, spooking the soldiers whom Shallan had invited to shelter in her cart. None of the men, however, brought up the incident, which Shallan attributed to their expectation for strangeness during the highstorm. The next day, Pattern debated the meaning of 'truth' with Shallan, who found herself frustrated with the biases shown by past scholars. Pattern disagreed with Shallan's assessment that truth was universal, instead claiming that it was based on an individuals experiences. Shallan's questions shifted the conversation towards the existence of spren and in turn to the Voidbringers. Pattern, despite being unwilling to speak on the topic, named [[Odium\|Odium]] as a third influence on types of spren, though doing so distressed him greatly.
 As they neared the Shattered Plains, the group happened across a miniature [[Lait\|lait]] filled with plants, protected from the storms by a rocky windbreak. Pattern accompanied Shallan as she explored the spot of greenery, occupying himself with counting leaves while she sketched. Later that night, the highstorm came again, however, unlike the last storm, which had caused Pattern agitation, this one caused him fear. There was something wrong about the storm and despite Shallan's attempts, Pattern would not stay quiet, frightening the slaves who sheltered with them.
-Eventually, the storm passed and Shallan met with Tyn to learn what she could of her homeland. Within the message sent by Tyn's associates, relayed via a communication station in [[Tashikk\|Tashikk]], was information about the attack on Jasnah and the *Wind's Pleasure*. Tyn, who had been hired by the [[Ghostblood\|Ghostbloods]] to assassinate the Alethi princess, attacked Shallan when she learned of her identity, with the intention to kill her. Pattern attempted to intervene, impersonating Jasnah to try and distract Tyn while Shallan escaped.
+Eventually, the storm passed and Shallan met with [[Tyn\|Tyn]] to learn what she could of her homeland. Within the message sent by Tyn's associates, relayed via a communication station in [[Tashikk\|Tashikk]], was information about the attack on Jasnah and the *Wind's Pleasure*. Tyn, who had been hired by the [[Ghostblood\|Ghostbloods]] to assassinate the Alethi princess, attacked Shallan when she learned of her identity, with the intention to kill her. Pattern attempted to intervene, impersonating Jasnah to try and distract Tyn while Shallan escaped.
 When it became apparent that Tyn would not allow Shallan to get away, Pattern hastened to find Vathah to bring him and his men to Shallan's aid. The men did not understand that it had been Pattern speaking to them, though Shallan later confirmed his existence, however they still obeyed, attacking Tyn's soldiers who blocked their way. Pattern was pulled back to the tent when Shallan summoned him as a Shardblade, killing Tyn.
 When Vathah and his men reached the tent, they found Shallan, Patternblade in hand, who instructed them to search Tyn's belongings.
 
@@ -215,40 +215,9 @@ Escaping Celebrant aboard *Honor's Path*, Pattern and his companions were locked
 Finding the Thaylen Oathgate guarded by half a dozen Fused, Pattern, along with Syl, Adolin, and Maya, dispersed themselves amongst Shallan's illusions to distract the guards while Shallan tried to open the Oathgate. Following Adolin's lead, Pattern and Syl imitated the Lightwoven people, slashing randomly at the space around them. After being injured, Adolin was pulled away from the fighting by Shallan and Pattern, and the three of them escaped through the sea of beads using a passage manifested by Shallan. Though he was confused by Shallan's behaviour towards Kaladin after the conclusion of the battle, Pattern ultimately agreed with Shallan's choice to continue with her marriage to Adolin.
 
 ## Quotes
->“*That’s not enough. I must know something true about you. Tell me. The stronger the truth, the more hidden it is, the more powerful the bond. Tell me. Tell me. What are you??*”
-\-Pattern to Shallan[19]
-
-
->“*Terrible destruction to eat!*”
-\-Pattern to Shallan, after learning about the concept of eating[3]
-
-
->“*Know you nothing of Patterns, old human? Voidbringers have no pattern. Besides, I have read of them in your lore. They speak of spindly arms like bone, and horrific faces. I should think, if you wish to find one, the mirror might be a location where you can begin your search.*”
-\-Pattern to Inadara, in response to her accusation that he was a Voidbringer[40]
-
-
->“*Good lies… True lies… Light makes shadow. Truth makes lies*”
-\-Pattern to Shallan[3]
-
-
->“*Spren are ...power . . . shattered power. Power given thought by the perceptions of men. Honor, Cultivation, and . . . and another. Fragments broken off.*”
-\-Pattern to Shallan[11]
-
-
->“*Sapience. Thought. Life. These are of humans. We are ideas. Ideas that wish to live.*”
-\-Pattern to Shallan[10]
-
-
->“*Inappropriate? Such as...dividing by zero?*”
-\-Pattern to Shallan on her explanation of what a chaperone is[45]
-
-
->“*The fundamental underlying mathematics by which natural phenomena occur. Mmm. Truths that explain the fabric of existence.*”
-\-Pattern to Syl[65]
-
-
+For a list of quotes from Pattern, see [[Pattern/Quotes\|Pattern/Quotes]].
 ## Trivia
-Pattern originally came from a *Dark One* draft.
+Pattern originally came from a [[Dark One (franchise)\|Dark One]] draft.
 
 
 https://coppermind.net/wiki/Pattern

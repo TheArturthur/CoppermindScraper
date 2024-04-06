@@ -3,8 +3,9 @@
 
 
 [[Earth (Alcatraz)\|Alcatraz]]
-
+[[Earth (Dark One)\|Dark One]]
 [[Earth (Dreamer)\|Dreamer]]
+[[Earth (Frugal Wizard)\|Frugal Wizard]]
 [[Earth (Legion)\|Legion]]
 [[Earth (Reckoners)\|Reckoners]]
 [[Earth (Rithmatist)\|Rithmatist]]

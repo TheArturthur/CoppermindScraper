@@ -4,9 +4,9 @@
 |**Groups**|Bridge Thirteen, Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Rial** is a sergeant in [[Bridge crew\|Bridge Thirteen]] on [[Roshar\|Roshar]].
 

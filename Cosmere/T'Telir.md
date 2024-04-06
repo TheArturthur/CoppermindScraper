@@ -1,10 +1,9 @@
 |**T'Telir**|
 |-|-|
-|by  Bryan Mark Taylor |
-|**Nation**|[[Hallandren\|Hallandren]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|by  Geoff Shupe |
+|**Nation**|[[Hallandren\|Hallandren]]|
+|**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*It was terribly overwhelming. Garish. A vibrant, enthusiastic garishness.*”
 \-Siri's first impression of T'Telir[1]
@@ -16,48 +15,134 @@
 
 1 Geography
 2 Landmarks
-3 History
 
-3.1 Origin
-3.2 The Manywar
-3.3 The Plague
-3.4 The Pahn Kahl Rebellion
+2.1 The City Walls
+2.2 The Court of Gods
+2.3 D'Denir Celabrin
+2.4 Docks
+2.5 Markets
+
+
+3 Appearance
+
+3.1 Colour
+3.2 Wealthy Areas
+3.3 Slums
 
 
 4 Culture
-5 Socioeconomic Divide
 
-5.1 Wealthier Districts
-5.2 Slums
+4.1 People
+4.2 Religion
+4.3 Politics and Laws
+4.4 City Guard
 
 
-6 Politics
-7 Notable Residents
-8 Trivia
-9 Notes
+5 History
+
+5.1 Settling and Expansion
+5.2 The Manywar
+5.3 The Plague
+5.4 The Pahn Kahl Rebellion
+
+
+6 Notable Residents
+7 Trivia
+8 Notes
 
 
 ## Geography
- by  Shawn Boyles  Map of T'Telir from a tapestry hanging in the palace of [[Lightsong\|Lightsong]] the Bold, circa 327
-The city of T'Telir is built in a crescent around a bay of the [[Bright Sea\|Bright Sea]], abutting the water. This position means the city wall only has to run around the landward half-circle of the city. The city is designed with many gardens and open spaces that show off its greenery and has palm trees and other flora growing along the streets. Like most of Hallandren, T'Telir is in the lowlands in a tropical climate: the temperature is quite warm, colorful animals and flowers are common, and harsh weather is rare. The [[Court of Gods\|Court of Gods]] stands on a small plateau that rises above the city with a spectacular view of the sea.
-The city's placement on the sea makes it a choice location as a port; because of T'Telir's unique climate, it has a monopoly on dye production from the [[Tears of Edgli\|Tears of Edgli]]. Other nations use the sea to bring exotic merchandise and fresh foods from their lands in trade.
+ by  Shawn Boyles  Map of T'Telir from a tapestry hanging in the palace of [[Lightsong\|Lightsong]] the Bold, circa 327, not to scale
+The city of T'Telir is located somewhere in Hallandren, close to Idris. T'Telir lies in a tropical climate: the temperature is quite warm, colorful animals and flowers are common, and harsh weather is rare. The growth of plants in this region is helped by [[Investiture\|Investiture]], much like the [[Elendel Basin\|Elendel Basin]]; a combination of this Investiture and the local climate is the reason that the jungle around T'Telir is the only place in which the [[Tears of Edgli\|Tears of Edgli]] grow.
+T'Telir is located on the shores of the [[Bright Sea\|Bright Sea]]. The city is built in a crescent around a bay of the [[Bright Sea\|Bright Sea]], abutting the water. The city's placement in this bay, protecting it from storms, makes it a prime port.
+The area in the direct vicinity of T'Telir is characterized by stands of palm trees and sandy soil. Beyond that stretch, the landscape gives way to a jungle.
 
 ## Landmarks
-T'Telir is home to the Court of Gods, an imposing feature of the city built on a plateau and entirely walled off. This is where the [[Returned\|Returned]] live in their palaces, each painted a different color, and assemble weekly to pass judgments.
-Another notable feature of T'Telir lies in the [[D'Denir\|D'Denir]] Celabrin, imposing statues of warriors supposedly left as a memorial to those who died in the [[Manywar\|Manywar]] and as a reminder to the Hallandrens of the cost of war. The first ones were left to the city by [[Peacegiver\|Peacegiver the Blessed]] right after the Manywar, though new ones are commissioned yearly by the Returned.
+### The City Walls
+When entering T'Telir one is greeted by its walls. Siri describes them as Immense and daunting, while almost looking more artistic then functional. The wall's top is curved in massive half-circles, like rolling hills, and the rim is plated with a golden metal. The gates themselves are described as in the form of two twisting, lithe sea creatures who curve up in a massive archway. The position of the city on the sea means that the city wall only has to run around the landward half-circle of the city.
+
+>“*Many of the painted buildings did clash, but none of it was sloppy. There was a sense of craftsmanship and art to everything from the storefronts, to the people, to the statues of mighty soldiers that frequently stood on corners.*”
+\-Siri describing T'Telir
+
+### The Court of Gods
+T'Telir contains the [[Court of Gods\|Court of Gods]]. The Court is built on a plateau in the south of the city, and is entirely walled off. The Court consists of a number of palaces for the [[Returned\|Returned]], a large palace for the [[God King\|God King]], and an Arena used for entertainment. The Court exists to protect the [[Returned\|Returned]], so that they may bless humanity, and to rule [[Hallandren\|Hallandren]].
+T'Telir also contains the [[Lifeless\|lifeless]] enclave, the compound-like building containing the entire Halllandren army, forty thousand lifeless. This makes T'Telir the starting point of any invasion.
+
+### D'Denir Celabrin
+Another notable feature of T'Telir lies in the [[D'Denir\|D'Denir]] Celabrin, imposing statues of warriors supposedly left as a memorial to those who died in the [[Manywar\|Manywar]] and as a reminder to the [[Hallandren\|Hallandren]] of the cost of war. The people of  often put colorful clothing on the statues for fun. Some statues, particularly those located in the [[Idris\|Idrian]] slums, have been defaced or broken. The first ones were left to the city by [[Peacegiver\|Peacegiver the Blessed]] right after the Manywar, though new ones are commissioned yearly by the Returned.
+Most of the original statues reside in the D'Denir Garden, an open grassy field with many statues; this garden is one of the only ones in the city which doesn't feature flowers and trees and isn't full of bustling people. The exact location is unknown, but it is somewhere in the north of the city. The garden is noticeably quiet and serene in comparison to the rest of T'Telir. Despite this, it is a popular place for clandestine meetings after hours.
+
+### Docks
+T'Telir lies on the shores of the [[Bright Sea\|Bright Sea]], and because of its location in a sheltered bay, T'Telir is a prime port. The T'Telirite docks are made up of the shipyards, a number of warehouses and the dock slums. These slums are located between the shipyards and the warehouses. The dockslums are full of dockhands, who live and drink here.
+T'Telir has a number of [[Stormrunners\|Stormrunners]]. Everyone who wants to fish in T'Telir waters needs to pay a fee. Some people avoid this by fishing at night however.
+There are people at the docks who sew nets. The slumlords of T'Telir often dump bodies in the bay, hiring people to go out at night and sink the bodies.
+
+### Markets
+T'Telir has many markets. Like the rest of T'Telir, the markets are very colorful. Most of the markets in T'Telir are decorated with the D'Denir Celabrin. When entering the markets a person is instantly bombarded by the sight, sound, scent, and colors of T'Telir.
+The wealthier shopping districts do not contain merchants raising tents to shade themselves as they sell wares. Instead, there are many high quality, colorful shops with more expensive goods. While performers are present in these markets, there are fewer than in the average shopping district.
+The T'Telirite markets are full of merchants from distant kingdoms, such as [[Idris\|Idris]], [[Tedradel\|Tedradel]], and likely the kingdoms beyond the mountains.
+
+## Appearance
+ by  Phoebe Rothfeld  Vivenna and Parlin's arrival in T'Telir
+### Colour
+T’Telir, like the rest of Hallandren, is extremely colourful. Buildings are painted in a wide array of, often very bright, colours. The same goes for the people, most of whom wear brightly coloured clothing and even dye their hair. Even furniture and other objects are painted. Due to this there are very few dull things in the city, and most of them are located in the slums, which contain objects and buildings with faded colours. The T'Telirites love greenery and as such the city is designed with many gardens and open spaces that show off its greenery and have palm trees and other flora growing along the streets.
+
+### Wealthy Areas
+The wealthy areas of the city are very diverse, ranging from huge mansions to regular sized houses. These residential areas tend to have less people walking around. Since Hallandren has no nobility these houses are likely owned by merchants. The flora in these districts is described as being incredibly diverse. Dozens of different species of palms, ferns, grasses, and potted flowers, including the [[Tears of Edgli\|Tears of Edgli]], can be found in the gardens of the houses and on the streets. Like in most of the city there are many [[D'Denir\|D'Denir]] statues located in these districts.
+Almost none of the roads in the city are made of anything other then dirt, although most roads have slate sidewalks for people to walk upon, and the streets are lined with lanterns. The people tend to stay on the sidewalks because carriages are common. The wealthier shopping districts do not contain merchants raising tents to shade themselves as they sell wares. Instead, there are many high quality, colorful shops with more expensive goods. While performers are present in these commercial areas, there are fewer than in the average shopping district.
+
+### Slums
+T'Telir is home to many slums. While there are different varieties of slums, they generally have a couple characteristics. Like the rest of T'Telir most of the slums are colourful, even though the colors are a little faded. The slums also contain parks like the rest of the city, although these are very dirty, like the slums themselves. The D’Denir statues that decorate much of T'Telir are in various states of disrepair in the slums. There are soup kitchens which provide very cheap meals, food being available for only two bits.
+The best known slum in T'Telir is the Highlands, the [[Idris\|Idrian]] quarter. The Highlands are located in the north of the city, and most Idrians live here. The Highlands are less colourful then the rest of T’Telir, although there are still many colors. This slum is ruled by three slumlords, [[Paxen\|Paxen]], [[Ashu\|Ashu]] and [[Rira (character)\|Rira]]. Furthermore there are many brothels, most only a short distance away from the edge of the Highlands. [[Vivenna\|Vivenna]] describes the place as unwelcome.
+
+## Culture
+### People
+There are many different peoples and cultures in T’Telir. The most prevalent people are the Hallandren. Other known cultures in T’Telir include Pahn Kahl and Idrian.
+T’Telir has no nobility, instead it has a small but very rich class which is almost completely compromised of the most successful merchants, a middle class, and a large peasant class. Hallandren is the only nation on [[Nalthis\|Nalthis]] to have a middle class, instead of only a high and low class. Due to this large middle class T’Telir has many features that the rest of the world lacks.
+One of these features is restaurants. Restaurants are only possible because of the middle class, which is large, and rich, enough to support businesses. T’Telirites often eat lunch at restaurants, as during midday it makes more sense to buy food rather then return all the way home. It is a common practice to wipe your fingers on the tablecloth. Lots of enterprising young street boys wander the neighborhoods proclaiming their services, willing to deliver food from restaurants right to people's homes for a fee. The people in T'Telir like spicy food, and their food is often centered around seafood, and seasoned with exotic spices.
+
+>“*People jostled their way through the streets, draped ﬂagrantly in colors, yelling, and talking, and moving, and stinking, and coughing, and bumping.*”
+\-Vivenna's first impression of T'Telir[12]
+
+T’Telirites like to be together, tending to crowd the same streets. Because of the warm climate, they are comfortable with wearing loose, revealing, and few clothes; their clothes are of all kinds of designs, makes, and colors, all meant to make them stand out, though the overwhelming effect is then that no one stands out.
+The people in the slums are often dirty and beaten down. Most slums are ruled by people called slumlords, the crime lords of specific slums in the city. The poor in T'Telir take any jobs they can, including prostitution for women and work in the dye fields for men. A lot of people here also beg for money, although this profession isn’t very rewarding in T'Telir. There are also underground fighting matches where men can see people, often Idrians, box eachother to unconsciousness, these matches are often funded by slumlords.
+The T’Telirites enjoy music, painting, dance, poetry, sculpture, puppetry, play performance, sandpainting and lots of other ‘lesser’ arts. Weapons are uncommon enough in the city that a sword draws attention.  Timepieces are not common in T’Telir, and punctuality is not a high priority in the city, especially among the Returned. The T’Telirites are fond of carriages, and use them a lot in the city, although the Returned and their Queen prefer to use palanquins.
+The T’Telirites herd livestock such as sheep and cows. they also enjoy many sorts of sealife, such as mussels, fish, and octopi, and many foreign foods. The T’Telirites keep their dead in charnel houses.
+
+### Religion
+While T’Telir is home to many different cultures, and many different religions, the largest part of the population follows the Iridescent Tones. There are also a number of [[Idris\|Idrians]] who follow [[Austrism\|Austrism]]. As there are many [[Pahn Kahl\|Pahn Kahl]] living in the city. the Pahn Kahl religion is likely practiced as well.
+T’Telir contains the [[Court of Gods\|Court of Gods]], a large walled off plateau.This plateau is the home of the [[Returned\|Returned]], including the [[God King\|God King]]. Anyone in the empire who wishes to get a blessing has to send their offerings all the way to T’Telir. If people want to petition to the gods they also need to travel all the way to T’Telir. Both of these things make T’Telir very important to the religion.
+T’Telir embodies everything that modern [[Austrism\|Austrism]] preaches against. For example, Austrism preaches that ostentation is forbidden while in T’Telir everyone and everything competes for attention. Another example is that Austrism considers [[Breath\|breath]] to be a part of the soul, while the T’Telirites trade in breath. This is likely on purpose as Austrism changed significantly after the Manywar, hating everything Hallandren.
+During the first three hundred years of the city’s existence the majority of the population followed [[Austrism\|Austrism]], although back then it was very different from modern day [[Austrism\|Austrism]]. During this time the [[Cult of Returned\|Cult of Returned]] likely settled in Hanald, although it wasn’t very large yet. After the [[Manywar\|Manywar]] however the Hallandren people felt that Austre had forsaken them, and left them to Kalad the Usurper. Partly because of this and partly because of Peacegiver stopping the war they started to worship the [[Returned\|Returned]]. During this time the Cult of Returned grew and evolved into the Iridescent Tones. At the time of the Pahn Kahl rebellion, people are beginning to doubt their gods more and more, seeing them as less divine, weaker, and less wise.
+
+### Politics and Laws
+>“*This isn’t about money. It’s about fear. People in the court talk about what might happen if the Idrians cut off the passes or what may happen if the Idrians let enemies slip through and besiege T’Telir.*”
+\-Bebid to Vasher[23]
+
+
+T'Telir is the capital of Hallandren and contains the [[Court of Gods\|Court of Gods]], the home to the Returned. Hallandren, which includes T’Telir, is ruled by the [[God King\|God King]], although in reality he has very little political power and is more of a figurehead for his priesthood, who actually rule the empire. The God King has the right to undo any decision made by the Court of Gods.
+The [[Returned\|Returned]] have duties and votes on specific matters in the city and the empire. The task of the priesthood is generally to inform the gods of the people’s opinions. The Returned can then make informed decisions, which the priests enforce. In reality the priests handle most of the minor decisions, so that the Returned only vote on the major decisions. This method of government, waiting on debates that must be brought to the gods (who cannot leave the court to be among the people of the city) by the priests, operates much more slowly than Idris' monarchy.
+There are specific laws about where begging is allowed and where it isn’t, these rules aren’t taught to beggars though. Getting into a brawl in the city will get you locked up for a night, although hitting a priest means the death sentence. Anyone who wants to fish in the waters of T’Telir has to pay a fee.
+
+### City Guard
+T’Telir has a human garrison, although it isn’t terribly large. The city guard also contains many [[Lifeless\|lifeless]], usually directed by living humans. It is likely that the city guard also contains many of the support staff that goes along with lifeless soldiers. The city guard has a number of cavalrymen. T’Telir’s living city guard is dressed in bright yellow and blue, while the lifeless guards are dressed in purple and gold,
+T’Telir is also the location of the entire [[Hallandren\|Hallandren]] [[Lifeless\|lifeless]] army. This army numbers forty thousand lifeless, fully equipped and ready to respond to any potential invasion. While this army is completely separate of the city guard, it can be called upon to defend the walls. The lifeless soldiers are described as wearing gold and blue, this might be the same as the living human guards, who’s uniforms are described as bright yellow and blue.
 
 ## History
-### Origin
-The [[Pahn Kahl\|Pahn Kahl]] were the original inhabitants of the valley where T'Telir was later built, living in scattered fishing villages in the valley's jungles until the people of [[Chedesh\|Chedesh]] sailed across the Bright Sea and settled in the area.
-The [[God King\|God King's]] palace was the first building constructed in the site of the future city of T'Telir. It served as an outpost overlooking the bay and was built by the crew mates of [[Vo\|Vo]], the first Returned, three hundred years before the events of the Manywar. They named the kingdom they founded on the beaches of T'Telir's bay [[Hanald\|Hanald]] and elected Vo's wife as their queen.
+ by  Bryan Mark Taylor 
+### Settling and Expansion
+The [[Pahn Kahl\|Pahn Kahl]] were the original inhabitants of the Hallandren lowlands, and of the bay where T'Telir was later built. They lived in scattered fishing villages in the valley's jungles. At some point, the people of [[Chedesh\|Chedesh]] discovered the lowlands and multiple ships were sent to investigate. On one of these ships, in the bay of T’Telir, a man named [[Vo\|Vo]] died, and later [[Returned\|Returned]]. After Vo died again his crewmates decided to found a kingdom, crowning his wife as Queen of [[Hanald\|Hanald]]. The place where they set foot on land would later become T’Telir.
+The God King's palace was the first building constructed in the city of T'Telir. It served as an outpost overlooking the bay and was built by the crew mates of [[Vo\|Vo]], the first Returned, three hundred years before the events of the Manywar. It would later become the residence of the Royal family of [[Hanald\|Hanald]], making T’Telir the capital.
+As [[Hanald\|Hanald]] expanded and its economy grew T’Telir grew as well, both in population and in wealth. The increase in wealth happened because of a number of reasons. T’Telir is located in a bay, protecting it from storms and making it a prime port. Another reason for T’Telir’s wealth was, and still is, the farming of many products native to the Hallandren lowlands, this includes the [[Tears of Edgli\|Tears of Edgli]] which only grow in Hallandren due to the present investiture from [[Endowment\|Endowments]] [[Perpendicularity\|perpendicularity]]. This monopoly on the dye trade was a major factor for the [[Manywar\|Manywar]], as other kingdoms wished to take control.
 
 ### The Manywar
 For more information, see [[Manywar\|Manywar]].
-T'Telir was home to the descendants of Vo and his wife; the royal family fled the city at the climax of the war and established the nation of [[Idris\|Idris]]. After the Manywar was resolved, Peacegiver left the city of T'Telir a gift in the form of the D'Denir Celabrin. These statues were ostensibly a reminder to the citizens of the cost of war as well as a memorial for the war's casualties, but in fact were the force known as [[Kalad's Phantoms\|Kalad's Phantoms]].
+T’Telir was home to the Royal family of Hanald, the descendants of Vo. After a [[Returned\|Returned]] had a vision of war Kalad raised up a large army, and together with the Royal family’s own [[Lifeless\|lifeless]] and awakeners he seized control of [[Hanald\|Hanald]], ending three hundred years of reign. At least some of the Royal family were kept alive though, and they were stuck in T’Telir. Near the climax of the [[Manywar\|Manywar]] the remaining members of the Royal family fled T’Telir and headed north, establishing the kingdom of Idris.
+After the end of the [[Manywar\|Manywar]] [[Kalad\|Kalad]], then known as [[Peacegiver\|Peacegiver]] commanded his [[Kalad's Phantoms\|Phantoms]] to enter T’Telir, and stay put like statues, calling it a gift for the city. Eventually the people of T’Telir forgot that they were [[Lifeless\|lifeless]]. Modern day Hallandren lore holds that Peacegiver "commissioned" a large number of these statues known as the D'Denir Celabrin, ostensibly as memorials and reminders not to go to war. The [[Returned\|Returned]] continue to build more statues each year throughout the city to honor Peacegiver's tradition, although these are not Phantoms.
 
 ### The Plague
 >“*You mean to tell me that our God King—the most holy and divine personage in our pantheon—died to cure a few tummy aches?*”
-\-Lightsong[14]
+\-Lightsong[38]
 
 
 Two hundred and fifty years later, a plague of distrentia struck T'Telir. The disease was especially deadly among the elderly and the young, and the nature of it meant that it spread other diseases as well. This caused the city's commerce to slow drastically, meaning that outlying villages went months without necessary supplies. In the end, Susebron the Fourth gave his Breath to cure the plague and [[Susebron\|Susebron]] the Fifth began his rule.
@@ -66,44 +151,13 @@ Two hundred and fifty years later, a plague of distrentia struck T'Telir. The di
 For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
 Thirty years into Susebron the Fifth's reign, he signed a treaty with King [[Dedelin\|Dedelin]] of [[Idris\|Idris]] that promised peace in exchange for his marriage to Dedelin's daughter. At the time when the treaty was fulfilled twenty years later, T'Telir was the site of the Pahn Kahl rebellion. First, a Pahn Kahl named [[Vahr\|Vahr]], a worker in the dye fields, made an attempt at stirring up his people. He worked to that end for over a decade but was ultimately captured and imprisoned due to [[Bluefingers\|Bluefingers']] information leaks and killed by [[Vasher\|Vasher]]. Bluefingers himself planned an extensive subversive campaign centered around starting a war between Hallandren and Idris: he brought mercenaries and Pahn Kahl [[Awakening\|Awakeners]] into the tunnel system below the court, manipulated [[Siri\|Siri]] into distrusting the Hallandren priests, and hired [[Denth's crew\|Denth's crew]] to increase tensions in the city. When his plans were nearing completion, he tortured [[Blushweaver\|Blushweaver]] and [[Lightsong\|Lightsong]] in order to get the Command phrases for Hallandren's Lifeless army, changed the Command phrase, and sent the army towards Idris. The attempted rebellion was defeated when Susebron, with his newly healed tongue, used [[Peacegiver's Treasure\|Peacegiver's Treasure]] to storm his palace with an army of Awakened cloths. Vasher decided to give him the Command phrase to Kalad's Phantoms, which he then sent after the Lifeless army.
 
-## Culture
- by  Phoebe Rothfeld  Vivenna and Parlin's arrival in T'Telir
-T'Telir is overwhelmingly bright, and the main areas of the city are very beautiful and lush with greenery. Buildings are dyed in all colors here, and the people, all of whom dress in vibrant colors and some of whom even dye their hair, are much the same. D'Denir, huge statues of great warriors holding weapons in various poses, line the walkways and are frequently adorned by the people with brightly colored accessories such as scarves and hats. Many streets in the city are just dirt, not laid with cobblestone, though they have slate sidewalks and are lined with palms and other tropical plants. The streets also have pole-mounted lamps that are lit nightly, requiring an amount of oil only feasible due to the city's proximity to the sea and the trade it brings. However, the slum areas where the Idrians of the city live aren't quite as nice: although still colorful, the colors are muted, the buildings are quite run-down and dirty, and there are many beggars and urchins.
-T'Telir is a very wealthy city compared to [[Bevalis\|Bevalis]], the capital city of Idris, and even has somewhat of a middle class. The houses in T'Telir are generally much larger and nicer than in Idris, and the city is one of the only places with enough wealthy people to support restaurants. In fact, enterprising young street boys wander the neighborhoods proclaiming their services, willing to deliver food from restaurants right to people's homes for a fee. The food served in T'Telir tends to be spicy, centered around seafood, and seasoned with exotic spices.
-
->“*People jostled their way through the streets, draped ﬂagrantly in colors, yelling, and talking, and moving, and stinking, and coughing, and bumping.*”
-\-Vivenna's first impression of T'Telir[7]
-
-People here like to be together, tending to crowd the same streets. Because of the warm climate, they are comfortable with wearing loose, revealing, and few clothes; their clothes are of all kinds of designs, makes, and colors, all meant to make them stand out, though the overwhelming effect is then that no one stands out. Most natives of the city believe in the [[Iridescent Tones\|Iridescent Tones]] and worship the Returned. Timepieces are not common, and punctuality is not a high priority in the city, especially among the Returned. It is also uncommon enough to go fully armed in T'Telir that wearing a sword draws attention.
-
-## Socioeconomic Divide
-While the culture of T'Telir is mostly uniform, there are some notable differences between rich districts and poverty stricken slums.
-
-### Wealthier Districts
-The flora of the wealthier districts is described as being incredibly diverse. Dozens of different palms, various ferns, grasses, and potted flowers (including the [[Tears of Edgli\|Tears of Edgli]]) can be found on a single garden plot. The buildings appear more rich. Slate sidewalks are constructed for pedestrians to make way for carriages, which are common in wealthier districts. Shopping districts do not contain merchants raising tents to shade themselves as they sell wares. Instead, there are many high quality, colorful shops with more expensive goods. While performers are present in these commercial areas, there are fewer than in the average shopping district.
-
-### Slums
->“*Vivenna found the slums of T’Telir to be very interesting... like a carnival that had been hit by a mudslide.*”
-\-Vivenna's thoughts about the slums as she is escorted to a safehouse[6]
-
-
-The one of the slums of T'Telir, which can be found 15 minutes from [[Grable\|Grable's]] restaurant, is decorated with faded and stained color. Bright strips of cloth can be found hanging from windows, stretched across overhangs, and sitting in puddles on the street. The D’Denir statues that decorate much of T'Telir are in some state of disrepair in the slums, one of which is a "broken statue of a horse man."
-
-## Politics
->“*This isn’t about money. It’s about fear. People in the court talk about what might happen if the Idrians cut off the passes or what may happen if the Idrians let enemies slip through and besiege T’Telir.*”
-\-Bebid to Vasher[26]
-
-
-T'Telir is the capital of Hallandren and home to the Returned. The [[God King\|God King]] rules T'Telir officially and can overrule any decision made by the Court of Gods, although his priests usually make most decisions for him. The Returned are given votes when it comes to big decisions; before casting votes, they listen to their priests debate about the issues in Court Assemblies. Some of the Returned also sit on various councils and vote on other important matters in the city. This method of government, waiting on debates that must be brought to the gods (who cannot leave the court to be among the people of the city) by the priests, operates much more slowly than Idris' monarchy.
-The King and the rest of the Returned are revered as gods, and those of people who are in trouble, are sick or lame, or need help of some sort, can go to them during their daily time to receive Petitions. The poorer people are also entered into a lottery where they can come to Court Assemblies and view the gods while they make their decisions. However, at the time of the Pahn Kahl rebellion, people are beginning to doubt their gods more and more, seeing them as less divine, weaker, and less wise. Though the general opinion in the city before Siri's arrival expected [[Idris\|Idris]] to back out on the treaty with Susebron, there are still some in the court pushing very vocally for a war with Idris, which they consider little better than a rebel enclave within Hallandren's borders.
-
 ## Notable Residents
 For a full list see, see :Category:Residents of T'Telir.
 
 [[Susebron\|Susebron]]
 [[Siri\|Siri]]
 [[Bluefingers\|Bluefingers]]
-[[Denth\|Denth]]
+[[Treledees\|Treledees]]
 [[Lightsong\|Lightsong]]
 [[Blushweaver\|Blushweaver]]
 [[Mercystar\|Mercystar]]

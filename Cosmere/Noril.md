@@ -4,9 +4,8 @@
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Coming awake means leaving the nothingness, you know? Remembering the pain. But then I think, 'Well, he gets up.'*”
 \-Noril, referring to Kaladin[1]

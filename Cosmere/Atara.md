@@ -6,9 +6,9 @@
 |**Titles**|Queen of [[Arelon\|Arelon]]|
 |**Residence**|[[Kae\|Kae]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Atara** is Duke [[Telrii\|Telrii's]] wife from [[Arelon\|Arelon]] on [[Sel\|Sel]].
 

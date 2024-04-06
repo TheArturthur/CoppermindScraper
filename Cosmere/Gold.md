@@ -13,11 +13,10 @@
 |**Hemalurgy**|
 |**Power**|Steal Hybrid Feruchemical powers|
 |**Type**|Temporal|
-|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*Mistborn (series)*|
 
 **Gold** is the internal temporal pulling metal. An [[Allomancer\|Allomancer]] burning gold is able to see who they could have been in the past, had they made different choices. [[Feruchemist\|Feruchemists]] can use gold to store health. When used as a [[Hemalurgic\|Hemalurgic]] spike, gold steals Hybrid Feruchemical powers.
+The paired alloy of gold used in the Metallic Arts is [[Electrum\|electrum]].
 
 ## Contents
 
@@ -34,7 +33,7 @@
 
 
 ## Allomantic Use
-A gold [[Misting\|Misting]] is known as a **Augur**. An Augur burning gold is able to see a hallucination of who the user could have been, known as a "gold shadow." Due to the emotional stress associated with seeing one's alternate past, gold is not a very useful metal. Furthermore, touching the gold shadow while burning gold causes unpleasant side effects. Each time an Augur burns gold, they see a different image, as it changes depending on their current situation. A gold shadow will also change if a person is stamped with an [[Essence Mark\|Essence Mark]].
+A gold [[Misting\|Misting]] is known as a **Augur**. An Augur burning gold is able to see a hallucination of who the user could have been, known as a "gold shadow." While active, an Augur can see through both pairs of eyes and think both sets of thoughts. Due to the emotional stress associated with seeing one's alternate past, gold is not a very useful metal. Furthermore, touching the gold shadow while burning gold causes unpleasant side effects. Each time an Augur burns gold, they see a different image, as it changes depending on their current situation. A gold shadow will also change if a person is stamped with an [[Essence Mark\|Essence Mark]].
 
 ## Feruchemical Use
 A gold [[Ferring\|Ferring]] is known as a **Bloodmaker**. Gold is used to store health. A goldmind can be tapped to both heal at an accelerated rate or to heal from wounds that would normally be fatal. It is hard to fill a goldmind, due to the fact that it requires the Bloodmaker to spend time sickly and weak. Gold does not heal diseases as efficiently as it heals wounds.
@@ -58,4 +57,4 @@ During the [[Final Empire\|Final Empire]], gold was classified as a higher metal
 
 
 
-https://coppermind.net/wiki/Bloodmaker
+https://coppermind.net/wiki/Augur

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Klisn** is a [[Thaylen\|Thaylen]] sailor and a crewmember of the *Wandersail*.
 Klisn is skilled at cards and gets along well with [[Lopen\|Lopen]], who thinks he has a good sense of humor.

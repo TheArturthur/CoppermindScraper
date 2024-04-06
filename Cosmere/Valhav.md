@@ -1,9 +1,8 @@
 |**Valhav**|
 |-|-|
-|**Era**|Heraldic Epochs|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Valhav** was one of the [[Silver Kingdoms\|Silver Kingdoms]] on [[Roshar\|Roshar]] during the [[Heraldic Epochs\|Heraldic Epochs]]. Like the other Silver Kingdoms, its name is symmetrical, owing to [[Vorin\|Vorin]] tradition.
 

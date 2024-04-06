@@ -1,9 +1,8 @@
 |**Vehah**|
 |-|-|
 |**Type**|Sport|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vehah** is a traditional wrestling style in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. It may be the only type of wrestling commonly practiced in the country, as "wrestling" appears to refer to vehah by default.
 

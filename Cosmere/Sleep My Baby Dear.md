@@ -1,9 +1,8 @@
 |**Sleep My Baby Dear**|
 |-|-|
 |**Type**|Lullaby|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **"Sleep My Baby Dear"** is a lullaby on [[Roshar\|Roshar]].
 [[Lin Davar\|Lin Davar]] sang the lullaby to [[Shallan\|Shallan]] when she was a child, especially when she was frightened or woke up screaming in the night. He held her and sang the lullaby on the night she was forced to kill [[Shallan's mother\|her mother]]. Shallan then sang it to her father while she strangled him several years later. The lullaby is prominent in Shallan's traumatic memories of these events.

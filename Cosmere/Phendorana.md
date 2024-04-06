@@ -1,13 +1,13 @@
 |**Phendorana**|
 |-|-|
 |by  Shuravf |
-|**Died**|Vevishev 1174|
+|**Died**|Vevishev 1175|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Windrunner\|Windrunner]] magic, [[Splinter\|Splinter]] of [[Honor\|Honor]]|
 |**Bonded With**|[[Teft\|Teft]]|
 |**Species**|[[Honorspren\|Honorspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*Life breaks us, Teft. Then we fill the cracks with something stronger.*”
 \-Phendorana[2]
@@ -65,7 +65,7 @@ Phendorana was present when [[Moash\|Moash]] ambushed [[Lift\|Lift]] and Teft du
 \-Teft, on Phendorana's death[1]
 
 
-A sculpture of Phendorana was commissioned after her death so that it could be placed next to Teft's body, which was [[Soulcast\|Soulcast]] into stone. It is unclear if she went to the [[Beyond\|Beyond]] or ceased to exist entirely.
+A sculpture of Phendorana was commissioned after her death so that it could be placed next to Teft's body, which was [[Soulcast\|Soulcast]] into stone. Her soul was not destroyed, and could have reached the [[Beyond\|Beyond]].
 
 ## Relationships
 ### Teft

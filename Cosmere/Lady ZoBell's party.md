@@ -3,11 +3,10 @@
 |**Date**|Doxil, 342 [[Catacendre\|PC]]|
 |**Era**|Post-Catacendre|
 |**Participants**|[[Paalm\|Paalm]], [[Waxillium Ladrian\|Waxillium Ladrian]]|
-|**City**|[[Elendel\|Elendel]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
 |**Location**|[[ZoBell Tower\|ZoBell Tower]]|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Lady ZoBell's Party** is an event that takes place in [[ZoBell Tower\|ZoBell Tower]] in [[Elendel\|Elendel]].
 This is the first party held in the penthouse of [[ZoBell Tower\|ZoBell Tower]] and was planned around the governor’s spring dinner and policy speech. Invitations were sent to the upper crust of the society, both in Elendel and beyond.
@@ -22,6 +21,7 @@ Lady [[Steris Harms\|Steris Harms]]
 [[Wayne\|Wayne]] - disguised as Professor [[Hanlanaze\|Hanlanaze]]
 [[Marasi\|Marasi]] - disguised as Professor Hanlanaze's assistant
 Governor [[Replar Innate\|Replar Innate]]
+[[Lord Stenet\|Lord Stenet]]
 [[Lord Erikell\|Lord Erikell]]
 [[Drim\|Drim]]
 [[Bleeder\|Bleeder]]

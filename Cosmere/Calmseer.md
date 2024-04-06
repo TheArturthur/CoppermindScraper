@@ -1,18 +1,17 @@
 |**Calmseer**|
 |-|-|
 |**Died**|Sacrificed her [[Divine Breath\|Divine Breath]] to heal her daughter|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*She hadn’t helped the people because she feared that they would stop worshiping, and she had no arrogance of presumed superiority.*
 \-Real kindness. Real love. Real mercy.
 
 
-**Calmseer** is a [[Returned\|Returned]] from [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]]. She died by giving away her [[Divine Breath\|divine Breath]] some time prior to the marriage between [[Siri\|Siri]] and [[Susebron\|Susebron]].
+**Calmseer** is a [[Returned\|Returned]] from [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]]. She died by giving away her [[Divine Breath\|divine Breath]] at least three years prior to the marriage between [[Siri\|Siri]] and [[Susebron\|Susebron]].
 
 ## Contents
 
@@ -41,7 +40,7 @@ As a [[Returned\|Returned]], Calmseer has a [[Divine Breath\|Divine Breath]] whi
 Aura Recognition - allows her to assess the number of Breaths a person possesses.
 Perfect Pitch
 Perfect Color Recognition - allows her to instantly and instinctively determine exact shades of colors and their hue harmonics.
-Perfect Life Sense - allows her to sense people around him.
+Perfect Life Sense - allows her to sense people around her.
 Agelessness - makes her immune to most toxins and physical ailments, as well as making her functionally immortal.
 ## History
 ### Before Returning
@@ -49,7 +48,7 @@ Calmseer was a mother who cared for those around her. When her neighbors caught 
 
 ### After Returning
 >“*She was the best of us...She would meet with people all day. They loved her.*”
-\-Allmother[3]
+\-Allmother[5]
 
 
 She Returned without memories of her previous life or the vision of her daughter's potential death. It would be some time before her daughter caught the disease, and so Calmseer spent several years in the Court of Gods. Her duties included listening to petitions and judging works of art, but she also took Lightsong under her wing and helped him adjust to life as a Returned.

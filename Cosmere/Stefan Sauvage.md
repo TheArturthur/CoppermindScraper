@@ -4,9 +4,8 @@
 |**Died**|c. 342 [[Catacendre\|PC]]|
 |**Titles**|His Lordship|
 |**Residence**|[[New Seran\|New Seran]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Stefan Sauvage** is a [[Scadrian\|Scadrian]] nobleman and the father of [[Nicelle Sauvage\|Nicelle Sauvage]].
 

@@ -1,12 +1,11 @@
 |**Amark**|
 |-|-|
-|**Died**|? 1173|
+|**Died**|Kakahan 1173|
 |**Profession**|Miner, Bridgeman|
-|**Groups**|[[Bridge Four\|Bridge Four]]🐱︎, Sadeas army|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army|
 |**Nationality**|[[Jah Keved\|Veden]] ([[Bavland\|Bav]])|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Amark** is a [[Bavland\|Bavlander]] and a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
 

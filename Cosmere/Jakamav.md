@@ -5,9 +5,8 @@
 |**Groups**|Roion army|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jakamav** is a lighteyes of the third [[Dahn\|dahn]] from [[Highprince\|Highprince]] [[Roion\|Roion's]] camp and one of his various landlords.
 

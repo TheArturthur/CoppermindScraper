@@ -2,10 +2,9 @@
 |-|-|
 |by  Marie Seeberger |
 |**City**|[[Alethi\|Alethi]] warcamps|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 >“* The world itself seemed close to ending, and the Alethi threw a party.*”
 \- Dalinar[1]

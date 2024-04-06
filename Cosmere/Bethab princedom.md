@@ -3,10 +3,9 @@
 |by  Isaac Stewart |
 |**Ruler**|Highprince [[Bethab\|Bethab]]|
 |**Occupied by**|[[Singers\|Singers]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Bethab princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. It has no house colors.
 

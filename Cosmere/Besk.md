@@ -1,8 +1,7 @@
 |**Besk**|
 |-|-|
-|**World**|[[Alornia\|Alornia]]|
+|**Homeworld**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“*Indeed, he does seem to boorishly continue the same stubborn course, without maturity and without careful consideration of the best path. Wouldn't you say?*”
 \-Besk to Kai[1]

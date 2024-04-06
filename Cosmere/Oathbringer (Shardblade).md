@@ -1,11 +1,10 @@
 |**Oathbringer (Shardblade)**|
 |-|-|
-|by  Petar Penev |
+|by  Steve Argyle |
 |**Type**|[[Shardblade\|Shardblade]]|
 |**Owners**|[[Sunmaker\|Sunmaker]] , [[Tanalan's father\|Tanalan's father]] , [[Torol Sadeas\|Torol Sadeas]] , [[Meridas Amaram\|Meridas Amaram]] , [[Dalinar Kholin\|Dalinar Kholin]] |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -15,7 +14,6 @@ For the third [[Stormlight Archive\|Stormlight Archive]] novel, see [[Oathbringe
 
 
 **Oathbringer** is the name given to a [[Deadeye\|deadeye]] [[Peakspren\|peakspren]] [[Shardblade\|Shardblade]] closely associated with Brightlord [[Dalinar Kholin\|Dalinar Kholin]]. Other wielders include [[Sadees\|Sadees]], [[Tanalan's father\|Tanalan's father]], [[Torol Sadeas\|Torol Sadeas]], and [[Meridas Amaram\|Meridas Amaram]].
-
 
 ## Contents
 
@@ -40,7 +38,7 @@ Prior to the Day of Recreance, Oathbringer belonged to a [[Knights Radiant\|Knig
 Oathbringer was the Shardblade of the infamous [[Alethkar\|Alethi]] king [[Sadees\|Sadees]] the Sunmaker. After his death, it was passed down through various owners until eventually ending in the hands of the elder [[Tanalan's father\|Highprince Tanalan]]. Dalinar, aged twenty at the time, defeated Tanalan at the [[Rift\|Rift]]; the younger [[Tanalan\|Tanalan]], who was only seven years old at the time, briefly attempted to defend his father with Oathbringer before Dalinar took for himself and bonded it.
 
  by  Marie Seeberger  Dalinar giving up Oathbringer
-Dalinar wielded Oathbringer for many decades and in a number of battles, including the unification of Alethkar, the second conflict at the Rift, and the [[War of Reckoning\|War of Reckoning]]. Following the [[Battle of the Tower\|Battle of the Tower]], he traded it to [[Torol Sadeas\|Torol Sadeas]] for all of Sadeas' bridgemen as a way of thanking [[Kaladin\|Kaladin]] and the rest of [[Bridge Four\|Bridge Four]] for saving the life of him and his men.
+Dalinar wielded Oathbringer for many decades and in a number of battles, including the unification of Alethkar, the second conflict at the Rift, and the [[War of Reckoning\|War of Reckoning]]. Following the [[Battle of the Tower\|Battle of the Tower]], he traded it to [[Torol Sadeas\|Torol Sadeas]] for all of Sadeas' bridgemen in order to keep his promise to [[Kaladin\|Kaladin]] and the rest of [[Bridge Four\|Bridge Four]]; that he would free them for saving the life of him and his men.
 Sadeas held Oathbringer for a little over two months, until shortly after the [[Battle of Narak\|Battle of Narak]]. When [[Adolin Kholin\|Adolin Kholin]] killed him for threatening his family one time too many, he dropped it, and Adolin tossed it to a balcony below while trying to hide the murder. It was later discovered by Bridge Four on a patrol and given to Dalinar, who kept it for a short while without bonding it before giving it to [[Ialai\|Ialai]], Sadeas' widow. She bestowed the blade on [[Amaram\|Amaram]], who bonded it despite already owning a different Shardblade.
 Oathbringer was carried by Amaram until the [[Battle of Thaylen Field\|Battle of Thaylen Field]], where he wielded two blades simultaneously before being shot to death with a [[Grandbow\|Grandbow]] by [[Lunamor\|Lunamor]]. As the latter refused to take up Amaram's Shards, the blade was once again reclaimed by Dalinar, who did not bond it again as per the [[Stormfather\|Stormfather's]] wishes. Dalinar chose Oathbringer as the namesake for his book.
 

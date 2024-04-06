@@ -1,10 +1,9 @@
 |**Lifeless Enclave**|
 |-|-|
 |**Usage**|[[Lifeless\|Lifeless]] barracks|
-|**City**|[[T'Telir\|T'Telir]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|**City**|[[T'Telir\|T'Telir]]|
+|**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 The **Lifeless Enclave** is a gigantic building in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] used as barracks for tens of thousands of [[Lifeless\|Lifeless]] soldiers.
 

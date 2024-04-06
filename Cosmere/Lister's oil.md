@@ -1,11 +1,10 @@
 |**Lister's oil**|
 |-|-|
 |**Type**|Drug|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Lister's oil** is a substance with antiseptic properties on [[Roshar\|Roshar]].
+**Lister's oil** is a substance on [[Roshar\|Roshar]] with antiseptic properties.
 
 ## Contents
 

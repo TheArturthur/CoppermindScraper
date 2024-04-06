@@ -1,9 +1,8 @@
 |**DaiKeen**|
 |-|-|
-|**World**|[[Taldain\|Taldain]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
-This page or section needs to be updated with new information for *White Sand Volume 2*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
 
 A **DaiKeen** is a [[Kerztian\|Kerztian]] economic and social grouping similar to the Professions in [[Lossand\|Lossand]]. Members of a  indicate which one they belong to with symbols or markings at their foreheads.
 
@@ -14,4 +13,4 @@ A **DaiKeen** is a [[Kerztian\|Kerztian]] economic and social grouping similar t
 
 
 
-https://coppermind.net/wiki/DaiKeen
+https://coppermind.net/wiki/Daikeen

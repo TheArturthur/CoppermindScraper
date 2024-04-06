@@ -2,13 +2,12 @@
 |-|-|
 |by  Noah Bradley |
 |**Region**|[[Unclaimed Hills\|Unclaimed Hills]] |
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-The **Shattered Plains** are located on the border of the [[Frostlands\|Frostlands]] and [[Unclaimed Hills\|Unclaimed Hills]], formerly part of the [[Silver Kingdoms\|Silver Kingdom]] of [[Natanatan\|Natanatan]]. They are so named for the of huge number of plateaus of various sizes, surrounded on all sides by deep chasms. It is unknown what caused the landscape to break in this way, but during one of [[Kaladin\|Kaladin's]] dreams in which he flew with a [[Highstorm\|highstorm]], he saw the entire area as a symmetrical pattern, radiating outwards from the center as if something massive had struck there.
+The **Shattered Plains** are a region of [[Roshar\|Roshar]] located on the border of the [[Frostlands\|Frostlands]] and [[Unclaimed Hills\|Unclaimed Hills]], in the former territory of the [[Silver Kingdoms\|Silver Kingdom]] of [[Natanatan\|Natanatan]]. They are named for their topography, consisting of a huge number of plateaus of various sizes surrounded on all sides by deep chasms. It is unknown what caused the landscape to break in this way, but during one of [[Kaladin\|Kaladin's]] dreams in which he flew with a [[Highstorm\|highstorm]], he saw the entire area as a symmetrical pattern, radiating outwards from the center as if something massive had struck there.
 
 ## Contents
 
@@ -26,7 +25,7 @@ The **Shattered Plains** are located on the border of the [[Frostlands\|Frostlan
 
 
 ## Topography
- by  Oliwia 'Sfaira' Białek  A view of the Shattered Plains
+ by  A view of the Shattered Plains
 For more images, see [[Shattered Plains/Gallery\|/Gallery]].
 The western edge is ringed by ten circular craters. Each crater's ridges have been worn away by [[Highstorm\|highstorms]] where they connect to the Shattered Plains themselves. It is noted by [[Dalinar\|Dalinar]] that from above, it is clear that the craters are the remains of large domes.
 The edge of the Plains consists of smaller plateaus with chasms ranging generally from 50 to 150 feet in depth. These westernmost plateaus can be bridged easily, and many permanent bridges have been constructed joining them together. Moving eastward, the Plains become much more varied in size and the chasms themselves can become much wider, making crossing from one to another much more challenging. The eastern edge of the Shattered Plains is so weathered by storms that it consists mostly of spindly pillars of rock, making it impassable.
@@ -70,4 +69,4 @@ The Shattered Plains was originally envisioned as existing on the world of [[Yol
 The Listener [[Song of Wars\|Song of Wars]] claims that the Shattered Plains were not shattered by the [[Fused\|Fused]].
 
 
-https://coppermind.net/wiki/Warcamp
+https://coppermind.net/wiki/Shattered_Plains

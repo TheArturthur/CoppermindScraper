@@ -1,13 +1,13 @@
 |**Battle of Luthadel**|
 |-|-|
+|by  Lara Sarmiento |
 |**Date**|1023 [[Final Empire\|FE]]|
 |**Era**|Post-[[Collapse\|Collapse]]|
 |**Effects**|[[New Empire\|New Empire]]|
-|**City**|[[Luthadel\|Luthadel]]🐱︎|
-|**Dominance**|[[Central Dominance\|Central Dominance]]🐱︎|
+|**City**|[[Luthadel\|Luthadel]]|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Battle of Luthadel** is a major event in the history of [[Scadrial\|Scadrial]]. It is a battle following the [[Siege of Luthadel\|Siege of Luthadel]].
 

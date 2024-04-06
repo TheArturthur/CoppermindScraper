@@ -2,9 +2,8 @@
 |-|-|
 |by User: Otto didact|
 |**Ethnicity**|Shin|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -18,6 +17,23 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 1 Geography and Ecology
 2 History
+
+2.1 Pre-Expulsion
+2.2 Heraldic Epochs
+
+2.2.1 Human Arrival
+2.2.2 The Silver Kingdoms
+
+
+2.3 Era of Solitude
+
+2.3.1 Shin Invasions
+2.3.2 Lead-up to the True Desolation
+
+
+2.4 The True Desolation
+
+
 3 Politics
 4 Culture
 
@@ -40,13 +56,38 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 Lying on the western side of continental Roshar, Shinovar is bordered to the east by the [[Misted Mountains\|Misted Mountains]] and to the west by an unnamed mountain range. Multiple rivers flow through Shinovar from the bodies of water to both the north and the south. The Misted Mountains prevent Shinovar from bordering any other nations. The mountains also protect Shinovar from the worst of the [[Highstorm\|highstorms]], so Shinovar experiences far more mild highstorms than the rest of Roshar. Regular storms also occur in Shinovar, particularly during the summer, and it can be difficult to tell the two apart based on strength. The highstorm still recharges gems with the same amount of [[Stormlight\|Stormlight]] despite its lower strength. [[Spren\|Spren]] rarely manifest in Shinovar, though that is unrelated to highstorm strength.
-Shinovar has a vastly different ecology from the rest of the planet, as the flora and fauna there have not the need of adapting to survival in the highstorms. Much of the ecology there is based on the plants and animals brought to Roshar by the [[Ashyn\|Ashyn]] refugees. The ground in Shinovar is coated with a layer of soil, making the ground feel springy to outsiders. The entire land is coated with a thick layer of grass that does not move or react to movement. The trees dotting the landscape are straight upward with leaves that do not withdraw into the trunk.  Plants that are known to be farmed in Shinovar include wheat, strawberries, and grapes. Animals that live in Shinovar include [[Chicken\|chickens]] and horses. Horses are both domesticated and wild.
+Shinovar has a vastly different ecology from the rest of the planet, as the flora and fauna there have not the need of adapting to survival in the highstorms, and in fact, cannot survive outside of Shinovar. Much of the ecology there is based on the plants and animals brought to Roshar by the [[Ashyn\|Ashyn]] refugees. The ground in Shinovar is coated with a layer of soil, making the ground feel springy to outsiders. The entire land is coated with a thick layer of grass that does not move or react to movement. The trees dotting the landscape are straight upward with leaves that do not withdraw into the trunk.  Plants that are known to be farmed in Shinovar include wheat, strawberries, and grapes. Animals that live in Shinovar include [[Chicken\|chickens]] and horses. Horses are both domesticated and wild.
 Buildings made of clay and earth seem to be common in Shinovar, as they remind [[Szeth\|Szeth]] of his home in the [[Valley of Truth\|Valley of Truth]]. This is motivated by the Shin's beliefs that stone is sacred and cannot be used as a building material. The weakened highstorms likely make this form of building viable when it would not be in other parts of Roshar. Shinovar contains an [[Oathgate\|Oathgate]] somewhere inside the country, though its exact location is not known.
 
 ## History
-When humans first arrived on Roshar from [[Ashyn\|Ashyn]], the [[Singer\|singers]] gave them the land of Shinovar to settle in. Because it is sheltered from highstorms, humans were able to grow the plants and animals they had brought with them there. Humans, however, decided to expand from the land they were given. During the [[Silver Kingdoms\|Silver Kingdoms]], Shinovar was known as [[Shin Kak Nish\|Shin Kak Nish]]. [[Nohadon\|Nohadon]] claims to have been in a war near the Shin border. Shinovar seems to have been less isolationist then, as they had a working [[Oathgate\|Oathgate]] and Shin people among the [[Knights Radiant\|Knights Radiant]].
-After the [[Last Desolation\|Last Desolation]], the Shin took control of the [[Honorblade\|Honorblades]] and brought them to Shinovar (save for [[Taln\|Taln's]] Blade, as it was with him on [[Braize\|Braize]]). Because of this history, they consider themselves the only ones who remember the truth about Rosharan history, though what they remember might not be entirely accurate. [[Nale\|Nale]] came back and retrieved his at some point without informing the Shin leaders. Members of the Shin use and train with the Honorblades and [[Surge\|surges]]. During the [[Era of Solitude\|Era of Solitude]], the Shin tried multiple times to conquer all of Roshar, but they did not succeed any time. They used Honorblades, Surges, and cavalry, a fighting technique unfamiliar to the rest of the continent. [[Shubreth-son-Mashalan\|Shubreth-son-Mashalan]] was likely a leader during one of the invasions. Approximately seven years before the [[True Desolation\|True Desolation]], [[Szeth\|Szeth]] announced that the [[Voidbringers\|Voidbringers]] were returning. He was told by the Shin leaders that this was false, made [[Truthless\|Truthless]], and exiled, taking [[Jezrien\|Jezrien's]] Honorblade with him. He was traded to [[Vstim\|Vstim]], a [[Thaylen\|Thaylen]] merchant who often traded successfully with the Shin, and exiled from Shinovar.
-After the [[Everstorm\|Everstorm]] hit the first time, the Shin sent warnings to other countries, including [[Tashikk\|Tashikk]], to prepare them. [[Dalinar\|Dalinar]] sent word to them through a Thaylen merchant asking them to cooperate with his planned coalition. The Shin were considered particularly important allies to gain because they controlled the westernmost Oathgate on continental Roshar. When they received his message, the Shin declined to join, sending back only a congratulations to Dalinar. While the Shin did not join the coalition, they also did not join [[Odium\|Odium]] and were considered uncommitted by the end of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+### Pre-Expulsion
+Little is known about the state of Shinovar before human arrival, except that [[Singer\|Singer]] relationship with the land was as such that it was the land they decided to grant to humanity upon their arrival. The ecology was very different during this era, not yet introduced to Ashynite flora and fauna.
+
+### Heraldic Epochs
+
+When humans first arrived on Roshar from [[Ashyn\|Ashyn]] after leaving it inhospitable to human life, the [[Singer\|singers]] gave them the land of Shinovar to settle in. Because it is sheltered from highstorms, humans were able to grow the plants and animals they had brought with them there, and these became a defining aspect of the Shin ecology.
+Over time, humanity grew dissatisfied with the territory they were granted, and chose to violent expand it, which begun what came to be known as the First Desolation.
+
+
+ by  Isaac Stewart  Map of the Silver Kingdoms
+For more information, see [[Shin Kak Nish\|Shin Kak Nish]].
+Shinovar was founded as [[Shin Kak Nish\|Shin Kak Nish]] in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch.
+Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]].
+[[Nohadon\|Nohadon]] claimed to have been in a war near the Shin border. Shinovar seems to have been less isolationist during this period, as they had a working [[Oathgate\|Oathgate]] and Shin people among the [[Knights Radiant\|Knights Radiant]].
+
+### Era of Solitude
+After the [[Last Desolation\|Last Desolation]], the Shin took control of the [[Honorblade\|Honorblades]] and brought them to Shinovar (save for [[Taln\|Taln's]] Blade, as it was with him on [[Braize\|Braize]]). Because of this history, they consider themselves the only ones who remember the truth about Rosharan history, though what they remember might not be entirely accurate. [[Nale\|Nale]] came back and retrieved his at some point without informing the Shin leaders. Members of the Shin use and train with the Honorblades and [[Surge\|surges]].
+
+
+During the [[Era of Solitude\|Era of Solitude]], the Shin tried multiple times to conquer all of Roshar, but they did not succeed any time. They used Honorblades, Surges, and cavalry, a fighting technique unfamiliar to the rest of the continent. [[Shubreth-son-Mashalan\|Shubreth-son-Mashalan]] was likely a leader during one of the invasions.
+
+
+Approximately seven years before the [[True Desolation\|True Desolation]], [[Szeth\|Szeth]] announced that the [[Voidbringers\|Voidbringers]] were returning. He was told by the Shin leaders that this was false, made [[Truthless\|Truthless]], and exiled, taking [[Jezrien\|Jezrien's]] Honorblade with him. He was traded to [[Vstim\|Vstim]], a [[Thaylen\|Thaylen]] merchant who often traded successfully with the Shin, and exiled from Shinovar.
+
+### The True Desolation
+After the [[Everstorm\|Everstorm]] hit the first time, the Shin sent warnings to other countries, including [[Tashikk\|Tashikk]], to prepare them.
+[[Dalinar\|Dalinar]] sent word to them through a Thaylen merchant asking them to cooperate with his planned coalition. The Shin were considered particularly important allies to gain because they controlled the westernmost Oathgate on continental Roshar. When they received his message, the Shin declined to join, sending back only a congratulations to Dalinar. While the Shin did not join the coalition, they also did not join [[Odium\|Odium]] and were considered uncommitted by the end of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+At some point after the start of the True Desolation, various Unmade settled in Shinovar and the Shin made gods of them. [[Ishar\|Ishar]] claims that he saved the Shin from the Unmade, but the veracity of this statement is unknown.
 
 ## Politics
 The way Shinovar is governed does not seem to be well known outside of Shinovar, even to other monarchs like [[Taravangian\|Taravangian]]. They have multiple leaders who [[Szeth\|Szeth]] views as corrupt for falsely making him [[Truthless\|Truthless]]. Other countries tend to view them as barbarians. When it comes to foreign policy, the Shin tend to be isolationist, declining to join Dalinar's coalition of countries when the Everstorm hit. This policy is due to their xenophobic nature. The Shin leaders are involved in making someone Truthless. As the Stone Shamans are also involved in monitoring the Truthless, it is possible they are part of the Shin leadership.
@@ -94,7 +135,7 @@ For more people from Shinovar, see :Category: Shin.
 [[Shubreth\|Shubreth-son-Mashalan]]
 ## Trivia
 The Shin people are the only Rosharans that would look Caucasian.
-The Shin people are the only group on Roshar to make wine out of grapes.
+The Shin people are the only group on Roshar who make wine out of grapes.
 Cats at one point lived in Shinovar.
 
 

@@ -1,13 +1,13 @@
 |**Klade**|
 |-|-|
 |**Died**|Ishi 1167|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Residence**|[[Narak\|Narak]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“* Where is their music?*”
 \- Klade, on parshmen[2]

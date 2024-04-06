@@ -4,9 +4,8 @@
 |**Died**|80 , Skyward Flight's Second Battle|
 |**Profession**|DDF pilots|
 |**Ethnicity**|[[Yeongian\|Yeongian]]|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*I talked to some cadets from Firestorm Flight this morning. They've been dogfighting this entire time.*”
 \-Bim complaining to Cobb about not spending more time using Poco weaponry.[2]
@@ -39,6 +38,7 @@
 
 
 ## Appearance and Personality
+ by  Hinumay 
 >“*Fly back in? Can’t we just turn off the holograms and go grab some grub?*”
 \-Bim's attitude during Skyward Flight training[3]
 

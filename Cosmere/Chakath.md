@@ -1,10 +1,9 @@
 |**Chakath**|
 |-|-|
-|**Dominance**|[[Western Dominance\|Western Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Western Dominance\|Western Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn: The Final Empire*|
 
 >“* I am the Lady Valette Renoux, fourth cousin to Lord Teven Renoux, who owns this mansion. My parents--Lord Hadren and Lady Fellette Renoux--live in Chakath, a city in the Western Dominance. Major export, wool.*”
 \- Vin about her false identity as Valette.[1]

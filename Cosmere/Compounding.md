@@ -2,9 +2,10 @@
 |-|-|
 |**Related to**|[[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], [[Preservation\|Preservation]]|
 |**Type**|Ability|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **Compounding** is a technique for using [[Allomancy\|Allomancy]] to enhance [[Feruchemy\|Feruchemy]]. A person capable of Compounding is referred to as a **Compounder**.
 
@@ -13,7 +14,8 @@
 1 Mechanics
 2 Uses
 3 Limitations and Dangers
-4 Notes
+4 Notable Compounders
+5 Notes
 
 
 ## Mechanics
@@ -30,7 +32,7 @@ While Compounding typically refers to Allomancy enhancing Feruchemy, there is mo
 \-Waxillium Ladrian on Miles Dagouter[2]
 
 The [[Lord Ruler\|Lord Ruler]] used this ability extensively, as he was both [[Allomancy\|Mistborn]] and a full [[Feruchemist\|Feruchemist]], so he could Compound in every metal. He would age briefly to store youth in [[Atium\|atium]] and then burn it to effectively live forever. He used gold Compounding to heal very rapidly, leading to rumors that he survived flaying and decapitation. [[Miles Dagouter\|Miles Dagouter]] also used gold Compounding to heal himself incredibly fast with an effectively limitless supply of health--hence his nickname, Miles Hundredlives. [[Marsh\|Marsh]] is able to Compound atium due to abilities granted by his [[Hemalurgic\|Hemalurgic]] spikes. Using the bag of atium taken from [[KanPaar\|KanPaar]], Marsh has remained alive by performing the same age trick as the Lord Ruler.
-During the [[Final Empire\|Final Empire]], [[Steel Inquisitor\|Steel Inquisitors]] did not Compound, though it was sometimes possible for them to figure it out. Compounding is one potential reason the Lord Ruler persecuted Feruchemists so extensively--he did not want Feruchemists to mix with Allomancers and create more Compounders.
+During the [[Final Empire\|Final Empire]], [[Steel Inquisitor\|Steel Inquisitors]] did not Compound, though it was sometimes possible for them to figure it out. Compounding is one potential reason the Lord Ruler persecuted Feruchemists so extensively--he did not want Feruchemists to mix with Allomancers and create more Compounders. Compounding is inaccessible to any Hemalurgist made after Preservation and Ruin merged.
 
 ## Limitations and Dangers
 >“*However, Feruchemy gives decreasing returns—it takes more than the proportionate amount of strength, for instance, to make yourself four times as strong as a regular man, as opposed to simply twice as strong. In the Lord Ruler's case, this meant that he had to spend more and more youth to keep from aging.*”
@@ -41,6 +43,10 @@ To perform Compounding, the metalminds themselves must be burned. Thus a person 
 Compounding is also only possible with a metalmind that is not "locked" by Spiritual Identity--that is, the metalmind must either have been created by the user himself or it must be "unkeyed". Any Allomancer is technically capable of Compounding--even without Feruchemical abilities--if the metalmind has been "unkeyed" by means of Feruchemical Aluminum.
 According to rumor, Miles Dagouter would constantly tap his metalminds for healing. Waxillium took this to confirm his suspicions that Compounding could be dangerous to stop once started--presumably because the Compounder's body comes to rely on the stores provided. This suggests that Compounding often leads to [[Savant\|savanthood]].
 
+## Notable Compounders
+[[Rashek\|Rashek]]
+[[Marsh\|Marsh]] (an atium Compounder)
+[[Miles Dagouter\|Miles Dagouter]] (a gold Compounder)
 
 
-https://coppermind.net/wiki/Compounding
+https://coppermind.net/wiki/Compound

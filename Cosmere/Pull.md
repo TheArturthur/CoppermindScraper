@@ -2,11 +2,11 @@
 |-|-|
 |**Died**|341 [[Catacendre\|PC]]|
 |**Abilities**|Lurcher|
-|**Groups**|[[Set\|Set]]🐱︎, [[Vanishers\|Vanishers]]🐱︎|
+|**Groups**|[[Set\|Set]], [[Vanishers\|Vanishers]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*The Alloy of Law*|
 
 For the Allomantic action of iron known as Pulling, see Iron.
 **Pull** is the pseudonym of a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]]. He is a [[Lurcher\|Lurcher]] that also works with the [[Vanishers\|Vanishers]].

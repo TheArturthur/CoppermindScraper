@@ -1,9 +1,8 @@
 |**Hershel Black**|
 |-|-|
 |by  Potato-sunrise |
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -18,27 +17,26 @@ Hershel refuses to share the story of how he lost his leg with any other Reckone
 ## Contents
 
 1 Appearance and Personality
-2 Abilities and Attributes
-3 History
+2 History
 
-3.1 Early Life
-3.2 In Special Forces
+2.1 Early Life
+2.2 In Special Forces
 
-3.2.1 Mission in Siberia
-
-
-3.3 Galveston
-3.4 Infiltration of Lux
-3.5 Aftermath
+2.2.1 Mission in Siberia
 
 
-4 Relationships
+2.3 Galveston
+2.4 Infiltration of Lux
+2.5 Aftermath
 
-4.1 Jax
-4.2 Wife
+
+3 Relationships
+
+3.1 Jax
+3.2 Wife
 
 
-5 Notes
+4 Notes
 
 
 ## Appearance and Personality
@@ -48,11 +46,10 @@ Hershel refuses to share the story of how he lost his leg with any other Reckone
 
 Though he is in his forties, Hershel is still well built and muscular. He is gruff and stoic, and maintains a serious air which can conceal his sense of humor. He does not have much sympathy for people other than his close friends, and sometimes doesn’t think about the ramifications of his actions. However, he does still occasionally show mercy towards his enemies. He is good at reading people, and thus enjoys playing poker. He likes listening to classical music, though he would never let anyone know about it.
 
-## Abilities and Attributes
 ## History
 ### Early Life
 >“*You had a mom? I don’t know. I always figured that, you know, one day, about million years ago, a big ugly rock fell from a rock tree and broke in half, and you crawled out of it.*”
-\-Wade[8]
+\-Wade to Hershel[8]
 
 
 Not much is known about Hershel’s early life, but he used to love going to the  with his mom and visiting all of the animals there.
@@ -62,7 +59,6 @@ Hershel Black served for many years in the Special Forces. He participated in ma
 
 >“*I ain’t the religious type, but if anyone were to ask me what the pit of hell looked like, I’d tell them it was the Cameron Park Zoo.*”
 \-Hershel[8]
-
 
 Hershel once had an assignment where he and his squad had to go the Cameron Park Zoo, where all the animals had been horribly mutated by an Epic named [[Feral\|Feral]]. Hershel and his men had to put them down, though it was difficult.
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Owners**|[[Trapper\|Trappers]]|
 |**Region**|[[Pantheon\|Pantheon]]|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Safecamps** are specially-designed shelters used by [[Trapper\|trappers]] in the islands of the [[Pantheon\|Pantheon]] on [[First of the Sun\|First of the Sun]].
 

@@ -1,13 +1,12 @@
 |**XinWey's Doctrine**|
 |-|-|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* The most essential morality of mankind is to create the greatest amount of happiness among the greatest number of people while using the least amount of resources.*”
 \-XinWey's Doctrine[1]
 
 
-**XinWey's Doctrine** is the guiding force behind the [[State\|States]]. It is a set of rules, from ancient times, and are believed to have served human kind well.
+**XinWey's Doctrine** is the guiding force behind the [[State\|States]]. It is a set of rules, from ancient times, and are believed to have served humankind well.
 
 ## Contents
 

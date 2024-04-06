@@ -2,14 +2,13 @@
 |-|-|
 |**Aliases**|Lin|
 |**Profession**|Merchant|
-|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]🐱︎|
+|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
-**Philen Frandeu** (originally **Lin**) is a [[Skaa\|skaa]] merchant on [[Scadrial\|Scadrial]] who holds one of the eight merchant seats on the the [[Luthadel Assembly\|Luthadel Assembly]]. He looks down on non-merchant skaa and changes his name after the [[Collapse\|Collapse]] to make it sound more like a [[Noble\|noble's]].
+**Philen Frandeu** (originally **Lin**) is a [[Skaa\|skaa]] merchant on [[Scadrial\|Scadrial]] who holds one of the eight merchant seats on the [[Luthadel Assembly\|Luthadel Assembly]]. He looks down on non-merchant skaa and changes his name after the [[Collapse\|Collapse]] to make it sound more like a [[Noble\|noble's]].
 
 ## Contents
 

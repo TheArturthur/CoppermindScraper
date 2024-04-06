@@ -1,11 +1,10 @@
 |**Ten Deaths**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
->“* Fighting, even this fighting against the Ten Deaths, changes a person.*”
-\- A Stoneward in the Starfalls vision, the only known reference to the Ten Deaths[1]
+>“*Fighting, even this fighting against the Ten Deaths, changes a person.*”
+\-A Stoneward in the Starfalls vision, the only known reference to the Ten Deaths[1]
 
 
 The **Ten Deaths** is the name given to an unknown force on [[Roshar\|Roshar]] that existed at some point prior to the [[Day of Recreance\|Day of Recreance]]. They were enemies of the [[Knights Radiant\|Knights Radiant]] and included the [[Midnight Essence\|Midnight Essence]].

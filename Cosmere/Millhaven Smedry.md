@@ -1,11 +1,13 @@
 |**Millhaven Smedry**|
 |-|-|
 |**Family**|[[House Smedry\|House Smedry]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*The Shattered Lens*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Millhaven Smedry** is an uncle of [[Alcatraz Smedry\|Alcatraz Smedry]].
 According to [[Bastille\|Bastille]], it wasn't odd that Millhaven married a [[Mokian\|Mokian]].
+
+## Trivia
+His name is likely a reference to the  in Ontario.
 
 
 

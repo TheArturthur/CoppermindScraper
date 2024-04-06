@@ -1,9 +1,10 @@
 |**Hidden Guard**|
 |-|-|
 |**Founders**|[[Set\|The Set]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Hidden Guard** is a group of red-uniformed people that work within the [[Set\|Set]].
 While their main function may be to serve as guards to high-ranking members of the Set, such as [[Telsin\|Telsin]] and [[Edwarn Ladrian\|Edwarn Ladrian]], they may also serve in other roles, such as technicians. They are very respectful of the ranking members of the Set, referring to them formally and saluting their orders. [[Fed\|Fed]] may be a member of the Hidden Guard.

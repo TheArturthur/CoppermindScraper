@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|Killed by [[Devinshae\|Devinshae]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Kareien** was a [[Skaa\|skaa]] slave on Lord [[Devinshae\|Devinshae's]] plantations in the [[Final Empire\|Final Empire]].
 She was in a relationship with [[Dockson\|Dockson]]. Dockson had sneaked between skaa hovels to spend time with her, and other skaa protected them from the taskmasters, as Dockson was not to be out after dark. He had braved the mists for her. Kareien and Dockson's relationship gave hope to the skaa at the Devinshae plantation, and helped them get over their superstition of the mists.

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Steward|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Oh, Lord Ladrian, your mother would be so pleased to see this day! She did so hope that you'd marry a fine lady someday. You should have heard how she worried, all those years.*”
 \-Miss Grimes to Waxillium Ladrian on his impending betrothal to Steris Harms[1]

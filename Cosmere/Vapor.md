@@ -4,10 +4,10 @@
 |**Profession**|Superiority pilots|
 |**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
 |**Species**|[[Figment\|Figment]]|
-|**World**|Starsight (space station)|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
-This page or section needs to be updated with new information for *Starsight*!Be aware that in its current state, it may not include all additional content yet.
+
+This page or section needs to be updated with new information for *Starsight* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Luck is for those who cannot smell their path forward.*”
 \-Vapor[1]

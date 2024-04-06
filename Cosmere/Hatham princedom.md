@@ -1,10 +1,9 @@
 |**Hatham princedom**|
 |-|-|
 |**Ruler**|Highprince [[Hatham\|Hatham]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Hatham princedom** is one of ten [[Alethi\|Alethi]] princedom's that form [[Alethkar\|Alethkar]]. Hatham's house colors may be gold and red.
 

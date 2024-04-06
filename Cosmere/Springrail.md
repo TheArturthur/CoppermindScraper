@@ -1,8 +1,7 @@
 |**Springrail**|
 |-|-|
 |**Related to**|Railcraft|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Springrail** is a form of spring-loaded clockwork-driven monorail used to travel around the [[United Isles of America\|United Isles of America]].
 Springrails are the primary form of transportation between islands. On many islands, the springrail station is an important location. On some islands, the station is located right next to that island’s Rithmatic school, if they have one. Springrail ticket have gotten cheaper over time, with one silver penny now being enough to buy a one. [[Trent Saxon\|Joel's father]] allegedly died in a springrail accident.

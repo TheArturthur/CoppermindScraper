@@ -1,7 +1,6 @@
 |**Motivator**|
 |-|-|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -123,4 +122,4 @@ Created by the [[Knighthawk Foundry\|Knighthawk Foundry]] from the cells of Prof
 
 
 
-https://coppermind.net/wiki/Epic-based_technologies
+https://coppermind.net/wiki/Fathom_radar

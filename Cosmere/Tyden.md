@@ -2,9 +2,8 @@
 |-|-|
 |**Spouse**|[[Carlee\|Carlee]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Tyden** is a [[Noble\|nobleman]] in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 

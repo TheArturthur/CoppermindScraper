@@ -3,9 +3,8 @@
 |**Died**|c. 319 [[Catacendre\|PC]]|
 |**Profession**|Laborer|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*The loan will help us move up, get a place out of the slums. I have three sons. We'll work hard, I promise you we will.*”
 \-Jendel to Edwarn Ladrian.[1]

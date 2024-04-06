@@ -1,9 +1,8 @@
 |**Heraldic Forces**|
 |-|-|
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
 It has been suggested that this page be merged into [[War for Heaven\|War for Heaven]] (which may itself be merged to [[Vorinism\|Vorinism]]).The information on this page is much better suited to be included on other pages.

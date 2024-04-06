@@ -1,9 +1,8 @@
 |**Chaz**|
 |-|-|
-|**World**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
-|**Featured In**|*Snapshot*|
+|**Homeworld**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
 
-**Chaz** is a police officer in [[New Clipperton\|New Clipperton]] who partners with [[Anthony Davis\|Davis]] in the [[Snapshot (event)\|Snapshots]]. He worked as a traffic officer in Mexico City and New Clipperton for less than a year before being transferred to Snapshot duty replacing Davis's retiring partner. 
+Detective Chavez, known as **Chaz**, is a police officer in [[New Clipperton\|New Clipperton]] who partners with [[Anthony Davis\|Davis]] in the [[Snapshot (event)\|Snapshots]]. He worked as a traffic officer in Mexico City and New Clipperton for less than a year before being transferred to Snapshot duty replacing Davis's retiring partner. 
 Chaz sneaks off to sleep with [[Molly (Snapshot)\|Molly]], Davis's ex-wife, whenever Davis spends time with [[Hal Davis\|Hal]].
 
 ## Appearance & Personality

@@ -3,9 +3,8 @@
 |**Type**|Plant|
 |**Used for**|Antiseptic|
 |**Native to**|Shattered Plains|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Knobweed** is a fairly common reed that grew outside the [[Alethi\|Alethi]] warcamps near the [[Shattered Plains\|Shattered Plains]] on [[Roshar\|Roshar]] and likely other locations.
 

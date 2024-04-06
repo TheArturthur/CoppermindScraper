@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[Azir\|Azir]]|
 |**Type**|National leader|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -28,7 +27,7 @@ The full title of the current Prime Aqasix is as follows:
 
 
 ## Election process
-To be elected Prime Aqasix, prospective candidates are each allowed to submit paperwork to convince the [[Vizier\|vizierate]] as a whole that they are worthy of the position. Only the scions, the priests, are not able to apply, as they are traditionally visiting and blessing the settlements of the nation. The selection process is symbolically done in the presence of the new Prime, as the [[Azir\| Azish]] believe they are never without one. Therefore, the election is, in truth, a way of finding out who the current Prime is.
+To be elected Prime Aqasix, prospective candidates are each allowed to submit paperwork to convince the [[Vizier\|vizierate]] as a whole that they are worthy of the position. Only the scions (the priests) are not able to apply, as they are traditionally visiting and blessing the settlements of the nation. The selection process is symbolically done in the presence of the new Prime, as the [[Azir\| Azish]] believe they are never without one. Therefore, the election is, in truth, a way of finding out who the current Prime is.
 The essays of all candidates are judged together by a large assembly of viziers and scions. After everyone reads through all the essays, a debate ensues where the electors propose their candidates and discuss their merits, with the scions providing a theological and religious perspective on the matter. The viziers who applied are permitted to be present, and are free to argue for themselves. At the end of the discussion, a vote occurs, with the winner being proclaimed the new Prime.
 On special occasions, a person can be said to have applied not through their essay, but rather through their actions, or through an omen from the [[Herald\|Kadasixes]]. One such occasion occurred when [[Yanagawn\|Yanagawn]] was elected - while he was illiterate, and robbing the palace at the time, his miraculous return from the dead was judged by the scions to be a sign that he would be the perfect ruler for the troubling times, as several of his predecessors had been assassinated.
 
@@ -51,4 +50,4 @@ The office of the Prime Aqasix is an old one, dating at least as far back as the
 [[Yanagawn\|Yanagawn]] the First - the current Prime, former thief who was pronounced the Prime while attempting to rob the palace.
 
 
-https://coppermind.net/wiki/Prime
+https://coppermind.net/wiki/Prime_Aqasix

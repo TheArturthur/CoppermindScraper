@@ -1,12 +1,12 @@
 |**Vahr**|
 |-|-|
-|**Died**|In [[God King\|God King's]] dungeons by [[Vasher\|Vasher]] using an awakened red scarf.|
+|**Died**|In [[God King\|God King's]] dungeons by [[Vasher\|Vasher]] using an Awakened red scarf|
 |**Abilities**|[[Awakener\|Awakener]]|
 |**Titles**|Rebel leader|
 |**Nationality**|[[Pahn Kahl\|Pahn Kahl]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 >“*Keep your part of the bargain.*”
 \-Vahr, asking Vasher to kill him[1]
@@ -58,14 +58,14 @@ Bluefingers, whose own plans for rebellion were already in motion, was irked by 
 Vahr was kept in a special cell for [[Awakener\|Awakeners]]. The walls had been drained of all color, and he was gagged and hung by his arms from the ceiling with metal chains so he had no ability to Awaken anything. Vahr's Breath was so valuable that the government of Hallandren did not want to execute him before he gave it to them. There they spent two weeks torturing him by beating, burning, and cutting him.
 As Vahr's Idrian supporters had never been terribly loyal, they quickly abandoned the cause when he was captured. However, a few, like Grable, remained loyal to Vahr despite his imprisonment. Vahr's army was dispersed, but many still wished to see Hallandren overthrown.
 
- by  CarloswkArt  [[Vasher\|Vasher]] stealing Vahr's [[Breath\|Breath]] before killing him
+ by  CarloswkArt  [[Vasher\|Vasher]] receiving Vahr's [[Breath\|Breaths]] before killing him
 ### Death
-Upon hearing of Vahr's capture, Vasher saw an opportunity he had been waiting two years for. He needed more Breath to continue to live much longer as well as to fight. Vasher picked a fight at a bar and punched a priest, landing him in the God King's jail awaiting execution. Vasher Awakened a small man of straw to fetch him the cell keys after Nightblood disposed of the guards. He then went to Vahr's cell and offered to kill Vahr in exchange for Vahr's Breath. After Vasher pointed out that Vahr was unlikely to stand much more of the God King's torturers and promised that Vahr's enemies would not get the Breath, Vahr acquiesced and gave Vasher the Breath. Vasher then Awakened a scarf, used the command "Strangle Things", which choked Vahr to death.
+Upon hearing of Vahr's capture, Vasher saw an opportunity he had been waiting two years for. He needed more Breath to continue to live much longer as well as to fight. Vasher picked a fight at a bar and punched a priest, landing him in the God King's jail awaiting execution. Vasher Awakened a small man of straw to fetch him the cell keys after Nightblood disposed of the guards. He then went to Vahr's cell and offered to kill Vahr in exchange for Vahr's Breath. After Vasher pointed out that Vahr was unlikely to stand much more of the God King's torturers and promised that Vahr's enemies would not get the Breath, Vahr acquiesced and gave Vasher the Breath. Vasher then Awakened a scarf and used the command "Strangle Things", which choked Vahr to death.
 
 ### Legacy
 While Vahr ultimately failed in his goal to overthrow the government of Hallandren, the people did not forget his promises. When [[Vivenna\|Vivenna]] was unknowingly fomenting insurrection, the memory of Vahr's oaths was still fresh in their minds, so they listened and became more rebellious.
 However, the Idrian crime lords had lost a lot of money to Vahr's failure, and were hesitant to listen to her proposition, so Denth lost their support in his quest to get Idris and Hallandren to go to war with one another. Denth did however have the men attacking merchant caravans disguised to appear to be members of Vahr's broken army.
-Vahr's defeat made Hallandran focus more on their enemies, primarily Idris, so relations deteriorated even further. This also contributed to [[Dedelin\|King Dedelin's]] decision to send one of his daughters in fulfillment of his contract with [[Susebron\|Susebron]]. Idris's main general, [[Yarda\|Yarda]], hoped to rile up whatever remained of Vahr's rebel army, as a few still remained.
+Vahr's defeat made Hallandren focus more on their enemies, primarily Idris, so relations deteriorated even further. This also contributed to [[Dedelin\|King Dedelin's]] decision to send one of his daughters in fulfillment of his contract with [[Susebron\|Susebron]]. Idris's main general, [[Yarda\|Yarda]], hoped to rile up whatever remained of Vahr's rebel army, as a few still remained.
 Vahr also furnished Vasher with hundreds of Breaths, ensuring Vasher's continued life and giving him enough power to once again perform complex Awakenings.
 
 ## Trivia

@@ -2,13 +2,12 @@
 |-|-|
 |**Profession**|Pirate|
 |**Species**|[[Resonant\|Resonant]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
-**Dllllizzzz** is a [[Resonant\|resonant]] pirate in the [[Belt\|belt]] of the [[Nowhere\|nowhere]].
+**Dllllizzzz** is a [[Resonant\|resonant]] pirate in the [[Belt\|belt]] of the [[Nowhere\|nowhere]]. Dllllizzzz is a good friend of [[Shiver\|Shiver]], and is extremely loyal to [[Peg\|Peg]].
 
 
 

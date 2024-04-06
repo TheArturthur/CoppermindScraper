@@ -8,13 +8,11 @@
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]] , [[Highprince of Information\|Highprince of Information]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
-
-**Aladar** is a [[Highprince\|highprince]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. His [[Aladar princedom\|princedom]] is one of the northernmost in Alethkar, the symbol of which takes the shape of a chull. His colors are white and dark green, or black and maroon, and he commands one of the largest armies on the [[Shattered Plains\|Shattered Plains]]. His personal guard are called the [[Blackcaps\|Blackcaps]].
+**Aladar** is a [[Highprince\|highprince]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. His [[Aladar princedom\|princedom]] is one of the northernmost in Alethkar, the symbol of which takes the shape of a chull. His colors are black and maroon, and he commands one of the largest armies on the [[Shattered Plains\|Shattered Plains]]. His personal guard are called the [[Blackcaps\|Blackcaps]].
 
 ## Contents
 
@@ -28,7 +26,8 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 2.5 The Emuli campaign
 
 
-3 Notes
+3 Trivia
+4 Notes
 
 
 ## Appearance and Personality
@@ -36,7 +35,8 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-Aladar to Dalinar[4]
 
 
-Aladar is short, slender, and dark skinned with a long neck; he is also bald, though he grows a thin mustache and a tuft of hair below the lip. He is a skilled duelist. He owns a full set of [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblade]], but they are normally lent to Highlord [[Mintez\|Mintez]] for battles and duels. He prefers not to fight at the head of his army, instead leading tactically from a command tent. He likes games of chance, and [[Jasnah\|Jasnah]] considers him a good politician. He is an honest man at his core and will eventually act on what he knows to be right.
+Aladar is short, slender, and dark skinned with a long neck; he is also bald, though he grows a thin mustache and a tuft of hair below the lip. His choice of fashion and facial hair is unconventional, but as a highprince he often set trends. He is a skilled duelist. He owns a full set of [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblade]], but they are normally lent to Highlord [[Mintez\|Mintez]] for battles and duels. He prefers not to fight at the head of his army, instead leading tactically from a command tent. He likes games of chance, and [[Jasnah\|Jasnah]] considers him a good politician. He is an honest man at his core and will eventually act on what he knows to be right.
+He likes to train [[Axehound\|axehounds]].
 
 ## History
  by [[Isaac Stewart\|Isaac Stewart]] Aladar [[Glyphpair\|glyphpair]]
@@ -63,7 +63,7 @@ When the final confrontation came, Aladar was horrified at the sight of the Pars
 
 ### Urithiru
 >“*What I saw on that battlefield ... those red eyes ... Sir, I’m with you. I will follow you to the ends of the storms themselves.*”
-\-Aladar to Dalinar[20]
+\-Aladar to Dalinar[21]
 
 After the Battle of Narak, the three surviving highprinces sent word back to the warcamps to summon everyone to Urithiru. As they moved into the tower, Dalinar, Aladar, and Sebarial turned their attention to establishing Urithiru as a bastion of order in the world. Aladar was appointed [[Highprince of Information\|Highprince of Information]] and tasked with policing the city. His greatest challenge was keeping order in the [[Breakaway\|Breakaway]] market, where tens of thousands of people bought and sold in a chaotic environment, but he set up a policing station at a central dais and had at least a moderate measure of success imposing order.
 Aladar attended Dalinar and [[Navani\|Navani's]] wedding at their invitation. Later, when [[Vedekar Perel\|Vedekar Perel's]] corpse was found imitating Sadeas' manner of death, Dalinar gave [[Adolin\|Adolin]] charge over the investigation and sent him to Aladar to act as his liaison working alongside one of Aladar's policing teams. Even after Sadeas' death and [[Amaram\|Amaram's]] elevation to highprince of the Sadeas princedom, there remained great tension between Aladar's soldiers and those of Sadeas. In keeping with his staunch support of Dalinar, however, he sent word to Navani quietly requesting her seal to set [[Teft\|Teft]] free when the lieutenant was brought before his magistrates on a charge of "public intoxication on [[Firemoss\|firemoss]]."
@@ -74,17 +74,20 @@ Aladar, Dalinar, and Roion combined their forces in a plan to retake [[Kholinar\
 After this failure, the leaders of Urithiru hosted the first meeting of monarchs in the tower. The various monarchs were at first unwilling to cede enough control to each other to work together; Aladar got riled up conversing with the [[Tashikk\|Tashikki]] ambassador until Navani began doling out responsibilities predicated on each nation's strengths. After that, Aladar spoke up to offer [[Emul\|Emul]] help in its defense against [[Tukar\|Tukar]], something that he made good on in the coming weeks.
 
 >“*They didn’t care that the Blackthorn was a heretic—or even whether he usurped the throne of Alethkar. They cared that he had a plan for dealing with the enemy, long-term.*”
-\-Navani appreciating Aladar, Sebarial, Hatham, and Bethab[27]
+\-Navani appreciating Aladar, Sebarial, Hatham, and Bethab[28]
 
 Because Dalinar's restored memories of his actions at [[Rathalas\|Rathalas]] were so painful he retreated from the public for a while, four of the highprinces--including Aladar, Sebarial, [[Hatham\|Hatham]], and [[Bethab\|Bethab]], who sent his [[Mishinah\|wife]] in his stead--approached Navani with their concerns. They discussed such problems as the infrastructure of the tower, the lack of supplies and labor, and the business of Dalinar becoming highking, all while making it clear that the heart of the problem was a doubt as to Dalinar's motives and capability. During the meeting, Navani was able to allay their concerns and restored Aladar's faith, especially, in Dalinar.
 
 ### Battle of Thaylen Field
 Aladar led the meeting of monarchs in Dalinar's absence on the day Dalinar was recovered enough to attend. They discussed plans preparing for battle at [[Jah Keved\|Jah Keved]] until Dalinar realized that [[Odium\|Odium's]] forces were instead going to attack [[Thaylen City\|Thaylen City]]. The next meeting took place in Thaylen City itself, and Aladar was present to hear the various information leaks, including the translation of the [[Eila Stele\|Eila Stele]], that sought to tear apart the coalition.
 When the [[Battle of Thaylen Field\|Battle of Thaylen Field]] commenced, Aladar was still at Urithiru. He was able to counter the invading force of Parshendi along with Sebarial and Teft, the new [[Windrunner\|Windrunner]]. At the conclusion of the battle, he attended the conference that discussed tactics regarding the future.
+Following the Battle of Thaylen Field, Aladar tries to reinstate Dalinar's trust in him.
 
 ### The Emuli campaign
-During Dalinar's campaign in Emul Aladar was assigned to oversee the withdrawal in Alethkar.
+During Dalinar's campaign in [[Emul\|Emul]]. Aladar was assigned to oversee the withdrawal in Alethkar.
 
+## Trivia
+In *Words of Radiance*, Aladar's colors are described once as being "white and dark green"; this is likely a mistake, as those colors are otherwise associated with [[Torol Sadeas\|Torol Sadeas']] army, and Aladar's are otherwise consistently described as black and maroon.
 
 
 https://coppermind.net/wiki/Aladar

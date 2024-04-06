@@ -2,17 +2,16 @@
 |-|-|
 |by  botanicaxu |
 |**House Davar**|
-|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|mother]], [[Malise Gevelmar\|Malise Gevelmar]] |
+|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|mother]]|
 |**Siblings**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
 |**Born**|c. 1154|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**Ethnicity**|[[Veden\|Veden]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
-**Asha Jushu Davar** is a [[Lighteyes\|lighteyed]] [[Veden\|Veden]] on [[Roshar\|Roshar]]. He is the fourth son of [[Shallan's mother\|Brightness Davar]] and [[Lin Davar\|Lin Davar]]. His siblings are [[Helaran Davar\|Helaran]], [[Balat Davar\|Balat]], his older twin [[Wikim Davar\|Wikim]], and [[Shallan Davar\|Shallan]].
+**Asha Jushu Davar** is a [[Lighteyes\|lighteyed]] [[Veden\|Veden]] on [[Roshar\|Roshar]]. He is the fourth son of [[Shallan's mother\|Brightness Davar]] and [[Lin Davar\|Lin Davar]]. His siblings are [[Helaran\|Helaran]], [[Balat\|Balat]], his older twin [[Wikim\|Wikim]], and [[Shallan\|Shallan]].
 
 ## Contents
 
@@ -38,14 +37,14 @@
 
 ## Appearance and Personality
  by  Marie Seeberger 
-Jushu is [[Lighteyes\|lighteyed]] and presumably has the characteristic red hair of the Davar family. He grows rather plump during his periods of living in excess; he is known to drink a lot of wine. He has scars on both wrists.
-He shares some resemblance to his twin brother Wikim, but they would not be mistaken for one another. Although they both have sunken eyes, Wikim is noticeably thinner than Jushu. Jushu also wears his hair longer than Wikim and looks older than his twin. Jushu loses some weight during the Veden civil war, but he retains the same complexion and still looks much different than Wikim. In Urithiru, Jushu grows a beard, further differentiating himself from his twin.
-Jushu was a happy, smiling child, and as he grew up he remained quicker to laugh than his twin. Even in his darkest moments, he will engage in gallows humor with Shallan as a coping mechanism.
-Jushu has problems with addiction; Balat believes he was driven to vice by years of suffering their father’s brutal temper. Shallan also thinks Jushu is a good man that could not be blamed for his vices. He is addicted to gambling, and will wager anything available to him, including any gemstones in his clothing. His addiction causes him to lie and steal in order to get money or credit to fund his gambling, although he has been able to restrain himself somewhat in order to help his family. He drinks wine heavily, especially while gambling, and is also seen rubbing a plant between his fingers which is likely highly addictive [[Firemoss\|firemoss]]. Wikim believes that Jushu will inevitably destroy himself.
+Jushu is [[Lighteyed\|lighteyed]] and presumably has the characteristic red hair of the Davar family. He grows rather plump during his periods of living in excess; he is known to drink a lot of wine. He has scars on both wrists.
+He shares some resemblance to his twin brother [[Wikim\|Wikim]], but they would not be mistaken for one another. Although they both have sunken eyes, Wikim is noticeably thinner than Jushu. Jushu also wears his hair longer than Wikim and looks older than his twin. Jushu loses some weight during the [[Veden civil war\|Veden civil war]], but he retains the same complexion and still looks much different than Wikim. In [[Urithiru\|Urithiru]], Jushu grows a beard, further differentiating himself from his twin.
+Jushu was a happy, smiling child, and as he grew up he remained quicker to laugh than his twin. Even in his darkest moments, he will engage in gallows humor with [[Shallan\|Shallan]] as a coping mechanism.
+Jushu has problems with addiction; [[Balat\|Balat]] believes he was driven to vice by years of suffering [[Lin Davar\|their father]]’s brutal temper. Shallan also thinks Jushu is a good man that could not be blamed for his vices. He is addicted to gambling, and will wager anything available to him, including any gemstones in his clothing. His addiction causes him to lie and steal in order to get money or credit to fund his gambling, although he has been able to restrain himself somewhat in order to help his family. He drinks wine heavily, especially while gambling, and is also seen rubbing a plant between his fingers which is likely highly addictive [[Firemoss\|firemoss]]. Wikim believes that Jushu will inevitably destroy himself.
 
 ## Attributes and Abilities
-Jushu likes duels and wishes he could participate in them. Shallan has a fantasy in which she sees Helaran sparring with Jushu and teaching him swordsmanship, but it is not clear if this ever happened in reality.
-He has some understanding of the political machinations among Veden lighteyes.
+Jushu likes duels and wishes he could participate in them. [[Shallan\|Shallan]] has a fantasy in which she sees [[Helaran\|Helaran]] sparring with Jushu and teaching him swordsmanship, but it is not clear if this ever happened in reality.
+He has some understanding of the political machinations among [[Veden\|Veden]] [[Lighteyes\|lighteyes]].
 
 ## History
  by  zoethatcher art  With his parents and siblings
@@ -54,7 +53,7 @@ He has some understanding of the political machinations among Veden lighteyes.
 
 
 ### Early Life
-Jushu was born as Van Jushu, the youngest of the Davar brothers; he and Wikim are fifteen months older than Shallan. Little is known of his youth, but he felt that his father always favored Helaran and Shallan over his other children, and recounted that Lin only ever had curses for him. Jushu was subjected to many fits of Lin's temper, and was bitter towards his father.
+Jushu was born as Van Jushu, the youngest of the Davar brothers; he and [[Wikim\|Wikim]] are fifteen months older than Shallan. Little is known of his youth, but he felt that his father always favored [[Helaran\|Helaran]] and [[Shallan\|Shallan]] over his other children, and recounted that [[Lin\|Lin]] only ever had curses for him. Jushu was subjected to many fits of Lin's temper, and was bitter towards his father.
 Jushu believed the cover-up story that Shallan had seen Lin kill [[Shallan's mother\|his wife]], Jushu's mother. He was not aware of the true sequence of events, and was the person that comforted Shallan on the night of their mother's death. His father soon remarried, and [[Malise Gevelmar\|Malise Gevelmar]] became his stepmother.
 As Jushu became a teenager, Lin's anger and neglect took its toll, and Jushu began gambling and drinking heavily. Around 1168, he showed up drunk to a feast held by Lin for other lighteyes, which was sure to anger Lin. He was present when Shallan saw her mother's "soul" in a strongbox, although he could not see anything. About a year later, he attended another feast at the Davar estate, and engaged in some friendly banter with his siblings. After [[Redin\|Redin]] interrupted the feast seeking someone to testify against Lin, Jushu seemed to consider it, but quickly lost his nerve.
 
@@ -76,7 +75,7 @@ After their father's death, the siblings began to understand the previous source
 Shallan left Jah Keved with a plan to try and steal [[Jasnah's Soulcaster\|Jasnah's Soulcaster]] as a replacement, while Jushu helped Balat sell their possessions to keep their family afloat. Jushu's experience in selling goods stolen from Lin to fuel his gambling allowed him to "mask" the reason behind the selling. [[Jasnah\|Jasnah]] eventually learned of Shallan's predicament and sent the brothers some money while also offering [[Navani\|Navani's]] help to possibly fix their broken Soulcaster; her brothers were excited by this new plan. However, the Davar Soulcaster was lost in the sinking of the *Wind's Pleasure*.
 
 ### Move to Urithiru
-As historic events began occurring across Roshar, Shallan felt guilty about abandoning her brothers. She lost contact with them after losing her [[Spanreed\|spanreed]] on the *Wind's Pleasure* and became increasingly worried after learning of the [[Veden civil war\|Veden civil war]]. After [[Urithiru\|Urithiru]] was discovered, she wrote them a number of letters telling them to come live with her there, but she did not receive any response. Shallan eventually learned from [[Mraize\|Mraize]] that the Davar lands had fallen and that he was bringing her family to Urithiru; her service to the Ghostbloods as Veil would fulfill the debt of the broken Soulcaster.
+As historic events began occurring across [[Roshar\|Roshar]], Shallan felt guilty about abandoning her brothers. She lost contact with them after losing her [[Spanreed\|spanreed]] on the *Wind's Pleasure* and became increasingly worried after learning of the [[Veden civil war\|Veden civil war]]. After [[Urithiru\|Urithiru]] was discovered, she wrote them a number of letters telling them to come live with her there, but she did not receive any response. Shallan eventually learned from [[Mraize\|Mraize]] that the Davar lands had fallen and that he was bringing her family to Urithiru; her service to the Ghostbloods as Veil would fulfill the debt of the broken Soulcaster.
 Mraize fulfilled his promise and Jushu, Wikim, Balat, and Eylita arrived in Urithiru after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. Jushu's clothes were worn and he had lost some weight. The family reunited with Shallan and attended her wedding to [[Adolin Kholin\|Adolin Kholin]].
 Jushu and his brothers were given quarters near Shallan's in Urithiru. Shallan visited often, but she felt some regret about the way that she perceived Jushu and the rest of her family after having changed so much since leaving her childhood home. Jushu had to be watched constantly to ensure that he did not steal things and pawn them for gambling money. He unknowingly befriended Mraize, who was posing as a guardsman named Gobby.
 

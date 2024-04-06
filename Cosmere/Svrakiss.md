@@ -1,9 +1,8 @@
 |**Svrakiss**|
 |-|-|
 |**Related to**|[[Shu-Dereth\|Shu-Dereth]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The **Svrakiss** are mythological enemies of [[Jaddeth\|Jaddeth]], taught of in the religion of [[Shu-Dereth\|Shu-Dereth]] on [[Sel\|Sel]], believed to be half-ghost and half-demon.
 

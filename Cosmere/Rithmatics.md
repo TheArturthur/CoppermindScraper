@@ -2,8 +2,7 @@
 |-|-|
 |**Related to**|[[Church of the Monarch\|Church of the Monarch]]|
 |**Prerequisites**|[[Inception\|Inception]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Rithmatics** is a magic system that uses chalk. It was discovered by King [[Gregory III\|Gregory III]], Monarch in Exile of [[Britannia\|Britannia]]. Accordingly the practice of Rithmatics is heavily associated with the [[Church of the Monarch\|Church of the Monarch]], as the [[Inception\|inception]] ceremony by which ordinary people become Rithmatists take place in Monarchical churches..
 

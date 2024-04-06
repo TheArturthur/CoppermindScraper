@@ -4,9 +4,8 @@
 |**Groups**|[[Camon's crew\|Camon's crew]]|
 |**Birthplace**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Ulef** is a young skaa thief from [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]].
 

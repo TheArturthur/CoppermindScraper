@@ -1,15 +1,14 @@
 |**Brighthue**|
 |-|-|
-|**Died**|Sacrificed his [[Divine Breath\|Divine Breath]]|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Died**|Sacrificed their [[Divine Breath\|Divine Breath]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
->“*'The good ones are all already dead, Scoot,' Lightsong said. 'Calmseer, Brighthue: those were gods who would give themselves away. The rest of us are selfish. There hasn't been a petition granted in what, three years?'*”
-\-Lightsong told Llarimar[1]
+>“*The good ones are all already dead, Scoot,' Lightsong said. 'Calmseer, Brighthue: those were gods who would give themselves away. The rest of us are selfish. There hasn't been a petition granted in what, three years?*”
+\-Lightsong to Llarimar[1]
 
 
 **Brighthue** is a [[Returned\|Returned]] from [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]]. Brighthue gives their divine [[Breath\|Breath]] and dies, and because of this, [[Lightsong\|Lightsong]] holds Brighthue in high regard.

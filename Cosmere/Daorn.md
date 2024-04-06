@@ -6,9 +6,9 @@
 |**Relatives**|[[Sarene\|Sarene]], [[Teorn\|Teorn]], [[Eventeo\|Eventeo]]|
 |**Residence**|[[Kae\|Kae]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Daorn** is an [[Arelene\|Arelene]] boy on [[Sel\|Sel]].
 He is the son of [[Kiin\|Kiin]] and [[Daora\|Daora]], is the brother of [[Lukel\|Lukel]], [[Kaise\|Kaise]], and [[Adien\|Adien]], and is cousin to Sarene.
@@ -41,7 +41,7 @@ As they eat, Kaise complains that Sarene doesn’t look like a princess because 
 After explaining the Reod to Sarene, Kiin and Daora explained that they couldn’t bring themselves to hire servants and they didn’t really need to considering how much they could get done on their own. Kiin smiled and said it was especially true when you had kids to do the dirty jobs. They joked that they had Daorn because they needed another couple of hands to help wash chamber pots. A short time later, Ashe appeared to Sarene and Daorn was shocked that she had a seon.
 
 ### Sibling Rivalry
- by  botanicaxu  With his siblings
+ by  botanicaxu  Daorn (bottom) with his siblings
 When Sarene joined them the next night for dinner, Daorn was noticeably trying to act more mature than his sister. The conversation was much different than the night before with Kaise attempting to sound educated and Daorn grumbling, telling her to stop showing off. He argued with her point, to which Kiin told them both to stop.
 Kaise scowled and sat back mumbling incoherently. Sarene asked what she was saying and Daorn informed her Kaise was cursing in JinDo. He confessed that she always does that when she loses an argument. They shared how many languages Kaise spoke and Sarene commented just how informed both Daorn and Kaise were. Lukel told her to not to be impressed as their tutors had been covering art history lately and they both had been trying to prove they can outdo the other.
 Kaise mumbled something else and Kiin asked her what she said. She admitted that if the prince had been there, he would have taken her side. Daorn told Kaise the prince was just sounding like he agreed with her, that it was called sarcasm. Kaise stuck her tongue out at her brother and said that the prince thought she was beautiful, that he loved her, and that he was waiting until she grew up to marry her. Daorn scowled and said he wouldn’t have married her, as he married Sarene. Kiin, seeing Sarene’s face fall, hushed both children.
@@ -68,7 +68,7 @@ When the monks of the Dakhor Monastery, led by Dilaf, attacked the city of Kae, 
 
 ## Relationships
 ### Kaise
-Kaise is Daorn's sister. The two are often called twins by their half-brother Lukel, much to their dismay. The two are very competitive, with Kaise often trying to prove herself as more educated than Daorn. While Kaise tends to be more outspoken, Daorn tends to be more soft spoken. Lukel sometimes felt sorry for Daorn because Kaise tended to be more domineering, despite Daorn's best intentions to match his sister.
+Kaise is Daorn's sister. The two are often called twins by their half-brother Lukel, much to their dismay. The two are very competitive, with Kaise often trying to prove herself as more educated than Daorn. While Kaise tends to be more outspoken, Daorn tends to be more soft spoken. Lukel sometimes feels sorry for Daorn because Kaise tended to be more domineering, despite Daorn's best intentions to match his sister.
 
 
 

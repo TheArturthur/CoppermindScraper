@@ -4,9 +4,9 @@
 |**Abilities**|[[Regal\|Forms of Power]]|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*I'd like them to understand how easily I could have cracked their skulls. But ... that was well done. I guess I’m glad I didn’t have to rip anyone apart.*”
 \-Melu to Eshonai[2]

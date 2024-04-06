@@ -4,9 +4,8 @@
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
 |**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Order of Edgedancers\|Edgedancers]]|
 |**Aliases**|Vedeledev, Vev|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vedel**, also known as **Vedeledev** in [[Vorinism\|Vorinism]], is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]], and the patron Herald of the [[Order of Edgedancers\|Order of Edgedancers]]. Like the other Heralds, Vedel protected mankind during the Cycle of [[Desolation\|Desolations]] before abandoning them at [[Aharietiam\|Aharietiam]].
 
@@ -22,7 +21,7 @@
 ## Appearance and History
  by  Esther Schrader 
 For more images, see [[Vedel/Gallery\|/Gallery]].
-Vedel would appear as [[Alethi\|Alethi]] to modern Rosharans. She was born on [[Ashyn\|Ashyn]] and made the trip to Roshar during the [[Expulsion\|Expulsion]]. She was someone important in the pre-[[Desolation\|Desolations]] society -- a queen, scholar, or general. Along with the others, she approached [[Honor\|Honor]] and formed the [[Oathpact\|Oathpact]]. Whenever a Desolation ended, she'd travel along with them to [[Braize\|Braize]], when she suffered torture until one of them broke. She broke at least once, starting a new Desolation.
+Vedel would appear as [[Alethi\|Alethi]] to modern Rosharans. She was born on [[Ashyn\|Ashyn]] and made the trip to Roshar during the [[Expulsion\|Expulsion]]. She was someone important in the pre-[[Desolation\|Desolations]] society -- a queen, scholar, or general. Along with the others, she approached [[Honor\|Honor]] and formed the [[Oathpact\|Oathpact]]. Whenever a Desolation ended, she'd travel along with them to [[Braize\|Braize]], where she suffered torture until one of them broke. She broke at least once, starting a new Desolation.
 While on Roshar, she would train surgeons in anticipation of the incoming Desolation. Once the [[Knights Radiant\|Knights Radiant]] formed, she admitted patronage of the [[Order of Edgedancers\|Order of Edgedancers]]. At the time of the [[Last Desolation\|Last Desolation]], Vedel decided with the other Heralds to give up the Oathpact and leave [[Taln\|Taln]] alone on Braize. It is not known where she went or what she's been doing during the [[Era of Solitude\|Era of Solitude]].
 
 
@@ -30,7 +29,7 @@ While on Roshar, she would train surgeons in anticipation of the incoming Desola
  by  Shuravf 
 For more information about Heralds' powers, see Herald#Abilities.
 Vedel is a [[Herald\|Herald]], making her a [[Cognitive Shadow\|Cognitive Shadow]] and thus immortal. When she dies, she returns to [[Braize\|Braize]] to be tortured. Until [[Aharietiam\|Aharietiam]], she wielded a [[Honorblade\|Honorblade]], which gave her access to the [[Surge\|Surges]] of [[Abrasion\|Abrasion]] and [[Progression\|Progression]], and she was a capable swordswoman.
-She might've been a doctor before she became a Herald, as she has vast medical knowledge, and trained new surgeons before a Desolation. It's likely that a lot of the Heralds' teachings regarding medicine -- such as the mandate to always wash hands before an operation -- came from her.
+She may have been a doctor before she became a Herald, as she has vast medical knowledge, and trained new surgeons before a Desolation. It's likely that a lot of the Heralds' teachings regarding medicine -- such as the mandate to always wash hands before an operation -- came from her.
 
 ## Culture
  by [[Isaac Stewart\|Isaac Stewart]] Vedel's chapter icon
@@ -45,4 +44,4 @@ Brandon has compared the golden keys to the Biblical flaming sword that's said t
 Vedel's portrait used in the chapter arches is called the Healer by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
 
 
-https://coppermind.net/wiki/Vedel
+https://coppermind.net/wiki/Vedeledev

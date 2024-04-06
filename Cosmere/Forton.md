@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Apothecary|
 |**Nationality**|[[Hrovell\|Hrovell]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*My true payment is the knowledge I have served Lord Jaddeth*”
 \-Forton to Hrathen[1]

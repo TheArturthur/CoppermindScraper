@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[Stormwarden\|Stormwardens]]|
 |**Type**|Science|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I suggest, that the ratio of the gears used in the lift machinery might be indicative of the nature of those who built it. It is the science of digitology, you see. You can judge much about a man by the width of his fingers.*”
 \-Elthebar[1]

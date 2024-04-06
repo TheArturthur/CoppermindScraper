@@ -1,12 +1,11 @@
 |**Wiestlow**|
 |-|-|
-|**Region**|[[Southern Scadrial\|Southern Scadrial]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Southern Scadrial\|Southern Scadrial]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Bands of Mourning*|
 
-**Wiestlow** is a settlement in Southern [[Scadrial\|Scadrial]].
-It is where [[Allik Neverfar\|Allik Neverfar]] is from.
+**Wiestlow** is a settlement in [[Southern Scadrial\|Southern Scadrial]], presumably located in the Malwish nation. People from Wiestlow have a distinct accent.
+It is the hometown of [[Allik Neverfar\|Allik Neverfar's]] family.
 
 
 

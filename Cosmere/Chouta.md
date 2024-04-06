@@ -4,11 +4,10 @@
 |**Ingredients**|Flatbread, meat, sauce|
 |**Type**|Street food|
 |**Origin**|[[Herdaz\|Herdaz]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Chouta** is a street food from [[Herdaz\|Herdaz]] on [[Roshar\|Roshar]]. It consists of fried flatbread wrapped tightly around fried meat and sauce, and can be carried in one hand and eaten while doing other things.
+**Chouta** is a street food that is originally from [[Herdaz\|Herdaz]] on [[Roshar\|Roshar]] but has also gained popularity off-world, at least on [[Scadrial\|Scadrial]]. It consists of fried flatbread wrapped tightly around fried meat and sauce, and can be carried in one hand and eaten while doing other things.
 
 ## Contents
 
@@ -24,6 +23,7 @@ The flatbread used in chouta is very thick. The meat often used in the warcamps 
 ## History
 [[Lopen\|Lopen]] introduced [[Bridge Four\|Bridge Four]] to chouta in the warcamps. [[Kaladin\|Kaladin]] initially thought it looked disgusting, but [[Sigzil\|Sigzil]] and [[Rock\|Rock]] tried it and enjoyed it. Kaladin eventually broke down and bought some chouta from a street vendor; he was annoyed to discover that he actually liked it. The love of chouta spread throughout Bridge Four, and [[Teft\|Teft]], [[Skar\|Skar]], [[Leyten\|Leyten]], and [[Drehy\|Drehy]] were all later seen eating it.
 Chouta was sold at a tavern in [[Kholinar\|Kholinar]] visited by [[Hoid\|Hoid]] and [[Shallan\|Shallan]]. It was also commonly eaten in [[Urithiru\|Urithiru]].
+By 348 [[Catacendre\|PC]], chouta was readily available in northern [[Scadrial\|Scadrial]]; [[Wayne\|Wayne]] got some very greasy chouta at a food stand in [[Bilming\|Bilming]] while he, [[Wax\|Wax]], and [[Marasi\|Marasi]] were investigating [[Maraga\|Maraga]]. [[Wax\|Wax]] thought it looked disgusting, but [[Wayne\|Wayne]] argued that that was how street food should look.
 
 ## Trivia
 [[Brandon Sanderson\|Brandon Sanderson]] has noted that chouta are not inspired by burritos and are closer to "deep-fried meatballs in a ". Brandon is fascinated by the rapid development of portable street food during the industrial revolution, and devised chouta to reflect this concept.

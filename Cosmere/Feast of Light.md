@@ -1,9 +1,8 @@
 |**Feast of Light**|
 |-|-|
 |**Related to**|Honorspren|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **Feast of Light** is a gathering, party, or event that at least [[Honorspren\|honorspren]], and perhaps other varieties of [[Spren\|spren]], go to.
 It is unclear what such a feast entails. Judging from its name, it could involve [[Stormlight\|Stormlight]].

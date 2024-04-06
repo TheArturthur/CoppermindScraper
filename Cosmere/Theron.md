@@ -3,9 +3,8 @@
 |**Died**|1022 [[Final Empire\|FE]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*"The obligator is nearly here. Are you ready?"*
 \- "Everything is perfect. Leave me be, Theron! Go back to your room and wait."
@@ -15,7 +14,7 @@
 
 ## Appearance and Personality
 Theron is a tall man who wears a simple grey shirt and slacks. He keeps a thins sword tied around his waist.
-Like most thieves, Theron doesn't trust anyone. He likely would have betrayed [[Camon\|Camon]] if given the chance, but Camon betrays him he had a chance.
+Like most thieves, Theron doesn't trust anyone. He likely would have betrayed [[Camon\|Camon]] if given the chance, but Camon betrays him first.
 [[Vin\|Vin]] nearly had to use her Luck on Theron to get him to stop running his eyes up and down her body.
 
 ## History

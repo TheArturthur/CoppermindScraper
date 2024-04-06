@@ -2,8 +2,7 @@
 |-|-|
 |**Skills**|Forensic investigation|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Ngozi** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]].
 She's a tall Nigerian woman and a forensic investigator. She had been educated at Oxford university and had a phobia of germs.

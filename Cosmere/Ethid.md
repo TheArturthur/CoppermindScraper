@@ -1,11 +1,10 @@
 |**Ethid**|
 |-|-|
 |**Profession**|Scion & Scholar|
-|**Groups**|[[Veristitalian\|Veristitalian]]🐱︎s|
+|**Groups**|[[Veristitalian\|Veristitalians]]|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ethid** is a scion in [[Azir\|Azir]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 Scion Ethid likely spent much time wandering from village to village in Azir, blessing each of them. In 1173, Scion Ethid attended the holy conclave in the [[Bronze Palace\|Bronze Palace]] of [[Azimir\|Azimir]] to choose a new [[Prime Aqasix\|Prime Aqasix]]. Ethid was asked by a [[Vizier\|vizier]] to write a prayer of guidance to [[Yaezir\|Yaezir]] asking for help choosing the correct Prime, as the previous two had been assassinated by the [[Szeth\|One All White]].

@@ -3,9 +3,9 @@
 |**Abilities**|[[Elantrian\|Elantrian]]|
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 For the character in *Legion: Skin Deep*, see [[Dion Maheras\|Dion Maheras]].
 **Dion** is a resident of New Elantris in [[Arelon\|Arelon]] on [[Sel\|Sel]].

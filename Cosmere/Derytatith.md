@@ -1,10 +1,9 @@
 |**Derytatith**|
 |-|-|
 |**Type**|Mountain|
-|**Region**|[[Terris\|Terris]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Terris\|Terris]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*That must be the Well returning to power, it is fortunate that I know where to find it. My research has revealed the location, Lady Vin.*”
 \-Sazed to Vin and Elend[1]

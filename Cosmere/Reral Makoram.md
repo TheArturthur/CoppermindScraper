@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Soldier, likely officer|
 |**Groups**|Sadeas army|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Reral Makoram** is a [[Lighteyed\|lighteyed]] member of the sixth battalion in Sadeas's army on the [[Shattered Plains\|Shattered Plains]], likely its commanding officer.
 

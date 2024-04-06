@@ -3,9 +3,8 @@
 |**Leader**|[[Judy Ivans\|Judy Ivans]]|
 |**Headquarters**|[[Alta Base\|Alta Base]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Hope Flight** is a group of [[DDF\|DDF]] pilots who participated in the [[Battle of Alta\|Battle of Alta]]. There were originally eight members in the flight, with [[Judy Ivans\|Judy Ivans]], callsign: Ironsides, as their leader. [[Chaser\|Chaser]], [[Spensa\|Spensa's]] father, was part of Hope Flight.
 

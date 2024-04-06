@@ -2,8 +2,7 @@
 |-|-|
 |**Related to**|[[Rithmatics\|Rithmatics]]|
 |**Type**|Religion|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*The Master gave life to the lifeless. We are the lifeless now, needing his atoning grace to restore light and life to us.*”
 \-Father Stewart[1]

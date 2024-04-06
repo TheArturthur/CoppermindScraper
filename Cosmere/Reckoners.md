@@ -1,7 +1,6 @@
 |**Reckoners**|
 |-|-|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This article is about the group of characters. For the series of books, see [[The Reckoners\|The Reckoners]].
 The **Reckoners** are a group of freedom fighters on [[Earth (Reckoners)\|Earth]]. They fight the tyranny of the [[Epic\|Epics]].

@@ -2,9 +2,9 @@
 |-|-|
 |**Abilities**|[[Fused\|Fused]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“* Though you are the children of traitors, your war here is to be commended. You faced our hereditary enemies and gave no quarter, even when doomed.*”
 \- Hariel to Venli[1]

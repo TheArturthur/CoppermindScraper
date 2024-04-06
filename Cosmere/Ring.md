@@ -1,9 +1,8 @@
 |**Ring**|
 |-|-|
 |**Type**|Council|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Ring** is an organization of [[Cultivationspren\|cultivationspren]] in [[Shadesmar\|Shadesmar]], the [[Cognitive Realm\|Cognitive Realm]] of [[Roshar\|Roshar]].
 

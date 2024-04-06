@@ -3,9 +3,8 @@
 |**Residence**|[[Lonzare\|Lonzare]]|
 |**Ethnicity**|[[Darksider\|Darksider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **N'Teese** is a guide working for [[Loaten\|Loaten]] in [[Kezare\|Kezare]] on the Dayside of [[Taldain\|Taldain]]
 

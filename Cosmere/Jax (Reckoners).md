@@ -1,9 +1,8 @@
 |**Jax**|
 |-|-|
 |by  Potato-sunrise |
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -60,7 +59,7 @@ Jax lived in Houston with his family, prior to [[Obliteration\|Obliteration]] bl
 \-Jax when asked why he’s at the Coop[6]
 
 
-Prof took Jax to the Coop, a Reckoner training facility in Texas. He put Jax under the harsh tutelage of [[Zeff\|Zeff]], the head trainer at the Coop. Zeff put Jax through intensive and difficult training. Whenever Jax broke any of Zeff’s rules, he had to balance on the Post, a four foot tall wooden post, for hours. Zeff took Jax’s swords from him, and told him he could have it back when he knew how to use it. Zeff’s training methods were often cruel, such as making Jax lay down and have mice crawl over him and not be allowed to flinch. After Jax had been at the Coop for two years, a girl named Paige arrived at the Coop, who’s family was murdered by an Epic, just like Jax’s. Jax and Paige quickly formed a good friendship, united by their suffering under Zeff’s hand and their shared past. Every night her and Jax snuck out to work on motivator’s in the Coop’s workshop, and every day they both went through intensive training. Zeff told Jax that once he had blocked ten thousand practice sword strikes, he could strike back. One day, Jax struck at Zeff out of frustration, then said he had done the 10,000 strikes. That night, Zeff gave Jax his sword back.
+Prof took Jax to the Coop, a Reckoner training facility in Texas. He put Jax under the harsh tutelage of [[Zeff\|Zeff]], the head trainer at the Coop. Zeff put Jax through intensive and difficult training. Whenever Jax broke any of Zeff’s rules, he had to balance on the Post, a four foot tall wooden post, for hours. Zeff took Jax’s swords from him, and told him he could have it back when he knew how to use it. Zeff’s training methods were often cruel, such as making Jax lay down and have mice crawl over him and not be allowed to flinch. After Jax had been at the Coop for two years, a girl named Paige arrived at the Coop, who’s family was murdered by an Epic, just like Jax’s. Jax and Paige quickly formed a good friendship, united by their suffering under Zeff’s hand and their shared past. Every night her and Jax snuck out to work on motivator’s in the Coop’s workshop, and every day they both went through intensive training. Zeff told Jax that once he had blocked ten thousand practice sword strikes, he could strike back. One day, Jax struck at Zeff out of frustration, then said he had done the 100,000 strikes. That night, Zeff gave Jax his sword back.
 As the years passed, they grew more adept in hand to hand combat, swordsmanship, and firearms. Zeff has them fight older more experienced kids, and often has them fight outnumbered, sometimes facing up to six or seven opponents at once. One day, Prof visited the Coop to check up on Jax’s progress, and Zeff locked Jax and Paige in the kitchen, saying that he was too embarrassed at their progress to present them to Prof. At Paige’s suggestion, they used the sonic snare motivator from the workshop to eavesdrop on Zeff and Prof’s conversation. Zeff told Prof that he was incredibly impressed with Jax, saying that he’s a “sparking prodigy.”
 
 >“*Who in the sparking hell are you? Where’s the little pipsqueak I left here six years ago?*”

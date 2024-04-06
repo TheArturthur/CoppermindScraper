@@ -1,9 +1,9 @@
 |**Vivenna's Blade**|
 |-|-|
 |**Abilities**|Cuts through any substance|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
@@ -35,11 +35,11 @@ Despite having an otherworldly look to it, the Blade is not instantly identifiab
 
 
 Like many Shardblades, Vivenna's Blade has the ability to cut easily through any non-living substance nearly effortlessly. Unlike Rosharan Shardblades, when Vivenna's Shardblade kills a human it does not cause their eyes to burn out, rather their entire body turns a strange ashen gray color.
-Her Blade is also not able to be summoned or dismissed at will. Upon someone drawing Vivenna's Blade for the first time, they will feel a tingling sensation as the Blade investigates them. As the weapon needs to be drawn before investigating someone, it is possible that her sheath, like Nightblood's, is made of aluminum. If the sheath is constructed of aluminum, it is likely that Vivenna's Blade is also blocked by aluminum. It is unknown if other parallels with Nightblood hold true, such as the type of Command Vivenna's Blade was given or if it requires a source of Investiture to be safely drawn.
+Her Blade is also not able to be summoned or dismissed at will. Upon someone drawing Vivenna's Blade for the first time, they will feel a tingling sensation as the Blade investigates them. As the weapon needs to be drawn before investigating someone, it is possible that her sheath, like Nightblood's, is made of aluminum. If the sheath is constructed of aluminum, it is likely that Vivenna's Blade is also blocked by aluminum. It is unknown if other parallels with Nightblood hold true, such as the type of Command Vivenna's Blade was given. However, it doesn't require a source of Investiture to be safely drawn.
 
 ## History
 ### Early History
-The origin of Vivenna's Blade is as of yet unknown, but some things may be inferred about it. Due to the fact that it leaves corpses drained of color and is known to share some similarities with Nightblood, it seems likely that this Blade is an Invested weapon crafted on Nalthis by [[Awakening\|Awakening]] the Blade to form a Type Four BioChromatic entity. It also seems likely that this Blade was Awakened via a different process or a different Command than Nightblood, due to the apparent dissimilarities between the two weapons. As only Yesteel and Vasher have knowledge of the process that creates Type 4 BioChromatic entities, it seems likely that one or both may have had a hand in the creation of Vivenna's Blade.
+The origin of Vivenna's Blade is as of yet unknown, but some things may be inferred about it. Due to the fact that it leaves corpses drained of color and is known to share some similarities with Nightblood, it seems likely that this Blade is an Invested weapon crafted on Nalthis by [[Awakening\|Awakening]] the Blade to form a Type Four BioChromatic entity. It was Awakened via a different process or a different Command than Nightblood. As only Yesteel and Vasher have knowledge of the process that creates Type 4 BioChromatic entities, it seems likely that one or both may have had a hand in the creation of Vivenna's Blade.
 Vivenna seems to associate her past failures and burdens she has let down with the Blade for reasons unknown, so it is possible it played a role in some event in Vivenna's past that she regrets. If the Blade was truly crafted by Awakening on Nalthis, it was likely brought through Shadesmar to Roshar by Vivenna some time in or around early 1173.
 
 ### Siege of Kholinar
@@ -51,7 +51,7 @@ Vivenna had possession of her Blade by the time she arrived in [[Kholinar\|Kholi
 After meeting Kaladin and agreeing to use a portion of the Wall Guard to liberate the palace, Vivenna helped lead the attack by using her Blade. After being overwhelmed by the singer armies, Vivenna brought her Blade with her to Shadesmar when Shallan engaged the corrupted Oathgate near the palace.
 
 ### Travels Through Shadesmar
-Vivenna kept her Blade on her through their travels to Celebrant, but it was confiscated by the honorspren when Vivenna and her companions escaped Celebrant on their ship, the [[Honor's Path\|Honor's Path]]. During the journey, Vivenna told the first mate Borea that she knew of a way to make Blades without the enslavement of a spren and offered to prove it to her. Borea brought Vivenna's Blade on deck and drew it like instructed, allowing the Blade to investigate Borea. She returned the Blade to Vivenna and offered passage to [[Lasting Integrity\|Lasting Integrity]] and information on a possible sighting of Nightblood, in exchange for knowledge of how Vivenna's Blade had been forged. When Vivenna's companions left the Honor's Path to travel to Thaylen City, she and her Blade remained behind to fight off the pursuing Fused with the honorspren crew.
+Vivenna kept her Blade on her through their travels to Celebrant, but it was confiscated by the honorspren when Vivenna and her companions escaped Celebrant on their ship, the *Honor's Path*. During the journey, Vivenna told the first mate Borea that she knew of a way to make Blades without the enslavement of a spren and offered to prove it to her. Borea brought Vivenna's Blade on deck and drew it like instructed, allowing the Blade to investigate Borea. She returned the Blade to Vivenna and offered passage to [[Lasting Integrity\|Lasting Integrity]] and information on a possible sighting of Nightblood, in exchange for knowledge of how Vivenna's Blade had been forged. When Vivenna's companions left the *Honor's Path* to travel to Thaylen City, she and her Blade remained behind to fight off the pursuing Fused with the honorspren crew.
 
 ## Trivia
 Vivenna's Blade has its own name, which Brandon intended to put into Oathbringer, but he was toying with several different names and was not satisfied with any of them, so he left it out.

@@ -1,11 +1,11 @@
 |**Zuln**|
 |-|-|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*No. It is not right.*”
 \-Zuln on a proposed transformation of the listeners to stormform.[1]

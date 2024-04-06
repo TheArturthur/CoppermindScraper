@@ -1,13 +1,12 @@
 |**Rite**|
 |-|-|
 |**Titles**|[[Lord Artisan\|Lord Artisan]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, The Draft|
+|**Groups**|[[Taishin\|Taishin]], The Draft|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Rite** is the current [[Lord Artisan\|Lord Artisan]] of [[Lossand\|Lossand]]. He is the Taisha in charge of the Draft. He resides at the Artisan Conference Center  and leads the manufactured goods industry of Lossand. He was selected to be Lord Artisan by a vote of the guild's members.
 

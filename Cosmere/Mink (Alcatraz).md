@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Advisor|
 |**Nationality**|[[Mokian\|Mokian]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 For the [[Herdazian\|Herdazian]] general, see [[Dieno enne Calah\|Dieno enne Calah]].
 >“*Good speech, but it sounded too much like a rock ballad.*”

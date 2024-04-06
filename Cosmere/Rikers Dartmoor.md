@@ -4,8 +4,7 @@
 |**Parents**|[[Brig Dartmoor\|Brig]], [[Draulin\|Draulin]]|
 |**Siblings**|[[Angola Dartmoor\|Angola]], [[Bastille\|Bastille]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Rikers Dartmoor** is the crown prince of [[Nalhalla\|Nalhalla]]. He is in his thirties, wears lavish royal blue and silver robes, a baseball cap, and has a short red beard. He likes to throw exclusive lunch parties and writes fictitious stories about [[Alcatraz Smedry\|Alcatraz Smedry]], including a novel called Alcatraz Smedry and the Mechanic's Wrench.
 

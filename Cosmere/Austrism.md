@@ -1,9 +1,9 @@
 |**Austrism**|
 |-|-|
-|**Related to**|Idris|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Related to**|[[Idris\|Idris]]|
+|**Type**|Religion|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Austrism** is a monotheistic religion centered around a god named **Austre**, practiced by the [[Idris\|Idrian]] people on [[Nalthis\|Nalthis]]. Austre is often called "God of Colors".
 Austre is not [[Endowment\|Endowment]], and his true identity (if any) is unknown. Before the [[Manywar\|Manywar]] and the exile of the royal family, he was also worshipped in [[Hallandren\|Hallandren]].
@@ -33,10 +33,11 @@ The fundamental tenets of the religion are called the [[Five Visions\|Five Visio
 
 The Visions teach the virtues of humility, sacrifice and seeing another's problems before your own. They teach that no person should try to put oneself above others, and that Austre regards all people equally. Acting ostentatiously, rejecting people because of their sins, and flaunting one's talents are seen as sins. Austrism also teaches that there is nothing wrong with feelings, but drawing attention to yourself with them is wrong.
 Austrism, as practiced by [[Idrian\|Idrians]], considers Breaths to be intimately linked to human souls. For that reason followers of Austre consider holding the [[Breath\|Breaths]] of others to be a sin, and using them to [[Awakening\|Awaken]] to be an even greater sin. However, [[Vasher\|Vasher]] states that such intolerance toward Awakening only emerged after the [[Manywar\|Manywar]].
+Terminating pregnancies is seen as a sin.
 
 ## Austre
 >“*He’s more of a force. You know, the thing that watches over all people, who punishes those who don’t do what is right and who blesses those who are worthy.*”
-\-Siri explaining the concept of Austre to Susebron[9]
+\-Siri explaining the concept of Austre to Susebron[10]
 
 
 Austre is the only god of the monotheistic religion of Austrism. He is often referred to as the "God of Colors." Austre is not [[Endowment\|Endowment]]; it is unknown if he is a real being or not.
@@ -76,7 +77,7 @@ Monks are forbidden to own or possess anything themselves and give everything th
 
 
 >“*In the distance, she could see the plateau that held the Court of Gods, the most profane place beneath Austre's colorful eyes.*”
-\-Vivenna travelling in T'Telir [11]
+\-Vivenna travelling in T'Telir [12]
 
 
 ## Trivia

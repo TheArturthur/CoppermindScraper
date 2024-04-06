@@ -2,10 +2,9 @@
 |-|-|
 |by  Jamie Knierim |
 |**Died**||
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
+|**Groups**|[[Reckoners\|Reckoners]]|
 |**Residence**|[[Babilar\|Babilar]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Firefight*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“* The only good Epic is a dead Epic.*”
 \- Val[2]

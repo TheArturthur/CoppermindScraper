@@ -1,12 +1,10 @@
 |**Metallic Arts**|
 |-|-|
 |**Related to**|Allomancy, Feruchemy, Hemalurgy|
-|**Focus**|Metal|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn (series)*|
 
-The **Metallic Arts** are the three prime manifestations of [[Investiture\|Investiture]] on [[Scadrial\|Scadrial]]. They consist of [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Hemalurgy\|Hemalurgy]]. All three utilize certain metal alloys and each manifest specific abilities in the user (namely, metal is not the source of their power, but metal is their [[Focus\|focus]]). There are eight basic metals, each with an alloy, for a total of sixteen metals. In addition, there are *God Metals*, and alloys of them.
+The **Metallic Arts** are the three prime manifestations of [[Investiture\|Investiture]] on [[Scadrial\|Scadrial]]. They consist of [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Hemalurgy\|Hemalurgy]]. All three utilize certain metal alloys and each manifest specific abilities in the user (namely, metal is not the source of their power, but metal is their focus). There are eight basic metals, each with an alloy, for a total of sixteen metals. In addition, there are *God Metals*, and alloys of them.
 
 ## Contents
 
@@ -16,10 +14,11 @@ The **Metallic Arts** are the three prime manifestations of [[Investiture\|Inves
 
 3.1 The God Metals
 3.2 Harmonium
-3.3 Trellium
+3.3 Bavadinium
 
 
-4 Notes
+4 Trivia
+5 Notes
 
 
 ## Mechanics
@@ -30,7 +29,7 @@ Then, the [[Lord Ruler\|Lord Ruler]] reached the [[Well of Ascension\|Well of As
 Later, after the [[Final Ascension\|Final Ascension]] by [[Harmony\|Harmony]], Mistborn became unheard of as Allomancy's power continued to degrade. The Terris people also interbred with the survivors of the [[Final Empire\|Final Empire]], which combined with the slaughter of all living Feruchemists at the time left Feruchemy also diluted, and so Ferrings began to appear.
 
 ## Metalborn and Twinborn
-**Metalborn** refers to those who have Allomantic or Feruchemical abilities. Such label can be used to refer to those who have access to all sixteen metals, Mistborns and full Feruchemists, as well as Mistings and Ferrings, who can only access a single power. [[Hemalurgy\|Hemalurgists]] are not included under this term as Hemalurgy is not an inborn ability. The useage of Metalborn as a label did not seem to appear until after the [[Catacendre\|Catacendre]], which may be a result of the Lord Ruler suppressing knowledge of Feruchemy during the time of the [[Final Empire\|Final Empire]].
+**Metalborn**, sometimes called ** Metalblessed**, refers to those who have Allomantic or Feruchemical abilities. Such label can be used to refer to those who have access to all sixteen metals, Mistborn and full Feruchemists, as well as Mistings and Ferrings, who can only access a single power. [[Kandra\|Kandra]] are also considered to be Metalborn. [[Hemalurgy\|Hemalurgists]] are not included under this term as Hemalurgy is not an inborn ability. The useage of Metalborn as a label did not seem to appear until after the [[Catacendre\|Catacendre]], which may be a result of the Lord Ruler suppressing knowledge of Feruchemy during the time of the [[Final Empire\|Final Empire]].
 [[Twinborn\|Twinborn]] refers to someone who is both a Misting and a Ferring. They are extremely rare, and their Allomantic and Feruchemical powers seem to be independently determined, resulting in many interesting combinations of Investiture. Having access to both of these streams of the Metallic Arts also allows Twinborn to [[Compounding\|Compound]] their Feruchemical abilities.
 
 For a list of all Allomancers, see :Category:Allomancers. For a list of all Feruchemists, see :Category:Feruchemists. For a list of all Twinborn, see :Category:Twinborn.
@@ -54,7 +53,7 @@ Unless otherwise noted, the abilities below are confirmed by the Table of Alloma
 |**Metal**|**Allomantic ability**|**Feruchemical ability**|**Hemalurgic ability**|
 |**Cadmium **|Slows Down Time|Stores Breath|Steals Temporal Allomancy|
 |**Bendalloy **|Speeds Up Time|Stores Energy|Steals Spiritual Feruchemy|
-|**Gold **|Reveals Your Past Self|Stores Health|Steals Hybrid Feruchemy|
+|**Gold**|Reveals Your *Alternate* Past Self|Stores Health|Steals Hybrid Feruchemy|
 |**Electrum **|Reveals Your Own Future|Stores Determination|Steals Enhancement Allomancy|
 |**Chromium **|Wipes Allomantic Reserves of Target|Stores Fortune|Might steal destiny|
 |**Nicrosil **|Enhances Allomantic Burn of Target|Stores Investiture|Steals Investiture|
@@ -65,10 +64,10 @@ Unless otherwise noted, the abilities below are confirmed by the Table of Alloma
 For information on all Shards God Metals, see [[God Metal\|God Metal]].
 The God Metals are metals formed directly from a [[Shard\|Shard]]. Previously only the God Metals of [[Ruin\|Ruin]] and [[Preservation\|Preservation]] were known, however new God Metals can be made from any Shard. They can be alloyed with the lesser metals to form sixteen different metals each, though few are known. They can also be alloyed with each other. Besides having an Allomantic, a Feruchemical, and a Hemalurgic property, each God Metal can also do something else. The Vessel of the Shard can slightly change the properties of its God Metal over time, but not the main functions of what it does.
 
-|**'God' Metals**|
+|**God Metals**|
 |-|-|
 |**Metal**|**Allomantic ability**|**Feruchemical ability**|**Hemalurgic ability**|
-|**Atium **|See into other people's futures|Stores age|Steals any power or attribute (must be refined); does so better than any other spike|
+|**Atium **|See into other people's futures|Stores youth|Steals any power or attribute (must be refined); does so better than any other spike|
 |**Lerasium [fn 1]**|Causes the burner to become a Mistborn/Increases allomantic power|Unknown|Steals all abilities|
 
 |**Atium alloys**|
@@ -79,9 +78,11 @@ The God Metals are metals formed directly from a [[Shard\|Shard]]. Previously on
 ### Harmonium
 After contact with the [[Southern Scadrian\|Southern Scadrians]], a new metal is revealed. Called "[[Ettmetal\|Ettmetal]]" in their native tongue, the Southern Peoples use it to power their technology. Harmonium burns "with a pure whiteness" when used in Southern Scadrian machinery, and explodes when it is exposed to water (similar to the ) making it dangerous if not impossible to ingest for allomantic purposes. Unlike alkali metal reactions, this reaction does not yield a "Harmonium oxide," but it will yield "something else relevant to the [[Cosmere\|cosmere]]." Harmonium's atomic structure is that of a single element, rather than a compound or alloy.
 
-### Trellium
-[[Trellium\|Trellium]] is the uncanonical name for the unknown metal seen in [[Shadows of Self\|Shadows of Self]]. It is a silvery metal with a red cast to it, and dark red spots similar to rust. Its Allomantic and Feruchemical properties are unknown. It can be used Hemalurgically to steal some, if not all, Allomantic and/or Feruchemical abilities and grant them to [[Kandra\|Kandra]]. It can also be used on humans to create hemalurgic constructs. Kandra and Hemalurgic constructs with a single spike of Trellium will be hidden from Harmony.
+### Bavadinium
+Also known as [[Trellium\|Trellium]]. It is a silvery metal with a red cast to it, and dark red spots similar to rust. Its Allomantic and Feruchemical properties are unknown. It can be used Hemalurgically to steal some, if not all, Allomantic and/or Feruchemical abilities and grant them to [[Kandra\|Kandra]]. It can also be used on humans to create hemalurgic constructs. Kandra and Hemalurgic constructs with a single spike of Trellium will be hidden from Harmony.
+
+## Trivia
+The interaction of other metallic isotopes with the Metallic Arts is planned to be covered in [[Mistborn Era 3\|Mistborn Era 3]].
 
 
-
-https://coppermind.net/wiki/Metallic_Arts
+https://coppermind.net/wiki/Metalborn

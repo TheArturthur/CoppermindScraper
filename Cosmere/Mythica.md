@@ -2,9 +2,8 @@
 |-|-|
 |by  Miranda Meeks |
 |**Related to**|Unmade|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Mythica** is a book written by [[Hessi\|Hessi]].
 It is a book on the [[Unmade\|Unmade]], and [[Shallan\|Shallan]] says that the book wasn't received well. It is a new book, and mentions [[Jasnah\|Jasnah]] at least once, to disagree with some of her work and questionings. This book is not in many bookstores, and the few that had it in [[Kholinar\|Kholinar]] were stolen. This book does not contain the information from the events of [[Urithiru\|Urithiru]].
@@ -72,7 +71,7 @@ Shallan finds the book while in Kholinar. She uses it to discover that there are
 
 
 ### Page 27
->“*Yelig-nar had great powers, perhaps the powers of all the surges compounded into one. He could transform any Voidbringer into an extremely dangerous enemy. Curiously, three legends I found mention swallowing a gemstone to engage this process.*”
+>“*Yelig-nar had great powers, perhaps the powers of all the Surges compounded into one. He could transform any Voidbringer into an extremely dangerous enemy. Curiously, three legends I found mention swallowing a gemstone to engage this process.*”
 \-Hessi's Mythica, page 27[19]
 
 
@@ -117,7 +116,7 @@ Shallan finds the book while in Kholinar. She uses it to discover that there are
 
 
 ### Page 203
->“*Ashertmarn, the Heart of the Revel, is the final of the three great mindless Unmade. His gift to men is not prophecy or battle focus, but is lust for indulgence. Indeed, the great debauchery recorded form the court of Bayala in 480--which led to dynastic collapse--might be attributable to the influence of Ashertmarn.*”
+>“*Ashertmarn, the Heart of the Revel, is the final of the three great mindless Unmade. His gift to men is not prophecy or battle focus, but is lust for indulgence. Indeed, the great debauchery recorded from the court of Bayala in 480--which led to dynastic collapse--might be attributable to the influence of Ashertmarn.*”
 \-Hessi's Mythica, page 203[17]
 
 

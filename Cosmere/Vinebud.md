@@ -2,9 +2,8 @@
 |-|-|
 |by User: KalynaAnne|
 |**Type**|Plant|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vinebud** is a type of [[Rockbud\|rockbud]] that can be found in many regions of [[Roshar\|Roshar]].
 

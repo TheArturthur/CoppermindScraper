@@ -1,9 +1,8 @@
 |**Wyrn**|
 |-|-|
 |**Related to**|[[Fjorden\|Fjorden]], [[Shu-Dereth\|Shu-Dereth]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 For other uses of Wyrn, see [[Wyrn\|Wyrn]].
 **Wyrn** is the title given to the emperor of [[Fjorden\|Fjorden]] and the leader of the [[Shu-Dereth\|Derethi]] church on [[Sel\|Sel]]. The title is based on the founder of Fjorden, who was named [[Wyrn (character)\|Wyrn]].

@@ -1,9 +1,8 @@
 |**Sea of Oracles**|
 |-|-|
-|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]🐱︎|
-|**World**|[[Shadesmar\|Shadesmar]]🐱︎|
+|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]|
+|**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Sea of Oracles** is a region of the [[Sea of Lost Lights\|Sea of Lost Lights]]. It is north of [[Celebrant\|Celebrant]], [[Emberdark\|Emberdark]], and the [[Burning Gardens\|Burning Gardens]]. To the south, it is bordered with the [[Glasswater Deep\|Glasswater Deep]].
 The [[Salavashi Trench\|Salavashi Trench]] is a portion of the Sea of Oracles.

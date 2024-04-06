@@ -3,8 +3,7 @@
 |**Profession**|Professor|
 |**Birthplace**|[[JoSeun\|JoSeun]]|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Kim** is a professor of history at [[Armedius Academy\|Armedius Academy]].
 He is of Asian descent; his parents emigrated from [[JoSeun\|JoSeun]] after he was born. His employment at the academy was contentious as some parents believed he would skew their children's perception of history.

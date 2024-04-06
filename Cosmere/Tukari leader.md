@@ -1,8 +1,7 @@
 |**Unknown**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 The **Tukari caravan leader** is part of a group of [[Tukari caravaneers\|mercenaries]] who are active in the southern area of the [[Sea of Souls\|Sea of Souls]] and are known to attack [[Spren\|spren]]. He supervises more than twenty men. It is possible the Tukari caravan leader is working for [[Ishar\|Ishar]] and has been tasked to bring him spren bodies that the [[Herald\|Herald]] can use in his experiments.

@@ -1,10 +1,9 @@
 |**Lake Luthadel**|
 |-|-|
 |**Type**|Lake|
-|**Region**|[[Central Dominance\|Central Dominance]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Central Dominance\|Central Dominance]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Lake Luthadel** is a body of water northeast of [[Luthadel\|Luthadel]], along the [[River Channerel\|River Channerel]].
 Due to its proximity to the [[Ashmount\|ashmounts]], Lake Luthadel is a sludgy mixture with more ash than water. The canal workers of the area devote their lives to keeping the lake and the river navigable by watercraft. Being both full of ash and located next to a city of hungry [[Skaa\|skaa]], the lake is thought to have little to no fish left in it.

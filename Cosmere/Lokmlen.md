@@ -3,9 +3,8 @@
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Kerztian\|Kerztian]]|
 |**Nationality**|[[Daysider\|Daysider]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Lokmlen** is a [[Kerztian\|Kerztian]] criminal working for [[Sharezan\|Sharezan]] in [[Kezare\|Kezare]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
 

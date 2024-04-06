@@ -3,9 +3,8 @@
 |**Died**|~1163, killed by [[Torol Sadeas\|Torol Sadeas]]|
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I will have no boon other than Yenev's cowardly heart on the end of my sword, Your Majesty!*”
 \-Highprince Torol Sadeas to Gavilar Kholin according to Ialai's account[1]

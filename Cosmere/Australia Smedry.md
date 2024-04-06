@@ -4,8 +4,8 @@
 |**Siblings**|[[Sing Sing Smedry\|Sing Sing]], [[Aydee Ecks Smedry\|Aydee]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]], [[Oculator\|Oculator]]|
 |**Nationality**|[[Mokian\|Mokian]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**First Appeared**|*The Scrivener's Bones*|
 
 **Australia Smedry** is an [[Oculator\|Oculator]] and a member of the [[House Smedry\|Smedry family]], a cousin to [[Alcatraz Smedry\|Alcatraz]]. Her [[Smedry Talent\|Talent]] allows her to wake up looking really ugly.
 

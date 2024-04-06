@@ -3,9 +3,8 @@
 |**Abilities**|Various|
 |**Used for**|Making [[Motivator\|motivators]]|
 |**Sapient**|Yes|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Universe**|[[Reckoners Multiverse\|Reckoners Multiverse]]|
-|**Featured In**|*The Reckoners*|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -129,6 +128,7 @@ Any Epic who does not have Prime Invincibility is considered a Lesser Epic, alth
 
 
 
+
 ## Types of Epic
 
 
@@ -156,4 +156,4 @@ An Epic's Weakness can be just about anything. Some epics, upon seeing a specifi
 
 
 
-https://coppermind.net/wiki/High_Epic
+https://coppermind.net/wiki/Epic

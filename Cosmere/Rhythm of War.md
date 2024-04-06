@@ -3,34 +3,36 @@
 |by  Michael Whelan |
 |**The Stormlight Archive**|
 |**Follows**|*Oathbringer*|
-|**Precedes**|*Stormlight Archive 5 *|
+|**Precedes**|*Wind and Truth *|
 |**Setting**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
 |**Released**|November 17, 2020|
 |**Publisher**||
-|**Word Count**|455,891|
+|**ISBN**|978-0-7653-2638-6|
+|**Page Count**|1,232|
+|**Word Count**|[[Rhythm of War/Statistical analysis\|455,891]]|
 
 This article deals with the fourth [[Stormlight Archive\|Stormlight Archive]] novel. For the in universe work, see [[Rhythm of War (in-world)\|Rhythm of War (in-world)]].
-*Rhythm of War* is the fourth book in the [[The Stormlight Archive\|The Stormlight Archive]]. It was released on November 17, 2020.
+*Rhythm of War* is the fourth book in the *The Stormlight Archive*. It was released on November 17, 2020.
 
 ## Contents
 
-1 Cover Synopsis
-2 Summary
-3 Back cover copy
+1 Synopsis
+2 Cover Flap
+3 Summary
 4 Development
 
 4.1 Pre-Publication Content
 
 
-5 Trivia
-6 Cover gallery
-7 Interior Art
-8 Statistics
-9 See also
+5 Cover Gallery
+6 Interior Art
+7 See also
+8 Trivia
+9 Statistical Analysis
 10 Notes
 
 
-## Cover Synopsis
+## Synopsis
 *There are secrets we have kept for so long. Watching. Sleepless. Eternal. And soon, they will no longer be ours.*
 *The One Who Is Three seeks the captured soul, but does not know it. The imprisoned spren, so long ago forgotten. Can she free her own soul in time to find knowledge? The knowledge that damns all people of Roshar?*
 *The Fallen Soldier caresses and loves the spear even as it gouges his own flesh. He steps ever forward, ever into darkness, without light. He can bring none with him, but that which he can kindle himself.*
@@ -38,14 +40,14 @@ This article deals with the fourth [[Stormlight Archive\|Stormlight Archive]] no
 *And the Mother of Machines, most important of them all, dances with liars at a grand ball. She must unmask them, find their hidden truths, and present them to the world. She must admit that the worst lies have been the ones she tells herself.*
 *If she does, our secrets will finally become truths instead.*
 
-## Summary
-For a chapter by chapter summary, see [[Rhythm of War/Summary\|/Summary]].
-The book is set on [[Roshar\|Roshar]] one year after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and follows the stories of [[Shallan Davar\|Shallan Davar]], [[Kaladin\|Kaladin]], [[Venli\|Venli]], and [[Navani Kholin\|Navani Kholin]]. There are also several other characters who receive viewpoints; [[Adolin Kholin\|Adolin Kholin]], [[Lirin\|Lirin]], [[Dalinar Kholin\|Dalinar Kholin]], [[Renarin Kholin\|Renarin Kholin]], [[Jasnah Kholin\|Jasnah Kholin]], [[Rlain\|Rlain]], [[Dabbid\|Dabbid]], [[Teft\|Teft]], [[Moash\|Moash]], [[Adin\|Adin]], [[Taravangian\|Taravangian]], [[Lezian\|Lezian]], and [[Hoid\|Wit]] in the main text, Venli and [[Eshonai\|Eshonai]] in flashbacks, and several others in the Interludes.
-
-## Back cover copy
+## Cover Flap
 *After forming a coalition of human resistance against the enemy invasion, Dalinar Kholin and his Knights Radiant have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinar's crafty ally Taravangian looms over every strategic move.*
 *Now, as new technological discoveries by Navani Kholin's scholars begin to change the face of the war, the enemy prepares a bold and dangerous operation. The arms race that follows will challenge the very core of the Radiant ideals, and potentially reveal the secrets of the ancient tower that was once the heart of their strength.*
 *At the same time that Kaladin Stormblessed must come to grips with his changing role within the Knights Radiant, his Windrunners face their own problem: As more and more deadly enemy Fused awaken to wage war, no more honorspren are willing to bond with humans to increase the number of Radiants. Adolin and Shallan must lead the coalition’s envoy to the honorspren stronghold of Lasting Integrity and either convince the spren to join the cause against the evil god Odium, or personally face the storm of failure.*
+
+## Summary
+For a chapter by chapter summary, see [[Rhythm of War/Summary\|/Summary]].
+The book is set on [[Roshar\|Roshar]] one year after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and follows the stories of [[Shallan Davar\|Shallan Davar]], [[Kaladin\|Kaladin]], [[Venli\|Venli]], and [[Navani Kholin\|Navani Kholin]]. There are also several other characters who receive viewpoints; [[Adolin Kholin\|Adolin Kholin]], [[Lirin\|Lirin]], [[Dalinar Kholin\|Dalinar Kholin]], [[Renarin Kholin\|Renarin Kholin]], [[Jasnah Kholin\|Jasnah Kholin]], [[Rlain\|Rlain]], [[Dabbid\|Dabbid]], [[Teft\|Teft]], [[Moash\|Moash]], [[Adin\|Adin]], [[Taravangian\|Taravangian]], [[Lezian\|Lezian]], and [[Hoid\|Wit]] in the main text, Venli and [[Eshonai\|Eshonai]] in flashbacks, and several others in the Interludes.
 
 ## Development
 Brandon began writing Stormlight Archive 4 in January 2019, with publication planned for 2020. The original working title was *The Song of Changes*, which Brandon said was never meant to be the final title, and he later said the tentative title was *The Rhythm of War*. Eventually, it was announced that the book would be released on November 17th, 2020, although the final title was still unknown at that time. *Rhythm of War* was finally made the official title in February 2020, and the writing process ended in July 2020.
@@ -65,21 +67,28 @@ A [[Syl\|Syl]] interlude, released in July 2020 Newsletter, in which she asks [[
 Chapters 7 and 8, which can be listened to , regarding Kaladin and [[Moash\|Moash]], as well as new [[Fabrial\|fabrials]] used by the [[Fused\|Fused]].
 Additionally, Tor.com publicly released full part 1 of the book, including the prologue; it, and the accompanying discussion threads, can be found .
 
-## Trivia
-*Rhythm of War* includes pictures of all the True Spren who form [[Nahel bond\|Nahel bonds]], save for the [[Bondsmith\|Bondsmith]] spren.
-As with *Oathbringer*, *Rhythm of War* includes four new illustrations of the [[Herald\|Heralds]], specifically [[Nale\|Nale]], [[Chanarach\|Chanarach]], [[Pailiah\|Pailiah]], and [[Kalak\|Kalak]].
-## Cover gallery
+## Cover Gallery
 For a cover gallery of Rhythm of War, see [[Rhythm of War/Covers\|/Covers]].
 ## Interior Art
 For a gallery of the book's interior art, see [[Rhythm of War/Interior art\|/Interior art]].
-## Statistics
-For a full statistical analysis, see [[Rhythm of War/Statistical analysis\|/Statistical analysis]].
 ## See also
-[[Rhythm of War/Covers\|Covers]]
-[[Rhythm of War/Epigraphs\|Epigraphs]]
-[[Rhythm of War/Interior art\|Interior art]]
-[[Rhythm of War/Statistical analysis\|Statistical analysis]]
-[[Rhythm of War/Summary\|Summary]]
+[[Rhythm of War/Epigraphs\|Rhythm of War/Epigraphs]]
+[[Rhythm of War/Headings\|Rhythm of War/Headings]]
+[[Rhythm of War/Covers\|Rhythm of War/Covers]]
+[[Rhythm of War/Interior art\|Rhythm of War/Interior art]]
+## Trivia
+*Rhythm of War* includes pictures of all the True Spren who form [[Nahel bond\|Nahel bonds]], save for the [[Bondsmith\|Bondsmith]] spren.
+As with *Oathbringer*, *Rhythm of War* includes four new illustrations of the [[Herald\|Heralds]], specifically [[Nale\|Nale]], [[Chanarach\|Chanarach]], [[Pailiah\|Pailiah]], and [[Kalak\|Kalak]].
+## Statistical Analysis
+For a full statistical analysis, see [[Rhythm of War/Statistical analysis\|/Statistical analysis]].
+*Rhythm of War* consists of one prologue, one hundred and seventeen chapters, twelve of which are reserved for flashbacks of the focus character of the book, twelve interludes and one epilogue, reaching a total 455,891 word count. There are twenty-four different unique point-of-view characters in a total of 226 POVs.
+
+|**Word Count**|455,891||
+|-|-|
+|**Page Count**|1,232|Tor hardback|
+|**Chapter Count**|131|Including prologue, 12 interludes, and epilogue.|
+|**PoV Characters**|24||
+|**PoV Count**|226||
 
 
 

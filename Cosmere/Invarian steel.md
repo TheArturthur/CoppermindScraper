@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Metal|
 |**Function**|Pistol manufacturing|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*That's Invarian steel, [...] stronger, lighter. It let me shave the thickness between chambers, increase the number without making it too big.*”
 \-Ranette[1]

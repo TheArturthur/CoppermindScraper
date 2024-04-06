@@ -6,13 +6,13 @@
 |**Titles**|Rider of Storms, Storm Rider, God of Storms, Spren of Storms, Father of Storms|
 |**Aliases**|[[Jezerezeh\|Jezerezeh]], [[Kelek\|Kelek]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
->“* I am that which brings Light and Darkness. *”
+>“*I am that which brings Light and Darkness.*”
 \-The Stormfather explaining his role to Dalinar.[8]
 
 The **Stormfather** is a powerful and unique [[Spren\|spren]] on [[Roshar\|Roshar]] responsible for the [[Highstorm\|highstorms]]. He is one of the three [[Bondsmith\|Bondsmith]] spren, and is currently bonded to [[Dalinar Kholin\|Dalinar Kholin]]. To the [[Listener\|listeners]], he is known as the **Rider of Storms**.
@@ -70,7 +70,7 @@ He's often incapable of understanding human emotions and thoughts, and finds the
 ## Attributes and Abilities
 ### Nature
  by  taratjah 
->“* I am a sliver of the Almighty himself! *”
+>“*I am a sliver of the Almighty himself!*”
 \-The Stormfather.[9]
 
 The Stormfather is a [[Spren\|spren]], making him naturally immortal and intangible. Unlike most other spren, he is mostly present in the [[Physical Realm\|Physical Realm]] rather than [[Shadesmar\|Shadesmar]], and thus cannot see inside of it, even though his highstorms affect it. He is one of the most powerful spren on Roshar, with an immense amount of [[Investiture\|Investiture]], greater even than that of the [[Unmade\|Unmade]], although he is much more restricted than them in what he can do with it.
@@ -91,11 +91,11 @@ While the Stormfather ordinarily has a cycle of visions he goes through on a loo
 Certain places are immune to the Stormfather's visions, preventing him from accessing them. This included [[Kholinar\|Kholinar]] while it was inhabited by [[Unmade\|Unmade]], and Urithiru while the Sibling was partially corrupted, negating Radiant abilities.
 
 ### Dreams
-Outside of the visions, the Stormfather is capable of communicating through dreams. Those dreams usually take place in a blank space that seems outside of time and space. People experiencing them feel as though everything around them fades away, replaced by solid ground and wind that seems to stop in place. Unlike the visions, the dreams seem to take up no time at all in the real world.
+Outside of the visions, the Stormfather is capable of communicating through dreams. Those dreams usually take place in a blank space that seems outside of time and space. People experiencing them feel as though everything around them fades away, replaced by solid ground and wind that seems to stop in place. Unlike the visions, the dreams seem to take up no time at all in the real world. The Stormfather can also let a person "ride the storm," allowing them to experience being the storm itself; like the visions, these require the person to be within the storm unless they are a Bondsmith. The only known singer to have done this, [[Eshonai\|Eshonai]], gained a fundamental understanding of Roshar's Rhythms as well.
 
  by  botanicaxu  The Stormfather and the [[Knights Radiant\|Radiant]] [[Spren\|spren]]
 ### Nahel Bond
->“* I will not be a simple sword to you. I will not come as you call, and you will have to divest yourself of that... monstrosity that you carry. You will be a Radiant with no Shards. *”
+>“*I will not be a simple sword to you. I will not come as you call, and you will have to divest yourself of that... monstrosity that you carry. You will be a Radiant with no Shards.*”
 \-The Stormfather upon bonding Dalinar.[9]
 
 The Stormfather is one of the three great [[Bondsmith\|Bondsmith]] spren. Forming a [[Nahel bond\|Nahel bond]] with him grants one the power over the [[Surge\|Surges]] of [[Tension\|Tension]] and [[Adhesion\|Adhesion]]. He is currently bonded with [[Dalinar Kholin\|Dalinar Kholin]].
@@ -108,7 +108,7 @@ Today, many honorspren treat him as an honored ancestor and obey his wishes, wit
 
 ## History
 ### Origins and the Recreance
->“* During these days, Honor still lived. I was not yet fully myself. More of a storm. Less interested in men. *”
+>“*During these days, Honor still lived. I was not yet fully myself. More of a storm. Less interested in men.*”
 \-About his origins[13]
 
 The Stormfather is likely to be one of the oldest entities in the [[Cosmere\|cosmere]], as the [[Highstorm\|highstorms]] he commands predate even the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. During the early millennia of his existence, he was not particularly cognizant or self-aware, but rather simply the uncaring storm. Even back then, however, he was capable of bonding with humans.
@@ -125,7 +125,7 @@ Following the battle, Dalinar climbed to the top of [[Urithiru\|Urithiru]] to sp
 
 ### Bondsmith spren
  by  Connor Chamberlain  The Stormfather presiding over Dalinar and Navani's marriage
->“* Oaths are the soul of righteousness. If you are to survive the coming tempest, oaths must guide you. *”
+>“*Oaths are the soul of righteousness. If you are to survive the coming tempest, oaths must guide you.*”
 \-At Dalinar's and Navani's wedding[12]
 
 This new bond allowed the Stormfather to show Dalinar Honor's visions at will, leading to Dalinar exploring them extensively. Shortly afterwards, Dalinar asked the Stormfather to marry him and [[Navani\|Navani]], to which he agreed.
@@ -169,8 +169,8 @@ In return, the Stormfather gains increased empathy and understanding of human na
 While he has no choice in obeying [[Honor\|Honor's]] wishes, the Stormfather greatly respects him in many ways. He trusts him implicitly, and has many good things to say about him. He seems to treat him as something of a father figure, likely due to Honor's transformation of him shortly before [[Tanavast\|Tanavast's]] death. The Stormfather is also Honor's [[Cognitive Shadow\|Cognitive Shadow]] to an extent. What this means is uncertain, as while the Stormfather seems to think the same way about [[Cultivation\|Cultivation]] Honor used to, he also seems to consider himself a separate entity.
 
 ### Sylphrena
->“* You have taken her from me. My beloved one. *”
-\-The Stormfather to Kaladin.[61]
+>“*You have taken her from me. My beloved one.*”
+\-The Stormfather to Kaladin.[62]
 
 [[Syl\|Syl]] is one of the original [[Honorspren\|honorspren]] created by the Stormfather prior to the [[Recreance\|Recreance]]. Perhaps because of this, he seems to adore her above all his other children, and takes care that she's not harmed. While she calls him her father, she's also clearly frustrated with how overprotective he can be, and will argue with him over what she is and isn't allowed to do.
 
@@ -190,7 +190,12 @@ The word "stormfather" is a common curse, similar to other variations of the wor
 The [[Listener\|listeners]] believe him to be a traitor to their kind, who protected humans instead of them. They still respect him, though, believing that he would kill anyone who doesn't, leading to a mix of awe and fear in their society.
 
 ## Trivia
-The Stormfather has two different "modes" of speech. He uses small caps when talking to those unbonded to him, or when speaking so that everyone can hear him. He speaks normally when communicating directly with [[Dalinar\|Dalinar]] after the latter becomes a Bondsmith. Interestingly, there are only four other characters shown speaking in all-caps — [[Cultivation\|Cultivation]], [[Odium\|Odium]] when he tells Dalinar we killed you as well as when he speaks to [[Vyre\|Vyre]], [[Syl\|Syl]] when about to be resurrected by [[Kaladin\|Kaladin]], and Dalinar when connecting Kaladin to Tien.
+The Stormfather has two different "modes" of speech. He uses small caps when talking to those unbonded to him, or when speaking so that everyone can hear him. He speaks normally when communicating directly with [[Dalinar\|Dalinar]] after the latter becomes a Bondsmith. Interestingly, there are only four other characters shown speaking in small caps:
+
+[[Cultivation\|Cultivation]] when she met Dalinar in the [[Valley\|Valley]].
+[[Odium\|Odium]] when preventing a Fused from taking [[Venli\|Venli's]] body, when he tells Dalinar "We killed you", and when he speaks to [[Vyre\|Vyre]].
+[[Syl\|Syl]] when about to be resurrected by [[Kaladin\|Kaladin]].
+Dalinar when Connecting Kaladin to a vision of [[Tien\|Tien]] and subsequently accepting Kaladin's Fourth Ideal.
 
 
 https://coppermind.net/wiki/Stormfather

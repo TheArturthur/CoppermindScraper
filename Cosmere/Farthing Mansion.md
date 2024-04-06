@@ -1,16 +1,15 @@
 |**Farthing Mansion**|
 |-|-|
-|**Owner**||
+|**Owner**|[[Lady Farthing\|Lady Farthing]]|
 |**Era**|Post [[Catacendre\|Catacendre]]|
-|**City**|[[New Seran\|New Seran]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[New Seran\|New Seran]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
-**Farthing Mansion** is a fine, three-story stone mansion on Blossom Way in [[New Seran\|New Seran]] on [[Scadrial\|Scadrial]] that is owned by .
+**Farthing Mansion** is a three-story stone mansion located on Blossom Way in [[New Seran\|New Seran]] on [[Scadrial\|Scadrial]]. It is owned by [[Lady Farthing\|Lady Farthing]].
 
 ## History
-In 342 [[Catacendre\|PC]] *The New Ascendancy* reported on a robbery that had taken place in the mansion the night before. It was robbed by members of the [[Set\|Set]], who left a reverse gold symbol painted in red on the wall. This was the symbol of [[Ape Manton\|Ape Manton]], as the Set was trying to trick [[Wax\|Wax]] into chasing after Manton.
+In 342 [[Catacendre\|PC]], *The New Ascendancy* reported on a robbery that had taken place in the mansion the night before. It was robbed by members of the [[Set\|Set]], who left a reverse gold symbol painted in red on the wall. This was the sign of [[Ape Manton\|Ape Manton]], whom [[Waxillium\|Waxillium]] had imprisoned years before in [[True Madil\|True Madil]], and it was planted on the mansion by the Set in an attempt to trick Wax into chasing after Manton.
 
 
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Guardsman|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vono** is an [[Azish\|Azish]] guardsman on [[Roshar\|Roshar]] that serves [[Prime Aqasix\|Prime Aqasix]] [[Yanagawn\|Yanagawn]] the First.
 

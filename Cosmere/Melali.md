@@ -1,9 +1,8 @@
 |**Melali**|
 |-|-|
-|**Religion**|[[Vorinism\|Vorinism]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Religion**|[[Vorinism\|Vorinism]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Melali** is a brighteyed lady on the [[Shattered Plains\|Shattered Plains]].
 

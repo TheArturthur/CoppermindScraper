@@ -1,9 +1,8 @@
 |**Mudbeer**|
 |-|-|
 |**Type**|Alcoholic drink|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Mudbeer** is an alcoholic drink on [[Roshar\|Roshar]].
 It is served in taverns throughout western Roshar, people often turning to it in the depths of winter. Even the winehouses of [[Urithiru\|Urithiru]] serve the brew.

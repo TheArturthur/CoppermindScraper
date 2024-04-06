@@ -2,10 +2,9 @@
 |-|-|
 |by  Marie Seeberger |
 |**Usage**|Library|
-|**City**|[[Kharbranth\|Kharbranth]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Kharbranth\|Kharbranth]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The only things Kharbranth has to sell are fish, bells, and information. The first two are hardly unique to us. But the third … well, the Palanaeum has the finest collection of tomes and scrolls on Roshar.*”
 \-A master-servant explaining access to the Palanaeum to Shallan Davar[1]
@@ -38,7 +37,7 @@ The **Palanaeum** is the largest known library on [[Roshar\|Roshar]], located in
 The Palanaeum is located within the Kharbranthian [[Conclave\|Conclave]], deep within a mountain that surrounds the city, and access to it is carefully controlled. The pyramid-like caverns that form the rooms of the Palanaeum predate the city of Kharbranth; however, the smaller rooms that house the manuscripts and books were cut into the stone post-settlement. How the caverns were created is unknown, but some believe that it was the work of the [[Dawnsingers\|Dawnsingers]].
 
 ## Use and Admittance
-Entrance to the Palanaeum proper requires a chit of of admittance to the sum of one thousand sapphire [[Broam\|broams]], which also allows for use of the Veil. Alcoves in the Veil can also be rented for ongoing use for two skymarks, however it is free to temporarily wait for someone while they are within the Palanaeum proper. Payment to access the Palanaeum is used to fund the hospitals of Kharbranth. Once admittance has been paid, the Palanaeum proper is available to access at anytime.
+Entrance to the Palanaeum proper requires a chit of admittance to the sum of one thousand sapphire [[Broam\|broams]], which also allows for use of the Veil. Alcoves in the Veil can also be rented for ongoing use for two skymarks, however it is free to temporarily wait for someone while they are within the Palanaeum proper. Payment to access the Palanaeum is used to fund the hospitals of Kharbranth. Once admittance has been paid, the Palanaeum proper is available to access at anytime.
 The Palanaeum also doubles as Kharbranth's royal treasury, and the city's store of emeralds are used to light the pathways within the Palanaeum proper. The Devotary of Insight is in charge of switching out the gemstones so they can be renewed with Stormlight during the [[Highstorm\|highstorm]].
 The organizational system used within the Palanaeum filing system is standard across many of Roshar's libraries and archives. Patron's are free to locate and collect books and documentation themselves if they wish, however, [[Ardent\|ardents]] and servants are available to collect materials when requested. Additionally, ardents will shelve books that are no longer needed for use. Books can be removed from the Palanaeum, however, they are not to be taken into bathing chambers. Many of the books stored in the Palanaeum have been tampered with, with changes having been made during the [[Hierocracy\|Hierocracy]].
 
@@ -64,7 +63,7 @@ The Palanaeum proper can be accessed from inside the Veil, through a smaller cha
 Filing cabinets found on the top level of the Palanaeum proper contain an index of the material within the library, based on the date that they entered the Palanaeum. Books and documentation are stored within smaller rooms that have been carved into the rock of the Palanaeum proper. These rooms contain tall bookshelves, each with a symbol carved on the end reflecting the date the documentation was received. Troughs containing a moisture absorbing powder can also be found within these rooms to control humidity levels.
 
 ## Trivia
-The Palanaeum was named for [[Pailiah\|Pailiah]] the [[Herald\|Herald]]. It's name is based off the Greek word "Athenaeum".
+The Palanaeum was named for [[Pailiah\|Pailiah]] the [[Herald\|Herald]]. Its name is based off the Greek word "Athenaeum".
 It was partly inspired from the ancient .
 An  created by [[17thshard.com\|17th Shard]] for archiving and transcribing Words of Brandon was named after the Palanaeum.
 

@@ -1,9 +1,8 @@
 |**Microkinesis**|
 |-|-|
 |**Prerequisites**|*Unknown*|
-|**World**|[[Yolen\|Yolen]]|
+|**World of Origin**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Microkinesis** is a manifestation of [[Investiture\|Investiture]] originating on [[Yolen\|Yolen]].
 
@@ -20,7 +19,7 @@ Microkinesis grants the power to manipulate the forces that bind [[Axi\|axi]] to
 According to [[Khriss\|Khriss]], microkinesis is a sort of "cousin" to the Surge of Cohesion, as both can manipulate a force known as the strong axial interconnection that holds all matter together. Microkinesis has more sheer power than Cohesion, as [[Honor\|Honor]] placed limits on Cohesion in order to avoid replicating an unknown harmful event on Yolen. However, microkinesis does not grant the same [[Connection\|Connection]] to the shaped material that Cohesion does. It is not clear whether or not microkinesis can also manipulate the axial force related to the Surge of Tension known as soft axial interconnection.
 
 ## History
-Microkinesis is one of the oldest magics in the cosmere, as it predates the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Its origins and any wielders are unknown; the only time it is known to have been used is was during some unspecified "mistakes" on Yolen that were presumably disastrous. The original [[Vessel\|Vessels]] were very cautious regarding the danger of microkinesis, as Honor took its power into account during the creation of Surgebinding.
+Microkinesis is one of the oldest magics in the cosmere, as it predates the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Its origins and any wielders are unknown; the only time it is known to have been used was during some unspecified "mistakes" on Yolen that were presumably disastrous. The original [[Vessel\|Vessels]] were very cautious regarding the danger of microkinesis, as Honor took its power into account during the creation of Surgebinding.
 
 ## Trivia
 Microkinesis was one of the first magic systems that Brandon designed for the cosmere and it is discussed in *Dragonsteel Prime*. However, it was far too powerful in its original form. Various aspects of the magic have therefore not been canonized, but its existence has always remained canon, and it will presumably feature in the rewritten *Dragonsteel* novels.

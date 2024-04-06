@@ -3,9 +3,8 @@
 |**Died**|342 [[Catacendre\|PC]], killed by thugs working for the [[Set\|Set]]|
 |**Profession**|Gravekeeper|
 |**Residence**|[[New Seran\|New Seran]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Anywhere, they don't care none. That’s the motto of the gravekeeper, you know. Just remember, they don’t care none...*”
 \-Dechamp[2]

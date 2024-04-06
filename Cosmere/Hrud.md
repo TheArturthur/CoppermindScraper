@@ -2,9 +2,8 @@
 |-|-|
 |**Groups**|[[Camon's crew\|Camon's crew]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Some say that the real Kelsier is dead, that the thing wearing his face is...something else.*”
 \-Hrud[1]

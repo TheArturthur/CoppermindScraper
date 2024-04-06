@@ -1,9 +1,8 @@
 |**Dazewater**|
 |-|-|
 |**Type**|Anesthetic|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Dazewater** is a liquid that is used to anesthetize patients during surgery on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

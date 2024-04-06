@@ -2,12 +2,11 @@
 |-|-|
 |**Family**|
 |**Children**|[[Lopen\|Lopen]]|
-|**Relatives**|[[Chilinko\|Chilinko]], [[Huio\|Huio]], [[Punio\|Punio]], [[Rod\|Rod]]|
+|**Relatives**|[[Chilinko\|Chilinko]], [[Huio\|Huio]], [[Punio\|Punio]], [[Rod (Roshar)\|Rod]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Herdazian\|Herdazian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*In a Herdazian woman's home, nobody's station means nothing beside her own. I'm not going to have them come and get you and find you not properly fed!*”

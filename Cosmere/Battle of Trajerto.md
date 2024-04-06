@@ -4,7 +4,6 @@
 |**Participants**|[[Varvax\|Krell]] and [[Defiant Defense Force\|Defiant Defense Force]]|
 |**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 The **Battle of Trajerto** is a skirmish between the [[DDF\|DDF]] and [[Varvax\|Krell]] on [[Detritus\|Detritus]].
 Five years prior to [[Spensa\|Spensa]] joining [[Flight School\|Flight School]], a Krell flight infiltrated DDF airspace and destroyed the smaller anti-air defences. Two DDF [[Scout\|scouts]] successfully destroyed the [[Lifebuster\|lifebuster]] before it reached [[Alta\|Alta]], however the DDF came close to losing the base.

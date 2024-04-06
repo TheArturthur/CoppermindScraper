@@ -1,9 +1,8 @@
 |**Gu**|
 |-|-|
 |**Nationality**|[[Purelaker\|Purelaker]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Gu** is a flotilla guide in the [[Reshi Sea\|Reshi Sea]] on [[Roshar\|Roshar]].
 
@@ -22,7 +21,7 @@ He has leathery skin, long limbs, and dark hair. He almost always maintains a re
 Gu is able to speak [[Thaylen\|Thaylen]] well. He also speaks at least a small amount of [[Reshi\|Reshi]], which is in the same language family as Purelake dialects. He is able to skillfully navigate the waters of the Reshi Sea without hitting any dangerous underwater trees. He paddles slowly, always on one side of the boat, yet he can keep it moving straight. He believes that the Tai-na are sapient.
 
 ## History
-He guides a convoy containing [[Vstim\|Vstim's]] crew (including Rysn, [[Kylrm\|Kylrm]], and [[Nlent\|Nlent]]) to a Reshi island, riding in Rysn's boat. He notes that the islands have been harder to find recently, as they are moving in unexpected ways. He is amused when Rysn realizes that the island they are visiting is actually a massive [[Greatshell\|greatshell]], a [[Tai-na\|Tai-na]] known as [[Relu-na\|Relu-na]]. He also laughs when Rysn is embarrassed after realizing that many of the island's residents are nudists. He explains to Rysn that it is too dangerous to dock boats to a Tai-na, and that crews sleep on the open ocean and simply find the island in the morning.
+He guided a convoy containing [[Vstim\|Vstim's]] crew (including Rysn, [[Kylrm\|Kylrm]], and [[Nlent\|Nlent]]) to a Reshi island, riding in Rysn's boat. He noted that the islands had been harder to find recently, as they were moving in unexpected ways. He was amused when Rysn realized that the island they were visiting was actually a massive [[Greatshell\|greatshell]], a [[Tai-na\|Tai-na]] known as [[Relu-na\|Relu-na]]. He also laughed when Rysn was embarrassed after realizing that many of the island's residents were nudists. He explained to Rysn that it was too dangerous to dock boats to a Tai-na, and that crews slept on the open ocean and simply found the island in the morning.
 
 
 

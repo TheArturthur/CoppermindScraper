@@ -1,12 +1,11 @@
 |**Makkek**|
 |-|-|
-|**Died**|Betabesev 1173|
+|**Died**|1173|
 |**Birthplace**|[[Staplind\|Staplind]]|
 |**Residence**|[[Bornwater\|Bornwater]]|
 |**Nationality**|[[Bavland\|Bav]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* The more successful Szeth was, the more audacious Makkek became. How long before he stopped using Szeth to kill minor rivals, instead sending him to kill Shardbearers or powerful lighteyes?*”
 \- Szeth on his master[1]

@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Family|
 |**Era**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn Era 1*|
 
 **House Aime** is a minor house in the [[Final Empire\|Final Empire]].
 The lord of House Aime is unknown although he had several sons, including [[Fedren Aime\|Fedren Aime]] who is a buffoon acording to Lady [[Kliss\|Kliss]].

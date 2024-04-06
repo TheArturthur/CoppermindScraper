@@ -2,11 +2,10 @@
 |-|-|
 |**Profession**|Mayor|
 |**Residence**|[[Bilming\|Bilming]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
-Lord **Bastien Severington** is the mayor of [[Bilming\|Bilming]] in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]].
+Lord **Bastien Severington** is the mayor of [[Bilming\|Bilming]] in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]] during the year 342 [[Catacendre\|PC]].
 
 ## Contents
 

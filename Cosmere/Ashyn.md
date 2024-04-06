@@ -5,9 +5,10 @@
 |**Investitures**|Unknown, disease-based|
 |**System**|[[Rosharan system\|Rosharan system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Silence Divine*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+
+This page or section needs to be updated with new information for *Rhythm of War* and *The Sunlit Man*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*There is Ashyn, the burning planet, which suffered a cataclysm long ago.*”
 \-From Khriss's essay on the Rosharan System[3]
@@ -28,20 +29,19 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 ## Geography and Ecology
 In the past, Ashyn was largely Earth-like, with animals such as birds and horses, and plants like grapes. Although it is not known what the ecology of Ashyn was precisely like, it likely closely resembled the [[Shinovar\|Shinovar]] region on [[Roshar\|Roshar]], as the plants and animals there are ones brought by the original refugees. On Roshar, weather patterns are referred to as "seasons", despite not matching seasons in length, cause, or pattern. This presumably indicates that "season" is a linguistic holdover from Ashyn and therefore that Ashyn has seasons, and, by extension, axial tilt.
-An ecological catastrophe in the past has destroyed most of the planet, annihilating its biosphere. In the present day, the planet is mostly barren, with a few fertile patches. There are some reptiles on it. The planet is called "the burning planet" but it is unknown what this means for its geography.
+An ecological catastrophe in the past has destroyed most of the planet, annihilating its biosphere. In the present day, the planet is mostly barren, with a few fertile patches. There are some reptiles on it. The planet is called "the burning planet" but it is unknown what this means for its geography. The [[Listener Song of Histories\|Listener Song of Histories]] describes Ashyn as "warm", though it is unknown whether this is describing the planet before or after the disaster.
 
 ## History
-Like the rest of the [[Rosharan System\|Rosharan System]], Ashyn was designed by [[Adonalsium\|Adonalsium]]. It was eventually settled by humans. Originally their civilizations had access to powerful magic that was forbidden on [[Roshar\|Roshar]]; this magic was named the [[Surges\|surges]]. Despite its name, however, this may have been a magic system only similar to the surges used on Roshar.
-
 >“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging.*”
-\-Eila Stele[17]
+\-The Eila Stele describing the Ashynite refugees.[13]
 
-The use of Surgebinding on Ashyn was not controlled, and this ultimately lead to a calamity and to the destruction of most of the planet. The civilizations native to Ashyn attempted to flee, with many managing to migrate to Roshar as refugees, where they were accepted by the local populace. It is unclear how the refugees of Ashyn fled. [[Odium\|Odium]] arrived on Roshar along with them. The memory of Ashyn would have a large effect on Rosharan mythology. as it is remembered as the Tranquiline Halls.
+Like the rest of the [[Rosharan System\|Rosharan System]], Ashyn was designed by [[Adonalsium\|Adonalsium]]. It was eventually settled by humans. Originally their civilizations had access to powerful magic that was forbidden on [[Roshar\|Roshar]]; this magic was named the [[Surges\|surges]]. Despite its name, however, this may have been a magic system only similar to the surges used on Roshar.
+The use of Surgebinding on Ashyn was not controlled, and this ultimately led to a calamity and to the destruction of most of the planet. The civilizations native to Ashyn attempted to flee, with many managing to migrate to Roshar as refugees, where they were accepted by the local populace. They did this using Elsecalling, amplified by a Bondsmith. [[Odium\|Odium]] arrived on Roshar along with them. The memory of Ashyn would have a large effect on Rosharan mythology.
 Despite the devastation, some patches of Ashyn remained hospitable. The magic on Ashyn changed after the destruction to become illness-based. This worked off a symbiotic relationship between [[Investiture\|Investiture]] and bacteria/viruses; by allowing oneself to get infected, one gains magical effects. Among the surviving areas of Ashyn are the famous floating cities which are held afloat due to a special disease. Some on Ashyn remain aware of Roshar's existence.
 
 ## Culture
-Following the devestation on Ashyn the majority of its population fled to Roshar, the nearest hospitable planet, for refuge. The remainders live on the few habitable pieces of land left on the worlds surface which includes its famous floating cities.
-The destruction of Ashyn has had a major impact on Rosharan culture being remembered as the [[Tranquiline Halls\|Tranquiline Halls]] and gaining religious significance in [[Vorinism\|Vorinism]]. Ashyn itself has also remained aware of Roshar's existence however the impact this has had on their culture is unknown. Little can be ascertained as to how Ashyn culture functions however it is known that due to the way investure manifests upon the world disease is an important aspect of it. In particular the floating cities are held afloat by individuals infected with a disease that causes hearing loss making them essential to the cities continued existence.
+Following the devastation on Ashyn the majority of its population fled to Roshar, the nearest hospitable planet, for refuge. The remainders live on the few habitable pieces of land left on the worlds surface, which includes its famous floating cities.
+The destruction of Ashyn has had a major impact on Rosharan culture being remembered as the [[Tranquiline Halls\|Tranquiline Halls]] and gaining religious significance in [[Vorinism\|Vorinism]]. Ashyn itself has also remained aware of Roshar's existence however the impact this has had on their culture is unknown. Little can be ascertained as to how Ashyn culture functions, however it is known that due to the way Investiture manifests upon the world, disease is an important aspect of it. In particular the floating cities are held afloat by individuals infected with a disease that causes hearing loss making them essential to the cities continued existence.
 
 ## Magic
 Ashyn currently has no [[Shard\|Shard]], but [[Cultivation\|Cultivation]] spent some time there. [[Odium\|Odium]] also possibly spent some time there, as he followed the Ashynites to Roshar. Like most of the Rosharan system, the planet is 10-centric.
@@ -57,8 +57,8 @@ The earliest reference to Ashyn, though not under that name, can be found in Bra
 In the story, Ashynites do not have [[Fabrial\|fabrials]], but appear to have discovered gunpowder, as some are mentioned carrying flintlock pistols. Abilities granted by diseases include prophecy and changing the color of liquids, and are accompanied by sometimes-dangerous side effects, such as physical weakness, hallucinations, and deadly fevers. Occasionally, there are some symptoms left behind after the disease is over, called Echoes, which take some time to fade or don't disappear at all. People who carry the diseases are called **Incubators**.
 
 ## Trivia
-Some of the [[Heralds\|Heralds]] were born on Ashyn. 
-
+Most or all of the [[Heralds\|Heralds]] came from Ashyn and one or more may have been born there.
+Sometime before his arrival on [[Canticle\|Canticle]], [[Nomad\|Nomad]] had visited one of the flying cities on Ashyn.
 
 
 https://coppermind.net/wiki/Ashyn

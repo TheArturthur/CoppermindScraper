@@ -3,17 +3,16 @@
 |by  AnnDR |
 |**Related to**|[[Shards\|Shards]], [[Spiritual Realm\|Spiritual Realm]], [[Cognitive Realm\|Cognitive Realm]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn, The Stormlight Archive*|
 It has been suggested that this page be merged into [[Spiritual Realm\|Spiritual Realm]].The information on this page is much better suited to be included on other pages.
 
 For the [[Austrism\|Austrist]] religious text, see [[Five Visions\|Five Visions]].
 
 
->**Spook**: "*What is this?*"**Kelsier**: "*Half dream.*"**Spook**: "*Half dream?*"**Kelsier**: "*You’re almost dead, kid. Smashed your spirit up pretty good. Lots of cracks. That let me in.”*"
+>**Spook**: "*What is this?*"**Kelsier**: "*Half dream.*"**Spook**: "*Half dream?*"**Kelsier**: "*You’re almost dead, kid. Smashed your spirit up pretty good. Lots of cracks. That let me in.*"
 \-Spook: "What is this?"
 Kelsier: "Half dream."
 Spook: "Half dream?"
-Kelsier: "You’re almost dead, kid. Smashed your spirit up pretty good. Lots of cracks. That let me in.”"
+Kelsier: "You’re almost dead, kid. Smashed your spirit up pretty good. Lots of cracks. That let me in."
 
 
 **Visions** are a partially spiritual partially cognitive phenomena that Shards and some Invested individuals can induce.
@@ -44,10 +43,15 @@ Visions are almost like glimpsing into the [[Spiritual Realm\|Spiritual Realm]],
 Visions may be a type of pocket dimension in the Spiritual Realm and are considered a warping of the Realms. Due to this, time may slow in the [[Physical Realm\|Physical Realm]] when a vision is occurring. Visions do not change the past or create alternate timelines.
 
 ### Creation
-Those with the ability are able to induce visions on their targets. In order to bring a person into a vision, a strong [[Connection\|Connection]] must be made. This may require a conduit (such as the [[Everstorm\|Everstorm]], [[Highstorm\|Highstorm]], or access via someone else Connected to them) if the Connection between the two is not strong enough. For [[Shard\|Shards]], targeting lone individuals requires a high level on Connection.
+>**Dalinar**: "*This place is where you make the visions happen, isn’t it? Time sometimes moved oddly in those.*"**Stormfather**: "*Yes. But you must have Connection for a vision. You must have a reason for it. A meaning. It cannot be just anything.*"
+\-Dalinar: "This place is where you make the visions happen, isn’t it? Time sometimes moved oddly in those."
+Stormfather: "Yes. But you must have Connection for a vision. You must have a reason for it. A meaning. It cannot be just anything."
+
+
+Those with the ability are able to induce visions on their targets. In order to bring a person into a vision, a strong [[Connection\|Connection]] must be made. This may require a conduit (such as the [[Everstorm\|Everstorm]], [[Highstorm\|Highstorm]], or access via someone else Connected to them) if the Connection between the two is not strong enough. For [[Shard\|Shards]], targeting lone individuals requires a high level of Connection.
 
 ### Mechanics
-Those pulled into a vision have little control over it and often can't refuse. However, they may be able to pull in those they are bonded with. Those pulled into a vision manifest via their mind and soul, ignoring physical aliments.
+Those pulled into a vision have little control over it and often can't refuse. However, they may be able to pull in those they are bonded with. Those pulled into a vision manifest via their mind and soul, ignoring physical aliments. Some visions can be slowed down, similar to the effects of a [[Bendalloy\|speed bubble]].
 Those who a brought into a vision can bring some things with them (such as the [[Thrill\|Thrill]], [[Surgebinding\|Surgebinding]], or [[Nightblood\|Nightblood]]), though some things cannot be brought (such as [[Shardblade\|Shardblades]]). Things affected in a vision will carry over after exiting one, such as paper being torn in a vision remaining torn after leaving the vision. Likewise, some entities inside a vision can still be harmed or killed. Accents might not carry over inside of visions.
 
 

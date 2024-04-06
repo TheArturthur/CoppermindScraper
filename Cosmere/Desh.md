@@ -1,9 +1,8 @@
 |**Desh**|
 |-|-|
 |by User: Otto didact|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Desh** is a kingdom in southwestern [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]] and a member state of the [[Azir\|Azish empire]].
 

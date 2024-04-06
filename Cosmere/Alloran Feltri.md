@@ -3,9 +3,8 @@
 |**Abilities**|[[Rioter\|Rioter]] (alleged)|
 |**Profession**|Politician|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“* Vote for Passion! Vote for Freedom! Vote for Feltri!*”
 \- An advertisement placed by Canalworkers for Feltri[1]

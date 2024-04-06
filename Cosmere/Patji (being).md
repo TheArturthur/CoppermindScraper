@@ -2,9 +2,8 @@
 |-|-|
 |**Abilities**|Avatar of [[Autonomy\|Autonomy]]|
 |**Residence**|[[Patji (island)\|Patji (island)]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 For the island located on [[First of the Sun\|First of the Sun]], see [[Patji (island)\|Patji (island)]].
 >“*We stand in the sea, pleased with our domains. Leave us alone.*”

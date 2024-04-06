@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|medicine|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Mi Won** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]].
 She is Korean, and is Stephen's surgeon and field medic. During the [[White Room\|White Room]] she analyzes the effects of inserting extra DNA into muscle cells.

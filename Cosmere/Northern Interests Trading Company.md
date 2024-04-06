@@ -2,9 +2,8 @@
 |-|-|
 |**Members**|[[Vathi\|Vathi]], [[Eusto\|Eusto]], [[Winds\|Winds]]|
 |**Services**|[[Aviar\|Aviar]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 >“*We'll lose it all. We can’t fight them. They’ll find an excuse, they’ll seize the Aviar. It makes perfect sense. The Aviar use the worms. We use the Aviar. The Ones Above use us. It’s inevitable, isn’t it?*”
 \-Vathi[1]

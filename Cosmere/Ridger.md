@@ -9,9 +9,8 @@
 |**Titles**|Heir to the throne of [[Idris\|Idris]]|
 |**Residence**|[[Bevalis\|Bevalis]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Ridger** is a member of the [[Idris\|Idrian]] royal family on [[Nalthis\|Nalthis]]. As the second born child of King [[Dedelin\|Dedelin]], Ridger was trained to one day become king, as his elder sister was betrothed to become the queen of [[Hallandren\|Hallandren]].
 

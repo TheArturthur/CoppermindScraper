@@ -4,9 +4,9 @@
 |**Profession**|Cleaner|
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 >“*I haven't been hungry in days, my lord. It is the most amazing feeling in the world—I don’t even notice the pain anymore.*”
 \-Kahar, after discovering Raoden's "secret"[1]

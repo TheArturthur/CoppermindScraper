@@ -1,8 +1,7 @@
 |**Curators of Alexandria**|
 |-|-|
 |by  Hayley Lazo |
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 The **Curators of Alexandria** are the undead caretakers of the [[Library of Alexandria\|Library of Alexandria]].
 
@@ -38,4 +37,4 @@ If one wishes to access the knowledge in the Library of Alexandria, a loophole i
 
 
 
-https://coppermind.net/wiki/Curators_of_Alexandria
+https://coppermind.net/wiki/Curators

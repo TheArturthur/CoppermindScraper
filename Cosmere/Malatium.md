@@ -1,13 +1,11 @@
 |**Malatium**|
 |-|-|
-||
+|||
 |by [[Isaac Stewart\|Isaac Stewart]]|
 |**Allomancy**|
 |**Power**|See the past or alternate versions of others|
 |**Metal type**|God Metal alloy|
-|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*Mistborn (series)*|
 
 "Eleventh Metal" redirects here. For the short story, see [[The Eleventh Metal\|The Eleventh Metal]].
 >“*I could never figure out how this blasted metal was supposed to work.*”
@@ -37,7 +35,7 @@ Malatium, when used by a [[Feruchemist\|Feruchemist]], has unknown properties.
 When used as a [[Hemalurgic\|Hemalurgic]] spike, malatium steals some unknown trait or quality.
 
 ## History
-While learning Allomancy from [[Gemmel\|Gemmel]], [[Kelsier\|Kelsier]] infiltrates [[Keep Shezler\|Keep Shezler]] and, after defeating the Mistborn [[Antillius Shezler\|Antillius Shezler]], comes across Shezler's notes theorizing about a possible eleventh Allomantic metal. Even after becoming [[Harmony\|Harmony]], [[Sazed\|Sazed]] could not find any prior legends about an eleventh metal and concluded that the legends were likely fabricated by [[Ruin\|Ruin]] to help drive Kelsier's plan to kill the [[Lord Ruler\|Lord Ruler]]. Between Shezler's apparent mental instability, which might have allowed Ruin to speak to him, and Ruin's ability to manipulate text, it is entirely plausible that Ruin could have been behind the creation of Shezler's notes. Furthermore, Gemmel, the person who directed Kelsier to Keep Shezler and drew his attention to Shezler's notes in the first place, showed signs of being manipulated by Ruin, suggesting that Ruin was indeed intentionally leading Kelsier to the notes.
+While learning [[Allomancy\|Allomancy]] from [[Gemmel\|Gemmel]], [[Kelsier\|Kelsier]] infiltrates [[Keep Shezler\|Keep Shezler]] and, after defeating the Mistborn [[Antillius Shezler\|Antillius Shezler]], comes across Shezler's notes theorizing about a possible eleventh Allomantic metal. Even after becoming [[Harmony\|Harmony]], [[Sazed\|Sazed]] could not find any prior legends about an eleventh metal and concluded that the legends were likely fabricated by [[Ruin\|Ruin]] to help drive Kelsier's plan to kill the [[Lord Ruler\|Lord Ruler]]. Between Shezler's apparent mental instability, which might have allowed Ruin to speak to him, and Ruin's ability to manipulate text, it is entirely plausible that Ruin could have been behind the creation of Shezler's notes. Furthermore, Gemmel, the person who directed Kelsier to Keep Shezler and drew his attention to Shezler's notes in the first place, showed signs of being manipulated by Ruin, suggesting that Ruin was indeed intentionally leading Kelsier to the notes. Ruin later claimed that he was in fact responsible for manipulating Kelsier into "discovering" the metal.
 
 
 

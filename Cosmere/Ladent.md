@@ -1,9 +1,8 @@
 |**Ladent**|
 |-|-|
 |**Profession**|[[Ardent\|Ardent]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ladent** is an ardent in [[Dalinar\|Dalinar's]] camp.
 He is bald but wears a beard. He wore thick robes with long sleeves.

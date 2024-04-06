@@ -4,11 +4,10 @@
 |**Profession**|Starship navigator|
 |**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
 |**Species**|[[Kitsen\|Kitsen]]|
-|**World**|[[Evershore (planet)\|Evershore]]|
+|**Homeworld**|[[Evershore (planet)\|Evershore]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Starsight*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Starsight*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Kauri** is a [[Kitsen\|kitsen]] who travels to [[Starsight (station)\|Starsight]] under the leadership of [[Hesho\|Hesho]] and acts as his shieldbearer and navigator.
 

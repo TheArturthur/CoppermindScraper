@@ -1,9 +1,9 @@
 |**Sliverism**|
 |-|-|
-|**Related to**|Ironeyes|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Related to**|[[Marsh\|Ironeyes]]|
+|**Type**|Religion|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 This page or section needs to be updated with new information for *Shadows of Self*!Be aware that in its current state, it may not include all additional content yet.
 
 **Sliverism** is a religion on [[Scadrial\|Scadrial]] that arose after the [[Final Ascension\|Final Ascension]].

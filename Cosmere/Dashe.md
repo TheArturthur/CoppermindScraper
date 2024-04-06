@@ -6,9 +6,9 @@
 |**Bonded With**|[[Ati (seon)\|Ati]]|
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Dashe** is an [[Elantrian\|Elantrian]] from [[Sel\|Sel]].
 He is [[Karata\|Karata's]] second-in-command, helping to keep the [[Roost\|Roost]] safe. After [[Raoden\|Raoden's]] arrival he forms a team to raid [[Aanden\|Aanden]] against the behest of both Karata and Raoden.

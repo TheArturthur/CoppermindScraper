@@ -4,9 +4,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Truthwatchers\|Truthwatcher]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Arshqqam\|Arshqqam]]|
 |**Species**|[[Mistspren\|Mistspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*Do you think me pretty, or do you think me a monster?*”
 \-Dreaming-though-Awake[1]
@@ -46,7 +46,7 @@ Arshqqam eventually felt impelled to leave [[Tashikk\|Tashikk]] and join the res
 >“*I find the questions fascinating. What you wonder tells me so much.*”
 \-Dreaming-though-Awake[2]
 
-On the second day of their journey, [[Shallan\|Shallan]] sat on the barge sketching when she decided to try to capture Dreaming-though-Awake's odd appearance. The spren approached her and was disappointed to find just a sketch of herself, hoping to see a drawing of the [[Unmade\|Unmade]]. When Shallan eagerly plied Dreaming-though-Awake with questions regarding [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], the mistspren had no answers her.
+On the second day of their journey, [[Shallan\|Shallan]] sat on the barge sketching when she decided to try to capture Dreaming-though-Awake's odd appearance. The spren approached her and was disappointed to find just a sketch of herself, hoping to see a drawing of the [[Unmade\|Unmade]]. When Shallan eagerly plied Dreaming-though-Awake with questions regarding [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], the mistspren had no answers for her.
 Dreaming-though-Awake read the letters that Jasnah and [[Dalinar\|Dalinar]] sent with the group to appeal to the honorspren and discussed them with Arshqqam; later, she translated as Arshqqam pointed out the flaws in their arguments. Citing Dreaming-though-Awake's observation that honorspren can be passionate, Arshqqam suggested that Adolin appeal to their sense of honor.
 When Adolin realized that the caravan of humans behind them had been waiting for a chance to attack [[Notum\|Notum]], Adolin raced off to save him, leaving the rest of the group to follow as quickly as they could. The rest of the group outpaced Arshqqam, Dreaming-though-Awake, and the [[Cryptic\|Cryptics]], who only made it about halfway before meeting the rest of the party returning with Notum and Adolin.
 After Adolin, Shallan, Maya, and [[Pattern\|Pattern]] entered [[Lasting Integrity\|Lasting Integrity]], Arshqqam and Dreaming-though-Awake left with [[Zu (Roshar)\|Zu]], [[Ua'pam\|Ua'pam]], and Adolin's soldiers to bring word of the situation to Dalinar.

@@ -1,9 +1,8 @@
 |**Eleseth**|
 |-|-|
 |**Profession**|Scholar|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Eleseth** is a scholar and artist on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

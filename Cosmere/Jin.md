@@ -1,9 +1,8 @@
 |**Jin**|
 |-|-|
-|**Groups**|[[Ghostbloods\|Ghostbloods]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Ghostbloods\|Ghostbloods]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jin** is a member of the [[Ghostbloods\|Ghostbloods]].
 He is described as a golden-haired man with a bare chest beneath a flowing outer robe.

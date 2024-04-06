@@ -3,11 +3,10 @@
 |by  Shawn Boyles |
 |**Participants**|[[Pahn Kahl\|Pahn Kahl]], [[Hallandren\|Hallandren]], [[Idris\|Idris]]|
 |**Effects**|War averted, [[Susebron\|Susebron]] healed, [[Kalad's Phantoms\|Kalad's Phantoms]] rediscovered, deaths of [[Lightsong\|Lightsong]] and [[Blushweaver\|Blushweaver]]|
-|**City**|[[T'Telir\|T'Telir]]🐱︎|
-|**Nation**|[[Hallandren\|Hallandren]]🐱︎|
+|**City**|[[T'Telir\|T'Telir]]|
+|**Nation**|[[Hallandren\|Hallandren]]|
 |**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“* And so here you are. Unable to fight. Unable to free yourselves. Considered second-class. And yet, if your oppressors were to get into a war, it might give you an opening. A chance to break away…*”

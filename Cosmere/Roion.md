@@ -7,9 +7,8 @@
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]]|
 |**Groups**|Roion army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -37,7 +36,7 @@ Roion's army is known for having the best archers.
 ## History
  by [[Isaac Stewart\|Isaac Stewart]] Roion [[Glyphpair\|glyphpair]]
 ### Contesting Gemhearts on the Plains
-Little is known of Roion's early life or what role, if any, he played in the Alethi unification wars. At some point he fathered at least one child, a son who was his heir. In 1167, following the assassination of his king [[Gavilar Kholin\|Gavilar Kholin]], Roion swore the [[Vengeance Pact\|Vengeance Pact]] with the other highprinces, beginning the [[War of Reckoning\|War of Reckoning]] against the [[Listeners\|listeners]]. He brought his armies to the craters on the western margin of the [[Shattered Plains\|Shattered Plains]] and set up a warcamp in in the northernmost crater, next to the Sadeas camp. Over the course of the next six years, Roion competed with the other highprinces and the listeners for the [[Gemheart\|gemhearts]] of pupating chasmfiends. His army was particularly unsuccessful, he won the fewest gemhearts of any highprince during the early years of the war. He often attended the feasts held by King [[Elhokar Kholin\|Elhokar Kholin]] and was badly insulted by Wit at one such occasion.
+Little is known of Roion's early life or what role, if any, he played in the Alethi unification wars. At some point he fathered at least one child, a son who was his heir. In 1167, following the assassination of his king [[Gavilar Kholin\|Gavilar Kholin]], Roion swore the [[Vengeance Pact\|Vengeance Pact]] with the other highprinces, beginning the [[War of Reckoning\|War of Reckoning]] against the [[Listeners\|listeners]]. He brought his armies to the craters on the western margin of the [[Shattered Plains\|Shattered Plains]] and set up a warcamp in the northernmost crater, next to the Sadeas camp. Over the course of the next six years, Roion competed with the other highprinces and the listeners for the [[Gemheart\|gemhearts]] of pupating chasmfiends. His army was particularly unsuccessful, he won the fewest gemhearts of any highprince during the early years of the war. He often attended the feasts held by King [[Elhokar Kholin\|Elhokar Kholin]] and was badly insulted by Wit at one such occasion.
 In 1173, he met with Dalinar Kholin to discuss the possibility of a joint plateau assault. Roion needled Dalinar several times during the conversation, asking questions about the fits he experienced during highstorms, questioning whether the Blackthorn was losing his touch. Dalinar tried to convince Roion that a more direct approach to the war was necessary for victory, offering to split any gemhearts won on joint assaults. He hoped to use Roion's superior archers to supplement his heavy infantry. Dalinar hoped Roion's position as the least successful highprince would lead him to agree to a chance at greater spoils. Roion expressed uncertainty over who would keep any captured [[Shards\|Shardbearer]]. Dalinar offered Roion the first full set of Shards if he could keep the second to himself. Ultimately Roion became concerned that Dalinar was attempting to manipulate him to seize his lands, and Dalinar was unable to persuade him otherwise They ended the conversation on uncertain terms, and Roion ultimately declined Dalinar's initial offer soon after.
 
 ### Late Stages of War of Reckoning

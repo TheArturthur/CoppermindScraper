@@ -3,9 +3,8 @@
 |by  Yen Shu Liao |
 |**Type**|Plant, Poison|
 |**Native to**|[[Unclaimed Hills\|Unclaimed Hills]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Blackbane** is a poisonous plant that grows on [[Roshar\|Roshar]]. It is one of the deadliest natural poisons on the planet.
 

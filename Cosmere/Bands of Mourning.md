@@ -1,15 +1,17 @@
 |**Bands of Mourning**|
 |-|-|
 |by  Shuravf |
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+
 This article is for the universe object. For the [[Mistborn series\|Mistborn series]] novel, see [[The Bands of Mourning\|The Bands of Mourning]].
 >“*The power they offer is something... Sublime and devastating at once. Dangerous because of what it could do in the wrong hands, yet somehow more dangerous in your own.*”
 \-Wax and Marasi on the power of the Bands of Mourning[1]
 
 
-The **Bands of Mourning** are the legendary [[Feruchemy\|Feruchemical]] bracers that were supposedly created by the [[Rashek\|Lord Ruler]] and could purportedly grant the wearer his powers. However, while they did grant all known [[Allomancy\|Allomantic]] and Feruchemical abilities, they were not actually made by the Lord Ruler, and instead, the [[Sovereign\|Sovereign]] was involved. "Bands of Mourning" is a misleading name, probably to prevent people from finding it; it is actually a spearhead.
+The **Bands of Mourning** are the legendary [[Feruchemy\|Feruchemical]] bracers that were supposedly created by the [[Rashek\|Lord Ruler]] and could purportedly grant the wearer his powers. However, while they did grant all known [[Allomancy\|Allomantic]] and Feruchemical abilities, they were not actually made by the Lord Ruler, and instead, the [[Sovereign\|Sovereign]] was involved. "Bands of Mourning" is a misleading name, probably to prevent people from finding it; it is actually a spearhead. They are currently owned by the [[Malwish Consortium\|Malwish Consortium]].
 
 ## Description
 The Bands of Mourning is an oversized, spearhead shaped object made of all of the Allomantic metals. The different metals are interwoven into the Bands of Mourning in wavy patterns, not unlike the folds of a pattern welded blade. When first found, it stored more power than any other [[Metalmind\|metalmind]] ever before seen.

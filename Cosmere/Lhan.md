@@ -4,9 +4,8 @@
 |**Profession**|[[Ardent\|Ardent]]|
 |**Groups**|[[Cult of Moments\|Cult of Moments]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Congratulations. You have found your way to the easiest job in the world.*”
 \-Brother Lhan to Pai[2]

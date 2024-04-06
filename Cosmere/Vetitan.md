@@ -1,11 +1,10 @@
 |**Vetitan**|
 |-|-|
 |**Ruled by**|[[Fatren\|Fatren]]|
-|**Dominance**|[[Southern Dominance\|Southern Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Southern Dominance\|Southern Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Vetitan** is a small town in the [[Southern Dominance\|Southern Dominance]] of [[Scadrial\|Scadrial]]. It is the location of one of the [[Lord Ruler\|Lord Ruler's]] [[Storage cavern\|storage caverns]].
 

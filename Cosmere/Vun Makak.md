@@ -1,9 +1,8 @@
 |**Vun Makak**|
 |-|-|
 |**Related to**|[[Purelake\|Purelake]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Foreigners were so stupid. Of course Nu Ralik was their god, but you always pretended that he wasn't. Vun Makak — his younger, spiteful brother — had to be tricked into thinking you worshiped him, otherwise he’d get jealous. It was only safe to speak of these things in a holy grotto.*”
 \-Ishikk on the Purelaker religion[1]

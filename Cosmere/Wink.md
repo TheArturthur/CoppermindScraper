@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Advisor|
 |**Nationality**|[[Mokian\|Mokian]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*Always wear a hat when feeding pigeons.*”
 \-Wink giving advice to Alcatraz.[1]

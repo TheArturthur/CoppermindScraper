@@ -1,9 +1,8 @@
 |**Grindings**|
 |-|-|
 |**Symptoms**|Coughing|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **grindings** or **grinding coughs** was a disease on [[Roshar\|Roshar]].
 

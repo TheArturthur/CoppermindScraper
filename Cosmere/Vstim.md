@@ -5,9 +5,8 @@
 |**Relatives**|[[Chanrm\|Chanrm]]|
 |**Profession**|Merchant|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vstim** is a [[Thaylen\|Thaylen]] merchant on [[Roshar\|Roshar]]. He is currently employed as the Minister of Trade for [[Queen Fen\|Queen Fen]], the highest civil position in the Thaylen government. He was "Babsk" to [[Rysn\|Rysn]], a position consisting of a master to an apprentice, and also her legal father until he pronounced her a merchant in her own right.
 
@@ -45,7 +44,7 @@ Later [[Dalinar\|Dalinar]] found Rysn and the wounded Vstim amid the wreckage of
 Prior to Rysn meeting with [[Navani Kholin\|Navani Kholin]], Vstim shared information with her about a secret Alethi [[Fabrial\|fabrial]] project involving a set of conjoined fabrial lifts. Some of the details of the project were public, but Vstim's position as Thaylen Minister of Trade afforded him private information on the true purpose of the project.
 Vstim accepted investment funds from several people for creation of the *Wandersail*. However, despite transferring ownership of the *Wandersail* to Rysn, he remained the primary investor. As such, he received a portion of the *Wandersail'*s profits.
 During the construction and test voyages of the *Wandersail*, Vstim kept his intention to gift the ship to Rysn private. This led to initial animosity towards Rysn on the part of the crew, who anticipated ownership being given to [[Drlwan\|Drlwan]], the captain.
-On her voyage to [[Akinah\|Akinah]], Rysn recalled a particular set of trades made by Vstim during an expedition to the wilderness of [[Hexi\|Hexi]]. While in [[Triax\|Triax]], Vstim purchased barrels of containing worms for mere chips. He later traded the wormy grain to Hexi nomads, as their priestly class took oaths not to eat flesh but considered grubs and insects to be plant, not animal.
+On her voyage to [[Akinah\|Akinah]], Rysn recalled a particular set of trades made by Vstim during an expedition to the wilderness of [[Hexi\|Hexi]]. While in [[Triax\|Triax]], Vstim purchased barrels of grain containing worms for mere chips. He later traded the wormy grain to Hexi nomads, as their priestly class took oaths not to eat flesh but considered grubs and insects to be plant, not animal.
 When the *Wandersail* and its crew took shore leave, following the encounter with the [[Sleepless\|Sleepless]] in the form of a dead [[Santhid\|santhid]], Rysn communicated with Vstim via spanreed. He informed her of Queen Navani's secret goal to find an [[Oathgate\|Oathgate]] on Akinah. Vstim also spoke via spanreed with Queen [[Jasnah Kholin\|Jasnah Kholin]] on behalf of Rysn regarding the [[Sleepless\|Sleepless]] and the [[Fused\|Fused]] Lightweavers.
 
 ### Post-expedition

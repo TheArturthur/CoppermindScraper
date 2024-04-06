@@ -1,9 +1,8 @@
 |**Tears of Edgli**|
 |-|-|
 |by  Isaac Stewart |
-|**World**|[[Nalthis\|Nalthis]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*Some scholars say that the Manywar was fought over these ﬂower petals, that the kingdoms of Kuth and Huth were destroyed by little drips of color.*”
 \-Hoid[1]

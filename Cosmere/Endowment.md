@@ -8,7 +8,6 @@
 |**Magics**|[[Awakening\|Awakening]]|
 |**Residence**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*It was agreed that we would not interfere with one another, and it disappoints me that so few of the Shards have kept to this original agreement.*”
 \-Endowment[2]
@@ -35,7 +34,8 @@
 
 ## Intent
 Endowment's [[Shard\|Intent]] is not entirely clear; it's likely related to bestowing gifts or talents upon others. The Intent does not seem to influence [[Edgli\|Edgli]] in all matters, as she is still capable of refusing giving aid to [[Hoid\|Hoid]]. The prime examples of the Intent's influence are the creation of the Returned, via resurrection and a Returned Breath, and the magic system of [[Awakening\|Awakening]], as [[Breath\|Breath]] can only be given, and cannot be forcefully taken.
-Endowment is the Shard Hoid would have taken if he wanted to become a Vessel.
+The way in which she manifests her Intent is notably erratic and inconsistent.
+Endowment is the Shard Hoid might have taken, had he wanted to become a Vessel.
 
 ## Associated Magic
  by  Ari Ibarra  An [[Awakener\|Awakener]] using her [[Breath\|Breath]]
@@ -48,10 +48,10 @@ Breaths can also be used to manipulate and store memories, although specifics of
 ### Divine Breath and the Returned
 For more information, see [[Returned\|Returned]].
 >“*He remembered a voice, calm and comforting, offering him an opportunity. To Return.*”
-\-Lightsong[13]
+\-Lightsong[15]
 
 
-Endowment can create [[Splinter\|splinters]] of herself called Divine Breaths, and bestow them upon the recently deceased. This brings them back to life; such people are known as the [[Returned\|Returned]]. The Returned have little to no memory of their previous life, but they do retain any skills they've had while alive. Their appearance also changes, in accordance to how they perceive themselves and the influence of local culture on their image of a "god". With some skill, the Returned can change their appearance to some extent, though it is no true shapeshifting.
+Endowment can create [[Splinter\|splinters]] of herself called Divine Breaths, and bestow them upon the recently deceased. This brings them back to life; such people are known as the [[Returned\|Returned]]. The Returned have little to no memory of their previous life, but they do retain any skills they've had while alive. Their appearance also changes, in accordance to how they perceive themselves and the influence of local culture on their image of a "god". With some skill, the Returned can change their appearance to some extent, though it is not true shapeshifting.
 The Divine Breath immediately grants the Returned the effects of the Fifth [[Heightening\|Heightening]]. However, the Returned must consume at least one Breath a week; otherwise, after their Divine Breath is consumed and, with nothing to support their existence, they die. Endowment does not discourage this, and is fine with her Breath being used to feed the Returned.
 They can also choose to bestow their Divine Breath upon others, which typically results in a massive feat of power, often tied to healing, though it will kill the Returned. Giving up their Divine Breath is often the reason they were Returned in the first place -- a potential Returned is shown a vision of the future by Endowment, and chooses to come back based on that, although the memory of it fades away until it is needed.
 
@@ -69,13 +69,13 @@ Endowment has some capacity to perceive the future and bestow those visions upon
 
 
 Like all [[Shard\|Shards]], Endowment was created at the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]], and contains one sixteenth of him. The people present at the Shattering agreed to go separate ways after taking their Shards. And so, when Endowment was picked up by [[Edgli\|Edgli]], she took it from [[Yolen\|Yolen]] and eventually settled on [[Nalthis\|Nalthis]].
-Millennia later, the people of [[Chedesh\|Chedesh]] landed on the shores of the land that now houses [[Hallandren\|Hallandren]]. It was then that Endowment first created a Returned in [[Vo\|Vo]], who managed to have five Visions and father a child before dying a week later. From then on out, Returned began appearing in other parts of the world. Among others, Endowment Returned the [[Five Scholars\|Five Scholars]], including [[Vasher\|Vasher]] and [[Shashara\|Shashara]], who together created [[Nightblood\|Nightblood]], and [[Lightsong\|Lightsong]], who saved the Hallandren from a continent-wide war by restoring the power of the god-king.
+Millennia later, the people of [[Chedesh\|Chedesh]] landed on the shores of the land that now houses [[Hallandren\|Hallandren]]. It was then that Endowment first created a Returned in [[Vo\|Vo]], who managed to have five Visions and father a child before dying a week later. From then on out, Returned began appearing in other parts of the world. Among others, Endowment Returned the [[Five Scholars\|Five Scholars]], including [[Vasher\|Vasher]] and [[Shashara\|Shashara]], who together created [[Nightblood\|Nightblood]], and [[Lightsong\|Lightsong]], who saved the Hallandren from a continent-wide war by restoring the power of [[Susebron\|Susebron]], the god-king.
 Around the time of [[True Desolation\|True Desolation]] on [[Roshar\|Roshar]], [[Hoid\|Hoid]] began contacting various Shards in an attempt to build a resistance to [[Odium\|Odium]], which was then held by [[Rayse\|Rayse]]. Endowment, still annoyed at the Vessels who chose to settle down in pairs in violation of the original pact, declined. Believing Rayse to be of little concern, she chided Hoid for dabbling in matters far outside his scope, and suggested that if Odium were to become an issue, he would be dealt with promptly -- as would Hoid himself.
 Some time later, [[Harmony\|Harmony]] contacted Endowment at Hoid's behest. She was willing to communicate, though it's unknown what she told him.
 
 ## Influence
 >“*By the Colors!*”
-\-Nalthian expression[16]
+\-Nalthian expression[18]
 
 
  by  Heatherly Despite being Nalthis' only Shard, the planet's inhabitants seem by and large unaware of her existence, even through religion. Of the known cultures, only the [[Pahn Kahl\|Pahn Kahl]] have any knowledge of her; and even then, she is known only as the voice that brings back the Returned. While the people of [[Idris\|Idris]] are monotheistic, their god, [[Austre\|Austre]], is not based on Endowment.

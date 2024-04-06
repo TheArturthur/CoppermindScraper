@@ -2,11 +2,10 @@
 |-|-|
 |**Died**|Killed by the [[Reckoners\|Reckoners]]|
 |**Powers**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Firefight*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-**Instabam** is an [[Epic\|Epic]] killed by the [[Reckoners\|Reckoners]].
-He had potato-based powers.
+**Instabam** is an [[Epic\|Epic]] killed by the [[Reckoners\|Reckoners]] after he attacks them.
+He has potato-based powers.
 
 
 

@@ -4,9 +4,8 @@
 |**Spouse**|Brightness Tavinar |
 |**Children**|[[Eylita Tavinar\|Eylita]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Brightlord and Brightness Tavinar had been there on that day, when the bastard had come. They were not fond of Father, or his children.*”
 \- Shallan[1]

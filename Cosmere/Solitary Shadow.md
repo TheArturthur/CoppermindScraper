@@ -2,7 +2,6 @@
 |-|-|
 |**Region**|[[Nowhere\|Nowhere]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*We call it the Solitary Shadow. It is the last stop on your quest.*”
 \-Chet to Spensa[1]

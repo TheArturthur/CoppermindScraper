@@ -2,12 +2,11 @@
 |-|-|
 |**Died**|[[Battle of Kholinar\|Battle of Kholinar]] 1174|
 |**Profession**|Guardsman|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Beard** is an eccentric member of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is a part of [[Noro\|Noro's]] squad, Platoon Seven, Squad Two.
 

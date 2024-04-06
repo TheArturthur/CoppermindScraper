@@ -4,15 +4,15 @@
 |**Abilities**|[[ChayShan\|ChayShan]]|
 |**Titles**|Baron|
 |**Nationality**|[[JinDo\|JinDo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 Baron **Shuden** is a [[JinDo\|JinDo]] merchant in [[Arelon\|Arelon]] on [[Sel\|Sel]].
 His family directed many trade routes around Arelon. They were offered a barony by [[Iadon\|Iadon]] to keep their caravans running.
 
 ## Attributes and Abilities
-He is a known amateur practitioner of [[ChayShan\|ChayShan]]. When using ChayShan, Shuden repeatedly performs certain movements that serve as the key to the Dor. This gives him ever-increasing strength and speed, enough to break the bones of a Dakhor monk. If his movement is interrupted, he loses access to the Dor and his increased physical powers.
+He is a known amateur practitioner of [[ChayShan\|ChayShan]]. When using ChayShan, Shuden repeatedly performs certain movements that serve as the key to the Dor. This gives him ever-increasing strength and speed, enough to break the bones of a [[Dakhor\|Dakhor]] monk. If his movement is interrupted, he loses access to the Dor and his increased physical powers.
 
 ## History
 Shuden was part of [[Raoden\|Raoden's]] group that conspired against King [[Iadon\|Iadon]], being one of the few members willing to meet up after Raoden's mysterious and sudden "death." He spoke in favour of allowing [[Sarene\|Sarene]] to attend the meeting and as she became the leader of the group, he and [[Eondel\|Eondel]] were most vocal in their loyalty to her whereas [[Ahan\|Ahan]] and [[Roial\|Roial]] saw her as an equal partner.

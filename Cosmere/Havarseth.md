@@ -4,9 +4,9 @@
 |**Aliases**|Bluefingers|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Pahn Kahl\|Pahn Kahl]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 >“*You should watch yourself, child. Not all here in the palace is as it seems.*”
 \-Bluefingers to Siri.[1]

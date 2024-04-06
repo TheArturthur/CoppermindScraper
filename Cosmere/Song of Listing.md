@@ -1,13 +1,12 @@
 |**Song of Listing**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
-The **Song of Listing** is one of the songs detailing the oral history of the [[Listener\|listeners]] on [[Roshar\|Roshar]]. It recounts many of the common forms that listeners were once able to take. It it not known to mention any of the "forms of power" granted by bonding a [[Voidspren\|Voidspren]], which are covered by other songs such as the [[Song of Secrets\|Song of Secrets]]. The song has at least 91 stanzas, and [[Eshonai\|Eshonai]] notes that the old songs recount "hundreds" of forms.
+The **Song of Listing** is one of the songs detailing the oral history of the [[Listener\|listeners]] on [[Roshar\|Roshar]]. It recounts many of the common forms that listeners were once able to take. It is not known to mention any of the "forms of power" granted by bonding a [[Voidspren\|Voidspren]], which are covered by other songs such as the [[Song of Secrets\|Song of Secrets]]. The song has at least 91 stanzas, and [[Eshonai\|Eshonai]] notes that the old songs recount "hundreds" of forms.
 The Song of Listing was presumably written by the Last Legion to ensure that they remembered these forms, as they were only able to use dullform and mateform after they abandoned their gods.
 Around 1166, a young Eshonai had not learned the song. [[Jaxlim\|Jaxlim]] had trouble reciting it due to her increasing problems with memory loss, and [[Venli\|Venli]] tried to help her remember.
 By the time of the [[War of Reckoning\|War of Reckoning]], the Listeners had rediscovered nimbleform, warform, and workform after generations of research. Scholars continued to research the secrets to unlocking other forms known from the song such as artform and mediationform. With the advent of the [[True Desolation\|True Desolation]], the listeners regained access to forms that had been abandoned. The [[Singers\|singers]] who had previously been enslaved as the parsh were given at least a dozen options of forms after they were freed, and use various forms including artform and scholarform.

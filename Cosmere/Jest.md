@@ -4,9 +4,8 @@
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jest** is a [[Darkeyes\|darkeyed]] man from [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] who grew up with [[Kaladin\|Kaladin]].
 Jest was born into a typical Hearthstone family of the fourth or fifth [[Nahn\|nahn]]. His parents are farmers, and his father spent time as a soldier. He is of the [[Vorin\|Vorin]] faith and refers to the [[Ardent\|ardents']] teachings that men must become warriors to fight for the [[Tranquiline Halls\|Tranquiline Halls]]. Kaladin cites Jest's name as an example of a 'solid, Alethi darkeyes' names, unlike his own.

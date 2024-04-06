@@ -2,12 +2,11 @@
 |-|-|
 |by User: Otto didact|
 |**Ethnicity**|Aimian|
-|**Era**|Heraldic Epochs|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Dawnshard* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 **Aimia** is a group of islands on [[Roshar\|Roshar]] that is separated from the main continent by the [[Aimian Sea\|Aimian Sea]]. Aimia is also the name of the largest island in the chain. The islands contained one of the [[Silver Kingdoms\|Silver Kingdoms]] of [[Roshar\|Roshar]] that survived the [[Desolation\|Desolations]]. The Kingdom of Aimia existed for part, if not most, of the [[Era of Solitude\|Era of Solitude]], but at some point it was decimated in the [[Scouring of Aimia\|scouring of Aimia]].
 
@@ -40,7 +39,8 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ## Geography
  by [[Isaac Stewart\|Isaac Stewart]] Map of Aimia
 Aimia is an island chain that consists of one large island and numerous smaller islands situated off the west coast of [[Shinovar\|Shinovar]]. It is bordered on the east by the Aimian Sea and on the west by the [[Endless Ocean\|Endless Ocean]]. Aimia is subject to [[Highstorm\|highstorms]].
-One of the smaller islands at the north end of the chain is called [[Akinah\|Akinah]]. This island has undersea caverns, and it is possible some other islands do as well. It is well protected from outsiders, due to a [[Dawnshard\|Dawnshard]] having been present on the island until Rysn became it and left.
+One of the smaller islands at the north end of the chain is called [[Akinah\|Akinah]]. This island has undersea caverns, and it is possible some other islands do as well. It is well protected from outsiders, due to a [[Dawnshard\|Dawnshard]] having been present on the island until [[Rysn\|Rysn]] became it and left.
+Aimia is a desolate and barren place, too cold for anything to grow. The reason for this inhospitable climate is unclear.
 
 ## Culture
 ### People
@@ -65,7 +65,7 @@ Aimia was one of the Silver Kingdoms during the Heraldic Epochs. It contained an
 
 ### Scouring of Aimia
 For more information, see [[Scouring of Aimia\|Scouring of Aimia]].
-At some point, a scouring occurred at Aimia, however, what exactly occurred, and why, is unknown. While the exact time is uncertain, it occurred after the [[Recreance\|Recreance]] but longer than four hundred years before the [[Everstorm\|Everstorm's]] arrival. Axies the Collector recalls it being fairly recent, while [[Nikli\|Nikli]] recounts it as being many generations ago. Nikli believes that Aimia's fall was due to its extreme riches being too tempting to the rest of the world.
+At some point, a scouring occurred at Aimia, however, what exactly occurred, and why, is unknown. While the exact time is uncertain, it occurred after the [[Recreance\|Recreance]] but longer than four hundred years before the [[Everstorm\|Everstorm's]] arrival. Axies the Collector recalls it being fairly recent, while [[Nikli\|Nikli]] -- in its human guise -- describes it as having occurred many generations ago. Nikli believes that Aimia's fall was due to its extreme riches being too tempting to the rest of the world.
 
 >“*They assumed their secrets would protect them, but then their allies fell. And secrets can't hold swords.*”
 \-Nikli to Rysn on the Scouring
@@ -76,7 +76,7 @@ The Aimian Sea near the islands became very dangerous, with strange winds and st
 [[Hessi\|Hessi]] theorized that an [[Unmade\|Unmade]], possibly [[Dai-Gonarthis\|Dai-Gonarthis]], caused the destruction of Aimia.
 
 ### Modern Day
-Enough time has passed since the scouring that myths and stories about the Aimian islands and their people have spread. Akinah has many nicknames including "The Rock of Secrets" and "The Void's Playground", and Rosharans speculate about what it contains. Some individual Aimians survive, and at least some are still on the islands. Other cultures on Roshar are aware that non-human Aimians still exist, but generally have negative reactions to them if discovered. Legends also speak of creatures that can eat Stormlight and creatures that are living heaps of cremlings, although the latter legend has lost its association with Aimia and its immortals.
+Enough time has passed since the scouring that myths and stories about the Aimian islands and their people have spread. Akinah has many nicknames including "The Rock of Secrets" and "The Void's Playground", and Rosharans speculate about what it contains. Some individual Aimians survive, and at least some are still on the islands. Other cultures on Roshar are aware that non-human Aimians still exist, but generally have negative reactions to them if discovered, referring to their reverse shadow as a "Voidbringer shadow". Legends also speak of creatures that can eat Stormlight and creatures that are living heaps of cremlings, although the latter legend has lost its association with Aimia and its immortals.
 The Sleepless have been very dedicated to protecting the Dawnshard in the time since the scouring. They have killed anyone who gets near to discovering their secrets, with a total death toll numbering in the hundreds. They even built a fake version of the city of Akinah, following the same cymatic pattern as the original, in order to build a ruined Oathgate replica, in hopes of dissuading anyone who manages to get that far from returning. The real Oathgate remains functional, albeit locked, underneath the replica.
 Very recently, perhaps coinciding with the arrival of the Everstorm, the protective storm around Akinah has weakened somewhat. As a result of this, the ship *First Dreams* was able to approach Akinah, but the crew was poisoned by one of the Sleepless, who was actively preventing humans from reaching the island. The Sleepless said that it was protecting a secret that could lead to the "end of worlds". Kaza made it to shore and saw a larkin, or perhaps a hordeling with the appearance of a larkin, and the faked ruins of Akinah before dying.
 Recently, scouting parties have been sent to the main island and found it quite barren. The Royal Navy of Thaylenah has set up outposts there just in case.

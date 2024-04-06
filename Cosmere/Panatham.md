@@ -1,9 +1,8 @@
 |**Panatham**|
 |-|-|
-|**Nation**|[[Babatharnam\|Babatharnam]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Babatharnam\|Babatharnam]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Panatham** is a city in [[Babatharnam\|Babatharnam]] on [[Roshar\|Roshar]].
 

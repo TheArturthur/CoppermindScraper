@@ -4,9 +4,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Broadsheet|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 *The Elendel Daily* is a broadsheet published in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. It is prone to sensationalism.
 It includes two stylized symbols for [[Tin\|tin]] in the heading. In an issue from 341 PC , the edition number is written in the [[Steel alphabet\|Steel alphabet]] as [[Steel alphabet\|]][[Steel alphabet\|]][[Steel alphabet\|]][[Steel alphabet\|]][[Steel alphabet\|]][[Steel alphabet\|]]; this is thought to equate to the number 8,042.
@@ -36,10 +35,10 @@ Horseless Carriages are a Menace!
 [[Briggs %26 Sons\|Briggs & Sons]] buy metals
 Vote [[Feltri\|Feltri]]!
 The Automobile is Superior to the Horse!
-Mistress [[Halex\|Halex]] pain relief
+Mistress [[Halex\|Halex]] Pain Relief
 [[Jarrington\|Jarrington]] at [[Metalurgistics Allied\|Metalurgistics Allied]] hiring out [[Allomancer\|Allomancers]]
-[[Immerling Arms\|Immerling Arms]] revolvers
-[[Brigs Wennington\|Brigs Wennington]] lighting
+[[Immerling Arms\|Immerling Arms]] Revolvers
+[[Brigs Wennington\|Brigs Wennington]] Lighting
 
 
 Gallery
@@ -69,4 +68,4 @@ The [[Breaknaught\|Breaknaught]]
 An issue of the broadsheet is spread out over four pages (at the start of chapters 3, 8, 13 and 16) of *The Alloy of Law*.
 
 
-https://coppermind.net/wiki/Elendel_Daily
+https://coppermind.net/wiki/The_Elendel_Daily

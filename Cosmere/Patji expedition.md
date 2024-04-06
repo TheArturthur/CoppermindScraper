@@ -1,10 +1,9 @@
 |**Patji expedition**|
 |-|-|
 |**Participants**|[[Northern Interests Trading Company\|Northern Interests Trading Company]] including [[Eusto\|Eusto]] and [[Vathi\|Vathi]]|
-|**Region**|[[Pantheon\|Pantheon]]🐱︎|
+|**Region**|[[Pantheon\|Pantheon]]|
 |**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 The **Patji expedition** is a commercial and scientific exploration of the island of [[Patji (island)\|Patji]] in the [[Pantheon\|Pantheon]] archipelago on [[First of the Sun\|First of the Sun]].
 

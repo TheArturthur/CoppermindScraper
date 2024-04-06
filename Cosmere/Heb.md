@@ -3,9 +3,8 @@
 |**Family**|
 |**Spouse**|[[Taffa\|Taffa]]|
 |**Children**|[[Seeli\|Seeli]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*This is my husband Heb, good knight. He's never seen a sword, far as I know.*”
 \-Taffa[1]

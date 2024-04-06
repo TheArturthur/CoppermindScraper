@@ -1,13 +1,20 @@
 |**Faultline**|
 |-|-|
 |by  Jamie Knierim |
-|**Died**|After [[Day of Annexation\|Annexation]]|
+|**Died**|Killed by [[Steelheart (Epic)\|Steelheart]] after [[Day of Annexation\|Annexation]]|
 |**Abilities**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Residence**|[[Newcago\|Newcago]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-**Faultline** is an powerful [[Epic\|Epic]], though she does not have any immortality benefits. She worked for [[Steelheart (Epic)\|Steelheart]] but later rebelled against him, resulting in her death.
-Faultline was a thin woman who wore her hair in a bun. She had two second-tier abilities--moving softer earth and turning earth and stone into sand--which combined into a first-tier power. She was powerful, but fragile. Faultline is only ever seen using her powers when she sends the [[First Union Bank (Newcago)\|First Union Bank]] deep underground by turning the earth into sand, and letting it sink. She also creates a cushion of earth around the bank as it sank, ultimately protecting it. It is also known that Faultline can appear to make earthquakes, by softening the earth and pulling back on it, though it is never shown.
+**Faultline** is a powerful [[Epic\|Epic]] who initially works for [[Steelheart (Epic)\|Steelheart]]. She is a thin woman who wears her hair in a bun.
+
+## Attributes and Ability
+Faultline has two second-tier abilities--moving softer earth and turning earth and stone into sand--which combine into a first-tier power. She is powerful, but fragile, as she has no prime invincibility.
+It is also known that Faultline can appear to make earthquakes, by softening the earth and pulling back on it, though it is never shown.
+
+## History
+Faultline was seen using her powers when she sent the [[First Union Bank (Newcago)\|First Union Bank]] deep underground by turning the earth into sand, and letting it sink. She also created a cushion of earth around the bank as it sank, ultimately protecting it.
+Faultline later challenged Steelheart, attempting to take over [[Newcago\|Newcago]]. Steelheart dealt with her personally, and killed her.
 
 
 

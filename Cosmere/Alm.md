@@ -3,10 +3,9 @@
 |by User: Otto didact|
 |**Ethnicity**|Makabaki|
 |**Ruled by**|[[Prime Aqasix\|Prime Aqasix]] [[Yanagawn\|Yanagawn]]|
-|**Region**|[[Makabak\|Makabak]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Makabak\|Makabak]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Alm** is a kingdom in southwestern [[Roshar\|Roshar]] that is a member nation of the Azish Empire.
 

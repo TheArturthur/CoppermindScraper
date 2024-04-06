@@ -1,9 +1,8 @@
 |**Corbeau**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Corbeau** is a rural settlement in the eastern [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]].
 

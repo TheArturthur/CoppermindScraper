@@ -3,9 +3,8 @@
 |**Profession**|[[Ardent\|Ardent]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ivis** is an [[Ardent\|ardent]] and swordmaster who serves [[House Kholin\|House Kholin]] on [[Roshar\|Roshar]].
 

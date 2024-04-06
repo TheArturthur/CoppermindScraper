@@ -5,9 +5,9 @@
 |**Children**|[[Torena\|Torena]]|
 |**Titles**|Count|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 Count **Ahan** is an [[Arelene\|Arelene]] merchant from [[Sel\|Sel]]. He has a daughter, [[Torena\|Torena]], who is courted by [[Shuden\|Shuden]].
 

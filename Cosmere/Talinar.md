@@ -1,10 +1,9 @@
 |**Talinar**|
 |-|-|
 |**Occupied by**|The [[Voidbringers\|Voidbringers]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Nice place. Smells like flowers. Least in my memory it does.*”
 \-Teft[1]

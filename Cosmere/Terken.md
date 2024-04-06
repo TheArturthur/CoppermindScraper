@@ -1,8 +1,7 @@
 |**Terken**|
 |-|-|
-|**World**|[[Taldain\|Taldain]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Terken** is a term used on [[Taldain\|Taldain]] to describe an object that is immune to the effects of [[Sand mastery\|sand mastery]]. When mastered sand touches something that is terken, it turns black and falls away.
 

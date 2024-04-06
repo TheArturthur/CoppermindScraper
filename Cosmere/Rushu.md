@@ -3,9 +3,8 @@
 |by  Treefin |
 |**Profession**|Scholar, [[Artifabrian\|Artifabrian]], and [[Ardent\|Ardent]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Dawnshard* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -32,10 +31,10 @@ This page or section needs to be updated with new information for *Dawnshard* 
 
 ## Appearance and Personality
 Rushu is a very attractive young woman. Like many ardents, she keeps her head shaved. Her face has delicate features, with long lush eyelashes and button-like lips.
-Rushu is a brilliant scholar, but occasionally somewhat oblivious to her surroundings. She does not notice hints or implied commands in others' words, it often requires a direct command and multiple promptings to get her attention and make her realize what she is supposed to do. Rushu often gets distracted as well, reading scientific reports when she should be helping with an experiment. She has trouble focusing, often wandering off on tangents and random thought experiments in conversation, or getting very excited. She joined the ardentia to escape the advances of men, but this did not work particularly well, as she still receives attention from many of the male ardents. She is particularly interested in spren research and the study of handwriting, among other things. Rushu is also a courageous person that is willing to risk her safety for her studies, as evidenced by her desire to ride on the fabrial parapet as it ascended.
+Rushu is a brilliant scholar, but occasionally somewhat oblivious to her surroundings. She does not notice hints or implied commands in others' words, it often requires a direct command and multiple promptings to get her attention and make her realize what she is supposed to do. Rushu often gets distracted as well, reading scientific reports when she should be helping with an experiment. She has trouble focusing, often wandering off on tangents and random thought experiments in conversation, or getting very excited. She joined the ardentia to escape the advances of men, but this did not work particularly well, as she still receives attention from many of the male ardents. She is particularly interested in [[Spren\|spren]] research and the study of handwriting, among other things. Rushu is also a courageous person that is willing to risk her safety for her studies, as evidenced by her desire to ride on the [[Fabrial\|fabrial]] parapet as it ascended.
 
 ## Attributes and Abilities
-Rushu is a skilled artifabrian, who devised a hovering seat for Rysn. She is also trained in the use of a Soulcaster, and has one during the expedition to Aimia.
+Rushu is a skilled artifabrian, who devised a hovering seat for [[Rysn Ftori\|Rysn Ftori]]. She is also trained in the use of a [[Soulcaster\|Soulcaster]], and has one during the expedition to [[Aimia\|Aimia]].
 
 ## History
 ### Early Life

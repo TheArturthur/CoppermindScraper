@@ -4,9 +4,8 @@
 |**Parents**|[[Wzmal\|Wzmal]]|
 |**Siblings**|[[Molinar\|Molinar]]|
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Kmakra and Molinar, the true gemstones of my life.*”
 \- Excerpt from drawer 12-15, ruby, in the Urithiru gem archive[1]

@@ -3,9 +3,8 @@
 |**Spouse**|[[Avarak Matal\|Avarak Matal]]|
 |**Groups**|Sadeas army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightness **Hashal** is a [[Lighteyes\|lighteyed]] woman in the [[Sadeas princedom\|Sadeas]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. She is married to [[Avarak Matal\|Avarak Matal]], an officer in the Sadeas army, and she personally takes an active role in the oversight of the Sadeas [[Bridge crew\|bridge crews]].
 

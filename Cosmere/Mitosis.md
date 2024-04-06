@@ -6,9 +6,20 @@
 |**Precedes**|*Firefight *|
 |**Setting**|[[Newcago\|Newcago]], [[Earth (Reckoners)\|Alternate Earth]]|
 |**Released**|December 3, 2013|
+|**Publisher**||
+|**Page Count**|96|
+|**Word Count**|[[Mitosis/Statistical analysis\|8,825]]|
 
 This article is about the novelette. For the Epic known as Mitosis, see [[Lawrence Robert\|Lawrence Robert]].
-*Mitosis* is a novelette written by [[Brandon Sanderson\|Brandon Sanderson]] that is part of *The Reckoners* series. It takes place between *Steelheart* and *Firefight*. It is published by .
+*Mitosis* is a novelette written by [[Brandon Sanderson\|Brandon Sanderson]] that is part of [[The Reckoners\|The Reckoners]] series. It takes place between *Steelheart* and *Firefight*. It is published by .
+
+## Contents
+
+1 Summary
+2 Cover Gallery
+3 Statistical Analysis
+4 Notes
+
 
 ## Summary
 For a chapter by chapter summary, see [[Mitosis/Summary\|Mitosis/Summary]].
@@ -18,6 +29,15 @@ David Charleston, the protagonist of the *Reckoners* books, discovers a critical
 
 ## Cover Gallery
 For a cover gallery for Mitosis, see [[Mitosis/Covers\|/Covers]].
+## Statistical Analysis
+For a full statistical analysis, see [[Mitosis/Statistical analysis\|/Statistical analysis]].
+*Mitosis* consists of five chapters, reaching a total 8,825 word count.
+
+|**Word Count**|8,825||
+|-|-|
+|**Page Count**|96|Delacorte Press hardback|
+|**Chapter Count**|5||
+
 
 
 https://coppermind.net/wiki/Mitosis

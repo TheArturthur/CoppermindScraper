@@ -14,9 +14,9 @@ For the actual metal, see [[Malatium\|Malatium]].
 ## Contents
 
 1 Summary
-2 Characters
+2 Main Characters
 3 Postscript
-4 Statistics
+4 Statistical Analysis
 5 Notes
 
 
@@ -32,7 +32,7 @@ Kelsier and Gemmel scale the keep, and when they reach the top, Gemmel knocks Ke
 Kelsier finds a narrow room connected, and inside there are six people, beaten up and bound. Kelsier talks to a woman, who begs him to either free or kill them. She says he was testing new metals on the skaa and beating them in an attempt to make them snap. As Kelsier frees the other skaa, Gemmel enters the room but doesn’t pay much attention, instead muttering to himself. He’s followed by a man in a fashionable suit, who Kelsier quickly identifies as Lord Shezler. Kelsier smiles at the man, who tosses a coin and Pushes on it. Kelsier Pushes in retaliation, flinging them both backwards. As Kelsier sees Shezler is a Mistborn, he becomes angry and determined to fight back. Kelsier realizes that he’s wearing metal on his coat buttons and the coins in his pockets and has to Push his coins away and take off his coat so Shezler doesn’t have an advantage. He understands that Gemmel brought him here to give him experience fighting a Mistborn and teach him to think more like an Allomancer.
 After a short fight, in which Kelsier breaks some of Shezler’s equipment, Kelsier picks up a shard of glass and stabs it into his opponent’s neck three times, killing him. Gemmel reprimands him, saying that he picked an easy target and that Kelsier needs to practice Pushing and Pulling. Kelsier frees the rest of the imprisoned skaa while Gemmel looks through Shezler’s notes about theories on the “eleventh metal.” Gemmel finds a fork and takes it with him as they leave with the skaa. Kelsier begins to brainstorm a plan to overthrow the [[Lord Ruler\|Lord Ruler]], and decides to find someone who can make him a mistcloak.
 
-## Characters
+## Main Characters
 [[Kelsier\|Kelsier]], three months after gaining his powers.
 [[Gemmel\|Gemmel]], Kelsier's Mistborn tutor.
 [[Antillius Shezler\|Antillius Shezler]], a [[Western Dominance\|Western Dominance]] nobleman, obsessed with finding new metals.
@@ -40,7 +40,7 @@ After a short fight, in which Kelsier breaks some of Shezler’s equipment, Kels
 *Note: the Postscript is found in Arcanum Unbounded, a collection of Cosmere stories.*
 The Eleventh Metal shows how [[Ruin\|Ruin]] manipulated Kelsier into obsessing about the eleventh metal, hoping that it was a secret weapon to defeat the [[Lord Ruler\|Lord Ruler]]. Since it was written to go with the RPG, where some players may not have read the main novels, there is more exposition than the other auxiliary Mistborn stories.
 
-## Statistics
+## Statistical Analysis
 *The Eleventh Metal* consists of 6,713 words from the PoV of Kelsier.
 
 |**Word Count**|6,713|

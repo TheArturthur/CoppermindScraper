@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Message|
 |**Author**|[[Hoid\|Hoid]], [[Frost\|Frost]], [[Endowment\|Endowment]], [[Patji (being)\|Patji]], and [[Harmony\|Harmony]]|
-|**World**|[[Roshar\|Roshar]], [[Yolen\|Yolen]], [[Nalthis\|Nalthis]], [[First of the Sun\|First of the Sun]], and [[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Roshar\|Roshar]], [[Yolen\|Yolen]], [[Nalthis\|Nalthis]], [[First of the Sun\|First of the Sun]], and [[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
@@ -29,7 +28,7 @@ In addition to giving some insight concerning the significance of the conflict o
 
 ## The First Letter
 For a list of the excerpts in each chapter's epigraph, see The Way of Kings/Epigraphs#The Letter.
-The first letter, written by Hoid to Frost, argues for the danger presented by [[Rayse\|Rayse]], the vessel of Odium, hoping to draw Frost out of his oath of nonintervention. Hoid points out that Rayse was dangerous even before taking the Shard of Odium upon himself, and thus if [[Ati\|Ati]] could be so corrupted by the Shard of [[Ruin\|Ruin]] then Rayse will only be made worse. Hoid cites the Shattering of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] as proof of the threat Odium presents. He then dismisses concerns of his own biases and asks Frost to call off the members of the [[Seventeenth Shard\|Seventeenth Shard]] who have been hunting for him on Roshar before making his final plea.
+The first letter, written by Hoid to Frost, argues for the danger presented by [[Rayse\|Rayse]], the vessel of Odium, hoping to draw Frost out of his oath of nonintervention. Hoid points out that Rayse was dangerous even before taking the Shard of Odium upon himself, and thus if [[Ati\|Ati]] could be so corrupted by the Shard of [[Ruin\|Ruin]] then Rayse will only be made worse. Hoid cites the Splintering of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] as proof of the threat Odium presents. He then dismisses concerns of his own biases and asks Frost to call off the members of the [[Seventeenth Shard\|Seventeenth Shard]] who have been hunting for him on Roshar before making his final plea.
 
 >“
 \-Old friend, I hope this missive finds you well. Though, as you are now essentially immortal, I would guess that wellness on your part is something of a given. I realize that you are probably still angry. That is pleasant to know. Much as your perpetual health, I have come to rely upon your dissatisfaction with me. It is one of the cosmere's great constants, I should think.
@@ -74,7 +73,7 @@ The second letter is written by [[Patji (being)\|Patji]], an avatar of Autonomy,
 
 Alone.
 
-Did you expect anything else from us? We need not suffer the interference of another. Rayse is contained, and we care not for his prison. Indeed, we admire his initiative. Perhaps if you had approached the correct one of us with your plea, it would have found favorable audience. But we stand in the sea, pleased with our domains. Leave us alone. We also instruct that you should not return to Obrodai. We have claimed that world, and a new avatar of our being is beginning to manifest there. She is young yet, and--as a precaution--she has been instilled with an intense and overpowering dislike of you. This is all we will say at this time. If you wish more, seek these waters in person and overcome the tests we have created.    
+Did you expect anything else from us? We need not suffer the interference of another. Rayse is contained, and we care not for his prison. Indeed, we admire his initiative. Perhaps if you had approached the correct one of us with your plea, it would have found favorable audience. But we stand in the sea, pleased with our domains. Leave us alone. We also instruct that you should not return to Obrodai. We have claimed that world, and a new avatar of our being is beginning to manifest there. She is young yet, and--as a precaution--she has been instilled with an intense and overpowering dislike of you. This is all we will say at this time. If you wish more, seek these waters in person and overcome the tests we have created.
 
 
 
@@ -88,7 +87,7 @@ The third letter is written by [[Sazed\|Sazed]], the vessel of [[Harmony\|Harmon
 
 ## The Sixth Letter
 For a list of the excerpts in each chapter's epigraph, see Rhythm of War/Epigraphs#The Letter.
-The sixth letter is in reply to [[Hoid\|Hoid]]. It is also written by [[Sazed\|Sazed]], the vessel of [[Harmony\|Harmony]], again evident in his writing patterns and mention of his relative youth.
+The sixth letter is in reply to [[Hoid\|Hoid]]. It is also written by [[Sazed\|Sazed]], the vessel of [[Harmony\|Harmony]], again evident in his writing patterns, mention of his relative youth, and talk of being made up of Ruin and Preservation.
 
 >“*Dear Wanderer,*
 \-I did receive your latest communication. Please forgive formality on my part, as we have not met in person. I feel new to this role, despite my years of holding it. You will admit to my relative youth, I think. I have been fascinated to discover how much you’ve accomplished on Scadrial without me noticing your presence. How is it that you hide from Shards so well?

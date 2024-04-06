@@ -1,12 +1,12 @@
 |**Lifeblesser**|
 |-|-|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|God of Healing|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 **Lifeblesser**, god of healing, is a [[Returned\|Returned]] from [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
 

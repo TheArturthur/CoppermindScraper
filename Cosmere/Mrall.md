@@ -1,12 +1,11 @@
 |**Mrall**|
 |-|-|
 |**Profession**|Bodyguard & Servant|
-|**Groups**|[[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Diagram (group)\|Diagram]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Mrall** is a [[Thaylen\|Thaylen]] bodyguard and one of the most trusted followers of King [[Taravangian\|Taravangian]] and the [[Diagram (group)\|Diagram]].
 
@@ -40,11 +39,11 @@ Once, on the day that Taravangian solved [[Fabrisan\|Fabrisan's Conundrum]], Mra
 Mrall accompanied Taravangian to [[Vedenar\|Vedenar]] after the [[Veden civil war\|Veden civil war]] where Taravangian gained control of the Veden throne. When [[Szeth\|Szeth]] arrived to confront Taravangian, Mrall had his guards separate Taravangian from the Veden soldiers so Taravangian would not be associated with the Assassin in White. Mrall made excuses, claiming the king was old and overcome with grief. Mrall then brought Taravangian to see [[Highprince\|Highprince]] Valam on his deathbed.
 When the [[Alethi\|Alethi]] discovered [[Urithiru\|Urithiru]], Mrall accompanied Taravangian and other key members of the Diagram as they took up residence in the tower city. On a day of notable brilliance in Urithiru, Mrall had to revise his original restrictions on Taravangian, after [[Adrotagia\|Adrotagia]] realized he had cheated the test. Mrall was later disturbed to see that Taravangian had made changes to the [[Diagram (literature)\|Diagram]].
 
->“*You’re being thrown away! After all you’ve done, Odium casts you aside? At least go to Jah Keved.*”
+>“*You're being thrown away! After all you've done, Odium casts you aside? At least go to Jah Keved.*”
 \-Mrall to Taravangian before his departure[5]
 
 After [[Dalinar Kholin\|Dalinar Kholin]] did not yield to Odium at the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Mrall questioned the Diagram's accuracy, concerned that it might be flawed. Prior to Taravangian's meeting with Odium, he suggested drafting a change of plan.
-When Taravangian left Urithiru to go with the Coalition’s forces in [[Emul\|Emul]], planning to betray them and be captured, Mrall was greatly saddened. He wept openly as Taravangian prepared to leave, and didn’t like that Taravangian was separating himself from the Diagram and disbanding the group. Mrall didn’t want to abandon Taravangian to his fate, and felt that Taravangian’s life was being thrown away. Taravangian explained his reasoning briefly, and Mrall bid him farewell with a firm handshake and a hug.
+When Taravangian left Urithiru to go with the Coalition’s forces in [[Emul\|Emul]], planning to betray them and be captured, Mrall was greatly saddened. He wept openly as Taravangian prepared to leave, and didn't like that Taravangian was separating himself from the Diagram and disbanding the group. Mrall didn't want to abandon Taravangian to his fate, and felt that Taravangian's life was being thrown away. Taravangian explained his reasoning briefly, and Mrall bid him farewell with a firm handshake and a hug.
 
 ## Relationships
 ### Taravangian

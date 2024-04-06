@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Trapper|
 |**Ethnicity**|[[Eelakin\|Eelakin]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Yaalani the Brave** is a mythological [[Eelakin\|Eelakin]] woman on [[First of the Sun\|First of the Sun]].
 

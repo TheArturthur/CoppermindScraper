@@ -1,13 +1,12 @@
 |**Ire**|
 |-|-|
 |by [[Brandon Sanderson\|Brandon Sanderson]]|
-|**World**|[[Cognitive Realm\|Cognitive Realm]]|
+|**World of Origin**|[[Cognitive Realm\|Cognitive Realm]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive, Mistborn*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-The **Ire** is a group of exceptionally [[Cosmere\|cosmere]]-aware [[Elantrian\|Elantrian]] [[Worldhopper\|worldhoppers]] from [[Sel\|Sel]] who have constructed a fortress in the [[Cognitive Realm\|Cognitive Realm]] between worlds. Aon Ire, presumably their namesake, means age or time.
+The **Ire** is a group of exceptionally [[Cosmere\|cosmere]]-aware [[Elantrian\|Elantrian]] [[Worldhopper\|worldhoppers]] from [[Sel\|Sel]] who have constructed a fortress in the [[Cognitive Realm\|Cognitive Realm]] between worlds. Aon Ire, presumably their namesake, means *age* or *time*.
 
 ## Contents
 
@@ -27,9 +26,10 @@ The **Ire** is a group of exceptionally [[Cosmere\|cosmere]]-aware [[Elantrian\|
 4.4 Failed Expedition
 4.5 Riino in Shadesmar
 4.6 Eyree in Lasting Integrity
+4.7 Riina as the Sorceress
 
 
-5 Members
+5 Notable Members
 6 Trivia
 7 Notes
 
@@ -42,15 +42,15 @@ The Ire have other members, not all of whom are ancient. In addition to their fo
 ## Attributes and Abilities
  by  LittleGreyDragon  [[Alonoe\|Alonoe]], a leader of the Ire
 The Elantrian members of the Ire are not able to use [[AonDor\|AonDor]] in their fortress due to the location-dependent nature of Selish magic. However, the fortress has a thick, brightly glowing conduit that leads into the distance; [[Kelsier\|Kelsier]] is able to sense that this conduit connects to a source of power on their planet, presumably the [[Dor\|Dor]]. The conduit seems to provide the power that the Ire need to fuel their Elantrian physiology, as they appear to absorb the glowing light directly from the walls of the fortress. [[Preservation\|Preservation]] describes them as those that "died, but did not", and classifies them differently than Cognitive Shadows like Kelsier. Their residence in the Cognitive Realm also affects the way that they age. All of the members are worldhoppers, and based on the number of guards in the fortress, they seem to be able to bring other people into the Cognitive Realm. A female member of the Ire has the ability to place wards on magical objects to conceal them from detection by a [[Shard\|Shard]].
-As a group, the Ire are highly [[Cosmere\|cosmere]]-aware and use terms like [[Fortune\|Fortune]], [[Connection\|Connection]], [[Realmatic Theory\|Realmatic Theory]], [[Cognitive Shadow\|Cognitive Shadow]], and [[Adonalsium\|Adonalsium]]. They were aware that there was something happening to [[Devotion's Perpendicularity\|Devotion's Perpendicularity]] before the [[Reod\|Reod]] occurred; they were not on Sel during the Reod, but it affected them in some way. They have some knowledge of manifestations of [[Investiture\|Investiture]] on other [[Shardworld\|Shardworlds]], although they do not always know all the details. Their outposts on other planets and subastrals may contribute to this knowledge. [[Ruin\|Ruin]], [[Preservation\|Preservation]], and [[Harmony\|Harmony]] were all aware of their fortress. Cosmere scholars [[Khriss\|Khriss]] and [[Nazh\|Nazh]] indicate that the Ire's knowledge far surpasses their own. The Ire communicate with other cosmere scholars and worldhoppers in [[Silverlight\|Silverlight]], although they are fairly isolationist. Khriss believes that they may be hiding secrets about Sel and have denied her repeated requests for collaboration.
+As a group, the Ire are highly [[Cosmere\|cosmere]]-aware and use terms like [[Fortune\|Fortune]], [[Connection\|Connection]], [[Realmatic Theory\|Realmatic Theory]], [[Cognitive Shadow\|Cognitive Shadow]], and [[Adonalsium\|Adonalsium]]. They were aware that there was something happening to [[Devotion's Perpendicularity\|Devotion's Perpendicularity]] before the [[Reod\|Reod]] occurred; they were not on Sel during the Reod, but it affected them in some way. They have some knowledge of manifestations of [[Investiture\|Investiture]] on other planets in the cosmere, although they do not always know all the details. Their outposts on other planets and subastrals may contribute to this knowledge. [[Ruin\|Ruin]], [[Preservation\|Preservation]], and [[Harmony\|Harmony]] were all aware of their fortress. Cosmere scholars [[Khriss\|Khriss]] and [[Nazh\|Nazh]] indicate that the Ire's knowledge far surpasses their own. The Ire communicate with other cosmere scholars and worldhoppers in [[Silverlight\|Silverlight]], although they are fairly isolationist. Khriss believes that they may be hiding secrets about Sel and have denied her repeated requests for collaboration.
 
 ## Equipment
 ### Fortress
-The Ire's fortress is located in the Cognitive Realm at the very edge of the subastral of Scadrial, near the space between planets. The corresponding location in the [[Physical Realm\|Physical Realm]] is somewhere in the ocean beyond the [[Farmost Dominance\|Farmost Dominance]] in the northwest of the [[Final Empire\|Final Empire]]. It is made of white stones—actually the souls of stones—that glow with a faint, constant blue light. The conduit that connects the fortress to the Dor provides the power needed for the fortress to have permanence in the Cognitive Realm, as the power can be seen coursing through the entire building. It is beautiful and somehow inviting; it is the Ire's most well-constructed facility, and is nearly as large a city. It has numerous windows, with some being narrow, like an arrow slit. The interior of the fortress has stone corridors and multiple large chambers. It also has living quarters for its residents, including bedrooms. Guards keep watch from the roof of the fortress looking for [[Cognitive Shadow\|Cognitive Shadows]], particularly those from [[Threnody\|Threnody]]. Horses are also kept in the fortress.
+The Ire's fortress is located in the Cognitive Realm at the very edge of the subastral of Scadrial, near the space between planets. The corresponding location in the [[Physical Realm\|Physical Realm]] is somewhere in the ocean beyond the [[Farmost Dominance\|Farmost Dominance]] in the northwest of the [[Final Empire\|Final Empire]]. It is made of white stones—actually the souls of stones—that glow with a faint, constant blue light. The conduit that connects the fortress to the Dor provides the power needed for the fortress to have permanence in the Cognitive Realm, as the power can be seen coursing through the entire building. It is beautiful and somehow inviting; it is the Ire's most well-constructed facility, and is nearly as large as a city. It has numerous windows, with some being narrow, like an arrow slit. The interior of the fortress has stone corridors and multiple large chambers. It also has living quarters for its residents, including bedrooms. Guards keep watch from the roof of the fortress looking for [[Cognitive Shadow\|Cognitive Shadows]], particularly those from [[Threnody\|Threnody]]. Horses are also kept in the fortress.
 
 ### Magical Artifacts
 The Ire are in possession of several extremely powerful magical artifacts. They have a device the size of a desk clock that consists of a large yellow gemstone set in a lattice of golden metal. The device, which shares several characteristics with [[Rosharan\|Rosharan]] warning fabrials, is able to detect the presence of Threnodite [[Shade\|shades]] within a day's march of the fortress.
-The group also designed (and likely created) a [[Ire's orb\|magical orb]] that was filled with a pure, brightly glowing liquid that could grant Connection. The orb was technically created using a known magic system, although it was used in a novel way. Despite their extensive planning, the Ire may not have been fully prepared for the effects of using the orb.
+The group also designed (and likely created) a [[Ire's orb\|magical orb]] filled with purified [[Dor\|Dor]] that could grant Connection. Despite their extensive planning, the Ire may not have been fully prepared for the effects of using the orb.
 They also drink a glowing liquid that has a similar appearance to the substance in the orb. Drinking the liquid restores the luminous aura that emanates from the members of the Ire. The specific nature of the liquid is unknown, but it has some relation to a glowing substance made of Investiture that [[Hoid\|Hoid]] is seen applying to his oar when he is rowing through the Cognitive Realm.
 A member of the organization named [[Riino\|Riino]] is also in possession of an orb of glowing light. This orb is very similar to the Connection orb, although the light may be more "milky". Riino calls himself a "fortune seer" and says he can see the future, implying that his orb may contain distilled [[Fortune\|Fortune]]. [[Kaladin\|Kaladin]] is able to briefly experience visions when he touches the globe, and Riino tells him that this only happens for [[Investiture\|Invested]] people.
 When [[Shallan\|Shallan]] infiltrates the [[Honorspren\|honorspren's]] vault in [[Lasting Integrity\|Lasting Integrity]], she finds a large construction, similar to a vat or a jar, used for storing Stormlight though the honorspren don't know exactly how it works; they do know similar devices could be purchased from a group of traveling merchants known as the "Eyree," however.
@@ -79,7 +79,10 @@ Some time after joining the Ire, Riino was seen in [[Shadesmar\|Shadesmar]] on [
 ### Eyree in Lasting Integrity
 A group of traveling merchants, called the Eyree by Rosharans, sold the honorspren of [[Lasting Integrity\|Lasting Integrity]] Elantrian technology which can contain Stormlight.
 
-## Members
+### Riina as the Sorceress
+Many years after Kelsier's disruption, one of the group's members, [[Riina\|Riina]] came into the possession of a [[Sorceress's tower\|spaceship]] and used it to travel to [[Lumar\|Lumar]]. She gradually became known locally as a powerful *Sorceress*; she took up that name, going on to curse those who tried to disrupt her presence. The kingdom on the [[Emerald Sea\|Emerald Sea]] attempted wars against her in vain. She was eventually forced to leave by [[Hoid\|Hoid]] and [[Tress\|Tress]]. Whether the Ire sanctioned, or even was aware of, these actions is unknown.
+
+## Notable Members
 For more information, see :Category: Ire.
 [[Alonoe\|Alonoe]]
 [[Elrao\|Elrao]]

@@ -2,11 +2,10 @@
 |-|-|
 |by  Connor Chamberlain |
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
-|**Groups**|[[Unmade\|Unmade]]🐱︎|
+|**Groups**|[[Unmade\|Unmade]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I find Ba-Ado-Mishram to be the most interesting of the Unmade. She is said to have been keen of mind, a highprincess among the enemy forces, their commander during some of the Desolations. I do not know how this relates to the ancient god of the enemy, named Odium.*”
 \-From Hessi's Mythica, page 203[1]
@@ -38,7 +37,7 @@ She is unique among the Unmade for having two hyphens in her name, whereas other
 
 
 ## Mythology and Lore
- by  Tati 
+ by  Anya 
 >“*There is very little information about Ba-Ado-Mishram in more modern times. I can only assume she, unlike many of them, returned to Damnation or was destroyed during Aharietiam.*”
 \-From Hessi's Mythica, page 226[9]
 
@@ -66,7 +65,7 @@ About 2,500 years after Aharietiam, Ba-Ado-Mishram [[Connection\|Connected]] wit
 The [[Knights Radiant\|Knights Radiant]] of the era felt that the singers fought with zeal, and did not know how Ba-Ado-Mishram could Connect with the singers. The fighting was particularly intense during this period. At some point, the singers pressed towards [[Feverstone Keep\|Feverstone Keep]], though the Radiants did not understand why the area interested the singers--or perhaps Ba-Ado-Mishram--so much. Some speculated that it had been part of a plan to capture the city of [[Rall Elorim\|Rall Elorim]].
 The Radiants sought an edge in combat with the singers, and made a coalition of scholar Radiants with the goal of denying the singers their Voidlight.
 They had a theory that an Unmade could be captured like regular spren, but it would require a special prison--likely a [[Perfect gemstone\|perfect gemstone]]--and [[Melishi\|Melishi]], the [[Bondsmith\|Bondsmith]] of that generation. So, the Radiants formed a strike team to imprison Ba-Ado-Mishram. Melishi was confident in the plan, but other Radiants were uncertain on the effects this would have on the singers. Still, they hoped this would finally lead to the end of the war with the singers, once and for all.
-Several [[Herald\|Heralds]], including [[Nale\|Nale]] and [[Kalak\|Kalak]], were present at Ba-Ado-Mishram's binding, though their role there is unknown. Ultimately, the strike team was successful and Ba-Ado-Mishram was captured.
+The [[Herald\|Heralds]] [[Nale\|Nale]] and [[Kalak\|Kalak]], and possibly others, were present at Ba-Ado-Mishram's binding, though their role there is unknown. Ultimately, the strike team was successful and Ba-Ado-Mishram was captured.
 
 ### Effects of the Binding
 >“*Thousands of years ago, something happened that changed the singers. It hurt me too. [...] That terrible act touched the souls of all who belong to Roshar. Spren too.*”
@@ -88,7 +87,7 @@ Ba-Ado-Mishram's binding made the Fused realize that spren could be trapped in g
 \-Shallan confronting Mraize[29]
 
 
-In 1175, during the [[True Desolation\|True Desolation]], the location Ba-Ado-Mishram's gemstone prison remained unknown, but the [[Ghostbloods\|Ghostbloods]] sought it. [[Ialai Sadeas\|Ialai Sadeas's]] journal which [[Shallan\|Shallan]] acquired at Ialai's death described the Ghostbloods being "obsessed" with Ba-Ado-Mishram. Shallan suspected [[Mraize\|Mraize]] thought that Ba-Ado-Mishram would be in [[Urithiru\|Urithiru]], but Shallan realized this must have been wrong, because if that was true, [[Re-Shephir\|Re-Shephir]] would have freed Mishram. Shallan wondered that since Mraize wished to move [[Stormlight\|Stormlight]] off Roshar that perhaps Ba-Ado-Mishram could be used for this purpose.
+In 1175, during the [[True Desolation\|True Desolation]], the location of Ba-Ado-Mishram's gemstone prison remained unknown, but the [[Ghostbloods\|Ghostbloods]] sought it. [[Ialai Sadeas\|Ialai Sadeas's]] journal which [[Shallan\|Shallan]] acquired at Ialai's death described the Ghostbloods being "obsessed" with Ba-Ado-Mishram. Shallan suspected [[Mraize\|Mraize]] thought that Ba-Ado-Mishram would be in [[Urithiru\|Urithiru]], but Shallan realized this must have been wrong, because if that was true, [[Re-Shephir\|Re-Shephir]] would have freed Mishram. Shallan wondered that since Mraize wished to move [[Stormlight\|Stormlight]] off Roshar that perhaps Ba-Ado-Mishram could be used for this purpose.
 Kalak believed this was why the Ghostbloods hunted him. Shallan confronted Mraize using her [[Seon\|seon]] [[Ala\|Ala]], and demanded to know what the Ghostbloods' plan was with a spren which could bind minds of an entire people. Mraize didn't respond, and Shallan declared that she would find Ba-Ado-Mishram's gemstone before they would.
 In Kalak's journal, which he wrote as he hid in [[Lasting Integrity\|Lasting Integrity]], he urged Ba-Ado-Mishram to be found and freed.
 

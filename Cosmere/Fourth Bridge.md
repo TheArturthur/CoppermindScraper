@@ -4,9 +4,8 @@
 |**Type**|Airship|
 |**Creators**|[[Alethi\|Alethi]]|
 |**Captain**|[[Navani Kholin\|Navani Kholin]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 >“*She is an odd ship, to be sure, but majestic in her own way.*”
 \-Kmakl[1]
@@ -47,7 +46,7 @@ The back half of the upper deck is covered by a semi-round roof, while the front
 The lower decks serve as the hold. The bottom one has a broad door that allows large amounts of people to come in and out at once. It functions akin to a drawbridge; it forms a wall and can be lowered and raised by ropes to open and close. While sparsely-furnished, the holds can accomodate several hundred people. There are numbers painted on their walls, dividing them into sections.
 
 ### Mechanics
-The airship doesn't so much fly as it is held in the air by [[Fabrial\|fabrials]]. There are hundreds of gemstones forming a lattice of masive conjoiners embedded into the ship. They are connected to a pair of "dummy ships". One of the dummies is hanging off the side of the [[Urithiru\|Urithiru]] plateau; the other stands on the [[Shattered Plains\|Shattered Plains]]. The airship is steered from those two lattices; the *Fourth Bridge* communicates its needs to them through [[Spanreed\|spanreeds]]. As they cannot be used for long periods of time due to movement, the scribes use them by turning them on and off, creating a code of blinks.
+The airship doesn't so much fly as it is held in the air by [[Fabrial\|fabrials]]. There are hundreds of gemstones forming a lattice of massive conjoiners embedded into the ship. They are connected to a pair of "dummy ships". One of the dummies is hanging off the side of the [[Urithiru\|Urithiru]] plateau; the other stands on the [[Shattered Plains\|Shattered Plains]]. The airship is steered from those two lattices; the *Fourth Bridge* communicates its needs to them through [[Spanreed\|spanreeds]]. As they cannot be used for long periods of time due to movement, the scribes use them by turning them on and off, creating a code of blinks.
 The conjoiner fabrials are isolated using [[Aluminum\|aluminum]] so that only certain planes of movement are transferred between the paired gem halves. The Urithiru structure can only convey vertical motion; the Shattered Plains lattice can only transfer horizontal motion. The former is lowered to raise the airship, while the latter is moved around to make it fly and turn in any direction. To allow the ship to continue moving when the space for the lattices runs out, an additional aluminum mechanism is used to reverse the motion while the gemstones are temporarily unhooked.
 The entire structure requires significant manpower to function properly. In Urithiru, hundreds of people operate the winches that raise and lower the vertical lattice; on the Plains, squads of [[Chull\|chulls]] are used to move the ship horizontally. The *Fourth Bridge* requires hundreds of gemstones to be perpetually infused with [[Stormlight\|Stormlight]]. Fans have been installed to ease the load on the horizontal fabrials, but as of right now, they are barely functioning. There are also weight concerns, as adding too much mass to the existing structure might cause the gemstones to crack.
 

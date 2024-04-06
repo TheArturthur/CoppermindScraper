@@ -2,9 +2,8 @@
 |-|-|
 |**Aliases**|Earnest|
 |**Profession**|Horse Thief|
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Lamentation Winebare** is a horse thief in the [[Forests of Hell\|Forests of Hell]] on [[Threnody\|Threnody]].
 

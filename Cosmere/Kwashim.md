@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Ethnicity**|[[Terris\|Terris]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Kwashim** is a [[Terris\|Terris]] girl from [[Scadrial\|Scadrial]]. She was a teenage student in [[The Village\|The Village]] at the same time as [[Wax\|Wax]] and [[Telsin Ladrian\|Telsin Ladrian]].
 

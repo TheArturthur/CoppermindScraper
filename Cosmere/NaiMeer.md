@@ -7,9 +7,8 @@
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Kerztian\|Kerztian]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **NaiMeer** is a dockmaster in [[Lossand\|Lossand]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. He is [[Vey\|Vey's]] nephew.
 
@@ -21,4 +20,4 @@ When [[Kenton\|Kenton]] needs to travel to [[Lraezare\|Lraezare]] to find Vey, N
 
 
 
-https://coppermind.net/wiki/NaiMeer
+https://coppermind.net/wiki/Naimeer

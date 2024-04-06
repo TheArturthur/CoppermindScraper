@@ -1,10 +1,10 @@
 |**Abraham Desjardins**|
 |-|-|
 |by  Jamie Knierim |
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
+|**Groups**|[[Reckoners\|Reckoners]]|
 |**Nationality**||
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**First Appeared**|*Steelheart*|
 
 >“*The heroes will come. Someday we will have Epics that do no kill, do not hate, do not dominate. We will be protected.*”
 \-Abraham to David[1]
@@ -73,12 +73,12 @@ As a part of Prof's Reckoner cell, Abraham was with the team during the attack o
 
 
 When David announces his plan to the Reckoners, Abraham is in almost complete agreement with David, particularly because it is the same thing he had fought for before with Prof: fighting more powerful Epics. When Prof finally agreed with the plan, he sent Abraham to Diamond's place, along with Megan and David. Along the way, they encountered a group of outcasts underground, who wanted their guns, particularly Abraham's gun. Abraham challenged their leader to a duel, who instantly shot Abraham. However, Abraham was protected by Prof's healing powers (although Abraham believed it was the [[Harmsway\|harmsway]]), and shot the man in the thigh. The outcasts thought that Abraham was an Epic, and so let him pass.
-When they reached Diamond's shop, Abraham gave a data chip to a young girl in a yellow dress, who let them in. In Diamond's shop, Abraham revealed to David that Steelheart was secretly afraid of the smart people, because those were the ones who would figure out his weakness. Abraham bought a gauss gun developed off of [[Rick O'Shea\|Rick O'Shea]], a pack of erasers that will detonate when a certain pen is clicked, and motorcycles with gravatonics (although he bought secretly). He pays for these using cells of four Epics (including [[Absence\|Absence]], and a data chip that contained explosions. When Nightwielder showed up to Diamond's shop, two hours early, David was forced to sell Abraham's gun to him, in an attempt to distract Nightwielder, while Abraham escaped using the tensors. Abraham revealed that he had a history with Nightwielder, and that he would recognize Abraham.
+When they reached Diamond's shop, Abraham gave a data chip to a young girl in a yellow dress, who let them in. In Diamond's shop, Abraham revealed to David that Steelheart was secretly afraid of the smart people, because those were the ones who would figure out his weakness. Abraham bought a gauss gun developed off of [[Rick O'Shea\|Rick O'Shea]], a pack of erasers that will detonate when a certain pen is clicked, and motorcycles with gravatonics (although he bought the motorcycles secretly). He pays for these using cells of four Epics (including [[Absence\|Absence]], and a data chip that contained explosions. When Nightwielder showed up to Diamond's shop, two hours early, David was forced to sell Abraham's gun to him, in an attempt to distract Nightwielder, while Abraham escaped using the tensors. Abraham revealed that he had a history with Nightwielder, and that he would recognize Abraham.
 Because David sold Abraham's gun, Abraham was forced to find a new one. While he new gun was a similar model, it didn't have as many bells and whistles as his previous one.
 Abraham came back later and kidnapped Diamond, to prevent him from blabbing about the hole in his wall that Abraham made. It was also for his safety, as Nightwielder would come back to Diamond the instant he saw David. Diamond was offered a place to hide and lots of food in exchange for staying low.
 
 
-The Reckoners attacked Newcago's power plant, in a dual attempt to steal fuel for the gauss gun and to destroy the power plant in Newcago, further planting the idea of a rival Epic. The day before the attack, Abraham scouted the area, using the tensors to dig an underground tower. During the attack, Abraham and Prof were the first team. They broke in where all the huge equipment was stored, and worked their way upwards, charging explosives.
+The Reckoners attacked Newcago's power plant, in a dual attempt to steal fuel for the gauss gun and to destroy the power plant in Newcago, further planting the idea of a rival Epic. The day before the attack, Abraham scouted the area, using the tensors to dig an underground tunnel. During the attack, Abraham and Prof were the first team. They broke in where all the huge equipment was stored, and worked their way upwards, charging explosives.
 During the next few days, Abraham and Tia worked to find the [[First Union Bank (Newcago)\|First Union Bank]], which [[Faultline\|Faultline]] had sent far under the surface. Abraham used his tensors to get to the bank.
 Abraham ran a supply run for the Reckoner cell, and he, David, and Megan unloaded all the food from the crates. When David asked Prof about what will happen to Newcago, both Prof and Abraham told him that Newcago would probably be a worse place because of it. Abraham rubbed his Faithful necklace while he said this. When Megan argued, and said that a worse Epic would rule Newcago, Abraham said they would just have to wait for a good Epic, revealing his status as Faithful.
 
@@ -88,7 +88,7 @@ When Nightwielder and the other Enforcement officers attacked, Abraham took out 
 After Megan died, Abraham told David that he needed to live his life, instead of having Steelheart live it for him. After this, Abraham and the rest of the Reckoner cell interrogate Conflux, who they actually managed to abduct. Abraham positioned a large flashlight on Conflux's face, so he could keep Conflux disorientated. 
 
 
-After Conflux shut off all the power in Newcago, the Reckoners discussed how they would attack Steelheart. When David dedicated the following fight with Steelheart to Megan, Abraham noted that it was ironic, because Megan was the one who didn't want to bring down Steelheart. He claimed that the truth was not a downer, only the lies that they pretend to accept. Abraham believed that the specific type of gun was the thing that hurt Steelheart. However, Prof believed that only the Faithful could harm Steelheart, and claimed that Abraham might be able to kill Steelheart.
+After Conflux shut off most of the power in Newcago, the Reckoners discussed how they would attack Steelheart. When David dedicated the following fight with Steelheart to Megan, Abraham noted that it was ironic, because Megan was the one who didn't want to bring down Steelheart. He claimed that the truth was not a downer, only the lies that they pretend to accept. Abraham believed that the specific type of gun was the thing that hurt Steelheart. However, Prof believed that only the Faithful could harm Steelheart, and claimed that Abraham might be able to kill Steelheart.
 Abraham suggested that they set explosives beneath [[Soldier Field\|Soldier Field]], which the rest of the team agreed with. He then took care of the UV headlights, so they might be able to turn Nightwielder into corporeal form. Abraham was also in charge of blowing the secondary charges on the far wall, in case they needed a distraction.
 
 

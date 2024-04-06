@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Plant|
 |**Used for**|Food|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Lurnips** are a type of plant native to [[Roshar\|Roshar]].
 Lurnips are green and cultivated as a vegetable. They may be related to the similarly named [[Curnip\|curnips]], an edible species of [[Rockbud\|rockbud]].

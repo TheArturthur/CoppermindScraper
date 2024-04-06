@@ -1,10 +1,9 @@
 |**Windrunner River**|
 |-|-|
 |**Type**|River|
-|**Region**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Windrunner River** is a body of water running through [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. It is named for the [[Order of Windrunners\|Order of Windrunners]] of the [[Knights Radiant\|Knights Radiant]].
 

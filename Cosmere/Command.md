@@ -2,7 +2,8 @@
 |-|-|
 |**Related to**|[[Investiture\|Investiture]], [[Intention\|Intention]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker, The Stormlight Archive*|
+
+This page or section needs to be updated with new information for *The Lost Metal* and *Yumi and the Nightmare Painter*!Be aware that in its current state, it may not include all additional content yet.
 
 This article focuses on the [[Cosmere\|cosmere]]-wide concept of Commands. For information specific to Awakening Commands, see Awakening#Awakening Commands.
 >“*The most powerful forms of Surgebinding transcend traditional mortal understanding. All their greatest applications require Intent and a Command.*”

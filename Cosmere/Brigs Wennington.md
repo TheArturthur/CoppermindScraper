@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Services**|Electrical lighting|
 |**City**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Cultivated gentlemen in all octants agree; Only electric lights will do!*
 \-Do not be caught in the dark!

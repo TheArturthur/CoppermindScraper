@@ -2,8 +2,7 @@
 |-|-|
 |**Family**|
 |**Children**|[[Panos Maheras\|Panos]], [[Dion Maheras\|Dion]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion: Skin Deep*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Mrs. Maheras** is the mother of [[Panos Maheras\|Panos]] & [[Dion Maheras\|Dion]].
 She is a first-generation Greek American with a heavy Greek accent. She keeps a well tended lawn and a number of tomato plants. She is a very religious member of the Greek Orthodox church and rather disappointed that both of her sons became atheists. Her house is full of kitsch.

@@ -1,8 +1,7 @@
 |**Diagram (group)**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -55,7 +54,7 @@ During the succesion battle in Jah Keved, Adrotagia reported to Taravangian that
 The Diagram predicted that the [[Order of Dustbringers\|Order of Dustbringers]] would be most likely to ally with the Diagram, though obtaining a Radiant was not guaranteed in the text. Taravangian implemented a program among its lower members to attempt to bond an [[Ashspren\|ashspren]]. It is unknown what steps this involved. [[Malata\|Malata]] was the first to succeed.
 
 ### Assassination of Leaders
-The Diagram mentioned the possibility of finding or creating a [[Shin\|Shin]] [[Truthless\|Truthless]] who they could use as a weapon. It is unclear whether the Diagram was involved in the events that led to [[Szeth\|Szeth]] becoming a Truthless, but Taravangian did eventually obtain possession of his [[Oathstone\|Oathstone]] and used the Shin man who possessed [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] to assassinate other world leaders.
+The Diagram mentioned the possibility of finding or creating a [[Shin\|Shin]] [[Truthless\|Truthless]] who they could use as a weapon. It is unclear whether the Diagram was involved in the events that led to [[Szeth\|Szeth]] becoming a Truthless, but one of Taravangian's men (a worldhopper) did eventually obtain possession of the [[Oathstone\|Oathstone]] and ordered the Shin man who possessed [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] to assassinate numerous world leaders.
 Obeying the holder of his Oathstone, Szeth killed many of Roshar's royalty and anyone else who stood in his way. The final person he was assigned to assassinate was [[Dalinar Kholin\|Dalinar Kholin]], uncle to King [[Elhokar\|Elhokar]] of [[Alethkar\|Alethkar]] and Highprince of [[Kholinar\|Kholinar]]. Dalinar had been trying to unite the highprinces of Alethkar, which Taravangian felt was a threat to the Diagram's command that Taravangian should rule all of Roshar.
 Szeth found Dalinar in the Alethi warcamps, but the highprince, with the aid of his guard [[Kaladin Stormblessed\|Kaladin Stormblessed]], managed to survive the attack. Seeing Kaladin use [[Stormlight\|Stormlight]] to heal a Shardblade wound caused Szeth to flee.
 
@@ -67,12 +66,12 @@ But Highprince [[Valam\|Valam]] found out about this plot and chose to make Tara
 [[Graves\|Graves]] was an Alethi [[Shardbearer\|Shardbearer]] and a member of the Diagram. According to his interpretation of a part of the Diagram, they needed to ally themselves with Highprince [[Dalinar Kholin\|Dalinar Kholin]], and that the way to do this was to make Dalinar king of Alethkar by assassinating King [[Elhokar\|Elhokar]].
 Graves, [[Moash\|Moash]], [[Danlan\|Danlan]], and [[Rill\|Rill]] conspired together and attempted to stage an accident wherein Elhokar would fall to his death from a balcony. This plan failed when the king managed to hold on to part of a railing and was saved by his guards.
 Later on, they tried to recruit Kaladin to their side. Kaladin had been investigating the matter and discovered Moash's part in it, and so Graves attempted to convince him that Elhokar was a bad king who deserved to be replaced. Kaladin did not report them to authorities but refused to assist Graves. When the conspirators had another opportunity to assassinate the king, this time through direct physical assault, Kaladin had a change of heart and saved Elhokar from them.
-As they fled the Alethi warcamps, Graves wondered whether his interpretation had been wrong, or if he was simply too slow. Fleeing across the Frostlands with Moash, [[Febrth\|Febrth]], and [[Fia\|Fia]], he was attacked and killed by [[Fused\|Fused]] using [[Voidlight\|voidlight]], though Moash survived.
+As they fled the Alethi warcamps, Graves wondered whether his interpretation had been wrong, or if he was simply too slow. Fleeing across the Frostlands with Moash, [[Febrth\|Febrth]], and [[Fia\|Fia]], he was attacked and killed by [[Fused\|Fused]] using [[Voidlight\|Voidlight]], though Moash survived.
 
 ### Second Assassination Attempt on Dalinar
 Even though Graves believed that Dalinar was vital to their cause, he still obeyed the Diagram's orders to keep Kaladin from guarding the highprince so that Szeth, who had been sent once again to assassinate Dalinar, would not realize that Kaladin was a [[Knight Radiant\|Knight Radiant]]. Taravangian believed that Szeth would turn on him and the rest of the Diagram if he found out that the Knights Radiant have returned, as this was connected to how Szeth became Truthless.
 On the day that Kaladin was saving Elhokar in the warcamps, Szeth arrived in [[Narak\|Narak]], where Dalinar had been commanding the Alethi armies against [[Stormform\|stormform]] [[Listeners\|listeners]] who were summoning the [[Everstorm\|Everstorm]]. Dalinar bravely fought against the assassin, but proved to be no match for him. Several soldiers, [[Bridge Four\|Bridge Four]] members, and even Highprince [[Roion\|Roion]] died trying to protect Dalinar, who was then finally struck with a [[Lashing\|Lashing]] that sent him up in the sky.
-Szeth intended Dalinar to fall to his death when the Stormlight ran out, but Kaladin had arrived just in time, flying in haste all the way from the warcamps, to save the highprince. The two Windrunners then fought as the others escaped to [[Urithiru\|Urithiru]]. Kaladin managed to defeat Szeth, unwittingly handing the Diagram another heavy loss. Szeth was later revived by [[Nalan\|Nalan]], but he no longer considered himself under Taravangian's orders.
+Szeth intended Dalinar to fall to his death when the Stormlight ran out, but Kaladin had arrived just in time, flying in haste all the way from the warcamps, to save the highprince. The two of them then fought as the others escaped to [[Urithiru\|Urithiru]]. Kaladin managed to defeat Szeth, unwittingly handing the Diagram another heavy loss. Szeth was later revived by [[Nalan\|Nalan]], but he no longer considered himself under Taravangian's orders.
 
 ### Undermining of Dalinar's Leadership
 As the [[True Desolation\|True Desolation]] brought about by the Everstorm started, Taravangian was the first ruler to join Dalinar's coalition in Urithiru. On a day of very high intelligence, he re-evaluated his interpretations of the Diagram regarding Dalinar and decided that replacing him as the leader of the coalition would be their best course of action. In order to do this, they set out to find secrets that would undermine Dalinar's leadership.
@@ -101,6 +100,7 @@ For a full list, see :Category: Diagram.
 [[Moash\|Moash]]: A former member of [[Bridge Four\|Bridge Four]].
 [[Joshor\|Joshor]]: Head of the Silent Gatherers.
 [[Graves\|Graves]]: A lighteyed Alethi Shardbearer.
+A masked worldhopper with an accent foreign to [[Szeth\|Szeth]].
 
 
 

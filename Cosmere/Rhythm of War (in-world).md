@@ -1,10 +1,9 @@
 |**Rhythm of War**|
 |-|-|
 |**Author**|[[Navani\|Navani]] and [[Raboniel\|Raboniel]]|
-|**Created in**|True Desolation|
-|**World**|[[Roshar\|Roshar]]|
+|**Created in**|[[True Desolation\|True Desolation]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -54,94 +53,94 @@ The [[Fused\|Fused]] scholar of human art forms, [[El\|El]], later uses the orig
 
 ### From page 3
 >“*In my fevered state, I worry I’m unable to focus on what is important.*”
-\-Page 3[7]
+\-Page 3[7] written by Navani.
 
 
 >“*"When in such a state, detachment is enviable. I have learned that my greatest discoveries come when I abandon lesser connections."*”
-\-Page 3, undertext[8]
+\-Page 3, undertext[8] written by Raboniel.
 
 
 ### From page 5
 >“*This song—this tone, this rhythm—sounds so familiar, in ways I cannot explain or express.*”
-\-Page 5[9]
+\-Page 5[9] written by Navani.
 
 
 >“*I am led to wonder, from experiences such as this, if we have been wrong. We call humans alien to Roshar, yet they have lived here for thousands of years now. Perhaps it is time to acknowledge there are no aliens or interlopers. Only cousins.*”
-\-Page 5, undertext[10]
+\-Page 5, undertext[10] written by Raboniel
 
 
 ### From page 6
 >“*It would have been so easy if Voidlight and Stormlight destroyed one another. Such a simple answer.*”
-\-Page 6[11]
+\-Page 6[11] written by Raboniel.
 
 
 >“*We must not let our desires for a specific result cloud our perceptions.*”
-\-Page 6, undertext[12]
+\-Page 6, undertext[12] written by Navani.
 
 
 >“*But how can we not, in searching, wish for a specific result? What scientist goes into a project without a hope for what they will find?*”
-\-Page 6, undertext[13]
+\-Page 6, undertext[13] written by Navani.
 
 
 >“*I find this experience so odd. I work with a scholar from the ancient days, before modern scientific theory was developed. I keep forgetting all the thousands of years of tradition you completely missed.*”
-\-Page 6, undertext[14]
+\-Page 6, undertext[14] written by Navani.
 
 
 ### From page 10
 >“*This point regarding the Rhythm of War’s emotional influence will be of particular interest to El.*”
-\-Page 10[15]
+\-Page 10[15] written by Raboniel.
 
 
 >“*Who is this person? You used no title, so I assume they are not a Fused. Who, then, is El?*”
-\-Page 10, undertext[16]
+\-Page 10, undertext[16] written by Navani.
 
 
 ### From page 13
 >“*In other circumstances, I would be fascinated by this sand to the point of abandoning all other rational pursuits. What is it? Where did it come from?*”
-\-Page 13[17]
+\-Page 13[17] written by Navani.
 
 
 >“*I am told that it is not the sand itself, but something that grows upon it, that exhibits the strange properties. One can make more, with proper materials and a seed of the original.*”
-\-Page 13, undertext[18]
+\-Page 13, undertext[18] written by Raboniel.
 
 
 >“*The sand originated offworld. It is only one of such amazing wonders that come from other lands—I have recently obtained a chain from the lands of the dead, said to be able to anchor a person through Cognitive anomalies. I fail to see what use it could be to me, as I am unable to leave the Rosharan system. But it is a priceless object nonetheless.*”
-\-Page 13, undertext[19]
+\-Page 13, undertext[19] written by Raboniel.
 
 
 ### From page 21
 >“*As we dig further into this project, I am left questioning the very nature of God. How can a God exist in all things, yet have a substance that can be destroyed?*”
-\-Page 21[20]
+\-Page 21[20] written by Navani.
 
 
 >“*I am not convinced any of the gods can be destroyed, so perhaps I misspoke. They can change state however, like a spren—or like the various Lights. This is what we seek.*”
-\-Page 21, undertext[21]
+\-Page 21, undertext[21] written by Raboniel
 
 
 ### From page 27
 >“*Do not mourn for what has happened. This notebook was a dream we shared, which is itself a beautiful thing. Proof of the truth of my intent, even if the project was ultimately doomed.*”
-\-Page 27[22]
+\-Page 27[22] written by Raboniel.
 
 
 >“*I leave you now to your own company.*”
-\-Page 27[23]
+\-Page 27[23] written by Raboniel.
 
 
 ### From the final page
 >“*Opposites. Opposites of sounds. Sound has no opposite. It’s merely overlapped vibration, the same sound, but sound has meaning. This sound does, at least. These sounds. The voices of gods.*”
-\-Final page[24]
+\-Final page[24] written by Navani.
 
 
 >“*Voice of Lights. Voice for Lights. If I speak for the Lights, then I must express their desires. If Light is Investiture, and all Investiture is deity, and deity has Intent, then Light must have Intent.*”
-\-Final page[25]
+\-Final page[25] written by Navani.
 
 
 >“*Intent matters. Intent is king. You cannot do what I attempt by accident. You must mean it. This seems a much greater law than we’ve ever before understood.*”
-\-Final page[26]
+\-Final page[26] written by Navani.
 
 
 ## Trivia
-Rhythm of War is the namesake of the [[Rhythm of War\|fourth book]] in *The Stormlight Archive* series, following with the trend of naming them for in-world books.
+Rhythm of War is the namesake of the [[Rhythm of War\|fourth book]] in [[The Stormlight Archive\|The Stormlight Archive]] series, following with the trend of naming them for in-world books.
 
 
 https://coppermind.net/wiki/Rhythm_of_War_(in-world)

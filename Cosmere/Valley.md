@@ -3,9 +3,8 @@
 |by  Heatherly |
 |**Type**|Valley|
 |**Region**|[[Emul\|Emul]]/[[Greater Hexi\|Greater Hexi]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Vines, ferns, flowers, and grasses grew together in a wall of underbrush. Trees stretched above them, and these weren't the durable stumpweights of his homeland. These were gnarled, tall, and twisted, with branches that wound together. They were overgrown with draping moss and vines, lifespren bobbing about them in plentitude.*”
 \-Dalinar Kholin observing the Valley[1]
@@ -40,4 +39,4 @@ The Valley is the home of [[Cultivation\|Cultivation]] and her spren, the [[Nigh
 
 
 
-https://coppermind.net/wiki/Valley
+https://coppermind.net/wiki/The_Valley

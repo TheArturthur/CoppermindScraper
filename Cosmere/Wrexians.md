@@ -1,8 +1,7 @@
 |**Wrexians**|
 |-|-|
-|**World**|*Unknown*|
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*[Humans] are aggressive, yes, but not on the level of, say, a cormax drone or the wrexians.*”
 \-Sssizme[1]

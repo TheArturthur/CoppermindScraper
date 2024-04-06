@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[Shardblade\|Shardblades]]|
 |**Type**|Combat technique|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **lastclap** is a combat maneuver used on [[Roshar\|Roshar]] to "catch" an opponent's [[Shardblade\|Shardblade]] between the palms. It is used as a last resort by someone unarmored and unarmed when they have no other options. The lastclap can only be performed when the Shardbearer attacks with an overhead swing.
 

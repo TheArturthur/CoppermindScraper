@@ -1,10 +1,9 @@
 |**Jaador**|
 |-|-|
 |**Ethnicity**|[[JinDo\|JinDo]]|
-|**Region**|[[Opelon\|Opelon]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Region**|[[Opelon\|Opelon]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Jaador** is a nation on the continent of [[Opelon\|Opelon]] (Sycla) on [[Sel\|Sel]]. It is a land-locked nation that borders [[JinDo\|JinDo]] to the west, [[Fjorden\|Fjorden]] to the north, [[Hraggen\|Hraggen]] and [[Hrovell\|Hrovell]] to the east, and a large desert to the south. A notable city named [[Kjaard\|Kjaard]] lies on a river near the border with Fjorden. Although Jaador's residents are ethnically [[JinDo\|JinDo]], the nation has been annexed by the [[Fjordell Empire\|Fjordell Empire]] and the official religion is therefore [[Shu-Dereth\|Shu-Dereth]].
 

@@ -4,9 +4,8 @@
 |**Use**|[[Worldhop\|Worldhopping]]|
 |**Era**|[[Late Era\|Late Era]]|
 |**Region**|[[Atad Mountains\|Atad Mountains]]|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*It was a comforting parent. It wanted to take away his pain and sorrows, just as his mother had once done. 'Come', it pled. 'You can finally give up'.*”
 \-Raoden's description of the pool[1]

@@ -1,8 +1,7 @@
 |**Audrey**|
 |-|-|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Audrey** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]]; an expert on handwriting and cryptography.
 

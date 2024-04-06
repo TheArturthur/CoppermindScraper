@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Spren|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Willshapers\|Willshaper]] magic, [[Splinter\|Splinter]]s|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -13,7 +12,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-Azure[1]
 
 
-**Reachers**, also known  as **lightspren**, are a subset of sapient [[Spren\|spren]] on [[Roshar\|Roshar]]. Bonding with them makes a person a [[Surgebinder\|Surgebinder]] of the [[Order of Willshapers\|Order of Willshapers]].
+**Reachers**, also known as **lightspren**, are a subset of sapient [[Spren\|spren]] on [[Roshar\|Roshar]]. Bonding with them makes a person a [[Surgebinder\|Surgebinder]] of the [[Order of Willshapers\|Order of Willshapers]].
 
 ## Contents
 

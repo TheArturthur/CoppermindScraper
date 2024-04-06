@@ -1,8 +1,7 @@
 |**Sellafruit**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Sellafruit** is a kind of food found on [[Roshar\|Roshar]]. It can be preserved through drying.
 

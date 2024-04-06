@@ -2,13 +2,12 @@
 |-|-|
 |**Titles**|Prince of [[Elis\|Elis]], Lord Beggar|
 |**Aliases**|Gevin, [[Nilto\|Nilto]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎ (unofficial)|
+|**Groups**|[[Taishin\|Taishin]] (unofficial)|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Darksider\|Darksider]]|
 |**Nationality**|[[Elisian\|Elisian]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 >“*My prince sought a weapon, Loaten. If you know how he died or what he found then I need to know.*”
 \-Khriss[2]
@@ -35,6 +34,7 @@ He is an influential leader in Elis, and is one of the strongest opponents of th
 
 ## History
 Gevalden was the second son of the king of Elis, and was betrothed to the Duchess Khrissalla in an important political arrangement before his untimely death. Gevalden journeyed to [[Dayside\|Dayside]] in search of the mythical [[Sand mastery\|sand mages]], who are reputed by Darksider children's stories to hold many magical powers. Khriss believed that he sought to recruit or use the sand mages as a weapon to undermine the [[Dynasty\|Dynasty]].
+He began to gain a large amount of influence amongst the people of Lossand under the name Nilto, becoming known as the Lord Beggar, and through his influence, becoming a de facto [[Taisha\|Taisha]]. At some point, [[Ais\|Ais]] began to suspect him of being the violent crime lord known as [[Sharezan\|Sharezan]], and dedicated herself to finding evidence to convict him.
 News of Gevin's death prompted his fiancée to organize her own journey to Dayside in search of the sand mages and the truth behind Gevalden's death. After arriving in [[Kezare\|Kezare]], Khriss met with [[Loaten\|Loaten]] who informed her that Gevalden reached Kezare as well but gave up on his original goal before he died. Loaten was reluctant to share more details with Khrissalla, but implicated the Dynasty. Khriss supposed that Gevin must also have met with the [[Lossand\|Lossandin]] [[Taishin\|Taishin]] during his time in Kezare. Upon her discovery of the sand masters, she assumed that he must have found the [[Diem\|Diem]] as well and petitioned them for help, though [[Kenton\|Kenton]] has no records of such a meeting. Upon her first encounter with [[Nilto\|Nilto]], the Lord Beggar gave her Gevalden's pistol and ring, but refused to explain why they were in his possession.
 During a meeting with Khriss, Nilto mistakenly called her by her nickname, letting her realize his true identity as Gevin. She confronted him at the docks as he was attempting to leave the city, and he claimed he no longer had any duty or obligation to Elis. [[Jon Acron\|Jon Acron]] appeared and revealed himself to be an assassin sent by the Dynasty to kill Gevalden, and he shot [[Baon\|Baon]] before chasing after Khriss and Gevin. Khriss used a crane to knock him to his death in the harbor. She again asked Gevin to return with her to Darkside, but he explained that he wanted to choose his own path, and that he could never return after his injury two years ago.
 

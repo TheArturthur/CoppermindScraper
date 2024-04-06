@@ -1,9 +1,8 @@
 |**Truthberry**|
 |-|-|
 |**Type**|Fruit|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **truthberry** is a fruit that grows in [[Azir\|Azir]] on [[Roshar\|Roshar]].
 

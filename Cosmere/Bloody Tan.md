@@ -1,11 +1,11 @@
 |**Bloody Tan**|
 |-|-|
+|by  VectorHTC |
 |**Died**|341 [[Catacendre\|PC]]|
 |**Profession**|Mortician, criminal|
 |**Residence**|[[Roughs\|The Roughs]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Each life is a performance. But we are not the performers. We are the puppets. I have seen God, lawkeeper. I have seen Death himself, with the nails in his eyes. I have seen the Survivor, who is life. Other men wonder, but I know. I know I’m a puppet. We all are.*”
 \-Bloody Tan, to Waxillium Ladrian[1]
@@ -27,6 +27,7 @@
 
 
 ## Appearance and Personality
+ by  VectorHTC 
 Bloody Tan is a slender man with thinning, greased-back black hair and long, thin fingers. His face looks drawn and nearly skeletal. A mortician by trade, he usually wears fine suits.
 Tan seems to be unhinged; Wax considers him to be a psychopath. He believes that people are all puppets being controlled by some outside force, which causes him to place no value on human lives, regarding each one as simply a "performance". Despite his violent tendencies, he is not belligerent; he is soft-spoken and his voice has a morose quality.
 

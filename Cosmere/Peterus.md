@@ -1,11 +1,11 @@
 |**Peterus**|
 |-|-|
+|**Spouse**|[[Marthin\|Marthin]]|
 |**Died**|341 [[Catacendre\|PC]]|
 |**Profession**|Chief Constable of the Eigth Octant|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“* In the name of the law, I will see you hunted down and hanged for this!*”
 \- Lord Peterus to Miles Dagouter during a Vanisher raid[1]
@@ -38,7 +38,7 @@ Some would criticize Peterus' rise to power and prestige. Miles Dagouter felt th
 
 ## History
 ### Youth
-In his younger years, Peterus was a member of the constabulary of the Eighth Octant of Elendel. Perhaps his most famous action was the capture of the [[Copper Strangler\|Copper Strangler]], a man who strangled young women with [[Copper\|copper]] wire and sunk their bodies in the canals. This capture led to much fame and acclaim for Peterus, who invited to join the upper levels of Elendel society as a lord himself. At some point his was also married to a woman named [[Marthin\|Marthin]], and was promoted to chief constable of his octant.
+In his younger years, Peterus was a member of the constabulary of the Eighth Octant of Elendel. Perhaps his most famous action was the capture of the [[Copper Strangler\|Copper Strangler]], a man who strangled young women with [[Copper\|copper]] wire and sunk their bodies in the canals. This capture led to much fame and acclaim for Peterus, who invited to join the upper levels of Elendel society as a lord himself. At some point he was also married to a woman named [[Marthin\|Marthin]], and was promoted to chief constable of his octant.
 
 ### Later Years and Death
 Eventually, Lord Peterus retired from the constabulary, but he was still an active member of Elendel society. He was invited by [[House Yomen\|House Yomen]] to the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]]. When the [[Vanishers\|Vanishers]] arrived to rob the wedding, Lord Peterus was the first to resist. Despite his wife's protestations, he called the Vanishers out as cowards, and when [[Miles Dagouter\|Miles Dagouter]] recognized him, Miles had Peterus disarmed. Peterus refused to be silent, so Miles hit him in the face and knocked him to the ground and cutting his head.

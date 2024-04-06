@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Gunsmith|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Nouxil** is a well-known gunsmith in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

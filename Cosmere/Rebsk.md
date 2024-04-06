@@ -1,9 +1,8 @@
 |**Rebsk**|
 |-|-|
 |**Related to**|[[Thaylenah\|Thaylenah]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*...despite what the papers said, the ship was not Rysn's. She owned it. She commanded it. But at least according to maritime tradition, it was not hers.*”
 \-Rysn's thoughts on the position of rebsk[1]

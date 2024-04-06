@@ -1,17 +1,17 @@
 |**Hnanan**|
 |-|-|
 |by  Soph Peralta |
-|**Abilities**|[[Fused\|Fused]]|
+|**Abilities**|[[Fused\|Fused]] |
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*You have killed a king. Would you do the same to a god?*”
 \-Hnanan to Moash[1]
 
 
-**Hnanan** is a [[Roshar\|Rosharan]] [[Singer\|singer]] and one of the [[Fused\|Fused]]. She gives [[Moash\|Moash]] the [[Vyre's knife\|knife]] he uses to kill [[Jezrien\|Jezrien]].
+**Hnanan** is a *shanay-im* [[Fused\|Fused]] on [[Roshar\|Roshar]]. She gives [[Moash\|Moash]] the [[Vyre's knife\|knife]] he uses to kill [[Jezrien\|Jezrien]].
 
 ## Appearance and Abilities
 Hnanan's name is less a word and more of a humming sound. She is referred to as **Ancient Singer**. Hnanan wears robes with a long train and speaks Alethi with a strong accent. As one of the Heavenly Ones, Hnanan has access to the [[Surge\|Surge]] of Gravitation the ability to make use of [[Voidlight\|Voidlight]], as well as the ability to be reborn in the bodies of other singers. Due to this ability, Hnanan rarely sets foot on the ground, preferring to hover like other Fused with the same ability.

@@ -2,9 +2,8 @@
 |-|-|
 |**Ruled by**|[[Ved (Skyward)\|Ved]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *ReDawn* and *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *ReDawn*, *Cytonic*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Don't trust… their lies. Don’t trust… their false peace.*”
 \-Alanik[1]
@@ -106,4 +105,4 @@ On the other hand, Superiority does provide safety and prosperity to its members
 
 
 
-https://coppermind.net/wiki/Department_of_Protective_Services
+https://coppermind.net/wiki/Department_of_Species_Integration

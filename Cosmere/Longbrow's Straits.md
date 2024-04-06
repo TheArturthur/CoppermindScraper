@@ -2,9 +2,8 @@
 |-|-|
 |by User: Otto didact|
 |**Type**|Body of water|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Longbrow's Straits** is a waterway that separates the island of [[Thaylenah\|Thaylenah]] from the [[Frostlands\|Frostlands]] on mainland [[Roshar\|Roshar]]. The straits are likely named for the famous sailor [[Longbrow\|Longbrow]].
 The straits are lined by tall, sleek lighthouses for navigation. Various creatures live in the water, including [[Santhid\|santhidyn]], [[Khornak\|khornaks]], [[Redwater\|redwaters]], and schools of small fish. The straits become narrow near [[Klna City\|Klna City]], but in some areas they are wide enough that it can be difficult to see land.

@@ -5,8 +5,7 @@
 |**Children**|Princess [[Kamali\|Kamali]]|
 |**Titles**|King of [[Mokia\|Mokia]]|
 |**Nationality**|[[Mokian\|Mokian]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Talakimallo** is the king of [[Mokia\|Mokia]]. Shortly after the siege of [[Tuki Tuki\|Tuki Tuki]] began the [[Knights of Crystallia\|Knights of Crystallia]] supposedly evacuated him, though he secretly stayed behind in the city.
 

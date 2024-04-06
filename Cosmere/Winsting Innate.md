@@ -6,9 +6,9 @@
 |**Abilities**|Rioter|
 |**Profession**|Politician|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*Shadows of Self*|
 
 Lord **Winsting Innate** is an [[Allomancer\|Allomancer]] and a member of the [[Elendel\|Elendel]] Senate on [[Scadrial\|Scadrial]]. He is the brother of [[Replar Innate\|Replar Innate]], the governor of Elendel.
 

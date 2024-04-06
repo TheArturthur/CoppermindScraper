@@ -2,13 +2,11 @@
 |-|-|
 |by  Marie Seeberger |
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Bridge Four\|Bridge Four]]🐱︎, Sadeas army , Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+|**First Appeared**|*The Way of Kings*|
 
 **Peet** is a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]] and a [[Windrunner\|Windrunner]].
 
@@ -21,6 +19,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 3.1 Bridgeman
 3.2 Freedom
 3.3 Windrunner Squire
+3.4 Windrunner
 
 
 4 Trivia
@@ -66,6 +65,9 @@ Sometime after vacating the warcamps in favor of Urithiru, Peet and Ka became be
 As he was one of the first members of Bridge Four to become a squire, Kaladin assigned Peet to teach a group of bridgemen how to breathe in Stormlight during a Windrunner squire recruiting session. Later that day, [[Hobber\|Hobber]] used some Stormlight to heal his legs, and [[Drehy\|Drehy]] and Peet were the first ones there to help him stand for the first time. During another of the training sessions, Peet trained the ten newest squires, including [[Lyn\|Lyn]] and [[Colot\|Colot]], leading them in practice with [[Lashing\|Lashings]]. After Kaladin left on the expedition to [[Kholinar\|Kholinar]], Dalinar lent Bridge Four [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] so they could continue practicing with their Windrunner powers.
 Peet was with the group that accompanied Dalinar to [[Thaylen City\|Thaylen City]] to check on [[Amaram\|Amaram's]] progress helping rebuild the city and to meet with Queen [[Fen\|Fen]] and the other monarchs who had joined their coalition. After the [[Eila Stele\|Eila Stele's]] translation was distributed to the coalition, Bridge Four left the city and returned to Urithiru. When they arrived back at the barracks, they discovered Rock and [[Bisig\|Bisig]] injured and unconscious in the barracks while [[Eth\|Eth]], the one who had held the Honorblade that day, was dead. Peet tended to Bisig and suggested that Rock be treated by [[Renarin\|Renarin]]. Shortly after, Bisig regained consciousness enough to relate to them what had transpired.
 After defeating an invasion of Parshendi, the new full Windrunner Teft led Bridge Four and a division of Alethi soldiers through Urithiru's Oathgate into the middle of the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. Later, at [[Taravangian\|Taravangian's]] request during the post-battle efforts, Teft, Leyten, and Peet transported a twenty-foot square platform carrying the wounded towards the upper city.
+
+### Windrunner
+Following the battle at Thaylen City, Peet bonded a spren of his own. He likely participated in the evacuation of [[Hearthstone\|Hearthstone]] with his fellow Windrunners, engaging the [[Fused\|Fused]] in combat, before returning to Urithiru. Following Kaladin's retirement, Peet and a majority of the Bridge Four Windrunners joined Dalinar's forces on the battlefield in [[Emul\|Emul]]. Following the occupation of Urithiru, Peet returned for Teft's funeral, along with the rest of Bridge Four.
 
 ## Trivia
 Peet is a cameo for [[Peter Ahlstrom\|Peter Ahlstrom]], [[Brandon Sanderson\|Brandon Sanderson's]] assistant and friend.

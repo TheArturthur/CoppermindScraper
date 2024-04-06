@@ -5,8 +5,7 @@
 |**Powers**|[[Rithmatics\|Rithmatics]]|
 |**Profession**|Student |
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **William Muns** is a [[Rithmatics\|Rithmatist]] fighting at the [[Tower of Nebrask\|Tower of Nebrask]].
 William is [[Melody Muns\|Melody's]] brother. They come from the Floridian Atolls where their parents still live. Both parents as well as William's and Melody's siblings are Rithmatists, which seemed to be nearly impossible.

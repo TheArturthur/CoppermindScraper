@@ -3,7 +3,6 @@
 |by  Jamie Knierim |
 |**Region**||
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
 
 **Newcago** is the name of the city founded and led by [[Steelheart (Epic)\|Steelheart]] on the metallic ruins of .
 Steelheart rules Newcago with a steel fist, but is eventually killed by the [[Reckoners\|Reckoners]].

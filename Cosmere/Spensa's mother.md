@@ -5,9 +5,8 @@
 |**Spouse**|[[Zeen\|Zeen]] |
 |**Children**|[[Spensa\|Spensa]]|
 |**Relatives**|[[Becca Nightshade\|Becca Nightshade]] |
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*It has always seemed to me that a coward is a person who cares more about what people say than about what is right. Bravery isn't about what people call you, Spensa. Its about who you know yourself to be*”
 \-Spensa's mother on bravery[1]

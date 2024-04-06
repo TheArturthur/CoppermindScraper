@@ -1,12 +1,11 @@
 |**Hid**|
 |-|-|
 |**Profession**|Guardsman|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Hid** is a member of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] on [[Roshar\|Roshar]]. He is a member of [[Noro\|Noro's]] squad, Platoon Seven, Squad Two.
 

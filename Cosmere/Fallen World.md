@@ -1,8 +1,7 @@
 |**Fallen World**|
 |-|-|
-|**World**|[[Threnody\|Threnody]]🐱︎|
+|**World**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 The **Fallen World** is a place on [[Threnody\|Threnody]].

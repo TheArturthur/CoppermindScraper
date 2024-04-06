@@ -2,10 +2,9 @@
 |-|-|
 |**Relatives**|[[Stanoux\|Stanoux]]|
 |**Profession**|Engineer|
-|**Groups**|[[Set\|Set]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Groups**|[[Set\|Set]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lady **Stansi** is an engineer and a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]].
 

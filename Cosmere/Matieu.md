@@ -2,12 +2,13 @@
 |-|-|
 |**Profession**|Constable|
 |**Residence**|[[Ironstand\|Ironstand]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
-**Matieu** is captain of the constables in [[Ironstand\|Ironstand]].
-After the [[Nightstreet Gang\|Nightstreet Gang]] attacked a train near Ironstand, Matieu and his constables take the remaining bandits in and help [[Waxillium Ladrian\|Waxillium Ladrian]] investigate the train. He plans on chasing the criminals whom he expects to be making for the [[Roughs\|Roughs]], and asks Waxillium for help, though the spindly man gets no answer right away and salutes and retreats.
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+
+**Matieu** is captain of the constables in [[Ironstand\|Ironstand]] on [[Scadrial\|Scadrial]]. He is tall and lanky, has a ready smile, and is somewhat in awe of [[Waxillium Ladrian\|Waxillium Ladrian]].
+After the [[Nightstreet Gang\|Nightstreet Gang]] attacked a train near Ironstand in 342 [[Catacendre\|PC]], Matieu and his constables took the remaining bandits into custody. Matieu instructed his constables to give Wax some space, then inquired if any of the servants besides [[Drewton\|Drewton]] would be needing emotional support. As Wax searched the train for [[Wayne\|Wayne]] and [[MeLaan\|MeLaan]], Matieu followed him and gave him details on the gang. He planned on chasing the criminals, whom he expected to be making for the [[Roughs\|Roughs]], and asked Waxillium to join the posse. Getting no certain answer from Wax, he saluted and retreated.
 
 
 

@@ -1,11 +1,10 @@
 |**Yeden**|
 |-|-|
 |**Died**|1022 [[Final Empire\|FE]]|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]🐱︎, [[Skaa rebellion\|Skaa rebellion]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], [[Skaa rebellion\|Skaa rebellion]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Yeden... well, he was the type who was too easily impressed--both by you and the reputation you left for him.*”
 \-Mennis to Kelsier[1]
@@ -21,7 +20,7 @@
 2.1 Early life
 2.2 Contracting Kelsier's Crew
 2.3 At the Arguois caverns
-2.4 The Attack to Holstep
+2.4 The Attack on Holstep
 
 
 3 Relationships
@@ -50,12 +49,13 @@ After a time, Yeden becomes more civil with the crew and trusts Kelsier more. He
 Little is known of Yeden's origins. He suceeded [[Marsh\|Marsh]] in the control of the skaa rebellion. The skaa rebellion spent years gathering the thirty thousand boxings he used to pay [[Kelsier's crew\|Kelsier's crew]], and before hiring Kelsier he had never seen a [[Allomancy\|Mistborn]], and didn't believe that skaa could be Allomancers or that Mistborn existed. He had never visited the [[Arguois caverns\|Arguois caverns]].
 
 ### Contracting Kelsier's Crew
+ by  Kelly Mai 
 Yeden contracted [[Kelsier's crew\|Kelsier's crew]] to provide an army to capture [[Luthadel\|Luthadel]], overthrow The Final Empire, and capture [[Rashek\|The Lord Ruler]]. Yeden would pay thirty thousand boxings, half before and half after the job was done. However, it was [[Kelsier\|Kelsier's]] idea, and Yeden was a bit skeptical at first. He thought that the crew could never get the skaa to rise up and that it would be hard to recruit a large army from the population of Luthadel.
 
 ### At the Arguois caverns
 Yeden began to get excited, and was impressed with Kelsier's work for the rebellion. He went on rallies to recruit people for the rebel army. He wanted to see the army at the Arguois Caverns, and Kelsier took him to watch over it so that [[Hammond\|Hammond]] could return to Luthadel for a while. After Kelsier's display with [[Demoux\|Demoux]], Yeden started to believe that Kelsier was able to grant his powers to others, and that their army could not possibly lose.
 
-### The Attack to Holstep
+### The Attack on Holstep
 [[Breeze\|Breeze]] was going to be sent to replace Yeden for a few months, but Yeden had already taken control of the army to gain some experience.  Yeden, confident that the rebellion was blessed by Kelsier, instructed them to attack the nearby [[Holstep\|Holstep]] Garrison in the [[Central Dominance\|Central Dominance]], which the Skaa rebellion defeated in a night raid. However, on the rebellion's way back to the Caverns, about an hour away from Holstep, they were attacked by the [[Valtroux\|Valtroux]] Garrison of about 5000 soldiers. Yeden and 5000 members of the Rebellion's skaa army died there, and Yeden's head was found on a spear beside the road.
 
 ## Relationships

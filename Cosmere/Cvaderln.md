@@ -1,9 +1,8 @@
 |**Cvaderln**|
 |-|-|
-|**Type**|[[Shardplate\|Shardplate]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Type**|[[Shardplate\|Shardplate]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Adolin was confronted by a figure in glistening black Shardplate, a large hammer strapped to its back. The helm had stylized eyebrows like knives sweeping backward, and the Plate was skirted with a triangular pattern of interlocking scales.*”
 \-Adolin's impression of Cvaderln.[1]

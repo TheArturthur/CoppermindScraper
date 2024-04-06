@@ -1,10 +1,10 @@
 |**Bebid**|
 |-|-|
 |**Profession**|Priest|
+|**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*I'm a priest of Brightvision the True. I can't betray my oaths!*”
 \-Bebid to Vasher

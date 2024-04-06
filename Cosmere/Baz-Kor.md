@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Monks|
 |**Era**|Post-[[Catacendre\|Catacendre]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*The monks of Baz-Kor had trained me well, their practiced moves designed to get a leecher close enough to touch another Allomancer and drain them of their reserves.*”
 \-Nicelle Sauvage on the Baz-Kor monks.[1]

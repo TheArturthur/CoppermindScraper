@@ -2,9 +2,9 @@
 |-|-|
 |**Profession**|[[Ardent\|Ardent]]|
 |**Residence**|[[Reshi Isles\|The Reshi Isles]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 >“*I wonder if they eat in the Cognitive Realm. Is a food there what it sees itself as being? I’ll have to read and see if anyone has ever eaten while visiting Shadesmar.*”
 \-Geranid on cooking[1]

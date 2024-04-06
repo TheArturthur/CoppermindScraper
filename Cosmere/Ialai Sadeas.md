@@ -3,12 +3,11 @@
 |by  Marie Seeberger |
 |**Spouse**|[[Torol Sadeas\|Torol Sadeas]]|
 |**Died**|Early 1175|
-|**Groups**|[[Sons of Honor\|Sons of Honor]]🐱︎|
-|**Residence**|The Alethi warcamps🐱︎, formerly [[Kholinar\|Kholinar]] and [[Urithiru\|Urithiru]]|
+|**Groups**|[[Sons of Honor\|Sons of Honor]]|
+|**Residence**|The Alethi warcamps, formerly [[Kholinar\|Kholinar]] and [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlady **Ialai Sadeas** is a noble [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]] on [[Roshar\|Roshar]]. She was formerly married to [[Highprince\|Highprince]] [[Torol Sadeas\|Torol Sadeas]] and was associated with the [[Sons of Honor\|Sons of Honor]].
 
@@ -106,7 +105,7 @@ Ialai and Jasnah dislike each other, but Ialai knows better than to verbally spa
 After the [[Battle of Narak\|Battle of Narak]], [[Mraize\|Mraize]] and the Ghostbloods keep a close eye on Ialai because of her unpredictable nature. Mraize infiltrated her inner circle through unknown means and was present for some of her important meetings in Urithiru. Mraize did not accompany Ialai back to the Shattered Plains after she left Urithiru in disgrace. Ialai apparently realized Mraize's true nature at some point, and subsequently lived in fear of the Ghostbloods until her death.
 
 ## Trivia
-Brandon noted that the rise and fall of Ialai's mini-empire when she returned to the Shattered Plains could have been a major thread in a *Stormlight Archive* novel, but by the time it occurred in the overall story arc, he wanted to move on from the earlier group of antagonists that Ialai represented (and whom had already been defeated). Ialai's story had the potential for exciting political intrigue, but it did not fit into the narrative of an expanding war epic.
+Brandon noted that the rise and fall of Ialai's mini-empire when she returned to the Shattered Plains could have been a major thread in a Stormlight Archive novel, but by the time it occurred in the overall story arc, he wanted to move on from the earlier group of antagonists that Ialai represented (and whom had already been defeated). Ialai's story had the potential for exciting political intrigue, but it did not fit into the narrative of an expanding war epic.
 
 
 https://coppermind.net/wiki/Ialai

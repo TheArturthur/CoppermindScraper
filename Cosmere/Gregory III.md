@@ -2,8 +2,7 @@
 |-|-|
 |**Titles**|King of [[Britannia\|Britannia]], Monarch in Exile|
 |**Powers**|[[Rithmatics\|Rithmatics]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **King Gregory III** was a prominent historical figure on [[Earth (Rithmatist)\|Earth]]. He was the sovereign ruler of Brittania and the head of the [[Church of the Monarch\|Church of the Monarch]]. He also discovered [[Rithmatics\|Rithmatics]].
 

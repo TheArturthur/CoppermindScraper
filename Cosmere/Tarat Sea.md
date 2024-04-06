@@ -2,9 +2,8 @@
 |-|-|
 |by User: Otto didact|
 |**Type**|Sea|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Tarat Sea** is a gulf of the [[Southern Depths\|Southern Depths]] on [[Roshar\|Roshar]].
 It is surrounded by the southern coasts of [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Triax\|Triax]], [[Tu Fallia\|Tu Fallia]], [[Greater Hexi\|Greater Hexi]], the northern coast of [[Frostlands\|Frostlands]], and the city-state of [[Kharbranth\|Kharbranth]] and opens into [[Longbrow's Straits\|Longbrow's Straits]]. There are a number of islands near the coasts of Triax, Tu Fallia and Greater Hexi. Many of the southern rivers in Alethkar and Jah Keved, including the [[Deathbend River\|Deathbend River]], flow into the Tarat Sea.

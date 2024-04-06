@@ -4,11 +4,10 @@
 |**Era**|Post-Catacendre|
 |**Participants**|[[Joshin Yomen\|Joshin Yomen]], [[Mi'chelle Ostlin\|Mi'chelle Ostlin]]The [[Vanishers\|Vanishers]], [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]]|
 |**Effects**|[[Steris Harms\|Steris Harms]] taken hostage by the Vanishers|
-|**City**|[[Elendel\|Elendel]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
 |**Location**|Yomen mansion|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 The **Yomen-Ostlin wedding dinner** is the reception following the wedding of [[Joshin Yomen\|Joshin Yomen]] and [[Mi'chelle Ostlin\|Mi'chelle Ostlin]].
 Nearly the entirety of the [[Elendel\|Elendel]] upper class was invited to the event. Those who were not were specifically not invited to reinforce their outsider status in elite society; some of the upper class' least savory figures were also invited to maximize the insult to those who were not.

@@ -1,12 +1,11 @@
 |**Relador**|
 |-|-|
 |**Died**|Before the [[Recreance\|Recreance]]|
-|**Abilities**|[[Order of Windrunners\|Windrunner]]|
+|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Sylphrena\|Sylphrena]]|
 |**Groups**|[[Knight Radiant\|Knight Radiant]] |
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I’ve ... been remembering what it was like when Relador, my old knight, died. How it made me sleep for so many years, straight through the Recreance. I keep wondering, will that happen to me again?*”
 \-Sylphrena to Kaladin[1]

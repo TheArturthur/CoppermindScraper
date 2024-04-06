@@ -5,8 +5,8 @@ A list of those works that have been published can be found in the [[Bibliograph
 
 1 Forthcoming Works
 
-1.1 Cosmere works
-1.2 Non-cosmere works
+1.1 Cosmere Works
+1.2 Non-cosmere Works
 
 
 2 Potential Works
@@ -15,18 +15,18 @@ A list of those works that have been published can be found in the [[Bibliograph
 2.2 Non-Cosmere Works
 
 
-3 "Trunked" Novels
+3 "Trunked" Works
 4 Notes
 
 
 ## Forthcoming Works
-### Cosmere works
+### Cosmere Works
 
 
 
 
 
-### Non-cosmere works
+### Non-cosmere Works
 
 
 
@@ -36,9 +36,11 @@ These are projects that Brandon has mentioned as possibilities but there are no 
 ### Cosmere Works
 
 
+
 ### Non-Cosmere Works
 
-## "Trunked" Novels
+
+## "Trunked" Works
 These are works that are unlikely to ever be published either because elements have been co-opted for use in other books (as with *Mythwalker* and *Aether of Night*) or because the book has been re-written from scratch (as with *White Sand* Prime and *The Way of Kings* Prime).
 
 

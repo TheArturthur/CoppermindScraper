@@ -3,12 +3,12 @@
 |**Lopen's family**|
 |**Relatives**|[[Lopen\|Lopen]]|
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ Roion army , [[Bridge Four\|Bridge Four]]🐱︎, Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] Roion army , [[Bridge Four\|Bridge Four]], Kholin army|
 |**Ethnicity**|[[Herdazian\|Herdazian]]|
 |**Nationality**|[[Herdazian\|Herdazian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 **Punio** is a [[Herdaz\|Herdazian]] member of [[Bridge Four\|Bridge Four]]. He is a [[Order of Windrunners\|Windrunner]] and one of [[Lopen\|Lopen's]] many cousins on [[Roshar\|Roshar]].
 
@@ -30,9 +30,9 @@ Punio speaks broken [[Alethi\|Alethi]]. He is married.
 Punio is a [[Knight Radiant\|Knight Radiant]], a [[Windrunner\|Windrunner]] of at least the [[Immortal Words\|First Ideal]]. As long as he has access to [[Stormlight\|Stormlight]], he is able to heal himself. Through [[Surgebinding\|Surgebinding]], he has the power of flight and several other abilities known as Lashings.
 
 ## History
-Punio was a member of [[Roion\|Roion's]] army at the [[Shattered Plains\|Shattered Plains]] and lived in his warcamp. After [[Bridge Four\|Bridge Four]] gained prominence in the [[House Kholin\|Kholin]] army, Punio heard [[Lopen's mother\|Lopen's mother]] say that they needed more guards. He decided to join them after returning from his annual furlough to Herdaz. [[Kaladin\|Kaladin]] encountered him in the Bridge Four barrack and was not pleased to hear that he deserted his assignment, but Lopen and Punio argued that Roion would not miss him since nobody could tell Herdazians apart anyway. Kaladin thought he looked like a competent soldier and grudgingly allowed him to stay, telling him to pretend that he was always a bridgeman. Kaladin saw Punio again when more of Lopen's cousins, [[Rod\|Rod]] and [[Huio\|Huio]], showed up in the barrack. Punio's wife sometimes brought food to the Kholin warcamp, although he initially told people she was his sister in order to fit in with the bachelors of Bridge Four.
+Punio was a member of [[Roion\|Roion's]] army at the [[Shattered Plains\|Shattered Plains]] and lived in his warcamp. After [[Bridge Four\|Bridge Four]] gained prominence in the [[House Kholin\|Kholin]] army, Punio heard [[Lopen's mother\|Lopen's mother]] say that they needed more guards. He decided to join them after returning from his annual furlough to Herdaz. [[Kaladin\|Kaladin]] encountered him in the Bridge Four barrack and was not pleased to hear that he deserted his assignment, but Lopen and Punio argued that Roion would not miss him since nobody could tell Herdazians apart anyway. Kaladin thought he looked like a competent soldier and grudgingly allowed him to stay, telling him to pretend that he was always a bridgeman. Kaladin saw Punio again when more of Lopen's cousins, [[Rod (Roshar)\|Rod]] and [[Huio\|Huio]], showed up in the barrack. Punio's wife sometimes brought food to the Kholin warcamp, although he initially told people she was his sister in order to fit in with the bachelors of Bridge Four.
 After Kaladin began acquiring Radiant squires, Punio was cited as one of the few non-original members of [[Bridge Four\|Bridge Four]] that was initially able to breathe in [[Stormlight\|Stormlight]].
-Punio bonded an unknown [[Honorspren\|honorspren]] and became a Windrunner weeks after Lopen did, shortly after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. When he began earning a stipend as a Radiant, he sent most of it to his family to help out the poorer cousins, and a large portion went to [[Rod\|Rod's]] family.
+Punio bonded an unknown [[Honorspren\|honorspren]] and became a Windrunner weeks after Lopen did, shortly after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. When he began earning a stipend as a Radiant, he sent most of it to his family to help out the poorer cousins, and a large portion went to [[Rod (Roshar)\|Rod's]] family.
 
 
 

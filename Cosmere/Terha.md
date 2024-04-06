@@ -1,8 +1,7 @@
 |**Terha**|
 |-|-|
-|**World**|[[Taldain\|Taldain]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 The **terha** is a domesticated animal on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
 

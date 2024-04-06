@@ -1,9 +1,8 @@
 |**Grand Aurora**|
 |-|-|
 |**Related to**|[[Lancing\|Lancing]]|
-|**World**|[[Alornia\|Alornia]]🐱︎|
+|**World of Origin**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* The Grand Aurora encircled the entire world, and even the mightiest storms did little more than churn its mother-of-pearl shimmering. The Aurora defeated storms; that was how I knew I’d someday be able to do it too.*”
 \- Kai about the Grand Aurora[1]

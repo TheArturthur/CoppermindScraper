@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben Bryant |
 |**Type**|Cave|
-|**World**|[[Detritus\|Detritus]]🐱︎|
+|**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Igneous Cavern** is the largest human-inhabited cavern on [[Detritus\|Detritus]]. It is home to the apparatus that produce the [[DDF\|DDF]] ships. In addition, it houses reserve ships for the DDF in event of an emergency such as a [[Lifebuster\|Lifebuster]].
 Glorious Rises of Industry is a suburb in Igneous. It is where [[Spensa\|Spensa]], her [[Spensa's mother\|mother]], and [[Gran-Gran\|Gran-Gran]] live. It is also the home of [[Rig\|Rig]].

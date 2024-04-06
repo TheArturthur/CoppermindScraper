@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Weapon|
 |**Owner**|[[Leras\|Leras]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*I'm Preservation. The knife ... I haven’t actually drawn it in millennia. You speak of acting like [Ruin], as he pretended I would act! It’s horrible!*”
 \-Leras to Kelsier[1]
@@ -16,7 +15,7 @@ When [[Vin\|Vin]] and [[Elend Venture\|Elend Venture]] arrived at the [[Well of 
 It is unclear what happened to the knife after Leras's death. His body appeared in the ash outside [[Fadrex City\|Fadrex City]]; it is possible the knife was with that corpse. If that is the case, it may well be gone, as [[Sazed\|Sazed]] did not do anything with the bodies of [[Ati\|Ati]] and Leras during [[Final Ascension\|his Ascension]].
 
 ## Trivia
-[[Brandon Sanderson\|Brandon]] has [[RAFO\|RAFO'd]] whether or not waving the knife over a candle would cause the candle to light, and whether or not the knife is a kind of [[Shardblade\|Shardblade]].
+[[Brandon Sanderson\|Brandon]] has [[RAFO\|RAFO'd]] whether or not waving the knife over a candle would cause the candle to light (as [[Tamu Kek\|Tamu Keks]] did in [[Dragonsteel Prime\|Dragonsteel Prime]]), and whether or not the knife is a kind of [[Shardblade\|Shardblade]].
 
 
 https://coppermind.net/wiki/Leras%27_knife

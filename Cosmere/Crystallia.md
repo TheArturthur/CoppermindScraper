@@ -3,8 +3,7 @@
 |by  Marina Vidal |
 |**Headquarters**|[[Nalhalla\|Nalhalla]]|
 |**Type**|Warriors|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Crystallia** is the order of knights that protects the nobility of the Free Kingdoms.
 

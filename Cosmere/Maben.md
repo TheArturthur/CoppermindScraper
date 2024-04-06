@@ -1,12 +1,11 @@
 |**Maben**|
 |-|-|
 |**Profession**|Maid|
-|**Groups**|[[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Diagram (group)\|Diagram]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Too often, those who write history focus on the generals and the scholars, to the detriment of the quiet workers who see everything done.*”
 \-Taravangian, on Maben's role in the Diagram[1]

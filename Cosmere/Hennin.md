@@ -2,10 +2,9 @@
 |-|-|
 |**Died**||
 |**Titles**|[[Lord Merchant\|Lord Merchant]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, [[Guild\|The Guild]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Groups**|[[Taishin\|Taishin]], [[Guild\|The Guild]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 >“*His name was Hennin. An idiot of a Lord Merchant who acquired the position unearned after two relatives died and left him separate fortunes!*”
 \-Vey[1]

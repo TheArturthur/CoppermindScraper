@@ -2,8 +2,8 @@
 |-|-|
 |**Abilities**|[[Crystin\|Crystin]] Knight|
 |**Nationality**|[[Crystin\|Crystin]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**First Appeared**|*The Knights of Crystallia*|
 
 **Archedis** is a [[Crystin\|Crystin]] knight. He is influential and well respected but is eventually revealed to be a traitor.
 

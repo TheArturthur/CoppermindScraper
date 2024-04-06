@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Prelan|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Prelan **Laird** was an [[Obligator\|obligator]] of the [[Canton\|Canton of Finance]] on [[Scadrial\|Scadrial]] during the times of the [[Final Empire\|Final Empire]].
 

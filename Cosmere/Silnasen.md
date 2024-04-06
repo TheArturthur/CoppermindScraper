@@ -1,9 +1,8 @@
 |**Silnasen**|
 |-|-|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Silnasen** is a city on [[Roshar\|Roshar]]. It is located at the foot of a mountain range in southern [[Jah Keved\|Jah Keved]], near [[Triax\|Triax]] and [[Bavland\|Bavland]].
 
@@ -18,4 +17,4 @@ At least some of the Siln people follow [[Vorinism\|Vorinism]]; a Siln [[Ardent\
 
 
 
-https://coppermind.net/wiki/Siln
+https://coppermind.net/wiki/Silnasen

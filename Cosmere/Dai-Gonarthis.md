@@ -2,11 +2,10 @@
 |-|-|
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
 |**Titles**|Black Fisher|
-|**Groups**|[[Unmade\|Unmade]]🐱︎|
+|**Groups**|[[Unmade\|Unmade]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Let me no longer hurt! Let me no longer weep! Dai-Gonarthis! The Black Fisher holds my sorrow and consumes it!*”
 \-Tanatesach 1173, 28 seconds pre-death. A darkeyed female street juggler. Note similarity to sample 1172-89.[1]

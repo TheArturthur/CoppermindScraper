@@ -1,19 +1,19 @@
 |**Kdralk**|
 |-|-|
-|**Family**|
-|**Parents**|[[Fen\|Fen]], [[Kmakl\|Kmakl]]|
+|**Parents**|[[Fen Rnamdi\|Fen Rnamdi]], [[Kmakl\|Kmakl]]|
 |**Titles**|Captainlord|
 |**Profession**|Soldier|
+|**Residence**|[[Thaylen City\|Thaylen City]]|
+|**Ethnicity**|[[Thaylen\|Thaylen]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I regret only that I didn't speak loudly enough for you to hear the insults, despot.*”
 \-Kdralk to Dalinar[1]
 
 
-**Kdralk** is the only known son of Queen [[Fen\|Fen]] of [[Thaylenah\|Thaylenah]] and her consort, [[Kmakl\|Kmakl]]. As Thaylenah is an elective monarchy, he's unlikely to inherit the crown.
+**Kdralk** is the only known son of Queen [[Fen Rnamdi\|Fen Rnamdi]] of [[Thaylenah\|Thaylenah]] and her prince consort, [[Kmakl\|Kmakl]]. As Thaylenah is an elective monarchy, he's unlikely to inherit the crown.
 
 ## Contents
 

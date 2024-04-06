@@ -10,21 +10,26 @@
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]], [[Highprince of Information\|Highprince of Information]] (renounced)|
 |**Groups**|Sadeas army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 >“*We’re two old whitespines who both want a kingdom. It's him or me. We’ve been pointed that way since Gavilar died.*”
 \-Sadeas about Dalinar[4]
 
 
 **Torol Sadeas** is an [[Alethi\|Alethi]] [[Highprince\|Highprince]] on [[Roshar\|Roshar]]. Through a number of successful battles fought alongside [[Gavilar\|Gavilar]] and [[Dalinar\|Dalinar]] Kholin, he became one of the most powerful men in the Kingdom. Known for his cruelty and brutality, Sadeas is a proficient political master; along with his wife [[Ialai Sadeas\|Ialai]], they take care of inconvenient people. He commands one of the two most significant armies on the [[Shattered Plains\|Shattered Plains]], the other being the army of Dalinar Kholin.
-As Highprince of Information, he was able to manipulate the king and the other Highprinces. He was still able to outmaneuver Dalinar, even after he was openly found guilty of treason. He possesses both [[Shardplate\|Shardplate]] and Dalinar Kholin's [[Shardblade\|Shardblade]], [[Oathbringer (Shardblade)\|Oathbringer]].
-He is murdered by [[Adolin Kholin\|Adolin Kholin]] a few days after their arrival in [[Urithiru\|Urithiru]].
+As Highprince of Information, he was able to manipulate the king and the other Highprinces. He was still able to outmaneuver Dalinar, even after he was openly found guilty of treason. He possesses both a set of [[Shardplate\|Shardplate]] and a [[Shardblade\|Shardblade]], which is called [[Oathbringer (Shardblade)\|Oathbringer]].
+He is murdered by [[Adolin Kholin\|Adolin Kholin]] a short time after his arrival in [[Urithiru\|Urithiru]].
 
 ## Contents
 
 1 Appearance and Personality
+
+1.1 Appearance
+1.2 Personality
+
+
 2 History
 
 2.1 Unification of Alethkar
@@ -43,7 +48,10 @@ He is murdered by [[Adolin Kholin\|Adolin Kholin]] a few days after their arriva
 ## Appearance and Personality
  by  Marie Seeberger 
 For more images, see [[Torol Sadeas/Gallery\|/Gallery]].
+### Appearance
 Torol Sadeas is a bright eyed man. He has a bulbous head, curly hair, and ruddy face. His Princedom's colors are green and white, but his Shardplate is painted red. It is decorated, including tassels on his helm.
+
+### Personality
 Sadeas is and always has been a brutal, cruel man. He has no compassion and enjoys showing off and pillaging. He will sacrifice people easily to meet his goals; this was his pattern both during [[Gavilar\|Gavilar's]] war to unify Alethkar and later with his bridgemen at the Shattered Plains.
 He is proficient at politics and strategy. His marriage to Ialai is strong because she is also very good at conspiracy, intrigue, and plotting. They run their princedom with those same values, and their warcamp reflects this.
 Before Gavilar's assassination, Sadeas and Dalinar were very close friends. They maintain their respect for the other's abilities and appear cordial to each other for a while after Dalinar's trip to the [[Nightwatcher\|Nightwatcher]] changes him, but Sadeas secretly desires to outmaneuver Dalinar any way he can and feels that getting rid of Dalinar is what is best for Alethkar.
@@ -54,7 +62,7 @@ Sadeas does not believe in the Codes and is sure that compassion and diplomacy a
 ### Unification of Alethkar
 Torol Sadeas was the closest friend of Gavilar and Dalinar Kholin during the Unification of Alethkar. He and Gavilar would plot together, discussing strategy and the direction of the war. House Sadeas was one of the three kingdoms to fight alongside the Kholins.
 He was instrumental in pushing the alliance to greater brutality. He was not ashamed of his cold heart and was known for showing off his cruelty, which included hanging the heads of the fallen Highprinces and their officers. He openly enjoyed the pillage of the fallen cities.
-Sadeas was very proficient at politics since his early years. He would speak persuasively to gain new allies; if he was not convinced of their full loyalty, he would find "Alethi" ways to get rid of them. His wife, Ialai Sadeas, was known among their friends for coming up with elaborate schemes for getting rid of the problematic allies.
+Sadeas has always been very proficient at politics. He would speak persuasively to gain new allies; if he was not convinced of their full loyalty, he would find "Alethi" ways to get rid of them. His wife, Ialai Sadeas, was known among their friends for coming up with elaborate schemes for getting rid of their problematic allies and enemies.
 
 ### The Rift
 >“*I have no interest in being king—it’s a job with little praise and even less amusement. I mean for this kingdom to stand for centuries.*”
@@ -71,7 +79,7 @@ Sadeas spun the news of the Rift’s destruction to the king’s advantage. He s
  by User: Awesomeness Sadeas's [[Glyph\|glyph]]
 During their time at the warcamps, Sadeas participated in a hunt out on the [[Shattered Plains\|Shattered Plains]] with Dalinar, [[Renarin\|Renarin]], [[Adolin\|Adolin]], and King Elhokar. When they arrived at the plateau where preparations for the hunt were under way, a [[Chasmfiend\|chasmfiend]] appeared on the plateau with all the courtiers and scribes instead of on the smaller plateau where the hunt was supposed to take place. Dalinar, Adolin, and Elhokar immediately dashed for the chasmfiend, hoping to kill it before it hurt any bystanders. Sadeas used his [[Grandbow\|grandbow]] from a distance to weaken it while Dalinar and Adolin went for its legs and Elhokar distracted it. At some point in the battle, Elhokar's saddle strap broke, throwing him to the ground. To save him from being crushed, Dalinar caught the claw that would have otherwise crushed Elhokar with his Shardplate-enhanced strength. Adolin continued to cut off its legs until the chasmfiend was unable to support its own weight, at which point Elhokar summoned his Shardblade again and used it to kill the chasmfiend, then harvest its [[Gemheart\|gemheart]].
 Back in the pavilion on the Plains, Elhokar remarked to Dalinar that Sadeas had won three gemhearts in the last few weeks, followed up by chiding Dalinar for not having won any himself in that time. Both Elhokar and Sadeas made use of the topic to highlight many of Sadeas' achievements, which Dalinar calls into question, especially the act of sending unprotected [[Bridgemen\|bridgemen]] against the [[Parshendi\|Parshendi]]. While Elhokar noted that Sadeas' bridge crews were more efficient than Dalinar's, and were why he was able to win so many gemhearts, Dalinar was of the opinion that Sadeas' method wasted lives. Sadeas, however, felt that Dalinar's reliance on wheels to maneuver his bridges was foolish.
-Sadeas, with the mindset of most Alethi, couldn't reconcile how Dalinar could have more important things to attend to than the war of vengeance for Gavilar. While Dalinar took a moralistic stance, a very un-Alethi way of thinking, Sadeas was only concerned with efficiency and results. From this point on, the argument deteriorated until Sadeas insulted Dalinar's sons, which is defused only by their mutual understanding for the safety of the king, not allowing their rivalry to descend into open conflict.
+Sadeas, with the mindset of most Alethi, couldn't reconcile how Dalinar could have more important things to attend to then the war of vengeance for Gavilar. While Dalinar took a moralistic stance, a very un-Alethi way of thinking, Sadeas was only concerned with efficiency and results. From this point on, the argument deteriorated until Sadeas insulted Dalinar's sons, which is defused only by their mutual understanding for the safety of the king, not allowing their rivalry to descend into open conflict.
 Sadeas and Dalinar planned to manipulate Highprince [[Vamah\|Vamah]] into using more of Elhokar's [[Soulcaster\|Soulcasters]], proving the two of them could work together in the best interests of the king. Dalinar told Adolin that Sadeas had sworn to protect Elhokar at any cost.
 Dalinar investigated the cut girth strap on the king's saddle, but at one particular king's feast, Elhokar announced that in light of the recent attempt on his life with the saddle, he was appointing Sadeas the [[Highprince of Information\|Highprince of Information]] to investigate. This was to spite Dalinar, whom Elhokar believed was not taking the investigation seriously. Sadeas had learned of Dalinar's request to be [[Highprince of War\|Highprince of War]], and this was Sadeas' way of outmaneuvering his opponent.
 

@@ -2,61 +2,97 @@
 |-|-|
 |by User: skaa|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
+For the book trilogy named after the Ghostbloods, see [[Mistborn Era 3\|Mistborn Era 3]].
+This page or section needs to be updated with new information for *Oathbringer*, *Rhythm of War*, and *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
-The **Ghostbloods** are a secret organization on [[Roshar\|Roshar]], though they are not Rosharan in origin. Members are required to get a tattoo of three overlapping diamonds somewhere on their bodies.
+The **Ghostbloods** are a secret organization found on many planets in the [[Cosmere\|cosmere]], formed for the purposes of protecting [[Scadrial\|Scadrial]] from all threats.
+Members are required to get a tattoo of three overlapping diamonds somewhere on their bodies. The symbol bears a resemblance to the three-petal shape of [[Marewill flowers\|Marewill flowers]].
 
 ## Contents
 
-1 Objectives
-2 Hideouts
-3 Structure
-4 Known Members
-5 Actions
+1 Tenets
+2 Objectives
 
-5.1 Attempted Murder of Jasnah Kholin
-5.2 Recruiting Shallan Davar
-5.3 Cleansing Urithiru
-5.4 Pursuit of the Sons of Honor
-5.5 Recruiting Sja-anat
-5.6 Bringing other forms of Investiture to Roshar
+2.1 Scadrian Ghostbloods
+2.2 Rosharan Ghostbloods
 
 
-6 Trivia
-7 Notes
+3 Resources
+4 Structure
+5 Notable Members
+
+5.1 Rosharan Chapter
+5.2 Scadrian Chapter
 
 
+6 History
+
+6.1 Formation
+6.2 Attempted Murder of Jasnah Kholin
+6.3 Recruiting Shallan Davar
+6.4 Cleansing Urithiru
+6.5 Pursuit of the Sons of Honor
+6.6 Recruiting Sja-anat
+6.7 Bringing other forms of Investiture to Roshar
+6.8 Resistance against Trell
+
+
+7 Trivia
+8 Notes
+
+
+## Tenets
+The Ghostbloods have three general tenets:
+
+Protecting Scadrial.
+Sharing what they know with each other, but not with outsiders.
+Trusting each other.
 ## Objectives
->“*Power, portable, easily contained, renewable. You hold the energy of a storm in your hand, Veil. That raw energy, plucked from the heart of the raging tempest. It is tamed—not only a safe source of light, but of power that those with … particular interests and abilities can access.*”
-\-Mraize to Shallan[4]
+### Scadrian Ghostbloods
+The Scadrian Ghostbloods are devoted to protecting Scadrial at any cost, and due to this came into conflict with the [[Set\|Set]] and [[Autonomy\|Autonomy]].
 
-The Ghostbloods seek power. They are seeking a way to get [[Stormlight\|Stormlight]] ([[Investiture\|Investiture]]) offworld from [[Roshar\|Roshar]] through [[Shadesmar\|Shadesmar]]. They hunt [[Restares\|Restares]] and the [[Sons of Honor\|Sons of Honor]] as they fear they are close to discovering the secret of making this possible. Stormlight is free, portable, easy-to-access power. To attain this goal, they need control of the [[Oathgate\|Oathgates]], which inspired their hunt for [[Urithiru\|Urithiru]]. They seek perfect [[Gemstone\|gemstones]] that would allow the Stormlight to last long enough to get offworld, though there is a [[Connection\|Connection]] problem.
+### Rosharan Ghostbloods
+>“*Power, portable, easily contained, renewable. You hold the energy of a storm in your hand, Veil. That raw energy, plucked from the heart of the raging tempest. It is tamed—not only a safe source of light, but of power that those with … particular interests and abilities can access.*”
+\-Mraize to Shallan[9]
+
+The Rosharan Ghostbloods seek power. They are seeking a way to get [[Stormlight\|Stormlight]] ([[Investiture\|Investiture]]) offworld from [[Roshar\|Roshar]] through [[Shadesmar\|Shadesmar]]. They hunt [[Restares\|Restares]] and the [[Sons of Honor\|Sons of Honor]] as they fear they are close to discovering the secret of making this possible. Stormlight is free, portable, easy-to-access power. To attain this goal, they need control of the [[Oathgate\|Oathgates]], which inspired their hunt for [[Urithiru\|Urithiru]]. They seek [[Perfect gemstone\|perfect gemstones]] that would allow the Stormlight to last long enough to get offworld, though there is a [[Connection\|Connection]] problem.
 The Ghostbloods are obsessed with finding [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], who has the ability to bind minds of an entire people, though it is unclear the reason. They are not interested in seeing [[Odium\|Odium]] rule Roshar. They seek to bond [[Sja-anat\|Sja-anat]], as her ancient knowledge would be invaluable.
 They also seek to imprison [[Herald\|Heralds]] in gemstones, in order to obtain information. [[Thaidakar\|Thaidakar]] seeks knowledge about an affliction he shares with the Heralds, in order to save himself.
+Their desire to find a way to carry Stormlight off-world, and to help Thaidakar learn how to leave Scadrial, likely ties into the Ghostblood's goal of protecting Scadrial. The Scadrian Ghostbloods, however, seem to see them as running amok.
 
-## Hideouts
-They own a tenement building in [[Highprince\|Highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]] that has a basement. In it there was a display of trophies that [[Shallan\|Shallan]] saw, including several enormous [[Gemheart\|gemhearts]], a tusk was probably from a [[Whitespine\|whitespine]], an eye socket that looked like the structure of a [[Santhid\|santhid]]’s skull, a vial of pale [[Sand (Taldain)\|sand]], a couple of thick hairpins, a lock of golden hair, a [[Yolen\|Yolish]] branch of a tree with writing on it, a silver knife, an odd flower preserved in some kind of solution, and a chunk of pale [[Aether\|pink crystal]] that looked like it might be some kind of gemstone. There were also shells that Shallan vaguely recognized. There were no plaques describing any of these mementos.
+## Resources
+The Ghostbloods own a tenement building in [[Highprince\|Highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]] that has a basement. In it there was a display of trophies that [[Shallan\|Shallan]] saw, including several enormous [[Gemheart\|gemhearts]], a tusk was probably from a [[Whitespine\|whitespine]], an eye socket that looked like the structure of a [[Santhid\|santhid]]’s skull, a vial of pale [[Sand (Taldain)\|sand]], a couple of thick hairpins, a lock of golden hair, a [[Yolen\|Yolish]] branch of a tree with writing on it, a silver knife, an odd flower preserved in some kind of solution, and a chunk of pale [[Aether\|pink crystal]] that looked like it might be some kind of gemstone. There were also shells that Shallan vaguely recognized. There were no plaques describing any of these mementos.
+On Scadrial, they have a safehouse at house one eighty-seven, near Thirty-Third and Finete in the Knightbridge district of [[Bilming\|Bilming]]. It is protected with Identity locks and contains maps, a [[Seon\|seon]], an armory, and three jars of purified [[Dor\|Dor]] in a safe with an [[Awakening\|Awakened]] lock. They also own a large estate in [[Elendel\|Elendel]].
 
 ## Structure
 The Ghostbloods operate across multiple planets within the [[Cosmere\|cosmere]]. They operate within a strict hierarchy, as a group of hunters without structure would turn on each other too easily. They do not strike against their own. They do not negotiate upward. It is common for a master to spy on their pupils. [[Ialai Sadeas\|Ialai Sadeas]] warns [[Shallan\|Shallan]] that the Ghostbloods will watch her to ensure she doesn't rise high enough to learn secrets that could hurt them.
-Upon joining the Ghostbloods, they share everything they know and the member can influence decisions. Mraize warned Shallan that if she were to break ties with the group, she would be hunted. He and his babsk would not hunt her, but all they could do was discourage others.
-[[Thaidakar\|Thaidakar]] is not on [[Roshar\|Roshar]] and only comes as an avatar. Thaidakar does effect the Ghostbloods actions but they are a little removed from him on Roshar.
+Joining the Ghostbloods requires being brought in by a member of the organization, and the swearing of oaths to the Ghostbloods. It is tradition for the one who offers membership to become the mentor of the one they invited.
+Upon joining the Ghostbloods, they share everything they know and the member can influence decisions. The Ghostbloods do not keep secrets from fellow members, but in most cases members are also not allowed to share Ghostblood secrets with non-members. Mraize warned Shallan that if she were to break ties with the group, she would be hunted. He and his babsk would not hunt her, but all they could do was discourage others. Members are not to share secret information with anyone outside of the organization, doing so would result in the assassination of the offender, due to the danger it can pose to the organization.
+[[Thaidakar\|Thaidakar]] is not on [[Roshar\|Roshar]] and only comes as what they consider an avatar; he does show up directly to the Scadrian Ghostbloods. Thaidakar does affect the Rosharan Ghostbloods' actions, but they are a little removed from him on Roshar.
 
-## Known Members
+## Notable Members
 For more information, see :Category: Ghostbloods.
-[[Thaidakar\|Thaidakar]]: a high-ranking member referred to as 'master' by Mraize 
-[[Iyatil\|Iyatil]]: a high-ranking member, the pupil of Thaidakar, purports to be Mraize's master, a worldhopper
-[[Mraize\|Mraize]]: a high-ranking member, the student of Iyatil, a worldhopper
+[[Kelsier\|Kelsier]]: Leader of the Ghostbloods, referred to as The Survivor by the inhabitants of Scadrial and as Thaidakar by the inhabitants of Roshar.
+### Rosharan Chapter
+[[Iyatil\|Iyatil]]: a high-ranking member, the pupil of Thaidakar, purports to be Mraize's master, a Worldhopper
+[[Mraize\|Mraize]]: a high-ranking member, the student of Iyatil, a Worldhopper
 [[Shallan Davar\|Shallan Davar]]: under the alias of "Veil" (formerly)
 [[Jin\|Jin]]: a golden-haired man
 [[Kabsal\|Kabsal]]: a member of the [[Kharbranth\|Kharbranth]] Ardentia (deceased)
 [[Lin Davar\|Lin Davar]]: Shallan's father (deceased)
 [[Luesh\|Luesh]]: the Davar family's steward (deceased)
-Other unidentified members who visited the Davar estate
 Unnamed [[Sleepless\|Sleepless]]: used a pen-shaped [[Cremling\|cremling]] to spy on [[Wit\|Wit]]
-## Actions
+### Scadrian Chapter
+[[Moonlight\|Moonlight]]: a student of Thaidakar, based in [[Bilming\|Bilming]], considered his best agent
+[[Codenames\|Codenames Are Stupid]]: a member based in [[Bilming\|Bilming]]
+[[TwinSoul\|TwinSoul]]: a member based in [[Bilming\|Bilming]]
+[[Dlavil\|Dlavil]]: a member based in [[Elendel\|Elendel]] and brother of [[Iyatil\|Iyatil]]
+[[Dean\|Dean]]: A member based in Elendel, an important chemist who assists in the production of the Ghostblood's aluminum.
+## History
+### Formation
+The Ghostbloods were formed on Scadrial at some point between the Scadrian year 1 [[Catacendre\|PC]] and the Vorin year 1168.
+
 ### Attempted Murder of Jasnah Kholin
 The Ghostbloods have made several attempts to murder Jasnah Kholin, and claims that she has had a number of their members assassinated as well. When Jasnah spent time in [[Kharbranth\|Kharbranth]] to study the Voidbringers, a Ghostblood agent named [[Kabsal\|Kabsal]] infiltrated the local Ardentia in order to kill Jasnah. He used her young ward [[Shallan Davar\|Shallan Davar]] to get close to Jasnah, which led to them forming a relationship. As Kabsal attempted to poison Jasnah with bread, he was inadvertently killed when he ate some of the poisoned bread and Jasnah Soulcast his antidote, mistakenly believing that to be the poison. Jasnah later found the Ghostblood tattoo on Kabsal's arm.
 When Jasnah left Kharbranth, the Ghostbloods planted at least [[New kid\|one operative]] aboard the ship *Wind's Pleasure* on the journey from [[Kharbranth\|Kharbranth]] to the [[Shattered Plains\|Shattered Plains]]. That operative, along with other men [[Shallan\|Shallan]] did not recognize, attempted to murder Jasnah. They thought they'd succeeded, but in reality, Jasnah had escaped to [[Shadesmar\|Shadesmar]] by Elsecalling.
@@ -70,11 +106,11 @@ Shallan's identities debated their interest in joining the Ghostbloods. Veil was
 Mraize offered Shallan full membership in the Ghostbloods in return for assassinating [[Restares\|Restares]], leader of the [[Sons of Honor\|Sons of Honor]]. Shallan did not go through with it and broke ties with the group. She threatened Mraize to leave [[Urithiru\|Urithiru]] and warned him that she would be hunting for [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. Mraize warned her that she'd moved against the group in the most offensive of ways.
 
 >“*This will not end well for you, Shallan. You make an enemy of the most powerful organization in all the cosmere.*”
-\-Mraize to Shallan[14]
+\-Mraize to Shallan[21]
 
 
 ### Cleansing Urithiru
-Mraize asked [[Shallan\|Shallan]] to investigate the wrongness in Urithiru, which she was already sensing. This led her to find, confront, and expel the [[Re-Shephir\|Midnight Mother]].
+Mraize asked [[Shallan\|Shallan]] to investigate the wrongness in Urithiru, which she was already sensing. This led her to find, confront, and expel [[Re-Shephir\|Re-Shephir]].
 
 ### Pursuit of the Sons of Honor
 The Ghostbloods wished to keep an eye on the activities of House Sadeas, and Mraize was personally spying on them, acting as a guard to [[Ialai Sadeas\|Ialai Sadeas]] in Urithiru. They murdered [[Thanadal\|Thanadal]] and [[Vamah\|Vamah]]. They struck at Ialai several times and ultimately succeeded when [[Shallan\|Shallan]] assassinated her with [[Blackbane\|Blackbane]], though Shallan claimed she did this for the good of [[Alethkar\|Alethkar]].
@@ -87,13 +123,20 @@ During her wedding, Shallan is instructed in a letter from Mraize to recruit [[S
 ### Bringing other forms of Investiture to Roshar
 The Ghostbloods have plans to commercialize [[Investiture\|Investiture]] on a much larger scale than what happened on [[Scadrial\|Scadrial]]. In these efforts they bring [[Sand (Taldain)\|sand]] from [[Taldain\|Taldain]], [[Seon\|Seons]] from [[Sel\|Sel]], and [[Aviar\|Aviars]] from [[First of the Sun\|First of the Sun]] to [[Roshar\|Roshar]]. They want to use the [[Oathgate\|Oathgates]] to facilitate the trade of these items on Roshar, as they would not need to rely on [[Perpendicularity\|perpendicularities]]. Mraize also mentions that perfect gemstones would be a good tool for carrying Stormlight off Roshar; [[Jasnah Kholin\|Jasnah]] has noted that there are nowhere near as many perfect gemstones in circulation as there should be, which leads [[Adolin Kholin\|Adolin]] to theorize that a group that is aware of their importance—like the Ghostbloods—has been secretly collecting them. The [[Honorspren\|honorspren]] of [[Lasting Integrity\|Lasting Integrity]] have collected several perfect gemstones over millennia, though it is unclear how many they have compared to how many Jasnah thinks there should be.
 
+### Resistance against Trell
+The Ghostbloods on Scadrial worked in order to resist the oncoming threat of [[Trell (Trellism)\|Trell]].
+On 348 [[Catacendre\|PC]] the Ghostbloods attempted to recruit [[Marasi Colms\|Marasi Colms]] and sent [[Wan ShaiLu\|Moonlight]] to deliver a message to her telling that the Ghostbloods were watching her and were impressed.
+Several days later the Ghostbloods contacted [[Kelsier\|Kelsier]] via [[Seon\|Seon]] in their hideout in [[Bilming\|Bilming]] informing him that the [[Set\|Set]] had developed a bomb to destroy [[Elendel\|Elendel]].
+After Kelsier informed the Ghostbloods that he wouldn't get to Bilming in time, [[Prasanva\|TwinSoul]], Moonlight and Marasi discovered and infiltrated the Set's underground [[Wayfarer\|caverns]]. Since Moonlight and Marasi were discovered and confronted by Set soldiers after Marasi's attempt to save a group of people from execution, Moonlight used a [[Soulstamp\|soulstamp]] to rewrite her history and become an [[Elantrian\|Elantrian]] so Marasi could escape.. Ghostblood agents in Elendel were ordered to assist the local authorities with organising the evacuation, as they too would not reach Bilming in time.
+After [[Waxillium Ladrian\|Wax]] and [[Wayne\|Wayne]] stopped the bomb that the Set sent to Elendel, Marasi met with Kelsier and the Ghostbloods in Elendel and told them that she wouldn't join with them, because of their rule of keeping their information secret. After that TwinSoul supposedly went on a mission to track down Moonlight.
+
 ## Trivia
 The name of the Ghostbloods means something, and has roots in specific [[Cosmere\|cosmere]] events.
 The Ghostbloods would actively recruit from the [[Seventeenth Shard\|Seventeenth Shard]], particularly from their field agents.
 They are not working together with the Seventeenth Shard.
-The Ghostbloods have had interactions with [[Autonomy\|Autonomy]].
 The Ghostbloods find [[Hoid\|Hoid]] intriguing.
 The Ghostbloods do not trust the [[Sleepless\|Sleepless]]. They are worried about having their organization taken over.
+The third Mistborn series will be subtitled 'Ghostbloods'.
 
 
 https://coppermind.net/wiki/Ghostblood

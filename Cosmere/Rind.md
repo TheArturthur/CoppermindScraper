@@ -3,9 +3,8 @@
 |**Profession**|Head Quartermaster in Kholin army|
 |**Groups**|Kholin army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*A darkeyed captain! Who would have thought it possible? You’ll be the only one in the army. The only one ever, so far as I know!*”
 \-Rind to Kaladin[1]

@@ -1,10 +1,9 @@
 |**New Natanan**|
 |-|-|
-|**Region**|[[Frostlands\|Frostlands]]🐱︎|
+|**Region**|[[Frostlands\|Frostlands]]|
 |**Nation**|New Natanan |
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* [Au-nak] represented a dead kingdom that had been reduced to a single city-state on the eastern coast of Roshar with a few other cities as protectorates.*”
 \- Navani on Au-nak and New Natanan[1]
@@ -20,6 +19,7 @@
 
 3.1 People
 3.2 Vorinism
+3.3 Accent
 
 
 4 Politics
@@ -46,6 +46,9 @@ Some Natan dye their hair, though only a few locks of it, in vivid colours, such
 ### Vorinism
 The Natan are largely [[Vorin\|Vorin]], although their particular variety of Vorinism differs from what is practiced elsewhere. In addition to worshipping the [[Almighty\|Almighty]] and the [[Herald\|Heralds]], the Natan appear to revere the moons, with Nomon as the most important. Some [[Alethi\|Alethi]] [[Ardent\|ardents]] consider the Natan to be almost pagan, and sometimes question how devout they really are when out of the sight of "proper" Vorins. Nonetheless, New Natanan is considered one of the important Vorin states by the high-ranking church officials, and their religious leaders are included in any discussion regarding the doctrine.
 Apart from the religion, the Natan follow at least some Vorin customs. The leaders of New Natanan have occasionally claimed the first [[Dahn\|dahn]], the highest rank a Vorin [[Lighteyes\|lighteyes]] can hold. Their language belongs to the Vorin family, same as the Alethi and [[Veden\|Veden]], although it is noted as dying out, implying many, if not most Natan don't actually speak it.
+
+### Accent
+The New Natanatan accent is described as airy, elongating the low and midvowels in their words. It is unclear how prevelant this accent is outside of New Natanatan.
 
 ## Politics
 Despite being one of Roshar's smallest nations, New Natanan holds great political importance in the region. It's the largest city on the shores of the [[Ocean of Origins\|Ocean of Origins]]. As such, any ships sailing through it stop there to rest and resupply, and there's always trade happening. New Natanan is also important for predicting the [[Highstorm\|highstorms]], as it supplies the other states with information on any new one making landfall.

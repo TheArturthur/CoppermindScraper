@@ -2,9 +2,9 @@
 |-|-|
 |by  Elizabeth Branstetter |
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*Maybe someday you’ll learn how to be there for the living, not just for the dead.*”
 \-Tarah's last words to Kaladin[1]
@@ -38,13 +38,13 @@ She is reluctant to trust anything she hasn't personally requisitioned, and know
 \-Kaladin recalling Tarah's influence[2]
 
 
-Tarah's father worked as an assistant quartermaster in [[Amaram\|Amaram's]] army, and thus she helped her father with his job. She encountered Kaladin after the young man had begun making a name for himself as a squad leader. One of her tasks was to outfit new recruits, which enabled her to keep Kaladin informed of young boys among the so-called greenvines who needed his protection.
+Tarah's father worked as an assistant quartermaster in [[Meridas Amaram\|Meridas Amaram's]] army, and thus she helped her father with his job. She encountered [[Kaladin\|Kaladin]] after the young man had begun making a name for himself as a squad leader. One of her tasks was to outfit new recruits, which enabled her to keep Kaladin informed of young boys among the so-called greenvines who needed his protection.
 During their time together in Amaram's army Tarah was in a relationship with Kaladin, but after a while she was transferred to [[Mourn's Vault\|Mourn's Vault]] where she was offered a scribe's job. She saw this as a good opportunity for herself, and in addition felt obligated to accept so that her father could join her there rather than be shipped to the [[Shattered Plains\|Shattered Plains]]. After her departure she wrote two letters to Kaladin, but he never wrote back.. She is still alive.
 
 ## Relationships
  by  botanicaxu  With [[Kaladin\|Kaladin]]
 ### Kaladin
-Tarah is concerned about Kaladin because of his grief for losing [[Tien\|Tien]], and coaxes him out of his single-minded determination in training on the spear due to his guilt over his brother's death. She claims that it will burn him out. She hopes Kaladin will someday learn "how to be there for the living, not just for the dead." Kaladin regrets the way things went with Tarah a few years later, considering the ruin of their relationship a failure on his part.
+Tarah is concerned about [[Kaladin\|Kaladin]] because of his grief for losing [[Tien\|Tien]], and coaxes him out of his single-minded determination in training on the spear due to his guilt over his brother's death. She claims that it will burn him out. She hopes Kaladin will someday learn "how to be there for the living, not just for the dead." Kaladin regrets the way things went with Tarah a few years later, considering the ruin of their relationship a failure on his part.
 
 
 

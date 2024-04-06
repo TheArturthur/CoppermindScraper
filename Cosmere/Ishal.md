@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|[[Ardent\|Ardent]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* His name, Brightlord? I would burn the proper glyphwards, if it pleases you.*”
 \- Ishal to Dalinar on Adolin's name[1]

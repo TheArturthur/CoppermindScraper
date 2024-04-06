@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Tuber|
 |**Used for**|Food|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Longroots** are a type of plant native to [[Roshar\|Roshar]].
 

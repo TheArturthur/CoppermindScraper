@@ -2,11 +2,10 @@
 |-|-|
 |by  Lyraina |
 |**Usage**|Palace|
-|**City**|[[Imperial Seat\|Imperial Seat]]🐱︎|
-|**Nation**|[[Rose Empire\|Rose Empire]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**City**|[[Imperial Seat\|Imperial Seat]]|
+|**Nation**|[[Rose Empire\|Rose Empire]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 The **Rose Palace** is the Imperial Palace of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]]. It is located in the [[Imperial Seat\|Imperial Seat]]. It is the residence of the ruling emperor and houses the Rose Throne.
 

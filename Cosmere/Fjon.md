@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|[[Derethi\|Derethi]] [[Arteth\|Arteth]]|
 |**Nationality**|[[Fjordell\|Fjordell]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Fjon** is a [[Derethi\|Derethi]] [[Arteth\|arteth]] from [[Fjorden\|Fjorden]] on [[Sel\|Sel]]. He is the head arteth in [[Kae\|Kae]], the capital of [[Arelon\|Arelon]], until the arrival of the gyorn [[Hrathen\|Hrathen]].
 

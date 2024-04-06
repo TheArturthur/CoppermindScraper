@@ -2,14 +2,15 @@
 |-|-|
 |by  Katie Payne |
 |**Born**|1160|
-|**Abilities**|[[Order of Edgedancers\|Edgedancer]], [[Shardbearer\|Shardbearer]]🐱︎, [[Old Magic\|Old Magic]]|
-|**Bonded With**|[[Wyndle\|Wyndle]]|
+|**Abilities**|[[Order of Edgedancers\|Edgedancer]], [[Shardbearer\|Shardbearer]], [[Old Magic\|Old Magic]]|
+|**Bonded With**|[[Wyndle\|Wyndle]], [[Gereh's Aviar\|Aviar]]|
 |**Profession**|Thief|
-|**Groups**|Huqin's crew , [[Knights Radiant\|Knights Radiant]]🐱︎ |
+|**Groups**|Huqin's crew , [[Knights Radiant\|Knights Radiant]] |
+|**Residence**|[[Rall Elorim\|Rall Elorim]] , [[Azimir\|Azimir]] , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Reshi\|Reshi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -59,6 +60,8 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 4.3 Dalinar
 4.4 Szeth and Nightblood
 4.5 Nale
+4.6 Gift
+4.7 The Stormfather
 
 
 5 Development
@@ -84,10 +87,10 @@ For all her flaws, Lift has a good heart. She has seen much death in her life, b
 Even without any sort of magical help, Lift is a skilled thief. She can scale walls easily and is a skilled enough pickpocket that she can easily steal as many spheres as she likes without it being any sort of challenge. Her mastery of thievery is possibly what drives her to break into heavily guarded locations and steal something so unconventional as food.
 
 ### Surgebinding
-Lift has formed a [[Nahel bond\|Nahel bond]] with Wyndle, which grants her the ability to Surgebind, although Lift herself is not entirely certain whether she believes this. As with all Surgebinders, Lift gains superhuman strength and speed when she holds [[Lifelight\|Lifelight]], as well as the ability to heal quickly from non-mortal wounds. When Lift is invested with Lifelight, she refers to it as her "Awesomeness." She is a member of the order of Radiants known as the Edgedancers. This gives her access to two Surges, Abrasion and Progression. Lift also has a rare and possibly unique ability to convert food to Lifelight through consumption. While this may seem a great blessing, she lacks the ability to gather Stormlight from gemstones and other sources, though it is unknown if this is also true for spheres containing [[Lifelight\|Lifelight]].
+Lift has formed a [[Nahel bond\|Nahel bond]] with Wyndle, which grants her the ability to Surgebind, although at first Lift herself is not entirely certain whether she believes this. She is able to summon Wyndle as a [[Shardblade\|Shardblade]] after swearing the Third Ideal of the Edgedancers. As other Surgebinders do with Stormlight, Lift gains superhuman strength and speed when she holds [[Lifelight\|Lifelight]], as well as the ability to heal quickly from non-mortal wounds. When Lift is Invested with Lifelight, she refers to it as her "Awesomeness." She is a member of the order of Radiants known as the [[Order of Edgedancers\|Edgedancers]]. This gives her access to two Surges, Abrasion and Progression. Lift also has a rare and possibly unique ability to convert food to Lifelight through consumption. While this may seem a great blessing, she lacks the ability to gather Stormlight from gemstones and other sources, though it is unknown if this is also true for spheres containing [[Lifelight\|Lifelight]].
 
 
-Abrasion allows her to change the friction of her body against her surroundings. She refers to this ability as her "Slickness." Lift uses this ability often to make quick getaways. She reduces friction on all parts of her body except the soles of her feet and palms of her hands, and then kneels and propels herself swiftly forward using her palms. This also comes in handy when Lift is escaping pursuers, because it is nearly impossible for them to get a grip on her. She can also use it to increase the friction of herself, making it extremely easy to climb walls with even the slightest handholds.
+Abrasion allows her to change the friction of her body against her surroundings. She refers to this ability as her "Slickness." Lift uses this ability often to make quick getaways. She reduces friction on all parts of her body except the soles of her feet and palms of her hands, and then kneels and propels herself swiftly forward using her palms. This also comes in handy when Lift is escaping pursuers, because it is nearly impossible for them to get a grip on her.
 
 
 The Surge of Progression allows for two different sorts of abilities. The more basic of these two is simply called Growth. Lift can use Lifelight to increase the rate of growth of plants. When Lift uses Growth, plant life that she illuminates grows at an extremely accelerated rate, and she has some measure of control over the way that it grows. She is less practiced at this ability, but she uses it for things such as making vines grow to force a locked window open. It is unknown if this allows Lift to enhance the Growth rate of animals or not.
@@ -101,23 +104,23 @@ As a Knight Radiant who has access to two Surges, Lift also has a [[Resonance\|r
 ### Old Magic
  by  taratjah  Lift eating
 >“*This is a creation specifically meant to defy my will!*”
-\-The Stormfather about Lift's abilities[12]
+\-The Stormfather about Lift's abilities[13]
 
 
 Lift's visit to the Nightwatcher leaves her with a rather unique trait, one that is not among the typical power set of the Edgedancers. She exists partially in the Cognitive realm, which grants her some special abilities. The first is that she can touch spren, something that is supposed to be impossible, as they exist mostly in the Cognitive realm. This ability greatly helps Lift with her thievery, as Wyndle takes the form of a vine. He can make handholds or increase the width of ledges for Lift by growing where she needs to go, but no one else is able to see or touch him. She is also one of the few people who can always see [[Syl\|Syl]], regardless on whether she wants to be seen.
-Lift's other power is even more impressive. Unlike most Surgebinders, who are able to draw Stormlight from external sources, Lift metabolizes food directly into [[Lifelight\|Lifelight]], and uses Lifelight to fuel her Surges instead of Stormlight.  Food that she can metabolize quicker, such as bread, can be metabolized into Lifelight faster than something like sausage, but may provide less Lifelight overall because it has fewer calories. Her Lifelight is produced in place of sugar. However, this is limited to substances that she can normally digest into nutrients. She can also convert the energy reserves in her own body into Lifelight. With access to the [[Metallic Arts\|Metallic Arts]], she could theoretically compound [[Feruchemical\|Feruchemical]] [[Bendalloy\|bendalloy]] to Lifelight as well. These abilities are unique to Lift. However, this power can be dangerous too, as she often risks malnutrition when she burns through all her excess energy. As Lift can only gain Lifelight through metabolizing food, she is limited by the amount of food she has eaten. She may be the only person to have ever had one, or all, of these abilities and it may not have been believed possible until she visited Cultivation. Lift has always assumed that she metabolized Stormlight, not knowing of Lifelight's existence until captured by [[Mraize\|Mraize]].
+Lift's other power is even more impressive. Unlike most Surgebinders, who are able to draw Stormlight from external sources, Lift metabolizes food directly into [[Lifelight\|Lifelight]], and uses Lifelight to fuel her Surges instead of Stormlight. Food that she can metabolize quicker, such as bread, can be metabolized into Lifelight faster than something like sausage, but may provide less Lifelight overall because it has fewer calories. Her Lifelight is produced in place of sugar. However, this is limited to substances that she can normally digest into nutrients, so she can do nothing with allomantic metals. She can also convert the energy reserves in her own body into Lifelight. With access to the [[Metallic Arts\|Metallic Arts]], she could theoretically compound [[Feruchemical\|Feruchemical]] [[Bendalloy\|bendalloy]] to Lifelight as well. These abilities are unique to Lift. However, this power can be dangerous too, as she often risks malnutrition when she burns through all her excess energy. As Lift can only gain Lifelight through metabolizing food, she is limited by the amount of food she has eaten. If the Lifelight is not used, it will last about half a day. She may be the only person to have ever had one, or all, of these abilities and it may not have been believed possible until she visited Cultivation. Lift has always assumed that she metabolized Stormlight, not knowing of Lifelight's existence until captured by [[Mraize\|Mraize]].
 Lift asked to stay the same and not become someone else, though the actual boon and curse are still unknown, but as an effect of one or the other, her spirit-web has been given the ability to convert mass directly to [[Investiture\|Investiture]].
 According to the Stormfather, Lift's boon is unique, as it allows her control over the visions entrusted to him by [[Honor\|Honor]]. She is able to enter the visions without the Stormfather's help, leaving on her own and taking [[Yanagawn\|Yanagawn]] with her. This infuriated the Stormfather, as the Nightwatcher had effectively diminished his authority.
 
 ### Aviar
-During the battle of Urithitu, Lift saw a fight between two chickens. She healed the red chicken and defended it from the green one. It had a special connection to his [[Gereh\|master]] allowing the [[Aviar\|Aviar]] to lead Lift to him. When the red chicken found its former master dead, it was in great distress. After the freeing of the tower, Lift and Wyndle take care of the chicken.
+During the battle of Urithiru, Lift saw a fight between two chickens. She healed the red chicken and defended it from the green one. It had a special connection to his [[Gereh\|master]] allowing the [[Gereh's Aviar\|Aviar]] to lead Lift to him. When the red chicken found its former master dead, it was in great distress. After the freeing of the tower, Lift and Wyndle take care of the chicken. The Aviar has unknown mind abilities.
 
 ## History
 ### Early Life
 Despite Lift's race, she was not born in the [[Reshi Isles\|Reshi Isles]]. The only reason that she knows that she is Reshi is because her mother told her so. She never lived there or knew her people. Lift grew up in the city of Rall Elorim, the City of Shadows, in [[Iri\|Iri]]. Lift had a difficult childhood there. It appears she grew up on the streets there, learning to move through crowds with ease. It is possible that Lift learned her thieving skills in Rall Elorim. She eventually left Rall Elorim for unknown reasons, possibly due to her difficult life. It also seems likely that this was the time in her life when Lift attempted to stop caring.
 
 >“*When everything else is going wrong, I want to be the same. I want to stay me. Not become someone else.*”
-\-Lift's request of Cultivation[13]
+\-Lift's request of Cultivation[14]
 
 Lift visited the [[Valley\|Valley]] to see the [[Nightwatcher\|Nightwatcher]] and ask a boon of her, though she saw [[Cultivation\|Cultivation]] instead. It is unknown what Lift's boon or curse are, but her request was to not change. Her boon does not appear to have stopped her from aging, but it is possible she is incapable of growing up. Wyndle believes that Cultivation altered her to exist partially in the [[Cognitive Realm\|Cognitive Realm]]. Due to this incredible power bestowed upon Lift by their mother, the [[Ring\|Ring]] decided that Wyndle should be sent to bond with her, so he could mold her while she was still young. This granted Lift her Surgebinding abilities.
 Lift spent some time in [[Marabethia\|Marabethia]], where she was hunted by Darkness, because he believed that her Surgebinding could bring another [[Desolation\|Desolation]] to Roshar. She fled Marabethia and went to the capital of Azir, Azimir. There, Lift fell in with a crew of thieves. The crew was made up of [[Tigzikk\|Tigzikk]], who Lift called Tig, [[Huqin\|Huqin]], his nephew Gawx, [[Maxin\|Maxin]], and two unnamed brothers who were quick with knives. Tigzikk was the only one Lift knew well. An informant told him which night would be good for robbing the [[Bronze Palace\|Bronze Palace]], while the vizerate was busy choosing a new [[Prime Aqasix\|Prime Aqasix]], following the death of the last two at the hands of [[Szeth\|Szeth]]. Lift could have robbed the palace on her own, but she felt like she owed it to Tigzikk to help him, and she wanted to make sure that he would be safe.
@@ -153,12 +156,12 @@ When she found the room where Darkness' lackeys were looking for the information
 
  by  LittleGreyDragon  Lift hugging [[Nale\|Nale]] in the [[Everstorm\|Everstorm]]
 
-When Lift reached the orphanage, she heard a scream that made her believe she had come too late. The Stump confronted her outside the orphanage, believing her to be the source of the scream. Lift asked for the last of her three meals to replenish her Lifelight before going off to confront the Skybreakers
+When Lift reached the orphanage, she heard a scream that made her believe she had come too late. The Stump confronted her outside the orphanage, believing her to be the source of the scream. Lift asked for the last of her three meals to replenish her Lifelight before going off to confront the Skybreakers.
 Outside Lift found that instead of the old man being the one harmed, it was in fact the two Skybreakers who lay dead on the ground. The man revealed himself to be [[Arclo\|Arclo]], a Dysian [[Aimian\|Aimian]]. He went on several tangents about philosophy before revealing that Darkness would go after the other Surgebinder if she were to flee. Arclo then guided Lift to the conclusion that the Stump was the other Surgebinder, leaving Lift to go back running towards the orphanage.
-She arrived at the orphanage to find that Darkness had beaten her there. They fought and he ultimately trapped her with his knife until the Stump came back down from the roof of the orphanage. The Stump struck Darkness with a wood board, which allowed Lift to free herself. Darkness stabbed the Stump and left her to bleed out while he chased Lift. Wyndle encouraged Lift to "Say the Words". Lift said that she'd spoken them in her heart, but wondered how they could help. They ended up on the roof, where Wyndle formed a shard weapon to block Darkness' Shardblade. As Nale taunted her, Lift spoke aloud the [[Immortal Words\|third ideal]] of the Edgedancer. She urged Nale to view the raging Everstorm and parshmen transformed into Stormform Listeners which convinced him that the Voidbringers were back, and that there was no point in killing Surgebinders.
+She arrived at the orphanage to find that Darkness had beaten her there. They fought and he ultimately trapped her with his knife until the Stump came back down from the roof of the orphanage. The Stump struck Darkness with a wood board, which allowed Lift to free herself. Darkness stabbed the Stump and left her to bleed out while he chased Lift. Wyndle encouraged Lift to "Say the Words". Lift said that she'd spoken them in her heart, but wondered how they could help. They ended up on the roof, where Wyndle formed a shard weapon to block Darkness' Shardblade. As Nale taunted her, Lift spoke aloud the [[Immortal Words\|third ideal]] of the Edgedancers. She urged Nale to view the raging Everstorm and parshmen transformed into Stormform Listeners which convinced him that the Voidbringers were back, and that there was no point in killing Surgebinders.
 
 >“*I will listen to those who have been ignored.*”
-\-The Third Ideal of the Edgedancers[40]
+\-The Third Ideal of the Edgedancers[6]
 
 
 Lift was able to help Stump heal, and explained to her some of the abilities she has, like the ability to heal herself and those around her. Lift then left to head back to Azimir.
@@ -208,7 +211,7 @@ By the time [[Dalinar\|Dalinar]] begins to curry favour with the Azish, Yanagawn
 ### Dalinar
  by  Marie Seeberger  [[Dalinar\|Dalinar]] and Lift sharing snacks in the [[Bronze Palace\|Bronze Palace]] waiting room
 >“*Your butt is too nice. Old guys shouldn’t have nice butts. It means they spend way too much time swinging a sword or punching people. You should have an old flabby butt. Then I’d trust you.*”
-\-Lift to Dalinar[12]
+\-Lift to Dalinar[13]
 
 
 When Lift first sees [[Dalinar\|Dalinar]], she is highly mistrustful of him, both because of his past as the Blackthorn and because he is unlike other government official she's familiar with (in her words, "his butt is too nice"). She is more open to listening to him after seeing his first confrontation with [[Odium\|Odium]]. She steals his food when he's waiting for the officials' decision in [[Azimir\|Azimir]]. That he does not begrudge her for it seems to earn him some points with her, and she even agrees to share some of the stolen food back.
@@ -222,9 +225,15 @@ Lift is one of the few people among the Radiants to trust Szeth. During the [[Ba
 The herald [[Nale\|Nale]] has been hunting Lift for some time by the time of the Bronze Palace heist, though she only knows him by a moniker she gave him, "Darkness". As with all non-[[Skybreaker\|Skybreaker]] surgebinders, he's initially highly antagonistic, and attempts to kill her, under the pretense of executing her for thievery. However, he gives up on it after she is pardoned by the [[Prime Aqasix\|Prime Aqasix]]. Lift, however, does not forget him, and spends some time attempting to track him down by rumours and reports after he leaves Azimir. When she locates him in Yeddaw, she leaves the palace to find him again and protect other people from him.
 It's only in Yeddaw that Lift finds out that Darkness is, in fact, a [[Herald\|Herald]]. After tracking him down again, the two have a confrontation where Lift manages to bring him back to a semblance of sanity and get him to acknowledge that the [[True Desolation\|True Desolation]] is here. Though she's naturally afraid of him, she's capable of reaching out to him, even giving him a hug as he breaks down. However, his own thoughts on her are unclear.
 
+### Gift
+Rock's son [[Gift\|Gift]] seems to have a crush on Lift, something both she and Wyndle seem to be aware of. Gift leaves out baskets of food for Lift to "steal", though she likes to pretend he does not know she is taking them. This is undercut by Gift leaving a note reading "love" in one of the baskets. Though Wyndle encourages Lift to talk to Gift, her desire to avoid growing up makes her hesitant.
+
+### The Stormfather
+The Stormfather is infuriated by her existence, claiming that her powers, granted to her by the Nightwatcher, were made specifically to defy his own will.
+
 ## Development
 Lift is a character that [[Brandon Sanderson\|Brandon Sanderson]] has had in his head for quite a while. She is a classic example of what he is hoping to do with a broader series, such as the [[Stormlight Archive\|Stormlight Archive]]. With the extra space a multi-book series allows, he wanted to create a world full of cultures and characters that are less common in fantasy and science fiction. Lift is an outgrowth of this desire, as Sanderson wanted the [[Knights Radiant\|Knights Radiant]] to be something different than classical European knights -- young, white men swearing oaths of chivalry and valor. Rather, he was looking for a character that would be interesting and popular, but no-one's first idea when they thought of a knight. Lift, a thirteen year old girl on a thieving crew with a weird sense of morality, is the result of that. Sanderson hopes that playing with concepts like these, and stretching our ideas of what a fantasy book and it's characters should look like will allow him to avoid the staleness that is a common complaint in science fiction and fantasy.
-Sanderson decided to write an interlude featuring Lift in *Words of Radiance* as a sort of "seed" for her future appearances. She is one of the flashback characters for the second five book arc in the Stormlight Archive, something that Sanderson has planned for a long time. As such, she will become even more prominent as the series continues. Sanderson intends to perhaps even write a few more short stories featuring Lift before he publishes her books.
+Sanderson decided to write an interlude featuring Lift in *Words of Radiance* as a sort of "seed" for her future appearances. She is the flashback character for Stormlight Archive Six.As such, she will become even more prominent as the series continues. Sanderson intends to perhaps even write a few more short stories featuring Lift before he publishes her books.
 
 ## Trivia
 There are foods Lift hates, but they are hard to find, though bacon is one of them.
@@ -233,6 +242,7 @@ It is significant that Lift "stopped aging" at 10 years old.
 Lift would be able to steal the [[Lord Ruler\|Lord Ruler's]] lunch.
 Lift would be very good at video games.
 "Lift" is a translation of her name from the original language, which means "to elevate or raise up".
+Lift calls [[Hoid\|Hoid]] "Ol' Whitehair" because, unlike most on Roshar, she has seen past the disguise he uses there and knows his true appearance.
 
 
 https://coppermind.net/wiki/Lift

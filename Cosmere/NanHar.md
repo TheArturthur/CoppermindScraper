@@ -4,9 +4,8 @@
 |**Siblings**|NanKhet|
 |**Died**||
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **NanHar** was an ancient king of [[Jah Keved\|Jah Keved]].
 He died from an illness while on campaign in what would later become [[Triax\|Triax]], and his brother [[NanKhet\|NanKhet]] inherited his throne.

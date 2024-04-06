@@ -1,7 +1,6 @@
 |**Library of Alexandria**|
 |-|-|
 |**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
 
 The **Library of Alexandria** is a repository of all knowledge ever recorded. It was originally located in the [[Hushlands\|Hushlands]], [[Curators of Alexandria\|curators]] moved it after it outgrew its location.
 , though the [[Librarian\|Librarians]] have covered up its continued existence by claiming it was destroyed by the Roman Empire.

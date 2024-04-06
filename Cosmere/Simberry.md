@@ -1,9 +1,8 @@
 |**Simberry**|
 |-|-|
 |**Type**|Fruit|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Simberry** is a type of fruit that grows on [[Roshar\|Roshar]]. It has clear flesh and a rind that is presumably red in color.
 Simberries can be made into a red jam. According to *Palates of Personality*, a liking for this jam indicates a spontaneous and impulsive nature as well as a love for the outdoors.

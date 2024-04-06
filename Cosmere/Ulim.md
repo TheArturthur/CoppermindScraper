@@ -3,9 +3,9 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
 |**Titles**|The Envoy|
 |**Species**|[[Voidspren\|Voidspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Braize\|Braize]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -23,7 +23,8 @@ Ulim often speaks with an arrogant, spiteful attitude marked by human mannerisms
 >“*Well, do you want to guess how long we’ve been fighting this war? Go ahead. Guess. I’m waiting.*”
 \-Ulim to Venli[1]
 
-Ulim somehow managed to escape from [[Braize\|Braize]] to [[Roshar\|Roshar]]. He made contact with Venli several years ago and convinced her that they should work together to bring about the return of her people's gods. The pair collaborated secretly to capture [[Stormspren\|stormspren]] and make the discovery of [[Stormform\|stormform]]. Though Venli took credit for the research, Ulim was primarily responsible for the work performed.
+Ulim had a history with the [[Herald\|Herald]] [[Nale\|Nale]], although they were not friends. Ulim appeared to be somewhat fearful of Nale, to the point that he stopped talking when Nale told him to quiet.
+Ulim somehow managed to escape from [[Braize\|Braize]] to [[Roshar\|Roshar]]. Over eight years prior to the [[Fused\|Fused]] capture of [[Urithiru\|Urithiru]], Ulim met Venli while she was trying to discover new forms for her people. Venli received a gemstone from [[Axindweth\|Axindweth]] which contained him. He convinced her that they should work together to bring about the return of her people's gods. The pair collaborated secretly to capture [[Stormspren\|stormspren]] and make the discovery of [[Stormform\|stormform]]. Though Venli took credit for the research, Ulim was primarily responsible for the work performed.
 After the summoning of the Everstorm, Ulim revealed himself to the surviving listeners and became somewhat of a leader to them. He directed Venli and others to search in the chasms for Eshonai's body in order to claim her [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]] before pressing them to meet up with the Fused. He instructed Venli, [[Demid\|Demid]], and seven other listeners on how to prepare themselves to be taken by the souls of the Fused at the coming of an Everstorm.
 
 

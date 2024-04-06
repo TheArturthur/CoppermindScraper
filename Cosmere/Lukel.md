@@ -1,13 +1,14 @@
 |**Lukel**|
 |-|-|
+|by  King Oreo |
 |**Teo Royal Family**|
 |**Spouse**|[[Jalla\|Jalla]]|
 |**Parents**|[[Daora\|Daora]], [[Kiin\|Kiin]]|
 |**Siblings**|[[Adien\|Adien]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Lukel** is an [[Arelene\|Arelene]] merchant from [[Sel\|Sel]]. He is [[Kiin\|Kiin]]´s stepson.
 
@@ -18,9 +19,10 @@
 3 History
 4 Relationships
 
-4.1 Raoden
-4.2 Sarene
-4.3 Jalla
+4.1 Kiin
+4.2 Raoden
+4.3 Sarene
+4.4 Jalla
 
 
 5 Quotes
@@ -29,7 +31,7 @@
 
 
 ## Appearance and Personality
- by  botanicaxu  With his step-siblings
+ by  botanicaxu  With his half-siblings
 Lukel is of average Arelene height with a lean build and a strikingly handsome hawkish face. His hair is parted in the center and flopped down on either side of his face. He likes to wear customarily fashionable outfits, like a gold-embroidered blue vest and tan trousers.
 He has a good and loving relationship with his family. Lukel likes to quip and constantly teases his family and friends.
 Lukel is a very good merchant; when he closes a good deal, he becomes proud, jovial and makes even more jokes.
@@ -50,6 +52,9 @@ As [[Shuden\|Shuden]] started his dance to fight, he took the leg of a table and
 In this fight, the regular guy surrounded by mages, heroes, and politicians gets to be a bit of a hero himself.
 
 ## Relationships
+### Kiin
+[[Kiin\|Kiin]] is Lukel’s stepfather. Although they aren’t related through blood, Lukel says that Kiin is still his father and still responsible for him. Lukel also has a close relationship with his siblings, both from his biological father and Kiin.
+
 ### Raoden
 He's good friends with [[Raoden\|Raoden]], and considered him his best friend. Upon becoming Elantrian, Raoden lamented the fact he wouldn't get to know Lukel's wife or children.
 On the other side, Lukel referred to Raoden as “The greatest man I have ever known.”

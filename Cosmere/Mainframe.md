@@ -12,9 +12,12 @@ All of Mainframe's projects to date have had Brandon's involvement, but he has c
 *The Original*, coauthored with 
 *Lux*, coauthored with [[Steven Michael Bohls\|Steven Michael Bohls]]
 *Sunreach*, *ReDawn*, and *Evershore*, [[Cytoverse\|Cytoverse]] novellas coauthored with [[Janci Patterson\|Janci Patterson]]
-*Stephen Leeds: Death & Faxes*, a serial podcast-like extension of the *Legion* universe with a writer's room and Max Epstein as "showrunner"
+*Stephen Leeds: Death & Faxes*, a serial podcast-like extension of the [[Legion (series)\|Legion]] universe with a writer's room and Max Epstein as "showrunner"
 *Dark One: Forgotten*, coauthored with Dan Wells
 *Dark One: Prophetic Histories*
+A second audiobook edition of *Edgedancer*, which will also include [[Lift\|Lift's]] interlude from *Words of Radiance* as a prologue.
+## External Links
+
 
 
 https://coppermind.net/wiki/Mainframe

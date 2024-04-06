@@ -1,9 +1,8 @@
 |**Rira**|
 |-|-|
 |by User: Otto didact|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article is about a nation on Roshar. For the slumlord of Hallandren, see [[Rira (character)\|Rira (character)]].
 **Rira** is a kingdom in northwestern [[Roshar\|Roshar]], bordering [[Iri\|Iri]] and [[Babatharnam\|Babatharnam]]. Formerly a part of the [[Silver Kingdoms\|Silver Kingdom]] of Iri, the people of Rira have a distinct appearance, with blond hair and light skin. Their culture is also unique, and incorporates certain aspects of both Iriali and [[Vorin\|Vorin]] tradition.
@@ -28,7 +27,7 @@ This article is about a nation on Roshar. For the slumlord of Hallandren, see [
 
 
 ## Geography and Ecology
-Rira is located in northwest Roshar, a warm area of the continent. Rira primarily borders [[Babatharnam\|Babatharnam]] to the south; it also has a very small border with the [[Misted Mountains\|Misted Mountains]]. To the east, a large lake separates Rira from Iri, with land borders to the north and south of the lake. The northeastern portion of Rira is mountainous and surrounded by the [[Reshi Sea\|Reshi Sea]].
+Rira is located in northwest Roshar, a warm area of the continent. Rira primarily borders [[Babatharnam\|Babatharnam]] to the south; it also has a very small border with the [[Misted Mountains\|Misted Mountains]]. To the west, a large lake separates Rira from Iri, with land borders to the north and south of the lake. The northeastern portion of Rira is mountainous and surrounded by the [[Reshi Sea\|Reshi Sea]].
 
 ### Notable Locations
 Rira contains an area known as the "sunken forests". It also controls the island that contains the city of [[Kurth\|Kurth]]. [[Rianal\|Rianal]], [[Drehy\|Drehy's]] birthplace, is in the west; based on Drehy's blond hair, it may be located in Rira, but it does not appear on available maps.
@@ -59,7 +58,7 @@ Riran people superficially share some physical traits with the Iriali. They are 
 
 ### Religion
 Rira seems to be ideologically and religiously distinct from both the Iriali and the [[Vorin\|Vorin]] nations to the east. Some Rirans have a belief system that incorporates parts of each of these religions, while others feel that neither doctrine applies to their people.
-Evi believes in the Iri concept of the [[One\|One]] but also seems to worship the [[Herald\|Heralds]]. However, she uses unique names for the Heralds such as [[Yaysi\|Yaysi]] and [[Kellai\|Kellai]], and she does not pray to the [[Almighty\|Almighty]]. She burns [[Glyphward\|glyphwards]], but she is careful to use fragrant paper that also serves as incense. She also refers to an unknown entity named [[Shishi\|Shishi]].
+Evi believes in the Iri concept of the [[One\|One]] but also seems to worship the [[Herald\|Heralds]]. However, she uses unique names for the Heralds such as [[Yaysi\|Yaysi]] and [[Kellai\|Kellai]], and she does not pray to the [[Almighty\|Almighty]]. She burns [[Glyphward\|glyphwards]], but she is careful to use fragrant paper that also serves as incense. She also refers to an unknown entity named [[Shishi (Roshar)\|Shishi]].
 Rirans have superstitions surrounding bad memories being stored in their skin, requiring one to rub them off with a stone once a month.
 
 ### Language

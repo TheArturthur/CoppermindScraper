@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Professor|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Obvious visual tells must be assiduously avoided by a practitioner of the law, lest he inadvertently give criminals an insight into his emotional state.*”
 \-Professor Modicarm[1]

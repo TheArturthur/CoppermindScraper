@@ -3,9 +3,8 @@
 |by User: Otto didact|
 |**Ethnicity**|Tashikki |
 |**Ruled by**|Prince of Tashikk|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -13,24 +12,35 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 ## Contents
 
-1 Geography
-2 History
-3 Politics
+1 Etymology
+2 Geography
+3 History
+4 Politics
 
-3.1 Ties to Azir
-3.2 Military
-3.3 Information trading
+4.1 Ties to Azir
+4.2 Military
+4.3 Information trading
+4.4 Foreign Policy and International Relationships
+
+4.4.1 Alm
+4.4.2 Alethkar
+4.4.3 Azir
 
 
-4 Culture
-
-4.1 People
-4.2 Religion
 
 
-5 Notable citizens
-6 Notes
+5 Culture
 
+5.1 People
+5.2 Religion
+
+
+6 Notable citizens
+7 Notes
+
+
+## Etymology
+*Tashikk* is derived from the prominent Tashikki diety Tashi, the local name for the Herald [[Ishar\|Ishar]].
 
 ## Geography
 Tashikk is located in southwestern Roshar, in the southernmost part of the geographical region of [[Makabak\|Makabak]]. It lies on the northern shore of the eastern [[Aimian Sea\|Aimian Sea]] and borders [[Liafor\|Liafor]] to the West, [[Yezier\|Yezier]] and [[Azir\|Azir]] to the North, and [[Emul\|Emul]] to South-East, the latter on a river.
@@ -54,6 +64,16 @@ The Azish military presence in Tashikk is not limited to its ships. The credenti
 ### Information trading
 Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]] hub, and the reeds connected to it are used even as far East as [[Alethkar\|Alethkar]]. More than simply a relay station, Tashikk provides spanreed services to the entire world, distributing them and providing connections. They are also well-known for their ability to acquire information from all over, and sharing it for outrageous prices. Rumours and gossip traveling the world often start in Tashikk.
 
+### Foreign Policy and International Relationships
+
+They have a good relationship with Alm, and Alm people are allowed to enter the nation without much trouble.
+
+
+They are a member of the Coalition of Monarchs with Alethkar. They also grant them spanreed services to Alethkar, who makes effective use of their services.
+
+
+They are under the control of the Azish Empire, and are thus subservient to Azir.
+
 ## Culture
 ### People
 The people of Tashikk are ethnically Makabaki, with dark brown skin. They are known to be polite and reserved, even compared to their northern neighbors. Much like the Azish, the Tashikki are highly formal, and their society is highly bureaucratized. Alongside [[Sphere\|spheres]], information is considered a valid currency among them.
@@ -62,7 +82,7 @@ Both men and women typically wear [[Shiqua\|shiquas]], complex, one-sheet wraps 
 ### Religion
 The Tashikki shiqua is religiously-motivated -- it is worn to protect the wearer from the eyes of **Nun Raylisi**, an evil entity that represents [[Odium\|Odium]] in their religion.
 Opposing Nun Raylisi is the god **Tashi** (the local name for [[Ishar\|Ishar]]), also known as God of Gods and Binder of the World. He is assisted by the Nine, a group of entities who "bound the world" together with him (presumably the other [[Herald\|Heralds]]). It is believed that Tashi protects the Tashikki in their home nation, and so they usually forego the face covering there, but keep it on when abroad.
-In [[Yeddaw\|Yeddaw]], the last of the ten types of pancakes made during the [[Weeping\|Weeping]] is dedicated to him, though unlike the others, it is metaphorical, thought about rather than physically made. The name Tashikk likely derives from Tashi.
+In [[Yeddaw\|Yeddaw]], the last of the ten types of pancakes made during the [[Weeping\|Weeping]] is dedicated to him, though unlike the others, it is metaphorical, thought about rather than physically made.
 
 ## Notable citizens
 [[Stump\|Stump]] - a [[Knight Radiant\|Knight Radiant]] from the [[Order of Truthwatchers\|Order of Truthwatchers]]
@@ -72,4 +92,4 @@ Prince's brother - ambassador to [[Azimir\|Azimir]] and, later, [[Urithiru\|Urit
 An unnamed [[Skybreaker\|Skybreaker]] squire
 
 
-https://coppermind.net/wiki/Tashi
+https://coppermind.net/wiki/Tashikki

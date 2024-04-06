@@ -1,9 +1,8 @@
 |**Laqqi**|
 |-|-|
-|**Nation**|[[Emul\|Emul]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Emul\|Emul]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Laqqi** is a village in central [[Emul\|Emul]] on [[Roshar\|Roshar]]. It lies in a rural area near the country's northern border with [[Azir\|Azir]].
 

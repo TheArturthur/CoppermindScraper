@@ -1,9 +1,8 @@
 |**Luthadel Garrison**|
 |-|-|
 |**Type**|Army|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Any way you look at it, Kell, that Garrison is going to be a tough stone to break.*”
 \-Ham discussing the plans of the skaa rebellion.[1] 

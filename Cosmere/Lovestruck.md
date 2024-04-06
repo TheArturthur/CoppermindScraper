@@ -1,8 +1,7 @@
 |**Lovestruck**|
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -51,4 +50,4 @@ During the Reckoners’ assault on the palace, Languish frees Vera. Jax recogniz
 
 
 
-https://coppermind.net/wiki/Lovestruck
+https://coppermind.net/wiki/Vera

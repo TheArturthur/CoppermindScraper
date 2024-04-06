@@ -1,8 +1,7 @@
 |**Survivor's Treasure**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*The invented story of the Survivor himself bleeding from his spear wound and stopping here to drink made sense.*”
 \-Jak on the Survivor's treasure[1]

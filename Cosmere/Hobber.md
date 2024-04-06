@@ -2,11 +2,11 @@
 |-|-|
 |by  LittleGreyDragon |
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Bridge Four\|Bridge Four]]🐱︎, Sadeas army , Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 >“*Being a Radiant isn't so much about your strength or skill, but about your heart. And yours is the best of all of us.*”
 \-Kaladin to Hobber[2]

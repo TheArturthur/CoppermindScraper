@@ -3,9 +3,9 @@
 |**Abilities**|Mental shielding|
 |**Bonded With**|[[Sixth of the Dusk (character)\|Sixth of the Dusk]]|
 |**Species**|[[Aviar\|Aviar]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
+|**First Appeared**|*Sixth of the Dusk*|
 
 **Kokerlii** is an [[Aviar\|Aviar]] on [[First of the Sun\|First of the Sun]]. He is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]] and lives with him on the island of [[Patji (island)\|Patji]] in the [[Pantheon\|Pantheon]].
 

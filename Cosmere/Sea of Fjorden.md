@@ -1,9 +1,8 @@
 |**Sea of Fjorden**|
 |-|-|
 |**Type**|Sea|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The **Sea of Fjorden** is a body of water on [[Sel\|Sel]]. It is named for [[Fjorden\|Fjorden]], the largest country on the continent of [[Opelon\|Opelon]] (or Sycla).
 

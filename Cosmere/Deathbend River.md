@@ -1,10 +1,9 @@
 |**Deathbend River**|
 |-|-|
 |**Type**|River|
-|**Region**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*As you fly, wave to the lands along the south fork of the Deathbend River. The parshmen may have conquered them by now, but they actually belong to you.*”
 \-Dalinar to Kaladin[1]

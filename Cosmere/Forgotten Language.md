@@ -1,7 +1,6 @@
 |**Forgotten Language**|
 |-|-|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 The **Forgotten Language** is the language of the ancient [[Incarna\|Incarna]] that [[Allekatrase\|Alcatraz the First]] broke so that no future generations could use the knowledge to bring destruction to themselves. Scholars tried to decipher it for centuries, including [[Attica Smedry\|Attica Smedry]], thinking that its secrets might lead him to the Sands or Rashid. After finding the lens, he was able to write in the language.
 The written language appears as random scribbles, including things like random circles, zigzags, and loop-dee-loops. The language has no pattern. 

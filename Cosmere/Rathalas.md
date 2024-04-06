@@ -1,15 +1,14 @@
 |**Rathalas**|
 |-|-|
 |by  Connor Chamberlain |
-|**Region**|[[Eastern Crownlands\|Eastern Crownlands]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Eastern Crownlands\|Eastern Crownlands]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-**Rathalas**, also known as the **Rift**, was a city in in the northern part of the [[Eastern Crownlands\|Eastern Crownlands]] near central [[Alethkar\|Alethkar]]. The city was burnt to the ground in 1163 and has not since been rebuilt. The people of Rathalas are sometimes referred to as **Rifters** and have a distinct nasally accent. Rathalas was large enough to house tens of thousands of people.
+**Rathalas**, also known as the **Rift**, was a city in the northern part of the [[Eastern Crownlands\|Eastern Crownlands]] near central [[Alethkar\|Alethkar]]. The city was burnt to the ground in 1163 and has not since been rebuilt. The people of Rathalas are sometimes referred to as **Rifters** and have a distinct nasally accent. Rathalas was large enough to house tens of thousands of people.
 
 ## Contents
 

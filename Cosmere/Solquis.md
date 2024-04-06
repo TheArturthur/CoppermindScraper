@@ -1,8 +1,7 @@
 |**Solquis**|
 |-|-|
-|**World**|*Unknown*|
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*The solquis are a longtime member of the Superiority. Stalwart and loyal to our ideals though they are, their species has been turned down for primary citizenship over two dozen times.*”
 \-Cuna[1]

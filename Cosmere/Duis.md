@@ -1,9 +1,8 @@
 |**Duis**|
 |-|-|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Duis** is a deity worshipped in [[Classical Scadrial\|Classical Scadrial]]. They are known to watch over weary travellers.
 Their religion is one known by [[Sazed\|Sazed]].

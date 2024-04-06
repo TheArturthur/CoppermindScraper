@@ -5,30 +5,60 @@
 |**Siblings**|[[Denth\|Denth]]|
 |**Relatives**|[[Dedelin\|Dedelin]], [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Sisirinah\|Sisirinah]]|
 |**Ancestors**|[[Vo\|Vo]]|
-|**Died**|Slew with [[Nightblood\|Nightblood]] by [[Vasher\|Vasher]]|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
+|**Died**|Slain with [[Nightblood\|Nightblood]] by [[Vasher\|Vasher]]|
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] , [[Royal Locks\|Royal Locks]]|
 |**Titles**|Glorysinger|
 |**Profession**|Scholar|
-|**Groups**|[[Five Scholars\|Five Scholars]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Groups**|[[Five Scholars\|Five Scholars]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*The waves of men pointed toward one figure at the center. A woman, vaguely depicted by a couple of curved brushstrokes. And yet it was obvious. She stood high, as if atop a cresting wave of crashing soldiers, caught in mid-motion, head ﬂung back, her arm upraised.*
 \-Holding a deep black sword that darkened the red sky around it.
 
 
-**Shashara** was one of the [[Five Scholars\|Five Scholars]] on [[Nalthis\|Nalthis]].
-Shashara's life before she Returned is a mystery. Upon her Return, she was named **Glorysinger** by the [[Cult of the Returned\|Cult of the Returned]]. She became one of the Five Scholars. [[Vasher\|Vasher]] indicates that she was one of the more talented [[Awakener\|Awakeners]] in the group. She was instrumental in the creation of the one-Breath Command to create Lifeless. Shashara is also the one who discovered how to create a sentient Awakened object of steel, leading to the creation of [[Nightblood\|Nightblood]].
-She was the sister of [[Denth\|Denth]]. Vasher and Shashara collaborated on their Awakening work, eventually marrying. Shashara and Vasher worked together to create the Command for Nightblood, "Destroy evil."
-Nightblood mentions that she argued with Vasher, claiming that he could be a poet or scholar, like a man.
-Shashara drew Nightblood the only time, in battle, during the [[Manywar\|Manywar]]. While the details of the [[Battle of Twilight Falls\|Battle of Twilight Falls]] has yet to be revealed, Vasher found the outcome to be horrifying enough to take action.
-Vasher used Nightblood to slay Shashara, his own wife, when it became clear that she was going to reveal to the general populace how to create more sentient swords. She had already revealed the Command to create Lifeless from a single Breath, which was a contributing factor in the start of the Manywar.
-She has traveled the [[Cosmere\|cosmere]] and is considered an early cosmere scholar by those at [[Silverlight\|Silverlight]].
+**Shashara** is a [[Returned\|Returned]] and one of the [[Five Scholars\|Five Scholars]] on [[Nalthis\|Nalthis]].
+
+## Contents
+
+1 Attributes and abilities
+2 History
+
+2.1 Early life and Returning
+2.2 The Manywar and Death
+
+
+3 Legacy
+4 Trivia
+5 Notes
+
+
+## Attributes and abilities
+Shashara is a [[Returned\|Returned]]. As such she can have the fifth [[Heightening\|Heightening]] whenever she wants. This includes all the abilities granted by it, such as agelessness. She held the ninth [[Heightening\|Heightening]] at least once, using it to make [[Nightblood\|Nightblood]].
+As one of the [[Five Scholars\|Five Scholars]] Shashara has a good understanding of [[Awakening\|Awakening]], and has made several discoveries. It is also likely she can use her [[Divine Breath\|Divine Breath]] to alter her appearance, as the other scholars have been seen doing this.
+As she is known to have wielded [[Nightblood\|Nightblood]] she was probably bonded to him. This makes her resistant to the effects caused by Nightblood.
+As her brother [[VaraTreledees\|VaraTreledees]] had the [[Royal Locks\|Royal Locks]] it’s safe to assume she had them as well.
+
+## History
+### Early life and Returning
+Shashara's life before she Returned is a mystery. She had a brother however, who would later return as [[VaraTreledees\|VaraTreledees]]. At some point she died.
+Upon her Return, she was found and taken in by the [[Cult of the Returned\|Cult of the Returned]]. They gave her the name **Glorysinger**. At some point she and 4 others, [[VaraTreledees\|VaraTreledees]], [[Talaxin\|Talaxin]], [[Arsteel\|Arsteel]] and [[Yesteel\|Yesteel]] formed the [[Five Scholars\|Five Scholars]]. During this time she researched [[Awakening\|Awakening]], becoming one of the most talented Awakeners of the Five Scholars. She did multiple notable inventions during this time, known examples being the creation of the one-Breath Command to create [[Lifeless\|Lifeless]] and also the discovery of how to create a sentient Awakened object of steel, leading to the creation of [[Nightblood\|Nightblood]].
+Sometime after her first death she traveled the [[Cosmere\|cosmere]].
+During this time Talaxin and Shashara fell in love, and eventually married. Talaxin and Shashara collaborated on their Awakening research. Shashara and Vasher worked together to create the Command for Nightblood, "Destroy evil." After Nightblood’s creation she argued with [[Talaxin\|Talaxin]], claiming the sword could be a poet or a scholar, like a man.
+
+### The Manywar and Death
+After the [[Manywar\|Manywar]] began, the [[Five Scholars\|Five Scholars]] split and joined different sides, Shashara joined Talaxin on the side of [[Hanald\|Hanald]] and eventually she and Talaxin convinced her brother to join them as well. During this war she and Talaxin provided Hanald with information and techniques regarding Awakening. She might have also been a general, as she’s known to have fought at least once.
+Shashara participated in the [[Battle of Twilight Falls\|Battle of Twilight Falls]], here she drew Nightblood, killing many soldiers. While the exact details of the Battle of Twilight Falls have yet to be revealed, Talaxin was horrified by what happened.
+Shortly after this event Shashara told Talaxin that she wanted to reveal how metal could be Awakened, possibly leading to more swords like Nightblood. This sparked a massive argument between them, only ending when Talaxin slew her with Nightblood in order to prevent more deaths.
+
+## Legacy
+Due to Shashara’s death [[VaraTreledees\|VaraTreledees]] developed a hate for [[Talaxin\|Talaxin]], which would only end with his death during the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+[[Nightblood\|Nightblood's]] first memories are very important to him, and cannot be overwritten. Due to this he always thinks of Shashara as alive.
+She is considered an early [[Cosmere\|cosmere]] scholar by those at [[Silverlight\|Silverlight]].
 
 ## Trivia
 Shashara was not known to have worn red scarves. This strongly implies that she was not the person who inspired the story of [[The Girl Who Looked Up\|The Girl Who Looked Up]].
-There is no significance with Shashara's name bearing a close resemblance to [[Shalash\|Shalash's]] name.
+There is no significance with Shashara's name bearing a close resemblance to the [[Herald\|Herald]] [[Shalash\|Shalash's]] name.
 
 
 https://coppermind.net/wiki/Shashara

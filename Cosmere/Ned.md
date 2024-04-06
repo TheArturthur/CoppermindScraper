@@ -4,9 +4,8 @@
 |**Spouse**|[[Rem\|Rem]]|
 |**Died**||
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*We knew Ned would go too far at some point. Everyone did. I don’t think any of us was surprised when, after she tried to drag him away from the tavern that night, he finally went over the edge.*”
 \-The All's Alley thugs' opinion on Ned's temper.[1]

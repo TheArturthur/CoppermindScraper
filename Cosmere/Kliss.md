@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“* A foolish gossip? Why, yes I am. It's fascinating, the kinds of things you can learn when you're known as the court gossip.*”
 \- Lady Kliss to Vin[1]

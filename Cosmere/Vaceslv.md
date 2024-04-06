@@ -1,13 +1,12 @@
 |**Vaceslv**|
 |-|-|
 |**Profession**|Soldier|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vaceslv** is a member of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is a part of [[Noro\|Noro's]] squad, Platoon Seven, Squad Two.
 

@@ -2,9 +2,8 @@
 |-|-|
 |by  Bryan Mark Taylor |
 |**Region**|C4|
-|**Nation**|[[Superiority\|Superiority]]🐱︎|
+|**Nation**|[[Superiority\|Superiority]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This article is about the space station. For the second book in the [[Skyward (series)\|Skyward]] series, see [[Starsight\|Starsight]].
 >“*A million different goals. A million different jobs. A million creatures who saw me as one of the most dangerous things in the galaxy.*”

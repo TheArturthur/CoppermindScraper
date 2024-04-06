@@ -2,9 +2,8 @@
 |-|-|
 |**Leader**|[[Dalinar Kholin\|Dalinar Kholin]]|
 |**Type**|Kholin army unit|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* They weren't an honor guard. Dalinar didn’t need guards. These were simply the men he considered competent enough not to embarrass him.*”
 \- Younger Dalinar on his elites[1]
@@ -38,6 +37,7 @@ For more information, see :Category: Dalinar's elites.
 [[Horinar\|Horinar]]
 [[Rien\|Rien]]
 [[Jenin\|Jenin]]
+[[Febin\|Febin]]
 
 
 

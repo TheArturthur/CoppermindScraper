@@ -3,8 +3,7 @@
 |by User: Ailavyn-Siniyash|
 |**Related to**|[[Silimatic\|Silimatic]]|
 |**Prerequisites**|Belonging to [[House Smedry\|House Smedry]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians (series)*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 A **Smedry Talent** is a form of magic where the user changes the world in strange ways. The only people known to possess such Talents are members of [[House Smedry\|House Smedry]] and their spouses. The Talents are notoriously hard to control and are known to 'get away' from their users, often to dramatic and hilarious effect.
 

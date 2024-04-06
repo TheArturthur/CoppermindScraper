@@ -1,10 +1,9 @@
 |**Talatin**|
 |-|-|
 |**Abilities**|[[Order of Stonewards\|Stoneward]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*They changed, even as we fought them. Like shadows they were, that can transform as the flame dances. Never underestimate them because of what you first see.*”
 \-A quote from Talatin that was included in The Poem of the Seventh Morning and quoted in Guvlow's Incarnate[1]

@@ -1,8 +1,7 @@
 |**Nikolin**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Of course I'm certain. Would I bother coming here if I weren’t serious? Honestly. You people should allow my steward to make these arrangements. That’s what stewards are for, after all.*”
 \-Nikolin to Edwarn Ladrian.[1]

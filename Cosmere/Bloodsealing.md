@@ -1,11 +1,9 @@
 |**Bloodsealing**|
 |-|-|
 |**Related to**|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|
-|**Focus**|Forms (Bloodseals)|
 |**Type**|End-Positive|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 >“*There was no subtlety to what the Bloodsealer did; they didn’t traffic in subtlety. Instead of skill or artistry, they used tricks and blood. However, their craft was effective.*”
 \-Wan ShaiLu on Bloodsealing[4]
@@ -74,7 +72,7 @@ Like all forms of Investiture on Sel, Bloodsealing uses patterns and shapes to d
 
 ### Similarities to Awakening
 There are several notable similarities between Bloodsealing and the Investiture of [[Awakening\|Awakening]] on [[Nalthis\|Nalthis]]. The most overt comparisons can be drawn between skeletals and the Type II BioChromatic entities known as [[Lifeless\|Lifeless]]. Both involve the reanimation of corpses to serve the living. Both Investitures cease to function if the body they work on is heavily damaged. In Awakening, this twisted resurrection is fueled by [[BioChromatic Breath\|BioChromatic Breath]] instead of the Dor, but there is no denying that they are similar. It is, however, important to note, that while it is possible to reanimate a skeleton with Breath, it requires much more Breath and it would be much simpler to simply Awaken a full corpse rather than simply a skeleton. Indeed, the two processes are very similar in how they function, drawing upon an external source of Investiture to cause the body to believe it lives again. The primary difference between the two is that the creation of a Lifeless uses a part of the body's own soul, whereas a skeletal does not. The bones themselves are very important in the creating of the skeletal. The comparison with Lifeless raises an interesting possibility. It may offer an insight into how a skeletal is created. Lifeless are returned to life and given a Command, which is a combination of a spoken order and a Cognitive concept of what the Awakened object is to do. If skeletals need a similar Cognitive concept, it would appear the Bloodseal on the forehead serves this same function.
-Bloodsealing's other notable similarity to Awakening is based on a lie that Shai tells. She tells the Strikers that the Bloodsealer guarding her has been stealing bits of hair and fingernail from them to use in some ritual. While she claims that the Bloodsealer would be able to do little with only those bits, the possibility remains that those pieces too can be used in Bloodsealing in some manner. If this is true, then there exists another notable parallel with Awakening. As per the law of Biochromatic Parallelism, the number of Breaths required to Awaken things is reduced when an object being Awakened is made closer to the form of life, such as when blood, nails, or hair are used in its creation. If there is any truth to Shai's lie, this is another fascinating parallel between the two Investitures.
+Bloodsealing's other notable similarity to Awakening is based on a lie that Shai tells. She tells the Strikers that the Bloodsealer guarding her has been stealing bits of hair and fingernail from them to use in some ritual. While she claims that the Bloodsealer would be able to do little with only those bits, the possibility remains that those pieces too can be used in Bloodsealing in some manner. If this is true, then there exists another notable parallel with Awakening. As per the law of BioChromatic Parallelism, the number of Breaths required to Awaken things is reduced when an object being Awakened is made closer to the form of life, such as when blood, nails, or hair are used in its creation. If there is any truth to Shai's lie, this is another fascinating parallel between the two Investitures.
 
 ## Known Bloodsealers
 [[Weedfingers\|Weedfingers]]

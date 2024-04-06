@@ -6,9 +6,8 @@
 |**Residence**|[[Jokasha Monastery\|Jokasha Monastery]]|
 |**Ethnicity**|[[Siln\|Siln]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Urv** is a [[Siln\|Siln]] [[Ardent\|ardent]] at [[Jokasha Monastery\|Jokasha Monastery]] in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

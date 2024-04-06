@@ -3,19 +3,21 @@
 |by  Elisgardor |
 |**Type**|Mountains|
 |**Region**|Central Roshar|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
 
 >“*An ancient place, with ancient stones.*”
 \-Venli[1]
+
 
 
 The **mountains of Ur** are a mountain range in central Roshar. [[Urithiru\|Urithiru]] is located there.
 
 ## Geography
 The mountains of Ur lie in the center of the [[Rosharan\|Rosharan]] supercontinent. They run east to west; in the west, they split into two parts turning north and south, forming a sideways Y shape. They border a number of central Rosharan nations, including [[Yulay\|Yulay]] and [[Tu Bayla\|Tu Bayla]] in the north, [[Jah Keved\|Jah Keved's]] [[Bavland\|Bavland]] in the east, [[Triax\|Triax]], [[Tu Fallia\|Tu Fallia]], [[Greater Hexi\|Greater Hexi]] and [[Marat\|Marat]] to the south, and [[Emul\|Emul]] and [[Azir\|Azir]] in the east.
-The mountains are cold, barren and incredibly high; only the tallest [[Highstorm\|highstorms]] reach anywhere close to their peaks. A deep layer of pristine white snow is a permanent fixture of the environment, and life is sparse outside a few livable areas. Up there, the air is frigid, full of [[Coldspren\|coldspren]] clinging to any surface. The air pressure is so low as to pose difficulties for people who wish to live there. Far lower, however, the mountains are also home to the verdant [[Valley\|Valley]] of the [[Nightwatcher\|Nightwatcher]], full of all manner of plant and animal life.
+The mountains are cold, barren and incredibly high; reaching a hight of at least 15 thousand feet where only the tallest [[Highstorm\|highstorms]] reach anywhere close to their peaks. A deep layer of pristine white snow is a permanent fixture of the environment, and life is sparse outside a few livable areas. Up there, the air is frigid, full of [[Coldspren\|coldspren]] clinging to any surface. The air pressure is so low as to pose difficulties for people who wish to live there. Far lower, however, the mountains are also home to the verdant [[Valley\|Valley]] of the [[Nightwatcher\|Nightwatcher]], full of all manner of plant and animal life.
 Ur itself is a mountain that no longer exists. Originally, it stood in the very center of the mountains, where the range splits into the northward and southward branch. At some point in the distant past, it was reshaped into the tower city of [[Urithiru\|Urithiru]], which stands there to this day. The mountains itself do not seem to have a name of their own, and take their name after Ur.
 
 ## Inhabitants

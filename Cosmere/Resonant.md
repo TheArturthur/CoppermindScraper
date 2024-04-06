@@ -2,7 +2,8 @@
 |-|-|
 |**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
+
+This page or section needs to be updated with new information for *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I found it amazing that the resonants had developed space-age industry under those limitations. But I guessed when members of your species commonly lived thousands of years, you had other advantages. And there was something hardcore about an entire civilization made up of singing crystals.*”
 \-Spensa[1]

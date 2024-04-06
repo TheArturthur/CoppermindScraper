@@ -2,9 +2,8 @@
 |-|-|
 |by  Sheep |
 |**Type**|Weapon|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
 This article is about the non-magical weapon. For information related to living Shardblades in the shape of a hammer, see Shardblade#Radiant Shardblades.
@@ -12,7 +11,7 @@ A **shardhammer**, also known as a **warhammer** is an enormous battle hammer th
 
 ## Notable Mentions
 Dalinar used his warhammer to dig a latrine ditch as he contemplated stepping down as Highprince. 
-Sadeas recalls an incident one year after the assassination of Galivar in which he slaughtered a large number of Parshendi with only his hammer.
+Sadeas recalls an incident one year after the assassination of Gavilar in which he slaughtered a large number of Parshendi with only his hammer.
 When [[Adolin\|Adolin]] posed as Dalinar to meet with [[Eshonai\|Eshonai]] on the Shattered Plains, [[Teleb\|Teleb]] wore a Shardhammer strapped to his back.
 On a plateau run where Adolin assists other highprinces in a failed attempt to collect a gemheart, [[Jakamav\|Jakamav]] carries a shardhammer as a member of his team.
 During Adolin's duel-gone-bad, [[Elit Ruthar\|Elit]] wears the King's borrowed Shardplate and fights with a Shardbearer's hammer.

@@ -1,7 +1,6 @@
 |**Sylvia**|
 |-|-|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion: Skin Deep*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Sylvia** goes on a date with [[Stephen Leeds\|Stephen Leeds]] for a paparazzi journalist.
 

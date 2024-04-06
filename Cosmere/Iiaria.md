@@ -1,16 +1,19 @@
 |**Iiaria**|
 |-|-|
-|**Region**|[[Darkside\|Darkside]]🐱︎|
-|**World**|[[Taldain\|Taldain]]🐱︎|
+|**Region**|[[Darkside\|Darkside]]|
+|**World**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
-**Iiaria** is a nation on the [[Darkside\|Darkside]] of the planet [[Taldain\|Taldain]].
-Iiarians have dark brown skin, brown eyes, and dark hair. [[Baon\|Baon]], who hails from Iiaria, is not seen wearing dark glasses when he visits the [[Dayside\|Dayside]], unlike other Darksiders such as [[Khrissalla\|Khrissalla]] and [[Cynder\|Cynder]].
-Khriss and Baon discuss [[Skathan\|Skathan]], the current monarch of the [[Dynasty\|Dynasty]]; it is implied that Skathan is from Iiaria and that Iiaria is part of the Dynasty. Skathan has several magical abilities, but they do not appear to be common to other Iiarians.
+**Iiaria** is a nation in the northern end of [[Darkside\|Darkside]] on the planet [[Taldain\|Taldain]]. It is the home of [[Skathan\|Skathan]], Darkside's emperor, and serves as the seat of power of the [[Dynasty\|Dynasty]].
+Iiarians typically have dark brown skin, brown eyes, and dark hair. They have an identifiable accent when speaking the Dynastic language. [[Jon Acron\|Jon Acron]] considers Iiarians to be quite superstitious
+Few specifics are known about Iiaria, but it is presumably the base of operations for the Dynasty's significant military strength, including a powerful navy and a [[Starcarved\|Starcarved]] army. Emperor Skathan also suppresses the spread of knowledge and technology within the Dynasty and strictly controls travel between nations, using an extensive network of assassins and spies to do so. Skathan himself has several magical abilities that are not well-understood.
 
+## Known Iiarians
+[[Baon\|Baon]]
+[[Loaten\|Loaten]]
+[[Skathan\|Skathan]]
 ## Trivia
-In *White Sand Volume 1*, Khriss mentions "Irarians" when describing the people living in [[Lonzare\|Lonzare]]. It is not clear if this is a separate nation or a typo.
+In the original version of *White Sand Volume 1*, Khriss mentioned "Irarians" when describing the people living in [[Lonzare\|Lonzare]]. This was presumably a typo, as the dialogue was changed for the omnibus edition.
 
 
-https://coppermind.net/wiki/Iiaria
+https://coppermind.net/wiki/Iiarian

@@ -4,13 +4,12 @@
 |**Children**|[[Aarik\|Aarik]]|
 |**Died**|killed by [[Sharezan\|Sharezan]]|
 |**Titles**|[[Lord General\|Lord General]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, [[Tower (Taldain)\|The Tower]]|
+|**Groups**|[[Taishin\|Taishin]], [[Tower (Taldain)\|The Tower]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 >“*All politics is founded on hypocrisy.*”
 \-Raagent[3]

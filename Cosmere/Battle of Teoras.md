@@ -2,11 +2,10 @@
 |-|-|
 |**Participants**|[[Dakhor\|Dakhor]] monks, [[Raoden\|Raoden]], [[Sarene\|Sarene]], [[Hrathen\|Hrathen]], [[Eventeo\|Eventeo]]|
 |**Effects**|[[Fjorden\|Fjorden]] invasion of [[Teod\|Teod]] stopped|
-|**City**|[[Teoras\|Teoras]]🐱︎|
-|**Nation**|[[Teod\|Teod]]🐱︎|
+|**City**|[[Teoras\|Teoras]]|
+|**Nation**|[[Teod\|Teod]]|
 |**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris trilogy*|
 
 It has been suggested that this page be merged into [[Invasion of Arelon\|Invasion of Arelon]].The information on this page is much better suited to be included on other pages.
 

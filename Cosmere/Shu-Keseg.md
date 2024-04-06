@@ -1,12 +1,46 @@
 |**Shu-Keseg**|
 |-|-|
 |**Related to**|[[JinDo\|JinDo]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
-**Shu-Keseg** is a religion practiced on [[Sel\|Sel]].
-It was the precursor to the [[Shu-Korath\|Shu-Korath]] and [[Shu-Dereth\|Shu-Dereth]] religions. It was founded by a [[JinDo\|JinDo]] man named [[Keseg\|Keseg]] who preached unity of all mankind. His two disciples [[Korath\|Korath]] and [[Dereth\|Dereth]] collected his teachings in a book called the [[Do-Kando\|Do-Kando]]. After Keseg died Korath and Dereth disagreed about how to achieve this unity. Korath thought that mankind should be united through love, whereas Derethi believed mankind should united through obedience by the rule of a single "Holy" government. This disagreement caused the schism in Shu-Keseg.
+**Shu-Keseg** is a religion practiced on the [[Sel\|Selish]] continent known as [[Opelon\|Opelon]] ([[Aonic\|Aonic]] term) or [[Sycla\|Sycla]] ([[Fjorden\|Fjordell]] term), as well as the nearby nation of [[Teod\|Teod]]. Two opposing sects, [[Shu-Korath\|Shu-Korath]] and [[Shu-Dereth\|Shu-Dereth]], later developed from this parent religion. 
+
+## Contents
+
+1 Beliefs
+2 Origins & History
+
+2.1 Sects
+
+2.1.1 Cultural Influence
+
+
+
+
+3 Notable Members
+4 Notes
+
+
+## Beliefs
+Shu-Keseg’s core ideals center around unity – specifically unity of ‘’mind’’ – and acceptance. Its followers believe in a single, omnipotent God named Dashu.
+
+## Origins & History
+Shu-Keseg was founded by a [[JinDo\|JinDo]] man named [[Keseg\|Keseg]] who preached the power of unity. The religion’s teachings are held in a book called the [[Do-Kando\|Do-Kando]].
+
+### Sects
+Keseg’s students, [[Korath\|Korath]] and [[Dereth\|Dereth]], left JinDo to spread Shu-Keseg, but they disagreed about how to achieve the central tenet of unity. Korath preached that mankind should be united through love, whereas Dereth taught of achieving unity through obedience. This schism resulted in the two opposing sects of Shu-Korath and Shu-Dereth.
+
+
+The nation of Fjorden, the home of Shu-Dereth, used the new religion as an excuse to conquer nearby nations under the guise of divine unification.
+
+For more information, see [[Shu-Dereth\|Shu-Dereth]].
+## Notable Members
+Countries
+The nation of JinDo, while officially converted to Shu-Dereth to avoid war, still primarily practices Shu-Keseg.
+People
+[[Shuden\|Shuden]] – A baron of [[Arelon\|Arelon]], originally from JinDo
+
 
 
 

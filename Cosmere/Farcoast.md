@@ -1,10 +1,9 @@
 |**Farcoast**|
 |-|-|
-|**Princedom**|[[Vamah princedom\|Vamah princedom]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Princedom**|[[Vamah princedom\|Vamah princedom]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Farcoast** is a city in [[Alethkar\|Alethkar]] in [[Vamah princedom\|Vamah princedom]]. It is near the border to [[Jah Keved\|Jah Keved]].
 

@@ -2,8 +2,7 @@
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
 |**Residence**|[[Lux (city)\|Lux]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*There is nothing quite so special as to sip from the chalice of death. Sip, not swallow. To taste its sweet licorice on your toungue before releasing it back into the cup. Have you ever tasted something so sweet?*”
 \-Wingflare[1]

@@ -4,9 +4,9 @@
 |**Relatives**|[[Westweather Cett\|Westweather]]|
 |**Ancestors**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*The Alloy of Law*|
 
 Lady **Aving Cett** is a member of [[House Cett\|House Cett]] in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

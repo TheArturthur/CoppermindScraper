@@ -4,9 +4,8 @@
 |**Profession**|High Priest|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 For the member of the [[Five Scholars\|Five Scholars]], see [[VaraTreledees\|VaraTreledees]].
 >“*Why would a Returned care about Awakening? They have everything they need.*”

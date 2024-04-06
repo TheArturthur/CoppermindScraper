@@ -1,10 +1,9 @@
 |**Dukar**|
 |-|-|
-|**Groups**|[[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Diagram (group)\|Diagram]]|
 |**Residence**|[[Kharbranth\|Kharbranth]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*My king. My eternal king.*”
 \-Dukar to Taravangian[1]

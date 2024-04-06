@@ -1,9 +1,8 @@
 |**Spook's note**|
 |-|-|
 |**Author**|[[Spook\|Spook]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Spook’s note** contains a message to [[Vin\|Vin]], warning her about [[Ruin\|Ruin]]’s ability to manipulate people whose body is [[Hemalurgy\|pierced by metal]]. While holding the power of [[Preservation\|Preservation]], [[Kelsier\|Kelsier]] managed to speak to [[Spook\|Spook]] after he was wounded in the [[Coup of Urteau\|Coup of Urteau]] and encouraged him to send the message, which Kelsier hoped would get Vin to remove [[Vin's earring\|her earring]].

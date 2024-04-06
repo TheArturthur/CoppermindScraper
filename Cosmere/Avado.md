@@ -1,9 +1,8 @@
 |**Avado**|
 |-|-|
 |**Profession**|Merchant|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Avado** is a non-Alethi merchant on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

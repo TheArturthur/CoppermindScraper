@@ -2,10 +2,9 @@
 |-|-|
 |**Capital**|[[Kholinar\|Kholinar]]|
 |**Ruler**|Highprince [[Adolin Kholin\|Adolin Kholin]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
 **Kholin princedom** is one of ten princedom's that form [[Alethkar\|Alethkar]].

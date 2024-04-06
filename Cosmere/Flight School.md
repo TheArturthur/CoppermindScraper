@@ -1,10 +1,9 @@
 |**Flight School**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
-|**Usage**|Training School of the [[DDF\|DDF]]🐱︎|
-|**World**|[[Detritus\|Detritus]]🐱︎|
+|**Usage**|Training School of the [[DDF\|DDF]]|
+|**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Flight School** is the training academy for [[DDF\|DDF]] pilots.
 

@@ -1,8 +1,7 @@
 |**JinDo**|
 |-|-|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **JinDo** is a nation on [[Sel\|Sel]]. It is located on the continent of [[Opelon\|Opelon]], and is part of the [[Fjordell Empire\|Fjordell Empire]]. It is bordered by [[Duladel\|Duladel]] to the north and [[Jaador\|Jaador]] to the east.
 The JinDo people have dark brown skin and fine features. [[Jaador\|Jaadorians]] are ethnically JinDo, while [[Dula\|Dula]] peoples are both of JinDo and Aonic heritage. The people of [[MaiPon\|MaiPon]], part of the [[Rose Empire\|Rose Empire]], are distantly related to the JinDo.

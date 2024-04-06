@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Psychiatrist|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Ivy** is one of [[Stephen Leeds\|Stephen Leeds']] earliest [[Aspect\|aspects]].
 She is in her early forties and has blonde hair. She is a psychiatrist, and appeared to generally do Stephen's thinking. She often makes connections and assumptions about people's characters and motives, and will feed Stephen lines during interrogations. Stephen often relies heavily on her advise and help, and when in Legion: Skin Deep she is not present to help him, he finds himself expecting her input. She is trypophobic, although she "mostly has it under control," and dislikes any swearing, even words such as 'damn' or 'hell.'

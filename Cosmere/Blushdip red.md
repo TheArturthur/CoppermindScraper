@@ -1,9 +1,8 @@
 |**Blushdip red**|
 |-|-|
 |**Type**|Dye|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*My family works in trading dyes, specifically blushdip red, from the snails that are common there, and callowfield yellow, made from tree bark.*”
 \-Vin about her false identity as Valette Renoux.[1]

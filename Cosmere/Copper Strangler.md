@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Serial Killer|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 The **Copper Strangler** is a serial killer that operates in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

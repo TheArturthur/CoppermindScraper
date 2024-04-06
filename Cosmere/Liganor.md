@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Potter|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Something's happening, Alalan. Something in the atrium. I don’t like it. I think I’ll close the shop today. Just in case.*”
 \-Liganor to Alalan[1]

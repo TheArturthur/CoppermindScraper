@@ -1,9 +1,8 @@
 |**Pieces**|
 |-|-|
 |**Type**|Game|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Pieces** is a guessing game played on [[Roshar\|Roshar]].
 

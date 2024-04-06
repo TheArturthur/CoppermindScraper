@@ -1,10 +1,9 @@
 |**Yeddaw**|
 |-|-|
 |by  Ben McSweeney |
-|**Nation**|[[Tashikk\|Tashikk]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Tashikk\|Tashikk]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*No, this was impressive. A majestic city cut out of the starvin' ground.*”
 \-Lift, when thinking about Yeddaw[1]

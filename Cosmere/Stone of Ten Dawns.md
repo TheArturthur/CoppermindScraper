@@ -1,9 +1,8 @@
 |**Stone of Ten Dawns**|
 |-|-|
 |**Type**|Legendary gemstone|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Stone of Ten Dawns** is a legendary [[Perfect gemstone\|perfect gemstone]] on [[Roshar\|Roshar]].
 According to [[Mraize\|Mraize]], during the days of the original [[Knights Radiant\|Radiants]] some [[Honorspren\|honorspren]]—who are known to covet perfect gemstones—believed the stories of the Stone of Ten Dawns and spent lifetimes hunting it. However, [[Kaladin\|Kaladin]] asked the [[Lightspren\|lightspren]] [[Ico\|Ico]] about the Stone of Ten Dawns during a discussion of the value of perfect gemstones in [[Shadesmar\|Shadesmar]], and Ico was not familiar with it.

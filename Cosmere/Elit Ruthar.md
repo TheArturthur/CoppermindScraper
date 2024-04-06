@@ -4,9 +4,8 @@
 |**Relatives**|[[Ruthar\|Ruthar]] , [[Jayla Ruthar\|Jayla]] , [[Relis Ruthar\|Relis]] |
 |**Abilities**|[[Shardbearer\|Shardbearer]] |
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*My cousin is planning to kill you for challenging me, right after he kills me for agreeing to the challenge. But when I stomp you into the sands and claim all of your family's Shards, I’ll be the rich one and he’ll be forgotten. Am I ready for our duel? I long for it, Adolin Kholin.*”
 \-Elit[1]
@@ -36,4 +35,4 @@ A few days later, Elit participated in the disadvantaged duel against Adolin alo
 
 
 
-https://coppermind.net/wiki/Elit_Ruthar
+https://coppermind.net/wiki/Elit

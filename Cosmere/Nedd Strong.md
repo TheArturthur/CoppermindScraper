@@ -5,18 +5,17 @@
 |**Siblings**|[[Vent (Skyward)\|Vent]], [[Nightstorm Seven\|Nightstorm Seven]]|
 |**Aliases**|Callsign: Nedder|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Fun is sitting at home, with your feet up, enjoying a mug of something warm. All of this is over my head.*”
 \-[3]
 
 
 **Nedd Strong** (callsign **Nedder**) is a member of the [[DDF\|DDF]] and a pilot in [[Skyward Flight\|Skyward Flight]]. He is flight assistant, along with Arturo to Jorgen. Although originally removed from the DDF flight program, Nedd is reinstated after the [[Battle of Alta Second\|Battle of Alta Second]], likely due to his heroics during the [[Varvax\|Krell]] assault.
-Nedd has two older brothers, both DDF pilots; [[Vent (Skyward)\|Nightstorm Six--Callsign: Vent]]--and [[Nightstorm Seven\|Nightstorm Seven]], and grew up living in [[Alta Base\|Alta Base]], where his parents keep the orchards. His family is well off, likely due to the risk associated with his parent's work, however, not as rich as some of the families in the [[Deep caverns\|lower caverns]]. Prior to flight school, Nedd went to school in the deep caverns, where he became good friends with Jorgen and Arturo.
+Nedd has two older brothers, both DDF pilots; [[Vent (Skyward)\|Nightstorm Six]] and [[Nightstorm Seven\|Nightstorm Seven]]. He grew up living in [[Alta Base\|Alta Base]], where his parents keep the orchards. His family is well off, likely due to the risk associated with his parent's work, however, not as rich as some of the families in the [[Deep caverns\|lower caverns]]. Prior to flight school, Nedd went to school in the deep caverns, where he became good friends with Jorgen and Arturo.
 
 ## Contents
 

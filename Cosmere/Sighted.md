@@ -1,10 +1,9 @@
 |**Sighted**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-The **Sighted** are [[Roshar\|Rosharans]] with the ability to see [[Spren\|spren]] that are otherwise partially or completely invisible in the [[Physical Realm\|Physical Realm]]. The few known Sighted are [[Unkalaki\|Unkalaki]], including [[Lunamor\|Lunamor]] and [[Cord\|Cord]]. The Unkalaki name for the Sighted is *alaii'iku*.
+The **Sighted** (Unkalaki: *alaii'iku*) are [[Roshar\|Rosharans]] with the ability to see [[Spren\|spren]] that are otherwise partially or completely invisible in the [[Physical Realm\|Physical Realm]]. The few known Sighted are [[Unkalaki\|Unkalaki]], including [[Lunamor\|Lunamor]] and [[Cord\|Cord]].
 
 ## Contents
 

@@ -1,9 +1,8 @@
 |**UrDail**|
 |-|-|
 |by  Bernardo Curvello |
-|**World**|[[ReDawn (planet)\|ReDawn]]🐱︎|
+|**World**|[[ReDawn (planet)\|ReDawn]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -38,7 +37,7 @@ Spensa eventually contacted the UrDail and explained the situation; though unhap
 ## Culture
 The UrDail make their home on [[ReDawn (planet)\|ReDawn]], though they have been exploring and exploiting space for several hundred years. They have a single overarching government, known as the **Council**, which is lead by the Council President. Members of the Council are elected in events known as **balancings**. The UrDail have two main political parties, **Unity** and **Independence**; each party is lead by a member known as its **High Chancellor**. The UrDail make use of [[Superiority\|Superiority's]] FTL technology, but are not themselves a member species, and seem deeply suspicious of them. They do, however, seem interested in pursuing citizenship, enough so to send their sole cytonic when a call for pilots goes up.
 Since the miasma that fills ReDawn’s atmosphere is toxic, the UrDail live in enormous island trees, up to 50 kilometers tall. These have atmosphere generators that make a pocket of breathable air. There are walls and railings on many branches to keep the UrDail from accidentally falling off. From a young age the UrDail are taught to not walk near the edge of the branches, lest they fall off and die. Falls are uncommon, and usually only occur do to equipment failures, such as a cord breaking while rubber-jumping.
-There are multiple cultures within the UrDail, and apparently at least a few native languages; the only known one is airy, but similar to English, though the two aren't mutually intelligible. The UrDail appear to be somewhat religious, and have a series of holy books named the **cadamique**, filled with numerous stories of the past.
+There are multiple cultures within the UrDail, and apparently at least a few native languages; the only known one is airy, but similar to English, though the two aren't mutually intelligible. Because of pre-spaceflight contact between Humans and UrDail, at least one UrDail language was preserved in *The Lord of the Rings*. The UrDail appear to be somewhat religious, and have a series of holy books named the **cadamique**, filled with numerous stories of the past.
 
 ## Known UrDail
 [[Alanik\|Alanik]]
@@ -47,4 +46,4 @@ There are multiple cultures within the UrDail, and apparently at least a few nat
 [[Nanalis\|Nanalis]]
 
 
-https://coppermind.net/wiki/UrDail
+https://coppermind.net/wiki/Independence

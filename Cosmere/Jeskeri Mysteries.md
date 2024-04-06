@@ -1,9 +1,8 @@
 |**Jeskeri Mysteries**|
 |-|-|
-|**Related to**|Jesker|
-|**World**|[[Sel\|Sel]]|
+|**Related to**|[[Jesker\|Jesker]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The **Jeskeri Mysteries** is a religious cult on [[Sel\|Sel]] which involves human sacrifice. It is an offshoot of [[Jesker\|Jesker]] which [[Galladon\|Galladon]] insists is a perversion of Jesker and scarcely related.
 Jesker ascribes importance to the heaven's movements, like the moon, and the followers of the Mysteries frequently hold rituals on nights of the full moon.

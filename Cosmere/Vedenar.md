@@ -2,10 +2,9 @@
 |-|-|
 |by  Isaac Stewart |
 |**Ruled by**|King [[Taravangian\|Taravangian]]|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 

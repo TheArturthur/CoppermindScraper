@@ -1,9 +1,8 @@
 |**Dru**|
 |-|-|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Dru** is a slender [[Alethi\|Alethi]] man on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 Dru worked in the district quartermaster's office. After the discovery of [[Urithiru\|Urithiru]], Dru relocated there along with most of the other Alethi from the warcamps on the [[Shattered Plains\|Shattered Plains]]. At some point he began seeing [[Drehy\|Drehy]], one of the men of [[Bridge Four\|Bridge Four]].

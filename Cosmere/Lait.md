@@ -1,9 +1,8 @@
 |**Lait**|
 |-|-|
 |by  Ben McSweeney |
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Laits** are areas of [[Roshar\|Roshar]] that are protected from [[Highstorm\|highstorms]] by rock cliffs or outcroppings.
 

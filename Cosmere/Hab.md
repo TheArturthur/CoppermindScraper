@@ -2,10 +2,9 @@
 |-|-|
 |**Died**|Ishi 1172|
 |**Profession**|Member of Kaladin's squad in Amaram's army|
-|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Hab** is a darkeyed soldier in [[Kaladin\|Kaladin's]] squad in Highmarshal [[Meridas Amaram\|Meridas Amaram's]] army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

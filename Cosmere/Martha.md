@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Factory supervisor|
 |**Residence**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 **Martha** is an employee of [[Havendark Factory\|Havendark Factory]] in [[Newcago\|Newcago]]. She oversees children used for labor to build weapons for [[Enforcement\|Enforcement]] at the Factory, including [[David Charleston\|David Charleston]] and [[Roy\|Roy]].
 

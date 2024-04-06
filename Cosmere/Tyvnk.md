@@ -1,10 +1,10 @@
 |**Tyvnk**|
 |-|-|
+|by  Marie Seeberger |
 |**Type**|Plant|
 |**Owner**|[[Rysn\|Rysn]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Rysn liked to pretend that her pot of Shin grass was not stupid, but merely contemplative.*”
 \-Rysn's thoughts on Tyvnk[1]

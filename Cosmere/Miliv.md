@@ -3,9 +3,8 @@
 |**Died**||
 |**Profession**|Head Steward|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Miliv** was Citylord [[Wistiow\|Wistiow's]] head steward in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 Miliv disliked [[Lirin\|Lirin]], the local surgeon from Hearthstone, for unknown reasons. [[Lirin\|Lirin's]] son, Kaladin, believed that many of the rumors about their family in Hearthstone were started by Miliv.

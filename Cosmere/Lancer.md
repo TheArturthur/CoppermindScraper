@@ -1,10 +1,10 @@
 |**Lancer**|
 |-|-|
 |**Type**|Greatshell|
+|**Sapient**|Yes|
 |**Native to**|[[Aimia\|Aimia]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **lanceryn** (singular: lancer) are a type of [[Greatshell\|greatshell]] native to [[Aimia\|Aimia]].
 The lanceryn were originally the **Ancient Guardians** or **Guardians of Ancient Sins**, tasked with the keeping of the [[Dawnshard\|Dawnshard]] underneath [[Akinah\|Akinah]]. Like all greatshells, the lanceryn were enormous. It is likely they could fly and bonded [[Mandra\|mandras]]. They, like the modern larkin, had the ability to feed on [[Investiture\|Investiture]]. At the fall of their species, the [[Sleepless\|Sleepless]] took over their role protecting the Dawnshard. Some hordelings had bred with lanceryn prior to their fall, thus passing on the ability to feed on Investiture, albeit in a limited manner.
@@ -13,4 +13,4 @@ In the undersea caverns of Aimia, there is a room containing six greatshell skul
 
 
 
-https://coppermind.net/wiki/Lanceryn
+https://coppermind.net/wiki/Lancer

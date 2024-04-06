@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Deputy lawman|
 |**Residence**|[[Weathering\|Weathering]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Barl** is one of [[Waxillium Ladrian\|Waxillium Ladrian's]] deputy lawkeepers in the [[Roughs\|Roughs]] on [[Scadrial\|Scadrial]].
 Barl, along with several other men and women, including [[Wayne\|Wayne]] and [[Lessie\|Lessie]] help Wax keep the peace in [[Weathering\|Weathering]] and the surrounding areas, most of the time. Despite his profession, he is something of a miscreant.

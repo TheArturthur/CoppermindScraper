@@ -1,8 +1,7 @@
 |**Cambric**|
 |-|-|
-|**World**|*Unknown*|
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 

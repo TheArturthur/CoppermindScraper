@@ -4,9 +4,8 @@
 |**Type**|Animal|
 |**Sapient**|Yes|
 |**Native to**|[[Aimia\|Aimia]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -33,7 +32,7 @@ During their lifespan a larkin bonds a particularly large kind of [[Luckspren\|l
 Larkin may have some sort of special connection to the [[Tai-na\|Tai-na]]; [[Vstim\|Vstim]] says that [[Chiri-Chiri\|Chiri-Chiri]] is given to [[Rysn\|Rysn]] by [[Relu-na\|Relu-na]] itself. According to [[Talik\|Talik]], a family of [[Reshi\|Reshi]] gods, the [[Na-Alind\|Na-Alind]], made an agreement to keep safe the few surviving larkin after Aimia fell.
 
 ### Feeding on Investiture
-The most outstanding feature of larkin is their ability to feed on [[Investiture\|Investiture]] (commonly [[Stormlight\|Stormlight]], as they originate from Roshar). This ability is related to both Leechers and [[Nightblood\|Nightblood]], although they can't hold as much Investiture as the latter. They can suck Stormlight out of [[Surgebinder\|Surgebinders]] and [[Shardplate\|Shardplate]] at will, causing the Light to stream visibly through the air and into the larkin's mouth. Larkin can also eat Stormlight that has been stored in gems and drain the [[Voidlight\|Voidlight]] from a [[Fused\|Fused]]. After absorbing a large amount of Stormlight from the [[King's Drop\|King's Drop]], Chiri-Chiri becomes noticeably bigger. Since larkin feed on Investiture, they are incapable of pushing it *into* people. Larkin cannot feed on the Investiture of a person clad in [[Aluminum\|aluminum]] or [[Shardplate\|Shardplate]], though they can feed on the Shardplate itself.
+The most outstanding feature of larkin is their ability to feed on [[Investiture\|Investiture]] (commonly [[Stormlight\|Stormlight]], as they originate from Roshar). This ability is related to both Leechers and [[Nightblood\|Nightblood]], although they can't hold as much Investiture as the latter. They can suck Stormlight out of [[Surgebinder\|Surgebinders]] and [[Shardplate\|Shardplate]] at will, causing the Light to stream visibly through the air and into the larkin's mouth. Larkin can also eat Stormlight that has been stored in gems and drain the [[Voidlight\|Voidlight]] from a [[Fused\|Fused]]. After absorbing a large amount of Stormlight from the [[King's Drop\|King's Drop]], Chiri-Chiri becomes noticeably bigger. Since larkin feed on Investiture, they are incapable of pushing it *into* people. Larkin cannot feed on the Investiture of a person clad in [[Aluminum\|aluminum]] or [[Shardplate\|Shardplate]], though they can feed on the investiture powering the Shardplate itself.
 A larkin would be able to prevent someone from becoming [[Returned\|Returned]] by ingesting the [[Divine Breath\|Divine Breath]] as it attempted to enter the person. Larkin could also kill a Returned by feeding on all of their Investiture.
 
 ## History
@@ -48,7 +47,8 @@ Rysn is given a live larkin by Relu-na. She names it [[Chiri-Chiri\|Chiri-Chiri]
 [[Kaza\|Kaza]] briefly encounters a creature that fits the description of a larkin in its native Aimia.
 ## Trivia
 [[Brandon Sanderson\|Brandon Sanderson]] and [[Isaac Stewart\|Isaac Stewart]] sometimes refer to them as "dragon bugs".
-The Sleepless have crossbred their hordlings with larkin in able to gain the ability to drain Investiture.
+The Sleepless have crossbred their hordelings with larkin in order to gain the ability to drain Investiture.
+The Sleepless know of three larkin that have survived.
 
 
 https://coppermind.net/wiki/Larkin

@@ -1,7 +1,7 @@
 |**Sandra**|
 |-|-|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Abilities**|[[Aspect\|Aspects]]|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Sandra** is an old acquaintance of [[Stephen Leeds\|Stephen Leeds]].
 

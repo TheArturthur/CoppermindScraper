@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Spren|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Edgedancers\|Edgedancer]] magic, [[Splinter\|Splinter]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -36,16 +35,16 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 ## Appearance
 ### Physical Realm
-In the [[Physical Realm\|Physical Realm]], cultivationspren take the form of a vine that grows rapidly. This vine appears to be speckled with smooth flecks of quartz, but it does not glow with Stormlight. They can form the appearance of face by curling vines around one another. After a time, the vine trail they leave behind solidifies, becoming like crystal before crumbling into dust.
+In the [[Physical Realm\|Physical Realm]], cultivationspren take the form of a vine that grows rapidly. This vine appears to be speckled with smooth flecks of quartz, but it does not glow with Stormlight. They can form the appearance of a face by curling vines around one another. After a time, the vine trail they leave behind solidifies, becoming like crystal before crumbling into dust.
 
 ### Cognitive Realm
-In the [[Cognitive Realm\|Cognitive Realm]], cultivationspren are, like other sapient spren, humanoid. They appear to be composed mostly of vines, and their faces look as though they are composed of green string. Their hands, eyes, and teeth made of crystal, though their hands are still as flexible as flesh.
+In the [[Cognitive Realm\|Cognitive Realm]], cultivationspren are, like other sapient spren, humanoid. They appear to be composed mostly of vines, and their faces look as though they are composed of green string. Their hands, eyes, and teeth are made of crystal, though their hands are still as flexible as flesh.
 They all wear clothing, which doesn't seem to necessarily be part of their essence -- one female cultivationspren was spotted wearing a vorin [[Havah\|havah]].
-A [[Deadeye\|deadeye]] cultivationspren looks similarly to a living one, albeit dried out. Rather than vines, their bodies look as though made of ashen brown cords thin as hair, giving the appearance of rough cloth or a cluster of brown vines. They also have long nails.
+A [[Deadeye\|deadeye]] cultivationspren looks similar to a living one, albeit dried out. Rather than vines, their bodies look as though made of ashen brown cords thin as hair, giving the appearance of rough cloth or a cluster of brown vines. They also have long nails.
 
 ## Abilities
 Out of all spren, cultivationspren are the best at manifesting souls from beads in Shadesmar. For this reason, they often work creating gardens for other spren. Rather than plants, cultivationspren gardeners create elaborate structures out of objects such as chairs.
-In the Physical Realm, cultivationspren are invisible to all but their Surgebinder, although the remnants of their vines disintegrating can be seen. They can also not be heard by others as well.
+In the Physical Realm, cultivationspren are invisible and unheard to all but their Surgebinder when they wish to be, although the remnants of their vines disintegrating can be seen.
 
 ### Nahel bond
 Cultivationspren can form [[Nahel bond\|Nahel bonds]] with humans. Through this, they can grant the [[Surgebinding\|Surgebinding]] abilities of [[Abrasion\|Abrasion]] and [[Progression\|Progression]]. Like other Radiant spren, they lose their memories upon entering the [[Physical Realm\|Physical Realm]], although it seems as though the [[Ring\|Ring]] has some ability to lessen this effect by careful preparation.

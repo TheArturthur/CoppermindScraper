@@ -1,9 +1,8 @@
 |**Tower of Nebrask**|
 |-|-|
-|**State**|[[Nebrask\|Nebrask]]🐱︎|
-|**Nation**|[[United Isles of America\|United Isles of America]]🐱︎|
+|**State**|[[Nebrask\|Nebrask]]|
+|**Nation**|[[United Isles of America\|United Isles of America]]|
 |**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
 
 The **Tower of Nebrask** is a structure on the isle of [[Nebrask\|Nebrask]] in the [[United Isles of America\|United Isles of America]]. It is a portal to the world of wild chalklings, and has many [[Rithmatics\|Rithmatic]] oddities.
 

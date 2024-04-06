@@ -1,10 +1,9 @@
 |**Highprince of Commerce**|
 |-|-|
-|**Related to**|[[Alethkar\|Alethkar]], Alethi culture, [[Highprince\|Highprince]]🐱︎|
+|**Related to**|[[Alethkar\|Alethkar]], Alethi culture, [[Highprince\|Highprince]]|
 |**Type**|Title|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 >“*Life doesn’t stop for a war, child. Everyone will still need new shoes, baskets, clothing, wine.*”
 \-Sebarial to Shallan[1]

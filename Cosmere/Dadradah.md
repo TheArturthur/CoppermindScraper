@@ -1,10 +1,9 @@
 |**Dadradah**|
 |-|-|
 |**Type**|Religion|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“* They thought art drew one closer to God, they were most interested in color and hue, and they were fond of writing poetry describing the colors they saw in the world around them.*”
 \- Sazed preaching to Clubs[1]

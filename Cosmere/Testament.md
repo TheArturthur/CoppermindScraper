@@ -3,9 +3,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Shallan\|Shallan]]|
 |**Species**|[[Cryptic\|Cryptic]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 **Testament** is a [[Deadeye\|deadeye]] [[Cryptic\|Cryptic]] on [[Roshar\|Roshar]] who is bonded with [[Shallan Davar\|Shallan Davar]].
 

@@ -1,7 +1,6 @@
 |**Snapshot (event)**|
 |-|-|
-|**World**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
-|**Featured In**|*Snapshot*|
+|**World of Origin**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
 
 This article is about the construct itself. For the novella of the same name, see [[Snapshot\|Snapshot]].
 A **Snapshot** is an exact re-creation of a specific day in the past but must be made within a few weeks of the day being recreated. Everything down to a molecule is the same as the day being re-created. Snapshots are made up of raw matter and energy in the system and anything left in the system will be recycled into the system for use in the next Snapshots.
@@ -30,4 +29,4 @@ Films about detectives investigating in a Snapshot are popular in the Restored A
 Brandon's initial premise was that an [[Epic\|Epic]] could create them, but because of conflicts with film rights, Snapshot is not in the Reckoners universe "right now."
 
 
-https://coppermind.net/wiki/Snapshot_(event)
+https://coppermind.net/wiki/Dupe

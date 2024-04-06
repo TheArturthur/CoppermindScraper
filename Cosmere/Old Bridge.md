@@ -1,10 +1,9 @@
 |**Old Bridge**|
 |-|-|
 |**Usage**|Bridge|
-|**Region**|[[Forests of Hell\|The Forests of Hell]]🐱︎|
-|**World**|[[Threnody\|Threnody]]🐱︎|
+|**Region**|[[Forests of Hell\|The Forests of Hell]]|
+|**World**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Old Bridge** is a bridge passing over a chasm in the [[Forests of Hell\|Forests of Hell]] on [[Threnody\|Threnody]].
 

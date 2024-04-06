@@ -1,9 +1,8 @@
 |**Herald**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -74,22 +73,22 @@ Eventually, the pattern of continuous resurrections and torture led to the Heral
 
 
 For the next four and a half thousand years, Taln remained on Braize, being tortured by the voidspren to make him break and allow them to return. At the same time, the nine living Heralds went on to live among the people of Roshar, hiding their true nature. The only one to recover his [[Honorblade\|Honorblade]] was [[Nale\|Nale]], who also remained in touch with the [[Order of Skybreakers\|Order of Skybreakers]], eventually joining them and becoming their leader.
-Over time, the mental state of the Heralds deteriorated. Nale grew compassionless; [[Kalak\|Kalak]] became paranoid; [[Jezrien\|Jezrien]] started to drink heavily; [[Shalash\|Shalash]] began to track down and destroy her own artwork. While Shalash and Nale both believed that Ishar remained unaffected, he, too, went mad. He took over the country of [[Tukar\|Tukar]], becoming its god-priest, and started to swing wildly between megalomania and the desire to end his own existence. When Nale came to him with questions about the possibility of a new Desolation arriving, Ishar told him that the return of [[Knights Radiant\|Knights Radiant]] could prompt it, causing Nale to travel the world killing any potential Surgebinders. At some point, perhaps in pursuit of this goal, he and Kalak found themselves in the [[Kholinar palace\|Kholinar palace]] on the night of king [[Gavilar\|Gavilar's]] assassination.
+Over time, the mental state of the Heralds deteriorated, due to a combination of their ages, trauma, and possibly other factors. Nale grew compassionless; [[Kalak\|Kalak]] became paranoid; [[Jezrien\|Jezrien]] started to drink heavily; [[Shalash\|Shalash]] began to track down and destroy her own artwork. While Shalash and Nale both believed that Ishar remained unaffected, he, too, went mad. He took over the country of [[Tukar\|Tukar]], becoming its god-priest, and started to swing wildly between megalomania and the desire to end his own existence. When Nale came to him with questions about the possibility of a new Desolation arriving, Ishar told him that the return of [[Knights Radiant\|Knights Radiant]] could prompt it, causing Nale to travel the world killing any potential Surgebinders. At some point, perhaps in pursuit of this goal, he and Kalak found themselves in the [[Kholinar palace\|Kholinar palace]] on the night of king [[Gavilar\|Gavilar's]] assassination.
 
 ### True Desolation
  by  Neirr  [[Taln\|Taln]] announcing the [[True Desolation\|True Desolation]]
 >“*The burdens of nine become mine. Why must I carry the madness of them all? Oh, Almighty, release me.*”
-\-A death rattle collected by the Diagram.[28] It's possible it refers to Taln.
+\-A death rattle collected by the Diagram.[29] It's possible it refers to Taln.
 
 
-Sometime around the year 1173, Taln was finally returned to Roshar to proclaim a new Desolation, although he did not break. He was initially disbelieved by Rosharans, who assumed him to be some random madman, which was further confirmed, in their eyes, by his deranged, near-catatonic behavior. Some of the Heralds, such as Nale, initially refused to believe a new Desolation has arrived, though he was convinced upon seeing the awakening of the [[Parshmen\|Parshmen]].
+Sometime around the year 1173, Taln was finally returned to Roshar to proclaim a new Desolation, although he did not break. He was initially disbelieved by Rosharans, who assumed him to be some random madman, which was further confirmed, in their eyes, by his deranged, near-catatonic behavior. Some of the Heralds, such as Nale, initially refused to believe a new Desolation had arrived, though he was convinced upon seeing the awakening of the [[Parshmen\|Parshmen]].
 When [[Dalinar Kholin\|Dalinar Kholin]] sought to bring Tukar into his alliance, Ishar refused him, claiming that instead, it was Dalinar's forces who should bow down to him, and give [[Urithiru\|Urithiru]] over to him, which was met with no answer. At the same time, Shalash was searching for Taln, aware that, if the Desolation has returned, so had he. She was eventually pointed on the right track by [[Mraize\|Mraize]].
 Ash and Taln met again during the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. After surviving the fighting, Shalash attempted to bring Taln with her to Ishar, but the two were intercepted by [[Jasnah Kholin\|Jasnah Kholin]] before they could make it to the Oathgates. At the same time, Jezrien, hiding as a drunkard in the captured [[Kholinar\|Kholinar]], was killed by [[Moash\|Moash]] in a way that made him permanently incapable of returning. The shock of it sent Taln and Shalash unconscious.
 
 ## Abilities
  by  Howard Lyon  [[Jezrien\|Jezrien]]
 >“*The Heralds glow like the sun, wield the Honorblades, and speak with the voices of a thousand trumpets. They could cast down buildings with a command, force the storms to obey, and heal with a touch.*”
-\-Shallan's recollection on what she was taught about the Heralds.[33]
+\-Shallan's recollection on what she was taught about the Heralds.[34]
 
 
 ### Resurrection
@@ -100,6 +99,7 @@ On the other hand, their nature as Cognitive Shadows ties the Heralds to Roshar 
 ### Surgebinding
 Each Herald wields an [[Honorblade\|Honorblade]], a sword similar in function to a [[Shardblade\|Shardblade]], albeit far more powerful. Honorblades can be bonded like regular Shardblades, and are similarly sharp, but unlike Shardblades, they allow their wielders to utilize two [[Surge\|Surges]] each. As such, while wielding their Blades, each of the Heralds is a [[Surgebinder\|Surgebinder]]. While they each have an Honorblade assigned to them, in the past, they would occasionally swap their Honorblades between each other, allowing them to use the Surges of others.
 [[Spren\|Spren]] would later copy the Heralds' [[Surgebinding\|Surgebinding]], thus creating the [[Knights Radiant\|Knights Radiant]], with each order matching the powers of one of the Heralds. The Radiants have some powers that the Heralds lack -- for example, the Heralds did not have [[Squire\|squires]]. However, unlike the Knights, the Heralds were powered directly by [[Honor\|Honor]], and had access to raw levels of Investiture that no Radiant could possibly match. Additionally, they didn't need to draw Stormlight from gems, which implies they could get it directly from their bond with Honor. This ability appears to be inherent to the Heralds and not tied to their Honorblades as it is not replicable by other users. How this manifests after Honor's death and Splintering is unknown.
+Heralds can also gain Surgebinding by forming a [[Nahel bond\|Nahel bond]]. It is unclear whether their spren would follow them to Braize or would be left in the Cognitive Realm, though most likely they would follow them.
 
 ### Other
 Apart from the Surges, Heralds get a number of other advantages, although what precisely they are is uncertain. It's possible that those include superhuman speed and reflexes. However, they are also said to have no innate powers, suggesting that whatever they can do is the result of either their connection to Honor or their own experience. Although not all the Heralds were originally soldiers, they have mastered their fighting skills throughout the ages, and are now capable of fighting multiple Shardbearers with ease. Moreover, each Herald had their own field of expertise, such as leadership, medicine or smithing, and the knowledge of how to teach those skills to others. Heralds are able to procreate, though not necessarily in the traditional way.
@@ -181,25 +181,7 @@ Illustrations
 
 
 
- [[Vedel\|Vedel]]
-
-
-
-
-
- [[Shalash\|Shalash]]
-
-
-
-
-
- [[Ishar\|Ishar]]
-
-
-
-
-
- [[Talenel\|Talenel]]
+ [[Nale\|Nale]]
 
 
 
@@ -211,7 +193,19 @@ Illustrations
 
 
 
- [[Nale\|Nale]]
+ [[Vedel\|Vedel]]
+
+
+
+
+
+ [[Pailiah\|Pailiah]]
+
+
+
+
+
+ [[Shalash\|Shalash]]
 
 
 
@@ -223,7 +217,13 @@ Illustrations
 
 
 
- [[Pailiah\|Pailiah]]
+ [[Talenel\|Talenel]]
+
+
+
+
+
+ [[Ishar\|Ishar]]
 
 
 
@@ -244,6 +244,7 @@ The portraits of the Heralds used in chapter arches each have their own title in
 [[Ishar\|Ishar]], the Priest
 The final chapter arch is known as the Jester and is associated not with a Herald, but with [[Wit\|Wit]]
 
+The Heralds are some of the oldest beings in the cosmere, apart from [[Hoid\|Hoid]], the original [[Shard of Adonalsium\|Vessels]], and some of the [[Dragon (cosmere)\|dragons]].
 
 
-https://coppermind.net/wiki/Kadasix
+https://coppermind.net/wiki/Herald

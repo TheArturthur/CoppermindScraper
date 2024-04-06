@@ -2,17 +2,16 @@
 |-|-|
 |by  Eryck Tait |
 |**Related to**|[[Odium\|Odium]]|
-|**Type**|Weather phenomenon|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Type**|Invested weather phenomenon|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|Cosmere|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“* They call for a storm. My opposite. Deadly. *”
 \-The Stormfather to Dalinar during the Battle of Narak.[1]
 
-The **Everstorm** is a powerful weather pattern on [[Roshar\|Roshar]] similar to a [[Highstorm\|highstorm]], but one that circles the world in the opposite direction. It was summoned by [[Stormform\|stormform]] [[Listener\|listeners]] during the [[Battle of Narak\|Battle of Narak]] at the end of the [[War of Reckoning\|War of Reckoning]]. The period in which it passes over a given area is sometimes referred to as the **Evernight**.
+The **Everstorm** (Alethi:   romanization: *Kalazeras*, lit. *Eternal Storm*) is a powerful weather pattern on [[Roshar\|Roshar]] similar to a [[Highstorm\|highstorm]], but one that circles the world in the opposite direction. It was summoned by [[Stormform\|stormform]] [[Listener\|listeners]] during the [[Battle of Narak\|Battle of Narak]] at the end of the [[War of Reckoning\|War of Reckoning]]. The period in which it passes over a given area is sometimes referred to as the **Evernight**.
 
 ## Contents
 
@@ -40,7 +39,7 @@ Just what commands the Everstorm is uncertain. [[Pattern\|Pattern]] suggests it'
 
 ### Frequency
 For more details and supporting calculations, see [[Everstorm/Timeline\|/Timeline]].
-The Everstorm moves somewhat slower than a highstorm, roughly 120 miles per hour. It takes roughly nine days to circle the entire globe, three of which it spends crossing the Rosharan continent. Its time of arrival does fluctuate slightly, and precise predictions can be inaccurate. Fortunately, its high visibility and lower speed give the people of Roshar plenty of time to seek shelter. It is not yet clear whether the Everstorm's frequency is affected by the time of the year or other variables.
+The Everstorm travels at roughly 120 miles per hour, about a third the speed of a [[Highstorm\|Highstorm]]. It takes roughly nine days to circle the entire globe, three of which it spends crossing the Rosharan continent. Its time of arrival does fluctuate slightly, and precise predictions can be inaccurate. Fortunately, its high visibility and lower speed give the people of Roshar plenty of time to seek shelter. It is not yet clear whether the Everstorm's frequency is affected by the time of the year or other variables.
 Odium is capable of altering the Everstorm's speed as he desires. He can accelerate it, pushing it to go around the planet in as little as five days. He can also bring it to a full stop and hold it stationary for hours. The one time the Everstorm was stopped like this, it eventually dissipated, but later returned to round the planet in its usual pattern.
 
 ## Influence and Magic
@@ -52,7 +51,7 @@ Finally, the Everstorm releases any [[Parshmen\|parshmen]] who come into contact
 
 ## History
 >“* The Everstorm. It is a new thing, but old of design. *”
-\-The Stormfather[2]
+\-The Stormfather[3]
 
 ### Predictions
 The Everstorm did not exist prior to the [[True Desolation\|True Desolation]], although the underlying mechanisms were already in place. Its arrival was, however, predicted multiple times by the end of the [[Era of Solitude\|Era of Solitude]], both in numerous [[Death Rattle\|Death Rattles]] and in [[Dalinar's visions\|Dalinar's visions]]. On most occasions, it was listed alongside with the True Desolation and the Night of Sorrows. [[Renarin\|Renarin]] likewise had numerous visions about the Everstorm's arrival, though without its name, complete with a precise countdown to its coming.

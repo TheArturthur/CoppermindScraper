@@ -7,21 +7,23 @@
 This article is about the novella. For the construct itself that is the setting of the novella, see [[Snapshot (event)\|Snapshot (event)]].
 *Snapshot* is a non-[[Cosmere\|cosmere]] science fiction novella by Brandon Sanderson.
 
+## Contents
+
+1 Synopsis
+2 Summary
+3 Development
+4 Publication History
+5 Cover Gallery
+6 Trivia
+7 Notes
+
+
+## Synopsis
 >“*If you could re-create a day, what dark secrets would you uncover?*
 \-From New York Times number-one best-selling author Brandon Sanderson comes a detective thriller in a police beat like no other.
 Anthony Davis and his partner, Chaz, are the only real people in a city of 20 million, sent there by court order to find out what happened in the real world 10 days ago so that hidden evidence can be brought to light and located in the real city today.
 Within the re-created Snapshot of May 1, Davis and Chaz are the ultimate authorities. Flashing their badges will get them past any obstruction and overrule any civil right of the dupes around them. But the crimes the detectives are sent to investigate seem like drudgery - until they stumble upon the grisly results of a mass killing that the precinct headquarters orders them not to investigate. That's one order they have to refuse.
 The hunt is on. And though the dupes in the replica city have no future once the Snapshot is turned off, that doesn't mean that both Davis and Chaz will walk out of it alive tonight.
-
-
-## Contents
-
-1 Summary
-2 Development
-3 Publication History
-4 Cover Art Gallery
-5 Trivia
-6 Notes
 
 
 ## Summary
@@ -37,7 +39,7 @@ The initial draft of *Snapshot* was written during March 2016 during a trip to D
 
 ## Publication History
 
-## Cover Art Gallery
+## Cover Gallery
 For a cover gallery of Snapshot, see [[Snapshot/Covers\|/Covers]].
 ## Trivia
 *Snapshot* was originally set in a Core Possibility in the universe of [[The Reckoners\|The Reckoners]], but [[Brandon\|Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.

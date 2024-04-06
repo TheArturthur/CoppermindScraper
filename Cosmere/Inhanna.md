@@ -3,9 +3,8 @@
 |**Profession**|High Priestess|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Inhanna** is the high priestess of the [[Returned\|Returned]] known as [[Blushweaver\|Blushweaver]] on [[Nalthis\|Nalthis]].
 

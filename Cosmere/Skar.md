@@ -2,11 +2,11 @@
 |-|-|
 |by  Shuravf |
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ [[Bridge Four\|Bridge Four]]🐱︎, Sadeas army , Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Skar** is a member of [[Bridge Four\|Bridge Four]] and is company second for the [[Order of Windrunners\|Order of Windrunners]] on [[Roshar\|Roshar]].
 
@@ -59,7 +59,8 @@ After the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Kaladin traveled
 Skar married [[Ristina\|Ristina]], a scribe, and Bridge Four was present at the wedding. He was a part of the expedition to [[Hearthstone\|Hearthstone]] on the [[Fourth Bridge\|Fourth Bridge]] and fought the [[Heavenly Ones\|Heavenly Ones]] there along with other Windrunners. Skar volunteered to accompany Rock and his family on their return to the Horneater Peaks, and left about four weeks before Kaladin began working as a surgeon. He was promoted to the role of company second once Kaladin stepped down - this job's responsibilities included overseeing and leading the Windrunners on missions. Once they returned to the Shattered Plains, Skar and Drehy gave Kaladin the news that Rock wouldn't be coming back. Skar returned to Urithiru after the singer occupation ended and was present at Teft's funeral, along with all remaining members of Bridge Four.
 
 ## Trivia
-Skar is a cameo of a good friend of Brandon's named [[Ethan Skarstedt\|Ethan Skarstedt]], who has a military background.
+Skar is a cameo of a good friend of Brandon named [[Ethan Skarstedt\|Ethan Skarstedt]], who has a military background.
+He is planned to play a major role in the Lunamor Novella
 
 
 https://coppermind.net/wiki/Skar

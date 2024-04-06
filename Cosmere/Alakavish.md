@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|*Unknown*|
 |**Abilities**|[[Surgebinder\|Surgebinder]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Our own natures destroy us. Alakavish was a Surgebinder. He should have known better. And yet, the Nahel bond gave him no more wisdom than a regular man.*”
 \-Nohadon on Alakavish and the Nahel bond[1]

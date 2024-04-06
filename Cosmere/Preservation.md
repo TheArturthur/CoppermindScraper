@@ -9,7 +9,6 @@
 |**Magics**|[[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]]|
 |**Residence**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*The infinity of a note held perfectly, never wavering. The majesty of a painting, frozen and still, capturing a slice of life from a time gone by. It was the power of many, many moments compressed somehow into one.*”
 \-Kelsier[2]
@@ -106,6 +105,7 @@ A thousand years later, after [[Kelsier\|Kelsier]] was killed by [[Rashek\|Rashe
 Both Preservation and Ruin picked [[Vin\|Vin]] as one of its unwitting agents many centuries prior, though Ruin attempted to stifle Preservation's influence by piercing child Vin with a [[Hemalurgic\|Hemalurgic]] spike at birth. The first sign of [[Vin\|Vin's]] connection to Preservation was when she attempted to fight the Lord Ruler and drew on the mist to fuel her [[Allomancy\|Allomancy]]. A year later, she began to hear the beat of the Well as it called for someone to once more take up the power. At the time, Preservation's mist spirit began to appear to her on multiple occasions as Leras was looking for a way to stop her from releasing the power.
 Ultimately, Vin and [[Elend\|Elend]] found themselves at the Well of Ascension, where, unseen to them, Kelsier's spirit had just learned of the danger in releasing the power. In a last bid to stop Vin from freeing Ruin, Kelsier grabbed Leras by the arm and forced him to slash [[Elend\|Elend]], dealing him a deadly stomach wound. However, this was for naught, as Vin elected to release the power anyway out of a sense of duty. To prevent Elend's death, Leras led Vin to the last remaining bead of [[Lerasium\|lerasium]], making him a Mistborn.
 
+ by  The death of Leras
 ### The death of Leras
 >“*Odd. After all these years appearing for others as they died, I never expected . . . that my own passing would be so cold and lonely. . . .*”
 \-Leras[43]
@@ -115,6 +115,7 @@ Following Ruin's release, Kelsier was once more able to move freely about Scadri
 At the same time, Leras was rapidly dying. As the mist spirit, he appeared one last time to [[Elend\|Elend]] as the latter was almost ready to give up when escorting a large group of captured koloss back to [[Fadrex City\|Fadrex City]]. By this time, Preservation was too weak to perform any significant actions and could only vaguely communicate with Elend, attempting to convince him not to besiege Fadrex. Shortly after Elend departed, Leras died, and his body fell back into the [[Physical Realm\|Physical Realm]].
 
 ### Kelsier
+For the history of Kelsier prior to becoming Preservation, see Kelsier#History.
 >“*Do you know why I always won at card tricks, Ruin? It's because I could always. Force. People to choose. The card I wanted them to.*”
 \-Kelsier[48]
 
@@ -124,6 +125,7 @@ The message was not, however, meant for Vin -- rather, it was meant for [[Marsh\
 
  by  Hunter Bonyun  Vin empowering Elend
 ### Vin
+For the history of Vin prior to becoming Preservation, see Vin#History.
 >“*You created the thing that can kill you, Ruin.*”
 \-Vin[51]
 
@@ -132,6 +134,7 @@ Initially, Vin was using Preservation's power with little skill, much like Rashe
 At the [[Battle of Hathsin\|Battle of Hathsin]], as Marsh and Elend fought, Vin fuelled Elend's Allomancy to allow him to keep up. During the fight, he burned [[Atium\|atium]] with [[Duralumin\|duralumin]], which allowed him to perceive all of Preservation's plan. Now aware of what had to be done, Elend let Marsh kill him. Vin, now with her last reason to live gone, likewise realized why she held the power. As someone new to it, she was able to use it in destructive ways, as it has not yet warped her mind to its intent. She rammed into Ruin with the whole of her power, killing them both.
 
 ### Sazed
+For the history of Sazed prior to becoming Preservation, see Sazed#History.
 >“*I am, unfortunately, the Hero of Ages .*”
 \-Sazed[53]
 
@@ -151,7 +154,7 @@ Preservation is the author of the [[Terris Prophecies\|Terris Prophecies]], a se
 
 ## Trivia
 The Southern name for Preservation, Frue, is the Danish word meaning "lady" or "Mrs", and is close to German Frau ("Miss"), matching the name for Ruin, Herr (German for "Mister").
-In *Magic:The Gathering* colors, Preservation would be white.
+In *Magic: The Gathering* colors, Preservation would be white.
 
 
 https://coppermind.net/wiki/Preservation

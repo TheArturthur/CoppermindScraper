@@ -1,8 +1,7 @@
 |**Black sphere**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 [[Gavilar Kholin\|Gavilar Kholin]], the former king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] and a member of the [[Sons of Honor\|Sons of Honor]], possessed a collection of unusual spheres. Notably, he had several **black spheres** that glowed with a dark violet light.
 

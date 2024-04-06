@@ -2,10 +2,11 @@
 |-|-|
 |by  Isaac Stewart |
 |**Capital**|[[Elendel\|Elendel]]|
-|**Era**|Post-Catacendre|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Era**|[[Post-Catacendre\|Post-Catacendre]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Elendel Basin** is a lush, fertile basin created by [[Harmony\|Harmony]] when he reshaped [[Scadrial\|Scadrial]] as part of the [[Catacendre\|Catacendre]]. It was purposefully designed to allow civilization to build itself back up over just a couple of generations. It is named after [[Elend\|Elend]].
 

@@ -4,9 +4,8 @@
 |**Function**|[[Hemalurgy\|Hemalurgic]] spike |
 |**Creators**|[[Vin's mother\|Vin's mother]], [[Vin's sister\|Vin's sister]]|
 |**Owner**|[[Vin\|Vin]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Reen said that he came home one day and found my mother covered in blood. She'd killed my baby sister. Messily. Me, however, she hadn’t touched—except to give me an earring.*”
 \-Vin explaining how she got the earring to Marsh[2]

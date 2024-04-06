@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Squadleader|
 |**Groups**|Amaram's army|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Well then, maybe I don't like how everyone does what you tell them. I don’t care how good you are with a spear. My squad is my own.*”
 \-Gare to Kaladin[1]

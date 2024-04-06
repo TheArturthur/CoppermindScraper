@@ -4,9 +4,8 @@
 |**Groups**|[[Camon's crew\|Camon's crew]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Disten** is a member of [[Camon\|Camon's]] [[Camon's crew\|thieving crew]] in [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]]. He serves as a head pointman for the crew. He is missing one hand, but is considered to have very keen senses.
 

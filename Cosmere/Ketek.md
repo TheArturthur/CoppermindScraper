@@ -1,9 +1,8 @@
 |**Ketek**|
 |-|-|
-|**Related to**|Vorinism|
-|**World**|[[Roshar\|Roshar]]|
+|**Related to**|[[Vorinism\|Vorinism]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **ketek** is a form of holy [[Vorin\|Vorin]] poetry which reads the same forward and backward (allowing for changes in verb form), and is also divisible into five sections, each of which also expresses a complete thought. The full poem should be grammatically correct and have a poignant meaning. [[Vorin\|Vorin]] poets tend to weight the middle word and build the poem around it. [[Singer\|Singer]] poets, the only currently known one being [[El\|El]], weight the poem differently. El intentionally made the last line longer than the rest.
 Keteks are a part of multiple Vorin ceremonies. Keteks are written by the female loved ones of the deceased for funerals. Other keteks are traditionally used in funerals. Both kinds of keteks are spoken aloud before being burned by [[Ardent\|Ardents]] as prayers. Keteks are also given to a bride on her wedding day after her makeup is finished.
@@ -29,9 +28,8 @@ Keteks are a part of multiple Vorin ceremonies. Keteks are written by the female
 \-A ketek written by Jasnah Kholin for Shallan Davar's wedding celebration[7]
 
 
->“*Burdens, Our Calling.*
-\-Songs of Home, a knowledge:
-Knowing a Home of Songs, called our burden.
+>“*Burdens, Our Calling. Songs of Home, a knowledge: Knowing a Home of Songs, called our burden.*”
+\-Ketek written by El, Fused scholar of human art forms, to commemorate the restoration of the Sibling[2]
 
 
 
@@ -51,8 +49,8 @@ A ketek by [[Jasnah\|Jasnah]] written in the [[Women's script\|women's script]]
 
 
 ## Trivia
-The Part titles for books in *The Stormlight Archive* form keteks.
-
+The Part titles for books in [[The Stormlight Archive\|The Stormlight Archive]] form keteks.
+The abbreviated titles of the Stormlight Era 1 books form a ketek like structure but are not a ketek: "TWoK, WoR, O, RoW, KoWT"
 
 
 https://coppermind.net/wiki/Ketek

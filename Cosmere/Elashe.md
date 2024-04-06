@@ -5,9 +5,8 @@
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Elashe** is a historic [[Aonic\|Aonic]] princess on [[Sel\|Sel]].
 She was a descendant of [[Raoshem\|Raoshem]], the first king of [[Arelon\|Arelon]]. A few decades after Arelon was founded, people began to be taken by the [[Shaod\|Shaod]] and becoming [[Elantrian\|Elantrians]]. Elashe was among the first to be taken, and the first of Raoshem's line.

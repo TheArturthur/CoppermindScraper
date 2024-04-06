@@ -2,8 +2,7 @@
 |-|-|
 |**Type**|Magical police badge|
 |**Function**|Reveals to dupes that they're in a [[Snapshot (event)\|Snapshot]]|
-|**World**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
-|**Featured In**|*Snapshot*|
+|**World of Origin**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
 
 A **reality badge** is a badge used by police officers when investigating in a [[Snapshot (event)\|Snapshot]]. These badges instantly convince dupes that they are fake, allowing the investigating officers to go about their business. To anyone real, it just looks like a normal badge.
 

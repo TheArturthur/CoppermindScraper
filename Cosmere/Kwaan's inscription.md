@@ -3,13 +3,12 @@
 |**Type**|Message|
 |**Author**|[[Kwaan\|Kwaan]]|
 |**Language**|[[Terris\|Terris]] (old dialect)|
-|**Created in**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Created in**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Kwaan's inscription** is a message written in [[Steel\|steel]] by [[Kwaan\|Kwaan]], warning about [[Ruin\|Ruin's]] corruption of the [[Terris prophecies\|Terris prophecies]] and denouncing [[Alendi\|Alendi]].
-After the [[Lord Ruler\|Lord Ruler]] killed Kwaan, he kept the inscription as a reminder of his old life, and it was eventually housed in the [[Conventical of Seran\|Conventical of Seran]]. After the [[Collapse\|Collapse]], [[Sazed\|Sazed]] discovered it when he visited the Conventicle with [[Marsh\|Marsh]], and he took a rubbing of it for later study. Unfortunately [[Ruin\|Ruin]] modified it, tricking [[Vin\|Vin]] into giving up the power of the [[Well of Ascension\|Well of Ascension]] and letting him back into the world. After Ruin's release, Sazed returned to the Conventicle to read the unmodified version.
+After the [[Lord Ruler\|Lord Ruler]] killed Kwaan, he kept the inscription as a reminder of his old life, and it was eventually housed in the [[Conventical of Seran\|Conventical of Seran]]. After the [[Collapse\|Collapse]], [[Sazed\|Sazed]] discovered it when he visited the Conventical with [[Marsh\|Marsh]], and he took a rubbing of it for later study. Unfortunately [[Ruin\|Ruin]] modified it, tricking [[Vin\|Vin]] into giving up the power of the [[Well of Ascension\|Well of Ascension]] and letting him back into the world. After Ruin's release, Sazed returned to the Conventical to read the unmodified version.
 
 ## Full Text
 |This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creatorThe full text of Kwaan's inscription was found by Sazed in the Conventical of Seran. The full, uncorrected inscription is revealed in *The Well of Ascension* [[The Well of Ascension/Epigraphs\|epigraphs]]. Expand on the right to display the full text of Kwaan's inscription:|
@@ -23,6 +22,7 @@ Ruin altered specific portions of Sazed's copies of Kwaan's inscription in order
 |-|-|
 |**Original Text**|"I am afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that is to come. Afraid that **my plans** will fail. Afraid of a doom **worse than** the Deepness." |
 |**Corrupted Text**|"I am afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that is to come. Afraid that **Alendi** will fail. Afraid of a doom **brought by** the Deepness." |
+|"I am also afraid, however, that all I have known - that my story - will be forgotten. I am afraid for the world that may come. Afraid **because my plans failed**. Afraid of a doom **brought by** the Deepness." |
 
 Here Ruin obscures the revelation that Kwaan is concerned about a threat greater than the Deepness--Ruin himself.
 
@@ -42,6 +42,13 @@ Ruin replaces "Alendi" with a gender neutral pronoun (translated here to "him") 
 
 |**Version**|**Text**|
 |-|-|
+|**Original Text**|"If only the Deepness hadn't come **when it did**, providing a threat that drove men to desperation both in action and belief." |
+|**Corrupted Text**|"If only the Deepness hadn't come, providing a threat that drove men to desperation both in action and belief." |
+
+Ruin removes the phrase "when it did," emphasizing the threat of the Deepness.
+
+|**Version**|**Text**|
+|-|-|
 |**Original Text**|"There was a place for me, in the lore of the Anticipation—I thought myself the **Announcer**, the prophet foretold to discover the Hero of Ages." |
 |**Corrupted Text**|"There was a place for me, in the lore of the Anticipation—I thought myself the **Holy First Witness**, the prophet foretold to discover the Hero of Ages." |
 
@@ -56,6 +63,13 @@ Here, Ruin erases a reference to Kwaan's realization that the prophecies have be
 
 |**Version**|**Text**|
 |-|-|
+|**Original Text**|"I **have no** doubt that if Alendi reaches the Well of Ascension, he will take the power and then - in the name of the presumed greater good - give it up." |
+|**Corrupted Text**|"I doubt that if Alendi reaches the Well of Ascension, he will take the power and then - in the name of the greater good - give it up." |
+
+Ruin obscures Kwaan's realization that giving up the power of the Well would do more harm than good.
+
+|**Version**|**Text**|
+|-|-|
 |**Original Text**|"Rashek is to try and lead Alendi in the wrong direction, to discourage him or otherwise foil his quest. Alendi won't know that he has been deceived, **that we've all been deceived, and he won't listen to me**." |
 |**Corrupted Text**|"Rashek is to try and lead Alendi in the wrong direction, to discourage him or otherwise foil his quest. Alendi won't know that he has been deceived." |
 
@@ -66,7 +80,7 @@ Here Ruin directly removes a portion of the text to hide the realization of some
 |**Original Text**|"If Rashek fails to lead Alendi astray, then I have instructed the lad to kill **Alendi**." |
 |**Corrupted Text**|"If Rashek fails to lead Alendi astray, then I have instructed the lad to kill **my former friend**." |
 
-This changes leads Sazed and [[Tindwyl\|Tindwyl]] to be confused about Kwaan's insistence that Alendi cannot be trusted. Sazed assumes that it emphasizes the greatness of the threat posed by the Deepness.
+This change leads Sazed and [[Tindwyl\|Tindwyl]] to be confused about Kwaan's insistence that Alendi cannot be trusted. Sazed assumes that it emphasizes the greatness of the threat posed by the Deepness.
 
 |**Version**|**Text**|
 |-|-|

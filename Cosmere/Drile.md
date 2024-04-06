@@ -5,13 +5,13 @@
 |**Parents**|[[Reenst Rile\|Reenst Rile]]|
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|Undermastrell, Diemfen , Mastrell |
-|**Groups**|[[Diem\|Diem]]🐱︎|
+|**Groups**|[[Diem\|Diem]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
+|**First Appeared**|*White Sand*|
 
 **Drile** is a [[Lossand\|Lossandin]] [[Sand mastery\|sand master]] on the Dayside of [[Taldain\|Taldain]].
 

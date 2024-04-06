@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Soldier in Amaram's army|
 |**Groups**|Amaram's army|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Don't hedge bets with your life, Kaladin. Don't put in a chip when you have a pocket full of marks. Bet them all or leave the table.*”
 \-Durk's advice to Kaladin[1]

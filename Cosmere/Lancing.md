@@ -1,8 +1,7 @@
 |**Lancing**|
 |-|-|
-|**World**|[[Alornia\|Alornia]]|
+|**World of Origin**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 **Lancing** is the magic system in the [[State\|State]] of [[Alornia\|Alornia]]. It is usable by a single person, [[Kairominas\|Kairominas]], the [[Liveborn\|Liveborn]] emperor of Alornia. When Lancing, Kai's vision enters a state called Lancesight, and he can manipulate energy. While in the [[Maltese\|Maltese]], [[Sophie (Perfect State)\|Sophie]] uses hacking to allow Lancing to function, but instead of letting Kai manipulate energy, it only lets him absorb heat.
 

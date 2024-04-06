@@ -4,9 +4,8 @@
 |**Type**|Clock|
 |**Creator**|[[Navani Kholin\|Navani Kholin]]|
 |**Owners**||
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* One showed the time with three hands—even seconds, as if that mattered. The other was a stormclock, which could be set to wind down to the next projected highstorm.*”
 \- Dalinar describing Navani's vambrace[1]

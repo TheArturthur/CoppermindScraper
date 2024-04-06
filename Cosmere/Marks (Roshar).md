@@ -1,10 +1,9 @@
 |**Marks (Roshar)**|
 |-|-|
-|**Profession**|[[Cobalt Guard\|Cobalt Guard]]🐱︎|
+|**Profession**|[[Cobalt Guard\|Cobalt Guard]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page is about the Cobalt Guard member on Roshar. For the police officer possessed by [[Phi\|Phi]] in **Dreamer**, see [[Marks (Dreamer)\|Marks (Dreamer)]].
 **Marks** is a lighteyed [[Alethi\|Alethi]] on [[Roshar\|Roshar]] and a member of the [[Cobalt Guard\|Cobalt Guard]].

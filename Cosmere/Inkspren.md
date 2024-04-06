@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Spren|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Elsecaller\|Elsecaller]] magic, [[Splinter\|Splinter]]s|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -35,6 +34,7 @@ They tend to be attracted to those who are logical and willing to think through 
 
 
 ## Appearance
+ by 
 ### Physical Realm
 In the [[Physical Realm\|Physical Realm]], inkspren look exactly like their cognitive form, but are able to change their size.
 

@@ -4,19 +4,19 @@
 |**Family**|
 |**Spouse**|[[Sisirinah\|Sisirinah]]|
 |**Parents**|[[Susebron's mother\|Mother]]|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Awakener\|Awakener]], [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|[[God King\|God King]] of [[Hallandren\|Hallandren]], Susebron the Grand, Immortal Majesty, His Excellent Grace|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 >“*When others look at something—a person—one may sometimes seem more beautiful than another. This is not so for me. I see only the colors. The rich, wondrous colors that make up all things and give them life.*”
 \-Susebron to Siri[2]
 
 
-**Susebron** is the [[God King\|God King]] of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around 300 years after the [[Manywar\|Manywar]]. He is a [[Returned\|Returned]] and is given two or more [[Breath\|Breaths]] every week by his subjects in order to keep him alive. He is the fifth God King in the three hundred years since the Manywar.
+**Susebron**, also known as **Susebron the Fifth**, is the God King of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around 300 years after the [[Manywar\|Manywar]]. He is a [[Returned\|Returned]] and is given two or more [[Breath\|Breaths]] every week by his subjects in order to keep him alive. He is the fifth God King in the three hundred years since the Manywar.
 
 ## Contents
 
@@ -40,7 +40,7 @@
 
 
 ## Appearance & Personality
- by  Kyle Pearson 
+ by  Laurys L 
 For more images, see [[Susebron/Gallery\|/Gallery]].
 >“*All of those stories are just tales told by people who lived lives before ours. What they say about humankind is true. I have watched and seen how people act. It is strange, for me, to interpret these things, for I do not see as normal men do. I am the God King. Everything, to my eyes, has the same beauty.*”
 \-Susebron on his perception of beauty[2]
@@ -75,16 +75,16 @@ Though he is a king, it's uncertain how much in the way of political skill he ha
 
 ## History
 ### Childhood and Early Life
-Susebron was an infant [[Returned\|Returned]] fifty years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]]. He was born to a poor family living far to the north in Hallandren, to a merchant and his wife. At the time of his Return, the current [[God King\|God King]] was unable to produce a child, and so the infant Susebron was given [[Peacegiver's Treasure\|Peacegiver's Treasure]] and made the new God King after his predecessor gave up his Divine Breath to cure a plague. At some point either before or after his crowning, his tongue was removed so that he would be unable to use the wealth of Breaths that had been bestowed on him. His mother raised him in the palace, though eventually she was "taken away". Through the years he managed to retain a storybook she used to read him; he had heard the stories so many times and looked at it over the years that he had memorized each symbol, and the morals of the stories in the book were in part the code by which he lived.
+Susebron was an infant [[Returned\|Returned]] fifty years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]]. He was born to a poor family living far to the north in Hallandren, to a merchant and his wife. At the time of his Return, the current [[God King\|God King]] was unable to produce a child, and so the infant Susebron was given [[Peacegiver's Treasure\|Peacegiver's Treasure]] and made the new God King after his predecessor gave up his Divine Breath to cure a plague. At some point either before or after his crowning, his tongue was removed so that he would be unable to use the wealth of Breaths that had been bestowed on him. [[Susebron's mother\|His mother]] raised him in the palace, though eventually she was "taken away". Through the years he managed to retain a storybook she used to read him; he had heard the stories so many times and looked at it over the years that he had memorized each symbol, and the morals of the stories in the book were in part the code by which he lived.
 Throughout most of his life, Susebron resided mostly alone in the black palace of the God Kings in [[T'Telir\|T'Telir]]. Despite being the official ruler of Hallandren, he was kept away from its people and other Returned, only coming out briefly on special occasions in order to hide the fact that he was mute. At the time, he had not been taught to [[Awakening\|Awaken]] by thought.
 
 ### Marriage to Siri
  by  Marie Seeberger  [[Siri\|Siri]] kneeling before Susebron
 >“*I don't think God Kings are supposed to be "sweet."*”
-\-Suseborn showing his lack of knowledge on metaphorical terms[2]
+\-Susebron showing his lack of knowledge on metaphorical terms[2]
 
 
-To forestall a war between [[Idris\|Idris]] and Hallandren, Susebron was promised the hand of king [[Dedelin\|Dedelin's]] daughter, [[Vivenna\|Vivenna]]. At the last moment, however, she was swapped for her sister, [[Sisirinah\|Sisirinah]], and Susebron ended up marrying Siri. For a long time, Susebron and Siri met only at night, as the priests wanted them to make a child, but neither acted, as Siri was awaiting Susebron's first move while Susebron had no idea what was expected of him. Initially, he feared Siri, uncertain as to why she spent her nights waiting, naked, on his floor. After she began to perform her moaning and screaming routine for the priests, he approached her with a book, hoping to start some communication.
+To forestall a war between [[Idris\|Idris]] and Hallandren, Susebron was promised the hand of king [[Dedelin\|Dedelin's]] daughter, [[Vivenna\|Vivenna]]. At the last moment, however, she was swapped for her sister, [[Sisirinah\|Sisirinah]], and Susebron ended up marrying Siri. For a long time, Susebron and Siri met only at night, as the priests wanted them to make a child, but neither acted, as Siri was awaiting Susebron's first move while Susebron had no idea what was expected of him. Initially, he did not understand Siri, uncertain as to why she spent her nights waiting, naked, on his floor. After a nearly a week of this routine, Siri approached him and berated him for doing nothing but watch throughout all the previous week. When Susebron approaches, it is revealed that he has no tongue. Siri, to convince his priests that they were trying for a baby, began moaning and bouncing on the bed every day, mimicking what she thought sex sounded like. After she began to perform her moaning and screaming routine for the priests, he approached her with a book, hoping to start some communication.
 Siri taught Susebron to read and write using his mother's storybook, and they started to converse, him writing on a board, and her speaking. As he and Siri planned how to reveal to the other gods that he had no tongue, the two began to fall in love. He would spend long hours with her, learning about things like sarcasm and mockery, about places such as Idris, and about Siri's life growing up. During one of these conversations, Susebron expressed an interest in meeting [[Austre\|Austre]]. Eventually, he and Siri consummated their marriage.
 
 ### The Pahn Kahl Rebellion

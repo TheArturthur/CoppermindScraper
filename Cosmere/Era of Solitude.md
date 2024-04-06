@@ -4,7 +4,6 @@
 |**Effects**|Enslavement of the [[Singers\|singers]], disbandment of the Radiants|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 >“*The Voidbringers were cast back into the Tranquiline Halls. The Heralds followed to force them out of heaven as well, and Roshar’s Heraldic Epochs ended. Mankind entered the Era of Solitude. The modern era.*”
 \-Kabsal to Shallan[1]
@@ -32,11 +31,17 @@ The Era of Solitude began after the [[Last Desolation\|Last Desolation]] known a
 **Aharietiam** - Began the Era of Solitude.
 **The False Desolation** - War with [[Singer\|Singers]] not led by the [[Fused\|Fused]].
 **The Day of Recreance** - Knights Radiant broke oaths and abandoned [[Shard\|Shards]].
-**The Enslavement of the singers** - This may have happened shortly after the [[Day of Recreance\|Day of Recreance]].
-**The Death of Honor** - Honor was killed and the power he held was splintered by [[Odium\|Odium]].
 **The Collapse of the Silver Kingdoms** - While unknown when the [[Silver Kingdoms\|Silver Kingdoms]] fell, without the Knights Radiant the system would have broken down by this point.
+**The Death of Honor** - Honor was killed and the power he held was Splintered by [[Odium\|Odium]].
+**Dynastic Collapse in Bayala** - A dynasty collapses in [[Bayala\|Bayala]] due to the influence of [[Ashertmarn\|Ashertmarn]] in 480
 **The Hierocracy** - Classical [[Vorinism\|Vorinism]] attempted to control the world, much of history was sanitized during this time.
+**The Sunmaker Conquests** - [[Sadees\|Sadees the Sunmaker]] overthrew the Hierocracy and reunited Alethkar, before attempting to conquer the world, leaving a deep effect upon many different countries.
 **The Scouring of Aimia** - [[Aimia\|Aimia]] suffered a cataclysm of some kind.
+**Emuli Lurnip Famine** - Emul goes through a devastating Lurnip famine.
+**Reunification of Alethkar** - The reunification of Aelthkar under the Kholin Banner
+**The Eighty's War** - A war between [[Tukar\|Tukar]] and [[Emul\|Emul]] over control of [[Sesemalex Dar\|Sesemalex Dar]] broke out in 1167, with Tukar being led by the Herald [[Ishar\|Ishar]]
+**The Assassination of Gavilar Kholin** - Gavilar Kholin, the king of Alethkar, was assassinated by the Listeners during the treaty celebration on Tanat 1167.
+**The War of Reckoning** - A war between the Alethi and the Listeners following the assassination of Gavilar Kholin, which led up to the True Desolation.
 **The True Desolation** - the coming of the [[Everstorm\|Everstorm]] ended the Era of Solitude.
 ## The End
 The Era of Solitude lasted up until the return of the [[Fused\|Fused]] and [[Odium\|Odium]]. This takes place the day the [[Listener\|Listeners]] created the [[Everstorm\|Everstorm]] the Beginning of the [[True Desolation\|True Desolation]].

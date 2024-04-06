@@ -3,11 +3,10 @@
 |by  Charlie Bowater |
 |**Aliases**|Callsign: FM|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward*|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Defiance is not ‘Defiant’ to them unless it doesn’t actually defy anything.*”
 \-FM describing the hypocrisy of the DDF.[1]
@@ -54,7 +53,7 @@ She is from the [[Deep caverns\|lower caverns]], has multiple sisters, and was r
 
 
 FM is tall and skinny, around 185 centimeters in height. She has short blond hair, that she will sometimes pin back with glittery barrettes. FM has subtle Nordic physical features and shares a name with the  from Nordic mythology, indicating that she likely has Northern European heritage.
-She has a slight accent which is associated with the people of the [[Deep caverns\|deep caverns]], and sometimes speaks in a formalized manner and proper tone. She is fashionable and and wears new and pristine clothing, courtesy of her family's wealth. Her regular [[DDF\|DDF]] uniform is well tailored, and she is able to look fashionable in a flight suit. When not in uniform she enjoys wearing feminine clothing such as blouses and skirts.
+She has a slight accent which is associated with the people of the [[Deep caverns\|deep caverns]], and sometimes speaks in a formalized manner and proper tone. She is fashionable and wears new and pristine clothing, courtesy of her family's wealth. Her regular [[DDF\|DDF]] uniform is well tailored, and she is able to look fashionable in a flight suit. When not in uniform she enjoys wearing feminine clothing such as blouses and skirts.
 FM wears her emotions on her sleeve, is rather perceptive, and good at reading others. She is highly confident and unafraid to speak her mind, nor is she opposed to skirting or breaking the rules. This confidence, along with her refined and poised manner, makes FM appear older than the rest of her flight. She can be a perfectionist and dislikes her own shortcomings, even when she is doing better than her classmates. FM is more conservative when presented with risky choices, choosing to take the safer option. She may do this as a statement against the strong risk taking attitude promoted by the DDF.
 She's is a people person who is often the instigator of group trips off the base, and also enjoys reading.
 
@@ -72,6 +71,7 @@ FM is an excellent pilot who is highly skilled with a [[Light-lance\|light-lance
 She comes from a highly-merited family, giving her a large degree of freedom, wealth, and influence.
 
 ## History
+ by  Hinumay 
 ### Flight School
 FM comes from one of the [[Deep caverns\|lower caves]] and a highly-merited family. After being accepted into [[Flight school\|flight school]], FM was placed in [[Skyward Flight\|Skyward Flight]] under the tutelage of [[Cobb\|Cobb]]. She was roomed with the other female members of her flight, with the exception of [[Spensa\|Spensa]], who was denied accommodation.
 Unlike many of the other members of Skyward Flight, FM successfully launched her [[Poco\|Poco]] during the first lesson run by Cobb. When the lesson was interrupted by a [[Varvax\|Krell]] attack, FM, along with the rest of Skyward Flight, were ordered to take to the sky and line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict. When the Krell began to chase [[Jorgen\|Jorgen]], FM expressed her surprise that they wouldn't attack the weakest members of the team first.
@@ -173,7 +173,7 @@ Jorgen talked to FM afterward, telling her of his promotion to Vice Admiral. She
 ## Relationships
 ### Spensa
 >“*...You can’t help being a product of your environment! It’s not your fault you’re a bloodthirsty ball of aggression and destruction.*”
-\-FM describing how she see's Spensa[1]
+\-FM describing how she sees Spensa[1]
 
 
 [[Spensa\|Spensa]] admires FM for her fashion sense and outward appearance, finding the other girl to epitomize beauty standards. FM's confidence can at times intimidate Spensa as it makes FM appear more mature and refined. Spensa is never quite able to get past her nervousness even after they have finished [[Flight school\|flight school]] though nonetheless, Spensa considers FM a close friend who truly understands her.
@@ -192,9 +192,10 @@ After this, Rodge is able to talk to FM more and treats her more normally, and m
 FM and Rodge used their taynix to meet quietly, because they weren't ready to tell everyone that they were dating yet. They are close, and FM enjoys helping Rodge with his engineering projects, or at least watching him work.
 
 ### Nedd
-[[Nedd Strong\|Nedd]] had a crush on FM. They have a playful relationship, often exchanging friendly insults and joking comments. Nedd had hoped to celebrate with FM after her graduation, and was disappointed that she had immediately been sent on a DDF mission. While they were on leave, he cornered FM and asked her out, but she told him she'd rather just be friends. He took it well, though after that he acted overly friendly in an effort to not make their friendship awkward, though for FM, it had the opposite effect. This slightly exasperated FM, who tried to avoid that in the first place by not directly confronting Nedd.
+[[Nedd Strong\|Nedd]] had a crush on FM. They have a playful relationship, often exchanging friendly insults and joking comments. Nedd had hoped to celebrate with FM after her graduation and was disappointed that she had immediately been sent on a DDF mission. While they were on leave, he cornered FM and asked her out, but she told him she'd rather just be friends. He took it well, though after that he acted overly friendly in an effort not to make their friendship awkward, though, for FM, it had the opposite effect. This slightly exasperated FM, who tried to avoid that in the first place by not directly confronting Nedd.
 FM seems to perceive Nedd as rather socially oblivious, as he didn't pick up on her hints that she wasn't interested in him.
+Later in ReDawn FM expresses to the whole flight -after they bombard her with questions- that she and Roge are dating. Nedd then becomes speechless and a few moments later says he feels left out since almost everyone in the flight has a girlfriend or boyfriend now. 
 
 
 
-https://coppermind.net/wiki/Freyja_Marten
+https://coppermind.net/wiki/Freyja

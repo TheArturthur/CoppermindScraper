@@ -1,13 +1,12 @@
 |**Winterwort**|
 |-|-|
 |**Type**|Plant|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Winterwort** is a type of plant native to [[Roshar\|Roshar]].
-Winterwort has a bitter taste, but it can be used as an anesthetic on patients during surgery. After being crushed to a powder and mixed with oil, it can be administered. At one spoonful per ten brickweight of the patient, it would keep a person unconscious for five hours.
-[[Kaladin\|Kaladin]] and [[Lirin\|Lirin]] uses winterwort on [[Sani\|Sani]] when they attempt to repair her crushed hand.
+**Winterwort** is a type of plant native to [[Roshar\|Roshar]]. It is used by surgeons as a soporific anesthetic.
+Winterwort can be used to prepare a patient for surgery. It is ingestible after being crushed to a powder and mixed with oil, although it has a bitter taste. At one spoonful per ten brickweight of the patient, it will keep a person unconscious for around five hours.
+[[Kaladin\|Kaladin]] and [[Lirin\|Lirin]] used winterwort on [[Sani\|Sani]] when they attempted to repair her crushed hand.
 
 
 

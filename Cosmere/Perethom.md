@@ -4,9 +4,8 @@
 |**Profession**|Infantrylord in Kholin army|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Perethom** is a [[Lighteyed\|lighteyed]] [[Alethi\|Alethi]] highlord on [[Roshar\|Roshar]]. He served as one of [[Dalinar Kholin\|Dalinar Kholin's]] officers for many years, and Dalinar considered him a good soldier and a good friend.
 

@@ -1,12 +1,12 @@
 |**Lesan Calour**|
 |-|-|
 |**Profession**|Publisher|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
-**Lesan Calour** is a publisher on [[Scadrial\|Scadrial]].
-His company publishes *The House Record* broadsheet.
+**Lesan Calour** is a publisher in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
+They own a publishing company known as Lesan Calour & Daughters & Sons, also referred to as [[Calour Publications\|Calour Publications]]. The company, which is headquartered in the 6th Octant of Elendel, publishes novels and *The House Record* broadsheet.
 
 
 

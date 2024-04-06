@@ -6,7 +6,6 @@
 |**Effects**|Destruction of the [[Hierocracy\|Hierocracy]] and the creation of the [[Devotaries\|Devotaries]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The War of Loss had destroyed the Hierocracy, shattering Vorinism into the devotaries. That was the inevitable result of a religion trying to rule.*”
 \-Shallan's thoughts on the War of Loss[2]

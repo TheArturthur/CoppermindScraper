@@ -1,12 +1,11 @@
 |**Tain**|
 |-|-|
 |**Aliases**|[[Sharezan\|Sharezan]]|
-|**Profession**|[[Trackt\|Trackt]]🐱︎, Criminal|
+|**Profession**|[[Trackt\|Trackt]], Criminal|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Tain** is a [[Trackt\|trackt]] working under [[Ais\|Ais]] on [[Taldain\|Taldain]]. He is also the crime lord **Sharezan**. It is unknown which of these, if any, is his true name. He uses his role as a trackt as a cover and a way to stay ahead of the authorities. Sharezan's organization is involved in running drug dens and other unspecified illicit activities involving the [[Tower (Taldain)\|Tower]] and the Guild.
 
@@ -35,14 +34,14 @@ Tain is a middle aged man with gray hair. He wears the black robes, cape, pants,
 
 ## History
 ### As a Trackt
-Tain was a [[Trackt\|trackt]] working under [[Ais\|Ais]] and, ironically, was one of the head investigators tracking Sharezan, whom Ais incorrectly believed to be [[Nilto\|Nilto]], while Ais was busy guarding [[Kenton\|Kenton]]. He was assigned to watch Nilto's boat races when Ais suspected Nilto of manipulating the results. He reported to Ais that [[Lokmlen\|Lokmlen]] cut a deal while in custody and that they were getting close, presumably to catching Sharezan. He was sent to investigate the death of [[Rennold Pharl\|Rennold Pharl]] where he "discovered" a note of warning from Sharezan. He brought the note to Ais, who was at the [[Diem\|Diem]]. Ais asked whom the note could be warning, since it was likely placed after Pharl was already dead, and Tain told her that he thought it was a warning to all of the trackts. When Ais was on her way out from speaking with [[Heelis\|Heelis]] about [[Raagent\|Raagent's]] death, Tain intercepted her, saying that they had found Sharezan. Tain handed her a [[Zinkall\|zinkall]] and asked her to join him on the raid. When Ais asked how he figured it out, Tain said that it was Lokmlen's confession that gave it away. When they arrived in the alleged hideout, Tain raised his zinkall to Ais' head and revealed himself to be Sharezan.
+Tain was a [[Trackt\|trackt]] working under [[Ais\|Ais]] and, ironically, was one of the head investigators tracking Sharezan, whom Ais incorrectly believed to be [[Nilto\|Nilto]], while Ais was busy guarding [[Kenton\|Kenton]]. He was assigned to watch Nilto's boat races when Ais suspected Nilto of manipulating the results. He reported to Ais that [[Lokmlen\|Lokmlen]] cut a deal while in custody and that they were getting close, presumably to catching Sharezan. He was sent to investigate the death of [[Tarn (Taldain)\|Tarn the Tonk]] where he "discovered" a note of warning from Sharezan. He brought the note to Ais, who was at the [[Diem\|Diem]]. Ais asked whom the note could be warning, since it was likely placed after Tarn was already dead, and Tain told her that he thought it was a warning to all of the trackts. When Ais was on her way out from speaking with [[Heelis\|Heelis]] about [[Raagent\|Raagent's]] death, Tain intercepted her, saying that they had found Sharezan. Tain handed her a [[Zinkall\|zinkall]] and asked her to join him on the raid. When Ais asked how he figured it out, Tain said that it was Lokmlen's confession that gave it away. When they arrived in the alleged hideout, Tain raised his zinkall to Ais' head and revealed himself to be Sharezan.
 
 ### As Sharezan
 >“*I enjoy our game, Ais. You gamble your family - I fear I have little to bet in return.*”
 \-Sharezan in his first letter to Ais.[4]
 
 After Sharezan's men and Ais' trackts had a shoot-out during a raid in which six trackts were killed and five more were injured, Ais fought and arrested Lokmlen and they discovered a suicidal and sickly [[Torkel\|Torkel]] alive in a hidden closet. The corpses of Torkel's family members were also found in the closet with him. He told Ais that he and his family were imprisoned by Sharezan after he tried to back out of a secret deal, likely related to his access to Vey. When Ais got home she found a letter from Sharezan waiting for her. In reaction to this letter, Ais asked [[Mellis\|Mellis]] to take [[Melloni\|Melloni]] and seek refuge somewhere in the south so they could be safe from Sharezan; Mellis didn't listen to her.
-Sharezan killed [[Rennold Pharl\|Rennold Pharl]], an agent of his, to prevent him from going to the authorities. Afterwards, as Tain, he returned to "investigate" the death and he planted a note of warning which he then brought to Ais.. [[Lord General\|Lord General]] [[Raagent\|Raagent]] arranged a meeting with Ais hoping to get out of Sharezan's grasp, but Sharezan heard of the meeting and made a trap. He planted a firebomb in the abandoned building where the meeting was to have taken place, but Ais noticed something was wrong when she heard someone limping away, and she and Kenton escaped unharmed.
+Sharezan killed [[Tarn (Taldain)\|Tarn]], an agent of his, to prevent him from going to the authorities. Afterwards, as Tain, he returned to "investigate" the death and he planted a note of warning which he then brought to Ais.. [[Lord General\|Lord General]] [[Raagent\|Raagent]] arranged a meeting with Ais hoping to get out of Sharezan's grasp, but Sharezan heard of the meeting and made a trap. He planted a firebomb in the abandoned building where the meeting was to have taken place, but Ais noticed something was wrong when she heard someone limping away, and she and Kenton escaped unharmed.
 Presumably as revenge for his attempted betrayal, Sharezan personally executed Raagent in a brutal fashion. He snuck into Raagent's sleeping chambers in the [[Tower (Taldain)\|Tower]], used Raagent's [[ShalRim\|ShalRim]] bed sheets to tie him up, and then brought him down into the Tower's wine cellar where his cries for help wouldn't be heard. Sharezan propped Raagent up against a wall and lit candles to provide some light in the darkness of the cellar. He then dosed him with [[Kamo\|kamo]], an emotional stimulant, and cut off his eyelids. Since, like all Daysiders, Raagent was afraid of the dark, the kamo combined with the growing darkness from the candles burning out caused Raagent's mind to conjure up all sorts of horrors. Since he couldn't close his eyes, he was forced to endure these nightmares until he died from the fright. [[Baon\|Baon]] theorized that the murder was done in order to lessen Kenton's chances of winning all of the [[Taishin\|Taishins']] votes, since Raagent was one of Kenton's supporters.
 
 >“*Orphans make such heart-wrenching victims, so innocent yet no one to mourn them. Or would you prioritize saving someone with a more personal connection?*”
@@ -58,7 +57,7 @@ Trackt Tain is a high ranking officer among the trackts of [[Hall of Judgement\|
 ### As Sharezan
 As the crime lord Sharezan, Tain has wide ranging influence over [[Kezare\|Kezare]]. Known members of his gang and people under its influence are:
 
-[[Rennold Pharl\|Rennold Pharl]]
+[[Tarn (Taldain)\|Tarn the Tonk]]
 [[Lokmlen\|Lokmlen]]
 [[Raagent\|Raagent]]
 [[Torkel\|Torkel]]
@@ -72,7 +71,7 @@ As the crime lord Sharezan, Tain has wide ranging influence over [[Kezare\|Kezar
 
 
 ## Trivia
-In the [[White Sand (prose)\|prose]] Kenton kills Sharezan instead of merely stunning him as he does in the graphic novel.
+In the [[White Sand (prose)\|prose]] Kenton accidentally kills Sharezan, beleiving him to be a terken assassin; instead of merely stunning him as he does in the graphic novel.
 
 
 https://coppermind.net/wiki/Tain

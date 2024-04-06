@@ -3,8 +3,7 @@
 |by  malishiru |
 |**Abilities**|[[Epic\|Epic]]|
 |**Residence**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 **Nightwielder** is a [[Epic\|High Epic]] that is part of [[Steelheart (Epic)\|Steelheart's]] inner circle. He is the one responsible for [[Newcago\|Newcago's]] constant darkness.
 

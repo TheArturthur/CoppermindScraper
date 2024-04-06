@@ -2,10 +2,9 @@
 |-|-|
 |**Ethnicity**|Khlenni|
 |**Ruled by**|[[Alendi\|Alendi]]|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Khlennium, that great city of wonder.*”
 \-Alendi's journal.[1]

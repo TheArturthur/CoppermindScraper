@@ -8,11 +8,11 @@
 |**Bonded With**|[[Dio\|Dio]]|
 |**Titles**|King of [[Teod\|Teod]]|
 |**Nationality**|[[Teo\|Teo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
-King **Eventeo** is the ruler of [[Teod\|Teod]] on [[Sel\|Sel]] and Sarenes Father.
+King **Eventeo** is the ruler of [[Teod\|Teod]] on [[Sel\|Sel]] and [[Sarene\|Sarene's]] father.
 
 ## Contents
 
@@ -50,7 +50,7 @@ He is an honest man, smart and politically saavy, but he was an absolutely horri
 
 ## History
 ### Path towards becoming King of Teod
-Eventeo is [[Kiin\|Kiin's]] Younger brother. Kiin should have inherited the throne, but he wasted his youth on pleasure voyages, exploration and visiting foreign ports while Eventeo stayed behind and helped rule the kingdom. (Their father was ailing, and often Eventeo would have to hold court for him and attend the other tasks of king.)
+Eventeo is [[Kiin\|Kiin's]] younger brother. Kiin should have inherited the throne, but he wasted his youth on pleasure voyages, exploration and visiting foreign ports while Eventeo stayed behind and helped rule the kingdom. (Their father was ailing, and often Eventeo would have to hold court for him and attend the other tasks of king.)
 Some minor crisis arrived at the same time as their father died, and Eventeo—thinking his brother unworthy of the throne—eased into the role of king and was crowned before Kiin. Eventeo dealt with the problems of state, and generally was a good king. When Kiin got back from his latest trip, however, he was furious to find that his crown had been stolen from him. He demanded it back, but Eventeo refused and had Kiin banished.
 Kiin was popular with the military men, however, because of the heroic figure he cut. He was the adventuring sailor, while Eventeo was a scholarly bureaucrat. Over the next few years, Kiin managed to gather a naval force from pirates, deserters from Eventeo's armies, and mercenary forces. It was during this time he nearly died to the accident that crushed his throat. He took the name "Dreok," after Aon Reo, and sailed against Teod, trying to take the throne by force.
 Eventeo won the battle, though only barely. Kiin barely escaped with his life, and went to Arelon to recoup and plan his next invasion. However, he fell in love with [[Daora\|Daora]], and slowly began to loose his hard edge.
@@ -70,7 +70,7 @@ Teod got the assistances of Raoden and the Elantrians and with the help of Hrath
 ### Sarene
 Eventeo is a loving father who likes talking with [[Sarene\|Sarene]] about politics. He respects her and is fully aware of how persuasive she can be. He was also open to tell her the situation was bad enough for him to be scared. This something he would only tell her.
 He had made sure to include an extensive knowledge of Shu-Dereth in her education.
-He has a special tone of voice he uses to get her doing her way, it usually worked. He however failed to realize how she felt during her time in [[Teod\|Teod]] but their open communication let her to open her heart to him through Aon communication.
+He has a special tone of voice he uses to get her doing her way, it usually worked. He however failed to realize how she felt during her time in [[Teod\|Teod]] but their open communication let her to open her heart to him through Seon communication.
 
 ## Trivia
 Due to his weight, he is on a special diet.

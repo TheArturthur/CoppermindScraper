@@ -2,10 +2,9 @@
 |-|-|
 |**Died**|? 1173|
 |**Profession**|Bridgeman|
-|**Groups**|[[Bridge Four\|Bridge Four]]🐱︎, Sadeas army|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*They break the land itself! They want it, but in their rage they will destroy it. Like the jealous man burns his rich things rather than let them be taken by his enemies! They come!*”
 \-Gadol's Death Rattle[1]

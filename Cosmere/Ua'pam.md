@@ -5,9 +5,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Stonewards\|Stoneward]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Zu (Roshar)\|Zu]]|
 |**Species**|[[Peakspren\|Peakspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Ua'pam** is a [[Peakspren\|peakspren]] on [[Roshar\|Roshar]] bonded to [[Zu (Roshar)\|Zu]].
 
@@ -38,7 +38,7 @@ He is also familiar with [[Mandra\|mandra]]-powered transportation in Shadesmar,
 
 ## History
 Ua'pam bonded Zu circa 1173; he joined the fight with the [[Knights Radiant\|Radiants]] because [[Odium\|Odium]] was coming and he did not want to run. Zu's newfound powers led to her exile from [[Iri\|Iri]], as it was not widely known at the time that [[Surgebinding\|Surgebinding]] had returned. He presumably accompanied Zu during her time in the [[Reshi Isles\|Reshi Isles]] over the next few years.
-In 1175, Ua'pam and Zu were selected by the [[Coalition of monarchs\|coalition of monarchs]] to join the diplomatic mission from [[Urithiru\|Urithiru]] to the [[Honorspren\|honorspren]] stronghold of [[Lasting Integrity\|Lasting Integrity]]. The team entered Shadesmar through an [[Oathgate\|Oathgate]], and it was the first time Zu saw Ua'pam's form in the Cognitive Realm. Ua'pam's was happy to see his cousin Unativi, who captained the barge that the group took from [[Nohadon's Stairways\|Nohadon's Stairways]] to [[Nameless\|Nameless]]. Notably, Ua'pam and Unativi did not agree on the best course of action for their people in the face of the [[True Desolation\|True Desolation]], demonstrating that spren did not act as a monolith.
+In 1175, Ua'pam and Zu were selected by the [[Coalition of monarchs\|coalition of monarchs]] to join the diplomatic mission from [[Urithiru\|Urithiru]] to the [[Honorspren\|honorspren]] stronghold of [[Lasting Integrity\|Lasting Integrity]]. The team entered Shadesmar through an [[Oathgate\|Oathgate]], and it was the first time Zu saw Ua'pam's form in the Cognitive Realm. Ua'pam was happy to see his cousin Unativi, who captained the barge that the group took from [[Nohadon's Stairways\|Nohadon's Stairways]] to [[Nameless\|Nameless]]. Notably, Ua'pam and Unativi did not agree on the best course of action for their people in the face of the [[True Desolation\|True Desolation]], demonstrating that spren did not act as a monolith.
 Ua'pam participated in scouting activities with Zu, and helped find places to camp during the journey. He discouraged Zu from confronting the [[Tukar\|Tukari]] caravan and their [[Tukari leader\|leader]]. Upon reaching Lasting Integrity, Zu was part of the group that was sent back to Urithiru to bring word to [[Dalinar\|Dalinar]], and Ua'pam presumably went with her.
 
 ## Relationships

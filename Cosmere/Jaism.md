@@ -1,10 +1,9 @@
 |**Jaism**|
 |-|-|
 |**Type**|Religion|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Jaism** is a religion on [[Scadrial\|Scadrial]]. It existed in the [[Classical Scadrial\|Classical Scadrial]] era but was wiped out shortly after the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]].
 

@@ -1,9 +1,8 @@
 |**Balsas**|
 |-|-|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Well? You've threatened violence against me. Come. Hit me. Rob me. Do it knowing I've lived among you almost my entire life. Do it knowing that I've healed your children. Come in. Bleed one of your own!*”
 \- Lirin to Balsas and the other robbers[1]

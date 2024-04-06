@@ -6,14 +6,13 @@
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 For the being named Trell and its associated religion, see [[Trell (Trellism)\|Trell (Trellism)]].
 For the [[God Metal\|God Metal]] with which [[Bleeder\|Bleeder]] was pierced, see [[Trellium\|Trellium]].
 For the deity worshiped by the [[Nelazan\|Nelazan]] people in Classical [[Scadrial\|Scadrial]], see [[Trelagism\|Trelagism]].
-**Trell** is a construction foreman in [[Lossand\|Lossand]] who works under [[Kelzi\|Kelzi]] [[Kar (Taldain)\|Kar]].
+**Trell** is a construction foreman in [[Lossand\|Lossand]] who works under [[Kelzi\|Kelzi]] [[Karmat\|Karmat]].
 He is connected to [[Scadrial\|Scadrian]] religions.
 
 ## Contents

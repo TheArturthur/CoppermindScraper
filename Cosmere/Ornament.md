@@ -3,9 +3,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Beryl\|Beryl]]|
 |**Species**|[[Cryptic\|Cryptic]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Ornament** is a [[Cryptic\|Cryptic]] on [[Roshar\|Roshar]] bonded to [[Beryl\|Beryl]].
 
@@ -15,7 +15,7 @@ In the [[Physical Realm\|Physical Realm]], Ornament usually rides on the inside 
 Like other Cryptics, Ornament has trouble understanding nuances of human speech and takes things more literally than intended. She has a limited Alethi vocabulary and does not understand the word 'Nitwit'.
 
 ## History
-Ornament was with Beryl on the journey to Lasting Integrity. She had a conversation with Shallan and other Cryptics. When Shallan suspected Beryl was a spy for [[Ghostbloods\|Ghostbloods]], she talked with Ornament to try to get information about Beryl. However Shallan was unable to get any useful information out of Ornament.
+Ornament was with [[Beryl\|Beryl]] on the journey to [[Lasting Integrity\|Lasting Integrity]]. She had a conversation with [[Shallan Davar\|Shallan Davar]] and other [[Cryptic\|Cryptics]]. When Shallan suspected Beryl was a spy for [[Ghostbloods\|Ghostbloods]], she talked with Ornament to try to get information about Beryl. However Shallan was unable to get any useful information out of Ornament.
 
 
 

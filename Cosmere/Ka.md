@@ -1,12 +1,13 @@
 |**Ka**|
 |-|-|
+|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
 |**Profession**|Barmaid, Scribe|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
-**Ka** is a a scribe for a squad of [[Windrunners\|Windrunners]] on [[Roshar\|Roshar]]. She first encountered [[Bridge Four\|Bridge Four]] during the [[Era of Solitude\|Era of Solitude]] while working as a barmaid at the [[Ornery Chull\|Ornery Chull]], a tavern in the Kholin warcamp on the [[Shattered Plains\|Shattered Plains]]. She is engaged to [[Peet\|Peet]].
+**Ka** is a scribe for a squad of [[Windrunners\|Windrunners]] on [[Roshar\|Roshar]]. She first encountered [[Bridge Four\|Bridge Four]] during the [[Era of Solitude\|Era of Solitude]] while working as a barmaid at the [[Ornery Chull\|Ornery Chull]], a tavern in the Kholin warcamp on the [[Shattered Plains\|Shattered Plains]]. She is engaged to [[Peet\|Peet]].
 
 ## Contents
 
@@ -46,6 +47,7 @@ Ka has a sister who also lives in Urithiru during the [[True Desolation\|True De
 
 ## Trivia
 Ka and [[Peet\|Peet]] are cameos for [[Karen Ahlstrom\|Karen Ahlstrom]] and [[Peter Ahlstrom\|Peter Ahlstrom]].
+Ka usually manifests her [[Shardblade\|Shardblade]] as a pen.
 
 
 https://coppermind.net/wiki/Ka

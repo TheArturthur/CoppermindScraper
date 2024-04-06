@@ -1,8 +1,7 @@
 |**Korath**|
 |-|-|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Korath** (**KoHwo**) was the founder of the [[Shu-Korath\|Shu-Korath]] religion.
 He was a student of [[Keseg\|Keseg]], who began the religion Shu-Keseg. Keseg preached unity, and his two disciples, Korath and [[Dereth\|Dereth]], interpreted this in different ways. Dereth took it to mean unity of governance, while Korath understood it as unity of love. The two split to create two different religions, [[Shu-Dereth\|Shu-Dereth]] and Shu-Korath.

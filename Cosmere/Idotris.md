@@ -4,9 +4,9 @@
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Hope of Elantris*|
+|**First Appeared**|*The Hope of Elantris*|
 
 **Idotris** is an [[Elantrian\|Elantrian]] who lives in [[New Elantris\|New Elantris]] on [[Sel\|Sel]] during the period of the incomplete [[Shaod\|Shaod]].
 

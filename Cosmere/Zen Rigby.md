@@ -2,9 +2,9 @@
 |-|-|
 |by  Jon Foster |
 |**Profession**|Assassin|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion: Skin Deep*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
+For the [[Shin\|Shin]] scholar mentioned in *Words of Radiance*, see [[Zen\|Zen]].
 **Zen Rigby** is an assassin that is hired to trail [[Stephen Leeds\|Stephen Leeds]].
 
 ## Appearance and Personality

@@ -1,9 +1,8 @@
 |**Gtet**|
 |-|-|
 |**Type**|Sword|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **gtet** is a traditional sword used in [[Thaylenah\|Thaylenah]] on [[Roshar\|Roshar]].
 

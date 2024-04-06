@@ -5,13 +5,14 @@
 |**Siblings**|[[Llarimar\|Llarimar]]|
 |**Relatives**|[[Tatara\|Tatara]]|
 |**Died**|Sacrificed his [[Divine Breath\|Divine Breath]] to heal [[Susebron\|Susebron]]|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|Lightsong the Bold, Lord of Heroes, Lightsong the Brave, God of Bravery|
+|**Aliases**|Stennimar|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 >“*All of this, because I couldn't figure out how to die.*”
 \-Lightsong[3]
@@ -105,6 +106,7 @@ His most notable relationship at the time of the Pahn Kahl rebellion is with [[B
 After realizing that [[Siri\|Siri]] is a naive young woman and not a cunning spy sent by Idris, Lightsong takes pity on her and gives her advice on dealing with the politics of the Court of Gods. Siri thinks of him as the best of the Returned Gods in the court at the time, and comes to rely on him even though he advises her not to.
 
 ## Quotes
+ by  Natasha Ascanio (Naabarts) 
 >“*Not a god, but a scribe. A silly little scribe who was allowed to play god for a few years! A coward.*”
 \-Lightsong about himself[10]
 

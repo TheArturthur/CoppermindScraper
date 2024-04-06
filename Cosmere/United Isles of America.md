@@ -2,7 +2,6 @@
 |-|-|
 |by  Ben McSweeney |
 |**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
 
 The **United Isles of America** are a coalition of sixty islands.
 
@@ -50,4 +49,4 @@ The main religion is the [[Church of the Monarch\|Church of the Monarch]]. It is
 
 
 
-https://coppermind.net/wiki/Canadia
+https://coppermind.net/wiki/Albert

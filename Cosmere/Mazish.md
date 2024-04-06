@@ -2,9 +2,9 @@
 |-|-|
 |**Spouse**|[[Dul\|Dul]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Mazish** is a [[Singer\|singer]] on [[Roshar\|Roshar]]. A former parshwoman, she is a member of [[Venli\|Venli's]] group of singers that wishes to be free of the [[Fused\|Fused]].
 
@@ -23,6 +23,7 @@ Mazish is a member of Venli's inner circle and has her full trust. She cares for
 ## Attributes and Abilities
 Mazish is a common singer and has bonded a [[Gravitationspren\|gravitationspren]] within her [[Gemheart\|gemheart]] to wear workform.
 
+ by  Dragontrill  with [[Dul\|Dul]]
 ## History
 During the [[War of Reckoning\|War of Reckoning]], Mazish served as a parshwoman in [[Alethkar\|Alethkar]] along with her mate, [[Dul\|Dul]]. Their master was harsh, and rejected Dul's request for the pair to be married in the human tradition. After the coming of the [[Everstorm\|Everstorm]], Mazish and Dul's minds were awakened and they joined (or were conscripted into) [[Odium\|Odium's]] forces. However, they soon became some of the first singers recruited by Venli to join her resistance movement. The couple were able to get married after they were freed.
 Mazish became a friend of Venli's and one of the most trusted members of her inner circle. She was able to gain a position serving [[Leshwi\|Leshwi]] in [[Kholinar\|Kholinar]]. She and Dul advised new recruits on how to act around the [[Fused\|Fused]]. She was present when [[Shumin\|Shumin]] became Leshwi's assistant stormsetter, and subsequently attended a meeting with her in Venli's quarters.

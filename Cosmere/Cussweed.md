@@ -1,9 +1,8 @@
 |**Cussweed**|
 |-|-|
 |**Type**|Plant|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Cussweed** or **yamma root** is a plant native to [[Roshar\|Roshar]].
 Ground cussweed roots are useful in treating sores.

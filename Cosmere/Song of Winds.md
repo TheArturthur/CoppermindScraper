@@ -1,9 +1,8 @@
 |**Song of Winds**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Song of Winds** is one of the songs detailing the oral history of the [[Listener\|listeners]] on [[Roshar\|Roshar]]. It mentions the danger of [[Stormform\|stormform]] and stormspren and foreshadows the events at the [[Battle of Narak\|Battle of Narak]].
 The song was presumably among those written by the Last Legion as part of their efforts to retain their culture after abandoning their gods.

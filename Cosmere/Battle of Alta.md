@@ -3,7 +3,6 @@
 |**Participants**|[[Defiant Defense Force\|Defiant Defense Force]], [[Varvax\|Krell]]|
 |**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 The **Battle of Alta** took place above [[Alta Base\|Alta Base]] when [[Spensa\|Spensa]] was seven years old. Forty human [[Starfighter\|starfighters]] participated, against one hundred [[Superiority\|Krell]] fighters, the largest force the Krell have ever sent against the humans. Of the participants, fourteen survived and twenty six (including [[Zeen Nightshade\|Chaser]]) died.
 

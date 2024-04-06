@@ -2,11 +2,11 @@
 |-|-|
 |**Siblings**|[[NanHar\|NanHar]]|
 |**Died**||
-|**World**|[[Roshar\|Roshar]]|
+|**Ethnicity**|[[Veden\|Veden]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**NanKhet** was an ancient king on [[Roshar\|Roshar]]. The size of his kingdom is unknown, but it presumably included modern-day [[Silnasen\|Silnasen]] in southern [[Jah Keved\|Jah Keved]]. He only held the throne for three months.
+**NanKhet** was an ancient [[Veden\|Veden]] king on [[Roshar\|Roshar]]. The size of his kingdom is unknown, but it presumably included modern-day [[Silnasen\|Silnasen]] in southern Jah Keved. He only held the throne for three months.
 
 ## Contents
 

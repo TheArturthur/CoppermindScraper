@@ -1,5 +1,6 @@
+ by  Sergey Shikin  Cover for the Russian omnibus of the Reckoners trilogy
 This article is about the series of books. For the group of freedom fighters, see [[Reckoners\|Reckoners]].
-*The Reckoners* is a young adult series written by [[Brandon Sanderson\|Brandon Sanderson]]. The original series of books included *Steelheart, Firefight, Calamity*, [[Lux (book)\|Lux]] and a novelette, *Mitosis*. An additional story about a different group of [[Reckoners\|Reckoners]] was recently released, with *Lux* being released in July of 2021 as an audio original.
+*The Reckoners* is a young adult series written by [[Brandon Sanderson\|Brandon Sanderson]]. The original series of books included *Steelheart, Firefight, Calamity*, and a novelette, *Mitosis*. An additional story about a different group of [[Reckoners\|Reckoners]], *Lux*, was released in July of 2021 as an audio original.
 
 ## Contents
 
@@ -11,7 +12,7 @@ This article is about the series of books. For the group of freedom fighters, s
 
 
 ## Summary
-The setting of *The Reckoners* series is a twenty-first century alternate . Visible in the sky is a large red object called [[Calamity (Epic)\|Calamity]], which appeared twelve years before the events of Steelheart. One year after the emergence of Calamity, the [[Epic\|Epics]], super-powered humans, appeared.
+The setting of The Reckoners series is a twenty-first century alternate Earth. Visible in the sky is a large red object called [[Calamity (Epic)\|Calamity]], which appeared twelve years before the events of Steelheart. One year after the emergence of Calamity, the [[Epic\|Epics]], super-powered humans, appeared.
 
 For more detailed history see Earth (Reckoners)#History
 For book summaries see [[Steelheart/Summary\|Steelheart/Summary]], [[Firefight/Summary\|Firefight/Summary]], [[Calamity/Summary\|Calamity/Summary]], [[Mitosis/Summary\|Mitosis/Summary]] and Lux/Summary

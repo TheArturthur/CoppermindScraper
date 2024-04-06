@@ -2,13 +2,16 @@
 |-|-|
 |**Family**|
 |**Children**|[[Steris\|Steris]], [[Marasi\|Marasi]]|
+|**Relatives**|[[Armal\|Armal]]|
+|**Ancestors**|[[Spook\|Spook]]|
+|**Descendants**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Titles**|Lord|
+|**Religion**|[[Survivorism\|Survivorism]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
-This page or section needs to be updated with new information for *Shadows of Self*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Shadows of Self* and *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **Jackstom Harms** is the head of [[House Harms\|House Harms]] and a member of the [[Elendel\|Elendel]] nobility on [[Scadrial\|Scadrial]].
 
@@ -27,7 +30,7 @@ This page or section needs to be updated with new information for *Shadows of S
 
 ## Appearance and Personality
 >“*This is our lot, son. To be lord of a house requires certain sacrifices.*”
-\-Lord Harms to Waxillium[2]
+\-Lord Harms to Waxillium[3]
 
 Lord Harms is a rather fat man with long mustaches that hang down to his neck. He wears very expensive suits and often carries a mahogany cane that is a Harms family heirloom. Lord Harms is in the habit of daubing at his face with a handkerchief when in high stress situations.
 On the surface, Lord Harms is the very portrait of propriety. The man is dutiful, punctual to a fault, well-dressed, and lord of a wealthy, if less-influential, house. However, beneath the surface he is quite different. Lord Harms can be rude on occasion and is willing to force his way into rooms if he is left waiting too long. He also has a somewhat off-color sense of humor and will sometimes needle his daughter [[Steris\|Steris]] until she is enraged. Lord Harms at one point had an affair, which resulted in the birth of [[Marasi\|Marasi]]. Despite his indiscretions, Lord Harms often acts superior and condescending towards others, particularly towards [[Waxillium Ladrian\|Waxillium Ladrian]], who he feels needs a strong hand to keep him on the right path. When a situation becomes dire however, this arrogant facade cracks and all his bravado vanishes, leaving him desperate and helpless.
@@ -35,7 +38,7 @@ It seems that despite his apparent flaws, Lord Harms is a competent lord to his 
 
 ## History
 >“*I care nothing for the money or jewelry they took from me. It can be replaced, and most of it was insured anyway. But I’ll pay any price for Steris. Please. She is to be your fiancée! You have to find her!*”
-\-Lord Harms to Waxillium[4]
+\-Lord Harms to Waxillium[5]
 
 ### Early Life
 Very little is known about Lord Harms' early life. At some point during his youth, he was married to a woman with a rather harsh and cold personality -- likely a political marriage. His wife gave birth to a daughter, Steris. At some point during Lord Harms' marriage, he had an affair with another woman. That woman ultimately became pregnant and gave birth to [[Marasi\|Marasi]], Lord Harms' second daughter. Embarrassed to have an illegitimate daughter, he had her sent to a cousin house, where she was raised as Marasi Colms. Although not raised by Lord Harms, she was fully aware that he was her father and spent much time with him, as well as her half-sister, Steris.
@@ -43,7 +46,7 @@ When it became apparent that Marasi was a [[Pulser\|Pulser]], Lord Harms insiste
 
 ### Dealings with House Ladrian
 Several months after his return from the [[Roughs\|Roughs]], High Lord [[Waxillium Ladrian\|Waxillium Ladrian]] approached Lord Harms about the possibility of marriage to his daughter Steris. Since three other attempts to marry Steris off had been unsuccessful, Lord Harms jumped at the opportunity to join his house to such a prestigious house as [[House Ladrian\|House Ladrian]]. After a few months and several letters and conversations, Lord Harms felt prepared to allow Wax to begin courting Steris. He and Steris met Wax, as well as [[Wayne\|Wayne]] in the guise of Wax's fictional uncle Maksil, at Ladrian Mansion to discuss the potential betrothal. He also brought Marasi, who had insisted on accompanying them in order to meet her hero, Wax. Despite some misgivings about Wax's past as a lawman, the conversation proved fruitful and Lord Harms agreed that Wax and Steris should start courting with the eventual intention of marriage. The two decided that they would begin their courtship at the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]].
-While attending the wedding dinner, Lord Harms sat at a table with Wax, Steris, and Marasi. They conversed about Wax's time as a lawman and Marasi's studies at the university, although Lord Harms attempted to keep Marasi quiet. Eventually, the conversation grew too inappropriate and angered Steris, who left. Lord Harms blamed Marasi and Wax, although he admitted that he too was often tempted to annoy Steris. He sighted his friend, Lord [[Alernath\|Alernath]], at the bar and left the table to join him. When the Vanishers entered the room, Lord Harms was still seated at the bar and was too far away to do anything when Marasi and Steris were kidnapped.
+While attending the wedding dinner, Lord Harms sat at a table with Wax, Steris, and Marasi. They conversed about Wax's time as a lawman and Marasi's studies at the university, although Lord Harms attempted to keep Marasi quiet. Eventually, the conversation grew too inappropriate and angered Steris, who left. Lord Harms blamed Marasi and Wax, although he admitted that he too was often tempted to annoy Steris. He sighted his friend, Lord [[Alernath\|Alernath]], at the bar and left the table to join him. When the Vanishers entered the room, Lord Harms was still seated at the bar and was too far away to do anything when Steris was kidnapped.
 After the firefight in which Wax and Wayne managed to rescue Marasi but not Steris, Lord Harms seemed stunned by Steris' kidnapping. He was terrified for her and begged Wax to find her, totally abandoning his previously condescending attitude towards Wax. He then left the party to sit in his carriage until Marasi wanted to leave so he could have some time to think for himself. The next day, Lord Harms agreed to finance Wax's efforts to find her, including the cost of the equipment Wax had purchased to analyze the [[Aluminum\|aluminum]] alloy in the Vanishers' equipment, as House Ladrian was lacking in liquid assets.
 
 ## Relationship with Daughters
@@ -52,4 +55,4 @@ His relationship with Marasi however, is far less positive. Years after her birt
 
 
 
-https://coppermind.net/wiki/Lord_Harms
+https://coppermind.net/wiki/Jackstom_Harms

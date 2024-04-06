@@ -3,10 +3,9 @@
 |by  Isaac Stewart |
 |**Ruler**|Highprince [[Ruthar\|Ruthar]]|
 |**Occupied by**|[[Singers\|Singers]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Ruthar princedom** is one of ten [[Alethi\|Alethi]] princedoms in [[Alethkar\|Alethkar]]. Their house colors are red & blue. The Ruthar princedom has one [[Shardblade\|Shardblade]], owned by Highlord Ruthar.
 

@@ -1,7 +1,6 @@
 |**Wode**|
 |-|-|
 |**Universe**| [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 The **Wode** are a group of humans who administrate the [[State\|States]]. They use [[XinWey's Doctrine\|XinWey's Doctrine]] to govern the [[Liveborn\|Liveborn]], and control the programming of the States and all the [[Machineborn\|Machineborn]] in them.
 

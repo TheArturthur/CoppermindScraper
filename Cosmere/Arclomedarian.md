@@ -5,9 +5,9 @@
 |**Species**|[[Sleepless\|Sleepless]]|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
 |**Nationality**|[[Aimian\|Aimian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Edgedancer*|
 
 **Arclomedarian**, also known as **Arclo**, is a [[Sleepless\|Dysian Aimian]] who resides in [[Tashikk\|Tashikk]]. It is thousands of years old, having been alive since before the [[Last Desolation\|Last Desolation]].
 
@@ -32,7 +32,7 @@
 Its true form is made of many [[Cremling\|cremling]]-like creatures it refers to as hordelings that fit together to form the different parts of its body. Arclo typically imitates the form of an elderly man with dark skin and a grey mustache. It is very interested in philosophical debates and often brings up some of these ideas when it speaks to Lift, at one point even going off on several philosophical tangents when Lift is meeting with it in the alleyway where it killed the two [[Skybreakers\|Skybreakers]] acolytes.
 
 ## Attributes and Abilities
-Over many years Arclo has bred its hordlings to allow it to change its appearance to that of a human. It does its best to maintain as close to a human form as it can, but it is not confident in its ability to fool humans, and so it conceals most of its body in a tightly wrapped [[Shiqua\|shiqua]] to compensate for this. Arclo's hordlings can sense Lift's [[Spren\|spren]], [[Wyndle\|Wyndle]].
+Over many years Arclo has bred its hordelings to allow it to change its appearance to that of a human. It does its best to maintain as close to a human form as it can, but it is not confident in its ability to fool humans, and so it conceals most of its body in a tightly wrapped [[Shiqua\|shiqua]] to compensate for this. Arclo's hordelings can sense Lift's [[Spren\|spren]], [[Wyndle\|Wyndle]].
 
 ## History
  by  Marie Seeberger 
@@ -52,4 +52,4 @@ Unlike many of the other Sleepless living on Roshar, Arclo is not participating 
 
 
 
-https://coppermind.net/wiki/Arclo
+https://coppermind.net/wiki/Arclomedarian

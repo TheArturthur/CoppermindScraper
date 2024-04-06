@@ -1,10 +1,9 @@
 |**The Girl Who Looked Up**|
 |-|-|
-|by  Connor Chamberlain |
+|by  barlydoodles |
 |**Type**|Folk tale|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Funny, isn't it, how so many of our stories start the same way, but have opposing endings? In half, the child ignores her parents, wanders out into the woods, and gets eaten. In the other half she discovers great wonders.*”
 \-Wit[1]
@@ -30,6 +29,7 @@ A girl lives in a village surrounded by an impossibly high wall, which nobody in
 She climbs the wall, and when she reaches the top she finds a better world, lit by [[Stormlight\|Stormlight]]. She realizes that the people of her village were the monsters, living without light and the wall was to keep them contained. She steals some light and takes it back to her village. This act causes the storms to come and destroy the wall.
 
 ## The Tellings
+ by  barlydoodles 
 Whilst exploring [[Urithiru\|Urithiru]], [[Shallan\|Shallan]] tells the tale as a play, using Lightweaving in an amphitheater to create an image of the scenes in the play and eventually emulating a shadowy crowd watching from the stalls. Shallan's narrative tells of a hopeful tale, with an unfortunate end.
 The story is then repeated by [[Hoid\|Hoid]] to Shallan while she is in [[Kholinar\|Kholinar]], after discovering her attempts at helping the native residents had failed. His version of the story includes details of what happened after the girl passed the wall.
 

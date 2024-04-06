@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Artist|
 |**Nationality**|[[JinDo\|JinDo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 **Atsuko** is a [[JinDo\|JinDo]] artist on [[Sel\|Sel]] during the [[Late Era\|Late Era]].
 Atsuko is also referred to more formally as **Atsuko of Jindo**. He visits the [[Imperial Seat\|Imperial Seat]] of the [[Rose Empire\|Rose Empire]] as a guest. He fell sick for three weeks and stays in a room in the [[Rose Palace\|Rose Palace]].

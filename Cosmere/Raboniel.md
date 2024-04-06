@@ -1,20 +1,20 @@
 |**Raboniel**|
 |-|-|
-|by  Raquel_kholin |
+|by  Caio Santos |
 |**Children**|[[Essu\|Essu]]|
 |**Died**|1175|
-|**Abilities**|[[Fused\|Fused]]|
+|**Abilities**|[[Fused\|Fused]] |
 |**Titles**|Lady of Wishes, Lady of Pains|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*Raboniel does not think like other Fused, Venli. She hears a much grander song. A skewed and twisted one, but one she seeks to sing without traditional regard for Odium's plans.*”
 \-Lady Leshwi to Venli[2]
 
 
-**Raboniel** is one of the [[Fused\|Fused]] scholars on [[Roshar\|Roshar]]. She organizes the operation for the Fused occupation of Urithiru, and with the help of [[Navani Kholin\|Navani Kholin]] develops [[Warlight\|Warlight]], as well the method to create [[Anti-Stormlight\|Anti-Stormlight]] and [[Anti-Voidlight\|Anti-Voidlight]].
+**Raboniel** is a highly ranked [[Fused\|Fused]] scholar and one of the [[Fannahn-im\|fannahn-im]]. She organizes the operation for the Fused occupation of Urithiru, and with the help of [[Navani Kholin\|Navani Kholin]] develops [[Warlight\|Warlight]], as well the method to create [[Anti-Stormlight\|anti-Stormlight]] and [[Anti-Voidlight\|anti-Voidlight]].
 
 ## Contents
 
@@ -45,7 +45,7 @@ For more images, see [[Raboniel/Gallery\|/Gallery]].
 \-Raboniel[4]
 
 
-Raboniel is a very tall, narrow-figured femalen [[Fused\|Fused]], with a topknot of red-orange hairstrands, carapace like a helmet and very long arms and fingers. She also has carapace along her arms and chest, and is broad-shouldered with the small breasts common for most femalen singers. She wears a variety of different fashions, including ornate robes, travel leathers for battle, garments similar to havahs, and Thaylen clothing, without regard for gender.
+Raboniel is a very tall, narrow-figured femalen [[Fused\|Fused]], with red and black skin marbling and a topknot of red-orange hairstrands. She has carapace like a helmet and very long arms and fingers. She also has carapace along her arms and chest, and is broad-shouldered with the small breasts common for most femalen singers. She wears a variety of different fashions, including ornate robes, travel leathers for battle, garments similar to havahs, and Thaylen clothing, without regard for gender.
 
 >“*Raboniel is a scholar, but not the kind you would wish to work beneath.*”
 \-Lady Leshwi[3]
@@ -60,7 +60,7 @@ As a scholar, Raboniel is perhaps the most knowledgeable of any Fused regarding 
 
 ## History
 ### Heraldic Epochs
-Raboniel had a daughter, [[Essu\|Essu]], and theorized that she and Essu working together might help them stay sane, but Essu went mad. Raboniel used to have the title Lady of Pains, but decided she did not like that title, and was then referred to as Lady of Wishes instead. During the last Return, she developed a disease intended to kill all humans on the planet; although it turned out to affect singers as well, she still chose to release it. However, it did not work as expected, as fewer than one in ten humans was killed, and one in a hundred singers.
+Raboniel had a daughter, [[Essu\|Essu]], and theorized that she and Essu working together might help them stay sane, but Essu went mad. Raboniel used to have the title Lady of Pains, but decided she did not like that title, and was then referred to as Lady of Wishes instead. During the last Return, she developed a disease intended to kill all humans on the planet; although it turned out to affect singers as well, she still chose to release it. However, it did not work as expected, as fewer than one in ten humans was killed, and one in a hundred singers. Leshwi says that due to Raboniel's madness, she was to "remain asleep" after the last Return.
 
  by  Petar Penev  Leading the attack on Urithiru, flanked by the [[Makay-im\|makay-im]]
 ### Occupation of Urithiru
@@ -78,7 +78,7 @@ Raboniel encountered Kaladin while continuing her corruption of the Sibling - th
 When Navani continued to stall instead of agreeing fully to work with her, Raboniel showed her a singer attempting to break the Sibling's shield with Elhokar's Shardblade, seemingly unaware that the blade had belonged to Navani's deceased son. Raboniel then ordered Navani to work on her own from then on and send messages through Raboniel to her scholars. She showed Navani a replica of the crystal pillar shield and explains the mechanics - a type of Soulcasting where the fabrial convinces the air around the pillar that it is glass. She also told Navani about Lifelight and Towerlight, explaining that the latter is why Urithiru is so interesting to her. She wanted to combine Stormlight and Voidlight but was unsure if it would be possible, comparing them to oil and water in their inability to mix. Navani corrected her, showing that with an emulsifier oil and water can be combined, which made Raboniel realize that she should not accept ancient teachings without question. She tasked Navani with experimenting with Light and gave her access to all the scholarly texts she requested, including those from Kholinar, and experimented on her own as well to no avail. She told Navani that if she was able to combine Stormlight and Voidlight, Raboniel would free Urithiru from singer rule, although Navani did not believe her. She also confided in Navani about her daughter, Essu, as a way to gain Navani's trust.
 
 >“*I don't think you can comprehend how tired I am of this war, Navani. How tired all of us are. Your Heralds too.*”
-\-Raboniel to Navani[6]
+\-Raboniel to Navani[7]
 
  by  Viridializard  Attuning the Rhythm of War
 Raboniel found the location to the node in the well by listening to Navani's conversations with the Sibling and attempted to corrupt it, but Kaladin managed to escape both the Pursuer and Leshwi to destroy it. She brought Navani food and wine and told her about the past, and the origins of the human-singer conflict, mentioning that her grandmother had told her about the arrival of the humans to Roshar. Navani mentioned no longer being interested in doing research, but Raboniel convinced her to continue. They began to work together - at Navani's request, Raboniel sang the rhythms of Honor and Odium, and Navani learned Honor's rhythm with the help of a fabrial. With Raboniel singing Odium's rhythm and Navani singing Honor's, they were able to combine Stormlight and Voidlight for the first time. Raboniel entitled the rhythm they created the Rhythm of War, then revealed her true purpose to Navani - creating Light that could act as anti-Investiture. They began to collaborate and co-authored a lab notebook called *Rhythm of War* in which they recorded their experimentation.
@@ -86,24 +86,24 @@ At Navani’s request, Raboniel gave her a raysium dagger and explained how it w
 She conversed with Venli about regret and the reason for the war. She then released Venli from her service, as the Sibling's corruption was almost complete, and gave her the news of the surviving group of listeners who escaped through the chasms before the [[Everstorm\|Everstorm]], as well as a requisition writ for supplies.
 
 >“*Haven't I led you to a weapon? Haven't I given you the secrets you needed to make it this far? Within reach of something that could kill a god? All because we worked together. Let's take this last step as one.*”
-\-Raboniel to Navani[23]
+\-Raboniel to Navani[5]
 
  by  Esther Schrader  Working with [[Navani\|Navani]]
 Navani, descending into feverish and obsessive research, was able to create a tone that repelled Voidlight using the bow and plate system. Although she tried to hide her breakthrough from Raboniel, the Regals could hear a difference in the tones and Raboniel came to investigate Navani's progress. Finding the new plate, Raboniel played it, realized what Navani had done, and convinced her to engage in collaboration again. Using a Thaylen vacuum tube and Navani's anti-Voidlight plate, they successfully created anti-Voidlight. When Raboniel touched the gemstone, she described it as a painful noise, but she was elated by the discovery, and as Navani left the room, Raboniel immediately tried to combine Voidlight and anti-Voidlight, which created an explosion in which she and her attendant were both injured, but survived. She then ordered Navani to fill another gemstone with anti-Voidlight, put the gem into a second raysium dagger, and altered the dagger so the anti-Voidlight would flow out of the blade. Using this blade, she stabbed her daughter in the chest, killing her. It was a painful death, and Raboniel expressed deep and genuine sorrow, cradling Essu's body and crying. She also revealed the true purpose of her experiments to Navani, which was not to find a way to kill Odium but instead to create a method of permanently killing spren. She gathered Navani's notebook and materials and used her work as a guide to create anti-Stormlight. Unbeknownst to Raboniel, Navani picked up the dagger, which still had a small anti-Voidlight charge.
-Moash suspected that Raboniel had known the location of the final node for a while, but had been stalling in order to continue researching with Navani. When Raboniel approached the pillar node to finish corrupting the Sibling, Navani primed her [[Painrial\|painrial]] trap with a magnet and planned to stab Raboniel with the Voidlight dagger. However, Raboniel gave Navani the chance to escape, which she did not take because her honor would not allow her to abandon the Sibling. Navani proposed a deal in order to lure Raboniel into her fabrial trap: they would wait in her rooms together, and if Moash defeated Kaladin, she would submit to him, and if not, then Raboniel would leave the Sibling alone. The plan succeeded, and Navani, who had felt the effects of the painrial before, was able to overpower Raboniel and stab her in the chest with the Voidlight dagger. She was weakened but was not enough Light to kill her, and she complimented Navani on the trick and urged her again to run and take the research with her. Navani realized that although Raboniel had wanted the singers to win, she would prefer Odium's forces to be defeated instead of allowing the war to continue on forever.
+Moash suspected that Raboniel had known the location of the final node for a while, but had been stalling in order to continue researching with Navani. When Raboniel approached the pillar node to finish corrupting the Sibling, Navani primed her [[Painrial\|painrial]] trap with a magnet and planned to stab Raboniel with the anti-Voidlight dagger. However, Raboniel gave Navani the chance to escape, which she did not take because her honor would not allow her to abandon the Sibling. Navani proposed a deal in order to lure Raboniel into her fabrial trap: they would wait in her rooms together, and if Moash defeated Kaladin, she would submit to him, and if not, then Raboniel would leave the Sibling alone. The plan succeeded, and Navani, who had felt the effects of the painrial before, was able to overpower Raboniel and stab her in the chest with the anti-Voidlight dagger. She was weakened but was not enough Light to kill her, and she complimented Navani on the trick and urged her again to run and take the research with her. Navani realized that although Raboniel had wanted the singers to win, she would prefer Odium's forces to be defeated instead of allowing the war to continue on forever.
 When Navani was subsequently attacked by [[Moash\|Moash]], Raboniel latched onto his foot and clawed at him to buy time for Navani. She also reversed the dagger to drain his Stormlight when she stabbed him. Navani later returned and thanked Raboniel, who told Navani to kill her because most of her soul was burned away, and if she returned she would be insane. Navani did so reverently, holding her hand and attuning the Rhythm of War with Raboniel one last time as she died. She left a note on Raboniel's body that called her a hero and said it was not to be disturbed.
 
 ## Relationships
 ### Essu
 >“*No more rebirth. No more Returns. Free at last, my baby. Free.*”
-\-Raboniel after killing Essu[23]
+\-Raboniel after killing Essu[5]
 
 
 Essu is Raboniel's daughter, gone mad from the stresses of being a Fused. Raboniel loves her deeply. Essu tends to follow her mother around and sometimes mimics her actions. Watching Essu's descent into madness over time was a very painful experience for Raboniel, and her first action with the anti-Voidlight is to kill her daughter as a mercy, and she truly grieves her daughter's death.
 
  by  Viridializard 
 ### Navani
-Raboniel is impressed with the scholarly work that Navani has done, and she requests that Navani help her in developing [[Warlight\|Warlight]]. Originally, Navani resists and stalls, but Raboniel sees through her efforts. Venli remarks that Raboniel seems to enjoy the challenge of manipulating Navani. With both their efforts, they manage to develop not only [[Warlight\|Warlight]], but also [[Anti-Stormlight\|Anti-Stormlight]] and [[Anti-Voidlight\|Anti-Voidlight]]. Raboniel is appreciative of Navani's scholarship and compliments her often and genuinely, although Navani usually deflects the praise.
+Raboniel is impressed with the scholarly work that Navani has done, and she requests that Navani help her in developing [[Warlight\|Warlight]]. Originally, Navani resists and stalls, but Raboniel sees through her efforts. Venli remarks that Raboniel seems to enjoy the challenge of manipulating Navani. With both their efforts, they manage to develop not only [[Warlight\|Warlight]], but also [[Anti-Stormlight\|anti-Stormlight]] and [[Anti-Voidlight\|anti-Voidlight]]. Raboniel is appreciative of Navani's scholarship and compliments her often and genuinely, although Navani usually deflects the praise.
 Raboniel demands that Navani address her with the title of "Ancient One" or "Lady of Wishes," but in the course of their research together, she drops the requirement, saying that Navani's scientific discoveries have made them equals. As they spend more time together, Navani gets better at understanding the rhythms and interpreting Raboniel's emotions through them. Eventually, Raboniel grants Navani the title "Voice of Lights" as a display of her respect for Navani and her achievements.
 Navani was touched by Raboniel's relationship with her daughter Essu, as they were both mothers who had lost children, and Raboniel's grief over her daughter humanized her in Navani's mind. In Raboniel's final moments, she relied on Navani for comfort and they showed genuine care for each other. Although much of their relationship involved trying to manipulate or outsmart the other, they formed a true emotional connection and Navani mourned Raboniel after she died.
 

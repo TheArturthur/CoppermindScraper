@@ -3,9 +3,8 @@
 |**Profession**|Soldier|
 |**Residence**|[[Vedenar\|Vedenar]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Geved** is a veteran soldier from [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

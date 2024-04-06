@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Spren|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Dustbringer\|Dustbringer]] magic, [[Splinter\|Splinter]]s|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -50,7 +49,7 @@ In the [[Cognitive Realm\|Cognitive Realm]], ashspren take the form of humanoids
 In the Physical Realm they can be unseen and unheard when they wish to be, making them excellent spies.
 
 ### Nahel bond
-Ashspren are one of the few spren capable of forming [[Nahel bond\|Nahel bonds]] with people, turning them into [[Surgebinder\|Surgebinders]] with the power over [[Division\|Division]] and [[Abrasion\|Abrasion]].
+Ashspren are one of the few spren capable of forming [[Nahel bond\|Nahel bonds]] with people, turning them into [[Surgebinder\|Surgebinders]] with the powers of [[Division\|Division]] and [[Abrasion\|Abrasion]].
 
 ## Culture
 Ashspren like to break things around them to see what's inside. Hundreds of them have died during the [[Recreance\|Recreance]], and unlike many others, it seems that ashspren never forgave humanity. They remain hostile towards them, blaming people's organized worship of [[Honor\|Honor]] for their kinsmen's many deaths. They seem uninterested in reforming the [[Knights Radiant\|Knights Radiant]], although it's uncertain how prevalent this outlook is. Some, like [[Spark\|Spark]], seem willing to bond with people or cooperate with [[Odium\|Odium's]] forces, while others dislike and avoid the [[Voidbringers\|Voidbringers]].

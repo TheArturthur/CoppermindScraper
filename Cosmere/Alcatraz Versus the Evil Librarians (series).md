@@ -1,5 +1,5 @@
 This article is about [[Brandon Sanderson\|Brandon Sanderson's]] series. For the character, see [[Alcatraz Smedry\|Alcatraz Smedry]].
-*Alcatraz Versus the Evil Librarians*, also referred to as *Alcatraz* or *Alcatraz Versus*, is a middle-grade series by [[Brandon Sanderson\|Brandon Sanderson]]. It currently consists of 5 books told from the point of view of [[Alcatraz Smedry\|Alcatraz Smedry]], a young boy and heir to [[House Smedry\|House Smedry]].
+**Alcatraz Versus the Evil Librarians**, also referred to as **Alcatraz** or **Alcatraz Versus**, is a middle-grade series by [[Brandon Sanderson\|Brandon Sanderson]]. It currently consists of 5 books told from the point of view of [[Alcatraz Smedry\|Alcatraz Smedry]], a young boy and heir to [[House Smedry\|House Smedry]].
 
 ## Contents
 
@@ -24,11 +24,12 @@ The first four books were originally published by [[Scholastic\|Scholastic]], on
 |**2009**|*The Knights of Crystallia*|#3|Novel|||
 |**2010**|*The Shattered Lens*|#4|Novel|||
 |**2016**|*The Dark Talent*|#5|Novel|||
+|**2022**|*Bastille Versus the Evil Librarians*|#6|Novel|Coauthored by [[Janci Patterson\|Janci Patterson]]||
 
-The end-node to *The Dark Talent* includes a letter penned by [[Bastille\|Bastille]], in which she states that there would an additional book written from her perspective in order to tie up everything properly. The tentative title for the final book is *Alcatraz Bastille versus the Evil Librarians: The Worldspire*. Brandon had some trouble getting Bastille's voice right, so he reached out to his long-time friend and former student, [[Janci Patterson\|Janci Patterson]], who agreed to help with the book. After that, the two made "significant progress," and the book is almost done.
+The endnote to *The Dark Talent* includes a letter penned by [[Bastille\|Bastille]], in which she states that there would an additional book written from her perspective in order to tie up everything properly. The title for the final book is *Bastille Versus the Evil Librarians*. Brandon had some trouble getting Bastille's voice right, so he reached out to his long-time friend and former student, [[Janci Patterson\|Janci Patterson]], who agreed to help with the book. The book was released in September 2022.
 
 ## Cover Gallery
-*Alcatraz versus the Evil Librarians* · *The Scrivener's Bones* · *The Knights of Crystallia* · *The Shattered Lens* · *The Dark Talent*
+*Alcatraz versus the Evil Librarians* · *The Scrivener's Bones* · *The Knights of Crystallia* · *The Shattered Lens* · *The Dark Talent* · *Bastille Versus the Evil Librarians*
 ### Omnibus Covers
 
 

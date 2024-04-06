@@ -1,9 +1,8 @@
 |**Bridge Four**|
 |-|-|
 |by  Artur Felipe Mósca |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -82,16 +81,16 @@ Surviving members who've been in Bridge Four since the bridge crew days have [[G
  by [[Isaac Stewart\|Isaac Stewart]] The portion of the glyph meaning "Bridge Four"
 In Alethi society, slaves are often branded with a mark of slavery on their forehead to make their status apparent to anyone who sees them. A freed slave is given a writ of freedom, but he could also cover his slave brand with a tattoo indicating details of his freedom in order to lessen potential misunderstandings.
 Shortly after moving to Dalinar's warcamp, Kaladin hires a tattooist to give a Freedom tattoo to those Bridge Four members who'd been slaves. The first one to get it, [[Hobber\|Hobber]], insists on having glyphs for "Bridge Four" added to the tattoo as well, as a statement of loyalty and gratitude towards Bridge Four. The rest of the former slaves copy him. As a gesture of solidarity, even those who didn't have the slave brand request for the same tattoo as well, although [[Moash\|Moash]] opts to have the tattoo placed on his left shoulder instead of his forehead.
-Somehow the ink keeps on melting away from Kaladin's forehead when it is his turn to be tattooed. This is why Kaladin, whose own slave brand has not been healed even after using [[Stormlight\|Stormlight]] for so long, does not have the tattoos. The reason for this is not completely certain. After speaking the Fourth Ideal, Kaladin's father notices that his scars are falling off as scabs, leaving clean smooth skin behind.
+Somehow the ink keeps on melting away from Kaladin's forehead when it is his turn to be tattooed. It is believed that this is because of the Spiritual Aspect of Identity. Because Kaladin perceives the scars to be part of his identity the Investiture from the Stormlight reverses the change. After speaking the Fourth Ideal, Kaladin's father notices that his scars are falling off as scabs, leaving clean smooth skin behind.
 
 ## Notable Members
  by  Marie Seeberger 
 For a full list of members, see Category:Bridge Four.
 
 [[Kaladin\|Kaladin]] (captain)
-[[Lunamor\|Lunamor]] (lieutenant)
+[[Lunamor\|Lunamor]] (lieutenant; a.k.a Rock)
 [[Moash\|Moash]] (lieutenant; former—traitor)
-[[Teft\|Teft]] (lieutenant)
+[[Teft\|Teft]] (lieutenant—deceased)
 [[Skar\|Skar]] (lieutenant)
 [[Sigzil\|Sigzil]] (lieutenant)
 [[Dabbid\|Dabbid]]
@@ -99,9 +98,9 @@ For a full list of members, see Category:Bridge Four.
 [[Hobber\|Hobber]]
 [[Leyten\|Leyten]]
 [[Lopen\|Lopen]]
+[[Rlain\|Rlain]] (a.k.a. Shen)
 [[Lyn\|Lyn]] (post-Sadeas)
 [[Renarin Kholin\|Renarin Kholin]] (post-Sadeas)
-[[Rlain\|Rlain]] (a.k.a. Shen)
 
 
 

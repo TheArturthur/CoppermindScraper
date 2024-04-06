@@ -3,11 +3,10 @@
 |**Date**|1022 [[Final Empire\|FE]]|
 |**Participants**|[[Skaa rebellion\|Skaa rebellion]], [[Kelsier's crew\|Kelsier's crew]], [[Steel Ministry\|Steel Ministry]], [[Elend Venture\|Elend Venture]]|
 |**Effects**|End of the [[Final Empire\|Final Empire]]|
-|**City**|[[Luthadel\|Luthadel]]🐱︎|
-|**Dominance**|[[Central Dominance\|Central Dominance]]🐱︎|
+|**City**|[[Luthadel\|Luthadel]]|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Collapse** was the night when the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]] ended. After the [[Catacendre\|Catacendre]], [[Kelsier\|Kelsier's]] plan for it is sometimes known as the **Survivor's Gambit**.
 

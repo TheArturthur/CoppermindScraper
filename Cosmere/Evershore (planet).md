@@ -2,9 +2,8 @@
 |-|-|
 |**Ruler**| , [[Hesho\|Hesho]] |
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Evershore* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Evershore** is the native planet of the [[Kitsen\|kitsen]]. The planet's actual name is **Den of Everlasting Light Which Laps Gently upon the Shores of Time**, but the [[Superiority\|Superiority]] shortened the name to Evershore. It is a very large, and appears bluish-white from space. A large percentage of Evershore's surface is water, with civilization flourishing on a variety of islands. Historically, it was ruled by a hereditary monarch, however, this political system is replaced by a democracy during the rule of King [[Hesho\|Hesho]], so that the kitsen people have the opportunity to become primary citizens in the [[Superiority\|Superiority]].
 
@@ -18,4 +17,4 @@ For centuries this world has been ruled by a hereditary monarchy that borders on
 
 
 
-https://coppermind.net/wiki/Kitsen_homeworld
+https://coppermind.net/wiki/Evershore_(planet)

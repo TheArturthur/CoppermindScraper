@@ -2,13 +2,13 @@
 |-|-|
 |**Died**|c 341 [[Catacendre\|PC]]|
 |**Abilities**|Pewterarm|
-|**Groups**|[[Vanishers\|Vanishers]]🐱︎|
+|**Groups**|[[Vanishers\|Vanishers]]|
 |**Ethnicity**|[[Koloss\|Koloss]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Alloy of Law*|
+|**First Appeared**|*The Alloy of Law*|
 
-**Tarson** is a [[Koloss\|koloss]]-blooded [[Pewter\|pewter]] [[Misting\|Misting]] on [[Scadrial\|Scadrial]]. He is a [[Pewter\|pewter]] [[Savant\|savant]].
+**Tarson** is a [[Koloss\|koloss-blooded]] [[Pewter\|pewter]] [[Misting\|Misting]] (aka a [[Pewterarm\|Pewterarm]]) on [[Scadrial\|Scadrial]]. He is a [[Pewter\|pewter]] [[Savant\|savant]].
 
 ## Appearance and Personality
 Tarson is the child of a full-blooded koloss and a human Allomancer. He has a mottled, grey complexion, a thick neck and a solid build. He is easily identifiable as koloss-blooded. Tarson is shorter than average, but will continue to grow taller throughout his life due to his koloss blood. He is in his twenties and has a faint Roughs accent.

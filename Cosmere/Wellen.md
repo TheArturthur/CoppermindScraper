@@ -1,11 +1,11 @@
 |**Wellen**|
 |-|-|
+|**Descendants**|[[Wellid\|Wellid]]|
 |**Profession**|Soldier|
 |**Groups**|[[Ashweather Cett\|Ashweather Cett's]] army , Venture army|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Wellen**, also known as **Wells**, is a soldier on [[Scadrial\|Scadrial]].
 He was a member of [[Ashweather Cett\|Ashweather Cett's]] army that attacked [[Luthadel\|Luthadel]]. He was on *mist duty* with [[Jarloux\|Jarloux]] when [[Vin\|Vin]] and [[Zane\|Zane]] attacked Keep Hasting. He was the sole survivor of his squad of forty men.

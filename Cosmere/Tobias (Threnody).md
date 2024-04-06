@@ -2,9 +2,8 @@
 |-|-|
 |**Died**||
 |**Residence**|[[Fortress Town\|Fortress Town]]|
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Tobias** is a member of [[Red Young\|Red Young's]] team of bounty hunters from the [[Fortress Town\|Fortress Towns]] of Threnody.
 

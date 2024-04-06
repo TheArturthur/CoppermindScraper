@@ -1,9 +1,8 @@
 |**Bastion Hill**|
 |-|-|
-|**Region**|[[Forests of Hell\|The Forests of Hell]]🐱︎|
-|**World**|[[Threnody\|Threnody]]🐱︎|
+|**Region**|[[Forests of Hell\|The Forests of Hell]]|
+|**World**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Bastion Hill** is one of the [[Fortress Town\|Fortress Towns]] on [[Threnody\|Threnody]].
 Prices of [[Silver\|silver]] are on the rise in Bastion Hill, as well as [[Lastport\|Lastport]].

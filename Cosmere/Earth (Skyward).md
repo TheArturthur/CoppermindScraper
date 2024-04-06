@@ -1,9 +1,8 @@
 |**Earth (Skyward)**|
 |-|-|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series), Defending Elysium*|
 
-This page or section needs to be updated with new information for *ReDawn* and *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *ReDawn*, *Cytonic*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Did you know that even then, with computers and libraries and all kinds of reminders, we found it easy to forget where we came from?*”
 \-Becca Nightshade[1]

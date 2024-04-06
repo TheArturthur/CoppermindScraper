@@ -3,9 +3,8 @@
 |**Profession**|Scribe|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
 |**Nationality**|[[Tashikki\|Tashikki]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ghenna** is a scribe who works at the [[Grand Indicium\|Grand Indicium]] in [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] on [[Roshar\|Roshar]]. She is presumably a higher order scribe.
 

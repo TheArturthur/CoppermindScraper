@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Abilities**|Granting [[Rithmatics\|Rithmatic]] powers|
-|**Magic**|[[Rithmatics\|Rithmatics]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Sapient**|Yes|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*The chaining of a Shadowblaze, fourth entity removed, is an often indeterminable process, and the bindagent should consider wisely the situation before making any decision regarding the vessels to be indentured.*”
 \-Origins of Power[1]

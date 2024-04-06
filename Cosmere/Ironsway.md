@@ -1,10 +1,9 @@
 |**Ironsway**|
 |-|-|
-|**Region**|[[Bavland\|Bavland]]🐱︎|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Bavland\|Bavland]]|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ironsway** is a town in [[Bavland\|Bavland]] on [[Roshar\|Roshar]].
 

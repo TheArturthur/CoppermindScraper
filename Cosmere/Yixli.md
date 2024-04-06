@@ -2,9 +2,9 @@
 |-|-|
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
 |**Species**|[[Voidspren\|Voidspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Braize\|Braize]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Yixli** is the [[Voidspren\|Voidspren]] that leads [[Khen\|Khen]], [[Sah\|Sah]], and [[Kaladin\|Kaladin]] to [[Revolar\|Revolar]].
 

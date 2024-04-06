@@ -6,15 +6,18 @@
 |**Parents**|[[Attica Smedry\|Attica]], [[Shasta Smedry\|Shasta]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]], [[Oculator\|Oculator]]|
 |**Nationality**||
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**First Appeared**|*Alcatraz Versus the Evil Librarians*|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
+
 This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
 This article is about the character. For the book series, see [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians (series)]].
 >“*This is my story—the story of a selfish, contemptible fool. The story of a coward.*”
 \-Alcatraz describing his books[2]
 
 
-**Alcatraz Smedry** is the protagonist and narrator of the *Alcatraz Versus the Evil Librarians series*.
+**Alcatraz Smedry** is the protagonist and narrator of the first five books in the *Alcatraz Versus the Evil Librarians series*.
 
 ## Contents
 
@@ -69,7 +72,7 @@ On his thirteenth birthday, Alcatraz received a [[Sands of Rashid\|bag of sand]]
 The next day, [[Leavenworth Smedry\|Leavenworth Smedry]] arrived at his house and introduced himself as Alcatraz’s grandfather. He tried to get Alcatraz to leave with him after seeing that the sands had been stolen, but Alcatraz didn’t go, thinking the man to be crazy. A librarian agent tried to kill Alcatraz with a gun, and Grandpa Smedry saved Alcatraz by crashing his car through the wall. Alcatraz joined his grandfather, who drove him to his base and explained about the Sands of Rashid to Alcatraz. Alcatraz learned more about talents and Oculatory lenses. At Grandpa Smedry’s base, he met [[Sing Sing Smedry\|Sing Sing Smedry]] and received a pair of Oculator’s Lenses. Alcatraz met other members of Grandpa Smedry’s team, including [[Bastille\|Bastille]]. After receiving a few more Oculatory lenses, Alcatraz joined the others in an infiltration of the local library, where the Sands of Rashid were being held.
 
 ### First Library Infiltration
->“*My grandson will be leading this infiltraion. Our target is the central downtown library.*”
+>“*My grandson will be leading this infiltration. Our target is the central downtown library.*”
 \-Grandpa Smedry to Sing and Quentin[7]
 
 
@@ -179,7 +182,7 @@ Grandpa Smedry, Draulin, and Dif arrived, and Dif promptly shot Grandpa Smedry i
 Biblioden tied them to an alter made of outdated encyclopedias, saying that only one of them needed to be sacrificed. He said one could go free if one agreed to be sacrificed willingly. Bastille, awakened by Alcatraz’s antidote, arrived and started fighting her way through Librrarians up to the altar. Biblioden demanded that they make their choice. Alcatraz yelled for him to kill his father, while at the same time Attica volunteered to die. Biblioden then killed Attica, brutally sacrificing him to make the bloodforged lens. Draulin, Kaz, and Bastille arrived, but Biblioden and his soldiers were picked up by a ship and escaped. Biblioden had arranged for the Highbrary to blow up, killing all witnesses. Alcatraz and the others escaped, the giant explosion necessitating a huge cover-up on the Librarians’ part. Alcatraz felt torn up inside about his cowardice, but still wrote his biographies, feeling that the truth needed to be revealed to the world.
 
 ### Aftermath
-Alcatraz refused to write any more, despite Bastille’s numerous attempts for months to get him to. At some point, it is likely that he married Bastille, as Bastille signed her letter at the end of Alcatraz’s last biography as Bastille Smedry.
+Alcatraz refused to write any more, despite Bastille’s numerous attempts for months to get him to. At some point, he married Bastille, as Bastille signed her letter at the end of Alcatraz’s last biography as Bastille Smedry.
 
 ## Family
 For more information, see [[House Smedry\|House Smedry]].
@@ -195,4 +198,4 @@ His name is a reference to the .
 Alcatraz has made up many words, such as: crapaflapnasti, stoopid, and stoopiderific
 
 
-https://coppermind.net/wiki/Alcatraz
+https://coppermind.net/wiki/Alcatraz_Smedry

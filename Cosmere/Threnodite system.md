@@ -4,7 +4,6 @@
 |**Shards**|None|
 |**Notable Planet(s)**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence in the Forests of Hell*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -25,6 +24,9 @@ The third planet from the sun, where [[Shadows for Silence in the Forests of Hel
 
 This planet is the furthest out in the system, and is much farther from the other three planets than they are from each other. It is also much larger than the other three planets, which are similar in size to each other. The exclamation "Purity's Eye," used by [[Nazh\|Nazh]], likely derives from this planet.
 
+## Trivia
+A  is the Scottish gaelic version of a goll, and the third part of a round of mortuary keening.
+A  is a poem lamenting a person's death.
 
 
 https://coppermind.net/wiki/Threnodite_system

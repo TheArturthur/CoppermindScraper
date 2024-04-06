@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Animal|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -27,9 +26,11 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ## Appearance and Anatomy
  by  Abigail Barker 
 For more images, see [[Axehound/Gallery\|/Gallery]].
-Axehounds are hexapedal creatures with a smooth hide that is a cross between skin and carapace. It is more flexible than true carapace, but, like carapace, is formed of interlocking sections. They have a fluting fish-like tail. Axehounds have a pair of feather-like antennae positioned on the top of their heads which they can move as a form of communication. They have ear holes slightly further back on the sides of their heads. Axehounds have a main jaw as well as a pair of outer mandibles that they use to break into the shells of their prey. Their blood is violet.
+Axehounds are hexapedal creatures with a smooth hide that is a cross between skin and carapace. It is more flexible than true carapace, but, like carapace, is formed of interlocking sections. They have a fluting fish-like tail. Axehounds have a pair of feather-like antennae positioned on the top of their heads which they can move as a form of communication. The antennae are implied to be sensitive, with Axehound often bellowing when they get their antenna twisted. They have ear holes slightly further back on the sides of their heads. Axehounds have a main jaw as well as a pair of outer mandibles that they use to break into the shells of their prey. Much like other species on Roshar, such as Chasmfiends, their blood is violet.
 There are a wide variety of breeds of axehounds. The largest come up to a man's waist while the smallest can easily hide in the underbrush of a lait. Smaller breeds of axehounds tend to be very fast.
+Axehounds around the Purelake are very different from Alethi axehounds, to the extent of being considered a different species. The exact differences are unknown, but significant.
 Axehounds have very small gemhearts.
+They are related to [[Whitespine\|whitespines]], but have followed a different evolutionary path.
 
 ## Behavior
  by  EccoS 
@@ -45,35 +46,35 @@ Axehound fighting and the accompanying betting culture is popular in some areas.
  by  Marianne Eie 
 ### Idioms
 >“*...bellowing like an axehound whose antenna had been twisted.*”
-\-[10]
+\-[1]
 
 
 >“*...You'd have me slink home like a scolded axehound?*”
-\-[11]
-
-
->“*...like pet axehounds nipping at their master's heels.*”
 \-[12]
 
 
->“*...He settled down like a trumping axehound, perfectly content.*”
+>“*...like pet axehounds nipping at their master's heels.*”
 \-[13]
 
 
->“*Then he zipped up to join her, eager as an axehound puppy.*”
+>“*...He settled down like a trumping axehound, perfectly content.*”
 \-[14]
 
 
->“*The Kholin boys are chained axehounds, and we smell blood.*”
+>“*Then he zipped up to join her, eager as an axehound puppy.*”
 \-[15]
 
 
->“*...looking down longingly, like axehounds contemplating the food on the master’s table.*”
+>“*The Kholin boys are chained axehounds, and we smell blood.*”
 \-[16]
 
 
->“*They didn’t hold ground well; they had broken into roving bands, like axehound packs, loping through the city and looking for contests.*”
+>“*...looking down longingly, like axehounds contemplating the food on the master’s table.*”
 \-[17]
+
+
+>“*They didn’t hold ground well; they had broken into roving bands, like axehound packs, loping through the city and looking for contests.*”
+\-[18]
 
 
 ## Notable Axehounds

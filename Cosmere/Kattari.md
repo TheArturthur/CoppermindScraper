@@ -1,9 +1,8 @@
 |**Kattari**|
 |-|-|
 |**Type**|Weapon|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **kattari** is a variety of short sword on [[Roshar\|Roshar]].
 It is triangular in shape, and it is popular in western Roshar. When [[Dalinar Kholin\|Dalinar Kholin]] visits [[Azimir\|Azimir]] in [[Azir\|Azir]], the guards that accompany [[Noura\|Noura]] are armed with kattari. Dalinar has always wanted a kattari.

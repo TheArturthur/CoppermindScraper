@@ -1,13 +1,13 @@
 |**Roial**|
 |-|-|
+|by  King Oreo |
 |**Spouse**|[[Eoldess\|Eoldess]]|
 |**Died**|Stabbed by one of [[Telrii\|Telrii's]] men|
 |**Bonded With**|[[Opa\|Opa]]|
 |**Titles**|Duke of [[Ial Plantation\|Ial Plantation]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 Duke **Roial** of [[Ial Plantation\|Ial Plantation]] was an old Arelene merchant and nobleman.
 
@@ -24,7 +24,8 @@ Roial is an incredibly homely man, spindly and diminutive of frame, with locks o
 Upon first meeting him, Sarene notes that he is "boisterous instead of reserved, almost more mischievous than distinguished" and that he dominates conversations despite his homely looks and slight frame. She later learns that despite his riches, Roial is a very frugal man - except when it comes to his luxurious gardens, which he loves dearly and spends much time wandering in.
 
 ## Attributes and Abilities
-Roial is either the second or the third richest man in Arelon. He also has a [[Seon\|seon]] named [[Opa\|Opa]].
+Roial is either the second or the third richest man in Arelon. This is through his skill as a merchant.
+He also has a [[Seon\|seon]] named [[Opa\|Opa]].
 
 ## History
 Roial's late wife [[Eoldess\|Eoldess]] died ten years before the [[Reod\|Reod]].

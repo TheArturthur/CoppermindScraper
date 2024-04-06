@@ -3,9 +3,9 @@
 |**Abilities**|[[Elantrian\|Elantrian]]|
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Eonic** is a blacksmith who lives in New Elantris in [[Arelon\|Arelon]] on [[Sel\|Sel]].
 Eonic is one of the "incomplete" [[Elantrian\|Elantrians]] living in the crumbling city during the period after the [[Reod\|Reod]]. As an Elantrian, he is of [[Aonic\|Aonic]] descent, and his name is based on Aon Eon.

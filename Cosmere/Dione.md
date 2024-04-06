@@ -2,7 +2,6 @@
 |-|-|
 |**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -10,7 +9,7 @@ This page or section needs to be updated with new information for *Starsight*, 
 \-Morriumur[1]
 
 
-**Diones** are one of the five alien species that lead the [[Superiority\|Superiority]].
+**Diones** are an alien species from the planet [[Monrome\|Monrome]], and of the five species that lead the [[Superiority\|Superiority]].
 
 ## Contents
 
@@ -36,12 +35,12 @@ This page or section needs to be updated with new information for *Starsight*, 
 
 
 ## Appearance and Biology
-Diones are basically humanoid, with two arms, two legs, and a single head. They tend to look androgynous, use gender neutral pronouns, and don't use traditional male/female binary gender. While diones lack hair, they have prominent eye ridges in addition to bone-like growths underneath their eyes. Diones have one of three skin colors: crimson, vivid blue, or dark purple.
+Diones are basically humanoid, with two arms, two legs, and a single head. They tend to look androgynous, use gender neutral pronouns, and they don't subscribe to the traditional ideas of male and female binary genders. While diones lack hair, they have prominent eye ridges in addition to bone-like growths underneath their eyes. Diones have one of three skin colors: crimson, vivid blue, or dark purple.
 Each shade of skin indicates a different relationship status: purple skin indicates an individual that is searching for a partner or has recently broken their pair-bond, while the crimson and blue tones are reserved for individuals who are not searching for partners. The gender of diones is complex and different from that of humans: they have neither sex nor gender until they breed for the first time.
 
 ### Drafts
 >“*What you see in me is just a draft, a prospect, a possibility of who I could be.*”
-\-Morriumur[6]
+\-Morriumur[7]
 
 
 Dione breeding involves two diones merging into one that has the features and personality of a possible offspring; such an unborn dione is called a draft. They can be recognized by their very particular coloration, being entirely crimson on the right half and blue on the left. Similarly, a draft's facial features are split into two, with each side being that of the respective parent. Otherwise, drafts look just like any other dione.

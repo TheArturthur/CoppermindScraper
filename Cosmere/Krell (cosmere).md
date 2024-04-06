@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Animal|
 |**Native to**|[[Patji (island)\|Patji]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 This is one of several articles with this name. For others, see [[Krell\|Krell]].
 **Krell** are a species of animal found on the island of [[Patji (island)\|Patji]] on [[First of the Sun\|First of the Sun]].

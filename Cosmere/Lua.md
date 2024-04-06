@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Survivalist|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Lua** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]].
 He is a Samoan survivalist who is described as a beefy man with a big smile. He weighs about three hundred pounds. In the [[White Room\|White Room]] he would start conversations with whoever was closest.

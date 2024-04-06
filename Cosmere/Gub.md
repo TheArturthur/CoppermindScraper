@@ -2,12 +2,11 @@
 |-|-|
 |**Profession**|Potter|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Gub** is a potter on [[Roshar\|Roshar]].
-He works with [[Alalan\|Alalan]] in [[Urithiru\|Urithiru]]. Their master, [[Liganor\|Liganor]], once handled all the glaze work, but now Gub does it.
+**Gub** is a journeyman potter in [[Urithiru\|Urithiru]] on [[Roshar\|Roshar]].
+He works alongside [[Alalan\|Alalan]] in Master [[Liganor\|Liganor's]] pottery store. Liganor once handled all the glaze work, but now Gub does it in his place.
 
 
 

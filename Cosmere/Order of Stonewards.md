@@ -5,9 +5,9 @@
 |**Herald**|[[Talenel\|Talenel]]|
 |**Spren**|[[Peakspren\|Peakspren]]|
 |**Surges**|[[Cohesion\|Cohesion]] & [[Tension\|Tension]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Plate spren**|*Unknown*|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -44,11 +44,11 @@ The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal 
 
 ### The First Ideal
 >“*Life before death, strength before weakness, journey before destination*”
-\-The First Ideal of the Knights Radiant[4]
+\-The First Ideal of the Knights Radiant[5]
 
 
 ### The Second Ideal
-A possible second Ideal for Stonewards is "I will stand where others fall".
+The Second Ideal of the Stonewards is focused on being there when needed
 
 ## Abilities
  by  Steve Argyle  Stonewards
@@ -86,4 +86,4 @@ In battle, they served as the frontline troops. In times of peace, on the other 
 
 
 
-https://coppermind.net/wiki/Order_of_Stonewards
+https://coppermind.net/wiki/Stoneward

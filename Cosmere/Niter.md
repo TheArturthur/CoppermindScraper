@@ -1,13 +1,12 @@
 |**Niter**|
 |-|-|
 |**Died**|[[Battle of the Tower\|Battle of the Tower]], 1173|
-|**Titles**|Head of the [[Cobalt Guard\|Cobalt Guard]]🐱︎|
+|**Titles**|Head of the [[Cobalt Guard\|Cobalt Guard]]|
 |**Profession**|Soldier|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Niter** is the head of the [[Cobalt Guard\|Cobalt Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]].
 

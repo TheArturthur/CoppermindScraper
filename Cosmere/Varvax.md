@@ -1,12 +1,12 @@
 |**Varvax**|
 |-|-|
-|**World**|*Unknown*|
+|by  Brent Donoho |
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium, Skyward (series)*|
 
 This page or section needs to be updated with new information for *Starsight* and *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
 
-The **varvax** are a race of aliens in the Milky Way. They discovered [[Cytonics\|cytonics]] before developing computers and began to explore the galaxy by traveling through the [[Nowhere\|nowhere]] and to make contact with other species. The [[Interspecies Monitoring Coalition\|Interspecies Monitoring Coalition]] considers them to be of primary intelligence because they are a peaceful society, though this is only because—like all other species of primary intelligence—they imprison any dissenters and suppress their cytonic abilities.
+The **varvax** are a race of aliens in the Milky Way. They discovered [[Cytonics\|cytonics]] before developing computers and began to explore the galaxy by traveling through the [[Nowhere\|nowhere]] and making contact with other species. The [[Interspecies Monitoring Coalition\|Interspecies Monitoring Coalition]] considers them to be of primary intelligence because they are a peaceful society, though this is only because—like all other species of primary intelligence—they imprison any dissenters and suppress their cytonic abilities.
 A group of varvax were ordered to capture and secure the surrender of the [[Defiant (starship)\|Defiant Fleet]] after the Third Human War, however, the humans escaped to [[Detritus\|Detritus]]. The varvax now maintain a space station close to the planet and act as guards to prevent the humans escaping. They often send drones to attack the Defiants in order to prevent them gaining too much technology.  Before Spensa and M-Bot hacked their computer systems, the Defiants referred to them as the Krell.
 
 ## Contents

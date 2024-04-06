@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Human Species Expert|
 |**Species**|[[Varvax\|Varvax]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*An outdated law, the need to preserve the cultures of dangerous species must be balanced against the need to protect the peaceful species of the Superiority*”
 \-Sssizme on humans[1]

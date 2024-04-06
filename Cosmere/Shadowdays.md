@@ -2,9 +2,6 @@
 |-|-|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“* The Desolations had happened during the near-mythical shadowdays, before real history began.*”
 \- Dalinar's thoughts on the Desolations[1]
@@ -26,19 +23,19 @@ The **shadowdays** refers to history before recorded memory on [[Roshar\|Roshar]
 \- Renarin talking about history[3]
 
 
-The exact definition of when the shadowdays ended seems uncertain and differs between people. The majority of people seem to accept them as ending after the [[Last Desolation\|Last Desolation]], although it is possible some consider them to extend past that point. [[Renarin\|Renarin]] states that there was a time after the shadowdays when the [[Knights Radiant\|Knights Radiant]] still existed. However, [[Dalinar\|Dalinar]] comments that the [[Recreance\|Recreance]] is old enough to nearly be part of the shadowdays.
+The exact definition of when the shadowdays ended seems uncertain and differs between people. The majority of people seem to accept them as including the [[Heraldic Epochs\|era]] of the [[Silver Kingdoms\|Silver Kingdoms]] and the height of the [[Knights Radiant\|Knights Radiant]] and ending after the [[Last Desolation\|Last Desolation]], although it is possible some consider them to extend past that point. [[Renarin\|Renarin]] states that there was a time after the shadowdays when the Knights Radiant still existed. However, [[Dalinar\|Dalinar]] comments that the [[Recreance\|Recreance]] is old enough to nearly be part of the shadowdays.
 
 >“* Legends. The Recreance is an event so old, it might as well be in the shadowdays.*”
-\- Dalinar speaking of the Recreance[4]
+\- Dalinar speaking of the Recreance[5]
 
 
 Based on these comments, it is likely the shadowdays are generally considered to have ended sometime between the Last Desolation and the Recreance.
 
 ## Art and Literature
-There are very few surviving pieces of artwork or writing from this time, leading to the lack of knowledge about them. Much of the knowledge of that time comes from fragments, such as a copy of a copy of a mosaic. *The Way of Kings* is the only complete text from the shadowdays prior to the translation of the [[Dawnchant\|Dawnchant]], but lost texts like the [[Eila Stele\|Eila Stele]] were rediscovered along with the Dawnchant's translation. The carved pillars in the [[Kholinar Palace\|Kholinar Palace]] eastern hall is art surviving from this time.
+There are very few surviving pieces of artwork or writing from this time, leading to the lack of knowledge about them. Much of the knowledge of that time comes from fragments, such as a copy of a copy of a mosaic. *The Way of Kings*--which survives only in translation--is the only complete text from the shadowdays prior to the translation of the [[Dawnchant\|Dawnchant]], but lost texts like the [[Eila Stele\|Eila Stele]] were rediscovered along with the Dawnchant's translation. The carved pillars in the [[Kholinar Palace\|Kholinar Palace's]] eastern hall is art surviving from this time.
 
 ## Powers and Weapons
-One of the hallmarks of the shadowdays are mythical weapons and powers. The [[Honorblade\|Honorblades]] were forged by [[Honor\|Honor]] and used by the [[Herald\|Heralds]] in fighting [[Voidbringer\|Voidbringers]]. The true nature of the abilities of the [[Knights Radiant\|Knights Radiant]] during this time are also mythical to most Rosharans, including [[Surgebinding\|Surgebinding]] and glowing [[Shardplate\|Shardplate]].
+Some of the hallmarks of the shadowdays are mythical weapons and powers. The [[Honorblade\|Honorblades]] were forged by [[Honor\|Honor]] and used by the [[Herald\|Heralds]] in fighting [[Voidbringer\|Voidbringers]]. The true nature of the abilities of the [[Knights Radiant\|Knights Radiant]] during this time, including [[Surgebinding\|Surgebinding]] and glowing [[Shardplate\|Shardplate]], are also mythical to most Rosharans.
 
 ## Notable People
 Notable people who are believed to have lived during the shadowdays include [[Derethil\|Derethil]], a king, and [[Nohadon\|Nohadon]], the writer of *The Way of Kings*.

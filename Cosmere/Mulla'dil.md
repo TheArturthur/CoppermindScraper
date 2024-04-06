@@ -1,8 +1,7 @@
 |**Mulla'dil**|
 |-|-|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 **Mulla'dil** is the name of both a mountainous region of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] and its inhabitants. After joining the Empire, the Mulla'dil people are commonly called **Strikers**.
 
@@ -25,4 +24,4 @@ Although Mulla'dil was folded into the Empire, its people still maintain a cultu
 
 
 
-https://coppermind.net/wiki/Striker
+https://coppermind.net/wiki/Mulla%27dil

@@ -1,13 +1,12 @@
 |**Gennel**|
 |-|-|
 |**Titles**|[[Lord Farmer\|Lord Farmer]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, [[Field\|The Field]]|
+|**Groups**|[[Taishin\|Taishin]], [[Field\|The Field]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Gennel** is the current [[Lord Farmer\|Lord Farmer]] of [[Lossand\|Lossand]]. He is the Taisha in charge of the [[Field\|Field]]. He resides at the Farmer's Congress and leads the farming industry of Lossand.
 

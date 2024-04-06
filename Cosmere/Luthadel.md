@@ -1,11 +1,10 @@
 |**Luthadel**|
 |-|-|
 |by  Ricky Ho |
-|**Dominance**|[[Central Dominance\|Central Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Luthadel** is the capital city of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 
@@ -44,7 +43,7 @@ Luthadel also sits next to a lake bearing the name of [[Lake Luthadel\|Lake Luth
 The Twists
 Ashwarrens
 Aspen Row
-Hotel Disrict
+Hotel District
 Old Gate
 Commercial District
 The Cracks

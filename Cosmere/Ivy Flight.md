@@ -2,9 +2,8 @@
 |-|-|
 |**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Ivy Flight** is part of the [[DDF\|DDF]].
 

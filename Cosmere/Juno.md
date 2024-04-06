@@ -3,11 +3,10 @@
 |by  Heatherly |
 |**Profession**|Lorekeeper|
 |**Species**|[[Kitsen\|Kitsen]]|
-|**World**|[[Evershore (planet)\|Evershore]]|
+|**Homeworld**|[[Evershore (planet)\|Evershore]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Evershore* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Breathe in, breathe out. You are now completely relaxed.*”
 \-Juno beginning Jorgen’s meditation[1]

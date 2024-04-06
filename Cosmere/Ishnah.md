@@ -3,12 +3,12 @@
 |by  Dragontrill |
 |**Abilities**|[[Order of Lightweavers\|Lightweaver]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Motif\|Motif]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Unseen Court\|Unseen Court]]🐱︎|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*Please. The world is wrong now. Nothing makes sense. But you . . . your group . . . you know things. I don't want to be blind anymore.*”
 \-Ishnah requesting recruitment into the Ghostbloods[3]
@@ -41,7 +41,7 @@ She is pragmatic but ambitious. She is always finding opportunities. Because of 
 
 
  by  Dragontrill 
-Ishnah became somewhat skilled in the art of espionage while in the employ of Brightlady Hamaradin. She asserts that she is an excellent writer, able to take dictations, and has experience with message coding. While [[Mraize\|Mraize]] claims that her position was only that of an assistant, Ishnah proves to know many practical field techniques. Most notably is her experience with observation and information gathering. Ishnah has a very good memory (using a "mind museum") and the ability to notice and track details on par with Shallan. She also knows how to search rooms and manage infiltration operations. Ishnah is comfortable in Urithiru's underground networks and claims to know contacts who are "expert" spies.
+Ishnah became somewhat skilled in the art of espionage while in the employ of Brightlady [[Hamaradin\|Hamaradin]]. She asserts that she is an excellent writer, able to take dictations, and has experience with message coding. While [[Mraize\|Mraize]] claims that her position was only that of an assistant, Ishnah proves to know many practical field techniques. Most notably is her experience with observation and information gathering. Ishnah has a very good memory (using a "mind museum") and the ability to notice and track details on par with Shallan. She also knows how to search rooms and manage infiltration operations. Ishnah is comfortable in Urithiru's underground networks and claims to know contacts who are "expert" spies.
 As a [[Order of Lightweavers\|Lightweaver]], Ishnah can use the Surges of **Illumination** and **Transformation**. She has progressed in her oaths far enough to have earned a [[Shardblade\|Shardblade]]. She could gather her own squires, but chooses to remain with the [[Unseen Court\|Unseen Court]].
 
 ### Soulcasting
@@ -51,7 +51,7 @@ The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Real
 Lightweaving deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion.
 
 ## History
-Ishnah worked as an assistant in House [[Hamaradin\|Hamaradin's]] spy network, where she was trained in several useful espionage techniques. Brightlady Hamaradin was eventually assassinated after vexing the [[Ghostbloods\|Ghostbloods]], and when her spies were named suspects Ishnah fled. She eventually came to work for a gang of petty thieves in Urithiru's underground. Her gang used [[Blackbane\|Blackbane]]. She crossed paths with Veil, in a tavern in [[All's Alley\|All's Alley]], where Shallan revealed herself to be a member of the Ghostbloods. With a desire to use her training for something greater, Ishnah sought out Veil in hopes of joining the secret society herself. After being initially turned her away, Ishnah began spying on Veil, hoping to impress the woman with her skills. Shallan eventually caught her spying and the two spoke at greater length of Ishnah's past experience and motivations. Seeing the several uses for the woman, Shallan offered her the opportunity to train her men, and Ishnah accepted.
+Ishnah worked as an assistant in House Hamaradin's spy network, where she was trained in several useful espionage techniques. Brightlady Hamaradin was eventually assassinated after vexing the [[Ghostbloods\|Ghostbloods]], and when her spies were named suspects Ishnah fled. She eventually came to work for a gang of petty thieves in Urithiru's underground. Her gang used [[Blackbane\|Blackbane]]. She crossed paths with Veil, in a tavern in [[All's Alley\|All's Alley]], where Shallan revealed herself to be a member of the Ghostbloods. With a desire to use her training for something greater, Ishnah sought out Veil in hopes of joining the secret society herself. After being initially turned her away, Ishnah began spying on Veil, hoping to impress the woman with her skills. Shallan eventually caught her spying and the two spoke at greater length of Ishnah's past experience and motivations. Seeing the several uses for the woman, Shallan offered her the opportunity to train her men, and Ishnah accepted.
 
 >“*All right. We'll see. Just don't blame me if the pigs don't end up talking.*”
 \-Ishnah agreeing to train Shallan's guards[7]

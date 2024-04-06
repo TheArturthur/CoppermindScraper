@@ -1,8 +1,7 @@
 |**Bucket Book**|
 |-|-|
 |**Owner**|[[Jax (Reckoners)\|Jax]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 

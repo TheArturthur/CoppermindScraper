@@ -1,10 +1,10 @@
 |**Burl (species)**|
 |-|-|
-|**World**|*Unknown*|
+|by  Brent Donoho |
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I did get several other Superiority races—like the burl, who are citizens but considered aggressive—to join this test.*”
 \-Cuna[1]

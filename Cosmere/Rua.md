@@ -5,9 +5,9 @@
 |**Bonded With**|[[Lopen\|Lopen]]|
 |**Aliases**|Naco|
 |**Species**|[[Honorspren\|Honorspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -34,8 +34,9 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 ## Appearance and Personality
-Rua appears to Lopen as a ribbon of light, a young boy of nine or ten years and as a young man. One of his favorite forms is a flying chull with broad wings. Lopen calls him naco. He likes to play hide-and-seek with Lopen, whose carefree attitude meshes well with the spren. He is mischievous like a [[Windspren\|windspren]]. He appears to be incapable of speech, though Lopen seems to understand more complex meanings from his gestures.
+Rua appears to Lopen as a ribbon of light, a young boy of nine or ten years or as a young man. One of his favorite forms is a flying chull with broad wings. Lopen calls him naco. He likes to play hide-and-seek with Lopen, whose carefree attitude meshes well with the spren. He is mischievous like a [[Windspren\|windspren]]. He appears to be incapable of speech, though Lopen seems to understand more complex meanings from his gestures.
 
+ by  Gar leyva 
 ## Attributes and Abilities
 As an [[Honorspren\|Honorspren]], forming a [[Nahel bond\|Nahel bond]] with Rua made Lopen a [[Knight Radiant\|Knight Radiant]] of the [[Order of Windrunners\|Order of Windrunners]]. Through their bond, Lopen is able to access the Surges of [[Gravitation\|Gravitation]] and [[Adhesion\|Adhesion]], and after Lopen reaches his Third Ideal, Rua is able to form a [[Shardblade\|Shardblade]].
 

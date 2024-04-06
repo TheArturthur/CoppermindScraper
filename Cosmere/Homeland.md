@@ -1,9 +1,8 @@
 |**Homeland**|
 |-|-|
-|**Region**|[[Fallen World\|Fallen World]]🐱︎|
-|**World**|[[Threnody\|Threnody]]🐱︎|
+|**Region**|[[Fallen World\|Fallen World]]|
+|**World**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 This page is on the homeland of the [[Forescout\|Forescouts]]. For the place where the [[Kandra\|kandra]] live, see [[Kandra Homeland\|Kandra Homeland]].
 **Homeland** is the place of origin for many of the peoples who now live in the [[Forests of Hell\|Forests of Hell]] on [[Threnody\|Threnody]].

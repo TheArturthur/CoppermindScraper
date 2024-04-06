@@ -1,9 +1,8 @@
 |**Highprince**|
 |-|-|
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -33,7 +32,7 @@ The **Highprince of War** had control over the kingdom's combined military force
 The **Highprince of Works** had management of the kingdoms infrastructure, such as sewage disposal, civil services, and potentially [[Stormlight\|Stormlight]] management; with the increase in uses for Stormlight since the [[Battle of Narak\|Battle of Narak]].
 ### History
 The modern highprince system dates back to the last monarch (prior to Gavilar Kholin) to unify Alethkar, [[Sadees\|Sadees]] the Sunmaker. Upon his death, his empire did not last long. He had never bothered to choose an heir, and his ten sons could not decide among themselves who they wished to support. They quickly turned to infighting, and the empire collapsed in less than a generation. These ten sons founded the ten princedoms of Alethkar, crowning themselves the highprinces of a disunified kingdom, each being a *de facto* king in his own lands. During this time, Alethkar was effectively a loose coalition of ten separate states, being a unified kingdom in name only.
-In approximately 1158, Highprince [[Gavilar Kholin\|Gavilar Kholin]] went to war against the other princedoms, and by approximately 1163, he conquered and united them once again, establishing himself as the King. This reunified kingdom was not as strong as the ancient Alethkar, with the highprinces retaining large amount of authority and autonomy.
+In approximately 1140, Highprince [[Gavilar Kholin\|Gavilar Kholin]] went to war against the other princedoms, and by approximately 1145, he conquered and united them once again, establishing himself as the King. This reunified kingdom was not as strong as the ancient Alethkar, with the highprinces retaining large amount of authority and autonomy.
 After Gavilar's death, his son [[Elhokar Kholin\|Elhokar]] became the King of Alethkar, while Gavilar's brother [[Dalinar Kholin\|Dalinar]] became the Highprince of Kholin. In the year 1173, King Elhokar, at the demand of Highprince Dalinar, reinstated two of the ancient specialized highprince titles—the Highprinces of Information and War—in an effort to once again create a truly unified kingdom of Alethkar.
 In the following year, Dalinar reinstated the titles of [[Highprince of Commerce\|Highprince of Commerce]] and [[Highprince of Works\|Highprince of Works]], presumably with Elhokar's blessing.
 

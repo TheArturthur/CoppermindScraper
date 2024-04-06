@@ -6,8 +6,7 @@
 |**Siblings**|[[Rikers Dartmoor\|Rikers]], [[Bastille\|Bastille]]|
 |**Titles**|Queen of [[Mokia\|Mokia]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Angola Dartmoor** is the queen of [[Mokia\|Mokia]]. When the [[Knights of Crystallia\|Knights of Crystallia]] evacuated her husband King [[Talakimallo\|Talakimallo]] and daughter Princess [[Kamali\|Kamali]], she was left to lead the defense..
 

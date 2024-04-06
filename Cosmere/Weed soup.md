@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Soup|
 |**Origin**|[[Hraggen\|Hraggen]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Weed soup** was a dish served in [[Hraggen\|Hraggen]] on [[Sel\|Sel]] during the [[Late Era\|Late Era]]. Most people did not think that it tasted very good. As it is often referred to as **Hraggish weed soup**, it's possible that there are other varieties of weed soup.
 [[Kiin\|Kiin]] knew how to prepare weed soup, a fact disliked by his family.

@@ -5,9 +5,8 @@
 |**Siblings**|[[Semm\|Semm]]|
 |**Profession**|Pirate|
 |**Species**|[[Tenasi\|Tenasi]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
 

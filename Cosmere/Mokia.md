@@ -3,9 +3,8 @@
 |**Ethnicity**|Mokian|
 |**Capital**|[[Tuki Tuki\|Tuki Tuki]]|
 |**Ruled by**|King [[Talakimallo\|Talakimallo]]|
-|**Region**|[[Free Kingdoms\|Free Kingdoms]]🐱︎|
+|**Region**|[[Free Kingdoms\|Free Kingdoms]]|
 |**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
 
 **Mokia** is one of the [[Free Kingdoms\|Free Kingdoms]] on [[Earth (Alcatraz)\|Earth]]. It is ruled by King [[Talakimallo\|Talakimallo]].
 
@@ -36,4 +35,4 @@ List of places in Mokia
 List of characters from Mokia
 
 
-https://coppermind.net/wiki/Mokia
+https://coppermind.net/wiki/Mokian

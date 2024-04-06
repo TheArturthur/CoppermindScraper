@@ -1,8 +1,11 @@
 |**Southern Scadrian**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The land was soft and warm, and now it is harsh and broken and frozen.*”
 \-Allik Neverfar describing the events that nearly destroyed his people[1]
@@ -28,6 +31,7 @@ The **Southern Scadrians** are a culture on [[Scadrial\|Scadrial]]. They were pl
 2.1.1 Malwish
 2.1.2 The Hunters
 2.1.3 The Fallen
+2.1.4 The Maskless
 
 
 2.2 Religion
@@ -35,9 +39,8 @@ The **Southern Scadrians** are a culture on [[Scadrial\|Scadrial]]. They were pl
 
 
 3 Notable People
-4 Theories
-5 Trivia
-6 Notes
+4 Trivia
+5 Notes
 
 
 ## History
@@ -47,7 +50,7 @@ However, the Lord Ruler also placed an unaltered group of people at the physical
 The southern peoples had the seeds of the [[Metallic Arts\|Metallic Arts]], though since none of them had ingested [[Lerasium\|lerasium]], [[Allomancer\|Allomancers]] were extremely rare and Mistborn completely unheard of. Because of this, instead of using the Metallic Arts in a way based on genetics like the people of the Final Empire, the southern peoples use them in a more "mechanical way."
 
 ### The Ice Death ([[Catacendre\|Catacendre]])
-In the north, about three years after the death of the Lord Ruler, a man named [[Sazed\|Sazed]] took up both of the planet's [[Shard\|Shards]] and [[Catacendre\|Ascended]]. Sazed tried undoing most of the Lord Ruler's changes, setting the continents back in their original places and moving Scadrial back into its original orbit, removing the need for heat-lessening solutions like the Ashmounts. This event was known to the Northern Scadrians as the [[Catacendre\|Catacendre]] or "end of the ash."
+In the north, about three years after the death of the Lord Ruler, [[Sazed\|Sazed]] took up both of the planet's [[Shard\|Shards]] and [[Catacendre\|Ascended]], becoming [[Harmony\|Harmony]]. Harmony tried undoing most of the Lord Ruler's changes, setting the continents back in their original places and moving Scadrial back into its original orbit, removing the need for heat-lessening solutions like the Ashmounts. This event was known to the Northern Scadrians as the [[Catacendre\|Catacendre]] or "end of the ash."
 Because of this, the weather in the Southern continent became colder. The Southern peoples could not adapt to this change, and many died from the cold. Southern Scadrians call this event the **Ice Death**.
 Years had gone by and the Ice Death did not end. The Southern peoples failed to recover from it on their own, leading to the almost complete collapse of their society. The reason for this failure is not known, but expeditions from the south to the north have notably shown that Southern peoples still feel unnaturally cold even in Northern Scadrian weather.
 
@@ -69,13 +72,14 @@ This page or section deals with theories or speculation.Please read carefully an
 
 The Southern Scadrians have a tradition of wearing masks, with each of the five peoples of the continent having its own mask-wearing rules and customs. They have natural low body temperatures, which is related to their cold intolerance. There is also a group called the [[Deniers of Masks\|Deniers of Masks]] that the other Southern Scadrians oppose, but nothing is known about them other than the fact that they are very dangerous.
 The Sovereign had priests accompanying him who did not belong to any of the current Southern peoples living. Not much is known about them.
-The Southern Scadrians may be the men of "red and gold" that [[Miles Dagouter\|Miles Dagouter]] refers to shortly before his death.
 
 ### Nations
-The Southern Scadrians are divided into different nations. So far, the names of three have been revealed.
+The Southern Scadrians were divided into five different nations, however following the discovery of the Northern Scadrians their politics changed until they united under the banner of single nation, the [[Malwish Consortium\|Malwish Consortium]]. So far, the names of three of these previous nations have been revealed:
 
 
 The **Malwish** wear red masks that change according to their profession or their mood. Allik Neverfar and Jordis are Malwish. Dancing is very important to them, so much so that they have been known to give harsh (although friendly) punishment just for getting the steps to a dance wrong.
+Following the discovery of the Northern Continent, the Malwish took over diplomatic relations with the Basin, and the majority of Southerners who visited the North were from there. They were the only tribe who sent an ambassador up. It is under their banner that the Southern Nations united.
+Some of the researchers on [[Canticle\|Canticle]] view Malwish as a civilized language.
 
 
 The people known as the **Hunters** receive one mask at birth, which is replaced by a second mask upon reaching adulthood. This second mask eventually grows into the skin. The Hunters were warriors before the Ice Death, but now they search for the cause of the cataclysm that ruined their society. They took an airship to find the Bands of Mourning, intending to destroy them.
@@ -84,17 +88,22 @@ The people known as the **Hunters** receive one mask at birth, which is replaced
 
 The former rulers of the Southern Scadrians became known as the **Fallen** after they lost their authority due to the Ice Death, which is seen as their divine punishment. A member of the Fallen wears a plain, unpainted mask until he earns the right to wear an ornate one through some great achievement. The Fallen were the kings before the Ice Death, and their simple masks are a punishment for having offended the Jaggenmire.
 
+
+A people in the far south, on a separate landmass from the Elendel Basin and Malwish Consortium. It is unknown if this is one nation, or a collection of peoples. They are not part of the Malwish Consortium.
+They are most likely the [[Deniers of Masks\|Deniers of Masks]] mentioned by [[Allik\|Allik]], who actively shun masks and are considered quite dangerous by the rest of Southern Scadrial.
+
 ### Religion
-The Southern Scadrians worship the **Jaggenmire**, an entity composed of two beings who are always one and always apart. The Jaggenmire is made up of **Herr** and his sister **Frue**, who is also his wife. The Southern Scadrians believe that Herr can make things go and Frue can make things stop, though neither can make life on their own. These concepts have been compared to [[Preservation\|Preservation]] and [[Ruin\|Ruin]], and how both now exist in [[Harmony\|Harmony]]. The Southern Scadrians believe that their kings did something to offend the Jaggenmire, causing the Ice Death.
+The Southern Scadrians worship the **Jaggenmire**, an entity composed of two beings who are always one and always apart. The Jaggenmire is made up of **Herr** and his sister-wife **Frue**. The Southern Scadrians believe that Herr can make things go and Frue can make things stop, though neither can make life on their own. They think of the Jaggenmire as acausal, having always been separate, and always been together, simultaneously. These concepts have been compared to [[Preservation\|Preservation]] and [[Ruin\|Ruin]], and how both now exist in [[Harmony\|Harmony]]. The Southern Scadrians believe that their kings did something to offend the Jaggenmire, causing the Ice Death.
 The Southern Scadrians also worship the Sovereign, the person who saved them following the Ice Death. He taught them to revere Metalborn, who they consider pieces of God. They believe that he created the Bands of Mourning and hid them in the mountains for him to use upon his return. Some clans believe that this warning was intended as a test and that the Southern Scadrians have to prove themselves by finding the Bands. Others, the Hunters, believe that the Bands should be destroyed.
 The Southern Scadrians believe that hell is up in the sky. They believe that, since below ground is warmer, hell must be the opposite direction.
 They have stories of the kandra.
 
 ### Technology
-The Southern Scadrians are more technologically advanced than the Northern Scadrians in many ways. The Sovereign gave them the Excisors, devices that allowed them to create medallions that grant the power of Feruchemical brass. They later reverse-engineered these medallions to grant other Feruchemical powers. Notably, they use iron medallions to allow many people to store their weight, leading to their development of airships.
-The process of creating the medallions requires both Metalborn and the Excisors. The Southern Scadrians also constructed medallions with several types of metal, granting the wearer several Feruchemical powers at once. Wearing multiple medallions at once does not work, as the medallions interfere with each other.
+The Southern Scadrians are more technologically advanced than the Northern Scadrians in many ways. The Sovereign gives them the [[Excisor\|Excisors]], devices that allow them to create **medallions**, a type of unsealed metalmind, that grant the power of Feruchemical brass. They later reverse-engineer these medallions to grant other Feruchemical powers. Notably, they use iron medallions to allow many people to store their weight, leading to their development of airships.
+The process of creating the medallions requires both Metalborn and the Excisors. The Southern Scadrians also constructed medallions with several types of metal, granting the wearer several Feruchemical powers at once. Wearing multiple medallions at once does not work, as the medallions interfere with each other. Exactly how medallions are made is a trade secret within the Malwish consortium.
+When the crew of the [[Brunstell\|Brunstell]] is saved they are given guns by Allik and Steris to fight the Set. A short time later they are seen wielding the weapons, so it’s safe to assume they know how guns work, which shows that they have guns in the south as well.
 While talking to Wax, Harmony reflects on the limited progress the people of Elendel have made since the remaking of Scadrial due to the benevolent environment of the Basin, mentioning "...others, who were nearly destroyed", and implies they are significantly more advanced than those in the Basin.
-They have access to something called [[Ettmetal\|ettmetal]], which is a kind of metal that has not yet been discovered in the north. Among other things, ettmetal is used to fuel the Southern airships.
+They have access to [[Ettmetal\|ettmetal]], a.k.a. Harmonium. Among other things, ettmetal is used to fuel the Southern airships.
 
 ## Notable People
 For a complete list of Southern Scadrians, see :Category: Southern Scadrians.
@@ -103,13 +112,8 @@ For a complete list of Southern Scadrians, see :Category: Southern Scadrians.
 [[Jordis\|Jordis]]
 [[Iyatil\|Iyatil]] (heritage)
 
-## Theories
-This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
-
-It is not known exactly what the "Unknown Metals" of the Southerners are. These may be the 32 alloys of [[Atium\|atium]] and [[Lerasium\|lerasium]] theorised about in the Ars Arcanum of [[The Alloy of Law\|The Alloy of Law]], although this is unlikely, as they have never been shown to have any access to either [[Atium\|atium]] or [[Lerasium\|lerasium]]. They may be the [[Trellium\|unidentified silver and red metal]] used by Paalm to create her hemalurgic spikes. It may also be [[Ettmetal\|ettmetal]].
-
 ## Trivia
 They are mysteriously referred to in [[The Hero of Ages\|The Hero of Ages]] annotations, suggesting that something is perhaps there. Later, Brandon confirmed that there is life on the southern pole of Scadrial.
 
 
-https://coppermind.net/wiki/Hunter
+https://coppermind.net/wiki/Southern_Scadrial

@@ -2,10 +2,9 @@
 |-|-|
 |by  Connor Chamberlain |
 |**Ruled by**|Queen [[Fen Rnamdi\|Fen Rnamdi]]|
-|**Nation**|[[Thaylenah\|Thaylenah]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Thaylenah\|Thaylenah]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -83,7 +82,7 @@ The most notable temples are:
 
 For more information, see [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
 The Gemstone Reserve is a national bank of [[Thaylenah\|Thaylenah]]. It's located in the Low Ward, near one of the entrances to the Ancient Ward. The structure is build like a fortress, to protect its contents. It has no windows. Within are numerous vaults storing various gemstones, including some of the largest and most unique ones, like the [[King's Drop\|King's Drop]]. People can sell and buy their writs of ownership, allowing them to trade large sums easily.
-During the Battle of Thaylen Field, the building is destroyed by a [[Thunderclast\|thunderclast]] on orders of Odium, who wants to prevent Dalnar from accessing King's Drop, a [[Perfect gemstone\|perfect gemstone]].
+During the Battle of Thaylen Field, the building is destroyed by a [[Thunderclast\|thunderclast]] on orders of Odium, who wants to prevent the Radiants from acquiring the King's Drop, a [[Perfect gemstone\|perfect gemstone]].
 
 
 The Court Square is a plaza somewhere in the city; its exact location is unknown, though the name suggests it might be near the Royal Palace. During the Battle of Thaylen Field, it's assaulted by the possessed Amaram soldiers. Initially, it's protected by the highguards [[Hrdalm\|Hrdalm]] and [[Tshadr\|Tshadr]], both in [[Shardplate\|Shardplate]]; eventually, Hdralm departs to combat one of the [[Thunderclast\|thunderclasts]] attacking the city while Tshadr remains to hold the Square.
@@ -131,4 +130,4 @@ For a full list see, see here.
 [[Jochi\|Jochi]], a friend of [[Jasnah\|Jasnah's]] who pretends to be a woman to pursue scholarship, and who owns a pastry shop somewhere in the city
 
 
-https://coppermind.net/wiki/Court_Square
+https://coppermind.net/wiki/Thaylen_City

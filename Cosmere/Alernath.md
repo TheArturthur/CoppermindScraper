@@ -2,9 +2,9 @@
 |-|-|
 |**Titles**|Lord|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*The Alloy of Law*|
 
 Lord **Alernath** is a member of the nobility in [[Elendel\|Elendel]] and an associate of Lord [[Jackstom Harms\|Jackstom Harms]].
 Harms had a drink with Alernath during the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]].

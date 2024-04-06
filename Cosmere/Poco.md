@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben Bryant |
 |**Type**|Spacecraft, DDF Ships|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 The **Poco** is a basic [[Starfighter\|starfighter]] used by the [[DDF\|DDF]]. [[Spensa\|Spensa's]] first ship was a Poco.
 Spensa states that "they looked like glorified pencils with wings." These are the ships recreated holographically in the [[Flight School\|Flight School's]] flight simulators.

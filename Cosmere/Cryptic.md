@@ -3,11 +3,10 @@
 |by  Ben McSweeney |
 |**Type**|Spren|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]s|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Rhythm of War* and *Yumi and the Nightmare Painter*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*One does not war with Cryptics, as one does honorspren. Cryptics have but one city, and do not wish to rule more. Only to listen.*”
 \-Ivory[1]
@@ -39,38 +38,39 @@ Cryptics are the personification of the underlying mathematical truths that gove
 ## Appearance
 ### Physical Realm
 In the [[Physical Realm\|Physical Realm]], Cryptics manifest as complex fractal patterns that are constantly shifting, slightly raised off a surface or object. On occasion, they can also manifest as a floating three-dimensional mass of twisting lines. Their voice has a buzzing quality, and they vibrate when they speak. They also tend to hum a lot.
-When their cognitive bodies are forced into the Physical Realm and they die, Cryptics appear as elongated bodies with a black shell, with their heads looking like a soggy mess of black flesh, similar to intestines.
+When their cognitive bodies are forced into the Physical Realm and they die, Cryptics appear as elongated bodies with a black shell, with their heads looking like a soggy mess of black flesh, similar to intestines. However, there is a way to make them take on a physical form in the Physical Realm, by using a complex Lightweaving wireframe attached to their Cognitive aspect as they take form in the Physical Realm. This allows them to essentially take on any form the Lightweaver desires, though it is essentially only an imitative shell.
 
 ### Cognitive Realm
 In the [[Cognitive Realm\|Cognitive Realm]], Cryptics take the form of tall, willowy figures in too-stiff robes that hang off them as if made from glass rather than fabric. Above their collars, where a human's head and face would be, they have a floating symbol full of impossible angles and geometries. Different individuals have slightly different head patterns. These patterns are constantly changing at varying speeds, seemingly never repeating, though individual patterns will always maintain the same general "feel". The way a pattern changes reflects the Cryptic's mood, such as speeding up for confusion, and slowing down for shame. Despite not having any apparent means to do so, they are capable of hearing, seeing and speaking as well as any other spren. Their hands appear boney and as if chiseled from black obsidian or white marble.
+Trying to analyze their patterns is known to drive people to insanity due to the way they warp space and time around themselves.
 
 ## Abilities
  by  Caio Santos  A Cryptic in [[Shadesmar\|Shadesmar]]
-Cryptics have prodigious translation abilities, and seem capable of understanding any language, human on spren, with enough exposure. They are also adept codebreakers, a talent stemming from their in-depth understanding of mathematical patterns. Cryptics are not able to inherently tell if something is a lie.
+Cryptics have prodigious translation abilities, and seem capable of understanding any language, human or spren, with enough exposure. They are also adept codebreakers, a talent stemming from their in-depth understanding of mathematical patterns. Using vibrations, they can also perfectly mimic voices and sounds. Cryptics are not able to inherently tell if something is a lie.
 While in the [[Physical Realm\|Physical Realm]], they can affect it in minor ways, allowing them to pick locks. Unlike other types of sapient spren, like [[Honorspren\|honorspren]] or [[Ashspren\|ashspren]], Cryptics seem unable to turn invisible, meaning they have to hide in their environment to remain unnoticed.
 
 ### Nahel bond
-Cryptics are one of the few spren types capable of forming a [[Nahel bond\|Nahel bond]] with humans. They grant their partner the power of [[Surgebinding\|Surgebinding]] with the Surges of [[Illumination\|Illumination]] and [[Transformation\|Transformation]], making the person a [[Order of Lightweavers\|Lightweaver]]. Past a certain point, a bonded Cryptic gains the ability to transform into a shape-shifting [[Shardblade\|Shardblade]]. Cryptics are able to sense where their Surgebinder is once they start summoning their blade.
+Cryptics are one of the few spren types capable of forming a [[Nahel bond\|Nahel bond]] with humans. They grant their partner the power of [[Surgebinding\|Surgebinding]] with the Surges of [[Illumination\|Illumination]] and [[Transformation\|Transformation]], making the person a [[Order of Lightweavers\|Lightweaver]]. Past a certain point, a bonded Cryptic gains the ability to transform into a shape-shifting [[Shardblade\|Shardblade]]. Cryptics are able to sense where their Surgebinder is once they start summoning their blade. With a powerful enough bond, Cryptics are able to feel the impressions of their Surgebinder's thoughts.
 Unlike most Nahel bonds, a Cryptic bond is progressed by uttering deep, personal truths about oneself by the bond holder, with the more powerful, impactful truths deepening the bond further. The Cryptics' particular affinity for truths extends further than that, as they are able to sense when a person is lying.
 Cryptics are also able to let their Lightweavers peer into the [[Cognitive Realm\|Cognitive Realm]]. For inexperienced Surgebinders, they act as intermediaries in [[Soulcasting\|Soulcasting]], relaying the words of souls to them.
 
 ## History
  by  Petar Penev  [[Pattern\|Pattern]] following [[Shallan\|Shallan]] in the [[Palanaeum\|Palanaeum]]
 >“*There were very few survivors. The one you call Stormfather lived. Some others. The rest, thousands of us, were killed when the event happened.*”
-\-Pattern[24]
+\-Pattern[29]
 
 
-It's unknown whether the Cryptics were created deliberately by a [[Shard\|Shard]], or if they arose naturally from [[Roshar\|Roshar's]] loose [[Investiture\|Investiture]]. During the [[Heraldic Epochs\|Heraldic Epochs]], they, like many other sapient spren, began forming [[Nahel bond\|Nahel bonds]] with humans to mimic [[Honorblade\|Honorblades]], leading to the creation of the [[Order of Lightweavers\|Order of Lightweavers]]. During the [[Recreance\|Recreance]], the vast majority of the older Cryptics died, leaving none alive to remember how the Nahel bond worked.
+It's unknown whether the Cryptics were created deliberately by a [[Shard\|Shard]], or if they arose naturally from [[Roshar\|Roshar's]] loose [[Investiture\|Investiture]]. At some point in the past, there were some very intelligent, dangerous Cryptics, which resulted in the creation of many negative stereotypes about Cryptics. During the [[Heraldic Epochs\|Heraldic Epochs]], they, like many other sapient spren, began forming [[Nahel bond\|Nahel bonds]] with humans to mimic [[Honorblade\|Honorblades]], leading to the creation of the [[Order of Lightweavers\|Order of Lightweavers]]. During the [[Recreance\|Recreance]], the vast majority of the older Cryptics died, leaving none alive to remember how the Nahel bond worked.
 Over time, the Cryptics managed to recover somewhat, and by the late [[Era of Solitude\|Era of Solitude]], they ruled over one of the largest cities in [[Shadesmar\|Shadesmar]], although they did not stray far from it often. At some point, they were engaged in some sort of political disagreement with the [[Honorspren\|honorspren]], possibly related to the latter's attempt to conquer [[Shadesmar\|Shadesmar]].
 Cryptics were one of the first spren groups to begin bonding humans again in anticipation of the [[True Desolation\|True Desolation]]. Among others, they sent [[Testament\|Testament]] to bond with [[Shallan\|Shallan]] when she was only a child, as well as another Cryptic to bond with [[Tien\|Tien]], although only the former managed to bring the Bond to fruition, after long setbacks.
-A group of them have been following Shallan for some time prior to her bonding Pattern. They also watched over [[Elhokar\|Elhokar]], unwittingly feeding his paranoia. They eventually sent another of their kind to bond with the king; however, Elhokar was killed before he could finish saying the First Ideal, and that Cryptic ended up bonding with [[Hoid\|Hoid]] instead.
+A group of them had been following Shallan for some time prior to her bonding Pattern. They also watched over [[Elhokar\|Elhokar]], unwittingly feeding his paranoia. They eventually sent another of their kind to bond with the king; however, Elhokar was killed before he could finish saying the First Ideal, and that Cryptic, [[Design\|Design]], ended up bonding with [[Hoid\|Hoid]] instead.
 
 ## Culture
 >“*Cryptics like to plan. They debate and watch and never do anything.*”
-\-Syl[32]
+\-Syl[38]
 
 
-Cryptics are not very common in Shadesmar, with the vast majority of their population living in a single city, one that enjoys some renown. Unlike the [[Honorspren\|honorspren]], Cryptics do not have any inclination to conquer more territory, so other types of sapient spren do not war with them. Although they have a fearful reputation among other types of spren, they themselves are content with listening and learning.
+Cryptics are not very common in Shadesmar, with the vast majority of their population living in a single unnamed city, one that enjoys some renown. Unlike the [[Honorspren\|honorspren]], Cryptics do not have any inclination to conquer more territory, so other types of sapient spren do not war with them. Although they have a fearful reputation among other types of spren, they themselves are content with listening and learning.
 
  by  Sheep  Cryptics watching over [[Elhokar\|Elhokar]]
 Nonetheless, many other spren find Cryptics weird and discomforting due to their fascination with lies and their mathematical approach to everything. They are also known for their fondness for planning, as well as being largely passive and inactive. Once they put their mind to something, however, they commit to it. They seem to have a significant influence on the Shadesmar politics, as when they began to bond humans again, others, like [[Cultivationspren\|cultivationspren]], swiftly followed suit.

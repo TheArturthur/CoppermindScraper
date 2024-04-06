@@ -1,11 +1,10 @@
 |**Febrth**|
 |-|-|
 |**Died**|? 1174|
-|**Groups**|[[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Diagram (group)\|Diagram]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* I have no need for your maps. The Passions guide me.*”
 \- Febrth to Graves[1]

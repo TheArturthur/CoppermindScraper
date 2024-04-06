@@ -4,7 +4,6 @@
 |**Shards**|[[Honor\|Honor]], [[Cultivation\|Cultivation]], [[Odium\|Odium]]|
 |**Notable Planet(s)**|[[Ashyn\|Ashyn]], [[Roshar\|Roshar]], [[Braize\|Braize]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -12,7 +11,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-From Khriss' essay on Roshar[1]
 
 
-The **Rosharan system**, also known as **Greater Roshar**, is the name given to the planetary system containing the [[Shardworld\|Shardworld]] called [[Roshar\|Roshar]]. It comprises thirteen planets, three of which are inhabited, as well as the usual asteroid belt, and three moons for a total of sixteen orbital bodies -- an important number in the [[Cosmere\|cosmere]].
+The **Rosharan system**, also known as **Greater Roshar**, is the name given to the planetary system containing the planet called [[Roshar\|Roshar]]. It comprises thirteen planets, three of which are inhabited, as well as the usual asteroid belt, and three moons for a total of sixteen orbital bodies -- an important number in the [[Cosmere\|cosmere]].
 
 ## Contents
 
@@ -33,18 +32,25 @@ The **Rosharan system**, also known as **Greater Roshar**, is the name given to 
 The Greater Roshar system is composed of three terrestrial planets and ten gas giants, divided by the asteroid belt. In order from the sun, the terrestrial planets are:
 
 
-This is where [[The Silence Divine\|The Silence Divine]] is set. While there are humans inhabiting this planet, a global cataclysm at some point in the past has forced most of its inhabitants to flee to Roshar, while the remainder lives in floating cities in the sky. The cataclysm was likely caused by overuse of [[Surge\|Surges]] by Ashynites, and has left the surface highly volcanically active. There is a known manifestation of Investiture on Ashyn, based around Surge-granting diseases, but no known Shard.
+This is where [[The Silence Divine\|The Silence Divine]] is set. While there are humans inhabiting this planet, a global cataclysm at some point in the past has forced most of its inhabitants to flee to Roshar, while the remainder lives in floating cities in the sky and in small areas of habitability. The cataclysm was likely caused by overuse of [[Surge\|Surges]] by Ashynites, and has left the surface highly volcanically active. There is a known manifestation of Investiture on Ashyn, based around Surge-granting diseases, but no known Shard. In Rosharan mythology, Ashyn is referred to as the [[Tranquiline Halls\|Tranquiline Halls]].
 
  by  Art Noob  The inner Rosharan system
 
-The second planet is the eponymous Shardworld of Greater Roshar, and the primary setting of the [[Stormlight Archive\|Stormlight Archive]]. The [[Shard\|Shards]] of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] can be found here. Roshar features a single supercontinent, also called Roshar, on which its inhabitants live. Three moons, Salas, Nomon, and Mishim, orbit the planet. The majority of Roshar's sentient lifeforms lives on Roshar.
+The second planet is the eponymous planet of Greater Roshar, and the primary setting of the [[Stormlight Archive\|Stormlight Archive]]. The [[Shard\|Shards]] of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] can be found here. Roshar features a single supercontinent, also called Roshar, on which its inhabitants live.
+Three moons, Salas, Nomon, and Mishim, orbit the planet in an unstable orbit.
+The majority of the Rosharan System's sentient lifeforms lives on Roshar.
 
 
 A cold planet, perhaps outside the habitable zone. While no humans live here, there do exist self-aware Splinters that inhabit either the planet or its Cognitive manifestation. Braize is where the Shard of [[Odium\|Odium]] resides. In Rosharan mythology, Braize is referred to as Damnation, and is where Rosharan Heralds returned to between [[Desolation\|Desolations]].
-Beyond the asteroid belt are ten gas giants. These outer planets, which are designated by [[Ten Essences\|Vorin numerals]], are **Jes**, **Nan**, **Chach**, **Vev**, **Palah**, **Shash**, **Betab**, **Kak**, **Tanat**, and **Ishi**, in order of increasing distance from the sun. The Rosharan gas giants have a minor presence on Shadesmar, which indicates that they are uninhabited. None of these planets have moons or ring systems.
+The land is cold, barren, and inhospitable to all life; it is constantly swept by winds, implying that it does have an atmosphere.
+
+
+Beyond the asteroid belt are ten gas giants. These outer planets, which are designated by [[Ten Essences\|Vorin numerals]], are **Jes**, **Nan**, **Chach**, **Vev**, **Palah**, **Shash**, **Betab**, **Kak**, **Tanat**, and **Ishi**, in order of increasing distance from the sun.
+The existence of ten of these, and the relation it has to the importance of 10 to Honor and the Rosharan System, is currently unknown.
+The Rosharan gas giants have a minor presence on Shadesmar, which indicates that they are uninhabited. None of these planets have known moons or ring systems.
 
 ## Astronomy
-In the greater Cosmere, the Rosharan system lies between [[Taldain\|Taldain]], [[Scadrial\|Scadrial]], [[Nalthis\|Nalthis]] and [[Sel\|Sel]], and is the closest to the latter. It is one of the stars in the Knight constellation. In the [[Cognitive Realm\|Cognitive Realm]], Shadesmar is surrounded by four Expanses; the [[Expanse of the Vapors\|Expanse of the Vapors]] leads to Scadrial, the [[Expanse of the Densities\|Expanse of the Densities]] leads to Sel, and the [[Expanse of Vibrance\|Expanse of Vibrance]] is believed to lead to Nalthis. It is currently unknown which Shardworld the [[Expanse of the Broken Sky\|Expanse of the Broken Sky]] leads to.
+In the greater Cosmere, the Rosharan system lies between [[Taldain\|Taldain]], [[Scadrial\|Scadrial]], [[Nalthis\|Nalthis]] and [[Sel\|Sel]], and is the closest to the latter. It is one of the stars in the Knight constellation. In the [[Cognitive Realm\|Cognitive Realm]], Shadesmar is surrounded by four Expanses; the [[Expanse of the Vapors\|Expanse of the Vapors]] leads to Scadrial, the [[Expanse of the Densities\|Expanse of the Densities]] leads to Sel, and the [[Expanse of Vibrance\|Expanse of Vibrance]] is believed to lead to Nalthis. It is currently unknown which planet the [[Expanse of the Broken Sky\|Expanse of the Broken Sky]] leads to.
 
 ## Inhabitants
 The Rosharan system is inhabited by several sentient species. This includes humans on both Ashyn and Roshar; [[Singers\|Singers]], [[Siah Aimian\|Siah Aimians]] and the [[Sleepless\|Sleepless]] on Roshar; and a vast number of sentient [[Spren\|spren]]. Braize also contains a large population of [[Cognitive Shadow\|Cognitive Shadows]] of Singers, called the [[Fused\|Fused]], who migrate to Roshar during [[Desolation\|Desolations]].

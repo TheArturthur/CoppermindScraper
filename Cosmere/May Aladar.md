@@ -4,9 +4,8 @@
 |**Parents**|[[Aladar\|Aladar]]|
 |**Ancestors**|[[Sadees\|Sadees]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **May Aladar** is a [[Lighteyes\|lighteyed]] member of the nobility on Roshar. She is the only known child of Highprince [[Aladar\|Aladar]].
 

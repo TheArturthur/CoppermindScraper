@@ -2,8 +2,7 @@
 |-|-|
 |**Services**|Insurance|
 |**City**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*Insurance people are a wee bit anal about things like that. Like bankers. Like Tia, actually. If we're lucky, the bank filed an insurance claim following the loss of the building. That would leave an additional paper trail.*”
 \-Cody[1]

@@ -1,10 +1,9 @@
 |**Sebarial princedom**|
 |-|-|
 |**Ruler**|Highprince [[Sebarial\|Sebarial]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Sebarial princedom** is one of ten [[Alethi\|Alethi]] princedoms in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. The house colors are deep gold & black. The [[Highprince\|highprince]] is [[Turinad Sebarial\|Turinad Sebarial]] and his banner consists of the [[Glyphs\|glyphs]] *sebes* and *laial* in the shape of a [[Skyeel\|skyeel]].
 

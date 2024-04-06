@@ -4,12 +4,11 @@
 |**Siblings**|Unnamed sister|
 |**Abilities**|[[Soulcaster\|Soulcaster]]|
 |**Profession**|[[Ardent\|Ardent]]|
-|**Religion**|[[Vorinism\|Vorinism]]🐱︎|
+|**Religion**|[[Vorinism\|Vorinism]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ithi** is a [[Soulcaster\|Soulcaster]] in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]]. She and her sister are tasked by [[Azure\|Azure]] with secretly feeding the [[Kholinar Wall Guard\|Kholinar Wall Guard]] by Soulcasting stone into food.
 

@@ -9,9 +9,7 @@
 
 *Heuristic Algorithm and Reasoning Response Engine* is a non-cosmere military science fiction story co-written by [[Brandon Sanderson\|Brandon Sanderson]] and [[Ethan Skarstedt\|Ethan Skarstedt]] for the *Armored* anthology, edited by . It is set in the far future when humankind has expanded out in the stars, met alien races, and developed technology like , , and . It tells the story of [[Karith Marvudi\|Karith Marvudi]], , and the AI [[HARRE\|HARRE]] responding to a  on a planet occupied by their allies.
 
-## Characters
-
-
+## Main Characters
 
 
 

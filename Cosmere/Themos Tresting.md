@@ -4,9 +4,8 @@
 |**Died**|1022 [[Final Empire\|FE]]|
 |**Residence**|[[Tresting plantation\|Tresting plantation]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Lord **Themos Tresting** was a [[Noble\|noble]] on [[Scadrial\|Scadrial]].
 

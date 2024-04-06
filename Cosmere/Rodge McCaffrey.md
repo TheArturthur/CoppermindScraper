@@ -6,11 +6,10 @@
 |**Skills**|Ship repair|
 |**Profession**|Engineer, DDF pilots |
 |**Groups**|Engineering Corps|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Evershore* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Rodge McCaffrey** (**Rig**, callsign: **Rigmarole**) is a childhood friend of [[Spensa\|Spensa]] who is accepted into [[DDF\|DDF]] [[Flight School\|Flight School]] with her. He drops out after their first battle, pursuing the Engineering Corps and getting a job there.
 
@@ -42,6 +41,7 @@ This page or section needs to be updated with new information for *Evershore*!B
 
 
 ## Appearance and Personality
+ by  Hinumay 
 Rig is described as lanky and has red hair. His eyes are a clear, deep blue. He is often self-conscious, but through the designs he receives so much praise for at the Engineering Corps, he becomes much more confident. Rig is very smart, and is good with machinery.
 
 ## History
@@ -120,4 +120,4 @@ FM and Rodge used their taynix to meet quietly, because they weren't ready to te
 Rodge’s last name is a nod to , the writer of 
 
 
-https://coppermind.net/wiki/Rig
+https://coppermind.net/wiki/Rigmarole

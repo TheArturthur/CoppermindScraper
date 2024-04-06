@@ -2,9 +2,8 @@
 |-|-|
 |**Headquarters**|[[Alta Base\|Alta Base]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*I talked to some cadets from Firestorm Flight this morning. They've been dogfighting this entire time.*”
 \-Bim[1]

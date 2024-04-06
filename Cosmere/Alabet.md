@@ -2,11 +2,11 @@
 |-|-|
 |**Died**|Ishi 1172|
 |**Profession**|Member of Kaladin's squad in Amaram's army|
-|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
+|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 >“*Is he dead?*”
 \-Alabet, after Kaladin fells the unnamed Shardbearer.[2]

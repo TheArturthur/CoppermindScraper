@@ -1,11 +1,10 @@
 |**Stormlight**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
-|**Related to**|[[Surgebinding\|Surgebinding]], [[Honor\|Honor]]|
+|**Related to**|[[Lights\|Lights]], [[Surgebinding\|Surgebinding]], [[Honor\|Honor]]|
 |**Type**|[[Investiture\|Investiture]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -13,7 +12,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-Kaladin[1]
 
 
-**Stormlight** is a form of gaseous [[Investiture\|Investiture]] brought by the [[Highstorm\|highstorms]] of [[Roshar\|Roshar]].
+**Stormlight** (Alethi: *Zeradoreh*) is a form of gaseous [[Investiture\|Investiture]] brought by the [[Highstorm\|highstorms]] of [[Roshar\|Roshar]].
 
 ## Contents
 
@@ -34,7 +33,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ## Origin
  by  horizonproblems  [[Dalinar\|Dalinar]] bringing the Realms together, summoning Stormlight
 >“*Honor's power, during a storm, is concentrated in one place. It pierces all three realms and brings Physical, Cognitive, and Spiritual together momentarily in one. The gemstones, exposed to the wonder of the Spiritual Realm, are lit by the infinite power there.*”
-\-The Stormfather[2]
+\-The Stormfather[3]
 
 
 Stormlight comes directly from the [[Spiritual Realm\|Spiritual Realm]], leaking into the [[Physical Realm\|Physical]] and the [[Cognitive Realm\|Cognitive]] as the three are brought closer together. This typically happens on Roshar during a [[Highstorm\|highstorm]]. As the storm passes, any spheres exposed to it are infused with Stormlight near its end. At the same time, it arrives in [[Shadesmar\|Shadesmar]] as a wave of light high in the sky. There, [[Spren\|spren]] absorb it directly.
@@ -42,7 +41,7 @@ Stormlight comes directly from the [[Spiritual Realm\|Spiritual Realm]], leaking
 In the present, it appears that the [[Stormfather\|Stormfather]] -- and, by extension, [[Honor\|Honor]] -- is the primary force enabling Stormlight to cross over into other Realms. However, it has existed prior to the [[Shattering\|Shattering]]. Back then, it had slightly different properties.
 
 ## Appearance and Properties
-Stormlight appears as luminescent white vapor. When free, it behaves similarly to smoke, dissipating in puffs and leaving trails when its source moves. [[Gemstone\|Gemstones]] left outside during a [[Highstorm\|highstorm]] absorb it, becoming infused, which manifests as the gems glowing. The amount of Stormlight collected is not directly proportional to the strength of the highstorm.
+Stormlight appears as luminescent white vapor with a faint blue tint. When free, it behaves similarly to smoke, dissipating in puffs and leaving trails when its source moves. [[Gemstone\|Gemstones]] left outside during a [[Highstorm\|highstorm]] absorb it, becoming infused, which manifests as the gems glowing. The amount of Stormlight collected is not directly proportional to the strength of the highstorm.
 Absorbed Stormlight, if unused, will eventually begin leaking out through miniscule cracks in the gemstones. The speed at which it leaks varies depending on its current vessel. A person can only hold Stormlight for a few minutes at most, while a gemstone will hold it for several days -- the ones used as currency glow for about a week, while bigger gems last a while longer. [[Perfect gemstone\|Perfect gemstones]], like the [[King's Drop\|King's Drop]], can hold it for centuries, if not forever. When leaking from gems, Stormlight assumes their color. It can be transferred from one gemstone to another through various means, such as using tuning forks that resonate to Honor's pure tone.
 Stormlight is stored in gemstones similar to [[Voidlight\|Voidlight]], but these two types of light cannot be stored in the same gemstone. Stormlight leaks significantly faster than Voidlight.
 

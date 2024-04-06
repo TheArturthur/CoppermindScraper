@@ -2,7 +2,6 @@
 |-|-|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Middlefest Fair** is an annual festival that takes place on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

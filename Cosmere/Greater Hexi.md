@@ -1,24 +1,25 @@
 |**Greater Hexi**|
 |-|-|
 |by User: Otto didact|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Greater Hexi** is a small nation in southern [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
+**Greater Hexi** is a nation in southern [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 
 ## Contents
 
 1 Geography
 2 Politics and Culture
 3 History
-4 Notes
+4 Trivia
+5 Notes
 
 
 ## Geography
 Greater Hexi lies in the south-central part of the [[Roshar\|Rosharan]] continent, between the [[Tarat Sea\|Tarat Sea]] and the mountains where [[Urithiru\|Urithiru]] is located. It shares borders with [[Marat\|Marat]] and [[Tu Fallia\|Tu Fallia]] to its south-west and north-east respectively, though there are no apparent geographical features that dictate those borders. The island on the Tarat Sea that lies just off the coast can be assumed to also belong to Greater Hexi.
 The country has few geographical features, being composed mostly of desolate, windswept flatlands. They are largely devoid of [[Rockbud\|rockbuds]], but rather covered in small gashes, about one to three inches deep, giving it an appearance of wrinkles or ripples. Those "wrinkles" are covered with lichen on the stormward side, and flattened grass on the opposite one. Trees are sparse and scrawny, bending leeward so far as to nearly touch the ground. The mountaintops are similarly bare, scoured raw by the [[Highstorm\|highstorms]].
 The only known settlement in Greater Hexi is [[Lexili\|Lexili]], near the border of Marat. Another notable location is the [[Valley\|Valley]] of the [[Nightwatcher\|Nightwatcher]], in the mountains that form the country's north-western border.
+It has an area around 454,000 km.
 
 ## Politics and Culture
  by  Marie Seeberger  The plains of Hexi
@@ -29,6 +30,8 @@ At this time, it is unknown if there is a "Lesser Hexi", or some equivalent. How
 ## History
 In the year 1168, [[Dalinar\|Dalinar]] takes a small contingent of soldiers into Hexi when he visits the [[Nightwatcher\|Nightwatcher]]. They travel with a caravan until they're close to the [[Valley\|Valley]].
 
+## Trivia
+At 454,000 km, it is between  and  in area.
 
 
-https://coppermind.net/wiki/Greater_Hexi
+https://coppermind.net/wiki/Hexi

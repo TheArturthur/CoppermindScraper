@@ -4,9 +4,8 @@
 |**Spouse**|[[Ahan\|Ahan]]|
 |**Children**|[[Torena\|Torena]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 Lady **Seaden** is a noble in [[Arelon\|Arelon]] on [[Sel\|Sel]]. She is Count [[Ahan\|Ahan's]] wife and the mother of [[Torena\|Torena]].
 

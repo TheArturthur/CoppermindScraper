@@ -1,10 +1,7 @@
 |**Chalkling**|
 |-|-|
 |by  Ben McSweeney |
-|**Appearance**|Chalk drawings|
-|**Magic**|[[Rithmatics\|Rithmatics]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 A **chalkling** is a two-dimensional being made of chalk.
 
@@ -161,4 +158,4 @@ The [[Scribbler\|Scribbler]] was able to turn captured Rithmatists into wild cha
 
 
 
-https://coppermind.net/wiki/Chalkling
+https://coppermind.net/wiki/Chalklings

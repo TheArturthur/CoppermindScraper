@@ -1,9 +1,8 @@
 |**Backbreaker powder**|
 |-|-|
 |**Type**|Poison|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the [[Epic\|Epic]], see [[Backbreaker\|Backbreaker]].
 **Backbreaker powder** is a very strong poison used on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].

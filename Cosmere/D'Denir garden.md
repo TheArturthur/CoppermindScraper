@@ -1,10 +1,9 @@
 |**D'Denir garden**|
 |-|-|
-|**City**|[[T'Telir\|T'Telir]]🐱︎|
-|**Nation**|[[Hallandren\|Hallandren]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|**City**|[[T'Telir\|T'Telir]]|
+|**Nation**|[[Hallandren\|Hallandren]]|
+|**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 The **D'Denir garden** is a public park in the city of [[T'Telir\|T'Telir]] on [[Nalthis\|Nalthis]].
 

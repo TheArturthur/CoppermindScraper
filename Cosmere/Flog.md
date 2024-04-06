@@ -3,9 +3,8 @@
 |**Died**|342 [[Catacendre\|PC]]|
 |**Profession**|Bodyguard|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Flog** is one of [[Winsting Innate\|Winsting Innate's]] bodyguards in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 
@@ -14,7 +13,7 @@
 \-Flog[1]
 
 
-Although Flog has never been outside of the [[Elendel Basin\|Elendel Basin]], he wears a style of hat and duster commonly seen in the [[Roughs\|Roughs]]. Unlike his employer, Flog believes that the [[Mist\|mists]] have supernatural properties and sometimes tries to avoid them. Flog is loyal and obedient, although this is partially due to to Winsting's [[Rioter\|Rioting]] abilities.
+Although Flog has never been outside of the [[Elendel Basin\|Elendel Basin]], he wears a style of hat and duster commonly seen in the [[Roughs\|Roughs]]. Unlike his employer, Flog believes that the [[Mist\|mists]] have supernatural properties and sometimes tries to avoid them. Flog is loyal and obedient, although this is partially due to Winsting's [[Rioter\|Rioting]] abilities.
 
 ## History
 Flog was present for [[Winsting Innate's auction\|Winsting Innate's auction]]; he was the presumptive leader of Winsting's security team. He was always at Winsting's side, and was described as an excellent bodyguard. He was charged with monitoring the guest list for the auction and checking into each person's background, due to the illicit activity that was going to occur. There was one guest at the party—a slender blond woman accompanying [[Dowser Maline\|Dowser Maline]]—that Winsting did not recognize, and Flog was baffled by her presence.

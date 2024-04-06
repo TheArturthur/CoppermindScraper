@@ -1,9 +1,8 @@
 |**Deepwalker**|
 |-|-|
 |**Type**|Sea creature|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 >“* It passed directly underneath. Sak chirped quietly from Dusk’s shoulder; the second bird seemed to have some sense of the danger. Creatures like the shadow did not hunt by smell or sight, but by sensing the minds of prey.*”
 \- Dusk, about shadows[1].

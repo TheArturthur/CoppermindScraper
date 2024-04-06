@@ -1,11 +1,12 @@
 |**Irich**|
 |-|-|
-|**Groups**|[[Set\|Set]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Abilities**|Leecher|
+|**Groups**|[[Set\|Set]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*The Bands of Mourning*|
 
-**Professor Irich** is a scientist and a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]]. Within the Set, he holds the rank of Array.
+**Professor Irich** is a scientist and a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]]. Within the Set, he holds the rank of Array. He is a [[Chromium\|chromium]] [[Misting\|Misting]] (aka a [[Leecher\|Leecher]]).
 
 ## Appearance and Personality
 Irich is thin, approximately six feet tall, and has a narrow face and dark hair. He has a degenerative disease that weakens his muscles and makes breathing difficult. His physician has told him that the disease will eventually kill him, and he can tell that his condition is worsening daily. He carries a cane to assist his walking, and his gait has been changing every few months due to the rapid degeneration of his muscles. The cane and his stooped posture can make him appear to be older than he is.

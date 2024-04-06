@@ -8,9 +8,9 @@
 |**Aliases**|White Fox|
 |**Profession**|Bounty Hunter & Innkeeper|
 |**Residence**|[[Forests of Hell\|The Forests of Hell]]|
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence in the Forests of Hell*|
+|**First Appeared**|*Shadows for Silence in the Forests of Hell*|
 
 >“*Better to marry a stone than Silence Montane. A stone showed more affection.*”
 \-Daggon on Silence Montane[1]
@@ -51,7 +51,7 @@ Silence keeps a book of wanted posters and bounties, containing images of wanted
 
 The **White Fox** is a bounty hunter widely known in the Forests of Hell.
 The White Fox has been active for around ten years and has turned in hundreds of bounties to the forts, all without revealing his identity to the general populace by killing everyone to have seen his face. He is not interested in small time bounties, always bringing in more difficult and valuable targets.
-Being such a prolific bounty hunter, rumors about the White Fox's exploits have grown up and he is a favorite topic of storytellers. He is rumored to have strange powers, to have visited the [[Evil\|Evil]], to be able to break the [[Simple Rules\|Simple Rules]] because he does not fear shades. Daggon considers himself an expert on the White Fox and does not believe that he would come to Silence's waystop because it is neutral territory. Daggon tells men stories about the White Fox in exchange for drinks.
+Being such a prolific bounty hunter, rumors about the White Fox's exploits have grown up and he is a favorite topic of storytellers. He is rumored to have strange powers, to have visited the [[Evil\|Evil]] and to be able to break the [[Simple Rules\|Simple Rules]] because he does not fear shades. Daggon considers himself an expert on the White Fox and does not believe that he would come to Silence's waystop because it is neutral territory. Daggon tells men stories about the White Fox in exchange for drinks.
 The White Fox is rumored to have captured [[Makepeace Hapshire\|Makepeace Hapshire]].
 Silence ultimately decides to pin the White Fox identity on [[Theopolis\|Theopolis]] after his death so that she can claim the bounty for Chesterton Divide and explain Theopolis' death without directing suspicion towards herself.
 
@@ -59,4 +59,4 @@ Silence ultimately decides to pin the White Fox identity on [[Theopolis\|Theopol
 At the midnight release/book signing for [[Shadows of Self\|Shadows of Self]], a scavenger hunt-style "Wanted" poster labeled Silence as a member of the 17th shard. This was not in any way a canonical event, merely a way of getting the [[17thshard.com\|17thshard.com]] booth involved in the festivities.
 
 
-https://coppermind.net/wiki/Silence
+https://coppermind.net/wiki/Silence_Forescout

@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Headquarters**|[[Alta Base\|Alta Base]]|
 |**Type**|Starfighter pilot|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*We're not cowards. The DDF makes it very clear that we're not. But you might have to deal with a . . . a look now and then. It's part of the sacrifice we all make to see that the Defiant Caverns are kept safe.*”
 \-Blaze to Arturo.[1]

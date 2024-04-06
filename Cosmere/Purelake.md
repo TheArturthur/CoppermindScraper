@@ -2,10 +2,9 @@
 |-|-|
 |by  Connor Chamberlain |
 |**Type**|Lake|
-|**Region**|[[Sela Tales\|Sela Tales]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Sela Tales\|Sela Tales]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The Purelake seemed to extend forever, wide as an ocean... Rock outcrops broke the lake near the coast, but inward the Purelake grew placid, more empty.*”
 \-Szeth's description of the Purelake[1]
@@ -65,7 +64,7 @@ The Purelake is influenced, in some way, by [[Cultivation\|Cultivation]], althou
 ### Geography
 For more images, see [[Purelake/Gallery\|/Gallery]].
 The Purelake is a large, shallow lake that is hundreds of miles wide. It is separated from the [[Reshi Sea\|Reshi Sea]] by the nation of [[Marabethia\|Marabethia]]. The Purelake borders the nations of [[Tu Bayla\|Tu Bayla]] to the east, [[Yulay\|Yulay]] to the south, and [[Babatharnam\|Babatharnam]] to the west. In [[Shadesmar\|Shadesmar]], the Purelake is a mountain range. The depth of the lake in the [[Physical Realm\|Physical Realm]] is not related to how it appears in the [[Cognitive Realm\|Cognitive]].
-The waters of the Purelake are warm and crystal-clear, and the surface typically calm and smooth despite the tides. The lake has an average depth of about midcalf, with its greatest depth being around six feet, not including sinkholes. The lake bottom has small ridges and sharp ledges of rock, which can make walking through the Purelake precarious. Purelakers are skilled at navigating such terrain, knowing to test their footing before putting their weight down.
+The waters of the Purelake are warm and crystal-clear, and the surface typically calm and smooth despite the tides. The lake has an average depth of about midcalf, though at some spots it reaches depths of around six feet. These deepest spots likely coincide with the sinkholes in the lake. The lake bottom has small ridges and sharp ledges of rock, which can make walking through the Purelake precarious. Purelakers are skilled at navigating such terrain, knowing to test their footing before putting their weight down.
 It is unknown what type of, if any, mineral deposits can be found around the lake.
 
  by User: Otto didact Map of the Purelake
@@ -80,6 +79,8 @@ Villages that can be found on the Purelake include:
 [[Fu Albast\|Fu Albast]]
 [[Fu Moorin\|Fu Moorin]]
 
+It can be observed that the Selay word *Fu* is in some way related to settlements, as it appears in the names of all known Purelake settlements. The exact meaning of the word, however, is unknown.
+
 
 Large structures have previously existed on the Purelake, though their continued existence is questioned by scholars. A large obsidian fortress once existed somewhere on the lake, prior to the [[Recreance\|Recreance]], but it is believed to have been destroyed. Modern-day Purelakers still speak of large structures existing on the lake, although this is dismissed by those outside the region as mythology. This fortress is not related to the geography of the Purelake in the Cognitive Realm.
 A [[Order of Skybreakers\|Skybreaker]] compound sits along the northern edge of the Purelake, in [[Marabethia\|Marabethia]].
@@ -87,7 +88,7 @@ A [[Order of Skybreakers\|Skybreaker]] compound sits along the northern edge of 
 
 ### Climate
 >“*Like an endless bay, mere feet deep. Warm water. Calm breezes.*”
-\-Zahel's description of the Purelake[11]
+\-Zahel's description of the Purelake[12]
 
 
 The Purelake has a tropical climate that is consistently both warm and humid, with calm breezes. The passing of the [[Highstorm\|highstorm]] is the only time the temperature drops and the lake's climate turns cold. The Purelake's weather is similar to that of [[Hallandren\|Hallandren]], on the planet [[Nalthis\|Nalthis]].
@@ -120,7 +121,7 @@ In his youth, Dalinar traveled to the west of [[Roshar\|Roshar]] and visited the
 
  by  Bonnie Johnson  Scenery of the Purelake
 In the year 1173 three members of the [[Seventeenth Shard\|Seventeenth Shard]], [[Galladon\|Galladon]], [[Demoux\|Demoux]], and [[Baon\|Baon]], traveled to the Purelake, believing it to be the current location of [[Hoid\|Hoid]]. To try and find him, they enlisted the help of a Purelaker, [[Ishikk\|Ishikk]], who traveled to the different Purelake villages over the span of five months. Unbeknownst to Ishikk, the trail he was following had been falsely laid by Hoid to distract and avoid the Seventeenth Shard members who were seeking him. As such, Ishikk was ultimately unsuccessful and unable to find any evidence of Hoid having been in the area.
-Later that year, the Purelake experienced the spread of an off-world illness, the common cold, which had been transmitted to the locals by either the Seventeenth Shard members or another [[Worldhopper\|worldhopper]].
+Later that year, the Purelake experienced the spread of an off-world illness, the common cold, which had been transmitted to the locals by either the Seventeenth Shard members or another [[Worldhopper\|worldhopper]]. Kharbranth studied the plague, releasing information on their findings, in the end they declared that the plague was ultimately not deadly.
 
 ### The True Desolation
 In 1174, a group of criminals escaped from a jail on the northern edge of the Purelake. The [[Order of Skybreakers\|Skybreakers]] were called in to catch the escapees, who had broken out of the jail and fled. The Skybreaker acolytes were tasked with finding the criminals and bringing them to justice, with the exercise also testing their understanding of the law.
@@ -155,7 +156,7 @@ Szeth visits the Purelake at some point before becoming a Skybreaker.
 
 ### Society and Customs
 >“*That bastion of culture and fashion! Are you going shopping in Bavland next?*”
-\-Havar making fun of Bashin's Purelaker hat[24]
+\-Havar making fun of Bashin's Purelaker hat[26]
 
 
 Purelakers speak [[Selay\|Selay]], which is in the same language group as the languages of [[Iri\|Iri]], the [[Reshi\|Reshi]] Islands, and other northwestern parts of Roshar. The Purelake dialect is heavily influenced by the inhabitants' way of life and their religious beliefs, with many sayings relating to the weather, the lake, or their gods.

@@ -1,13 +1,12 @@
 |**The Way of Kings**|
 |-|-|
 |**Related to**|[[Silver Kingdoms\|Silver Kingdoms]], [[Nohadon\|Nohadon]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
 This is for the in-universe text by [[Nohadon\|Nohadon]]. For the book by Brandon Sanderson, see [[The Way of Kings\|The Way of Kings]].
-*The Way of Kings* is a book of parables and stories written by king [[Nohadon\|Nohadon]] on [[Roshar\|Roshar]].
+*The Way of Kings* is a book of parables and stories written by king [[Nohadon\|Nohadon]] on [[Roshar\|Roshar]]. Using [[Alethi\|Alethi]] [[Glyph\|glyphs]], the title of the book is written with symbols for "pathway" and "king."
 It was read by [[Gavilar Kholin\|Gavilar Kholin]] in the years prior to his death. [[Dalinar Kholin\|Dalinar Kholin]] began listening to it after his brother's funeral.
 
 ## Contents
@@ -37,7 +36,7 @@ The book is composed of an introduction, where the narrator makes the decision t
 
 ## Historicity
 >“*I've grown fond of [metaphors]. You might say I wrote an entire book about them.*”
-\-Nohadon on his own work[1]
+\-Nohadon on his own work[2]
 
 
 The book was written by [[Nohadon\|Nohadon]], an ancient king who lived and reigned after one of the [[Desolation\|Desolations]]. As is revealed by Dalinar's visions, he wrote the book after he had already risen to power. Thus, while it does exemplify the virtues of a ruler, it is meant to act as an allegory rather than a method by which to inspire others.
@@ -137,39 +136,38 @@ But that does not mean that I walked alone.
 There are also several smaller quotes scattered through the book, such as:
 
 >“*There is honor in loss, if that loss brings learning.*”
-\-[2]
+\-[3]
 
 
 >“*A man's emotions are what define him, and control is the hallmark of true strength. To lack feeling is to be dead, but to act on every feeling is to be a child.*”
-\-[14]
+\-[15]
 
 
 >“*A monarch is control. He provides stability. It is his service and his trade good. If he cannot control himself, then how can he control the lives of men? What merchant worth his Stormlight won’t partake of the very fruit he sells?*”
-\-[21]
-
-
->“*Never fight other men except when forced to in war.*”
-\-[21]
-
-
->“*Let your actions defend you, not your words.*”
-\-[21]
-
-
->“*Expect honor from those you meet, and give them the chance to live up to it.*”
-\-[21]
-
-
->“*Rule as you would be ruled.*”
-\-[21]
-
-
->“*As I fear not a child with a weapon he cannot lift, I will never fear the mind of a man who does not think.*”
 \-[22]
 
 
+>“*Never fight other men except when forced to in war.*”
+\-[22]
+
+
+>“*Let your actions defend you, not your words.*”
+\-[22]
+
+
+>“*Expect honor from those you meet, and give them the chance to live up to it.*”
+\-[22]
+
+
+>“*Rule as you would be ruled.*”
+\-[22]
+
+
+>“*As I fear not a child with a weapon he cannot lift, I will never fear the mind of a man who does not think.*”
+\-[23]
+
+
 ## Trivia
-Using [[Glyph\|glyphs]], the title of the book is written with symbols for "Pathway" and "King".
 Brandon Sanderson's favorite part of the book is the parable about the man carrying the heavy stone.
 The book is known off-world, although it has not found its way to [[Scadrial\|Scadrial]].
 Brandon has briefly considered writing the entirety of *The Way of Kings*. He eventually decided not to, stating it would be too much work for too little pay-off, and that he'd rather leave himself leeway to create new passages as necessary.

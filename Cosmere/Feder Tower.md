@@ -1,9 +1,8 @@
 |**Feder Tower**|
 |-|-|
-|**City**|[[Elendel\|Elendel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Feder Tower** is a skyscraper in [[Elendel\|Elendel]].
 

@@ -3,9 +3,8 @@
 |**Participants**|Humans, [[Varvax\|varvax]], [[Dione\|dione]], [[Tenasi\|tenasi]], [[UrDail\|UrDail]], [[Kitsen\|kitsen]], and more|
 |**Effects**|Formation of [[Detritus\|human preserves]] and the [[Superiority\|Superiority]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *ReDawn*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *ReDawn*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*There haven't been any major conflicts since the human wars.*”
 \-Morriumur[1]
@@ -43,9 +42,9 @@ The Third War occurred approximately one hundred years prior to [[Spensa\|Spensa
 \-Spensa[1]
 
 
-The Human Wars have had a tremendous impact on the universe at large. Human languages, including English, Manadrin Chinese, Hindi and Spanish, are still commonly spoken throughout the galaxy, and are carried by most translator pins. Moreover, [[Delver\|delvers]] were first summoned by humans during the Second War, and continue to be a threat, leading to a change in how [[Cytonics\|cytonics]] are perceived and used.
+The Human Wars have had a tremendous impact on the universe at large. Human languages, including English, Mandarin Chinese, Hindi and Spanish, are still commonly spoken throughout the galaxy, and are carried by most translator pins. Moreover, [[Delver\|delvers]] were first summoned by humans during the Second War, and continue to be a threat, leading to a change in how [[Cytonics\|cytonics]] are perceived and used.
 The Wars have also led to vast political upheavals. In their aftermath, the surviving humans were confined to a number of preserves, such as [[Detritus\|Detritus]]. The [[Superiority\|Superiority]], too, arose as a result of the Wars, becoming the dominant political power of the known universe thanks to its stranglehold on faster-than-light travel and communication.
 
 
 
-https://coppermind.net/wiki/First_Human_War
+https://coppermind.net/wiki/Third_Human_War

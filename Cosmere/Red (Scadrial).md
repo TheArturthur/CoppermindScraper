@@ -1,9 +1,8 @@
 |**Red (Scadrial)**|
 |-|-|
 |**Profession**|Boatman|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 For other characters with this name, see [[Red\|Red]].
 **Red** is a boatman that operates in the canals in [[Elendel\|Elendel]] on Scadrial.
 Red gives [[Wayne\|Wayne]] a ride to [[Elendel University\|Elendel University]], which Wayne pays for with a coin he was holding in his mouth.

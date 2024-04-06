@@ -1,9 +1,8 @@
 |**Synod**|
 |-|-|
 |**Type**|Council|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn (series)*|
 
 The **Synod** is the ruling council of the [[Keeper\|Keepers]] of [[Terris\|Terris]]. They were present both before and during the [[Final Empire\|Final Empire]], as well as after the [[Catacendre\|Catacendre]].
 

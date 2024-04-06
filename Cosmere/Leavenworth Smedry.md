@@ -5,8 +5,9 @@
 |**Descendants**|[[Alcatraz Smedry\|Alcatraz]], [[Folsom Smedry\|Folsom]], [[Quentin Smedry\|Quentin]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]], [[Oculator\|Oculator]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 
 **Leavenworth "Grandpa" Smedry** is an [[Oculator\|Oculator]] and the head of [[House Smedry\|House Smedry]].
 
@@ -40,4 +41,4 @@ Grandpa Smedry has a tendency to curse using the names of Brandon's favorite wri
 His name is a reference to , which is the location of the Military Corrections Complex.
 
 
-https://coppermind.net/wiki/Leavenworth
+https://coppermind.net/wiki/Grandpa_Smedry

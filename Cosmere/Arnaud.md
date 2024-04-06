@@ -1,8 +1,7 @@
 |**Arnaud**|
 |-|-|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Arnaud** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]].
 He is a short, slender, balding French man. He manifested after Stephen recovered [[Balubal Razon\|Balubal Razon's]] camera. He is a physicist specializing in temporal mechanics, causality, and quantum theories.

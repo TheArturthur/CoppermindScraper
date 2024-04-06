@@ -3,9 +3,8 @@
 |**Family**|
 |**Parents**|[[Rinakin\|Rinakin]]|
 |**Species**|[[UrDail\|UrDail]]|
-|**World**|[[ReDawn (planet)\|ReDawn]]|
+|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *ReDawn*!Be aware that in its current state, it may not include all additional content yet.
 

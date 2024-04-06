@@ -2,11 +2,11 @@
 |-|-|
 |**Born**|ca. 300 [[Heraldic Epochs\|Eighth Epoch]]|
 |**Died**|*Unknown*|
-|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]🐱︎|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
-|**World**|[[Roshar\|Roshar]]|
+|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*I cannot promise you a position in one of the orders--that decision is not mine--but if your skill with the sword is similar to your skill with hearth-tending implements, then I am confident you will find a place with us.*”

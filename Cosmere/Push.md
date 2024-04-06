@@ -2,11 +2,11 @@
 |-|-|
 |**Died**|341 [[Catacendre\|PC]]|
 |**Abilities**|Coinshot|
-|**Groups**|[[Set\|Set]]🐱︎, [[Vanishers\|Vanishers]]🐱︎|
+|**Groups**|[[Set\|Set]], [[Vanishers\|Vanishers]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*The Alloy of Law*|
 
 For the Allomantic action of steel known as Pushing, see Steel#Allomantic Use.
 **Push** is the pseudonym of a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]]. He is a [[Coinshot\|Coinshot]] that also works with the [[Vanishers\|Vanishers]].

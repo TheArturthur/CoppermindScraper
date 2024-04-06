@@ -1,11 +1,9 @@
 |**ChayShan**|
 |-|-|
 |**Related to**|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|
-|**Focus**|Forms|
 |**Type**|End-Positive|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **ChayShan** is a manifestation of [[Investiture\|Investiture]] on [[Sel\|Sel]].
 

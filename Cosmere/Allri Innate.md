@@ -3,9 +3,8 @@
 |**House Innate**|
 |**Spouse**|[[Replar Innate\|Replar Innate]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lady **Allri Innate** is a highborn woman married to [[Replar Innate\|Replar Innate]] in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

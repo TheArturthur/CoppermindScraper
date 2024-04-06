@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Lord **Yestal** is a [[Noble\|noble]] in [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]].
 He regularly attended balls held by the nobility in Luthadel. He initially welcomed [[Valette Renoux\|Valette Renoux]], and danced with her on at least one occasion.

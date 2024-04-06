@@ -1,11 +1,10 @@
 |**Rockfall**|
 |-|-|
 |**Usage**|Mansion|
-|**City**|[[Kholinar\|Kholinar]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Kholinar\|Kholinar]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Sometime long ago, someone had mixed far too much wealth with far too much imagination.*”
 \- Veil's impression of Rockfall[1]

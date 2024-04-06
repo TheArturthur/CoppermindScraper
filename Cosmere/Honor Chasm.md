@@ -2,10 +2,9 @@
 |-|-|
 |by  Madison Coyne |
 |**Type**|Chasm|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The Honor Chasm, the bridgemen called it, for it was the place where they could make the one decision left to them. The honorable decision. Death.*”
 \-Kaladin's thoughts on the chasm.[1]

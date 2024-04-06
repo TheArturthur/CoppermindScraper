@@ -1,8 +1,7 @@
 |**Junmi**|
 |-|-|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*The warrior cannot choose her bed; she must bless the stars if she can choose her battlefield.*”
 \-A quote from Junmi’s, The Conquest of Space.[1]

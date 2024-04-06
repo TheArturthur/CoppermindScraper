@@ -2,10 +2,9 @@
 |-|-|
 |by  Isaac Stewart |
 |**Occupied by**|[[Singers\|Singers]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Eastern Crownlands** is an area of land in the southeastern part of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

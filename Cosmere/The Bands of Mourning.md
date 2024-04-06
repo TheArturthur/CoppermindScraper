@@ -7,27 +7,31 @@
 |**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
 |**Released**|January 26, 2016|
 |**Publisher**||
+|**ISBN**|978-0-7653-7857-6|
+|**Page Count**|447|
+|**Word Count**|[[The Bands of Mourning/Statistical analysis\|127,456]]|
 
 This article is for the novel. For the in-universe item, see [[Bands of Mourning\|Bands of Mourning]].
-**The Bands of Mourning** is the third book set in [[Mistborn Era 2\|Mistborn Era 2]]. It was published on January 26, 2016, shortly after *Shadows of Self*.
+*The Bands of Mourning* is the third book set in [[Mistborn Era 2\|Mistborn Era 2]]. It was published on January 26, 2016, shortly after *Shadows of Self*.
 
 ## Contents
 
-1 Cover Synopsis
-2 Plot Summary
+1 Synopsis
+2 Summary
 3 Development
 4 Cover Gallery
-5 Statistical Analysis
-6 Notes
+5 Interior Art
+6 Statistical Analysis
+7 Notes
 
 
-## Cover Synopsis
+## Synopsis
 >“
 \-With The Alloy of Law and Shadows of Self, Brandon Sanderson surprised readers with a New York Times bestselling spinoff of his Mistborn books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
 Now, with The Bands of Mourning, Sanderson continues the story. The Bands of Mourning are the mythical metalminds owned by the Lord Ruler, said to grant anyone who wears them the powers that the Lord Ruler had at his command. Hardly anyone thinks they really exist. But now a kandra researcher has returned to Elendel with images that seem to depict the Bands, as well as writings in a language that no one can read. Waxillium Ladrian is recruited to travel south to the city of New Seran to investigate, and along the way he discovers hints that point to the true goals of his uncle Edwarn and the shadowy organization known as The Set.
 
 
-## Plot Summary
+## Summary
 For a complete chapter by chapter summary, see [[The Bands of Mourning/Summary\|/Summary]].
 
 [[Wax\|Wax]] is a teenager living in the [[Village\|Village]], sneaking out into the city with his [[Telsin\|sister]] and her friends. He learns that a constable is visiting the Village about a recent arson, so he bugs out and eavesdrops on his grandmother. Later in his room, he spies one of the friends, [[Forch\|Forch]], outside in the rain. He goes to investigate and finds him torturing a young boy. Forch attacks, and Wax manages to kill him with a bullet he stole from his grandmother (left by the constable as a warning). He realizes that his destiny is fighting crime, away from the Village.
@@ -64,8 +68,19 @@ According to the cover blurb the title refers to the Lord Ruler's bracers, which
 
 ## Cover Gallery
 For the cover gallery of The Bands of Mourning, see [[The Bands of Mourning/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[The Bands of Mourning/Interior art\|/Interior art]].
 ## Statistical Analysis
 For a full statistical analysis, see [[The Bands of Mourning/Statistical analysis\|/Statistical analysis]].
+*The Bands of Mourning* consists of thirty-one chapters, one prologue, and one epilogue, reaching a total 127,456 word count. There are eleven different unique point-of-view characters in a total of 83 POVs.
+
+|**Word Count**|127,456||
+|-|-|
+|**Page Count**|447|Tor hardback|
+|**Chapter Count**|31|Including prologue and epilogue.|
+|**PoV Characters**|11||
+|**PoV Count**|83||
+
 
 
 https://coppermind.net/wiki/The_Bands_of_Mourning

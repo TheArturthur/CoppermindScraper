@@ -4,9 +4,8 @@
 |**Type**|Greatshell island|
 |**Sapient**|Yes|
 |**Native to**|[[Reshi Sea\|Reshi Sea]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Relu-na** is a [[Tai-na\|Tai-na]] in the [[Reshi Sea\|Reshi Sea]] on [[Roshar\|Roshar]]. A [[Greatshell\|greatshell]] the size of an island, she is worshiped as a god by her inhabitants.
 

@@ -3,9 +3,8 @@
 |**Died**|1174, killed by [[Nale\|Nale]]|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
 |**Nationality**|[[Tashikki\|Tashikki]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tiqqa** is an urchin girl in [[Yeddaw\|Yeddaw]] on [[Roshar\|Roshar]].
 

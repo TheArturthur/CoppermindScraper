@@ -1,9 +1,8 @@
 |**Burn ink**|
 |-|-|
 |**Type**|Writing Material|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Burn ink** is a flammable ink used on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

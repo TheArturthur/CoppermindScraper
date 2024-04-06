@@ -7,11 +7,11 @@
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
-**Taan** is a sculptor from [[Arelon\|Arelon]] on [[Sel\|Sel]]. After being taken by the [[Shaod\|Shaod]], he took the name **Aanden**. Taan rules one-third of the inhabitants of [[Elantris (city)\|Elantris]] prior to the arrival of Prince [[Raoden\|Raoden]].
+**Taan** is a sculptor from [[Arelon\|Arelon]] on [[Sel\|Sel]]. After being taken by the [[Shaod\|Shaod]], he takes the name **Aanden**. Taan rules one-third of the inhabitants of [[Elantris (city)\|Elantris]] prior to the arrival of Prince [[Raoden\|Raoden]].
 
 ## Appearance and Personality
 Taan is a short man "with a sizeable paunch."
@@ -26,4 +26,4 @@ When Raoden reconnected Elantrians with the Dor it would seem Taan was also save
 
 
 
-https://coppermind.net/wiki/Aanden
+https://coppermind.net/wiki/Taan

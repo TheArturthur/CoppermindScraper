@@ -4,9 +4,8 @@
 |**Titles**|Brightlord|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlord **Morakotha** is a [[Lighteyes\|lighteyed]] [[Alethi\|Alethi]] noble on the [[Shattered Plains\|Shattered Plains]] of Roshar.
 He presumably hails from the [[Kholin princedom\|Kholin princedom]] and is of high birth, as his daughter [[Danlan\|Danlan]] worked with King [[Elhokar\|Elhokar's]] scribes in [[Kholinar\|Kholinar]].

@@ -1,15 +1,14 @@
 |**Aon**|
 |-|-|
 |**Related to**|[[AonDor\|AonDor]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 This page or section needs to be updated with new information for the 10th Anniversary Edition of *Elantris*!Be aware that in its current state, it may not include all additional content yet.
 
-**Aons** are a writing system used by the [[Aonic\|Aonic]] peoples of [[Arelon\|Arelon]] and [[Teod\|Teod]] on [[Sel\|Sel]]. They are logographic, meaning they represent words and meanings, as opposed to an alphabet which represents sounds. Instead of being an invented system like most scripts, the Aons already existed and were discovered through trial and error.
+**Aons** are a writing system used by the [[Aonic\|Aonic]] peoples of [[Arelon\|Arelon]] and [[Teod\|Teod]] on [[Sel\|Sel]]. They are logographic, meaning they represent words and meanings, as opposed to an alphabet which represents sounds. Instead of being an invented system like most scripts, the Aons already existed and were discovered by an ancient [[Elantrian\|Elantrian]] through trial and error.
 Aons also serve as the focus for the magic system [[AonDor\|AonDor]] used by [[Elantrian\|Elantrians]]. This, presumably, served as the impetus for the discovering of new Aons.
-Aons were all referred to as “Aon insert name here” such as Aon Rao or Aon Ene. They were disyllabic with two hard vowels.
+Aons are all referred to as “Aon insert name here” such as Aon Rao or Aon Ene. They are disyllabic with two hard vowels.
 It is also possible to combine Aons, resulting in strengthened or combined powers. However, it is incredibly difficult to combine or convert Aons with other types of [[Investiture\|Investiture]]. This is speculated to be because Aons rely so heavily on geography for their power, and would therefore have to be completely recreated in order to be used anywhere other than Arelon and surrounding areas.
 There is one [[Seon\|Seon]] for each Aon, which glows visibly at the Seon's core. Not all Aons have been revealed.
 All Aons are based on Aon Aon, which itself was based off the shape of Arelon. The straight horizontal line at the top represented the northern coastline; the curve to the right, the [[Atad Mountains\|Atad Mountains]]; the dot in the center, [[Lake Alonoe\|Lake Alonoe]]. All Aons shown below are pre-[[Reod\|Reod]] and are thus incomplete since the chasm line to the bottom right of the Aon is not present.
@@ -255,7 +254,7 @@ This Aon has the ability to "make a room go completely silent for a short time."
 >“*Power, Energy*”
 \-Ars Arcanum
 
-Aon Daa is the preferred offensive weapon of the Elantrians. When drawn successfully a burst of light is emitted that warps and twists the air around it. The light then strikes its target with considerable explosive force.
+Aon Daa is the preferred offensive weapon of the Elantrians. When drawn successfully, a burst of light is emitted that warps and twists the air around it. The light then strikes its target with considerable explosive force.
 *Examples:* Daa Plantation
 
 ### Dao
@@ -347,7 +346,7 @@ In AonDor, Aon Edo creates a thin wall of light. The wall serves as a barrier, d
 
 
 >“*Fire, Warmth*”
-\-Ars Arcanum[8]
+\-Ars Arcanum[9]
 
 
 Aon Ehe is one of the few Aons that has an origin myth associated with it. When the Aonic peoples first migrated to what would become Arelon, the people were initially afraid of the vacant city of Elantris. King Rhashm (later [[Raoshem\|Raoshem]]) wanting to overcome this fear chose Elantris as the center of his kingdom. Decades later the Shaod began to take people, including the princess, [[Elashe\|Elashe]]. She claimed to have seen Aon Ehe inscribed on a coal in her hearth the day after she was taken. This has led to the belief that a rock or piece of coal inscribed with Aon Ehe is good luck and provides protection against winter spirits.
@@ -518,8 +517,6 @@ Aon Ien was used in AonDor as the basis for healing. To maximize its potential, 
 >“*Strength*”
 \-Brandon's Website
 
-*Examples:*
-
 ### Ire
 
 
@@ -600,7 +597,7 @@ When drawn in AonDor, Kii causes the guilty to feel pain.
 >“*Honor*”
 \-Ars Arcanum
 
-*Examples:* Mai Plantation
+*Examples:* Maiben, Mai Plantation
 
 ### Mea
 
@@ -716,7 +713,7 @@ This Aon was known at least as far away as the [[Rose Empire\|Rose Empire]].
 >“*Wealth, Affluence*”
 \-Ars Arcanum
 
-*Examples:* [[Telrii\|Telrii]], Sorii, Rii Plantation, [[Riino\|Riino]]
+*Examples:* [[Telrii\|Telrii]], Sorii, Rii Plantation, [[Riino\|Riino]], [[Riina\|Riina]]
 
 ### Sao
 
@@ -729,7 +726,7 @@ This Aon was known at least as far away as the [[Rose Empire\|Rose Empire]].
 >“*Intelligence, Learning*”
 \-Ars Arcanum
 
-*Examples:* [[Saolin\|Saolin]], Sao Plantation
+*Examples:* [[Saolin\|Saolin]], Sao Plantation, [[Isadan Sao\|Isadan Sao]]
 
 ### Sea
 
@@ -768,7 +765,7 @@ This Aon was known at least as far away as the [[Rose Empire\|Rose Empire]].
 >“*Transform, Change*”
 \-Elantris Glossary
 
-Aon Shao can be used to create illusions that are tied to pieces of clothing. To do so however requires the extensive use of modifiers. Something changed by Aon Shao would stay permanent if taken to another [[Shardworld\|Shardworld]].
+Aon Shao can be used to create illusions that are tied to pieces of clothing. To do so however requires the extensive use of modifiers. Something changed by Aon Shao would stay permanently even if taken to another planet in the cosmere.
 *Examples:* [[Shaod\|Shaod]], [[Shaor\|Shaor]]
 
 ### Sheo
@@ -781,8 +778,6 @@ Aon Shao can be used to create illusions that are tied to pieces of clothing. To
 
 >“*Death*”
 \-Ars Arcanum
-
-*Examples:*
 
 ### Soi
 
@@ -804,9 +799,8 @@ Aon Shao can be used to create illusions that are tied to pieces of clothing. To
 
 
 
-
->“*Mathematics*”
-\-[23]
+ >“*Mathematics*”
+\-[25]
 
 ### Tae
 
@@ -869,8 +863,11 @@ Aon Tia can be used to transport an Elantrian from one point to another. With th
 *Examples:* [[Toa\|The City of Toa]]
 
 ## Trivia
-In addition to Aons, there is also an Aonic Alphabet, in which each letter is a single sound, that is used for sounds that can't be produced from Aons. Brandon never fully developed that alphabet, but it is similar to the Korean writing system .
+In addition to Aons, there is also an Aonic Alphabet, in which each letter is a single sound, that is used for sounds that can't be produced from Aons. The Aons themselves are older than this language, as shown by the fact that they're based on the land. The meaning of Aons in the language is inherent, their meanings are based on both their effects and how they look. Brandon never fully developed that alphabet, but it is similar to the Korean writing system .
 Aon Ela appears on the cover of the 10th Anniversary leather-bound edition of *Elantris*.
+In [[Tress of the Emerald Sea\|Tress of the Emerald Sea]], one of the paintings by [[Howard Lyon\|Howard Lyon]] shows [[Hoid\|Hoid]] casting Aon Edo, using Aon Daa as a modifier in order to block an Aon being cast by [[Riina\|Riina]]. [[Riina\|Riina]] is seen casting Aon Shao, which is about transformation and illusion magic. The use of these specific Aons is not stated in the text itself.
+There are most likely undiscovered Aons.
+Anything possible in the [[Cosmere\|Cosmere]] can be replicated using [[AonDor\|AonDor]], with the right Aons, though certain injections of [[Investiture\|Investiture]] may be required. 
 
 
 https://coppermind.net/wiki/Aon

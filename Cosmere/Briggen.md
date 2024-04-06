@@ -1,9 +1,8 @@
 |**Briggen**|
 |-|-|
 |by  Potato-sunrise |
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 

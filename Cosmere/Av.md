@@ -3,9 +3,9 @@
 |**Relatives**|[[Baxil\|Baxil]] |
 |**Profession**|Thief|
 |**Nationality**|[[Emuli\|Emuli]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Av** is an [[Emul\|Emuli]] thief on [[Roshar\|Roshar]] who is hired by [[Shalash\|Shalash]].
 

@@ -1,10 +1,9 @@
 |**Kae**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
-|**Nation**|[[Arelon\|Arelon]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Nation**|[[Arelon\|Arelon]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The city of **Kae** was one of the four gate cities of [[Elantris (city)\|Elantris]], and becomes the capital city of [[Arelon\|Arelon]] after the [[Reod\|Reod]]. The people of Kae try to ignore Elantris and its curse as much as they can, while Kae itself lies in the shadow of Elantris and seems like an insignificant village compared to it.
 

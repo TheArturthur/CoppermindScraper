@@ -3,9 +3,8 @@
 |**Died**|1140|
 |**Titles**|Crown prince|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlord **Yezriar** is a crown prince of one of the [[Alethi\|Alethi]] princedoms on [[Roshar\|Roshar]]. He was killed by [[Dalinar\|Dalinar]] early in [[Gavilar\|Gavilar's]] unification war.
 

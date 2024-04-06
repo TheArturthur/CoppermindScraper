@@ -2,9 +2,8 @@
 |-|-|
 |**Titles**|[[Stormwarden\|Stormwarden]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Matain** is an [[Alethi\|Alethi]] [[Stormwarden\|stormwarden]] on [[Roshar\|Roshar]] who serves under King [[Gavilar Kholin\|Gavilar Kholin]].
 

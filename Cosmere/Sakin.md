@@ -1,9 +1,8 @@
 |**Sakin**|
 |-|-|
 |**Nationality**|[[Natan\|Natan]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Sakin** is a resident of a small port on the eastern edge of [[Roshar\|Roshar]].
 Sakin's village is located within the former kingdom of [[Natanatan\|Natanatan]], and Sakin is presumably [[Natan\|Natan]] like the other townsfolk, including [[Puuli\|Puuli]].

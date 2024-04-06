@@ -3,12 +3,11 @@
 |**Family**|
 |**Children**|[[Parlin\|Parlin]]|
 |**Profession**|General|
-|**Religion**|[[Austrism\|Austrism]]🐱︎|
+|**Religion**|[[Austrism\|Austrism]]|
 |**Residence**|[[Bevalis\|Bevalis]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*War is coming, Your Majesty. I feel it in the winds and read it in the reports of our spies. Hallandren still considers us rebels, and our passes to the north are too tempting. They will attack.*”
 \-Yarda and King Dedelin discussing war[1]

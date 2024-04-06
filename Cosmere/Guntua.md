@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Pirate|
 |**Species**|[[Heklo\|Heklo]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Guntua** is a [[Heklo\|heklo]] pirate in the [[Belt\|belt]] of the [[Nowhere\|nowhere]], and is a pilot in the [[Broadsider Faction\|Broadsiders]].
 

@@ -2,9 +2,8 @@
 |-|-|
 |by  taratjah |
 |**Related to**|[[Herald\|Heralds]], [[Honor\|Honor]], [[Fused\|Fused]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 

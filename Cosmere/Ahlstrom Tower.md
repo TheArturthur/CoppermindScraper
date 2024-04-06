@@ -2,10 +2,9 @@
 |-|-|
 |**Owners**|[[Waxillium Ladrian\|Waxillium Ladrian]] (part-owner)|
 |**Usage**|Skyscraper|
-|**City**|[[Elendel\|Elendel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Will you be my bride? I want to be married to you. Right now, before the Survivor and that priest. Not because words on a paper say we have to, but because we want to. I'm painfully tired of being alone, Steris. It’s time I admitted that. And you... well, you’re incredible. You truly are.*”
 \-Waxillium's proposal to Steris in the Ahlstrom Tower[1]
@@ -30,7 +29,7 @@ Wax led Steris downstairs to the penthouse, where a [[Survivorism\|Survivorist]]
 After spending time staying in the penthouse, Wax considered relocating from Ladrian mansion to Ahlstrom Tower permanently, believing that skyscrapers were a symbol of a new and more vibrant era.
 
 ## Trivia
-Alstrom Tower is named after [[Peter Ahlstrom\|Peter Ahlstrom]], [[Brandon Sanderson\|Brandon Sanderson's]] assistant.
+Ahlstrom Tower is named after [[Peter Ahlstrom\|Peter Ahlstrom]], [[Brandon Sanderson\|Brandon Sanderson's]] former assistant and the current editorial director of [[Dragonsteel Entertainment\|Dragonsteel Entertainment]].
 
 
 https://coppermind.net/wiki/Ahlstrom_Tower

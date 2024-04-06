@@ -2,17 +2,17 @@
 |-|-|
 |by  Dragontrill |
 |**Family**|
+|**Spouse**|King's consort|
 |**Children**|[[Talik\|Talik]]|
 |**Abilities**|[[Order of Dustbringers\|Dustbringer]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
 |**Residence**|[[Relu-na\|Relu-na]]|
+|**Ethnicity**|[[Reshi\|Reshi]]|
 |**Nationality**|[[Reshi\|Reshi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-This page or section needs to be updated with new information for *Dawnshard*!Be aware that in its current state, it may not include all additional content yet.
+|**First Appeared**|*Words of Radiance*|
 
-**Ral-na** is the king of those who reside on [[Relu-na\|Relu-na]], an island on the Reshi sea. He is also a [[Dustbringer\|Dustbringer]] and is bonded to an [[Ashspren\|ashspren]].
+**Ral-na** is the king of the community that resides on [[Relu-na\|Relu-na]], a [[Greatshell\|greatshell]] island in the [[Reshi Sea\|Reshi Sea]] on [[Roshar\|Roshar]]. He is also a [[Dustbringer\|Dustbringer]] and is bonded to an [[Ashspren\|ashspren]].
 
 ## Contents
 
@@ -24,32 +24,52 @@ This page or section needs to be updated with new information for *Dawnshard*!B
 
 
 3 History
+
+3.1 Trade with Rysn
+3.2 Nahel Bond
+
+
 4 Relationships
-5 Notes
+
+4.1 Vstim
+4.2 Family
+
+
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
-Ral-na has dark eyes and gray hair. He prefers to wear large robes.
-Before transitioning, he appeared as an old woman. After transitioning, he is a short man with strong pectoral muscles. Designated female at birth, his bond with an ashspren allowed him to heal his body to match his true gender.
+Ral-na has dark eyes and graying hair. He prefers to wear voluminous, brightly colored robes. He is a transgender man, and his bond with an [[Ashspren\|ashspren]] allowed him to heal his body to match his true gender. Before transitioning, he looked like a middle-aged woman. After transitioning, he is a short man with strong pectoral muscles.
+He speaks the Reshi language, and is usually soft-spoken when outsiders are present. He seems to have a calm demeanor, but he can be forceful if needed.
 
 ## Attributes and Abilities
 ### Kingship
-Ral-na is the king of Relu-na, which is a [[Greatshell\|greatshell]] the size of an island. He resides at the top of the island, near the head of the greatshell.
-As the king, anyone who wants to join the island permanently has to give everything they own to him. He also negotiates trade deals for the people, but uses his son [[Talik\|Talik]] as an intermediary and an interpreter. He supervises the feeding of Relu-na, who is worshipped by his subjects.
+Ral-na is the king of Relu-na, a [[Tai-na\|Tai-na]] the size of an island that slowly moves about in the Reshi Sea. As the king, anyone who wants to join the island permanently has to give everything they own to him. His commands are to be obeyed without question, and he is directly served by various workers and guards. The island's soldiers are well-trained, in contrast to the carefree lifestyle enjoyed by many of the residents. He also negotiates trade deals for the people, but uses his son [[Talik\|Talik]] as an intermediary and an interpreter. Ral-na is well respected by his subjects; they have full respect for his authority. It is not known if Ral-na inherited the title of king or if the Reshi have some other method of succession.
+Ral-na holds court at the top of Relu-na's shell near its head, hundreds of feet above the water. He only leaves the island in truly extraordinary circumstances. The king supervises offerings of fruit to Relu-na, who is worshipped as a god by its residents. The Reshi people believe that they can communicate with their Tai-na, and each greatshell's will is the only authority that exceeds that of their kings. The Tai-na also provide the Reshi people with an unusually high level of knowledge regarding [[Aimia\|Aimia]] and [[Larkin\|larkin]].
 
 ### Surgebinding
-Ral-na has formed a [[Nahel bond\| Nahel Bond]] with an ashspren, which grants him the ability to [[Surgebind\|Surgebind]]. When he formed the bond, his body healed to match his gender identity.
-He is a member of the order of [[Dustbringers\|Dustbringers]]. As a result of that, he has the surges of [[Division\|Division]] and [[Abrasion\|Abrasion]].
+Ral-na has formed a [[Nahel bond\|Nahel bond]] with an unknown ashspren, which grants him the ability to [[Surgebind\|Surgebind]]. When he formed the bond, his body healed to match his gender identity. Although he is not known to have formally joined the [[Knights Radiant\|Knights Radiant]] organization, his powers are those of the [[Order of Dustbringers\|Order of Dustbringers]], with the ability to manipulate the [[Surge\|Surges]] of [[Division\|Division]] and [[Abrasion\|Abrasion]]. Members of this order are relatively rare among the refounded Radiants.
 
 ## History
-[[Rysn\|Rysn]] came with [[Vstim\|Vstim]] to negotiate a trade deal with people of Relu-na. Because of Vstim's sickness, Rysn was sent to negotiate with the king. Ral-na observed Rysn trying to negotiate the deal with Talik. He spoke only [[Reshi\|Reshi]] language and used Talik as an interpreter. He was impressed by the fierceness of the argument made by Rysn to Talik. He gave her a chance to present an argument to him for a trade, but ultimately told her that the trade could not continue. He informed Rysn that Vstim had gained his respect by slaying a coracot with some of his hunters. Since Rysn had not earned the same level of respect, he did not want to negotiate with her. When Rysn climbed down the feeding rope to appeal directly to Relu-na, Ral-na commanded her to return because of a concern for her safety.
-Ral-na bonded with an ashspren and took [[Knights Radiant\|Radiant]] oaths. As a result of taking those oaths, his body healed to match his gender identity. At first, his subjects believed it was a divine gift, but later concluded that it had something to do with his bond with his [[Spren\|spren]].
-Ral-na was part of a [[Reshi\|Reshi]] delegation to [[Urithiru\|Urithiru]] to negotiate with [[Dalinar\|Dalinar]]. One of the purposes of the journey was to find more about his radiant bond. [[Lopen\|Lopen]] advised his son Talik to talk to Dalinar, but nobody else about the Radiant bond.
+Ral-na recalled [[Vstim\|Vstim]] visiting Relu-na in his youth. In order to earn the people's respect so that they would trade with him, he slayed a [[Coracot\|coracot]], an incredible feat for a foreigner. Vstim later served as Talik's [[Babsk\|babsk]] when Ral-na and his partner sent the young Reshi to train in [[Thaylenah\|Thaylenah]].
+
+### Trade with Rysn
+Circa 1173, Vstim brought [[Rysn\|Rysn]] to Relu-na to negotiate a trade deal. At the time, Ral-na had not physically transitioned; his use of "king" as his title confused Rysn even though Talik told her it was perfectly normal. Rysn was unaware of Vstim's prior history with Ral-na and Talik; the trade deal was a setup intended to help teach Rysn how to negotiate on her own. Vstim feigned sickness and Talik was in on the ruse; Ral-na was presumably aware of their plan since the real trade was never in jeopardy. During the negotiations, Ral-na observed Rysn closely while Talik served as an intermediary. Ral-na was impressed by the fierceness of Rysn's arguments and gave her a chance to speak to him directly, which was itself an honor, but ultimately told her that the trade could not continue since Rysn had not earned the same level of respect as Vstim. However, Rysn refused to give up and unexpectedly climbed down a feeding rope to appeal directly to Relu-na. Ral-na seemed impressed, but quickly became concerned for Rysn's safety and commanded her to return. However, the rope broke and Rysn plummeted towards the water; she shattered her legs, but her life was spared by Relu-na and she was gifted [[Chiri-Chiri\|Chiri-Chiri]].
+
+### Nahel Bond
+At some point after Rysn recovered and departed with Vstim, Ral-na bonded with an [[Ashspren\|ashspren]] by saying the [[Immortal Words\|First Ideal]]. After taking this oath, his body healed to match his gender identity. At first, his subjects believed it was a divine gift, but later concluded that it had something to do with the [[Spren\|spren]] bond.
+Approximately two years after Rysn's visit, Ral-na was part of a Reshi delegation to [[Urithiru\|Urithiru]] to meet with [[Dalinar Kholin\|Dalinar Kholin]]. One of the purposes of the journey was to find more about his spren bond and the Knights Radiant. Talik was also part of the delegation, but he left the group at [[Azimir\|Azimir]] so he could meet with Rysn in [[Thaylen City\|Thaylen City]]. [[Lopen\|Lopen]] met with Talik and advised him that Ral-na should only speak to Dalinar about his powers.
 
 ## Relationships
-Ral-na is well respected by his subjects. They used the correct gender for him even before his transition.
-Raln-na had a consort, called king's consort by his subjects. He is one of [[Talik\|Talik's]] parents. He often asks Talik to negotiate deals in his place. Talik also acts as his interpreter when speaking to a foreigner.
+### Vstim
+Ral-na considers Vstim wise and trustworthy. Vstim has a long history of trading on Relu-na, and trained Talik well. Ral-na has a very high level of respect for Vstim and is personally fond of him.
 
+### Family
+Ral-na has a partner known as the king's consort, who is also one of Talik's parents. The king's consort may perform certain duties of the king, especially if the king is absent. Talik regularly serves as Ral-na's interpreter. Talik seems to be comfortable with Ral-na's gender identity; he used the title of king without hesitation before Ral-na transitioned and became annoyed when Rysn questioned it, stating that "gender is irrelevant". He later mentions that Ral-na's physical transition was considered a positive development.
+
+## Trivia
+Brandon has noted that Ral-na's transition helps represent the fact that there would be many transgender Knights Radiant due to the self-discovery that occurs while progressing in the Radiant oaths; during the [[Heraldic Epochs\|Heraldic Epochs]], they would have had a progressive view of gender identity compared to the rest of society.
 
 
 https://coppermind.net/wiki/Ral-na

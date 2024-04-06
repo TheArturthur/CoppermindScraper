@@ -1,12 +1,11 @@
 |**Brightvision**|
 |-|-|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|Brightvision the True|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Brightvision** is a [[Returned\|Returned]] in [[Hallandren\|Hallandren]] prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
 She is known as **Brightvision the True**, her colors are copper and aqua, and [[Bebid\|Bebid]] is one of her priests.

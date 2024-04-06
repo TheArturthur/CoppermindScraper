@@ -1,12 +1,11 @@
 |**Mirthgiver**|
 |-|-|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|God of Laughter|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Mirthgiver** is a [[Returned\|Returned]] from [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around the year 327.
 Mirthgiver was known as the god of laughter. In a conversation with [[Siri\|Siri]], [[Lightsong\|Lightsong]] flippantly described Mirthgiver as poorly suited to the position since he is "dull as a rock and twice as ugly".

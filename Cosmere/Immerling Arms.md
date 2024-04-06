@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Products**|Firearms|
 |**City**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Immerling makes a Coinshot from a Common Man!*”
 \-The Elendel Daily[1]

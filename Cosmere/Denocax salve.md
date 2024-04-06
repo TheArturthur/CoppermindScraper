@@ -1,9 +1,8 @@
 |**Denocax salve**|
 |-|-|
 |**Type**|Drug|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Denocax salve** is an ointment used by surgeons on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 Denocax salve can be used to encourage skin growth on wounds, such as skin that has been stripped away by prolonged exposure to a [[Highstorm\|highstorm]].

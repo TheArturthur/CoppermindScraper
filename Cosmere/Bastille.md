@@ -7,8 +7,9 @@
 |**Siblings**|[[Angola Dartmoor\|Angola]], [[Rikers Dartmoor\|Rikers]]|
 |**Abilities**|[[Crystin\|Crystin]] Knight, princess of [[Nalhalla\|Nalhalla]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Someone gave me a pink dress once. I burned it.*”
 \-Bastille[2]
@@ -25,8 +26,15 @@
 3.1 Foray into the Hushlands
 
 
-4 Trivia
-5 Notes
+4 Relationships
+
+4.1 Alcatraz Smedry
+4.2 Draulin
+4.3 Archedis
+
+
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
@@ -39,7 +47,7 @@ Bastille is short-tempered and rather prone to violence. She tends to act as the
 As a Knight of Crystallia, Bastille has a [[Fleshstone\|fleshstone]] which grants her enhanced physical abilities and connects her to the other Crystin. She is trained to fight with a sword and dagger. She can use Warrior's Lenses, and has extensive knowledge of [[Oculator\|Oculatory]] Lenses.
 
 ## History
-When she was young, Bastille wanted to be an [[Oculator\|Oculator]] and studied different types of Lenses. She eventually accepted that she could not be an Oculator and began training to be a Crystin like her mother. She excelled in her training and completed it a at young age. In a move maneuvered by [[Archedis\|Archedis]], she was assigned as [[Leavenworth Smedry\|Leavenworth Smedry]]’s personal Knight, because Archedis wanted a greater chance of Grandpa Smedry dying.
+When she was young, Bastille wanted to be an [[Oculator\|Oculator]] and studied different types of Lenses. She eventually accepted that she could not be an Oculator and began training to be a Crystin like her mother. She excelled in her training and completed it at a young age. In a move maneuvered by [[Archedis\|Archedis]], she was assigned as [[Leavenworth Smedry\|Leavenworth Smedry]]’s personal Knight, because Archedis wanted a greater chance of Grandpa Smedry dying.
 
 ### Foray into the Hushlands
 >“*Another Smedry? I have to protect four of you now?*”
@@ -52,6 +60,28 @@ When Grandpa Smedry rescued Alcatraz and planned a raid on the local library, Ba
 \-Bastille annoyed with herself after getting captured[12]
 
 They were thrown into a dungeon, and Grandpa Smedry and Quentin were captured to be tortured. Bastille was angry with herself, accepting the blame for being captured. After Alcatraz made his prison guard angry to try and trick him, Bastille grabbed the guard and knocked him out, then freed them. On their way to free Grandpa Smedry and Quentin, they fought an Alivened, Bastille fighting one bravely. In the battle, Alcatraz broke her Crystin sword with his Talent. Bastille and the others distracted Blackburn and freed Grandpa and Quentin. Blackburn followed them, and dueled with Grandpa Smedry. When Blackburn won, Librarian thugs took Bastille captive, though she fought valiantly against them using only a crystal dagger. When Alcatraz tricked Blackburn and blinded him, the thugs holding Bastille captive fled, and Bastille resisted the urge to chase them down. They subsequently caused more chaos and Bastille escaped the library with the others.
+
+## Relationships
+>“*I'll have you know that I'm quite good at hugging, despite what you might think. A hug is just a type of grappling move where you don't try to leave the other person dead.*”
+\-Bastille[16]
+
+
+### Alcatraz Smedry
+Bastille initially envied [[Alcatraz\|Alcatraz]] for his Oculator powers, was exasperated by his Smedry nature, and disparaged his lack of knowledge of Free Kingdoms culture and technology. However, as they adventured together, they developed a friendship and then a mutual crush, which Bastille admitted to during the battle for Mokia. She expressed her affection for him largely the same way she had expressed her jealousy: physical and verbal violence.
+As the narrator of *Bastille versus the Evil Librarians*, she repeatedly denies being romantically affected by Alcatraz's smile and physical closeness (at that time), but she admits to concern for his well-being.
+By the time Alcatraz writes *The Dark Talent*, they are married.
+
+### Draulin
+>“*I so wanted her to follow her father’s path, not mine. The life of a knight is a lonely one.*”
+\-Draulin, observing Bastille unconscious[19]
+
+
+Bastille shares her intensity, knighthood, and physical prowess with her mother, [[Draulin\|Draulin]]. Both are willing to go to great lengths to save and protect each other, and both are utterly devoted to their knightly oaths to protect the Smedry clan and other Free Kingdom royalty.
+However, Bastille rarely feels that her mother approves of her actions. Draulin is harsh by nature, and she does not give compliments lightly.
+
+### Archedis
+Bastille was inspired to join the Knights of Crystallia by a skilled and charismatic knight named Archedis. Her adoration for him helped revive her after being disconnected from the Crystin Mind Stone, inspiring jealousy from Alcatraz.
+Archedis voted to promote Bastille to a full Knight in order to use her in a plot to get [[Leavenworth Smedry\|Leavenworth Smedry]] killed, but this plot fails. He underestimated Bastille again when he revealed he was a traitor, while all the other Knights were stunned: she defeated him in a duel, her tenacity outmatching his skill.
 
 ## Trivia
 Her name is a reference to the  fortress in France being used as a prison.

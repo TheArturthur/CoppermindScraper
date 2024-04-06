@@ -2,9 +2,8 @@
 |-|-|
 |**World**|The [[Nowhere\|nowhere]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Surehold** is a [[Superiority\|Superiority]] base in the [[Belt\|belt]] of the [[Nowhere\|nowhere]]. Surehold is built on a very large and thick fragment, which is covered in hills and rocky crags. There are four separate acclivity stone quarries, each equipped with a variety of modern machines. The center of the base has roughly a dozen buildings, and is about as big as the entire [[DDF\|DDF]] headquarters. The base is equipped with large antiaircraft guns. The base is home to an earth portal, which is one of the steps on the [[Path of Elders\|Path of Elders]]. Most of the people who work there are forced to by the Superiority, who holds several of their families to ensure cooperation.
 

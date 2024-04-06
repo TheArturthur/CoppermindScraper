@@ -6,12 +6,12 @@
 |**Power**|Steal all abilities|
 |**Metal type**|[[God Metal\|God Metal]] ([[Preservation\|Preservation]])|
 |**Properties**|Alter [[Spiritweb\|Spiritual DNA]]|
-|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*Mistborn (series)*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **Lerasium** is a [[God Metal\|God Metal]]. A normal person burning lerasium becomes a [[Allomancy\|Mistborn]] of undiluted power. A Misting or Mistborn burning lerasium drastically increases their powers. [[Feruchemist\|Feruchemists]] can use lerasium to store an unknown quality, and when used as a [[Hemalurgic\|Hemalurgic]] spike, lerasium steals all abilities.
-Lerasium is notable as it is the condensed power of the [[Shard\|Shard]] [[Preservation\|Preservation]]. The only known source were beads found at the Well of Ascension. Presumably, the name "lerasium" is inherited from [[Leras\|Leras]], the name of the original holder of the Shard Preservation, just as the name [[Atium\|atium]] is inherited from [[Ati\|Ati]], the original holder of the Shard [[Ruin\|Ruin]]. Lerasium cannot be combined with atium to make [[Harmonium\|harmonium]], nor can harmonium be broken down into lerasium and atium. While it would not be possible to get lerasium and atium from harmonium through distillation or other mundane methods, through some supernatural means it may be achievable.
+Lerasium is notable as it is the condensed power of the [[Shard\|Shard]] [[Preservation\|Preservation]]. The only known source were beads found at the Well of Ascension. Presumably, the name "lerasium" is inherited from [[Leras\|Leras]], the name of the original holder of the Shard Preservation, just as the name [[Atium\|atium]] is inherited from [[Ati\|Ati]], the original holder of the Shard [[Ruin\|Ruin]]. Lerasium cannot be combined with atium to make [[Harmonium\|harmonium]], nor can harmonium be broken down into lerasium and atium by normal, mechanical means. However, lerasium and atium can be divided from harmonium through supernatural methods.
 
 ## Contents
 
@@ -41,8 +41,9 @@ Lerasium, when used by a Feruchemist, has unknown properties.
 When used as a Hemalurgic spike, lerasium steals all abilities, such as strength, senses, or mental acuity. This wastes most of its potential.
 
 ## History
-Lerasium was created by Leras. Rashek collected the beads, after taking the power of Preservation at the [[Well of Ascension\|Well of Ascension]], and used them to entice foreign kings to become his allies. He left two beads near the Well, for reasons unknown.
-However, neither of these beads were used prior to the fall of the Final Empire. One bead was fed to Elend to save his life after being attacked by [[Leras\|Leras]], whose hand was directed by [[Kelsier\|Kelsier]], in an attempt to prevent [[Vin\|Vin]] from releasing Ruin from the Well. The other was stolen and consumed by [[Hoid\|Hoid]], after he used the Well to transition from the Cognitive Realm to the Physical.
+Lerasium was created by Leras. [[Rashek\|Rashek]] collected the beads, after taking the power of Preservation at the [[Well of Ascension\|Well of Ascension]], and used them to entice foreign kings to become his allies. He left two beads near the Well, for reasons unknown.
+However, neither of these beads were used prior to the fall of the Final Empire. One bead was fed to [[Elend\|Elend]] to save his life after being attacked by Leras, whose hand was directed by [[Kelsier\|Kelsier]], in an attempt to prevent Vin from releasing Ruin from the Well. The other was stolen and consumed by [[Hoid\|Hoid]], after he used the Well to transition from the Cognitive Realm to the Physical.
+[[Waxillium Ladrian\|Wax]] was later able to split ettmetal using [[Trellium\|trellium]] to create more lerasium, which was later used by Wax and [[Wayne\|Wayne]], creating the first known Mistborns since the [[Spook\|Lord Mistborn]] right after the [[Catacendre\|Catacendre]]. [[Kelsier\|Kelsier]] wishes to use it to create an army of Mistborn to fight against the armies of [[Autonomy\|Autonomy]], though Harmony rejects these plans.
 
 ## Trivia
 If [[Harmony\|Harmony]] wanted to, he could produce more lerasium.

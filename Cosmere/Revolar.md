@@ -1,9 +1,8 @@
 |**Revolar**|
 |-|-|
-|**Princedom**|[[Vamah princedom\|Vamah princedom]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Princedom**|[[Vamah princedom\|Vamah princedom]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Revolar** is a city in [[Vamah princedom\|Vamah princedom]] and one of the larger cities in the region. It is located close to a tributary of the [[Windrunner River\|Windrunner River]] which forms the eastern border between Vamah princedom and [[Ruthar princedom\|Ruthar princedom]]. Revolar is no more than a few weeks away from [[Hearthstone\|Hearthstone]] by foot.
 

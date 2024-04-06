@@ -5,9 +5,8 @@
 |**Parents**|[[Ral-na\|Ral-na]]|
 |**Residence**|[[Relu-na\|Relu-na]]|
 |**Nationality**|[[Reshi\|Reshi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Talik** is a [[Reshi\|Reshi]] trademaster who lives on [[Relu-na\|Relu-na]]. He is the son of the king of the island, [[Ral-na\|Ral-na]].
 

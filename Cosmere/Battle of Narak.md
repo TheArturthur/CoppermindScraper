@@ -5,11 +5,10 @@
 |**Date**|Ishishach 1173|
 |**Participants**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan Davar]], [[Bridge Four\|Bridge Four]], [[Eshonai\|Eshonai]], [[Aladar\|Aladar]], [[Roion\|Roion]]|
 |**Effects**|[[Everstorm\|Everstorm]] unleashed, path to [[Urithiru\|Urithiru]] discovered.|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
 |**Location**|[[Narak\|Narak]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Words of Radiance*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -32,7 +31,7 @@ The Alethi then attacked Narak. The Parshendi were spread out on three different
 ## The Battle
  by Христо Чуков (Hristo Chukov) [[Kaladin\|Kaladin]] and [[Szeth\|Szeth]] fighting in the [[Everstorm\|Everstorm]]
 The battle was tough for the Alethi, since the Parshendi Stormform made them more powerful, and allowed them to blast red lightning at their foes. After receiving advice from Rlain, Dalinar commanded the Alethi troops to kill the groups of singers in the Parshendi rear to prevent them from finishing their song. Adolin, despite having lost his mount [[Sureblood\|Sureblood]], managed to defeat a group of singers by ambushing them from behind. He was then engaged in a duel with Eshonai, which ended with them both falling down a chasm. Adolin was caught by the bridgemen [[Skar\|Skar]] and [[Drehy\|Drehy]], while Eshonai disappeared and later drowned. On Roion's plateau, however, the Parshendi gained the upper hand and managed to kill [[Teleb\|Teleb]], one of the Kholin [[Shardbearer\|Shardbearers]].
-Shallan suspected that a perfectly round plateau, which did not fit into the pattern of the [[Shattered Plains\|Shattered Plains]] was where the Oathgate was located. Together with Prince [[Renarin Kholin\|Renarin Kholin]], and a team of soldiers and scholars, Shallan went to the plateau and discoverd the Oathgate. After struggling to activate it, she discovered that it operated like a [[Fabrial\|fabrial]] and that a living [[Shardblade\|Shardblade]] was required operate the gate.
+Shallan suspected that a perfectly round plateau, which did not fit into the pattern of the [[Shattered Plains\|Shattered Plains]] was where the Oathgate was located. Together with Prince [[Renarin Kholin\|Renarin Kholin]], and a team of soldiers and scholars, Shallan went to the plateau and discoverd the Oathgate. After struggling to activate it, she discovered that it operated like a [[Fabrial\|fabrial]] and that a living [[Shardblade\|Shardblade]] was required to operate the gate.
 As the battle continued, Adolin encountered [[Szeth\|Szeth]], who was secretly sent by [[Taravangian\|Taravangian]] to kill Dalinar. Adolin engaged him in a fight. Meanwhile, Roion's forces were losing, and Aladar managed to defeat the Parshendi on his plateau. The victory came too late, however, as the singing Parshendi managed to summon the [[Everstorm\|Everstorm]]. The [[Stormfather\|Stormfather]] decided to summon an unexpected Highstorm; the two storms approached from different directions, set to collide above Narak.
 Szeth and Adolin arrived at Dalinar's position as Szeth defeated Adolin. He then attacked Dalinar, who managed to temporarily hold him off before getting help from Roion and a group of soldiers. Szeth took them down and killed Roion, before being attacked by Dalinar, Adolin, and a force of bridgemen. Despite the numbers, Szeth managed to lash Dalinar to the sky, which was supposed to kill him after the stormlight faded and he fell back to the ground. However, [[Kaladin\|Kaladin]] arrived and saved Dalinar before taking on Szeth. Dalinar then led the retreat of the Alethi toward the Oathgate. The armies managed to escape before the storms clashed. Kaladin and Szeth used [[Surgebinding\|Surgebinding]] to fight above the storms. Eventually, Kaladin defeated Szeth, and recovered his [[Honorblade\|Honorblade]].
 

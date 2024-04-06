@@ -1,11 +1,10 @@
 |**Armedius Academy**|
 |-|-|
-|**Usage**|Academy of [[Rithmatics\|Rithmatics]]🐱︎|
-|**City**|[[Jamestown\|Jamestown]]🐱︎|
-|**State**|[[New Britannia\|New Britannia]]🐱︎|
-|**Nation**|[[United Isles of America\|United Isles of America]]🐱︎|
+|**Usage**|Academy of [[Rithmatics\|Rithmatics]]|
+|**City**|[[Jamestown\|Jamestown]]|
+|**State**|[[New Britannia\|New Britannia]]|
+|**Nation**|[[United Isles of America\|United Isles of America]]|
 |**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
 
 **Armedius Academy** is a school located in [[Jamestown\|Jamestown]] on the isle of [[New Britannia\|New Britannia]], one of the easternmost of the [[United Isles of America\|United Isles of America]]. It is one of eight schools that teaches Rithmatics.
 Graduating from Armedius is considered a great accomplishment by the people of the United Isles, one that goes beyond rote learning. It produces about twenty Rithmatic Graduates every year. 

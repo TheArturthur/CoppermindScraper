@@ -7,15 +7,14 @@
 |**Abilities**|Seeker|
 |**Birthplace**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]/[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*She killed my baby sister, slaughtered her. And that same day she gave me this, one of her own earrings. As if…as if choosing me over my sister. A punishment for one, a twisted present for another.*”
 \-Vin telling Elend about her sister's death[4]
 
 
-**Vin's sister** is a [[Bronze\|Seeker]] who was killed during infancy. Her powers were stolen via [[Hemalurgy\|Hemalurgy]] and given, unknowingly, to her sister, [[Vin\|Vin]]. She is the daughter of a [[Vin's mother\|skaa woman]] and [[Tevidian Tekiel\|Tevidian Tekiel]], the full sister of Vin, and the half sister of [[Reen\|Reen]].
+**Vin's sister** is a [[Bronze\|bronze]] [[Misting\|Misting]] (aka a [[Seeker\|Seeker]]) who was killed during infancy. Her powers were stolen via [[Hemalurgy\|Hemalurgy]] and given, unknowingly, to her sister, [[Vin\|Vin]]. She is the daughter of a [[Vin's mother\|skaa woman]] and [[Tevidian Tekiel\|Tevidian Tekiel]], the full sister of Vin, and the half sister of [[Reen\|Reen]].
 
 ## Contents
 
@@ -31,7 +30,7 @@ This article's title is uncanonical and a fan created one, because an official t
 
 
 ## Attributes and Abilities
-Vin's sister is a [[Misting\|Misting]] who Snapped while very young, sometime between her birth and when she died during infancy. She is a powerful [[Allomancer\|Allomancer]] due to her parentage, and it is possible she may have Snapped during birth, like her sister Vin. She is a [[Bronze\|Seeker]] and has access to bronze Allomancy, thus having the power to detect uses of kinetic [[Investiture\|Investiture]], including other uses of Allomancy. Her powers are given to her sister Vin via Hemalurgic spike, which grants Vin exceptionally powerful Seeker abilities, allowing her to pierce copperclouds and detect investiture that is being used from within.
+Vin's sister is a [[Misting\|Misting]] who Snapped while very young, sometime between her birth and when she died during infancy. She is a powerful [[Allomancer\|Allomancer]] due to her parentage, and it is possible she may have Snapped during birth, like her sister. She is a [[Bronze\|Seeker]] and has access to bronze Allomancy, thus having the power to detect uses of kinetic [[Investiture\|Investiture]], including other uses of Allomancy. Her powers are given to her sister Vin via Hemalurgic spike, which grants Vin exceptionally powerful Seeker abilities, allowing her to pierce copperclouds and detect Investiture that is being used from within.
 
 ## History
 Vin's sister died in infancy at the hands of her mother. [[Ruin\|Ruin]], wanting to strategically place a pawn he could use to release himself from the [[Well of Ascension\|Well of Ascension]], focused on the sisters as they presented a unique situation which he could use to his advantage. Capitalizing on their mother's , he engineered the death of Vin's sister in order for Vin to have the power necessary to find and release him from his prison.

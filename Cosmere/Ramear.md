@@ -1,9 +1,8 @@
 |**Ramear**|
 |-|-|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*Enough wordplay, priest. I want promises. Are you saying that if we convert to Derethi, you will grant us greater holdings?*”
 \-Ramear to Hrathen[1]

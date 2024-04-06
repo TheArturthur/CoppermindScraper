@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Soldier|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 For the Sebarial officer in Urithiru, see [[Vedekar Perel\|Vedekar Perel]].
 **Perel** is a field commander on [[Roshar\|Roshar]].
 

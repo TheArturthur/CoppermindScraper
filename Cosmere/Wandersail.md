@@ -5,9 +5,8 @@
 |by  Ryland Malcolm |
 |**Type**|Ship|
 |**Captain**|[[Derethil\|Derethil]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the Thaylen merchant vessel, see [[Wandersail (1174 ship)\|Wandersail (1174 ship)]].
 The *Wandersail* is a legendary ship on [[Roshar\|Roshar]].

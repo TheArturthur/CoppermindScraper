@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Vedenar\|Vedenar]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Mem** is a washwoman in the employ of [[Mraize\|Mraize]].
 

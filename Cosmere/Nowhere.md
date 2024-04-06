@@ -2,9 +2,8 @@
 |-|-|
 |by  Isaac Stewart |
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic* and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Our ancestors were frightened of what lived in the nowhere.*”
 \-Spensa[1]
@@ -34,6 +33,7 @@ Little is known of the appearance or geography of nowhere. It's pitch black, wit
 Interacting with the nowhere leaves cytonics with a sense of cold and a strong headache for hours afterwards. Both of those effects seem to lessen as a person's skill with cytonics grows.
 
 ## Access and Exploitation
+ by  EccoS  [[Spensa\|Spensa]], [[Chet\|Chet]] and [[M-Bot\|M-Bot]] in the Nowhere
 The nowhere can be accessed by any [[Cytonics\|cytonic]] by focusing and meditating. Getting close to or inside the nowhere is crucial to most, if not all of their abilities. Chief among them is FTL travel, which requires the cytonic to enter and exit the nowhere completely. They can do so by themselves, but they can also take with them passengers and objects. The latter seems to require mechanical aid in the form of a **cytonic hyperdrive**.
 Machines can likewise utilize the nowhere. The timeless nature of it allows for signals to be sent through it at faster-than-light speed, which artificial intelligences such as [[M-Bot\|M-Bot]] use to facilitate the high-speed processing necessary for them to function. Regular machines also use this to communicate across star systems, both to send messages between people on various worlds, and to control drones from a safe distance without the light-speed lag.
 
@@ -50,4 +50,4 @@ There are also the **nowalks**, which likewise seem to somehow connect physical 
 *Nowhere* was the working title for the third book in the [[Skyward (series)\|Skyward series]]; however, as Brandon's publisher disliked it, it was changed to *Cytonic*.
 
 
-https://coppermind.net/wiki/Nowhere
+https://coppermind.net/wiki/Belt

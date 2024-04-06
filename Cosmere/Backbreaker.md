@@ -1,8 +1,7 @@
 |**Backbreaker**|
 |-|-|
 |**Powers**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Firefight*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 For the poison on [[Roshar\|Roshar]], see [[Backbreaker powder\|Backbreaker powder]].
 **Backbreaker** is a powerful and feared [[Epic\|Epic]].

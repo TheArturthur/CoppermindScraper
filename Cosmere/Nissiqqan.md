@@ -3,9 +3,8 @@
 |**Profession**|Scribe|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
 |**Nationality**|[[Tashikki\|Tashikki]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Nissiqqan** is a scribe in the city of [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] on [[Roshar\|Roshar]]. He is the deputy scribe of immigration on duty at [[Hauka\|Hauka's]] post on the day that [[Lift\|Lift]] arrives at the city.
 

@@ -1,9 +1,8 @@
 |**Nanhel Eltorv**|
 |-|-|
 |**Profession**|Sailor|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Nanhel Eltorv** is a sailor on [[Roshar\|Roshar]] and a member of Captain [[Tozbek\|Tozbek's]] crew on the *Wind's Pleasure*.
 

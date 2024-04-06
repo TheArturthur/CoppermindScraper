@@ -1,14 +1,13 @@
 |**Vwafendal**|
 |-|-|
 |**Family**|
-|**Descendants**|[[Waxillium\|Waxillium]], [[Telsin\|Telsin]]|
+|**Descendants**|[[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Titles**|Elder|
 |**Profession**|[[Synod\|Synod]] Elder|
 |**Residence**|[[The Village\|The Village]]|
 |**Ethnicity**|[[Terris\|Terris]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Vwafendal** is a [[Terris\|Terriswoman]] who lives in [[The Village\|The Village]] in [[Elendel\|Elendel]] in post-[[Catacendre\|Catacendre]] [[Scadrial\|Scadrial]]. She serves as an Elder of the [[Synod\|Synod]]. She is also the maternal grandmother of [[Waxillium Ladrian\|Waxillium]] and [[Telsin Ladrian\|Telsin Ladrian]].
 

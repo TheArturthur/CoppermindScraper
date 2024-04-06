@@ -2,10 +2,9 @@
 |-|-|
 |**Died**|Ishi 1172|
 |**Profession**|Member of Kaladin's squad in Amaram's army|
-|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Take it. It's yours. Stormfather, Kaladin. You're a Shardbearer!*”
 \- Coreb urging Kaladin to take the Shardblade[1]

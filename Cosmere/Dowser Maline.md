@@ -3,9 +3,8 @@
 |**Died**|342 [[Catacendre\|PC]], [[Winsting Innate's auction\|Winsting Innate's auction]]|
 |**Profession**|Smuggler|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows of Self*|
 
 For the device in the [[Reckoners\|Reckoners]] series used to detect [[Epic\|Epics]], see [[Dowser\|dowser]].
 **Dowser Maline** is a criminal in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].

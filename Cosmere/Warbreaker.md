@@ -6,7 +6,7 @@
 |**Publisher**||
 |**ISBN**|0-7653-2030-4|
 |**Page Count**|592|
-|**Word Count**|196,014|
+|**Word Count**|[[Warbreaker/Statistical analysis\|196,014]]|
 
 For Warbreaker the character, see [[Vasher\| Warbreaker]].
 *Warbreaker* is a [[Cosmere\|cosmere]] novel by [[Brandon Sanderson\|Brandon Sanderson]], which is available for purchase in bookstores or for free download from his website.
@@ -14,7 +14,7 @@ For Warbreaker the character, see [[Vasher\| Warbreaker]].
 ## Contents
 
 1 Summary
-2 Characters
+2 Main Characters
 3 Setting
 
 3.1 Magic System
@@ -22,11 +22,11 @@ For Warbreaker the character, see [[Vasher\| Warbreaker]].
 
 4 Development
 5 Publication History
-6 Awards
-7 Trivia
-8 Cover Gallery
-9 Interior Art
-10 Statistics
+6 Cover Gallery
+7 Interior Art
+8 Trivia
+9 Awards
+10 Statistical Analysis
 11 Notes
 
 
@@ -34,16 +34,16 @@ For Warbreaker the character, see [[Vasher\| Warbreaker]].
 For a complete chapter by chapter summary, see [[Warbreaker/Summary\|/Summary]].
 Warbreaker tells the story of two sister princesses, [[Vivenna\|Vivenna]] and [[Siri\|Siri]], of the country [[Idris\|Idris]]. Vivenna has been raised her entire life to marry the [[Susebron\|God King]] of the rival nation of [[Hallandren\|Hallandren]], in the hopes that this marriage will forestall Hallandren's invasion of Idris, which they have been threatening for years. For reasons of political expediency, as well as the personal preferences of the King of Idris, Siri is sent, unprepared, in Vivenna's stead. Vivenna, feeling her life to be devoid of purpose after Siri is sent in her place, follows her to Hallandren in hopes of rescuing her. Both Siri and Vivenna then become involved in intrigues intended to cause war between their home nation of Idris and Hallandren, and attempt to prevent the war from happening separately: Siri from within the government and Vivenna by cooperation with the underground.
 At the same time, the novel tells the story of one of the [[Returned\|Returned]] members of the royal court, [[Lightsong\|Lightsong]], and his search for the truth behind the Hallandren religion, as well as that of his own identity. The fourth story that the book follows is that of [[Vasher\|Vasher]], a mysterious character with a talking sword named [[Nightblood\|Nightblood]] and an impressive mastery of [[BioChromatic Breath\|BioChromatic Breaths]].
-The book is set in the [[Cosmere\|cosmere]] on the [[Shardworld\|Shardworld]] of [[Nalthis\|Nalthis]], home to the [[Shard\|Shard]] [[Endowment\|Endowment]]. It is told from Vasher's, Siri's, Vivenna's, and Lightsong's points of view.
+The book is set in the [[Cosmere\|cosmere]] on the planet of [[Nalthis\|Nalthis]], home to the [[Shard\|Shard]] [[Endowment\|Endowment]]. It is told from Vasher's, Siri's, Vivenna's, and Lightsong's points of view.
 
-## Characters
+## Main Characters
 For a full list of characters, see :Category: Nalthians.
 
 
 
 
 ## Setting
-Warbreaker is set in the [[Cosmere\|cosmere]] on the [[Shardworld\|Shardworld]] of [[Nalthis\|Nalthis]].
+Warbreaker is set in the [[Cosmere\|cosmere]] on the planet of [[Nalthis\|Nalthis]].
 
 ### Magic System
 For more information, see [[BioChromatic Breath\|BioChromatic Breath]].
@@ -60,6 +60,7 @@ It is important to note that all use or transfer of Breath is considered heresy 
 ## Publication History
 Rights:
 
+
 United States rights to Tor
 Audio rights (unabridged) to Recorded Books
 Audio rights (dramatic abridgment) to Graphic Audio
@@ -71,9 +72,18 @@ Polish rights to MAG
 Spanish rights to Ediciones B
 UK rights to Gollancz
 French rights to Calmann-Levy
-Bulgarian rights to Bard
+Bulgarian rights to Studio of A
 Iranian rights to Houpaa
+
+## Cover Gallery
+For a cover gallery of Warbreaker, see [[Warbreaker/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[Warbreaker/Interior art\|/Interior art]].
+## Trivia
+Warbreaker was inspired by [[Dadradah\|Dadradah]], one of the religions that [[Sazed\|Sazed]] preached about, which focused on worshipping art.
+Brandon's editor told him that his next story after Elantris and Mistborn had to have some color to it, since those stories were both dark, so he replied that he would then write about a color based magic system.
 ## Awards
+
 Chosen by Library Journal as one of the 5 best SF&F novels of 2009
 Chosen by Barnes & Noble as one of the 5 best SF&F novels of 2009
 Chosen by The Onion A.V. Club as a Best of 2009
@@ -81,14 +91,8 @@ Nominated for the 2010 David Gemmell Legend Award
 Nominated for 2009 Romantic Times Award, Best Epic Fantasy
 An ALA Top Five Fantasy of 2009
 24 on NY Times hardcover list
-## Trivia
-Warbreaker was inspired by [[Dadradah\|Dadradah]], one of the religions that [[Sazed\|Sazed]] preached about, which focused on worshipping art.
-Brandon's editor told him that his next story after Elantris and Mistborn had to have some color to it, since those stories were both dark, so he replied that he would then write about a color based magic system.
-## Cover Gallery
-For a cover gallery of Warbreaker, see [[Warbreaker/Covers\|/Covers]].
-## Interior Art
-For a gallery of the book's interior art, see [[Warbreaker/Interior art\|/Interior art]].
-## Statistics
+
+## Statistical Analysis
 For a full statistical analysis, see [[Warbreaker/Statistical analysis\|/Statistical analysis]].
 *Warbreaker* consists of one prologue, fifty-eight chapters, and one epilogue, reaching a total 196,014 word count. There are six different unique point-of-view characters in a total of 110 POVs.
 

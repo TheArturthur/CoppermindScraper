@@ -8,14 +8,16 @@
 |**Released**|August 21, 2007|
 |**Publisher**||
 |**ISBN**|978-0-7653-1688-2|
+|**Page Count**|590|
+|**Word Count**|[[The Well of Ascension/Statistical analysis\|244,371]]|
 |**Annotations**||
 "The Well of Ascension" redirects here. For [[Preservation\|Preservation's]] [[Perpendicularity\|Perpendicularity]], see [[Well of Ascension\|Well of Ascension]].
-**The Well of Ascension** is the second volume of the [[Mistborn trilogy\|Mistborn trilogy]] by [[Brandon Sanderson\|Brandon Sanderson]]. It is preceded by [[The Final Empire\|The Final Empire]] and followed by [[The Hero of Ages\|The Hero of Ages]]. The book follows the remaining members of [[Kelsier\|Kelsier's]] crew as they try to bring stability to [[Luthadel\|Luthadel]] and the rest of the [[Final Empire\|Final Empire]] in the chaos following the death of [[The Lord Ruler\|The Lord Ruler]]. Faced with armies laying seige to the city outside the walls, political factions and unrest among the newly-freed skaa within, and a new, sinister change in behaviour from the mists themselves, [[Vin\|Vin]], and the rest of the crew, along with the newly crowned King [[Elend Venture\|Elend Venture]], must find a way to protect the fledgling empire they have created.
+*The Well of Ascension* is the second volume of the [[Mistborn trilogy\|Mistborn trilogy]] by [[Brandon Sanderson\|Brandon Sanderson]]. It is preceded by *The Final Empire* and followed by *The Hero of Ages*. The book follows the remaining members of [[Kelsier\|Kelsier's]] crew as they try to bring stability to [[Luthadel\|Luthadel]] and the rest of the [[Final Empire\|Final Empire]] in the chaos following the death of [[The Lord Ruler\|The Lord Ruler]]. Faced with armies laying siege to the city outside the walls, political factions and unrest among the newly-freed skaa within, and a new, sinister change in behaviour from the mists themselves, [[Vin\|Vin]], and the rest of the crew, along with the newly crowned King [[Elend Venture\|Elend Venture]], must find a way to protect the fledgling empire they have created.
 
 ## Contents
 
-1 Cover Synopsis
-2 Plot Summary
+1 Synopsis
+2 Summary
 3 Main Characters
 4 Cover Gallery
 5 Interior Art
@@ -23,14 +25,14 @@
 7 Notes
 
 
-## Cover Synopsis
+## Synopsis
 **Evil has been defeated.**
 **The war has just begun.**
 They did the impossible, deposing the godlike being whose brutal rule had lasted a thousand years. Now Vin, the street urchin who has grown into the most powerful Mistborn in the land, and Elend Venture, the idealistic young nobleman who loves her, must build a healthy new society in the ashes of an empire.
 They have barely begun when three separate armies attack. As the siege tightens, an ancient legend seems to offer a glimmer of hope. But even if it really exists, no one knows where to find the Well of Ascension or what manner of power it bestows.
 It may just be that killing the Lord Ruler was the easy part. Surviving the aftermath of his fall is going to be the real challenge.
 
-## Plot Summary
+## Summary
 For a chapter by chapter summary, see [[The Well of Ascension/Summary\|/Summary]].
 Almost a year has passed since the revolution that deposed the Lord Ruler. Elend Venture has transformed the ancient empire's capital city into a democratic kingdom over which he presides. Elend's own father, [[Straff Venture\|Straff Venture]] has brought an army from the north to take control of the city, but the arrival of another army led out of the west by [[Ashweather Cett\|Ashweather Cett]] — tricked into coming by [[Breeze\|Breeze]] forces the city into an extended seige. Elend and the crew decide to play a dangerous game, trying to incite the two armies to attack one another by convincing each that Luthadel will ally with them in the battle. The later arrival of a third, even more dangerous army of [[Koloss\|koloss]] led by Elend's once-friend [[Jastes Lekal\|Jastes Lekal]] strains the tensions in the city even farther. In addition to this, Vin and Elend find that a kandra—most likely sent by one of the armies—has killed and replaced someone within the walls, though they have no idea who it might be.
 Within the city, Elend's new Assembly is quickly getting out of hand as political factions among the nobility, merchants, and working skaa members each vie for their own solutions to the problems of the armies, in most cases, a call for surrender to Straff or Cett and a wish for things to go back to the way they were before the [[Collapse\|Collapse]]. Elend's lack of training in leadership allows the Assembly members to dismiss him, and his preoccupation with other issues forces his attention away from keeping them in line. Under the tutelage of a [[Terris\|Terriswoman]] [[Keeper\|Keeper]] named [[Tindwyl\|Tindwyl]], Elend starts to become the king his people need. However, not quite quickly enough, for the Assembly deposes him and chooses [[Ferson Penrod\|Ferson Penrod]] as king instead.
@@ -51,8 +53,15 @@ For a cover gallery for The Well of Ascension, see [[The Well of Ascension/Cover
 For a gallery of the book's interior art, see [[The Well of Ascension/Interior art\|/Interior art]].
 ## Statistical Analysis
 For a full statistical analysis, see [[The Well of Ascension/Statistical analysis\|/Statistical analysis]].
+*The Well of Ascension* consists of fifty-nine chapters, and one epilogue, reaching a total 244,371 word count. There are eleven different unique point-of-view characters in a total of 147 POVs.
+
+|**Word Count**|244,371||
+|-|-|
+|**Page Count**|590|Tor hardback|
+|**Chapter Count**|59|Including epilogue.|
+|**PoV Characters**|11||
+|**PoV Count**|147||
+
 
 
 https://coppermind.net/wiki/The_Well_of_Ascension
-	
-Featured in Mistborn (For grouping) 

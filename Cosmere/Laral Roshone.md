@@ -7,9 +7,8 @@
 |**Born**|1155|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The Origin is out there. This is the stormlands. Father says we're here to be a windbreak for more timid lands to the west.*”
 \-Laral to Kaladin[2]
@@ -71,7 +70,7 @@ Laral and Kaladin are friends while growing up together in Hearthstone, though a
  by  Sheep 
 When Roshone was been given authority over Hearthstone, including possession of the mansion and surrounding lands, Highprince Sadeas gave Laral a dowry in compensation. Because of this, Roshone saw the need of marrying her into her family. She was originally engaged to his son, Rillir, but after his death in a hunting accident, this engagement was made to Roshone himself.
 By the time of the True Desolation, Laral and Roshone had been married for several years. She claims satisfaction with the agreement and even defends him before Kaladin when he spoke ill of her husband. She seems to have used the marriage to become politically engaged and has strong loyalty from their soldiers.
-Laral and presumably Roshone's children were evacuated from Hearthstone and now reside in Urithiru.
+Laral and Roshone's children, twins, were evacuated from Hearthstone and now reside in Urithiru. When Roshone dies, Laral inherits the title of Citylady under Jasnah's new inheritance laws.
 
 
 

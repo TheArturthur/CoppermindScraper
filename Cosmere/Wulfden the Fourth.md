@@ -4,9 +4,8 @@
 |**Titles**|[[Wyrn (title)\|Wyrn]], Emperor of [[Fjorden\|Fjorden]], Prophet of [[Shu-Dereth\|Shu-Dereth]], Ruler of [[Jaddeth\|Jaddeth's]] Holy Kingdom, Regent of All Creation|
 |**Residence**|[[Widor\|Widor]]|
 |**Nationality**|[[Fjordell\|Fjordell]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 'Wulfden' redirects here. For the first Wyrn named Wulfden, see [[Wulfden the First\|Wulfden the First]].
 **Wyrn Wulfden the Fourth**, sometimes referred to as "Wulfden" or simply "Wyrn", is the political and religious leader of the [[Fjordell Empire\|Fjordell Empire]] and the [[Shu-Dereth\|Shu-Dereth]] religion on [[Sel\|Sel]].
@@ -26,13 +25,12 @@ He is thought of as a brutal, domineering tyrant by the [[Arelene\|Arelenes]] an
 
 ## Attributes and Abilities
 Wulfden oversees the entire Fjordell Empire and sits atop the Great Chain of Shu-Dereth. His word is considered holy by his subjects. He is presumed to be very wealthy. He has access to [[Seon\|seons]] and uses them for communication, despite their presumed origins in the "heathen" [[Aonic\|Aonic]] region of [[Sycla\|Sycla]].
-He controls Fjorden's military, including a relatively small defense force and a fleet of ships that is competent but inferior to the Teo armada. Although the Empire could likely conscript more of its citizens into military service if needed, Wulfden's true power lies in his monasteries, where Derethi are trained to be warriors, spies, and assassins. Wyrn or certain delegated priests control the deployment of the monks. The most important monastery is the [[Dakhor\|Dakhor]] monastery, where the monks undergo incredibly brutal training and gain access to [[Investiture\|Investiture]] through the Dor. Wulfden uses the Dakhor as his favored warriors. He demands absolute obedience from them, even commanding them to sacrifice their lives to power a method of instantaneous travel.
+He controls Fjorden's military, including a relatively small defense force and a fleet of ships that is competent but inferior to the Teo armada. Although the Empire could likely conscript more of its citizens into military service if needed, Wulfden's true power lies in his monasteries, where Derethi are trained to be warriors, spies, and assassins. Wyrn or certain delegated priests control the deployment of the monks.
 
 >“*How had Wyrn known that Fjon would find Hrathen here, on the streets of Teoras of all places? Fjon would probably never know; Lord Jaddeth moved in ways beyond the understanding of men.*”
-\-Fjon[16]
+\-Fjon[15]
 
-
-Wulfden himself has magical abilities. He tells [[Fjon\|Fjon]] to travel to [[Teoras\|Teoras]] and assassinate Hrathen during the invasion, even though Wulfden should not have known where Hrathen was going to be. The source and extent of his powers are unknown, although his ability to see into the future may have some parallels to other temporal abilities seen in the [[Cosmere\|cosmere]]. He is a follower of Dominion.
+The most important monastery is the [[Dakhor\|Dakhor]] monastery, where the monks undergo incredibly brutal training and gain access to [[Investiture\|Investiture]] through the Dor. Wulfden uses the Dakhor as his favored warriors. He demands absolute obedience from them, even commanding them to sacrifice their lives to power a method of instantaneous travel. Wulfden himself has magical abilities. He tells [[Fjon\|Fjon]] to travel to [[Teoras\|Teoras]] and assassinate Hrathen during the invasion, even though Wulfden should not have known where Hrathen was going to be. The source and extent of his powers are unknown, although his ability to see into the future may have some parallels to other temporal abilities seen in the [[Cosmere\|cosmere]]. He is a follower of Dominion.
 
 ## History
 Wulfden was chosen to be Wyrn around five years prior to the [[Reod\|Reod]]. It is not known if Wulfden was his birth name or if he took up the name in the tradition of [[Wulfden the First\|Wulfden the First]] when he ascended to the throne. He was relatively young when he became Wyrn, and was considered very vigorous. Soon after his elevation, the [[Korathi\|Korathi]] church felt threatened and chose a younger man named [[Seinalan\|Seinalan]] as their new Patriarch. Wulfden lives in a palace named [[Zigareth\|Zigareth]] in the Fjordell capital of [[Widor\|Widor]], which is presumably also known as "Wyrn's Seat". His image appears on Fjordell coins known as [[Wyrning\|wyrnings]].

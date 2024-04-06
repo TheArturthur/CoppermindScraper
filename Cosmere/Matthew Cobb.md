@@ -4,17 +4,17 @@
 |**Titles**|Admiral of the Fleet of the [[DDF\|DDF]], Callsign: Mongrel|
 |**Profession**|DDF pilots|
 |**Groups**|[[DDF\|DDF]], Flight Instructor|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *ReDawn*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *ReDawn*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*If you’ve got time to argue, I’m obviously not working you hard enough*”
 \-Cobb interruption of a Jorgen-Spensa argument.[2]
 
 
-**Captain Matthew[3] Cobb** (callsign: **Mongrel**) is a flight instructor for the [[DDF\|DDF]]. He fought the in [[Battle of Alta\|Battle of Alta]] making him a [[First Citizen\|First Citizen]].
+**Matthew[3] Cobb** (callsign: **Mongrel**) is a flight instructor for the [[DDF\|DDF]]. He fought in the [[Battle of Alta\|Battle of Alta]], making him a [[First Citizen\|First Citizen]].
+After the [[Battle of Alta Second\|Battle of Alta Second]], he replaces [[Ironsides\|Ironsides]] as admiral of the DDF, though after returning from being trapped in the [[Nowhere\|Nowhere]], he relieves himself from duty until he recovers and passes operational command to [[Jorgen Weight\|Jorgen Weight]].
 
 ## Contents
 
@@ -34,7 +34,7 @@ This page or section needs to be updated with new information for *Starsight*, 
 
 ## Appearance and Personality
 >“*That wasn't a joke! I don't joke!*”
-\-Cobb to his team when meeting them[4]
+\-Cobb to his team when meeting them[5]
 
 
 Cobb is fifty years old. He has grey in his hair and a stark white mustache that makes him appear much older than he actually is. He limps due to an injury he sustained during the Battle of Alta.
@@ -42,16 +42,16 @@ He has a sense of humor and is very strict with his class. Cobb cares for his st
 Cobb is open with his students and answers as many “hard questions” as he can. He talked about Krell strategy and other topics that were previously banned. He takes teaching seriously and wants his students to do the same. His class’s flight maneuvers are often superior to those of other flights.
 
 ## Attributes and Abilities
-Cobb was an excellent pilot who stopped flying after the [[Battle of Alta\|Battle of Alta]] due to the trauma it caused him.
+Cobb was an excellent pilot who stopped flying after the Battle of Alta due to the trauma it caused him.
 As First Citizen he became an instructor for new pilots; a job he excels at not only because he manages to teach complex flight moves, tactics and techniques; but because he does care for his students.
 As commander of his flight, he chooses tactics based on the danger his crew would be exposed to. Because of this, his class is considered the safest one.
 
 ## History
-He was the wing mate of [[Zeen Nightshade\|Zeen Nightshade]] (callsign: **Chaser**), [[Spensa\|Spensa's]] father, and fought with him in the [[Battle of Alta\|Battle of Alta]]. After Chaser returned from the sky and shot down friendly ships, Cobb shot him down on [[Judy Ivans\|Ironside's]] orders.
+He was the wing mate of [[Zeen Nightshade\|Zeen Nightshade]] (callsign: **Chaser**), [[Spensa\|Spensa's]] father, and fought with him in the Battle of Alta. After Chaser returned from the sky and shot down friendly ships, Cobb shot him down on [[Judy Ivans\|Ironside's]] orders.
 Cobb reviewed Spensa's pilot exam and, after talking to her, gave her a First Citizen pin to help her get into flight school. He used his status and political power to enroll her.
 
 >“*That was somehow the most embarrassing and inspiring display I’ve ever seen out of cadets! You should be ashamed. And proud.*”
-\-Cobb to his team after their first battle[15]
+\-Cobb to his team after their first battle[16]
 
 When he met Spensa's class, he made it clear to the cadets that he would not tolerate jokes. He takes training very seriously, as he understands many of them will die or not graduate. He is compelled to obey orders from Ironsides, some of which include sending his new class into the battlefield after just one day of training.
 Cobb is strict and tough with his class as he covers flight maneuvers, weapons and strategy. He also monitored and guided them, and gave the cadets orders during the battles they participated in while in training.
@@ -79,7 +79,7 @@ Judy Ironsides was Cobb’s flight leader in the Battle of Alta, she was the one
 Cobb had been more sensitive to all deaths than her and this difference seemed to have alienated them. She respects him but stands firm on her decisions. The other disagreement is on the existence of the defect causing Chaser to become a traitor, and moreover that this would be passed to Spensa.
 
 ### Jorgen
-Cobb knows and acknowledges Jorgen’s background and gives him the fight leader position since he first day. Still, he is as tough with him as with anyone, snapping at him when arrogant. He does give good leadership advice and wants him to earn respect.
+Cobb knows and acknowledges Jorgen’s background and gives him the fight leader position since the first day. Still, he is as tough with him as with anyone, snapping at him when arrogant. He does give good leadership advice and wants him to earn respect.
 
 
 ## Trivia

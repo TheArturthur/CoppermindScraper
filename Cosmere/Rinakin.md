@@ -3,11 +3,10 @@
 |**Family**|
 |**Children**|[[Inin\|Inin]]|
 |**Species**|[[UrDail\|UrDail]]|
-|**World**|[[ReDawn (planet)\|ReDawn]]|
+|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *ReDawn* and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Rinakin** is [[Alanik\|Alanik's]] advisor in the [[Cytonics\|cytonic]] training program on [[ReDawn (planet)\|ReDawn]], and is a vocal supporter of the [[Independence\|Independence]] faction in ReDawn's government.
 

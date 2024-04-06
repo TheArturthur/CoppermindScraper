@@ -1,10 +1,9 @@
 |**Yomen Manor**|
 |-|-|
 |**Owners**|[[House Yomen\|House Yomen]]|
-|**City**|[[Elendel\|Elendel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Yomen Manor**, sometimes referred to as **Yomen mansion**, is the seat of [[House Yomen\|House Yomen]] in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 It is located in the 4th Octant of Elendel. It has a courtyard and numerous balconies. House Yomen holds a large amount of wealth and power and throws lavish parties in the mansion. It has a massive grand ballroom with hardwood floors that can hold hundreds of tables. It has large kitchens and many servants.

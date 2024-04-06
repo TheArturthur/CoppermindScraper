@@ -4,14 +4,14 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Bondsmith\|Bondsmith]] magic, [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]], [[Old Magic\|Old Magic]]|
 |**Titles**|Mother of the World|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Nightwatcher** is a powerful [[Spren\|spren]] on [[Roshar\|Roshar]]. She is a [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]] and grants boons and curses to mortals through the [[Old Magic\|Old Magic]]. She is one of the three potential [[Bondsmith\|Bondsmith]] spren.
-The Nightwatcher would bless those who sought her out with one blessing of her choosing. In exchange for this blessing, she also bestows a single curse, although this curse very rarely has any obvious relation to the blessing that was gained. Because of the Nightwatcher's ethereal nature and ties to a single location, the [[Valley\|Valley]], she is considered by many to be a powerful [[Spren\|spren]]. It is surprisingly common for devoutly Vorin [[Lighteyes\|lighteyes]] go to the Nightwatcher at one point or another over the course of their lives.
+The Nightwatcher would bless those who sought her out with one blessing of her choosing. In exchange for this blessing, she also bestows a single curse, although this curse very rarely has any obvious relation to the blessing that was gained. Because of the Nightwatcher's ethereal nature and ties to a single location, the [[Valley\|Valley]], she is considered by many to be a powerful [[Spren\|spren]]. It is surprisingly common for devoutly Vorin [[Lighteyes\|lighteyes]] to go to the Nightwatcher at one point or another over the course of their lives.
 She does not always appear to those seeking her, having a tendency to avoid groups and likely [[Worldhopping\|foreigners]] like [[Felt\|Felt]]. Supposedly, the best time of day to visit the Nightwatcher is right after the sun sets.
 
 ## Contents
@@ -25,13 +25,15 @@ She does not always appear to those seeking her, having a tendency to avoid grou
 
 
 4 Known Visitors
-5 Notes
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
  by  Dejan Delic 
 For more images, see [[Nightwatcher/Gallery\|/Gallery]].
-The Nightwatcher manifests in the Physical Realm as dark green and vaguely person shaped. Described as crawling on the ground with too-long arms reaching out and pulling her along as she floats above the ground. She appears to leave a trail of her essence behind her, like a river of twisting vapor curling through the trees. The only part of her that has any detail is her smooth distinctly feminine face with silken black eyes. She seems to be able to create extra limbs like smaller hands to interact with people. Cultivation made the Nightwatcher in such a way that she is not shaped by people's perception or belief of her, unlike most spren. This is why she behaves less human.
+The Nightwatcher manifests in the Physical Realm as a dark green mist shaped vaguely like a person. Described as crawling on the ground with too-long arms reaching out and pulling her along as she floats above the ground. She appears to leave a trail of her essence behind her, like a river of twisting vapor curling through the trees. The only part of her that has any detail is her smooth distinctly feminine face with silken black eyes. She seems to be able to create extra limbs like smaller hands to interact with people. Cultivation made the Nightwatcher in such a way that she is not shaped by people's perception or belief of her, unlike most spren. This is why she behaves less human.
+She is sometimes mistakenly conflated with the [[Chemoarish\|Chemoarish]], an [[Unmade\|Unmade]].
 
 ## Origin
 Called "child" by [[Cultivation\|Cultivation]], it is likely that the Nightwatcher was created by [[Cultivation\|Cultivation]] for a specific purpose from a different spren much like the [[Stormfather\|Stormfather]] was by [[Honor\|Honor]]. The Nightwatcher is implied to be one of three [[Spren\|spren]] on [[Roshar\|Roshar]] that are [[Cognitive Shadow\|shadows of a god]].
@@ -58,6 +60,12 @@ The curse, as well as the boon, is permanent. Through history many visitors have
 
 
 
+
+
+
+
+## Trivia
+Brandon Sanderson would probably bond the Nightwatcher instead of the Stormfather, if he was a Bondsmith.
 
 
 https://coppermind.net/wiki/Nightwatcher

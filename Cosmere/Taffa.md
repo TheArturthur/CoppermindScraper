@@ -3,9 +3,8 @@
 |**Family**|
 |**Spouse**|[[Heb\|Heb]]|
 |**Children**|[[Seeli\|Seeli]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* I should have helped, should have grabbed something to hit them. But you were so fast. It—it was just a few heartbeats. Where—How—?*”
 \- Taffa[1]

@@ -2,9 +2,8 @@
 |-|-|
 |**Born**|c. 1163|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Mik** is a child with a head wound in [[Yeddaw\|Yeddaw]] on [[Roshar\|Roshar]].
 

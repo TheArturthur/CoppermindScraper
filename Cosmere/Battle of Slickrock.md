@@ -3,7 +3,6 @@
 |**Participants**|[[Dalinar\|Dalinar]], [[Nalanar\|Nalanar]], [[Geved\|Geved]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Slickrock** is the name of a battle on [[Roshar\|Roshar]] between the forces of [[Nalanar\|Nalanar]] of [[Jah Keved\|Jah Keved]] and [[Dalinar Kholin\|Dalinar Kholin]] of [[Alethkar\|Alethkar]].
 

@@ -1,9 +1,8 @@
 |**Arts and Majesty**|
 |-|-|
 |**Type**|Treatise|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 *Arts and Majesty* is an ancient work of [[Roshar\|Rosharan]] literature that has come to define the [[Vorinism\|Vorin]] ideas of masculine and feminine arts. It defines certain topics and practices as feminine or masculine; the feminine arts are generally those that can be practiced with a single hand, while the masculine arts involve both hands, associating delicacy with women and brute force with men. The idea of the [[Safehand\|safehand]] comes from this distinction between one-handed and two-handed arts.
 
@@ -23,7 +22,7 @@
 
 ## History
 >“*A woman wanting to come to the battlefield was like … well, like a man wanting to read. Unnatural.*”
-\-Dalinar[3]
+\-Dalinar[4]
 
 
 *Arts and Majesty* was written by a female artist well before the [[Day of Recreance\|Day of Recreance]]. It may not have had much influence on culture before the Recreance; soon afterward, however, some men in power came across it and began emphasizing it to justify keeping [[Shardblade\|Shardblades]] and [[Shardplate\|Shardplate]] away from women. As retaliation, a movement of women ensured that writing and literacy moved fully into the domain of women. [[Hoid\|Hoid]] jokingly observed that the female author of the treatise made sure to categorize "fun" activities as feminine, while leaving more dangerous activities to the men.
@@ -42,7 +41,7 @@ science (e.g., zoology, botany, and natural history)
 logic
 playing musical instruments
 ### Masculine
-combat (facetiously, "hitting things", according to [[Navani Kholin\|Navani Kholin]])
+combat
 tactics
 politics
 carpentry

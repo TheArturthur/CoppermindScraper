@@ -3,9 +3,8 @@
 |**Profession**|Head maid|
 |**Residence**|[[Kae\|Kae]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Meala** is the head maid of [[Iadon\|Iadon's]] palace in [[Arelon\|Arelon]] on [[Sel\|Sel]].
 

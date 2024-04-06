@@ -2,10 +2,10 @@
 |-|-|
 |by  Marie Seeberger |
 |**Type**|Greatshell|
+|**Sapient**|Yes|
 |**Native to**|[[Reshi Sea\|Reshi Sea]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*The Tai-na is a good place to grow. Good place to live. Except when it's at war.*”
 \-Gu to Rysn[1]
@@ -48,6 +48,7 @@ The inhabitants include both native Reshi and expatriates from other Rosharan na
 ## Trivia
 The Tai-na were first alluded to in *The Way of Kings*, during [[Ashir\|Ashir's]] interlude.
 The Tai-na are larger than some versions of Godzilla.
+In some Slavic languages "taina" means "mystery" or "secret".
 
 
 https://coppermind.net/wiki/Tai-na

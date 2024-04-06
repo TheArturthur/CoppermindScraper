@@ -1,9 +1,8 @@
 |**Thior**|
 |-|-|
 |**Profession**|Doctor|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 Dr. **Thior** is a doctor and the head of [[Alta Base\|Alta Base]] medical for the [[DDF\|Defiant Defense Force]].
 She is an advocate for pilot mental health and in her role as head of medical pushes for, and successfully implements, initiatives such as counseling and mandatory leave for pilots after the loss of flight members. [[Cobb\|Cobb]] agrees with Dr. Thior's overall sentiment, as well as some of her suggestions, however, he believes that she doesn't fully understand what is and isn't helpful for grieving pilots. Overall, he thinks of her as a good person.

@@ -5,15 +5,15 @@
 |**Herald**|[[Vedeledev\|Vedeledev]]|
 |**Spren**|[[Cultivationspren\|Cultivationspren]]|
 |**Surges**|[[Abrasion\|Abrasion]] & [[Progression\|Progression]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Plate spren**|*Unknown*|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 This article deals with the order of Knights Radiant. For the novella featuring Lift, see [[Edgedancer (novella)\|Edgedancer (novella)]].
 The **Order of Edgedancers** is an order of the [[Knights Radiant\|Knights Radiant]] on Roshar.
-The Edgedancers were [[Surgebinder\|Surgebinders]] who used the [[Surge\|Surges]] of Abrasion and Progression, and they are associated with the diamond [[Polestone\|polestone]]. They bond [[Cultivationspren\|cultivationspren]].
+The Edgedancers are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] of Abrasion and Progression, and they are associated with the diamond [[Polestone\|polestone]]. They bond [[Cultivationspren\|cultivationspren]].
 
 ## Contents
 
@@ -38,14 +38,14 @@ The Edgedancers were [[Surgebinder\|Surgebinders]] who used the [[Surge\|Surges]
 
 
 ## Philosophy
-Edgedancers generally subscribe to a philosophy of remembering the ordinary people of the world. The order considers it their solemn duty to remember that the people are the ones they truly serve. They even aspire to remember and hear their enemies, as their stories could provide insight. Edgedancers see it as their duty to care for the common folk and improve their daily lives and are similar to Samaritans. They tend to attract religious people and leaders and those who advocate for ordinary people.
+Edgedancers generally subscribe to a philosophy of remembering the ordinary people of the world. The order considers it their solemn duty to remember that the people are the ones they truly serve. They even aspire to remember and hear their enemies, as their stories could provide insight. Edgedancers see it as their duty to care for the common folk and improve their daily lives and are similar to Good Samaritans. They tend to attract religious people and leaders and those who advocate for ordinary people.
 
 ## Ideals of the Edgedancers
 The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order. The Ideals of the Order of Edgedancers all focus on remembering and advocating for ordinary people.
 
 ### The First Ideal
 >“*Life before death, strength before weakness, journey before destination.*”
-\-The First Ideal of the Knights Radiant[7]
+\-The First Ideal of the Knights Radiant[8]
 
 
 ### The Second Ideal
@@ -55,7 +55,7 @@ The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal 
 
 ### The Third Ideal
 >“*I will listen to those who have been ignored.*”
-\-The Third Ideal of the Edgedancers, as sworn by Lift[8]
+\-The Third Ideal of the Edgedancers, as sworn by Lift[9]
 
 
 ## Abilities
@@ -86,7 +86,8 @@ The Edgedancers were generally the most religious of the Radiants.
 [[Godeke\|Godeke]] (bonded to [[Archinal\|Archinal]])
 [[Lorain\|Lorain]] (bonded to an unknown cultivationspren)
 ## Trivia
-If he had joined the [[Knights Radiant\|Knights Radiant]], [[Wayne\|Wayne]] would most likely have been in the order of Edgedancers. Most of the orders would look very strangely upon Wayne.
+If he had joined the [[Knights Radiant\|Knights Radiant]], [[Wayne\|Wayne]] would most likely have been in the Order of Edgedancers. Most of the orders would look very strangely upon Wayne.
+If she had joined the [[Knights Radiant\|Knights Radiant]], [[Wan ShaiLu\|Wan ShaiLu]] would most likely have been in the Order of Edgedancers.
 
 
-https://coppermind.net/wiki/Edgedancers
+https://coppermind.net/wiki/Order_of_Edgedancers

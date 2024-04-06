@@ -1,9 +1,8 @@
 |**Kylrm**|
 |-|-|
 |**Profession**|Guard|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Kylrm** is a guardsman on [[Roshar\|Roshar]].
 He is the head guard of [[Vstim\|Vstim's]] merchant train.

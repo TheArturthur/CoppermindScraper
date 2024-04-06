@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Spacecraft, DDF Ships|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 For the character in the Reckoners universe nicknamed Val, see [[Valentine\|Valentine]].
 The **Val** is a class of [[Starfighter\|starfighter]] used by scout teams in the [[DDF\|DDF]].
@@ -13,4 +12,4 @@ The members of [[Ranger Flight\|Ranger Flight]] fly Val-class ships.
 
 
 
-https://coppermind.net/wiki/Val
+https://coppermind.net/wiki/Val-class

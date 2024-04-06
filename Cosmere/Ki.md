@@ -1,12 +1,12 @@
 |**Ki**|
 |-|-|
-|**Abilities**|[[Order of Skybreakers\|Skybreaker]], [[Shardbearer\|Shardbearer]]🐱︎|
+|**Abilities**|[[Order of Skybreakers\|Skybreaker]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Winnow (Roshar)\|Winnow]]|
 |**Titles**|Master Skybreaker|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*I have decided to take you as my squire. In all honesty, there was an argument among us over who would have the privilege.*”
 \-Ki to Szeth[1]

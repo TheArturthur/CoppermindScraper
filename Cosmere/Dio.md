@@ -4,9 +4,9 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Devotion\|Devotion]]|
 |**Bonded With**|[[Eventeo\|Eventeo]]|
 |**Species**|[[Seon\|Seon]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Dio** is a [[Seon\|seon]], a magical being on [[Sel\|Sel]]. He is bonded to King [[Eventeo\|Eventeo]] of [[Teod\|Teod]] on [[Sel\|Sel]].
 

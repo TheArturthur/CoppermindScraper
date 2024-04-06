@@ -3,9 +3,8 @@
 |**Family**|
 |**Parents**|Kuzodo|
 |**Ethnicity**|[[Shin\|Shin]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 

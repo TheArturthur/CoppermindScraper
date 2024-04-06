@@ -3,9 +3,8 @@
 |**Profession**|Scribe|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ristina** is an [[Alethi\|Alethi]] scribe in [[Urithiru\|Urithiru]].
 

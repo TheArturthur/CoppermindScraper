@@ -5,9 +5,8 @@
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Groups**|Venture army|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Goradel** was a [[Skaa\|skaa]] on [[Scadrial\|Scadrial]]. He was in the [[Lord Ruler\|Lord Ruler's]] army but joined the [[Skaa rebellion\|skaa rebellion]] on the night of the [[Collapse\|Collapse]]. He became captain under [[Elend Venture\|Elend Venture]] and was head of [[Sazed\|Sazed's]] and [[Spook\|Spook's]] guard during the [[Coup of Urteau\|Coup of Urteau]]. [[Marsh\|Marsh]] killed him while he was carrying [[Spook's note\|Spook's note]] to Vin.
 

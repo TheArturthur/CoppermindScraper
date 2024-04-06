@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Family|
 |**Era**|[[Final Empire\|Final Empire]], [[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn (series)*|
 
 **House Tekiel** is one of the great noble houses on [[Scadrial\|Scadrial]]. House Tekiel was ranked fourth in power, just after [[House Elariel\|House Elariel]]. 
 In the Final Empire, House Tekiel has a political rivalry with [[House Izenry\|House Izenry]]. They have canal routes through the eastern plains. Due to the rivalries and suspicions sowed by [[Kelsier\|Kelsier]], House Tekiel loses a lot of business and begins going into debt. This destroys their reputation and their finances start to crumble. In a last attempt to save face, they attempt to withdraw from Luthadel. The evening before their withdrawal, many members are assassinated and those remaining are supposedly attacked by bandits on the canal routes. In actuality, it is the work of [[House Hasting\|House Hasting]].

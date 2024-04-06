@@ -3,7 +3,6 @@
 |by  Heatherly |
 |**Ruler**|Council of UrDail|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This article is about the planet. For the [[Skyward (series)\|Skyward series]] novella, see [[ReDawn (novella)\|ReDawn (novella)]].
 >“*We call ourselves Unity and Independence, but we all enjoy the benefits of both freedom and peace. The real enemies are those who seek to divide ReDawn, who threaten our peace, who put the prosperity of all denizens in jeopardy.*”

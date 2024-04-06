@@ -2,10 +2,10 @@
 |-|-|
 |by  Jamie Knierim |
 |**Died**|Killed by [[Prof\|Prof]]|
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
+This page is about the character in [[Steelheart\|Steelheart]]. For information on the [[Aon\|Aon]], see Aon#Tia.
 **Tia** is a member of the [[Reckoners\|Reckoners]]. She generally is on operations during missions and is the group's main researcher. She is the only one among the Reckoners to know [[Prof\|Prof]] from before the arrival of [[Calamity\|Calamity]]. She is also one of the main people to get in touch with the Reckoner's contacts such as the [[Knighthawk Foundry\|Knighthawk Foundry]]. She offers to teach [[David\|David]] her side of the Reckoners, but he refuses, as it means he wouldn't be able to do point duty any more.
 
 ## Contents

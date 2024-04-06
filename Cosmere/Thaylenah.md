@@ -4,11 +4,10 @@
 |**Ethnicity**|Thaylen|
 |**Capital**|[[Thaylen City\|Thaylen City]]|
 |**Ruled by**|[[Fen Rnamdi\|Fen Rnamdi]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Rhythm of War* and *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*We are going to need to administrate trade through the Oathgates. I wonder, who has excellent expertise in shipping, caravans, and trade in general…?*”
 \-Navani on Thaylenah[1]
@@ -19,6 +18,10 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ## Contents
 
 1 Geography
+
+1.1 Settlements
+
+
 2 History
 3 Politics
 
@@ -50,11 +53,15 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 ## Geography
  by [[Isaac Stewart\|Isaac Stewart]] Thaylenah on the world map
-Thaylenah encompasses a trio of islands, as well as a small number of islets, in the South-East of Roshar, on the ocean known as the [[Southern Depths\|Southern Depths]]. Together, they cover roughly 414,000 km, putting Thaylenah in the middle of all Rosharan states, area-wise.
+Thaylenah encompasses a trio of islands, as well as a small number of islets, in the South-East of Roshar, on the ocean known as the [[Southern Depths\|Southern Depths]]. Together, they cover roughly 414,000 km, putting Thaylenah in the middle of all Rosharan states, area-wise. In comparison to real-world nations, it is a little larger than the total area of Paraguay.
 The largest of the three islands is several times bigger than the other two, and appears to be the country's population center. It's mostly mountainous, with a tall range rising in the middle. The mountains reach all the way to the shore, with towering cliffs making up the northern coast. The climate is cold and frigid, although the locals find it pleasantly chill.
 To the north, Thaylenah is separated from the [[Frostlands\|Frostlands]] by the [[Longbrow's Straits\|Longbrow's Straits]]. The nearest countries to it are the city-states of [[Kharbranth\|Kharbranth]] to the north and [[Shallow Crypts\|Shallow Crypts]] to the east. Within Thaylenah itself, there are only two known major cities -- the capital, [[Thaylen City\|Thaylen]], in a large [[Lait\|lait]] on the northwestern coast, and [[Klna City\|Klna]], a shipbuilding centre further east. The port city of [[Amydlatn\|Amydlatn]] may belong to Thaylenah, although this is uncertain.
 In [[Shadesmar\|Shadesmar]], Thaylenah's largest island manifests as a vast lake known locally as the [[Thaylen Sea\|Thaylen Sea]], south of the [[Sea of Lost Lights\|Sea of Lost Lights]]. The shores of Thaylen Sea are unoccupied, with the nearest [[Spren\|spren]] settlement being [[Salumon\|Salumon]] in the foothills of the mountains to the east.
 
+### Settlements
+[[Thaylen City\|Thaylen City]]
+[[Klna\|Klna]]
+[[Amydlatn\|Amydlatn]]
 ## History
 During the [[Heraldic Epochs\|Heraldic Epochs]], the islands that now compose Thaylenah were part of the Kingdom of [[Thalath\|Thalath]]. The current capital, Thaylen City, was likely also the capital of Thalath, as it possesses that state's [[Oathgate\|Oathgate]]. It's unclear when the country broke apart; however, Thaylenah itself is about four thousand years old, according to the local tradition.
 In the [[Era of Solitude\|Era of Solitude]], Thaylenah became a titan of commerce, with their ships and caravans trading goods around the world. The country was largely peaceful, with no conflict or war within the past generation. In the last few decades, [[Fen Rnamdi\|Fen Rnamdi]] was elected Queen.
@@ -80,13 +87,13 @@ The Thaylen have a system of underwriting trades based around the [[Thaylen Gems
 A notable gem in the Thaylen Reserve is the [[King's Drop\|King's Drop]], a [[Perfect gemstone\|perfect gemstone]] eventually used to trap [[Nergaoul\|Nergaoul]].
 
 ## Culture
- by  Dan dos Santos  A Thaylen woman, with the characteristic long eyebrows and a glove instead of a full [[Safehand\|safehand]].
+ by  Dan dos Santos  A Thaylen woman, with the characteristic long eyebrows and a glove instead of a full [[Safehand\|safehand]] sleeve.
 ### People
 >“*They're mostly tradesmen and merchants. Every one I’ve met has tried to swindle me, but that’s hardly the same thing as invading.*”
 \-Lirin[27]
 
 
-The Thaylen people are tanned, thought not as dark as the [[Reshi\|Reshi]], and, like most Rosharans, have . They are typically short, although some can grow as tall as the [[Alethi\|Alethi]]. Their most recognizable, distinguishing feature are their long white eyebrows, which they tuck behind their ears as a sign of respect. There seems to be no upper limit on how long they can grow, other than sheer practicality. The Thaylen men additionally have white beards, regardless of their age or the color of their hair.
+The Thaylen people are tanned, thought not as dark as the [[Reshi\|Reshi]], and, like most Rosharans, have . They are typically short, although some can grow as tall as the [[Alethi\|Alethi]]. Their most recognizable, distinguishing feature are their long white eyebrows, which they sometimes tuck behind their ears. There seems to be no upper limit on how long they can grow, other than sheer practicality. The Thaylen men additionally have white beards, regardless of their age or the color of their hair.
 The eyebrows are often styled in various ways, such as spikes, bangs or ringlets. To keep them in the desired shape, they are either waxed or starched. Some people shave them altogether, although this is rare. The eyebrows seem to be of great cultural importance to the Thaylens. Even one of their suits of [[Shardplate\|Shardplate]], [[Cvaderln\|Cvaderln]], is decorated with them. The eyebrows of a child of a Thaylen and non-Thaylen wouldn't be this long, although they would have streaks of white in them.
 Thaylens can be found not only in their native country but also elsewhere in the world. While many of them are travelling merchants, some Thaylen settle in other countries, such as [[Reshi Isles\|Reshi Isles]] or [[Alethkar\|Alethkar]], permanently. Thaylen businesses, like tailors and banks, can also be found across the continent. The people have a reputation for swindling, but they are not considered particularly warlike. Thaylen locks are known to be of high quality.
 
@@ -102,6 +109,7 @@ Thaylen architecture is flowery and decorative, unlike the more utilitarian [[Al
 
 
 The Thaylen language belongs to the Vorin family, alongside Alethi and Veden, although it is only distantly related to others from that group. Thaylen words can be recognized by clusters of consonants (*babsk*, Cvaderln, Kdralk).
+[[Kaise\|Kaise]] finds the language fascinating.
 Known full phrases in Thaylen include the thank you quoted above and *Mkai bade fortenthis*, an exclamation with unknown meaning. Thaylens have a distinctive accent; they give emphasis to unusual syllables and run words together. They seem to have a habit of ending sentences with "you see."
 
 
@@ -113,6 +121,7 @@ Known full phrases in Thaylen include the thank you quoted above and *Mkai bade 
 
 For more information, see [[Thaylen script\|Thaylen script]].
 Thaylen's writing system is an  -- it contains no vowels. In contrast to most other Vorin countries, Thaylen men seem to be permitted to learn how to read or write the script, although it is not a skill shown off publicly.
+The letters are known to interlock with each other.
 
 ### Religion
 >“*Great Honor in you, Prince Adolin. Great Passion in me at this aid.*”

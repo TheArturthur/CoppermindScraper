@@ -1,9 +1,8 @@
 |**Hessi**|
 |-|-|
 |**Profession**|Scholar|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Hessi** is a scholar and author on [[Roshar\|Roshar]]. She is the author of *Mythica*, a work which investigates historical information about the [[Unmade\|Unmade]] and explores their characteristics.
 

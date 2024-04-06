@@ -1,12 +1,11 @@
 |**Rira**|
 |-|-|
 |**Profession**|Slumlord|
-|**Religion**|[[Austrism\|Austrism]]🐱︎|
+|**Religion**|[[Austrism\|Austrism]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 This article is about a Nalthian slumlord. For the Rosharan nation, see [[Rira (country)\|Rira (country)]].
 **Rira** is an [[Idrian\|Idrian]] slumlord who lives in [[T'Telir\|T'Telir]] on [[Nalthis\|Nalthis]] during the reign of the God-king [[Susebron\|Susebron]].

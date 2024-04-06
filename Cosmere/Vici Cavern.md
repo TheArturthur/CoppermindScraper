@@ -1,9 +1,8 @@
 |**Vici Cavern**|
 |-|-|
 |**Type**|Cave|
-|**World**|[[Detritus\|Detritus]]🐱︎|
+|**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Vici Cavern** is a human-inhabited cavern on [[Detritus\|Detritus]].
 They are descendants from marines of *Defiant*, and are rumored to be great warriors. They have a separate culture and mostly keep to themselves.
@@ -11,4 +10,4 @@ They are descendants from marines of *Defiant*, and are rumored to be great warr
 
 
 
-https://coppermind.net/wiki/Vician
+https://coppermind.net/wiki/Vici_Cavern

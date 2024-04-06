@@ -1,8 +1,7 @@
 |**Lyndip**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*I am a guide, but I cannot solve a hero's problems for him. It is not the way of the Survivor, who deems that all men must make their own way.*”
 \-Lyndip[1]

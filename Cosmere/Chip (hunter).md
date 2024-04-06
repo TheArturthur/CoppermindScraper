@@ -1,9 +1,8 @@
 |**Chip (hunter)**|
 |-|-|
 |**Profession**|Hunter|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 For other uses of Chip, see [[Chip\|Chip]].
 **Chip** is a hunter from Scadrial.

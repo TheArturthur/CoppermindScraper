@@ -1,10 +1,9 @@
 |**Holstep**|
 |-|-|
-|**Dominance**|[[Central Dominance\|Central Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn: The Final Empire*|
 
 **Holstep** was a town in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 

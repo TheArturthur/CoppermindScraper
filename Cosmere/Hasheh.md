@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Scholar|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightness **Hasheh** is a [[Lighteyes\|lighteyed]] scholar and tutor on [[Roshar\|Roshar]].
 Hasheh worked as [[Shallan Davar\|Shallan Davar's]] tutor at the Davar estates in [[Jah Keved\|Jah Keved]] around the year 1170. She was an expert in languages and taught Shallan some [[Azish\|Azish]]. Shallan also noted that Hasheh taught her etiquette, and would chide her for having poor posture.

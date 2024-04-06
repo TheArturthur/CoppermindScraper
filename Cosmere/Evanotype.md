@@ -1,9 +1,10 @@
 |**Evanotype**|
 |-|-|
 |**Type**|Photograph|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 An **evanotype** is a photograph created through an early form of image capture technique invented on [[Scadrial\|Scadrial]] after the [[Catacendre\|Catacendre]].
 Evanotypes are captured using special cameras. Early evanotype cameras were large and required the subject to stand still. The camera used by the [[Kandra\|kandra]] explorer [[ReLuur\|ReLuur]] was a newer model that could take action pictures and was small enough to fit in ReLuur's pack. It is not clear when evanotypes were invented, but by around 330 [[Catacendre\|PC]] they were relatively common, as people living in the [[Roughs\|Roughs]] had access to them.

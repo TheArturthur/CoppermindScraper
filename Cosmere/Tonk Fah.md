@@ -1,12 +1,11 @@
 |**Tonk Fah**|
 |-|-|
 |by  Imaginative Joy |
-|**Groups**|[[Denth's crew\|Denth's crew]]🐱︎|
+|**Groups**|[[Denth's crew\|Denth's crew]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Pahn Kahl\|Pahn Kahl]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*"Toes is toes."*”
 \-Tonk Fah to Denth and Vivenna[1]

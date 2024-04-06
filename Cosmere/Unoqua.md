@@ -3,9 +3,8 @@
 |**Titles**|Scion|
 |**Residence**|[[Azimir\|Azimir]]|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Scion Unoqua** is the religious leader of [[Yanagawn\|Yanagawn's]] court in [[Azir\|Azir]] on [[Roshar\|Roshar]].
 

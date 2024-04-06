@@ -1,9 +1,8 @@
 |**Bavland**|
 |-|-|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Bavland** is a small mining region in the nation of [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. The people from Bavland are called either Bav or Bavlanders.
 
@@ -21,6 +20,7 @@
 ## Geography
 Bavland is located on the north-eastern tip of the mountain range in the center of the continent, putting it in the south-west of [[Jah Keved\|Jah Keved]]. The region is rich in ore deposits, making mining central to its economy. Though not all of Bavland is concentrated on it, it seems to be the main source of population and work. There are multiple mining communities there, centered around small villages, with huge populations of transient workers. Due to all the mines, or perhaps the geological makeup of the region, Bavland is extremely dusty.
 Despite the abundance of work, settlements in Bavland are rather small. One of the largest, [[Ironsway\|Ironsway]], consists of only several hundred homes and three taverns.
+The region has an area of around 141,000 Km, around the size of Tajikistan.
 
 ### Notable settlements
 [[Ironsway\|Ironsway]] - one of the largest towns in its region

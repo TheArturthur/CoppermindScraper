@@ -1,11 +1,11 @@
 |**Lorain**|
 |-|-|
 |**Abilities**|[[Order of Edgedancers\|Edgedancer]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Lorain** is an [[Order of Edgedancers\|Edgedancer]] on [[Roshar\|Roshar]].
 

@@ -1,9 +1,8 @@
 |**Song of Prayer**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Song of Prayer** is a song that can be used by [[Singer\|singers]] to create [[Voidlight\|Voidlight]] [[Spheres\|spheres]].
 The role of the song in the creation of Voidlight spheres is unknown. However, [[Navani\|Navani's]] research into the pure tones of Roshar allowed her to manipulate Voidlight, even mixing it with other [[Lights\|Lights]] inside of a sphere. The tone and rhythm of the Song of Prayer is therefore likely related to the creation of Voidlight spheres.

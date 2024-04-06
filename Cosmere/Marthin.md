@@ -1,9 +1,9 @@
 |**Marthin**|
 |-|-|
+|**Spouse**|[[Peterus\|Peterus]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*How dare you! I will not stay quiet, Marthin! I am a constable of the Eighth Guard!*”
 \-Lord Peterus to Marthin[1]

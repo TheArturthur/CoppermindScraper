@@ -3,8 +3,7 @@
 |**Owner**|[[Nathan Haight\|Nathan Haight]] , [[Yol Chay\|Yol Chay]]|
 |**Services**|Biotech research|
 |**Products**|Medication for Parkinson's, other pharmaceuticals|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion: Skin Deep*|
+|**World of Origin**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Exeltec** is a biotech firm founded five years before the death of [[Panos Maheras\|Panos Maheras]]. The company is originally owned by ten investors, with [[Nathan Haight\|Nathan Haight]], the largest investor, serving as CEO. [[Stephen Leeds\|Stephen Leeds]] later temporarily buys the company, before selling it to [[Yol Chay\|Yol Chay]].
 Soon after Exeltec's inception, the company released their primary product, a drug that helped patients with . A year later, however, a competitor developed a better drug and Exeltec lost most of its revenue. Despite years of funding, its next three products all failed on the market and the company made no economic progress. As Exeltec grew increasingly desperate, they gained a reputation for "moral ambiguity and espionage," and were subject to four separate investigations; by the time of Panos' death, three had been closed without conclusive findings and the fourth—for cutting corners in overseas manufacturing—was ongoing.

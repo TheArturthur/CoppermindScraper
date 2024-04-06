@@ -1,11 +1,10 @@
 |**Tinningdar**|
 |-|-|
 |by  Ben McSweeney |
-|**Related to**|[[Terris\|Terris]]🐱︎|
+|**Related to**|[[Terris\|Terris]]|
 |**Type**|Garment|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn (series)*|
 
 The **tinningdar** is the name for traditional [[Terris\|Terris]] robes worn on [[Scadrial\|Scadrial]].
 

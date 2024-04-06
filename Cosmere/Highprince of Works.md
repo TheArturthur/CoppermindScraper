@@ -1,10 +1,9 @@
 |**Highprince of Works**|
 |-|-|
-|**Related to**|[[Alethkar\|Alethkar]], Alethi culture, [[Highprince\|Highprince]]🐱︎|
+|**Related to**|[[Alethkar\|Alethkar]], Alethi culture, [[Highprince\|Highprince]]|
 |**Type**|Title|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 >“* Hatham does an excellent job as Highprince of Works, but there isn’t proper infrastructure... Equally important, Brightness, we might be facing a severe labor shortage.*”
 \- Issues faced by living in Urithiru[1]

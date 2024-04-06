@@ -6,9 +6,8 @@
 |**Religion**|[[Vorin\|Vorinism]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*A Radiant still fights, Tomor, and he needs your device to climb between floors.*”
 \-Navani[1]

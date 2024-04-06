@@ -1,8 +1,7 @@
 |**Songling**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Songlings** are fist-sized creatures that live on [[Roshar\|Roshar]].
 

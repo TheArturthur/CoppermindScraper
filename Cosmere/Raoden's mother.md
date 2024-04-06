@@ -5,9 +5,8 @@
 |**Children**|[[Raoden\|Raoden]]|
 |**Died**||
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Raoden's mother** was a woman that lived in the city of [[Kae\|Kae]] in [[Arelon\|Arelon]]. She was stated to have an unyielding personality and insurmountable love for her son.
 

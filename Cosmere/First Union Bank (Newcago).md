@@ -1,10 +1,9 @@
 |**First Union Bank (Newcago)**|
 |-|-|
 |**Usage**|Business|
-|**City**|[[Newcago\|Newcago]]🐱︎|
-|**Region**|[[Fractured States\|Fractured States]]🐱︎|
+|**City**|[[Newcago\|Newcago]]|
+|**Region**|[[Fractured States\|Fractured States]]|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Steelheart*|
 For the bank in [[Elendel\|Elendel]], see [[First Union Bank (Elendel)\|First Union Bank (Elendel)]].
 **First Union Bank** is the building in [[Newcago\|Newcago]] in which the supposedly invulnerable [[Epic\|Epic]] known as [[Steelheart\|Steelheart]] was injured before killing hundreds of people, including [[David Charleston\|David Charleston's]] father.
 

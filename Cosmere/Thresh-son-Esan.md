@@ -3,9 +3,8 @@
 |**Family**|
 |**Parents**|Esan|
 |**Ethnicity**|[[Shin\|Shin]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Winds of Fortune guide you, my friend. He who adds is happy for your safe arrival.*”
 \-Thresh greeting Vstim[1]

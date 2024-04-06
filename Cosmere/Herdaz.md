@@ -3,9 +3,8 @@
 |by User: Otto didact|
 |**Ethnicity**|Herdazian|
 |**Ruled by**|King of Herdaz|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -33,7 +32,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 ## Geography
-Herdaz is a coastal nation in the north-east of Roshar, covering approximately one million square kilometres of land. Most of its jagged coastline lies on the [[Reshi Sea\|Reshi Sea]], while a small part of it faces [[Steamwater Ocean\|Steamwater Ocean]] and the [[Bay of Elibath\|Bay of Elibath]]. From the south, Herdaz borders [[Jah Keved\|Jah Keved]] on two rivers and [[Alethkar\|Alethkar]] on land. Across the sea, it is close to a number of [[Reshi Isles\|Reshi Isles]].
+Herdaz is a coastal nation in the north-east of Roshar, covering approximately one million square kilometres of land. Most of its jagged coastline lies on the [[Reshi Sea\|Reshi Sea]], while a small part of it faces [[Steamwater Ocean\|Steamwater Ocean]] and the [[Bay of Elibath\|Bay of Elibath]]. From the south, Herdaz borders [[Jah Keved\|Jah Keved]] on two rivers and [[Alethkar\|Alethkar]] on land. Across the sea, it is close to a number of [[Reshi Isles\|Reshi Isles]]. It lies around the same lattitude as Iri and Rira.
 Most of the country is a series of long and narrow peninsulas jutting out into the sea, and a single larger one separating the island of [[Akak\|Akak]] from the rest of the Reshi archipelago. The Herdazian interior appears to be rather flat, with a single major river dividing the western and eastern halves of the country, and a number of smaller, shorter coastal rivers. Though there are cities there, none of them are of global importance.
 
 ## History
@@ -61,8 +60,10 @@ Herdazian cuisine uses mostly a wide variety of shellfood, as well as flatbread.
 Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning.
 
 
-*charlano* - unknown meaning, used by Lopen to refer to [[Huio\|Huio]]
+*calah* - An old Herdazian term for .
+*chorlano* - unknown meaning, used by Lopen to refer to [[Huio\|Huio]]
 *chortana* - a woman, possibly an intimidating or powerful one
+*enne* - an old Herdazian honorific, roughly meaning "great."
 *gancho/a* - a casual way to refer a male or female superior
 *gon* - appears to be a generic term
 *hooch* - Lopen uses this one for [[Sigzil\|Sigzil]], and refuses to explain its meaning
@@ -85,9 +86,8 @@ There are numerous stereotypes about Herdazians. Many Alethi believe they all we
 ## Notable Herdazians
 For more Herdazians, see :Category: Herdazians.
 [[Lopen\|Lopen]], the cheerful, one-armed member of [[Bridge Four\|Bridge Four]] and a third-Oath [[Windrunner\|Windrunner]].
-Lopen's multiple cousins, including [[Punio\|Punio]], [[Rod\|Rod]] and [[Huio\|Huio]].
+Lopen's multiple cousins, including [[Punio\|Punio]], [[Rod (Roshar)\|Rod]] and [[Huio\|Huio]].
 [[Kabsal\|Kabsal]] might be Herdazian, as he has the accent.
-An illiterate Herdazian who gives [[Taravangian\|Taravangian's]] doctors a [[Death rattle\|death rattle]].
 [[Havarah\|Havarah]], [[Dalinar\|Dalinar's]] bridgelord, is part-Herdazian.
 [[Palona\|Palona]], [[Sebarial\|Sebarial's]] mistress.
 [[Dieno enne Calah\|Dieno enne Calah]], the Herdazian general who led the resistance against the [[Voidbringer\|Voidbringers]].

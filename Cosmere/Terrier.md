@@ -1,9 +1,8 @@
 |**Terrier**|
 |-|-|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*What in the North Star’s light is happening here?*”
 \-Terrier to Spensa[1]

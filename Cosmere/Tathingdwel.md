@@ -1,9 +1,8 @@
 |**Tathingdwel**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Tathingdwel** is a city in the [[Elendel Basin\|Elendel Basin]]. It is south of the [[Channerel Range\|Channerel Range]], and is presumably named after [[Tathingdwen\|Tathingdwen]].
 It may be a popular home for the descendants of the [[Terris\|Terris]] people.

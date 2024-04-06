@@ -2,11 +2,10 @@
 |-|-|
 |**Died**|[[Siege of Kholinar\|Siege of Kholinar]]|
 |**Titles**|Captain|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Captain **Deedanor** is an [[Alethi\|Alethi]] man who is the platoon leader of the Seventh Platoon of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 Deedanor's second in command was Lieutenant [[Noromin\|Noromin]], who commanded the platoon in the event of Deedanor's absence.

@@ -3,9 +3,10 @@
 |**Abilities**|Connector|
 |**Profession**|Explorer|
 |**Ethnicity**|[[Terris\|Terris]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I suspect Jak was hallucinating through this entire section, a result of the trauma to his head. Upon doing this edit, I wished several times to be similarly afflicted.*”
 \-Handerwym's annotations[1]
@@ -18,7 +19,12 @@
 1 Occupation
 2 Personality
 3 Feruchemy
-4 Notes
+4 History
+
+4.1 Breakup with Jak
+
+
+5 Notes
 
 
 ## Occupation
@@ -29,6 +35,10 @@ He is often separated from Jak in his adventures, leaving him skeptical as to wh
 
 ## Feruchemy
 He was apparently a [[Duralumin\|Connector]].
+
+## History
+### Breakup with Jak
+In the years following the discovery of the [[Bands of Mourning\|Bands of Mourning]] Jak continued to publish his stories and by happenstance discovered a large amount of Survivor artifacts. Whilst expanding his business Jak decided to invest in new forms of media entertainment and in order to fund these ventures took a stake out of Handerwym's ownership in the company. This led to a public falling out between the two with the judge ultimately siding with Handerwym. Jak continued to be published in the *Sentinel of Truth* while Handerwym kept exclusive access to *The Two Seasons* as well as other paper's. [[Nicelle Sauvage\|Nicelle Sauvage]] would continue under Handerwym's banner.
 
 
 

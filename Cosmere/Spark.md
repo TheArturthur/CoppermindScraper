@@ -4,9 +4,9 @@
 |**Bonded With**|[[Malata\|Malata]]|
 |**Groups**|[[Diagram (group)\|Diagram]]|
 |**Species**|[[Ashspren\|Ashspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 This article is about the spren. For the Essence of Spark, see [[Ten Essences\|Ten Essences]].
 **Spark** is an [[Ashspren\|ashspren]] on [[Roshar\|Roshar]] who is bonded to [[Malata\|Malata]]. She and Malata are part of the [[Diagram (group)\|Diagram]] organization.

@@ -3,9 +3,8 @@
 |**Profession**|Soldier|
 |**Groups**|[[Luthadel Garrison\|Luthadel Garrison]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Sertes** is a captain in the [[Luthadel Garrison\|Luthadel Garrison]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]].
 

@@ -1,9 +1,8 @@
 |**Tasinar**|
 |-|-|
 |**Profession**|Slaver|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlord **Tasinar** is one of [[Kaladin\|Kaladin's]] former slavers on [[Roshar\|Roshar]].
 

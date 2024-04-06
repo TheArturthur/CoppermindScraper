@@ -3,9 +3,9 @@
 |**Children**|[[Adin\|Adin]]|
 |**Profession**|Potter|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*You're going to go see what’s happening, aren’t you? In the atrium?*”
 \-Adin to his father[1]

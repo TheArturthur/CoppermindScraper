@@ -4,9 +4,10 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Devotion\|Devotion]]|
 |**Bonded With**|[[Raoden\|Raoden]]|
 |**Species**|[[Seon\|Seon]]|
-|**World**|[[Sel\|Sel]]|
+|**Residence**|[[Elantris (city)\|Elantris]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 >“*To a seon, there is no above or beneath, there are only those we love. And we serve those we love.*”
 \-Ien to Raoden[1]
@@ -20,13 +21,17 @@
 2 Attributes and Abilities
 3 History
 
-3.1 Bonding with Raoden
-3.2 The Shaod
-3.3 Post-restoration
+3.1 The Shaod
+3.2 Post-restoration
 
 
-4 Trivia
-5 Notes
+4 Relationships
+
+4.1 Raoden
+
+
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
@@ -40,15 +45,18 @@ Seons are sapient [[Splinter\|Splinters]] of [[Devotion\|Devotion]] and possess 
 When Raoden was taken by the broken Shaod, his spiritual nature was changed, causing Ien to lose his sapience and sentience. Ien retains at least some of his powers when he loses sentience—he still glows and is able to fly—but his abilities are severely weakened.
 
 ## History
-### Bonding with Raoden
-Ien has been bound to Raoden since he was a young boy. It is not clear who exactly Passed Ien to Raoden, but it is common to keep seons within a family. When Raoden was eight years old, he severely broke his leg. Doctors could not heal him, and [[Raoden's mother\|his mother]] and his father [[Iadon\|Iadon]] were forced to take him to Elantris. A female Elantrian healed him with a complex version of Aon Ien. He has intense memories of this event, but it is unknown if that influenced the selection of his seon.
-In Raoden's youth, he learns about slavery and attempts to free Ien, but Ien assures him that he wants to serve him and that he requires no payment. Raoden considers Ien a friend, but he also sees him as a reflection of his god's love.
+Ien formed a bond with Prince Raoden when he was a young boy. It is not clear who exactly Passed Ien to Raoden, but it was a common custom to keep seons within a family.
 
 ### The Shaod
-Ien is almost always at Raoden's side. When Raoden is taken by the Shaod, he does not immediately understand what has happened and is confused by the fact that he cannot find Ien. After getting thrown into the fallen city of Elantris, Raoden worries about Ien but tries not to think about his fate. He later finds Ien, but the seon has lost sapience and seems to be barely able to stay upright. There are some indications that Ien somehow recognizes Raoden, but they are fleeting moments that pass quickly. While most "mad" seons stay away from humans, [[Galladon\|Galladon]] thinks Ien is "creepy" because he tends to stay near Raoden.
+After they bonded, Ien was almost always at Raoden's side. When Raoden was taken by the failed Shaod, he did not immediately understand what had happened and was confused by the fact that he could not find Ien. After getting thrown into the fallen city of [[Elantris (city)\|Elantris]], Raoden worried about Ien but tried not to think about his fate. He later found Ien, but the seon had lost sapience and seemed to be barely able to stay upright. There were some indications that Ien somehow recognized Raoden, but they were fleeting moments that passed quickly. While most "mad" seons stayed away from humans, [[Galladon\|Galladon]] considered Ien to be "creepy" because he tended to stay near Raoden.
 
 ### Post-restoration
-After the Elantrians regain their powers, the mad seons also have their powers and personalities restored. Ien claims to have no recollection of anything that happened during his "madness". However, Raoden notes that Ien has changed; he has become quieter and even more thoughtful. This change in Ien is significant.
+After the Elantrians regained their powers, the mad seons also had their powers and personalities restored. Ien claimed to have no recollection of anything that happened during his "madness". However, Raoden noted that Ien had changed; he had become quieter and even more thoughtful. This change in Ien was significant, but is not well-understood.
+
+## Relationships
+### Raoden
+Raoden considers Ien a friend, but he also sees him as a reflection of his god's love; Ien loves Raoden unconditionally.
+When Raoden was eight years old, he severely broke his leg. Doctors could not heal him, and [[Raoden's mother\|his mother]] and his father [[Iadon\|Iadon]] were forced to take him to Elantris. A female Elantrian healed him with a complex version of Aon Ien. Raoden has intense memories of this event, but it is unknown if that influenced the selection of his seon. Later in Raoden's youth, he learned about slavery and attempted to free Ien, but Ien assured him that he wanted to serve him and that he required no payment.
 
 ## Trivia
 The change in Ien's personality after the restoration of AonDor could be explored in a planned future sequel to *Elantris*.

@@ -1,12 +1,11 @@
 |**Shanay-im**|
 |-|-|
 |by  Jemma M. Young |
-|**Type**|[[Fused\|Fused]]🐱︎|
+|**Type**|[[Fused\|Fused]]|
 |**Abilities**|Surge of Gravitation|
 |**Sapient**|Yes|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -29,7 +28,8 @@ The *shanay-im*, translated as **Those Ones of the Heavens** and often referred 
 The *shanay-im* are Fused who can manipulate the Surge of Gravitation. Fused of this brand can manipulate their own gravity without expending Voidlight, but must use it to heal themselves or to Lash things other than themselves. These abilities are similar to the Basic Lashing used by the [[Order of Windrunners\|Windrunners]] and [[Order of Skybreakers\|Skybreaker]]. *Shanay-im* are often seen manipulating the gravitation vector of both themselves and other bodies and objects, resulting in abilities such as flight, reduced weight, and sending their enemies flying off into the air. The Fused accelerate more slowly than Surgebinders when using Gravitation. This is due to them expending less energy and does not have to do with the gravity of [[Braize\|Braize]]. Over a large span, Fused will go faster than Surgebinders. Fused can only Lash themselves once. These Fused are able to enter space, but cannot travel far, since they would require a large amount of Voidlight to heal due to the lack of air and pressure.
 
 ## Culture
-*Shanay-im* usually wear extremely long robes, trailing behind them several feet. They utilize long lances suited for aerial combat, with aluminum coating to block Shardblades and a fabrial to drain Stormlight from the Radiant it pierces.
+ by  A [[Windrunner\|Windrunner]] fighting some shanay-im
+*Shanay-im* usually wear extremely long robes, trailing behind them several feet. They utilize long lances suited for aerial combat, with [[Aluminum\|aluminum]] coating to block Shardblades. The lances also incorporate [[Raysium\|raysium]] to drain Stormlight from Radiants.
 When fighting Windrunners, they hold an honorable tradition of one-to-one dueling. They raise their weapons to those they wish to duel, and engage upon consent from the Windrunners. The rest of their members float about and do not interfere with the duel. The Windrunners play along with the tradition, as the Windrunners have a smaller number and this prevents them from being ganged up on. This tradition does not extend to normal soldiers.
 
 ### High Chambers
@@ -41,7 +41,7 @@ After the Fused capture [[Kholinar\|Kholinar]], the *shanay-im* oversee the cons
 [[Rine\|Rine]]
 [[Jeshishin\|Jeshishin]]
 ## Trivia
-The name shanay-im may derive from the Hebrew word "shamayim" (שמים), which means "heaven".
+The name shanay-im may derive from the Hebrew word "shamayim" (שָׁמַיִם) (IPA: ʃəˈmajim or ʃaˈmajim), which means "heavens".. "-im" is the Hebrew masculine plural suffix, hence the singular would be "shanay" and plural "shanayim". (The word "shamayim" is indeed in the plural, hence the translation "heaven*s*", and "shanayim" as "Heavenly Ones")
 
 
-https://coppermind.net/wiki/Stormsetter
+https://coppermind.net/wiki/High_Chamber

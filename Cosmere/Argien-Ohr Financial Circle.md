@@ -3,9 +3,8 @@
 |**Headquarters**|[[Elendel\|Elendel]]|
 |**Type**|Banking committee|
 |**Era**|Post-Catacendre|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 The **Argien-Ohr Financial Circle** is the largest and most prestigious committee of bankers in [[Elendel\|Elendel]].
 

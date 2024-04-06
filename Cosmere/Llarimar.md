@@ -7,9 +7,9 @@
 |**Aliases**|Scoot|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 >“*You are a god. To me, at least. It doesn't matter how easily you can be killed, how much breath you have, or how you look. It has to do with who you are and what you mean*”
 \-Llarimar to Lightsong[1]

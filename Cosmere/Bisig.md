@@ -2,10 +2,10 @@
 |-|-|
 |by  Marie Seeberger |
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Bridge Four\|Bridge Four]]🐱︎, Sadeas army , Kholin army|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Bisig** is a member of [[Bridge Four\|Bridge Four]].
 

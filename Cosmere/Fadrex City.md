@@ -1,13 +1,12 @@
 |**Fadrex City**|
 |-|-|
 |by  Isaac Stewart |
-|**Dominance**|[[Western Dominance\|Western Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Western Dominance\|Western Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
-**Fadrex City** is a major trade hub in the [[Western Dominance\|Western Dominance]] of the [[Final Empire\|Final Empire]], several month's journey from [[Urteau\|Urteau]]. It is located near [[Chardees\|Chardees]].
+**Fadrex City** is a major trade hub in the [[Western Dominance\|Western Dominance]] of the [[Final Empire\|Final Empire]], several month's journey from [[Urteau\|Urteau]]. It is located near [[Chardees\|Chardees]]. There are a number of canals in the area, including the [[Conway Canal\|Conway Canal]].
 The city's natural rock formations make it much more defensible than the larger western city [[Tremredare\|Tremredare]]. It contains one of the [[Lord Ruler\|Lord Ruler's]] [[Storage cache\|storage caches]].
 After the [[Collapse\|Collapse]], [[Ashweather Cett\|Ashweather Cett]] makes the city his capital. He takes all of the known [[Allomancer\|allomancers]] with him when he marches against [[Luthadel\|Luthadel]], taking mostly from houses Gardre and Conrad. During the [[Siege of Luthadel\|Siege of Luthadel]] the [[Obligator\|Obligator]] [[Aradan Yomen\|Aradan Yomen]] rises to power. He reimposes the social structures of the [[Final Empire\|Final Empire]], throwing balls for the [[Noble\|nobility]].
 The city is [[Siege of Fadrex City\|besieged]] by [[Elend Venture\|Elend Venture]] for the cache. The siege ultimately results in an alliance between Venture and Yomen.

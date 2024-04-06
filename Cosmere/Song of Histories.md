@@ -1,11 +1,10 @@
 |**Song of Histories**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-The **Song of Histories** is one of songs detailing the oral history of the [[Listener\|listeners]]. It is the way in which the listeners were able to keep their history and pass it on to the younger generations.
+The **Song of Histories** is one of the songs detailing the oral history of the [[Listener\|listeners]]. It is the way in which the listeners were able to keep their history and pass it on to the younger generations. It is at least 127 stanzas long.
 
 ## Excerpts
 >“*'Tis said it was warm in the land far awayWhen Voidbringers entered our songs.We brought them home to stayAnd then those homes became their own,It happened gradually.And years ahead 'twil still be said 'tis how it has to be.*”
@@ -16,4 +15,4 @@ The **Song of Histories** is one of songs detailing the oral history of the [[Li
 
 
 
-https://coppermind.net/wiki/Song_of_Histories
+https://coppermind.net/wiki/Listener_Song_of_Histories

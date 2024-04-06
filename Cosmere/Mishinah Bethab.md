@@ -3,9 +3,8 @@
 |**Spouse**|Highprince [[Bethab\|Bethab]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Mishinah Bethab** is a [[Lighteyes\|lighteyed]] member of the [[Alethi\|Alethi]] nobility on [[Roshar\|Roshar]]. She is married to Highprince [[Bethab\|Bethab]].
 

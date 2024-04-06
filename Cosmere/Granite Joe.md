@@ -1,9 +1,9 @@
 |**Granite Joe**|
 |-|-|
 |**Ethnicity**|[[Koloss\|Koloss]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*Shadows of Self*|
 
 **Granite Joe** was a [[Koloss\|koloss-blooded]] criminal in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]].
 
@@ -14,7 +14,7 @@ He had many people in the roughs in his pay, making him extremely dangerous to h
 \-Granite Joe to Wax during their standoff
 
 
-During his first year in the Roughs [[Waxillium Ladrian\|Waxillium Ladrian]] hunted him for killing somebody's son. Joe had discovered that Wax was [[Allomancer\|metalborn]] and laid an ambush in [[Weathering\|Weathering's]] saloon. During a standoff with Wax in the basement of the bar he was killed by [[Lessie\|Lessie]] with a crossbow, believing her to be on his side after paying her off.
+During his fifth year in the Roughs [[Waxillium Ladrian\|Waxillium Ladrian]] hunted him for killing somebody's son. Joe had discovered that Wax was [[Allomancer\|metalborn]] and laid an ambush in [[Weathering\|Weathering's]] saloon. During a standoff with Wax in the basement of the bar he was killed by [[Lessie\|Lessie]] with a crossbow, believing her to be on his side after paying her off.
 
 
 

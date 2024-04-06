@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Tree|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **stumpweight** is a species of tree native to [[Roshar\|Roshar]].
 

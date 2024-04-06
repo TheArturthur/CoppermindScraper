@@ -1,10 +1,9 @@
 |**Bornwater**|
 |-|-|
-|**Region**|[[Bavland\|Bavland]]🐱︎|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Bavland\|Bavland]]|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Bornwater** is a mining town in [[Bavland\|Bavland]] on [[Roshar\|Roshar]]. [[Szeth\|Szeth]] lived in the town for a short time before he served [[Taravangian\|Taravangian]].
 
@@ -32,7 +31,7 @@ As part of Jah Keved, Bornwater is a [[Vorin\|Vorin]] region. However, some of t
 Despite the town's location in a lait that is well-protected from highstorms, the architecture still follows cultural tendencies, with long flat roofs that slope gently to the east. Unusually, some buildings in the town are built with soil and clay rather than stone. Soil is extremely rare on Roshar outside of [[Shinovar\|Shinovar]], and such buildings are not known to exist elsewhere in the western part of the continent. Szeth noticed these building materials during his time there.
 
 ## Politics
-Bornwater is an industrial town that is likely ignored by the Veden goverment, like the rest of Bavland. Although the eastern part of the city has a wealthier neighborhood, the city is not the type of place where prominent [[Lighteyes\|lighteyes]] choose to spend their time. Even the citylord seems to take a hands-off approach, since he lives in the larger town of Kneespike.
+Bornwater is an industrial town that is likely ignored by the Veden government, like the rest of Bavland. Although the eastern part of the city has a wealthier neighborhood, the city is not the type of place where prominent [[Lighteyes\|lighteyes]] choose to spend their time. Even the citylord seems to take a hands-off approach, since he lives in the larger town of Kneespike.
 
 
 

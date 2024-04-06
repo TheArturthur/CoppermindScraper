@@ -2,9 +2,8 @@
 |-|-|
 |**Titles**|Ashno of Sages, Prime of Emul|
 |**Nationality**|[[Emuli\|Emuli]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ashno of Sages** is a rich [[Emuli\|Emuli]] holy man and former Prime on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

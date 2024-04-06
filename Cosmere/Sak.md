@@ -4,9 +4,9 @@
 |**Abilities**|Precognition|
 |**Bonded With**|[[Sixth of the Dusk (character)\|Sixth of the Dusk]]|
 |**Species**|[[Aviar\|Aviar]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
+|**First Appeared**|*Sixth of the Dusk*|
 
 **Sak** is a bird that lives on the planet [[First of the Sun\|First of the Sun]] and is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]]. She is not a member of any the species known to the [[Eelakin\|Eelakin]] as [[Aviar\|Aviar]], but she becomes an Aviar after coming to [[Patji (island)\|Patji]] and gaining a magical talent.
 

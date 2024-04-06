@@ -1,10 +1,9 @@
 |**Impossible Falls**|
 |-|-|
 |**Type**|Waterfall|
-|**Region**|[[Kholinar\|Kholinar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Kholinar\|Kholinar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Impossible Falls** was a waterfall located in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

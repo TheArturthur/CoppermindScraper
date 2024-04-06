@@ -1,11 +1,10 @@
 |**Voidlight**|
 |-|-|
 |by  Ari Ibarra |
-|**Related to**|[[Voidbinding\|Voidbinding]], [[Odium\|Odium]]|
+|**Related to**|[[Lights\|Lights]], [[Voidbinding\|Voidbinding]], [[Odium\|Odium]]|
 |**Type**|[[Investiture\|Investiture]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -13,7 +12,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-Eshonai[1]
 
 
-**Voidlight** is the visible form of [[Investiture\|Investiture]] similar to [[Stormlight\|Stormlight]], but associated with [[Odium\|Odium]].
+**Voidlight** is a form of gaseous [[Investiture\|Investiture]] associated with [[Odium\|Odium]].
 
 ## Contents
 
@@ -26,7 +25,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ## Acquisition and Properties
 A singer can sing the [[Song of Prayer\|Song of Prayer]] to create a Voidlight sphere, though this would draw Odium's attention. It appears that this process is perhaps somewhat troublesome or time-consuming, as during battle, the [[Pursuer\|Pursuer]] would go to someplace to fetch stored Voidlight instead of creating it directly. In the past, [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] is said to have provided it. The [[Fused\|Fused]] enter the [[Physical Realm\|Physical Realm]] suffused with Voidlight. Leaving gemstones out in [[Everstorm\|Everstorm]] doesn't infuse them with Voidlight.
 Voidlight is stored in gemstones similar to Stormlight, but these two types of light cannot be stored in the same gemstone. Voidlight leaks significantly slower than Stormlight.
-Voidlight takes the form of dark, purple-on-black vapor, glowing violet. When a person is infused with it, Voidlight spreads over the surface of their skin rather than sinking in. On the skin, it pulses, and when a person infused with Voidlight moves, they leave behind trails of violet light. However, Voidlight does not leak from the Fused.
+Voidlight takes the form of dark, purple-on-black vapor, glowing violet. When a person is infused with it, Voidlight spreads over the surface of their skin rather than sinking in. On the skin, it can be made to pulse, and when a person infused with Voidlight moves, they leave behind trails of violet light. However, Voidlight does not leak from the Fused.
 Voidlight has an emotional effect similar to Stormlight, but instead of a need to move, it causes a feeling of enhanced passion, and emotions become more vibrant. When drawn into the body of a singer, it infuses mainly the gemheart, rather than the entire body as with Stormlight. Humans can draw in Voidlight if they learn the correct tone and rhythm.
 
 ## Uses

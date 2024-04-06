@@ -1,10 +1,9 @@
 |**Burnlands**|
 |-|-|
 |**Type**|Desert|
-|**Region**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **burnlands** were an area of barren desert that covered the majority of [[Scadrial\|Scadrial]] during the time of the [[Final Empire\|Final Empire]], with the notable exceptions of the magnetic north pole and part of the [[Southern Scadrian\|southern continent]].
 

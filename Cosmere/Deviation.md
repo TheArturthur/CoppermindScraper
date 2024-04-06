@@ -1,7 +1,6 @@
 |**Deviation**|
 |-|-|
-|**World**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
-|**Featured In**|*Snapshot*|
+|**World of Origin**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
 
 It has been suggested that this page be merged into [[Snapshot (event)\|Snapshot (event)]].The information on this page is much better suited to be included on other pages.
 

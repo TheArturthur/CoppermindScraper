@@ -1,7 +1,6 @@
 |**Razon's camera**|
 |-|-|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion (series)*|
+|**World of Origin**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Razon's camera** is a device which takes photographs of the past, developed by [[Balubal Razon\|Balubal Razon]] in conjunction with [[Azari Laboratories\|Azari Laboratories]]. A second version, capable of using instant film but incapable of looking very far back in time, was re-created based on the first by [[Stephen Leeds\|Stephen Leeds]].
 

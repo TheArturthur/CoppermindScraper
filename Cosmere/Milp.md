@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Milp** is a resident of [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 

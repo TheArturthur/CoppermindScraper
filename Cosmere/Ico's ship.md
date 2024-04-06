@@ -3,10 +3,10 @@
 |by  EccoS |
 |**Type**|Merchant ship|
 |**Captain**|[[Ico\|Ico]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
+This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*The ship crashed through the ocean of beads, surging toward the lighthouse. It employed no sail, no mast, and no oars. Instead, it was pulled from the front by an elaborate rigging attached to a group of incredible spren.*”
 \-Description of Ico's ship as it approaches Riino's lighthouse[1]
 

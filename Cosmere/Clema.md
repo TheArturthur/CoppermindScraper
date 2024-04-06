@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Crop|
 |**Used for**|Food|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Clema** is a crop grown on [[Roshar\|Roshar]]. It is labor-intensive to grow, similar to [[Tallew\|tallew]] or [[Lavis\|lavis]], and cannot easily survive flooding.
 

@@ -1,9 +1,8 @@
 |**Teoras**|
 |-|-|
-|**Nation**|[[Teod\|Teod]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Nation**|[[Teod\|Teod]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Teoras** is the capital city of [[Teod\|Teod]] on [[Sel\|Sel]]. It is surrounded by forest and hosted a large sea-port.
 Teoras was best known for housing the largest [[Korathi\|Korathi]] temple in Teod. However, when [[Sarene\|Sarene]] entered [[Elantris (city)\|Elantris]] with [[Raoden\|Raoden]] (under the guise of Spirit), she gasped at the Korathi chapel there and its beauty, saying its wall reliefs were more intricate than even Teoras's temple, which implies that perhaps Teoras's temple was only matched by the Elantrian Korathi temples. So, during the time after the [[Reod\|Reod]] and before the restoration of Elantris, Teoras's temple would have been the largest Korathi temple in the world.

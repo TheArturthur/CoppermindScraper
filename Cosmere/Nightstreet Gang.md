@@ -3,9 +3,8 @@
 |**Leader**|[[Donny\|Donny]]|
 |**Type**|Criminals|
 |**Era**|Post-[[Catacendre\|Catacendre]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Everyone in the area knows about the Nightstreets, though mostly they hit cities closer to the Roughs. We figure it's slim pickings out past the mountains, so they have begun to venture inward.*”
 \-Constable Matieu on the Nightstreet Gang[1]
@@ -20,7 +19,7 @@ Despite these resources, however, the gang seemed to be unaware of the true purp
 As a result of their inexperience at robbing trains and lack of preparations for enemy Allomancers, the attack went incredibly poorly for the gang. Though some members did manage to successfully escape with the Erikell payroll early in the fight and others, including Irich, escaped by jumping into a river next to the tracks, Constable Matieu believed that over half the gang was killed or captured and that the captured members will give him a good lead on the rest of the gang.
 
 ## Known Members
-Donny, the leader, a small, spirited koloss-blodded man.
+Donny, the leader, a small, spirited koloss-blooded man.
 
 
 https://coppermind.net/wiki/Nightstreet_Gang

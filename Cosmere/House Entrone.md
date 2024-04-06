@@ -2,9 +2,10 @@
 |-|-|
 |**Type**|Family|
 |**Era**|[[Final Empire\|Final Empire]], [[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **House Entrone** is a [[Noble\|noble]] house on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]] and after the [[Catacendre\|Catacendre]].
 

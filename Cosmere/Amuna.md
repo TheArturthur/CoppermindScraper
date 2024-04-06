@@ -3,9 +3,9 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Honor\|Honor]]|
 |**Species**|[[Honorspren\|Honorspren]]|
 |**Residence**|[[Lasting Integrity\|Lasting Integrity]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*I hear their voiceless sorrow; I see their sightless pain. I would have Lasting Integrity pulled down, stone by stone, before I agree to send a single honorspren to suffer a similar fate.*”
 \-Amuna during Adolin's trial[1]

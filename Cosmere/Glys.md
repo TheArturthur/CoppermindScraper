@@ -1,12 +1,12 @@
 |**Glys**|
 |-|-|
 |by  Bonnie Johnson |
-|**Abilities**|[[Nahel bond\|Nahel bond]], [[Truthwatcher\|Truthwatcher]] magic, [[Splinter\|Splinter]]|
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Truthwatcher\|Truthwatcher]] magic (altered), [[Splinter\|Splinter]]|
 |**Bonded With**|[[Renarin\|Renarin]]|
 |**Species**|[[Mistspren\|Mistspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*No home. No allies. We will need more. Like you and like me. Together.*”
 \-Glys[1]
@@ -37,7 +37,7 @@
 
 
 ## Appearance and Personality
- by  rspixart  Glys, as he might appear in ShadesmarFor more images, see [[Glys/Gallery\|/Gallery]].
+ by  Marie Seeberger  Glys in the Cognitive realm
 >“*My sorrow, Renarin. I will give you my sorrow.*”
 \-Glys[2]
 
@@ -53,9 +53,10 @@ Even as a corrupt mistspren, Glys is able to grant Renarin access to the Surges 
 
 ### Other abilities
 Due to Sja-anat’s influence, the bond with Glys also gives Renarin the ability to see visions of the future (which is typically of Odium). These visions are often but not always accurate, and appear as sequences of stained glass panels on the walls or floors, sometimes with numbers or words beneath them. Neither Glys nor Renarin are able to control when these visions strike, although they can capture and replay the visions with some effort.
-Glys has the ability to hide himself, even from people who would normally be able to see invisible spren (such as [[Rock\|Rock]]).
+Glys has the ability to hide himself, even from the [[Sighted\|Sighted]] (such as [[Rock\|Rock]]).
 
 ## History
+ by  rspixart  Glys, as he might appear in ShadesmarFor more images, see [[Glys/Gallery\|/Gallery]].
 ### Enlightening
 Glys was corrupted by [[Sja-anat\|Sja-anat]] before bonding Renarin, though he does not remember this event very well. Sja-anat has referred to this process as **Enlightening**.
 

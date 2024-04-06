@@ -1,9 +1,8 @@
 |**Cult of Moments**|
 |-|-|
 |by  Marie Seeberger |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Cult of Moments** is a group of fanatics in [[Kholinar\|Kholinar]] that arose with the arrival of the [[Everstorm\|Everstorm]].
 They are influenced by the [[Unmade\|Unmade]] [[Ashertmarn\|Ashertmarn]] into holding an endless party in the [[Kholinar Palace\|palace]]. As such, they serve as his guards for the Kholinar [[Oathgate\|Oathgate]].

@@ -3,10 +3,10 @@
 |**Abilities**|[[Order of Truthwatchers\|Truthwatcher]]|
 |**Bonded With**|[[Dreaming-though-Awake\|Dreaming-though-Awake]]|
 |**Aliases**|The Stump|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎  [[Tashi's Light Orphanage\|Tashi's Light Orphanage]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]]  [[Tashi's Light Orphanage\|Tashi's Light Orphanage]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Edgedancer*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -30,8 +30,8 @@ The Stump is an elderly woman who is very stern. Many of the children in the orp
 >“*Her skin drooped off her bones like something you'd might hack up after catching the crud in the slums, and she had spindly fingers that Lift figured might be twigs she'd glued in place after her real ones fell off*”
 \-Lift on Arshqqam[4]
 
-Arshqqam has spindly fingers and and her skin droops. She also appears fragile. [[Lift\|Lift]] describes her as a shrivelled up weed of a woman. Further, she says that the woman looks like the child of a broom and a particularly determined clump of moss. In turn, once joining the Knight's Radiant, the Stump confesses she is fond of Lift though feels Lift needs a firm hand.
-Arshqqam did not want to leave her life in [[Tashikk\|Tashikk]] behind but felt compelled to join the Knight's Radiant once her powers manifested. She does not understand why she in particular was chosen given her advanced age but if Lift, a child, was doing joining the cause, she felt there was no excuse for her not to do so.
+Arshqqam has spindly fingers and her skin droops. She also appears fragile. [[Lift\|Lift]] describes her as a shrivelled up weed of a woman. Further, she says that the woman looks like the child of a broom and a particularly determined clump of moss. In turn, once joining the Knight's Radiant, the Stump confesses she is fond of Lift though feels Lift needs a firm hand.
+Arshqqam did not want to leave her life in [[Tashikk\|Tashikk]] behind but felt compelled to join the Knight's Radiant once her powers manifested. She does not understand why she in particular was chosen given her advanced age but if Lift, a child, was joining the cause, she felt there was no excuse for her not to do so.
 [[Shallan\|Veil]] looks favourably on the Stump, commenting that there is more to the Stump than the surface level would suggest. She notes Arshqqam's careful yet understated attention to her appearance and the ease with which she is able to discuss strategy with [[Adolin\|Adolin]], a powerful man, without being intimidated.
 
 ## History
@@ -41,9 +41,9 @@ When [[Nale\|Nale]] instructed his [[Skybreaker\|Skybreakers]] to hunt down a Ra
 Some colleagues of [[Jasnah\|Jasnah]] convinced the Stump to visit [[Azimir\|Azimir]], probably to speak with [[Ethid\|Ethid]], and she let them make sketches of her spren.
 
 ### Expedition to Lasting Integrity
-Due to the honorspren's high-regard for Truthwatchers, The Stump was chosen by Adolin and [[Shallan\|Shallan]] to join the expedition to Lasting Integrity. She disagreed with Adolin's initial plan of trying to convince the honorspren by guilt or threat. Instead, she backed taking a more emotional and passionate approach suggested by her spren, [[Dreaming-though-Awake\|Dreaming-though-Awake]] and advised Adolin that any approach would need to appeal to the honorspren's sense of honor.
+Due to the honorspren's high-regard for Truthwatchers, The Stump was chosen by Adolin and [[Shallan\|Shallan]] to join the expedition to Lasting Integrity. She disagreed with Adolin's initial plan of trying to convince the honorspren by guilt or threat. Instead, she backed taking a more emotional and passionate approach suggested by her spren, [[Dreaming-though-Awake\|Dreaming-though-Awake]], and advised Adolin that any approach would need to appeal to the honorspren's sense of honor.
 Upon Adolin's capture she, along with [[Zu (Roshar)\|Zu]] and other soldiers on the expedition, left to report to [[Dalinar\|Dalinar]] about the trial in Lasting Integrity.
 
 
 
-https://coppermind.net/wiki/Stump
+https://coppermind.net/wiki/Arshqqam

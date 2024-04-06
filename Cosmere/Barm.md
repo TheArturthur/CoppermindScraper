@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Chef|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Barm is a [[Darkeyed\|darkeyed]] chef who works in the kitchen of the citylord's mansion in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 

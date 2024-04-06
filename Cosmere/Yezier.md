@@ -3,9 +3,8 @@
 |by User: Otto didact|
 |**Ethnicity**|[[Makabaki\|Makabaki]]|
 |**Ruled by**|Princess of Yezier|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Yezier** is a princedom in southwestern [[Roshar\|Roshar]] and one of the member states of the [[Azir\|Azish Empire]]. It's ruled by a princess.
 

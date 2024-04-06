@@ -5,9 +5,8 @@
 |**Profession**|Research scientist|
 |**Groups**|[[Phone Company\|Phone Company]]|
 |**Residence**|[[Evensong\|Evensong]]|
-|**World**|[[Earth (Skyward)\|Earth (Skyward)]]|
+|**Homeworld**|[[Earth (Skyward)\|Earth (Skyward)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium*|
 
 **Denise Carlson** was a laboratory assistant for the [[Phone Company\|Phone Company]] who worked in their research facility on [[Evensong\|Evensong]].
 

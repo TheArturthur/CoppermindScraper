@@ -2,11 +2,9 @@
 |-|-|
 |by  Bryan Mark Taylor |
 |**Creators**|Humans|
-|**World**|[[Detritus\|Detritus]], [[Starsight (station)\|Starsight]], other planets|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series), Defending Elysium*|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 A **platform** is one of several types of space station. In particular, the term is used to describe massive floating metal cities that are thought to be originally designed by humans.
 
@@ -35,7 +33,7 @@ Jupiter Fourteen - contained a [[United Intelligence Bureau\|United Intelligence
 Jupiter Seventeen - home of CLA labs (the subject of an investigation by [[Riely\|Riely]])
 [[Evensong\|Evensong]] - one of the distant **Outer Platforms**, it was situated between Saturn and Uranus and was the farthest human settlement from Earth; it contained a Phone Company research facility and was the location of [[Jason Write\|Jason Write's]] investigation into [[Denise Carlson\|Denise Carlson]]
 ## Detritus
-Centuries after the Phone Company era, the human prison planet known as [[Detritus\|Detritus]] was surrounded by multiple layers of platforms. These platforms could exceed one hundred meters in length, and were so numerous that they looked like metal shells around the planet. The platforms included , living quarters, shipyards, and automatic defense weaponry. The human residents of Detritus referred to the platforms as "ancient" and believed that they predated their arrival. By the time of the [[Battle of Alta Second\|Battle of Alta Second]], some platforms had fallen into visible disrepair (particularly those closest to the planet), but many of the automatic gun turrets were known to still be functioning. Although the creators of the platforms were not known, previous human habitation of Detritus was suspected due to the presence of Old Earth languages on the planet; the platforms were also observed to include skyscrapers similar to those seen on Old Earth.
+Centuries after the Phone Company era, the human prison planet known as [[Detritus\|Detritus]] was surrounded by multiple layers of platforms. These platforms could exceed one hundred meters in length, and were so numerous that they looked like metal shells around the planet. The platforms included [[Skylight\|skylights]], living quarters, shipyards, and automatic defense weaponry. The human residents of Detritus referred to the platforms as "ancient" and believed that they predated their arrival. By the time of the [[Battle of Alta Second\|Battle of Alta Second]], some platforms had fallen into visible disrepair (particularly those closest to the planet), but many of the automatic gun turrets were known to still be functioning. Although the creators of the platforms were not known, previous human habitation of Detritus was suspected due to the presence of Old Earth languages on the planet; the platforms were also observed to include skyscrapers similar to those seen on Old Earth.
 Assisted by [[M-Bot\|M-Bot]], the [[DDF\|DDF]] was able to begin landing on platforms to reclaim them. One of the largest reclaimed platforms, christened [[Platform Prime\|Platform Prime]], was used as the DDF's orbital headquarters. It had artificial gravity and atmosphere, and was generally in good operating condition. DDF technicians were able to hack into the platform's data banks—aided by built-in security exceptions for humans—and found video confirmation of the platform being used by ancient humans. The Detritus platforms were confirmed to date back to the [[Human Wars\|Second Human War]] and the arrival of the [[Delver\|delvers]].
 
 ## Use by Superiority

@@ -1,8 +1,7 @@
 |**Tashi's Light Orphanage**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tashi's Light Orphanage** is an orange building on the corner of a street and an alleyway in [[Yeddaw\|Yeddaw]]. The orphanage is run by a woman known as the [[Stump\|Stump]].
 

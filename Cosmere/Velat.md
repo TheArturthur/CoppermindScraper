@@ -4,9 +4,8 @@
 |**Groups**|Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightness **Velat** is an [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]] and scholar on [[Roshar\|Roshar]] specializing in cartography.
 

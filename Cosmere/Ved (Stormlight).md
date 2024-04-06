@@ -1,12 +1,12 @@
 |**Ved**|
 |-|-|
 |**Profession**|Soldier|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
+For the High Minister of the [[Superiority\|Superiority]], see [[Ved (Skyward)\|Ved (Skyward)]].
 >“*How is it those refugees can't get it through their heads that we're the only thing separating them from the army outside?*”
 \-Ved to members of his squad[1]
 

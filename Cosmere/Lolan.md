@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Servant|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Lolan** is a servant at [[Mercystar\|Mercystar's]] palace in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] circa 327.
 When [[Vasher\|Vasher]] infiltrated the palace, he encountered a group of four servants in the hallway. He used his common distraction tactic of throwing [[Nightblood\|Nightblood]] (in his sheath) at the group, and also tied up [[Taff\|Taff]] with an [[Awakening\|Awakened]] rope. Lolan picked up Nightblood, thinking he might use it against the attacker, while Rariv and the remaining servant ran for help. Vasher then knocked Lolan out while he was distracted by the sword. Taff was subsequently killed by [[Denth\|Denth]], but Lolan was spared, presumably because he was unconscious and would not have been able to identify Denth.

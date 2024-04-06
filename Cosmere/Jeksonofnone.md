@@ -2,9 +2,8 @@
 |-|-|
 |by |
 |**Species**|[[Chicken\|Chicken]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jeksonofnone** is a bright green bird on [[Roshar\|Roshar]] that is able to mimic human speech.
 

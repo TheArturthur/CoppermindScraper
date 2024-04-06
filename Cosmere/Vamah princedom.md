@@ -2,10 +2,9 @@
 |-|-|
 |by  Isaac Stewart |
 |**Ruler**|Highprince [[Vamah\|Vamah]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vamah princedom** is one of ten [[Alethi\|Alethi]] princedoms of [[Alethkar\|Alethkar]]. Vamah's house colors are brown & grey.
 
@@ -28,7 +27,7 @@
 
 
 ## Geography
-Vamah princedom is located in the North-West portion of the country and boarders [[Jah Keved\|Jah Keved]] to the West, [[Sadeas princedom\|Sadeas princedom]] to the North, [[Aladar princedom\|Aladar princedom]] to the North-East and [[Ruthar princedom\|Ruthar princedom]] to the East and the South. The [[Windrunner River\|Windrunner River]] runs along the entirety of the eastern boarder and marks the the boundary with Aladar princedom and part of Ruthar princedom. Grass grows to a much longer length in Vamah princedom than in Central Alethkar, reaching to approximately waist height. [[Ryshadium\|Ryshadium]] are rarely found in the eastern pricedoms, however, there are occasional sightings.
+Vamah princedom is located in the North-West portion of the country and boarders [[Jah Keved\|Jah Keved]] to the West, [[Sadeas princedom\|Sadeas princedom]] to the North, [[Aladar princedom\|Aladar princedom]] to the North-East and [[Ruthar princedom\|Ruthar princedom]] to the East and the South. The [[Windrunner River\|Windrunner River]] runs along the entirety of the eastern boarder and marks the boundary with Aladar princedom and part of Ruthar princedom. Grass grows to a much longer length in Vamah princedom than in Central Alethkar, reaching to approximately waist height. [[Ryshadium\|Ryshadium]] are rarely found in the eastern pricedoms, however, there are occasional sightings.
 
 ### Locations
 [[Revolar\|Revolar]]

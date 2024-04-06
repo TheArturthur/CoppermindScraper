@@ -2,8 +2,7 @@
 |-|-|
 |**Type**|Family|
 |**Homeland**|[[Free Kingdoms\|Free Kingdoms]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Books**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **House Smedry** was a noble family of the [[Free Kingdoms\|Free Kingdoms]]. They were notable for their magical [[Smedry Talent\|Talents]].
 

@@ -1,8 +1,7 @@
 |**The List**|
 |-|-|
 |**Author**|[[Kazan Smedry\|Kazan Smedry]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **The List** is a list of reasons why short people are better off than tall people according to [[Kazan Smedry\|Kazan Smedry]]. It is not clear if Kaz is serious about The List, but he takes every opportunity to recite from it. [[Australia Smedry\|Australia Smedry]] finds The List ridiculous, as does [[Bastille\|Bastille]]. Kazan says that the facts on The List are scientifically researched and time-tested.
 
@@ -17,7 +16,7 @@
 **127.** Short people have smaller bodies, but regular-sized hearts, so their heart-to-flesh ratio is larger, making them more compassionate.
 **236.** Short people are more humble.
 **257.** A tall person can shield you from dragon breath.
-Unknown number. Short people are better because it takes them longer to walk places, therefore they get more exercise.
+**Unknown number.** Short people are better because it takes them longer to walk places, therefore they get more exercise.
 
 
 

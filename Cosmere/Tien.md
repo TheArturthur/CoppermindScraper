@@ -12,9 +12,9 @@
 |**Groups**|Amaram's army|
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -57,7 +57,7 @@ Tien has a fixation with rocks, of which he owns a large catalogued collection. 
 Tien is an excitable person and always seems to find beauty in things that others would consider mundane. He is an optimist and tries to please those around him as well as brighten their day. He shares similar traits with [[Shallan Davar\|Shallan Davar]], a fellow [[Order of Lightweavers\|Lightweaver]], both of whom are artistically talented and work to raise the spirits of those around them. Tien was seen as a burst of sunshine by those around him, particularly Kaladin, and did not want people to see him differently, implying some self-esteem issues.
 
 ## Attributes and Abilities
-Before he died, Tien bonded a [[Cryptic\|Cryptic]] and swore at least the first oath. As a Lightweaver, he could access the [[Surge\|Surges]] of [[Illumination\|Illumination]] and [[Soulcasting\|Soulcasting]], had [[Resonance\|enhanced mnemonic abilities]] and experienced color and light differently to those around him. Tien's perception of someone could also cause slight alterations to their mood. Tien attracted a Cyrpitc due to his hiding belief that he was not a good person, as he knew people saw him as a burst of sunshine and he didn't want them to see differently.
+Before he died, Tien bonded a [[Cryptic\|Cryptic]] and swore at least the first oath. As a Lightweaver, he could access the [[Surge\|Surges]] of [[Illumination\|Illumination]] and [[Transformation\|Transformation]], had [[Resonance\|enhanced mnemonic abilities]] and experienced color and light differently to those around him. Tien's perception of someone could also cause slight alterations to their mood. Tien attracted a Cryptic due to his hiding belief that he was not a good person, as he knew people saw him as a burst of sunshine and he didn't want them to see differently.
 The [[Skybreakers\|Skybreakers]] knew Tien was bonded to a Cryptic while he served in [[Amaram\|Amaram's]] army, and believed him to be the only Surgebinder within Amaram's forces. Through their spying on the group, the Ghostbloods are aware that there was at least one manifested Radiant within Amaram's army, who had been killed. This information is passed on to Shallan, from [[Mraize\|Mraize]]. The whereabouts of Tien's spren are unknown.
 
 ## History
@@ -106,10 +106,11 @@ Tien is almost always able to lift his brother's mood and helps [[Kaladin\|Kalad
 Tien and Kaladin often spend time together as children and play pranks on the other members of their family. During their childhoods, they would wrestle for fun as well as play catch and climb rocks with [[Laral\|Laral]]. Of the three of them, Laral was always the better climber.
 Tien's death greatly affected Kaladin, for which he still feels immense guilt and anger over. After his brothers death, Kaladin began to recruit young boys to his army unit, who had been put in similar positions to Tien, in the hopes of saving them. He also threw himself into training to distract himself from his brothers death, until he was eventually pulled out of his single mindedness by [[Tarah\|Tarah]]. He continued to carry around Tien's rocks while in the army, though rarely brought them out, and mistook others to be his brother both before and after he was made a slave.
 Unable to face his parents and his broken promises, Kaladin intended to re-enlist at the end of his four year tour, and continued to carry his guilt after being forced into slavery. After [[Amaram\|Amaram's]] betrayal, Kaladin began blaming the Brightlord, along with himself, for breaking the promises he had made. Even after being freed from slavery, Kaladin still refused to contact his parents because of his brother's death.
+Many years later, when Kaladin is attempting suicide after [[Teft\|Teft's]] death, [[Dalinar\|Dalinar]] uses his Bondsmith abilities to Connect Kaladin to a "memory" of Tien, showing Kaladin a vision similar to ones Dalinar has seen. In the vision, Tien manages to convince Kaladin that his friends' deaths aren't his fault, and that Kaladin was able to help them in their difficult times, and that's what matters. This leads Kaladin to speak his Fourth Ideal. It is unclear if this is actually Tien's soul, or if it is simply a memory of him.
 
 ## Trivia
 There was no specific inspiration for the relationship between Kaladin and Tien; instead it grew naturally out of Kaladin's characterization. Brandon has also said he has a preference away from family relationships that cause isolation, as he finds the dynamics within families interesting and important to readers.
-It is a coincidence that Tien, a surgeon's son, has a name that contains the Aon for healing.
+It is mostly a coincidence that Tien, a surgeon's son, has a name that contains the Aon for healing.
 
 
 https://coppermind.net/wiki/Tien

@@ -1,9 +1,8 @@
 |**Shiki**|
 |-|-|
 |**Origin**|[[Horneater Peaks\|Horneater Peaks]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Oathbringer*|
 
 **Shiki** is an [[Unkalaki\|Unkalaki]] drink on [[Roshar\|Roshar]].
 

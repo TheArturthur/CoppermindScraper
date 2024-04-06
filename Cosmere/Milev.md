@@ -4,9 +4,8 @@
 |**Groups**|[[Camon's crew\|Camon's crew]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Milev** was a dark skinned skaa from [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]].
 He acted as [[Camon\|Camon's]] second in command in the thief crew and was given leadership of the crew by [[Kelsier\|Kelsier]].

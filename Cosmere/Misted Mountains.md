@@ -1,10 +1,9 @@
 |**Misted Mountains**|
 |-|-|
 |**Type**|Mountains|
-|**Region**|[[Shinovar\|Shinovar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shinovar\|Shinovar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Misted Mountains** are a mountain range located on the eastern border of [[Shinovar\|Shinovar]] on [[Roshar\|Roshar]].
 

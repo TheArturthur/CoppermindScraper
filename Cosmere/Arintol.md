@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Solicitor|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Arintol** is a solicitor in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

@@ -1,9 +1,8 @@
 |**Keseg**|
 |-|-|
 |**Nationality**|[[JinDo\|JinDo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*Keseg taught of unity. But what did he mean? Unity of mind, as my people assume? Unity of love, as your priests claim? Or is it the unity of obedience, as the Derethi believe? In the end, I am left to ponder how mankind managed to complicate such a simple concept.*”
 \-Shuden on Keshu's teachings[1]

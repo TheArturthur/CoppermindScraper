@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|342 [[Catacendre\|PC]]|
 |**Residence**|[[New Seran\|New Seran]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lady **Kelesina Shores** is a noble resident of [[New Seran\|New Seran]]. She is a believer in the freedom of New Seran and other cities in the [[Elendel Basin\|Elendel Basin]] from Elendel, going so far as to collaborate with the [[Set\|Set]].
 

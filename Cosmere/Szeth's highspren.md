@@ -3,9 +3,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Skybreaker\|Skybreaker]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Szeth\|Szeth]]|
 |**Species**|[[Highspren\|Highspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*Continue your duty for now. But remember, the time will soon come when you must abandon it for something greater.*”
@@ -37,7 +37,7 @@ Szeth's spren can make itself invisible. It is likely that it can exert a small 
 Its bond with Szeth gives it sentience in the Physical Realm and grants Szeth the [[Surges\|Surges]] of [[Gravitation\|Gravitation]] and [[Division\|Division]]. This bond is strengthened as Szeth swears additional [[Immortal Words\|Ideals]]. Since Szeth is of the Third Oath, his spren should be able to form a [[Shardblade\|Shardblade]], but it has yet to do so.
 
 ## History
-It bonded Szeth at some point before the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. During the battle, Szeth swore his Third Ideal and the highspren approved. Since then, it has remained by his side, always judging his worthiness. While Szeth was guarding [[Gavinor\|Gavinor]] and [[Dalinar\|Dalinar]] on the [[Emul\|Emuli]] front, his highspren chose to show himself to him in order to give him direction on his progression through the Ideals. It told him he needed to complete his Fourth Ideal quest soon, and that he needed to rely more on his own judgement rather than that of Dalinar as part of his progress towards this Fifth Ideal.
+It bonded Szeth at some point before the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. During the battle, Szeth swore his Third Ideal and the highspren approved. Since then, it has remained by his side, always judging his worthiness. While Szeth was guarding [[Gavinor\|Gavinor]] and [[Dalinar\|Dalinar]] on the [[Emul\|Emuli]] front, his highspren chose to show itself to him in order to give him direction on his progression through the Ideals. It told him he needed to complete his Fourth Ideal quest soon, and that he needed to rely more on his own judgement rather than that of Dalinar as part of his progress towards this Fifth Ideal.
 
 
 

@@ -2,12 +2,14 @@
 |-|-|
 |**Born**|Sixth Generation|
 |**Species**|[[Kandra\|Kandra]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*The Bands of Mourning*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **VenDell** is an elder [[Kandra\|kandra]] of the Sixth generation.
-According to [[MeLaan\|MeLaan]], they enjoy being asked questions about being a kandra, and has also made comments on human sexuality.
+According to [[MeLaan\|MeLaan]], he enjoys being asked questions about being a kandra, and has also made comments on human sexuality.
 He has [[Breeze\|Breeze's]] hands.
 
 ## Contents

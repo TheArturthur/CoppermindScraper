@@ -1,8 +1,7 @@
 |**Rtich (Epic)**|
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 For the device with the same name, see [[Rtich\|Rtich]].
 **Rtich** (pronounced "r'teech") was a Russian [[Epic\|Epic]] with mercury manipulating powers.
 

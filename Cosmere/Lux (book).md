@@ -8,17 +8,17 @@
 |**Publisher**||
 
 For the city, see [[Lux (city)\|Lux (city)]].
-*Lux: A Texas Reckoners Novel* is a novel set in the universe of *The Reckoners*. It was developed under Brandon's [[Mainframe\|Mainframe]] production company, which is focused on audio originals. It was released as an Audible original on July 22, 2021. A print version is planned at some point in the future.
+*Lux: A Texas Reckoners Novel* is a novel set in the universe of [[The Reckoners\|The Reckoners]]. It was developed under Brandon's [[Mainframe\|Mainframe]] production company, which is focused on audio originals. It was released as an Audible original on July 22, 2021. A print version is planned at some point in the future.
 
 ## Contents
 
-1 Cover Synopsis
+1 Synopsis
 2 Summary
 3 Development
 4 Notes
 
 
-## Cover Synopsis
+## Synopsis
 >“*A new team of Reckoners must infiltrate the flying city of Lux to take down the Epic Lifeforce in this audio-exclusive novel from Brandon Sanderson, the best-selling author of the Stormlight Archive and Mistborn series, and co-author Steven Michael Bohls.*
 \-When the great red star Calamity appeared in the sky, some believed the end had come. They were right.
 Calamity created the Epics: humans with incredible powers they didn't deserve.
@@ -31,8 +31,7 @@ To avenge what has been lost. And rise anew.
 ## Summary
 For a complete chapter by chapter summary, see [[Lux (book)/Summary\|/Summary]].
 [[Jax (Reckoners)\|Jax]], a young Texas [[Reckoners\|Reckoner]], engages in a confrontation against the [[Epic\|Epic]] [[Wingflare\|Wingflare]]. The story then goes back several years to Jax’s backstory, in which the Epic [[Lovestruck\|Lovestruck]] kills his beloved older brother. Jax is then recruited by [[Prof\|Prof]], who introduces him to the Reckoners and takes him to the [[Coop\|Reckoners training facility]]. Jax is personally trained to be a Reckoner by [[Zeff\|Zeff]], the head trainer there. After an operation goes awry, leaving Zeff dead, Jax and the remaining Texas Reckoners decide to infiltrate the flying city of [[Lux (city)\|Lux]], ruled by the High Epic [[Lifeforce\|Lifeforce]].
-They climb up into the city, disguising their weapons and gear using a motivator. Lux is kept in the air by an Epic called Wingflare, and the Reckoners sneak a motivator into the power grid so they can wrest control of the city from her. They try to assssinate Lifeforce, but they are betrayed by [[Briggen\|Briggen]], a member of their team. They neutralize the other Epics in Lux. They confront Lifeforce, who has given himself Wingflare’s powers through scientific experimentation. Jax kills Lifeforce after figuring out his weakness. As he dies,
-Lifeforce injects a serum into [[Paige\|Paige]], one of the Reckoners. As Lifeforce dies, Lux slowly drifts into the sea. Paige awakes weeks later, with a mean attitude and dark thoughts. She hears a voice in her head, telling her that it is the demon that had lived inside Lifeforce. It calls itself [[Deathrise\|Deathrise]].
+They climb up into the city, disguising their weapons and gear using a motivator. Lux is kept in the air by an Epic called Wingflare, and the Reckoners sneak a motivator into the power grid so they can wrest control of the city from her. They try to assssinate Lifeforce, but they are betrayed by [[Briggen\|Briggen]], a member of their team. They neutralize the other Epics in Lux. They confront Lifeforce, who has given himself Wingflare’s powers through scientific experimentation. Jax kills Lifeforce after figuring out his weakness. As he dies, Lifeforce injects a serum into [[Paige\|Paige]], one of the Reckoners. As Lifeforce dies, Lux slowly drifts into the sea. Paige awakes weeks later, with a mean attitude and dark thoughts. She hears a voice in her head, telling her that it is the demon that had lived inside Lifeforce. It calls itself [[Deathrise\|Deathrise]].
 
 ## Development
 In 2019, [[Steven Michael Bohls\|Steven Michael Bohls]] mentioned that he was working with Brandon on an expansion to the *Reckoners* universe, and had been given quite a bit of autonomy on the project. It was conceived as both a spinoff and a sequel of the original trilogy, following a different team of Reckoners. Steven anticipated writing three novellas for the audio original format that would then be consolidated as a sequel in print.

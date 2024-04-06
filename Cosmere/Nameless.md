@@ -1,10 +1,9 @@
 |**Nameless**|
 |-|-|
 |by  Isaac Stewart |
-|**Region**|[[Sea of Souls\|Sea of Souls]]🐱︎|
-|**World**|[[Shadesmar\|Shadesmar]]🐱︎|
+|**Region**|[[Sea of Souls\|Sea of Souls]]|
+|**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*This place is literally called, 'Nameless'.*”
 \-Nazh’s notes on his Sea of Souls map[1]
@@ -45,7 +44,7 @@ Spren in the town wear a mixture of different [[Physical Realm\|Physical Realm]]
 
 
 A range of items are available for purchase at the marketplace including, books, weapons, and food and water.
-The market stalls are predominantly run by [[Cultivationspren\|cultivationspren]], however, [[Highspren\|highspren]] and [[Inkspren\|inkspren]] merchants have also set up stalls. Many of the merchants are able to speak [[Alethi\|Alethi]] and/or [[Azish\|Azish]]. At least some merchant’s cater, at least in part, to humans and have travel necessities, such as food and water, available for purchase. Permanent market stalls are open sided and set against the front side of the stall owners home.
+The market stalls are predominantly run by [[Cultivationspren\|cultivationspren]], however, [[Highspren\|highspren]] and [[Inkspren\|inkspren]] merchants have also set up stalls. Many of the merchants are able to speak [[Alethi\|Alethi]] and/or [[Azish\|Azish]]. At least some merchants cater, at least in part, to humans and have travel necessities, such as food and water, available for purchase. Permanent market stalls are open sided and set against the front side of the stall owners home.
 
 ## Occupants
 The town is made up of a large variety of sapient spren, including both Radiant and non-Radiant spren. Many of the spren do not permanently live in the town and are instead passing through as caravaneers or sailors.

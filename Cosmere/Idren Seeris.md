@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Lord **Idren Seeris** is a [[Noble\|noble]] on Scadrial. He is a cousin of [[House Elariel\|House Elariel]].
 He wears eyeglasses.

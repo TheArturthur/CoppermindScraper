@@ -3,7 +3,6 @@
 |**Location**|[[Tranquiline Halls\|Tranquiline Halls]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
 It has been suggested that this page be merged into [[Vorinism\|Vorinism]].The information on this page is much better suited to be included on other pages.

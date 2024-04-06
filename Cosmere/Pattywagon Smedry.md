@@ -4,8 +4,7 @@
 |**Children**|[[Quentin Smedry\|Quentin]], [[Folsom Smedry\|Folsom]]|
 |**Parents**|[[Leavenworth Smedry\|Leavenworth]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*Fantasy novels. Ah, well. Rot your brain if you want. You’re old enough that I can’t tell you what to do, though I’m glad you kicked that bed-wetting habit before you moved out!*”
 \-Pattywagon Smedry to her son Folsom[1]

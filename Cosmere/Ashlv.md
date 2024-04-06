@@ -1,12 +1,13 @@
 |**Ashlv**|
 |-|-|
+|by  Deepteadraws |
 |**Family**|
 |**Spouse**|[[Tozbek\|Tozbek]]|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Ashlv** is a [[Thaylen\|Thaylen]] woman on [[Roshar\|Roshar]]. She is a crewmember of the *Wind's Pleasure*, a ship captained by her husband,[[Tozbek\|Tozbek]].
 

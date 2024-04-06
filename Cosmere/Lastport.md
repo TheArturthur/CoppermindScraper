@@ -1,9 +1,8 @@
 |**Lastport**|
 |-|-|
-|**Region**|[[Forests of Hell\|The Forests of Hell]]🐱︎|
-|**World**|[[Threnody\|Threnody]]🐱︎|
+|**Region**|[[Forests of Hell\|The Forests of Hell]]|
+|**World**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence in the Forests of Hell*|
 
 **Lastport** is a city on [[Threnody\|Threnody]], one of the [[Fortress Town\|Fortress Towns]] near the [[Forests of Hell\|Forests of Hell]].
 Lastport is the most powerful city on its continent. [[Daggon\|Daggon]] notes that Lastport resident [[Lamentation Winebare\|Lamentation Winebare]] has a squeaky, noticeable accent.

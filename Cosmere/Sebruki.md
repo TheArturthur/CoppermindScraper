@@ -3,9 +3,9 @@
 |**Forescout**|
 |**Parents**|[[Silence Montane\|Silence Montane]] |
 |**Siblings**|[[William Ann\|William Ann]] |
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
+|**First Appeared**|*Shadows for Silence in the Forests of Hell*|
 
 **Sebruki** is an eight year-old girl who works for [[Silence Montane\|Silence Montane]] at her [[Silence's waystop\|waystop]] in the [[Forests of Hell\|Forests of Hell]] on [[Threnody\|Threnody]].
 

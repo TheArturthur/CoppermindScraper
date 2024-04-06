@@ -1,12 +1,11 @@
 |**Kindwinds**|
 |-|-|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|Kindwinds the Honest|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*I was a priest, even then. I worked in the palace of Kindwinds the Honest. I saw how he lied to play political games. The longer I stayed in that palace, the more my faith waned.*”
 \-Llarimar on Kindwinds[1]
@@ -25,4 +24,4 @@ Perfect Life Sense - allows him to sense people around him.
 Agelessness - makes him immune to most toxins and physical ailments, as well as making him functionally immortal.
 
 
-https://coppermind.net/wiki/Kindwinds
+https://coppermind.net/wiki/Kindwinds_the_Honest

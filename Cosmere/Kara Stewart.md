@@ -1,6 +1,5 @@
-**Kara Stewart** is a member of [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] as the manager of Sanderson's store. She handles sales, signings, shipping and everything else related.
-
-Married to [[Isaac Stewart\|Isaac Stewart]], the artist behind some of the interior art in [[The Stormlight Archive\|The Stormlight Archive]] and the [[Mistborn (series)\|Mistborn series]].
+**Kara Stewart** is the CFO and Merchandise Director for [[Dragonsteel Entertainment\|Dragonsteel Entertainment]]. She leads a team known as "Team Silverlight" and handles sales, signings, release parties, shipping, and everything else related. She manages [[Brandon Sanderson\|Brandon Sanderson's]] store, known as Dragonsteel Books, and has overseen fulfillment for Brandon's Kickstarter campaigns.
+She is married to [[Isaac Stewart\|Isaac Stewart]], Dragonsteel's art director. The Stewarts are longtime friends of Brandon's, and worked with Brandon very early in his writing career. Brandon eventually tried to hire Kara, and ended up conveniently hiring Isaac as well; they officially joined Dragonsteel in 2013. Isaac and Kara are part of Brandon's writing group and provide very early feedback on his novels.
 
 
 

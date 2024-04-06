@@ -1,10 +1,10 @@
 |**Betha**|
 |-|-|
+|by  Deepteadraws |
 |**Profession**|Thug|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*One of the barmaids here. That we couldn’t let pass. We protect this place, you see.*”
 \-Betha when explaining to Shallan why her group had killed Ned.[1]

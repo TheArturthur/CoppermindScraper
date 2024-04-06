@@ -2,11 +2,11 @@
 |-|-|
 |**Born**|ca. 300 [[Heraldic Epochs\|Eighth Epoch]]|
 |**Died**|*Unknown*|
-|**Abilities**|[[Order of Stonewards\|Stoneward]], [[Shardbearer\|Shardbearer]]🐱︎|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
-|**World**|[[Roshar\|Roshar]]|
+|**Abilities**|[[Order of Stonewards\|Stoneward]], [[Shardbearer\|Shardbearer]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*It is our duty and our privilege to stay vigilant for the Desolation. One kingdom to study the arts of war so that the others might have peace. We die so that you may live. It has ever been our place.*”
 \-The Starfalls Stoneward[1]

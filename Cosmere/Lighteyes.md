@@ -2,9 +2,8 @@
 |-|-|
 |by  BBQShapez |
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -27,6 +26,11 @@ A **lighteyes** is a person with lightly colored, bright eyes, such as blue, gre
 
 5.1 First dahn
 5.2 Second dahn
+
+5.2.1 Alethkar
+5.2.2 Jah Keved
+
+
 5.3 Third dahn
 5.4 Fourth dahn
 5.5 Eighth dahn
@@ -40,7 +44,7 @@ A **lighteyes** is a person with lightly colored, bright eyes, such as blue, gre
 According to the [[Vorin\|Vorin]] religion, all lighteyes are born to rule and are superior to the [[Darkeyes\|darkeyes]], leading to a class system based on eye color.
 The defining characteristic of a lighteyes is not merely the actual color of their eyes, but that they have a light and distinguishable color. For example, although grey is not normally considered a bright color, having light grey eyes qualifies one as a lighteyes. Conversely, although green is normally seen as a light color, having deep, dark green eyes that look muddled and is hard to distinguish from brown or black in average light would qualify one as a [[Darkeyes\|darkeyes]].
 A male lighteyes of notable rank is addressed by the title Brightlord. Similarly, Brightlady is used to address high-ranking females, although the more common term of address is Brightness. Brightness can be used to address a lighteyed lady of any rank.
-Sometimes when important lighteyes die, their corpses are soulcasted into stone statues, as opposed to [[Darkeyes\|darkeyes]] corpses, which are typically burned. It is unknown how common this practice is among lighteyes of lower dahn or among lighteyes outside of [[Alethkar\|Alethkar]].
+Sometimes when important lighteyes die, their corpses are Soulcast into stone or metal statues. This practice sometimes extends to wealthy [[Darkeyes\|darkeyes]] as well, but darkeyes corpses are typically burned instead. Conversely, the method of final disposition of the corpses of lighteyes of lower dahn is unknown. This practice is observed in both [[Alethkar\|Alethkar]] and [[Jah Keved\|Jah Keved]], despite the rarity of Soulcasters even in nations as powerful as Jah Keved, and likely extends to other Vorin nations.
 
 ## Changing eye color
 Permanently changing one's birth eye color is generally not possible. However, two exceedingly rare methods are currently known to change one's eye color.
@@ -58,8 +62,8 @@ This page or section deals with theories or speculation.Please read carefully an
 
 |**Dahn**|**People of the rank**|
 |-|-|
-|1st|The King|
-|2nd|Highprinces, their direct heirs, and the King's direct heir.|
+|1st|The Reigning monarch|
+|2nd|Highprinces, their direct heirs, and the Monarch’s direct heir.|
 |3rd|*Generals*, Highlords, and the non-inheriting children of 1st and 2nd dahn lighteyes.|
 |4th|Battalionlords and/or Shardbearers|
 |5th|*Companylords*|
@@ -76,7 +80,7 @@ The position of *Citylord*, may span multiple dahn, including fourth, fifth, and
 Dahn is the caste system for lighteyes. Its counterpart for [[Darkeyes\|darkeyes]] is the [[Nahn\|nahn]] system.
 Since lighteyes are nobility in the Vorin kingdoms, the dahn system is superior to the nahn system. Holding even the tenth and lowest dahn socially outranks the highest level of [[Nahn\|nahn]]. However, there are situations in which practical reality makes the social standing between two persons less relevant or even reversed. For an extreme example, after [[Kaladin\|Kaladin]], a darkeyes, was promoted to captain, he was socially outranked by many lighteyed soldiers, yet still possessed higher military rank and authority than them. A worker, such as a carriage driver, would treat a wealthy darkeyes as any other master, since their wages would be paid by the darkeyed passenger.
 Within the dahn system itself, there are ten different levels ranging from one to ten, with one being the highest and ten being the lowest. The highest levels of dahn implies immense power and authority while those at the lowest level of dahn are merely ordinary people.
-The first dahn consists of the king. The second dahn contains the highprinces. The third dahn is made up, at least in part, of the non-heir children of the king, the non-heir children of highprinces, and highlords. The fourth dahn includes lighteyes who hold the position of battalionlord in the army; battalionlords command a full battalion of a thousand men. The seventh dahn includes lower ranking officers in the army who are landless and attached to a more powerful officer's retinue.
+The first dahn consists of the king. During the period when Alethkar was a powerful nation but not unified, the ten ruling highprinces were only second dahn. Rulers of smaller nations like Kharbranth, Bavland or Silnasen would accept the role of second dahn to avoid antagonizing the Alethi, though the rulers of Jah Keved and Thaylen had enough clout to consider their rulers to be first dahn, and a nation like Herdaz wouldn't generally care if they upset the Alethi. The second dahn contains the highprinces. The third dahn is made up, at least in part, of the non-heir children of the king, the non-heir children of highprinces, and highlords. The fourth dahn includes lighteyes who hold the position of battalionlord in the army; battalionlords command a full battalion of a thousand men. The seventh dahn includes lower ranking officers in the army who are landless and attached to a more powerful officer's retinue.
 People in the tenth and lowest level of dahn are colloquially known as "tenners" and are looked down upon as being barely above darkeyes. Unlike high dahn lighteyes—who might make a living from their landed estates or by ruling over other men—or even high nahn darkeyes—who might be merchants or master craftsmen—tenners have to actually work for a living.
 
 ### Moving between ranks
@@ -90,43 +94,47 @@ However, special rules apply to those of very high dahn or who hold certain spec
 
 ## Notable lighteyes
 ### First dahn
-King [[Gavilar Kholin\|Gavilar Kholin]], King of [[Alethkar\|Alethkar]]
-King [[Elhokar Kholin\|Elhokar Kholin]], King of [[Alethkar\|Alethkar]]
+King [[Dalinar Kholin\|Dalinar Kholin]], King of [[Urithiru\|Urithiru]].
 Queen [[Jasnah Kholin\|Jasnah Kholin]], Queen of [[Alethkar\|Alethkar]] (A ruler in her own right instead of marriage, in defiance of [[Vorin\|Vorin]] tradition).
-King [[Hanavanar\|Hanavanar]], King of [[Jah Keved\|Jah Keved]]
-King [[Valam\|Valam]], King of [[Jah Keved\|Jah Keved]]
-King [[Taravangian\|Taravangian]], King of [[Jah Keved\|Jah Keved]]
-Queen [[Fen Rnamdi\|Fen Rnamdi]], Queen of [[Thaylenah\|Thaylenah]]
+King [[Gavilar Kholin\|Gavilar Kholin]], former King of [[Alethkar\|Alethkar]].
+King [[Elhokar Kholin\|Elhokar Kholin]], former King of Alethkar.
+King [[Hanavanar\|Hanavanar]], former King of [[Jah Keved\|Jah Keved]].
+King [[Valam\|Valam]], former King of Jah Keved
+King [[Taravangian\|Taravangian]], former King of Jah Keved, and [[Kharbranth\|Kharbranth]].
+Queen [[Fen Rnamdi\|Fen Rnamdi]], Queen of [[Thaylenah\|Thaylenah]].
 ### Second dahn
-Navani Kholin, Dowager Queen of Alethkar
-Queen [[Aesudan Kholin\|Aesudan Kholin]], Queen of [[Alethkar\|Alethkar]]
-[[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]], [[Highprince of War\|Highprince of War]]
-Highprince [[Adolin Kholin\|Adolin Kholin]]
+
+Queen [[Navani Kholin\|Navani Kholin]], Queen of Urithiru.
+Queen [[Aesudan Kholin\|Aesudan Kholin]], Queen of Alethkar.
+Prince [[Gavinor Kholin\|Gavinor Kholin]], heir to Alethkar.
+Highprince [[Adolin Kholin\|Adolin Kholin]].
 Highprincess [[Shallan Davar\|Shallan Davar]]
-Highprince [[Torol Sadeas\|Torol Sadeas]], [[Highprince of Information\|Highprince of Information]]
-Highprincess [[Ialai Sadeas\|Ialai Sadeas]]
-Highprince [[Aladar\|Aladar]], [[Highprince of Information\|Highprince of Information]]
-Highprince [[Bethab\|Bethab]]
-Highprince [[Hatham\|Hatham]], [[Highprince of Works\|Highprince of Works]]
-Highprince [[Roion\|Roion]]
-Highprince [[Ruthar\|Ruthar]]
-Highprince [[Sebarial\|Sebarial]], [[Highprince of Commerce\|Highprince of Commerce]]
-Highprince [[Thanadal\|Thanadal]]
-Highprince [[Vamah\|Vamah]]
+Prince [[Renarin Kholin\|Renarin Kholin]], Heir to the [[Kholin princedom\|Kholin princedom]].
+Highprince [[Aladar\|Aladar]], [[Highprince of Information\|Highprince of Information]].
+Highprince [[Bethab\|Bethab]].
+Highprince [[Hatham\|Hatham]], [[Highprince of Works\|Highprince of Works]].
+Highprince [[Turinad Sebarial\|Turinad Sebarial]], [[Highprince of Commerce\|Highprince of Commerce]].
+Highprince [[Relis Ruthar\|Relis Ruthar]].
+
+[[Abrial\|Abrial]]
+[[Boriar\|Boriar]]
+[[Evinor\|Evinor]]
+[[Jal Mala\|Jal Mala]]
+[[Valam\|Valam]]
+[[Urian\|Urian]]
 ### Third dahn
-Highlord [[Meridas Amaram\|Meridas Amaram]], absendiar highmarshal of the Sadeas princedom
-[[Jakamav\|Jakamav]], landlord and [[Shardbearer\|Shardbearer]] under Highprince Roion
-[[Renarin Kholin\|Renarin Kholin]], son of Highprince Dalinar Kholin
+[[Jakamav\|Jakamav]], landlord and [[Shardbearer\|Shardbearer]] under Highprince Roion.
 ### Fourth dahn
-[[Moash\|Moash]], Lieutenant of the bridgemen and Shardbearer under Highprince Dalinar
-[[Lin Davar\|Lin Davar]], Head of [[House Davar\|House Davar]] and Shallan's father
-[[Nan Balat\|Nan Balat]], Shallan's brother
-[[Kaladin Stormblessed\|Kaladin Stormblessed]], Knight Radiant, Order of Windrunners (by virtue of Shardblade)
-[[Teft\|Teft]], Knight Radiant, Order of Windrunners (by virtue of Shardblade)
+[[Moash\|Moash]], Lieutenant of the bridgemen and Shardbearer under Highprince Dalinar.
+[[Lin Davar\|Lin Davar]], Head of [[House Davar\|House Davar]] and Shallan's father.
+[[Balat Davar\|Balat Davar]], Shallan's brother.
+[[Helaran Davar\|Helaran Davar]], Shallan's brother. (by virtue of Shardblade)
+[[Kaladin Stormblessed\|Kaladin Stormblessed]], Knight Radiant, Order of Windrunners. (by virtue of Shardblade)
+[[Teft\|Teft]], Knight Radiant, Order of Windrunners. (by virtue of Shardblade)
 ### Eighth dahn
 [[Jix\|Jix]], Davar household guard
 ### Tenth dahn
 [[Rind\|Rind]], Kholin head quartermaster
 
 
-https://coppermind.net/wiki/Lighteyed
+https://coppermind.net/wiki/Brightlady

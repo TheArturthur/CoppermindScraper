@@ -1,9 +1,8 @@
 |**Dob**|
 |-|-|
 |**Profession**|Stable hand|
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 >“* I'm an idiot, mam. Not a fool.*”
 \- Dob[1]

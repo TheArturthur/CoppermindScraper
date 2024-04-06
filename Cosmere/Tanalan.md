@@ -6,9 +6,8 @@
 |**Died**|1163|
 |**Residence**|[[Rathalas\|Rathalas]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the previous lord of [[Rathalas\|Rathalas]], see [[Tanalan's father\|Tanalan's father]].
 **Tanalan** is the lord of [[Rathalas\|Rathalas]] (also known as the Rift). He has violet eyes and a nasally accent that is typical for the region. Tanalan holds an intense hatred for Dalinar due to the death of his father.

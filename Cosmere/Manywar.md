@@ -5,7 +5,6 @@
 |**Effects**|Destruction of [[Huth\|Huth]] and [[Kuth\|Kuth]]Foundation of [[Hallandren\|Hallandren]] and [[Idris\|Idris]]|
 |**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“* What some are calling a 'simple quelling of rebel factions' could easily spin into another Manywar. Do you want that? Thousands upon thousands dead? Kingdoms falling to never rise again?*”
 \- Bebid, a priest of Brightvision[1]
@@ -63,7 +62,7 @@ The [[Tears of Edgli\|Tears of Edgli]] had made Hanald an economic powerhouse. T
 
 ### Awakening Developments
 The process of [[Awakening\|Awakening]] [[Lifeless\|Lifeless]] had already been developed before the Manywar. However, the Commands that had been known previously required fifty [[Breath\|Breaths]] to create a single Lifeless. This stymied nations' ability to create a large Lifeless army, as it was simply too costly.
-However, one of the [[Five Scholars\|Five Scholars]], [[Shashara\|Shashara]], was spurred by [[Yesteel\|Yesteel's]] development of [[Ichor-alcohol\|ichor-alcohol]] into making a new discovery. She invented a Command that allowed for the creation of a Lifeless with a single Breath. Together these discoveries allowed rulers to effectively double the size of their armies; along with the fact that the new troops did not eat, take pay, or feel pain and fear. Larger standing armies could be created. This made the Manywar the first conflict on Nalthis to utilize Lifeless in great numbers. Powerful Awakeners fought, and ropes were used as siege engines, Awakened to throw boulders. The power disparity between those with the new Lifeless Command and those without was another cause of the Manywar.
+However, one of the [[Five Scholars\|Five Scholars]], [[Shashara\|Shashara]], invented a Command that allowed for the creation of a Lifeless with a single Breath. Alongside [[Yesteel\|Yesteel's]] development of [[Ichor-alcohol\|ichor-alcohol]], these discoveries allowed rulers to effectively double the size of their armies; along with the fact that the new troops did not eat, take pay, or feel pain and fear. Larger standing armies could be created. This made the Manywar the first conflict on Nalthis to utilize Lifeless in great numbers. Powerful Awakeners fought, and ropes were used as siege engines, Awakened to throw boulders. The power disparity between those with the new Lifeless Command and those without was another cause of the Manywar.
 New Commands were also being discovered rapidly, and a golden age of Awakening took place, due in large part to the Five Scholars. These new discoveries helped further learning and knowledge, but they also provided dangerous weapons. The House of Idris, ruling family of Hanald, was particularly interested in Awakening, and gained powerful Awakeners and Lifeless.
 
 ### The Returned's Prophecy
@@ -78,14 +77,14 @@ As the Manywar began, the Five Scholars each seemed to go their own way. It appe
 
 ### Creation of Nightblood
 For more information, see [[Nightblood\|Nightblood]].
-Working together, Vasher and Shashara successfully managed to develop Nightblood, a Type IV Biochromatic Entity. Patterned after [[Shardblade\|Shardblades]] that Vasher had seen on a visit to the planet [[Roshar\|Roshar]], Nightblood was designed to be a similarly destructive weapon. Through a complex and experimental process they created a sentient sword with a Command to destroy evil. Unfortunately, as a sword, Nightblood had no concept of the difference between good and evil, and so could be used to wreak great destruction.
+Working together, Vasher and Shashara successfully managed to develop Nightblood, a Type IV BioChromatic Entity. Patterned after [[Shardblade\|Shardblades]] that Vasher had seen on a visit to the planet [[Roshar\|Roshar]], Nightblood was designed to be a similarly destructive weapon. Through a complex and experimental process they created a sentient sword with a Command to destroy evil. Unfortunately, as a sword, Nightblood had no concept of the difference between good and evil, and so could be used to wreak great destruction.
 
 ## Late Events
 ### The Battle of Twilight Falls
 The Battle of Twilight Falls was the final engagement of the Manywar. It was the only battle of the Manywar where Nightblood was used in the battle. The sheer number of casualties caused by Shashara wielding Nightblood was devastating. Over the course of the battle, the leader of the Pahn Unity, the coalition of nations against Hanald, was killed.
 
 ### Death of Shashara
-Vasher was horrified by the destruction caused by the use of Nightblood. Shashara planned on revealing the secrets of how to create Type IV Biochromatic Entities to the rest of Nalthis. Vasher disagreed, believing that he couldn't allow such powerful weapons to become widely available. He and Shashara argued about it, and he ended up murdering her with Nightblood to stop her. Furious at the death of his sister, Denth defected from Vasher's side and never forgave him for it.
+Vasher was horrified by the destruction caused by the use of Nightblood. Shashara planned on revealing the secrets of how to create Type IV BioChromatic Entities to the rest of Nalthis. Vasher disagreed, believing that he couldn't allow such powerful weapons to become widely available. He and Shashara argued about it, and he ended up murdering her with Nightblood to stop her. Furious at the death of his sister, Denth defected from Vasher's side and never forgave him for it.
 
 ## Resolution
 ### Return of Kalad's Phantoms
@@ -97,7 +96,7 @@ Vasher also gave up the majority of his Breaths, around fifty thousand or so tha
 
 ### Shattering of Hanald
 
-For reasons unknown to the modern world, the House of Idris fled T'Telir. They traveled to the northern highlands of Hanald, bringing the religion of [[Austrism\|Austrism]] with them, and established the kindgom of Idris. Though they had previously experimented with Awakening, they turned their backs on it as a result of their recent experiences, and used the tenets of Austrism to make Awakening sound immoral and evil. This fear of Awakening had a deep impact on Idrian culture, and many superstitions grew up around Awakening. For example, Idrians always wear drab colors, such as black, greys, or tans, so Awakeners can not use that color. However, this is based on misconception, as an Awakener could use those colors anyway. As a result of this isolation and distrust, Idrians are, for the most part, totally ignorant about how Awakening works.
+For reasons unknown to the modern world, the House of Idris fled T'Telir. They traveled to the northern highlands of Hanald, bringing the religion of [[Austrism\|Austrism]] with them, and established the kingdom of Idris. Though they had previously experimented with Awakening, they turned their backs on it as a result of their recent experiences, and used the tenets of Austrism to make Awakening sound immoral and evil. This fear of Awakening had a deep impact on Idrian culture, and many superstitions grew up around Awakening. For example, Idrians always wear drab colors, such as black, greys, or tans, so Awakeners can not use that color. However, this is based on misconception, as an Awakener could use those colors anyway. As a result of this isolation and distrust, Idrians are, for the most part, totally ignorant about how Awakening works.
 
 
 In the wake of the Idrian Royal family's departure, and Vasher's step down from military dictatorship, the Cult of the Returned took control of the new nation, naming it Hallandren. Their religion eventually evolved into the [[Iridescent Tones\|Iridescent Tones]] and became the norm within Hallandren's territory. The only notable exception was Pahn Kahl, which was absorbed into the new nation of Hallandren as a province, where the people retained their own religion and culture. The conclusion of the Manywar was also the foundation for Hallandren's power in the region of the [[Bright Sea\|Bright Sea]] in the modern post-war era.

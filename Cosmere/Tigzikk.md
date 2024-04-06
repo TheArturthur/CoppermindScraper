@@ -3,9 +3,8 @@
 |**Profession**|Thief|
 |**Groups**|Huqin's crew|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tigzikk** is a thief on [[Roshar\|Roshar]] who attempted to rob the [[Bronze Palace\|Bronze Palace]].
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Squadleader in Amaram's army|
 |**Groups**|Amaram's army|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Gotta do what you can to stay alive, son. Turn a liability into an advantage whenever you can. Remember that, if you live.*”
 \-Varth to Kaladin[1]

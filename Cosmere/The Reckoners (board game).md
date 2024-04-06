@@ -5,7 +5,7 @@
 |**Released**|October 2018|
 |**Publisher**||
 
-**The Reckoners** is a board game created by , based on the setting and characters from *The Reckoners* books. The game is played cooperatively by up to six players who take on the roles of the various members of the [[Reckoners\|Reckoners]]. Their overall goal is to discover the weakness of [[Steelheart\|Steelheart]] and assassinate him, but there are also other [[Epic\|Epics]] present in the game who must be dealt with.
+**The Reckoners** is a board game created by , based on the setting and characters from [[The Reckoners\|The Reckoners]] books. The game is played cooperatively by up to six players who take on the roles of the various members of the [[Reckoners\|Reckoners]]. Their overall goal is to discover the weakness of [[Steelheart\|Steelheart]] and assassinate him, but there are also other [[Epic\|Epics]] present in the game who must be dealt with.
 
 >“*Players must defeat Steelheart and other ruthless ‘Epics’ – the equivalent of supervillains – that each have unique, game-impacting abilities. Players must cooperate and decide how to resolve these competing priorities to eliminate Epics, save Newcago, and ultimately win the game. How, when, and where players act will determine victory or failure.*”
 \-Nauvoo Games[1]

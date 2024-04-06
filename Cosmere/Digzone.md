@@ -2,11 +2,13 @@
 |-|-|
 |**Aliases**|Jacob Pham|
 |**Powers**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-**Digzone** is a transference [[Epic\|Epic]] able to excavate efficiently. Tunnels created with his powers are rectangular. Prior to becoming an Epic, he was known as **Jacob Pham**.
-His powers were gifted to the Diggers. With the powers, they created the underground city of [[Newcago\|Newcago]]. The underground city is massive, having multiple layers and being home to many of the lower class people. However, the conditions in the tunnels caused the Diggers to go crazy. Some of the tunnels have strange designs and is a labyrinth. Rooms carved out mid-steel with no way to enter have even been found by the [[Reckoners\|Reckoners]].
+**Digzone**, previously known as **Jacob Pham**, is a transference [[Epic\|Epic]] able to excavate efficiently. Tunnels created with his powers are rectangular. He gifts his powers to people who become known as **Diggers**.
+
+## History
+Jacob Pham became an Epic while living in the city of St. Joseph. He granted his powers to Diggers there, who created an extensive set of caverns throughout the countryside that later became the site of [[David Charleston\|David Charleston]] and [[Megan Tarash\|Megan Tarash's]] confrontation with [[Jonathan Phaedrus\|Jonathan Phaedrus]].
+Later, Digzone moved to [[Newcago\|Newcago]] to work with [[Steelheart (Epic)\|Steelheart]]. With his powers, Diggers there created the underground portion of the city, complete with drainage and air shafts. They were given the whole of the city under which to work, with the exception of the area under the [[First Union Bank (Newcago)\|First Union Bank]]. The original plan was for the city to stretch down several levels, and the Diggers carved out multiple layers with tunnels and rooms. These places became home to many of the lower class people, and during the time when the Diggers were active, people poured into the city for work. However, soon the Diggers began to go mad due to the power gifted them. The tunnels began to change size, and the Diggers left unfinished rooms behind. Loose wiring hung down in various places, and the [[Reckoners\|Reckoners]] in Newcago even found rooms carved out with no way to enter but with lights shining inside. Digzone's fate since the Diggers' madness is unknown.
 
 
 

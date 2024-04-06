@@ -1,7 +1,6 @@
 |**Stingray Clan**|
 |-|-|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 The **Stingray Clan** is one of the "families" or gangs in [[Ildithia\|Ildithia]].
 [[Carla\|Carla]] is the leader of the clan. She allows [[Tia\|Tia]] to hide with them until [[Jonathan Phaedrus\|Prof]] traces her to them.

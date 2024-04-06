@@ -1,9 +1,8 @@
 |**Jam (caravaneer)**|
 |-|-|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the resident of Hearthstone, see [[Jam (Hearthstone)\|Jam (Hearthstone)]].
 **Jam** is a caravaneer in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].

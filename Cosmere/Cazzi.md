@@ -1,9 +1,8 @@
 |**Cazzi**|
 |-|-|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The religion of the **Cazzi** people, (unnamed, but possibly Cazzism), is a religion in [[Classical Scadrial\|Classical Scadrial]].
 The Cazzi are a people familiar with death, and **death chants** are among their beliefs. These chants are believed by the Cazzi to help free the spirits of the dead from their corpses, allowing them to return to the "**mountain of souls**". The Lord Ruler modeled the lives of the Skaa after the Cazzi.
@@ -12,4 +11,4 @@ Sazed used Cazzi teachings about the body to restore humans to their pre-ascensi
 
 
 
-https://coppermind.net/wiki/Cazzi
+https://coppermind.net/wiki/Canzi

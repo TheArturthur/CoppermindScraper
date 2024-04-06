@@ -5,10 +5,9 @@
 |**Date**|Late 1174|
 |**Participants**|[[Rysn\|Rysn]], [[Cord\|Cord]], [[Lopen\|Lopen]], [[Huio\|Huio]], [[Rushu\|Rushu]], [[Nikliasorm\|Nikliasorm]] (for a full list, see Characters Present)|
 |**Effects**|Rysn becomes a [[Dawnshard\|Dawnshard]] and makes a pact with the [[Sleepless\|Sleepless]]Akinah Oathgate rediscovered[[Coalition of monarchs\|Coalition of monarchs]] obtains eight [[Soulcaster\|Soulcasters]] and Cord obtains [[Shardplate\|Shardplate]]|
-|**City**|[[Akinah\|Akinah]]🐱︎|
+|**City**|[[Akinah\|Akinah]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The [[Wandersail (1174 ship)\|Wandersail's]] **expedition to Akinah** in late 1174 led to the discovery of a [[Dawnshard\|Dawnshard]], several [[Soulcaster\|Soulcasters]], and [[Shardplate\|Shardplate]].
 
@@ -30,7 +29,7 @@ After [[Lopen\|Lopen]] met with [[Ral-na\|Ral-na]] and Talik, [[Kaladin\|Kaladin
 ## The Trip to Akinah
 Shortly before the [[Wandersail (1174 ship)\|Wandersail's]] scheduled departure, Rushu, Lopen, Huio, and Cord travelled to Thaylen City via [[Oathgate\|Oathgate]] from Urithiru. Just prior to that, the ship's pet, a skyeel named [[Screech\|Screech]], had died. The crew took this as a bad omen and were apprehensive of continuing. Rysn issued an order to allow any crew to leave without consequence, but only three took the offer.
 With everyone aboard and ready, the *Wandersail* sets sail out of the port of Thaylen City.
-A few weeks into the trip, Cord discovers that the *Wandersail'*s barrels of [[Lavis\|lavis]] are all contain worms. The crew sees this as another bad omen. In am effort to negate their superstitions, Rysn traded the wormy grain with [[Hexi\|Hexi]] nomads for jerky. The crew was placated and the voyage continued.
+A few weeks into the trip, Cord discovers that the *Wandersail'*s barrels of [[Lavis\|lavis]] are all contain worms. The crew sees this as another bad omen. In an effort to negate their superstitions, Rysn traded the wormy grain with [[Hexi\|Hexi]] nomads for jerky. The crew was placated and the voyage continued.
 Following its two failed attempts at sabotage, the worms and the dead skyeel, [[Nikliasorm\|Nikliasorm]] conferenced with [[Yelamaiszin\|Yelamaiszin]] and the eighteen other [[Sleepless\|Sleepless]] that accept Yelamaiszin's leadership. They decide to let Nikliasorm try one more omen before resorting to more drastic meausres.
 Some time later, Huio tinkered with Rushu's spanreeds and made a discovery with [[Aluminum\|aluminum]] in regards to conjoined fabrials. Just after this, a dead [[Santhid\|santhid]] is sighted. The crew debate for a moment what to do before the santhid dissolves into hordelings.
 Shaken, the crew went ashore for a bit. Rysn used the opportunity to contact [[Vstim\|Vstim]] by [[Spanreed\|spanreed]]. While ashore, Rushu and Huio construct a hovering chair for Rysn to use based on his earlier discovery.

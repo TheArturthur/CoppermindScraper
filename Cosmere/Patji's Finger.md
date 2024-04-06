@@ -1,9 +1,8 @@
 |**Patji's Finger**|
 |-|-|
 |**Type**|Flowering tree|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Patji's Fingers** are a type of tree native to only [[Patji (island)\|Patji]] in the [[Pantheon\|Pantheon]] on [[First of the Sun\|First of the Sun]].
 

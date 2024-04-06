@@ -1,9 +1,8 @@
 |**Shale**|
 |-|-|
 |**Spouse**|[[Sindria\|Sindria]]|
-|**World**|[[Alornia\|Alornia]]|
+|**Homeworld**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“*The old way? Like...on a horse? I miss that.*”
 \-Shale to Kairominas[1]

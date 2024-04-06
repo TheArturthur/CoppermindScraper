@@ -2,14 +2,13 @@
 |-|-|
 |**Profession**|Professor|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*Be firm. Control your surroundings.*”
 \-Professor Aramine[1]
 
-Professor **Aramine** is an instructor at the university in [[Elendel\|Elendel]].
+Professor **Aramine** is an instructor at [[Elendel University\|Elendel University]] on [[Scadrial\|Scadrial]].
 Professor Aramine likely taught on the subject of legal justice or criminal behavioristics. Lady [[Marasi Colms\|Marasi Colms]] was one of Aramine's students at the university, and often thought over quotes from Aramine and her other professors when she was nervous.
 
 

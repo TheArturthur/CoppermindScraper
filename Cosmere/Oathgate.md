@@ -3,9 +3,8 @@
 |by  Isaac Stewart |
 |**Gem**|Various|
 |**Spren**|[[Oathgate spren\|Oathgate spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -51,6 +50,7 @@ The **Oathgates** are structures on [[Roshar\|Roshar]] that allow people to inst
 ## Functionality
 Oathgates are [[Fabrial\|fabrials]] that manipulate the [[Surge\|Surge]] of [[Transportation\|Transportation]]. Together, they form a network of gateways with [[Urithiru\|Urithiru]] at its center, allowing for near-instantaneous travel between all corners of the world, and letting people unable to fly access to the tower-city itself. They can only be operated by someone wielding a living [[Shardblade\|Shardblade]], such as a [[Knight Radiant\|Knight Radiant]], or with an [[Honorblade\|Honorblade]]. They require [[Stormlight\|Stormlight]] to work, although they can be made to use [[Voidlight\|Voidlight]] through methods known to [[Odium\|Odium's]] forces. Transportation of more than one person requires more Stormlight than what the Oathgate can normally hold in its ten [[Gemstone\|gemstone]] lanterns. The amount of Stormlight needed also depends on the Radiant, as those of higher oaths require less to activate the fabrial.
 A Radiant can use their Shardblade to travel to the Cognitive Realm instead of another Oathgate.
+Oathgates function by sending a group or individual between Oathgates through the [[Spiritual Realm\|Spiritual Realm]].
 
 ### Structure and Operation
  by  Isaac Stewart  The Oathgate platform (purple) can be seen in the bottom left of the city, with a control chamber (yellow) rising from its center.
@@ -64,7 +64,7 @@ The existence of eleven lamps in each Oathgate control chamber indicates that it
  by  Artem Demura  The Oathgate spren
 ### Locking the Oathgate
 Each Oathgate can be locked from either side. [[Odium\|Odium]] appears to have a way to break this lock, which could be tied to his corruption of [[Kholinar\|Kholinar]] [[Oathgate spren\|Oathgate spren]].
-All but the Stormseat Oathgate have been locked up by the ancient Knights Radiant when they've abandoned the tower city. As such, over the millennia since the [[Recreance\|Recreance]], their purpose has been forgotten. Many of the Oathgate platforms are covered in buildings, such as the Grand Market in [[Azimir\|Azimir]], or the [[Kholinar Palace\|Kholinar Palace]] in Kholinar. Others, like the one in [[Thaylen City\|Thaylen City]], have been transformed into gardens and other religious or ceremonial structures.
+All but the Stormseat Oathgate have been locked up by the ancient Knights Radiant when they abandoned the tower city. As such, over the millennia since the [[Recreance\|Recreance]], their purpose has been forgotten. Many of the Oathgate platforms are covered in buildings, such as the Grand Market in [[Azimir\|Azimir]], or the [[Kholinar Palace\|Kholinar Palace]] in Kholinar. Others, like the one in [[Thaylen City\|Thaylen City]], have been transformed into gardens and other religious or ceremonial structures.
 
 ### Shadesmar
 For more information, see [[Oathgate spren\|Oathgate spren]].
@@ -88,7 +88,7 @@ Following in Jasnah's footsteps, [[Shallan Davar\|Shallan Davar]] successfully l
 ### True Desolation
 With the start of the [[True Desolation\|True Desolation]], the Oathgates became central to [[Dalinar Kholin\|Dalinar Kholin's]] overall strategy, as they allowed for quick transportation between various corners of the continent. However, many kingdoms were hesitant to allow the warlike [[Alethi\|Alethi]] direct access into their heartland.
 King [[Taravangian\|Taravangian]] of [[Jah Keved\|Jah Keved]] and [[Kharbranth\|Kharbranth]] was the first to agree, ordering his Radiant, [[Malata\|Malata]], to activate the Oathgate. [[Thaylenah\|Thaylens]] were the next to agree, and Dalinar sent [[Shallan\|Shallan]] and [[Kaladin\|Kaladin]] to open it from their side. Finally, the [[Azish\|Azish]] allowed access, after initially denying that the Oathgate was even functional.
-At the same time, one of [[Odium\|Odium's]] [[Unmade\|Unmade]], [[Sja-anat\|Sja-anat]], suceeded at corrupting the [[Oathgate spren\|Oathgate spren]] of [[Kholinar\|Kholinar]] to bend them to her master's will. The [[Voidbringer\|Voidbringers]] later used this to invade Urithiru from Kholinar, as a distraction from the attack on [[Thaylen City\|Thaylen City]]. After [[Alethi\|Alethi]], assisted by [[Teft\|Teft]], managed to push them back, they sent reinforcements to Thaylen through its Oathgate to turn the tide of battle.
+At the same time, one of [[Odium\|Odium's]] [[Unmade\|Unmade]], [[Sja-anat\|Sja-anat]], suceeded at corrupting the [[Oathgate spren\|Oathgate spren]] of [[Kholinar\|Kholinar]] to bend them to her master's will. The [[Voidbringer\|Voidbringers]] later used this to invade Urithiru from Kholinar, as a distraction from the attack on [[Thaylen City\|Thaylen City]]. After [[Alethi\|Alethi]], assisted by [[Teft\|Teft]], managed to push them back, they sent reinforcements to Thaylen City through its Oathgate to turn the tide of battle.
 
 ## Oathgate Locations
 ### Urithiru
@@ -127,7 +127,7 @@ There are four other Oathgates that are not known to have been reactivated in th
 **Iri**: The [[Iri\|Iri]] Oathgate is located in their capital, [[Rall Elorim\|Rall Elorim]]. As the Iri leadership allied with [[Odium\|Odium]], the Oathgate is currently under their control. However, it remains locked.
 **Rira**: The [[Rishir\|Rishir]] Oathgate is located in the capital of [[Rira (country)\|Rira]], [[Kurth\|Kurth]]. It's likely come under the control of Odium as the Iriali moved to conquer Rira -- something they've intended to do for a long time. Because the island that contains Kurth was located in the Silver Kingdom of Rishir and not Iri, the Kurth Oathgate may sometimes also be referred to as being in the [[Reshi Isles\|Reshi Isles]].
 **Babatharnam**: The [[Sela Tales\|Sela Tales]] Oathgate sits in the city of [[Panatham\|Panatham]] in [[Babatharnam\|Babatharnam]]. It has most likely been captured by the Iriali forces.
-**Shinovar**: The [[Shin Kak Nish\|Shin Kak Nish]] Oathgate lies somewhere in [[Shinovar\|Shinovar]]. It's exact location is unknown, as there are no cities in Shinovar marked on the world map.
+**Shinovar**: The [[Shin Kak Nish\|Shin Kak Nish]] Oathgate lies somewhere in [[Shinovar\|Shinovar]]. It's exact location is unknown, as there are no cities in Shinovar marked on the world map. The Map of Oathgates also does not list the city it is located within.
 
 
-https://coppermind.net/wiki/Oathgate
+https://coppermind.net/wiki/Oathgates

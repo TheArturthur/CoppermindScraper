@@ -3,9 +3,8 @@
 |by  Isaac Stewart |
 |**Related to**|[[Thaylenah\|Thaylenah]]|
 |**Type**|Language|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -24,7 +23,7 @@ This page or section needs to be updated with new information for *Oathbringer*
 
 
 ## Structure
-Thaylen script is a type of writing system called an abjad, meaning it has no written vowels, which reflects the Thaylen tendency to smash consonant sounds together in their names and speech. The characters used in Thaylen script strongly resemble the basic form of Vorin [[Glyphs\|glyphs]], though use of bilateral symmetry is neglected. There are thirteen known letters in Thaylen script. As with [[Women's script\|women's script]], Thaylen script is merely transliterated English, with vowel sounds ignored. Writing is usually oriented vertically, though the script is sometimes turned on its side and read left to right. Letters may be distorted slightly to make letters fit together, for aesthetics.
+Thaylen script is an abjad, and thus does not write vowels, which reflects the Thaylen proclivity towards consonant clusters. The characters used in Thaylen script strongly resemble the basic form of Vorin [[Glyphs\|glyphs]], though use of bilateral symmetry is neglected. There are thirteen known letters in Thaylen script. As with [[Women's script\|women's script]], Thaylen script is merely transliterated English, with vowel sounds ignored. Writing is usually oriented vertically, though the script is sometimes turned on its side and read left to right. Letters may be distorted slightly to make letters fit together, for aesthetics.
 
 ### Thaylen Script Characters
 

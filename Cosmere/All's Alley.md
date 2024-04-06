@@ -2,10 +2,9 @@
 |-|-|
 |**Owner**|[[Sullik\|Sullik]]|
 |**Usage**|Tavern|
-|**City**|[[Urithiru\|Urithiru]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Urithiru\|Urithiru]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*All’s Alley. Keep away from there. Someone got stabbed behind one of the taverns just last night there.*”
 \-Jor's warning Shallan away from All's Alley.[1]

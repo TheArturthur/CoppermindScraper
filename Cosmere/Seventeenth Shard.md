@@ -1,9 +1,8 @@
 |**Seventeenth Shard**|
 |-|-|
 |**Headquarters**|In [[Silverlight\|Silverlight]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page is about the group of worldhoppers. For the official [[Brandon Sanderson\|Brandon Sanderson]] fansite, see [[17thshard.com\|17thshard.com]].
 >“*I am being chased. Your friends of the Seventeenth Shard, I suspect. I believe they're still lost, following a false trail I left for them. They'll be happier that way. I doubt they have any inkling what to do with me should they actually catch me.*”

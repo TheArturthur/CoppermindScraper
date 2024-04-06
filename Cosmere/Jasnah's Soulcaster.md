@@ -1,9 +1,8 @@
 |**Jasnah's Soulcaster**|
 |-|-|
 |by  Sheep |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jasnah's Soulcaster** is a fake [[Soulcasting\|Soulcasting]] [[Fabrial\|fabrial]]. [[Jasnah Kholin\|Jasnah Kholin]] claims to have several fakes, as she uses them to disguise her innate ability to Soulcast using the [[Surge\|Surge]] of Transformation.
 
@@ -16,7 +15,7 @@
 
 
 ## Appearance
-The Soulcaster consists of two rings and a bracelet, with chains connecting them. Three extremely large oval-cut [[Gemstone\|gemstones]]–a smokestone, a diamond, and a ruby–are set in a triangle that lays across the back of the hand. The gems grow brightly with [[Stormlight\|Stormlight]] when Jasnah is Soulcasting. Jasnah sometimes wears a fingerless glove over the Soulcaster to block the light from the gemstones.
+The Soulcaster consists of two rings and a bracelet, with chains connecting them. Three extremely large oval-cut [[Gemstone\|gemstones]]–a smokestone, a diamond, and a ruby–are set in a triangle that lays across the back of the hand. The gems glow brightly with [[Stormlight\|Stormlight]] when Jasnah is Soulcasting. Jasnah sometimes wears a fingerless glove over the Soulcaster to block the light from the gemstones.
 
 ## History
 Jasnah's use of the Soulcaster exacerbated her conflict with the [[Vorin\|Vorin]] Church, as they maintain a monopoly on the use and control over Soulcasters, and her Soulcaster was to all appearances, the only Soulcaster outside their control. This monopoly is likely in order to protect the secrets of the Soulcaster - including the toll it takes on the user. The Church also believes the Soulcasters to be holy objects and gifts of the Almighty, which is one justification they use to try to take the Soulcaster away from Jasnah.  Many members of the church have attempted to remove the Soulcaster from her possession - either through bribery, coercion, or theft. 

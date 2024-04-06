@@ -1,9 +1,8 @@
 |**Feltrel**|
 |-|-|
-|**Region**|[[Roughs\|The Roughs]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Roughs\|The Roughs]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Feltrel** is a ghost town in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]]. It is built in a dry area of the Roughs, with a large amount of red clay for soil and few plants other than weeds.
 

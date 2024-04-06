@@ -4,9 +4,8 @@
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the caravaneer who brought [[Moash\|Moash]] to the [[Shattered Plains\|Shattered Plains]], see [[Jam (caravaneer)\|Jam (caravaneer)]].
 **Jam** is a man from the town of [[Hearthstone\|Hearthstone]] in rural [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is two years older than [[Kaladin\|Kaladin]].

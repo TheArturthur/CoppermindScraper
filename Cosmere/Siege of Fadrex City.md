@@ -3,11 +3,10 @@
 |by  Michael "Stickmouse" Howard |
 |**Era**|[[New Empire\|New Empire]]|
 |**Participants**|[[Elend\|Elend]], [[Aradan Yomen\|Aradan Yomen]], [[Koloss\|koloss]], [[Marsh\|Marsh]], [[Hammond\|Hammond]]|
-|**City**|[[Fadrex City\|Fadrex City]]🐱︎|
-|**Dominance**|[[Western Dominance\|Western Dominance]]🐱︎|
+|**City**|[[Fadrex City\|Fadrex City]]|
+|**Dominance**|[[Western Dominance\|Western Dominance]]|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
 The **Siege of Fadrex City** was one of the major events on [[Scadrial\|Scadrial]] between the [[Collapse\|Collapse]] of the [[Final Empire\|Final Empire]] and the [[Final Ascension\|ascension]] of [[Sazed\|Sazed]].
 The human and [[Koloss\|koloss]] armies of the [[New Empire\|New Empire]] under Emperor [[Elend Venture\|Elend Venture's]] command, besieged [[Fadrex City\|Fadrex City]], the seat of [[Aradan Yomen\|Aradan Yomen's]] throne. Elend led an army of thirty six thousand soldiers against twenty five thousand defenders. These armies had been assessed as nearly of the same strength, taking account of the strong defense fortification of Fadrex City. Elend also commanded twenty thousand [[Koloss\|koloss]], which unbalanced the strength of the two armies.

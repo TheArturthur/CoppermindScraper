@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Squadleader|
 |**Groups**|Amaram's army|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Mesh** is a squadleader in Brightlord [[Meridas Amaram\|Meridas Amaram's]] army.
 

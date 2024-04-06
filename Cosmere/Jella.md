@@ -3,9 +3,8 @@
 |by User: KalynaAnne|
 |**Type**|Tree|
 |**Native to**|[[Jah Keved\|Jah Keved]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **jella tree** is a species of tree native to [[Roshar\|Roshar]].
 

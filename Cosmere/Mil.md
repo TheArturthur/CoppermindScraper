@@ -2,10 +2,10 @@
 |-|-|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
+For the Veden bookmaker, see [[Mill\|Mill]].
 **Mil** is a man from [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 
 ## Appearance and Personality

@@ -2,11 +2,10 @@
 |-|-|
 |by  Isaac Stewart |
 |**Nation**|[[Defiant League\|Defiant League]]|
-|**World**|[[Detritus\|Detritus]]🐱︎|
+|**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Starsight* and *Sunreach*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Starsight*, *Sunreach*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Alta Base** is a military outpost on the surface of [[Detritus\|Detritus]], directly above [[Igneous Cavern\|Igneous Cavern]]. It is the primary DDF base, until the Defiants reclaim several of the planet's orbital platforms and establish [[Platform Prime\|Platform Prime]].
 

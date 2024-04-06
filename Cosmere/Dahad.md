@@ -3,9 +3,9 @@
 |**Abilities**|[[Elantrian\|Elantrian]]|
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 
 **Dahad** is an [[Elantrian\|Elantrian]] on [[Sel\|Sel]] during the [[Reod\|Reod]].
 He followed [[Aanden\|Aanden]] until he joined the [[New Elantris\|New Elantris]] settlement, and utilized his stoneworking skills.

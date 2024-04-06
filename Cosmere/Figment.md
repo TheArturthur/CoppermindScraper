@@ -1,10 +1,10 @@
 |**Figment**|
 |-|-|
 |**Abilities**|Changing their smell, taking control of electronics|
-|**Appearance**|Living smells|
-|**World**|*Unknown*|
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
+
+This page or section needs to be updated with new information for *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*A figment, you say? This is some comfort, at least.*”
 \-Hesho[1]

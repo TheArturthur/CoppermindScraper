@@ -5,11 +5,10 @@
 |**Aliases**|Darkshadow|
 |**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
 |**Species**|[[Kitsen\|Kitsen]]|
-|**World**|[[Evershore (planet)\|Evershore]]|
+|**Homeworld**|[[Evershore (planet)\|Evershore]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic* and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I have been . . . overruled. What a curious experience.*”
 \-Hesho, after his crewmembers convince him to spare Spensa[3]
@@ -17,6 +16,7 @@ This page or section needs to be updated with new information for *Cytonic* an
 
 **Hesho** is a [[Kitsen\|kitsen]] captain and the former king of an absolute monarchy of his species. Working upon a ship training in the [[Superiority\|Superiority]] fleet, he was transferred to the [[Nowhere\|nowhere]] in a [[Delver\|delver]] attack and joined with the [[Cannonade Faction\|Cannonade Faction]], becoming the pirate champion for a short time.
 
+ by  Brent Donoho 
 ## Contents
 
 1 Appearance and Personality

@@ -11,7 +11,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent.
-Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based. Among sentient creatures, this soul is sometimes described as a [[Spiritweb\|Spiritweb]]. Several manifestations of [[Investiture\|Investiture]] such as gold Feruchemy and [[Regrowth\|Regrowth]] can restore a damaged object or person into the ideal form as dictated by the soul.
+Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based. Among sentient creatures, this soul is sometimes described as a [[Spiritweb\|spiritweb]]. Several manifestations of [[Investiture\|Investiture]] such as gold Feruchemy and [[Regrowth\|Regrowth]] can restore a damaged object or person into the ideal form as dictated by the soul.
 
 ## Contents
 
@@ -58,13 +58,14 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 \-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[2]
 
 
-The Spiritual Realm is not a place. The Spiritual Realm is made up entirely of [[Investiture\|Investiture]] in the form of [[Spiritweb\|Spiritwebs]] and the [[Connection\|Connections]] between them. As such, time and space are "irrelevant" or "compounded into one" in the Spiritual Realm. This timelessness means that the Spiritual Realm breaks causality, but in a controlled way.
+The Spiritual Realm is not a place. The Spiritual Realm is made up entirely of [[Investiture\|Investiture]] in the form of [[Spiritweb\|spiritwebs]] and the [[Connection\|Connections]] between them. As such, time and space are "irrelevant" or "compounded into one" in the Spiritual Realm. This timelessness means that the Spiritual Realm breaks causality, but in a controlled way. [[Design\|Design]] remarked that time dilation was easier in the Spiritual Realm because time "flows like water into whatever container you provide".
 Because time is irrelevant, an object's Connection to its past as well as its future can be observed from the Spiritual Realm. Some beings, like Seers, [[Moelach\|Moelach]], [[Sak\|Sak the Aviar]], and [[Shard\|Shards]] can peer into the Spiritual Realm to gain insight into the future, though some methods are more likely to be successful than others and even some Shards have difficulty seeing the future. It is also possible to see into the past of others via similar means.
 Space being compounded means that, unlike the Physical and the Cognitive Realms, the Spiritual Realm has no distinct locations. As a result, "all things are one" in the Spiritual Realm and those with access to the Spiritual Realm, like Shards, can see what is happening on other worlds and can move around the cosmere more easily.
 
 ### Spiritwebs
-For more information, see [[Spiritweb\|Spiritweb]].
-A person’s Spiritweb, closely related to Spiritual DNA, makes up their presence in the Spiritual Realm. Measuring and quantifying a Spiritweb is possible, if difficult, to do. Spiritual DNA can be passed from parent to child like regular DNA. Identical twins can have different Spiritual DNA, however. A person's Spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like Hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person’s Spiritweb. Investing an object or person for a long period of time will warp and change their Spiritweb. In humans, this process leads to [[Savant\|Savantism]].
+For more information, see [[Spiritweb\|spiritweb]].
+A person’s spiritweb, closely related to Spiritual DNA, makes up their presence in the Spiritual Realm. Measuring and quantifying a spiritweb is possible, if difficult, to do. Spiritual DNA can be passed from parent to child like regular DNA. Identical twins can have different Spiritual DNA, however. A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like Hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb. Investing an object or person for a long period of time will warp and change their spiritweb. In humans, this process leads to [[Savant\|Savantism]].
+This spiritual aspect would exist for all thinking beings, including true artificial intelligence, as they would Spiritually and Cognitively operate the same as an organic sapient being.
 
 ### Properties
 
@@ -73,7 +74,7 @@ Connection is a Spiritual property that describes the relationships between peop
 
 
 For more information, see [[Identity\|Identity]].
-[[Identity\|Identity]] is a Spiritual attribute related to Spiritwebs. Each person’s Identity is as unique as their genetic sequence, and is tied to the place where someone is born. Identity is not altered with general damage to the Spiritweb. Instead, someone would have to try and do something with Identity specifically. Most magic in the cosmere is keyed to a person’s Identity. Two people both blanking their Identity will almost always allow them to use each other’s Investiture. A lack of Identity will make a person more susceptible to many things in the cosmere, including [[Soulstamp\|soulstamps]]. This does not mean that someone with blank Identity could use any soulstamp, as the soulstamp’s Identity still causes issues. Identity can be very useful in things like healing, though it may occur in a roundabout method.
+[[Identity\|Identity]] is a Spiritual attribute related to spiritwebs. Each person’s Identity is as unique as their genetic sequence, and is tied to the place where someone is born. Identity is not altered with general damage to the spiritweb. Instead, someone would have to try and do something with Identity specifically. Most magic in the cosmere is keyed to a person’s Identity. Two people both blanking their Identity will almost always allow them to use each other’s Investiture. A lack of Identity will make a person more susceptible to many things in the cosmere, including [[Soulstamp\|soulstamps]]. This does not mean that someone with blank Identity could use any soulstamp, as the soulstamp’s Identity still causes issues. Identity can be very useful in things like healing, though it may occur in a roundabout method.
 
 
 For more information, see [[Fortune\|Fortune]].
@@ -81,7 +82,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[39]
+\-Hoid's warning to Shallan[43]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.

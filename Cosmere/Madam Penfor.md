@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Dormitory matron|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Madam Penfor** is the matron of Pashadon Hall, a female dormitory of [[Elendel University\|Elendel University]] on [[Scadrial\|Scadrial]].
 

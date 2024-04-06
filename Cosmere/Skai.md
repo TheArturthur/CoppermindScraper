@@ -4,16 +4,28 @@
 |**Died**|[[Splinter\|Splintered]]|
 |**Abilities**|[[Shard\|Shard]] of [[Dominion\|Dominion]]|
 |**Titles**|[[Dominion\|Dominion]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
-**Skai** was the original [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Dominion\|Dominion]]. Sometime after the [[Shattering\|Shattering]], they and [[Aona\|Aona]] took up residence on [[Sel\|Sel]]. [[Edgli\|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard, though the exact terms of that agreement are somewhat unclear.
-Sometime in the distant past, [[Odium\|Odium]] arrived on Sel and attacked both Skai and Aona, killing both of them and [[Splinter\|Splintering]] their Shards. At the time, he was hunting [[Ambition\|Ambition]], but found them first, and likely used their alleged violation of the Vessels' pact as justification for killing them. After Aona and Skai died, Odium locked much of [[Devotion\|Devotion]] and Dominion's power in the [[Cognitive Realm\|Cognitive Realm]] to prevent them from gaining another Vessel, which makes the Cognitive Realm around Sel very dangerous.
-On present-day Sel, while most of Skai's power remains trapped in the Cognitive Realm, some of it still influences the [[Physical Realm\|Physical Realm]]. The [[Skaze\|skaze]] are Splinters of Dominion, and some vestiges of Skai's power appear to be allowing [[Wyrn (title)\|Wyrn]] [[Wulfden the Fourth\|Wulfden the Fourth]] to see the future.
+**Skai** was the original [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Dominion\|Dominion]]. Sometime after the [[Shattering\|Shattering]], she and [[Aona\|Aona]] took up residence on [[Sel\|Sel]]. [[Edgli\|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard, though the exact terms of that agreement are somewhat unclear.
 
+## Contents
+
+1 Abilities and Attributes
+2 History
+3 Trivia
+4 Notes
+
+
+## Abilities and Attributes
+Skai was a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making her one of the most powerful entities in the [[Cosmere\|cosmere]]. Prior to being splintered she was immortal, unaging, and incorporeal. The [[Dor\|Dor]] is a fuels the magics [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]].
+
+## History
+Nothing is known about Skai's origins and life prior to the [[Shattering\|Shattering]], other than that she came from [[Yolen\|Yolen]]. For unknown reason, she and a group of others broke the [[Cosmere\|cosmere's]] creator deity, [[Adonalsium\|Adonalsium]], into sixteen pieces. Of those sixteen, she took up [[Dominion\|Dominion]], and departed alongside [[Devotion\|Devotion]] for [[Sel\|Sel]].
+
+For subsequent events, see Dominion#History.
 ## Trivia
-Though they're often presumed male by the fandom, Skai's gender has not been canonized.
+Although Skai was often assumed to be male in the fandom, Brandon currently plans for Skai's pronouns to be she/her, though that is subject to change until canonized in a book.
 
 
 https://coppermind.net/wiki/Skai

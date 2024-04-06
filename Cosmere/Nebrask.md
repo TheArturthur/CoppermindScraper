@@ -1,8 +1,7 @@
 |**Nebrask**|
 |-|-|
-|**Nation**|[[United Isles of America\|United Isles of America]]🐱︎|
+|**Nation**|[[United Isles of America\|United Isles of America]]|
 |**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
 
 >“*Detail the early struggle against the wild chalklings and their eventual isolation in the Tower of Nebrask.*”
 \-An essay question in Armedius Academy[1]

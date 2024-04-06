@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Scholar and [[Ardent\|Ardent]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Brightness! Look here, look here!*”
 \-To Navani[1]

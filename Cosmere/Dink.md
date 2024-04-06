@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Advisor|
 |**Nationality**|[[Mokian\|Mokian]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*The dome is going to crack soon.*”
 \-Dink to Alcatraz[1]

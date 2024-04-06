@@ -1,8 +1,7 @@
 |**Royal Archives (Not a Library!)**|
 |-|-|
-|**Region**|[[Free Kingdoms\|Free Kingdoms]]🐱︎|
+|**Region**|[[Free Kingdoms\|Free Kingdoms]]|
 |**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*The Knights of Crystallia*|
 
 The **Royal Archives (Not a Library!)** is a building in the capital of [[Nalhalla\|Nalhalla]] that houses a huge mountain of books collected by [[Free Kingdoms\|Free Kingdoms]] scribes. Due to its similarity to a library and Free Kingdomers' loathing of libraries, whenever it is mentioned, "not a library" always follows.
 Prior to [[Alcatraz\|Alcatraz's]] arrival, the Royal Archives (Not a Library!) featured a disorganized heap of books. This mess frustrated Alcatraz and he had [[Himalaya\|Himalaya]] organize the books.

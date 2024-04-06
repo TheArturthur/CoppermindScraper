@@ -1,11 +1,10 @@
 |**First Contract**|
 |-|-|
 |**Related to**|[[Kandra\|Kandra]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
-The **First Contract** is the legal code of the kandra, created by the First Generation and ratified by the Lord Ruler. It also serves as a set of instruction to be followed for if Ruin escaped his prison.
+The **First Contract** is the legal code of the kandra, created by the First Generation and ratified by the Lord Ruler. It also serves as a set of instruction to be followed if Ruin escaped his prison.
 
 ## Contents
 
@@ -65,4 +64,4 @@ At least some kandra continue to follow the First Contract after the Catacendre,
 
 
 
-https://coppermind.net/wiki/First_Contract
+https://coppermind.net/wiki/Resolution

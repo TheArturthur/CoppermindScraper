@@ -1,9 +1,8 @@
 |**Denth's crew**|
 |-|-|
 |**Leader**|[[Denth\|Denth]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Denth's crew** is a small group of mercenaries on [[Nalthis\|Nalthis]] hired by [[Bluefingers\|Bluefingers]] to aid in the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
@@ -43,7 +42,7 @@ Vivenna escaped from Vasher quickly, but upon her return to the safehouse she di
 
 ### Disbandment
 >“*And you were always to be my payment, Vasher.*”
-\-Denth[20]
+\-Denth[21]
 
 When the Pantheon assembled to cast a formal vote on war with Idris, Susebron and Siri were sequestered in the palace by their priests. At Vivenna's request, Vasher went to rescue Siri. However, he was unaware that some of Denth's mercenaries had killed the guards at her door and that Denth himself had laid a trap for him. Denth captured Vasher, disposed of Nightblood in the bay, and tortured Vasher as revenge for murdering [[Shashara\|Shashara]]. After Nightblood was fished up by [[Chapps\|Old Chapps]] and Vivenna was reunited with him, Nightblood led her to Vasher and she assisted in his escape. Unfortunately, Vasher was knocked out of the window in the fight and was forced to draw Nightblood in the process of his attempt to get back to Denth. This left him tired and with very few Breaths left when Denth confronted him again and wanted to duel. While Denth was handily beating Vasher in the duel, Vasher offered him a way to forget his past atrocities and become a better person. However, Denth felt he was not worth it and began to strike a killing blow right as Vasher forced onto him his remaining [[Breath\|Breaths]]; this caused a spasm of ecstasy in Denth and created an opening for Vasher to kill him.
 After Denth's death at Vasher’s hands, the crew split up. Jewels left to take the Lifeless Arsteel to his brother [[Yesteel\|Yesteel]], master of Lifeless Commands, in the hope that he could find a way to restore Arsteel's memories and personality. Tonk Fah, free from the direction and control that Denth provided for his murderous urges, went off to begin killing wantonly.

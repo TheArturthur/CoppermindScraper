@@ -5,11 +5,11 @@
 |**Siblings**|[[Gilaf\|Gilaf]]|
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Species**|[[UrDail\|UrDail]]|
-|**World**|[[ReDawn (planet)\|ReDawn]]|
+|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
+|**First Appeared**|*Starsight*|
 
-This page or section needs to be updated with new information for *ReDawn* and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Alanik**, callsign **Angel**, is an [[UrDail\|UrDail]] [[Cytonics\|cytonic]] from the planet [[ReDawn (planet)\|ReDawn]].
 
@@ -27,6 +27,8 @@ This page or section needs to be updated with new information for *ReDawn* and
 3.6 Rescuing Rinakin
 3.7 Defeating the Unity Faction
 3.8 Back to Detritus
+3.9 Mission to Evershore
+3.10 Battle for Evershore
 
 
 4 Relationships
@@ -114,7 +116,7 @@ Arturo came in and physically attacked the imposter, who turned out to be a Dion
 \-Alanik to Jorgen[34]
 
 
-Alanik and Arturo joined the fight against the Unity pilots, whose cytonics were trying to get in formation to make a cytonic inhibitor. They succeeded, and a Superioirty battleship appeared, guns trained on Tower. Alanik shot down Quilan during the battle and killed him, and another cytonic was shot down. The inhibitor deactivated as the battleship began to fire, and Rig hyperjumped Wadnering leaf close to the battleship and destroyed it with the platforms’ autoturrets. A varvax cytonic hyperjumped onto Wandering Leaf and marched on Rig. Alanik tried to stop it, but Doomslug protected Rig by cutting through the creature’s exoskeleton. With their cytonics shot down and Quilan dead, the Unity pilots retreated as Rinakin made a broadcast to the UrDail people.
+Alanik and Arturo joined the fight against the Unity pilots, whose cytonics were trying to get in formation to make a cytonic inhibitor. They succeeded, and a Superioirty battleship appeared, guns trained on Tower. Alanik shot down Quilan during the battle and killed him, and another cytonic was shot down. The inhibitor deactivated as the battleship began to fire, and Rig hyperjumped Wadnering leaf close to the battleship and destroyed it with the platforms’ autoturrets. A varvax cytonic hyperjumped onto Wandering Leaf and marched on Rig. Alanik tried to stop it, but Boomslug protected Rig by cutting through the creature’s exoskeleton. With their cytonics shot down and Quilan dead, the Unity pilots retreated as Rinakin made a broadcast to the UrDail people.
 
 ### Back to Detritus
 Alanik and Arturo talked about the battle and Alanik’s killing of Quilan, and were interrupted by Cobb calling them. Jorgen gave him an update, but noticed Cobb was acting strangely. At Alanik’s suggestion, they realized that Cobb had been replaced by an imposter. Alanik communicated with Gran-Gran, who was being handed over to the Superiority aboard a ship. Alanik warned her of the trap, and sensed a commslug aboard the Superiority ship. She opened a line to Jorgen’s parents, who didn’t believe Jorgen’s warnings about the trap. After ending the communication, Rig hyperjumped Wandering Leaf to Detritus.
@@ -124,6 +126,26 @@ Alanik and Arturo talked about the battle and Alanik’s killing of Quilan, and 
 
 Alanik and Jorgen hyperjumped to Detritus’ command center and grabbed the fake Cobb, then found a taynix aboard the Superioirty ship. Jorgen went with the fake Cobb to find his parents, and Alanik went off to find Gran-Gran. She discovered along the way that there was a bomb on the ship rigged to blow, and that Superiority personnel had evacuated. She retrieved Rig, who didn’t know how to disarm it. After Rig returned to Wandering Leaf, Alanik found the cells where Gran-Gran, Cuna, and Cobb were being held. After Alanik disabled the cytonic inhibitor, Gran-Gran jumped away with Cobb, and Alanik dropped off Cuna at Wandering Leaf. Alanik hurried to where Jorgen was, and found his parents and other politicians trapped in a room, the area cytonically inhibited. Unable to find the inhibitor and unable to break into the room, Alanik and Jorgen were forced to leave them behind, Alanik hyperjumping herself and Jorgen back to Wandering Leaf.
 Afterwards, as the ship exploded, Alanik could feel Jorgen’s grief and anger. Alanik couldn’t feel Gran-Gran’s mind, and concluded that she and Cobb had made it away, but to an unknown location. Jorgen told Alanik that they’d have to delay returning to her people, as there were some things they had to do on Detritus first.
+Alanik went with Jorgen as he led Skyward Flight down to Platform Prime, where he yelled at Vice Admiral Stoff. Alanik helped Jorgen in his argument with Stoff, and kept trying to use her cytonic abilities to locate Gran-Gran and Cobb. Alanik returned to ReDawn with a few other members of the flight to finish solidifying the alliance between Detritus and ReDawn, and over the course of two days she still wasn't able to find Gran-Gran or Cobb with her senses. Jorgen volunteered to help Alanik search, and she tried to teach him to hone his cytonic skills. They both heard a communication from [[Kauri\|Kauri]] of the [[Kitsen\|kitsen]], saying they had Cobb and Gran-Gran on their planet.
+
+### Mission to Evershore
+After getting permission from Stoff, and then gaining more information from Kauri, Alanik, Jorgen, Cuna, and the rest of Skyward Flight traveled to the kitsen planet of [[Evershore (planet)\|Evershore]]. Alanik was more familiar with the kitsen than the humans in the flight, and was able to give some limited information to them about the kitsen. They went to the kitsen capital city of [[Dreamspring\|Dreamspring]], and visited Gran-Gran and Cobb, who were both in comas. Alanik initially wasn't sure that it was actually Gran-Gran, since she couldn't sense her cytonically.
+
+>“*Keep going. You have to convince them.*”
+\-Alanik cytonically encouraging Jorgen to speak to the kitsen senate[41]
+
+Deciding to wait and come back to them later, Alanik and the others attended a feast held by the kitsen. She went to a kitsen senate meeting with Jorgen and FM, trying to tell the kitsen that they came in peace, so they could form an alliance. After Jorgen threw the meeting into chaos by accidentally exploding outward with mindblades, Alanik cytonically encouraged him to talk anyways, making his case to the kitsen.
+While the kitsen [[Juno\|Juno]] went with Jorgen to try and help him gain better control of his mindblades, Alanik went to visit the unconscious Cobb and Gran-Gran. But when she and the med techs tried to move Cobb and Gran-Gran to their medical transport, their condition started deteriorating rapidly. Alanik cytonically told Jorgen to come see, and she explained the situation. Deciding to keep them where they were for the time being, Alanik and Jorgen discussed the possibilities of what was happening. At Jorgen's request, Juno took them to the library, where Gran-Gran and Cobb had first appeared. They found a nowhere portal, but before they have much time to discuss it, Arturo radioed them to tell them that the Superiority was attacking.
+
+### Battle for Evershore
+Alanik and Jorgen hyperjumped to their ships, and released everyone's taynix from their boxes. They both got into the air first, and helped cover their flightmates as they got to their fighters.
+
+>“*This rodent keeps talking to me about birds. There are no birds living in my mind, Jorgen, and I don't know what he means about waves either.*”
+\-Alanik expressing her frustration about Juno's teaching[43]
+
+Several kitsen ships joined Skyward Flight in the air and began to fight, and the Superiority ships temporarily retreated to await reinforcements. Jorgen and FM hyperjumped to Detritus to get reinforcements of their own, and Jorgen had Juno fly with Alanik and try to help teach her. Juno tried to instruct her with the same exercises he used with Jorgen, but Alanik didn't understand them and grew frustrated.
+Jorgen fetched Wandering Leaf from Detritus, and Alanik communicated with him cytonically to direct where he should hyperjump the platform. Alanik used [[Snide\|Snide]] to send Juno back to Jorgen's ship, since Juno had decided she simply didn't have much aptitude for mindblades. At Jorgen's suggestion, Alanik hyperjumped to ReDawn to get UrDail ships to come to Evershore and join the fight. She convinced them, and soon returned with more reinforcements. Arturo spotted a [[Lifebuster\|lifebuster]] bomber, and Kimmalyn shot it down. Alanik caught the falling bomb with her light hook, hyperjumped it a safe distance away, then hyperjumped to safety. Since their lifebuster failed, the Superiority ships instead began to spread out across the planet, attempting to target the various kitsen cities and inflict maximum civilian casualties.
+At Jorgen's order, Alanik and the other members of the flight focused their efforts on evacuating as many kitsen civilians as possible. However, the battle was soon won, as Jorgen and Rig managed to hyperjump the entire planet of Detritus to Evershore, using its platforms to tip the battle in their favor and force the Superiority to retreat.
 
 ## Relationships
 ### Gilaf
@@ -141,7 +163,7 @@ When Rinakin is captured by the Unity faction working with the Superiority, Alan
 [[Arturo\|Arturo]] is initially suspicious of Alanik, and approaches her after Skyward Flight defects to come to ReDawn. He tells her frankly that he's worried she is using the humans and planning to turn them over to the Superiority for an advantage. Alanik is offended at the idea of cooperating with the Superiority, but admits to herself that his concerns are valid. Arturo warns her not to cross them, and leaves.
 Later, Alanik and Arturo talk about why they fight the Superiority, and grow to understand and respect each other's reasons. Arturo volunteers to accompany Alanik on the mission to rescue Rinakin, which annoys Alanik at first, as she thinks he still must not trust her. During the course of the mission she realizes he just wants to help. They engage in friendly conversation, and he helps her choose a callsign.
 When Alanik is panicking over having killed another pilot, Arturo pulls her aside and pushes her to talk. He helps her think through her feelings and calm down, making sure she's alright before they continue fighting.
-After the battle on ReDawn, Alanik and Arturo spend lots of time together. Arturo takes it upon himself to make sure Alanik is well-assimilated to Skyward Flight, though this is somewhat unnecessary, as she is already an excellent pilot and quickly accustoms to flying with them. Of late, he flies with Alanik as a wingmate instead of [[Nedd\|Nedd]], like usual. When [[Jorgen\|Jorgen]] is communicating cytonically with Arturo, he sees that Arturo has feelings for Alanik, though nothing is yet happening between them. It seems likely that Alanik feels the same; she finds the idea of asking Arturo (in particular) about human mating rituals "disorienting," and the tone of [[ReDawn (novella)\|her novella]] is consistent with this.
+After the battle on ReDawn, Alanik and Arturo spend lots of time together. Arturo takes it upon himself to make sure Alanik is well-assimilated to Skyward Flight, though this is somewhat unnecessary, as she is already an excellent pilot and quickly accustoms to flying with them. Of late, he flies with Alanik as a wingmate instead of [[Nedd\|Nedd]], like usual. When [[Jorgen\|Jorgen]] is communicating cytonically with Arturo, he sees that Arturo has feelings for Alanik, though nothing is yet happening between them. It seems likely that Alanik feels the same, although she finds the idea of asking Arturo (in particular) about human mating rituals "disorienting."
 
 
 

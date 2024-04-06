@@ -1,7 +1,6 @@
 |**Incarna**|
 |-|-|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 The **Incarna** were an ancient people that existed possibly around the time of the ancient Egyptians (judging by [[Allekatrase\|Alcatraz the First's]] sarcophagus).
 They created the [[Smedry Talent\|Smedry Talents]] by some unknown process. They fell victim to a terrible calamity that was related to the Talents. Alcatraz the First broke his people's language so that no future generations could use the knowledge to bring destruction to themselves.

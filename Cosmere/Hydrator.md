@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Survival aid|
 |**Function**|Collects water in [[Shadesmar\|Shadesmar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Cold makes water. Water collects in that basin. You drink, and don't die.*”
 \- Ico's description of the function of a hydrator[1]

@@ -2,9 +2,8 @@
 |-|-|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
-**Kelesina Shores's party** is an event in in 342 [[Catacendre\|PC]] on [[Scadrial\|Scadrial]]. Kelesina Shores hosted the party in her home in the city of [[New Seran\|New Seran]], on the edge of the [[Elendel Basin\|Elendel Basin]]. It is notable for a number of reasons: [[Wax\|Wax]] encountered both [[Hoid\|Hoid]] and [[Khrissalla\|Khrissalla]], he learned more about the activities of [[Mister Suit\|Mister Suit]] and the [[Set\|Set]], and he came into possession of both an unkeyed metalmind and an unsealed metalmind.
+**Kelesina Shores's party** is an event in 342 [[Catacendre\|PC]] on [[Scadrial\|Scadrial]]. Kelesina Shores hosted the party in her home in the city of [[New Seran\|New Seran]], on the edge of the [[Elendel Basin\|Elendel Basin]]. It is notable for a number of reasons: [[Wax\|Wax]] encountered both [[Hoid\|Hoid]] and [[Khrissalla\|Khrissalla]], he learned more about the activities of [[Mister Suit\|Mister Suit]] and the [[Set\|Set]], and he came into possession of both an unkeyed metalmind and an unsealed metalmind.
 
 ## Contents
 
@@ -40,4 +39,4 @@ Wax later cited the events of the party as an example of Steris being helpful, c
 
 
 
-https://coppermind.net/wiki/Kelesina_Shores%27_party
+https://coppermind.net/wiki/Kelesina_Shores%27s_party

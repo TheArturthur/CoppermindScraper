@@ -1,7 +1,6 @@
 |**Council of Kings**|
 |-|-|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 The **Council of Kings** was an alliance of all the nations of the [[Free Kingdoms\|Free Kingdoms]].
 One of their main goals was to stop the conquest of the [[Librarian\|Librarians]].

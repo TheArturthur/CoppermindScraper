@@ -1,18 +1,16 @@
 |**Maksim**|
 |-|-|
 |**Profession**|Pirate|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Yeah, well, it’s all fun and games until your pet tries to steal the family starship and escape. Too aggressive, they decided.*”
 \-Maksim to Spensa[1]
 
 
-**Maksim** is a member of the [[Broadsiders\|Broadsiders]], and is a human. Along with the other pirates, he lives in the belt of the [[Nowhere\|nowhere]].
-He serves on the ground crew for [[Cutlass Flight\|Cutlass Flight]], alongside [[Nuluba\|Nuluba]].
+**Maksim** is a human member of the [[Broadsiders\|Broadsiders]] pirate faction in the belt of the [[Nowhere\|nowhere]]. He serves on the ground crew for [[Cutlass Flight\|Cutlass Flight]] alongside [[Nuluba\|Nuluba]].
 
 ## Appearance and Personality
 >“*He looked a lot less like a warrior than he did like a guy who'd been lost wandering the caverns.*”

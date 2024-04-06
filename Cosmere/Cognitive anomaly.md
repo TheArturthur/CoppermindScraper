@@ -2,7 +2,6 @@
 |-|-|
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **Cognitive anomaly** is a phenomenon in the [[Cosmere\|cosmere]] related to the [[Cognitive Realm\|Cognitive Realm]].
 The only known instance of a Cognitive anomaly is in the [[Nalthian system\|Nalthian system]]. The scholars of [[Silverlight\|Silverlight]] have a star chart that shows an anomaly within the orbital path of [[Nalthis\|Nalthis]]. The map's representation of the anomaly resembles a roughly planet-sized gaseous cloud; it is unclear if this is a stylized depiction or if the anomaly actually exists in the [[Physical Realm\|Physical Realm]].

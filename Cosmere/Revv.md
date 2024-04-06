@@ -1,8 +1,7 @@
 |**Revv**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Revv** was a historical  on [[Roshar\|Roshar]] during the [[Heraldic Epochs\|Heraldic Epochs]].
 Revv is mentioned in *Words of Radiance* as the location of some disturbances which were quelled at the time of [[Nalan\|Nalan's]] acceptance of the [[Skybreakers\|Skybreakers']] patronage.

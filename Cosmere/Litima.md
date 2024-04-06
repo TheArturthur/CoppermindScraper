@@ -3,9 +3,8 @@
 |**Profession**|Scribe|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightness **Litima** is a [[Lighteyes\|lighteyed]] [[Alethi\|Alethi]] woman and a scribe in [[Dalinar Kholin\|Dalinar Kholin's]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
 

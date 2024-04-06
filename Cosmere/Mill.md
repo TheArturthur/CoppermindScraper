@@ -1,10 +1,10 @@
 |**Mill**|
 |-|-|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
+For the resident of Hearthstone, see [[Mil\|Mil]].
 **Mill** is a [[Darkeyes\|darkeyed]] bookmaker in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 
 ## Appearance and Personality

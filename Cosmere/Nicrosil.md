@@ -13,11 +13,9 @@
 |**Hemalurgy**|
 |**Power**|Steal [[Investiture\|Investiture]]|
 |**Type**|Spiritual|
-|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*Mistborn (series)*|
 
-**Nicrosil** is the external enhancement pushing metal. An Allomancer burning nicrosil is able to enhance the effects of another Allomancer's powers. Feruchemists can use nicrosil to store Investiture, and when used as a Hemalurgic spike, nicrosil steals Investiture. While the exact composition of Allomantic or Feruchemical nicrosil is unknown, real-world nicrosil is an alloy primarily of nickel, with some [[Chromium\|chromium]] and a small amount of silicon.
+**Nicrosil** is the external enhancement pushing metal. An Allomancer burning nicrosil is able to enhance the effects of another Allomancer's powers. Feruchemists can use nicrosil to store Investiture, and when used as a Hemalurgic spike, nicrosil steals Investiture. It is the paired alloy of [[Chromium\|chromium]] in the Metallic Arts. While the exact composition of Allomantic or Feruchemical nicrosil is unknown, real-world nicrosil is an alloy primarily of nickel, with some chromium and a small amount of silicon.
 
 ## Contents
 
@@ -50,9 +48,10 @@ A nicrosil [[Compounding\|Compounder]] would be able to use nicrosil to have a n
 
 ## Hemalurgic Use
 When used as a Hemalurgic spike, nicrosil steals [[Investiture\|Investiture]]. This does not steal powers—the ability to use Invested Arts like Allomancy or [[Sand mastery\|sand mastery]]—but rather general Investiture, such as a piece of a person's soul or [[BioChromatic Breath\|BioChromatic Breaths]].
+If a [[Scadrian\|Scadrian]] is stabbed with a spike Invested with stolen Investiture from another Scadrian, they may temporarily gain Allomantic powers.
 
 ## Trivia
-In the [[Mistborn Adventure Game\|Mistborn Adventure Game]] nicrosil can be used to convert between forms of [[Investiture\|Investiture]]. This allows for a [[Feruchemist\|Feruchemist]] to convert between what is stored in their [[Metalmind\|metalminds]] (i.e. converting the mental speed in a zincmind into the strength in a pewtermind).
+In the [[Mistborn Adventure Game\|Mistborn Adventure Game]] nicrosil can be used to convert between forms of [[Investiture\|Investiture]]. This allows for a [[Feruchemist\|Feruchemist]] to convert between attributes stored in their [[Metalmind\|metalminds]] (i.e. converting the mental speed in a zincmind into the strength in a pewtermind).
 
 
 https://coppermind.net/wiki/Nicrosil

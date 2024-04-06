@@ -1,10 +1,9 @@
 |**Svordish university**|
 |-|-|
 |**Usage**|University|
-|**Nation**|[[Svorden\|Svorden]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Nation**|[[Svorden\|Svorden]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The **Svordish university** is a center of learning in [[Svorden\|Svorden]], a former sovereign nation in northeastern [[Opelon\|Opelon]] that was annexed by the [[Fjordell Empire\|Fjordell Empire]].
 

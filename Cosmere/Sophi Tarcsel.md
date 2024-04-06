@@ -5,9 +5,8 @@
 |**Born**|c. 327 [[Catacendre\|PC]]|
 |**Profession**|Inventor, entrepreneur|
 |**Residence**|15 Stranat Place, [[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Sophi Tarcsel** is an inventor in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 
@@ -19,6 +18,7 @@ Sophi's father, [[Remmingtel Tarcsel\|Remmingtel Tarcsel]], was an inventor. She
 One of Sophi's inventions was a sound amplification system that was used for at least one of Governor [[Replar Innate\|Replar Innate's]] speeches.
 She understood that marketing was as important as inventing in order to be successful, and was determined to succeed where her father had failed. To this end, she placed ads in the broadsheets looking for people willing to invest in electrics. Sophi was later spotted by Wayne at a party after Elendel was saved from Bleeder. He asked her if she needed money, which she excitedly accepted while talking about the potential of electricity.
 [[Wax\|Wax]] and his colleagues later visited [[New Seran\|New Seran]] on the edge of the [[Elendel Basin\|Elendel Basin]] and were surprised to see that Sophi's amplification devices were already available there. They were used during a speech by [[Bastien Severington\|Bastien Severington]]. When Wayne later mistook the [[Bands of Mourning\|Bands of Mourning]] for a simple (but extremely valuable) [[Aluminum\|aluminum]] spearhead, he grabbed it thinking that it could be sold to help fund Sophi's business.
+Within the next few years, Sophi formed a highly profitable company called [[Tarcsel Electric\|Tarcsel Electric]]. Wayne invested heavily in her business, and its success contributed a large portion of his wealth.
 
 
 

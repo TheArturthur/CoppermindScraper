@@ -4,9 +4,8 @@
 |**Spouse**|[[Ned\|Ned]]|
 |**Died**||
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Rem** is a woman who lives in [[Urithiru\|Urithiru]] on [[Roshar\|Roshar]]. She previously lived in Highprince [[Torol Sadeas\|Torol Sadeas's]] warcamp at the [[Shattered Plains\|Shattered Plains]]. She is killed by her husband [[Ned\|Ned]] outside of [[All's Alley\|All's Alley]].
 

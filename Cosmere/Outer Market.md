@@ -1,9 +1,8 @@
 |**Outer Market**|
 |-|-|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Outer Market** is a collection of shops that is part of the [[Alethi\|Alethi]] [[Warcamp\|warcamp]] complex on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
 

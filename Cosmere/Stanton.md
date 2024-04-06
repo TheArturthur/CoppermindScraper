@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Noble lord|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Lord Stanton** is the lord of a noble house in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

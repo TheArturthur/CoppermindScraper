@@ -1,14 +1,16 @@
 |**Urithiru**|
 |-|-|
 |by  Ben McSweeney |
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Ruled by**|King [[Dalinar Kholin\|Dalinar Kholin]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Urithiru was said to be the center of the Silver Kingdoms, a city that held ten thrones, one for each king. It was the most majestic, most amazing, most important city in all the world.*”
-\-Jasnah's opinion of Urithiru[1]
+\-Jasnah's opinion of Urithiru[3]
 
 
 **Urithiru** is a tower-city on [[Roshar\|Roshar]] that functioned as the home of the [[Knights Radiant\|Knights Radiant]] and the central point of the [[Silver Kingdoms\|Silver Kingdoms]] during the [[Heraldic Epochs\|Heraldic Epochs]]. In the present day, it serves as the headquarters of the forces opposing [[Odium\|Odium]], including the [[Coalition of monarchs\|coalition of monarchs]], the refounded Knights Radiant, and the remaining [[Alethi\|Alethi]] soldiers and nobility. The current [[Jasnah Kholin\|queen]] of Alethkar rules from the tower, though [[Dalinar\|Dalinar]] and [[Navani Kholin\|Navani Kholin]] have been recognized as the king and queen of Urithiru. The city serves as the physical manifestation of the [[Bondsmith\|Bondsmith]] spren the [[Sibling\|Sibling]].
@@ -43,6 +45,10 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 4.2 Era of Solitude
 4.3 True Desolation
 
+4.3.1 Capture of Urithiru
+
+
+
 
 5 Culture
 
@@ -62,17 +68,17 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ## Location
  by [[Isaac Stewart\|Isaac Stewart]] Urithiru on the map of [[Roshar\|Roshar]]
 >“*Though many wished Urithiru to be built in Alethela, it was obvious that it could not be. And so it was that we asked for it to be placed westward, in the place nearest to Honor.*”
-\-The Vavibrar, line 1804[4]
+\-The Vavibrar, line 1804[6]
 
 
-Urithiru is located almost exactly in the middle of the Rosharan continent, in the [[Mountains of Ur\|mountains of Ur]]. It lies in the range's western part, on the border of [[Emul\|Emul]] and [[Greater Hexi\|Greater Hexi]]. The tower sits on the east side of one of those mountains, leaning against two slopes.
-The plateau on which the tower is located is at a considerable altitude. The air is thin enough to make physical activity difficult. The cliffs beneath it extend further than the eye can see. This location is high enough that both [[Highstorm\|highstorms]] and the [[Everstorm\|Everstorm]] pass beneath it, which makes it difficult for the tower's current occupants to obtain [[Stormlight\|stormlight]].
+Urithiru is located almost exactly in the middle of the Rosharan continent, in the [[Mountains of Ur\|mountains of Ur]] at an elevation above 15 thousand feet. It lies in the range's western part, on the border of [[Emul\|Emul]] and [[Greater Hexi\|Greater Hexi]]. The tower sits on the east side of one of those mountains, leaning against two slopes.
+The plateau on which the tower is located is at a considerable altitude. The air is thin enough to make physical activity difficult. The cliffs beneath it extend further than the eye can see. This location is high enough that both [[Highstorm\|highstorms]] and the [[Everstorm\|Everstorm]] pass beneath it, which makes it difficult for the tower's current occupants to obtain [[Stormlight\|Stormlight]].
 Historically, there was some disagreement as to whether or not Urithiru is accessible by means other than [[Oathgate\|Oathgate]] travel or flight. Ancient chroniclers Varala and Sinbian both stated that it was impossible, but in [[Nohadon\|Nohadon's]] eighth parable from [[The Way of Kings (in-world)\|The Way of Kings]], he claims that he walked from [[Abamabar\|Abamabar]] to Urithiru (which he confirms in Dalinar's dream, saying that he did not use an Oathgate, only a guide, which he believes wasn't "cheating" in any way). As is later revealed, there is an entrance at the bottom of the mountain which can be used to exit the tower on foot.
 There is an unnamed village in the foothills of the mountain to the south of the tower, but it is apparently not visible from the tower, as all Dalinar can see is clouds and rocks. In addition, Urithiru sits relatively close to the [[Valley\|Valley]] of the [[Nightwatcher\|Nightwatcher]].
 
 ## Appearance
 >“*There were no clouds here to bring the darkness. This place was above them all. Urithiru ruled even the clouds.*”
-\-Szeth musing on the tower[14]
+\-Szeth musing on the tower[17]
 
 
  by  Jacobo Montoya  Front view of the tower
@@ -103,7 +109,7 @@ Known strata descriptions:
 ### Notable locations
 
  by  Marie Seeberger  The Breakaway
-The Breakaway is a large, cavernous hall as large as a small town within Urithiru's walls. While its previous function is unknown, after the [[Alethkar\|Alethi]] arrive at the tower, it becomes their central market area, with stalls, food stands, and taverns. Many of the establishments are tents or simply roped-off areas, but an increasing number of permanent structures are being built there. Merchants from all ten highprincedoms mingle here and all kinds of goods can be purchased, including illicit ones like firemoss. The atmosphere is chaotic, busy, and varied. The Breakaway has a large, round well at its center, which, like all wells at Urithiru, never seems to run out of water no matter how much is taken from it. It is unclear where the water comes from.
+The Breakaway is a large, cavernous hall as large as a small town within Urithiru's walls. While its previous function is unknown, after the [[Alethkar\|Alethi]] arrive at the tower, it becomes their central market area, with stalls, food stands, and taverns. Many of the establishments are tents or simply roped-off areas, but an increasing number of permanent structures are being built there. Merchants from all ten Alethi princedoms mingle here and all kinds of goods can be purchased, including illicit ones like firemoss. The atmosphere is chaotic, busy, and varied. The Breakaway has a large, round well at its center, which, like all wells at Urithiru, never seems to run out of water no matter how much is taken from it. It is unclear where the water comes from.
 
 
 The Ten Rings is a section of the Breakaway that was planned by [[Navani Kholin\|Navani Kholin]]. The streets are neat and orderly, with quaint wooden buildings that include both shops and living quarters. Merchants who agree to Navani's oversight receive reduced taxes and frequent guard patrols. The area lacks high-end shops due to wealthier [[Lighteyes\|lighteyes]] refusing to give Navani control, but it also lacks seedier establishments due to the presence of law enforcement. [[Adolin\|Adolin]] frequents a winehouse named [[Jez's Duty\|Jez's Duty]] in the Ten Rings area.
@@ -141,7 +147,7 @@ In a storage chamber near the top of the tower, the walls have veins of garnet, 
 
 ## History
 ### Pre-Recreance
-Urithiru was constructed at some point early on during the [[Silver Kingdoms\|Silver Kingdoms]] era. Initially, many wished for it to be constructed in [[Alethela\|Alethela]]; however, it was eventually built elsewhere, in a place considered to be "closest to Honor". It's unclear whether it was created by [[Herald\|Heralds]], [[Surgebinder\|Surgebinders]] or [[Shard\|Shards]] themselves, but it was beyond the capability of Radiants to create.
+Urithiru was constructed at some point early on during the [[Silver Kingdoms\|Silver Kingdoms]] era. Initially, many wished for it to be constructed in [[Alethela\|Alethela]]; however, it was eventually built elsewhere, in a place considered to be "nearest to Honor". It's unclear whether it was created by [[Herald\|Heralds]], [[Surgebinder\|Surgebinders]] or [[Shard\|Shards]] themselves, but it was beyond the capability of Radiants to create.
 Though it's unclear whether it was originally built for this purpose, Urithiru was the headquarters of the [[Knights Radiant\|Knights Radiant]] orders, as well as the center of the [[Silver Kingdoms\|Silver Kingdoms]], holding ten thrones, one for each king. Even following the temporary end of the cycle of [[Desolation\|Desolations]], it remained an important location as both the home of the Radiants and the [[Oathgate\|Oathgate]] hub. During that time, Urithiru had a large population of not only Radiants, but also ordinary people - servants, traders, craftsmen and so on. At one point, the [[Unmade\|Unmade]] [[Re-Shephir\|Re-Shephir]] invaded the tower, and was trapped and sealed by an unknown [[Order of Lightweavers\|Lightweaver]].
 Eventually, the systems that allowed people to inhabit Urithiru - most importantly, raising its temperature to allow people to live comfortably and grow foods - began to fail as the Sibling withdrew from managing Urithiru after feeling betrayed by Melishi and the Radiants, and after the capture of Ba-Ado-Mishram. This forced the Knights Radiant to abandon the tower, leaving behind only the [[Urithiru gem archive\|gem archive]] where they coded their last messages.
 Between this and the [[Day of Recreance\|Day of Recreance]], the [[Oathgate\|Oathgates]] in the 9 surviving cities were sealed, leaving Urithiru locked away from the world.
@@ -149,16 +155,21 @@ Between this and the [[Day of Recreance\|Day of Recreance]], the [[Oathgate\|Oat
  by  Elisgardor 
 ### Era of Solitude
 Some time after the tower was abandoned, [[Re-Shephir\|Re-Shephir]] broke out of her confinement, but remained within the tower.
-Though Urithiru had faded into myth by the [[Era of Solitude\|Era of Solitude]], [[Szeth\|Szeth]] was familiar with it, and would visit it often after becoming a [[Truthless\|Truthless]]. He had gone by the village at the bottom of the tower's mountain so many times that he mused that at some point, they had started thinking of him as some sort of god, leaving out tributes of [[Sphere\|spheres]] for him to use for [[Stormlight\|stormlight]].
+Though Urithiru had faded into myth by the [[Era of Solitude\|Era of Solitude]], [[Szeth\|Szeth]] was familiar with it, and would visit it often after becoming a [[Truthless\|Truthless]]. He had gone by the village at the bottom of the tower's mountain so many times that he mused that at some point, they had started thinking of him as some sort of god, leaving out tributes of [[Sphere\|spheres]] for him to use for [[Stormlight\|Stormlight]].
 [[Jasnah Kholin\|Jasnah Kholin]] began an effort to rediscover the city after growing convinced that a new Desolation was coming. While she herself was unable to do so, her student, [[Shallan Davar\|Shallan Davar]], managed to complete her works and pinpoint the location of [[Stormseat\|Stormseat]], an ancient city that possessed an [[Oathgate\|Oathgate]], but was destroyed long before Urithiru was abandoned. She eventually lead the [[Alethi\|Alethi]] army to Stormseat--now a [[Listener\|listener]] city called [[Narak\|Narak]]--and, as the listeners summoned the [[Everstorm\|Everstorm]], transported them through its Oathgate, rediscovering Urithiru.
 
 ### True Desolation
-Following the arrival of the [[Everstorm\|Everstorm]], Urithiru became the center of military power for the [[Coalition of monarchs\|coalition of monarchs]], led by Dalinar and the Alethi. Most [[Highprince\|highprinces]], chief among them [[House Kholin\|House Kholin]], relocated there along with their armies. The Alethi began to reinhabit the tower, even dividing it into sections that they called "princedoms". However, they were unable to reactivate most of Urithiru's systems, such as the heating or the main elevator. Following a string of strange accidents, [[Re-Shephir\|Re-Shephir]] was tracked down and banished from the tower by a team led by [[Shallan Davar\|Shallan Davar]] Several [[Oathgates\|Oathgates]]--those of [[Vedenar\|Vedenar]], [[Azimir\|Azimir]] and [[Thaylen City\|Thaylen City]]--were unlocked to reenable fast transportation across the continent.
+Following the arrival of the [[Everstorm\|Everstorm]], Urithiru became the center of military power for the [[Coalition of monarchs\|coalition of monarchs]], led by Dalinar and the Alethi. Most [[Highprince\|highprinces]], chief among them [[House Kholin\|House Kholin]], relocated there along with their armies. The Alethi began to reinhabit the tower, evenly dividing it into sections that they called "princedoms". However, they were unable to reactivate most of Urithiru's systems, such as the heating or the main elevator. Following a string of strange accidents, [[Re-Shephir\|Re-Shephir]] was tracked down and banished from the tower by a team led by [[Shallan Davar\|Shallan Davar]] Several [[Oathgates\|Oathgates]]--those of [[Vedenar\|Vedenar]], [[Azimir\|Azimir]] and [[Thaylen City\|Thaylen City]]--were unlocked to reenable fast transportation across the continent.
 As a prelude to the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the [[Voidbringers\|Voidbringers]] attacked Urithiru through the subverted [[Kholinar\|Kholinar]] Oathgate. Although initially somewhat successful, they were eventually pushed back and out of the city.
+
+ by  Hugh Hammons  Urithiru as it appears in [[Shadesmar\|Shadesmar]]
+
+Around a year into the True Desolation, Urithiru was attacked by a large contingent of Fused soldiers, and the Sibling began to be corrupted by them when they found the central pillar, causing all the Radiants in Urithiru, sans Kaladin, to fall unconscious.
+During the occupation, the Sibling began to reveal themself and their powers, interacting with Kaladin, Dabbid, and Navani. Eventually bonding with Navani, leading to the birth of a new Bondsmith and the resurrection of Urithiru as a fully functioning city.
 
 ## Culture
 >“*Most scholars consider it just a myth. The ardents refuse to speak of it, due to its association with the Radiants, and therefore with the first major failure of Vorinism.*”
-\-Jasnah[1]
+\-Jasnah[3]
 
 
 Though massively important in the past, prior to the coming of the [[Everstorm\|Everstorm]] Urithiru was all but unknown to [[Vorinism\|Vorins]] who didn't study the [[Knights Radiant\|Knights Radiant]], with Shallan being unfamiliar even with its name. This could be the result of the [[Hierocracy\|Hierocracy]] working to suppress all knowledge of Radiants, similar to how they discredited [[Surgebinding\|Surgebinding]].
@@ -177,6 +188,7 @@ Urithiru's non-functional mechanisms have left it with a lack of infrastructure.
 Another minor issue affecting Urithiru's early economy is the lack of [[Stormlight\|Stormlight]] to infuse [[Spheres\|spheres]]. The need for Stormlight to power the Oathgates means that in the period immediately following Urithiru's discovery, when the [[Highstorm\|highstorms]] disappeared, infused spheres were worth considerably more than face value. After the highstorms return, spheres can be re-infused by lowering them in large cages down into the storm.
 
 ## Politics
+ by  Geoff Shupe 
 Because Urithiru is rediscovered at the advent of the first [[Everstorm\|Everstorm]] during the [[Battle of Narak\|Battle of Narak]], it becomes the immediate refuge and then the de facto home of most of the nation of [[Alethkar\|Alethkar]]. The Alethi, who have been at the [[Shattered Plains\|Shattered Plains]] to pursue the fulfillment of the [[Vengeance Pact\|Vengeance Pact]], largely move away from their warcamps and populate the tower after its discovery. The nation of Alethkar is subsequently taken by the Fused, and efforts to defend the capital city, [[Kholinar\|Kholinar]], are unsuccessful. This means that King [[Elhokar\|Elhokar]], and later Queen [[Jasnah\|Jasnah]], rules from Urithiru over the population that has resettled in the tower.
 Elhokar's original desire is to swear allegiance to Dalinar as his highking. He means to retain his position as king of Alethkar but to cede authority to Dalinar when it comes to matters concerning Urithiru or the Shattered Plains. The proposal is drafted and sealed, but its publishing is postponed until those at Urithiru receive word of Elhokar again after his disappearance in Kholinar. This unwittingly gives [[Taravangian\|Taravangian]] fodder for his efforts to undermine the stability of the [[Coalition of monarchs\|coalition of monarchs]], and he reveals his knowledge of the matter at a meeting just prior to the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. When the Kholins finally receive confirmation of Elhokar's death, Dalinar declares that he cannot be king of Alethkar; he sees the need to separate himself from having power in his old land and instead to focus on the [[Knights Radiant\|Knights Radiant]] and on leading the coalition. Jasnah is raised up as queen of Alethkar instead. The coalition officially recognizes [[Dalinar\|Dalinar]] and [[Navani Kholin\|Navani Kholin]] as the rulers of Urithiru during the year following the battle in [[Thaylen City\|Thaylen City]] in exchange for an official renouncement of any claims to be a highking.
 

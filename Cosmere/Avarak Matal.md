@@ -4,11 +4,11 @@
 |**Profession**|Army captain|
 |**Groups**|Sadeas army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
-Brightlord **Avarak Matal** is [[Lighteyes\|lighteyed]] officer in the [[Sadeas princedom\|Sadeas]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. He is the captain of the Sadeas [[Bridge crew\|bridge crews]], although his wife [[Hashal\|Hashal]] seems to exert more authority than he does.
+Brightlord **Avarak Matal** is a [[Lighteyes\|lighteyed]] officer in the [[Sadeas princedom\|Sadeas]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. He is the captain of the Sadeas [[Bridge crew\|bridge crews]], although his wife [[Hashal\|Hashal]] seems to exert more authority than he does.
 
 ## Contents
 
@@ -43,4 +43,4 @@ After the battle concluded, Kaladin observed Matal furiously focusing on Bridge 
 
 
 
-https://coppermind.net/wiki/Matal
+https://coppermind.net/wiki/Avarak_Matal

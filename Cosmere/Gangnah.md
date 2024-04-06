@@ -1,12 +1,12 @@
 |**Gangnah**|
 |-|-|
 |**Died**|? 1167|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*I wish we could present to them a stronger face. They have accomplished so much during our centuries apart, while we remember so little.*”
 \-Gangnah speaking of the humans[2]

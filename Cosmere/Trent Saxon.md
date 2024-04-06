@@ -6,8 +6,7 @@
 |**Died**|[[Springrail\|Springrail]] accident|
 |**Profession**|Chalkmaker|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Trent Saxon** was a chalkmaker employed by the [[Rithmatics\|Rithmatics]] department of [[Armedius Academy\|Armedius Academy]].
 He is described as being "big and burly".

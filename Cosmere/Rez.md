@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Guard|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Rez** is a guard in [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] on [[Roshar\|Roshar]].
 

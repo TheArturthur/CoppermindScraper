@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Tree|
 |**Used for**|Fabric|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Breachtrees** are a plant native to [[Roshar\|Roshar]] used to make textiles.
 

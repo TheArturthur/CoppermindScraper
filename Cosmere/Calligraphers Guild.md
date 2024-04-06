@@ -2,9 +2,8 @@
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
 |**Type**|Guild|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Calligraphers Guild** is an organization on [[Roshar\|Roshar]] responsible for creating [[Glyph\|glyphs]].
 The Guild maintains a list of official, canonical glyphs. Whenever a new glyph is required, they create it based on a number of rules that have arisen over time, although there is a lot of stylization permitted. Occasionally, they may also canonize a glyph created by an amateur, if it becomes popular enough. Over time, the Guild modifies some glyphs to make them seem more modern and match the contemporary styles.

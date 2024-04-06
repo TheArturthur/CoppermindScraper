@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vlxim** is a [[Thaylen\|Thaylen]] sailor and a helmsman of the [[Wandersail (1174 ship)\|Wandersail]] on [[Roshar\|Roshar]].
 

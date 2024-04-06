@@ -1,10 +1,9 @@
 |**Unclaimed Hills**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
-|**Region**|[[Frostlands\|Frostlands]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Frostlands\|Frostlands]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -35,7 +34,7 @@ The whole region is highly exposed to the [[Highstorm\|highstorms]], making the 
 
 ## Inhabitants
 The Unclaimed Hills are, as their name indicates, held by no nation, and sparsely inhabited. The Shattered Plains were once occupied by the [[Listener\|listeners]], though during the [[War of Reckoning\|War of Reckoning]], their presence is reduced to the plateau of [[Narak\|Narak]], while the edges are taken over by the [[Alethi\|Alethi]] military. The Hills themselves are home to a small population of the [[Natan\|Natan]] people.
-What cities there are lie mostly on the the ocean coast. Most of them are small and independent, and nominally [[Vorin\|Vorin]], although their adherence to the doctrine -- particularly in terms of the prohibition on slave trade -- is far looser than in the western nations. The largest among them are the city-state [[New Natanan\|New Natanan]] and a settlement called [[Dawn's Shadow\|Dawn's Shadow]].
+What cities there are lie mostly on the ocean coast. Most of them are small and independent, and nominally [[Vorin\|Vorin]], although their adherence to the doctrine -- particularly in terms of the prohibition on slave trade -- is far looser than in the western nations. The largest among them are the city-state [[New Natanan\|New Natanan]] and a settlement called [[Dawn's Shadow\|Dawn's Shadow]].
 After the [[Alethi\|Alethi]] move onto the Plains, several plans are made to reinhabit the land. Initially, [[Dalinar Kholin\|Dalinar Kholin]] proposes homesteading the area and adding it to the Alethi territory, though that plan is stopped before it can be fully put in place by the coming of the [[Everstorm\|Everstorm]]. Later, [[Navani Kholin\|Navani Kholin]] suggests building a new kingdom there after Alethkar falls to the voidbringers, but the idea is discarded on the account of how difficult the region is to farm.
 
 ## History

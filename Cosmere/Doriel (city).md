@@ -1,9 +1,8 @@
 |**Doriel (city)**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Doriel** is a city in the [[Elendel Basin\|Elendel Basin]]. It is southeast of [[Elendel\|Elendel]].
 It shares the name of the [[Ashmount\|Ashmount]] Doriel, and is in fact in the same place as that Ashmount used to be before the [[Catacendre\|Catacendre]].

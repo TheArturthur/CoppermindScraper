@@ -1,12 +1,11 @@
 |**Getrue**|
 |-|-|
 |**Profession**|Merchant|
-|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]🐱︎|
+|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Getrue** is a [[Skaa\|skaa]] merchant and a member of the [[Luthadel Assembly\|Luthadel Assembly]] after the [[Collapse\|Collapse]] on [[Scadrial\|Scadrial]].
 

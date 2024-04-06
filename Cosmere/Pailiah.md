@@ -4,11 +4,10 @@
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
 |**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Order of Truthwatchers\|Truthwatchers]]|
 |**Aliases**|Pali|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Pailiah**, nicknamed **Pali**, is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]]. She's the patron of the [[Order of Truthwatchers\|Order of Truthwatchers]].
+**Pailiah**, nicknamed **Pali**, is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]]. She is the patron of the [[Order of Truthwatchers\|Order of Truthwatchers]].
 
 ## Contents
 
@@ -21,6 +20,7 @@
 
 ## Abilities
  by  Esther Schrader 
+For more images, see [[Pailiah/Gallery\|/Gallery]].
 For more information about Heraldic powers, see Herald#Abilities.
 The cultural references to Pailiah imply that she might've been a scholar prior to becoming a Herald. As a Herald, she's an immortal [[Cognitive Shadow\|Cognitive Shadow]], and every time she dies, she travels to [[Braize\|Braize]]. There, she's tortured until she or one of the other Heralds breaks, returning them to Roshar.
 When Pailiah wielded her [[Honorblade\|Honorblade]], she had use of the [[Surge\|Surges]] of [[Illumination\|Illumination]], allowing her to create illusions of light and sound, and [[Progression\|Progression]], letting her grow plants and heal herself and others. She also had the ability to breathe in [[Stormlight\|Stormlight]], compounding her self-healing power. However, she has abandoned her Blade at the Aharietiam, losing her access to Stormlight and Surgebinding. Whether she has Surgebinding abilities in the present day is uncertain.

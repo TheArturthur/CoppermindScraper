@@ -1,7 +1,6 @@
 |**Poltergeist**|
 |-|-|
 |**Abilities**|Possession of the living, [[Bolting\|Bolting]]|
-|**Featured In**|*Dreamer*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 A **poltergeist** is the spirit of a dead human being that must possess the bodies of the living in order to retain consciousness. It is unclear what causes a person to become a poltergeist upon their death, but it seems that not everyone does.

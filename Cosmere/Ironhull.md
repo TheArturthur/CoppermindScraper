@@ -1,9 +1,8 @@
 |**Ironhull**|
 |-|-|
 |**Type**|Warship|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 The **ironhull** is a type of steam-powered ship from the [[Eelakin Islands\|Eelakin Islands]] on [[First of the Sun\|First of the Sun]].
 

@@ -1,11 +1,10 @@
 |**Little Herdaz**|
 |-|-|
 |**City**|[[Sebarial\|Sebarial]] warcamp|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Word has come in to all the warcamps from Highprince Sebarial. They found something out there, on the Plains. Be ready. Just in case... First that highstorm nobody knew about, then the rains stop early, then the storming king man of Alethkar on my doorstep. Now this. I think we might be abandoning camp, even though nightfall’s around the corner.*”
 \- Chilinko to Lopen about the potential abandonment of Little Herdaz[1]

@@ -5,8 +5,7 @@
 |**Children**|[[Angola Dartmoor\|Angola]], [[Rikers Dartmoor\|Rikers]], [[Bastille\|Bastille]]|
 |**Abilities**|[[Crystin\|Crystin]] Knight|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Brig Dartmoor** is high king of [[Nalhalla\|Nalhalla]] and the leader of the [[Council of Kings\|Council of Kings]].
 

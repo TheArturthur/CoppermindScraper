@@ -1,11 +1,10 @@
 |**Deep sand**|
 |-|-|
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Region**|[[Dayside\|Dayside]]🐱︎|
-|**World**|[[Taldain\|Taldain]]🐱︎|
+|by  Jian Guo |
+|**Region**|[[Dayside\|Dayside]]|
+|**World**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
-This page or section needs to be updated with new information for *White Sand Volume 2*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Few people—even Kerztians—are foolish enough to wander into deep sand.*”
 \-Kenton[1]

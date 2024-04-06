@@ -3,9 +3,8 @@
 |**Spouse**|[[Jason Write\|Jason]]|
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Groups**|[[Phone Company\|Phone Company]]|
-|**World**|[[Earth (Skyward)\|Earth (Skyward)]]|
+|**Homeworld**|[[Earth (Skyward)\|Earth (Skyward)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium*|
 
 This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
 

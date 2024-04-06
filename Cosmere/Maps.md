@@ -3,11 +3,10 @@
 |by  Dragontrill |
 |**Died**|Tanataches 1173|
 |**Profession**|Bridgeman|
-|**Groups**|[[Bridge Four\|Bridge Four]]🐱︎, Sadeas army|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*And all the world was shattered. The rocks trembled with their steps, and the stones reached towards the heavens. We die! We die!*”
 \-Maps's Death Rattle[1]

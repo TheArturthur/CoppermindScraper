@@ -2,9 +2,8 @@
 |-|-|
 |**Family**|
 |**Parents**|Brightlord [[Lustow\|Lustow]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Janala is a fool, just bright enough to be proud of the wits she has, but stupid enough to be unaware of how outmatched they are.*”
 \- Jasnah [1]
@@ -25,4 +24,4 @@ In [[Urithiru\|Urithiru]] Janala was working as [[Teshav\|Teshav's]] assistant. 
 
 
 
-https://coppermind.net/wiki/Janala_Lustow
+https://coppermind.net/wiki/Janala

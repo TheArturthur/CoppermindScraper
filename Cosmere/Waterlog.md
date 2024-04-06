@@ -2,14 +2,17 @@
 |-|-|
 |**Died**|Killed by [[Reckoners\|Reckoners]]|
 |**Abilities**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Aliases**|Georgi|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-**Waterlog** was the [[Epic\|Epic]] from whose powers the spyril is derived, and thus likely had water-manipulation abilities. Prior to becoming an Epic, he was a street thug from Orlando known as **Georgi**.
+**Waterlog** was an [[Epic\|Epic]] with water-manipulation abilities. Prior to becoming an Epic, he was a street thug from Orlando known as **Georgi**.
 
 ## History
-[[Regalia\|Regalia]] claims to have turned him into an Epic, although it is later revealed that the powers are actually granted by [[Calamity (Epic)\|Calamity]].
-At some point, Waterlog was killed by the [[Reckoners\|Reckoners]] and his cells were used to create the [[Spyril\|spyril]].
+[[Regalia\|Regalia]] claimed to have turned Georgi into an Epic, although his powers were actually granted by [[Calamity (Epic)\|Calamity]].
+At some point, Waterlog was killed, presumably by the [[Reckoners\|Reckoners]]. His cells were turned into a [[Motivator\|motivator]] that [[Knighthawk Foundry\|Knighthawk Foundry]] used to create the [[Spyril\|spyril]].
+
+## Legacy
+The spyril became a key tool for the Reckoners, used first by [[Sam (Reckoner)\|Sam]], and later by [[David Charleston\|David Charleston]]. When Regalia attempted to have Calamity turn David into an Epic, she suggested that he should be given the same powers as Waterlog.
 
 
 

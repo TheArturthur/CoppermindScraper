@@ -1,10 +1,10 @@
 |**Elizandra Dramali**|
 |-|-|
 |by  botanicaxu |
-|**Species**|[[Koloss\|Koloss]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Ethnicity**|[[Koloss\|Koloss]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*Allomancer Jak and the Pits of Eltania*|
 
 **Elizandra Dramali** is the [[Koloss\|Koloss]]-blooded girlfriend of [[Allomancer\|Allomancer]] [[Jak\|Jak]].
 

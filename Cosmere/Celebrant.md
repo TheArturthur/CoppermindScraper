@@ -1,12 +1,9 @@
 |**Celebrant**|
 |-|-|
 |by  Isaac Stewart |
-|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]🐱︎|
-|**World**|[[Shadesmar\|Shadesmar]]🐱︎|
+|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]|
+|**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Celebrant is a prominent city. In it, we could find passage wherever we wish to go.*”
 \-Pattern remarking on Celebrant[1]
@@ -55,7 +52,7 @@ The market is comprised mostly of open stalls with goods piled on tables. There 
 
 ## History
 Celebrant used to be a free city state, though it was taken over by [[Voidspren\|voidspren]] during the [[True Desolation\|True Desolation]]. However, they didn't have firm control over the city, being present mostly through a few [[Fused\|Fused]] officials.
-In Nan 1174 [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], [[Sylphrena\|Sylphrena]], [[Pattern\|Pattern]], and [[Azure\|Azure]] passed through Celebrant after getting stuck in Shadesmar following the [[Siege of Kholinar\|Siege of Kholinar]]. The group arrived on a ship captained by [[Ico\|Ico]]. They purchased clothing, weapons, and food in the market. Shallan sought passage on ships heading toward [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] or [[Thaylen City\|Thaylen City]], but the group was ultimately forced to leave swiftly aboard *Honor's Path*, pursued by Fused.
+In Nan 1174 [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], [[Sylphrena\|Sylphrena]], [[Pattern\|Pattern]], and [[Azure\|Azure]] passed through Celebrant after getting stuck in Shadesmar following the [[Siege of Kholinar\|Siege of Kholinar]]. The group arrived on a ship captained by [[Ico\|Ico]]. They purchased clothing, weapons, and food in the market. Shallan sought passage on ships heading toward [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] or [[Thaylen City\|Thaylen City]], potentially finding them passage on a boat run by Kasiden peakspren. Unfortunately, the peakspren sailed away at the signs of danger and the Shallan and co were ultimately forced to leave swiftly aboard *Honor's Path*, pursued by Fused.
 
 ## Culture
 >“*They seem to wear whatever. That’s an Alethi officer’s coat over an Azish scribe’s vest. Tashikki wrap worn with trousers, and there’s almost a full Thaylen tlmko, but they’re missing the boots.*”

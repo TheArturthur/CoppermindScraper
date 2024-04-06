@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Computer expert|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Chowyun Chin** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]].
 He is a computer expert, and helped [[Ivans\|Ivans]] talk Stephen through fixing a large computer system during the [[Longway Incident\|Longway Incident]]. He always wears sunglasses, even while inside or when the sun isn't out. He helps Stephen to create and maintain some of the high-tech programs he keeps on his phone.
@@ -11,4 +10,4 @@ Just after [[Armando\|Armando]] turned into a nightmare, Chin hung out in the ga
 
 
 
-https://coppermind.net/wiki/Chin
+https://coppermind.net/wiki/Chowyun_Chin

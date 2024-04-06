@@ -1,9 +1,8 @@
 |**Tuki Tuki**|
 |-|-|
-|**Region**|[[Free Kingdoms\|Free Kingdoms]]🐱︎|
-|**Nation**|[[Mokia\|Mokia]]🐱︎|
+|**Region**|[[Free Kingdoms\|Free Kingdoms]]|
+|**Nation**|[[Mokia\|Mokia]]|
 |**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
 
 >“*We like huts. Sure, we could build skyscrapers or castles. But why? To cut ourselves off from the sky with walls of stone and steel?*”
 \-King Talakimallo explaining the simplistic housing to Alcatraz[1]

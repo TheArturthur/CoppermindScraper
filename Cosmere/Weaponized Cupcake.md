@@ -1,8 +1,7 @@
 |**Weaponized Cupcake**|
 |-|-|
 |**Type**|Musical Band|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*I was the only one in that band who knew their way around an instrument. I wrote song after song, and what did we play? Those stupid, stupid riffs! The same chords, every damn song!*”
 \-Mitosis[1]

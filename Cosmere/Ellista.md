@@ -3,9 +3,8 @@
 |by  Treefin |
 |**Profession**|[[Ardent\|Ardent]] in the Devotary of the Mind|
 |**Residence**|[[Jokasha Monastery\|Jokasha Monastery]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Ellista** is an [[Ardent\|ardent]] and scholar at the [[Jokasha Monastery\|Jokasha Monastery]] in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. She is part of the Devotary of the Mind. She is a diachronic linguist and one of the scholars involved in the [[Dawnchant\|Dawnchant]] translation.
 

@@ -3,9 +3,8 @@
 |**Type**|Journal|
 |**Author**|[[Navani Kholin\|Navani Kholin]]|
 |**Language**|[[Women's script\|Women's script]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Navani Kholin's journal** is an autobiographical account of history of her life on [[Roshar\|Roshar]], notably including the events surrounding the [[Assassination of Gavilar\|assassination of Gavilar]] and the coming of the [[Everstorm\|Everstorm]].
 She keeps a separate [[Navani's notebook\|notebook]] related to her scholarly research.

@@ -1,9 +1,8 @@
 |**Grips**|
 |-|-|
 |**Type**|Street gang|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Grips** are a gang of thugs in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].
 During the [[Siege of Kholinar\|Siege of Kholinar]], [[Shallan Davar\|Shallan Davar]] (in her Veil persona) starts bringing food to displaced people in the city including [[Grund\|Grund]], [[Tai\|Tai]], [[Muri\|Muri]], [[Ma\|Ma]], and [[Seland\|Seland]]. Unbeknownst to Shallan, her conspicuous actions quickly attract the attention of the Grips. They start forcing the refugees to wait all day for Veil's deliveries; Grund says that they beat him if he leaves his post or tries to take any food for himself. The Grips also blame Grund if Veil does not bring much food.

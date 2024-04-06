@@ -1,11 +1,10 @@
 |**Peakspren**|
 |-|-|
 |by  Ben McSweeney |
-|**Type**|[[Spren\|Spren]]🐱︎|
+|**Type**|[[Spren\|Spren]]|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Stoneward\|Stoneward]] magic, [[Splinter\|Splinter]]s|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Peakspren** are a subset of [[Spren\|spren]] that exist on [[Roshar\|Roshar]]. They are capable of forming a [[Nahel bond\|Nahel bond]], granting people the abilities of the [[Order of Stonewards\|Order of Stonewards]].
 

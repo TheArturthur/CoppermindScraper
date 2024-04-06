@@ -3,9 +3,8 @@
 |by User:KalynaAnne|
 |**Type**|Plant|
 |**Native to**|[[Shattered Plains\|Shattered Plains]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For more images, see [[Frillbloom/Gallery\|/Gallery]].
 **Frillbloom** is a family of plants native to [[Roshar\|Roshar]]. It is common in the chasms of the [[Shattered Plains\|Shattered Plains]], and grows larger there than it does in other places.

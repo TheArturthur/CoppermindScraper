@@ -3,11 +3,11 @@
 |by  LittleGreyDragon |
 |**Owner**|[[Riino\|Riino]]|
 |**Usage**|Lighthouse|
-|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
+This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*You have come to witness the extraordinary, and I shall provide it. The price is a mere two marks of Stormlight. You shall be greatly rewarded in kind—both in dreams and luster!*”
 \-Riino pitching his fortunetelling business[1]
 

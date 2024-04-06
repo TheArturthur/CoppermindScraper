@@ -5,9 +5,8 @@
 |**Siblings**|[[Evi Kholin\|Evi Kholin]]|
 |**Relatives**|[[Adolin\|Adolin]], [[Renarin\|Renarin]] |
 |**Nationality**|[[Riran\|Riran]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* The Heralds themselves favor you.*”
 \- Toh to Gavilar[1]

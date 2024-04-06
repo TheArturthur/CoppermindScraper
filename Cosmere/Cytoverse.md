@@ -1,5 +1,5 @@
  by  Sam Green  Cover of the British edition of *Skyward*
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Cytoverse** is the setting of *Defending Elysium* and the [[Skyward (series)\|Skyward series]]. It is our own world, albeit in the far future; as such, it is not part of the [[Cosmere\|cosmere]]. Alongside [[Earth (Skyward)\|Earth]] and humanity, it contains numerous spacefaring species, all of which share a magic system known as [[Cytonics\|cytonics]], which is what the universe is named after.
 
@@ -46,23 +46,23 @@ The Cytoverse is a setting possessing highly advanced technology, from laser wea
 
 ### Nowhere
 For more information, see [[Nowhere\|Nowhere]].
-The universe is comprised of two connected realities -- our own and **nowhere**, an interdimensional "world" with strange relation to time and space. Little is known of nowhere's appearance, though it is home to a type of beings called [[Delver\|delvers]], as well as a mineral called the [[Acclivity stone\|acclivity stone]]. Regular rules of physics do not apply there completely, and everything to come from nowhere possesses extraordinary properties. The best-known among them is acclivity stone, which is used to counteract gravity and thus provide lift to all spaceships and space stations.
-The easiest way for most people to enter nowhere is through a **nowhere portal**, a stable wormhole leading to it and back. Such portals can be found on many worlds, and though the markings on them indicate that they were made rather than arising naturally, it's unknown who created them. The portals let both people and equipment be taken through, which allows for mining [[Acclivity stone\|acclivity stone]].
+The universe is comprised of two connected realities -- our own (sometimes referred to as "the somewhere") and nowhere, an interdimensional "world" with strange relation to time and space. Little is known of nowhere's appearance, though it is home to a type of beings called [[Delver\|delvers]], as well as a mineral called the [[Acclivity stone\|acclivity stone]]. Regular rules of physics do not apply there completely, and everything to come from nowhere possesses extraordinary properties. The best-known among them is acclivity stone, which is used to counteract gravity and thus provide lift to all spaceships and space stations.
+The easiest way for most people to enter nowhere is through a nowhere portal, a stable wormhole leading to it and back. Such portals can be found on many worlds, and though the markings on them indicate that they were made rather than arising naturally, it's unknown who created them. The portals let both people and equipment be taken through, which allows for mining [[Acclivity stone\|acclivity stone]].
 
 ### Cytonics
  by  mushimallo  [[Spensa\|Spensa]] and [[Doomslug\|Doomslug]], a sapient and a non-sapient cytonic
 For more information, see [[Cytonics\|Cytonics]].
-Apart from the portals, nowhere can also be accessed by people called **cytonics**. Species, including non-sapient ones, are capable of developing cytonic abilities; how they first appear is undetermined, but once they do show up, they are passed down to the original cytonic's descendants. They allow for more than just peering into nowhere -- "cytonics" refers to a whole host of psychic powers.
+Apart from the portals, nowhere can also be accessed by people called cytonics. Species, including non-sapient ones, are capable of developing cytonic abilities; how they first appear is undetermined, but once they do show up, they are passed down to the original cytonic's descendants. They allow for more than just peering into nowhere -- "cytonics" refers to a whole host of psychic powers.
 Cytonic abilities include, among others, telepathy, mind swapping, illusions and teleportation. Most, if not all of them require that the cytonic connect themselves to nowhere. Teleportation in particular utilizes nowhere heavily, as the body of the cytonic, along with whatever else they're carrying, travels through nowhere to its destination. Though time appears to pass for the cytonic, to others, the jump happens instantly.
 In fact, both teleportation and telepathy work instantaneously, and thus faster-than-light. As such, they are the basis of the two most crucial technologies in the universe: cytonic communication and FTL travel. All FTL-capable starships in the Cytoverse travel using cytonics, with non-sapient slugs known as the [[Taynix\|taynix]] serving as living hyperdrives. Moreover, cytonics can be shared with the rest of the populace, as cytonics can be augmented with mechanical equipment; that's how a single creature can carry an entire ship across the stars. Conversely, machines can also be built to utilize nowhere, albeit to a lesser extent than living creatures.
 
 ### Delvers
 For more information, see [[Delver\|Delver]].
-Cytonics are not without their dangers. Chief among those are **delvers**, the inhabitants of nowhere. Delvers despise both radio signals and, more importantly, cytonics. When sufficiently agitated, they can transport themselves into the physical world. A single delver can be as large as a moon, and possesses a number of deadly powers, including the ability to create and launch meteors, and the capacity to destroy any living being they pass through. This makes them extremely dangerous, and has led to extreme limits being put on the use of cytonics.
+Cytonics are not without their dangers. Chief among those are [[Delver\|delvers]], the inhabitants of nowhere. Delvers despise both radio signals and, more importantly, cytonics. When sufficiently agitated, they can transport themselves into the physical world. A single delver can be as large as a moon, and possesses a number of deadly powers, including the ability to create and launch meteors, and the capacity to destroy any living being they pass through. This makes them extremely dangerous, and has led to extreme limits being put on the use of cytonics.
 
 ## History
 ### Discovery of cytonics and First Contact
-Across the known universe, all sapient species developed [[Cytonics\|cytonic]] abilities prior to discovering advanced technology; as such, they would often abandon further pursuit of conventional sciences in favour of the psionic powers. Humanity is one exception to that. Earth was already advanced technologically by the time the [[Phone Company\|Phone Company]] began developing cyto, a cybernetics-based method of telepathic linking. Those early experiments were unsuccessful, but they were enough to attract the attention of the spacefaring [[Tenasi\|tenasi]]. After a misunderstanding led to the tenasi scout being shot down by [[United Governments\|United Governments]] military, the Phone Company negotiated more peacable relations, and, as a result, became the sole point of contact between humans and aliens.
+Across the known universe, all sapient species developed [[Cytonics\|cytonic]] abilities prior to discovering advanced technology; as such, they would often abandon further pursuit of conventional sciences in favour of the psionic powers. Humanity is one exception to that. Earth was already advanced technologically by the time the [[Phone Company\|Phone Company]] began developing Cyto, a cybernetics-based method of telepathic linking. Those early experiments were unsuccessful, but they were enough to attract the attention of the spacefaring [[Tenasi\|tenasi]]. After a misunderstanding led to the tenasi scout being shot down by [[United Governments\|United Governments]] military, the Phone Company negotiated more peacable relations, and, as a result, became the sole point of contact between humans and aliens.
 From then on out, humanity spread across the Solar System, watched over by the Phone Company. Some of its employees believed that the other races of the universe needed to be protected from humankind and its barbaric ways until the time was right for them to join the truly civillized societies. However, it eventually became apparent that the aliens' peace came at a cost -- they would imprison their dissidents and cut them off from cytonics. In the aftermath of this revelation, a PC operative named [[Jason Write\|Jason Write]] decided to share the FTL technology, which the Company had developed, but kept hidden, with the rest of the populace.
 
 ### Human Wars
@@ -78,7 +78,7 @@ Of all the species, humanity had its rights curtailed the most. The remnants wer
 
 ## Inhabitants
 >“*Even the wildest of Gran-gran's stories couldn't compete with the universe's biodiversity.*”
-\-Spensa[23] 
+\-Spensa[24] 
 
 Cytoverse is inhabited by numerous sapient species of varied shapes, sizes and configurations. Most appear to be roughly humanoid, walking upright with an even number of limbs. Their sizes vary, with the smallest being only a handspan tall, while the largest are bigger than humans. Despite apparent physical similarities, they can differ vastly in their biology; for example, the [[Dione\|dione]] can change their biological sex during their lifetime, while the [[Varvax\|varvax]] are actually small creatures possessing large exoskeletons.
 Apart from the humanoid aliens, the Cytoverse is also home to vastly different ones. Those range from a species resembling spike-covered balloons, to [[Figment\|figments]], which are invisible, sapient smells.
@@ -87,27 +87,27 @@ Apart from the humanoid aliens, the Cytoverse is also home to vastly different o
 ### Known species
 
 
-[[Varvax\|varvax]] (often called "Krell" by the [[Defiant League\|Defiants]])
-[[Tenasi\|tenasi]]
-[[Dione\|dione]]
-[[Heklo\|heklo]]
-[[Cambric\|cambric]]
+[[Varvax\|Varvax]] (often called "Krell" by the [[Defiant League\|Defiants]])
+[[Tenasi\|Tenasi]]
+[[Dione\|Dione]]
+[[Heklo\|Heklo]]
+[[Cambric\|Cambric]]
 
 
 
-humans
-[[Figment\|figments]]
-[[Delver\|delvers]]
-[[Kitsen\|kitsen]]
-[[Taynix\|taynix]] (non-sapient)
-[[Burl (species)\|burl]]
+Humans
+[[Figment\|Figments]]
+[[Delver\|Delvers]]
+[[Kitsen\|Kitsen]]
+[[Taynix\|Taynix]] (non-sapient)
+[[Burl (species)\|Burl]]
 [[Cormax drones\|Cormax drones]]
-[[Solquis\|solquis]]
-[[Wrexians\|wrexians]]
+[[Solquis\|Solquis]]
+[[Wrexians\|Wrexians]]
 [[UrDail\|UrDail]]
-[[Hommar\|hommar]]
-[[Tanuzedran\|tanuzedran]]
-[[Resonant\|resonants]]
+[[Hommar\|Hommar]]
+[[Tanuzedran\|Tanuzedran]]
+[[Resonant\|Resonants]]
 
 ### Human influence
 Human culture has had a vast impact on other sapient creatures. This seems to have began even before the Human Wars, with [[Kitsen\|kitsen]] using the Japanese term *daimyo* to refer to their leaders. However, it was during the Wars that humanity truly put their mark on the universe. Human languages -- mainly English, Spanish, Hindi and Mandarin -- are to this day carried by all translator pins, and serve as common tongues for all species of the galaxy. The [[UrDail\|UrDail]], which saw extensive contact with humans, have been impacted even further, with their native tongue coming to resemble English.
@@ -134,21 +134,22 @@ The name "Cytoverse" itself came about fairly late, almost half a year after the
 While so far, the future of Cytoverse includes only the final book in the Skyward Series, Brandon does have some ideas for more stories in the setting. In particular, he remains interested in the concept of biological FTL.
 
 ## Bibliography of the Cytoverse
-|**Published Works of the Cytoverse**|
+|**Year**|**Book**|**Series**|**Length**|**Notes**|**Refs**|
 |-|-|
-|**Publication Year**|**Title**|**Series**|
-|**2009**|[[Defending Elysium\|Defending Elysium]]|Standalone|
-|**2018**|[[Skyward\|Skyward]]|[[Skyward (series)\|Skyward]] #1|
-|**2019**|[[Starsight\|Starsight]]|[[Skyward (series)\|Skyward]] #2|
-|**2021**|[[Sunreach\|Sunreach]]|[[Skyward (series)\|Skyward]] #2.1|
-|[[ReDawn (novella)\|ReDawn]]|[[Skyward (series)\|Skyward]] #2.2|
-|[[Cytonic (book)\|Cytonic]]|[[Skyward (series)\|Skyward]] #3|
-|[[Evershore (novella)\|Evershore]]|[[Skyward (series)\|Skyward]] #3.1|
+|**2009**|[[Defending Elysium\|Defending Elysium]]|Standalone|Novella|
+|**2018**|[[Skyward\|Skyward]]|[[Skyward (series)\|Skyward]] #1|Novel|
+|**2019**|[[Starsight\|Starsight]]|[[Skyward (series)\|Skyward]] #2|Novel|
+|**2021**|[[Sunreach\|Sunreach]]|[[Skyward (series)\|Skyward]] #2.1|Novella|Co-written with [[Janci Patterson\|Janci Patterson]]|
+|[[ReDawn (novella)\|ReDawn]]|[[Skyward (series)\|Skyward]] #2.2|Novella|Co-written with Janci Patterson|
+|[[Cytonic (book)\|Cytonic]]|[[Skyward (series)\|Skyward]] #3|Novel|
+|[[Evershore (novella)\|Evershore]]|[[Skyward (series)\|Skyward]] #3.1|Novella|Co-written with Janci Patterson|
+|**2023**|[[Defiant (book)\|Defiant]]|[[Skyward (series)\|Skyward]] #4|Novel|
+|[[Hyperthief\|Hyperthief]]|[[Skyward (series)\|Skyward]] #3.2|Short Story|Co-written with Janci Patterson|
 
 ### Forthcoming works
 The following are confirmed upcoming works set in the Cytoverse:
 
-**Defiant** - the fourth and final book in the Skyward series.
+*Skyward Legacy* - the sequel trilogy to *Skyward*.
 
 
 https://coppermind.net/wiki/Cytoverse

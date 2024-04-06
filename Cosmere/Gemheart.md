@@ -1,9 +1,8 @@
 |**Gemheart**|
 |-|-|
 |by  Kelley Harris |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -13,7 +12,7 @@ A **gemheart** is a gemstone found in many native animal species on [[Roshar\|Ro
 
 1 Origin and Purpose
 2 Size
-3 Post Everstorm
+3 Singer Gemhearts
 4 Gemheart Harvesting
 
 4.1 The War of Reckoning
@@ -21,7 +20,7 @@ A **gemheart** is a gemstone found in many native animal species on [[Roshar\|Ro
 
 
 5 Known Species With Gemhearts
-6 Culture
+6 Trivia
 7 Notes
 
 
@@ -33,20 +32,21 @@ Humans on Roshar, even [[Surgebinder\|Surgebinders]] with spren bonds, do not ha
 ## Size
 In general, the bigger the animal, the bigger the gemheart. Those found in chasmfiends were worth a small fortune. [[Chasmfiend\|Chasmfiends]] and other large [[Chull\|chull-like]] animals called greatshells have enormous gemhearts. [[Dalinar Kholin\|Dalinar Kholin]] stated that the ones found in chasmfiends were the largest gemhearts he had ever seen, although it is likely that the [[Tai-na\|Tai-na]] have even larger ones.
 
-## Post Everstorm
-[[Venli\|Venli]] utilizing [[Envoyform\|Envoyform]], advises new [[Singers\|singers]] that if they don't "want" the new power offered, it won't be able to take place in their 
-The gemhearts of [[Singers\|singers]] are considered sacred and personal.
+## Singer Gemhearts
+[[Venli\|Venli]] utilizing [[Envoyform\|Envoyform]], advises new [[Singers\|singers]] that if they don't "want" the new power offered, it won't be able to take place in their gemheart.
+[[Listeners\|Listeners]] consider gemhearts sacred and personal, however a [[Fused\|Fused]] mocks this, saying that gemhearts were just another part of a singer body.
 It is possible for [[Singers\|singers]] to hold more than one [[Spren\|spren]] in their gemhearts simultaneously, including both Radiant and Voidspren.
+Singer gemhearts are cloudy white.
 
 ## Gemheart Harvesting
  by  EccoS  [[Elhokar\|Elhokar]] extracting the gemheart from a [[Chasmfiend\|chasmfiend]]
-Just as Stormlight is considered valuable by the people on Roshar, so are the Polestones that hold Stormlight. Because much of the land on the continent has been covered by crem, mining is more difficult compared to other planets, and so most gemstones that people use are from gemhearts, which are harvested from various animals.
+Just as Soulcasters are considered valuable by the people on Roshar, so are the Polestones that enable their function. Because much of the land on the continent has been covered by crem, mining is more difficult compared to other planets, and so most gemstones that people use are from gemhearts, which are harvested from various animals.
 Some species have gemhearts that are of just one gemstone type, while others vary. Species that only have one type of gemheart are considered more ideal for harvesting.
 [[Gumfrems\|Gumfrems]], small chull-like animals, are raised by some farmers in [[Alethkar\|Alethkar]] for their small heliodor gemhearts that can be harvested and used to [[Soulcast\|Soulcast]] meat.
 Chasmfiends have emerald gemhearts. The ability to Soulcast grain from them, combined with their relatively large size, makes chasmfiend gemhearts extremely valuable. Because chasmfiends are aggressive and extremely dangerous greatshells that cannot be domesticated, humans resort to hunting for their chrysalises on the [[Shattered Plains\|Shattered Plains]] most of the time.
 
 ### The War of Reckoning
-The discovery of chasmfiends containing such valuable gemhearts completely altered the [[War of Reckoning\|War of Reckoning]]. Attempting to directly attack the [[Parshendi\|Parshendi]] base, located far into the [[Shattered Plains\|Shattered Plains]], was risky and expensive. However, when a chasmfiend climbed onto a plateau to pupate, the [[Highprince\|highprinces]] and Parshendi alike would extend themselves to attempt to retrieve the gemheart of the resulting chrysalis. The [[Highprince\|highprinces]] all agreed that these periodic clashes suitably upheld the [[Vengeance Pact\|Vengeance Pact]], and the War of Reckoning effectively devolved into little more than a decade-long competition.
+The discovery of chasmfiends containing such valuable gemhearts completely altered the [[War of Reckoning\|War of Reckoning]]. Attempting to directly attack the [[Parshendi\|Parshendi]] base, located far into the [[Shattered Plains\|Shattered Plains]], was risky and expensive. However, when a chasmfiend climbed onto a plateau to pupate, the [[Highprince\|highprinces]] and Parshendi alike would extend themselves to attempt to retrieve the gemheart of the resulting chrysalis. The [[Highprince\|highprinces]] all agreed that these periodic clashes suitably upheld the [[Vengeance Pact\|Vengeance Pact]], and the War of Reckoning effectively devolved into little more than a competition spanning half a decade.
 During the War of Reckoning, Highprince [[Roion\|Roion]] was the one who captured the fewest gemhearts.
 
 ### Ecological Effect
@@ -62,10 +62,11 @@ The hunting for chasmfiends to gain gemhearts will harm [[Roshar\|Roshar's]] eco
 [[Gumfrems\|Gumfrems]]
 [[Axehound\|Axehound]]
 [[Cremling\|Cremling]]
+[[Yu-nerig\|Yu-nerig]]
 
-## Culture
+## Trivia
 Gemheart is used as a term of endearment. [[Dalinar\|Dalinar]] uses it to refer to [[Navani\|Navani]].
-
+[[Kandra\|Kandras]] with a crystal [[True Body\|True Body]] can use their crystal bones like a gemheart.
 
 
 https://coppermind.net/wiki/Gemheart

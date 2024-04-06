@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Beznk** is a [[Thaylen\|Thaylen]] sailor on the *Wind's Pleasure* under Captain [[Tozbek\|Tozbek]] on [[Roshar\|Roshar]].
 

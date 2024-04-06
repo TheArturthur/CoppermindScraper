@@ -1,13 +1,12 @@
 |**Nightwind**|
 |-|-|
 |**Type**|Fungus|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Nightwind** is a fungus on the [[Pantheon\|Pantheon]].
 Its spores are an effective deterrent, and are cultivated by trappers. The spores can be trapped by pouring water over the fungus.
-[[Vathi\|Vathi]] poured water over [[Dusk\|Dusk's]] patch on [[Patji (island)\|Patji]] while she made her way towards his safecamp.
+[[Dusk\|Dusk]] cultivated a patch of the fungi for years on [[Patji (island)\|Patji]], and while [[Vathi\|Vathi]] she made her way towards Dusk's safecamp, she poured water over the nightwind fungi to prevent its spores from spreading.
 
 
 

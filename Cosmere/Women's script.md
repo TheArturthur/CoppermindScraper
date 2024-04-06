@@ -2,13 +2,10 @@
 |-|-|
 |by  Isaac Stewart |
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
-
-The **women's script** is an alphabetic writing system used in [[Vorin\|Vorin]] nations, such as [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and [[Kharbranth\|Kharbranth]], on [[Roshar\|Roshar]]. The script is a phonetic alphabet, meaning each symbol, or "grapheme", denotes a particular sound, or "phoneme", and is written left to right starting in the top left hand corner of a page. Each letter is determined by both shape and size. As is indicated by the name, it is almost exclusively used by women, as writing is considered a feminine pursuit. The women's script is distinctly different from [[Glyphs\|glyphs]], which are a more logographic writing system (albeit with a phonetic component), which men are also allowed to learn.
+The **women's script** is an alphabetic writing system used in [[Vorin\|Vorin]] nations, such as [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and [[Kharbranth\|Kharbranth]], on [[Roshar\|Roshar]]. The script is a phonetic alphabet, meaning each symbol, or "grapheme", denotes a particular sound, or "phoneme", and is written left to right starting in the top left hand corner of a page. Each letter is determined by shape and size, and can be modified by the presence of one or two small lines after it. As is indicated by the name, it is almost exclusively used by women, as writing is considered a feminine pursuit. The women's script is distinctly different from [[Glyphs\|glyphs]], which are a more logographic writing system (albeit with a phonetic component), which men are also allowed to learn.
 
 ## Contents
 
@@ -30,192 +27,21 @@ The twenty-five known letters in the women's script can be arranged into five se
 Within each set the characters are defined by height and the addition of shorter lines. The first character is the maximum height, the second is two-thirds the height of the first, and the third is one-third the height of the first. The fourth is the same height as the second with the addition of two short lines to the right, and the fifth is the same height as the third with the addition of one short line to the right.
 
 ### Punctuation
-Women's script has only one known character for punctuation. It is a single vertical line with two small, horizontal lines at the top and bottom. It is written at the beginning of a passage and it defines the maximum character height. Questions are marked by adding “ha” at the end of the last word in the sentence. There is also a question mark present in Navani's sketch in *Oathbringer* on page 447, but judging by the handwriting this was added later by [[Nazh\|Nazh]] and is not part of the women's script. It is unknown what other punctuation exists, if any, as no other examples have been observed.
+Women's script has only one known character for punctuation. It is a single vertical line with two small, horizontal lines at the top and bottom. It is written at the beginning of a sentence and it defines the maximum character height. Questions are marked by adding “ha” at the end of the last word in the sentence. There is also a question mark present in Navani's sketch in *Oathbringer* on page 447, but judging by the handwriting this was added later by [[Nazh\|Nazh]] and is not part of the women's script. There is also a diacritic mark denoting if a letter in an otherwise symmetrical word is pronounced “h,” but it is currently unknown what this looks like, only that it is present both above and below the letter. It is unknown what other punctuation exists, if any, as no other examples have been observed.
 
 ### Women's Script Characters
-
-
-
-
-**E**
-
-
-
-
-
-
-**A**
-
-
-
-
-
-
-**O**
-
-
-
-
-
-
-**U/W**
-
-
-
-
-
-
-**I**
-
-
-
-
-
-
-**T**
-
-
-
-
-
-
-**D**
-
-
-
-
-
-
-**R**
-
-
-
-
-
-
-**TH**
-
-
-
-
-
-
-**L**
-
-
-
-
-
-
-**S**
-
-
-
-
-
-
-**Z**
-
-
-
-
-
-
-**N**
-
-
-
-
-
-
-**SH**
-
-
-
-
-
-
-**H**
-
-
-
-
-
-
-**P**
-
-
-
-
-
-
-**B**
-
-
-
-
-
-
-**M**
-
-
-
-
-
-
-**F**
-
-
-
-
-
-
-**V**
-
-
-
-
-
-
-**K**
-
-
-
-
-
-
-**G**
-
-
-
-
-
-
-**Y**
-
-
-
-
-
-
-**CH**
-
-
-
-
-
-
-**J**
-
-
-
-
-
-
-symbol used to denote maximum character height
-
-
-
+|**Set**|**Starting Punctuation**|**First**|**Second**|**Third**|**Fourth**|**Fifth**|
+|-|-|
+|Vowel set|||||||
+|Height Marker|**E**|**A**|**O**|**U or W**|**I**|
+|T set|||||||
+|Height Marker|**T**|**D**|**R**|**Th**|**L**|
+|S set|||||||
+|Height Marker|**S**|**Z**|**N**|**Sh**|**H**|
+|P set|||||||
+|Height Marker|**P**|**B**|**M**|**Ph**|**V**|
+|K set|||||||
+|Height Marker|**K**|**G**|**Y**|**Ch**|**J**|
 
 ## Examples of women's script
 

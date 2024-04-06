@@ -1,8 +1,7 @@
 |**Havendark Factory**|
 |-|-|
-|**City**|[[Newcago\|Newcago]]🐱︎|
+|**City**|[[Newcago\|Newcago]]|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Reckoners*|
 
 **Havendark Factory**, also known as the Factory, is a orphanage and workhouse operating in [[Newcago\|Newcago]]. It would provide orphans with schooling, shelter, and food, in return for free labor.
 It is where [[David Charleston\|David Charleston]] and [[Roy\|Roy]] grew up, under the watch and tutelage of [[Martha\|Martha]]. Martha made sure that the orphans were fed, clothed, and protected, from outsiders and from each other.

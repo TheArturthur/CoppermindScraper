@@ -1,14 +1,13 @@
-|**Skyward Flight**|
-|-|-|
-|by  botanicaxu |
-|**Leader**|[[Jorgen\|Jorgen]]|
-|**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
-|**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
+| **Skyward Flight**  |                                                                         |
+| ------------------- | ----------------------------------------------------------------------- |
+| by  botanicaxu      |                                                                         |
+| **Leader**          | [[Jorgen\|Jorgen]]                                                      |
+| **Headquarters**    | [[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]] |
+| **Type**            | DDF flight                                                              |
+| **World of Origin** | [[Detritus\|Detritus]]                                                  |
+| **Universe**        | [[Cytoverse\|Cytoverse]]                                                |
 
-This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 This article is about the [[DDF\|DDF]] flight. For the collection of novellas between *Starsight* and *Cytonic*, see Skyward (series)#Skyward Flight Novellas.
 **Skyward Flight** was a squadron of ten cadet pilots of [[Poco\|Poco]]-class [[Starfighter\|starfighters]] in the [[Defiant Defense Force\|Defiant Defense Force]] on [[Detritus\|Detritus]]. Original members of the group notably include [[Spensa Nightshade\|Spensa Nightshade]], daughter of [[Chaser\|Chaser]], [[Jorgen Weight\|Jorgen Weight]], son of a [[First Citizen\|First Citizen]] and a [[National Assembly Leader\|National Assembly Leader]], and [[Rodge McCaffrey\|Rodge McCaffrey]], the highest scoring cadet on that year's pilot test.
@@ -51,7 +50,7 @@ Shortly before graduation, the remaining members of Skyward Flight are assigned 
 The two remaining members of Skyward Flight, Jorgen and FM, graduated and became full pilots. The flight was then disbanded, as Jorgen and FM were forced to immediately join full DDF Flights to fight in the [[Battle of Alta Second\|Battle of Alta Second]]. Mongrel, Spin, Amphi, Quirk, and Nedder also participated in the battle, although they did so outside of the DDF's authority.
 
 ### Reformation
-After the Battle of Alta Second, Skyward Flight was reformed. Jorgen and FM were transferred back to Skyward Flight; Nedd, Arturo, Kimmalyn, and Spensa were recalled to active service; and the veteran pilots [[Catnip\|Catnip]] and [[T-Stall\|T-Stall]] as well as the cadet [[Sadie\|Sadie]] were added to the flight to fill in some of the gaps in the flight's roster. Jorgen continued to serve as flightleader, with Arturo and Nedd as his first and second assistants respectively. Since the flight's reformation, its pilots have changed flight numbers several times. In particular, around the time of Spensa's mission to [[Starsight (station)\|Starsight]], Sadie had the designation Skyward Nine and FM had the designation Skyward Five. During the flight's mission to [[ReDawn (planet)\|ReDawn]], [[Alanik\|Alanik]] flew with Skyward Flight and was given the designation Skyward Eight; she also continued flying with them on their mission to [[Evershore (planet)\|Evershore]]. After the mission to Evershore, Jorgen was promoted to vice admiral and FM accepted command of the DDF's diplomatic efforts, thus removing both of them from the flight. With their departure, Arturo likely became the new flightleader.
+After the Battle of Alta Second, Skyward Flight was reformed. Jorgen and FM were transferred back to Skyward Flight; Nedd, Arturo, Kimmalyn, and Spensa were recalled to active service; and the veteran pilots [[Catnip\|Catnip]] and [[T-Stall\|T-Stall]] as well as the cadet [[Sadie\|Sadie]] were added to the flight to fill in some of the gaps in the flight's roster. Jorgen continued to serve as flightleader, with Arturo and Nedd as his first and second assistants respectively. Since the flight's reformation, its pilots have changed flight numbers several times. In particular, around the time of Spensa's mission to [[Starsight (station)\|Starsight]], Sadie had the designation Skyward Nine and FM had the designation Skyward Five. During the flight's mission to [[ReDawn (planet)\|ReDawn]], [[Alanik\|Alanik]] flew with Skyward Flight and was given the designation Skyward Eight; she also continued flying with them on their mission to [[Evershore (planet)\|Evershore]]. After the mission to Evershore, Jorgen was promoted to vice admiral and FM accepted command of the DDF's diplomatic efforts, thus removing both of them from the flight, though FM still flew with them on occasion. With their departure, Arturo became the new flightleader.
 
 ## Members
 ### Cadet Flight
@@ -71,19 +70,35 @@ After the Battle of Alta Second, Skyward Flight was reformed. Jorgen and FM were
 |[[Spensa Nightshade\|Spensa Nightshade]]|Spin|Skyward Ten|Dismissed and placed into reserve service after ejecting|
 
 ### Veteran Flight
-|**Skyward Flight Members**|
+|**Before Jorgen's Promotion to Admiral**|
 |-|-|
 |**Name**|**Callsign**|**Flight Number**|
 |[[Jorgen Weight\|Jorgen Weight]]|Jerkface|Skyward One|
+|[[Arturo Mendez\|Arturo Mendez]]|Amphisbaena ("Amphi")||
 |[[Nedd Strong\|Nedd Strong]]|Nedder||
+|[[Kimmalyn\|Kimmalyn]]|Quirk||
+|[[Freyja Marten\|Freyja Marten]]|FM|Skyward Five|
 |[[Trey\|Trey]]|T-Stall||
 |[[Corbin\|Corbin]]|Catnip||
-|[[Freyja Marten\|Freyja Marten]]|FM|Skyward Five|
-|[[Kimmalyn\|Kimmalyn]]|Quirk||
-|[[Arturo Mendez\|Arturo Mendez]]|Amphisbaena ("Amphi")||
 |[[Alanik\|Alanik]]|Angel|Skyward Eight|
 |[[Sadie\|Sadie]]|Sentry|Skyward Nine|
 |[[Spensa Nightshade\|Spensa Nightshade]]|Spin|Skyward Ten|
+
+|**In the Battle at Evensong**|
+|-|-|
+|**Name**|**Callsign**|**Flight Number**|
+|[[Arturo Mendez\|Arturo Mendez]]|Amphisbaena ("Amphi")|Skyward One|
+|[[Freyja Marten\|Freyja Marten]]|FM|Skyward Two|
+|[[Nedd Strong\|Nedd Strong]] and [[Hana\|Hana]]|Nedder|Skyward Three|
+|[[Alanik\|Alanik]]|Angel|Skyward Four|
+|[[Sadie\|Sadie]]|Sentry|Skyward Five|
+|[[Trey\|Trey]]|T-Stall|Skyward Six|
+|[[Corbin\|Corbin]]|Catnip|Skyward Seven|
+|Crew of the *Swims Upstream*||Skyward Eight|
+|[[Shiver\|Shiver]]|Stalwart|Skyward Nine|
+|[[Dllllizzzz\|Dllllizzzz]]||Skyward Ten|
+|[[Kimmalyn\|Kimmalyn]]|Quirk|Skyward Eleven|
+|[[Spensa Nightshade\|Spensa Nightshade]]|Spin|Skyward Twelve|
 
 
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Tree|
 |**Used for**|Medicine|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Fathom** is a type of tree native to [[Roshar\|Roshar]].
 Fathom bark can be used to reduce cranial swelling and also as a painkiller.

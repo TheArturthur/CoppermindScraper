@@ -3,9 +3,8 @@
 |**Residence**|[[Fu Abra\|Fu Abra]]|
 |**Ethnicity**|[[Selay\|Selay]]|
 |**Nationality**|[[Purelaker\|Purelaker]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Vun Makak eye you. That’s one all right. How am I ever going to catch you, man?*”
 \-Maib to Ishikk after having her gift of soup countered by Ishikk's trade of a kolgril[1]

@@ -1,14 +1,13 @@
 |**Aladar princedom**|
 |-|-|
 |**Ruler**|Highprince [[Aladar\|Aladar]]|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-**Aladar princedom** is one of the ten princedoms that form [[Alethkar\|Alethkar]]. Their colors are white and dark green. Their symbol is a [[Chull\|chull]].
+**Aladar princedom** is one of the ten princedoms that form [[Alethkar\|Alethkar]]. Their colors are black and maroon. Their symbol is a [[Chull\|chull]].
 
 ## Contents
 

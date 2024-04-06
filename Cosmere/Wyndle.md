@@ -4,9 +4,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Edgedancers\|Edgedancer]] magic, [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]]|
 |**Bonded With**|[[Lift\|Lift]]|
 |**Species**|[[Cultivationspren\|Cultivationspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -60,19 +60,19 @@ In the [[Cognitive Realm\|Cognitive Realm]], Wyndle is a proficient gardener of 
 Wyndle's [[Nahel bond\|bond]] with Lift gives him sentience in the Physical Realm and grants Lift the [[Surge\|Surges]] of [[Abrasion\|Abrasion]] and [[Progression\|Progression]]. This bond is strengthened as Lift swears additional ideals. For example, once Lift has sworn the Third Ideal of the Edgedancers, he gains the ability to become a physical, shape-shifting Shardblade.
 
 ## History
- by  Jessica Liu  Runing from [[Nale\|Nale]] with [[Lift\|Lift]]
+ by  Jessica Liu  Running from [[Nale\|Nale]] with [[Lift\|Lift]]
 ### Background
-Wyndle was a gardener. He collected souls of chairs and grew them into crystals.}
+Wyndle was a gardener. He collected souls of chairs and grew them into crystals.
 He was asked by the [[Ring\|Ring]] to bond with Lift, a decision Wyndle doesn't seem to like or understand.
 
 ### The Azish Palace robbery
-On the night that the [[Azish\|Azish]] were choosing a new [[Prime Aqasix\|Prime Aqasix]], Lift, Wyndle, and a gang of thieves went to rob the palace. Lift used Wyndle to climb walls and spy for her. He also taught her to use the Surge of Progression to grow plants in order to pop open a window. Despite having taught her to use Growth, he didn't think her ready to learn Regrowth. Just as Lift was about to succeed in the robbery, [[Nale\|Nale]], whom Lift called Darkness, came for her. Wyndle coached her through an escape attempt, but Lift was soon recaptured. [[Gawx\|Gawx]] was captured by one of Nale's [[Skybreaker\|Skybreakers]] as leverage against her. The Skybreaker killed Gawx, angering Nale. Wyndle helped Lift to escape a second time, but she doubled back to save Gawx. Wyndle told her about her power of Regrowth, although he was doubtful she could pull it off. When Lift got back to him, she swore her Second Oath and healed Gawx. The Azish believed that Gawx had performed the miracle of Regrowth, and, talking this as a sign from the [[Kadasix\|Kadasixes]], made him Prime. He quickly pardoned Lift and Nale was forced to let her go.
+On the night that the [[Azish\|Azish]] were choosing a new [[Prime Aqasix\|Prime Aqasix]], Lift, Wyndle, and a gang of thieves went to rob the palace. Lift used Wyndle to climb walls and spy for her. He also taught her to use the Surge of Progression to grow plants in order to pop open a window. Despite having taught her to use Growth, he didn't think her ready to learn Regrowth. Just as Lift was about to succeed in the robbery, [[Nale\|Nale]], whom Lift called Darkness, came for her. Wyndle coached her through an escape attempt, but Lift was soon recaptured. [[Gawx\|Gawx]] was captured by one of Nale's [[Skybreaker\|Skybreakers]] as leverage against her. The Skybreaker killed Gawx, angering Nale. Wyndle helped Lift to escape a second time, but she doubled back to save Gawx. Wyndle told her about her power of Regrowth, although he was doubtful she could pull it off. When Lift got back to him, she swore her Second Oath and healed Gawx. The Azish believed that Gawx had performed the miracle of Regrowth, and, taking this as a sign from the [[Kadasix\|Kadasixes]], made him Prime. He quickly pardoned Lift and Nale was forced to let her go.
 
 ### Following Darkness to Yeddaw
 Wyndle seemed to be happy at the Palace while they were guests of honor of the new Prime Aqasix, Gawx. Regardless, he followed Lift to [[Yeddaw\|Yeddaw]], without understanding her plans. As they went, he figured out they were following [[Nale\|Nale]], who Lift called Darkness.
 
  by  Ben McSweeney  Travelling to [[Yeddaw\|Yeddaw]]
-Upon their arrival, Lift uses Wyndle to climb into places and spy on people. She created a diversion and later followed the guard capitan who surely would have made a report on her. As expected Nale arrived and Wyndle finds out from Lift that his plan is to kill [[Knights Radiant\|Radiants]].
+Upon their arrival, Lift uses Wyndle to climb into places and spy on people. She created a diversion and later followed the guard captain who surely would have made a report on her. As expected Nale arrived and Wyndle finds out from Lift that his plan is to kill [[Knights Radiant\|Radiants]].
 They trail him through the city until, as they are passing through a market, [[Tiqqa\|a thief]] steals a basket of fruit and runs off in Nale's direction. He captures the thief and, when she swings a knife at him, he kills her with his Shardblade. Lift tries to save her, but Wyndle explains that a Shardblade kills faster than Lift's powers can bring her back. Lift continues to follow Nale, using Wyndle to climb and spy until they find his quarters, where Lift eats Nale's pancakes.
 Wyndle helps Lift get into the [[Grand Indicium\|Grand Indicium]], where she wanted him to read everything to find "weird" events. He explained there wasn't enough time, so she went to steal some fancy clothes. He took the form of a word she copied and showed to the scribes of the place, who then wrote to Gawx and received his request to treat Lift with respect and do as she asked.Though she was unable to find anything useful, she does find one of Nale's allies and follows them. Wyndle himself offers to spy on them and finds out they are about to go and perform the execution.
 When Lift confronts Nale, she spoke the words of her Third Ideal and transformed Wyndle into a Shardweapon, a silvery rod, that was enough to block a strike from Nale's [[Honorblade\|Honorblade]]. She used the opening to talk to him and convinced him that the [[True Desolation\|Desolation]] has returned.

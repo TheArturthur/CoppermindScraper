@@ -1,9 +1,8 @@
 |**Scrak**|
 |-|-|
 |**Species**|[[Axehound\|Axehound]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Blasted creature. Never would obey properly.*”
 \-Balat[1]

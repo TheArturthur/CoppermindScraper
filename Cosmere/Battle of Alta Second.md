@@ -3,9 +3,8 @@
 |**Participants**|[[Defiant Defense Force\|Defiant Defense Force]], [[Varvax\|Krell]]|
 |**World**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-The **Battle of Alta Second** occurs on the day of Skyward Flight's graduation.
+The **Battle of Alta Second** occurs on the day of [[Skyward Flight\|Skyward Flight's]] graduation.
 
 ## Contents
 
@@ -63,7 +62,7 @@ Instead of ejecting, Spensa is able to control her starfighter and guide it to t
 \-M-Bot, telling Spensa how he rewrote his code to make her his pilot.[6]
 
 Several powerful families inform Ironsides that they are escaping as the last line of emergency gun emplacements inform her that the Krell fighters are coming close to engage them. She then makes contact with Arturo, ordering him to shoot down the lifebuster, regardless of the effect it might have on Alta Base. He gives confirmation, just as Rikolfr informs Ironsides of an unidentified fighter approaching the battle at Mag-20. Spensa then identifies herself over the comm line as Skyward Eleven.
-Spensa speeds towards the lifebuster in M-Bot, his shield lit up due to the heat of air resistance, as he informs her that all of his systems but cytonic hyperdrive, self-repair, and destructors are online. Spensa connects with Kimmalyn and Nedd over the general comm line, informing them of her talking ship's capabilities. Spensa then flies through the center of the Krell force and immediately gains a tail if thirteen ships. Nedd tells Spensa that Riptide Flight is a minute and a half away, so Spensa tells him she'd distract most of the Krell, but she needs Nedd and Kimmalyn to try to drive away the lifebuster. Ironsides tells her to shoot it on sight, but Spensa tells her they might not need to do so.
+Spensa speeds towards the lifebuster in M-Bot, his shield lit up due to the heat of air resistance, as he informs her that all of his systems but cytonic hyperdrive, self-repair, and destructors are online. Spensa connects with Kimmalyn and Nedd over the general comm line, informing them of her talking ship's capabilities. Spensa then flies through the center of the Krell force and immediately gains a tail of thirteen ships. Nedd tells Spensa that Riptide Flight is a minute and a half away, so Spensa tells him she'd distract most of the Krell, but she needs Nedd and Kimmalyn to try to drive away the lifebuster. Ironsides tells her to shoot it on sight, but Spensa tells her they might not need to do so.
 Spensa dove through the Krell, dodging their destructor blasts, anticipating their movements before they made them, even able to feel the lines of electricity giving orders through M-Bot's fuselage. When the lifebuster reaches two minutes away, the flightleader of Riptide Flight, [[Terrier\|Terrier]], calls in through the general comm line, asking who Spensa is. Jorgen tells him it doesn't matter, and Spensa tells him to focus everything he has on taking out the three black Krell interceptors. FM and Jorgen fly close to the bomber, activating an IMP to bring its shield down, and Kimmalyn fires a destructor blast on the exact spot holding the bomb to the ship. The ship keeps flying, but the bomb falls out. All of the fighters, DDF and Krell, overburn out, except Spensa.
 Ironsides and her junior admirals sit in the command room, weeping and praying as the lifebuster falls towards the ground. All the starfighters but one speed away from the bomb.
 Spensa spears the bomb with her light-lance and shoots away at Mag-16, passing through a group of DDF pilots. M-Bot calculates that they would make it outside the death zone of Alta Base, but that they would be in the middle of the blast. Spensa sinks into the ship, feeling M-Bot's processors, then M-Bot tells her that his biological component has been engaged and that his cytonic hyperdrive is online. Spensa engages the hyperdrive and shoots away from the blast in a blink.
@@ -86,4 +85,4 @@ After the battle, and with help from Spensa's cytonics and Rodge and the Enginee
 
 
 
-https://coppermind.net/wiki/Battle_of_Alta_Second
+https://coppermind.net/wiki/Second_Battle_of_Alta

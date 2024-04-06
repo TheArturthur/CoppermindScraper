@@ -1,12 +1,11 @@
 |**Camon's safe house**|
 |-|-|
 |**Owners**|[[Camon\|Camon]] , [[Milev\|Milev]]|
-|**City**|[[Luthadel\|Luthadel]]🐱︎|
-|**Dominance**|[[Central Dominance\|Central Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Luthadel\|Luthadel]]|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Camon's safe house** is [[Camon's crew\|Camon's crew's]] base of operations.
 The safe house is in a [[Skaa\|skaa]] slum known as the Twists, close to the Iron Gate in [[Luthadel\|Luthadel]]. It consists of two main sections: a shop, located at ground level, that serves as a front for the crew's operations, and a stone cavern underneath the building, where the crew lives and plans their jobs. It has several watch-holes from which crewmembers can watch the streets for any signs of danger. [[Vin\|Vin]] frequently spent her free time in the watch-holes, as she could be alone there, which made her feel relatively safe.

@@ -19,7 +19,7 @@ For a summary of the events thus far, see [[The Stormlight Archive/Summary\|the 
 
 ## Structure
 The novels of *The Stormlight Archive* follow a consistent internal structure. Each is split into five parts, and Brandon plots each novel as if it were an entire trilogy. The names of each part, when put together, form a [[Ketek\|ketek]]. Between each part is a set of interludes, set in different points of view, which show events in other locations on Roshar. Each novel has one character who gets multiple interludes, whose interludes effectively form a novella. The books also feature several pieces of in-world art on the endpages and between some chapters, and epigraphs from in-world documents at the start of each non-flashback chapter. Each of the first five books begins with a prologue that shows a different character's perspective of the night of the [[Assassination of Gavilar\|assassination of Gavilar]] and ends with an epilogue from [[Hoid\|Hoid's]] point of view. Each book also includes an [[Ars Arcanum\|Ars Arcanum]].
-Each novel will focus on one specific order of the [[Knights Radiant\|Knights Radiant]] and feature flashbacks from a character tied to that order. Brandon has made clear that a character can have flashback point of views, even if he or she is already dead, so the characters scheduled to have flashbacks in an upcoming book might still die before their book. The series will be split into two arcs of five books each, with a time gap of about five to ten years between the two arcs. The second arc will be written after [[Mistborn Era 3\|Mistborn Era 3]]. Brandon has said he also hopes to write novellas in between at least all the remaining arc one novels, though is unsure if he has enough time. These novellas would fill in some details and show parts of the story that wouldn't have otherwise been seen.
+Each novel will focus on one specific order of the [[Knights Radiant\|Knights Radiant]] and feature flashbacks from a character tied to that order. Brandon has made clear that a character can have flashback point of views, even if they are already dead, so the characters scheduled to have flashbacks in an upcoming book might still die before their book. The series will be split into two arcs of five books each, with a time gap of about ten years between the two arcs. The second arc will be written after [[Mistborn Era 3\|Mistborn Era 3]]. Brandon has said he also hopes to write novellas in between at least all the remaining arc one novels, though is unsure if he has enough time. These novellas would fill in some details and show parts of the story that wouldn't have otherwise been seen.
 Subject to the assumption that characters stay associated with their current order and assigning the [[Order of Dustbringers\|Order of Dustbringers]] to [[Shalash\|Shalash's]] book by process of elimination, the following table summarizes these relationships and the order of books:
 
 
@@ -30,7 +30,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**2014**|*Words of Radiance*|1173-1174|[[Order of Lightweavers\|Lightweavers]]|[[Shallan Davar\|Shallan Davar]](1167-1172)|[[Jasnah Kholin\|Jasnah Kholin]]|[[Eshonai\|Eshonai]]|[[Words of Radiance/Statistical analysis\|398,238]]|
 |**2017**|*Oathbringer*|1174|[[Order of Bondsmiths\|Bondsmiths]]|[[Dalinar Kholin\|Dalinar Kholin]](1140-1168)|[[Eshonai\|Eshonai]]|[[Venli\|Venli]]|[[Oathbringer/Statistical analysis\|454,440]]|
 |**2020**|*Rhythm of War*|1175|[[Order of Willshapers\|Willshapers]]|[[Venli\|Venli]] and [[Eshonai\|Eshonai]](1166-1173)|[[Navani Kholin\|Navani Kholin]]|[[Taravangian\|Taravangian]]|[[Rhythm of War/Statistical analysis\|455,891]]|
-|**2023[14]**|*Unknown*||[[Order of Skybreakers\|Skybreakers]]|[[Szeth\|Szeth]]|[[Gavilar Kholin\|Gavilar Kholin]]|[[Szeth\|Szeth]]||
+|**2024[12]**|*Wind and Truth*||[[Order of Skybreakers\|Skybreakers]]|[[Szeth\|Szeth]]|[[Gavilar Kholin\|Gavilar Kholin]]|||
 
 
 |**Arc 2**|
@@ -45,9 +45,9 @@ Subject to the assumption that characters stay associated with their current ord
 |**Novellas - From the Stormlight Archive**|
 |-|-|
 |**Year Published**|**Title**|**SeriesChronology[fn 1]**|**Focus Character**|**Word Count**|
-|**2016**|*Edgedancer*|2.5(1174)|[[Lift\|Lift]]|[[Edgedancer (novella)/Statistical analysis\|40,660]]|
+|**2016**|*Edgedancer*|2.5(1173)|[[Lift\|Lift]]|[[Edgedancer (novella)/Statistical analysis\|40,660]]|
 |**2020**|*Dawnshard*|3.5(1174)|[[Rysn\|Rysn]]|[[Dawnshard (novella)/Statistical analysis\|56,282]]|
-|**2023 (Tentative)**|*Horneater*|4.5|[[Lunamor\|Lunamor]]||
+|**2026 (Tentative)**|*Horneater*|4.5|[[Lunamor\|Lunamor]]||
 
 
 Brandon has also talked about wanting to go back and do a novella set between *The Way of Kings* and *Words of Radiance*; he initially thought this novella might focus on [[Lopen\|Lopen]], but, after including Lopen in *Dawnshard*, said it would likely be someone else, possibly [[Teft\|Teft]].
@@ -65,7 +65,7 @@ The titles of the five parts of each book form a [[Ketek\|ketek]] which is revea
 ## Publication
 
 US/Canadian rights (#1-4) with Tor
-Bulgarian rights (#1) to Артлайн Студиос (Artline Studios)
+Bulgarian rights (#1-4) to Артлайн Студиос (Artline Studios)
 UK rights (#1-4) to Gollancz
 German rights (#1-3) to Heyne
 French rights to Calmann-Levy
@@ -82,6 +82,7 @@ Russian rights (#1-3) to Азбука Аттикус (Azbooka)
 Romanian rights (#1-2) to Editura Paladin
 Danish rights (#1) to Ulven og Ulgen
 Hungarian rights (#1) to Delta Vision
+Brazillian rights (#1) to TRAMA
 
 ## Awards
 Way of Kings #7 NY Times best-seller
@@ -94,7 +95,7 @@ Named one of the Best of 2010 by Goodreads
 Words of Radiance #1 NY Times best-seller
 ## Statistics
 For a full statistical analysis, see [[The Stormlight Archive/Statistical analysis\|/Statistical analysis]].
-*The Stormlight Archive* consists of four full novels and two novellas.
+The Stormlight Archive currently consists of four full novels and two novellas.
 
 |**Word Count**|1,792,008||
 |-|-|

@@ -1,16 +1,19 @@
 |**Sazed**|
 |-|-|
-|by  Ben McSweeney |
+|by  Diego López |
 |**Abilities**|[[Feruchemy\|Feruchemist]], [[Shard\|Shard]] of [[Harmony\|Harmony]]|
-|**Titles**|[[Hero of Ages\|Hero of Ages]], Master Vaht, First Holy Witness, Chief Ambassador of the [[New Empire\|New Empire]], [[Harmony\|Harmony]]|
+|**Titles**|[[Hero of Ages\|Hero of Ages]], Rabzeen, The Anamnesor, Master Vaht, Holy First Witness, The Announcer, Chief Ambassador of the [[New Empire\|New Empire]], [[Harmony\|Harmony]], God|
+|**Aliases**|Saze|
 |**Profession**|[[Keeper\|Keeper]], Steward|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]🐱︎, Venture army|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
 |**Nationality**|[[Terris\|Terris]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn*|
+|**First Appeared**|*Mistborn: The Final Empire*|
 
 By the Forgotten Gods!This page has **extensive** spoilers for all of the Mistborn books and short stories, particularly the ending of *The Hero of Ages*.
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The religions in my portfolio weren't useless after all. None of them were. They weren't all true. But they all had truth.*”
 \-Sazed[2]
@@ -38,6 +41,9 @@ By the Forgotten Gods!This page has **extensive** spoilers for all of the Mistbo
 4.3 Elend
 4.4 Spook
 4.5 Tindwyl
+4.6 Hoid
+4.7 Wax
+4.8 Marsh
 
 
 5 Trivia
@@ -62,7 +68,7 @@ Sazed enjoys researching and working on texts or engineering, and he keeps his w
 \-Sazed[1]
 
 
-A Terrisman Keeper, Sazed is a [[Feruchemist\|Feruchemist]]. This grants him the ability to store certain physical attributes inside bits of metal. His most important power is the ability to store his Memorys in copperminds giving him Access to a huge amount of knowledge. He holds mostly the information of old and current religions. This includes five hundred and sixty-two different religions: their prayers, their beliefs, and their mythologies.
+A Terrisman Keeper, Sazed is a [[Feruchemist\|Feruchemist]]. This grants him the ability to store certain physical attributes inside bits of metal. His most important power is the ability to store his memories in copperminds giving him access to a huge amount of knowledge. He holds mostly the information of old and current religions. This includes five hundred and sixty-two different religions: their prayers, their beliefs, and their mythologies.
 
 For more information on his Portfolio of Religions, see here.
 Religious rites are not the only things that Keepers store in their uncanny memories; his metalminds contain a vast wealth of information on culture, philosophy, and science. With this, Sazed has the capacity to be knowledgeable and skilled at several other things, such as healing, sanitation practices, or farming. He stores many other abilities in his metalminds that allow him to be a better help in the rebellion, his body weight in [[Iron\|iron]], his physical speed in [[Steel\|steel]], his five Senses in [[Tin\|tin]], his strength in [[Pewter\|pewter]], his mental speed in [[Zinc\|zinc]], his body warmth in [[Brass\|brass]], his wakefulness in [[Bronze\|bronze]] and his health in [[Gold\|gold]]. After fighting several times with these powers, Sazed actually becomes a very good warrior.
@@ -85,43 +91,42 @@ Sazed figured out that the Lord Ruler was both a Feruchemist and an Allomancer, 
 ### The Siege of Luthadel
 For more information, see [[Siege of Luthadel\|Siege of Luthadel]].
 After the Lord Ruler's death, Sazed left [[Luthadel\|Luthadel]] to fulfill his duty as a Keeper and spread the knowledge of the time before the Lord Ruler to the people of the Final Empire. Sazed carried the complete knowledge of the Terris people, but his specialty was religion, especially those from before the Final Empire. He went south, the direction where Kelsier thought the eleventh metal stories came from, he was frustrated not have information on it.
-
- by  Egilde Art  In the [[Conventical of Seran\|Conventical of Seran]] with [[Marsh\|Marsh]]
 He saw the land was full of chaos, death, hatred, and disorder now that the Lord Ruler’s no longer patrolled those places. Sazed was disappointed to understand that the people were hoping for him to come back and didn’t understand or care enough to learn a new religion, thus he decided to teach them more practical things. After the year passed and the dispassion of the people and the rejection from his kind continued, Sazed’ started to question the results of the rebellion. He also came across mysterious deaths somehow related to the [[Mist\|mists]].
 He was then found by [[Marsh\|Marsh]], who led him to the [[Conventical of Seran\|Conventical of Seran]] where the Inquisitors had left after slaughtering all servants. He found spikes and started to ask questions on how Inquisitors were “created”. He also found the last words of [[Kwaan\|Kwaan]] inscribed on a metal plate where he confessed to having found and later betrayed Alendi looking to avoid him from completing his quest. Sazed copied the information by marking it with charcoal and decided to go back north to pass the information.
-On his way back he found a village where the people had died inside their homes from starvation and dehydration. One surviving man explained the people did not go out scared of the mists that came during the day. They found that from the people that did go into the mists, some people fled, but some had died. Sazed got the person to a safe place and left him there hoping he could manage and left in a hurry to Luthadel, understanding that the wrongness in the world was more than bandits and chaos.
-Before arriving at Luthadel Sazed also encounter [[Jastes Lekal\|Jastes Lekal]] with over two thousand Koloss army. Sazed stood his ground and managed to talk his way out of the camp taking a message to Elend. His former friend wanted the atium and was ready to use his army to get it.
-When Sazed finally reached Luthadel, he found the city had been sieged by two other armies (one from [[House Cett\|Cett]] and the other was [[Straff\|Straff's]]) so the Koloss army he brought added to the complexity of the situation. He also let them know of the midsts, however, this news was not fully believed.
+On his way back, he found a village where the people had died inside their homes from starvation and dehydration. One surviving man explained the people did not go out scared of the mists that came during the day. They found that from the people that did go into the mists, some people fled, but some had died. Sazed got the person to a safe place and left him there hoping he could manage and left in a hurry to Luthadel, understanding that the wrongness in the world was more than bandits and chaos.
+Before arriving at Luthadel, Sazed also encountered [[Jastes Lekal\|Jastes Lekal]] with an army of over twenty thousand Koloss. Sazed stood his ground and managed to talk his way out of the camp taking a message to Elend. His former friend wanted the atium and was ready to use his army to get it.
+When Sazed finally reached Luthadel, he found the city had been sieged by two other armies (one from [[House Cett\|Cett]] and the other was [[Straff\|Straff's]]) so the Koloss army he brought added to the complexity of the situation. He also let them know of the mists, however, this news was not fully believed.
 He spent much of his time translating and studying the writings of Kwaan, comparing it to his previous knowledge and the writings in Alendi’s journal. He also supported Elend on his research to find lawful ways to keep his throne.
-Sazed also took the time to care of the despaired people with no resources as well as wounded, sick, and starving. They were at the warehouse, where Breeze used his soothing to help [[Tindwyl\|Tindwyl]] feel the need to listen and support Sazed with his studies, and they probably fell in love. Both being Keepers, their research was deep and passionate with access to much more information than anyone could have had. They found the inconsistency of Kwaans actions towards Alendi.
+Sazed also took the time to take care of the desperate people with no resources as well as the wounded, sick, and starving. They were at the warehouse, where Breeze used his soothing to help [[Tindwyl\|Tindwyl]] feel the need to listen and support Sazed with his studies, and they probably fell in love. Both being Keepers, their research was deep and passionate with access to much more information than anyone could have had. They found the inconsistency of Kwaans actions towards Alendi.
 When he was sure that Luthadel would fall to the enemy armies and koloss, he pulled together the old crew except for Elend, Vin, and Spook, there they decided that the latter would be tricked into leaving the city before battle along with Tindwyl and Allrianne.
-Just before the [[Battle of Luthadel\|Battle of Luthadel]] and under [[Dockson\|Dockson]]’s command, he moved to defend the Steel Gate, which was the farthest the koloss were likely to reach and should send messengers to Keep Venture in case of attack. Tindwyl decided to stay and declared her love to Sazed just before a battle. However, as battle drew closer, his confidence flew from him, he asked to be removed from the command chain. He spotted skaa going into the city and went to them, asking to hide again. They were calling him Holy First Witness and looked up to him. Uncomfortable he kept asking them to hide but pulled in some courage and used his Feruchemy to fight a koloss, giving the order to fight. They did. His gate was the last one to fall. He fought with his men bravely, though very few survived. His gate fell around the time Vin came back so he moved back to the northern gate hoping koloss would have left by then. He found Breeze and moved the people to carry the wounded. He later went to see Vin recover the city and beat Straff’s army, she asked him to secure the city and get supplies, then left. At that moment, he decided she was the Hero of Ages.
-Tindwyl died in battle, leaving Sazed to mourn her and leading him to doubt his religions. He stopped believing and entered a time of despair. In his mourning he decided to continue looking into the contradictions of the information on the well and its power, until he was attacked by Marsh. Marsh was about to kill Sazed, but a mistake gave him his metalminds, which gave him the power to battle him until rescued by Ham.
+
+ by  Lara Sarmiento  Sazed defends the city from the kolossJust before the [[Battle of Luthadel\|Battle of Luthadel]] and under [[Dockson\|Dockson]]’s command, he moved to defend the Steel Gate, which was the farthest the koloss were likely to reach and should send messengers to Keep Venture in case of attack. Tindwyl decided to stay and declared her love to Sazed just before a battle. However, as battle drew closer, his confidence flew from him, he asked to be removed from the command chain. He spotted skaa going into the city and went to them, asking to hide again. They were calling him Holy First Witness and looked up to him. Uncomfortable he kept asking them to hide but pulled in some courage and used his Feruchemy to fight a koloss, giving the order to fight. They did. His gate was the last one to fall. He fought with his men bravely, though very few survived. His gate fell around the time Vin came back so he moved back to the northern gate hoping koloss would have left by then. He found Breeze and moved the people to carry the wounded. He later went to see Vin recover the city and beat Straff’s army, she asked him to secure the city and get supplies, then left. At that moment, he decided she was the Hero of Ages.
+Tindwyl died in battle, leaving Sazed to mourn her and leading him to doubt his religions. He stopped believing and entered a time of despair. In his mourning he decided to continue looking into the contradictions of the information on the well and its power, until he was attacked by Marsh. Marsh was about to kill Sazed, but by mistake gave him his metalminds, which gave him the power to battle him until rescued by Ham.
 Completely torn from the last events, Sazed left Luthadel and went to the Conventical. There he realized the words of what he read had been changed and understood that only words in metal could be trusted. The last of his faith left him.
 
 ### The New Empire
 Sazed was named Chief Ambassador of the New Empire and was sent to King Lekal’s palace to negotiate and sign the treaty with Elend Venture, they succeeded.
-A year had passed since he lost Tindwyl and it not only hurt but he had not been able to recover his faith. He stopped wearing his copperminds and decided to study one religion at a time trying to find truth in them, but he added “Religion not true” every time he found any contradiction.
-He is appointed to lead the team to control Urteau. He accepted reluctantly as he didn’t feel strong in his faith and understanding of the world. On his way he separated from the group to visit his people who now lived in the Pits of Hathsin. There he was received as noble, with people calling him Lord or even Majesty.
-His short stay was enough to understand the mists did not affect the Terris people, and making sure important information was kept in metal. He also gave suggestions on sanitation, food, and others. The people asked him to stay and lead them, but Sazed didn’t consider himself worthy.
+A year had passed since he had lost Tindwyl and it not only hurt but he had been unable to recover his faith. He stopped wearing his copperminds and decided to study one religion at a time trying to find truth in them, but he added “Religion not true” every time he found any contradiction.
+He is appointed to lead the team to control Urteau. He accepted reluctantly as he didn’t feel strong in his faith and understanding of the world. On his way he separated from the group to visit his people who now lived in the Pits of Hathsin. There he was received as a noble, with people calling him Lord or even Majesty.
+His short stay was enough to understand the mists did not affect the Terris people. He also made sure important information was kept in metal. Additionally he gave them suggestions on sanitation, food, and others. The people asked him to stay and lead them, but Sazed didn’t consider himself worthy.
 
 ### Urteau and last battles
-Breeze and Sazed along with around 200 people reached Urteau to bring their rebellion down and find the cache to continue feeding their population. His first conversation with [[Quellion\|Quellion]] who ruled the city under the name “The Citizen” did receive them but made sure they understood Elend and his rule was not welcomed. They left his building but stayed in the city where they found Spook. He took them to their refugee which was the "Ministry Canton of Inquisition" where the "cache" was hidden, along with the water from the canals.
+Breeze and Sazed along with around 200 people reached Urteau to bring their rebellion down and find the cache to continue feeding their population. His first conversation with [[Quellion\|Quellion]] who ruled the city under the name “The Citizen” did receive them but made sure they understood Elend and his rule was not welcomed. They left his building but stayed in the city where they found Spook. He took them to their refuge (the Ministry Canton of Inquisition) where the "cache" was hidden, along with the water from the canals.
 During his time in this city, he took time to talk to the people and find ways to bring them to good terms with Elend. It was in one of the bars he discovered they believed in a "Survivor of the Flames." During an execution, the new hero appeared and they recognized him as Spook. To avoid him getting beaten, Sazed and the others organized a riot and helped him escape. After a long time Spook finally came back to their place. He cared so much for the city and acted so confident that Sazed decided to follow him as opposed to leading. His depression had taken him to not care anymore so he believed it was the best choice. His task would be to reverse-engineer the engine that would flood the canals again.
-He enjoyed this task and got deep into the research of the engine, and continued to support Spook, who he grew to respect more even if he knew he was hiding something about his abilities.
+He enjoyed this task and engrossed himself in the research of the engine, and continued to support Spook, who he grew to respect more even if he knew he was hiding something about his abilities.
 Sazed finished the engineering to flood again the canals, they had everything ready, but the riots got out of hand and the city started to burn. The captive Beldre shoot coins at her guards to get out, therefore there was no one to flood the city. Sazed, Beldre, and Spook went back to it, finding the building in flames. He gave up, but Spook went into the flames and, with his last energy, pushed the mechanism and saved the city.
 With Spook deeply wounded and the city saved, Sazed turned to finish his religion review and despaired as he finished the last one without the answers he was looking for. Meeting with [[TenSoon\|TenSoon]], who called him "the Announcer," got them talking into the realization that the first generation of kandra were Rashek's Terris companions and that his religion was not really lost. Sazed accompanied him to their homeland to speak to them. He talked all the way to meeting with the first generation. There he learned all about Ruin and Preservation, their creation of the world, and the betrayal. Finally, he understood the atium was Ruin’s body and it was all there at the Pits in the [[Kandra Homeland\|kandra Homeland]].
-Their prophecy also said that in the end, they would have to kill themselves by taking out their spikes and becoming mistwraiths. They called it "the Resolution." Because of this, KanPaar, a second-generation kandra, decided to betray them and take control, taking Sazed and the first generations as prisoners. TenSoon and [[MeLaan\|MeLaan]] freed Sazed, but they all had to fight their way through. They found the first generation again and helped them regenerate. They turned against Sazed, forced by Ruin's spikes, and almost killed him, but [[Haddek\|Haddek]] from the first generation called for the “Resolution” and they became mistwraiths again. Sazed fully recovered his faith and believed Vin was the Hero of Ages.
+Their prophecy also said that in the end, they would have to kill themselves by taking out their spikes and becoming mistwraiths. They called it "the Resolution." Because of this, KanPaar, a second-generation kandra, decided to betray them and take control, taking Sazed and the first generations as prisoners. [[TenSoon\|TenSoon]] and [[MeLaan\|MeLaan]] freed Sazed, but they all had to fight their way through. They found the first generation again and helped them regenerate. TenSoon turned against Sazed, forced by Ruin's spikes, and almost killed him, but [[Haddek\|Haddek]] from the first generation called for the “Resolution” and they became mistwraiths again. Sazed fully recovered his faith and believed Vin was the Hero of Ages.
 He was found by Elend and Demoux. Sazed, a full believer and confident now in Vin as the Hero of Ages offered faith to continue fighting. He also showed them the atium the kandra had cared for, and they burned it for their last fight.
 
 ### The Final Ascension
- by  Elisgardor  Harmony remaking [[Scadrial\|Scadrial]]
 >“*I am, unfortunately, the Hero of Ages*”
 \-Sazed’s first words as Harmony in the book left after the final Ascension[54]
 
 
-Vin defeated [[Ati\|Ati]]; both died and Sazed was the one to find her lifeless body. After a moment of despair, he understood, he was the Hero of Ages. “The Hero would be rejected of his people, Sazed thought. Yet, he would save them. Not a warrior, though he would fight. Not born a king, but would become one anyway.” He took the power of both, Ruin and Preservation. He used all his knowledge of religion and other information to re-craft the world, mostly how it used to be, but with some changes. He became a God; [[Harmony\|Harmony]].
-After the [[Final Ascension\|Final Ascension]], the *new world* was created by Sazed. He also left for Spook to find, the complete but lifeless bodies of Vin and Elend along with the book where he explains how it all happened.
+ by  Petar Penev  Harmony Ascending
+Vin defeated [[Ati\|Ati]]; both died and Sazed was the one to find her lifeless body. After a moment of despair, he understood, he was the Hero of Ages. “The Hero would be rejected of his people, Sazed thought. Yet, he would save them. Not a warrior, though he would fight. Not born a king, but would become one anyway.” He took the power of both Ruin and Preservation. He used all his knowledge of religion and other information to re-craft the world, mostly how it used to be, but with some changes. He became a God; [[Harmony\|Harmony]].
+After the [[Final Ascension\|Final Ascension]], the *new world* was created by Sazed. He also left for Spook to find the complete but lifeless bodies of Vin and Elend along with the book where he explains how it all happened.
 
 For the subsequent events, see Harmony#History.
 ## Relationships
@@ -131,19 +136,18 @@ For the subsequent events, see Harmony#History.
 \-Sazed to Vin answering if Kelsier was a good man[3]
 
 
-Sazed served [[Kelsier\|Kelsier]] but did it willingly. He got to know Kelsier well and they had several religious and philosophical conversations. They tend to talk often of different religions, which Kelsier sometimes used to keep his spirits up.
-Even after Kelsier’s death Sazed believed in him and decided to record his stories. It is implied he knew of his plan to die to become an inspiration to finish with the Lord Ruler.
+Sazed served [[Kelsier\|Kelsier]] but did so willingly. He got to know Kelsier well and they had several religious and philosophical conversations. They tend to talk often of different religions, which Kelsier sometimes used to keep his spirits up.
+Even after Kelsier’s death, Sazed continued to believe in him and decided to record his stories. It is implied he knew of his plan to die to become an inspiration to finish with the Lord Ruler.
 From the cognitive realm, Kelsier followed the events and was there with Sazed when he took the power. They were united thereafter.
 
 ### Vin
-Sazed was appointed to coach [[Vin\|Vin]] to play the part of Valette Renoux, a noblewoman. He saw that her hair, makeup, and dressing were appropriate. During that time, he also offered information on religions to see if Vin would find one interesting.
-He accompanied her to the balls guiding her as much as possible, he also recovered and cared for her after she was severely wounded in Kredik Shaw.  He did so again after she saved Elend from assassins but ended badly wounded.
-Sazed did discourage Vin to meet with Elend; he believed he followed her to annoy his family. Though later, he agreed of being wrong and believed him a good man. Sazed ended up marrying them just before the fight for Luthadel.
-At the siege of Luthadel, they again joined, this time to discuss the “Deepness” and the research of the Hero of Ages. They believed to be the equivalent of their era.
-After Sazed lost Tindwyl and his faith, Vin was one of the few that noticed and was concerned about his mental health.
+Sazed was appointed to coach [[Vin\|Vin]] to play the part of Valette Renoux, a noblewoman. He saw that her hair, makeup, and clothing were appropriate, accompanied her to the balls and guided her as much as possible. During this time, he also offered information on religions to see if Vin would find one interesting. He recovered and cared for her after she was severely wounded in Kredik Shaw, and did so again after she was badly wounded while saving Elend from assassins.
+Sazed initially discouraged Vin to meet with Elend, believing that he only followed her to annoy his family. He would ultimately change his mind and agreed that his initial assessment was wrong, instead coming to believe Elend was a good man. Sazed ended up marrying them just before the fight for Luthadel.
+At the siege of Luthadel, they reconnected, this time to discuss the "Deepness" and the research of the Hero of Ages. He would later come to believe that Vin herself might be the Hero of Ages.
+After Sazed lost Tindwyl and his faith, Vin was one of the few who noticed and was concerned about his mental health.
 
 ### Elend
-Sazed did not trust [[Elend\|Elend]] in the beginning. Though later, he agreed of being wrong and believed him a good man. He supported Elend with the law creation and was very vocal on his being a good man, good king and doing the right thing..
+Sazed did not initially trust [[Elend\|Elend]] but later changed his mind and believed him a good man. He supported Elend with the law creation and was very vocal on his being a good man, good king and doing the right thing..
 Sazed married him to Vin just before the fight for Luthadel.
 
  by  Studying with [[Tindwyl\|Tindwyl]]
@@ -155,14 +159,29 @@ Sazed married him to Vin just before the fight for Luthadel.
 \-Tindwyl to Sazed on why she loves him[33]
 
 
-Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by Breeze into supporting Sazed with his work.This brought them closer and they talked to each other with fondness and eventually fell in love.
+Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.
+
+### Hoid
+He appears to have known Hoid to some extent before his Ascension, or at least Hoid knew him.
+Following his Ascension, he became more aware of Hoid, and knew that he hid from him. He has a benevolent feeling towards the man, and his confused by why, and how, he hides from him, and asks that he come openly. He respects him enough that he actively tried to help him upon request, reaching out to other Shards, and requesting all that would listen to heed his warnings. He also felt comfortable enough with him to open up about his own impotence, as a result of his conflicted natures.
+He refers to Hoid as his friend.
+
+### Wax
+He has a fragile relationship with Wax, with Wax being a former worshipper of him, that came to despise him and renounce his faith, and lose respect for Harmony, due to Harmony's own actions and manipulations. He also came to hate Harmony for his inaction, and the suffering his inaction has brought about on Scadrial. Even after his hatred for him waned, his desire to have nothing to do with him grew stronger.
+Despite Wax's anger, Harmony continued to love him, and felt terrible for the pain that he caused him, and how his actions led him to feeling as if his life wasn't his own. He also wanted to avoid calling upon Wax again to help fight off Trell; knowing that he was happy, he didn't want to pull him back into the fold. But the fear in what destruction and domination they would bring to Scadrial, he was led to requesting his help again. He also respected his wishes to never again speak into his mind, using Marsh as a medium of communication.
+He no longer will use Wax as his sword, promising that stopping the bombing of Elendel and arrival of Autonomy was his final request.
+
+### Marsh
+He uses Marsh as his agent in the cosmere, using him for various tasks across Scadrial. Marsh obeys his commands, and appears to hold a deep respect for him.
+
 
 ## Trivia
 He was sometimes referred as “Vaht”, apparently, the proper title for a Terrisman steward.
 Each Keeper carries several bracers like this, filled with knowledge—songs, stories, prayers, histories, and languages.
 Sazed's character was inspired by “The Mummy”. At the moment when the oily little thief character gets confronted by the mummy, and pulls out a whole pile of holy symbols. He goes through each one, praying to each god, looking for one that would help him. He was also inspired by a Buddhist monk Brandon met in Korea.
-The epigraph's in *The Hero of Ages* are taken from an in-world text, the [[Words of Founding\|Words of Founding]], which was written by Sazed and use his unique style of speaking.
+The epigraphs in *The Hero of Ages* are taken from an in-world text, the [[Words of Founding\|Words of Founding]], which was written by Sazed and use his unique style of speaking.
 Sazed wouldn't want to play video games, but would be very good at them because of his [[Feruchemy\|Feruchemy]].
+Sazed's hair would be black if he didn't shave it.
 
 
 https://coppermind.net/wiki/Sazed

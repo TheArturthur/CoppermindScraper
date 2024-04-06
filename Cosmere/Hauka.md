@@ -3,9 +3,8 @@
 |**Titles**|Captain in [[Yeddaw\|Yeddaw]] Guard|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Hauka** is an [[Azish\|Azish]] guard captain on [[Roshar\|Roshar]]. She lives in the [[Tashikk\|Tashikki]] city of [[Yeddaw\|Yeddaw]] and oversees immigration into the city. She interacts with [[Lift\|Lift]] and [[Nale\|Nale]] when they come to Yeddaw.
 

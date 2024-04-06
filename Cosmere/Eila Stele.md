@@ -1,9 +1,8 @@
 |**Eila Stele**|
 |-|-|
 |**Language**|[[Dawnchant\|Dawnchant]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
 For the city in [[Iri\|Iri]], see [[Eila\|Eila]].
@@ -28,7 +27,7 @@ The Eila Stele indicated that humans destroyed [[Ashyn\|their own world]]. Most 
 
 ## Cosmere Significance
 The Eila Stele was the key to the refounded [[Knights Radiant\|Knights Radiant]] learning of the abandonment of the planet [[Ashyn\|Ashyn]]. Ashyn neighbors Roshar in its solar system, and it was almost destroyed through mankind's use of the [[Dawnshard\|Dawnshards]] and [[Surgebinding\|Surgebinding]]. The Heralds were among the humans who abandoned Ashyn. The [[Stormfather\|Stormfather]] tells Dalinar that during the [[False Desolation\|False Desolation]], the original Knights Radiant learned of Ashyn's fate, leading them to question the use of Surgebinding powers. They were urged on by [[Honor\|Honor]], but after [[Aharietiam\|Aharietiam]], Honor was dying and no longer cogent, which led to the events of the [[Day of Recreance\|Day of Recreance]].
-The information in the stele directly refutes several aspects of Vorin doctrine regarding the history of humanity. Further interaction with the Heralds and [[Fused\|Fused]] have led both humans and singers to gain a better understanding of the [[Rosharan system\|Rosharan system]] and the relationship between Roshar, Ashyn, and [[Braize\|Braize]]. Some Rosharans have had to reexamine their belief system in light of this information, as Vorin concepts such as the the Expulsion, Voidbringers, [[Damnation\|Damnation]], and the Tranquiline Halls have proven to be incorrect or only loosely based in fact.
+The information in the stele directly refutes several aspects of Vorin doctrine regarding the history of humanity. Further interaction with the Heralds and [[Fused\|Fused]] have led both humans and singers to gain a better understanding of the [[Rosharan system\|Rosharan system]] and the relationship between Roshar, Ashyn, and [[Braize\|Braize]]. Some Rosharans have had to reexamine their belief system in light of this information, as Vorin concepts such as the Expulsion, Voidbringers, [[Damnation\|Damnation]], and the Tranquiline Halls have proven to be incorrect or only loosely based in fact.
 
 ## Known text
 >“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging. We took them in, as commanded by the gods. What else could we do? They were a people forlorn, without a home. Our pity destroyed us. For their betrayal extended even to our gods: to spren, stone, and wind. Beware the otherworlders. The traitors. Those with tongues of sweetness, but with minds that lust for blood. Do not take them in. Do not give them succor. Well were they named Voidbringers, for they brought the void. The empty pit that sucks in emotion. A new god. Their god. These Voidbringers know no songs. They cannot hear Roshar, and where they go, they bring silence. They look soft, with no shell, but they are hard. They have but one heart, and it cannot ever live.*”

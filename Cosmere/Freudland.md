@@ -1,7 +1,6 @@
 |**Freudland**|
 |-|-|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Freudland** is a master watchmaker.
 One of his pocket watches was worn by King [[Gregory III\|Gregory III]], and it helped protect the king from the wild [[Chalkling\|chalklings]] he discovered.

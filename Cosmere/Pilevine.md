@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Plant|
 |**Used for**|Food|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Pilevines** or **pile-vines** are a type of plant on [[Roshar\|Roshar]].
 Pilevines produce red fruits with a stringy texture. They can grow to "towering" heights in the [[Drunmu Basin\|Drunmu Basin]].

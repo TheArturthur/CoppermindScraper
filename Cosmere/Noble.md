@@ -1,9 +1,8 @@
 |**Noble**|
 |-|-|
 |**Related to**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn*|
 
 The **nobles** are a race of humans on [[Scadrial\|Scadrial]].
 
@@ -15,6 +14,7 @@ The **nobles** are a race of humans on [[Scadrial\|Scadrial]].
 2.1 Great Houses
 2.2 Keeps
 2.3 Balls
+2.4 Minor Noble Houses
 
 
 3 Notes
@@ -50,6 +50,14 @@ The inner-city nobility, particularly those in [[Luthadel\|Luthadel]], hold a ni
 Her first ball is at [[Keep Venture\|Keep Venture]], where she meets [[Elend Venture\|Elend Venture]]. She also spots her father, Lord Prelan [[Tevidian Tekiel\|Tevidian Tekiel]].
 About a month later, [[Keep Elariel\|Keep Elariel]] holds a ball at which Valette danced for the first time.
 
+### Minor Noble Houses
+Outside of the ten Great Houses, there are countless minor houses, some of which eventually became major players during the Collapse.
+
+[[House Cett\|House Cett]]
+[[House Aime\|House Aime]]
+[[House Conrad\|House Conrad]]
+[[House Geffenry\|House Geffenry]]
+[[House Teniert\|House Teniert]]
 
 
 https://coppermind.net/wiki/Noble

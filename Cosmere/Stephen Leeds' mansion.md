@@ -1,7 +1,6 @@
 |**Stephen Leeds' mansion**|
 |-|-|
 |**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion (series)*|
 
 **Stephen Leeds' mansion** is a residence purposely built for [[Stephen Leeds\|Stephen]] and his [[Aspects\|Aspects]].
 Each of the Aspects has their own room. It has forty-seven rooms, and they are nearly all filled. It has many amenities including a shooting range.

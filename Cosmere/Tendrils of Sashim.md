@@ -1,8 +1,7 @@
 |**Tendrils of Sashim**|
 |-|-|
-|**World**|[[Alornia\|Alornia]]🐱︎|
+|**World**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* I'm your bodyguard, Kai. One of us has to be ready. Remember when those sky nomads tried to pinch you? Or that time when we got trapped in the Tendrils of Sashim?*”
 \-Shale[1]

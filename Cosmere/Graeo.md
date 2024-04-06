@@ -3,9 +3,8 @@
 |**Titles**|Count|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Teo\|Teo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 Count **Graeo** is a young member of the [[Teo\|Teo]] court, and the former fiance of [[Sarene\|Sarene]].
 

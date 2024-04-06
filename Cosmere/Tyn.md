@@ -4,9 +4,8 @@
 |**Died**|Killed in self-defence by [[Shallan\|Shallan]], Ishanah 1173|
 |**Profession**|Con artist|
 |**Birthplace**|[[Tu Bayla\|Tu Bayla]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*War means desperation, and desperation is our mother’s milk, kid.*”
 \-Tyn to Shallan[2]

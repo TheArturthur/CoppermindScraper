@@ -1,5 +1,3 @@
-
-
 |**Elantris>**|
 |-|-|
 |by  Stephan Martinière |
@@ -10,7 +8,7 @@
 |**Publisher**||
 |**ISBN**|0-7653-8310-1|
 |**Page Count**|592|
-|**Word Count**|201,372|
+|**Word Count**|[[Elantris (book)/Statistical analysis\|201,372]]|
 This article is about the book. For the in-universe city, see [[Elantris (city)\|Elantris (city)]].
 *Elantris* is a fantasy novel by [[Brandon Sanderson\|Brandon Sanderson]], published in April 2005 by Tor Books. It is Brandon's sixth written book and his first published book. The book, set on the planet [[Sel\|Sel]], tells the story of how [[Raoden\|Raoden]] and [[Sarene\|Sarene]] restore the magical [[Elantrian\|Elantrians]] to their former glory.
 
@@ -36,11 +34,11 @@ This article is about the book. For the in-universe city, see [[Elantris (city)
 
 5 Development
 6 Publication History
-7 Awards
-8 Trivia
-9 Cover Gallery
-10 Interior Art
-11 Statistics
+7 Cover Gallery
+8 Interior Art
+9 Trivia
+10 Awards
+11 Statistical Analysis
 12 Notes
 
 
@@ -77,7 +75,7 @@ For all characters in this book, see :Category:Selish.
 
 
 ## Setting
-Elantris is set in the [[Cosmere\|cosmere]] on the [[Shardworld\|Shardworld]] of [[Sel\|Sel]].
+Elantris is set in the [[Cosmere\|cosmere]] on the planet of [[Sel\|Sel]].
 
 ### Magic System
 The magic systems of the world of *Elantris* each use a set of forms to access the [[Dor\|Dor]].
@@ -119,22 +117,22 @@ Romanian rights to Tritonic
 Romanian rights to 
 Hebrew rights to Silver Stars
 UK rights to Gollancz
-Bulgarian rights to Bard 
+Bulgarian rights to Studio of A 
 
 A tenth anniversary trade paperback edition, which includes new maps and illustrations and an updated [[Ars Arcanum\|Ars Arcanum]], was published in October 2015.
-
-## Awards
-Romantic Times Award, Best Epic Fantasy
-Selected as Barnes & Noble Explorations' #1 Editor's Pick.
-SF Book Club selection 
-## Trivia
-Elantris was written in a chapter triad system, rotating the primary viewpoints from Raoden to Sarene to Hrathen. Part 1 and Part 2 each contained 27 chapters, or 9 triads. The triad structure broke down in Part 3, which consisted of 9 chapters.
 
 ## Cover Gallery
 For a cover gallery of Elantris, see [[Elantris (book)/Covers\|/Covers]].
 ## Interior Art
 For a gallery of the book's interior art, see [[Elantris (book)/Interior art\|/Interior art]].
-## Statistics
+## Trivia
+Elantris was written in a chapter triad system, rotating the primary viewpoints from Raoden to Sarene to Hrathen. Part 1 and Part 2 each contained 27 chapters, or 9 triads. The triad structure broke down in Part 3, which consisted of 9 chapters.
+
+## Awards
+Romantic Times Award, Best Epic Fantasy
+Selected as Barnes & Noble Explorations' #1 Editor's Pick.
+SF Book Club selection 
+## Statistical Analysis
 For a full statistical analysis, see [[Elantris (book)/Statistical analysis\|/Statistical analysis]].
 *Elantris* consists of one prologue, sixty-three chapters, one epilogue, and one postscript, reaching a total 201,372 word count. There are nine different unique point-of-view characters in a total of 122 POVs.
 

@@ -2,10 +2,9 @@
 |-|-|
 |**Participants**|[[Winsting Innate\|Winsting Innate]], [[Paalm\|Paalm]], various criminals|
 |**Effects**|Death of Winsting Innate and all his guests|
-|**City**|[[Elendel\|Elendel]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 
 **Winsting Innate's auction** is an event that occurred on [[Scadrial\|Scadrial]] in 342 [[Catacendre\|PC]]. It was an auction held by [[Winsting Innate\|Winsting Innate]] to sell his senate vote to the highest bidder. Due to an attack by [[Bleeder\|Bleeder]], everyone at the auction was killed.

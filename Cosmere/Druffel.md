@@ -2,9 +2,8 @@
 |-|-|
 |**Siblings**|[[Fatren\|Fatren]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Druffel**, sometimes referred to as **Druff**, is a [[Skaa\|skaa]] from [[Vetitan\|Vetitan]] on [[Scadrial\|Scadrial]].
 

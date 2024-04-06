@@ -3,9 +3,9 @@
 |by  Elisgardor |
 |**Bonded With**|[[Kokerlii\|Kokerlii]], [[Sak\|Sak]]|
 |**Ethnicity**|[[Eelakin\|Eelakin]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
+|**First Appeared**|*Sixth of the Dusk*|
 
 >“*For Patji would try on every possible occasion to kill him.*”
 \-Sixth of the Dusk's thoughts regarding the island[1]
@@ -54,7 +54,7 @@ One of the most profitable skills Dusk has acquired is the breeding of [[Aviar\|
  by  Shuravf  Dusk and [[Vathi\|Vathi]] exploring Patji
 He was trained from a young age in woodcraft and surviving in the isles of the Pantheon, mostly on [[Sori\|Sori]], the smallest and tamest isle. His mentor, Dusk's own uncle, died during a trip to Patji, and Dusk became a trapper exclusively for that isle, as was tradition for his people. He spent much time breeding and raising Aviar to sell in the [[Homeisles\|homeisles]] and to the mainlanders. At some point he also raised a bird from the mainlands on the islands, [[Sak\|Sak]], and she gained a unique mental ability; the bird could send premonitions of Sixth's corpse, based on threats in the local area. Along with [[Kokerlii\|Kokerlii]], Sak traveled with Dusk and helped him survive the dangers of Patji.
 He was contacted by the [[Northern Interests Trading Company\|Northern Interests Trading Company]] in an attempt to ask for his consultation and help in settling the Pantheon isles, which he highly disapproved of. He was present on Patji as they attempted to begin "taming the island" by setting up a scientific experiment that would locate all of the Island's Aviar using technology from the [[Ones Above\|Ones Above]]. After observing a brief, but deeply disturbing glitch in Sak's abilities and the panic of every Aviar of the island, Dusk questioned [[Vathi\|Vathi]] about the current actions of the company and concluded that a preliminary activation of the Aviar-locating machine had caused it. With this in mind, the pair set off to prevent the larger machine's activation. En route, they encountered a [[Nightmaw\|nightmaw]] and though they eliminated the immediate threat with Vathi's new, destructive technology that excited Dusk with it's potential, they were forced to run at a dangerous pace when the nightmaw called the rest of its brethren. The two escaped by hiding in [[Patji's Eye\|Patji's Eye]], the basin at the center of Patji in which dwells the Invested parasite that gives the [[Aviar\|Aviar]] and all of the cognitive life on [[First of the Sun\|First of the Sun]] their powers. As Vathi learned about the truth of the Aviar's powers, Dusk worried that he had inadvertently brought about the end of the Pantheon and his life as he knew them. When the nightmaws found them, Dusk was prepared to sacrifice himself by leading them away, but instead made ingenious use of [[Patji's Finger\|Patji's Fingers]] and Vathi's cannon to draw the predators away.
-Upon reaching the fort, Dusk and Vathi found out that the machine had never been activated at all. Despite Dusk's ineptly-worded protests that something was still wrong, Vathi left him and entered the fort. In the throes of despair and anger, Dusk raged against Patji as he made his way back to his safecamp, despairing the oncoming loss of his world. Sak then flew away, leading him back to a terrified Vathi who had also realized the truth; the machine was a trap. Just as Dusk left Aviar mating plumes to lead rival trappers to their demise, so the [[Ones Above\|Ones Above]] were deliberately leaving seeds of their technology for the mainlanders in hopes of artificially speeding up their technological progress in order to make it legal for them to trade with the Shardworld's inhabitants and exploit the entire planet of First of the Sun.
+Upon reaching the fort, Dusk and Vathi found out that the machine had never been activated at all. Despite Dusk's ineptly-worded protests that something was still wrong, Vathi left him and entered the fort. In the throes of despair and anger, Dusk raged against Patji as he made his way back to his safecamp, despairing the oncoming loss of his world. Sak then flew away, leading him back to a terrified Vathi who had also realized the truth; the machine was a trap. Just as Dusk left Aviar mating plumes to lead rival trappers to their demise, so the [[Ones Above\|Ones Above]] were deliberately leaving seeds of their technology for the mainlanders in hopes of artificially speeding up their technological progress in order to make it legal for them to trade with First of the Sun's inhabitants and exploit the entire planet.
 Knowing that the mainlanders would need his help to prevent this terrible eventuality, Dusk entered the fort in spite of Sak's warnings of danger and his own hatred of such places in hopes of gathering other trappers and saving the world as he knew it.
 
 ## Relationships
@@ -66,7 +66,7 @@ Dusk's uncle was his mentor when he apprenticed the ways of a trapper. His figur
 
 ## Trivia
 Dusk has tried [[Herdazian\|Herdazian]] food, and he hates it.
-The second story about him will involve him going to explore Shadesmar.
+The second story about him will involve him going to explore [[Shadesmar\|Shadesmar]].
 
 
-https://coppermind.net/wiki/Dusk
+https://coppermind.net/wiki/Sixth

@@ -1,10 +1,9 @@
 |**Tathingdwen**|
 |-|-|
-|**Dominance**|[[Terris Dominance\|Terris Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Terris Dominance\|Terris Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Tathingdwen** is the capital of the [[Terris Dominance\|Terris Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 

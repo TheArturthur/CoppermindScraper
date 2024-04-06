@@ -1,12 +1,12 @@
 |**Chivi**|
 |-|-|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Residence**|[[Narak\|Narak]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“* I do not like the look of those who have taken this form. I do not like how people clamor to be given it.*”
 \- Chivi, on stormform[1]

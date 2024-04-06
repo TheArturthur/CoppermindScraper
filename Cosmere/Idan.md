@@ -1,9 +1,8 @@
 |**Idan**|
 |-|-|
 |**Relatives**|[[Waren\|Waren]] (cousin)|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*Hrathen pursed his lips with dissatisfaction: The boy noble had been too easily swayed. As was often the case, the most outspoken man was the least discerning.*”
 \-Hrathen's opinion of Idan[1]

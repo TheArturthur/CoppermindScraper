@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Lawman|
 |**Residence**|[[Far Dorest\|Far Dorest]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Jon Deadfinger** is a lawman from [[Far Dorest\|Far Dorest]] in the [[Roughs\|Roughs]] on [[Scadrial\|Scadrial]].
 

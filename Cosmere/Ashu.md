@@ -2,9 +2,9 @@
 |-|-|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 **Ashu** is an [[Idris\|Idrian]] slumlord in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
 

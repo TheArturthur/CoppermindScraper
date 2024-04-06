@@ -1,7 +1,6 @@
 |**Dowser**|
 |-|-|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 For the criminal in [[Elendel\|Elendel]], see [[Dowser Maline\|Dowser Maline]].
 **Dowsing** is a term used to describe the ability to detect [[Epic\|Epics]]. Both Epics and devices with this ability are referred to as **dowsers**.

@@ -4,9 +4,8 @@
 |**Type**|Family|
 |**Homeland**|[[Urteau\|Urteau]]|
 |**Era**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn (series)*|
 
 **House Venture** is a [[Noble\|noble]] house originally from the city of [[Urteau\|Urteau]] in [[Scadrial\|Scadrial]].
 It is the largest house during the fall of the [[Final Empire\|Final Empire]].
@@ -66,4 +65,4 @@ House Venture family tree
 Individuals in House Venture (but not the House itself) are involved in [[Worldhopping\|worldhopping]] and interplanetary trade during the [[Final Empire\|Final Empire]].
 
 
-https://coppermind.net/wiki/Keep_Venture
+https://coppermind.net/wiki/House_Venture

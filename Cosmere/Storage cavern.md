@@ -1,8 +1,7 @@
 |**Storage cavern**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **storage caverns** are five caches of supplies left behind by the [[Lord Ruler\|Lord Ruler]], hidden in caverns beneath cities in the [[Final Empire\|Final Empire]].
 Every cache contains a metal plate with inscriptions, providing the location of the next cavern and some advice or information from the Lord Ruler. All hold a large supply of food and grain, but each one also has its own specialty.
@@ -45,7 +44,7 @@ There are metals of Allomancy which I have shared with none. If you are a priest
 
 
 ### Vetitan
-[[Vetitan\|Vetitan]] is home to the fourth cavern. Its metal plate reveals the existence of [[Malatium\|malatium]], that [[Koloss\|koloss]] and [[Kandra\|kandra]] can be controlled by using strong emotional [[Allomancy\|Allomancy]], and that only one's thoughts are safe from Ruin.
+[[Vetitan\|Vetitan]] is home to the fourth cavern. This cache holds large stores of the eight base allomantic metals. Its metal plate reveals the existence of [[Malatium\|malatium]], that [[Koloss\|koloss]] and [[Kandra\|kandra]] can be controlled by using strong emotional [[Allomancy\|Allomancy]], and that only one's thoughts are safe from Ruin.
 
 >“*This is the last metal I will tell you about, I have trouble deciding the purpose of it. It allows you to see the past, in a way. What a person could have been, and who they might have become, had they made different choices. Much like gold, but for others.*
 \-By now, the mists have likely come again. Such a foul, hateful thing. Scorn it. Don’t go out in it. It seeks to destroy us all. If there is trouble, know that you can control the koloss and the kandra by use of several people Pushing on their emotions at once. I built this weakness into them. Keep the secret wisely.

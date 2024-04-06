@@ -1,9 +1,8 @@
 |**Traxil**|
 |-|-|
 |**Profession**|Scholar|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Yelig-nar, called Blightwind, was one that could speak like a man, though often his voice was accompanied by the wails of those he consumed.*”
 \-A quote from Traxil's work[1]

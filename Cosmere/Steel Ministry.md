@@ -2,12 +2,11 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Religion|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Steel Ministry** is the religion and the government bureaucracy of the [[Final Empire\|Final Empire]]. It is made up of various divisions, named Cantons, and the members of the Ministry are called obligators. The [[Inquisitors\|Inquisitors]] are also part of the Steel Ministry.
-One of the main functions of the Ministry is to witness a myriad of contracts and agreements, even something as simple as promise to come to a game of [[Shelldry\|shelldry]]. The nobility pay the [[Lord Ruler\|Lord Ruler]] for their services in a manner similar to that of renting [[Skaa\|skaa]]. As the authority in bureaucratic matters, any mercantile contracts, divorces, weddings, land purchases, inheritances, or any other important dealings could only be authorized by obligators. If one of the Ministry hasn't witnessed an event or sealed a document, it might as well not have happened or have been written. However, obligators are also used to witness less formal agreements, such as bets between friends.
+One of the main functions of the Ministry is to witness a myriad of contracts and agreements, even something as simple as promise to come to a game of [[Shelldry\|shelldry]]. The nobility pay the [[Lord Ruler\|Lord Ruler]] for their services in a manner similar to that of renting [[Skaa\|skaa]]. As the authority in bureaucratic matters, any mercantile contracts, divorces, weddings, land purchases, inheritances, or any other important dealings could only be authorized by obligators. If one of the Ministry hasn't witnessed an event or sealed a document, it might as well not have happened or have been written. However, obligators are also used to witness less formal agreements, such as meetings between friends.
 
 ## Contents
 
@@ -86,7 +85,7 @@ In addition to dealing with anyone that goes against Ministry protocol, the Cant
 
 
 The Canton of Inquisition was formed sometime during the sixth century of the Lord Ruler's reign. This Canton was the one to suggest the [[Terris\|Terris]] breeding programs to the Lord Ruler in order to keep the Terris population under control. The Lord Ruler agreed to it provisionally, and the programs were then kept until the collapse of the Final Empire. However, the subjugation of the Terris people started far before the Canton of Inquisition created the idea of the breeding programs.
-The Inquisitors themselves didn't belong to the regular chain of command in the Steel Ministry, but were ranked below the Lord Prelan. Through [[Kar (Scadrial)\|Kar's]] revelation that [[Vin\|Vin]] was the daughter of the Lord Prelan [[Tevidian Tekiel\|Tevidian Tekiel]], shortly before the death of the Lord Ruler, the Canton of Inquisition gained dominance over the other Cantons in the final days of the Empire.
+The Inquisitors themselves didn't belong to the regular chain of command in the Steel Ministry, but were ranked below the Lord Prelan. Through [[Kar\|Kar's]] revelation that [[Vin\|Vin]] was the daughter of the Lord Prelan [[Tevidian Tekiel\|Tevidian Tekiel]], shortly before the death of the Lord Ruler, the Canton of Inquisition gained dominance over the other Cantons in the final days of the Empire.
 
 
 >“*As I walk, I wonder what secrets the Inquisitors deemed worthy of hiding below the earth, in the basement of their stronghold.*”
@@ -101,7 +100,7 @@ There is a long-standing rivalry between the Canton of Orthodoxy and the Canton 
 
 ### Obligators
 An obligator is needed to witness or approve anything significant going on in the Final Empire. Without their approval, agreements and contracts aren't morally or legally binding. Any legal assassination requires the Ministry's approval, usually through bribery. Obligators, in addition to witnessing agreements, run all public works in the Final Empire. They oversee programs such as sewage and engineering, and most of the head engineers who design city plans are obligators themselves.
-In addition to their bureaucratic functions, the obligators serve as the Lord Ruler's religious leaders. They teach the Lord Ruler's religion to skaa and noblemen alike. The obligators determine who the nobility is allowed to marry as part of their religious duties. Obligators are allowed to be married. The Lord Ruler requires more devotion from the obligators; they practice religious worship and have to maintain a religious air that is unnecessary for nobles. Some of the religious practices for the Steel Ministry include daily prayers and ceremonies to the Lord Ruler.
+In addition to their bureaucratic functions, the obligators serve as the Lord Ruler's religious leaders. They teach the Lord Ruler's religion to skaa and noblemen alike. The obligators determine who the nobility is allowed to marry as part of their religious duties. Obligators are allowed to be married. Those who become an obligator forfeit their surname. The Lord Ruler requires more devotion from the obligators; they practice religious worship and have to maintain a religious air that is unnecessary for nobles. Some of the religious practices for the Steel Ministry include daily prayers and ceremonies to the Lord Ruler.
 
  by  Anna_Korabelnikova  Noorden, an obligator
 Obligators are distinguished by their shaved heads and intricate black tattoos around their eyes that signify rank and Canton membership. They typically wear dark grey robes.
@@ -114,12 +113,12 @@ Steel Inquisitor
 Lord Prelan
 
 Lord Prelan [[Tevidian\|Tevidian]]: Canton of Orthodoxy
-[[Bendal\|Bendal]]: Inquisitor
-[[Kar (Scadrial)\|Kar]]: Inquisitor
+[[Bendal\|Bendal]]: Canton of Inquisition
+[[Kar\|Kar]]: Canton of Inquisition
 High Prelan [[Arriev\|Arriev]]: Canton of Finance
 Prelan [[Laird\|Laird]]: Canton of Finance
 Prelan [[Aradan Yomen\|Aradan Yomen]]: Canton of Resource
-[[Noorden\|Noorden]]
+[[Noorden\|Noorden]]: Canton of Orthodoxy
 [[Marsh\|Marsh]]: Canton of Inquisition
 ## History
 ### The Final Empire
@@ -151,7 +150,7 @@ One of these remnants of the Ministry existed as the [[Canton of Cartography\|Ca
 
 ## Philosophy and Beliefs
 >“*The fact that the Lord Ruler would base his Church on a financial institution shows—in my opinion—that he worried less about true faith in his followers, and more about stability, loyalty, and quantifiable measures of devotion.*”
-\-Harmony in the Words of Founding[27]
+\-Harmony in the Words of Founding[29]
 
  by  Rafael Sousa  The Lord Ruler, Sliver of Infinity
 The philosophy taught most often by the Steel Ministry is that the skaa are cursed and the nobility are blessed. The basic doctrine behind this philosophy is that the nobility has prestige and access to Allomancy because their ancestors were loyal to the Lord Ruler, while the skaa are being punished for the sins of their own ancestors. The Mistborn are descendants of the only men who supported the Lord Ruler before his Ascension, in this belief system.
@@ -164,7 +163,7 @@ Weddings were characterized only by the presence of an obligator to witness the 
 The Steel Ministry functions similarly to being its own noble house, with contracts and agreements to gain wealth and leverage. Corruption is commonplace within its ranks, and it is notorious for taking bribes. There was a long standing rivalry between the various Cantons for control of the Ministry.
 
 >“*Sit down to dine with evil, and you will ingest it in your meal.*”
-\-A common saying in the Steel Ministry[53]
+\-A common saying in the Steel Ministry[55]
 
 Both men and women can be part of the Steel Ministry and some women even become Inquisitors. Rising through the ranks of the Ministry is influenced strongly by Allomantic abilities. Those with abilities, especially with metals judged to be valuable, rise quickly and are placed in positions of power. [[Seeker\|Seekers]] are one of the common Mistings recruited most diligently by the obligators.
 [[Atium\|Atium]] Mistings are the most valuable type sought for by the Ministry. In order to search them out and recruit them, Inquisitors put trace amounts of atium into the drinks at balls periodically. They cause a disturbance while burning bronze to seek out those who begin to burn the metals instinctively. When someone joins the Ministry who is not already a Misting, they are given a larger amount of atium without their knowing and
@@ -176,4 +175,4 @@ Obligators were originally just called priests and the Steel Ministry was called
 
 
 
-https://coppermind.net/wiki/Canton_of_Finance
+https://coppermind.net/wiki/Lord_prelan

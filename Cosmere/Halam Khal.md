@@ -3,14 +3,14 @@
 |**Family**|
 |**Parents**|[[General Khal\|General Khal]], [[Teshav\|Teshav]]|
 |**Siblings**|[[Aratin\|Aratin]], [[Meleran\|Meleran]]|
+|**Relatives**|[[Idani\|Idani]] |
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Profession**|Captain in Kholin army|
 |**Groups**|Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Captain **Halam Khal** is a [[Lighteyes\|lighteyed]] officer and [[Shardbearer\|Shardbearer]] in the  Kholin army on [[Roshar\|Roshar]]. He is the eldest son of [[General Khal\|General Khal]] and Brightness [[Teshav\|Teshav]].
 

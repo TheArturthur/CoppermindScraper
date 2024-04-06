@@ -1,9 +1,8 @@
 |**Shallow Crypts**|
 |-|-|
-|**Region**|[[Frostlands\|Frostlands]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Frostlands\|Frostlands]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I wouldn’t send my own brother ashore there without guards, and he’s killed seventeen men with his bare hands, he has.*”
 \-Tozbek on the Shallow Crypts[1]

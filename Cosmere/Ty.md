@@ -2,9 +2,9 @@
 |-|-|
 |**Abilities**|Radiant squire for [[Order of Skybreakers\|Order of Skybreakers]]|
 |**Groups**|[[Order of Skybreakers\|Skybreaker]] squire|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Ty** is a squire of the [[Knights Radiant\|Knights Radiant]] on [[Roshar\|Roshar]] and a member of the [[Order of Skybreakers\|Order of Skybreakers]].
 

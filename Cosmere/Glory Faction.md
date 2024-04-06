@@ -1,8 +1,7 @@
 |**Glory Faction**|
 |-|-|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 The **Glory Faction** is one of the eighty factions that governs the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]].
 They attempted to assassinate [[Ashravan\|Emperor Ashravan]], however only succeeded in killing his wife. Ashravan was left in a vegetative state, leading the [[Heritage Faction\|Heritage Faction]] to coerce the [[Forger\|Forger]] [[Wan ShaiLu\|Wan ShaiLu]] into Forging him a new soul. It is likely the Glory Faction felt they would be able to elevate one of their members to the position of emperor if Ashravan was killed.

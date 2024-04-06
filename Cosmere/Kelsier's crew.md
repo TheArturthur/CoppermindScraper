@@ -2,12 +2,11 @@
 |-|-|
 |by  Katie Payne |
 |**Leaders**|[[Kelsier\|Kelsier]] [[Elend\|Elend]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Kelsier's crew** was a band of [[Skaa\|skaa]] on [[Scadrial\|Scadrial]] that acted against the [[Final Empire\|Final Empire]].
-They are initially hired by the [[Skaa rebellion\|skaa rebellion]], and orchestrate the house war between the nobility of [[Luthadel\|Luthadel]], as well as raising an army and inciting mass skaa riots in Luthadel before killing the [[Lord Ruler\|Lord Ruler]] and bringing down the Final Empire.
+They are initially hired by the [[Skaa rebellion\|skaa rebellion]], and orchestrate the house war between the nobility of [[Luthadel\|Luthadel]], as well as raising an army and inciting mass skaa riots in Luthadel before killing the [[Lord Ruler\|Lord Ruler]] and bringing down the Final Empire. Scadrian history would remember them as the [[Preservers\|Preservers]].
 
 ## Notable Members
 For a full list, see :Category: Kelsier's crew.

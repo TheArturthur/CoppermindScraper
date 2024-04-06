@@ -8,9 +8,9 @@
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Aratin Khal** is an [[Alethi\|Alethi]] soldier on [[Roshar\|Roshar]]. He is the second son of [[General Khal\|General Khal]] and [[Teshav\|Teshav]] and an accomplished [[Vehah\|vehah]] wrestler.
 
@@ -36,4 +36,4 @@ In early 1174, Aratin was challenged to a wrestling match by Dalinar Kholin, who
 
 
 
-https://coppermind.net/wiki/Aratin_Khal
+https://coppermind.net/wiki/Aratin

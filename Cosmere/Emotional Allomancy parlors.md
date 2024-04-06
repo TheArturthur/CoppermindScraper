@@ -1,9 +1,8 @@
 |**Emotional Allomancy parlors**|
 |-|-|
 |**Services**|Emotional [[Allomancy\|Allomancy]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*A luxurious massage, sweet scents, and a Soother on duty to give a unique "Emotional Massage" leave you feeling as good on the inside as you do on the outside.*”
 \-From a report in The Elendel Daily[1]

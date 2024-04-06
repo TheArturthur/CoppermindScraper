@@ -1,10 +1,9 @@
 |**Horneater Oceans**|
 |-|-|
 |by  Yen Shu Liao |
-|**Region**|[[Horneater Peaks\|The Horneater Peaks]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Horneater Peaks\|The Horneater Peaks]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 It has been suggested that this page be merged into [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].The information on this page is much better suited to be included on other pages.
 

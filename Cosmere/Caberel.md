@@ -3,9 +3,8 @@
 |**Titles**|Lieutenant|
 |**Profession**|Law enforcement|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lieutenant **Caberel** is a member of the [[Elendel\|Elendel]] constabulary on [[Scadrial\|Scadrial]].
 

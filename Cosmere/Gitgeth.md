@@ -2,9 +2,9 @@
 |-|-|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“* The little rhythmless ones want to be near us. They sense that something is wrong with their minds, I tell you.*”
 \- Gitgeth on the parshmen[1]

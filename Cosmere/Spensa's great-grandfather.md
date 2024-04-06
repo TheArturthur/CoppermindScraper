@@ -4,9 +4,8 @@
 |**Spouse**|[[Spensa's great-grandmother\|Spensa's great-grandmother]]|
 |**Children**|[[Becca Nightshade\|Becca Nightshade]]|
 |**Descendants**|[[Zeen Nightshade\|Zeen Nightshade]], [[Spensa Nightshade\|Spensa Nightshade]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*He kept the stories of Old Earth, of the times before we traveled into space.*”
 \-Gran-Gran telling Spensa of her father[1]

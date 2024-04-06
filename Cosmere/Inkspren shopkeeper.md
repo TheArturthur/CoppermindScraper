@@ -1,9 +1,8 @@
 |**Unknown**|
 |-|-|
 |**Species**|[[Inkspren\|Inkspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*This is what you do, killing spren. You should feel ashamed.*”

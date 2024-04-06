@@ -5,9 +5,8 @@
 |**Groups**|Sadeas army|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlord **Lamaril** was a captain in the Sadeas army on the [[Shattered Plains\|Shattered Plains]] on [[Roshar\|Roshar]]. He oversaw [[Torol Sadeas\|Torol Sadeas's]] [[Bridge crew\|bridge crews]].
 
@@ -21,7 +20,7 @@ Brightlord **Lamaril** was a captain in the Sadeas army on the [[Shattered Plain
 
 ## Appearance and Personality
 Lamaril is a tall, slim [[Lighteyes\|lighteyes]]. Although he is not a large man, his angular body implies that he is not weak. He wears a beard with a square cut. His clothing includes a forest-green cloak, one of the colors of House Sadeas.
-He is a cruel person who casually threatens his inferiors and caused them to fear him. He has no regard for the lives of darkeyed soldiers. His primary concerns during his tenure as a captain appear to be enriching himself and staying in Sadeas's good graces. [[Sylphrena\|Sylphrena]] does not like him.
+He is a cruel person who casually threatens his inferiors and causes them to fear him. He has no regard for the lives of darkeyed soldiers. His primary concerns during his tenure as a captain appear to be enriching himself and staying in Sadeas's good graces. [[Sylphrena\|Sylphrena]] does not like him.
 
 ## Attributes and Abilities
 Lamaril is a landless lighteyes of a very low [[Dahn\|dahn]]; he is referred to as a "near-darkeyes" by Brightlady [[Hashal\|Hashal]].

@@ -3,9 +3,8 @@
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Naget** is a resident of [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

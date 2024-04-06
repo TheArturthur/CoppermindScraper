@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Bevalis\|Bevalis]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Mab** is a cook from [[Idris\|Idris]] on [[Nalthis\|Nalthis]].
 She was born in Idris, but left to live in [[Hallandren\|Hallandren]] during her teenage years, eventually becoming a reputable courtesan in [[T'Telir\|T'Telir]]. She gave her [[Breath\|Breath]] to a customer with whom she had fallen in love, and he left her afterwards. When she was a [[Drab\|Drab]], she began to have more trouble finding work, being eventually forced to run a poor whorehouse, while using old contacts to acquire clients. Once she had earned enough money, she bought another Breath and left to go back to Idris, becoming a cook in the kitchens.

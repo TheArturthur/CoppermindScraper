@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Animal|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -36,7 +35,7 @@ The [[Reshi\|Reshi]], and likely others, paint their chulls' shells. One can ide
 Chulls are generally docile creatures. They have claws that are said to be strong enough to break a man's arm, but it is very unusual for them to behave aggressively. They tend to move with a slow, lumbering gait and are generally slower than humans.
 They are capable of making a wide range of noises, including a gravelly bleating, trumpeting, and snorting.
 Chulls are omnivorous creatures. They eat everything from [[Rockbud\|rockbuds]] to slugs to smaller crustaceans. Domestic chulls are often fed grain.
-Chulls are considered less intelligent that horses and in some cases, stubborn.
+Chulls are considered less intelligent than horses and in some cases, stubborn.
 Chulls breed by way of laying eggs.
 
 ## Training
@@ -62,19 +61,19 @@ There is a tavern in Dalinar's warcamp called the "[[Ornery Chull\|Ornery Chull]
 
 
 >“*Jasnah is inordinately fond of dust, I believe she thrives on it, feeding off the particles like a chull crunching rockbuds.*”
-\-Shallan Davar talking with Kabsal[22]
+\-Shallan Davar talking with Kabsal[21]
 
 
 >“*An army was like a massive chull at times, lumbering along, slow to react*”
-\-Dalinar regarding his army.[23]
+\-Dalinar regarding his army.[22]
 
 
 >“*Everyone has a place. You're out of yours. Like a chull in a dining hall*”
-\-Kaladin's impression of the lighteyes regard for him and his guards.[24]
+\-Kaladin's impression of the lighteyes regard for him and his guards.[23]
 
 
 >“*Storms, he was like a rat gnawing on the toes of a chull*”
-\-Adolin's inner monologue while battling a Thunderclast.[25]
+\-Adolin's inner monologue while battling a Thunderclast.[24]
 
 
 ## Trivia

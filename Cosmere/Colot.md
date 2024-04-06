@@ -2,11 +2,11 @@
 |-|-|
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
 |**Profession**|Army Captain, archer|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Bridge Four\|Bridge Four]]🐱︎, Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Kholin army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Colot** is a Captain of the Fifth Battalion of the [[House Kholin\|Kholin]] army on [[Roshar\|Roshar]]. He later becomes a [[Windrunner\|Windrunner]].
 

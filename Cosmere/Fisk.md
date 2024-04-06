@@ -2,11 +2,10 @@
 |-|-|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Profession**|Soldier|
-|**Groups**|[[Cobalt Guard\|Cobalt Guard]]🐱︎ |
+|**Groups**|[[Cobalt Guard\|Cobalt Guard]] |
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Fisk** is a [[Shardblade\|Shardbearer]] in [[Dalinar\|Dalinar's]] army and captain of the [[Cobalt Guard\|Cobalt Guard]] on [[Roshar\|Roshar]]. His Blade is named [[Loremaker\|Loremaker]].
 

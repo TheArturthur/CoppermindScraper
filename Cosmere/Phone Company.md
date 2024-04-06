@@ -1,9 +1,8 @@
 |**Phone Company**|
 |-|-|
 |**Leaders**|[[Jason Write\|Jason Write]] and [[Lanna Write\|Lanna Write]]|
-|**World**|[[Earth (Skyward)\|Earth (Skyward)]]|
+|**World of Origin**|[[Earth (Skyward)\|Earth (Skyward)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium*|
 
 This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
 

@@ -3,12 +3,12 @@
 |**Family**|
 |**Relatives**|[[Rine Hatham\|Rine Hatham]]|
 |**Ancestors**|[[Sadees\|Sadees]]|
-|**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]], Highprince of Works|
+|**Abilities**|[[Shardbearer\|Shardbearer]]|
+|**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]], [[Highprince of Works\|Highprince of Works]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article contains information about the Alethi highprince. For the Alethi highlord with the same house name, see [[Rine Hatham\|Rine Hatham]].
 >“*We must present a unified Alethkar. We must not allow ourselves to be attacked one at a time, and we must not squabble.*”

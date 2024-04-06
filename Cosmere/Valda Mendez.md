@@ -3,9 +3,8 @@
 |**Family**|
 |**Children**|[[Arturo Mendez\|Arturo Mendez]]|
 |**Profession**|DDF pilots [[National Assembly Leader\|NAL]]|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“* We want to know what your plan is for ending the DDF's spiral of failure.*”
 \- Valda to Ironsides[1]

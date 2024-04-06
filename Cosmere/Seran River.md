@@ -1,10 +1,9 @@
 |**Seran River**|
 |-|-|
 |**Type**|River|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 For the pre-[[Catacendre\|Catacendre]] river, see [[River Seran\|River Seran]].
 The **Seran River** is a river on [[Scadrial\|Scadrial]] in the [[Elendel Basin\|Elendel Basin]] and the [[Roughs\|Roughs]].
 

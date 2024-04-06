@@ -5,9 +5,9 @@
 |**Died**|[[Siege of Kholinar\|Siege of Kholinar]] ? 1174|
 |**Species**|[[Singer\|Singer]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*I don't have traditions, Or society. But still, my 'freedom' is that of a leaf. Dropped from the tree, I just blow on the wind and pretend I'm in charge of my destiny.*”
 \-Sah[2]

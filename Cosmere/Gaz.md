@@ -4,11 +4,11 @@
 |**Born**|1140s|
 |**Abilities**|[[Order of Lightweavers\|Lightweaver]]|
 |**Profession**|Bridge Sergeant, Bodyguard|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Unseen Court\|Unseen Court]]🐱︎, Sadeas army |
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]], Sadeas army |
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -88,7 +88,7 @@ Gaz was present in [[Urithiru\|Urithiru]] during the [[Singer\|singer]] invasion
  by  botanicaxu 
 ### Kaladin
 Gaz met Kaladin when he was brought to the Shattered Plains as a slave. Kaladin tried to explain he had been a soldier, hoping to become one here, but Gaz made fun of him and started calling him "Lordling". Kaladin despised him for not looking over the bridgemen or providing them with the proper gear. Gaz felt the same for Kaladin for not dying in the first bridge run.
-When Kaladin went to the chasm to commit suicide, he met Gaz, who didn't show him sympathy, but asked him to leave his vest and sandals. When he came back though, he threatened Gaz stating he had just died and could not be harmed, thus demanding to become bridge leader, asked for his wages and bribed him with one mark out of five for his efforts of "staying out of his way". After that, Gaz goes white every time Kaladin goes closer to him but is manipulated giving Kaladin the space he needed.
+When Kaladin went to the chasm to commit suicide, he met Gaz, who did show him sympathy and deference, but asked him to leave his vest and sandals. When he came back though, he threatened Gaz stating he had just died and could not be harmed, thus demanding to become bridge leader, asked for his wages and bribed him with one mark out of five for his efforts of "staying out of his way". After that, Gaz goes white every time Kaladin goes closer to him but is manipulated giving Kaladin the space he needed.
 Though he needed the bribes, he was forced by his immediate superior Lamaril to bring Kaladin down, which ended up causing the latter to be hung up during a highstorm. When Gaz came back as Shallan's bodyguard, he and Kaladin saw each other again. Kaladin was still angry and Gaz ashamed.
 
 ### Shallan

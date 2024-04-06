@@ -1,9 +1,8 @@
 |**Vanrial**|
 |-|-|
 |**Headquarters**|[[Silent Mount\|The Silent Mount]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Anak malah kaf, del makian habin yah*”
 \- A line from the Dawnchant, meaning, "To be human is to want that which we cannot have."[1]

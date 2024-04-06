@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|Classical Scadrial|
 |**Type**|Religion|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn (series)*|
 
 **Larstaism** was a religion from [[Classical Scadrial\|Classical Scadrial]]. The Larsta people were banished from their land, which had held many complex traditions and rules. In response, they made their religion as simple as possible. [[Mare\|Mare]] was a follower of the Larsta faith, converting to it after [[Sazed\|Sazed]] had preached it to her.
 Sazed evaluates Larstaism for truth longer than other pre-Ascension religions because it did not seem to have any illogical or contradictory tenets. He uses their descriptions of Scadrial's pre-ascension plants and animals, such as the [[Marewill flowers\|Marewill flowers]], to model new flora.

@@ -1,11 +1,10 @@
 |**Keep Shezler**|
 |-|-|
 |**Owner**|[[Antillius Shezler\|Antillius Shezler]]|
-|**City**|[[Mantiz\|Mantiz]]🐱︎|
-|**Dominance**|[[Western Dominance\|Western Dominance]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Mantiz\|Mantiz]]|
+|**Dominance**|[[Western Dominance\|Western Dominance]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Keep Shezler** is the keep of [[Antillius Shezler\|Antillius Shezler]] in [[Mantiz\|Mantiz]] on [[Scadrial\|Scadrial]].
 

@@ -1,9 +1,8 @@
 |**Spears**|
 |-|-|
 |**Abilities**|[[Cytonics\|Cytonics]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*Lie low, M-Bot. Take stock, don’t get into any fights, and wait for me here.*”
 \-Commander Spears' final orders to M-Bot[1]

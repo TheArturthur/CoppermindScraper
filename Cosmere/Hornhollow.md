@@ -1,10 +1,9 @@
 |**Hornhollow**|
 |-|-|
-|**Region**|[[Sadeas princedom\|Sadeas princedom]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Sadeas princedom\|Sadeas princedom]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Hornhollow** is a village in [[Sadeas princedom\|Sadeas princedom]] close to [[Hearthstone\|Hearthstone]]. It is part of the [[Akanny\|Akanny]] region - a prized farming area that supplies grain, meat and other provisions for large portions of [[Alethkar\|Alethkar]]. Hornhollow would be considered a fairly large town by the local standards and has a small militia. It resides on the Highprince's lands and the surrounding area is worked by high ranking darkeyes.
 The village lies in a depression, protected from the [[Highstorm\|Highstorm]] by a large hill to the east. Within the town are approximately two dozen structures, including two storm sanctuaries that can be used by passing travellers to shelter from the storms. There are also many structures nearby that don't reside within the village proper. In the centre of the town is a cistern used to collect and filter rainwater.

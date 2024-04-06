@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Law enforcement|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 For the Final Empire-era soldier also known as Wells, see [[Wellen\|Wellen]].
 **Wells** is a constable of the [[Elendel\|Elendel]] constabulary on [[Scadrial\|Scadrial]].

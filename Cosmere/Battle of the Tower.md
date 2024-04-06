@@ -5,11 +5,10 @@
 |**Date**|Tanatashev 1173|
 |**Participants**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Kaladin\|Kaladin]], [[Torol Sadeas\|Torol Sadeas]], & [[Eshonai\|Eshonai]]|
 |**Effects**|Sadeas's treachery revealed, Kaladin joins Dalinar's guard|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
 |**Location**|The [[Tower (Roshar)\|Tower]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Way of Kings*|
 
 >“*He saw a chance to pull out, letting the Parshendi destroy us. So he did it. A very Alethi thing to do. Ruthless, yet still allowing him to feign a sense of honor or morality.*”
 \-Dalinar's description of Sadeas's betrayal[1]

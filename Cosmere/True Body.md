@@ -2,11 +2,10 @@
 |-|-|
 |by  Ben McSweeney |
 |**Related to**|Kandra|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn (series)*|
 
-A **True Body** was an artificial skeleton crafted by a [[Kandra\|kandra]] artisan for kandra to wear while they were in the [[Kandra Homeland\|kandra Homeland]]. The [[First Generation\|First Generation]] was the only generation not to wear true bodies, they did not have the skill or knowledge to craft them when they became first became kandra, so the [[Lord Ruler\|Lord Ruler]] returned their original skeletons for them from when they had been human.
+A **True Body** was an artificial skeleton crafted by a [[Kandra\|kandra]] artisan for kandra to wear while they were in the [[Kandra Homeland\|kandra Homeland]]. The [[First Generation\|First Generation]] was the only generation not to wear true bodies, they did not have the skill or knowledge to craft them when they first became kandra, so the [[Lord Ruler\|Lord Ruler]] returned their original skeletons for them from when they had been human.
 
 ## Contents
 
@@ -23,7 +22,7 @@ However, younger generations, such as the Sevenths, often wore True Bodies that 
 ## Materials
 Materials used for True Bodies varied, although specific generations tended to use certain types of materials.
 
-Crystal - Used often by the Second Generation, such as [[KanPaar\|KanPaar]]. These true bodies were beautiful but fragile and could be tinted various colors, such as red.
+Crystal - Used often by the Second Generation, such as [[KanPaar\|KanPaar]]. These true bodies were beautiful but fragile and could be tinted various colors, such as red. They can be used as a [[Gemheart\|gemheart]].
 Quartzite Stone - Used often by the Fifth Generation, such as [[VarSell\|VarSell]]. These were strong True Bodies, and often coupled with the [[Blessing of Potency\|Blessing of Potency]], which made the kandra who possessed them formidable warriors. These True Bodies could be cracked by a heavy weight. They were considered lavish and they sparkled slightly in the light.
 Wood - Used often by the Seventh Generation, such as [[MeLaan\|MeLaan]]. These bodies were often carved into unusual shapes.
 ## Trivia

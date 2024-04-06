@@ -1,16 +1,15 @@
 |**Lord Habren**|
 |-|-|
-|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]🐱︎|
+|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
-**Lord Habren** is a member of the [[Luthadel Assembly\|Luthadel Assembly]].
-During the deposition of King [[Elend Venture\|Elend Venture]], he votes for King [[Ashweather Cett\|Ashweather Cett]] and then changes to Lord [[Ferson Penrod\|Ferson Penrod]], ensuring Penrod's victory. He is the one that first wishes to change his vote, followed by [[Lord Hue\|Lord Hue]].
-House Habren are cousins to [[House Elariel\|House Elariel]].
-
+**Lord Habren** is a young member of the [[Luthadel Assembly\|Luthadel Assembly]] on [[Scadrial\|Scadrial]].
+House Habren was not a particularly important [[Noble\|noble]] house. However, they were distant cousins to the powerful [[House Elariel\|House Elariel]], and presumably used that influence to get Lord Habren a seat on the Assembly.
+During the election to replace the deposed [[Elend Venture\|Elend Venture]] as king of the [[Central Dominance\|Central Dominance]], Habren was one of only two votes for [[Ashweather Cett\|Ashweather Cett]]. The vote appeared to be headed for a deadlock, but Habren asked if he was allowed to change his vote since it was obvious that Cett could not win. After Elend confirmed that changes were allowed before the voting was closed, Habren and [[Lord Hue\|Lord Hue]] switched their votes to Lord [[Ferson Penrod\|Ferson Penrod]], ensuring Penrod's victory.
 
 
-https://coppermind.net/wiki/Habren
+
+https://coppermind.net/wiki/Lord_Habren

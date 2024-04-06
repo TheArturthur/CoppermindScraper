@@ -1,9 +1,8 @@
 |**Painrial**|
 |-|-|
 |by  Isaac Stewart |
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*The Stormlight Archive*|
 
 A **painrial** is a type of [[Fabrial\|fabrial]] used to decrease and even eliminate the pain felt by someone while allowing them to maintain feeling, or alternatively to create and increase pain to excruciating levels. Navani's notebook appears to state the primary gemstone is a ruby.
 

@@ -1,9 +1,8 @@
 |**Jenin**|
 |-|-|
-|**Groups**|[[Dalinar's elites\|Dalinar's elites]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Dalinar's elites\|Dalinar's elites]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Hate shooting horses. Like throwing a thousand broams into the storming ocean, Brightlord.*”
 \-Jenin to Dalinar Kholin[1]

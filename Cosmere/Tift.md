@@ -1,9 +1,8 @@
 |**Tift**|
 |-|-|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Hey, my fah’s a farmer, and he’s right good at it. It’s a noble Calling! All your fahs are farmers.”*”
 \-Tift to other kids in Hearthstone[1]

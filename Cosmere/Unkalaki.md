@@ -1,12 +1,11 @@
 |**Unkalaki**|
 |-|-|
 |**Species**|[[Singer\|Singers]], Human|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Horneater redirects here. For the planned [[Rock\|Rock]] novella, see [[Unpublished works\|Unpublished works]].
-The **Horneaters**, or **Unkalaki**, as they refer to themselves, are a race of people on the world of [[Roshar\|Roshar]]. They live on the tops of mountains called the [[Horneater Peaks\|Horneater Peaks]] in [[Jah Keved\|Jah Keved]].
+The **Unkalaki**, also known as **Horneaters** or **Peakfolk**, are a race of people on the world of [[Roshar\|Roshar]]. They live on the tops of mountains called the [[Horneater Peaks\|Horneater Peaks]] in [[Jah Keved\|Jah Keved]].
 
 ## Contents
 
@@ -19,7 +18,8 @@ The **Horneaters**, or **Unkalaki**, as they refer to themselves, are a race of 
 
 2.1 Occupation
 2.2 Political Structure and Military
-2.3 Other
+2.3 Calendar
+2.4 Other
 
 
 3 Cuisine
@@ -52,11 +52,14 @@ Horneaters, when making a living outside of the Peaks, prefer to work in the sam
 
 ### Political Structure and Military
 >“*The nuatoma, they see our lack of Shards as a great shame. They want these weapons very badly. It is believed that the nuatoma who first obtains a Shardblade would become king, a thing we have not had for many years. No peak would fight another peak where a man held one of the blessed Blades.*”
-\-Rock to Kaladin and Teft[18]
+\-Rock to Kaladin and Teft[19]
 
 The Unkalaki are organized in clan-like social structures. The leaders of these clans are called [[Nuatoma\|Nuatoma]]. The relatives of a Nuatoma serve him and act as his household. Nuatomas regularly leave the Horneater homeland in attempts to win Shards in duels with [[Shardbearer\|Shardbearers]]. The first Nuatoma to win a Shardblade would become the king of the Unkalaki. It is unclear if Nuatomas are fourth sons or if their position excludes them from the normal profession system.
 Since the [[True Desolation\|True Desolation]], the Unkalaki have obtained two sets of [[Shardplate\|Shardplate]]. The first is obtained by [[Rock\|Rock]] during the [[Battle of Thaylen Field\|Battle of Thaylen Field]], where he uses a [[Grandbow\|grandbow]] to kill [[Meridas Amaram\|Meridas Amaram]]. While he also wins the [[Shardblade\|Shardblade]] [[Oathbringer (Shardblade)\|Oathbringer]], he returns this to [[Dalinar Kholin\|Dalinar Kholin]] in repayment of a debt. The second set is discovered by [[Cord\|Cord]] on the [[Expedition to Akinah\|expedition to Akinah]]. When Cord bonds the Shardplate, she becomes the first Shardbearer among her people in a very long time.
 The ruler of [[Jah Keved\|Jah Keved]] is able to levy troops from the population of Horneaters, which is one reason why the Vedens argue against ceding the Horneater Peaks to [[Odium\|Odium's]] forces. The Unkalaki also have aided the [[Coalition of monarchs\|coalition of monarchs]] by supplying batches of arrows for their armies. These arrows are unique, being fletched with white "goosefeathers."
+
+### Calendar
+They make use of a different calendar than the Vorin calendar, with their first year being a different, currently unknown year. Some point between c. 1158 and 1173 in the Vorin calendar is considered the start of a new millennium, under their own system.
 
 ### Other
 At one point, [[Rock\|Rock]] tells [[Bridge Four\|Bridge Four]] about the Unkalaki dueling system, saying that the two men would drink [[Mudbeer\|mudbeer]] and sing until one of them gives up. The point is that by the end of the duel, no one will recall why they were fighting.
@@ -65,16 +68,16 @@ Rock wears a beard style called *humaka'aban*, which he says is the pride of eve
 Unkalaki engage in trade with inhabitants of [[Shadesmar\|Shadesmar]], and [[Aluminum\|aluminum]] is one of the commodities they have received. In fact, there is a clan of Horneaters that lives in Shadesmar, including a handful that reside in [[Lasting Integrity\|Lasting Integrity]] during the time of the fortress' isolationist policy.
 
 ## Cuisine
-The Unkalaki received their common name "Horneaters" due to their ability to eat the hard shells of crustaceans. [[Rock\|Rock]] ascribes this ability to their unusually strong teeth. Unkalaki cuisine utilizes less spices than [[Alethi\|Alethi]] cuisine. One stew recipe that Rock divulges consists only of "Take everything you have, and put him in pot. Don’t let anyone airsick touch seasonings."
+The Unkalaki received their common name "Horneaters" due to their ability to eat the hard shells of crustaceans. [[Rock\|Rock]] ascribes this ability to their unusually strong teeth, but it is due to the extra jaw pieces at the back of their mouths. Unkalaki cuisine utilizes less spices than [[Alethi\|Alethi]] cuisine. One stew recipe that Rock divulges consists only of "Take everything you have, and put him in pot. Don’t let anyone airsick touch seasonings."
 
 >“*Your food here, it has so many spices that you cannot taste anything else. Might as well be eating stones powdered with pepper!*”
-\-Rock to Kaladin and Teft[18]
+\-Rock to Kaladin and Teft[19]
 
 
 In general, Horneater beverages have a quite sharp and immediately overpowering taste and smell. Horneater lager has the reputation to melt teeth and cups.  Also, strongest among the Horneater beverages is the Horneater white. A clear, distilled moonshine, it is the strongest known alcohol on Roshar (with the possible exception of some violet wines). It is known to strip paint, and can apparently be deadly to non-Unkalaki. There is also a non-alcoholic beverage called [[Shiki\|shiki]], which is brown in color and is served chilled, and a tea-like beverage that tastes of boiled grain but is an old, traditional recipe.
 
 ## Religion and Mythology
-The Horneaters have three powerful gods they once sought aid from: the gods of the waters, the gods of the mountains, and the gods of the trees. Unkalaki stories teach that gods cannot be fought but must always be tricked. Lunu'anaki is the name of the Unkalaki god of travel and mischief who cannot hurt man. Rock saw [[Hoid\|Hoid]] emerge from [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] and came to the conclusion that he must be Lunu'anaki. [[Spren\|Spren]] are also worshipped by the Unkalaki as gods; Rock offers to build a shrine for [[Sylphrena\|Sylphrena]] at one point. Unkalaki also have fairly extensive legends of a group called the [[Sleepless\|Gods Who Sleep Not]] who are dangerous, secretive entities that guard terrible treasures and are composed of a swarm of [[Cremling\|cremlings]] that share one mind. Lunu'anaki warned the Horneaters of this group during the time of [[Cord\|Cord's]] grandmother. In addition to learning about these gods, Horneaters receive occasional monks from [[Jah Keved\|Jah Keved]], who preach [[Vorinism\|Vorinism]] to them.
+The Horneaters have three powerful sets of gods they once sought aid from: the gods of the waters, the gods of the mountains, and the gods of the trees. Unkalaki stories teach that gods cannot be fought but must always be tricked. Lunu'anaki is the name of the Unkalaki god of travel and mischief who cannot hurt man. Rock saw [[Hoid\|Hoid]] emerge from [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] and came to the conclusion that he must be Lunu'anaki. [[Spren\|Spren]] are also worshipped by the Unkalaki as gods; Rock offers to build a shrine for [[Sylphrena\|Sylphrena]] at one point. Unkalaki also have fairly extensive legends of a group called the [[Sleepless\|Gods Who Sleep Not]] who are dangerous, secretive entities that guard terrible treasures and are composed of a swarm of [[Cremling\|cremlings]] that share one mind. Lunu'anaki warned the Horneaters of this group during the time of [[Cord\|Cord's]] grandmother. In addition to learning about these gods, Horneaters receive occasional monks from [[Jah Keved\|Jah Keved]], who preach [[Vorinism\|Vorinism]] to them.
 Naturally heated lakes on the Horneater Peaks are called oceans by the locals. There is an ocean on each of the peaks. Underneath the normal water is the so-called *Water of life*. It is said to be connected to the gods, and Horneaters who swim in the oceans can sometimes see the *Place of the Gods* (this is likely access to [[Shadesmar\|Shadesmar]] via [[Cultivation\|Cultivation's]] [[Perpendicularity\|Perpendicularity]]). Swimming in the oceans is said to be lethal to outsiders, though, according to [[Sigzil\|Sigzil]], this is only because the Unkalaki execute any outsiders who swim in their oceans.
 There are ancient Unkalaki songs that refer to when the [[Dawnshard\|Dawnshard]] was brought to Roshar. It is possible these songs are considered sacred to the Unkalaki.
 According to Unkalaki legends, when someone draws the [[Bow of Hours\|Bow of Hours]] it heralds "years of change." Unkalaki legends speak of an ancient [[Pact of the Seven Peaks\|pact of the Seven Peaks]] which was made with gods. The Fal'ala'liki'nor, One Who Draws the Bow of Hours, may be involved with these treaties.
@@ -87,7 +90,11 @@ Whether these three sets of gods are related to the three [[Shard\|Shards]] on R
 
 ## Language
 The Unkalaki language is part of the Dawnate language family, with distant roots in the [[Dawnchant\|Dawnchant]]. Though the vocabulary is distinctive, it shares similar grammar with the [[Shin\|Shin]] and [[Parshendi\|Parshendi]] languages.
-When speaking Alethi or Veden, one feature of the Unkalaki 'accent' is a tendency to use gendered pronouns (e.g. "he") in places where a non-gendered pronoun ("it") would be more appropriate. This may imply that their own native language uses . This manner of speech is sufficiently recognizable that [[Shallan\|Shallan]] intentionally adopts it while impersonating a Horneater princess.
+When speaking Alethi or Veden, one feature of the Unkalaki 'accent' is a tendency to use gendered pronouns (e.g. "he") in places where a non-gendered pronoun ("it") would be more appropriate. This is due to the fact the Unkalaki Language uses . This system appears to be Masculine–feminine contrast, with most nouns leaning towards masculine.
+Unkalaki is a , meaning that pronouns can be dropped if the subject is known and/or easily inferable.
+Unkalaki names show a feature of , combining a large amount of morphemes in order to encode significant degree of information into a word. Various basic words in their language appear to reflect this feature as well.
+The reduplication of vowels seems to indicate the distinction between long and short vowels. The ' in most words seem to depict .
+Sentences tend to start with a verb, meaning that Unkalaki is likely a  or  language. Due to heavy inspiration from Hawaiʻian, it is likely VSO.
 
 ### Names
 Typical Unkalaki names are quite long, forming a poem.
@@ -98,25 +105,29 @@ Unulukuak'kina'autu'atai - One of [[Shallan\|Shallan's]] aliases, meaning yet un
 [[Tuaka\|Tuaka'li'na'calmi'nor]] - Lunamor's wife, shortened to Tuaka, translated as Song.
 [[Hualinam'lunanaki'akilu\|Hualinam'lunanaki'akilu]] - Lunamor's first daughter, translated as Cord.
 [[Kuma'tiki\|Kuma'tiki]] - Lunamor's second daughter, a type of shell found in the Horneater Peaks.
+[[Kef'ha\|Kef'ha]] - An Unkalaki Nuatoma, died in a fight against [[Torol Sadeas\|Torol Sadeas]].
+[[Sinaku'a\|Sinaku'a]]
+[[Tifi\|Tifi]]
+[[Kali'kalin\|Kali'kalin]]
 ### Terms
 *afah'liki* - probably means “god”
-*alaii'iku* - can see spren 
+*alaii'iku* - "Sighted", can see spren 
 *ali'i'kamura*
 >“*With ali'i'kamura to protect, perhaps it will be safe.*”
-\-Rock[15]
+\-Rock[16]
 
 
 *alil’tiki’i*
 *ana'kai*
 >“*You're crazy! You're ana'kai crazy.*”
-\-Ur[17]
+\-Ur[18]
 
 
 *apaliki’tokoa’a* - [[Luckspren\|luckspren]], known by Unkalaki to lead to treasure and be associated with the [[Sleepless\|Sleepless]]
 *Fal’ala’liki’nor* - He who drew the [[Bow of Hours\|Bow of Hours]] at the dawn of the new millennium, heralding the years of change. A title used to refer to Lunamor.
 *holetental* - Likely related to the [[Knights Radiant\|Radiants]] or spren.
 >“*Is not thing to learn. Is of the holetental. For him only.*”
-\-Lunamor on Kaladin's Surgebinding[38]
+\-Lunamor on Kaladin's Surgebinding[46]
 
 
 *humaka'aban* - A beard style. Long sideburns that curve down to the chin. The chin itself and the area around the lips are cleanly shaven.
@@ -124,39 +135,42 @@ Unulukuak'kina'autu'atai - One of [[Shallan\|Shallan's]] aliases, meaning yet un
 *Kali'kalin'da*
 *kaluk'i'iki* - Only a woman can be called this title.
 >“*When you are able to travel that far without being eaten by chasmfiend or killed in floods, I shall name you my kaluk'i'iki.*”
-\-Rock to Kaladin[15]
+\-Rock to Kaladin[16]
 
 
-*Kuma'tiki*
-*mafah'liki* - Unkalaki concept of [[Spren\|spren]].
+*Kuma'tiki* - A kind of shell found on the Horneater peaks
+*liki* - Most likely translates to Cognitive.
+*mafah'liki* - Unkalaki concept of [[Spren\|spren]], it includes the root *liki*, translating to Cognitive.
 >“*Uma'ami tukuma mafah'liki...*”
-\-the beginning of a respectful phrase about spren[6]
+\-the beginning of a respectful phrase about spren[7]
 
 
 *mala’lini’ka* - unknown meaning, expressed by Cord when learning that [[Rysn\|Rysn]] can speak [[Veden\|Veden]]
 *mohoray*
 *namavau*
 *nuatoma* - Unkalaki concept of nobility or ruling class, the same as [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]].
+*Oo'kali'laa'e* - unknown meaning, presumably a swear. 
 *tana'kai* - Similar to a king, but has further meanings.
+*toa* - Physical.
 *tuanalikina* - Fourth son and younger
 *tukuma*
 *tuli’iti’na* - it appears this translates to "foolish lowlander talk"
-*tuma'alki* - Probably means "weak" or "of poor quality".
+*tuma'alki* - likely translates to "weak" or "of poor quality".
 >“*Spices they have for us to requisition are tuma'alki!*”
-\-Rock[33]
+\-Rock[36]
 
 
 *Ula'makai* - Captain
 *Uli'tekanaki*
 >“*I cannot fight. What man could do this thing before the Uli'tekanaki?*”
-\-Rock[15]
+\-Rock[16]
 
 
 *uma'ami*
 *umalakai'ki*
 *umarti'a* - A cousin of someone.
 >“*Umalakai'ki! Kama mohoray namavau—*”
-\-Lunamor's exclamation when Kaladin awakens [39]
+\-Lunamor's exclamation when Kaladin awakens [49]
 
 
 ## Trivia

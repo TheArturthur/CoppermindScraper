@@ -2,9 +2,8 @@
 |-|-|
 |by  paintweaver |
 |**Type**|[[Perfect gemstone\|Perfect gemstone]] (Ruby)|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -40,8 +39,8 @@ During the scuffle, Rysn's pet [[Larkin\|larkin]], [[Chiri-Chiri\|Chiri-Chiri]],
 
 ### Battle of Thaylen Field
 When [[Odium\|Odium's]] forces attacked [[Thaylen City\|Thaylen City]], a [[Thunderclast\|thunderclast]] destroyed the Reserve as it searched for the ruby with several [[Fused\|Fused]]. Although Rysn had already managed to flee with Vstim, [[Dalinar\|Dalinar]] saw two more Fused locate their palanquin and steal the ruby. Dalinar realized that the gem must be special, and tasked [[Lift\|Lift]] with retrieving it; [[Szeth\|Szeth]] soon came to help her. After some back-and-forth with the Fused, the duo were able to procure the ruby and Lift delivered it to Dalinar.
-Dalinar was able to "lure" and trap [[Nergaoul\|Nergaoul]], the [[Unmade\|Unmade]] responsible for the [[Thrill\|Thrill]], using the gemstone. The ruby appeared to glow with Voidlight after Nergaoul was imprisoned. After the battle, Dalinar gave the gem to [[Navani\|Navani]] for study. She remarked on the visual similarity to Gavilar's [[Black sphere\|black spheres]].
-The gemstone was sunk to the bottom of the ocean afterwards, to prevent the Unmade from being released again.
+Dalinar was able to "lure" and trap [[Nergaoul\|Nergaoul]], the [[Unmade\|Unmade]] responsible for the [[Thrill\|Thrill]], using the gemstone. The ruby appeared to glow with Voidlight after Nergaoul was imprisoned. After the battle, Dalinar gave the gem to [[Navani\|Navani]] for study. She remarked on the visual similarity to [[Gavilar\|Gavilar's]] [[Black sphere\|black spheres]].
+The gemstone was afterwards secured inside an [[Aluminum\|aluminum]] box, which was then sunk to the bottom of the ocean, to prevent the Unmade from being released again.
 
 ## Trivia
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.

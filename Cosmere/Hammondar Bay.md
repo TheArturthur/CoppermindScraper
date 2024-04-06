@@ -1,10 +1,9 @@
 |**Hammondar Bay**|
 |-|-|
 |**Type**|Water body|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 The **Hammondar Bay** is a body of water west of [[Elendel\|Elendel]]. The [[Irongate River\|Irongate River]] flows into it, and it is connected to the [[Sea of Yomend\|Sea of Yomend]].
 It is presumably named after [[Hammond\|Hammond]].

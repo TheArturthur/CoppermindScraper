@@ -6,6 +6,10 @@
 |**Precedes**|*Calamity *|
 |**Setting**|[[Babylon Restored\|Babylon Restored]], [[Earth (Reckoners)\|Alternate Earth]]|
 |**Released**|January 6, 2015|
+|**Publisher**||
+|**ISBN**|978-0-3857-4358-7|
+|**Page Count**|416|
+|**Word Count**|[[Firefight/Statistical analysis\|104,132]]|
 This article is about the novel. For the [[Epic\|Epic]] of the same name, see [[Firefight (Epic)\|Firefight]].
 *Firefight* is the second book in *The Reckoners* series by [[Brandon Sanderson\|Brandon Sanderson]]. As such it is not part of the [[Cosmere\|cosmere]].
 It is set in [[Babylon Restored\|Babylon Restored]].
@@ -13,9 +17,10 @@ It is set in [[Babylon Restored\|Babylon Restored]].
 ## Contents
 
 1 Summary
-2 Behind the Scenes
+2 Development
 3 Cover Gallery
-4 Notes
+4 Statistical Analysis
+5 Notes
 
 
 ## Summary
@@ -33,11 +38,20 @@ Newton meets with Obliteration in the top floor of a building and David spies on
 David practices using the spyril, a device based on Epic powers that is essentially a water jetpack. While he is practicing, Regalia's projection appears to him. She claims that she can create new epics and enhance other epics' powers. David laughs at the idea of creating other epics
 *Note: this summary is incomplete. It only covers the first half of the book.*
 
-## Behind the Scenes
+## Development
 In July 2013 Brandon said that his next major project would be *Firefight*. He initially wanted to have the first draft completed well before the end of the year, however he ended up needing the first three months of 2014 to finish it up.
 
 ## Cover Gallery
 For a cover gallery of Firefight, see [[Firefight/Covers\|/Covers]].
+## Statistical Analysis
+For a full statistical analysis, see [[Firefight/Statistical analysis\|/Statistical analysis]].
+*Firefight* consists of one prologue, fifty-one chapters, and one epilogue, reaching a total 104,132 word count.
+
+|**Word Count**|104,132||
+|-|-|
+|**Page Count**|416|Delacorte Press hardback|
+|**Chapter Count**|51|Including prologue, and epilogue.|
+
 
 
 https://coppermind.net/wiki/Firefight

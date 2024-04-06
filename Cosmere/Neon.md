@@ -2,8 +2,7 @@
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
 |**Residence**|[[Ildithia\|Ildithia]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*Neon, Minor Epic. Light-manipulation powers. No invisibility, but he can put on quite a show—and drill you dead with a laser*”
 \-David Charleston[1]

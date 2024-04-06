@@ -4,15 +4,15 @@
 |**Abilities**|Coinshot|
 |**Profession**|Bank Robber|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+|**First Appeared**|*Shadows of Self*|
 
 >“*There are a thousand criminals in this city far worse than I am, and yet you hunt me, lawman. Why? I’m a hero of the people.*”
 \-Marks to Wax[1]
 
 
-**The Marksman** also known as **Marks** is a bank robber in [[Elendel\|Elendel]] with known ties to the [[Set\|Set]].
+**The Marksman**, also known as **Marks**, is a bank robber in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. He has known ties to the [[Set\|Set]].
 
 ## Contents
 
@@ -30,13 +30,13 @@
 
 ## Appearance and Personality
 
-Marks has bushy eyebrows and large lips; he is not a very good-looking man. When committing robberies, the Marksman wears an old painted, wooden busker's mask in the traditional likeness of a demon from the [[Deepness\|Deepness]], a black face with white tusks. He also wears distinctive red clothing, which can make him easier to follow. He wore no metal, so that Allomancers could not Push or Pull on it.
+Marks has bushy eyebrows and large lips; he is not a very good-looking man. When committing robberies, the Marksman wears an old painted, wooden busker's mask in the traditional likeness of a demon from the [[Deepness\|Deepness]], a black face with white tusks. He also wears distinctive red clothing, which can make him easier to follow. He wears no metal, so that Allomancers cannot Push or Pull on it.
 
 
-The Marksman fancies himself as something of a gentleman rogue. He enjoys the notoriety that he has gained as a high-profile bank robber. Marks likes to be seen, so whenever he commits a robbery, he does so in the flashiest way possible. All of his robberies take place during broad daylight, and he always escapes along the busiest roadways he can find. He is very popular among the common people, a sort of hero of the common man, particularly those in the Breakouts. They refuse to believe that he has done anything wrong, even when he accidentally killed a young girl. Despite his popularity, his supporters are not unquestionably loyal. They are not above subtly extorting him a bit in order to buy their silence. The Marskman does not feel that his crimes are worth investigating when there are other far more worse criminals in the city.
+The Marksman fancies himself as something of a gentleman rogue. He enjoys the notoriety that he has gained as a high-profile bank robber. Marks likes to be seen, so whenever he commits a robbery, he does so in the flashiest way possible. All of his robberies take place during broad daylight, and he always escapes along the busiest roadways he can find. He is very popular among the common people, a sort of hero of the common man, particularly those in the Breakouts. They refuse to believe that he has done anything wrong, even when he accidentally kills a young girl. Despite his popularity, his supporters are not unquestionably loyal. They are not above subtly extorting him a bit in order to buy their silence. The Marskman does not feel that his crimes are worth investigating when there are other far more worse criminals in the city.
 
 ## Attributes and Abilities
-The Marksman is an [[Allomancer\|Allomancer]], a skilled [[Coinshot\|Coinshot]]. This aids Marks in his ability to quickly escape from the scene of his crimes. Only another [[Metalborn\|Metalborn]] can easily follow him. When chased, Marks avoids the outside , trying to enter buildings where he can easily set up an ambush. He also carries a submachine gun, and has some skill at using it, but not too much, as he is known to accidentally shoot innocents.
+The Marksman is an [[Allomancer\|Allomancer]], a skilled [[Steel\|steel]] [[Misting\|Misting]] (aka a [[Coinshot\|Coinshot]]). This aids Marks in his ability to quickly escape from the scene of his crimes. Only another [[Metalborn\|Metalborn]] can easily follow him. When chased, Marks avoids the outside, trying to enter buildings where he can easily set up an ambush. He also carries a submachine gun, and has some skill at using it, but not too much, as he is known to accidentally shoot innocents.
 
 ## History
 ### Early Life

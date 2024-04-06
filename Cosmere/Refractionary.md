@@ -2,8 +2,7 @@
 |-|-|
 |**Died**|Killed by Megan Tarash|
 |**Powers**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 **Refractionary** is an illusionist [[Epic\|Epic]] in [[Newcago\|Newcago]].
 

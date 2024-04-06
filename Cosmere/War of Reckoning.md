@@ -5,7 +5,6 @@
 |**Effects**|Summoning of the [[Everstorm\|Everstorm]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **War of Reckoning** was a conflict on [[Roshar\|Roshar]] between [[Alethkar\|Alethkar]] and the [[Listeners\|listeners]]. This name for the conflict was used by Brightness [[Hashal\|Hashal]] in reference to the Alethi's goal of delivering justice upon the listeners for their role in the [[Assassination of Gavilar\|assassination]] of the Alethi King [[Gavilar Kholin\|Gavilar Kholin]].
 
@@ -51,7 +50,7 @@ Each princedom in Alethkar had its own army. There were ten [[Highprince\|highpr
 
 
 The majority of the Alethi armies were composed of [[Darkeyed\|darkeyed]] spearmen organized into battalions and led by [[Lighteyed\|lighteyed]] officers. Darkeyed soldiers were only allowed spears, so Alethi archers and swordsmen were all lighteyes.
-Aside from regular weapons, the Alethi also had around twenty [[Shardblade\|Shardblades]]. As well as an unknown number of [[Shardplate\|Shardplate]] armor. It is uncertain exactly how many of these were used in the war and how many remained in Alethkar, but there were more than thirty official [[Shardbearer\|Shardbearers]] in the warcamps, a few of whom had both Plate and Blade.
+Aside from regular weapons, the Alethi also had around twenty [[Shardblade\|Shardblades]]. It is uncertain exactly how many of these were used in the war and how many remained in Alethkar, but there were more than thirty official [[Shardbearer\|Shardbearers]] in the warcamps, a few of whom had both Plate and Blade.
 The Alethi also had [[Fabrial\|fabrials]], some of which, like [[Grandbow\|grandbows]], had military applications.
 
 ### Listeners
@@ -98,7 +97,8 @@ The battle was fought on three plateaus. Aladar, Roion, Adolin each led soldiers
 The stormform listeners showed the ability to shoot red lightning, which they successfully weaponized against the Alethi. Roion's army was eventually defeated, but Adolin and Aladar managed well enough on their plateaus.
 Having been warned by Rlain that the stormforms' song will bring destruction, Dalinar instructed Adolin to stop the singers. Adolin found a way to get to the singers and killed many of them, but Eshonai attacked before he could finish the task. In the end, even though he defeated Eshonai, he was unable to prevent the song from being completed. The summoned storm turned out to be the [[Everstorm\|Everstorm]], and it came towards them from the west, bringing red lightning. In addition, the [[Stormfather\|Stormfather]] sent an unexpected highstorm, coming from the east as highstorms usually do.
 Szeth arrived on the battlefield on a mission from [[Taravangian\|Taravangian]] to assassinate Dalinar, but was thwarted by [[Kaladin\|Kaladin]]. [[Shallan Davar\|Shallan Davar]] managed to find and activate the ancient [[Oathgate\|Oathgate]] within the city, and the surviving Alethi army was safely transported to [[Urithiru\|Urithiru]] before the combined Everstorm and highstorm destroyed the whole city of Narak.
-The surviving remnants of the stormform army eventually ended up as vessels for the [[Fused\|Fused]], the immortal commanders of [[Odium\|Odium's]] army that returned through the Everstorm. The exception was Venli, whom Odium spared for his own purposes. Aside from Rlain, it is currently unknown whether any of the listeners who did not join the stormform army survived.
+The surviving remnants of the stormform army eventually ended up as vessels for the [[Fused\|Fused]], the immortal commanders of [[Odium\|Odium's]] army that returned through the Everstorm. The exception was Venli, whom Odium spared for his own purposes.
+The non stormform listeners who escaped into the chasms survived with the help of a chasmfiend.
 
 ## Warfare
 Having to battle on the [[Shattered Plains\|Shattered Plains]], with its unique chasm-filled terrain, brought some notable characteristics to the war.
@@ -110,7 +110,7 @@ During a race for a gemheart, mobile bridges were used by the Alethi armies. The
 
 Sadeas pioneered the technique of using the light bridges, advantageous for their mobility, manned by bridgemen who were left exposed for the purpose of attracting enemy fire that would otherwise have centered on his soldiers. That is also why bridgemen were neither armored nor trained. When others of the highprinces saw Sadeas' success, they began using his system as well.
 Dalinar did not use those bridges because he was convinced that officers shouldn't demand anything from their soldiers that they would not do themselves and reproached Sadeas for wasting lives. Later, though, Sadeas and Dalinar worked together. Sadeas, who could reach a plateau faster than anyone else with his light bridges, went ahead with most of his force and secured a foothold; Dalinar followed at the pace of his chull-drawn bridges, although he could reach the contested plateau twice as quickly because he crossed on some mobile bridges Sadeas had lent him so he didn't need to stop and lower his own bridges at each chasm. At the final plateau, Dalinar would put his own bridges forward so as not to waste bridgemen's lives.
-Kaladin was the first to train a bridgecrew of a light bridge and had considerable success with it. Not only did he manage to make them faster than other crews, he also devised the method of "side carrying" the bridge so that it could shield arrows from bridgemen. Although this method significantly protected the bridgemen, it was a strategical failure to Sadeas' army. The [[Parshendi\|Parshendi]] archers realized [[Bridge Four\|Bridge Four]] were too well protected and focused their arrows on the bulk of soldiers instead, causing heavy loss of trained soldiers instead of expendable bridgemen. Other bridgecrew who awkwardly tried to imitate them failed to deliver the bridges and this resulted in a lost battle. As punishments, [[Lamaril\|Lamaril]] were executed and Kaladin was left out for the [[Highstorm\|highstorm]].
+Kaladin was the first to train a bridgecrew of a light bridge and had considerable success with it. Not only did he manage to make them faster than other crews, he also devised the method of "side carrying" the bridge so that it could shield arrows from bridgemen. Although this method significantly protected the bridgemen, it was a strategical failure to Sadeas' army. The [[Parshendi\|Parshendi]] archers realized [[Bridge Four\|Bridge Four]] were too well protected and focused their arrows on the bulk of soldiers instead, causing heavy loss of trained soldiers instead of expendable bridgemen. Other bridgecrew who awkwardly tried to imitate them failed to deliver the bridges and this resulted in a lost battle. As punishments, [[Lamaril\|Lamaril]] was executed and Kaladin was left out for the [[Highstorm\|highstorm]].
 
 ### The Use of Shardbearers
 When an army arrived at a plateau and the enemy army was already formed up for battle, the only way for the attackers often was to send in [[Shardbearer\|Shardbearers]] who could jump over the chasm and clear a space for the bridges to land.

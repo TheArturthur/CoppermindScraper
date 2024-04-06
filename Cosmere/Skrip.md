@@ -1,9 +1,8 @@
 |**Skrip**|
 |-|-|
-|**Type**|[[Cremling\|Cremling]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Type**|[[Cremling\|Cremling]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **skrip** is a species of [[Cremling\|cremling]] on [[Roshar\|Roshar]].
 Skirps have flat tails, two large claws, and long antennae.

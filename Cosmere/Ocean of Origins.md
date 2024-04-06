@@ -2,9 +2,8 @@
 |-|-|
 |by User: Otto didact|
 |**Type**|Sea|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Ocean of Origins** is a body of water east of the main continent on [[Roshar\|Roshar]], towards the [[Origin\|Origin]].
 The shores of the Ocean of Origins are sparsely populated, with the cities of [[New Natanan\|New Natanan]] and [[Dawn's Shadow\|Dawn's Shadow]] being the only notable settlements. This is likely because [[Highstorm\|highstorms]] make landfall there, and as such hit that coast with the greatest force. To the East, the Ocean of Origins presumably connects to the [[Endless Ocean\|Endless Ocean]] on the opposite side of the planet, while from North and South, it's bracketed by [[Steamwater Ocean\|Steamwater Ocean]] and [[Southern Depths\|Southern Depths]].

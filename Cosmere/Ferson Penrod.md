@@ -2,12 +2,12 @@
 |-|-|
 |**Family**|[[House Penrod\|House Penrod]]|
 |**Died**|c 1025 [[Final Empire\|FE]]|
-|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]🐱︎|
+|**Titles**|King of the [[Central Dominance\|Central Dominance]]|
+|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Lord **Ferson Penrod** is a [[Noble\|noble]] on [[Scadrial\|Scadrial]]. After the [[Collapse\|fall of the Lord Ruler]], he becomes a member of the [[Luthadel Assembly\|Luthadel Assembly]]. He becomes the second king of the [[Central Dominance\|Central Dominance]], succeeding [[Elend Venture\|Elend Venture]], and later under him in the [[New Empire\|New Empire]].
 
@@ -26,7 +26,7 @@ Lord **Ferson Penrod** is a [[Noble\|noble]] on [[Scadrial\|Scadrial]]. After th
 
 ## Appearance and Personality
 >“* Penrod is an honorable man. Or, at least, as honorable as noblemen get—which means that he insists on being seen as honorable.*”
-\-Breeze to Vin[1]
+\-Breeze to Vin[2]
 
 
 Penrod has white hair and wears a well-cut suit. He has polished mannerisms and a strong posture. He has stomach ills, though it is unknown whether this is frequent. Penrod is a traditionalist and politically conservative, yet he never spoke negatively against the skaa. However, Elend considers him a product of his society—although he doesn't consider the skaa animals, he could never see them as equals.
@@ -42,11 +42,11 @@ Before the election, Straff convinced Penrod to give him the city if he won the 
 
 ### King of the Central Dominance
 [[Ruin\|Ruin]] later took control of Penrod, through a Hemalurgic spike harvested from a copper [[Misting\|Misting]]. Marsh attacked Penrod and drove the spike through his heart. Since Penrod continued to live, the surgeons assumed it had just barely missed his heart and feared removing it would kill him as it began to bleed whenever they tried to go near it with implements, so they leave it in place, giving Ruin a foothold into Penrod's mind.
-Ruin, manifesting as the [[Lord Ruler\|Lord Ruler]], drove Penrod to madness, making him drive Luthadel into chaos, including forcing the [[Skaa\|skaa]] to fight to death for food wiile claiming that only the strong may survive. At [[TenSoon\|TenSoon's]] suggestion, the inhabitants of Luthadel fled the city, taking refuge in the [[Pits of Hathsin\|Pits of Hathsin]]. Later, discovering that Ruin had been influencing him, Penrod wrote a note with charcoal saying that he has prefered to end his own life rather than keep causing destruction to those around him, and revealing the location of the people of Luthadel. Then, the king killed himself with a sword. Ruin tried to mislead Elend by changing Penrod's message to say the people were in the [[Terris Dominance\|Terris Dominance]], but with [[Vin\|Vin's]] help Elend managed to see through the ruse.
+Ruin, manifesting as the [[Lord Ruler\|Lord Ruler]], drove Penrod to madness, making him drive Luthadel into chaos, including forcing the [[Skaa\|skaa]] to fight to death for food while claiming that only the strong may survive. At [[TenSoon\|TenSoon's]] suggestion, the inhabitants of Luthadel fled the city, taking refuge in the [[Pits of Hathsin\|Pits of Hathsin]]. Later, discovering that Ruin had been influencing him, Penrod wrote a note with charcoal saying that he has prefered to end his own life rather than keep causing destruction to those around him, and revealing the location of the people of Luthadel. Then, the king killed himself with a sword. Ruin tried to mislead Elend by changing Penrod's message to say the people were in the [[Terris Dominance\|Terris Dominance]], but with [[Vin\|Vin's]] help Elend managed to see through the ruse.
 
 ## Quotes
 >“* Elend, lad, we all lived here during the Lord Ruler's reign. We all know what kind of man your father is. If he wants this city, he is going to take it. All we can decide, then, is how to best give up. Perhaps we can find a way for the people to retain some freedom under his rule.*”
-\- Penrod on Straff Venture.[2]
+\- Penrod on Straff Venture.[3]
 
 
 >“* I'm sorry. Something has taken control of me...of this city. I am lucid only part of the time. Better to kill myself than to cause more destruction. Look toward the Terris Dominance for your people.*”
@@ -55,4 +55,4 @@ Ruin, manifesting as the [[Lord Ruler\|Lord Ruler]], drove Penrod to madness, ma
 
 
 
-https://coppermind.net/wiki/Ferson_Penrod
+https://coppermind.net/wiki/Penrod

@@ -3,17 +3,16 @@
 |by [[Isaac Stewart\|Isaac Stewart]]|
 |**Abilities**|[[Cytonics\|Cytonics]], mimicry|
 |**Species**|[[Taynix\|Taynix]]|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Starsight*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Starsight*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Stupid junky piece of worthless imitation life. Scud! Scud! Scud! Scudding scud and stupid scud.*”
 \-Doomslug mimicking Rig complaining about M-bot[1]
 
 
-**Doomslug the Destroyer**, or more commonly just **Doomslug**, is a [[Taynix\|taynix]] that [[Spensa Nightshade\|Spensa Nightshade]] found on [[Detritus\|Detritus]] in the cave with [[M-Bot\|M-Bot]]. Spensa nicknamed her Doomslug the Destroyer and adopted her as a mascot. She frequently accompanies [[Spensa\|Spensa]] on flights and is known to replicate nearly any sound she hears.
+**Doomslug the Destroyer**, or more commonly just **Doomslug**, is a [[Taynix\|taynix]] that [[Spensa Nightshade\|Spensa Nightshade]] found on [[Detritus\|Detritus]] in the cave with [[M-Bot\|M-Bot]]. Spensa nicknamed her Doomslug the Destroyer and adopted her as a mascot. She frequently accompanies Spensa on flights and is known to replicate nearly any sound she hears.
 
 ## Contents
 
@@ -51,7 +50,7 @@ As a taynix, Doomslug has the ability to travel at faster-than-light speeds by a
 Doomslug can replicate any sound she hears with impeccable precision, though there is always a "distinctly fluty" sound to it. She is also capable of slightly modifying the sounds she mimics, as shown when she accidentally corrects Spensa's grammar by saying "By whom!" in response to the question "By who?"
 
 ### Protection
-Doomslug is covered in blue spikes, which would make handling her difficult, and provides protection from predators. Her bright colors also lead Spensa to believe the possibility that she might be poisonous. She is also capable of resisting minor increases in gravitational forces.
+Doomslug is covered in blue spikes, which would make handling her difficult, and provides protection from predators. Her bright colors also lead Spensa to believe the possibility that she might be poisonous. The Superiority database says that the taynix are dangerously venomous. She is also capable of resisting minor increases in gravitational forces.
 
 ## History
  by  Jill Andersen 
@@ -76,15 +75,15 @@ Doomslug stayed with Spensa and her friends as they flew towards the lightburst 
 
 
 >“*She won't*”
-\-Doomslug affirming Spensa's belief about Judy "Ironsides" Ivans[8]
+\-Doomslug affirming Spensa's belief about Judy "Ironsides" Ivans[9]
 
 
 >“*Let's go!*”
-\-Doomslug to Spensa[15]
+\-Doomslug to Spensa[16]
 
 
 >“*Scud!*”
-\-Doomslug mimicking Spensa[16]
+\-Doomslug mimicking Spensa[17]
 
 
 ## Trivia

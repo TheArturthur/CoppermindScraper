@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Kasitor\|Kasitor]]|
 |**Nationality**|[[Iriali\|Iriali]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*And lo, the foul beast was banished!*”
 \-The beggar "banishes" Axies[1]

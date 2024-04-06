@@ -1,13 +1,12 @@
 |**Hearthstone**|
 |-|-|
 |by  Marie Seeberger |
-|**Princedom**|[[Sadeas princedom\|Sadeas princedom]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Princedom**|[[Sadeas princedom\|Sadeas princedom]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Hearthstone** is a large but remote town near the eastern boarder of the [[Sadeas princedom\|Sadeas princedom]] in [[Alethkar\|Alethkar]]. The town serves as a focal point for the various farming communities in the region. The northern section of Sadeas princedom, including Hearthstone, is overseen by Highmarshal Meridas [[Amaram\|Amaram]] prior to his departure to the [[Shattered Plains\|Shattered Plains]].
+**Hearthstone** is a large but remote town near the eastern border of the [[Sadeas princedom\|Sadeas princedom]] in [[Alethkar\|Alethkar]]. The town serves as a focal point for the various farming communities in the region. The northern section of Sadeas princedom, including Hearthstone, is overseen by Highmarshal Meridas [[Amaram\|Amaram]] prior to his departure to the [[Shattered Plains\|Shattered Plains]].
 It is the home of [[Kaladin\|Kaladin's]] family.
 
 ## Contents

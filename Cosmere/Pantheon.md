@@ -1,11 +1,13 @@
 |**Pantheon**|
 |-|-|
+|by  Heatherly |
 |**Type**|Archipelago|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
+
 >“*These islands were sacred, the trappers their priests.*”
-\-Sixth of the Dusk
+\-Sixth of the Dusk[1]
+
 
 The **Pantheon** is an archipelago of more than forty islands on the minor Shard world of First of the Sun. The islands of the Pantheon are at least three weeks travel from the [[Eelakin\|Eelakin]] [[Homeisles\|homeisles]].
 

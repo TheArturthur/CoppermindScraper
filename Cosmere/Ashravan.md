@@ -4,12 +4,12 @@
 |**Family**|
 |**Spouse**|[[Kurshina\|Kurshina]]|
 |**Titles**|Emperor of the [[Rose Empire\|Rose Empire]]|
-|**Groups**|[[Heritage Faction\|Heritage Faction]]🐱︎|
+|**Groups**|[[Heritage Faction\|Heritage Faction]]|
 |**Birthplace**|[[Ukurgi\|Ukurgi]]|
 |**Ethnicity**|[[Grand\|Grand]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
+|**First Appeared**|*The Emperor's Soul*|
 
 **Ashravan** of the Eighty Suns is the forty-ninth Emperor of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] and a member of the [[Heritage Faction\|Heritage Faction]]. At the time of his injury he is forty years old.
 
@@ -23,7 +23,8 @@
 2.3 The Emperor's New Soul
 
 
-3 Notes
+3 Trivia
+4 Notes
 
 
 ## Appearance and Personality
@@ -46,11 +47,11 @@ The Emperor's Soul by User: Botanicaxu
 
 
 
-Despite being known to have a temper, he is a humble man and an idealist at heart. He loves to write terrible poetry and enjoys a good debate. He is arrogant, but secretly wishes he could be something other than what he became. He hates fish but does enjoy hearing himself give speeches.
+Despite being known to have a temper, he is a humble man and an idealist at heart. He loves to write terrible poetry and enjoys a good debate. He is arrogant, but secretly wishes he could be something other than what he became. He enjoys hearing himself give speeches. He also hates fish.
 
 ## History
 ### Early Life
-Ashravan had a younger brother who died when Ashravan was six. He idolized his brother, but kept his feelings secret due to a belief that his brother would have made a better emperor. His brother's fondness for green was part of the reason that it was Ashravan's favorite color.
+When Ashravan was six, his brother died. He idolized his brother, but kept his feelings secret due to a belief that his brother would have made a better emperor. His brother's fondness for green was part of the reason that it was Ashravan's favorite color.
 At some point Ashravan began to keep a private journal, perhaps to reflect on the choices he made. He left instructions to have it burned upon his death.
 
 ### Life as Emperor
@@ -58,7 +59,7 @@ At some point Ashravan began to keep a private journal, perhaps to reflect on th
 \-Excerpt from Ashravan's personal journal[9]
 
 
-After the death of Emperor [[Yazad\|Yazad]], Ashravan is chosen to lead the empire.
+After the death of Emperor [[Yazad (Sel)\|Yazad]], Ashravan is chosen to lead the empire.
 According to Gaotona, Ashravan originally became emperor out of a desire to change parts of the empire such as the favoritism shown to the [[Grand\|Grands]]. Over time, however, his desire waned. Ashravan was swept up in the bureaucracy of an empire that worked, if not perfectly, then well enough. He focused more on the beauty of it all instead of its problems, and gave the arbiters more and more control.
 The urgings of his mentor Gaotona were a significant factor in his becoming emperor, and Ashravan eventually grew to resent Gaotona because he felt inadequate.
 
@@ -67,6 +68,8 @@ One night, a group of assassins, agents of the [[Glory Faction\|Glory Faction]],
 Shai used a number of sources for the Soul Forgery, such as official histories, Ashravan's personal journal and interviews of his friends and family. The arbiter Gaotona volunteered himself as a test subject for stamps of minor portions of Ashravan's soul.
 On the ninety-eighth day of the mourning period, Shai succeeded in creating a soulstamp that replicated Ashravan's original soul with which he would have to be re-stamped each day. She snuck into his rooms and stamped him, waking him and restoring his mind. Ashravan allowed Shai to escape his rooms. Later he spoke with Gaotona and figured out, in the course of the conversation, what had been wrong with him. He then addressed the arbiters, laying to rest the rumors of his illness and promising to seek justice for his wife's murder. Buried in the stamp, however, were also certain triggers that Shai had added to help nudge Ashravan into becoming the emperor he had always dreamed of being, causing him in the next years to pore over his old journals and rediscover his old ideals.
 
+## Trivia
+Ashravan seems to be named after the concept of  from the Zoroastrian faith. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.
 
 
 https://coppermind.net/wiki/Ashravan

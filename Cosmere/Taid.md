@@ -4,9 +4,9 @@
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Hope of Elantris*|
+|**First Appeared**|*The Hope of Elantris*|
 
 **Taid** is an [[Elantrian\|Elantrian]].
 He is the adult supervisor of the [[Roost\|Roost]] in [[New Elantris\|New Elantris]].

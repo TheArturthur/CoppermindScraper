@@ -57,8 +57,8 @@ Remember, however, not to streamline too far as that will make the single cultur
 
 ## Sanderson's Zeroth Law
 
-Brandon has, in his online lectures, described his ultimate rule as that of making magic "awesome" (in the colloquial sense), and further implied that said "awesomeness" takes precedence over exact obedience to the other three laws.
-(This refers to Isaac Asimov's Zeroth Law of his Three Laws of Robotics.)
+Brandon has, in his online lectures, described his ultimate rule as that of making magic "awesome" (in the colloquial sense), and further implied that said "awesomeness" takes precedence over exact obedience to the other three laws. This rule is primarily to be understood in the sense of beginning with an interesting (i.e. "awesome") idea, and building the magic system or fantastical technology upon said idea from there, rather than to simply disregarding the previously mentioned laws - rather, those laws should bend to the "awesomeness" of the idea, and not take priority over it, thus keeping the idea behind the magic system "awesome".
+The naming of this law is a reference to Isaac Asimov's Zeroth Law of his Three Laws of Robotics.
 
 
 

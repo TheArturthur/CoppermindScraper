@@ -1,12 +1,12 @@
 |**Warren**|
 |-|-|
-|**Abilities**|[[Order of Skybreakers\|Skybreaker]], [[Shardbearer\|Shardbearer]]🐱︎|
+|**Abilities**|[[Order of Skybreakers\|Skybreaker]], [[Shardbearer\|Shardbearer]]|
 |**Titles**|Master Skybreaker|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Warren** is an [[Azish\|Azish]] master [[Skybreaker\|Skybreaker]] wearing the garb of a [[Marabethian\|Marabethian]] lawkeeper, with his chest bare and a patterned short cloak . He is formally referred to as **Master Warren**. He announced the start and end of the pole fight test in the [[Purelake\|Purelake]].
 

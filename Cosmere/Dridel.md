@@ -1,11 +1,10 @@
 |**Dridel**|
 |-|-|
-|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]🐱︎|
+|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Lord **Dridel** is one of the [[Noble\|noble]] members of the [[Luthadel Assembly\|Luthadel Assembly]] on [[Scadrial\|Scadrial]].
 

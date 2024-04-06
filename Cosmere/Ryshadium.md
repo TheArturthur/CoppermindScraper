@@ -2,9 +2,8 @@
 |-|-|
 |by  Marianne Eie |
 |**Type**|Horse|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -54,7 +53,7 @@ While Ryshadium are useful in battle, Shardbearers will sometimes fight unmounte
 **Known Riders**
 
 [[Dalinar\|Dalinar]] with [[Gallant\|Gallant]]
-[[Adolin\|Adolin]] with [[Sureblood\|Sureblood]]
+[[Adolin\|Adolin]] with [[Sureblood\|Sureblood]] and Gallant
 [[Hatham\|Hatham]] with unnamed Ryshadium
 [[Kalanor\|Kalanor]] with unnamed Ryshadium
 ## Trivia

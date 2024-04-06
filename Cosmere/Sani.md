@@ -3,9 +3,8 @@
 |**Born**|c. 1148|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Sani** is a girl from [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

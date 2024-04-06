@@ -4,8 +4,7 @@
 |**Abilities**|[[Epic\|Epic]]|
 |**Aliases**|Conflux|
 |**Residence**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 **Edmund Sense**, also known as the [[Epic\|Epic]] **Conflux**, is commonly believed to be a member of [[Steelheart (Epic)\|Steelheart's]] inner circle and the chief of [[Enforcement\|Enforcement]]. In reality he is a prisoner.
 Because he routinely gives his powers away and has voluntarily confronted his weakness, Edmund is not very susceptible to [[Calamity (Epic)\|Calamity's]] corrupting influence. He is a gentle, timid man whose first concern is usually self-preservation and who deeply dislikes conflict.

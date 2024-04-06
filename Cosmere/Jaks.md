@@ -2,11 +2,10 @@
 |-|-|
 |**Died**|[[Battle of the Tower\|Battle of the Tower]], Tanatashev 1173|
 |**Profession**|Bridgeman|
-|**Groups**|[[Bridge Four\|Bridge Four]]🐱︎, Sadeas army|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Earless Jaks** was a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]]. He was killed during the [[Battle of the Tower\|Battle of the Tower]].
 
@@ -15,7 +14,8 @@
 1 Appearance and Personality
 2 Attributes and Abilities
 3 History
-4 Notes
+4 Trivia
+5 Notes
 
 
 ## Appearance and Personality
@@ -34,8 +34,10 @@ When Kaladin got the squad assigned to stone gathering duty (while secretly gath
 
 After Kaladin performed an advanced kata, Earless Jaks was presumably among the bridgemen who gained a newfound respect for Kaladin. He questioned Kaladin's plan to escape the warcamps, but was presumably among the bridgemen who agreed to learn how to fight after realizing that there was no good alternative. After Bridge Four secured [[Parshendi\|Parshendi]] carapaces and Leyten fashioned armor from them, Earless Jaks purchased blue and white paint and drew designs on the new armor.
 Jaks died in the [[Battle of the Tower\|Battle of the Tower]] alongside [[Malop\|Malop]] and [[Narm\|Narm]]. Kaladin lamented that he couldn’t save the three of them, although he tried his best to focus on the fact that the others had survived.
-[[Kaladin\|Kaladin]] remembered him along with [[Malop\|Malop]], [[Beld\|Beld]], [[Pedin\|Pedin]], [[Rod\|Rod]], [[Mart\|Mart]], [[Goshel\|Goshel]], [[Nalma\|Nalma]], [[Dallet\|Dallet]] and the squad, and [[Tien\|Tien]] while trying, and failing, to say the [[Immortal Words\|Fourth Ideal]] of the [[Windrunners\|Windrunners]]. Kaladin remembered failing Jaks and other members of Bridge Four when [[Moash\|Moash]] confronted him in [[Toralin Roshone\|Toralin Roshone's]] manor.
+[[Kaladin\|Kaladin]] remembered him along with [[Malop\|Malop]], [[Beld\|Beld]], [[Pedin\|Pedin]], [[Rod (Roshar)\|Rod]], [[Mart\|Mart]], [[Goshel\|Goshel]], [[Nalma\|Nalma]], [[Dallet\|Dallet]] and the squad, and [[Tien\|Tien]] while trying, and failing, to say the [[Immortal Words\|Fourth Ideal]] of the [[Windrunners\|Windrunners]]. Kaladin remembered failing Jaks and other members of Bridge Four when [[Moash\|Moash]] confronted him in [[Toralin Roshone\|Toralin Roshone's]] manor.
 
+## Trivia
+Some early versions of *The Way of Kings* had a typo that spelled his name as "Earless Jacks".
 
 
 https://coppermind.net/wiki/Earless_Jaks

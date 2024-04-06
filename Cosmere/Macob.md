@@ -1,9 +1,8 @@
 |**Macob**|
 |-|-|
 |**Profession**|Merchant|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Macob** is the head of a caravan of merchants on [[Roshar\|Roshar]].
 

@@ -1,8 +1,7 @@
 |**Oldblood**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*His people had once ruled Alethkar. What did he think of all this?*”
 \-Adolin, on Teleb[1]

@@ -2,7 +2,7 @@
 |-|-|
 |by  Dragos Jieanu |
 |**Setting**|[[Cytoverse\|Cytoverse]]|
-|**Released**|Holiday 2009|
+|**Released**|December 18, 2009|
 |**Word Count**|14,584|
 |**Annotation**||
 
@@ -12,11 +12,15 @@
 
 1 Background
 2 Summary
-3 Characters
-4 Organizations
-5 Technology
-6 Cover Gallery
-7 Notes
+3 Main Characters
+4 Setting
+
+4.1 Organizations
+4.2 Technology
+
+
+5 Cover Gallery
+6 Notes
 
 
 ## Background
@@ -50,17 +54,18 @@ Using FTL, Jason transports Coln, Denise, and himself to the PC headquarters on 
 Jason is contacted by the varvax Sonn, who explains how the varvax compel their subjects into submission, including other alien races they have subjugated, as they will with humanity, all in the name of peace. Humanity has not been the one trying to infiltrate the Varvax to gain their technology; on the contrary, it is the Varvax who have been trying to infiltrate humanity for, Jason says to Sonn, their weaponry, as it can destroy the Varvax ships with ease. The reason the Varvax and other races progressed so quickly in FTL technology was their sacrifice of technological advancements - their ships are amongst the most powerful, most advanced in the galaxy, and yet were shot down by a single human missile. Jason subtly implies this is a threat, which Sonn calls "disturbing." Jason agrees before severing the communication.
 In the last moments of Defending Elysium, Jason sits back and tells Lanna to prepare a press release: tell humanity that the Phone Company has finally developed faster-than-light travel, and that it will be released to the public. His last words are a hope for the illusion he'd believed in for so long.
 
-## Characters
+## Main Characters
 
 
 
 
 
-## Organizations
+## Setting
+### Organizations
 
 
 
-## Technology
+### Technology
 
 
 ## Cover Gallery

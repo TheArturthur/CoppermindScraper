@@ -2,8 +2,7 @@
 |-|-|
 |**Skills**|Military training|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 >“*Life is much simpler when you can just assume that everyone is trying to kill you.*”
 \-J.C.[1]

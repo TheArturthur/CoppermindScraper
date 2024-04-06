@@ -4,9 +4,9 @@
 |**Spouse**|[[Thude\|Thude]]|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*Who cares? If the gods would help us kill those armies out there, then I'd swear to them right now.*”
 \-Bila to Eshonai[1]

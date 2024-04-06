@@ -5,9 +5,8 @@
 |**Spouse**|[[Ashlv\|Ashlv]]|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tozbek** is a [[Thaylen\|Thaylen]] ship captain on [[Roshar\|Roshar]].
 

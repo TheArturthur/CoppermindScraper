@@ -1,9 +1,8 @@
 |**Unknown**|
 |-|-|
 |**Type**|Game|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 A two-player, war-like **card game** exists on [[Roshar\|Roshar]] and is played in [[Alethkar\|Alethkar]].

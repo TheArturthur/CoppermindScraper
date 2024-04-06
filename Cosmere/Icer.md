@@ -5,8 +5,7 @@
 |**Species**|[[Poltergeist\|Poltergeist]] (formerly human)|
 |**Residence**||
 |**Nationality**||
-|**World**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
-|**Featured In**|*Dreamer*|
+|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
 
 **Icer** is a [[Poltergeist\|poltergeist]], the spirit of a dead woman who must possess the bodies of living people. She is part of a group of gamer poltergeists, including [[Dreamer (character)\|Dreamer]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 

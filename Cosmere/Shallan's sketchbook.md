@@ -3,12 +3,19 @@
 |**Type**|Portfolio|
 |**Author**|[[Shallan Davar\|Shallan Davar]]|
 |**Language**|[[Women's script\|Women's script]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Shallan's Sketchbook** is a portfolio that [[Shallan Davar\|Shallan Davar]] keeps of her sketches and drawings.
 The original is lost during the attack on the *Wind's Pleasure*.
+The one about Pattern is wet on the right, and it appears to read, from top down:
+
+It appears to be made up of lines? They’re not exactly tendrils or tentacles, they don’t grasp or reach, they just keep dividing and multiplying and combining into different patterns.
+The lines always seem to be connected, either at the central root of the Pattern or by dividing off from a root line, all delicate shapes mix and overlap and reduce by multiple divisions.
+It almost seems to phase in and out between two and three-dimensional space. I think it prefers a surface to connect with, but I have seen it move through the air on several occasions.
+It certainly presents some veneer of depth, but the Pattern doesn’t appear to possess any consistent dimensions in terms of size.
+I am almost certain that I have seen this Pattern somewhere before. It shares some resemblance with the creatures I observed in Kharbranth but without the body and those strange ribes. Is it possibly a doll or [?] of theirs?
+
 
 ## Interior Art
 Some of the pages from her portfolio are published in *The Way of Kings*, *Words of Radiance*, *Oathbringer* and *Rhythm of War*.

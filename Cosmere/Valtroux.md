@@ -1,10 +1,9 @@
 |**Valtroux**|
 |-|-|
-|**Dominance**|[[Central Dominance\|Central Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Final Empire*|
 
 **Valtroux**, also referred to as **Valtroux City**, was a city in the [[Central Dominance\|Central Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 

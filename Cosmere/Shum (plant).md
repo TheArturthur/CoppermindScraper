@@ -1,9 +1,8 @@
 |**Shum (plant)**|
 |-|-|
 |**Type**|Plant|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article is about a [[Roshar\|Rosharan]] plant. For a [[Skaa\|skaa]] from [[Scadrial\|Scadrial]], see [[Shum\|Shum]].
 **Shum** is a plant on [[Roshar\|Roshar]].

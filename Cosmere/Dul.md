@@ -3,9 +3,9 @@
 |**Spouse**|[[Mazish\|Mazish]]|
 |**Profession**|[[Stormsetter\|Stormsetter]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Dul** is a [[Singer\|singer]] on [[Roshar\|Roshar]]. A former [[Parshman\|parshman]], he is a member of [[Venli\|Venli's]] group of singers that wishes to be free of the [[Fused\|Fused]].
 
@@ -24,6 +24,7 @@ Dul is pragmatic, loyal, and trustworthy. He also has a sense of humor. He picke
 ## Attributes and Abilities
 Dul is a common singer and is capable of bonding various [[Spren\|spren]] within his [[Gemheart\|gemheart]] to wear different forms. He wears the rarely seen mediationform, and it is implied that he uses other forms as well.
 
+ by  Dragontrill  with [[Mazish\|Mazish]]
 ## History
 During the [[War of Reckoning\|War of Reckoning]], Dul served as a parshman in [[Alethkar\|Alethkar]] along with his mate, [[Mazish\|Mazish]]. He almost never spoke to his master. He once asked if he and Mazish could be married in the human tradition, as they followed certain Alethi customs; his request was angrily denied. After the coming of the [[Everstorm\|Everstorm]], Dul and Mazish's minds were awakened and they joined (or were conscripted into) [[Odium\|Odium's]] forces. However, they soon became some of the first singers recruited by Venli to join her resistance movement. The couple were able to get married after they were freed.
 Dul became a friend of Venli's and one of the most trusted members of her inner circle. He was able to gain the position of [[Stormsetter\|stormsetter]] for [[Leshwi\|Leshwi's]] [[High Chamber\|High Chamber]] in [[Kholinar\|Kholinar]]. He assisted Venli with her subterfuge and maintained some level of oversight of new recruits; he advised them on how to act around the Fused. He was present when [[Shumin\|Shumin]] became Leshwi's assistant stormsetter, and subsequently attended a meeting with her in Venli's quarters. He lightly admonished Shumin for being inadequately prepared for Leshwi's tests.

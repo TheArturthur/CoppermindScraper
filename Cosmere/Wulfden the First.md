@@ -2,9 +2,8 @@
 |-|-|
 |**Titles**|[[Wyrn (title)\|Wyrn]], Emperor of [[Fjorden\|Fjorden]]|
 |**Nationality**|[[Fjordell\|Fjordell]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 For the current Wyrn, see [[Wulfden the Fourth\|Wulfden the Fourth]].
 **Wulfden the First** is a former [[Wyrn (title)\|Wyrn]] of the [[Fjordell Empire\|Fjordell Empire]] on [[Sel\|Sel]].

@@ -2,9 +2,9 @@
 |-|-|
 |**Abilities**|[[Fused\|Fused]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 **Turash** is a [[Fused\|Fused]] on [[Roshar\|Roshar]].
 
@@ -25,8 +25,8 @@ Like other Fused, Turash can heal using [[Voidlight\|Voidlight]] and he cannot b
 He has some knowledge of military strategy, as he and Odium discuss the value of invading [[Thaylen City\|Thaylen City]].
 
 ## History
-After [[Venli\|Venli]] arrived in [[Thaylen City\|Thaylen City]], Turash told her to accompany him to the battlefield and handed her a sword. Venli was in [[Envoyform\|envoyform]] and Turash needed her to translate as he addressed assembled [[Listener\|listeners]] who did not speak his ancient language. Unlike the listeners in [[Alethkar\|Alethkar]], those local to [[Thaylenah\|Thaylenah]] were apprehensive about attacking the land they considered their home and they did not bear ill will towards their former human masters. Turash did not understand their lack of Passion, and exhorted them to seek vengeance and become [[Regal\|Regals]].
-Turash then met with an avatar of Odium who called him an "old friend", indicating that Turash was a Fused of some importance. Turash expressed concern about the apparent apathy of the listeners, and Odium informed him that they were only there to spectate; the army Odium planned to send into battle was primarily made up of humans led by [[Meridas Amaram\|Meridas Amaram]]. Turash was surprised to learn that Odium was able to inhabit humans under the influence of [[Nergaoul\|Nergaoul's]] Thrill through dark [[Spren\|spren]]. Turash was apprehensive about Odium's order to follow a human in combat, causing Odium to strongly rebuke him with a threat to kill him permanently. Turash was presumably among a group of Fused that was mentioned as being present alongside Odium and Venli when [[Dalinar Kholin\|Dalinar Kholin]] swore the Third Ideal of the [[Bondsmiths\|Bondsmiths]].
+After [[Venli\|Venli]] arrived in [[Thaylen City\|Thaylen City]], Turash told her to accompany him to the battlefield and handed her a sword. Venli was in [[Envoyform\|envoyform]] and Turash needed her to translate as he addressed assembled [[Singer\|singers]] who did not speak his ancient language. Unlike the singers in [[Alethkar\|Alethkar]], those local to [[Thaylenah\|Thaylenah]] were apprehensive about attacking the land they considered their home and they did not bear ill will towards their former human masters. Turash did not understand their lack of Passion, and exhorted them to seek vengeance and become [[Regal\|Regals]].
+Turash then met with an avatar of Odium who called him an "old friend", indicating that Turash was a Fused of some importance. Turash expressed concern about the apparent apathy of the singers, and Odium informed him that they were only there to spectate; the army Odium planned to send into battle was primarily made up of humans led by [[Meridas Amaram\|Meridas Amaram]]. Turash was surprised to learn that Odium was able to inhabit humans under the influence of [[Nergaoul\|Nergaoul]] through dark [[Spren\|spren]]. Turash was apprehensive about Odium's order to follow a human in combat, causing Odium to strongly rebuke him with a threat to kill him permanently. Turash was presumably among a group of Fused that was mentioned as being present alongside Odium and Venli when [[Dalinar Kholin\|Dalinar Kholin]] swore the Third Ideal of the [[Bondsmiths\|Bondsmiths]].
 
 
 

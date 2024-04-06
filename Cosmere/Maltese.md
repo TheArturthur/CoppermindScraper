@@ -3,7 +3,6 @@
 |**Capital**|Maltese|
 |**State**|Nightingale124|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* This city is named Maltese, though most people just call the State that as well, rather than use its official designation as Nightingale124*”
 \- Besk to Kairominas about Maltese[1]

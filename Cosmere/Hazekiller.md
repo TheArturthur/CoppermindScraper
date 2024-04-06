@@ -1,9 +1,8 @@
 |**Hazekiller**|
 |-|-|
 |**Type**|Profession|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn*|
 
 **Hazekillers** are specialized warriors on [[Scadrial\|Scadrial]] who are trained to fight and kill [[Allomancer\|Allomancers]].
 After the [[Catacendre\|Catacendre]], the term hazekiller is rarely heard, but "kill squad" is used as a rough synonym. [[Ranette\|Ranette]] also invents specialized bullets used to fight Allomancers that she names "hazekiller rounds".
@@ -42,4 +41,4 @@ Ranette believed that her hazekiller rounds were even more effective than [[Alum
 [[Vindication\|Vindication]]
 
 
-https://coppermind.net/wiki/Kill_squad
+https://coppermind.net/wiki/Hazekiller

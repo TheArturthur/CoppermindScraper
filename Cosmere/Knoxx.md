@@ -3,8 +3,7 @@
 |**Died**|Shot in the head by [[Valentine\|Val]]|
 |**Powers**|[[Epic\|Epic]]|
 |**Residence**|[[Babilar\|Babilar]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Firefight*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 **Knoxx** is a thug turned [[Epic\|Epic]] in [[Babilar\|Babilar]], and a known member of [[Newton\|Newton]]’s gang.
 

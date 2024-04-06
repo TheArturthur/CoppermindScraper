@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Plant|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Snarlbrush** is a plant native to [[Roshar\|Roshar]]. It is known to grow in northwestern [[Alethkar\|Alethkar]], near [[Hearthstone\|Hearthstone]].
 It is a robust plant that grows in dense thickets around large [[Markel\|markel]] trees; the trees and the tight grouping of the plants help to provide some protection from [[Highstorm\|highstorms]].

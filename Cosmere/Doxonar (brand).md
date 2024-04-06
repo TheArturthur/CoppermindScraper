@@ -2,9 +2,8 @@
 |-|-|
 |**Products**||
 |**City**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 This article deals with the brand of cigars. For the city in the [[Elendel Basin\|Elendel Basin]], see [[Doxonar\|Doxonar]].
 **Doxonar** is a brand of cigars on [[Scadrial\|Scadrial]].

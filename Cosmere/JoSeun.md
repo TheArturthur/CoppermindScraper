@@ -1,7 +1,6 @@
 |**JoSeun**|
 |-|-|
 |**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
 
 The ** JoSeun** Empire was a nation on [[Earth (Rithmatist)\|Earth]] originating from Asia.
 In the history of the Rithmatist, the Mongols were turned to work for the JoSeun empire during the **Koreo Dynasty**. 

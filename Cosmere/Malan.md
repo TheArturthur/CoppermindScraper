@@ -2,11 +2,10 @@
 |-|-|
 |**Died**||
 |**Profession**|Captainlord|
-|**Groups**|[[Cobalt Guard\|Cobalt Guard]]🐱︎|
+|**Groups**|[[Cobalt Guard\|Cobalt Guard]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Malan** is a [[Lighteyed\|lighteyed]] [[Alethi\|Alethi]] military officer on [[Roshar\|Roshar]].
 

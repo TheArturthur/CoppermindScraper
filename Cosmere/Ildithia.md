@@ -1,7 +1,6 @@
 |**Ildithia**|
 |-|-|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Calamity*|
 
 **IIdithia** is an [[Epic\|Epic]]-ruled city maintained by [[Larcener\|Larcener]]. Ildithia was once the city of **Atlanta**.
 

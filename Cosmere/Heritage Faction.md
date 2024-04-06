@@ -1,8 +1,7 @@
 |**Heritage Faction**|
 |-|-|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 The **Heritage Faction** is the ruling faction of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] during [[Wan ShaiLu\|Wan ShaiLu's]] imprisonment. It was one of the eighty factions of the Rose Empire.
 
@@ -27,7 +26,7 @@ After a failed assassination attempt on Emperor Ashravan's life, which left him 
 
 ## Members
 Emperor [[Ashravan\|Ashravan]]
-Senor Arbiter [[Frava\|Frava]]
+Senior Arbiter [[Frava\|Frava]]
 Arbiter [[Gaotona\|Gaotona]]
 Arbiter [[Stivient\|Stivient]]
 Arbiter [[Ushnaka\|Ushnaka]]

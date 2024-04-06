@@ -1,9 +1,9 @@
 |**Field of Rebirth**|
 |-|-|
-|**City**|[[Elendel\|Elendel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|by  EccoS |
+|**City**|[[Elendel\|Elendel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 The **Field of Rebirth** is the site at which the survivors emerged after the reshaping of [[Scadrial\|Scadrial]] following the ascension of [[Harmony\|Harmony]]. It is also the last resting place of [[Vin\|Vin]] and [[Elend Venture\|Elend Venture]].
 The field is covered with [[Marewill flowers\|Marewill flowers]] all year round thanks to a hot spring underneath. The tomb is capped by statues of the "Last Emperor" and the "Ascendant Warrior," Elend and Vin respectively.

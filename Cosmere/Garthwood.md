@@ -1,9 +1,8 @@
 |**Garthwood**|
 |-|-|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Hero of Ages*|
 
 >“* Except, koloss didn't take bribes. They just killed. Fatren shuddered, thinking of Garthwood. That city had been bigger than his own, but fewer than a hundred survivors had made their way to Vetitan.*”
 \- Fatren, thinking about the destruction of Garthwood.[1]

@@ -2,9 +2,8 @@
 |-|-|
 |by  Antti Hakosaari |
 |**Related to**|[[Herald\|Heralds]], [[Oathpact\|Oathpact]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Honor gave these to men, and those men gained powers from them. Spren figured out what He'd done, and we imitated it.*”
 \-Syl[1]
@@ -37,12 +36,12 @@ The **Honorblades** are the magical swords carried by the [[Herald\|Heralds]] to
 \-Syl [1]
 
 
-There are ten Honorblades total, one for each Herald. Every Honorblade is unique, covered in various glyphs and patterns. They are technically a type of [[Shardblade\|Shardblade]]; they were prototypes of the [[Knight Radiant\|Knight Radiant]] Shardblades, and share many qualities with them. Among others, they can be bonded, summoned and dismissed much like a [[Shardblade\|Shardblade]] can. Like living Shardblades, they can be used to operate [[Oathgate\|Oathgates]]. Though, unlike living Shardblades, they cannot change shape. It's unclear if they require ten heartbeats to be summoned, like dead Blades, or if they can appear instantly; this appears to be tied to their wielders' perception. They are near-indestructible, with the only thing known to be capable of damaging them being [[Nightblood\|Nightblood]]. Honorblades are made out of the [[God Metal\|God Metal]] of Honor.
-Unlike Shardblades, however, Honorblades are not [[Spren\|spren]], and are not, nor have ever been, sapient. Rather, they are made of [[Honor\|Honor's]] own [[Investiture\|Investiture]], which he deliberately splintered off himself and crystallized into metallic form.
+There are ten Honorblades total, one for each Herald. Every Honorblade is unique, covered in various glyphs and patterns. They are technically a type of [[Shardblade\|Shardblade]]; they were prototypes of the [[Knight Radiant\|Knight Radiant]] Shardblades, and share many qualities with them. Among others, they can be bonded, summoned and dismissed much like a [[Shardblade\|Shardblade]] can. Like living Shardblades, they can be used to operate [[Oathgate\|Oathgates]]. Unlike living Shardblades, they cannot change shape. It's unclear if they require ten heartbeats to be summoned, like dead Blades, or if they can appear instantly; this is likely tied to their wielders' perception. They are near-indestructible, with the only thing known to be capable of damaging them being [[Nightblood\|Nightblood]]. Honorblades are made out of the [[God Metal\|God Metal]] of Honor.
+Unlike Shardblades, however, Honorblades do not manifest as [[Spren\|spren]] in the [[Cognitive Realm\|Cognitive Realm]]. Rather, they are made of [[Honor\|Honor's]] own [[Investiture\|Investiture]], which he deliberately splintered off himself and crystallized into metallic form. Honorblades are self-aware, but it is currently unknown to what extent. In this sense, Honorblades are comparable to the blade wielded by Azure, which is also known to posses an unknown level of sapience.
 One does not need to be a Herald in order to use an Honorblade. Likewise, a Herald dying does not cause the Honorblade to be destroyed or vanish. However, the Honorblades do go with the Heralds when they travel to [[Braize\|Braize]], and they appear to have a crucial role in the [[Oathpact\|Oathpact]], as nine of the Heralds leave them behind in the [[Aharietiam\|Aharietiam]].
 
 ### Surgebinding
-Holding an Honorblade inherently grants the ability to [[Surgebind\|Surgebind]] without a [[Nahel bond\|Nahel bond]]. This ability is similar to that of [[Metalmind\|unsealed metalminds]], though they rely on different magic systems.
+Holding an Honorblade inherently grants the ability to [[Surgebind\|Surgebind]] without a [[Nahel bond\|Nahel bond]]. This ability is similar to that of unsealed metalminds, though they rely on different magic systems.
 Honorblade Surgebinding is in many ways inferior to Radiant Surgebinding; among others, the Surgebinding healing bestowed by Honorblades is less efficient than Radiant healing. Additionally, [[Surge\|Surges]] require more [[Stormlight\|Stormlight]] as fuel to power them, up to dangerous levels. While the latter still applies to the Heralds, they were once powered directly by [[Honor\|Honor]], which made the issue of Stormlight consumption irrelevant.
 If a Surgebinder uses an Honorblade that matches the power they already have, their powers will be slightly enhanced.
 
@@ -53,8 +52,8 @@ If a Surgebinder uses an Honorblade that matches the power they already have, th
 \-Jezrien[3]
 
 
-It's unknown at what point the Heralds received their Honorblades, although it likely happened during the creation of the [[Oathpact\|Oathpact]]. They used them throughout the [[Desolation\|Desolations]] until the [[Aharietiam\|Aharietiam]], whereupon nine of them left them at the site of the final battle before walking away from the Oathpact. [[Talenel\|Talenel's]] Honorblade disappeared along with him.
-After the Heralds departed, one of the [[Shin\|Shin]] soldiers who participated in the battle stumbled upon them. Likely because of this, the nine Honorblades ended up in [[Shinovar\|Shinovar]]. Over the millennia, they retained the Blades, and even occassinally used them, most notably during the Shin invasions. Even after the invasions failed, they would still train some of their people in the use of the Blades and the associated Surges.
+It's unknown at what point the Heralds received their Honorblades, although it likely happened during the creation of the [[Oathpact\|Oathpact]]. They used them throughout the [[Desolation\|Desolations]] until the [[Aharietiam\|Aharietiam]], whereupon nine of them left them at the site of the final battle before walking away from the Oathpact, feeling that as they had broken it, they no longer deserved the Honorblades. [[Talenel\|Talenel's]] Honorblade disappeared back to Braize along with him.
+After the Heralds departed, one of the [[Shin\|Shin]] soldiers who participated in the battle stumbled upon them. Likely because of this, the nine Honorblades ended up in [[Shinovar\|Shinovar]]. Over the millennia, they retained the Blades, and even occasionally used them, most notably during the Shin invasions. Even after the invasions failed, they would still train some of their people in the use of the Blades and the associated Surges.
 At some point, the Herald [[Nale\|Nale]] reclaimed his own Blade from the Shin, leaving them with eight.
 
 ### War of Reckoning
@@ -77,13 +76,13 @@ At some point very recently, Ishar killed Neturo-son-Vallano and took back his B
 |[[Pailiah\|Pailiah]]|[[Stone Shamans\|Stone Shamans]]|[[Progression\|Progression]] & [[Illumination\|Illumination]]|Very slender and curved, with large ornamental flairs, including a small hole, near the hilt.|None|
 |[[Shalash\|Shalash]]|[[Stone Shamans\|Stone Shamans]]|[[Illumination\|Illumination]] & [[Transformation\|Transformation]]|*Unknown*|None|
 |[[Battar\|Battar]]|[[Stone Shamans\|Stone Shamans]]|[[Transformation\|Transformation]] & [[Transportation\|Transportation]]|*Unknown*|None|
-|[[Kalak\|Kalak]]|[[Stone Shamans\|Stone Shamans]]|[[Transportation\|Transportation]] & [[Cohesion\|Cohesion]]|Flat and wide, with several roughly circular holes that can hold gems along the length. Tip is semicircular and the hilt is meant for wielding with both hands.|None|
-|[[Talenel\|Talenel]]|*Unknown*|[[Cohesion\|Cohesion]] & [[Tension\|Tension]]|Possibly spike-like|The Blade Taln returns with is not the same one he has later.|
+|[[Kalak\|Kalak]]|[[Stone Shamans\|Stone Shamans]]|[[Transportation\|Transportation]] & [[Cohesion\|Cohesion]]|Flat and wide, with several roughly circular holes along the length. Examples of in-world art sometimes depicts these holes as holding gems. The blade's tip is semicircular and the hilt is meant for wielding with both hands.|None|
+|[[Talenel\|Talenel]]|*Unknown*|[[Cohesion\|Cohesion]] & [[Tension\|Tension]]|Long, molten, and nail-like|The Blade Taln returns with is not the same one he has later.|
 |[[Ishar\|Ishar]]|[[Ishar\|Ishar]] (reclaimed)|[[Tension\|Tension]] & [[Adhesion\|Adhesion]]|Sinuous and lined with glyphs|Previously kept by [[Neturo\|Neturo]] until his death.|
 
 ## Trivia
 In *The Way of Kings Prime*, Honorblades allowed their wielders to locate other Honorblades. This has since been removed.
-Surgebinders with Honorblades have been referred to as "unbound."
+Honorblades are somewhat self aware, though they lack a spren manifestation and have never been noted to talk to people.
 
 
 https://coppermind.net/wiki/Honorblade

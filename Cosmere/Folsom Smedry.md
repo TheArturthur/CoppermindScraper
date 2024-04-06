@@ -6,8 +6,9 @@
 |**Siblings**|[[Quentin Smedry\|Quentin]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]]|
 |**Profession**|Journalist|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 
 **Folsom Smedry** is a literary critic for the [[Nalhalla\|Nalhallan]] Daily, a staff writer for plays, and acts as an advisor to the [[Council of Kings\|Council of Kings]]. His Smedry Talent is that he dances uncontrollably to any music being played. He helped [[Himalaya Smedry\|Himalaya]] adjust to life in the Free Kingdoms after she defected from the Evil Librarians. They fall in love and are eventually married by Folsom's cousin [[Alcatraz Smedry\|Alcatraz]].
 
@@ -29,4 +30,4 @@ Folsom's Talent is that he can dance really poorly. It's a knowledge talent on t
 His name is a reference to the .
 
 
-https://coppermind.net/wiki/Folsom
+https://coppermind.net/wiki/Folsom_Smedry

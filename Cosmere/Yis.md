@@ -3,9 +3,8 @@
 |**Profession**|Leatherworker|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Iriali\|Iriali]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Yis** is an [[Iriali\|Iriali]] leatherworker on [[Roshar\|Roshar]]. He works in the warcamps on the [[Shattered Plains\|Shattered Plains]] during the [[War of Reckoning\|War of Reckoning]].
 

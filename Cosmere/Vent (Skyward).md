@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|83 , initial [[C-137-KJM orbital shipyard\|C-137-KJM orbital shipyard]] skirmish|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 For the Final Empire era skaa, see [[Vent (Scadrial)\|Vent (Scadrial)]].
 Callsign **Vent** is a member of [[Nightstorm Flight\|Nightstorm Flight]] and is the brother of [[Nedd Strong\|Nedd]] and [[Nightstorm pilot seven\|Nightstorm pilot seven]]. Vent flies a blue [[Sigo\|Sigo]]-class figher, his flight number is six and he is wingmates with his brother.

@@ -1,10 +1,10 @@
 |**Rothan**|
 |-|-|
-|**Abilities**|[[Regal\|Regal]]|
+|**Abilities**|[[Regal\|Forms of Power]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Rothan** is a [[Singer\|singer]] on [[Roshar\|Roshar]] who wears [[Stormform\|stormform]] and leads Lady [[Leshwi\|Leshwi's]] soldiers during the [[True Desolation\|True Desolation]].
 

@@ -1,8 +1,7 @@
 |**Pectin-Ade**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*You'll be glad you stayed for PECTIN-ADE!*”
 \-Slogan[1]

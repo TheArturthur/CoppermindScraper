@@ -1,10 +1,9 @@
 |**Gallery of Maps**|
 |-|-|
 |by  Isaac Stewart |
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Gallery of Maps** is a [[Soulcast\|Soulcast]] building in the king's complex on the [[Shattered Plains\|Shattered Plains]] on [[Roshar\|Roshar]].
 
@@ -39,7 +38,7 @@ This article is still missing information. Please help The Coppermind by .
 |**Shards**|[[Honor\|Honor]] · [[Cultivation\|Cultivation]] · [[Odium\|Odium]]|
 |**Magic**|[[Highstorm\|Highstorms]] · [[Everstorm\|Everstorm]] · [[Lights\|Lights]] ([[Stormlight\|Stormlight]] · [[Voidlight\|Voidlight]]) · [[Surgebinding\|Surgebinding]] · [[Voidbinding\|Voidbinding]] · [[Fabrial\|Fabrials]] · [[Shardblade\|Shardblades]] · [[Shardplate\|Shardplate]] · [[Oathgate\|Oathgate]] · [[Old Magic\|Old Magic]] · [[Dawnshard\|Dawnshard]]|
 |**Lifeforms**|[[Singer\|Singers]] · [[Sleepless\|Sleepless]] · [[Siah Aimian\|Siah Aimians]] · [[Ryshadium\|Ryshadium]] · [[Larkin\|Larkin]] · [[Chasmfiend\|Chasmfiends]] · [[Greatshell\|Greatshells]]|
-|**Locations**|[[Aimia\|Aimia]] · [[Alethkar\|Alethkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Horneater Peaks\|Horneater Peaks]] · [[Purelake\|Purelake]] · [[Shadesmar\|Shadesmar]] · [[Shattered Plains\|Shattered Plains]]|
+|**Locations**|[[Aimia\|Aimia]] · [[Alethkar\|Alethkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Horneater Peaks\|Horneater Peaks]] · [[Purelake\|Purelake]] · [[Rosharan subastral\|Shadesmar]] · [[Shattered Plains\|Shattered Plains]]|
 |**Culture**|[[Lighteyes\|Lighteyes]] · [[Darkeyes\|Darkeyes]] · [[Vorinism\|Vorinism]] · [[Ardent\|Ardents]] · [[Spheres\|Spheres]] · [[Glyphs\|Glyphs]] · [[Women's script\|Women's script]] · [[Dawnchant\|Dawnchant]]|
 |**Groups**|[[Bridge Four\|Bridge Four]] · [[Listener\|Listeners]] · [[Herald\|Heralds]] · [[Highprince\|Highprinces]] · [[Ghostbloods\|Ghostbloods]] · [[Diagram (group)\|The Diagram]] · [[Sons of Honor\|Sons of Honor]]|
 |**History**|[[Expulsion\|Expulsion]] · [[Desolation\|Desolations]] · [[Oathpact\|Oathpact]] · [[Last Desolation\|Last Desolation]] · [[False Desolation\|False Desolation]] · [[Day of Recreance\|Day of Recreance]] · [[Hierocracy\|Hierocracy]] · [[War of Reckoning\|War of Reckoning]] · [[True Desolation\|True Desolation]]|

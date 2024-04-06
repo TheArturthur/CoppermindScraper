@@ -4,9 +4,9 @@
 |**Residence**|[[Kharbranth\|Kharbranth]]|
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Artmyrn** is a [[Thaylen\|Thaylen]] book merchant from [[Kharbranth\|Kharbranth]] on [[Roshar\|Roshar]].
 

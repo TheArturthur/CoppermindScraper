@@ -1,10 +1,9 @@
 |**Highprince of War**|
 |-|-|
-|**Related to**|[[Alethkar\|Alethkar]], Alethi culture, [[Highprince\|Highprince]]🐱︎|
+|**Related to**|[[Alethkar\|Alethkar]], Alethi culture, [[Highprince\|Highprince]]|
 |**Type**|Title|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 

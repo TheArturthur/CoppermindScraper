@@ -3,9 +3,8 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Skybreaker\|Skybreaker]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Ki\|Ki]]|
 |**Species**|[[Highspren\|Highspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Winnow** is a [[Highspren\|highspren]] bonded to the [[Skybreaker\|Skybreaker]] [[Ki\|Ki]].
 It is uncertain when Winnow and Ki began their bond, but she has sworn four [[Immortal Words\|Ideals]] and achieved the rank of master.

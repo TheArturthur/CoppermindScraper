@@ -1,17 +1,19 @@
 |**Trelagism**|
 |-|-|
 |**Type**|Religion|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn trilogy*|
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 For the being named Trell and its associated religion, see [[Trell (Trellism)\|Trell (Trellism)]].
 >“*There had been a people known as the Nelazan. They had worshiped the stars, had called them the Thousand Eyes of their god, Trell, watching them.*”
 \-Sazed recalls the followers of Trelagism during the Final Ascension[1]
 
 
-**Trelagism** was a religion on [[Scadrial\|Scadrial]] that worshiped the god **Trell**. It was primarily practiced by the Nelazan people before the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]] and the establishment of the [[Final Empire\|Final Empire]].
-There is some amount of truth to the religion.
+**Trelagism** was a religion on [[Scadrial\|Scadrial]] that worshiped the god [[Trell (Trellism)\| Trell]]. It was primarily practiced by the Nelazan people before the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]] and the establishment of the [[Final Empire\|Final Empire]].
+It was created by [[Autonomy\|Autonomy]], as a way for her to seed herself into Scadrian culture for when she decides to encroach upon it.
+
 
 ## Contents
 
@@ -33,16 +35,18 @@ Their beliefs concerning the afterlife are described by [[Sazed\|Sazed]] as "alm
 
 ## History
 ### Classical Scadrial
-Before the Final Empire eradicated Trelagism, it was practiced primarily by a people known as the **Nelazan**. The Nelazan people lived in northern Scadrial, likely in close proximity to the planet's . Sazed notes that their winters had few hours of daylight, and their summers had few hours of darkness. These extreme day-night cycles evidently factored into their religious beliefs. Little is known about the Nelazan themselves. Sazed considers them to be a "determined" people, as evidenced by their accomplishment of counting and mapping every planet and major star in the night sky, and they apparently placed great value on the study of mathematics and astronomy--a trait which attracted Sazed to the religion personally. Sazed doesn't consider them to be very advanced, however. There were, however, some of the Terris who chose to practice Trelagism.
+Before the Final Empire eradicated Trelagism, it was practiced primarily by a people known as the **Nelazan**, who were heavily influenced by Autonomy, which led to the birth of this faith. The Nelazan people lived in northern Scadrial, likely in close proximity to the planet's . Sazed notes that their winters had few hours of daylight, and their summers had few hours of darkness. These extreme day-night cycles evidently factored into their religious beliefs. Little is known about the Nelazan themselves. Sazed considers them to be a "determined" people, as evidenced by their accomplishment of counting and mapping every planet and major star in the night sky, and they apparently placed great value on the study of mathematics and astronomy--a trait which attracted Sazed to the religion personally. Sazed doesn't consider them to be very advanced, however. There were, however, some of the Terris who chose to practice Trelagism.
 
 ### The Final Empire
 The original adherents of Trelagism were eliminated by the [[Lord Ruler\|Lord Ruler]], however some [[Terris\|Terris]] [[Keeper\|Keepers]] were able to recover their star charts and record their beliefs. Trelagism was the fifth religion that Sazed offered to [[Vin\|Vin]] not long after she joined [[Kelsier\|Kelsier's]] crew, hoping she would appreciate their mutual preference for the night. Sazed later considered the religion for himself, but was discouraged by the lack of clarity that it offered. After his [[Final Ascension\|Ascension]], Sazed used the Trelagist star charts to return Scadrial to its original orbit.
 
 ### Post-Catacendre
-Trelagism may have diverged from its original beliefs after the [[Catacendre\|Catacendre]]. [[Miles Dagouter\|Miles Dagouter]], [[Edwarn Ladrian\|Edwarn Ladrian]], and others are self-proclaimed followers of [[Trell (Trellism)\|Trellism]], which they believe traces its roots to the religion of Trelagism as described in the [[Words of Founding\|Words of Founding]]. The true relationship between Trelagism and Trellism is unclear.
+Trelagism may have diverged from its original beliefs after the [[Catacendre\|Catacendre]]. [[Miles Dagouter\|Miles Dagouter]], [[Edwarn Ladrian\|Edwarn Ladrian]], and others are self-proclaimed followers of [[Trell (Trellism)\|Trellism]], which they believe traces its roots to the religion of Trelagism as described in the [[Words of Founding\|Words of Founding]].
+Trelagism and Trellism both worship the same entity, Trell, or [[Autonomy\|Autonomy]]. Although the exact teachings appear to differ, with members of the Set having far more knowledge about the nature of Autonomy and the threat she poses to Scadrial if they fail in their mission.
 
 ## Cosmere
 There is no substantial link between Trelagism and the dualist religion of the [[Purelake\|Purelakers]] concerning [[Nu Ralik\|Nu Ralik]] and [[Vun Makak\|Vun Makak]]. It is unclear whether the god Nalt has any connection to the planet [[Nalthis\|Nalthis]].
+Trelagism was created by Autonomy, in an attempt to leave a seed of herself in the planet for when she decided to move in.
 
 
 

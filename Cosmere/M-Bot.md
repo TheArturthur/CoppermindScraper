@@ -1,13 +1,14 @@
 |**M-Bot**|
 |-|-|
 |by  Ben McSweeney |
-|**World**|[[Detritus\|Detritus]]|
+|**Abilities**|[[Cytonics\|Cytonics]]|
+|**Species**|[[Delver\|Delver]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
-Designation **MB-1021**, also known as **M-Bot**, is a sentient artificial intelligence installed inside a stealth-equipped [[Starfighter\|starfighter]], that classifies itself as a "robotic ship integration" and a "long distance reconnaissance and recovery ship." The ship is found by Spensa in a cavern about thirty minutes walk from [[Alta\|Alta]].
+Designation **MB-1021**, also known as **M-Bot** and **Mushroom-Bot**, is a sentient artificial intelligence installed inside a stealth-equipped [[Starfighter\|starfighter]], that classifies itself as a "robotic ship integration" and a "long distance reconnaissance and recovery ship." The ship is found by Spensa in a cavern about thirty minutes walk from [[Alta\|Alta]].
 M-Bot's data banks were corrupted, but it remembers its last pilot, named Commander [[Spears\|Spears]]. The only information M-Bot could find was a command from Spears: "Lie low, M-Bot. Take stock, don't get into any fights, and wait for me here."
 
 ## Contents
@@ -27,30 +28,15 @@ M-Bot's data banks were corrupted, but it remembers its last pilot, named Comman
 
 
 ## Appearance and Personality
+ by  LittleGreyDragon  With [[Spensa\|Spensa]]
 M-Bot's ship design is almost entirely foreign to Spensa, who was very surprised by this at first, as she had memorized every DDF ship model. The only exception are the controls - a control sphere for the pilot's right hand, as well as a throttle and altitude levers for the left, all exactly as the ones Spensa is familiar with from the DDF ships; the dashboard full of buttons is similar to the ones used by the DDF, but much more complex Once M-Bot is activated, he informs her that he has been deactivated for 172 years; well before the [[Defiant (starship)\|Defiant]] crashed on [[Detritus\|Detritus]]. M-Bot appears to be slightly larger than a DDF [[Poco\|Poco]] or even a [[Largo\|Largo]], despite being not quite as long.
 The AI strives to be accommodating towards standard human interaction, a reason it named itself M-Bot instead of calling itself MB-1021. M-Bot often attempts to express emotion, explaining that while he cannot actually feel emotions, his subroutines allow him to respond properly. M-bot is highly talkative.
 The only memory bank that is not corrupted is a database for recording fungoid life forms on Detritus.
 M-Bot does not like [[Rodge McCaffrey\|Rig]] as much as it likes Spensa. The feeling is mutual.
 
-
-Images of M-Bot
-
-
-
-Diagram of M-Bot by [[Ben McSweeney\|Ben McSweeney]]
-
-
-
-
-
-
-With Spensa by LittleGreyDragon
-
-
-
-
 ## Attributes and Abilities
 According to himself, M-Bot is a stealth ship, therefore he is able to hide from scanners, hack into computer systems, and project holographic images. He is also equipped with many other technologies superior to DDF fighters, though most were non-functional or absent when Spensa discovered him. These include:
+
 
 space for up to four [[Destructor\|Destructors]], two on each wing* (Destructors not included)
 a [[Light-lance\|light-lance]] turret underneath his main body*
@@ -71,6 +57,8 @@ maneuverability thrusters
 cytonic processing (which Spensa can sense)
 advanced holographic projection
 short range scanners (short range according to M-Bot, but not short range by DDF standards)
+hacking systems
+
 
 M-Bot is also sentient, and can easily hack most DDF wireless communications, as well as Krell databases. He can also reprogram himself to alter and improve his emotional responses.
 
@@ -86,6 +74,7 @@ During one of Spensa's flight classes, M-Bot hacked into DDF's system and chatte
 When [[Alanik\|Alanik]] and her ship crashed on Detritus, she gave Spensa coordinates to the location of [[Starsight (station)\|Starsight]]. M-Bot then projected a holographic image on his exterior to match that of Alanik's ship. He also projected an image on Spensa to give her Alanik's appearance. Spensa then used the coordinates given to her by Alanik to make an FTL jump with M-Bot to Starsight. Once M-Bot and Spensa arrived at Starsight they were permitted to land. Afterwards, Spensa left M-Bot to meet with [[Superiority\|Superiority]] officials. The next day Spensa and M-Bot traveled to a smaller space station to compete in a practice drill. The practice drill turned out to be much more violent then M-Bot and Spensa had expected, involving real destructor fire from Superiority drones. M-Bot and Spensa managed to fare well, and soon decided to help some of the other pilots including [[Morriumur\|Morriumur]] and the [[Kitsen\|kitsen]]. They also convinced the figment, [[Vapor\|Vapor]], to override the computer systems of a Superiority drone to help them.
 M-Bot and Doomslug were left behind on Starsight when Spensa performed a hyperjump which took her to Detritus, in order to stop the invasion. He was stolen by the Superiority, and destroyed, with his CPU broken and his ship taken a part. They had feared AI and tried to destroy him. However, he had gone against his programming bit by bit, reprogramming himself in tiny installments of half a line at a time. This gave him the ability to copy himself, and he managed to copy himself into a nearby cleaning drone before the Superiority’s people managed to destroy him completely. M-Bot showed Spensa the news report about her, where Winzik framed her as an aggressor, before they ran. They were chased by Superiority soldiers, coming across a [[Nowhere\|nowhere]] portal. Spensa took M-Bot, as well as [[Doomslug\|Doomslug]], into the nowhere with her.
 
+ by  EccoS  In the [[Nowhere\|Nowhere]] with [[Chet\|Chet]] and [[Spensa\|Spensa]]
 ### The Nowhere
 >“*Spensa! I feel very uncomfortable with this!*”
 \-M-Bot to Spensa after entering the nowhere[17]
@@ -96,14 +85,12 @@ After emerging onto a fragment in the Belt of the nowhere, M-Bot was very angry 
 >“*Ah! You say things like that, and I want to hit you again! Would you stand still so I can smack you with a grabber arm? That sounds fun.*”
 \-M-Bot after to Spensa after smacking her[22]
 
-As they traveled across the fragments, so that Spensa and Chet could traverse the [[Path of Elders\|Path of Elders]], M-Bot changed in unexpected ways, at one point whacking Spensa on the head when he grew frustrated. They made for the base of the [[Broadsider Faction\|Broadsider Faction]], in order to steal a starfighter, and M-Bot talked with Spensa about his feelings, saying he was sad that his pilot called him an abomination. He told her that he is still angry about his abandonment on Starsight. They arrived at the Broadsider base, and M-Bot scouted out the base for Spensa, reporting that there were no heat signatures besides three pirates working in the hangar. M-Bot went into the base with Spensa, and they were both captured after Spensa went into a plane with a [[Resonant\|resonant]] in it, which hadn’t given off a heat signature. M-Bot acted like a regular cleaning drone instead of an AI, but was still kept away from Spensa, who was made to work for the pirates.
+As they traveled across the fragments, so that Spensa and Chet could traverse the [[Path of Elders\|Path of Elders]], M-Bot changed in unexpected ways, at one point whacking Spensa on the head when he grew frustrated. They made for the base of the [[Broadsider Faction\|Broadsider Faction]], in order to steal a starfighter, and M-Bot talked with Spensa about his feelings, saying he was sad that his pilot called him an abomination. He told her that he is still angry about his abandonment on Starsight. They arrived at the Broadsider base, and M-Bot scouted out the base for Spensa, reporting that there were no heat signatures besides three pirates working in the hangar. M-Bot went into the base with Spensa, and they were both captured after Spensa went into a starfighter with a [[Resonant\|resonant]] in it, which hadn’t given off a heat signature. M-Bot acted like a regular cleaning drone instead of an AI, but was still kept away from Spensa, who was made to work for the pirates.
 Spensa got permission for M-Bot to help her clean different things for the pirates, and eventually got M-Bot in position to upload himself into one of the pirate starfighters. He took control of it just in time, saving Spensa as she was attacked by [[Peg\|Peg]].
 
->“*Hey, I think I’m doing pretty well. Didn’t you crash into the mess hall on your first day?*”
-\-M-Bot after flying for the first time[25]
-
+ by  Egilde Art  [[Chet\|Chet]] and [[Spensa\|Spensa]]
 M-Bot tried flying as they escaped, but didn’t do very well. Spensa returned to the Broadsiders after terms were made, and Spensa was allowed to upload M-Bot to the Broadsiders’ best ship. When Chet and Spensa went to the next portal in the Path of Elders, he gave them background information to help them understand what they saw. He also helped during an enemy raid, highlighting different enemies for Spensa to target during the fight. When going to fight in an arena for Spensa to become the pirate champion, M-Bot detected Peg calling her son [[Gremm\|Gremm]], but wasn’t able to intercept the call due to his ship’s limitations. After Spensa’s victory, the delvers sent a fragment to try to collide with the Broadsider base, and M-Bot made calculations so that the pirates could use their light-lances to redirect the incoming fragment.
-Along with most of the other pirate factions, Spensa and the Broadsiders flew towards [[Surehold\|Surehold]] to attack it, with both Spensa and Chet riding inside M-Bot. M-Bot tried describing his different emotions to Chet, who would help him identify which emotions they were. Once the battle began however, M-Bot quieted down somewhat. During the battle, M-Bot also swore for the first time, surprising Spensa. After taking Surehold, Spensa asked M-Bot waht he thought about escaping back to Detritus. M-Bot said that his processing speed will likely be much slower once outside of the nowhere, but figured it would be interesting to try inhabiting one of Detritus’ platforms. M-Bot flew with Spensa, Hesho, Chet, and Doomslug towards the lightburst, aiming for [[Solitary Shadow\|Solitary Shadow]]. M-Bot went with Chet and Spensa as they accessed the final portal, and discovered the biggest secrets of the delvers.
+Along with most of the other pirate factions, Spensa and the Broadsiders flew towards [[Surehold\|Surehold]] to attack it, with both Spensa and Chet riding inside M-Bot. M-Bot tried describing his different emotions to Chet, who would help him identify which emotions they were. Once the battle began however, M-Bot quieted down somewhat. During the battle, M-Bot also swore for the first time, surprising Spensa. After taking Surehold, Spensa asked M-Bot what he thought about escaping back to Detritus. M-Bot said that his processing speed will likely be much slower once outside of the nowhere, but figured it would be interesting to try inhabiting one of Detritus’ platforms. M-Bot flew with Spensa, Hesho, Chet, and Doomslug towards the lightburst, aiming for [[Solitary Shadow\|Solitary Shadow]]. M-Bot went with Chet and Spensa as they accessed the final portal, and discovered the biggest secrets of the delvers.
 
 >“*Fly well, little me! You were my first taste of freedom. And now you will likely be my first taste of death!*”
 \-M-Bot to his drone[34]

@@ -3,7 +3,6 @@
 |by  Jamie Knierim |
 |**Region**||
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
 
 **Babylon Restored**, often referred to as **Babilar** (a simplification of "Babyl-R"), is the name given to New York City after its streets were flooded by the [[Epic\|Epic]] [[Regalia\|Regalia]]. Regalia ruled tyrannically over the city for years, before she stopped and decided to clean the place up. It is unknown what came of the city after Calamity was defeated.
 
@@ -17,7 +16,7 @@
 
 
 ## Appearance
-The water floods so high you can see only the supports of bridges, even though they were once over a hundred feet tall. The water sloped towards the middle of the city, so that the perimeter of Babilar had a lower water level than inside Babilar. Many tops of the buildings were only a few feet above the water surface, and the people lived in vibrantly colored tents, on the rooftops. In Babilar, spraypaint glowed with bright fluorescent light, and much of the city had been graffitied, so it appeared that the sides of the buildings were aglow. Plants and trees would often grow inside buildings, providing the occupants of Babilar will fruits and vegetables, enough for them to eat. The trees and plants had colorful petals, that had three or four gradient colors. However, some of the trees were unique. One such tree produces fortune cookies instead of fruit, and [[Dawnslight\|Dawnslight]] could communicate through the fortunate cookies. Radios within the city's limits worked even without a power source, although no other electronic devices did. 
+The water floods so high you can see only the supports of bridges, even though they were once over a hundred feet tall. The water sloped upward towards the middle of the city, so that the perimeter of Babilar had a lower water level than inside Babilar. Many tops of the buildings were only a few feet above the water surface, and the people lived in vibrantly colored tents, on the rooftops. In Babilar, spraypaint glowed with bright fluorescent light, and much of the city had been graffitied, so it appeared that the sides of the buildings were aglow. Plants and trees would often grow inside buildings, providing the occupants of Babilar will fruits and vegetables, enough for them to eat. The trees and plants had colorful petals, that had three or four gradient colors. However, some of the trees were unique. One such tree produces fortune cookies instead of fruit, and [[Dawnslight\|Dawnslight]] could communicate through the fortunate cookies. Radios within the city's limits worked even without a power source, although no other electronic devices did. 
 The phenomenon of the glowing spraypaint, the radios, the warmth, and the plentiful gardens and fruit, was due to Dawnslight, a man in a coma, who dreamed many of the city's aspects up. The spraypaint suddenly stops glowing somewhere outside the city's limits, and begins to glow again as the spraypaint enters city again.
 It was almost destroyed when Regalia died, causing the water to draw back and the supports of the buildings to be exposed, but miraculously, it was not damaged because the roots and vines of Dawnslight's plants had grown into a through the buildings, acting as living reinforcement.
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Soldiers|
 |**Era**|[[True Desolation\|True Desolation]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 >“*The way these people seemed to be constantly wreathed in shadow . . . it was unnerving.*”

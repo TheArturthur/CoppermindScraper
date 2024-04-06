@@ -2,9 +2,8 @@
 |-|-|
 |by Gal Or|
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Oathbringer* and *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -40,7 +39,7 @@ A wealthy and high-ranking darkeyes (of the first or second nahn) is addressed b
 
 ## Changing eye color
 Permanently changing one's birth eye color is generally not possible. However, two exceedingly rare methods are currently known to change one's eye color.
-It is a well-known legend within [[Vorin\|Vorin]] society that if a man wins a [[Shardblade\|Shardblade]] on the battlefield, he will become a lighteyes, regardless of his previous station in life. This would also be accompanied by a promotion to the fourth dahn for the Shardbearer. This legend, though a foundation of Vorin society, went untested for centuries, until [[Kaladin Stormblessed\|Kaladin Stormblessed]] won a full set of [[Shardbearer\|Shards]] and gifted them to his lieutenant, [[Moash\|Moash]]. After bonding the shards, Moash's eyes lightened from a dark brown to a light tan. It is unknown if this effect is permanent or only temporary while the holder is in possession of his Shards.
+It is a well-known legend within [[Vorin\|Vorin]] society that if a man wins a [[Shardblade\|Shardblade]] on the battlefield, he will become a lighteyes, regardless of his previous station in life. This would also be accompanied by a promotion to the fourth dahn for the Shardbearer. This legend, though a foundation of Vorin society, goes untested for centuries, until [[Kaladin Stormblessed\|Kaladin Stormblessed]] wins a full set of [[Shardbearer\|Shards]] and gifts them to his lieutenant, [[Moash\|Moash]]. After bonding the Shards, Moash's eyes lighten from a dark brown to a light tan. This effect is not irreversible, as Moash's eyes later darken again after losing his Shardblade.
 A second method of becoming a lighteyes is to become either a [[Surgebinder\|Surgebinder]] or [[Knight Radiant\|Knight Radiant]]. According to [[Skar\|Skar]], [[Kaladin\|Kaladin's]] eyes changed while fighting to save [[Dalinar\|Dalinar]] during the [[Battle of the Tower\|Battle of the Tower]], although it was only for a short moment, as other men still recognize him as a darkeyes during the fight. During this battle, Kaladin only said up to the Second Ideal of the [[Immortal Words\|Immortal Words]] and did not recognize himself as a Knight Radiant. Later, during the [[Battle of Narak\|Battle of Narak]], after Kaladin says the Third Ideal of the Immortal Words and recognizes himself as a true Knight Radiant, his eyes turn pale blue, lighter than any king. A Knight Radiant's eyes will rapidly lighten when they summon their Shardblade -- once their blade is dismissed, their eyes will fade back to their natural color within a few hours.
 
 ## Origins
@@ -73,7 +72,6 @@ However, for those of very high nahn, the children might slip down in rank until
 ### First nahn
 [[Bashin\|Bashin]], Huntmaster
 ### Second nahn
-[[Kaladin Stormblessed\|Kaladin Stormblessed]], son of a surgeon
 [[Lirin\|Lirin]], surgeon of [[Hearthstone\|Hearthstone]]
 [[Muri\|Muri]], former seamstress of Kholinar
 ### Sixth nahn

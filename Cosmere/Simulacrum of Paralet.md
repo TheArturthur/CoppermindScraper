@@ -1,10 +1,9 @@
 |**Simulacrum of Paralet**|
 |-|-|
 |**Usage**|Statue|
-|**City**|[[Thaylen City\|Thaylen City]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Thaylen City\|Thaylen City]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Simulacrum of Paralet** is a statue in [[Thaylen City\|Thaylen City]] close to the temple of [[Battah\|Battah]].
 It represents an unknown human figure, large enough to require several people to carry its parts and a set of ropes to pull them up.

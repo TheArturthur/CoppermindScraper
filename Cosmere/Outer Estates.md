@@ -1,9 +1,8 @@
 |**Outer Estates**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 The **Outer Estates** is the region immediately beyond the [[Elendel\|Elendel]] suburbs. It is a broad ring of orchards, fields and pastures that feed the city; this flora dwindles as one approaches the suburbs.
 [[Wax\|Wax]] found the quiet, peaceful atmosphere of the Outer Estates to be odd and boring, to the point that it made him somewhat uncomfortable and anxious when they went there to examine the site of the most recent [[Vanishers\|Vanishers]] attack on train cars.

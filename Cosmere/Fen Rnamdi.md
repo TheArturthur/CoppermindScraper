@@ -7,9 +7,8 @@
 |**Titles**|Queen of [[Thaylenah\|Thaylenah]]|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -107,4 +106,4 @@ Her closest personal relation seems to be Kmakl, her consort. He accompanies her
 Thaylenah is kind of a plutocracy, with merchant councils holding a lot of power, which changes its dynamic a little when compared to Alethi or Jah Keved.
 
 
-https://coppermind.net/wiki/Queen_Fen
+https://coppermind.net/wiki/Fen_Rnamdi

@@ -1,8 +1,7 @@
 |**Marci**|
 |-|-|
 |**Groups**|[[Aspect\|Aspect]]|
-|**World**|[[Earth (Legion)\|Earth (Legion)]]|
-|**Featured In**|*Legion*|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 **Marci** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspects\|aspects]].
 [[J.C.\|J.C.]] suggests bringing her along to infiltrate [[Wode\|Walters and Ostman Detention Enterprises]].

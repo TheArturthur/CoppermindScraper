@@ -1,11 +1,11 @@
 |**Abronai**|
 |-|-|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*This is outrageous! The dictates of the Five rule us, not the will of a single person! Can't you see that the form, the new form is overriding her! You've all lost your minds! Or...or worse.*”
 \-Abronai on Eshonai's coup[1]

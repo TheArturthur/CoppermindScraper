@@ -1,9 +1,8 @@
 |**Buissonommes**|
 |-|-|
 |**Profession**|Playwright|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Buissonommes** is a playwright on [[Scadrial\|Scadrial]]. They cowrote the *A Hero for All Ages* operetta with [[Sablerfils\|Sablerfils]] for [[Clarvonne's Theater\|Clarvonne's Theater]].
 

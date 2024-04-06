@@ -3,9 +3,8 @@
 |**Died**|341 [[Catacendre\|PC]]|
 |**Profession**|Butler|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*The city has a large number of constables. And they are quite capable in their jobs. Our house, however, has but one high lord. Thousands depend on you, sir.*”
 \-Tillaume to High Lord Waxillium Ladrian[2]

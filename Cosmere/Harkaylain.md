@@ -1,8 +1,7 @@
 |**Harkaylain**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Harkaylain** is a historical figure on [[Roshar\|Roshar]] who lived during the [[Heraldic Epochs\|Heraldic Epochs]].
 

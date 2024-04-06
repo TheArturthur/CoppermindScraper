@@ -2,9 +2,8 @@
 |-|-|
 |by  Maria Lia Malandrino |
 |**Type**|Mural|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Akinah Dawnshard mural** is a supernatural piece of art in the undersea caverns of [[Aimia\|Aimia]] on [[Roshar\|Roshar]]. It housed a [[Dawnshard\|Dawnshard]] related to Change.
 

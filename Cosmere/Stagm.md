@@ -1,9 +1,8 @@
 |**Stagm**|
 |-|-|
 |**Type**|Tuber|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Stagm** is a brownish tuber native to [[Roshar\|Roshar]].
 It grows in deep puddles.

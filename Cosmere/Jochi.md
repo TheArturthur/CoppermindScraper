@@ -1,12 +1,11 @@
 |**Jochi**|
 |-|-|
 |**Profession**|Baker & Scholar|
-|**Groups**|[[Veristitalian\|Veristitalian]]🐱︎s|
+|**Groups**|[[Veristitalian\|Veristitalians]]|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jochi** is the pen name of a scholar from [[Thaylen City\|Thaylen City]] on [[Roshar\|Roshar]].
 

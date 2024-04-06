@@ -1,9 +1,8 @@
 |**Unknown**|
 |-|-|
 |**Born**|1152|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 Brightlady [[Teshav\|Teshav's]] ward is present during the [[Battle of Narak\|Battle of Narak]]. She is there as a messenger and [[Dalinar\|Dalinar]] charges her with spreading the news that it was time to attack.

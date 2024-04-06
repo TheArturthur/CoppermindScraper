@@ -1,10 +1,11 @@
 |**Hallandren**|
 |-|-|
 |by  Shawn Boyles |
+|**Ethnicity**|Hallandren|
 |**Capital**|[[T'Telir\|T'Telir]]|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|**Ruled by**|God King [[Susebron\|Susebron]]|
+|**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 This page or section would benefit by the addition of imagesPlease add a gallery of images related to this topic in place of this notice.
 
 >“*This, however, was Hallandren: land of Returned gods, Lifeless servants, BioChromatic research, and—of course—color.*”
@@ -15,89 +16,332 @@ This page or section would benefit by the addition of imagesPlease add a gallery
 
 ## Contents
 
-1 Geography
-2 Government and Religion
+1 Etymology
+2 Geography and Ecology
+3 Government
 
-2.1 Court Assembly
+3.1 Theocracy
 
-2.1.1 Main Assembly
-
-
-2.2 Military
-
-
-3 History
-
-3.1 Founding
-3.2 The First Returned
-3.3 Expansion
-3.4 The Manywar
-3.5 The Pahn Kahl Rebellion
+3.1.1 Court Assembly
+3.1.2 Main Assembly
+3.1.3 Territories
+3.1.4 Administrative Districts
 
 
-4 Culture
-5 Economics
-6 Notes
+3.2 The Monarchy
+
+3.2.1 The God King
+3.2.2 The Queen
+3.2.3 Succession
 
 
-## Geography
+3.3 Foreign Policy and International Relationships
+
+3.3.1 Idris
+3.3.2 Tedradel
+3.3.3 The Northern Kingdoms
+
+
+
+
+4 Military
+
+4.1 The Lifeless Army
+4.2 Kalad’s Phantoms
+4.3 Armament
+
+4.3.1 Bladed weapons
+4.3.2 Awakened clothing
+
+
+
+
+5 Culture
+
+5.1 People
+
+5.1.1 Athleticism
+5.1.2 Arts and Games
+
+
+5.2 Fashion and Beauty
+5.3 Biochroma and Awakening
+
+5.3.1 Breaths and Awakening
+5.3.2 The Returned
+5.3.3 Lifeless
+
+
+5.4 Language and Writing
+5.5 Architecture
+5.6 Cuisine
+
+5.6.1 Foods
+5.6.2 Drinks
+
+
+5.7 Calender
+
+
+6 Religions
+
+6.1 The Iridescent Tones
+6.2 Austrism
+6.3 The Pahn Kahl Faith
+
+
+7 Economics
+
+7.1 The Dye Trade
+7.2 Trade Routes
+
+7.2.1 The Bright Sea
+7.2.2 Idris and the Northern Kingdoms
+7.2.3 Perpendicularity and the Cognitive Realm
+
+
+7.3 Politics
+7.4 Currency
+7.5 Agriculture and Animal Husbandry
+
+
+8 History
+
+8.1 Hanald
+8.2 The Manywar and Founding
+8.3 The God Kings
+
+8.3.1 The Treaty With Idris
+8.3.2 The Pahn Kahl Rebellion
+
+
+
+
+9 Notable People
+10 Notes
+
+
+## Etymology
+The meaning of the name *Hallandren* is unknown, but it likely stems from its predecessor kingdom, [[Hanald\|Hanald]]. The kingdom is also known as *The Kingdom of Iridescence*.
+
+## Geography and Ecology
  by  CarloswkArt  [[Vivenna\|Vivenna]] & co entering Hallandren
 >“*A paradise hidden between the mountains, a land with pleasant rains that never grew cold, a land where succulent food grew spontaneously.*”
-\-Hoid telling what the Chedesh thought when they first landed on Hallandren's beaches[2]
+\-Hoid telling what the Chedesh thought when they first landed on Hallandren's beaches[6]
 
 
-Hallandren sits in a valley (the lowlands) bordered by both the [[Bright Sea\|Bright Sea]] and the mountains. Hallandren encompasses a third of the [[Bright Sea\|Bright Sea's]] coastline, and the capital city itself, [[T'Telir\|T'Telir]], sits on the sea and is a major trade center. The [[Tears of Edgli\|Tears of Edgli]] grow only in the soil of Hallandren. This is due to [[Investiture\|Investiture]] seeping into the ground from [[Endowment\|Endowment's]] [[Perpendicularity\|Perpendicularity]]. The valley has a moderate climate that is never too cold and rarely experiences harsh weather. The climate allows food to be grown without difficulty. Powerful earthquakes are a frequent occurrence there.
+ is located in the jungle valley on Nalthis. It is unique in the known world of Nalthis as being the only place that [[Tears of Edgli\|Tears of Edgli]] will grow, as well as being the only known jungle climate. The growth of plants in this region is partly helped by [[Investiture\|Investiture]], much like the [[Elendel Basin\|Elendel Basin]]. The jungle is inhabited by panthers, parrots, monkeys, snakes, and crocodiles. Parts of the jungle are cleared to make room for cropland, where food and dyes are produced.
+To Hallandren's east, there is an inland [[Bright Sea\|sea]] that features several islands. At least a third of the coastline is controlled by Hallandren, which has its [[T'Telir\|capital city]] built abutting the water. The area suffers frequent earthquakes. There are mountains north of Hallandren, as well as toward the sunrise. There is a perpendicularity located in the Hallandren jungle.
+Elephants and zebras are said to be exotic creatures from "the south." Whether this means they come from southern Hallandren or south of Hallandren is unclear.
+The Hallandren people have access to fine wines, sweet potatoes, figs, nuts, and garlic, among other foods; it is unknown, however, how much grows in the area and how much is imported. The Bright Sea is full of life, including many sorts of mussels, fish, and tentacled creatures.
 
-## Government and Religion
+## Government
 >“*The Hallandren theocracy is a top-heavy structure laden with bureaucratic foolishness and inertia.*”
-\-Vasher[9]
+\-Vasher[19]
 
 
-Hallandren is a theocracy ruled by the Pantheon of the [[Returned\|Returned]], headed by the [[God King\|God King]]. The **Iridescent Tones**, which grew out of the [[Cult of the Returned\|Cult of the Returned]], is the religion behind this theocracy, and is responsible for the worship and care of the Hallandren Returned. Each Returned is given a palace in the **Court of Gods** in T'Telir, and served by a group of attendants and priests. The priests organize the interactions between the Returned and the citizens, including the weekly offering of [[Breath\|Breath]] that the Returned require to survive and the daily hearing of petitions.
-As part of the government, each Returned is assigned specific administrative duties, such as maintaining the city sewers or commanding part of the army. The God King can nominally make any decision he pleases, but in reality much of the day-to-day government decisions are made by the priests of the various gods.
+### Theocracy
+Hallandren is a theocracy ruled by the [[Court of Gods\|Pantheon]] of the [[Returned\|Returned]], headed by the [[God King\|God King]] The religion behind this theocracy is the Iridescent Tones. A religion that worships the Returned as gods, and believes they returned to guide and bless their people.
+The [[Returned\|Returned]] have duties and votes on specific matters in the city and the empire. The task of the priesthood is generally to inform the gods of the people’s opinions. The Returned can then make informed decisions, which the priests enforce. In reality the priests handle most of the minor decisions, so that the Returned only vote on the major decisions. This method of government, waiting on debates that must be brought to the gods (who cannot leave the court to be among the people of the city) by the priests, operates notoriously slowly.
+The government loans out [[Lifeless\|Lifeless]] to help citizens with menial labor such as clearing land of trees in order to create farmland. Terms of such a loan stipulate that in war time any food produced on the landowner's land will be seized by the Returned. While this is specific to the policy for lending out the Lifeless, the government retains the right to seize any land during war time regardless.
 
-### Court Assembly
-The Court Assembly is a standing commission of the Court of Gods that provides decisions to Hallandren's citizens. It meets daily to make small judgments, but important discussions are reserved for weekly meetings of the full Assembly. The Assembly is made up primarily of priests and priestesses, and meetings are held in a large arena at the back of the Court of Gods. The Returned do not sit on the Assembly, but many of them regularly attend the weekly meetings to watch from ornate stone observation boxes, including Susebron. Some Returned do not concern themselves with politics and rarely attend, while others find the meetings boring because they believe their opinions do not matter. During Assembly meetings, arguments are brought forth regarding various topics such as relations with Idris; [[Siri\|Siri]] was also presented to the Court at the Assembly. The Assembly's discussions are often full of rhetoric and politically savvy Returned try to influence the direction of the Assembly. Attending the Court Assembly is thought of as a privilege by the people of Hallandren; there are only four benches in the arena for citizens to attend, so only people who are rich, influential, favored by a god, or have at least fifty Breaths attend regularly. Average citizens may enter a lottery to win a token to attend the Assembly.
+
+The Court Assembly is a standing commission of the Court of Gods that provides decisions to Hallandren's citizens. It meets daily to make small judgments, but important discussions are reserved for weekly meetings of the full Assembly. The Assembly is made up primarily of priests and priestesses, and meetings are held in a large arena at the back of the Court of Gods. The Returned do not sit on the Assembly, but many of them regularly attend the weekly meetings to watch from ornate stone observation boxes, including Susebron.
+Some Returned do not concern themselves with politics and rarely attend, while others find the meetings boring because they believe their opinions do not matter. During Assembly meetings, arguments are brought forth regarding various topics such as relations with Idris; [[Siri\|Siri]] was also presented to the Court at the Assembly. The Assembly's discussions are often full of rhetoric and politically savvy Returned try to influence the direction of the Assembly. Attending the Court Assembly is thought of as a privilege by the people of Hallandren; there are only four benches in the arena for citizens to attend, so only people who are rich, influential, favored by a god, or have at least fifty Breaths attend regularly. Average citizens may enter a lottery to win a token to attend the Assembly.
 
 
-The regular Court Assembly is not empowered to make major decisions such as a declaration of war; instead, all of the Returned must attend a gathering known as a "main" or "general" assembly so they can all cast a vote. These special assemblies are rare and often very crowded, as citizens who win lottery tokens to attend an Assembly often save them for a main assembly so they can see all of the gods together.
+The regular Court Assembly is not empowered to make major decisions such as a declaration of war; instead, all of the Returned must attend a gathering known as a "main" or "general" assembly so they can all cast a vote. The outcome of a Main Assembly becomes the Will of the Pantheon. All the gods have the right to refuse the Will of the Pantheon, although it is frowned upon. These special assemblies are rare and often very crowded, as citizens who win lottery tokens to attend an Assembly often save them for a main assembly so they can see all of the gods together.
 
-### Military
-The Hallandren Lifeless army was split into four sections of ten thousand troops, each commanded by a different Returned in the Pantheon. They are kept underground in darkness and have people to maintain and exercise them.
-The commanders prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] were [[Lightsong\|Lightsong]], [[Hopefinder\|Hopefinder]], [[Allmother\|Allmother]] and [[Mercystar\|Mercystar]]. Blushweaver convinced Mercystar to share her command phrase and traded her vote on the council of social ills to Hopefinder in exchange for his command phrase; she later changes both of their command phrases, thus giving her sole control over half of the nation's Lifeless. Blushweaver attempted to do the same with Allmother, but failed to persuade her. Lightsong, however, gained Allmother's trust based on their former association with [[Calmseer\|Calmseer]], and they shared their command phrases with each other. Lightsong withheld these phrases from Blushweaver, and later changed both command phrases to one that only he knew, leaving him with sole control over half the total forces of Hallandren. During the Pahn Kahl rebellion, Blushweaver was tortured by the rebels until she gave them her command phrase. Upon seeing Blushweaver die, Lightsong despondently gave up his new command phrase out of fear for [[Llarimar\|Llarimar's]] life.
-There are also human city guards, but the bulk of the army is still the Lifeless.
 
-## History
-### Founding
-The valley where Halladren is now located was discovered by the sea-faring people of the [[Chedesh\|Chedesh]]. The tropical climate and abundance of food made the region a paradise compared to the mountains and deserts elsewhere. The sailors founded a kingdom known as Hanald on the shores of the Inner Sea. The only other inhabitants of the jungle were the native Pahn Kahl people, whose "kingdom" was in reality a collection of fishing villages.
+Hallandren controls the entire jungle valley, and is bordered by [[Idris\|mountains]] to the north and east. It is also bordered by the [[Bright Sea\|Bright Sea]] and controls about one third of it’s coastline. They also control multiple islands in the Bright Sea.
 
-### The First Returned
-The First Returned, [[Vo\|Vo]], was born during this time. It was the people on his ship who founded Hanald. He declared the [[Five Visions\|Five Visions]] before dying a week later. His wife became the first Queen of Hanald, and governed over the kingdom's early days.
 
-### Expansion
-The [[Tears of Edgli\|Tears of Edgli]] are a unique resource only available in Hallandren. The flowers produce dyes that work in any cloth and have a very vibrant color. The kingdom used this to their advantage, trading the unique dyes to other kingdoms. A vast mercantile effort combined with the opening of the northern passes made Hallandren rich. They controlled a lucrative region, and this gave them powerful bargaining power.
+Hallandren is made up of a number of provinces. The only known province is [[Pahn Kahl\|Pahn Kahl]], a quiet and peaceful province in the south of Hallandren. This province is home to an ethnic group called Pahn Kahl, although this isn’t the only place in Hallandren where these people can be found.
 
-### The Manywar
-For more information, see [[Manywar\|Manywar]].
-Roughly 300 years before the the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], the [[Manywar\|Manywar]] was started by Hallandren. While accounts differ over the real start of the war, they all revolve around the creation of the single-Breath Lifeless and the other discoveries of the [[Five Scholars\|Five Scholars]]. [[Vasher\|Kalad the Usurper]] took control of Hallandren in some fashion, and started the war for unknown reason. Eventually, [[Vasher\|Peacegiver]] stopped the war by bringing [[Kalad's Phantoms\|Kalad's Phantoms]] (which formed the bulk of the army) to take control of the kingdom.
-At the conclusion of the Manywar, the Returned were firmly established as the rulers of Hallandren. Furthermore, the royal family (descendants of the first queen) was exiled to [[Idris\|Idris]]. Peacegiver also gave the first [[God King\|God King]] a treasure of fifty thousand Breaths and entrusted his priests to see that it was cared for until he needed it again.
+### The Monarchy
 
-### The Pahn Kahl Rebellion
-For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
-Three hundred years later, a Pahn Kahl named [[Vahr\|Vahr]] made an attempt at stirring up his people. He spent over a decade working to that that end, but was ultimately captured and imprisoned due to [[Bluefingers\|Bluefingers']] information leaks and killed by Vasher. [[Bluefingers\|Bluefingers]] himself planned an extensive subversive campaign centered around starting a war between Hallandren and Idris: he brought mercenaries and Pahn Kahl Awakeners into the tunnel system below the court, manipulated [[Siri\|Siri]] into distrusting the Hallandren priests, and hired [[Denth's crew\|Denth's crew]] to increase tensions in the city. When his plans were nearing completion, he tortured [[Blushweaver\|Blushweaver]] and [[Lightsong\|Lightsong]] in order to get the Command phrases for Hallandren's Lifeless army, changed the Command phrase, and sent the army towards Idris. The attempted rebellion was defeated when the [[Susebron\|God King]], with his newly healed tongue, used [[Peacegiver's Treasure\|Peacegiver's Treasure]] to storm his palace with an army of Awakened cloths. Vasher decided to give the God King the Command phrase to Kalad's Phantoms, which he then sent after the Lifeless army.
+ by  Shuravf  [[Susebron\|Susebron]], the current God King of Hallandren
+Hallandren has had a monarchy for its entire history, some three hundred years. All of their kings were stillborn, after which they immediately [[Returned\|Returned]] to rule the empire. With the exception of their first king, who is called [[Peacegiver\|Peacegiver]], all of them are named Susebron, with the current king being [[Susebron\|Susebron]] the fifth. Due to their nature as Returned they carry the title of God King.
+The God King has absolute power in Hallandren, although in reality he acts more like a figurehead for the priesthood. The priests also cut out his tongue to prevent him from using his [[Light of Peace\|Breaths]], as their god [[Peacegiver\|Peacegiver]] commanded them to do. The God King resides in a large black palace in the [[Court of Gods\|Court of Gods]]. He can also veto any decision made by the Pantheon of Gods.
+Not all Hallandren consider [[Peacegiver\|Peacegiver]] to have been their first God King, some instead consider Susebron the first as their first king. At least one of the God Kings ruled for a century. The God Kings are believed to have received life from Peacegiver.
+
+
+For most of a God King’s rule the Hallandren are without a queen. This is because a queen is only selected after an infant Returns.
+
+>“*The dynasty of Hallandren was founded at the conclusion of the Manywar, the first one gaining his Breath and life from Peacegiver himself, who was revered for dispelling Kalad’s Phantoms and bringing a peaceful end to the Manywar. Since that day, each God King has fathered a stillborn son who then Returned and took his place.*”
+\-Hoid on the Hallandren Kings[6]
+
+The Queen is formally addressed with ‘Your Majesty’ or ‘Your Excellency’. She is also sometimes addressed as ‘Vessel’ as she is considered to be a Vessel for the God King.
+The Queen has only one duty, to provide the kingdom with an heir. She spends the rest of her time being idle, enjoying the same luxuries as the Returned. She is not allowed to leave the [[Court of Gods\|Court of Gods]]. She is also one of the few people in the Court of Gods who are allowed to touch the God King.
+
+
+The God King’s priests take an infant Returning as a sign that it’s time to change Kings. They then choose a wife for the God King and hope she has a child, as they would rather have the God King's literal child. Sometimes the queen is the actual mother of the child, while other times a marriage is arranged. Retired God King's are proclaimed dead from healing those in need and are taken to one of the isles in the middle of the Inner Sea. They maintain a lavish lifestyle until they die.
+
+### Foreign Policy and International Relationships
+
+>“*They were called rebels, but those “rebels” were the true Hallandren royal family. Mortal men though they might be, their bloodline was a challenge to the Court of Gods.*”
+\-Vasher thinking about the Idrians
+
+Hallandren and [[Idris\|Idris]] have a mostly antagonistic relationship. This is because of a number of reasons, most of which can find their way back to the [[Manywar\|Manywar]]. One of these reasons is the splintering of [[Hanald\|Hanald]], with both kingdoms claiming the other’s territories as their own. Another reason is the Idrian religion of Austrism. This religion, banished after the [[Manywar\|Manywar]], began teaching against everything that had to do with Hallandren, such as ostentation and awakening. Due to these reasons, along with the false stories told by ramblemen, the hatred of Hallandren became deeply rooted in the Idrian culture.
+Many Idrians in the lower mountains were forced out of their homes through famine or lack of money, these Idrians, unwilling to make the long and hard journey to [[Bevalis\|Bevalis]] to petition the king, traveled south into Hallandren and started working here. These people are looked down upon by both the Idrians and the Hallandren.
+After the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] the God King [[Susebron\|Susebron]] the fifth, a friend of the Idrians, took more direct control of Hallandren politics and because of this the relations with Idris likely improved.
+
+
+Since the [[Manywar\|Manywar]], which saw Hanald, the predecessor of Hallandren, and Tedradel go to war with each other Tedradel’s opinion of Hallandren hasn’t improved much. Their opinion of Hallandren is so low that [[Yarda\|Yarda]] considers it possible that Tedradel would go to war again, should Idris be attacked.
+Tedradel still has many traders in T’Telir, and likely other Hallandren cities as well.
+
+
+Hallandren doesn’t have a very great relationship with the Northern Kingdoms. If Hallandren had decided to attack Idris a number of these kingdoms would have aided Idris. Dozens of these kingdoms do not share Hallandren’s views of Idris as a rebel faction.
+Hallandren trades extensively with the Northern kingdoms.
+
+## Military
+### The Lifeless Army
+Hallandren has a large lifeless army, forty thousand strong. They have been adding to this army for several centuries before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+The Hallandren Lifeless army is split into four sections of ten thousand troops, each commanded by a different Returned in the Pantheon. The commanders prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] were [[Lightsong\|Lightsong]], [[Hopefinder\|Hopefinder]], [[Allmother\|Allmother]] and [[Mercystar\|Mercystar]]. some of these Returned are bored by their duty, reasoning that they never have to actually do anything.
+While the bulk of the army is Lifeless, there is quite a large support structure for the army proper which is composed of humans.
+The [[Lifeless\|lifeless]] army resides in the lifeless barracks, located at the bottom of the Court of Gods in T’Telir.. These barracks are heavily fortified, and the lifeless stationed here have orders to kill anyone who attacks the lifeless. The lifeless are kept in the dark.
+
+### Kalad’s Phantoms
+After the events of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] Peacegiver, under the alias of [[Vasher\|Vasher]], granted the security phrase of Kalad’s Phantoms to the God King Susebron. This army includes some thousand soldiers which still function.
+
+### Armament
+
+Most Hallandren use ‘Dueling Blades’ a long and thin type of blade. The Hallandren also use daggers and spears.
+
+
+It is not uncommon for an awakener to [[Awakening\|awaken]] their clothing, helping them fight. There are even specialized sets of clothing made for this very purpose.
 
 ## Culture
-Hallandren and its inhabitants live a very colorful life, as they are sitting on the [[Tears of Edgli\|Tears of Edgli]]. T'Telir, in particular, is famous for having color everywhere and anywhere it can be displayed. Society is fairly well-off, with a middle class that doesn't exist anywhere else with similar technological development.
-Coins in Hallandren are called bits. A single bit would not buy more than a mouthful of food.
-Skilled artists of at least the Third Heightening often write poetry using the [[Artisan's script\|Artisan's script]].
-Hallandren's society places value in athleticism. Duels for sport are common enough that someone talented with a blade could gain a wealth of prizes, notable fame, and a sizable following of students in their lifetime. The Court of Hallandren's arena is often used as a location for athletic individuals to engage in contests of physical prowess. Some arena competitions mentioned are shot put, javelin toss, archery, leaping contests, and races. However, special accolades are not given to the winner, but to all the contestants, for possessing the physical prowess required to participate.
+### People
+Hallandren contains many different peoples and cultures., the majority of the population is ethnic Hallandren, although the kingdom also has a number of [[Pahn Kahl\|Pahn Kahl]] and [[Idris\|Idrians]] living inside it’s borders. The people at the edges of the kingdom of Hallandren have dark skin. The natural hair colors of the Hallandren people include black, brown and blond.
+Hallandren has no nobility apart from the Returned, instead it has a small but very rich class which is almost completely compromised of the most successful merchants, a middle class, and a large peasant class. Hallandren is the only nation on [[Nalthis\|Nalthis]] to have a middle class, instead of only a high and low class.
+Pride is very important to the Hallandren people, and priests are considered to be even more prideful. The Hallandren are also fond of carriages. Although the Returned and their Queen prefer to use palanquins. The Hallandren keep their dead in charnel houses.
+
+
+Hallandren's society places value in athleticism. Duels for sport are common enough that someone talented with a blade could gain a wealth of prizes, notable fame, and a sizable following of students in their lifetime. The Court of Gods’ arena is often used as a location for athletic individuals to engage in contests of physical prowess.
+Some arena competitions mentioned are shot put, javelin toss, archery, leaping contests, and races. However, special accolades are not given to the winner, but to all the contestants, for possessing the physical prowess required to participate.
+
+
+The Hallandren people enjoy music, painting, dance, poetry, sculpture, puppetry, play performance, sandpainting and lots of other ‘lesser’ arts. The Hallandren also have fireworks, and use them to make large fireshows.
+By the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] the abstract painting style is popular, especially in paintings sent to [[Lightsong\|Lightsong]] The Bold. There are a few [[Nenefra\|artists]] who can make a special type of painting, invested people, such as the Returned, can see things in these paintings which aren’t actually there. While normal people see the actual strokes of paint.
+Some wealthy Hallandren play [[Tarachin\|Tarachin]], a notoriously difficult game. Tarachin requires strength to throw the spheres correctly, keen wit to understand where to place them, coordination to do so with the necessary precision, and a great understanding of strategy to pick the proper sphere and dominate the game field.
+
+### Fashion and Beauty
+>“*a hundred different colors and as many different clothing styles were represented. It was good to see some variety again, even if that variety was somewhat garish.*”
+\-Siri thinking about the Hallandren[15]
+
+The Hallandren wear flamboyant and brightly coloured clothing. They wear a wide variety of styles, with each person trying to stand out. Because of this however nobody stands out. Modesty in both design and color is unfashionable, but not nonexistent.
+Hallandren clothing is revealing, with blouses that are open well below the neck, skirts well above the knees etc. Clothing in Hallandren ranges from vests and shorts to long robes and gowns. Some ancient Returned wore robes that hung from only one shoulder with a wrap around their waist that came down to mid-thigh. Ornate hats are popular, both on men and women. Some Hallandren carry umbrellas for when it is raining. Many Hallandren also dye their hair. Clothing is often made from leather, although silk is also used for the rich. A number of women also wear trousers, considered to be utilitarian.
+Hallandren women wear perfumes, either taking perfumed baths or having someone else rub perfume onto the body.  They also have many kinds of make-up, such as lipstick and eyeliner. Some women have a sort of paint on their thighs. Long hair is seen as a sign of beauty.
+Glossy black hair, pale skin and a lusciously curvaceous body are considered by some to be the epitome of female beauty. The Hallandren find both thin and heavy women to be attractive. The epitome of male beauty is large bulging muscles and square jawed features.
+
+### Biochroma and Awakening
+Hallandren is known for it’s research in Biochroma.
+
+
+The Hallandren believes that losing your [[Breath\|Breath]] doesn’t change you much. There is also a very strict breath market. Due to these reasons many people sell their breaths when they need some money. These breaths are often bought by rich people. Most people stop at 50 breaths, at this point they have attained the first heightening, their lifespan is also improved by a good decade or so and their immune system is a lot more effective. They can also do a little bit of [[Awakening\|awakening]] themselves, a useful skill to have. People with more then a thousand breaths are uncommon, but not unheard of.
+Awakened objects performing tasks aren’t uncommon.
+
+
+The [[Returned\|Returned]] also need one breath per week to stay alive. These breaths are usually provided by children. The families who sell their breaths to the Returned are blessed and gain enough money to live a whole year on.
+
+
+[[Lifeless\|Lifeless]] are fairly common in Hallandren, although most people still give them a wide berth. It is common to dress lifeless in grey clothing, matching their skin and marking them as a lifeless.
+People in Hallandren can pay an awakener to make a lifeless. Families can also sell corpses to these people, with the more skilled the person was the higher the cost is going to be.
+
+### Language and Writing
+The Hallandren speak a language called Hallandren.
+The Hallandren have their own Alphabet as well. The first letter of this alphabet is called shash. The Hallandren also use a second script called the [[Artisan's script\|artisan's script]]. This script is a form of writing based on color, each hue representing a different sound. Skilled artists of at least the Third Heightening often write poetry using this script.
+
+### Architecture
+Hallandren has a very diverse architectural style. This style consists of many domes and spires, while pyramids are also used. Almost every building is painted in a bright color.The Hallandren are fond of greenery and build many gardens and open spaces in their cities.
+Some buildings are painted for someone of the Third Heightening, with very minute changes in color. Examples of this are the Returned palaces.
+
+### Cuisine
+
+The Hallandren enjoy a wide variety of foods, including seafoods and sea fruits as well as regular plants and animals. Known sealife includes mussels, fish, and octopi. The Hallandren also like many foreign foods. The Hallandren upper class enjoy eating [[Tinkfan\|tinkfans]], a [[Pahn Kahl\|Pahn Kahl]] delicacy. They like their food spicy.
+
+
+The Hallandren also drink hot tea. A known variety is citrus tea. They also enjoy a wide variety of juices.
+
+### Calender
+The Hallandren may have a calendar which views the [[Manywar\|Manywar]] as the year zero, as Hoid mentions that the time before the Manywar was before time itself began.
+
+## Religions
+Many different religions are worshipped in Hallandren, although most people follow the state religion, the [[Iridescent Tones\|Iridescent Tones]]. Other religions include [[Austrism\|Austrism]] and the Pahn Kahl faith.
+
+### The Iridescent Tones
+The majority of the Hallandren people follow the [[Iridescent Tones\|Iridescent Tones]]. This religion worships the [[Returned\|Returned]] as gods and considers [[Peacegiver\|Peacegiver]] to be a god amongst gods.
+
+ by  Shuravf  [[Lightsong\|Lightsong]], a [[Returned\|Returned]] god of Hallandren.
+The [[Court of Gods\|Court of Gods]] is located in Hallandren, in the city of T’Telir. The Returned gods of Hallandren reside in this Court, supposedly blessing the Hallandren with guidance and good fortune.
+The Iridescent Tones were established in Hallandren shortly after the [[Manywar\|Manywar]]. After this war the Hallandren felt that they had been forsaken by Austre and saved by Peacegiver, and so abandoned Austrism and began worshipping the Returned.
+
+### Austrism
+Most of the Idrians living in Hallandren follow Austrism. This is a monotheistic religion centred around the worship of Austre and the Five Visions. Austrism was practised in Hallandren before the Manywar. Idrians who convert to the Iridescent Tones are called ‘scrapes’ by other Idrians. The term is an epithet that refers to a scratch on a person’s arm revealing the colorful blood underneath.
+
+### The Pahn Kahl Faith
+Most [[Pahn Kahl\|Pahn Kahl]] living in Hallandren follow their own religion. This religion is a kind of nature worship where the storms of the [[Bright Sea\|Bright Sea]] are revered as manifestations of the unity of their five gods. Their religion also focuses more on the Voice that sends back the Returned,
+Many people in Hallandren are unaware of the Pahn Kahl religion, instead assuming them to worship the Returned as well.
 
 ## Economics
-When Hallandren was still known as Hanald, the kingdom had little of note economically, until the [[Tears of Edgli\|Tears of Edgli]] were found. These flowers quickly turned the country into an economic powerhouse. T'Telir's location on the [[Bright Sea\|Bright Sea]] made it easy to access Hallandren textiles and dyes, which quickly turned the city of T'Telir into a prime port and a center of trade for all kingdoms in Nalthis.
-While the Bright Sea's trade routes are a boon to Hallandren, they only connect Hallandren to the southern kingdoms, which do not provide nearly enough income for the kingdom as a whole. For Hallandren to thrive, it needs access to trade routes to the northern kingdoms, which are monopolized by [[Idris\|Idris]]. Bebid postulates that a drawn out war with Idris would cut off their primary trade routes and would lead to "full economic collapse."
-Priests control much of the trade in the city. Being wealthy individuals with notable political power in Hallandren's theocracy, they own and organize a large sum of the traded goods in Hallandren. There were strict rules around buying and selling Breath.
+### The Dye Trade
+Hallandren’s main source of income are the dyes made from the [[Tears of Edgli\|Tears of Edgli]]. These flowers can only be grown in Hallandren, and as such the Hallandren people have a monopoly on them. The Tears of Edgli make excellent dyes, and are far cheaper to produce then other dyes. For these reasons, as well as their use in awakening, they are very desired, far more so then other dyes.
+
+### Trade Routes
+
+Hallandren is located on the western shore of the [[Bright Sea\|Bright Sea]]. This sea contains many trade routes, which are a boon to the kingdoms located on its shores. Hallandren profits a lot from trade with these kingdoms, such as Tedradel.
+Hallandren imports fresh foodstuffs from a number of cities on the coast, and they also import oil. There are many merchants from Tedradel in Hallandren, selling a wide variety of products such as clothing. Hallandren has multiple [[Stormrunners\|Stormrunners]].
+
+
+Hallandren also trades with many other kingdoms, such as the Northern Kingdoms, beyond the mountains. These trade routes run through Idris, making this country very important to Hallandren, one of the reasons they want to control it. [[Bebid\|Bebid]] reasons that should trade with these kingdoms stop, Hallandren would suffer a full economic collapse.
+Hallandren imports carpets from these nations.
+
+
+There is a trade route running through the Hallandren [[Cognitive Realm\|Cognitive Realm]]. This route also runs through the Nalthian [[Perpendicularity\|perpendicularity]], which is located somewhere in Hallandren. It is unknown if the Hallandren government is involved in this trade.
+
+### Politics
+Priests control much of the trade in the city. Being wealthy individuals with notable political power in Hallandren's theocracy, they own and organize a large sum of the traded goods in Hallandren. There are strict rules around buying and selling Breath.
 [[Truthcall\|Truthcall]] is one of the [[Returned\|Returned]] given a vote over issues of trade with other kingdoms. As such, his decisions hold sway over the economics of both Hallandren and its trade partners.
 
+### Currency
+Coins in Hallandren are called marks, with a smaller variety called bits. Five thousand marks is considered to be a fortune, while a single bit would not buy more than a mouthful of food.
+
+### Agriculture and Animal Husbandry
+Hallandren is an agricultural society, with slash and burn techniques. There are a number of Hallandren who clear these forests and then rent them to growers.
+The Hallandren herd livestock such as sheep and cows. They also fish the sea for fish, octopi, mussels and squid.
+
+## History
+### Hanald
+For more information, see [[Hanald\|Hanald]].
+The region that became Hanald was originally populated by the [[Pahn Kahl\|Pahn Kahl]] people. When the people of [[Chedesh\|Chedesh]], who dominated the world at the time, began exploring other parts of the [[Inner Sea\|Inner Sea's]] coastline, a group of their ships discovered this valley filled with jungles. One of the explorers, [[Vo\|Vo]], died and became the first [[Returned\|Returned]] while on one of the ships in the bay. He then died again a week later.
+Dismissive of the native Pahn Kahl, his crewmates founded a kingdom on the site and named it Hanald. This kingdom would grow and expand to become one of the most powerful kingdoms of its age.
+
+### The Manywar and Founding
+For more information, see [[Manywar\|Manywar]].
+After Tensions between the Nalthian kingdoms grew [[Kalad\|Kalad]], then known as [[Strifelover\|Strifelover]], overthrew the Royal Family and seized control of Hanald. Shortly after this he attacked the northern kingdoms of [[Kuth\|Kuth ]] and [[Huth\|Huth]], starting the [[Manywar\|Manywar]].
+After a while Kalad had a change of heart and recalled his troops from their fighting.He used these troops to seize control of his own country and stopped the Manywar through diplomacy. Due to this he got the name Peacegiver.
+During this time the Royal Family fled T’Telir, heading to the northern mountains, and established the kingdom of Idris. After their departure the Cult of the Returned took control of the new nation, renaming it Hallandren. Their religion eventually evolved into the [[Iridescent Tones\|Iridescent Tones]] and became the norm within Hallandren's territory. The only notable exception was Pahn Kahl, which was absorbed into the new nation of Hallandren as a province, where the people retained their own religion and culture. The conclusion of the Manywar was also the foundation for Hallandren's power in the region of the [[Bright Sea\|Bright Sea]] in the modern post-war era. Peacegiver also gave the first [[God King\|God King]] a treasure of fifty thousand Breaths and entrusted his priests to see that it was cared for until he needed it again.
+
+### The God Kings
+
+The king [[Dedelin\|Dedelin]] negotiated a treaty with [[Susebron\|Susebron]], promising to send his daughter (ostensibly [[Vivenna\|Vivenna]], though this was not stated specifically) to the [[Court of Gods\|Court of Gods]] to marry him when Vivenna turned twenty-two, thereby reintroducing the bloodline of the royals into Hallandren's own ruling line.
+He couldn’t bring himself to send [[Vivenna\|Vivenna]] to Hallandren though, so instead he sent [[Sisirinah\|Sisirinah]], who would go on to become queen of the Hallandren.
 
 
-https://coppermind.net/wiki/Iridescent_Tones
+For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+Three hundred years after the [[Manywar\|Manywar]], a Pahn Kahl named [[Vahr\|Vahr]] made an attempt at stirring up his people. He spent over a decade working to that that end, but was ultimately captured and imprisoned due to [[Bluefingers\|Bluefingers']] information leaks and killed by Vasher.
+[[Bluefingers\|Bluefingers]] himself planned an extensive subversive campaign centered around starting a war between Hallandren and Idris: he brought mercenaries and Pahn Kahl Awakeners into the tunnel system below the court, manipulated [[Siri\|Siri]] into distrusting the Hallandren priests, and hired [[Denth's crew\|Denth's crew]] to increase tensions in the city. When his plans were nearing completion, he tortured [[Blushweaver\|Blushweaver]] and [[Lightsong\|Lightsong]] in order to get the Command phrases for Hallandren's Lifeless army, changed the Command phrase, and sent the army towards Idris. The attempted rebellion was defeated when the [[Susebron\|God King]], with his newly healed tongue, used [[Peacegiver's Treasure\|Peacegiver's Treasure]] to storm his palace with an army of Awakened cloths. Vasher decided to give the God King the Command phrase to Kalad's Phantoms, which he then sent after the Lifeless army.
+
+## Notable People
+
+[[Susebron\|Susebron]]
+[[Sisirinah\|Sisirinah]]
+[[Blushweaver\|Blushweaver]]
+[[Lightsong\|Lightsong]]
+[[Treledees\|Treledees]]
+[[Jewels\|Jewels]]
+
+
+
+https://coppermind.net/wiki/Hallandren

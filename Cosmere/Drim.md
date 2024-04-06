@@ -1,9 +1,8 @@
 |**Drim**|
 |-|-|
 |**Died**|Killed by [[Paalm\|Paalm]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Drim** is Governor [[Replar Innate\|Replar Innate's]] head bodyguard and head of security.
 

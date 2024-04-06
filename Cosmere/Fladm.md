@@ -4,9 +4,8 @@
 |**Profession**|Security guard|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Fladm** is a guard at the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] in [[Thaylen City\|Thaylen City]] on [[Roshar\|Roshar]].
 

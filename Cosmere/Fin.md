@@ -3,9 +3,8 @@
 |**Profession**|Groom|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Fin** is a groom in the employ of King [[Elhokar Kholin\|Elhokar Kholin]] during the [[War of Reckoning\|War of Reckoning]] on [[Roshar\|Roshar]].
 He is around twelve years old. He is [[Darkeyed\|darkeyed]], and has sandy hair with a few hints of black.

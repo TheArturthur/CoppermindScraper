@@ -1,17 +1,16 @@
 |**Kalanor**|
 |-|-|
 |**Family**|
-|**Relatives**|[[Loradar Vamah\|Loradar Vamah]]|
+|**Relatives**|[[Loradar Vamah\|Loradar Vamah]], [[Paladar\|Paladar]]|
 |**Ancestors**|[[Sadees\|Sadees]]|
-|**Died**|Killed by Dalinar c. 1145|
+|**Died**|Killed by [[Dalinar Kholin\|Dalinar Kholin]] c. 1145|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|[[Highprince\|Highprince]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Kalanor** is an [[Alethi\|Alethi]] [[Highprince\|highprince]] on [[Roshar\|Roshar]]. He was a ruler of a region of western Alethkar, including the lands that became known as [[Vamah princedom\|Vamah princedom]].
+**Kalanor** is an [[Alethi\|Alethi]] [[Highprince\|highprince]] on [[Roshar\|Roshar]]. He is a ruler of a region of western Alethkar, including the lands that became known as [[Vamah princedom\|Vamah princedom]], until his death.
 
 ## Contents
 

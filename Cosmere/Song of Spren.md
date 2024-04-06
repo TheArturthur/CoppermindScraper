@@ -1,9 +1,8 @@
 |**Song of Spren**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Song of Spren** is one of songs detailing the oral history of the [[Listener\|listeners]]. It discusses [[Spren\|spren]], [[Surge\|Surges]], and the relationship between those and the listeners.
 

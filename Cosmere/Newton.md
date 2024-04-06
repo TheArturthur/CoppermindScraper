@@ -4,8 +4,7 @@
 |**Aliases**|Yunmi Park|
 |**Powers**|[[Epic\|Epic]]|
 |**Residence**|[[Babilar\|Babilar]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Firefight*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
 **Newton** is an [[Epic\|Epic]] that serves [[Regalia\|Regalia]] in [[Babilar\|Babilar]]. Prior to becoming an Epic, she was known as **Yunmi Park**.

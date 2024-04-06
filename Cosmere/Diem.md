@@ -1,13 +1,13 @@
 |**Diem**|
 |-|-|
+|by  Ben McSweeney |
 |**Leader**|Lord Mastrell [[Kenton\|Kenton]]|
 |**Headquarters**|The Diem|
-|**World**|[[Taldain\|Taldain]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
-This page or section needs to be updated with new information for *White Sand Volume 2*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
 
-The **Diem** refers to both the Profession of [[Sand mastery\|sand masters]], known formally as the **Diem of the Sand**, and the building used as their headquarters. The Diem of the Sand is one of the eight recognized [[Lossand\|Lossandin]] Professions. The [[Kerztian\|Kerztian]] word for sand master is **Ry'Kensha**. It is led by the Lord Mastrell. The current Lord Mastrell is [[Kenton\|Kenton]]
+The **Diem** refers to both the Profession of [[Sand mastery\|sand masters]], known formally as the **Diem of the Sand**, and the building used as their headquarters. The Diem of the Sand is one of the eight recognized [[Lossand\|Lossandin]] Professions. The [[Kerztian\|Kerztian]] word for sand master is **Ry'Kensha**. It is led by the Lord Mastrell. The current Lord Mastrell is [[Kenton\|Kenton]].
 
 ## Contents
 
@@ -15,8 +15,9 @@ The **Diem** refers to both the Profession of [[Sand mastery\|sand masters]], kn
 2 Guild recruitment
 3 Organization
 4 The Diem's Future
-5 Trivia
-6 Notes
+5 Notable Members
+6 Trivia
+7 Notes
 
 
 ## Headquarters
@@ -31,26 +32,40 @@ The Diem is located on the outskirts of [[Kezare\|Kezare]]. It includes housing 
 Lossandin children who wish to gain entry into the Diem of the Sand and become sand masters are subjected to a demanding entrance exam. Those who display any talent at all are entitled by law to enter the guild with the rank of acolent, although those of very weak talent are discouraged from entering. Once a student is accepted as an acolent, they are trained in the ways of sand mastery until they are deemed worthy for advancement into one of the seven permanent sand master ranks by the Lord Mastrell. It takes approximately four years for a child to graduate into the permanent ranks, although it may take longer for those who are weak or who refuse the initial advancement.
 
 ## Organization
-The sand masters maintain a strict hierarchy of ranks. All sand masters wear a colored sash at their waist indicating their rank. Ranks are permanent upon advancement from acolent. The sole criteria for advancement is one's ability in sand mastery. The Lord Mastrell, himself a mastrell, leads the Diem and serves as [[Taisha\|Taisha]] for the Sand Profession.
-The Diem's ranks are:
+The sand masters maintain a strict hierarchy of ranks. All sand masters wear a colored sash at their waist indicating their rank. Ranks are permanent upon advancement from acolent. The sole criteria for advancement is one's ability in sand mastery, typically categorized by how many ribbons they can control. The Lord Mastrell, himself a mastrell, leads the Diem and serves as [[Taisha\|Taisha]] for the Sand Profession. Recruits seeking acceptance into the Diem wear brown robes and sashes.
 
-Mastrell (golden sash)
-Undermastrell (yellow sash)
-Lesstrell (gray sash)
-Underlesstrell (blue sash)
-Diemfen (brown sash)
-Fen (tan sash)
-Underfen (cream sash)
-Acolent (white sash)
+|**Diem Ranks**|
+|-|-|
+|**Title**|**Sash Color**|**Ribbons required**|
+|Recruit|Brown Robes||
+|Acolent|White|Bond|
+|Underfen|Gray|1|
+|Fen|Green|2-5|
+|Diemfen|Blue|4-7|
+|Underlestrell|Purple|6-10|
+|Lestrell|Red|9-12|
+|Undermastrell|Orange|11-14|
+|Mastrell|Gold|15 or greater|
+|Lord Mastrell|Gold|Election|
+
 ## The Diem's Future
 >“*The Diem is not well liked here. It is in debt and, from what I have seen, you will have a difficult time bringing the other sand masters to heel.*”
-\-Lady Heelis to Kenton[4]
+\-Lady Heelis to Kenton[5]
+
 
 Public opinion of the Diem is currently very poor. The sand masters are known for being prideful and arrogant. The Diem has also taken on a significant amount of debt while producing little of value for society in quite some time. These complaints have led the [[Taishin\|Taishin]] to vote in favor of permanently disbanding the Diem's official status in Lossand. The vote was declared void and delayed for two weeks as Kenton, the acting Lord Mastrell, was not properly informed beforehand.
+
+## Notable Members
+
+[[Kenton\|Kenton]]: Current Lord Mastrell
+[[Praxton\|Praxton]]: Lord Mastrell before Kenton
+[[Drile\|Drile]]: Undermastrell
+[[Elorin\|Elorin]]: Undermastrell who betrayed the Diem
+[[Dirin\|Dirin]]: Undermastrell, Kenton's Friend
 
 ## Trivia
 The word "diem" means "day" in Latin.
 The Diem at one stage noticed and began investigating the presence of Hoid.
 
 
-https://coppermind.net/wiki/Diem
+https://coppermind.net/wiki/Mastrell

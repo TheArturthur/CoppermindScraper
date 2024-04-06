@@ -2,9 +2,8 @@
 |-|-|
 |by  Rachel J Corey |
 |**Species**|[[Ryshadium\|Ryshadium]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Gallant** is [[Dalinar Kholin\|Dalinar Kholin's]] [[Ryshadium\|Ryshadium]] steed on [[Roshar\|Roshar]].
 

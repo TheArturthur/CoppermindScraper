@@ -2,12 +2,12 @@
 |-|-|
 |**Died**|Poisoned by [[Denth\|Denth]]|
 |**Abilities**|[[Awakener\|Awakener]]|
-|**Religion**|[[Austrism\|Austrism]]🐱︎|
+|**Religion**|[[Austrism\|Austrism]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
+|**First Appeared**|*Warbreaker*|
 
 >“*I’ve gained notoriety through abusing the souls of others. And now I’m dying.*”
 \-Lemex's dying confession to Vivenna[2]
@@ -37,6 +37,8 @@ Lemex is a crafty, intelligent man in his fifties, an age which is considered ol
 
 
 Lemex established himself in T'Telir as a spy in King Dedelin's service. The king funded the purchase of fifty Breaths for Lemex for the purpose of granting the man access to court assemblies, after which Lemex began fudging numbers in his expense reports, pocketing the extra money and using much of it to buy more Breaths for himself. The looming threat of war also contributed to the king's decision to send Lemex even greater resources. After [[Bluefingers\|Bluefingers]] hired [[Denth's crew\|Denth's crew]] to aid in inciting war between Hallandren and Idris, the crew sought out employment under Lemex as an in with the Idrian community. [[Denth\|Denth]] began deftly manipulating Lemex into unwittingly aiding the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] while making it seem like he was helping Idris. However, after some time Lemex began to grow less tractable; this together with the news of Vivenna's imminent arrival precipitated Denth's decision to poison Lemex.
+
+ by  Jessica Liu  Giving his [[Breath\|Breaths]] to [[Vivenna\|Vivenna]]
 On their way to T'Telir, Vivenna and [[Parlin\|Parlin]] arranged via letter to meet with Lemex, whom Vivenna hoped to use as a mentor during her time in the city. When they arrived at the restaurant chosen for their meeting place, they were instead met by his employees, two mercenaries named Denth and [[Tonk Fah\|Tonk Fah]]. The men took Vivenna to see Lemex, who was bed-ridden, feverish and pale. Denth claimed Lemex had fallen ill, though the roughly five hundred Breaths the man had accumulated while living in T'Telir rendered him immune to all disease. In reality, Denth had been poisoning Lemex for some time. Lemex regained lucidity long enough to have a short conversation with Vivenna in which he admitted that after inheriting Breaths from his predecessor, despite feeling it was wrong, he continued to seek out and buy more Breaths. Undeterred by Vivenna's attempts to ask him for names and passcodes to allow her access to the Idrian spy network, he remained fixated on his wrongdoing and kept discussing his Breaths. He gave them to Vivenna, who desperately did not want to take them; then, having lost the Breaths' resistance to poison, he died quickly.
 Denth claimed that Lemex was embezzling from Idris, a claim that the paperwork in Lemex's house substantiated. When Denth's crew searched his house, they found five thousand gold marks hidden in various places as well as an assortment of papers and letters documenting Lemex's plans and his correspondence with King Dedelin. Vivenna decided to continue Lemex's work, not realizing that many of his plans to disrupt Hallandren's ability to wage war fell in line with Denth's plans to exacerbate tensions between the two nations.
 

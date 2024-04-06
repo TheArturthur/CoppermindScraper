@@ -1,8 +1,7 @@
 |**MaiPon**|
 |-|-|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 **MaiPon** is a sub-state of the [[Rose Empire\|Rose Empire]] on the planet of [[Sel\|Sel]]. It was absorbed into the Rose Empire long prior to the events of [[The Emperor's Soul\|The Emperor's Soul]].
 MaiPon is the homeland of [[Forgery\|Forgery]]. Because [[Investiture\|Investiture]] on Sel is concentrated in the [[Cognitive Realm\|Cognitive Realm]], and thus dependent on geographic location, the power of a Forgery diminishes the further a forgery is from MaiPon, similar to how the Elantrian Aons function. All Forgeries include a lithograph resembling MaiPon on the reverse side of the stamp.

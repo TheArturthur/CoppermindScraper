@@ -3,9 +3,8 @@
 |**Type**|Religious/philosophical text|
 |**Author**|[[Keseg\|Keseg]]|
 |**Language**|[[JinDo\|JinDo]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The *Do-Kando* is the ancient holy book of [[Shu-Keseg\|Shu-Keseg]], a religion on [[Sel\|Sel]].
 

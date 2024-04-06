@@ -2,11 +2,10 @@
 |-|-|
 |**Titles**|Head of His Majesty’s Silent Gatherers|
 |**Profession**|Researcher|
-|**Groups**|[[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Diagram (group)\|Diagram]]|
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Joshor** is the head of King [[Taravangian\|Taravangian's]] [[Silent Gatherer\|Silent Gatherers]] on [[Roshar\|Roshar]].
 

@@ -6,9 +6,8 @@
 |**Religion**|[[Vorinism\|Vorinism]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*It's not a disaster, Brightness, but there’s so much to worry about.*”
 \-Falilar[2]

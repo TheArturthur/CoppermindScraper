@@ -1,9 +1,8 @@
 |**Cult of Returned**|
 |-|-|
 |**Related to**|[[Returned\|Returned]], [[Iridescent Tones\|Iridescent Tones]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 The **Cult of Returned** was a religion on [[Nalthis\|Nalthis]] and the precursor to the [[Iridescent Tones\|Iridescent Tones]], the theocratic government of [[Hallandren\|Hallandren]].
 

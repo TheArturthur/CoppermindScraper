@@ -2,11 +2,10 @@
 |-|-|
 |by  Jill Andersen |
 |**Abilities**|[[Cytonics\|Cytonics]]|
-|**World**|[[Starsight (station)\|Starsight]]|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It seethed inside me for years, a molten pit, burning like destructor fire. That's when I realized the Superiority was right. I was dangerous. Very, very dangerous.*”
 \-Brade on how she felt after being taken from her biological parents.[1]
@@ -30,6 +29,11 @@ Brade was taken from her parents at the age of seven and her upbringing was over
 4.1 Winzik
 4.2 Spensa
 4.3 Flowers of Night's Last Kiss Flight
+
+4.3.1 Morriumur
+4.3.2 Vapor
+
+
 
 
 5 Notes
@@ -90,7 +94,7 @@ After the delver disappeared, Winzik enacted his coup, in fear of the truth ge
 \-Brade, defending Winzik from Spensa's verbal assault.[1]
 
 
-Brade is loyal to Winzik to a fault, due to his oversight of her upbringing. He has brainwashed her into believing that he is a genius and cannot make mistakes, and that humans are vile and despicable creatures, and that he alone can save her from their savagery she would have fallen to had she stayed with her parents. Sometimes Winzik uses her to intimidate people because she is a human being, and they collaborated to develop the cytonic coordinates planting weapon that was to be used on the delver. Brade was also a conspirator in Winzik's planned coup, but believed that Winzik was getting rid of a valuable asset in Spensa by trying to have her killed.
+Brade is loyal to Winzik to a fault, due to his oversight of her upbringing. He has brainwashed her into believing that he is a genius and cannot make mistakes, and that humans are vile and despicable creatures, and that he alone can save her from their savagery she would have fallen too had she stayed with her parents. Sometimes Winzik uses her to intimidate people because she is a human being, and they collaborated to develop the cytonic coordinates planting weapon that was to be used on the delver. Brade was also a conspirator in Winzik's planned coup, but believed that Winzik was getting rid of a valuable asset in Spensa by trying to have her killed.
 
 ### Spensa
 >“*Our people? What are they to me? You seem so hung up on the idea that I should owe those humans on Detritus something, just because we share a distant heritage. My opportunities are here. Winzik wants you dead. He rightly sees you as a threat. Your only hope is to come with me, and let me persuade him you can still be of use.*”
@@ -110,8 +114,12 @@ Brade's final confrontation with Spensa comes when she saves Spensa's life by sh
 
 Brade enters the Delver Resistance Program with a poor opinion of flying with a flight, preferring to fly on her own and take on all of her enemies at once - a product of her arrogance and competitiveness. Brade is aloof while with her flight, not conversing with the rest of them in the jump room while waiting for the Weights and Measures to hyperjump, or on their general comm line while training at the delver maze. Gradually, she begins to see the value of being part of a flight, with structured leadership and flightmates who have different skill sets that cover her weaknesses.
 
-Morriumur: Brade light-lances Morriumur into an asteroid during the tryout for the Delver Resistance Program, whether they come to terms on this bad interaction, or whether either of them remembered who each other were when they were put in the flight is unclear.
-[[Vapor\|Vapor]]: Brade and Vapor might have a strained relationship, due to Vapor being an agent of Cuna, Winzik's main rival. Vapor was Brade's flightleader in Flower's of Nights Last Kiss during their training period in the Delver Resistance Program.
+
+Brade light-lances [[Morriumur\|Morriumur]] into an asteroid during the tryout for the Delver Resistance Program, whether they come to terms on this bad interaction, or whether either of them remembered who each other were when they were put in the flight is unclear.
+
+
+Brade and [[Vapor\|Vapor]] might have a strained relationship, due to Vapor being an agent of Cuna, Winzik's main rival. Vapor was Brade's flightleader in Flower's of Nights Last Kiss during their training period in the Delver Resistance Program.
+
 
 
 https://coppermind.net/wiki/Brade_Shimabukuro

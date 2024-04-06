@@ -4,9 +4,9 @@
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]]|
 |**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Herald of Luck, Herald of Mysteries, Binder of Gods, Patron of the [[Order of Bondsmiths\|Bondsmiths]], Creator of the [[Oathpact\|Oathpact]], Tezim the Great, Herald of Heralds|
 |**Aliases**|Ishi, Tashi, Tezim, Ishu-son-God|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -81,13 +81,13 @@ As Tezim, Ishar refuses to participate in [[Dalinar\|Dalinar's]] alliance and de
 \-The Stormfather[1]
 
 
-Like most of the Heralds, Ishar was born prior to mankind's arrival on [[Roshar\|Roshar]], and was the first to be tricked by Odium into experimenting with the Surges that eventually forced the population of [[Ashyn\|Ashyn]] to flee to Roshar. When relations with the native Rosharan [[Singer\|singers]] broke down and the [[Fused\|Fused]] started to appear, Ishar, along with nine other people, was raised to a Herald by [[Honor\|Honor]], creating the [[Oathpact\|Oathpact]]. Ishar's part in the Oathpact appears to have been larger than that of the other Heralds, as he is called its founder.
+Like most of the Heralds, Ishar was born prior to mankind's arrival on [[Roshar\|Roshar]], and was the first to be tricked by Odium into experimenting with the Surges that eventually forced the population of [[Ashyn\|Ashyn]] to flee to Roshar. He was also the first human on Ashyn to discover how to [[Worldhop\|worldhop]], enabling humanity to leave the planet when they needed to flee. When relations with the native Rosharan [[Singer\|singers]] broke down and the [[Fused\|Fused]] started to appear, Ishar, along with nine other people, was raised to a Herald by [[Honor\|Honor]], creating the [[Oathpact\|Oathpact]]. Ishar's part in the Oathpact appears to have been larger than that of the other Heralds, as he is called its founder.
 The Oathpact demanded that to stop the [[Desolation\|Desolations]], the Heralds had to travel to [[Braize\|Braize]] after each one ended. This led to them being tortured until at least one broke, sending them all -- and a Desolation -- back to Roshar. It was during one of those cycles that [[Surgebinder\|Surgebinders]] began appearing. Ishar was instrumental in transforming this scattered group into the [[Knights Radiant\|Knights Radiant]], although what precisely he used, other than threats of death and destruction upon those who wouldn't obey, is unknown. During that time, he also sought a way to preserve information between the Desolations.
 Eventually, however, the Heralds had had enough of their endless torture. After a Desolation in which only [[Taln\|Taln]] died in battle, Ishar suggested that one person may be enough to keep the following Desolations at bay. And so, the nine agreed to abandon the Oathpact, leaving Taln to suffer alone for over four and a half thousand years.
 
 ### Post-Aharietiam
 >“*Tashi doesn't care much for what you do here. In fact, I’d pray that he doesn’t reach your city, as I doubt you’d like the consequences.*”
-\-Nale[19]
+\-Nale[20]
 
 
  by  Nozomi  One of the spren, a [[Cryptic\|Cryptic]], Ishar has experimented on
@@ -116,4 +116,4 @@ The phrase "Ishar's soul" has so far only been used by [[Adolin Kholin\|Adolin K
 Ishar's portrait used in the chapter arches is called the Priest by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
 
 
-https://coppermind.net/wiki/Ishar
+https://coppermind.net/wiki/Tezim

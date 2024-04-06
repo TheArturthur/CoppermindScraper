@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Bounty Hunter|
 |**Residence**|[[Forests of Hell\|The Forests of Hell]]|
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Bloody Kent** is a fabled bounty hunter on [[Threnody\|Threnody]].
 

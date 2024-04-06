@@ -3,11 +3,10 @@
 |**Family**|
 |**Relatives**|[[Gvori\|Gvori]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Taravangian's granddaughter]]|
 |**Ancestors**|[[Taravangian\|Taravangian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Karavaniga** is [[Taravangian\|Taravangian's]] middle granddaughter.
+**Karavaniga** is [[Taravangian\|Taravangian's]] middle granddaughter and is named after him.
 She was accepted for wardship, and had sketched an image of her, [[Ruli\|Ruli]], and [[Gvori\|Gvori]], which had been sent to [[Taravangian\|Taravangian]].
 
 

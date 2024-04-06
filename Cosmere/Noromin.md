@@ -3,12 +3,11 @@
 |**Died**|[[Battle of Kholinar\|Battle of Kholinar]], 1174|
 |**Aliases**|Noro|
 |**Profession**|Lieutenant|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Noromin** (usually **Noro**) is an [[Alethi\|Alethi]] soldier on [[Roshar\|Roshar]]. He is a lieutenant in the [[Kholinar Wall Guard\|Kholinar Wall Guard]] and the commander of Squad Two within Platoon Seven.
 
@@ -33,4 +32,4 @@ Noro was present with the rest of his squad when Azure allowed Kaladin into the 
 
 
 
-https://coppermind.net/wiki/Noromin
+https://coppermind.net/wiki/Noro

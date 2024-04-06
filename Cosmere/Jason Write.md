@@ -5,11 +5,11 @@
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Aliases**|Elton Flippenday, John Smith|
 |**Groups**|[[Phone Company\|Phone Company]]|
-|**World**|[[Earth (Skyward)\|Earth (Skyward)]]|
+|**Homeworld**|[[Earth (Skyward)\|Earth (Skyward)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium, Skyward (series)*|
+|**First Appeared**|*Defending Elysium*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Jason Write** is the head operative of the [[Phone Company\|Phone Company]].
 
@@ -21,7 +21,8 @@ This page or section needs to be updated with new information for *Cytonic*!Be 
 
 3.1 Early Life
 3.2 Denise Investigation (2211)
-3.3 Legacy
+3.3 Later Years & Death
+3.4 Legacy
 
 
 4 Relationships
@@ -56,6 +57,9 @@ Jason and Lanna have a conversation, during which he questions why Denise would 
 Jason wakes up and realizes that his Sense somehow is turned off, and begins to panic. He hears a voice with a strange accent asking him how he read the man's mind earlier. Jason tries to contact Lanna, only to be told that the link has been cut. The voice warns him that if he doesn't have an answer in three minutes, he will kill Denise, then leaves. Jason tries to suppress his growing fear, and thinks back to a time when Sonn told him of cytonic suppression devices, then realizing that many cytonic devices have mechanical components. Jason then uses his earpiece to contact Coln, whose presence was not planned for, telling him to knock out the power, however temporarily. Coln complies, and Jason uses the momentary return of his Sense to create mindblades and destroy some of his surroundings, before telling Coln to take Denise and run.
 The voice comes back on some nearby speakers, before coming over in person and introducing himself as [[Edmund (Cytonic)\|Edmund]], one of Jason's old recruits. Edmund tells him that the cafe shooting from earlier was a test of his abilities. They start fighting with mindblades, and Jason soon finds himself outmatched. Jason bluffs and guesses that Edmund learned from the varvax, which is revealed as false. As Edmund prepares to deliver a series of blows he cannot block, Jason turns his Sense inward and teleports with his hand inside Edmund's chest. He kills the man by stopping his heart, and as Edmund dies, he tells Jason that the reason for the invention of cytonic suppression devices is to keep dissenters among the aliens imprisoned. Jason tries to declare that he is lying, but finds his faith shaken.
 Jason tells Coln to bring Denise over, and he takes them back to Phone Company headquarters on Earth. He explains to Coln that FTL capabilities are powered by cytonics rather than technology. Lanna comes in, and Jason introduces her as his wife, to Coln's surprise. As medics start attending to him, Jason contacts Sonn through holovid, asking if the varvax lock their discontents away. Sonn confirms this, and says other races do this as well. Jason is shocked by the revelation, now realizing that the ambassador, a discontent, was the one who initiated the swap with Denise to infiltrate human society, rather than the other way around, in hopes of getting their hands on human technology, which is superior to the aliens'. He cuts the link and tells Lanna to prepare a press release announcing that the Phone Company has finally developed FTL travel.
+
+### Later Years & Death
+After Jason's wife died he created an AI based on her memories and personality. Learning that AIs could develop emotions in the [[Nowhere\|Nowhere]], he brought her orb in, in hope to bring sapience to the Lanna-AI. After Jason's death, the recently turned sapient AI returned to the Nowhere, where - unable to cope with Jason's death - she replicated herself thousands of times to create the hive-mind of Delvers; beings opposed to change and greatly despising anything outside of the Nowhere.
 
 ### Legacy
 The Writellum section of the brain appears to be named after him.

@@ -1,29 +1,19 @@
 |**Curveball**|
 |-|-|
+|**Died**|Shot by [[Megan Tarash\|Megan Tarash]]|
 |**Abilities**|[[Epic\|Epic]]|
 |**Aliases**|Donny Harrison|
 |**Residence**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-**Curveball** was an [[Epic\|Epic]] in [[Newcago\|Newcago]]. Before he became an Epic he was named **Donny Harrison**. He was killed in the events surrounding the assassination of [[Fortuity\|Fortuity]].
-
-## Contents
-
-1 Attributes and Abilities
-
-1.1 Epic Abilities
-
-
-2 History
-3 Notes
-
+**Curveball** is an [[Epic\|Epic]] in [[Newcago\|Newcago]]. His real name is **Donny Harrison**. He is a bodyguard and hitman who works for [[Steelheart\|Steelheart]].
 
 ## Attributes and Abilities
-### Epic Abilities
+Curveball's Epic ability allows him to continually shoot bullets from any handgun without ever running out of ammunition.
+Though it is his primary weapon, Curveball is not actually a good shot, relying on quantity of bullets rather than aiming well. He holds his gun sideways out in front of him, further worsening his aim.
 
 ## History
-The Reckoners planned to neutralize Fortuity, an infamous [[High Epic\|High Epic]]. While [[Megan Tarash\|Megan]] was trying to lure Fortuity into a trap, Curveball appeared and gestured Fortuity to go back to Reeve Playhouse, interrupting Reckoners' scheme. Seeing an opportunity to meet his heroes, David showed up to distract Curveball. However, Curveball saw through his lie, and a gun fight broke out. Even though he had endless bullets, he wasn't that great of a shot. Curveball was killed by Megan.
+The Reckoners planned to neutralize Fortuity, an infamous [[High Epic\|High Epic]]. While [[Megan Tarash\|Megan]] was trying to lure Fortuity into a trap, Curveball appeared and gestured Fortuity to go back to Reeve Playhouse, interrupting Reckoners' scheme. Seeing an opportunity to meet his heroes, David showed up to distract Curveball. However, Curveball saw through his lie, and a gun fight broke out. Even though he had endless bullets, he wasn't able to hit David due to his poor aim. Megan shot Curveball, killing him.
 
 
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Head of staff|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Limmi** is the head of the ground-floor staff for [[House Ladrian\|House Ladrian]] on [[Scadrial\|Scadrial]].
 

@@ -1,9 +1,8 @@
 |**Mrs. Chamwit**|
 |-|-|
 |**Species**|[[Varvax\|Varvax]]|
-|**World**|[[Starsight (station)\|Starsight]]|
+|**Homeworld**|[[Starsight (station)\|Starsight]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*Well...maybe I could work those into a side dish? Or maybe just make you a dessert?*”
 \-Mrs. Chamwit, offering to bake something for Spensa instead of her algae strips.[1]
@@ -29,7 +28,7 @@ Mrs. **Chamwit** is a [[Varvax\|varvax]] who lives on [[Starsight (station)\|Sta
 Mrs. Chamwit floats in a brown sandstone carapace, and is typically equipped with a belt filled with cleaning tools. Mrs. Chamwit is very kind and apologetic, and becomes disappointed when she thinks Spensa does not find her work satisfactory. Mrs. Chamwit, like most varvax, is extremely nonaggressive and finds those who are aggressive as odd.
 
 ## Attributes and Abilities
-Mrs. Chamwit is a skilled cleaner, evident in the fact that she was hired by the head of the Department of Species Integration, Cuna, to care for the embassy of a species new to the [[Superiority\|Superiority]]. Mrs. Chamwit is also known to be able to assemble a cleaning drone. Mrs. Chamwit is also a skilled chef, making a a delicious [[Akokian pudding\|Akokian pudding]] for Spensa to eat after one of her training sessions in the Delver Resistance Program. Mrs. Chamwit enjoys doing word puzzles on her tablet.
+Mrs. Chamwit is a skilled cleaner, evident in the fact that she was hired by the head of the Department of Species Integration, Cuna, to care for the embassy of a species new to the [[Superiority\|Superiority]]. Mrs. Chamwit is also known to be able to assemble a cleaning drone. Mrs. Chamwit is also a skilled chef, making a delicious [[Akokian pudding\|Akokian pudding]] for Spensa to eat after one of her training sessions in the Delver Resistance Program. Mrs. Chamwit enjoys doing word puzzles on her tablet.
 
 ## History
 Mrs. Chamwit was first confronted by Spensa with a gun when M-Bot warned Spensa of intruders in the UrDail embassy. Spensa surprised her, so Mrs. Chamwit dropped a plate, which shattered. She told Spensa she had been hired by the Department of Species Integration to clean Spensa's embassy, along with her assistant, who was busy vacuuming downstairs. Cuna rang the door chimes at the same time, and was able to confirm Mrs. Chamwit's story.
@@ -46,4 +45,4 @@ Mrs. Chamwit and her assistant were hired by Cuna to take care of the UrDail emb
 
 
 
-https://coppermind.net/wiki/Chamwit
+https://coppermind.net/wiki/Mrs._Chamwit

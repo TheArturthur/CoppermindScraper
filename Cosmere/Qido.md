@@ -3,11 +3,10 @@
 |**Type**|Container|
 |**Function**|Carries water|
 |**Owners**|[[Sand mastery\|Sand masters]]|
-|**World**|[[Taldain\|Taldain]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
-A **qido** is a type of waterskin used on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. [[Sand mastery\|Sand masters]] attempting the [[Mastrell's Path\|Mastrell's Path]] are forbidden from carrying a qido during the test. The plural of qido is qidoin.
+A **qido** is a type of waterskin used on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. It has a horn-like shape. [[Sand mastery\|Sand masters]] attempting the [[Mastrell's Path\|Mastrell's Path]] are allowed to carry only a single qido during the test. The plural of qido is qidoin.
 
 
 

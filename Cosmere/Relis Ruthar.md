@@ -7,9 +7,9 @@
 |**Ancestors**|[[Sadees\|Sadees]]|
 |**Abilities**|[[Shardbearer\|Shardbearer]] |
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*“You win this bout, you take every Shard my family owns. What’s stronger? Your fear or your greed?”*
 \-“My pride,” Relis said. “No contest, Adolin.”
@@ -41,7 +41,7 @@ During the time of the [[Vengeance Pact\|Vengeance Pact]] in the warcamps, Relis
 >“*What is it? What is it! No, I didn't kill you!*”
 \-Relis when Kaladin catches his Blade[6]
 
-Two days later, Relis brought three others to the duel: Elit, [[Abrobadar\|Abrobadar]] and [[Jakamav\|Jakamav]]. Relis viewed the duel as punishment for Adolin rather than a matter of honor, but things turned against him when first [[Renarin\|Renarin]] and then [[Kaladin\|Kaladin]] joined the fight. He made mistake of underestimating the threat Kaladin, armed only with a spear and wearing no armor, posed to him. First, Kaladin drew Relis away from Adolin and the others and weakened his Shardplate with a Stormlight-reinforced kick. Kaladin defeated Elit while Relis rejoined the fight against Adolin, but he soon distracted Relis and Jakamav again long enough for Adolin to defeat Abrodabar. Near the end of the duel, when Relis saw that Adolin had managed to time his Plate locking up with getting an incapacitating hold on Jakamav, he ran for Renarin. Kaladin caught up to him in time for Relis to swing at him instead, but he caught Relis's blade between his bare hands; the resulting screaming from the blade was enough to make Relis retreat from the arena in forfeit.
+Two days later, Relis brought three others to the duel: Elit, [[Abrobadar\|Abrobadar]] and [[Jakamav\|Jakamav]]. Relis viewed the duel as punishment for Adolin rather than a matter of honor, but things turned against him when first [[Renarin\|Renarin]] and then [[Kaladin\|Kaladin]] joined the fight. He made the mistake of underestimating Kaladin, who was armed with only a spear and wearing no armor, as a threat. First, Kaladin drew Relis away from Adolin and the others and weakened his Shardplate with a Stormlight-reinforced kick. Kaladin defeated Elit while Relis rejoined the fight against Adolin, but he soon distracted Relis and Jakamav again long enough for Adolin to defeat Abrodabar. Near the end of the duel, when Relis saw that Adolin had managed to time his Plate locking up with getting an incapacitating hold on Jakamav, he ran for Renarin. Kaladin caught up to him in time for Relis to swing at him instead, but he caught Relis's blade between his bare hands; the resulting screaming from the blade was enough to make Relis retreat from the arena in forfeit.
 After the fight, Relis's father was embarrassed enough to send him back to [[Alethkar\|Alethkar]]. There, he fought against the [[Voidbringers\|Voidbringers]] as they encroached northward into [[Alethkar\|Alethkar]]. He attempted to rally the rest of the troops in the country, but they were forced back towards [[Herdaz\|Herdaz]].
 At an unknown point, Relis and his brother [[Ivanar Ruthar\|Ivanar]] confided in [[Wit\|Wit]] about their father's physical abuse. After his father forfeited his title and lands, Relis became Highprince Ruthar. Despite Relis's former antagonism towards the Kholins, he showed willingness to cooperate with them as a highprince.
 

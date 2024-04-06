@@ -4,10 +4,9 @@
 |**Owner**|[[Elhokar Kholin\|Elhokar Kholin]]|
 |**Usage**|Palace|
 |**City**|[[Alethi\|Alethi]] warcamps|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article is about the building. For the [[Ferring\|Ferring]] power, see Electrum#Feruchemical Use.
 >“*The palace was both finer and more mundane than she might have expected.*”

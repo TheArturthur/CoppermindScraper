@@ -3,9 +3,8 @@
 |**Profession**|Captain in Kholin army|
 |**Groups**|Kholin army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Nacomb Gaval** is a young [[Lighteyes\|lighteyed]] soldier in  Kholin army during the [[War of Reckoning\|War of Reckoning]] on [[Roshar\|Roshar]].
 After most of his superior officers were killed during the [[Battle of the Tower\|Battle of the Tower]], Gaval was promoted and given a field commission as commander of the rear guard by [[Kaladin\|Kaladin]]. He was ordered to oversee the retreat of the rest of [[Dalinar\|Dalinar's]] army. Once he took command, the army begins to retreat over the bridge in a quick, orderly fashion.

@@ -1,12 +1,11 @@
 |**Ruin's Perpendicularity**|
 |-|-|
 |**Related to**|[[Ruin\|Ruin]]|
-|**Use**|*Unknown*|
+|**Use**|Interplanetary Trade|
 |**Era**|[[Classical Scadrial\|Classical Scadrial]]|
 |**Region**|[[Terris\|Terris]]|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*The lake that Fedik discovered is below us now—I can see it from the ledge. It looks even more eerie from up here, with its glassy—almost metallic—sheen. I almost wish I had let him take a sample of its waters.*”
 \-Alendi's journal[1]

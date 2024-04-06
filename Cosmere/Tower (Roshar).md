@@ -1,10 +1,9 @@
 |**Tower (Roshar)**|
 |-|-|
 |by  Isaac Stewart |
-|**Region**|[[Shattered Plains\|The Shattered Plains]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Shattered Plains\|The Shattered Plains]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 It has been suggested that this page be merged into [[Shattered Plains\|Shattered Plains]].The information on this page is much better suited to be included on other pages.
 

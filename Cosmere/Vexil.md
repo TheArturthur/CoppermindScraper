@@ -1,9 +1,8 @@
 |**Vexil**|
 |-|-|
 |**Titles**|Prime of [[Emul\|Emul]], Vexil the Wise|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* The course is obvious, isn’t it? We must reclaim my nation from the hands of the traitor parshmen; then we must conquer Tukar. It is completely unreasonable to allow this insane man, who claims to be a god, to continue bereaving the glorious Azish Empire.*”
 \- Vexil to the coalition leaders[1]

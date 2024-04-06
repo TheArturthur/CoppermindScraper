@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[BioChromatic Breath\|BioChromatic Breath]], [[Endowment\|Endowment]]|
 |**Type**|Ability|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Heightening** is a term used to refer to the different levels of power an [[Awakener\|Awakener]] may attain. By obtaining more [[Breath\|Breaths]], an Awakener can increase their level of Heightening, gaining more power and abilities.
 
@@ -53,9 +52,12 @@ The Second Heightening grants Perfect Pitch to those who receive it.
 
 ## Third Heightening
 The Third Heightening grants Perfect Color Recognition, the ability to instantly and instinctively determine exact shades of colors and their hue harmonics.
+It would act strangely with those with color vision deficiency, and supposedly similar conditions such as achromatopsia as well. The way that it interacts with it would supposedly be pleasing to those with the condition.
 
 ## Fourth Heightening
-The Fourth Heightening grants Perfect Life Sense, maximizing the ability to instinctively sense other people around you, and to tell when they are watching you. Anyone with Breath has some quantity of life sense, but it is imperfect until the Fourth Heightening. [[Drab\|Drabs]] are not detectable, though. If an [[Aviar\|Aviar]] like [[Kokerlii\|Kokerlii]] were nearby, it would interfere with the Awakener's life sense. [[Copper\|Copperclouds]], a Feruchemist filling a nicrosilmind with their Investiture fully, and [[Aluminum\|Aluminum]] can also block life sense.
+The Fourth Heightening grants Perfect Life Sense, maximizing the ability to instinctively sense other people around you, and to tell when they are watching you. Users can also sense plants, such as grass or lichen. Life Sense can also sense [[Spren\|spren]], even if they are invisible. [[Drab\|Drabs]] are not detectable, though.
+Anyone with Breath has some quantity of life sense, but it is imperfect until the Fourth Heightening.
+If an [[Aviar\|Aviar]] like [[Kokerlii\|Kokerlii]] were nearby, it would interfere with the Awakener's life sense. [[Copper\|Copperclouds]], a Feruchemist filling a nicrosilmind with their Investiture fully, and [[Aluminum\|Aluminum]] can also block life sense.
 
 ## Fifth Heightening
 The Fifth Heightening grants Agelessness; an Awakener's resistance to aging and disease reaches its maximum strength. These persons are immune to most toxins (including the effects of alcohol) and most physical ailments (such as headaches, diseases, and organ failure). The person no longer ages and becomes functionally immortal.
@@ -70,7 +72,7 @@ Note: Reaching above the Sixth Heightening is incredibly rare, and so few people
 
 ## Eighth Heightening
 The Eighth Heightening grants Command Breaking, the ability to instinctively override Commands in other Invested objects, including [[Lifeless\|Lifeless]]. This requires concentration and leaves the Awakener exhausted. Since some of [[Lightsong\|Lightsong's]] priests can break commands, it is obvious that the eighth heightening is not required in the process, but most likely grants a significant increase in the ability.
-Note: The only known people ever to reach the Eighth Heightening and above are the Hallandren God Kings, Vasher, and Shashara.
+Note: The only known people ever to reach the Eighth Heightening and above are the Hallandren God Kings, Vasher, and Shashara, although [[Xisis\|Xisis]] is known to have the tenth heightening.
 
 ## Ninth Heightening
 The Ninth Heightening grants Greater Awakening, the ability to Awaken stone and steel, which create type IV BioChromatic Entities like [[Nightblood\|Nightblood]], though doing so requires large Investitures of Breath and specialized Commands. This ability has not been widely studied.
@@ -79,12 +81,13 @@ The Ninth Heightening also grants Audible Command, the ability to Awaken objects
 ## Tenth Heightening
  by  Caio Santos  [[Susebron\|Susebron]] [[Awakening\|Awakening]] using the power of the Tenth Heightening
 The Tenth Heightening grants Color Distortion, the natural and intrinsic ability to bend light around white objects within their BioChroma, creating colors from them as if from a prism. It is unclear if these colors can be used to fuel Awakening.
-The Tenth Heightening also grants Perfect Invocation, the ability to draw more color from the objects Awakeners use to fuel their art. This leaves objects drained to white, rather than grey. Combined with the Color Distortion, an Awakener can create quite a stunning view. White objects cannot be be drained to grey.
+The Tenth Heightening also grants Perfect Invocation, the ability to draw more color from the objects Awakeners use to fuel their art. This leaves objects drained to white, rather than grey. Combined with the Color Distortion, an Awakener can create quite a stunning view. White objects cannot be drained to grey.
 A third ability granted is the ability to give commands mentally, called Mental Command, although this is said to be difficult to learn. This is the ability that allowed the God Kings of Hallandren to pass on their breaths after their tongues were removed.
 There are rumors of other powers granted by the Tenth Heightening which are not understood or have not been made known by those who have achieved it.
 
 ## Trivia
 The way having more Breaths makes a person experience the world around them more vividly is partially inspired by the similar effect achieved by channelers from the *Wheel of Time*.
+The effects of various Heightenings can be replicated through merely being highly Invested, such as by holding a [[Dawnshard\|Dawnshard]].
 
 
 https://coppermind.net/wiki/First_Heightening

@@ -1,8 +1,7 @@
 |**Soldier Field**|
 |-|-|
-|**City**|[[Newcago\|Newcago]]🐱︎|
+|**City**|[[Newcago\|Newcago]]|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
 
 **Soldier Field** is an old football stadium that the Reckoners used to fight [[Steelheart (Epic)\|Steelheart]] in.
 There is nothing of real importance around Soldier Field, and thus usually no one goes near it. Like the rest of the city, it was turned to steel during the [[Great Transfersion\|Great Transfersion]].

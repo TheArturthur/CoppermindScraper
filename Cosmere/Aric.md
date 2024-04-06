@@ -2,9 +2,9 @@
 |-|-|
 |**Profession**|Guard|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 For the bridgeman, see [[Arik\|Arik]].
 >“*They looked like Voidbringers, I tell you, with big bony bits jutting from their skin.*”

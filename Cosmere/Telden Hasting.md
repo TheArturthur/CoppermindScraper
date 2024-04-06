@@ -3,9 +3,8 @@
 |**Family**|[[House Hasting\|House Hasting]]|
 |**Residence**|[[Fadrex City\|Fadrex City]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“* What happened to you, Elend? Where is the man who talked about rights and legality?*”
 \- Telden Hasting[1]
@@ -37,7 +36,7 @@
 \- Telden on Elend's beliefs[2]
 
 
-Telden Hasting is a tall man, with a sort of square body shape and a deep voice. As a young man, Telden is a dandy. He is always very well-dressed in expensive suits and fashionable, his hair is always perfectly arranged. He is enviably attractive and always very relaxed and comfortable. Telden is also something of a flirt, particularly towards serving women. As second son he has fewer responsibilities and can spend more time pursuing women. Telden never gets too close to the women he chases though. Telden has little interest in practical politics, but remains aware of political situations and always avoids women who might be spies or have questionable loyalties. After the [[Collapse\|Collapse]], Telden gains some weight, and while still well dressed, he is less concerned with fashion and style. Telden retained some of his carefree and relatively innocent nature, even through the horrors surrounding the the death of the Lord Ruler.
+Telden Hasting is a tall man, with a sort of square body shape and a deep voice. As a young man, Telden is a dandy. He is always very well-dressed in expensive suits and fashionable, his hair is always perfectly arranged. He is enviably attractive and always very relaxed and comfortable. Telden is also something of a flirt, particularly towards serving women. As second son he has fewer responsibilities and can spend more time pursuing women. Telden never gets too close to the women he chases though. Telden has little interest in practical politics, but remains aware of political situations and always avoids women who might be spies or have questionable loyalties. After the [[Collapse\|Collapse]], Telden gains some weight, and while still well dressed, he is less concerned with fashion and style. Telden retained some of his carefree and relatively innocent nature, even through the horrors surrounding the death of the Lord Ruler.
 Despite his lack of interest in practical politics or trickery, Telden enjoys discussing philosophy and political theory with his friends. Telden is well-versed in many of the same subjects and theories that his good friend Elend Venture knows, although he does not enjoy reading nearly as much. Unlike Elend, Telden has little love for the [[Skaa\|skaa]]. He never understood Elend's obsession with them. Telden spends very little time in politicking but he is a clever man, able to disguise any nervousness and display confidence in situations where he is in danger. He also displays some bravery on occasion, and is willing to put himself in dangerous situations to help Yomen.
 
 ## History

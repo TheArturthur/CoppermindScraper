@@ -1,12 +1,12 @@
 |**Varnali**|
 |-|-|
 |**Died**|? 1167|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 **Varnali** is a [[Listener\|listener]] elder on [[Roshar\|Roshar]] and a member of [[The Five\|the Five]], the listener ruling council.
 

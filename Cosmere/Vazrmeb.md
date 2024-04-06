@@ -3,9 +3,8 @@
 |**Died**|*First Dreams*|
 |**Profession**|Ship's captain|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vazrmeb** is the captain of the ship *First Dreams* on [[Roshar\|Roshar]].
 

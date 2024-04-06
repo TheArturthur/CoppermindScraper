@@ -1,10 +1,9 @@
 |**Conventical of Seran**|
 |-|-|
 |**Owner**|[[Canton of Inquisition\|Canton of Inquisition]]|
-|**Dominance**|[[Eastern Dominance\|Eastern Dominance]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Eastern Dominance\|Eastern Dominance]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Conventical of Seran** is a fortress of the [[Canton of Inquisition\|Canton of Inquisition]] on [[Scadrial\|Scadrial]]. It is where new [[Inquisitor\|Inquisitors]] were [[Hemalurgy\|made]], and [[Kwaan's inscription\|Kwaan's inscription]] is kept there.
 

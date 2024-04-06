@@ -2,10 +2,9 @@
 |-|-|
 |**Era**|[[Era of Solitude\|Era of Solitude]]|
 |**Participants**|The [[Knights Radiant\|Knights Radiant]]|
-|**Effects**|Death of Radiant [[Spren\|spren]]|
+|**Effects**|Death of Radiant [[Spren\|spren]], Disbandment of the Knights Radiant|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -21,7 +20,8 @@ The **Day of Recreance** was the final act of the [[Knights Radiant\|Knights Rad
 2 Cause
 3 Feverstone Keep
 4 Aftermath and Legacy
-5 Notes
+5 Trivia
+6 Notes
 
 
 ## Lead Up
@@ -34,7 +34,7 @@ While this was occurring, the Knights Radiant were forced to abandon [[Urithiru\
 \-The Stormfather's thoughts on the Recreance[13]
 
 
-The Knights Radiant somehow discovered that [[Surgebinding\|Surgebinding]] had destroyed [[Ashyn\|Ashyn]], the world mankind first inhabited, and humans then invaded Roshar, the [[Dawnsingers\|Dawnsingers']] land. When previous generations had learned this fact, [[Honor\|Honor]] had counseled them that their cause was just. During the generation of the Recreance, Honor was deteriorating under the onslaught of Odium and did not do so. Instead, he raved about the [[Dawnshard\|Dawnshards]], ancient weapons responsible for the destruction of Ashyn, and promised the Radiants they would also destroy [[Roshar\|Roshar]]. In order to save the world, nine orders decided to give up their powers so that Roshar wouldn't be destroyed like their first world was.
+The Knights Radiant somehow discovered that [[Surgebinding\|Surgebinding]] had destroyed [[Ashyn\|Ashyn]], the world mankind first inhabited, and humans then invaded Roshar, the [[Dawnsingers\|Dawnsingers']] land. When previous generations had learned this fact, [[Honor\|Honor]] had counseled them that their cause was just. During the generation of the Recreance, Honor was deteriorating under the onslaught of Odium and did not do so. Instead, he raved about the [[Dawnshard\|Dawnshards]], ancient weapons responsible for the destruction of Ashyn, and promised the Radiants they would also destroy [[Roshar\|Roshar]]. In order to save the world, nine orders decided to give up their powers so that Roshar wouldn't be destroyed like their first world was. There were also other motivations for the Recreance, but these are currently unclear, but likely has to do with the imprisoning of Ba-Ado-Mishram during the False Desolation.
 [[Mayalaran\|Mayalaran]] indicated that the Recreance was a conscious choice, with the Knights and their bonded spren in agreement, and not the grievous betrayal of spren by the orders that were previously assumed by humans and spren alike.
 
 ## Feverstone Keep
@@ -53,6 +53,8 @@ Society quickly changed after the Recreance and began to form the culture seen i
 Spren societies were completely decimated. The majority of the surviving spren were mere children at the time and were forced to spend centuries without nurture and guidance. It took some spren societies two thousand years to regain the culture they had lost. Many spren feel a mistrust and dislike of humans as a result. This causes some spren to bond singers or work with the [[Diagram (group)\|Diagram]] rather than support the reformation of the Knights Radiant and trust humans again. Some would even choose to kill humans before allowing the formation of a Nahel bond.
 Within two hundred years of the Recreance, knowledge of the Radiants was already beginning to be lost. It was difficult to distinguish facts, superstition, and lore. At some point, many Shardblades were lost, as hundreds were dropped during the Recreance, and only around eighty are known in the modern world.
 
+## Trivia
+, is a word meaning shameful cowardice, lack of faith to one's honor or duty, apostasy, disloyalty, or desertion.
 
 
-https://coppermind.net/wiki/Recreance
+https://coppermind.net/wiki/Day_of_Recreance

@@ -1,11 +1,10 @@
 |**Rossen Dar**|
 |-|-|
-|**Nation**|[[Marat\|Marat]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Marat\|Marat]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-**Rossen Dar** is a city in southern [[Marat\|Marat]] on [[Roshar\|Roshar]], located along the coast of the [[Southern Depths\|Southern Depths]] and near the [[Tukari\|Tukar]] boarder. It is west of .
+**Rossen Dar** is a city in southern [[Marat\|Marat]] on [[Roshar\|Roshar]], located along the coast of the [[Southern Depths\|Southern Depths]] and near the [[Tukari\|Tukar]] boarder. It is west of [[Jabom\|Jabom]].
 
 
 

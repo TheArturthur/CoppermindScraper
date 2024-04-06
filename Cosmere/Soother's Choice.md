@@ -2,12 +2,11 @@
 |-|-|
 |by  Ben McSweeney |
 |**Products**|Chewing gum|
-|**Era**|Post-Catacendre|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Post-Catacendre\|Post-Catacendre]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
->“*Stick it to the 'Del and Buy Local! Soother’s Choice is the ONLY choice.*”
+>“*Stick it to the 'Del and Buy Local! Soother's Choice is the ONLY choice.*”
 \-An advertisement slogan[1]
 
 

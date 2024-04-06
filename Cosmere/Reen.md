@@ -7,9 +7,8 @@
 |**Groups**|[[Camon's crew\|Camon's crew]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*When you're alone, no one can betray you.*”
 \-Reen
@@ -26,7 +25,7 @@
 
 
 ## Appearance and Personality
-Not much is known about Reen's appearance, however; Reen is a brutal individual, who often beats Vin for little or no reason, though he claims it is to toughen her up. He trusts no one, and is not hesitant about drilling this idea into [[Vin\|Vin]] as well. Though Reen is frequently violent and harsh toward Vin, he does care, as he saved her from their mother, and protected her from being found by the Obligators.
+Not much is known about Reen's appearance, however; Reen is a brutal individual, who often beats Vin for little or no reason, though he claims it is to toughen her up. He trusts no one, and is not hesitant about drilling this idea into [[Vin\|Vin]] as well. Though Reen is frequently violent and harsh toward Vin, he does care, as he saved her from their mother, and protected her from being found by the [[Obligator\|Obligators]].
 
 ## History
 He was half brother to [[Vin\|Vin]] and looked after her in their childhood. He raised Vin to be wary of everything and trust no one, including himself, always claiming that he would betray her in the end. Later, he was captured by the [[Steel Inquisitor\|Steel Inquisitors]], but he never revealed Vin's existence; despite being tortured day and night, he insisted that she had starved to death years ago.

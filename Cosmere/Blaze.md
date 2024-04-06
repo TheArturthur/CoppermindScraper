@@ -1,9 +1,8 @@
 |**Blaze**|
 |-|-|
 |**Profession**|Pilot|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Blaze** is a scout pilot in the [[DDF\|DDF]]. As a scout she flies a [[Val-class\|Val-class]] ship.
 She is sensitive to the fact that some people consider scouts more cowardly than fighter pilots and has given derogatory looks in the past.

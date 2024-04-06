@@ -1,9 +1,8 @@
 |**Dreamstorm**|
 |-|-|
 |**Type**|Horse|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*She'll throw you in a heartbeat and you'll break your crown, bridgeman. She's not good with riders*”
 \-Jenet to Kaladin[1]

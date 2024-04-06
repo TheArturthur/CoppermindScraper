@@ -1,8 +1,7 @@
 |**Letmere**|
 |-|-|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* It was her Concept, obviously. The hardy yet pragmatic chief. She had seen the truth of these invasions. Undoubtedly, if I won her loyalty, she would prove a lasting and powerful ally.*”
 \- Kairominas, about Letmere[1]

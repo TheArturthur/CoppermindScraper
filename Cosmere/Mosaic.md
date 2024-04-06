@@ -3,9 +3,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Vathah\|Vathah]]|
 |**Species**|[[Cryptic\|Cryptic]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*Wonderful and blessed contradiction of nonsense and human complication to be alive!*”
 \-Mosaic[1]

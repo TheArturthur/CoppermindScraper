@@ -2,9 +2,8 @@
 |-|-|
 |**Titles**|Patriarch of Shu-Korath|
 |**Nationality**|[[Teo\|Teo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Seinalan** is the Patriarch of [[Shu-Korath\|Shu-Korath]] during the [[Invasion of Arelon\|Invasion of Arelon]].
 

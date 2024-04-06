@@ -5,9 +5,8 @@
 |**Groups**|Sebarial army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 For the field commander under [[Adolin\|Adolin]] during the [[Battle of Narak\|Battle of Narak]], see [[Perel\|Perel]].
 **Vedekar Perel** is a [[Lighteyed\|lighteyed]] [[Alethi\|Alethi]] officer in the [[Sebarial\|Sebarial]] army on [[Roshar\|Roshar]]. He moves to [[Urithiru\|Urithiru]] after the [[Battle of Narak\|Battle of Narak]] and is murdered by [[Re-Shephir\|Re-Shephir]].
 

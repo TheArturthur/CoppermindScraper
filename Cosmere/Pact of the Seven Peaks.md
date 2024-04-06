@@ -1,10 +1,9 @@
 |**Pact of the Seven Peaks**|
 |-|-|
 |**Participants**|[[Unkalaki\|Unkalaki]], unknown party or parties|
-|**Region**|[[Horneater Peaks\|The Horneater Peaks]]🐱︎|
+|**Region**|[[Horneater Peaks\|The Horneater Peaks]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **pact of the Seven Peaks** is an ancient treaty on [[Roshar\|Roshar]]. It involves the [[Unkalaki\|Unkalaki]] and one or more unknown parties that they refer to as gods.
 

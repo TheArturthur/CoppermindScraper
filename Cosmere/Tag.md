@@ -1,9 +1,9 @@
 |**Tag**|
 |-|-|
+|by  Graeme Brandham |
 |**Profession**|Mercenary|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*She is trouble. I still think we should just leave her and go.*”
 \-Tag talking about Shallan[1]

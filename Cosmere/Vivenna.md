@@ -9,11 +9,11 @@
 |**Abilities**|[[Royal Locks\|Royal Locks]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Shardbearer\|Shardbearer]]|
 |**Titles**|Princess of [[Idris\|Idris]], Highmarshal, Commander of the [[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Aliases**|Azure|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Nationality**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker, The Stormlight Archive*|
+|**First Appeared**|*Warbreaker*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -117,4 +117,4 @@ Vivenna first meets [[Vasher\|Vasher]] when he captures her and gives her the '[
 
 
 
-https://coppermind.net/wiki/Vivenna
+https://coppermind.net/wiki/Azure

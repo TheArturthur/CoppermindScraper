@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Lonzare\|Lonzare]]|
 |**Ethnicity**|[[Darksider\|Darksider]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 >“*You're infamous on Darkside, you know. Traitor to the dynasty, executed -- or so we're told -- for trying to murder Emperor Skathan himself.*”
 \- Khrissalla to Loaten.[1]

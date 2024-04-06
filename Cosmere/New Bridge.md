@@ -1,10 +1,9 @@
 |**New Bridge**|
 |-|-|
 |**Usage**|Bridge|
-|**Region**|[[Forests of Hell\|The Forests of Hell]]🐱︎|
-|**World**|[[Threnody\|Threnody]]🐱︎|
+|**Region**|[[Forests of Hell\|The Forests of Hell]]|
+|**World**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 >“*When the light was better, you could still pick out timbers from the New Bridge down in the chasm below, representing the promises of the forts and their gifts, which always looked pretty but frayed before long.*”
 \-Silence Montane's thoughts on the ruins of the New Bridge[1]

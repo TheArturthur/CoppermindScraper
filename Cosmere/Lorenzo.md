@@ -6,8 +6,7 @@
 |**Profession**|Police Officer|
 |**Residence**||
 |**Nationality**||
-|**World**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
-|**Featured In**|*Dreamer*|
+|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
 
 **Lorenzo** is an NYPD lieutenant in Manhattan who was possessed by [[Dreamer (character)\|Dreamer]], a [[Poltergeist\|poltergeist]] who was playing a game of cops and robbers. He was killed when Dreamer used his body to tackle [[Phi\|Phi]] off a building.
 

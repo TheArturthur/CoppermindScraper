@@ -1,8 +1,7 @@
 |**Vendis**|
 |-|-|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*This is not a good time. Our troops still haven’t recovered from those Vendis raids last fall, and with the fires in the granary this winter...*”
 \-Yarda, explaining Idris's war readiness.[1]

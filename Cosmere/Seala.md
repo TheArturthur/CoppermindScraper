@@ -3,9 +3,8 @@
 |**Spouse**|[[Dilaf\|Dilaf]]|
 |**Died**|Ten years prior to the [[Reod\|Reod]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Seala** is a young [[Arelene\|Arelene]] woman from [[Sel\|Sel]] and the former wife of [[Dilaf\|Dilaf]].
 

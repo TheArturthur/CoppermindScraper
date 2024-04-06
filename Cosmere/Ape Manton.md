@@ -1,10 +1,9 @@
 |**Ape Manton**|
 |-|-|
-|by  Ben McSweeney |
+|by  Isaac Stewart |
 |**Residence**|[[Roughs\|The Roughs]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 >“*He wouldn't take the hand of a Metalborn trying to save him from slipping to his death.*”
 \-Waxillium Ladrian[1]

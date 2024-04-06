@@ -1,10 +1,9 @@
 |**Savalashi**|
 |-|-|
-|**Princedom**|[[Thanadal princedom\|Thanadal princedom]]🐱︎|
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Princedom**|[[Thanadal princedom\|Thanadal princedom]]|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Savalashi** is a city in [[Alethkar\|Alethkar]] in [[Thanadal princedom\|Thanadal princedom]]. It is south of the [[Sunmaker Mountains\|Sunmaker Mountains]].
 

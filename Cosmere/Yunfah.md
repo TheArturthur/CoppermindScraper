@@ -3,9 +3,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Windrunner\|Windrunner]] magic, [[Splinter\|Splinter]] of [[Honor\|Honor]]|
 |**Bonded With**|[[Vratim\|Vratim]] |
 |**Species**|[[Honorspren\|Honorspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Yunfah** is an [[Honorspren\|honorspren]] on [[Roshar\|Roshar]]. He was bonded to [[Windrunner\|Windrunner]] [[Vratim\|Vratim]] before their death.
 

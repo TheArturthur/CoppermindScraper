@@ -3,12 +3,12 @@
 |by  Jamie Knierim |
 |**Abilities**|[[Epic\|Epic]]|
 |**Aliases**|Limelight, Prof|
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
 
+This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
 >“*And every life you take, even the bad ones, takes a bit of your soul with it.*”
 \-Prof[1]
 
@@ -39,7 +39,7 @@ This page or section needs to be updated with new information for *Lux*!Be awar
 ### Powers
 
 ### Weaknesses
-Prof's weakness is failure, and the risk of it. This can be seen as he refused to enter a contest pre-Calamity and his reluctance to use his abilities in Steelheart instead, gifting them to others.
+Prof's weakness is failure, and the risk of it. This can be seen as he refused to enter a contest pre-Calamity and his reluctance to use his abilities in Steelheart, instead gifting them to others.
 
 ## History
 Prior to the arrival of [[Calamity (Epic)\|Calamity]], Jonathan Phaedrus was a fifth-grade science teacher. He was involved in a romantic relationship with [[Tia\|Tia]], who at the time worked for NASA. At some point after the arrival of Calamity, the school where he worked was destroyed by an Epic while still in session. The details of this incident are unclear, and it is possible that the Epic in question was Phaedrus himself experiencing his Rending.. Sometime prior to the events of Steelheart, he was part of a team of "hero" Epics consisting of himself, [[Lincoln\|Lincoln]], [[Abigail Reed\|Abigail Reed]], and [[Amala\|Amala]]. This venture ended in catastrophe as every member of the group other than Phaedrus succumbed to Calamity's corruption. Sometime later, he and Tia founded the Reckoners.
@@ -59,4 +59,4 @@ Later on, Prof visited the Coop to check up on Jax’s progress and give the Tex
 
 
 
-https://coppermind.net/wiki/Tensor
+https://coppermind.net/wiki/Limelight

@@ -1,10 +1,9 @@
 |**Tarachin**|
 |-|-|
 |**Type**|Game|
-|**Origin**|[[Hallandren\|Hallandren]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Origin**|[[Hallandren\|Hallandren]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Tarachin** is a game played in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
 

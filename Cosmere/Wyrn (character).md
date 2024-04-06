@@ -2,9 +2,8 @@
 |-|-|
 |**Titles**|King of Fjorden|
 |**Nationality**|[[Fjordell\|Fjordell]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 For other uses of Wyrn, see [[Wyrn\|Wyrn]].
 **Wyrn** is an ancient resident of [[Sel\|Sel]] who founded the nation of [[Fjorden\|Fjorden]]. Subsequent rulers of Fjorden have used "[[Wyrn (title)\|Wyrn]]" as a title.

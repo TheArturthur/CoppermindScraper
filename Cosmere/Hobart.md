@@ -1,8 +1,7 @@
 |**Hobart**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Hobart** is the leader of a crew of bandits in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 

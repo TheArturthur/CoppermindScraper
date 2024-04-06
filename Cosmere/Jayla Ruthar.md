@@ -2,14 +2,11 @@
 |-|-|
 |**Family**|
 |**Spouse**|[[Ruthar\|Ruthar]]|
-|**Children**|[[Relis\|Relis]]|
-|**Relatives**|[[Elit\|Elit]] (nephew)|
+|**Children**|[[Relis\|Relis]], [[Ivanar Ruthar\|Ivanar]]|
+|**Relatives**|[[Elit\|Elit]] ()|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Your Majesty, I fear that our conversation this day has run in circles, and that nothing is being accomplished.*”
 \-Jayla Ruthar to King Elhokar Kholin[1]
@@ -20,8 +17,9 @@ Brightlady **Jayla Ruthar** is an [[Alethkar\|Alethi]] noblewoman on [[Roshar\|R
 [[Jasnah Kholin\|Jasnah Kholin]] believes that Jayla and her husband are thieving and dangerous. They are usually political allies of [[Torol Sadeas\|Torol]] and [[Ialai Sadeas\|Ialai Sadeas]], who use them for their ambition.
 
 ## History
-At some point in her life, Jayla wed Highprince [[Ruthar\|Ruthar]] and gave birth to their son [[Relis Ruthar\|Relis]]. She is the aunt of [[Elit Ruthar\|Elit Ruthar]].
-During the [[War of Reckoning\|War of Reckoning]], she presumably lived in the Ruthar warcamp on the [[Shattered Plains\|Shattered Plains]]. In late 1173, she attended a meeting in the [[Pinnacle\|Pinnacle]] with other members of the Alethi nobility to discuss the threat of the [[Assassin in White\|Assassin in White]].
+At some point in her youth, Jayla wed Highprince [[Ruthar\|Ruthar]]; by 1145 she had given birth to their eldest son [[Relis Ruthar\|Relis]] and later had at least one more child, a son named [[Ivanar Ruthar\|Ivanar]]. She is the aunt of [[Elit Ruthar\|Elit Ruthar]].
+During the [[War of Reckoning\|War of Reckoning]], she lived on the [[Shattered Plains\|Shattered Plains]], presumably in the Ruthar warcamp. In late 1173, she attended a meeting in the [[Pinnacle\|Pinnacle]] with other members of the Alethi nobility to discuss the threat of the [[Assassin in White\|Assassin in White]].
+Jayla's fate during the [[True Desolation\|True Desolation]] is unclear. Highprince Ruthar moved to [[Urithiru\|Urithiru]] after the [[Battle of Narak\|Battle of Narak]]; he was later stripped of his title and exiled to [[Azimir\|Azimir]], and Relis became the new highprince. Jayla is not mentioned in connection with these events.
 
 
 

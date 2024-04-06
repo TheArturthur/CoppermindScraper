@@ -6,11 +6,11 @@
 |**Born**|c. 1151|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
-**Eylita Tavinar** is a [[Lighteyes\|lighteyed]] [[Veden\|Veden]] woman on [[Roshar\|Roshar]]. She is married to [[Balat Davar\|Balat Davar]].
+**Eylita Tavinar** is a [[Lighteyed\|lighteyed]] [[Veden\|Veden]] woman on [[Roshar\|Roshar]]. She is married to [[Balat Davar\|Balat Davar]].
 
 ## Contents
 
@@ -46,7 +46,7 @@ She is trustworthy and knows many of the Davar family's secrets.
 
 ## History
 ### Meeting Balat
-Eylita first met Balat as a teenager in 1169, when she attended a feast at the Davar estate with her parents. She and Balat almost immediately began furtively glancing and smiling at each other, surprising Shallan, as she had never previously seen Balat pay attention to a girl. The Tavinars abruptly departed when [[Redin\|Redin]] interrupted the feast to speak to [[Lin\|Lin]].
+Eylita first met [[Balat\|Balat]] as a teenager in 1169, when she attended a feast at the Davar estate with her parents. She and Balat almost immediately began furtively glancing and smiling at each other, surprising [[Shallan\|Shallan]], as she had never previously seen Balat pay attention to a girl. The Tavinars abruptly departed when [[Redin\|Redin]] interrupted the feast to speak to [[Lin\|Lin]].
 In 1170, she attended the [[Middlefest Fair\|Middlefest Fair]] with her parents. [[Shallan\|Shallan]] knew that Balat fancied Eylita, and acted as an intermediary between the pair in order to set up a meeting. Balat was surprised by Shallan's actions, but ultimately began a relationship with Eylita. Balat received multiple letters from Eylita over the next few months, including on the day that [[Wikim\|Wikim]] gave Shallan some [[Blackbane\|blackbane]] powder. Balat often had his stepmother [[Malise Gevelmar\|Malise Gevelmar]] read him the letters to keep them private from a teenaged Shallan.
 
 ### Confrontation with Lin
@@ -62,11 +62,11 @@ She accompanied Balat and his brothers to [[Urithiru\|Urithiru]] and was present
 ## Relationships
 ### Balat Davar
 >“*I'm not going to give up on Eylita, Shallan. She’s the only beautiful thing that has happened in my life.*”
-\-Balat[5]
+\-Balat[6]
 
 
-Eylita and Balat seem smitten with each other from the time of their first meeting. Balat is willing to risk his relationship with his father and his social standing to marry her, and Eylita also seems to be willing to do whatever it takes to be with Balat. She does not abandon him despite witnessing multiple disturbing events at his home. Balat notes that one thing he has to hide from Eylita is his need to harm animals.
+Eylita and [[Balat\|Balat]] seem smitten with each other from the time of their first meeting. Balat is willing to risk his relationship with his father and his social standing to marry her, and Eylita also seems to be willing to do whatever it takes to be with Balat. She does not abandon him despite witnessing multiple disturbing events at his home. Balat notes that one thing he has to hide from Eylita is his need to harm animals.
 
 
 
-https://coppermind.net/wiki/Eylita
+https://coppermind.net/wiki/Eylita_Tavinar

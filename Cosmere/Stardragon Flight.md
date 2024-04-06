@@ -2,9 +2,8 @@
 |-|-|
 |**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Stardragon Flight** is a full [[DDF\|DDF]] Flight. The flight is named after a [[Stardragon\|potentially fictitious species]] that is known to the peoples of [[Detritus\|Detritus]].
 

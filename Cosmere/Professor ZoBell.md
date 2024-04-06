@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Professor|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 Professor **ZoBell** is a science teacher at [[Armedius Academy\|Armedius Academy]].
 She gave her students time in class to complete their final assignments, while she read books.

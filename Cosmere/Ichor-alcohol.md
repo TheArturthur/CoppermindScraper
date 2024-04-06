@@ -1,9 +1,8 @@
 |**Ichor-alcohol**|
 |-|-|
 |**Type**|Liquid|
-|**World**|[[Nalthis\|Nalthis]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Ichor-alcohol** is a clear fluid invented by [[Yesteel\|Yesteel]], one of the [[Five Scholars\|Five Scholars]], to aid in the creation of [[Lifeless\|Lifeless]].
 
@@ -19,7 +18,7 @@
 In the time before the [[Manywar\|Manywar]], the Five Scholars studied the magic of Awakening together, seeking to uncover new Commands and understand how Awakening operated. Yesteel discovered an ichor-alcohol during this time. This new process made it easier to create Lifeless that lasted longer.
 
 ## Uses
-Ichor-alcohol's main use is to increase the length of time a [[Lifeless\|Lifeless]] can remain active without requiring a new [[Breath\|Breath]]. Ichor-alcohol also makes the [[Awakening\|Awakening]] of Lifeless require fewer Breaths, and the process becomes easier to perform and cheaper, because new Breaths are less often required. It is put into the veins of the Lifeless by using a small hand pump, in order to avoid damaging the blood vessels of the Lifeless.
+Ichor-alcohol's main use is to increase the length of time a [[Lifeless\|Lifeless]] can remain active without requiring a new [[Breath\|Breath]]. Ichor-alcohol also makes the [[Awakening\|Awakening]] of Lifeless require fewer Breaths, rendering the process easier and cheaper to perform since new Breaths are less often required. It is infused into the veins of the Lifeless by using a small hand pump, in order to avoid damaging the blood vessels of the Lifeless.
 In humans, the pump is often attached to a valve in the neck of the Lifeless.
 Ichor-alcohol does have some weaknesses though. Since it acts as blood to the Lifeless it will need to be replaced if they become cut and drained of it. The Lifeless will continue to function for a brief period of time before shutting down. Also over time the ichor-alcohol can become corrupted so it needs to be regularly checked and replaced. It is important to note that ichor-alcohol is not a requirement for the creation of Lifeless. The creation of Lifeless without ichor-alcohol, such as [[Kalad's Phantoms\|Kalad's Phantoms]], requires more Breaths but they do not need maintenance like other Lifeless with ichor-alcohol do.
 

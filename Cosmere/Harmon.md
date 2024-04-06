@@ -3,9 +3,8 @@
 |**Profession**|Burglar|
 |**Groups**|[[Camon's crew\|Camon's crew]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Now, that's just plantation-skaa foolishness. We’ve all gone out in the mists.*”
 \-Harmon on Hrud's theory about Kelsier[1]

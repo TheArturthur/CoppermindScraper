@@ -2,9 +2,8 @@
 |-|-|
 |by  Isaac Stewart |
 |**Ruler**|[[Council of Kings\|Council of Kings]] and [[Librarian\|Librarians]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
 
-The world of *Alcatraz Versus the Evil Librarians* is split up into two major territories: the Hushlands and the [[Free Kingdoms\|Free Kingdoms]].
+The world of [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]] is split up into two major territories: the Hushlands and the [[Free Kingdoms\|Free Kingdoms]].
 
 ## Contents
 

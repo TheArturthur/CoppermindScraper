@@ -3,9 +3,8 @@
 |by  Wanda Sonnemann |
 |**Related to**|[[Honor\|Honor]]|
 |**Use**|Travel between [[Shadesmar\|Shadesmar]] and [[Roshar\|Roshar]], source of [[Stormlight\|Stormlight]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -14,7 +13,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 **Honor's Perpendicularity** is one of [[Roshar\|Roshar's]] two [[Perpendicularity\|perpendicularities]], alongside [[Cultivation's Perpendicularity\|Cultivation's]].
-It's considered highly dangerous and has a habit of moving around, appearing in various places at random. What usually causes it to appear or vanish is unclear, as is how closely it is linked with the highstorms. During the True Desolation, Honor's Perpendicularity can be opened at will by the [[Bondsmith\|Bondsmith]] [[Dalinar\|Dalinar]]. This was not possible for previous Bondsmiths. After Ishar saw Dalinar opening the perpendicularity, the Herald is able to replicate the feat.
+It's considered highly dangerous and has a habit of moving around, appearing in various places at random. What usually causes it to appear or vanish is unclear, as is how closely it is linked with the highstorms. During the True Desolation, Honor's Perpendicularity can be opened at will by the [[Bondsmith\|Bondsmith]] [[Dalinar\|Dalinar]]. This was not possible for previous Bondsmiths. After [[Ishar\|Ishar]] saw Dalinar opening the perpendicularity, the Herald is able to replicate the feat.
 
 ## At Thaylen Field
 >“* We are Connected. (...) We are something different. His remnants, your soul, my will.*”

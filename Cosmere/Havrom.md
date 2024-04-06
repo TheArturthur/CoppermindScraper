@@ -5,9 +5,8 @@
 |**Groups**|Kholin army|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Havrom** is a battalionlord in the [[House Kholin\|Kholin]] army on [[Roshar\|Roshar]].
 

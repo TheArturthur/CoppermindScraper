@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|c. 1173|
 |**Profession**|Slave|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Nalma** is a slave on [[Roshar\|Roshar]].
 
@@ -18,4 +17,4 @@ Kaladin often thought of Nalma later in life as one of the people that he had fa
 
 
 
-https://coppermind.net/wiki/Nelda
+https://coppermind.net/wiki/Nalma

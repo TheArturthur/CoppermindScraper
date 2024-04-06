@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Guard captain|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Rin** is a captain of [[House Davar\|House Davar's]] guards in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

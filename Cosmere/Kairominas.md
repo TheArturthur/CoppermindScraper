@@ -2,9 +2,8 @@
 |-|-|
 |**Spouse**|[[Molly (Perfect State)\|Molly]]|
 |**Titles**|First of Alornia,Keeper of the Seventeen Lanterns,Master of Ultimate Lancing,Slayer of Galbrometh|
-|**World**|[[Alornia\|Alornia]]|
+|**Homeworld**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“*What's so special about a body? Yes, we have brains, you and I. What we 'feel' and 'think' is the result of chemicals swimming around inside our heads. How is that so different from the emotions of the Machineborn? Bits or hormones, does it matter?*”
 \-Kai to Sophie[1]

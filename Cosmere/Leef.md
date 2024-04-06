@@ -1,8 +1,7 @@
 |**Leef**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Leef** is a member of the wall guard at [[Feverstone Keep\|Feverstone Keep]] in ancient [[Roshar\|Roshar]]. During one of [[Dalinar's visions\|Dalinar's visions]], he experiences the [[Day of Recreance\|Day of Recreance]] from Leef's point of view.
 

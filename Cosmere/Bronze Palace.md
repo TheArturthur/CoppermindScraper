@@ -1,11 +1,10 @@
 |**Bronze Palace**|
 |-|-|
 |**Usage**|Palace|
-|**City**|[[Azimir\|Azimir]]🐱︎|
-|**Nation**|[[Azir\|Azir]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Azimir\|Azimir]]|
+|**Nation**|[[Azir\|Azir]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Bronze Palace** is the seat of the government of [[Azir\|Azir]] and the home of the Azish emperor, the [[Prime Aqasix\|Prime Aqasix]].
 

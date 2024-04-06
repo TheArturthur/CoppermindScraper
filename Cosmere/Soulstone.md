@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Mineral|
 |**Function**|Ideal for carving; useful for [[Forgery\|Forgery]]|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Emperor's Soul*|
 
 **Soulstone** is a type of rock on [[Sel\|Sel]] used for [[Forgery\|Forgery]]. It is the ideal medium for the creation of [[Soulstamp\|soulstamps]].
 

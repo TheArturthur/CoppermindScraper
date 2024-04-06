@@ -1,8 +1,7 @@
 |**Uvara**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*These Uvara, these People of the Great Abyss, were prone to astonishing cruelty. If one of their members did something wrong—something the slightest bit untoward or unfavorable—the others would slaughter him or her. Each time he asked, Derethil’s caretaker gave him the same answer. ‘Our emperor will not suffer failure.’*”
 \-from Hoid's version of the tale of the Wandersail[1]

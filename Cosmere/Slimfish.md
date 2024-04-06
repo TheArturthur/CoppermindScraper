@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Fish|
 |**Native to**|The [[Pantheon\|Pantheon]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Slimfish** are a species of fish on [[First of the Sun\|First of the Sun]].
 

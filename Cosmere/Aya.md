@@ -1,9 +1,9 @@
 |**Aya**|
 |-|-|
 |**Species**|[[Kitsen\|Kitsen]]|
-|**World**|[[Evershore (planet)\|Evershore]]|
+|**Homeworld**|[[Evershore (planet)\|Evershore]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
+|**First Appeared**|*Starsight*|
 
 This page or section needs to be updated with new information for *Evershore*!Be aware that in its current state, it may not include all additional content yet.
 

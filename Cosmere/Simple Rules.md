@@ -1,9 +1,8 @@
 |**Simple Rules**|
 |-|-|
 |**Related to**|Shade|
-|**World**|[[Threnody\|Threnody]]|
+|**World of Origin**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 >“*Don't kindle flame, don't shed the blood of another, don't run at night.*”
 \-The Simple Rules[1]
@@ -30,7 +29,7 @@ It is possible to violate the Rules inside a ring of [[Silver\|silver]] without 
 
 ## Trivia
 The Simple Rules are inspired by Jewish laws about what can't be done on Shabbat.
-The rules may be explored further in a [[The Dust Brigade\|potential sequel]] to *Shadows for Silence*.
+The rules may be explored further in a [[The Night Brigade\|potential sequel]] to *Shadows for Silence*.
 
 
 https://coppermind.net/wiki/Simple_Rules

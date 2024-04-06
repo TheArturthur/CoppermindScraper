@@ -2,16 +2,30 @@
 |-|-|
 |**Profession**|Scholar|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Isabi** is a young scholar on [[Roshar\|Roshar]].
 
+## Contents
+
+1 Appearance and Personality
+2 Attributes and Abilities
+3 History
+4 Notes
+
+
+## Appearance and Personality
+Isabi is one of the younger members of [[Navani\|Navani's]] team of scholars and [[Ardent\|ardents]] in [[Urithiru\|Urithiru]]. She is small in stature and looks her age; Navani thinks of her as a "girl". She has a curious mind.
+
+## Attributes and Abilities
+Isabi is able to use a [[Spanreed\|spanreed]], and can therefore read and write in [[Women's script\|women's script]]. She has received some training in engineering and the scientific method. Despite her youth, Isabi seems to have the full trust of [[Falilar\|Falilar]] and Navani.
+
 ## History
-Born the daughter of a [[Windrunner\|Windrunner]], Isabi was apprenticed to [[Falilar\|Falilar]] and learned to be a scholar under his supervision. He worked with her to show her how to set up a scale so they could triangulate the [[Sibling\|Sibling's]] location by measuring the weight of the [[Spanreed\|spanreed]] they used to contact [[Navani Kholin\|Navani Kholin]]. She approached Navani one day with the blinking spanreed when the Sibling wanted to talk to her; while Navani was in contact with the spren, they rushed to different locations in [[Urithiru\|Urithiru]] to take measurements.
-After deliberately losing her half of the device, Navani waited to see if the Sibling would send another ruby. When [[Dabbid\|Dabbid]] showed up with a replacement, Navani asked Isabi to contact [[Kalami\|Kalami]] and ask her to attend an interrogation of the man. As she sent the message, however, Isabi received news of the explosion caused by [[Talnah\|Talnah]] and [[Nem\|Nem]] experimenting with [[Gavilar\|Gavilar's]] [[Black sphere\|black sphere]].
-Isabi was with the group of scholars that accompanied Navani as she followed the Sibling's direction to a sapphire that, when infused, erected a barrier around the crystal pillar that [[Raboniel\|Raboniel]] was trying to infuse with [[Voidlight\|Voidlight]] to corrupt the spren.
+Isabi's early history is unknown, but she presumably moved to Urithiru at some point after the [[Battle of Narak\|Battle of Narak]]. She is the daughter of an unspecified [[Windrunner\|Windrunner]].
+She became apprenticed to Falilar as a scholar. In 1175, Falilar worked with Isabi on a method to triangulate the location of a spanreed by placing the board on a scale to measure the very slight weight changes related to an inherent decay that affects a conjoiner fabrial's weight when it is in use. Isabi was tasked with monitoring a mysterious spanreed that an unknown entity was using to contact Navani, and alerted Falilar and Navani when a message was coming in. Isabi helped Falilar set up the measuring system while Navani was using the spanreed, and helped set it up again as the team rushed to a different location to take additional measurements. The experiment confirmed that the messages were coming from inside the tower; Navani suspected that the sender was a [[Spren\|spren]].
+After deliberately losing her half of the mystery spanreed, Navani waited to see if the spren would send another ruby. When [[Dabbid\|Dabbid]] showed up with a replacement, Navani intended to interrogate him, and asked Isabi to contact [[Kalami\|Kalami]] to assist her. As she sent the message, however, Isabi received news of the explosion caused by [[Talnah\|Talnah]] and [[Nem\|Nem]] experimenting with the [[Black sphere\|black sphere]] that [[Gavilar\|Gavilar]] gave to [[Szeth\|Szeth]].
+Navani eventually confirmed that she was corresponding with the [[Sibling\|Sibling]]. Isabi was with the group of scholars that accompanied Navani as she followed the Sibling's direction to a sapphire that, when infused, erected a magical barrier around the Sibling's crystal pillar. This prevented [[Raboniel\|Raboniel]] from infusing the pillar with [[Voidlight\|Voidlight]] to corrupt the spren.
 
 
 

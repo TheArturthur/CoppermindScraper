@@ -1,8 +1,7 @@
 |**Expanse of the Vapors**|
 |-|-|
-|**World**|[[Shadesmar\|Shadesmar]]🐱︎|
+|**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Mistborn: Secret History*!Be aware that in its current state, it may not include all additional content yet.
 

@@ -1,9 +1,8 @@
 |**Pars**|
 |-|-|
 |**Residence**|[[Weathering\|Weathering]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Pars the Deadman** was a murderer who was caught by [[Waxillium Ladrian\|Waxillium Ladrian]] in [[Weathering\|Weathering]].
 

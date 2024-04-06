@@ -7,9 +7,8 @@
 |**Titles**|Queen of [[Arelon\|Arelon]] |
 |**Residence**|[[Kae\|Kae]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Eshen** is the former Queen of [[Arelon\|Arelon]] on [[Sel\|Sel]]. She is King [[Iadon\|Iadon's]] second wife and Prince [[Raoden\|Raoden's]] stepmother.
 

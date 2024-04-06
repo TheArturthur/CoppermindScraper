@@ -2,9 +2,8 @@
 |-|-|
 |by  botanicaxu |
 |**Related to**|Herdaz|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **sparkflicker** (sometimes **spark-flicker**) is a [[Herdaz\|Herdazian]] fire striker that can also be worn as an ornament.
 It is similar in use to flint-and-steel, albeit it lacks the flint. Rather, a Herdazian wearing a sparkflicker uses their own nails (which are crystalline, owing to their [[Singer\|singer]] ancestry) to start the fire. In addition, it is sometimes used as an ornament or a decorative article of clothing. It has no martial application.

@@ -4,9 +4,8 @@
 |**Titles**|Admiral of the Fleet of the [[DDF\|DDF]] , Callsign: Ironsides|
 |**Profession**|DDF pilots|
 |**Groups**|[[DDF\|DDF]]|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*I'm not sure I'd wish this command on [the pilots I used to fly with]. Not even the ones I hated.*”
 \-Admiral Judy "Ironsides" Ivans on her position as the head of the DDF[2]

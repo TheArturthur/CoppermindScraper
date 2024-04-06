@@ -2,9 +2,8 @@
 |-|-|
 |by  Isaac Stewart |
 |**Related to**|[[Shardblade\|Shardblades]], [[Ten Essences\|Ten Essences]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -23,9 +22,9 @@ The ten [[Shardblade\|Shardblade]] **stances** are fighting styles used by [[Sha
 2.2 Smokestance
 2.3 Flamestance
 2.4 Vinestance
-2.5 Ironstance
-2.6 Stonestance
-2.7 Bloodstance
+2.5 Bloodstance
+2.6 Ironstance
+2.7 Stonestance
 2.8 Other stances
 
 
@@ -51,18 +50,18 @@ Flamestance is an aggressive, sometimes frantic one-handed stance. Unlike other 
 ### Vinestance
 Vinestance is a defensive stance that focuses on defensive footwork and flexibility. It is slow and steady, but has sudden, quick lunges. [[Relis Ruthar\|Relis Ruthar]], the former Alethi dueling champion, prefers this stance.
 
+### Bloodstance
+Bloodstance is a stance in which the wielder doesn't care about getting hit, mostly used in desperate circumstances.
+
 ### Ironstance
 Ironstance is a strong stance with a two-handed grip, sword held next to the head, and uses strong overhead blows.
 
 ### Stonestance
 Stonestance is a form that relies on raw power. The stance involves holding the sword in front, arms fully extended, tip pointing straight up. On offense, the focus is on delivering as much momentum as possible in each blow; a characteristic strike, for example, involves jumping up, lifting the blade behind the head, and making a diagonal downward cut. When on defense, the stance relies on staying immobile and is one of the few that uses parrying. Since it doesn't require much strength to cut most things with Shardblades, this stance is largely impractical when not fighting a Shardbearer. Stonestance is considered the immovable stance and provides solid footing in combat.
 
-### Bloodstance
-Bloodstance is a stance in which the wielder doesn't care about getting hit, mostly used in desperate circumstances.
-
 ### Other stances
 There are three more stances, corresponding to the [[Ten Essences\| Essences]] of Tallow, Lucentia and Sinew; however, they have not as of yet been featured in the books. In addition, [[Singer\|Singers]] may use stances unfamiliar to humans.
 
 
 
-https://coppermind.net/wiki/Flamestance
+https://coppermind.net/wiki/Bloodstance

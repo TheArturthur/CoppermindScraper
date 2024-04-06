@@ -6,9 +6,9 @@
 |**Species**|[[Singer\|Singer]]|
 |**Residence**|[[Narak\|Narak]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*We need to remember what we passed through to get here. We need to take care not to forget ourselves.*”
 \-Jaxlim to Venli on learning all stanzas to perfection[1]
@@ -28,7 +28,7 @@
 
 3.1 Narak
 3.2 War of Reckoning (1167 - 1174)
-3.3 After the “True Desolation”
+3.3 After the Battle of Narak
 
 
 4 Relationships
@@ -41,11 +41,11 @@
 
 
 ## Appearance and Personality
-At a younger age, Jaxlim projects confidence even when doing something as simple as weaving. Her complex skin pattern of wavy red and black lines is among the most beautiful in the camp--like true marbled stone. She is strong, with a fit and powerful body. There is something amazing about Jaxlim’s voice. It isn’t powerful or bold, but it is like a knife--thin, sharp, almost liquid. She also has one of the best memories in the city.
+At a younger age, Jaxlim projects confidence even when doing something as simple as weaving. Her complex skin pattern of wavy red and black lines is among the most beautiful in the camp--like true marbled stone. She is strong, with a fit and powerful body. There is something amazing about Jaxlim’s voice. It isn’t powerful or bold, but it is like a knife--thin, sharp, almost liquid. She once had one of the best memories in the city.
 At an old age, Jaxlim retains a solid build, although she sometimes seems frail. She has a neat round face and wears her hair strands in a braid tied with a ribbon given to her by [[Eshonai\|Eshonai]]. She prefers [[Workform\|workform]] and stays in that form even as new ones are discovered, believing that her people should not place value on any particular form in order to avoid social stratification. She sings often with her calming, sonorous voice. She had some conflicts with Eshonai while raising her, but Eshonai always respected her.
 
 ## Attributes and Abilities
-Jaxlim's people are the First-Rhythm family, who have a noble heritage. Jaxlim is one of the few who knows all the Songs of the Listeners. She teaches them to her daughers [[Eshonai\|Eshonai]] and [[Venli\|Venli]]. With her knowledge of Songs of Making Paper she and helps Eshonai to perfect the technique, making her daughter the first scout to map the place.
+Jaxlim's people are the First-Rhythm family, who have a noble heritage. Jaxlim is one of the few who knows all the Songs of the Listeners. She teaches them to her daughers [[Eshonai\|Eshonai]] and [[Venli\|Venli]]. With her knowledge of the Song of Making Paper she helps Eshonai to perfect the technique, making her daughter the first scout to map the place.
 
 ### Songs
 >“*“Daring was the challenge made,” Mother sang, “when the Last Legion abandoned thought and power in exchange for freedom. They risked forgetting all. And so songs they composed, a hundred stories to tell, to remember. I tell them to you, and you will tell them to your children, until the forms are again discovered.”*”
@@ -63,8 +63,8 @@ Eshonai was the one who accompanied Jaxlim into the storm to try the form. Jaxli
 ### War of Reckoning (1167 - 1174)
 Jaxlim could be seen in her shack on the outskirts of [[Narak\|Narak]] tending to her [[Shalebark\|shalebark]] gardens. She appeared to be senile, as she did not always recognize her daughter and sometimes seemed to hallucinate. Eshonai said that she had not heard wise words from her mother in years. Jaxlim could sometimes remember some of the old songs. Eshonai asked her about the listeners leaving the "dark home", and her mother sang a song to a Rhythm of Remembrance that revealed tidbits of Parshendi history. She had saved some maps of the former kingdom of [[Natanatan\|Natanatan]] that Eshonai made in her youth, and she gave them to Eshonai. Jaxlim was rounded up with the rest of the listeners who refused to adopt Stormform when Eshonai began to take control of Narak. She escaped into the chasms with [[Thude\|Thude]] and the rest of the dissenters.
 
-### After the “True Desolation”
-After the Everstorm, the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[Chasmfiend\|chasmfiend]]. When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter. However, Venli held out hope that a Radiant bond could still heal her mother's mental afflictions.
+### After the Battle of Narak
+After the Battle of Narak, the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[Chasmfiend\|chasmfiend]]. When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter. However, Venli held out hope that a Radiant bond could still heal her mother's mental afflictions.
 
 ## Relationships
 ### Venli

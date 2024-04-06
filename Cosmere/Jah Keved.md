@@ -3,10 +3,8 @@
 |by User: Otto didact|
 |**Ethnicity**|Veden, Unkalaki, [[Bavland\|Bav]], [[Silnasen\|Siln]]|
 |**Capital**|[[Vedenar\|Vedenar]]|
-|**Ruled by**|King [[Taravangian\|Taravangian]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -20,12 +18,26 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 1.1.1 Regions
 1.1.2 Cities
-1.1.3 Other
+1.1.3 Villages
+1.1.4 Other
 
 
 
 
 2 History
+
+2.1 The Heraldic Epochs
+2.2 Era of Solitude
+
+2.2.1 Siln Dynasty
+2.2.2 The Hierocracy (??? - c.673)
+2.2.3 Alethi War of Unification
+2.2.4 Veden Civil War (1173 - 1174)
+
+
+2.3 The True Desolation (1173 - )
+
+
 3 Politics
 
 3.1 Government
@@ -47,7 +59,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 ## Geography
  by [[Isaac Stewart\|Isaac Stewart]] Jah Keved on the world map
-Located in eastern Roshar, Jah Keved is the second largest state on the planet, claiming over five and a half million square kilometers of land. It shares its eastern border with [[Alethkar\|Alethkar]] and [[Herdaz\|Herdaz]] on three rivers, while in the west, it is bordered by [[Tu Bayla\|Tu Bayla]] and [[Triax\|Triax]]. North to south, the country stretches across the entire continent, between the [[Reshi Sea\| Reshi]] and [[Tarat Sea\|Tarat]] Seas.
+Located in eastern Roshar, Jah Keved is the second largest state on the planet, claiming around 5,553,000 Km. In terms of real-world nations, this places it between India and Australia in area. It shares its eastern border with [[Alethkar\|Alethkar]] and [[Herdaz\|Herdaz]] on three rivers, while in the west, it is bordered by [[Tu Bayla\|Tu Bayla]] and [[Triax\|Triax]]. North to south, the country stretches across the entire continent, between the [[Reshi Sea\| Reshi]] and [[Tarat Sea\|Tarat]] Seas.
 Though verdant, Jah Keved doesn't possess many major rivers. The country's most notable geographical feature are the [[Horneater Peaks\|Horneater Peaks]] in the east, which form an important strategic barrier against the Alethi.
 
 ### Notable Locations
@@ -55,22 +67,50 @@ Though verdant, Jah Keved doesn't possess many major rivers. The country's most 
 [[Horneater Peaks\|Horneater Peaks]] - Massive mountains on the eastern side of the country, the Peaks are the home of the [[Unkalaki\|Unkalaki]] people. Despite their high altitude, the mountaintops are habitable thanks to a series of hot lakes known as the [[Horneater Oceans\|Horneater Oceans]].
 [[Bavland\|Bavland]] - A small mining region, known for being dusty.
 
+[[Elanar\|Elanar]]
+[[Kneespike\|Kneespike]] - A city in Bavland.
 [[Vedenar\|Vedenar]] - The capital city of Jah Keved. Much of it was destroyed during the civil war of 1173. It is the site of the country's [[Oathgate\|Oathgate]].
 [[Valath\|Valath]] - The location of the Holy Enclave, the center of Vorin faith.
 [[Silnasen\|Silnasen]] - The main city of the Siln people.
 [[Northgrip\|Northgrip]] - The largest city located on the northern coast.
 
+[[Bornwater\|Bornwater]] - A mining town in Bavland.
+[[Staplind\|Staplind]] - A settlement in Bavland.
+[[Ironsway\|Ironsway]] - A town in Bavland.
+
 [[Silent Mount\|The Silent Mount]] - A mountain where the [[Vanrial\|Vanrial]], an order of artists, live.
 [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] - Roshar's only stable [[Perpendicularity\|perpendicularity]], located somewhere in the Horneater Peaks.
 [[Jokasha Monastery\|Jokasha Monastery]] - Home of the Vorin Devotary of the Mind.
 ## History
- by  Isaac Stewart  Ancient [[Vedenar\|Vedenar]]
-During the [[Silver Kingdoms\|Silver Kingdoms]] era, the territory now occupied by Jah Keved belonged to the kingdom of [[Valhav\|Valhav]]. Since that time, the countries of [[Tu Bayla\|Tu Bayla]] and [[Triax\|Triax]] have splintered off, though Jah Keved still holds vast majority of Valhav lands, including what was presumably its capital, [[Vedenar\|Vedenar]], along with its [[Oathgate\|Oathgate]].
-For a long time, Jah Keved was the largest country on Roshar. After [[Gavilar Kholin\|Gavilar Kholin]] unified [[Alethkar\|Alethkar]] into a single state, the Veden fought a number of small border wars against the Alethi, attempting to test their defenses. Though they were eventually pushed back by the forces led by [[Dalinar Kholin\|Dalinar Kholin]], small conflicts between Alethi and Veden highprinces continued for many years. Nonetheless, the country remained the main oasis of stability in the region.
-This changed, however, in the year 1173, when [[Szeth\|Szeth]] assassinated the Veden king, [[Hanavanar\|Hanavanar]], along with a number of highprinces. This plunged the country into a chaotic civil war, with at least seven different factions hoping to claim Vedenar and crown their leader king. The situation was further worsened by the presence of the [[Unmade\|Unmade]] [[Nergaoul\|Nergaoul]], known better as the Thrill, leading Veden soldiers to fight with unprecedented degree of drive and brutality.
+ by  Isaac Stewart  Map of the Silver Kingdoms
+### The Heraldic Epochs
+During the [[Silver Kingdoms\|Silver Kingdoms]] era, the territory now occupied by Jah Keved belonged to the kingdom of [[Valhav\|Valhav]]. Since that time, the countries of [[Tu Bayla\|Tu Bayla]] and [[Triax\|Triax]] have splintered off, though Jah Keved still holds vast majority of Valhav lands, including what was presumably its capital, [[Vedenar\|Vedenar]], along with its [[Oathgate\|Oathgate]]. They also managed to expand to include much of mainland [[Rishir\|Rishir]], and parts of western Alethkar.
+
+### Era of Solitude
+For a long time, Jah Keved was the largest country on Roshar.
+
+
+According to scholar [[Natata Ved\|Natata Ved]], the dynasty before the Siln dynasty was ruled by the king NanHar, who invaded the area that would come to be [[Triax\|Triax]], but died in the invasion. Following his death, his brother, [[NanKhet\|NanKhet]], succeded the throne and was a tyrant that survived six assassination attempts. First his sister attempted to kill him to put her husband on the throne, following this their son tried to kill him, then NanKhet’s cousin, then his brother, an uncle, and finally his own son. This eventually led him to invite his entire household to a feast, where he killed and burned every member. The exact veracity of this history is questionable, due to the historical method only being in its infancy when Natana Ved wrote her record, two centuries after the events she described.
+He ultimately only led for three months, and after his death, the Siln Dynasty rose to power and replaced his line as the rules of Jah Keved.
+
+
+For more information, see [[Hierocracy\|Hierocracy]].
+For more information, see [[Sadees\|Sadees]].
+In c.673, the Hierocracy was overthrown by the Alethi conqueror known as [[Sadees\|Sadees the Sunmaker]] in a conflict that would come to be known as the [[War of Loss\|War of Loss]].
+
+
+For more information on the Alethi War of Unification, see [[Alethkar\|Alethkar]].
+After [[Gavilar Kholin\|Gavilar Kholin]] unified [[Alethkar\|Alethkar]] into a single state, the Veden fought a number of small border wars against the Alethi, testing their defenses. Though they were eventually pushed back by the forces led by [[Dalinar Kholin\|Dalinar Kholin]], small conflicts between Alethi and Veden highprinces continued for many years. Nonetheless, the country remained the main oasis of stability in the region.
+
+
+
+This changed, however, on Tanatesev 1173, when [[Szeth\|Szeth]] assassinated the Veden king, [[Hanavanar\|Hanavanar]], along with a number of highprinces. This plunged the country into a chaotic civil war, with at least seven different factions hoping to claim Vedenar and crown their leader king. The situation was further worsened by the presence of the [[Unmade\|Unmade]] [[Nergaoul\|Nergaoul]], known better as the Thrill, leading Veden soldiers to fight with unprecedented degree of drive and brutality.
 The civil war lasted for a few months, with the final confrontation being the battle at Vedenar. Highprince [[Valam\|Valam]] emerged victorious, becoming the new king. However, he quickly passed the crown to king [[Taravangian\|Taravangian]] before ordering his illegitimate son, [[Redin\|Redin]], to kill him. Given Valam's poor health and his insinuations shortly before his death, it's possible he was being poisoned by the [[Diagram (group)\| Diagram]] to achieve this, as it was them who instigated the civil war by sending Szeth.
+
+### The True Desolation (1173 - )
+For more information, see [[True Desolation\|True Desolation]].
 Under Taravangian's leadership, Jah Keved was, alongside [[Kharbranth\|Kharbranth]], the first country to ally with [[Urithiru\|Urithiru]]. Fearing that it would be overrun by [[Voidbringer\|Voidbringers]], the king requested - and was granted - aid from other members of the coalition.. However, following the revelations of the [[Eila Stele\|Eila Stele]], the country broke off from the alliance as part of [[Diagram (group)\| Diagram's]] plan to undermine Dalinar.
-Though king Taravangian pledged himself to [[Odium\|Odium]], Jah Keved was not part of his deal. However after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] Taravangian began preparing Jah Keved to switch sides. He did this by promoting people Odium could control, putting his troops into position to betray [[Dalinar\|Dalinar]] ,and subtly indicating to his followers that the war was a problem for Alithkar and Azir. When Taravangian gave the order the Vedens turned on the [[Coalition of monarchs\|Coalition of monarchs]] and joined Odium. 
+Though king Taravangian pledged himself to [[Odium\|Odium]], Jah Keved was not part of his deal. However after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] Taravangian began preparing Jah Keved to switch sides. He did this by promoting people Odium could control, putting his troops into position to betray [[Dalinar\|Dalinar]] ,and subtly indicating to his followers that the war was a problem for Alethkar and Azir. When Taravangian gave the order the Vedens turned on the [[Coalition of monarchs\|Coalition of monarchs]] and joined Odium. 
 
 ## Politics
 ### Government
@@ -84,7 +124,7 @@ In the decades prior to the [[True Desolation\|True Desolation]], Jah Keved foug
 
 ### Military
 >“* We talk of Jah Keved's weakness, but that’s relative. They still have a huge standing army, strong fortifications. If the enemy wades into Jah Keved now, while solidifying their own power, it will drain their resources and stall their conquest.*”
-\- Dalinar Kholin on the Veden military[20]
+\- Dalinar Kholin on the Veden military[22]
 
 
 Though not as militaristic as their eastern neighbors, Jah Keved is thought to possess the most [[Shardwielding\|Shards]] of any country other than Alethkar, including about twenty [[Shardblade\|Shardblades]].
@@ -99,7 +139,7 @@ Jah Keved is comprised of at least four distinct ethnic groups - Veden, [[Silnas
 
 ### Veden
 >“*While your food sits well in my stomach, the amount of bowing and scraping you show ardents made me uncomfortable.*”
-\-Kabsal on the people of Jah Keved[26]
+\-Kabsal on the people of Jah Keved[28]
 
 
 The Veden people are typically associated with pale skin and violet eyes. Their language belongs to the Vorin family, and is close enough to that of [[Alethkar\|Alethkar]] to be mutually intelligible for both sides. The Alethi are also close to Vedens in fashion.
@@ -117,7 +157,7 @@ The Unkalaki - or Horneaters, as they are called by outsiders - live on top of t
 Though the Horneater Peaks are nominally part of Jah Keved, the Unkalaki have their own language, system of beliefs and government, and don't seem to see themselves as Veden citizens. However, the Veden still claim the right to levy troops from among them in times of war.
 
 ## Notable citizens
-For a full list see, see :Category:Veden.
+For a full list, see :Category:Veden.
 
 [[Shallan Davar\|Shallan Davar]], the first [[Order of Lightweavers\|Lightweaver]] of the new generation of [[Knights Radiant\|Knights Radiant]]
 The rest of the [[House Davar\|Davar household]], including the father, [[Lin Davar\|Lin]], as well as his four sons [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Balat\|Balat]] and [[Helaran\|Helaran]]
@@ -130,4 +170,4 @@ At 5.5 million square kilometres of land, Jah Keved is a little over half the si
 [[Szeth\|Szeth]] hid one of Gavilar's [[Black sphere\|black spheres]] somewhere in Jah Keved.
 
 
-https://coppermind.net/wiki/Veden_civil_war
+https://coppermind.net/wiki/Veden

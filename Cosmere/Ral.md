@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Master Ral likes things you can use. Things to sit on, things to put clothes in. But I think I can make a good chair tomorrow, something that will make him proud.*”
 \- Tien[1]

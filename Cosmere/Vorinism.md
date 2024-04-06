@@ -1,14 +1,16 @@
 |**Vorinism**|
 |-|-|
 |by  Greg Call |
-|**Related to**|Alethkar|
-|**World**|[[Roshar\|Roshar]]|
+|**Related to**|[[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]], [[Thaylenah\|Thaylenah]]|
+|**Type**|Religion|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+
+This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-**Vorinism** is the one of the primary religions of [[Roshar\|Roshar]]. It is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west. The religion worships the [[Almighty\|Almighty]], a deity based on [[Honor\|Honor]], and the ten [[Herald\|Heralds]].
+**Vorinism** is one of the primary religions of [[Roshar\|Roshar]]. It is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west. The religion worships the [[Almighty\|Almighty]], a deity based on [[Honor\|Honor]], and the ten [[Herald\|Heralds]].
 
 ## Contents
 
@@ -16,10 +18,23 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 1.1 Creation Myth
 1.2 Morality
-1.3 Belief in Symmetry
-1.4 Temples
-1.5 Prayer
-1.6 Oathgates
+
+1.2.1 Calling
+1.2.2 Glory
+
+1.2.2.1 Known Glories
+
+
+1.2.3 Telling the Future
+1.2.4 Oaths and Marriage
+1.2.5 Sex and Sexuality
+
+
+1.3 Life After Death
+1.4 Belief in Symmetry
+1.5 Temples
+1.6 Prayer
+1.7 Oathgates
 
 
 2 Culture
@@ -69,46 +84,69 @@ The Voidbringers followed humanity to Roshar trying to destroy it or force human
 On Roshar, the Knights Radiant were left behind, although they ultimately betrayed humankind in the [[Day of Recreance\|Day of Recreance]]. One explanation for the betrayal is that the Knights Radiant imitated great powers and pretended a holy calling using elaborate tricks and once this was discovered they fled.
 
 ### Morality
-All Vorins are expected to choose a Calling, their greatest talent, and practice it until death. Those who grow to be the very best at their Calling are chosen to join the Heralds in the fight to regain the Tranquiline Halls when they die. Their particular afterlife differs depending on the Calling -- those who were the very best at farming become farmers for the Heralds, those who are the greatest at battle are chosen to fight beside the Heralds, etc. Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation.
-In the Alethi variety of Vorinism, fighting is considered the most important Calling, as the Almighty depends on Alethi to join the Heralds' army in their afterlife and win back the Tranquiline Halls.
+
+All Vorins are expected to choose a **Calling**, their greatest talent, and practice it until death.
+In the Alethi variety of Vorinism, fighting is considered the most important Calling, as the Almighty depends on Alethi to join the Heralds' army in their afterlife and win back the Tranquiline Halls. The ardents are supposed to help someone follow their Calling, helping them to set goals for them to achieve in furtherance of it. When one furthers their Calling enough, they **Elevate**, one goes through multiple Elevations in the pursuance of their Calling.
+
+
 Closely tied to the concept of a Calling is Glory. A Glory is a particular attribute of the Almighty that one is supposed to emulate in the pursuit of their Calling. One typically choses their Glory alongside their Calling, as the two are supposed to work together; for example, the Calling of a warrior and the Glory of determination.
+It is seen that Lighteyes have more innate Glory than others, and that the purer their blood, the more they possess.
+
+
+Determination
+Purity
+
+It is seen that telling the future is an utmost evil, inherently tied to [[Voidbinding\|Voidbinding]].
+Due to this, Vorins look down upon gambling and games of chance, seeing them as immoral, heretical, and dangerous.
+
+
 When it comes to relationships, Vorinism is focused on making and upholding oaths. Breaking oaths, or acting without proper oaths, such as having sex outside of marriage, is frowned upon. However, Vorinism offers a wide variety of partnership oaths for those who do wish to pursue relationships, including some for same-sex couples.
 
+
+As mentioned previously, premarital sex and adultery are frowned upon, alongside the institution of prositition. Hand-holding, particularly with the safehand of a woman, is considered very intimate.
+
+### Life After Death
+Those who grow to be the very best at their Calling are chosen to join the Heralds in the fight to regain the Tranquiline Halls when they die. Their particular afterlife differs depending on the Calling -- those who were the very best at farming become farmers for the Heralds, those who are the greatest at battle are chosen to fight beside the Heralds, etc. Depending on what your calling was in life, you would receive powers in the afterlife. A farmer would be able to cause whole fields of crops to grow with a single gesture, a spearman could create thunder with his shield and lightning from his spear.
+The Heraldic Forces were a believed to be the army of the [[Herald\|Heralds]] that fought the [[Voidbringer\|Voidbringers]] for the [[Tranquiline Halls\|Tranquiline Halls]] in what was called the War for Heaven. It was said that the sound of a horn would call the Heraldic Forces to the field of battle. Joining the Heraldic forces was the considered to be highest Calling of men.
+Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation.
+They appear to have some awareness of the Spiritual Realm, but conflate it with the afterlife.
+
 ### Belief in Symmetry
-Symmetry is considered holy in Vorinism. Among others, [[Glyph\|glyphs]] are shaped symmetrically, [[Silver Kingdoms\|Silver Kingdoms]] have perfectly symmetrical names and many people's names are close to symmetrical. However, people who have names that are actually symmetric are looked down on as "too holy" and therefore blasphemous.
+Symmetry is considered holy in Vorinism. Among others, [[Glyph\|glyphs]] are shaped symmetrically, [[Silver Kingdoms\|Silver Kingdoms]] have perfectly symmetrical names, the heralds have symmetric names, and many people's names are close to symmetrical. However, people who have names that are actually symmetric are looked down on as "too holy" and therefore blasphemous.
 
 ### Temples
-Traditional Vorin temples are circular and domed. Usually, the dome is exactly ten feet tall at its highest point. They are often filled with statues and pictures of the Heralds. A major city is expected to have a separate temple for each Herald. Additionally, wealthy lighteye families will often have private chapels, and the ardentia maintains monasteries throughout the continent. Such monasteries, like [[Jokasha Monastery\|Jokasha]], are often seen as highly desirable postings, with many ardents working decades to get into one.
+Traditional Vorin temples are circular and domed, with a sloping mound in the center. Usually, the dome is exactly ten feet tall at its highest point. They are often filled with statues and pictures of the Heralds. A major city is expected to have a separate temple for each Herald. Additionally, wealthy lighteye families will often have private chapels, and the ardentia maintains monasteries throughout the continent. Such monasteries, like [[Jokasha Monastery\|Jokasha]], are often seen as highly desirable postings, with many ardents working decades to get into one.
 
 ### Prayer
 Vorin pray through [[Glyphward\|glyphwards]], prayers written in glyphs, typically on a strip of paper, calling on the Almighty and, sometimes, one or more of the Heralds. They are typically burned to carry the soul of the prayer to the Almighty.
-In higher classes of [[Alethkar\|Alethkar]], much of the religious observation falls to the the priesthood, the [[Ardent\|Ardentia]], rather than the lighteyes themselves. The ardents in the employ of a lighteye are supposed to perform the required rituals for their master, so that the lighteyes do not have to worry about the spiritual aspect of their lives.
+In higher classes of [[Alethkar\|Alethkar]], much of the religious observation falls to the priesthood, the [[Ardent\|Ardentia]], rather than the lighteyes themselves. The ardents in the employ of a lighteye are supposed to perform the required rituals for their master, so that the lighteyes do not have to worry about the spiritual aspect of their lives.
 
 ### Oathgates
 The original purpose of the [[Oathgate\|Oathgates]] has been lost to time, though they are still considered sacred. In the present day, it's believed that the eleven lamps stand for the ten [[Silver kingdoms\|Epoch Kingdoms]] and the [[Tranquiline Halls\|Tranquiline Halls]], while the huge keyhole is "the need for ardents to ignore borders, and look only at the hearts of men".
 
+
 ## Culture
  by  Dan dos Santos  Vorin woman, with covered safehand on display.
-The Vorin religion is closely interwoven with the culture of the Vorin kingdoms, to the point where the same word is applied to both the faith and the culture. Its modern form appears to be based on the book *Arts and Majesty*, outlining what is proper for men and women. Women are expected to completely cover their left hand (called [[Safehand\|Safehand]] in Vorin vernacular) from the age of roughly eleven or twelve, as it is generally considered obscene. They are, however, permitted to learn how to read and write, and expected to manage a household and business. Feminine arts include painting, reading, writing, and music. Flutes are a commonly chosen instrument, however, it is rare for side-blown flutes to be found on Roshar. More confrontational positions, such as politics and military, are considered masculine -- however, men are forbidden (or at least discouraged) from learning the alphabet. Additionally, Vorinism differentiates between feminine and masculine foods (sweet and spicy). Those division between genders do not apply to ardents, who are considered genderless from cultural standpoint, and thus permitted to engage in both feminine and masculine activities. By tradition, every person can learn a trade at a Vorin temple, including those of the opposite gender.
+The Vorin religion is closely interwoven with the culture of the Vorin kingdoms, to the point where the same word is applied to both the faith and the culture. Its modern form appears to be based on the book *Arts and Majesty*, outlining what is proper for men and women. Women are expected to completely cover their left hand (called [[Safehand\|Safehand]] in Vorin vernacular) from the age of roughly eleven or twelve, as it is generally considered obscene. They are, however, permitted to learn how to read and write, and expected to manage a household and business. Feminine arts include painting, reading, writing, and music. Flutes are a commonly chosen instrument, however, it is rare for side-blown flutes to be found on Roshar. More confrontational positions, such as politics and military, are considered masculine -- however, men are forbidden (or at least discouraged) from learning the alphabet and a man who is literate is considered unseemly. Additionally, Vorinism differentiates between feminine and masculine foods (sweet and spicy). Those division between genders do not apply to ardents, who are considered genderless from cultural standpoint, and thus permitted to engage in both feminine and masculine activities. By tradition, every person can learn a trade at a Vorin temple, including those of the opposite gender.
 In addition, the Vorin religion justifies the cultural divide between the [[Lighteyes\|Lighteyes]] and [[Darkeyes\|Darkeyes]], with the former being considered closer to the [[Almighty\|Almighty]] and thus more holy, giving them power over the darkeyed masses.
 Vorins are sometimes purposefully named after the Heralds -- for example, [[Shallan\|Shallan]] for [[Shalash\|Shalash]] or [[Kaladin\|Kaladin]] for [[Kalak\|Kalak]].
 There is some crossover among different groups within Vorinism, such as with Essential Theology, which is known to be used by ardents, scholars, and Soulcasters, and is related to polestones.
 
-All official Vorin betrothals must be signed and verified by ardents. As a result, people sometimes use a **causal** betrothal, which makes them practically engaged but confers no legal benefts.
+All official Vorin betrothals must be signed and verified by ardents. As a result, people sometimes use a **causal** betrothal, which makes them practically engaged but confers no legal benefits.
 
 ### Law
 Apart from cultural and religious aspect, Vorinism has an impact on the legal system, as the teachings of Heralds demand implementation of certain laws.
 
 
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[33]
+\-Nale[38]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
 The Right of Travel is derived from the [[Herald\|Heralds]] teaching that all borders should be open. More specifically, it was established by [[Nale\|Nale]], as a way to protect the weak from abuses of power. It also serves as a form of addressing the power imbalance between lighteyes and darkeyes, as most darkeyes are able to leave a land that is poorly managed.
 
 
-Most people in Vorin kingdoms have the Right to Learn professions in any temple of the [[Almighty\|Almighty]]. Larger Vorin temples have at least one [[Ardent\|ardent]] who is an expert in any given art or trade, and they provide training to anyone who's interested, regardless of eye color. This Right may not be available to the lower nahn ranks.
+Most people in Vorin kingdoms have the Right to Learn professions in any temple of the [[Almighty\|Almighty]]. Larger Vorin temples have at least one [[Ardent\|ardent]] who is an expert in any given art or trade, and they provide training to anyone who's interested, regardless of eye color.
 
 
 For more information, see [[Right of Challenge\|Right of Challenge]].
@@ -121,6 +159,7 @@ Other types of ardents are likewise differentiated by the colors of their robes 
 
 ### Slavery
 Ardents are, technically, slaves to [[Lighteyes\|lighteyed]] nobles of [[Vorin\|Vorin]] countries, with some serving specific households while others are beholden to the national ruler. They can neither hold land nor own property -- a safeguard to prevent a second [[Hierocracy\|Hierocracy]]. Like [[Parshmen\|Parshmen]] and other slaves they are not paid for their work, but they are highly respected, even by people above them in the social hierarchy. It seems one cannot be forced to become an ardent; rather, people join willingly, and can also leave if they so choose.
+They believe that the limitations put upon them, and their state of slavery to high ranked political officials, is done by the Almighty as so that they never rise above their stations. They believe that the Highprinces that own them are chosen as the Almighty's guardians of the people.
 
 ### Spiritual Guidance
 Ardents are forbidden from participating in politics or holding social offices. However, their word and opinions are still highly valued, and they hold authority in spiritual matters.
@@ -136,17 +175,19 @@ Ardents are separated into Devotaries, sects devoted to different aspects of Vor
 Known devotaries include:
 
 **The Devotary of Purity** is dedicated to wholesomeness and honesty. Members of this devotary are expected to keep their thoughts and actions 'pure'. A member's talents are expected to be dedicated to purity as well, such as an artist depicting only religious topics. [[Shallan Davar\|Shallan Davar]] is a member of this devotary, by her father's choice.
-**The Devotary of Sincerity** is dedicated to seeking truth in all things. Members believe that there is always something to learn, and everything is subject to scrutiny, even their own religion. No question is rebuked. It is the smallest devotary. In stark contrast to the rest of Vorinism, [[Jasnah\|Jasnah]] respects this devotary, and suggests that Shallan seek it out once she arrives home.
+**The Devotary of Sincerity** is dedicated to seeking truth in all things. Members believe that there is always something to learn, and everything is subject to scrutiny, even their own religion. No question is rebuked. It is one of the smallest devotaries. In stark contrast to the rest of Vorinism, [[Jasnah\|Jasnah]] respects this devotary, and suggests that Shallan seek it out once she arrives home.
 **The Devotary of Insight** is not described. Many ardents from the Devotary of Insight are seen exchanging dulled lamps from the Palanaeum and putting infused ones in their place. They have a temple in Kholinar.
 **The Devotary of Denial** seems to emphasize the denial of desires to the point of asceticism.
 **The Order of Talenelat** is related to the [[Herald\|Herald]] [[Taln\|Taln]] and, likely, the attributes ascribed to him by Vorinism. Those dedicated to this particular devotary are said to have a dislike for theological debates. It is viewed by some as an order for lesser people. The Order of Talenelat maintains a presence in western [[Kholinar\|Kholinar]], adjacent to the temple of Talenelat. [[Dalinar Kholin\|Dalinar Kholin]] was a follower of this devotary prior to his excommunication.
 **The Devotary of the Mind** is a monastic devotary with its home at the [[Jokasha Monastery\|Jokasha Monastery]] on the western slopes of the [[Horneater Peaks\|Horneater Peaks]]. It is devoted to historical and linguistic study, with the focus on literature.
 **The Devotary of Kelek** is a devotary with a presence in [[Urithiru\|Urithiru]]. Their ardents will take commissions for prayers and glyphwards.
 **The Devotary of Mercy** is a devotary with a presence in [[Urithiru\|Urithiru]]. Their ardents care for those who have trouble with their minds.
+There are likely ten Devotarys.
+
 ## History
 ### Origins and Old Vorinism
 Though the origins of Vorinism are lost to the [[Shadowdays\|Shadowdays]], it's known that the name "[[Almighty\|Almighty]]" was used to refer to [[Honor\|Honor]] even back during the [[Desolation\|Desolations]] -- in fact, it might predate human arrival on [[Roshar\|Roshar]], as it was used even by the [[Herald\|Heralds]] themselves. The Vorin religion came about around that time, basing itself on writings of a currently-unknown, but highly influential writer whom it was eventually named after. [[Nohadon\|Nohadon]] was another important figure during that time, and *The Way of Kings* he penned was one of Vorinism's early holy texts.
-Back in the early days of the religion, now called **Old Vorinism**, the [[Knights Radiant\|Knights Radiant]] were an important part of the faith, and the First Ideal was a religious doctrine. The primary tenet of the faith, as far as can be ascertained, was that how one lived was far more important than what one had accomplished. Religion premeated every aspect of life, allowing the ardents to own land and property.
+Back in the early days of the religion, now called **Old Vorinism**, the [[Knights Radiant\|Knights Radiant]] were an important part of the faith, and the First Ideal was a religious doctrine. The primary tenet of the faith, as far as can be ascertained, was that how one lived was far more important than what one had accomplished. Religion permeated every aspect of life, allowing the ardents to own land and property.
 
 ### Hierocracy: Rise
 For more information, see [[Hierocracy\|Hierocracy]].
@@ -168,15 +209,16 @@ With the coming of the [[Everstorm\|Everstorm]] and the return of the [[Knights 
 ## Notable Members
 ### The Ardentia
 For a list of all known ardents, see :Category: Ardentia.
-[[Kabsal\|Kabsal]] - [[Ghostblood\|Ghostbloods]] member who lives in [[Kharbranth\|Kharbranth]] and attempts to assassinate [[Jasnah\|Jasnah]].
-[[Geranid\|Geranid]] - A scholar of [[Spren\|spren]] who lives on a small [[Reshi\|Reshi]] island with her husband.
-[[Ashir\|Ashir]] - Geranid's husband, who studies chemistry through cooking.
-[[Kadash\|Kadash]] - head of the ardents under Dalinar’s household. He is a former elite solider who became an ardent after he witnessed the events at the [[Rift\|Rift]].
-[[Zahel\|Zahel]] - warrior ardent who teaches [[Adolin\|Adolin]], [[Renarin\|Renarin]] and [[Kaladin\|Kaladin]] swordmanship and how to fend off a [[Shardbearer\|Shardbearer]].
+[[Ashir\|Ashir]] - An ardent who studies chemistry through cooking and lives on a small Reshi island with Geranid.
 [[Ellista\|Ellista]] - scholar ardent from the [[Jokasha Monastery\|Jokasha Monastery]] who works on deciphering [[Dawnchant\|Dawnchant]] texts.
-[[Pai\|Pai]] - new member of Queen [[Aesudan\|Aesudan's]] retinue. Denounced the queen for her waste and was executed as a result, sparking riots.
+[[Geranid\|Geranid]] - A scholar of [[Spren\|spren]] who lives on a small [[Reshi\|Reshi]] island with Ashir.
+[[Kabsal\|Kabsal]] - [[Ghostblood\|Ghostbloods]] member who lives in [[Kharbranth\|Kharbranth]] and attempts to assassinate [[Jasnah\|Jasnah]].
+[[Kadash\|Kadash]] - head of the ardents under Dalinar’s household. He is a former elite solider who became an ardent after he witnessed the events at the [[Rift\|Rift]].
 [[Lhan\|Lhan]] - another member of the Queen's ardentia. Eventually subverted by [[Ashertmarn\|Ashertmarn]].
+[[Pai\|Pai]] - new member of Queen [[Aesudan\|Aesudan's]] retinue. Denounced the queen for her waste and was executed as a result, sparking riots.
 [[Rushu\|Rushu]] - an ardent scholar, associate of [[Navani\|Navani]].
+[[Tadet\|Tadet]] - an ardent who works under [[Dalinar Kholin\|Dalinar Kholin]].
+[[Zahel\|Zahel]] - warrior ardent who teaches [[Adolin\|Adolin]], [[Renarin\|Renarin]] and [[Kaladin\|Kaladin]] swordmanship and how to fend off a [[Shardbearer\|Shardbearer]].
 ### Lay members
 [[Dalinar Kholin\|Dalinar Kholin]] - [[Bondsmith\|Bondsmith]] and [[Alethkar\|Alethi]] [[Highprince\|highprince]]. Member of the Devotary of Talenet and the head of the Alethi church until his excommunication.
 [[Shallan Davar\|Shallan Davar]] - [[Jah Keved\|Veden]] [[Order of Lightweavers\|Lightweaver]]. A somewhat devout member of the Devotary of Purity.
@@ -186,4 +228,4 @@ Though "ardent" shares some similarity with [[Arteth\|arteth]], the name of [[Sh
 Though ardents are around in *The Way of Kings Prime*, there, they are simply called monks.
 
 
-https://coppermind.net/wiki/Ardent
+https://coppermind.net/wiki/Devotary_of_Insight

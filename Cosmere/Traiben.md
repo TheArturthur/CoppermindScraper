@@ -3,18 +3,18 @@
 |**Died**||
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|Mastrell|
-|**Groups**|[[Diem\|Diem]]🐱︎|
+|**Groups**|[[Diem\|Diem]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
+|**First Appeared**|*White Sand*|
 
 **Traiben** is a [[Lossand\|Lossandin]] [[Sand mastery\|sand master]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
 
 ## Appearance and Personality
-Traiben is a friendly man who is bald and has light Daysider skin. He wears the traditional robes of a sand master.
+Traiben is a friendly man with black hair and has light Daysider skin. He wears the traditional robes of a sand master.
 
 ## History
 He entered the [[Diem\|Diem]] at the same time as [[Kenton\|Kenton]] and remains Kenton's best friend even though he is promoted to the rank of mastrell while Kenton remained an acolent. Traiben generally supports Kenton, although he is skeptical of Kenton's decision to undergo the [[Mastrell's Path\|Mastrell's Path]].

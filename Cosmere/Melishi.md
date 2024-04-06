@@ -2,10 +2,9 @@
 |-|-|
 |**Abilities**|[[Order of Bondsmiths\|Bondsmith]]|
 |**Bonded With**|the [[Sibling\|Sibling]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
-|**World**|[[Roshar\|Roshar]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|[[Vizier\|Vizier]]|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* What! I misspelled three words in the first paragraph alone!*”
 \- Dalksi upon the mention of her application on becoming Prime[1]

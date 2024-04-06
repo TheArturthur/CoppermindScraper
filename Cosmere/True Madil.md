@@ -1,9 +1,8 @@
 |**True Madil**|
 |-|-|
-|**Region**|[[Roughs\|The Roughs]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Roughs\|The Roughs]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **True Madil** is a city in the Northern [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]].
 

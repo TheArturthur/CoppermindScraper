@@ -3,9 +3,8 @@
 |**Died**|*First Dreams*|
 |**Profession**|Sailor|
 |**Nationality**|[[Liaforan\|Liaforan]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Droz** is the helmsman of the ship *First Dreams* on [[Roshar\|Roshar]].
 

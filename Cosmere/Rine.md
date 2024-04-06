@@ -1,17 +1,17 @@
 |**Rine**|
 |-|-|
-|**Abilities**|[[Fused\|Fused]]|
+|**Abilities**|[[Fused\|Fused]] |
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 For the Alethi highlord, see [[Rine Hatham\|Rine Hatham]].
 >“*We must exterminate them. Our people will never be safe on this world as long as the humans exist.*”
 \-Rine[1]
 
 
-**Rine** is a [[Fused\|Fused]] on [[Roshar\|Roshar]]. He interacts with [[Venli\|Venli]] on several occasions.
+**Rine** is a *shanay-im* [[Fused\|Fused]] on [[Roshar\|Roshar]]. He interacts with [[Venli\|Venli]] on several occasions.
 
 ## Contents
 

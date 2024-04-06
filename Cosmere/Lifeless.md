@@ -1,16 +1,14 @@
 |**Lifeless**|
 |-|-|
-|**Appearance**|Gray-toned|
-|**Magic**|[[Awakening\|Awakening]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Type**|[[Awakening\|Awakened]] entity|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*Awaken to my Breath, serve my needs, live at my Command and at my word.*”
 \-The Command by which Lifeless can be created with a single BioChromatic Breath.[1]
 
 
-**Lifeless** are a type of magical entity originating on the [[Shardworld\|shardworld]] [[Nalthis\|Nalthis]], created by [[Awakening\|Awakening]]. They are classified as Type Two Biochromatic Entities: Mindless Manifestations in a Deceased Host.
+**Lifeless** are a type of magical entity originating on [[Nalthis\|Nalthis]], created by [[Awakening\|Awakening]]. They are classified as Type Two BioChromatic Entities: Mindless Manifestations in a Deceased Host.
 When an Awakener infuses a skeleton or a corpse (typically human) with a [[Breath\|Breath]], it becomes animate without becoming fully alive. This creature is then able to follow specific Commands much like any other Awakened creation.
 However, Lifeless differ from other Awakened objects in several ways. Firstly, the Breath used to animate them cannot be reclaimed by the Awakener. Secondly, they are much more flexible and intelligent in obeying orders; this is ascribed to the fact that they have a brain and are therefore less reliant on the cognitive impulse from the Awakener to determine their actions. Thirdly, they can be given further Commands, or have their previous Commands rescinded, without an infusion of more Breath.
 
@@ -67,7 +65,7 @@ Just as [[Breath\|Breaths]] and [[Awakening\|Awakening]] are seen as taboo in [[
 
 ## Interactions with other Magic Systems
 Corpses that have been [[Soulcast\|Soulcast]] into stone could be Awakened, however, this will not reanimate the person who died. The existing [[Connection\|Spiritual Connection]] of the deceased person, and the shape of the Soulcast stone, however, will make the stone easier to Awaken. Unlike [[Kalad's Phantoms\|Kalad's Phantoms]], corpses Soulcast into stone do not need bones imbedded in the rock to be Awakened.
-A [[Spren\|spren]] that has had their cognitive form pulled into the Physical Realm will have a new body spontaneously form organs and muscles, but the spren will die within minutes. These bodies can be made into Lifeless.
+A [[Spren\|spren]] that has had their Cognitive form pulled into the Physical Realm will have a new body spontaneously form organs and muscles, but the spren will die within minutes. These bodies can be made into Lifeless.
 Lifeless can tap unsealed metalminds, although some metalminds might cause the Lifeless to stop being a Lifeless.
 
 ## Trivia
@@ -76,6 +74,7 @@ An Awakener who is turned into a Lifeless using their own Breath, could theoreti
 Emotional Allomancy would have more of an affect on a Lifeless than a regular person.
 A body killed with a [[Shardblade\|Shardblade]] could be Awakened into a Lifeless.
 A Lifeless Mistborn and/or Feruchemist could not use Allomancy and/or Feruchemy.
+A [[Chasmfiend\|chasmfiend]] could not become a Lifeless using a single Breath, and even if multiple were used it would not retain the [[Nahel Bond\|Nahel Bond]] which allowed it to support its own weight.
 
 
 https://coppermind.net/wiki/Lifeless

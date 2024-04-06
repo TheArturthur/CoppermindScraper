@@ -2,9 +2,9 @@
 |-|-|
 |**Family**|
 |**Spouse**|[[Natir\|Natir]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Alaxia** is the stern-looking wife of [[Natir\|Natir]] on Roshar.
 Natir is the steward of Citylord [[Roshone\|Roshone]] in [[Hearthstone\|Hearthstone]]. Roshone comes from [[Dalilak\|Dalilak]], so Alaxia probably does as well.

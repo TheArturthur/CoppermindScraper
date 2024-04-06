@@ -3,9 +3,8 @@
 |**Profession**|[[Stormwarden\|Stormwarden]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Elthebar** is a [[Stormwarden\|stormwarden]] on [[Roshar\|Roshar]].
 

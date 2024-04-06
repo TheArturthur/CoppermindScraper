@@ -5,9 +5,8 @@
 |**Died**|Killed by [[Elend\|Elend]]|
 |**Birthplace**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Jastes Lekal** was a [[Noble\|noble]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 He was a friend and compatriot of Elend Venture and [[Telden Hasting\|Telden Hasting]]. The three often met at balls and discussed contemporary, even rebellious politics. He and Elend planned to become political allies upon the inheritance of their respective noble houses. His uncle was King [[Audil Lekal\|Audil Lekal]].

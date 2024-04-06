@@ -6,9 +6,9 @@
 |**Profession**|Scholar|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“* Our ancestors left behind civilization, power, and might in order to secure freedom. I would not give that up, Eshonai.*”
 \- Demid[2]

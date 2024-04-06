@@ -2,10 +2,9 @@
 |-|-|
 |by  Connor Chamberlain |
 |**Type**|Islands|
-|**Region**|[[Pantheon\|Pantheon]]🐱︎|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**Region**|[[Pantheon\|Pantheon]]|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 For the avatar of [[Autonomy\|Autonomy]], see [[Patji (being)\|Patji (being)]].
 **Patji**, **The Father**, is the largest island in the [[Pantheon\|Pantheon]].
 It is located in the center of the archipelago.
@@ -19,12 +18,12 @@ It is located in the center of the archipelago.
 
 
 ## Geography
-The island is one of the most difficult of the Pantheon to gain access to. Its coast is mostly cliffs and dangerous rocky beaches and, like most of the islands, Patji is covered in jungle. In the center of the island, surrounded by a caldera, is a lake called [[Patji's Eye\|Patji's Eye]]. [[Patji's Eye\|Patji's Eye]] is a lake with a green tint, this lake has similar investiture to a [[Perpendicularity\|Perpendicularity]] but on a very reduced scale.
+The island is one of the most difficult of the Pantheon to gain access to. Its coast is mostly cliffs and dangerous rocky beaches and, like most of the islands, Patji is covered in jungle. In the center of the island, surrounded by a caldera, is a lake called [[Patji's Eye\|Patji's Eye]]. [[Patji's Eye\|Patji's Eye]] is a lake with a green tint, this lake has similar Investiture to a [[Perpendicularity\|Perpendicularity]] but on a very reduced scale.
 
  by  Matthew Johnson  [[Sixth of the Dusk (character)\|Sixth]] on Patji
 ## Ecology
 The island is blanketed in dense jungle. Many of the most violent land animals on the planet are native to Patji. Most of the plant and animal life on the island have a cognitive ability that allows them to sense, or even communicate with, humans and other animals.
-[[Aviar\|Aviar]] are birds that were originally thought to have innate magical powers. Later it was found that their abilities actually come from the parasitic worms that the Aviar ate from the fruit of the [[Patji's Finger\|Patji's Finger]]
+[[Aviar\|Aviar]] are birds that were originally thought to have innate magical powers. Later it was found that their abilities actually come from the parasitic worms that the Aviar ate from the fruit of the [[Patji's Finger\|Patji's Finger]].
 
 
 [[Patji's Eye\|Patji's Eye]] is home to a parasite which infects the wildlife and causes the cognitive abilities.

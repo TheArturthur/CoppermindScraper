@@ -3,8 +3,7 @@
 |**Powers**|[[Rithmatics\|Rithmatics]]|
 |**Profession**|Professor|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*I just . . . well, you know how I am about confrontation.*”
 \-Fitch to Principal York[1]

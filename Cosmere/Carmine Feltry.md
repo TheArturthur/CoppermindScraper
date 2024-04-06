@@ -1,9 +1,8 @@
 |**Carmine Feltry**|
 |-|-|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lady **Carmine Feltry** is a resident of [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 She is planning on opening a racing circuit exclusively for motorcars on the old fairgrounds near the [[Irongate River\|Irongate River]].

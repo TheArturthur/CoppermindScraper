@@ -2,9 +2,8 @@
 |-|-|
 |**Family**|
 |**Parents**|[[Ahan\|Ahan]], [[Seaden\|Seaden]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Torena** is a noble in the Arelene court on [[Sel\|Sel]].
 She is daughter of Earl [[Ahan\|Ahan]] and Lady [[Seaden\|Seaden]]. She is usually a quiet member of the court gatherings, but helps start the fencing lessons, being the first volunteer. She starts courting [[Shuden\|Shuden]] prior to the [[Invasion of Arelon\|invasion of Arelon]]. She participated in Sarene's [[Widow's Trial\|Widow's Trial]], and is the first of the women to participate. She and [[Kaise\|Kaise]] act as Sarene's train-bearers during her marriage to [[Roial\|Roial]]. She dances and rides with Shuden.

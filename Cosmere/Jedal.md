@@ -4,9 +4,8 @@
 |**Spouse**|[[Margel\|Margel]]|
 |**Children**|[[Spook\|Spook]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Jedal** is a [[Skaa\|skaa]] miner from the [[Eastern Dominance\|Eastern Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. He is the father of [[Spook\|Spook]].
 

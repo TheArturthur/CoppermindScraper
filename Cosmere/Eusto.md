@@ -1,10 +1,10 @@
 |**Eusto**|
 |-|-|
 |**Profession**|Ship's captain|
+|**Groups**|[[Northern Interests Trading Company\|Northern Interests Trading Company]]|
 |**Ethnicity**|[[Eelakin\|Eelakin]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Captain Eusto** is an [[Eelakin\|Eelakin]] working for [[Northern Interests Trading Company\|Northern Interests Trading Company]] on [[First of the Sun\|First of the Sun]].
 

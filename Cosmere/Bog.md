@@ -1,9 +1,8 @@
 |**Bog**|
 |-|-|
 |**Profession**|Pilot|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 Callsign **Bog** is a member of [[Nightmare Flight\|Nightmare Flight]] along with [[Nose\|Nose]], [[Tunestone\|Tunestone]], [[Sushi\|Sushi]], [[Jager\|Jager]], and [[Nord\|Nord]]. He is around eighteen years old and flies a [[Poco\|Poco]].
 

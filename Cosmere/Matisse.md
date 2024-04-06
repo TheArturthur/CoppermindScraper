@@ -7,9 +7,9 @@
 |**Residence**|[[Elantris (city)\|Elantris]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Hope of Elantris*|
+|**First Appeared**|*The Hope of Elantris*|
 
 **Matisse** is an [[Elantrian\|Elantrian]].
 She looks after the children of New Elantris, keeping them safe during the [[Invasion of Arelon\|Invasion of Arelon]]. [[Dashe\|Dashe]] has become her adoptive father.

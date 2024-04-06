@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Pirate|
 |**Species**|[[Tanuzedran\|Tanuzedran]]|
-|**World**|*Unknown*|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **RayZed** is a young pirate in the [[Belt\|belt]] of the [[Nowhere\|nowhere]], and a member of the [[Broadsider Faction\|Broadsider Faction]].
 

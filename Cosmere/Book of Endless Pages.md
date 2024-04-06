@@ -1,9 +1,8 @@
 |**Book of Endless Pages**|
 |-|-|
 |**Type**|Religious text|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page is about an in-world piece of literature. For the novel which used this name as a working title, see [[Words of Radiance\|Words of Radiance]].
 >“*I'm still learning. We all are. The Book of Endless Pages cannot be filled … though your father made a very nice addition to the text.*”

@@ -2,8 +2,7 @@
 |-|-|
 |by  TheCremling |
 |**Groups**|[[Librarian\|Librarian]], [[Scrivener's Bones\|Scrivener's Bones]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*You will fall, Smedry! The Librarians will have your blood! It will be spilt on an altar to make the very Lenses we’ll use to destroy your kingdoms, break that which you love, and enslave those who follow you. You may have beaten me, but you will fall!*”
 \-Kilimanjaro's last words before turning into a Curator [1]

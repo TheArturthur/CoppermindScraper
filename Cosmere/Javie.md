@@ -1,9 +1,8 @@
 |**Javie**|
 |-|-|
 |**Profession**|Professor|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Professor **Javie** is an engineer and member of the [[Set\|Set]].
 

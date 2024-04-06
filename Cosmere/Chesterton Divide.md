@@ -3,9 +3,9 @@
 |**Died**|By [[Silence Montane\|Silence Montane]]|
 |**Profession**|Highwayman|
 |**Residence**|[[Forests of Hell\|The Forests of Hell]]|
-|**World**|[[Threnody\|Threnody]]|
+|**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
+|**First Appeared**|*Shadows for Silence in the Forests of Hell*|
 
 **Chesterton Divide** is a highwayman from [[Threnody\|Threnody]].
 
@@ -33,7 +33,7 @@ Later he kills the governor of [[Lastport\|Lastport]], although how or why are u
 
 ### Arrival at Silence's Waystop
 Chesterton and his men then stop at [[Silence Montane\|Silence Montane's]] [[Silence's waystop\|waystop]] for food, where she recognizes him from her book of bounties. Unbeknownst to them, she has her daughter, [[William Ann\|William Ann]], drug their food with [[Fenweed\|fenweed]] to make them drowsy. She also mixes their horses' water with [[Wetleek\|wetleek sap]], which allows her and William Ann to track them by their urine, which is bioluminescent under the light of [[Abraham's Fire\|Abraham's Fire]].
-Not long after leaving Silence's waystop, Chesterton and his men bed down for the night. Drugged as they are he and his men fall into a deep sleep. Silence and and William Ann find them, and dispatch almost all of them before Chesterton wakes and attempts to escape. Silence and her daughter successfully kill him with a hammer while keeping any blood they shed covered with a bag.
+Not long after leaving Silence's waystop, Chesterton and his men bed down for the night. Drugged as they are he and his men fall into a deep sleep. Silence and William Ann find them, and dispatch almost all of them before Chesterton wakes and attempts to escape. Silence and her daughter successfully kill him with a hammer while keeping any blood they shed covered with a bag.
 
 ### Fight for Chesterton's Corpse
 [[Red Young\|Red Young]] and his men stop Silence and William Ann on their way home with Chesterton's body, and take it off of them for the reward. Silence contrives a booby trap to cause an explosion, which allow them to escape with the body. However, when Red Young catches up with them, Silence and her daughter are forced to leave the body behind. [[Theopolis\|Theopolis]] successfully retrieves the body and places it in his hideout, where Silence recovers it after his death. She creates the story that Theopolis was the White Fox and turns Chesterton's body in for the bounty.

@@ -1,8 +1,7 @@
 |**Passions**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -39,7 +38,7 @@ The Passions have their basis in traditions that were influenced by the [[Shard\
 Another Shard named [[Ruin\|Ruin]] that formerly inhabited [[Scadrial\|Scadrial]] also spoke pointedly about passion. This may have some significance in the [[Cosmere\|cosmere]], as not all of the Shards share Ruin and Odium's regard for passion.
 
 ## Practitioners
-Although Thaylenah is not considered a "[[Vorin\|Vorin]] kingdom", Vorinism is culturally dominant and there is an outpost of Vorin leadership located there. Thaylens are therefore nominally Vorin, but many prominent Thaylens (including [[Yalb\|Yalb]], [[Yokska\|Yokska]], and [[Vstim\|Vstim]]) also follow the Passions. [[Febrth\|Febrth]] openly follows the Passions despite his membership in the [[Diagram (group)\|Diagram]]. [[Hobber\|Hobber]] mentions the Passions, although his ethnicity is not known.
+Although Thaylenah is not considered a "[[Vorin\|Vorin]] kingdom", Vorinism is culturally dominant and there is an outpost of Vorin leadership located there. Thaylens are therefore nominally Vorin, but many prominent Thaylens (including [[Yalb\|Yalb]], [[Yokska\|Yokska]], and [[Vstim\|Vstim]]) also follow the Passions. [[Febrth\|Febrth]] openly follows the Passions despite his membership in the [[Diagram (group)\|Diagram]]. [[Hobber\|Hobber]] follows the Passions, although his ethnicity is not known.
 The crew of the *Wandersail* maintained a strong belief in the power of omens, a fact that [[Nikli\|Nikli]] leveraged to try and get them to abandon their journey to [[Akinah\|Akinah]].
 The Passions seem to be culturally ingrained in most Thaylens. Queen [[Fen\|Fen]] and her husband [[Kmakl\|Kmakl]] both make reference to the Passions despite the pressure for Thaylen leadership to practice Vorinism. [[Rysn\|Rysn]] also maintains a belief in the Passions, despite sometimes feeling skepticism about the philosophy.
 

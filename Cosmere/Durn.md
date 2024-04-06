@@ -3,9 +3,8 @@
 |**Profession**|Thief lord|
 |**Residence**|[[Urteau\|Urteau]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Durn** is a leader of the [[Skaa\|skaa]] underground in [[Urteau\|Urteau]] on [[Scadrial\|Scadrial]] and an aspiring musician.
 

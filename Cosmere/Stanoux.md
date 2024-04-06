@@ -2,10 +2,9 @@
 |-|-|
 |**Relatives**|[[Stansi\|Stansi]]|
 |**Profession**|Linguist|
-|**Groups**|[[Set\|Set]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Groups**|[[Set\|Set]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Lord **Stanoux** is a linguist and a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]].
 

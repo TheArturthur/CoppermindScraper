@@ -1,9 +1,8 @@
 |**Mennis**|
 |-|-|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*Some of us can't fight, so we do other things.*”
 \-Mennis about his role in the skaa rebellion.[1] 

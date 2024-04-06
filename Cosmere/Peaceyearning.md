@@ -1,11 +1,10 @@
 |**Peaceyearning**|
 |-|-|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 **Peaceyearning** is a [[Returned\|Returned]] that is worshiped as a god in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
 Around the year 327, Peaceyearning lived in the [[Court of the Gods\|Court of the Gods]] in [[T'Telir\|T'Telir]], was a lesser god in the court, and had little in the way of political influence.

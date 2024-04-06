@@ -3,9 +3,8 @@
 |by User: KalynaAnne|
 |**Type**|Plant|
 |**Native to**|[[Shattered Plains\|Shattered Plains]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For more images, see [[Prickletac/Gallery\|/Gallery]].
 **Prickletac** or **Twisted Spine** is a type of plant native to the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]] and other areas.

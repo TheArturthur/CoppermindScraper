@@ -4,9 +4,8 @@
 |**Died**|Executed ? 1173|
 |**Profession**|[[Ardent\|Ardent]] of the Devotary of Denial|
 |**Residence**|[[Kholinar\|Kholinar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* We are sycophants. The queen's ardents tell her only what she wants to hear.*”
 \- Pai to Lhan[1]
@@ -51,7 +50,7 @@ Lhan took Pai to the service yard behind the kitchens to show her a number of pi
 Pai sat and stared at the food until that evening, when Lhan returned to speak with her asking after her decision. Pai asked him what he thought of the spiritual cost of his actions. She wondered if any of the Alethi elite even cared for or believed in the Almighty anymore. She also asked him why no one heard from the Almighty anymore, why the [[Herald\|Heralds]] had not returned to denounce the [[Hierocracy\|Hierocracy]] if it had been so evil. She told Lhan that she had decided that she would remain in Kholinar to do good and try to be an example for others to follow.
 
 ### Protest and Execution
-Pai left Lhan and went to the [[People's Hall\|People's Hall]], the location from which the monarch typically addressed the people of Kholinar. Working by [[Sphere\|spherelight]] through the night, she wrote the [[Glyph\|glyphs]] of the ten foolish attributes before the dais upon which sat the [[Common Throne\|Common Throne]]. Beneath each glyph Pai wrote explanation of how the queen exemplified the attribute. These paragraphs were not just an attack on the queen, but a denouncement of the lighteyes and the government itself. Pai remained bowed there before the Throne until she was discovered by Lhan and the other ardents in the morning. Pai was executed the morning of the very next day for her actions.
+Pai left Lhan and went to the [[People's Hall\|People's Hall]], the location from which the monarch typically addressed the people of Kholinar. Working by [[Sphere\|spherelight]] through the night, she wrote the [[Glyph\|glyphs]] of the ten foolish attributes before the dais upon which sat the [[Common Throne\|Common Throne]]. Beneath each glyph Pai wrote explanation of how the queen exemplified the attribute. These paragraphs were not just an attack on the queen, but a denouncement of the lighteyes and the government itself. Pai remained bowed there before the Throne until she was discovered by Lhan and the other ardents in the morning. Pai was executed the morning of the very next day for her actions. Queen Aesudan would later falsely claim Pai had been trying to refound the Hierocracy.
 
 ### Legacy
 In the evening after her execution, the citizens of Kholinar began to riot. It is uncertain what precisely set off the riots, or whether it was in support of Pai's denouncement of the government, in anger over her execution, or both. However, Pai's actions certainly played a heavy role in causing the rioting, which exacerbated the chaos when the [[Everstorm\|Everstorm]] first hit Kholinar. The riots continued through the end of 1173 and were ongoing in the first few days of 1174, when [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] heard of them via [[Spanreed\|spanreed]].

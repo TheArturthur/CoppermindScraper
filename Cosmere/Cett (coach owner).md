@@ -3,9 +3,8 @@
 |**Family**|[[House Cett\|House Cett]]|
 |**Profession**|[[Ashweather Carriage and Coach\|Businessman]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 An unnamed member of the **Cett** family is the owner and operator of [[Ashweather Carriage and Coach\|Ashweather Carriage and Coach]] in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

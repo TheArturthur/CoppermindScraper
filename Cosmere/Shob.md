@@ -4,9 +4,8 @@
 |**Religion**|[[Vorin\|Vorin]]|
 |**Groups**|Sadeas army |
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*With the way justice plays out in this world, I can guarantee you'll outlive the rest of us.*”
 \-Vathah to Shob[1]

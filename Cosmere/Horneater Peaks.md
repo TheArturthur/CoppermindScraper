@@ -2,10 +2,9 @@
 |-|-|
 |by  Yen Shu Liao |
 |**Type**|Mountains|
-|**Region**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Horneater Peaks** are a mountain range in [[Jah Keved\|Jah Keved]] in eastern [[Roshar\|Roshar]]. They are the home of the [[Unkalaki\|Unkalaki]], also known as the Horneater people.
 

@@ -6,9 +6,9 @@
 |**Skills**|Impersonation and disguise|
 |**Profession**|Servant, spy|
 |**Species**|[[Sleepless\|Sleepless]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|* Dawnshard*|
 
 **Nikliasorm**, also known as **Nikli**, is a [[Dysian Aimian\|Dysian Aimian]] living on [[Roshar\|Roshar]]. It is at least 400 years old, though it is young for its species.
 
@@ -45,4 +45,4 @@ Nikli is regarded by the Sleepless, particularly [[Yelamaiszin\|Yelamaiszin]], a
 
 
 
-https://coppermind.net/wiki/Nikliasorm
+https://coppermind.net/wiki/Nikli

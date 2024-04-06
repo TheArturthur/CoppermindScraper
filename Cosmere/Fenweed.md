@@ -1,9 +1,8 @@
 |**Fenweed**|
 |-|-|
 |**Type**|Plant|
-|**World**|[[Threnody\|Threnody]]|
+|**World of Origin**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Fenweed** is a poisonous plant that grows in the [[Forests of Hell\|Forests of Hell]] on [[Threnody\|Threnody]].
 The primary property of fenweed is to induce extreme headaches, drowsiness, dizziness, sleepiness, and a cloudy-head. Fenweed has a very light taste, so it can easily be masked by the flavor of food or beer.

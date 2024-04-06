@@ -2,9 +2,8 @@
 |-|-|
 |**Family**|
 |**Parents**|[[Heb\|Heb]], [[Taffa\|Taffa]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Father. Father, what is happening?*”
 \- Seeli[1]

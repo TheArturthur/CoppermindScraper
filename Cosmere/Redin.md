@@ -6,9 +6,8 @@
 |**Siblings**|[[Sudi Valam\|Sudi Valam]]|
 |**Profession**|Assassin|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Redin** is an illegitimate son of [[Highprince\|Highprince]] [[Valam\|Valam]] of [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. He purportedly acts as Valam's assassin and executioner.
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Ethnicity**|[[Idrian\|Idrian]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*Who cares about hope? I want commitments. Will titles be handed out? Who gets the trade contracts?*”
 \-Paxen[1]

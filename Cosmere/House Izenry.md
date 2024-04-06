@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Family|
 |**Era**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn (series)*|
 
 **House Izenry** is a noble house in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 They are publicly known as the rival house to [[House Tekiel\|House Tekiel]]. House Izenry is strong enough that an assassination of a Tekiel ally could reasonably be attributed to House Izenry.

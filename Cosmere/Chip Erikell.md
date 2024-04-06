@@ -4,9 +4,8 @@
 |**Relatives**|[[Lord Erikell\|Lord Erikell]]|
 |**Died**|342 [[Catacendre\|PC]]|
 |**Residence**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 For other uses of Chip, see [[Chip\|Chip]].
 **Chip Erikell** is an accused criminal in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].

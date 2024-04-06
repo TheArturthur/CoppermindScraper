@@ -3,9 +3,8 @@
 |by  Bonnie Johnson |
 |**Died**|[[Battle of Narak\|Battle of Narak]]|
 |**Species**|[[Ryshadium\|Ryshadium]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*There had been a ... bond between him and Sureblood. More delicate and indefinable than the bond between man and sword, but still there.*”
 \-Adolin[2]

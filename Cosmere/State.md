@@ -1,7 +1,6 @@
 |**State**|
 |-|-|
 |**Universe**|[[Wode\|Wode]] |
-|**Featured In**|*Perfect State*|
 
 The **States** are a vast collection of simulated worlds in which [[Liveborn\|Liveborn]] and [[Machineborn\|Machineborn]] live in. The States are administered by the [[Wode\|Wode]], though they are hackable by Liveborn who know what they are doing.
 

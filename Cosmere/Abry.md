@@ -3,9 +3,9 @@
 |**Groups**|Amaram's army|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Abry** was a boy in [[Hearthstone\|Hearthstone]].
 He volunteered for [[Amaram\|Amaram's]] army with [[Jost\|Jost]].

@@ -5,9 +5,8 @@
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Kerztian\|Kerztian]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Grelin** is the Lord Merchant [[Vey\|Vey's]] secretary.
 

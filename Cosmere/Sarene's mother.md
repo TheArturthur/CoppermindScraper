@@ -6,9 +6,8 @@
 |**Bonded With**|[[Ashe\|Ashe]] |
 |**Titles**|Queen of [[Teod\|Teod]]|
 |**Nationality**|[[Teo\|Teo]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Sarene's mother** was the Queen of [[Teod\|Teod]] and wife of [[Eventeo\|Eventeo]] on [[Sel\|Sel]] during the [[Late Era\|Late Era]]. She is never named in the text of [[Elantris (book)\|Elantris]].
 

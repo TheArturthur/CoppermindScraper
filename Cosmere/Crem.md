@@ -2,9 +2,8 @@
 |-|-|
 |by  Marie Seeberger |
 |**Type**|Substance|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -25,7 +24,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 ## Appearance and Properties
-Crem is a light brown, sediment-like substance. It falls along with the heavy rains during [[Highstorm\|highstorms]], while the lighter rainfall during the [[Weeping\|Weepings]] does not carry it. It gives stormwater a metallic taste. Consuming it can cause sickness, making highstorm water unsafe to drink; however, after about a day, it will settle on the bottom of the container, leaving clean water above. When dried, it can turn into dust. Water mixed with crem is known as **cremwater**. **Cremslime** - a thicker mud formed of water mixed with crem - has an unpleasant stench. Densely-packed, accumulated crem forms **cremstone**, which is tannish brown in color.
+Crem is a light brown, sediment-like substance. It falls along with the heavy rains during [[Highstorm\|highstorms]], while the lighter rainfall during the [[Weeping\|Weepings]] does not carry it. It gives stormwater a metallic taste. Consuming it can cause sickness, making highstorm water unsafe for humans to drink; however, after about a day, it will settle on the bottom of the container, leaving clean water above. When dried, it can turn into dust. Water mixed with crem is known as **cremwater**. **Cremslime** - a thicker mud formed of water mixed with crem - has an unpleasant stench. Densely-packed, accumulated crem forms **cremstone**, which is tannish brown in color.
 Highstorms cause crem buildup on all structures, whether unnatural or natural, such as buildings, plateaus, and even corpses. Unless cleaned regularly, everything on Roshar eventually becomes covered with crem, and any overhangs will grow crem stalactites. In fact, the entire continent is slowly "migrating" leeward, thanks to the highstorms depositing crem as they travel.
 Despite being above the storms, even [[Urithiru\|Urithiru]] has some crem built up on the [[Oathgate\|Oathgate]] platforms. This is because the height of highstorm varies periodically, sometimes being higher than Urithiru.
 Crem is currently influenced by [[Cultivation\|Cultivation]], despite predating her.

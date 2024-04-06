@@ -1,11 +1,10 @@
 |**Moelach**|
 |-|-|
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
-|**Groups**|[[Unmade\|Unmade]]🐱︎|
+|**Groups**|[[Unmade\|Unmade]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*There is one you will watch. Though all of them have some relevance to precognition, Moelach is one of the most powerful in this regard. His touch seeps into a soul as it breaks apart from the body, creating manifestations powered by the spark of death itself.*”
 \-From the Diagram, Book of the 2nd Desk Drawer: Paragraph 15[1]

@@ -9,11 +9,11 @@
 |**Birthplace**|[[Luthadel\|Luthadel]]|
 |**Residence**|[[Fadrex City\|Fadrex City]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*The Hero of Ages*|
 
-**Aradan Yomen** is an [[Obligator\|obligator]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
+**Aradan Yomen** is an [[Obligator\|obligator]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. He is an [[Atium\|atium]] [[Misting\|Misting]] (aka a [[Seer\|Seer]]).
 
 ## Contents
 
@@ -46,7 +46,9 @@ Within five years at Fadrex, he'd risen to being the prelan of the local Ministr
 
 ### King of Fadrex City
 As Cett left, Yomen seized the chance to appoint himself as the new king of the Western Dominance. He reintroduced the social structures under the Lord Ruler, which did not encounter resistance because the people were used to it. He wore a diadem with an [[Atium\|atium]] bead on it to show his power and led people to believe he was a [[Allomancy\|Mistborn]]. Ruin was able to implant [[Hemalurgy\|Hemalurgic]] spike in Yomen, but Yomen removed it before Ruin got a firm grip on his mind. A logical and rational person, it was harder for Ruin to influence him, though Ruin tried hard.
-Some months before the [[Final Ascension\|Final Ascension]], [[Elend Venture\|Elend Venture]] moved the army of the [[New Empire\|New Empire]] to Fadrex City, which led to the [[Siege of Fadrex City\|Siege of Fadrex City]]. The siege resulted in an alliance between Yomen and Venture.
+Some months before the [[Final Ascension\|Final Ascension]], [[Elend Venture\|Elend Venture]] moved the army of the [[New Empire\|New Empire]] to Fadrex City, which led to the [[Siege of Fadrex City\|Siege of Fadrex City]]. After the fashion of the Lord Ruler, Yomen continued to host balls for the nobles. Elend and Vin took advantage of this and attended a ball to intimidate the nobles and Yomen. Elend suggested that Yomen submit to him and continue to rule under his leadership. Yomen firmly rejected the idea, because in his opinion only those chosen by the Lord Ruler had the right to rule.
+After two weeks Yomen started the first attack on the army of the New Empire. It consisted of three small attacks, one coming from north and the second from south. Both were used as a distraction from the third one, taking place at the koloss camp. Eleven thousand koloss died under the fire of catapults or killing each other in bloodlust.
+The siege resulted in an alliance between Yomen and Venture.
 
 ## Trivia
 He was named for the winner of an auction by Brandon Sanderson for character naming rights, Aaron Yeoman.

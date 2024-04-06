@@ -1,9 +1,8 @@
 |**Makabakam**|
 |-|-|
-|**Era**|Heraldic Epochs|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
 **Makabakam** was the largest of the historic [[Silver Kingdoms\|Silver Kingdoms]] of [[Roshar\|Roshar]].
@@ -19,4 +18,4 @@ In the present day, the region once occupied by Makabakam is called [[Makabak\|M
 
 
 
-https://coppermind.net/wiki/Makabaki
+https://coppermind.net/wiki/Makabakam

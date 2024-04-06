@@ -4,8 +4,9 @@
 |**Parents**|[[Leavenworth Smedry\|Leavenworth]]|
 |**Siblings**|[[Attica Smedry\|Attica]], [[Pattywagon Smedry\|Pattywagon]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 
 **Kazan Smedry** is a member of [[House Smedry\|House Smedry]]. He is the son of [[Leavenworth Smedry\|Leavenworth Smedry]] and the brother of [[Attica\|Attica]] and [[Pattywagon Smedry\|Pattywagon]].
 

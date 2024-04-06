@@ -2,11 +2,10 @@
 |-|-|
 |**Died**|Jes 1174|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
-|**Groups**|[[Diagram (group)\|Diagram]]🐱︎|
+|**Groups**|[[Diagram (group)\|Diagram]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*We are patriots, as I said before. Patriots of Alethkar. The Alethkar that could be.*”
 \-Graves[2]

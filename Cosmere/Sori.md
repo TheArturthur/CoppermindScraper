@@ -2,10 +2,9 @@
 |-|-|
 |by  Connor Chamberlain |
 |**Type**|Island|
-|**Region**|[[Pantheon\|Pantheon]]🐱︎|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**Region**|[[Pantheon\|Pantheon]]|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Sori** is a small island in the [[Pantheon\|Pantheon]] on [[First of the Sun\|First of the Sun]].
 

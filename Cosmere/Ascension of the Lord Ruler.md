@@ -2,7 +2,6 @@
 |-|-|
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 This article is about the Lord Ruler's Ascension. For [[Harmony\|Harmony's]] ascension to godhood, see [[Final Ascension\|Final Ascension]].
 The **Ascension** is the name given to the event surrounding the rise of [[Rashek\|Rashek]] as the Lord Ruler of the [[Final Empire\|Final Empire]] by taking the power at the [[Well of Ascension\|Well of Ascension]].

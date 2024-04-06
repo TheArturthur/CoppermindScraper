@@ -5,9 +5,8 @@
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|King of Alethkar, The Sunmaker|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
 \- The Sunmaker[1]
@@ -30,7 +29,8 @@
 
 
 ## Appearance and Personality
-Little of the Sunmaker's personality is known. He is an ambitious man, constantly going above and beyond on tasks others thought impossible. He is a lover of battle and considers it to be a great game. There is a streak of cruelty to his conquests, with Sadees killing thousands to achieve his dream of a unified Roshar.
+Little of the Sunmaker's personality is known. He is an ambitious man, constantly going above and beyond on tasks others thought impossible. He is a lover of battle and considers it to be a great game. There is a streak of cruelty to his conquests, with Sadees killing thousands to achieve his dream of a unified Roshar. He is insane and has a tendency to kill even ordinary citizens in his conquest, such as in the genocide he instituted against the Azish people.
+He has little tolerance for other cultures, claiming that the Azish were uncivilized since they did not use [[Lighteyes\|eye color]] as a basis for their social hierarchy.
 Nothing is known of the Sunmaker's physical appearance, beyond the fact that he refused to wear a crown. The man wielded a hooked [[Shardblade\|Shardblade]] known as [[Oathbringer (Shardblade)\| Oathbringer]].
 
 ## History
@@ -48,4 +48,4 @@ In modern Alethkar, Sadees is revered as a cultural hero. To be compared to the 
 Sadees is the Rosharan equivalent of a persona such as  or .
 
 
-https://coppermind.net/wiki/Sadees
+https://coppermind.net/wiki/Sunmaker

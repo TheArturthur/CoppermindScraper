@@ -3,10 +3,9 @@
 |**Type**|Magic|
 |**Owner**|[[Hoid\|Hoid]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **First Gem** is a topaz with magical properties that [[Hoid\|Hoid]] once carried and from which he took his name for a while.
-The name First Gem was referenced by [[Patji (being)\|Patji]] in the Second Oathbringer Letter, when he addressed Hoid as "Cephandrius, bearer of the First Gem.". The fact that Hoid was a Dawnshard at some point is related to his title as Bearer of the First Gem.
+The name First Gem was referenced by [[Patji (being)\|Patji]] in the Second Oathbringer Letter, when he addressed Hoid as "Cephandrius, bearer of the First Gem." The fact that Hoid was a Dawnshard at some point is related to his title as Bearer of the First Gem.
 
 ## Theories
 This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.

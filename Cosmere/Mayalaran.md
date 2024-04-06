@@ -4,9 +4,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Edgedancers\|Edgedancer]] magic, [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]]|
 |**Aliases**|Maya|
 |**Species**|[[Cultivationspren\|Cultivationspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -40,7 +40,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 ### Appearance
 For more images, see [[Mayalaran/Gallery\|/Gallery]].
 Maya's appearance in [[Shadesmar\|Shadesmar]] is that of a woman with scratched-out eyes, akin to a painting with the features scratched out rather than simply empty sockets. Her features seem to be made of ashen brown cords the thickness of hair, giving her skin the appearance of rough cloth, string or brown vines. She has crystalline hands with long nails.
-In the [[Physical Realm\|Physical Realm]], Maya appears as a Shardblade. The blade itself is shaped like a larger version of a standard longsword, and bears some resemblance to the enormous two-handed broadswords traditionally wielded by the [[Horneater\|Horneaters]]. The cutting edge is smooth and sinuous, like an eel, while the back has ridges of crystal.. When summoned, the mist it forms from is in the shape of vines.
+In the [[Physical Realm\|Physical Realm]], Maya appears as a Shardblade. The blade itself is shaped like a larger version of a standard longsword, and bears some resemblance to the enormous two-handed broadswords traditionally wielded by the [[Horneater\|Horneaters]]. The cutting edge is smooth and sinuous, like an eel, while the back has ridges of crystal. When summoned, the mist it forms from is in the shape of vines.
 
 ### Personality
 >“*You want to fight it, don’t you? It reminds you of when you were alive.*”
@@ -52,7 +52,7 @@ During the trial at [[Lasting Integrity\|Lasting Integrity]], Maya managed, with
 
 ## History
 ### The Recreance
-Mayalaran was killed by her bonded Edgedancer when they abandoned their oaths, believing that the [[Nahel bond\|Nahel bond]] would bring about the destruction of [[Roshar\|Roshar]] the way it had for humanity's homeworld. During Adolin's trial, she reveals that she, along with all the other deadeyes, had chosen to sacrifice themselves through the Recreance: they were willing partners to the end of the Knights Radiant.
+Mayalaran was killed by her bonded Edgedancer when they abandoned their oaths, believing that the [[Nahel bond\|Nahel bond]] would bring about the destruction of [[Roshar\|Roshar]] the way it had for humanity's homeworld, [[Ashyn\|Ashyn]]. During Adolin's trial, she reveals that she, along with all the other deadeyes, had chosen to sacrifice themselves through the Recreance: they were willing partners to the end of the Knights Radiant.
 At some point before the [[War of Reckoning\|War of Reckoning]], [[Adolin\|Adolin]] dueled a [[Lighteyes\|lighteyes]] named [[Tinalar\|Tinalar]]. Against everyone's expectations, he won the duel and secured Maya as his own. At the time, her name was unknown to anyone living. Believing it to be pretentious to give her one that wasn't hers, Adolin left her unnamed.
 
 ### The War of Reckoning (1167-1174)
@@ -82,4 +82,4 @@ Once partially revived, Maya did not return fully to her pre-deadeye form. Her e
 
 
 
-https://coppermind.net/wiki/Mayalaran
+https://coppermind.net/wiki/Maya

@@ -3,9 +3,9 @@
 |by  EccoS |
 |**Abilities**|[[Splinter\|Splinter]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 **Cusicesh, the Protector** is an extremely large [[Spren\|spren]] in a bay neighboring the city of [[Kasitor\|Kasitor]] in [[Iri\|Iri]] on [[Roshar\|Roshar]].
 
@@ -23,6 +23,7 @@
 
 
 ## Attributes and Abilities
+ by  Jordi Rapture  Above the harbor
 ### Daily Appearance
 At exactly seven forty-six in the morning every day, Cusicesh rises from the waters of the bay, sending out an illusory wake. This happens without fail such that the locals can set timepieces by its occurrence. It takes the form of a hundred-foot tall column-shaped jet of water, with four long arms that extend downward from the column and form fingers and thumbs. The arms always form in the same places, and the people in the city have placed large golden pedestals where the hands come to rest. It is a translucent sea-blue color, ranging from deep blue in the center to a lighter blue on the surface. It forms a face on a stumplike neck that always looks east toward the [[Origin\|Origin]]; the face shifts very rapidly into different human faces, both male and female. The faces continue to cycle for ten minutes, and Cusicesh then retreats into the water, leaving another illusory wake.
 
@@ -38,4 +39,4 @@ When [[Shallan Davar\|Shallan Davar]] first learned of the name "[[Odium\|Odium]
 In facing east towards the [[Origin\|Origin]], Cusicesh must look across the continent of Roshar. The fact that observers in Kasitor can see Cusicesh's changing faces implies that at least part of the city is situated to the east of the bay.
 
 
-https://coppermind.net/wiki/Cusicesh_the_Protector
+https://coppermind.net/wiki/Cusicesh

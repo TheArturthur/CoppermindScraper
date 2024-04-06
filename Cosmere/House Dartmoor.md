@@ -2,8 +2,7 @@
 |-|-|
 |**Type**|Family|
 |**Homeland**|[[Free Kingdoms\|Free Kingdoms]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Books**|*Alcatraz series*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **House Dartmoor** is a noble house of the [[Free Kingdoms\|Free Kingdoms]], they are the leaders of [[Nalhalla\|Nalhalla]].
 

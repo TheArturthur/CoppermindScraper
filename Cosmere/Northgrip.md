@@ -1,9 +1,8 @@
 |**Northgrip**|
 |-|-|
-|**Nation**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Jah Keved\|Jah Keved]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Northgrip** is a city in northeast [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. It lies on a bay adjacent to the eastern [[Reshi Sea\|Reshi Sea]], near the border with [[Herdaz\|Herdaz]]. It is the largest city in northern Jah Keved.
 

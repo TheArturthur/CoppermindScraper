@@ -1,9 +1,8 @@
 |**Callins**|
 |-|-|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 For the resident of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]], see [[Callins Geffenry\|Callins Geffenry]].
 >“*Excuse me, Brightlord. But what duty is that?*”
 \-Callins to Amaram[1]

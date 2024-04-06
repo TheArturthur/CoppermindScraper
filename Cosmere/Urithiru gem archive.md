@@ -1,10 +1,9 @@
 |**Urithiru gem archive**|
 |-|-|
 |by  Marie Seeberger |
-|**City**|[[Urithiru\|Urithiru]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Urithiru\|Urithiru]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 The **Urithiru gem archive** is a collection of gems bearing encoded messages left by the ancient [[Knights Radiant\|Knights Radiant]]. It is hidden in a wall of a former library in the basement of [[Urithiru\|Urithiru]].
 

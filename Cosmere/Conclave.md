@@ -2,10 +2,9 @@
 |-|-|
 |by  Yoav Kozenyuk |
 |**Usage**|Palace|
-|**City**|[[Kharbranth\|Kharbranth]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**City**|[[Kharbranth\|Kharbranth]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Your Brightness Jasnah, she’ll undoubtedly be at the Conclave, you see. And the king lives there too. It’s the center of the city, so to speak. Except it’s on the top.*”
 \-Tozbek instructing Shallan where she can find Jasnah upon arriving in Kharbranth[1]
@@ -71,7 +70,7 @@ Bathing rooms are available for guest use, with pools carved directly into the g
 The palace gardens are accessible to guests as well as the Kharbranthian ardents. The fauna of the gardens is diverse, however, not to the extent that could be found in places such as [[Jah Keved\|Jah Keved]]. Low stone walls are used in some of the gardens to create walls and provide privacy. Taravangian can often be found in the gardens at midday, when he takes his daily walk.
 
 ### Taravangian's Study and Secret Hospital
-Taravangian's study is set against the outer rock face, with a large window set into the wall overlooking the city and out towards the ocean. Overfilled bookcases line the right wall, while two dozen lamps in a double row are on the left. A door in the wall of the room leads to a secret hospital hidden within the Conclave, not marked on on any of the palace maps. Railings running along the sides of the large room create a terrace look, and hospital beds take up the floor space. The room is large enough to hold several hundred beds, many of which are occupied by the sick and dying. Everything in the room is painted white.
+Taravangian's study is set against the outer rock face, with a large window set into the wall overlooking the city and out towards the ocean. Overfilled bookcases line the right wall, while two dozen lamps in a double row are on the left. A door in the wall of the room leads to a secret hospital hidden within the Conclave, not marked on any of the palace maps. Railings running along the sides of the large room create a terrace look, and hospital beds take up the floor space. The room is large enough to hold several hundred beds, many of which are occupied by the sick and dying. Everything in the room is painted white.
 Those that are brought to the hospital are killed through exsanguination. This method is used as it is both slow and convenient, allowing for the recording of Death Rattles from those affected by Moelach. While it is preferable that only terminal patients are transferred to the hospital, the number of occupants is sometimes bolstered by high risk citizens. The ardent, [[Dova\|Dova]], oversees the collection of the Death Rattles and the hospital is staffed by the Silent Gatherers.
 
 

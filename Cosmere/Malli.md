@@ -2,9 +2,8 @@
 |-|-|
 |**Spouse**|[[Felt\|Felt]]|
 |**Profession**|Scribe|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Malli** is a scribe on [[Roshar\|Roshar]]. She is married to a [[Scadrial\|Scadrian]] [[Worldhopper\|worldhopper]] named [[Felt\|Felt]]. Malli's own origins are not known, and it is not clear if she shares (or is even aware of) Felt's abilities.
 

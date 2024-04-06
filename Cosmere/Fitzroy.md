@@ -2,8 +2,7 @@
 |-|-|
 |**Abilities**|[[Oculator\|Oculator]]|
 |**Groups**|Order of the [[Dark Oculator\|Dark Oculators]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Fitzroy** is a Dark [[Oculator\|Oculator]] who accompanies [[Shasta Smedry\|Shasta Smedry]] when she infiltrates the [[Royal Archives (Not a Library!)\|Royal Archives (Not a Library!)]] of [[Nalhalla\|Nalhalla]].
 
@@ -12,7 +11,8 @@
 1 Appearance and Personality
 2 History
 3 Relationships
-4 Notes
+4 Trivia
+5 Notes
 
 
 ## Appearance and Personality
@@ -26,6 +26,9 @@ Fitzroy gets brought along when Alcatraz activates the transporter's glass to re
 
 ## Relationships
 Fitzroy is a member of the order of the Dark Oculators. From Alcatraz's perspective, he seems to regard Shasta "adoringly," and is generally extremely eager to please her. He is also happy to carry out the orders of [[Kangchenjunga Sarekgjakka\|She Who Must Not Be Named]], the ambassador of the [[Wardens of the Standard\|Wardens of the Standard]].
+
+## Trivia
+His name is likely a reference to  in Patagonia.
 
 
 

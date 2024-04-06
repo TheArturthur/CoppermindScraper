@@ -3,13 +3,12 @@
 |by  Marie Seeberger |
 |**Family**|
 |**Ancestors**|[[Sadees\|Sadees]]|
-|**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]], Highprince of Commerce|
+|**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]], [[Highprince of Commerce\|Highprince of Commerce]]|
 |**Groups**|Sebarial army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I hate [the other highprinces]. But I try to hate everyone. That way, I don't risk leaving out anyone particularly deserving.*”
 \-Sebarial to Shallan Davar[2]
@@ -117,7 +116,7 @@ Because Dalinar's restored memories of his actions at [[Rathalas\|Rathalas]] wer
 
 Navani and the highprinces successfully kept the tower running until Dalinar was well enough to fill his role again. Dalinar took a small group to [[Thaylen City\|Thaylen City]] to attend the ill-fated meeting of the [[Coalition of monarchs\|coalition of monarchs]] when [[Taravangian\|Taravangian]] leaked information to each group aimed at undermining their trust in him; during that time, Sebarial remained at Urithiru. He was at the tower when an invasion of Parshendi arrived with the intent of keeping the Alethi from sending reinforcements to the [[Battle of Thaylen Field\|Battle of Thaylen Field]] through the Oathgate to Thaylen City, and he followed Aladar's lead in pulling troops up higher into Urithiru.
 After the battle was won, the coalition met again in Urithiru. While the Kholins discussed who would take over the rule of Alethkar, Sebarial pretended to sleep while Palona delighted herself in recent gossip. Sebarial was pleased that the Kholins chose Jasnah, taking pleasure in the others' looks of worry.
-A year later, Sebarial stayed behind at Urithiru to aid with the tower's administration while Dalinar and the rest of the coalition's army went to [[Emul\|Emul]] to take back strategic land. He and Navani watched the army transfer to [[Azir\|Azir]] together, discussing Taravangian and then Palona. As they entered the tower once more, Navani asked him to oversee the old warcamps and bring them completely under the coalition's control. Before leaving, Sebarial brought up the the fact that Palona wouldn't marry him, and Navani advised him to let her see his sincerity.
+A year later, Sebarial stayed behind at Urithiru to aid with the tower's administration while Dalinar and the rest of the coalition's army went to [[Emul\|Emul]] to take back strategic land. He and Navani watched the army transfer to [[Azir\|Azir]] together, discussing Taravangian and then Palona. As they entered the tower once more, Navani asked him to oversee the old warcamps and bring them completely under the coalition's control. Before leaving, Sebarial brought up the fact that Palona wouldn't marry him, and Navani advised him to let her see his sincerity.
 
 ## Relationships
 ### Palona
@@ -125,7 +124,7 @@ A year later, Sebarial stayed behind at Urithiru to aid with the tower's adminis
 \-Navani to Sebarial[7]
 
 
-[[Palona\|Palona]] is Sebarial's [[Herdaz\|Herdazian]] mistress. She calls him "Turi." And also sometimes "the idiot." She has a much more active hand in running the day-to-day workings of the manor that Sebarial does. They enjoy witty banter and seem genuinely fond of each other despite their outward griping. Palona perfectly complements Sebarial's dichotomy of outward indolence masking inward cleverness with her own lack of arrogance as she takes full advantage of her wealth. She consistently refuses any offer of marriage, however much Sebarial privately but sincerely wishes her to accept.
+[[Palona\|Palona]] is Sebarial's [[Herdaz\|Herdazian]] mistress. She calls him "Turi." And also sometimes "the idiot." She has a much more active hand in running the day-to-day workings of the manor than Sebarial does. They enjoy witty banter and seem genuinely fond of each other despite their outward griping. Palona perfectly complements Sebarial's dichotomy of outward indolence masking inward cleverness with her own lack of arrogance as she takes full advantage of her wealth. She consistently refuses any offer of marriage, however much Sebarial privately but sincerely wishes her to accept.
 
 ### Shallan
 >“*It could be worse... I could be boring as well as expensive.*”
@@ -147,4 +146,4 @@ A year later, Sebarial stayed behind at Urithiru to aid with the tower's adminis
 Sebarial and [[Ashweather Cett\|Ashweather Cett]] together would "make a good comedy show."
 
 
-https://coppermind.net/wiki/Turinad_Sebarial
+https://coppermind.net/wiki/Sebarial

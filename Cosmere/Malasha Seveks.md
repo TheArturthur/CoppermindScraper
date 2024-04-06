@@ -2,9 +2,8 @@
 |-|-|
 |**Parents**|[[Brightlord Seveks\|Brightlord Seveks]]|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Malasha Seveks** is a [[Lighteyes\|lighteyed]] woman on [[Roshar\|Roshar]] who was courted by [[Adolin Kholin\|Adolin Kholin]].
 

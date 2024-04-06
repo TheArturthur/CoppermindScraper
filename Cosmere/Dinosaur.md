@@ -1,8 +1,7 @@
 |**Dinosaur**|
 |-|-|
 |by  Hayley Lazo |
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“* Dinosaurs. Useless. Let's move on.*”
 \- Bastille[1]

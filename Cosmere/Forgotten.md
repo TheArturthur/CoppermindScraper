@@ -1,7 +1,7 @@
 |**Forgotten**|
 |-|-|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Sapient**|Yes|
+|**World of Origin**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*"What the dusts is a Forgotten!" Joel said. *
 \-"A creature of Nebrask," Fitch said. "They lead the wild chalklings."

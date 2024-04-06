@@ -2,8 +2,7 @@
 |-|-|
 |by  Jamie Knierim |
 |**Powers**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*I follow the orders of no man, mortal or Epic ... I am the cleansing fire.*”
 \-Obliteration to Newton[1]

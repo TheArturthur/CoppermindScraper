@@ -1,8 +1,7 @@
 |**Hoed**|
 |-|-|
-|**World**|[[Sel\|Sel]]|
+|**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 The **Hoed** are a group of post-[[Reod\|Reod]] [[Elantrian\|Elantrians]] that have accumulated so many injuries that they become effectively comatose from the pain.
 

@@ -4,10 +4,9 @@
 |by  Isaac Stewart |
 |**Date**|Nanishah 1174|
 |**Participants**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan Davar]], [[Szeth\|Szeth]], [[Nightblood\|Nightblood]], [[Lift\|Lift]], [[Renarin\|Renarin]], [[Jasnah\|Jasnah]], [[Teft\|Teft]], [[Rock\|Rock]], [[Amaram\|Amaram]], [[Odium\|Odium]], The [[Fused\|Fused]], [[Nergaoul\|Nergaoul]], [[Yelig-nar\|Yelig-nar]]|
-|**City**|[[Thaylen City\|Thaylen City]]🐱︎|
+|**City**|[[Thaylen City\|Thaylen City]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -17,20 +16,27 @@ The **Battle of Thaylen Field** is one of the first major engagements in the [[T
 
 1 History
 
-1.1 Preparations
-1.2 Nergaoul arrives
-1.3 Unity
-1.4 The tide turns
-1.5 Confronting the Thrill
+1.1 Background
+1.2 Preparations
+1.3 Nergaoul arrives
+1.4 Unity
+1.5 The tide turns
+1.6 Confronting the Thrill
 
 
 2 Notes
 
 
 ## History
+### Background
+After the [[Battle of Narak\|Battle of Narak]] in Ishishach 1173, the Alethi discovered and inhabited the lost city of Urithiru, right as the True Desolation began. This gave them access to Oathgates, therefore giving them potential links to the various Dawncities across Roshar. However, they were incapable of using the Oathgates without first activating them on the opposite side, thus they did not receive an immediate strategic benefit. This motivated them to try and ally with nations that contained Oathgates, due to the strategic value they possess, as they allowed for travel to major Rosharan cities far faster than could be done by foot.
+A major nation that they attempted to negotiate with was [[Thaylenah\|Thaylenah]], whose capital, Thaylen City, possessed the Thalath Oathgate. The leader of Thaylenah, Queen [[Fen Rnamdi\|Fen Rnamdi]], was suspicious of the Alethi forces and didn't want to give them free access into the center of their capital city. She eventually came to agree to join the coalition, and allowed them access to her Oathgate, therefore giving them the ability to quickly travel to and mobilize in Thaylenah.
+Shortly before the battle, [[Taravangian\|Taravangian]], who was working for [[Odium\|Odium]], manipulated the government in order to motivate them to send off a large portion of the city's defense force, greatly reducing their military prowess and defensive capabilities. This left them reliant upon military aide from the Alethi in order to protect themselves from the Fused offensive.
+After intel arose concerning a Fused offensive on Thaylen City, the Alethi forces moved in to protect their allies and the strategic advantage they possessed via their control of the Thaylen Oathgate. They were further motivated by the threat that the Fused would pose to the human resistance if they managed to take control of the Oathgate.
+
 ### Preparations
  by  Marie Seeberger  Human and singer forces facing off
-Several thousand [[Singer\|Singers]] arrived at the shores of [[Thaylen City\|Thaylen City]] under the protection of an [[Everstorm\|Everstorm]], spawned by [[Odium\|Odium]] to mask their invasion and hasten their ships. As sailing during a storm was considered impossible, the human defenders of the city were caught unaware; furthermore, due to [[Taravangian\|Taravangian's]] manipulations, much of the city's defense force had departed it shortly before, leaving only the [[Thaylen\|Thaylens]] and a portion of Alethi army under [[Meridas Amaram\|Meridas Amaram]]. The Everstorm covering the advance of the enemy stalls over the city instead of continuing on, something never seen before.
+Several thousand [[Singer\|Singers]] arrived at the shores of [[Thaylen City\|Thaylen City]] under the protection of an [[Everstorm\|Everstorm]], spawned by [[Odium\|Odium]] to mask their invasion and hasten their ships. As sailing during a storm was considered impossible, the human defenders of the city were caught unaware; furthermore, due to Taravangian's manipulations, much of the city's defense force had departed it shortly before, leaving only the [[Thaylen\|Thaylens]] and a portion of Alethi army under [[Meridas Amaram\|Meridas Amaram]]. The Everstorm covering the advance of the enemy stalled over the city instead of continuing on, something never seen before.
 At the same time, the souls of approximately ten thousand [[Singer\|singers]] gathered outside the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]] in [[Shadesmar\|Shadesmar]]. Due to the stalled Everstorm, the Voidbringer souls were able to pass into the [[Physical Realm\|Physical Realm]], with two going into the ground and ripping themselves free to become [[Thunderclast\|thunderclasts]]. In addition, clad in a body made of golden carapace and clutching a regal scepter, Odium himself stepped onto the shore to personally lead the battle.
 Even with such might backing them, some of the [[Fused\|Fused]] expressed doubt over their chances of victory, largely due to the inexperience of their army of freed [[Parshmen\|Parshmen]], many of whom did not want to fight at all. With Amaram's forces being veterans of the [[Shattered Plains\|Shattered Plains]] campaigns, the battle was believed to be winnable or even favorable to the humans. Odium, however, had different plans.
 
@@ -43,7 +49,7 @@ Taking his copy of *The Way of Kings* under his arm, [[Dalinar Kholin\|Dalinar K
  by  Rixt Heerschop  Dalinar summoning [[Honor's Perpendicularity\|Honor's Perpendicularity]]
 ### Unity
 Despite the powerful combatants involved on the human side, Odium's forces were winning. Odium and Dalinar met in the midsts of the battlefield, with [[Venli\|Venli]] observing as Dalinar challenged Odium to the contest of champions to have a chance at saving the city. Odium agreed, then explained how he had been grooming Dalinar for years to become Odium's own champion.
-With this, Odium unleashed the full might of the Thrill upon Dalinar, bombarding him with pain of his past actions and promising reprive if Dalinar gives in. Dalinar, however, refuses, accepting the responsibility instead. With this, he managed to attain the next [[Bondsmith\|Bondsmith]] ideal, declaring "I am Unity" and summoning [[Honor's Perpendicularity\|Honor's Perpendicularity]]. All three realms, physical, cognitive, and spiritual were united in an outpouring of [[Gloryspren\|gloryspren]] and [[Stormlight\|Stormlight]], infusing every gem in the city and forming a passage to [[Shadesmar\|Shadesmar]]. His allies trapped there -- [[Adolin\|Adolin]], [[Shallan\|Shallan]], and [[Kaladin\|Kaladin]] -- use to return to the Physical Realm and join the fight. By contrast, seeing Dalinar's feat, Odium fled, leaving his armies to fend for themselves.
+With this, Odium unleashed the full might of the Thrill upon Dalinar, bombarding him with pain of his past actions and promising reprieve if Dalinar gives in. Dalinar, however, refuses, accepting the responsibility instead. With this, he managed to attain the next [[Bondsmith\|Bondsmith]] ideal, declaring "I am Unity" and summoning [[Honor's Perpendicularity\|Honor's Perpendicularity]]. All three realms, physical, cognitive, and spiritual were united in an outpouring of [[Gloryspren\|gloryspren]] and [[Stormlight\|Stormlight]], infusing every gem in the city and forming a passage to [[Shadesmar\|Shadesmar]]. His allies trapped there -- [[Adolin\|Adolin]], [[Shallan\|Shallan]], and [[Kaladin\|Kaladin]] -- use to return to the Physical Realm and join the fight. By contrast, seeing Dalinar's feat, Odium fled, leaving his armies to fend for themselves.
 
  by  Petar Penev  [[Shallan\|Shallan's]] illusory army
 ### The tide turns
@@ -60,4 +66,4 @@ Outside, Kaladin's battle with Amaram was still underway. He's almost killed aft
 
 
 
-https://coppermind.net/wiki/Battle_of_Thaylen_Field
+https://coppermind.net/wiki/Battle_of_Thaylen_Fields

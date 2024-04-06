@@ -1,12 +1,11 @@
 |**Melody Muns**|
 |-|-|
-|by  Lesya BlackBird |
+|by |
 |**Siblings**|[[William Muns\|William]], 3 others|
 |**Abilities**|[[Rithmatics\|Rithmatics]]|
 |**Profession**|Student|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*Rithmatic this, Rithmatic that! Protect the kingdom, keep the wild chalklings at bay. Why does everything have to do with Rithmatics? Can't a girl spend some time thinking about something else for a while?*”
 \-Melody to Joel[1]
@@ -32,8 +31,9 @@ Both parents as well as William's and Melody's siblings are Rithmatists, a fact 
 
 
 ## History
+ by  Lesya BlackBird 
 ### Student at Armedius
-Melody met Joel for the first time outside [[Layton\|Professor Layton's]] class, before going inside to speak with the professor. Joel was surprised that she drew unicorns in her notebook, thinking she should be practicing her Rithmatic lines instead. When [[Nalizar\|Nalizar]] became a full professor, he put Melody in charge of delivering mail to professors instead of Joel, assigning her to preform the deliveries every day after her summer elective.
+Melody met Joel for the first time outside [[Layton\|Professor Layton's]] class, before going inside to speak with the professor. Joel was surprised that she drew unicorns in her notebook, thinking she should be practicing her Rithmatic lines instead. When [[Nalizar\|Nalizar]] became a full professor, he put Melody in charge of delivering mail to professors instead of Joel to punish her for her poor performance in his class and to keep Joel out of the rithmatic classes, assigning her to perform the deliveries every day after her summer elective.
 
 ### Remedial Studies with Fitch
 >“*I'm here. Let the flogging commence!*”
@@ -84,4 +84,4 @@ As Fitch's only Rithmatist student, Melody was required to participate in the [[
 
 
 
-https://coppermind.net/wiki/Melody_Muns
+https://coppermind.net/wiki/Melody

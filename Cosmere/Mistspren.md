@@ -1,11 +1,10 @@
 |**Mistspren**|
 |-|-|
 |by  Ben McSweeney |
-|**Type**|[[Spren\|Spren]]🐱︎|
+|**Type**|[[Spren\|Spren]]|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Truthwatcher\|Truthwatcher]] magic, [[Splinter\|Splinter]]s|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -52,7 +51,7 @@ It is unknown how a corrupted Mistspren would appear in the Cognitive Realm.
 In the [[Cognitive Realm\|Cognitive Realm]], mistspren can change their form into non-humanoid shapes. It's unknown how much control over their form they have in the Physical, although the corrupted spren, at least, can hide themselves inside the bodies of their bonded [[Surgebinder\|Surgebinder]]. They can also enter the [[Gemheart\|gemhearts]] of various creatures; in case of [[Cremling\|cremlings]], this gives them some ability to control their direction.
 
 ### Nahel bond
-They can form a [[Nahel bond\|Nahel bond]] to make a person a [[Truthwatcher\|Truthwatcher]], in exchange for retaining their sapience in the [[Physical Realm\|Physical Realm]]. Ordinarily, they grant their partner the abilities of [[Progression\|Progression]] and [[Illumination\|Illumination]], allowing for healing and creating illusions. In a bond altered by [[Sja-anat\|Sja-anat]], the Progression surge is retained, while Illumination isn't fully functional. However, Enlightened mistspren grant their partner the ability to see visions of the future. In a more advanced bond, the mistspren can also record the vision and re-view it later.
+They can form a [[Nahel bond\|Nahel bond]] to make a person a [[Truthwatcher\|Truthwatcher]], in exchange for retaining their sapience in the [[Physical Realm\|Physical Realm]]. Ordinarily, they grant their partner the abilities of [[Progression\|Progression]] and [[Illumination\|Illumination]], allowing for healing and creating illusions. In a bond altered by [[Sja-anat\|Sja-anat]], the Progression surge is retained, while Illumination isn't fully functional. However, Enlightened mistspren grant their partner the ability to see visions of the future. In a more advanced bond, the enlightened mistspren can also record the vision and re-view it later. Enlightened mistspren are able communicate to their Surgebinders with their minds.
 
 ## Culture
  by  FelCandy 

@@ -3,9 +3,9 @@
 |**Profession**|[[Vizier\|Vizier]]|
 |**Residence**|[[Azimir\|Azimir]]|
 |**Nationality**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Edgedancer*|
 
 **Axikk** is a vizier in the [[Azish\|Azish]] government on [[Roshar\|Roshar]].
 

@@ -1,10 +1,9 @@
 |**Kalkis**|
 |-|-|
 |**Related to**|The [[Lord Ruler\|Lord Ruler]]|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Kalkis** are rumored [[Metal\|metal]] beings created by the [[Lord Ruler\|Lord Ruler]] on [[Scadrial\|Scadrial]].
 Kalkis are thought to have been created at some point during the [[Final Empire\|Final Empire]]. They supposedly stayed hidden until the post-[[Catacendre\|Catacendre]] era, when they were rediscovered by a Scadrian [[Noble\|nobleman]] named [[Stefan Sauvage\|Stefan Sauvage]]. Sauvage referred to them as "Unknown Constructs of Antiquity" and claimed to know the location of a living tribe of kalkis. Their existence has not been confirmed.

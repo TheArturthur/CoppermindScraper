@@ -4,8 +4,8 @@
 |**Siblings**|[[Sing Sing Smedry\|Sing Sing]], [[Australia Smedry\|Australia]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]]|
 |**Nationality**|[[Mokian\|Mokian]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**First Appeared**|*The Shattered Lens*|
 
 **Aydee Ecks Smedry** is a [[Mokia\|Mokian]] [[House Smedry\|Smedry]] whose [[Smedry Talent\|Talent]] is that she is very bad at math. She is the younger sister to [[Sing Sing Smedry\|Sing]] and [[Australia Smedry\|Australia]] Smedry.
 

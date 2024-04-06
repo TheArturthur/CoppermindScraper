@@ -3,9 +3,8 @@
 |**Profession**|Highjudge|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Brightlady **Istow** is a [[Lighteyed\|lighteyed]] [[Alethi\|Alethi]] woman on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. She serves as a highjudge, officiating duels.
 

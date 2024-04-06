@@ -5,9 +5,8 @@
 |**Ancestors**|[[Taravangian\|Taravangian]]|
 |**Residence**|[[Kharbranth\|Kharbranth]]|
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Taravangian's granddaughter** is a member of the [[Kharbranthian\|Kharbranthian]] royal family on [[Roshar\|Roshar]].
 She is quite young, below the age that a modesty sleeve is required for the sake of propriety and is attended by several nursemaids.
@@ -34,7 +33,7 @@ Later during the year, she was gifted a portrait of the king by her grandfather,
 In the hopes that he could witness Jasnah using her Soulcaster, Taravangian deliberately had his granddaughter trapped via a cave-in following the highstorm. Despite his ulterior motives, he was concerned for his granddaughter's wellbeing and did not want her to be harmed, even though he put her in a dangerous situation.
 
 ## Trivia
-[[Ruli\|Ruli]] is a different grandchild to the one who Taravangian has trapped by the rockfall.
+[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], and [[Ruli\|Ruli]] are different grandchildren to the one who Taravangian had trapped by the rockfall.
 It is unknown if this grandchild is a sibling or cousin of Taravangian's other grandchildren.
 
 

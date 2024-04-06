@@ -1,9 +1,8 @@
 |**Square of the Survivor**|
 |-|-|
-|**City**|[[Luthadel\|Luthadel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Luthadel\|Luthadel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Square of the Survivor**, formerly known simply as the **Fountain Square**, is a prominent location in [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]]. The [[Lord Ruler\|Lord Ruler]] used it to showcase executions in order to inspire fear in the [[Skaa\|skaa]] population.
 

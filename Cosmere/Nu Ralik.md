@@ -1,9 +1,8 @@
 |**Nu Ralik**|
 |-|-|
 |**Related to**|[[Purelake\|Purelake]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Nu Ralik** is a deity secretly worshiped by the people of the [[Purelake\|Purelake]] on [[Roshar\|Roshar]].
 

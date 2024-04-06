@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Book|
 |**Author**|[[Corvana\|Corvana]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Anak malah kaf, del makian habin yah*”
 \-A phrase from the Analectics, translated to mean, "To be human is to want that which we cannot have."[1]

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Guard|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jix** is a guard for [[House Davar\|House Davar]] in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

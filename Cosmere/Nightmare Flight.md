@@ -3,9 +3,8 @@
 |**Leader**|[[Nose\|Nose]]|
 |**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 This page or section needs to be updated with new information for *Sunreach*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -13,7 +12,7 @@ This page or section needs to be updated with new information for *Sunreach*!Be
 
 ## History
 Nightmare Flight were on rest and relaxation down in the deep caverns when Skyward Flight was first called into duty, they later relieved Skyward Flight after they acted as decoy reinforcements.
-As part of their training, [[Skyward Flight\|Skyward Flight]] was paired with Nightmare Flight for a routine debris tagging mission. During that time, Spensa and FM were offered positions on Nightmare Flight by Nose after he witnessed their skill with light-lances. Afterwards, the group was attacked by the Krell and meant to receive reinforcement from Riptide Flight. Before those arrived, however, Hurl was killed by the Krell and Spensa was shot down, forcing her to eject and avoid crashing.
+As part of their training, [[Skyward Flight\|Skyward Flight]] was paired with Nightmare Flight for a routine debris tagging mission. During that time, Spensa and FM were offered positions on Nightmare Flight by Nose after he witnessed their skill with light-lances. Afterwards, the group was attacked by the Krell and meant to receive reinforcement from Riptide Flight. Before those arrived, however, Spensa was shot down, forcing her to eject and avoid crashing.
 Later, Nightmare Flight participated in the [[Second Battle of Alta\|Second Battle of Alta]].
 
 ## Known Members

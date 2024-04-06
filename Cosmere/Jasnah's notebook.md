@@ -3,9 +3,8 @@
 |**Type**|Research notes|
 |**Author**|[[Jasnah Kholin\|Jasnah Kholin]]|
 |**Language**|[[Alethi\|Alethi]] ([[Women's script\|Women's script]])|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
@@ -26,10 +25,10 @@ This article contains intellectual property reproduced with permissionPlease do 
 
 ## History
 Since the murder of King [[Gavilar\|Gavilar]], Jasnah has dedicated much of her time to finding out as much information as she can about the [[Voidbringer\|Voidbringers]] and the city of [[Urithiru\|Urithiru]], seeking to understand the events of the night of her father's assassination.
-After the [[Ghostblood\|Ghostblood's]] failed attempt to assassinate Jasnah, two of the three waterproof trunk containing her notebooks are lost at the sea, while one is washed ashore and recoverd by [[Shallan\|Shallan]]. Fortunately, Jasnah has backups of her important papers stored with confidants through [[Spanreed\|spanreeds]], allowing her to restore the contents of the lost notebooks more or less completely.
+After the [[Ghostblood\|Ghostblood's]] failed attempt to assassinate Jasnah, two of the three waterproof trunks containing her notebooks were lost at the sea. Only one washed ashore and was recovered by [[Shallan\|Shallan]]. Fortunately, Jasnah made copies of her important papers with confidants via [[Spanreed\|spanreeds]]. These copies allowed her to restore the contents of the lost notebooks more or less completely.
 
 ## Organization
-Jasnah keeps several noteboks, in which she jots down quotes, her own notes and observations. Once a notebook is filled, she reevaluates its contents and then copies the relevant passages into other, more specific notebooks. While in [[Kharbranth\|Kharbranth]], she has three such specific notebooks: one dedicated to information about [[Urithiru\|Urithiru]]; one concerning the [[Voidbringer\|Voidbringers]]; and one regarding [[Natanatan\|Natanatan]] and the [[Shattered Plains\|Shattered Plains]]. Additionally, Jasnah keeps a separate notebook with her observations on the politics and notable figures of [[Alethkar\|Alethkar]], although by the time Shallan reaches the Plains, the information is severely out of date, and a lot is outright incorrect.
+Jasnah keeps several notebooks, in which she jots down quotes, her own notes and observations. Once a notebook is filled, she reevaluates its contents and then copies the relevant passages into other, more specific notebooks. While in [[Kharbranth\|Kharbranth]], she has three such specific notebooks: one dedicated to information about [[Urithiru\|Urithiru]]; one concerning the [[Voidbringer\|Voidbringers]]; and one regarding [[Natanatan\|Natanatan]] and the [[Shattered Plains\|Shattered Plains]]. Additionally, Jasnah keeps a separate notebook with her observations on the politics and notable figures of [[Alethkar\|Alethkar]], although by the time Shallan reaches the Plains, the information is severely out of date, and a lot is outright incorrect.
 
 ## Excerpts
 ### Voidbringers

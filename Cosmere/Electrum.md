@@ -13,11 +13,9 @@
 |**Hemalurgy**|
 |**Power**|Steal Enhancement Allomantic powers|
 |**Type**|Temporal|
-|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*Mistborn (series)*|
 
-**Electrum** is the internal temporal pushing metal alloy made from gold and silver. An Allomancer burning electrum is able to see possible futures of oneself, up to several seconds. Feruchemists can use electrum to store determination, and when used as a Hemalurgic spike, electrum steals Enhancement Allomantic powers.
+**Electrum** is the internal temporal pushing metal alloy made from [[Gold\|gold]] and [[Silver\|silver]]; it is the alloy paired with gold in the Metallic Arts. An Allomancer burning electrum is able to see possible futures of oneself, up to several seconds. Feruchemists can use electrum to store determination, and when used as a Hemalurgic spike, electrum steals Enhancement Allomantic powers.
 
 ## Contents
 
@@ -34,7 +32,7 @@
 The electrum used in the Metallic Arts is forty-five percent gold, fifty-five percent silver.
 
 ## Allomantic Use
-A electrum [[Misting\|Misting]] is known as an **Oracle**. Burning electrum will reveal possible futures of the Oracle up to several seconds, by casting shadows of oneself like [[Atium\|atium]] shadows. One use of electrum is its ability to counter [[Atium\|atium]], in this regard and the fact that gold and silver are relatively cheap compared to atium. [[Elend\|Elend]] called it "poor man's atium".
+An electrum [[Misting\|Misting]] is known as an **Oracle**. Burning electrum will reveal possible futures of the Oracle up to several seconds, by casting shadows of oneself like [[Atium\|atium]] shadows. One use of electrum is its ability to counter [[Atium\|atium]], in this regard and the fact that gold and silver are relatively cheap compared to atium. [[Elend\|Elend]] called it "poor man's atium".
 While burning electrum the Oracle's future will not be revealed to enemy Allomancers burning atium. Instead, it will cause the Oracle's observed atium shadow to split, preventing the enemy Allomancer from predicting one's actions.
 If burned with [[Duralumin\|duralumin]], it would likely have a similar effect to atium, in that the user would be able to see into the [[Spiritual Realm\|Spiritual Realm]].
 

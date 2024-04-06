@@ -1,9 +1,8 @@
 |**Lraezare**|
 |-|-|
-|**Nation**|[[Lossand\|Lossand]]🐱︎|
-|**World**|[[Taldain\|Taldain]]🐱︎|
+|**Nation**|[[Lossand\|Lossand]]|
+|**World**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Lraezare** is a city in [[Lossand\|Lossand]] on the Dayside of [[Taldain\|Taldain]].
 
@@ -16,7 +15,7 @@
 
 
 ## Geography
-The city is located on the delta of the [[Ry'Do Ali River\|Ry'Do Ali River]], where it enters the [[Border Ocean\|Southern Border Ocean]]. It is about a three-day round trip from [[Kezare\|Kezare]]. It appears to have a relatively arid climate, and it has steep hills near the water's edge.
+The city is located on the delta of the [[Ry'DoAli River\|Ry'DoAli River]], where it enters the [[Border Ocean\|Southern Border Ocean]]. It is about a three-day round trip from [[Kezare\|Kezare]]. It appears to have a relatively arid climate, and it has steep hills near the water's edge.
 
 ## Economy
 It is one of the largest ports south of Kezare. The Shipowners' Circle, the ruling council of the [[Helm\|Helm]], is located in Lraezare. It is also the residence of [[Lord Admiral\|Lord Admiral]] [[Lokkall\|Lokkall]].

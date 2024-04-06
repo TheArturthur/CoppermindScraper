@@ -5,31 +5,26 @@
 |**Released**|November 1, 2012|
 |**Publisher**||
 |**ISBN**|9781616960926|
-|**Word Count**|31,925|
+|**Word Count**|[[The Emperor's Soul/Statistical analysis\|31,925]]|
 
 *The Emperor's Soul* is a stand-alone novella by [[Brandon Sanderson\|Brandon Sanderson]], published in November 2012 by Tachyon Publications. It won the 2013 Hugo award for best novella.
 
 ## Contents
 
-1 Cover Synopsis
-2 Plot Summary
-3 Characters
-
-3.1 Main
-3.2 Minor
-
-
+1 Synopsis
+2 Summary
+3 Main Characters
 4 Setting
 5 Easter Eggs
 6 Postscript
 7 Publication History
-8 Awards
-9 Cover Gallery
-10 Statistics
+8 Cover Gallery
+9 Awards
+10 Statistical Analysis
 11 Notes
 
 
-## Cover Synopsis
+## Synopsis
 >“*When Shai is caught replacing the Moon Scepter with her nearly flawless forgery, she must bargain for her life. An assassin has left the Emperor Ashravan without consciousness, a circumstance concealed only by the death of his wife. If the emperor does not emerge after his 100-day mourning period, the rule of the Heritage Faction will be forfeit and the empire will fall into chaos.Shai is given an impossible task: to create - to Forge - a new soul for the emperor in less than 100 days. But her soul-Forgery is considered an abomination by her captors. She is confined to a tiny, dirty chamber, guarded by a man who hates her, spied upon by politicians, and trapped behind a door sealed in her own blood. Shai's only possible ally is the emperor's most loyal councillor, Gaotona, who struggles to understand her true talent.Time is running out for Shai. Forging, while deducing the motivations of her captors, she needs a perfect plan to escape...*”
 \-Blurb from Victor Gollancz Ltd[2]
 
@@ -38,7 +33,7 @@
 \-The fate of the kingdom lies in one impossible task.
 
 
-## Plot Summary
+## Summary
 For a chapter by chapter summary, see [[The Emperor's Soul/Summary\|/Summary]].
 The story follows [[Shai\|Shai]], an imprisoned [[Forger\|Forger]]. She attempts to recreate the soul of Emperor [[Ashravan\|Ashravan]] with the help of his councillor [[Gaotona\|Gaotona]].
 
@@ -46,11 +41,11 @@ The story follows [[Shai\|Shai]], an imprisoned [[Forger\|Forger]]. She attempts
 \-Quote from Brandon's post on the book[4]
 
 
-## Characters
+## Main Characters
  by  botanicaxu  The Emperor's Soul Full Cast
-### Main
 
-### Minor
+**Other Characters**
+
 
 ## Setting
 The book is set in the [[Cosmere\|cosmere]], taking place in the same [[Sel\|world]] as [[Elantris (book)\|Elantris]], though in a very different region and without any of the characters from Elantris, apart from [[Hoid\|Hoid]], who is the Imperial Fool and mentioned several times, though he never appears in-person. It tells the story of a woman named [[Shai\|Shai]], a thief and a [[Forger\|Forger]]; or person capable of rewriting the pasts of objects in order to change their present.
@@ -58,6 +53,8 @@ The book is set in the [[Cosmere\|cosmere]], taking place in the same [[Sel\|wor
 ## Easter Eggs
 Hoid was written into the original prologue, as the Imperial Fool who set up Shai to be caught stealing the Sceptre. The scene was removed due to Brandon's alpha readers not liking it.
 The god which Shai worships has some relevance to the whole [[Cosmere\|cosmere]].
+
+Shai runs into a priest in "red armor" during her escape from the palace. While not explicitly stated, this is likely a Gyorn of Shu-Dereth and the empire of Fjorden.
 
 ## Postscript
 *Note: the Postscript is found in Arcanum Unbounded, a collection of Cosmere stories.*
@@ -69,12 +66,12 @@ Tachyon Publications in the US
 Gollancz in the UK
 A con-exclusive version of this and [[Legion (book)\|Legion]] was printed at some point, and a similar version was published in the UK by Gollancz
 
+## Cover Gallery
+For a cover gallery of The Emperor's Soul, see [[The Emperor's Soul/Covers\|/Covers]].
 ## Awards
 Winner of the Hugo Award in 2013.
 
-## Cover Gallery
-For a cover gallery of The Emperor's Soul, see [[The Emperor's Soul/Covers\|/Covers]].
-## Statistics
+## Statistical Analysis
 For a full statistical analysis, see [[The Emperor's Soul/Statistical analysis\|/Statistical analysis]].
 *The Emperor's Soul* consists of one prologue, fourteen chapters, and one epilogue, reaching a total 31,925 word count. There are three different unique point-of-view characters in a total of 21 POVs.
 
@@ -83,8 +80,6 @@ For a full statistical analysis, see [[The Emperor's Soul/Statistical analysis\|
 |**Chapter Count**|16|Including prologue and epilogue|
 |**PoV Characters**|3||
 |**PoV Count**|21||
-
-
 
 
 

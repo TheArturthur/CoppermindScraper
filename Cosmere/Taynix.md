@@ -1,12 +1,11 @@
 |**Taynix**|
 |-|-|
-|by [[Isaac Stewart\|Isaac Stewart]]|
+|by  Heatherly |
 |**Abilities**|[[Cytonics\|Cytonics]]|
-|**World**|[[|]]|
+|**World of Origin**|[[Cambri\|Cambri]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic* and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 The **taynix** are a species of slugs with [[Cytonics\|cytonic]] abilities.
 
@@ -21,7 +20,8 @@ The **taynix** are a species of slugs with [[Cytonics\|cytonic]] abilities.
 4.2 Boomslugs
 4.3 Blue and Green Taynix
 4.4 Commslugs
-4.5 Other Types
+4.5 Rainbow Taynix
+4.6 Other Types
 
 
 5 History
@@ -44,20 +44,24 @@ According to Doomslug, reality ashes are in truth their poop from feasting on th
 Taynix have various different [[Cytonics\|cytonic]] abilities, with the specific one depending on their species and indicated by their color.
 
 ### Hyperslugs
+ by [[Isaac Stewart\|Isaac Stewart]]
 Hyperslugs, which are yellow with blue spines, have the innate [[Cytonics\|cytonic]] ability to travel through the dimension of the [[Delver\|delvers]]. They are used by the Superiority as hyperdrives since they do not risk drawing the delvers into the universe. To do so, a cage containing the taynix is inserted into a Superiority hyperdrive. During a hyperjump, the hyperslug produces a [[Cytonics\|cytonic]] scream, which distracts the delvers from the passing ship. This scream is apparently only perceptible for beings with cytonic abilities. Cytonics onboard can, intentionally or unintentionally, interfere with the ship's hyperjump process and cause a malfunction, which is usually resolved by replacing the taynix in use with a new one. Engineers can be reluctant to swap in a fresh taynix, though, because doing so leads to a lot of paperwork.
 
 ### Boomslugs
-Boomslugs, which are red and black, have an ability that greatly resembles a [[Mindblade\|mindblade]]. When thinking of a delver or else threatened, they send out a powerful force in all directions that is capable of injuring humans. Their attack inflicts a score of shallow cuts on whatever is threatening them. They are generally left alone, due to the danger of mishandling one and setting it off.
+Boomslugs, which are red and black, have an ability that greatly resembles a [[Mindblade\|mindblade]]. When thinking of a delver or else threatened, they send out a powerful force in all directions that is capable of injuring humans. Their attack inflicts a score of shallow cuts on whatever is threatening them. They are generally left alone, due to the danger of mishandling one and setting it off. They can also be used as a sort of "ammo" in powerful hyperweapons like the one on [[Wandering Leaf\|Wandering Leaf]].
 
  by  Colonel Popcorn 
 ### Blue and Green Taynix
-FM found this fourth variety of taynix aboard a Superiority ship on [[ReDawn (planet)\|ReDawn]]. The are used as cytonic inhibitors, enabling them to create a large invisible bubble in which cytonic abilities are prevented from being used. Using one’s abilities within this bubble requires a cytonic key, which is likely only known at first by the one who initially interfaced with the taynix.
+FM found this fourth variety of taynix aboard a Superiority ship on [[ReDawn (planet)\|ReDawn]]. They are used as cytonic inhibitors, enabling them to create a large invisible bubble in which cytonic abilities are prevented from being used. Using one’s abilities within this bubble requires a cytonic key, which is likely only known at first by the one who initially interfaced with the taynix.
 
 ### Commslugs
 Commslugs, which are purple and orange, have the ability to communicate cytonically. This communication can be received by traditional technology, however, as [[Platform Prime\|Platform Prime]] was able to receive [[Cuna\|Cuna's]] cytonic transmission without needing a commslug.
 
+### Rainbow Taynix
+This variety of taynix has spines that faded between different colors of the rainbow. They are able to create illusions, which they use to alter their own appearance.
+
 ### Other Types
-Rig and Jorgen discovered several new types of taynix on Detritus. There are wrinkled grey ones with black and white spines, taynix with spines that faded between different colors of the rainbow, taynix that are blackish that shine with an iridescent blue sheen, and slugs that are smaller than the others, that are teal colored with pink spines. The abilities of these taynix are all unknown.
+Rig and Jorgen discovered several new types of taynix on Detritus. There are wrinkled grey ones with black and white spines, taynix that are blackish that shine with an iridescent blue sheen, and slugs that are smaller than the others, that are teal colored with pink spines. The abilities of these taynix are all unknown.
 
 ## History
 Prior to the rise of the Superiority, humans were likely aware of the cytonic powers of the taynix; Commander [[Spears\|Spears']] order to [[M-Bot\|M-Bot]] to look for mushrooms was likely because he was trying to find a taynix to power his cytonic hyperdrive.
@@ -75,6 +79,7 @@ For a full list see, see :Category:Taynix.
 [[Drape\|Drape]]
 [[Happy\|Happy]]
 [[Twist\|Twist]]
+[[Fine\|Fine]]
 
 
 

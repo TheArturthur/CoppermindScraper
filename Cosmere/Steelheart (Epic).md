@@ -5,8 +5,7 @@
 |**Abilities**|[[Epic\|Epic]]|
 |**Aliases**|Paul Jackson|
 |**Residence**|[[Newcago\|Newcago]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*Steelheart*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This article is for the Epic named Steelheart. For the novel of the same name, see [[Steelheart\|Steelheart]].
 This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.

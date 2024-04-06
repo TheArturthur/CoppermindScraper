@@ -4,9 +4,8 @@
 |**Siblings**|[[Kstled\|Kstled]]|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Drlwan** is a [[Thaylen\|Thaylen]] sailor. She was chosen by [[Vstim\|Vstim]] to be captain of the *Wandersail*. Her brother [[Kstled\|Kstled]] serves under her as the ship's man-at-arms.
 

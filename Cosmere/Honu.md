@@ -2,9 +2,8 @@
 |-|-|
 |**Ingredients**|Fermented [[Lavis\|lavis]]|
 |**Type**|Alcoholic drink|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Honu** is a type of [[Lavis\|lavis]] grain liquor on [[Roshar\|Roshar]].
 In late 1173, during the [[Weeping\|Weeping]] at the [[Shattered Plains\|Shattered Plains]], [[Zahel\|Zahel]] drank from a bottle of hard honu while he talked to [[Kaladin\|Kaladin]] about washing the sand in the lighteyed dueling grounds.

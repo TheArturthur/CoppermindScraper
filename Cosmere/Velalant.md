@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* She would have applauded Velalant's kindness, save for his soldiers’ blatant incompetence.*”
 \- Veil[1]

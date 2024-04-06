@@ -1,9 +1,8 @@
 |**Heimline**|
 |-|-|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*I’m not sure I’d wish this command on them, not even the ones I hated.*”
 \-Ironsides when asked by Cobb if she wished someone else had survived[1]

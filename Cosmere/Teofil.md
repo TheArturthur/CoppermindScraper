@@ -6,9 +6,8 @@
 |**Profession**|Soldier|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*We will carve a hole to the basement steps, then fight down and clear a path for the queen. By the blood of our fathers!*”
 \-Teofil[2]

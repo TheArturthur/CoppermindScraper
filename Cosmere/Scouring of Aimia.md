@@ -1,9 +1,8 @@
 |**Scouring of Aimia**|
 |-|-|
-|**Nation**|[[Aimia\|Aimia]]🐱︎|
+|**Nation**|[[Aimia\|Aimia]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*They assumed their secrets would protect them, but then their allies fell. And secrets can't hold swords.*”
 \-Nikli about the scouring[1]

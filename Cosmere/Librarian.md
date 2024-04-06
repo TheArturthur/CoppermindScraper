@@ -1,7 +1,8 @@
 |**Librarian**|
 |-|-|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+
+This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Librarians** are a cult of librarians which ruled most of the [[Hushlands\|Hushlands]], founded by [[Biblioden\|Biblioden]] on the principle that silimatic technology and oculators should be kept secret from the majority of the world.
 
@@ -42,4 +43,4 @@ There are many stereotypes for librarians:
 
 
 
-https://coppermind.net/wiki/Wardens_of_the_Standard
+https://coppermind.net/wiki/Scrivener%27s_Bones

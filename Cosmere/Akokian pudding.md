@@ -1,7 +1,6 @@
 |**Akokian pudding**|
 |-|-|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*Akokian pudding! It's a wonderful mixture of sweet and savory!*”
 \-Mrs. Chamwit[1]

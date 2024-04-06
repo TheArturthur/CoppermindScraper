@@ -1,12 +1,11 @@
 |**First Central Bank**|
 |-|-|
 |**Usage**|Bank|
-|**City**|[[Elendel\|Elendel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
-The **First Central Bank** is a bank in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. [[House Ladrian\|House Ladrian]] at one time owns a large stake in it. It is presumably located in the First Octant.
+The **First Central Bank** is a bank in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. [[House Ladrian\|House Ladrian]] at one time owns a large stake in it.
 One of the coins used in Elendel has the image of the bank stamped on its back.
 
 ## Appearance

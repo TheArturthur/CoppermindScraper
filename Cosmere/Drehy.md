@@ -2,14 +2,12 @@
 |-|-|
 |by  Marie Seeberger |
 |**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ [[Bridge Four\|Bridge Four]]🐱︎, Sadeas army , Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Birthplace**|[[Rianal\|Rianal]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+|**First Appeared**|*The Way of Kings*|
 
 >“*We protect those who cannot protect themselves.*”
 \-Drehy to Kaladin upon showing him the rescued prince Gavinor[1]
@@ -21,6 +19,10 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 1 Appearance and Personality
 2 History
+
+2.1 Windrunner
+
+
 3 Trivia
 4 Notes
 
@@ -62,10 +64,14 @@ Drehy was chosen, along with Skar, by Kaladin to be part of the group that trave
 During the infiltration and subsequent [[Battle of Kholinar\|Battle of Kholinar]], Drehy played a vital role. As one of the better warriors of the group, Drehy helped guard Shallan and Adolin throughout their time in Kholinar and also helped Kaladin during the battle of the palace to push back the enemy. When Shallan began her way to the [[Oathgate\|Oathgate]] to battle the Unmade, Drehy was sent by Kaladin to assist her and keep the palace guard and the [[Fused\|Fused]] away from her while she focused on the Unmade. Drehy was not of the members of the group to travel to the [[Shadesmar\|Shadesmar]], instead remaining in Kholinar with Skar to attempt to continue the battle.
 Working on information gained by [[Spanreed\|spanreed]], Kaladin traveled to a cave on the coast of [[Alethkar\|Alethkar]]. Entering the cave Kaladin discovers that Drehy and Skar survived and escaped Kholinar with [[Gavinor Kholin\|Gavinor Kholin]]. They had smeared ash on their foreheads to hide their tattoos, and both looked weak and exhausted from their travels. Showing Gavinor to Kaladin, Drehy quotes the Second Ideal of the Windrunners.
 
+### Windrunner
+After reuniting with Kaladin, Drehy bonded a spren of his own. He participated in the evacuation of [[Hearthstone\|Hearthstone]] with his fellow Windrunners, engaging the [[Fused\|Fused]] in combat, before returning to Urithiru. Skar and Drehy travelled with Rock and his family to the [[Horneater Peaks\|Horneater Peaks]] before returning to the Shattered Plains for Teft's funeral.
+
 ## Trivia
 He is a cameo of one of Brandon's college friends Ryan Dreher, who is also gay
 He is described as long-limbed and lanky, an in-joke between Brandon and Ryan
 Drehy's boyfriend [[Dru\|Dru]] is possibly a cameo of Ryan's husband
+He is planned to play a major role in the Lunamor Novella
 
 
 https://coppermind.net/wiki/Drehy

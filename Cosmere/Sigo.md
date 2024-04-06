@@ -1,9 +1,8 @@
 |**Sigo**|
 |-|-|
 |**Type**|Spacecraft, DDF Ships|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 The **Sigo** is a [[Starfighter\|starfighter]] used by the [[DDF\|DDF]].
 [[Nightstorm Flight\|Nightstorm Flight]] uses Sigo-fighters that are branded with the flight's logo. Two members of Nightstorm Flight, Callsign [[Vent (Skyward)\|Vent]], and [[Nightstorm pilot seven\|his brother]] fly blue fighters.

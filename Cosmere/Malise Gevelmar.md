@@ -9,9 +9,8 @@
 |**Died**|Ish 1172 - killed by [[Lin Davar\|Lin]]|
 |**Religion**|Vorinism|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Malise Gevelmar** is a [[Lighteyes\|lighteyes]] from [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. She is the second wife of [[Lin Davar\|Lin Davar]] and the stepmother of his children, including [[Shallan\|Shallan]].
 

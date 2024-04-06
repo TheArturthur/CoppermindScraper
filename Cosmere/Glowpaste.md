@@ -1,8 +1,7 @@
 |**Glowpaste**|
 |-|-|
-|**World**|[[Threnody\|Threnody]]|
+|**World of Origin**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence in the Forests of Hell*|
 
 **Glowpaste** is a  substance found on [[Threnody\|Threnody]].
 As kindling a fire would immediately enrage the ever-present [[Shade\|shades]], and a fire that goes out therefore cannot be easily replaced, fire is not typically used for illumination in the [[Forests of Hell\|Forests of Hell]]. The inhabitants of the Forests rely instead on glowpaste, a liquid that, once mixed, provides a dim, but steady, pale green or blue light. Glowpaste is often placed in glass jars that are tied to poles, serving as lanterns. When the user wants the light extinguished, they simply cover the jar with a black covering. Glowpaste can make shades glow in its light.

@@ -2,13 +2,12 @@
 |-|-|
 |by  Nozomi |
 |**Type**|Currency|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-**Spheres** are the primary currency in most nations on [[Roshar\|Roshar]]. Each one consists of a [[Gemstone\|gemstone]] encased in a glass bead. Gemstones, including the ones in spheres, can temporarily hold [[Investiture\|Investiture]] in the form of [[Stormlight\|Stormlight]], offering both a source of light and fuel for [[Surgebinding\|Surgebindings]]. Like all gemstones, spheres naturally leak any Stormlight they have absorbed, over a period of about a week. This has led to the practice of leaving spheres out during highstorms so they can be recharged. Rosharans use the terms **infused** and **dun** to differentiate between spheres that hold Stormlight at the moment, and ones that have gone dark. They were first devised as an alternative to large open flames, as Roshar's atmosphere has a high oxygen content, making flames behave somewhat differently.
+**Spheres** are the primary currency in most nations on [[Roshar\|Roshar]]. Each one consists of a [[Gemstone\|gemstone]] encased in a glass bead. Gemstones, including the ones in spheres, can temporarily hold [[Investiture\|Investiture]] in the form of [[Stormlight\|Stormlight]], offering both a source of light and fuel for [[Surgebinding\|Surgebindings]]. Like all gemstones, spheres naturally leak any Stormlight they have absorbed, over a period of about a Rosharan week. This has led to the practice of leaving spheres out during highstorms so they can be recharged. Rosharans use the terms **infused** and **dun** to differentiate between spheres that hold Stormlight at the moment, and ones that have gone dark. They were first devised as an alternative to large open flames, as Roshar's atmosphere has a high oxygen content, making flames behave somewhat differently.
 
 ## Contents
 
@@ -37,13 +36,14 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 |Chip|0.1|20|3|
 |Mark|0.5|100|5|
 |Broam|2.0|400|8|
+|**Kivs** seem to be a measurement of gem weight on Roshar. Like other in-world units of measurement, they are not well-defined. Real-life measurements are used here for clarity.|
 
 Each sphere is made of a tiny gemstone encased in a glass bead that is usually flattened on one side to keep the sphere from rolling away when set down. The gemstone can belong to any one of the ten [[Polestone\|Polestones]] and can come in one of three different sizes. The glass bead is always a uniform size, a little larger than a person's thumb nail.
 Exact measurements for the glass beads or their embedded gemstones are not available, but they can be deduced from the known weights of each denomination's gemstone. Spheres gemstones come in three different sizes (see #Currency for more information), so taking the largest one - the one in the broam - allows for some reasonable estimates. The broam gemstone is about 8mm in diameter, assuming a uniform round cut. The distance between the thumb's fingertip and its first joint is about an inch (or 25.4mm), with the nail being roughly half of that, so a nail size of about 12mm is reasonable. Shallan's comment about spheres being slightly larger than a person's thumb nail suggests that spheres are likely in the neighborhood of 15mm to 20mm in diameter.
 The table to the left presents the mass and diameter of the gemstone in each denomination, assuming a uniform round cut.
 
 ## Light
-|**Spherelight colors[9]**|
+|**Spherelight colors[11]**|
 |-|-|
 |**Gem type**|**Color**|
 |Sapphire|Deep blue| |
@@ -74,7 +74,7 @@ The economic value of each sphere is determined by the type and size of its gems
 The gem size defines the three denominations of spheres (chip, mark, and broam), and therefore a fixed exchange rate between the different denominations of spheres of the same type. Within the same gem type, each broam is equivalent to four marks, and each mark is equivalent to five chips - making a broam equal to twenty chips.
 The gem type is a little more complicated. The value of each type of sphere - and, therefore, the relative values of all types - is intrinsically tied to how valuable the given gemstone is in Soulcasting. This makes emeralds -- which can be used to Soulcast grain -- the most expensive kind of spheres, while diamonds are the cheapest. The rest of the sphere types, however, do not all have unique values; instead, they fall within one of three tiers: **prime pair**, **middle weight**, and **less weight**. Combined with the emerald and diamond spheres, this establishes a system with five distinct value tiers. The table below outlines the five tiers, lists the sphere types within each tier, and provides their monetary value expressed in **diamond chips**, the smallest denomination of the least valued gemstone.
 
-|**Sphere values[9]**|
+|**Sphere values[11]**|
 |-|-|
 |**Tier**|**Value (chip)**|**Value (mark)**|**Value (broam)**|**Spheres**|
 |Cheapest|1|5|20|Diamond|
@@ -91,7 +91,7 @@ As useful as spheres are in the everyday life of most Rosharans, their property 
 
 ### Surgebinders
 For Surgebinders - including both pre-Recreance [[Knights Radiant\|Knights Radiant]] and [[Dalinar\|Dalinar's]] newly restored Orders, as well as wielders of [[Honorblade\|Honorblades]] such as [[Szeth\|Szeth]] prior to his death - the spheres, much like ordinary gemstones, act as a portable, convenient, and inconspicuous source of Stormlight to power their [[Surgebinding\|abilities]]. Because of this, Surgebinders often carry pouches full of infused spheres, although if they find themselves in a situation where their own spheres are unavailable, inaccessible, or dun, they are often able to make use of spheres frequently found in the environment.
-In the days after [[Kaladin\|Kaladin's]] promotion to a captain in [[Dalinar\|Dalinar's]] army, [[Sigzil\|Sigzil]] attempts to establish a baseline for how efficient Kaladin's use of a Full Lashing is by measuring the amount of time it takes for a Lashing powered by the Stormlight from a single diamond chip to run out, first with [[Rock\|Rock]] hanging from a stone lashed to the wall (20 seconds), then by a stone lashed without an attached weight (about 87-91 seconds). Sigzil admits, however, that without a clock to track time or a way to quantify variations in how much Stormlight is in a sphere, that these measurements are imprecise. Since arriving in [[Urithiru\|Urithiru]], he has continued to attempt precision measurements of Surgebinding, though it is unclear how far he has gotten.
+In the days after [[Kaladin\|Kaladin's]] promotion to a captain in [[Dalinar\|Dalinar's]] army, [[Sigzil\|Sigzil]] attempts to establish a baseline for how efficient Kaladin's use of a Full Lashing is by measuring the amount of time it takes for a Lashing powered by the Stormlight from a single diamond chip to run out. The stone remains lashed to the wall for somewhere between 87 and 91 seconds. Sigzil admits, however, that without a clock to track time or a way to quantify variations in how much Stormlight is in a sphere, that the measurements are imprecise. Since arriving in [[Urithiru\|Urithiru]], he has continued to attempt precision measurements of Surgebinding, though it is unclear how far he has gotten.
 
 ### Shadesmar Currency
 Similarly to how spheres have become the dominant currency in the [[Physical Realm\|Physical Realm]] of Roshar, they have become prevalent in its [[Cognitive Realm\|Cognitive Realm]] as well - though for slightly different reasons. In the Physical Realm the value of each sphere is determined primarily by the economic value of its gemstone, as it relates to Soulcasting. In Shadesmar, however, the real currency is the Stormlight, and spheres become only as valuable as the amount of Stormlight they hold at the moment of the transaction. Presumably out of convenience, prices are still communicated in terms of the sphere denominations defined in the Physical Realm, but the gemstone type becomes irrelevant; a freshly infused diamond mark has the same value in Shadesmar as a freshly infused emerald mark - they are both "one mark of Stormlight," even though in the Physical Realm emeralds are fifty times more expensive than diamonds.
@@ -111,4 +111,4 @@ Spheres are formally described by their gemstone and denomination. However, in e
 
 
 
-https://coppermind.net/wiki/Broam
+https://coppermind.net/wiki/Ends

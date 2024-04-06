@@ -3,9 +3,9 @@
 |**Born**|Fifth Generation|
 |**Abilities**|[[Blessing of Potency\|Blessing of Potency]]|
 |**Species**|[[Kandra\|Kandra]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*The Hero of Ages*|
 
 **VarSell** is a [[Kandra\|kandra]] of the Fifth Generation on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]].
 

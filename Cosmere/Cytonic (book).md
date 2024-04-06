@@ -6,21 +6,24 @@
 |**Precedes**|*Defiant *|
 |**Setting**|[[Cytoverse\|Cytoverse]]|
 |**Released**|November 23, 2021|
+|**Publisher**||
+|**ISBN**|978-0399555855|
+|**Page Count**|409|
 
 For the psionic abilities possessed by many in the [[Cytoverse\|Cytoverse]], see [[Cytonics\|Cytonics]].
 *Cytonic* is the third book in the [[Skyward (series)\|Skyward series]] by [[Brandon Sanderson\|Brandon Sanderson]]. It is the sequel to *Starsight*.
 
 ## Contents
 
-1 Cover Synopsis
-2 Development
-3 Cover Gallery
-4 Interior Art
-5 Notes
+1 Synopsis
+2 Summary
+3 Development
+4 Cover Gallery
+5 Interior Art
+6 Notes
 
 
-## Cover Synopsis
-For a chapter-by-chapter summary, see [[Cytonic (book)/Summary\|/Summary]].
+## Synopsis
 >“
 \-Spensa’s life as a Defiant Defense Force pilot has been far from ordinary.
 She proved herself one of the best starfighters in the human enclave of Detritus and she saved her people from extermination at the hands of the Krell – the enigmatic alien species that has been holding them captive for decades. What’s more, she travelled light-years from home as a spy to infiltrate the Superiority, where she learned of the galaxy beyond her small, desolate planet home. Now, the Superiority – the governing galactic alliance bent on dominating all human life – has started a galaxy-wide war. And Spensa has seen the weapons they plan to use to end it: the Delvers. Ancient, mysterious alien forces that can wipe out entire planetary systems in an instant.
@@ -29,6 +32,8 @@ Except that Spensa is Cytonic. She faced down a Delver and saw something eerily 
 To have courage means facing fear. And this mission is terrifying.
 
 
+## Summary
+For a chapter-by-chapter summary, see [[Cytonic (book)/Summary\|/Summary]].
 ## Development
 In a Reddit Q&A leading up to the release of the first book, Brandon stated that the trilogy would likely become a four book series. In his 2018 [[State of the Sanderson\|State of the Sanderson]], he stated that due to the amount of time needed to complete *Rhythm of War*, *Cytonic* "[wouldn't] be written until 2020, for a spring 2021 release." In the 2019 State of the Sanderson, this was updated to writing in late 2020 for a "likely" 2021 release.
 At some point in early 2020, Brandon was planning on writing the book with two alternating points of view, [[Spensa\|Spensa]] and someone else, but later decided on doing a series of audio novellas to accompany the book's release instead of including the second point-of-view character.

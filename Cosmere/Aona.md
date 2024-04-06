@@ -4,13 +4,30 @@
 |**Died**|[[Splinter\|Splintered]]|
 |**Abilities**|[[Shard\|Shard]] of [[Devotion\|Devotion]]|
 |**Titles**|[[Devotion\|Devotion]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
-**Aona** was the original [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Devotion\|Devotion]]. Sometime after the [[Shattering\|Shattering]], she and [[Skai\|Skai]] took up residence on [[Sel\|Sel]]. [[Edgli\|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard, though the exact terms of that agreement are somewhat unclear.
-Sometime in the distant past, [[Odium\|Odium]] arrived on Sel and attacked both her and Skai, killing both of them and [[Splinter\|Splintering]] their Shards. At the time, he was hunting [[Ambition\|Ambition]], but found them first, and likely used their alleged violation of the Vessels' pact as justification for killing them. After Aona and Skai died, Odium locked much of Devotion and [[Dominion\|Dominion's]] power in the [[Cognitive Realm\|Cognitive Realm]] to prevent them from gaining another Vessel, which makes the Cognitive Realm around Sel very dangerous.
-On present-day Sel, while most of her power remains trapped in the Cognitive Realm, some of it is in the [[Aon\|Aons]] at the center of [[Seon\|seons]], which are Splinters of Devotion. There also appears to still be a [[Perpendicularity\|perpendicularity]] tied to her, which takes the form of a [[Devotion's Perpendicularity\|round pool filled with blue liquid]] located on a mountain near [[Elantris (city)\|Elantris]]. When [[Raoden\|Raoden]] enters the pool, he hears a voice, which may be that of Aona's [[Cognitive Shadow\|Cognitive Shadow]], though whether or not she even has a Cognitive Shadow is unknown.
+**Aona** was the original [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Devotion\|Devotion]]. Sometime after the [[Shattering\|Shattering]], she and [[Skai\|Skai]] took up residence on [[Sel\|Sel]]. [[Edgli\|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard, though the exact terms of that agreement are somewhat unclear. They were both [[Splinter\|Splintered]] by [[Odium\|Odium]] and their combined power forms the [[Dor\|Dor]]. 
+
+## Contents
+
+1 Abilities and Attributes
+2 History
+3 Trivia
+4 Notes
+
+
+## Abilities and Attributes
+Aona was a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making her one of the most powerful entities in the [[Cosmere\|cosmere]]. Prior to being splintered she was immortal, unaging, and incorporeal. The [[Dor\|Dor]] is her and Skai's Shard pushed into the Cognitive Realm by Odium; it fuels the magics [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]].
+
+## History
+Nothing is known about Aona's origins and life prior to the [[Shattering\|Shattering]], other than that she came from [[Yolen\|Yolen]]. For unknown reason, she and a group of others broke [[Cosmere\|cosmere's]] creator deity, [[Adonalsium\|Adonalsium]], into sixteen pieces. Of those sixteen, she took up [[Devotion\|Devotion]], and departed alongside [[Dominion\|Dominion]] for [[Sel\|Sel]].
+
+For subsequent events, see Devotion#History.
+## Trivia
+This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
+
+When [[Raoden\|Raoden]] enters the [[Devotion's Perpendicularity\|pool]], he hears a voice, which may be that of Aona's [[Cognitive Shadow\|Cognitive Shadow]], though whether or not she even has a Cognitive Shadow is unknown.
 
 
 

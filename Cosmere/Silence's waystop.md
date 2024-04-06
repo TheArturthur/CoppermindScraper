@@ -1,9 +1,8 @@
 |**Silence's waystop**|
 |-|-|
 |**Owner**|[[Silence Montane\|Silence Montane]]|
-|**World**|[[Threnody\|Threnody]]|
+|**World of Origin**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Shadows for Silence*|
 
 **Silence's waystop** was a waystop run by [[Silence Montane\|Silence Montane]] in the [[Forests of Hell\|Forests of Hell]].
 Silence and her daughter, [[William Ann\|William Ann]], ran the waystop, along with a young girl named [[Sebruki\|Sebruki]]. They had [[Dob\|Dob]] as a stablehand.

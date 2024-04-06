@@ -1,12 +1,11 @@
 |**Royal Locks**|
 |-|-|
 |**Related to**|[[Returned\|Returned]]|
-|**World**|[[Nalthis\|Nalthis]]🐱︎|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker, The Stormlight Archive[1]*|
 
 The **Royal Locks** are a hereditary trait of the Royal House of [[Idris\|Idris]] on [[Nalthis\|Nalthis]].
-Members of the Royal House can change their hair color or cause their hair to grow quickly at will. Normally the color of the Royal Locks reflects the person's emotional state by default but this can be controlled through training and discipline. The ability to grow hair at will takes effort and leads to hunger and exhaustion.
+Members of the Royal House can change their hair color or cause their hair to grow quickly at will. Normally the color of the Royal Locks reflects the person's emotional state by default but this can be controlled through training and discipline. The ability to grow hair at will takes effort and leads to hunger and exhaustion. Royal Locks abilities can extend to facial hair.
 Only members of the Royal House that are potential heirs to the throne have and can pass on the Royal Locks.
 
 ## Contents
@@ -38,8 +37,8 @@ Wearers of the Royal Locks can imitate the grey hair of the elderly, though it i
 Like [[Returned\|Returned]], wearers of the Royal Locks can also change other aspects of the physical appearance. With practice, wearers are able to change their age, height, and body shape. They don't have as much ability as a Returned does though, as they cannot change their physical features enough to look like someone else.
 [[Vasher\|Vasher]] suggests that all Returned can alter their appearance to an extent, and points to the Royal Locks as evidence that the Royals are descended from a Returned. This indicates that all Returned could potentially mimic the effects of the Royal Locks. On the other hand, it has been revealed that [[Denth\|Denth]] has the Royal Locks independent of his being Returned.
 Royal Locks can be regrown by the holder, but it requires energy and focus. Doing so makes them hungry and tired. Siri describes this feeling is like moving any other muscle.
+Those with the Royal Locks have a much easier time learning [[Awakening\|Awakening]].
 The hair can be sold in the markets of [[T'Telir\|T'Telir]].
-Royal Locks abilities can extend to facial hair.
 
 ## History
 The arrangement between [[Idris\|Idris]] and [[Hallandren\|Hallandren]] was in part due to the people of Hallandren calling for their future royalty to have the Royal Locks. This would further legitimize the current regime and quiet those who believed [[Dedelin\|Dedelin]] was the rightful heir to the throne.

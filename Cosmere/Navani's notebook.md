@@ -3,14 +3,12 @@
 |**Type**|Research notes|
 |**Author**|[[Navani Kholin\|Navani Kholin]]|
 |**Language**|[[Women's script\|Women's script]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 **Navani's notebook** is a series of pages written by the [[Artifabrian\|Artifabrian]] [[Navani Kholin\|Navani Kholin]]. Navani uses her notebook as a location to write down many of her ideas in. As a result it contains information about Rosharan science.
-The notes can be found as interior art in all books of *The Stormlight Archive*. While the originals were transliterated from English into the [[Women's script\|women's script]], they have been transliterated back into the English alphabet by fans.
 
 ## Contents
 
@@ -36,6 +34,7 @@ The notes can be found as interior art in all books of *The Stormlight Archive*.
 ## Pages
 For a complete collection of pages from the notebook, see Category:Navani's notebook.
 ### Page one
+ by  Isaac Stewart  Page 1
 The cut and type of the gem determines what kind of [[Spren\|spren]] are attracted to it and can be imprisoned in it.
 There must be thousands of viable combinations.
 Once a spren is captured and the gem infused with [[Stormlight\|Stormlight]] the [[Fabrial\|fabrial]] can be used in machines.
@@ -58,6 +57,7 @@ Retractable blades cause crippling pain.
 Dial pushes blades to four set lengths.
 
 ### Page two
+ by  Isaac Stewart  Page 2
 Examples of stormlight patterns
 Patterns of stormlight filtered through the fabrial determine the power of the gem
 The pattern cannot be seen by the naked eye
@@ -90,6 +90,7 @@ surprise
 The trick of the emotion bracelet is first learning to read it and second learning to tell if the bracelet is reading your emotions, your subject's emotions, or the emotions of the person in the next room over
 
 ### Archery Constructions
+ by  Isaac Stewart  Archery constructions
 Fabrial for an archer tower.
 Glyphs of numbers; one, two, three, four (denoting the four steps during useage)
 Reversal principle of conjoined
@@ -99,11 +100,13 @@ Idea.
 Archers during the Weeping.
 
 ### Ship Designs
+ by  Kelley Harris  Ship designs
 Too fanciful, ha?
 Ask Rushu how to keep the mast from ripping off
 Jasnah's favorite
 
 ### Vambrace
+ by  Kelley Harris  Vambrace
 Touch the gems in the correct combination to
 release a shock from the front nodes that will
 incapacitate an attacker
@@ -113,6 +116,7 @@ Stormpiece
 Timepiece
 
 ### The Fourth bridge
+ by  Kelley Harris  The Fourth bridge
 The fourth bridge is not as pretty as my fanciful designs
 but it is thrilling to see the ship coming together
 The final build follows these designs with some
@@ -139,6 +143,7 @@ table to make space
 Latest tests show we need four fins instead of two wings
 
 ### The Arnist Method
+ by  Kelley Harris  The Arnist Method
 The Arnist method begins with luring the
 Spren to the gem
 
@@ -167,6 +172,7 @@ twisting rods hooked to eyebolts
 The tighter the cage the more heat the fabrial generates
 
 ### The Crystal Pillar Room
+ by  Kelley Harris  The Crystal Pillar Room
 Close up of the crystal pillar
 
 Suppressor device
@@ -188,10 +194,11 @@ pillar room
 Library room
 
 ### Dagger
+ by  Kelley Harris  Dagger
 Raboniels soul
 harvesting dagger
 
-Navani: The white gold metal vein down the middle conducts investiture
+Navani: The white gold metal vein down the middle conducts Investiture
 Raboniel called the metal Raysium and says there is not enough in
 this dagger to collect her soul or that of a herald
 I am not sure I believe her
@@ -227,10 +234,11 @@ I suspect the vein of Raysium continues through the daggers
 hilt and somehow attaches to the ruby at its base
 
 Raboniel: The Raysium vein is removable, reversible and
-conducts investiture directly to the gemstone
+conducts Investiture directly to the gemstone
 
 
 ### Experiments
+ by  Kelley Harris  Experiments
 The Thaylen vacuum tube
 
 A cracked diamond
@@ -262,9 +270,9 @@ of your kind to hear the rhythms. How could I have anticipated the magnitude of 
 you have kept hidden from me? I fear I have underestimated you and your kind.
 
 ## Trivia
-The translation of pages from *The Way of Kings* were accomplished by Harakeke
-User: Enjo shared their translation of the page from *Words of Radiance*
-Pagerunner provided the translations of the two pages in *Oathbringer*
+The notes can be found as interior art in all books of [[The Stormlight Archive\|The Stormlight Archive]].
+While the originals were transliterated from English into the [[Women's script\|women's script]], they have been transliterated back into the English alphabet by fans.
+
 
 
 https://coppermind.net/wiki/Navani%27s_notebook

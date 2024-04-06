@@ -1,9 +1,8 @@
 |**Kammar**|
 |-|-|
 |**Related to**|Szeth|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Kammar** is an ancient fighting stance developed on [[Roshar\|Roshar]].
 Kammar is designed to defeat enemies without harming them, and so is considered a peaceful form. It focuses on grabbing people and immobilizing them by using their own weight against them. Only the hands are used in kammar.

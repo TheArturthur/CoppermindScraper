@@ -2,13 +2,12 @@
 |-|-|
 |by  Ben McSweeney |
 |**Type**|Animal|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-A **cremling** is a type of scavenger crustacean that can be found almost everywhere on [[Roshar\|Roshar]]. Rather than a single species, the term — derived from [[Crem\|crem]], a type of sediment — encompasses a wide variety of creatures.
+A **cremling** is a type of scavenger crustacean that can be found almost everywhere on [[Roshar\|Roshar]]. Rather than a single species, the term — derived from [[Crem\|crem]], a type of sediment — encompasses a wide variety of creatures. Cremlings that live in the ocean are sometimes called **sealings**.
 
 ## Contents
 

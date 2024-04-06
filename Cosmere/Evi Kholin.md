@@ -8,9 +8,8 @@
 |**Born**|1124|
 |**Died**|1163|
 |**Nationality**|[[Riran\|Riran]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Enjoy the moment. Close your eyes and contemplate what the One has given you. Seek the peace of oblivion, and bask in the joy of your own sensation.*”
 \-Evi[3]
@@ -49,7 +48,7 @@ She is a devout follower of [[Iri\|Iri]] religion and believes in the One. Thoug
 
 ## Attributes and Abilities
 Evi is a fluent speaker of the Alethi language, although she has a habit of literally translating her native idioms into Alethi, sometimes resulting in a loss of their context. She may be naturally left-handed, and likely re-trained herself to use her right hand upon marrying [[Dalinar\|Dalinar]]. She has some measure of artistic skill, having created the sketches of [[Adolin\|Adolin's]] [[Shardplate\|Shardplate]] for the royal record.
-Said Shardplate was originally hers; it is the reason why Dalinar marries her in the first place. The queen of [[Iri\|Iri]] claims that the set belongs to her, although her claim appears weak, as she and Evi aren't related.
+Said Shardplate was originally hers; it is one of the reasons why Dalinar marries her in the first place. The queen of [[Iri\|Iri]] claims that the set belongs to her, although her claim appears weak, as she and Evi aren't related.
 
 ## History
  by  botanicaxu  Evi with baby [[Adolin\|Adolin]] and [[Renarin\|Renarin]]
@@ -68,7 +67,7 @@ By the year 1150, Evi and Dalinar were no longer at war, but rather at their hom
  by  Viridializard 
 When Adolin was five years old, Evi decided to join Dalinar on his campaigns. This was motivated by several factors, chief among them the fact that all other Alethi wives joined their husbands on the campaign trail, and that Dalinar spent too little time with his children. Although he tried to convince her that the battlefield was no place for her, she insisted on staying. From then on out, she would spend half of every year with Dalinar -- and, later, Adolin -- in his war camps, and the other half in [[Kholinar\|Kholinar]] with Renarin, who was too sickly to take on the road. Her Riran accent began to fade at the time, though she would sometimes switch back to her native language.
 Although outwardly it appeared that she and Dalinar were a loving couple, by 1163 the two of them were more at odds than ever. Evi wanted the killing to end, and for the family to return to Alethkar and rest; Dalinar sought to continue making war. This culminated in a major fight between them, which ended with Evi breaking into tears. In an attempt to console her, Dalinar promised that after quelling the new rebellion in [[Rathalas\|Rathalas]], they would return to Kholinar for at least a year. Moreover, to respect her wishes to be more peaceful, he initially tried bargaining with [[Tanalan\|Tanalan]].
-Unfortunately, this was not to be. Tanalan betrayed Dalinar, attempting to kill him after sending him out to investigate rumors of a [[Highprince\|highprince]] that had betrayed the [[Gavilar\|Gavilar]]. When Dalinar returned after digging himself out of a deep pile of rubble, Evi was already beginning to mourn him and grew even more distressed when he began his plan to take revenge, leading to him ordering his men to escort her out of the command tent to somewhere safe. Unbeknownst to him, she snuck out and went to the city to plead with Tanalan for peace. The young highprince detained her in his former safehouse, now turned city prison. When Dalinar set flame to the Rift, Evi died in the flames, with Dalinar finding out far too late to even attempt saving her.
+Unfortunately, this was not to be. Tanalan betrayed Dalinar, attempting to kill him after sending him out to investigate rumors of a [[Highprince\|highprince]] that had betrayed [[Gavilar\|Gavilar]]. When Dalinar returned after digging himself out of a deep pile of rubble, Evi was already beginning to mourn him and grew even more distressed when he began his plan to take revenge, leading to him ordering his men to escort her out of the command tent to somewhere safe. Unbeknownst to him, she snuck out and went to the city to plead with Tanalan for peace. The young highprince detained her in his former safehouse, now turned city prison. When Dalinar set flame to the Rift, Evi died in the flames, with Dalinar finding out far too late to even attempt saving her.
 
 ### Legacy
 >“*Evi… He had never deserved her.*”
@@ -83,7 +82,7 @@ Adolin, in contrast, had warm memories of his mother. He got his "western sensib
 
 ## Trivia
 In *The Way of Kings Prime*, Dalenar (proto-[[Dalinar\|Dalinar]]) likewise has a dead wife, though she is called Kalkanah rather than Evi. Very little is known about her, only that she would be furious if Dalenar were to dirty their house, and Dalenar did not forget her, nor did her death crush him as badly as Evi's crushed Dalinar.
-If she had joined the [[Knights Radiant\|Knights Radiants]], she would most likely be an [[Order of Edgedancers\|Edgedancer]] or a [[Order of Truthwatchers\|Truthwatcher]].
+If she had joined the [[Knights Radiant\|Knights Radiant]], she would most likely be an [[Order of Edgedancers\|Edgedancer]] or a [[Order of Truthwatchers\|Truthwatcher]].
 
 
 https://coppermind.net/wiki/Evi_Kholin

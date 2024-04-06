@@ -7,9 +7,8 @@
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Natir** is an [[Alethi\|Alethi]] steward on [[Roshar\|Roshar]].
 

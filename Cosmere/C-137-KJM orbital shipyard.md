@@ -1,9 +1,8 @@
 |**C-137-KJM orbital shipyard**|
 |-|-|
 |**Type**|Spacecraft|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*It was so big, my mind reeled to comprehend it. It was like the sky itself was falling. A sudden shower of hundreds of pieces of debris rained down, a blazing hail. And behind it, that something. That enormous, inconceivable something.*”
 \-Spensa's reaction to the appearance of the shipyard.[1]

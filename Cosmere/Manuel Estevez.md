@@ -1,8 +1,7 @@
 |**Manuel Estevez**|
 |-|-|
 |**Profession**|Explorer|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 >“*In this author’s opinion, the Estevez report seems the most trustworthy and accurately dated of all the early European chalkling sightings, even if it is disturbing in concept.*”
 \-A book’s opinion on Estevez’s report[1]

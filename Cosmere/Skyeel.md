@@ -2,9 +2,8 @@
 |-|-|
 |by  Ben McSweeney |
 |**Abilities**|Flight|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -75,4 +74,4 @@ The  of a ship is referred to as the eel's nest.
 
 
 
-https://coppermind.net/wiki/Skyeels
+https://coppermind.net/wiki/Skyeel

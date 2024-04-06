@@ -2,8 +2,7 @@
 |-|-|
 |by  Hayley Lazo |
 |**Related to**|[[Smedry Talent\|Smedry Talent]]|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians (series)*|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 **Silimatic** technologies use glass made from different types of sand to produce differing effects. Silimatic glass can be used by anyone, but lenses can only be used by [[Oculator\|Oculators]]. [[Alcatraz Smedry\|Alcatraz Smedry]] has drawn parallels between Silimatic technologies and [[Smedry Talent\|Smedry Talents]] in the past. He has also been able to increase the power of various Silimatic technologies.
 

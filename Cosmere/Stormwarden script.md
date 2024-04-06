@@ -2,9 +2,8 @@
 |-|-|
 |**Related to**|[[Stormwarden\|Stormwardens]]|
 |**Type**|Writing system|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **stormwarden script** is a [[Roshar\|Rosharan]] writing system used by [[Stormwarden\|stormwardens]], the scholars who predict [[Highstorm\|highstorms]].
 

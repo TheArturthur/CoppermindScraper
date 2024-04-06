@@ -1,10 +1,9 @@
 |**Ulatu**|
 |-|-|
 |**Type**|Garment|
-|**Origin**|[[Jah Keved\|Jah Keved]]🐱︎|
-|**World**|[[Roshar\|Roshar]]|
+|**Origin**|[[Jah Keved\|Jah Keved]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 An **ulatu** is a traditional men's garment worn in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

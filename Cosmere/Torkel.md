@@ -2,9 +2,8 @@
 |-|-|
 |**Groups**|[[Guild\|The Guild]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Torkel** is a [[Dayside\|Daysider]] from [[Taldain\|Taldain]] and a former advisor to Lord Merchant [[Vey\|Vey]].
 

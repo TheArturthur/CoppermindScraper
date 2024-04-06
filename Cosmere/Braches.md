@@ -1,10 +1,9 @@
 |**Braches**|
 |-|-|
 |**Died**|c. 0 [[Final Empire\|FE]]|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*It is so cold. When this is ﬁnished, I think I should like to live where it is warm all year. Braches has told of such places, islands to the south where great mountains create ﬁre.*”
 \-Alendi's logbook[1]

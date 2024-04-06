@@ -2,11 +2,10 @@
 |-|-|
 |**Died**|Ishi 1172, killed by [[Helaran\|Helaran]]|
 |**Profession**|Spearman in Amaram's army|
-|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
+|**Groups**|Amaram's army, [[Kaladin's squad\|Kaladin's squad]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Dallet** acts as [[Kaladin\|Kaladin's]] second-in-command during his time as squadleader in [[Amaram\|Brightlord Amaram's]] army.
 When fighting in a minor border dispute against the [[Veden\|Vedens]], Dallet is suddenly killed by [[Helaran Davar\|Helaran Davar]], who had been given a Blade and Plate by the [[Skybreakers\|Skybreakers]] and was there for an unknown reason. Guilt over Dallet's death lingered with Kaladin until he spoke the Fourth Ideal, accepting that he couldn't save everyone.

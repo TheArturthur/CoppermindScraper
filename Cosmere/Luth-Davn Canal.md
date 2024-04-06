@@ -1,10 +1,9 @@
 |**Luth-Davn Canal**|
 |-|-|
 |**Usage**|Transport|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **Luth-Davn Canal** is the main canal between [[Luthadel\|Luthadel]] and [[Haverfrex\|Haverfrex]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]]. It connects to the western bank of the [[River Channerel\|River Channerel]].
 

@@ -1,7 +1,6 @@
 |**Understreets**|
 |-|-|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
 
 >“*His Diggers had cut out several levels of understreets, complete with buildings, and people had flowed to Newcago for work.*”
 \-David, about Steelheart

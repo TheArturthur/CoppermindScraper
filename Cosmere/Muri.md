@@ -3,9 +3,8 @@
 |**Profession**|Seamstress|
 |**Residence**|[[Revolar\|Revolar]] [[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Poor kid. Better you than he.*”
 \-Muri to Shallan after Grund's death[1]

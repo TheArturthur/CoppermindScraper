@@ -6,19 +6,31 @@
 |**Setting**|[[United Isles of America\|United Isles of America]], Alternate Earth|
 |**Released**|May 14, 2013|
 |**Publisher**||
-|**ISBN**|978-0-7653-3844-0|
+|**ISBN**|978-0-7653-2032-2|
+|**Page Count**|378|
+|**Word Count**|[[The Rithmatist/Statistical analysis\|87,683]]|
 
-*The Rithmatist* is a Young Adult novel by [[Brandon Sanderson\|Brandon Sanderson]] published in May 2013 by [[Tor\|Tor]] after the publication of [[A Memory of Light\|A Memory of Light]]. There are plans for an eventual sequel, but note that it is not part of the [[Cosmere\|cosmere]].
+*The Rithmatist* is a young adult novel by [[Brandon Sanderson\|Brandon Sanderson]] published in May 2013 by Tor Books. Although it was conceived as part of the [[Cosmere\|cosmere]], it was later moved out of that universe. [[The Aztlanian\|A sequel]] has been in the works since the book was published but it has not been completed.
 
 ## Contents
 
-1 Summary
-2 Excerpt
-3 Magic System
+1 Synopsis
+2 Summary
+3 Setting
+
+3.1 Magic System
+
+
 4 Cover Gallery
 5 Interior Art
-6 Notes
+6 See Also
+7 Statistical Analysis
+8 Notes
 
+
+## Synopsis
+*More than anything, Joel wants to be a Rithmatist. Chosen by the Master in a mysterious inception ceremony, Rithmatists have the power to infuse life into two-dimensional figures known as Chalklings. Rithmatists are humanity's only defense against the Wild Chalklings-merciless creatures that leave mangled corpses in their wake. Having nearly overrun the territory of Nebrask, the Wild Chalklings now threaten all of the American Isles.*
+*As the son of a lowly chalkmaker at Armedius Academy, Joel can only watch as Rithmatist students study the magical art that he would do anything to practice. Then students start disappearing-kidnapped from their rooms at night, leaving trails of blood. Assigned to help the professor who is investigating the crimes, Joel and his friend Melody find themselves on the trail of an unexpected discovery-one that will change Rithmatics-and their world-forever.*
 
 ## Summary
 For a chapter by chapter summary, see [[The Rithmatist/Summary\|/Summary]].
@@ -31,16 +43,27 @@ Eventually, Joel himself becomes a target. Chalklings chase him towards a trap o
 Soon Joel uncovers the true perpetrator: Inspector Harding. Harding has been possessed by a mysterious entity called a Forgotten, which is somehow able to control wild chalklings. It is revealed that while regular people are killed by chalklings, Rithmatists can themselves be turned into chalklings. Harding sends his chalklings to attack and transform all of the Armedius Rithmatist students, who he has successfully contained on campus "for protection." Together Joel, Melody, and Fitch defeat the Forgotten (with token help from Nalizar), and the wild chalklings revert to human form.
 Joel later confronts Nalizar, who he suspects was the mastermind behind the Forgotten’s actions. Nalizar confirms that he was behind the plot and that he is not entirely human. But Joel knows that nobody will believe him if he tries to expose Nalizar--having publicly helped to save the students, Nalizar's hero status is publicly confirmed.
 
-## Excerpt
-Tor has published an  (Prologue and Chapters One to Five).
-
-## Magic System
+## Setting
+### Magic System
 [[Rithmatics\|Rithmatics]] uses chalk circles, lines, and drawings known as [[Chalkling\|chalklings]], otherwise known as lines of making, to do a variety of actions, including, but not limited to, attacking other duelists, creating defenses & structures, as well as creatures.
 
 ## Cover Gallery
 For a cover gallery of The Rithmatist, see [[The Rithmatist/Covers\|/Covers]].
 ## Interior Art
 For a gallery of the book's interior art, see [[The Rithmatist/Interior art\|/Interior art]].
+## See Also
+Tor has published an  (Prologue and Chapters One to Five).
+## Statistical Analysis
+For a full statistical analysis, see [[The Rithmatist/Statistical analysis\|/Statistical analysis]].
+*The Rithmatist* consists of one prologue and twenty-five chapters, reaching a total 87,683 word count.
+
+|**Word Count**|87,683||
+|-|-|
+|**Page Count**|378|Tor hardback|
+|**Chapter Count**|25|Including prologue.|
+|**PoV Characters**|3||
+|**PoV Count**|30||
+
 
 
 https://coppermind.net/wiki/The_Rithmatist

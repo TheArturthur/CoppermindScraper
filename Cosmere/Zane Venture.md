@@ -9,9 +9,9 @@
 |**Aliases**|The Watcher|
 |**Birthplace**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*The Well of Ascension*|
 
 **Zane Venture** was a [[Allomancer\|Mistborn]] on the planet of [[Scadrial\|Scadrial]]. He was the illegitimate son of [[Straff Venture\|Straff Venture]] and the half-brother to [[Elend Venture\|Elend Venture]].
 
@@ -24,6 +24,7 @@
 
 4.1 Vin
 4.2 Straff
+4.3 Amaranta
 
 
 5 Notes
@@ -31,12 +32,12 @@
 
 ## Appearance and Personality
  by  Ydunn Lopez 
-Zane shares certain phenotypic characteristics with his family such as brown curly hair, which he tends to keep shorter than his brother. He has a wiry build with a narrow face and is of medium height. He often wears all black and, despite being a Mistborn, does not wear a mistcloak. Zane had a difficult childhood, as Straff kept his existence secret due to his [[Skaa\|skaa]] lineage. Because of a combination of his harsh upbringing and [[Ruin\|Ruin's]] influence upon him, Zane has an unstable personality, and engages in dysregulated behavior such as self-harm.
+Zane shares certain phenotypic characteristics with his family such as brown curly hair, which he tends to keep shorter than his brother. He has a wiry build with a narrow face and is of medium height. He often wears all black and, despite being a Mistborn, does not wear a [[Mistcloak\|mistcloak]]. Zane had a difficult childhood, as Straff kept his existence secret due to his illegitimacy. Because of a combination of his harsh upbringing and [[Ruin\|Ruin's]] influence upon him, Zane has an unstable personality, and engages in dysregulated behavior such as self-harm.
 Zane has a [[Hemalurgic\|Hemalurgic]] spike he placed himself, presumably under [[Ruin\|Ruin's]] influence; however, a consequence of this spike is that Ruin can speak with Zane, and often tells him to kill everyone around him, leading Zane to believe he is insane. Zane refuses to let his insanity control him and he resists following Ruin's orders, calling him God when thinking about the voice in his head, but otherwise ignoring it.
 Without Ruin's influence, Zane would have been less crazy but more ruthless, much like his father, and would have been more similar to Kelsier.
 
 ## Attributes and Abilities
-Zane is a powerful Mistborn, the strongest [[Vin\|Vin]] has met since [[Kelsier\|Kelsier]]. This is, in part, thanks to a [[Steel\|steel]] [[Hemalurgic\|Hemalurgic]] spike in his heart, which grants him great precision when using [[Allomantic\|Allomantic]] steel. He was one of the few Mistborn in the [[Final Empire\|Final Empire]] who had access to [[Duralumin\|duralumin]].
+Zane is a powerful Mistborn, the strongest [[Vin\|Vin]] has met since [[Kelsier\|Kelsier]]. This is, in part, thanks to a [[Steel\|steel]] [[Hemalurgic\|Hemalurgic]] spike in his heart, which grants him great precision when using [[Allomantic\|Allomantic]] steel. He was one of the few Mistborn in the [[Final Empire\|Final Empire]] who has access to [[Duralumin\|duralumin]].
 
 ## History
 At some point after he Snapped, Zane obtained, and stabbed himself with, a Hemalurgic spike.
@@ -63,6 +64,10 @@ Zane is intrigued by Vin from the start, as she is the only one the voice in his
 
 Zane's relationship with his father is somewhat antagonistic. Although Zane completes missions that Straff sends him on, he also commonly cuts himself in front of the man to make him uncomfortable--but he also does it in order to block out Ruin's telling him to kill Straff, as he believes that a man shouldn't kill his father. Furthermore, he believes Ruin's voice to be an indicator of his own insanity, and therefore wouldn't trust himself to be in Straff's place. Despite this, he doesn't stop one of Straff's serving girls from attempting to poison the man, and he lets him assume that Zane poisoned him whenever Straff experiences the withdrawal symptoms of [[Black Frayn\|Black Frayn]].
 
+### Amaranta
+Amaranta is Zane’s lover, while also being a mistress to Straff Venture. She is a skilled herbalist, and gave Zane the idea to use Black Frayn on Straff.
+During her affair with Zane, he would often cut her in the same way he cut himself, but he made her feel desirable again. Zane then became distant, and Amaranta blamed Straff.
 
 
-https://coppermind.net/wiki/Zane_Venture
+
+https://coppermind.net/wiki/Zane

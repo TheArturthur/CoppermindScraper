@@ -2,8 +2,7 @@
 |-|-|
 |**Profession**|Student|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
-|**Featured In**|*The Rithmatist*|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Michael** is a student at [[Armedius Academy\|Armedius Academy]] on the isle of [[New Britannia\|New Britannia]].
 

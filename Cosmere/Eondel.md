@@ -1,12 +1,11 @@
 |**Eondel**|
 |-|-|
-|**Died**|In a duel with [[Telrii\|Telrii]]|
+|**Died**|In the Attack on [[Telrii\|Telrii]]|
 |**Titles**|Count of [[Eon Plantation\|Eon Plantation]]|
 |**Profession**|Soldier |
 |**Nationality**|[[Arelene\|Arelene]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 **Eondel** is the Count of [[Eon Plantation\|Eon Plantation]] in [[Arelon\|Arelon]] on [[Sel\|Sel]].
 

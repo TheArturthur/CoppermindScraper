@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Family|
 |**Era**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn Era 1*|
 
 **House Geffenry** is a noble house on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]].
 

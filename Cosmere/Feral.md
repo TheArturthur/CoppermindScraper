@@ -1,8 +1,7 @@
 |**Feral**|
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*They were warped and mutated. Heads all growing out of their bellies and too many arms, and teeth the size of boomerangs.*”
 \-Hershel[1]

@@ -1,11 +1,10 @@
 |**Tenasi**|
 |-|-|
-|**Abilities**|Cytonics, fighting without becoming emotional|
-|**World**|*Unknown*|
+|**Abilities**|[[Cytonics\|Cytonics]], fighting without becoming emotional|
+|**Sapient**|Yes|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium, Skyward (series)*|
 
-This page or section needs to be updated with new information for *Cytonic*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 The **tenasi** are a race of aliens and, at the time of *Starsight*, one of the five main species of the [[Superiority\|Superiority]]. They discovered [[Cytonics\|cytonics]] just after beginning to use steam power, and, like all other alien species known to humankind, quickly refocused their efforts on developing their cytonic powers. At some point, they discovered how to suppress cytonic abilities and began using that power to lock away any discontents, which resulted in their being considered to be of primary intelligence.
 

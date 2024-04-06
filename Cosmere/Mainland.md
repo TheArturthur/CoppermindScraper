@@ -1,8 +1,7 @@
 |**Mainland**|
 |-|-|
-|**World**|[[First of the Sun\|First of the Sun]]🐱︎|
+|**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 The **mainland** is a landmass (presumably a continent) on [[First of the Sun\|First of the Sun]], a planet in the [[Drominad System\|Drominad System]].
 

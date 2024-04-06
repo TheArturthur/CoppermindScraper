@@ -7,9 +7,8 @@
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Residence**|[[Rathalas\|Rathalas]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 Brightlord **Tanalan** is is the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

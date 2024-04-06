@@ -1,4 +1,4 @@
-|**White Sand (prose)**|
+|**White Sand**|
 |-|-|
 |**Released**|Unpublished|
 
@@ -9,7 +9,7 @@ The opening sequence of "White Sand" was officially published in the "[[Arcanum 
 
 ## Development
 This version of *White Sand*, along with Brandon's two preceding books, *Elantris* and [[Dragonsteel Prime\|Dragonsteel Prime]], marks the start of Brandon working on the [[Cosmere\|cosmere]] in earnest.
-According to [[Isaac Stewart\|Isaac Stewart]], this version of *White Sand* helped Brandon get the attention of his agent, [[Joshua Bilmes\|Joshua Bilmes]].
+According to [[Isaac Stewart\|Isaac Stewart]], this version of *White Sand* helped Brandon get the attention of his agent, [[Joshua Bilmes\|Joshua Bilmes]]. Brandon is considering revision the prose and releasing it as a canon novel with a planned length of 200k words.
 
 
 

@@ -1,9 +1,8 @@
 |**Spray**|
 |-|-|
 |**Type**|Horse|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Spray** is a mare in the [[House Kholin\|Kholin]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]].
 

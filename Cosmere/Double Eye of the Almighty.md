@@ -2,9 +2,8 @@
 |-|-|
 |by  Isaac Stewart |
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -46,7 +45,7 @@ The floor of a meeting room in [[Urithiru\|Urithiru]] shows a version of the Dou
 ## Trivia
 The Double Eye was inspired by the .
 The Double Eye was one of the first things [[Brandon\|Brandon]] designed for the art of *The Way of Kings*.
-The chapter headings in books of *The Stormlight Archive* show an eye with two pupils.
+The chapter headings in books of [[The Stormlight Archive\|The Stormlight Archive]] show an eye with two pupils.
 The Original Double Eye on The Way of Kings Prime is composed of 16 polygons and vaguely resembles a shattered pupil.
 
 

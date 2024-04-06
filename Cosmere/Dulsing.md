@@ -1,9 +1,8 @@
 |**Dulsing**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Dulsing** is a small settlement at the edge of the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]], roughly 50 miles (80km) northeast of [[New Seran\|New Seran]].
 

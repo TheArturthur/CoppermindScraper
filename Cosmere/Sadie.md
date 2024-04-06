@@ -1,11 +1,10 @@
 |**Sadie**|
 |-|-|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 "Sentry" redirects here. For for the Ferrings known as Sentries, see Bronze#Feruchemical Use.
 >“*Maybe soon I’ll be able to be like you, Spin!*”

@@ -1,9 +1,8 @@
 |**I-nah**|
 |-|-|
 |**Native to**|[[Reshi Sea\|Reshi Sea]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **I-nah** are a type of tree native to the [[Reshi Sea\|Reshi Sea]] on [[Roshar\|Roshar]].
 

@@ -3,9 +3,8 @@
 |by  Connor Chamberlain |
 |**Type**||
 |**Native to**|[[Alethkar\|Alethkar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 A **lurg** is an  on [[Roshar\|Roshar]].
 

@@ -3,9 +3,9 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Honor\|Honor]]|
 |**Species**|[[Honorspren\|Honorspren]]|
 |**Residence**|[[Lasting Integrity\|Lasting Integrity]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 >“*How could you not know? If you've come to persuade us to become Radiant spren, shouldn’t you know the cost of what you’re asking?*”
 \-Veratorim's interjection[1]

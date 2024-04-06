@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|c. 342 [[Catacendre\|PC]] |
 |**Profession**|Minister of Science and Technology|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 Dr. **Florin Malin** is a former government official in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]].
 

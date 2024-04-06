@@ -1,9 +1,8 @@
 |**Ironstand**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Region**|[[Elendel Basin\|Elendel Basin]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Ironstand** is a town in [[Elendel Basin\|Elendel Basin]] on the train line between [[Elendel\|Elendel]] and [[New Seran\|New Seran]].
 

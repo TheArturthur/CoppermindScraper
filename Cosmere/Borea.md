@@ -3,9 +3,9 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Honor\|Honor]]|
 |**Titles**|First mate|
 |**Species**|[[Honorspren\|Honorspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“* It really is as you say. A Shardblade that requires no spren—no enslavement. This is something else. How did you do it?*”
 \- Borea to Azure on her Blade[1]

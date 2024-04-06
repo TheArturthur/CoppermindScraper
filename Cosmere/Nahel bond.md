@@ -2,29 +2,29 @@
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]]|
 |**Related to**|[[Surgebinding\|Surgebinding]], [[Honor\|Honor]], [[Cultivation\|Cultivation]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Rhythm of War* and *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
 
 >“* The Nahel bond is far more intimate a relationship. The linking of spirits. This is not a thing that should be done lightly, unsupervised.*”
 \- Notum[1]
 
 
-The **Nahel bond** is a connection between a sentient [[Spren\|spren]] and a human or [[Singer\|singer]]. It's a symbiotic relationship, granting a person the power of [[Surgebinding\|Surgebinding]], and the spren the ability to manifest into the [[Physical Realm\|Physical Realm]] without losing their mind.
+The **Nahel bond** is a bond between a [[Spren\|spren]] and a being from the Physical Realm. It's a symbiotic relationship, granting the spren the ability to manifest into the [[Physical Realm\|Physical Realm]] without losing their mind. In the case of a sapient individual in the Physical Realm, it grants the person the power of [[Surgebinding\|Surgebinding]] as well. It's also a bond formed by, for example, greatshells and Ryshadium.
 Originally, the Nahel bond granted power to individuals with no affiliation with one another. Eventually, the [[Knights Radiant\|Knights Radiant]] were formed and the Surgebinders were gathered into ten different Orders of Knights, each Order's members bonded to the same type of spren.
 
 ## Contents
 
-1 Mechanics of the Bond
+1 Mechanics of the Surgebinding Bond
 
 1.1 Formation
 1.2 Progression
 1.3 Breaking
+1.4 Interactions with Dawnshards
 
 
-2 Powers Granted by the Bond
+2 Powers Granted by the Surgebinding Bond
 
 2.1 Surgebinding
 2.2 Resonances
@@ -37,16 +37,16 @@ Originally, the Nahel bond granted power to individuals with no affiliation with
 5 Notes
 
 
-## Mechanics of the Bond
+## Mechanics of the Surgebinding Bond
  by  Petar Penev  [[Cryptic\|Cryptics]] observing [[Shallan\|Shallan]] prior to her bond
 >“*The responsibility of what we've been given — whether it be the crown or the Nahel bond — needs to make us better.*”
-\-Nohadon[2]
+\-Nohadon[3]
 
 
 ### Formation
 Spren seem to bond with people who share their perspective or personality; however, they also seem to seek partners that would complement them. The bonded spren is more likely to be of the opposite gender to their bond-mate, but this is by no means a hard rule, and there are numerous Surgebinders with same-gender spren, such as [[Malata\|Malata]] with [[Spark\|Spark]], or [[Renarin\|Renarin]] with [[Glys\|Glys]]. Surgebinders are able to instinctively tell their spren apart from others. A person is able to bond with two different spren, though most spren aren't going to like it. A person can also bond with two spren of the same order, though this will not increase their powers or strength. Spren can theoretically bond with another spren.
 How exactly the bond is decided on varies, though it requires volition. Some spren are highly discerning, while others do not pay much attention to the morality of their prospective partner. Some spren choose the people they bond with individually, while others are more organized and make the decision by committee, then send one of their number to bond.
-Forming a bond utilizes the [[Cosmere\|cosmere]]-wide properties of [[Connection\|Connection]] and [[Identity\|Identity]] in some manner; lessening those attributes, such as by storing them in a [[Metalmind\|metalmind]], would affect the bond. It is also harder to form a bond with a heavily Invested being, such as a [[Returned\|Returned]]. Spren are also less likely to bond with a person using a [[Hemalurgy\|Hemalurgic]] spike.
+Forming a bond utilizes the [[Cosmere\|cosmere]]-wide properties of [[Connection\|Connection]] and [[Identity\|Identity]] in some manner; lessening those attributes, such as by storing them in a [[Metalmind\|metalmind]], would affect the bond. It is also harder to form a bond with a heavily Invested being, such as a [[Returned\|Returned]], due to Investiture resisting Investiture. Spren are also less likely to bond with a person using a [[Hemalurgy\|Hemalurgic]] spike. This can be contrasted with the [[Luhel Bond\|Luhel Bond]], which primarily utilizes physical matter.
 
 ### Progression
 For more information, see [[Immortal Words\|Immortal Words]].
@@ -59,10 +59,15 @@ Another way to break the Nahel bond is to deliberately forswear the First Ideal;
 There are some ways to break the bond without killing the spren. Dying while upholding the Oaths -- for example, of old age, or in battle -- will send the spren back to [[Shadesmar\|Shadesmar]], and severely traumatize it, but the spren will survive and can bond again. A Radiant revived as a [[Returned\|Returned]] would not have their Nahel Bond. Spren are able to retain their sapience in the Physical Realm for a time after the death of their Radiant, but will need to bond again in order to keep it. The spren can also safely break the bond on their own, though this requires a great deal of caution. This will cause the Radiant pain, but will not be destructive to them like it would be a spren.
 A Nahel bond can also be passed from one person to another, similar to a [[Seon\|seon]] bond. This has happened a few times in the past, though the mechanics behind it are unknown.
 
-## Powers Granted by the Bond
+### Interactions with Dawnshards
+Individuals who have already formed a Nahel bond are also able to become a [[Dawnshard\|Dawnshard]], however, this does pose risks for the Surgebinder's spren, as the Dawnshard can use the spren's substance to fuel the Radiant's abilities. This can cause the spren to lose their body in the Cognitive Realm, leaving them as a fragment of themselves. After this, they mainly exist in their Surgebinder's mind and must use the Radiant's body to sense the world around them. They are also stripped of most vocal expression, giving them a monotoned voice.
+The pair also loses many of their abilities, including Surgebinding and the Radiant being able to communicate with their mind. They are still able to send feelings and emotions to their spren. Even after the Radiant has given up the Dawnshard, they can still further burn away the mind and personality of their spren for a short burst of Surgebinding.
+If the Nahel bond has progressed to the point of being able to summon Shardplate and Shardblade, the Shardblade and Shardplate remain unaffected, even if the spren is completely consumed.
+
+## Powers Granted by the Surgebinding Bond
  by Paul Canavan An [[Order of Edgedancers\|Edgedancer]] using her powers
 >“*Alakavish was a Surgebinder and yet the Nahel bond gave him no more wisdom than a regular man.*”
-\-Nohadon[2]
+\-Nohadon[3]
 
 
 ### Surgebinding
@@ -78,8 +83,8 @@ When the Nahel bond is at a sufficient strength, the bonded spren can instantly 
 While in Shardblade form, a spren can communicate with its partner telepathically. The exception to that is the [[Stormfather\|Stormfather]], who, while refusing to become a Blade, can communicate with his Surgebinder regardless of the physical distance, directly in their mind.
 
 ### Benefits for the spren
-While a spren can cross over into the [[Physical Realm\|Physical Realm]] without forming a Nahel bond, the transition leaves them only semi-sapient, with loss of self-awareness, memory and intelligence. By forming a Nahel bond, spren are capable of regaining all those things, growing more like themselves the stronger the bond is. However, with a few exceptions (such as the [[Stormfather\|Stormfather]]), the spren must remain in close physical proximity to their partner to retain their mind. The distance can vary, but some can go upwards of a few miles. If a spren is somehow pushed back into the Cognitive Realm, their Radiant may be able to pull them back into the Physical Realm.
-Spren can also anchor themselves to a Radiant while looking for a squire to bond, granting them some level of stability in the Physical Realm.
+While a spren can cross over into the [[Physical Realm\|Physical Realm]] without forming a Nahel bond, the transition leaves them only semi-sapient, with loss of self-awareness, memory and intelligence. There are precautions spren can take to try and minimize the loss of self, but they are not very effective. By forming a Nahel bond, spren are capable of regaining all those things, growing more like themselves the stronger the bond is. However, with a few exceptions (such as the [[Stormfather\|Stormfather]]), the spren must remain in close physical proximity to their partner to retain their mind. The distance can vary, but some can go upwards of a few miles. If a spren is somehow pushed back into the Cognitive Realm, their Radiant may be able to pull them back into the Physical Realm.
+Spren can also anchor themselves to a Radiant while looking for a squire to bond, granting them some level of stability in the Physical Realm. Therefore, unlike the [[Luhel bond\|Luhel bond]] which trades in physical matter, the Nahel bond trades in consciousness and anchoring to the Physical Realm.
 
 ## Notable Surgebinders and Spren
 For a full list of Surgebinders, see :Category:Surgebinders.
@@ -101,7 +106,7 @@ For a full list of Surgebinders, see :Category:Surgebinders.
 |[[Navani\|Navani]]|[[Bondsmith\|Bondsmith]]|*unique*|The [[Sibling\|Sibling]]|
 
 ## Trivia
-The word "Nahel" is a Rosharan word that means "the bond to divinity", while the word "bond" was added to the term to avoid confusing readers.
+The word "Nahel" is a Rosharan word that means "the bond to divinity", while the word "bond" was added to the term to avoid confusing readers. Assuming the Luhel bond comes from the same root, it can be assumed that the root *-hel* indicates a bond to something, and *na-* relates to divinity.
 
 
 https://coppermind.net/wiki/Nahel

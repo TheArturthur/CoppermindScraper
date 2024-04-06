@@ -1,9 +1,8 @@
 |**Guff**|
 |-|-|
 |**Profession**|Wheelwright|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Guff** is a bad-mouthed  and caravaneer on [[Roshar\|Roshar]].
 Guff is an older man who is half a reed tall and has some sort of injury that affects his walking and movement. It is likely that he has an accent that is associated with the caravaneers.

@@ -2,17 +2,18 @@
 |-|-|
 |by  paintweaver |
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
-|**Groups**|[[Unmade\|Unmade]]🐱︎|
+|**Aliases**|The Thrill|
+|**Groups**|[[Unmade\|Unmade]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“*The Thrill didn't hate. Though some spren could make decisions, others were like animals—primal, driven by a single overpowering directive. Live. Burn. Laugh. Or in this case, fight.*”
-\-Dalinar when trapping Nergaoul.[1]
+\-Dalinar when trapping Nergaoul.[2]
 
 
-**Nergaoul** is the [[Unmade\|Unmade]] involved with the **Thrill**. He has been described as an "ancient, evil spren".
+**Nergaoul** is one of the nine [[Unmade\|Unmade]] on [[Roshar\|Roshar]]. In modern times Nergaoul is known as the **Thrill**. He has been described as an "ancient, evil spren", although he isn’t intelligent enough to make decisions.
 
 ## Contents
 
@@ -57,8 +58,7 @@ Hessi describes Nergaoul as one of the less self-aware Unmade, noting how the Th
 It is known that being very close to something tied to [[Honor\|Honor]] reduces the effects of the Thrill. For example, [[Kaladin Stormblessed\|Kaladin Stormblessed]], a [[Knight Radiant\|Knight Radiant]] is immune to it. During plateau raids, Dalinar often notices the Thrill, but loses it suddenly, possibly due to the moves he was making that lead to his becoming a Radiant. This is likely due to Honor's Investiture interfering with Odium's Investiture. Unlike Kaladin, however, Dalinar's path to Radiance did not make him entirely immune to the Thrill, even after swearing several oaths.
 
 ## History
-According to [[Hessi\|Hessi's]] Mythica, the signs of Nergaoul's presence, namely the battle rage and the red mist, have been known since ancient times. She believed Nergaoul to still be active on modern Roshar due to Alethi descriptions of the Thrill.
-
+ by  Gar_leyva According to [[Hessi\|Hessi's]] Mythica, the signs of Nergaoul's presence, namely the battle rage and the red mist, have been known since ancient times. She believed Nergaoul to still be active on modern Roshar due to Alethi descriptions of the Thrill.
 ### In Alethkar
 Most Alethi soldiers, lighteyed or not, felt the Thrill to some degree. Most notably, it was used heavily and quite effectively by the Alethi general and highprince [[Dalinar Kholin\|Dalinar Kholin]] back when he fought battles for his brother [[Gavilar Kholin\|Gavilar]], who wanted to unify Alethkar under his own rule. Dalinar's Thrill-driven ferocity in combat earned him a great reputation within Alethkar and infamy elsewhere. People started calling him the **Blackthorn** after the Thrill helped him endure getting pierced by several black arrows during a failed assassination attempt.
 Getting help from an Unmade came at a cost. At one point, the Thrill caused Dalinar to almost attack Gavilar after a battle. Later on, succumbing to a vengeful rage stoked by the Thrill, he ordered the slaughter of everyone in the rebelling city of [[Rathalas\|Rathalas]], which led to the death of his own wife [[Evi\|Evi]].
@@ -72,13 +72,12 @@ King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]], the one ultimat
  by  ToastSamurai  [[Dalinar\|Dalinar]] confronting Nergaoul at [[Thaylen City\|Thaylen City]]
 ### In Thaylenah
 >“*Thank you for giving me strength when I needed it. Now, old friend, it is time to rest.*”
-\-Dalinar to Nergaoul (who he knows as the Thrill), right before trapping the Unmade[1]
+\-Dalinar to Nergaoul (who he knows as the Thrill), right before trapping the Unmade[2]
 
 
 During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Odium\|Odium]] used Nergaoul to control the [[Sadeas princedom\|Sadeas]] soldiers and attack [[Thaylen City\|Thaylen City]]. He also used the Thrill to attempt to turn Dalinar to his side and become his champion.
-After [[Szeth\|Szeth]] and [[Lift\|Lift]] obtained the [[Perfect gemstone\|perfect gemstone]] called [[King's Drop\|King's Drop]], Lift handed it to Dalinar, who then managed to trap Nergaoul inside the gemstone. He did this by embracing the Thrill one last time while lifting King's Drop above his head, coaxing the Unmade into it.
-This freed the Sadeas army from Odium's influence, thereby ending the battle.
-Dalinar gives Nergaoul's gemstone prison to Navani for study.
+After [[Szeth\|Szeth]] and [[Lift\|Lift]] obtained the [[Perfect gemstone\|perfect gemstone]] called [[King's Drop\|King's Drop]], Lift handed it to Dalinar, who then managed to trap Nergaoul inside the gemstone. He did this by embracing the Thrill one last time while lifting King's Drop above his head, coaxing the Unmade into it. This freed the Sadeas army from Odium's influence, thereby ending the battle.
+After the battle, Dalinar gave Nergaoul's gemstone prison to Navani for study.
 
 ### Imprisonment
 According to [[Navani\|Navani]], sometime in the year following the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Nergaoul's gemstone prison was locked it in an aluminum box and sunk deep in the ocean. It is more secure than it seems and was the most inaccessible thing they could do to keep him out of the enemies hands. Since Nergaoul's imprisonment, [[Dalinar\|Dalinar]] has started loathing the sights and smells of war. He has lost the will to kill.

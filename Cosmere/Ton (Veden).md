@@ -2,10 +2,9 @@
 |-|-|
 |**Profession**|Miner|
 |**Residence**|[[Ironsway\|Ironsway]]|
-|**Nationality**|[[Veden\|Veden]]🐱︎ ([[Bav\|Bav]]🐱︎)|
-|**World**|[[Roshar\|Roshar]]|
+|**Nationality**|[[Veden\|Veden]] ([[Bav\|Bav]])|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 For the [[Singer\|singer]], see [[Ton (singer)\|Ton (singer)]].
 **Ton** is a [[Bav\|Bav]] mine worker on [[Roshar\|Roshar]] who once encountered [[Took\|Took]] and [[Szeth\|Szeth]].
 

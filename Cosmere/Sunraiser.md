@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|[[Shardblade\|Shardblade]]|
 |**Owner**|[[Elhokar\|Elhokar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Elhokar stood tall, his narrow Shardblade glittering as he called commands.*”
 \-Adolin[1]

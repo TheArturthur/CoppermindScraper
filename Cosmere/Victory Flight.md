@@ -2,9 +2,8 @@
 |-|-|
 |**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Victory Flight** is a part of the [[DDF\|DDF]] and is made up of full pilots that have graduated [[Flight School\|Flight School]].
 The Flight was called up from reserve to provide backup and take over from [[Skyward Flight\|Skyward Flight]] during a battle. Before Victory Flight arrived, the group of cadets were attacked and forced to engage the enemy. Victory Flight arrived moments before [[Hurl\|Hurl]] lost control of her [[Poco\|Poco]] and crashed, believing that she could safely land the broken ship. Victory Flight took over the fight allowing the remaining members of Skyward Flight to pull out of the battle and retreat.

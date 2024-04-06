@@ -3,9 +3,8 @@
 |**Founders**|The [[Lord Ruler\|Lord Ruler]]|
 |**Headquarters**|[[Trustwarren\|Trustwarren]]|
 |**Type**|Council|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 The **First Generation** or **Firsts** were the first generation of [[Kandra\|kandra]]. They were made up of [[Rashek\|Rashek's]] friends; [[Alendi\|Alendi's]] ten packmen. They were all [[Feruchemist\|Feruchemists]].
 

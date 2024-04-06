@@ -5,9 +5,9 @@
 |**Profession**|Scientist, explorer|
 |**Groups**|[[Northern Interests Trading Company\|Northern Interests Trading Company]]|
 |**Ethnicity**|[[Eelakin\|Eelakin]]|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
+|**First Appeared**|*Sixth of the Dusk*|
 
 **Vathi** is a woman from the [[Eelakin Islands\|Eelakin Islands]] on [[First of the Sun\|First of the Sun]].
 

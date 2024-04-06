@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Family|
 |**Era**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn (series)*|
 
 **House Hasting** is a [[Noble\|noble]] house on [[Scadrial\|Scadrial]]. It is the second largest house in the [[Final Empire\|Final Empire]] right before the [[Collapse\|Collapse]]. During the time of the Final Empire, it had a reputation for extreme subterfuge. Following the Collapse, most members of the house moved to [[BasMardin\|BasMardin]], a city further from the center of the empire than [[Fadrex City\|Fadrex City]].
 

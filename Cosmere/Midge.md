@@ -2,9 +2,8 @@
 |-|-|
 |**Groups**|Venture army|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Midge** is a soldier in [[Elend\|Elend's]] army on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]]. He is one of the [[Mistfallen\|mistfallen]].
 

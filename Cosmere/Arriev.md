@@ -2,9 +2,9 @@
 |-|-|
 |**Profession**|High Prelan|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*Mistborn: The Final Empire*|
 
 High Prelan **Arriev** is an [[Obligator\|obligator]] of the [[Canton\|Canton of Finance]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]].
 

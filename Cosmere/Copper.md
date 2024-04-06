@@ -13,12 +13,10 @@
 |**Hemalurgy**|
 |**Power**|Steal mental fortitude, memory, or intelligence|
 |**Type**|Mental|
-|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured in**|*Mistborn (series)*|
 
 **Copper** is the internal mental pulling metal. An Allomancer burning copper is able to hide Allomantic pulses emanating from those around them, and is immune to emotional Allomancy. Feruchemists can use copper to store memories, and when used as a Hemalurgic spike, copper can steal mental fortitude, memory, or intelligence.
-It can be alloyed with [[Aluminum\|aluminum]] to form [[Duralumin\|duralumin]].
+The paired alloy of copper used in the Metallic Arts is [[Bronze\|bronze]]. It is also a component in [[Duralumin\|duralumin]], which is the alloy of [[Aluminum\|aluminum]].
 
 ## Contents
 
@@ -43,7 +41,7 @@ It can be alloyed with [[Aluminum\|aluminum]] to form [[Duralumin\|duralumin]].
 
 ## Allomantic Use
 A copper [[Misting\|Misting]] is known as a **Coppercloud** or **Smoker**. When an Allomancer is burning copper, the pulses from nearby Allomancers cannot be detected by most Seekers. Allomancers with a [[Hemalurgy\|Hemalurgic]] spike that enhances their natural ability with bronze, genetically more powerful Allomancers, such as those created with [[Lerasium\|lerasium]], and bronze [[Savant\|savants]] are all capable of "piercing" a coppercloud. Nicrosil can also allow a Mistborn or a Seeker to pierce a coppercloud for a brief moment; duralumin would also work for a Mistborn. Multiple Smokers burning copper in the same area will make the resulting coppercloud harder to pierce. As few Allomancers have the ability to pierce a coppercloud, Smokers are of central importance when Allomancers are trying to hide. If a Seeker is inside of a coppercloud, they will be unable to receive any pulses from the outside. Copper is the slowest burning metal of the basic eight Allomantic metals.
-Copperclouds can also block other uses of Investiture. On Scadrial, this is most commonly seen in its ability to protect the user from emotional Allomancy; protecting others in the cloud's boundaries is very difficult but not impossible. Copperclouds also block other methods of detecting Investiture, such as an [[Awakener\|Awakener's]] [[Heightening\|lifesense]] or a secretspren's ability to sense the use of Investiture. Additionally, a coppercloud can interfere with more passive uses of Investiture; for example, it can prevent a [[Singer\|singer]] from attuning a Rhythm and affects how spren act.
+Copperclouds can also block other uses of Investiture. On Scadrial, this is most commonly seen in its ability to protect the user from emotional Allomancy; protecting others in the cloud's boundaries is very difficult but not impossible. Copperclouds also block other methods of detecting Investiture, such as an [[Awakener\|Awakener's]] [[Heightening\|life sense]] or a secretspren's ability to sense the use of Investiture. Additionally, a coppercloud can interfere with more passive uses of Investiture; for example, it can prevent a [[Singer\|singer]] from attuning a Rhythm and affects how spren act.
 
 ### Savantism
 Savanthood is less debilitating for Smokers compared to other metals.
@@ -60,7 +58,7 @@ Copper is unique among Feruchemical metals in that the individual bits of Feruch
 When used as a Hemalurgic spike, copper steals mental fortitude, memory, and intelligence.
 
 ### Kandra Blessing
-The [[Kandra\|kandra]] can use a pair of these spikes as a [[Blessing\|Blessing]] and call them the **Blessing of Presence**. Like all kandra Blessings, the Blessing gives the [[Mistwraith\|mistwraiths]] sentience, with the added benefit of mental stability. The Blessing of Presence helps a kandra resist Ruin's influence.
+The [[Kandra\|kandra]] can use a pair of these spikes as a [[Blessing\|Blessing]] and call them the **Blessing of Presence**. Like all kandra Blessings, the Blessing gives the [[Mistwraith\|mistwraiths]] sentience, with the added benefit of mental stability. This capability includes the ability to focus despite physical discomfort or distraction, exceptionally sharp memory, resistance to madness, and the inability to lapse into unconsciousness due to shock. This Blessing also counters at least some of the mental weakness that is caused by Hemalurgy; kandra with this Blessing are much less vulnerable to being controlled by Ruin than others.
 
 ## Fabrial Use
 Copper can probably be used in [[Rosharan\|Rosharan]] [[Fabrial\|fabrials]]. Its effect is unclear, although it might be able to negate alerter fabrials, which are made using bronze. It has not yet been discovered by Rosharan artifabrians.
@@ -68,4 +66,4 @@ Copper can probably be used in [[Rosharan\|Rosharan]] [[Fabrial\|fabrials]]. Its
 
 
 
-https://coppermind.net/wiki/Copper
+https://coppermind.net/wiki/Archivist

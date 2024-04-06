@@ -4,9 +4,8 @@
 |**Profession**|Stablemaster|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jenet** is the stablemaster of the [[Shattered Plains\|Kholin warcamp's]] stables on the [[Shattered Plains\|Shattered Plains]].
 

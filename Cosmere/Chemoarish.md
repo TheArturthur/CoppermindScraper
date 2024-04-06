@@ -2,11 +2,10 @@
 |-|-|
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
 |**Titles**|Dustmother|
-|**Groups**|[[Unmade\|Unmade]]🐱︎|
+|**Groups**|[[Unmade\|Unmade]]|
 |**Species**|[[Spren\|Spren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* Chemoarish, the Dustmother, has some of the most varied lore surrounding her. The wealth of it makes sorting lies from truths extremely difficult. I do believe she is not the Nightwatcher, contrary to what some stories claim.*”
 \- From Hessi's Mythica, page 231[1]

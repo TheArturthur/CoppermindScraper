@@ -1,20 +1,33 @@
 |**Sadeas princedom**|
 |-|-|
 |**Ruler**|[[Torol Sadeas\|Torol Sadeas]] , [[Meridas Amaram\|Meridas Amaram]] [[Ialai Sadeas\|Ialai Sadeas]] |
-|**Nation**|[[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Nation**|[[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
-**Sadeas princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. Sadeas house colours are deep green & white.
+**Sadeas princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. Sadeas house colors are deep green & white. While [[Torol Sadeas\|Torol Sadeas]] was ruler, their symbol was a tower and hammer. After [[Meridas Amaram\|Meridas Amaram]] became ruler, their symbol was a tower and axe.
 
 ## Contents
 
 1 Geography
+
+1.1 Settlements
+
+
 2 Highprince
 3 History
+
+3.1 Wastescum Skirmishes (???)
+3.2 War of Reckoning (1167-1173)
+
+3.2.1 Border Skirmishes (1172)
+
+
+3.3 The True Desolation (1173- )
+
+
 4 Citizens
 5 Trivia
 6 Notes
@@ -22,13 +35,35 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 ## Geography
 It is located in the northwestern corner of Alethkar, bordered to the west by [[Jah Keved\|Jah Keved]] and the north by the [[Bay of Elibath\|Bay of Elibath]]. [[Aladar princedom\|Aladar princedom]] on the east, and [[Vamah princedom\|Vamah princedom]] to the south. The town of [[Hearthstone\|Hearthstone]] is located in eastern Sadeas, near the border with Aladar.
+One known region of the princedom is [[Akanny\|Akanny]]. This region is valued for its farmlands.
 
+### Settlements
+[[Hobbleken\|Hobbleken]]
+[[Hearthstone\|Hearthstone]]
+[[Mourn's Vault\|Mourn's Vault]]
+[[Tomat\|Tomat]]
+[[Shorsebroon\|Shorsebroon]]
+[[Stringken\|Stringken]]
 ## Highprince
 After the murder of Highprince [[Torol Sadeas\|Torol Sadeas]], the rulership of the Sadeas princedom was given to [[Meridas Amaram\|Meridas Amaram]] by [[Ialai Sadeas\|Ialai Sadeas]], as her nephew - the heir - was too young. After Amaram's death, [[Ialai Sadeas\|Ialai Sadeas]] was the de facto head of the princedom, though the princedom itself is under the control of the [[Fused\|Fused]]. After Ialai's death in early 1175, Queen [[Jasnah Kholin\|Jasnah Kholin]] appointed a distant scion of Torol Sadeas as the new highprince.
 
 ## History
-Like all Alethi princedoms, Sadeas is a piece of [[Sunmaker\|Sunmaker]]-era Alethkar carved out by one of Sadees' sons. When Gavilar Kholin begun his conquest of Alethark in the 1130s, Sadeas princedom, under the leadership of Torol Sadeas, was the only one to initially ally with him.
-Following the [[Everstorm\|Everstorm]], the princedom was, like all others, overrun by re-awakened [[Parshmen\|Parshmen]]. However, it appears to have weathered this relatively unscathed compared to other princedoms like [[Vamah princedom\|Vamah]] or [[Kholin princedom\|Kholin]]. 
+Like all Alethi princedoms, Sadeas is a piece of [[Sunmaker\|Sunmaker]]-era Alethkar carved out by one of Sadees' sons. When Gavilar Kholin begun his conquest of Alethkar in the 1130s, Sadeas princedom, under the leadership of Torol Sadeas, was the only one to initially ally with him.
+
+### Wastescum Skirmishes (???)
+For more information, see [[Wastescum skirmishes\|Wastescum skirmishes]].
+A collection of skirmishes in the northern section of the Sadeas Princedom which occurred some time before 1166. The skirmishes were against groups of [[Reshi\|Reshi]] raiders who thought they could take advantage at the instability of Alethkar early after the crowning of [[Gavilar Kholin\|Gavilar Kholin]]. It can be reasonably assumed that the attempt to repel the raiders was successful.
+Soldiers for the battle were brought in from across the Sadeas Princedom, including various darkeyes in [[Hearthstone\|Hearthstone]]. The Reshi forces notably did not have any Shardblades.
+
+### War of Reckoning (1167-1173)
+After the War of Reckoning began, the princedoms Highprince left to travel to the Shattered Plains to fight against the Parshendi. Sadeas left [[Meridas Amaram\|Meridas Amaram]] as the defender of the northern section of the princedom, tasked with repelling Reshi and Veden military advances, and attempts by other princedoms to secure their territory. repelling border incursions from the [[Veden\|Vedens]] and the [[Reshi\|Reshi]] while the bulk of the Alethi troops were away on the [[Shattered Plains\|Shattered Plains]].
+
+
+In late 1172, the Sadeas Princedom entered into a border skirmish with either the [[Vamah princedom\|Vamah]] or [[Aladar princedom\|Aladar princedom]]. During this battle, Veden Shardbearer [[Helaran Davar\|Helaran Davar]] arrived in an attempt to kill Amaram under orders from the Skybreakers, but he wound up being killed by [[Kaladin\|Kaladin]] on the battlefield. While Kaladin earned the Shards by legal right, Amaram betrayed him by killing his crew and marking him as a slave, taking the Shardblade and Shardplate for himself.
+
+### The True Desolation (1173- )
+Following the [[Everstorm\|Everstorm]], the princedom was, like all others, overrun by re-awakened [[Parshmen\|Parshmen]]. However, it appears to have weathered this relatively unscathed compared to other princedoms like [[Vamah princedom\|Vamah]] or [[Kholin princedom\|Kholin]].
+
 
 ## Citizens
 

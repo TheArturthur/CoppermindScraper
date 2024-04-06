@@ -2,7 +2,6 @@
 |-|-|
 |**Leaders**|[[Varvax\|Varvax]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Defending Elysium*|
 
 The **Interspecies Monitoring Coalition** is an alien governmental agency administered by the [[Varvax\|varvax]]. They are responsible for rating a race's intelligence class. The highest classification is Prime or Primary Intelligence, while the lowest known classification is Quaternary Intelligence. "Intelligence" refers to the ability of a race to create a peaceful, nearly crime-free society, not the relative intelligence of its members.
 

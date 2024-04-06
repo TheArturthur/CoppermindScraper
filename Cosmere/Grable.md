@@ -3,9 +3,8 @@
 |**Profession**|Crime lord, restaurateur|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*Grable owns this restaurant, Princess. Every second man in this room is probably a bodyguard.*”
 \-Tonk Fah[1]
@@ -35,7 +34,7 @@ When Denth refused to "sell" Vivenna, Grable's bodyguards moved to attack him, b
 Grable reacted nonchalantly to the swordplay. He instead mentioned that he had been suspicious of Denth since his sudden appearance a decade earlier, and he shrewdly pointed out Denth's mysterious past and his reputation of being "inhumanly" fast. Grable did not have his other bodyguards attempt an attack, and Denth decided to leave with Vivenna and Tonk Fah. Grable presumably did not fear Denth since he was confident that Denth could not kill him without facing the retaliation of half the criminals in T'Telir. After leaving the meeting, Denth was cautious to avoid being followed by Grable's spies, even though he believed Grable did not care about the bodyguards he killed.
 
 ## Trivia
-Grable makes a comment about the the inheritance of the [[Royal Locks\|Royal Locks]] to be “superstitious nonsense”. [[Brandon Sanderson\|Brandon Sanderson]] noted that this was intended to be a hint that there is something odd happening with the royal line of [[Idris\|Idris]], but that he won’t be able to address it unless he writes a sequel.
+Grable makes a comment about the inheritance of the [[Royal Locks\|Royal Locks]] to be “superstitious nonsense”. [[Brandon Sanderson\|Brandon Sanderson]] noted that this was intended to be a hint that there is something odd happening with the royal line of [[Idris\|Idris]], but that he won’t be able to address it unless he writes a sequel.
 
 
 https://coppermind.net/wiki/Grable

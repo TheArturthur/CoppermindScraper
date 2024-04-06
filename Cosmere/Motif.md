@@ -3,9 +3,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Ishnah\|Ishnah]]|
 |**Species**|[[Cryptic\|Cryptic]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Rhythm of War*|
 
 **Motif** is a [[Cryptic\|Cryptic]] on [[Roshar\|Roshar]] bonded to [[Ishnah\|Ishnah]].
 

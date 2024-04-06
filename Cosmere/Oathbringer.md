@@ -7,40 +7,45 @@
 |**Setting**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
 |**Released**|November 14, 2017|
 |**Publisher**||
-|**ISBN**|978-0765326379|
+|**ISBN**|978-0-7653-2637-9|
 |**Page Count**|1,220|
-|**Word Count**|458,045|
+|**Word Count**|[[Oathbringer/Statistical analysis\|454,440]]|
 This article deals with the third [[Stormlight Archive\|Stormlight Archive]] novel. For [[Dalinar Kholin\|Dalinar Kholin's]] [[Shardblade\|Shardblade]], see [[Oathbringer (Shardblade)\|Oathbringer (Shardblade)]]. For the in universe work, see [[Oathbringer (in-world)\|Oathbringer (in-world)]]
 *Oathbringer* is the third book in [[The Stormlight Archive\|The Stormlight Archive]]. It was released on November 14th, 2017.
 
 ## Contents
 
-1 Cover Synopsis
-2 Summary
-3 Development
+1 Synopsis
+2 Cover Flap
+3 Summary
+4 Development
 
-3.1 Writing Process
-3.2 Name Changes
-
-
-4 Publication History
-
-4.1 Pre-Release Material
+4.1 Writing Process
+4.2 Name Changes
 
 
-5 Cover Gallery
-6 Interior Art
-7 See Also
-8 Statistics
-9 Notes
+5 Publication History
+
+5.1 Pre-Release Material
 
 
-## Cover Synopsis
+6 Cover Gallery
+7 Interior Art
+8 See Also
+9 Statistical Analysis
+10 Notes
+
+
+## Synopsis
 *A new storm has come.*
 *Ash and red lightning sweep the land, awakening our ancient enemies. The Unmade—shadows of the Enemy's soul—stir, while the eyes of men open. This war is not, and never was, what they thought it to be.*
 *We may soon hold Surges again, for Radiance has returned to some, and shines toward others. The Captain, broken by loss, seeks reconciliation. The Spy, broken by cruelty, seeks completion. The Stonewalker, broken by oaths, seeks truth. The Traitor, broken by ambition, seeks freedom.*
 *And finally the King. Broken by war, he seeks the past. That which was abandoned. That which he* must not know.
 *For those secrets will crush him as they did the knights who came before.*
+
+## Cover Flap
+Dalinar Kholin's Alethi armies won a fleeting victory at a terrible cost: the enemy Parshendi summoned the violent Everstorm, which now sweeps the world with destruction, and in its passing awakens the once peaceful and subservient parshman to the horror of their millenia-long enslavement by humans. While on a desperate flight to warn his family of the threat, Kaladin Stormblessed must come to grips with the fact that the newly kindled anger of the parshmen may be wholly justified.
+Nestled in the mountains high above the storms, in the tower city of Urithiru, Shallan Davar investigates the wonders of the ancient stronghold of the Knights Radiant and unearths dark secrets lurking in its depths. And Dalinar realizes that his holy mission to unite his homeland of Alethkar is too narrow in scope. Unless all the nations of Roshar can put aside Dalinar's blood-soaked past and stand together-and unless Dalinar himself can confront that past-even the restoration of the Knights Radiant will not prevent the end of civilization.
 
 ## Summary
 For a chapter by chapter summary, see [[Oathbringer/Summary\|/Summary]].
@@ -62,7 +67,7 @@ While working on the novel Brandon posted a series of updates in the Stormlight 
 
 
 ### Name Changes
-The original tentative title, when Szeth was still the focus character, was "Stones Unhallowed". Like all planned titles for *The Stormlight Archive* this would have been the title of an in-world book, likely in dealing with Urithiru which [[Ali\|Ali-daughter-Hasweth]] mentions was at times the Shin's only connection to the outside world due to its "stones unhallowed". "Skybreakers" was also mentioned by Brandon as a working title, as Brandon felt "Stones Unhallowed" would possibly be too similar to Patrick Rothfuss' "Doors of Stone" if they were released in close proximity.
+The original tentative title, when Szeth was still the focus character, was "Stones Unhallowed". Like all planned titles for The Stormlight Archive this would have been the title of an in-world book, likely in dealing with Urithiru which [[Ali\|Ali-daughter-Hasweth]] mentions was at times the Shin's only connection to the outside world due to its "stones unhallowed". "Skybreakers" was also mentioned by Brandon as a working title, as Brandon felt "Stones Unhallowed" would possibly be too similar to Patrick Rothfuss' "Doors of Stone" if they were released in close proximity.
 "The Highprince of War" was the working title for the fifth book in The Stormlight Archive, which is where Dalinar's flashbacks were originally scheduled to appear. In February 2013 though, Brandon said it was "almost certain" to change. During the process of writing Stormlight 3, especially after shifting the focus to Dalinar, Brandon began referring to it as "Oathbringer" which eventually became its official title.
 
 ## Publication History
@@ -82,11 +87,11 @@ For a gallery of the book's interior art, see [[Oathbringer/Interior art\|/Inter
 [[Oathbringer/Headings\|Oathbringer/Headings]]
 [[Oathbringer/Covers\|Oathbringer/Covers]]
 [[Oathbringer/Interior art\|Oathbringer/Interior art]]
-## Statistics
+## Statistical Analysis
 For a full statistical analysis, see [[Oathbringer/Statistical analysis\|/Statistical analysis]].
-*Oathbringer* consists of one prologue, 122 chapters, fourteen interludes, and one epilogue, reaching a total 458,045 word count (icluding chapter text, epigraphs, and part/chapter titles). There are twenty-nine different unique point-of-view characters in a total of 273 POVs.
+*Oathbringer* consists of one prologue, 122 chapters, fourteen interludes, and one epilogue, reaching a total 454,440 word count (including chapter text, epigraphs, and part/chapter titles). There are twenty-nine different unique point-of-view characters in a total of 273 POVs.
 
-|**Word Count**|458,045||
+|**Word Count**|454,440||
 |-|-|
 |**Page Count**|1,220|Tor hardback|
 |**Chapter Count**|138|Including prologue, 14 interludes, and epilogue.|

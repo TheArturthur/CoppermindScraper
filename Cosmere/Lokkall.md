@@ -1,12 +1,11 @@
 |**Lokkall**|
 |-|-|
 |**Titles**|[[Lord Admiral\|Lord Admiral]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, [[Helm\|The Helm]]|
+|**Groups**|[[Taishin\|Taishin]], [[Helm\|The Helm]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Lokkall** is the current [[Lord Admiral\|Lord Admiral]] of [[Lossand\|Lossand]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. He is the Taisha at the head of the [[Helm\|Helm]]. As such he has no actual power, as all of the true power of the Helm belongs to the Shipowners' Circle.
 

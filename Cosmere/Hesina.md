@@ -6,11 +6,10 @@
 |**Children**|[[Kaladin\|Kaladin]], [[Tien\|Tien]], [[Oroden\|Oroden]]|
 |**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
 |**Born**|1133|
-|**Residence**|[[Hearthstone\|Hearthstone]]|
+|**Residence**|[[Hearthstone\|Hearthstone]] , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -63,7 +62,7 @@ While not a surgeon like her husband, Hesina will occasionally assist Lirin with
 Hesina is able to both read and write in the Alethi [[Women's script\|women's script]]. She is the only darkeyed woman in Hearthstone who is able to read, though this skill isn't uncommon among higher ranking darkeyed women.
 
 ## History
-Although her exact parentage and place of birth are unknown, at least one of Hesina's parents was not a darkeyes. After meeting [[Lirin\|Lirin]], Hesina moved away from her family to live in Hearthstone, and started a family, leading to a drop in her social status. Two years after the birth of her first son, [[Kaladin\|Kaladin]], Hesina was blessed with the birth of her second child, [[Tien\|Tien]]. There is a large age gap of eighteen years between Tien and her third child, [[Oroden\|Oroden]].
+Although her exact parentage and place of birth are unknown, at least one of Hesina's parents was not a darkeyes. By the time Hesina was seventeen, they lived in [[Tomat\|Tomat]], where Hesina's father was a privileged business owner and was able to bully the citylord into following his wishes. After meeting [[Lirin\|Lirin]], Hesina moved away from her family to live in Hearthstone and started a family, leading to a drop in her social status. Two years after the birth of her first son, [[Kaladin\|Kaladin]], Hesina was blessed with the birth of her second child, [[Tien\|Tien]]. There is a large age gap of eighteen years between Tien and her third child, [[Oroden\|Oroden]].
 
  by  Sheep  Lirin and Hesina
 Due to their close ties to the local Brightlord, Hesina and her husband had hoped to secure an allegiance between the two families through marriage. When Brightlord [[Wistiow\|Wistiow]] fell gravely ill, making the likelihood of the union improbable, Hesina and her husband conspired to steal a significant amount of wealth from the Brightlord to secure passage for their son to continue his studies in [[Kharbranth\|Kharbranth]]. The family claimed that the diamond broams had been bequeathed to Lirin by Wistiow on his deathbed, a claim that they supported with forged documentation. Despite their best efforts to legitimize the agreement, rumors of theft persisted amongst the other townsfolk.
@@ -73,7 +72,7 @@ After his death, Wistiow was replaced by Brightord [[Roshone\|Roshone]] as the l
 
 ### Torment of the Family
 Roshone, aware of the inherited spheres and the possibility of their illegitimate procurement, demanded their return, of which Lirin refused. Roshone continued to fuel the rumors that the spheres had been stolen and the agreement forged, whilst also driving the family towards destitution. Despite his best efforts, Hesina and her family did not suffer as much as Roshone assumed, as the townsfolk continued donating to the family in secret, leaving food around the town for Hesina to find. When the possibilities of work for Hesina dried up due to Roshone's meddling, Lirin met with the Brightlord to discuss the disputed spheres and the family's situation. In an attempt to hide the meeting between Lirin and Roshone, Hesina recruited her sons to help her with housework, hoping to keeping them distracted and occupied. Ultimately, her plan was unsuccessful, and Kaladin escaped his duties, joining his father in Lirin's meeting with Roshone. After the meeting, Kaladin discovered his father's plans to deceive Roshone, as well as the truth behind the acquisition of Wistiow's wealth. Kaladin was shocked not only to learn that the rumors that the spheres were stolen were true, but also that his mother had taken part in their theft.
-Following the death of Roshone's son [[Rillir\|Rillir]], the family fell further towards poverty and Hesina and her husband began to spend slowly spend the stolen spheres. This was done deliberately; while the family indeed struggled, the spheres were spent, not because it was required, but instead as a way to deceive Roshone and deflect his attention.
+Following the death of Roshone's son [[Rillir\|Rillir]], the family fell further towards poverty and Hesina and her husband began to slowly spend the stolen spheres. This was done deliberately; while the family indeed struggled, the spheres were spent, not because it was required, but instead as a way to deceive Roshone and deflect his attention.
 
  by  Marie Seeberger  Watching the [[Weeping\|Weeping]] with her sons
 ### The Weeping of 1168
@@ -85,17 +84,17 @@ After the coming of the [[Everstorm\|Everstorm]], Hesina was reunited with Kalad
 
 ## Relationships
 ### Hesina's Parents
-One of Hesina's parents is not [[Darkeyed\|darkeyed]] and they are of a higher social standing than their daughter.
-The initial meeting between Lirin and Hesina's parents went quite poorly. Hesina's parents are rarely mentioned, particularly around her children. However, Hesina is still in contact with them. When the family falls on tough times after the arrival of Roshone, Hesina's parents offer aid to the family.
+One of Hesina's parents is not [[Darkeyed\|darkeyed]], and since Hesina describes her father as "stubborn as a lighteyes" rather than actually lighteyed, it is likely that this refers to her mother. They are of a higher social standing than their daughter.
+The initial meeting between Lirin and Hesina's parents goes quite poorly. Hesina's parents are rarely mentioned, particularly around her children. However, she is still in contact with them, and when the family falls on tough times after the arrival of Roshone, Hesina's parents offer aid to the family.
 
  by  Elisgardor  Hesina and her family
 ### Lirin
-Hesina and Lirin met and fell in love during his travels, after which Hesina moved with Lirin to Hearthstone. They have a loving relationship, though they don't see eye to eye over Kaladin's study habits when he is young or religion.
+Hesina and Lirin meet and fall in love during his travels, after which Hesina moves with Lirin to Hearthstone. They have a loving relationship, though they don't see eye to eye over Kaladin's study habits when he is young or over religion. Later, they disagree sharply over Kaladin's actions as a Knight Radiant, with Hesina trying to persuade Lirin to accept their son's decision to fight rather than to be a surgeon.
 
 ### Kaladin
-Hesina and her husband had hoped that one day their son Kaladin would be able to marry Laral, the daughter of the Brightlord Wistiow. During his earlier years, his parents had often encouraged both Kaladin and his brother to play with Laral to help strengthen the bonds between the two families. Hesina often banters with her son, Kaladin, who had inherited her tendency towards clever wordplay.
-As a child, Kaladin remembers his parents being at odds with each other over the importance of his commitment to study. While his father wished for him to focus on his future and the chance to study and learn in Kharbranth, his mother wished for him to be able to enjoy his childhood. Whether due to, or despite these disagreements, Kaladin is granted two hours a day by his father where he is not required to study. After the arrival of Roshone, Kaladin's parents try and get him to Kharbranth earlier than normally allowed, writing to the surgeons and requesting for their son to take the entry tests early. Their request is denied.
-When they are reunited, Kaladin finds that his mother still treats him like the child despite their many years apart. She is delighted to find out that her son is a Knight Radiant.
+Hesina and her husband hope that one day their son Kaladin would be able to marry Laral, the daughter of the Brightlord Wistiow. During his earlier years, his parents often encourage both Kaladin and his brother to play with Laral to help strengthen the bond between the two families. Hesina often banters with her son, Kaladin, who inherits her tendency towards clever wordplay.
+As a child, Kaladin remembers his parents being at odds with each other over the importance of his commitment to study. While his father wishes for him to focus on his future and the chance to study and learn in Kharbranth, his mother wishes for him to be able to enjoy his childhood. Whether due to or despite these disagreements, Kaladin is granted two hours a day by his father where he is not required to study. After the arrival of Roshone, Kaladin's parents try and get him to Kharbranth earlier than normally allowed, writing to the surgeons and requesting for their son to take the entry tests early. Their request is denied.
+When they are reunited, Kaladin finds that his mother still treats him like a child despite their many years apart. She is delighted to find out that her son is a Knight Radiant.
 
 ## Trivia
 She was originally named Hessica, but this was changed before the release of *The Way of Kings* to better align with Alethi naming conventions. Brandon sometimes still writes her name as Hessica in drafts.

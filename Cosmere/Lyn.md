@@ -2,11 +2,11 @@
 |-|-|
 |by  Shuravf |
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ [[Bridge Four\|Bridge Four]]🐱︎, Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Kholin army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“*I want to help! I want to do something other than stand around, waiting for the enemy to come to us!*”
 \-Lyn on why she wants to become a Windrunner[2]
@@ -44,7 +44,7 @@ She's interested in pursuing the masculine arts, and dislikes being treated as i
 \-Lyn on her own combat ability[8]
 
 
-Lyn is a [[Windrunner\|Windrunner]], allowing her to heal herself with [[Stormlight\|stormlight]], as well as use the [[Surge\|Surges]] of [[Gravitation\|Gravitation]] and [[Adhesion\|Adhesion]]. While she's not shown using the latter, she is capable of flying by the time of the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. As a scout, she was armed with a knife, and presumably knew how to use it. After joining Bridge Four, she begins to use a spear, although she's still, by her own admission, only a beginner. She's also capable of drawing what she'd scouted from memory, although her artwork prioritizes speed over quality.
+Lyn is a [[Windrunner\|Windrunner]], allowing her to heal herself with [[Stormlight\|stormlight]], as well as use the [[Surge\|Surges]] of [[Gravitation\|Gravitation]] and [[Adhesion\|Adhesion]]. While she's not shown using the latter, she is capable of flying by the time of the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. As a scout, she was armed with a knife, and presumably knew how to use it. After joining Bridge Four, she begins to use a spear, although she is, by her own admission, only a beginner. She's also capable of drawing what she'd scouted from memory, although her artwork prioritizes speed over quality.
 
 ## History
  by  Lizarazo 
@@ -54,8 +54,8 @@ Following the [[Alethi\|Alethi]] moving to [[Urithiru\|Urithiru]], Lyn started w
 
  by  Marie Seeberger  Asking [[Kaladin\|Kaladin]] if she can join the Windrunners
 ### Windrunner Squire
-When [[Kaladin\|Kaladin]] returned and Bridge Four began to recruit [[Squire\|squires]], Lyn attempted to join. Kaladin initially thought she wanted to be a scribe, but after the situation was cleared up, he allowed her and four other scout women to join. Lyn initially had problems breathing in [[Stormlight\|stormlight]], but with [[Skar\|Skar's]] help, managed to do so, becoming a proper squire. Eventually, the rest of her squad joined her.
-From then on, Lyn easily slid into Bridge Four's structure, becoming fast friend with other members. Shortly before the [[Battle of Thaylen Field\|Battle of Thaylen Field]], she was on good enough terms to know their history with [[Amaram\|Amaram]], even suggesting that she could "stab him a little" for them. When [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] was stolen, she was present, and ordered another scout to fetch [[Renarin\|Renarin]] to help with [[Rock\|Rock's]] wounds.
+When [[Kaladin\|Kaladin]] returned and Bridge Four began to recruit [[Squire\|squires]], Lyn attempted to join. Kaladin initially thought she wanted to be a scribe, but after the situation was cleared up, he allowed her and four other scout women to join. Lyn initially had problems breathing in [[Stormlight\|Stormlight]], but with [[Skar\|Skar's]] help, managed to do so, becoming a proper squire. Eventually, the rest of her squad joined her.
+From then on, Lyn easily slid into Bridge Four's structure, becoming fast friends with other members. Shortly before the [[Battle of Thaylen Field\|Battle of Thaylen Field]], she was on good enough terms to know their history with [[Amaram\|Amaram]], even suggesting that she could "stab him a little" for them. When [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] was stolen, she was present, and ordered another scout to fetch [[Renarin\|Renarin]] to help with [[Rock\|Rock's]] wounds.
 After [[Teft\|Teft]] managed to swear his Third Ideal, Lyn came to [[Thaylen City\|Thaylen City]] along with the rest of Bridge Four, carrying Rock until he was close enough to Kaladin to start healing himself with Stormlight. Afterwards, she participated in the fighting. She survived the battle, and was last seen listening to [[Lopen\|Lopen's]] story of how he lost his arm.
 
 ### Windrunner

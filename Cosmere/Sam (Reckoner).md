@@ -1,10 +1,9 @@
 |**Sam**|
 |-|-|
 |**Died**|Killed by [[Firefight (Epic)\|Firefight]]|
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
+|**Groups**|[[Reckoners\|Reckoners]]|
 |**Residence**|[[Babilar\|Babilar]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 This page is about the [[Reckoners\|Reckoner]]. For the hot dog vendor from [[Newcago\|Newcago]], see [[Sam (vendor)\|Sam (vendor)]].
 **Sam** is a member of the [[Reckoners\|Reckoners]] who worked with [[Valentine\|Val]], [[Exel\|Exel]], and [[Mizzy\|Mizzy]] in [[Babilar\|Babilar]].

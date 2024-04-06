@@ -1,10 +1,9 @@
 |**Jokasha Monastery**|
 |-|-|
 |**Usage**|Home of the [[Devotary\|Devotary]] of the Mind|
-|**Region**|[[Horneater Peaks\|The Horneater Peaks]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|[[Horneater Peaks\|The Horneater Peaks]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jokasha Monastery**, sometimes referred to simply as **Jokasha**, is the home of the [[Devotary\|Devotary]] of the Mind, a scholarly group of [[Ardent\|ardents]] on [[Roshar\|Roshar]]. It is considered a peaceful and desirable location, with many ardents spending half their lives trying to get transferred there.
 

@@ -4,10 +4,9 @@
 |**Born**|~19 years before *Steelheart*|
 |**Abilities**|[[Epic\|Epic]]|
 |**Aliases**|Firefight|
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
+|**Groups**|[[Reckoners\|Reckoners]]|
 |**Birthplace**|[[Portland\|Portland]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
 >“*Sometimes stupid is right. Hell. I hope nobody ever quotes me on that one.*”
 \-Megan before battling Prof.[2]
@@ -89,7 +88,7 @@ As the two grow closer, Megan makes several revelations about her powers and her
 She helps David capture the Epic [[Knoxx\|Knoxx]], to whom Regalia claims to have recently granted powers, so that David can interrogate him and find out more about Regalia's capabilities and intentions. At this point, the Reckoners intervene. They believe that David has betrayed them by working with Megan behind their backs and that Megan is only using him to undermine their efforts. David is put on probation and imprisoned in the Reckoners' base, and Knoxx is killed. Prof confiscates David's mobile and uses it to lure Megan into a trap by sending messages claiming that David is trapped in a burning building and needs her help. Megan, suspecting foul play, sets up David's rifle, which he accidentally left in her possession, in the window of a neighboring building before heading into the burning building to investigate. When Prof traps her inside the building, she is able to use the remote fire function on David's rifle to shoot herself, thus evading death by fire and escaping the trap.
 
 
-While David fights a corrupted Prof later in the book, Megan reincarnates and saves David from his battle with her reality warping abilities. Because she confronted her fear of fire, the corruption from her powers lessens greatly and she is able to use her powers more freely. Her fear of fire and it being her weakness leads David to believe that Epics' weaknesses are somehow linked to their past somehow. She, Mizzy, and David are the last remaining Reckoners in Babilar, as Prof killed Val and Exel and Tia had fled the city.
+While David fights a corrupted Prof later in the book, Megan reincarnates and saves David from his battle with her reality warping abilities. Because she confronted her fear of fire, the corruption from her powers lessens greatly and she is able to use her powers more freely. Her fear of fire and it being her weakness leads David to believe that Epics' weaknesses are somehow linked to their past. She, Mizzy, and David are the last remaining Reckoners in Babilar, as Prof killed Val and Exel and Tia had fled the city.
 
 ### Hunting Prof
 Megan rejoins the Reckoners, with her Epic status being acknowledged and accepted by the other members, and aids David in his mission to infiltrate Knighthawk's base. Mizzy and Megan still have tension since Megan killed Sam while corrupted. Megan begins to experiment with her powers and learns how to bring corporeal or solid items to her reality. In attempt to free Prof from his corruption, Megan uses her powers to summon [[Tavi\|Tavi]], Prof's and [[Tia\|Tia's]] daughter from another reality that possesses similar powers to his own, to fight him. Unfortunately, Megan and David's tactic shows little results and Megan is nearly corrupted once more from the stress of her powers. Later, Megan fully accepts her powers and finally completely frees herself from the corruption of her powers when she refuses to run away from her powers and let [[Larcener\|Larcener]] take them away. This leads David to conclude that Epics can only free themselves from the corruption of their powers by accepting their powers as well as confronting their weakness.

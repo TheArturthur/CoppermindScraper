@@ -3,9 +3,8 @@
 |by  Ben McSweeney |
 |**Type**|Spren|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Windrunner\|Windrunner]] magic, [[Splinter\|Splinter]]s of [[Honor\|Honor]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -46,13 +45,14 @@ They are [[Splinter\|Splinters]] of [[Honor\|Honor]]. Bonding with one makes som
 
 ## Appearance
 For more images of Syl in particular, see [[Sylphrena/Gallery\|Sylphrena/Gallery]].
+ by 
 ### Physical Realm
 In the Physical Realm, honorspren look like [[Windspren\|windspren]]. They can change their appearance, including forms like fire or clouds, although they always glow (but not illuminate), and are typically white-blue. This being said, they generally seem to prefer a humanoid form. Usually, it's very small -- only about a handspan tall -- but if need be, a honorspren can make themselves as tall as a regular person.
 The more powerful their bond becomes, the stronger their variety, details, and hues of the form can be. This includes being able to change their clothes to different colors, such as green or red.
 When their cognitive bodies are forced into the Physical Realm and they die, honorspren appear as a human with very pale skin and a blue cast to them.
 
 ### Cognitive Realm
-In the [[Cognitive Realm\|Cognitive Realm]], honorspren are blue-white and as large as humans. They appear to be wearing clothes, but the clothes are part of their essence and cannot be changed without [[Stormlight\|Stormlight]]. Their clothing tend to range from military uniforms to following robes. Their clothing style tends to correlate with their personal beliefs. Some honorspren buy physical clothes to wear instead. Their hair, skin, and clothing all feel roughly the same as a human would.
+In the [[Cognitive Realm\|Cognitive Realm]], honorspren are blue-white and as large as humans. They appear to be wearing clothes, but the clothes are part of their essence and cannot be changed without [[Stormlight\|Stormlight]]. Their clothing tend to range from military uniforms to flowing robes. Their clothing style tends to correlate with their personal beliefs. Some honorspren buy physical clothes to wear instead. Their hair, skin, and clothing all feel roughly the same as a human would.
 Honorspren may also buy real weapons to use. They cannot vanish, or shape-shift.
 
 ## Abilities
@@ -60,8 +60,7 @@ Honorspren have the ability to sense an upcoming [[Highstorm\|highstorm]] days b
 In the Physical Realm, they can use [[Adhesion\|Adhesion]] to stick small, light objects together, and give pinches of energy or move small objects. They can also shape-shift while in there, and choose who can and cannot see and hear them, although they cannot hide from their bonded Surgebinder, a [[Sighted\|Sighted]], or [[Lift\|Lift]]. Due to their ability to change size, honorspren can squeeze through small spaces, such as shutters or keyholes.
 
 ### Nahel bond
-They can form a [[Nahel bond\|Nahel bond]] with humans, turning them into [[Surgebinder\|Surgebinders]] with the powers of Adhesion and [[Gravitation\|Gravitation]]. In return, they gain the ability to think and act like their Shadesmar selves in the Physical Realm. Among the honorspren, the bond is considered extremely intimate, as it involves the mixing of souls. Honorspren are always able to sense where their Surgebinder is, and even if they are awake. They can also hear them over loud noises, such as rushing wind.
-With a powerful enough bond, honorspren and their Surgebinder are able to sense each others emotions, as well as communicate with their minds.
+They can form a [[Nahel bond\|Nahel bond]] with humans, turning them into [[Surgebinder\|Surgebinders]] with the powers of Adhesion and [[Gravitation\|Gravitation]]. In return, they gain the ability to think and act like their Shadesmar selves in the Physical Realm. Among the honorspren, the bond is considered extremely intimate, as it involves the mixing of souls. Honorspren are always able to sense where their Surgebinder is, even if they are not awake. They can also hear them over loud noises, such as rushing wind. With a powerful enough bond, honorspren and their Surgebinder are able to sense each others emotions, as well as communicate with their minds. Honorspren can also gain memories of their Surgebinder from before their bond via their connection to the winds and its connection to Honor.
 
 ## History
 >“*The honorspren were created by Honor himself, many thousands of years ago.*”
@@ -83,7 +82,7 @@ After the [[True Desolation\|True Desolation]] began, however, other honorspren 
 Honorspren are generally warlike and oath-bound, with a strong military tradition. While fairly isolationist, they are willing to let other spren live alongside them, though it seems a non-honorspren cannot attain a high rank in their society. They believe themselves to be oathbound to follow Honor's path and serve what they think to be his interests. However, they are also highly respectful of the [[Bondsmith\|Bondsmiths]], and the [[Stormfather\|Stormfather]] Bondsmith in particular. The latter is likely due to many of them seeing the Stormfather as their parent or progenitor.
 Honorspren follow morality instead of a system of laws, and are stubborn in upholding their particular interpretation of it. It is difficult to change their mind with logic, as they focus on what they feel more than what they think. Obedience, hierarchy, and order are highly valued in their society, and they're willing to put up bounties for their rebellious kinsmen. This being said, honorspren pride themselves on not being as uptight as the [[Highspren\|highspren]], and can be flexible when necessary.
 Of all spren, honorspren are noted to have the most human mannerisms. They sometimes engage in grand hunts, tracking down and slaying other creatures of Shadesmar, like gloomspren.
-Honorspren are not liked by other types of sapient spren, and seem to avoid them in turn. In [[Celebrant\|Celebrant]], there are none on the streets. Rather, they have their own cities, forming a grand nation with the capital in [[Lasting Integrity\|Lasting Integrity]]. They have several strongholds, including [[Unyielding Fidelity\|Unyielding Fidelity]], in the reigon of [[Shadesmar\|Shadesmar]] corresponding to [[Kharbranth\|Kharbranth]].
+Honorspren are not liked by other types of sapient spren, and seem to avoid them in turn. In [[Celebrant\|Celebrant]], there are none on the streets. Rather, they have their own cities, forming a grand nation with the capital in [[Lasting Integrity\|Lasting Integrity]]. They have several strongholds, including [[Unyielding Fidelity\|Unyielding Fidelity]], in the region of [[Shadesmar\|Shadesmar]] corresponding to [[Kharbranth\|Kharbranth]].
 According to Syl, while honorspren hate [[Inkspren\|inkspren]] and highspren, they merely distrust [[Cryptic\|Cryptics]].
 
 ### Legal Proceedings
@@ -101,8 +100,9 @@ A particular type of trial that is available under honorspren law is **trial by 
 [[Rua\|Rua]] (bonded to [[Lopen\|Lopen]])
 [[Caelinora\|Caelinora]] (bonded to [[Huio\|Huio]])
 [[Riah\|Riah]]
+[[Sekeir\|Sekeir]]
 ## Trivia
-Several honorspren have names derived from wind-related myths and legends -- for example, Sylphrena is named after , wind spirits, while Notum and Borea's names come from  and , the Greek gods of South and North wind respectively.
+Several honorspren have names derived from wind-related myths and legends -- for example, Sylphrena is named after , wind spirits, while Notum and Borea's names come from  and , the Greek gods of South and North wind respectively. Vaiu seems similarly named after , a Hindu deity of winds.
 Brandon developed honorspren from windspren. Originally, there were only four windspren that could bond people, each corresponding to one of the four cardinal directions (for example, Syl was initially called the East Wind). Over time, as the spren developed, honorspren were created and made distinctive from windspren.
 
 

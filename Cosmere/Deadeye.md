@@ -3,9 +3,8 @@
 |by  Casta |
 |**Type**|Spren|
 |**Abilities**|[[Splinter\|Splinter]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -36,7 +35,7 @@ Abandoning the Oaths breaks something in the [[Spiritual Realm\|Spiritual]] aspe
 
 ## Appearance
 In the [[Physical Realm\|Physical Realm]], deadeye corpses are [[Shardblade\|Shardblades]]. There are several differences between dead Blades and living ones -- they do not glow, they are incapable of changing their shape, and they require a gemstone to be inserted in order to be bonded. They also need ten heartbeats before appearing, as opposed to materializing immediately. Moreover, when a dead Shardblade is dismissed, a deadeye spren doesn't appear in the [[Physical Realm\|Physical Realm]] the way a living one does, but rather remains in [[Shadesmar\|Shadesmar]].
-They can be any type of Radiant spren, with [[Mayalaran\|Mayalaran]] being [[Cultivationspren\|cultivationspren]] and Captain [[Ico\|Ico's]] Father being a [[Lightspren\|lightspren]]. Their eyes appear to be scratched out, though not like empty eye sockets, but rather like a painting that's been defaced. Presumably, it's this that the name "deadeye" came from.
+They can be any type of Radiant spren, with [[Mayalaran\|Mayalaran]] being [[Cultivationspren\|cultivationspren]], [[Testament\|Testament]] being a [[Cryptic\|Cryptic]], and Captain [[Ico\|Ico's]] Father being a [[Lightspren\|lightspren]]. Their eyes appear to be scratched out, though not like empty eye sockets, but rather like a painting that's been defaced. Presumably, it's this that the name "deadeye" came from.
 Becoming a deadeye leads to other changes in a spren's appearance as well. Live cultivationspren are made of green vines, but Maya's vines are ashen brown, dried-out, and more tightly woven. Deadeye [[Cryptic\|Cryptics']] head patterns cease moving and become twisted and jagged; though they don't have eyes to begin with, the same scraping effect appears in the center of the pattern.
 
 ## Behavior
@@ -61,7 +60,6 @@ Spren of all types believe it impossible to revive a deadeye. Before Maya was re
 
 ## Notable Deadeyes
 [[Mayalaran\|Mayalaran]]
-[[Sylphrena\|Sylphrena]] (revived)
 [[Testament\|Testament]]
 
 

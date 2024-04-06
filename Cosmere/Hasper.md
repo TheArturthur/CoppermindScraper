@@ -1,9 +1,8 @@
 |**Hasper**|
 |-|-|
 |**Type**|Animal|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Haspers** are a form of mollusk on [[Roshar\|Roshar]]. A **stranna hasper** refers to a variety of the mollusk that can be cooked and eaten.
 

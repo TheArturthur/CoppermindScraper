@@ -4,14 +4,14 @@
 |**Family**|
 |**Parents**|[[Valda Mendez\|Valda Mendez]], Arturo's father|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
+|**First Appeared**|*Skyward*|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
 
 **Arturo Mendez** (callsign **Amphisbaena**) is a member of the [[DDF\|DDF]] and a member of [[Skyward Flight\|Skyward Flight]]. Both of his parents are pilots, one of which is [[Valda Mendez\|Valda Mendez]]. He is an assistant flight leader to [[Jorgen\|Jorgen]], along with [[Nedd\|Nedd]].
-His callsign, Amphisbaena, comes from the mythological  that goes by the same name. His flightmates and other DDF staff have difficulty pronouncing his callsign, leading to it being shortened to Amphi. [[Cobb\|Cobb]] appears to be the only person who can pronounce Arturo's callsign, however all calls him by the shortened nickname.
+His callsign, Amphisbaena, comes from the mythological  that goes by the same name. His flightmates and other DDF staff have difficulty pronouncing his callsign, leading to it being shortened to Amphi. [[Cobb\|Cobb]] appears to be the only person who can pronounce Arturo's callsign, however also calls him by the shortened nickname.
 His family is rich and owns three private [[Starfighter\|starfighters]] that are used as escorts during trading operations. These ships are not accessible to the DDF during times of need as they are primarily reserved to evacuate the Mendez family if they are in danger. His family has a private radio frequency, 1250, as well as a private radio that is able to unscramble pilot frequencies.
 
 ## Contents
@@ -21,11 +21,12 @@ His family is rich and owns three private [[Starfighter\|starfighters]] that are
 3 History
 4 Relationships
 
-4.1 Jorgen and Nedd
-4.2 Spensa
-4.3 Bryn
-4.4 Valda Mendez and Arturo's father
-4.5 Alanik
+4.1 Nedd
+4.2 Jorgen
+4.3 Spensa
+4.4 Bryn
+4.5 Valda Mendez and Arturo's father
+4.6 Alanik
 
 
 5 Notes
@@ -87,17 +88,19 @@ After the flight touched down at Alta, Arturo brought up Spensa's comments from 
 Following the Skyward graduation, Arturo and the former members of the flight met up at a restaurant in Alta Base to listen in to the battle at the shipyard on Arturo's family radio. Despite being a full pilot, Arturo did not wear his pilots pin to the gathering. Arturo set up the radio to broadcast the [[National Assembly\|National Assembly]] channel so that the former pilots could listen to the same information being given to the government leaders. At the request of the others in the group, Arturo eventually turned the radio to the pilots bands so that they could listen in directly to the battle. Periodically, he would switch between the flightleader channel and the scouts channel, so that the group could follow the scout's attempts to stop the lifebuster. Hearing the desperation of the battle, Arturo, Nedd, and Kimmalyn went to steal the Mendez private jets from the lower caverns to aid the overwhelmed DDF pilots.
 Having successfully stolen the Mendez family starships, Arturo, Nedd, and Kimmalyn went to join Spensa in defending Alta Base. The group arrived shortly after Spensa was shot down and ordered by Ironsides to attack and destroy the bomber.
 After Spensa rejoined the fight in [[M-Bot\|M-Bot]], Arturo and Nedd went after the bomber on Spensa's orders, in an attempt to drive it away from Alta Base. [[Ironsides\|Ironsides]] tried to overrule Spensa, however, was ignored by Arturo and Nedd. There attempts to attack the bomber, however, were constantly impeded by the black Krell guard ships which would attack if they got close but fall back if they pulled away. When Riptide Flight arrived, they joined Arturo and Nedd in engaging with these ships to keep them busy and distracted. It is unknown how the fight Arturo was involved in ended, but it can be assumed the black Krell fighters pulled back when the lifebuster was dropped.
-Following the battle, Arturo rejoined the DDF as an active pilot. He accompanied Jorgen during his exploration of Detritus' cave system, however, after five days of travelling, began to suggested that the trio head back to base after hearing DDF alarms in the distance. He was unaware of the true reason the friends were exploring the caves, believing the objective of their task had been relayed from Cobb to Jorgen.
+Following the battle, Arturo rejoined the DDF as an active pilot. He accompanied Jorgen during his exploration of Detritus' cave system, however, after five days of travelling, began to suggest that the trio head back to base after hearing DDF alarms in the distance. He was unaware of the true reason the friends were exploring the caves, believing the objective of their task had been relayed from Cobb to Jorgen.
 
 ## Relationships
-### Jorgen and Nedd
+### Nedd
 >“*"Hey, Arturo,” Nedd said... “these projectors are pretty good. You think they could simulate a world where you’re not a scudding terrible pilot?”*
 \-“All we need for that,” Arturo said, “is an Off button for your radio. I’m certain we’d all improve by huge leaps if we didn’t have to listen to your incessant jabbering."
 
 
 Arturo has a playful and joking type of relationship with Nedd, and the two often throw friendly insults at each other. Arturo is used to Nedd's wisecracks and is thrown after Nedd drops out of [[Flight school\|flight school]], still expecting his responses during certain beats of conversation.
-[[Jorgen\|Jorgen]] and Arturo became friends during school, before they joined the DDF. Jorgen is aware of Arturo's tendency to go on tangents during arguments and is effective at preventing this from occurring. Arturo has a tendency to take jabs at Jorgen's attitude, and may find the other boy to be a buzzkill. Regardless, Arturo values Jorgen's friendship and gladly will agree to follow Jorgen, even in situations where he is unaware of their mission objective..
 Arturo and Nedd deliberately do not invite Jorgen to informal gatherings of [[Skyward Flight\|Skyward Flight]] as they believe he would not want to join the group, thus making the invitation a waste of time. It is unclear if they are correct in this thought.
+
+### Jorgen
+[[Jorgen\|Jorgen]] and Arturo became friends during school, before they joined the DDF. Jorgen is aware of Arturo's tendency to go on tangents during arguments and is effective at preventing this from occurring. Arturo has a tendency to take jabs at Jorgen's attitude, and may find the other boy to be a buzzkill. Regardless, Arturo values Jorgen's friendship and gladly will agree to follow Jorgen, even in situations where he is unaware of their mission objective..
 
 ### Spensa
 >“*You are bold. You’re getting back in the cockpit—that’s the important part. You didn’t let it frighten you away.*”
@@ -132,4 +135,4 @@ After the battle on ReDawn, Alanik and Arturo spend lots of time together. Artur
 
 
 
-https://coppermind.net/wiki/Arturo
+https://coppermind.net/wiki/Arturo_Mendez

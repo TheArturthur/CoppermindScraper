@@ -2,9 +2,9 @@
 |-|-|
 |**Abilities**|[[Fused\|Fused]]|
 |**Species**|[[Singer\|Singer]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Oathbringer*|
 
 >“* Kyril—who is running the inspections—well, he might be mad too, actually.*”
 \- Cultivationspren dock registrar[1]

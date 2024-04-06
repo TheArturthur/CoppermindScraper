@@ -1,9 +1,8 @@
 |**Song of Secrets**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Song of Secrets** is one of songs detailing the oral history of the [[Listener\|listeners]]. It discusses the listener gods, their forms, and the [[Unmade\|Unmade]].
 

@@ -3,9 +3,8 @@
 |**Died**|1173|
 |**Titles**|[[Highprince\|Highprince]] of [[Jah Keved\|Jah Keved]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Highprince **Boriar** is a [[Highprince\|highprince]] of [[Jah Keved\|Jah Keved]].
 

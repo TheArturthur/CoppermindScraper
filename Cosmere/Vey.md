@@ -3,13 +3,12 @@
 |**Family**|
 |**Relatives**|[[NaiMeer\|NaiMeer]]|
 |**Titles**|[[Lord Merchant\|Lord Merchant]]|
-|**Groups**|[[Taishin\|Taishin]]🐱︎, [[Guild\|The Guild]]|
+|**Groups**|[[Taishin\|Taishin]], [[Guild\|The Guild]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Kerztian\|Kerztian]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Vey** is the current [[Lord Merchant\|Lord Merchant]] of the [[Guild\|Guild]]. He is in charge of the banking industry of [[Lossand\|Lossand]]. He resides at the Golden Market of the Guild. He has a vote on the council of the [[Taishin\|Taishin]].
 
@@ -27,7 +26,7 @@ He has tan [[Kerztian\|Kerztian]] skin and long brown hair. He wears the colors 
 ## History
 In the first vote of the Taishin, Vey voted to dissolve the [[Diem\|Diem]]. His Profession, the Guild, was the only Profession which was continuing to pay tribute to the Diem.
 Some time later, Lord Mastrell [[Kenton\|Kenton]] visited Vey with [[Ais\|Ais]] and [[Aarik\|Aarik]] to try and change his mind ahead of the second vote on the fate of the Diem. After waiting for two hours in Vey's waiting room, Kenton became bored and decided to play with his sand while waiting. This infuriated Vey, who immediately burst out into the waiting room and yelled at Kenton for practicing his "unholy art" in his office. Vey then agreed to speak with Kenton in his office, but only to get him to stop using [[Sand mastery\|sand mastery]]. In the office, Kenton bluntly asked Vey to vote for the Diem and suggested that they make a deal for sand masters of the Diem to serve the Guild, similar to the deal Kenton had already made with the Lord Artisan. Vey replied that such a deal would be impossible because, as a Kertzian, he believed that [[Sand mastery\|sand mastery]] is unholy and that it would be unethical for him to profit from it. He then went on to accuse Ais of betraying her people by guarding Kenton, which provoked Kenton into mastering some sand and resulted in a shouting match between the two, after which Kenton left the office without any success.
-Later, Kenton tried again with a different tactic. He went back to Vey's office and told Vey's clerk, [[Grelin\|Grelin]], that he wanted to make amends with Vey after their last meeting. After another long wait, Kenton got up and loudly implied that he knew the reason why Vey kept paying the tribute to the Duem. Vey then agreed to a meeting, but called Kenton's bluff and Kenton was forced to admit that he didn't know the secret. Kenton then claims that he'll figure the secret out eventually and tries to blackmail Very into supporting the Diem, but Vey is unfazed.
+Later, Kenton tried again with a different tactic. He went back to Vey's office and told Vey's clerk, [[Grelin\|Grelin]], that he wanted to make amends with Vey after their last meeting. After another long wait, Kenton got up and loudly implied that he knew the reason why Vey kept paying the tribute to the Diem. Vey then agreed to a meeting, but called Kenton's bluff and Kenton was forced to admit that he didn't know the secret. Kenton then claims that he'll figure the secret out eventually and tries to blackmail Very into supporting the Diem, but Vey is unfazed.
 Four days before the final vote, Vey left Kezare to stay out of Kenton's reach and instructed his nephew, Dockmaster [[NaiMeer\|NaiMeer]], to stop Kenton from following him. [[Khriss\|Khriss]] found out through [[Nilto\|Nilto]] that he had gone to [[Lraezare\|Lraezare]], but when she and Kenton attempt to secure passage on a ship, NaiMeer refuses them. While Kenton and NaiMeer were arguing, [[Delius\|Delius]] arrived, used his position as Lord Admiral to commandeer a ship to Lraezare, and invited Kenton to join him.
 
 >“*His name was Hennin. An idiot of a Lord Merchant who acquired the position unearned after two relatives died and left him separate fortunes.*”

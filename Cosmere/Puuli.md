@@ -5,9 +5,8 @@
 |**Relatives**|Puuli's grandfather|
 |**Profession**|Lighthouse keeper|
 |**Ethnicity**|[[Natan\|Natan]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Even if it had destroyed many a ship, Puuli was happy for this new storm. Secretly happy.*”
 \-Puuli, thinking about the Everstorm[1]

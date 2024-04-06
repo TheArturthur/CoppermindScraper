@@ -3,9 +3,8 @@
 |**Profession**|Airship enginemaster|
 |**Ethnicity**|[[Southern Scadrian\|Southern Scadrian]]|
 |**Nationality**|[[Malwish\|Malwish]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Petrine** is a [[Southern Scadrian\|Southern Scadrian]] crewmember of the *Brunstell*.
 

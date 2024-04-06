@@ -2,9 +2,8 @@
 |-|-|
 |**Type**|Family|
 |**Homeland**|Farmost Dominance|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Books**|*Mistborn Era 1*|
 
 **House Renoux** is a [[Noble\|noble]] house on [[Scadrial\|Scadrial]]. The family is headed by [[Teven Renoux\|Teven Renoux]], a Western lord who is powerful in the Farmost Dominance. Teven is killed and replaced by the impostor [[OreSeur\|OreSeur]], a member of [[Kelsier's crew\|Kelsier's crew]]. Acting the role of Lord Renoux and guided by [[Kelsier\|Kelsier]], he moves to [[Fellise\|Fellise]] ostensibly to expand his business in selling Southern weapons in the North — however, this is a front used by Kelsier in order to arm the [[Skaa rebellion\|skaa rebellion]]. It is assumed that Renoux intends on making enough money and connections to build a keep in Luthadel by the end of the decade, thereby establishing their family as a Great House.
 

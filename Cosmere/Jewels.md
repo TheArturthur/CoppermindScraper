@@ -2,11 +2,10 @@
 |-|-|
 |by  Jove |
 |**Profession**|Mercenary|
-|**Groups**|[[Denth's crew\|Denth's crew]]🐱︎|
+|**Groups**|[[Denth's crew\|Denth's crew]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker*|
 
 >“*“Look, do you think you could just not talk to me? I’d really appreciate it.”*”
 \-Jewels to Vivenna after being asked three simple questions[1]

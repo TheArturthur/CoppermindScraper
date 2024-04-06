@@ -6,17 +6,18 @@
 |**Children**|[[Gavinor\|Gavinor]]|
 |**Parents**|[[Gavilar\|Gavilar]], [[Navani\|Navani]]|
 |**Siblings**|[[Jasnah\|Jasnah]]|
-|**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]]|
+|**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Kaves\|Kaves]]|
 |**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]]|
 |**Born**|1147|
 |**Died**|[[Siege of Kholinar\|Siege of Kholinar]] 1174, killed by [[Moash\|Moash]]|
 |**Abilities**|[[Shardbearer\|Shardbearer]], [[Order of Lightweavers\|Lightweaver]]|
 |**Bonded With**|[[Design\|Design]]|
 |**Titles**|King of [[Alethkar\|Alethkar]]|
+|**Residence**|[[Kholinar\|Kholinar]] , The Alethi warcamps , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -24,7 +25,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 \-Elhokar[4]
 
 
-**Elhokar Kholin** is the king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]], and the nephew of [[Dalinar\|Dalinar]].
+**Elhokar Kholin** is the king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] from 1167 to his death in 1174, and the nephew of [[Dalinar\|Dalinar]].
 
 ## Contents
 
@@ -37,22 +38,13 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 3.2.1 Chasmfiend Hunt
 3.2.2 A Change in the War
-
-3.2.2.1 Watching the Duel
-
-
-3.2.3 Dalinar's Fury
-3.2.4 Assassination Attempts
-
-3.2.4.1 Return of the Assassin in White
-3.2.4.2 Interviewing Taln
-
-
-3.2.5 Persuading the Highprinces
-
-3.2.5.1 Assassination attempt by the Diagram
-
-
+3.2.3 Watching the Duel
+3.2.4 Dalinar's Fury
+3.2.5 Assassination Attempts
+3.2.6 Return of the Assassin in White
+3.2.7 Interviewing Taln
+3.2.8 Persuading the Highprinces
+3.2.9 Assassination attempt by the Diagram
 
 
 3.3 The True Desolation (1174)
@@ -81,7 +73,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 For more images, see [[Elhokar Kholin/Gallery\|/Gallery]].
 Elhokar is Alethi, with tan skin and epicanthic folds over green eyes. He keeps himself clean-shaven. His face is considered very handsome, with full lips, a broad forehead, and a firm chin. He bears some resemblance to his father, though Elhokar has fewer scars than [[Gavilar\|Gavilar]] did.
-Elhokar is deeply paranoid, fearing assassins every since his father was killed by one, and thus wears his [[Shardplate\|Shardplate]] far more often than other Shardbearers. Due to Elhokar's youth and paranoia his ability to rule was questioned by those under his rule and he maintained a weakened authority over the ten Highprinces. He also has a strong complex about being compared to his father. He vacillates between extremely spoiled, demanding respect for the sheer fact of being a king, and fearful, keenly aware that he does not measure up as a ruler. He lacks the spine or accomplishments to stand up to [[Dalinar\|Dalinar]] when the latter starts to take more and more power, and the highprinces often talk around him, with Elhokar himself serving more as a unifying figurehead than a true leader. He has a habit of surrounding himself with sycophants and people intent on using him for their own purposes. Perhaps related to that, he seems to have very low self-esteem. Furthermore, his paranoia was furthered by his ability to see [[Cryptic\|strange creatures]] in mirrors. He has narcissistic personality disorder, caring little for the feelings of others and being very concerned about his reputation.
+Elhokar is deeply paranoid, fearing assassins ever since his father was killed by one, and thus wears his [[Shardplate\|Shardplate]] far more often than other Shardbearers. Due to Elhokar's youth and paranoia his ability to rule was questioned by those under his rule and he maintained a weakened authority over the ten Highprinces. He also has a strong complex about being compared to his father. He vacillates between extremely spoiled, demanding respect for the sheer fact of being a king, and fearful, keenly aware that he does not measure up as a ruler. He lacks the spine or accomplishments to stand up to [[Dalinar\|Dalinar]] when the latter starts to take more and more power, and the highprinces often talk around him, with Elhokar himself serving more as a unifying figurehead than a true leader. He has a habit of surrounding himself with sycophants and people intent on using him for their own purposes. Perhaps related to that, he seems to have very low self-esteem. Furthermore, his paranoia was furthered by his ability to see [[Cryptic\|strange creatures]] in mirrors. He has narcissistic personality disorder, caring little for the feelings of others and being very concerned about his reputation.
 While Elhokar is by no means an exceptional leader, he does have some potential, albeit deeply-buried. Despite his own uncertainty in his ability to rule, he's capable of making decisive action and manages to control the [[Highprince\|Highprinces]], if just barely. He displays a certain sense for politics, and can display startling insight into the minds of others. Over time, he comes to acknowledge his own flaws and take steps to rectify them, starting by trying to learn by example from [[Kaladin\|Kaladin]] and becoming more selfless. He's also a devoted husband and father, and though he can't spend much time with his family, he cares for them dearly.
 
 ## Attributes and Abilities
@@ -99,10 +91,10 @@ A year before Gavilar's death, Elhokar was left in charge of the kingdom while h
 
  by  Marie Seeberger  [[Dalinar\|Dalinar]] saving Elhokar from the [[Chasmfiend\|chasmfiend]]
 ### War of Reckoning (1167 - 1174)
-After the assassination of Gavilar, Elhokar vowed to avenge his father by waging war against the Parshendi, who claimed responsibility for the king's death. He made the highprinces swear to the [[Vengeance Pact\|Vengeance Pact]] to help him in his conquest, thereby managing to keep his kingdom together for now. During the early years of the war, Elhokar sent messengers to the Parshendi asking for explanations, but no answers came.
+After the assassination of Gavilar, Elhokar vowed to avenge his father by waging war against the Parshendi, who claimed responsibility for the king's death. He made the highprinces swear to the [[Vengeance Pact\|Vengeance Pact]] to help him in his conquest, thereby managing to keep his kingdom together in the short term. During the early years of the war, Elhokar sent messengers to the Parshendi asking for explanations, but no answers came.
 
 
-Several years after the start of the war, in 1173, Elhokar lead an expedition including Dalinar, Sadeas, Adolin, Renarin and many other lighteyes and a thousand soldiers on to the shattered plains for a greatshell hunt. When they closed on the hunting grounds, the king galloped of in his shardplate to a rock formation with a good vantage. Dalinar was forced to chase after him. At the summit, they discussed Elhokar's fear of assassination. When the huntmaster placed the bait one plateau over, the Chasmfiend climbed onto the viewing plateau. Elhokar lead the assault on the creature together with Dalinar. He went to distract the beast so the others could fight it. Suddenly his saddle girth broke, and Elhokar fell to the ground. Dalinar urged him to get away from the fight, but Elhokar charged the Chasmfiend instead. In the skirmish, the king got knocked off his feet by the beast. Only the timely arrival of Dalinar, who caught the beast's claw, saved his life. Glory spren appeared when Elhokar held the captured gemheart up.
+Several years after the start of the war, in 1173, Elhokar lead an expedition including Dalinar, Sadeas, Adolin, Renarin and many other lighteyes and a thousand soldiers on to the shattered plains for a greatshell hunt. When they closed on the hunting grounds, the king galloped off in his shardplate to a rock formation with a good vantage. Dalinar was forced to chase after him. At the summit, they discussed Elhokar's fear of assassination. When the huntmaster placed the bait one plateau over, the Chasmfiend climbed onto the viewing plateau. Elhokar lead the assault on the creature together with Dalinar. He went to distract the beast so the others could fight it. Suddenly his saddle girth broke, and Elhokar fell to the ground. Dalinar urged him to get away from the fight, but Elhokar charged the Chasmfiend instead. In the skirmish, the king got knocked off his feet by the beast. Only the timely arrival of Dalinar, who caught the beast's claw, saved his life. Glory spren appeared when Elhokar held the captured gemheart up.
 During the march back, Elhokar discussed the war with Dalinar and Sadeas. As Dalinar has not won any gemhearts recently, the king encouraged him to start using faster bridges like Sadeas's. The king asked Dalinar to look into his saddle strap. Although Dalinar ensured him that he took the investigation very seriously, the king kept expressing that he felt Dalinar doubted him.
 
 
@@ -116,7 +108,7 @@ Talk turned to the joint plateau assaults done by Dalinar and Sadeas, who argue 
 
 
  by  Grant M. Hansen  Drinking
-After Sadeas's betrayal at the [[Battle of the Tower\|Battle of the Tower]], Dalinar came to visit Elhokar in his sitting room. Elhokar started talking but Dalinar interrupted him by kicking him in the chest while still wearing his shardplate. When the king shouted for his guards, no one responded. Dalinar overpowered the king and pointed out that the guards were his men. Elhokar then admitted it he had cut his own saddle strap, in an attempt to draw attention to his safety. Dalinar then placed his hand on the king's chest and made clear that if he wanted Elhokar dead it would have already happened. Dalinar then ordered Elhokar to name him Highprince of War. He then laid out his plan for the future. Elhokar was astonished when Dalinar told him he was now courting his mother.
+After Sadeas's betrayal at the [[Battle of the Tower\|Battle of the Tower]], Dalinar came to visit Elhokar in his sitting room. Elhokar started talking but Dalinar interrupted him by kicking him in the chest while still wearing his shardplate. When the king shouted for his guards, no one responded. Dalinar overpowered the king and pointed out that the guards were his men. Elhokar then admitted that he had cut his own saddle strap, in an attempt to draw attention to his safety. Dalinar then placed his hand on the king's chest and made clear that if he wanted Elhokar dead it would have already happened. Dalinar then ordered Elhokar to name him Highprince of War. He then laid out his plan for the future. Elhokar was astonished when Dalinar told him he was now courting his mother.
 
 
 Kaladin arrived at the king's room to change the guards. Elhokar was impressed by his thoroughness. The king held council with his family and their most trusted advisers. The king was worried about the response from the highprinces to the recent proclamations. He feared Dalinar's actions would end the kingdom. Dalinar then explained his plan. He wanted the highprinces to be mad, to make them think about their roles and actions, combined with the threat to take it all away. He suggested that Adolin started dueling other shardbearers for their shards. Elhokar responded by saying the highprinces wouldn't like it. They enjoyed their sports and fun, and would likely send assassins. Dalinar insisted they needed to do it anyway, and added, to Elhokar's amazement, that he was going to refound the Knights Radiant.
@@ -128,14 +120,14 @@ After the storm, Elhokar went outside on his balcony. The part of the railing he
 \-Elhokar whimpered when being towed away by his guards on Szeth's arrival[31]
 
 
-In the next storm, the king was sheltering in his palace again. Kaladin had dozed off for a second. When he woke up he insisted something was wrong and they needed to get the king to safety. The king disagreed as did Adolin. A moment later Dalinar woke from his vision, and agreed to follow Kal's instincts and leave. They quickly organized a retreat through the kitchens. Suddenly the corridor ahead was dark and they noticed a hole in the wall and a body on the ground. In the corridor stood the [[Assassin in White\|Assassin in White]] Dalinar ordered Renarin to protect the king and take him back out while Dalinar, Adolin and Kaladin confronted the Assassin in White. During the fight the assassin said he did not come for Elhokar but for Dalinar. It ended when Kaladin pushed himself and the assassin out of the hole in the wall, plummeting into the air.
+In the next storm, the king was sheltering in his palace again. Kaladin had dozed off for a second. When he woke up he insisted something was wrong and they needed to get the king to safety. The king disagreed as did Adolin. A moment later Dalinar woke from his vision, and agreed to follow Kal's instincts and leave. They quickly organized a retreat through the kitchens. Suddenly the corridor ahead was dark and they noticed a hole in the wall and a body on the ground. In the corridor stood the [[Assassin in White\|Assassin in White]]. Dalinar ordered Renarin to protect the king and take him back out while Dalinar, Adolin and Kaladin confronted the Assassin in White. During the fight the assassin said he did not come for Elhokar but for Dalinar. It ended when Kaladin pushed himself and the assassin out of the hole in the wall, plummeting into the air.
 When Kaladin made his way back into the palace, Elhokar was the first to accept his story on how he survived the fall with the assassin. He praised Kaladin for alerting them to the danger. When Navani asked why the assassin had come, Elhokar said he came to claim him. Neither Dalinar nor Kaladin corrected him. A bit later, the king went into his bedroom to get more wine. On the door he found a new series of glyphs with a countdown.
 
 
-Elhokar and Dalinar talk with [[Bordin\|Bordin]] who had brought a madmen from Kholinar to the warcamps. The man repeated the same things over and over, and called himself [[Talenel\|Talenel'elin]], Herald of War. He had an unbonded Shardblade which befuddled them.
+Elhokar and Dalinar talk with [[Bordin\|Bordin]] who had brought a madman from Kholinar to the warcamps. The man repeated the same things over and over, and called himself [[Talenel\|Talenel'Elin]], Herald of War. He had an unbonded Shardblade which befuddled them.
 
 
-After the attack, the king held a council with all highprinces and their wives. Many feared another attack and brought their shards. During a break in the meeting, Shallan Davar arrived. The Highprinces argued over the assassin. The king insisted they had to follow his commands, which many found ludicrous. Dalinar made the case for an expedition to defeat the Parshendi once and for all. This ended the meeting. Shallan went to inform Elhokar of the dead of his sister Jasnah. The king also sealed pardons for her retinue.
+After the attack, the king held a council with all highprinces and their wives. Many feared another attack and brought their shards. During a break in the meeting, Shallan Davar arrived. The Highprinces argued over the assassin. The king insisted they had to follow his commands, which many found ludicrous. Dalinar made the case for an expedition to defeat the Parshendi once and for all. This ended the meeting. Shallan went to inform Elhokar of the death of his sister Jasnah. The king also sealed pardons for her retinue.
 Elhokar accompanied Dalinar, Navani and Amaram to watch Adolin's latest duel against two opponents. He liked the plan the Kholins had made. Everyone was surprised when four opponents appeared where two were expected. Dalinar wanted to have Adolin pull out of the context. Elhokar questioned that, as the Dalinar would forfeit all six of his family's shards. Adolin started of well, but could not keep up against four assailants. Dalinar wanted to get help for Adolin and asked the king for his blade. Elhokar refused, as without plate Dalinar would be defenseless. Dalinar insisted, but Elhokar counseled caution and warned of a trap. Then Renarin joined the battle, followed shortly after by Captain Kaladin. Together with Adolin, they managed to defeat the four opponents in an impressive display. Elhokar then announced that he was greatly pleased by their accomplishment. He offered Adolin a boon, who demanded the Right of Challenge to duel Sadeas. Then Kaladin demanded the right of challenge as well against Amaram. The king instantly ordered Kaladin's arrest.
 
  by  Marie Seeberger  Elhokar asking [[Kaladin\|Kaladin]] to teach him
@@ -144,7 +136,7 @@ When Dalinar, Shallan and Adolin lead the expedition onto the Shattered plains d
 
 
 During the night, Kaladin came to the palace with the intend to warn the king about the assassination plans from [[Graves\|Graves]] and his group. He noticed the guards were Graves's man and took them out. He then found the king laying drunkenly on a couch. He tried to evacuate the king, who was barely able to walk. One of the 'guards' managed to plunge his knife into Elhokar's side. Kaladin quickly bandaged the wound, and they continued their escape. In the hallway, the king slumped to the ground and then [[Moash\|Moash]] and Graves arrived, both with blade and plate. Kaladin fought them, and swore the third ideal of the [[Windrunners\|Windrunners]] in the process.
-After Kaladin had saved him, Elhokar went into hiding and was given shelter by [[Lopen\|Lopen]] and his family. Lopen's mother forced the king to eat more as he looked to pale. The [[Herdazian\|Herdazians]] later escorted Elhokar to the Oathgate and [[Urithiru\|Urithiru]].
+After Kaladin had saved him, Elhokar went into hiding and was given shelter by [[Lopen\|Lopen]] and his family. Lopen's mother forced the king to eat more as he looked too pale. The [[Herdazian\|Herdazians]] later escorted Elhokar to the Oathgate and [[Urithiru\|Urithiru]].
 
 ### The True Desolation (1174)
 
@@ -190,7 +182,7 @@ The king's son, [[Gavinor\|Gavinor]], survived and remained in Kholinar with [[D
 
 ## Development
 As a character, Elhokar is almost as old as [[Dalinar\|Dalinar]], and the two had always been nephew and uncle. In the earliest story featuring him, Elhokar, along with proto-Jasnah, is kidnapped when the proto-Gavilar is killed, leaving Jared (the early version of Dalinar) to take the reins of the kingdom. After the prince and the princess are rescued, Jared retains control, taking the time to teach Elhokar how to be a proper ruler.
-The next known incarnation of Elhokar appears in *The Way of Kings Prime*, the first draft of what would become [[The Stormlight Archive\|The Stormlight Archive]]. There, Elhokar participates in the same battle as Merin (proto-[[Kaladin\|Kaladin]]). Sheneras, the eldest of Dalinar's three sons (since written out) dies to protect him, and when that is not enough, Merin steps in and saves his life, winning Shards in the process. This version of Elhokar is already established as a bad king; at the end of *The Way of Kings Prime*, Dalinar is forced to kill him. Brandon, however, decided to leave him alive for a short while, deciding that the interplay between the two would be more interesting.
+The next known incarnation of Elhokar appears in [[The Way of Kings Prime\|The Way of Kings Prime]], the first draft of what would become *The Stormlight Archive*. There, Elhokar participates in the same battle as Merin (proto-[[Kaladin\|Kaladin]]). Sheneras, the eldest of Dalinar's three sons (since written out) dies to protect him, and when that is not enough, Merin steps in and saves his life, winning Shards in the process. This version of Elhokar is already established as a bad king (and a significantly worse person overall); at the end of *The Way of Kings* Prime, Dalinar is forced to kill him. Brandon, however, decided to leave him alive for a short while, deciding that the interplay between the two would be more interesting.
 Nonetheless, Elhokar had always been intended to die, even if the circumstances around his death changed. In the final version of the story, Brandon killed him off in order to showcase [[Moash\|Moash's]] descent into villainy.
 
 

@@ -1,8 +1,7 @@
 |**Donal**|
 |-|-|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Donal** is the leader of a gang of outlaws in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]].
 

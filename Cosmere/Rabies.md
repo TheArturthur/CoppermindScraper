@@ -5,8 +5,7 @@
 |**Species**|[[Poltergeist\|Poltergeist]] (formerly human)|
 |**Residence**||
 |**Nationality**||
-|**World**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
-|**Featured In**|*Dreamer*|
+|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
 
 **Rabies** is a [[Poltergeist\|poltergeist]], the spirit of a dead man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including [[Dreamer (character)\|Dreamer]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game. He is known to have taken over at least two bodies including a person killed by Phi and a man with thick arms.
 

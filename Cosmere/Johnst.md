@@ -3,9 +3,8 @@
 |**Died**|Killed and replaced by [[Bleeder\|Bleeder]].|
 |**Profession**|Farmer|
 |**Residence**|[[Elendel Basin\|Elendel Basin]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **Johnst** is a farmer in the [[Elendel Basin\|Elendel Basin]].
 

@@ -6,13 +6,13 @@
 |**Died**||
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|[[Lord Mastrell\|Lord Mastrell]]|
-|**Groups**|[[Diem\|Diem]]🐱︎, [[Taishin\|Taishin]]🐱︎|
+|**Groups**|[[Diem\|Diem]], [[Taishin\|Taishin]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
+|**First Appeared**|*White Sand*|
 
 Lord Mastrell **Praxton** is the leader of the [[Diem\|sand masters]] of Lossand on the Dayside of Taldain.
 
@@ -22,15 +22,16 @@ Lord Mastrell **Praxton** is the leader of the [[Diem\|sand masters]] of Lossand
 2 Attributes and Abilities
 3 History
 4 Quotes
-5 Notes
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
-Praxton is an elderly man with a bald head. He has blue eyes and gray eyebrows.
+Praxton is an elderly man with grey hair. He has blue eyes and gray eyebrows.
 Praxton is noted as a strong leader, not just for the incredible strength of his [[Sand mastery\|sand mastery]], but also because of his sheer willpower.
 
 ## Attributes and Abilities
-Praxton is an extremely powerful sand master. He can control dozens of ribbons of sand, can slatrify, and is able to create an explosion of sand powerful enough to take down hundreds of opponents.
+Praxton is an extremely powerful sand master. He can control dozens of ribbons of sand and is able to create an explosion of sand powerful enough to take down hundreds of opponents.
 
 ## History
 Centuries before Praxton, the Lord Mastrell of the time started an account with then [[Lord Merchant\|Lord Merchant]] [[Hennin\|Hennin]]. The Lord Mastrell had Hennin put the Diem's tribute money in the account, and over the years the tributes, combined with the interest, grew to become an insurmountable debt. The Lord Mastrells of the past, and presumably Praxton as well, used this debt as a hold over the Lord Merchant to blackmail him into doing his bidding.
@@ -44,13 +45,15 @@ During Kenton's duel with Drile, he remembered his fights with Praxton, and it i
 
 ## Quotes
 >“*Being my son won't change anything, you know? I won't make a mastrell, Kenton. You're not good enough. Even if you find all five spheres, I won't do it.*”
-\-Praxton.[2]
+\-Praxton.[3]
 
 
 >“*You wanted it, son, despite everything I told you. Learn what happens to those who defy--*”
 \-Praxton, granting Kenton the rank of mastrell.[1]
 
 
+## Trivia
+In the original version of *White Sand Volume 1*, Praxton implies that he can [[Slatrify\|slatrify]], but this concept was removed from the Omnibus edition.
 
 
 https://coppermind.net/wiki/Praxton

@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Fadrex City\|Fadrex City]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 Lady **Patresen** was a [[Noble\|noble]] from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. House Patresen was a cousin family to [[House Elariel\|House Elariel]] with a presence in [[Fadrex City\|Fadrex City]].
 

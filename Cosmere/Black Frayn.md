@@ -1,9 +1,8 @@
 |**Black Frayn**|
 |-|-|
 |**Type**|Drug|
-|**World**|[[Scadrial\|Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Black Frayn** is an herbal stimulant used during the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 

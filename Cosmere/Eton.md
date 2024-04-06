@@ -3,9 +3,8 @@
 |**Family**|
 |**Parents**|[[Iadon\|Iadon]], [[Eshen\|Eshen]]|
 |**Siblings**|[[Raoden\|Raoden]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 This article discusses material removed from the final book
 
 **Eton**, frequently referred to as the **Mad Prince**, was a secondary antagonist in the early drafts of *Elantris*. His role in the story was largely filled in the published book by Duke [[Telrii\|Telrii]].

@@ -3,9 +3,8 @@
 |**Leader**|[[Terrier\|Terrier]]|
 |**Headquarters**|[[Alta Base\|Alta Base]] (formerly), [[Platform Prime\|Platform Prime]]|
 |**Type**|DDF flight|
-|**World**|[[Detritus\|Detritus]]|
+|**World of Origin**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 **Riptide Flight** is a scout flight of [[DDF\|DDF]] pilots. Jorgen joins Riptide Flight after graduation, becoming the eighth member of the squad. As of the Second Battle of Alta, there are only five members remaining in the squad. The flightleader of Riptide Flight is [[Terrier\|Terrier]].
 

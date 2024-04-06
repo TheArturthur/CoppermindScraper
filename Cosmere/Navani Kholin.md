@@ -10,13 +10,13 @@
 |**Bonded With**|the [[Sibling\|Sibling]]|
 |**Titles**|Queen mother of AlethkarQueen of UrithiruQueen consort of Alethkar (former)The Mother of MachinesQueen BlackthornVoice of Lights|
 |**Skills**|Scholar, [[Artifabrian\|Artifabrian]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
-|**Residence**|[[Urithiru\|Urithiru]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Residence**|[[Kholinar\|Kholinar]], The Alethi warcamps, [[Urithiru\|Urithiru]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*The Way of Kings*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -42,7 +42,7 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 3.3 Aftermath of the Assassination
 3.4 Returning to the Shattered Plains
 3.5 Recording Dalinar's visions
-3.6 Re-uniting the Alethi Princedom
+3.6 Re-uniting the Alethi Princedoms
 3.7 Battle of Narak
 3.8 Uniting Roshar
 3.9 Battle of Thaylen Field and aftermath
@@ -139,7 +139,7 @@ Navani related the [[Myth of Parasaphi and Nadris\|Myth of Parasaphi and Nadris]
 She had kept the secret and was very reliable, however they eventually decide to publish them. Before doing so, she removed the lines where he mentioned sensitive issues, such as the Almighty’s death. She’d also search for historical references to match his descriptions. Navani liked things neat and quantified. She’d prepared a timeline of all of his visions, trying to piece them into a single narrative.
 She believed the visions were a blessing because they proved that Dalinar wasn't going mad. After recording several of his visions, Dalinar and Navani learned to trust each other and confessed their feelings for one another. Navani made it clear that she would not stop for tradition, as their union wasn't explicitly forbidden.
 
-### Re-uniting the Alethi Princedom
+### Re-uniting the Alethi Princedoms
 Navani helped Dalinar build their first plan for unification and strength of the crown. They decided to attack on different fronts: economical (changes to the manner of collection and distribution of gemhearts on the Shattered Plains), fear (Adolin would duel to earn Shardblades) and political ([[Dalinar\|Dalinar]] and Navani would try to persuade the benefits of a unified Alethkar). It is clear she suggested having allies that would unite based on loyalty and not fear.
 Later on, with the help of the glyphs and visions, they tried to make peace with the Parshendi by meeting with Eshonai. Navani was part of the failed mission which sent Adolin instead of his father for this task; she was also writing the script for Adolin sending it via spanreed to their scribe Inadara, who accompanied and translated to him.
 Regardless of the war and internal Alethi plotting; Navani never stopped her research on fabrials. Among other works, she looked to make warcamps more sustainable (trying to build water pumps), creating possible weapons (moving plates) and even working on history (finding the gemstones on Shardblades are not part of the original piece).
@@ -216,12 +216,13 @@ In the map room, Navani found Kholin forces gathered around a map of the tower. 
 Navani's contingent made their way down to the pillar room, using a fake rout and an ambush to lure away the Fused. Accompanied by her attendants, she made her way to the bottom floors of Urithiru. Dabbid helped her find a vein of crystal that the Sibling could send messages through. The Sibling ordered Navani to infuse the topaz connected to the crystal vein. With the help of two Thaylen scholars, [[Vrandl\|Vrandl]] and [[Ulvlk\|Ulvlk]], she used a tuning fork and strategic vibrations to siphon stormlight into the uninfused topaz. The infused topaz opened a hidden chamber with another large gemstone.
 With her team's help, Navani began siphoning stormlight into the second gemstone. She communicated with the Sibling, who reported that Teofil and his men had fallen to the Fused. The fully infused gemstone activated a shield around the gemstone pillar that formed the Sibling's heart. Navani then surrendered to the singers and negotiated the terms with Raboniel. Though Raboniel offered to hire her as a research assistant, Navani said she would deliberate it with her scholars first.
 
+ by  Journey before destination, you bastard
 ### Occupation of Urithiru
 On the first day of the occupation, Navani told Raboniel that she and her scholars would accept their offer. Pleased, Raboniel asked Navani to sketch the schematics of Fourth Bridge's flying platform. While sketching, Navani realized with help from Raboniel that Soulcasters, the tower's elevators, and other abnormal fabrials were comprised directly of spren, instead of powered by spren trapped in gemstones.
-
- by  Viridializard  Attuning the Rhythm of War
 Under the watchful eye of singer guards, Navani directed her scholars to occupy themselves with busy work and revisions as a stalling tactic. When Raboniel cut her off from direct contact with her scholars, she instructed them to continue researching Voidlight fabrials and sent them nonsense ciphered messages to occupy Raboniel's spies. She continued to communicate with the Sibling, using the Sibling's awareness of the tower to get information on Raboniel and deciding that her most important goal was to protect the Sibling. They were distrustful of her, both because of her use of fabrials and her human ability to twist words convincingly, but helped her contact Kaladin, updating him on their situation. However, this method of communication was turned against her when she convinced the Sibling to give her the location of the node in the well, only to discover that Raboniel had been listening in on their conversations. Kaladin managed to destroy the node, but the Sibling felt betrayed and refused to talk to Navani for a while. Raboniel brought her food and wine, and they had a conversation about the history of the conflict between humans and singers and Raboniel's desire to end the war at any cost.
-When Navani mentioned no longer wishing to do research under Raboniel, Raboniel appealed to her curiosity and convinced her to continue. They began collaborating, and Navani came to a realization about how using Honor's, Odium's, and Cultivation's rhythms could affect the Light. Raboniel taught her Honor's rhythm, and with Raboniel singing Odium's rhythm at the same time as Navani sang Honor's, they were able to create Warlight, the combination of Stormlight and Voidlight, for the first time, as well as a rhythm that Raboniel titled the Rhythm of War. Navani then realized Raboniel's true desire for the experiments - to find anti-Light - and knew that Gavilar's strange sphere was an example of this anti-Light, although she did not reveal that.
+When Navani mentioned no longer wishing to do research under Raboniel, Raboniel appealed to her curiosity and convinced her to continue. They began collaborating, and Navani came to a realization about how using Honor's, Odium's, and Cultivation's rhythms could affect the Light. Raboniel taught her Honor's rhythm, and with Raboniel singing Odium's rhythm at the same time as Navani sang Honor's, they were able to create Warlight, the combination of Stormlight and Voidlight, for the first time, as well as a rhythm that Raboniel titled the Rhythm of War. Navani then realized Raboniel's true desire for the experiments - to find anti-Light - and knew that Gavilar's strange sphere was an example of this anti-Light, although she did not reveal that. As a thank you for the breakthrough of the production of Warlight Rabionel had two singer musicians play the tones of Honor and Odium on plates temporarily affixed to Navani's desk she also granted Navani the title "Voice of Lights". Afterward, Rabionel seemingly ended their collaboration stating that she needed to focus on finishing the corruption of the Sibling. Rabionel also gave Navani free reign to continue experiments on her own and provided any resource requested.
+With Rabionel distancing herself to focus on defeating the Sibling's shield Navani toils for days on the concept of anti-Voidlight. Utilizing the same plates that Rabionel rewarded her for she begins to conceptualize sound waves and the patterns that the distinct lights create. Further delving into music theory she theorizes that the anti-Voidlight rhythm would sound identical to the ear as the regular Voidlight rhythm. Eventually she is successful at creating a plate that produces the correct rhythm. Rabionel returns and upon realizing what Navani is working on forces her to reveal her research. The two are then successful at creating an anti-Voidlight gem utilizing a vacuum tube to isolate the light from the Rhythms of Roshar. Rabionel, understanding the implications of the breakthrough betrays Navani once again and begins to manufacture anti-Stormlight with the intention of killing the incapacitated Radiants along with their spren.
+A day later she is visited by Moash, who has every intention of killing her but is redirected by Raboniel who sends him to deal with Kaladin first. Navani, left to her own devices once again, finds the dagger Raboniel used to kill her daughter with, some anti-Voidlight still left in its gem. She plans and prepares fabrial traps, and is able to get the jump on Raboniel, gravely injuring her with the anti-Voidlight dagger, but fails to kill her on the spot. This failure proves fortuitous because when Moash comes back for Navani, Raboniel is able to hold him off just long enough for Navani to negotiate a bond with the Sibling. A freshly bonded Bondsmith, Navani drives Moash away, restores and Tower, and sends the invaders running for their lives.
 
 ## Relationships
 ### Gavilar
@@ -236,7 +237,7 @@ At first, Navani and Gavilar were close, but they grew apart as time went by, wi
 ### Dalinar
  by  Artur Felipe Mósca  Marrying [[Dalinar\|Dalinar]]
 Navani and Dalinar were friends before he introduced her to Gavilar. At that point it seems they were both interested in her. Navani chose Gavilar over Dalinar because she found Dalinar to be frightening.
-When Navani returns to the Shattered Plains from Kholinar, she frequently speaks with Dalinar, and later becomes romantically involved with him, which is unusual, because in the eyes of Alethi society, she is now considered to be Dalinar's sister. Part of what Navani finds intriguing about him is that he's begun to *be* the person the others all *claim* to be. She now finds Dalinar's intensity, which frightened her when they both were younger, to be fascinating because he's now wrapped it in armor.
+When Navani returns to the Shattered Plains from Kholinar, she frequently speaks with Dalinar, and later becomes romantically involved with him, which is unusual, because in the eyes of Alethi society, she is now considered to be Dalinar's sister. Part of what Navani finds intriguing about him is that he's begun to *be* the person the others all *claim* to be. She now finds Dalinar's intensity, which frightened her when they both were younger, to be fascinating because he's now wrapped it in emotional armor.
 Navani believes Dalinar to be a kind man, and a bit overprotective. She never mocks Dalinar, never acts skeptical of that which he reveals in his visions.
 When she learns of his "death" at the [[Battle of the Tower\|Battle of the Tower]], upon receipt of the news of [[Torol Sadeas\|Sadeas's]] betrayal, Navani worried about Dalinar, as he had no daughters and no wife, meaning he had no one to pray for him. So, Navani endeavors to paint a prayer in [[Glyph\|glyph]] format upon the stones of the Plains. She creates a wish out of despair, a plea out of anguish: *Thath*: Justice.
 After he came back, he decided not to keep the relationship a secret, and they became a couple; not only personally but as leaders of the war and kingdom. She had a way with him, translating scholarship into battle tactics, that helped them understand each other. She also made sure he did not hate the other Alethi princes, but to see them as his people. Their wedding ceremony was carried out by the Stormfather.
@@ -245,7 +246,7 @@ Dalinar confided in Navani all he remembered of her visit to the Nightwatcher, s
 After the battle of Thaylen, he requests Navani to teach him how to read and write. She does and also helps him with the writing of his autobiography.
 
 ### Jasnah
-Jasnah believes her mother to have a tendency toward the overwhelming. She does not let her mother 'mother' her. Navani knows it. She would try to get close to her daughter, and there was a *coldness*, like even being near her mother reminded Jasnah that she had once been a child. She wonders what happened to her little girl, so full of questions.
+Jasnah believes her mother has a tendency toward the overwhelming. She does not let her mother 'mother' her. Navani knows it. She would try to get close to her daughter, and there was a *coldness*, like even being near her mother reminded Jasnah that she had once been a child. She wonders what happened to her little girl, so full of questions.
 Navani knows Jasnah better that anyone else, but wishes she had some sense to go with her intelligence. She believes that Jasnah never did have the decency to be *wrong* an appropriate amount of the time.
 When she thought Jasnah was dead, Navani considers it to be her *first* time mourning, implying there difficulties between her and Gavilar before his assassination. Her journals tell of just how deeply Navani felt the loss of her daughter. That also affected Navani's relationship with [[Shallan\|Shallan]], who she first sent away.
 Once Jasnah returned to Urithiru, they start working closely both in research and politics. Jasnah would lecture her mother sometimes, but she is still respectful enough to apologize to Navani afterwards.

@@ -3,9 +3,8 @@
 |**Profession**|Sailor|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Turlm** is a [[Thaylen\|Thaylen]] sailor and a member of the crew of the *Wandersail*.
 

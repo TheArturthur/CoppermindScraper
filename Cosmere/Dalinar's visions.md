@@ -2,12 +2,11 @@
 |-|-|
 |by  AnnDR |
 |**Related to**|[[Stormfather\|Stormfather]], [[Honor\|Honor]], [[Order of Bondsmiths\|Order of Bondsmiths]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
 
-**Dalinar's visions** were short episodes [[Dalinar\|Dalinar]], and previously [[Gavilar\|Gavilar]], experienced during [[Highstorm\|highstorms]].
+**Dalinar's visions** were short [[Visions\|episodes]] [[Dalinar\|Dalinar]], and previously [[Gavilar\|Gavilar]], experienced during [[Highstorm\|highstorms]].
 
 ## Contents
 
@@ -36,14 +35,14 @@ At first, Dalinar suffered these visions feeling he was going mad. Dalinar event
 This decision led to the discovery by Navani that Dalinar did not speak gibberish during his visions. During the first vision she witnessed, he spoke the [[Dawnchant\|Dawnchant]]. They considered this proof that the visions were real. The Dawnchant was a real extinct language on [[Roshar\|Roshar]], but there were no known translation keys for modern scholars to study it. Since Dalinar would have had no prior knowledge of the Dawnchant they came to the conclusion that his mind could not be fabricating the visions. As a side effect, Navani was sure that this discovery would help to translate an old book called [[Analectics\|Analectics]].
 
 ### The Stormfather's Role
-After settling in [[Urithiru\|Urithiru]], the [[Stormfather\|Stormfather]] revealed that Dalinar is able to control and chose who experiences the visions. Dalinar was able to bring other people into the visions with him, and he used this ability to make initial contact with rulers to help build the alliance between the nations. Each time he entered a vision it would play out a little differently. Once, Odium came to him in a vision. After this, they deemed the visions too dangerous to use and only went in another time to bring in Venli and try to make a pact with the Voidbringers. [[Odium\|Odium]] interrupted this meeting, however.
+After settling in [[Urithiru\|Urithiru]], the [[Stormfather\|Stormfather]] revealed that Dalinar is able to control and choose who experiences the visions. Dalinar was able to bring other people into the visions with him, and he used this ability to make initial contact with rulers to help build the alliance between the nations. Each time he entered a vision it would play out a little differently. Once, Odium came to him in a vision. After this, they deemed the visions too dangerous to use and only went in another time to bring in Venli and try to make a pact with the Voidbringers. [[Odium\|Odium]] interrupted this meeting, however.
 The Stormfather imagined a place for Dalinar to discuss plans with him. The sky is deep black and the ground endless white stone. Items and even people made of smoke rise from the floor and slowly dissipate. This place represents how the Stormfather imagines cognitive ideas dying when no longer in use by cognitive beings.
 
 ## The visions predicate
 All of the visions shared the challenge given by an unknown voice:
 
 >“*You must unite them, the strange, booming words had told him. You must prepare. Build of your people a fortress of strength and peace, a wall to resist the winds. Cease squabbling and unite. The Everstorm comes.*”
-\-Dalinar's memory from one of the visions[8]
+\-Dalinar's memory from one of the visions[10]
 
 
 From the visions shared statement Dalinar drew the conclusion that he had to unite [[Alethkar\|Alethkar's]] [[Highprince\|highprinces]] because only then would mankind have a chance to withstand the coming events. The visions led Dalinar to the decision to attempt to refound the Knights Radiant.
@@ -51,10 +50,10 @@ From the visions shared statement Dalinar drew the conclusion that he had to uni
 ## Mentioned and recorded visions
 ### Starfalls
 >“*This is important. Do not let strife consume you. Be strong. Act with honor, and honor will aid you.*”
-\-The Almighty at the end of the Starfalls vision[7]
+\-The Almighty at the end of the Starfalls vision[9]
 
 
-During this vision Dalinar found himself in the role of a man, [[Heb\|Heb]], who lived with his wife and daughter, presumably during the advent of a Desolation. Heb and his daughter were attacked by [[Midnight Essence\|Midnight Essences]], but managed to reach Heb's house unharmed. Two more of these beasts followed, and after Heb (Dalinar) fought them off with a metal fire poker, Heb took his wife and daughter and fled from the house. A short time later they were surrounded by Midnight Essences. When he and his family thought all was lost, two Knights Radiant arrived. One, a [[Windrunner\|Windrunner]], immediately began to fight the beasts, while the second, a [[Stoneward\|Stoneward]] used a [[Regrowth\|Regrowth]] fabrial to heal Heb and his family before joining her companion in fighting the Midnight Essences. Feeling good again after the healing, Heb joined the fight, and the three of them fought off the Midnight Essences. The [[Starfalls Windrunner\|male Knight Radiant]] asked Heb about his strange fighting stances and invited him to come to [[Urithiru\|Urithiru]], where the Knights Radiant were centered, because everybody who could fight was needed. Dalinar asks questions of the [[Starfalls Stoneward\|female Knight Radiant]] as well.
+During this vision Dalinar found himself in the role of a man, [[Heb\|Heb]], who lived with his wife and daughter, presumably during the advent of a Desolation in the year 337 of the Eighth Epoch. Heb and his daughter were attacked by [[Midnight Essence\|Midnight Essences]], but managed to reach Heb's house unharmed. Two more of these beasts followed, and after Heb (Dalinar) fought them off with a metal fire poker, Heb took his wife and daughter and fled from the house. A short time later they were surrounded by Midnight Essences. When he and his family thought all was lost, two Knights Radiant arrived. One, a [[Windrunner\|Windrunner]], immediately began to fight the beasts, while the second, a [[Stoneward\|Stoneward]] used a [[Regrowth\|Regrowth]] fabrial to heal Heb and his family before joining her companion in fighting the Midnight Essences. Feeling good again after the healing, Heb joined the fight, and the three of them fought off the Midnight Essences. The [[Starfalls Windrunner\|male Knight Radiant]] asked Heb about his strange fighting stances and invited him to come to [[Urithiru\|Urithiru]], where the Knights Radiant were centered, because everybody who could fight was needed. Dalinar asks questions of the [[Starfalls Stoneward\|female Knight Radiant]] as well.
 This was Dalinar's twelfth vision.
 He revisits this vision when meeting with Queen [[Fen Rnamdi\|Fen Rnamdi]], and he instructs the [[Stormfather\|Stormfather]] to let Fen experience it as he did so that they can discuss it after.
 

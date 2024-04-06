@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|[[Second Battle of Alta\|Second Battle of Alta]]|
 |**Profession**|DDF pilots|
-|**World**|[[Detritus\|Detritus]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 >“*Flight Command, a bomber is heading toward the shipyard. It’s carrying a lifebuster.*”
 \-Cloak reporting back to Admiral Ironsides[1]

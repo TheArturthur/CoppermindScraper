@@ -1,9 +1,8 @@
 |**Excisor**|
 |-|-|
 |**Related to**|[[Unsealed metalminds\|Unsealed metalminds]]|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 An **Excisor** is a tool used by [[Southern Scadrian\|Southern Scadrians]] to make [[Feruchemical\|Feruchemical]] [[Unsealed metalminds\|medallions]].
 
@@ -28,7 +27,7 @@ According to [[Allik Neverfar\|Allik Neverfar]], the Sovereign originally traine
 The Southern Scadrians later started experimenting with the devices, gaining the ability to create medallions that could provide access to other Feruchemical powers such as storing [[Iron\|weight]] or [[Duralumin\|Connection]]. After many years, they also determined a method to create medallions with multiple powers. This involved a Metalborn creating a medallion, then passing it to another Metalborn so they could add their power to the medallion, presumably using an Excisor at each step. Allik has medallions with two powers, but states that examples with three powers are very rare and that all attempts at incorporating four powers have failed. The number of Excisors that the Southern Scadrians possessed (and whether they were able to make more) is unknown.
 
 ## Cosmere Significance
-The Feruchemical ability of nicrosil to store [[Investiture\|Investiture]] is extremely powerful but poorly understood in the [[Cosmere\|cosmere]], even by Feruchemists. The Excisors further enhance nicrosil's potential by allowing anyone to use it. The medallions created with the Excisors are among very few known objects that can grant the use of Investiture to someone that does not otherwise have magical abilities; they have some similarities to [[Rosharan\|Rosharan]] [[Honorblade\|Honorblades]]. Although the medallions are known to have limitations in practice, in theory they could allow someone to use all thirty-two [[Allomantic\|Allomantic]] and Feruchemical powers or possibly even manifestations of Investiture that originate on other [[Shardworld\|Shardworlds]], such as [[AonDor\|AonDor]], [[BioChromatic Breath\|BioChromatic Breath]], and [[Surgebinding\|Surgebinding]].
+The Feruchemical ability of nicrosil to store [[Investiture\|Investiture]] is extremely powerful but poorly understood in the [[Cosmere\|cosmere]], even by Feruchemists. The Excisors enhance nicrosil's utility by allowing anyone to use it. The medallions created with the Excisors are among very few known objects that can grant the use of Investiture to someone that does not otherwise have magical abilities; they have some similarities to [[Rosharan\|Rosharan]] [[Honorblade\|Honorblades]]. Although the medallions are known to have limitations in practice, in theory they could allow someone to use all thirty-two [[Allomantic\|Allomantic]] and Feruchemical powers or possibly even manifestations of Investiture that originate on other planets in the cosmere, such as [[AonDor\|AonDor]], [[BioChromatic Breath\|BioChromatic Breath]], and [[Surgebinding\|Surgebinding]].
 
 
 

@@ -1,8 +1,7 @@
 |**Fiksin**|
 |-|-|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Fiksin was a boot-licker, not a scholar.*”
 \-Ellista on Fiksin.[1]

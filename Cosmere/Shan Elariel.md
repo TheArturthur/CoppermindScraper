@@ -6,9 +6,9 @@
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*Mistborn: The Final Empire*|
 
 **Shan Elariel** is a [[Noble\|noble]] of [[House Elariel\|House Elariel]] on [[Scadrial\|Scadrial]]. She is a [[Allomancy\|Mistborn]] and the former fianceé of [[Elend Venture\|Elend Venture]].
 
@@ -47,7 +47,7 @@ Shan became engaged to [[Elend Venture\|Elend Venture]] around 1021 [[Final Empi
 Despite this setback, she was a budding master of house politics, and kept an eye on Elend since he was the heir to House Venture, one of the few houses that had more power than her own. Shan's desire to keep tabs on Elend was the reason that she was willing to interact with Vin in her disguise as Valette Renoux, after she was seen talking to Elend. At one point, Shan even sent her [[Shan Elariel's steward\|Terrisman steward]] to covertly look at some books that Elend left on his table to try and learn what he had been reading about, likely because she suspected that he had rebellious leanings.
 
 ### Holding Court
-Shan met Vin at her first ball as Valette Renoux, and Vin was struck by her haughty attitude. Shan mercilessly insulted Valette and attempted to subtly Soothe her emotions in order to control her, but Vin noticed it thanks to training that she received from [[Breeze\|Breeze]]. [[Kelsier\|Kelsier]] received further confirmation that Shan was a Soother from a disguised [[Hoid\|Hoid]], who also told him that Shan kept some spare brass in her glove.
+Shan met Vin at her second ball as Valette Renoux, and Vin was struck by her haughty attitude. Shan mercilessly insulted Valette and attempted to subtly Soothe her emotions in order to control her, but Vin noticed it thanks to training that she received from [[Breeze\|Breeze]]. [[Kelsier\|Kelsier]] received further confirmation that Shan was a Soother from a disguised [[Hoid\|Hoid]], who also told him that Shan kept some spare brass in her glove.
 
  by  Elizabeth Peiró  Shan (top), fighting [[Vin\|Vin]]
 Vin continued to subject herself to Shan's abuse in order to maintain her Valette persona. As "Valette" gained confidence, Shan became even more insulting towards her and made stronger use of her [[Allomancy\|Allomancy]], eventually tasking Valette with digging up more dirt on Elend. Vin tried to warn Elend about Shan, but he did not share her concern. Shan realized that Valette's allegiance was with Elend, and no longer wanted anything to do with her. Vin was frustrated that she could no longer learn more about whatever Shan was plotting.

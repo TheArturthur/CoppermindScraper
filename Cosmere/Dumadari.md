@@ -1,9 +1,8 @@
 |**Dumadari**|
 |-|-|
-|**Region**|Border between [[Jah Keved\|Jah Keved]]🐱︎ & [[Alethkar\|Alethkar]]🐱︎|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Region**|Border between [[Jah Keved\|Jah Keved]] & [[Alethkar\|Alethkar]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Dumadari** is a city on [[Roshar\|Roshar]] at the border of [[Jah Keved\|Jah Keved]] and [[Alethkar\|Alethkar]].
 In 1168, shortly after the death of [[Gavilar Kholin\|Gavilar Kholin]], [[Dalinar\|Dalinar]] plans to take an army via Dumadari and sail to [[New Natanan\|New Natanan]] to set up a base on the [[Shattered Plains\|Shattered Plains]] before the rest of the [[Alethi\|Alethi]] armies arrive. He uses the journey as a cover for visiting the [[Nightwatcher\|Nightwatcher]].

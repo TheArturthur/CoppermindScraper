@@ -8,15 +8,12 @@
 |**Magics**|[[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], [[Bloodsealing\|Bloodsealing]]|
 |**Residence**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*At some point in the distant past, both Devotion and Dominion were destroyed. Their Investiture—their power—was Splintered, their minds ripped away, their souls sent into the Beyond.*”
 \-Khriss[3]
 
 
-**Dominion** is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]] once held by [[Skai\|Skai]]. After the [[Shattering\|Shattering]], they traveled to [[Sel\|Sel]] with [[Devotion\|Devotion]], where both were [[Splinter\|Splintered]] by [[Odium\|Odium]].
+**Dominion** is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]] once held by [[Skai\|Skai]]. After the [[Shattering\|Shattering]], she traveled to [[Sel\|Sel]] with [[Devotion\|Devotion]], where both were [[Splinter\|Splintered]] by [[Odium\|Odium]].
 
 ## Contents
 
@@ -35,16 +32,22 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 ## Intent
-Since Dominion was destroyed well before any other known events on Sel, it is somewhat unclear exactly how the Shard's intent would drive its Vessel to act. The only trace of them are their [[Splinter\|splinters]], [[Skaze\|skaze]], which are thirsty for power as a result of their relationship with the Shard, and driven to maintain influence over politics of [[Fjordell\|Fjordell]]. This suggests that Dominion's focus was amassing and maintaining control over others.
+Since Dominion was destroyed well before any other known events on Sel, it is somewhat unclear exactly how the Shard's intent would drive its Vessel to act. The only trace of her are her [[Splinter\|splinters]], [[Skaze\|skaze]], which are thirsty for power as a result of their relationship with the Shard, and driven to maintain influence over politics of [[Fjordell\|Fjordell]]. This suggests that Dominion's focus was amassing and maintaining control over others.
 
 ## Associated Magics
  by  Ben McSweeney  [[Forgery\|Forgery]] in action
 ### The Dor
 For more information, see [[Dor\|Dor]].
-When Odium Splintered Devotion and Dominion, he locked their power in the [[Cognitive Realm\|Cognitive Realm]] to prevent them from gaining another Vessel. The power of the two Shards is thus trapped together as a giant, polarized storm of [[Investiture\|Investiture]], known as the [[Dor\|Dor]], which makes the Cognitive Realm around Sel very dangerous. This has a profound effect on the magic systems of Sel.
-Since the powers are trapped together, all magic systems are influenced in some way by both Shards. Perhaps more importantly, because location exists in the Cognitive Realm, magic is tied to the user's physical location. In order to access a magic system, it also appears one must be from the land associated with that magic system. All the magic systems of Sel share reliance on shape; specific shapes, based on the homelands of the magic systems, are used to access the Dor and thus perform magical effects.
-Magic systems fuelled by the Dor include [[AonDor\|AonDor]] (from [[Arelon\|Arelon]]), [[ChayShan\|ChayShan]] (from [[JinDo\|JinDo]]), [[Dakhor\|Dakhor]] (from [[Fjordell\|Fjordell]]), [[Forgery\|Forgery]] (from [[MaiPon\|MaiPon]]) and [[Bloodsealing\|Bloodsealing]] (from [[Dzhamar\|Dzhamar]]). The power of them grows weaker the further one is from the "home ground" of the magic system. However, they still have considerable range -- for example, Forgery and Bloodsealing are usable throughout the entire [[Rose Empire\|Rose Empire]] rather than only in their home regions.
+When Odium Splintered Dominion and Devotion, he trapped their power in the [[Cognitive Realm\|Cognitive Realm]] to prevent them from gaining another Vessel. Since, unlike in the [[Spiritual Realm\|Spiritual Realm]], location exists in the Cognitive Realm, the power of the two Shards is trapped together as a giant, polarized storm of [[Investiture\|Investiture]] known as the [[Dor\|Dor]], which makes [[Worldhopping\|worldhopping]] to Sel very dangerous.
+The existence of Dor has a profound effect on Sel, as rather than a single, planet-wide magic system, the planet has numerous ones, each making its home in a particular region, all influenced in some way by both Shards. An underlying similarity between all of them seems to be reliance on shape -- all forms of accessing the Dor are dependent on the user creating a specific shape, often based on the features of the land associated with a particular magic.
+This tie between the location and magic also means that the user's physical position in relation to the system's home region influences the strength of the magic, and moving further away from its origin point will diminish its effects. Furthermore, in order to access a magic system, it appears one must be from the land associated with it.
+Magic systems using the Dor include:
 
+**AonDor** - the magic of [[Arelon\|Arelon]] and surrounding area; the ability to draw symbols called [[Aon\|Aons]] in the air to produce a variety of magical effects. Aons can only be drawn by [[Elantrian\|Elantrians]], people raised to power and immortality through the city of [[Elantris (city)\|Elantris]].
+**ChayShan** - the magic of [[JinDo\|JinDo]]; through taking specific stances and forming specific motions with one's own body, the user can access Dor for increased strength, awareness, and possibly other effects.
+**Dakhor** - the magic of [[Fjordell\|Fjordell]]; through chants, the bones of a Dakhor monk are induced to change shape, which grants them abilities such as increased strength, bodily transformation, and even teleportation.
+**Forgery** - magic usable in the [[Rose Empire\|Rose Empire]], originating from [[MaiPon\|MaiPon]]; accesses Dor through creation of [[Soulstamp\|soulstamps]], which contain a specific shape that is then imparted onto an object, rewriting its [[Spiritual Realm\|Spiritual]] aspect to change its history and, through this, present behavior and appearance.
+**Bloodsealing** - another Rose Empire magic, originating in [[Dzhamar\|Dzhamar]]; using human blood, Bloodsealers can create wards and animate skeletons of the dead.
 ### Skaze
 For more information, see [[Skaze\|Skaze]].
 The [[Skaze\|skaze]] are [[Splinter\|splinters]] of Dominion, and consider Skai as something of a god or parent. The skaze are in some ways an inverse of the [[Seon\|seons]], though they assume similar shape and size -- round, about as large as a melon. Unlike seons, they are all black, seeming to suck light from their surroundings rather than emitting it. They also lack an [[Aon\|Aon]] in their center; rather, they are ringed by a pattern of misty symbols. They are reliant on humans, though it's unclear precisely how.
@@ -67,11 +70,13 @@ Following their destruction, the [[Investiture\|Investiture]] of Devotion and Do
 \-Hrathen[21]
 
 
-Though the two Shards of Sel weren't directly involved in the human civilizations of the planet, the discovery of their powers drove their development regardless. The magic systems they inspired were fundamental in the development of local writing systems and languages, and heavily impacted the local cultures. In the present times, this influence is most pervasive in the form of [[Shu-Dereth\|Shu-Dereth]], the state religion of [[Fjordell\|Fjordell]], though its god [[Jaddeth\|Jaddeth]] is also slightly inspired by [[Devotion\|Devotion]].
-Though it's unknown how much -- if anything -- of Dominion's original self remains, they continue to have magical effects on Sel. As [[Dor\|Dor]], they make the Selish [[Cognitive Realm\|Cognitive Realm]] exceptionally dangerous to travel through. Their [[Splinter\|splinters]], the [[Skaze\|skaze]], continue to have political power over Fjordell.
+Though the two [[Shard\|Shards]] of [[Sel\|Sel]] weren't directly involved in the human civilizations of the planet, the discovery of their powers drove their development regardless. The magic systems they inspired were fundamental in the development of local writing systems and languages, and heavily impacted the local cultures. In the present times, this influence is most pervasive in the form of [[Shu-Dereth\|Shu-Dereth]], the state religion of [[Fjordell\|Fjordell]], though its god [[Jaddeth\|Jaddeth]] is also slightly inspired by [[Devotion\|Devotion]].
+Though it's unknown how much -- if anything -- of Devotion and Dominion's original self remains, they continue to have magical effects on Sel. As [[Dor\|Dor]], they make the Selish [[Cognitive Realm\|Cognitive Realm]] exceptionally dangerous to travel through. Their [[Splinter\|splinters]], the [[Skaze\|skaze]], continue to have political power over Fjordell.
+During the [[True Desolation\|True Desolation]] on [[Roshar\|Roshar]], [[Harmony\|Harmony]] sends a letter to [[Hoid\|Hoid]], in which he expresses how troubled he is by Devotion's and Dominion's deaths, as he had not known that Shards could be [[Splinter\|Splintered]] in such a way.
 
 ## Trivia
 In *Magic: The Gathering* colors, Dominion would be black/white.
+Although Skai, and therefore Dominion, was often assumed to be male in the fandom, Brandon currently plans for Skai's pronouns to be she/her, though that is subject to change until canonized in a book.
 
 
 https://coppermind.net/wiki/Dominion

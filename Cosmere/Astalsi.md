@@ -1,10 +1,9 @@
 |**Astalsi**|
 |-|-|
 |**Type**|Religion|
-|**Era**|Classical Scadrial|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“* There were a group of people before the Ascension known as the Astalsi. They claimed that each person was born with a certain finite amount of ill luck. And so, when an unfortunate event happened, they thought themselves blessed—thereafter, their lives could only get better.*”
 \- Sazed preaching to Vin[1]

@@ -3,9 +3,9 @@
 |by  Elisgardor |
 |**Born**|Second Generation|
 |**Species**|[[Kandra\|Kandra]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*The Hero of Ages*|
 
 >“*Humans kill each other. Koloss kill each other. But they are both of Ruin. We are of Preservation, the chosen of the Father himself. We don’t kill one another!*”
 \-KanPaar during TenSoon's judgement.[1]
@@ -35,7 +35,7 @@
 ## Appearance and Personality
 KanPaar uses a tall [[True Body\|True Body]] made out of red crystal and keeps the rest of his body translucent. He has a thick accent, which is supposedly similar to that of the [[Lord Ruler\|Lord Ruler]].
 KanPaar is of the Second Generation, giving him authority just below that of the First Generation among the kandra. He is an administrator who spends almost all of his time in the [[Kandra Homeland\|Kandra Homeland]]. KanPaar believes that all the members of the Third Generation are miscreants, and that the Second Generation, including him, was mistaken in giving the Thirds too much freedom.
-KanPaar believes the [[First Contract\|First Contract]] forbids kandra from killing other kandra, thought the contract does not specifically says so. He is greedy, wanting to use the wealth of the [[Atium\|atium]] cache to rule mankind. He also refuses to believe that the world is ending, thinking that Ruin isn't really free.
+KanPaar believes the [[First Contract\|First Contract]] forbids kandra from killing other kandra, though the contract does not specifically say so. He is greedy, wanting to use the wealth of the [[Atium\|atium]] cache to rule mankind. He also refuses to believe that the world is ending, thinking that Ruin isn't really free.
 
 ## History
 >“*You aren’t here to defend yourself; this is not a trial—you have already admitted your guilt. This is a judgment. Explain your actions, then let the First Generation pronounce your fate!*”

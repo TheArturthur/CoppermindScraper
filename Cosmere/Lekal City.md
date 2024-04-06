@@ -1,10 +1,9 @@
 |**Lekal City**|
 |-|-|
-|**Dominance**|[[Southern Dominance\|Southern Dominance]]🐱︎|
-|**Nation**|[[Final Empire\|Final Empire]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**Dominance**|[[Southern Dominance\|Southern Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Lekal City** is a city in the [[Southern Dominance\|Southern Dominance]] of the [[Final Empire\|Final Empire]]. It lies on the [[River Channerel\|River Channerel]] and is downriver from [[Austrex\|Austrex]].
 

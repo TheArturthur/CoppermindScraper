@@ -2,9 +2,8 @@
 |-|-|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*Great Honor in you, Prince Adolin. Great Passion in me at this aid.*”
 \-Hrdalm[1]

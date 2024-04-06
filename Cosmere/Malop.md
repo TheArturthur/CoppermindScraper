@@ -2,11 +2,10 @@
 |-|-|
 |**Died**|[[Battle of the Tower\|Battle of the Tower]], Tanatashev 1173|
 |**Profession**|Bridgeman|
-|**Groups**|[[Bridge Four\|Bridge Four]]🐱︎, Sadeas army|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Malop** is a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
 

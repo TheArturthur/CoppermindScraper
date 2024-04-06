@@ -1,10 +1,9 @@
 |**Coolerim Playhouse**|
 |-|-|
 |**Usage**|Theater|
-|**City**|[[Elendel\|Elendel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Elendel\|Elendel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
 
 **The Coolerim Playhouse** is a well-known theater in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

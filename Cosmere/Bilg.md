@@ -3,9 +3,8 @@
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Groups**|[[Yeden\|Yeden's]] army Venture army|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Bilg** is a [[Skaa\|skaa]] on [[Scadrial\|Scadrial]] and a dissident member of both [[Yeden\|Yeden's]] army and [[Elend Venture\|Elend Venture's]] army.
 

@@ -3,10 +3,9 @@
 |by  Cerena Felt |
 |**Born**|~17 years before *Steelheart*|
 |**Aliases**|Mizzy|
-|**Groups**|[[Reckoners\|Reckoners]]🐱︎|
+|**Groups**|[[Reckoners\|Reckoners]]|
 |**Residence**|[[Babilar\|Babilar]]|
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
-|**Featured In**|*The Reckoners*|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 This page or section needs to be updated with new information for *Calamity*!Be aware that in its current state, it may not include all additional content yet.
 
 **Missouri Williams**, known as **Mizzy**, is a member of the [[Reckoners\|Reckoners]].

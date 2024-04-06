@@ -1,9 +1,8 @@
 |**Deathant**|
 |-|-|
 |**Type**|Insect|
-|**World**|[[First of the Sun\|First of the Sun]]|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Sixth of the Dusk*|
 
 **Deathants** are a form of insect native to the [[Pantheon\|Pantheon]] islands on [[First of the Sun\|First of the Sun]]. One bite from these yellow creatures is enough to kill a person, even though they are only as small as a pinhead.
 

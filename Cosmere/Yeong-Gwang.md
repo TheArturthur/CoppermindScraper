@@ -2,7 +2,6 @@
 |-|-|
 |**Type**|Spacecraft|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
-|**Featured In**|*Skyward (series)*|
 
 The *Yeong-Gwang* was a ship in the old fleet which carried humanity to [[Detritus\|Detritus]].
 The residents and descendants are known as **Yeongian**, and are mostly ethnically Chinese or Korean.

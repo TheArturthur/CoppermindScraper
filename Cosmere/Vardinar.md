@@ -1,11 +1,10 @@
 |**Vardinar**|
 |-|-|
-|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]🐱︎|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Vardinar** is a member of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 Vardinar came to know [[Kaladin\|Kaladin]] as a fellow soldier when Kaladin was investigating [[Azure\|Azure's]] activities during the [[Siege of Kholinar\|Siege of Kholinar]]. Vardinar is not mentioned as part of [[Noro\|Noro's]] squad, but he may have been in the same platoon, since Kaladin knows him by name.

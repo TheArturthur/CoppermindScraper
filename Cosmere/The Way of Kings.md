@@ -6,42 +6,55 @@
 |**Setting**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
 |**Released**|August 31, 2010|
 |**Publisher**||
-|**ISBN**|978-0765326355|
+|**ISBN**|978-0-7653-2635-5|
 |**Page Count**|1,008|
-|**Word Count**|384,265|
+|**Word Count**|[[The Way of Kings/Statistical analysis\|384,265]]|
 This article is about [[Brandon Sanderson\|Brandon Sanderson's]] novel. For the in-universe text, see [[The Way of Kings (in-world)\|The Way of Kings (in-world)]].
-*The Way of Kings* is an epic fantasy novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first volume in a planned ten volume series called *The Stormlight Archive*. Michael Whelan created the cover for the US edition. The cover of the international edition was created by Sam Green.
+*The Way of Kings* is an epic fantasy novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first volume in a planned ten volume series called [[The Stormlight Archive\|The Stormlight Archive]]. Michael Whelan created the cover for the US edition. The cover of the international edition was created by Sam Green.
 It has three main characters and several minor characters, many of whom are explored through Interludes.
 The Way of Kings also has a series of [[The Way of Kings/Epigraphs\|Epigraphs]], which give hints of foreshadowing and information about the [[Cosmere\|cosmere]].
 
 ## Contents
 
-1 Cover Synopsis
-2 Summary
+1 Synopsis
+2 Cover Flap
+3 Summary
 
-2.1 Kaladin
-2.2 Dalinar
-2.3 Shallan
-2.4 Szeth
-
-
-3 Magic System
-4 Cover Gallery
-5 Interior Art
-6 See Also
-7 Statistics
-8 Notes
+3.1 Kaladin
+3.2 Dalinar
+3.3 Shallan
+3.4 Szeth
 
 
-## Cover Synopsis
+4 Setting
+
+4.1 Magic System
+
+
+5 Cover Gallery
+6 Interior Art
+7 Translations
+8 See Also
+9 Statistical Analysis
+10 Notes
+
+
+## Synopsis
 *I long for the days before the Last Desolation.*
 *The age before the Heralds abandoned us and the Knights Radiant turned against us. A time when there was still magic in the world and honor in the hearts of men.*
 *The world became ours, and we lost it. Nothing, it appears, is more challenging to the souls of men than victory itself.*
 *Or was that victory an illusion all along? Did our enemies realize that the harder they fought, the stronger we resisted? Perhaps they saw that the heat and the hammer only make for a better grade of sword. But ignore the steel long enough, and it will eventually rust away.*
-*There are four whom we watch. The first is the surgeon, forced to put aside healing to become a soldier in the most brutal war of our time. The second is the assassin, a murderer who weeps as he kills. The third is the liar, a young woman who wears a scholar's mantle over the heart of a thief. The last is the highprince, a warlord whose eyes have opened to the past as his thirst for battle wanes.*
+*There are four whom we watch. The first is the surgeon, forced to put aside healing to become a soldier in the most brutal war of our time. The second is the assassin, a murderer who weeps as he kills. The third is the liar, a young woman who wears a scholar’s mantle over the heart of a thief. The last is the highprince, a warlord whose eyes have opened to the past as his thirst for battle wanes.*
 *The world can change. Surgebinding and Shardwielding can return; the magics of ancient days can become ours again. These four people are key.*
 *One of them may redeem us.*
 *And one of them will destroy us.*
+
+## Cover Flap
+Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.
+It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars are fought for them, and won by them.
+One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable.
+Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called *The Way of Kings*. Troubled by overpowering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity.
+Across the ocean, an untried young woman named Shallan seeks to train under the eminent scholar and notorious heretic Jasnah Kholin, Dalinar's niece. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war.
 
 ## Summary
 For a chapter by chapter summary, see [[The Way of Kings/Summary\|/Summary]].
@@ -49,7 +62,7 @@ The book is set on [[Roshar\|Roshar]] and follows the stories of [[Kaladin\|Kala
 
 ### Kaladin
 **Kaladin** is the focus character of the novel. At the beginning of his story, he is a squadleader in [[Amaram\|Amaram's]] army. His storyline then cuts to his time as a slave. He is sold to [[Shattered Plains\| Sadeas's warcamp]], where he is placed in [[Bridge Four\|Bridge Four]], and made to run headlong into enemy fire with the rest of his bridgecrew to give the army a way to cross the chasms as well as drawing enemy arrows away from troops. After a period of despair, Kaladin works to improve the life of his bridgecrew. He trains them so that the bridge runs won't tire them out so much, saves the lives of injured bridgemen, and slowly gets them to start caring again, and to see themselves as soldiers. Kaladin also plans to find a way to escape from Sadeas's army.
-Kaladin faces the internal struggles of his inability to save those around him and his distrust of any lighteyes, both of which are resolved with the climax of the novel.
+Kaladin faces the internal struggles of his inability to save those around him and his distrust of any lighteyes.
 As the focus character of *The Way of Kings*, Kaladin's past is viewed through the use of flashbacks. The flashbacks show his childhood and his surgeon apprenticeship under his father, as well as how he joins the army and why he became a slave.
 
 ### Dalinar
@@ -62,7 +75,8 @@ Following his brother [[Gavilar\|Gavilar's]] assassination, Dalinar took his las
 ### Szeth
 **Szeth'**s story is told through the Interludes. A [[Truthless\|Truthless]] of [[Shinovar\|Shinovar]], he is first introduced when he famously assassinates King Gavilar of [[Alethkar\|Alethkar]]. Known as the Assassin in White, he goes through several masters before getting orders to assassinate several high-ranking people by a mysterious master. Hating himself, he murders the people on his list until he gets to King [[Taravangian\|Taravangian]], who turns out to be the man holding his [[Oathstone\|oathstone]].
 
-## Magic System
+## Setting
+### Magic System
 Roshar has several magic systems. Most of these are used by the [[Knights Radiant\|Knights Radiant]] orders, with some of these powers including [[Soulcast\|Soulcasting]] and [[Surgebinding\|Surgebinding]]. Independent of the Radiant orders is the [[Old Magic\|Old Magic]].
 The [[Ten Essences\|Ten Essences]] have not been elaborated on much in the book, though they have something to do with Soulcasting.
 
@@ -70,12 +84,32 @@ The [[Ten Essences\|Ten Essences]] have not been elaborated on much in the book,
 For a cover gallery of The Way of Kings, see [[The Way of Kings/Covers\|/Covers]].
 ## Interior Art
 For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/Interior art]].
+## Translations
+|**Translations**|
+|-|-|
+|**Language**|**Title**|
+|**Dansk**|*En Konges Vej*|
+|**Español**|*El camino de los reyes*|
+|**Français**|*La Voie Des Rois*|
+|**Deutsch**|*Der Weg der Könige*|
+|*Der Pfad Der Winde* (The Path of Winds)|
+|**Italiano**|*La Via dei Re*|
+|**Polski**|*Droga królów*|
+|**Čeština**|*Cesta králů *|
+|**Türkçe**|*Krallarin Yolu*|
+|**فارسی**|*طریق شاهان*|
+|**עִבְֿרִית**|*דרך המלכים*|
+|**日本語**|白き暗殺者 (The White Assassin)|
+|死を呼ぶ嵐 (To Call the Storm of Death)|
+|自由への懸け橋 (Bridge of Freedom)|
+|****|
+
 ## See Also
 [[The Way of Kings/Epigraphs\|The Way of Kings/Epigraphs]]
 [[The Way of Kings/Headings\|The Way of Kings/Headings]]
 [[The Way of Kings/Covers\|The Way of Kings/Covers]]
 [[The Way of Kings/Interior art\|The Way of Kings/Interior art]]
-## Statistics
+## Statistical Analysis
 For a full statistical analysis, see [[The Way of Kings/Statistical analysis\|/Statistical analysis]].
 *The Way of Kings* consists of one prelude, one prologue, seventy-five chapters, ten of which are reserved for flashbacks of the focus character of the book, nine interludes and one epilogue, reaching a total 384,265 word count. There are seventeen different unique point-of-view characters in a total of 123 POVs, although twelve of these characters occupy a much shorter portion of the book than the other five.
 

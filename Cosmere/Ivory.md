@@ -4,9 +4,9 @@
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Elsecaller\|Elsecaller]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Jasnah\|Jasnah]]|
 |**Species**|[[Inkspren\|Inkspren]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -34,14 +34,14 @@ This page or section needs to be updated with new information for *Rhythm of Wa
 
 
 ## Appearance and Personality
- by  ToastSamurai  With [[Jasnah\|Jasnah]] as spren and as a Shardblade
+ by  Gar_leyva  [[Jasnah\|Jasnah]] and 
 For more images, see [[Ivory/Gallery\|/Gallery]].
 >“*Ivory, you think all humans are unstable.*”
 \-Jasnah[4]
 
 
-In the [[Physical Realm\|Physical Realm]], Ivory takes the shape of a well-dressed man. He wears a stiff, formal suit with a long coat. His features are extremely sharp and too angular to be human, with eyes that have no pupils. Both his clothing and features are inky-black with a prismatic sheen, like marble covered in oil. Ivory has a noble bearing, with stiff, commanding posture and a clipped voice. He is able to change his size but not his shape, except when manifesting as a [[Shardblade\|Shardblade]].
-As a Shardblade, Ivory is long and thin. In the [[Cognitive Realm\|Cognitive Realm]], he carries a sword of his own.
+In the [[Physical Realm\|Physical Realm]], Ivory takes the shape of a well-dressed man. He wears a stiff, formal suit with a long coat, and carries a sword. His features are extremely sharp and too angular to be human, with eyes that have no pupils. Both his clothing and features are inky-black with a prismatic sheen, like marble covered in oil. Ivory has a noble bearing, with stiff, commanding posture and a clipped voice. He is able to change his size but not his shape, except when manifesting as a [[Shardblade\|Shardblade]].
+As a Shardblade, Ivory is long and thin.
 Ivory holds Jasnah in very high regard, saluting her during their first interaction in the Cognitive Realm and admiring her logical nature. Although he is very devoted to her, offering her counsel and spying on people for her, he grows anxious if she talks about him to other people and does not like appearing in front of others. He is straightforward, both in speech and in gestures. Ivory has a rebellious streak, as evidenced in his bonding Jasnah against the other inksprens' wishes, and taking the contradictory name of Ivory as a symbol of defiance.
 
 ## Attributes and Abilities

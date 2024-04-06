@@ -1,7 +1,6 @@
 |**Wode Scroll**|
 |-|-|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
-|**Featured In**|*Perfect State*|
 
 >“* Your Majesty, I believe it necessary to inform you that the Wode Scroll has once again --*”
 \- A letter from Besk to Kairominas [1]

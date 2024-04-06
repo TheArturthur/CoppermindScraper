@@ -1,10 +1,11 @@
-|**Elendel**|
-|-|-|
-|by  Isaac Stewart |
-|**Region**|[[Elendel Basin\|Elendel Basin]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 2*|
+| **Elendel**       |                                  |
+| ----------------- | -------------------------------- |
+| by  Isaac Stewart |                                  |
+| **Region**        | [[Elendel Basin\|Elendel Basin]] |
+| **World**         | [[Scadrial\|Scadrial]]           |
+| **Universe**      | [[Cosmere\|Cosmere]]             |
+
+This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
 
 **Elendel** is the largest city in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]] and in the [[Cosmere\|cosmere]] at large. Named by The Lord Mistborn, [[Spook\|Spook]], for [[Elend Venture\|Elend Venture]], it is located at the mouth of the Irongate river where it flows into [[Hammondar Bay\|Hammondar Bay]]. Though no accurate estimate exists for population size, there are certainly millions of residents, and estimates top out at around five million.
 Elendel is also the central power in the Basin and is home to many noble houses.
@@ -38,6 +39,10 @@ Elendel is also the central power in the Basin and is home to many noble houses.
 
 
 3.2 Legislative
+
+3.2.1 Senate Members
+
+
 3.3 Judicial
 3.4 Checks and Balances
 3.5 Foreign Policy
@@ -62,10 +67,13 @@ At the center of the city is the Field of Rebirth, the location where the surviv
 [[Madion Ways\|Madion Ways]]
 [[Elendel University\|Elendel University]]
 ### Second Octant
-Governor's mansion
-Lestib Square
-Hammond Promenade
+
+
+[[Hammond Promenade\|Hammond Promenade]]
+[[National Archives\|National Archives]]
+[[First Insurance Bank\|First Insurance Bank]]
 , and [[House Tekiel\|House Tekiel]] in general
+
 ### Third Octant
 [[Ranette\|Ranette's]] house
 [[Rousseau's\|Rousseau's]] on Yomen street
@@ -80,6 +88,11 @@ Church of the Survivor
 Bourton district 
 Tindwyl Promenade
 [[ZoBell Tower\|ZoBell Tower]]
+The [[Drunken Spur\|Drunken Spur]]
+
+[[Dampmere Park\|Dampmere Park]]
+Feder Way Street
+Seventy-Third Street
 ### Fifth Octant
 [[Cett mansion\|Cett mansion]]
 [[Longard\|Longard]]
@@ -98,6 +111,7 @@ Inner seventh
 [[Marksman\|Marksman's]] hideout
 [[Linville %26 Lyons\|Linville & Lyons]]
 [[Metalurgistics Allied\|Metalurgistics Allied]]
+
 ### Eighth Octant
 ### Other Places
 [[Ahlstrom Tower\|Ahlstrom Tower]]
@@ -110,11 +124,11 @@ Inner seventh
 Precinct station at Fifteenth and Ruman streets, near the Vanishers' hideout
 
 ## History
-This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
 Immediately after the Catacendre, Spook became the leader of the entire known population of humanity as they started building the city of Elendel. He became known as the Lord Mistborn. Some version of the Senate was initiated during his rule, and official records state that after a century of leadership, one day he simply left.
 Since then, the current system of three-branch government settled into its current state.
 Around the year 342, civil unrest was growing in the city (aided, it turned out, by factions looking to destabilize the government). Governor Innate declared martial law and appointed a Lord High Constable, Aradel, who was one of the chief constables. At the culmination of the riots, during a political speech by the Governor that was completely failing to defuse the situation, Aradel used his authority to arrest Governor Innate on charges of corruption, and deputized the angry mob to help him go around the city arresting suspected co-conspirators. Though Innate hanged himself in his cell before he could face charges for his alleged crimes, many powerful nobles were found guilty. The population appeared to accept this as proof that the government was changing, and the Senate elected Aradel to be the new Governor, notably the first one ever without any noble lineage.
 Within a few years, Elendel found itself needing to defuse a possible civil war with surrounding cities which accused Elendel's government of unfair taxation to maintain its authority. While this was happening, the Basin learned of the existence of the Southern Scadrians. Formal first contact with them was conducted by Governor Aradel. As yet, it is unclear what impact this will have, either on Elendel's power in the region, or on the animosity the outer cities feel towards Elendel.
+
 
 ## Politics
 The government of Elendel is a democratic republic unitary government. Though it has little legal authority past civic borders, its financial hegemony makes the surrounding provinces almost powerless, leading to tension between them and the capital.
@@ -130,11 +144,25 @@ The forbearance gives him the right to act as a lawman, investigating crimes and
 
 
 There appears to be something of a dearth of people with metalborn traits among the constables. When a metalborn suspect was brought in, the Constable-General had to call in a Leecher from a different precinct. The Fourth Octant precinct only has two coinshots, and both were dubbed "contractors" by Marasi, who implies that such people are either paid a lot for their services, or are somehow loaned by a Noble House.
+In accordance with the Allomantic Agreement of '94, the use of Allomancy in certain circumstances is forbidden. The full text is unknown, but one provision criminalizes the use of rioters for commercial gain. This does not include hiring a Soother or Rioter for their services, thus being affected with express consent.
+There are entire departments dedicated to watching for violations of this agreement, thus, significant government resources are expended on the enforcement of this law.
 
+ by  Connor Chamberlain 
 ### Legislative
 The legislative branch of Elendel is bicameral in nature. Both houses, however, are comprised of politicians called Senators. There are mixed methods of appointment, some hereditary and some elected. One house is comprised entirely of Noble Houses. Whoever inherits any given High Noble title also inherits their vote in the Senate, although they can assign a proxy to do the actual voting. The other house is elected by the people, divided by profession via guilds (i.e., there is a seat for Orchard Growers, and one for Seamstresses, etc). Term limits and years of service are, at the moment, unknown. It is also unknown if the guild seats are weighted in some way to reflect number of constituents or importance towards the city. It is unknown what allows a group of workers to band together, declare themselves a guild, and gain a seat, or if some arrangement is made for people in niche industries that might not have a guild.
-It is known that a new title, and presumably an associated Senate seat, has to be ratified by a council with a quorum of the major house seats in the city, which phrasing begs the question, are there major and minor house seats?
+There are at least 243 senators as of 348 [[Catacendre\|PC]].
 
+
+[[Darlin Cett\|Darlin Cett]]
+[[Dupon Melstrom\|Dupon Melstrom]]
+[[Lady Faula\|Lady Faula]]
+[[Lady Gardre\|Lady Gardre]]
+[[Maraya\|Maraya]]
+[[Mari Hammondess\|Mari Hammondess]]
+[[Mi'chelle Yomen\|Mi'chelle Yomen]]
+[[Senator Vindel\|Senator Vindel]]
+[[Waxillium Ladrian\|Waxillium Ladrian]]
+[[Yancey Yaceczko\|Yancey Yaceczko]]
 ### Judicial
 A judicial system is known to exist, but little is known of the specifics, apart, notably, from its ability to assign capital punishment. Judges are appointed by the Governor; it's unknown if the decision needs to be ratified by any body. Most are noble.
 There is an office of prosecutors who try criminals. There may or may not also be a group of public defenders. One insider noted the flagrant corruption in the prosecutor's office. A case is assigned to the best solicitors if a wealthy patron promises monetary and political rewards for the right verdict, and cases which might be important to the city but lack a patron are ignored.
@@ -144,7 +172,9 @@ As yet, little is known about how the branches interact. There does seem to be b
 In addition, the Governor does have the ability to veto bills. How a bill is passed in the first place (presumably by the Senate) and what a veto entails is, as yet, unknown.
 
 ### Foreign Policy
-The lands of the Basin and the Roughs appear to operate as an Elendel Hegemony. The main city contains roughly half the population of the known world, and in size dwarfs even the largest other cities. The canals lead exclusively to and from Elendel, so all trade by water must be either to or through Elendel, or to one of the few cities along a single canal. The railroads have historically followed canals, so most train freight must also go through the capital city. Elendel imposes tariffs on all shipped goods, which results in the Houses and businesses in Elendel being the only ones with the funds to maintain and build railroads, which in turn means they get to keep all goods flowing through them. Actual laws passed by Elendel don't appear to have effect outside the city, and a constable's credentials appear to have less weight, but Elendel appears to rule the basin through finance.
+This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
+The lands of the Basin and the Roughs appear to operate as an Elendel Hegemony. The main city contains roughly half the population of the known world, and in size dwarfs even the largest other cities. The canals lead exclusively to and from Elendel, so all trade by water must be either to or through Elendel, or to one of the few cities along a single canal. The railroads have historically followed canals, so most train freight must also go through the capital city. Elendel imposes tariffs on all shipped goods, which results in the Houses and businesses in Elendel being the only ones with the funds to maintain and build railroads, which in turn means they get to keep all goods flowing through them. These tariffs and taxation policies lead to Elendel and its policies being very unpopular amongst the wider basin.
+Actual laws passed by Elendel don't appear to have effect outside the city, and a constable's credentials appear to have less weight, but Elendel appears to rule the basin through finance.
 As first contact with a foreign nation was just established, it's unknown what the Basin's broader foreign policy is going to end up being. The very first meeting happened to include a Senator, but the first official meeting seemed only to involve the Governor in any official capacity. A rough trade agreement has been hammered out, partially in the hopes of defusing potential hostilities.
 
 ## Notable Residents
@@ -162,4 +192,4 @@ For a full list see, see :Category:Residents of Elendel.
 
 
 
-https://coppermind.net/wiki/Elendel
+https://coppermind.net/wiki/Elendel_Senate

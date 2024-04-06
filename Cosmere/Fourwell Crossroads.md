@@ -1,9 +1,8 @@
 |**Fourwell Crossroads**|
 |-|-|
-|**City**|[[Luthadel\|Luthadel]]🐱︎|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**City**|[[Luthadel\|Luthadel]]|
+|**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 >“*[I] went to check on him a couple times, like you asked. You'll find him three streets west of the Fourwell Crossroads.*”
 \-Dockson to Kelsier on Camon[1]

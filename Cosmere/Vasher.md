@@ -2,16 +2,14 @@
 |-|-|
 |by  botanicaxu |
 |**Spouse**|[[Shashara\|Shashara]]|
-|**Abilities**|[[Returned\|Returned]]🐱︎, [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
 |**Titles**|Strifelover, Peacegiver the Blessed, Warbreaker the Peaceful|
 |**Aliases**|Zahel, Kalad the Usurper, Talaxin, Tax|
 |**Profession**|Scholar, [[Ardent\|Ardent]], Swordmaster|
-|**Groups**|[[Five Scholars\|Five Scholars]]🐱︎|
-|**World**|[[Nalthis\|Nalthis]]|
+|**Groups**|[[Five Scholars\|Five Scholars]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Warbreaker, The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+|**First Appeared**|*Warbreaker*|
 
 >“*I have trouble talking. I get frustrated. I snap at people. Doesn’t make me very popular. But I promise you that I won’t lie to you.*”
 \-Vasher to Vivenna[2]
@@ -68,7 +66,7 @@ On [[Roshar\|Roshar]] he also appears long-haired, and he wears a short but scru
 ### Returned
 For more information, see [[Returned\|Returned]].
 As a Returned, Vasher has a Divine [[Breath\|Breath]], making him automatically of the Fifth [[Heightening\|Heightening]]. However, over the years he has learned to give away all of his Breath except for the one Divine Breath that keeps him alive. As long as he has that one Breath (which he’s learned to suppress and hide), he can stay alive.
-On Roshar, he uses [[Stormlight\|Stormlight]] to keep himself alive. Though he cannot use it to [[Awakening\|Awaken]], he can still sense people. He can draw [[Investiture\|Investiture]] from [[Highstorm\|highstorms]], but doesn't have access to [[Surgebinding\|Surgebinding]]. The method he uses involves the gap in his [[Spiritweb\|Spiritweb]] left by his [[Divine Breath\|Divine Breath]].
+On Roshar, he uses [[Stormlight\|Stormlight]] to keep himself alive. Though he cannot use it to [[Awakening\|Awaken]], he can still sense people. He can draw [[Investiture\|Investiture]] from [[Highstorm\|highstorms]], but doesn't have access to [[Surgebinding\|Surgebinding]]. The method he uses involves the gap in his [[Spiritweb\|spiritweb]] left by his [[Divine Breath\|Divine Breath]].
 
 ### Awakening
 For more information, see [[Awakening\|Awakening]].
@@ -106,6 +104,8 @@ Vasher found through a priest there was a political Hallandren group pushing for
 He found Vivenna was inadvertently working with Denth to create disturbances and vandalize the city, which was making the movement for war stronger. Because of this, he kidnapped Vivenna and took her to one of the slums, where he forced her to take Nightblood to test her heart. As Nightblood cannot tempt the hearts of those who are pure, she felt sick and dropped the sword, thereby passing the test and gaining his protection. She still believed, however, that Denth and his team were on her side and ran back to them, only to find out they were not what they seemed. Vivenna ran from them and ended up on the streets; eventually, Vasher found her and rescued her, using Nightblood to kill thugs who were threatening her.
 Vasher began taking Vivenna to meetings with members of the Idrian community of Hallandren; he had been trying and failing to convince them to stop the riots and avoid the war. Vivenna asked the Idrians to find a way to bring attention to their suffering without bringing hatred as well, and to become heroes to Idris. After that, they continued reaching different groups of people with the same speech in favor of stopping the war.
 Vivenna shared some of [[Denth\|Denth's]] plans with Vasher. This knowledge tipped him into finding the daughter of one of the priests who was kidnapped to turn her father in favor of the war. During this rescue, Vasher lost his temper and killed the thugs.
+
+ by  Esther Schrader  Running through the God King's palace with [[Nightblood\|Nightblood]]
 Vivenna and Vasher went to the arena to watch the Hallandren vote on war. They found out that Siri was pregnant; at Vivenna's pleading, Vasher agreed to help save her. When he broke into the God King’s palace, he was ambushed by Denth’s mercenaries who captured him. When Vasher woke up, he was tied by his wrists to a hook in the ceiling of a stone room and tortured by Denth.
 Denth also had Nightblood thrown into a bay near T'Telir, but Nightblood was able to get himself retrieved; Vivenna found him and they went to find Vasher. Vivenna freed Vasher from his bonds and gave him a considerable amount of Breath. He began swordfighting Denth; he appeared to be losing, but was confident that he would be able to defeat Denth in the end. However, he ended up being thrown out the window before finishing the fight. Using Awakening, he survived and found Nightblood, which he used to kill a group of Lifeless that were sent to kill him. Nightblood consumed most of his Breath, but he was able to drop Nightblood before dying. Denth came in and asked to finish the duel. Vasher was at a disadvantage, but finished the battle using his secret maneuver: he transferred Breaths to Denth and took advantage of the resulting moment of shock to kill him.
 By the time Vasher found Vivenna again, the Pahn Kahl had already sent Hallandren’s Lifeless to attack Idris. They wanted both kingdoms to fight and be weakened, making it easier for them to gain their own liberty. Although Vasher felt hopeless about being able to stop the army, Vivenna found out Vasher's true identity and convinced him to give [[Susebron\|Susebron]] control of Kalad's Phantoms. Vasher showed himself as Returned and told Susebron how to activate the Phantoms.
@@ -139,8 +139,8 @@ She draws Nightblood at the [[Battle of Twilight Falls\|Battle of Twilight Falls
 \-Nightblood to Vasher[39]
 
 
-Vasher and Shashara create [[Nightblood\|Nightblood]] during the days when they are in love based on the [[Shardblade\|Shardblades]] they have seen on [[Roshar\|Roshar]]. He changes his name after using him to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.
-He doesn’t usually draw Nightblood; all Vasher has to do is throw him and let him do what he does. To Vasher, if someone can be controlled by Nightblood, then they must be guilty. Nightblood has less of an effect on Vasher.
+Vasher and Shashara create [[Nightblood\|Nightblood]] during the days when they are in love based on the [[Shardblade\|Shardblades]] they have seen on [[Roshar\|Roshar]]. He renames the sword to Nightblood after using him to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.
+Vasher does not usually unsheathe Nightblood; all Vasher has to do is throw him and let him do what he does. To Vasher, if someone can be controlled by Nightblood, then they must be guilty. Nightblood has less of an effect on Vasher.
 Nightblood can sense where Vasher is. This is because Nightblood has ingested and fed on Vasher’s Breaths in the past, which is also why he does not become sick when touching it. In Roshar, it is implied he still talks to Nightblood expecting an answer, though there hasn’t been an answer in years.
 
 ### Dalinar Kholin’s Family
@@ -158,6 +158,7 @@ Later still, after Kaladin has been relieved of duty due to his battle shock, he
 ## Trivia
 Vasher originated in *The Way of Kings Prime* and *Warbreaker* was created as a prequel for his appearance there.
 Vasher has not accomplished what he has Returned to do, nor has he had any real opportunity to.
+If he was alone with [[Wayne\|Wayne]] and [[Lopen\|Lopen]], it's likely that he'd end up punching Lopen first, since Wayne is capable of reading the room.
 
 
 https://coppermind.net/wiki/Vasher

@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Bartender|
 |**Residence**|[[Urithiru\|Urithiru]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I’ve seen your type, with that haunted look. You’ll get yourself drunk, then pick a fight. I don’t care what it is you want to forget; go find some other place to do it.*”
 \-Sullik to Veil when he cuts off her alcohol[1]

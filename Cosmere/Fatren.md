@@ -5,9 +5,8 @@
 |**Aliases**|Fats|
 |**Residence**|[[Vetitan\|Vetitan]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
 
 **Fatren** is a [[Skaa\|skaa]] from [[Vetitan\|Vetitan]] on [[Scadrial\|Scadrial]]. After the [[Collapse\|Collapse]], he organized his home town's citizens. He becomes a lord under Emperor [[Elend Venture\|Elend Venture]]. He thinks he "isn't much to look at" after the stress of months leading his city.
 

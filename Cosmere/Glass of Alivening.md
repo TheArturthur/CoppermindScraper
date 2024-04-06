@@ -1,8 +1,7 @@
 |**Glass of Alivening**|
 |-|-|
-|**Type**|[[Silimatic\|Silimatic]]🐱︎ glass|
-|**World**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**Featured In**|*Alcatraz Versus the Evil Librarians (series)*|
+|**Type**|[[Silimatic\|Silimatic]] glass|
+|**World of Origin**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 
 >“*Bringing an inanimate thing to life this way is evil. To do it, the Oculator has to give up a bit of his own humanity and store it in Glass of Alivening. That’s what those eyes are made of. Shoot it, Sing. If you hit it in the eye, you may be able to kill it.*”
 \-Bastille[1]

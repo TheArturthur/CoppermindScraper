@@ -6,9 +6,8 @@
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Jost** is a [[Darkeyes\|darkeyed]] man from [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] who grew up with [[Kaladin\|Kaladin]].
 

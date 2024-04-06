@@ -1,9 +1,8 @@
 |**Kabers**|
 |-|-|
 |**Type**|Game|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Kabers** is a card game on [[Roshar\|Roshar]] that involves wagering.
 [[Yalb\|Yalb]] played kabers with four guards outside of the [[Palanaeum\|Palanaeum]] in [[Kharbranth\|Kharbranth]] while waiting for [[Shallan Davar\|Shallan Davar]] to finish her meeting with [[Jasnah Kholin\|Jasnah Kholin]]. He won around eighty [[Sphere\|chips]] of various gemstones from the guards by cheating, despite the fact that they were watching him with suspicion.

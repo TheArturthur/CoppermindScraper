@@ -1,9 +1,8 @@
 |**Ward**|
 |-|-|
 |**Related to**|[[Vorinism\|Vorinism]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -12,11 +11,13 @@ Wards seem to be a concept limited to [[Vorin\|Vorin]] [[Lighteyes\|lighteyes]].
 The wardship can be broken off at any point by either the teacher or the ward, but formally it ends only when the teacher decides that her student has at least met the minimum requirements of professional scholarship.
 
 ## Known wards
-[[Shallan Davar\|Shallan Davar]] is a ward to [[Jasnah Kholin\|Jasnah Kholin]]. Numerous women attempted to become Jasnah's ward, with twelve applying in year 1173 alone. Shallan was the only one to convince Jasnah to accept her. The wardship continues even after Shallan becomes a [[Order of Lightweavers\|Lightweaver]].
+[[Shallan Davar\|Shallan Davar]] is a ward to [[Jasnah Kholin\|Jasnah Kholin]]. Numerous women attempted to become Jasnah's ward, with twelve applying in year 1173 alone. Shallan was the only one to convince Jasnah to accept her. The wardship continues even after Shallan becomes a [[Order of Lightweavers\|Lightweaver]] and finally ends eight months after her marriage to [[Adolin\|Adolin]].
 Jasnah had one other ward, long before Shallan. However, this went poorly, and the two eventually parted ways.
 [[Teshav Khal\|Teshav Khal]] has numerous wards, including two with senior status. In the course of her duties, she's always accompanied by at least one: there is one when she's meeting with [[Dalinar\|Dalinar]] in the warcamps; [[Teshav's ward\|one]] at the [[Battle of Narak\|Battle of Narak]]; two when speaking with [[Yanagawn\|Yanagawn]] via [[Spanreed\|spanreed]]; one when [[Tezim\|Tezim]] replies to Dalinar's missive; and one when [[Azimir\|Azimir]] threatens to destroy their [[Oathgate\|Oathgate]]. As the wards are never named, it's unclear how many are there, and which of the above are the same people. [[Janala Lustow\|Janala Lustow]] might be one of them.
 [[Litima\|Litima]] has a single ward who accompanies her when she reads a passage of [[The Way of Kings (in-world)\|The Way of Kings]] to [[Dalinar\|Dalinar]].
+[[Kalami\|Kalami]] has several wards who accompany her when the Sibling sends a spanreed to Navani to tell her that the Tower is getting invaded.
 [[Karavaniga\|Karavaniga]], granddaughter of king [[Taravangian\|Taravangian]], becomes a ward to an unknown scholar shortly after her grandfather becomes the king of [[Jah Keved\|Jah Keved]].
+[[Neshan\|Neshan]] has two wards. Both of the wards and Neshan themselves are killed in the beginning of the singer invasion of [[Urithiru\|Urithiru]].
 A number of wards are present during a feast on the [[Shattered Plains\|Shattered Plains]].
 [[Navani Kholin\|Navani Kholin]] doesn't have any wards of her own, but occasionally borrows some from other lighteyes in the warcamp.
 

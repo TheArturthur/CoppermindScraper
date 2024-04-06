@@ -3,9 +3,8 @@
 |by  Abigail Barker |
 |**Type**|Spren|
 |**Abilities**|[[Splinter\|Splinter]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -37,7 +36,7 @@ Luckspren have the appearance of tiny, blue, arrowhead-like fish that dart aroun
 Mandras are the spren who bond with greatshells, chasmfiends, and [[Larkin\|larkin]], preventing them from being crushed under their own weight. This was discovered by [[Bavamar\|Bavamar]] with mathematical calculations. Mandras from different locations can be different sizes and strengths, and a greatshell may need to return multiple times during their lifecycle to bond additional mandras so they can continue growing. Mandras seem to avoid the rules of physics and their wings are not the source of their locomotion. They can be pushed to exhaustion.
 
  by  Connor Chamberlain  Mandras flying around a [[Chasmfiend\|chasmfiend]]
-Mandras have a tendency to vanish, called "dropping". This is occurs when they get pulled into the Physical Realm. They cannot be removed from human population centres for long as they begin to waste away and die. Why this happens is unknown to the [[Lightspren\|lightspren]] who use them to pull their ships.
+Mandras have a tendency to vanish, called "dropping". This occurs when they get pulled into the Physical Realm. They cannot be removed from human population centres for long as they begin to waste away and die. Why this happens is unknown to the [[Lightspren\|lightspren]] who use them to pull their ships.
 Mandras are seen to be used in Shadesmar to pull ships by lightspren, [[Honorspren\|honorspren]], and most likely anyone other ship crew as every ship in Celebrant has them. They are harnessed with a set of pulleys on either side of their body. To steer them in either direction the sailors shorten one of the pulleys and tie it off on cleats connected to the sides of the ship. The Mandras hooked to the honorspren ship have golden harnesses and they employ more than just two, having Mandras attached to wings on the side of their ship.
 Because of Mandras' tendency to "drop" the sailors always employ at least two Mandras so they do not end up stranded. Once the ships have docked the Mandras are detached from the ship using long hooks and lead away. [[Adolin\|Adolin]] wonders if they are attached to the stern of the ship to pull them from the docks but given that Adolin is [[Alethi\|Alethi]], a people who are infamous for knowing little about sailing, this is to be taken with a grain of salt.
 Mandras do not seem to like fire. Their sailors try to control and move them away when [[Ico\|Ico's]] ship is burning.
@@ -47,4 +46,4 @@ Legends tell of luckspren leading to treasure.
 
 
 
-https://coppermind.net/wiki/Mandras
+https://coppermind.net/wiki/Mandra

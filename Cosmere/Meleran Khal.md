@@ -3,10 +3,10 @@
 |**Family**|
 |**Parents**|[[General Khal\|General Khal]], [[Teshav\|Teshav]]|
 |**Siblings**|[[Halam\|Halam]], [[Aratin\|Aratin]]|
+|**Relatives**|[[Idani\|Idani]] |
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 Captainlord **Meleran Khal** is the youngest son of [[General Khal\|General Khal]] and [[Teshav\|Teshav]].
 

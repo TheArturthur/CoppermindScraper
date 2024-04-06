@@ -1,9 +1,8 @@
 |**Dalewillow**|
 |-|-|
 |**Type**|Tree|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Dalewillow** is a species of tree on [[Roshar\|Roshar]].
 Dalewillows have stone bark and long fronds like streamers, which twist when blown in the wind.

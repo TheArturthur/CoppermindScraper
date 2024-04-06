@@ -2,9 +2,8 @@
 |-|-|
 |**Died**|c. Nanaches 1174|
 |**Residence**|[[Kholinar\|Kholinar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Tai** is one of [[Grund\|Grund's]] friends in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].
 

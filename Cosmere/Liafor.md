@@ -2,9 +2,8 @@
 |-|-|
 |by User: Otto didact|
 |**Ethnicity**|Liaforan|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“*I do think the coat is splendid, but I worry that the short cut might be trending out of fashion. What is the latest from Liafor?*”
 \-Torol Sadeas to Adolin on fashion[1]
@@ -63,4 +62,4 @@ Vorin Havah Folio Page by [[Dan dos Santos\|Dan dos Santos]]
 
 
 
-https://coppermind.net/wiki/Liaforan
+https://coppermind.net/wiki/Liafor

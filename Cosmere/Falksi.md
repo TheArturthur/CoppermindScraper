@@ -2,9 +2,8 @@
 |-|-|
 |**Profession**|Handmaiden|
 |**Ethnicity**|[[Azish\|Azish]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Falksi** is a darkeyed Azish woman on [[Roshar\|Roshar]].
 

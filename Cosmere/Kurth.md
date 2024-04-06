@@ -1,9 +1,8 @@
 |**Kurth**|
 |-|-|
 |**Nation**|[[Rira (country)\|Rira]]|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Kurth**, also known as the **City of Lightning**, is an island city in [[Rira (country)\|Rira]] on [[Roshar\|Roshar]]. It is the location of one of the ten [[Oathgate\|Oathgates]] that are connected to [[Urithiru\|Urithiru]].
 

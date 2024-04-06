@@ -3,10 +3,9 @@
 |**Ethnicity**|Svordish|
 |**Capital**|[[Seraven\|Seraven]]|
 |**Occupied by**|Fjorden|
-|**Region**|[[Opelon\|Opelon]]🐱︎|
-|**World**|[[Sel\|Sel]]🐱︎|
+|**Region**|[[Opelon\|Opelon]]|
+|**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
 
 >“*...the new aristocracy of Arelon, even more insecure than most nobles, felt a desire to prove its level of cultured refinement by associating with kingdoms such as Svorden, the cultural epicenter of the East.*”
 \-Hrathen's thoughts on post-Reod Arelon[1]
@@ -75,4 +74,4 @@ Jalla is the only person known to hail from Svorden. Notable visitors to Svorden
 
 
 
-https://coppermind.net/wiki/Svordish
+https://coppermind.net/wiki/Svorden

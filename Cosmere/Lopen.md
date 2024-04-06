@@ -3,17 +3,15 @@
 |by  Shuravf |
 |**Family**|
 |**Parents**|[[Lopen's mother\|Mother]]|
-|**Relatives**|[[Chilinko\|Chilinko]], [[Huio\|Huio]], [[Punio\|Punio]], [[Rod\|Rod]]|
+|**Relatives**|[[Chilinko\|Chilinko]], [[Huio\|Huio]], [[Punio\|Punio]], [[Rod (Roshar)\|Rod]]|
 |**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Rua\|Rua]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]]🐱︎ [[Bridge Four\|Bridge Four]]🐱︎, Sadeas army , Kholin army|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Herdazian\|Herdazian]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
-
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+|**First Appeared**|*The Way of Kings*|
 
 >“*I am the Lopen, which means I am ready for anything at any time. You should know this by now.*”
 \-Lopen to Moash[1]
@@ -65,6 +63,7 @@ For more images, see [[Lopen/Gallery\|/Gallery]].
 Like all Herdazians, Lopen has slate-colored crystalline fingernails. He is a short, spindly, brown-haired man in his early twenties, with skin just a shade too dark to be Alethi. He had an old slave brand on his forehead, but that is now covered with a Bridge Four tattoo. Most strikingly, when he joins Bridge Four he is missing his left arm, although he eventually regrows it with Stormlight.
 He speaks with a quick accent and has a tendency to use Herdazian words like *gon*, *gancho*, or *mancha* when referring to people he's talking to.
 Lopen has a very positive outlook in life. Despite experiencing great misfortunes, he never accepts these things as part of his identity, and even jokes about his disability. He is often nonchalant, exhibits the stereotypical Herdazian arrogance (e.g. calling himself "The Lopen" and liberally using rude gestures when insulted,) and has a sense of humor that people around him find strange. Even so, Lopen proves himself to be both compassionate and reliable.
+Lopen refers to himself as "The Lopen", this nickname was first used by his cousins because they didn't know of anyone else named Lopen. Lopen has asked many people (one to two hundred) and none of them have ever known anyone named Lopen other than himself.
 
 ## Attributes and Abilities
 ### Surgebinding
@@ -111,14 +110,15 @@ After [[Nikli\|Nikli's]] plot to sabotage the expedition was uncovered, Lopen an
 As the ship crossed through the storm surrounding [[Akinah\|Akinah]] Lopen remained on deck, using Stormlight to adhere the captain's foot to the deck for stability. Lopen dove into the water to rescue [[Turlm\|Turlm]] when he was tossed overboard. With [[Rua\|Rua's]] help, he was the first to notice a shadow in the depths that would turn out to be a large [[Sleepless\|hordeling]] following the ship.
 Once they landed on Akinah, Lopen and Rushu split from the main group to search for a sign of the Aimian [[Oathgate\|Oathgate]] - a task given to them by [[Navani\|Navani]]. Using Lashings to fly, Lopen identified the layout of ancient Akinah from above, giving Rushu proof that her sketches had been correct. A lack of crem buildup led both to conclude that the real city (and the real Oathgate) had been hidden underground by someone wishing to deter exploration. When they found the Oathgate chamber, Lopen realized that they had placed themselves in a compromised position and risked attack from whatever force wanted the island hidden.
 As he was racing back to the ship, Lopen ran into a giant hordeling and he rescued Huio from its jaws. The two proceeded to fight the creature together to give the crew a chance to escape. Lopen tried to swear the Third Ideal, but was unsuccessful, which caused him to ask Rua if [[Phendorana\|Phendorana]] had a hand in preventing his progress. He attempted another attack, but a hordeling bred to have the powers of a larkin drained away his Stormlight causing him to fall down to the ground and break his leg. When the monster turned towards him Huio flew between Lopen and the creature, swore the Third Ideal and proceeded to summon [[Caelinora\|Caelinora]] as a Shardhammer which he used to shatter the hordeling's arm. Shortly afterward, Huio killed it with a Shardspear through the head. The two escaped while Rysn's negotiation continued underground.
-Back at the ship, Lopen and Huio discussed the Third Ideal. Lopen congratulated his cousin on beating him to the ideal, although struggled to do so as he had an inkling that Huio's oath had been related to him and thought Huio might harbor ill will for him. Lopen took their discussion to heart and vowed to protect others, even if that meant protecting them from himself. The [[Stormfather\|Stormfather]] heard this and accepted Lopen's Third Ideal.
+Back at the ship, Lopen and Huio discussed the Third Ideal. Lopen congratulated his cousin on beating him to the ideal, although he struggled to do so as he had an inkling that Huio's oath had been related to him and thought Huio might harbor ill will for him. Lopen took their discussion to heart and vowed to protect others, even if that meant protecting them from himself. The [[Stormfather\|Stormfather]] heard this and accepted Lopen's Third Ideal.
 
 ### Emuli Campaign
 >“*...look into the future and find out if I beat Huio at cards tomorrow.*”
 \-Lopen to Renarin[41]
 
 
-The evening after Jasnah deposed Highprince Ruthar, [[Dalinar\|Dalinar]] and [[Renarin\|Renarin]] found themselves sitting at one of the [[Bridge Four\|Bridge Four]] nightly cook fires. As they both stood to leave, Lopen called out to Renarin and asks him to look into the future, and find out if he'll beat Huio in a game of cards the following day.
+Lopen participated in the evacuation of [[Hearthstone\|Hearthstone]] with his fellow Windrunners, engaging the [[Fused\|Fused]] in combat. He expressed worry for Kaladin's wellbeing on the battlefield, asking if he was alright. Following Kaladin's retirement, Lopen and a majority of the Bridge Four Windrunners joined Dalinar's forces on the battlefield in [[Emul\|Emul]].
+The evening after [[Jasnah\|Jasnah]] deposed Highprince Ruthar, [[Dalinar\|Dalinar]] and [[Renarin\|Renarin]] found themselves sitting at one of the [[Bridge Four\|Bridge Four]] nightly cook fires. As they both stood to leave, Lopen called out to Renarin and asks him to look into the future, wishing to know if he'll beat Huio in a game of cards the following day. Lopen later joined with the remaining members of Bridge Four to celebrate at [[Teft\|Teft's]] funeral.
 
 ## Relationships
 ### Mother
@@ -134,14 +134,14 @@ Lopen thinks highly of his mother, who encouraged his self-deprecating humor as 
 \-Lopen to Earless Jaks[18]
 
 
-Lopen is related in one way or another to a significant portion of the Herdazian population in the Alethi warcamps and often talks about his many cousins there. He often suggests going to one of his cousins for help, and is quite proud of their loyalty. However, his definition of "cousin" is very broad and could include fifth cousins, or people dating his sister or his aunt. In fact, Lopen's definition of a "cousin" seems to be broad enough to include anyone he feels kinship with, and has nothing to do with actual lineage. When he began earning a stipend as a Radiant, he sent most of it to his family to help out the poorer cousins, of which a large part went to [[Rod\|Rod's]] family.
+Lopen is related in one way or another to a significant portion of the Herdazian population in the Alethi warcamps and often talks about his many cousins there. He often suggests going to one of his cousins for help, and is quite proud of their loyalty. However, his definition of "cousin" is very broad and could include fifth cousins, or people dating his sister or his aunt. In fact, Lopen's definition of a "cousin" seems to be broad enough to include anyone he feels kinship with, and has nothing to do with actual lineage. When he began earning a stipend as a Radiant, he sent most of it to his family to help out the poorer cousins, of which a large part went to [[Rod (Roshar)\|Rod's]] family.
 The following are members of Lopen's extended family:
 
 
 [[Chilinko\|Chilinko]] - Uncle
 [[Huio\|Huio]] - Cousin
 [[Punio\|Punio]] - Cousin
-[[Rod\|Rod]] - Cousin
+[[Rod (Roshar)\|Rod]] - Cousin
 
 ### Huio
 Lopen shares a playfully antagonistic relationship with his cousin [[Huio\|Huio]]. Before assigning them to the expedition to Aimia, Kaladin remarks that he was counting on Huio to temper Lopen in their dealings with the Reshi delegation. After receiving the assignment, Lopen plans to go lord it over Huio that he *Lopen* had been chosen for the job, before relenting and sharing that Huio was also chosen. Where Huio is reserved and quiet, Lopen is effusive and flamboyant. Both are intelligent and thoughtful, but show it differently. At various points throughout the journey, Lopen makes it a point to try to keep one up on Huio. Huio does not seem particularly interested in making a game of it. At one point, Lopen idly notes that Huio's spren [[Caelinora\|Caelinora]] very infrequently makes herself visible to him.
@@ -165,41 +165,14 @@ Lopen's spren [[Rua\|Rua]] appears to be as carefree as he is, and perhaps more 
 
 ### Kaladin
 >“*If you’re crazy, you’re a good type, and I like you. Not a killing-people-in-their-sleep type of crazy. Besides, We all follow crazies all the time. Do it every day with lighteyes.*”
-\-Lopen to Kaladin, on whether he'd follow him to battle if he was crazy.[46]
+\-Lopen to Kaladin, on whether he'd follow him to battle if he was crazy.[49]
 
 
 Like other members of [[Bridge Four\|Bridge Four]], Lopen is loyal to their captain, [[Kaladin Stormblessed\|Kaladin Stormblessed]]. Lopen has been invaluable in many of Kaladin's undertakings, acquiring and handling resources necessary to Kaladin's plans, providing helpful insights often wrapped in his unique sense of humor, and simply being a trustworthy companion.
 Lopen's lighthearted attitude often contrasts with Kaladin's seriousness, and at times the Bridge Four captain does not know what to make of the Herdazian. Still, Kaladin has acknowledged Lopen's ability by promoting him to a leadership position just below that of [[Teft\|Teft]] when Lopen reached the Second Ideal of the Windrunners.
 
 ## Quotes
->“*Some of my cousins, they call me the Lopen because they haven't ever heard anyone else named that. I've asked around a lot, maybe one hundred...or two hundred...lots of people, sure. And nobody has heard of that name.*”
-\-Lopen introducing himself to Kaladin[5]
-
-
->“*Oh. Oh. Question for you! What did the one-armed Herdazian do to the man who stuck him to the wall?*
-\-Nothing. The Herdazian was 'armless.
-
-
->“*Ain’t nothing wrong with being a woman, gancho. Some of my relatives are women.*”
-\-Lopen to Kaladin[13]
-
-
->“*Life before death, strength before weakness, journey before pancakes*”
-\-Lopen misquoting the First Ideal of the Knights Radiant to an injured soldier[2]
-
-
->“*Well, sure. Technically it might be. But for the end of the world, it's not so bad, right? I figured that when everything ended, we’d sink into a noxious bath of pus and doom, breathing in agony as the air around us—sure—became molten, and we screamed a final burning scream, relishing the memories of the last time a woman loved us. Don’t know about you, moolie, but my lungs aren’t burning. The air doesn’t seem very molten. Considering how bad this could have gone, you’ve got a lot to be thankful for. Remember that.*”
-\-Lopen comforting a wounded man after the Battle of Thaylen Field[2]
-
-
->“*NOW? I was saving that for a dramatic moment, you penhito! Why didn't you listen earlier? We were, sure, all about to die and things!*”
-\-Lopen to the Stormfather, when he achieved the Second Ideal of the Windrunners shortly after the Battle of Thaylen Field[2]
-
-
->“*I'll do it, then. I've got to protect people, you know? Even from myself. Gotta rededicate to being the best Lopen possible. A better, improved, extra-incredible Lopen.*”
-\-Lopen swearing his version of the Windrunners' Third Ideal[48]
-
-
+For a list of quotes from Lopen, see [[Lopen/Quotes\|Lopen/Quotes]].
 ## Trivia
 Lopen is the name of [[Adam Horne\|Adam Horne's]] pet corgi.
 

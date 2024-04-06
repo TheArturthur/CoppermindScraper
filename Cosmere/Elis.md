@@ -1,10 +1,9 @@
 |**Elis**|
 |-|-|
 |**Ethnicity**|Elisian|
-|**Region**|[[Darkside\|Darkside]]🐱︎|
-|**World**|[[Taldain\|Taldain]]🐱︎|
+|**Region**|[[Darkside\|Darkside]]|
+|**World**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 The **Kingdom of Elis** is an independent nation on the [[Darkside\|Darkside]] of the planet [[Taldain\|Taldain]]. People from Elis are known as **Elisians**.
 

@@ -2,9 +2,8 @@
 |-|-|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Nationality**|[[Alethi\|Alethi]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 **Talanor** is an [[Alethi\|Alethi]] [[Shardbearer\|Shardbearer]] who fights on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]].
 

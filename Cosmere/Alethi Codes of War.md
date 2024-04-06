@@ -2,9 +2,8 @@
 |-|-|
 |by  Greg Call |
 |**Related to**|[[Alethkar\|Alethkar]]|
-|**World**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 The **Alethi Codes of War**, sometimes referred to as the **War Codes**, are a list of guidelines for [[Alethi\|Alethi]] soldiers on [[Roshar\|Roshar]] to follow in times of war.
 

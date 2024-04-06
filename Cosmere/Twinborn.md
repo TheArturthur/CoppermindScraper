@@ -1,15 +1,25 @@
 |**Twinborn**|
 |-|-|
 |**Related to**|[[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], [[Preservation\|Preservation]], [[Ruin\|Ruin]]|
-|**World**|[[Scadrial\|Scadrial]]🐱︎|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn*|
 This page or section needs to be updated with new information for *Shadows of Self*!Be aware that in its current state, it may not include all additional content yet.
 
 A **Twinborn** is a [[Metalborn\|Metalborn]] with at least one [[Allomantic\|Allomantic]] power and one [[Feruchemical\|Feruchemical]] power.
-Notable Twinborn included [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]], and [[Miles Dagouter\|Miles Dagouter]].
 Twinborn only began to appear after the [[Final Ascension\|Final Ascension]], due to the intermingling of the [[Terris\|Terris]] people with the other citizens of the [[Final Empire\|Final Empire]]. This mingling also had the effect of diluting Feruchemical power, creating [[Ferring\|Ferrings]]. The interaction of Feruchemy and [[Allomancy\|Allomancy]] in a single person allows for practical benefits of the power ([[Gold\|Bloodmakers]] healing in a time bubble, [[Coinshot\|Coinshots]] augmenting their weight with Feruchemical [[Iron\|iron]]), etc.
 It should be noted however, that it is difficult to be born a [[Allomancy\|Mistborn]] and full Feruchemist. This is due to fact that they share portions of the individual's "spiritual DNA", thus making a full manifestation of both abilities almost completely impossible. Whether this means someone can be born a full Mistborn and Ferring or full Feruchemist and Misting is yet to be determined.
+
+## Contents
+
+1 Compounding
+2 Classification
+
+2.1 Resonance
+
+
+3 Notable Twinborn
+4 Notes
+
 
 ## Compounding
 For more information, see [[Compounding\|Compounding]].
@@ -18,6 +28,18 @@ Compounding involves storing a Feruchemical attribute in a metalmind, then burni
 
 ## Classification
 Just as individuals with only one Allomantic or Feruchemical power have a special name (i.e. Coinshot, Archivist), each combination of Twinborn has one as well. At this time, only the combination of Crasher (Coinshot and Skimmer) is known in the books. However, [[Wayne\|Wayne]] claims to know the names for each of them. Excluding the [[God Metal\|God Metals]], which have faded into legends by the time of Wax and Wayne, this makes for a total of 256 possible combinations.
+
+### Resonance
+Twinborn, individuals who are both [[Ferring\|Ferrings]] and [[Misting\|Mistings]], also have resonances. [[Resonance\|Resonances]] are additional powers or effects gained by people with access to more than one [[Investiture\|Invested Art]]. This is described as the two powers combining to create an effect, implying that Twinborn resonances are not a new power all together.
+
+## Notable Twinborn
+For more information, see :Category:Twinborn.
+
+[[Waxillium Ladrian\|Waxillium Ladrian]]
+[[Wayne\|Wayne]]
+[[Miles Dagouter\|Miles Dagouter]]
+[[Rashek\|Rashek]]
+[[Forch\|Forch]]
 
 
 

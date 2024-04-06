@@ -3,9 +3,9 @@
 |**Abilities**|[[Splinter\|Splinter]] of [[Devotion\|Devotion]]|
 |**Bonded With**|[[Hrathen\|Hrathen]]|
 |**Species**|[[Seon\|Seon]]|
-|**World**|[[Sel\|Sel]]|
+|**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Elantris*|
+|**First Appeared**|*Elantris*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
 **Hrathen's seon** is a magical being on [[Sel\|Sel]] that is used by the [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]] for communication purposes.
 

@@ -1,13 +1,13 @@
 |**Davim**|
 |-|-|
 |**Abilities**|[[Regal\|Forms of Power]]|
-|**Groups**|[[Council of Five\|Council of Five]]🐱︎|
+|**Groups**|[[Council of Five\|Council of Five]]|
 |**Species**|[[Singer\|Singer]]|
 |**Residence**|[[Narak\|Narak]]|
 |**Nationality**|[[Listener\|Listener]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
+|**First Appeared**|*Words of Radiance*|
 
 >“* We must be unified in this decision. I will accept nothing else.*”
 \- Davim about taking on stormform[1]

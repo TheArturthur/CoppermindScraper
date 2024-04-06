@@ -1,9 +1,8 @@
 |**Abamabar**|
 |-|-|
-|**Era**|Heraldic Epochs|
-|**World**|[[Roshar\|Roshar]]🐱︎|
+|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 >“* I walked from Abamabar to Urithiru.*”
 \- Eighth Parable of The Way of Kings[1]

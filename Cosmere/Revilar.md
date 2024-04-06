@@ -2,9 +2,8 @@
 |-|-|
 |**Residence**|[[Valam princedom\|Valam princedom]]|
 |**Nationality**|[[Veden\|Veden]]|
-|**World**|[[Roshar\|Roshar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*The Stormlight Archive*|
 
 For the city, see [[Revolar\|Revolar]].
 **Revilar** is a prominent [[Lighteyes\|lighteyes]] from [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. He lives in [[Valam princedom\|Valam princedom]] and his lands border those of [[Lin Davar\|Lin Davar]]; the two men are rivals who compete for the favor of the highprince.

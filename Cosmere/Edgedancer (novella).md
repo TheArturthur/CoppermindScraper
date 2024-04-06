@@ -1,4 +1,4 @@
-|**<Edgedancer (novella)>**|
+|**<Edgedancer>**|
 |-|-|
 |by [[Isaac Stewart\|Isaac Stewart]], [[Ben McSweeney\|Ben McSweeney]]|
 |**The Stormlight Archive**|
@@ -6,27 +6,29 @@
 |**Precedes**|*Oathbringer *|
 |**Setting**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
 |**Released**|November 22, 2016|
+|**Publisher**||
+|**ISBN**|978-1-250-16654-8|
 |**Page Count**|272|
-|**Word Count**|51,324|
+|**Word Count**|[[Edgedancer (novella)/Statistical analysis\|40,660]]|
 
-This article deals with the novella featuring Lift. For the the Order of Knights Radiant, see [[Order of Edgedancers\|Order of Edgedancers]].
+This article deals with the novella featuring Lift. For the Order of Knights Radiant, see [[Order of Edgedancers\|Order of Edgedancers]].
 *Edgedancer* is a novella featuring [[Lift\|Lift]] originally published in *Arcanum Unbounded*. In the chronology, it largely takes place between [[Words of Radiance\|Words of Radiance]] and [[Oathbringer\|Oathbringer]].
 
 ## Contents
 
-1 Summary
-2 Plot Summary
+1 Synopsis
+2 Summary
 3 Postscript
 4 Development
 5 Cover Gallery
-6 Statistics
+6 Statistical Analysis
 7 Notes
 
 
-## Summary
+## Synopsis
 *Three years ago, Lift asked a goddess to stop her from growing older–a wish she believed was granted. Now, in *Edgedancer*, the barely teenage nascent Knight Radiant finds that time stands still for no one. Although the young Azish emperor granted her safe haven from an executioner she knows only as Darkness, court life is suffocating the free-spirited Lift, who can’t help heading to Yeddaw when she hears the relentless Darkness is there hunting people like her with budding powers. The downtrodden in Yeddaw have no champion, and Lift knows she must seize this awesome responsibility.*
 
-## Plot Summary
+## Summary
 For a chapter by chapter summary, see [[Edgedancer (novella)/Summary\|/Summary]].
 Lift travels with her spren [[Wyndle\|Wyndle]] to [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] from [[Azimir\|Azimir]] where her friend [[Gawx\|Gawx]] had recently been crowned emperor. Upon arriving at the city, she makes sure to display her [[Order of Edgedancers\|Edgedancer]] powers to the guards so that she can find [[Nale\|Darkness]]. She hopes to find and protect another [[Knights Radiant\|Radiant]] that she knows he's hunting in the city. She also has the goal of eating all ten varieties of pancakes that they make during the [[Weeping\|Weeping]].
 She finds an [[Tashi's Light Orphanage\|orphanage]] in order to get some food. It's run by an old lady referred to as the [[Stump\|Stump]] and haunted by a strange old philosopher. The Stump is cranky and cynical because many children come to her who have some sort of mental illness, and after they have been with her for a while, they are healed. She feels like she's constantly being scammed.
@@ -44,7 +46,7 @@ The first draft of *Edgedancer* was written during May 2016.
 
 ## Cover Gallery
 For a cover gallery of Edgedancer, see [[Edgedancer (novella)/Covers\|/Covers]].
-## Statistics
+## Statistical Analysis
 For a full statistical analysis, see [[Edgedancer (novella)/Statistical analysis\|/Statistical analysis]].
 *Edgedancer* consists of nineteen chapters from the PoV of Lift and one from the PoV of [[Hauka\|Hauka]], reaching a total 40,660 word count. The standalone version also includes Lift's interlude from *Words of Radiance*.
 

@@ -1,21 +1,21 @@
 |**Hammond**|
 |-|-|
-|by  Laura MacMahon |
+|by  Egilde Art |
 |**Family**|
 |**Spouse**|[[Mardra\|Mardra]]|
-|**Abilities**|Thug|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]🐱︎, Venture army|
+|**Abilities**|Pewterarm|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
-|**World**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*Mistborn Era 1*|
+|**First Appeared**|*Mistborn: The Final Empire*|
 
 >“*Well then, I've got quite a number of philosophical puzzles you might enjoy. . . .*”
 \-Ham[1]
 
 
-**Hammond** is a [[Skaa\|skaa]] [[Misting\|Misting]] on [[Scadrial\|Scadrial]]. He is a member of [[Kelsier\|Kelsier's]] crew who helped organize the [[Skaa rebellion\|rebellion's army of skaa]].
+**Hammond** is a [[Skaa\|skaa]] [[Pewter\|pewter]] [[Misting\|Misting]] (aka a [[Pewterarm\|Pewterarm]]) on [[Scadrial\|Scadrial]]. He is a member of [[Kelsier\|Kelsier's]] crew who helped organize the [[Skaa rebellion\|rebellion's army of skaa]].
 
 ## Contents
 
@@ -35,12 +35,12 @@
 4.5 Elend
 
 
-5 Quotes
-6 Trivia
-7 Notes
+5 Trivia
+6 Notes
 
 
 ## Appearance and Personality
+ by  Laura MacMahon 
 Ham is humble, long-winded, and kindly. He argues about the rightness of the fight they are in. He also shows attachment towards his crew and soldiers and wants to make sure there are greater plans for them.
 Ham usually appears content. He works to give his family a better life and dreams of moving with them to a city where they can live like noblemen. He wants a life without fear or division.
 He has very short hair, and always wears a loose shirt and vest, both sleeveless; however, when acting as General Hammond for Kelsier's army, he wears a uniform which he dislikes. He conditioned his support as General to Elend to stop using a uniform, so, he went back to his customary sleeveless vests.
@@ -54,8 +54,16 @@ As a General he might have been a bit of an anarchist at heart, but he could be 
 
 ## History
 Ham grew up in the streets of Luthadel. Son of two skaa parents and a noble grandparent. When he grew up he ran general security for jobs, providing his crewleader with manpower and warriors, assuming such are necessary.
+
+>“*You know I’ll join your crew no matter what the job. This sounds crazy, but so do most of your plans. Just...just tell me. Are you serious about overthrowing the Lord Ruler?*”
+\-Ham to Kelsier and the crew on joining the skaa rebellion[2]
+
 He joined Kelsier on his skaa rebellion, initially working for Yeden because of the promise of payment, including the Lord Ruler’s atium. His role was training the skaa army. He did so on secure caves away from Luthadel becoming General Hammond. He would leave the crew for months to train and inspect them, and made good progress with their skills.
 He was later replaced in the training camps by Yeden and sent back to Luthadel to work closer with Kelsier.
+
+>“*We may be friends, but when it comes to fighting, none of us would hesitate to kill the others.”*”
+\-Ham to Vin on the Garrison[5]
+
 He also trained [[Vin\|Vin]] in using Pewter. Through doing this he gained a friendship with Vin, who accompanied him when travelling to meet the Garrison in [[Luthadel\|Luthadel]] where they found that their army was exposed and they were marching to fight them. Ham was asked by the Garrison to join them, and Kelsier asked him to do so and be the inside guy, though Ham decided he would not betray them from the inside.
 After most the army was lost to the Garrison killing Yeden in battle and scattering the rest, the crew was ready to quit, but with the Lord Ruler executing random skaa in reprisal for the army creation, Kelsier rallied the team to push further and used the fact that the Garrison was out to strike directly into Luthadel.
 Ham was then tasked to bring the remaining troops into Luthadel and continue recruitment to join the rebellion. They would be trained in small packs without the knowledge of each other’s existence. He was successful at training this army as well.
@@ -93,17 +101,8 @@ Vin likes Ham, and he in return. He trains her on burning pewter and sparring. H
 ### Elend
 After the death of the Lord Ruler, Ham became Elend’s captain. He respected Elend but it took him some time to believe in his capabilities as a leader They befriended each other and Elend trusted him as a friend. Ham stood by Elend's side and encouraged him as he researched methods of keeping the throne.
 
-## Quotes
->“*You know I’ll join your crew no matter what the job. This sounds crazy, but so do most of your plans. Just...just tell me. Are you serious about overthrowing the Lord Ruler?*”
-\-Ham to Kelsier and the crew on joining the skaa Rebelion[2]
-
-
->“*We may be friends, but when it comes to fighting, none of us would hesitate to kill the others.”*”
-\-Ham to Vin on the Garrison[5]
-
-
 ## Trivia
 Brandon wishes he had written Ham as a woman, to better balance the gender ratio in the series and create an interesting world building dynamic by having on screen female Thugs.
 
 
-https://coppermind.net/wiki/Hammond
+https://coppermind.net/wiki/Ham

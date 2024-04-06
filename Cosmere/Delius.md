@@ -3,13 +3,12 @@
 |**Family**|
 |**Children**|[[Delius' son\|son]]|
 |**Titles**|[[Lord Admiral\|Lord Admiral]] (former)|
-|**Groups**|[[Taishin\|Taishin]]🐱︎ (former), [[Helm\|Helm]]|
+|**Groups**|[[Taishin\|Taishin]] (former), [[Helm\|Helm]]|
 |**Residence**|[[Kezare\|Kezare]]|
 |**Ethnicity**|[[Daysider\|Daysider]]|
 |**Nationality**|[[Lossandin\|Lossandin]]|
-|**World**|[[Taldain\|Taldain]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured In**|*White Sand*|
 
 **Delius** is a former [[Lord Admiral\|Lord Admiral]], the Taisha of the [[Helm\|Helm]], on the Dayside of [[Taldain\|Taldain]].
 
@@ -44,13 +43,13 @@ The Helm sent two messengers to visit his home in [[Kezare\|Kezare]] to attempt 
 >“*Delius. The only man in Lossand who could collapse drunk before the party even begins!*”
 \-Kenton to Khriss.[4]
 
-Delius invited Kenton and his "Darkside beauty", [[Khriss\|Khriss]], to a ball he was throwing in Kenton's honor. At the ball Delius shakily got up and, his speech slurred, announced that he would be voting for the Diem in the upcoming vote. As soon as he finished he promptly collapsed in a heap, stone drunk. Delius' son and some other aides helped him get back to a chair to recover. After he recovered he and his steward went to join Kenton and Khriss where they had taken seats outside by the fountain. Kenton introduced Delius to Khriss and the three of them discussed the differences between social life on Dayside compared to Darkside. When Kenton expressed his frustration with the other Taishin to Delius, he explained that it was likely due to the fact that the [[A'Kar\|A'Kar]] was planning on cutting off all trade between [[Kerzta\|Kerzta]] and Lossand if he won the Choosing in a few weeks time. However, it was rumored that the A'Kar would reconsider this position if Lossand would rid itself of the sand masters.
+Delius invited Kenton and his "Darkside beauty", [[Khriss\|Khriss]], to a ball he was throwing in Kenton's honor. At the ball Delius shakily got up and, his speech slurred, announced that he would be voting for the Diem in the upcoming vote. As soon as he finished he promptly collapsed in a heap, stone drunk. Delius' son and some other aides helped him get back to a chair to recover. After he recovered he and his steward went to join Kenton and Khriss where they had taken seats outside by the fountain. Kenton introduced Delius to Khriss and the three of them discussed the differences between social life on Dayside compared to Darkside. When Kenton expressed his frustration with the other Taishin to Delius, he explained that it was likely due to the fact that the [[A'kar\|A'kar]] was planning on cutting off all trade between [[Kerzta\|Kerzta]] and Lossand if he won the Choosing in a few weeks time. However, it was rumored that the A'kar would reconsider this position if Lossand would rid itself of the sand masters.
 
 >“*That man is more than just a drunken slob. Or at least he has the potential to be more.*”
 \-Khriss to Kenton.[6]
 
-Kenton expressed his surprise that Delius would vote for the Diem went it was very much against his Profession's best interests. Delius said that Kenton clearly does not know much about his position, and departed, telling them to eat as much as they want and to "waste" some wine for him.
-Later, back at the Diem, Kenton read through the Helm's charter and discovered what the position of Lord Admiral truly entailed. He discovered that the position possessed no true power, all of the Helm's power belonged to the Shipowners' Circle, and the position of Lord Admiral is merely a figurehead position. When the Circle selects a new Lord Admiral, an "honor" which he is unable to refuse, he forfeits all of his possessions and is forbidden from owning any property. All he is given is a house to live in, an unlimited food and drinks budget, and any ship when he wants it. He realized that Delius is as trapped as he is, and his extravagant lifestyle is merely a way to get back at the Circle for they did to him.
+Kenton expressed his surprise that Delius would vote for the Diem when it was very much against his Profession's best interests. Delius said that Kenton clearly does not know much about his position, and departed, telling them to eat as much as they want and to "waste" some wine for him.
+Later, back at the Diem, Kenton read through the Helm's charter and discovered what the position of Lord Admiral truly entailed. He discovered that the position possessed no true power, all of the Helm's power belonged to the Shipowners' Circle, and the position of Lord Admiral is merely a figurehead position. When the Circle selects a new Lord Admiral, an "honor" which he is unable to refuse, he forfeits all of his possessions and is forbidden from owning any property. All he is given is a house to live in, an unlimited food and drinks budget, and any ship when he wants it. He realized that Delius is as trapped as he is, and his extravagant lifestyle is merely a way to get back at the Circle for what they did to him.
 Later, when Kenton was trying to hire a ship to [[Lraezare\|Lraezare]] to find Vey and was being blocked by dockmaster [[NaiMeer\|NaiMeer]] who was not allowing him to set sail, Delius arrived with his steward to commandeer a ship for himself. He said to Kenton that, spontaeneously, he had decided to pay a visit to the Shipowners' Circle in Lraezare, and invited Kenton to join him on his trip. Kenton said that he was also going there, Delius remarked that it was a remarkable coincidence, and they set sail for Lraezare.
 
 >“*When you steal a man's fortune, give him a title mocked and reviled by the rest of the nation--and when you give him five years to contemplate his hatred--make sure you never give him a chance to get revenge.*”
