@@ -1,6 +1,7 @@
 from random import randrange
 from requests import get as req_get
 from bs4 import BeautifulSoup
+from os.path import basename, exists
 
 BASE_URL = "https://coppermind.net"
 URL = "https://coppermind.net/wiki/Cosmere"
@@ -35,6 +36,7 @@ def html_to_markdown(element):
     global done
     if done:
         return ""
+
     for child in element:
         if done:
             return markdown
@@ -42,11 +44,20 @@ def html_to_markdown(element):
 
     return markdown
 
+def __download_image__(element):
+    image_url = BASE_URL + element.contents[0]['src']
+    image_name = f"Cosmere/attachments/{basename(element['href'])}"
+
+    with open(image_name, 'wb') as f:
+        f.write(req_get(image_url).content)
+    
 
 def __element_a_to_markdown__(element):
     try:
-        if element["class"][0] in ["external", "extiw", "image"]:
+        if element["class"][0] in ["external", "extiw"]:
             return ""
+        elif element["class"][0] == "image":
+            __download_image__(element)
     except KeyError:
         pass
     return link_to_markdown(element)
@@ -74,7 +85,7 @@ def __element_span_to_markdown__(element):
 
 def __element_div_to_markdown__(element):
     try:
-        if element["class"][0] == "notice quality quality-partial stub":
+        if element["class"][0] in ["notice quality quality-partial stub", "thumb tright", "magnify"]:
             return ""
     except KeyError:
         pass  # or some other fallback action
@@ -125,18 +136,23 @@ def element_to_markdown(element):
             # print(f"{element.name} is not a match")
             return ""
 
-
 def link_to_markdown(a):
     ref = a.get("href")
     ref = str(ref)
+    if "File:" in ref:
+        if exists(f'Cosmere/attachments/{basename(ref)}'):
+            return f"![[attachments/{basename(ref)}]]"
+        else:
+            return a.text
+    
     if (
-        "File:" in ref
-        or "Artists" in ref
+        "Artists" in ref
         or "#" in ref
         or ":" in ref
         or "wikipedia" in ref
     ):
         return a.text
+    
     if "wiki" in ref:
         if BASE_URL + ref not in wiki_queue and BASE_URL + ref not in wiki_done:
             wiki_queue.append(BASE_URL + ref)
