@@ -44,13 +44,14 @@ def html_to_markdown(element):
 
     return markdown
 
+
 def __download_image__(element):
-    image_url = BASE_URL + element.contents[0]['src']
+    image_url = BASE_URL + element.contents[0]["src"]
     image_name = f"Cosmere/attachments/{basename(element['href'])}"
 
-    with open(image_name, 'wb') as f:
+    with open(image_name, "wb") as f:
         f.write(req_get(image_url).content)
-    
+
 
 def __element_a_to_markdown__(element):
     try:
@@ -85,8 +86,20 @@ def __element_span_to_markdown__(element):
 
 def __element_div_to_markdown__(element):
     try:
-        if element["class"][0] in ["notice quality quality-partial stub", "thumb tright", "magnify"]:
+        if element["class"][0] in [
+            "notice quality quality-partial stub",
+            "thumb tright",
+            "magnify",
+            "attribution",
+        ]:
             return ""
+        if element.get("id") is not None and element["id"] == "spoilers":
+            return f"> [!warning] {html_to_markdown(element)}"
+        if element["class"][0] == "notice-main-text" and not (
+            element.parent.get("id") is not None and element.parent["id"] == "spoilers"
+        ):
+            return f"> [!info] {html_to_markdown(element)}"
+
     except KeyError:
         pass  # or some other fallback action
     return html_to_markdown(element)
@@ -108,9 +121,9 @@ def element_to_markdown(element):
         case None:
             return element.text
         case "b" | "th":
-            return f"**{element.text}**"
+            return f"**{html_to_markdown(element)}**"
         case "em" | "i":
-            return f"*{element.text}*"
+            return f"*{html_to_markdown(element)}*"
         case "ul" | "li" | "td" | "p":
             return html_to_markdown(element)
         case "h3":
@@ -136,23 +149,19 @@ def element_to_markdown(element):
             # print(f"{element.name} is not a match")
             return ""
 
+
 def link_to_markdown(a):
     ref = a.get("href")
     ref = str(ref)
     if "File:" in ref:
-        if exists(f'Cosmere/attachments/{basename(ref)}'):
+        if exists(f"Cosmere/attachments/{basename(ref)}"):
             return f"![[attachments/{basename(ref)}]]"
         else:
             return a.text
-    
-    if (
-        "Artists" in ref
-        or "#" in ref
-        or ":" in ref
-        or "wikipedia" in ref
-    ):
+
+    if "Artists" in ref or "#" in ref or ":" in ref or "wikipedia" in ref:
         return a.text
-    
+
     if "wiki" in ref:
         if BASE_URL + ref not in wiki_queue and BASE_URL + ref not in wiki_done:
             wiki_queue.append(BASE_URL + ref)
