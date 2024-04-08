@@ -159,15 +159,36 @@ def element_to_markdown(element):
             # print(f"{element.name} is not a match")
             return ""
 
+
 def __parse_toc_indexes__(index: str, text: str):
-    levels = index.split('.')
-    last_index = index.split('.')[-1]
-    tabs = "\t"*(len(levels)-1)
-    return f"{tabs}{last_index}. [[{text.replace('_', ' ')}]] "
+    if match(r"\d(\.\d)*", index):
+        levels = index.split(".")
+        last_index = index.split(".")[-1]
+        tabs = "\t" * (len(levels) - 1)
+        return f"{tabs}{last_index}. [[{text.replace('_', ' ')}]] "
+    else:
+        return f"[[{text.replace('_', ' ')}]]"
+
+
+def __parse_wiki_links__(parent, text, ref):
+    if BASE_URL + ref not in wiki_queue and BASE_URL + ref not in wiki_done:
+        wiki_queue.append(BASE_URL + ref)
+        print("wiki_queue: " + BASE_URL + ref)
+
+    title = ref.replace("/wiki/", "").replace("_", " ").replace("%27", "'")
+
+    if (parent.get("class") is not None and parent["class"][0] == "thumbcaption") or (
+        parent.parent.get("class") is not None
+        and parent.parent["class"][0] == "thumbcaption"
+    ):
+        return f"<<{title}|{text}>>"
+    return f"[[{title}|{text}]]"
+
 
 def link_to_markdown(a):
     ref = a.get("href")
     ref = str(ref)
+
     if "File:" in ref:
         if exists(f"Cosmere/attachments/{basename(ref)}"):
             return f"![[attachments/{basename(ref)}]]"
@@ -176,29 +197,12 @@ def link_to_markdown(a):
 
     if "Artists" in ref or ":" in ref or "wikipedia" in ref:
         return a.text
-    
+
     if "#" in ref:
-        index = a.text.split(' ')[0]
-        if match(r"\d(\.\d)*", index):
-            return __parse_toc_indexes__(index, ref)
-        else:
-            return f"[[{ref.replace('_', ' ')}]]"
+        return __parse_toc_indexes__(a.text.split(".")[0], ref)
 
     if "wiki" in ref:
-        if BASE_URL + ref not in wiki_queue and BASE_URL + ref not in wiki_done:
-            wiki_queue.append(BASE_URL + ref)
-            print("wiki_queue: " + BASE_URL + ref)
-
-        title = ref.replace("/wiki/", "").replace("_", " ").replace("%27", "'")
-
-        if (
-            a.parent.get("class") is not None and a.parent["class"][0] == "thumbcaption"
-        ) or (
-            a.parent.parent.get("class") is not None
-            and a.parent.parent["class"][0] == "thumbcaption"
-        ):
-            return f"<<{title}|{a.text}>>"
-        return f"[[{title}|{a.text}]]"
+        return __parse_wiki_links__(a.parent, a.text, ref)
 
     return ""
 
