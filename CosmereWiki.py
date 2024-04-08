@@ -1,7 +1,8 @@
 from random import randrange
 from requests import get as req_get
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag as bs_tag
 from os.path import basename, exists
+from re import match
 
 BASE_URL = "https://coppermind.net"
 URL = "https://coppermind.net/wiki/Cosmere"
@@ -40,7 +41,10 @@ def html_to_markdown(element):
     for child in element:
         if done:
             return markdown
-        markdown += element_to_markdown(child)
+        if isinstance(child, bs_tag) and child.get("class") is not None and child["class"][0] == "thumbcaption" and match(r".*\[\[attachments/File:[\w\._]+\]\]\s*$", markdown):
+            markdown = markdown.replace("]]", f"|{element_to_markdown(child)}]] ")
+        else:
+            markdown += element_to_markdown(child)
 
     return markdown
 
@@ -169,7 +173,10 @@ def link_to_markdown(a):
 
         title = ref.replace("/wiki/", "").replace("_", " ").replace("%27", "'")
 
-        return f"[[{title}\|{a.text}]]"
+        if (a.parent.get("class") is not None and a.parent["class"][0] == "thumbcaption") or (a.parent.parent.get("class") is not None and a.parent.parent["class"][0] == "thumbcaption"):
+            return f"<<{title}|{a.text}>>"
+        return f"[[{title}|{a.text}]]"
+            
     return ""
 
 
@@ -178,7 +185,7 @@ if __name__ == "__main__":
     wiki_done = []
 
     while len(wiki_queue) > 0:
-        wiki_page = wiki_queue.pop(randrange(0, len(wiki_queue)))
+        wiki_page = wiki_queue.pop(0)#randrange(0, len(wiki_queue)))
         html_page = req_get(wiki_page)
         doc = BeautifulSoup(html_page.text, "html.parser")
         content = doc.find(class_="mw-parser-output")
