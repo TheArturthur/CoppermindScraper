@@ -46,7 +46,7 @@ def html_to_markdown(element):
             isinstance(child, bs_tag)
             and child.get("class") is not None
             and child["class"][0] == "thumbcaption"
-            and match(r".*\[\[attachments/File:[\w\._]+\]\]\s*$", markdown)
+            and match(r".*\[\[attachments/File:[\w\.]+\]\]\s*$", markdown)
         ):
             markdown = markdown.replace("]]", f"|{element_to_markdown(child)}]] ")
         else:
@@ -177,12 +177,12 @@ def __parse_wiki_links__(parent, text, ref):
 
     title = ref.replace("/wiki/", "").replace("_", " ").replace("%27", "'")
 
-    if (parent.get("class") is not None and parent["class"][0] == "thumbcaption") or (
-        parent.parent.get("class") is not None
-        and parent.parent["class"][0] == "thumbcaption"
-    ):
-        return f"<<{title}|{text}>>"
-    return f"[[{title}|{text}]]"
+    try:
+        if parent["class"][0] == "thumbcaption" or parent.parent["class"][0] == "thumbcaption":
+            return f"<<{title}\|{text}>>"
+    except KeyError:
+        pass
+    return f"[[{title}\|{text}]]"
 
 
 def link_to_markdown(a):
@@ -206,6 +206,19 @@ def link_to_markdown(a):
 
     return ""
 
+def __get_page_title__(document, page_name):
+    title = document.find(id="firstHeading").text
+    redirected = None
+    if '/' in title:
+        return title
+    
+    if title != page_name.replace('_',' ').replace('%27',"'"):
+        redirected = document.find(class_="mw-redirect").text
+    
+    if redirected is None or redirected == title:
+        return title
+    else:
+        return redirected
 
 if __name__ == "__main__":
     wiki_queue = [URL]
@@ -217,7 +230,8 @@ if __name__ == "__main__":
         doc = BeautifulSoup(html_page.text, "html.parser")
         content = doc.find(class_="mw-parser-output")
         if content is not None:
-            title = doc.find(id="firstHeading").text
+            title = __get_page_title__(doc, wiki_page.split('/')[-1])
+            
             if (
                 "File:" in title
                 or "Artists" in title
