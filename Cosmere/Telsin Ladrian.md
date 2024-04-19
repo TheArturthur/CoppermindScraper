@@ -1,66 +1,90 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Telsin Ladrian**|
 |-|-|
-|by  Laurys L |
-|**House Ladrian**|
-|**Siblings**|[[Waxillium Ladrian\|Waxillium Ladrian]]|
-|**Relatives**|[[Edwarn Ladrian\|Edwarn Ladrian]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
-|**Ancestors**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Vwafendal\|Vwafendal]]|
-|**Died**|348 [[Catacendre\|PC]]|
-|**Abilities**|Windwhisperer, [[Hemalurgy\|Hemalurgist]], Avatar of [[Autonomy\|Autonomy]]|
-|**Titles**|Sequence, Key, [[Trell (Trellism)\|Trell]]|
-|**Groups**|[[Set\|Set]]|
-|**Birthplace**|[[Elendel\|Elendel]]|
-|**Ethnicity**|[[Terris\|Terris]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Bands of Mourning*|
+||
+|**[[House Ladrian\|House Ladrian]]**|
+|**Hermanos**|[[Waxillium Ladrian\|Waxillium Ladrian]]|
+|**Parientes**|[[Edwarn Ladrian\|Edwarn Ladrian]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Ancestros**|[[Ashweather Cett\|Ashweather]], [[Madre de Allrianne\|Madre de Allrianne]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Vwafendal\|Vwafendal]]|
+|**Fallecido**|348 [[Catacendro\|PC]]|
+|**Capacidades**|[[Hemalurgia\|Hemalurgo]], Avatar de [[Autonom%C3%ADa\|Autonomía]], [[Feruquimia\|susurravientos]]|
+|**Títulos**|Secuencia, clave, [[Trell (trellismo)\|Trell]]|
+|**Grupo**|[[Set\|Set]]🐱︎|
+|**Lugar de nacimiento**|[[Elendel\|Elendel]]|
+|**Etnia**|[[De Terris\|de Terris]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Brazales de Duelo (libro)\|Brazales de Duelo]]*|
 
-This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Telsin Ladrian** is a member of House Ladrian and sister of [[Waxillium\|Waxillium]] on [[Scadrial\|Scadrial]]. She is a high-ranking member of the [[Set\|Set]] who is referred to by underlings as Lady Sequence, and eventually rose to the position of the Key.
+**Telsin Ladrian** es una miembro de la casa Ladrian y hermana de [[Waxillium\|Waxillium]] en [[Scadrial\|Scadrial]]. Es un miembro de alto rango de [[El Grupo\|el Grupo]] al que los subordinados se refieren como lady Secuencia, y con el tiempo llega al puesto de «clave».
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Youth
-3.2 The Set
-3.3 Avatar of Autonomy
-
-
-4 Notes
+3. [[#Juventud]] 
+3. [[#El Grupo]] 
+3. [[#Avatar de Autonom.C3.ADa]] 
 
 
-## Appearance and Personality
-Telsin is middle aged and has dark hair in curls and a rugged body. While living in the [[Village\|Village]] as a teen, she showed disdain for following rules. Waxillium describes her as duplicitous and manipulative, being good at hiding her true intentions and always being able to get what she wants.
-
- by  Howuld 
-## Attributes and Abilities
-Telsin is a [[Tin\|windwhisperer]] and can store her senses in a metalmind which she claims makes her immune to torture.
-Telsin is also a [[Hemalurgy\|Hemalurgist]], and originally had three spikes, granting her the power of a [[Steel\|Coinshot]], [[Gold\|Bloodmaker]], and [[Chromium\|Leecher]] respectively, due to the fact that having four or more Hemalurgic spikes would make her susceptible to Harmony's complete control. After the Set learned how to bypass this restriction, she gained another spike granting her the power of a [[Iron\|Lurcher]].
-
-## History
-### Youth
-Like her brother Wax, she lived in the Village for a time as a youth and was subject to their [[Edwarn Ladrian\|uncle's]] attempts to wrest their upbringing from their parents. When Wax left the Village after killing [[Forch\|Forch]], she did not leave at that time.
-She loved to draw, so her uncle kept an easel with a large pad of paper in [[Ladrian mansion\|Ladrian mansion]] for her use.
-Telsin and Wax were not close; they were practically strangers. Over the course of twenty years with very little contact between them, they both fell prey to laxity in their attempts to stay in touch. When Edwarn faked his own death in the carriage accident, he faked hers as well.
-
-### The Set
-Edwarn claims that she recruited him into the Set.
-Edwarn reveals to Wax that her death was also faked and that she is "safe."
-Wax comes to believe that his uncle is holding her captive. When he confronts him, he tells Wax that if he kills him, "your sister is as good as dead." Wax promises to address her kidnapping after dealing with [[Bleeder\|Bleeder]].
-
- by  Ben McSweeney 
-Wax finds Telsin under guard in a secret Set fortress in [[Dulsing\|Dulsing]]. Wax rescues her, and she acts as if she wants revenge on all the members of the Set. When the Set's [[Thug\|Thug]] enters the room, she immediately shoots him dead, blowing their cover and leading to a desperate escape on the skimmer.
-Telsin convinces Wax that they must go to the temple before Suit's expedition so that they can claim the [[Bands of Mourning\|Bands of Mourning]]. As they fly there, the skimmer flies over the group and Telsin "accidentally" causes [[Wayne\|Wayne]] to kick a pack overboard, hitting one of the guards and alerting them to their presence. This action, along with her quick shooting of the Thug (who would have revealed her true identity), causes Wax to suspect her.
-After encountering Suit and entering the temple, Telsin betrays Wax and shoots him three times before he can escape through a trap. She also incapacitates [[MeLaan\|MeLaan]], injecting her and taking her spikes. She was a member of the Set all along. Known as Lady Sequence, she outranks even Suit.
-After [[Marasi\|Marasi]] finds the Bands of Mourning and turns the tide of the encounter, Telsin attempts to escape on the skimmer. Wayne finds her and shoots her multiple times with a shotgun to avenge Wax's (temporary) death. He figures she has Hemalurgic health anyway, so he doesn't have much compunction about shooting her. After reclaiming the spikes she was carrying, he lets her go. Later, Wax finds the skimmer gone, indicating that she had escaped.
-
-### Avatar of Autonomy
-She eventually was chosen by Autonomy to become her Avatar.
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Telsin es de mediana edad y tiene el pelo oscuro en rizos y un cuerpo robusto. Mientras vivía en la Aldea cuando era adolescente, mostró desprecio por seguir las reglas. Waxillium la describe como una persona tramposa y manipuladora, que sabe ocultar sus verdaderas Intenciones y que siempre consigue lo que quiere.
 
-https://coppermind.net/wiki/Telsin_Ladrian
+ 
+## Atributos y habilidades
+Telsin es una [[Esta%C3%B1o\|susurravientos]] y puede almacenar sus sentidos en una mente de metal que ella dice que le hace inmune a la tortura.
+Es una [[Hemalurgia\|hemalurga]] con tres clavos, lo que le otorga el poder de un [[Acero\|lanzamonedas]], un [[Oro\|hacedor de sangre]] y una [[Cromo\|sanguijuela]] respectivamente, debido a que tener cuatro o más clavos hemalúrgicos la haría susceptible al control total de Armonía. Después de que el Grupo aprendiera a evitar esta restricción, consiguió otro clavo más que le proporcionaba el poder de un [[Hierro\|atraedor]]..
+
+## Historia
+### Juventud
+Al igual que su hermano Wax, vivió en la Aldea durante un tiempo en su juventud y fue objeto de los intentos de su [[Edwarn Ladrian\|tío]] de arrebatarles la educación a sus padres. Cuando Wax abandonó la Aldea después de matar a [[Forch\|Forch]], ella no se fue en ese momento.
+Le encantaba dibujar, por lo que su tío guardaba un caballete con un gran bloc de papel en la [[Mansi%C3%B3n Ladrian\|mansión Ladrian]] para que ella lo utilizara.
+Telsin y Wax no estaban unidos; eran prácticamente desconocidos. En el transcurso de veinte años con muy poco contacto entre ellos, ambos fueron presa de la laxitud en sus intentos por mantenerse en contacto. Cuando Edwarn fingió su propia muerte en el accidente de carruaje, también fingió la de ella.
+
+### El Grupo
+Edwarn afirma que ella lo reclutó para el Grupo.
+Edwarn revela a Wax que su muerte también fue fingida y que está "a salvo". 
+Wax llega a creer que su tío la tiene cautiva. Cuando se enfrenta a él, le dice a Wax que si lo mata, "tu hermana puede darse por muerta". Wax promete ocuparse de su secuestro después de tratar con [[Sangradora\|Sangradora]].
+
+ 
+Wax encuentra a Telsin bajo vigilancia en una fortaleza secreta del Grupo en [[Dulsing\|Dulsing]]. Wax la rescata y ella actúa como si quisiera vengarse de todos los miembros del Grupo. Cuando el [[Violento\|violento]] del Grupo entra en la habitación, ella lo mata inmediatamente de un disparo, haciendo añicos su tapadera y provocando una huida desesperada en el deslizador.
+Telsin convence a Wax de que deben ir al templo antes de la expedición de Conjunto para poder reclamar los [[Brazales de Duelo (in-world)\|Brazales de Duelo]]. Mientras vuelan hacia allí, el deslizador sobrevuela a el Grupo y Telsin provoca "accidentalmente" que [[Wayne\|Wayne]] patee un paquete por la borda, golpeando a uno de los guardias y alertando de su presencia.  Esta acción, junto con su rápido disparo al violento (que habría revelado su verdadera identidad), hace que Wax sospeche de ella.
+Tras encontrarse con Conjunto y entrar en el templo, Telsin traiciona a Wax y le dispara tres veces antes de que pueda escapar por una trampilla. También incapacita a [[MeLaan\|MeLaan]], inyectándola y tomando sus clavos. Siempre fue miembro del Grupo. Conocida como Lady Secuencia, está por encima incluso de Conjunto.
+Después de que [[Marasi\|Marasi]] encuentre los Brazales de Duelo y cambie las tornas del encuentro, Telsin intenta escapar en el deslizador. Wayne la encuentra y le dispara varias veces con una escopeta para vengar la muerte (temporal) de Wax. Se imagina que ella tiene salud hemalúrgica de todos modos, así que no tiene muchos reparos en dispararle. Después de recuperar los clavos que ella llevaba, la deja ir. Más tarde, Wax encuentra que el deslizador ha desaparecido, lo que indica que ella había escapado.
+
+### Avatar de Autonomía
+Fue elegida por Autonomía para convertirse en su Avatar.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · |
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Telsin_Ladrian

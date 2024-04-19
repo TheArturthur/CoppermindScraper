@@ -1,9 +1,10 @@
-**Huck** is a talking rat who was cursed by the [[Sorceress\|Sorceress]]. He later befriends [[Tress\|Tress]] on her quest to save [[Charlie\|Charlie]].
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+**Huck** es una rata parlante que fue maldecida por la [[Hechicera\|Hechicera]]. Más tarde se hace amigo de [[Trenza\|Trenza]] en su búsqueda para salvar a [[Charlie\|Charlie]].
 
-## Spoiler Warning
-The following link contains major spoilers for the whole of *Tress of the Emerald Sea*. Please be very sure you have either read the book or are happy to be spoiled on some major points of the story.
+## Aviso de spoiler
+El siguiente enlace contiene spoilers importantes de todo *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*. Por favor, asegúrate de haber leído el libro o de querer que te desvelen algunos puntos importantes de la historia.
 
-[[Charlie\|SPOILERS AHEAD]]
+[[Charlie\|SPOILERS ADELANTE]]
 
 
-https://coppermind.net/wiki/Huck
+https://es.coppermind.net/wiki/Huck

@@ -1,28 +1,28 @@
 |**Joel Saxon**|
 |-|-|
-|**Family**|
-|**Parents**|[[Trent Saxon\|Trent]], [[Mrs. Saxon\|Mrs. Saxon]]|
-|**Profession**|Student|
-|**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Familia**|
+|**Padres**|[[Trent Saxon\|Trent]], |
+|**Oficio**|Student|
+|**Residencia**|[[Academia Armedius\|Academia Armedius]]|
+|**Mundo natal**||
 
-**Joel Saxon** is a student at [[Armedius Academy\|Armedius Academy]].
-He is not a [[Rithmatics\|Rithmatist]], but enjoys studying Rithmatics, and excels at mathematics. He is a fantastic line/circle drawer, even though he does not possess the magic properties needed to be a Rithmatist.
+**Joel Saxon** is a student at .
+He is not a , but enjoys studying Rithmatics, and excels at mathematics. He is a fantastic line/circle drawer, even though he does not possess the magic properties needed to be a Rithmatist.
 Joel is believed to be the only non-Rithmatist ever to encounter a [[Shadowblaze\|Shadowblaze]]. with possible exceptions from before [[Gregory III\|Gregory III]] began the current Rithmatics tradition.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2.1 Student at Armedius
-2.2 Research Assistant to Fitch
-2.3 Investigating the Kidnappings
-2.4 The Scribbler
-2.5 Aftermath
+2. [[#Student at Armedius]] 
+2. [[#Research Assistant to Fitch]] 
+2. [[#Investigating the Kidnappings]] 
+2. [[#The Scribbler]] 
+2. [[#Aftermath]] 
 
 
-3 Notes
+3 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -36,7 +36,7 @@ Joel has lived at Armedius Academy his whole life. He grew up there due to his f
 >“*No son, I can’t agree to this. Too unconventional. I have already caused enough trouble. I’m sorry, son.*”
 \-Professor Fitch denying Joel’s request to study under him[7]
 
-Joel was sneaking into a Rithmatist lecture from [[Fitch\|Professor Fitch]] when [[Andrew Nalizar\|Andrew Nalizar]] showed up to challenge Fitch. Fitch was beaten by Nalizar and subsequently demoted Joel had to decide on a summer elective. Joel heard that [[Lilly Whiting\|Lilly Whiting]], a Rithmatist student, is missing, and he sees a federal inspector on campus. Joel asked [[Davis\|another student]] he knew about spending the holidays with him as usual, but Davis told him he’s spending the holidays with a group of rich, popular students. Joel decided to try and get a summer elective studying Rithmatics under Professor Fitch. Joel asked Fitch, who said it wasn’t possible, and gently denied his request. Desperate to join Fitch’s class, Joel decided to purposefully fail his Rithmatic history exam, in hopes that he might be assigned to remedial tutoring with Professor Fitch. After failing it, Joel was sent to [[Thomas York\|the principal’s]] office. Once the principal made it clear that he intended to expel him, Joel confessed why he did it, and York compromised that if Joel passed his history test, he could be assigned to Fitch as a research assistant on a special project. Joel went back to class, and was allowed to redo his test, which he passed.
+Joel was sneaking into a Rithmatist lecture from [[Fitch\|Professor Fitch]] when [[Andrew Nalizar\|Andrew Nalizar]] showed up to challenge Fitch. Fitch was beaten by Nalizar and subsequently demoted Joel had to decide on a . Joel heard that [[Lilly Whiting\|Lilly Whiting]], a Rithmatist student, is missing, and he sees a federal inspector on campus. Joel asked [[Davis\|another student]] he knew about spending the holidays with him as usual, but Davis told him he’s spending the holidays with a group of rich, popular students. Joel decided to try and get a summer elective studying Rithmatics under Professor Fitch. Joel asked Fitch, who said it wasn’t possible, and gently denied his request. Desperate to join Fitch’s class, Joel decided to purposefully fail his Rithmatic history exam, in hopes that he might be assigned to remedial tutoring with Professor Fitch. After failing it, Joel was sent to [[Thomas York\|the principal’s]] office. Once the principal made it clear that he intended to expel him, Joel confessed why he did it, and York compromised that if Joel passed his history test, he could be assigned to Fitch as a research assistant on a special project. Joel went back to class, and was allowed to redo his test, which he passed.
 
 ### Research Assistant to Fitch
 >“*No, it’s perfect. I… Coming in here feels like home.*”
@@ -63,7 +63,7 @@ Parents of Rithmatist students started pulling out their kids, and Harding initi
 >“*That was when he saw it. A symbol, written in chalk on the brick wall. A looping swirl. The Rithmatic line they still hadn’t been able to identify. The night was strangely quiet.*”
 \-Joel noticing the Line of Silencing[23]
 
-The night before his inception, Joel heard something outside and saw the mysterious Rithmatic symbol on his wall. He realized that Scribbler has come for him, and runs for it. He tried to scream, but discovers that the mysterious line was a Line of Silencing, which rendered him unable to call for help. He managed to escape to Exton’s quarters, using a clockwork coin Melody gave him to deter the chalklings. Exton used his poor Rithmatic abilities to box himself in, and Joel ran for help. he made it to Harding’s men, who melted the chalklings with acid. The next day, Harding arrested Exton, saying that there was irrefutable evidence in Exton’s quarters. Joel attended his inception ceremony. Inside the chamber, he saw a [[Shadowblaze\|strange chalkling]]. Joel touched it and it fled. When he emerged from the chamber of inception, he was not a Rithmastist.
+The night before his inception, Joel heard something outside and saw the mysterious Rithmatic symbol on his wall. He realized that Scribbler has come for him, and runs for it. He tried to scream, but discovers that the mysterious line was a , which rendered him unable to call for help. He managed to escape to Exton’s quarters, using a clockwork coin Melody gave him to deter the chalklings. Exton used his poor Rithmatic abilities to box himself in, and Joel ran for help. he made it to Harding’s men, who melted the chalklings with acid. The next day, Harding arrested Exton, saying that there was irrefutable evidence in Exton’s quarters. Joel attended his inception ceremony. Inside the chamber, he saw a [[Shadowblaze\|strange chalkling]]. Joel touched it and it fled. When he emerged from the chamber of inception, he was not a Rithmastist.
 
 ### The Scribbler
 >“*Oh dusts, oh dusts, oh dusts. We’re doomed. We’re going to die.*”
@@ -73,15 +73,24 @@ The night before his inception, Joel heard something outside and saw the mysteri
 >“*A creature of Nebrask. They lead the wild Chalklings. But… how did one get all the way here? And attached to Harding! I wasn’t aware that was possible. This is dire, Joel.*”
 \-Professor Fitch to Joel[25]
 
-That night, Joel and Melody found Harding’s men unconscious. Joel realized that the Scribbler was attacking one off the school buildings, and rushed inside while Melody went for help. Joel found Nalizar inside. Joel splashed him in the face with acid, and Nalziar trapped him in a box of Lines of Forbiddance. Harding appeared, revealing himself as the Scribbler. Harding and Nalizar dueled, but Nalizar lost and was knocked unconscious. Melody and Fitch arrived, Melody freeing Joel. Fitch and Harding dueled furiously, and Fitch eventually won. Joel threw a bucket of acid on Harding, which got rid of the [[Forgotten\|Forgotten]] that was possessing him. The wild chalklings then turned into the missing victims of the Scribbler, both those taken at Nebrask and at Harding’s kidnappings.
+That night, Joel and Melody found Harding’s men unconscious. Joel realized that the Scribbler was attacking one off the school buildings, and rushed inside while Melody went for help. Joel found Nalizar inside. Joel splashed him in the face with acid, and Nalziar trapped him in a box of Lines of Forbiddance. Harding appeared, revealing himself as the Scribbler. Harding and Nalizar dueled, but Nalizar lost and was knocked unconscious. Melody and Fitch arrived, Melody freeing Joel. Fitch and Harding dueled furiously, and Fitch eventually won. Joel threw a bucket of acid on Harding, which got rid of the  that was possessing him. The wild chalklings then turned into the missing victims of the Scribbler, both those taken at Nebrask and at Harding’s kidnappings.
 
 ### Aftermath
 >“*If we go out, we go out dramatically! Nine-pointer!*”
 \-Melody to Joel at the start of the Melee[4]
 
 
-Joel confronted Nalizar on the day of the [[Melee\|Melee]], and Nalizar heavily hinted that he is a Forgotten, and that nobody would believe Joel now. Joel realized that Nalizar will use his elite student team to win the Melee and gain important positions at Nebrask, so that he can sabotage things there. In a move that was technically legal, Joel signed up to be on Melody’s team for the melee. They worked together as a team during the melee, Joel drawing lines with his chalk and Melody tracing them with hers. With both Joel’s mastery of Rithmatic defenses and Melody’s skill with chalklings, they won the melee, defeating Nalizar’s students.
+Joel confronted Nalizar on the day of the , and Nalizar heavily hinted that he is a Forgotten, and that nobody would believe Joel now. Joel realized that Nalizar will use his elite student team to win the Melee and gain important positions at Nebrask, so that he can sabotage things there. In a move that was technically legal, Joel signed up to be on Melody’s team for the melee. They worked together as a team during the melee, Joel drawing lines with his chalk and Melody tracing them with hers. With both Joel’s mastery of Rithmatic defenses and Melody’s skill with chalklings, they won the melee, defeating Nalizar’s students.
+
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El rithmatista\|El rithmatista]]**|
+|-|-|
+|**Characters**| · [[Melody Muns\|Melody Muns]] · [[Fitch\|Professor Fitch]] · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
+|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
+|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
 
 
 
-https://coppermind.net/wiki/Joel_Saxon
+https://es.coppermind.net/wiki/Joel_Saxon

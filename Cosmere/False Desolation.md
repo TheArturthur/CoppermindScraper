@@ -1,66 +1,90 @@
-|**False Desolation**|
+
+
+|**Falsa Desolación**|
 |-|-|
-|**Participants**|[[Knights Radiant\|Knights Radiant]], [[Singer\|Singers]], [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]|
-|**Effects**|Enslavement of singers, Ba-Ado-Mishram's imprisonment|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Participantes**|[[Caballeros Radiantes\|Caballeros Radiantes]], [[Cantor\|Cantores]], [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]|
+|**Efectos**|Esclavización de los cantores, encarcelamiento de Ba-Ado-Mishram|
+|**Mundo**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“* A legend. Considered pseudohistorical. Dovcanti wrote an epic about it somewhere around fifteen hundred years ago. The claim is that some Voidbringers survived Aharietiam, and there were many clashes with them afterward. It's considered unreliable, but that’s because many later ardents insist that no Voidbringers could have survived. I'm inclined to assume this is a clash with parshmen before they were somehow deprived of their ability to change forms.*”
-\- Jasnah Kholin on the False Desolation.[1]
-
-
-The **False Desolation**, considered pseudohistorical by the [[Vorin\|Vorin]] church, was a conflict between [[Singers\|singers]] and humans sometime during the millenia after the [[Last Desolation\|Last Desolation]]. It is likely the conflict in which the [[Knights Radiant\|Knights Radiant]] were fighting at the time of the [[Recreance\|Recreance]], according to [[Jasnah Kholin\|Jasnah Kholin]]. It resulted in the enslavement of singers as [[Parshmen\|parshmen]].
-
-## Contents
-
-1 Background
-2 Ba-Ado-Mishram and a New Desolation
-3 The Strike Team
-4 Aftermath and Legacy
-5 See Also
-6 Notes
+>“* Es una leyenda. Se considera pseudohistórica. Dovcandi escribió una epopeya al respecto hará como milenio y medio. Se basa en que algunos Portadores del Vacío sobrevivieron a Aharietiam y hubo muchos enfrentamientos posteriores con ellos. No se le atribuye mucha fiabilidad, pero es porque muchos [[Fervoroso\|fervorosos]] posteriores se empeñaron en que era imposible que sobreviviera algún Portador del Vacío. Yo me inclino a pensar que esto es un encontronazo con parshmenios antes de que, de algún modo, se los privara de su capacidad de cambiar de forma.*”
+\- Jasnah Kholin sobre la Falsa Desolación.[1]
 
 
-## Background
->“* Something must be done about the remnants of Odium's forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
-\- Drawer 30-20, first emerald[3]
+La **Falsa Desolación**, considerada como pseudohistórica por la iglesia [[Vorin\|vorin]], fue un conflicto entre [[Cantor\|cantores]] y humanos que tuvo lugar en algún momento durante los milenios siguientes a la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]]. Es probable que sea el conflicto en el que estaban implicados los [[Caballeros Radiantes\|Caballeros Radiantes]] en el momento de la [[Traici%C3%B3n\|Traición]], según [[Jasnah Kholin\|Jasnah Kholin]]. Tuvo como resultado la esclavización de los cantores como [[Parshmenio\|parshmenios]].
+
+## Sumario
+
+1 Trasfondo. [[#Trasfondo]] 
+2 Ba Ado-Mishram y una nueva Desolación. [[#Ba Ado-Mishram y una nueva Desolaci.C3.B3n]] 
+3 El equipo de asalto. [[#El equipo de asalto]] 
+4 Consecuencias y legado. [[#Consecuencias y legado]] 
+5 Ver también. [[#Ver tambi.C3.A9n]] 
+6 Notas. [[#Notas]] 
 
 
-The precise date of the False Desolation’s onset is unclear, but when [[Dalinar Kholin\|Dalinar Kholin]] showed Jasnah and [[Navani Kholin\|Navani Kholin]] a vision of the [[Recreance\|Recreance]], Jasnah postulated the Radiants were fighting in the legendary False Desolation. If correct, the False Desolation occurred around the same time as the Recreance--about 2,000 years prior to the present day, or 2,500 years after [[Aharietiam\|Aharietiam]], the Last Desolation.
-
-## Ba-Ado-Mishram and a New Desolation
->“* Ba-Ado-Mishram has somehow Connected with the parsh people, as Odium once did. She provides Voidlight and facilitates forms of power. Our strike team is going to imprison her.*”
-\- Drawer 30-20, fourth emerald[4]
+## Trasfondo
+>“* Debe hacerse algo con los restos de las fuerzas de Odium. Los parsh, como se llaman ahora, siguen guerreando con ímpetu, incluso sin sus amos salidos de Condenación.*”
+\- Del cajón 30-20, primera esmeralda[3]
 
 
-Previous [[Desolation\|Desolations]] began with the [[Herald\|Heralds]] giving in to the torture in [[Damnation\|Damnation]] and Returning to Roshar, after which the [[Fused\|Fused]] -- leaders of the [[Voidbringer\|Voidbringers]] -- Returned as well, entering bodies of the singers. However, the False Desolation occurred well after the Last Desolation, when the Heralds abandoned the [[Oathpact\|Oathpact]], and thus there were no Fused during this "Desolation." It's unclear how fighting between humans and singers progressed in the period following the Last Desolation, but it is likely the two species warred.
-The False Desolation commenced in earnest when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], one of the nine [[Unmade\|Unmade]] who was sometimes referred to as a "highprincess" or commander of the Voidbringers, [[Connection\|Connected]] with the singers in a manner similar to that of Odium during the Desolations. This allowed Ba-Ado-Mishram to provide [[Regal\|forms of power]] to the singers, as well as access to [[Voidlight\|Voidlight]]. It is unclear how Ba-Ado-Mishram performed this feat, or why she could not do so sometime prior to the False Desolation. The Radiants were confused as to Ba-Ado-Mishram's new Connection with the singers, which might suggest this was a new development in her abilities, and not a feat she could previously perform. It also seems that she managed to Connect with the vast majority of singers -- all except those who would become the [[Listener\|listeners]].
-This period of fighting became particularly intense at that time. At some point, the singers pressed towards [[Feverstone Keep\|Feverstone Keep]], though the Radiants did not understand why the area interested the singers so much. Some speculated that it had been part of a plan to capture [[Rall Elorim\|Rall Elorim]].
+La fecha concreta en que tuvo lugar la Falsa Desolación no está clara, pero cuando [[Dalinar Kholin\|Dalinar Kholin]] le mostró a Jasnah y a [[Navani Kholin\|Navani Kholin]] una visión sobre la [[Traici%C3%B3n\|Traición]], Jasnah postuló que los Caballeros Radiantes estaban luchando en la famosa Falsa Desolación. De ser correcto, la Falsa Desolación habría ocurrido aproximadamente al mismo tiempo que la Traición, unos 2.000 años antes del momento presente, o 2.500 años después del [[Aharietiam\|Aharietiam]], la Última Desolación.
 
-## The Strike Team
->“*So Melishi retired to his tent, and resolved to destroy the Voidbringers upon the next day, but that night did present a different stratagem, related to the unique abilities of the Bondsmiths; and being hurried, he could make no specific account of his process; it was related to the very nature of the Heralds and their divine duties, an attribute the Bondsmiths alone could address.*”
-\-Words of Radiance chapter 30, page 18[9]
-
-The Radiants eventually sought an edge in the conflict. Scholar Radiants teamed up to conceive a plan to stop the Voidbringers. They theorized that an Unmade could, perhaps, be imprisoned like a regular spren. (It is unclear if this happened before or after [[Re-Shephir\|Re-Shephir's]] imprisonment in Urithiru by a Lightweaver.) The Radiants devised a plan: they would imprison Ba-Ado-Mishram--stopping the singers' transformations and removing their access to Voidlight.
-The plan required a special prison--likely a [[Perfect gemstone\|perfect gemstone]]--as well as [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation. The Radiants did not know what exactly Ba-Ado-Mishram's imprisonment would do to the singers. They were certain that it would prevent them from using forms of power, but they didn't know what else could happen. Melishi sought to destroy the Voidbringers and was confident the plan would succeed, but [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unexpected aftereffects. The Radiants believed this would end the war the Heralds promised them and proceeded with the plan. It is clear the strike team succeeded in imprisoning Ba-Ado-Mishram, as she was no longer seen in the modern day, unlike most of the other eight Unmade.
-
-## Aftermath and Legacy
-For more information, see [[Day of Recreance\|Day of Recreance]].
->“* We are uncertain the effects this will have on the parsh. At the very least, it should deny them forms of power. Melishi is confident, but Naze-daughter-Kuzodo warns of unintended side effects.*”
-\- Drawer 30-20, fifth emerald[14]
+## Ba Ado-Mishram y una nueva Desolación
+>“* Ba-Ado-Mishram ha Conectado de algún modo con el pueblo parsh, como hizo en su momento [[Odium\|Odium]]. Les proporciona luz del vacío e incita sus formas de poder. Nuestro equipo de asalto va a apresarla.*”
+\- Del cajón 30-20, cuarta esmeralda[4]
 
 
-The costs to Ba-Ado-Mishram's imprisonment were higher than any Radiant could have expected. There were indeed side effects to their action, as [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned. Since Ba-Ado-Mishram was Connected to the vast majority of singers, her imprisonment ripped out Connection and Identity from the singers' souls. This meant that these singers were essentially lobotomized--unable to think or act independently. These singers had no form and would later be termed as "slaveforms."
-Fighting occurred near Feverstone Keep, and since that is the site of many Windrunners and Stonewards abandoning their oaths, it is possible that this sequence of events precipitated the Recreance. It may have been the final thing that made the Radiants feel they were on the wrong side. The Recreance certainly happened at the same time or directly after Ba-Ado-Mishram's imprisonment, which by itself caused massive chaos in human societies. [[Shardblade\|Shardblades]] were picked up at will, without the safeguards of the [[Nahel bond\|Nahel bond]] to prevent such utter destruction.
-Because of this massive chaos, ordinary humans likely had no idea of the true reason for the singers' enslavement. This event, as well as the singers being considered "Voidbringers" and "the enemy" in the eyes of the Radiants, faded into obscurity, and humans considered the parsh to have always been these creatures who could not think. The singers served as slave labor for humans over the next two thousand years.
-When the singers were later healed in the [[Everstorm\|Everstorm]], they were furious at humanity for this act of enslavement. For the common singer, this became a rallying cry that made them fight against humanity in the [[True Desolation\|True Desolation]].
-In modern times, the False Desolation is considered pseudohistorical by the Vorin church, which asserts that no Voidbringers could have survived Aharietiam. [[Dovcanti\|Dovcanti's]] epic about the False Desolation, written approximately 500 years after, is the primary surviving source on these events, and few details of the concept are known to any besides scholars, such as [[Jasnah Kholin\|Jasnah Kholin]].
+Las [[Desolaci%C3%B3n\|Desolaciones]] anteriores empezaban con los [[Heraldo\|Heraldos]] rindiéndose a las torturas de [[Condenaci%C3%B3n\|Condenación]] y regresando a Roshar, tras lo que los [[Fusionado\|Fusionados]], líderes de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]], retornaban también, ocupando los cuerpos de los cantores. Sin embargo, la Falsa Desolación tuvo lugar mucho tiempo después de la Última Desolación, cuando los Heraldos abadonaron el [[Juramento\|Juramento]] y, por lo tanto, no hubo Fusionados en esta "Desolación". No está claro cómo avanzó la lucha entre los humanos y los cantores en el periodo siguiente a la Última Desolación, pero es probable que las dos especies estuvieran en guerra.
+La Falsa Desolación comenzó de verdad cuando [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], una de los nueve [[Deshecho\|Deshechos]] a quién a veces se referían como “alta princesa” o comandante de los Portadores de Vacío, [[Conexi%C3%B3n\|Conectó]] con los oyentes de forma similar a la de Odium durante las Desolaciones. Esto le permitió a Ba-Ado-Mishram proporcionar [[Regio\|formas de poder]] a los cantores, así como acceso a la [[Luz del vac%C3%ADo\|luz del vacío]]. No está claro cómo consiguió hacerlo, o por qué no pudo hacerlo en algún momento previo a la Falsa Desolación. Los Radiantes estaban confundidos con respecto a la nueva Conexión de Ba-Ado-Mishram con los cantores, lo que podría sugerir que esto fue un nuevo desarrollo de sus habilidades, y no un logro que pudiera realizar previamente. Parece que también consiguió Conectar con la gran mayoría de los cantores, con todos excepto con aquellos que terminarían convirtiéndose en los [[Oyente\|oyentes]].
+Este periodo de lucha fue particularmente intenso. En algún punto, los cantores presionaron hacia la [[Fortaleza de la Fiebre de Piedra\|Fortaleza de la Fiebre de Piedra]], aunque los Radiantes no llegaban a comprender el interés que tenían en la zona. Algunos especularon que esto había sido parte de un plan para capturar [[Rall Elorim\|Rall Elorim]].
 
-## See Also
-[[Day of Recreance\|Day of Recreance]]
+## El equipo de asalto
+>“*Entonces Melishi se retiró a su tienda y decidió destruir a los Portadores del Vacío al día siguiente, aunque esa noche presentó una estratagema diferente, relacionada con las habilidades únicas de los Forjadores de Vínculos; y como tenía prisa, no pudo hacer ninguna relación concreta de su proceso; estaba relacionado con la misma naturaleza de los Heraldos y sus deberes divinos, un atributo que solo los Forjadores de Vínculos podían abordar.*”
+\-De Palabras radiantes capítulo 30, página 18[9]
+
+Finalmente los Radiantes buscaron tener ventaja en el conflicto. Los eruditos Radiantes se unieron para concebir un plan y parar a los Portadores del Vacío. Propusieron que un Deshecho podría, quizás, ser encerrado como un spren normal. (No está claro si esto pasó antes o después del encarcelamiento de [[Re-Shephir\|Re-Shephir]] en Urithiru por un Tejedor de Luz.) Los Radiantes idearon un plan: encerrarían a Ba-Ado-Mishram, parando así las transformaciones de los cantores y evitando su acceso a la luz del vacío.
+El plan requería una prisión especial, probablemente una [[Gema perfecta\|gema perfecta]] y a [[Melishi\|Melishi]], el único [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] de esa generación. Los Radiantes no sabían con exactitud lo que provocaría en los cantores el encarcelamiento de Ba-Ado-Mishram. Estaban seguros de que les impediría usar sus formas de poder, pero no sabían qué más pasaría. Melishi deseaba destruir a los Portadores del Vacío, y confiaba en que su plan tendría éxito, pero [[Naze-hija-Kuzodo\|Naze-hija-Kuzodo]] advirtió sobre posibles efectos colaterales. Los Radiantes creían que esto pondría fin a la guerra tal y como los Heraldos les prometieron, y llevaron a cabo el plan. Está claro que el equipo de asalto logró encerrar a Ba-Ado-Mishram, ya que no se la ha visto en el presente, a diferencia de los otros ocho Deshechos.
+
+## Consecuencias y legado
+Para más información, ver [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]].
+>“* No estamos seguros del efecto que tendrá sobre los parsh. Como mínimo, debería de impedirles alcanzar las formas de poder. Melishi confía en que funciones, pero Naze-hija-Kuzodo advierte de posibles efectos secundarios.*”
+\- Del cajón 30-20, quinta esmeralda[14]
+
+
+El precio del encarcelamiento de Ba-Ado-Mishram fue más elevado de lo que cualquier Radiante podría haber esperado. Sí que hubo efectos colaterales derivados de sus acciones, tal y como [[Naze-hija-Kuzodo\|Naze-hija-Kuzodo]] había avisado. Dado que Ba-Ado-Mishram estaba Conectada a la gran mayoría de los cantores, su encierro arrancó la Identidad y la Conexión del alma de estos. En la práctica, esto significó que los cantores estaban básicamente lobotomizados, incapaces de pensar o actuar de forma independiente. Estos cantores no tenían una forma concreta y sería posteriormente conocida como "forma esclava".
+Las batallas tuvieron lugar cerca de la Fortaleza de la Fiebre de Piedra, y dado que ese fue el lugar en el que muchos Corredores del Viento y Custodios de Piedra abandonaron sus juramentos, es posible que esta sucesión de acontecimientos precipitaran la Traición. Esto podría haber sido lo último que hiciera sentir a los Radiantes que estaban en el bando equivocado. La Traición desde luego tuvo lugar en este momento o inmediatamente después del encarcelamiento de Ba-Ado-Mishram, que por sí mismo ya causó un gran caos en la sociedad humana. Las [[Hoja esquirlada\|hojas esquirladas]] fueron recogidas a voluntad, sin la garantía del [[V%C3%ADnculo Nahel\|vínculo Nahel]] para evitar la destrucción completa.
+Debido a este enorme caos, los humanos corrientes probablemente no tenían ni idea del verdadero motivo de la esclavitud de los cantores. Este hecho, así como que fueran considerados “Portadores del Vacío” y “el enemigo” a ojos de los Radiantes, se desvaneció en la oscuridad, y los humanos consideraron que los parshmenios siempre habían sido estas criaturas sin pensamiento. Los cantores sirvieron como mano de obra esclava durante los siguientes dos mil años.
+Cuando los cantores sanaron con la [[Tormenta eterna\|tormenta eterna]], estaban furiosos con la humanidad por haberlos esclavizado. Para el cantor común, esto se convirtió en un grito de guerra contra la humanidad durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
+En la época actual, la Falsa Desolación es considerada un hecho pseudohistórico por la iglesia vorin, que afirma que ningún Portador del Vacío pudo sobrevivir al Aharietiam. La epopeya de [[Dovcanti\|Dovcanti]] sobre la Falsa Desolación, escrita hace aproximadamente 500 años, es la fuente principal de información sobre esos acontecimientos, y pocos detalles son conocidos aparte de por los eruditos, como [[Jasnah Kholin\|Jasnah Kholin]].
+
+## Ver también
+[[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]]
 [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]
+## Notas
+|**Historia de [[Roshar\|Roshar]]**|
+|-|-|
+|[[Aharietiam\|Aharietiam]]|**Falsa Desolación**|[[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]]|
 
 
-https://coppermind.net/wiki/False_Desolation
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, ahora necesita volver a revisarse.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] ·  · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/False_Desolation

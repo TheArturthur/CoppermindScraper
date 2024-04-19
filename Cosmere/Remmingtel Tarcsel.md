@@ -1,18 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Remmingtel Tarcsel**|
 |-|-|
-|**Children**|[[Sophi Tarcsel\|Sophi Tarcsel]]|
-|**Died**|342 [[Catacendre\|PC]] or earlier|
-|**Profession**|Inventor|
-|**Residence**|[[Elendel\|Elendel]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Hijos**|[[Sophi Tarcsel\|Sophi Tarcsel]]|
+|**Fallecido**|342 [[Catacendro\|PC]] o antes|
+|**Oficio**|Inventor|
+|**Residencia**|[[Elendel\|Elendel]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Remmingtel Tarcsel** is an inventor in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
-His daughter, [[Sophi Tarcsel\|Sophi Tarcsel]], claimed that he spent years perfecting the incandescent lightbulb and that his work was stolen by other inventors and scientists, including Professor [[Hanlanaze\|Hanlanaze]]. He died unknown, depressed and destitute. Sophi, who became an inventor herself, did her best to posthumously get him the recognition he deserved. She submitted multiple opinion pieces to the Elendel broadsheets touting her father's accomplishments.
-
-
-## Trivia
-Tarcsel may be a reference to Nicola Tesla, another inventor whose work and credit was stolen during his lifetime.
+**Remmingtel Tarcsel** es un inventor de [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]].
+Su hija, [[Sophi Tarcsel\|Sophi Tarcsel]], afirmó que pasó años perfeccionando la bombilla incandescente y que su trabajo fue robado por otros inventores y científicos, incluyendo al profesor [[Hanlanaze\|Hanlanaze]]. Falleció desconocido, deprimido y en la miseria. Sophi, quien se convirtió en inventora ella misma, hizo todo lo posible para conseguirle el reconocimiento que merecía después de su muerte. Presentó varios artículos de opinión a los periódicos de Elendel promocionando los logros de su padre.
 
 
-https://coppermind.net/wiki/Remmingtel_Tarcsel
+## Curiosidades
+Tarcsel puede ser una referencia a Nicola Tesla, otro inventor cuyo trabajo y crédito le fue robado durante su vida.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 23:36, 31 March 2020 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Remmingtel_Tarcsel

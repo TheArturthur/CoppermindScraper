@@ -1,45 +1,67 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Quellion**|
 |-|-|
-|**Family**|
-|**Siblings**|[[Beldre\|Beldre]]|
-|**Abilities**|[[Hemalurgy\|Hemalurgist]] |
-|**Aliases**|The Citizen|
-|**Birthplace**|[[Urteau\|Urteau]]|
-|**Residence**|[[Urteau\|Urteau]]|
-|**Ethnicity**|[[Skaa\|Skaa]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Hero of Ages*|
+|**Familia**|
+|**Hermanos**|[[Beldre\|Beldre]]|
+|**Capacidades**|[[Hemalurgia\|Hemalurgo]] |
+|**Apodos**|El Ciudadano|
+|**Lugar de nacimiento**|[[Urteau\|Urteau]]|
+|**Residencia**|[[Urteau\|Urteau]]|
+|**Etnia**|[[Skaa\|Skaa]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Quellion** is a [[Skaa\|skaa]] from [[Urteau\|Urteau]] on [[Scadrial\|Scadrial]].
-Also known as the **Citizen**, Quellion is in charge of [[Urteau\|Urteau]] after the death of the [[Lord Ruler\|Lord Ruler]]. [[Spook\|Spook]] is sent by [[Elend\|Elend]] and [[Vin\|Vin]] to gain intelligence on Quellion. As a government officer in the city of Urteau, he wears red-dyed skaa trousers and work shirts.
+**Quellion** es un [[Skaa\|skaa]] de [[Urteau\|Urteau]], en [[Scadrial\|Scadrial]].
+También conocido como el **Ciudadano**, Quellion está al mando en [[Urteau\|Urteau]] tras la muerte del [[Lord Legislador\|lord Legislador]]. [[Elend\|Elend]] y [[Vin\|Vin]] envían a [[Fantasma\|Fantasma]] para conocer más sobre Quellion. Como oficial del gobierno en la ciudad de Urteau, usa pantalones de skaa teñidos de rojo y camisas de trabajo.
 
-## Contents
+## Sumario
 
-1 Attributes and Abilities
-2 History
-3 Relationships
-4 Notes
-
-
-## Attributes and Abilities
-Quellion has a [[Bronze\|bronze]] [[Hemalurgy\|Hemalurgic]] spike in his upper arm until Spook removes it. Via this piercing, [[Ruin\|Ruin]] appears to Quellion in the image of [[Kelsier\|Kelsier]]. Although not originally an [[Allomancer\|Allomancer]], the spike gave him the powers of a [[Bronze\|Seeker]], which then allowed him to easily find the Allomancers in the population of [[Urteau\|Urteau]] and force them into working for him.
-
-## History
-Both Quellion and his sister [[Beldre\|Beldre]] were half-skaa. This is due to the fact that their noble father had married a noblewoman who was barren. As she could not conceive children of her own she instead agreed that Quellion's father could father his children with a [[Skaa\|skaa]] maidservant. This was discovered by [[Obligator\|Obligators]] around the same time that the [[Lord Ruler\|Lord Ruler]] was killed by [[Vin\|Vin]] and due to the chaos surrounding the event, the two half-skaa managed to slip away from their execution.
-After escaping, Quellion built a coalition of skaa workers and took power in [[Urteau\|Urteau]], elevating himself to the rank of Citizen. His government took inspiration from Kelsier's teachings, claiming strict adherence to his doctrine, and soon exterminated everyone of pure noble blood still living in Urteau for crimes against the skaa people.
-Quellion wasn't just searching for skaa with noble blood in order to kill them, however. He was looking for Allomancers. He would find Allomancers, take their families as hostages and keep them as leverage, forcing the Mistings to work as his soldiers by threatening their families. Although, this was kept highly confidential. He would organize his public executions to take place in noble houses that had secret escape routes so that the chosen Allomancers could escape the fire and join his ranks.
-He had genealogists catalog everyone's ancestry. Those who have pure [[Skaa\|skaa]] blood five generations back are allowed to serve in his government, while others were barred from office. While he had his scribes check the lineage of everyone five generations back, he only killed those who had noble blood two generations back or later, which was leading to a divide in the skaa population.
-He also kept the peace by allowing his people the freedom to spend their nights drinking fine wine, which would normally have cost a small fortune in gold, for the price of a fraction of a copper clip, thus keeping the populace drunk and content.
-Due to the economic collapse surrounding his ascent to power, Quellion had a new coin minted, to be worth only a fraction of a clip and be called a "pek".
-The Citizen's government notably disdained decoration and ornamentation. At first, he made it a law that as all men are equal they must all wear the same drab grey clothing. This was later changed so that government officials must wear red, as it will make them easily recognized and those in need will be able to quickly find them. As an official himself he thus also wore regular skaa work clothing which has been dyed red. Later, he decided to approve blue solely for himself to wear and wore a costume which is dyed a deep blue, with the rest of his officials still wearing bright red.
-After an execution, Quellion saw [[Spook\|Spook]], who had infiltrated Urteau, talking to his sister and ordered his soldiers to attack him. Spook fought back, but Beldre helped two of his Pewterarm soldiers to overwhelm him. Quellion tried to execute Spook by locking him in a building and setting it on fire, but he escaped.
-Quellion’s government didn’t last. Quellion was overthrown in the [[Coup of Urteau\|Coup of Urteau]] by Spook, [[Sazed\|Sazed]], [[Breeze\|Breeze]], and [[Allrianne\|Allrianne]] with the help of [[Durn\|Durn]] and the skaa underground. In this confrontation, Spook led a riot against the Citizen and, despite interference from Ruin, he was able to pull out both Quellion’s spike and his own. The Survivor’s Crew claimed Urteau and its supply cache just before the Final confrontation with Ruin.
-Quellion survived the final confrontation with Ruin by taking shelter in Urteau's supply cache.
-
-## Relationships
-His sister, [[Beldre\|Beldre]], is a [[Coinshot\|Coinshot]].
+1 Atributos y habilidades. [[#Atributos y habilidades]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
+4 Notas. [[#Notas]] 
 
 
+## Atributos y habilidades
+Quellion tiene un clavo de [[Bronce\|bronce]] [[Hemalurgia\|hemalúrgico]] en la parte superior de su brazo, hasta que Fantasma se lo quita. A través de este clavo, [[Ruina\|Ruina]] parece aparecérsele a Quellion en la imagen de [[Kelsier\|Kelsier]]. Aunque originalmente no era un [[Alomante\|alomante]], el clavo le otorga los poderes de un [[Bronce\|buscador]], lo que le permite encontrar alomantes fácilmente entre la población de [[Urteau\|Urteau]] y forzarlos a trabajar para él.
 
-https://coppermind.net/wiki/Quellion
+## Historia
+Tanto Quellion como su hermana [[Beldre\|Beldre]] eran medio skaa. Esto se debe al hecho de que su padre que era noble se casó con una noble que era estéril. Como ella no podía concebir hijos propios, acordó que el padre de Quellion pudiese tener hijos con una criada [[Skaa\|skaa]] en su lugar. Esto fue descuvierto por los [[Obligador\|obligadores]] más o menos al mismo tiempo que el [[Lord Legislador\|lord Legislador]] era asesinado por [[Vin\|Vin]] y debido al caos que rodeó el evento, los dos medio skaa lograron escapar de su ejecución.
+Después de escapar, Quellion construyó una coalición de trabajadores skaa y tomó el poder en [[Urteau\|Urteau]], elevándose a sí mismo al rango de Ciudadano. Su gobierno tomó inspiración de las enseñanzas de Kelsier, tomando una estricta adherencia a su doctrina, y pronto exterminó a todos los de sangre noble pura que aún vivían en Urteau por crímenes contra el pueblo skaa.
+Aunque Quellion no solo estaba buscando skaa con sangre noble para matarlos. Estaba buscando alomantes. Él encontraba a alomantes, tomaba a sus familias como rehenes y las mantenía para sacar provecho, obligando a los brumosos a trabajar como sus soldados al amenazar a sus familias. Aunque esto se mantuvo estrictamente confidencial. Organizaba sus ejecuciones públicas para que tuviesen lugar en casas nobles que tenían rutas de escape secretas, de manera que los alomantes elegidos pudiesen escapar del fuego y unirse a sus filas.
+Él tenía genealogistas que catalogaban la ascendencia de todos. A aquellos que tenían sangre pura [[Skaa\|skaa]] de cinco generaciones atrás se les permitía servir a su gobierno, mientras que a los otros se les prohibía ejercer cargos públicos. Mientras sus escribas revisaban el linaje de todos hasta cinco generaciones atrás, él solo mataba a aquellos que tenían sangre noble dos generaciones atrás o más reciente, lo que estaba provocando una división en la población skaa.
+También mantenía la paz permitiendo a su gente la libertad de pasar sus noches bebiendo buen vino, que normalmente habría costado una pequeña fortuna en oro, por el precio de una fracción de un óbolo de cobre, manteniendo así a la población ebria y contenta.
+Debido al colapso económico que rodeó su ascenso al poder, Quellion mandó acuñar una nueva moneda, que valía sólo una fracción de un óbolo y se llamaba "pek".
+El gobierno del Ciudadano despreciaba notablemente la decoración y ornamentación. Al principio, hizo una ley que establecía que como todos los hombres son iguales, deben llevar la misma ropa gris y monótona. Sin embargo, más tarde se cambió la norma para que los funcionarios del gobierno llevasen ropa roja, lo que los hace fácilmente reconocibles y permite que aquellos que los necesitan puedan encontrarlos rápidamente. Como oficial del gobierno, él también vestía ropa de trabajo de skaa teñida de rojo. Más tarde, decidió aprobar el color azul solo para él mismo y llevaba un traje teñido de un azul profundo, mientras que el resto de sus funcionarios seguían usando el rojo brillante.
+Tras una ejecución, Quellion vio a [[Fantasma\|Fantasma]], quien se había infiltrado en Urteau, hablando con su hermana y ordenó a sus soldados que lo atacasen. Fantasma luchó, pero Beldre ayudó a dos de sus soldados brazo de peltre para vencerlo. Quellion intentó ejecutar a Fantasma encerrándolo en un edificio y prendiéndole fuego, pero escapó.
+El gobierno de Quellion no resistió. Quellion fue depuesto en el [[Golpe de Urteau\|Golpe de Urteau]] por Fantasma, [[Sazed\|Sazed]], [[Brisa\|Brisa]], y [[Allrianne\|Allrianne]] con la ayuda de [[Durn\|Durn]] y la resistencia skaa. En esta confrontación, Fantasma lideró una revuelta contra el Ciudadano y, a pesar de la interferencia de Ruina, logró extraer tanto el clavo de Quellion como el suyo propio. La banda del Superviviente reclamó Urteau y su suministro justo antes de la confrontación final con Ruina.
+Quellion sobrevivió a la confrontación final con Ruina refugiándose en el almacén de suministros de Urteau.
+
+## Relaciones
+Su hermana, [[Beldre\|Beldre]], es una [[Lanzamonedas\|lanzamonedas]].
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] ·  · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Quellion

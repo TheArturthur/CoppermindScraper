@@ -1,62 +1,100 @@
-|**<The Hero of Ages>**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
+|**[[El Pozo de la Ascensi%C3%B3n (libro)\|<]]*El Héroe de las Eras*[[Aleaci%C3%B3n de ley\|>]]**|
 |-|-|
-|by  Chris McGrath |
-|**Mistborn trilogy**|
-|**Follows**|*The Well of Ascension*|
-|**Precedes**|*The Alloy of Law *|
-|**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
-|**Released**|October 14, 2008|
-|**Publisher**||
+||
+|**[[Trilog%C3%ADa Nacidos de la bruma\|Trilogía Nacidos de la bruma]]**|
+|**Anterior**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión (libro)]]*|
+|**Siguiente**|*[[Aleaci%C3%B3n de ley\|Aleación de ley ]]*|
+|**Localización**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
+|**Fecha original**|14 de octubre de 2008|
+|**Fecha española**|Completar|
+|**Editorial**||
+|**Editorial en español**||
 |**ISBN**|978-0-7653-1689-9|
-|**Page Count**|572|
-|**Word Count**|[[The Hero of Ages/Statistical analysis\|225,372]]|
-|**Annotations**||
-"The Hero of Ages" redirects here. For the [[Terris\|Terris]] religious figure, see [[Hero of Ages\|Hero of Ages]].
-*The Hero of Ages* is the third and final volume of the [[Mistborn trilogy\|Mistborn trilogy]] by [[Brandon Sanderson\|Brandon Sanderson]]. It is preceded by *The Final Empire* and *The Well of Ascension*.
+|**ISBN español**|Completar|
+|**Número de Páginas**|572 , 352 |
+|**Número de Palabras**||
+|**Anotaciones**||
+"El Héroe de las Eras" redirige aquí. Para la figura religiosa [[Terris\|terrisana]], ver [[H%C3%A9roe de las Eras\|Héroe de las Eras]].
+***El Héroe de las Eras*** es el tercer y último volumen de la [[Trilog%C3%ADa Nacidos de la bruma\|trilogía Nacidos de la bruma]] de [[Brandon Sanderson\|Brandon Sanderson]]. Está precedido por *[[El Imperio Final (libro)\|El Imperio Final]]* y *[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*.
 
-## Contents
+## Sumario
 
-1 Summary
-2 Main Characters
-3 Series
-4 Cover Gallery
-5 Interior Art
-6 Statistical Analysis
-7 Notes
-
-
-## Summary
-For a chapter by chapter summary, see [[The Hero of Ages/Summary\|/Summary]].
-At the end of the previous book, Vin released the power in the [[Well of Ascension\|Well of Ascension]] in order to achieve what she believed was protecting the world, at the expense of losing [[Elend Venture\|Elend Venture]], her husband. It is revealed that Vin was tricked into releasing the power at the Well, rather than using it, and unleashed [[Ruin\|Ruin]] who had been imprisoned there. Before Vin killed the [[Lord Ruler\|Lord Ruler]] he warned her she was dooming the world and Vin now realises the [[Terris prophecies\|Terris prophecies]] were falsified. An apparition helped her locate a bead of [[Lerasium\|lerasium]] - the condensed form of [[Preservation\|Preservation]] - in the Well's chamber, turning Elend into a Mistborn when he ate it and subsequently, with the ability to burn pewter, saved his life.
-As the world begins to succumb to Ruin's influence, earthquakes shake the land in ever greater frequencies, the ash falls from the sky constantly and [[Inquisitor\|Inquisitors]] and [[Koloss\|koloss]], no longer controlled by the Lord Ruler, rampage across the world. The mists are appearing in daylight now and even worse, killing those foolish enough to venture out into it. Elend holds a tenuous grip as Emperor as he and Vin search for the storage caches and [[Atium\|atium]] stash the Lord Ruler hid in the event Ruin was freed.
-[[Sazed\|Sazed]] continues to struggle with his faith, trying and failing to find a religion that makes sense, while he, along with [[Breeze\|Breeze]], try to help Elend take over the rebel city of [[Urteau\|Urteau]]. Sent as a spy, [[Spook\|Spook]] attempts to uproot the Urteau rebellion and incidentally gains strange abilities. He is referred to as the "Survivor of the Flames" for his near miraculous actions followed by his involvement in the rebellion in Urteau.
-[[TenSoon\|TenSoon]] returns to the kandra Homeland in the hopes to convince his kind to work with the humans to fight Ruin. Instead he is called a liar, imprisoned for his numerous crimes and stripped of his bones, and placed in a pit as punishment. Later in the book, TenSoon is called for sentencing, where they give him a set of dog bones he had kept, imagining this would be degrading to TenSoon. Instead, TenSoon uses the agility of the bones and his experience with them to dodge his captors and escape from the Homeland.
-Vin and Elend attempt to conquer [[Fadrex City\|Fadrex City]] and its rebel king, [[Aradan Yomen\|Aradan Yomen]]. Along the way they discover patterns to the mist killings and the secrets of [[Hemalurgy\|Hemalurgy]]. Fearing to discuss their plans openly in case Ruin could overhear, Vin is captured by Yomen when she attempts a solo mission to get into the storage cache and find the atium stash. Yomen uses her as ransom while Elend's koloss army succumbs to the will of Ruin. Turning against him, Elend and his human army are granted sanctuary inside the walls of Fadrex City. Meanwhile, Vin escapes and heads towards Luthadel where she confronts the last of the [[Inquisitors\|Inquisitors]].
-In the ensuing battle, [[Vin's earring\|Vin's earring]] is torn out of her ear, finally allowing her to absorb the power of the mists. In a devastating show of power, Vin levels most of [[Kredik Shaw\|Kredik Shaw]] and kills the Inquisitors, but is vaporized herself as she ascends to take up the [[Shard\|Shard]] Preservation and attempted to right the world but failed in almost the same way as [[Rashek\|Rashek]].
-With the knowledge of the atium stash's location, Elend sets out for the kandra Homeland. On his journey he is left wondering why so many people had gotten sick longer than others when they had been exposed to the mists. Upon arriving at the kandra Homeland, he discovers the atium in the [[Trustwarren\|Trustwarren]] and comes to the realization that those sick for longer had become atium [[Misting\|Mistings]]. Using this powerful force, they meet the approaching koloss army on the fields outside the Homeland. Fighting until their atium is used up, Elend confronts a Ruin-controlled Marsh.
-Watching the fight between Elend and Marsh, fueling the former with mist-power, Vin witnesses her husband die and, with nothing left to lose, she hurls herself at the form of Ruin, destroying them both and leaving Sazed to pick up the two Shards. As the new Shard of [[Harmony\|Harmony]], he uses all of the knowledge from his copperminds to bring the world back to its pre-Rashek state -- the orbit is corrected and green plants and colorful flowers return. As [[Scadrial\|Scadrial]] is now safe, Sazed, as Harmony, leaves Spook a note, explaining how Elend and Vin are happy together and he makes Spook a Mistborn.
-
-## Main Characters
+1 Resumen. [[#Resumen]] 
+2 Personajes principales. [[#Personajes principales]] 
+3 Saga. [[#Saga]] 
+4 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
+5 Arte interior. [[#Arte interior]] 
+6 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
+7 Notas. [[#Notas]] 
 
 
-## Series
-*Hero of Ages* is the final book in the first trilogy of what Brandon initially called a "trilogy of trilogies," with the second trilogy occurring when Scadrial reached roughly modern-day technology levels and the final trilogy taking place after they developed faster-than-light travel. Brandon then wrote [[The Alloy of Law\|The Alloy of Law]], which takes place between the first and second trilogies, but he did not initially consider that to be a new era. In part due to *The Alloy of Law'*s positive reception, however, Brandon plotted out a new trilogy to continue to the story from *The Alloy of Law*, which he now considers to be Era 2; he still also plans a modern trilogy and a space opera one.
+## Resumen
+Para un resumen capítulo a capítulo, ver [[El H%C3%A9roe de las Eras/Resumen\|/Resumen]].
+Al final del libro anterior, Vin liberó el poder en el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] para conseguir lo que ella creía que era proteger el mundo, a costa de perder a [[Elend Venture\|Elend Venture]], su marido. Se revela que Vin fue engañada para liberar el poder en el Pozo, en lugar de utilizarlo, y desató a [[Ruina\|Ruina]], que había sido encarcelada allí. Antes de que Vin matara al [[Lord Legislador\|lord Legislador]], este le advirtió que estaba condenando al mundo y ahora Vin se da cuenta de que las [[Profec%C3%ADas de Terris\|profecías de Terris]] eran falsas. Una aparición la ayudó a localizar una cuenta de [[Lerasium\|lerasium]] (la forma condensada de [[Conservaci%C3%B3n\|Conservación]]) en la cámara del Pozo, convirtiendo a Elend en un nacido de la bruma cuando la ingirió y, posteriormente, con la capacidad de quemar peltre, salvar su vida.
+A medida que el mundo comienza a sucumbir a la influencia de Ruina, los terremotos sacuden la tierra con una frecuencia cada vez mayor, la ceniza cae del cielo constantemente y los [[Inquisidores\|inquisidores]] y [[Koloss\|koloss]], que ya no son controlados por el lord Legislador, arrasan el mundo. Las brumas aparecen ahora a la luz del día y, lo que es peor, matan a los que son lo suficientemente insensatos como para aventurarse en ellas. Elend mantiene un tenue control como emperador mientras él y Vin buscan los depósitos de almacenamiento y el [[Atium\|atium]] que el lord Legislador escondió en caso de que Ruina fuera liberada.
+[[Sazed\|Sazed]] continúa luchando con su fe, intentando y fracasando en encontrar una religión que tenga sentido, mientras que él, junto con [[Brisa\|Brisa]], intenta ayudar a Elend a tomar la ciudad rebelde de [[Urteau\|Urteau]]. Enviado como espía, [[Fantasma\|Fantasma]] intenta erradicar la rebelión de Urteau y, de paso, adquiere extrañas habilidades. Se le conoce como el "Superviviente de las Llamas" por sus acciones casi milagrosas seguidas de su participación en la rebelión de Urteau.
+[[TenSoon\|TenSoon]] regresa a la Tierra Natal kandra con la esperanza de convencer a los suyos de que colaboren con los humanos para luchar contra Ruina. En lugar de ello, le llaman mentiroso, le encarcelan por sus numerosos crímenes, le despojan de sus huesos, y le meten en una fosa como castigo. Más adelante en el libro, TenSoon es llamado para ser sentenciado, donde le dan un conjunto de huesos de perro que él había guardado, imaginando que esto sería degradante para TenSoon. En cambio, utiliza la agilidad de los huesos y su experiencia con ellos para esquivar a sus captores y escapar de la Tierra Natal.
+Vin y Elend intentan conquistar [[Ciudad Fadrex\|Ciudad Fadrex]] y a su rey rebelde, [[Aradan Yomen\|Aradan Yomen]]. Por el camino descubren los patrones de las matanzas de la bruma y los secretos de la [[Hemalurgia\|hemalurgia]]. Temiendo hablar abiertamente de sus planes por si Ruina pudiera oírlos, Vin es capturada por Yomen cuando intenta una misión en solitario para entrar en el almacén y encontrar el alijo de atium. Yomen la utiliza como rehén mientras el ejército de koloss de Elend sucumbe a la voluntad de Ruina. Volviéndose en su contra, Elend y su ejército de humanos obtienen asilo dentro de las murallas de Ciudad Fadrex. Mientras tanto, Vin escapa y se dirige a Luthadel donde se enfrenta a los últimos [[Inquisidores\|inquisidores]].
+En la batalla subsiguiente, el pendiente de [[Vin\|Vin]] es arrancado de su oreja, permitiéndole finalmente absorber el poder de las brumas. En una devastadora muestra de poder, Vin arrasa con la mayor parte de [[Kredik Shaw\|Kredik Shaw]] y mata a los inquisidores, pero ella misma se vaporiza al ascender para tomar la [[Esquirla\|Esquirla]] Conservación e intenta enderezar el mundo, pero fracasa casi de la misma manera que lo hizo [[Rashek\|Rashek]].
+Con el conocimiento de la ubicación del alijo de atium, Elend parte hacia la Tierra Natal kandra. En su viaje se pregunta por qué tanta gente había enfermado más tiempo que otros cuando se habían expuesto a las brumas. Al llegar a la Tierra Natal kandra, descubre el atium en el [[Cubil de la Confianza\|Cubil de la Confianza]] y llega a la conclusión de que los enfermos durante más tiempo se habían convertido en [[Brumoso\|brumosos]]. Utilizando esta poderosa fuerza, se enfrenta al ejército koloss que se aproxima en los campos de las afueras de la Tierra Natal. Luchando hasta agotar su atium, Elend se enfrenta a un Marsh controlado por Ruina.
+Observando la lucha entre Elend y Marsh, alimentando al primero con el poder de las brumas, Vin ve morir a su marido y, sin nada que perder, se lanza contra la forma de Ruina, destruyendo a ambos y dejando a Sazed para que recoja los dos Esquirlas. Como la nueva Esquirla de [[Armon%C3%ADa\|Armonía]], utiliza todos los conocimientos de sus mentecobres para devolver al mundo a su estado anterior a Rashek: la órbita planetaria se corrige y vuelven las plantas verdes y las flores de colores. Como [[Scadrial\|Scadrial]] está ahora a salvo, Sazed, como Armonía, le deja a Fantasma una nota, en la que le explica cómo Elend y Vin son felices juntos y le convierte en un nacido de la bruma.
 
-## Cover Gallery
-For a cover gallery of The Hero of Ages, see [[The Hero of Ages/Covers\|/Covers]].
-## Interior Art
-For a gallery of the book's interior art, see [[The Hero of Ages/Interior art\|/Interior art]].
-## Statistical Analysis
-For a full statistical analysis, see [[The Hero of Ages/Statistical analysis\|/Statistical analysis]].
-*The Hero of Ages* consists of eighty-two chapters, one prologue, and one epilogue, reaching a total 225,372 word count. There are ten different unique point-of-view characters in a total of 131 POVs.
+## Personajes principales
 
-|**Word Count**|225,372||
+## Saga
+*El Héroe de las Eras* es el último libro de la primera trilogía de lo que Brandon denominó inicialmente una "trilogía de trilogías", en la que la segunda trilogía tenía lugar cuando Scadrial alcanzaba aproximadamente los niveles tecnológicos de la época moderna y la trilogía final tenía lugar después de que desarrollaran los viajes más rápidos que la luz. Escribió entonces [[Aleaci%C3%B3n de ley\|Aleación de ley]], que tiene lugar entre la primera y la segunda trilogía, pero en un principio no la consideró una nueva era. Sin embargo, debido en parte a la buena acogida que tuvo, Brandon planeó una nueva trilogía para continuar con la historia de *Aleación de ley*, que ahora considera como [[/wiki/Nacidos de la bruma (saga)#Era 2]]; aún así, también planea una [[/wiki/Nacidos de la bruma (saga)#Era 3]] y una [[/wiki/Nacidos de la bruma (saga)#Era 4]].
+
+## Galería de portadas
+Para una galería de portadas de *El Héroe de las Eras*, ver [[El H%C3%A9roe de las Eras/Portadas\|/Portadas]].
+## Arte interior
+Para una galería del arte interior del libro, ver [[El H%C3%A9roe de las Eras/Arte interior\|/Arte interior]].
+## Análisis estadístico
+Para un análisis estadístico completo, ver [[El H%C3%A9roe de las Eras/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
+*El Héroe de las Eras* consta de ochenta y dos capítulos, un prólogo y un epílogo, alcanzando un total de 225.372 palabras en inglés. Hay diez personajes diferentes con punto de vista único en un total de 131 puntos de vista diferentes.
+
+|**Conteo de palabras**|225,372||
 |-|-|
-|**Page Count**|572|Tor hardback|
-|**Chapter Count**|82|Including prologue and epilogue.|
-|**PoV Characters**|10||
-|**PoV Count**|131||
+|**Page Count**|572 , 352 |Tor tapa dura  - NOVA |
+|**Conteo de capítulos**|82|Incluyendo el prólogo y epílogo|
+|**Personajes con punto de vista**|10||
+|**Conteo de puntos de vista**|131||
+
+## Notas
+
+A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] ·  |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
+|-|-|
+|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] ·  **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
+|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
+|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
+|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
+|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
+|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
+|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
 
 
 
-https://coppermind.net/wiki/The_Hero_of_Ages
+https://es.coppermind.net/wiki/The_Hero_of_Ages

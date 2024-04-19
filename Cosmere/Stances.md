@@ -1,67 +1,87 @@
-|**Stances**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
+|**Posturas Básicas**|
 |-|-|
-|by  Isaac Stewart |
-|**Related to**|[[Shardblade\|Shardblades]], [[Ten Essences\|Ten Essences]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Relacionado con**|[[Hoja esquirlada\|Hoja esquirlada]], [[Diez Esencias\|Diez Esencias]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*A stance is about more than just looking great on the battlefield. It’s about footing, center of balance, and control of the fight.*”
-\-Adolin, to Shallan[1]
-
-
-The ten [[Shardblade\|Shardblade]] **stances** are fighting styles used by [[Shardbearer\|Shardbearers]] in [[Vorin\|Vorin]] culture. They may also be used with conventional weapons.
-
-## Contents
-
-1 Overview
-2 The Stances
-
-2.1 Windstance
-2.2 Smokestance
-2.3 Flamestance
-2.4 Vinestance
-2.5 Bloodstance
-2.6 Ironstance
-2.7 Stonestance
-2.8 Other stances
+>“*La postura es más que quedar estupendo en el campo de batalla. Es la colocación de los pies, el centro de equilibrio y el control de la pelea.*”
+\-Adolin a Shallan[1]
 
 
-3 Notes
+Las diez **posturas básicas** son estilos de combate utilizados por [[Portador de esquirlada\|portadores de esquirlada]] en la cultura [[Vorin\|vorin]]. Es posible aplicarlas también con armas convencionales.
+
+## Sumario
+
+1 Resumen. [[#Resumen]] 
+2 Las posturas. [[#Las posturas]] 
+
+2. [[#Postura del viento]] 
+2. [[#Postura del humo]] 
+2. [[#Postura del fuego]] 
+2. [[#Postura de la enredadera]] 
+2. [[#Postura de la sangre]] 
+2. [[#Postura del hierro]] 
+2. [[#Postura de la piedra]] 
+2. [[#Otras posturas]] 
 
 
-## Overview
-There are ten stances in all, each based on one of the [[Ten Essences\|Ten Essences]]. A stance describes a general fighting style and tactics, rather than specific sword movements.
-Many Shardbearers have preferred stances, though may switch to others in specific situations. The shape and length of a Shardblade may affect this choice. Other factors include the circumstances on the battlefield or the user's own personality and level of expertise. However, the best swordsmen are familiar with all stances in order to better anticipate and counter their opponent. The stances require a great deal of practice; even though [[Kaladin\|Kaladin]] has mastered fighting with a spear, he has some difficulty learning swordsmanship.
-Apart from a purely practical standpoint, the stances are an important aspect of Shardbearer culture. When [[Adolin\|Adolin]] teaches [[Shallan\|Shallan]] how to fight with a Shardblade, he is insistent on proper use of the stances, and speaks to her at length about tradition and respect; for Adolin, the stances are integral to proper reverence of the Shardblade.
-An ancient [[Knight Radiant\|Knight Radiant]] from one of [[Dalinar's visions\|Dalinar's visions]] remarks that [[Dalinar\|Dalinar's]] stances are unfamiliar to her, so the stances have likely evolved over time.
-
-## The Stances
-### Windstance
-Windstance uses sweeping, broad strokes that flow from one attack to the next. It is a two-handed stance with the body turned sideways, elbows bent and the tip pointed up and back over the head. The sweeps are majestic, and come from multiple sides. Sometimes they are small, quick blows that are meant to unnerve their opponent; other times, the sweeps are wide. Windstance is the best stance to use against multiple opponents and can cause many casualties on battle field with its wide sweeps; it is very poor at parrying, though it does have some defined sweeps for doing so. This is [[Adolin Kholin\|Adolin Kholin's]] favored stance and the most familiar one for Dalinar as well. Since it relies on mobility more than strength, Adolin plans to teach it to [[Shallan\|Shallan]] early on when he is teaching her swordfighting. It is very popular among the Alethi in general.
-
-### Smokestance
-Smokestance is a fluid, one-handed stance that has the blade forward, tip pointed at the heart of their opponent, and one foot placed ahead of the other. Smokestance is better than Windstance for fighting with an imperfect weapon. The key in this stance is to stay in motion at all times. While the blade may move in a whirlwind, it focuses on thrusts rather than sweeps and slashes. One variant of Smokestance is a sword and dagger stance, which uses the dagger primarily as a second line of defense.
-
-### Flamestance
-Flamestance is an aggressive, sometimes frantic one-handed stance. Unlike other stances, the posture of Flamestance involves squared-off feet. The blade is held in one hand, with the other hand resting on the blade. The stance is favored by those with shorter Shardblades. It is defined by furious constant attacks, but is weak to disarming as a result of the one-handed grip.
-
-### Vinestance
-Vinestance is a defensive stance that focuses on defensive footwork and flexibility. It is slow and steady, but has sudden, quick lunges. [[Relis Ruthar\|Relis Ruthar]], the former Alethi dueling champion, prefers this stance.
-
-### Bloodstance
-Bloodstance is a stance in which the wielder doesn't care about getting hit, mostly used in desperate circumstances.
-
-### Ironstance
-Ironstance is a strong stance with a two-handed grip, sword held next to the head, and uses strong overhead blows.
-
-### Stonestance
-Stonestance is a form that relies on raw power. The stance involves holding the sword in front, arms fully extended, tip pointing straight up. On offense, the focus is on delivering as much momentum as possible in each blow; a characteristic strike, for example, involves jumping up, lifting the blade behind the head, and making a diagonal downward cut. When on defense, the stance relies on staying immobile and is one of the few that uses parrying. Since it doesn't require much strength to cut most things with Shardblades, this stance is largely impractical when not fighting a Shardbearer. Stonestance is considered the immovable stance and provides solid footing in combat.
-
-### Other stances
-There are three more stances, corresponding to the [[Ten Essences\| Essences]] of Tallow, Lucentia and Sinew; however, they have not as of yet been featured in the books. In addition, [[Singer\|Singers]] may use stances unfamiliar to humans.
+3 Notas. [[#Notas]] 
 
 
+## Resumen
+Existen un total de diez posturas (también llamadas poses o posiciones), cada una inspirada en una de las [[Diez Esencias\|Diez Esencias]]. Cada postura comprende un estilo de batalla y unas ciertas tácticas, no solo movimientos de espada concretos.
+Muchos portadores de esquirlada tienen preferencia por alguna postura, aunque pueden escoger otras en ciertas situaciones. La forma y el tamaño de la espada pueden afectar a esta decisión. Otros factores decisivos pueden ser las circunstancias concretas en el campo de batalla, o la experiencia del usuario. No obstante, los mejores espadachines conocen en profundidad todas las posturas, para así poder anticiparse a su oponente y contraatacar de mejor manera. Estas poses requieren de mucha práctica; aunque [[Kaladin\|Kaladin]] ha dominado el combate con lanza, aún le resulta difícil el manejo de la espada.
+Más allá de su aspecto práctico, las posturas son un componente cultural significativo entre los portadores de esquirlada. Cuando [[Adolin\|Adolin]] enseña a [[Shallan\|Shallan]] a usar una hoja esquirlada, incide en el uso apropiado de las posturas, y le habla largo y tendido sobre la tradición y el respeto. Para Adolin, las posturas son fundamentales para guardar el debido respeto a las hojas esquirladas.
+Una antigua [[Radiante\|Radiante]] de una de las [[Visiones de Dalinar\|visiones de Dalinar]] señala que no está familiarizada con sus posturas, por lo que probablemente estas hayan evolucionado con el tiempo.
 
-https://coppermind.net/wiki/Flamestance
+## Las posturas
+### Postura del viento
+En la pose del viento se hace uso de golpes amplios y envolventes que fluyen de un ataque al siguiente. Es una postura a dos manos, con el cuerpo de costado, los codos doblados y la punta del arma apuntando hacia arriba y hacia atrás, por encima de la cabeza. Los barridos producidos son majestuosos y proceden de múltiples lados. En ocasiones se usan pequeños y rápidos golpes para desconcertar al enemigo; en otras, se ejecutan amplios barridos. La postura del viento es la mejor contra grupos de oponentes y puede causar multitud de bajas en el campo de batalla gracias a sus amplios movimientos. Es muy pobre a la hora de bloquear o desviar, aunque existen algunos movimientos predefinidos que cumplen dicha función. Esta es la postura preferida de [[Adolin Kholin\|Adolin Kholin]], y también la que Dalinar conoce mejor. Al basarse más en la movilidad que en la fuerza, Adolin planea enseñársela a [[Shallan\|Shallan]] desde un principio cuando la está entrenando en el manejo de la espada. Es un estilo muy popular entre los alezi en general.
+
+### Postura del humo
+La postura del humo es una pose fluida a una mano, con la hoja hacia el frente, apuntando al corazón del oponente, y un pie por delante del otro. Es preferible a la postura del viento cuando se pelea con un arma imperfecta. La clave de esta pose es mantenerse en constante movimiento. Aunque la espada se mueva como un torbellino, se centra más en estocadas que en tajos o barridos. Existe una variante con espada y daga, donde se usa esta última como segunda línea de defensa.
+
+### Postura del fuego
+La postura del fuego es una agresiva —incluso frenética— posición a una mano. A diferencia de otros estilos, en este los pies se colocan a la misma altura, y se sujeta la espada con una mano mientras la otra descansa en la hoja. Es preferida por aquellos con espadas esquirladas más cortas. Se basa en embates feroces y constantes, aunque es débil ante el desarme por tratarse de una pose a una sola mano.
+
+### Postura de la enredadera
+La postura de la enredadera es una posición defensiva basada en el juego de pies y la flexibilidad. En ella se combina un movimiento generalmente pausado y firme con arremetidas rápidas y repentinas. Es la postura preferida del antiguo campeón de duelo alezi [[Relis Ruthar\|Relis Ruthar]].
+
+### Postura de la sangre
+En la postura de la sangre al portador no le preocupa ser golpeado, por lo que es usada principalmente en circunstancias desesperadas.
+
+### Postura del hierro
+La postura del hierro es sólida, con la espada sujeta con ambas manos junto a la cabeza, propinando fuertes golpes por encima de la cabeza.
+
+### Postura de la piedra
+La postura de la piedra se basa en la fuerza bruta. Se sujeta la espada al frente, con los brazos extendidos y la punta hacia arriba, centrándose en dar el mayor impulso posible a cada ataque; uno de sus golpes característicos consiste en un salto seguido de un corte diagonal descendente desde encima de la cabeza. Esto la hace poco práctica frente a enemigos sin esquirlada, ya que no es necesaria apenas fuerza para atravesar casi cualquier cosa con una de ellas. A la hora de defenderse, se permanece prácticamente inmóvil, y es una de las pocas posturas en las que se utilizan bloqueos, paradas y desvíos. Se considera una pose inquebrantable, y garantiza una posición sólida en combate.
+
+### Otras posturas
+Existen otras tres posturas, correspondientes a las [[Diez Esencias\|Esencias]] Grasa, Lucentia y Tendón. No obstante, aún no han hecho aparición en los libros. Adicionalmente, es posible que los [[Cantores\|cantores]] utilicen posturas desconocidas para los humanos.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Stances

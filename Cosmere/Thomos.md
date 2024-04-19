@@ -1,37 +1,49 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Thomos**|
 |-|-|
-|**Residence**|[[Beacon\|Beacon]]|
-|**Ethnicity**|[[Threnodite\|Threnodite]]|
-|**Nationality**|[[Union\|Union]] |
-|**Homeworld**|[[Canticle\|Canticle]]|
-|**Universe**|Cosmere|
-|**First Appeared**|*The Sunlit Man*|
+|**Etnia**|[[De Treno\|de Treno]]|
+|**Nacionalidad**|[[Uni%C3%B3n\|Unión]] |
+|**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
-This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-**Thomos** is a citizen of [[Beacon\|Beacon]] on [[Canticle\|Canticle]] who was rescued by [[Nomad\|Nomad]] and [[Rebeke\|Rebeke]] from [[Union\|Union's]] arena.
+**Thomos** es un ciudadano de [[Baliza\|Baliza]], en [[C%C3%A1ntico\|Cántico]], que fue rescatado por [[N%C3%B3mada\|Nómada]] y [[Rebeke\|Rebeke]] de la arena de [[Uni%C3%B3n\|Unión]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Trivia
-4 Notes
-
-
-## Appearance and Personality
-Thomos is slightly heavyset and has pale skin, brown eyes, a dimpled chin, and a gap in his teeth. Like other Canticlites, he wears gloves on his hands to prevent accidental heat transference. Thomos shows grit and determination in the face of danger and is willing to help others even in perilous situations.
-
-## History
-Thomos is taken captive by the [[Cinder King\|Cinder King's]] forces after an assault on Beacon. He is forced to watch his fellow prisoners be left for the sun and is present when Nomad first arrives on Canticle, witnessing Nomad surviving in the planet's sunlight.
-He is later lead into Union's arena along with approximately thirty other prisoners and forced to survive capture by several [[Charred\|Charred]]. Thomos helps Nomad climb on top of one of the arena's metal boxes and asks something about Nomad killing, referencing Nomad's weapon. Nomad replies that he cannot understand and the two watch the arena from the top of the obstacle. As the contest winds down, Thomos climbs down from the box.
-Though he survives the contest in the area, Thomos' success and stamina leads the Cinder King to decide to turn him into a Charred. The Cinder King holds up the spear to convert him, making a spectacle of the event for the cheering crowd while Thomos screams and struggles against his captors. Though Nomad attempts to harden himself and ignore it, Thomos' cries break through and prompt Nomad to take action and call [[Auxiliary\|Auxiliary]] as a [[Shardblade\|Shardblade]]. Stunned by the display, Thomos is given a brief reprieve by the Cinder King until the Beaconites arrive and begin their rescue mission.
-When the fighting begins, the Charred that are holding him throw him away and kick him in the face. Thomos falls off the Cinder King's ship almost getting buried by the muddy ground near the center of the arena and breaking his leg. Nomad grabs Thomos' arm, rips him from the soil, and throws him over his shoulder. Nomad carries the injured Thomos across the arena and tosses him onto the back left seat of Rebeke's [[Hovercycle\|quadcycle]]. Thomos is overcome with emotion and tearfully thanks Nomad for rescuing him. As they fly away in the cycle, Nomad expands Auxiliary as a shield to cover himself and Rebeke who is piloting the craft hoping that they will be enough of a distraction to direct focus away from the exposed Thomos in the back seat.
-The hovercycle is pursued as it leaves Union and Thomos fearfully clings to his seat with wide eyes and hair fluttering in the wind. Eventually, Thomos begins to list in his seat and lose consciousness from pain. However, he regains enough lucidity to watch Nomad defeat and scare off the pursuing Charred, evoking awe.
-Once back at Beacon, Rebeke informs [[Zeal\|Zeal]] and [[Adonalsium-Will-Remember-Our-Plight-Eventually\|Adonalsium-Will-Remember-Our-Plight-Eventually]] that Thomos had been rescued and asks them to inform Thomos' family. Thomos begins losing consciousness again, muttering deliriously that Nomad had survived the sunlight and Zeal orders several Beaconites to take him away for medical attention.
-
-## Trivia
-Nomad tells Auxiliary that the only reason he decided to save Thomos from the arena is because he reminded him of an old friend. This old friend is most likely [[Hobber\|Hobber]] given the similar description, especially the gap-toothed smile.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Thomos
+## Apariencia y personalidad
+Thomos está algo entrado en carnes y tiene la piel clara, los ojos marrones y un hoyuelo en la barbilla, así como una sonrisa desdentada. Como otros habitantes de Cántico, lleva guantes en las manos para evitar transferencias de calor accidentales. Thomos demuestra agallas y determinación ante el peligro y está dispuesto a ayudar a otros incluso en situaciones peliagudas.
+
+## Historia
+Thomos fue capturado por las fuerzas del [[Rey Incandescente\|Rey Incandescente]] tras un asalto a Baliza. Fue forzado a contemplar cómo sus compañeros eran dejados al sol y estuvo presente cuando Nómada llegó a Cántico, siendo testigo de cómo este sobrevivía a la luz del sol del planeta.
+Más tarde fue llevado al anfiteatro de Unión con aproximadamente otros treinta prisioneros, y los obligaron a sobrevivir a los intentos de captura de los [[Chamuscado\|chamuscados]]. Thomos ayudó a Nómada a escalar sobre una de las cajas metálicas del estadio y le preguntó algo sobre matar, en referencia a su arma. Nómada respondió que no lo entendía y ambos contemplaron la arena desde la cima del contenedor. A medida que finalizaba la contienda, Thomos se bajó de la caja.
+Aunque sobrevivió a la competición, el éxito y la resistencia de Thomos hicieron que el Rey Incandescente decidiera convertirlo en un chamuscado. El Rey Incandescente sostuvo la lanza para convertirlo, haciendo del evento un espectáculo que la multitud vitoreaba mientras Thomos gritaba y se resistía contra sus captores. Aunque Nómada intentó evitar que le afectara e ignorarlo, los gritos de Thomos acabaron llevándole a actuar invocando a [[Auxiliar\|Auxiliar]] como una [[Hoja esquirlada\|hoja esquirlada]]. Sorprendido por la demostración, el Rey Incandescente le dio un breve respiro a Thomos hasta que los balizanos llegaron y comenzaron su misión de rescate.
+Al empezar la pelea, los chamuscados que le tenían apresado lo expulsaron de la tarima y le dieron una patada en la cara. Thomos cayó de la nave del Rey Incandescente y casi fue sepultado, con la pierna rota, bajo el suelo embarrado cerca del centro del estadio. Nómada le agarró el brazo, lo arrancó del lodazal y se lo cargó al hombro. Nómada cargó al herido Thomos a través del estadio y lo dejó en el asiento trasero izquierdo de la [[Moto deslizadora\|moto cuádruple]] de Rebeke. Thomos, abrumado por la emoción, agradeció a Nómada que lo rescatara con los ojos inundados de lágrimas. Mientras se alejan volando en la moto deslizadora, Nómada expande a Auxiliar como un escudo para cubrirse tanto a sí mismo como a Rebeke, que pilota la moto, deseando que ellos dos sean suficiente distracción como para mantener el foco de atención apartado de Thomos (que está expuesto en el asiento trasero).
+La moto deslizadora fue perseguida mientras se marchaba de Unión, y Thomos se mantuvo aferrado a su asiento asustado, con los ojos como platos y el pelo revuelto por el viento. A la larga, Thomos empezó a flaquear y estuvo a punto de perder la consciencia por el dolor. No obstante, logró mantenerse despierto lo suficiente como para ser testigo de cómo Nómada derrotó y espantó a los chamuscados que los perseguían, produciéndole asombro.
+Ya de vuelta en Baliza, Rebeke informó a [[Fervor (personaje)\|Fervor]] y a [[Adonalsium-Terminar%C3%A1-Recordando-Nuestro-Aprieto\|Adonalsium-Terminará-Recordando-Nuestro-Aprieto]] de que Thomos había sido rescatado y les pidió que informasen a su familia. Thomos empezó a desmayarse de nuevo y murmuró, delirante, que Nómada había sobrevivido a la luz del sol, tras lo cual Fervor ordenó a varios balizanos que se lo llevaran para proporcionarle atención médica.
+
+## Curiosidades
+Nómada le dice a Auxiliar que la única razón por la que decidió salvar a Thomos de la arena fue porque le recordaba a un antiguo amigo suyo. Es muy probable que el amigo al que se refiere sea [[Hobber\|Hobber]] debido a las similitudes en la descripción, especialmente la sonrisa con un hueco entre los dientes.
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El Hombre Iluminado\|El Hombre Iluminado]] (**[[C%C3%A1ntico\|Cántico]]**)**|
+|-|-|
+|**Personajes**|[[N%C3%B3mada\|Nómada]] · [[Auxiliar\|Auxiliar]] · [[Rebeke Salvamento\|Rebeke]] · [[Eleg%C3%ADa Salvamento\|Elegía]] · [[Rey Incandescente\|Rey Incandescente]] · [[Compasi%C3%B3n\|Compasión]] · [[Confianza\|Confianza]] · [[Contemplaci%C3%B3n\|Contemplación]] · [[Fervor\|Fervor]] · [[Jeffrey Jeffrey\|Jeffrey Jeffrey]]|
+|**Lugares**|[[Baliza\|Baliza]] · [[Uni%C3%B3n\|Unión]] · [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|Instalación de investigación scadriana]]|
+|**Magia**|[[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Sol coraz%C3%B3n\|Sol corazón]] · [[Chamuscado\|Chamuscado]] · [[Coro\|Coro]]|
+
+
+
+https://es.coppermind.net/wiki/Thomos

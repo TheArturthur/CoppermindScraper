@@ -1,49 +1,75 @@
+
+
 |**Tanavast**|
 |-|-|
-|by  Shuravf |
-|**Died**|Splintering of Honor, killed by Odium|
-|**Abilities**|[[Shard\|Shard]] of [[Honor\|Honor]]|
-|**Titles**|[[Honor\|Honor]]|
-|**Aliases**|The Almighty, God, Elithanathile, Tavast|
-|**Homeworld**|[[Yolen\|Yolen]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Way of Kings*|
+||
+|**Fallecido**|Astillamiento de Honor, asesinado por Odium|
+|**Capacidades**|[[Esquirla\|Esquirla]] [[Honor\|Honor]]|
+|**Títulos**|[[Honor\|Honor]]|
+|**Apodos**|El Todopoderoso, Dios, Elithanathile, Tavast|
+|**Mundo natal**|[[Yolen\|Yolen]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*Tanavast was a fine enough fellow - bought me drinks once - but he was not God.*”
-\-Hoid on Tanavast[5]
-
-
-**Tanavast** was the original Vessel of the [[Shard\|Shard]] [[Honor\|Honor]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Notes
+>“*Tanavast era un buen tipo (me invitó a beber una vez), pero *no era* Dios.*”
+\-Hoid sobre Tanavast.[5]
 
 
-## Appearance and Personality
- by  Kyle Pearson 
-For more images, see [[Tanavast/Gallery\|/Gallery]].
->“*He loved humankind. He died defending you.*”
-\-The Stormfather on Tanavast[7]
+**Tanavast** fue el Recipiente original de la [[Esquirla\|Esquirla]] [[Honor\|Honor]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-In one of [[Dalinar Kholin\|Dalinar Kholin's]] visions, he appeared as a tall muscular man with dark skin and pure white hair, wearing billowing trousers and a waist-length coat, both of which seemed to be made of gold. Dalinar considered this clothing strange, which may indicate that it was from [[Yolen\|Yolen]]—or it may simply be a reflection of how style had changed since Tanavast recorded the visions.
-Little is known about Tanavast as a person, but the people who met him have an excellent opinion of him. He seems to be the only original Vessel with whom [[Hoid\|Hoid]] has a good relationship, and is, aside from [[Ati\|Ati]], the only one Hoid ever praises, calling him a decent person. The [[Stormfather\|Stormfather]] insists that Tanavast did love mankind, even dying to defend them. Tanavast himself seems to have been highly dedicated to his role as a deity and protective of humanity, even apologizing in visions for getting himself killed.
-
-## Attributes and Abilities
-As a Vessel, Tanavast originally held as much power as his peers. At some point, however, he was weakened enough that, even with [[Cultivation\|Cultivation's]] assistance, [[Odium\|Odium]] was able to kill him. Like other [[Vessel\|Vessels]], he had Shardic future sight, though it was not as strong as that of Cultivation.
-
- by  Diego López 
-## History
-At some point in the past, likely prior to the [[Shattering\|Shattering]], Tanavast met [[Hoid\|Hoid]], and left a good impression on him.
-Tanavast was one of the seventeen people who shattered [[Adonalsium\|Adonalsium]], after which he Ascended as the Shard of Honor. After the Shattering, Tanavast and his lover, [[Koravellium Avast\|Koravellium Avast]], moved to [[Roshar\|Roshar]], and both Shards Invested equally in the planet.
-
-For subsequent events, see Honor#History.
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Tanavast/Galer%C3%ADa\|/Galería]].
+>“*Amaba a la humanidad. Murió defendiéndola.*”
+\-El Padre Tormenta sobre Tanavast.[7]
 
 
-https://coppermind.net/wiki/Tanavast
+En una de las visiones de [[Dalinar Kholin\|Dalinar Kholin]], aparecía como un hombre alto y musculoso, de piel oscura y pelo blanco puro, que llevaba unos pantalones anchos y un abrigo hasta la cintura, ambos parecían hechos de oro. Dalinar consideraba esta vestimenta extraña, lo que podría indicar que era de [[Yolen\|Yolen]] o simplemente podría ser un reflejo de cómo había cambiado el estilo desde que Tanavast registró las visiones.
+Se sabe poco de Tanavast como persona, pero la gente que lo conoció tiene una excelente opinión de él. Parece ser el único Recipiente con el que [[Hoid\|Hoid]] tiene una buena relación, y es, aparte de [[Ati\|Ati]], el único al que Hoid elogia, llamándolo una persona decente. El [[Padre Tormenta\|Padre Tormenta]] insiste en que Tanavast sí amaba a la humanidad, incluso muriendo para defenderla. El propio Tanavast parece haber estado muy dedicado a su papel de deidad y protector de la humanidad, incluso disculpándose en las visiones por hacerse matar.
+
+## Atributos y habilidades
+Como Recipiente, Tanavast tenía inicialmente tanto poder como sus compañeros. Sin embargo, en algún momento se debilitó lo suficiente como para que, incluso con la ayuda de la [[Cultivaci%C3%B3n\|Cultivación]], [[Odium\|Odium]] fuera capaz de matarlo. Al igual que otros [[Recipiente\|Recipientes]], tenía visión futura por su condición de Esquirla, aunque no era tan fuerte como la de Cultivación.
+
+ 
+## Historia
+En algún momento del pasado, probablemente antes de la [[Fragmentaci%C3%B3n\|Fragmentación]], Tanavast conoció a [[Hoid\|Hoid]], y le causó una buena impresión.
+Tanavast fue una de las diecisiete personas que fragmentaron a [[Adonalsium\|Adonalsium]], tras lo cual ascendió como la Esquirla Honor. Tras la Fragmentación, Tanavast y su amante, [[Koravellium Avast\|Koravellium Avast]], se trasladaron a [[Roshar\|Roshar]], y ambas Esquirlas invistieron por igual el planeta.
+
+Para sucesos posteriores, ver [[/wiki/Honor#Historia]].
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Tanavast

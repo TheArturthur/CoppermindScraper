@@ -1,0 +1,48 @@
+|**Shasta Smedry**|
+|-|-|
+||
+|****|
+|**Cónyuge**|[[Attica Smedry\|Attica]]|
+|**Hijos**|[[Alcatraz Smedry\|Alcatraz]]|
+|**Capacidades**|[[Bibliotecario\|Bibliotecario]], [[Talento Smedry\|Talento Smedry]]|
+|**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+
+**Shasta Smedry** (aka **Ms. Fletcher**) is a . She married [[Attica Smedry\|Attica Smedry]], gaining his  for losing things, and is [[Alcatraz Smedry\|Alcatraz]]'s mother.
+
+## Sumario
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
+Shasta has a tendency to wear simple, plain clothes. She has long blond hair, which she wears in a bun. Like many Librarians, she wears a pair of horn-rimmed glasses.
+While working undercover as Ms. Fletcher, Alcatraz's caseworker, she acted quite unpleasantly toward him, often criticizing Alcatraz. However, she is shown to care about her son when Alcatraz uses his Truthfinder's Lens on her, and during the events of Siege of Mokia, they have a discussion like two equals. While interacting with other Librarians, she is curt and businesslike. She is serious most of the time, but on occasion displays a very sarcastic sense of humor.
+Shasta appears to be ashamed that she doesn't have full control over her Smedry Talent. However, she typically keeps an unflappable demeanor and is able to brush off most criticisms.
+
+## Attributes and Abilities
+Shasta has the Smedry Talent of losing things by virtue of her marriage to Attica, although she isn't able to control it very well. Nevertheless, she manages to use her Talent to great effect at least once.
+Shasta also demonstrates considerable skill at sleight of hand on multiple occasions. She is very intelligent and excellent at turning situations to her advantage, thinking on her feet, and commanding authority.
+
+## History
+Shasta married Attica Smedry, despite the objections of Attica's father [[Leavenworth Smedry\|Leavenworth]], who believed she was only manipulating Attica to get his Talent. Together, Attica and Shasta researched the origins of Smedry Talents and the Sands of Rashid. Shasta gave birth to Alcatraz in Nalhalla and shortly after, she and Attica separated.
+After Alcatraz's birth, Shasta left with him for the  and acted as his caseworker, Ms. Fletcher, keeping her true identity secret from him. On his thirteenth birthday, she arrived to steal the , which had arrived for him earlier that day. A few months later, she found out through an unknown means that Attica had gone to the Library of Alexandria. Shasta notified Leavenworth and pursued Attica to the Library herself, claiming his .
+Shasta brought the Lenses to [[Nalhalla\|Nalhalla]], where she plotted to steal a book from the Nalhallan  using Transporter's Glass. The Lenses were taken by Alcatraz, but she managed to retain possession of the book, which she later burned. She was captured by the Mokians during the , and stayed there willingly until she left with Alcatraz, Leavenworth, [[Kazan Smedry\|Kaz]], and [[Draulin\|Draulin]] for the . There, she was knocked out by Attica.
+
+## Trivia
+Her first name is likely a reference to  in California. The name Fletcher is likely a reference to  in the Rocky Mountains.
+
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
+|-|-|
+|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] ·  · [[Attica Smedry\|Attica Smedry]]|
+|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
+
+
+
+https://es.coppermind.net/wiki/Shasta

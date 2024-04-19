@@ -1,26 +1,42 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Hennin**|
 |-|-|
-|**Died**||
-|**Titles**|[[Lord Merchant\|Lord Merchant]]|
-|**Groups**|[[Taishin\|Taishin]], [[Guild\|The Guild]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**||
+|**Títulos**|[[Lord mercader\|Lord mercader]]|
+|**Grupo**|[[Taishin\|Taishin]]🐱︎, |
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*His name was Hennin. An idiot of a Lord Merchant who acquired the position unearned after two relatives died and left him separate fortunes!*”
+>“*El lord mercader Hennin, para ser exactos. Un idiota que llegó al puesto después de heredar dos fortunas distintas, sin saber nada de negocios.*”
 \-Vey[1]
 
 
-**Hennin** was a historical [[Taishin\|Lord Merchant]] centuries before [[Vey\|Vey]].
+**Hennin** fue un histórico [[Taishin\|lord mercader]] siglos antes de [[Vey\|Vey]].
 
-## History
-Hennin became Lord Merchant when two of his relatives died leaving him two separate fortunes. The Lord Mastrell of his time started a personal account with Hennin, and told Hennin to put the [[Diem\|Diem's]] tribute money into the account. Hennin ruled for a long time until he lost his fortune and with it his position.
+## Historia
+Hennin se convirtió en lord mercader cuando dos de sus parientes murieron, dejándole dos fortunas distintas. El [[/wiki/Taishin#El lord mastrell]] de su época abrió una cuenta personal con Hennin, y le dijo que ingresara en ella el dinero del tributo del [[Diem\|Diem]]. Hennin gobernó durante mucho tiempo, hasta que perdió su fortuna y con ella su posición.
 
->“*Thus each Quarter the Lord Merchant sends two thousand lak of his personal fortune to the Diem which the Lord Mastrell returns with instructions that it be deposited in the private account, adding to the blasted debt.*”
+>“*Y por eso cada trimestre el lord mercader sigue enviando su tributo… que el lord mastrell, a su vez, deposita en la cuenta de ahorro, que sigue acumulando interés e incrementando la condenada deuda.*”
 \-Vey[1]
 
-When the next Lord Merchant took over he discovered that a vast sum was now owed to the Diem, the original tributes and a large amount of interest, and since a new Lord Merchant inherits all of the incumbent's debts as well as his fortune, the debt has increased to the point where it is impossible to pay back.
-The Lord Mastrell was willing to keep the debt secret so long as the Lord Merchant kept paying the tribute. The [[Lady Judge\|Lady Judge's]] predecessor knew about the debt and ruled that the Lord Merchant must pay the debt in full when the Lord Mastrell asks for it. Instead of demanding that Vey pay the debt, [[Kenton\|Kenton]] forgave the debt, earning Vey's respect and causing him to vote for the Diem.
+Cuando el siguiente lord mercader asumió el poder, descubrió que ahora se debía una enorme suma al Diem, los tributos originales y una gran cantidad de intereses, y puesto que un nuevo lord mercader hereda todas las deudas del titular, así como su fortuna, la deuda ha aumentado hasta el punto de que es imposible devolverla.
+El lord mastrell estaba dispuesto a mantener la deuda en secreto mientras el lord mercader siguiera pagando el tributo. La predecesora de la [[Jueza suprema\|jueza suprema]] conocía la deuda y dictaminó que el lord mercader debía pagarla íntegramente cuando el lord mastrell se lo pidiera. En lugar de exigir a Vey que pagara la deuda, [[Kenton\|Kenton]] se la perdonó, ganándose el respeto de Vey y haciendo que votara a favor del Diem.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
 
 
 
-https://coppermind.net/wiki/Hennin
+https://es.coppermind.net/wiki/Hennin

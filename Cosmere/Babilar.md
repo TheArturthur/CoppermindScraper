@@ -1,18 +1,18 @@
 |**Babilar**|
 |-|-|
-|by  Jamie Knierim |
-|**Region**||
-|**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+||
+|**Región**||
+|**Mundo**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
-**Babylon Restored**, often referred to as **Babilar** (a simplification of "Babyl-R"), is the name given to New York City after its streets were flooded by the [[Epic\|Epic]] [[Regalia\|Regalia]]. Regalia ruled tyrannically over the city for years, before she stopped and decided to clean the place up. It is unknown what came of the city after Calamity was defeated.
+**Babylon Restored**, often referred to as **Babilar** (a simplification of "Babyl-R"), is the name given to New York City after its streets were flooded by the  [[Regalia\|Regalia]]. Regalia ruled tyrannically over the city for years, before she stopped and decided to clean the place up. It is unknown what came of the city after Calamity was defeated.
 
-## Contents
+## Sumario
 
-1 Appearance
-2 Everyday Life
-3 Regalia
-4 Notable Residents
-5 Notes
+1 Appearance. [[#Appearance]] 
+2 Everyday Life. [[#Everyday Life]] 
+3 Regalia. [[#Regalia]] 
+4 Notable Residents. [[#Notable Residents]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance
@@ -24,14 +24,25 @@ It was almost destroyed when Regalia died, causing the water to draw back and th
 The citizens of Babilar led fairly normal lives. They would live a carefree life of relaxation, partying, and eating, believing that no-one can do anything about the Epics, so just let them have their way. However, almost no one in the city had access to electricity. The people would travel through the city on boats and on suspended bridges between the tops of buildings. Many of the citizens go out at night, when the graffiti is more noticeably glowing.
 
 ## Regalia
-Regalia ruled Babilar for quite some time as a tyrant. She killed thousands of people, and let gangs terrorize the city. However, she soon changed and became a benevolent ruler. Unlike [[Steelheart (Epic)\|Steelheart]], Regalia does not rely on oppression and fear to rule her populace anymore. Regalia has the power to move, see out of, and create projections from water. She is terminally ill with cancer and uses her projections to rule the city. As she can not be present among the city, she appointed [[Newton\|Newton]], a lesser Epic, as her right hand woman. Newton heads the only gang in Babilar, which patrols throughout Babilar, but usually does not resort to violence.
-Regalia sent [[Mitosis\|Mitosis]], [[Instabam\|Instabam]], and [[Sourcefield\|Sourcefield]] to try and lure [[Prof\|Prof]] to Babilar. She also brought [[Obliteration\|Obliteration]] to Babilar, and promised that he would be able to destroy the city if he served her for some time. Regalia ended up making a motivator from Obliteration that was about to destroy the city before Prof interfered.
+Regalia ruled Babilar for quite some time as a tyrant. She killed thousands of people, and let gangs terrorize the city. However, she soon changed and became a benevolent ruler. Unlike , Regalia does not rely on oppression and fear to rule her populace anymore. Regalia has the power to move, see out of, and create projections from water. She is terminally ill with cancer and uses her projections to rule the city. As she can not be present among the city, she appointed [[Newton\|Newton]], a lesser Epic, as her right hand woman. Newton heads the only gang in Babilar, which patrols throughout Babilar, but usually does not resort to violence.
+Regalia sent [[Mitosis\|Mitosis]], [[Instabam\|Instabam]], and [[Sourcefield\|Sourcefield]] to try and lure  to Babilar. She also brought [[Obliteration\|Obliteration]] to Babilar, and promised that he would be able to destroy the city if he served her for some time. Regalia ended up making a motivator from Obliteration that was about to destroy the city before Prof interfered.
 
 ## Notable Residents
-For all residents, see here.
+Para all residents, ver here.
 [[Valentine\|Valentine]]
 [[Missouri Williams\|Missouri Williams]]
 [[Sam (Reckoner)\|Sam]]
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
+|**Lugares**| ·  · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Babilar
+
+https://es.coppermind.net/wiki/Babilar

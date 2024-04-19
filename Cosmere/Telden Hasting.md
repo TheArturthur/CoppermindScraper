@@ -1,69 +1,93 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Telden Hasting**|
 |-|-|
-|**Family**|[[House Hasting\|House Hasting]]|
-|**Residence**|[[Fadrex City\|Fadrex City]]|
-|**Ethnicity**|[[Noble\|Noble]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Family**|[[Casa Hasting\|Casa Hasting]]|
+|**Residencia**|[[Ciudad Fadrex\|Ciudad Fadrex]]|
+|**Etnia**|[[Noble\|Noble]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“* What happened to you, Elend? Where is the man who talked about rights and legality?*”
+>“* ¿Qué te ha pasado, Elend? ¿Dónde está el hombre que hablaba de derechos y legalidad?*”
 \- Telden Hasting[1]
 
 
-**Telden Hasting** is a [[Noble\|noble]] of [[House Hasting\|House Hasting]] from [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]].
+**Telden Hasting** es un [[Noble\|noble]] de la [[Casa Hasting\|Casa Hasting]] de [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]].
 
-## Contents
+## Sumario
 
-1 Personality and Appearance
-2 History
+1 Personalidad y apariencia. [[#Personalidad y apariencia]] 
+2 Historia. [[#Historia]] 
 
-2.1 Youth
-2.2 Collapse of the Final Empire
-2.3 Life in Fadrex City
-
-
-3 Relationships
-
-3.1 Elend
+2. [[#Juventud]] 
+2. [[#Colapso del Imperio Final]] 
+2. [[#Vida en Ciudad Fadrex]] 
 
 
-4 Trivia
-5 Notes
+3 Relaciones. [[#Relaciones]] 
+
+3. [[#Elend]] 
 
 
-## Personality and Appearance
->“* Elend's prattling about class imbalance seems like silliness to me, but I can see the importance of presenting a unified front before the Lord Ruler*”
-\- Telden on Elend's beliefs[2]
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-Telden Hasting is a tall man, with a sort of square body shape and a deep voice. As a young man, Telden is a dandy. He is always very well-dressed in expensive suits and fashionable, his hair is always perfectly arranged. He is enviably attractive and always very relaxed and comfortable. Telden is also something of a flirt, particularly towards serving women. As second son he has fewer responsibilities and can spend more time pursuing women. Telden never gets too close to the women he chases though. Telden has little interest in practical politics, but remains aware of political situations and always avoids women who might be spies or have questionable loyalties. After the [[Collapse\|Collapse]], Telden gains some weight, and while still well dressed, he is less concerned with fashion and style. Telden retained some of his carefree and relatively innocent nature, even through the horrors surrounding the death of the Lord Ruler.
-Despite his lack of interest in practical politics or trickery, Telden enjoys discussing philosophy and political theory with his friends. Telden is well-versed in many of the same subjects and theories that his good friend Elend Venture knows, although he does not enjoy reading nearly as much. Unlike Elend, Telden has little love for the [[Skaa\|skaa]]. He never understood Elend's obsession with them. Telden spends very little time in politicking but he is a clever man, able to disguise any nervousness and display confidence in situations where he is in danger. He also displays some bravery on occasion, and is willing to put himself in dangerous situations to help Yomen.
+## Personalidad y apariencia
+>“*El parloteo de Elend sobre la desigualdad de clases me parece una tontería, pero entiendo la importancia de formar un frente unido contra el lord Legislador*”
+\- Telden sobre las convicciones de Elend[2]
 
-## History
-### Youth
-Telden was born the second son to Lord Hasting in Luthadel, the leader of the second most powerful house in Luthadel. As the second son, Telden grew up without many responsibilities to his house, he was able to spend his youth chasing after women that interested him rather than engaging in political maneuvering.
-Telden grew up as a member of house a whose political enemy was [[House Venture\|House Venture]], but he still became good friends with its heir, [[Elend\|Elend]]. They remained friends for many years, and by the time they were young men Elend was one of Telden's oldest and best friends. Telden spent much of his time giving relationship advice to Elend, but considered the man to be a lost cause when it came to women. Telden and Elend, along with [[Jastes Lekal\|Jastes Lekal]] and a couple other young nobles, often met in the evenings to drink wine and discuss politics. Through these conversations, Elend eventually managed to convince Telden that the [[Lord Ruler\|Lord Ruler]] was not a good king. Telden was no revolutionary, but he believed that the nobles should be united against the Lord Ruler in order to conserve their power.
 
-### Collapse of the Final Empire
-As [[Kelsier\|Kelsier]] and his crew began their plan to destroy the [[Final Empire\|Final Empire]], Telden's meetings with Elend after noble balls drew the attention of [[Vin\|Vin]], in the guise of Valette Renoux, and [[Sazed\|Sazed]]. Sazed informed Kelsier of these meetings, and both he and Vin listened in on a few of them. Kelsier was unconcerned with these meetings, believing them to be meaningless. During some of these meetings, Telden and Jastes counseled Elend to be wary of Valette Renoux, believing her to be a spy from another house. Despite the mounting tensions among the noble houses, Telden remained convinced that the whole affair would blow over in a few months and no house war would occur.
-As Kelsier continued with his manipulations, House Hasting was pushed to the brink of destruction. When the house war finally errupted, Keep Hasting was burned by [[House Elariel\|House Elariel]] in the night, and House Hasting collapsed. Telden remained in Luthadel until Elend was crowned king of the [[Central Dominance\|Central Dominance]], but left Luthadel shortly thereafter, believing Elend to be little more than a figurehead. Telden and what remained of his family retreated to the city of [[BasMardin\|BasMardin]] in the [[Western Dominance\|Western Dominance]], which suffered from [[Koloss\|koloss]] raids. Once Lord [[Ashweather Cett\|Ashweather Cett]] left the Western Dominance and the [[Obligator\|obligator]] [[Aradan Yomen\|Aradan Yomen]] took control of [[Fadrex City\|Fadrex City]], Telden left his family and relocated to Fadrex, believing it to be less dangerous and more stable.
+Telden Hasting es un hombre alto, con un cuerpo de forma rectangular y una voz profunda. Como joven, Telden es un dandi. Siempre está muy bien vestido con trajes caros a la moda, y su cabello está siempre perfectamente arreglado. Es envidiablemente atractivo y siempre está muy relajado y cómodo. Telden también coquetea, particularmente con las sirvientas. Como segundo hijo tiene menos responsabilidades y puede pasar más tiempo persiguiendo a las mujeres. Aunque Telden nunca se acerca demasiado a las mujeres que persigue. Telden tiene poco interés en la política práctica, pero sigue siendo consciente de las situaciones políticas y siempre evita a las mujeres que puedan ser espías o tengan lealtades cuestionables. Tras el [[Colapso\|Colapso]], Telden gana algo de peso, y aunque aún viste bien, está menos preocupado por la moda y el estilo. Conservó algo de su naturaleza despreocupada y relativamente inocente, incluso a pesar de los horrores que rodean la muerte del lord Legislador.
+A pesar de su falta de interés en la política práctica o sus artimañas, Telden disfruta discutiendo sobre filosofía y teoría política con sus amigos. Telden es muy versado en muchos de los mismos temas y teorías que sabe su buen amigo Elend Venture, aunque no le gusta leer tanto. A diferencia de Elend, Telden tiene poco amor por los [[Skaa\|skaa]]. Nunca entendió la obsesión de Elend con ellos. Telden pasa muy poco tiempo politiqueando, pero es un hombre inteligente, capaz de disfrazar cualquier nerviosismo y mostrar confianza en situaciones donde está en peligro. También muestra algo de valentía en ocasiones, y está dispuesto a ponerse en situaciones peligrosas para ayudar a Yomen.
 
-### Life in Fadrex City
-Telden lived in Fadrex for some time, and became good friends with Yomen. Telden heard rumors from Luthadel that Elend had truly seized power in the city, but refused to believe them initially. After the city was besieged by Elend's armies, Telden attended a ball held at [[Keep Orielle\|Keep Orielle]], where he met Elend and [[Vin\|Vin]]. Telden and Elend spoke for a time, Telden expressing his disbelief that Elend had set himself up as emperor and intended to conquer the city by force, comparing him to the Lord Ruler. Elend attempted to convince Telden that he was no tyrant and that his actions were necessary. Telden still doubted the truth of this, but changed the subject to his shock at Elend's marriage to Vin after Elend's hopelessness with women in his past. They parted as Elend went to speak with Yomen.
-After Vin was captured by Yomen while searching Fadrex's storage cache, Telden and some skaa servants were sent down to speak with her by Yomen. Telden's mission was to persuade Vin to drink wine with a powerful sedative in it so that she could be transported to a proper cell instead of remaining trapped in the cache. Telden himself doubted that he would convince her to do so. However, Telden successfully convinced Vin that no matter what she did to him and his servants, Yomen was unlikely to open the cache unless he gave the all-clear signal of his own free will, so Vin drank the wine and fell unconscious, in spite of her [[Duralumin\|duralumin]]-enhanced [[Pewter\|pewter]] [[Allomancy\|burning]].
-Telden's ultimate fate is unknown, there is no mention whether or not he survived the chaos surrounding the [[Final Ascension\|Final Ascension]] and the [[Catacendre\|Catacendre]], but as House Hasting exists in [[Elendel\|Elendel]], it seems likely that Telden or at least some of his family made it to a storage cache and survived.
+## Historia
+### Juventud
+Telden nació siendo el segundo hijo de lord Hasting en Luthadel, el líder de la segunda casa más poderosa de Luthadel. Como el segundo hijo, Telden creció sin muchas responsabilidades en su casa, fue capaz de pasar su juventud persiguiendo a las mujeres que le interesaban en lugar de participar en maniobras políticas.
+Telden creció como miembro de una casa cuyo enemigo político era la [[Casa Venture\|Casa Venture]], pero aún así se hizo buen amigo de su heredero, [[Elend\|Elend]]. Siguieron siendo amigos durante muchos años, y cuando eran jóvenes Elend era uno de los mejores y más antiguos amigos de Telden. Telden pasó gran parte de su tiempo dando consejos para relaciones a Elend, aunque lo consideraba una causa perdida cuando se trataba de mujeres. Telden y Elend, junto con [[Jastes Lekal\|Jastes Lekal]] y un par de jóvenes nobles, a menudo se reunían por las noches para beber vino y discutir de política. A través de estas conversaciones, Elend finalmente logró convencer a Telden de que el [[Lord Legislador\|lord Legislador]] no era un buen rey. Telden no era un revolucionario, pero creía que los nobles debían unirse contra el lord Legislador con el fin de conservar su poder.
 
-## Relationships
+### Colapso del Imperio Final
+A medida que [[Kelsier\|Kelsier]] y su banda empezaron su plan para destruir el [[Imperio Final\|Imperio Final]], las reuniones de Telden con Elend tras los bailes de los nobles atrajeron la atención de [[Vin\|Vin]], disfrazada de Valette Renoux, y [[Sazed\|Sazed]]. Sazed informó a Kelsier de estas reuniones, y ambos, él y Vin, escucharon algunas de ellas. Kelsier no estaba preocupado por estos encuentros, creyendo que no tenían sentido. Durante algunas de estas reuniones, Telden y Jastes aconsejaron a Elend que desconfiara de la Valette Renoux, creyendo que era una espía de otra casa. A pesar de las crecientes tensiones entre las casas nobles, Telden seguía convencido de que todo el asunto se acabaría en pocos meses y no habría guerra entre ellas.
+Mientras Kelsier continuaba con sus manipulaciones, la Casa Hasting fue llevada al borde de la destrucción. Cuando la guerra entre casas finalmente estalló, el Torreón Hasting fue quemado por la [[Casa Elariel\|Casa Elariel]] por la noche, y la Casa Hasting colapsó. Telden permaneció en Luthadel hasta que Elend fue coronado rey del [[Dominio Central\|Dominio Central]], pero dejó Luthadel poco después, creyendo que Elend era poco más que un figurante. Telden y lo que quedaba de su familia se retiraron a la ciudad de [[BasMardin\|BasMardin]] en el [[Dominio Occidental\|Dominio Occidental]], la cual sufrió incursiones de [[Koloss\|koloss]]. Una vez que lord [[Ashweather Cett\|Ashweather Cett]] dejó el Dominio Occidental y el [[Obligador\|obligador]] [[Aradan Yomen\|Aradan Yomen]] tomó el control de [[Ciudad Fadrex\|Ciudad Fadrex]], Telden dejó a su familia y se trasladó a Fadrex, creyendo que era menos peligrosa y más estable.
+
+### Vida en Ciudad Fadrex
+Telden vivió en Fadrex durante algún tiempo, y se hizo buen amigo de Yomen. Telden escuchó rumores de Luthadel de que Elend había tomado realmente el poder en la ciudad, pero se negó a creerlos inicialmente. Después de que la ciudad fuese sitiada por los ejércitos de Elend, Telden fue a un baile organizado en la [[Fortaleza Orielle\|fortaleza Orielle]], donde se encontró con Elend y [[Vin\|Vin]]. Telden y Elend hablaron durante un rato, Telden expresó su incredulidad de que Elend se había establecido como emperador y tenía la intención de conquistar la ciudad por la fuerza, comparándolo con el lord Legislador. Elend intentó convencer a Telden de que no era un tirano y que sus acciones eran necesarias. Telden todavía dudaba de la veracidad de esto, pero cambió este tema por su sorpresa por el matrimonio de Elend con Vin, ya que en el pasado pensó no tener esperanza con Elend y las mujeres. Se separaron cuando Elend fue a hablar con Yomen.
+Después de que Vin fuese capturada por Yomen mientras buscaba el [[Caverna de suministros\|almacén de suministros]] de Fadrex, Telden y otros sirvientes skaa fueron enviados por Yomen para hablar con ella. La misión de Telden era persuadir a Vin a beber vino con un poderoso sedante para que pudiese ser transportada a una celda adecuada en lugar de permanecer atrapada en el almacén. El propio Telden dudaba que él pudiese convencerla de hacerlo. Sin embargo, Telden convenció con éxito a Vin de que no importaba lo que le hiciese a él y a sus sirvientes, era poco probable que Yomen abriese el almacén a menos que diese la señal clara de su propia libertad, así que Vin bebió el vino y cayó inconsciente, a pesar de [[Alomancia\|quemar]] su [[Peltre\|peltre]] mejorado por el [[Duraluminio\|duraluminio]].
+El destino final de Telden es desconocido, no hay mención de si sobrevivió o no al caos que rodeaba la [[Ascensi%C3%B3n Final\|Ascensión Final]] y el [[Catacendro\|Catacendro]], pero ya que la Casa Hasting existe en [[Elendel\|Elendel]], parece probable que Telden o al menos algunos de su familia consiguieron llegar a una caverna de suministros y sobrevivieron.
+
+## Relaciones
 ### Elend
->“* I thought that they had picked you as a puppet, El. I thought . . . well, I’m sorry. I guess I just didn’t have much faith in you.*”
-\- Telden to Elend about his coronation[1]
+>“* Creí que te [[Banda de Kelsier\|habían]] escogido como títere, El. Pensé... bueno, lo siento. Supongo que no tenía mucha fe en ti.*”
+\- Telden a Elend sobre su coronación[1]
 
 
-Telden and Elend had a strong friendship in their youth, although they were very different people. Telden's concerns were with women, and all of his attempts to give Elend relationship advice went nowhere. Telden could not understand his friends odd love of books and the skaa. He was a little dismissive of Elend believing that he and his scholarly habits were a little bit boring and that Elend would never end up married. He agreed with some of Elend's more practical beliefs though, hoping the nobility could regain political power they had lost to the Lord Ruler through a united front. Elend for his part often had to work hard to convince Telden of his beliefs. Telden also had little faith in Elend as a politician, believing that he was a puppet of Kelsier's crew and never would be able to actual rule a nation.
-After Elend's [[New Empire\|New Empire]] began to absorb the other nascent nations, Telden realized that Elend was seriously considering taking Fadrex City by force. He did not understand what had happened to his idealist friend. He believed that Elend had betrayed all that he had once stood for. By this point, Telden and Elend had grown distant, they merely had memories of friendship. Elend was also afraid to tell Telden that he had executed their mutual friend Jastes Lekal. Telden treated Elend differently as well, bowing to him when he withdrew from Elend's presence. Elend had grown into a realist, while Telden remained the carefree man that he always had been.
+Telden y Elend tuvieron una fuerte amistad en su juventud, aunque eran personas muy diferentes. Las preocupaciones de Telden eran con las mujeres, y todos sus intentos de dar a Elend consejos sobre relaciones no fueron a ninguna parte. Telden no podía entender el extraño amor de sus amigos por los libros y los skaa. Era un poco despectivo con Elend porque creía que él y sus hábitos académicos eran un poco aburridos y que Elend nunca se casaría. Aunque estaba de acuerdo con algunos de los pensamientos más prácticos de Elend, con la esperanza de que la nobleza pudiese recuperar el poder político que había perdido ante el lord Legislador haciendo un frente unido. Elend por su parte a menudo tuvo que trabajar duro para convencer a Telden de sus creencias. Telden también tenía poca fe en Elend como político, creyendo que era un títere de la banda de Kelsier y que nunca sería capaz de gobernar una nación de verdad.
+Cuando el [[Nuevo Imperio\|Nuevo Imperio]] de Elend comenzó a absorber las otras naciones que habían surgido, Telden se dio cuenta de que Elend estaba considerando seriamente tomar Ciudad Fadrex por la fuerza. No entendía lo que le había pasado a su amigo el idealista. Creía que Elend había traicionado todo lo que había defendido. En ese momento, Telden y Elend se habían distanciado, solo tenían recuerdos de su amistad. Elend también tenía miedo de decirle a Telden que había ejecutado a su amigo mutuo Jastes Lekal. Telden trató a Elend de manera diferente también, inclinándose ante él cuando se retiró de su presencia. Elend se había convertido en realista, mientras que Telden seguía siendo el hombre despreocupado que siempre había sido.
 
-## Trivia
-Telden's appearance in [[The Hero of Ages\|The Hero of Ages]] is an intentional callback to [[The Final Empire\|The Final Empire]]. Brandon missed some themes from the first book while writing [[The Well of Ascension\|The Well of Ascension]], so he very intentionally included some of those elements in the final book. Telden's appearance at the ball is a part of that.
+## Curiosidades
+La aparición de Telden en [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] es una llamada intencionada a [[El Imperio Final\|El Imperio Final]]. Brandon dejó algunos temas del primer libro mientras escribía [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]], así que incluyó intencionalmente algunos de esos elementos en el último libro. La aparición de Telden en el baile es parte de ellos.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 21:59, 17 June 2016 (MST)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-https://coppermind.net/wiki/Telden_Hasting
+
+https://es.coppermind.net/wiki/Telden_Hasting

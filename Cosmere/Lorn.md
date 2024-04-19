@@ -1,24 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Lorn**|
 |-|-|
-|**Profession**|Superiority pilots|
-|**Species**|[[Heklo\|Heklo]]|
-|**Homeworld**|*Unknown*|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Oficio**|Piloto de la Supremacía|
+|**Especie**|[[Heklo\|Heklo]]|
+|**Mundo natal**|*Desconocido*|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
->“*They're never going to let you out of here, Lorn. They don't care about you. Why are you still loyal?*”
-\-Peg to Lorn[1]
-
-
-**Lorn** is a [[Heklo\|heklo]] pilot that works for the [[Superiority\|Superiority]], and is the base commander at the Superiority outpost of [[Surehold\|Surehold]]. He commands the group of fighter pilots defending Surehold, but only does so because the Superiority holds family captive.
-
-## History
->“*You promise to do this for me? For everyone they're holding? You'll get them back through so we can be together?*”
-\-Lorn to Peg[1]
+>“*No van a dejar que salgas de aquí nunca, Lorn. Les traes sin cuidado. ¿Por qué sigues fiel a ellos?*”
+\-Palo a Lorn[1]
 
 
-Lorn was forced to serve the Superiority when they took his family and sent him to the [[Nowhere\|nowhere]]. Lorn knew [[Peg\|Peg]], before Peg had to leave the station and become a pirate. Lorn made an alliance with [[Vlep\|Vlep]] and the [[Cannonade Faction\|Cannonade Faction]] when Peg and the other pirate factions assaulted Surehold as one. Lorn and his pilots fought against the attackers, but when Vlep and his ships left the battle, Lorn was defeated.
-Lorn initially wouldn't surrender, since the Superiority held his family, but Peg convinced him to join her side. Peg suggested that with Lorn's knowledge of Surehold's security codes, they could easily take the base, and seize the acclivity stone held there. They could then hold the acclivity stone as a ransom to make the Superiority return Lorn's family, as well as the families of Lorn's companions. Lorn agreed, making Peg promise to do as she said, then warned her that they'd have to isolate and capture Superiority agents on the station, who had been sent to keep an eye him. With Lorn handing over security codes to Peg, they deactivated the anti-aircraft turrets so they could approach Surehold safely. Lorn led Peg and her sons to the base security center, where they obtained weapons, and sent out a call for all personnel to go to their quarters, making it easier to find and take care of dissidents. The base was taken smoothly, allowing [[Spensa Nightshade\|Spensa]] and [[Chet\|Chet]] to gain access.
+**Lorn** es un piloto [[Heklo\|heklo]] que trabaja para la [[Supremac%C3%ADa\|Supremacía]], y es el comandante de la base en el puesto avanzado de la Supremacía en [[Fuerteseguro\|Fuerteseguro]]. Comanda el grupo de pilotos de combate que defiende Fuerteseguro, pero sólo lo hace porque la Supremacía mantiene cautiva a su familia.
+
+## Historia
+>“*¿Prometes que harás eso por mí? ¿Para toda la gente que tienen retenida? ¿Harás que los envíen aquí para que podamos estar juntos?*”
+\-Lorn a Palo[1]
+
+
+Lorn se vio obligado a servir a la Supremacía cuando se llevaron a su familia y lo enviaron a la [[Ninguna-parte\|ninguna-parte]]. Lorn conoció a [[Palo (Escuadr%C3%B3n)\|Palo]], antes de que ella tuviera que abandonar la estación y convertirse en pirata. Lorn se alió con [[Vlep\|Vlep]] y la [[Facci%C3%B3n de los Ca%C3%B1oneros\|Facción de los Cañoneros]] cuando Palo y las demás facciones piratas asaltaron Fuerteseguro como una sola. Lorn y sus pilotos lucharon contra los atacantes, pero cuando Vlep y sus naves abandonaron la batalla, Lorn fue derrotado.
+Al principio, Lorn no quería rendirse, ya que la Supremacía retenía a su familia, pero Palo le convenció para que se uniera a su bando. Ella sugirió que si Lorn conocía los códigos de seguridad de Fuerteseguro, podrían tomar fácilmente la base y apoderarse de la piedra de pendiente. Entonces podrían utilizar la piedra de pendiente como rescate para que la Supremacía devolviera a la familia de Lorn, así como a las familias de sus compañeros. Lorn aceptó, haciendo prometer a Palo que haría lo que ella dijera, y luego le advirtió que tendrían que aislar y capturar a los agentes de la Supremacía en la estación, que habían sido enviados para vigilarlo. Cuando Lorn entregó los códigos de seguridad a Palo, desactivaron las torretas antiaéreas para poder acercarse a Fuerteseguro sin peligro. Lorn condujo a Palo y a sus hijos al centro de seguridad de la base, donde obtuvieron armas, y envió una llamada para que todo el personal se dirigiera a sus cuarteles, facilitando así la búsqueda y el cuidado de los disidentes. La base fue tomada sin problemas, lo que permitió a [[Spensa Nightshade\|Spensa]] y [[Chet\|Chet]] acceder a ella.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Taln Fan (talk) 20:15, 21 de mayo de 2022 (UTC)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Lorn
+https://es.coppermind.net/wiki/Lorn

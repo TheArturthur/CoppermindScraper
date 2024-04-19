@@ -1,88 +1,113 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Bilming**|
 |-|-|
-|by  Gerard Segura |
-|**Region**|[[Elendel Basin\|Elendel Basin]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Región**|[[Cuenca de Elendel\|Cuenca de Elendel]]🐱︎|
+|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
 >“*Many in Elendel thought they had let the people of Bilming grow too independent—and in recent years, it had become the one city in the Basin that could legitimately rival Elendel.*”
 \-Marasi Colms[1]
 
 
-**Bilming** is a port city in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]]. A center of industry, it is the only major port city in the Basin other than [[Elendel\|Elendel]]. The city's symbol is a tortoise, and residents are referred to as "Bilmingers." Bilming is the location of the [[Set\|Set's]] base in 348 [[Catacendre\|PC]] when the group aims to destroy the Elendel government and prove themselves to [[Autonomy\|Autonomy]]. The presence of the Set in the years leading up to this drives certain political and cultural changes in Bilming, which finds itself caught in the crossfire; [[Telsin\|Telsin]] and the Set manipulate things from the background as part of their scheme to take over the planet.
+**Bilming** es una ciudad portuaria de la [[Cuenca de Elendel\|Cuenca de Elendel]] en [[Scadrial\|Scadrial]]. Se trata de un centro industrial y es la única ciudad portuaria importante de la cuenca aparte de [[Elendel\|Elendel]]. El símbolo de la ciudad es una tortuga, y a los residentes se les llama "bilmingués". Bilming es la ubicación de la base del [[El Grupo\|Grupo]] en 348 [[Catacendro\|PC]] cuando pretenden destruir el gobierno de Elendel y demostrar su valía a [[Autonom%C3%ADa\|Autonomía]]. La presencia del Grupo en los años previos impulsa ciertos cambios políticos y culturales en Bilming, que se encuentra atrapada entre dos fuegos; [[Telsin\|Telsin]] y el Grupo manipulan las cosas desde un segundo plano como parte de su plan para apoderarse del planeta.
 
-## Contents
+## Sumario
 
-1 Geography
-2 Landmarks
-3 History
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Lugares de interés. [[#Lugares de inter.C3.A9s]] 
+3 Historia. [[#Historia]] 
 
-3.1 Friction with Elendel
-3.2 The Set's Presence
-
-
-4 Culture
-5 Politics
-6 Notable Citizens
-7 Trivia
-8 Notes
+3. [[#Roce con Elendel]] 
+3. [[#Presencia del Grupo]] 
 
 
-## Geography
-The city of Bilming is located on a peninsula on the [[Sea of Yomend\|Sea of Yomend]]. A railway connects it to Elendel but not to others of the outer cities; its port alone allows it to circumvent this rail monopoly. At a contrast to the docks in Elendel which are relatively sheltered from large waves, Bilming is located such that it experiences rougher seas right up to its docks.
+4 Cultura. [[#Cultura]] 
+5 Política. [[#Pol.C3.ADtica]] 
+6 Ciudadanos destacados. [[#Ciudadanos destacados]] 
+7 Curiosidades. [[#Curiosidades]] 
+8 Notas. [[#Notas]] 
+
+
+## Geografía
+La ciudad de Bilming está situada en una península del [[Mar de Yomend\|Mar de Yomend]]. Un ferrocarril la conecta con Elendel pero no con las demás ciudades exteriores; sólo su puerto le permite eludir este monopolio ferroviario. A diferencia de los muelles de Elendel, que están relativamente protegidos de las olas, Bilming está situada de tal forma que los mares más agitados llegan hasta sus muelles.
 
 >“*Here on the promontory that Bilming occupied, the waters chopped and churned, crashing against the docks. No wonder the Bilming navy was made up of such hulking metal monstrosities.*”
 \-Waxillium[8]
 
-## Landmarks
-Bilming maintains a large fleet of clipper ships and cargo ships in its "impressive" harbor, and around 342 [[Catacendre\|PC]] it adds a new type of warship known as the [[Pewternaut\|Pewternaut]] with armored hulls and gun turrets. In addition, the city boasts an elevated rail line, which makes it unique among the other parts of the basin. The rail is an exceptionally quick mode of transportation through the city, and it is equipped with cushioned seats and private compartments.
-The Bilming City Records and Research Building is an example of the modern architecture found in the city. Made of a silvery metal, it is designed with many windows in the exterior walls and houses novel glass-walled rooms within.
-Since its economy boom, Bilming has become a metropolis with outlying suburbs. Its tallest building is a skyscraper at the center of the city called Independence Tower, nicknamed the Shaw because it is reminiscent of the spires of [[Kredik Shaw\|Kredik Shaw]]. The tower is some seventy or eighty stories high, with continuing construction evident on the top during 348 [[Catacendre\|PC]]. This tower is the [[Set\|Set's]] central hub of activity and features heavy fortifications with the capability to detect [[Cognitive Shadow\|Cognitive Shadows]]. Originally, the Set plans to use it as a launching point for a rocket intended to destroy Elendel.
-One of the Set's hidden training compounds is located in Bilming. Likely, this compound is connected with the caverns under the city which include places for secret research and are the location of the [[Community\|Community]]. The caverns have known entrances at Independence Tower, the [[Dulouis Building\|Dulouis Building]], and a tire factory at the outskirts of town owned by [[Basin Tires\|Basin Tires]].
+## Lugares de interés
+Bilming mantiene una gran flota de clipers y cargueros en su "impresionante" puerto, y alrededor de 342 [[Catacendro\|PC]] añade un nuevo tipo de buque de guerra conocido como [[Peltrenauta\|Peltrenauta]] con cascos blindados y torretas de artillería. Además, la ciudad cuenta con una línea de ferrocarril elevada, que la hace única entre las demás partes de la cuenca. El ferrocarril es un medio de transporte excepcionalmente rápido por la ciudad, y está equipado con asientos acolchados y compartimentos privados.
+El edificio de la Oficina Municipal de Registro e Investigación de la Ciudad de Bilming es un ejemplo de la arquitectura moderna de la ciudad. Fabricado en metal plateado, está diseñado con numerosas ventanas en las paredes exteriores y alberga en su interior novedosas salas con paredes de cristal.
+Desde su auge económico, Bilming se ha convertido en una metrópolis con suburbios periféricos. Su edificio más alto es un rascacielos en el centro de la ciudad llamado Torre Independencia, apodado Shaw porque recuerda a las agujas de [[Kredik Shaw\|Kredik Shaw]]. La torre tiene unos setenta u ochenta pisos de altura, con una construcción continua evidente en la parte superior durante 348 [[Catacendro\|PC]]. Esta torre es el centro de actividad del [[El Grupo\|Grupo]] y cuenta con fuertes fortificaciones con la capacidad de detectar [[Sombra cognitiva\|sombras cognitivas]]. Originalmente, el Grupo planea utilizarla como punto de lanzamiento para un cohete destinado a destruir Elendel.
+Uno de los recintos de entrenamiento ocultos del Grupo se encuentra en Bilming. Es probable que este complejo esté conectado con las cavernas bajo la ciudad, que incluyen lugares para la investigación secreta y son la localización de [[La Comunidad\|la Comunidad]]. Las cavernas tienen entradas conocidas en la Torre Independencia, el [[Edificio Dulouis\|Edificio Dulouis]] y una fábrica de neumáticos a las afueras de la ciudad propiedad de [[Neum%C3%A1ticos La Cuenca\|Neumáticos La Cuenca]].
 
- by  Gerard Segura  [[Wax\|Wax]] and [[Wayne\|Wayne]] overlooking Bilming
-## History
-### Friction with Elendel
-Bilming was created as part of the reshaping of Scadrial during the [[Catacendre\|Catacendre]]. A little over three hundred years later, its status as an alternative port to Elendel, which had set itself up as the undisputed capital of the basin, began causing some friction between the two cities. Elendel's governor [[Replar Innate\|Replar Innate]] at one point promised to raise tariffs on imports that came from Bilming, but it never happened. In 342 [[Catacendre\|PC]], Lord [[Bastien Severington\|Bastien Severington]], the mayor of Bilming, invited a number of senators from Elendel to the introduction of the [[Pewternaut\|Pewternauts]] as a gesture of friendship, only to have a senator named [[Inis Julien\|Inis Julien]] publicly call them pointless "toys." That same year, [[Devlin Airs\|Devlin Airs]] spoke to [[Waxillium Ladrian\|Waxillium Ladrian]] at [[Kelesina Shores's party\|Kelesina Shores's party]] and warned him that civil war was brewing. Wax listened to Lord Severington give an anti-Elendel speech at the party and realized that Bilming had enough power to spearhead a conflict. The establishment of trade relations with the [[Malwish Consortium\|Malwish Consortium]] subsequently led Bilming to great prosperity, as most of the trade came in through the city. By 348 [[Catacendre\|PC]], the economy was booming and there was a large amount of construction.
+  <<Wax\|Wax>> y <<Wayne\|Wayne>> observando Bilming
+## Historia
+### Roce con Elendel
+Bilming se creó como parte de la remodelación de Scadrial durante el [[Catacendro\|Catacendro]]. Poco más de trescientos años después, su condición de puerto alternativo a Elendel, que se había erigido como capital indiscutible de la cuenca, comenzó a causar ciertas fricciones entre ambas ciudades. El gobernador de Elendel, [[Replar Innate\|Replar Innate]], prometió en un momento dado aumentar los aranceles sobre las importaciones que procedían de Bilming, pero nunca llegó a suceder. En 342 [[Catacendro\|PC]], lord [[Bastien Severington\|Bastien Severington]], alcalde de Bilming, invitó a varios senadores de Elendel a la presentación de los [[Peltrenauta\|Peltrenautas]] como gesto de amistad, sólo para que un senador llamado [[Inis Julien\|Inis Julien]] los llamara públicamente "juguetes" sin sentido. Ese mismo año, [[Devlin Airs\|Devlin Airs]] habló con [[Waxillium Ladrian\|Waxillium Ladrian]] en la fiesta de [[Kelesina Shores\|Kelesina Shores]] y le advirtió de que se avecinaba una guerra civil. Wax escuchó a lord Severington dar un discurso anti-Elendel en la fiesta y se dio cuenta de que Bilming tenía poder suficiente para encabezar un conflicto. El establecimiento de relaciones comerciales con el [[Consorcio Malwish\|Consorcio Malwish]] llevó posteriormente a Bilming a una gran prosperidad, ya que la mayor parte del comercio entraba a través de la ciudad. Hacia 348 [[Catacendro\|PC]], la economía estaba en auge y había una gran cantidad de construcciones.
 
-### The Set's Presence
-The [[Set\|Set]] began establishing its presence in Bilming by at least 341 [[Catacendre\|PC]], in which year it brought [[Allomancer\|Allomancers]] kidnapped from Elendel there to live in the cavern system underneath the city. Residents of Bilming began noticing earthquakes in 343 [[Catacendre\|PC]]. In explanation, the city published news of a new subway system and began hiking taxes to fund it. However, at the same time the Bilming Transportation Authority also expanded the elevated rail system and the highways. In reality, the tremors were a result of the Set testing its bombs in the caverns. [[Gave Entrone\|Gave Entrone]] became lord mayor of Bilming in 346 [[Catacendre\|PC]] after proving himself the right kind of person to stand up to Elendel.
+### Presencia del Grupo
+[[El Grupo\|El Grupo]] comenzó a establecer su presencia en Bilming al menos en 341 [[Catacendro\|PC]], año en el que llevó allí a [[Alomante\|alomantes]] secuestrados en Elendel para que vivieran en el sistema de cavernas bajo la ciudad. Los residentes de Bilming comenzaron a notar terremotos en 343 [[Catacendro\|PC]]. Como explicación, la ciudad publicó la noticia de un nuevo sistema de metro y comenzó a subir los impuestos para financiarlo. Sin embargo, al mismo tiempo, la Secretaría de Transportes de Bilming también amplió el sistema de ferrocarril elevado y las autopistas. En realidad, los temblores eran consecuencia de que el Grupo probaba sus bombas en las cavernas. [[Gave Entrone\|Gave Entrone]] se convirtió en alcalde de Bilming en 346 [[Catacendro\|PC]] tras demostrar que era la persona adecuada para enfrentarse a Elendel.
 
 >“*PRIDE IN PROGRESS. OUTER CITIES SELF-RELIANCE MOVEMENT.*”
 \-From a billboard in Bilming[1]
 
-Tensions with Elendel rose even higher with the passage of the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]] in 348 [[Catacendre\|PC]]. The same year, [[Marsh\|Marsh]] went to Bilming looking for [[Atium\|atium]] and heard rumors of some unexpected happenings which he later related to Wax and his companions. [[Marasi\|Marasi]] and the Elendel constabulary conducted a sting operation in Bilming, which the Set used as propaganda against Elendel by saying their constabulary was meddling in outer cities affairs. Local papers inflated the operation's failure, further inflaming people against Elendel.
-The Elendel senate formed a council on the Bilming crisis, where they shared news of Bilming's efforts regarding railroad blockades, recruitment fliers for "security forces" spread throughout the [[Roughs\|Roughs]], and warships. In the meantime, Wax, [[Wayne\|Wayne]], Marasi, and [[Moonlight\|Moonlight]] investigated [[Tobal Copper\|Tobal Copper's]] disappearance in the city; the trail of evidence led them to confront [[Maraga Dulcet\|Maraga Dulcet]], after which the group split up. Marasi and Moonlight rescued the political prisoners and the [[Allomancer\|Allomancers]] secreted away by the Set into the caverns, bringing to light concrete evidence of the Bilming government's corruption. Wax and Wayne fought their way through Independence Tower and eventually made their way to the [[Pewternaut\|Pewternaut]] A16, stopping it from delivering its payload and starting a civil war ostensibly in the name of the outer cities.
+Las tensiones con Elendel aumentaron aún más con la aprobación de la [[Ley de la Supremac%C3%ADa de Elendel\|Ley de la Supremacía de Elendel]] en 348 [[Catacendro\|PC]]. Ese mismo año, [[Marsh\|Marsh]] fue a Bilming en busca de [[Atium\|atium]] y escuchó rumores de algunos sucesos inesperados que más tarde relató a Wax y sus compañeros. [[Marasi\|Marasi]] y la policía de Elendel llevaron a cabo una operación encubierta en la ciudad, que el Grupo utilizó como propaganda contra Elendel diciendo que su policía se entrometía en los asuntos de las ciudades exteriores. Los periódicos locales inflaron el fracaso de la operación, encendiendo aún más a la gente contra Elendel.
+El senado de Elendel formó un consejo sobre la crisis de Bilming, donde compartieron noticias sobre los esfuerzos de Bilming en relación con los bloqueos de ferrocarril, los volantes de reclutamiento para las "fuerzas de seguridad" repartidos por [[Los %C3%81ridos\|los Áridos]] y los buques de guerra. Mientras tanto, Wax, [[Wayne\|Wayne]], Marasi y [[Luzdeluna\|Luzdeluna]] investigaron la desaparición de [[Tobal Cobre\|Tobal Cobre]] en la ciudad; el rastro de pruebas les llevó a encontrarse con [[Maraga Dulcet\|Maraga Dulcet]], tras lo cual el grupo se separó. Marasi y Luzdeluna rescataron a los prisioneros políticos y a los [[Alomante\|alomantes]] ocultos por el Grupo en las cavernas, sacando a la luz pruebas concretas de la corrupción del gobierno de Bilming. Wax y Wayne se abrieron paso por la Torre Independencia y con el tiempo llegaron hasta el [[Peltrenauta\|Peltrenauta]] A16, impidiéndole entregar su carga útil y comenzando una guerra civil aparentemente en nombre de las ciudades exteriores.
 
-## Culture
-Residents of Bilming hold a deep distrust of [[Malwish\|Malwish]] technology, which is pushed by a propaganda campaign in broadsheets such as *The Two Seasons*. They consider their unsealed and unkeyed metalminds to be a form of nefarious witchcraft that puts them and their loved ones in danger.
+## Cultura
+Los habitantes de Bilming desconfían profundamente de la tecnología [[Malwish\|malwish]], impulsada por una campaña de propaganda en periódicos como *[[Las Dos Estaciones\|Las Dos Estaciones]]*. Consideran que sus mentes metálicas sin sellar y liberadas son una forma de brujería nefasta que les pone a ellos y a sus seres queridos en peligro.
 
 >“*This wasn't a rural backwater; Bilming was a metropolis in the making.*”
 \-Marasi Colms[1]
 
-In 343 [[Catacendre\|PC]] the city begins to be characterized by a regular pattern of modern buildings with calculated differences which are erected in the place of older, more individual ones. The overall effect is that of "mass-produced individuality." In fact, the new style taking over the city comes from a  movement on [[Taldain\|Taldain]] which has been brought to [[Scadrial\|Scadrial]] by Autonomy's influence. In her drive to impress Autonomy, [[Telsin\|Telsin]] plans on making the whole world like Bilming in this regard. The Bilming government advertises on billboards all over the city in a bid both to popularize the modernization of the city and to promote ill feelings toward Elendel.
-Bilmingers are characterized by their own distinct accent, and they also have a particular way of dressing.
+En 343 [[Catacendro\|PC]] la ciudad empieza a caracterizarse por un patrón regular de edificios modernos con diferencias calculadas que se erigen en el lugar de otros más antiguos e individuales. El efecto general es el de una "individualidad producida en serie". De hecho, el nuevo estilo que se apodera de la ciudad procede de un movimiento  en [[Taldain\|Taldain]] que ha llegado a [[Scadrial\|Scadrial]] por influencia de Autonomía. En su afán por impresionarla, [[Telsin\|Telsin]] planea que todo el mundo sea como Bilming en este aspecto. El gobierno de la ciudad se anuncia en vallas publicitarias en un intento tanto de popularizar la modernización de la ciudad como de promover los malos sentimientos hacia Elendel.
+Los bilmingueses se caracterizan por su acento propio, y también tienen una forma particular de vestir.
 
-## Politics
+## Política
 >“*Lord mayor of Bilming was an important position—probably the most important one outside of Elendel.*”
 \-Waxillium[20]
 
 
-As one of the outer cities, Bilming largely resents the role of [[Elendel\|Elendel]] in governing the Basin. Its location as a port city allows it to take a forward role in opposing Elendel's supremacy, and it begins building a fleet of warships even before it can reasonably adopt the guise of defending the basin from the [[Malwish Consortium\|Malwish Consortium]]. In addition, the Bilming government employs its own chemists and has its own military. By 348 [[Catacendre\|PC]], Bilming has become the main representative of outer cities interests.
-The [[Set\|Set]] is happy to inflame the city's grievances against Elendel, and the political situation lends itself well to them establishing a base in Bilming. The organization becomes so entrenched in the city that it effectively has control over it. As part of her plot against Elendel involving a [[Harmonium\|harmonium]] bomb, [[Telsin\|Telsin]] forges letters from Elendel senators that she plans to reveal after the bomb's detonation to make it look like Elendel blew itself up. Bilming would then "reluctantly" have to access the technology used in the bomb to be able to defend the basin from the Malwish Consortium.
-Bilming has a local government consisting of a mayor and a council made up from different political parties. [[Bastien Severington\|Bastien Severington]] serves as mayor at least from 342 [[Catacendre\|PC]] until 346 [[Catacendre\|PC]], when [[Gave Entrone\|Gave Entrone]] takes over the position. During Entrone's term, [[Pielle Fromed\|Pielle Fromed]] acts as head of the opposition in the Bilming Council and the local advisor to the senate. Entrone's alliance with the Set, however, gives him the power to shut down opposing viewpoints. Pielle and several others who disagree with the governor's actions are kidnapped and taken to the caverns under the city. It isn't until after [[Waxillium\|Waxillium]], [[Marasi\|Marasi]], and their companions foil the Set's plots against Elendel and Telsin's bid to impress [[Autonomy\|Autonomy]] that the constabulary in Bilming begins to accept evidence of Gave Entrone's malfeasance.
-The [[Ghostblood\|Ghostbloods]] also have a presence in the city, with three agents residing there during 348 [[Catacendre\|PC]]. They assist Marasi in stopping the Set in order to save the planet from Autonomy.
+Como una de las [[/wiki/Cuenca de Elendel#Ciudades exteriores]], Bilming resiente en gran medida el papel de [[Elendel\|Elendel]] en el gobierno de la cuenca. Su ubicación como ciudad portuaria le permite tomar un papel de vanguardia en la oposición a la supremacía de Elendel, y comienza a construir una flota de buques de guerra, incluso antes de que pueda adoptar la apariencia de defender la cuenca del [[Consorcio Malwish\|Consorcio Malwish]]. Además, el gobierno de Bilming emplea a sus propios químicos y tiene su propio ejército. En 348 [[Catacendro\|PC]], Bilming se ha convertido en el principal representante de los intereses de las ciudades exteriores.
+[[El Grupo\|El Grupo]] está encantado de avivar los rencores de la ciudad contra Elendel, y la situación política se presta bien a que establezcan una base en Bilming. La organización llega a estar tan arraigada en la ciudad que efectivamente tiene el control sobre ella. Como parte de su complot contra Elendel con una bomba de [[Armonium\|armonium]], [[Telsin\|Telsin]] falsifica cartas de senadores de Elendel que planea revelar tras la detonación de la bomba para que parezca que Elendel se explotó a sí misma. Bilming tendría entonces que acceder "a regañadientes" a la tecnología utilizada en la bomba para poder defender la cuenca del Consorcio Malwish.
+Bilming tiene un gobierno local compuesto por un alcalde y un consejo formado por diferentes partidos políticos. [[Bastien Severington\|Bastien Severington]] ejerce como alcalde al menos desde 342 [[Catacendro\|PC]] hasta 346 [[Catacendro\|PC]], cuando [[Gave Entrone\|Gave Entrone]] asume el cargo. Durante el mandato de Entrone, [[Pielle Fromed\|Pielle Fromed]] actúa como jefe de la oposición en el Consejo de Bilming y consejero local del Senado. Sin embargo, la alianza de Entrone con el Grupo le otorga el poder de acallar los puntos de vista contrarios. Pielle y varios otros que no están de acuerdo con las acciones del gobernador son secuestrados y llevados a las cavernas bajo la ciudad. No es hasta después de que [[Waxillium\|Waxillium]], [[Marasi\|Marasi]] y sus compañeros frustren las conspiraciones del Grupo contra Elendel y el intento de Telsin de impresionar a [[Autonom%C3%ADa\|Autonomía]] que la policía de Bilming empieza a aceptar pruebas de las fechorías de Gave Entrone.
+Los [[Sangre Espectral\|Sangre Espectral]] también tienen presencia en la ciudad, con tres agentes residiendo allí durante 348 [[Catacendro\|PC]]. Ayudan a Marasi a detener al Grupo para salvar el planeta de Autonomía.
 
-## Notable Citizens
-For a full list of residents, see :Category:Residents of Bilming.
+## Ciudadanos destacados
+Para una lista completa de residentes, ver :Categoría:Habitantes de Bilming.
 
 [[Gave Entrone\|Gave Entrone]]
 [[Kyndlip Ternavyl\|Kyndlip Ternavyl]]
 [[Pielle Fromed\|Pielle Fromed]]
-[[Tobal Copper\|Tobal Copper]]
+[[Tobal Cobre\|Tobal Cobre]]
 
-## Trivia
-The city is presumably named after [[Brandon\|Brandon's]] editor, [[Joshua Bilmes\|Joshua Bilmes]].
+## Curiosidades
+La ciudad recibe probablemente el nombre del editor de [[Brandon\|Brandon]], [[Joshua Bilmes\|Joshua Bilmes]].
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 20:55, 21 de octubre de 2023 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] ·  · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-https://coppermind.net/wiki/Bilming
+
+https://es.coppermind.net/wiki/Bilming

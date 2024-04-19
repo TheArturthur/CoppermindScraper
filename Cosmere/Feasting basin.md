@@ -1,30 +1,51 @@
-|**Feasting basin**|
-|-|-|
-|by  Marie Seeberger |
-|**City**|[[Alethi\|Alethi]] warcamps|
-|**Region**|[[Shattered Plains\|The Shattered Plains]]|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 
->“* The world itself seemed close to ending, and the Alethi threw a party.*”
+
+|**Cuenca de los festejos**|
+|-|-|
+||
+|**Ciudad**|Campos de guerra [[Alezi\|alezi]]|
+|**Región**|[[Llanuras Quebradas\|Llanuras Quebradas]]🐱︎|
+|**Mundo**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
+
+>“* El mundo parecía a punto de terminar, y los alezi daban una fiesta.*”
 \- Dalinar[1]
 
 
-The **feasting basin** is a location in the [[Alethi\|Alethi]] warcamps on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. Located near the [[Pinnacle\|Pinnacle]], it is where [[Elhokar Kholin\|Elhokar Kholin]] hosts parties.
+La **cuenca de los festejos** es una ubicación en los campos de guerra [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]]. Ubicada cerca del [[Pin%C3%A1culo (Roshar)\|Pináculo]], es donde [[Elhokar Kholin\|Elhokar Kholin]] celebra las fiestas.
 
-## Location and Appearance
-The feasting basin is located at the foot of the hill holding the [[Pinnacle\|Pinnacle]], Elhokar's palace on the Plains. It's open-air, shaped like a shallow bowl with five circular platforms rising up from it; the platforms were created through [[Soulcasting\|Soulcasting]]. The platforms are connected to each other by bridges, with railings done in fine scrollwork that has to be stowed away when not in use to protect it from moisture.
-For most parties, the basin is flooded by diverting the water from a nearby stream, turning it into a small lake. The raised platforms then function as islands, and are generally referred to as such. The amount of water that fills the lake depends on the amount of water flowing in the stream, which varies depending on the weather and the time of year. On some occasions, numerous [[Sphere\|spheres]] infused with [[Stormlight\|Stormlight]] are thrown into the water to make it glow for ambience.
-There are braziers set up on the sides of each island to keep the participants warm; the braziers are replaced with heating [[Fabrial\|fabrials]] after [[Navani\|Navani]] arrives at the Plains. The islands are filled with tables of food and drink for the participants, as well as chairs for people to sit and enjoy the feast. The king has his own feasting island, on which he entertains his family and guests of honor.
-Mirroring most [[Vorin\|Vorin]] ballrooms, four of the basin's islands are segregated by gender—two for men, two for women. One of the islands holds a sparring ring for young brightlords who wish to show off their swordsmanship. Elsewhere, there are easels and drawing tools for women to display their skills. The king's island, by contrast, is open to people of any gender, allowing various powerful nobles equal access to the king.
+## Ubicación y apariencia
+La cuenca de los festejos está ubicada al pie de la colina donde se encuentra el [[Pin%C3%A1culo (Roshar)\|Pináculo]], el palacio de Elhokar en las Llanuras. Está al aire libre y tiene forma de un cuenco poco profundo con cinco plataformas circulares que se elevan desde él; las plataformas fueron creadas mediante [[Moldear almas\|moldeado de almas]]. Las plataformas están conectadas entre sí por puentes, con barandas hechas de intrincados adornos que deben guardarse cuando no se usan para protegerlas de la humedad.
+Para la mayoría de las fiestas, la cuenca se inunda desviando el agua de un arroyo cercano, convirtiéndola en un pequeño lago. Las plataformas elevadas entonces funcionan como islas y generalmente se las llama así. La cantidad de agua que llena el lago depende de la cantidad de agua que fluye en el arroyo, lo cual varía según el clima y la época del año. En algunas ocasiones, numerosas [[Esfera\|esferas]] impregnadas con [[Luz tormentosa\|luz tormentosa]] se lanzan al agua para que brille y cree ambiente.
+Se instalan braseros en los lados de cada isla para mantener a los participantes calientes; los braseros son reemplazados por [[Fabrial\|fabriales]] calefactores después de que [[Navani\|Navani]] llegase a las Llanuras. Las islas están llenas de mesas de comida y bebida para los participantes, así como sillas para que la gente se siente y disfrute del festín. El rey tiene su propia isla de festejo, en la que entretiene a su familia e invitados de honor.
+Reflejando la mayoría de los salones de baile [[Vorin\|Vorin]], cuatro de las islas de la cuenca están segregadas por género (dos para hombres y dos para mujeres). Una de las islas tiene un ring de entrenamiento para jóvenes brillantes que desean mostrar sus habilidades con la espada. En otros lugares, hay caballetes y herramientas de dibujo para que las mujeres exhiban sus habilidades. La isla del rey, por el contrario, está abierta a personas de cualquier género, permitiendo que varios nobles poderosos tengan igual acceso al rey.
 
-## History
-The feasting basin was the premier spot for parties for the high-born occupants of the warcamps, giving [[Lighteyes\|lighteyes]] the opportunity to see and interact with the king. They presented opportunities for people to not only mingle with other members of their social class, but also to play politics, both international and domestic. [[Highprince\|Highprinces]] rarely missed attending any feasts held at the basin. The high-profile setting of the feasts led to some notable incidents of political maneuvering between the highprinces, often incited by [[Torol Sadeas\|Torol Sadeas]].
-For younger lighteyes, the feasts were a chance to show off their fashion and catch up on rumors. The sparring ring in the basin was generally used for friendly duels, although it could also be used for hostile duels for honor if needed. The parties were also a chance to observe the general mood of Alethi high society, as well as a chance to have some good food; while most of the food in the camps contained bland [[Soulcasting\|Soulcast]] meat and grain, the dishes at the feasts were always heavily spiced. The King's [[Wit\|Wit]] took to sitting by the entrance to one of the islands so that he could insult everyone who came in.
-As the basin lacked a roof, parties there were planned based on the predictions of [[Stormwarden\|stormwardens]]. Should they predict a [[Highstorm\|highstorm]] or other adverse weather, the feast would be cancelled.
-Early in Elhokar's reign, there were few guards on the islands; however, as the tensions between the highprinces began to rise and the fear of the [[Assassin in White\|Assassin in White]] spread, more and more brightlords brought bodyguards with them. After the party, they were sometimes allowed to have the remaining food for themselves.
-After the [[True Desolation\|True Desolation]] began, the feasting basin fell out of use after the king and most of his subjects abandoned the warcamps for [[Urithiru\|Urithiru]].
+## Historia
+La cuenca de los festejos era el lugar principal para fiestas para los habitantes de alto rango de los campamentos de guerra, brindando a los [[Ojos claros\|ojos claros]] la oportunidad de ver e interactuar con el rey. Brindaron oportunidades para que las personas no solo se mezclaran con otros miembros de su clase social, sino también para hacer política, tanto a nivel internacional como local. Los [[Alto pr%C3%ADncipe\|altos príncipes]] raramente se perdían ningún festejo en la cuenca. Los festines, al ser eventos destacados, propiciaron algunos incidentes notables de maquinaciones políticas entre los príncipes, a menudo instigados por [[Torol Sadeas\|Torol Sadeas]].
+Para los jóvenes ojos claros, las fiestas eran una oportunidad para lucir su moda y ponerse al tanto de los rumores. El cuadrilátero de combate en la cuenca se usaba generalmente para duelos amistosos, aunque también podía emplearse para duelos hostiles por honor si era necesario. Las fiestas también eran una oportunidad para observar el estado de ánimo general de la alta sociedad alezi, así como para disfrutar de buena comida. Mientras que la mayoría de la comida en los campamentos consistía en carne y granos [[Moldear almas\|moldeados]] insípidos, los platos en los festines siempre estaban muy condimentados. El [[Sagaz\|Sagaz]] del rey se sentaba junto a la entrada de una de las islas para poder insultar a todos los que entraban.
+Como la cuenca carecía de techo, las fiestas allí se planeaban según las predicciones de los [[Predicetormentas\|predicetormentas]]. Si preveían una [[Alta tormenta\|alta tormenta]] u otro tipo de clima adverso, la festividad se cancelaría.
+Al principio del reinado de Elhokar, había pocos guardias en las islas; sin embargo, a medida que las tensiones entre los altos príncipes aumentaban y el miedo al [[Asesino de Blanco\|Asesino de Blanco]] se propagaba, cada vez más brillantes traían guardias consigo. Después de la fiesta, a veces se les permitía quedarse con la comida restante para ellos mismos.
+Después de que comenzase la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], la cuenca de festejos dejó de utilizarse ya que el rey y la mayoría de sus súbditos abandonaron los campamentos de guerra para ir a [[Urithiru\|Urithiru]].
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 16:16, 12 October 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Feasting_basin
+https://es.coppermind.net/wiki/Feasting_basin

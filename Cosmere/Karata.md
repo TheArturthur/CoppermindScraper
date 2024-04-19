@@ -1,32 +1,44 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Karata**|
 |-|-|
-|**Family**|
-|**Children**|[[Opais\|Opais]]|
-|**Died**|[[Invasion of Arelon\|Invasion of Arelon]]|
-|**Abilities**|[[Elantrian\|Elantrian]]|
-|**Residence**|[[Elantris (city)\|Elantris]]|
-|**Ethnicity**|[[Aonic\|Aonic]]|
-|**Nationality**|[[Arelene\|Arelene]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Elantris*|
+|**Familia**|
+|**Hijos**|[[Opais\|Opais]]|
+|**Fallecido**|[[Invasi%C3%B3n de Arelon\|Invasión de Arelon]]|
+|**Capacidades**|[[Elantrino\|Elantrino]]|
+|**Residencia**|[[Elantris (ciudad)\|Elantris]]|
+|**Etnia**|[[A%C3%B3nico\|Aónico]]|
+|**Nacionalidad**|[[De Arelon\|de Arelon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Karata** was an [[Arelene\|Arelene]] [[Elantrian\|Elantrian]] from [[Sel\|Sel]].She led one of the gangs in the [[Elantris (city)\|Elantris]] prior to [[Raoden\|Raoden's]] arrival. She lived in the Elantrian palace, where she sheltered the children who had been taken by the [[Shaod\|Shaod]].
-She personally approached each new Elantrian arrival that entered her territory first, taking their offering but rarely if ever harming them.
+**Karata** era una [[Arelon\|arelena]] [[Elantrino\|elantrina]] de [[Sel\|Sel]]. Lideraba una de las bandas de [[Elantris (ciudad)\|Elantris]] antes de la llegada de [[Raoden\|Raoden]]. Vivía en el palacio de la ciudad, donde acogía a los niños que habían sido tomados por la Shaod]].
+Se acercaba personalmente a cada nuevo elantrino que entraba en su territorio, aceptando sus ofrendas pero rara vez o nunca haciéndoles daño.
 
-## Appearance and Personality
-Through the effects of the incomplete Shaod, Karata was bald and had grey wrinkled skin covered with dark splotches.
+## Apariencia y personalidad
+A través de los efectos de la Shaod incompleta, Karata era calva y tenía la piel gris y arrugada, cubierta de manchas oscuras.
 
-## History
-Karata had lived in [[Kae\|Kae]] with her husband, who was a Royal Guard, and had a little daughter, [[Opais\|Opais]], before she was taken by the [[Shaod\|Shaod]]. She first met her husband while serving as a nurse for a group of mercenaries. Upon being thrown into Elantris she became one of the three gang leaders within the city. She took over the former palace, her territory bordering closely to that of [[Aanden\|Aanden]]. The food of anyone thrown into Elantris who took their first step forward instead of left or right was considered the property of her gang. She would personally go to the gate and take the food from them, trying not to use force unless it was necessary unlike [[Shaor\|Shaor]] and Aanden's men.
-When [[Raoden\|Raoden]] was cast into the city he learnt that she had escaped Elantris three times in the past and had been caught trying to break into the palace of Kae, causing rumours she wanted to assassinate King [[Iadon\|Iadon]]. When Raoden began to form [[New Elantris\|New Elantris]] it was closest to Karata's territory and she sent her men to attack them, destroy what they had built and steal their food, thinking he was trying to start a rival gang. Raoden asked her to call off her men if he snuck her out of Elantris and got her into the palace. She agreed and they escaped via a well. When outside the palace he asked her not to hurt Iadon, causing her to realise he was Prince Raoden. She revealed she didn't want to kill Iadon, she only wanted to see her child. Once inside Karata was able to spend time with her child before her husband, whilst on patrol, spotted them. He didn't recognise Karata due to the [[Shaod\|Shaod]] altering her appearance and he attacked her, although Raoden tricked him into believing they cast a spell on him which would kill him if he moved. With Karata's husband terrified of moving they were able to get away and Karata thanked Raoden for resolving the matter without killing her husband.
-Karata then took Raoden to the palace within Elantris and showed him a room. In the room, Raoden found that Karata had been taking all the children thrown into Elantris and giving them a safe place to play and enough food to eat.
-Karata became one of Raoden's closest companions and allies within Elantris, watching closely over New Elantris and warning him about the movements and actions being taken by and against the other gang leaders, [[Aanden\|Aanden]] and [[Shaor\|Shaor]].
-She also took Raoden to the structure with the secret library beneath it that led to the pool that dissolved Elantrian bodies.
-During the [[Invasion of Arelon\|Invasion of Arelon]], Derethi soldiers and [[Dakhor\|Dakhor]] monks attacked New Elantris. Only Karata and [[Galladon\|Galladon]] escaped. They went into Kae, looking for Raoden and found he had already been [[Hoed\|Hoed]]. Karata and the distraught Galladon agreed to take Raoden, dissolve him in the pool and then dissolve themselves too. However, when they placed Raoden in the pool he got back up and began to charge down the hill.
-Frantic, Raoden was drawing the [[Chasm\|Chasm]] into the base Aon in [[Elantris (city)\|Elantris]] when Fjordell soldiers tried to stop him. Karata and Galladon where uncertain what he was trying to do but agreed that they couldn't let the Fjordell soldiers stop him so attacked the soldiers. In the fighting Karata was beheaded, one of the few ways to permanently kill an Elantrian. A few seconds later Raoden completed the Aon, restoring the Elantrians to full power.
-She is buried in beside [[Eondel\|Eondel]], [[Roial\|Roial]], [[Saolin\|Saolin]], and [[Hrathen\|Hrathen]] in one of the graves dedicated to those who had fought for Arelon 
+## Historia
+Karata había vivido en [[Kae\|Kae]] con su marido, que era guardia real, y tenía una hija pequeña, [[Opais\|Opais]], antes de ser tomada por la [[Shaod\|Shaod]]. Conoció a su marido cuando trabajaba como enfermera para un grupo de mercenarios. Al ser arrojada a Elantris se convirtió en una de las tres líderes de las bandas dentro de la ciudad. Se hizo con el control del antiguo palacio, y su territorio limita estrechamente con el de [[Aanden\|Aanden]]. La comida de cualquiera que fuera arrojado a Elantris y diera el primer paso hacia delante en lugar de hacia la izquierda o la derecha se consideraba propiedad de su banda. Ella iba personalmente a la puerta y les quitaba la comida, tratando de no usar la fuerza a menos que fuera necesario a diferencia de [[Shaor\|Shaor]] y los hombres de Aanden.
+Cuando [[Raoden\|Raoden]] fue arrojado a la ciudad se enteró de que ella había escapado de Elantris tres veces en el pasado y había sido atrapada intentando entrar en el palacio de Kae, lo que provocó rumores de que quería asesinar al rey [[Iadon\|Iadon]]. Cuando Raoden empezó a formar [[Nueva Elantris\|Nueva Elantris]] estaba más cerca del territorio de Karata y ella envió a sus hombres a atacarles, destruir lo que habían construido y robarles la comida, pensando que intentaba crear una banda rival. Raoden le propuso retirar a sus hombres si la sacaba a escondidas de Elantris y la llevaba al palacio. Ella accedió y escaparon por un pozo. Una vez fuera del palacio, Raoden le pidió que no hiciera daño a Iadon, lo que le hizo darse cuenta de que era el príncipe Raoden. Ella le reveló que no quería matar a Iadon, sólo quería ver a su hija. Una vez dentro, Karata pudo pasar un rato con su hija antes de que su marido, mientras patrullaba, los descubriera. No reconoció a Karata debido a que la Shaod había alterado su aspecto y la atacó, aunque Raoden le hizo creer que le habían lanzado un hechizo que le mataría si se movía. Con el marido de Karata aterrorizado por la idea de moverse pudieron escapar y Karata agradeció a Raoden haber resuelto el asunto sin matar a su marido.
+Karata llevó a Raoden al palacio de Elantris y le enseñó una habitación. En la habitación, Raoden descubrió que Karata había estado acogiendo a todos los niños arrojados a Elantris y dándoles un lugar seguro donde jugar y suficiente comida para alimentarse.
+Karata se convirtió en una de las compañeras y aliadas más cercanas de Raoden dentro de Elantris, vigilando de cerca Nueva Elantris y advirtiéndole de los movimientos y acciones que estaban siendo llevados a cabo por y contra los otros líderes de la banda, [[Aanden\|Aanden]] y [[Shaor\|Shaor]].
+También llevó a Raoden a la estructura con la biblioteca secreta bajo ella que conducía a la piscina que disolvía los cuerpos elantrinos.
+Durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]], soldados derethi y monjes [[Dakhor\|dakhor]] atacaron Nueva Elantris. Sólo Karata y [[Galladon\|Galladon]] escaparon. Entraron en Kae en busca de Raoden y descubrieron que ya estaba [[Hoed\|hoed]]. Karata y el angustiado Galladon acordaron coger a Raoden, disolverlo en la piscina y luego disolverse ellos también. Sin embargo, cuando colocaron a Raoden en la piscina, éste se volvió a levantar y comenzó a cargar colina abajo.
+Frenético, Raoden estaba dibujando el [[Abismo\|Abismo]] en el aon base de [[Elantris (ciudad)\|Elantris]] cuando los soldados de Fjordell trataron de detenerlo. Karata y Galladon no estaban seguros de lo que intentaba hacer, pero acordaron que no podían dejar que los soldados lo detuvieran, así que les atacaron. En el combate, Karata fue decapitada, una de las pocas formas de matar permanentemente a un elantrino. Pocos segundos después, Raoden completó el aon, devolviendo a los elantrinos todo su poder.
+Está enterrada junto a [[Eondel\|Eondel]], [[Roial\|Roial]], [[Saolin\|Saolin]] y [[Hrathen\|Hrathen]] en una de las tumbas dedicadas a los que lucharon por Arelon .
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
 
-https://coppermind.net/wiki/Karata
+https://es.coppermind.net/wiki/Karata

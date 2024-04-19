@@ -1,57 +1,70 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Quilan**|
 |-|-|
-|**Died**|Battle at Tower Tree|
-|**Abilities**|[[Cytonics\|Cytonics]]|
-|**Species**|[[UrDail\|UrDail]]|
-|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Fallecido**|Batalla en el árbol Torre|
+|**Capacidades**|[[Cit%C3%B3nica (habilidad)\|Citónicas]]|
+|**Especie**|[[UrDail\|UrDail]]|
+|**Mundo natal**|[[ReAlba (planeta)\|ReAlba]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *ReDawn*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Quilan** is an [[UrDail\|UrDail]] [[Cytonics\|cytonic]] from the planet [[ReDawn (planet)\|ReDawn]]. He is aligned with and works for the [[Unity\|Unity]] faction in ReDawn's government. He can't teleport, but is proficient with [[Concussion bolt\|concussion bolts]].
+**Quilan** es un [[Cit%C3%B3nica (habilidad)\|citónico]] [[UrDail\|UrDail]] del planeta [[ReAlba (planeta)\|ReAlba]]. Está afiliado y trabaja para la facción [[Unidad\|Unidad]] del gobierno de ReAlba. No puede teletransportarse, pero domina los [[Rayo conmocionador\|rayos conmocionadores]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
 
-4.1 Alanik
-
-
-5 Notes
+4. [[#Alanik]] 
 
 
-## Appearance and Personality
->**Alanik**: "*I thought this didn't have to get aggressive. He was going to come with you.**"***Quilan**: "*We welcome your cooperation.**"*
-\-Alanik: "I thought this didn't have to get aggressive. He was going to come with you.
+5 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+>**Alanik**: "*Creía que no teníamos por qué ponernos agresivos. Rinakin iba a acompañaros.**"***Quilan**: "* Te agradeceremos que cooperes, respondió Quilan.**"*
+\-Alanik: "Creía que no teníamos por qué ponernos agresivos. Rinakin iba a acompañaros.
 "
-Quilan: "We welcome your cooperation.
+Quilan: " Te agradeceremos que cooperes, respondió Quilan.
 "
 
 
-Quilan is a few seasons older than Alanik, making him the UrDail cytonic closest to Alanik's age. He cloaks his words and demands in diplomacy and tends to speak calmly, but is willing to use physical force to achieve his goals. Fearing the Superiority's power, he is willing to devote a large number of Unity forces to capturing rebels and turning them over to the Superiority.
+Quilan es unas pocas estaciones mayor que Alanik, lo que le convierte en el UrDail citónico más cercano a su edad. Oculta sus palabras y exigencias en la diplomacia y tiende a hablar con calma, pero está dispuesto a utilizar la fuerza física para lograr sus objetivos. Temiendo el poder de la Supremacía, está dispuesto a dedicar un gran número de fuerzas de Unidad a capturar rebeldes y entregarlos a la Supremacía.
 
-## Attributes and Abilities
-Quilan's cytonic abilities include telepathy, [[Mindblade\|mindblades]] and concussion bolts, although he cannot teleport.
+## Atributos y habilidades
+Las habilidades citónicas de Quilan incluyen telepatía, [[Hoja mental\|hojas mentales]] y rayos conmocionadores, aunque no puede teletransportarse.
 
-## History
-Quilan contacted Alanik cytonically after the game between [[Independence\|Independence]] and Unity pilots, telling her to report to the Council chambers. Alanik refused, but after a conversation with [[Rinakin\|Rinakin]] they docked their ship at Quilan's orders. When Rinakin attempted to speak diplomatically with him, Quilan shot a concussion bolt at him. Communicating telepathically, Alanik learned that Quilan planned to turn her and Rinakin over to the [[Superiority\|Superiority]] in order to prove his worth to them. She managed to escape by hyperjumping to [[Detritus\|Detritus]], to Quilan's displeasure.
+## Historia
+Quilan contactó citónicamente con Alanik tras el partido entre los pilotos de [[Independencia\|Independencia]] y Unidad, diciéndole que se presentara en las cámaras del Consejo. Alanik se negó, pero tras una conversación con [[Rinakin\|Rinakin]] atracaron su nave por orden de Quilan. Cuando Rinakin intentó hablar diplomáticamente con él, Quilan le disparó un rayo conmocionadore. Comunicándose telepáticamente, Alanik se enteró de que Quilan planeaba entregarla a ella y a Rinakin a la [[Supremac%C3%ADa\|Supremacía]] para demostrarles su valía. Consiguió escapar mediante un hipersalto a [[Detritus\|Detritus]], para disgusto de él.
 
->“*Quilan was still trying to pacify the Superiority, but he had a storm in a bottle, and any moment the glass might break. He was holding them off for now, but if they grew tired of waiting we were going to pay the price.*”
+>“*Quilan aún pretendía tranquilizar a la Supremacía, pero estaba intentando contener una tormenta en un frasco, y en cualquier momento se le rompería el cristal. De momento los mantenía a raya, pero si se hartaban de esperar, seríamos nosotros quienes lo pagaríamos.*”
 \-Alanik[5]
 
-When Alanik returned to ReDawn along with members of [[Skyward Flight\|Skyward Flight]], Quilan commanded the offense against them and told the pilots to bring Alanik in alive. He sensed the cytonic powers of [[Jorgen\|Jorgen]] and the [[Taynix\|taynix]] and was confused by it, contacting Jorgen telepathically but receiving no response. He then chased after Alanik and attacked her ship with mindblades, which she dodged, but he successfully hit her with a concussion bolt, forcing her to crash-land on the platform. Quilan and his Unity forces retreated to regroup after this battle, as they had no teleportation abilities and could not approach the platform without being fired on by the autoturrets.
-During the battle between the DDF and Independence versus Unity forces at Tower, Jorgen used [[Boomslug\|Boomslug]] to fire mindblades at Quilan's forces. Quilan called upon the other Unity cytonics to create areas where cytonic powers were inhibited in order to stall until the Superiority could arrive to retrieve Alanik, Rinakin, and the human allies. When Alanik went to rescue Rinakin, she realized that the man Unity has been presenting to the public as Rinakin is actually a dione in disguise, and Quilan had imprisoned the true Rinakin. Quilan attempted to shoot Alanik down, but she killed him at the same time as Skyward Flight shot down another cytonic and turned the tide of the battle.
+Cuando Alanik retornó a ReAlba junto con miembros del [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]], Quilan comandó la ofensiva contra ellos y dijo a los pilotos que trajeran a Alanik con vida. Percibió los poderes citónicos de [[Jorgen\|Jorgen]] y los [[Taynix\|taynix]] y se sintió confundido por ello, contactando telepáticamente con Jorgen pero sin recibir respuesta. A continuación, persiguió a Alanik y atacó su nave con hojas mentales, que ella esquivó, pero él la golpeó con éxito con un rayo conmocionador, obligándola a aterrizar de emergencia en la plataforma. Quilan y sus fuerzas de Unidad se retiraron para reagruparse después de esta batalla, ya que no tenían la capacidad de teletransporte y no podían acercarse a la plataforma sin ser disparados por las torretas automáticas.
+Durante la batalla entre la FDD e Independencia contra las fuerzas de la Unidad en Torre, Jorgen utilizó a [[Babosa Explosiva\|Babosa Explosiva]] para disparar hojas mentales contra las fuerzas de Quilan. Este llamó a los demás citónicos de la Unidad para crear zonas en las que los poderes citónicos estuvieran inhibidos, con el fin de detener el avance hasta que la Supremacía pudiera llegar para capturar a Alanik, Rinakin y los aliados humanos. Cuando Alanik fue a rescatar a Rinakin, se dio cuenta de que el hombre que Unidad ha estado presentando al público como Rinakin es en realidad une dione disfrazade, y Quilan había encarcelado al verdadero Rinakin. Este intentó derribar a Alanik, pero ella lo mató al mismo tiempo que el Escuadrón Cielo derribaba a otro citónico y cambiaba las tornas de la batalla.
 
-## Relationships
+## Relaciones
 ### Alanik
->“*I dug my nails harder into the armrest. His words made me want to scream. There was nothing quite so frustrating as soft words being wielded like clubs. At least a straightforward attack was honest; everyone could see it for what it was.*”
+>“*Clavé las uñas con más fuerza en el reposabrazos. Sus palabras me daban ganas de chillar. Apenas había nada tan frustrante como recibir porrazos atizados por una voz tan suave. Un ataque directo era sincero, por lo menos, y reconocible a primera vista como lo que era.*”
 \-Alanik[2]
 
-Quilan and Alanik are close in age and flew in the junior leagues together. They are now rivals, as Alanik is part of the Independence party while Quilan is a member of Unity. Quilan's tendency to hide his threats behind diplomacy angers Alanik, who wishes he was more direct. Alanik considers herself a better pilot than Quilan, which she demonstrates by winning their fight to the death during the battle at the Tower tree. She does not regret his death, but she does wish he could have been persuaded to change sides.
+Quilan y Alanik tienen edades cercanas y volaron juntos en las ligas juveniles. Ahora son rivales, ya que Alanik forma parte del partido Independencia mientras que Quilan es miembro de Unidad. La tendencia de Quilan a ocultar sus amenazas tras la diplomacia enfada a Alanik, que desearía que fuera más directo. Ella se considera mejor piloto que Quilan, lo que demuestra al ganar su combate a muerte durante la batalla en el árbol Torre. No lamenta su muerte, pero le hubiera gustado convencerle de que cambiara de bando.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Quilan
+https://es.coppermind.net/wiki/Quilan

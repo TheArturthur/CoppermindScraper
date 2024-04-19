@@ -1,129 +1,154 @@
-|**Polestone**|
+
+
+|**Piedrabase**|
 |-|-|
-|**Related to**|[[Spheres\|Spheres]] [[Soulcasting\|Soulcasting]] [[Fabrial\|Fabrials]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Relacionado con**|[[Esferas\|Esferas]] [[Moldear almas\|Moldear almas]] [[Fabrial\|Fabriales]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-The **Polestones** are the ten varieties of gemstone that naturally hold [[Light\|Light]]. They also serve as the basis of [[Spheres\|spheres]], the basic Rosharan money system.
+Las **piedrabase** son las diez variedades de gemas que contienen [[Luz\|luz]] de forma natural. También son la base de las [[Esfera\|esferas]], el sistema monetario básico de los rosharianos.
 
-## Contents
+## Sumario
 
-1 Attributes
+1 Atributos. [[#Atributos]] 
 
-1.1 Composition
-1.2 Light and Surgebinding
-1.3 Spren
-
-
-2 The Ten Polestones
-
-2.1 Sapphire
-2.2 Smokestone
-2.3 Ruby
-2.4 Diamond
-2.5 Emerald
-2.6 Garnet
-2.7 Zircon
-2.8 Amethyst
-2.9 Topaz
-2.10 Heliodor
+1. [[#Composici.C3.B3n]] 
+1. [[#Luz y moldeado de almas]] 
+1. [[#Spren]] 
 
 
-3 Obtaining
-4 Perfect Gemstones
-5 Transfer
-6 Roshar Economy
-7 Notes
+2 Las diez piedrabase. [[#Las diez piedrabase]] 
+
+2. [[#Zafiro]] 
+2. [[#Cuarzo ahumado]] 
+2. [[#Rub.C3.AD]] 
+2. [[#Diamante]] 
+2. [[#Esmeralda]] 
+2. [[#Granate]] 
+2. [[#Circonio]] 
+2. [[#Amatista]] 
+2. [[#Topacio]] 
+2. [[#Heliodoro]] 
 
 
-## Attributes
-### Composition
-Some Polestones are the same type of crystal but with different color and chemical signatures. Sapphire and ruby are both types of corundum. Smokestone and amethyst are both types of quartz. Emerald and heliodor are both types of beryl. Much like how [[Iron\|iron]] and [[Steel\|steel]], despite being very similar chemically, are different metals in the [[Metallic Arts\|Metallic Arts]], the exact color and chemical signatures are enough to differentiate the Polestones. As a result, an off-color Polestone acts much like an impure alloy in [[Allomancy\|Allomancy]]. If a Polestone was drained of its color by an [[Awakener\|Awakener]], it would still hold Stormlight but would have the properties of a dusty or cloudy quartz. If a spren was trapped inside, they would be released.
-If sung to, while holding Light, Polestones will break.
+3 Obtención. [[#Obtenci.C3.B3n]] 
+4 Gemas perfectas. [[#Gemas perfectas]] 
+5 Transferencia. [[#Transferencia]] 
+6 Economía de Roshar. [[#Econom.C3.ADa de Roshar]] 
+7 Notas del traductor. [[#Notas del traductor]] 
+8 Notas. [[#Notas]] 
 
-### Light and Surgebinding
-All Lights can be stored in gems. How long a given quantity of Light will remain in a specific gem depends on the type of Light and the quality of the gem. The rate at which a Light leaks from gemstones is not constant either - it appears slow at first, but accelerates rapidly near the end, making gems that begin to dim, dim *fast.* Regardless of the type of Light, perfect gems are said to be able to hold it indefinitely, but they are extremely rare.
-Although the type of Polestone Stormlight is stored in is irrelevant for most [[Surgebinding\|Surgebinding]], Polestones do have an important impact on Soulcasting. Namely, they determine what kind of substances a Soulcaster can transmute objects into. It is believed to be impossible to create Polestones via Soulcasting.
+
+## Atributos
+### Composición
+Algunas piedrabase son el mismo tipo de cristal pero con diferente color y composición química. El zafiro y el rubí son dos tipos de corindón. El cuarzo ahumado y la amatista son dos tipos de cuarzo. La esmeralda y el heliodoro son dos tipos de berilo. Al igual que el [[Hierro\|hierro]] y el [[Acero\|acero]], a pesar de ser muy similares químicamente, son metales diferentes en las [[Artes Met%C3%A1licas\|Artes Metálicas]], el color exacto y las composiciones químicas son suficientes para diferenciar las piedrabase. Como resultado, una piedrabase descolorida se comporta como una aleación impura en la [[Alomancia\|alomancia]]. Si un [[Despertar\|despertante]] drena el color de una piedrabase, esta seguirá conteniendo luz tormentosa, pero tendrá las propiedades de un cuarzo ceniciento o turbio. Si un spren estuviera atrapado en su interior, se liberaría.
+Si se le canta, mientras contiene luz, la piedrabase se rompería.
+
+### Luz y moldeado de almas
+Todas las luces pueden ser contenidas en gemas. Cuando durará una cantidad de luz en una gema específica dependerá del tipo de luz y la calidad de la gema. La velocidad con la que la luz sale de las gemas no es constante, siendo lenta al principio, pero mucho más rápida cuando se acerca al final, haciendo que las gemas que empiezan a oscurecerse lo hagan más **rápido**. Sin importar el tipo de luz, se dice que las gemas perfectas son capaces de mantenerla de manera indefinida, pero son extremadamente raras.
+A pesar de que el tipo de piedrabase en el que se almacena la luz tormentosa es irrelevante para la mayoría de las [[Potenciaci%C3%B3n\|potenciaciones]], estas tienen un gran impacto en el moldeado de almas. Concretamente, determinan el tipo de sustancias en las que un moldeador de almas puede convertir las cosas. Se cree que es imposible crear piedrabase mediante el moldeado de almas.
 
 ### Spren
-In addition to the ability to hold Stormlight, Polestones are able to trap [[Spren\|spren]]. The type of spren that can be trapped depends on the Polestone used and its cut. This quality serves as the basis for [[Fabrial\|fabrials]]. Each Polestone is associated with one of the [[Ten Essences\|Ten Essences]] and with an Order of [[Knights Radiant\|Knights Radiant]]. However, there appears to be no functional difference between Polestones apart from [[Soulcasting\|Soulcasting]] and fabrial creation.
-If a Polestone is set in the pommel of a deceased [[Shardblade\|Shardblade]] it allows the blade to be bonded, whereby it can be summoned and dismissed. Synthetic versions of the Polestones could also be used in fabrials.
+Además de la habilidad de contener luz tormentosa, las piedrabase pueden atrapar [[Spren\|spren]]. El tipo que puede ser capturado depende del tipo de piedrabase usada y su tallado. Esta cualidad sirve como base para los [[Fabrial\|fabriales]]. Cada una se asocia con una de las [[Diez Esencias\|Diez Esencias]] y con una orden de [[Caballeros Radiantes\|Caballeros Radiantes]]. Sin embargo, parece no haber ninguna diferencia funcional entre las piedrabase aparte del [[Moldear almas\|moldeado de almas]] y la creación de fabriales.
+Una piedrabase se coloca en el pomo de una [[Espada esquirlada\|espada esquirlada]] muerta para permitir que sea vinculada, por lo que podrá ser convocada y descartada. Las versiones sintéticas de las piedrabases podrían también ser usadas en los fabriales.
 
-## The Ten Polestones
-### Sapphire
-**Sapphire** is associated with the Essence of Zephyr. They are used to Soulcast translucent gases, like air.
-Sapphire spheres are given the "sky-" prefix.
-It is associated with the [[Order of Windrunners\|Order of Windrunners]]
+## Las diez piedrabase
+### Zafiro
+El **zafiro** está asociado a la Esencia del Céfiro. Se utiliza para moldear gases translúcidos, como el aire.
+Las esferas de zafiro reciben el apodo «cielo».
+Se asocia a la Orden de los [[Corredores del Viento\|Corredores del Viento]].
 
-### Smokestone
-**Smokestone** is associated with the Essence of Vapor. They are used to Soulcast opaque gases, like smoke and fog.
-Smokestones are used in a type of fabrial clock.
-It is associated with the [[Order of Skybreakers\|Order of Skybreakers]].
-Smokestone is a chemically impure version of quartz.
+### Cuarzo ahumado
+El **cuarzo ahumado** está asociado a la Esencia del Vapor. Se utilizan para moldear gases opacos, como el humo y la niebla.
+El cuarzo ahumado se utiliza en un tipo de reloj fabrial.
+Se asocia a la Orden de los [[Rompedores del Cielo\|Rompedores del Cielo]].
+El cuarzo ahumado es la versión químicamente impura del cuarzo.
 
-### Ruby
-**Ruby** is associated with the Essence of Spark. They are used to Soulcast fire.
-Rubies are used in the production of conjoiner fabrials, where a single infused ruby is split in two. Once activated the two halves will mirror each others movements, lift one and the other will also rise. [[Spanreed\|Spanreeds]] are a common application of this phenomenon.
-Rubies are also used in a kind of heat producing fabrial. They are also used in the construction of a [[Painrial\|painrial]], a pain reducing fabrial, designed by [[Longshadow\|Longshadow]] and adapted by [[Navani Kholin\|Navani Kholin]]. A ruby was also part of the [[Oathgate\|Oathgate]] at the center of the [[Shattered Plains\|Shattered Plains]].
-Ruby spheres are given the "fire-" prefix.
-It is associated with the [[Order of Dustbringers\|Order of Dustbringers]]
+### Rubí
+El **rubí** está asociado a la Esencia de la Chispa. Se utiliza para moldear el fuego.
+Los rubíes se utilizan en la producción de [[Fabrial\|fabriales parejos]], en los que un solo rubí infundido se divide en dos. Una vez activadas, las dos mitades reflejan los movimientos de la otra; si se levanta una, la otra también se elevará. Las [[Vinculaca%C3%B1as\|vinculacañas]] son una aplicación común de este fenómeno.
+Los rubíes también se utilizan en una especie de fabrial que produce calor. También se utilizan en la construcción de un [[Dolorial\|dolorial]], un fabrial que reduce el dolor, diseñado por [[Largasombra\|Largasombra]] y adaptado por [[Navani Kholin\|Navani Kholin]]. Un rubí también formaba parte de la [[Puerta Jurada\|Puerta Jurada]] en el centro de las [[Llanuras Quebradas\|Llanuras Quebradas]].
+Las esferas de rubí poseen el apodo «fuego».
+Se asocia a la [[Orden de los Portadores del Polvo\|Orden de los Portadores del Polvo]].
 
-### Diamond
-**Diamond** is associated with the Essence of Lucentia. They are used to Soulcast crystals, like quartz and glass.
-Diamonds are used in a kind of light producing fabrial.
-Diamond spheres are given the "clear-" prefix.
-It is associated with the [[Order of Edgedancers\|Order of Edgedancers]]
+### Diamante
+El **diamante** está asociado a la Esencia de Lucentia. Se utilizan para moldear cristales, como el cuarzo y el vidrio.
+Los diamantes se utilizan en un tipo de fabriales que producen luz.
+Las esferas de diamante reciben el apodo de «claro».
+Se asocia a la [[Orden de los Danzantes del Filo\|Orden de los Danzantes del Filo]].
 
-### Emerald
-**Emerald** is associated with the Essence of Pulp. They are used to Soulcast plant material, like wood, moss, and grain.
-Emeralds can be used to capture flamespren. They can be found in [[Chasmfiend\|chasmfiends]].
-It is associated with the [[Order of Truthwatchers\|Order of Truthwatchers]]
+### Esmeralda
+La **esmeralda** está asociada a la Esencia de la Pulpa. Se utiliza para el moldeado de almas de materiales vegetales, como la madera, el musgo y el grano.
+Las esmeraldas pueden ser utilizadas para capturar llamaspren. Pueden encontrarse en [[Abismoide\|abismoides]].
+Está asociada a la [[Orden de los Vigilantes de la Verdad\|Orden de los Vigilantes de la Verdad]].
 
-### Garnet
-**Garnet** is associated with the Essence of Blood. They are used to Soulcast the eight types of blood and all other non-oil liquids.
-Garnets are used in a type of water attracting fabrial.
-Garnet spheres are given the "blood-" prefix.
-It is associated with the [[Order of Lightweavers\|Order of Lightweavers]]
+### Granate
+El **granate** está asociado a la Esencia de la Sangre. Se utiliza para moldear los ocho tipos diferentes de sangre y otros líquidos no aceitosos.
+Los granates se utilizan en un tipo de fabrial que atrae el agua.
+Las esferas de granate reciben el apodo de «sangre».
+Está asociada a la [[Orden de los Tejedores de Luz\|Orden de los Tejedores de Luz]].
 
-### Zircon
-**Zircon** is associated with the Essence of Tallow. They are used to Soulcast oils.
-It is associated with the [[Order of Elsecallers\|Order of Elsecallers]]
+### Circonio
+El **circonio** está asociado a la Esencia de la Grasa. Se utiliza para moldear aceites.
+Está asociado con la [[Orden de los Nominadores de lo Otro\|Orden de los Nominadores de lo Otro]].
 
-### Amethyst
-**Amethyst** is associated with the Essence of Foil. They are used to Soulcast metals.
-Amethysts are used in the production of reverser fabrials, where a single infused amethyst is split in two. Once activated the two halves will inversely mirror each other's movements, lift one and the other will be lowered.
-It is associated with the [[Order of Willshapers\|Order of Willshapers]]
+### Amatista
+La **amatista** se asocia con la Esencia del Oropel. Se utiliza para moldear metales.
+Las amatistas se utilizan en la producción de [[Fabrial\|fabriales inversos]], donde una sola amatista infundida se divide en dos. Una vez activadas, las dos mitades reflejan de forma inversa los movimientos de la otra: si una se levanta, la otra desciende.
+Se asocia con la [[Orden de los Escultores de Voluntad\|Orden de los Escultores de Voluntad]].
 
-### Topaz
-**Topaz** is associated with the Essence of Talus. They are used to Soulcast rock and stone.
-A topaz was observed as part of a fabrial replicating Regrowth, an application of the Surge of Progression.
-It is associated with the [[Order of Stonewards\|Order of Stonewards]]
+### Topacio
+El **topacio** se asocia con la Esencia del Astrágalo. Se utiliza para moldear roca y piedra.
+Se observó un topacio como parte de un fabrial que replicaba la Regeneración, una aplicación de la [[Potenciaci%C3%B3n\|potencia de Progresión]].
+Se asocia con la [[Orden de los Custodios de Piedra\|Orden de los Custodios de Piedra]]
 
-### Heliodor
-**Heliodor** is associated with the Essence of Sinew. They are used to Soulcast animal material, like meat and flesh.
-Heliodors are used in the production of alerter fabrials. These fabrials can be used to detect a variety of stimuli, such as people and emotions, and give notice to its user. The larger the heliodor, and as a result the more Stormlight that can be infused in it, the wider the fabrial's range is.
-A heliodor was observed as part of a fabrial replicating Regrowth, an application of the Surge of Progression.
-It is associated with the [[Order of Bondsmiths\|Order of Bondsmiths]]
-They can be found in [[Gumfrem\|gumfrems]].
+### Heliodoro
+El **heliodoro** se asocia con la Esencia del Tendón. Se utiliza para moldear materiales de origen animal, como la carne.
+Los heliodoros se utilizan en la producción de [[Fabrial\|fabriales alertadores]]. Estos pueden usarse para detectar una variedad de estímulos, como personas y emociones, y dar aviso al que lo esté utilizando. Cuanto más grande sea el heliodoro, y como resultado más luz tormentosa pueda infundirse en él, más amplio será el alcance del fabrial.
+Se observó un heliodoro como parte de un fabrial que replicaba la Regeneración, una aplicación de la [[Potenciaci%C3%B3n\|potencia de Progresión]].
+Se asocia a la [[Orden de los Forjadores de V%C3%ADnculos\|Orden de los Forjadores de Vínculos]].
+Puede encontrarse en [[Gumfremos\|gumfremos]].
 
-## Obtaining
-While Polestones are produced via mining, a significant source of them on Roshar is the harvesting of the [[Gemheart\|gemhearts]] that grow inside [[Greatshell\|greatshells]]. Larger species of greatshell, like [[Chasmfiend\|chasmfiends]], produce gemhearts of great size, which are incredibly useful in Soulcasting as a larger stone is less likely to break from the strain. This trait however has led to many species of greatshells, such as the [[Lanceryn\|lanceryn]], to go extinct. The exact method by which gemhearts are grown is not understood, though it is known to be caused by a leak from the [[Spiritual Realm\|Spiritual Realm]] into the [[Physical Realm\|Physical]], and is analogous, though not identical, to the production of [[Atium\|atium]] in the [[Pits of Hathsin\|Pits of Hathsin]] on [[Scadrial\|Scadrial]]. Although they may have flaws, gemheart Polestones have virtually no impurities, unlike their conventionally mined counterparts.
+## Obtención
+Mientras que las piedrabase se obtienen a través de la minería, una fuente importante de ellas en Roshar es la recolección de las [[Gema coraz%C3%B3n\|gemas corazón]] que crecen en el interior de los [[Grancaparaz%C3%B3n\|grancaparazones]]. Las especies más grandes de estos, como los [[Abismoide\|abismoides]], producen gemas corazón de gran tamaño, que son increíblemente útiles en el moldeado de almas, ya que una piedra más grande es menos probable que se rompa por el esfuerzo. Esta característica, sin embargo, ha llevado a muchas especies de grancaparazón, como el [[Lanceryn\|lanceryn]], a extinguirse. El método exacto por el que crecen las gemas corazón no se entiende, aunque se sabe que es causado por una fuga del [[Reino Espiritual\|Reino Espiritual]] al [[Reino F%C3%ADsico\|Físico]], y es análogo, aunque no idéntico, a la producción de [[Atium\|atium]] en los [[Pozos de Hathsin\|Pozos de Hathsin]] en [[Scadrial\|Scadrial]]. Aunque pueden tener defectos, las piedrabases de gema corazón no tienen prácticamente ninguna impureza, a diferencia de sus homólogas extraídas convencionalmente.
 
-## Perfect Gemstones
-**Perfect gemstones** occur when one of the Polestones forms without any flaws or imperfections which allows them to hold light indefinitely. The money exchangers living in major cities of [[Shadesmar\|Shadesmar]] use perfect stones to store the Stormlight they use for currency. The [[King's Drop\|King's Drop]] is a perfect gemstone that has been held in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] for over two hundred years without being renewed or losing Stormlight. In addition to not leaking, a perfect gemstone can hold far more Stormlight than a normal gemstone of the same size could. The [[Elsecallers\|Elsecallers]] were tasked with protecting perfect gems, including a ruby named [[Honor's Drop\|Honor's Drop]]. The [[Honorspren\|honorspren]] have gathered many perfect gemstones in their stronghold [[Lasting Integrity\|Lasting Integrity]]. [[Jasnah Kholin\|Jasnah Kholin]] believes that there are far fewer perfect gemstones around in the Physical Realm than there should be, suggesting that someone may have been gathering them up before their value was more widely known; possibly the [[Ghostbloods\|Ghostbloods]] as they are experimenting with transporting Stormlight off-world.
-Perfect gemstones have the capacity to hold [[Cognitive Shadow\|Cognitive Shadows]] in addition to spren, the latter of which they have a far larger capacity than normal gemstones--they can hold [[Herald\|Heralds]], the [[Unmade\|Unmade]], and even [[Fused\|Fused]]. They could also capture some of the [[Dor\|Dor]] or the sunlight from [[Taldain\|Taldain]].
+## Gemas perfectas
+Las **gemas perfectas** se producen cuando una de las piedras preciosas se forma sin ningún defecto o imperfección, lo que les permite retener la luz indefinidamente. Los cambistas que viven en las principales ciudades de [[Shadesmar\|Shadesmar]] utilizan piedras perfectas para almacenar la luz tormentosa que utilizan como moneda. La [[L%C3%A1grima del Rey\|Lágrima del Rey]] es una gema perfecta que se ha mantenido en la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]] durante más de doscientos años sin renovarse ni perder Luz tormentosa. Además de no tener fugas, una piedra preciosa perfecta puede retener mucha más luz tormentosa de la que podría retener una piedra preciosa normal del mismo tamaño. Los [[Nominadores de lo Otro\|Nominadores de lo Otro]] asumieron la tarea de proteger las gemas perfectas, incluyendo un rubí llamado la [[L%C3%A1grima de Honor\|Lágrima de Honor]]. Los [[Honorspren\|honorspren]] han reunido muchas gemas perfectas en su fortaleza [[Integridad Duradera\|Integridad Duradera]]. [[Jasnah Kholin\|Jasnah Kholin]] cree que hay muchas menos gemas perfectas en el Reino Físico de las que debería haber, lo que sugiere que alguien podría haberlas reunido antes de que su valor fuera más conocido; posiblemente los [[Sangre Espectral\|Sangre Espectral]], ya que están experimentando con el transporte de luz tormentosa fuera del mundo.
+Las gemas perfectas tienen la capacidad de contener [[Sombras cognitivas\|sombras cognitivas]] además de spren. Debido a su capacidad ampliada, pueden contener también [[Heraldos\|Heraldos]], [[Deshecho\|Deshechos]] y hasta [[Fusionado\|Fusionados]]. También pueden contener algo de [[Dor\|Dor]] o la luz solar de [[Taldain\|Taldain]].
 
-## Transfer
-It is possible to transfer Light from a filled, small gemstone to a large and empty gemstone of its type by holding the filled gemstone to the empty one. This method of transfer is slow and inefficient; however, the [[Thaylen\|Thaylens]] have discovered a more efficient way of transferring Stormlight from one gemstone to another. By using a tuning fork of a specific frequency, a person can touch an infused gemstone and then touch the fork to the empty gemstone for a rapid mode of transfer. With the Thaylen method, the type of Polestone does not matter, and light can be transferred from any type to any type. The decay rate is unknown, as is the distance the tuning fork can be brought before transfer is impossible.
-Surgebinders are also able to infuse Polestones regardless of the type, and can do so very quickly.
+## Transferencia
+Es posible transferir la luz de una gema pequeña y llena a una gema grande y vacía de su mismo tipo sosteniendo la gema llena junto a la vacía. Este método de transferencia es lento e ineficiente, sin embargo los [[Thaylenah\|thayleños]] descubrieron una forma eficiente de transferir la luz tormentosa de una gema a otra. Usando un diapasón con una frecuencia específica, una persona puede tocar una gema infusa y luego tocar con el diapasón en la gema vacía para conseguir un modo rápido de transferencia. Con este método, el tipo de piedrabase no importa, y la luz puede ser transferida de cualquier tipo a cualquier tipo. Se desconoce hasta dónde se puede llevar el diapasón antes de que la transferencia sea imposible, o la tasa de decaimiento.
+Los potenciadores son capaces de infundir las piedrabase sin importar su tipo, y de manera muy rápida.
 
-## Roshar Economy
-For more information, see [[Spheres\|Spheres]].
-Gemstones form the basis for the Roshar economy. Gemstone weight is measured in kivs. When used as currency, the gems are encased in glass [[Spheres\|spheres]]. Although the spheres are of uniform size, the gemstones inside are of three sizes. In descending order of size (and value), these gem sizes are broam, mark, and chip.
-In addition, the value of the “sphere” is determined by the type of gemstone, which have different values as determined by their utility rather than their rarity.. Their relative value in descending order is as follows: emerald, sapphire, ruby, diamond, and garnet. In addition, amethyst is one of the more valuable gemstones; topaz and zircon are amongst the least valuable.
-
+## Economía de Roshar
+Para más información, véase [[Esferas\|Esferas]].
+Las gemas son la base de la economía de Roshar. El peso de las gemas se mide en kivs.. Cuando se utilizan como moneda, las gemas están encerradas en [[Esferas\|esferas]] de cristal. Aunque estas son de tamaño uniforme, las gemas que hay en su interior son de tres tamaños. En orden descendente de tamaño (y valor), de denominan broam, marco y chip. Además, el valor de la «esfera» viene determinado por el tipo de gema, que tienen diferentes valores según su utilidad más que su rareza.. Su valor relativo en orden descendente es el siguiente: esmeralda, zafiro, rubí, diamante, y granate. Además, la amatista es una de las gemas más valiosas; el topacio y el circonio están entre las menos valiosas.
 
 
-https://coppermind.net/wiki/Heliodor
+## Notas del traductor
+
+## Notas
+
+
+
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Polestone

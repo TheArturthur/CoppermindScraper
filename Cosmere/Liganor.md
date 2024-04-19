@@ -1,22 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Liganor**|
 |-|-|
-|**Profession**|Potter|
-|**Residence**|[[Urithiru\|Urithiru]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Alfarero|
+|**Residencia**|[[Urithiru\|Urithiru]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Something's happening, Alalan. Something in the atrium. I don’t like it. I think I’ll close the shop today. Just in case.*”
-\-Liganor to Alalan[1]
-
-
-**Liganor** is a [[Lighteyed\|lighteyed]] potter in [[Urithiru\|Urithiru]] on [[Roshar\|Roshar]].
-
-## Appearance and Personality
-Liganor is a nice older man. He is short, bald, and somewhat tubby with a short neck. He is brave enough to keep his shop open during the tower's occupation, but he is too fearful to make an open stand supporting the [[Knights Radiant\|Knights Radiant]] when he realizes things are brewing for a fight in the atrium.
-
-## History
-Master Liganor at some point moved to [[Urithiru\|Urithiru]] and opened a pottery shop in the market that consisted of a workroom and a showroom down below with his personal rooms upstairs. He used to do all of the glaze work on the pottery himself, but after employing [[Gub\|Gub]] and [[Alalan\|Alalan]] he delegated that particular task to Gub. Liganor kept his shop open for business during [[Raboniel\|Raboniel's]] occupation of the tower. The day of [[Kaladin\|Kaladin's]] final confrontation with [[Lezian\|Lezian]], he came in from the atrium and discussed the situation with Alalan, looking to him for approval in closing the shop. After locking the door, he retreated upstairs.
+>“*Está pasando algo, Alalan. En el atrio. No me gusta. Creo que hoy cerraré la tienda. Por si acaso.*”
+\-Liganor a Alalan[1]
 
 
+**Liganor** es un alfarero [[Ojos claros\|ojos claros]] en [[Urithiru\|Urithiru]], [[Roshar\|Roshar]].
 
-https://coppermind.net/wiki/Liganor
+## Apariencia y personalidad
+Liganor es un hombre mayor agradable. Es bajo, calvo y algo rechoncho, con el cuello corto. Es lo suficientemente valiente como para mantener su tienda abierta durante la ocupación de la torre, pero es demasiado temeroso para hacer una postura abierta de apoyo a los [[Caballeros Radiantes\|Caballeros Radiantes]] cuando se da cuenta de que las cosas se están preparando para una pelea en el atrio.
+
+## Historia
+El maestro Liganor en algún momento se mudó a [[Urithiru\|Urithiru]] y abrió una tienda de cerámica en el mercado que consistía en una sala de trabajo y una sala de exposición abajo con sus habitaciones personales arriba. Solía realizar él mismo todo el trabajo de vidriado de la cerámica, pero tras contratar a [[Gub\|Gub]] y [[Alalan\|Alalan]] delegó esa tarea concreta en Gub. Liganor mantuvo abierta su tienda durante la ocupación de la torre por [[Rabeniel\|Rabeniel]]. El día del enfrentamiento final de [[Kaladin\|Kaladin]] con [[Lezian\|Lezian]], llegó del atrio y discutió la situación con Alalan, buscando su aprobación para cerrar la tienda. Tras cerrar la puerta, se retiró al piso de arriba.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 21:42, 7 March 2022 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Liganor

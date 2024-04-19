@@ -1,63 +1,81 @@
-|**Ryshadium**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+|**Ryshadio**|
 |-|-|
-|by  Marianne Eie |
-|**Type**|Horse|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|Horse|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*They pick their rider, son. We fixate on Shards, but any man -- courageous or coward -- can bond a Blade. Not so here, on this ground. Only the worthy win here . . .*”
-\-Dalinar to Adolin[1]
-
-
-**Ryshadium** are a subspecies or breed of horse on [[Roshar\|Roshar]]. They are genetically distinct from other horses, though they are still capable of mating with them. They are likely descended from horses that were brought to Roshar when humans first arrived. They are often referred to as "the third Shard" in addition to a [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]].
-
-## Contents
-
-1 Appearance and Anatomy
-2 Ecology
-3 Behavior
-
-3.1 Spren Bond
-3.2 Choosing a Rider
-3.3 In Battle
+>“*Ellos eligen a su jinete, hijo. Nosotros nos concentramos en las esquirlas, pero cualquier hombre, valiente o cobarde, puede vincular una espada. No aquí, en este terreno. Aquí solo vencen los dignos . . .*”
+\-Dalinar a Adolin[1]
 
 
-4 Trivia
-5 Notes
+**Ryshadio** es una subespecie o raza de caballo en [[Roshar\|Roshar]]. Son genéticamente distintos a otros caballos, aunque siguen siendo capaces de procrear con ellos. Probablemente desciendan de los caballos traídos a Roshar cuando los humanos llegaron por primera vez. A menudo se les hace referencia como «la tercera esquirla» junto con la [[Hoja esquirlada\|hoja esquirlada]] y la [[Armadura esquirlada\|armadura esquirlada]].
+
+## Sumario
+
+1 Apariencia y anatomía. [[#Apariencia y anatom.C3.ADa]] 
+2 Ecología. [[#Ecolog.C3.ADa]] 
+3 Comportamiento. [[#Comportamiento]] 
+
+3. [[#V.C3.ADnculo spren]] 
+3. [[#Escogiendo un jinete]] 
+3. [[#En batalla]] 
 
 
-## Appearance and Anatomy
- by  Marianne Eie 
-Ryshadium are larger than other breeds of horse -- for example, [[Gallant\|Gallant]] is two hands taller than an ordinary mount. They can have various coat colors, including black and white. Additionally, they can have both light or dark eyes, which have rectangular pupils. Unlike ordinary horses, Ryshadium have stone hooves and thus do not require shoes. This is likely an adaptation they have developed for life on Roshar. It is unknown if the hooves are actually stone, or a stone-like material.
-In [[Shadesmar\|Shadesmar]], Ryshadium leave behind a faint glowing afterimage.
-
-## Ecology
-Ryshadium live wild in herds across Roshar, though they rarely stray into the western part of the continent. It is only after one chooses to bond a human that they allow themselves to be taken out of the wild.
-
-## Behavior
-### Spren Bond
-Ryshadium have a symbiotic bond with [[Spren\|spren]]. This is a variant of the [[Nahel bond\|Nahel bond]] that turns humans into [[Surgebinder\|Surgebinders]]. The specific type of spren that bonds with them is unclear, although it could be [[Musicspren\|musicspren]] as they have been seen around the Ryshadium even when there is no music playing. The Ryshadium becomes significantly more intelligent—nearly sapient—and somewhat more resilient, while the spren is pulled into the Physical Realm. Ryshadium and humans are among the few non-native species on Roshar to have developed a spren bond. They go to the [[Beyond\|Beyond]] upon dying.
-The spren bond makes them more intelligent than any normal animal. Their intelligence and understanding can be seen in their relationships with their riders. Human riders will often carry on conversations with Ryshadium and the horses will seemingly answer, either through body language or sounds such as snorts.
-In turn, humans take great care not to upset them. They cannot be ridden unless they choose a rider first, and even then they remain difficult to train. A Ryshadium will not be stabled with regular horses, but rather on its own pasture, large enough to run around in. Common grooms typically don't know how to care for a Ryshadium, and once back in its pasture, the horse is sometimes left to fend for itself.
-
-### Choosing a Rider
- by  Caio Santos  [[Gallant\|Gallant]] carrying [[Dalinar\|Dalinar]] into battle
-Ryshadium are known for choosing and obeying only a particular rider. They are not broken or trained; they choose of their own volition. A person must be "worthy" to be chosen by a Ryshadium. What the measure of worthiness is, however, remains unclear. Only a dozen men in all the warcamps at the [[Shattered Plains\|Shattered Plains]] had a Ryshadium and for much of his life [[Dalinar\|Dalinar]] was not worthy. Dalinar describes the experience of having a Ryshadium accept him as a rider as "indescribable".
-Though Ryshadium choose their rider, they may allow others to ride them as they are needed; in one instance, Ryshadium were used to carry three wounded men from the battlefield. On the rare occasions that a Ryshadium needs to carry someone other than their rider, the rider may have to spend a long time convincing the horse to do so. Adolin regrets not appreciating [[Sureblood\|Sureblood]] enough prior to his death in the battle at [[Stormseat\|Stormseat]]; he spends time watching and grooming Gallant. They form a friendship, and Gallant—perhaps missing Dalinar's companionship—eventually allows Adolin to ride him. A Ryshadium having two riders is described as "very rare".
-
-### In Battle
-Ryshadium are ideal warhorses. They can carry a [[Shardbearer\|Shardbearer]] in full Plate, demonstrating their enhanced strength and endurance. They are also faster than other horse breeds. They are strong enough to withstand a Shardbearer jumping into their saddle without any injury to themselves, an action that would break the backs of most ordinary horses. In battle, Ryshadium will hold their ground even in circumstances when other horses would flee, either through training or their natural abilities.
-While Ryshadium are useful in battle, Shardbearers will sometimes fight unmounted so that they do not endanger their Ryshadium in close attacks. Ryshadium are loyal to their riders, and will risk their lives to find and aid them.
-**Known Riders**
-
-[[Dalinar\|Dalinar]] with [[Gallant\|Gallant]]
-[[Adolin\|Adolin]] with [[Sureblood\|Sureblood]] and Gallant
-[[Hatham\|Hatham]] with unnamed Ryshadium
-[[Kalanor\|Kalanor]] with unnamed Ryshadium
-## Trivia
-Ryshadium is a word also used in the *Alcatraz* series; [[Radrian Blackburn\|Radrian Blackburn]] asks [[Leavenworth Smedry\|Leavenworth Smedry]] how to bypass the Sentinel's Glass of Ryshadium during the torture.
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Ryshadium
+## Apariencia y anatomía
+ 
+Los ryshadios son más grandes que otras especies de caballo -- por ejemplo, [[Galante\|Galante]] es dos palmos más alto que una montura ordinaria. Pueden tener varios colores de pelaje, incluyendo blanco y negro. Además, pueden tener tanto ojos claros como oscuros, que tienen pupilas rectangulares. A diferencia de los caballos ordinarios, un ryshadio tiene pezuñas de piedra por lo que no necesita herraduras. Esto es probablemente una adaptación que desarrollaron para vivir en Roshar. Se desconoce si sus pezuñas son realmente de piedra, o de un material parecido.
+En [[Shadesmar\|Shadesmar]], un ryshadium deja tras de sí una imagen remanente de brillo tenue.
+
+## Ecología
+Los ryshadios salvajes viven en manadas por todo Roshar, aunque raramente se adentran en la parte oeste del continente. Solo después de haber escogido a un humano permiten que se les saque de la naturaleza.
+
+## Comportamiento
+### Vínculo spren
+Los ryshadios tienen un vínculo simbiótico con [[Spren\|spren]]. Esto es una variante del [[V%C3%ADnculo Nahel\|vínculo Nahel]] que convierte a los humanos en[[Potenciador\|Potenciadores]]. El spren específico que se vincula con ellos no está claro, aunque podrían ser [[Musispren\|musispren]] pues han sido vistos alrededor de ryshadios incluso cuando no está sonando música. Los ryshadios se vuelven significativamente más inteligentes—casi sapientes—y de alguna manera más resistentes, mientras que el spren es traído al Reino Físico. Los ryshadios y los humanos están entre las pocas especies no nativas de Roshar que han desarrollado un vínculo spren. Van al  al morir.
+El vínculo spren los hace más inteligentes que cualquier animal normal. Su inteligencia y entendimiento puede ser vista en sus relaciones con sus jinetes. Los jinetes humanos a menudo tienen conversaciones con su ryshadio y el caballo aparentemente responde, ya sea por lenguaje corporal o por sonidos como resoplidos.
+A cambio, los humanos llevan mucho cuidado de no molestarlos. No pueden ser montados si no han escogido a su jinete primero,  e incluso entonces resultan difíciles de entrenar. Un ryshadio no será estabulado con los caballos normales, sino con su propio pasto, lo bastante grande como para que pueda correr. Los caballerizos comunes normalmente no saben como cuidar a un ryshadio, y una vez de vuelta en su pasto, el caballo es a veces dejado para defenderse solo.
+
+### Escogiendo un jinete
+  <<Galante\|Galante>> llevando a <<Dalinar\|Dalinar>> a la batalla
+Los ryshadios son conocidos por escoger y obedecer sólo a un jinete en particular. No son domados ni entrenados; lo escogen por propia voluntad. Una persona debe ser «digna» para ser elegida por un ryshadio. En qué consiste dicha dignidad, no obstante, permanece incierto. Solo una docena de hombres en todos los campamentos de guerra de las [[Llanuras Quebradas\|Llanuras Quebradas]] tenían un ryshadio y durante gran parte de su vida [[Dalinar\|Dalinar]] no fue digno. Dalinar describe la experiencia de que un ryshadio lo aceptase como jinete como «indescriptible».
+Aunque el ryshadio escoge a su jinete, pueden permitir a otros montarlos si es necesario; en otra instancia, un ryshadio fue usado para sacar a tres hombres heridos del campo de batalla. En las raras ocasiones en que un ryshadio necesita llevar a alguien que no es su jinete, el jinete debe haber pasado un buen tiempo convenciendo al caballo de hacerlo. Adolin se arrepiente de no haber valorado bastante a [[Sangre Segura\|Sangre Segura]] antes de su muerte en la batalla de [[Sedetormenta\|Sedetormenta]]; pasa tiempo observando y cuidando a Galante. Forman una amistad, y Galante—quizá echando de menos la compañía de Dalinar—finalmente deja que Adolin lo monte. Un ryshadio teniendo dos jinetes es descrito como «muy raro».
+
+### En batalla
+Los rysahdios son los caballos de guerra ideales. Pueden llevar a un [[Portador de esquirlada\|portador de esquirlada]] en armadura completa, demostrando su fuerza y resistencia potenciadas. También son más rápidos que otras razas de caballos. Son lo bastante fuertes como para aguantar a un portador de esquirlada saltando a su silla sin resultar heridos, una acción que partiría la espalda de la mayoría de los caballos ordinarios. En batalla, un ryshadio conservará su posición incluso en circunstancias en la que otros caballos huirían, ya sea por su entrenamiento o sus habilidades naturales.
+Si bien los ryshadios son útiles en batalla, los portadores de esquirlada en ocasiones preferirán combatir desmontados para no poner en peligro a su ryshadio con ataques cercanos. Los ryshadios son leales a sus jinetes, y arriesgarán sus vidas para ayudarlos.
+**Jinetes conocidos**
+
+[[Dalinar\|Dalinar]] con [[Galante\|Galante]]
+[[Adolin\|Adolin]] con [[Sangre Segura\|Sangre Segura]] y Galante
+[[Hatham\|Hatham]] con un ryshadio sin nombre
+[[Kalanor\|Kalanor]] con un ryshadio sin nombre
+## Curiosidades
+Ryshadio es una palabra también usada en la saga *[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz]]*; [[Radrian Blackburn\|Radrian Blackburn]] pregunta a [[Leavenworth Smedry\|Leavenworth Smedry]] como pasar el Cristal del Centinela de Ryshadio durante la tortura.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] ·  · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Ryshadium

@@ -1,53 +1,72 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Ua'pam**|
 |-|-|
-|by  FelCandy |
-|**Relatives**|[[Unativi\|Unativi]] |
-|**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Stonewards\|Stoneward]] magic, [[Splinter\|Splinter]]|
-|**Bonded With**|[[Zu (Roshar)\|Zu]]|
-|**Species**|[[Peakspren\|Peakspren]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Rhythm of War*|
+||
+|**Parientes**|[[Unativi\|Unativi]] |
+|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de [[Orden de los Custodios de Piedra\|Custodio de Piedra]], [[Astilla\|Astilla]]|
+|**Vinculado con**|[[Zu (Roshar)\|Zu]]|
+|**Especie**|[[Cumbrespren\|Cumbrespren]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
-**Ua'pam** is a [[Peakspren\|peakspren]] on [[Roshar\|Roshar]] bonded to [[Zu (Roshar)\|Zu]].
+**Ua'pam** es un [[Cumbrespren\|cumbrespren]] en [[Roshar\|Roshar]] vinculado a [[Zu (Roshar)\|Zu]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
 
-4.1 Zu
-4.2 Adolin Kholin
-
-
-5 Notes
+4. [[#Zu]] 
+4. [[#Adolin Kholin]] 
 
 
-## Appearance and Personality
-As a peakspren, Ua'pam has the appearance of a featureless humanoid rock in the [[Physical Realm\|Physical Realm]]; he can change his size, and can sometimes be as small as a pebble. He can disappear into stone and emerge from it later.
-In [[Shadesmar\|Shadesmar]], Ua'pam resembles a tall human made of rock; he is reminiscent of a mountain. He is bald and has human features. His skin has cracks that glow from within as if molten, although it is not actually hot to the touch. He wears fur-lined clothing.
-Ua'pam doesn't speak much, and he has a "grinding" voice. He sometimes audibly rubs his knuckles together, but the meaning of the gesture is unknown. He is serious and cautious, although he prefers to confront problems rather than run from them. He considers Kasiden peakspren from the east to be fools.
+5 Notas. [[#Notas]] 
 
-## Attributes and Abilities
- by  Jessica Liu  With [[Zu (Roshar)\|Zu]], in Shadesmar
-Ua'pam shares a [[Nahel bond\|Nahel bond]] with Zu, granting him sapience in the [[Physical Realm\|Physical Realm]]. Zu is able to manifest Ua'pam as a [[Shardblade\|Shardblade]]; she prefers a very long, thin, curved Blade, but she actively changes its shape as needed.
-Ua'pam is able to manifest objects in Shadesmar. He has the rare ability to sense the soul of an object, although he can only get a somewhat indistinct perception of its nature. To manifest the object in the [[Cognitive Realm\|Cognitive Realm]], he takes the corresponding bead in Shadesmar and uses inhaled [[Stormlight\|Stormlight]] to make it reflect its physical nature; doing so seems to be physically taxing. When the object appears in the [[Cognitive Realm\|Cognitive Realm]], he can sometimes be surprised by its particular characteristics. Ua'pam is particularly skilled with this process, more so than his cousin [[Unativi\|Unativi]]. His manifestations can last a long time, even without any reinfusion of Stormlight.
-He is also familiar with [[Mandra\|mandra]]-powered transportation in Shadesmar, and knows how to help Unativi prepare his barge for flight. He has a relatively high level of familiarity with the geography of Shadesmar, including some caravan routes.
 
-## History
-Ua'pam bonded Zu circa 1173; he joined the fight with the [[Knights Radiant\|Radiants]] because [[Odium\|Odium]] was coming and he did not want to run. Zu's newfound powers led to her exile from [[Iri\|Iri]], as it was not widely known at the time that [[Surgebinding\|Surgebinding]] had returned. He presumably accompanied Zu during her time in the [[Reshi Isles\|Reshi Isles]] over the next few years.
-In 1175, Ua'pam and Zu were selected by the [[Coalition of monarchs\|coalition of monarchs]] to join the diplomatic mission from [[Urithiru\|Urithiru]] to the [[Honorspren\|honorspren]] stronghold of [[Lasting Integrity\|Lasting Integrity]]. The team entered Shadesmar through an [[Oathgate\|Oathgate]], and it was the first time Zu saw Ua'pam's form in the Cognitive Realm. Ua'pam was happy to see his cousin Unativi, who captained the barge that the group took from [[Nohadon's Stairways\|Nohadon's Stairways]] to [[Nameless\|Nameless]]. Notably, Ua'pam and Unativi did not agree on the best course of action for their people in the face of the [[True Desolation\|True Desolation]], demonstrating that spren did not act as a monolith.
-Ua'pam participated in scouting activities with Zu, and helped find places to camp during the journey. He discouraged Zu from confronting the [[Tukar\|Tukari]] caravan and their [[Tukari leader\|leader]]. Upon reaching Lasting Integrity, Zu was part of the group that was sent back to Urithiru to bring word to [[Dalinar\|Dalinar]], and Ua'pam presumably went with her.
+## Apariencia y personalidad
+Como cumbrespren, Ua'pam tiene la apariencia de una roca humanoide sin facciones en el [[Reino F%C3%ADsico\|Reino Físico]]; puede cambiar su tamaño, y en ocasiones puede ser tan pequeño como un guijarro. Puede desaparecer en la roca y emerger de ella más tarde.
+En [[Shadesmar\|Shadesmar]], Ua'pam parece un humano alto hecho de roca; recuerda a una montaña. Es calvo y tiene rasgos humanos. Su piel tiene grietas que brillan desde el interior como si estuvieran fundidas, aunque en realidad no están calientes al tacto. Lleva ropa cubierta de pieles.
+Ua'pam no habla mucho, y tiene una voz "rasposa". A veces puede oirse como se frota sus nudillos, pero el significado de este gesto es desconocido. Es serio y precavido, aunque prefiere enfrentarse a los problemas antes que huir de ellos. Considera a los cumbrespren de Kasiden, del este, unos necios.
 
-## Relationships
+## Atributos y habilidades
+  Con <<Zu (Roshar)\|Zu>>, en Shadesmar
+Ua'pam comparte un [[V%C3%ADnculo Nahel\|Vínculo Nahel]] con Zu, concediéndole consciencia en el [[Reino F%C3%ADsico\|reino Físico]]. Zu es capaz de manifestar a Ua'pam como [[Hoja esquirlada\|hoja esquirlada]]; prefiere una hoja muy larga, delgada y curva, pero la cambia activamente a la forma que necesite.
+Ua'pam es capaz de manifestar objetos en Shadesmar. Tiene la rara habilidad de sentir el alma de un objeto, aunque solo puede conseguir de alguna manera una percepción indistinta de su naturaleza. Para manifestar el objeto en el [[Reino Cognitivo\|Reino Cognitivo]], toma la perla correspondiente en Shadesmar y usa [[Luz tormentosa\|luz tormentosa]] inhalada para hacerla reflejar su naturaleza física; hacerlo parece ser físicamente exigente. Cuando el objeto aparece en el [[Reino Cognitivo\|Reino Cognitivo]], a veces puede ser sorprendido por sus características particulares. Ua'pam es particularmente diestro en este proceso, más que su primo [[Unativi\|Unativi]]. Sus manifestaciones pueden durar mucho tiempo, incluso sin una nueva infusión de luz tormentosa.
+También le es familiar el transporte por Shadesmar usando [[Mandra\|mandras]], y sabe como ayudar a Unativi a preparar su embarcación para el vuelo. Tiene un conocimiento relativamente alto de la geografía de Shadesmar, incluyendo algunas rutas de caravanas.
+
+## Historia
+Ua'pam se vinculó con Zu alrededor del 1173; se unió a la lucha con los [[Caballeros Radiantes\|Radiantes]] porque [[Odium\|Odium]] estaba viniendo y no quería huir. Los nuevos poderes de Zu llevaron a su exilio de [[Iri\|Iri]], pues no era ampliamente conocido que la [[Potenciaci%C3%B3n\|Potenciación]] había regresado. Él presumiblemente acompañó a Zu durante su tiempo en las [[Islas Reshi\|Islas Reshi]] durante los pocos años siguientes.
+En 1175, Ua'pam y Zu fueron seleccionados por la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]] para unirse a la misión diplomática de [[Urithiru\|Urithiru]] a la fortaleza [[Honorspren\|honorspren]] de [[Integridad Duradera\|Integridad Duradera]]. El equipo entró en Shadesmar a través de una [[Puerta Jurada\|Puerta Jurada]], y fue la primera vez que Zu vio la forma de Ua'pam en el Reino Cognitivo. Ua'pam estaba contento de ver a su primo Unativi, que capitaneaba el barco que el grupo tomó de las [[Escaleras de Nohadon\|Escaleras de Nohadon]] a [[Innominado\|Innominado]]. Notablemente, Ua'pam y Unativi no estaban de acuerdo en la mejor manera que tenía su gente de enfrentarse a la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], demostrando que los spren no tienen una única forma de actuar.
+Ua'pam participó en actividades de exploración con Zu, y ayudó a buscar lugares en los que acampar durante el viaje. Disuadió a Zu de enfrentarse a la caravana [[Tukar\|tukari]] y su [[L%C3%ADder tukari\|líder]]. Al llegar a Integridad Duradera, Zu fue parte del grupo enviado de vuelta a Urithiru para informar a [[Dalinar\|Dalinar]], y Ua'pam presumiblemente fue con ella.
+
+## Relaciones
 ### Zu
-He has a strong, playful relationship with Zu. She shows affection towards him, and enjoys antagonizing him by ignoring his admonitions to be more careful.
+Tiene una fuerte y juguetona relación con Zu. Ella le muestra afecto, y disfruta llevarle la contraria ignorando sus indicaciones de ser más cauta.
 
 ### Adolin Kholin
-During the expedition to Lasting Integrity, Ua'pam befriended [[Adolin Kholin\|Adolin Kholin]]. Although he was surprised by [[Mayalaran\|Mayalaran's]] ability to perform katas, he refused to believe that she was regaining her mind, insisting that it was impossible. He later told Adolin about the beautiful views from one of the caravan routes, and advised him of a spot where [[Starspren\|starspren]] are visible.
+Durante la expedición a Integridad Duradera, Ua'pam se hizo amigo de [[Adolin Kholin\|Adolin Kholin]]. Aunque estaba sorprendido por la habilidad de [[Mayalaran\|Mayalaran]] para realizar katas, se negó a creer que estuviera recuperando su mente, insistiendo en que eso era imposible. Más tarde le habló a Adolin sobre las bonitas vistas de una de las rutas de caravanas, y le recomendó un sitio desde el que los [[Estrellaspren\|estrellaspren]] son visibles.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 00:29, 30 June 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Ua%27pam
+https://es.coppermind.net/wiki/Ua%27pam

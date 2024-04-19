@@ -1,43 +1,57 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Maksim**|
 |-|-|
-|**Profession**|Pirate|
-|**Homeworld**|*Unknown*|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Oficio**|Pirata|
+|**Mundo natal**|*Desconocido*|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Cytonic* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*Yeah, well, it’s all fun and games until your pet tries to steal the family starship and escape. Too aggressive, they decided.*”
-\-Maksim to Spensa[1]
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]* y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-
-**Maksim** is a human member of the [[Broadsiders\|Broadsiders]] pirate faction in the belt of the [[Nowhere\|nowhere]]. He serves on the ground crew for [[Cutlass Flight\|Cutlass Flight]] alongside [[Nuluba\|Nuluba]].
-
-## Appearance and Personality
->“*He looked a lot less like a warrior than he did like a guy who'd been lost wandering the caverns.*”
-\-Spensa on Maksim's appearance[3]
+>“*Todo es alegría y diversión hasta que tu mascota intenta robar la nave estelar de la familia y escapar. Decidieron que era demasiado agresivo.*”
+\-Maksim a Spensa[1]
 
 
-Maksim is in his early thirties, with a long scraggly beard. He has a loose appearance, and often lounges about. He has a goofy smile and a ready, welcoming manner. He is generally quite relaxed, and will sometimes just sit around and chat instead of working. He likes to talk, often freely giving away information.
+**Maksim** es un miembro humano de la facción pirata de los [[Costaderos\|Costaderos]] en el cinturón de la [[Ninguna-parte\|ninguna-parte]]. Forma parte de la tripulación de tierra del [[Escuadr%C3%B3n Alfanje\|Escuadrón Alfanje]] junto a [[Nuluba\|Nuluba]].
 
-## History
->“*It’s all fun and games until your pet tries to steal the family starship and escape. Too aggressive, they decided. As if they hadn’t known what I was when they bought me.*”
-\-Maksim talking with Spensa[1]
-
-
-Maksim was kept as a pet by a member of the [[Superiority\|Superiority]], as humans are often seen as novelties. He was put through anti-aggression therapy, and was made to sit on a mat and simply hum for hours. Maksim attempted to steal the family starfighter, and at some point afterward ended up in the nowhere, eventually joining up with [[Peg\|Peg]] and the Broadsiders. When Spensa was captured by the Broadsiders and put to work, Maksim chatted with her about himself and the pirates. He was impressed by her mechanical skill, and explained how the six pirate factions worked to her. While chatting with her, he revealed the existence of their long-range scanner, which allowed them to detect incoming ships from a distance. He continued to give her more jobs as she stayed with the Broadsiders, often making idle conversation as Spensa worked. Spensa worked to repair one of the fighters, which Maksim wanted to fly. He wanted to become a skilled pilot, so he could become pirate champion and bring respect to the Broadsiders.
-After Peg saw Spensa as a threat and attacked her, Spensa defeated her and claimed command of the faction, both Maksim and Nuluba drew guns on her. Spensa was able to escape with the help of [M-Bot]]. Maksim saw Spensa as she later went to retrieve her reality icon, but didn’t fire at her. After Spensa agreed to Peg’s terms and joined the Broadsiders fully, Maksim finally got his own fighter. He ran practice drills with the others of Cutlass Flight, directed by Spensa. During their practice, he did IMP exercises with Peg. Maksim wasn’t very skilled, but was eager. He didn’t enjoy learning the basics, but Spensa insisted that he needed a strong foundation.
-
->“*The Jolly Rogers were sent running! You have no idea how good that feels!*”
-\-Maksim to Spensa after the skirmish[7]
-
-Maksim and the others accompanied Spensa and [[Chet\|Chet]] as they investigated a portal on the [[Path of Elders\|Path of Elders]], Maksim looking for salvage with the others. As they left, Maksim spotted a heklo watching them from a distance, who was possessed by a [[Delver\|delver]]. As they headed back to the Broadsider Base, they found it being raided by members of the [[Jolly Roger Faction\|Jolly Roger Faction]]. Maksim was Peg’s wingmate during the battle, helping out a beleaguered [[Gibsey\|Gibsey]], who picked up two tails. After the battle, Maksim helped tow Spensa’s immobilized ship back to the base. Maksim attended Spensa’s duel with the current pirate champion, giving her a trashy romance novel for her to read on the flight there. After Spensa’s victory, when the Broadsiders celebrated, Maksim used his ship’s floodlights to create a spotlight on Spensa as she told a story. Maksim enjoyed her story, liking its theme of honor. He ate real food with Spensa, both of them talking about the strangeness of it.
-
->“*Thank you, for showing me that we can fight without being monsters.*”
-\-Maksim to Spensa before her departure[11]
-
-Maksim was involved in the joint pirate assault on the Superiority base of [[Surehold\|Surehold]], and moved into the station with the other pirates after their victory. He said goodbye to Spensa before she flew towards the lightburst, exchanging a hug.
+## Apariencia y personalidad
+>“*Parecía mucho menos un guerrero que un tipo que se hubiera perdido vagando por las cavernas.*”
+\-Spensa sobre el aspecto de Maksim[3]
 
 
+Maksim tiene unos treinta años y una larga barba desaliñada. Tiene una aspecto relajado y suele holgazanear. Tiene una sonrisa bobalicona y una actitud dispuesta y acogedora. Por lo general, es bastante relajado y a veces se sienta a charlar en lugar de trabajar. Le gusta hablar y, a menudo, da información libremente.
+
+## Historia
+>“*Todo es alegría y diversión hasta que tu mascota intenta robar la nave estelar de la familia y escapar. Decidieron que era demasiado agresivo. Como si no supieran ya lo que era cuando me compraron.*”
+\-Maksim hablando con Spensa[1]
 
 
-https://coppermind.net/wiki/Maksim
+Maksim fue visto como mascota por un miembro de la [[Supremac%C3%ADa\|Supremacía]], ya que los humanos suelen verse como algo innovador. Fue sometido a terapia antiagresiva, y se le hizo sentarse en una colchoneta y simplemente tararear durante horas. Maksim intentó robar el caza estelar de la familia y, en algún momento posterior, acabó en la ninguna-parte, uniéndose con el tiempo a [[Palo (Escuadr%C3%B3n)\|Palo]] y los Costaderos. Cuando Spensa fue capturada por ellos y puesta a trabajar, Maksim charló con ella sobre sí mismo y los piratas. Quedó impresionado por sus habilidades mecánicas y le explicó cómo funcionaban las seis facciones piratas. Mientras charlaba con ella, le reveló la existencia de su escáner de largo alcance, que les permitía detectar naves entrantes a distancia. Siguió dándole más trabajos mientras ella permanecía con los Costaderos, a menudo manteniendo conversaciones ociosas mientras Spensa trabajaba. Ella trabajaba reparando uno de los cazas, que Maksim quería pilotar. Quería convertirse en un piloto experto, para poder llegar a ser campeón pirata y hacer respetar a su facción.
+Después de que Palo viera a Spensa como una amenaza y la atacara, Spensa la derrotó y reclamó el control de la facción, tanto Maksim como Nuluba la apuntaron con sus armas. Spensa pudo escapar con la ayuda de [M-Bot]]. Maksim vio a Spensa cuando más tarde fue a recuperar su icono de realidad, pero no le disparó. Después de que Spensa aceptara las condiciones de Palo y se uniera por completo a los Costaderos, Maksim consiguió por fin su propio caza. Realizó ejercicios de práctica con los demás del Escuadrón Alfanje, dirigidos por Spensa. Durante sus prácticas, hizo ejercicios con el PMI con Palo. Maksim no era muy hábil, pero tenía ganas. No le gustaba aprender lo básico, pero Spensa insistía en que necesitaba una base sólida.
+
+>“*¡Los Calavera y Tibias han salido por patas! ¡No te haces una idea de lo bien que sienta!*”
+\-Maksim a Spensa tras la escaramuza[7]
+
+Maksim y los demás acompañaron a Spensa y [[Chet\|Chet]] mientras investigaban un portal en la [[Senda de los Ancianos\|Senda de los Ancianos]], Maksim buscando salvamento con los demás. Cuando se marchaban, Maksim vio a un heklo que los observaba desde la distancia, poseído por un [[Zapador\|zapador]]. Cuando se dirigían de vuelta a la Base Costadera, se encontraron con que estaba siendo asaltada por miembros de la [[Facci%C3%B3n Calavera y Tibias\|Facción Calavera y Tibias]]. Maksim fue el compañero de ala de Palo durante la batalla, ayudando a un asediado [[Gibsey\|Gibsey]], que recogió dos colas. Tras la batalla, Maksim ayudó a remolcar la nave inmovilizada de Spensa de vuelta a la base. Maksim asistió al duelo de Spensa con el actual campeón pirata, regalándole una novela romántica de pacotilla para que leyera durante el vuelo. Tras la victoria de Spensa, cuando los Costaderos celebraban el triunfo, Maksim utilizó los focos de su barco para iluminar a Spensa mientras contaba una historia. La disfrutó y le gustó el tema del honor. Comió comida de verdad con Spensa, y ambos hablaron de lo extraño que resultaba.
+
+>“*Gracias por mostrarme que podemos luchar sin ser unos monstruos.*”
+\-Maksim a Spensa antes de su partida[11]
+
+Maksim participó en el asalto pirata conjunto a la base de la Supremacía de [[Fuerteseguro\|Fuerteseguro]], y se trasladó a la estación con los demás piratas tras su victoria. Se despidió de Spensa antes de que ella volara hacia el estallido de luz, intercambiando un abrazo.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+
+
+
+https://es.coppermind.net/wiki/Maksim

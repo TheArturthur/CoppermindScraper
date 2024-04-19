@@ -1,168 +1,189 @@
-|**Order of Skybreakers**|
+
+
+|**Orden de los Rompedores del Cielo**|
 |-|-|
 ||
 |||
-|**Herald**|[[Nale\|Nale]]|
-|**Spren**|[[Highspren\|Highspren]]|
-|**Surges**|[[Gravitation\|Gravitation]] & [[Division\|Division]]|
-|**Plate spren**|[[Gravitationspren\|Gravitationspren]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**[[Heraldo\|Heraldo]]**|[[Nale\|Nale]]|
+|**[[Spren\|Spren]]**|[[Altospren\|Altospren]]|
+|**[[Potencia\|Potencias]]**|[[Gravitaci%C3%B3n\|Gravitación]] y [[Divisi%C3%B3n\|División]]|
+|**Spren de [[Armadura esquirlada\|armadura]]**|[[Gravitacionspren\|Gravitacionspren]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Aparece en**|*[[El archivo de las tormentas\|El archivo de las tormentas]], [[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*I watched you destroy yourself in the name of order, watched you obey your personal code when others would have fled or crumbled. Szeth-son-Neturo, I watched you keep your word with perfection. This is a thing lost to most people--it is the only genuine beauty in the world. I doubt I have ever found a man more worthy of the Skybreakers than you.*”
-\-Nale to Szeth[2]
-
-
-The **Order of Skybreakers** is an order of the [[Knights Radiant\|Knights Radiant]] on [[Roshar\|Roshar]].
-The Skybreakers are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] of Gravitation and Division, and they are associated with the smokestone [[Polestone\|polestone]]. They form a [[Nahel bond\|Nahel bond]] with [[Highspren\|highspren]]. They are widely thought of as fanatics in both Shadesmar and the Physical Realm. The Skybreakers were the only Radiant order not to have abandoned their oaths on the [[Day of Recreance\|Day of Recreance]], and continued to operate in secret until the present day.
-
-## Contents
-
-1 Philosophy
-2 Ideals of the Skybreakers
-
-2.1 The First Ideal
-2.2 The Second Ideal
-2.3 The Third Ideal
-2.4 The Fourth Ideal
-2.5 The Fifth Ideal
+>“*Te vi destruirte a ti mismo en nombre del orden, te vi obedecer tu código personal cuando otros habrían huido o se habrían desmoronado. Szeth-hijo-Neturo, te vi cumplir tu palabra con perfección. Esto es algo que la mayoría de la gente ha perdido: es la única belleza auténtica del mundo. Dudo haber encontrado jamás un hombre más digno de los Rompedores del Cielo que tú.*”
+\-Nale a Szeth[2]
 
 
-3 Abilities
+La **Orden de los Rompedores del Cielo** es una orden de [[Caballeros Radiantes\|Caballeros Radiantes]] de [[Roshar\|Roshar]].
+Los Rompedores del Cielo son [[Potenciador\|potenciadores]] que usan las [[Potencia\|Potencias]] de Gravitación y División, y se les asocia con la [[Piedrabase\|Piedrabase]] del cuarzo ahumado. Forman un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con los [[Altospren\|altospren]]. Son comúnmente percibidos como fanáticos tanto en Shadesmar como en el Reino Físico. Fueron la única Orden Radiante que no abandonó sus juramentos en el Día de la Traición, y continuó operando en secreto hasta la actualidad.
 
-3.1 Gravitation
-3.2 Division
-3.3 Shardplate Abilities
+## Sumario
 
+1 Filosofía. [[#Filosof.C3.ADa]] 
+2 Ideales de los Rompedores del Cielo. [[#Ideales de los Rompedores del Cielo]] 
 
-4 History
-
-4.1 Ancient Skybreakers
-4.2 In Hiding
-4.3 True Desolation
-
-
-5 Notable Skybreakers
-6 Trivia
-7 Notes
+2. [[#El Primer Ideal]] 
+2. [[#El Segundo Ideal]] 
+2. [[#El Tercer Ideal]] 
+2. [[#El Cuarto Ideal]] 
+2. [[#El Quinto Ideal]] 
 
 
-## Philosophy
->“*The second is the Ideal of Justice, an oath to seek and administer justice.*”
-\-Ki explaining the Second Ideal of the Skybreakers[4]
+3 Habilidades. [[#Habilidades]] 
 
-The individuals who join the Skybreakers generally believe in following a strong moral code. They wish to prevent both anarchy and tyranny. To do so, they enforce the law on everyone. They particularly want to make sure the other orders of Radiants do not use their powers to break the law and become tyrants. They used moral codes and legal structures to fight for justice and causes they believed in.
-Before the Recreance, the Skybreakers were merciful and understood that the law is not perfect. They viewed the law as an ideal to strive towards. Highspren would accept their Radiants following codes that may endorse illegal activity. For example, a Skybreaker could follow the code of a criminal organization. Since the Recreance, the Skybreakers have gotten far more strict and merciless in their behavior. The group largely seems to follow Nale's opinion on what codes and laws to follow. This may be related to the fact that Nale has lost his ability to feel emotions under the torturing in [[Damnation\|Damnation]]. While they still follow the law to the letter, they are not above getting the law changed or instituting the most strict punishments possible to suit their needs. Exploiting loopholes in codes is also encouraged among them.
-
-## Ideals of the Skybreakers
-The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order. The Ideals of the Order of Skybreakers all focus on fighting for justice, upholding codes, and protecting civilization. Their Ideals and interpretations would be compatible with the philosophy that the ends justifies the means. Skybreakers tell their recruits all five Ideals when they swear the first one.
-
-### The First Ideal
->“*Life before death, strength before weakness, journey before destination.*”
-\-The First Ideal of the Knights Radiant[14]
+3. [[#Gravitaci.C3.B3n]] 
+3. [[#Divisi.C3.B3n]] 
+3. [[#Habilidades de la armadura esquirlada]] 
 
 
-The First Ideal is also known to the Skybreakers as the Ideal of Radiance. Before swearing this Ideal, hopefuls travel with the Skybreakers on a mission. They must prove their dedication and solemnity on that mission to a full Skybreaker before they are deemed worthy of saying the Words. The Ideal of Radiance does not give powers or the ability to draw Stormlight, but it does qualify them for further tests among the Skybreakers so that they can become squires. The Skybreakers pardon any past misdeeds when someone swears this Ideal, using the proper local authorities and paperwork.
+4 Historia. [[#Historia]] 
 
-### The Second Ideal
- by  botanicaxu  [[Szeth\|Szeth]] training with other Skybreakers
->“*I swear to seek justice, to let it guide me, until I find a more perfect Ideal.*”
-\-The Second Ideal of the Skybreakers, as chosen by Szeth[16]
-
-
-Also called the Ideal of Justice, this is a specific oath to seek and administer justice. Once a master chooses to accept someone as a squire, they may swear this Ideal. This Ideal gives the squire the ability to breathe in Stormlight and use the Surge of Gravitation.
-
-### The Third Ideal
->“*I swear to follow the will of Dalinar Kholin. This is my oath.*”
-\-The Third Ideal of the Skybreakers, as sworn by Szeth[17]
+4. [[#Antiguos Rompedores del Cielo]] 
+4. [[#Ocultos]] 
+4. [[#Aut.C3.A9ntica Desolaci.C3.B3n]] 
 
 
-Also called the Ideal of Dedication, this is a specific oath to dedicate oneself to a greater truth, either a code or, sometimes, a person. A Skybreaker squire must first bond their [[Highspren\|Highspren]] before taking this oath, and it is the minimum oath required before the Surge of Division can be used. Swearing this Ideal makes someone a full Skybreaker. This oath is the furthest that most Skybreakers ever swear. If the code they swear to follow changes after they swear to it, they must follow the changes. Nale warned that following people as an Ideal may result in some issues since people are easily subject to change. Nonetheless, some Skybreakers choose to follow Nale as their third Ideal.
-
-### The Fourth Ideal
->“*I will cleanse the Shin of their false leaders, so long as Dalinar Kholin agrees.*”
-\-The Fourth Ideal of the Skybreakers, as spoken by Szeth.[17]
+5 Rompedores del Cielo destacados. [[#Rompedores del Cielo destacados]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
 
-This Ideal is also called the Ideal of Crusade, and requires that a Skybreaker undertake a personal quest and complete it to the satisfaction of their highspren. Once completed, the Skybreaker is elevated to the rank of master. Masters are able to accept squires. Most Skybreakers never make it to this Ideal, and the ones that do can spend decades at the Third Ideal before completing their quest.
+## Filosofía
+>“*El segundo es el Ideal de la Justicia, un voto de promoverla y administrarla.*”
+\-Ki explicando el Segundo Ideal de los Rompedores del Cielo[4]
 
-### The Fifth Ideal
->“*If you progress as a Skybreaker, you will need to become the law. To reach your ultimate potential, you must know the truth yourself, rather than relying on the crutch presented by the Third Ideal. Be aware of this.*”
-\-Szeth's highspren on the Fifth Ideal[19]
+Los que se unen a los Rompedores del Cielo generalmente creen en seguir un código moral fuerte. Desean prevenir la anarquía y la tiranía por igual. Para hacerlo, hacen a todos cumplir la ley. Particularmente tratan de evitar que las otras Órdenes de Radiantes usen sus poderes para violar la ley y se conviertan en tiranos. Usaban códigos morales y estructuras legales para luchar por la justicia y las causas en las que creían.
+Antes de la Traición, los Rompedores del Cielo eran piadosos y entendían que la ley no es perfecta. Veían la ley como un ideal por el que luchar. Los altospren escogían a sus Radiantes siguiendo códigos que podían respaldar actividades ilegales. Por ejemplo, un Rompedor del Cielo podía seguir el código de una organización criminal. Desde la Traición, los Rompedores del Cielo se han vuelto mucho más estrictos y despiadados. El grupo mayoritariamente parece seguir la opinión de Nale en cuanto a qué códigos y leyes seguir. Esto puede estar relacionado con el hecho de que Nale perdiera la capacidad de sentir emociones tras la tortura en [[Condenaci%C3%B3n\|Condenación]]. Aún siguiendo la ley al pie de la letra, no están por encima de cambiar la ley o aplicar los castigos más estrictos posibles para satisfacer sus necesidades. Aprovecharse de las lagunas legales en los códigos es algo que se fomenta entre ellos.
 
+## Ideales de los Rompedores del Cielo
+Los Ideales de los Caballeros Radiantes, también conocidos como [[Palabras Inmortales\|Palabras Inmortales]], son un conjunto de normas a las que se adhieren los Radiantes. El Primer Ideales es el mismo para todas las órdenes, por lo que es el lema de los Caballeros Radiantes en conjunto, y los otros cuatro son porpios de cada orden.  Los Ideales de la Orden de los Rompedores del Cielo se concentran en luchar por la justicia, defender códigos y proteger la civilización. Sus Ideales e interpretaciones serían compatibles con la filosofía de el fin justifica los medios. Los Rompedores del Cielo explican a sus reclutas los cinco ideales una vez juran el primero.
 
-Called the Ideal of Law, this Ideal requires the Skybreaker to swear an oath that they will become a personification of law and truth. Nale is likely the only current Skybreaker to have achieved it, as it has been centuries since anyone mastered the Fifth Ideal. There is a disagreement among the order on whether this means that the Skybreaker swearing this oath can do anything, as they are an embodiment of the law, or if they need to not break any law to keep their oaths. Depending on the Skybreaker's perception of the Ideal, either interpretation could be valid. After swearing the Fifth Ideal, a Skybreaker is no longer required to follow the Third Ideal they swore to.
-
-## Abilities
- by  Steve Argyle  Flying Skybreakers
->“*The considerable abilities of the Skybreakers for making such amounted to an almost divine skill, for which no specific Surge or spren grants capacity, but however the order came to such an aptitude, the fact of it was real and acknowledged even by their rivals.*”
-\-Words of Radiance, chapter 28, page 3[21]
-
-
-The Skybreakers are able use the Surges of **Gravitation** and **Division**. The full extent of their powers are so far unknown. Like most Knights Radiant, the Skybreakers have squires, though only those of the Fourth Ideal or above can accept them. They reportedly had the ability (unrelated to their Surges) to divide the innocent from the guilty that was by some even considered to be an almost divine skill. However, they do not have any supernatural abilities in determining a person's guilt, so this appears to be some combination of mundane experience and exaggerations in folklore.
-
-### Gravitation
-Gravitation allows the Skybreaker to change the direction and strength of an object's gravitational attraction. While there are slight differences in how the Surges behave between orders, Gravitation largely looks the same between them and the [[Order of Windrunners\|Order of Windrunners]].
+### El Primer Ideal
+>“*Vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.*”
+\-El Primer Ideal de los Caballeros Radiantes[14]
 
 
-The Basic Lashing allows a Surgebinder to bind people or objects to different surfaces or in different directions, effectively changing the direction that gravity pulls them.
+El Primer Ideal también es conocido por los Rompedores del Cielo como el Ideal del Radiante. Antes de jurar este Ideal, los aspirantes viajan con los Rompedores del Cielo a una misión. Deben probar su dedicación y solemnidad en esa misión a un Rompedor del Cielo pleno antes de ser considerados dignos de decir las Palabras. El Ideal del Radiante no otorga poderes ni la capacidad de absorber Luz tormentosa, pero los califica para presentarse a más pruebas entre los Rompedores del Cielo para poder convertirse en escuderos. Los Rompedores del Cielo le absuelven de cualquier delito o pecado anterior al jurar este Ideal, usando los documentos y las autoridades legítimas de la región.
 
-### Division
-Division allows them to destroy or degrade things around them. Skybreakers do not have access to the Surge of Division until after the Third Ideal. Restricting access to Surges based on oaths is rare among the orders and few do it. 
-
-### Shardplate Abilities
-Skybreakers' [[Shardplate\|Shardplate]] is formed of [[Gravitationspren\|gravitationspren]], and glows a blue color.
-
-## History
-### Ancient Skybreakers
->“*And thus were the disturbances in the Revv toparchy quieted, when, upon their ceasing to prosecute their civil dissensions, Nalan'Elin betook himself to finally accept the Skybreakers who had named him their master, when initially he had spurned their advances and, in his own interests, refused to countenance that which he deemed a pursuit of vanity and annoyance; this was the last of the Heralds to admit to such patronage.*”
-\-Words of Radiance, chapter 5, page 17[3]
+### El Segundo Ideal
+  <<Szeth\|Szeth>> entrenando con otros Rompedores del Cielo
+>“*Juro buscar la justicia y permitir que me guíe hasta que halle un ideal más perfecto.*”
+\-El Segundo Ideal de los Rompedores del Cielo, escogido por Szeth[16]
 
 
-The group that would become the Skybreakers began when the highspren, trying to imitate the [[Honorblade\|Honorblades]], granted men Surges. [[Ishar\|Ishar]], understanding the implication of men having Surges, forced them to accept laws and organization, becoming the Order of Skybreakers. Given the Skybreakers' dedication to the law, they likely had one of the easiest times accepting Ishar's rules. The Skybreakers pursued [[Nale\|Nale]] as their patron. Nale initially refused to accept the patronage, believing the position to be annoying and vain. The Skybreakers operated for some unknown length of time without a patron [[Herald\|Herald]] after his refusal. He finally accepted them after the disturbances in the [[Revv\|Revv]] toparchy were quieted. He was the last Herald to accept their order.
-They were concerned that the other Radiants would think themselves above the law and use their power to become tyrants, oppressing those without the power to resist. As a result, they functioned as a military police among the Radiants, and took that duty very seriously, though it was often a thankless task. This role required separating innocent and guilty parties. They were extremely skilled at doing so, a fact that even those who didn't like them acknowledged. Despite being described as an almost divine skill, there was no magical cause for this ability. Despite this, the pre-Recreance Skybreakers could be merciful and understood that the law is not perfect, but rather represents an ideal to strive for. The Skybreakers also took responsibility for keeping some of the dangerous or dark forces of Roshar contained.
+También llamado el Ideal de la Justicia, es un juramento específico de promover y administrar justicia. Una vez un maestro elige aceptar a un escudero, este debe jurar dicho Ideal. Este Ideal da al Escudero la habilidad de absorber luz tormentosa y usar la Potencia de Gravitación.
 
->“*There came also sixteen of the order of Windrunners, and with them a considerable number of squires, and finding in that place the Skybreakers dividing the innocent from the guilty, there ensued a great debate.*”
-\-Words of Radiance, chapter 28, page 3[32]
-
-The ancient Skybreakers seem to have been involved in conflicts with other orders frequently, especially the two orders they share Surges with. The Skybreakers considered the Dustbringers to be on the edge morally and did not get along with them. They also reportedly had some issues with the [[Windrunners\|Windrunners]]. [[Highspren\|Highspren]] and, through them, the Skybreakers judge and dispense justice according to the letter of the law and what may make logical sense to them, while the Windrunners will disregard these laws or logic at their letter to do what is considered right. Debates ensued when Windrunners and Skybreakers tried to decide the fate of the guilty. These conflicts got significantly worse as the time of the Recreance approached. Some believed these and other conflicts caused the [[Sibling\|Sibling]] to retreat, but it was unrelated to the true cause.
-At some point before the [[Recreance\|Recreance]], Nale secretly retrieved his [[Honorblade\|honorblade]] from [[Shinovar\|Shinovar]] and bonded his own highspren, officially joining the Skybreakers. He is the only known Herald to have joined their order.
-
- by  Petar Penev  [[Nale\|Nale]]
-### In Hiding
->“*Led by the ancient Herald Nalan'Elin—often simply called Nale—the Skybreakers are the only order of Radiants that did not betray its oaths during the Recreance. They have maintained a continuous clandestine line from ancient days.*”
-\-Mraize's letter to Shallan[6]
+### El Tercer Ideal
+>“*Juro cumplir la voluntad de Dalinar Kholin. Este es mi juramento.*”
+\-El Tercer Ideal de los Rompedores del Cielo, jurado por Szeth[17]
 
 
-The Skybreakers were also the only order that did not partake in the [[Recreance\|Recreance]] and remained active in the following two millennia. Over those years, Nale increasingly put his imprint on the order, and the Skybreakers of the modern era are much more rigid than their pre-Recreance predecessors. Nale seems to have some control over which of his recruits obtain spren bonds, and he is exacting in testing them before they are found worthy. In the centuries leading up to 1173, Nale was the only Skybreaker to swear the Ideal of Law.
-The order has a small fortress in [[Marabethia\|Marabethia]] that overlooks the [[Purelake\|Purelake]]. Hopefuls are brought to the fortress for testing, and squires and Masters reside there while training (unless they are away on a mission). Skybreakers usually wear the uniforms of local law enforcement wherever they travel, regardless of their own race or nationality. The Skybreakers have power and Shards that they use to awe new recruits.
-In approximately 1153. Nale began his crusade to stop other orders from bonding spren and returning. [[Ishar\|Ishar]] had told him that the other orders returning would hasten the return of the [[Voidbringers\|Voidbringers]]. The prospective Radiants would either be killed or, if they fit well with the Skybreakers, recruited. Nale's mission led a Skybreaker acolyte to get involved with [[Shallan's mother\|Shallan's mother]]. The two learned that [[Shallan\|Shallan]] had bonded a spren and attempted to kill her. Shallan killed them both instead. He did not relay to his fellow Skybreakers which Davar was a Radiant, so Nale believed [[Helaran\|Helaran]] may be the Radiant. According to Mraize, Nale recruited Helaran, who then died attempting to kill [[Amaram\|Amaram]] using a set of dead Shards. Whether he did this on Nale's orders or as an independent attempt to impress him is unknown.
+También llamado el Ideal de la Dedicación, este es un juramento específico de dedicarse uno mismo a una verdad mayor, ya sea un código o, en ocasiones, una persona. Un escudero de los Rompedores del Cielo debe vincularse a su [[Altospren\|altospren]] antes de hacer este juramento, y es el mínimo requerido para poder usar la Potencia de División. Jurar este Ideal convierte a alguien en un Rompedor del Cielo pleno. Este juramento es el más elevado que la mayoría de los Rompedores del Cielo realiza. Si el código que juraron cambia posteriormente, deben seguir los cambios. Nale advirtió que seguir a una persona como Ideal puede llevar a ciertas complicaciones puesto que las personas están fácilmente sujetas a cambios. Aún así, muchos Rompedores del Cielo eligen seguir a Nale como su tercer Ideal.
 
-### True Desolation
- by  Marie Seeberger  Skybreakers dealing justice at the Purelake
-Right at the onset of the [[True Desolation\|True Desolation]], Nale recruited [[Szeth\|Szeth]] to join the Skybreakers. Despite the [[Everstorm\|Everstorm's]] arrival, he remained in denial about the failure of his order's mission for weeks until a confrontation with [[Lift\|Lift]] showed him the truth. Nale left the Skybreakers to train as normal. They continued to remain uncertain about the True Desolation's arrival in his absence, though they trained as if it were true. The training included initiates hunting down criminals that had escaped from a prison on the [[Purelake\|Purelake]]. The highspren were incredibly impressed by Szeth's performance in this test, allowing him to swear the oaths quickly. The squires practiced their combat and Gravitation abilities with an exercise that involved flying around and attempting to hit their fellow squires with bags of colored powder.
-When Nale returned, he told the Skybreakers the truth of the Recreance and gave them a choice. As the original owners of the land, Nale claimed that the law of the land was that of the [[Singer\|singers]]. He and most of his order decided to follow [[Odium\|Odium]] and the singers' with their return to Roshar. The transition was easiest for those of the order who had sworn to follow Nale directly. [[Szeth\|Szeth]] is currently the only known Skybreaker to not serve Odium. He instead swore to follow [[Dalinar Kholin\|Dalinar Kholin]], who acknowledged him as the Skybreaker present when the Radiants assembled following the summoning of [[Honor's Perpendicularity\|Honor's Perpendicularity]].
+### El Cuarto Ideal
+>“*Purgaré a los shin de sus falsos líderes, siempre que Dalinar Kholin me lo permita.*”
+\-El Cuarto Ideal de los Rompedores del Cielo, pronunciado por Szeth.[17]
 
-## Notable Skybreakers
+
+Este Ideal también es conocido como el Ideal de la Cruzada y requiere que el Rompedor del Cielo escoja una misión personal que cumplirá a entera satisfacción de su altospren. Una vez completada, el Rompedor del Cielo alcanzará el rango de maestro. Estos pueden aceptar escuderos. La mayoría de Rompedores del Cielo nunca alcanzan este Ideal, y aquellos que lo hacen pueden tardar décadas en completar su misión.
+
+### El Quinto Ideal
+>“*Si progresas como Rompedor del Cielo, deberás convertirte en la ley. Para alcanzar tu potencial definitivo, tendrás que conocer la verdad tú mismo, en lugar de apoyarte en la muleta ofrecida por el Tercer Ideal. Sé consciente de ello.*”
+\-Altospren de Szeth sobre el Quinto Ideal[19]
+
+
+Llamado el Ideal de la Ley, este Ideal requiere que el Rompedor del Cielo jure que se convertirá en la personificación de la ley y la verdad. Nale es seguramente el único Rompedores del Cielo que lo ha alcanzado actualmente, puesto que han pasado siglos desde que alguien pronunciase el Quinto Ideal. Existe controversia en la orden sobre si esto significa que el Rompedor del Cielo que lo jure puede hacer cualquier cosa, puesto que son la encarnación de la ley, o si deben mantenerse sin violar las leyes para mantener sus juramentos. Dependiendo de la percepción del Rompedor del Cielo del Ideal, cualquier interpretación podría ser válida. Tras jurar el Quinto Ideal, un Rompedor del Cielo ya no tiene por qué seguir el Tercer Ideal que juró.
+
+## Habilidades
+  Rompedores del Cielo volando
+>“*Las considerables habilidades de los Rompedores del Cielo para hacer aquello implicaban casi una habilidad divina, para lo que ninguna potencia ni ningún spren conceden capacidad. Sin embargo, la orden consiguió tal aptitud, y ese hecho fue real y reconocido incluso por sus rivales.*”
+\-Palabras radiantes, capítulo 28, página 3[21]
+
+
+Los Rompedores del Cielo son capaces de usar las Potencias de **Gravitación** y **División**. El alcance máximo de sus poderes es más que desconocido. Como la mayoría de Caballeros Radiantes, tienen escuderos, aunque solo aquellos de Cuarto Ideal o superior pueden aceptarlos. Según se cuenta tenían la capacidad (no relacionada con sus Potencias) de diferenciar inocentes de culpables, lo que era considerado por algunos como un don casi divino. Sin embargo, no tienen ninguna habilidad sobrenatural para determinar la culpabilidad, por lo que esto parece una combinación de experiencia mundana y folklore exagerado.
+
+### Gravitación
+[[/wiki/Potenciaci%C3%B3n#Gravitaci.C3.B3n]] permite al Rompedor del Cielo cambiar la dirección y la fuerza de la atracción gravitacional de un objeto. Aunque hay diferencias en como funcionan las Potencias entre órdenes, la Gravitación parece mayormente igual entre ellos y los [[Orden de los Corredores del Viento\|Corredores del Viento]].
+
+
+El enlace básico permite a un potenciador enlazar personas u objetos a diferentes superficies o en diferentes direcciones, cambiando así la dirección en la que la gravedad tira de ellos.
+
+### División
+La [[/wiki/Potenciaci%C3%B3n#Divisi.C3.B3n]] les permite destruir o degradar cosas a su alrededor.  Los Rompedores del Cielo no tienen acceso a la Potencia de División hasta después de su Tercer Ideal. Restringir el acceso a las Potencias basándose en los juramentos es raro entre las Órdenes y pocas lo hacen.
+
+### Habilidades de la armadura esquirlada
+La [[Armadura esquirlada\|armadura esquirlada]] de los Rompedores del Cielo está formada por [[Gravitacionspren\|gravitacionspren]].
+
+## Historia
+### Antiguos Rompedores del Cielo
+>“*Y así se calmaron las perturbaciones en la toparquía Revv, cuando, después de cesar de perseguir sus disensiones civiles, Nalan’Elin se dispuso a aceptar finalmente a los Rompedores del Cielo que le habían nombrado su maestro, pese a que inicialmente él había rechazado sus avances y, en su propio interés, se había negado a permitir lo que consideraba una búsqueda de la vanidad y el incordio; este fue el último de los Heraldos en admitir ese apadrinamiento.*”
+\-Palabras radiantes, capítulo 5, página 17[3]
+
+
+El grupo que se convertiría en Rompedores del Cielo empezó cuando los altospren, tratando de imitar las [[Hoja de Honor\|hojas de Honor]], concedieron Potencias a los hombres. [[Ishar\|Ishar]], entendiendo la implicación de que los hombres tuvieran Potencias, los obligó a aceptar las leyes y organización, convirtiendose en la Orden de los Rompedores del Cielo. Dada la dedicación de los Rompedores del Cielo a la ley, probablemente tuviesen pocas dificultades en aceptar las reglas de Ishar. Los Rompedores del Cielo siguieron a [[Nale\|Nale]] como su patrón. Él inicialmente lo rechazó, creyendo que la posición sería molesta e inútil. Los Rompedores del Cielo operaron cierto tiempo sin un [[Heraldo\|Heraldo]] patrón tras su rechazo. Finalmente lo aceptó después de que los disturbios de la toparquía de [[Revv\|Revv]] fueran aplacados. Fue el último Heraldo en aceptar su Orden.
+Les preocupaba que otros Radiantes se creyesen por encima de la ley y usaran su poder para volverse tiranos, oprimiendo a aquellos sin capacidad de resistirse. Como resultado, funcionaron como policía militar entre los Radiantes, tomándose muy en serio este deber, aunque a menudo fuese una tarea desagradecida. Este rol requería diferenciar los grupos inocentes y culpables. Eran extremadamente capaces en ello, un hecho que incluso aquellos a quienes no gustaban aceptaban. A pesar de ser descrita como una habilidad casi divina, esta no tenía origen mágico. Aún así, los Rompedores del Cielo pre-Traición podían ser piadosos y entendían que la ley no es perfecta, sino que representa un ideal por el que luchar. Los Rompedores del Cielo también tomaron la responsabilidad de contener fuerzas peligrosas y oscuras de Roshar.
+
+>“*Vinieron también dieciséis de la orden de los Corredores del Viento, y con ellos un considerable número de escuderos, y encontraron en ese lugar a los Rompedores del Cielo separando a los inocentes de los culpables, y se produjo un gran debate.*”
+\-Palabras radiantes, capítulo 28, página 3[30]
+
+Los antiguos Rompedores del Cielo parecen estar involucrados en conflictos con otras Órdenes frecuentemente, especialmente con las dos órdenes con las que compartían Potencias. Los Rompedores del Cielo consideraban a los Portadores del Polvo en el límite de la moralidad y no se llevaban bien con ellos. También tenían algunos problemas con los [[Corredores del Viento\|Corredores del Viento]]. Los [[Altospren\|altospren]] y, a través de ellos, los Rompedores del Cielo juzgaban y administraban justicia según la ley escrita y aquello que les resultase lógico, mientras que los Corredores del Viento se inclinaban a hacer aquello que consideraban correcto. Por ello, surgían debates cuando ambas órdenes trataban de decidir el destino de los culpables. estos conflictos empeoraron considerablemente según se acercaba el día de la Traición. Algunos creen que este y otros conflictos produjeron que [[El Hermano\|el Hermano]] se retirase, pero no tuvo relación con la verdadera causa.
+En algún punto antes de la [[Traici%C3%B3n\|Traición]], Nale recuperó secretamente su [[Hoja de Honor\|hoja de Honor]] de [[Shinovar\|Shinovar]] y vinculó su propio altospren, uniéndose oficialmente a los Rompedores del Cielo. Es el único Heraldo conocido que se unió a su Orden.
+
+  <<Nale\|Nale>>
+### Ocultos
+>“*Comandados por el vetusto Heraldo Nalan'Elin—a menudo conocido simplemente como Nale—, los Rompedores del Cielo son la única orden de Radiantes que no rompieron sus juramentos en la Traición. Han mantenido una presencia continua y clandestina desde los tiempos de la antigüedad.*”
+\- Carta de Mraize a Shallan[6]
+
+
+Los Rompedores del Cielo también fueron la única Orden que no participó en la [[Traici%C3%B3n\|Traición]] y continuaron operando en los siguientes dos milenios. Durante esos años, Nale dejó gradualmente su huella en la orden, haciendo que los Rompedores del Cielo de la era moderna sean mucho más rígidos que sus predecesores pre-Traición. Nale parece tener cierto control sobre cuáles de sus reclutas consiguen vincular spren, y es muy exigente en su evaluación antes de considerarlos dignos. En los siglos previos a 1173, Nale fue el único Rompedor del Cielo que juró el Ideal de la Ley.
+La Orden tiene una pequeña fortaleza en [[Marabezia\|Marabezia]] con vistas a [[Lagopuro\|Lagopuro]]. Los aspirantes son llevados a esa fortaleza para las pruebas, y escuderos y maestros residen allí mientras entrenan (a no ser que se encuentren fuera por una misión). Los Rompedores del Cielo normalmente visten los uniformes de los agentes del orden locales allá donde viajen, sin importar su propia raza o nacionalidad. Los Rompedores del Cielo tienen poder y esquirladas que usan para ganar nuevos reclutas.
+Cerca de 1153, Nale empezó su cruzada de impedir que otras Órdenes vinculasen spren y que estos regresasen. [[Ishar\|Ishar]] le contó que esto aceleraría la vuelta de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Los futuros Radiantes serían asesinados o, si encajaban bien en los Rompedores del Cielo, reclutados. La misión de Nale llevó a un acólito Rompedor del Cielo a relacionarse con la [[Madre de Shallan\|madre de Shallan]]. Ambos descubrieron que [[Shallan\|Shallan]] había vinculado un spren e intentaron matarla. En lugar de eso, Shallan acabó con ambos. El acólito no contó a sus compañeros Rompedores del Cielo qué Davar era un Radiante, y Nale creyó que sería [[Helaran\|Helaran]]. De acuerdo con Mraize, Nale reclutó a Helaran, que luego murió tratando de matar a [[Amaram\|Amaram]] usando un conjunto de esquirladas muertas. Si hizo esto bajo las órdenes de Nale o en un intento por impresionarlo se desconoce.
+
+### Auténtica Desolación
+  Rompedores del Cielo impartiendo justicia en Lagopuro
+Justo al inicio de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Nale reclutó a [[Szeth\|Szeth]] para que se uniera a los Rompedores del Cielo. A pesar de la llegada de la [[Tormenta eterna\|tormenta eterna]], permaneció negando el fracaso de la misión de su Orden durante semanas hasta que la confrontación con [[Lift\|Lift]] le enseño la verdad. Nale dejó a los Rompedores del Cielo entrenando con normalidad. Continuaron sin conocer con certeza la llegada de la Auténtica Desolación en su ausencia, aunque continuaron entrenando como si fuera cierta. El entrenamiento incluyó dar caza a criminales que habían escapado de una prisión en [[Lagopuro\|Lagopuro]]. Los altospren estuvieron muy impresionados con la actuación de Szeth en esta prueba, permitiendole hacer los juramentos rápidamente. Los escuderos practicaron el combate y la Gravitación con un ejercicio que consistía en volar por la zona tratando de acertar a sus compañeros con bolsas rellenas de polvos de colores.
+Cuando Nale volvió, contó a los Rompedores del Cielo la verdad sobre la Traición y les dió una opción. Como propietarios originales de la tierra, Nale propuso que era de los [[Cantor\|cantores]] de manera legítima. Él y la mayor parte de su Orden decidieron seguir a [[Odium\|Odium]] y a los cantores en su regreso a Roshar. La transición más sencilla fue para aquellos que habían jurado seguir a Nale directamente. [[Szeth\|Szeth]] es actualmente el único Rompedor del Cielo que no sigue a Odium. En su lugar juró seguir a [[Dalinar Kholin\|Dalinar Kholin]], que lo reconoció como el Rompedor del Cielo presente cuando los radiantes se reunieron tras la invocación de la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]].
+
+## Rompedores del Cielo destacados
 
 [[Nale\|Nale]]
-[[Szeth\|Szeth]] (bonded to [[Szeth's highspren\|unnamed highspren]])
-[[Ki\|Ki]] (bonded to [[Winnow (Roshar)\|Winnow]])
-[[Sigzil\|Sigzil]] (bonded to [[Auxiliary\|Auxiliary]])
+[[Szeth\|Szeth]]
+[[Ki\|Ki]] (vinculado a [[Mayal\|Mayal]])
+[[Sigzil\|Sigzil]] (vinculado a [[Auxiliar\|Auxiliar]])
 [[Warren\|Warren]]
-[[Joret\|Joret]] (Squire)
-[[Cali\|Cali]] (Squire)
-[[Zedzil\|Zedzil]] (Squire)
-[[Ty\|Ty]] (Squire)
-[[Fari\|Fari]] (Squire)
-[[Helaran\|Helaran]] (Unbonded initiate)
+[[Joret\|Joret]] (Escudero)
+[[Cali\|Cali]] (Escudero)
+[[Zedzil\|Zedzil]] (Escudero)
+[[Ty\|Ty]] (Escudero)
+[[Fari\|Fari]] (Escudero)
+[[Helaran\|Helaran]] (Iniciado sin vincular)
 
-## Trivia
-If [[Rashek\|Rashek]] were to have joined the Knights Radiant he would have made an okay, though not great, Skybreaker.
+## Curiosidades
+Si [[Rashek\|Rashek]] se hubiese unido a los Caballeros Radiantes se habría convertido en un aceptable, pero no gran, Rompedor del Cielo.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, ahora necesita volver a revisarse.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] ·  · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Skybreakers
+
+https://es.coppermind.net/wiki/Order_of_Skybreakers

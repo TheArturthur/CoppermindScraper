@@ -1,101 +1,123 @@
+
+
 |**Koloss**|
 |-|-|
-|by  zelloss |
-|**Type**|Hemalurgic construct|
-|**Sapient**|Yes|
-|**World of Origin**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|[[/wiki/Hemalurgia#Criaturas hemal.C3.BArgicas]]|
+|**Racional**|Sí|
+|**Mundo de origen**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-The **koloss** are a bestial race of creatures on [[Scadrial\|Scadrial]], created by the [[Lord Ruler\|Lord Ruler]] through the use of [[Hemalurgy\|Hemalurgy]]. During the time of the [[Lord Ruler\|Lord Ruler]], koloss serve as a powerful, fiercely loyal army to him, thanks in no small part to the fact that they can be controlled through the use of [[Allomancy\|Allomancy]] by any powerful [[Allomancy\|Mistborn]] or group of [[Soother\|Soothers]] and/or [[Rioter\|Rioters]].
+Los **koloss** son una raza de bestiales criaturas de [[Scadrial\|Scadrial]], creadas por el [[Lord Legislador\|lord Legislador]] mediante el uso de la [[Hemalurgia\|hemalurgia]]. Durante el [[Imperio Final\|Imperio Final]], los koloss eran utilizados como un poderoso ejército ferozmente leal al lord Legislador. En cierta medida, esto era posible gracias al hecho de que pueden ser controlados utilizando la [[Alomancia\|alomancia]] por cualquier [[Nacido de la bruma (alomante)\|nacido de la bruma]] poderoso o por un grupo de [[Aplacador\|aplacadores]] y/o [[Encendedor\|encendedores]].
 
-## Contents
+## Sumario
 
-1 Physiology
+1 Fisiología. [[#Fisiolog.C3.ADa]] 
 
-1.1 Appearance
+1. [[#Apariencia]] 
 
-1.1.1 Koloss
-1.1.2 Koloss-blooded
-
-
-1.2 Creation and reproduction
+1. [[#Koloss]] 
+1. [[#Sangre-koloss]] 
 
 
-2 Powers
-
-2.1 Koloss
-2.2 Koloss-blooded
 
 
-3 History
+2 Creación y reproducción. [[#Creaci.C3.B3n y reproducci.C3.B3n]] 
+3 Poderes. [[#Poderes]] 
 
-3.1 The Final Empire
-3.2 After the Ascension
-
-
-4 Culture
-5 Notable Koloss
-6 Trivia
-7 Notes
+3. [[#Koloss 2]] 
+3. [[#Sangre-koloss 2]] 
 
 
-## Physiology
-### Appearance
- by  cyangorilla 
-For more images, see [[Koloss/Gallery\|/Gallery]].
+4 Historia. [[#Historia]] 
+
+4. [[#El Imperio Final]] 
+4. [[#Tras la Ascension]] 
+
+
+5 Cultura. [[#Cultura]] 
+6 Koloss destacados. [[#Koloss destacados]] 
+7 Curiosidades. [[#Curiosidades]] 
+8 Notas. [[#Notas]] 
+
+
+## Fisiología
+### Apariencia
+ Para más imágenes, ver [[Koloss/Galer%C3%ADa\|/Galería]].
 #### Koloss
-The koloss are physically very large and very powerful. Koloss have blue skin and red eyes. A full-sized koloss could grow to be as tall as twelve feet. The transformation process corrupts the ability of their skin to grow and heal. Therefore Koloss are said to only have a fixed amount of skin that does not change over their lifetime. Because of this, the younger a koloss is, the fatter it may appear, due to having much baggy skin covering itself. The skin itself doesn't hold terribly well to the koloss' body. As the koloss grow taller, their skin tears and fits tightly to them. An ancient koloss is a hideous sight indeed, having little remaining original skin. Being covered instead in scars, half-healed wounds, and innumerable newly formed tears. Older koloss protect their mutilated skin with leather wrappings. A koloss continuously grows until its death. When it reaches roughly twelve feet, despite its hemalugically enhanced strength and fortitude, its heart and lungs can no longer sustain its disproportionate weight. Heart failure begins to set in. It dies shortly thereafter, or in a weakened state is killed by younger koloss seeking to take its blade.
+Los koloss son físicamente muy grandes y muy poderosos. Tienen la piel azul y los ojos rojos. Un koloss de tamaño natural puede llegar a medir hasta tres metros y medio. El proceso de transformación corrompe la capacidad de su piel para crecer y curarse. Por lo tanto, se dice que los koloss sólo tienen una cantidad fija de piel que no cambia a lo largo de su vida. Debido a esto, cuanto más joven es un koloss, más gordo puede parecer, debido a que tiene mucha piel holgada que le recubre. La piel en sí no se adhiere muy bien al cuerpo del koloss. A medida que crecen, su piel se desgarra y se ajusta más a ellos. Un koloss anciano es un espectáculo espantoso, ya que apenas le queda piel natural. En su lugar, está cubierto de cicatrices, heridas a medio curar e innumerables desgarros recién formados. Los koloss más viejos protegen su piel mutilada con envolturas de cuero. Un koloss crece continuamente hasta su muerte. Cuando alcanza aproximadamente los tres metros y medio, a pesar de su fuerza y fortaleza hemalúrgicas, su corazón y sus pulmones ya no pueden sostener su desproporcionado peso. La insuficiencia cardíaca comienza. Muere poco después, o en un estado debilitado es asesinado por koloss más jóvenes que buscan tomar su espada.
 
-#### Koloss-blooded
-Koloss-blooded resemble normal humans with skin ranging from mottled granite to various shades of blue. Like koloss, they continue growing taller throughout their life.
+#### Sangre-koloss
+Los sangre-koloss se parecen a los humanos normales, con una piel que va del granito moteado a varias tonalidades de azul. Al igual que los koloss, siguen creciendo a lo largo de su vida.
 
-### Creation and reproduction
-Similar to [[Steel Inquisitor\|Steel Inquisitors]], the creation of a koloss is very brutal. To create a koloss, four humans are stabbed with individual iron spikes through their heart, and these spikes are then placed strategically on to a fifth person. Once placed, the spikes turn the recipient into a koloss "very quickly". It is possible to create Hemalurgic constructs similar to koloss using animals instead of humans as a base. It is possible to create sapient creatures similar to koloss from other primates.
-The addition of four spikes containing the strength and a portion of the [[Spiritweb\|spiritweb]] of four other people causes them to grow in physical strength far beyond human limits as well as making it possible for them to continue growing in size until they can no longer physically support their own bodies and their hearts give out. The four spikes also have the effect of damaging their cognitive and emotional capacity, making them more animalistic and poorly sentient. These spikes can be reused, however they are subject to Hemalurgic decay, meaning that the power in the spikes diminishes with each re-use, which allows for more of the humanity to remain in subsequent creations.Such koloss may retain more of the skills and language they possessed prior to being transformed.
-The spiking, however, only affects them in the [[Physical Realm\|Physical Realm]]. When they appear in the [[Cognitive Realm\|Cognitive Realm]] after death, they look exactly like the humans they were before being spiked.
-When a koloss dies, other koloss in the vicinity attempt to collect and reuse the spikes from the dead one. This results in the koloss being able to reproduce in a manner of speaking, provided that they have someone to receive the spikes. The koloss are periodically supplied with fresh spikes and skaa captives to produce more koloss, but after the death of the Lord Ruler, they learned how to reproduce on their own; by harvesting the spikes from their dead brethren and re-using them, likely under Ruin's influence.
-Because of this, after the Lord Ruler's control over the koloss ends, many of the koloss attack nearby human inhabitants in an attempt to make more koloss. When [[Vin\|Vin]] visits a koloss camp, they request for her to give them more koloss. She does not know how, but they expect a human to be able to provide them with more koloss, since that is what they have experienced in the past.
-In the post-Catacendre era, koloss became a self-reproducing species. When two koloss reproduce, the offspring are born koloss-blooded. They can also breed with humans and produce koloss-blooded hybrids. They become a full koloss once they choose to accept spikes.
+## Creación y reproducción
+Al igual que sucede con los [[Inquisidor de acero\|inquisidores de acero]], la creación de un koloss es un proceso brutal. Para crear un koloss, se apuñala a cuatro humanos en el corazón con sendos clavos de hierro, y estos mismos clavos se colocan de forma estratégica en una quinta persona. Una vez colocados, los clavos convierten al receptor en un koloss «muy rápido». Es posible crear constructos hemalúrgicos similares a los koloss utilizando animales en lugar de humanos como punto de partida. También es posible crear criaturas inteligentes parecidas a los koloss a partir de otros primates.
+El insertar cuatro clavos que contienen la fuerza y una parte de la [[Redesp%C3%ADritu\|redespíritu]] de otras cuatro personas hace que su fuerza física aumente hasta superar los límites humanos. Esto es lo que permite que sigan aumentando de tamaño hasta que físicamente ya no pueden sostener su propio cuerpo y su corazón falla. Estos cuatro clavos también tienen el efecto de dañar su capacidad cognitica y emocional, haciendoles más animales y menos sintientes.reducir su inteligencia casi hasta la de un animal. Aunque los clavos pueden ser reutilizados están sujetos a la disipación hemalúrgica, lo que se traduce en una disminución del poder del clavo con cada reutilización, lo que permite que quede más humanidad en las creaciones posteriores. Tales koloss pueden conservar más de las habilidades y el lenguaje que poseían antes de ser transformados.
+Sin embargo, los clavos solo tienen efectos en el [[Reino F%C3%ADsico\|Reino Físico]]. Cuando tras morir aparecen en el [[Reino Cognitivo\|Reino Cognitivo]], tienen el mismo aspecto humano que tenían antes de ser atravesados por clavos.
+Cuando un koloss muere, otros koloss cercanos intentan recolectar los clavos del koloss muerto para reutilizarlos posteriormente. El resultado de esto es que los koloss son capaces de reproducirse, por decirlo de alguna forma, siempre que haya alguien para recibir los clavos. De forma periódica se suministraba a los koloss de clavos nuevos y cautivos skaa para crear más koloss, pero tras la muerte del lord Legislador aprendieron a reproducirse por ellos mismos; recolectando los clavos de sus compañeros muertos y reutilizándolos, probablemente bajo la influencia de Ruina.
+A consecuencia de lo anterior, una vez desapareció el control que el lord Legislador tenía sobre los koloss, muchos de ellos atacaron a los habitantes humanos cercanos en un intento de crear más de ellos. Cuando [[Vin\|Vin]] visitó un campamento koloss, estos le pidieron que les diera más koloss. Ella no sabía cómo hacerlo, pero ellos esperaban que un humano fuera capaz de proporcionarles lo necesario para crear más, ya que eso es lo que habían vivido en el pasado.
+En la época posterior al [[Catacendro\|Catacendro]], los koloss se convirtieron en una especie capaz de reproducirse a sí misma. Cuando dos koloss se reproducen, los hijos nacen humanos con sangre koloss. También pueden reproducirse con humanos y producir híbridos de sangre koloss. Se convierten en un koloss completo cuando deciden aceptar los clavos.
 
-## Powers
- by  Gar_leyva  Large Koloss attacking [[Sazed\|Sazed]]
+## Poderes
+  Un gran koloss atacando a <<Sazed\|Sazed>>
 ### Koloss
-Koloss have four [[Hemalurgy\|Hemalurgically]] charged iron spikes, which grant them increased strength and stamina. This allows them to wield enormous blades, which are about the same size they are. The blades are relatively blunt and not well made. The edges are jagged and full of nicks and dents. Koloss tend to rely on brute strength and the great inertia of their weapons to smash and hack their opponents, rather than any great technique or finesse. They should not be underestimated, however. Larger koloss are more experienced killers. The Hemalurgic spikes, however, come with a price. In addition to twisting their bodies, the spikes also diminish a koloss' mental and emotional capacity. Moreover it dulls their sense, including reduced sensitivity to pain. However, they still retain some ability to reason, remember, perform certain tasks, and the ability to communicate. The re-use of spikes from dead koloss to create more resulted in koloss that retained more of their former humanity and mental capacity.
-Koloss can subsist off of nearly any substance and can eat almost anything, including dirt and ash. They are not bothered by the cold.
-Allomancers who are transformed into koloss will retain their Allomantic abilities, though they may not necessarily retain the knowledge to use those abilities.
+Los Koloss tienen cuatro clavos de [[Hemalurgia\|hemalíurgicos]] cargados con [[/wiki/Hierro#Uso hemal.C3.BArgico]], que les otorgan mayor fuerza y resistencia. Esto les permite blandir enormes espadas, que son aproximadamente del mismo tamaño que ellos. Estas son relativamente romas y no están bien hechas. Los filos son irregulares y están llenos de mellas y abolladuras. Los koloss tienden a confiar en la fuerza bruta y la gran inercia de sus armas para aplastar y cortar a sus oponentes, más que en una gran técnica o delicadeza. Sin embargo, no hay que subestimarlos. Los koloss más grandes son asesinos más experimentados. Sin embargo, los clavos hemalúrgicos tienen un precio. Además de retorcer sus cuerpos, los clavos también disminuyen la capacidad mental y emocional de los koloss. Además, embota sus sentidos, incluyendo una sensibilidad reducida al dolor. Sin embargo, aún conservan cierta capacidad para razonar, recordar, realizar ciertas tareas y la capacidad de comunicarse. La reutilización de clavos de koloss muertos para crear más ha dado como resultado koloss que conservan más de su humanidad y capacidad mental anteriores.
+Los koloss pueden subsistir de casi cualquier sustancia y pueden comer casi cualquier cosa, incluso tierra y ceniza. No les molesta el frío.
+Los alomantes que son transformados en koloss mantienen sus habilidades alománticas, aunque no necesariamente conservan el conocimiento para poder usarlas.
 
-### Koloss-blooded
-Koloss-blooded are stronger than an average human. Koloss-blooded can also withstand more damage, able to survive gunshots and heal faster than a human can. Koloss-blooded are not nearly as fast as full-blooded koloss.
-While it is believed that koloss-blooded are less intelligent than humans, studies have shown that they are just as intelligent.
+### Sangre-koloss
+Los sangre-koloss son más fuertes que un humano medio. También pueden soportar más daño, sobrevivir a los disparos y curarse más rápido que un humano. No son tan rápidos como los koloss de sangre pura.
+Aunque se cree que son menos inteligentes que los humanos, los estudios han demostrado que son igual de inteligentes.
 
-## History
- by  Sam Weber  [[Vin\|Vin]] standing on a koloss
-### The Final Empire
-During the Final Empire the koloss serve as the Lord Ruler's army. After the Lord Ruler's control over the koloss ends, many of the koloss attack nearby human inhabitants in an attempt to make more koloss. They were used as a driving force of their armies for both [[Vin\|Vin]] and [[Ruin\|Ruin]].
+## Historia
+  <<Vin\|Vin>> de pie sobre un koloss
+### El Imperio Final
+Durante el Imperio Final, los koloss sirven como ejército del lord Legislador. Una vez finalizado el control que tenía sobre ellos, muchos atacan a los habitantes humanos cercanos en un intento de crear más koloss. Fueron utilizados como fuerza motriz de sus ejércitos tanto por [[Vin\|Vin]] como por [[Ruina\|Ruina]].
 
-### After the Ascension
-After [[Harmony\|Harmony's]] [[Final Ascension\|Ascension]] the koloss were transformed into a tribal race that could breed, which lived in the [[Roughs\|Roughs]]. As a true breeding race, koloss raise koloss-blooded children. Those who chose can turn into full koloss at the age of twelve in a coming-of-age ritual where they choose to accept the requisite spikes or not. Those who do not accept the spikes leave, and live outside the tribe. Additionally, outsiders can choose to become koloss through this ritual. The koloss as a people have made a vow not to harm the [[Terris\|Terris]] people, which entitles Terrismen to safety and a degree of respect amongst the koloss.
-The changes in the koloss and their breeding subsequently allowed some koloss-blooded to become Allomancers. How this is achieved is unknown, but koloss with the powers of Allomancy appear to be known in the [[Roughs\|Roughs]] enough to be recognized.
-Since the koloss are no longer required to fight for anybody, they are able to live longer lives. This allows for the development of koloss ancients, who have little to no skin at all. They are enormous, have no noses or lips, and their eyes appear to bulge. They survive only by wrapping themselves in leather to keep in their blood. While their intelligence is still at the level of the average koloss, they are looked after by the tribe and given respect similar to that of a tribal elder.
+### Tras la Ascension
+Tras la [[Ascensi%C3%B3n Final\|Ascensión]] de [[Armon%C3%ADa\|Armonía]], los koloss se transformaron en una raza tribal capaz de reproducirse, que vivía en los Áridos. Como verdadera raza reproductora, los koloss crían hijos de sangre koloss. Los que lo eligen pueden convertirse en koloss de pleno derecho a la edad de doce años en un ritual de mayoría de edad en el que eligen aceptar o no los clavos necesarios. Los que no aceptan los clavos se marchan y viven fuera de la tribu. Además, los forasteros pueden elegir convertirse en koloss mediante este ritual. Los koloss, como pueblo, han hecho un voto de no dañar a los [[Terrisano\|terrisanos]], lo que garantizaseguridad y cierto grado de respeto entre los koloss.
+Los cambios en los koloss y su cría permitieron posteriormente que algunos sangre-koloss se convirtieran en alomantes. Se desconoce cómo se consigue esto, pero los koloss con poderes alománticos parecen ser conocidos en los Áridos lo suficiente como para ser reconocidos.
+Como los koloss ya no tienen que luchar por nadie, pueden vivir más tiempo. Esto permite el desarrollo de los antiguos koloss, que apenas tienen piel. Son enormes, no tienen nariz ni labios, y sus ojos parecen sobresalir. Sólo sobreviven envolviéndose en cuero para retener la sangre. Aunque su inteligencia sigue estando al nivel del koloss medio, la tribu los cuida y les dispensa un respeto similar al de un anciano de la tribu.
 
-## Culture
-Because of their diminished intelligence, the Final Empire-era koloss live in barbaric tribes. Usually, social standing is determined by age, because as the koloss age, they get larger and more powerful.
-Koloss are said to have two emotional states: boredom and rage. Because of this, their day to day lives are filled with milling about and fighting. When there is nothing else to fight near them, the koloss turn to in-fighting. Their blades can be used as a means of population control, as well as weaponry. If a koloss doesn't have a sword it feels is of adequate size, it will have to kill another koloss and take its sword. If there are extra swords, the koloss will expect their handlers to make more koloss to take up those swords, and if there are not enough swords, the koloss will kill each other for them until there are.
-Most of the killing within a tribe is done solely on a whim, usually to get something the other koloss owns, or because some random glance or act has enraged one of the koloss.
-After the [[Lord Ruler\|Lord Ruler's]] death, [[Jastes Lekal\|Jastes Lekal]] created some fake wooden coins and by "paying" with the coins, he recruited an army of koloss. The koloss carry the coins in a small sack and would kill each other for them. This is probably caused by the reusing of the spikes which increases their intelligence to the point that they can understand economy values.
-After the Catacendre, some Koloss clans have vowed to not harm [[Terris\|Terris]].
-A semi-offensive term for koloss-blodded is "**kig**".
+## Cultura
+  <<Vin\|Vin>> de pie sobre un koloss
+Debido a su reducida inteligencia, los koloss de la época del Imperio Final vivían en tribus salvajes. Por lo general, su posición social viene determinada por la edad, porque a medida que envejecen, los koloss se vuelven más grandes y más fuertes.
+Se dice que los koloss tienen dos estados emocionales: aburrimiento y rabia. Debido a esto, su vida cotidiana consiste en deambular y pelear. Cuando ya no les queda nada cerca de ellos con lo que pelear, los koloss empiezan a luchar entre sí. Sus espadas son, a parte de arsenal, un modo de control interno de la población koloss. Si uno de ellos considera que su espada no tiene el tamaño adecuado, tendrá que matar a otro koloss y quedarse con su espada. Si quedan espadas libres, los koloss esperarán que sus encargados creen más koloss para que se hagan con ellas, y si el caso es que no hay suficientes espadas para todos, los koloss se matarán entre ellos hasta que haya suficientes para todos.
+La mayoría de las matanzas que se dan dentro de una tribu son el resultado de un capricho, normalmente para hacerse con algo que otro koloss posee, o porque una mirada o un acto ha enfurecido a uno de los koloss.
+Tras la muerte del [[Lord Legislador\|lord Legislador]], [[Jastes Lekal\|Jastes Lekal]] creó falsas monedas de madera y al «pagarles» con estas monedas consiguió reclutar un ejército de koloss. Los koloss llevaban las monedas en una pequeña bolsa y se mataban entre sí por ellas. Esto probablemente fue consecuencia de la reutilización de los clavos, que incrementó su inteligencia lo suficiente como para comprender el concepto de bienes económicos.
+Tras el Catacendro, algunos clanes koloss han jurado no hacer daño a [[Terris\|Terris]].
+Un término semiofensivo para "sangre-koloss" es "**kig**".
 
-## Notable Koloss
-For a complete list of Koloss, see Category:Koloss.
+## Koloss destacados
+Para una lista completa de koloss, ver Categoría:Koloss.
 
 [[Elizandra Dramali\|Elizandra Dramali]]
-[[Granite Joe\|Granite Joe]]
-[[Human\|Human]]
+*[[Granito Joe\|Granito Joe]]*
+[[Humano\|Humano]]
 [[Tarson\|Tarson]]
 
-## Trivia
-The very first time Koloss appeared in anything [[Brandon Sanderson\|Brandon Sanderson]] made was during a high school DnD campaign, though this interpetation had them be much more demonic in nature than later iterations.
+## Curiosidades
+La primera vez que los koloss aparecieron en algo hecho por [[Brandon Sanderson\|Brandon Sanderson]] fue durante una campaña de DnD en el instituto, aunque en esta interpretación eran de naturaleza mucho más demoníaca que en apariciones posteriores.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
+|-|-|
+|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
+|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
+|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] ·  · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
+|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · [[Duraluminio\|Duraluminio]]|
+|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-https://coppermind.net/wiki/Koloss_blades
+
+https://es.coppermind.net/wiki/Koloss

@@ -1,26 +1,47 @@
-|**Unknown**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+|***Desconocido***|
 |-|-|
-|**House Davar**|
-|**Spouse**|[[Lin Davar\|Lin]]|
-|**Children**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Jushu\|Jushu]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
-|**Died**|Late 1167 to early 1168|
-|**Nationality**|[[Veden\|Veden]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**[[House Davar\|House Davar]]**|
+|**Cónyuge**|[[Lin Davar\|Lin]]|
+|**Hijos**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Jushu\|Jushu]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
+|**Fallecido**|Finales de 1167 a principios de 1168|
+|**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
-**Shallan's mother** is a [[Veden\|Veden]] [[Lighteyes\|lighteyes]] on [[Roshar\|Roshar]] and a member of [[House Davar\|House Davar]].
+El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
+La **madre de Shallan** es una [[Veden\|veden]] [[Ojos claros\|ojos claros]] de [[Roshar\|Roshar]] y una miembro de la [[Casa Davar\|casa Davar]].
 
-## Appearance and Personality
-She has stark red hair and green eyes. She wore a blue and gold dress.
-Shallan believes that her mother was brave. For unknown reasons, she was willing to kill her own daughter because of her [[Surgebinding\|Surgebinding]] abilities.
+## Aparencia y personalidad
+Tiene pelo rojo vivo y ojos verdes. Llevaba un vestido azul y dorado.
+Shallan cree que su madre era valiente. Por razones desconocidas, estaba dispuesta a matar a su propia hija debido a sus abilidades de [[Potenciaci%C3%B3n\|potenciación]].
 
-## History
- by  zoethatcher art  With her husband and five children
-She was the first wife of [[Lin Davar\|Lin Davar]], and birthed [[Helaran Davar\|Helaran]], [[Balat Davar\|Balat]], twins [[Jushu Davar\|Jushu]] and [[Wikim Davar\|Wikim]], and [[Shallan\|Shallan]].
-After Shallan began manifesting [[Surgebinding\|Surgebinding]] abilities at the age of eleven, her mother and an associate attempted to kill Shallan. They arrived at the Davar estate and argued with Lin, and Shallan's mother referred to her as "one of them". Lin and the associate scuffled; Lin injured the man with a knife that Shallan's mother then grabbed as the two men grappled. She attacked Shallan, but Shallan's bonded [[Cryptic\|Cryptic]], [[Testament\|Testament]], manifested as a [[Shardblade\|Shardblade]] that Shallan used in self-defense to kill her mother.
-Lin, who had witnessed what happened, locked the Blade in a box and Shallan abandoned her spren. Lin spread rumors that he had killed his wife and her lover in a jealous rage. Keeping the secret of these events in order to protect Shallan presumably contributed to Lin's dangerous instability and the eventual fall of House Davar. The Davar children also developed mental health issues related to their mother's death and their father's subsequent rage, including Balat's fascination with death and Jushu's gambling addiction. In particular, Shallan's mental health was strongly affected by the guilt of killing her mother, leading to the suppression of many of her childhood memories. When she met [[Hoid\|Hoid]] at the [[Middlefest Fair\|Middlefest Fair]] in 1170, she allowed herself to briefly picture her life if her mother had still been alive, remembering her mother's voice and believing that she would have taught her philosophy and drawing.
+## Historia
+  Con su marido y sus cinco hijos
+Ella fue la primera mujer de [[Lin Davar\|Lin Davar]], y dió a luz a [[Helaran Davar\|Helaran]], [[Balat Davar\|Balat]], los gemelos [[Jushu Davar\|Jushu]] y [[Wikim Davar\|Wikim]] y a [[Shallan\|Shallan]].
+Después de que Shallan empezara a manifestar abilidades de [[Potenciaci%C3%B3n\|potenciación]] a los once años, su madre y un asociado intentaron matar a Shallan. Llegaron al terreno de los Davar y discutieron con Lin, la madre de Shallan se refirió a ella como "uno de los suyos". Lin y el asociado se pelearon; Lin hirió al hombre con un cuchillo que la madre de Shallan luego cogió mientras los dos hombres forcejaban. Ella atacó a Shallan, pero el [[Cr%C3%ADptico\|críptico]] que Shallan había vinculado, [[Testimonio\|Testimonio]], se manifestó como [[Hoja esquirlada\|hoja esquirlada]] que Shallan usó en defensa propia para matar a su madre.
+Lin, quién fue testigo de lo que había pasado, encerró la hoja esquirlada en una caja y Shallan abandonó a su spren. Lin esparció rumores de que él había matado a su mujer y su amante en un ataque de celos. Manteniendo el secreto de estos hachos para protejer a Shallan contribuió a peligrosa inestabilidad de Lin y a la eventual caída de la casa Davar. Los niños Davar también desarollaron problemas mentales debido a la muerte de su madre y la consecuente rabia de su padre, incluyendo la fascinación de Balat por la muerte y la adicción a las apuestas de Jushu. En particular, la salud mental de Shallan fue fuertemente afectada por la culpa de haber matado a su madre, llevándola a la supresión de muchos de sus recuerdos de infancia. Cuando se encontró con [[Hoid\|Hoid]] en la [[Feria de la Fiesta Media\|Feria de la Fiesta Media]] en 1170, se permitió a sí misma por un breve instante a imaginarse su vida si su madre estubiera aún viva, recordando la voz de su madre y imaginando que le habría enseñado filosofía y dibujo.
+
+## Notas
 
 
 
-https://coppermind.net/wiki/Shallan%27s_mother
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Shallan%27s_mother

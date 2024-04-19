@@ -1,112 +1,132 @@
+
+
 |**Moash**|
 |-|-|
-|by  Shuravf |
-|**Family**|
-|**Ancestors**|[[Ana\|Ana]], [[Da\|Da]] |
-|**Abilities**|[[Shardbearer\|Shardbearer]]|
-|**Titles**|Vyre (He Who Quiets), Lord Silencer|
-|**Profession**|Soldier, caravaneer , bridgeman , bodyguard |
-|**Groups**|Sadeas army [[Bridge Four\|Bridge Four]] Kholin army [[Diagram (group)\|Diagram]]  [[Voidbringers\|Voidbringers]]|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Way of Kings*|
+||
+|**Familia**|
+|**Ancestros**|[[Ana\|Ana]], [[Da\|Da]] |
+|**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
+|**Títulos**|Vyre (Aquel Que Acalla)|
+|**Oficio**|Soldado, caravanero , hombre del puente , guardaespaldas |
+|**Grupo**|Ejército de Sadeas [[Puente Cuatro\|Puente Cuatro]]🐱︎ Ejército de Kholin [[Diagrama (grupo)\|Diagrama]]🐱︎  [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-"Vyre" redirects here. For the previous holder of that title, see [[El\|El]].
->“*He couldn't be blamed. He was a product of his culture.*”
-\-Moash about himself[2]
-
-
-**Moash**, also known as **Vyre**, is an [[Alethi\|Alethi]] man on [[Roshar\|Roshar]]. Originally a [[Bridgeman\|bridgeman]] in [[Bridge Four\|Bridge Four]], he becomes a soldier and bodyguard under [[Kaladin\|Kaladin]]; eventually, he leaves Bridge Four and switches sides to the [[Diagram (group)\|Diagram]], then the [[Fused\|Fused]], serving them as a slave and warrior. He's the current holder of [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]].
-
-## Contents
-
-1 Appearance and Personality
-
-1.1 Appearance
-1.2 Personality
+«Vyre» redirige aquí. Para el anterior propietario de este título, ver [[El\|El]].
+>“*No se lo podía considerar responsable a él. No era más que un producto de su cultura.*”
+\-Moash sobre sí mismo[1]
 
 
-2 Abilities and Attributes
-3 History
+**Moash**, también conocido como **Vyre**, es un hombre [[Alezi\|alezi]] de [[Roshar\|Roshar]]. Al principio formaba parte del [[Puente Cuatro\|Puente Cuatro]] como [[Cuadrilla del puente\|hombre del puente]], y luego se convierte en soldado y guardaespaldas bajo las órdenes de [[Kaladin\|Kaladin]]. Más adelante, deja el Puente Cuatro y cambia de bando en varias ocasiones, primero al bando del [[Diagrama (grupo)\|Diagrama]] y luego al de los [[Fusionado\|Fusionados]], siendo su esclavo, guerrero y asesino. Moash es el portador actual de la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]].
 
-3.1 Early Life
-3.2 Bridge Four
-3.3 Attempted Regicide and Desertion
-3.4 Servant of the Fused
-3.5 The Occupation of Urithiru
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 
-4 Trivia
-5 Notes
+1. [[#Apariencia]] 
+1. [[#Personalidad]] 
 
 
-## Appearance and Personality
- by  taratjah 
-For more images, see [[Moash/Gallery\|/Gallery]].
-### Appearance
-Moash is lean, though strong, with a narrow hawkish face and brown hair speckled with black. He's born [[Darkeyes\|darkeyes]], with brown eyes which turn tan after he receives a full set of Shards. Moash is a young man, potentially close to Kaladin's age. He is tall and has a scar on his chin.
-Unlike many other members of Bridge Four, Moash does not have slave brands on his forehead. Due to this, he gets his Bridge Four tattoo on his left upper arm.
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-### Personality
-Moash comes off as standoffish and grim, holding people at arm's length when he first meets them. Though once he does warm up to someone, he gets attached extremely quickly. Once he joins a group, he's friendly and amicable, and often the driving force behind more relaxed, off-duty activities. He values his friendships, and tries to salvage them when he can. He's eager to gain power and he admires those who do have it. At the same time, he's highly suspicious of those above him in the social order. He has a strong sense of justice, originating with the injustice visited on his grandparents earlier in his life.
-Moash tends to view people's actions by the external factors that motivate said actions, external factors such as one's position as a lighteyes or darkeyes in the Vorin caste system. As he becomes more involved in the Fused army and pushes deeper into Odium's emotional voiding, his old priorities slip away.
-His need to see [[Elhokar\|Elhokar]] and then all [[Lighteyes\|lighteyes]] face retribution consumes him and pushes him further and further away from friends and into the waiting arms of the [[Voidbringers\|Voidbringers]]. Eventually, as he gives in to Odium's power completely, he seems to lose any drive altogether, telling himself he feels no emotions even as he accomplishes his vengeance. In this period, he follows the commandments to seek out passion and follow the orders of the Fused. Although he continues to care for Kaladin, he thinks that suicide is the only way that Kaladin can be saved from Odium's torment, and in his own despair, urges Kaladin to kill himself rather than risk Kaladin joining Odium.
-
- by  Khaedart 
-## Abilities and Attributes
-Moash is a skilled spearman, enough so to kill an attacking [[Fused\|Fused]]. For a time, he also possessed a set of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]]. While Moash was able to move naturally in his Plate after less than a week, he is less skilled with the Shardblade, finding it too clunky, and still defaulted to the spear when his life was on the line. Eventually, he's given [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]], granting him control over the [[Surge\|Surges]] of [[Gravitation\|Gravitation]] and [[Adhesion\|Adhesion]]. He appears to be natural at using it, as it takes him no time at all to drink in [[Stormlight\|Stormlight]] and use Lashings.
-He's also a decent spear teacher and commander, able to train a group of [[Singer\|singers]] before the attack on [[Kholinar\|Kholinar]].
-Following the Occupation of Urithiru, he was left blind.
-
-## History
-### Early Life
-Both of Moash's parents died when he was a child. He was raised by his grandparents [[Ana\|Ana]] and [[Da\|Da]], who both worked as silversmiths in [[Kholinar\|Kholinar]]. It was his grandfather who named him. Later, Moash would discover that his name is [[Singer\|singer]] in origin.
-Moash chose not to enter the family business, preferring jobs that involved traveling. While he was working on a caravan for a few months, his grandparents became victims in the Roshone Affair that led to them dying while incarcerated in the palace dungeons. Moash ultimately blamed [[Elhokar Kholin\|Elhokar Kholin]], who was then a royal prince but would later become the king of Alethkar, for their deaths.
-
-### Bridge Four
-Moash joined the war assuming he would be made a spearman but ended up in Bridge Four. When Bridge Four started training down in the chasms, Moash was one of the first who changed into a fighting man. Later, on the bridgerun where [[Dunny\|Dunny]] died, Moash probably saved Kaladin's life by keeping him from reaching Dunny's body and later told Kaladin that he was wrong about him.
-
- by  Nick Vidic 
-When [[Adolin\|Adolin]] tried to give [[Kaladin\|Kaladin]] the gift of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]], Kaladin instead gave them to Moash, thereby making him a lighteyes in rank. The Shardblade had a twisting vine pattern along the center of the blade, and the Shardplate, previously belonging to [[Abrobadar\|Abrobadar]], was painted orange. Moash later had the Plate repainted to be blue with red accents. His eyes started to lighten a week after receiving the Shards, though he still did not consider himself lighteyes.
-
-### Attempted Regicide and Desertion
->**Kaladin**: "*Sometimes lives must be spent for the greater good.*"**Moash**: "*Exactly!*"**Kaladin**: "*That's what Amaram said. In regards to my men, whom he killed to cover up his theft.*"
-\-Kaladin: "Sometimes lives must be spent for the greater good."
-Moash: "Exactly!"
-Kaladin: "That's what Amaram said. In regards to my men, whom he killed to cover up his theft."
+3. [[#Primeros a.C3.B1os de vida]] 
+3. [[#Puente Cuatro]] 
+3. [[#Intento de regicidio y deserci.C3.B3n]] 
+3. [[#Esclavo de los Fusionados]] 
+3. [[#La ocupaci.C3.B3n de Urithiru]] 
 
 
-Moash became involved in a plot with [[Graves\|Graves]] to assassinate King Elhokar Kholin, which was ultimately thwarted by Kaladin. Moash took his Plate and Blade and fled the warcamps with Graves after their failed attempt.
-They head out into the wilderness with a caravan of stolen goods. Graves intended to introduce Moash to the [[Diagram (group)\|Diagram]], hoping that bringing back a full Shardbearer could compensate for his plan's failure. A short while into the trip, they were attacked by a group of [[Fused\|Fused]]. Graves was killed, and Moash attempted to fight with his Shardblade, but deemed it too unwieldy. He got hold of a spear and was able to kill [[Leshwi\|Leshwi]], one of the Fused.
-Upon seeing this, the other Fused gave Moash a choice, he could give up his weapons and come with them, or die at their hands. They did this because they thought that Leshwi would want to have revenge once she was reborn. Leshwi did not want revenge however, considering Moash to have great passion.
-
-### Servant of the Fused
- by  rspixart  Being confronted by [[Renarin\|Renarin]]
-As a slave, he pulled supply sledges across the country. On one of his routes, he saw a group of singers pulling sledges like the other slaves. He stood up for the group, gaining more respect among the Fused and the singers. Eventually, he joined the assault on Kholinar as a warrior for the Fused's army.
-In Kholinar, he and his singer companions fought with Kholinar's Wall Guard. At the climax of the fight, Moash found his way to King [[Elhokar\|Elhokar]], and stabbed him through the chest. He then stabbed the king again in the eye, just before Elhokar could finish swearing the First Ideal. His vengeance fulfilled, he looked up to see Kaladin, who was in Kholinar with the king on a mission to save the city. Moash saluted his former captain, who had frozen in shock at what happened, and left.
-Following the siege, he was put to work as a laborer clearing out the debris. There he was approached by a Fused, [[Hnanan\|Hnanan]], who gave him a [[Vyre's knife\|bright golden knife]] with a sapphire attached to it. The Fused then sent him to assassinate the [[Herald\|Herald]] [[Jezrien\|Jezrien]], whom he killed with the knife. Some time after the successful assassination, the Fused, [[Leshwi\|Leshwi]], offered Moash Jezrien's [[Honorblade\|Honorblade]] as well as a new identity. He accepted, took the singer name **Vyre**, which meant *He Who Quiets*, and used the Honorblade to join the Fused in the air.
-A year later, Moash took part in the Fused assault on Hearthstone, where he murdered Roshone in front of Kaladin, who went into a state of battle shock. Moash then attempted to persuade Kaladin to commit suicide. He was stopped by Renarin, who showed Moash a vision of the man he could have been had he not betrayed Bridge Four, a Windrunner of the Third Ideal, causing Moash to flee.
-In Kholinar, he sat in on a session of the Nine, where he warns them that Kaladin will foil their plan to occupy Urithiru. Later, he was approached by Odium, who intended to break Kaladin and questioned Moash on the best ways of tormenting his former captain.
-
- by  Khaedart  After being blinded by [[Navani\|Navani]]
-### The Occupation of Urithiru
->**Moash**: "*I am unchained.*"**Odium**: "*And yet, you think so often of Kaladin.*"**Moash**: "*I am … mostly unchained.*"
-\-Moash: "I am unchained."
-Odium: "And yet, you think so often of Kaladin."
-Moash: "I am … mostly unchained."
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-During the occupation of Urithiru, Vyre used his Honorblade to operate the [[Oathgate\|Oathgate]] between Kholinar and the tower for the [[Fused\|Fused]]. When the uprising to take Urithiru back began, he set a trap for Kaladin in his family's clinic, but the trap was instead sprung by [[Teft\|Teft]] and [[Lift\|Lift]]. Moash injured Lift, then used a [[Raysium\|raysium]] dagger containing [[Anti-Stormlight\|anti-Stormlight]] to permanently kill Teft's spren, [[Phendorana\|Phendorana]], before killing Teft. He handed [[Lirin\|Lirin]] to the Fused as insurance against Kaladin, ordering them to kill Lirin in front of his son should Kaladin fight back.
-Moash then descended to the basement of Urithiru to kill Queen [[Navani\|Navani]]. Nearly succeeding, he was ambushed by an injured [[Raboniel\|Raboniel]], which gave Navani time to bond the [[Sibling\|Sibling]]. After restoring the tower, she used its Light to incapacitate Moash and forcibly return his pain to him. Moash fled, hating himself for what he had done to Teft and realizing that he did not truly regret the murder, only the guilt. He eventually broke his spine in a fall and nearly died before being rescued by a few Heavenly Ones and given Stormlight. When he recovered, he found that he was blind.
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Moash/Galer%C3%ADa\|/Galería]].
+### Apariencia
+Moash es delgado, pero fuerte, tiene el rostro estrecho y aguileño y el pelo de color castaño salpicado de negro. Nace como un [[Ojos oscuros\|ojos oscuros]], con los ojos de color marrón que se vuelven bronceados cuando recibe un conjunto completo de esquirladas. Moash es un hombre joven, potencialmente cercano a la edad de Kaladin. Es alto y tiene una cicatriz en la barbilla.
+A diferencia de muchos otros miembros del Puente Cuatro, Moash no tiene marcas de esclavo en la frente. Por ello, se hace el tatuaje del Puente Cuatro en la parte superior del brazo izquierdo.
 
-## Trivia
-Though Moash's name is similar to [[Moshe Feder\|Moshe Feder]] (Brandon's editor) it is not actually a cameo.
-Moash's eye color is initially (and erroneously) written as dark green in *The Way of Kings*. In *Words of Radiance*, his eyes are said to be brown. Peter Ahlstrom has confirmed that Moash's eyes are brown and that the first book is incorrect.
-The name Moash was originally a singer name.
-Had he not begun killing for Odium, Moash could have become a Windrunner of at least the Third Ideal.
+### Personalidad
+Moash se muestra distante y sombrío, y se mantiene alejado de la gente cuando la conoce por primera vez. Sin embargo, una vez que entra en contacto con alguien, se encariña rápidamente. Cuando se une a un grupo, es amistoso y amigable y a menudo es quien impulsa las actividades más relajadas durante los descansos del servicio. Valora sus amistades y trata de rescatarlos siempre que puede. Está ansioso por ganar poder y admira a aquellos que lo tienen. Al mismo tiempo, sospecha constantemente de aquellos que están por encima de él en la escala social. Tiene un férreo sentido de la justicia, que se originó en la situación de injusticia que sufrieron sus abuelos en una etapa anterior de su vida.
+Moash tiende a ver las acciones de la gente por los factores externos que las motivan, factores externos como la posición de uno como ojos claros u ojos oscuros en el sistema de castas vorin. A medida que se involucra más en el ejército de los Fusionados y se adentra más en el vacío emocional de Odium, sus antiguas prioridades se desvanecen.
+Sus deseos ver a [[Elhokar\|Elhokar]], y luego a todos los [[Ojos claros\|ojos claros]] enfrentándose a su castigo, lo consume y lo aleja cada vez más de sus amigos y lo empuja hacia los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Con el tiempo, cuando se rinde por completo al poder de Odium, también parece perder cualquier impulso o deseo, diciéndose a sí mismo que no siente ninguna emoción incluso cuando cumple con su venganza. En este periodo, cumple los mandatos de buscar la pasión y seguir las órdenes de los Fusionados. Aunque sigue preocupándose por Kaladin, cree que el suicidio es la única forma en que puede salvarse del tormento de Odium, y en su propia desesperación, insta a Kaladin a suicidarse antes que arriesgarse a que Kaladin se una a Odium.
+
+ 
+## Atributos y habilidades
+Moash es muy hábil con la lanza, lo suficiente como para matar a un [[Fusionado\|Fusionado]] que le ataca. Durante un tiempo, también posee una [[Hoja esquirlada\|hoja]] y una [[Armadura esquirlada\|armadura esquirlada]] y, aunque es capaz de moverse de manera natural con su armadura en menos de una semana, le va algo peor con la hoja esquirlada, creyendo que muy aparatosa, y extrañando la lanza cuando su vida corría peligro. Más adelante, recibe la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]], lo que le permite el acceso a las [[Potenciaci%C3%B3n\|Potencias]] de [[Gravitaci%C3%B3n\|Gravitación]] y [[Adhesi%C3%B3n\|Adhesión]]. Tiene mucha soltura utilizandolas y le cuesta muy poco absorber [[Luz tormentosa\|luz tormentosa]] y usar enlaces.
+Moash es también un buen maestro de la lanza y un comandante decente, capaz de entrenar a un grupo de [[Cantor\|cantores]] antes del ataque a [[Kholinar\|Kholinar]].
+Tras la ocupación de Urithiru, quedó ciego.
+
+## Historia
+### Primeros años de vida
+Los padres de Moash murieron cuando él era un niño. Lo criaron sus abuelos, [[Ana\|Ana]] y [[Da\|Da]], que trabajaban como plateros en [[Kholinar\|Kholinar]]. Fue su abuelo quien le puso su nombre. Más tarde, Moash descubre que este es de origen [[Cantor\|cantor]].
+Moash decidió no seguir con el negocio familiar ya que prefería trabajos que implicaran viajar. Mientras estaba trabajando en una caravana durante unos meses, sus abuelos fueron víctimas del [[/wiki/Toralin Roshone#Kholinar y el caso Roshone]], lo que les llevó a morir mientras estaban encarcelados en las mazmorras del palacio. Moash acabó culpando de sus muertes a [[Elhokar Kholin\|Elhokar Kholin]], que en ese momento era el heredero real, pero que más tarde se convertiría en el rey de Alezkar.
+
+### Puente Cuatro
+Moash se unió a la guerra pensando que lo convertirían en lancero, pero terminó en el Puente Cuatro. Cuando estos empezaron a entrenar en los abismos, Moash fue uno de los primeros en convertirse en un guerrero. Más tarde, en la carrera del puente en la que [[Dunny\|Dunny]] murió, Moash probablemente le salvó la vida a Kaladin al impedirle llegar al su cuerpo y después reconoció haberse equivocado con Kaladin.
+
+ 
+Cuando [[Adolin\|Adolin]] le intentó regalar a [[Kaladin\|Kaladin]] una [[Hoja esquirlada\|hoja]] y una [[Armadura esquirlada\|armadura esquirlada]], él se las entregó a Moash, pasando así a ser considerado un ojos claros por rango. La espada tiene un patrón de enredadera a lo largo del centro de la hoja, y la armadura, que perteneció anteriormente a , estaba pintada de naranja. Más tarde, Moash hizo que la repintaran de azul con detalles rojos. Sus ojos empezaron a aclararse una semana después de recibir las esquirladas, pero él no se consideraba a sí mismo un ojos claros.
+
+### Intento de regicidio y deserción
+>**Kaladin**: "*A veces hay que sacrificar vidas por el bien común.*"**Moash**: "*¡Sí, exactamente!*"**Kaladin**: "*Eso es lo que dijo [[Amaram\|Amaram]]. Referido a mis amigos, a quienes asesinó para encubrir sus secretos.*"
+\-Kaladin: "A veces hay que sacrificar vidas por el bien común."
+Moash: "¡Sí, exactamente!"
+Kaladin: "Eso es lo que dijo Amaram. Referido a mis amigos, a quienes asesinó para encubrir sus secretos."
 
 
-https://coppermind.net/wiki/Vyre
+Moash se involucró en un complot, junto con [[Graves\|Graves]], para asesinar al rey Elhokar Kholin, que finalmente Kaladin evitó. Tras el intento fallido, Moash recogió su espada y su armadura y se marchó del campamento de guerra con Graves.
+Se dirigen entonces hacia tierras salvajes con una caravana de bienes robados. Graves intenta introducir a Moash en el [[Diagrama (grupo)\|Diagrama]], esperando que traer un portador de esquirlada compensara el fracaso de sus planes. Poco después del inicio del viaje, los ataca un grupo de [[Fusionado\|Fusionados]]. Graves es asesinado y Moash intenta luchar con su hoja esquirlada, pero la considera muy difícil de manejar. Consigue agarrar una lanza y matar a [[Leshwi\|Leshwi]], una de los Fusionados.
+Al ver esto, los otros Fusionados le dieron a Moash a elegir, podría entregar sus armas e ir con ellos, o morir en sus manos. Hicieron esto porque creyeron que Leshwi querría vengarse una vez volviera a la vida. Sin embargo, no fue así, considerando que Moash tenía mucha pasión.
+
+### Esclavo de los Fusionados
+  Enfrentándose a <<Renarin\|Renarin>>
+Como esclavo, lo hacen tirar de trineos cargados de suministros por todo el país. En una de sus rutas, vió como un grupo de cantores tiraba de trineos igual que el resto de esclavos. Defendió al grupo, ganando así más respeto entre los Fusionados y los cantores. Finalmente, se unió al asalto de Kholinar como guerrero del ejército de los Fusionados.
+En Kholinar, él y sus compañeros cantores lucharon contra la Guardia de la Muralla de Kholinar. En el punto álgido de la pelea, Moash encontró al rey [[Elhokar\|Elhokar]] y lo apuñaló en el pecho. Luego lo volvió a apuñalar en un ojo, justo en el momento en el que Elhokar iba a terminar de jurar el [[/wiki/Caballeros Radiantes#Palabras Inmortales]]. Con su venganza ya cumplida, miró hacia Kaladin, que estaba en Kholinar con el rey en una misión para salvar la ciudad. Moash saludó a su antiguo capitán, que estaba paralizado por el impacto de lo que acababa de ocurrir, y se marchó.
+Tras el asedio, lo pusieron a trabajar como obrero limpiando los escombros. Allí se le acercó una Fusionada, [[Hnanan\|Hnanan]], quien le entregó un [[Cuchillo de Vyre\|cuchillo dorado y brillante]] con un zafiro engarzado en él. Los Fusionados le mandan asesinar al [[Heraldo\|Heraldo]] [[Jezrien\|Jezrien]], a quien finalmente mata con el cuchillo. Algún tiempo después del asesinato, la Fusionada [[Leshwi\|Leshwi]] le ofrece a Moash la [[Hoja de Honor\|hoja de Honor]] de Jezrien, junto con una nueva identidad. Él acepta, toma el nombre cantor **Vyre**, que significa *Aquel Que Acalla*, y utiliza la hoja de Honor para unirse a los Fusionados en el aire.
+Un año más tarde, Moash participa en el asalto de los Fusionados a Piedralar, donde asesina a Roshone frente a Kaladin, quien entra en un estado de conmoción. En ese momento, Moash intenta convencer a Kaladin para que se suicide. El fatal desenlace lo evita Renarin, que le muestra a Moash una visión del hombre que podría haber sido si no hubiera traicionado al Puente Cuatro, un Corredor del Viento del Tercer Ideal, lo que hace que Moash salga huyendo.
+En Kholinar, asiste a una reunión de los Nueve, donde les advierte que Kaladin frustrará sus planes de ocupar Urithiru. Más tarde, es abordado por Odium, quien tiene el propósito de quebrar a Kaladin, y le pregunta a Moash por la mejor forma de atormentar a su antiguo capitán.
+
+  Tras ser cegado por <<Navani\|Navani>>
+### La ocupación de Urithiru
+>**Moash**: "*Estoy desencadenado.*"**Odium**: "*Y sin embargo, piensas muy a menudo en Kaladin.*"**Moash**: "*Estoy... desencadenado casi del todo.*"
+\-Moash: "Estoy desencadenado."
+Odium: "Y sin embargo, piensas muy a menudo en Kaladin."
+Moash: "Estoy... desencadenado casi del todo."
+
+
+Durante la ocupación de Urithiru, Vyre utiliza su hoja de Honor para accionar la [[Puerta Jurada\|Puerta Jurada]] entre Kholinar y la torre para que los [[Fusionado\|Fusionados]] puedan entrar. Cuando empieza el levantamiento para recuperar Urithiru, le tiende una trampa a Kaladin en la clínica de su familia, pero los que caen en ella son [[Teft\|Teft]] y [[Lift\|Lift]]. Moash hiere a Lift y utiliza una daga de [[Raysio\|raysio]], que contiene [[/wiki/Luces#Antiluz tormentosa]], para matar definitivamente a [[Phendorana\|Phendorana]], la spren de Teft, antes de asesinar al propio Teft. Entrega a [[Lirin\|Lirin]] a los Fusionados como un seguro contra Kaladin, ordenando que le maten frente a su hijo si Kaladin contraataca.
+Tras esto, Moash desciende a los niveles inferiores de Urithiru para matar a la reina [[Navani\|Navani]]. Cuando está muy cerca de conseguirlo, es emboscado por [[Rabeniel\|Rabeniel]], que está herida, lo que le proporciona tiempo a Navani para vincularse con el [[Hermano\|Hermano]]. Tras restaurar la torre, Navani utiliza su luz para incapacitar a Moash y devolverle todo su dolor. Moash huye, odiándose por lo que le ha hecho a Teft y dándose cuenta de que realmente no lamenta el asesinato, sólo la culpa. Poco después se rompe la columna vertebral en una caída, y está a punto de morir antes de ser rescatado por algunos Celestiales que le dan luz tormentosa. Cuando se recupera, descubre que se ha quedado ciego.
+
+## Curiosidades
+Aunque el nombre de Moash se parezca al de [[Moshe Feder\|Moshe Feder]] en realidad no es un cameo.
+En *El camino de los reyes* el color de ojos de Moash se describe en un principio (y erróneamente) como verde oscuro. En *Palabras Radiantes*, se dice que sus ojos son de color marrón. Peter Ahlstrom ha confirmado que el color de los ojos de Moash es marrón y que el dato que aparece en el primer libro es incorrecto.
+Inicialmente, el nombre Moash era un nombre cantor.
+Si no hubiera empezado a matar para Odium, Moash se podría haber convertido en un Corredor del Viento de, al menos, el Tercer Ideal.
+
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] ·  · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Moash

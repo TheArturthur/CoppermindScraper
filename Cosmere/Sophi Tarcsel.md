@@ -1,25 +1,50 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Sophi Tarcsel**|
 |-|-|
-|**Family**|
-|**Parents**|[[Remmingtel Tarcsel\|Remmingtel Tarcsel]]|
-|**Born**|c. 327 [[Catacendre\|PC]]|
-|**Profession**|Inventor, entrepreneur|
-|**Residence**|15 Stranat Place, [[Elendel\|Elendel]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Padres**|[[Remmingtel Tarcsel\|Remmingtel Tarcsel]]|
+|**Nacido en**|c. 327 [[Catacendro\|PC]]|
+|**Oficio**|Inventora, emprendedora|
+|**Residencia**|Plaza Stranat 15, [[Elendel\|Elendel]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Sophi Tarcsel** is an inventor in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
+**Sophi Tarcsel** es una inventora de [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]].
 
-## Appearance and Personality
-She is a short woman with long, straight blonde hair and a lean face, and is seen wearing a green dress. [[Wayne\|Wayne]] thinks she looks like she is around fifteen years old. She is intelligent, ambitious, and very determined. She is fiercely defensive of her father's work and legacy.
+## Apariencia y personalidad
+Es una mujer baja con pelo rubio largo y liso, tiene un rostro delgado y es vista llevando un vestido verde. [[Wayne\|Wayne]] cree que ella parece tener alrededor de quince años. Es inteligente, ambiciosa y muy decidida. Ella defiende ferozmente el trabajo y legado de su padre.
 
-## History
-Sophi's father, [[Remmingtel Tarcsel\|Remmingtel Tarcsel]], was an inventor. She claimed that he invented the incandescent light bulb and that his work was stolen by Professor [[Hanlanaze\|Hanlanaze]]. She wrote opinion pieces in the Elendel broadsheets trying to bring this to light. When she met [[Wayne\|Wayne]] masquerading as Professor Hanlanaze, she slapped him and told him that he should always remember what he did to her father. This took Wayne aback, as it reminded him of his history with [[Allriandre\|Allriandre's]] father.
-One of Sophi's inventions was a sound amplification system that was used for at least one of Governor [[Replar Innate\|Replar Innate's]] speeches.
-She understood that marketing was as important as inventing in order to be successful, and was determined to succeed where her father had failed. To this end, she placed ads in the broadsheets looking for people willing to invest in electrics. Sophi was later spotted by Wayne at a party after Elendel was saved from Bleeder. He asked her if she needed money, which she excitedly accepted while talking about the potential of electricity.
-[[Wax\|Wax]] and his colleagues later visited [[New Seran\|New Seran]] on the edge of the [[Elendel Basin\|Elendel Basin]] and were surprised to see that Sophi's amplification devices were already available there. They were used during a speech by [[Bastien Severington\|Bastien Severington]]. When Wayne later mistook the [[Bands of Mourning\|Bands of Mourning]] for a simple (but extremely valuable) [[Aluminum\|aluminum]] spearhead, he grabbed it thinking that it could be sold to help fund Sophi's business.
-Within the next few years, Sophi formed a highly profitable company called [[Tarcsel Electric\|Tarcsel Electric]]. Wayne invested heavily in her business, and its success contributed a large portion of his wealth.
+## Historia
+El padre de Sophi, [[Remmingtel Tarcsel\|Remmingtel Tarcsel]], fue un inventor. Ella asegura que él inventó la bombilla incandescente y que su trabajo fue robado por el profesor [[Hanlanaze\|Hanlanaze]]. Escribió artículos de opinión en los periódicos de Elendel tratando de sacar esto a la luz. Cuando se encuentra con [[Wayne\|Wayne]] disfrazado del profesor Hanlanaze, le dio una bofetada y le dijo que siempre debería recordar lo que le hizo a su padre. Esto tomó a Wayne desprevenido, y le recordó su historia con el padre de [[Allriandre\|Allriandre]].
+Una de las invenciones de Sophi fue un sistema de amplificación de sonido que se utilizó al menos en uno de los discursos del gobernador [[Replar Innate\|Replar Innate]].
+Ella comprendió que el marketing era tan importante como la invención para tener éxito, y estaba decidida a triunfar donde su padre había fracasado. Para lograr esto, colocó anuncios en los periódicos buscando personas dispuestas a invertir en electrónica. Sophi fue vista más tarde por Wayne en una fiesta después de que Elendel fuese salvada de Sangradora. Él le preguntó si necesitaba dinero, lo cual ella aceptó con entusiasmo mientras hablaba sobre el potencial de la electricidad.
+[[Wax\|Wax]] y sus colegas visitaron más tarde [[Nueva Seran\|Nueva Seran]] al borde de la [[Cuenca de Elendel\|Cuenca de Elendel]] y se sorprendieron al ver que los dispositivos de amplificación de Sophi ya estaban disponibles allí. Fueron usados durante un discurso de [[Bastien Severington\|Bastien Severington]]. Cuando Wayne más tarde confundió los [[Brazales de Duelo\|Brazales de Duelo]] con una simple (pero extremadamente valiosa) punta de lanza de [[Aluminio\|aluminio]], la tomó pensando que podría venderla para ayudar a financiar el negocio de Sophi.
+En los siguientes años, Sophi formó una compañía altamente rentable llamada [[Electricidad Tarcsel\|Electricidad Tarcsel]]. Wayne invirtió mucho en su empresa, y su éxito contribuyó en gran medida a su riqueza.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Taln Fan (talk) 19:12, 26 November 2022 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Sophi_Tarcsel
+https://es.coppermind.net/wiki/Sophi_Tarcsel

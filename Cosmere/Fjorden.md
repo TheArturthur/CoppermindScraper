@@ -1,198 +1,103 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Fjorden**|
 |-|-|
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Ethnicity**|Fjordell|
+||
+|**Etnia**|De Fjorden|
 |**Capital**|[[Widor\|Widor]]|
-|**Region**|Sycla (Opelon)|
-|**World**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Región**|Sycla (Opelon)|
+|**Mundo**|[[Sel\|Sel]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Fjorden** is a theocratic nation state on [[Sel\|Sel]]. The people of Fjorden are called the Fjordell.
-Strict and militaristic, Fjorden is the dominant country of the continent. About three hundred years ago, their leader, the Wyrn, converted to the Derethi religion, and within a generation all of Fjorden had done likewise. Now, instead of sending troops across the continent, Fjorden sends priests, and it's said that much of Fjorden's vast power comes from conversions obtained — or forced — by them.
+**Fjorden** es una nación teocrática de [[Sel\|Sel]]. Los habitantes de Fjorden se llaman fjordell.
+Estricto y militarista, Fjorden es el país dominante del continente. Hace unos trescientos años, su líder, el Wyrn, se convirtió a la religión derethi, y en una generación todo Fjorden había hecho lo mismo. Ahora, en lugar de enviar tropas por todo el continente, Fjorden envía sacerdotes, y se dice que gran parte de su vasto poder proviene de las conversiones obtenidas -o forzadas- por ellos.
 
-## Contents
+## Sumario
 
-1 Geography and Ecology
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Historia. [[#Historia]] 
+3 Políticas. [[#Pol.C3.ADticas]] 
 
-1.1 Fjorden
-1.2 Fjordell Empire
-1.3 Notable cities
-
-
-2 Government
-
-2.1 Theocracy
-
-2.1.1 Territories
+3. [[#Gobierno]] 
+3. [[#Ej.C3.A9rcito]] 
+3. [[#Econom.C3.ADa]] 
 
 
-2.2 The Wyrns
+4 Cultura. [[#Cultura]] 
 
-2.2.1 Political significance
-2.2.2 Religious significance
-2.2.3 Titles
-
-
-2.3 Foreign Policy and International Relationships
-
-2.3.1 Arelon
-2.3.2 Teod
-2.3.3 The Rose Empire
+4. [[#Religi.C3.B3n y estructura social]] 
+4. [[#Gente y lengua]] 
+4. [[#Magia]] 
 
 
+5 Notas. [[#Notas]] 
 
 
-3 Military
+## Geografía
+Fjorden y sus estados asociados abarcan la mayor parte del continente de [[Opelon\|Opelon]]. Fjorden es el más grande y septentrional de ellos, y se extiende a lo largo de la larga orilla del [[Mar de Fjorden\|mar de Fjorden]], mientras que al oeste, limita con las [[Monta%C3%B1as Atad\|montañas Atad]] (o Dathreki, como son conocidas por los fjordell) y el país de [[Arelon\|Arelon]]. Desde el Sur y el Este, Fjorden limita con sus numerosas naciones sometidas; yendo de Oeste a Este, son [[Duladel\|Duladel]], [[Jindo\|Jindo]], [[Jaador\|Jaador]], [[Hraggen\|Hraggen]], [[Geant\|Geant]] y [[Svorden\|Svorden]]. [[Hrovell\|Hrovell]] es otro estado subyugado, aunque se encuentra al sur de Hraggen y Geant, y no limita directamente con Fjorden.
+La nación de Fjorden tiene muchas ciudades fortificadas. La más notable de ellas es [[Widor\|Widor]], la capital del imperio.
 
-3.1 Armies
-3.2 Warrior Priests
-3.3 Equipment and Weaponry
-3.4 Navy
+## Historia
+Durante siglos, la clase trabajadora fjordell vivió y murió bajo un sistema feudal que los trataba peor que a los animales de granja. No se rebelaron, ya que fueron educados para ello, y para ellos, el sistema feudal era el único sistema.
+El estado original que reinaba en Fjorden era el Antiguo Imperio, también conocido como el Primer Imperio. Hace más de trescientos años, estuvo a punto de conquistar todo Opelon, sólo Arelon, con la ayuda de la magia elantrina, se le opuso. Con el tiempo, el Antiguo Imperio cayó debido a problemas administrativos: conquistó más de lo que podía mantener.
+Hace unos trescientos años, el Wyrn Wulfden I se convirtió a la religión derethi, y en una generación todo Fjorden hizo lo mismo. Así, el país renació, esta vez como una teocracia. Durante los trescientos años siguientes, los Wyrns alteraron descaradamente las historias y la literatura de su propio país para hacer creer que el imperio siempre había sido una manifestación del propósito divino. La poesía y las vidas de los reyes se reescribieron para eliminar cualquier referencia obsoleta; después de todo, no podían permitir que sonara como si su mayor rey histórico fuera un pagano.
+Durante los últimos tres siglos, los Wyrns han utilizado su nuevo poder teocrático para expandirse y extenderse, conquistando numerosos estados circundantes por medio de la conversión religiosa. En la época del [[Reod\|Reod]], los Wyrns eran más poderosos incluso que en el apogeo del Antiguo Imperio.
+Tras el Reod y la posterior caída de Elantris, Fjorden comenzó a empujar los límites de su influencia de nuevo, esta vez instigando el colapso de la República de [[Duladel\|Duladel]]. Tuvo éxito, aunque sangriento, y después de su caída, Fjorden una vez más puso sus ojos en [[Arelon\|Arelon]], así como en su aliado, [[Teod\|Teod]].
+Comenzaron enviando a [[Hrathen\|Hrathen]] para intentar convertir Arelon al [[Shu-Dereth\|Shu-Dereth]], y así hacer que se sometiera a Fjorden. Si esto resultaba imposible en tres meses, Fjorden enviaría ejércitos para destruir a todo ser viviente en las ciudades de Arelon. También prestaron apoyo financiero a [[Telrii\|Telrii]], un seguidor del Shu-Dereth que quería hacerse con el trono de Arelon, y hundieron las flotas mercantes del rey [[Iadon\|Iadon]].
+En Teod, a su vez, obligaron al rey [[Eventeo\|Eventeo]] a convertirse bajo amenaza de invasión, y destituyeron a los embajadores de Teod en Arelon. Por último, amenazaron con matar a la hija de Eventeo, [[Sarene\|Sarene]].
+Sus planes fracasaron cuando [[Elantris (ciudad)\|Elantris]] fue restaurada y los elantrinos recuperaron su poder. Durante la restauración, los fjordell fueron expulsados de Areleon, y más tarde también de Teod.
 
+## Políticas
+### Gobierno
+El moderno imperio fjordell está gobernado por una teocracia militarista. Tanto la iglesia como el imperio están gobernados por el [[Wyrn (t%C3%ADtulo)\|Wyrn]], aunque los [[Skaze\|skaze]], [[Astilla\|Astillas]] del [[Dominio\|Dominio]], también tienen una influencia directa en la política de Fjordell.
+El Wyrn es a la vez el título del emperador de Fjorden y un título religioso que indica el más alto sacerdote de la religión derethi. Su título oficial es "Regente de Toda la Creación", en referencia a su estado de gobernante hasta que [[Jaddeth\|Jaddeth]], el dios derethi, se alce para construir su imperio. También se le conoce como el Profeta del Shu-Dereth, Gobernador del Sagrado Reino de Jaddeth. El actual Wyrn es Wulfden IV; vive en el Zigareth, un palacio en Widor.
+La religión nacional del [[Shu-Dereth\|Shu-Dereth]] ordena a todos los seguidores que se adhieran a una rígida cadena de mando, que recuerda al antiguo sistema feudal fjordell. En la cima de esa cadena está el Wyrn, que se cree que está en comunión directa con [[Jaddeth\|Jaddeth]]. Esto permite a cada persona en el imperio servir a Jaddeth, aunque sólo el Wyrn es lo suficientemente sagrado como para hacerlo directamente.
 
-4 Culture
-
-4.1 People
-
-4.1.1 Sports and Games
-4.1.2 Social structure
-4.1.3 Foods and drinks
-
-
-4.2 Language
-4.3 Religion
-4.4 Economy
-4.5 Invested Art
-
-
-5 History
-6 Notes
+### Ejército
+>“*Las naciones paganas de Arelon y Teod han sido negras manchas en mi tierra durante demasiado tiempo.*”
+\-Wulfden IV[10]
 
 
-## Geography and Ecology
-Fjorden and its client states lie on the continent of [[Sycla\|Sycla]], in fact, they encompass the vast majority of Sycla, with the only other state being [[Arelon\|Arelon]]. Among these states Fjorden is by far the largest.
+Para los fjordell, la religión y la guerra son casi la misma cosa. El ejército sirve al Wyrn y aplastará civilizaciones enteras por él. Sus conquistas se venden rápidamente con la llegada de los sacerdotes derethi, que se esfuerzan por convertir a toda la población al Shu-Dereth. Los fjordell creen que con toda la humanidad unida bajo el gobierno del Wyrn, Jaddeth podría levantarse de su trono bajo la tierra y reinar con gloriosa majestad sobre el mundo.
+Los ejércitos convencionales son aumentados por los usuarios de la magia fjordell, los monjes [[Dakhor\|dakhor]]. Estos, formados en el [[Monasterio Dakhor\|monasterio Dakhor]], se someten a un riguroso entrenamiento físico, convirtiéndose en monjes guerreros. Pocos meses después de que un chico sea iniciado en la orden dakhor, sus huesos comienzan a crecer y a retorcerse, adoptando extraños patrones, que recuerdan a los símbolos fjordell. Estos otorgan a los sacerdotes dakhor diversos poderes, la mayoría de ellos relacionados con la batalla. Las oraciones y conjuros utilizados para crear a los monjes dakhor son secretos; ni siquiera los gyorns, sacerdotes de alto rango, los conocen.
+También son lo suficientemente ricos como para tener una gran flota, lo suficientemente grande como para que pudieran vencer a Teod simplemente por el número.
 
-### Fjorden
-Fjorden lies along the shore of the [[Sea of Fjorden\|Sea of Fjorden]], Fjorden doesn’t seem to control many large islands. To the west, Fjorden is bordered by the [[Dathreki Mountains\|Dathreki Mountains]] (or Atad, as they are known to the Arelenes). At least two large rivers run through Fjorden. Fjorden has a cold climate. It sometimes gets so cold in the winter that trees freeze and explode.
-The [[Aberteen\|Aberteen]] is a flower found and favoured in Fjorden. The [[Sea of Fjorden\|Sea of Fjorden]], which Fjorden lies next to, contains many species of fish. One such species is the [[Kike\|kike]].
+### Economía
+Fjorden es un país rico. Tiene un fuerte comercio con Teod y Arelon, así como con todos sus territorios actuales. Es lo suficientemente rico como para utilizar el dinero para controlar la política exterior, como el apoyo de [[Telrii\|Telrii]] en Arelon. También es tristemente célebre por aprovecharse del caos de otras ciudades.
+El wyrning es la moneda de oro fjordell. Lleva estampado el perfil del Wyrn.
 
-### Fjordell Empire
-The Fjordell Empire has very diverse geography. [[Hraggen\|Hraggen]] contains a large mountain range while [[Hrovell\|Hrovell]] is bordered to the south by mountains. All the southern nations in the Fjordell empire are bordered by a large desert. Svorden has control over a large group of islands to the west of the peninsula.
-
-### Notable cities
-[[Widor\|Widor]] - The capital city of Fjorden. The Wyrn resides in a palace called the Zigareth in Widor.
-[[Seraven\|Seraven]] - The most important city in [[Svorden\|Svorden]]. Seraven is an important harbour, being located on the [[Sea of Fjorden\|Sea of Fjorden]]. It is also the northernmost point in the entire Fjordell empire.
-[[Fellavoo\|Fellavoo]] - A city in the north of [[Duladel\|Duladel]]. It is located close to both [[Arelon\|Arelon]] and Fjorden?
-[[HaiKo\|HaiKo]] - A city located in the north of [[JinDo\|JinDo]]. Haiko is built against the shore of the same river as Widor.
-[[Gmordsom\|Gmordsom]] - The largest city in Hraggen.
-[[Velf\|Velf]] - An important city in Geant. Velf is located at the mouth of an important river.
-## Government
-### Theocracy
-Fjorden is a theocracy. It’s state religion is [[Shu-Dereth\|Shu-Dereth]].
-Fjorden seems to be ruled by [[Wyrn (title)\|Wyrn]]. The Fjordell empire isn’t a true empire, rather it is a collection of nations united by their belief in a single religion, Shu-Dereth. Each of these nations has their own rulers, although all of them are Derethi. Shu-Dereth teaches that Wyrn is the highest priest, prophet and Jaddeth’s chosen. Due to this the Derethi obey his every command, which means that he essentially rules the Empire. The Fjordell priests have a very tight grip on the Derethi nations, no king rules east of the Dathreki Mountains unless he has professed allegiance to Shu-Dereth, and the most desirable and lucrative governmental positions always fall to those who were diligent in their worship of Jaddeth.
-The [[Skaze\|skaze]], [[Splinter\|Splinters]] of [[Dominion\|Dominion]], also have a direct influence on Fjordell politics.
-
-#### Territories
-While Fjorden itself doesn’t directly rule over other territories, the Fjordell Empire consists of many different kingdoms.
-
-[[Svorden\|Svorden]] - A kingdom in the eastern part of the Fjordell empire, it is considered to be the cultural epicentre of the east.
-[[Hrovell\|Hrovell]] - A nation in the rural southeast of the Fjordell Empire.
-[[Geant\|Geant]] - A nation in the east of the Fjordell Empire, it’s people have become almost indistinguishable from the Fjordell.
-[[Hraggen\|Hraggen]] - A nation in the Fjordell Empire. It is located to the south of Fjorden.
-[[Jaador\|Jaador]] - A nation in the southern part of the empire, they are ethnically [[JinDo\|JinDo]], although much of their culture has been replaced by the Fjordell.
-[[Jindo\|Jindo]] - A nation in the Fjordell empire. When the Fjordell began expanding the JinDo, preferring peace to fighting, outwardly converted to [[Shu-Dereth\|Shu-Dereth]] and joined the Empire.
-[[Duladel\|Duladel]] - A kingdom in the west of the empire, they joined the Fjordell empire after a bloody revolution, which ended with the foundation of a pro Fjordell monarchy.
-### The Wyrns
-#### Political significance
-Fjorden is ruled by a [[Wyrn (title)\|Wyrn]]. It appears that the Wyrn can do whatever he wishes inside Fjorden. Wyrn doesn’t directly rule the other Derethi kingdoms however, instead of this he holds significant influence in them. Wyrn can command the Fjordell monasteries, including [[Dakhor\|Dakhor]], to carry out certain tasks for him.
-The Wyrns live in the Zigareth, a palace located in the Fjordell city of [[Widor\|Widor]]. Because of this it can be assumed that Widor functions as the Fjordell capital.
-
-#### Religious significance
-The title Wyrn is also the title of the highest priest in the Derethi religion. It is believed that only Wyrn is holy enough to commune directly with [[Jaddeth\|Jaddeth]]. This, combined with the strict Derethi chain of command, makes each Derethi serve Wyrn. Because of his position as Jaddeth’s prophet Wyrn holds great influence within all the Derethi nations.
-Wyrn is also the hroden of many important priests, such as the Gyorns.
-
-#### Titles
-The Wyrns have numerous titles, known titles are: Emperor of Fjorden, Prophet of Shu-Dereth, Ruler of Jaddeth’s holy kingdom and Regent of all Creation. This last title refers to their state of rulership until Jaddeth rises from his throne. Some priests also refer to him as their master.
-
-### Foreign Policy and International Relationships
-#### Arelon
-The Fjordell have bad relations with the Arelene people. This is mainly because of the difference in religion, the Arelenes worship both [[Shu-Korath\|Domi]] and the [[Elantrians\|Elantrians]], which makes the Fjordell see them as pagans. Besides that the Fjordell have repeatedly attempted to conquer Arelon, with little to no succes, which contributes a great deal to their hatred of Arelon.
-Ten years after the [[Reod\|Reod]] Wyrn sent some of his fiercest warrior monks, the monks from the Dakhor monastery, to invade Arelon and slaughter the Arelene people. He got them into Arelon without anyone noticing, and at Wyrn’s command, they began slaughtering the Arelenes, both nobles and commoners alike. This invasion was eventually stopped, but it significantly worsened the relations between the Fjordell and the Arelenes.
-
-#### Teod
->“*The day Teod fell beneath Fjorden's glory would be a joyous day indeed.*”
-\-Hrathen
-
-The Fjordell also have antagonistic relations with the [[Teod\|Teo]]. The Fjordell view the Teo as their archenemies and historical rivals. Many Fjordell also assume that there is no hope for the Teo. This isn’t actually Derethi doctrine however, instead it is a simple justification that infused Fjorden's historical enemies with theological hatred.
-Ten years after the [[Reod\|Reod]] the Fjordell began invading Teod, sailing straight to [[Teoras\|Teoras]]. This invasion was stopped however as [[Elantris (city)\|Elantris]] was restored and an army of [[Elantrians\|Elantrians]] arrived at Teoras. The invasion significantly worsened the relations between the Teo and the Fjordell.
-
-#### The Rose Empire
-The Fjordell view the people of the Rose Empire as barbarians, calling them the Rose barbarians. It seems that they don’t interact much with these peoples. Svorden is known to have diplomatic relations with the Rose Empire, although in recent years these relations have become somewhat strained. There is a Gyorn, who essentially functions as an ambassador, stationed in the [[Imperial Seat\|Imperial Seat]].
-
-## Military
-#### Armies
-Fjorden itself only has a basic defence force, the other nations in the Fjordell empire have far larger armies however. Due to the strict Derethi chain of command these armies are also under Wyrn’s command.
-
->“*The pagan nations of Arelon and Teod have been blackened scars upon my land for long enough.*”
-\-Wulfden the Fourth [8]
-
-These militaries will crush entire civilizations for their Wyrn. Their conquests are also quickly soldified by the arrival of Derethi priests, who strive to convert the entire population to Shu-Dereth. The Fjordell believe that with all mankind united under Wyrn's rule, Jaddeth could rise from His throne beneath the earth and reign in glorious majesty upon the world. This is one of the reasons for their conquests. The Fjordell also have multiple bandit groups under their control. Ten years after the Reod these bandits were operating in Arelon.
-
-#### Warrior Priests
-The conventional armies are augmented by Derethi priests. Derethi priests are trained in the monasteries of Fjorden, where they are required to undergo vigorous physical training. This makes all Derethi priests excellent warriors. Besides that, this training makes the priests into a capable force for Wyrn to use in his conquests.
-
-#### Equipment and Weaponry
-Fjordell soldiers likely use small and light spears that can be thrown. The common soldiers wear steel armour, most of them also carry swords. Derethi warrior monks wear red surcoats over their armour.
-
-#### Navy
-They are also wealthy enough to have a huge navy, large enough that they could beat Teod by sheer numbers. Most of these ships come from [[Svorden\|Svorden]]. Fjorden itself lacks any real maritime strength.
-
-## Culture
-### People
-Fjordell tend to have dark black hair and be very wide of build. Fjordell are also notably tall, some Fjordell can even rival the Teo when it comes to height.
-
-#### Sports and Games
-The Fjordell also spar using dueling blades. For these sparring matches they use a special type of sword called a [[Syre\|Syre]]. The Fjordell also presumably play a [[Svorden\|Svordish]] game called [[Leky stick\|Leky stick]].
-
-#### Social structure
-The Fjordell have a very strict social structure. The people are expected to obey the commands of their superiors, who obey others and so forth, until the chain reaches Wyrn, who is the only man allowed to serve Jaddeth directly. Fjordell will do anything to rise in ranks — ambition is the one emotion Jaddeth would accept as readily as devotion.
-
-#### Foods and drinks
-The Fjordell drink Garha, a caffeine rich drink. They probably eat [[Kike\|kike]], as it is found in the [[Sea of Fjorden\|Sea of Fjorden]].
-
-### Language
-Their language is called Fjordell; according to their doctrine, it's Jaddeth's own chosen tongue, and thus holy, while other languages are considered profane. The native Fjordell accent is thick and melodic.
-The language prefers guttural sounds. ‘U’ sounds, ‘F’ sounds, ‘H’ sounds, and ‘G’ sounds. It has a ‘Y’ sound in the form of a ‘J,’ and placed emphasis on the ‘Hr’ combination. From this language come names like Dilaf, Jaddeth (pronounced yah-death,) and Sycla. The Fjordell use Hruggath as an obscene oath in Fjordell this oath is often used with 'Ja,' the shortened, vulgar word for Jaddeth.
-
-### Religion
-For more information, see [[Shu-Dereth\|Shu-Dereth]].
->“*Lord Jaddeth can only return when all men are united beneath Fjordell rule.*”
-\-Hrathen to Dilaf[9]
+## Cultura
+  <<Hrathen\|Hrathen>>, un sacerdote-guerrero derethi
+### Religión y estructura social
+Para más información, ver [[Shu-Dereth\|Shu-Dereth]].
+>“*—El Señor Jaddeth solo puede venir cuando todos los hombres estén unidos bajo el dominio fjordell.*”
+\-Hrathen a Dilaf[23]
 
 
-Fjorden's religion is the [[Shu-Dereth\|Shu-Dereth]], founded by Dereth. Shu-Dereth interprets Keseg’s teachings to mean that all men must be united beneath the rule of one nation. Dereth taught that once all men bow before a single monarch, proving their unified nature, their god would come to live amongst them. Said god is [[Jaddeth\|Jaddeth]]; only one man can serve him directly.
-Though Dereth's ideas were originally rejected in his native [[JinDo\|JinDo]], they were embraced by the Fjordell. The founders of Shu-Dereth realized the power of the religion. They decided that if they could get the nations of the East to believe in a single religion – with that religion centered in Fjorden – they would have power equal to, or even greater than, the power of the Old Empire. At the same time, they wouldn’t have to worry about rebellion, or even bureaucracy. The people of the other nations would govern themselves, but would give devotion, loyalty, and money to Fjorden.
-Wyrn Wulfden the First converted, and so, therefore, did most of his people. Since that time, Shu-Dereth has been the official religion of Fjorden, and has spread to all of the eastern nations. Fjorden’s militaristic society stratified and organized Dereth’s teachings into an almost martial level.
-Strict and militaristic, the Fjordell live by the Shu-Dereth. Fjordell will do anything to rise in ranks — ambition is the one emotion Jaddeth would accept as readily as devotion. As per Shu-Dereth's basic tenets, only one man can serve Jaddeth directly, and so the religion is very regimented. Any believer serves the ones above them, who in turn serve their own master, and so on until it reaches Wyrn, who serves Jaddeth himself.
+La religión de Fjorden es el [[Shu-Dereth\|Shu-Dereth]], fundada por Dereth. Shu-Dereth interpreta las enseñanzas de Keseg en el sentido de que todos los hombres deben unirse bajo el gobierno de una nación. Dereth enseñó que una vez que todos los hombres se inclinaran ante un único monarca, demostrando su naturaleza unificada, su dios vendría a vivir entre ellos. Dicho dios es [[Jaddeth\|Jaddeth]]; sólo un hombre puede servirle directamente.
+Aunque las ideas de Dereth fueron rechazadas originalmente en su [[JinDo\|JinDo]] natal, fueron adoptadas por los fjordell. Los fundadores del Shu-Dereth se dieron cuenta del poder de la religión. Decidieron que si conseguían que las naciones del Este creyeran en una única religión -con esa religión centrada en Fjorden- tendrían un poder igual, o incluso mayor, que el del Antiguo Imperio. Al mismo tiempo, no tendrían que preocuparse por la rebelión, ni siquiera por la burocracia. Los pueblos de las otras naciones se gobernarían a sí mismos, pero darían devoción, lealtad y dinero a Fjorden.
+El Wyrn Wulfden I se convirtió, y así lo hizo la mayoría de su pueblo. Desde entonces, el Shu-Dereth ha sido la religión oficial de Fjorden, y se ha extendido a todas las naciones orientales. Su sociedad militarista estratificó y organizó las enseñanzas de Dereth a un nivel casi marcial.
+Estrictos y militaristas, los fjordell viven según el Shu-Dereth. Harán cualquier cosa por ascender de rango: la ambición es la única emoción que Jaddeth aceptaría tan fácilmente como la devoción. Según los principios básicos del Shu-Dereth, sólo un hombre puede servir directamente a Jaddeth, por lo que la religión está muy reglamentada. Cualquier creyente sirve a los que están por encima de él, que a su vez sirven a su propio maestro, y así sucesivamente hasta llegar al Wyrn, que sirve al propio Jaddeth.
 
-### Economy
-Fjorden is a rich country. It has strong trade with Teod and Arelon, as well as all of its current territories. It is wealthy enough to use money to control foreign politics, like the support from [[Telrii\|Telrii]] in Arelon. It is also infamously known for capitalizing on other nations' chaos.
-The Fjordell gold coin is called Wyrning. It is stamped with the profile of the Wyrn. The Fjordell make good wine, they also export these wines to other nations such as Arelon.
+### Gente y lengua
+Los fjordell suelen tener el pelo negro oscuro y una complexión muy ancha. Su lengua se llama fjordell; según su doctrina, es la lengua elegida por Jaddeth y, por tanto, sagrada, mientras que otras lenguas se consideran profanas. El acento nativo de los fjordell es marcado y melódico.
+La lengua prefiere los sonidos guturales. Sonidos 'U', 'F', 'H' y 'G'. Tiene un sonido 'Y' en forma de 'J', y pone énfasis en la combinación 'Hr'. De esta lengua proceden nombres como Dilaf, Jaddeth (pronunciado yah-death,) y Sycla.
 
-### Invested Art
-For more information, see [[Dakhor\|Dakhor]].
-The Fjordell have figured out their own way to access the [[Dor\|Dor]]. They do this via an art called [[Dakhor\|Dakhor]]. This art is known only to the Derethi priests of the Dakhor Monastery. It causes their bones to grow harder and twist into what are thought to be Fjordell symbols. These symbols grant the Dakhor priests various powers, most of them battle related.
+### Magia
+Para más información, ver [[Dakhor\|Dakhor]].
+Aunque nadie de ascendencia fjordell ni nadie que resida en Fjorden puede ser tomado por la Shaod, tienen su propio sistema mágico, el dakhor, conocido sólo por los sacerdotes derethi del monasterio homónimo. Hace que sus huesos se endurezcan y se retuerzan en lo que se cree que son símbolos fjordell. Estos otorgan a los sacerdotes dakhor diversos poderes, la mayoría de ellos relacionados con la batalla.
 
-## History
-For centuries, the Fjordell working class lived and died under a feudal system that treated them worse than farm animals. They did not rebel, as they were raised to it, and to them, the feudal system was the only system.
-The original state reigning over Fjorden was the Old Empire, also known as the First Empire. Over three hundred years ago, it nearly conquered all of Opelon—only Arelon, with the help of Elantrian magic, stood against it. Eventually, the Old Empire fell because of administrative problems—it conquered more than it could hold.
-About three hundred years ago, Wyrn Wulfden the First converted to the Derethi religion, and within a generation all of Fjorden had done likewise. Thus, Fjorden was reborn -- this time, as a theocracy. For the next three hundred years, the Wyrns have been blatantly altering their country’s own histories and literature to make it seem as if the empire has always been a manifestation of divine purpose. Poetry and lives of kings were all rewritten to remove any outdated references - after all, they couldn't have it sounding like their greatest historical king was a pagan.
-Over the past three centuries, the Wyrns have used their new theocratic power to expand and spread, conquering numerous surrounding states by the means of religious conversion. By the time of the [[Reod\|Reod]], the Wyrns were more powerful than even at the height of the Old Empire's power.
-After the Reod and the subsequent fall of Elantris, Fjorden started pushing the boundaries of its influence again, this time instigating the collapse of the [[Duladel\|Duladel]] Republic.  This was successful, albeit bloody, and after Duladel's fall, Fjorden once more set its sights on [[Arelon\|Arelon]], as well as their ally, [[Teod\|Teod]].
-They began by sending [[Hrathen\|Hrathen]] to attempt to convert Arelon to [[Shu-Dereth\|Shu-Dereth]], and thus make it submit to Fjorden. Should this prove impossible within three months, Fjorden would send armies to destroy every living being in Arelon's cities. They also lent financial support to [[Telrii\|Telrii]], an Arelene follower of Shu-Derethi who wanted to take the Arelene throne, and sank King [[Iadon\|Iadon's]] merchant fleets.
-In Teod, in turn, they forced king [[Eventeo\|Eventeo]] to convert under threat of invasion, and removed the Teod ambassadors in Arelon. Finally, they threatened to kill Eventeo's daughter, [[Sarene\|Sarene]].
-Their plans fell through when [[Elantris (city)\|Elantris]] was restored, and the Elantrians recovered their power. During the restoration, the Fjordell were cast out of Arelon, and later out of Teod as well.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] ·  · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
 
-https://coppermind.net/wiki/Fjorden
+https://es.coppermind.net/wiki/Fjorden

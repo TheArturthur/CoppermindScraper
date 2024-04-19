@@ -1,23 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Morriumur**|
 |-|-|
-|by  Jill Andersen |
-|**Titles**|Callsign: Complains|
-|**Profession**|Superiority pilots|
-|**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
-|**Species**|[[Dione\|Dione]]|
-|**Homeworld**|[[Starsight (station)\|Starsight (space station)]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Títulos**|Identificador: Quejica|
+|**Oficio**|Piloto de la Supremacía|
+|**Grupo**|[[El %C3%9Altimo Beso de las Flores Nocturnas\|El Último Beso de las Flores Nocturnas]]|
+|**Especie**|[[Dione\|Dione]]|
+|**Mundo natal**|[[Visi%C3%B3n Estelar\|Estación Visión Estelar]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Starsight* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-**Morriumur** is a [[Dione\|dione]] who lives on [[Starsight (station)\|Starsight]]. They are a draft and have only been alive for a few months. They join the Starsight Fleet to try and prove that their aggressive nature can be of benefit to their family.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]* y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-## Appearance and Personality
-Morriumur is two months old with their face split down the center, the right being a crimson color while the left is a blue shade. Because they are a dione, they are expected to be non-aggressive, but the current draft of their personality is very aggressive by dione standards. They feel that they have to prove themself and fear being re-drafted because they do not wish to forget their friends. They were given their callsign, Complains, by [[Spensa\|Spensa]], but instead are just called by their name.
+**Morriumur** es un [[Dione\|dione]] que vive en [[Visi%C3%B3n Estelar\|Visión Estelar]]. Es un croquis y sólo lleva unos meses con vida. Se une a la Flota de Visión Estelar para intentar demostrar que su naturaleza agresiva puede ser beneficiosa para su familia.
 
-## Attributes and Abilities
-Morriumur is a draft, and because of their dual-minded nature they are immune to the hallucinations of a [[Delver\|delver's]] maze.
+## Apariencia y personalidad
+Morriumur tiene dos meses de vida y la cara dividida por el centro, siendo la derecha de color carmesí mientras que la izquierda es de un tono azulado. Debido a que es dione, se espera que no sea agresive, pero el croquis actual de su personalidad es muy agresive para los estándares dione. Siente que tiene que demostrar su valía y teme que vuelvan a rehacer el croquis porque no quiere olvidar a sus amigos. Recibie su identificador, Quejica, de [[Spensa\|Spensa]], pero en su lugar se le llama simplemente por su nombre.
+
+## Atributos y habilidades
+Morriumur es un croquis, y debido a su naturaleza de mente dual e inmune a las alucinaciones del laberinto de un [[Zapador\|zapador]].
+
+## Notas
+
+Este artículo es muy corto. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] ·  · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Morriumur
+https://es.coppermind.net/wiki/Morriumur

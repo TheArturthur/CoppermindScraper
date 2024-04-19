@@ -1,24 +1,44 @@
-|**Davar Soulcaster**|
+
+
+|**Moldeador de almas Davar**|
 |-|-|
-|**Type**|Fabrial|
-|**Owners**|[[Lin Davar\|Lin Davar]], [[Ghostbloods\|Ghostbloods]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Tipo**|Fabrial|
+|**Propietarios**|[[Lin Davar\|Lin Davar]], [[Sangre Espectral\|Sangre Espectral]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
-The **Davar Soulcaster** is a [[Soulcasting\|Soulcasting]] [[Fabrial\|fabrial]] formerly in the possession of [[House Davar\|House Davar]].
-The provenance of the Soulcaster is unknown, but it was considered illicit in [[Jah Keved\|Jah Keved]] since it was presumed to be stolen from [[Alethkar\|Alethkar]]. It was loaned to [[Lin Davar\|Lin Davar]] by [[Luesh\|Luesh]] or one of his [[Ghostblood\|Ghostblood]] associates circa 1172.
+El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
+El **moldeador de almas Davar** es un [[Fabrial\|fabrial]] [[Moldear almas\|moldeador]] en posesión antiguamente de la [[Casa Davar\|casa Davar]].
+Se desconoce la procedencia del moldeador de almas, pero se consideraba ilícito en [[Jah Keved\|Jah Keved]] ya que se presumía que había sido robado de [[Alezkar\|Alezkar]]. Fue prestado a [[Lin Davar\|Lin Davar]] por [[Luesh\|Luesh]] o uno de sus asociados [[Sangre Espectral\|Sangre Espectral]] alrededor de 1172.
 
-## Appearance and Function
-It is similar in appearance to other Soulcasting fabrials; it is worn on the wrist with two rings, a bracelet, and chains that loop around the fingers and connect a triangular setting for three gemstones. At least one of the gemstones is a smokestone and it likely that it also has a topaz since the fabrial would have been attuned to the [[Ten Essences\|Essence]] of Talus in order to create marble, jade, and opal deposits. It looks exactly like [[Jasnah's Soulcaster\|Jasnah's "Soulcaster"]], although the gemstones are not quite as large. After the Davar Soulcaster was damaged, one of the chains and one of the stone settings were expertly repaired, but the device no longer functioned and the gemstones were removed.
+## Apariencia y función
+Su aspecto es similar al de otros fabriales moldeadores; se lleva en la muñeca con dos anillos, un brazalete y cadenas que hacen un bucle alrededor de los dedos y conectan un engaste triangular para tres gemas. Al menos una de las gemas es un cuarzo ahumado y es probable que también tenga un topacio ya que el fabrial habría estado en sintonía con la [[Diez Esencias\|esencia]] de astrágalo para crear depósitos de mármol, jade y ópalo. Es exactamente igual que el [[Moldeador de almas de Jasnah\|"moldeador de almas" de Jasnah]], aunque las gemas no son tan grandes. Después de que este fuera dañado, una de las cadenas y uno de los engastes de las piedras fueron reparados por expertos, pero el dispositivo dejó de funcionar y las gemas fueron retiradas.
 
-## History
-After Luesh joined the Davar household as its steward, he worked with Lin and a surveyor to "discover" valuable new mineral deposits on Davar lands, returning the family to prominence after it had nearly gone bankrupt. In fact, Luesh was trained in using the Soulcaster to create marble and other minerals. He declined to show anyone else how to use it. The Ghostbloods were presumably putting Lin in their debt with the hopes that he could supplant [[Valam\|Valam]] as [[Highprince\|highprince]].
-Despite the wealth provided by the mineral deposits, Lin continued his slide into violence and instability, and the Soulcaster was damaged in a brutal fight between Lin and his son [[Balat\|Balat]]. After Lin died, his children found the Soulcaster and some strange maps.
-The Davar children tried to hide Lin's death, but it quickly became clear that they would go broke without a working Soulcaster. Shallan and her brothers came up with a plan for Shallan to switch their Soulcaster out with one known to be in Jasnah Kholin's possession. After Shallan left for [[Kharbranth\|Kharbranth]], Luesh died mysteriously, and a few weeks later a group of Ghostbloods visited House Davar asking for their Soulcaster back. Shallan hoped to take Jasnah's fabrial, somehow use it to create more minerals, and then give it to the Ghostbloods to replace the one that was broken.
-Shallan traveled to Kharbranth, was taken on as Jasnah's ward, and managed to swap the broken Soulcaster with Jasnah's. Jasnah wore the Davar Soulcaster for some time, not realizing it was broken since her own Soulcaster was a decoy. Shallan eventually revealed to Jasnah that she had swapped the fabrials after she was poisoned by the ardent [[Kabsal\|Kabsal]]. After Jasnah was able to save her anyway, Shallan finally realized that both she and Jasnah could manipulate the [[Surge\|Surge]] of [[Transformation\|Transformation]] and didn't need the fabrials at all.
-Jasnah told Shallan that [[Navani\|Navani]] might be able to fully repair the Davar Soulcaster. However, Shallan lost it to the ocean during the sinking of the *Wind's Pleasure*.
+## Historia
+Después de que Luesh se uniera a la casa de los Davar como su mayordomo, trabajó con Lin y un topógrafo para "descubrir" nuevos y valiosos depósitos de minerales en las tierras de los Davar, devolviendo a la familia a la prosperidad después de haber estado a punto de caer en la bancarrota. De hecho, Luesh se formó en el uso del moldeador de almas para crear mármol y otros minerales. Se negó a mostrar a nadie más cómo usarlo. Es de suponer que los Sangre Espectral endeudaron a Lin con la esperanza de que pudiera suplantar a [[Valam\|Valam]] como alto príncipe.
+A pesar de la riqueza proporcionada por los depósitos de minerales, Lin continuó su caída en la violencia y la inestabilidad, y el moldeador fue dañado en una brutal pelea entre Lin y su hijo [[Balat\|Balat]]. Tras la muerte de Lin, sus hijos encontraron el moldeador y unos extraños mapas.
+Los hijos Davar trataron de ocultar la muerte de Lin, pero pronto quedó claro que se arruinarían sin un moldeador de almas que funcionara. Shallan y sus hermanos idearon un plan para que Shallan cambiara el suyo por uno que se sabía que estaba en posesión de Jasnah Kholin. Después de que Shallan se marchara a [[Kharbranth\|Kharbranth]], Luesh murió misteriosamente y unas semanas después un grupo de Sangre Espectral visitó la casa Davar pidiendo que les devolvieran su moldeador de almas. Shallan esperaba llevarse el fabrial de Jasnah, utilizarlo de algún modo para crear más minerales y dárselo a los Sangre Espectral para que sustituyeran el que se había roto.
+Shallan viajó a Kharbranth, fue tomada como pupila de Jasnah y consiguió cambiar el moldeador roto por el de Jasnah. Jasnah lo usó durante algún tiempo, sin darse cuenta de que estaba roto ya que su propio moldeador era un señuelo. Shallan acabó revelando a Jasnah que había intercambiado los fabriales tras ser envenenada por el fervoroso [[Kabsal\|Kabsal]]. Después de que Jasnah lograra salvarla de todos modos, Shallan finalmente se dio cuenta de que tanto ella como Jasnah podían manipular la [[Potencia\|Potencia]] de [[Transformaci%C3%B3n\|Transformación]] y no necesitaban los fabriales en absoluto.
+Jasnah le dijo a Shallan que [[Navani\|Navani]] podría ser capaz de reparar completamente el moldeador de almas de los Davar. Sin embargo, Shallan lo perdió en el océano durante el hundimiento del *[[Placer del Viento\|Placer del Viento]]*.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 22:43, 2 de Octubre de 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Davar_Soulcaster
+https://es.coppermind.net/wiki/Davar_Soulcaster

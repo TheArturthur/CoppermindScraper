@@ -1,43 +1,61 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Bila**|
 |-|-|
-|**Family**|
-|**Spouse**|[[Thude\|Thude]]|
-|**Species**|[[Singer\|Singer]]|
-|**Nationality**|[[Listener\|Listener]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Words of Radiance*|
+|**Familia**|
+|**Cónyuge**|[[Thude\|Thude]]|
+|**Especie**|[[Cantor\|Cantor]]|
+|**Nacionalidad**|[[Oyente\|Oyente]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Who cares? If the gods would help us kill those armies out there, then I'd swear to them right now.*”
-\-Bila to Eshonai[1]
-
-
-**Bila** is a [[Parshendi\|Parshendi]] warrior in [[Narak\|Narak]] on [[Roshar\|Roshar]]. She is [[Thude\|Thude's]] mate for two weeks and is later part of a warpair with him under the command of [[Eshonai\|Eshonai]], in her personal division.
-
-## Contents
-
-1 History
-2 Relationships
-
-2.1 Thude
-2.2 Eshonai
+>“*¿A quién le importa? Si los dioses nos ayudaran a matar a esos ejércitos de ahí fuera, les juraría fidelidad ahora mismo.*”
+\-Bila a Eshonai[1]
 
 
-3 Notes
+**Bila** es una guerrera [[Parshendi\|parshendi]] en [[Narak\|Narak]] en [[Roshar\|Roshar]]. Es la compañera de [[Thude\|Thude]] durante dos semanas y después parte de una pareja de guerra a las órdenes de [[Eshonai\|Eshonai]], en su división personal.
+
+## Sumario
+
+1 Historia. [[#Historia]] 
+2 Relaciones. [[#Relaciones]] 
+
+2. [[#Thude]] 
+2. [[#Eshonai]] 
 
 
-## History
-During the time when the listeners only had three forms to choose from, [[Thude\|Thude]] asked Bila to take [[Mateform\|mateform]] with him, and she agreed.
-Later, during the [[War of Reckoning\|War of Reckoning]], [[Venli\|Venli]] brought to the [[Council of Five\|Council of Five]] a [[Gemstone\|gemstone]] containing a captured [[Stormspren\|stormspren]]. [[Eshonai\|Eshonai]] then showed it to Thude and Bila, the latter of whom was skeptical and did not care about it unless it could help her to kill the [[Alethi\|Alethi]]. When Eshonai chastised her for her lack of concern over the connection between the ancient powers and their old gods, Bila almost reached the point of insubordination before Thude intervened by offering food.
-When the time came for the listeners to take the new [[Stormform\|form]], Bila and all of the rest of the soldiers agreed to do so. However, Thude expressed reservations to Eshonai about the way she was seizing control of the listeners. She gave permission to Thude to guard the group of dissenters, so he gathered Bila and the rest of Eshonai's old division to take charge of them. Not long after they took command of the dissenters, though, the whole group escaped into the chasms and fled [[Narak\|Narak]].
+3 Notas. [[#Notas]] 
 
-## Relationships
+
+## Historia
+Durante el tiempo en que los oyentes solo podían elegir entre tres formas, [[Thude\|Thude]] pidió a Bila tomar la [[Forma carnal\|forma carnal]] con él, y ella accedió.
+Más tarde, durante la [[Guerra de la Venganza\|Guerra de la Venganza]], [[Venli\|Venli]] llevó al [[Consejo de los Cinco\|Consejo de los Cinco]] una [[Gema\|gema]] que contenía un [[Tormentaspren\|tormentaspren]] capturado. [[Eshonai\|Eshonai]] entonces se la mostró a Thude y Bila, siendo esta última escéptica y no dándole importancia a no ser que la ayudase a matar [[Alezi\|alezi]]. Cuando Eshonai la reprendió por su falta de preocupación por la conexión entre los antiguos poderes y sus viejos dioses, Bila casi llegó al punto de la insubordinación hasta que Thude intervino ofreciéndole comida.
+Cuando llegó el momento de que los oyentes tomaran la nueva , Bila y el resto de soldados estuvieron de acuerdo en hacerlo. Sin embargo, Thude expresó sus reservas a Eshonai sobre la forma en que estaba tomando control sobre los oyentes. Ella le dio permiso a Thude para vigilar al grupo de disidentes, así que él reunió a Bila y al resto de la antigua división de Eshonai para encargarse de ellos. No mucho después de que pusieran a los disidentes bajo sus órdenes, no obstante, el grupo al completo escapó a los abismos y huyó de [[Narak\|Narak]].
+
+## Relaciones
 ### Thude
-Bila and [[Thude\|Thude]] enjoy a close relationship because of the two week time period they spend together in [[Mateform\|mateform]]; after that, they also fight as a warpair while in [[Warform\|warform]]. Although Bila is at first a proponent of [[Stormform\|stormform]], she presumably agrees with Thude in the end about the form's dangers and agrees to flee Narak with the group of those who refuse to take a form of power.
+Bila y [[Thude\|Thude]] gozan de una relación cercana debido a las dos semanas que pasaron juntos en [[Forma carnal\|forma carnal]]; tras eso, también combatieron como pareja de guerra en [[Forma de guerra\|forma de guerra]]. Aunque Bila es una de las primeras propuestas para la [[Forma tormenta\|forma tormenta]], presumiblemente está de acuerdo con Thude al final sobre los peligros de la forma y en huir de Narak con el grupo de aquellos que se niegan a adquirir la forma de poder.
 
 ### Eshonai
-When [[Eshonai\|Eshonai]] shows Bila the captured stormspren, she notes that Bila does not care about her people's origins or the origin of the power this new form promises; she is focused only on the war with the Alethi. This frightens Eshonai, who knows there are others who think the same way, discounting the danger of the solution in the face of the immediate threat posed by the humans.
+Cuando [[Eshonai\|Eshonai]] muestra a Bila el tormentaspren capturado, nota que a Bila no le importan los orígenes de su pueblo o el origen del poder que esta nueva forma promete; está concentrada solo en la guerra con los alezi. Esto asusta a Eshonai, que sabe que hay otros que piensan de la misma manera, menos preciando el peligro de la solución frente a la amenaza inmediata que suponen los humanos.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 02:36, 27 June 2022 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Bila
+https://es.coppermind.net/wiki/Bila

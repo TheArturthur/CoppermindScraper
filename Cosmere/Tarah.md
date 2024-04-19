@@ -1,51 +1,72 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tarah**|
 |-|-|
-|by  Elizabeth Branstetter |
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Oathbringer*|
+||
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Maybe someday you’ll learn how to be there for the living, not just for the dead.*”
 \-Tarah's last words to Kaladin[1]
 
 
-**Tarah** is a [[Darkeyed\|darkeyed]] [[Alethi\|Alethi]] woman on [[Roshar\|Roshar]]. She once was in a relationship with [[Kaladin\|Kaladin]].
+**Tarah** es una mujer [[Ojos oscuros\|ojos oscuros]] [[Alezi\|alezi]] de [[Roshar\|Roshar]] que mantuvo una relación sentimental con [[Kaladin\|Kaladin]] durante un tiempo.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
 
-3.1 Kaladin
-
-
-4 Notes
+3. [[#Kaladin]] 
 
 
-## Appearance and Personality
- by  Vaigerika  Tarah and [[Kaladin\|Kaladin]] in [[Amaram\|Amaram's]] army
+4 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+  Tarah y <<Kaladin\|Kaladin>> en el ejercito de <<Amaram\|Amaram>>
 >“*...Tarah's beauty was a subtle thing. Like an uncut gemstone. The more you saw of it--the more you discovered of its natural facets—the more you loved it. Until one day it struck you that you’d never known anything as wonderful.*”
-\-Kaladin describing Tarah[1]
+\-Kaladin describiendo a Tarah[1]
 
 
-Tarah has black hair, a round face, smooth hands, and is slightly plump. She prefers dresses of an old-fashioned [[Thaylen\|Thaylen]] style, and usually wears a shirt in a bright color. Kaladin recalls that she smells of starched uniforms, new leather, and other clean things.
-She is reluctant to trust anything she hasn't personally requisitioned, and knows how to squeeze the most out of her spheres. Due to her profession, she is knowledgeable about weapons and comfortable around the fanciful attentions of young men.
+Tarah tiene el pelo negro, una cara redondeada, manos suaves y está un poco rellenita. Prefiere los vestidos con el estilo de una antigua moda [[Thaylen\|thayleña]] y normalmente lleva camisas de colores vivos. Kaladin recuerda que huele a uniformes almidonados, cuero nuevo y otras cosas limpias.
+Es reacia a confiar en cualquier cosa que no haya solicitado ella personalmente y sabe cómo sacar el máximo provecho a sus esferas. Por su profesión, tiene conocimientos sobre armas y se siente cómoda ante las atenciones de los hombres jóvenes.
 
-## History
+## Historia
 >“*What would have happened to him, if Tarah hadn’t coaxed him out of his single-minded dedication? Would he have burned himself out, as she’d claimed?*”
-\-Kaladin recalling Tarah's influence[2]
+\-Kaladin recordando la influencia de Tarah[2]
 
 
-Tarah's father worked as an assistant quartermaster in [[Meridas Amaram\|Meridas Amaram's]] army, and thus she helped her father with his job. She encountered [[Kaladin\|Kaladin]] after the young man had begun making a name for himself as a squad leader. One of her tasks was to outfit new recruits, which enabled her to keep Kaladin informed of young boys among the so-called greenvines who needed his protection.
-During their time together in Amaram's army Tarah was in a relationship with Kaladin, but after a while she was transferred to [[Mourn's Vault\|Mourn's Vault]] where she was offered a scribe's job. She saw this as a good opportunity for herself, and in addition felt obligated to accept so that her father could join her there rather than be shipped to the [[Shattered Plains\|Shattered Plains]]. After her departure she wrote two letters to Kaladin, but he never wrote back.. She is still alive.
+El padre de Tarah trabajaba como ayudante de intendencia en el ejército de [[Meridas Amaram\|Meridas Amaram]] y ella le ayudaba con su trabajo. Se topó con [[Kaladin\|Kaladin]] cuando el chico empezaba a hacerse un nombre como líder de su pelotón. Una de sus tareas era equipar a los nuevos reclutas, lo que le permitía mantener informado a Kaladin sobre los chicos jóvenes entre los novatos que necesitaban su protección.
+Durante el tiempo que pasaron juntos en el ejército de Amaram, Tarah mantuvo una relación sentimental con Kaladin, pero después de poco tiempo la trasladaron a [[Cripta de la Pena\|Cripta de la Pena]], donde le ofrecieron un trabajo como escriba. Ella vio esto como una oportunidad para sí misma, y además se sintió obligada a aceptar para que su padre pudiera ir con ella en lugar de ser enviado a las [[Llanuras Quebradas\|Llanuras Quebradas]]. Tras su partida, escribió dos cartas a Kaladin, pero él nunca respondió. Tarah sigue viva.
 
-## Relationships
- by  botanicaxu  With [[Kaladin\|Kaladin]]
+## Relaciones
+  Con <<Kaladin\|Kaladin>>
 ### Kaladin
-Tarah is concerned about [[Kaladin\|Kaladin]] because of his grief for losing [[Tien\|Tien]], and coaxes him out of his single-minded determination in training on the spear due to his guilt over his brother's death. She claims that it will burn him out. She hopes Kaladin will someday learn "how to be there for the living, not just for the dead." Kaladin regrets the way things went with Tarah a few years later, considering the ruin of their relationship a failure on his part.
+Tarah está preocupada por el dolor que siente [[Kaladin\|Kaladin]] tras la pérdida de [[Tien\|Tien]] y lo convence para que abandone su obsesión de entrenar con la lanza debida a la culpa que siente por la muerte de su hermano. Ella asegura que eso lo consumirá. Tarah espera que algún día Kaladin aprenda a "estar presente para los vivos, no solo para los muertos". Años más tarde, Kaladin se arrepiente de como salieron las cosas con Tarah, considerando el fin de su relación un fracaso por su parte.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Jofwu (talk) 20:04, 28 August 2018 (MST)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Tarah
+https://es.coppermind.net/wiki/Tarah

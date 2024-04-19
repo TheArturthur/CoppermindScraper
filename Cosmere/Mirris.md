@@ -1,32 +1,44 @@
+
+
 |**Mirris**|
 |-|-|
-|**Abilities**|Mental shielding|
-|**Bonded With**|[[Vathi\|Vathi]]|
-|**Species**|Aviar (Streamer)|
-|**Homeworld**|[[First of the Sun\|First of the Sun]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Sixth of the Dusk*|
+|**Capacidades**|Blindaje mental|
+|**Vinculado con**|[[Vathi\|Vathi]]|
+|**Especie**|Aviar (arroyal)|
+|**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mirris** is an [[Aviar\|Aviar]] on [[First of the Sun\|First of the Sun]]. She is owned by [[Vathi\|Vathi]].
+**Mirris** es una [[Aviar\|aviar]] en [[Primero del Sol\|Primero del Sol]]. Es propiedad de [[Vathi\|Vathi]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Notes
-
-
-## Appearance and Personality
-Mirris is about three fists tall, like most Aviar. She has subdued white and green plumage, and [[Sixth of the Dusk\|Sixth of the Dusk]] refers to her breed as a "streamer". Streamers are native to some islands of the [[Pantheon\|Pantheon]], although [[Patji (island)\|Patji]] is not one of them. Mirris seems reserved towards strangers, and hisses at both Dusk and [[Kokerlii\|Kokerlii]]. Vathi sometimes comforts her by making clicking sounds.
-
-## Attributes and Abilities
-For more information, see [[Aviar\|Aviar]].
-Mirris is Vathi's only Aviar and the two are bonded; Vathi is surprised to learn that a human can bond multiple Aviar. Like Kokerlii, Mirris's Aviar "talent" is the ability to conceal mental activity in her immediate vicinity. This ability allows Vathi to evade the many predators on Patji that hunt by sensing thoughts. It is likely that Mirris would also be able to conceal the use of some forms of [[Investiture\|Investiture]]. Her wings are not clipped.
-
-## History
-Vathi worked for the [[Northern Interests Trading Company\|Northern Interests Trading Company]] and brought Mirris with her on an expedition to Patji. The two joined a scout team searching for a site to place a fortress, but despite Mirris's presence, a [[Deepwalker\|deepwalker]] destroyed the rest of the team. Vathi subsequently decided that she must find a [[Trapper\|trapper]] to have any chance of survival and she and Mirris headed into the jungle. Mirris was injured when she and Vathi fell after a "monster" attacked them; Vathi ended up caught in a [[Jellywire\|jellywire]] net. Dusk found them and was pleased to note that Vathi knew how to apply some first aid to Mirris. However, Dusk believed that Mirris's wing was broken and brought the pair back to his safecamp, where he cleaned Mirris's wound, wrapped her wings to prevent flight, and placed her with his other Aviar to calm her down. Because of her injury, Mirris remained in the safecamp when Dusk and Vathi left in order to investigate the Company's activities.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Mirris mide unos tres puños de alto, como la mayoría de los aviares. Tiene un plumaje blanco y verde tenue, y [[Sexto del Ocaso\|Sexto del Ocaso]] se refiere a su raza como "arroyal". Son nativos de algunas islas del [[Pante%C3%B3n\|Panteón]], aunque [[Patji (isla)\|Patji]] no es una de ellas. Mirris parece reservada con los extraños, y silba tanto a Ocaso como a [[Kokerlii\|Kokerlii]]. A veces, Vathi la consuela haciendo chasquidos.
 
-https://coppermind.net/wiki/Mirris
+## Atributos y habilidades
+Para más información, ver [[Aviar\|Aviar]].
+Mirris es la única aviar de Vathi y ambas están vinculadas; Vathi se sorprende al saber que un humano puede vincular a varios aviares. Al igual que Kokerlii, el "talento" aviar de Mirris es la capacidad de ocultar la actividad mental en su entorno inmediato. Esta habilidad permite a Vathi eludir a los numerosos depredadores de Patji que cazan percibiendo los pensamientos. Es probable que Mirris también pueda ocultar el uso de algunas formas de [[Investidura\|Investidura]]. Sus alas no están cortadas.
+
+## Historia
+Vathi trabajaba para la [[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] y llevó a Mirris con ella en una expedición a Patji. Las dos se unieron a un equipo de exploradores que buscaba un lugar para colocar una fortaleza, pero a pesar de la presencia de Mirris, un [[Recorrefondos\|recorrefondos]] destruyó al resto del equipo. Posteriormente, Vathi decidió que debía encontrar a un [[Trampero\|trampero]] para tener alguna posibilidad de sobrevivir y ella y Mirris se adentraron en la jungla. Mirris resultó herida cuando ella y Vathi cayeron después de que un «monstruo» las atacara; Vathi acabó atrapada en una red de [[Enredadera gelatinosa\|enredaderas gelatinosas]]. Ocaso las encontró y se alegró al comprobar que Vathi sabía aplicar algunos primeros auxilios a Mirris. Sin embargo, creyó que tenía el ala rota y se llevó a la pareja a su campamento franco, donde limpió la herida de Mirris, le envolvió las alas para evitar que volara y la colocó con sus otros aviares para calmarla. Debido a su herida, Mirris permaneció en el campamento franco cuando Ocaso y Vathi se marcharon para investigar las actividades de la Compañía.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 21:16, 7 de mayo de 2020 (UTC)
+|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
+|-|-|
+|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
+|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[/wiki/Primero del Sol#Continente]]|
+|**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
+|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
+
+
+
+https://es.coppermind.net/wiki/Mirris

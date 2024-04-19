@@ -1,108 +1,139 @@
+
+
 |**Leras**|
 |-|-|
-|by  Matthew Johnson |
-|**Died**|1025 [[Final Empire\|FE]]|
-|**Abilities**|[[Shard\|Shard]] of [[Preservation\|Preservation]]|
-|**Titles**|[[Preservation\|Preservation]]|
-|**Aliases**|Mist Spirit, Fuzz, Terr, Frue|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]|
-|**Homeworld**|[[Yolen\|Yolen]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Well of Ascension*|
+||
+|**Fallecido**|1025 [[Imperio Final\|IF]]|
+|**Capacidades**|[[Esquirla\|Esquirla]] [[Conservaci%C3%B3n\|Conservación]]|
+|**Títulos**|[[Conservaci%C3%B3n\|Conservación]]|
+|**Apodos**|Espíritu de bruma, Borrón, Terr, Frue|
+|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Fortunately, before I died, I put a plan into motion. I can't remember it, but I’m certain that it was brilliant.*”
-\-Leras[4]
-
-
-**Leras** is the first [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Preservation\|Preservation]], originally from [[Yolen\|Yolen]]. Along with [[Ati\|Ati]], the Vessel of [[Ruin\|Ruin]], he created [[Scadrial\|Scadrial]], although he later betrayed Ati and imprisoned him in the [[Well of Ascension\|Well of Ascension]], at the cost of his own life. He is nicknamed **Fuzz** by [[Kelsier\|Kelsier]].
-
-## Contents
-
-1 Appearance and Personality
-
-1.1 Appearance
-1.2 Personality
+>“*Sí. Por suerte, antes de morir, puse en marcha un plan. No me acuerdo de él, pero estoy seguro de que era espléndido.*”
+\-Leras.[4]
 
 
-2 Attributes and Ability
-3 History
-4 Relationships
+**Leras** es el primer Recipiente de la [[Esquirla\|Esquirla]] [[Conservaci%C3%B3n\|Conservación]], originario de [[Yolen\|Yolen]]. Junto con [[Ati\|Ati]], el Recipiente de [[Ruina\|Ruina]], creó [[Scadrial\|Scadrial]], aunque posteriormente traicionó a Ati y lo encarceló en el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]], a costa de su propia vida. Es apodado **Borrón** por [[Kelsier\|Kelsier]].
 
-4.1 Ati
-4.2 Kelsier
-4.3 Hoid
-4.4 Senna
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 
-5 Trivia
-6 Notes
+1. [[#Apariencia]] 
+1. [[#Personalidad]] 
 
 
-## Appearance and Personality
- by  FelCandy 
-### Appearance
-For more images, see [[Leras/Gallery\|/Gallery]].
-Leras is a short man with black hair and a prominent nose. In [[Cognitive Realm\|Cognitive Realm]], he appears wearing a thin wool coat that reaches almost to his feet, as well as a laced tunic with a conical skirt at the bottom, tied by a belt holding a [[Leras' knife\|knife]] with a handle of bone. As his final death approaches, his form begins to unravel, and parts of him begin to fall apart into mist. At a certain point, half of his face is missing, replaced by fading white smoke, with holes in other parts of his body and clothing. This does not impact his ability to speak or perceive his environment. Occasionally, his silhouette will fully unfold, revealing a skeleton beneath. Looking into this form's eyes while holding any power allows one to perceive the full nature of Preservation -- an expanse of infinity, frozen still in a single moment.
-When appearing in the physical realm, Leras takes the form of the [[Mist\|mist]] spirit; a silhouette outlined in [[Scadrial\|Scadrial's]] omnipresent mists. Though roughly humanoid, he is difficult to distinguish from the fog, at least until he starts moving. He cannot speak in this form, but he can move around and point, as well as interact with objects in a limited capacity.
+2 Habilidades y atributos. [[#Habilidades y atributos]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Ati]] 
+4. [[#Kelsier]] 
+4. [[#Hoid]] 
+4. [[#Senna]] 
 
 
-### Personality
- by  Elisgardor 
->“*The hearts of men are NOT YOUR TOYS.*”
-\-Leras to Kelsier[9]
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-When he is cognizant, Leras is often sarcastic and sardonic. He gets easily excited over things he adores, like the [[Lord Ruler\|Lord Ruler]], and will often pace when thinking, full of energy. He likes people who accomplish the impossible, especially when it involves their own survival. He was once able to be cunning, and even deceitful, when needed, but seems to have lost this capacity over time.
-Leras has a strong sense of duty towards Scadrial and its people, and continues to maintain his appointed tasks, such as welcoming the recently-deceased, even as he is dying. He treats his divinity seriously, and attempts to impart this seriousness upon others. The same means he dislikes being mocked, and is highly offended when suggested to act in a way opposing to his intent. He can also get incensed when people do not follow their roles, and gets angry when his function as Scadrial's god is questioned or usurped.
-As he is dying, Leras is often unfocused and has difficulties thinking and remembering, or even participating in an ongoing conversation. His abilities in this regard increase somewhat when he starts regularly interacting with [[Kelsier\|Kelsier]], and by his death, he is able to communicate coherently, though it's uncertain if his memories ever fully returned to him before his passing.
+## Apariencia y personalidad
+ 
+### Apariencia
+Para más imágenes, ver [[Leras/Galer%C3%ADa\|/Galería]].
+Leras es un hombre de baja estatura, con pelo negro y nariz prominente. En el [[Reino Cognitivo\|Reino Cognitivo]], aparece vistiendo un fino abrigo de lana que le llega casi a los pies, así como una túnica de encaje con una falda cónica en la parte inferior, atada por un cinturón que sostiene un [[Cuchillo de Leras\|cuchillo]] con mango de hueso. A medida que se acerca su muerte final, su forma comienza a deshacerse, y partes de él empiezan a disolverse en la niebla. En un momento dado, la mitad de su cara desaparece, sustituida por un humo blanco que se desvanece, con agujeros en otras partes de su cuerpo y en su ropa. Esto no afecta a su capacidad de hablar o percibir su entorno. Ocasionalmente, su silueta se deshilacha completamente, revelando un esqueleto debajo. Mirar a los ojos de esta forma mientras se tiene cualquier poder permite percibir la naturaleza completa de Conservación; una extensión del infinito, congelada en un solo momento.
+Cuando aparece en el Reino Físico, Leras adopta la forma del espíritu de la [[Brumas\|bruma]]; una silueta perfilada en las omnipresentes brumas de Scadrial. Aunque es más o menos humanoide, es difícil de distinguir de la niebla, al menos hasta que empieza a moverse. No puede hablar en esta forma, pero puede moverse y señalar, así como interactuar con los objetos de forma limitada.
 
-## Attributes and Ability
->“*Yes, there was a plan. I . . . remember I had a plan. When I was smarter . . .*”
-\-Leras[11]
-
-
- by  Leras's death
-Leras is a [[Vessel\|Vessel]] of a [[Shard\|Shard]]; as such, he is unaging, nigh-omniscient within his sphere of influence, and lacking a distinct form in the [[Physical Realm\|Physical Realm]] -- his physical body is stored somewhere else, and reappears on [[Scadrial\|Scadrial]] upon his death. During the events immediately before the [[Catacendre\|Catacendre]] he is, however, functionally dead, having been mortally wounded and dying for millennia. As such, he is slowly unraveling. He lacks significant fragments of his memories, has trouble focusing, and is only lucid for short periods of time. He has trouble keeping a humanoid appearance even in the [[Cognitive Realm\|Cognitive Realm]], and parts of him can only appear as tendrils of mist. He's also technically a [[Cognitive Shadow\|Cognitive Shadow]]; a fading imprint of mind and memory on the power of [[Preservation\|Preservation]].
-As the Vessel of Preservation, Leras processed some of the best future sight in the [[Cosmere\|cosmere]]. He was able to accurately predict events for thousands of years in the future, even with interference from [[Ruin\|Ruin]]. This allowed him to make long-term, large-scale plans and trust them to work out properly, even if he himself forgets what the plan was in the first place.
-The form he takes in the Cognitive Realm carries on it a [[Leras' knife\|knife with bone handle]]. He refers to it as his old friend, and his first instinct when threatened is to reach for it, suggesting he was once at least moderately capable with it. However, by the time of the [[Final Empire\|Final Empire]] he finds harming other beings almost impossible.
-
-## History
- by  zoethatcher_art 
-Like all original [[Vessel\|Vessels]], Leras is a native of [[Yolen\|Yolen]]. He participated in the [[Shattering of Adonalsium\|Shattering of Adonalsium]], and took up one of the [[Shard\|Shards]], [[Preservation\|Preservation]], before departing Yolen along with [[Ati\|Ati]], the Vessel of [[Ruin\|Ruin]].
-
-For subsequent events, see Preservation#History.
+### Personalidad
+ 
+>“*¡Los corazones de los hombres no son tus juguetes!*”
+\-Leras a Kelsier.[9]
 
 
-## Relationships
+Cuando está consciente, Leras a menudo es sarcástico y burlón. Se emociona con facilidad con las cosas que adora, como el [[Lord Legislador\|lord Legislador]], y cuando piensa en algo suele tender a caminar con energía. Le gusta la gente que logra lo imposible, en especial cuando va en juego su propia supervivencia. En su día era capaz de ser astuto, incluso llegando a ser engañoso de ser necesario, pero parece haber perdido dicha capacidad con el paso del tiempo.
+Leras posee un fuerte sentido del deber en lo concerniente a Scadrial y su gente, y continúa desempeñando sus asignados cometidos, como el dar la bienvenida a los recién fallecidos; algo que hace incluso encontrándose él mismo moribundo. Leras trata su divinidad con seriedad, e intenta impartir dicha seriedad en otros. Asimismo, esto implica que detesta que se burlen de él y se muestra muy ofendido cuando se le sugiere actuar de un modo opuesto a su intención. Puede enfurecerse, también, cuando la gente no cumple con su papel, y encolerizarse cuando su labor como dios de Scadrial es puesta en entredicho o usurpada.
+En su estado moribundo, Leras a menudo se encuentra descentrado y tiene dificultades para pensar y recordar, o incluso participar en una conversación de la que ya formaba parte. Sus capacidades en este sentido mejoran sobremanera cuando comienza a interactuar con [[Kelsier\|Kelsier]], con mayor frecuencia, y al momento de su muerte, es capaz de comunicarse de manera coherente, aunque no está claro si sus recuerdos regresaron por completo antes de que falleciese.
+
+## Habilidades y atributos
+>“*Sí, había un plan. Yo recuerdo que tenía un plan. Cuando era más listo. . .*”
+\-Leras.[11]
+
+
+  Muerte de Leras
+Leras es el Recipiente de una [[Esquirla\|Esquirla]]; como tal, no envejece, es prácticamente omnisciente dentro de su área de influencia y carece de una forma distintiva en el [[Reino F%C3%ADsico\|Reino Físico]]; su cuerpo físico propiamente dicho está almacenado en algún lugar y reaparece en [[Scadrial\|Scadrial]] en el momento de su muerte. Durante los eventos inmediatamente anteriores al Catacendro, ya está muerto, habiendo sido fatalmente herido y agonizando durante milenios. Así, Leras ha ido desmoronándose lentamente. Le faltan fragmentos importantes de sus recuerdos, tiene problemas para concentrarse y lúcido solo durante cortos períodos de tiempo. Tiene dificultades incluso para mantener su apariencia humana dentro del [[Reino Cognitivo\|Reino Cognitivo]], e incluso así partes de él solo aparecen como zarcillos de niebla. Técnicamente, Leras es una [[Sombra cognitiva\|sombra cognitiva]];una huella que se debilita de la mente y memoria en el poder de [[Conservaci%C3%B3n\|Conservación]].
+Como Recipiente de Conservación, Leras posee una de las mejores capacidades para atisbar el futuro en el [[Cosmere\|Cosmere]]. Era capaz de predecir con exactitud hechos que acontecerán miles de años en el futuro, incluso pese a la intromisión de [[Ruina\|Ruina]]. Esto le permitió planificar a largo plazo y a gran escala, y poner dichos planes en marcha con precisión, incluso si acaba olvidando cuál era el plan en primer lugar.
+En la forma que adopta en el Reino Cognitivo porta un [[Cuchillo de Leras\|cuchillo con empuñadura de hueso]]. Leras habla del cuchillo como de un viejo amigo, y su primera reacción al verse amenazado es estirar una mano para empuñarlo, lo que parece indicar que en algún momento fue razonablemente capaz con él. Sin embargo, durante el Imperio Final le resulta casi imposible hacer daño a otros seres.
+
+## Historia
+ 
+Poco se conoce de la vida de Leras de cuando era un simple humano. Nació en [[Yolen\|Yolen]]. Junto a otras personas, mató a [[Adonalsium\|Adonalsium]] por razones que aún son desconocidas. Este asesinato provocó que Adonalsium se dividiese en dieciséis partes, que fueron tomadas por ese mismo número entre sus asesinos, transformándose en los primeros Recipientes de las [[Esquirla\|Esquirlas]]. Leras estaba entre ellos, tomando a [[Conservaci%C3%B3n\|Conservación]] para sí antes de abandonar Yolen junto a [[Ati\|Ati]], el Recipiente de [[Ruina\|Ruina]].
+
+Para hechos posteriores, ver [[/wiki/Conservaci%C3%B3n#Historia]].
+
+
+## Relaciones
 ### Ati
->“*I know you're listening, changing what I write, what I have written. You make our religion all about you. They hardly remember the truth any longer. Subtle as always, you worm.*”
-\-Leras to Ruin[11]
+>“*Sé que estás escuchando, cambiando lo que escribo, lo que he escrito. Estás centrando solo en ti nuestra religión. Ya apenas recuerdan la verdad. Sutil como siempre, gusano.*”
+\-Leras a Ruina.[11]
 
 
-Though Leras and [[Ati\|Ati]] knew each other before the [[Shattering\|Shattering]], having killed [[Adonalsium\|Adonalsium]] together, it's unknown what the relationship between them was. Leras seems to know him well, enough so to recognize what parts of [[Ruin\|Ruin's]] behavior stem from Ati's own personality, and seems to mourn his change in an understated way. As the [[Shard\|Shards]], the two are diametrically opposed in both [[Intent\|Intent]] and personality. Ati is dismissive and mocking of Leras, while Leras is worried about Ati escaping the [[Well of Ascension\|Well of Ascension]] and devises the plan to oppose him. This being said, Leras isn't himself scared of Ati, as he is already dead and thus beyond his reach.
+Aunque sabemos que Leras y Ati se conocían antes de la [[Fragmentaci%C3%B3n\|Fragmentación]], (Ati también participó en el asesinato de Adonalsium), lo que no sabemos es qué tipo de relación había entre ambos. Al parecer Leras conoce a Ati bien, lo suficiente como para diferenciar qué partes del comportamiento de Ruina proceden de la propia personalidad de Ati, y parece lamentar su cambio de una manera sutil. Como Esquirlas, los dos se encuentran en posiciones diametralmente opuestas tanto en intención como en personalidad. Ati se muestra desdeñoso y burlón con Leras, mientras que este último está preocupado por la posibilidad de que Ati escape del [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] y traza un plan para impedirlo. Dicho esto, Leras no está asustado de Ati, ya que se encuentra más allá de su alcance al estar muerto.
 
 ### Kelsier
- by  Kyle Pearson  Leras turning Kelsier into a [[Cognitive Shadow\|Cognitive Shadow]]
->“*You're not only the first to punch me, you’re also the first to try to recruit me. You are a distinctively strange man.*”
-\-Leras to Kelsier[5]
+  Leras conviertiendo a Kelsier en una <<Sombra cognitiva\|sombra cognitiva>>
+>“*No solo eres el primero en darme un puñetazo, sino también el primero que intenta reclutarme. Eres un hombre de lo más extraño.*”
+\-Leras a Kelsier.[5]
 
 
-Leras and [[Kelsier\|Kelsier]] meet when the latter dies, though Leras himself has been following Kelsier's actions for some time. He dislikes him, and initially wants to push him onward to the [[Beyond\|Beyond]], but Kelsier is able to trick him into explaining how to become a [[Cognitive Shadow\|Cognitive Shadow]]. Kelsier nicknames him **Fuzz**, due to his fuzzy, half-unraveled appearance, and attempts to recruit him to his schemes, which Leras eventually agrees to go along with, mostly out of curiosity. He is briefly furious when he realizes that Kelsier's actions led to [[Lord Ruler\|Lord Ruler's]] death, and often ribs Kelsier over his unwillingness to move on to the Beyond and the way his actions played into Ruin's hand.
-As the Well of Ascension fills up, the two eventually do begin to cooperate, with Leras telling Kelsier more and Kelsier being more willing to listen to and respect Leras' divinity. Though still angry about Kelsier and his veneration as "the Survivor", Leras eventually trusts Kelsier enough to point him towards the [[Ire\|Ire]]. As Leras continues to unravel, Kelsier tries to keep up his spirits. At the moment of his death, the two are cordial, with Kelsier comforting Leras and Leras giving Kelsier tacit blessing to use his power and imploring him to keep on surviving.
+Leras y [[Kelsier\|Kelsier]] se encuentran cuando el segundo muere, aunque el propio Leras ha estado siguiendo las acciones de Kelsier desde hacía un tiempo. Siente desagrado hacia Kelsier e inicialmente quiere empujarlo hacia el [[M%C3%A1s All%C3%A1\|Más Allá]], pero este consigue engañarlo para que le explique como convertirse en una [[Sombra cognitiva\|sombra cognitiva]]. Kelsier le pone el apodo de **Borrón**, debido a su apariencia medio desvanecida, borrosa, e intenta reclutarlo para sus maquinaciones, a lo que Leras al final accede, sobre todo azuzado por la curiosidad. Leras se mostró brevemente enfurecido con Kelsier cuando descubrió que las acciones de este habían conducido a la muerte del [[Lord Legislador\|lord Legislador]] y con frecuencia provoca a Kelsier por su falta de motivación para moverse al Más Allá y por el modo en que sus actos jugaron a favor de Ruina.
+Al final, cuando se llena el Pozo de la Ascensión, los dos comienza a cooperar, con Leras contándole más cosas a Kelsier, y éste mostrándose más dispuesto a escuchar y respetar la divinidad de Leras. Aunque Leras estaba todavía enfadado con Kelsier y su adoración como el “Superviviente”, al final acaba confiando en él lo suficiente como para encaminarlo hacia los [[Ire\|Ire]].Mientras el desvanecimiento de Leras prosigue, Kelsier intenta animarlo. En el momento de la muerte de Leras el trato entre ambos es cordial, con Kelsier confortando a Leras y este último dándole a Kelsier su tácita bendición para utilizar su poder y rogándole que continúe sobreviviendo.
 
-### Hoid
-Leras seems to remember [[Hoid\|Hoid]] fondly.
+### [[Hoid\|Hoid]]
+Leras parece recordar a Hoid con cariño.
 
 ### Senna
->“*Oh, Senna . . . I'm losing this place. Losing them all . . .*”
-\-Leras[3]
+>“*Oh, Senna. . . Estoy perdiendo este lugar. Los estoy perdiendo a todos. . .*”
+\-Leras.[3]
 
 
-Leras is familiar with an unknown person or being named [[Senna\|Senna]]. It's unclear who or what they were; however, Leras invokes them during his breakdown when seeing Ruin destroy [[Scadrial\|Scadrial]] around him, suggesting it was someone highly important to him.
+Leras conoce a una persona o entidad, por lo demás desconocida, llamada [[Senna\|Senna]]. No está caro quién o qué era; no obstante, Leras pronuncia su nombre durante su crisis al ver como Ruina destruye Scadrial a su alrededor, lo que parece indicar que se trataba de alguien muy importante para él.
 
-## Trivia
-Leras will be one of the major characters in the [[Dragonsteel (series)\|Dragonsteel series]].
-He is familiar with [[Vax\|Vax]], and would recognize the name of the planet if he was still around when [[Ati\|Ati]] mentioned it.
+## Curiosidades
+Leras será uno de los personajes principales en *[[Dragonsteel\|Dragonsteel]]*.
+Sabemos también que Leras conoce [[Vax\|Vax]], y que hubiera reconocido el nombre de haber estado presente cuando [[Ati\|Ati]] lo menciona.
+## Notas
+|Antecesor  ***Ninguno***|**Recipiente de [[Conservaci%C3%B3n\|Conservación]]** |Sucesor  **[[Kelsier\|Kelsier]]**|
+|-|-|
 
 
-https://coppermind.net/wiki/Leras
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Leras

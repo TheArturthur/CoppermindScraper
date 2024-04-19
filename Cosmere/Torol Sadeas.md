@@ -1,142 +1,160 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Torol Sadeas**|
 |-|-|
-|by  Shuravf |
-|**Family**|
-|**Spouse**|[[Ialai Sadeas\|Ialai]]|
-|**Ancestors**|[[Sadees\|Sadees]]|
-|**Born**|1123|
-|**Died**|Jesesach 1174|
-|**Abilities**|[[Shardbearer\|Shardbearer]]|
-|**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]], [[Highprince of Information\|Highprince of Information]] (renounced)|
-|**Groups**|Sadeas army|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Way of Kings*|
+||
+|**Familia**|
+|**Cónyuge**|[[Ialai Sadeas\|Ialai]]|
+|**Ancestros**|[[Sadees\|Sadees]]|
+|**Nacido en**|1123|
+|**Fallecido**|Jesesach 1174|
+|**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
+|**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alezkar\|Alezkar]], [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]] (renunciado)|
+|**Grupo**|Ejército de Sadeas|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
 >“*We’re two old whitespines who both want a kingdom. It's him or me. We’ve been pointed that way since Gavilar died.*”
 \-Sadeas about Dalinar[4]
 
 
-**Torol Sadeas** is an [[Alethi\|Alethi]] [[Highprince\|Highprince]] on [[Roshar\|Roshar]]. Through a number of successful battles fought alongside [[Gavilar\|Gavilar]] and [[Dalinar\|Dalinar]] Kholin, he became one of the most powerful men in the Kingdom. Known for his cruelty and brutality, Sadeas is a proficient political master; along with his wife [[Ialai Sadeas\|Ialai]], they take care of inconvenient people. He commands one of the two most significant armies on the [[Shattered Plains\|Shattered Plains]], the other being the army of Dalinar Kholin.
-As Highprince of Information, he was able to manipulate the king and the other Highprinces. He was still able to outmaneuver Dalinar, even after he was openly found guilty of treason. He possesses both a set of [[Shardplate\|Shardplate]] and a [[Shardblade\|Shardblade]], which is called [[Oathbringer (Shardblade)\|Oathbringer]].
-He is murdered by [[Adolin Kholin\|Adolin Kholin]] a short time after his arrival in [[Urithiru\|Urithiru]].
+**Torol Sadeas** es un [[Alto pr%C3%ADncipe\|alto príncipe]] [[Alezi\|alezi]] de [[Roshar\|Roshar]]. A través de un número de batallas exitosas al lado de [[Gavilar\|Gavilar]] y [[Dalinar\|Dalinar]] Kholin, se convirtió en uno de los hombres más poderosos del reino. Conocido por su crueldad y brutalidad, Sadeas es un competente maestro de la política; junto con su mujer [[Ialai Sadeas\|Ialai]], se encargan de la gente inconveniente. Manda sobre uno de los dos ejércitos más significativos en las [[Llanuras Quebradas\|Llanuras Quebradas]], el otro siendo el ejército de Dalinar Kholin.
+Como alto príncipe de información, fue capaz de manipular al rey y a los otros altos príncipes. Fue capaz de superar a Dalinar, incluso después de ser culpado abiertamente de traición. Posee tanto una [[Armadura esquirlada\|armadura esquirlada]] como la [[Hoja esquirlada\|hoja esquirlada]] de Dalinar, [[Juramentada (hoja esquirlada)\|Juramentada]].
+Es asesinado por [[Adolin Kholin\|Adolin Kholin]] pocos días después de llegar a Urithiru.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 
-1.1 Appearance
-1.2 Personality
-
-
-2 History
-
-2.1 Unification of Alethkar
-2.2 The Rift
-2.3 The War of Reckoning
-2.4 Highprince of Information
-2.5 Betrayal
-2.6 After the Battle of the Tower
-2.7 Death and Aftermath
+1. [[#Apariencia]] 
+1. [[#Personalidad]] 
 
 
-3 Trivia
-4 Notes
+2 Historia. [[#Historia]] 
+
+2. [[#Unificaci.C3.B3n de Alezkar]] 
+2. [[#La Grieta]] 
+2. [[#La guerra de la Venganza]] 
+2. [[#Alto Pr.C3.ADncipe de Informaci.C3.B3n]] 
+2. [[#Traici.C3.B3n]] 
+2. [[#Tras la batalla de la Torre]] 
+2. [[#Muerte y resultado]] 
 
 
-## Appearance and Personality
- by  Marie Seeberger 
-For more images, see [[Torol Sadeas/Gallery\|/Gallery]].
-### Appearance
-Torol Sadeas is a bright eyed man. He has a bulbous head, curly hair, and ruddy face. His Princedom's colors are green and white, but his Shardplate is painted red. It is decorated, including tassels on his helm.
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
-### Personality
-Sadeas is and always has been a brutal, cruel man. He has no compassion and enjoys showing off and pillaging. He will sacrifice people easily to meet his goals; this was his pattern both during [[Gavilar\|Gavilar's]] war to unify Alethkar and later with his bridgemen at the Shattered Plains.
-He is proficient at politics and strategy. His marriage to Ialai is strong because she is also very good at conspiracy, intrigue, and plotting. They run their princedom with those same values, and their warcamp reflects this.
-Before Gavilar's assassination, Sadeas and Dalinar were very close friends. They maintain their respect for the other's abilities and appear cordial to each other for a while after Dalinar's trip to the [[Nightwatcher\|Nightwatcher]] changes him, but Sadeas secretly desires to outmaneuver Dalinar any way he can and feels that getting rid of Dalinar is what is best for Alethkar.
-Sadeas does not believe in the Codes and is sure that compassion and diplomacy are signs of weakness. He believes Gavilar Kholin's death was evidence that the Codes lead to ruin. This was one of the main reasons for him to betray Dalinar.
 
-## History
- by  Marie Seeberger  With [[Ialai\|Ialai]] and the Kholins at a diplomatic feast
-### Unification of Alethkar
-Torol Sadeas was the closest friend of Gavilar and Dalinar Kholin during the Unification of Alethkar. He and Gavilar would plot together, discussing strategy and the direction of the war. House Sadeas was one of the three kingdoms to fight alongside the Kholins.
-He was instrumental in pushing the alliance to greater brutality. He was not ashamed of his cold heart and was known for showing off his cruelty, which included hanging the heads of the fallen Highprinces and their officers. He openly enjoyed the pillage of the fallen cities.
-Sadeas has always been very proficient at politics. He would speak persuasively to gain new allies; if he was not convinced of their full loyalty, he would find "Alethi" ways to get rid of them. His wife, Ialai Sadeas, was known among their friends for coming up with elaborate schemes for getting rid of their problematic allies and enemies.
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Torol Sadeas/Galer%C3%ADa\|/Galería]].
+### Apariencia
+Torol Sadeas es un hombre de ojos claros. Tiene una cabeza bulbosa, pelo rizo, y cara sonrojada. Sus colores de principado son el verde y el blanco, pero su armadura esquirlada está pintada de rojo. Está decorada, incluyendo borlas en su yelmo.
 
-### The Rift
+### Personalidad
+Sadeas es y siempre ha sido un hombre bruto y cruel. No tiene compasión y disfruta chuleándose y presumiendo. Sacrificará a gente sin dudar para conseguir sus objetivos; esto fue su patrón durante la guerra de [[Gavilar\|Gavilar]] para unificar Alezkar y más tarde con sus hombres del puente en las Llanuras Quebradas.
+Es competente en política y estrategia. Su matrimonio con Ialai es fuerte debido a que ella también es muy buena en conspiraciones, intriga, y maquinaciones. Dirigen su principado con esos mismos valores, y su campamento de guerra lo refleja.
+Antes del asesinato de Gavilar, Sadeas y Dalinar eran muy buenos amigos. Mantienen su respeto por las habilidades del otro y son cordiales entre ellos durante un tiempo tras el cambio de Dalinar con su visita a la [[Vigilante Nocturna\|Vigilante Nocturna]], pero Sadeas desea en secreto superar a Dalinar de cualquier manera y piensa que deshacerse de él es lo mejor para Alezkar.
+Sadeas no cree en los Códigos y está convencido de que la compasión y la diplomacia son signos de debilidad. Cree que la muerte de Gavilar Kholin es evidencia de que los Códigos llevan a la ruina. Esta es una de las razones principales para que traicione a Dalinar.
+
+## Historia
+  Con <<Ialai\|Ialai>> y los Kholin en un festín diplomático
+### Unificación de Alezkar
+Torol Sadeas era el amigo más cercano de Gavilar y Dalinar Kholin durante la unificación de Alezkar. Él y Gavilar planeaban juntos, discutiendo estrategia y la dirección de la guerra. La casa Sadeas era uno de los tres reinos que luchaban junto a los Kholin.
+Era instrumental empujando a la alianza a una brutalidad mayor. No se avergonzaba de su frialdad y era conocido por pavonearse de su crueldad, lo que incluía colgar las cabezas de los altos príncipes muertos y sus oficiales. Abiertamente disfrutaba del saqueo de las ciudades caídas.
+Sadeas era muy competente en política desde sus años jóvenes. Hablaba persuasivamente para ganar nuevos aliados; si no estaba convencido de su lealtad total, encontraba formas "alezi" de deshacerse de ellos. Su mujer, Ialai Sadeas, era conocida entre sus amigos por ocurrírsele ardides elaborados para deshacerse de aliados problemáticos.
+
+### La Grieta
 >“*I have no interest in being king—it’s a job with little praise and even less amusement. I mean for this kingdom to stand for centuries.*”
 \-Sadeas to Dalinar[15]
 
 
-During times of a unified Alethkar, Sadeas enjoyed doing politics, especially with the power he had under Gavilar. He helped plot tactics to keep power and stability, maintaining war and fear as his most important weapons, while Gavilar moved to a more political type of leadership. This difference was key to the decisions leading to the destruction of the Rift.
-[[Tanalan\|Tanalan]], son of [[Tanalan's father\|old Tanalan]] who was murdered by Dalinar ten years ago, led [[Rathalas\|Rathalas]]. Now a young leader, he retained intense contempt for Dalinar despite Dalinar's mercy towards him as a small boy and led his people in rebellion against the Kholins. Gavilar had tried diplomacy and indirect fear (sending Dalinar to [[Herdaz\|Herdaz]]), but failed. Eventually, he had to agree to send an army and take the city by force.
-Dalinar lead the army to take the Rift, however, after a convincing argument by [[Evi\|Evi]], he tried to get Tanalan to agree on surrender without murdering anyone. Tanalan offered a pact where he would give the names of the traitors who had helped them to rise, in exchange for no violence. He accused Sadeas as the traitor. Dalinar followed the caravan leaving the Rift and fell into a trap, causing him to realizing that Tanalan, and not Sadeas, had betrayed him.
-When Dalinar got back to camp, he found that his army thought he was dead. He and Sadeas decided to delay sending the news of his survival to Gavilar and decided not only to attack but to utterly destroy the Rift. They do so, and in the process, Evi is accidentally murdered.
-Sadeas spun the news of the Rift’s destruction to the king’s advantage. He said it was regrettable that the Rifters had forced the Kholins to action by killing Dalinar’s wife and that it was unfortunate the city caught fire during the fighting. He continued to be a close advocate for Gavilar and his kingdom, as well as an ally. During the night of Gavilar's assassination, Sadeas acted as a decoy in an attempt to lead [[Szeth-son-son-Vallano\|Szeth]] away so the king could escape. In the aftermath, he was the first Highprince to offer allegiance to [[Elhokar\|Elhokar]] when he called for war on the Parshendi to avenge his father.
+Durante los tiempos de una Alezkar unificada, Sadeas disfrutaba de participar en la política, especialmente con el poder que tenía bajo Gavilar. Ayudó a planear tácticas para mantener poder y estabilidad, manteniendo la guerra y el miedo como sus armas más importantes, mientras Gavilar adaptaba un liderazgo más político. Esta diferencia fue clave para las decisiones que llevaron a la destrucción de la Grieta.
+[[Tanalan\|Tanalan]], hijo del [[Padre de Tanalan\|viejo Tanalan]] que fue asesinado por Dalinar diez años antes, dirigía [[Rathalas\|Rathalas]]. Ahora un jóven líder, retuvo un intenso desprecio hacia Dalinar a pesar de la misericordia que le mostró cuando era pequeño, y dirigió a su gente a la rebelión contra los Kholin. Gavilar había probado la diplomacia y el miedo indirecto (mandando a Dalinar a [[Herdaz\|Herdaz]]), pero falló. Eventualmente, tuvo que acceder a mandar un ejército y tomar la ciudad por la fuerza.
+Dalinar lideró al ejército para tomar la Grieta. Sin embargo, tras un argumento convincente de [[Evi\|Evi]], intentó convencer a Tanalan para que se rindiese sin matar a nadie. Tanalan ofreció un pacto donde daría los nombres de los traidores que le habían ayudado a ascender, a cambio de no violencia. Acusó a Sadeas de traidor. Dalinar siguió a la caravana abandonando la Grieta y cayó en una trampa, haciendo que se diera cuenta de que Tanalan, y no Sadeas, le había traicionado. Cuando Dalinar volvió al campamento, encontró que su ejército pensaba que estaba muerto. Él y Sadeas decidieron retrasar el envío de la noticia de su supervivencia a Gavilar y no solo atacar, si no destruir completamente la Grieta. Lo hacen, y en el proceso, Evi es accidentalmente asesinada.
+Sadeas tergiversó las noticias de la destrucción de la Grieta para la ventaja del rey. Dijo que era lamentable que los de la Grieta hubiesen forzado a los Kholin a actuar tras matar a la mujer de Dalinar, y que era desafortunado que la ciudad se hubiese incendiado durante la pelea. Continuó siendo un partidario cercano de Gavilar y su reinado, así como un aliado. Durante la noche del asesinato de Gavilar, Sadeas actuó como señuelo en un intento de alejar a [[Szeth-hijo-hijo-Vallano\|Szeth]] para que el rey pudiese escapar. Como resultado, fue el primer alto príncipe en ofrecer lealtad a [[Elhokar\|Elhokar]] cuando convocó una guerra contra los parshendi para vengar a su padre.
 
-### The War of Reckoning
- by User: Awesomeness Sadeas's [[Glyph\|glyph]]
-During their time at the warcamps, Sadeas participated in a hunt out on the [[Shattered Plains\|Shattered Plains]] with Dalinar, [[Renarin\|Renarin]], [[Adolin\|Adolin]], and King Elhokar. When they arrived at the plateau where preparations for the hunt were under way, a [[Chasmfiend\|chasmfiend]] appeared on the plateau with all the courtiers and scribes instead of on the smaller plateau where the hunt was supposed to take place. Dalinar, Adolin, and Elhokar immediately dashed for the chasmfiend, hoping to kill it before it hurt any bystanders. Sadeas used his [[Grandbow\|grandbow]] from a distance to weaken it while Dalinar and Adolin went for its legs and Elhokar distracted it. At some point in the battle, Elhokar's saddle strap broke, throwing him to the ground. To save him from being crushed, Dalinar caught the claw that would have otherwise crushed Elhokar with his Shardplate-enhanced strength. Adolin continued to cut off its legs until the chasmfiend was unable to support its own weight, at which point Elhokar summoned his Shardblade again and used it to kill the chasmfiend, then harvest its [[Gemheart\|gemheart]].
-Back in the pavilion on the Plains, Elhokar remarked to Dalinar that Sadeas had won three gemhearts in the last few weeks, followed up by chiding Dalinar for not having won any himself in that time. Both Elhokar and Sadeas made use of the topic to highlight many of Sadeas' achievements, which Dalinar calls into question, especially the act of sending unprotected [[Bridgemen\|bridgemen]] against the [[Parshendi\|Parshendi]]. While Elhokar noted that Sadeas' bridge crews were more efficient than Dalinar's, and were why he was able to win so many gemhearts, Dalinar was of the opinion that Sadeas' method wasted lives. Sadeas, however, felt that Dalinar's reliance on wheels to maneuver his bridges was foolish.
-Sadeas, with the mindset of most Alethi, couldn't reconcile how Dalinar could have more important things to attend to then the war of vengeance for Gavilar. While Dalinar took a moralistic stance, a very un-Alethi way of thinking, Sadeas was only concerned with efficiency and results. From this point on, the argument deteriorated until Sadeas insulted Dalinar's sons, which is defused only by their mutual understanding for the safety of the king, not allowing their rivalry to descend into open conflict.
-Sadeas and Dalinar planned to manipulate Highprince [[Vamah\|Vamah]] into using more of Elhokar's [[Soulcaster\|Soulcasters]], proving the two of them could work together in the best interests of the king. Dalinar told Adolin that Sadeas had sworn to protect Elhokar at any cost.
-Dalinar investigated the cut girth strap on the king's saddle, but at one particular king's feast, Elhokar announced that in light of the recent attempt on his life with the saddle, he was appointing Sadeas the [[Highprince of Information\|Highprince of Information]] to investigate. This was to spite Dalinar, whom Elhokar believed was not taking the investigation seriously. Sadeas had learned of Dalinar's request to be [[Highprince of War\|Highprince of War]], and this was Sadeas' way of outmaneuvering his opponent.
+### La guerra de la Venganza
+  <<Glifo\|Glifo>> de Sadeas
+Durante su tiempo en los campamentos de guerra, Sadeas participó en una cacería en las [[Llanuras Quebradas\|Llanuras Quebradas]] con Dalinar, [[Renarin\|Renarin]], [[Adolin\|Adolin]], y el rey Elhokar. Cuando llegaron a la meseta donde las preparaciones para la caza se estaban haciendo, un [[Abismoide\|abismoide]] apareció en la meseta con todos los cortesanos y escribas en vez de en la meseta más pequeña donde se suponía que iba a tener lugar la cacería. Dalinar, Adolin, y Elhokar inmediatamente fueron a por el abismoide, esperando matarlo antes de que pudiese matar a ningún presente. Sadeas usó su [[Granarco\|granarco]] a distancia para debilitarlo mientras Dalinar y Adolin fueron a pur sus piernas, y Elhokar lo distraía. En algún momento de la batalla, las tiras de la silla de montar de Elhokar se rompieron, tirándole al suelo. Para salvarle de ser aplastado, Dalinar cogió la pinza que lo hubiese aplastado con la fuerza aumentada por su armadura esquirlada. Adolin continuó cortando sus patas hasta que el abismoide fue incapaz de soportar su propio peso, entonces Elhokar invocó su espada esquirlada de nuevo y la usó para matarlo, y recolectar su [[Gema coraz%C3%B3n\|gema corazón]].
+De vuelta en el pabellón en las Llanuras, Elhokar remarcó a Dalinar que Sadeas había ganado tres gemas corazón en las últimas semanas, reprendiéndole que Dalinar no había ganado ninguna en ese tiempo. Ambos Elhokar y Sadeas hicieron uso del tópico de remarcar muchos de los logros de Sadeas, lo que Dalinar cuestiona, especialmente la acción de mandar [[Hombres de los puentes\|hombres de los puentes]] desprotegidos contra los [[Parshendi\|parshendi]]. Mientras Elhokar apuntó que el personal del puente de Sadeas eran más eficientes que el de Dalinar, y que aunque fuese por lo que era capaz de ganar tantas gemas corazón, Dalinar opinaba que el método de Sadeas desperdiciaba vidas. Sadeas, sin embargo, sentía que la dependencia de Dalinar de las ruedas para maniobrar sus puentes era tonta.
+Sadeas, con la mentalidad de la mayoría de alezi, no podía conciliar cómo Dalinar podía tener cosas más importantes a las que atender que la guerra por la venganza por Gavilar. Mientras Dalinar tenía una postura más moralista, una manera muy poco alezi de pensar, a Sadeas solo le preocupaba la eficiencia y los resultados. Desde este momento, la discusión empeoró hasta que Sadeas insultó a los hijos de Dalinar, lo que se apaciguó solo por su mutua priorización de la seguridad del rey, no permitiendo que su rivalidad descendiese hasta el conflicto.
+Sadeas y Dalinar planearon manipular al alto príncipe [[Vamah\|Vamah]] para que usase más de los [[Moldeador de almas\|moldeadores de almas]] de Elhokar, probando que los dos podían trabajar juntos para interés del rey. Dalinar le contó a Adolin que Sadeas había jurado proteger a Elhokar a cualquier precio.
+Dalinar investigó la circunferencia del corte en la tira de la silla de montar del rey, pero en un festín particular del rey, Elhokar anunció que debido al reciente intento de asesinato con la silla de montar, hacía a Sadeas el [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]] para que lo investigase. Esto fue para provocar a Dalinar, ya que Elhokar creía que no se estaba tomando la investigación en serio. Sadeas supo de la petición de Dalinar de ser [[Alto Pr%C3%ADncipe de la Guerra\|Alto Príncipe de la Guerra]], y esta fue la manera de superar a Dalinar.
 
-### Highprince of Information
->“*Bah. Nobody would really believe that you tried to kill the king. They’d gossip, but they wouldn’t believe it.*”
+### Alto Príncipe de Información
+>“*Bah. Nobody would **really** believe that you tried to kill the king. They’d gossip, but they wouldn’t believe it.*”
 \-Sadeas to Dalinar[25]
 
-In his new position, Sadeas investigated the cut girth strap. Dalinar was insistent that Sadeas reveal the results of the investigation at another of Elhokar's feasts, though Adolin was convinced Sadeas would use the opportunity to incriminate Dalinar and turn the other Brightlords against him. This conviction was punctuated by Sadeas beginning by saying to Dalinar, “You demanded this, old friend.”
-Even Dalinar himself was tense at Sadeas' proclamation, given for all in attendance to hear. He had the strap sent to three different leather-workers, all of whom concluded the strap had been cut – the leather was relatively new, as shown by its lack of flaking and cracking, and the tear too even. To answer when it was cut, Sadeas interviewed many on the hunt and they all reported the same oddity: Dalinar and Elhokar storming off to the rock formation alone. This presented a problem, a problem that Sadeas discovered in the king's Plate: eight of the ten sapphires used to infuse the king's plate had been damaged. When Adolin (who still thought Sadeas suspected Dalinar) protested, Sadeas noted how highly improbable this would be, since a simple fall from horseback wearing full Plate would not cause sufficient strain; even after a battle, only two or three sapphires usually needed replacing. Someone, therefore, must have sabotaged the Plate.
-Next, Sadeas brought out one of the grooms in the king's employ, asking him to repeat what he told Sadeas in private. The [[Fin\|groom]] confirmed the saddle had been checked over in Dalinar's camp, but also noted that the horse was wearing a different saddle on the way to Dalinar's camp after the groom had himself outfitted the horse with Elhokar's favorite saddle. Sadeas proclaimed that, in his personal opinion, the strap had been cut in Dalinar's camp to cast suspicion on Dalinar, and that Dalinar had no hand in the plot. This shocked both Adolin and Dalinar, both on their toes waiting for Sadeas to accuse Dalinar. Despite their rivalry, Sadeas did not want to claim a victory so easily.
+En esta nueva posición, Sadeas investigó el corte de la tira. Dalinar insistía en que Sadeas revelaría los resultados de la investigación en otro de los festines de Elhokar, aunque Adolin estaba convencido de que Sadeas usaría la oportunidad para incriminar a Dalinar y poner a los otros brillantes señores en su contra. Esta convicción estaba puntuada por Sadeas diciendo a Dalinar, "Tú lo has pedido, viejo amigo".
+Incluso Dalinar estaba tenso en la proclamación de Sadeas, con todos los asistentes escuchando. Mandó la tira a tres peleteros diferentes, quienes concluyeron que la tira había sido cortada. El cuero era relativamente nuevo, como mostraba la falta de desgaste, y la rotura demasiado regular. Para responder cuándo fue cortada, Sadeas entrevistó a muchos de los participantes de la cacería, y todos reportaron la misma extrañeza: Dalinar y Elhokar corriendo a la formación rocosa solos. Esto presentaba un problema, que Sadeas descubrió en la armadura esquirlada de Elhokar: ocho de los diez zafiros usados para imbuir la armadura del rey habían sido dañados. Cuando Adolin (quien todavía creía que Sadeas sospechaba de Dalinar) protestó, Sadeas puntualizó lo improbable que era esto, ya que una simple caída de caballo llevando una armadura esquirlada completa no causaría daño suficiente; incluso después de una batalla, solo dos o tres zafiros necesitaban cambio, usualmente. Por ende, alguien debía haber saboteado la armadura esquirlada.
+Después, Sadeas trajo a uno de los mozos de establo empleados por el rey, pidiéndole que repitiera lo que le había dicho a Sadeas en privado. El [[Fin\|mozo]] confirmó que la silla de montar había sido revisada en el campamento de Dalinar, pero también mencionó que el caballo llevaba una silla diferente en la ida al campamento de Dalinar después de que el muchacho mismo le hubiese puesto la silla favorita de Elhokar. Sadeas proclamó que, según su opinión personal, la tira había sido cortada en el campamento de Dalinar para poner la sospecha sobre Dalinar, y que éste no había formado parte del complot. Esto les chocó tanto a Dalinar como Adolin, ambos esperando que Sadeas acusase a Dalinar. A pesar de su rivalidad, Sadeas no quiso reclamar una victoria tan fácilmente.
 
- by  Artur Felipe Mósca  Riding away from [[Tower (Roshar)\|the Tower]]
-### Betrayal
+  Yéndose de <<Torre (Roshar)\|la Torre>>
+### Traición
 >“*That honor of yours is going to get you killed, Dalinar.*”
 \-Sadeas[27]
 
 
-Right after being vindicated, Dalinar proposed that he and Sadeas try a joint plateau assault to combine the speed of Sadeas' army with the strength of Dalinar's. Sadeas agreed only after they agreed on the division of spoils, ceding any Blades which might be won to Sadeas while Dalinar would keep any Plate. They tested the tactics successfully in several battles, though the Parshendi sent a second army straight at Sadeas' banner during one of the battles and forced Dalinar to rush to his aid.
-Later, Sadeas and Dalinar sat with Elhokar while watching Adolin duel. As the three of them talked, Dalinar outlined why he would choose to leave the war--but not abandon the Vengeance Pact--at the Shattered Plains, Sadeas asked to listen to [[The Way of Kings (in-world)\|The Way of Kings]] sometime, and Dalinar agreed to try using Sadeas' mobile bridges in place of his [[Chull\|chull]]-drawn ones in their joint assaults.
-One day, a chasmfiend was spotted on the [[Tower (Roshar)\|Tower]], a plateau close to Parshendi territory on which the Alethi had never been victorious. Sadeas rode over to Dalinar's camp to plot strategy, convincing Dalinar that the battle could be used to decimate the Parshendi's ability to wage war, all the while really setting up Dalinar to be in a vulnerable position. As they approached the Tower, they could see the Parshendi had not yet extracted the gemheart from the chrysalis. Sadeas wanted to attack the Tower together, placing all forty bridges in a single wave. Dalinar refused, citing the Codes again and saying he would attack only after Sadeas had made a landing point for Dalinar's borrowed bridge crews.
-The plan worked well for a time. Sadeas managed to get his forces across the bridges and onto the Tower, carving out a landing platform for Dalinar to follow. The two forces were separated by the Parshendi, Sadeas to the west and Dalinar on the eastern edge, fighting inward. When another Parshendi force appeared behind Dalinar, Sadeas retreated to the northern plateau, pulling the eight bridge crews he'd lent to the Kholin army with him and abandoning Dalinar and his army.
+Tras ser vindicado, Dalinar propuso que él y Sadeas intentaran un asalto a las mesetas conjunto para combinar la velocidad del ejército de Sadeas con la fuera del de Dalinar. Sadeas accedió solo después de acordar la división del botín, cediendo las hojas esquirladas que pudiese ganar a Sadeas mientras que Dalinar se quedaría las armaduras. Probaron que la táctica era satisfactoria en varias batallas, aunque los parshendi mandaron un segundo ejército directo a la parte de Sadeas en una batalla y obligaron a Dalinar a apurarse en su ayuda.
+Más tarde, Sadeas y Dalinar se sentaron con Elhokar mientras veían a Adolin batirse en duelo. Mientras los tres hablaban, Dalinar remarcó por qué escogería abandonar la guerra (pero no el Pacto de Venganza) en las Llanuras Quebradas. Sadeas pidió escuchar [[El camino de los reyes (in-world)\|El camino de los reyes]] en algún momento, y Dalinar accedió a intentar usar los puentes móviles de Sadeas en vez de sus puentes tirados por [[Chull\|chulls]] en sus asaltos conjuntos.
+Un día, un abismoide fue avistado en la [[Torre (Roshar)\|Torre]], una meseta cerca del territorio parshendi en la que los alezi nunca habían salido victoriosos. Sadeas fue al campamento de Dalinar para planear la estrategia, convenciendo a Dalinar que la batalla podría ser usada para diezmar la habilidad de los parshendi para hacer la guerra, todo para realmente poner a Dalinar en una posición de vulnerabilidad. Según se acercaban a la Torre, pudieron ver que los parshendi todavía no habían extraído la gema corazón de la crisálida. Sadeas quería atacar la Torre juntos, poniendo los cuarenta puentes en una sola oleada. Dalinar lo rechazó, citando los Códigos de nuevo y diciendo que solo atacaría después de que Sadeas asegurase un lugar para que Dalinar atacase con sus hombres de los puentes.
+El plan funcionó bien por un tiempo. Sadeas consiguió cruzar con sus fuerzas a través de los puentes y hacia la Torre, estableciendo una plataforma para que Dalinar le siguiese. Las dos fuerzas fueron separadas por los parshendi, Sadeas hacia el oeste y Dalinar hacia el borde oriental, peleando hacia dentro. Cuando otra fuerza parshendi apareció detrás de Dalinar, Sadeas se retiró a la meseta más al norte, llevándose a los hombres del puente que le había prestado al ejército Kholin con él, abandonando a Dalinar y su ejército.
 
- by  Marie Seeberger  Receiving [[Oathbringer (Shardblade)\|Oathbringer]] from [[Dalinar\|Dalinar]]
-Upon Sadeas' return to camp, he was met by [[Navani\|Navani]]. Acting regretful, he told her he had to be the harbinger of grave news; he offered his condolences and claimed he did all he could to save Dalinar but was himself ultimately overwhelmed by the Parshendi and forced back. Sadeas declared that Dalinar was both a friend and an ally, asserting that he would seek vengeance for Dalinar's death. He watched Navani ink and burn a large *thath* [[Glyph\|glyph]] shortly before a runner quietly announced Dalinar's approach.
-Sadeas attempted to reconcile with Dalinar, offering an apology that Dalinar accepted publicly. However, the two moved close so no one could overhear them and Dalinar asked for an explanation. Sadeas claimed he was upholding his oath: “Protect Elhokar. Protect this kingdom.” He thought Elhokar was being influenced by Dalinar's insistence on the Codes, worrying that the king talked of retreating from the Plains, as Dalinar had wanted. Sadeas saw Dalinar as a threat to the kingdom and, despite their old friendship, admitted that he just wanted Dalinar gone.
-Before leaving, Dalinar asked Sadeas to give him the members of [[Bridge Four\|Bridge Four]] to fulfill a promise he had made to [[Kaladin\|Kaladin]]. Sadeas refused the initial offers, asserting that he would not give up the bridgemen for a thousand [[Spheres\|broams]] each. Dalinar then summoned his Shardblade and drove it point-first in the earth before Sadeas, offering his Blade in exchange for every bridgeman in Sadeas' camp. Sadeas, shocked, nevertheless agreed and gained the Blade he had always desired.
+  Recibiendo <<Juramentada (hoja esquirlada)\|Juramentada>> de <<Dalinar\|Dalinar>>
+Con el retorno de Sadeas al campo, fue recibido por [[Navani\|Navani]]. Actuando arrepentido, le dijo que tenía que ser heraldo de graves noticias; ofreció sus condolencias y clamó que hizo todo lo posible por salvar a Dalinar pero que fue superado por los parshendi y obligado a retirarse. Sadeas declaró que Dalinar era tanto un amigo como un aliado, afirmando que buscaría vengar la muerte de Dalinar. Vio a Navani pintar y quemar un gran [[Glifo\|glifo]] *thath* poco antes de que anunciasen que Dalinar se acercaba.
+Sadeas intentó reconciliarse con Dalinar, ofreciendo una disculpa que Dalianr aceptó públicamente. Sin embargo, los dos se acercaron para que nadie puediese escucharles, y Dalinar pidió explicaciones. Sadeas dijo que estaba cumplienedo su juramento: "Proteger a Elhokar. Proteger este reino.". Pensó que Elhokar estaba siendo influenciado por la insistencia de Dalinar con los Códigos, preocupándose de que el rey hablase sobre retirarse de las Llanuras, como Dalinar quería. Sadeas vio a Dalinar como una amenaza para el reino y, a pesar de su vieja amistad, admitió que quería que Dalinar desapareciese.
+Antes de marcharse, Dalinar le pidió a Sadeas que le diese a los miembros del [[Puente Cuatro\|Puente Cuatro]] para cumplir una promesa que le había hecho a [[Kaladin\|Kaladin]]. Sadeas rechazó las ofertas iniciales, afirmando que no cedería a los hombres del puente por mil [[Esferas\|broams]] cada uno. Entonces Dalinar invocó su hoja esquirlada y la clavó en la tierra enfrente de Sadeas, ofreciendo su hoja a cambio de todos los hombres de los puentes en los campamentos de Sadeas. Sadeas, sorprendido, aceptó y consiguió la hoja que siempre había deseado.
 
-### After the Battle of the Tower
->“*I'm not meant for this, love. This stupid game on the plateaus. It sated me at first, but I’m growing to loathe it. I want war, Ialai.*”
+### Tras la batalla de la Torre
+>“*I'm not meant for this, love. This stupid game on the plateaus. It sated me at first, but I’m growing to loathe it. I want **war**, Ialai.*”
 \-Sadeas[2]
 
-After the [[Battle of the Tower\|Battle of the Tower]], Sadeas was despondent about obtaining Oathbringer and bemoaned how it didn't quench his thirst for bloodshed. At one point, he stuck it into a table point-first, staring at it in awe. When Ialai came into the room and complained about the table, he told her how he intended to force the Alethi soldiers back into a full-out war instead of a prolonged game of chasing down gemhearts. He began plotting with her, instructing her to send more spies into Dalinar's warcamp and to prepare for any other steps which might be required, including assassinating him.
-After a failed plateau assault on the Shattered Plains, Adolin spoke to [[Jakamav\|Jakamav]] about his attempts at winning Shardblades and Shardplate through duels and his frustration at how no one would rise to his challenge. Jakamav told him that Sadeas, in order to stop Dalinar's plans, had been making offers and promises to Shardbearers in return for them turning down Adolin's challenges; he suggested [[Eranniv\|Eranniv]] as one who might be more interested in fame than Sadeas' offers.
-Sadeas began to undermine both Dalinar and Elhokar by using his swift bridge crews to go on plateau runs when it was not his turn in the rotation, arriving before the scheduled parties and then triumphantly throwing the harvested gemheart at their feet before leaving. This later developed into him simply pretending the gemheart had been lost, but secretly keeping it; his motive was purely to further push the throne's authority.
-Sadeas and his wife were present at the duel between Adolin and Eranniv. He spent the duration speaking with Ialai about their plots and about Dalinar's attempts to unite the Highprinces.
-Later, Sadeas was at the same winehouse that Adolin and [[Shallan\|Shallan]] visited together. While waiting out the [[Highstorm\|highstorm]] in the safety of the [[Lighteyes\|lighteyes']] bunker, Sadeas approached Adolin and began goading him about the Battle of the Tower and how he intended to do away with both Elhokar and Adolin. Sadeas wore uncut gems along his clothes from one of the gemhearts he had won earlier but which he had claimed to have lost.
-After Adolin won his duel with the four Shardbearers, Sadeas was forced to accept his [[King's Boon\|boon]] of a [[Right of Challenge\|challenge]]. However, due to Kaladin interrupting, Adolin only successfully sought a challenge; Sadeas left before he could pin down a time. As such, Sadeas took the liberty of accepting the duel for a year from the date. He put on an air of control and mirth, but in secret was terrified to see that Adolin was becoming another Blackthorn.
-On the last day before the [[Weeping\|weeping]], Sadeas and his wife took a ride, supposedly for pleasure but in fact to gauge the extent of [[Sebarial\|Sebarial's]] warcamp's industry. He spoke with his wife about Dalinar and Elhokar. Ialai believed they should seize the opportunity to attempt a coup on the [[Pinnacle\|Pinnacle]], but Sadeas thought it wouldn't be necessary and also pointed out the failure of their last assassin. Sadeas was stunned to see Highprince [[Aladar\|Aladar]] join with Dalinar's forces; he thought on the events for a while before ultimately deciding that it did not matter, as those on the expedition would all die on the Shattered Plains. Instead, he felt that he and his wife must set about deciding who would take the places of the doomed Highprinces.
+Tras la [[Batalla de la Torre\|batalla de la Torre]], Sadeas estaba abatido por haber obtenido a Juramentada, y lamentaba que no hubiese saciado su sed de sangre. En un momento, la clavó de punta en una mesa, admirándola. Cuando Ialai entró a la habitación y se quejó, él le contó cómo pretendía forzar a los soldados alezi de vuelta a una guerra total en vez de un prolongado juego persiguiendo gemas corazón. Comenzó a planear con ella, instruyéndole que mandase más espías al campamento de guerra de Dalinar y a prepararse para cualquier otro paso que se requiriese, incluyendo su asesinato.
+Tras un asalto fallido a una meseta en las Llanuras Quebradas, Adolin habló con [[Jakamav\|Jakamav]] sobre sus intentos de conseguir hojas y armaduras esquirladas a través de duelos y su frustración sobre cómo nadie aceptaba su desafío. Jakamav le dijo que Sadeas, para parar los planes de Dalinar, había estado haciendo ofertas y promesas a los portadores de esquirlada a cambio de que rechazasen los desafíos de Adolin; sugirió a [[Eranniv\|Eranniv]] como uno de los que podría estar más interesado en la fama que en las ofertas de Sadeas.
+Sadeas comenzó a desestimar a Dalinar y a Elhokar usando sus rápidas cuadrillas de los puentes para ir a asaltos a mesetas cuando no era su turno en la rotación, llegando antes que los grupos programados y triunfantemente tirando la gema corazón cosechada a sus pies antes de irse. Esto más tarde se transformó en él simplemente pretendiendo que la gema corazón se había perdido, aunque se la quedaba en secreto; su motivo era simplemente desafiar la autoridad del trono.
+Sadeas y su mujer estaban presentes en el duelo entre Adolin y Eranniv. Estuvo todo el duelo hablando con Ialai sobre sus planes y sobre los intentos de Dalinar de unir a los altos príncipes.
+Más tarde, Sadeas estaba en la misma taberna que Adolin y [[Shallan\|Shallan]] visitaron juntos. Mientras esperaban a la [[Alta tormenta\|alta tormenta]] en la seguridad del búnker de [[Ojos claros\|ojos claros]], Sadeas se acercó a Adolin y comenzó a picarle sobre la batalla de la Torre y sobre cómo pretendía deshacerse de Elhokar y Adolin. Sadeas llevaba gemas sin tallar junto con sus prendas, de una de las gemas corazón que había ganado previamente, pero que había proclamado como perdida.
+Después de que Adolin ganase su duelo con los cuatro portadores de esquirlada, Sadeas se vio forzado a aceptar su [[Premio del Rey\|premio]] de un [[Derecho de Desaf%C3%ADo\|desafío]]. Sin embargo, debido a la interrupción de Kaladin, Adolin solo fue capaz de retarle; Sadeas se fue antes de que pudiesen establecer una fecha. Como tal, Sadeas se tomó la libertad de aceptar el desafío un año más tarde del suceso. Adoptó un aire de control y seguridad, pero en secreto estaba aterrado de ver que Adolin se estaba convirtiendo en otro Espina Negra.
+En el último día antes del [[Llanto\|Llanto]], Sadeas y su mujer pasearon en caballo, supuestamente por placer, pero en realidad para medir la extensión de la industria en el campamento de guerra de [[Sebarial\|Sebarial]]. Habló con su mujer sobre Dalinar y Elhokar. Ialai creía que deberían aprovechar la oportunidad e intentar dar un golpe al [[Pin%C3%A1culo\|Pináculo]], pero Sadeas pensó que no sería necesario, remarcando el fallo de su último asesino. Sadeas se sorprendió de ver al alto príncipe [[Aladar\|Aladar]] unirse a las fuerzas de [[Dalinar\|Dalinar]]; pensó sobre los eventos durante un tiempo antes de finalmente decidir que no importaba, ya que los que se fuesen a la expedición morirían en las Llanuras Quebradas. En cambio, sintió que él y su mujer debían decidir quiénes tomarían los puestos de aquellos altos príncipes caídos.
 
- by  Marie Seeberger  Sadeas being killed by [[Adolin Kholin\|Adolin Kholin]]
-### Death and Aftermath
+  Sadeas siendo asesinado por <<Adolin Kholin\|Adolin Kholin>>
+### Muerte y resultado
 >“*I will take this from him. This city, these discoveries. It’s just a setback.*”
 \-Sadeas' last words[4]
 
 
-Surprisingly, Dalinar's call to the Alethi warcamps was answered by Sadeas as quickly as it was by [[Aladar\|Aladar]] and [[Roion\|Roion]]. Sadeas personally made his way to Urithiru with his wife.
-They were exploring the tower when Adolin came upon Sadeas alone. Sadeas taunted Adolin by expressing the next round of rumors he planned to spread about Dalinar: the presence of [[Rlain\|a parshman]] in his personal guard was proof of how he had managed to get the Parshendi to cooperate with him in the ruse of the [[Battle of Narak\|Battle of Narak]]. Adolin's restraint finally broke, and after a brief struggle, he stabbed his side-knife through the Highprince's eye. When Oathbringer coalesced, Adolin threw it out the window and then proceeded to get rid of any other evidence that he had been there before rejoining his scouting party.
-Men of Bridge Four found the body, and Sadeas' guards immediately accused them of the murder. Though the blood was dry, confirming that the death had happened days ago, the division between the camps increased; many continued to blame Dalinar for his death.
-Shortly after the murder, the corpse of [[Vedekar Perel\|Vedekar Perel]] was found; the curious connection between the victims was that they had died of identical wounds. It was later discovered that this second kill was made by the unmade [[Re-Shephir\|Re-Shephir]], the Midnight Mother, who was copying acts of violence in Urithiru.
-While several people, including [[Sebarial\|Sebarial]], saw Sadeas' death as one less problem for the new alliance, Dalinar was very affected by the event and asked Adolin to investigate the assassination. Adolin struggled with guilt over what he had done and confessed his actions first to Shallan and later to Dalinar himself.
-After Torol's death, Ialai named Highmarshal [[Amaram\|Amaram]] regent and heir to the house title, making him Highprince Sadeas. In doing this, she cemented a division with the Kholins that continued until [[Shallan\|Radiant]] killed her, roughly a year after the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+Sorprendentemente, la llamada de Dalinar a los [[/wiki/Llanuras Quebradas#Campamentos de guerra]] fue contestada por Sadeas tan rápido como [[Roion\|Roion]] y [[Aladar\|Aladar]]. Sadeas personalmente consiguió llegar a Urithiru con su mujer.
+Estaban explorando la torre cuando Adolin se encontró a Sadeas solo. Sadeas se mofó de Adolin contándole la siguiente ronda de rumores que planeaba difundir sobre Dalinar: la presencia de [[Rlain\|un parshmenio]] en su guardia personal era la prueba de cómo había conseguido que los parshedi cooperaran con él en el ardid de la [[Batalla de Narak\|batalla de Narak]]. La contención de Adolin finalmente se rompió, y tras un breve forcejeo, clavó su cuchillo a través del ojo del alto príncipe. Cuando Juramentada apareció, Adloin la lanzó por una ventana y se deshizo de cualquier evidencia que le inculpara antes de reunirse con su grupo de exploradores.
+Los hombres del Puente Cuatro encontraron el cuerpo, y los guardias de Sadeas inmediatamente les acusaron del asesinato. Aunque la sangre estaba seca, confirmando que la muerte había ocurrido hacía días, la división entre los campamentos se incrementó; muchos continuaron culpando a Dalinar por su muerte.
+Poco después del asesinato, el cuerpo de [[Vedekar Perel\|Vedekar Perel]] fue encontrado; la curiosa conexión entre las víctimas era que habían muerto de heridas idénticas. Se descubrió más tarde que esta segunda muerte fue llevada a cabo por la deshecho [[Re-Shephir\|Re-Shephir]], la Madre Medianoche, quien estaba copiando los actos violentos en Urithiru.
+Mientras mucha gente, incluyendo a [[Sebarial\|Sebarial]], veían la muerte de Sadeas como un problema menos para la nueva alianza, a Dalinar le afectó mucho el evento y le pidió a Adolin que investigase el asesinato. Adolin sufrió por la culpa acerca de lo que había hecho y le confesó sus acciones primero a Shallan y más tarde al propio Dalinar.
+Despúes de la muerte de Torol, Ialai nombró al alto mariscal [[Amaram\|Amaram]] regente y heredero del título de la casa, haciéndole el alto príncipe Sadeas. Haciendo esto, ella cementó una división con los Kholin que seguiría hasta que [[Shallan\|Radiante]] la matase, un año más tarde de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]].
 
-## Trivia
-His name's similarity to the word "sadist" was not a coincidence, but it was more of a subconscious choice by Brandon than one that he was aware of.
-In a draft of *Words of Radiance*, Adolin did not kill Sadeas. When [[Brandon Sanderson\|Brandon]] decided to have Amaram survive Iyatil's assassination attempt, he decided that Sadeas had to die instead.
-Sadeas would get along well with [[Rayse\|Rayse]].
-If he were in the place of [[Straff Venture\|Straff Venture]], he would make far better use of [[Zane\|Zane]].
+## Curiosidades
+La similaridad de su nombre a la palabra "sádico" ("sadist" en inglés) no es una coincidencia, pero fue más una elección subconsciente de Brandon que una hecha aposta.
+En un borrador de *Palabras radiantes*, Adolin no mataba a Sadeas. Cuando [[Brandon Sanderson\|Brandon]] decidió que Amaram sobreviviría al intento de asesinato de Iyatil, decidió que Sadeas debería morir en su lugar.
+Sadeas se llevaría bien con [[Rayse\|Rayse]].
+Si estuviese en el lugar de [[Straff Venture\|Straff Venture]], haría mejor uso de [[Zane\|Zane]].
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Torol_Sadeas
+
+https://es.coppermind.net/wiki/Torol_Sadeas

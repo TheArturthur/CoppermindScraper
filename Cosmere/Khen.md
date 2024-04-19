@@ -1,78 +1,98 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Khen**|
 |-|-|
-|by  Marie Seeberger |
-|**Species**|[[Singer\|Singer]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Oathbringer*|
+||
+|**Especie**|[[Cantor\|Cantor]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“* I'm just asking, how this is any better. We were slaves under the Alethi. Now we're slaves under the Fused. Great. It does me so much good to know that our misery is now at the hands of our own people.*”
-\- Khen upon being conscripted by the Fused[1]
-
-
-**Khen** is a [[Singer\|singer]] on [[Roshar\|Roshar]]. Formerly a parshman in [[Alethkar\|Alethkar]], she takes [[Kaladin\|Kaladin]] captive when he surrenders to her group. Later, she fights with [[Moash\|Moash]] in the [[Siege of Kholinar\|Siege of Kholinar]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
-
-4.1 Moash
-4.2 Sah
-4.3 Kaladin
+>“* Yo solo pregunto en qué hemos mejorado. Éramos esclavos de los alezi y ahora somos esclavos de los Fusionados. Estupendo. Me alegra muchísimo saber que ahora sufrimos a manos de nuestra propia gente.*”
+\- Khen al ser reclutado por los Fusionados[1]
 
 
-5 Notes
+**Khen** es una [[Cantor\|cantora]] en [[Roshar\|Roshar]]. Antigua parshmenia en [[Alezkar\|Alezkar]], toma cautivo a [[Kaladin\|Kaladin]] cuando éste se rinde a su grupo. Más tarde, lucha con [[Moash\|Moash]] en el [[Asedio a Kholinar\|asedio a Kholinar]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Moash]] 
+4. [[#Sah]] 
+4. [[#Kaladin]] 
 
 
-## Appearance and Personality
-Khen is a large, muscular singer with red and white marbled skin; she speaks with a deep voice in a clear Alethi accent. Her only carapace runs along her forearms and juts out at her temples. In workform, she wears a slave smock tied at her waist by a belt and leather sandals on her feet. [[Warform\|Warform]] suits her.
-She is passionate about her freedom to the extent that at first she is very willing to defend it by killing others. However, she gets frustrated with being given orders and being continuously oppressed by humans and [[Fused\|Fused]] alike. She is outspoken about these beliefs. Eventually this prompts her to leave [[Kholinar\|Kholinar]] to pursue her own life without being part of the singer army.
+5 Notas. [[#Notas]] 
 
-## Attributes and Abilities
-Like most singers, Khen spends all of her life up until the first [[Everstorm\|Everstorm]] in [[Slaveform\|slaveform]] working as a parshman. Afterwards, she wears workform but struggles even to survive as part of a group of former parshmen traveling through the wilderness. She learns some basic survival skills from [[Kaladin\|Kaladin]] and later learns to fight from [[Moash\|Moash]]. Khen becomes more than capable at fighting, at least while wearing [[Warform\|warform]].
 
-## History
->**Ton**: "*Would you actually do it, Khen? Bash his head in yourself?**"***Khen**: "*If it means they can't take us again? Yes, I'd kill him. I won't go back, Ton.**"*
-\-Ton: "Would you actually do it, Khen? Bash his head in yourself?
+## Apariencia y personalidad
+Khen es una cantora grande y musculosa con la piel jaspeada de rojo y blanco; habla con voz grave y un claro acento alezi. Su único caparazón recorre sus antebrazos y sobresale en sus sienes. En forma de trabajo, lleva una túnica de esclava atada a la cintura por un cinturón y sandalias de cuero en los pies. La [[Forma de guerra\|forma de guerra]] le sienta bien.
+Le apasiona su libertad hasta el punto de que al principio está dispuesta a defenderla matando a otros. Sin embargo, se frustra al recibir órdenes y ser continuamente oprimida por humanos y [[Fusionado\|Fusionados]] por igual. No tiene pelos en la lengua. Con el tiempo, esto la lleva a abandonar [[Kholinar\|Kholinar]] para seguir su propia vida sin formar parte del ejército de cantores.
+
+## Atributos y habilidades
+Como la mayoría de los cantores, Khen pasa toda su vida hasta la primera [[Tormenta eterna\|tormenta eterna]] en [[Forma esclava\|forma esclava]] trabajando como parshmenia. Después, se pone a trabajar pero lucha incluso por sobrevivir como parte de un grupo de antiguos parshmenios que viajan por las regiones salvajes. Aprende algunas habilidades básicas de supervivencia de [[Kaladin\|Kaladin]] y más tarde aprende a luchar de [[Moash\|Moash]]. Khen se vuelve muy capaz en la lucha, al menos mientras lleva [[Forma de guerra\|forma de guerra]].
+
+## Historia
+>**Ton**: "*¿Serías capaz de hacerlo, Khen? ¿Partirle la cabeza tú misma?**"***Khen**: "*¿Si sirve para que no puedan volver a atraparnos? Sí, lo mataría. No pienso volver, Ton.**"*
+\-Ton: "¿Serías capaz de hacerlo, Khen? ¿Partirle la cabeza tú misma?
 "
-Khen: "If it means they can't take us again? Yes, I'd kill him. I won't go back, Ton.
+Khen: "¿Si sirve para que no puedan volver a atraparnos? Sí, lo mataría. No pienso volver, Ton.
 "
 
 
-Khen was a slave in [[Sadeas princedom\|Sadeas's princedom]] but escaped after the first [[Everstorm\|Everstorm]]. She became part of a group of singers, including [[Sah\|Sah]] and [[Ton (singer)\|Ton]], and they traveled to [[Revolar\|Revolar]] under the guidance of [[Yixli\|Yixli]], a [[Voidspren\|voidspren]]. While travelling, she and Sah played a [[Rosharan card game\|card game]]. Along the way, the group took Kaladin captive when he submitted willingly. Kaladin freed himself from his bonds a few days later but stayed with the group and taught them how to survive while on the run. Khen cut herself with Kaladin's knife while cutting firewood, and Kaladin cleaned the cut and taught her how best to care for the wound to prevent attracting rotspren and infection. During an unexpected [[Highstorm\|highstorm]], Khen and her group took shelter in a [[Lighteyes\|lighteyes']] stormbunker after Kaladin struck a deal with the man. When inside, Khen promised Kaladin that she would speak for him when they reached the gathering.
+Khen era una esclava en el [[Principado Sadeas\|principado de Sadeas]] pero escapó tras la primera [[Tormenta eterna\|tormenta eterna]]. Formó parte de un grupo de cantores, entre los que se encontraban [[Sah\|Sah]] y [[Ton (cantor)\|Ton]], viajando a [[Revolar\|Revolar]] guiados por [[Yixli\|Yixli]], un [[Vac%C3%ADospren\|vacíospren]]. Mientras viajaban, Sah y ella jugaban a un [[Juego de cartas roshariano\|juego de cartas]]. Por el camino, el grupo tomó cautivo a Kaladin cuando éste se sometió voluntariamente. Kaladin se liberó de sus ataduras unos días después, pero se quedó con el grupo y les enseñó a sobrevivir mientras huían. Khen se cortó con el cuchillo de Kaladin mientras cortaba leña y Kaladin le limpió el corte y le enseñó cómo cuidar mejor la herida para evitar atraer putrispren e infecciones. Durante una [[Alta tormenta\|alta tormenta]] inesperada, Khen y su grupo se refugiaron en un refugio de [[Ojos claros\|ojos claros]] después de que Kaladin llegase a un acuerdo con el hombre. Una vez dentro, Khen prometió a Kaladin que hablaría por él cuando llegasen a la reunión.
 
->“*He is not our captive. He was one of the humans' slaves, like us. He wishes to join and fight.*”
-\-Khen speaking for Kaladin[6]
+>“*Él no es nuestro prisionero. Era esclavo de los humanos, como nosotros. Desea enrolarse y luchar.*”
+\-Khen hablando por Kaladin[6]
 
-Once she reached Revolar, the group joined the [[Voidbringer\|Voidbringer]] army gathering to attack [[Kholinar\|Kholinar]]. Khen spoke on Kaladin's behalf, but he left upon seeing the Fused, revealing himself as a human spy. Khen's group was punished for harboring him and put to work hauling lumber, where she met Moash. An overseer informed them they were building siege equipment for the [[Siege of Kholinar\|assault on Kholinar]] and that Khen, Moash, and her group of singers would be fighting on the front line. Khen, angry with their situation, argued with Sah, stating that they were being unfairly treated by their own gods. She began to feel helpless, with no idea what to do. After Moash failed to convinced [[Leshwi\|Leshwi]] to treat the group more favorably, he began training them in combat skills in preparation for the attack on Kholinar.
-Khen witnessed Sah's death by [[Noromin\|Noromin]] during the battle in Kholinar and killed him in turn. She watched Moash kill [[Elhokar\|Elhokar]]. After the Voidbringers won the battle, she was granted her freedom, but she decided to stay and help rebuild the city alongside Moash.
-Ten months later, Khen told Moash she was leaving Kholinar, as she wanted to really live with her own mind and Passions and instead felt as if she'd just woken up and started killing. They discuss becoming "unchained" by giving negative emotions to [[Odium\|Odium]], but Khen saw that Moash was still chained to his emotions by Kaladin. Moash invited her to return and fight alongside him again if she ever did become unchained, ending their conversation.
+Una vez que llegó a Revolar, el grupo se unió al ejército de [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] que se reunía para atacar [[Kholinar\|Kholinar]]. Khen habló en nombre de Kaladin, pero se marchó al ver al Fusionado, revelándose como un espía humano. El grupo de Khen fue castigado por acogerlo y puesto a trabajar transportando madera, donde conoció a Moash. Un supervisor les informó de que estaban construyendo equipo de asedio para el [[Asedio a Kholinar\|asalto a Kholinar]] y que Khen, Moash y su grupo de cantores lucharían en primera línea. Khen, enfadada con su situación, discutió con Sah, afirmando que estaban siendo tratados injustamente por sus propios dioses. Empezó a sentirse impotente, sin saber qué hacer. Después de que Moash no lograse convencer a [[Leshwi\|Leshwi]] para que tratase al grupo de forma más favorable, comenzó a entrenarlos en habilidades de combate como preparación para el ataque a Kholinar.
+Khen presenció la muerte de Sah a manos de [[Noromin\|Noromin]] durante la batalla en Kholinar y lo mató como consecuencia. Vio cómo Moash mataba a [[Elhokar\|Elhokar]]. Después de que los Portadores del Vacío ganasen la batalla, se le concedió la libertad, pero decidió quedarse y ayudar a reconstruir la ciudad junto a Moash.
+Diez meses más tarde, Khen le dijo a Moash que se iba de Kholinar, ya que quería vivir realmente con su propia mente y Pasiones y en cambio sentía como si acabara de despertarse y empezara a matar. Hablan de "desencadenarse" cediendo las emociones negativas a [[Odium\|Odium]], pero Khen vio que Moash seguía encadenado a sus emociones por Kaladin. Moash la invitó a volver y luchar a su lado de nuevo si alguna vez se desencadenaba, poniendo fin a su conversación.
 
-## Relationships
+## Relaciones
 ### Moash
->“* We heard something. Made us want to be near you.*”
-\- Khen speaking to Moash[4]
+>“* Hemos oído algo. Nos ha dado ganas de estar cerca de ti.*”
+\- Khen hablando con Moash[4]
 
 
-[[Moash\|Moash]] travels with Khen and her group from Revolar to Kholinar as slaves, where he earns some respect from them. When the Alethi man hears Khen's frustration at their treatment at the hands of the Fused, Moash speaks with Leshwi on their behalf, disappointed that the singers are not kinder to their own than the humans. Afterward, he trains them to fight with spears so that they will not be defenseless in the coming battle at Kholinar. They fight side by side in [[Kholinar Palace\|Kholinar Palace]], and when Khen is granted freedom after their victory, she decided to stay and help rebuild in order to stay close to Moash. Later Moash receives the name "Vyre" from Leshwi, and Khen explains the meaning of the name to him. She doesn't approve of Moash's treating [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] with inferiority. When she decides to leave Kholinar, she feels she owes Moash an explanation, even though he does not expect one.
+[[Moash\|Moash]] viaja con Khen y su grupo desde Revolar a Kholinar como esclavo, donde se gana algo de respeto por parte de ellos. Cuando el hombre alezi escucha la frustración de Khen por el trato que reciben a manos de los Fusionados, Moash habla con Leshwi en su nombre, decepcionado porque los cantores no son más amables con los suyos que con los humanos. Después, los entrena para luchar con lanzas para que no estén indefensos en la próxima batalla en Kholinar. Luchan codo con codo en el [[Palacio de Kholinar\|Palacio de Kholinar]], y cuando a Khen se le concede la libertad tras su victoria, decide quedarse y ayudar en la reconstrucción para permanecer cerca de Moash. Más tarde, Moash recibe el nombre de "Vyre" de Leshwi, y Khen le explica el significado del nombre. No aprueba que Moash trate con inferioridad a la [[Hoja de Honor\|Hoja de Honor]] de [[Jezrien\|Jezrien]]. Cuando decide abandonar Kholinar, siente que le debe una explicación a Moash, aunque él no la espera.
 
 ### Sah
->“*Don't you care what our own gods are doing to us?*”
-\-Khen to Sah[1]
+>“*¿Te da igual lo que nos están haciendo nuestros propios dioses?*”
+\-Khen a Sah[1]
 
 
-Among the group of singers that Khen travels with after escaping, her closest relationship is with [[Sah\|Sah]]. Khen often includes Sah in her decision making, and expresses her frustrations to him regarding their treatment under the Fused. She is angered by Sah's lack of emotional response regarding their situation. When Sah is killed by [[Noromin\|Noromin]], Khen avenges his death.
+Entre el grupo de cantores con el que viaja Khen tras escapar, su relación más estrecha es con [[Sah\|Sah]]. Khen suele incluir a Sah en su toma de decisiones y le expresa sus frustraciones por el trato que reciben de los Fusionados. Se enfada por la falta de respuesta emocional de Sah ante su situación. Cuando Sah es asesinado por [[Noromin\|Noromin]], Khen venga su muerte.
 
 ### Kaladin
->“*No matter what you are told, know this: I do not wish to be your enemy.*”
-\-Kaladin to Khen[6]
+>“*Os digan lo que os digan, sabed esto: no deseo ser vuestro enemigo.*”
+\-Kaladin a Khen[6]
 
 
-When Khen's party first captures [[Kaladin\|Kaladin]], she votes to kill him in fear that he would escape and lead other humans to them; she emphasizes that she would do the act herself if necessary. After Kaladin escapes and begins assisting her people, Khen's attitude towards Kaladin softens. As they weather the first [[Highstorm\|highstorm]] in a bunker secured by the human, she promises that she will speak in his favor upon reaching Revolar. When they arrive, she insists that Kaladin is not their captive and explains that he wants to fight with the singers. Despite Kaladin's betrayal, Khen seems to harbor little anger towards him.
+Cuando el grupo de Khen captura por primera vez a [[Kaladin\|Kaladin]], ella vota por matarlo por miedo a que escape y lleve a otros humanos hasta ellos; recalca que ella misma lo haría si fuese necesario. Después de que Kaladin escape y comience a ayudar a su pueblo, la actitud de Khen hacia Kaladin se suaviza. Mientras capean la primera [[Alta tormenta\|alta tormenta]] en un refugio asegurado por el humano, ella promete que hablará en su favor al llegar a Revolar. Cuando llegan, ella insiste en que Kaladin no es su prisionero y explica que quiere luchar con los cantores. A pesar de la traición de Kaladin, Khen parece albergar poco rencor hacia él.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 17:44, 18 May 2023 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Khen
+https://es.coppermind.net/wiki/Khen

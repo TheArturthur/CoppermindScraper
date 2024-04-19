@@ -1,36 +1,49 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Sukishi**|
 |-|-|
-|**Groups**|[[Nightmare Division\|Nightmare Division]]|
-|**Residence**|[[Kilahito\|Kilahito]]|
-|**Nationality**|[[Nagadan\|Nagadan]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎|
+|**Residencia**|[[Kilahito\|Kilahito]]|
+|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Sukishi** is an old [[Nightmare\|nightmare]] [[Painter\|painter]] foreman in [[Kilahito\|Kilahito]] on [[Komashi\|Komashi]]. He has a small office in the [[Nightmare Division\|Nightmare Division]] headquarters.
+**Sukishi** es un viejo capataz [[Pintor\|pintor]] de [[Pesadilla\|pesadillas]] de [[Kilahito\|Kilahito]], en [[Komashi\|Komashi]]. Tiene una pequeña oficina en la sede de la [[Divisi%C3%B3n de pesadillas\|división de pesadillas]].
 
-## Contents
+## Sumario
 
-1 Appearance & Personality
-2 History
-3 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
 
-3.1 Nikaro
-
-
-4 Notes
+3. [[#Nikaro]] 
 
 
-## Appearance & Personality
-Sukishi is a large man with white hair and the complexion of an elderly person. He wears thick trousers and a button-up shirt.
+4 Notas. [[#Notas]] 
 
-## History
-[[Nikaro\|Nikaro]] visited Sukishi's office earlier on the night that the painter first spotted [[Liyun\|a stable nightmare]], to turn in two paintings of [[Nightmare\|nightmares]]. After Nikaro did not report for work the following day, the foreman stopped by Nikaro's apartment, where he met [[Yumi\|Yumi]] and asked her to have the painter report in. Yumi later visited Sukishi's office to report that Nikaro was sick, and he did not believe the story. When Yumi then claimed that Nikaro faced a stable [[Nightmare\|nightmare]], Sukishi assumed it to be a complete fabrication on Nikaro's part and did not report the sighting to the [[Dreamwatch\|Dreamwatch]].
-Sukishi eventually had other painters cover Nikaro's territory, after he stopped showing up for work. Later, when the stable nightmare was encountered once more, [[Tojin\|Tojin]] reported to Sukishi, who summoned the Dreamwatch after seeing the damage caused by the creature firsthand.
 
-## Relationships
+## Apariencia y personalidad
+Sukishi es un hombre corpulento, de pelo blanco y tez de anciano. Viste pantalones gruesos y camisa abotonada.
+
+## Historia
+[[Nikaro\|Nikaro]] visitó el despacho de Sukishi la noche en que el pintor vio por primera vez a [[Liyun\|una pesadilla estable]], para entregar dos cuadros de [[Pesadilla\|pesadillas]]. Después de que Nikaro no se presentase a trabajar al día siguiente, el capataz pasó por el apartamento de Nikaro, donde se encontró con [[Yumi\|Yumi]] y le pidió que mandase presentarse al pintor. Más tarde, Yumi acude al despacho de Sukishi para informar de que Nikaro está enfermo y éste no se cree la historia. Cuando Yumi afirmó en ese momento que Nikaro se enfrentaba a una [[Pesadilla\|pesadilla]] estable, Sukishi asumió que se trataba de una completa invención por parte de este y no informó del avistamiento a la [[Guardia del Sue%C3%B1o\|Guardia del Sueño]].
+Sukishi acabó haciendo que otros pintores cubrieran el territorio de Nikaro, después de que éste dejara de presentarse a trabajar. Más tarde, cuando encontraron de nuevo a la pesadilla estable, [[Tojin\|Tojin]] informó a Sukishi, que convocó a la Guardia del Sueño tras ver los daños causados por la criatura.
+
+## Relaciones
 ### Nikaro
-Sukishi is aware of the way Nikaro lied about joining the Dreamwatch and skipped his classes, giving him an extremely negative and mistrusting opinion of the painter. He also dislikes the way Nikaro repeatedly uses bamboo to paint nightmares, considering the technique to be lazy. He was surprised by the idea of Nikaro having a woman in his apartment, after meeting Yumi there. Nikaro can sense the man's contempt for him.
+Sukishi es consciente de que Nikaro mintió sobre su ingreso en la Guardia del Sueño y se saltó sus clases, lo que le hace tener una opinión extremadamente negativa y desconfiada del pintor. También le disgusta la forma en que Nikaro utiliza repetidamente el bambú para pintar pesadillas, pues considera que la técnica es perezosa. Le sorprendió la idea de que Nikaro tuviese a una mujer en su apartamento, después de conocer allí a Yumi. Nikaro puede sentir el desprecio del hombre hacia él.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Sukishi
+https://es.coppermind.net/wiki/Sukishi

@@ -1,57 +1,57 @@
 |**Paul Tanasin**|
 |-|-|
-|**Family**|
-|**Parents**|[[Lin Yang-Tanasin\|Lin Yang-Tanasin]], [[Zoran Tanasin\|Zoran Tanasin]]|
-|**Siblings**|[[Nikka\|Nikka]]|
-|**Abilities**|[[Dark One (title)\|Dark One]]|
-|**Homeworld**|[[Earth (Dark One)\|Earth (Dark One)]]|
+|**Familia**|
+|**Padres**|[[Lin Yang-Tanasin\|Lin Yang-Tanasin]], [[Zoran Tanasin\|Zoran Tanasin]]|
+|**Hermanos**|[[Nikka\|Nikka]]|
+|**Capacidades**||
+|**Mundo natal**|[[Tierra (Dark One)\|Tierra (Dark One)]]|
 
-This page or section needs to be updated with new information for *Dark One Book 1*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*I know what kind of beast I am now. Why would I let it out?*”
 \-Paul to Nikka[1]
 
 
-**Paul Tanasin** is seventeen year old from New York City. He later becomes the [[Dark One (title)\|Dark One]] in [[Mirandus\|Mirandus]].
+**Paul Tanasin** is seventeen year old from New York City. He later becomes the  in [[Mirandus\|Mirandus]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
+1 Appearance and Personality. [[#Appearance and Personality]] 
 
-1.1 Appearance
-1.2 Personality
-
-
-2 Attributes and Abilities
-
-2.1 Dark One
-2.2 Combat Skills
+1. [[#Appearance]] 
+1. [[#Personality]] 
 
 
-3 History
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-3.1 Childhood
-
-3.1.1 Sibling
-
-
-3.2 Young Adult
-
-3.2.1 Therapy
-3.2.2 The Truth
-3.2.3 Dark One
+2. [[#Dark One]] 
+2. [[#Combat Skills]] 
 
 
+3 History. [[#History]] 
+
+3. [[#Childhood]] 
+
+3. [[#Sibling]] 
 
 
-4 Relationships
+3. [[#Young Adult]] 
 
-4.1 Nikka
-4.2 Feotora
+3. [[#Therapy]] 
+3. [[#The Truth]] 
+3. [[#Dark One 2]] 
 
 
-5 Trivia
-6 Notes
+
+
+4 Relationships. [[#Relationships]] 
+
+4. [[#Nikka]] 
+4. [[#Feotora]] 
+
+
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -63,7 +63,7 @@ Paul is a lonely person, who fears he will cause harm to others around him. Afte
 Once the light is defeated, Paul vows to protect and love the drull, taking after his attorney mother, who tries to defend and protect people accused of the worst crimes.
 
 ## Attributes and Abilities
-For more information, see [[Dark One (title)\|Dark One]].
+Para more information, ver .
 ### Dark One
 Paul is the latest Dark One and has the power to bind souls to the soulless. Paul does this instinctively at first, binding [[Nikka\|Nikka]] before she would be killed by a mine, and binding [[Sir Ysla\|Sir Ysla]] to the sword the knight used to wield before his untimely demise. Paul is the first Dark One to emerge victorious over the light, affecting the Narrative in ways that have never occurred before.
 
@@ -80,11 +80,11 @@ As a child, Paul and his sister, Nikka, were inseparable. Paul would look after 
 Prior to the meeting with [[Dr. Marcus\|Dr. Marcus]], Paul moved out of his home after making a deal with his mother to see the doctor in exchange for getting his own place. During an emergency session with Dr. Marcus after a panic attack in a cafe, Paul was attacked by a knight, Sir Ysla, who Paul killed using his newfound power. In the process of killing the knight, Paul was transported to Mirandus.
 
 #### The Truth
-After arriving on Mirandus, Paul met Feotora, who started to lead Paul back to the [[Kingdoms of Light\|Kingdoms of Light]] once he managed to convince her that he was not a [[Drull\|drull]]. They fought off a pack of Evermouths that were following them, and faced off against a group of drull before Feotora and the drull realized that Paul was the [[Dark One (title)\|Dark One]]. Surviving a fight with Feotora, the drull confirmed Paul as the Dark One while Feotora fled back to the Kingdoms of Light alone.
+After arriving on Mirandus, Paul met Feotora, who started to lead Paul back to the [[Kingdoms of Light\|Kingdoms of Light]] once he managed to convince her that he was not a [[Drull\|drull]]. They fought off a pack of Evermouths that were following them, and faced off against a group of drull before Feotora and the drull realized that Paul was the . Surviving a fight with Feotora, the drull confirmed Paul as the Dark One while Feotora fled back to the Kingdoms of Light alone.
 One of the drull, [[Rastik\|Rastik]], after convincing Paul of the need, led Paul to [[Pitch\|Pitch]], [[Pitch\|the Black City]]. In the [[Dark Keep\|Dark Keep]], Rastik showed Paul to the [[Well of Sorrows\|Well of Sorrows]] and encouraged him to drink from it, and full take up the mantle of the Dark One. Just prior to Paul drinking from the well, Nikka showed Paul memories from their childhood involving their father's death, and how they discovered Mirandus for the first time. After reliving these memories, Paul drank from the well.
 
 #### Dark One
-After drinking from the well, Rastik led Paul to his armor and then offered himself up for Paul to draw power from. Paul killed Rastik to activate the [[Ironkeeper\|Ironkeepers]] to face the army of the light that had started attacking the city. Paul entered the battle and after almost being killed, defeated [[Kraisis\|Kraisis]], using his soul to raise more drull to fight for the dark. Feotora then insisted on fighting Paul, but was wounded and called a retreat of the light's army. After the battle, Paul spoke to the drull and promised to protect and care for them. After leaving the drull behind for some time alone, Paul was magically pulled to a courtroom on [[Earth (Dark One)\|Earth]]. Here he was taken into custody by police who believed him to have been holding [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] and the other people in the room hostage. He was dragged from the courtroom, powerless.
+After drinking from the well, Rastik led Paul to his armor and then offered himself up for Paul to draw power from. Paul killed Rastik to activate the [[Ironkeeper\|Ironkeepers]] to face the army of the light that had started attacking the city. Paul entered the battle and after almost being killed, defeated [[Kraisis\|Kraisis]], using his soul to raise more drull to fight for the dark. Feotora then insisted on fighting Paul, but was wounded and called a retreat of the light's army. After the battle, Paul spoke to the drull and promised to protect and care for them. After leaving the drull behind for some time alone, Paul was magically pulled to a courtroom on . Here he was taken into custody by police who believed him to have been holding [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] and the other people in the room hostage. He was dragged from the courtroom, powerless.
 
 ## Relationships
 ### Nikka
@@ -96,6 +96,16 @@ Despite their first encounter almost being a fight, Feotora and Paul develop a c
 ## Trivia
 Paul was originally going to be from a separate island on Mirandus, before it was decided he would come from Earth.
 When Paul becomes the Dark One and accepts it, the speech bubbles in the graphic novel switch to red text on black background.
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Dark One (franquicia)\|Dark One]] ([[Tierra (Dark One)\|Tierra]]/[[Mirandus\|Mirandus]])**|
+|-|-|
+|**Personajes**| · [[Nikka\|Nikka]] · [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] · [[Gosovic\|Gosovic]] · [[Feotora\|Feotora]] · [[Illarion\|Illarion]] · [[Kraisis\|Kraisis]] · [[Malmahan\|Malmahan]] · [[Rastik\|Rastik]]|
+|**Lugares**|[[Mirandus\|Mirandus]] · [[Kingdoms of Light\|Kingdoms of Light]] · [[Blackened Lands\|Blackened Lands]] · [[Pitch\|Pitch]]|
+|**Magia y lore**|[[Narrative\|Narrative]] · [[Destined One\|Destined One]] · [[Dark One (t%C3%ADtulo)\|Dark One]] · [[Well of Sorrows\|Well of Sorrows]] · [[Peragator\|Peragator]]|
+|**Otros**|[[Drull\|Drull]] · [[Evermouth\|Evermouth]] · [[Ironkeeper\|Ironkeeper]]|
 
 
-https://coppermind.net/wiki/Paul_Tanasin
+
+https://es.coppermind.net/wiki/Paul_Tanasin

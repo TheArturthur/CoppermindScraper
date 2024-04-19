@@ -1,87 +1,107 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Jaxlim**|
 |-|-|
-|by  rspixart |
-|**Family**|
-|**Children**|[[Eshonai\|Eshonai]], [[Venli\|Venli]]|
-|**Species**|[[Singer\|Singer]]|
-|**Residence**|[[Narak\|Narak]]|
-|**Nationality**|[[Listener\|Listener]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Words of Radiance*|
+||
+|**Familia**|
+|**Hijos**|[[Eshonai\|Eshonai]], [[Venli\|Venli]]|
+|**Especie**|[[Cantor\|Cantor]]|
+|**Residencia**|[[Narak\|Narak]]|
+|**Nacionalidad**|[[Oyente\|Oyente]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*We need to remember what we passed through to get here. We need to take care not to forget ourselves.*”
-\-Jaxlim to Venli on learning all stanzas to perfection[1]
-
-
-**Jaxlim** is a [[Listener\|listener]] who lives on the [[Shattered Plains\|Shattered Plains]] on [[Roshar\|Roshar]]. She is the mother of [[Eshonai\|Eshonai]] and [[Venli\|Venli]] and has the important role of Keeper of Songs.
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-
-2.1 Songs
+>“*Debemos recordar el pasado. Necesitamos recordar aquello por lo que pasamos para llegar hasta aquí. Debemos preocuparnos de no olvidarnos a nosotros mismos.*”
+\-Jaxlim a Venli sobre aprender todas las estrofas a la perfección[1]
 
 
-3 History
+**Jaxlim** es una [[Oyente\|oyente]] que vive en las [[Llanuras Quebradas\|Llanuras Quebradas]] en [[Roshar\|Roshar]]. Es la madre de [[Eshonai\|Eshonai]] y [[Venli\|Venli]] y tiene el importante papel de Guardiana de las Canciones.
 
-3.1 Narak
-3.2 War of Reckoning (1167 - 1174)
-3.3 After the Battle of Narak
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 
-4 Relationships
-
-4.1 Venli
-4.2 Eshonai
+2. [[#Canciones]] 
 
 
-5 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#Narak]] 
+3. [[#Guerra de la Venganza .281167 - 1174.29]] 
+3. [[#Tras la .E2.80.9CAut.C3.A9ntica Desolaci.C3.B3n.E2.80.9D]] 
 
 
-## Appearance and Personality
-At a younger age, Jaxlim projects confidence even when doing something as simple as weaving. Her complex skin pattern of wavy red and black lines is among the most beautiful in the camp--like true marbled stone. She is strong, with a fit and powerful body. There is something amazing about Jaxlim’s voice. It isn’t powerful or bold, but it is like a knife--thin, sharp, almost liquid. She once had one of the best memories in the city.
-At an old age, Jaxlim retains a solid build, although she sometimes seems frail. She has a neat round face and wears her hair strands in a braid tied with a ribbon given to her by [[Eshonai\|Eshonai]]. She prefers [[Workform\|workform]] and stays in that form even as new ones are discovered, believing that her people should not place value on any particular form in order to avoid social stratification. She sings often with her calming, sonorous voice. She had some conflicts with Eshonai while raising her, but Eshonai always respected her.
+4 Relaciones. [[#Relaciones]] 
 
-## Attributes and Abilities
-Jaxlim's people are the First-Rhythm family, who have a noble heritage. Jaxlim is one of the few who knows all the Songs of the Listeners. She teaches them to her daughers [[Eshonai\|Eshonai]] and [[Venli\|Venli]]. With her knowledge of the Song of Making Paper she helps Eshonai to perfect the technique, making her daughter the first scout to map the place.
-
-### Songs
->“*“Daring was the challenge made,” Mother sang, “when the Last Legion abandoned thought and power in exchange for freedom. They risked forgetting all. And so songs they composed, a hundred stories to tell, to remember. I tell them to you, and you will tell them to your children, until the forms are again discovered.”*”
-\-Jaxlim to Eshonai[3]
+4. [[#Venli]] 
+4. [[#Eshonai]] 
 
 
-The old songs recounted by Jaxlim include information about the Parshendi that is not widely known. According to her songs, the Listeners, then known as the [[Last Legion\|Last Legion]], were warriors who were sent to fight in a shattered nation. The people were not free, because the [[Regal\|Forms of Power]] had been forced upon them, bending them to the will of their gods. During a storm, the Last Legion decided to abandon the dark home and adopt a form that would allow them to escape the influence of the gods. They knew this form would cause them to lose most of their mental faculties, so they composed songs to try and preserve their history. They decided to spread out into small tribes to avoid conflict.
+5 Notas. [[#Notas]] 
 
-## History
+
+## Apariencia y personalidad
+A su corta edad, Jaxlim proyecta confianza incluso cuando hace algo tan sencillo como tejer. Su complejo patrón cutáneo de líneas onduladas rojas y negras es uno de los más bellos del campamento, como una auténtica piedra jaspeada. Es fuerte, con un cuerpo poderoso y en forma. Hay algo asombroso en la voz de Jaxlim. No es poderosa ni intensa, pero es como un cuchillo: fina, afilada, casi líquida. También tiene una de las mejores memorias de la ciudad.
+A su avanzada edad, Jaxlim conserva una constitución sólida, aunque a veces parece frágil. Tiene la cara redonda y lleva el pelo recogido en una trenza atada con una cinta que le regaló [[Eshonai\|Eshonai]]. Prefiere la [[Forma de trabajo\|forma de trabajo]] y permanece en ella aunque se descubran otras nuevas, pues cree que su pueblo no debe dar valor a ninguna forma en particular para evitar la estratificación social. Canta a menudo con su voz calmada y sonora. Tuvo algunos conflictos con Eshonai mientras la criaba, pero esta siempre la respetó.
+
+## Atributos y habilidades
+El pueblo de Jaxlim es la familia del Primer Ritmo, que posee una noble herencia. Jaxlim es una de las pocas personas que conoce todas las Canciones de los Oyentes. Se las enseña a sus hijas [[Eshonai\|Eshonai]] y [[Venli\|Venli]]. Con su conocimiento de la *Canción de crear papel*, ayuda a Eshonai a perfeccionar la técnica, convirtiendo a su hija en la primera exploradora en cartografiar el lugar.
+
+### Canciones
+>“*Atrevido fue el desafío hecho, cuando la Última Legión abandonó el pensamiento y el poder a cambio de la libertad. Se arriesgaron a olvidarlo todo. Y por eso compusieron canciones, un centenar de historias para contar, para recordar. Yo te las cuento, y tú se las contarás a tus hijos, hasta que las formas sean descubiertas de nuevo.*”
+\-Jaxlim a Eshonai[3]
+
+
+Las viejas canciones contadas por Jaxlim incluyen información sobre los parshendi que no es muy conocida. Según sus canciones, los oyentes, entonces conocidos como la [[%C3%9Altima Legi%C3%B3n\|Última Legión]], eran guerreros que fueron enviados a luchar en una nación destrozada. El pueblo no era libre, porque las [[Regios\|formas de poder]] les habían sido impuestas, doblegándoles a la voluntad de sus dioses. Durante una tormenta, la Última Legión decidió abandonar el hogar oscuro y adoptar una forma que les permitiera escapar de la influencia de los dioses. Sabían que esta forma les haría perder la mayor parte de sus facultades mentales, así que compusieron canciones para intentar preservar su historia. Decidieron dispersarse en pequeñas tribus para evitar conflictos.
+
+## Historia
 ### Narak
-Jaxlim was a Keeper of Songs, possibly the most important job in the family. She was not required to have any other job but learn and pass the knowledge, but she always sought to keep busy. She said working her hands kept her body strong, while going over songs worked her mind. She had trained both her daughters the songs, but Eshonai had given up and so she focused on Venli. Jaxlim was the one taking to the Five the option of finding warform and spoke on behalf of her daughter to support the research.
-Shortly after the listeners and the humans started to meet, her memory started to fail. At the beginning it was only forgetting some parts of the stanzas, something that had never happened before. In the beginning, only Venli really knew about it, and Jaxlim started to send people to her for reciting the songs. It was in part her sickness what urged Venli to find and use warform. Because each form changed the mind somehow, they were hoping it would save her mother’s mind. On the other hand, Jaxlim seemed to be getting worse by the day, making her sickness obvious to everyone, and she agreed with Venli’s plan to try the new form.
-Eshonai was the one who accompanied Jaxlim into the storm to try the form. Jaxlim couldn’t attune the needed rhythms and was unable to transform, though she did enjoy the experience and was happy for a little while. Eshonai instead accepted the painspren into her gemheart. But Jaxlim's sickness progressed quickly. As it got worse, she did feel sad and cried for her own loss while Venli was there by her side. She would then suffer from episodes where she would believe Eshonai and Venli were young children.
+Jaxlim era Guardiana de las Canciones, posiblemente el trabajo más importante de la familia. No se le exigía ningún otro trabajo que no fuera aprender y transmitir los conocimientos, pero siempre procuraba mantenerse ocupada. Decía que trabajar con las manos mantenía fuerte su cuerpo, mientras que repasar canciones hacía trabajar su mente. Había enseñado a sus dos hijas las canciones, pero Eshonai se había rendido y por eso se centró en Venli. Jaxlim fue quien llevó a los Cinco la opción de encontrar la forma de guerra y habló en nombre de su hija para apoyar la investigación.
+Poco después de que los oyentes y los humanos empezaran a encontrarse, su memoria empezó a fallar. Al principio solo olvidaba algunas partes de las estrofas, algo que nunca le había ocurrido. Solo Venli lo sabía de verdad y Jaxlim empezó a enviarle gente para que recitase las canciones. La enfermedad que sufría fue en parte lo que motivó a Venli a buscar y emplear la forma de guerra. Como cada forma cambiaba la mente de algún modo, esperaban que salvase la mente de su madre. Por su parte, Jaxlim mostraba un deterioro constante día tras día, lo que evidenciaba su enfermedad ante todos, y estuvo de acuerdo con el plan de Venli de experimentar con la nueva forma.
+Eshonai fue quien acompañó a Jaxlim a la tormenta para probar la forma. Jaxlim no pudo sintonizar los ritmos necesarios y fue incapaz de transformarse, aunque disfrutó de la experiencia y fue feliz durante un rato. Eshonai, en cambio, aceptó el dolorspren en su gema corazón. Pero la enfermedad de Jaxlim progresó rápidamente. Al empeorar, se sintió triste y lloró por su propia pérdida mientras Venli estaba a su lado. Entonces sufría episodios en los que creía que Eshonai y Venli eran niñas pequeñas.
 
-### War of Reckoning (1167 - 1174)
-Jaxlim could be seen in her shack on the outskirts of [[Narak\|Narak]] tending to her [[Shalebark\|shalebark]] gardens. She appeared to be senile, as she did not always recognize her daughter and sometimes seemed to hallucinate. Eshonai said that she had not heard wise words from her mother in years. Jaxlim could sometimes remember some of the old songs. Eshonai asked her about the listeners leaving the "dark home", and her mother sang a song to a Rhythm of Remembrance that revealed tidbits of Parshendi history. She had saved some maps of the former kingdom of [[Natanatan\|Natanatan]] that Eshonai made in her youth, and she gave them to Eshonai. Jaxlim was rounded up with the rest of the listeners who refused to adopt Stormform when Eshonai began to take control of Narak. She escaped into the chasms with [[Thude\|Thude]] and the rest of the dissenters.
+### Guerra de la Venganza (1167 - 1174)
+Se podía ver a Jaxlim en su choza de las afueras de [[Narak\|Narak]] cuidando de sus huertos de [[Cortezapizarra\|cortezapizarra]]. Parecía estar senil, pues no siempre reconocía a su hija y a veces parecía tener alucinaciones. Eshonai dijo que hacía años que no oía palabras sabias de su madre. Jaxlim a veces podía recordar algunas de las viejas canciones. Eshonai le preguntó por los oyentes que abandonaban el "hogar oscuro", y su madre entonó una canción al [[/wiki/Cantor#Ritmos]] que revelaba retazos de la historia parshendi. Había guardado unos mapas del antiguo reino de [[Natanatan\|Natanatan]] que Eshonai hizo en su juventud y se los dio a Eshonai. Jaxlim fue recluida con el resto de los oyentes que se negaron a adoptar la [[/wiki/Cantor#Formas de Poder]] cuando Eshonai comenzó a tomar el control de Narak. Escapó a los abismos con [[Thude\|Thude]] y el resto de los disidentes.
 
-### After the Battle of Narak
-After the Battle of Narak, the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[Chasmfiend\|chasmfiend]]. When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter. However, Venli held out hope that a Radiant bond could still heal her mother's mental afflictions.
+### Tras la “Auténtica Desolación”
+Tras la tormenta eterna, los oyentes con los que Jaxlim había escapado lograron sobrevivir con la ayuda de un [[Abismoide\|abismoide]]. Cuando Venli regresó con los supervivientes de los oyentes, Jaxlim había perdido toda capacidad de reconocer a su hija. Sin embargo, Venli albergaba la esperanza de que un vínculo Radiante pudiera curar las aflicciones mentales de su madre.
 
-## Relationships
+## Relaciones
 ### Venli
->“*Thank you! For reminding me, of what I am practicing to become.*”
-\-Venli to Jaxlim after listening to her sing[1]
+>“*¡Gracias! Por recordarme qué aspiro a lograr cuando practico.*”
+\-Venli a Jaxlim después de escucharla cantar[1]
 
 
-Jaxlim spends many hours helping Venli to learn all the stanzas of the listeners' songs to perfection. Venli gets annoyed at being corrected, but does respect her mother. Jaxlim also supports her daughter in finding new forms and pushes her when she thinks she is too afraid of failure. Jaxlim also suggests that Venli learn the human language.
-Venli is with her throughout all the progression of her sickness, and even wearing her new forms, it breaks her heart. She is there by her mother's side right until her transformation to stormform. When they reunite, Venli feels joy and hope with the thought of her becoming a Radiant and healing her mind. It is this bond and selflessness that helps Venli reach her next Radiant Ideal.
+Jaxlim pasa muchas horas ayudando a Venli a aprenderse a la perfección todas las estrofas de las canciones de los oyentes. A Venli le molesta que la corrijan, pero respeta a su madre. Jaxlim también apoya a su hija en la búsqueda de nuevas formas y la empuja cuando cree que tiene demasiado miedo al fracaso. También sugiere que Venli aprenda el lenguaje humano.
+Venli la acompaña durante toda la progresión de su enfermedad, e incluso luciendo sus nuevas formas, se le rompe el corazón. Está al lado de su madre hasta su transformación en forma de tormenta. Cuando se reúnen, Venli siente alegría y esperanza con la idea de que se convierta en una Radiante y sane su mente. Es este vínculo y desinterés lo que ayuda a Venli a alcanzar su siguiente Ideal Radiante.
 
 ### Eshonai
->“*Eshonai has a bold heart. She merely needs to learn that her family is more important than counting the number of hills outside the camp.*”
-\-Jaxlim to Venli about Eshonai[1]
+>“*Eshonai tiene un corazón audaz. Aún tiene que aprender que su familia es más importante que contar cuántas colinas hay fuera del campamento.*”
+\-Jaxlim a Venli sobre Eshonai[1]
 
 
-When young, Jaxlim teaches Eshonai the songs of the listeners. The latter, however, is more interested in exploration and gives up on becoming a keeper of songs. Before meeting the humans, Jaxlim doesn’t think much of Eshonai's work as scout, calling it silly and calling her unreliable and prone to fancy. After the discovery, however, she speaks of her daughter with praise and respect.
+De joven, Jaxlim enseña a Eshonai las canciones de los oyentes. Este último, sin embargo, está más interesado en la exploración y renuncia a convertirse en un guardián de las canciones. Antes de conocer a los humanos, Jaxlim no tiene muy buena opinión del trabajo de Eshonai como exploradora, lo califica de tontería y la tacha de poco fiable y propensa a la fantasía. Sin embargo, tras el descubrimiento, habla de su hija con elogio y respeto.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Jaxlim
+https://es.coppermind.net/wiki/Jaxlim

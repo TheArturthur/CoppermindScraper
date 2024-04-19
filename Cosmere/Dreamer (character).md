@@ -1,31 +1,31 @@
 |**Dreamer (character)**|
 |-|-|
-|**Siblings**|[[Phi\|Phi]]|
-|**Died**|~2010s|
-|**Aliases**|Dave|
-|**Powers**|Possession of the living, [[Bolting\|Bolting]]|
-|**Species**|[[Poltergeist\|Poltergeist]] (formerly human)|
-|**Residence**||
-|**Nationality**||
-|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
+|**Hermanos**|[[Phi\|Phi]]|
+|**Fallecido**|~2010s|
+|**Apodos**|Dave|
+|**Poderes**|Possession of the living, [[Bolting\|Bolting]]|
+|**Especie**|[[Poltergeist\|Poltergeist]] (formerly human)|
+|**Residencia**||
+|**Nacionalidad**||
+|**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
 
 Dave, better known by his gaming handle **Dreamer**, is a [[Poltergeist\|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including his brother [[Phi\|Phi]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
+1 Appearance and Personality. [[#Appearance and Personality]] 
 
-1.1 Bodies Possessed by Dreamer
-
-
-2 Attributes and Abilities
-3 History
-4 Relationships
-
-4.1 Phi
+1. [[#Bodies Possessed by Dreamer]] 
 
 
-5 Notes
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
+
+4. [[#Phi]] 
+
+
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -38,7 +38,7 @@ Dreamer enjoyed playing video games during his lifetime and often played them wi
 ### Bodies Possessed by Dreamer
 **A businessman** in his late thirties who was lean and trim and evidently went to the gym. Killed by Phi.
 **An old lady** who carried a purse, spoke a language Dreamer didn't understand, and spoke English with an accent. Described as "hobbling" and weak.
-**Lorenzo**, a lieutenant in the police force. A muscular man with dark skin who wore a white shirt as part of his uniform. Killed with [[Marks (Dreamer)\|Marks]] when Dreamer used him to tackle Phi off a building.
+**[[Lorenzo\|Lorenzo]]**, a lieutenant in the police force. A muscular man with dark skin who wore a white shirt as part of his uniform. Killed with [[Marks (Dreamer)\|Marks]] when Dreamer used him to tackle Phi off a building.
 **A construction worker**, a man who is not described.
 ## Attributes and Abilities
 As a poltergeist, Dreamer must possess the body of a living person in order to maintain consciousness. When possessing a body, he gains full control over the person and can even access certain skills for a limited time. If the body he is possessing is killed, he is forcefully ejected and becomes a mindless, primal unembodied spirit, desperate for warmth until he finds and takes over a new body. He can also [[Bolting\|Bolt]] from one body to another if he makes physical contact with the new body.
@@ -53,6 +53,14 @@ At this point Dreamer was out of bodies to use in the game, but Phi had one rema
 ### Phi
 Dreamer is Phi's younger brother. While he plays games and continues to interact with Phi, Dreamer considers him to be self-satisfied and stubborn.
 
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Dreamer\|Dreamer]]**|
+|-|-|
+|**Personajes**| · [[Phi\|Phi]] · [[Longshot\|Longshot]] · [[Icer\|Icer]] · [[Rabies\|Rabies]] · [[TheGannon\|TheGannon]] · [[Lorenzo\|Lorenzo]] · [[Marks (Dreamer)\|Marks]]|
+|**Términos**|[[Poltergeist\|Poltergeist]] · [[Bolting\|Bolting]]|
 
 
-https://coppermind.net/wiki/Dreamer_(character)
+
+https://es.coppermind.net/wiki/Dreamer_(character)

@@ -1,12 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Futinoro**|
 |-|-|
-|**Nation**|[[Nagadan\|Nagadan]]|
-|**World**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Nación**|[[Nagadan\|Nagadan]]🐱︎|
+|**Mundo**|[[Komashi\|Komashi]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Futinoro** is a city in [[Nagadan\|Nagadan]] on [[Komashi\|Komashi]] that was completely destroyed by stable [[Nightmare\|nightmares]] thirty years prior to the [[Battle of Kilahito\|battle of Kilahito]].
-To the people of Nagadan, the attack is believed to have been the consequence of [[Painter\|painters]] not showing proper vigilance at their jobs. It stands as a warning sign to the dangers of not halting nightmares before they become fully stable. According to [[Liyun\|Liyun]], the attack was directly orchestrated by the [[Father machine\|father machine]] to curb the efforts of some [[Hijo\|spirits]] that managed to contact the residents of Futinoro. The machine had the entire city destroyed in order to prevent the truth from being discovered.
+**Futinoro** es una ciudad de [[Nagadan\|Nagadan]], en [[Komashi\|Komashi]], que fue completamente destruida por [[Pesadilla\|pesadillas]] estables treinta años antes de la [[Batalla de Kilahito\|batalla de Kilahito]].
+Para los habitantes de Nagadan, se cree que el ataque fue consecuencia de que los [[Pintor\|pintores]] no mostraban la debida atención en su trabajo. Es una señal de advertencia sobre los peligros de no detener las pesadillas antes de que se estabilicen por completo. Según [[Liyun\|Liyun]], el ataque fue directamente orquestado por la [[M%C3%A1quina padre\|máquina padre]] para frenar los esfuerzos de algunos [[Haijo\|espíritus]] que consiguieron contactar con los residentes de Futinoro. La máquina hizo destruir toda la ciudad para evitar que se descubriese la verdad.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Futinoro
+https://es.coppermind.net/wiki/Futinoro

@@ -1,47 +1,57 @@
-|**Dor**|
+
+
+|**El Dor**|
 |-|-|
-|by Heatherly (with map by Jeff Creer)|
-|**Related to**|[[AonDor\|AonDor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], [[Dakhor\|Dakhor]], [[Bloodsealing\|Bloodsealing]]|
-|**World of Origin**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Relacionado con**|[[AonDor\|AonDor]], [[ChayShan\|ChayShan]], [[Falsificaci%C3%B3n\|falsificación]], [[Dakhor\|dakhor]], [[Sellado de sangre\|sellado de sangre]]|
+|**Mundo de origen**|[[Sel\|Sel]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
-
-For the [[Singer\|singer]] on [[Roshar\|Roshar]], see [[Dor (character)\|Dor (character)]].
->“*At this point, the bulk of the Investiture that made up the powers of Dominion and Devotion is trapped on the Cognitive Realm. Collectively, these powers—which have a polarized relationship—are called the Dor. Forced together as they are, trapped and bursting to escape, they power the various forms of magic on Sel, which are multitude.*”
-\-Khriss on the Dor[1]
+Para el [[Cantor\|cantor]] de [[Roshar\|Roshar]], ver [[Dor (personaje)\|Dor (personaje)]].
+>“*En la actualidad, la mayor parte de la Investidura que componía los poderes de Dominio y Devoción está atrapada en el Reino Cognitivo. Estos poderes, que tienen una relación polarizada, reciben colectivamente el nombre de Dor. Obligados como están a permanecer juntos, atrapados y ansiosos por escapar, alimentan las distintas formas de magia en Sel, que son multitud.*”
+\-Khriss hablando sobre el Dor[1]
 
 
-**The Dor** is the source of [[Investiture\|Investiture]] on [[Sel\|Sel]], The Dor powers all Invested Arts on Sel, including [[AonDor\|AonDor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], [[Dakhor\|Dakhor]], and [[Bloodsealing\|Bloodsealing]].
+Se denomina **el Dor** a la fuente de [[Investidura\|Investidura]] existente en [[Sel\|Sel]] que alimenta las Artes Investidas de este planeta, incluidos el [[AonDor\|AonDor]], [[ChayShan\|ChayShan]], la [[Falsificaci%C3%B3n\|falsificación]], el [[Dakhor\|dakhor]], y el [[Sellado de sangre\|sellado de sangre]].
 
-## Contents
+## Sumario
 
-1 Appearance
-2 Composition & Nature
-3 Culture
-4 Notes
-
-
-## Appearance
-The Dor often shows its presence through some sort of bright glowing, whether through [[Seons\|Seons]], [[Aon\|Aons]], the twists of the [[Dakhor\|Dakhor]] bones, in the wake of the movements of someone using [[ChayShan\|ChayShan]], or in the purified Dor in possession of the [[Ghostbloods\|Ghostbloods]] or [[Ire\|Ire]].
-When stored in the Physical Realm, it takes the form of a brightly glowing liquid.
-
-## Composition & Nature
->“*This power comes from a god’s corpse. Two of them actually, intermingled. It’s exceptionally difficult to recover. The things that you could do with this … well, that I could do with this. You’d only be able to use it as a hyperefficient replacement for your metals. You don’t know how good you have it here on Scadrial, being able to power your abilities with something so common.*”
-\-Moonlight[6]
+1 Apariencia. [[#Apariencia]] 
+2 Composición y naturaleza. [[#Composici.C3.B3n y naturaleza]] 
+3 Cultura. [[#Cultura]] 
+4 Notas. [[#Notas]] 
 
 
-The Dor is a mass of plasma-like substance in the [[Cognitive Realm\|Cognitive Realm]], a large amount of power left behind after [[Odium\|Odium]] visited [[Sel\|Sel]]. It is the remnant of the combined powers of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] after the [[Shards\|Shards]] were [[Splintering\|Splintered]]. The Dor exists in the Cognitive Realm and is very dangerous, appearing as a large source of mindless, uncontrolled power. Due to being in the Cognitive Realm it has attained only rudimentary emotions. Furthermore, this has shaped the nature of the magic systems, making them very dependent upon location, geography, intent, and perception, far more so than in other systems.
-The programming-esque way Investiture is drawn from the Dor is the result of the fact that its power is trapped in the Cognitive Realm, as well as the personalities of the original [[Vessel\|Vessels]] of Devotion and Dominion and the nature of Sel's focus: forms. Those that use the Dor can sense when others are using it.
-The Dor can be purified, and carried to other locations. If unkeyed, anyone with powers can use it as fuel for their abilities. This can also be used to bypass the geographic limitation of Sel Investitures.
-There is a [[God Metal\|God Metal]] that comes from the Dor.
-With a proper conduit, such as certain active Aons, [[Nightblood\|Nightblood]] could feed on the Dor. They would, however, likely consume the Investiture of the conduit before consuming a significant amount of the Dor, and, if given more stable access to the Dor, would still likely become saturated with Investiture before absorbing an appreciable amount of the Dor.
+## Apariencia
+El Dor, con frecuencia, muestra su presencia mediante un leve resplandor luminoso, bien sean [[Seon\|seones]], [[Aon\|aones]], los nudos de los huesos de los monjes [[Dakhor\|dakhor]], la estela de los movimientos de alguien utilizando el [[ChayShan\|ChayShan]] o en el Dor purificado que está en posesión de los [[Sangre Espectral\|Sangre Espectral]] o de los [[Ire\|Ire]].
+Cuando se almacena en el Reino Físico, adopta la forma de un líquido que brilla intensamente.
 
-## Culture
-In [[Jesker\|Jesker]], a religion practiced by many [[Duladel\|Dulas]], the Dor is the overspirit, an unseen energy that permeates the world. They believe that Dor is a force that controls the world. Those who follow the Jesker think that the Dor leads those who understand it towards harmony. It also keeps balance in the natural world. The followers of Jeskeri think that the Dor provides the motivation for all events in nature. It is responsible for everything from water "wanting" to flow downhill to teaching captive young birds how to fly. The [[Jeskeri Mysteries\|Jeskeri Mysteries]], a splinter group, look at the Dor in a slightly different way. Instead of a simple passive energy, they see the Dor as fate. The people who follow the Mysteries perform rituals to try to harness the Dor, instead of trying to become in harmony with it like regular followers of the Jesker. They try to invoke it to bring good or bad luck on other people. How the followers of the Jesker became aware of the Dor's presence is still unknown.
-
+## Composición y naturaleza
+>“*Esta energía procede del cadáver de un dios. De dos, en realidad, entremezclados. Es excepcionalmente difícil de extraer. Lo que podrías hacer con esto… Bueno, lo que yo podría hacer con esto. A ti solo te serviría como sustituto hiperefectivo de tus metales. No sabéis la suerte que tenéis aquí en Scadrial, pudiendo alimentar vuestras capacidades con algo tan común.*”
+\-Luzdeluna[6]
 
 
-https://coppermind.net/wiki/The_Dor
+El Dor es una masa de una sustancia similar al plasma que se encuentra en el [[Reino Cognitivo\|Reino Cognitivo]], una cantidad enorme de poder dejado allí tras la visita de [[Odium\|Odium]] a [[Sel\|Sel]] hace milenios. Es el remanente de los poderes combinados de [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] tras el [[Astilla\|Astillamiento]] de ambas [[Esquirlas\|Esquirlas]]. Como se ha dicho, el Dor existe en el Reino Cognitivo y es muy peligroso, tratándose de una enorme fuente de poder que existe sin una mente que la controle. Debido a su existencia en el Reino Cognitivo durante milenios, esta fuente de poder ha desarrollado una suerte de emociones rudimentarias. Además, esto ha moldeado la naturaleza de los sistemas de magia existentes en el planeta, haciendo que cada uno de ellos sea muy dependiente de la localización, geografía, «[[Intenci%C3%B3n\|Intención]]» y «[[/wiki/Teor%C3%ADa Realm%C3%A1tica#La Percepci.C3.B3n]]», más que en otros sistemas propios de otros mundos.
+El modo tan parecido a la programación por el cual la Investidura se extrae del Dor es el resultado del hecho por el cual este poder está atrapado en el Reino Cognitivo, así como también las personalidades de los [[Recipiente\|Recipientes]] originales de [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] y de la naturaleza del foco en Sel: las formas. Aquellas personas capaces de utilizar el Dor pueden sentir cuando otras lo usan.
+El Dor puede purificarse y llevarse a otros lugares. Si está sin vincular, cualquiera con poderes puede usarlo como combustible para sus habilidades. Esto también se puede utilizar para evitar la limitación geográfica de las Investiduras de Sel.
+Existe un [[Metal divino\|metal divino]] que tiene su origen en el Dor.
+Con un conducto apropiado, como ciertos aones activos, [[Sangre Nocturna\|Sangre Nocturna]] podría alimentarse del Dor. No obstante, lo más probable es que consumiese la Investidura del conducto antes de consumir una cantidad significativa del Dor, e incluso aunque se le diera un acceso más estable al Dor, lo más probable es que se saturase de Investidura antes de absorber una cantidad apreciable del Dor.
+
+## Cultura
+Para el [[Jesker\|jesker]], una religión practicada por muchos [[Duladel\|dulas]], el Dor es el supraespíritu, una energía invisible que controla todo el mundo. Creen que el Dor es una fuerza que controla el mundo. Los que siguen el jesker creen que el Dor conduce a quienes lo comprenden hacia la armonía. También mantiene el equilibrio en el mundo natural. Los seguidores jeskeri piensan que el Dor proporciona la motivación para todos los acontecimientos de la naturaleza. Es responsable de todo, desde que el agua «quiera» fluir cuesta abajo hasta que enseñe a volar a los pájaros jóvenes cautivos. Los [[Misterios jeskeri\|misterios jeskeri]], un grupo escindido del anterior, consideran el Dor de una forma ligeramente distinta. En lugar de una simple energía pasiva, ven el Dor como un destino. La gente que sigue los misterios realiza rituales para tratar de aprovechar el Dor en lugar de tratar de entrar en armonía con él como los seguidores habituales. Intentan invocarlo para atraer la buena o la mala suerte a otras personas. Aún se desconoce cómo los seguidores jesker se dieron cuenta de la presencia del Dor.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+
+
+https://es.coppermind.net/wiki/Dor

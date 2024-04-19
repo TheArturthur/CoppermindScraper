@@ -1,15 +1,35 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Derethil**|
 |-|-|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
+> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
 
-**Derethil** was a western king on [[Roshar\|Roshar]], who ruled during the [[Desolation\|Desolations]] He had fair skin and light eyes. He fought the [[Voidbringer\|Voidbringers]] alongside the [[Herald\|Heralds]] and [[Knights Radiant\|Knights Radiant]].
-After a Desolation, he commissioned the ship *Wandersail* and sailed westward, seeking the origin of the Voidbringers. He set off into a [[Highstorm\|highstorm]], and after sailing sometime through the storm, they found themselves crashed on an island in an archipelago surrounding a whirlpool. The island's people called themselves the [[Uvara\|Uvara]], the People of the Great Abyss. They nursed the survivors from the *Wandersail* back to health. The Uvarans punished all failure of any type with execution at the command of their emperor. Derethil discovered that the Uvaran emperor was dead, which caused chaos and rioting among the Uvarans because they had to take responsibility for the brutal murders that they committed in his name. They escaped on the *Wandersail* with [[Nafti\|Nafti]], the crew's guide and caretaker.
-The story of his travels to the isles of Uvara was told by [[Hoid\|Hoid]] to [[Kaladin\|Kaladin]], possibly using [[Yolish Lightweaving\|Yolish Lightweaving]].
-This story deals heavily with taking responsibility for one's actions, and has parallels to [[Szeth\|Szeth's]] turmoil, who was forced to go through an almost identical realization during the [[Battle of Narak\|Battle of Narak]]. It also parallels Kaladin's choosing to blame various sources, such as [[Lighteyes\|lighteyes]] or the Almighty for his misfortune.
+**Derethil** era un rey occidental en [[Roshar\|Roshar]], que gobernó durante las [[Desolaci%C3%B3n\|Desolaciones]]. Tenía la piel y los ojos claros. Luchó contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] junto a los [[Heraldo\|Heraldos]] y los [[Caballeros Radiantes\|Caballeros Radiantes]].
+Después de una Desolación, encargó el barco *[[Vela Errante\|Vela Errante]]* y navegó hacia el oeste, buscando el origen de los Portadores del Vacío. Se adentró en una [[Alta tormenta\|alta tormenta]] y después de navegar durante un tiempo a través de la tormenta, se encontraron varados en una isla en un archipiélago alrededor de un remolino. La gente de la isla se llamaba a sí misma los [[Uvara\|Uvara]], el Pueblo del Gran Abismo. Cuidaron a los supervivientes del *Vela Errante* hasta que se recuperaron. Los uvaran castigaban cualquier tipo de fracaso con la pena de muerte, por orden de su emperador. Derethil descubrió que el emperador uvara estaba muerto, lo que causó caos y disturbios entre los mismos porque tenían que asumir la responsabilidad por los brutales asesinatos que cometieron en su nombre. Escaparon en el *Vela Errante* con [[Nafti\|Nafti]], guía y cuidadora de la tripulación.
+La historia de sus viajes a las islas de Uvara fue contada por [[Hoid\|Hoid]] a [[Kaladin\|Kaladin]], usando posiblemente [[Tejer luz (Yolen)\|tejido de luz de Yolen]].
+Esta historia trata en gran medida sobre asumir la responsabilidad por las propias acciones y tiene paralelos con la confusión de [[Szeth\|Szeth]], quien se vio obligado a llegar a una conclusión casi idéntica durante la [[Batalla de Narak\|Batalla de Narak]]. También presenta paralelismos con la elección de Kaladin de culpar a otros, como los [[Ojos claros\|ojos claros]] o el Todopoderoso, por su infortunio.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Derethil
+https://es.coppermind.net/wiki/Derethil

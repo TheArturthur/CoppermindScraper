@@ -1,19 +1,30 @@
+
+
 |**Eelakin**|
 |-|-|
-|**World of Origin**|[[First of the Sun\|First of the Sun]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo de origen**|[[Primero del Sol\|Primero del Sol]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Eelakin** are an ethnic group on [[First of the Sun\|First of the Sun]], indigenous to the [[Eelakin Islands\|Eelakin Islands]].
+Los **** son un grupo étnico de [[Primero del Sol\|Primero del Sol]], autóctono de las [[Islas Eelakin\|islas Eelakin]].
 
-## Civilization
-Although traditionally a tribal society, the Eelakin have started increasing their technology level and moving away from their trapper heritage. This is spurred by the [[Ones Above\|Ones Above]], who have been trading maps and technology to the Eelakin. [[Aviar\|Aviar]] have always been important to the Eelakin. Otherwise, travel on the waters would be extremely dangerous. Many of the Eelakin are dependent on the trappers; without the [[Aviar\|Aviar]] brought back from the [[Pantheon\|Pantheon]] they would be unable to function as they do. Because of this, many Eelakin wish to make a permanent settlement on the Pantheon and subdue the islands like they did to the [[Homeisles\|Homeisles]]. This project has been headed by the [[Northern Interests Trading Company\|Northern Interests Trading Company]]. The Eelakin are ruled by a council of twenty chiefs.
+## Civilización
+Aunque tradicionalmente han sido una sociedad tribal, los eelakin han empezado a aumentar su nivel tecnológico y a alejarse de su herencia de tramperos. Esto se debe a los [[Venidos de Arriba\|Venidos de Arriba]], que han comerciado mapas y tecnología con los eelakin. Los [[Aviar\|aviares]] siempre han sido importantes para los eelakin. Sin ellos, viajar por las aguas sería extremadamente peligroso. Muchos de los eelakin dependen de los tramperos; sin los [[Aviar\|aviares]] traídos del [[Pante%C3%B3n\|Panteón]] no podrían funcionar como lo hacen. Por ello, muchos desean hacer un asentamiento permanente en el Panteón y someter las islas como hicieron con las [[Islas natales\|islas natales]]. Este proyecto ha sido encabezado por la [[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]]. Los eelakin están gobernados por un consejo de veinte jefes.
 
-## Culture
-Traditionally the Eelakin worshipped the [[Pantheon\|Pantheon]] and practiced the old ways of being able to navigate the oceans without maps. They are lead by a council of twenty chiefs who elect on what they all should do.
-Training for Trappers begin at the age of 10 where they are sent to train on the island of Sori. They are only allowed to graduate from this period of training after their teacher decides they have proven themselves, once this is done then they are allowed to select one of the islands to live upon and hunt on. This process can take many years.
-Recently with the arrival of the [[Ones Above\|Ones Above]] new technology has entered their culture and the old ways of doing things have slowly been dying out.
+## Cultura
+Tradicionalmente, los eelakin rendían culto al [[Pante%C3%B3n\|Panteón]] y practicaban las antiguas formas de poder navegar por los océanos sin mapas. Están dirigidos por un consejo de veinte jefes que eligen lo que deben hacer entre todos.
+Los tramperos empiezan a formarse en la isla de Sori cuando tienen 10 años. Sólo se les permite salir de este periodo de formación cuando su maestro decide que han demostrado su valía; una vez hecho esto, se les permite elegir una de las islas para vivir y cazar.Este proceso puede durar muchos años.
+Recientemente, con la llegada de los [[Venidos de Arriba\|Venidos de Arriba]], nueva tecnología se ha introducido en su cultura y las antiguas formas de hacer las cosas han ido desapareciendo lentamente.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
+|-|-|
+|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
+|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[/wiki/Primero del Sol#Continente]]|
+|**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
+|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
 
 
 
-
-https://coppermind.net/wiki/Eelakin
+https://es.coppermind.net/wiki/Eelakin

@@ -1,10 +1,10 @@
-*This disambiguation page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
-**Ur** refers to three different things on [[Roshar\|Roshar]]:
+*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
+**Ur** hace referencia a tres cosas diferentes en [[Roshar\|Roshar]]:
 
-[[Ur (character)\|Ur (character)]], a guard at the bar [[All's Alley\|All's Alley]] in [[Urithiru\|Urithiru]].
-The [[Mountains of Ur\|mountains of Ur]], a range of mountains in central Roshar.
-Ur also appears to be the name of the specific mountain in this range that was shaped into [[Urithiru\|Urithiru]], and is used as a name for the tower itself.
-In the [[Dawnchant\|Dawnchant]], "ur" means "original".
+[[Ur (personaje)\|Ur (personaje)]], un guardia en el bar [[Callej%C3%B3n de Todos\|Callejón de Todos]] en [[Urithiru\|Urithiru]].
+Las [[Monta%C3%B1as de Ur\|montañas de Ur]], una cadena de montañas en el centro de Roshar.
+Ur también parece ser el nombre de la montaña específica de esta cordillera que se convirtió en [[Urithiru\|Urithiru]], y se utiliza como nombre de la propia torre.
+En el [[Canto del alba\|canto del alba]], "ur" significa "original".
 
 
-https://coppermind.net/wiki/Ur
+https://es.coppermind.net/wiki/Ur

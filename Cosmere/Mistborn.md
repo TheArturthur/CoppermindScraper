@@ -1,9 +1,9 @@
-*This disambiguation page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
-A **Mistborn** is someone who can use all of the [[Metallic Arts\|Allomantic metals]].
-It may also refer to:
+*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
+Un **[[Alomancia\|nacido de la bruma]]** es alguien que puede quemar todos los [[Artes Met%C3%A1licas\|metales alománticos]].
+También puede referirse a:
 
-[[Mistborn (series)\|Mistborn (series)]] -- [[Brandon Sanderson\|Brandon Sanderson's]] first published series
-Mistborn: The Final Empire -- The first book in the Mistborn trilogy, commonly referred to as Mistborn.
+[[Nacidos de la bruma (saga)\|Nacidos de la bruma (saga)]] -- Primera saga publicada de [[Brandon Sanderson\|Brandon Sanderson]]
+Nacidos de la bruma: El Imperio Final -- El primer libro de la trilogía Nacidos de la bruma, comúnmente conocido como Nacidos de la bruma.
 
 
-https://coppermind.net/wiki/Mistborn
+https://es.coppermind.net/wiki/Mistborn

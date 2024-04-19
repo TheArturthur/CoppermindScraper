@@ -1,42 +1,70 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kalkis**|
 |-|-|
-|**Related to**|The [[Lord Ruler\|Lord Ruler]]|
-|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
-|**World of Origin**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Relacionado con**|[[Lord Legislador\|Lord Legislador]]|
+|**Era**|Scadrial clásico|
+|**Mundo de origen**|[[Scadrial\|Scadrial]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Kalkis** are rumored [[Metal\|metal]] beings created by the [[Lord Ruler\|Lord Ruler]] on [[Scadrial\|Scadrial]].
-Kalkis are thought to have been created at some point during the [[Final Empire\|Final Empire]]. They supposedly stayed hidden until the post-[[Catacendre\|Catacendre]] era, when they were rediscovered by a Scadrian [[Noble\|nobleman]] named [[Stefan Sauvage\|Stefan Sauvage]]. Sauvage referred to them as "Unknown Constructs of Antiquity" and claimed to know the location of a living tribe of kalkis. Their existence has not been confirmed.
+Los **kalkis** son supuestos seres [[Metal\|metálicos]] creados por el [[Lord Legislador\|Lord Legislador]] en [[Scadrial\|Scadrial]].
+Se cree que los kalkis fueron creados en algún momento durante el [[Imperio Final\|Imperio Final]]. Aparentemente se mantuvieron ocultos hasta la era del post-[[Catacendro\|Catacendro]], cuando fueron descubiertos por un [[Noble\|noble]] scadriano llamado [[Stefan Sauvage\|Stefan Sauvage]]. Este se refirió a ellos como "misteriosos artefactos de la antigüedad" y afirmó conocer la localización de una de sus tribus. Su existencia no ha sido confirmada.
 
-## Contents
+## Sumario
 
-1 History
+1 Historia. [[#Historia]] 
 
-1.1 Stefan Sauvage's Map
-1.2 The Ghastly Gondola Incident
-
-
-2 Veracity
-3 Trivia
-4 Notes
+1. [[#Mapa de Stefan Sauvage]] 
+1. [[#El funesto funicular]] 
 
 
-## History
-### Stefan Sauvage's Map
-Sauvage commissioned a large tapestry map of [[New Seran\|New Seran]] in 336 [[Catacendre\|PC]]; he added a secret pocket to the map and enclosed a letter to his daughter [[Nicelle Sauvage\|Nicelle]] that included instructions on how to find the kalkis. Nothing is known of how or where he found them. Stefan died under unknown circumstances and left the map to Nicelle as her inheritance.
-
-### The Ghastly Gondola Incident
->“*My dearest Nicelle,In this letter I am at long last able to disclose to you the secrets of the Unknown Constructs of Antiquity...*”
-\-Stefan Sauvage's letter to Nicelle[1]
-
-After Stefan's death, Nicelle (also known as Nicki Savage) seemed to be aware that her father had hidden instructions in the map and set out on a "quest" to continue his research. In 342 [[Catacendre\|PC]], she was in New Seran and got into an altercation with [[Nazh\|Nazh]], who wanted the map for cartographic purposes. Nazh appeared to be ignorant of the hidden pocket, referring to it as "just a stupid map". The map was torn into two pieces during the scuffle, which took place on a gondola; Nazh absconded with the larger portion of the map (and later annotated it for [[Khriss\|Khriss]]), but Nicelle retained the piece with the hidden pocket. After briefly encountering a man matching [[Hoid\|Hoid's]] description, she went home and read her father's letter.
-
-## Veracity
-Although kalkis are not mentioned by anyone who lived during [[Classical Scadrial\|Classical Scadrial]], that does not preclude their existence; the planet has large, diverse landmasses and a relatively small population. [[Southern Scadrian\|Entire societies]] lived with no contact for well over a thousand years, so it is feasible that a small tribe of beings could stay hidden for even longer.
-Nicelle's depiction of the incident with Nazh appeared as part of a serialized broadsheet story in the embellished style of [[Allomancer Jak\|Allomancer Jak]], making it difficult to separate fact from fiction; kalkis are otherwise unknown, and may be apocryphal. However, a gondola was in fact damaged in New Seran and Nazh had a ripped portion of Stefan's map, implying that parts of Nicelle's story were accurate.
-
-## Trivia
-Nicelle's story was written by [[Isaac Stewart\|Isaac Stewart]], and could be continued in a future novella.
+2 Veracidad. [[#Veracidad]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Kalki
+## Historia
+### Mapa de Stefan Sauvage
+Sauvage encargó un gran mapa tapizado de [[Nueva Seran\|Nueva Seran]] en el 336 [[Catacendro\|PC]]. Añadió un bolsillo secreto al mapa y adjuntó una carta a su hija [[Nicelle Sauvage\|Nicelle]] con instrucciones sobre cómo encontrar a los kalkis, pero se desconoce cómo o dónde los encontró él. Stefan murió en circunstancias desconocidas y dejó el mapa en herencia a Nicelle.
+
+### El funesto funicular
+>“*Mi queridísima Nicelle,En esta misiva habré de desvelarte, por fin, el secreto de los misteriosos artefactos de la antigüedad...*”
+\-Carta de Stefan Sauvage a Nicelle[1]
+
+Tras la muerte de Stefan, Nicelle (también conocida como Nicki Savage) parecía saber que su padre había escondido instrucciones en el mapa, y partió con la misión de continuar su investigación. En el 342 [[Catacendro\|PC]], estando en Nueva Seran, tuvo un altercado con [[Nazh\|Nazh]], que quería el mapa para fines cartográficos. Este parecía desconocer el bolsillo oculto, refiriéndose al objeto como "un estúpido mapa". Durante el forcejeo, que ocurrió en un funicular, el tapiz se rompió en dos pedazos, quedándose Nazh con el más grande (que posteriormente anotó para [[Khriss\|Khriss]]). Nicelle conservó el pedazo que contenía el bolsillo oculto. Tras un breve encuentro con un hombre cuya descripción encaja con la de [[Hoid\|Hoid]], regresó a casa y leyó la carta de su padre.
+
+## Veracidad
+Aunque los kalkis no son mencionados durante el [[Scadrial cl%C3%A1sico\|Scadrial clásico]], esto no refuta su existencia; el planeta tiene grandes extensiones de terreno y una población relativamente pequeña. [[Scadriano del sur\|Sociedades enteras]] coexistieron en Scadrial sin ningún contacto durante bastante más de mil años, luego no es descabellado que una pequeña tribu de seres pudiese permanecer oculta durante incluso más tiempo.
+La descripción de Nicelle del incidente con Nazh figuraba en un periódico como parte de una historia publicada por entregas en el adornado estilo propio de [[Alomante Jak\|Alomante Jak]], lo que hace difícil separar los hechos de la ficción. Más allá de esta mención, los kalkis son desconocidos y bien podrían ser ficticios. Sin embargo, se sabe que efectivamente un funicular resultó dañado en Nueva Seran por esas fechas, y que Nazh tenía una parte arrancada del mapa de Stefan, lo que implica que al menos algunas partes de la historia de Nicelle eran exactas.
+
+## Curiosidades
+La historia de Nicelle fue escrita por [[Isaac Stewart\|Isaac Stewart]], y puede que continúe en una futura novela corta.
+## Notas
+
+
+
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 18:42, 18 March 2022 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Kalkis

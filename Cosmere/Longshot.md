@@ -1,24 +1,24 @@
 |**Longshot**|
 |-|-|
-|**Died**|*Unknown*|
-|**Powers**|Possession of the living, [[Bolting\|Bolting]]|
-|**Species**|[[Poltergeist\|Poltergeist]] (formerly human)|
-|**Residence**||
-|**Nationality**||
-|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
+|**Fallecido**|*Unknown*|
+|**Poderes**|Possession of the living, [[Bolting\|Bolting]]|
+|**Especie**|[[Poltergeist\|Poltergeist]] (formerly human)|
+|**Residencia**||
+|**Nacionalidad**||
+|**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
 
 **Longshot** is a [[Poltergeist\|poltergeist]], the spirit of a dead woman who must possess the bodies of living people. She is part of a group of gamer poltergeists, including [[Dreamer (character)\|Dreamer]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 
-## Contents
+## Sumario
 
-1 Appearance & Personality
+1 Appearance & Personality. [[#Appearance .26 Personality]] 
 
-1.1 Bodies Possessed by Longshot
+1. [[#Bodies Possessed by Longshot]] 
 
 
-2 Attributes and Abilities
-3 History
-4 Notes
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Notes. [[#Notes]] 
 
 
 ## Appearance & Personality
@@ -40,6 +40,15 @@ Longshot met fellow poltergeists [[Dreamer (character)\|Dreamer]], [[Phi\|Phi]],
 During one such game, Longshot was playing cops and robbers in Manhattan against Phi, on a team with the other four poltergeists in their group. Longshot was assigned to be the target in their game, meaning that she had to stay put on top of a building, protected from Phi by the other players on her team. If Phi could get past the other players and "kill" her, he would win the game. Despite being stuck in one place, Longshot wanted to be helpful to her teammates, so she kept a phone and relayed intel and instructions between the others. At some point during the game, she had an argument with TheGannon, who was assigned to guard her, and he left.
 After Dreamer's initial skirmish with Phi, she let the other players know that Phi was armed and helped Icer and Dreamer pinpoint Phi's location. She was concerned that Dreamer would let his personal issues with Phi get in the way of his judgment. When Phi reached her and was about to attack her, Dreamer managed to tackle Phi off the rooftop, saving her and winning them the game. She rejoiced with her teammates at the end of the game, remarking on the devastation that they caused and suggesting that they ban guns. Since people were coming to investigate what happened, she suggested that they leave and meet up in New Jersey.
 
+## Notes
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Otto Didact 07:02, 4 December 2019 (UTC)
+|**[[Dreamer\|Dreamer]]**|
+|-|-|
+|**Personajes**|[[Dreamer (character)\|Dreamer]] · [[Phi\|Phi]] ·  · [[Icer\|Icer]] · [[Rabies\|Rabies]] · [[TheGannon\|TheGannon]] · [[Lorenzo\|Lorenzo]] · [[Marks (Dreamer)\|Marks]]|
+|**Términos**|[[Poltergeist\|Poltergeist]] · [[Bolting\|Bolting]]|
 
 
-https://coppermind.net/wiki/Longshot
+
+https://es.coppermind.net/wiki/Longshot

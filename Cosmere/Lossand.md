@@ -1,92 +1,93 @@
+
+
 |**Lossand**|
 |-|-|
-|by  Jian Guo |
+||
 |**Capital**|[[Kezare\|Kezare]]|
-|**Region**|[[Dayside\|Dayside]]|
-|**World**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Región**|[[Lado Diurno\|Lado Diurno]]🐱︎|
+|**Mundo**|[[Taldain\|Taldain]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Lossand** is a nation on the Dayside of [[Taldain\|Taldain]]. Residents of Lossand are called **Lossandins**. It is notable for being the home of the [[Diem\|Diem]], and for being considered a desert by the [[Kerztian\|Kerztians]] due to a lack of [[Dorim vine\|dorim vines]]. Lossand is ruled by the Taishin.
+**Lossand** es una nación del Lado Diurno de [[Taldain\|Taldain]]. Los habitantes de Lossand se llaman **lossandinos**. Destaca por ser el hogar del [[Diem\|Diem]], y por ser considerado un desierto por los [[Kerzta\|kerztrianos]] debido a la falta de [[Parra dorim\|parras dorim]]. La mayoría de los acontecimientos de [[Arena Blanca\|Arena Blanca]] tienen lugar en Lossand.
 
-## Contents
+## Sumario
 
-1 Geography
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Fronteras y territorios. [[#Fronteras y territorios]] 
 
-1.1 Borders and Territories
-1.2 Climate
-1.3 Notable Cities
-
-
-2 History
-3 Politics
-
-3.1 The Diem of the Sand Masters
-3.2 The Hall of Judges, Trackts, and Scribes
-3.3 The Guild of Merchants
-3.4 The Tower of Soldiers
-3.5 The Company of Masons
-3.6 The Field of Farmers
-3.7 The Draft of Artisans
-3.8 The Helm of Shipowners
+2. [[#Clima]] 
+2. [[#Ciudades destacables]] 
 
 
-4 Culture
-5 Notable Lossandins
-6 Trivia
-7 Notes
+3 Historia. [[#Historia]] 
+4 Política. [[#Pol.C3.ADtica]] 
+
+4. [[#El Diem de los Maestros de la Arena]] 
+4. [[#El Sal.C3.B3n de los Jueces.2C Trackts y Escribas]] 
+4. [[#El Gremio de los Mercaderes]] 
+4. [[#La Torre de los Soldados]] 
+4. [[#La Compa.C3.B1.C3.ADa de los Constructores]] 
+4. [[#El Campo de los Granjeros]] 
+4. [[#El Proyecto de los Artesanos]] 
+4. [[#El Tim.C3.B3n de los Navieros]] 
 
 
-## Geography
-### Borders and Territories
-Lossand is situated on the southern side of Dayside. Its borders form the shape of a wedge, stretching from Mount [[KraeDa\|KraeDa]] in the north to the southern [[Border Ocean\|Border Ocean]] in the south. Lossand is bordered by uninhabited [[Deep sand\|deep sand]] to the east, the [[Kerla\|Kerla]] of the nation of [[Kerzta\|Kerzta]] to the west and north. The [[Ry'Do Ali River\|Ry'DoAli]] River runs directly through the center of the nation. The [[Nor'Tallon River\|Nor'Tallon River]] flows from the eastern mountain range and joins the Ry'DoAli.
+5 Cultura. [[#Cultura]] 
+6 Lossandinos destacados. [[#Lossandinos destacados]] 
+7 Notas. [[#Notas]] 
 
-### Climate
-Lossand is considered a desert, despite the water table provided by two rivers, due to a lack of dorim vines. Wells are unreliable, so settlement is confined to islands in the rivers and irrigable land on the river banks. Like all of Dayside, the temperature is hot-and steadily so since the sun is always shining. There is usually a steady breeze to help alleviate the heat. Near Mt. KraeDa, the sun is at the zenith; but at the southern coast, the sun is low enough in the sky that [[Darksider\|Darksiders]] can forgo their sunglasses.
 
-### Notable Cities
-[[Kezare\|Kezare]], the capital, is located in the northern half of Lossand, where the Ry'DoAli and Nor'Tallon Rivers meet.
-[[Lraezare\|Lraezare]] lies on the southern coast at the mouth of the Ry'DoAli River.
-## History
-According to legend, Lossand was founded when two siblings-[[Kerzt\|Kerzt]] and [[Lossa\|Lossa]]-each claimed to have received visions from the [[Sand Lord\|Sand Lord]]; but the contents of those visions were disputed. Lossa claimed to have been blessed by the Sand Lord with [[Sand mastery\|sand mastery]] and, after assassination attempts by her brother, fled into the desert and eventually founded the nation of Lossand along the banks of the Ry'DoAli.
-Relations between Lossand and Kerzta were often strained in the past, primarily due to religious rhetoric from the Kerztian clergy who claim that Lossand is a desert because it is cursed by the Sand Lord. The Kerztian priest [[DaiKeen\|DaiKeen]] is particularly opposed to Lossand's acceptance of sand mastery. This left the two nations frequently in a state of war with one another.
-Tensions were eased two hundred years ago when a member of the Merchant DiaKeen was selected as the new king of Kerzta, but growing support behind Kerzta's [[A'kar\|high priest]] has cast doubt on the possibility of continued peace.
+## Geografía
+## Fronteras y territorios
+Lossand está situada en el lado sur del Lado Diurno. Sus fronteras le dan forma de cuña y se extienden desde el monte [[KraeDa\|KraeDa]] al norte hasta el [[Oc%C3%A9ano Lim%C3%ADtrofe\|Océano Limítrofe]] meridional al sur. Lossand limita al este con [[Arena profunda\|arena profunda]] deshabitada, al norte con [[Kerla\|Kerla]] y al oeste y al norte con la nación de [[Kerzta\|Kerzta]]. El [[R%C3%ADo Ry'DoAli\|río Ry'DoAli]] fluye desde la cordillera oriental y se une al Ry'DoAli.
 
-## Politics
-Lossand is ruled by the [[Taishin\|Taishin]]—a council of the eight Taisha **Profession** heads, each representing a different sector of Lossand's economy. Each of the eight Professions has its own charter that establishes and regulates the collection of professions represented by its Taisha, including how the Taisha is selected to represent the profession. The Taisha of each profession is accorded the title "Lord" or "Lady," with the current leader of the council receiving the title "High." The current leader of the Taishin is High Judge [[Heelis\|Heelis]]. There is some overlap amongst most of the professions.
-The [[Kelzi\|Kelzin]], wealthy land owners, form the upper class of Lossand and often try to influence the Taisha of whichever profession they claim. In some cases, such as the [[Helm\|Helm]], the Kelzin actually hold more political influence than their Taisha, whom they appoint as a political tool to control their rivals.
-After most of the sand masters was massacred in the [[Kerla\|Kerla]], the other Taishin tried to disband the Diem. Each Taisha had their own reasons for taking this action against the sand profession, but in the end [[Kenton\|Kenton]] managed to save his Profession.
-The eight professions are:
+### Clima
+Lossand se considera un desierto, a pesar de la capa freática que proporcionan dos ríos, debido a la falta de parras dorim. Los pozos son poco fiables, por lo que los asentamientos se limitan a las islas de los ríos y a las tierras de regadío de sus orillas. Como en todo el Lado Diurno, la temperatura es cálida, y no deja de serlo, ya que el sol brilla constantemente.  Suele soplar una brisa constante que ayuda a aliviar el calor. Cerca del monte KraeDa, el sol está en el cenit; pero en la costa sur, el sol está lo suficientemente bajo en el cielo como para que los oscurenses puedan prescindir de sus gafas de sol.
 
-### The Diem of the Sand Masters
-*For more information, see Diem*.
-The **Diem** is the Profession of the [[Sand master\|sand masters]] of Lossand. Its Taisha is the Mastrell. The current Lord Mastrell is [[Kenton\|Kenton]]. The Diem is headquartered in the building of the same name. The Diem has no sub-professions.
+### Ciudades destacables
+[[Kezare\|Kezare]], la capital, está situada en la mitad norte de Lossand, donde confluyen los ríos Ry'DoAli y Nor'Tallon.
+[[Lraezare\|Lraezare]] se encuentra en la costa sur, en la desembocadura del río Ry'DoAli.
+## Historia
+Según la [[/wiki/Diario de Khrissalla#Naciones y religiones diurnenses]], Lossand se fundó cuando dos hermanos -[[Kerzt\|Kerzt]] y [[Lossa\|Lossa]]- afirmaron haber recibido visiones del [[Se%C3%B1or de la Arena\|Señor de la Arena]], pero el contenido de dichas visiones fue objeto de disputa. Lossa afirmó haber sido bendecida por el Señor de la Arena con la [[Maestr%C3%ADa de la arena\|maestría de la arena]] y, tras los intentos de asesinato de su hermano, huyó al desierto y con el tiempo fundó la nación de Lossand a orillas del Ry'DoAli.
+Las relaciones entre Lossand y Kerzta fueron a menudo tensas en el pasado, principalmente debido a la retórica religiosa del clero kerztiano, que afirma que Lossand es un desierto porque está maldito por el [[Se%C3%B1or de la Arena\|Señor de la Arena]]. El sacerdote kerztiano [[DaiKeen\|daiKeen]] se opone especialmente a que Lossand acepte la [[Maestr%C3%ADa de la arena\|maestría de la arena]]. Esto hace que las dos naciones estén frecuentemente en estado de guerra entre sí.
+Las tensiones se aliviaron hace doscientos años, cuando un miembro de los comerciantes DiaKeen fue elegido nuevo rey de Kerzta, pero el creciente apoyo al [[A'kar\|sumo sacerdote]] de Kerzta ha puesto en duda la posibilidad de que continúe la paz.
 
-### The Hall of Judges, Trackts, and Scribes
-The **Hall**, is the Profession of the [[Trackt\|trackts]] and judges of Lossand. Its Taisha is the [[Lady Judge\|Judge]]. The current Lady Judge is Heelis, who is also the current head of the Taishin Council as High Judge. The Profession is headquartered in **The Hall of Judgement**. The Hall includes the sub-profession of scribes.
+## Política
+Lossand está gobernada por el [[Taishin\|Taishin]], un consejo de los ocho Taisha **jefes de oficio**, cada uno de los cuales representa a un sector diferente de la economía de Lossand. Cada uno de los ocho oficios tiene sus propios estatutos que establecen y regulan el conjunto de oficios representados por su Taisha, incluyendo la forma en que este es seleccionado para representar el oficio. Al Taisha de cada oficio se le otorga el título de "lord" o "dama", con el actual líder del consejo recibiendo el título de "supremo". El actual líder de los Taishin es la jueza suprema [[Heelis\|Heelis]]. Hay cierto solapamiento entre la mayoría de los oficios.
+Los [[Kelzi\|Kelzin]], ricos propietarios de tierras, forman la clase alta de Lossand y a menudo intentan influir en los Taisha del Oficio que reclaman. En algunos casos, como el del [[Tim%C3%B3n\|Timón]], los Kelzin tienen más influencia política que sus Taisha, a los que nombran como herramienta política para controlar a sus rivales.
+Después de que la mayoría de los maestros de la arena fueran masacrados en el [[Kerla\|Kerla]], los demás Taishin intentaron disolver el Diem. Cada Taisha tenía sus propias razones para tomar esta medida contra el oficio de la arena, pero al final [[Kenton\|Kenton]] consiguió salvar su Oficio.
 
-### The Guild of Merchants
-The **Guild**, is the Profession of the banking industry of Lossand. Its Taisha is the [[Lord Merchant\|Merchant]]. The current Lord Merchant is [[Vey\|Vey]]. It is headquartered at the **Golden Market**. The Guild includes the subprofessions of moneychangers, lenders, and merchants.
+### El Diem de los Maestros de la Arena
+*Para más información, véase [[Diem\|Diem]]*
+El **Diem** es el oficio de los maestros de la arena de Lossand. Su taisha es el [[/wiki/Taishin#Lord mastrell]]. El actual es [[Kenton\|Kenton]]. El Diem tiene su sede en el edificio del mismo nombre. No tienen sub-oficios.
 
-### The Tower of Soldiers
-The **Tower** is the Profession of the military of Lossand. Its Taisha is the [[Lord General\|General]]. The current Lord General is [[Aarik\|Aarik]]. The Tower is headquartered in a building known as the **Tower Garrison**. The Tower has no sub-professions.
+### El Salón de los Jueces, Trackts y Escribas
+El **Salón**, es el Oficio de los [[Trackt\|trackts]] y jueces de Lossand. Su Taisha es la [[Jueza suprema\|jueza]]. La actual es Heelis, que también es la actual jefa del Consejo Taishin como jueza suprema. El oficio tiene su sede en la **Sala del Juicio**. Incluye el suboficio de escribas.
 
-### The Company of Masons
-The **Company** is the Profession of the construction industry of Lossand. Its Taisha is the [[Lady Mason\|Mason]]. The current Lady Mason's name is unknown. It is based out of the **Mason Headquarters**. The Company includes the sub-professions of stone masons, builders, and miners.
+### El Gremio de los Mercaderes
+El **Gremio**, es el Oficio de la industria bancaria de Lossand. Su Taisha es el [[Lord mercader\|mercader]]. El actual es [[Vey\|Vey]]. Tiene su sede en el **Mercado Dorado**. El Gremio incluye los suboficios de cambistas, prestamistas y mercaderes.
 
-### The Field of Farmers
-The **Field** is the Profession of the farming industry of Lossand. Its Taisha is the [[Lord Farmer\|Farmer]]. The current Lord Farmer is [[Gennel\|Gennel]]. It is headquartered at the **Farmers Congress**. The Field includes those who own the farmland and those who farm the land. It may include the merchants that sell agriculture products, as the Lord Artisan notes that the Diem owes the Field five hundred thousand [[Lak\|lak]] for goods taken without payment.
+### La Torre de los Soldados
+La **Torre** es el oficio de los militares de Lossand. Su Taisha es el [[Lord general\|general]]. El actual es [[Aarik\|Aarik]]. La Torre tiene su sede en un edificio conocido como **Guarnición de la Torre**. La Torre no tiene suboficios.
 
-### The Draft of Artisans
-The **Draft** is the Profession of the manufactured goods industry of Lossand. Its Taisha is the [[Lord Artisan\|Artisan]]. The current Lord Artisan is [[Rite\|Rite]]. It is headquartered at the **Artisan Central Studio**. The Draft is probably the most disparate profession, including sub-professions of all kinds of artisans and craftpersons, such as carpentry, cobblery, medicine, painting, etc.
+### La Compañía de los Constructores
+La **Compañía** es el Oficio de la industria de la construcción de Lossand. Su Taisha es la [[Dama constructora\|constructora]]. El nombre de la actual dama es desconocido. Tiene su sede en el **Cuartel General de los constructores'**. La Compañía incluye los suboficios de canteros, constructores y mineros.
 
-### The Helm of Shipowners
-The **Helm** is the Profession of the shipping industry of Lossand. Its Taisha is the [[Lord Admiral\|Admiral]]. The current Lord Admiral is [[Lokkall\|Lokkall]]. The Lord Admiral resides at **Helm's Rest**. The position of Lord Admiral is a figurehead position without any power, other than a vote in the council, and in fact is regarded as more of a punishment than an honor. The true leadership of the Helm belongs to the **Shipowners' Circle**, currently headquartered in [[Lraezare\|Lraezare]].
+### El Campo de los Granjeros
+El **Campo** es el Oficio de la industria agrícola de Lossand. Su Taisha es el [[Lord granjero\|granjero]]. El actual es [[Gennel\|Gennel]]. Tiene su sede en el **Congreso de Granjeros**. El Campo incluye a los que poseen las tierras de labranza y a los que las cultivan. Puede incluir a los mercaderes que venden productos agrícolas, ya que el lord artesano señala que el Diem debe al Campo quinientos mil [[Lak\|laks]] por bienes tomados sin pagar.
 
-## Culture
-Lossand contains a mix of many cultures, including Kerztian and the [[Rim Kingdoms\|Rim Kingdoms]]. Many citizens of Lossand are ethnically Kerztian, and entire communities of Darksiders can be found. The most unique characteristic of Lossandin culture is the presence of the Diem of sand masters who, in the past, contributed to the nation's defense and infrastructure. While belief in the Sand Lord is not uncommon, there are no dominant organized religions. The Los'seen form of worship for the Sand Lord is often seen as more of a philosophy than a religion, though both faiths show reverence for the sun.
+### El Proyecto de los Artesanos
+El **Proyecto** es el Oficio de la industria manufacturera de Lossand. Su Taisha es el [[Lord artesano\|artesano]]. El actual es [[Rite\|Rite]]. Tiene su sede en el **Estudio Central del Artesano**. El Proyecto es probablemente el oficio más dispar, incluyendo suboficios de todo tipo de artesanos y artesanos, como carpintería, zapatería, medicina, pintura, etc.
 
-## Notable Lossandins
-For a list of all Lossandin characters, see :Category: Lossandins.
+### El Timón de los Navieros
+El **Timón** es el Oficio de la industria naval de Lossand. Su Taisha es el [[Lord almirante\|almirante]]. El actual es [[Lokkall\|Lokkall]]. El lord Almirante reside en el **Reposo del Timón**. El cargo de lord almirante es una posición de figura decorativa sin ningún poder, aparte de un voto en el consejo, y de hecho se considera más un castigo que un honor. El verdadero liderazgo del Timón pertenece al **Círculo de Navieros**, actualmente con sede en [[Lraezare\|Lraezare]].
+
+## Cultura
+Lossand contiene una mezcla de muchas culturas, incluyendo la kerztiana y la de los [[Reinos Lim%C3%ADtrofes\|Reinos Limítrofes]]. Muchos ciudadanos de Lossand son étnicamente kerztianos, y se pueden encontrar comunidades enteras de oscurenses. La característica más singular de la cultura de lossandinos es la presencia del Diem de los maestros de la arena que, en el pasado, contribuyeron a la defensa e infraestructura de la nación. Aunque la creencia en el Señor de la Arena no es infrecuente, no existen religiones organizadas dominantes. La forma de culto de Los'seen al Señor de la Arena suele considerarse más una filosofía que una religión, aunque ambas creencias muestran reverencia por el sol.
+
+## Lossandinos destacados
+Para una lista de todos los personajes lossandinos, ver :Categoría:De Lossand.
 
 [[Kenton\|Kenton]]
 [[Ais\|Ais]]
@@ -96,8 +97,22 @@ For a list of all Lossandin characters, see :Category: Lossandins.
 [[Vey\|Vey]]
 [[Sharezan\|Sharezan]]
 
-## Trivia
-Most of the events in White Sand take place in Lossand.
+## Notas
 
 
-https://coppermind.net/wiki/Field
+
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**| · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+
+
+https://es.coppermind.net/wiki/Lossand

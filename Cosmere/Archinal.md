@@ -1,46 +1,65 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Archinal**|
 |-|-|
-|**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Edgedancers\|Edgedancer]] magic, [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]]|
-|**Bonded With**|[[Godeke\|Godeke]]|
-|**Species**|[[Cultivationspren\|Cultivationspren]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Rhythm of War*|
+|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de [[Orden de los Danzantes del Filo\|Danzante del Filo]] , [[Astilla\|Astilla]] de [[Cultivaci%C3%B3n\|Cultivación]]|
+|**Vinculado con**|[[Godeke\|Godeke]]|
+|**Especie**|[[Cultivacispren\|Cultivacispren]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
->“*You mustn't assume that what you see here relates to what you know from your life, human highprince.*”
-\-Archinal on Shadesmar, to Adolin[1]
-
-
-**Archinal** is a [[Cultivationspren\|cultivationspren]] on [[Roshar\|Roshar]]. She is currently bonded to [[Godeke\|Godeke]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-
-3.1 Urithiru Emissary Delegation (1175)
+>“*No debes dar por sentado que lo que veas aquí reflejará lo que conoces de tu vida, alto príncipe humano.*”
+\-Archinal en Shadesmar, a Adolin[1]
 
 
-4 Notes
+**Archinal** es una [[Cultivacispren\|cultivacispren]] en [[Roshar\|Roshar]]. Actualmente está vinculada a [[Godeke\|Godeke]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Delegaci.C3.B3n de emisarios de Urithiru .281175.29]] 
 
 
-## Appearance and Personality
-Like other cultivationspren, Archinal appears in [[Shadesmar\|Shadesmar]] as a humanoid composed of vines. The vines are verdant and wound tightly, although they are not as tight as those of [[Mayalaran\|Mayalaran]]. Archinal is short and wears manifested robes as clothing. She has crystal eyes and incredibly fine and delicate crystal hands. In the [[Physical Realm\|Physical Realm]], Godeke can summon her as a [[Shardblade\|Shardblade]], but its specific appearance is unknown.
-Adolin believes that Archinal has an air of aloofness. She seems to be rather apprehensive in unfamiliar situations.
-
-## Attributes and Abilities
-Archinal shares a [[Nahel bond\|Nahel bond]] with Godeke, giving her sapience in the Physical Realm. The bond also grants Godeke access to the Surges of [[Abrasion\|Abrasion]] and [[Progression\|Progression]] as a member of the [[Knights Radiant\|Radiant]] [[Order of Edgedancers\|Order of Edgedancers]]. Based on [[Lift\|Lift]] and [[Wyndle\|Wyndle's]] experience, Godeke has likely spoken at least the Third Ideal of the Edgedancers since he can summon Archinal as a Blade.
-She is able to ride a horse in the Cognitive Realm.
-
-## History
-It is not clear when Archinal bonded with Godeke, but by the time of the mission in [[Hearthstone\|Hearthstone]] in Chach 1175, Godeke could summon her as a Blade. Although Lift was the only Edgedancer known before the [[Battle of Thaylen Field\|Battle of Thaylen Field]], cultivationspren became eager to bond with the new Radiants after other [[Spren\|spren]] began to do so, and bonding a human gained them some esteem among their peers.
-She has described Shadesmar at length to Godeke. Cultivationspren do not have their own settlements, so it is not clear where Archinal resides. At some point, Archinal visited [[Lasting Integrity\|Lasting Integrity]].
-
-#### Urithiru Emissary Delegation (1175)
-Godeke was chosen to join the envoy to the [[Honorspren\|honorspren]] in [[Lasting Integrity\|Lasting Integrity]] due to his experience as a diplomat and the fact that Dalinar wanted to include as many Radiant orders as possible. Archinal's experience traveling in Shadesmar made her a valuable member of the team; in addition to her general knowledge regarding the Cognitive Realm, she knew the route to Lasting Integrity since she had been there before. Archinal and Godeke sometimes served as scouts for the group, since Godeke had learned some scouting techniques during his Radiant training.
-When the expedition reached [[Nameless\|Nameless]], Archinal and Godeke were the first to spot the [[Tukari caravaneers\|Tukari caravaneers]]. After [[Adolin\|Adolin]] decided to investigate the Tukari, the group passed several friendly spren caravans; at least one spren recognized Archinal and called out to her by name. As they approached the Tukari, Archinal mentioned that more and more people were trading through Shadesmar as they heard about [[Roshar\|Rosharan]] wines and weapons. She was visibly nervous about the Tukari and warned Adolin that not everything in Shadesmar was what it seemed. Archinal presumably stayed with Godeke while the group awaited the results of Adolin's trial.
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Al igual que otros cultivacispren, Archinal aparece en [[Shadesmar\|Shadesmar]] como una humanoide compuesta de enredaderas. Las lianas son verdes y están fuertemente enrolladas, aunque no tanto como las de [[Mayalaran\|Mayalaran]]. Archinal es bajita y lleva túnicas manifestadas como vestimenta. Tiene ojos de cristal y manos de cristal increíblemente finas y delicadas. En el [[Reino F%C3%ADsico\|Reino Físico]], Godeke puede invocarla como una [[Hoja esquirlada\|hoja esquirlada]], pero su aspecto específico es desconocido.
+Adolin cree que Archinal tiene un aire distante. Parece bastante aprensiva en situaciones desconocidas.
 
-https://coppermind.net/wiki/Archinal
+## Atributos y habilidades
+Archinal comparte un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con Godeke, lo que le otorga sapiencia en el Reino Físico. El vínculo también otorga a Godeke acceso a las potencias de [[Abrasi%C3%B3n\|Abrasión]] y [[Progresi%C3%B3n\|Progresión]] como miembro de los [[Caballeros Radiantes\|Caballeros Radiantes]] de la [[Orden de los Danzantes del Filo\|Orden de los Danzantes del Filo]]. Basándonos en la experiencia de [[Lift\|Lift]] y [[Wyndle\|Wyndle]], es probable que Godeke haya jurado al menos el Tercer Ideal de los Danzantes del Filo, ya que puede invocar a Archinal como espada.
+Es capaz de montar a caballo en el Reino Cognitivo.
+
+## Historia
+No está claro cuándo Archinal se vinculó a Godeke, pero en el momento de la misión en [[Piedralar\|Piedralar]] en Chach 1175, Godeke podía invocarla como espada. Aunque Lift era la única Danzante conocida antes de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], los cultivacispren empezaron a querer vincular a los nuevos Radiantes después de que otros [[Spren\|spren]] empezaran a hacerlo, y vincular a un humano les granjeó cierta estima entre sus compañeros.
+Ha descrito Shadesmar extensamente a Godeke. Los cultivacispren no tienen sus propios asentamientos, por lo que no está claro dónde reside Archinal. En algún momento, Archinal visitó [[Integridad Duradera\|Integridad Duradera]].
+
+#### Delegación de emisarios de Urithiru (1175)
+Godeke fue elegido para unirse al grupo de enviados a los [[Honorspren\|honorspren]] en [[Integridad Duradera\|Integridad Duradera]] debido a su experiencia como diplomático y al hecho de que Dalinar quería incluir tantas órdenes Radiantes como fuera posible. La experiencia de Archinal viajando por Shadesmar la convirtió en un valioso miembro del equipo; además de sus conocimientos generales sobre el Reino Cognitivo, conocía la ruta hacia Integridad Duradera, ya que había estado allí antes. Archinal y Godeke actuaban a veces como exploradores del grupo, ya que Godeke había aprendido algunas técnicas de exploración durante su formación como Radiante.
+Cuando la expedición llegó a [[Innominado\|Innominado]], Archinal y Godeke fueron los primeros en divisar a los [[Caravaneros tukari\|caravaneros tukari]]. Después de que [[Adolin\|Adolin]] decidiera investigarlos, el grupo se cruzó con varias caravanas de spren amigos; al menos un spren reconoció a Archinal y la llamó por su nombre. Mientras se acercaban a los tukari, Archinal mencionó que cada vez más gente comerciaba a través de Shadesmar al enterarse de la existencia de vinos y armas de [[Roshar\|Roshar]]. Estaba visiblemente nerviosa por los tukari y advirtió a Adolin que no todo en Shadesmar era lo que parecía. Archinal se quedó supuestamente con Godeke mientras el grupo esperaba los resultados del juicio de Adolin.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 16:11, 28 de septiembre de 2023 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Archinal

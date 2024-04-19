@@ -1,35 +1,60 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Longard**|
 |-|-|
-|**City**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Ciudad**|[[Elendel\|Elendel]]🐱︎|
+|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Longard** is a district in the Fifth Octant of [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
-It is the location of a foundry which the [[Vanishers\|Vanishers]] use as a base of operations.
+**Longard** es un distrito en el Quinto Octante de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
+Es donde se encuentra una fundición que los [[Desvanecedores\|desvanecedores]] utilizan como base de operaciones.
 
-## Contents
+## Sumario
 
-1 Notable Locations
+1 Ubicaciones importantes. [[#Ubicaciones importantes]] 
 
-1.1 Foundry
-
-
-2 History
-3 Notes
+1. [[#Fundici.C3.B3n]] 
 
 
-## Notable Locations
-### Foundry
-The foundry is a two-story tall building located on the southeast side of the 5th 6th Canal. It has a flat roof with lots of chimneys. Ashes and slag were heaped in piles along one of its walls. The windows appear to be covered in soot, but they have actually been intentionally darkened to hide the work going on inside. One full side of the building is a massive door that can be slid aside on wheels, allowing for easy access to the canal.
-On the interior, half of the building has a ceiling that is double the normal height. The other half has an upper floor which contains quarters fit for around fifty men. The foundry is clear of any forging equipment or other tools. There are darkened areas of the floor where the equipment used to be, and close to these places there is still cooled [[Aluminum\|aluminum]] that melted to the floor. Due to the darkened windows, there is little light on the interior, and it smells of coal and fire.
-There are few things in the upper loft in the rear of the foundry. It is connected to the ground floor via a staircase in the back. It served as a living quarters that could fit around fifty men or so. The interior is full of broken cupboards, boxes, and a random assortment of old junk.
-
-## History
-The foundry was used as a hideout by the Vanishers for an unknown length of time, perhaps since their inception. Around fifty men lived and worked in the foundry, acting as workers to avoid suspicion. They kept much of their equipment in there, including the [[Machine\|Machine's]] crane apparatus used to swap out the train cars they stole. The Vanishers intentionally darkened the windows with soot to hide what they were doing in there. In addition to storage and living quarters, the foundry was also used for actual forging. The aluminum that was stolen was reworked into guns and bullets by an imprisoned [[Nouxil\|Nouxil]] in the foundry, which were used in the Vanishers' crimes to counteract [[Allomancy\|Allomancy]].
-After the attack on the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]], in which several members of the Vanishers were captured, [[Miles Dagouter\|Miles Dagouter]] and [[Clamps\|Clamps]] had the foundry evacuated. Clamps rigged the both floors of the building with dynamite, to kill any who attempted to search the building. The Vanishers removed all the possessions and equipment to the foundry beneath the [[Ironspine Building\|Ironspine Building]].
-After one of the captured Vanishers, [[Sindren\|Sindren]], was tricked into revealing the existence of the Longard foundry, [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]], and [[Marasi Colms\|Marasi Colms]] investigated the building. They interviewed nearby beggars about the activities going on in the building. Wax and Wayne cleared the building of any explosives, but found it almost entirely scrubbed clean. However, Wax found an empty box of [[Citizen Magistrate\|Citizen Magistrate]] cigars, that had numbers written upon it. Recognizing this as the brand smoked by Miles, Wax's suspicions about his role as leader of the Vanishers were confirmed. Later, he comes to realize that the notes on the box were Miles' attempt at keeping rack of [[Edwarn Ladrian\|Mister Suit's]] comings and goings.
-Around a year later, just prior to the rogue [[Kandra\|kandra]] [[Paalm\|Paalm's]] attempted to overthrow the government of [[Elendel\|Elendel]], angry picketers were lining up along Longard Street during one of Governor [[Replar Innate\|Replar Innate's]] speeches to protest governmental corruption and other issues.
+2 Historia. [[#Historia]] 
+3 Notas. [[#Notas]] 
 
 
+## Ubicaciones importantes
+### Fundición
+La fundición es un edificio de dos plantas de altura al sureste del 5º-6º canal. Tiene un tejado plano con numerosas chimeneas. Cenizas y escoria se amontonaban a lo largo de las paredes. Las ventanas parecen estar cubiertas de hollín, pero en realidad han sido oscurecidas intencionalmente para ocultar el trabajo que se realiza en el interior. Uno de los lados completos del edificio es una enorme puerta que puede deslizarse hacia un lado sobre ruedas, permitiendo un acceso fácil al canal.
+En el interior, la mitad del edificio tiene un techo que es el doble de alto de lo normal. La otra mitad tiene un piso superior que contiene suficiente espacio para alojar a alrededor de cincuenta hombres. La fundición no tiene ningún equipo de forja u otras herramientas. Hay áreas oscurecidas en el suelo donde solía estar el equipo, y cerca de estos lugares todavía hay [[Aluminio\|aluminio]] enfriado que se derritió sobre el suelo. Debido a las ventanas oscurecidas, hay poca luz en el interior, y huele a carbón y fuego.
+Hay pocas cosas en el desván trasero de la fundición. Está conectado al piso inferior a través de una escalera en la parte trasera. Sirvió como un alojamiento donde podrían vivir alrededor de cincuenta hombres o más. El interior está lleno de armarios rotos, cajas y una selección aleatoria de objetos viejos.
 
-https://coppermind.net/wiki/Longard
+## Historia
+La fundición fue utilizada como escondite por los desvanecedores durante un tiempo desconocido, quizás desde su creación. Alrededor de cincuenta hombres vivían y trabajaban en la fundición, actuando como trabajadores para evitar sospechas. Mantenían gran parte de su equipo allí, incluyendo el aparato de grúa de la [[M%C3%A1quina\|Máquina]] utilizada para cambiar los vagones de tren que robaban. Los desvanecedores oscurecieron intencionalmente las ventanas con hollín para ocultar lo que estaban haciendo allí. Además de ser utilizado para almacenamiento y alojamiento, la fundición también se utilizaba para la forja real. El aluminio que fue robado fue reutilizado en armas y balas por [[Nouxil\|Nouxil]] que estaba encarcelado allí, las cuales eran usadas en los crímenes de los desvanecedores para contrarrestar la [[Alomancia\|alomancia]].
+Tras el ataque al [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]], en el cual fueron capturados numerosos miembros de los desvanecedores, [[Miles Dagouter\|Miles Dagouter]] y [[Clamps\|Clamps]] evacuaron la fundición. Clamps instaló dinamita en ambos pisos del edificio, para matar a cualquiera que intentase buscar en el edificio. Los desvanecedores se llevaron todas sus posesiones y equipamiento a la fundición bajo el [[Edificio Columna de Hierro\|Edificio Columna de Hierro]].
+Después de que uno de los desvanecedores capturados, [[Sindren\|Sindren]], fuese engañado para revelar la existencia de la fundición Longard, [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]], y [[Marasi Colms\|Marasi Colms]] investigaron el edificio. Entrevistaron a mendigos cercanos sobre las actividades que se llevaban a cabo en el edificio. Wax y Wayne desactivaron los explosivos en el edificio, pero encontraron que estaba casi completamente limpio de rastros. Sin embargo, Wax encontró una caja vacía de puros [[Magistrados ciudadanos\|Magistrados ciudadanos]], que tenía números escritos sobre ella. Reconociéndola como la marca que fumaba Miles, las sospechas de Wax sobre su papel como líder de los desvanecedores fueron confirmadas. Más tarde, se da cuenta de que las anotaciones en la caja eran un intento de Miles de mantener un registro de las entradas y salidas del [[Edwarn Ladrian\|Señor Conjunto]].
+Sobre un año después, justo antes de que la [[Kandra\|kandra]] renegada [[Paalm\|Paalm]] intentase derrocar al gobierno de [[Elendel\|Elendel]], manifestantes enojados se estaban alineando a lo largo de la calle Longard durante uno de los discursos del gobernador [[Replar Innate\|Replar Innate]] para protestar contra la corrupción gubernamental y otros problemas.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 23:55, 27 December 2015 (MST)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Longard

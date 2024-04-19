@@ -1,12 +1,21 @@
 |**Herman Libel**|
 |-|-|
-|**Parents**|[[Leland Libel\|Leland]], [[Margaret Libel\|Margaret]]|
-|**Residence**|[[Armedius Academy\|Armedius Academy]]|
-|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Padres**|[[Leland Libel\|Leland]], [[Margaret Libel\|Margaret]]|
+|**Residencia**|[[Academia Armedius\|Academia Armedius]]|
+|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
 
-**Herman Libel** is a [[Rithmatics\|Rithmatics]] student at [[Armedius Academy\|Armedius Academy]].
-He is one of the victims of the [[Scribbler\|Scribbler]]. He was once a student of Professor [[Fitch\|Fitch]].
+**Herman Libel** is a  student at .
+He is one of the victims of the . He was once a student of Professor [[Fitch\|Fitch]].
+
+## Notes
+
+Este artículo es muy corto. Por favor, ayuda a The Coppermind .
+|**[[El rithmatista\|El rithmatista]]**|
+|-|-|
+|**Characters**|[[Joel Saxon\|Joel Saxon]] · [[Melody Muns\|Melody Muns]] · [[Fitch\|Professor Fitch]] · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
+|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
+|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
 
 
 
-https://coppermind.net/wiki/Herman_Libel
+https://es.coppermind.net/wiki/Herman_Libel

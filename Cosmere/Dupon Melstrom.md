@@ -1,23 +1,45 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Dupon Melstrom**|
 |-|-|
-|**Profession**|Senator|
-|**Residence**|[[Elendel\|Elendel]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Residencia**|[[Elendel\|Elendel]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*With all due respect, Lord Ladrian, you are a new parent, and obviously don't understand how to raise a child. You don’t give in to their demands; you hold firm, knowing that your decisions are best for them. They will eventually see reason. As a father is to a son, Elendel is to the Outer Cities.*”
-\-Melstrom arguing for the Elendel Supremacy Bill[1]
-
-
-**Dupon Melstrom** is a politician in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. In 348 [[Catacendre\|PC]], he is the sitting senator for the dockworkers in the [[Elendel Senate\|Elendel Senate]].
-
-## Appearance and Personality
-[[Waxillium Ladrian\|Waxillium Ladrian]] considers Melstrom to be a puppet for two houses that generally oppose Wax's politics, [[House Hasting\|House Hasting]] and [[House Erikell\|House Erikell]]. Melstrom and Wax are therefore antagonistic towards one another. During the debate over the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]], Melstrom exhibited disdain for the Outer Cities and their ability to govern themselves in the face of the perceived threat from the [[Southern Scadrian\|Southern Scadrians]].
-
-## History
-Melstrom was considered to be a powerful senator. His close alignment with Hasting and Erikell elicited suspicion from Wax, who investigated the senator's relationship with the two houses. During the debate over the Elendel Supremacy Bill, Melstrom addressed Wax in a patronizing manner; Wax then produced a letter with direct evidence of Melstrom's corruption, hoping to stall the vote on the bill. Melstrom looked deflated as he knew his political career was seriously damaged, but Governor [[Varlance\|Varlance]] declined to hold impropriety hearings until after the vote. Instead, he simply disqualified Melstrom, [[Vennis Hasting\|Vennis Hasting]], and the Erikell senator from voting on the bill. The bill then narrowly passed, despite Wax's efforts.
-Melstrom was one of the senators implicated in documents discovered by [[Tobal Copper\|Tobal Copper]] and [[Maraga Dulcet\|Maraga Dulcet]] related to the [[Set\|Set's]] plan to bomb Elendel. However, Wax later discovered that many of those documents were forgeries, making it unlikely that Melstrom was actually aware of the Set's activities.
+>“*Con el debido respeto, lord Ladrian, usted es padre desde hace poco y salta a la vista que no sabe cómo deben educarse los niños. No se puede ceder a sus exigencias. Hay que mantenerse firme, sabiendo que las decisiones que se toman son las mejores para ellos. En algún momento entrarán en razón. Lo que un padre es para su hijo, Elendel es para las ciudades exteriores.*”
+\-Melstrom argumentando a favor de la Ley de la Supremacía de Elendel[1]
 
 
+**Dupon Melstrom** es un político de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]]. En 348 [[Catacendro\|PC]], es el senador en ejercicio por los estibadores en el [[Senado de Elendel\|Senado de Elendel]].
 
-https://coppermind.net/wiki/Melstrom
+## Apariencia y personalidad
+[[Waxillium Ladrian\|Waxillium Ladrian]] considera a Melstrom una marioneta de dos casas que generalmente se oponen a la política de Wax, la [[Casa Hasting\|Casa Hasting]] y la [[Casa Erikell\|Casa Erikell]]. Melstrom y Wax son, por tanto, antagónicos entre sí. Durante el debate sobre la [[Ley de la Supremac%C3%ADa de Elendel\|Ley de la Supremacía de Elendel]], Melstrom mostró desdén por las [[/wiki/Cuenca de Elendel#Ciudades exteriores]] y su capacidad para gobernarse a sí mismas frente a la amenaza percibida de los [[Scadriano del sur\|scadrianos del sur]].
+
+## Historia
+Melstrom era considerado un senador poderoso. Su estrecha relación con Hasting y Erikell despertó las sospechas de Wax, que investigó la relación del senador con las dos Casas. Durante el debate sobre la Ley de la Supremacía de Elendel, Melstrom se dirigió a Wax de forma condescendiente; Wax presentó entonces una carta con pruebas directas de la corrupción de Melstrom, con la esperanza de paralizar la votación de la ley. Melstrom parecía desanimado al saber que su carrera política estaba seriamente dañada, pero el gobernador [[Varlance\|Varlance]] se negó a celebrar audiencias de improcedencia hasta después de la votación. En su lugar, se limitó a descalificar a Melstrom, [[Vennis Hasting\|Vennis Hasting]] y al senador Erikell para que no votaran el proyecto de ley. A continuación, el proyecto de ley fue aprobado por un estrecho margen, a pesar de los esfuerzos de Wax.
+Melstrom fue uno de los senadores implicados en los documentos descubiertos por [[Tobal Cobre\|Tobal Cobre]] y [[Maraga Dulcet\|Maraga Dulcet]] relacionados con el plan del [[El Grupo\|Grupo]] para bombardear Elendel. Sin embargo, Wax descubrió más tarde que muchos de esos documentos eran falsificaciones, por lo que es poco probable que Melstrom estuviera realmente al corriente de las actividades del Grupo.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 19:36, 29 de agosto de 2023 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Dupon_Melstrom

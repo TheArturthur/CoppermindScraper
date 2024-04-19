@@ -1,23 +1,39 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Loaten**|
 |-|-|
-|**Residence**|[[Lonzare\|Lonzare]]|
-|**Ethnicity**|[[Darksider\|Darksider]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Residencia**|[[Lonzare\|Lonzare]]|
+|**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*You're infamous on Darkside, you know. Traitor to the dynasty, executed -- or so we're told -- for trying to murder Emperor Skathan himself.*”
-\- Khrissalla to Loaten.[1]
-
-
-**Loaten** is a [[Darksider\|Darksider]] currently living in Lonzare, the Darksider quarter of [[Kezare\|Kezare]].
-
-## Appearance and Personality
-Loaten is a portly dark skinned man. He has a thin goatee and long thick sideburns but is otherwise bald. He has a distinctive scar on his neck. He wears a pin striped gray robe over a blue shirt, and wears a ring on every one of his fingers.
-
-## History
-Loaten was Emperor [[Skathan\|Skathan's]] chief minister of diplomacy. He fell from power when he tried to kill Skathan. He was said to have been executed, but in reality he fled to [[Dayside\|Dayside]].
-Loaten met [[Gevalden\|Gevalden]] during his search for the [[Sand mastery\|Sand Mages]] and knows what became of him. When [[Khriss\|Khriss]] came to Lonzare [[N'Teese\|N'Teese]], for a fee, brought her to see Loaten. He recognized her as the "missing [[Elis\|Elisian]] Duchess". When Khriss asked him for information about what Gevin was searching for and about his fate, but Loaten refused to give her more than hints, saying that he is not allowed to tell her. He then assigned N'Teese to act as her guide while she was in Kezare. [[Nilto\|Nilto]] interrupted their meeting and made her leave the office. As Khriss left the room [[Baon\|Baon]] saw Loaten through the doorway, recognized him as a traitor, and raised his pistol to shoot him before Khriss pacified him and they made a hasty exit.
+>“*Tienes mala reputación en el [[Lado Oscuro\|Lado Oscuro]]. Un traidor a la Dinastía, supuestamente ejecutado por intentar asesinar al mismísimo emperador [[Skathan\|Skathan]].*”
+\- Khrissalla a Loaten.[1]
 
 
+**Loaten** es un [[Oscurense\|oscurense]] que vive actualmente en Lonzare, el barrio oscurense de [[Kezare\|Kezare]].
 
-https://coppermind.net/wiki/Loaten
+## Apariencia y personalidad
+Loaten es un hombre corpulento de piel oscura. Tiene una perilla fina y patillas largas y gruesas, pero por lo demás es calvo. Tiene una cicatriz característica en el cuello. Viste una túnica gris a rayas sobre una camisa azul, y lleva un anillo en cada uno de los dedos.
+
+## Historia
+Loaten era el principal ministro de diplomacia del emperador [[Skathan\|Skathan]]. Perdió el poder cuando intentó matar a Skathan. Se dijo que había sido ejecutado, pero en realidad huyó al [[Lado Diurno\|Lado Diurno]].
+Loaten conoció a [[Gevalden\|Gevalden]] durante su búsqueda de los [[Maestr%C3%ADa de la arena\|magos de la arena]] y sabe qué fue de él. Cuando [[Khriss\|Khriss]] llegó a Lonzare, [[N'Teese\|N'Teese]], a cambio de una comisión, la llevó a ver a Loaten. Éste la reconoció como la "duquesa desaparecida de [[Elis\|Elis]]". Cuando Khriss le pidió información sobre lo que buscaba Gevin y sobre su destino, pero Loaten se negó a darle más que indicios, diciendo que no estaba autorizado a decírselo. Entonces asignó a N'Teese para que actuara como su guía mientras ella estuviera en Kezare. [[Nilto\|Nilto]] interrumpió su reunión y la obligó a abandonar el despacho. Cuando Khriss salió de la habitación, [[Baon\|Baon]] vio a Loaten a través de la puerta, lo reconoció como un traidor y levantó su pistola para dispararle antes de que Khriss lo apaciguara e hicieran una salida precipitada.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+
+
+https://es.coppermind.net/wiki/Loaten

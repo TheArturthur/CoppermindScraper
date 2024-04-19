@@ -1,16 +1,31 @@
+
+
 |**Yazad**|
 |-|-|
-|**Died**||
-|**Titles**|Emperor of the [[Rose Empire\|Rose Empire]]|
-|**Ethnicity**|[[Grand\|Grand]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**||
+|**Títulos**|Emperador del [[Imperio Rosa\|Imperio Rosa]]|
+|**Etnia**|[[Grande\|Grande]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Yazad** was the forty-eighth Emperor of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]].
-Near the end of his reign, he grew weak with sickness. After his death, [[Ashravan\|Ashravan]] succeeded him as the emperor.
+**Yazad** es el cuadragésimo octavo emperador del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]].
+Hacia el final de su reinado, se debilita a causa de una enfermedad. Tras su muerte, [[Ashravan\|Ashravan]] lo sucede como emperador.
 
-## Trivia
-Yazad may be named after the Zoroastrian concept of *yazata* (Avestan: 𐬫𐬀𐬰𐬀𐬙𐬀), which is known as *yazad* (𐭩𐭦𐭲𐭩‎) in Middle Persian; Brandon has noted that he was influenced by ancient Zoroastrian words for Rose Empire names. Yazata is a word with various uses, but it is most often used to refer to divine beings that are worthy of worship.
+## Curiosidades
+Parece que Ashravan recibió si nombre de  (Avestan: 𐬫𐬀𐬰𐬀𐬙𐬀) de la fe zoroastriana, que era conocido como *Yazad* (𐭩𐭦𐭲𐭩‎) en Persia. Esto está respaldado por Brandon siendo influenciado por antiguas palabras zoroastrianas en los nombres del Imperio Rosa.  Yazata es una palabra con varios usos, pero el más utilizado es para hacer referencia a seres divinos que son dignos de culto.
+## Notas
+|Antecesor  ***Desconocido***|**Emperador del [[Imperio Rosa\|Imperio Rosa]]**  48º|Sucesor  **[[Ashravan\|Ashravan]]**|
+|-|-|
 
 
-https://coppermind.net/wiki/Yazad_(Sel)
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 12:39, 3 de septiembre de 2016 (MST)
+|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
+|-|-|
+|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] · [[Frava\|Frava]] · [[Zu (Sel)\|Zu]] · [[Han ShuXen\|Han ShuXen]] · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
+|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
+|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
+
+
+
+https://es.coppermind.net/wiki/Yazad_(Sel)

@@ -1,8 +1,8 @@
-*This disambiguation page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
 **Elantris** refers to two different things:
 
-[[Elantris (book)\|Elantris (book)]], [[Brandon Sanderson\|Brandon's]] first published book, set on [[Sel\|Sel]] in the [[Cosmere\|cosmere]]
-[[Elantris (city)\|Elantris (city)]], the city of the [[Elantrian\|Elantrians]], located in [[Arelon\|Arelon]] on [[Sel\|Sel]]
+[[Elantris (libro)\|Elantris (libro)]], primer libro publicado de [[Brandon Sanderson\|Brandon]], situado en [[Sel\|Sel]] en el [[Cosmere\|Cosmere]]
+[[Elantris (ciudad)\|Elantris (ciudad)]], la ciudad de los [[Elantrino\|elantrinos]], localizada en [[Arelon\|Arelon]] en [[Sel\|Sel]]
 
 
-https://coppermind.net/wiki/Elantris
+https://es.coppermind.net/wiki/Elantris

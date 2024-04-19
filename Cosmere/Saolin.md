@@ -1,52 +1,69 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Saolin**|
 |-|-|
-|**Died**|"Dissolved" in [[Devotion's Perpendicularity\|Devotion's Perpendicularity]].|
-|**Abilities**|[[Elantrian\|Elantrian]]|
-|**Profession**|Soldier|
-|**Residence**|[[Elantris (city)\|Elantris]]|
-|**Ethnicity**|[[Aonic\|Aonic]]|
-|**Nationality**|[[Arelene\|Arelene]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Elantris*|
+|**Fallecido**|"Disuelto" en la [[Perpendicularidad de Devoci%C3%B3n\|Perpendicularidad de Devoción]].|
+|**Capacidades**|[[Elantrino\|Elantrino]]|
+|**Oficio**|Soldado|
+|**Residencia**|[[Elantris (ciudad)\|Elantris]]|
+|**Etnia**|[[A%C3%B3nico\|Aónico]]|
+|**Nacionalidad**|[[De Arelon\|de Arelon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
->“*Being an Elantrian only makes me more proud to wear this wound. I received it protecting our people.*”
+>“*Mi señor, ser elantrino solo me hace sentirme más orgulloso de llevar esta herida. La he recibido protegiendo a nuestra gente.*”
 \-Saolin[4]
 
 
-**Saolin** is an [[Elantrian\|Elantrian]] on [[Sel\|Sel]]. A former soldier under Count [[Eondel\|Eondel]], he became captain of the guards in [[New Elantris\|New Elantris]] and loyally served [[Raoden\|Raoden]] until becoming [[Hoed\|Hoed]].
+**Saolin** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Antiguo soldado del conde [[Eondel\|Eondel]], se convirtió en capitán de la guardia en [[Nueva Elantris\|Nueva Elantris]] y sirvió lealmente a [[Raoden\|Raoden]] hasta convertirse en [[Hoed\|hoed]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Notes
-
-
-## Appearance and Personality
-Saolin is old for a soldier, probably close to retirement. Even after being taken by the [[Shaod\|Shaod]], he is a burly, well-muscled man. His nose appears to have been broken several times, and he is missing a couple of teeth.
-His name is based on Aon Sao, meaning intelligence or learning. He "says his prayers", but does not know much about religion.
-Like all soldiers in Count [[Eondel\|Eondel's]] legion, he is disciplined and honorable, and Saolin takes pride in being considered part of the best soldiers in Arelon. At first he questions [[Raoden\|Raoden]], but is convinced to trust him by [[Mareshe\|Mareshe]], and subsequently pledges loyalty to Raoden.
-During his time defending [[New Elantris\|New Elantris]], Saolin gathers a few wounds; due to the [[Reod\|Reod]], an Elantrian's pain never goes away. Yet Saolin does not mourn his wounds, but is proud to wear them as a reminder that he received them with honor while defending his people.
-
-## Attributes and Abilities
-Partly due to his military background, Saolin is exceptionally loyal. He insists on forming a honor guard for his leader, gets disturbed when Raoden leaves the guarded area of their settlement without warning, and refuses to let him fight because leaders are too valuable. He is not easily unsettled and recognizes direct orders.
-He is strong and highly skilled with a sword. He also displays leadership qualities and can lead a team successfully. While a great soldier, he is completely lacking in stealth.
-
-## History
-Before being taken by the Shaod, Saolin was a soldier in Count [[Eondel\|Eondel's]] legion.
-He was taken by the Shaod not long after Raoden, and was thrown into Elantris together with [[Maare\|Maare]] and [[Riil\|Riil]]. As soon as the city gates closed behind their backs, Raoden used a ruse and claimed that [[Galladon\|Galladon]] had a cure, then had him take off at a dash so the men of [[Shaor\|Shaor's]] gang would follow. This way the three newcomers could safely be led away from the courtyard at the gates. Once brought to safety, Saolin pledged his sword to Raoden after realizing that he had saved the newcomers (and hearing him praise his former lord, Eondel).
-Saolin started holding watch over the chapel that the small gang used as their base. He soon received a real sword to replace his improvised spear, given to him by Raoden who acquired it out of the city. He also built a makeshift watchtower.
-As more people joined Raoden's band, Saolin gathered a squad of soldiers and became their captain, and insisted on forming an honor guard for his leader. This proved to be beneficial, as Saolin was able to ward off a surprise attack by Shaor's men and save Raoden from any injuries, winning enough time for [[Dashe\|Dashe]] and three other soldiers to join his ranks. Together they were able to defeat the assailants despite being outnumbered.
-To take things further, they sectioned off a marginally defensible section of town to be New Elantris, and sentries were placed at every intersection to watch for approaching marauders. This left time for Saolin to retrieve new people being thrown into Elantris and guide them to their settlement, a task he shared with [[Karata\|Karata]]. Saolin also began teaching simple combat techniques to those capable as a means of self-defense, but he could use only the safest and most elementary training methods to prevent any wounds.
-
->“*Failed my lord. Failed my lord Spirit. Failed, failed, failed...*”
-\-Saolin's Hoed mantra[8]
-
-When Princess [[Sarene\|Sarene]] distributed food to the Elantrians as part of her [[Widow's Trial\|Widow's Trial]], Saolin defended the courtyard from Shaor's men out of fear that they would harm the nobles who entered the city. This went well for a while, until Saolin slipped while fighting and got a deep cut in his sword arm. While he grew proficient at fighting with his left hand, his squad of soldiers grew too thin to defend both New Elantris and the courtyard. Saolin realized that they wouldn't be able to hold out for much longer, and planned to ambush Shaor's men as they approached the courtyard in a desperate attempt to defeat them. However, the ambush failed; Saolin was severely injured and became [[Hoed\|Hoed]]. As a Hoed, Saolin believed he had failed, but there was nothing that he or Raoden could have done to deal with all of the threats. Raoden and Galladon brought him to [[The Lake\|the Lake]] so that he could be dissolved and relieved from his pains.
-After the restoration of Elantris, Raoden insisted that a gravestone be erected for Saolin despite his body being dissolved in the Lake. His grave has a place of honor alongside [[Karata\|Karata]], [[Eondel\|Eondel]], [[Roial\|Roial]], [[Hrathen\|Hrathen]], and the other heroes of the [[Invasion of Arelon\|Invasion of Arelon]].
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Saolin es viejo para ser soldado, probablemente a punto de jubilarse. Incluso después de haber sido tomado por la Shaod, es un hombre fornido y musculoso. Parece tener la nariz rota varias veces y le faltan un par de dientes.
+Su nombre se basa en el [[/wiki/Aon#Sao]], que significa inteligencia o aprendizaje. "Reza sus oraciones", pero no sabe mucho de religión.
+Como todos los soldados de la legión del conde [[Eondel\|Eondel]], es disciplinado y honorable, y Saolin se enorgullece de ser considerado parte de los mejores soldados de Arelon. Al principio cuestiona a [[Raoden\|Raoden]], pero [[Mareshe\|Mareshe]] le convence para que confíe en él, y posteriormente le jura lealtad.
+Durante su tiempo defendiendo [[Nueva Elantris\|Nueva Elantris]], Saolin acumula unas cuantas heridas; debido al [[Reod\|Reod]], el dolor de un elantrino nunca desaparece. Sin embargo, Saolin no llora sus heridas, sino que se enorgullece de llevarlas como recordatorio de que las recibió con honor mientras defendía a su gente.
 
-https://coppermind.net/wiki/Saolin
+## Atributos y habilidades
+En parte debido a su pasado militar, Saolin es excepcionalmente leal. Insiste en formar una guardia de honor para su líder, se molesta cuando Raoden abandona la zona vigilada de su asentamiento sin avisar, y se niega a dejarle luchar porque los líderes son demasiado valiosos. No se inquieta fácilmente y reconoce las órdenes directas.
+Es fuerte y muy hábil con la espada. También muestra cualidades de liderazgo y puede dirigir un equipo con éxito. Aunque es un gran soldado, carece por completo de sigilo.
+
+## Historia
+Antes de ser tomado por la Shaod, Saolin era soldado de la legión del conde [[Eondel\|Eondel]].
+Fue tomado por la Shaod poco después que Raoden, y fue arrojado a Elantris junto con [[Maare\|Maare]] y [[Riil\|Riil]]. En cuanto las puertas de la ciudad se cerraron a sus espaldas, Raoden utilizó un ardid y afirmó que [[Galladon\|Galladon]] tenía una cura, luego le hizo salir a la carrera para que los hombres de la banda de [[Shaor\|Shaor]] le siguieran. De este modo, los tres recién llegados pudieron ser conducidos con seguridad lejos del patio de las puertas. Una vez a salvo, Saolin comprometió su espada con Raoden tras darse cuenta de que había salvado a los recién llegados (y oírle alabar a su antiguo señor, Eondel).
+Saolin empezó a vigilar la capilla que la pequeña banda utilizaba como base. Pronto recibió una espada de verdad para sustituir a su improvisada lanza, que le regaló Raoden, quien la adquirió fuera de la ciudad. También construyó una torre de vigilancia improvisada.
+A medida que más gente se unía a la banda de Raoden, Saolin reunió un escuadrón de soldados y se convirtió en su capitán, e insistió en formar una guardia de honor para su líder. Esto resultó ser beneficioso, ya que Saolin fue capaz de rechazar un ataque sorpresa de los hombres de Shaor y salvar a Raoden de cualquier herida, ganando tiempo suficiente para que [[Dashe\|Dashe]] y otros tres soldados se unieran a sus filas. Juntos fueron capaces de derrotar a los asaltantes a pesar de estar en inferioridad numérica.
+Para llevar las cosas aún más lejos, separaron una sección marginalmente defendible de la ciudad para que fuera Nueva Elantris, y se colocaron centinelas en cada intersección para vigilar a los merodeadores que se acercaban. Esto dejaba tiempo a Saolin para recoger a los nuevos habitantes de Elantris y guiarlos hasta su asentamiento, tarea que compartía con [[Karata\|Karata]]. Saolin también comenzó a enseñar técnicas de combate sencillas a los que estaban capacitados como medio de autodefensa, pero sólo podía utilizar los métodos de entrenamiento más seguros y elementales para evitar cualquier herida.
+
+>“*Le he fallado a mi señor. Le he fallado a mi lord Espíritu. Fallado, fallado, fallado...*”
+\-El mantra de Saolin como hoed[8]
+
+Cuando la princesa [[Sarene\|Sarene]] distribuyó comida a los elantrinos como parte de su [[Prueba de Viudedad\|Prueba de Viudedad]], Saolin defendió el patio de los hombres de Shaor por miedo a que hicieran daño a los nobles que entraran en la ciudad. Esto fue bien durante un tiempo, hasta que Saolin resbaló mientras luchaba y se hizo un corte profundo en el brazo de la espada. Aunque se hizo experto en la lucha con la mano izquierda, su escuadrón de soldados era demasiado pequeño para defender Nueva Elantris y el patio. Saolin se dio cuenta de que no podrían resistir mucho más y planeó tender una emboscada a los hombres de Shaor cuando se acercaran al patio, en un intento desesperado por derrotarlos. Sin embargo, la emboscada fracasó; Saolin resultó gravemente herido y se convirtió en [[Hoed\|hoed]]. Saolin creyó que había fracasado, pero ni él ni Raoden podían haber hecho nada para hacer frente a todas las amenazas. Raoden y Galladon lo llevaron al [[Perpendicularidad de Devoci%C3%B3n\|lago]] para que pudiera disolverse y aliviarse de sus penas.
+Tras la restauración de Elantris, Raoden insistió en que se erigiera una lápida para Saolin a pesar de que su cuerpo se disolvió en el lago. Su tumba ocupa un lugar de honor junto a [[Karata\|Karata]], [[Eondel\|Eondel]], [[Roial\|Roial]], [[Hrathen\|Hrathen]] y los demás héroes de la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]].
+
+## Notas
+
+
+
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 21:47, 24 de febrero de 2023 (UTC)
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+
+
+https://es.coppermind.net/wiki/Saolin

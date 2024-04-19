@@ -1,15 +1,29 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Yeong-Gwang**|
 |-|-|
-|**Type**|Spacecraft|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Tipo**|Nave espacial|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-The *Yeong-Gwang* was a ship in the old fleet which carried humanity to [[Detritus\|Detritus]].
-The residents and descendants are known as **Yeongian**, and are mostly ethnically Chinese or Korean.
-After landing, they formed a clan and used their hydroponics knowledge to become underground farmers in a cavern close to Igneous. The food grown by this clan is of high value and is only available to those who have multiple achievement or industry merits. [[Bim\|Bim]] is from that clan.
+El ***Yeong-Gwang*** era una nave de la antigua flota que llevaba a la humanidad a [[Detritus\|Detritus]].
+Los residentes y descendientes son conocidos como **yeongianos**, y en su mayoría son de etnia china o coreana.
+Tras aterrizar, formaron un clan y utilizaron sus conocimientos de hidroponía para convertirse en agricultores subterráneos en una caverna cercana a Ígnea. Los alimentos cultivados por este clan son de alto valor y sólo están disponibles para aquellos que tienen múltiples méritos de logros o de la industria. [[Bim\|Bim]] es de ese clan.
 
-## Trivia
-The name of the starship is likely a reference to the South Korean poet , who is famous for writing about the pain and trials of youth.
-Yeong-Gwang (영광) also means glory or honor in Korean.
+## Curiosidades
+Es probable que el nombre de la nave sea una referencia al poeta surcoreano , famoso por escribir sobre el dolor y las pruebas de la juventud.
+Yeong-Gwang (영광) también significa gloria u honor en coreano.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 18:43, 26 de enero de 2019 (MST)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
-https://coppermind.net/wiki/Yeongian
+
+https://es.coppermind.net/wiki/Yeong-Gwang

@@ -1,10 +1,10 @@
 |**Paige**|
 |-|-|
-|by  Potato-sunrise |
-|**Groups**|[[Reckoners\|Reckoners]]|
-|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+||
+|**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
+|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
-This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*I don’t think anything will ever change if people like us aren’t willing to sacrifice to make it happen.*”
 \-Paige[1]
@@ -12,25 +12,25 @@ This page or section needs to be updated with new information for *Lux*!Be awar
 
 **Paige** is a [[Reckoners\|Reckoner]] and a [[Ravens\|Raven]], as well as the current host of the being known as [[Deathrise\|Deathrise]]. She is originally from California.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3.1 Early Life
-3.2 The Coop
-3.3 Becoming a Raven
-3.4 Back with the Reckoners
-3.5 Aftermath
-
-
-4 Relationships
-
-4.1 Jax
+3. [[#Early Life]] 
+3. [[#The Coop]] 
+3. [[#Becoming a Raven]] 
+3. [[#Back with the Reckoners]] 
+3. [[#Aftermath]] 
 
 
-5 Notes
+4 Relationships. [[#Relationships]] 
+
+4. [[#Jax]] 
+
+
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -48,7 +48,7 @@ Due to her intensive training at the [[Coop\|Coop]], Paige is highly skilled in 
 Prior to her joining the Reckoners, Paige’s entire family was killed by an Epic called [[Graviton\|Graviton]]. Graviton created tiny pockets of gravity inside her family members bodies, causing them to collapse inward and die.
 
 ### The Coop
-Paige arrived at the coop around two years after Jax. Upon arrival, she and Jax struck up a strong friendship through their shared suffering and through working on [[Motivator\|motivators]] together every night. She and Jax often fought side by side in the practice arena, though Zeff often pitted them against impossible odds. She learned swordsmanship and firearms from Zeff, and became especially good with the latter.
+Paige arrived at the coop around two years after Jax. Upon arrival, she and Jax struck up a strong friendship through their shared suffering and through working on  together every night. She and Jax often fought side by side in the practice arena, though Zeff often pitted them against impossible odds. She learned swordsmanship and firearms from Zeff, and became especially good with the latter.
 
 ### Becoming a Raven
 During a fight at Arlington, Wingflare dropped a section of road on top of Paige. Paige was laying down next to a van at the time, and the concrete folded around the van, leaving her alive. Upon crawling out she encountered a Raven, who decided to kill her with a knife instead of a gun. Paige took a knife from the Raven and killed him with it. Due to the Raven’s regeneration, Paige killed them dozens of times. [[Lifeforce\|Lifeforce]] saw it and was impressed. He gave her a sword and had her fight ten ravens at once. When she won, he made her into a Raven. Paige, determined to gain access to Lifeforce’s palace, worked her way up through the Raven ranks quickly, soon becoming a lieutenant.
@@ -67,6 +67,17 @@ Paige was in a coma for several weeks following Lifeforce injecting the mysterio
 
 Paige trains with Jax at the Coop, and from the beginning they are close friends. They are united by their shared suffering under Zeff, and they enjoy working together in the motivator workshop every night.  Paige is in love with him from the time they first met, but doesn’t tell him. When Jax and the other Reckoners arrive at Lux, she and Jax have a happy reunion, though are kept busy by the mission. It isn’t until their final assault on Lifeforce’s palace that Paige confesses her feelings for Jax and kisses him.
 
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · |
+|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Paige
+
+https://es.coppermind.net/wiki/Paige

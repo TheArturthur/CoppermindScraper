@@ -1,23 +1,23 @@
 |**Refractionary**|
 |-|-|
-|**Died**|Killed by Megan Tarash|
-|**Powers**|[[Epic\|Epic]]|
-|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Fallecido**|Killed by Megan Tarash|
+|**Poderes**|[[%C3%89pico\|Épico]]|
+|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
-**Refractionary** is an illusionist [[Epic\|Epic]] in [[Newcago\|Newcago]].
+**Refractionary** is an illusionist  in .
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2.1 Epic Powers
-2.2 Weakness
+2. [[#Epic Powers]] 
+2. [[#Weakness]] 
 
 
-3 History
-4 Trivia
-5 Notes
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -37,6 +37,18 @@ When the Enforcers followed David into his apartment, Refractionary attempted to
 
 ## Trivia
 Refractionary leads someone who cut her off in traffic off the road, because they inconvenienced her. This is remarkably similar to how Brandon developed the idea for the Reckoners series as a whole. He was late to a book signing, and when someone cut him off, he remarked that they were very lucky he didn't have superpowers and blow up their car for inconveniencing him.
+## Notes
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
+|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Refractionary
+
+https://es.coppermind.net/wiki/Refractionary

@@ -1,17 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Jest**|
 |-|-|
-|**Siblings**|[[Jost\|Jost]]|
-|**Birthplace**|[[Hearthstone\|Hearthstone]]|
-|**Ethnicity**|[[Alethi\|Alethi]]|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Hermanos**|[[Jost\|Jost]]|
+|**Lugar de nacimiento**|[[Piedralar\|Piedralar]]|
+|**Etnia**|[[De Alezkar\|de Alezkar]]|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Jest** is a [[Darkeyes\|darkeyed]] man from [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] who grew up with [[Kaladin\|Kaladin]].
-Jest was born into a typical Hearthstone family of the fourth or fifth [[Nahn\|nahn]]. His parents are farmers, and his father spent time as a soldier. He is of the [[Vorin\|Vorin]] faith and refers to the [[Ardent\|ardents']] teachings that men must become warriors to fight for the [[Tranquiline Halls\|Tranquiline Halls]]. Kaladin cites Jest's name as an example of a 'solid, Alethi darkeyes' names, unlike his own.
-As a child, Jest worked in the [[Lavis\|lavis]] fields outside of Hearthstone with the other darkeyed children of the village, helping to keep the polyps free of [[Diggerworm\|diggerworms]]. When they were not working, Jest played with the other children in the village, including his brother [[Jost\|Jost]], [[Tift\|Tift]], [[Mord\|Mord]], [[Naget\|Naget]], and [[Khav\|Khav]]. Jest and the other children were bitter that Kaladin was able able to stay inside during the day, not realizing that he worked hard at his studies all day long.
-In 1166, Jest observed a fight between Kaladin and Jost.
+**Jest** es un hombre [[Ojos oscuros\|ojos oscuros]] de [[Piedralar\|Piedralar]] en [[Alethkar\|Alethkar]], en [[Roshar\|Roshar]], que creció con [[Kaladin\|Kaladin]].
+Jest nació en una familia típica de Piedralar de cuarto o quinto [[Nahn\|nahn]]. Sus padres son agricultores y su padre pasó algún tiempo como soldado. Sigue la fe [[Vorin\|vorin]] y hace referencia a las enseñanzas de los fervorosos de que los hombres deben convertirse en guerreros para luchar por los [[Salones Tranquilos\|Salones Tranquilos]]. Kaladin menciona el nombre de Jest como ejemplo de nombres sólidos de ojos oscuros alezi, a diferencia del suyo propio.
+De niño, Jest trabajaba en los campos de [[Lavis\|lavis]] a las afueras de Piedralar con los otros niños ojos oscuros de la aldea, ayudando a mantener los pólipos libres de [[Gusano cavador\|gusanos cavadores]]. Cuando no estaban trabajando, Jest jugaba con los demás niños de la aldea, entre ellos su hermano [[Jost\|Jost]], [[Tift\|Tift]], [[Mord\|Mord]], [[Naget\|Naget]] y [[Khav\|Khav]]. Jest y los otros niños estaban resentidos de que Kaladin pudiera quedarse dentro durante el día, sin darse cuenta de que él trabajaba duro en sus estudios todo ese tiempo.
+En 1166, Jest observó una pelea entre Kaladin y Jost.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 23:27, 11 June 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Jest
+https://es.coppermind.net/wiki/Jest

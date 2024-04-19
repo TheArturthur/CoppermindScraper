@@ -1,18 +1,42 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Bendal**|
 |-|-|
-|**Died**|1022 [[Final Empire\|FE]], killed by [[Kelsier\|Kelsier]]|
-|**Abilities**|[[Hemalurgy\|Hemalurgist]]|
-|**Species**|[[Steel Inquisitor\|Steel Inquisitor]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Mistborn: The Final Empire*|
+|**Fallecido**|1022 [[Imperio Final\|IF]], asesinado por [[Kelsier\|Kelsier]]|
+|**Capacidades**|[[Hemalurgia\|Hemalurgo]]|
+|**Especie**|[[Inquisidores de acero\|Inquisidores de acero]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final\|El Imperio Final]]*|
 
-**Bendal** was a [[Steel Inquisitor\|Steel Inquisitor]] near the end of the [[Final Empire\|Final Empire]].
-He swore that [[Tevidian\|Tevidian]] had fathered a half-breed child, and hunted [[Vin\|Vin's]] half-brother, [[Reen\|Reen]], to get him to admit it. Reen died promising Vin had starved to death long ago, but Bendal remained convinced one was out there.
-After Vin Soothed Prelan [[Laird\|Laird]] for [[Camon\|Camon]] and [[Camon's crew\|his crew]], Bendal hunted her, to eventually bring the evidence against Tevidian. However, Vin escaped the Canton of Finance Headquarters because [[Kelsier\|Kelsier]] threw Bendal off Vin's trail.
-Bendal was the lead Inquisitor who stopped Kelsier and Vin during their infiltration of [[Kredik Shaw\|Kredik Shaw]].
-Bendal eventually fought Kelsier at [[Square of the Survivor\|fountain square]] and was decapitated.
+**Bendal** es un [[Inquisidor de acero\|inquisidor de acero]] hacia el final del [[Imperio Final\|Imperio Final]].
+Está seguro de que [[Tevidian\|Tevidian]] había tenido un hijo mestizo, y caza al hermanastro de [[Vin\|Vin]], [[Reen\|Reen]], para que este lo admita. Sin embargo, aunque Reen muere asegurando que Vin había muerto de hambre hacía tiempo, Bendal sigue convencido de que hay más hijos de Tevidian sueltos.
+Cuando Vin aplaca al prelado [[Laird\|Laird]] en una misión para la [[Banda de Camon\|banda de Camon]], Bendal comienza a darle caza con el objetivo de llevar las pruebas ante Tevidian. Sin embargo, Vin consigue escapar de las oficinas del Cantón de las Finanzas gracias a que [[Kelsier\|Kelsier]] hace que Bendal pierda la pista.
+Bendal es el jefe de los inquisidores que detienen a Kelsier y Vin durante su infiltración en [[Kredik Shaw\|Kredik Shaw]].
+Finalmente, Bendal se enfrenta a Kelsier en la [[Plaza del Superviviente\|plaza de la fuente]] y es decapitado.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 01:57, 9 April 2022 (UTC)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Bendal
+https://es.coppermind.net/wiki/Bendal

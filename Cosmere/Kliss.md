@@ -1,53 +1,77 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kliss**|
 |-|-|
-|**Residence**|[[Luthadel\|Luthadel]]|
-|**Ethnicity**|[[Noble\|Noble]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Residencia**|[[Luthadel\|Luthadel]]|
+|**Etnia**|[[Noble\|Noble]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“* A foolish gossip? Why, yes I am. It's fascinating, the kinds of things you can learn when you're known as the court gossip.*”
-\- Lady Kliss to Vin[1]
-
-
-Lady **Kliss** is a [[Noble\|noblewoman]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]]. She acts as a simple court gossip, using that persona to help her in her role as a political informant.
-
-## Contents
-
-1 Apperance and Personality
-2 History
-
-2.1 Early Life
-2.2 Before the House War
-2.3 Later Life
+>“* ¿Una chismosa tonta? Bueno, sí, lo soy. Es fascinante, las cosas de las que te enteras cuando te conocen como a la chismosa de la corte.*”
+\- Lady Kliss a Vin[1]
 
 
-3 Notes
+Lady **Kliss** es una [[Noble\|noble]] en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]]. Ella actúa como una simple chismosa de la corte, usando esa personalidad para ayudarla en su papel como informante política.
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+
+2. [[#Primeros a.C3.B1os de vida]] 
+2. [[#Antes de la guerra de casas]] 
+2. [[#Vida posterior]] 
 
 
-## Apperance and Personality
->“* Besides, child, didn't the boy just spurn you? What do you owe him?*”
-\- Kliss to Valette about Elend Venture [1]
+3 Notas. [[#Notas]] 
 
 
-Kliss is a short young woman, with blonde hair and an apparent lack of fashion sense, She typically dressed in squat, gaudy gowns. She often wore her hair up in a massive wobbling bun and walks with a sort of waddle.
-Kliss is actually an intelligent and crafty woman, who has carefully cultivated a vapid and obnoxious persona. As a member of the [[Luthadel\|Luthadel]] court, she was believed to be nothing but a courtly gossip. She used that as a cover and source of information for her actual work as an informant-for-hire. When in character, she appears to be over-eager and enthusiastic, with twinkling eyes and a ready smile. Her unfashionable outfits are also a part of her disguise. When she drops the persona, Kliss's attitude changes, her voice takes on an odd tone and she appears more in control of herself. Kliss often makes use of the fact that people come to her to spread lies to discern more about others' motivations. She can also be dismissive, treating those that she is manipulating or extorting like children. Kliss is heavily motivated by money, willing to sell information or keep silent for a price, but her rates are quite expensive and she does not seem to give away much information for free. Kliss is also severe and cold, willing to offer her allegiance to whoever can offer her the most. She is a woman who is out for herself and is not willing to help others if it does not benefit herself.
-
-## History
-### Early Life
-Kliss lived in [[Luthadel\|Luthadel]] and was an active if seemingly unimportant member of the court. She was an active attendee of the balls thrown by the Great Houses, developing a reputation as a gossip. In actuality, Kliss used her reputation as an air-headed fool to become a professional informant.
-
-### Before the House War
-Kliss met Vin, in the guise of Valette Renoux, and the two women became casual acquaintances. At one ball thrown by House Hasting, Kliss accompanied [[Rene\|Rene]] and confided in Vin and their other companions that she believed [[House Tekiel\|House Tekiel]] had assassinated [[Ardous Geffenry\|Ardous]] and [[Callins Geffenry\|Callins Geffenry]] in response to the death of Lord [[Hughes Entrone\|Hughes Entrone]]. As Vin went to return to her table, Kliss also informed her that the [[Steel Inquisitor\|Steel Inquisitors]] had hit twice as many [[Skaa\|skaa]] thieving bands as normal in the last few months.
-
->“*Deliver a message to your uncle for me, will you dear? Tell him that a man such as himself— without house alliances—might have a difﬁcult time gathering intelligence in the upcoming months. If he needs a good source of information, tell him to send for me. I know lots of interesting things.*”
-\-Kliss to Valette[1]
-
-At a later ball hosted by [[House Lekal\|House Lekal]], Kliss spoke to Vin again, wondering after her absence at the previous ball. Kliss informed Vin that [[Tren-Pedri Delouse\|Tren-Pedri Delouse's]] father was considering a union with [[House Aime\|House Aime]] against Tren-Pedri's wishes. Vin in turn told Kliss that she had overheard Lord Renoux speaking about [[House Hasting\|House Hasting]] withdrawing from its contracts as it prepared to flee the city. Kliss recognized this for the lie that it was, but pretended to believe Vin. At some point afterward, Kliss became aware that Lady [[Shan Elariel\|Shan Elariel]] was planning to assassinate [[Elend Venture\|Elend Venture]] during one of his philosophy meetings, along with [[Telden Hasting\|Telden Hasting]] and [[Jastes Lekal\|Jastes Lekal]]. She also learned that Lord [[Straff Venture\|Straff Venture]] was aware of the assassination and intended to allow it, so that his nephew could inherit.
-A week later, at the final ball held by [[House Venture\|House Venture]], Kliss spoke to Vin after Vin had been rebuffed by Elend. She told Vin that Elend would soon get what he deserved. Kliss asked Vin to offer her services as an informant to Lord Renoux. She also told Vin that she had caught Vin's lie about House Hasting and suspected that House Renoux had been behind the recent attack's on Hasting's barges. Kliss offered her silence in exchange for payment. Vin questioned her about what she had meant about Elend, but Kliss refused to say anything further without payment. In exchange for Vin's necklace Kliss explained that Elend was to be assassinated. Kliss refused to tell Vin any more information without payment, but Vin used emotional [[Allomancy\|Allomancy]] to question Kliss and learn that Elend was to be killed that very night. Kliss called after Vin as she left, wondering why Vin bothered to help. The crew paid later for Kliss's silence about House Renoux.
-
-### Later Life
-Kliss's fate following the death of the [[Lord Ruler\|Lord Ruler]] and the [[Collapse\|Collapse]] of the Final Empire is unknown, although Vin later reflected on Kliss and how she had made herself appear to be someone that she was not.
+## Apariencia y personalidad
+>“* Además, niña ¿No te acaba de rechazar el muchacho? ¿Qué le debes?*”
+\- Kliss a Valette sobre Elend Venture [1]
 
 
+Kliss es una joven de baja estatura , de pelo rubio y una aparente falta de sentido de la moda, solía vestir vestidos bajos y llamativos. A menudo llevaba su cabello recogido en un gran moño que se tambaleaba y caminaba con una especie de balanceo.
+Kliss es en realidad una mujer inteligente y astuta, quien ha cultivado cuidadosamente un personaje vacío y desagradable. Como miembro de la corte de [[Luthadel\|Luthadel]], se creía que no era más que una chismosa de la corte. Utilizaba eso como una tapadera y una fuente de información para su verdadero trabajo como informante a sueldo. Cuando está en su personaje, parece demasiado entusiasta y ansiosa, con ojos brillantes y una sonrisa preparada. Su ropa poco elegante también forma parte de su disfraz. Cuando abandona el personaje, la actitud de Kliss cambia, su voz adopta un tono extraño y parece tener más control sobre sí misma. A menudo aprovecha el hecho de que la gente acude a ella para difundir mentiras para discernir más acerca de las motivaciones de los demás. También puede ser despectiva, tratando a aquellos a los que está manipulando o extorsionando como niños. Está muy motivada por el dinero, dispuesta a vender información o mantener el silencio por un precio, pero sus tarifas son bastante elevadas y no parece ofrecer mucha información de forma gratuita. Kliss también es severa y fría, dispuesta a ofrecer su lealtad a quien pueda ofrecerle más. Es una mujer que se preocupa principalmente por sí misma y no está dispuesta a ayudar a los demás si no le beneficia a ella misma.
 
-https://coppermind.net/wiki/Kliss
+## Historia
+### Primeros años de vida
+Kliss vivía en [[Luthadel\|Luthadel]] y era un miembro activo, aunque aparentemente poco importante, de la corte. Fue una asistente asidua de los bailes organizados por las Grandes Casas, desarrollando una reputación como chismosa. En realidad, utilizó su reputación como una tonta despreocupada para convertirse en una informante profesional.
+
+### Antes de la guerra de casas
+Kliss conoció a Vin, disfrazada de Valette Renoux, y las dos mujeres se convirtieron en conocidas casuales. En un baile organizado por la Casa Hasting, Kliss acompañó a [[Rene\|Rene]] y le contó a Vin y a sus otros acompañantes que creía que la [[Casa Tekiel\|Casa Tekiel]] había asesinado a [[Ardous Geffenry\|Ardous]] y [[Callins Geffenry\|Callins Geffenry]] en respuesta a la muerte del lord [[Hugues Entrone\|Hugues Entrone]]. Mientras Vin se dirigía a su mesa, Kliss también le informó de que los [[Inquisidor de acero\|inquisidores de acero]] habían atacado al doble de bandas de [[Skaa\|skaa]] ladronas de lo normal en los últimos meses.
+
+>“*Entrégale un mensaje a tu tío de mi parte, ¿quieres, querida? Dile que un hombre como él, sin alianzas de casas, podría tener problemas para recopilar información en los meses venideros. Si necesita una buena fuente de información, dile que me llame. Sé un montón de cosas interesantes.*”
+\-Kliss a Valette[1]
+
+En un baile posterior organizado por la [[Casa Lekal\|Casa Lekal]], Kliss habló con Vin de nuevo, preguntándole por su ausencia en el baile anterior. Kliss informó a Vin que el padre de [[Tren-Pedri Delouse\|Tren-Pedri Delouse]] estaba considerando una unión con la [[Casa Aime\|Casa Aime]] en contra de los deseos de Tren-Pedri. Vin, a su vez, le dijo a Kliss que había oído a lord Renoux hablar sobre la [[Casa Hasting\|Casa Hasting]] retirándose de sus contratos mientras se preparaba para huir de la ciudad. Kliss reconoció esto como la mentira que era, pero fingió creer a Vin. En algún momento después, Kliss se dio cuenta de que lady [[Shan Elariel\|Shan Elariel]] planeaba asesinar a [[Elend Venture\|Elend Venture]] durante una de sus reuniones de filosofía, junto con [[Telden Hasting\|Telden Hasting]] y [[Jastes Lekal\|Jastes Lekal]]. También se enteró de que lord [[Straff Venture\|Straff Venture]] era consciente del asesinato y tenía la intención de permitirlo, para que su sobrino pudiese heredar.
+Una semana después, en el último baile organizado por la [[Casa Venture\|Casa Venture]], Kliss habló con Vin después de que esta última fuese rechazada por Elend. Le dijo a Vin que pronto recibiría lo que merecía. Kliss le pidió a Vin que ofreciese sus servicios como informante a lord Renoux. También le dijo que había descubierto su mentira sobre la Casa Hasting y sospechaba que la Casa Renoux estaba detrás de los recientes ataques a los barcos de Hasting. Kliss ofreció su silencio a cambio de un pago. Vin le preguntó sobre lo que había dicho acerca de Elend, pero Kliss se negó a decir nada más sin un pago. A cambio del collar de Vin, Kliss explicó que se planeaba asesinar a Elend. Kliss se negó a proporcionar más información a Vin sin pago, pero Vin utilizó la alomancia emocional para interrogar a Kliss y descubrir que Elend iba a ser asesinado esa misma noche. Kliss llamó a Vin cuando se marchaba, preguntándose por qué se molestaba en ayudar. Más tarde, la banda pagó por el silencio de Kliss sobre la Casa Renoux.
+
+### Vida posterior
+Se desconoce el destino de Kliss después de la muerte del [[Lord Legislador\|lord Legislador]] y el [[Colapso\|Colapso]] del Imperio Final, aunque Vin más tarde reflexiona sobre Kliss y cómo ella se había hecho pasar por alguien que no era.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 20:16, 17 February 2018 (MST)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Kliss

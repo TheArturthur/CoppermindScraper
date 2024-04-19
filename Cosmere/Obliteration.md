@@ -1,45 +1,45 @@
 |**Obliteration**|
 |-|-|
-|by  Jamie Knierim |
-|**Powers**|[[Epic\|Epic]]|
-|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+||
+|**Poderes**|[[%C3%89pico\|Épico]]|
+|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
 >“*I follow the orders of no man, mortal or Epic ... I am the cleansing fire.*”
 \-Obliteration to Newton[1]
 
 
-**Obliteration** is a [[High Epic\|High Epic]] who believes that it is his duty to destroy all of humanity.
-Along with [[Steelheart (Epic)\|Steelheart]] and [[Night's Sorrow\|Night's Sorrow]], he is among the most feared and powerful of Epics, but unlike Steelheart, he is currently not a tyrant. He is, however, a ruthless killer, who has made it his mission to kill *everyone* because he believes that all humans are corrupt and have the seed of the Epic inside of them. Five years after the rise of [[Calamity (Epic)\|Calamity]], he conquered his fear and was thus able to free himself of his corruption, though this did not influence his morals - he remained a ruthless destroyer. While he did rule Houston at one point, he ultimately decided to melt the entire city, killing the entire town's population in the process.
+**Obliteration** is a  who believes that it is his duty to destroy all of humanity.
+Along with  and [[Night's Sorrow\|Night's Sorrow]], he is among the most feared and powerful of Epics, but unlike Steelheart, he is currently not a tyrant. He is, however, a ruthless killer, who has made it his mission to kill *everyone* because he believes that all humans are corrupt and have the seed of the Epic inside of them. Five years after the rise of , he conquered his fear and was thus able to free himself of his corruption, though this did not influence his morals - he remained a ruthless destroyer. While he did rule Houston at one point, he ultimately decided to melt the entire city, killing the entire town's population in the process.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2.1 Epic Abilities
-2.2 Weakness
-
-
-3 History
-
-3.1 Before 10 A.C.
-3.2 Babylon Restored
-
-3.2.1 Regalia's Offer
-3.2.2 Tricking Prof
-3.2.3 Destroying Kansas City
+2. [[#Epic Abilities]] 
+2. [[#Weakness]] 
 
 
-3.3 Ildithia
+3 History. [[#History]] 
 
-3.3.1 Party at Sharp Tower
-3.3.2 Killing Calamity
+3. [[#Before 10 A.C.]] 
+3. [[#Babylon Restored]] 
+
+3. [[#Regalia.27s Offer]] 
+3. [[#Tricking Prof]] 
+3. [[#Destroying Kansas City]] 
+
+
+3. [[#Ildithia]] 
+
+3. [[#Party at Sharp Tower]] 
+3. [[#Killing Calamity]] 
 
 
 
 
-4 Trivia
-5 Notes
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -52,7 +52,7 @@ Obliteration is described as an indiscriminant killer and "creepy", but also rat
 Obliteration is capable of absorbing the heat out of any object he touches, including humans. There is no known upper limit to how much energy he can store, however storing an excessive amount of heat makes it difficult for him to teleport and retain the stored heat. He can absorb heat at an astonishing rate, causing a tree to frost over and wither in a mere eyeblink. At any time, he can unleash the absorbed heat or dissipate it harmlessly. There is no known limit as to how much concentrated energy he can unleash in a single burst, as he is capable of unleashing a heat wave massive enough to melt the entirety of Houston at once. These blasts do not seem to produce any radiation. Furthermore, storing an excessive amount of heat makes him shine brightly, and produce copious amounts of heat, to the point where mere skin contact can cause severe burns. Obliteration has enough control over his powers to not melt objects he wants to keep intact, such as his sword and clothes.
 
 
-Obliteration can teleport, automatically taking inanimate objects and people he touches with him. His teleportation gets described as his body bursting outwards in a flash of light, similar to a ceramic figure bursting into ceramic shards. He can only teleport to places he can visualize (either from seeing the locations in person or viewing a sufficiently detailed photo). According to [[David\|David's]] notes, Obliteration is unable to reappear (and is thus invulnerable but also unable to do anything) for several minutes after teleporting. However, in [[Babilar\|Babilar]], he no longer seems to have this limitation.
+Obliteration can teleport, automatically taking inanimate objects and people he touches with him. His teleportation gets described as his body bursting outwards in a flash of light, similar to a ceramic figure bursting into ceramic shards. He can only teleport to places he can visualize (either from seeing the locations in person or viewing a sufficiently detailed photo). According to [[David\|David]]'s notes, Obliteration is unable to reappear (and is thus invulnerable but also unable to do anything) for several minutes after teleporting. However, in [[Babilar\|Babilar]], he no longer seems to have this limitation.
 
 
 (tied to his teleportation) Should something happen that would hurt Obliteration he automatically teleports away. The danger sense works reactively, meaning that it triggers after action has been taken, for example the trigger of a gun has been pulled, and only then when the action would actually hurt Obliteration. In theory, Obliteration could actively suppress this Danger Sense, but it would be extremely difficult, and Obliteration has not learned how to do this yet.
@@ -76,14 +76,14 @@ Obliteration was summoned to Babilar by Regalia, who offered to let Obliteration
 Obliteration fights the Reckoners from time to time in Babilar. He almost succeeds in drowning David by attaching a ball and chain to his leg and dropping him into the water. Later, David found that Obliteration is also working with Newton. Obliteration knew Newton's weakness, and kept her in check.
 
 #### Tricking Prof
-Obliteration started to store up sunlight in Babilar on a rooftop. During the next few days, [[Prof\|Prof]] decided he would stop Obliteration from destroying city by encasing him in a forcefield. However, on the day of their attack, [[Mizzy\|Mizzy]] discovered that Obliteration was gone from his spot on the rooftop. [[Valentine\|Val]] spotted a glowing coming from Regalia's old base, Building C. The Reckoners rushed to stop Obliteration, but the glowing coming from Building C was not Obliteration, but instead was the bomb that Regalia made from Obliteration. Obliteration fought David during this time, to prevent him from reaching Prof. However, when David revealed the secret of how the weaknesses relate to the fears of Epics, Obliteration thanked him and left. Obliteration's bomb exploded, forcing Prof to use his powers and save the city. However, this caused Prof to turn evil.
+Obliteration started to store up sunlight in Babilar on a rooftop. During the next few days,  decided he would stop Obliteration from destroying city by encasing him in a forcefield. However, on the day of their attack, [[Mizzy\|Mizzy]] discovered that Obliteration was gone from his spot on the rooftop. [[Valentine\|Val]] spotted a glowing coming from Regalia's old base, Building C. The Reckoners rushed to stop Obliteration, but the glowing coming from Building C was not Obliteration, but instead was the bomb that Regalia made from Obliteration. Obliteration fought David during this time, to prevent him from reaching Prof. However, when David revealed the secret of how the weaknesses relate to the fears of Epics, Obliteration thanked him and left. Obliteration's bomb exploded, forcing Prof to use his powers and save the city. However, this caused Prof to turn evil.
 
 #### Destroying Kansas City
 Obliteration used one more of the bombs that Regalia gave him to destroy Kansas City. He used the bomb instead of collecting heat himself because it is stealthier, and more people would be destroyed in the process.
 
 ### Ildithia
 #### Party at Sharp Tower
-Obliteration showed up at Prof's party in [[Sharp Tower\|Sharp Tower]], because Prof has a "calling card." This calling card was a motivator based off of Obliteration's powers. Both David and Obliteration assumed it was a bomb. However, it was actually a teleporter. Obliteration sat on a salt throne, and rested his hand on the hilt of his sword like a scepter. Even though David and [[Megan Tarash\|Megan]] were both in disguises, Obliteration recognized them anyways, claiming they had the same eyes, and that David had the same hunger in them. However, David did not buy this explanation, and instead assumed Obliteration has an extra power. Obliteration teleported away and returns with a coconut of all things, continuing to recline on his throne as if nothing had happened. Even though David and Megan changed disguises, Obliteration still spotted them.
+Obliteration showed up at Prof's party in , because Prof has a "calling card." This calling card was a motivator based off of Obliteration's powers. Both David and Obliteration assumed it was a bomb. However, it was actually a teleporter. Obliteration sat on a salt throne, and rested his hand on the hilt of his sword like a scepter. Even though David and [[Megan Tarash\|Megan]] were both in disguises, Obliteration recognized them anyways, claiming they had the same eyes, and that David had the same hunger in them. However, David did not buy this explanation, and instead assumed Obliteration has an extra power. Obliteration teleported away and returns with a coconut of all things, continuing to recline on his throne as if nothing had happened. Even though David and Megan changed disguises, Obliteration still spotted them.
 When David traveled to the alternate reality that Firefight resides in, he noted that Obliteration was there as well, fighting the Reckoners. He had the same goals in this alternate reality as in the "real" world, even though there was no Calamity in the sky.
 
 #### Killing Calamity
@@ -94,6 +94,17 @@ After David defeated Calamity, Obliteration appeared and thanked David. He then 
 ## Trivia
 Obliteration is based off of an author, likely Jim Butcher.
 Brandon had Obliteration melt Houston because Brandon likes the city of Houston. Brandon enjoys destroying his favorite cities.
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
+|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] ·  · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Obliteration
+
+https://es.coppermind.net/wiki/Obliteration

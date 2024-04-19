@@ -1,80 +1,99 @@
-|**Dalinar's visions**|
+
+
+|**Visiones de Dalinar**|
 |-|-|
-|by  AnnDR |
-|**Related to**|[[Stormfather\|Stormfather]], [[Honor\|Honor]], [[Order of Bondsmiths\|Order of Bondsmiths]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-This page or section needs to be updated with new information for *Oathbringer*!Be aware that in its current state, it may not include all additional content yet.
+||
+|**Relacionado con**|[[Padre Tormenta\|Padre Tormenta]], [[Honor\|Honor]], [[Orden de los Forjadores de V%C3%ADnculos\|Orden de los Forjadores de Vínculos]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Dalinar's visions** were short [[Visions\|episodes]] [[Dalinar\|Dalinar]], and previously [[Gavilar\|Gavilar]], experienced during [[Highstorm\|highstorms]].
+**Las visiones de Dalinar** fueron una serie de [[Visiones\|episodios]] cortos de [[Dalinar\|Dalinar]], y previamente de [[Gavilar\|Gavilar]], que ambos experimentaban durante las [[Alta tormenta\|altas tormentas]].
 
-## Contents
+## Sumario
 
-1 Highstorms and visions
+1 Altas tormentas y visiones. [[#Altas tormentas y visiones]] 
 
-1.1 The Stormfather's Role
-
-
-2 The visions predicate
-3 Mentioned and recorded visions
-
-3.1 Starfalls
-3.2 A Highway to the Sun
-3.3 That Which We Cannot Have
-3.4 In the Top Room
-3.5 Taker of Secrets
-3.6 Broken People
+1. [[#El rol del Padre Tormenta]] 
 
 
-4 Notes
+2 Las afirmaciones de las visiones. [[#Las afirmaciones de las visiones]] 
+3 Visiones mencionadas y registradas. [[#Visiones mencionadas y registradas]] 
+
+3. [[#Lluvia de estrellas]] 
+3. [[#Un camino hacia el sol]] 
+3. [[#Lo que no podemos tener]] 
+3. [[#Desde lo alto]] 
+3. [[#Tomadora de secretos]] 
+3. [[#Personas rotas]] 
 
 
-## Highstorms and visions
-After he began listening to readings from [[The Way of Kings (in-world)\|The Way of Kings]] Dalinar began experiencing strange episodes during each highstorm. As each stormwall hit, Dalinar suddenly felt as though he had been transported to another place. The people he interacted with did not see him, but someone else in his place. The visions felt real to him, as he could feel pain. The visions often depicted places he had never been to, nor heard of, or were places he knew that were referred to by ancient names. He also saw the fabled [[Knights Radiant\|Knights Radiant]] alive and in action. He surmised that the visions were from previous [[Desolation\|Desolations]] during the [[Shadowdays\|Shadowdays]]. Dalinar could not summon his [[Shardblade\|Shardblade]] in a vision.
-At first, Dalinar suffered these visions feeling he was going mad. Dalinar eventually volunteered to be tied to a chair, because he raved and thrashed about. Watching him was unnerving, and [[Renarin\|Renarin]] told him that he spoke gibberish during the visions. Though Dalinar thought that the visions might have been sent from the [[Almighty\|Almighty]], he wavered and felt uncertain about them. He spoke to the [[Ardent\|ardents]], but received no solution. Feeling he was losing his mind, Dalinar decided to abdicate his position as Highprince in favor of [[Adolin\|Adolin]]. In an argument about this topic, Renarin suggested that they try to prove whether the visions were fabrications or contained any real references. They decided to ask [[Navani\|Navani]] to document the visions.
-This decision led to the discovery by Navani that Dalinar did not speak gibberish during his visions. During the first vision she witnessed, he spoke the [[Dawnchant\|Dawnchant]]. They considered this proof that the visions were real. The Dawnchant was a real extinct language on [[Roshar\|Roshar]], but there were no known translation keys for modern scholars to study it. Since Dalinar would have had no prior knowledge of the Dawnchant they came to the conclusion that his mind could not be fabricating the visions. As a side effect, Navani was sure that this discovery would help to translate an old book called [[Analectics\|Analectics]].
-
-### The Stormfather's Role
-After settling in [[Urithiru\|Urithiru]], the [[Stormfather\|Stormfather]] revealed that Dalinar is able to control and choose who experiences the visions. Dalinar was able to bring other people into the visions with him, and he used this ability to make initial contact with rulers to help build the alliance between the nations. Each time he entered a vision it would play out a little differently. Once, Odium came to him in a vision. After this, they deemed the visions too dangerous to use and only went in another time to bring in Venli and try to make a pact with the Voidbringers. [[Odium\|Odium]] interrupted this meeting, however.
-The Stormfather imagined a place for Dalinar to discuss plans with him. The sky is deep black and the ground endless white stone. Items and even people made of smoke rise from the floor and slowly dissipate. This place represents how the Stormfather imagines cognitive ideas dying when no longer in use by cognitive beings.
-
-## The visions predicate
-All of the visions shared the challenge given by an unknown voice:
-
->“*You must unite them, the strange, booming words had told him. You must prepare. Build of your people a fortress of strength and peace, a wall to resist the winds. Cease squabbling and unite. The Everstorm comes.*”
-\-Dalinar's memory from one of the visions[10]
+4 Notas. [[#Notas]] 
 
 
-From the visions shared statement Dalinar drew the conclusion that he had to unite [[Alethkar\|Alethkar's]] [[Highprince\|highprinces]] because only then would mankind have a chance to withstand the coming events. The visions led Dalinar to the decision to attempt to refound the Knights Radiant.
+## Altas tormentas y visiones
+Después de escuchar lecturas de [[El camino de los reyes (in-world)\|El camino de los reyes]] Dalinar comenzó a experimentar extraños episodios durante cada alta tormenta. Cuando la muralla de la tormenta golpeaba, Dalinar sentía que había sido transportado a otro sitio. Las personas con las que interactuó no lo veían a él sino a alguien más que ocupaba su lugar. Estas visiones le parecieron reales, ya que podía sentir dolor. Las visiones frecuentemente representaban lugares en los que nunca había estado ni de los que había oído hablar, o eran lugares a los que se hacía referencia con nombres antiguos. También vió a los legendarios [[Caballeros Radiantes\|Caballeros Radiantes]] vivos y en acción. Supuso que las visiones eran de [[Desolaci%C3%B3n\|Desolaciones]] anteriores ocurridas durante los [[D%C3%ADas de las sombras\|Días de las sombras]]. Dalinar no podía invocar su [[Hoja esquirlada\|hoja esquirlada]] durante la visión.
+En un principio, Dalinar sentía que se estaba volviendo loco mientras sufría estas visiones. Con el tiempo, Dalinar se ofreció para ser atado a una silla, a causa de que deliraba y daba patadas. Verlo era desconcertante, y [[Renarin\|Renarin]] le dijó que hablaba en galimatías durante estos episodios. Aunque Dalinar pensó que sus visiones podrían haber sido enviadas por el [[Todopoderoso\|Todopoderoso]], vaciló sobre ello, sintiéndose inseguro. Intentó hablar con los [[Fervoroso\|fervorosos]], pero no le dieron ninguna solución. Sintiendo que estaba perdiendo la cabeza, Dalinar decidió abdicar de su posición como Alto Príncipe en favor de [[Adolin\|Adolin]]. En una discusión sobre este tema, Renarin sugirió que tenían que intentar probar si las visiones eran mentira o contenían algunas referencias reales. Decidieron preguntar a [[Navani\|Navani]] si podía documentar estas visiones.
+Esta decisión llevó al descubrimiento de Navani de que Dalinar no decía tonterías durante sus visiones. Durante la primera visión que presenció, él habló en [[Canto del alba\|canto del alba]]. Esto se consideró prueba de que sus visiones eran reales. El canto del alba era una lengua extinta en [[Roshar\|Roshar]], pero no había ninguna clave de traducción para que los eruditos pudieran estudiarlo. Dado que Dalinar no tenía conocimiento previo del canto del alba, llegaron a la conclusión de que su mente no podría estar fabricando las visiones. Como efecto colateral, Navani está segura de que este descubrimiento ayudaría a traducir un viejo libro llamado *[[Anal%C3%A9ctica\|Analéctica]]*.
 
-## Mentioned and recorded visions
-### Starfalls
->“*This is important. Do not let strife consume you. Be strong. Act with honor, and honor will aid you.*”
-\-The Almighty at the end of the Starfalls vision[9]
+### El rol del Padre Tormenta
+Después de asentarse en [[Urithiru\|Urithiru]], el [[Padre Tormenta\|Padre Tormenta]] revela que Dalinar que es capaz de controlar y elegir quién sufre las visiones. Dalinar fue capaz de traer a otras personas a las visiones junto a él, usando inicialmente esta habilidad para hacer contacto con gobernantes para ayudar a construir la alianza entre naciones. Una vez, Odium fue a verlo en una visión. Tras esto, consideraron que las visiones eran demasiado peligrosas y solo fueron a estas para traer a Venli y tratar de hacer un pacto con los Portadores del Vacío. Sin embargo, [[Odium\|Odium]] interrumpió dicha reunión.
+El Padre Tormenta se imaginó un lugar para que Dalinar pudiera tratar planes con él. El cielo es de un negro profundo y la tierra de una interminable piedra blanca. Los objetos e incluso la gente están hechos de humo que se eleva del suelo y se disipa lentamente. Este lugar representa cómo se imagina el Padre Tormenta las ideas cognitivas muriendo cuando los seres cognitivos ya no las usan.
 
+## Las afirmaciones de las visiones
+Todas las visiones compartían el reto lanzado por una voz desconocida:
 
-During this vision Dalinar found himself in the role of a man, [[Heb\|Heb]], who lived with his wife and daughter, presumably during the advent of a Desolation in the year 337 of the Eighth Epoch. Heb and his daughter were attacked by [[Midnight Essence\|Midnight Essences]], but managed to reach Heb's house unharmed. Two more of these beasts followed, and after Heb (Dalinar) fought them off with a metal fire poker, Heb took his wife and daughter and fled from the house. A short time later they were surrounded by Midnight Essences. When he and his family thought all was lost, two Knights Radiant arrived. One, a [[Windrunner\|Windrunner]], immediately began to fight the beasts, while the second, a [[Stoneward\|Stoneward]] used a [[Regrowth\|Regrowth]] fabrial to heal Heb and his family before joining her companion in fighting the Midnight Essences. Feeling good again after the healing, Heb joined the fight, and the three of them fought off the Midnight Essences. The [[Starfalls Windrunner\|male Knight Radiant]] asked Heb about his strange fighting stances and invited him to come to [[Urithiru\|Urithiru]], where the Knights Radiant were centered, because everybody who could fight was needed. Dalinar asks questions of the [[Starfalls Stoneward\|female Knight Radiant]] as well.
-This was Dalinar's twelfth vision.
-He revisits this vision when meeting with Queen [[Fen Rnamdi\|Fen Rnamdi]], and he instructs the [[Stormfather\|Stormfather]] to let Fen experience it as he did so that they can discuss it after.
-
-### A Highway to the Sun
-Dalinar was in the role of a soldier named [[Leef\|Leef]], at a fortress called [[Feverstone Keep\|Feverstone Keep]]. He witnessed the Orders of the [[Windrunners\|Windrunners]] and the [[Stonewards\|Stonewards]] abandoning their [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblades]], forsaking their duty to the people of Roshar. Though Dalinar tried to get an explanation for their abandonment from the leaving former Knights Radiant, he received none. The voice told him that "this event will go down in history" and Dalinar assumed that he just saw the [[Day of Recreance\|Day of Recreance]].
-Dalinar revisits the keep when meeting [[Yanagawn\|Yanagawn]] and showing [[Navani\|Navani]] and [[Jasnah\|Jasnah]] the vision. After the conversation with Gawx, Dalinar is returned to the vision to first meet [[Odium\|Odium's]] golden avatar, and then [[Lift\|Lift]] appears.
-
-### That Which We Cannot Have
-In this vision Dalinar was shown the aftermath of a Desolation. His role was as a man named [[Karm\|Karm]], an adviser to a king, probably [[Nohadon\|Nohadon]] himself. Nohadon was saddened over the vast destruction caused by a recent [[Desolation\|Desolation]], noting that the kingdoms of [[Tarma\|Tarma]] and [[Eiliz\|Eiliz]] were likely to fall from the loss of population; Dalinar concurred, realizing he's never heard of either. The king also wavered over what to do with the [[Surgebinding\|Surgebinders]], and how they could be made to act more honorably. Though this king was younger than Dalinar had imagined Nohadon to be, and refused the idea of writing a book as absurd, Dalinar was sure that he was right about him being Nohadon. The king mentioned that all of his scribes were killed after [[Yelig-nar\|Yelig-nar]] broke into his chancery. Eventually this man decided to unite the people so that they could stand better against future Desolations.
-Dalinar was going to revisit this vision when the Stormfather tells him he can share the visions with anyone. He intentionally revisits to meet with [[Venli\|Venli]] until the vision is destroyed by [[Odium\|Odium]].
-
-### In the Top Room
-This is the first vision that Dalinar experienced, but he later has trouble remembering it. He later sees it again after the [[Battle of the Tower\|Battle of the Tower]]. In this vision, a man stands beside Dalinar, showing him what might happen in the future, though the man admits that [[Cultivation\|Cultivation]] is better at seeing the future than he. Then, finally, Dalinar realized that this voice, this man, has never actually heard him, explaining why he never answered Dalinar's questions. This man told Dalinar that he is the Almighty and that [[Odium\|Odium]] had killed him.
-
-### Taker of Secrets
-For the [[Unmade\|Unmade]] known as "Taker of Secrets", see [[Sja-anat\|Sja-anat]].
-After the Battle of the Tower, Dalinar had a vision in which he saw himself as a soldier, marching with several other soldiers through a shallow body of water that he believed to be the [[Purelake\|Purelake]]. They were heading towards a massive fortress, which was not known to exist in the Purelake in modern times, and looking for a spren acting unusual. They mention that [[Sja-anat\|Sja-anat]] made spren act odd. Dalinar saw a spren with red eyes, followed shortly by another, larger spren which animated a massive piece of stone, which ripped itself free of the lakebed to attack them. The soldiers mentioned that the beast was a [[Thunderclast\|Thunderclast]].
-
-### Broken People
-Dalinar first had this vision back when he thought the visions were simple nightmares. After sending Queen [[Fen Rnamdi\|Fen]] into the starfalls vision, Dalinar returns to this vision. He fights a ragged group of enemy soldiers and after the battle ends he meets a [[Stoneward\|Stoneward]] and sees him use the Surge of [[Cohesion\|Cohesion]] before pulling [[Navani\|Navani]] and [[Jasnah\|Jasnah]] into the vision, and the Stormfather confirms that it is a vision of the [[Last Desolation\|Last Desolation]]. Later, on her request, Dalinar sends Queen Fen into this vision alone before she decided whether to visit Urithiru. 
+>“*Debes unirlos—le habían dicho las extrañas y resonantes palabras—. Tienes que prepararte. Hacer de tu pueblo una fortaleza de fuerza y paz, una muralla para resistir los vientos. Dejad de pelear y uníos. Se avecina la Tormenta Eterna.*”
+\-Memoria de Dalinar de una de sus visiones.[10]
 
 
+A partir de la declaración compartida por las visiones, Dalinar llegó a la conclusión de que tenía que unir a los [[Alto pr%C3%ADncipe\|altos príncipes]] de [[Alezkar\|Alezkar]] ya que sólo entonces la humanidad tendría una oportunidad de hacer frente a los siguientes eventos. Las visiones llevaron a Dalinar a la decisión de intentar refundar a los Caballeros Radiantes.
 
-https://coppermind.net/wiki/Dalinar%27s_visions
+## Visiones mencionadas y registradas
+### Lluvia de estrellas
+>“*Eso es importante. No dejes que la disputa te consuma. Sé fuerte. Actúa con honor, y el honor te ayudará.*”
+\-El Todopoderoso al final de la visión de Lluvia de estrellas.[9]
+
+
+Durante esta visión Dalinar se encuentra en el rol de un hombre, [[Heb\|Heb]], que vivía con su esposa y su hija, presuntamente durante la llegada de una Desolación en el año 337 de la Octava Época. Heb y su hija fueron atacados por las [[Esencia de Medianoche\|Esencias de Medianoche]], pero lograron llegar ilesos a su casa. Dos de esas bestias los siguieron, y después de que Heb (Dalinar) luchara contra ellos usando un atizador de metal, Heb agarró a su esposa y su hija y huyó de la casa. Poco tiempo después fueron rodeados por Esencias de la Medianoche. Cuando él y su familia pensaron que todo estaba perdido, llegaron dos Caballeros Radiantes. Uno, un [[Corredor del Viento\|Corredor del Viento]], inmediatamente empezó a luchar contra las bestias, mientras que la segunda, una [[Custodio de Piedra\|Custodio de Piedra]], usó un fabrial de [[Progresi%C3%B3n\|Progresión]] para curar a Heb y a su familia antes de unirse a su compañero en su lucha contra las Esencias de la Medianoche. Sintiéndose bien otra vez tras curarse, Heb se une a la batalla, y los tres luchan contra ellos. El [[Corredor del Viento de Lluvia de Estrellas\|Caballero Radiante masculino]] preguntó a Heb acerca de sus extrañas posturas de batalla y lo invitó a ir a [[Urithiru\|Urithiru]], donde se reunían los Caballeros Radiantes, porque necesitaban a todo aquel que pudiera luchar. Dalinar también le hizo preguntas a la [[Custodio de Piedra de Lluvia de Estrellas\|Caballero Radiante femenina]].
+Esta fue la decimosegunda visión de Dalinar.
+Vuelve a visitar esta visión durante su reunión con la Reina [[Fen Rnamdi\|Fen Rnamdi]], y le ordena al [[Padre Tormenta\|Padre Tormenta]] permitir a Fen experimentarla como él lo hizo para poder hablar después.
+
+### Un camino hacia el sol
+Dalinar estaba en el rol de un soldado llamado [[Leef\|Leef]], en un fuerte conocido como [[Fortaleza de la Fiebre de Piedra\|Fortaleza de la Fiebre de Piedra]]. Presenció a las órdenes de los [[Corredores del Viento\|Corredores del Viento]] y los [[Custodios de Piedra\|Custodios de Piedra]] abandonar sus [[Armadura esquirlada\|armaduras]] y [[Hoja esquirlada\|hojas esquirladas]], abandonando su deber con la gente de Roshar. Aunque Dalinar trata de obtener una explicación de su deserción a los antiguos Caballeros Radiantes, no recibió ninguna. La voz le dijo “estos acontecimientos pasarán a la historia” y Dalinar asumió que acababa de ver el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]].
+Dalinar vuelve a visitar la fortaleza cuando se reúne con [[Yanagawn\|Yanagawn]] y les muestra la visión a [[Navani\|Navani]] y [[Jasnah\|Jasnah]]. Después de la conversación con Gawx, Dalinar regresa a la visión para encontrarse por primera vez con el avatar dorado de [[Odium\|Odium]], y entonces aparece [[Lift\|Lift]].
+
+### Lo que no podemos tener
+En esta visión Dalinar vio las secuelas de una Desolación. Su papel fue el de un hombre llamado [[Karm\|Karm]], un consejero del rey, probablemente del mismo [[Nohadon\|Nohadon]]. Nohadon se entristeció de la gran destrucción causada por la reciente [[Desolaci%C3%B3n\|Desolación]], notando que los reinos de [[Tarma\|Tarma]] y [[Eiliz\|Eiliz]] probablemente caerían por la pérdida de población, dándose cuenta Dalinar que no había oído hablar de ninguno de los dos. El rey también dudaba qué hacer con los [[Potenciaci%C3%B3n\|potenciadores]], y cómo podía proceder para que estos actuaran de forma más honorable. Aunque el rey era más joven de lo que Dalinar imaginaba que Nohadon sería, y rechazó la idea de escribir un libro por absurda, Dalinar estaba seguro de estar en lo correcto al decir que él era Nohadon. El rey mencionó que todos sus escribas fueron asesinados después de que [[Yelig-nar\|Yelig-nar]] irrumpiera en su cancillería. Finalmente este hombre decidió unir a la gente para que pudieran resistir mejor a futuras Desolaciones.
+Dalinar iba a volver a visitar esta visión cuando el Padre Tormenta le dice que puede compartirlas con cualquiera. Intencionadamente, vuelve a visitarla para reunirse con [[Venli\|Venli]] hasta que la visión es destruida por [[Odium\|Odium]].
+
+### Desde lo alto
+Esta es la primera visión que Dalinar experimenta, aunque luego tiene problemas para recordarla. La vuelve a ver más tarde en la [[Batalla de la Torre\|Batalla de la Torre]]. En esta visión, un hombre se sitúa al lado de Dalinar, enseñándole qué podría pasar en el futuro, aunque admite que [[Cultivaci%C3%B3n\|Cultivación]] es mejor que él viendo el futuro. Entonces, finalmente, Dalinar se da cuenta de que esta voz, este hombre, en realidad nunca había sido capaz de oírlo, explicando porque nunca había contestado a sus preguntas. Este hombre le cuenta a Dalinar que él es el Todopoderoso y que [[Odium\|Odium]] lo ha matado.
+
+### Tomadora de secretos
+Para la [[Deshecho\|Deshecho]] conocida como "La Tomadora de Secretos", ver [[Sja-anat\|Sja-anat]].
+Tras la Batalla de la Torre, Dalinar tuvo una visión en la que se vio a sí mismo como un soldado, marchando con varios soldados a través de una masa de agua poco profunda que él creía que era [[Lagopuro\|Lagopuro]]. Se dirigían hacía una enorme fortaleza, la cual no se sabía que existiera en Lagopuro en tiempos modernos; y buscaban a un spren que actuara diferente. Mencionan que [[Sja-anat\|Sja-anat]] puede hacer que los spren actúen raro. Dalinar vio a un spren con los ojos rojos, seguido inmediatamente por otro gran spren que dio vida a una gran masa de piedra, que se desprendió del lecho del lago para atacarlos. Los soldados mencionan que ese monstruo era un [[Tronador\|tronador]].
+
+### Personas rotas
+Dalinar tuvo esta visión por primera vez cuando pensaba que las visiones eran simples pesadillas. Después de enviar a la Reina [[Fen Rnamdi\|Fen]] a la visión de lluvia de estrellas, Dalinar vuelve a esta. Luchó contra un grupo harapiento de soldados y tras terminar la batalla se encontró con un [[Custodio de Piedra\|Custodio de Piedra]] y lo vio usar la Potencia de la [[Cohesi%C3%B3n\|Cohesión]] antes de traer a [[Navani\|Navani]] y [[Jasnah\|Jasnah]] a la visión. El Padre Tormenta les confirma que esta es una visión de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]]. Más tarde, a petición suya, Dalinar envía a la Reina Fen a esta visión sola antes de que decidiera si visitar Urithiru. 
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Dalinar%27s_visions

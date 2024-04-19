@@ -1,67 +1,105 @@
-|**<The Well of Ascension>**|
+
+
+|**<*El Pozo de la Ascensión (libro)*[[El H%C3%A9roe de las Eras\|>]]**|
 |-|-|
-|by  Chris McGrath |
-|**Mistborn trilogy**|
-|**Follows**|*Mistborn: The Final Empire*|
-|**Precedes**|*The Hero of Ages *|
-|**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
-|**Released**|August 21, 2007|
-|**Publisher**||
+||
+|**[[Trilog%C3%ADa Nacidos de la bruma\|Trilogía Nacidos de la bruma]]**|
+|**Anterior**|*Nacidos de la bruma: El Imperio Final*|
+|**Siguiente**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras ]]*|
+|**Localización**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
+|**Fecha original**|21 de Agosto de 2007|
+|**Fecha española**|20 de Diciembre de 2022|
+|**Editorial**||
 |**ISBN**|978-0-7653-1688-2|
-|**Page Count**|590|
-|**Word Count**|[[The Well of Ascension/Statistical analysis\|244,371]]|
-|**Annotations**||
-"The Well of Ascension" redirects here. For [[Preservation\|Preservation's]] [[Perpendicularity\|Perpendicularity]], see [[Well of Ascension\|Well of Ascension]].
-*The Well of Ascension* is the second volume of the [[Mistborn trilogy\|Mistborn trilogy]] by [[Brandon Sanderson\|Brandon Sanderson]]. It is preceded by *The Final Empire* and followed by *The Hero of Ages*. The book follows the remaining members of [[Kelsier\|Kelsier's]] crew as they try to bring stability to [[Luthadel\|Luthadel]] and the rest of the [[Final Empire\|Final Empire]] in the chaos following the death of [[The Lord Ruler\|The Lord Ruler]]. Faced with armies laying siege to the city outside the walls, political factions and unrest among the newly-freed skaa within, and a new, sinister change in behaviour from the mists themselves, [[Vin\|Vin]], and the rest of the crew, along with the newly crowned King [[Elend Venture\|Elend Venture]], must find a way to protect the fledgling empire they have created.
+|**ISBN español**|9788466658904|
+|**Número de Páginas**|590|
+|**Número de Palabras**|[[El Pozo de la Ascensi%C3%B3n (libro)/An%C3%A1lisis estad%C3%ADstico\|244,371]]|
+|**Anotaciones**||
+"El Pozo de la Ascensión" redirige aquí. Para la [[Perpendicularidad\|Perpendicularidad]] de [[Conservaci%C3%B3n\|Conservación]], ver [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión (in-world)]].
+***El pozo de la ascensión*** es el segundo volumen de la [[Trilog%C3%ADa Nacidos de la bruma\|trilogía Nacidos de la bruma]] de [[Brandon Sanderson\|Brandon Sanderson]]. Está precedido por *[[El Imperio Final\|El Imperio Final]]* y seguido por *[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*. El libro sigue a los miembros restantes de la banda de Kelsier mientras intentan llevar la estabilidad a [[Luthadel\|Luthadel]] y al resto del [[Imperio Final\|Imperio Final]] en el caos que sigue a la muerte de el [[Lord Legislador\|lord Legislador]]. Enfrentados a los ejércitos que asedian la ciudad en el exterior de las murallas, a las facciones políticas y al malestar entre los skaa recién liberados en el interior, y a un nuevo y siniestro cambio en el comportamiento de las propias brumas, [[Vin\|Vin]], y el resto de la banda, junto con el recién coronado rey [[Elend Venture\|Elend Venture]], deben encontrar la forma de proteger el incipiente imperio que han creado.
 
-## Contents
+## Sumario
 
-1 Synopsis
-2 Summary
-3 Main Characters
-4 Cover Gallery
-5 Interior Art
-6 Statistical Analysis
-7 Notes
+1 Sinopsis. [[#Sinopsis]] 
+2 Resumen. [[#Resumen]] 
+3 Personajes principales. [[#Personajes principales]] 
+4 Galería de protadas. [[#Galer.C3.ADa de protadas]] 
+5 Arte interior. [[#Arte interior]] 
+6 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
+7 Notas. [[#Notas]] 
 
 
-## Synopsis
-**Evil has been defeated.**
-**The war has just begun.**
-They did the impossible, deposing the godlike being whose brutal rule had lasted a thousand years. Now Vin, the street urchin who has grown into the most powerful Mistborn in the land, and Elend Venture, the idealistic young nobleman who loves her, must build a healthy new society in the ashes of an empire.
-They have barely begun when three separate armies attack. As the siege tightens, an ancient legend seems to offer a glimmer of hope. But even if it really exists, no one knows where to find the Well of Ascension or what manner of power it bestows.
-It may just be that killing the Lord Ruler was the easy part. Surviving the aftermath of his fall is going to be the real challenge.
+## Sinopsis
+**El mal ha sido derrotado**.
+**La guerra acaba de empezar**.
+Durante mil años nada ha cambiado: han caído las cenizas, los skaa han sido esclavizados y el lord Legislador ha dominado el mundo. Pero lo imposible ha sucedido. El lord Legislador ha muerto. Sin embargo, vencer y matarlo fue la parte sencilla. El verdadero desafío será sobrevivir a las consecuencias de su caída.
+Tomar el poder tal vez resultó fácil, pero ¿qué ocurre después?, ¿cómo se utiliza? La tarea de reconstruir el mundo, ahora que Kelsier no está, ha quedado en manos de Vin. Y las brumas, desde que el lord Legislador cayó, se han vuelto cada vez más impredecibles...
+A medida que el asedio se intensifica, la antigua leyenda del Pozo de la Ascensión ofrece un único rayo de esperanza.
+En ese mundo de aventura épica, la estrategia política y religiosa debe lidiar con los siempre misteriosos poderes de la alomancia...
 
-## Summary
-For a chapter by chapter summary, see [[The Well of Ascension/Summary\|/Summary]].
-Almost a year has passed since the revolution that deposed the Lord Ruler. Elend Venture has transformed the ancient empire's capital city into a democratic kingdom over which he presides. Elend's own father, [[Straff Venture\|Straff Venture]] has brought an army from the north to take control of the city, but the arrival of another army led out of the west by [[Ashweather Cett\|Ashweather Cett]] — tricked into coming by [[Breeze\|Breeze]] forces the city into an extended seige. Elend and the crew decide to play a dangerous game, trying to incite the two armies to attack one another by convincing each that Luthadel will ally with them in the battle. The later arrival of a third, even more dangerous army of [[Koloss\|koloss]] led by Elend's once-friend [[Jastes Lekal\|Jastes Lekal]] strains the tensions in the city even farther. In addition to this, Vin and Elend find that a kandra—most likely sent by one of the armies—has killed and replaced someone within the walls, though they have no idea who it might be.
-Within the city, Elend's new Assembly is quickly getting out of hand as political factions among the nobility, merchants, and working skaa members each vie for their own solutions to the problems of the armies, in most cases, a call for surrender to Straff or Cett and a wish for things to go back to the way they were before the [[Collapse\|Collapse]]. Elend's lack of training in leadership allows the Assembly members to dismiss him, and his preoccupation with other issues forces his attention away from keeping them in line. Under the tutelage of a [[Terris\|Terriswoman]] [[Keeper\|Keeper]] named [[Tindwyl\|Tindwyl]], Elend starts to become the king his people need. However, not quite quickly enough, for the Assembly deposes him and chooses [[Ferson Penrod\|Ferson Penrod]] as king instead.
-Meanwhile, Vin struggles with trying to protect Elend from the growing threats against him and his kingdom, while facing personal issues of doubt and insecurity over who she is. The contract of [[OreSeur\|OreSeur]] has passed to her with Kelsier's death, and while she dislikes the [[Kandra\|kandra]] greatly and has him wear the body of a wolfhound instead of a human, they grudgingly learn to work together. In her nights out in the mists, she begins encountering someone whom she names "The Watcher." She later learns that he is [[Zane\|Zane]], Elend's half-brother by one of Straff's mistresses and a mistborn of great skill. Vin does not trust him or his intentions, but she is intrigued by the possibility he offers: a relationship with someone who could understand who she is in a way Elend cannot.
-Outside of Luthadel, [[Sazed\|Sazed]] travels the land, trying to teach the skaa the knowledge he has carried for a time such as this, though he is disheartened by their apathy for it. [[Marsh\|Marsh]] finds him and the two travel to the [[Conventical of Seran\|Conventical of Seran]], an abandoned Inquisitor stronghold. There, Sazed finds a large metal plaque written in ancient Terris and takes a rubbing of it to study. Concerned with the importance of this work, Sazed decides to return to Luthadel to work on the project, though on the way Marsh mysteriously disappears one night, and he begins encountering skaa who tell of the mists coming in the daytime and killing people.
-Sazed's tales of mists that kill corroborate feelings that Vin has begun having that the mists are no longer her friend. She has begun seeing a figure made from mists, whom she calls "the mist spirit," out in the night. She has also started hearing a strange, powerful thumping like an allomantic pulse that she cannot explain. Sazed and Tindwyl begin working on translating and understanding the rubbing, an ancient message from a Terrisman named [[Kwaan\|Kwaan]]. (Quotations from this message provide the epigraphs for the entire book.) The two Keepers work to cross reference the rubbing with other texts they have, attempting to understand the prophecies concerning the [[Hero of Ages\|Hero of Ages]] and the [[Well of Ascension\|Well of Ascension]]. Sazed and Vin come to the same conclusion: they believe she may be the Hero of Ages.
-Vin's conflict of interest with Zane comes to a head as he convinces her to attack the keep within the city where Cett is camped with him, a devastating act of slaughter. Vin keeps herself from killing Cett at the last moment, but with his forces hit so hard and his gambit for the throne failed, he pulls out of the city and his army retreats. Zane attempts to convince Vin to run away with him, but she decides to choose Elend over him, causing him to attack her in fury. He reveals that the enemy kandra named [[TenSoon\|TenSoon]] was his, and that he has been impersonating OreSeur from the beginning. However, over the course of his time spying on her, TenSoon has come to be loyal to Vin and betrays Zane and his contract to help her instead. Vin wins the fight, using her ability to control TenSoon with emotional allomancy and the exploitation of a weakness in [[Atium\|atium]], and manages to kill Zane. She then runs to Elend and tells him everything that has happened and the two are married by Sazed that night.
-Now convinced that she is the Hero and that it is her duty to release the power at the Well of Ascension, Vin heads north with Elend and [[Spook\|Spook]] to Terris, the historical location of the Well. However, as they get farther from Luthadel, the thumpings in Vin's head grow fainter. They are convinced to turn back, but as they do, they discover Jastes Lekal and a few of his attendants following them. Elend realizes that Jastes has left the koloss to attack Luthadel after he lost his means of controlling him. For this, Elend executes him. Now convinced that the Well is in Luthadel and that the city is about to fall, the three make for the city with all speed; Vin traveling ahead with allomancy, Spook and Elend following farther behind.
-Not long after they leave, Straff pulls his army back from the walls, allowing the koloss to take the city in a bloodrage and hoping to bring his army back to "save" Luthadel at the last moment. [[Tindwyl\|Tindwyl]], [[Dockson\|Dockson]], and [[Clubs\|Clubs]] are killed in the battle. Vin manages to make it back and figures out how to control the koloss using the same trick that she used on TenSoon; a [[Duralumin\|duralumin]]-enhanced burst of emotional allomancy. Cett returns with his army, persuaded by his daughter [[Allrianne\|Allrianne]] to come to Luthadel's aid. Straff returns with his army as well, to "liberate" the city. Vin kills Straff as soon as he arrives, and then forces his second-in-command [[Janarle\|Janarle]], King Penrod, and Cett to all swear fealty to Elend as emperor.
-When Elend returns, he and Vin find the Well of Ascension hidden underneath [[Kredik Shaw\|Kredik Shaw]]. As they go, Sazed is confronted by the mist spirit, who convinces him that something is wrong and that he needs to try to stop Vin from taking the power—though he is not sure what the problem is. He finds Marsh guarding the entrance to the Well now, and Marsh attacks him to keep him from interfering. The mist spirit then appears in the chamber with the Well and stabs Elend. Vin enters the Well, intending to use its power to heal Elend, but the voice she hears convinces her to follow the instructions of the prophecies and give the power up instead. Convinced that she is doing the right thing, she releases the power, freeing [[Ruin\|Ruin]] from his prison. Afterwards, the mist spirit gives her a bead of [[Lerasium\|lerasium]] and shows her how to use it to turn Elend into a mistborn and save his life.
-Finally, Sazed returns to the Conventical of Seran confirming his suspicions: Ruin changed the words of the prophecy and the rubbing to trick Vin into releasing him.
+## Resumen
+Para un resumen capítulo a capítulo, ver [[El Pozo de la Ascensi%C3%B3n (libro)/Resumen\|/Resumen]].
+Ha pasado casi un año desde la revolución que derrocó al lord Legislador. Elend Venture ha transformado la capital del antiguo imperio en un reino democrático que él preside. El propio padre de Elend, [[Straff Venture\|Straff Venture]], ha traído un ejército desde el norte para tomar el control de la ciudad, pero la llegada de otro ejército dirigido desde el oeste por [[Ashweather Cett\|Ashweather Cett]] -engañado por Brisa- obliga a la ciudad a un prolongado asedio. Elend y la banda deciden jugar un juego peligroso, intentando incitar a los dos ejércitos a atacarse mutuamente convenciendo a cada uno de que Luthadel se aliará con ellos en la batalla. La posterior llegada de un tercer ejército, aún más peligroso, de [[Koloss\|koloss]] dirigido por el que fuera amigo de Elend, [[Jastes Lekal\|Jastes Lekal]], tensa aún más las tensiones en la ciudad. Además, Vin y Elend descubren que un kandra -muy probablemente enviado por uno de los ejércitos- ha matado y sustituido a alguien dentro de las murallas, aunque no tienen ni idea de quién puede ser.
+Dentro de la ciudad, la nueva Asamblea de Elend se le va rápidamente de las manos, ya que las facciones políticas de la nobleza, los mercaderes y los miembros skaa trabajadores compiten cada uno por sus propias soluciones a los problemas de los ejércitos, en la mayoría de los casos, una llamada a la rendición ante Straff o Cett y un deseo de que las cosas vuelvan a ser como antes del [[Colapso\|Colapso]]. La falta de formación de Elend en materia de liderazgo permite a los miembros de la Asamblea destituirlo, y su preocupación por otros asuntos le impide mantenerlos a raya. Bajo la tutela de una [[Guardador\|guardadora]] [[Terris\|terrisana]] llamada [[Tindwyl\|Tindwyl]], Elend comienza a convertirse en el rey que su pueblo necesita. Sin embargo, no lo suficientemente rápido, pues la Asamblea lo depone y elige a [[Ferson Penrod\|Ferson Penrod]] como rey en su lugar.
+Mientras tanto, Vin lucha por intentar proteger a Elend de las crecientes amenazas contra él y su reino, a la vez que se enfrenta a problemas personales de duda e inseguridad sobre quién es ella en realidad. El contrato de [[OreSeur\|OreSeur]] ha pasado a ella con la muerte de Kelsier, y aunque le desagrada mucho el [[Kandra\|kandra]] y le hace llevar el cuerpo de un sabueso en lugar de un humano, aprenden a trabajar juntos a regañadientes. En sus noches en las brumas, empieza a encontrarse con alguien a quien llama "El Acechante". Más tarde se entera de que es [[Zane\|Zane]], hermanastro de Elend por una de las amantes de Straff y un nacido de la bruma de gran habilidad. Vin no confía en él ni en sus intenciones, pero le intriga la posibilidad que le ofrece: una relación con alguien que podría entender quién es ella de una forma que Elend no puede.
+Fuera de Luthadel, [[Sazed\|Sazed]] viaja por la tierra, intentando enseñar a los skaa los conocimientos que ha portado para una época como ésta, aunque se siente descorazonado por su apatía hacia ellos. [[Marsh\|Marsh]] lo encuentra y los dos viajan al [[Convento de Seran\|convento de Seran]], una fortaleza inquisidora abandonada. Allí, Sazed encuentra una gran placa de metal escrita en terrisano antiguo y toma un calco de ella para estudiarla. Preocupado por la importancia de este trabajo, Sazed decide regresar a Luthadel para trabajar en el proyecto, aunque en el camino Marsh desaparece misteriosamente una noche, y comienza a encontrarse con skaa que cuentan que las brumas llegan de día y matan a la gente.
+Los relatos de Sazed sobre brumas que matan corroboran la sensación que Vin ha empezado a tener de que las brumas ya no son sus amigas. Ha empezado a ver una figura hecha de ellas, a la que llama "el espíritu de la bruma", en la noche. También ha empezado a oír un extraño y potente golpeteo como un pulso alomántico que no puede explicar. Sazed y Tindwyl comienzan a trabajar en la traducción y comprensión del calco, un antiguo mensaje de un terrisano llamado [[Kwaan\|Kwaan]]. (Los fragmentos de este mensaje proporcionan los epígrafes de todo el libro.) Los dos guardadores trabajan para cruzar las referencias del calco con otros textos que tienen, intentando comprender las profecías relativas al [[Profec%C3%ADas de Terris\|Héroe de las Eras]] y al [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]]. Sazed y Vin llegan a la misma conclusión: creen que ella misma puede ser el Héroe de las Eras.
+El conflicto de intereses de Vin con Zane llega a su punto álgido cuando él la convence de atacar la Fortaleza dentro de la ciudad donde Cett permanece acampado con él, un acto de matanza devastador. Vin evita matar a Cett en el último momento, pero con sus fuerzas tan golpeadas y su gambito por el trono fracasado, se retira de la ciudad y su ejército se repliega. Zane intenta convencer a Vin de que huya con él, pero ella decide elegir a Elend antes que a él, lo que hace que la ataque con furia. Le revela que el kandra enemigo llamado [[TenSoon\|TenSoon]] era suyo, y que se ha hecho pasar por OreSeur desde el principio. Sin embargo, en el transcurso de su tiempo de espionaje, TenSoon ha llegado a ser leal a Vin y traiciona a Zane y su contrato para ayudarla. Vin gana el combate, utilizando su habilidad para controlar a TenSoon con alomancia emocional y la ventaja de una debilidad en el [[Atium\|atium]], y consigue matar a Zane. A continuación, corre a ver a Elend y le cuenta todo lo que ha sucedido y ambos se casan ese mismo día ante Sazed.
+Ahora convencida de que es la Héroe y de que es su deber liberar el poder en el Pozo de la Ascensión, Vin se dirige con Elend y [[Fantasma\|Fantasma]] al norte, a Terris, la ubicación histórica del Pozo. Sin embargo, a medida que se alejan de Luthadel, las pulsaciones en la cabeza de Vin se hacen más débiles. Se convencen de dar la vuelta, pero al hacerlo, descubren a Jastes Lekal y a algunos de sus ayudantes siguiéndoles. Elend se da cuenta de que Jastes ha abandonado a los koloss con la intención de atacar a Luthadel después de haber perdido sus medios para controlarlos. Por ello, Elend lo ejecuta. Ahora, convencidos de que el Pozo está en Luthadel y de que la ciudad está a punto de caer, los tres se dirigen a la ciudad a toda velocidad; Vin viajando por delante gracias a la alomancia, Fantasma y Elend siguiéndole más atrás.
+No mucho después de que se vayan, Straff retira su ejército de las murallas, permitiendo que los koloss tomen la ciudad en un baño de sangre y esperando traer a su ejército de vuelta para "salvar" a Luthadel en el último momento. [[Tindwyl\|Tindwyl]], [[Dockson\|Dockson]] y [[Clubs\|Clubs]] mueren en la batalla. Vin consigue volver y averigua cómo controlar a los koloss utilizando el mismo truco que usó con TenSoon; un estallido de alomancia emocional mejorado con [[Duraluminio\|duraluminio]]. Cett regresa con su ejército, persuadido por su hija [[Allrianne\|Allrianne]] para que acuda en ayuda de Luthadel. Straff regresa también con su ejército para "liberar" la ciudad. Vin mata a Straff nada más llegar y luego obliga a su segundo al mando [[Janarle\|Janarle]], al rey Penrod y a Cett a jurar lealtad a Elend como emperador.
+Cuando Elend regresa, él y Vin encuentran el Pozo de la Ascensión escondido debajo de [[Kredik Shaw\|Kredik Shaw]]. Mientras van, Sazed se enfrenta al espíritu de la bruma, que le convence de que algo va mal y de que tiene que intentar impedir que Vin se haga con el poder, aunque no está seguro de cuál es el problema. Ahora encuentra a Marsh vigilando la entrada del Pozo, y éste le ataca para que no interfiera. El espíritu de la bruma aparece entonces en la cámara del Pozo y apuñala a Elend. Vin entra en el Pozo, con la intención de utilizar su poder para curar a Elend, pero la voz que escucha la convence de seguir las instrucciones de las profecías y ceder el poder en su lugar. Convencida de que está haciendo lo correcto, libera el poder, a [[Ruina\|Ruina]], de su prisión. Después, el espíritu de la bruma le da una cuenta de [[Lerasium\|lerasium]] y le muestra cómo utilizarla para convertir a Elend en un nacido de la bruma y salvar su vida.
+Finalmente, Sazed regresa al convento de Seran confirmando sus sospechas: Ruina cambió las palabras de la profecía y el calco para engañar a Vin y que lo liberara.
 
-## Main Characters
+## Personajes principales
 
-## Cover Gallery
-For a cover gallery for The Well of Ascension, see [[The Well of Ascension/Covers\|/Covers]].
-## Interior Art
-For a gallery of the book's interior art, see [[The Well of Ascension/Interior art\|/Interior art]].
-## Statistical Analysis
-For a full statistical analysis, see [[The Well of Ascension/Statistical analysis\|/Statistical analysis]].
-*The Well of Ascension* consists of fifty-nine chapters, and one epilogue, reaching a total 244,371 word count. There are eleven different unique point-of-view characters in a total of 147 POVs.
+## Galería de protadas
+Para una galería de portadas de El Pozo de la Ascensión, ver [[El Pozo de la Ascensi%C3%B3n (libro)/Portadas\|/Portadas]].
+## Arte interior
+Para una galería del arte en el interior del libro, ver [[El Pozo de la Ascensi%C3%B3n (libro)/Arte interior\|/Arte interior]].
+## Análisis estadístico
+Para un análisis estadístico completo, ver [[El Pozo de la Ascensi%C3%B3n (libro)/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
+*El Pozo de la Ascensión* consta de cincuenta y nueve capítulos y un epílogo, alcanzando un total de 244.371 palabras. Hay once personajes diferentes con puntos de vista únicos en un total de 147 puntos de vista diferentes.
 
-|**Word Count**|244,371||
+|**Conteo de palabras**|244,371 ||
 |-|-|
-|**Page Count**|590|Tor hardback|
-|**Chapter Count**|59|Including epilogue.|
-|**PoV Characters**|11||
-|**PoV Count**|147||
+|**Conteo de páginas**|590 |Tor tapa dura|
+|**Conteo de capítulos**|59|Incluyendo el epílogo|
+|**Personajes con PdV**|11||
+|**Conteo de PdV**|147||
+
+## Notas
+
+A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] ·  · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
+|-|-|
+|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] ·  · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
+|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
+|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
+|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
+|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
+|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
+|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
 
 
 
-https://coppermind.net/wiki/The_Well_of_Ascension
+https://es.coppermind.net/wiki/The_Well_of_Ascension

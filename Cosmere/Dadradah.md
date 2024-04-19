@@ -1,23 +1,47 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Dadradah**|
 |-|-|
-|**Type**|Religion|
-|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
-|**World of Origin**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Tipo**|Religión|
+|**Era**|Scadrial clásico|
+|**Mundo de origen**|[[Scadrial\|Scadrial]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
->“* They thought art drew one closer to God, they were most interested in color and hue, and they were fond of writing poetry describing the colors they saw in the world around them.*”
-\- Sazed preaching to Clubs[1]
-
-
-**Dadradah** was an ancient religion from [[Scadrial\|Scadrial]].
-The Dadradah followers were found through many countries and peoples. They believed that there was only one God, and that practicing art was the only right way to worship or draw closer to that God, being an artist even was a higher calling than being a priest. Dadradah followers had a fascination for color and hue, and were fond of poetry that described this.
-While preparing for the [[Battle of Luthadel\|Battle of Luthadel]], Sazed proposed the Dadradah religion to [[Clubs\|Clubs]]. He thought this suitable because Clubs's woodworking was also a form of art. Sazed then gave him a simple wooden disk with the carved picture of a brush on it, which was a symbol of the Dadradah faith.
-When [[Sazed\|Sazed]] recreated Scadrial during the [[Final Ascension\|Final Ascension]] he was able to restore the plants, sky and landscape to their original state, using Dadradah poems as a guideline.
-
-## Trivia
-Dadradah was a motivation for [[Warbreaker\|Warbreaker]].
-The Dadradah and [[Astalsi\|Astalsi]] religions are "branches of a more ancient religion".
-Dadradah is influenced by [[Nalthian\|Nalthian]] ideas, but did not originate there.
+>“*Pensaban que el arte acercaba a Dios. Les interesaban el color y sus tonalidades, y les gustaba escribir poemas para describir los colores que veían en el mundo a su alrededor.*”
+\-Sazed predicando a Clubs[1]
 
 
-https://coppermind.net/wiki/Dadradah
+**Dadradah** era una antigua religión de [[Scadrial\|Scadrial]].
+Los seguidores dadradah se encontraban en muchos países y pueblos. Creían que sólo había un Dios, y que la práctica del arte era la única forma correcta de adorar o acercarse a ese Dios, y que ser artista era incluso una vocación más elevada que la de ser sacerdote. Los seguidores de esta religión tenían una fascinación por el color y el matiz, y eran aficionados a la poesía que los describía.
+Mientras se preparaba para la [[Batalla de Luthadel\|Batalla de Luthadel]], Sazed propuso la religión dadradah a [[Clubs\|Clubs]]. Le pareció adecuado porque el trabajo en madera de Clubs era también una forma de arte. Sazed le dio entonces un sencillo disco de madera con el dibujo tallado de un pincel, que era uno de los símbolos de esta fe.
+Cuando [[Sazed\|Sazed]] recreó Scadrial durante la [[Ascensi%C3%B3n Final\|Ascensión Final]] fue capaz de restaurar las plantas, el cielo y el paisaje a su estado original, utilizando los poemas dadradah como guía.
+
+## Curiosidades
+Dadradah fue una motivación para [[El aliento de los dioses\|El aliento de los dioses]].
+Las religiones dadradah y [[Astalsi\|astalsi]] son "ramas de una religión más antigua".
+Dadradah está influenciada por las ideas [[Nalthis\|nalthianas]], pero no se originó allí.
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Dadradah

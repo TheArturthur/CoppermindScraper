@@ -1,159 +1,184 @@
-|**Rhythm**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+|**Ritmo**|
 |-|-|
-|**Related to**|[[Connection\|Connection]], [[Singer\|Singers]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Relacionado con**|[[Conexi%C3%B3n\|Conexión]], [[Cantor\|cantores]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*Without the rhythms, men needed help understanding one another.*”
+>“*Sin los ritmos, los hombres necesitaban ayuda para entenderse entre sí.*”
 \-Rlain[1]
 
 
-**Rhythms** are a [[Cosmere\|cosmere]]-wide phenomenon that manifests most clearly on [[Roshar\|Roshar]]. They're a variety of beats or melodies that change in regular ways over time. They are not normally audible; [[Singer\|singers]], humans, and [[Larkin\|larkin]] are the only known species able to hear the rhythms, though others exist throughout the cosmere.
+Los **Ritmos** son un fenómeno de todo el [[Cosmere\|Cosmere]] que se manifiesta más claramente en [[Roshar\|Roshar]]. Son una variedad de tiempos o melodías que cambian de forma regular a lo largo del tiempo. Normalmente no son audibles; los [[Cantor\|cantores]], humanos y los [[Larkin\|Larkin]] son las únicas especies conocidas capaces de oír los ritmos, aunque existen otras en todo el Cosmere.
 
-## Contents
+## Sumario
 
-1 Behavior
-2 Users
+1 Comportamiento. [[#Comportamiento]] 
+2 Usuarios. [[#Usuarios]] 
 
-2.1 Singers
-2.2 Larkin
-2.3 Others
-
-
-3 Known Rhythms
-
-3.1 Normal Rhythms
-3.2 Odium's Rhythms
-3.3 The Pure Tones and Shardic Rhythms
+2. [[#Cantores]] 
+2. [[#Larkin]] 
+2. [[#Otros]] 
 
 
-4 Trivia
-5 Notes
+3 Ritmos conocidos. [[#Ritmos conocidos]] 
+
+3. [[#Ritmos normales]] 
+3. [[#Ritmos de Odium]] 
+3. [[#Los Tonos Puros y ritmos esquirlados]] 
 
 
-## Behavior
-Rhythms are ever-present, though most beings in the cosmere cannot hear them. Every rhythm changes, albeit in regular ways; a rhythm can be divided into movements, which are stable enough to measure time by. They're tied to emotions; a person capable of hearing the rhythms will naturally attune to one matching their mood, or try to start feeling in a specific way by attuning to a specific mood. Some rhythms seem to be tied to other aspects of the world, however; the Rhythm of Winds, for example, can be used to predict [[Highstorm\|highstorms]].
-It's unclear where precisely rhythms come from, or what makes them. They appear to be tied to planets, with each world having its own "songs". [[Roshar\|Roshar]] seems to have particularly strong or powerful rhythms; a [[Bronze\|bronze]] [[Allomancer\|Allomancer]] would be able to hear them there. Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world. Other rhythms may be tied to a [[Shard\|Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium\|Odium]]. Odium, at least, also seems to be able to craft or grant rhythms for a specific person.
-Hearing the rhythms is tied to the phenomenon of [[Connection\|Connection]]; whatever the precise nature of the rhythms, they can be Connected to, which is how any being is able to hear them. A creature capable of hearing the rhythms can pick up what another person's attuned to from just a few spoken words, which is something an unconnected person wouldn't be able to do, even though the rhythms can be written down as sheet music. Each rhythm carries with it an innate understanding of its meaning.
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
-## Users
- by  stinkypanda  [[Singer\|Singers]] are [[Connection\|Connected]] to each other by the rhythms
-### Singers
+
+## Comportamiento
+Los ritmos están siempre presentes, aunque la mayoría de los seres del Cosmere no pueden oírlos. Cada ritmo cambia, aunque de forma regular; un ritmo puede dividirse en movimientos, que son lo suficientemente estables como para medir el tiempo. Están ligados a las emociones; una persona capaz de escuchar los ritmos armonizará de forma natural con uno que coincida con su estado de ánimo, o intentará empezar a sentirse de una forma concreta al armonizar con un estado de ánimo específico. Sin embargo, algunos ritmos parecen estar ligados a otros aspectos del mundo; el Ritmo de los Vientos, por ejemplo, puede utilizarse para predecir [[Alta tormenta\|altas tormentas]]
+No está claro de dónde proceden precisamente los ritmos, ni qué los origina. Parece que están ligados a los planetas, y que cada mundo tiene sus propias "canciones”.[[Roshar\|Roshar]] parece tener ritmos especialmente fuertes o poderosos; un [[Alomancia\|alomántico]] de [[Bronce\|bronce]] podría oírlos allí, mientras que no pueden oírlos en [[Scadrial\|Scadrial]]. Cada Esquirla tiene su propio ritmo y, al Investir un planeta, su ritmo se vuelve parte de ese mundo. Otros ritmos pueden ligarse a una [[Esquirla\|Esquirla]]; hay varios ritmos similares a los que escuchan los cantores normalmente, pero con una sensación más agresiva y apasionada, que se consideran de [[Odium\|Odium]]. Odium, al menos, parece ser capaz de crear o conceder ritmos a una persona.
+Escuchar los ritmos está ligado al fenómeno de la [[Conexi%C3%B3n\|Conexión]]; sea cual sea la naturaleza precisa de los ritmos se puede Conectar con ellos, que es como cualquier ser es capaz de oírlos. Una criatura capaz de oír los ritmos puede captar a cuál está armonizada otra persona a partir de unas pocas palabras habladas, algo que una persona no conectada no podría hacer, aunque los ritmos puedan escribirse como partituras. Cada ritmo lleva consigo una comprensión innata de su significado.
+
+## Usuarios
+  Los <<Cantor\|cantores>> están <<Conexi%C3%B3n\|Conectados>> entre ellos por los ritmos
+### Cantores
 >“*They could feel the rhythm, hear it. All were in tune, all were in rhythm with one another. Perfection.*”
 \-Eshonai[13]
 
 
-[[Singer\|Singers]] speak to rhythms to express their feelings or to assign their words specific meaning. When not paying attention, singers will attune to the rhythm that corresponds to their mood, but they can attune to another rhythm in order to fit with their message. Not all forms can hear the rhythms equally; dullforms hear them only partially, while singers in slaveform cannot hear them at all. The rhythms Connect the singers, and the various singer songs are sung to different rhythms.
+Los [[Cantor\|cantores]] hablan con los ritmos para expresar sus sentimientos o para darle a sus palabras un significado específico. Cuando no prestan atención, los cantores armonizan con el ritmo que corresponde a su estado de ánimo, pero pueden armonizar con otro ritmo para ajustarse a su mensaje. No todas las [[Cantor\|formas]] pueden oír los ritmos por igual; la forma gris sólo los oye parcialmente, mientras que los cantores en forma de esclavo no pueden oírlos en absoluto Los ritmos conectan a los cantores, y sus distintas canciones se cantan a ritmos diferentes.
 
 ### Larkin
->“*Chiri-Chiri did not always understand the mouth noises of the soft ones. They did not click, and there was no rhythm to them. So the sounds were sometimes just noises.*”
+>“*Chiri-Chiri no siempre entendía los ruidos de las bocas de los blandos. No chasqueaban, y no tenían ritmo. Así que a veces los sonidos eran solo ruido.*”
 \-Chiri-Chiri[5]
 
 
-[[Rysn\|Rysn's]] [[Larkin\|larkin]] [[Chiri-Chiri\|Chiri-Chiri]] seems to be able to hear rhythms, including the Rhythm of Contentment, though whether larkin hear the same rhythms as the singers is unknown.
+El [[Larkin\|larkin]] de [[Rysn\|Rysn]], [[Chiri-Chiri\|Chiri-Chiri]], parece ser capaz de oír ritmos, incluido el Ritmo de la Alegría, aunque se desconoce si el larkin oye los mismos ritmos que los cantores.
 
-### Others
->“*Perhaps it was his imagination, but it seemed that sometimes [humans] responded to certain rhythms.*”
+### Otros
+>“*Quizá fuesen imaginaciones suyas, pero le daba la impresión de que a veces [los humanos] respondían a algunos de ellos.*”
 \-Rlain[1]
 
 
-Apart from singers and larkin, humans also seem to have limited capability to hear rhythms. Although [[Navani\|Navani]] was able to hear them after some measure of concentration, she was also able to sing the tone of Honor as well. Humans with singer ancestry, such as [[Unkalaki\|Unkalaki]], can occasionally catch them, albeit very faintly. A [[Feruchemy\|Feruchemical]] [[Connection\|Connection]] medallion would be able to interpret the rhythms, albeit not very accurately. [[Allomancer\|Allomancers]] capable of burning [[Bronze\|bronze]] would be able to hear them on [[Roshar\|Roshar]]; conversely, if a singer were to become a Seeker or Mistborn, they'd find bronze pulses familiar, though strange.
-There are also other species in the [[Cosmere\|cosmere]] capable of hearing the rhythms, but what they are is currently unknown.
+Aparte de los cantores y el larkin, los humanos también parecen tener una capacidad limitada para escuchar ritmos. Aunque [[Navani\|Navani]] era capaz de oírlos tras un cierto grado de concentración, también era capaz de cantar el tono de Honor. Los humanos con ascendencia cantora, como los [[Unkalaki\|Unkalaki]], pueden captarlos ocasionalmente, aunque de forma muy tenue.Un medallón [[Feruquimia\|feruquímico]] de [[Conexi%C3%B3n\|Conexión]] sería capaz de interpretar los ritmos, aunque no con mucha precisión. Los [[Alomancia\|alománticos]] capaces de quemar [[Bronce\|bronce]] serían capaces de escucharlos en [[Roshar\|Roshar]]; por el contrario, si un cantor se convirtiera en buscador o nacido de la bruma, encontraría los pulsos de bronce familiares, aunque extraños.
+También hay otras especies en el [[Cosmere\|Cosmere]] capaces de escuchar los ritmos, pero actualmente se desconoce cuáles son.
 
-## Known Rhythms
-### Normal Rhythms
-Most rhythms appear to be natural phenomena, unrelated to the [[Shard\|Shards]]. Singers hear these beats when not in [[Regal\|Regal]] Forms.
+## Ritmos conocidos
+### Ritmos normales
+La mayoría de los ritmos parecen ser fenómenos naturales, no relacionados con las [[Esquirlas\|Esquirlas]]. Los cantores escuchan estos ritmos cuando no están en formas [[Regio\|regias]].
 
 
-Rhythm of Amusement
-Rhythm of Annoyance
-Rhythm of Anticipation
-Rhythm of Anxiety
-Rhythm of Appreciation
-Rhythm of Awe - the [[Knights Radiant\|Knights Radiant]] are sung of to this rhythm
-Rhythm of Betrayal - rarely sung
-Rhythm of Confidence
-Rhythm of Confusion
-Rhythm of Consideration
-Rhythm of Consolation - used for strong apologies
-Rhythm of Curiosity - a slow rhythm
-Rhythm of Despair
-Rhythm of Determination
-Rhythm of Disappointment
-Rhythm of Excitement
-Rhythm of Fortune - has some cultural significance, as one can be said to be blessed by it if they're lucky
-Rhythm of Hope
-Rhythm of Irritation
-Rhythm of Joy
-Rhythm of Longing
-Rhythm of the Lost - soft, slow, but violent, with sharp, separated notes; used for remembering the fallen
-Rhythm of Memories - used for singing about history
-Rhythm of Mourning
-Rhythm of Pain
-Rhythm of Peace - calm, soft, soothing beats; used by [[Listener\|listeners]] to measure time. While attuning it in [[Stormform\|stormform]], Eshonai heard her own voice screaming like a [[Deadeye\|deadeye]], possibly due to her [[Nahel bond\|Nahel bond]] with [[Timbre\|Timbre]].
-Rhythm of Pleading - rarely-used
-Rhythm of Praise - used both to show appreciation of others and to express true satisfaction
-Rhythm of Reconciliation
-Rhythm of Remembrance
-Rhythm of Reprimand
-Rhythm of Resignation
-Rhythm of Resolve - a steady beat with power rising over time
-Rhythm of Skepticism
-Rhythm of Supplication
-Rhythm of Surprise
-Rhythm of Tension
-Rhythm of the Terrors - used when feeling terror, as the name implies.
-Rhythm of Victory
-Rhythm of Winds - used for predicting [[Highstorm\|highstorms]] and as an instruction to follow. Hummed to indicate respect for a highstorm occurring.
-Rhythm of Wisdom - possibly metaphorical
+Ritmo de la Diversión
+Ritmo de Malestar
+Ritmo de la Expectación
+Ritmo de la Ansiedad
+Ritmo de Apreciación
+Ritmo del Asombro - se canta a los [[Caballeros Radiantes\|Caballeros Radiantes]] a este ritmo
+Ritmo de la Traición - apenas cantado
+Ritmo de Confianza
+Ritmo de la Confusión
+Ritmo de la Consideración
+Ritmo de Consuelo - usado para grandes disculpas
+Ritmo de la Curiosidad -un ritmo lento
+Ritmo del Desespero
+Ritmo de la Determinación
+Ritmo de la Decepción
+Ritmo de la Emoción
+Ritmo de la Fortuna - tiene cierta importancia cultural, se dice que uno puede ser bendecido por él si tiene suerte
+Ritmo de la Esperanza
+Ritmo de la Irritación
+Ritmo de la Alegría
+Ritmo del Anhelo
+Ritmo de lo Perdido - suave, lento, pero violento, con notas agudas y separadas; utilizado para recordar a los caídos
+Ritmo del Recuerdo - usado para cantar sobre una historia
+Ritmo del Llanto
+Ritmo del Dolor
+Ritmo de la Paz - Ritmo de la Paz (Latidos tranquilos, suaves y relajantes; utilizados por los [[Oyente\|oyentes]] para medir el tiempo. Mientras estaba en [[Forma tormenta\|forma tormenta]], Eshonai su propia voz gritando como un [[Ojomuerto\|ojomuerto]], posiblemente debido a su [[V%C3%ADnculo Nahel\|Vínculo Nahel]] con [[Timbre\|Timbre]].
+Ritmo de la Súplica - raramente utilizado
+Ritmo de la Alabanza - se utiliza tanto para mostrar aprecio por los demás como para expresar verdadera satisfacción.
+Ritmo de la Reconciliación
+Ritmo del Recuerdo
+Ritmo de la Reprimenda
+Ritmo de la Resignación
+Ritmo de la Resolución - un ritmo constante cuya potencia crece con el tiempo
+Ritmo del Escepticismo
+Ritmo de la Súplica
+Ritmo de la Sorpresa
+Ritmo de la Tensión
+Ritmo de los Terrores - usado al sentir terror, como su nombre implica.
+Ritmo de la Victoria
+Ritmo de los Vientos - uutilizado para predecir [[Alta tormenta\|altas tormentas]] como instrucción a seguir. tarareado para mostrar respeto por una alta tormenta teniendo lugar.
+Ritmo de la Sabiduría - posiblemente metafórico
 
-### Odium's Rhythms
->“*That song! That song. It is death.*”
+### Ritmos de Odium
+>“*That song! That **song**. It is death.*”
 \-Rlain[39]
 
 
-These are the rhythms that those with [[Connection\|Connection]] to [[Odium\|Odium]], such as the [[Fused\|Fused]] and Regals, can attune to. In most cases, being able to hear the new rhythms precludes one from hearing the old ones. These Rhythms of Power sound and feel different to the more well known rhythms of similar emotions. In many cases, though, they express similar things, albeit in a more violent and hostile manner.
+Estos son los ritmos que aquellos con [[Conexi%C3%B3n\|Conexión]] con [[Odium\|Odium]], como los [[Fusionado\|Fusionados]] y Regios, pueden armonizar. En la mayoría de casos, ser capaz de escuchar los nuevos ritmos impide que uno escuche los antiguos. Estos Ritmos de Poder suenan y se sienten de forma distinta a aquellos ritmos antiguos para emociones semejantes. En muchos casos, no obstante, expresan cosas similares, pero de forma más violenta y hostil.
 
 
-Rhythm of Abashment
-Rhythm of Agony - counterpart to Anxiety
-Rhythm of Command - a more powerful version of Appreciation
-Rhythm of Conceit
-Rhythm of Craving - a more violent version of Anticipation used to indicate confusion or a question 
-Rhythm of Derision
-Rhythm of Destruction
-Rhythm of Executions - rare; expresses killing intent
-Rhythm of Exultation
-Rhythm of Fury
-Rhythm of Indifference
-Rhythm of Panic - a pained, choppy beat with unfinished measures
-Rhythm of Relief
-Rhythm of Ridicule - similar to Amusement
-Rhythm of Satisfaction
-Rhythm of Spite
-Rhythm of Subservience
-Rhythm of Thoughtfulness
-Rhythm of Tribute
-Rhythm of Withdrawal - one of the few calm Odium rhythms
-Song of Prayer - a rhythm used to draw [[Voidlight\|Voidlight]] into the [[Physical Realm\|Physical Realm]]
+Ritmo de la Vergüenza
+Ritmo de la Agonía - contraparte del Ritmo de la Ansiedad
+Ritmo del Mando- una versión parecida pero más ponderosa del Ritmo de la Apreciación
+Ritmo de la Arrogancia
+Ritmo del Ansia - una versión más violenta de Expectación  utilizada para indicar confusión o una pregunta 
+Ritmo de la Mofa
+Ritmo de la Destrucción
+Ritmo de las Ejecuciones - raro; expresa la intención de matar
+Ritmo del Júbilo
+Ritmo de la Furia
+Ritmo de la Indiferencia
+Ritmo del Pánico- un ritmo doloroso y entrecortado con compases inacabados
+Ritmo del Alivio
+Ritmo del Escarnio - similar al Ritmo de la Diversión
+Ritmo de la Satisfacción
+Ritmo del Rencor
+Ritmo de la Sumisión
+Ritmo del Razonamiento
+Ritmo del Tributo
+Ritmo de la Retirada - uno de los pocos ritmos tranquilos de Odium
+Canción de la Plegaria - un ritmo utilizado para atraer la [[Luces\|luz del vacío]] al [[Reino F%C3%ADsico\|Reino Físico]]
 
-### The Pure Tones and Shardic Rhythms
-Each of the [[Shard\|Shards]] Invested in Roshar has its own note, called a pure tone, which can be heard and sung by any [[Singer\|singer]], and even humans, if taught to do so. The [[Light\|Light]] corresponding to each of these Shards both react to and produce the corresponding pure tone, and closer hearing reveals a faint rhythm unique to each Light. A slight alteration of the pure tone combined with precise alignment of the Rhythms allows for harmonization between pairs of tone and rhythms. This harmonization is essential in creation of hybrid [[Lights\|Lights]].
+### Los Tonos Puros y ritmos esquirlados
+Cada una de las [[Esquirlas\|Esquirlas]] investidas en Roshar tiene su propia nota, llamado tono puro, que puede ser escuchado y cantado por cualquier [[Cantor\|cantor]], e incluso por los humanos, si se les enseña a hacerlo. La [[Luz\|Luz]] correspondiente a cada uno de estas Esquirlas reacciona y produce el tono puro correspondiente, y una audición más profunda revela un tenue ritmo único para cada Luz. Una ligera alteración del tono puro, combinada con una alineación precisa de los ritmos, permite la armonización entre los pares de tonos y ritmos. Esos ritmos pueden ser alterados ligeramente, permitiendo la armonización de dos de los tonos. Esta armonización es esencial en la creación de [[Luces\|Luces]] 
 
-Rhythm of [[Honor\|Honor]] – a vibrant beat, stately and controlled
-Rhythm of [[Cultivation\|Cultivation]] – stark and staccato, building up
-Rhythm of [[Odium\|Odium]] – violent, chaotic rhythm that becomes more logical over time
-Rhythm of War – a mix of Honor's and Odium's rhythms; a combination of chaotic notes and steady pulse
-Rhythm of the Tower – a mix of Honor and Cultivation's rhythms; a mix of boundless energy and structure
-A mix of Odium and Cultivation's rhythms; attuned once by [[Venli\|Venli]] but as of yet unnamed
-The pulsing which comes from the [[Well of Ascension\|Well of Ascension]] is a pure tone of [[Scadrial\|Scadrial]].
-## Trivia
-The rhythms, and the connections they afford to the singers, were based on the works of .
-Brandon based his mental image of speaking to rhythms on Hindu chants.
-Striking a chime or bell made of a [[God Metal\|God Metal]] would not necessarily produce a similar note to that God Metal's corresponding Rhythm.
-Brandon once joked that if a singer were to attune the rhythm of , they'd immediately enter [[Mateform\|mateform]].
-In her last moments as a [[Cognitive Shadow\|Cognitive Shadow]], [[Eshonai\|Eshonai]] believed that nobody could understand the Rhythms without seeing the entire continent first.
+Ritmo de [[Honor\|Honor]] – un ritmo vibrante, majestuoso y controlado
+Ritmo de [[Cultivaci%C3%B3n\|Cultivación]] – crudo y entrecortado, que va creciendo
+Ritmo de [[Odium\|Odium]] – ritmo violento y caótico que se vuelve más lógico con el tiempo
+Ritmo de la Guerra – una mezcla de los ritmos de Honor y Odium; una combinación de notas caóticas y pulso constante
+Ritmo de la Torre – una mezcla de los ritmos de Honor y Cultivación; una mezcla de energía y estructura ilimitadas
+Una mezcla de los ritmos de Odium y Cultivación: armonizado una vez por [[Venli\|Venli]] pero todavía no tiene nombre.
+La pulsación que proviene del [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] es un Tono Puro de [[Scadrial\|Scadrial]].
+## Curiosidades
+Los ritmos, y las conexiones que ofrecen a los cantores, se basaron en los trabajos de .
+Brandon basó su imagen mental de hablar a ritmos en los cantos hindúes.
+Hacer sonar una campana hecha con [[Metal divino\|Metal divino]] no necesariamente produciría una nota similar al Ritmo correspondiente de dicho Metal divino.
+Brandon bromeó una vez diciendo que si un cantor armonizara al ritmo de , entraría inmediatamente en [[Cantor\|forma carnal]].
+En sus últimos momentos como [[Sombra cognitiva\|Sombra cognitiva]], [[Eshonai\|Eshonai]] creyó que nadie podría entender los Ritmos sin haber visto antes el continente entero.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
 
 
-https://coppermind.net/wiki/Rhythm
+
+https://es.coppermind.net/wiki/Rhythm

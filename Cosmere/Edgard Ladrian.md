@@ -1,99 +1,125 @@
+
+
 |**Edgard Ladrian**|
 |-|-|
-|by  Kit Buss |
-|**House Ladrian**|
-|**Spouse**|[[Allrianne Cett\|Allrianne Cett]]|
-|**Descendants**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
-|**Abilities**|Soother|
-|**Aliases**|Breeze, Counselor of Gods|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
-|**Residence**|[[Luthadel\|Luthadel]]|
-|**Ethnicity**|[[Noble\|Noble]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Mistborn: The Final Empire*|
+||
+|**[[Casa Ladrian\|Casa Ladrian]]**|
+|**Cónyuge**|[[Allrianne Cett\|Allrianne Cett]]|
+|**Descendientes**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Capacidades**|[[/wiki/Lat%C3%B3n#Uso alom.C3.A1ntico]]|
+|**Apodos**|Brisa, Consejero de los Dioses|
+|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture|
+|**Residencia**|[[Luthadel\|Luthadel]]|
+|**Etnia**|[[Noble\|Noble]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final\|El Imperio Final]]*|
 
->“*My dear friend, the entire point of life is to find ways to get other people to do your work for you. Don't you know anything about basic economics?*”
-\-Breeze to Hammond.[1]
-
-
-**Edgard Ladrian**, better known as **Breeze**, is a member of [[Kelsier's crew\|Kelsier's crew]] on [[Scadrial\|Scadrial]]. He is a [[Brass\|brass]] [[Misting\|Misting]] (aka a [[Soother\|Soother]]).
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-
-3.1 Early Life
-3.2 Kelsier's Crew
-3.3 Elend's Crew
-3.4 The Siege of Urteau
-3.5 Post Catacendre
+>“*Mi querido amigo, el sentido de la vida es lograr que otros hagan el trabajo por ti. ¿Sabes algo de economía básica?*”
+\-Brisa a Hammond.[1]
 
 
-4 Relationships
+**Edgard Ladrian**, más conocido como **Brisa**, es un miembro de la [[Banda de Kelsier\|banda de Kelsier]] en [[Scadrial\|Scadrial]]. Es un [[Brumoso\|brumoso]] de [[Lat%C3%B3n\|latón]] (también denominado [[Aplacador\|aplacador]]).
 
-4.1 Clubs
-4.2 Ham
-4.3 Allrianne Cett
-4.4 House Ladrian
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Vida temprana]] 
+3. [[#La banda de Kelsier]] 
+3. [[#Banda de Elend]] 
+3. [[#El asedio de Urteau]] 
+3. [[#Post-Catacendro]] 
 
 
-5 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Clubs]] 
+4. [[#Ham]] 
+4. [[#Allrianne Cett]] 
+4. [[#Casa Ladrian]] 
 
 
-## Appearance and Personality
- by  Laura MacMahon 
-He is commonly described as "portly", though he has lost weight at various points. He wears extremely colorful clothes, and has black hair and a mustache. Breeze is often lazy, and delights in getting people to do things he doesn’t want to do, such as fetching him drinks. He is viewed by many as a manipulator due to his skills with Soothing, but at his core; Breeze is a kind and caring man.
+5 Notas. [[#Notas]] 
 
-## Attributes and Abilities
-He is a [[Soother\|Soother]], who subtly Soothes everyone he comes across. This leads him to be mistrusted by many people. They are reluctant to do anything for him, as they are worried he might be Soothing them. He is believed by [[Kelsier\|Kelsier]] and many of his crew to be one of the most skilled Soothers on [[Scadrial\|Scadrial]]. He helps to teach [[Vin\|Vin]] some of the more in-depth aspects of Soothing. He has a refined and intricate control over his Soothing, and is skilled at Soothing people without them noticing. He does this to Vin on a few occasions. He could influence several hundred people at once. His Soothing abilities are second nature to him, and in many cases he Soothes without being able to help it.
 
-## History
-### Early Life
-Breeze's age is never explicitly stated, but can be estimated. He claims that "[[Allrianne\|Allrianne]] is half his age" and that he has spent 30 years in the underground. This implies a birth date between 980 [[Final Empire\|FE]] (assuming he joined the underground at the age of 14) and 988 [[Final Empire\|FE]] (a literal double of Allrianne's age). As a full blooded nobleman, it is fairly safe to assume he did not join the underground before the age of 10 and that 30 years in the underground can mean no less than 26 years, even if he is rounding by decades rather than the more usual 5 years. This puts the very latest date at 988 [[Final Empire\|FE]], but it is probably more around 984 [[Final Empire\|FE]]. However, during the [[Siege of Luthadel\|Siege of Luthadel]] Vin notes that Breeze's hair is not turning gray despite him being in his mid-forties.
+## Apariencia y personalidad
+ 
+Se le suele describir como "corpulento", aunque ha perdido peso en varios momentos. Lleva ropa muy colorida, y tiene el pelo negro y bigote. Brisa suele ser perezoso, y se deleita en conseguir que la gente haga cosas que él no quiere, como traerle bebidas. Muchos le consideran un manipulador debido a sus habilidades para aplacar, pero en el fondo, Brisa es un hombre amable y cariñoso.
 
-### Kelsier's Crew
-Breeze was invited by Dockson to attend Kelsier's meeting in Camon's old lair. He and Ham arrived around the same time and met [[Vin\|Vin]]. She got angry when she realized he was Soothing her. When Kelsier explained his plan, Breeze joined his crew.
+## Atributos y habilidades
+Es un [[Aplacador\|aplacador]], que calma sutilmente a todas las personas con las que se cruza. Esto hace que mucha gente desconfíe de él. Son reacios a hacer algo por él, ya que les preocupa que les esté aplacando. [[Kelsier\|Kelsier]] y muchos de los miembros de su banda creen que es uno de los aplacadores más hábiles de [[Scadrial\|Scadrial]]. Ayuda a enseñar a [[Vin\|Vin]] algunos de los aspectos más profundos de sus habilidades. Tiene un refinado e intrincado control sobre su poder, y es hábil para aplacar a la gente sin que se dé cuenta. Se lo hace a Vin en algunas ocasiones. Puede influir en varios cientos de personas a la vez. Sus habilidades para aplacar son una segunda naturaleza para él, y en muchos casos aplaca sin poder evitarlo.
 
- by  Elisgardor 
-In the crew, Breeze was often used by Kelsier to interact with nobles, and he had several aliases among the different noble families. During the overthrow of the [[Final Empire\|Final Empire]], he operated with a team of Soothers and Rioters to recruit skaa for their army. During one of the meetings he taught Vin how to use zinc and brass. After the rebellion when Elend became king, Breeze helped him write his speeches, as he was very skilled with persuasion even without using his Soothing. At some point he left to spy on [[Ashweather Cett\|Cett]]. He began a relationship with [[Allrianne Cett\|Allrianne Cett]] while he was in the service of Lord Cett. When Cett attempted to invade [[Luthadel\|Luthadel]], he reunited with the crew. He tried to deny Allrianne because of the huge age difference between them, but was brought into close contact when she arrived begging for protection. It was later discovered that she was a [[Zinc\|Rioter]], and had been Rioting Breeze's emotions.. It is unclear how much of his affection for her is due to genuine attraction for her and how much is due to this Rioting, but she considers her conquest of Breeze one of her proudest accomplishments. Breeze often Soothed members of the crew to make them more confident, although he did not want anybody to know about this because he would lose his reputation for being uncaring.
+## Historia
+### Vida temprana
+La edad de Brisa nunca se indica explícitamente, pero puede estimarse. Afirma que "[[Allrianne\|Allrianne]] tiene la mitad de su edad"  y que ha pasado 30 años en los bajos fondos. Esto implica una fecha de nacimiento entre 980 [[Imperio Final\|IF]] (suponiendo que se unió a los bajos fondos a los 14 años) y 988 [[Imperio Final\|IF]] (el doble literal de la edad de Allrianne). Como noble de pura cepa , es bastante seguro suponer que no se unió a los bajos fondos antes de los 10 años y que 30 años en la clandestinidad no pueden significar menos de 26 años, incluso si está redondeando por décadas en lugar de los 5 años más habituales. Esto sitúa la fecha más tardía en 988 [[Imperio Final\|IF]], pero probablemente sea más bien alrededor de 984 [[Imperio Final\|IF]]. Sin embargo, durante el [[Asedio de Luthadel\|asedio de Luthadel]] Vin observa que el pelo de Brisa no está encaneciendo a pesar de que tiene más de cuarenta años.
 
- by  mushimallo 
-### Elend's Crew
-During the [[Siege of Luthadel\|Siege of Luthadel]], Breeze acted as an advisor to Elend and bolstered his confidence during public appearances, routinely helping control the mood of the crowd during them. This backfired, however, when [[Ashweather Cett\|Cett]] pointed out that Elend had soothers in the crowd following his speech at the start of the election for king. During the [[Battle of Luthadel\|Battle of Luthadel]], Breeze placed his soothers in various squads to bolster the garrison, doing the same himself until he eventually broke when Clubs was killed by a koloss in the fighting, causing him to become catatonic until Ham managed to find him and bring him to safety. He remained unresponsive for the rest of the book.
+### La banda de Kelsier
+Brisa fue invitado por Dockson a asistir a la reunión de Kelsier en la antigua guarida de Camon. Él y Ham llegaron casi al mismo tiempo y conocieron a [[Vin\|Vin]]. Ella se enfadó cuando se dio cuenta de que la estaba aplacando. Cuando Kelsier le explicó su plan, Brisa se unió a su banda.
 
-### The Siege of Urteau
-Breeze arrived in Urteau with [[Sazed\|Sazed]] and [[Allrianne\|Allrianne]] to continue the task of taking over the city from the [[Citizen\|Citizen]]. Upon arriving Breeze noticed that Spook had done a great deal on the city, and was much more confident in himself. Breeze spent his time in Urteau going to secret taverns with the crew in order to Sooth those gathered there, but also to learn as much information as possible.
-During a Noble execution, Breeze notices that he feels the urge to rise up an rebel, but he recognizes the touch on his emotions as Allrianne Rioting him and many others. Breeze tells her that 'now is not the time', but then works with her to Sooth their fears, while she Riots their sense to calm the crowds when the fires start to get our of hand.
-After the fires and while Spook is recovering from his burns wounds, Breeze spends his days making proclamations and listening to disputes. Breeze rules in Urteau, though [[Quellion\|Quellion]] is still in authority.
+ 
+En la banda de Kelsier, Brisa era utilizado a menudo para relacionarse con los nobles, y tenía varios alias entre las distintas familias nobles. Durante el derrocamiento del [[Imperio Final\|Imperio Final]], operó con un equipo de aplacadores y encendedores para reclutar skaa para su ejército. Durante una de las reuniones, enseñó a Vin a utilizar el cinc y el latón. Después de la rebelión, cuando Elend se convirtió en rey, Brisa le ayudó a escribir sus discursos, ya que era muy hábil con la persuasión, incluso sin utilizar sus habilidades. En algún momento se marchó para espiar a [[Ashweather Cett\|Cett]]. Inició una relación con [[Allrianne Cett\|su hija]] mientras estaba a su servicio. Cuando Cett intentó invadir [[Luthadel\|Luthadel]], se reunió con la banda. Intentó rechazar a Allrianne debido a la enorme diferencia de edad entre ellos, pero se vio envuelto en un estrecho conflicto cuando ella llegó suplicando protección. Más tarde se descubrió que era una [[Cinc\|encendedora]], y que había estado alterando las emociones de Brisa. No está claro cuánto de su afecto por ella se debe a una atracción genuina y cuánto se debe a este encendido, pero ella considera su conquista de Brisa uno de sus logros más orgullosos. Brisa solía aplacar a los miembros de la banda para que tuvieran más confianza, aunque no quería que nadie lo supiera porque perdería su reputación de indiferente.
 
-### Post Catacendre
-After the Catacendre, Breeze becomes the **Counselor of Gods** to the Lord Mistborn. He establishes the Ladrian House and continues his life with Allrianne.
-At some point after his death, [[VenDell\|VenDell]] took his hands, and still has them by 342 PC.
+ 
+### Banda de Elend
+Durante el [[Asedio de Luthadel\|Asedio de Luthadel]], Brisa actuó como asesor de Elend y reforzó su confianza durante las apariciones públicas, ayudando habitualmente a controlar el ánimo de la multitud durante las mismas. Sin embargo, el tiro le salió por la culata cuando [[Ashweather Cett\|Cett]] señaló que Elend tenía aplacadores entre la multitud tras su discurso al inicio de la elección para rey. Durante la [[Batalla de Luthadel\|Batalla de Luthadel]], Brisa colocó a sus aplacadores en varios escuadrones para reforzar la guarnición, haciendo él mismo lo mismo hasta que finalmente se quebró cuando Clubs fue asesinado por un koloss en la lucha, provocando que quedara catatónico hasta que Ham consiguió encontrarlo y ponerlo a salvo. Permaneció inconsciente durante el resto del libro.
 
-## Relationships
+### El asedio de Urteau
+Brisa llegó a Urteau con [[Sazed\|Sazed]] y [[Allrianne\|Allrianne]] para continuar la tarea de tomar la ciudad de manos del [[El Ciudadano\|Ciudadano]]. Al llegar, Brisa se dio cuenta de que Fantasma había hecho un gran trabajo en la ciudad, y estaba mucho más seguro de sí mismo. Brisa pasó su tiempo en Urteau yendo a tabernas secretas con la banda para aplacar a los allí reunidos, pero también para obtener toda la información posible.
+Durante una ejecución de los nobles, Brisa se da cuenta de que siente el impulso de levantarse y rebelarse, pero reconoce el toque en sus emociones por parte de Allrianne que lo está encendiendo a él y a muchos otros. Brisa le dice que "ahora no es el momento", pero luego trabaja con ella para aplacar sus miedos, mientras ella enciende sus sentidos para calmar a la multitud cuando los incendios empiezan a descontrolarse.
+Después de los incendios y mientras Fantasma se recupera de sus heridas por quemaduras, Brisa pasa sus días haciendo proclamas y escuchando disputas. Brisa gobierna en Urteau, aunque [[Quellion\|Quellion]] sigue siendo la autoridad.
+
+### Post-Catacendro
+Tras el Catacendro, Brisa se convierte en el *Consejero de los Dioses* del lord Nacido de la bruma. Establece la Casa Ladrian y continúa su vida con Allrianne.
+En algún momento después de su muerte, [[VenDell\|VenDell]] tomó sus manos, y todavía las tiene en el año 342 PC.
+
+## Relaciones
 ### Clubs
->“*Do you know what it’s like, Clubs...Being a Soother?*”
-\-Breeze to Clubs during a drinking session[24]
+>“*¿Sabes lo que significa ser un aplacador, Clubs?*”
+\-Brisa a Clubs durante una charla para beber[24]
 
 
-Clubs and Breeze have a special relationship, that originally started out strained, as Clubs did not trust Breeze due to his Soothing and manipulation skills. However, their relationship grows into a solid friendship, to the point where they end up drinking together every night. During the Battle of Luthadel, Clubs saves Breeze from death by pushing him out of the way of a Koloss' sword, which resulted in Clubs nearly being cut in-two.
+Clubs y Brisa tienen una relación especial, que al principio empezó siendo tensa, ya que Clubs no confiaba en Brisa debido a sus habilidades para aplacar y manipular.  Sin embargo, su relación se convierte en una sólida amistad, hasta el punto de que acaban bebiendo juntos todas las noches. Durante la Batalla de Luthadel, Clubs salva a Brisa de la muerte empujándolo para que no se acerque a la espada de un koloss, lo que provocó que Clubs casi se partiera en dos.
 
 ### Ham
->“*Honestly, Hammond. I think your jokes are getting worse as you age. One too many hits on the head while sparring, I suspect.*”
-\-Breeze to Hammond after his long time in Fadrex City.[11]
+>“*Sinceramente, Hammond, creo que tus chistes son cada vez peores a medida que te haces viejo. Demasiados golpes en la cabeza mientras entrenas, sospecho.*”
+\-Brisa a Hammond tras su larga estancia en Ciudad Fadrex.[11]
 
 
-Breeze has an interesting relationship with Ham. The two often spend much of their time talking and traveling to and from meetings together. While Breeze can be, at times, annoyed with Ham's warrior philosophy mentality; he enjoys the majority of their time together. They are overall, good friends and colleagues.
+Brisa tiene una relación interesante con Ham. Los dos suelen pasar gran parte de su tiempo hablando y viajando juntos hacia y desde las reuniones. Aunque Brisa puede estar, a veces, molesto con la mentalidad de filosofía de guerrero de Ham, disfruta de la mayor parte del tiempo que pasan juntos. En general, son buenos amigos y colegas.
 
 ### Allrianne Cett
-Breeze met Allrianne during his time in the Western Dominace at [[Fadrex City\|Fadrex City]] and in [[Ashweather Cett\|Ashweather Cett's]] army. Allrianne cares deeply for Breeze, and goes as far as to abandon her fathers army encampment, to seek asylum from Emperor Elend to be near Breeze. Allrianne uses her Rioting as regularly and effortlessly as Breeze uses his Soothing. So much in fact, that Breeze initially kept Allrianne at arms length because he couldn't tell whether or not she was manipulating his emotions to make him fall in love with her. Breeze feels guilty for his affection for Allrianne, and considers himself a "Dirty old man" for his relationship with her. However, he does allow himself to love her following the events of the Siege of Luthadel.
+Brisa conoció a Allrianne durante su estancia en el Dominio Occidental en [[Ciudad Fadrex\|Ciudad Fadrex]] y en el ejército de [[Ashweather Cett\|Ashweather Cett]]. Allrianne se preocupa profundamente por Brisa, y llega a abandonar el campamento del ejército de su padre, para pedir asilo al emperador Elend para estar cerca de Brisa. Allrianne utiliza su encendido de emociones con tanta regularidad y sin esfuerzo como Brisa utiliza su aplacamiento. De hecho, Brisa inicialmente mantuvo a Allrianne alejada porque no podía saber si estaba manipulando sus emociones para que se enamorara de ella. Brisa se siente culpable de su afecto por Allrianne, y se considera un "viejo verde" por su relación con ella. Sin embargo, se permite amarla tras los acontecimientos del asedio de Luthadel.
 
-### House Ladrian
-It was believed that he is a half-[[Skaa\|skaa]], but is truly a nobleman in hiding by the name of **Edgard Ladrian**. After the Final Ascension, he becomes known as the **Counselor of Gods**, and founds [[House Ladrian\|House Ladrian]]. He is the ancestor of [[Waxillium Ladrian\|Waxillium Ladrian]]. One of his hands was given to a [[VenDell\|Kandra]], and is still in use after the Catacendre.
+### Casa Ladrian
+Se creía que era un medio-[[Skaa\|skaa]], pero en realidad es un noble oculto con el nombre de **Edgard Ladrian**. Tras la Ascensión Final, pasa a ser conocido como el **Consejero de los Dioses**, y funda la [[Casa Ladrian\|Casa Ladrian]]. Es el antepasado de [[Waxillium Ladrian\|Waxillium Ladrian]]. Una de sus manos fue entregada a un [[VenDell\|kandra]], y sigue en uso después del Catacendro.
+
+## Notas
+|Antecesor  ***Cargo creado***|**Cabeza de la [[Casa Ladrian\|Casa Ladrian]]**  ? - ?|Sucesor  ***Desconocido***|
+|-|-|
+
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] ·  · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Edgard_Ladrian
+https://es.coppermind.net/wiki/Edgard_Ladrian

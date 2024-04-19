@@ -1,123 +1,161 @@
-|**<The Alloy of Law>**|
+
+
+|**[[El H%C3%A9roe de las Eras\|<]]*Aleación de ley*[[Sombras de identidad\|>]]**|
 |-|-|
-|by  Chris McGrath |
-|**Mistborn Era 2**|
-|**Follows**|*The Hero of Ages*|
-|**Precedes**|*Shadows of Self *|
-|**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
-|**Released**|November 8, 2011|
-|**Publisher**||
+||
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|**Anterior**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
+|**Siguiente**|*[[Sombras de identidad\|Sombras de identidad ]]*|
+|**Localización**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
+|**Fecha original**|8 de noviembre de 2011|
+|**Fecha española**|19 de octubre 2016|
+|**Editorial**||
+|**Editorial en español**||
 |**ISBN**|978-0-7653-3042-0|
-|**Page Count**|332|
-|**Word Count**|[[The Alloy of Law/Statistical analysis\|94,652]]|
-|**Annotations**||
+|**ISBN español**|978-8466658928|
+|**Número de Páginas**|332 , 352 |
+|**Número de Palabras**|[[Aleaci%C3%B3n de ley/An%C3%A1lisis estad%C3%ADstico\|94,652]] |
+|**Anotaciones**||
 
-*The Alloy of Law* is the fourth book set on [[Scadrial\|Scadrial]] and takes place 341 years after the events of [[The Hero of Ages\|The Hero of Ages]]. The events from the [[Mistborn trilogy\|Mistborn trilogy]] are now legend, history, and religion.
-The book follows [[Waxillium Ladrian\|Waxillium Ladrian]]—a descendant of [[Breeze\|Breeze]] and former lawman who returns from the [[Roughs\|Roughs]] to assume leadership of his house in the wake of his uncle's passing—and [[Wayne\|Wayne]], Wax's formidable partner and old friend. The two of them are [[Twinborn\|Twinborn]], each having both one [[Allomantic\|Allomantic]] and one [[Feruchemical\|Feruchemical]] power.
+***Aleación de ley*** es el cuarto libro ambientado en [[Scadrial\|Scadrial]] y tiene lugar 341 años después de los acontecimientos de [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]. Los acontecimientos de la [[Trilog%C3%ADa Nacidos de la bruma\|trilogía Nacidos de la bruma]] son ahora leyenda, historia y religión.
+El libro sigue a [[Waxillium Ladrian\|Waxillium Ladrian]] (un descendiente de [[Brisa\|Brisa]] y antiguo agente de la ley, que regresa de los Áridos para asumir el liderazgo de su casa tras el fallecimiento de su tío), y a [[Wayne\|Wayne]], formidable compañero y viejo amigo de Wax. Los dos son [[Nacidoble\|nacidobles]], con un poder [[Alom%C3%A1ntico\|alomántico]] y otro [[Feruqu%C3%ADmico\|feruquímico]].
 
-## Contents
+## Sumario
 
-1 Summary
-2 Main Characters
-3 Setting
+1 Resumen. [[#Resumen]] 
+2 Personajes principales. [[#Personajes principales]] 
+3 Entorno. [[#Entorno]] 
 
-3.1 Religions
-3.2 Notable Historical Figures
-
-
-4 Trivia
-5 Publication History
-6 Cover Gallery
-7 Interior Art
-8 Statistical Analysis
-9 Notes
+3. [[#Religiones]] 
+3. [[#Figuras hist.C3.B3ricas destacadas]] 
 
 
-## Summary
-For a chapter-by-chapter summary, see [[The Alloy of Law/Summary\|/Summary]].
-[[Waxillium Ladrian\|Waxillium Ladrian]] is a lawman of the [[Roughs\|Roughs]], the harsh outland far from civilized society where it is said honor goes to die. In the wake of his uncle's death, Wax is summoned back to [[Elendel\|Elendel]] to assume his duties as the lord of [[House Ladrian\|House Ladrian]]. Despite trying to acclimatise to the radically different lifestyle and settle down with an arranged marriage - [[Steris Harms\|Steris Harms]], daughter of [[Jackstom Harms\|Jackstom Harms]], a wealthy but stern woman is to be married to Wax to secure a future for the both of their houses - Wax realizes it's not in his nature to simply put down his guns. That's when an [[Wayne\|old friend]] shows up with a proposition.
-Wax and Wayne are old partners, close friends, and are both incredibly powerful Twinborn. With Wax's return to the city, Wayne was left in charge of Weathering, a small town out in the Roughs, appearing now on the trail of the [[Vanishers\|Vanishers]]; an infamous gang of thieves renowned for their bizarre theatrics and efficiency. Wax's desire to investigate the recent robberies itches at him.
-Putting on appearances for the public eye Wax and Steris attend the wedding reception hosted by the Yomens. They meet with Lord Harms and Steris' cousin, [[Marasi\|Marasi]].
-Wayne speaks with Wax while Steris and Lord Harms are not around - Marasi had recognised him through his waiter's disguise, having attended the previous meeting at Wax's house with her cousin and uncle where he impersonated Wax's uncle on his mother's side. They each confirm their suspicions to the link shared by the Vanishers' kidnappings, right before the ballroom is invaded by the Vanishers themselves.
-Steris is taken hostage while Wax attempts to calm Wayne. Marasi is also kidnapped but in the ensuing gun battle instigated by Wax and Wayne she is able to break free of her captors and provide assistance in the fight. Steris is kidnapped and the trio manage to overcome the staggering number of Vanishers without causing a single casualty amongst the bystanders.
-After the fight, Wax has an argument with the local Octant's constable Captain, [[Brettin\|Brettin]]. Lord Harms then begs for Wax to find Steris, and after Wax agrees, he leaves, seeming to be in shock. Wayne then steals an [[Aluminum\|aluminum]] gun from the evidence pile, giving it to Wax.
-The next day, Marasi visits the Ladrian mansion to find Wax deep in his work with metallurgy, trying to determine the exact alloy of the gun Wayne had given him. Realizing he'd been up all night, Wax shows her what else he'd been working on, pulling out a genealogical tree plotted by himself using information in his uncle's library. Marasi leads him to a startling discovery before Wayne shows up with a report on his own investigation; Wayne had infiltrated the Fourth Octant constabulary to gain knowledge of the Vanishers' hideout from the prisoners.
-[[Tillaume\|Tillaume]] - Wax's butler - brews Wax a tea and Wayne takes it for himself. Going back to make another and Wayne suddenly declares, passively, that the tea is poisoned before collapsing to the floor. Tillaume turns to face Wax, pistol in hand, but Wax gains the upper hand. While Wax is checking on Wayne, who has slightly recovered from the poison thanks to his goldmind, Marasi cries out as she notices Tillaume activating the bomb he'd brought with him.
-Wayne throws up a speed bubble just as the explosion bursts from the basket. Wax increases his weight Feruchemically and breaks through to the floor below with Marasi on top and Wayne following to land on both of them. They escape the explosion but Wayne is left badly burnt and so with little of his goldmind remaining.
-After surviving the assassination attempt, the three of them sneak out of the mansion and head for the location of the Vanishers hideout. There, they find clues to the nature of the Vanishers' operations and a strong indicator as to who's leading them. [[Miles Dagouter\|Miles Dagouter]], or Miles "Hundredlives" as he's known. Marasi's Allomantic power as a [[Pulser\|Pulser]] becomes clear and Wax attempts to console her rather bitter feelings towards her power.
-Meanwhile, Miles talks to [[Mister Suit\|Mister Suit]], the mysterious benefactor of the Vanishers. Suit berates Miles for failing at the Yomen party and for losing so many men and equipment to the point that Miles is forced to assure Suit that Wax will be dealt with.
-In the Outer Estates, Wax investigates the scene of one of the Vanishers' robberies with Wayne asking personal and what he probably thinks are important questions regarding Marasi's affection for Wax. They discuss their theories before heading back into the city via train. That is when Miles attacks Wax and almost kills him in the their fight. Using his allomantic skills Wax is able to knock Miles from the train. Needing a place to lay low for awhile, [[Ranette\|Ranette]] receives a visit that she is most unappreciative of, shoving a shotgun in Wax's face. Wayne bribes their way into her affection by giving her Wax's aluminum gun, much to Wax's dismay.
-Ranette provides Wax with a set of Hazekiller rounds and a new gun - a prototype that she names "Vindication" after the [[Vin\|Ascendant Warrior]]. Sending Wayne and Marasi on supply runs, Wax sits down to plot where the Vanishers will strike next. The Tekiel's [[Breaknaught\|Breaknaught]] seems the prime target and it is set to make it's maiden trip the following day. With a craftily planned distraction, Wax manages to slip aboard the Breaknaught and it sets off with him inside.
-The Vanishers show up as expected and Wayne and Marasi watch from afar to observe how the Vanishers pull off their robberies. The robbery involves lifting the entire car off the tracks, a canal boat and crane steal the Breaknaught, replacing the stolen car with a replica. In Miles' workshop he makes an educated guess that Wax is inside the Breaknaught. Wrenching the door off of its frame the inside of the safe is still. Miles notices the length of string tied to the back of the door from the interior of the safe, shortly before Wax, hidden inside, pulls the string tight, setting off the dynamite taped to the back of the door.
-Wax evades the Vanishers in their warehouse and comes up against Tarson. The Pewterarm knocks Vindication from his grip and the roof explodes, permitting Wayne to drop down and save Wax. Wayne confronts Tarson and Wax leaps for Vindication which is Pushed up through the roof by Mister Suit's Coinshot thug. Retrieving it, Wax has a fierce battle outside with the Coinshot and now a Lurcher. Marasi brings down the Lurcher with her rifle, but the Coinshot forces Wax and Marasi back into the warehouse. Wax rushes the Vanishers to help out Wayne before noticing Miles. Throwing himself inside the train car Miles follows and is caught in Wax's trap shortly before blowing himself up to escape. Wax is seriously injured and Wayne, in turn, is shot trying to assist Wax.
-Wax has an odd conversation with Harmony and finds the trunk Tillaume had stored his guns in. Emerging from the mists with his mistcoat on, re-armed, he shoots Miles before Miles can do anything. Wax kills the Coinshot with one of Ranette's Hazekiller rounds and goes after Miles, saving Steris and [[Nouxil\|Nouxil]] in the process before demolishing the entire building.
-Tarson appears with Marasi as a hostage and Wayne puts up a speed bubble that Wax uses to kill Tarson.
-Wayne escapes and Wax fights Miles barehanded. Miles overpowers Wax thanks to his healing ability. A little while later, it becomes apparent that it was just a delaying tactic to allow Wayne to mobilize the constabulary. Marasi has had them in a [[Cadmium\|cadmium]] bubble (slowing down time for those inside), allowing the constabulary to get there and arrest Miles.
-Back at the constabulary, Marasi is turned down by Wax and Wax receives a forbearance from Brettin. Brettin's sudden change in character surprises Wax, but he is thankful. Steris shows a little vulnerability and Wax agrees that they should go ahead with their engagement, though he feels a slight regret for Marasi.
-Marasi watches Miles' execution and Wax tracks down his uncle. Wax had suspected his uncle was still alive and playing the role of Mister Suit. [[Edwarn Ladrian\|Edwarn Ladrian]] still has possession of the kidnapped women and Wax's sister. Thinking his uncle broke, Edwarn shows Wax the broadsheet that announces Tekiel's collapse because of the robberies, explaining that they, Edwarn and his associates, bought the Tekiel's business. With no proof to incriminate his uncle, Wax grows angry. He has to restrain himself from pulling out a gun, but Wax assures his uncle that he will one day kill him.
-Back at Miles' execution, Marasi turns to leave when Hundredlives is finally dead and notices a strange figure. She follow the figure through alleyways until eventually coming face-to-face with [[Marsh\|Ironeyes]]. The former [[Inquisitor\|Inquisitor]] gives Marasi a book to give to Wax, saying that he gave it to Marasi because Wax would likely shoot him for his appearance. Ironeyes reveals that he is an agent of Harmony and that he wishes for Wax to be sufficiently informed.
-Meeting up with Wayne, Wax shows him the pocket book he swiped from his uncle, which contains appointments and notes. Wax is determined to stop his uncle.
-
->“* He would see this to the end. Roughs honor. When one of your own went bad, it was your job to see the mess cleaned up.*”
-\- Last lines of the Epilogue
+4 Curiosidades. [[#Curiosidades]] 
+5 Historia de la publicación. [[#Historia de la publicaci.C3.B3n]] 
+6 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
+7 Arte interior. [[#Arte interior]] 
+8 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
+9 Notas. [[#Notas]] 
 
 
-## Main Characters
+## Resumen
+Para un resumen capítulo a capítulo, ver [[Aleaci%C3%B3n de ley/Resumen\|/Resumen]].
+[[Waxillium Ladrian\|Waxillium Ladrian]] es un agente de la ley de los Áridos, el duro territorio exterior alejado de la sociedad civilizada donde se dice que el honor va para morir. Tras la muerte de su tío, Wax es convocado de nuevo a [[Elendel\|Elendel]] para asumir sus funciones como lord de la [[Casa Ladrian\|Casa Ladrian]]. A pesar de intentar aclimatarse al estilo de vida radicalmente diferente y asentarse con un matrimonio concertado con [[Steris Harms\|Steris Harms]] (hija de [[Jackstom Harms\|Jackstom Harms]], una mujer rica pero severa que debe casarse con él para asegurar un futuro para las casas de ambos), Wax se da cuenta de que no está en su naturaleza deponer las armas sin más. Es entonces cuando un [[Wayne\|viejo amigo]] aparece con una propuesta.
+Wax y Wayne son viejos compañeros, amigos íntimos, y ambos son unos nacidobles increíblemente poderosos. Con el retorno de Wax a la ciudad, Wayne quedó a cargo de Erosión, un pequeño pueblo en los Áridos, apareciendo ahora tras la pista de los [[Desvanecedores\|Desvanecedores]]; una infame banda de ladrones famosa por su extraña teatralidad y eficiencia. A Wax le pica el deseo de investigar los recientes robos.
+Apareciendo ante el público, Wax y Steris asisten a la celebración de la boda ofrecida por los Yomen. Se reúnen con lord Harms y la prima de Steris, [[Marasi\|Marasi]].
+Wayne habla con Wax mientras Steris y lord Harms no están presentes; Marasi le ha reconocido a pesar de su disfraz de camarero, ya que había asistido a la reunión anterior en casa de Wax con su prima y su tío, donde se hizo pasar por un tío por parte de madre de Wax. Cada uno de ellos confirma sus sospechas ante el vínculo que comparten los secuestradores de los Desvanecedores, justo antes de que el salón de baile sea invadido por dichos ladrones.
+Steris es tomada como rehén mientras Wax intenta calmar a Wayne. Marasi también es secuestrada, pero en el subsiguiente tiroteo instigado por Wax y Wayne consigue liberarse de sus captores y prestar ayuda en la lucha. Steris es secuestrada y el trío consigue superar el asombroso número de Desvanecedores sin causar una sola baja entre los presentes.
+Después de la pelea, Wax tiene una discusión con el capitán de la policía local, [[Brettin\|Brettin]]. Lord Harms le ruega entonces a Wax que encuentre a su hija, y después de que este acepte, se marcha, aparentemente en estado de shock. A continuación, Wayne roba una pistola de [[Aluminio\|aluminio]] del montón de pruebas y se la da a Wax.
+Al día siguiente, Marasi visita la mansión Ladrian para encontrar a Wax metido de lleno en su trabajo con la metalurgia, intentando determinar la aleación exacta del arma que Wayne le había dado. Al darse cuenta de que ha estado despierto toda la noche, Wax le muestra en qué más ha estado trabajando, sacando un árbol genealógico trazado por él mismo con información de la biblioteca de su tío. Marasi le lleva a un descubrimiento sorprendente antes de que Wayne aparezca con un informe sobre su propia investigación; Wayne se había infiltrado en la policía del Cuarto Octante para conocer el escondite de los Desvanecedores a través de los prisioneros.
+[[Tillaume\|Tillaume]] (el mayordomo de Wax) le prepara un té que finalmente se toma Wayne. Vuelve a preparar otro y su compañero declara repentinamente, de forma pasiva, que el té está envenenado antes de desplomarse en el suelo. Tillaume se vuelve para enfrentarse a Wax, pistola en mano, pero le gana la partida. Mientras Wax revisa a Wayne, que se ha recuperado ligeramente del veneno gracias a su menteoro, Marasi grita al notar que Tillaume activa una bomba que ha traído consigo.
+Wayne lanza una burbuja de velocidad justo cuando estalla la explosión de la cesta. Wax aumenta su peso feruquímicamente y se abre paso hasta el piso de abajo con Marasi en brazos y Wayne siguiéndolo para caer sobre ambos. Escapan de la explosión pero Wayne está muy quemado y por tanto sin apenas reservas en su menteoro.
+Tras sobrevivir al intento de asesinato, los tres se escabullen de la mansión y se dirigen a la ubicación del escondite de los Desvanecedores. Allí encuentran pistas sobre la naturaleza de sus operaciones y un fuerte indicador de quién los dirige: [[Miles Dagouter\|Miles Dagouter]], o Miles "Cienvidas" como es conocido. También se descubre el poder alomántico de Marasi como [[Pulsador\|pulsadora]], con Wax intentando reconfortarla por sus sentimientos (más bien amargos) al respecto.
+Mientras tanto, Miles habla con el Señor Conjunto, su misterioso benefactor. Le reprocha a Miles que haya fracasado en la fiesta de Yomen y que haya perdido tantos hombres y equipo, y Miles se ve obligado a asegurar a Conjunto que se ocupará de Wax.
+En las afueras, Wax investiga la escena de uno de los robos de los Desvanecedores con Wayne imponiendo preguntas personales, y lo que probablemente piensa, importantes, a Marasi sobre su afecto por Wax. Discuten sus teorías antes de regresar a la ciudad en tren. Es entonces cuando Miles ataca a Wax y casi lo mata en su lucha. Utilizando sus habilidades alománticas, Wax consigue derribar a Miles del tren. Necesitando un lugar para pasar desapercibidos durante un tiempo, [[Ranette\|Ranette]] recibe su visita (la cual no agradece) poniendo una escopeta en la cara de Wax. Wayne la soborna para conseguir su afecto dándole la pistola de aluminio de Wax, para su desgracia.
+Ranette proporciona a Wax un conjunto de cartuchos mataneblinos y un nuevo arma, un prototipo al que ha bautizado como "Vindicación" en honor a la [[Vin\|Guerrera Ascendente]]. Enviando a Wayne y a Marasi a buscar suministros, Wax se sienta a planear dónde atacarán los Desvanecedores a continuación. El [[Inexpugnable\|Inexpugnable]] de Tekiel parece el principal objetivo, que hará su viaje inaugural al dia siguiente. Con una distracción astutamente planeada, Wax consigue colarse a bordo del vagón y éste se pone en marcha con él dentro.
+Los Desvanecedores aparecen como se esperaba, con Wayne y Marasi observando desde lejos cómo llevan a cabo sus robos; levantando todo el vagón de las vías, un barco del canal y una grúa roban el Inexpugnable, sustituyendo el coche robado por una réplica. En el almacén, Miles hace una suposición de que Wax está dentro del Inexpugnable. Al arrancar la puerta de su marco, el interior de la caja fuerte está tranquilo. Miles se da cuenta de la longitud de la cuerda atada a la parte trasera de la puerta desde el interior de la caja fuerte, poco antes de que Wax, escondido dentro, tire de la cuerda y haga estallar la dinamita pegada a la parte trasera de la puerta.
+Wax evade a los Desvanecedores en su almacén y se encuentra con Tarson. El brazo de peltre le quita a Vindicación de encima y el techo explota, lo que permite a Wayne descender y salvar a Wax. Se enfrenta a Tarson y Wax salta a por Vindicación, que es empujada por el techo por el lanzamonedas de Conjunto. Al recuperarla, Wax libra una feroz batalla en el exterior con él y ahora con un atraedor. Marasi lo derriba con su rifle, pero el lanzamonedas obliga a Wax y a Marasi a volver al almacén. Wax se precipita hacia los Desvanecedores para ayudar a Wayne antes de darse cuenta de la presencia de Miles. Lanzándose al interior del vagón, le sigue y cae en la trampa de Wax poco antes de hacerse explotar para escapar. Wax resulta gravemente herido y Wayne, a su vez, recibe un disparo al intentar ayudar a su compañero.
+Wax mantiene una extraña conversación con Armonía y encuentra el baúl en el que Tillaume había guardado sus armas. Saliendo de las brumas con su gabán de brumas puesto, rearmado, dispara a Miles antes de que éste pueda hacer nada. Wax mata al Lanzamonedas con una de las balas mataneblinos de Ranette y va tras Miles, salvando a Steris y a [[Nouxil\|Nouxil]] en el proceso antes de demoler todo el edificio.
+Tarson aparece con Marasi como rehén y Wayne coloca una burbuja de velocidad que Wax utiliza para matarlo.
+Wayne escapa y Wax lucha contra Miles a mano descubierta. Miles vence a Wax gracias a su capacidad de curación. Un poco más tarde, se hace evidente que sólo era una táctica de retraso para permitir que Wayne movilizara a la policía. Marasi los ha metido en una burbuja de [[Cadmio\|cadmio]] (que ralentiza el tiempo para los que están dentro), lo que permite a la policía llegar hasta allí y detener a Miles.
+De vuelta a la policía, Marasi es rechazada por Wax y éste recibe una indulgencia de Brettin. Esto sorprende a Wax ante el repentino cambio de carácter de Brettin, pero lo agradece. Steris se muestra un poco vulnerable y Wax acepta que sigan adelante con su compromiso, aunque siente un ligero pesar por Marasi.
+Marasi asiste a la ejecución de Miles y Wax sigue la pista de su tío. Había sospechado que su tío seguía vivo y hacía el papel de Señor Conjunto. [[Edwarn Ladrian\|Edwarn Ladrian]] aún tiene en su poder a las mujeres secuestradas y a la hermana de Wax. Creyendo que su tío ha fracasado, Edwarn le muestra a Wax el periódico que anuncia la quiebra de Tekiel a causa de los robos, explicándole que ellos, Edwarn y sus socios, compraron el negocio de Tekiel. Sin pruebas que incriminen a su tío, Wax se enfada. Tiene que contenerse para no sacar una pistola, pero le asegura a su tío que un día lo matará.
+De vuelta a la ejecución de Miles, Marasi se da la vuelta para marcharse cuando Cienvidas está finalmente muerto y se fija en una figura extraña. La sigue por los callejones hasta que finalmente se encuentra con [[Marsh\|Ojos de Hierro]]. El antiguo [[Inquisidor\|inquisidor]] le da a Marasi un libro para que se lo entregue a Wax, diciendo que se lo da a ella porque Wax probablemente le dispararía por su aspecto. Ojos de Hierro revela que es un agente de Armonía y que desea que Wax esté suficientemente informado.
+Al reunirse con Wayne, Wax le muestra la libreta que le robó a su tío y que contiene citas y notas. Wax está decidido a detener a su tío.
+
+>“*Se encargaría de poner fin a este asunto. El honor de los Áridos. Cuando uno de los tuyos lo hace mal, tu trabajo es limpiar el desorden.*”
+\-Últimas líneas del epílogo
 
 
-
+## Personajes principales
 
 
 
 
 
 
-## Setting
-Scadrial has developed significantly since the [[Catacendre\|Catacendre]]; some of those changes are detailed below.
-
-### Religions
-
-The earring acts as a [[Hemalurgic\|Hemalurgic]] spike, allowing Harmony to communicate with Wax on several occasions. He received it from [[MeLaan\|MeLaan]], a [[Kandra\|kandra]] whose species now serves Harmony as his agents. In this era, they are known to the world as Faceless Immortals.
 
 
 
+## Entorno
+Scadrial ha evolucionado significativamente desde el [[Catacendro\|Catacendro]]; algunos de esos cambios se detallan a continuación.
 
->“* Why had Trell made men like him, if not to see wrongs righted?*”
-\- Miles, The Alloy of Law
-
-
-
-### Notable Historical Figures
-For more information, see [[Preservers\|Preservers]].
+### Religiones
 
 
 
 
 
+>“*¿Para qué había creado Trell a hombres como él, sino para enmendar errores?*”
+\-Miles, Aleación de ley
 
-## Trivia
-*The Alloy of Law* was initially conceived as one of several short stories that Brandon wanted to set between the first and second main *Mistborn* trilogies. These stories eventually grew into a full-length series of their own. For more about the series, see [[Mistborn Era 2\|Mistborn Era 2]].
-## Publication History
-Fall 2011 from Tor Books
-Traditional Chinese rights to Fantasy Foundation
-French rights to Orbit France
-German rights to Heyne
-UK rights to Gollancz
-## Cover Gallery
-For a cover gallery for The Alloy of Law, see [[The Alloy of Law/Covers\|/Covers]].
-## Interior Art
-For a gallery of the book's interior art, see [[The Alloy of Law/Interior art\|/Interior art]].
-## Statistical Analysis
-For a full statistical analysis, see [[The Alloy of Law/Statistical analysis\|/Statistical analysis]].
-*The Alloy of Law* consists of twenty chapters, one prologue, and one epilogue, reaching a total 94,652 word count. There are four different unique point-of-view characters in a total of 36 POVs.
 
-|**Word Count**|94,652||
+
+### Figuras históricas destacadas
+Para más información, ver [[Preservadores\|Preservadores]].
+
+
+
+
+
+
+## Curiosidades
+*Aleación de ley* se concibió inicialmente como una de las varias historias cortas que Brandon quería situar entre la primera y la segunda trilogías principales de *Nacidos de la bruma*. Con el tiempo se convirtió en una novela completa. Para más sobre la saga, ver [[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]].
+## Historia de la publicación
+Otoño de 2011 de Tor Books
+Derechos en chino a Fantasy Foundation
+Derechos en francés para Orbit France
+Derechos en alemán para Heyne
+Derechos en el Reino Unido para Gollancz
+## Galería de portadas
+Para una galería de portadas de *Aleación de ley*, ver [[Aleaci%C3%B3n de ley/Portadas\|/Portadas]].
+## Arte interior
+Para una galería con el arte interior del libro, ver [[Aleaci%C3%B3n de ley/Arte interior\|/Arte interior]].
+## Análisis estadístico
+Para un análisis estadístico completo, ver [[Aleaci%C3%B3n de ley/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
+*Aleación de ley* consta de veinte capítulos, un prólogo y un epílogo, alcanzando un total de 94.652 palabras en inglés. Hay cuatro personajes diferentes con punto de vista único en un total de 36 PdV en todo el libro.
+
+|**Conteo de palabras**|94,652 ||
 |-|-|
-|**Page Count**|332|Tor hardback|
-|**Chapter Count**|22|Including prologue and epilogue.|
-|**PoV Characters**|4||
-|**PoV Count**|36||
+|**Conteo de páginas**|332 , 352 |Tor tapa dura , NOVA |
+|**Conteo de capítulos**|22|Incluyendo el prólogo y el epílogo|
+|**Personajes con punto de vista**|4||
+|**Conteo de puntos de vista**|36||
+
+## Notas
+
+A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**| · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
+|-|-|
+|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:**  · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
+|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
+|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
+|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
+|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
+|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
+|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
 
 
 
-https://coppermind.net/wiki/The_Alloy_of_Law
+https://es.coppermind.net/wiki/The_Alloy_of_Law

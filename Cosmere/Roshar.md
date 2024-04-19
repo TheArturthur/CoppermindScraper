@@ -1,295 +1,299 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Roshar**|
 |-|-|
-|by  Isaac Stewart |
-|**Shards**|[[Honor\|Honor]], [[Cultivation\|Cultivation]], [[Odium\|Odium]]|
-|**Perpendicularities**|[[Honor's Perpendicularity\|Honor's Perpendicularity]], [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]|
-|**Investitures**|[[Surgebinding\|Surgebinding]], [[Old Magic\|Old Magic]], [[Voidbinding\|Voidbinding]]|
-|**System**|[[Rosharan system\|Rosharan system]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]], [[Cultivaci%C3%B3n\|Cultivación]], [[Odium\|Odium]]|
+|**[[Perpendicularidad\|Perpendicularidades]]**|[[Perpendicularidad de Honor\|Perpendicularidad de Honor]], [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]]|
+|**[[Investidura\|Investiduras]]**|[[Potenciaci%C3%B3n\|Potenciación]], [[Antigua Magia\|Antigua Magia]], [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]]|
+|**Sistema**|[[Sistema roshariano\|Sistema roshariano]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-This page or section needs to be updated with new information for *Rhythm of War* and *The Sunlit Man*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*It is difficult not to feel very small, at times, on this domineering, majestic tempest of a planet.*”
 \-Khriss[3]
 
 
-**Roshar** is a planet in the [[Cosmere\|cosmere]] and one of thirteen planets in the [[Rosharan system\|Rosharan system]]. It is also the name of the supercontinent that contains all of the planet's known inhabitants. It is the second planet from the system's sun, orbiting between [[Ashyn\|Ashyn]] and [[Braize\|Braize]], and it has three moons. People from Roshar are called Rosharans. The planet is particularly notable due to the activity of several [[Shard\|Shards]] of [[Adonalsium\|Adonalsium]] in the area and the various forms of magic used by its residents, including [[Surgebinding\|Surgebinding]] through the use of [[Stormlight\|Stormlight]].
+**Roshar** es un planeta del [[Cosmere\|Cosmere]] y uno de los trece planetas en el [[Sistema roshariano\|Sistema roshariano]]. También es el nombre del supercontinente en el que se encuentran todos los habitantes conocidos del planeta. Es el segundo planeta más cercano al sol de su sistema, estando su órbita entre [[Ashyn\|Ashyn]] y [[Braize\|Braize]], y cuenta con tres lunas. Los habitantes de Roshar se llaman rosharianos. El planeta es particularmente notorio debido a la actividad de varias [[Esquirla\|Esquirlas]] de [[Adonalsium\|Adonalsium]] en el área, así como a las diversas formas de magia empleadas por sus residentes, incluyendo la [[Potenciaci%C3%B3n\|Potenciación]] mediante el uso de [[Luz tormentosa\|luz tormentosa]].
 
-## Contents
+## Sumario
 
-1 Geography and Ecology
+1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
 
-1.1 Climate
-1.2 Spren
-1.3 Ecology
+1. [[#Clima]] 
+1. [[#Spren]] 
+1. [[#Ecolog.C3.ADa]] 
 
-1.3.1 Flora
-1.3.2 Fauna
-
-
-
-
-2 History
-
-2.1 Pre-Desolation Roshar
-
-2.1.1 Creation and Early Inhabitants
-2.1.2 The Expulsion and Early Interactions
-
-
-2.2 The Heraldic Epochs
-
-2.2.1 The Desolations
-2.2.2 The Last Legion
-2.2.3 The Last Desolation
-
-
-2.3 The Era of Solitude
-
-2.3.1 The False Desolation
-2.3.2 The Recreance
-2.3.3 The Scouring of Aimia
-2.3.4 The Hierocracy and the War of Loss
-2.3.5 Reunification of Alethkar
-2.3.6 Singer-Human Relations
-
-2.3.6.1 Assassination of Gavilar Kholin
-
-
-2.3.7 The Eighties War
-2.3.8 The War of Reckoning
-
-
-2.4 The True Desolation
-
-2.4.1 Battle of Thaylen Field
-2.4.2 Expedition to Aimia
-2.4.3 Singer Occupation of Urithiru
-2.4.4 Expedition to Emul and Ascension of Taravangian
-2.4.5 Contest of Champions
-2.4.6 Post-Contest
+1. [[#Flora]] 
+1. [[#Fauna]] 
 
 
 
 
-3 Culture and Society
+2 Historia. [[#Historia]] 
 
-3.1 Nations
-3.2 Calendar
-3.3 Currency
-3.4 Food and Drink
+2. [[#Roshar previa a la Desolaci.C3.B3n]] 
 
-3.4.1 Wines
-3.4.2 Other Beverages
-3.4.3 Drinking Culture
+2. [[#Creaci.C3.B3n y primeros habitantes]] 
+2. [[#La expulsi.C3.B3n y primeras interacciones]] 
 
 
-3.5 Languages
+2. [[#Las .C3.89pocas Her.C3.A1ldicas]] 
 
-3.5.1 Writing
-
-
-3.6 Singer Society
-3.7 Spren Society
-3.8 Secret Organizations
-3.9 Prejudices
+2. [[#Las Desolaciones]] 
+2. [[#La .C3.9Altima Legi.C3.B3n]] 
+2. [[#La .C3.9Altima Desolaci.C3.B3n]] 
 
 
-4 Planetary System
-5 Trivia
-6 Notes
+2. [[#La Era de la Soledad]] 
+
+2. [[#La Falsa Desolaci.C3.B3n]] 
+2. [[#La Traici.C3.B3n]] 
+2. [[#La destrucci.C3.B3n de Aimia]] 
+2. [[#La Hierocracia y la Guerra de la P.C3.A9rdida]] 
+2. [[#Reunificaci.C3.B3n de Alezkar]] 
+2. [[#Relaciones cantor-humano]] 
+
+2. [[#Asesinato de Gavilar Kholin]] 
 
 
-## Geography and Ecology
- by  Isaac Stewart  Map of Roshar
-At one point in Roshar's past there were no large landmasses. The supercontinent was designed by [[Adonalsium\|Adonalsium]], following the shape of a Julia set (a mathematical formula that gives a geometrical pattern when given a seed number). It is the only continent on the planet, though not necessarily the only landmass.
-Gravitational acceleration on Roshar is notably lower than usual, at 6.86 m/s, or 70% of the cosmere standard. Though it is still in common ranges. This is due, in part, to the planet's small size; Roshar has a circumference of approximately 22110 miles (35583 km), giving a radius of 3519 miles (5663 km), and comes in just under 90% of the cosmere standard size. These yield a planetary mass of 3.296×10 kilograms. The main continent lies primarily in the southern hemisphere, spanning from just a few degrees north of the equator to about 55° south of the equator, and extends approximately 120° longitude. It covers roughly 4×10 square kilometers.
-Due to having no obliquity, the path and height of the sun is consistent in relation to latitude and longitude, thus one can easily geolocate oneself by the path of the sun.
-The partial pressure of oxygen in the atmosphere of Roshar is higher than standard cosmere. There are no oil deposits from mass extinction events on Roshar.
-The rainwater in highstorms is laced with a sort of slurry called [[Crem\|crem]]. When crem dries, it hardens into rock. Since the highstorms always sweep from east to west, crem builds up on the eastern side of anything that stays still and isn't regularly cleaned. Over time, the continent is very slowly shifting across the planet as the highstorms cause erosion of the western part and a build up on the eastern part. This rainwater is full of nutrients, and plants given it fare better than those given water from other sources, such as lake or river water. Various cremlings search out and eat plants as they lap up the stormwater.
+2. [[#La guerra de los ochenta]] 
+2. [[#La Guerra de la Venganza]] 
 
-### Climate
-With the exception of [[Shinovar\|Shinovar]] and the occasional well-sheltered [[Lait\|lait]], all of Roshar is frequently ravaged by powerful [[Highstorm\|highstorms]], massive hurricanes travelling from east to west. These storms come frequently and, though they do not appear to follow a simple pattern, [[Stormwarden\|stormwardens]] are able to accurately predict their schedule through complex mathematics. As a result, Shinovar is the only place on Roshar that has soil. A highstorm consists of a high altitude, wide-spread , scraping the top of Roshar's troposphere; they can be -like storms bringing heavy rain and strong winds.
-The one consistent aspect of the Rosharan climate is the [[Weeping\|Weeping]]. The Weeping occurs every five hundred days and consists of four weeks of steady crem-free rain. The middle day of those four weeks is known as the Lightday and alternates between being one clear day in the midst of the rain and being a high storm. There are typically fewer highstorms in the weeks leading up to the Weeping. The seasons following the weeping typically have weaker storms, making them good for farming. Due to having zero obliquity, Roshar does not experience true seasons, with them instead simply being defined by current temperature, climate, and storms, unrelated to irradiance. These seasons are relatively random, and are often quite short, usually lasting only a few weeks. They can be roughly predicted by stormwardens. Seasons are primarily defined by changes in the storms. Due to not being caused by axial tilt, they can vary greatly even between relatively nearby nations on the same hemisphere.
+
+2. [[#La Aut.C3.A9ntica Desolaci.C3.B3n]] 
+
+2. [[#Batalla de la Explanada Thayle.C3.B1a]] 
+2. [[#Expedici.C3.B3n a Aimia]] 
+2. [[#Ocupaci.C3.B3n cantora de Urithiru]] 
+2. [[#Expedici.C3.B3n a Emul y Ascensi.C3.B3n de Taravangian]] 
+2. [[#Concurso de Campeones]] 
+2. [[#Post-concurso]] 
+
+
+
+
+3 Cultura y sociedad. [[#Cultura y sociedad]] 
+
+3. [[#Naciones]] 
+3. [[#Calendario]] 
+3. [[#Moneda]] 
+3. [[#Comida y bebida]] 
+
+3. [[#Vinos]] 
+3. [[#Otras bebidas]] 
+3. [[#Cultura de la bebida]] 
+
+
+3. [[#Idiomas]] 
+
+3. [[#Escritura]] 
+
+
+3. [[#Sociedad cantora]] 
+3. [[#Sociedad spren]] 
+3. [[#Organizaciones secretas]] 
+3. [[#Prejuicios]] 
+
+
+4 Sistema planetario. [[#Sistema planetario]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas del traductor. [[#Notas del traductor]] 
+7 Notas. [[#Notas]] 
+
+
+## Geografía y ecología
+  Mapa de Roshar
+En un momento del pasado de Roshar no había grandes masas de tierra. El supercontinente fue diseñado por [[Adonalsium\|Adonalsium]], siguiendo la forma de un conjunto de Julia (una fórmula matemática que da un patrón geométrico cuando se le da un número complejo). Es el único continente del planeta, aunque no necesariamente la única masa de tierra.
+La aceleración gravitatoria en Roshar es notablemente inferior a la habitual, con 6,86 m/s, o el 70% del estándar del Cosmere. Aunque todavía está en rangos comunes. Esto se debe, en parte, al pequeño tamaño del planeta; Roshar tiene una circunferencia de aproximadamente 35583 km, lo que da un radio de 5663 km, y se sitúa justo por debajo del 90% del tamaño estándar del Cosmere. Esto da como resultado una masa planetaria de 3.296×10 kilogramos. El continente principal se encuentra principalmente en el hemisferio sur, abarcando desde unos pocos grados al norte del ecuador hasta unos 55° al sur del mismo, y se extiende aproximadamente 120° de longitud. Tiene una superficie de unos 4×10 kilómetros cuadrados.
+Al no tener oblicuidad, la trayectoria y la altura del sol son coherentes en relación con la latitud y la longitud, por lo que uno puede geolocalizarse fácilmente por la trayectoria del sol.
+El presión parcial de oxígeno en la atmósfera de Roshar es mayor que en el Cosmere estándar. No hay yacimientos petrolíferos provenientes de extinciones masivas en Roshar.
+En las altas tormentas, el agua de lluvia está impregnada de una especie de lodo llamado [[Crem\|crem]]. Cuando el crem se seca, se convierte en roca. Como las altas tormentas siempre barren de este a oeste, el crem se acumula en el lado oriental de todo lo que se queda sin moverse y no se limpia regularmente. Con el tiempo, el continente se desplaza muy lentamente por el planeta, ya que las altas tormentas provocan la erosión de la parte oriental y la acumulación en la parte occidental. Esta agua de lluvia está repleta de nutrientes, y las plantas que la reciben se benefician más que las que reciben agua de otras fuentes, como el agua de un lago o de un río. Varios cremlinos buscan y comen plantas mientras se alimentan del agua de lluvia.
+
+### Clima
+Con la excepción de [[Shinovar\|Shinovar]] y algún [[Lait\|lait]] bien protegido, todo Roshar es frecuentemente asolado por [[Alta tormenta\|altas tormentas]], enormes huracanes que viajan de este a oeste. Estas tormentas llegan con frecuencia y, aunque no parecen seguir un patrón simple, los [[Predicetormentas\|predicetormentas]] son capaces de predecir con exactitud su calendario mediante complejas matemáticas. Como resultado, Shinovar es el único lugar de Roshar que tiene tierra. Una alta tormenta consiste en una nube  de gran altitud y dispersión, que roza la parte superior de la troposfera de Roshar; pueden ser tormentas parecidas a un  que traen lluvias torrenciales y fuertes vientos.
+El único aspecto constante del clima roshariano es el [[Llanto\|Llanto]]. El Llanto se produce cada quinientos días y consiste en cuatro semanas de lluvias constantes sin crem. El día central de esas cuatro semanas se conoce como el Día Claro y alterna entre ser un día despejado en medio de la lluvia y ser una alta tormenta. Normalmente hay menos altas tormentas en las semanas que preceden al Llanto.  Las estaciones que siguen al Llanto suelen tener tormentas más débiles, lo que las hace buenas para la agricultura. Debido a su oblicuidad cero, Roshar no experimenta verdaderas estaciones, sino que éstas se definen simplemente por la temperatura actual, el clima y las tormentas, sin relación con la irradiancia. Estas estaciones son relativamente aleatorias, y a menudo bastante cortas, durando normalmente sólo unas pocas semanas. Las predicetormentas pueden preverlas a grandes rasgos. Las estaciones se definen principalmente por los cambios en las tormentas. Al no estar causadas por la inclinación axial, pueden variar mucho incluso entre naciones relativamente cercanas en el mismo hemisferio.
 
 ### Spren
- by  Sheep  An [[Honorspren\|honorspren]] in the Physical Realm.
-For more information about spren, see [[Spren\|Spren]].
-Among many factors that make Roshar unique among other [[Cosmere\|cosmere]] worlds is the overabundance of [[Spren\|spren]]. Spren are small pieces of [[Investiture\|Investiture]] that have acquired sentience - and, in some cases, sapience - through the influence of Roshar's living creatures. They are a mix of different [[Shard\|Shardic]] Investiture, mainly [[Honor\|Honor]] and [[Cultivation\|Cultivation]], and exist mostly in the [[Cognitive Realm\|Cognitive Realm]]. However, they can and will often become partially visible in the [[Physical Realm\|Physical Realm]], and some transition there entirely.
-Three main groups of spren can be recognized. The nature spren correspond to various natural phenomena, such as windspren or flamespren, which appear in the presence of wind and fire respectively. Emotion spren are attracted to emotions, such as fearspren appearing when one is afraid or gloryspren for people who feel intense pride. However, a natural phenomenon or an emotion will not necessarily summon a spren, as they may not be present in the physical place's Cognitive equivalent.
-The third group of spren are so-called true spren. Those spren are all sentient, and have an organized society in the Cognitive Realm. They transition to the Physical Realm only when searching for a prospective [[Knight Radiant\|Knight Radiant]] to bond, as the shift robs them of most of their higher functions, which they reclaim through forming a [[Nahel bond\|Nahel bond]]. The Radiant spren seem to represent higher concepts, such as honor for the [[Honorspren\|honorspren]] or truth and lies for [[Cryptic\|Cryptics]]. This being said, only some true spren are Radiant spren.
-In addition to those, there is a number of unique spren who are far more powerful than others. Among those is the [[Nightwatcher\|Nightwatcher]], who can grant boons and curses; the [[Stormfather\|Stormfather]], who controls the [[Highstorm\|highstorms]]; the [[Sibling\|Sibling]], who controls the tower-city of [[Urithiru\|Urithiru]]; and [[Cusicesh\|Cusicesh]], whose exact nature is currently unclear.
+  Una <<Honorspren\|honorspren>> en el Reino Físico.
+Para más información sobre los spren, ver [[Spren\|Spren]].
+Uno de los muchos factores que hacen que Roshar sea único entre los demás mundos del [[Cosmere\|Cosmere]] es la sobreabundancia de [[Spren\|spren]]. Los spren son pequeñas piezas de [[Investidura\|Investidura]] que han adquirido sensibilidad (y, en algunos casos, sapiencia) a través de la influencia de las criaturas vivas de Roshar. Son una mezcla de Investiduras de varias [[Esquirla\|Esquirlas]], principalmente de [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]], y existen sobre todo en el [[Reino Cognitivo\|Reino Cognitivo]]. Sin embargo, pueden y suelen hacerse parcialmente visibles en el [[Reino F%C3%ADsico\|Reino Físico]], y algunos pasan a él por completo.
+Se pueden reconocer tres grupos principales de spren. Los spren de la naturaleza corresponden a diversos fenómenos naturales, como los [[/wiki/Spren#vientospren]] o los [[/wiki/Spren#llamaspren]], que aparecen en presencia del viento y del fuego, respectivamente. Los spren de emoción son atraídos por las emociones, como los [[/wiki/Spren#miedospren]] que aparecen cuando uno tiene miedo o los [[/wiki/Spren#glorispren]] para las personas que sienten un intenso orgullo. Sin embargo, un fenómeno natural o una emoción no convocarán necesariamente a un spren, ya que pueden no estar presentes en el equivalente cognitivo del lugar físico.
+El tercer grupo de spren abarca a los llamados spren verdaderos. Todos estos spren son conscientes y tienen una sociedad organizada en el Reino Cognitivo. Sólo pasan al Reino Físico cuando buscan un posible [[Caballero Radiante\|Caballero Radiante]] con el que vincularse, ya que el cambio les priva de la mayoría de sus funciones superiores, que recuperan al formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]]. Los spren Radiantes parecen representar conceptos superiores, como el honor para los [[Honorspren\|honorspren]] o la verdad y la mentira para los [[Cr%C3%ADptico\|crípticos]]. Dicho esto, sólo algunos spren verdaderos son spren Radiantes.
+Además de éstos, hay una serie de spren únicos que son mucho más poderosos que otros. Entre ellos se encuentra la [[Vigilante Nocturna\|Vigilante Nocturna]], que puede conceder bendiciones y maldiciones; el [[Padre Tormenta\|Padre Tormenta]], que controla las [[Alta tormenta\|altas tormentas]]; el [[Hermano\|Hermano]], que controla la ciudad-torre de [[Urithiru\|Urithiru]]; y [[Cusicesh\|Cusicesh]], cuya naturaleza exacta no está clara actualmente.
 
-### Ecology
-For a list of Rosharan flora and fauna, see :Category:Rosharan lifeforms.
-The shape and form of Rosharan ecology is influenced by four major factors: lower gravity, higher oxygen content, highstorms, and spren. The higher oxygen content and the lower gravity permit the existence of megafauna comparable only to the largest [[Sandling\|sandlings]] on [[Taldain\|Taldain]], while several species of animals are capable of forming spren bonds, further augmenting their capabilities. However, the most visually notable feature of Rosharan ecology is the way vast majority of them adapted to highstorms. Multiple species of both flora and fauna have developed shells to protect themselves from extreme weather, withdrawing into them whenever any danger approaches.
-Several species are noted as having body parts made of stone, such as the bark of [[Dalewillow\|dalewillow]] or hooves of [[Ryshadium\|Ryshadiums]]. As stone doesn't grow naturally, three possibilities must be considered:
+### Ecología
+Para una lista de la flora y fauna de Roshar, ver :Categoría:Formas de vida de Roshar.
+La forma de la ecología de este planeta está influida por cuatro factores principales: menor gravedad, mayor contenido de oxígeno, altas tormentas y spren. El mayor contenido de oxígeno y la menor gravedad permiten la existencia de una megafauna sólo comparable a la de los [[Cavadizo\|cavadizos]] más grandes de [[Taldain\|Taldain]], mientras que varias especies de animales son capaces de formar lazos con spren, lo que aumenta aún más sus capacidades. Sin embargo, la característica más notable a nivel visual de la ecología roshariana es la forma en que la gran mayoría de ellos se ha adaptado a las altas tormentas. Múltiples especies, tanto de flora como de fauna, han desarrollado caparazones para protegerse del clima extremo, replegándose en ellos cada vez que se acerca algún peligro.
+Se ha observado que varias especies tienen partes del cuerpo hechas de piedra, como la corteza del [[Daliasauce\|daliasauce]] o las pezuñas de los [[Ryshadio\|ryshadios]]. Como la piedra no crece de forma natural, hay que considerar tres posibilidades:
 
-The substance is actually stone, somehow either grown or gathered by the creatures,
-The substance is organic, but highly similar in appearance to stone,
-The substance is hardened crem, deliberately cultivated by those creatures.
+La sustancia es en realidad piedra, de alguna manera cultivada o recogida por las criaturas.
+La sustancia es orgánica, pero muy similar en apariencia a la piedra.
+La sustancia es crem endurecido, cultivado deliberadamente por esas criaturas.
 #### Flora
-Rosharan flora had to adapt to several conditions not found on Earth or Earth-like worlds, such as the severe weather and scarcity of soil.
+La flora de Roshar tuvo que adaptarse a varias condiciones que no se dan en la Tierra o en mundos similares, como el clima severo y la escasez de tierra.
 
- by  Ben McSweeney  In highstorm-heavy regions, laits like this are the oases of plant life.
-The largest family of plants on Roshar are the [[Rockbud\|rockbuds]]. They are characterized by having a thick outer shell from which they take their name, and tendrils, which retract into the shell upon detecting danger. The Rosharan grass, which acts in this way, is likely another subspecies of rockbud, albeit close enough in appearance to Shin grass to retain the name. Similar mechanism has been developed by [[Vinebud\|vinebuds]], which grow from a sturdy, yet elastic stem and, rather than spreading their tendrils along the ground, waft them in the air, akin to anemones. [[Rocklily\|Rocklily]] leaves are an essential component of the diet of chull larvae.
-Further to the east, where the highstorms are the strongest, even such measures are not enough. There, plants grow mostly in sheltered areas, such as the [[Shattered Plains\|chasms]] and [[Lait\|laits]], while remaining sparse in the open air. More fragile flora, such as vines and weeds, grow and flourish in such terrain, though some, like [[Knobweed\|knobweed]], seem to prefer flatlands, utilizing highstorms deliberately to spread.
-Contrarily, in the west where highstorms are weakened by the mountain ranges, plants are much less sensitive to stimulation and retract their leaves more slowly.
-Roshar does have larger flora. Some trees, including the aforementioned [[Dalewillow\|dalewillow]], have trunks made of stone while others, such as the [[Jella\|jella]], augment their wooden bark by accumulating crem. Like rockbuds, they withdraw their fronds into the trunks when sensing danger. There are also species such as [[Makam\|makam]] and [[Cobwood\|cobwood]], which appear to be sturdy enough to sustain highstorms without added protection.
-Rosharan grass is known to move away from disruptions or vibrations, often fully retracting to protect itself. It is type of shallowly burrowed seed pod that has enough room to hold moisture and contain the coiled up leaf. They at most grow to around three feet tall. Seeds emerge from the leaf tip to either be consumed and redeposited as faeces, or carried and redesposited by the wind.
+  En regiones con fuertes altas tormentas, los laits como este son los oasis de la vida vegetal.
+La familia de plantas más grande de Roshar son los [[Rocabrote\|rocabrotes]]. Se caracterizan por tener un grueso caparazón exterior, del que toman su nombre, y unos zarcillos que se repliegan en el caparazón al detectar un peligro. La hierba roshariana, que actúa de este modo, es probablemente otra subespecie de rocabrote, aunque lo suficientemente parecida a la hierba de Shinovar como para conservar el nombre. Un mecanismo similar ha sido desarrollado por la [[Lianabrote\|lianabrote]], que crece a partir de un tallo robusto pero elástico y que, en lugar de extender sus zarcillos por el suelo, los agita en el aire, de forma parecida a las anémonas. Las hojas de [[Rocalirio\|rocalirio]] son un componente esencial en la dieta de las larvas de chull.
+Más al este, donde las altas tormentas son más fuertes, ni siquiera estas medidas son suficientes. Allí, las plantas crecen sobre todo en zonas resguardadas, como los [[Llanuras Quebradas\|abismos]] y los [[Lait\|laits]], mientras que resultan escasas al aire libre. La flora más frágil, como las enredaderas y las hierbas, crece y florece en estos terrenos, aunque algunas, como el [[Matopomo\|matopomo]], parecen preferir las tierras llanas, utilizando las altas tormentas deliberadamente para extenderse.
+Por el contrario, en el oeste, donde las altas tormentas están debilitadas por las cordilleras, las plantas son mucho menos sensibles a los estímulos y retraen sus hojas más lentamente.
+Roshar también tiene flora más grande. Algunos árboles, como el ya mencionado [[Daliasauce\|daliasauce]], tienen troncos de piedra, mientras que otros, como el [[Jella\|jella]], aumentan su corteza de madera acumulando crem. Al igual que los rocabrotes, retiran sus hojas hacia el interior de los troncos cuando perciben algún peligro. También hay especies como el [[Makam\|makam]] y el [[Maderazorca\|maderazorca]], que parecen ser lo suficientemente resistentes como para soportar altas tormentas sin protección añadida.
+La hierba roshariana es conocida por alejarse de perturbaciones o vibraciones, a menudo replegándose completamente para protegerse. Es un tipo de vaina de semilla excavada poco profunda que tiene espacio suficiente para retener la humedad y contener la hoja enrollada. Como mucho alcanzan un metro de altura. Las semillas emergen del extremo de la hoja para ser consumidas y redepositadas como heces, o transportadas y redepositadas por el viento.
 
 
-Some species of native Rosharan flora are edible for humans. This includes a number of fruits as well as a rice-like plant called [[Tallew\|tallew]], and [[Lavis\|lavis]], a type of rockbud that produces grain. Tallew, lavis, and longroot appear to be the major ingredients of Rosharan diet, with massive farmlands devoted to them throughout the continent. In the West, the same niche appears to be filled by [[Clema\|clema]].
-Additionally, there exist a number of plants with known healing properties. This includes antiseptics, such as the sap of [[Knobweed\|knobweed]] and [[Fourleaf\|fourleaf]], as well as [[Lister's oil\|lister's oil]]; treatments for specific diseases, such as [[Bitterleaf\|bitterleaf]] for epilepsy and [[Bloodivy\|bloodivy]] for the [[Grindings\|grindings]]; anesthetics like [[Winterwort\|winterwort]] and [[Firemoss\|firemoss]]; and other, more specific medicines, such as [[Denocax salve\|denocax]], which encourages skin healing.
-By contrast, several species of plant are noted to have detrimental effect on humans. Firemoss is known to be highly addictive, and [[Blackbane\|blackbane's]] leaves, once dried, are extremely poisonous. Eating shells of rockbuds is similarly known to be unhealthy, although the [[Unkalaki\|Unkalaki]] are capable of eating them without problems, likely thanks to their [[Singer\|singer]] ancestry. While not all plants are edible, some, like [[Breachtree\|breachtree]] and [[Narbin\|narbin]], are grown to make fabrics.
+Algunas especies de la flora roshariana autóctona son comestibles para el ser humano. Entre ellas se encuentran varias frutas, así como una planta parecida al arroz llamada [[Tali%C3%BA\|taliú]], y [[Lavis\|lavis]], un tipo de rocabrote que produce grano. El taliú, la lavis y el largorraíz parecen ser los principales ingredientes de la dieta roshariana, con enormes tierras de cultivo dedicadas a ellos en todo el continente. En el oeste, el mismo lugar parece estar ocupado por el [[Clem\|clem]].
+Además, existen varias plantas con propiedades curativas conocidas. Entre ellas se encuentran los antisépticos, como la savia de [[Matopomo\|matopomo]] y la [[Hoja de tr%C3%A9bol\|hoja de trébol]], así como el [[Aceite de lister\|aceite de lister]]; tratamientos para enfermedades específicas, como [[Hojamarga\|hojamarga]] para la epilepsia y [[Hiedra de sangre\|hiedra de sangre]] para la [[Molienda\|molienda]]; anestésicos como la [[Hierba de invierno\|hierba de invierno]] y el [[Musgoardiente\|musgoardiente]]; y otros medicamentos más específicos, como el [[Savia de denocax\|denocax]], que favorece la curación de la piel.
+En cambio, hay varias especies de plantas que tienen efectos perjudiciales para el ser humano. Se sabe que el musgoardiente es altamente adictivo, y que las hojas de [[Ruinaoscura\|ruinaoscura]], una vez secas, son extremadamente venenosas. También se sabe que comer caparazones de rocabrote no es saludable, aunque los [[Unkalaki\|Unkalaki]] son capaces de comerlos sin problemas, probablemente gracias a su ascendencia [[Cantor\|cantora]]. Aunque no todas las plantas son comestibles, algunas, como el [[Brech%C3%A1rbol\|brechárbol]] y el [[Narbin\|narbin]], se cultivan para hacer tejidos.
 
- by  Ben McSweeney  A Chasmfiend, with gleaming [[Mandra\|mandras]] surrounding it. They allow the greatshell to exist despite its enormous size.
+  Un abismoide rodeado de resplandecientes <<Mandra\|mandras>>. Estos permiten que el grancaparazón exista a pesar de su enorme tamaño.
 #### Fauna
-Roshar contains a wide variety of fauna, most of which appears to be shelled. While most creatures are native to the world, some have been introduced into Roshar during human exodus from [[Ashyn\|Ashyn]], among them mammals and birds.
-Like Rosharan flora, the animals of Roshar have also adapted to their unusual circumstances. Several species, including the largest, grow massive shells which can protect them from highstorms. Others hide in dens or, in case of small [[Sarpenthyn\|sarpenthyn]], ooze between the cracks in the rock.
+Roshar contiene una gran variedad de fauna, la mayor parte de la cual parece tener caparazón. Aunque la mayoría de las criaturas son nativas del mundo, algunas han sido introducidas en Roshar durante el éxodo humano desde [[Ashyn\|Ashyn]], entre ellas mamíferos y aves.
+Al igual que la flora roshariana, los animales de Roshar también se han adaptado a sus inusuales circunstancias. Varias especies, incluidas las más grandes, desarrollan enormes caparazones que les protegen de las altas tormentas. Otros se esconden en guaridas o, en el caso de los pequeños [[Sarpenthyn\|sarpenthyn]], rezuman entre las grietas de la roca.
 
 
-Multiple native species, as well as at least one imported animal, have formed symbiotic relationships with [[Spren\|spren]]. This appears to be faciliated by gemhearts, crystals that grow naturally within the bodies of those creatures.
+Varias especies autóctonas, así como al menos un animal importado, han establecido relaciones simbióticas con los [[Spren\|spren]]. Esto parece ser facilitado por las gemas corazón, cristales que crecen naturalmente dentro de los cuerpos de esas criaturas.
 
-Larger animals on Roshar utilize bonds with [[Mandra\|mandras]], or luckspren, to decrease the pull of gravity on them, allowing creatures such as [[Chasmfiend\|chasmfiends]] to exist without collapsing upon themselves. In the case of [[Skyeel\|skyeels]], the same bond, coupled with smaller size, permits them to fly.
-The native sentient species, the [[Singer\|Singers]], bond with a variety of spren to attain a number of forms, which alter their mental state, biological functions and appearance. While bonded, the spren remain within the gemheart.
-[[Ryshadium\|Ryshadium]] bond with what appears to be musicspren, attaining higher intelligence and physical strength. It is, however, unclear so far whether or not they have gemhearts.
-The fish in the [[Purelake\|Purelake]] gain various medicinal benefits through spren bonds.
+Los animales más grandes de Roshar utilizan vínculos con [[Mandra\|mandras]], o suertespren, para disminuir la atracción de la gravedad sobre ellos, lo que permite a criaturas como los [[Abismoide\|abismoides]] existir sin derrumbarse sobre sí mismos. En el caso de las [[Anguila a%C3%A9rea\|anguilas aéreas]], el mismo vínculo, unido a su menor tamaño, les permite volar.
+Los [[Cantor\|cantores]], la especie consciente nativa, se vinculan con una variedad de spren para alcanzar una serie de formas que alteran su estado mental, sus funciones biológicas y su apariencia. Mientras están vinculados, los spren permanecen dentro de la gema corazón.
+Los [[Ryshadio\|ryshadios]] se unen a lo que parecen ser musispren, alcanzando una mayor inteligencia y fuerza física. Sin embargo, hasta ahora no está claro si tienen o no gema corazón.
+Los peces de [[Lagopuro\|Lagopuro]] obtienen diversos beneficios medicinales gracias a los vínculos con spren.
 
-Mammals dwell mostly in Shinovar, though a few species have been successfully exported east. Those include horses, which are widely used as far east as Alethkar, and hogs, which are the primary source of non-Soulcast meat. While most mammals are domesticated, hogs, as well as minks and rats, can be found in the wild. Several species of birds are known to exist, although they are all known as "chickens" among Rosharans. This includes actual chickens as well as more colorful birds, such as parrots. In contrast to mammals, they do not seem to do well in the wild, as all examples observed so far are domesticated. Amphibians, such as the [[Lurg\|lurg]] can also be found, as well as wide variety of fish, including both fresh- and seawater ones. Cephalopods also exist, albeit with unusual properties - [[Zatalef\|zatalef]], for example, is described as bat-like, implying the ability to fly. A category without a clear Earth analogue are [[Sarpenthyn\|sarpenthyn]], which appear to be similar to both mollusks and cephalopods, albeit without shells and with smaller number of arms.
-
-
-The largest known group of animals on Roshar are crustaceans. Those can be of various sizes, from finger-long to four-stories-high. They are all noted as having violet blood and multiple stages of life, with the initial stage being called a larva and the process of switching between stages called pupation. The creation of shells is aided by the presence of crem in the rain, which the creatures can process into minerals.
-One of the largest crustacean family are [[Cremling\|cremlings]], a group of tiny, multi-legged scavengers preying mostly on deceased animals, although they will also feed on uncovered plants after highstorms. Cremlings come in variety of colors, with different features, numbers of legs, and behaviours. While most are individuals, some are part of the [[Sleepless\|Sleepless]] swarms, and as such share a sentient hivemind. The [[Sleepless\|Sleepless]] cremlings are bred for particular purposes, such as imitating human body parts.
-
- by  Ashley Coad  A Santhid. Roshar's greatest creatures are far larger than humans.
-Other than the cremlings, Roshar also features a number of larger crustaceans that are nonetheless smaller than humans. This group includes predatory species, such as the [[Axehound\|axehound]], herbivores like [[Axehind\|axehind]], and near-cremling sized creatures like [[Legger\|leggers]] and [[Larkin\|larkin]], as well as species that can be found on Earth, like crabs. The larkin in particular are unusual for their flight, as well as the ability to pull Stormlight out of other creatures and absorb it.
-The largest family of animals on Roshar are known as [[Greatshell\|greatshells]], which exist both on land and in the seas. All greatshells possess gemhearts and utilize them to attract [[Mandra\|mandras]] to decrease their own weight. The land greatshells include domesticated herbivores known as [[Chull\|chulls]] and two large predatory species, the [[Chasmfiend\|chasmfiend]] and the extinct [[Lanceryn\|lanceryn]]. The marine greatshells include the [[Yu-nerig\|yu-nerig]], which comes on land to pupate and is known to feed on humans, and the [[Tai-na\|Tai-na]], the largest animals known to inhabit the cosmere. Their legs are said to be sixty feet long, while the body itself stretches hundreds of feet tall. The back of Tai-na, which sticks out above water, is an ecosystem of its own, inhabited by multiple species of plants and animals, as well as humans.
-The [[Santhid\|santhid]], a massive marine species with large shell and a number of tendrils, might be considered a greatshell, and houses its own ecosystem, much like the Tai-na; however, as they were considered half-mythical until very recently, it's impossible to state so with any certainty.
+Los mamíferos habitan sobre todo en Shinovar, aunque algunas especies se han exportado con éxito al este. Entre ellas se encuentran los caballos, que se utilizan ampliamente hasta Alezkar, y los cerdos, que son la principal fuente de carne obtenida sin moldeado de almas. Aunque la mayoría de los mamíferos están domesticados, los cerdos, así como los visones y las ratas, pueden encontrarse en estado salvaje. Se conoce la existencia de varias especies de aves, aunque todas ellas son conocidas como "pollos" entre los rosharianos. Esto incluye a los pollos reales, así como a las aves más coloridas, como los loros. A diferencia de los mamíferos, no parece que se desenvuelvan bien en la naturaleza, ya que todos los ejemplares observados hasta el momento están domesticados. También se pueden encontrar anfibios, como el [[Lurg\|lurg]], así como una gran variedad de peces, tanto de agua dulce como salada. También existen cefalópodos, aunque con propiedades inusuales: el [[Zatalef\|zatalef]], por ejemplo, se describe como un murciélago, lo que implica la capacidad de volar. Una categoría sin un análogo claro en la Tierra son los [[Sarpenthyn\|sarpenthyn]], que parecen ser similares tanto a los moluscos como a los cefalópodos, aunque sin conchas y con menor número de brazos.
 
 
-Large number of domesticated creatures on Roshar are the imports from Ashyn. All forms of birds are domesticated; some for food, while others as pets. Hogs are kept for meat, minks, like birds, are pets, while horses are common riding mounts. Of the local wildlife, axehounds are often kept and bred, similar to dogs, while chulls are the primary mount for hauling cargo or for riders who cannot afford to keep a horse. Another greatshell species called a [[Gumfrem\|gumfrem]] is kept for its gemhearts, which can be used to [[Soulcast\|Soulcast]] meat.
+El mayor grupo de animales conocido en Roshar son los crustáceos. Pueden ser de varios tamaños, desde un dedo de largo hasta cuatro pisos de altura. Todos ellos tienen sangre violeta y múltiples etapas vitales, siendo la etapa inicial llamada larva y el proceso de cambio entre etapas llamado pupa. La creación de caparazones es facilitada por la presencia de crem en la lluvia, que las criaturas pueden procesar en minerales.
+Una de las familias de crustáceos más grandes es la de los [[Cremlino\|cremlinos]], un grupo de pequeños carroñeros con múltiples patas que se alimentan principalmente de animales muertos, aunque también lo hacen de plantas descubiertas tras las altas tormentas. Los cremlinos son de varios colores, con diferentes rasgos, número de patas y comportamientos. Aunque la mayoría son individuales, algunos forman parte de los enjambres de los [[Insomne\|Insomnes]] y, como tales, comparten una mente colmena. Los cremlinos de los [[Insomne\|Insomnes]] se crían con fines particulares, como imitar partes del cuerpo humano.
+
+  Un santhid. Las criaturas más gigantescas de Roshar son muchísimo más colosales que los humanos.
+Aparte de los cremlinos, Roshar también cuenta con una serie de crustáceos de mayor tamaño que, sin embargo, son más pequeños que los humanos. Este grupo incluye especies depredadoras, como el [[Sabueso-hacha\|sabueso-hacha]], herbívoras como el [[Axehind\|axehind]], y criaturas del tamaño de un cremlino como los [[Patoso\|patosos]] y los [[Larkin\|larkin]], así como especies que pueden encontrarse en la Tierra, como los cangrejos. Los larkin en particular son inusuales por su capacidad para volar, así como por la capacidad de extraer luz tormentosa de otras criaturas y absorberla.
+La familia de animales más grande de Roshar es la de los [[Grancaparaz%C3%B3n\|grancaparazones]], que existen tanto en la tierra como en los mares. Todos poseen gemas corazón y las utilizan para atraer a los [[Mandras\|mandras]] para disminuir su propio peso. Entre los grancaparazones terrestres se encuentran los herbívoros domésticos conocidos como [[Chull\|chulls]] y dos grandes especies depredadoras, el [[Abismoide\|abismoide]] y el extinto [[Lanceryn\|lanceryn]]. Los grancaparazones marinos son el [[Yu-nerig\|yu-nerig]], que acude a tierra para pupar y se sabe que se alimenta de humanos, y el [[Tai-na\|tai-na]], los animales más grandes que se conocen en el Cosmere. Se dice que sus patas miden sesenta pies de largo, mientras que el propio cuerpo se extiende cientos de pies de altura. El lomo de los Tai-na, que sobresale por encima del agua, es un ecosistema propio, habitado por múltiples especies de plantas y animales, así como por humanos.
+El [[Santhid\|santhid]], una especie marina masiva con una enorme coraza y numerosos zarcillos, podría considerarse un grancaparazón, y alberga su propio ecosistema, al igual que el Tai-na; sin embargo, al ser considerados más o menos míticos hasta hace muy poco, es imposible afirmarlo con certeza.
 
 
-Due to the presence of the Shard [[Cultivation\|Cultivation]], the creatures on Roshar have higher chance of developing sapience. So far, behaviour indicating sapience has been observed with three species, [[Ryshadium\|Ryshadium]] horses, [[Tai-na\|Tai-na]] and [[Santhid\|santhidyn]], all of which appear to have above average understanding of humans.
-Separately from this, Roshar is known to have developed two independent sapient species: [[Siah Aimian\|Siah Aimians]] and [[Singer\|Singers]]. Both of them are humanoid, and capable of breeding with humans. Roshar's other sentient species are humans, who immigrated there from [[Ashyn\|Ashyn]], the Iriali, who have since fully integrated with the population of the planet, and the [[Sleepless\|Sleepless]] (known also as Dysian Aimians), who may not be native to the planet.
-
-## History
-For a list of Rosharan events and eras, see :Category:Rosharan events .
-### Pre-Desolation Roshar
-#### Creation and Early Inhabitants
-The planet of Roshar predates the [[Shattering\|Shattering]]. It had likely existed for about 12 to 13 thousand years by the time of the True Desolation. The continent was specifically grown by [[Adonalsium\|Adonalsium]]. Much of the ecology of the planet existed from this time, including the [[Highstorm\|highstorms]] and the [[Spren\|spren]]. People lived on Roshar prior to the [[Shattering\|Shattering]]. The [[Singers\|singers]] were the primary inhabitants of Roshar at this time and are likely the [[Dawnsingers\|Dawnsingers]] spoken of in modern times. At some point after the Shattering, [[Honor\|Honor]] and [[Cultivation\|Cultivation]] settled on Roshar. They were equally Invested in the planet originally, though the balance shifted after Honor's death.
-
-#### The Expulsion and Early Interactions
-
->“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging*”
-\-From the Eila Stele[63]
+Un gran número de criaturas domesticadas en Roshar son importadas de Ashyn. Se domestican todas las formas de aves; algunas para alimentarse y otras como mascotas. Los cerdos se crían por su carne, los visones, al igual que las aves, son mascotas, mientras que los caballos son monturas comunes. De la fauna local, se suelen tener y criar sabueso-hachas, similares a los perros, mientras que los chulls son la principal montura para transportar carga o para los jinetes que no pueden permitirse tener un caballo. Otra especie de grancaparazón, llamada [[Gumfremo\|gumfremo]] se mantiene por sus gemas corazón, que pueden utilizarse para [[Moldear almas\|moldear]] carne.
 
 
-Humans fled to Roshar from [[Ashyn\|Ashyn]], another planet in the [[Rosharan system\|Rosharan system]]. They had destroyed the planet using what Honor implied to be the [[Dawnshard\|Dawnshards]]. Honor and Cultivation commanded the singers to take the humans in despite the forbidden powers they had relating to [[Spren\|spren]] and [[Surge\|Surges]], and they were given [[Shinovar\|Shinovar]] to live in since Shinovar could support the plants and animals they brought. With the humans came [[Odium\|Odium]]. The humans, possibly with Odium's influence, grew dissatisfied with what they were given. The conflict between the invading humans and the singers living on Roshar became the [[First Desolation\|First Desolation]].
+Debido a la presencia de la Esquirla [[Cultivaci%C3%B3n\|Cultivación]], las criaturas de Roshar tienen más posibilidades de desarrollar sapiencia. Hasta ahora, se ha observado un comportamiento que indica sapiencia en tres especies, los caballos [[Ryshadio\|ryshadios]], los [[Tai-na\|tai-na]] y los [[Santhid\|santhid]], todos los cuales parecen tener una comprensión de los humanos superior a la media.
+Aparte de esto, se sabe que Roshar ha desarrollado dos especies sapientes independientes: los [[Siah aimiano\|Siah aimianos]] y los [[Cantor\|cantores]]. Ambas son humanoides, y capaces de reproducirse con los humanos. Las otras especies sensibles de Roshar son los humanos, que emigraron allí desde [[Ashyn\|Ashyn]], los Iriali, que desde entonces se han integrado completamente con la población del planeta, y los [[Insomne\|Insomnes]] (conocidos también como Dysian aimianos), que pueden no ser nativos del planeta.
 
- by  Greg Call  A [[Vorin\|Vorin]] perspective on the history of mankind by [[Greg Call\|Greg Call]]
-### The Heraldic Epochs
-#### The Desolations
+## Historia
+Para una lista de eventos y épocas de Roshar, ver :Categoría:Eventos de Roshar .
+### Roshar previa a la Desolación
+#### Creación y primeros habitantes
+El planeta de Roshar es anterior a la [[Fragmentaci%C3%B3n\|Fragmentación]]. Probablemente llevara existiendo entre 12.000 y 13.000 años para cuando llegó la Auténtica Desolación. El continente fue específicamente creado por [[Adonalsium\|Adonalsium]]. Gran parte de la ecología del planeta existía desde esta época, incluyendo las [[Alta tormenta\|altas tormentas]] y los [[Spren\|spren]]. Había gente viviendo en Roshar antes de la [[Fragmentaci%C3%B3n\|Fragmentación]]. Los [[Cantor\|cantores]] eran los principales habitantes de Roshar en esta época y son probablemente los  de los que se habla en los tiempos modernos. En algún momento posterior a la Fragmentación, [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] se establecieron en Roshar. Originalmente, invistieron por igual el planeta, aunque el equilibrio cambió tras la muerte de Honor.
 
-The [[Desolation\|Desolations]] were conflicts between mankind and [[Voidbringer\|Voidbringers]]. The first Desolation occurred when humans invaded Roshar from the land they were given. Some of the singers were infused with Odium's [[Investiture\|Investiture]] and became the [[Fused\|Fused]]. The Fused did not pass into the [[Beyond\|Beyond]] and were instead reborn into the bodies of singers.
-To combat this, the [[Herald\|Heralds]] made a deal with Honor called the [[Oathpact\|Oathpact]]. This deal sealed away the Fused on Braize. However, there was a loophole. The Heralds could choose to allow the Fused to return to Roshar, so they were caught on Braize and tortured. The return of Heralds and Fused and the conflict that occurred became known as the Desolations. The spren started to mimic the herald's [[Honorblade\|Honorblades]] and the [[Knights Radiant\|Knights Radiant]] were formed. They helped to fight and rebuild society after a Desolation.
-Time during this period was separated into several-century long Epochs, which are further separated into years. The exact method for defining when a Desolation starts or ends is currently unknown. One Desolation began to show signs of occurring in the Eighth Epoch, year 337, when a small village in [[Natanatan\|Natanatan]] was attacked by the [[Midnight Essence\|Midnight Essence]].
+#### La expulsión y primeras interacciones
 
-#### The Last Legion
-
-At some point during the Desolations, a group of singers known as the [[Last Legion\|Last Legion]] were sent to fight in the farthest plains, most likely the ruins of [[Natanatan\|Natanatan]] on the [[Shattered Plains\|Shattered Plains]]. They followed the commands of the Fused and took whatever forms were forced upon them. Seeking freedom, they fled during a highstorm and took on dullform to escape the Fused's control. In order to avoid forgetting their knowledge, they composed songs, including [[Song of Listing\|Song of Listing]], [[Song of Secrets\|Song of Secrets]] and [[Song of Histories\|Song of Histories]]. They didn't, however, know how to transform into any forms except dullform and mateform by themselves. They planned to remain living as tribes and refugees, unnoticed and forgotten, as they studied and rediscovered the forms. Although it is not known exactly when this happened, it must have been prior to the [[Last Desolation\|Last Desolation]] as the Fused remained trapped on Braize from then until the [[True Desolation\|True Desolation]].
-
-
-#### The Last Desolation
-
- by  Petar Penev  The Last Desolation
->“*A...a decision has been made. It is time for the Oathpact to end.*”
-\-Jezrien's words to Kalak[73]
+>“*Vinieron de otro mundo, empleando poderes a los que se nos ha prohibido acceder. Poderes peligrosos, de los spren y las potencias. Destruyeron sus tierras y vinieron a nosotros suplicando*”
+\-Del Eila Stele[62]
 
 
-At the end of the [[Last Desolation\|Last Desolation]], nine of the ten Heralds had survived the fighting. As usual, they were supposed to return to [[Braize\|Braize]] to hold back the [[Fused\|Fused]]. However, knowing they could not face more torture, they came up with an alternative plan. [[Taln\|Taln]], the only Herald never to have broken during the millennia of Desolations and the only Herald who had died that time, would remain on Braize by himself. They had been warned that lingering on Roshar could lead to the start of another Desolation, but [[Ishar\|Ishar]] claimed that Taln by himself would be enough to hold back the Desolations and maintain the Oathpact. Rather than tell mankind the truth, the Heralds proclaimed that they had finally won the war against the Voidbringers. This deception lasted for four thousand five hundred years, until Taln finally returned from Braize to Roshar by mechanics which are as yet unclear.
+Los humanos huyeron a Roshar desde Ashyn, otro planeta del [[Sistema roshariano\|sistema roshariano]]. Habían destruido el planeta utilizando lo que Honor dio a entender que eran las [[Esquirla del Amanecer\|Esquirlas del Amanecer]]. Honor y Cultivación ordenaron a los cantores que acogieran a los humanos a pesar de los poderes prohibidos que tenían en relación con los [[Spren\|spren]] y las [[Potenciaci%C3%B3n\|Potencias]], y se les dio [[Shinovar\|Shinovar]] para vivir, ya que Shinovar podía mantener las plantas y los animales que traían. Con los humanos llegó [[Odium\|Odium]]. Los humanos, posiblemente con la influencia de Odium, se mostraron insatisfechos con lo que se les había dado. El conflicto entre los humanos invasores y los cantores que vivían en Roshar se convirtió en la [[Primera Desolaci%C3%B3n\|Primera Desolación]].
 
-### The Era of Solitude
->“*The Voidbringers were cast back into the Tranquiline Halls. The Heralds followed to force them out of heaven as well, and Roshar's Heraldic Epochs ended. Mankind entered the Era of Solitude. The modern era.*”
-\-Kabsal to Shallan[41]
+  Una perspectiva <<Vorin\|vorin>> sobre la historia de la Humanidad, por <<Greg Call\|Greg Call>>
+### Las Épocas Heráldicas
+#### Las Desolaciones
 
+Las [[Desolaci%C3%B3n\|Desolaciones]] fueron conflictos entre la humanidad y los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. La primera Desolación tuvo lugar cuando los humanos invadieron Roshar desde la tierra que se les había concedido. Algunos de los cantores fueron infundidos con la [[Investidura\|Investidura]] de Odium y se convirtieron en los [[Fusionado\|Fusionados]]. Los Fusionados no pasaban al [[M%C3%A1s All%C3%A1\|Más Allá]]; en cambio, renacían en los cuerpos de los cantores.
+Para combatir esto, los [[Heraldos\|Heraldos]] hicieron un trato con Honor llamado el [[Juramento\|Juramento]]. Este acuerdo selló a los Fusionados en Braize. Sin embargo, había una laguna. Los Heraldos podían optar por permitir que los Fusionados regresaran a Roshar, por lo que fueron capturados en Braize y torturados. El regreso de Heraldos y Fusionados y el conflicto que se producía entonces se bautizó como las Desolaciones. Los spren empezaron a imitar las [[Hoja de Honor\|Hojas de Honor]] de los heraldos y se formaron los [[Caballeros Radiantes\|Caballeros Radiantes]]. Estos últimos ayudaban a luchar y a reconstruir la sociedad tras cada Desolación.
+El tiempo durante este período se dividió en épocas de varios siglos de duración, que a su vez se dividen en años. El método exacto para definir cuándo comienza o termina una Desolación es actualmente desconocido. Una Desolación comenzó a mostrar signos de ocurrir en la Octava Época, año 337, cuando una pequeña aldea en [[Natanatan\|Natanatan]] fue atacada por la [[Esencia de Medianoche\|esencia de Medianoche]].
 
-#### The False Desolation
+#### La Última Legión
 
->“*Something must be done about the remnants of Odium’s forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
-\-Drawer 30-20, first emerald[75]
-
-The [[False Desolation\|False Desolation]] began when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] learned how to [[Connection\|Connect]] with the majority of the singers, giving them [[Regal\|forms of power]] and access to [[Voidlight\|Voidlight]]. The Radiants, unaware of how she did this, sought a way to end the fighting for good, as the Heralds had promised them. The fighting became particularly intense at this time, as the singers made a push towards [[Feverstone Keep\|Feverstone Keep]], possibly as part of a plan to capture [[Rall Elorim\|Rall Elorim]].
-Working together, the scholars among the Radiants theorized that an [[Unmade\|Unmade]] could be imprisoned like a regular [[Spren\|spren]]. That devised a plan to trap Ba-Ado-Mishram and prevent her from Connecting with the singers and providing them with Voidlight. This plan would require [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation, and a special prison, likely a [[Perfect gemstone\|perfect gemstone]]. Although Melishi was confident the plan would succeed in destroying the Voidbringers, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unintended side effects. Although the plan seems to have succeeded, as Ba-Ado-Mishram has not been seen in modern times unlike other Unmade, Naze-daughter-Kuzodo's warning was correct. Because she had been Connected to all the singers, their Connection and [[Identity\|Identity]] was torn out of them, creating slaveform or parshmen. The Radiants' horror for what happened likely contributed to the Recreance.
-
-#### The Recreance
-
-During the lead up to the [[Day of Recreance\|Day of Recreance]], many events occurred which demoralized the Knights Radiant. The [[Sibling\|Sibling]], for some unknown reason, withdrew from [[Urithiru\|Urithiru]] and forced the Knights to abandon their ancestral home. Many Radiants blamed this on a perceived unworthiness, including increased conflicts between the [[Windrunners\|Windrunners]] and [[Skybreakers\|Skybreakers]], but scholars of the time disagreed. This concern extended to potential infiltration by [[Unmade\|Unmade]]. While this was occurring, the False Desolation was coming to a close. The presumed success in imprisoning Ba-Ado-Mishram leading to the singers having their Connection and Identity ripped out of them likely influenced the Radiants. In the midst of this turmoil, the Radiants discovered the truth about the origins of humans on Roshar. The singers had been the original inhabitants of Roshar. The humans came as refugees from their [[Ashyn\|homeworld]], which they had destroyed with surges. After being taken in by the singers and given [[Shinovar\|Shinovar]], they invaded Roshar and started the Desolations. While Honor had comforted previous generations who learned this, this time he was dying. He raved about the [[Dawnshard\|Dawnshards]] and promised the Radiants they would destroy Roshar like they had their homeworld.
-As a result of these revelations, the nine of the ten orders decided to abandon their oaths, and in agreement with their spren, kill them. They believed that this would prevent the destruction of Roshar Honor warned them about. At the locations they left their [[Shardplate\|Plate]] and [[Shardblade\|Blades]], men quickly began fighting over the weapons, leading to much death and destruction. The Radiants, other than the Skybreakers, were quickly turned on and killed because of the sense of betrayal felt. Society for both spren and humans drastically changed in the aftermath. Those with Shardblades quickly consolidated their power, including using *Arts and Majesty* to justify women not wielding them. It is likely that this is when [[Lighteyes\|lighteyes]] truly came to power. The genocide decimated the populations of spren societies. Most of the survivors were children forced to spend centuries without nurture or guidance. Some societies took two thousand years to fully recover. 
-
-#### The Scouring of Aimia
-
-What exactly occurred during the [[Scouring of Aimia\|Scouring of Aimia]] is unknown but it appears that the vast majority of Aimia's ecosystem collapsed, leading to the extinction of the [[Lanceryn\|lanceryn]] and the near extinction of the [[Larkin\|larkin]]. Most creatures there are quite rare since the scouring. The island of [[Akinah\|Akinah]], however, was not destroyed and is still protected from outsiders by the [[Sleepless\|Sleepless]]. [[Hessi\|Hessi]] indicates in [[Mythica\|Mythica]] that [[Dai-Gonarthis\|Dai-Gonarthis]] may have been responsible for the scouring.
-
-#### The Hierocracy and the War of Loss
-
-The [[Hierocracy\|Hierocracy]] began when the [[Vorinism\|Vorin Church]] decided to conquer the world and run the government rather than just provide spiritual guidance. They claimed their conquering was for the good of the people. Some of the most powerful ardents claimed to have visions from the [[Almighty\|Almighty]], which they used to solidify their rule and obfuscate their religion. One of their main goals was to destroy knowledge of the failures of Vorinism, including [[Shadesmar\|Shadesmar]], the Knights Radiant, and the Recreance. They were primarily successful, as even the major libraries on Roshar are missing this information. Before the Hierocracy could spread to the west, [[Sadees\|Sadees]], the Sunmaker, united the princedoms of [[Alethkar\|Alethkar]] to drive out the Hierocracy. They fought in many epic battles the likes of which have not been seen since in what came to be known as the [[War of Loss\|War of Loss]]. The Sunmaker successfully cast down the Hierocracy and stated the visions were a fraud.
-Sadees's win in the War of Loss affected much of eastern Roshar. Sadees declared himself king of Alethkar and began a conquest of Roshar. Although the extent of his empire is not exactly known, [[Herdaz\|Herdaz]] and [[Azir\|Azir]] were both included. He committed genocide in Azir and killed ten percent of the population. His empire quickly collapsed after his death, however, as he did not choose an heir, and his ten sons divided the kingdom into princedoms and became [[Highprince\|highprinces]]. The effects of the Hierocracy on Vorinism can still be felt in the modern time. The central leadership of the church was destroyed and split into mostly independent [[Devotaries\|Devotaries]]. The ardents became slaves who could not own land or property. Their revisions to historical texts also perpetuate, and it is difficult to find information about pre-Hierocracy history or the Knights Radiant.
-
-#### Reunification of Alethkar
-
-In the year 1158, House Kholin, led by [[Gavilar Kholin\|Gavilar Kholin]], led a war in order to reunify Alethkar like Sadees did before him. This conquest was successful, subjugating all ten Alethi princedoms under a singular crown for the first time since the times of the Sunmaker.
-
-#### Singer-Human Relations
+En algún momento de las Desolaciones, un grupo de cantores conocido como la [[%C3%9Altima Legi%C3%B3n\|Última Legión]] fue enviado a luchar en las llanuras más lejanas, muy probablemente las ruinas de [[Natanatan\|Natanatan]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Siguieron los mandatos de los Fusionados y adoptaron cualquier forma que se les impusiera. En busca de la libertad, huyeron durante una alta tormenta y adoptaron la forma gris para escapar del control de los Fusionados. Para no olvidar sus conocimientos, compusieron canciones, como la [[Canci%C3%B3n de las clasificaciones\|canción de las clasificaciones]], la [[Canci%C3%B3n de los secretos\|canción de los secretos]] y la [[Canci%C3%B3n de las historias\|canción de las historias]]. Sin embargo, no sabían cómo transformarse en ninguna otra forma que no fuera la forma gris y la forma carnal por sí mismos. Planeaban continuar viviendo como tribus y refugiados, desapercibidos y olvidados, mientras estudiaban y redescubrían las formas. Aunque no se sabe exactamente cuándo ocurrió esto, debió ser antes de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]], ya que los fusionados permanecieron atrapados en Braize desde entonces hasta la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]].
 
 
+#### La Última Desolación
 
-For more information, see [[Assassination of Gavilar\|Assassination of Gavilar]].
-In 1167, during the signing celebration of the Alethi-Listener treaty, Gavilar revealed his plans to return the Fused to Roshar to Eshonai. This led her to warning the Five. Together, the Five decided that he had to be killed before he could go through with his plans. Coming to this decision, they sent [[Szeth\|Szeth]] as an assassin, and successfully killed the king.
-This assassination was traced back to the Listeners, as three Listeners remained to take credit for ordering the assassination, leading to [[Elhokar Kholin\|Elhokar Kholin]] and the Ten Highprinces to declare war upon them in the [[Vengeance Pact\|Vengeance Pact]], beginning the [[War of Reckoning\|War of Reckoning]].
-
-#### The Eighties War
-For more information, see [[Eighty's War\|Eighty's War]].
-Meanwhile, in the Makabakam region, Emul and Tukar began to engage in a protracted war over ownership of the Dawncity of [[Sesemalex Dar\|Sesemalex Dar]]. The Emul had the city situated as their capital, and claimed it was their ancestral homeland, granted to them by the Heralds themselves. On the other side, the Tukari, led by the Herald Ishar, also claimed rightful ownership of the city for unknown reasons.
-This conflict was not something new, with various wars over Sesemalex Dar occurring over the history of the two nations, with the Eighty's War only being the most recent iteration of these conflicts.
-
-#### The War of Reckoning
-For more information, see [[War of Reckoning\|War of Reckoning]].
+  La Última Desolación
+>“*Se ha…, se ha tomado una decisión. Es hora de que el Juramento llegue a su fin.*”
+\-Las palabras de Jezrien a Kalak[72]
 
 
-### The True Desolation
-On Ishishach 1173, during the [[Battle of Narak\|Battle of Narak]], the [[Everstorm\|Everstorm]] was summoned by Odium and a collection of [[Listeners\|Listeners]]. This brought an end to the Era of Solitude, and brought forth the True Desolation. Following the True Desolation, the Alethi side of the Battle of Narak came across an oathgate leading to Urithiru, which they promptly occupied as their base of operations.
+Al final de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]], nueve de los diez Heraldos habían sobrevivido al combate. Como de costumbre, debían regresar a [[Braize\|Braize]] para contener a los [[Fusionado\|Fusionados]]. Sin embargo, sabiendo que no podían enfrentarse a más torturas, idearon un plan alternativo. [[Taln], el único Heraldo que nunca se rompió durante los milenios de Desolaciones y el único Heraldo que murió, se quedaría en Braize por su cuenta. Se les había advertido de que quedarse en Roshar podría provocar el inicio de otra Desolación, pero [[Ishar\|Ishar]] afirmó que Taln sería suficiente para contener él solo las Desolaciones y mantener el Juramento. En lugar de decir la verdad a la humanidad, los Heraldos proclamaron que finalmente habían ganado la guerra contra los Portadores del Vacío. Este engaño duró cuatro mil quinientos años, hasta que Taln finalmente regresó de Braize a Roshar mediante mecánicas que aún no están del todo claras.
 
-#### Battle of Thaylen Field
-For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
-
-At the end of the battle, the Unmade Nergaoul was sealed away in the [[King's Drop\|King's Drop]]. The Unmade was studied for a period following his being sealed away, but he was eventually locked in an aluminum box and hidden away at the bottom of the ocean to keep him out of enemy hands.
-
-#### Expedition to Aimia
-For more information, see [[Expedition to Akinah\|Expedition to Akinah]].
+### La Era de la Soledad
+>“*Los Portadores del Vacío fueron devueltos a los Salones Tranquilos. Los Heraldos los siguieron para expulsarlos también del Cielo, y las Épocas Heráldicas de Roshar terminaron. La humanidad entró en la Era de la Soledad. La era moderna.*”
+\-Kabsal a Shallan[40]
 
 
-#### Singer Occupation of Urithiru
+#### La Falsa Desolación
 
-During the Occupation, Navani and Raboniel worked together to discover [[Anti-Voidlight\|Anti-Voidlight]], through which they were able to bring permanent death to the Fused. Following this discover, Raboniel was able to discover [[Anti-Stormlight\|Anti-Stormlight]], to be used as a weapon against Spren and the Knights Radiant.
+>“*Debe hacerse algo con los restos de las fuerzas de Odium. Los parsh, como se llaman ahora, siguen guerreando con ímpetu, incluso sin sus amos salidos de Condenación.*”
+\-Del cajón 30-20, primera esmeralda[74]
 
-#### Expedition to Emul and Ascension of Taravangian
+La [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] comenzó cuando [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] aprendió a [[Conexi%C3%B3n\|Conectar]] con la mayoría de los cantores, dándoles [[Regio\|formas de poder]] y acceso a la [[Luz del vac%C3%ADo\|luz del vacío]]. Los Radiantes, sin saber cómo lo hizo, buscaron una forma de acabar con la lucha de forma definitiva, tal y como les habían prometido los Heraldos. La lucha se hizo especialmente intensa en ese momento, ya que los cantores hicieron una ofensiva hacia la [[Fortaleza de la Fiebre de Piedra\|Fortaleza de la Fiebre de Piedra]], posiblemente como parte de un plan para capturar [[Rall Elorim\|Rall Elorim]].
+Trabajando juntos, los eruditos entre los Radiantes teorizaron que un [[Deshecho\|Deshecho]] podía ser apresado como un [[Spren\|spren]] normal. Eso ideó un plan para atrapar a Ba-Ado-Mishram y evitar que Conectara con los cantores y les proporcionara luz del vacío. Este plan requeriría a [[Melishi\|Melishi]], el único [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] de su generación, y una prisión especial, probablemente una [[Gema perfecta\|gema perfecta]]. Aunque Melishi confiaba en que el plan tendría éxito en la destrucción de los Portadores del Vacío, [[Naze-hija-Kuzodo\|Naze-hija-Kuzodo]] advirtió de los efectos secundarios no deseados. A pesar de que el plan parezca haber tenido éxito, ya que Ba-Ado-Mishram no ha sido visto en los tiempos modernos a diferencia de otros Deshechos, la advertencia de Naze-hija-Kuzodo era correcta. Como ella había estado Conectada a todos los cantores, su Conexión e [[Identidad\|Identidad]] les fue arrancada, creando la forma de esclavo o parshmenios. El horror de los Radiantes por lo ocurrido probablemente contribuyó a la Traición.
 
-Taravangian was assassinated by Szeth while being met by Odium. On his transition to the Cognitive Realm, he managed to kill Odium's Vessel with the Cognitive Aspect of Nightblood, and took the Shard for himself. Thus, he ascended as the new Vessel of Odium.
+#### La Traición
 
-#### Contest of Champions
-The Contest of Champions between Odium and Dalinar, wherein the fate of Roshar and the Oathpact was to be decided, was planned to occur on Palahanah 1175.
+Durante el período previo al [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]], ocurrieron muchos acontecimientos que desmoralizaron a los Caballeros Radiantes. El [[Hermano\|Hermano]], por alguna razón desconocida, se retiró de [[Urithiru\|Urithiru]] y obligó a los Caballeros a abandonar su hogar ancestral. Muchos Radiantes culparon de esto a la percepción de que ya no eran dignos, incluyendo el aumento de los conflictos entre los [[Orden de los Corredores del Viento\|Corredores del Viento]] y los [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]], pero los eruditos de la época no estaban de acuerdo. Esta preocupación se extendía a la posible infiltración de los [[Deshecho\|Deshechos]]. Mientras esto ocurría, la Falsa Desolación estaba llegando a su fin. El presunto éxito en el encarcelamiento de Ba-Ado-Mishram, que llevó a que a los cantores se les arrancara su Conexión e Identidad, probablemente influyó en los Radiantes. En medio de esta agitación, los Radiantes descubrieron la verdad sobre los orígenes de los humanos en Roshar. Los cantores habían sido los habitantes originales de Roshar. Los humanos llegaron como refugiados desde su [[Ashyn\|planeta natal]], que habían destruido con las potencias. Tras ser acogidos por los cantores y recibir [[Shinovar\|Shinovar]], invadieron Roshar y comenzaron las Desolaciones. Aunque Honor había consolado a las generaciones anteriores que se enteraron de esto, esta vez se estaba muriendo. Deliraba sobre las [[Esquirla del Amanecer\|Esquirlas del Amanecer]] y prometió a los Radiantes que destruirían Roshar como habían hecho con su planeta natal.
+Como resultado de estas revelaciones, nueve de las diez órdenes decidieron abandonar sus juramentos y, de acuerdo con sus spren, matarlos. Creían que esto evitaría la destrucción de Roshar de la que Honor les había advertido. En los lugares en los que dejaron sus [[Armadura esquirlada\|armaduras]] y [[Hoja esquirlada\|hojas]], los hombres empezaron rápidamente a pelearse por las armas, lo que provocó mucha muerte y destrucción. Los Radiantes, a excepción de los Rompedores del Cielo, fueron rápidamente atacados y asesinados por la sensación de traición que habían despertado. La sociedad, tanto para los spren como para los humanos, cambió drásticamente a raíz de esto. Los que tenían hojas esquirladas consolidaron rápidamente su poder, incluso utilizando *[[Artes y Majestuosidad\|Artes y Majestuosidad]]* para justificar que las mujeres no las empuñaran. Es probable que fuera entonces cuando los [[Ojos claros\|ojos claros]] alcanzaron realmente el poder. El genocidio diezmó las poblaciones de las sociedades spren. La mayoría de los supervivientes fueron niños obligados a pasar siglos sin crianza ni guía. Algunas sociedades tardaron dos mil años en recuperarse por completo. 
 
-#### Post-Contest
-Even several years after the Contest of Champions, in 348 [[Catacendre\|PC]] in the Scadrian reckoning, travel to and from Roshar was still considered extremely dangerous. This made interplanetary trade infeasible.
+#### La destrucción de Aimia
 
-## Culture and Society
-For a list of Rosharan cultural topics, see :Category:Rosharan culture.
-### Nations
-Roshar's population categorizes their history into a number of epochs. Most notable is the [[Silver Kingdoms\|Silver Kingdoms]] Epoch, or the Heraldic Epoch, when the [[Knights Radiant\|Knights Radiant]] kept the peace. They protected Roshar from their home, the great city of [[Urithiru\|Urithiru]]. The ten Silver Kingdoms are:
+Se desconoce lo que ocurrió exactamente durante [[La destrucci%C3%B3n de Aimia\|la destrucción de Aimia]], pero parece que la mayor parte del ecosistema de Aimia colapsó, lo que llevó a la extinción de los [[Lanceryn\|lanceryn]] y a la casi extinción de los [[Larkin\|larkin]]. La mayoría de las criaturas allí son bastante raras desde la destrucción. La isla de [[Akinah\|Akinah]], sin embargo, no fue destruida y todavía está protegida de los forasteros por los [[Insomne\|Insomnes]]. [[Hessi\|Hessi]] indica en [[M%C3%ADtica\|Mítica]] que [[Dai-Gonarthis\|Dai-Gonarthis]] puede haber sido responsable de la destrucción.
+
+#### La Hierocracia y la Guerra de la Pérdida
+
+La [[Hierocracia\|Hierocracia]] comenzó cuando la [[Vorinismo\|Iglesia vorin]] decidió conquistar el mundo y dirigir el gobierno en lugar de limitarse a proporcionar orientación espiritual. Afirmaron que dicha conquista era por el bien de la gente. Algunos de los fervorosos más poderosos afirmaban tener visiones del [[Todopoderoso\|Todopoderoso]], que utilizaban para consolidar su gobierno y ofuscar su religión. Uno de sus principales objetivos era destruir el conocimiento de los fracasos del vorinismo, incluyendo [[Shadesmar\|Shadesmar]], los Caballeros Radiantes y la Traición. Mayormente tuvieron éxito, ya que incluso las principales bibliotecas de Roshar carecen de esta información. Antes de que la Hierocracia pudiera extenderse hacia el oeste, [[Sadees\|Sadees]], el Hacedor de Soles, unió a los principados de [[Alezkar\|Alezkar]] para expulsar a la Hierocracia. Lucharon en muchas batallas épicas como no se han visto desde entonces en lo que se conoció como la [[Guerra de la P%C3%A9rdida\|Guerra de la Pérdida]]. El Hacedor de Soles derrocó con éxito a la Hierocracia y declaró que las visiones eran un fraude.
+La victoria de Sadees en la Guerra de la Pérdida afectó a gran parte del este de Roshar. Sadees se declaró rey de Alezkar y comenzó la conquista de Roshar. Aunque no se conoce con exactitud la extensión de su imperio, [[Herdaz\|Herdaz]] y [[Azir\|Azir]] estaban incluidas. Cometió un genocidio en Azir y mató al diez por ciento de la población. Sin embargo, su imperio se derrumbó rápidamente tras su muerte, ya que no eligió heredero, y sus diez hijos dividieron el reino en principados y se convirtieron en [[Alto pr%C3%ADncipe\|altos príncipes]]. Los efectos de la Hierocracia en el vorinismo aún pueden sentirse en la época moderna. La cúpula central de la iglesia fue destruida y se dividió en [[/wiki/Vorinismo#Devotarios]] mayoritariamente independientes. Los fervorosos se convirtieron en esclavos que no podían poseer tierras ni propiedades. Sus revisiones de los textos históricos también se mantienen, y es difícil encontrar información sobre la historia anterior a la Hierocracia o sobre los Caballeros Radiantes.
+
+#### Reunificación de Alezkar
+
+En el año 1158, la casa Kholin, liderada por [[Gavilar Kholin\|Gavilar Kholin]], lideró una guerra con el fin de reunificar Alezkar como hizo Sadees antes que él. Esta conquista tuvo éxito, subyugando a los diez principados alezi bajo una única corona por primera vez desde los tiempos del Hacedor de Soles.
+
+#### Relaciones cantor-humano
+
+
+
+Para más información, ver [[Asesinato de Gavilar\|Asesinato de Gavilar]].
+En 1167, durante la celebración de la firma del tratado alezi-oyente, Gavilar reveló a Eshonai sus planes de hacer volver a los Fusionados a Roshar. Esto la llevó a avisar a los Cinco. Juntos, decidieron que había que matarlo antes de que pudiera llevar a cabo sus planes. Llegando a esta decisión, enviaron a [[Szeth\|Szeth]] como asesino, y mataron con éxito al rey.
+Este asesinato fue rastreado hasta los ryentes, ya que tres de ellos se quedaron para atribuirse el mérito de ordenar el asesinato, lo que llevó a [[Elhokar Kholin\|Elhokar Kholin]] y a los diez altos príncipes a declararles la guerra en el , comenzando la [[Guerra de la Venganza\|guerra de la Venganza]].
+
+#### La guerra de los ochenta
+Para más información, ver .
+Mientras tanto, en la región de Makabakam, Emul y Tukar comenzaron a enzarzarse en una prolongada guerra por la propiedad de la Ciudad del Amanecer de [[Sesemalex Dar\|Sesemalex Dar]]. Los emuli tenían la ciudad situada como su capital, y afirmaban que era su patria ancestral, concedida a ellos por los propios Heraldos. Por otro lado, los tukari, liderados por el Heraldo Ishar, también reclamaban la propiedad legítima de la ciudad por razones desconocidas.
+Este conflicto no era algo nuevo, con varias guerras sobre Sesemalex Dar ocurriendo a lo largo de la historia de las dos naciones, siendo la guerra de los Ochenta sólo la iteración más reciente de estos conflictos.
+
+#### La Guerra de la Venganza
+Para más información, ver .
+
+
+### La Auténtica Desolación
+En Ishishach 1173, durante la [[Batalla de Narak\|batalla de Narak]], la [[Tormenta eterna\|tormenta eterna]] fue convocada por Odium y un grupo de [[Oyente\|oyentes]]. Esto puso fin a la Era de la Soledad y provocó la Auténtica Desolación.  Tras la Auténtica Desolación, el bando alezi de la batalla de Narak se topó con una Puerta Jurada que conducía a Urithiru, que rápidamente ocuparon como base de operaciones.
+
+#### Batalla de la Explanada Thayleña
+Para más información, ver [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]].
+
+Al final de la batalla, el Deshecho Nergaoul fue encerrado en la [[L%C3%A1grima del Rey\|Lágrima del Rey]]. Fue estudiado durante un tiempo después de ssu encierro, pero finalmente fue guardado en una caja de aluminio y escondido en el fondo del océano para mantenerlo fuera del alcance de los enemigos.
+
+#### Expedición a Aimia
+Para más información, ver [[Expedici%C3%B3n a Akinah\|Expedición a Akinah]].
+
+
+#### Ocupación cantora de Urithiru
+
+Durante la Ocupación, Navani y Rabeniel trabajaron juntas para descubrir la , a través de la cual fueron capaces de llevar la muerte permanente a los Fusionados. Tras este descubrimiento, Rabeniel fue capaz de descubrir la , para usarla como arma contra los spren y los Caballeros Radiantes.
+
+#### Expedición a Emul y Ascensión de Taravangian
+
+Taravangian fue asesinado por Szeth mientras se encontraba con Odium. En su transición al Reino Cognitivo, consiguió matar al Recipiente de Odium con el aspecto cognitivo de Sangre Nocturna, y se hizo con la Esquirla. Así, ascendió como el nuevo Recipiente de Odium.
+
+#### Concurso de Campeones
+El Concurso de Campeones entre Odium y Dalinar, en el que se decidiría el destino de Roshar y el Juramento, estaba planeado para el Palahanah 1175.
+
+#### Post-concurso
+Incluso varios años después del Concurso de Campeones, en 348 [[Catacendro\|PC]] en el cómputo scadriano, los viajes hacia y desde Roshar seguían considerándose extremadamente peligrosos. Esto hacía inviable el comercio interplanetario.
+
+## Cultura y sociedad
+Para una lista de temas culturales de Roshar, ver :Categoría:Cultura de Roshar.
+### Naciones
+La población de Roshar clasifica su historia en varias épocas. La más notable es la Época de los [[Reinos Plateados\|Reinos Plateados]], o la Época Heráldica, cuando los [[Caballeros Radiantes\|Caballeros Radiantes]] mantuvieron la paz. Protegían Roshar desde su hogar, la gran ciudad de [[Urithiru\|Urithiru]]. Los diez Reinos Plateados son:
 
 
 [[Iri\|Iri]]
@@ -299,11 +303,11 @@ Roshar's population categorizes their history into a number of epochs. Most nota
 [[Makabakam\|Makabakam]]
 [[Valhav\|Valhav]]
 [[Rishir\|Rishir]]
-[[Alethela\|Alethela]]
+[[Alezela\|Alezela]]
 [[Natanatan\|Natanatan]]
 [[Thalath\|Thalath]]
 
-Various nations rose and fall over Rosharan history, outside of the Silver Kingdoms, and thus no longer stand in the modern day:
+A lo largo de la historia roshariana, fuera de los Reinos Plateados, surgieron y desaparecieron varias naciones, que ya no existen en la actualidad:
 
 
 [[Bayala\|Bayala]]
@@ -313,26 +317,25 @@ Various nations rose and fall over Rosharan history, outside of the Silver Kingd
 [[Tarma\|Tarma]]
 [[Akak\|Akak]]
 
-
-In the modern era, the Era of Solitude, the current division of thirty-two known countries and regions in Roshar are:
+En la era moderna, la Era de la Soledad, la división actual de treinta y dos países y regiones en Roshar son:
 
 
 [[Thaylenah\|Thaylenah]]
-[[Frostlands\|Frostlands]]
-[[Alethkar\|Alethkar]]
+[[Tierras Heladas\|Tierras Heladas]]
+[[Alezkar\|Alezkar]]
 [[Herdaz\|Herdaz]]
 [[Jah Keved\|Jah Keved]]
 [[Tu Bayla\|Tu Bayla]]
 [[Triax\|Triax]]
 [[Tu Fallia\|Tu Fallia]]
-[[Greater Hexi\|Greater Hexi]]
+[[Gran Hexi\|Gran Hexi]]
 [[Marat\|Marat]]
 [[Tukar\|Tukar]]
 [[Emul\|Emul]]
 [[Azir\|Azir]]
 [[Yulay\|Yulay]]
-[[Marabethia\|Marabethia]]
-[[Babatharnam\|Babatharnam]]
+[[Marabezia\|Marabezia]]
+[[Babazarnam\|Babazarnam]]
 [[Desh\|Desh]]
 [[Yezier\|Yezier]]
 [[Alm\|Alm]]
@@ -342,7 +345,7 @@ In the modern era, the Era of Solitude, the current division of thirty-two known
 [[Aimia\|Aimia]]
 [[Shinovar\|Shinovar]]
 [[Iri\|Iri]]
-[[Rira (country)\|Rira]]
+[[Rira (pa%C3%ADs)\|Rira]]
 [[Kharbranth\|Kharbranth]]
 [[Kadrix\|Kadrix]]
 [[Quili\|Quili]]
@@ -350,100 +353,133 @@ In the modern era, the Era of Solitude, the current division of thirty-two known
 [[Arak\|Arak]]
 [[Sumi\|Sumi]]
 
-### Calendar
-The Vorin calendar is divided up into ten months, with ten weeks each. Both the months and the weeks are named after the Vorin numerals (which, in turn, are derived from the names of the [[Herald\|Heralds]]), and are sometimes combined into abbreviations. Such abbreviations have the full name of the month and two suffixes, for week and day. As an example Chachel means it's the third day of the week. Interestingly, Kaladin, who gets paid once a week, refers to payday as "third pass". Presumably, this means that another way to talk about days of the week is by saying first, second, third, fourth or fifth pass.
-Each week is made up of five days, with a month being made of ten weeks or fifty days, and a year on Roshar is 500 days long, ultimately defined by the time between two [[Weeping\|Weepings]].
-Although the Rosharan year is 500 days long, these days are shorter than usual, coming in at 20 Rosharan hours, which are themselves cut down into 50 Rosharan minutes. Consequently, a Rosharan year is only 10% longer than the cosmere standard.
-Other cultures across Roshar have different calendars, which consequently leads to differences in recorded year between nations and cultures. One culture known to make use of a different calendar are the Unkalaki. The Tukari and Emuli, and potentially the Azish in general, in which whose reckoning deems the period from Vorin year 1167 and 1174 to be in the eighties of an unclear century and millennium.
+### Calendario
+El calendario vorin se divide en diez meses, con diez semanas cada uno. Tanto los meses como las semanas reciben el nombre de los números vorin (que, a su vez, provienen de los nombres de los [[Heraldo\|Heraldos]]), y a veces se combinan en abreviaturas. Estas abreviaturas tienen el nombre completo del mes y dos sufijos, para la semana y el día. Como ejemplo, Chachel significa que es el tercer día de la semana. Curiosamente, Kaladin, que cobra una vez a la semana, se refiere al día de pago como "tercer pase". Es de suponer que esto significa que otra forma de hablar de los días de la semana es diciendo primer, segundo, tercer, cuarto o quinto pase.
+Cada semana tiene cinco días, y un año de Roshar tiene 500 días, definidos en última instancia por el tiempo entre dos [[Llanto\|Llantos]].
+Aunque el año roshariano tiene 500 días, estos días son más cortos de lo normal, con aproximadamente 20 horas de Roshar, que a su vez se dividen en 50 minutos rosharianos. En consecuencia, un año de Roshar es tan solo un 10% más largo que el estándar del Cosmere.
+Otras culturas a lo largo de Roshar tienen diferentes calendarios, lo que lleva a diferencias en los años de referencia entre naciones y culturas. Una cultura conocida que utiliza un calendario diferente son los Unkalaki. En el caso de los tukari y emuli, y potencialmente los azishianos en general, sabemos que el periodo del año 1167 y 1174 está en la década de los ochenta de un siglo y milenio desconocidos.
 
 
-### Currency
+### Moneda
 
-The primary form of currency found on Roshar are spheres, pieces of gemstone encased in a sphere of glass with one side flattened to prevent rolling. The gemstones can be any of the ten [[Polestone\|Polestones]] and there are three denominations: chip, mark, and broam. The ten gemstones are organized into five value levels with some gem types having equivalent values. These value levels are determined by [[Soulcasting\|Soulcasting]] properties, so unlike on Earth, diamonds, which can create quartz, crystal, and glass, have the lowest value, and emeralds, which can create grain, have the highest. Spheres, like all gems on Roshar, have the ability to hold and leak Stormlight. Spheres with light are referred to as infused and those without are referred to as dun. Although dun spheres can be used as currency, people are suspicious of them because light is the easiest way to determine a sphere is real.
-Because of their ability to hold Stormlight, spheres are commonly used on Roshar as a source of light. The light from spheres is considered to be steadier and more consistent than traditional light sources such as candles. It can be expensive, however, as spheres are also used for currency, so the use of spheres as a source of light is often a sign of wealth. Diamonds are considered the best light source because it is both the cheapest and the closest to natural light.
-The denomination of spheres in eastern Roshar is weaker than in the west, with some people drilling holes in spheres to carry them on strings or using chunks of gemstone instead.
-Glass beads without gemstones inside are called 'Ends', and are mainly used as gambling tokens.
+El principal tipo de moneda que se encuentra en Roshar son las esferas, piezas de gema encerradas en una esfera de cristal con un lado aplanado para evitar que rueden. Las gemas pueden ser cualquiera de las diez [[Piedrabase\|piedrasbase]] y hay tres denominaciones: chip, marco y broam. Las diez gemas están organizadas en cinco niveles de valor, con algunos tipos de gemas que tienen valores equivalentes. Estos niveles de valor están determinados por las propiedades del [[Moldear almas\|moldeado de almas]], por lo que, a diferencia de la Tierra, los diamantes, que pueden crear cuarzo, cristal y vidrio, tienen el valor más bajo, y las esmeraldas, que pueden crear grano, tienen el más alto. Las esferas, al igual que todas las gemas de Roshar, tienen la capacidad de contener y filtrar luz tormentosa. Las esferas con luz se denominan infusas y las que no la tienen se denominan opacas. Aunque las esferas opacas pueden usarse como moneda, la gente desconfía de ellas porque la luz es la forma más fácil de determinar que una esfera es real.
+Debido a su capacidad de retener luz tormentosa, las esferas se utilizan comúnmente en Roshar como fuente de luz. La luz de las esferas se considera más estable y consistente que las fuentes de luz tradicionales, como las velas. Sin embargo, puede ser cara, ya que las esferas también se utilizan como moneda, por lo que el uso de esferas como fuente de luz suele ser un signo de riqueza. Los diamantes se consideran la mejor fuente de luz porque es la más barata y la más parecida a la luz natural.
+La utilización de esferas en el este de Roshar es más débil que en el oeste, ya que algunas personas agujerean las esferas para llevarlas con cuerdas o utilizan trozos de gema en su lugar.
+Las cuentas de cristal sin gemas en su interior se denominan 'ends' y se suelen utilizar principalmente en los juegos de azar con apuestas.
 
-### Food and Drink
-A wide variety of alcoholic drinks can be found on Roshar.
+### Comida y bebida
+En Roshar se puede encontrar una gran variedad de bebidas alcohólicas.
 
-#### Wines
- by  Miranda Meeks  Types of Rosharan wine
-Unlike Earth wines, on Roshar the term refers to a number of alcoholic drinks, only a small subset of which are made of fermented fruit. The use of the term "wine" is the result of linguistic shift, much in the same way that all birds became [[Chicken\|chickens]] and all small crustaceans became [[Cremling\|cremlings]]. The alcohols that fall under the term "wine" are categorized by strength and color, with different colors denoting different alcohol content. Additionally, the stronger "wines" are actually distilled spirits.
-In order from weakest to strongest, those are:
+#### Vinos
+  Tipos de vino de Roshar
+A diferencia de los vinos de la Tierra, en Roshar el término se refiere a una serie de bebidas alcohólicas, de las cuales sólo un pequeño subconjunto está hecho de fruta fermentada. El uso del término "vino" es el resultado de un cambio lingüístico, de la misma manera que todos los pájaros se convirtieron en [[Pollo\|pollos]] y todos los pequeños crustáceos se convirtieron en [[Cremlino\|cremlinos]]. Los alcoholes que caen bajo el término "vino" se clasifican por fuerza y color, con diferentes colores que denotan diferentes contenidos de alcohol. Además, los "vinos" más fuertes son en realidad licores destilados.
+En orden de más débil a más fuerte, son:
 
-**Pink**, which typically has a distinct floral taste. It's said to assist alertness. This wine is actually a juice and has no alcoholic content.
-**Orange**, fruity and with notes of ginger, although apparently it's not made of fruit.
-**Yellow**, which has a deep, "bold" taste while being weak enough to drink casually.
-**Auburn**, spicy and with a tasty aroma - this could be closest to Earth's red wine, as it's made of fermented fruit.
-**Red**, said to be "flavourful with a pleasant burn".
-**Sapphire**, with a taste of nuts and honey, made of [[Lavis\|lavis]] grain. It's usually infused, and the closest equivalent to Earth whiskey.
-**Blue**, tasting of berry and lemon.
-**Violet**, the strongest, typically with an aroma of sandalwood.
-Within those colors, a number of different wines exist - for example, among the sapphire varieties are **kimik**, **vari** and **Veden saph**. While generally the wine colors are standardized, they gain their color by intentional colored infusions, and are occasionally made without them.
+**Rosa**, que suele tener un marcado sabor floral. Se dice que ayuda al estado de alerta. Este vino es en realidad un zumo y no tiene contenido alcohólico.
+**Naranja**, afrutado y con notas de jengibre, aunque aparentemente no está hecho de fruta.
+**Amarillo**, que tiene un sabor profundo y "atrevido", aunque es lo suficientemente débil como para beberlo casualmente.
+**Rojizo**, picante y con un sabroso aroma; podría ser el más parecido al vino tinto de la Tierra, ya que está hecho de fruta fermentada.
+**Rojo**, del que se dice que es "sabroso con un agradable ardor".
+**Zafiro**, con sabor a frutos secos y miel, elaborado con grano de [[Lavis\|lavis]]. Suele estar infusionado y es el equivalente más cercano al whisky de la tierra.
+**Azul**, con sabor a bayas y limón.
+**Violeta**, el más fuerte, normalmente con aroma a sándalo.
+Dentro de esos colores, existen varios vinos diferentes (por ejemplo, entre las variedades de zafiro están el **kimik**, el **vari** y el **saf veden**). Aunque generalmente los colores del vino están estandarizados, adquieren su color mediante infusiones de color intencionadas, y en ocasiones se elaboran sin ellas.
 
-#### Other Beverages
- by  Yen Shu Liao  Rosharan drinks
-Apart from wines, Roshar has a number of other alcoholic drinks. Among those is beer, of which the most popular variety appears to be [[Mudbeer\|mudbeer]], often drunk to warm up. Another drink is a liquor called [[Honu\|honu]], which comes in several varieties that differ in strength. Both beer and honu are made from [[Lavis\|lavis]] grain.
-The [[Unkalaki\|Unkalaki]] people have a number of their own alcoholic beverages. This includes a brownish drink called [[Shiki\|shiki]], which has to be chilled overnight, and the infamous Horneater lager, which is far stronger than regular beers, with one bartender claiming it melts their cups. Strongest among the Horneater beverages is the  **Horneater white**. A clear, distilled moonshine, it is the strongest known alcohol on Roshar (with the possible exception of some violet wines). It is known to strip paint, and can apparently be deadly to non-Unkalaki. It is comparable to .
-Other, unspecified alcohols drank across Roshar include a variety of ciders, juices and lagers.
+#### Otras bebidas
+  Bebidas de Roshar
+Además de los vinos, en Roshar existen otras bebidas alcohólicas. Entre ellas se encuentra la cerveza, cuya variedad más popular parece ser la [[Cerveza Terrosa\|cerveza Terrosa]], que a menudo se bebe para entrar en calor. Otra bebida es un licor llamado [[Honu\|honu]], que se presenta en diversas variedades que difieren en su graduación. Tanto la cerveza como el honu se elaboran con grano [[Lavis\|lavis]].
+Los [[Unkalaki\|unkalaki]] tienen sus propias bebidas alcohólicas. Entre ellas se encuentra una bebida de color marrón llamada [[Shiki\|shiki]], que tiene que ser enfriada durante la noche, y la infame cerveza comecuernos, que es mucho más fuerte que las cervezas normales, y de la cual un camarero afirma que derrite sus copas. La más fuerte de las bebidas de los comecuernos es el  **blanco comecuernos**. Se trata de un licor casero destilado, y es el alcohol más fuerte conocido en Roshar (con la posible excepción de algunos vinos violetas). Se sabe que quita la pintura, y aparentemente puede ser mortal para los no Unkalaki. Es comparable al .
+Otros alcoholes no especificados que se beben en Roshar incluyen una variedad de sidras, zumos y cervezas.
 
-#### Drinking Culture
-[[Vorinism\|Vorin]] parties typically involve wine of the weakest colors, watered down to prevent the participants from getting drunk too quickly. Sapphire appears to be the strongest color imbibed casually, and the phrase "to be in (someone)'s violets" refers to a person being heavily, perhaps dangerously drunk.
-Beer and [[Mudbeer\|mudbeer]] are typical casual drinks, commonly served in taverns. Among [[Unkalaki\|Unkalaki]], mudbeer is also used for duels - the winner is decided by who can drink the most without passing out.
-Like most processes on Roshar, the act of drinking has its own dedicated [[Spren\|spren]]. Winespren, or alespren, appear near people who are heavily intoxicated, taking form of small bubbles clinging to nearby objects. They are considered quite rare or even nonexistent, as they require a person to be deeply drunk before they appear, which can also lead to the assumption that an alespren sighting was simply a drunken hallucination; however, both [[Axies\|Axies]] and [[Nazh\|Nazh]] attest to their existence.
+#### Cultura de la bebida
+Las fiestas [[Vorinismo\|vorin]] suelen incluir vino de los colores más débiles y aguado para evitar que los participantes se emborrachen demasiado rápido. El zafiro parece ser el color más fuerte que se bebe casualmente, y la frase "darle al violeta" se refiere a una persona que está muy, quizás peligrosamente, borracha.
+La cerveza y la [[Cerveza Terrosa\|cerveza Terrosa]] son bebidas informales típicas, que se sirven habitualmente en las tabernas. Entre los [[Unkalaki\|Unkalaki]], la cerveza terrosa también se utiliza para los duelos: el ganador se decide por quién puede beber más sin desmayarse.
+Como la mayoría de los procesos en Roshar, el acto de beber tiene sus propios spren específicos. Los vinospren, o [[Spren\|cervespren]], aparecen cerca de las personas que están muy ebrias, tomando la forma de pequeñas burbujas que se aferran a los objetos cercanos. Se consideran bastante raros o incluso inexistentes, ya que requieren que una persona esté muy borracha para que aparezcan, lo que también puede llevar a suponer que un avistamiento de cervespren fue simplemente una alucinación de borracho; sin embargo, tanto [[Axies\|Axies]] como [[Nazh\|Nazh]] dan fe de su existencia.
 
-### Languages
-The languages on Roshar can be grouped into five main language families. The [[Vorin\|Vorin]] language family primarily contains languages spoken in the east. [[Alethi\|Alethi]], [[Veden\|Veden]], and [[Herdazian\|Herdazian]] are the most closely related, with [[Thaylen\|Thaylen]] a bit more distant. [[Natan\|Natan]], another Vorin language, is nearly dead. This family does include some minor languages like [[Bavland\|Bav]]. [[Kharbranthian\|Kharbranthian]] is not considered its own language and is instead a dialect.
-The next language family, [[Makabaki\|Makabaki]], contains around thirty languages, most of which are split off from [[Azish\|Azish]].
-The [[Iri\|Iri]] language family contains Iriali, [[Riran\|Riran]], [[Reshi\|Reshi]], [[Selay\|Selay]] and various [[Purelake\|Purelake]] dialects, and other surrounding languages.
-The Dawnate language family are languages with roots in the [[Dawnchant\|Dawnchant]]. These include [[Shin\|Shin]], [[Listener\|Listener]], and [[Unkalaki\|Unkalaki]]. They share similar grammar, but the vocabulary is quite different.
-The Aimian language family has two very different languages that get lumped together. Presumably the two languages are related to the [[Siah Aimian\|Siah]] and [[Dysian Aimian\|Dysian]] Aimians.
-Spren in Shadesmar speak their own languages, of which we have little information on.
-Rosharan phrases and curses often have distinct connotations specific to Roshar, such as mentioning Stormfather or storms in some way. [[Alethi\|Alethi]] and other [[Vorin\|Vorin]] cultures are also likely to use [[Almighty\|Almighty]] or [[Heralds\|Heralds]] in their phrases, while [[Singer\|Singer]] / [[Listener\|Listener]] phrases would often use rhythms or tones.
+### Idiomas
+Las lenguas de Roshar pueden agruparse en cinco familias lingüísticas principales. La familia lingüística [[Vorin\|vorin]] contiene principalmente las lenguas habladas en el este. El [[Alezkar\|alezi]], el [[Jah Keved\|veden]] y el [[Herdaz\|herdaziano]] son las más afines, mientras que el [[Thaylenah\|thayleño]] está un poco más alejado. El [[Natanatan\|natano]], otra lengua vorin, está casi muerto. Esta familia incluye algunas lenguas menores como el [[Bavlandia\|bav]]. El [[Kharbranthiano\|kharbranthiano]] no se considera una lengua propia, sino un dialecto.
+La siguiente familia lingüística, el [[Makabakam\|makabaki]], contiene una treintena de lenguas, la mayoría de las cuales provienen del [[Azir\|azishano]].
+La familia lingüística [[Iriali\|iriali]] contiene los idiomas hablados en [[Iri\|Iri]], [[Rira\|Rira]], las [[Islas Reshi\|Islas Reshi]], [[Selay\|Selay]] y varios dialectos propios de [[Lagopuro\|Lagopuro]], así como otras lenguas próximas.
+La familia lingüística alborea incluye lenguas con raíces en el [[Canto del alba\|Canto del alba]]. Entre ellas se encuentran el [[Shinovar\|shin]], el [[Oyente\|oyente]] y el [[Unkalaki\|unkalaki]]. Comparten una gramática similar, pero el vocabulario es bastante diferente.
+La familia lingüística aimiana contiene dos lenguas muy diferentes que se agrupan. Es de suponer que las dos lenguas están relacionadas con los [[Siah aimiano\|Siah aimianos]] y los[[Dysian aimiano\|Dysian aimianos]].
+Los spren en Shadesmar hablan sus propios idiomas, de los cuales tenemos muy poca información.
+Las frases y maldiciones rosharianas suelen tener connotaciones específicas del planeta, como mencionar de algún modo al Padre Tormenta o las tormentas. También es probable que los [[Alezi\|alezi]] y otras culturas [[Vorin\|vorin]] utilicen al [[Todopoderoso\|Todopoderoso]] o a los [[Heraldos\|Heraldos]] en sus frases, mientras que las frases [[Cantor\|cantoras]] u [[Oyente\|oyentes]] suelen utilizar ritmos o tonos.
 
-#### Writing
-There are at least three Rosharan writing systems, the Alethi [[Women's script\|Women's script]], [[Thaylen script\|Thaylen script]] and the [[Glyphs\|Glyphs]].
-Vorinism teaches that it is unnatural and not masculine for men to read and write in the Alethi script.
-Although men being able to read Glyphs is permitted, people have a heavy prejudice towards [[Stormwarden\|Stormwardens]], who have adapted glyphs into a full writing system, although this prejudice is largely due to the Vorin teachings about those who claim to see the future.
-[[Glyphs\|Glyphs]] are largely logographic, meaning writing symbols or pictures to convey ideas, rather than an alphabet like The Women's script.
-Thaylen is an abjad, meaning it has little to no written vowels, instead, vowels are inferred. An example of this is the name of the slaver [[Tvlakv\|Tvlakv]].
-Thaylen is typically written vertically, but is sometimes written left to right 
-[[Dalinar\|Dalinar]] describes the Azish writing system as looking like the tracks cremlings make.
+#### Escritura
+Existen al menos tres sistemas de escritura rosharianos, la [[Escritura femenina\|escritura femenina]] alezi, la [[Escritura thayle%C3%B1a\|escritura thayleña]] y los [[Glifos\|glifos]].
+El vorinismo enseña que es antinatural y poco masculino que los hombres lean y escriban escritura alezi.
+Aunque se permite que los hombres sean capaces de leer glifos, la gente tiene un fuerte prejuicio hacia los [[Predicetormentas\|predicetormentas]], que han adaptado los glifos a un sistema de escritura completo, aunque este prejuicio se debe en gran parte a las enseñanzas vorin sobre aquellos que afirman ver el futuro.
+Los [[Glifos\|glifos]] son en gran medida logográficos, es decir, símbolos de escritura o imágenes para transmitir ideas, en lugar de un alfabeto como la escritura femenina.
+La lengua thayleña es un abjad, lo que significa que apenas tiene vocales escritas; en su lugar, las vocales se deducen. Un ejemplo de esto es el nombre del esclavista [[Tvlakv\|Tvlakv]].
+El thayleño se escribe normalmente en vertical, pero a veces se escribe de izquierda a derecha.
+[[Dalinar\|Dalinar]] describe el sistema de escritura azishiano como parecido a las huellas que dejan los cremlinos.
 
-### Singer Society
-For more information about the Singers, see [[Singer\|Singer]].
-Though once the planet's dominant species, in the [[Era of Solitude\|Era of Solitude]], the [[Singer\|singers]] have been subdued by humans. The majority of their species are [[Parshmen\|parshmen]], singers whose [[Identity\|Identity]] and [[Connection\|Connection]] have been stripped from them by the capture of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], rendering them mostly docile and wordlessly obedient. The singer culture of old has only been preserved by the [[Last Legion\|Last Legion]], or listeners, on the [[Shattered Plains\|Shattered Plains]] - the last enclave of non-[[Parshmen\|parshmen]] singers on Roshar - and the [[Fused\|Fused]], spirits of long-dead singers, on [[Braize\|Braize]].
-Among the listeners, the Fused are considered gods - however, they are highly dangerous to interact with, and the listeners fled to what became the [[Shattered Plains\|Shattered Plains]] to escape their influence. In the present day, but prior to the [[Everstorm\|Everstorm]], they were ruled by the Five, a council composed of representatives of each form the listeners could assume. History and knowledge are passed down among them mostly in form of songs, set to the [[Rhythm\|Rhythms]] that all singers can attune to.
-Following the Everstorm, the previously lost Identity and Connection were restored to the parshmen, returning them to full sentience. The listeners, on the other hand, were all but decimated, first by the storm and then by becoming possessed by the Fused, with only a small group escaping west. The current singer culture, such as it is, is mostly based around following the word of the Fused like gospel; however, the former parshmen retain some of the culture of their states of origin - for example, in [[Azir\|Azir]] they attempted to sue the government for backpay, while in [[Thaylenah\|Thaylenah]], they took to the sea.
+### Sociedad cantora
+Para más información sobre los cantores, ver [[Cantor\|cantor]].
+Aunque una vez fueron la especie dominante del planeta, en la [[Era de la Soledad\|Era de la Soledad]], los [[Cantor\|cantores]] han sido sometidos por los humanos. La mayoría de su especie son [[Parshmenios\|parshmenios]], cantores a los que la captura de [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] les ha quitado la [[Identidad\|Identidad]] y la [[Conexi%C3%B3n\|Conexión]], haciéndolos en su mayoría dóciles y mudamente obedientes. La cultura cantora de antaño sólo ha sido preservada por la [[%C3%9Altima Legi%C3%B3n\|Última Legión]], u oyentes, en las [[Llanuras Quebradas\|Llanuras Quebradas]] (el último enclave de cantores no [[Parshmenios\|parshmenios]] en Roshar) y los [[Fusionado\|Fusionados]], espíritus de cantores muertos hace tiempo, en [[Braize\|Braize]].
+Entre los oyentes, los Fusionados son considerados dioses; sin embargo, es muy peligroso interactuar con ellos, y los oyentes huyeron a lo que se convirtió en las [[Llanuras Quebradas\|Llanuras Quebradas]] para escapar de su influencia. En la actualidad, pero antes de la [[Tormenta eterna\|tormenta eterna]], estaban gobernados por los Cinco Sabios, un consejo compuesto por representantes de cada una de las formas que podían adoptar los oyentes. La historia y el conocimiento se transmiten entre ellos sobre todo en forma de canciones, ambientadas en los [[Ritmo\|Ritmos]] a los que todos los cantores pueden armonizar.
+Tras la tormenta eterna, la Identidad y la Conexión perdidas fueron restauradas a los parshmenios, devolviéndoles su plena sensibilidad. Los oyentes, por otro lado, fueron prácticamente diezmados, primero por la tormenta y luego al ser poseídos por los Fusionados, y sólo un pequeño grupo escapó al oeste. La cultura actual de los cantores, tal como es, se basa principalmente en seguir la palabra de los fusionados como si fuera un evangelio; sin embargo, los antiguos parshmenios conservan parte de la cultura de sus estados de origen; por ejemplo, en [[Azir\|Azir]] intentaron demandar al gobierno reclamando pagas retroactivas, mientras que en [[Thaylenah\|Thaylenah]] se hicieron a la mar
 
- by  Isaac Stewart  A map showing some of the spren cities in [[Shadesmar\|Shadesmar]].
-### Spren Society
-Within [[Shadesmar\|Shadesmar]], the sentient [[Spren\|spren]] have their own countries. Among those is a [[Honorspren\|honorspren]] state, with its capital in the city of [[Lasting Integrity\|Lasting Integrity]] and a number of strongholds, as well as a [[Highspren\|Highspren]] country, and a city-state of the [[Cryptic\|Cryptics]]. There are also free cities, such as [[Celebrant\|Celebrant]], where various spren intermingle. This includes [[Cultivationspren\|cultivationspren]], which, though ruled by a council called the [[Ring\|Ring]], do not have holdings of their own. However, even the "ethnic" spren states do not appear to be strictly isolationist - for example, honorspren military ships are partially crewed by mistspren.
-As the inversion of the [[Physical Realm\|Physical Realm]] and its supercontinent, Shadesmar is mostly composed of the sea of beads, with a number of narrow peninsulas and islands corresponding to Physical rivers and lakes. As such, travel is done mostly by boat. Merchant and military ships, pulled by teams of harnessed [[Mandra\|mandras]], traverse the vast spaces between the cities, ferrying goods, news and travellers. Trade with lands outside of Roshar isn't unusual - in Celebrant, one may buy canned food (presumably from [[Scadrial\|Scadrial]] or some [[Worldhopper\|worldhopper]] settlement) and [[Nalthis\|Nalthian]] artwork. The price of various items is largely based on their permanence in the Cognitive Realm, with the most persistent objects selling for thousands of broams.
-The relationship between various spren kinds appears to have its own share of political turmoil. Several years prior to the [[Everstorm\|Everstorm]], the honorspren tried and failed to conquer the rest of Shadesmar, making the other spren unfriendly towards them. By contrast, Cryptics are generally understood to be unwilling to expand beyond their city; however, they are also widely considered to be uncomfortable company.
-After the events of the [[Recreance\|Recreance]], spren have mixed opinions of humans. [[Reachers\|Reachers]], [[Inkspren\|inkspren]], and older honorspren are generally opposed to any attempt to restore contact, while cultivationspren, Cryptics, and younger honorspren are supportive of new [[Nahel bond\|Nahel bonds]], albeit cautiously so.
+  Mapa que muestra algunas de las ciudades spren en <<Shadesmar\|Shadesmar>>.
+### Sociedad spren
+Dentro de [[Shadesmar\|Shadesmar]], los [[Spren\|spren]] sintientes tienen sus propios países. Entre ellos hay un estado [[Honorspren\|honorspren]], con su capital en la ciudad de [[Integridad Duradera\|Integridad Duradera]] y una serie de fortalezas, así como un país de [[Altospren\|altospren]] y una ciudad-estado de los [[Cr%C3%ADptico\|crípticos]]. También hay ciudades libres, como [[Celebrant\|Celebrant]], donde se mezclan varios spren. Esto incluye a los [[Cultivacispren\|cultivacispren]], que, aunque están gobernados por un consejo llamado [[El Anillo\|el Anillo]], no tienen posesiones propias. Sin embargo, incluso los estados spren "étnicos" no parecen ser estrictamente aislacionistas: por ejemplo, los barcos militares honorspren están parcialmente tripulados por [[Brumaspren\|brumaspren]].
+Al ser la inversión del [[Reino F%C3%ADsico\|Reino Físico]] y su supercontinente, Shadesmar se compone en su mayor parte de un mar de cuentas, con una serie de estrechas penínsulas e islas que corresponden a los ríos y lagos físicos. Como tal, los viajes se realizan principalmente en barco. Los barcos mercantes y militares, tirados por equipos de [[Mandra\|mandras]] provistos de arneses, atraviesan los vastos espacios entre las ciudades, transportando mercancías, noticias y viajeros. El comercio con tierras de fuera de Roshar no es inusual: en Celebrant se puede comprar comida enlatada (presumiblemente de [[Scadrial\|Scadrial]] o de algún asentamiento [[Saltamundos\|saltamundos]]) y obras de arte de [[Nalthis\|Nalthis]]. El precio de los variados artículos se basa en gran medida en su permanencia en el Reino Cognitivo, con los objetos más persistentes vendiéndose por miles de broams.
+La relación entre los distintos tipos de spren parece tener su propia dosis de agitación política. Varios años antes de la [[Tormenta eterna\|tormenta eterna]], los honorspren fracasaron en su intento de conquistar el resto de Shadesmar, lo que hizo que los demás spren se mostraran poco amistosos con ellos. Por el contrario, se entiende que los crípticos no están dispuestos a expandirse más allá de su ciudad; sin embargo, también se considera que son una compañía incómoda.
+Tras los acontecimientos de la [[Traici%C3%B3n\|Traición]], los spren tienen opiniones encontradas sobre los humanos. Los [[Alcanzadores\|alcanzadores]], los [[Tintaspren\|tintaspren]] y los honorspren más antiguos se oponen en general a cualquier intento de restablecer el contacto, mientras que los cultivacispren, los crípticos y los honorspren más jóvenes apoyan los nuevos [[V%C3%ADnculo Nahel\|vínculos Nahel]], aunque con cautela.
 
-### Secret Organizations
-There are many secret organizations on Roshar, potentially nine. These include worldhopping organizations with a strong presence on Roshar, such as the [[Ghostbloods\|Ghostbloods]], the [[Ire\|Ire]], the [[Seventeenth Shard\|Seventeenth Shard]], and the [[Sleepless\|Sleepless]]; as well as strictly Rosharan organizations such as the [[Skybreakers\|Skybreakers]], the [[Sons of Honor\|Sons of Honor]], the [[Diagram (group)\|Diagram]], and the [[Envisagers\|Envisagers]].
-The Ire are a [[Selish\|Selish]] group with unknown motivations, although they sell things on Roshar. The Ghostbloods are a group led by [[Thaidakar\|Thaidakar]] who are trying to establish an Investiture monopoly by using the [[Oathgates\|Oathgates]] and Stormlight. The Seventeeth Shard is an anti-interventionist worldhopping organization. Meanwhile, the Sleepless on Roshar are focused on protecting the Dawnshard underneath Akinah.
-As for the Rosharan organizations, most of them have goals that in some way relate to [[Surgebinder\|Surgebinders]] and/or the True Desolation. For example, the Sons of Honor want to start the True Desolation to bring back the Heralds, while their splinter group the Envisagers want to bring back Surgebinders. Counter to that, the Skybreakers want to kill the Radiants in order to stop the True Desolation. The Diagram focuses on saving people from what they see as the inevitable True Desolation.
+### Organizaciones secretas
+Hay muchas organizaciones secretas en Roshar, potencialmente nueve. Entre ellas se encuentran organizaciones de saltamundos con una fuerte presencia en Roshar, como los [[Sangre Espectral\|Sangre Espectral]], los [[Ire\|Ire]], la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]], y los [[Insomne\|Insomnes]], así como organizaciones estrictamente rosharianas como los [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]], los [[Hijos de Honor\|Hijos de Honor]], el [[Diagrama (grupo)\|Diagrama]] y los [[Vislumbradores\|Vislumbradores]].
+Los Ire son un grupo de [[Sel\|Sel]] con motivaciones desconocidas, aunque venden cosas en Roshar. Los Sangre Espectral son un grupo liderado por [[Thaidakar\|Thaidakar]] que intenta establecer un monopolio de la Investidura utilizando las [[Puerta Jurada\|Puertas Juradas]] y la luz tormentosa. La Decimoséptima Esquirla es una organización anti-intervencionista de saltamundos. Mientras tanto, los Insomnes en Roshar se centran en proteger la Esquirla del Amanecer localizada bajo Akinah.
+En cuanto a las organizaciones rosharianas, la mayoría de ellas tienen objetivos relacionados de alguna manera con los [[Potenciaci%C3%B3n\|potenciadores]] y/o la Verdadera Desolación. Por ejemplo, los Hijos de Honor quieren iniciar la Verdadera Desolación para traer de vuelta a los Heraldos, mientras que el grupo que se escindió de ellos, los Vislumbradores, quieren traer de vuelta a los potenciadores. En contraposición, los Rompedores del Cielo quieren matar a los Radiantes para detener la Auténtica Desolación. El Diagrama se centra en salvar a la gente de lo que consideran la inevitable Auténtica Desolación.
 
-### Prejudices
-Rosharans would be distrustful of albinos, partially due to their reddish eyes.
+### Prejuicios
+Los habitantes de Roshar desconfiarían de los albinos, en parte debido a sus ojos rojizos.
 
-## Planetary System
- by [[Isaac Stewart\|Isaac Stewart]] Roshar and its surrounding celestial bodies
-For more information, see [[Rosharan system\|Rosharan system]].
-Roshar is the second planet from its sun. It has several notable heavenly bodies, including three moons. The first and smallest moon is violet **Salas**. The middle moon is **Nomon**, which is a bright, pale blue. The final moon is **Mishim**, which is smaller than Nomon and green. The Shin refer to the moons as the Three Sisters, and call each moon by its order, with Salas being the First Sister, Nomon the Second Sister and Mishim the Third Sister, while in [[Natanatan\|Natanatan]], Nomon is considered to be male. The [[Singer\|singers]] call Nomon Honor's Moon. All three moons rise and fall in the same order every night and have highly unstable orbits on an astronomical timescale, suggesting they were placed artificially. They complete two orbits per day. These moons are relatively small, comparable to  (about 11 kilometers in radius). They orbit relatively close to the surface, and during the night they come closer than their geosynchronous orbit altitude.
-Other notable features of Rosharan sky are [[Taln's Scar\|Taln's Scar]] and [[Tear\|Reya's Tear]]. The Scar is a great swath of red stars that stand out against the white ones. It is important in Rosharan astrology, particularly its position on one's seventh birthday. The [[Tear\|Tear]] is a particularly bright star, named after a single tear shed by a woman named [[Reya\|Reya]] from Rosharan mythology.
-There are two other telluric planets in the [[Rosharan system\|Rosharan system]]: [[Braize\|Braize]] and [[Ashyn\|Ashyn]]. Both of them are currently inhabited. The remaining celestial bodies in the system are ten gas giants, named after Vorin numerals, which are separated from the telluric planets by an asteroid belt.
+## Sistema planetario
+  Roshar y los cuerpos celestes circundantes
+Para más información, ver [[Sistema roshariano\|Sistema roshariano]].
+Roshar es el segundo planeta desde su sol. Tiene varios cuerpos celestes notables, entre ellos tres lunas. La primera y más pequeña es **Salas**, de color violeta. La luna del medio es **Nomon**, de color azul pálido y brillante. La última luna es **Mishim**, más pequeña que Nomon y de color verde. Los shin se refieren a las lunas como las Tres Hermanas, y llaman a cada luna por su orden, siendo Salas la Primera Hermana, Nomon la Segunda Hermana y Mishim la Tercera Hermana, mientras que en [[Natanatan\|Natanatan]] se considera que Nomon es masculino. Los [[Cantor\|cantores]] llaman a Nomon Luna de Honor. LLas tres lunas se elevan y descienden en el mismo orden cada noche y tienen órbitas muy inestables en una escala de tiempo astronómica, lo que sugiere que fueron colocadas artificialmente. También completan dos órbitas al día. Estas lunas son relativamente pequeñas, comparables a  (unos 11 kilómetros de radio). Orbitan relativamente cerca de la superficie, y durante la noche se acercan más que la altitud de su órbita geosíncrona.
+Otras características notables del cielo roshariano son la [[Cicatriz de Taln\|Cicatriz de Taln]] y la [[L%C3%A1grima\|Lágrima de Reya]]. La Cicatriz es una gran franja de estrellas rojas que destacan sobre las blancas. Es importante en la astrología roshariana, especialmente su posición en el séptimo cumpleaños de una persona. La [[L%C3%A1grima\|Lágrima]] es una estrella especialmente brillante, llamada así por una única lágrima derramada por una mujer de la mitología roshariana llamada [[Reya\|Reya]].
+Hay otros dos planetas telúricos en el [[Sistema roshariano\|sistema roshariano]]: [[Braize\|Braize]] y [[Ashyn\|Ashyn]]. Ambos están actualmente habitados. Los restantes cuerpos celestes del sistema son diez gigantes gaseosos, con nombres de números vorin, que están separados de los planetas telúricos por un cinturón de asteroides.
 
-## Trivia
-Although the word "dozen" is often used in the [[The Stormlight Archive\|The Stormlight Archive]], Rosharans actually would say tens instead and Brandon just translated "tens" into "dozens" to make the book easier to read.
-There is no chocolate on Roshar.
-Roshar is of interest to several powers in the cosmere, as it is a world where pure Investiture is incredibly easy to come by.
-At least one Rosharan obscene gesture requires two hands, one representing a man and one representing a woman.
+## Curiosidades
+Aunque en [[El archivo de las tormentas\|El archivo de las tormentas]] se utiliza a menudo la palabra "docena", los rosharianos dirían en realidad decenas y Brandon se limitó a traducir "decenas" por "docenas" para facilitar la lectura del libro.
+No hay chocolate en Roshar.
+Roshar es de interés para varias fuerzas del Cosmere, ya que es un mundo en el que la Investidura pura es increíblemente fácil de conseguir.
+Al menos un gesto obsceno roshariano requiere el uso de las dos manos, una representando a un hombre y otra representando a una mujer.
 
 
-https://coppermind.net/wiki/Nomon
+## Notas del traductor
+
+## Notas
+
+
+
+
+
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (****)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] ·  · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Roshar

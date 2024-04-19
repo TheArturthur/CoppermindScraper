@@ -1,146 +1,158 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Hrathen**|
 |-|-|
-|by  botanicaxu |
-|**Died**|[[Battle of Teoras\|Battle of Teoras]]|
-|**Abilities**|[[Dakhor\|Dakhor]]|
-|**Bonded With**|[[Hrathen's seon\|Hrathen's seon]]|
-|**Profession**|[[Derethi\|Derethi]] [[Gyorn\|Gyorn]]|
-|**Nationality**|[[Fjordell\|Fjordell]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Elantris*|
+||
+|**Fallecido**|[[Batalla de Teoras\|Batalla de Teoras]]|
+|**Capacidades**|[[Dakhor\|Dakhor]]|
+|**Vinculado con**|[[Seon de Hrathen\|Seon de Hrathen]]|
+|**Oficio**|[[Derethi\|Derethi]] [[Gyorn\|Gyorn]]|
+|**Nacionalidad**|[[De Fjorden\|de Fjorden]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Someday they would call him their savior.*”
+>“*Algún día lo llamarían su salvador.*”
 \-Hrathen[2]
 
 
-**Hrathen** is a high priest of [[Shu-Dereth\|Shu-Dereth]] and an accomplished statesman on [[Sel\|Sel]]. He is forty-two years old when he enters [[Arelon\|Arelon]].
-For most of his life, he is a devout follower of the Derethi religion, although his devotion is more a product of logic than of faith.
-Hrathen is a graduate of [[Ghajan Monastery\|Ghajan Monastery]] and rises quickly in the ranks of the priesthood. His talent for public speaking makes him an invaluable tool of [[Wyrn (title)\|Wyrn]] [[Wulfden the Fourth\|Wulfden the Fourth]] in his attempt to conquer the world through the spread of the Derethi religion. Hrathen's particular talent lies in destroying the kingdoms of those who do not convert, and he has a hand in both the destruction of the [[Duladel Republic\|Duladel Republic]] and the simultaneous invasion of [[Arelon\|Arelon]] and [[Teod\|Teod]]. During the invasion of Teod, he comes to a full awareness of Wyrn's corruption of Shu-Dereth and is instrumental in stopping the complete destruction of both kingdoms. Unfortunately, his efforts to save Princess [[Sarene\|Sarene]] result in his death at the hands of [[Dilaf\|Dilaf]] and [[Fjon\|Fjon]]. For his efforts, he is buried with the rest of the heroes of the battle just outside of [[Elantris (city)\|Elantris]].
+**Hrathen** es un sumo sacerdote del [[Shu-Dereth\|Shu-Dereth]] y un consumado político de [[Sel\|Sel]]. Tiene cuarenta y dos años cuando llega a [[Arelon\|Arelon]].
+Durante la mayor parte de su vida, ha sido un devoto seguidor de la religión derethi, aunque su devoción es más producto de la lógica que de la fe.
+Hrathen es un graduado del [[Monasterio de Ghajan\|monasterio de Ghajan]] y asciende rápidamente en la jerarquía del sacerdocio. Su talento para hablar en público lo convierte en una herramienta inestimable de [[Wyrn (t%C3%ADtulo)\|Wyrn]] [[Wulfden IV\|Wulfden IV]] en su intento de conquistar el mundo mediante la difusión de la religión derethi. El talento particular de Hrathen reside en destruir los reinos de aquellos que no se convierten, y participa tanto en la destrucción de la [[Rep%C3%BAblica de Duladel\|República de Duladel]] como en la invasión simultánea de [[Arelon\|Arelon]] y [[Teod\|Teod]]. Durante la invasión de esta última, llega a ser plenamente consciente de la corrupción del Shu-Dereth por parte del Wyrn y contribuye decisivamente a detener la destrucción total de ambos reinos. Por desgracia, sus esfuerzos por salvar a la princesa [[Sarene\|Sarene]] acaban con su muerte a manos de [[Dilaf\|Dilaf]] y [[Fjon\|Fjon]]. Por sus esfuerzos, es enterrado con el resto de los héroes de la batalla a las afueras de [[Elantris (ciudad)\|Elantris]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes & Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Early life
-3.2 Dakhor Monastery
-3.3 Ghajan Monastery
-3.4 Conversion of Duladel
-3.5 Conversion of Arelon
-3.6 Invasion of Arelon
-3.7 Battle of Teoras
-3.8 Legacy
-
-
-4 Relationships
-
-4.1 Sarene
+3. [[#Vida temprana]] 
+3. [[#Monasterio Dakhor]] 
+3. [[#Monasterio de Ghajan]] 
+3. [[#Conversi.C3.B3n de Duladel]] 
+3. [[#Conversi.C3.B3n of Arelon]] 
+3. [[#Invasi.C3.B3n de Arelon]] 
+3. [[#Batalla de Teoras]] 
+3. [[#Legado]] 
 
 
-5 Quotes
-6 Trivia
-7 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Sarene]] 
 
 
-## Appearance and Personality
- by  Egilde Art 
-For more images, see [[Hrathen/Gallery\|/Gallery]].
->“*I still believe Dereth's teachings. My problem is with Wyrn, not God.*”
+5 Citas. [[#Citas]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Hrathen/Galer%C3%ADa\|/Galería]].
+>“*Sigo creyendo en las enseñanzas de Dereth. Mi conflicto es con el Wyrn, no con Dios.*”
 \-Hrathen[1]
 
 
-Hrathen is a tall man with a broad chest and dark hair. In public, he always wears full blood-red armor and a blood-red cape. In private, he often omits these and instead wears a red robe. He describes himself as a man of logic, organization, and attention to detail. He is a devout follower of the Shu-Dereth but is not a blind zealot; his faith stems from the fact that that religion makes sense to him.
+Hrathen es un hombre alto, de pecho ancho y pelo oscuro. En público, siempre lleva una armadura y una capa de color rojo sangre. En privado, a menudo los omite y en su lugar lleva una túnica roja. Se describe a sí mismo como un hombre lógico, organizado y atento a los detalles. Es un devoto seguidor del Shu-Dereth, pero no es un fanático ciego; su fe proviene del hecho de que esa religión tiene sentido para él.
 
-## Attributes & Abilities
-Due to his training in various monasteries, Hrathen is a skilled unarmed combatant, capable of disarming a seasoned soldier and disabling several attackers with ease. He is also quite skilled with a sword, using it to fend off several Dakhor monks. His official gyorn's set of full plate armor, unlike that of many of his colleagues, was fully functional, and since he wore it at all times he was in public--most of his waking hours--he was in excellent physical condition.
-Hrathen is also a talented speaker and strategist, capable of winning people to his cause and accurately predicting his opponents’ motives and creating potent counters to such moves.
-Hrathen's only power linked to the Dor is a bone in his forearm, the only remnant of being trained at the Dakhor monastery, although the abilities of this bone are not extensively revealed, it presumably grants him strength, as he was able to break the neck of a full Dakhor monk with this arm. Like all Dakhor changed bones his arm is practically indestructible. Due to Hrathen’s place as Derethi Gyorn he received a  from Wyrn. He rarely uses this Seon however, believing it to be heathen.
+## Atributos y habilidades
+Debido a su formación en varios monasterios, Hrathen es un hábil combatiente sin armas, capaz de desarmar a un soldado experimentado y de incapacitar a varios atacantes con facilidad. También es bastante hábil con la espada, con la que se defendió de varios monjes dakhor. Su armadura oficial de gyorn, a diferencia de la de muchos de sus colegas, era completamente funcional, y puesto que la llevaba siempre que estaba en público -la mayor parte de sus horas de vigilia-, estaba en excelente condición física.
+Hrathen también es un orador y estratega de talento, capaz de ganarse a la gente para su causa y de predecir con precisión los motivos de sus oponentes y crear potentes contraataques a esas maniobras.
+El único poder de Hrathen vinculado al Dor es un hueso en su antebrazo, el único vestigio de haber sido formado en el monasterio de Dakhor, aunque las habilidades de este hueso no se revelan ampliamente, se demostró que era prácticamente indestructible y le otorgó la fuerza para romper el cuello de un monje dakhor completo.
 
-## History
-### Early life
-Little is known of Hrathen's youth. He was a citizen of Fjordell, and from a young age was determined to enter the priesthood. While still a boy, he appeared to have an intense ardor for Shu-Dereth. This passion would define the rest of his life, although it would be extinguished in his first experience at a monastery.
+## Historia
+### Vida temprana
+Poco se sabe de la juventud de Hrathen. Era ciudadano de Fjordell, y desde muy joven estaba decidido a ingresar en el sacerdocio. Siendo aún un niño, parecía sentir un intenso fervor por el Shu-Dereth. Esta pasión definiría el resto de su vida, aunque se apagaría en su primera experiencia en un monasterio.
 
-### Dakhor Monastery
-[[Dakhor\|Dakhor]] monastery was the most elite of Fjordell's Derethi monasteries. Hrathen proved both his talent and devotion by being accepted into its ranks. However, the experience there was not the one he had expected.
-The priests of Dakhor wielded a power not unlike that of the Elantrians, though the monk's powers were much more adapted to battle. The most remarkable difference, however, was in the requirements to gain powers.
-Where the Elantrians gained their powers in a seemingly random fashion, the priests of Dakhor used human sacrifices and strange rites to alter themselves. For some powers, such as the ability to travel great distances instantaneously, a secondary sacrifice was necessary to activate the power. In many ways, their powers are similar to [[Hemalurgy\|Hemalurgy]].
-Hrathen weathered the early stages of the training with mixed success. He was able to complete the beginning stages of the transformation -- a reshaping of the bones in his right forearm. The exact powers that this bestowed are unknown, though it seems likely that it enhanced his physical capabilites, given the prowess he demonstrated later in life. His time there deeply scarred his psyche, however, and when Dilaf, the [[Gragdet\|gragdet]] of the monastery, sacrificed a monk to transport himself a short distance, Hrathen left Dakhor.
+### Monasterio Dakhor
+El [[Monasterio Dakhor\|monasterio Dakhor]] era el más elitista de los monasterios derethi de Fjordell. Hrathen demostró tanto su talento como su devoción al ser aceptado en sus filas. Sin embargo, la experiencia allí no fue la que él esperaba.
+Los sacerdotes dakhor ejercían un poder no muy diferente al de los elantrinos, aunque los poderes de los monjes estaban mucho más adaptados a la batalla. Sin embargo, la diferencia más notable radicaba en los requisitos para obtener poderes.
+Mientras que los elantrinos obtenían sus poderes de forma aparentemente aleatoria, los sacerdotes utilizaban sacrificios humanos y extraños ritos para transformarse. Para algunos poderes, como la capacidad de viajar grandes distancias instantáneamente, era necesario un sacrificio secundario para activar el poder. En muchos aspectos, sus poderes son similares a los de la [[Hemalurgia\|hemalurgia]].
+Hrathen superó las primeras fases del entrenamiento con éxito desigual. Fue capaz de completar las primeras fases de la transformación: una remodelación de los huesos de su antebrazo derecho.  Se desconocen los poderes exactos que esto le confirió, aunque parece probable que mejorara sus capacidades físicas, dada la destreza que demostró más tarde en su vida. Sin embargo, su estancia allí marcó profundamente su psique, y cuando Dilaf, el [[Gragdet\|gragdet]] del monasterio, sacrificó a un monje para transportarse una corta distancia, Hrathen abandonó el dakhor.
 
- by  Shuravf 
-### Ghajan Monastery
-After leaving Dakhor Monastery, Hrathen was still resolved to progress in the priesthood. Accordingly, he went to Ghajan Monastery to finish his training as a Derethi priest. Not one of the three specialized monasteries, his training there was a combination of religious instruction and military training. Hrathen excelled at both disciplines, and rose quickly in the ranks of the priesthood. In a relatively short period of time, he ascended to the rank of gyorn. As a gyorn, he was one of a group of twenty men that stood nearly at the top of the religious hierarchy of Shu-Dereth. Only the leaders of monasteries and Wyrn, considered the voice of God, stood higher than Hrathen, and neither was often a presence in Hrathen's day-to-day actions.
+ 
+### Monasterio de Ghajan
+Tras abandonar el monasterio Dakhor, Hrathen seguía decidido a progresar en el sacerdocio. En consecuencia, se dirigió al monasterio de Ghajan para terminar de formarse como sacerdote derethi. Al no ser uno de los tres monasterios especializados, su formación allí fue una combinación de instrucción religiosa y entrenamiento militar. Hrathen destacó en ambas disciplinas y ascendió rápidamente en las filas del sacerdocio. En relativamente poco tiempo, ascendió al rango de gyorn. En su calidad de gyorn, formaba parte de un grupo de veinte hombres que se situaban casi en la cima de la jerarquía religiosa del Shu-Dereth. Sólo los líderes de los monasterios y el Wyrn, considerado la voz de Dios, estaban por encima de Hrathen, y ninguno de ellos estaba presente a menudo en las acciones cotidianas de Hrathen.
 
-### Conversion of Duladel
-Soon after rising to the rank of gyorn, Hrathen convinced Wyrn to send him on a mission to convert the Duladel Republic. At the time, Duladel was a republic not unlike the Roman republic--a relatively small, aristocratic republican class, and a much larger group of ordinary citizens. The Duladel Republic was also the home and only major representation of [[Jesker\|Jesker]], a naturalistic religion that taught of a powerful, natural force. The strict definition of conversion would have required the conversion of most of the republican class to Shu-Dereth, but Shu-Dereth's strictly ordered power structure would not have worked well with the republican political philosophy.
-Understanding this, Hrathen moved in with the intent of overthrowing the government of the Duladel Republic. He was soon able to establish a large following, thanks to his training and natural skill as an orator. Hrathen's intent seems to have been limited to establishing a king with Derethi sympathies, but in the process of instigating a rebellion, he accidentally threw the country into a bloody and prolonged civil war. His training was such that he could not fail to use the opportunity to firmly ensconce Shu-Dereth in the resulting kingdom, but he regretted the bloodshed he caused there for the rest of his life. Ultimately, his failure to protect the people of Duladel, more than any other event, would shape his reaction to Wyrn's planned destruction of Arelon and Teod.
+### Conversión de Duladel
+Poco después de ascender al rango de gyorn, Hrathen convenció a Wyrn para que le enviara en misión a convertir la República de Duladel. En aquella época, Duladel era una república no muy diferente de la romana: una clase aristocrática republicana relativamente pequeña y un grupo mucho mayor de ciudadanos corrientes. La República de Duladel era también el hogar y la única representación importante de [[Jesker\|Jesker]], una religión naturalista que enseñaba la existencia de una poderosa fuerza natural. La definición estricta de conversión habría requerido la adhesión de la mayoría de la clase republicana al Shu-Dereth, pero la estructura de poder estrictamente ordenada de éste no habría funcionado bien con la filosofía política republicana.
+Comprendiendo esto, Hrathen se trasladó con la intención de derrocar al gobierno de la República de Duladel. Pronto consiguió hacerse con un gran número de seguidores, gracias a su formación y a su habilidad natural como orador. La intención de Hrathen parece haberse limitado a establecer un rey con simpatías derethi, pero en el proceso de instigar una rebelión, lanzó accidentalmente al país a una sangrienta y prolongada guerra civil. Su formación le permitió aprovechar la oportunidad para afianzar al Shu-Dereth en el reino resultante, pero lamentó el derramamiento de sangre que provocó durante el resto de su vida. En última instancia, su fracaso a la hora de proteger al pueblo de Duladel, más que cualquier otro suceso, determinaría su reacción ante la destrucción de Arelon y Teod planeada por el Wyrn.
 
-### Conversion of Arelon
-Wyrn himself ordered Hrathen to convert Arelon to Shu-Dereth, and gave Hrathen a deadline of three months before the Fjordell Empire would invade.
-Arriving in Arelon, Hrathen assumed control as the head of the Derethi religion there, dismissing [[Fjon\|Fjon]] - the previous leader - and suggesting he would find renewed faith and purpose back in Fjordell. He saw the zealousness of Arteth [[Dilaf\|Dilaf]] and hoped to make use of it, viewing his ardour as something dangerous if left unmonitored. He proceeded to make Dilaf his odiv.
+### Conversión of Arelon
+El propio Wyrn ordenó a Hrathen que convirtiera a Arelon al Shu-Dereth, y dio a Hrathen un plazo de tres meses antes de que el imperio Fjordell lo invadiera.
+Al llegar a Arelon, Hrathen asumió el control como jefe de la religión derethi allí, despidiendo a [[Fjon\|Fjon]] - el anterior líder- y sugiriendo que encontraría una fe y un propósito renovados de vuelta en Fjordell. Vió el celo del arteth [[Dilaf\|Dilaf]] y esperaba aprovecharlo, viendo su fervor como algo peligroso si no se controlaba. Procedió a hacer de Dilaf su odiv.
 
- by  ShiroXIX  Meeting [[Sarene\|Sarene]]
-He conducted sermons denouncing the Elantrians as unholy demons, “Svrakiss” damned by Jaddeth. His intention was to unite the people in their hatred for Elantrians and use that to convert them. He began preaching atop the Elantrian wall, where he first encountered [[Sarene\|Sarene]]. Pretending to be ignorant, she asked difficult questions that derailed his sermon. Rather than be annoyed he was actually very impressed by her shrewdness and felt invgorated by the promise of a worthy opponent.
-Despite his humiliation, several of the nobles still agreed to attend his private meeting where he offered them vague promises of power from Fjordell should they convert to Shu-Dereth. The most powerful noble among them, Duke [[Telrii\|Telrii]], he met in private to offer the chance to be King of Arelon.
-Wishing to closer inspect the Elantrians, he bribed the captain of the guard at the Elantrian wall to bring him an Elantrian. He questioned the Elantrian and decided that he couldn't allow the populace to actually get close to the Elantrians and see how mundane they really were. He ordered for the Elantrian to be put back into Elantris but Dilaf instead tortured the Elantrian to madness and tried to burn it alive during one of Hrathen's sermons. Fearing retribution from Iadon, Hrathen interrupted the sermon, swayed the audience to his side and burnt the Elantrian to death later in private to end its suffering.
-At this point Hrathen began to truly question his faith. He saw his way of doing things was based entirely on cold, calculating logic whilst Dilaf had burning passion. Envious of Dilaf's speeches being more successful than his own as they connected to the hearts of the people better. In the end his attempts to make Arelenes fear and hate Elantrians was foiled by Sarene, who performed charity work in Elantris to prove they were harmless and pitiful. Hrathen accepted the Arelenes would not hate what they pitied and abandoned this plan.
-Hrathen suffered constant guilt over the violent uprising in Duladel and fought against Dilaf's more aggressive attempts to spread hatred, hoping to convert Arelon as bloodlessly as possible.
-Instead, he focused on making Telrii the new king of Arelon, then pay him to convert to Shu-Dereth and hope the rest of Arelon would follow. He had Fjordell forces attack Iadon's ships, crushing his income which would make him too weak to be the ruler in the eyes of the economically-centric nobility of Arelon, whilst simultaneously offering Telrii easy deals in Fjordell to boost his profits above Iadon's. However, this was also foiled when Sarene arrange a contract between Iadon and [[Teod\|Teod]] to secure the king's finances.
-Defeated once again, a shipment of potions he ordered from [[Forton\|Forton]] arrived. Hrathen drank one and it simulated the affects of the [[Shaod\|Shaod]], making Hrathen look like an Elantrian. For five days he was thrown into Elantris until the potion wore off and he was returned to normal. He returned to Kae, announcing that it was a miracle caused by Jaddeth, increasing the number of Shu-Dereth followers in Arelon.
-Following his release he learned Sarene had accidentally stumbled upon Iadon committing ritual sacrafice for the [[Jeskeri Mysteries\|Jeskeri Mysteries]], leading to the king's arrest and eventual suicide. Now that Arelon required a new king, Hrathen plotted once again to put Telrii on the throne. He became aware of Sarene's plan to marry Duke [[Roial\|Roial]], combine their wealth and announce Roial as king. To prevent this, Hrathen had a Derethi assassin take one of Forton's potions and slip it to the princess before her wedding. When Sarene lifted her veil at the wedding, she appeared to have become an Elantrian and was thrown into Elantris. Over the next five days, Telrii consolidated power and was coronated King of Arelon.
-Whilst satisfied with Sarene's removal he hoped she came to no harm and knew that the potion would be temporary. During her internment in Elantris, he contacted her father - King [[Eventeo\|Eventeo]] of Teod - and claimed he could heal Sarene if Eventeo swore an oath to convert to Shu-Dereth. The king did and when the potion wore off, Sarene was released from Elantris and distraught to realise her father's decision. Hrathen tried to shake her hand as a sign of respect for her cunning but his ultimate victory but she was confused and repulsed by him. Eondel drew his sword and held it at Hrathen's throat to make him back off. Hrathen effortlessly disarmed the elderly general but decided it best to leave.
-Hrathen's plan was coming together but he forgot to account for the foolishness of King Telrii; he refused to convert unless Wyrn paid exponential amounts of money and he had Duke Roial killed. Eondel, his sense of honor dictating that Roial must be avenged, stormed the palace with his legion of soldiers and died killing Duke Telrii. Hrathen was witness to this and realised once again he had gone with the logical approach, not caring about actually converting Telrii's soul to Shu-Dereth and only caring pragmatically about bribing him enough to say he did, blaming his defeat on this.
-Hrathen was present at Raoden's coronation and was disgusted when the Arelene nobility still accepted him as king after he was revealed to be an Elantrian, realising if he had continued his plan to make the Arlenes hate Elantrians this never would have happened.
-At this point he learnt Dilaf was actually a Dakhor monk and that several of them had infiltrated Kae. Dilaf revealed that Wyrn never wanted Hrathen to succeed, instead sending him in as a distraction. Their enemies spent so much time focused on Hrathen and foiling his schemes to convert Arelon they did not notice the monks preparing to commit genocide, wiping out the people of Arelon and Teod to prevent any more dissent from Shu-Dereth and stopping anyone else from becoming an Elantrian. Hrathen was horrified at this, having wanted to save souls, not cause a massacre. But before he could take any action, the monks began the [[Invasion of Arelon\|invasion of Arelon]].
+  Conociendo a <<Sarene\|Sarene>>
+Dirigía sermones denunciando a los elantrinos como demonios impíos, "svrakiss" condenados por Jaddeth. Su intención era unir al pueblo en su odio hacia los elantrinos y utilizarlo para convertirlos. Comenzó a predicar en lo alto de la muralla elantrina, donde se encontró por primera vez con [[Sarene\|Sarene]]. Fingiendo ser una ignorante, le hizo preguntas difíciles que desbarataron su sermón. En lugar de enfadarse, se sintió impresionado por su astucia y se sintió fortalecido por la promesa de un digno oponente.
+A pesar de su humillación, varios de los nobles aceptaron asistir a su reunión privada, donde les ofreció vagas promesas de poder de Fjordell si se convertían al Shu-Dereth. Con el noble más poderoso de ellos, el duque [[Telrii\|Telrii]], se reunió en privado para ofrecerle la oportunidad de ser rey de Arelon.
+Deseoso de inspeccionar más de cerca a los elantrinos, sobornó al capitán de la guardia de la muralla elantrina para que le trajera un elantrino. Lo interrogó y decidió que no podía permitir que la población se acercara a los elantrinos y viera lo mundanos que eran en realidad. Ordenó que este fuera devuelto a Elantris, pero Dilaf lo torturó hasta la locura e intentó quemarlo vivo durante uno de los sermones de Hrathen. Temiendo las represalias de Iadon, Hrathen interrumpió el sermón, puso a la audiencia de su lado y quemó al elantrino hasta la muerte más tarde en privado para poner fin a su sufrimiento.
+En ese momento, Hrathen empezó a cuestionarse de verdad su fe. Veía que su manera de hacer las cosas se basaba por completo en una lógica fría y calculadora, mientras que Dilaf tenía una pasión ardiente. Envidiaba que los discursos de Dilaf tuvieran más éxito que los suyos, ya que conectaban mejor con el corazón de la gente. Al final, sus intentos de hacer que los arelenos temieran y odiaran a los elantrinos se vieron frustrados por Sarene, que realizó obras de caridad en Elantris para demostrar que eran inofensivos y desgraciados. Hrathen aceptó que los arelenos no odiarían lo que compadecían y abandonó este plan.
+Hrathen sufría un sentimiento de culpa constante por el violento levantamiento de Duladel y luchaba contra los intentos más agresivos de Dilaf de propagar el odio, con la esperanza de convertir Arelon de la forma menos sangrienta posible.
+En su lugar, se centró en convertir a Telrii en el nuevo rey de Arelon, para luego pagarle para que se convirtiera al Shu-Dereth y esperar que el resto de Arelon le siguiera. Hizo que las fuerzas de Fjordell atacaran los barcos de Iadon, aplastando sus ingresos, lo que le haría demasiado débil para ser el gobernante a ojos de la nobleza de la zona, centrada en la economía, mientras que simultáneamente ofrecía a Telrii tratos fáciles en Fjordell para aumentar sus beneficios por encima de los de Iadon. Sin embargo, esto también se frustró cuando Sarene arregló un contrato entre Iadon y [[Teod\|Teod]] para asegurar las finanzas del rey.
+Derrotado una vez más, llegó un cargamento de pociones que encargó a [[Forton\|Forton]]. Hrathen bebió una y ésta simuló los efectos de la Shaod, haciendo que Hrathen pareciera un elantrino. Durante cinco días fue arrojado a Elantris hasta que el efecto de la poción desapareció y volvió a la normalidad. Retornó a Kae, anunciando que era un milagro causado por Jaddeth, aumentando el número de seguidores del Shu-Dereth en Arelon.
+Tras su liberación, se enteró de que Sarene había descubierto accidentalmente a Iadon cometiendo sacrificios rituales para los , lo que provocó el arresto del rey y con el tiempo su suicidio. Ahora que Arelon necesitaba un nuevo rey, Hrathen conspiró una vez más para poner a Telrii en el trono. Se enteró del plan de Sarene de casarse con el duque [[Roial\|Roial]], unir sus riquezas y proclamarle rey a él. Para evitarlo, Hrathen hizo que un asesino derethi tomara una de las pociones de Forton y se la diera a la princesa antes de su boda. Cuando Sarene se levantó el velo en la boda, parecía haberse convertido en elantrina y fue arrojada a Elantris. Durante los cinco días siguientes, Telrii consolidó su poder y fue coronado rey de Arelon.
+Aunque estaba satisfecho con el traslado de Sarene, esperaba que no sufriera ningún daño y sabía que la poción sería temporal. Durante su internamiento en Elantris, se puso en contacto con su padre, el rey [[Eventeo\|Eventeo]] de Teod, y le dijo que podía curar a Sarene si Eventeo juraba convertirse al Shu-Dereth. El rey lo hizo y, cuando la poción dejó de hacer efecto, Sarene fue liberada de Elantris y se dio cuenta de la decisión que había tomado su padre. Hrathen trató de estrecharle la mano en señal de respeto por su astucia y su victoria final, pero ella se sintió confusa y repelida por él. Eondel desenvainó su espada y la puso en la garganta de Hrathen para hacerle retroceder. Hrathen desarmó sin esfuerzo al anciano general pero decidió que lo mejor era marcharse.
+El plan de Hrathen estaba cuajando, pero se olvidó de tener en cuenta la estupidez del rey Telrii; se negó a convertirse a menos que el Wyrn pagara cantidades exponenciales de dinero e hizo matar al duque Roial. Eondel, cuyo sentido del honor le dictaba que Roial debía ser vengado, asaltó el palacio con su legión de soldados y murió matando al duque Telrii. Hrathen fue testigo de ello y se dio cuenta una vez más de que había optado por la vía lógica, sin preocuparse de convertir realmente el alma de Telrii al Shu-Dereth y sólo preocupándose pragmáticamente de sobornarle lo suficiente como para decir que lo había hecho, culpando de ello a su derrota.
+Hrathen estuvo presente en la coronación de Raoden y se sintió disgustado cuando la nobleza arlena aún lo aceptó como rey después de que se revelara que era un elantrino, dándose cuenta de que si hubiera continuado con su plan de hacer que los arlenos odiaran a los elantrinos esto nunca habría sucedido.
+En ese momento supo que Dilaf era en realidad un monje dakhor y que varios de ellos se habían infiltrado en Kae. Dilaf reveló que el Wyrn nunca quiso que Hrathen triunfara, sino que lo envió como distracción. Sus enemigos pasaron tanto tiempo centrados en Hrathen y en frustrar sus planes de convertir Arelon que no se dieron cuenta de que los monjes se preparaban para cometer un genocidio, aniquilando a los habitantes de Arelon y Teod para evitar que el Shu-Dereth siguiera oponiéndose e impidiendo que nadie más se convirtiera en elantrino. Esto horrorizó a Hrathen, que quería salvar almas, no causar una masacre. Pero antes de que pudiera actuar, los monjes comenzaron la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]].
 
-### Invasion of Arelon
-For more information, see [[Invasion of Arelon\|Invasion of Arelon]].
-Accompanying the monks during their assault on the city, Hrathen was in a constant state of disgust and shock. He was witness to Sarene being taken captive by the monks and learnt Dilaf's beloved had been driven mad by an incorrectly drawn Elantrian Aon causing Dilaf's hatred for Elantrians.
-Dilaf and Sarene were placed in a circle with Dilaf and several monks. A monk in the centre was burnt up, body and soul, to allow magic to transport them to [[Teoras\|Teoras]].
+### Invasión de Arelon
+Para más información, ver [[Invasi%C3%B3n de Arelon\|Invasión de Arelon]].
+Acompañando a los monjes durante su asalto a la ciudad, Hrathen se encontraba en un estado constante de disgusto y conmoción. Fue testigo del cautiverio de Sarene a manos de los monjes y se enteró de que la amada de Dilaf había enloquecido por culpa de un aon elantrino mal dibujado, lo que provocó el odio de Dilaf hacia estos.
+Dilaf y Sarene fueron colocados en un círculo con este y varios monjes. Uno en el centro fue quemado, en cuerpo y alma, para permitir que la magia los transportara a [[Teoras\|Teoras]].
 
- by  Gar leyva  Fighting [[Dilaf\|Dilaf]]
-### Battle of Teoras
->“*Goodbye, my princess. Jaddeth be merciful to my soul. I only did the best I could.*”
+  Luchando contra <<Dilaf\|Dilaf>>
+### Batalla de Teoras
+>“*Adiós, mi princesa. Jaddeth, ten piedad de mi alma. Solo lo hice lo mejor que pude.*”
 \-Hrathen[1]
 
 
-For more information, see [[Battle of Teoras\|Battle of Teoras]].
-Meeting with Eventeo under the pretense it was time for him to convert to Shu-Dereth the monks prepared to assassinate the King of Teod. Hrathen became aware that Dilaf planned to murder Sarene in front of Eventeo before they killed the king and finally realizing that his feelings of respect and rivalry with Sarene were in fact love. He saved her life by attacking Dilaf.
-Eventeo escaped while his guards fought the monks and Hrathen and Sarene retreated into an alley. They managed to avoid the monks and disguise themselves as peasants. Walking among the masses, Sarene questioned why Hrathen chose to change sides. Hrathen revealed that he still followed Shu-Dereth, still prayed to Jaddeth, and still thought the Derethi teachings were correct, but said he couldn't agree with Wyrn and his interpretation of them. At that point, Hrathen was stabbed in the chest by Fjon who had been sent by Wyrn to assassinate the gyorn.
-Hrathen fell in Sarene's arms, thinking: *"Goodbye, my princess. Jaddeth be merciful to my soul. I only did the best I could."*
-However, Hrathen got back up and saved Raoden and Sarene from Dilaf, using a twisted bone in his forearm, the only remnants of his time at Dakhor Monastery. After the battle, Sarene theorized that the wounds inflicted by both Fjon and Dilaf should've been instantly fatal, but Hrathen clung to life through his Dakhor markings.
+Para más información, ver [[Batalla de Teoras\|Batalla de Teoras]].
+Reunidos con Eventeo bajo el pretexto de que era hora de que se convirtiera al Shu-Dereth los monjes se prepararon para asesinar al rey de Teod. Hrathen se dio cuenta de que Dilaf planeaba asesinar a Sarene delante de Eventeo antes de matar al rey y finalmente, dándose cuenta de que sus sentimientos de respeto y rivalidad con Sarene eran en realidad amor. Le salvó la vida atacando a Dilaf.
+Eventeo escapó mientras sus guardias luchaban contra los monjes y Hrathen y Sarene se retiraron a un callejón. Consiguieron evitar a los monjes y disfrazarse de campesinos. Caminando entre las masas, Sarene le preguntó por qué Hrathen había decidido cambiar de bando. Hrathen reveló que aún seguía el Shu-Dereth, aún rezaba a Jaddeth y aún pensaba que las enseñanzas derethi eran correctas, pero dijo que no podía estar de acuerdo con el Wyrn y su interpretación de las mismas. En ese momento, Hrathen fue apuñalado en el pecho por Fjon, que había sido enviado por el Wyrn para asesinarle.
+Hrathen cayó en los brazos de Sarene pensando: *«Adiós, mi princesa. Jaddeth, ten piedad de mi alma. Solo lo hice lo mejor que pude.»*
+Sin embargo, Hrathen volvió a levantarse y salvó a Raoden y Sarene de Dilaf, utilizando un hueso retorcido de su antebrazo, único vestigio de su estancia en el monasterio Dakhor. Tras la batalla, Sarene teorizó que las heridas infligidas tanto por Fjon como por Dilaf deberían haber sido mortales al instante, pero Hrathen se aferró a la vida gracias a sus rasgos dakhor.
 
-### Legacy
-Hrathen's body was ferried back to Elantris and buried in the memorial barrows for heroes who fell during Fjordell's invasion. He was buried alongside Eondel, Karata, Saolin and Roial with his bloodred armour stacked alongside it and his cape draped over his sword. His funeral was performed last. Sarene speaks at his funeral saying that she thought she understood the man as her enemy by his sense of duty, his powerful will and his determination to save people through religion but she had no knowledge of his internal conflict or that he'd place the lives of everyone else over his own ambitions. She also mentioned how if it hadn't been for him, then Dilaf would have killed both her and Raoden. She implores the people to remember Hrathen not as their enemy but as their savior.
+### Legado
+El cuerpo de Hrathen fue transportado de vuelta a Elantris y enterrado en los sepulcros conmemorativos de los héroes caídos durante la invasión de Fjordell. Lo enterraron junto a Eondel, Karata, Saolin y Roial, con su armadura roja como la sangre apilada al lado y su capa colgada de la espada. Su funeral se celebró en último lugar. Sarene habla en él diciendo que creía entender al hombre como su enemigo por su sentido del deber, su poderosa voluntad y su determinación de salvar a la gente a través de la religión, pero que no tenía conocimiento de su conflicto interno ni de que antepondría las vidas de todos los demás a sus propias ambiciones. También menciona cómo, de no haber sido por él, Dilaf la habría matado tanto a ella como a Raoden. Implora al pueblo que recuerde a Hrathen no como su enemigo, sino como su salvador.
 
-## Relationships
+## Relaciones
 ### Sarene
-Hrathen initially has an antagonistic relationship with Sarene. As Hrathen tries to paint the Elantrians as "svrakis" or devils, Sarene uses her period of mourning to work with the Arelish nobility and provide gifts and food for the Elantrians. Over time, Hrathen comes to respect Sarene for her skill in politics. He eventually decides to poison Sarene in order to remove her from the equation and end her constant interference with his plans. Later he realizes that he loves Sarene and saves both her and [[Raoden\|Raoden]] from [[Dilaf\|Dilaf]], dying in the process. As a result of his bravery, Sarene request that he be buried outside Elantris with the others who are honored as heroes.
+Al principio, Hrathen mantiene una relación antagónica con Sarene. Mientras Hrathen intenta pintar a los elantrinos como "svrakiss" o demonios, Sarene aprovecha su periodo de luto para trabajar con la nobleza arelena y proporcionar regalos y comida a los elantrinos. Con el tiempo, Hrathen llega a respetar a Sarene por su habilidad política. Después decide envenenarla para eliminarla de la ecuación y acabar con la constante interferencia en sus planes. Más tarde se da cuenta de que ama a Sarene y la salva a ella y a [[Raoden\|Raoden]] de [[Dilaf\|Dilaf]], muriendo en el proceso. Como resultado de su valentía, Sarene pide que sea enterrado fuera de Elantris con los demás que son honrados como héroes.
 
-## Quotes
->“*Someday they would call him their savior.*”
-\-Hrathen's thoughts as he arrives in Arelon, which turn out to be prophetic.[2]
+## Citas
+>“*Algún día lo llamarían su salvador.*”
+\-Los pensamientos de Hrathen al llegar a Arelon, que resultan ser proféticos.[2]
 
 
->“*He was not a zealot; he would never be a man of extreme passion. In the end, he followed Shu-Dereth because it made sense. That would have to be enough.*”
+>“*No era un fanático; nunca sería un hombre de pasión extrema. En el fondo, seguía el credo derethi porque tenía sentido. Eso tenía que ser suficiente.*”
 \-He comes to terms with his faith.[9]
 
 
->“*She would never know that he had come to love her.*”
-\-As Hrathen dies, thinking of Sarene.[1]
+>“*Ella nunca sabría que había llegado a amarla*”
+\-Cuando Hrathen muere, pensando en Sarene.[1]
 
 
->“*Goodbye, my princess. Jaddeth be merciful to my soul. I only did the best I could.*”
-\-Hrathen, as he lays dying.[1]
+>“*Adiós, mi princesa. Jaddeth, ten piedad de mi alma. Solo lo hice lo mejor que pude.*”
+\-Hrathen, mientras agoniza.[1]
 
 
->“*Let it be said that after all else, Hrathen, gyorn of Shu-Dereth, was not our enemy. He was our savior.*”
-\-Sarene's words at Hrathen's funeral.[28]
+>“*Que se diga que, al fin y al cabo, Hrathen, gyorn del Shu-Dereth, no fue nuestro enemigo. Fue nuestro salvador.*”
+\-Palabras de Sarene en el funeral de Hrathen.[6]
 
 
-## Trivia
-If Hrathen gave someone a blessing, it would be "May you be blessed to always do what you do with meaning, intent, and devotion."
+## Curiosidades
+Si Hrathen diera una bendición a alguien, sería «Que seas bendecido para hacer siempre lo que haces con sentido, intención y devoción.»
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] ·  · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
-https://coppermind.net/wiki/Hrathen
+
+https://es.coppermind.net/wiki/Hrathen

@@ -1,91 +1,111 @@
+
+
 |**Jushu Davar**|
 |-|-|
-|by  botanicaxu |
-|**House Davar**|
-|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|mother]]|
-|**Siblings**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
-|**Born**|c. 1154|
-|**Residence**|[[Urithiru\|Urithiru]]|
-|**Nationality**|[[Veden\|Veden]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Words of Radiance*|
+||
+|**[[Casa Davar\|Casa Davar]]**|
+|**Padres**|[[Lin Davar\|Lin Davar]], [[Madre de Shallan\|madre]], [[Malise Gevelmar\|Malise Gevelmar]] |
+|**Hermanos**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
+|**Nacido en**|c. 1154|
+|**Residencia**|[[Urithiru\|Urithiru]]|
+|**Etnia**|[[De Jah Keved\|de Jah Keved]]|
+|**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Asha Jushu Davar** is a [[Lighteyes\|lighteyed]] [[Veden\|Veden]] on [[Roshar\|Roshar]]. He is the fourth son of [[Shallan's mother\|Brightness Davar]] and [[Lin Davar\|Lin Davar]]. His siblings are [[Helaran\|Helaran]], [[Balat\|Balat]], his older twin [[Wikim\|Wikim]], and [[Shallan\|Shallan]].
+**Asha Jushu Davar** es un [[Ojos claros\|ojos claros]] [[Veden\|veden]] de [[Roshar\|Roshar]]. Es el cuarto hijo de la [[Madre de Shallan\|brillante Davar]] y [[Lin Davar\|Lin Davar]]. Sus hermanos son [[Helaran\|Helaran]], [[Balat\|Balat]] su gemelo mayor [[Wikim\|Wikim]] y [[Shallan\|Shallan]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Early Life
-3.2 Gambling Debts
-3.3 Lin's Death
-3.4 Aftermath and Shallan's Departure
-3.5 Move to Urithiru
-
-
-4 Relationships
-
-4.1 Lin Davar
-4.2 Shallan
+3. [[#Primeros a.C3.B1os de vida]] 
+3. [[#Deudas de juego]] 
+3. [[#La muerte de Lin]] 
+3. [[#Las consecuencias y la marcha de Shallan]] 
+3. [[#Mudanza a Urithiru]] 
 
 
-5 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Lin Davar]] 
+4. [[#Shallan]] 
 
 
-## Appearance and Personality
- by  Marie Seeberger 
-Jushu is [[Lighteyed\|lighteyed]] and presumably has the characteristic red hair of the Davar family. He grows rather plump during his periods of living in excess; he is known to drink a lot of wine. He has scars on both wrists.
-He shares some resemblance to his twin brother [[Wikim\|Wikim]], but they would not be mistaken for one another. Although they both have sunken eyes, Wikim is noticeably thinner than Jushu. Jushu also wears his hair longer than Wikim and looks older than his twin. Jushu loses some weight during the [[Veden civil war\|Veden civil war]], but he retains the same complexion and still looks much different than Wikim. In [[Urithiru\|Urithiru]], Jushu grows a beard, further differentiating himself from his twin.
-Jushu was a happy, smiling child, and as he grew up he remained quicker to laugh than his twin. Even in his darkest moments, he will engage in gallows humor with [[Shallan\|Shallan]] as a coping mechanism.
-Jushu has problems with addiction; [[Balat\|Balat]] believes he was driven to vice by years of suffering [[Lin Davar\|their father]]’s brutal temper. Shallan also thinks Jushu is a good man that could not be blamed for his vices. He is addicted to gambling, and will wager anything available to him, including any gemstones in his clothing. His addiction causes him to lie and steal in order to get money or credit to fund his gambling, although he has been able to restrain himself somewhat in order to help his family. He drinks wine heavily, especially while gambling, and is also seen rubbing a plant between his fingers which is likely highly addictive [[Firemoss\|firemoss]]. Wikim believes that Jushu will inevitably destroy himself.
-
-## Attributes and Abilities
-Jushu likes duels and wishes he could participate in them. [[Shallan\|Shallan]] has a fantasy in which she sees [[Helaran\|Helaran]] sparring with Jushu and teaching him swordsmanship, but it is not clear if this ever happened in reality.
-He has some understanding of the political machinations among [[Veden\|Veden]] [[Lighteyes\|lighteyes]].
-
-## History
- by  zoethatcher art  With his parents and siblings
->“*He loved Helaran, and none of us are him, so we don’t matter. Helaran is never here! He betrayed Father, almost killed him. And still, he’s the only one who matters....*”
-\-Jushu, on his father's favoritism of Helaran[6]
+5 Notas. [[#Notas]] 
 
 
-### Early Life
-Jushu was born as Van Jushu, the youngest of the Davar brothers; he and [[Wikim\|Wikim]] are fifteen months older than Shallan. Little is known of his youth, but he felt that his father always favored [[Helaran\|Helaran]] and [[Shallan\|Shallan]] over his other children, and recounted that [[Lin\|Lin]] only ever had curses for him. Jushu was subjected to many fits of Lin's temper, and was bitter towards his father.
-Jushu believed the cover-up story that Shallan had seen Lin kill [[Shallan's mother\|his wife]], Jushu's mother. He was not aware of the true sequence of events, and was the person that comforted Shallan on the night of their mother's death. His father soon remarried, and [[Malise Gevelmar\|Malise Gevelmar]] became his stepmother.
-As Jushu became a teenager, Lin's anger and neglect took its toll, and Jushu began gambling and drinking heavily. Around 1168, he showed up drunk to a feast held by Lin for other lighteyes, which was sure to anger Lin. He was present when Shallan saw her mother's "soul" in a strongbox, although he could not see anything. About a year later, he attended another feast at the Davar estate, and engaged in some friendly banter with his siblings. After [[Redin\|Redin]] interrupted the feast seeking someone to testify against Lin, Jushu seemed to consider it, but quickly lost his nerve.
+## Apariencia y personalidad
+ 
+Jushu es un [[Ojos claros\|ojos claros]] y presumiblemente tiene el característico pelo rojo de la familia Davar. Se vuelve bastante rollizo durante sus períodos de exceso. Es conocido por beber grandes cantidades de vino. Tiene cicatrices en ambas muñecas.
+Comparte cierto parecido con su hermano gemelo Wikim, aunque no el suficiente como para que se los confunda. Ambos tienen los ojos hundidos, pero Wikim es visiblemente más delgado que Jushu. Jushu también tiene el pelo más largo que Wikim y parece más mayor que su gemelo. Aunque durante la guerra civil veden Jushu pierde peso, mantiene la misma complexión y sigue siendo distinto a Wikim. En Urithiru, Jushu se deja crecer la barba, diferenciándose aún más de su gemelo.
+Jushu era un niño feliz y sonriente y, a medida que crecía, se volvía más risueño que su gemelo. Incluso en los momentos más oscuros, le sigue el juego a Shallan con su humor negro como mecanismo de supervivencia.
+Jushu tiene problemas de adicción y Balat cree que los desarrolló tras años de aguantar el mal genio de su padre. Shallan también cree que Jushu es un hombre bueno que no puede ser culpado por sus vicios. Es adicto al juego y apostaría cualquier cosa de la que disponga, incluida cualquier gema de su ropa. Su adicción le lleva a mentir y a robar para disponer de dinero o crédito que financie sus juegos, aunque de alguna forma ha podido contenerse un poco para ayudar a su familia. Bebe mucho vino, especialmente mientras juega, y también se le ha visto frotando una planta entre los dedos, que probablemente se trate de [[Musgoardiente\|musgoardiente]], una sustancia altamente adictiva. Wikim cree que Jushu inevitablemente se destruirá a sí mismo.
 
-### Gambling Debts
-As the years went on, Jushu's gambling problems persisted. If any type of alcohol or wagering was available, his family assumed that he would be partaking in it. He would steal items from his father and sell them to fund his habits.
-Jushu became known as Asha Jushu after his father officially disowned Helaran. Lin tasked him with checking on the outer Davar lands around 1170. However, Jushu fell in with a bookmaker named [[Mill\|Mill]] and spent his time drinking and gambling; he eventually took out a line of credit in the family name. When Jushu was unable to fulfill his debts, Mill and several thugs took him captive and traveled to the Davar estate to collect. Lin, who was secretly running out of money, declined to pay the debt of nearly one hundred emerald [[Broam\|broams]]. The men beat Jushu severely, then bound him and forced him to walk behind their carriage. Shallan convinced Balat and Wikim to give her their engraved daggers; she offered them to Mill along with her aluminum necklace to try and pay off his debts. Mill told Shallan that she had only accounted for about half of the debt, but she was surprisingly able to convince him to release Jushu. Shallan told Jushu that his brothers deserved credit for saving him, and he was very thankful.
-After the incident with Mill, Balat assumed that Jushu's addiction caused him to resume gambling, although he was trying to be smarter about it. Shallan still considered Jushu to be "a mess".
+## Características y habilidades
+A Jushu le gustan los duelos y desea poder participar en ellos. Shallan tiene una fantasía en la que ve a Helaran entrenando con Jushu y enseñándole a manejar la espada, pero no está claro si esto llegó a suceder de verdad.
+Tiene cierto conocimiento de los entresijos políticos de los ojos claros veden.
 
-### Lin's Death
->“*Does it feel odd to anyone else to be this rich? How many deposits of valuable stone are there on our lands?*”
+## Historia
+  Con sus padres y hermanos
+>“*Él amaba a Helaran, y ninguno de nosotros somos él, así que no importamos. ¡Helaran no está aquí nunca! Traicionó a nuestro padre, casi lo mató. Y, sin embargo, es el único que cuenta...*”
+\-Jushu, sobre el favoritismo de su padre por helaran[6]
+
+
+### Primeros años de vida
+Jushu nació como Van Jushu, el más joven de los hermanos Davar; él y Wikim son quince meses mayores que Shallan. Poco se sabe de su juventud, pero sentía que Lin siempre favorecía a Helaran y Shallan antes que a sus otros hijos, mientras que recuerda que sólo tenía exabruptos para él. Jushu estaba sometido al temperamento de su padre y estaba muy resentido con él.
+Jushu se creyó la historia inventada de que Shallan había visto a Lin matar a [[Madre de Shallan\|su esposa]], la madre de Jushu. No estaba enterado de la verdadera secuencia de acontecimientos, y fue la persona que consoló a Shallan la noche en la que murió su madre. Muy pronto, su padre se volvió a casar y [[Malise Gevelmar\|Malise Gevelmar]] se convirtió en su madrastra.
+Cuando Jushu se convirtió en un adolescente, la ira y la negligencia de Lin le pasaron factura, y Jushu empezó a jugar y a beber mucho. Alrededor de 1168, apareció borracho en un banquete organizado por Lin para otros ojos claros, lo que seguramente enfadó a su padre. Estaba presente cuando Shallan vio el «alma» de su madre en una caja fuerte, aunque no pudo ver nada. Un año más tarde, asistió a otro banquete en la casa Davar y bromeó amistosamente con sus hermanos. Después de que [[Redin\|Redin]] interrumpiera la fiesta buscando a alguien que testificara contra Lin, Jushu pareció considerar hacerlo, pero rápidamente perdió el valor.
+
+### Deudas de juego
+Con el paso de los años, los problemas de Jushu con el juego continuaron. Si tenía acceso a cualquier tipo de alcohol o juego, su familia sabía que participaría de ello. Robaba cosas a su padre y las vendía para financiar sus vicios.
+Jushu pasó a llamarse Asha Jushu después de que su padre renegara de Helaran. Alrededor de 1170 Lin le encargó que revisara las tierras más alejadas de los Davar. Sin embargo, Jushu se unió a un corredor de apuestas llamado [[Mill\|Mill]] y perdió el tiempo bebiendo y apostando, y finalmente abrió una línea de crédito a nombre de la familia. Cuando Jushu no pudo hacer frente a las deudas, Mill y algunos matones lo secuestraron y lo llevaron a la casa Davar para cobrar. Lin, que se estaba quedando sin dinero y nadie lo sabía, se negó a pagar la deuda que ascendía a casi cien [[Broam\|broams]] de esmeralda. Los hombres golpearon a Jushu repetidamente, lo ataron y lo obligaron a caminar detrás de su carruaje. Shallan convenció a Balat y a Wikim para que le entregaran sus dagas grabadas y se las ofreció a Mill, junto con su collar de aluminio, para saldar las deudas. Mill le dijo a Shallan que sólo había pagado la mitad de la deuda, pero para sorpresa de todos lo pudo convencer para que liberara a Jushu. Shallan le dijo a Jushu que sus hermanos merecían reconocimiento por haberlo salvado, y él se mostró muy agradecido.
+Tras el encontronazo con Mill, Balat dió por sentado que la adicción de Jushu le haría volver a apostar, aunque intentara ser más inteligente al respecto. Shallan aún consideraba que Jushu era «un desastre».
+
+### La muerte de Lin
+>“*¿A nadie más le parece raro ser tan ricos? ¿Cuántos depósitos de piedras valiosas hay en nuestras tierras?*”
 \-Jushu[7]
 
 
-After [[Luesh\|Luesh]] became the Davar house steward around 1172, the Davar family's financial situation quickly turned around, as Luesh was secretly a [[Soulcaster\|Soulcaster]] and member of the [[Ghostbloods\|Ghostbloods]]. Jushu enjoyed the newfound wealth, although it may have enabled him to start using [[Firemoss\|firemoss]]. He was, however, the only sibling who questioned the origin of the suddenly plentiful ore deposits found on their lands.
-Jushu was aware of Balat's plan to run away with [[Eylita Tavinar\|Eylita Tavinar]]. When Lin discovered the plan and summoned Eylita to their house, Jushu, Wikim, and Shallan watched as Lin and Balat argued and eventually came to blows. Shallan was the first to notice that Lin had killed Malise, and she poisoned him with [[Blackbane\|blackbane]]. As the fight continued, Jushu and Wikim were horrified by Lin's attacks on Balat, but they did not enter the room until Lin suddenly collapsed. Jushu found the broken [[Davar Soulcaster\|Davar Soulcaster]] in Lin's pocket and was confused, thinking that his father was performing blasphemy. When the twins realized that Lin was still alive, they could not finish the job and left it to Shallan.
+Después de que [[Luesh\|Luesh]] se convirtiera en el mayordomo de los Davar, alrededor de 1172, la situación económica de la familia Davar cambió rápidamente, ya que Luesh era, en secreto, un [[Moldear almas\|moldeador de almas]] y miembro de los [[Sangre Espectral\|Sangre Espectral]]. Jushu disfrutó de la nueva situación de bonanza, aunque puede que le permitiera iniciarse en el consumo de [[Musgoardiente\|musgoardiente]]. Sin embargo, él fue el único de los hermanos que se cuestionó la repentina aparición de los depósitos de mineral encontrados en sus tierras.
+Jushu estaba enterado del plan de Balat de huir con [[Eylita Tavinar\|Eylita Tavinar]]. Cuando Lin descubrió el plan y convocó a Eylita a su casa, Jushu, Wikim, y Shallan fueron testigos de la discusión entre Lin y Balat y de cómo llegaron a las manos. Shallan fue la primera en darse cuante de que Lin había matado a Malise, y lo envenenó con [[Ruinaoscura\|ruinaoscura]]. A medida que la pelea avanzaba, Jushu y Wikim estaban horrorizados ante los ataques de Lin a Balat, pero no entraron en la habitación hasta que Lin se desplomó. Jushu encontró el [[Moldeador de almas Davar\|moldeador de almas Davar]] roto en el bolsillo de Lin y se sintió confundido, al pensar que su padre estaba cometiendo una blasfemia. Cuando los gemelos se dieron cuenta de que Lin aún estaba vivo, no pudieron rematarlo y se lo dejaron a Shallan.
 
-### Aftermath and Shallan's Departure
-After their father's death, the siblings began to understand the previous source of their wealth and the urgency of their financial situation. Lin had overextended himself with various business deals, and the Ghostbloods wanted satisfaction from the Davar family for breaking their Soulcaster. Their outlook was bleak; the family's debts were such that Shallan believed they would be stripped of their titles and possibly enslaved. For a time, they pretended that Lin was still alive, but they knew this was unsustainable.
-Shallan left Jah Keved with a plan to try and steal [[Jasnah's Soulcaster\|Jasnah's Soulcaster]] as a replacement, while Jushu helped Balat sell their possessions to keep their family afloat. Jushu's experience in selling goods stolen from Lin to fuel his gambling allowed him to "mask" the reason behind the selling. [[Jasnah\|Jasnah]] eventually learned of Shallan's predicament and sent the brothers some money while also offering [[Navani\|Navani's]] help to possibly fix their broken Soulcaster; her brothers were excited by this new plan. However, the Davar Soulcaster was lost in the sinking of the *Wind's Pleasure*.
+### Las consecuencias y la marcha de Shallan
+Tras la muerte de su padre, los hermanos empezaron a comprender la anterior fuente de riqueza y la desesperación de su situación económica. Lin se había excedido en varios acuerdos comerciales, y los Sangre Espectral querían una compensación de la familia Davar por haber roto su moldeador de almas. El panorama era desolador y las deudas familiares eran tales que Shallan creía que serían despojados de sus títulos y posiblemente terminaran esclavizados. Durante un tiempo fingieron que Lin seguía vivo, pero eran conscientes que se trataba de una situación insostenible.
+Shallan se marchó de Jah Keved con el objetivo de intentar robar el [[Moldeador de Jasnah\|moldeador de Jasnah]] y sustituirlo por el roto, mientras que Jushu ayudó a Balat a vender posesiones para mantener a flote a la familia. La experiencia de Jushu en la venta de bienes que robaba a Lin para financiar sus apuestas le permitió «disimular» el verdadero motivo de las ventas. Finalmente, [[Jasnah\|Jasnah]] se enteró de la situación de Shallan y envió a los hermanos algo de dinero, y también le ofreció la ayuda de [[Navani\|Navani]] para arreglar el moldeador roto, con lo que sus hermanos se mostraron entusiasmados. Sin embargo, el moldeador de almas Davar se perdió en el hundimiento del *[[Placer del Viento\|Placer del Viento]]*.
 
-### Move to Urithiru
-As historic events began occurring across [[Roshar\|Roshar]], Shallan felt guilty about abandoning her brothers. She lost contact with them after losing her [[Spanreed\|spanreed]] on the *Wind's Pleasure* and became increasingly worried after learning of the [[Veden civil war\|Veden civil war]]. After [[Urithiru\|Urithiru]] was discovered, she wrote them a number of letters telling them to come live with her there, but she did not receive any response. Shallan eventually learned from [[Mraize\|Mraize]] that the Davar lands had fallen and that he was bringing her family to Urithiru; her service to the Ghostbloods as Veil would fulfill the debt of the broken Soulcaster.
-Mraize fulfilled his promise and Jushu, Wikim, Balat, and Eylita arrived in Urithiru after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. Jushu's clothes were worn and he had lost some weight. The family reunited with Shallan and attended her wedding to [[Adolin Kholin\|Adolin Kholin]].
-Jushu and his brothers were given quarters near Shallan's in Urithiru. Shallan visited often, but she felt some regret about the way that she perceived Jushu and the rest of her family after having changed so much since leaving her childhood home. Jushu had to be watched constantly to ensure that he did not steal things and pawn them for gambling money. He unknowingly befriended Mraize, who was posing as a guardsman named Gobby.
+### Mudanza a Urithiru
+Cuando los acontecimientos históricos se desataron en Roshar, Shallan se sintió culpable por abandonar a sus hermanos. Había perdido el contacto con ellos al perder su [[Vinculaca%C3%B1as\|vinculacañas]] en el *Placer del Viento* y su preocupación fue en aumento tras enterarse de la [[Guerra civil veden\|guerra civil veden]]. Tras el descubrimiento de [[Urithiru\|Urithiru]], Shallan les mandó cartas en las que pedía que fueran a vivir con ella, pero no obtuvo respuesta. Finalmente, Shallan se enteró por [[Mraize\|Mraize]] que las tierras Davar habían caído y que él traería a su familia a Urithiru, y que sus servicios como Velo hacia los Sangre Espectral pagarían la deuda del moldeador roto.
+Mraize cumplió su promesa y Jushu, Wikim, Balat y Eylita llegaron a Urithiru tras la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. La ropa de Jushu estaba desgastada y había perdido algo de peso. La familia se reunió con Shallan y asistieron a su boda con [[Adolin Kholin\|Adolin Kholin]].
+En Urithiru, a Jushu y a sus hermanos les dieron alojamiento cerca de Shallan. Ella los visitaba con frecuencia, pero sentía cierto pesar por la forma en la que veía a Jushu y al resto de su familia tras haber cambiado tanto desde el día que abandonó el hogar de su infancia. Jushu tenía que ser vigilado de cerca para asegurar que no robara cosas y las empeñara para apostar. Sin saberlo, se hizo amigo de Mraize, que se hacía pasar por un guardia llamado Gobby.
 
-## Relationships
+## Relaciones
 ### Lin Davar
-Lin always had a temper, and Jushu's parents would fight even when he was a small child. Jushu believes Lin's story that he was the one who killed his mother. Lin often screamed at Jushu and mistreated him, much like he did with Balat and Wikim; this only became worse as Lin became increasingly unstable over the years. Jushu was particularly jealous of the love that Lin showed for Helaran. As Jushu entered adulthood, Lin thought of him as a worthless drunkard, although he still assigned him certain important tasks. Their relationship was presumably not reparable after Lin declined to help Jushu with his gambling debts and several thugs beat him senseless.
+Lin siempre tuvo mal genio, y él y la madre de Jushu ya se peleaban cuando éste era un niño pequeño. Jushu cree en la historia de que fue Lin quien mató a su madre. Con frecuencia, Lin gritaba y trataba mal a Jushu, como hacía con Balat y Wikim, y este comportamiento no hizo más que empeorar a medida que Lin se volvía más voluble con los años. Jushu estaba especialmente celoso del amor que Lin mostraba hacia Helaran. Cuando Jushu entró en la edad adulta, Lin opinaba que era un borracho inútil, aunque todavía le asignaba algunas tareas importantes. Ciertamente, su relación no podía arreglarse después de que Lin se negara a ayudar a Jushu con sus deudas y que varios matones lo golpearan hasta dejarlo inconsciente.
 
 ### Shallan
-Shallan believes that Jushu harbors some resentment towards her due to Lin's favoritism, although he does not seem to lash out at her. He usually laughs at her jokes, even if they are not that funny. Shallan never forgets that Jushu held her on the night that their mother died. She cares for Jushu, and she believes that he is a good man that was broken by Lin's actions. She tries to distract him from gambling by suggesting that he watch duels instead, since she knows that he is interested in swordplay. She often thinks about Jushu and her other brothers after leaving Jah Keved and she feels responsible for them. After Lin's death, Jushu and Shallan no longer bond over defying him, and Shallan worries that they could drift apart. However, she does not fully trust Jushu due to his ongoing addictions, and cannot always tell if he is being genuine. They still attempt some banter, but their interactions become more awkward.
+Shallan cree que Jushu alberga cierto resentimiento hacia ella por el favoritismo de Lin, aunque no parece machacarla por ello. En general, él se ríe de sus chistes, incluso los que no son tan divertidos. Shallan nunca olvida que Jushu la abrazó la noche que murió su madre. Ella se preocupa por Jushu y cree que es un buen hombre quebrado por las acciones de Lin. Intenta distraerlo de las apuestas sugiriendo que vea duelos, ya que sabe que el chico está interesado en el manejo de la espada. Tras dejar Jah Keved, a menudo piensa en Jushu y en el resto de sus hermanos y se siente responsable por ellos.Tras la muerte de Lin, Jushu y Shallan ya no hacen frente común para desafiarlo, y a Shallan le preocupa que esto pueda separarlos. Sin embargo, ella no se termina de fiar de Jushu debido a sus adicciones y no siempre puede saber si está siendo sincero. Todavía intentan bromear entre ellos, pero sus interacciones son cada vez más incómodas.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 23:14, 7 April 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Jushu_Davar
+https://es.coppermind.net/wiki/Jushu_Davar

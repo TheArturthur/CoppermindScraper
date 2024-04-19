@@ -1,30 +1,44 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Seinalan**|
 |-|-|
-|**Titles**|Patriarch of Shu-Korath|
-|**Nationality**|[[Teo\|Teo]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Títulos**|Patriarca del Shu-Korath|
+|**Nacionalidad**|[[De Teod\|de Teod]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Seinalan** is the Patriarch of [[Shu-Korath\|Shu-Korath]] during the [[Invasion of Arelon\|Invasion of Arelon]].
+**Seinalan** es el patriarca del [[Shu-Korath\|Shu-Korath]] durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Patriarch
-4 Notes
-
-
-## Appearance and Personality
-He is a tall man, with long golden hair and has delicate features. He is around forty years of age.
-
-## History
-Shortly after [[Iadon\|Iadon]] became King of [[Arelon\|Arelon]] he met with Seinalan, giving him a royal decree that restructured Arelon's inheritance laws to be read at Iadon's funeral or fifteen years after it was created. Presumably Iadon gave it to Seinalan because, as Patriarch, his word is absolute. Not even [[Hrathen\|Hrathen]], a Derethi gyorn, would question it.
-He is present at the wedding of Princess [[Sarene\|Sarene]] and Duke [[Roial\|Roial]], although he is displeased at not being asked to preside over it. He does however preside over the crowning of [[Raoden\|Raoden]], though is so shocked when Raoden's disguise falls that Sarene has to complete the ceremony.
-
-## Patriarch
-As Patriarch, Seinalan is the head of the Korathi Church. His selection is prompted by [[Wulfden the Fourth\|Wulfden the Fourth]] becoming [[Wyrn (title)\|Wyrn]], the leaders of Shu-Korath felt they needed a leader just as young, regardless of his suitability for the position.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Patriarca. [[#Patriarca]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Es un hombre alto, de largos cabellos dorados y rasgos delicados. Tiene unos cuarenta años.
 
-https://coppermind.net/wiki/Seinalan
+## Historia
+Poco después de que [[Iadon\|Iadon]] se convirtiera en rey de [[Arelon\|Arelon]] se reunió con Seinalan, entregándole un decreto real que reestructuraba las leyes de herencia de Arelon para que fuera leído en el funeral de Iadon o quince años después de su creación. Es de suponer que Iadon se lo entregó a Seinalan porque, como patriarca, su palabra es absoluta. Ni siquiera [[Hrathen\|Hrathen]], un gyorn derethi, lo cuestionaría.
+Está presente en la boda de la princesa [[Sarene\|Sarene]] y el duque [[Roial\|Roial]], aunque le disgusta que no le pidan que la presida. Sin embargo, preside la coronación de [[Raoden\|Raoden]], aunque se queda tan sorprendido cuando el disfraz de Raoden cae que Sarene tiene que completar la ceremonia.
+
+## Patriarca
+Como patriarca, Seinalan es el jefe de la iglesia korathi. Su elección se debe a que [[Wulfden IV\|Wulfden IV]] se convirtió en [[Wyrn (t%C3%ADtulo)\|Wyrn]], los líderes del Shu-Korath sintieron que necesitaban un líder igual de joven, independientemente de su idoneidad para el cargo.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 13:01, 17 de septiembre de 2018 (MST)
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+
+
+https://es.coppermind.net/wiki/Seinalan

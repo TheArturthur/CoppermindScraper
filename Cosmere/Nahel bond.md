@@ -1,112 +1,131 @@
-|**Nahel bond**|
+
+
+|**Vínculo Nahel**|
 |-|-|
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Related to**|[[Surgebinding\|Surgebinding]], [[Honor\|Honor]], [[Cultivation\|Cultivation]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Relacionado con**|[[Potenciaci%C3%B3n\|Potenciación]], [[Honor\|Honor]], [[Cultivaci%C3%B3n\|Cultivación]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War* and *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“* The Nahel bond is far more intimate a relationship. The linking of spirits. This is not a thing that should be done lightly, unsupervised.*”
+>“*El vínculo Nahel supone una relación mucho más íntima. Una unión de espíritus. No es algo que deba hacerse a la ligera, sin supervisión.*”
 \- Notum[1]
 
 
-The **Nahel bond** is a bond between a [[Spren\|spren]] and a being from the Physical Realm. It's a symbiotic relationship, granting the spren the ability to manifest into the [[Physical Realm\|Physical Realm]] without losing their mind. In the case of a sapient individual in the Physical Realm, it grants the person the power of [[Surgebinding\|Surgebinding]] as well. It's also a bond formed by, for example, greatshells and Ryshadium.
-Originally, the Nahel bond granted power to individuals with no affiliation with one another. Eventually, the [[Knights Radiant\|Knights Radiant]] were formed and the Surgebinders were gathered into ten different Orders of Knights, each Order's members bonded to the same type of spren.
+El **vínculo Nahel** es una unión entre un [[Spren\|spren]] y un ser del Reino Físico. Es una relación simbiótica que otorga al spren la capacidad de manifestarse en el [[Reino F%C3%ADsico\|Reino Físico]] sin perder la razón. En el caso del individuo sapiente en el Reino Físico, también le otorga el poder de la [[Potenciaci%C3%B3n\|potenciación]]. También es un vínculo formado por, por ejemplo, grancaparazones y ryshadios.
+En su origen, el vínculo Nahel otorgaba poder a individuos que no tenían ninguna relación entre sí. Más adelante, se fundaron los [[Caballeros Radiantes\|Caballeros Radiantes]] y los potenciadores fueron agrupados en diez Órdenes diferentes de Caballeros, donde los miembros de la misma Orden estaban vinculados al mismo tipo de spren.
 
-## Contents
+## Sumario
 
-1 Mechanics of the Surgebinding Bond
+1 Mecánica del vínculo potenciador. [[#Mec.C3.A1nica del v.C3.ADnculo potenciador]] 
 
-1.1 Formation
-1.2 Progression
-1.3 Breaking
-1.4 Interactions with Dawnshards
-
-
-2 Powers Granted by the Surgebinding Bond
-
-2.1 Surgebinding
-2.2 Resonances
-2.3 Shardblade
-2.4 Benefits for the spren
+1. [[#Creaci.C3.B3n]] 
+1. [[#Evoluci.C3.B3n]] 
+1. [[#Ruptura]] 
+1. [[#Interacciones con las Esquirlas del Amanecer]] 
 
 
-3 Notable Surgebinders and Spren
-4 Trivia
-5 Notes
+2 Poderes otorgados por el vínculo de potenciación. [[#Poderes otorgados por el v.C3.ADnculo de potenciaci.C3.B3n]] 
+
+2. [[#Potenciaci.C3.B3n]] 
+2. [[#Resonancias]] 
+2. [[#Hoja esquirlada]] 
+2. [[#Beneficios para el spren]] 
 
 
-## Mechanics of the Surgebinding Bond
- by  Petar Penev  [[Cryptic\|Cryptics]] observing [[Shallan\|Shallan]] prior to her bond
->“*The responsibility of what we've been given — whether it be the crown or the Nahel bond — needs to make us better.*”
+3 Potenciadores y spren destacados. [[#Potenciadores y spren destacados]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
+
+
+## Mecánica del vínculo potenciador
+  <<Cr%C3%ADptico\|Crípticos>> observando a <<Shallan\|Shallan>> antes de su vínculo
+>“*La responsabilidad de lo que nos ha sido entregado, ya sea la corona o el vínculo Nahel…, tiene que *hacernos* mejores.*”
 \-Nohadon[3]
 
 
-### Formation
-Spren seem to bond with people who share their perspective or personality; however, they also seem to seek partners that would complement them. The bonded spren is more likely to be of the opposite gender to their bond-mate, but this is by no means a hard rule, and there are numerous Surgebinders with same-gender spren, such as [[Malata\|Malata]] with [[Spark\|Spark]], or [[Renarin\|Renarin]] with [[Glys\|Glys]]. Surgebinders are able to instinctively tell their spren apart from others. A person is able to bond with two different spren, though most spren aren't going to like it. A person can also bond with two spren of the same order, though this will not increase their powers or strength. Spren can theoretically bond with another spren.
-How exactly the bond is decided on varies, though it requires volition. Some spren are highly discerning, while others do not pay much attention to the morality of their prospective partner. Some spren choose the people they bond with individually, while others are more organized and make the decision by committee, then send one of their number to bond.
-Forming a bond utilizes the [[Cosmere\|cosmere]]-wide properties of [[Connection\|Connection]] and [[Identity\|Identity]] in some manner; lessening those attributes, such as by storing them in a [[Metalmind\|metalmind]], would affect the bond. It is also harder to form a bond with a heavily Invested being, such as a [[Returned\|Returned]], due to Investiture resisting Investiture. Spren are also less likely to bond with a person using a [[Hemalurgy\|Hemalurgic]] spike. This can be contrasted with the [[Luhel Bond\|Luhel Bond]], which primarily utilizes physical matter.
+### Creación
+Los spren parecen vincularse con personas que comparten su perspectiva o personalidad; sin embargo, también parecen buscar compañeros que los complementen. El spren vinculado tiene más probabilidades de ser del sexo opuesto al de su par, pero esto no es en absoluto una norma estricta, y hay numerosos potenciadores con spren del mismo sexo, como [[Malata\|Malata]] con [[Chispa\|Chispa]] o [[Renarin\|Renarin]] con [[Glys\|Glys]]. Los potenciadores son capaces de distinguir instintivamente sus spren de los demás. Una persona es capaz de vincular a dos spren diferentes, aunque a la mayoría de los spren no les va a gustar. Una persona también puede vincularse con dos spren de la misma Orden, aunque esto no aumentará sus poderes o su fuerza. Los spren pueden, en teoría, vincularse con otro spren.
+El modo en que se decide el vínculo varía, aunque requiere voluntad. Algunos spren son muy exigentes, mientras que otros no prestan mucha atención a la moralidad de su potencial compañero. Hay spren que eligen individualmente a las personas con las que se vinculan, mientras que otros son más organizados y toman la decisión mediante un comité para luego enviar a uno de los suyos a que se vincule.
+La formación de un vínculo utiliza las propiedades del [[Cosmere\|Cosmere]] de [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]] de alguna manera; disminuir esos atributos, como por ejemplo almacenándolos en una [[Mente de metal\|mente de metal]], afectaría al vínculo. También es más difícil formar un vínculo con un ser muy Investido, como un [[Retornado\|Retornado]] debido a que la Investidura se resiste a la Investidura. También es menos probable que los spren se vinculen con una persona que utilice un clavo [[Hemalurgia\|hemalúrgico]]. Esto se puede contrastar con el [[V%C3%ADnculo Luhel\|vínculo Luhel]], que utiliza principalmente la materia física.
 
-### Progression
-For more information, see [[Immortal Words\|Immortal Words]].
-The Nahel bond is forged and progressed by the partner stating [[Immortal Words\|Immortal Words]], also known as Oaths or Ideals, which align with their Order's general outlook and attitude. The first Ideal is identical for all Orders; the latter ones are Order-specific, with [[Order of Lightweavers\|Lightweavers]] in particular stating deep, intimate Truths about themselves rather than Ideals.
-As the Radiant states further Oaths, they are brought closer to the spren they're bonded to. The spren's mental capacity in the Physical Realm increases, while the bondholder gains the ability to use [[Surgebinding\|Surgebinding]] more effectively. At some point, the bond also grants the use of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]]. However, saying the words - at the very least, in one's mind, though out loud is preferred - is necessary to progress it.
+### Evolución
+Para más información, ver [[Palabras Inmortales\|Palabras Inmortales]].
+El vínculo Nahel se forja y avanza mediante la declaración por parte del compañero de las [[Palabras Inmortales\|Palabras Inmortales]], también conocidas como Juramentos o Ideales, que se alinean con la perspectiva y actitud general de su Orden. El primer Ideal es idéntico para todas las Órdenes; los últimos son específicos de la Orden, con los [[Tejedores de Luz\|Tejedores de Luz]] en particular declarando verdades profundas e íntimas sobre sí mismos en lugar de Ideales.
+A medida que el Radiante pronuncia más Juramentos, se estrecha el vínculo con su spren. La capacidad mental del spren en el Reino Físico aumenta, mientras que el poseedor del vínculo adquiere la capacidad de utilizar la [[Potenciaci%C3%B3n\|potenciación]] con mayor eficacia. En algún momento, el vínculo también concede el uso de la [[Hoja esquirlada\|hoja]] y la [[Armadura esquirlada\|armadura esquirladas]]. Sin embargo, es necesario decir las palabras (al menos mentalmente, aunque es preferible hacerlo en voz alta) para progresar.
 
-### Breaking
-There are some ways to break a Nahel bond. The best-known is when the Surgebinder acts in a manner contrary to the Oaths that they have sworn. This initially manifests by limiting the spren's intelligence and the Surgebinder's capacity to draw in Stormlight. Eventually, it can kill the spren, sending it back to the [[Cognitive Realm\|Cognitive Realm]]. Revival is possible, albeit difficult, and typically requires the Surgebinder who broke the Oaths to re-swear them, possibly along with progressing to a new Ideal of the Oaths. If a spren is permanently killed by the use of a [[Raysium\|raysium]] dagger embedded with a gem of anti-Stormlight, the bond will break, leaving the Radiant traumatized.
-Another way to break the Nahel bond is to deliberately forswear the First Ideal; this, too, will kill the spren. If the spren is at a point where it can become a [[Shardblade\|Shardblade]], breaking the bond will turn it into a [[Deadeye\|deadeye]].
-There are some ways to break the bond without killing the spren. Dying while upholding the Oaths -- for example, of old age, or in battle -- will send the spren back to [[Shadesmar\|Shadesmar]], and severely traumatize it, but the spren will survive and can bond again. A Radiant revived as a [[Returned\|Returned]] would not have their Nahel Bond. Spren are able to retain their sapience in the Physical Realm for a time after the death of their Radiant, but will need to bond again in order to keep it. The spren can also safely break the bond on their own, though this requires a great deal of caution. This will cause the Radiant pain, but will not be destructive to them like it would be a spren.
-A Nahel bond can also be passed from one person to another, similar to a [[Seon\|seon]] bond. This has happened a few times in the past, though the mechanics behind it are unknown.
+### Ruptura
+Hay algunas formas de romper un vínculo Nahel. La más conocida es cuando el potenciador actúa de forma contraria a los Juramentos que ha hecho. Esto se manifiesta inicialmente limitando la inteligencia del spren y la capacidad del potenciador para absorber luz tormentosa. Con el tiempo, puede matar al spren, enviándolo de vuelta al [[Reino Cognitivo\|Reino Cognitivo]]. Revivirlo es posible, aunque difícil, y normalmente requiere que el potenciador que rompió los Juramentos los vuelva a jurar, posiblemente junto con el progreso a un nuevo Ideal de estos. Si se mata a un spren de forma permanente mediante el uso de una daga de [[Raysio\|raysio]] incrustada con una gema de antiluz tormentosa, el vínculo se romperá, dejando al Radiante traumatizado.
+Otra forma de romper el vínculo Nahel es renunciar deliberadamente al Primer Ideal; esto también matará al spren. Si el spren está en un punto en el que puede convertirse en una [[Hoja esquirlada\|hoja esquirlada]], romper el vinculo lo convertirá en un [[Ojomuerto\|ojomuerto]].
+Hay algunas formas de romper el vínculo sin matar al spren. Morir mientras se mantienen los Juramentos (por ejemplo, de viejo o en batalla) enviará al spren de vuelta a [[Shadesmar\|Shadesmar]] y lo traumatizará gravemente, pero sobrevivirá y podrá vincularse de nuevo. Un Radiante revivido como un [[Retornado\|Retornado]] no tendría su vínculo Nahel. Los spren son capaces de retener su sapiencia en el Reino Físico durante un tiempo después de la muerte de su Radiante, pero necesitarán vincularse de nuevo para conservarla. Los spren también pueden romper el vínculo por sí mismos, aunque esto requiere mucha precaución. Esto causará dolor al Radiante, pero no será destructivo para ellos como lo sería para un spren.
+Un vínculo Nahel también puede pasar de una persona a otra, de forma similar a un vínculo con un [[Seon\|seon]]. Esto ha ocurrido algunas veces en el pasado, aunque se desconoce la mecánica que hay detrás.
 
-### Interactions with Dawnshards
-Individuals who have already formed a Nahel bond are also able to become a [[Dawnshard\|Dawnshard]], however, this does pose risks for the Surgebinder's spren, as the Dawnshard can use the spren's substance to fuel the Radiant's abilities. This can cause the spren to lose their body in the Cognitive Realm, leaving them as a fragment of themselves. After this, they mainly exist in their Surgebinder's mind and must use the Radiant's body to sense the world around them. They are also stripped of most vocal expression, giving them a monotoned voice.
-The pair also loses many of their abilities, including Surgebinding and the Radiant being able to communicate with their mind. They are still able to send feelings and emotions to their spren. Even after the Radiant has given up the Dawnshard, they can still further burn away the mind and personality of their spren for a short burst of Surgebinding.
-If the Nahel bond has progressed to the point of being able to summon Shardplate and Shardblade, the Shardblade and Shardplate remain unaffected, even if the spren is completely consumed.
+### Interacciones con las Esquirlas del Amanecer
+Los individuos que ya han formado un vínculo Nahel también son capaces de convertirse en una [[Esquirla del Amanecer\|Esquirla del Amanecer]]. Sin embargo, esto plantea riesgos para el spren del potenciador, ya que esta puede utilizar la sustancia del spren para alimentar las habilidades del Radiante. Como consecuencia, el spren puede perder su cuerpo en el Reino Cognitivo y convertirse en un fragmento de sí mismo. Después de esto, existe principalmente en la mente de su potenciador y deberá utilizar el cuerpo del Radiante para percibir el mundo que le rodea. También se le despoja de la mayor parte de la expresividad, lo que les da una voz monótona.
+La pareja también pierde muchas de sus habilidades, incluyendo la potenciación y que el Radiante sea capaz de comunicarse con su mente. Aún pueden enviar sentimientos y emociones a sus spren. Incluso después de que el Radiante haya renunciado a la Esquirla del Amanecer, aún puede quemar la mente y la personalidad de su spren durante una breve descarga de potenciación.
+Si el vínculo Nahel ha progresado hasta el punto de poder invocar hoja y armadura esquirladas, éstas no se verán afectadas, aunque el spren se consuma por completo.
 
-## Powers Granted by the Surgebinding Bond
- by Paul Canavan An [[Order of Edgedancers\|Edgedancer]] using her powers
->“*Alakavish was a Surgebinder and yet the Nahel bond gave him no more wisdom than a regular man.*”
+## Poderes otorgados por el vínculo de potenciación
+  Un <<Danzante del Filo\|Danzante del Filo>> utilizando sus poderes
+>“*[[Alakavish\|Alakavish]] era un [[Potenciaci%C3%B3n\|potenciador]]. Y sin embargo, el lazo nahel no le dio más sabiduría que a un hombre corriente.*”
 \-Nohadon[3]
 
 
-### Surgebinding
-For more information, see [[Surgebinding\|Surgebinding]].
-The Nahel bond makes a person a [[Surgebinder\|Surgebinder]]. This allows them to breathe in [[Stormlight\|Stormlight]], which grants numerous benefits, such as increased reflexes and agility, as well as incredible healing abilities. Moreover, Surgebinders can use Stormlight to fuel their usage of [[Surge\|Surges]]. Each type of Radiant spren grants its Surgebinder two different Surges, with each Surge shared between two Orders of Surgebinders.
+### Potenciación
+Para más información, ver [[Potenciaci%C3%B3n\|Potenciación]].
+El vínculo Nahel convierte a una persona en un [[Potenciador\|potenciador]]. Esto les permite inhalar [[Luz tormentosa\|luz tormentosa]], lo que otorga numerosos beneficios, como el aumento de los reflejos y la agilidad, así como increíbles habilidades curativas. Además, los potenciadores pueden utilizar la luz tormentosa para alimentar su uso de las [[Potencias\|Potencias]]. Cada tipo de spren Radiante otorga a su potenciador dos potencias diferentes, y cada una de ellas se comparte entre dos Órdenes.
 
-### Resonances
-Some Orders have additional, unique abilities known as resonances that occur due to the combination of their Surges. Examples of such resonances are the Windrunners' increased number of squires, and the Lightweavers' mnemonic abilities. Rather than being directly caused by the Nahel bond, this is a result of the two Surges interacting to produce an effect together. While some [[Herald\|Heralds]] benefit from the same resonances, others do not - for example, [[Jezrien\|Jezrien]] will not have a large number of squires, because Heralds do not get squires.
-It's possible that the bond also perfects innate skills of the user, without granting additional skills; for example, an expert spearman would become a spearman without equal, but wouldn't become a master swordsman. While this effect has been observed with [[Kaladin\|Kaladin]], it's uncertain whether it holds true for other Surgebinders or orders.
+### Resonancias
+Algunas Órdenes tienen habilidades adicionales y únicas, conocidas como resonancias, que se producen debido a la combinación de sus Potencias. Ejemplos de estas resonancias son el aumento del número de escuderos de los Corredores del Viento y la capacidad mnemotécnica de los Tejedores de Luz. En lugar de ser causado directamente por el vínculo Nahel, es el resultado de la interacción de las dos Potencias para producir un efecto conjunto. Mientras que algunos [[Heraldo\|Heraldos]] se benefician de las mismas resonancias, otros no; por ejemplo, [[Jezrien\|Jezrien]] no tendrá un gran número de escuderos, porque los Heraldos no obtienen escuderos.
+Es posible que el vínculo también perfeccione las habilidades innatas del usuario sin otorgarle habilidades adicionales; por ejemplo, un lancero experto se convertiría en un lancero sin igual, pero no se convertiría en un maestro espadachín. Aunque este efecto se ha observado con [[Kaladin\|Kaladin]], no se sabe si es válido para otros potenciadores u Órdenes.
 
-### Shardblade
-When the Nahel bond is at a sufficient strength, the bonded spren can instantly manifest itself as a [[Shardblade\|Shardblade]], which, unlike dead Blades, is capable of shapeshifting. Known forms range from strictly militant, such as a shield or a spear, to utilitarian, like forks, or plain rods. Moreover, while a human using a dead Shardblade must wait ten heartbeats before the summoning occurs, a living Blade will manifest instantenously.
-While in Shardblade form, a spren can communicate with its partner telepathically. The exception to that is the [[Stormfather\|Stormfather]], who, while refusing to become a Blade, can communicate with his Surgebinder regardless of the physical distance, directly in their mind.
+### Hoja esquirlada
+Cuando el vínculo Nahel es lo suficientemente fuerte, el spren vinculado puede manifestarse instantáneamente como una [[Hoja esquirlada\|hoja esquirlada]], que, a diferencia de las espadas muertas, es capaz de cambiar de forma. Las formas conocidas van desde las estrictamente militares, como un escudo o una lanza, hasta otras más prácticas, como tenedores o simples varas. Además, mientras que un humano que utiliza una hoja esquirlada muerta debe esperar diez latidos antes de que se produzca la invocación, una hoja viva se manifestará instantáneamente.
+Mientras está en forma de hoja esquirlada, un spren puede comunicarse con su compañero telepáticamente. La excepción es el [[Padre Tormenta\|Padre Tormenta]], que, aunque se niega a convertirse en espada, puede comunicarse con su potenciador sin importar la distancia física, directamente en su mente.
 
-### Benefits for the spren
-While a spren can cross over into the [[Physical Realm\|Physical Realm]] without forming a Nahel bond, the transition leaves them only semi-sapient, with loss of self-awareness, memory and intelligence. There are precautions spren can take to try and minimize the loss of self, but they are not very effective. By forming a Nahel bond, spren are capable of regaining all those things, growing more like themselves the stronger the bond is. However, with a few exceptions (such as the [[Stormfather\|Stormfather]]), the spren must remain in close physical proximity to their partner to retain their mind. The distance can vary, but some can go upwards of a few miles. If a spren is somehow pushed back into the Cognitive Realm, their Radiant may be able to pull them back into the Physical Realm.
-Spren can also anchor themselves to a Radiant while looking for a squire to bond, granting them some level of stability in the Physical Realm. Therefore, unlike the [[Luhel bond\|Luhel bond]] which trades in physical matter, the Nahel bond trades in consciousness and anchoring to the Physical Realm.
+### Beneficios para el spren
+Aunque un spren puede cruzar al [[Reino F%C3%ADsico\|Reino Físico]] sin formar un vínculo Nahel, la transición los deja sólo semisapientes, con pérdida de autoconciencia, memoria e inteligencia. Hay precauciones que los spren pueden tomar para intentar minimizar la pérdida de sí mismos, pero no son muy efectivas. Al formar un vínculo Nahel, los spren son capaces de recuperar todas esas cosas, pareciéndose más a sí mismos cuanto más fuerte sea el vínculo. Sin embargo, salvo algunas excepciones (como el [[Padre Tormenta\|Padre Tormenta]]), el spren debe permanecer en estrecha proximidad física con su pareja para conservar su mente. La distancia puede variar, pero algunas pueden llegar a abarcar varios kilómetros. Si un spren es empujado de alguna manera hacia el Reino Cognitivo, su Radiante puede ser capaz de atraerlo de nuevo al Reino Físico.
+Los spren también pueden anclarse a un Radiante mientras buscan un escudero al que vincular, otorgándoles cierto nivel de estabilidad en el Reino Físico. Por lo tanto, a diferencia del [[V%C3%ADnculo Luhel\|vínculo Luhel]] que canjea agua por materia física, el vínculo Nahel canjea los beneficios para el Radiante por conciencia y anclaje al Reino Físico para el spren.
 
-## Notable Surgebinders and Spren
-For a full list of Surgebinders, see :Category:Surgebinders.
-|**Surgebinder**|**Order**|**Spren type**|**Spren**|
+## Potenciadores y spren destacados
+Para una lista completa de potenciadores, ver :Categoría:Potenciadores.
+|**Potenciador**|**Orden**|**Tipo de spren**|**Spren**|
 |-|-|
-|[[Kaladin\|Kaladin]]|[[Windrunner\|Windrunner]]|[[Honorspren\|Honorspren]]|[[Syl\|Syl]]|
-|[[Shallan\|Shallan]]|[[Order of Lightweavers\|Lightweaver]]|[[Cryptic\|Cryptic]]|[[Pattern\|Pattern]]|
-|[[Jasnah\|Jasnah]]|[[Elsecaller\|Elsecaller]]|[[Inkspren\|Inkspren]]|[[Ivory\|Ivory]]|
-|[[Renarin\|Renarin]]|[[Truthwatcher\|Truthwatcher]]|[[Mistspren\|Mistspren]]|[[Glys\|Glys]]|
-|[[Dalinar\|Dalinar]]|[[Bondsmith\|Bondsmith]]|*unique*|[[Stormfather\|Stormfather]]|
-|[[Lift\|Lift]]|[[Order of Edgedancers\|Edgedancer]]|[[Cultivationspren\|Cultivationspren]]|[[Wyndle\|Wyndle]]|
-|[[Lopen\|Lopen]]|[[Windrunner\|Windrunner]]|[[Honorspren\|Honorspren]]|[[Rua\|Rua]]|
-|[[Huio\|Huio]]|[[Windrunner\|Windrunner]]|[[Honorspren\|Honorspren]]|[[Caelinora\|Caelinora]]|
-|[[Teft\|Teft]]|[[Windrunner\|Windrunner]]|[[Honorspren\|Honorspren]]|[[Phendorana\|Phendorana]]|
-|[[Szeth\|Szeth]]|[[Skybreaker\|Skybreaker]]|[[Highspren\|Highspren]]|*unknown*|
-|[[Hoid\|Hoid]]|[[Order of Lightweavers\|Lightweaver]]|[[Cryptic\|Cryptic]]|[[Design\|Design]]|
-|[[Venli\|Venli]]|[[Willshaper\|Willshaper]]|[[Lightspren\|Lightspren]]|[[Timbre\|Timbre]]|
-|[[Rlain\|Rlain]]|[[Truthwatcher\|Truthwatcher]]|[[Mistspren\|Mistspren]]|[[Tumi\|Tumi]]|
-|[[Navani\|Navani]]|[[Bondsmith\|Bondsmith]]|*unique*|The [[Sibling\|Sibling]]|
+|[[Kaladin\|Kaladin]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Syl\|Syl]]|
+|[[Shallan\|Shallan]]|[[Tejedores de Luz\|Tejedora de Luz]]|[[Cr%C3%ADptico\|Críptico]]|[[Pattern\|Pattern]]|
+|[[Jasnah\|Jasnah]]|[[Nominador de lo Otro\|Nominador de lo Otro]]|[[Tintaspren\|Tintaspren]]|[[Ivory\|Ivory]]|
+|[[Renarin\|Renarin]]|[[Vigilante de la Verdad\|Vigilante de la Verdad]]|[[Brumaspren\|Brumaspren]]|[[Glys\|Glys]]|
+|[[Dalinar\|Dalinar]]|[[Forjador de V%C3%ADnculos\|Forjador de Vínculos]]|*Único*|[[Padre Tormenta\|Padre Tormenta]]|
+|[[Lift\|Lift]]|[[Danzante del Filo\|Danzante del Filo]]|[[Cultivacispren\|Cultivacispren]]|[[Wyndle\|Wyndle]]|
+|[[Lopen\|Lopen]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Rua\|Rua]]|
+|[[Huio\|Huio]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Caelinora\|Caelinora]]|
+|[[Teft\|Teft]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Phendorana\|Phendorana]]|
+|[[Szeth\|Szeth]]|[[Rompedor del Cielo\|Rompedor del Cielo]]|[[Altospren\|Altospren]]|*[[Altospren de Szeth\|Desconocido]]*|
+|[[Hoid\|Hoid]]|[[Tejedores de Luz\|Tejedor de Luz]]|[[Cr%C3%ADptico\|Críptico]]|[[Dise%C3%B1o\|Diseño]]|
+|[[Venli\|Venli]]|[[Escultor de Voluntad\|Escultora de Voluntad]]|[[Lumispren\|Lumispren]]|[[Timbre\|Timbre]]|
+|[[Rlain\|Rlain]]|[[Vigilante de la Verdad\|Vigilante de la Verdad]]|[[Brumaspren\|Brumaspren]]|[[Tumi\|Tumi]]|
+|[[Navani\|Navani]]|[[Forjador de V%C3%ADnculos\|Forjadora de Vínculos]]|*Único*|El [[Hermano\|Hermano]]|
 
-## Trivia
-The word "Nahel" is a Rosharan word that means "the bond to divinity", while the word "bond" was added to the term to avoid confusing readers. Assuming the Luhel bond comes from the same root, it can be assumed that the root *-hel* indicates a bond to something, and *na-* relates to divinity.
+## Curiosidades
+La palabra «Nahel» es una palabra roshariana que significa «el vínculo con la divinidad», mientras que la palabra «vínculo» se añadió al término para evitar confundir a los lectores. Suponiendo que el vínculo Luhel proceda de la misma raíz, cabe suponer que la raíz *-hel* indica un vínculo con algo, y *na-* se relaciona con la divinidad.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Nahel_bond
+
+https://es.coppermind.net/wiki/Nahel_bond

@@ -1,33 +1,49 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**KaDo**|
 |-|-|
-|**Type**|Spice|
-|**Used for**|Poison|
-|**World of Origin**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Tipo**|Especia|
+|**Se usa para**|Veneno|
+|**Mundo de origen**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**KaDo** is a rare [[Kerztian\|Kerztian]] spice on [[Taldain\|Taldain]]. It accelerates dehydration and can cause people to act rashly. KaDo can serve as a poison in the parched desert climate of [[Dayside\|Dayside]]. It is particularly effective on [[Sand mastery\|sand masters]] since they naturally become dehydrated while using their powers.
+**KaDo** es una rara especia [[Kerzta\|kerztiana]] en [[Taldain\|Taldain]]. Acelera la deshidratación y puede hacer que la gente actúe precipitadamente. El KaDo puede servir como veneno en el clima desértico del Lado Diurno. Es especialmente eficaz en los [[Maestr%C3%ADa de la arena\|maestros de la arena]], ya que se deshidratan de forma natural mientras usan sus poderes.
 
-## Contents
+## Sumario
 
-1 History
+1 Historia. [[#Historia]] 
 
-1.1 Kerztian Attack on the Diem
-1.2 Drile and Kenton's Duel
-
-
-2 Notes
+1. [[#Ataque kerztiano al Diem]] 
+1. [[#Duelo de Drile y Kenton]] 
 
 
-## History
-### Kerztian Attack on the Diem
-[[Elorin\|Elorin]] used KaDo to poison the bowl that was used for a ceremonial drink shared by all of the sand masters in the [[Diem\|Diem]] during an advancement ceremony in the [[Kerla\|Kerla]]. This caused the sand masters to overmaster and dehydrate almost immediately when they were attacked by Kerztian warriors. The strongest Mastrells were the first to fall to dehydration and overmastery; likely because controlling more ribbons already increases the rate of dehydration, and that rate was increased by the KaDo.
-The Kerztians would not have usually attacked such a large groups of sand masters, but the effect of the KaDo left the Diem exceptionally vulnerable; nearly all of their members who fought were massacred or died through overmastery.
-
-### Drile and Kenton's Duel
-Before Drile's duel with [[Kenton\|Kenton]], Elorin dosed the water bowls for both Kenton and Drile. Kenton notes his eyes were already feeling dehydrated after the first volley of mastered sand. Drile also became dehydrated unusually quickly, and began to overburn to win the duel when Kenton began to make a come-back.
-After the fight, the two mastrells concluded that someone must have poisoned them hoping to ensure that a weak leader would rule the Diem, or that overburning might injure the [[Taishin\|Taishin]] watching the duel and send all of [[Lossand\|Lossand]] into chaos. Drile mentioned that the only other time he had seen similar weakness was during the attack in the Kerla, and recalled that Elorin was the person who gave out water that day.
-Kenton confronted Elorin, who confessed that he was a traitor and explained how he had accomplished the poisonings. Elorin attacked Kenton with his [[Zinkall\|zinkall]] before dying to a ribbon of sand.
+2 Notas. [[#Notas]] 
 
 
+## Historia
+### Ataque kerztiano al Diem
+[[Elorin\|Elorin]] utilizó KaDo para envenenar el cuenco que se usaba para una bebida ceremonial compartida por todos los maestros de la arena en el [[Diem\|Diem]] durante una Ceremonia de la Ascensión en el [[Kerla\|Kerla]]. Esto provocó que los maestros de la arena [[/wiki/Maestr%C3%ADa de la arena#Sobredominar]] y se deshidrataran casi de inmediato cuando fueron atacados por guerreros kerztianos. Los [[/wiki/Diem#Organizaci.C3.B3n]] más fuertes fueron los primeros en caer deshidratados y sobredominación; probablemente porque controlar más cintas ya aumenta la tasa de deshidratación, y esto se incrementó con el KaDo.
+Los kerztianos no habrían atacado normalmente a grupos tan grandes de maestros de la arena, pero el efecto del KaDo dejó al Diem excepcionalmente vulnerable; casi todos sus miembros que lucharon fueron masacrados o murieron a causa de la sobredominación.
 
-https://coppermind.net/wiki/KaDo
+### Duelo de Drile y Kenton
+Antes del duelo de Drile con [[Kenton\|Kenton]], Elorin les puso agua en los cuencos a Kenton y Drile. Kenton nota que sus ojos ya se sentían deshidratados tras la primera descarga de arena dominada. Drile también se deshidrató inusualmente rápido, y empezó a [[/wiki/Maestr%C3%ADa de la arena#Sobredominar]] para ganar el duelo cuando Kenton empezó a remontar.
+Tras la pelea, los dos mastrells llegaron a la conclusión de que alguien debía de haberlos envenenado con la esperanza de asegurarse de que un líder débil gobernara el Diem, o de que un exceso de sobredominio pudiera herir al los [[Taishin\|taishin]] que observaba el duelo y sumir a todo [[Lossand\|Lossand]] en el caos. Drile mencionó que la única otra vez que había visto una debilidad similar fue durante el ataque en el Kerla, y recordó que Elorin fue la persona que repartió agua aquel día.
+Kenton se enfrentó a Elorin, quien confesó que era un traidor y explicó cómo había llevado a cabo los envenenamientos. Elorin atacó a Kenton con su [[Zinkall\|zinkall]] antes de morir a causa de una cinta de arena.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+
+
+https://es.coppermind.net/wiki/KaDo

@@ -1,20 +1,41 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Hasper**|
 |-|-|
-|**Type**|Animal|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Tipo**|Animal|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Haspers** are a form of mollusk on [[Roshar\|Roshar]]. A **stranna hasper** refers to a variety of the mollusk that can be cooked and eaten.
+Los **haspers** son una forma de molusco en [[Roshar\|Roshar]]. Un **hasper de stranna** se refiere a una variedad del molusco que se puede cocinar y comer.
 
-## Appearance and Behavior
-Haspers are comprised of two shells that enclose a slimy interior. These two shells open and close in rhythm with one another. Due to this motion, haspers are often compared to tiny mouths that are breathing. At least some varieties of haspers have pearly shells. They may be related to tiny snails.
-Haspers are creatures that appear to spend most, if not all, of their life totally stationary. They grow in clusters, attached to the side of objects made of stone, wood, or on [[Shalebark\|shalebark]]. A cluster of haspers can support the weight of a few waterskins.
-Haspers can be found in a wide variety of places across eastern Roshar, including the docks of [[Kharbranth\|Kharbranth]], [[Hearthstone\|Hearthstone]], and the chasms of the [[Shattered Plains\|Shattered Plains]]. They reproduce during the [[Weeping\|Weeping]], with clusters seeming to grow out of nowhere. It is unknown what haspers feed on.
+## Apariencia y comportamiento
+Los haspers se componen de dos conchas que encierran un interior viscoso. Estas dos conchas se abren y cierran al ritmo de la otra. Debido a este movimiento, a menudo se compara a los haspers con pequeñas bocas que respiran. Al menos algunas variedades de haspers tienen conchas nacaradas. Pueden estar emparentados con los caracoles diminutos.
+Los haspers son criaturas que parecen pasar la mayor parte de su vida, si no toda, totalmente inmóviles. Crecen en grupos, fijados al costado de objetos de piedra, madera, o sobre [[Cortezapizarra\|cortezapizarra]]. Un grupo de haspers puede soportar el peso de unos cuantos odres.
+Los haspers pueden encontrarse en una gran variedad de lugares del este de Roshar, incluidos los muelles de [[Kharbranth\|Kharbranth]], [[Piedralar\|Piedralar]], y los abismos de las [[Llanuras Quebradas\|Llanuras Quebradas]]. Se reproducen durante el [[Llanto\|Llanto]], con racimos que parecen crecer de la nada. Se desconoce de qué se alimentan.
 
-## Culinary Use
-[[Adolin\|Adolin]] included steamed stranna haspers in a platter of food that he brought to [[Shallan\|Shallan's]] quarters in [[Urithiru\|Urithiru]] after training her in the use of a [[Shardblade\|Shardblade]].
-[[Eshonai\|Eshonai]] ate a meal of steamed haspers just before discovering the humans.
+## Uso culinario
+[[Adolin\|Adolin]] incluyó haspers de stranna al vapor en una fuente de comida que llevó a los aposentos de [[Shallan\|Shallan]] en [[Urithiru\|Urithiru]] tras entrenarla en el uso de un [[Hoja esquirlada\|hoja esquirlada]].
+[[Eshonai\|Eshonai]] comió haspers al vapor justo antes de descubrir a los humanos.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 02:47, 15 March 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Hasper
+https://es.coppermind.net/wiki/Hasper

@@ -1,116 +1,136 @@
+
+
 |**Ba-Ado-Mishram**|
 |-|-|
-|by  Connor Chamberlain |
-|**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
-|**Groups**|[[Unmade\|Unmade]]|
-|**Species**|[[Spren\|Spren]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Capacidades**|[[Astilla\|Astilla]] de [[Odium\|Odium]]|
+|**Grupo**|[[Deshecho\|Deshecho]]🐱︎|
+|**Especie**|[[Spren\|Spren]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*I find Ba-Ado-Mishram to be the most interesting of the Unmade. She is said to have been keen of mind, a highprincess among the enemy forces, their commander during some of the Desolations. I do not know how this relates to the ancient god of the enemy, named Odium.*”
-\-From Hessi's Mythica, page 203[1]
-
-
-**Ba-Ado-Mishram,** sometimes called just **Mishram**, is one of the [[Unmade\|Unmade]], an ancient and terrible [[Spren\|spren]] of [[Odium\|Odium]]. She is a sapient Unmade and is crafty and conniving. She was a primary instigator of the [[False Desolation\|False Desolation]], leading to her imprisonment by the [[Knights Radiant\|Knights Radiant]], which put the vast majority of [[Singer\|singers]] into slaveform, and affected all spren on [[Roshar\|Roshar]].
-She is unique among the Unmade for having two hyphens in her name, whereas others only have one or zero.
-
-## Contents
-
-1 Mythology and Lore
-2 Attributes and Abilities
-3 History
-
-3.1 Early History
-3.2 The False Desolation
-3.3 Effects of the Binding
-3.4 True Desolation
+>“*Considero a Ba-Ado-Mishram la más interesante de los Deshechos. Se dice que tenía una mente aguzada, que era una alta princesa entre las fuerzas enemigas, incluso su comandante en varias de las Desolaciones. No sé qué relación puede guardar esto con el antiguo dios del enemigo, llamado Odium.*”
+\-De Mítica de Hessi, página 224.[1]
 
 
-4 Relationships
+**Ba-Ado-Mishram,** en ocasiones llamada sólo **Mishram**, es una de los [[Deshecho\|Deshechos]], un terrible y anciano [[Spren\|spren]] de [[Odium\|Odium]] . Es una Deshecho inteligente y es astuta y conspiradora. Fue una de las principales instigadoras de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], lo que condujo a su encarcelamiento por parte de los [[Caballeros Radiantes\|Caballeros Radiantes]], esto convirtió a la mayoría de los [[Cantor\|cantores]] en la forma esclava, y afectó a todos los spren de [[Roshar\|Roshar]].
+Es única entre los Deshechos por tener dos guiones en su nombre, mientras que los otros tienen uno o ninguno.
 
-4.1 Ulim
-4.2 Kalak
-4.3 Others
+## Sumario
 
+1 Conocimientos y mitología. [[#Conocimientos y mitolog.C3.ADa]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-5 Notes
-
-
-## Mythology and Lore
- by  Anya 
->“*There is very little information about Ba-Ado-Mishram in more modern times. I can only assume she, unlike many of them, returned to Damnation or was destroyed during Aharietiam.*”
-\-From Hessi's Mythica, page 226[9]
-
-
-In modern times, [[Hessi\|Hessi]] believed Ba-Ado-Mishram to be a highprincess of the [[Voidbringer\|Voidbringers]], and was their commander in some [[Desolation\|Desolations]]. There was no record of Ba-Ado-Mishram in the present day, and so Hessi suspected that she returned to Damnation or was destroyed in [[Aharietiam\|Aharietiam]].
-However, the reason why Ba-Ado-Mishram is absent in the modern era is because she was imprisoned during the [[False Desolation\|False Desolation]], around the time of the [[Recreance\|Recreance]]. It is also possible that the reason why there are legends of her being the commander of the enemy is because of her role in the False Desolation as well, rather than actually being a commander during actual Desolations with the [[Fused\|Fused]].
-
-## Attributes and Abilities
-Ba-Ado-Mishram has some of the most powerful capabilities of individuals outside of [[Shard\|Shards]]. She was able to Connect with singers on a massive scale, Connecting with all of them (except the [[Listener\|listeners]]) across the entirety of Roshar, which suggests that it was not a short-ranged, local process near Ba-Ado-Mishram--like [[Moelach\|Moelach]] or [[Nergaoul\|Nergaoul's]] effects--but a continent-wide display of power.
-Ba-Ado-Mishram was able to supply the singers with [[Voidlight\|Voidlight]] and forms of power, making singers into [[Regal\|Regals]]. This shows she has access to a huge quantity of [[Investiture\|Investiture]] on a scale other Unmade lack. This ability was compared to [[Odium\|Odium]] in previous Desolations, which likely means that Ba-Ado-Mishram could not supply infinite Voidlight to the Regals, as the Fused in Desolations did not have access to infinite Voidlight either. It is unknown whether her Connection let Ba-Ado-Mishram speak to singers directly as Odium does, or command the conflict directly.
-The Knights Radiant did not know Ba-Ado-Mishram could Connect with the singers, and did not know how she managed to do it. She had not done this prior to the False Desolation.
-Her other abilities are unclear aside from this Connection. If she was in fact a highprincess of the Voidbringers, or a commander of the enemy during actual Desolations, she would likely need to be powerful or fearsome for [[Fused\|Fused]] to follow her. However, it is said that the Radiants feared [[Sja-anat\|Sja-anat]] most of all Unmade, not Ba-Ado-Mishram, so it is possible she was not the biggest threat to the Radiants.
-She is currently imprisoned, and she would not fade in her gemstone like a [[Herald\|Herald]] would.
-
-## History
-### Early History
-Like all Unmade, Ba-Ado-Mishram's true origin is unknown. Her role during the Desolations is unclear, but she was said to be a highprincess of the enemy, and a commander in some Desolations. Her relationship with the [[Fused\|Fused]] during the Desolations is unclear.
-After the Last Desolation, Ba-Ado-Mishram continued to exist on Roshar. Little is known as to her influence on events during this period of the [[Era of Solitude\|Era of Solitude]].
-
-### The False Desolation
->“*Ba-Ado-Mishram has somehow Connected with the parsh people, as Odium once did. She provides Voidlight and facilitates forms of power. Our strike team is going to imprison her.*”
-\-Drawer 30-20, fourth emerald[5]
-
-About 2,500 years after Aharietiam, Ba-Ado-Mishram [[Connection\|Connected]] with the vast majority of [[Singer\|singers]] on Roshar--all except the [[Listener\|listeners]]. She granted the singers forms of powers--making them into [[Regals\|Regals]]--and provided them with [[Voidlight\|Voidlight]]. This created a new war, and a different kind of Desolation, one without the Fused. Scholars would later term it the [[False Desolation\|False Desolation]]. It's unclear what Ba-Ado-Mishram's motives were in starting this new war, nor is it obvious if she was acting at Odium's wishes.
-The [[Knights Radiant\|Knights Radiant]] of the era felt that the singers fought with zeal, and did not know how Ba-Ado-Mishram could Connect with the singers. The fighting was particularly intense during this period. At some point, the singers pressed towards [[Feverstone Keep\|Feverstone Keep]], though the Radiants did not understand why the area interested the singers--or perhaps Ba-Ado-Mishram--so much. Some speculated that it had been part of a plan to capture the city of [[Rall Elorim\|Rall Elorim]].
-The Radiants sought an edge in combat with the singers, and made a coalition of scholar Radiants with the goal of denying the singers their Voidlight.
-They had a theory that an Unmade could be captured like regular spren, but it would require a special prison--likely a [[Perfect gemstone\|perfect gemstone]]--and [[Melishi\|Melishi]], the [[Bondsmith\|Bondsmith]] of that generation. So, the Radiants formed a strike team to imprison Ba-Ado-Mishram. Melishi was confident in the plan, but other Radiants were uncertain on the effects this would have on the singers. Still, they hoped this would finally lead to the end of the war with the singers, once and for all.
-The [[Herald\|Heralds]] [[Nale\|Nale]] and [[Kalak\|Kalak]], and possibly others, were present at Ba-Ado-Mishram's binding, though their role there is unknown. Ultimately, the strike team was successful and Ba-Ado-Mishram was captured.
-
-### Effects of the Binding
->“*Thousands of years ago, something happened that changed the singers. It hurt me too. [...] That terrible act touched the souls of all who belong to Roshar. Spren too.*”
-\-The Sibling to Navani[8]
+3. [[#Historia temprana]] 
+3. [[#La Falsa Desolaci.C3.B3n]] 
+3. [[#Efectos del v.C3.ADnculo]] 
+3. [[#Aut.C3.A9ntica Desolaci.C3.B3n]] 
 
 
-Ba-Ado-Mishram's binding had massive effects on Roshar. It ripped out both [[Connection\|Connection]] and [[Identity\|Identity]] from the singers, which prevented them from being able to act independently. This Spiritual damage persisted even through the singers' offspring. The few singers that were not part of the False Desolation--the [[Listeners\|listeners]]--termed these singers as slaveforms; singers with no form. Humans used these singers as slaves for two thousand years, until the [[Everstorm\|Everstorm]] arrived and healed them. The singers were furious at humanity for this act of enslavement, and this became a rallying cry for them to fight against humanity in the [[True Desolation\|True Desolation]].
+4 Relaciones. [[#Relaciones]] 
 
->“*Trouble is, spren can get stuck in gemstones, and the humans figured this out. End result: Ba-Ado-Mishram got a really cramped prison, and everyone’s souls got seriously messed up.*”
-\-Ulim explaining to Venli[6]
-
-Fighting in the False Desolation occurred near Feverstone Keep, and since that is the site of many [[Windrunner\|Windrunners]] and [[Stoneward\|Stonewards]] abandoning their oaths, it is possible that Ba-Ado-Mishram's imprisonment precipitated the Recreance. It may have been the final thing that made the Radiants feel they were on the wrong side.
-Mishram's binding damaged more than the singers, and according to the [[Sibling\|Sibling]], touched the souls of "all who belong to Roshar," including the spren. [[Deadeye\|Deadeyes]] did not exist prior to the Recreance, so the Unmade's binding could be why the Radiants and spren in the Recreance caused the spren to unexpectedly transform into deadeyes.
-The damage to the Sibling disabled [[Urithiru\|Urithiru]]. The Sibling lost their ability to produce [[Towerlight\|Towerlight]] en masse, and the tower city stopped working. They could only create small quantities of Towerlight to power a few of the tower's basic [[Fabrial\|fabrials]]. The Sibling lost their power because they could no longer hear the two tones of Roshar, [[Honor\|Honor]] and [[Cultivation\|Cultivation's]] tones. [[Navani Kholin\|Navani Kholin]] thought this could be because [[Odium\|Odium's]] tone became a tone of Roshar as well.
-Ba-Ado-Mishram's binding made the Fused realize that spren could be trapped in gemstones, and a Fused named [[She Who Dreams\|She Who Dreams]] came up with the idea that a Herald's soul could be trapped this way. This led to the creation of [[Vyre's knife\|knives]] with [[Raysium\|raysium]], one of which bound [[Jezrien\|Jezrien's]] soul, killing him.
-
-### True Desolation
->“*Why do you want the gemstone that holds Ba-Ado-Mishram, Mraize? What are you intending to do with it? What power do the Ghostbloods seek with a thing that can bind the minds of an entire people?*”
-\-Shallan confronting Mraize[29]
+4. [[#Ulim]] 
+4. [[#Kalak]] 
+4. [[#Otros]] 
 
 
-In 1175, during the [[True Desolation\|True Desolation]], the location of Ba-Ado-Mishram's gemstone prison remained unknown, but the [[Ghostbloods\|Ghostbloods]] sought it. [[Ialai Sadeas\|Ialai Sadeas's]] journal which [[Shallan\|Shallan]] acquired at Ialai's death described the Ghostbloods being "obsessed" with Ba-Ado-Mishram. Shallan suspected [[Mraize\|Mraize]] thought that Ba-Ado-Mishram would be in [[Urithiru\|Urithiru]], but Shallan realized this must have been wrong, because if that was true, [[Re-Shephir\|Re-Shephir]] would have freed Mishram. Shallan wondered that since Mraize wished to move [[Stormlight\|Stormlight]] off Roshar that perhaps Ba-Ado-Mishram could be used for this purpose.
-Kalak believed this was why the Ghostbloods hunted him. Shallan confronted Mraize using her [[Seon\|seon]] [[Ala\|Ala]], and demanded to know what the Ghostbloods' plan was with a spren which could bind minds of an entire people. Mraize didn't respond, and Shallan declared that she would find Ba-Ado-Mishram's gemstone before they would.
-In Kalak's journal, which he wrote as he hid in [[Lasting Integrity\|Lasting Integrity]], he urged Ba-Ado-Mishram to be found and freed.
+5 Notas. [[#Notas]] 
 
-## Relationships
+
+## Conocimientos y mitología
+ 
+>“*Existe muy poca información acerca de Ba-Ado-Mishram procedente de tiempos más modernos. Debo suponer que ella, al contrario que muchos de los demás, regresó a Condenación o fue destruida en el Aharietiam.*”
+\-De Mítica de Hessi, página 226.[9]
+
+
+En tiempos más modernos, [[Hessi\|Hessi]] creía que Ba-Ado-Mishram era una alta princesa de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]], y que fue su comandante en algunas [[Desolaci%C3%B3n\|Desolaciones]]. No hay ningún registro de Ba-Ado-Mishram en la actualidad, por lo que Hessi sospechaba que había vuelto a Condenación o había sido destruida en el [[Aharietiam\|Aharietiam]].
+Sin embargo, la razón por la que Ba-Ado-Mishram se encontraba ausente era porque había sido encarcelada durante la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], sobre el momento de la [[Traici%C3%B3n\|Traición]]. También es posible que la razón por la que existen esas leyendas de ella siendo su comandante puede ser por su rol en la Falsa Desolación, en lugar de ser realmente una comandante durante las verdaderas Desolaciones con los [[Fusionado\|Fusionados]].
+
+## Atributos y habilidades
+Ba-Ado-Mishram tiene algunas de las capacidades individuales más poderosas fuera de las [[Esquirla\|Esquirlas]]. Es capaz de Conectarse con los cantores a una escala masiva, Conectándose con todos a lo largo de Roshar (con la excepción de los [[Oyente\|oyentes]]), lo que sugiere que su poder, como el de [[Moelach\|Moelach]] o [[Nergaoul\|Nergaoul]] no es de corto alcance a su alrededor, si no que demuestra tener un alcance continental.
+Ba-Ado-Mishram fue capaz de suministrar a los cantores con [[Luz del vac%C3%ADo\|luz del vacío]] y formas de poder, convirtiendo a los cantores en [[Regio\|Regios]]. Esto muestra que tiene acceso a una gran cantidad de [[Investidura\|Investidura]] en una escala desconocida para el resto de Deshechos. Esta habilidad fue comparada a [[Odium\|Odium]] en las anteriores Desolaciones, lo que probablemente significa que Ba-Ado-Mishram no podía abastecer a los Regios con una cantidad infinita de luz del vacío, ya que los Fusionados tampoco tenían acceso ilimitado a la luz durante las Desolaciones. Se desconoce si su Conexión le permite hablar con los cantores como Odium hace o controlar el conflicto directamente.
+Los Caballeros Radiantes no sabían de la Conexión de Ba-Ado-Mishram con los cantores y no sabían como ella los dirigía. Esto no había sucedido antes de la Falsa Desolación.
+Aparte de esta Conexión, sus otras habilidades no están claras. Si realmente fue una alta princesa de los Portadores de Vacío, o una comandante enemiga durante las Desolaciones es algo que aún no ha quedado claro,lo que sí es probable es que necesitaría ser poderosa o temida por los [[Fusionado\|fusionados]] para que estos la siguieran. Sin embargo, se decía que de los Deshechos, al que más temían los Radiantes era [[Sja-anat\|Sja-anat]], no Ba-Ado-Mishram, por lo que es posible que no fuera una gran amenaza para estos.
+Actualmente se encuentra encarcelada, pero no se desvanece de su gema como lo haría un [[Heraldo\|Heraldo]].
+
+## Historia
+### Historia temprana
+Como todos los Deshechos, el origen de Ba-Ado-Mishram es desconocido. Su rol en las Desolaciones no está claro, pero se dice que era una alta princesa enemiga, y su comandante en algunas Desolaciones. Su relación con los [[Fusionado\|Fusionados]] durante estas es confuso.
+
+Tras la Última Desolación, Ba-Ado-Mishram continúa viviendo en Roshar. Poco se sabe de su influencia durante los eventos de la [[Era de la Soledad\|Era de la Soledad]].
+
+### La Falsa Desolación
+>“*Ba-Ado-Mishram ha Conectado de algún modo con el pueblo parsh, como hizo en su momento [[Odium\|Odium]]. Les proporciona [[Luz del vac%C3%ADo\|luz del vacío]] e incita sus formas de poder. Nuestro equipo de asalto va a apresarla.*”
+\-Del cajón 30-20, cuarta esmeralda.[5]
+
+Aproximadamente 2.500 años después del Aharietiam, Ba-Ado-Mishram [[Conexi%C3%B3n\|Conectó]] con la vasta mayoría de [[Cantor\|cantores]] de Roshar, todos excepto los [[Oyente\|oyentes]]. Les proporcionó formas de poder (convirtiendoles en [[Regio\|Regios]]) y les suministró [[Luz del vac%C3%ADo\|luz del vacío]]. Esto inició una nueva guerra y una clase diferente de Desolación, una sin los Fusionados. Los eruditos la llamarían más tarde la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]]. Se desconocen los motivos de Ba-Ado-Mishram para iniciar esta guerra, ni está claro si actuaba bajo los deseos de Odium.
+Los [[Caballeros Radiantes\|Caballeros Radiantes]] de la época sentían que los cantores de la época luchaban con fervor, y no sabían cómo estaban Conectados con Ba-Ado Mishram. La lucha fue particularmente intensa en este periodo. En algún punto, los cantores presionaron hacia la [[Fortaleza de la Fiebre de Piedra\|Fortaleza de la Fiebre de Piedra]], aunque los Radiantes no entendían porque esa área les interesaba tanto a los cantores (o a Ba-Ado-Mishram). Algunas especulaciones decían que era parte de un plan para capturar la ciudad de [[Rall Elorim\|Rall Elorim]].
+Los Radiantes buscaron una ventaja en la batalla contra los cantores, y formaron una coalición de Radiantes eruditos con el objetivo de impedir el acceso a la luz del vacío a los cantores. Tenían la teoría de que un Deshecho podía ser capturado como un spren normal, pero que requerirían una prisión especial, como una [[Gema perfecta\|gema perfecta]] y a [[Melishi\|Melishi]], el [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] de esa generación. Así, los Radiantes formaron un equipo de ataque para encarcelar a Ba-Ado-Mishram. Melishi confiaba en el plan, pero otros radiantes no estaban seguros de los efectos que tendría en los cantores. Aún así, esperaban que esto finalmente los condujera al final de la guerra con los cantores.
+Los [[Heraldo\|Heraldos]] [[Nale\|Nale]] y [[Kalak\|Kalak]], y posiblemente algún otro, estuvieron presentes en el encarcelamiento de Ba-Ado-Mishram, aunque su rol en esto es desconocido. Finalmente, el equipo de ataque tuvo éxito y Ba-Ado-Mishram fue capturada.
+
+### Efectos del vínculo
+>“*Hace miles de años sucedió algo que cambió a los cantores. También me hizo daño a mí. [...] Aquel acto terrible tocó las almas de todos quienes pertenecían a Roshar. También de los spren.*”
+\-El Hermano a Navani.[8]
+
+
+El vínculo de Ba-Ado-Mishram tuvo efectos masivos sobre Roshar. Rompió la [[Conexi%C3%B3n\|Conexión]] y la [[Identidad\|Identidad]] de los cantores, lo que les impidió poder actuar de forma independiente. Este daño espiritual persistió incluso a través de su descendencia. Los pocos cantores que no tomaron parte en la Falsa Desolación, los [[Oyente\|oyentes]] denominaron a estos como formas esclavas, cantores sin forma. Los humanos usaron a estos cantores como esclavos durante dos siglos, hasta que la [[Tormenta eterna\|tormenta eterna]] llegó y los curó. Los cantores estaban furiosos con la humanidad por su acto de esclavitud, lo que se convirtió en un grito de guerra para la lucha contra la humanidad en la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
+
+>“*El problema es que los spren pueden quedarse atrapados en gemas y los humanos se dieron cuenta de eso. ¿El resultado? Que Ba-Ado-Mishram acabó en una cárcel apretada de verdad y las almas de todo el mundo se quedaron hechas un lío de los gordos.*”
+\-Ulim explicándole a Venli.[6]
+
+La lucha durante la Falsa Desolación ocurrió cerca de la Fortaleza de la Fiebre de Piedra, y dado que este es el sitio en el que muchos [[Corredores del Viento\|Corredores del Viento]] y [[Custodios de Piedra\|Custodios de Piedra]] abandonaron sus juramentos, es posible que el encarcelamiento de Ba-Ado-Mishram precipitara la Traición. Esto podría haber sido el motivo final que hiciera sentir a los Radiantes que estaba en el lado equivocado.
+El vinculamiento de Mishram hizo más daño que los cantores, y según el [[Hermano\|Hermano]], tocó las almas de “todos quienes pertenecían a Roshar”, incluidos los spren. Los [[Ojomuerto\|ojomuertos]] no existían hasta la Traición, así que el vínculo del Deshecho pudo ser el motivo por el que Radiantes y spren en la Traición causaron que los spren se transformaran inesperadamente en ojomuertos.
+El daño hecho al Hermano incapacitó [[Urithiru\|Urithiru]]. El Hermano perdió su capacidad de producir [[Luz de torre\|luz de torre]] en masa, y la torre dejó de funcionar. Sólo podía crear pequeñas cantidades de luz de torre para dar poder a unos pocos [[Fabrial\|fabriales]] básicos de la torre. El Hermano perdió su poder porque no podía escuchar los dos tonos de Roshar, el tono de [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]]. [[Navani Kholin\|Navani Kholin]] piensa que esto puede ser porque el tono de [[Odium\|Odium]] también se convirtió en un tono de Roshar.
+El encarcelamiento de Ba-Ado-Mishram hizo que los Fusionados se dieran cuenta de que los spren se podían atrapar en gemas, por lo que la Fusionada denominada [[Aquella Que Sue%C3%B1a\|Aquella Que Sueña]] surgió con la idea de que el alma de los Heraldos podría ser atrapada de la misma forma. Esto llevó a la creación de [[Cuchillo de Vyre\|cuchillos]] de [[Raysio\|raysio]], uno de los cuales vinculó el alma de [[Jezrien\|Jezrien]], matándolo.
+
+### Auténtica Desolación
+>“*¿Para qué quieres la gema que retiene a Ba-Ado-Mishram, Mraize? ¿Qué pretendes hacer con ella? ¿Qué poder perseguís los Sangre Espectral con un ente que puede atar las mentes de un pueblo entero?*”
+\-Shallan confrontando a Mraize.[29]
+
+
+En 1175, durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], la localización de la gema prisión de Ba-Ado-Mishram continuaba siendo desconocida, pero los [[Sangre Espectral\|Sangre Espectral]] la estaban buscando. El diario de [[Ialai Sadeas\|Ialai Sadeas]], que [[Shallan\|Shallan]] adquiere en la muerte de esta, describe que los Sangre Espectral estaban “obsesionados” con Ba-Ado-Mishram. Shallan sospecha que [[Mraize\|Mraize]] cree que Ba-Ado-Mishram podría estar en [[Urithiru\|Urithiru]], pero se da cuenta de que esto podría ser erróneo, porque de ser cierto, [[Re-Shephir\|Re-Shephir]] la habría liberado. Shallan se pregunta si, ya que Mraize desea transportar [[Luz tormentosa\|luz tormentosa]] fuera de Roshar, Ba-Ado-Mishram podría ser usada para este propósito.
+Kalak cree que por esto lo cazan los Sangre Espectral. Shallan se enfrenta a Mraize usando su [[Seon\|seon]] [[Ala\|Ala]], exigiendo saber cuál era la relación del plan de los Sangre Espectral con un spren que une las mentes de todo un pueblo. Mraize no respondió, pero Shallan declaró que iba a encontrar la gema de Ba-Ado-Mishram antes que ellos.
+En el diario de Kalak, que este escribió mientras se escondía en [[Integridad Duradera\|Integridad Duradera]], instó a encontrar y liberar a Ba-Ado-Mishram.
+
+## Relaciones
 ### Ulim
->“*Eventually the Unmade decided to start a war without us. That turned out to be exceedingly stupid. In the past, Odium granted forms of power, but Ba-Ado-Mishram thought she could do it. Ended up handing out forms of power as easily as Fused give each other titles, Connected herself to the entire singer species. Became a little god. Too little.*”
-\-Ulim to Venli[6]
+>“*Después de un tiempo, los Deshechos decidieron empezar una guerra sin nosotros. Resultó ser una estupidez suprema. En el pasado era Odium quien concedía las formas de poder, pero Ba-Ado-Mishram pensó que podría hacerlo ella. Acabó entregando formas de poder con la misma facilidad con que los Fusionados se dan títulos entre ellos, Conectándose a sí misma con toda la especie cantora. Se convirtió en una pequeña diosa. Demasiado pequeña.*”
+\-Ulim a Venli.[6]
 
 
-Ulim thinks that Ba-Ado-Mishram's actions in the False Desolation were extremely stupid. He belittles her actions, calling her a "little god" and that she was just an oversized spren which they relied on.
+Ulim piensa que las acciones de Ba-Ado-Mishram en la Falsa Desolación fueron extremadamente estúpidas. Menosprecia sus acciones, llamándola “pequeña diosa”, y que sólo era una spren venida a más en quien los cantores confiaban.
 
 ### Kalak
->“*As one who has suffered for so many centuries . . . as one whom it broke . . . please find Mishram and release her. Not just for her own good. For the good of all spren.*
-\-For I believe that in confining her, we have caused a greater wound to Roshar than any ever realized.
+>“*Como alguien que ha sufrido durante tantos siglos… como alguien a quien eso quebró… por favor, encontrad a Mishram y liberadla. No solo por su propio bien. Por el bien de todos los spren.*
+\-Pues creo que al encerrarla hemos provocado una herida a Roshar más grave de lo que nadie ha comprendido nunca.
 
 
-The Herald Kalak is the only known individual to refer to Ba-Ado-Mishram as simply "Mishram." This is the only instance of an Unmade's name being shortened to just one part of their hyphenated name. It's unclear why this is, or if Kalak had familiarity with Ba-Ado-Mishram in the past. In Kalak's journal, he appears to have some caring for Ba-Ado-Mishram's own well-being, and urges someone to find and free her, both for her sake and Roshar's.
+El Heraldo Kalak es el único individuo conocido en referirse a Ba-Ado-Mishram simplemente como “Mishram”. Esta es la única muestra del nombre de uno de los Deshechos siendo acortado a una de las partes de su nombre con guiones. No está claro el porqué de esto, o si Kalak tenía confianza con Ba-Ado-Mishram en el pasado. En el diario de Kalak, parece estar preocupado por su bienestar, e insta a alguien a encontrarla y liberarla tanto por su bien como por el de Roshar.
 
-### Others
-Another Unmade, [[Sja-anat\|Sja-anat]], did not believe herself to be the most clever of the Unmade. She compares herself to Ba-Ado-Mishram, and refers to Ba-Ado-Mishram as crafty and conniving. This could indicate that Sja-anat believes Ba-Ado-Mishram is actually the most clever of all the Unmade.
-It is unclear what Ba-Ado-Mishram's relationship was with the [[Fused\|Fused]]. Though Hessi thinks Ba-Ado-Mishram was a commander during the Desolations, it's unknown if the Unmade ordered Fused around directly.
-Odium's relation with Ba-Ado-Mishram is unknown. She may or may not have started the False Desolation at Odium's behest.
+### Otros
+Otra Deshecho, [[Sja-anat\|Sja-anat]], no creía ser el Deshecho más inteligente. Se compara a sí misma con Ba-Ado-Mishram, y se refiere a ella como alguien astuta y confabuladora. Esto parece indicar que Sja-Anat cree que Ba-Ado-Mishram es la Deshecho más inteligente.
+No está clara qué relación tenía con los [[Fusionado\|Fusionados]]. Aunque Hessi piensa que Ba-Ado-Mishram fue su comandante durante las Desolaciones, no se sabe si los Deshechos daban órdenes a los Fusionados directamente.
+Su relación con Odium es desconocida. Podría o no haber comenzado la Falsa Desolación por orden de Odium.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 19:32, 17 November 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Ba-Ado-Mishram
+https://es.coppermind.net/wiki/Ba-Ado-Mishram

@@ -1,80 +1,94 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tedradel**|
 |-|-|
-|**World**|[[Nalthis\|Nalthis]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo**|[[Nalthis\|Nalthis]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Tedradel** is a kingdom on [[Nalthis\|Nalthis]]. It has existed for at least three hundred years.
+**Tedradel** es un reino en [[Nalthis\|Nalthis]]. Ha existido durante al menos trescientos años.
 
-## Contents
+## Sumario
 
-1 Geography
-2 Government
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Gobierno. [[#Gobierno]] 
 
-2.1 Monarchy
-2.2 Foreign Policy and International Relationships
+2. [[#Monarqu.C3.ADa]] 
+2. [[#Pol.C3.ADtica exterior y relaciones internacionales]] 
 
-2.2.1 Hallandren
-2.2.2 Idris
-
-
+2. [[#Hallandren]] 
+2. [[#Idris]] 
 
 
-3 Culture
-
-3.1 People
-3.2 Fashion
 
 
-4 Economy
-5 History
+3 Cultura. [[#Cultura]] 
 
-5.1 Establishment
-5.2 Tensions with Hanald
-5.3 The Manywar
+3. [[#Gente]] 
+3. [[#Moda]] 
 
 
-6 Notes
+4 Economía. [[#Econom.C3.ADa]] 
+5 Historia. [[#Historia]] 
+
+5. [[#Instauraci.C3.B3n]] 
+5. [[#Tensiones con Hanald]] 
+5. [[#La Multiguerra]] 
 
 
-## Geography
-Tedradel lies east of the [[Bright Sea\|Bright Sea]], directly across from [[Hallandren\|Hallandren]]. Not much is known of Tedradel’s climate, although it is known to be either a mountain, prairie, steppe or a desert climate.
+6 Notas. [[#Notas]] 
 
-## Government
-### Monarchy
-Tedradel is a kingdom, and as such it is ruled by a monarch.
 
-### Foreign Policy and International Relationships
+## Geografía
+Tedradel se encuentra al este del [[Mar Brillante\|mar Brillante]], justo enfrente de [[Hallandren\|Hallandren]]. No se sabe mucho del clima de la zona, aunque se sabe que es un clima de montaña, pradera, estepa o desierto.
+
+## Gobierno
+### Monarquía
+Tedradel es un reino, y como tal está gobernado por un monarca.
+
+### Política exterior y relaciones internacionales
 #### Hallandren
-Tedradel’s opinion of Hallandren hasn’t improved much since the [[Manywar\|Manywar]], which saw Hanald, the predecessor of Hallandren, and Tedradel go to war with each other Their opinion of Hallandren is low enough that [[Yarda\|Yarda]] considers it possible that Tedradel would go to war with Hallandren again, should Idris be attacked.
-Tedradel still has many traders in T’Telir, and likely other Hallandren cities as well.
+La opinión de Tedradel sobre Hallandren no ha mejorado mucho desde [[La Multiguerra\|la Multiguerra]], que vio cómo Hanald, el predecesor de Hallandren, y Tedradel entraban en guerra entre sí. Su opinión de Hallandren es lo suficientemente baja como para que [[Yarda\|Yarda]] considere posible que Tedradel vuelva a entrar en guerra con Hallandren, en caso de que Idris sea atacada.
+Tedradel aún tiene muchos comerciantes en T'Telir, y probablemente también en otras ciudades de Hallandren.
 
 #### Idris
-Tedradel has good relations with Idris. These nations also have many similarities, such as in fashion, with both nations preferring covering clothing.
+Tedradel tiene buenas relaciones con Idris. Estas naciones también tienen muchas similitudes, como en la moda, con ambas naciones prefieren la ropa que cubra el cuerpo.
 
-## Culture
-### People
-The people of Tedradel have brown skin, and they often have long black beards tied into a cylindrical shape with a leather cord.
+## Cultura
+### Gente
+Los habitantes de Tedradel tienen la piel morena y suelen llevar largas barbas negras atadas en forma cilíndrica con un cordón de cuero.
 
-### Fashion
-Tedradel fashion is similar to Idrian fashion, with dresses being long, covering everything from the ankle to the neck. There is a type of dress sold in Hallandren that is tube-like and tightly fitted.
+### Moda
+cLa moda de Tedradel es similar a la idriana, con vestidos largos que cubren desde el tobillo hasta el cuello. En Hallandren se vende un tipo de vestido entubado y ajustado.
 
-## Economy
-Tedradel lies on the shores of the [[Bright Sea\|Bright Sea]], as such they have access to its trade routes. They have many traders in [[Hallandren\|Hallandren]].
-It is possible that they also export fine pottery, as some is to be found in Hallandren that comes from across the [[Bright Sea\|Bright Sea]], where Tedradel was located.
+## Economía
+Tedradel se encuentra a orillas del [[Mar Brillante\|mar Brillante]], por lo que tienen acceso a sus rutas comerciales. Tienen muchos comerciantes en [[Hallandren\|Hallandren]].
+Es posible que también exporten cerámica fina, ya que en Hallandren se encuentra algo procedente del otro lado del [[Mar Brillante\|mar Brillante]], donde se encontraba esta región.
 
-## History
-### Establishment
-Tedradel was established at an unknown date before the [[Manywar\|Manywar]].
+## Historia
+### Instauración
+Tedradel se estableció en una fecha desconocida antes de [[La Multiguerra\|la Multiguerra]].
 
-### Tensions with Hanald
-A little more then three hundred years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], a short time before the Manywar, tensions with [[Hanald\|Hanald]] were at an all time high. This was because of two main reasons.
-Hanald had a monopoly on the dye trade, which, at the time, was one of the most profitable trades. Other kingdoms, including Tedradel, wished to profit from this trade as well, but Hanald didn’t allow them to.
-Hanald also turned its attention to the relatively new art of [[Awakening\|Awakening]]. During this time they gained powerful awakeners and [[Lifeless\|Lifeless]], which other kingdoms didn’t have. Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol\|Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies, and become far more powerful, raising tensions even higher.
-At some point, one of the [[Returned\|Returned]] in Hanald had a vision of war. This ended up being the catalyst for a war, as it prompted [[Strifelover\|Strifelover]] to strike preemptively against the other nations.
+### Tensiones con Hanald
+Poco más de trescientos años antes de la rebelión Pahn Kahl, poco antes de la Multiguerra, las tensiones con [[Hanald\|Hanald]] estaban en su punto más alto. Esto se debía a dos razones principales.
+Hanald tenía el monopolio del comercio de tintes, que, en aquella época, era uno de los más lucrativos. Otros reinos, entre ellos Tedradel, también deseaban beneficiarse de este comercio, pero Hanald no se lo permitió.
+Hanald también centró su atención en el arte relativamente nuevo del [[Despertar\|despertar]]. Durante este tiempo consiguieron poderosos despertantes y [[Sinvida\|sinvida]], que otros reinos no tenían. Muchos descubrimientos diferentes se hicieron durante este tiempo, incluyendo el Mandato para hacer sinvidas con un solo aliento y el [[%C3%8Dcoralcohol\|ícoralcohol]]. Estos descubrimientos permitieron a las naciones construir ejércitos mucho más grandes y baratos, y volverse mucho más poderosas, elevando aún más las tensiones.
+En algún momento, uno de los [[Retornado\|Retornados]] en Hanald tuvo una visión de guerra. Esto terminó siendo el catalizador de una guerra, ya que impulsó a [[Amadisputas\|Amadisputas]] a atacar preventivamente contra las otras naciones.
 
-### The Manywar
-Soon after [[Kuth\|Kuth]] and [[Huth\|Huth]] were attacked, Tedradel was dragged into the war, opposing [[Hanald\|Hanald]]. It is unknown if they joined the [[Pahn Unity\|Pahn Unity]], although they did fight on the same side. sometime after the destruction of Kuth and Huth Strifelover withdrew his phantoms, taking back control of his own kingdom. He then made peace with the remaining kingdoms, including Tedradel. However, since the Manywar, Tedradel's hatred and animosity towards Hallandren has not lessened greatly.
+### La Multiguerra
+Poco después de que [[Kuth\|Kuth]] y [[Huth\|Huth]] fueran atacados, Tedradel fue arrastrado a la guerra, oponiéndose a [[Hanald\|Hanald]]. Se desconoce si se unieron a la [[Unidad Pahn\|Unidad Pahn]], aunque lucharon en el mismo bando. Algún tiempo después de la destrucción de Kuth y Huth Amadisputas retiró a sus fantasmas, retomando el control de su propio reino. A continuación, hizo la paz con los reinos restantes, incluyendo Tedradel. Sin embargo, desde la Multiguerra, el odio y la animosidad de Tedradel hacia Hallandren no ha disminuido mucho.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 14:39, 25 de Diciembre de 2016 (MST)
+|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
+|-|-|
+|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
+|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] ·  · [[Corte de los Dioses\|Corte de los Dioses]]|
+|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
+|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
 
 
 
-https://coppermind.net/wiki/Tedradel
+https://es.coppermind.net/wiki/Tedradel

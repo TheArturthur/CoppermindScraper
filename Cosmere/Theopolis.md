@@ -1,18 +1,29 @@
+
+
 |**Theopolis**|
 |-|-|
-|**Residence**|[[Forests of Hell\|The Forests of Hell]]|
-|**Homeworld**|[[Threnody\|Threnody]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Shadows for Silence in the Forests of Hell*|
+|**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
+|**Mundo natal**|[[Treno\|Treno]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
-**Theopolis** was a fort tax collector and a loan shark.
+**Theopolis** era un recaudador de impuestos del fuerte y un usurero.
 
-## Appearance
-He possesses a smooth voice and a clean-shaven face. His gangly frame is adorned commonly in clean simple clothing, with no markings of his station. He has a patronizing smile.
+## Apariencia
+Posee una voz suave y un rostro bien afeitado. Su complexión desgarbada se adorna habitualmente con ropas limpias y sencillas, sin señales de su posición. Tiene una sonrisa condescendiente.
 
-## Personality
-He is a dangerous, unscrupulous man who covets after [[Silence Montane\|Silence Montane's]] [[Waystop\|waystop]]. Silence does not want anybody to know that she is the bounty hunter White Fox, so she gives the criminal's body to Theopolis and he uses his connections in [[Lastport\|Lastport]] to get the bounty quietly. He keeps half the bounty money and gives the rest back to Silence. He is skilled at this due to his vast knowledge of places to hide things. He finally meets his demise at the hands of the [[Shade\|shade]] of [[Silence's grandmother\|Silence's grandmother]].
+## Personalidad
+Es un hombre peligroso y sin escrúpulos que codicia la [[Posada de Silencio\|posada]] de [[Silencio Montane\|Silencio Montane]]. Silencio no quiere que nadie sepa que ella es el cazarrecompensas Zorro Blanco, así que entrega el cadáver de los criminales a Theopolis y éste utiliza sus contactos en [[%C3%9Altimo Puerto\|Último Puerto]] para conseguir las recompensas tranquilamente. Se queda con la mitad del dinero de la recompensa y devuelve el resto a Silencio. Es muy hábil en esto debido a su vasto conocimiento de los lugares donde esconder cosas. Finalmente, muere a manos de la [[Umbra\|umbra]] de la abuela de [[Silencio\|Silencio]].
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]] ([[Treno\|Treno]])**|
+|-|-|
+|**Personajes**|[[Silencio Montane\|Silencio Montane]] · [[Chesterton Divide\|Chesterton Divide]] · [[William Ann Montane\|William Ann Montane]] ·  · [[Joven Rojo\|Joven Rojo]] · [[Abuela de Silencio\|Abuela de Silencio]] · [[Sebruki\|Sebruki]] · [[Daggon\|Daggon]] · [[Nazh\|Nazh]]|
+|**Lugares**|[[Bosques del infierno\|Bosques del infierno]] · [[Posada de Silencio\|Posada de Silencio]] · [[%C3%9Altimo Puerto\|Último Puerto]] · [[Puente Viejo\|Puente Viejo]] · [[Patria\|Patria]] · [[Colina Basti%C3%B3n\|Colina Bastión]] · [[Mundo Ca%C3%ADdo\|Mundo Caído]]|
+|**Términos**|[[Ambici%C3%B3n\|Ambición]] · [[Sencillas Reglas\|Sencillas Reglas]] · [[Umbra\|Umbra]] · [[Dios del M%C3%A1s All%C3%A1\|Dios del Más Allá]] · [[Maldad\|La Maldad]] · [[Pionero\|Pionero]] · [[Ciudades-fuerte\|Ciudades-fuerte]] · [[Profunda\|Profunda]]|
 
 
 
-https://coppermind.net/wiki/Theopolis
+https://es.coppermind.net/wiki/Theopolis

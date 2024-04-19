@@ -1,316 +1,264 @@
-|**Singer**|
-|-|-|
-|by  Dan dos Santos |
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+
+|**Cantor**|
+|-|-|
+||
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*The betrayal of spren has brought us here.They gave their Surges to human heirs,But not to those who know them most dear, before us.’Tis no surprise we turned awayUnto the gods we spent our daysAnd to become their molding clay, they changed us.*”
 \-Song of Secrets, 40th Stanza[1]
 
 
-The **singers** are the most common and widespread sapient species on [[Roshar\|Roshar]]. Which the Alethi call the **parsh** or **parshmen**. They are native Rosharan lifeforms characterized by their bipedalism, carapace, high intelligence, tetramorphic sexual paradigm; and the presence of a gemheart they can use to create symbiotic bonds with spren, which has a significant impact on both their biology and cognition. They are highly social animals capable of forming complex social structures and civilizations, with complex institutions defining their social interactions.
-They are descended from the ancient [[Dawnsingers\|Dawnsingers]] who first inhabited ancient Roshar before the [[Shattering of Adonalsium\|Shattering of Adonalsium]], first emerging upon their creation around ten-thousand years prior to the [[True Desolation\|True Desolation]]. The level of biological similarity they have with their ancestors is unclear.
-They are divided into different ethnic groups, based on their heritage and on their Spiritual state; one of these groups are the [[Listener\|listeners]].
-Singers predate the humans as inhabitants of Roshar. Around the time of the [[Recreance\|Recreance]], many of the singers had their [[Connection\|Connection]] and [[Identity\|Identity]] stolen, pieces of their souls ripped away. This made those singers docile and subservient, which humans called parshmen and used as slaves for millennia later. With the advent of the [[Everstorm\|Everstorm]], these singers were healed and restored.
+Los **cantores** son una especie sapiente en [[Roshar\|Roshar]], a los que los humanos llaman **parsh** o **parshmenios**. Uno de los grupos de cantores son los [[Oyente\|oyentes]].
+Los cantores se comunican a través de [[Ritmo\|ritmos]] especiales, de ahí su nombre. Pueden vincular a diferentes [[Spren\|spren]], los cuales cambian sus formas.
+Los cantores preceden a los humanos como habitantes de Roshar. Alrededor del momento de la [[Traici%C3%B3n\|Traición]], muchos de los cantores fueron despojados de su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]], piezas de sus almas arrancadas. Esto hizo a los cantores dóciles y serviciales, por lo que los humanos les llamaron parshmenios y los usaron como esclavos durante los siguientes milenios. Con la llegada de la [[Tormenta eterna\|Tormenta eterna]], estos cantores fueron sanados y restaurados.
 
-## Contents
+## Sumario
 
-1 Etymology and definition
-2 Evolution
-3 Biology and Appearance
+1 Biología y Apariencia. [[#Biolog.C3.ADa y Apariencia]] 
 
-3.1 Aging and Senescence
-3.2 Carapace
-3.3 Circulatory System
-3.4 Endoskeleton
-3.5 Epidermis and Epidermal Marblings
-3.6 Extremities
-3.7 Gemhearts
-3.8 Height
-3.9 Mandible and Molar Structure
-3.10 Metabolism and Diet
-3.11 Ocular Structure
-3.12 Sexes and reproduction
-
-3.12.1 Interspecies Breeding and Introgression
-3.12.2 Sexual Tetramorphism
+1. [[#Sexos y reproducci.C3.B3n]] 
 
 
-3.13 Spiritual Aspects
+2 Formas. [[#Formas]] 
+
+2. [[#Formas comunes conocidas]] 
+
+2. [[#Forma gris]] 
+2. [[#Forma carnal]] 
+2. [[#Forma de guerra]] 
+2. [[#Forma de trabajo]] 
+2. [[#Forma diestra]] 
+2. [[#Forma de mediaci.C3.B3n]] 
+2. [[#Forma sabia]] 
+2. [[#Forma art.C3.ADstica]] 
 
 
-4 Forms
-
-4.1 Known common forms
-
-4.1.1 Dullform
-4.1.2 Mateform
-4.1.3 Warform
-4.1.4 Workform
-4.1.5 Nimbleform
-4.1.6 Mediationform
-4.1.7 Scholarform
-4.1.8 Artform
+2. [[#Formas de poder]] 
 
 
-4.2 Forms of Power
+3 Forma esclava. [[#Forma esclava]] 
+
+3. [[#Explotaci.C3.B3n]] 
 
 
-5 Slaveform
+4 Ritmos. [[#Ritmos]] 
+5 Historia. [[#Historia]] 
 
-5.1 Exploitation
-
-
-6 Rhythms
-7 History
-
-7.1 Creation
-7.2 The Dawnsingers
-7.3 The Fused
-7.4 The parsh
-7.5 The listeners
-7.6 The new singers
+5. [[#Los Cantores del Alba]] 
+5. [[#Los Fusionados]] 
+5. [[#Los parsh]] 
+5. [[#Los oyentes]] 
+5. [[#Los nuevos cantores]] 
 
 
-8 Known singer groups
-9 Trivia
-10 Notes
+6 Grupos de cantores conocidos. [[#Grupos de cantores conocidos]] 
+7 Curiosidades. [[#Curiosidades]] 
+8 Notas. [[#Notas]] 
 
 
-## Etymology and definition
-*Singer* and *listener* are the translations of what the singers call themselves in their own respective languages, [[Dawnchant\|Dawnchant]] and *Listener*, both in the Dawnate language family. *Singer* technically does not refer to the entire species, with the species name being currently unknown. *Listener* refers specifically to the singers which, at some point prior to the [[Recreance\|Recreance]], turned away from Odium and abandoned their [[Regal\|Regal]] forms and chose to settle on the [[Shattered Plains\|Shattered Plains]].
-Etymologically, *Singer* refers to their singing of the Rhythms of Roshar, and is likely derived from *Dawnsinger*.
+## Biología y Apariencia
+  Una mujeren cantora
+Los cantores son humanoides, pero no enteramente parecidos. El mayor signo aparente de su naturaleza alienígena es su piel; está cubierta de jaspas, remolinos de diferentes colores: rojo, negro o blanco. La mayoría de los cantores tienen piel bicolor, ya sea roja y negra o roja y blanca; las jaspas pueden aparecer de diferentes maneras, tanto como delicados remolinos, así como grandes patrones como barridos por el viento. También hay cantores cuyas pieles tienen los tres colores, pero son extremadamente raros. El blanqueamiento de los bordes es un signo de la edad. Su pelo es típicamente naranja o rojo, colores que no parecen ocurrir naturalmente en los humanos de Roshar. Hay una relación entre el color del pelo del cantor y sus colores individuales de jaspeado.
+Aparte de su piel multicolor, los cantores tiene otros rasgos que los diferencian de los humanos. Crecen más rápido que los humanos, pero tienen esperanzas de vida más cortas. En la cultura [[Oyente\|oyente]], [[Venli\|Venli]] empezó a aprender sobre cantar como una guardiana de las canciones a los tres años de edad y se le consideró adulta a los diez.
+Sus cuerpos generan un caparazón sobre algunas partes de ellos; dónde y cómo depende de en qué forma está el cantor en ese momento, pero típicamente cubre la cabeza y los brazos.
+Su dentadura es diferente de la humana; sus molares les permiten mascar caparazones, y su metabolismo está orientado hacia metabolizarlos, permitiéndoles aprovechar la fauna local. Sus ojos son también inhumanos: completamente negros, sin blanco en las esquinas ni un iris visible. Los cantores tienen la sangre naranja.
+Como muchas especies locales, los cantantes poseen [[Gema coraz%C3%B3n\|gemas corazón]], aunque las suyas son blancas nubladas, y están fusionadas a su esternón. Esas gemas corazón les permiten vincularse con [[Spren\|spren]], permitiéndoles cambiar sus **formas**, llevando a un cambio tanto físico como de algunas facultades mentales. Debido a sus gemas corazón, los cantantes no filtran [[Luces\|Luces]] como los humanos.
+Los cantores pueden beber crem sin caer enfermos.
+A pesar de estas diferencias, los cantores son como los humanos en muchos aspectos [[Reino Espiritual\|Espirituales]]. Como los humanos, pueden recibir bendiciones y maldiciones de la [[Vigilante Nocturna\|Vigilante Nocturna]]. También pueden vincular [[Spren\|spren]] para obtener poderes [[Caballeros Radiantes\|Radiantes]], aunque la mayoría de los spren son reacios a llevar a cabo este tipo de vínculo. Los cantores pueden ver la realidad del spren más de cerca que un humano. Tampoco sienten el frío tan fácilmente como los humanos.
 
-## Evolution
-Singers did not evolve naturally, but were instead intentionally created by [[Adonalsium\|Adonalsium]] some time prior to its Shattering. It is unknown how much modern singers differ from their distant ancestors.
-They were created as an essential part of the Rosharan ecosystem, to what effect is unknown. They were also intentionally made to be able to breed with humans.
 
-## Biology and Appearance
- by Nastya Lehn A femalen singer
-Singers are humanoid, but not entirely similar to *Homo sapiens*, differing in various notable aspects.
-They are bipedal, and posses a foramen magnum at the base of the skull; they also have a large intracranial space, comparable to *Homo sapiens*. This, alongside a presumably well-developed cerebrum, gives them a high cognitive capacity. It is unclear how prominent of a supraorbital ridge they possess, if any. They have a protruding nasus very similar to that of humans, suggesting the presence of nasal bones and nasal cartilages, along with a nasal septum.
-They have greater resistance to cold temperatures than humans.
+### Sexos y reproducción
+Los cantores poseen cuatro sexos diferentes; hombre y mujer, que son capaces de reproducirse, y sus variedades castradas, **hombren** y **mujeren**.  El sexo de los cantores cambia entre hombre y hombren, o mujer y mujeren, cuando cambian de formas; la gran mayoría de las formas son o mujeren u hombren. Como tal, la mayoría de los cantores son asexuales la gran mayoría del tiempo. Usualmente los cantores se identifican como uno de esos cuatro géneros, aunque algunos se identifican con un género no binario y la cultura cantora reconoce al menos un género no binario.
+A pesar de esas diferencias, los cantores y los humanos son capaces de cruzarse; los [[Herdaziano\|herdazianos]] y [[Unkalaki\|unkalakis]] son ejemplos destacados de etnias humanas con ascendencia cantora. Esta ascendencia es la fuente de las uñas pétreas de los herdazianos, al igual que la dentadura capaz de mascar caparazones y el cabello rojo de los unkalakis. Como resultado de sus ancestros cantores, los herdazianos y unkalakis también son más propensos a identificarse como asexuales. Se desconoce si actualmente hay personas con ascendencia tanto humana como cantora que se identifiquen como cantores.
 
-### Aging and Senescence
-Apart from their polychromatic skin, singers have other features that differentiate them from humans. They grow at a faster rate than humans and have slightly shorter average lifespans. In the [[Listener\|listeners']] culture, [[Venli\|Venli]] started to learn about singing as a keeper of songs at age three and is considered adult at age ten.
-Their epidermal marbling whitening at the edges is a sign of age and senescence. Furthermore, elderly singers can experience cognitive decline, memory loss, and difficulty developing new memories. Dullform experiences rapid degradation in mental faculties as one ages, Singer children are born in dullform, and do not experience the normal cognitive impairments of dullform in adult singers. By around seven or eight Rosharan years, cognitive decline begins to manifest, forcing young singers to take on a different form.
+## Formas
+  Una mujeren cantora
+Vinculandose a diferentes [[Spren\|spren]] en la [[Alta tormenta\|alta tormenta]] o en la [[Tormenta eterna\|Tormenta eterna]], los cantores son capaces de cambiar su **forma**, conduciendo a diferentes apariencias, capacidades e incluso estado mental, así como cambiando sutilmente su [[Reino Espiritual\|aspecto Espiritual]]. Es posible que las formas también alteren la [[Identidad\|Identidad]]. Las nuevas formas vienen con un nivel de entendimiento instintivo. ​ Los cantores pueden mantener su forma indefinidamente, sin necesidad de reabastecerse de [[Luz tormentosa\|luz tormentosa]] o [[Luz del vac%C3%ADo\|luz del vacío]], y pueden usar las habilidades concedidas por la forma sin necesidad de combustible adicional. Pueden existir nuevas formas. Algunas cosas pueden detener a un cantor de cambiar de forma, como una [[Armadura esquirlada\|armadura esquirlada]].
+Las formas son especializaciones, y conducen al cantor hacia un objetivo particular; por ejemplo, la forma de guerra concede armadura y fuerza aumentada, haciéndola apropiada para el combate, mientras que la forma diestra concede destreza, haciéndola apropiada para tareas delicadas.También hay formas más específicas, como la forma artística para empeños creativos, o la forma carnal para la cría. Menos la forma gris, cada forma está asociada a un tipo específico de spren. Ordinariamente, el spren que el cantor vincule (y por tanto la forma que tome) depende de su mentalidad durante la alta tormenta. Sin embargo, capturar a un spren en una gema y traerlo a la alta tormenta, asegura que una forma específica será elegida. Vincularse a un spren [[Sja-anat\|corrrupto]] dará diferentes resultados.
+Cuando se cambia la forma, el cantor puede no escuchar ciertos ritmos temporalmente, o escuchar tonos puros.
+La [[Hemalurgia\|Hemalurgia]] podría ser usada para replicar la transformación de las formas.
+Los [[Oyente\|oyentes]] recontaron muchas formas comunes en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]]; también tienen canciones que hablan de [[Regio\|formas de poder]]: la [[Canci%C3%B3n de los secretos\|Canción de los secretos]] y la [[Canci%C3%B3n de los vientos\|Canción de los vientos]].
 
-### Carapace
-Their bodies have red-orange carapace growing over various parts of their body; where and how much depends on what form the singer is currently in, but they typically cover the cranium and the upper extremities. Their carapace is held on to their body by a series of blue ligaments, suggesting the lack of an epidermis under their carapace.
-The amount of carapace and where it forms is dependent on the form the singer is in, for example, in warform it manifests as amour-like plating across the entire body; this carapace armor is designed not only to grant greater protection to the singer, but also to trap air and push it up underneath to cool them. On the other hand, nimbleform entirely lacks carapace.
+### Formas comunes conocidas
+Estas formas se mencionan en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]] oyente. Tras la [[Traici%C3%B3n\|Traición]] y antes de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], cuando los únicos cantores que podían pensar eran los [[Oyente\|oyentes]], éstos solo descubrieron cinco formas: forma gris, forma carnal, forma de guerra, forma de trabajo, y la forma diestra. Cuando la [[Tormenta eterna\|Tormenta eterna]] llegó y curó a los otros cantores, éstos tenían estas formas y otras formas comunes que los oyentes no podían reproducir, como la forma artística y la forma sabia, y tenían una "docena" de opciones.
 
-### Circulatory System
-Singers have orange blood. They possess a heart which pumps blood through their body in a closed circulatory system.
-
-### Endoskeleton
-Their endoskeletons are made up of red-coloured bones. They are known to possess a sternum, which is fused with their gemheart. Within the bone is a white marrow-like substance.
-
-### Epidermis and Epidermal Marblings
-The most apparent sign of their non-human nature is the epidermis; it is covered in marblings, swirls of various colors - red, black or white. Most singers have dichromatic epidermides, either red-black or red-white; these marblings can manifest in various way, both as delicate swirls and large, wind-swept patterns. There are singers whose skin is trichromatic, but they are extremely rare relative to the dichromatic phenotype. The color whitening at the edges is a sign of age and senescence. Their hair is typically orange or red -- colors that do not appear to occur naturally in Rosharan humans, outside of those with partial singer genetic admixture. There is a relationship between the color of singer hair and their individual marbling colors.
-
-### Extremities
-They possess four limbs, made up of two upper and two lower extremities. Their upper extremities end with five-digit hands, and their lower extremities end with five-digit feet.
-
-### Gemhearts
-Like many local species in the Rosharan biosphere, singers possess [[Gemheart\|gemhearts]], though theirs have a cloudy white coloration, and are fused to and grown into their sternum. Those gemhearts allow them to bond with [[Spren\|spren]], letting them change their **forms**, leading to a change in both appearance and some mental faculty. Due to their gemhearts, singers do not leak [[Lights\|Lights]] like humans do.
-The gemheart forms due to the internal chemical workings of the body, which uses the nutrients and chemicals present in crem in order to form the germheart.
-
-### Height
-Due to Roshar's relatively low gravity, they are relatively tall compared to humans from other planets, averaging at over six feet (1.83 metres). Their height varies between forms, with forms such as Warform being taller and bulkier than other forms, and with envoyform being even taller than warform and Alethi humans.
-
-### Mandible and Molar Structure
-Their teeth are built differently than human teeth; their back molars allow them to chew through shells, their dental formula is unknown, but is likely divergent from the dental formula of *homo sapiens*. Their ability to crush shells is further assisted by a divergent mandible structure, with several bones not present in human mandibles, situated near the back of the structure.
-
-### Metabolism and Diet
-Their metabolism is geared towards metabolizing shells, which their jaw structure helps them to crush, allowing them to make better use of the local fauna.
-Singers can drink crem without getting sick.
-
-### Ocular Structure
-They have two eyes set in orbital cavities. They are divergent from the eyes of *homo sapiens* - with black sclerae and no visible iris, giving them an all-black appearance.
-
-### Sexes and reproduction
-Singers possess four distinct sexes; male and female, which are capable of reproduction, and their neutered variants, **malen** and **femalen**. Singers' sex will change from between male and malen, or female and femalen, as they change forms; the vast majority of forms are either malen or femalen. As such, most singers are asexual the vast majority of the time. Singers usually identify as one of those four genders as well, though some identify with a non-quaternary gender and singer culture recognizes at least one non-quaternary gender.
-Singers cannot switch between male and female or malen and femalen by biological means, though it is possible to do so through Invested means. Their sex-determination system is unknown, and following from the inability to switch between male and female, ultimately decides between two sexes, despite their tetramorphism. Their ability to breed with humans implies that they possess an , but this is not confirmed.
-Due to the presence of internal organs; the presence of skin, hair, and nails; the implied presence of neural tissues, and the presence of bilateral symmetry, they can be assumed to to triploblastic. That is to say, possessing of three primary germ layers of the gastrula during embryonic development.
-
-#### Interspecies Breeding and Introgression
-Despite these genotypical and phenotypical differences, singers and humans are capable of cross-breeding; the [[Herdazian\|Herdazians]] and [[Unkalaki\|Unkalaki]] are notable examples of human ethnicities with singer ancestry, although they experienced a heavy degree of introgression. This ancestry is the source of the Herdazians' stone-like nails as well as the Unkalaki's shell-chewing teeth and red hair. As a result of their singer ancestry, Herdazians and Unkalaki are also more likely to identify as asexual. It's unknown whether there are currently any people with both human and singer ancestry who identify as singers.
-They do not share a common ancestor, though can interbreed due to the similar intent behind their creation.
-
-#### Sexual Tetramorphism
-Sexual tetramorphism is minimal in asexual forms, enough so that it is easy to misidentify the sex of a singer. The presence of facial hair on male and malen singers is one mark of sexual dimorphism present in malen and femalen forms. Female individuals, particularly those in mateform, have prominent breasts which are less notable in femalen individuals.
-
-### Spiritual Aspects
-Despite these biological differences, singers are like humans in many [[Spiritual Realm\|Spiritual]] aspects. Like humans, they can receive boons and curses from the [[Nightwatcher\|Nightwatcher]]. They can also bond [[Spren\|spren]] to attain [[Knights Radiant\|Radiant]] powers, though most spren are unwilling to reach out for such a bond. Singers can see the reality of the spren more closely than a human.
-
-## Forms
- by  Javier Corpas  A femalen singer
-By bonding various [[Spren\|spren]] in the [[Highstorm\|highstorm]] or [[Everstorm\|Everstorm]], Singers are capable of changing their **form**, leading to a different appearance, capabilities and even mental state, as well as changing subtly their [[Spiritual Realm\|Spiritual aspect]]. It is possible that the forms also alter [[Identity\|Identity]]. New forms come with a level of instinctual understanding. ​Singers can maintain their form indefinitely, without needing to resupply with [[Stormlight\|stormlight]] or [[Voidlight\|voidlight]], and can use the abilities granted by the form without needing additional fuel. New forms could exist. Certain things can stop a singer from changing forms, such as [[Shardplate\|Shardplate]].
-The forms are specializations, and gear the singer towards a particular purpose; for example, warform grants armor and increased strength, making it suitable for combat, while nimbleform grants dexterity, making it good for delicate tasks. There are also more specific forms, such as artform for creative endeavours, or mateform for breeding. Aside from dullform, every form is associated with a specific type of spren. Ordinarily, what spren a singer will bond -- and thus what form they'll assume -- depends on their mindset during the highstorm. However, capturing a spren in a gemstone and bringing it into the storm all but ensures that a specific form will be selected. Bonding to a [[Sja-anat\|corrupted]] spren will give different results.
-When changing forms, a singer may temporarily not be able to hear certain rhythms, or hear pure tones.
-[[Hemalurgy\|Hemalurgy]] could also be used to replicate the transformation of the forms.
-[[Listener\|Listeners]] recounted many common forms in the [[Song of Listing\|Song of Listing]]; they also have songs speaking of [[Regal\|forms of power]] -- the [[Song of Secrets\|Song of Secrets]] and the [[Song of Winds\|Song of Winds]].
-
-### Known common forms
-These forms are mentioned in the listener [[Song of Listing\|Song of Listing]]. After the [[Recreance\|Recreance]] and before the [[True Desolation\|True Desolation]], when the only singers who could think clearly were the [[Listener\|listeners]], the listeners only discovered five forms: dullform, mateform, warform, workform, and nimbleform. When the [[Everstorm\|Everstorm]] arrived and healed the other singers, singers held these forms and other common forms the listeners could not reproduce, such as artform and scholarform, and had a "dozen" options.
-
-#### Dullform
- by  Marie Seeberger 
+#### Forma gris
+ 
 >“* Dullform dread, with the mind most lost.The lowest, and one not bright.To find this form, one needs banish cost.It finds you and brings you to blight.*”
-\- final stanza of the Song of Listing[60]
+\- final stanza of the Song of Listing[47]
 
 
-Dullform occurs when a singer bonds an incorrect [[Spren\|spren]], or a spren that does not grant any other form. It's physically similar to the "slaveform" of the parshmen, to the point where a dullform singer can easily pass for one. It is also mentally limiting; those in dullform find thinking difficult, as if they were half-asleep, and have a harder time hearing the [[Rhythm\|rhythms]].
-Dullform was one of the two forms the [[Last Legion\|Last Legion]] was left with after breaking away from the rest of the singers, alongside mateform. It was largely abandoned as other forms were rediscovered. However, [[Listener\|listener]] spies still used it when infiltrating the human warcamps, thanks to its similarity to slaveform.
-Singer children are born in dullform, though for them, it is more vibrant and less cloudy; a property it loses as the singer ages. The listeners call this subtype of dullform "childform". They need to take another form around the age of seven or eight.
+La forma gris ocurre cuando un cantor vincula a un [[Spren\|spren]] incorrecto, o un spren que no otorga ninguna otra forma. Es físicamente similar a la "forma esclava" de los parhsmenios, hasta el punto de que un cantor en forma gris puede pasar fácilemente por uno. También es mentalmente limitante; aquéllos en forma gris encuentran difícil pensar, como si estuvieran medio dormidos, y les cuesta más escuchar los [[Ritmo\|ritmos]].
+La forma gris fue una de las dos formas con las que la [[%C3%9Altima Legi%C3%B3n\|Última Legión]] se quedó tras separarse del resto de los cantores, junto con la forma carnal. Fue mayoritariamente abandonada según se fueron descubriendo otras formas. Sin embargo, los espías [[Oyentes\|oyentes]] siguieron usándola cuando se infiltraron en los campamentos de guerra humanos, gracias a su similitud con la forma esclava.
+Los niños cantores nacen con la forma gris, aunque para ellos, es más vibrante y menos nublosa; una propiedad que se pierde con la edad. Los oyentes llaman a este subtipo de la forma gris "forma infantil". Necesitan adoptar otra forma alrededor de los siete u ocho años.
 
 
-#### Mateform
- by  Marie Seeberger 
+
+#### Forma carnal
+ 
 >“* Mateform meek, for love to share,Given to life, it brings us joy.To find this form, one must care.True empathy, one must employ.*”
-\- 5th stanza of the Song of Listing[61]
+\- 5th stanza of the Song of Listing[49]
 
 
-Mateform is used by singers to reproduce; though the other forms are capable of having children, mateform is the one most specialized for the purpose. In female singers, entering mateform increases the size of their breasts; it's unknown what physical effect it has on male singers. Mentally, mateform causes a singer to behave irresponsibly and become distracted in favour of the form's primary purpose; mateforms will sometimes ignore their assigned task, or do things that are expressly forbidden, without realizing the issue with that. Some singers are, however, capable of keeping themselves together while in mateform, though this requires strong mental discipline. Singers in mateform are bonded with lifespren.
-It was one of the original forms the [[Last Legion\|Last Legion]] had after abandoning the [[Regal\|Regal]] forms, alongside dullform. Presently, most singers assume it only transiently, when they wish to attempt having children, though there are some who keep it on at all times.
+La forma carnal la usan los cantores para reproducirse; aunque las otras formas son capaces de tener descendencia, la forma carnal es la que más se especializa para ese propósito. En mujeres cantoras, entrar en la forma carnal aumenta el tamaño de sus pechos; se desconoce el efecto físico que tiene en hombres cantores. Mentalmente, la forma carnal provoca un comportamiento irresponsable de los cantores, así como una distracción en favor del objetivo primario de la forma; las formas carnales a veces ignoran sus tareas asignadas, o hacen cosas que están expresamente prohibidas, sin darse cuenta del problema que supone. Sin embargo, algunos cantores son capaces de contenerse mientras están en forma carnal, aunque esto conlleva una disciplina mental fuerte. Los cantores en forma carnal están vinculados a [[/wiki/Spren#Vidaspren]].
+Fue una de las formas originales que la [[%C3%9Altima Legi%C3%B3n\|Última Legión]] tuvo tras abandonar las formas [[Regios\|Regias]], junto con la forma gris. En el presente, la mayoría de los cantores la asumen solo transicionalmente, cuando quieren intentar tener descendencia, aunque hay algunos que la mantienen en todo momento.
 
 
-#### Warform
- by  Marie Seeberger 
+
+#### Forma de guerra
+ 
 >“* Warform is worn for battle and reign,Claimed by the gods, given to kill.Unknown, unseen, but vital to gain.It comes to those with the will.*”
-\- 15th stanza of the Song of Listing[62]
+\- 15th stanza of the Song of Listing[50]
 
 
-Warform gives listeners an armor-like carapace, and makes them taller and bulkier than other forms. The carapace armor is designed to trap air and push it up underneath to cool the singer. It grants them vastly increased strength; a singer in warform can leap over a chasm of the [[Shattered Plains\|Shattered Plains]] with a running start. Stamina is greatly increased, allowing singers to run for hours without strain. It also deepens their voice. Out of all the forms known to the listeners, warform requires the most food, but is also the most durable, and a warform singer heals faster than they would in any other form. Mentally, the warform has less impact than most others; it makes one more pragmatic and slightly more inclined towards violence. It also severely hampers artistic ability, and is not well-equipped to handle abstractions. Singers in warform are bonded with painspren.
-The first listeners to enter warform heard the pure tone of Honor.
+
+La forma de guerra otorga a los oyentes un caparazón similar a una armadura, y los hace más altos y voluminosos que otras formas. La armadura caparazón está diseñada para atrapar aire y empujarlo hacia dentro para refrescar al cantor. Les garantiza fuerza muy incrementada; un cantor en forma de guerra puede saltar sobre un abismo de las [[Llanuras Quebradas\|Llanuras Quebradas]] con carrerilla. Aumenta mucho su aguante, permitiéndoles correr durante horas sin esfuerzo. También hace más grave su voz. De todas las formas conocidas por los oyentes, la forma de guerra es la que requiere más comida, pero también es la más duradera, y se cura más rápido de lo que lo harían en cualquier otra forma. Mentalmente, la forma de guerra tiene menos impacto que la mayoría de las otras formas; hace a uno más pragmático y propenso a la violencia. También obstaculiza severamente la habilidad artística, y no está bien equipada para manejar las abstracciones. Los cantores en forma de guerra están vinculados a [[/wiki/Spren#Dolorspren]].
+Los primeros oyentes en conseguir la forma de guerra escucharon el tono puro de Honor.
 
 
-#### Workform
- by  Marie Seeberger 
+#### Forma de trabajo
+ 
 >“* Workform worn for strength and care.Whispering spren breathe at your ear.Seek first this form, its mysteries to bear.Found here is freedom from fear.*”
-\- 19th stanza of the Song of Listing[64]
+\- 19th stanza of the Song of Listing[53]
 
 
-Workform endows increased strength, though it lacks the armor; rather, singers in workform are limber and rugged. It's better suited for labor, and most workers use it; however, it is also sometimes used when fighting. Singers in workform have carapace in ridges along the backs of their hands, and no carapace on the rest of their body. They are also fairly resistant to cold weather. While in workform, singers are more obedient, and have greater difficulty committing violence, forcing one to find peaceful solutions to various problems. It's also considered more flexible than warform. Singers in workform are bonded with gravitationspren.
-The first listeners to bond workform heard the pure tone of Cultivation.
+La forma de trabajo dota de un aumento de fuerza, aunque le falta la armadura; los cantores con esta forma son más bien ágiles y fuertes. Es más adecuada para la mano de obra, y la mayoría de los trabajadores la usan; sin embargo, a veces se usa para pelear. Los cantores en esta forma tienen caparazón en forma de crestas a lo largo de la parte trasera de la mano, y carecen de él en el resto del cuerpo. También son bastante resistentes al frío. En este forma, los cantores son más obedientes, y tienen más dificultad para cometer actos violentos, forzándoles a encontrar soluciones pacíficas a diferentes problemas. También se le considera más flexible que la forma de guerra. Los cantores en forma de trabajo están vinculados a [[/wiki/Spren#Gravitacionspren]].
+Los primeros oyentes que consiguieron esta forma escucharon el tono puro de Cultivación.
 
 
-#### Nimbleform
- by  Marie Seeberger 
+#### Forma diestra
+ 
 >“* Nimbleform has a delicate touch.Gave the gods this form to many,Tho' once defied, by the gods they were crushed.This form craves precision and plenty.*”
-\- 27th stanza of the Song of Listing[67]
+\- 27th stanza of the Song of Listing[57]
 
 
-Nimbleform is a general form without any singular, apparent function; rather, it's useful for all work that requires dexterity and care. For this reason, listeners use it for tasks such as research, art, and raising children. It has no carapace, and less endurance than other forms; singers in nimbleform are physically weaker, grow longer hair, and have thinner, more slender facial features. It does not impede the mind, and in fact encourages greater focus.
-This form was rediscovered by the singers during the [[War of Reckoning\|War of Reckoning]], through research led by [[Venli\|Venli]]. It is possible that a bond with a windspren is what allows singers to enter nimbleform. During the [[True Desolation\|True Desolation]], most liberated singers wore either it or workform.
+La forma diestra es una forma general sin ninguna función singular; es más bien útil para todo trabajo que requiera destreza y cuidado. Por esta razón, los oyentes la usan para trabajos como la investigación, el arte, y educar a los hijos. No tiene caparazón, y tiene menos resistencia que otras formas; los cantores en esta forma son más débiles físicamente, les crece pelo más largo, y tienen rasgos faciales más delgados, más finos. No obstruye la mente, y de hecho aumenta la concentración.
+Esta forma fue redescubierta por los cantores durante la [[Guerra de la Venganza\|Guerra de la Venganza]], a través de la investigación dirigida por [[Venli\|Venli]]. Es posible que un vínculo con un vientospren sea lo que permite a los cantores alcanzar la forma diestra. Durante la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], la mayoría de los cantores liberados llevaron esta forma y la de trabajo.
 
 
-#### Mediationform
+#### Forma de mediación
 >“* Mediationform made for peace, it's said.Form of teaching and consolation.When used by the gods, it became insteadForm of lies and desolation.*”
-\- 33rd stanza of the Song of Listing[69]
+\- 33rd stanza of the Song of Listing[59]
 
 
-Little is known about mediationform; it appears to bestow improved speech capabilities, or better ability to convince or bestow information upon others. Singers in mediationform have smooth, beautiful carapace, and open faces. The head researcher of the listeners, [[Venli\|Venli]], claimed that she was looking for it throughout the [[War of Reckoning\|War of Reckoning]], but in reality, she never truly attempted to rediscover mediationform in the first place, instead searching for stormform.
+Se sabe poco de la forma de mediación; parece dotar de capacidades de habla mejoradas, o de una mejor habilidad para convencer o dar información a otros. Los cantores en esta forma tienen caparazones bonitos y suaves, y rostros descubiertos. La investigadora líder de los oyentes, [[Venli\|Venli]], dice haber estado buscándola durante la [[Guerra de la Venganza\|Guerra de la Venganza]], pero en realidad, nunca intentó redescubrir la forma de mediación verdaderamente, buscando la forma tormenta en su lugar.
 
-#### Scholarform
+#### Forma sabia
 >“* Scholarform shown for patience and thought.Beware its ambitions innate.Though study and diligence bring the reward,Loss of innocence may be one's fate.*”
-\- 69th stanza of the Song of Listing[71]
+\- 69th stanza of the Song of Listing[61]
 
 
-Though present in the [[Song of Listing\|Song of Listing]], scholarform has only been reclaimed during the [[True Desolation\|True Desolation]]; during the [[War of Reckoning\|War of Reckoning]], listeners used nimbleform as a substitute. It appears to increase one's mental faculty and patience. Physically, it produces long hairstrands and angular features.
+Aunque está presenta en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]], la forma sabia solo ha sido reclamada durante la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]]; durante la [[Guerra de la Venganza\|Guerra de la Venganza]], los oyentes usaban la forma diestra como substituta. Parece incrementar la paciencia y facultades mentales. Físicamente, produce largos mechones de pelo y rasgos angulares.
 
-#### Artform
+#### Forma artística
 >“* Artform applied for beauty and hue.One yearns for the songs it creates.Most misunderstood by the artist it's true,Come the spren to foundation's fates.*”
-\-90th stanza of the Song of Listing[72]
+\-90th stanza of the Song of Listing[62]
 
 
 >“* Artform for colors beyond our ken;For its grand songs we yearn.We must attract creationspren;These songs suffice 'til we learn.*”
-\-279th stanza of the Song of Revision[73]
+\-279th stanza of the Song of Revision[63]
 
 
-Artform is formed by bonding [[Creationspren\|creationspren]]; as its name implies, it specializes in artistic expression, such as painting or music. Venli claimed to be researching this form to other listeners, though that was most likely a lie. It has not been discovered during the [[War of Reckoning\|War of Reckoning]], but rather returned to the singers through the [[Everstorm\|Everstorm]].
+La forma artística se forma vinculando un [[Creacionspren\|creacionspren]]; como implica su nombre, se especializa en la expresión artística, como la pintura o la música. Venli dice haber estado investigando esta forma, aunque seguramente sea mentira. No fue descubierta durante la [[Guerra de la Venganza\|Guerra de la Venganza]], sino que volvió a los cantores a través de la [[Tormenta eterna\|Tormenta eterna]].
 
-### Forms of Power
- by  Marie Seeberger  A singer in [[Stormform\|stormform]]
+### Formas de poder
+  Un cantor en <<Forma tormenta\|forma tormenta>>
 >“*Qualify yourselves for greater service, and you will be elevated to the place of a Regal, given a form of power.*”
-\-Fused propaganda[65]
+\-Fused propaganda[54]
 
 
-Forms of power are attained by bonding a [[Voidspren\|voidspren]] rather than an ordinary spren. Within Odium's army, such singers are referred to as [[Regal\|Regals]]. In contrast to common forms, forms of power bestow explicitly supernatural abilities, such as being able to shoot lightning from one's fingers or speak any language in the world. They can drastically alter one's ways of thinking, such as making people more selfish and callous, and can feel intoxicating. They allow singers to hear and use new rhythms, but make hearing the old ones extremely difficult.
-Forms of power include, among others, [[Stormform\|stormform]], [[Nightform\|nightform]], [[Smokeform\|smokeform]], [[Decayform\|decayform]], and [[Envoyform\|envoyform]].
+Las formas de poder se consiguen vinculando a [[Vac%C3%ADospren\|vacíospren]], no a spren ordinarios. En el ejército de Odium, a estos cantores se les llama [[Regio\|Regios]]. Contrastando a las formas comunes, las formas de poder dotan de habilidades explícitamente sobrenaturales, como la capacidad de lanzar rayos desde los dedos o hablar cualquier idioma del mundo. Pueden alterar drásticamente la manera en la que piensa uno, haciéndolo más egoísta y monstruoso, y se pueden sentir tóxicas. Permiten a los cantores escuchar y usar nuevos ritmos, pero hacen extremadamente difícil escuchar los antiguos.
+Las formas de poder incluyen, entre otras, la [[Forma tormenta\|forma tormenta]], la [[Forma nocturna\|forma nocturna]], la [[Forma de humo\|forma de humo]], la [[Forma p%C3%BAtrida\|forma pútrida]], y la [[Forma emisaria\|forma emisaria]].
 
-**For a list of known Regal forms, see Regal#Known Forms of Power.**
-## Slaveform
- by  Marie Seeberger  A parshman servant
->“*They may have taken your freedom, but they took our minds.*”
-\-Sah to Kaladin on their respective forms of slavery[9]
+**Para una lista de formas Regias conocidas, ver [[/wiki/Regio#Formas de poder conocidas]].**
+## Forma esclava
+  Un criado parshmenio
+>“*They may have taken your freedom, but they took our **minds**.*”
+\-Sah to Kaladin on their respective forms of slavery[8]
 
 
-The term **slaveform** is how listeners describe singers with no [[Spren\|spren]] bond, no form, and vastly limited mental capacity; humans refer to such singers as the **parshmen**. It looks visually similar to dullform, enough so that humans can confuse the two. Slaveform did not exist until after the [[False Desolation\|False Desolation]]. It was created when [[Melishi\|Melishi]] led a strike team to capture [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], who was providing the singers with [[Regal\|Regal]] forms. Though successful, it had an unintended side effect of robbing singers of [[Connection\|Connection]] and [[Identity\|Identity]], and thus creating slaveform.
-Physically, slaveform singers are strong enough to perform physical labor. However, they lack [[Identity\|Identity]] and [[Connection\|Connection]], rendering them mentally stunted. Though seemingly capable of feeling and understanding their situation, they cannot fully comprehend it. Their awareness is dreamlike and they have no capacity to understand fully or act on their feelings. They are capable of processing and understanding orders, and will obey without question. When left on their own, they sit around, not doing anything.
-Despite this, slaveform singers do retain some mental faculty. They can speak, though rarely do so. They care about and are protective of their dead, usually objecting to anyone tending to them. They also care for their young, though they have little capacity to object if separated. The passing of the [[Everstorm\|Everstorm]] has healed the parshmen by restoring their [[Connection\|Connection]] and [[Identity\|Identity]]. As such, this form no longer exists during the [[True Desolation\|True Desolation]].
+El término **forma esclava** es como los oyentes describen a los cantores sin ningún vínculo [[Spren\|spren]], que no tienen forma, y capacidad mental vastamente limitada; los humanos se refieren a estos cantores como los **parshmenios**. Se parece visualmente a la forma gris, suficiente para que los humanos las confundan. La forma esclava no existía hasta después de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]]. Se creó cuando [[Melishi\|Melishi]] dirigió un equipo de asalto para capturar a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], quien proveía a los cantores de sus formas [[Regio\|Regias]]. Aunque triunfaron, tuvo el efecto involuntario de robarle a los cantores [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]], creando así la forma esclava.
+Físicamente, los cantores en forma esclava son suficientemente fuertes para realizar trabajos físicos. Sin embargo, les falta [[Identidad\|Identidad]] y [[Conexi%C3%B3n\|Conexión]], haciéndolos mentalmente atrofiados. Aunque parecen ser capaces de sentir y entender su situación, no pueden comprenderla del todo. Su conciencia es parecida a un sueño y no tienen capacidad para entender del todo o actuar según sus sentimientos. Pueden procesar y entender órdenes, y obedecerán sin rechistar. Cuando se les deja solos, se quedan sentados, sin hacer nada.
+A pesar de esto, los cantores en forma esclava retienen alguna facultad mental. Pueden hablar, aunque raramente lo hagan. Se preocupan y son protectores de sus muertos, normalmente objetando que cualquiera los atienda. También se preocupan por sus jóvenes, aunque tiene poca capacidad para objetar si se les separa. El paso de la [[Tormenta eterna\|Tormenta eterna]] curó a los parshmenios restaurando su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]]. Como tal, esta forma ya no existe durante la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]].
 
-### Exploitation
-Prior to the arrival of the [[Everstorm\|Everstorm]], parshmen are used as slave labor across the entirety of [[Roshar\|Roshar]]. Parshmen slaves are typically more expensive than human ones, due to being naturally obedient and extremely unlikely to attempt an escape. Singers who can successfully birth healthy children are purposefully bred, and often sold off on this basis, even if this requires splitting up families.
-They are often used as servants, as well as heavy menial labor. They are used as porters in various locations around the world, hauling both cargo and carriages. Many countries rely on them for their economy and proper functioning of their cities; the loss of their labor due to the Everstorm would spell a crisis even without the ongoing war.
+### Explotación
+Previo a la llegada de la [[Tormenta eterna\|Tormenta eterna]], los parshmenios se usaban como esclavos de trabajo a lo largo de todo [[Roshar\|Roshar]]. Los esclavos parshmenios son típicamente más caros que los humanos, debido a su naturaleza obediente y extremadamente raros intentos de escape. Los cantores que pueden dar a luz con éxito son criados con este propósito, y a menudo vendidos por esto mismo, aunque esto suponga separar familias.
+A menudo se les usa como criados, así como para trabajos pesados de baja categoría. Se les usa como porteadores en varias localidades del mundo, transportando cargamento y carruajes. Muchos países confían en ellos para ocuparse de su economía y del funcionamiento correcto de sus ciudades; la pérdida de su trabajo debido a la Tormenta eterna causaría una crisis incluso sin la guerra en curso.
 
-## Rhythms
-For more information, see [[Rhythm\|Rhythm]].
-Singers are connected to rhythms, the underlying "beats" of the [[Cosmere\|cosmere]] that manifest particularly strongly on [[Roshar\|Roshar]]. There are numerous rhythms, and singers can attune to any one of them. Each rhythm represents a certain state of mind, emotion or feeling; when not paying attention, singers will attune to the rhythm that corresponds to their mood, but can also attune another to fit with their message. This attuning manifests as hearing the beat of the rhythm in one's head. All rhythms connect the singers to each other and [[Roshar\|Roshar]] itself. This, and their regular nature, allows the singers to use the rhythms for measuring time, among others.
-The singers speak and sing to the rhythms; they carry the singers' emotions, as well as add meaning to their words. However, not all forms can attune the rhythms equally. Dullform can only hear them weakly; slaveform cannot hear them at all. Additionally, those infused with the power of [[Odium\|Odium]], mainly the [[Regal\|Regals]] and the [[Fused\|Fused]], can only hear Odium's rhythms, also called the Rhythms of Power. Those rhythms, while similar to regular ones, are usually more violent and aggressive, and represent more twisted, angrier emotions -- for example, Ridicule replaces Amusement, and Command approximates Appreciation. They also feel and sound different than the ordinary rhythms.
-[[Soother\|Soothers]] can affect singer rhythms and may dampen Odium's influence. Singers with the Third [[Heightening\|Heightening]] would be able to sing Pure Tones of planets other than Roshar, and could potentially do this before the Third Heightening.
+## Ritmos
+Para más información, ver [[Ritmo\|Ritmo]].
+Los cantores están conectados a los ritmos, los "latidos" subyacentes del [[Cosmere\|Cosmere]] que se manifiestan particularmente fuerte en [[Roshar\|Roshar]]. Hay numerosos ritmos, y los cantores pueden armonizar a cualquiera de ellos. Cada ritmo representa un estado mental, emoción, o sentimiento concreto; cuando no prestan atención, los cantores armonizan al ritmo que corresponde con su estado de ánimo, pero pueden armonizar a otro que se adapte a su mensaje. Esta armonización se manifiesta como la escucha del latido del ritmo en la cabeza de uno. Todos los ritmos conectan a los cantores entre ellos y al mismo [[Roshar\|Roshar]]. Esto, y su naturaleza regular, permite a los cantores usar los ritmos para medir tiempo, entre otras cosas.
+Los cantores hablan y cantan a los ritmos; pueden llevar las emociones, así como añadirle significado a sus palabras. Sin embargo, no todas las formas pueden armonizar a los ritmos de la misma manera. La forma gris solo puede escucharlos ligeramente; la forma gris no puede escucharlos. Adicionalmente, los infusos con el poder de [[Odium\|Odium]], principalmente los [[Fusionado\|Fusionados]], solo pueden escuchar los ritmos de Odium, también conocidos como los Ritmos de Poder. Esos ritmos, aunque similares a los normales, se usan más violenta y agresivamente, y representan emociones más retorcidas y furiosas. Por ejemplo, el del Escarnio sustituye al de la Diversión, y el de Mando se aproxima a Apreciación. También se sienten y suenan diferente de los ritmos normales.
+Los [[Aplacador\|aplacadores]] pueden afectar los ritmos cantores y podrían desalentar la influencia de Odium. Los cantores con la Tercera [[Elevaci%C3%B3n\|Elevación]] podrían cantar los tonos puros de otros planetas que no sean Roshar, y potencialmente podría hacerse antes de la Tercera Elevación.
 
-## History
-### Creation
-The singers predate the arrival of humans on Roshar, having been created by Adonalsium as part of the planet's natural ecosystem.
-
-### The Dawnsingers
+## Historia
+### Los Cantores del Alba
 >“*Our pity destroyed us.*”
 \-From the Eila Stele[6]
 
 
-After the [[Expulsion\|Expulsion]], in which mankind accidentally destroyed their homeworld, [[Ashyn\|Ashyn]], the ancient singers were ordered by their gods [[Honor\|Honor]] and [[Cultivation\|Cultivation]] to help the human refugees who arrived on their planet. These ancient singers were known as the Dawnsingers. Initially, the two species interacted peaceably, with some singers and humans even intermingling, creating [[Herdazian\|Herdazians]] and the [[Unkalaki\|Unkalaki]].
-However, mankind's arrival also brought [[Odium\|Odium]], and conflict soon began. Humans, originally granted only the land of [[Shinovar\|Shinovar]], sought to expand, causing the conflict that would eventually come to be known as the [[First Desolation\|First Desolation]]. During that time, the singers came to call humans "Voidbringers", as humans cannot hear the rhythms. In that conflict, [[Spren\|spren]] eventually came to side with humans, leading to a sense of deep betrayal in the singers. It seems that the singers did something that caused the spren to turn on them.
+Los cantores preceden la llegada de los humanos a Roshar, habiendo sido creados como parte del ecosistema natural del planeta. Tras la [[Expulsi%C3%B3n\|Expulsión]], en la que la humanidad accidentalmente destruyó su mundo natal, [[Ashyn\|Ashyn]], los cantores fueron ordenados por sus dioses [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] a ayudar a los refugiados humanos que llegaron a su planeta. Estos antiguos cantores se conocían como los Cantores del Alba. Inicialmente, las dos especies interactuaron pacíficamente, con algunos cantores y humanos entremezclándose, creando a los [[Herdaziano\|herdazianos]] y a los [[Unkalaki\|unkalaki]].
+Sin embargo, la llegada de la humanidad también trajo a [[Odium\|Odium]], y el conflicto pronto comenzó. Los humanos, que originalmente se les concedió solo la tierra de [[Shinovar\|Shinovar]], buscaron expandirse, causando el conflicto que finalmente se conocería como la [[Primera Desolaci%C3%B3n\|Primera Desolación]]. Durante ese tiempo, los cantores comenzaron a llamar a los humanos como "Portadores del Vacío", ya que los humanos no podían escuchar los ritmos. En ese conflicto, los [[Spren\|spren]] finalmente se aliaron con los humanos, llevando un sentimiento de profunda traición a los cantores. Parece que los cantores hicieron algo que causó a los spren a girarse contra ellos.
 
-### The Fused
-For more information, see [[Fused\|Fused]].
- by  mushimallo  A flying [[Fused\|Fused]]
-At some point, [[Honor\|Honor]] and [[Cultivation\|Cultivation]] sided with the humans, while singers came to work with [[Odium\|Odium]], who granted their most valiant warriors immortality and great power to fight against the humans. This power made them into [[Cognitive Shadow\|Cognitive Shadows]], and allowed them to be reborn by possessing the bodies of other singers. Those immortal singers came to be known as the Fused. The Fused became both gods and rulers of the singers, despising mankind, wanting humans wiped off Roshar regardless of the cost.
-To combat the Fused, Honor created the ten [[Herald\|Heralds]], who would imprison them on [[Braize\|Braize]] until one of them broke, whereupon the Fused and Heralds would return to Roshar and a new [[Desolation\|Desolation]] would begin. The cycle continued for many centuries until finally, at the [[Aharietiam\|Aharietiam]], the Heralds decided to leave only the strongest among them, [[Taln\|Taln]], to face the torture alone.
-Not all singers, however, were eager to battle mankind continuously for Odium. One such group, the **Last Legion**, abandoned the [[Regal\|Regal]] forms granted to them by Odium and left for the [[Shattered Plains\|Shattered Plains]], where they would settled, far from the ongoing conflict. They would eventually dub themselves the **listeners**.
+### Los Fusionados
+Para más información, ver [[Fusionado\|Fusionado]].
+  Un <<Fusionado\|Fusionado>> volador
+En algún punto, [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] se aliaron con los humanos, mientras que los cantores comenzaron a trabajar con [[Odium\|Odium]], quien otorgó a sus más valientes guerreros inmortalidad y un gran poder para pelear contra los humanos. Este poder los convirtió en [[Sombra Cognitiva\|Sombras cognitivas]], y les permitió renacer poseyendo los cuerpos de otros cantores. Estos cantores inmortales se conocieron como los Fusionados. Se convirtieron en dioses y soberanos de los cantores, repudiando a la humanidad, y queriéndola borrar de la faz de Roshar sin importar el precio.
+Para combatir a los Fusionados, Honor creó a los diez [[Heraldo\|Heraldos]], quienes los encarcelaron en [[Braize\|Braize]] hasta que uno de ellos se rompiese, tras lo que los Fusionados y Heraldos retornarían a Roshar y una nueva [[Desolaci%C3%B3n\|Desolación]] comenzaría. El ciclo continuó por muchos siglos hasta que finalmente, en el [[Aharietiam\|Aharietiam]], los Heraldos decidieron dejar al más fuerte de ellos, [[Taln\|Taln]], para hacer frente a la tortura solo.
+Sin embargo, no todos los cantores anhelaban combatir a la humanidad continuamente para Odium. Uno de esos grupos, la **Última Legión**, abandonó las formas [[Regio\|Regias]] otorgadas por Odium y se fue a las [[Llanuras Quebradas\|Llanuras Quebradas]], donde se asentaría, lejos del conflicto en curso. Finalmente se apodarían a sí mismos los **[[Oyente\|oyentes]]**.
 
-### The parsh
+### Los parsh
 >“*The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
 \-From the Urithiru gem archive[4]
 
 
-The singers, no longer the dominant species on Roshar, continued to fight mankind and the [[Knights Radiant\|Knights Radiant]]. Over the centuries, they came to be known as the **parsh**, though the meaning of the word is unclear.
-Around two thousand years after the Last Desolation, near the Recreance, another conflict between the two species flared up. Dubbed the [[False Desolation\|False Desolation]], it was notable for the participation of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], one of [[Odium\|Odium's]] [[Unmade\|Unmade]]. Ba-Ado-Mishram Connected with the singers and provided them [[Regal\|Regal]] forms and [[Voidlight\|Voidlight]], as Odium once did in the Desolations, allowing the singers to wage war at levels closer to those of the real Desolations. In response, the [[Knights Radiant\|Knights Radiant]] imprisoned Ba-Ado-Mishram. They succeeded, but in doing so, stole part of singers' souls, ripping out their [[Connection\|Connection]] and [[Identity\|Identity]] and turning them into near-mindless husks.
-These singers without form -- "slaveforms" to listeners, and **parshmen** to humans -- became the property of humans, turned into cheap, menial labor that would be exploited for millennia to come. The only ones who escaped that fate were the listeners, as they had broken ties with the [[Unmade\|Unmade]] and [[Odium\|Odium]].
+Los cantores, ya no siendo la especia dominante en Roshar, continuaron luchando con la humanidad y los [[Caballeros Radiantes\|Caballeros Radiantes]]. A lo largo de los siglos, se acabaron conociendo como los **parsh**, aunque el significado de la palabra no es claro.
+Alrededor de dos mil años después de la Última Desolación, cerca de la Traición, otro conflicto entre las dos especies estalló. Apodado la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], fue notable por la participación de [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], uno de los [[Deshechos\|Deshechos]] de [[Odium\|Odium]]. Ba-Ado-Mishram se Conectó con los cantores y les proporcionó las formas [[Regio\|Regias]] y la [[Luz del vac%C3%ADo\|Luz del vacío]], como Odium hizo en las Desolaciones, permitiendo a los cantores llevar la guerra a niveles parecidos a los de las Desolaciones reales. Como respuesta, los [[Caballeros Radiantes\|Caballeros Radiantes]] encarcelaron a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. Tuvieron éxito, pero haciéndolo, robaron parte de las almas de los cantores, arrebatándoles su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]] y volviéndolos cáscaras casi sin mente.
+Estos cantores sin forma ("formas esclavas" para los oyentes, y **parshmenios** para los humanos) se convirtieron en propiedad de los humanos, transformándose en mano de obra barata y servicial que sería explotada en los siguientes milenios. Los únicos que escaparon de ese destino fueron los oyentes, ya que habían roto lazos con los [[Deshechos\|Deshechos]] y [[Odium\|Odium]].
 
-### The listeners
-For more information, see [[Listener\|Listener]].
- by  Petar Penev  A [[Listener\|listener]] army
-The listeners lived on in the [[Shattered Plains\|Shattered Plains]] for the next few millennia, forming a number of tribes settled in the craters around the western edge of the Plains. Eventually, they made contact with the Alethi and, through diplomatic efforts, forged a treaty. However, on the night the treaty was to be signed, the listener [[Eshonai\|Eshonai]] learned about King [[Gavilar\|Gavilar's]] plans to return the "listener gods" -- the [[Fused\|Fused]] -- to Roshar. Fearing the consequences, the listeners arranged for Gavilar to be assassinated. As a result, they were forced to flee, abandoning their homes for the more distant plateau of [[Narak\|Narak]] right as humans arrived to exact vengeance. Thus began the [[War of Reckoning\|War of Reckoning]].
-After six years of constant warfare, the listeners, manipulated by the [[Voidspren\|voidspren]], recovered stormform, one of [[Regal\|Regal]] forms. Spurred on by its mental state, they planned to summon the [[Everstorm\|Everstorm]], which they succeeded at during the [[Battle of Narak\|Battle of Narak]]. As it passed over Roshar, the Everstorm restored all parshmen, healing their [[Connection\|Connection]] and [[Identity\|Identity]].
+### Los oyentes
+Para más información, ver [[Oyente\|Oyente]].
+  Un ejército <<Oyente\|oyente>>
+Los oyentes vivieron en las [[Llanuras Quebradas\|Llanuras Quebradas]] durante los siguientes milenios, formando un número de tribus que se establecieron en los cráteres alrededor del borde occidental de las Llanuras. Finalmente, contactaron con los Alezi y, a través de esfuerzos diplomáticos, forjaron un tratado. Sin embargo, en la noche en la que el tratado iba a firmarse, la oyente [[Eshonai\|Eshonai]] supo de los planes del Rey [[Gavilar\|Gavilar]] sobre el retorno de los "dioses oyentes" (los Fusionados) a Roshar. Temiendo las consecuencias, los oyentes organizaron el asesinato de Gavilar. Como resultado, fueron forzados a huir, abandonando sus hogares por la distante meseta de [[Narak\|Narak]] al llegar los humanos para exigir venganza. Así dio comienzo la [[Guerra de la Venganza\|Guerra de la Venganza]].
+Tras seis años de guerra, los oyentes, manipulados por los [[Vac%C3%ADospren\|vacíospren]], recuperaron la forma tormenta, una de las formas [[Regio\|Regias]]. Espoleados por su estado mental, planearon la invocación de la [[Tormenta eterna\|Tormenta eterna]], teniendo éxito durante la [[Batalla de Narak\|batalla de Narak]]. A medida que pasaba sobre Roshar, la Tormenta eterna iba restaurando a los parshmenios, curando su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]].
 
-### The new singers
->“*Can't we simply enjoy being able to think? Being able to exist?*”
-\-Vldgen[99]
-
-
-The newly restored singers assumed seemingly random forms. Their attitudes were similar to those of the humans they spent their entire lives around -- the [[Alethi\|Alethi]] singers were angry and warlike, the [[Azish\|Azish]] singers wished to negotiate with the government, and the [[Thaylen\|Thaylen]] singers stole ships and sailed away. Most of them, however, were quickly swept up by the [[Fused\|Fused]], who had returned and sought to create new armies with which to conquer Roshar.
-To make these new singers more combat-ready, the Fused employed not only their natural anger at their former oppressors, but also hefty amounts of propaganda, most notably using the supposedly last [[Listener\|listener]], [[Venli\|Venli]], as their mouthpiece. However, many singers were still apprehensive about fighting humans, and some outright wished that peace was an option. Some singers used the term *essai* to describe a human supporter (though the actual translation means "hairy").
-
-## Known singer groups
-[[Listener\|Listeners]] - the singer nation on the [[Shattered Plains\|Shattered Plains]]
-[[Regal\|Regals]] - singers who have bonded [[Voidspren\|Voidspren]]
-[[Fused\|Fused]] - [[Cognitive Shadow\|Cognitive Shadows]] of singers bound to [[Odium\|Odium]]
-[[Voidbringer\|Voidbringers]] - general name for all singers (as well as humans) who work for [[Odium\|Odium]]
-## Trivia
-Singer gemhearts are related to Tamu Keks, a type of bone from *Dragonsteel Prime*.
+### Los nuevos cantores
+>“*Can't we simply enjoy being able to **think**? Being able to **exist**?*”
+\-Vldgen[90]
 
 
-https://coppermind.net/wiki/Singer
+Los nuevos oyentes restaurados aparentemente asumieron formas aleatorias. Sus actitudes eran similares a las de los humanos con los que habían pasado toda su vida: los oyentes [[Alezi\|alezi]] eran airosos y belicosos, los [[Azishiano\|azishianos]] querían negociar con los gobernadores, y los [[Thayle%C3%B1o\|thayleños]] robaron barcos y navegaron lejos. La mayoría, sin embargo, fueron rápidamente reclutados por los [[Fusionado\|Fusionados]], quienes habían retornado y buscaban crear nuevos ejércitos con los que conquistar Roshar.
+Para preparar a estos oyentes mejor para el combate, los Fusionados emplearon no sólo su enfado natural hacia sus anteriores opresores, sino también grandes cantidades de propaganda, más notablemente usando a la supuesta última [[Oyente\|oyente]], [[Venli\|Venli]], como su portavoz. Sin embargo, muchos cantores siguen siendo aprensivos a luchar contra humanos, y algunos desean que la paz fuese una opción. Algunos cantores usan el término **essai** para describir a un partidario humano (aunque la traducción real significa "peludo").
+
+## Grupos de cantores conocidos
+[[Oyente\|Oyentes]] - la nación oyente en las [[Llanuras Quebradas\|Llanuras Quebradas]]
+[[Regio\|Regios]] - cantores que han vinculado [[Vac%C3%ADospren\|Vacíospren]]
+[[Fusionado\|Fusionados]] - [[Sombra Cognitiva\|Sombras Cognitivas]] de oyentes vinculados a [[Odium\|Odium]]
+[[Portadores del Vac%C3%ADo\|Portadores del Vacío]] - nombre general para todos los cantores (y humanos) que trabajan para [[Odium\|Odium]]
+## Curiosidades
+Las gemas corazón de los cantores están relacionadas con Tamu Keks, un tipo de hueso de *[[Dragonsteel Prime\|Dragonsteel Prime]]*.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**| · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Singer

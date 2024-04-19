@@ -1,62 +1,76 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Laggart**|
 |-|-|
-|by  Marie Seeberger |
-|**Profession**|Pirate|
-|**Homeworld**|[[Lumar\|Lumar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Tress of the Emerald Sea*|
+||
+|**Oficio**|Pirata|
+|**Mundo natal**|[[Lumar\|Lumar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*Laggart was not a smart man. True, the things he lectured people on could fill a dictionary — but what he actually knew would barely fill a postcard.*”
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+
+>“*Laggart no era un hombre listo. Es cierto que con las lecciones que daba a los demás podría llenarse una enciclopedia, pero lo que sabía de verdad apenas daría para una postal*”
 \-Hoid[1]
 
 
-**Laggart** is the first mate and cannonmaster of the *Crow's Song* on [[Lumar\|Lumar]].
+**Laggart** es el primer oficial y cañonero del **[[Canto del cuervo\|Canto del cuervo]]** en [[Lumar\|Lumar]].
 
-## Contents
+## Sumario
 
-1 Appearance & Personality
-2 Attributes & Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Before Tress
-3.2 Sailing the Verdant
-3.3 Sailing the Crimson
-
-
-4 Notes
+3. [[#Antes de Trenza]] 
+3. [[#Navegando por el Glauco]] 
+3. [[#Navegando por el Carmes.C3.AD]] 
 
 
-## Appearance & Personality
->“*Laggart was to funny what liquid nitrogen is to a healthy set of lungs.*”
+4 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+>“*Laggart era al ingenio lo que el nitrógeno líquido a unos pulmones sanos.*”
 \-Hoid[1]
 
 
-Laggart is lanky, with wiry muscles and a long, thin neck. He is bald and has scruff on his chin. [[Hoid\|Hoid]] mockingly compares his appearance to a buzzard. Laggart wears an unbuttoned military coat and is armed with a sword and two pistols.
-Laggart is gruff and mean. As first officer, he saunters and struts around the ship confidently and often rudely tells off the crew for being lazy or doing their jobs incorrectly. He is very obedient to Crow, but not very bright. He prides himself on not being afraid to use the zephyr charges in the cannon, although he is still wary of them.
-In his loyalty to [[Crow\|Crow]], Laggart is willing to use violence against his crew members. Because he has been treated badly for his entire life, and treated other people badly in return, it is difficult for him to recognize genuine kindness.
-According to Hoid, after Laggart becomes part of the crew of the *Two Cups* his personality starts changing for the better.
+Laggart es larguirucho, de músculos fibrosos y cuello largo y delgado. Es calvo y tiene pelos en la barbilla. [[Hoid\|Hoid]] compara burlonamente su aspecto con el de un buitre. Laggart lleva un abrigo militar desabrochado y va armado con una espada y dos pistolas.
+Laggart es brusco y mezquino. Como primer oficial, se pasea y pavonea por el barco con confianza y a menudo regaña groseramente a la tripulación por ser perezosa o hacer mal su trabajo. Es muy obediente con Cuervo, pero no muy inteligente. Se enorgullece de no tener miedo a utilizar las cargas céfiro del cañón, aunque sigue desconfiando de ellas.
+Debido a su lealtad a Cuervo, Laggart está dispuesto a recurrir a la violencia contra los miembros de la tripulación. Como le han tratado mal durante toda su vida y, a cambio, ha tratado mal a otras personas, le resulta difícil reconocer la amabilidad auténtica.
+Según Hoid, después de que Laggart pase a formar parte de la tripulación del *[[Dos tazas\|Dos tazas]]* su personalidad empieza a cambiar para mejor.
 
-## Attributes & Abilities
-As cannonmaster, Laggart is an excellent shot, and he shoots to sink ships without giving them warning. He is fond of outsourcing work to others and taking credit for it, though he always makes sure to clean the cannons on the *Crow's Song* himself.
-He shows Tress how to use the cannon, proving himself to not be a very good teacher. Later, when he is directing [[Ann\|Ann]], he is much calmer and more helpful.
+## Atributos y habilidades
+Como maestro cañonero, Laggart es un excelente tirador, y dispara para hundir barcos sin darles aviso. Es aficionado a encomendar el trabajo a otros y atribuirse el mérito, aunque siempre se asegura de limpiar él mismo los cañones del *[[Canto del cuervo\|Canto del cuervo]]*.
+Enseña a Trenza a usar el cañón, demostrando que no es muy buen profesor. Más tarde, cuando dirige a [[Ann\|Ann]], se muestra mucho más tranquilo y servicial.
 
-## History
-### Before Tress
-Instead of firing ordinary cannonballs that spray water to grow Verdant aether spores and immobilize enemy ships, he sneakily replaces them with more lethal ones meant to sink the ships. This helps Crow, since pirates that sink ships become [[Deadrunner\|deadrunners]], which would cement Crow’s control over the crew. He uses the cannonballs to sink the *Oot's Dream*, and he and Crow leave one man alive to spread the word.
+## Historia
+### Antes de Trenza
+En lugar de disparar balas de cañón ordinarias que rocían agua para hacer crecer las esporas de éter glauco e inmovilizar a los barcos enemigos, las sustituye sigilosamente por otras más letales destinadas a hundirlos. Esto ayuda a Cuervo, ya que los piratas que hunden barcos se convierten en [[Corremuerto\|corremuertos]], lo que cimentaría el control de Cuervo sobre la tripulación. Utiliza las balas de cañón para hundir el *[[Sue%C3%B1o de Oot\|Sueño de Oot]]* y él y Cuervo dejan a un hombre con vida para que corra la voz.
 
-### Sailing the Verdant
-When [[Tress\|Tress]] first boards the *Crow's Song*, Laggart doesn't allow her to eat because he does not see her as part of the crew. Huck spies on one of his secret meetings with Crow, in which she tells him that the man they had left alive had died of unidentified wounds, so they would have to sink another ship to ensure that the world knew that they were deadrunners.
-Armed with this knowledge, Tress replaces Laggart's secret cannonballs with ordinary ones. He uses one of them on a different ship, and Crow tells him off. Unfortunately, the [[Seethe\|seethe]] stops just as the *Crow's Song* reaches the ship, and they send a cannonball through the prow of the *Crow's Song.* Crow manages to salvage the situation by threatening the captain of the other ship.
-Laggart doesn't know that Crow wants to sacrifice Tress to [[Xisisrefliel\|Xisisrefliel]]. Tress suspects that Crow considers him a backup sacrifice, given that he's not as afraid of spores as the rest of the crew. Thus, he "teaches" Tress to fire the ship's cannons just before they set sail on the [[Crimson Sea\|Crimson Sea]].
+### Navegando por el Glauco
+Cuando [[Trenza\|Trenza]] embarca por primera vez en el *Canto del cuervo*, Laggart no le permite comer porque no la considera parte de la tripulación. Huck espía uno de sus encuentros secretos con Cuervo, en el que ella le cuenta que el hombre que habían dejado con vida había muerto de heridas no identificadas, por lo que tendrían que hundir otro barco para asegurarse de que el mundo supiese que eran corremuertos.
+Armada con este conocimiento, Trenza sustituye las balas de cañón secretas de Laggart por otras ordinarias. Él usa una de ellas en otro barco, y Cuervo le echa la bronca. Por desgracia, el [[Bullir\|bullir]] se detiene justo cuando el *Canto del cuervo* alcanza el barco, y envían una bala de cañón a través de la proa del *Canto del cuervo*. Cuervo consigue salvar la situación amenazando al capitán del otro barco.
+Laggart no sabe que Cuervo quiere sacrificar a Trenza ante [[Xisisrefliel\|Xisisrefliel]]. Trenza sospecha que Cuervo la considera un sacrificio de reserva, dado que no teme tanto a las esporas como el resto de la tripulación. Así, "enseña" a Trenza a disparar los cañones del barco justo antes de que zarpen hacia el [[Mar Carmes%C3%AD\|mar Carmesí]].
 
-### Sailing the Crimson
-Just before they reach Xisis's lair, Tress, Ann, Salay, and Fort decide to mutiny against Crow. However, she was listening in on their meeting, and sends Laggart to apprehend them. He shoots Salay in the leg, forcing the four of them to the upper deck. Crow tells them that if they can kill Laggart, she'll let them go; Ann shoots at him, but misses. Crow captures the mutineers, and tells Laggart to kill one of Ann, Salay, and Fort if her and Tress don't come back from Xisis's lair within an hour.
-After Tress comes back from Xisis's lair and becomes captain, she lets Laggart stay on board the *Crow's Song*. Laggart is distrustful of her and is convinced that she plans to kill him as soon as he drops his guard. He demands that she get on with it, but Tress tells him that she doesn't want him dead. This makes him realize that, contrary to what he thought, people *could* be kind and genuine. This sets him on the path to becoming a kinder, more genuine person himself.
-Laggart helps rescue Tress from the [[Sorceress's tower\|Sorceress's tower]] by directing Ann as she shoots at the metal golems.
-When Tress sells the *Crow's Song*, Laggart comes with her to the *Two Cups*. He starts a bar fight at one of the ports he stops at, landing him in the brig.
+### Navegando por el Carmesí
+Justo antes de llegar a la guarida de Xisis; Tress, Ann, Salay y Fortín deciden amotinarse contra Cuervo. Sin embargo, estaba escuchando su reunión y envía a Laggart a detenerlos. Dispara a Salay en la pierna, obligando a los cuatro a subir a la cubierta superior. Cuervo les dice que si matan a Laggart, les dejará marchar; Ann le dispara, pero falla. Cuervo captura a los amotinados y le dice a Laggart que mate a uno entre Ann, Salay y Fortín si ella y Trenza no regresan de la guarida de Xisis en una hora.
+Después de que Trenza regrese de la guarida de Xisis y se convierta en capitana, deja que Laggart se quede a bordo del *Canto del cuervo*. Laggart desconfía de ella y está convencido de que planea matarle en cuanto baje la guardia. Le exige que se ponga manos a la obra, pero Trenza le dice que no lo quiere muerto. Esto le hace darse cuenta de que, contrariamente a lo que pensaba, la gente *podía* ser amable y genuina. Esto le lleva a convertirse en una persona más amable y auténtica.
+Laggart ayuda a rescatar a Trenza de la [[Torre de la hechicera\|torre de la hechicera]] dirigiendo a Ann mientras dispara a los golems de metal.
+Cuando Trenza vende el *Canto del cuervo*, Laggart la acompaña al *[[Dos tazas\|Dos tazas]]'*. Comienza una pelea en un bar de uno de los puertos en los que se detiene, lo que lo lleva al calabozo.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
+|-|-|
+|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] ·  · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
+|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
+|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
+|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
 
 
 
-https://coppermind.net/wiki/Laggart
+https://es.coppermind.net/wiki/Laggart

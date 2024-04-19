@@ -1,71 +1,95 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Yeden**|
 |-|-|
-|**Died**|1022 [[Final Empire\|FE]]|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]], [[Skaa rebellion\|Skaa rebellion]]|
-|**Ethnicity**|[[Skaa\|Skaa]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**|1022 [[Imperio Final\|IF]]|
+|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, [[Revuelta skaa\|Revuelta skaa]]|
+|**Etnia**|[[Skaa\|Skaa]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Yeden... well, he was the type who was too easily impressed--both by you and the reputation you left for him.*”
-\-Mennis to Kelsier[1]
-
-
-**Yeden** is a [[Skaa\|skaa]] from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. He is the leader of the [[Skaa rebellion\|skaa rebellion]], succeeding [[Marsh\|Marsh]]. He hires [[Kelsier's crew\|Kelsier's crew]] to overthrow the [[Lord Ruler\|Lord Ruler]]. He dies in an attack to the [[Holstep\|Holstep]] Garrison.
-
-## Contents
-
-1 Appearance and Personality
-2 History
-
-2.1 Early life
-2.2 Contracting Kelsier's Crew
-2.3 At the Arguois caverns
-2.4 The Attack on Holstep
+>“*Yeden… Bueno, era de los que se dejan impresionar con demasiada facilidad… tanto por ti como por la reputación que dejaste para él.*”
+\-Mennis a Kelsier[1]
 
 
-3 Relationships
+**Yeden** es un [[Skaa\|skaa]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Es el líder de la [[Revuelta skaa\|revuelta skaa]], sucediendo a [[Marsh\|Marsh]]. Contrata a la [[Banda de Kelsier\|banda de Kelsier]] para derrocar al [[Lord Legislador\|lord Legislador]]. Muere en un ataque a la Guarnición de [[Holstep\|Holstep]].
 
-3.1 Kelsier
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+
+2. [[#Juventud]] 
+2. [[#Contrataci.C3.B3n de la banda de Kelsier]] 
+2. [[#En las cuevas de Arguois]] 
+2. [[#El ataque a Holstep]] 
 
 
-4 Notes
+3 Relaciones. [[#Relaciones]] 
+
+3. [[#Kelsier]] 
 
 
-## Appearance and Personality
->“*Well, if you’re listing problems we’ll have to overcome, you should write up there that we’re all bloody insane—though I doubt we can fix that fact.*”
-\-Yeden when planning the rebellion.[4]
+4 Notas. [[#Notas]] 
 
 
-Yeden is short, gangly, and has curly brown hair. He was the leader of the Skaa Rebellion. He does not like skaa thieves, especially ones that work for their own profit. He considers skaa that work on the [[Lord Ruler\|Lord Ruler's]] armies to be traitors to the other skaa. He was originally timid, but later became more confident and civil. He is also earnest, but lacks in presence. Originally, he dressed like a skaa worker, with ash-covered clothes and a soot-stained face. He later dressed more like Kelsier: wearing a suit that didn't have soot on it. Yeden is married, but stays away to protect his family.
+## Apariencia y personalidad
+>“*Bueno, si estás haciendo una lista de los problemas que tendremos que superar, deberías escribir que todos estamos locos de remate… aunque dudo que podamos arreglar ese hecho.*”
+\-Yeden planeando la revuelta.[4]
 
->“*You’re selfish, undisciplined, and you’ve turned your backs on the rest of the skaa. You dress nicely, but on the inside you’re dirty as ash.*”
-\-Yeden to Breeze.[2]
 
-Yeden thinks members of the skaa underground are selfish and undisciplined, but he admits they're effective, and is willing to make use of their skills. He doesn't trust [[Kelsier's crew\|Kelsier's crew]], and when Kelsier lets Clubs go Yeden is worried he will bring [[Obligator\|obligators]] upon them. Yeden is skeptical of Kelsier's plan; he thinks the skaa will never rise up on the government, since the rebellion has been trying to do this for a thousand years without success.
-After a time, Yeden becomes more civil with the crew and trusts Kelsier more. He starts to realize that the rebellion might actually have a chance of succeeding. After Kelsier's demonstration with [[Bilg\|Bilg]] and [[Demoux\|Demoux]], Yeden starts to believe that the army was invincible, that it couldn't fail. He is an earnest man, though he lacks in presence.
+Yeden es bajo, delgado y tiene el pelo castaño rizado. Era el líder de la revuelta skaa. No le gustan los ladrones skaa, especialmente los que trabajan para su propio beneficio. Considera que los skaa que trabajan en los ejércitos del [[Lord Legislador\|lord Legislador]] son traidores a los demás skaa. Inicialmente era tímido, pero luego se volvió más cortés y seguro de sí mismo. También es sincero, pero carece de presencia. Originalmente, se vestía como un trabajador skaa, con ropa cubierta de cenizas y el rostro manchado de hollín. Más tarde, se vistió más como Kelsier: usando un traje que no tenía hollín. Yeden está casado, pero se mantiene alejado para proteger a su familia.
 
-## History
-### Early life
-Little is known of Yeden's origins. He suceeded [[Marsh\|Marsh]] in the control of the skaa rebellion. The skaa rebellion spent years gathering the thirty thousand boxings he used to pay [[Kelsier's crew\|Kelsier's crew]], and before hiring Kelsier he had never seen a [[Allomancy\|Mistborn]], and didn't believe that skaa could be Allomancers or that Mistborn existed. He had never visited the [[Arguois caverns\|Arguois caverns]].
+>“*Sois egoístas, indisciplinados y habéis dado la espalda al resto de los skaa. Vestís bien, pero por dentro sois tan sucios como la ceniza.*”
+\-Yeden a Brisa.[2]
 
-### Contracting Kelsier's Crew
- by  Kelly Mai 
-Yeden contracted [[Kelsier's crew\|Kelsier's crew]] to provide an army to capture [[Luthadel\|Luthadel]], overthrow The Final Empire, and capture [[Rashek\|The Lord Ruler]]. Yeden would pay thirty thousand boxings, half before and half after the job was done. However, it was [[Kelsier\|Kelsier's]] idea, and Yeden was a bit skeptical at first. He thought that the crew could never get the skaa to rise up and that it would be hard to recruit a large army from the population of Luthadel.
+Yeden piensa que los miembros de la resistencia skaa son egoístas e indisciplinados, pero admite que son efectivos y está dispuesto a aprovechar sus habilidades. No confía en la [[Banda de Kelsier\|banda de Kelsier]], Yeden se preocupa de que cuando Kelsier deja ir a Clubs, este pueda atraer a los [[Obligador\|obligadores]] hacia ellos. Yeden es escéptico ante el plan de Kelsier; él cree que los skaa nunca se levantarán contra el gobierno, ya que la revuelta ha intentado hacerlo durante mil años sin éxito.
+Con el tiempo, Yeden se vuelve más cortés con el grupo y confía más en Kelsier. Empieza a darse cuenta de que la revuelta podría tener realmente una oportunidad de éxito. Después de la demostración de Kelsier con [[Bilg\|Bilg]] y [[Demoux\|Demoux]], Yeden comienza a creer que el ejército era invencible, que no podía fallar. Es un hombre serio, aunque carece de presencia.
 
-### At the Arguois caverns
-Yeden began to get excited, and was impressed with Kelsier's work for the rebellion. He went on rallies to recruit people for the rebel army. He wanted to see the army at the Arguois Caverns, and Kelsier took him to watch over it so that [[Hammond\|Hammond]] could return to Luthadel for a while. After Kelsier's display with [[Demoux\|Demoux]], Yeden started to believe that Kelsier was able to grant his powers to others, and that their army could not possibly lose.
+## Historia
+### Juventud
+Poco se sabe de los orígenes de Yeden. Él sucedió a [[Marsh\|Marsh]] en el control de la revuelta skaa. La revuelta skaa pasó años reuniendo las treinta mil arquillas que utilizó para pagar a la [[Banda de Kelsier\|banda de Kelsier]], y antes de contratarlo, nunca había visto a un [[Alomancia\|nacido de la bruma]] y no creía que los skaa pudiesen ser alomantes o que existiesen siquiera los nacidos de la bruma. Nunca había visitado las [[Cuevas de Arguois\|cuevas de Arguois]].
 
-### The Attack on Holstep
-[[Breeze\|Breeze]] was going to be sent to replace Yeden for a few months, but Yeden had already taken control of the army to gain some experience.  Yeden, confident that the rebellion was blessed by Kelsier, instructed them to attack the nearby [[Holstep\|Holstep]] Garrison in the [[Central Dominance\|Central Dominance]], which the Skaa rebellion defeated in a night raid. However, on the rebellion's way back to the Caverns, about an hour away from Holstep, they were attacked by the [[Valtroux\|Valtroux]] Garrison of about 5000 soldiers. Yeden and 5000 members of the Rebellion's skaa army died there, and Yeden's head was found on a spear beside the road.
+### Contratación de la banda de Kelsier
+ 
+Yeden contrató a la [[Banda de Kelsier\|banda de Kelsier]] para proporcionar un ejército que capturase [[Luthadel\|Luthadel]], derrocase el [[Imperio Final\|Imperio Final]] y capturase al [[Rashek\|lord Legislador]]. Yeden pagaría treinta mil arquillas, la mitad antes y la otra mitad después de terminar el trabajo. Sin embargo, fue idea de [[Kelsier\|Kelsier]], y Yeden era un poco escéptico al principio. Pensó que la banda nunca podría conseguir que los skaa se levantasen y que sería difícil reclutar un gran ejército entre la población de Luthadel.
 
-## Relationships
+### En las cuevas de Arguois
+Yeden comenzó a emocionarse, y quedó impresionado con el trabajo de Kelsier para la revuelta. Hizo mítines para reclutar gente para el ejército rebelde. Quería ver al ejército en las cuevas de Arguois, y Kelsier lo llevó a vigilar para que [[Hammond\|Hammond]] pudiese volver a Luthadel por un tiempo. Después de la exhibición de Kelsier con [[Demoux\|Demoux]], Yeden comenzó a creer que Kelsier podía otorgar sus poderes a otros y que su ejército no podría perder bajo ninguna circunstancia.
+
+### El ataque a Holstep
+[[Brisa\|Brisa]] iba a ser enviado para reemplazar a Yeden durante unos meses, pero Yeden ya había tomado el control del ejército para adquirir algo de experiencia.  Yeden, confiado en que la revuelta estaba bendecida por Kelsier, les ordenó atacar la cercana Guarnición de [[Holstep\|Holstep]] en el [[Dominio Central\|Dominio Central]], la cual la rebelión skaa derrotó en un ataque nocturno. Sin embargo, en el camino de regreso de la revuelta a las cuevas, aproximadamente a una hora de distancia de Holstep, fueron atacados por la Guarnición de [[Valtroux\|Valtroux]], compuesta por unos 5000 soldados. Yeden y 5000 miembros del ejército skaa de la revuelta murieron allí, y la cabeza de Yeden fue encontrada en una lanza junto al camino.
+
+## Relaciones
 ### Kelsier
->“*It appeared that not even Yeden could resist Kelsier’s charisma for an extended period of time.*”
-\-Vin thinking about Yeden[7]
+>“*Parecía que ni siquiera Yeden podía resistirse al carisma de Kelsier durante un periodo prolongado de tiempo.*”
+\-Pensamientos de Vin sobre Yeden[7]
 
 
-In the beginning, Yeden thought [[Kelsier\|Kelsier]] was a detestable thief, selfish and dishonest. He later is impressed by Kelsier, becoming more civil with him and believing that the rebellion could really succeed in overthrowing the Lord Ruler. After Kelsier's display with Demoux, Yeden was very impressed, and he was convinced that Kelsier was invincible and could pass his power to others.
+Al principio, Yeden pensaba que [[Kelsier\|Kelsier]] era un ladrón detestable, egoísta y deshonesto. Más tarde, queda impresionado por Kelsier, volviéndose más cortés con él y creyendo que la revuelta realmente podría tener éxito en derrocar al lord Legislador. Después de la exhibición de Kelsier con Demoux, Yeden quedó muy impresionado y estaba convencido de que Kelsier era invencible y podía transmitir su poder a otros.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Yeden
+https://es.coppermind.net/wiki/Yeden

@@ -1,89 +1,106 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Matthew Cobb**|
 |-|-|
-|by  Jill Andersen |
-|**Titles**|Admiral of the Fleet of the [[DDF\|DDF]], Callsign: Mongrel|
-|**Profession**|DDF pilots|
-|**Groups**|[[DDF\|DDF]], Flight Instructor|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Títulos**|Almirante de la Flota de la [[FDD\|FDD]], Identificador: Chucho|
+|**Oficio**|Piloto de la FDD|
+|**Grupo**|[[FDD\|FDD]], Instructor de vuelo|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Starsight*, *Sunreach*, *ReDawn*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*If you’ve got time to argue, I’m obviously not working you hard enough*”
-\-Cobb interruption of a Jorgen-Spensa argument.[2]
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]*, *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-
-**Matthew[3] Cobb** (callsign: **Mongrel**) is a flight instructor for the [[DDF\|DDF]]. He fought in the [[Battle of Alta\|Battle of Alta]], making him a [[First Citizen\|First Citizen]].
-After the [[Battle of Alta Second\|Battle of Alta Second]], he replaces [[Ironsides\|Ironsides]] as admiral of the DDF, though after returning from being trapped in the [[Nowhere\|Nowhere]], he relieves himself from duty until he recovers and passes operational command to [[Jorgen Weight\|Jorgen Weight]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
-
-4.1 Spensa
-4.2 Ironsides
-4.3 Jorgen
+>“*Si tenéis tiempo de discutir, está claro que no os aprieto lo suficiente.*”
+\-Interrupción de Cobb de una discusión entre Jorgen y Spensa.[2]
 
 
-5 Trivia
-6 Notes
+**Matthew Cobb** (identificador: **Chucho**) es instructor de vuelo de la [[FDD\|FDD]]. Luchó en la [[Batalla de Alta\|Batalla de Alta]], lo que le convirtió en [[Primer Ciudadano\|Primer Ciudadano]].
+Tras la [[Segunda Batalla de Alta\|Segunda Batalla de Alta]], sustituye a [[F%C3%A9rrea\|Férrea]] como almirante de la FDD, aunque tras regresar de quedar atrapado en la [[Ninguna-parte\|ninguna-parte]], se releva del servicio hasta recuperarse y pasa el mando operativo a [[Jorgen Weight\|Jorgen Weight]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Spensa]] 
+4. [[#F.C3.A9rrea]] 
+4. [[#Jorgen]] 
 
 
-## Appearance and Personality
->“*That wasn't a joke! I don't joke!*”
-\-Cobb to his team when meeting them[5]
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-Cobb is fifty years old. He has grey in his hair and a stark white mustache that makes him appear much older than he actually is. He limps due to an injury he sustained during the Battle of Alta.
-He has a sense of humor and is very strict with his class. Cobb cares for his students, grieving for the ones who die in battle. He has strong feelings on the topic of refusing to eject when in danger. He dislikes placing young cadets into battle before the end of their training.
-Cobb is open with his students and answers as many “hard questions” as he can. He talked about Krell strategy and other topics that were previously banned. He takes teaching seriously and wants his students to do the same. His class’s flight maneuvers are often superior to those of other flights.
+## Apariencia y personalidad
+>“*¡No era broma! ¡Yo nunca bromeo!*”
+\-Cobb a su equipo al reunirse con ellos[5]
 
-## Attributes and Abilities
-Cobb was an excellent pilot who stopped flying after the Battle of Alta due to the trauma it caused him.
-As First Citizen he became an instructor for new pilots; a job he excels at not only because he manages to teach complex flight moves, tactics and techniques; but because he does care for his students.
-As commander of his flight, he chooses tactics based on the danger his crew would be exposed to. Because of this, his class is considered the safest one.
 
-## History
-He was the wing mate of [[Zeen Nightshade\|Zeen Nightshade]] (callsign: **Chaser**), [[Spensa\|Spensa's]] father, and fought with him in the Battle of Alta. After Chaser returned from the sky and shot down friendly ships, Cobb shot him down on [[Judy Ivans\|Ironside's]] orders.
-Cobb reviewed Spensa's pilot exam and, after talking to her, gave her a First Citizen pin to help her get into flight school. He used his status and political power to enroll her.
+Cobb tiene cincuenta años. Tiene canas en el pelo y un bigote blanco que le hace parecer mucho mayor de lo que es. Cojea debido a una herida que sufrió durante la batalla de Alta.
+Tiene sentido del humor y es muy estricto con su clase. Cobb se preocupa por sus alumnos, llorando por los que mueren en batalla. Tiene fuertes sentimientos sobre el tema de negarse a eyectar cuando están en peligro. No le gusta poner a los jóvenes cadetes en combate antes de que terminen su formación.
+Cobb es abierto con sus alumnos y responde a todas las "preguntas difíciles" que puede. Habló de la estrategia de los krell y de otros temas que antes estaban prohibidos. Se toma en serio la enseñanza y quiere que sus alumnos hagan lo mismo. Las maniobras de vuelo de su clase suelen ser superiores a las de otros escuadrones.
 
->“*That was somehow the most embarrassing and inspiring display I’ve ever seen out of cadets! You should be ashamed. And proud.*”
-\-Cobb to his team after their first battle[16]
+## Atributos y habilidades
+Cobb era un excelente piloto que dejó de volar tras la Batalla de Alta debido al trauma que le causó.
+Como Primer Ciudadano se convirtió en instructor de nuevos pilotos; un trabajo en el que destaca no sólo porque consigue enseñar complejos movimientos, tácticas y técnicas de vuelo; sino porque se preocupa por sus alumnos.
+Como comandante de su escuadrón, elige las tácticas en función del peligro al que se expondría su tripulación. Debido a esto, su clase se considera la más segura.
 
-When he met Spensa's class, he made it clear to the cadets that he would not tolerate jokes. He takes training very seriously, as he understands many of them will die or not graduate. He is compelled to obey orders from Ironsides, some of which include sending his new class into the battlefield after just one day of training.
-Cobb is strict and tough with his class as he covers flight maneuvers, weapons and strategy. He also monitored and guided them, and gave the cadets orders during the battles they participated in while in training.
-Following Morningtide's and Bim's deaths, he intended to work them hard to forget. When he saw the cadets' discomfort, he tried to give a speech that ended up unsettling them further. Fortunately, Spensa interjected with a better speech about aiming for the sky where they are now. As soon as she finished, Cobb told them to stop wasting time and to put their helmets on.
-After some more training, battles and many questions from the team on Krell tactics, Cobb shared some confidential intelligence on the Krell, and the planet and its history. It was enough to help the team to understand more about their enemy and home and the possibility of intelligent machines, which reminded Spensa of [[M-Bot\|M-Bot]].
-He also let them know that the fights used in the simulation are modifications of real battles. One in particular was the [[Battle of Trajerto\|Battle of Trajerto]]. It was used to explain that if they needed to choose between Alta and Igneous, the second one is more important. They had to destroy Alta on that particular simulation. This gave Spensa the idea of looking for the Battle of Alta on the archives.
+## Historia
+Fue compañero de ala de [[Zeen Nightshade\|Zeen Nightshade]] (identificador: **Perseguidor**), el padre de [[Spensa\|Spensa]], y luchó con él en la batalla de Alta. Después de que Perseguidor regresara del cielo y derribara naves amigas, Cobb lo abatió por orden de [[Judy Ivans\|Férrea]].
+Cobb revisó el examen de piloto de Spensa y, tras hablar con ella, le dio un pin de Primer Ciudadano para ayudarla a entrar en la escuela de vuelo. Utilizó su estatus y poder político para matricularla.
 
->“*I feel like a munitions man, reloading artillery. I stuff you into the chamber, fire you into the sky, then grab another shell*”
-\-Cobb's thoughts on the fate of his students
+>“*¡Eso ha sido la exhibición más bochornosa y al mismo tiempo inspiradora que he visto nunca de un grupo de cadetes! Deberíais sentir vergüenza. Y orgullo.*”
+\-Cobb a su equipo tras su primera batalla[16]
 
-After Hurl's death, he gives an angry speech about ejecting, asking whether they would rather be called cowards or die saving their ship. He explained that Hurl would not be buried with any honors as the pod was destroyed. He gives the class a medical leave for a week and writes her parents a letter.
-He helps Spensa learn the truth about her father and tells her there is a suspected genetic defect for his actions. He then asked her if she saw eyes in the dark or could hear the stars as her father had confessed before the incident.
-During the Second Battle of Alta, he is contacted by M-Bot, who had written a new program and decided to help Spensa, who was in severe danger. Cobb answered the call and flew for the first time in years to save Spensa and managed to do so. After they reunited, he returned M-Bot to Spensa.
+Cuando conoció a la clase de Spensa, dejó claro a los cadetes que no toleraría bromas. Se toma muy en serio los entrenamientos, pues sabe que muchos de ellos morirán o no se graduarán. Se ve obligado a obedecer las órdenes de Férrea, algunas de las cuales incluyen enviar a su nueva clase al campo de batalla tras sólo un día de formación.
+Cobb es estricto y duro con su clase mientras les enseña maniobras de vuelo, armas y estrategia. También los vigila y guía, y da órdenes a los cadetes durante las batallas en las que participan mientras están formándose.
+Tras las muertes de Marea y Bim, pretendía hacerles olvidar. Al ver el malestar de los cadetes, intentó pronunciar un discurso que acabó por inquietarlos aún más. Afortunadamente, Spensa intervino con un discurso mejor sobre aspirar al cielo donde se encontraban ahora. En cuanto terminó, Cobb les dijo que dejaran de perder el tiempo y se pusieran los cascos.
+Después de más entrenamientos, batallas y muchas preguntas del equipo sobre las tácticas krell, Cobb compartió alguna información confidencial sobre estos, el planeta y su historia. Fue suficiente para ayudar al equipo a comprender mejor a su enemigo y su hogar, así como la posibilidad de que existieran máquinas inteligentes, que a Spensa le recordaron a [[M-Bot\|M-Bot]].
+También les hizo saber que los combates utilizados en la simulación son modificaciones de batallas reales. Una en concreto fue la [[Batalla de Trajerto\|batalla de Trajerto]]. Sirvió para explicarles que si tenían que elegir entre Alta e Ígnea, la segunda es más importante. Tenían que destruir Alta en esa simulación en particular. Esto dio a Spensa la idea de buscar la Batalla de Alta en los archivos.
 
-## Relationships
+>“*Me siento como un encargado de munición, recargando la artillería. Os meto en la cámara, os disparo al cielo y luego cojo otro cartucho...*”
+\-Cobb sobre el destino de sus alumnos
+
+Tras la muerte de Arcada, pronuncia un airado discurso sobre la eyección, preguntando si preferían ser llamados cobardes o morir salvando su nave. Explica que Arcada no será enterrada con honores ya que la cápsula fue destruida. Da a la clase una baja médica de una semana y escribe una carta a sus padres.
+Ayuda a Spensa a conocer la verdad sobre su padre y le dice que se sospecha que existe un defecto genético por sus acciones. Luego le pregunta si ve ojos en la oscuridad o si puede oír las estrellas, como su padre había confesado antes del incidente.
+Durante la Segunda Batalla de Alta, es contactado por M-Bot, que había escrito un nuevo programa y decidió ayudar a Spensa, que se encontraba en grave peligro. Cobb respondió a la llamada y voló por primera vez en años para salvar a Spensa y lo consiguió. Tras reunirse, devolvió a M-Bot a Spensa.
+
+## Relaciones
 ### Spensa
-Cobb was the only adult who stepped up for Spensa when she applied for and went through Flight School. At his class, he treated her exactly the same as any other student. He was outraged at her not being able to eat with the rest and did his best to change it. He was not successful but still encouraged her to keep fighting. He also gives her a personal radio to get in touch with her if needed.
-Spensa later finds out from him he is the one who shot down her father, and that the official story of him running away was a lie. This did not alienate her from him. Cobb is found reviewing her moves during battle and his concerns on her being like her father starts to grow, which leads him to help her on learning the truth.
-Cobb eventually gave Spensa his code to the DDF archive where she could copy the recording of the Battle of Alta, so she can learn the truth. He later gave her more details including that her father claimed to see hundreds of small eyes or could hear the stars.
-After Spensa ejected and was expelled from the DDF; he wanted her to fight to stay in school, however she confessed on seeing the eyes and hearing the stars. He agreed it was best for her to stand down.
-During the Second Battle of Alta, he saves Spensa by flying M-Bot.
+Cobb fue el único adulto que dio un paso al frente por Spensa cuando ésta solicitó y pasó por la escuela de vuelo. En su clase, la trató exactamente igual que a cualquier otro alumno. Le indignaba que no pudiera comer con el resto e hizo todo lo posible por cambiarlo. No lo consiguió, pero aun así la animó a seguir luchando. También le da una radio personal para ponerse en contacto con ella si es necesario.
+Más tarde, Spensa descubre por él que fue él mismo quien abatió a su padre y que la historia oficial de su huida era mentira. Esto no la alejó de él. Cobb se encuentra revisando sus movimientos durante la batalla y su preocupación de que sea como su padre empieza a crecer, lo que le lleva a ayudarla a descubrir la verdad.
+Cobb con el tiempo le dio a Spensa su código para el archivo de la FDD donde ella podría copiar la grabación de la Batalla de Alta, por lo que ella podría conocer la verdad. Más tarde le dio más detalles, incluyendo que su padre afirmaba ver cientos de pequeños ojos o podía oír las estrellas.
+Después de que Spensa se eyectara y fuera expulsada de la FDD; él quería que ella luchara para permanecer en la escuela, sin embargo confesó haber visto los ojos y oído las estrellas. Él estuvo de acuerdo en que lo mejor era que se retirara.
+Durante la Segunda Batalla de Alta, salva a Spensa volando M-Bot.
 
-### Ironsides
-Judy Ironsides was Cobb’s flight leader in the Battle of Alta, she was the one who ordered him to shoot down Chaser.
-Cobb had been more sensitive to all deaths than her and this difference seemed to have alienated them. She respects him but stands firm on her decisions. The other disagreement is on the existence of the defect causing Chaser to become a traitor, and moreover that this would be passed to Spensa.
+### Férrea
+Judy Férrea fue la jefa de escuadrón de Cobb en la batalla de Alta, ella fue quien le ordenó derribar a Perseguidor.
+Cobb era más sensible que ella a todas las muertes y esta diferencia parece haberles distanciado. Ella le respeta pero se mantiene firme en sus decisiones. El otro desacuerdo es sobre la existencia del defecto causante de que Perseguidor se convirtiera en un traidor, y además que éste pasara a Spensa.
 
 ### Jorgen
-Cobb knows and acknowledges Jorgen’s background and gives him the fight leader position since the first day. Still, he is as tough with him as with anyone, snapping at him when arrogant. He does give good leadership advice and wants him to earn respect.
+Cobb conoce y reconoce la trayectoria de Jorgen y le da el puesto de líder de escuadrón desde el primer día. Aun así, es tan duro con él como con cualquiera, y le riñe cuando se muestra arrogante. Le da buenos consejos de liderazgo y quiere que se gane su respeto.
+
+## Curiosidades
+Su nombre de pila, Matthew, es muy poco usado, incluso por su propia familia.
+## Notas
+|Antecesor  **[[Judy Ivans\|Judy Ivans]]**|**Almirante de la Flota de la[[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]]**  83  hasta la actualidad|Sucesor  ***Titular actual***|
+|-|-|
 
 
-## Trivia
-His first name, Matthew, is very rarely used, even by his own family.
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
-https://coppermind.net/wiki/Cobb
+
+https://es.coppermind.net/wiki/Matthew_Cobb

@@ -1,118 +1,130 @@
+
+
 |**Aviar**|
 |-|-|
-|by  Matthew Johnson |
-|**Abilities**|Aviar talents|
-|**World of Origin**|[[First of the Sun\|First of the Sun]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Capacidades**|Talentos aviares|
+|**Mundo de origen**|[[Primero del Sol\|Primero del Sol]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*The world is changing, Sixth of the Dusk. The people of the mainland grow hungry for Aviar companions; things once restricted to the very wealthy are within the reach of ordinary people. We've learned so much, yet the Aviar are still an enigma.*”
-\-Vathi[1]
-
-
-**Aviar** are birds that have gained magical powers, or "talents", on the island of [[Patji (island)\|Patji]] on [[First of the Sun\|First of the Sun]]. They are capable of sharing their powers with humans. Aviar were long thought to be exclusively native to the [[Pantheon\|Pantheon]] archipelago, but other birds can become Aviar if they visit the island and ingest the fruit of [[Patji's Finger\|Patji's Fingers]].
-
-## Contents
-
-1 Appearance and Anatomy
-2 Behavior
-
-2.1 Nature of Abilities
-2.2 Abilities
-
-2.2.1 Bonds
-2.2.2 Cognitive Concealment
-2.2.3 Future Sight
-2.2.4 Other Abilities
+>“*El mundo está cambiando, Sexto del Ocaso. La gente del continente busca compañeros aviares cada vez más, y las cosas que una vez eran dominio exclusivo de los muy ricos están ahora al alcance de cualquiera. Hemos aprendido mucho, pero los aviares siguen siendo un enigma.*”
+\-Vathi.[1]
 
 
+Los **aviares** son aves que han adquirido poderes mágicos, o «talentos», en la isla de [[Patji (isla)\|Patji]] de [[Primero del Sol\|Primero del Sol]]. Son capaces de compartir sus poderes con los humanos. Durante mucho tiempo se creyó que los aviares eran exclusivamente nativos del archipiélago del [[Pante%C3%B3n\|Panteón]], pero otras aves pueden convertirse en aviares si visitan la isla e ingieren los frutos de los [[Dedo de Patji\|dedos de Patji]].
+
+## Sumario
+
+1 Apariencia y anatomía. [[#Apariencia y anatom.C3.ADa]] 
+2 Comportamiento. [[#Comportamiento]] 
+
+2. [[#Naturaleza de las habilidades]] 
+2. [[#Habilidades]] 
+
+2. [[#V.C3.ADnculos]] 
+2. [[#Camuflaje cognitivo]] 
+2. [[#Precognici.C3.B3n]] 
+2. [[#Otras habilidades]] 
 
 
-3 Ecology
-4 Domestication
-5 History
-6 Known Varieties
-7 Notable Aviar
-8 Trivia
-9 Notes
 
 
-## Appearance and Anatomy
- by  Dragontrill  [[Gereh\|Gereh]] with his [[Gereh's Aviar\|Aviar]]
-Most Aviar are relatively large birds, approximately three fists tall. Some species may be smaller or larger. Their appearance varies between species, with colors including red, green, black, blue, and white, sometimes in combination. Some Aviar have sharp raptor-like talons and beaks. Juvenile Aviar are barely able to fly, but healthy adults are typically good fliers unless their wings are clipped.
-
-## Behavior
-Aviar are more intelligent than ordinary animals. Wild Aviar exhibit behaviors similar to other birds. They live in flocks, roost in trees, and build nests where they lay eggs and raise their young. Their mating behavior somehow involves long single feathers known as "mating plumes", which are usually found near nests. Although their powers give them some protection from predators, they will quickly flee if startled. They are known to eat fresh fruit, and will also eat seeds, dried fruit, and fish.
-They display distinct personalities; for example, [[Kokerlii\|Kokerlii]] is oblivious and happy, while [[Sak\|Sak]] is far more reserved. They seem to understand some human speech, as they can respond to commands or other sounds from their master. They can be trained to perform specific behaviors, such as returning to their master if they whistle, or even to attack other animals.
-
-### Nature of Abilities
-Juvenile birds can gain magical powers, or "talents", by consuming special worms that live on the island of [[Patji (island)\|Patji]]. Aviar from the various islands of the [[Pantheon\|Pantheon]] migrate to Patji to gain their talent. The worms infest fruit that falls from [[Patji's Finger\|Patji's Finger]] trees that grow next to [[Patji's Eye\|Patji's Eye]]; the birds then consume the worms when they eat the fruit. Birds that are not native to the Pantheon usually do not develop these unique powers. However, [[Sixth of the Dusk (character)\|Sixth of the Dusk]] raised a non-native bird on the isles, [[Sak\|Sak]], and found that she also developed a unique talent.
-
->“*The Aviar are special. Everyone knows the separate breeds and what they do. Why assume that a fish would learn to breathe air, if raised on land? Why assume a non-Aviar would become one if raised on Patji...*”
-\-Vathi, after learning of Sak's talent[1]
-
-The abilities of the Aviar stem from a symbiosis with the worms that they eat. The worms are [[Investiture\|Invested]]; once eaten, the worms grant the birds access to certain magical powers depending on their species. The Aviar can then serve as an intermediary to allow humans to use or benefit from their powers.
-Aviar do not seem to have to continue eating worms to allow their powers to function, as they are often exported from the Pantheon to the distant mainland. Trappers have established that the birds must be juveniles to gain talents; it is not clear what would happen if an adult bird ate the worms. Aviar can be transported to other planets in the [[Cosmere\|cosmere]], although this is difficult and very rare. It is unclear if taking Aviar to other worlds has an effect on their abilities. However, individuals that are not native to [[First of the Sun\|First of the Sun]] are able to bond Aviar, even individuals that have access to other manifestations of Investiture such as [[Feruchemy\|Feruchemy]].
-A human cannot eat the worms or an Aviar in order to gain powers, as the symbiosis is specific to the worms and the birds. It would be theoretically possible for other organisms to evolve a similar symbiosis, but it would take many generations. A [[Kandra\|kandra]] in the form of an Aviar would not be able to gain their powers, even if they ate the worms. It is possible to steal an Aviar talent through [[Hemalurgy\|Hemalurgy]], but it would be very difficult to do so.
-
-### Abilities
-The power obtained by Aviar is different for each species of bird. Many Aviar have abilities related to the [[Cognitive Realm\|Cognitive Realm]], but [[Spiritual Realm\|Spiritual]] and even [[Physical Realm\|Physical]] powers also exist. Some abilities work passively, while others must be intentionally activated by the Aviar, sometimes at the request of a bonded person. At least one unknown Aviar ability could assist with "navigation". Aviar abilities are usually very reliable, although they were disrupted by an unusual device that was given to the [[Northern Interests Trading Company\|Northern Interests Trading Company]] by the [[Ones Above\|Ones Above]].
-
-#### Bonds
-Aviar are able to share their powers with humans through a Spiritual [[Connection\|Connection]] similar to the [[Nahel bond\|Nahel bond]]. This bond is not as powerful as the Nahel bond, but because of that it can be shifted between people at its owner's will. The bond includes a mental connection; Dusk refers to Sak "sending" him her visions. Aviar are also able to sense the location of the person they have bonded with. The nature of the bond allows some Aviar to share their talents with people other than their usual master. Most people bond a single Aviar, but some [[Trapper\|trappers]] have bonded at least three Aviar at the same time.
-
-#### Cognitive Concealment
->“*It was fortunate [Kokerlii's] breed was so mind-invisible, even deathants would consider him no more edible than a piece of bark.*”
-\-Dusk[1]
+3 Ecología. [[#Ecolog.C3.ADa]] 
+4 Domesticación. [[#Domesticaci.C3.B3n]] 
+5 Historia. [[#Historia]] 
+6 Variedades conocidas. [[#Variedades conocidas]] 
+7 Aviares destacados. [[#Aviares destacados]] 
+8 Curiosidades. [[#Curiosidades]] 
+9 Notas. [[#Notas]] 
 
 
-[[Kokerlii\|Kokerlii]] and [[Mirris\|Mirris]] have a Cognitive ability to conceal their mental activity and those of others around them. This ability seems to work passively, as Dusk never needs to ask Kokerlii to use it or wait for him to do so. Some version of this ability appears to be relatively common, as flocks of wild Aviar are able to conceal themselves from mind-sensing predators such as [[Nightmaw\|nightmaws]]. [[Krell (cosmere)\|Krell]] are known to sleep near Aviar roosts in order to take advantage of the mental shield that they provide.
-Additionally, Aviar Cognitive concealment impedes the ability of others to sense the use of Investiture, much like an Allomantic [[Copper\|coppercloud]]. They would be able to block an [[Awakener\|Awakener's]] [[Heightening\|life sense]] and interfere with other methods of detecting Investiture, such as Allomantic [[Bronze\|bronze]] and secretspren.
+## Apariencia y anatomía
+  <<Gereh\|Gereh>> con su <<Aviar de Gereh\|aviar>>.
+La mayoría de los aviares son aves relativamente grandes, con una altura aproximada de tres puños. Algunas especies pueden ser más pequeñas o más grandes. Su apariencia varía entre especies, con colores que incluyen rojo, verde, negro, azul y blanco, a veces combinados. Algunos aviares tienen garras y picos afilados similares a los de las rapaces. Los aviares jóvenes apenas pueden volar, pero los adultos sanos suelen ser buenos voladores a menos que se les recorten las alas.
 
-#### Future Sight
-[[Sak\|Sak's]] ability allows her to glimpse into the future, using the property of [[Fortune\|Fortune]] to glimpse the [[Spiritual Realm\|Spiritual Realm]]. She is able to see potential deaths of a person, and manifest these potential deaths as visions of corpses wherever they could be killed. The corpses are only visible to those with whom Sak chooses to share her talent. If the danger passes, the pertinent corpse will disappear. Sak is able to turn this ability on or off at will. She is even able to show Vathi the visions at Dusk's request. Sak, whose species is not native to the Pantheon, is the only known Aviar that has ever possessed this ability.
+## Comportamiento
+Los aviares son más inteligentes que los animales corrientes. Los aviares salvajes muestran comportamientos similares a otros pájaros. Viven en bandadas, se posan en los árboles y construyen nidos donde ponen huevos y crían a sus polluelos. Su rutina de apareamiento incluye, de alguna forma, el uso de largas plumas conocidas como «plumas de apareamiento», que a menudo se pueden encontrar cerca de los nidos. Aunque sus poderes les brindan cierta protección contra los depredadores, huyen rápidamente si se asustan. Son conocidos por comer frutas frescas y también semillas, frutos secos y pescado.
+Muestran personalidades variadas. Por ejemplo, [[Kokerlii\|Kokerlii]] es despreocupado y alegre, mientras que [[Sak\|Sak]] es mucho más reservado. Parecen entender parte del habla humana, ya que son capaces de responder a órdenes u otros sonidos de sus amos. Se les puede entrenar para llevar a cabo comportamientos específicos, como regresar con su amo si silba, o incluso atacar a otros animales.
 
-#### Other Abilities
-Aviar talents have some parallels to other manifestations of [[Investiture\|Investiture]] in the cosmere. Aviar exist in the same universe as other manifestations of Investiture, so the powers that they provide share some characteristics with other magics such as [[Allomancy\|Allomancy]] and [[Surgebinding\|Surgebinding]]. Although known Aviar powers are similar to Allomantic [[Copper\|copper]] and [[Electrum\|electrum]], not every Aviar talent has an Allomantic counterpart, and vice versa.
+### Naturaleza de las habilidades
+Los ejemplares jóvenes pueden obtener poderes mágicos, o «talentos», al ingerir unos gusanos especiales que viven en la isla de [[Patji (isla)\|Patji]]. Los aviares de la diferentes islas del [[Pante%C3%B3n\|Panteón]] migran a Patji para adquirir su talento. Los gusanos infestan los frutos que caen de los [[Dedo de Patji\|dedos de Patji]] que crecen junto al [[Ojo de Patji\|Ojo de Patji]]; después los pájaros los consumen al comerse los frutos. Lo pájaros que no son nativos del Panteón no suelen desarrollar estos poderes únicos. Sin embargo, [[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] cría un pájaro no nativo en las islas, [[Sak\|Sak]], y descubre que también ha desarrollado un talento único.
 
-## Ecology
- by  Heatherly  Aviar flying over the [[Pantheon\|Pantheon]]
-Many species of birds in the Pantheon can become Aviar; neither trappers nor scholars are immediately familiar with every species. Each species is typically found on a specific island. They can be sent to live in the [[Homeisles\|homeisles]] or the [[Mainland\|mainland]] without issue, but wild Aviar are only found in the Pantheon.
+>“*Los aviares son especiales. Todo el mundo conoce las distintas razas y de qué son capaces. ¿Por qué dar por hecho que un pez aprenderá a respirar aire si lo crías en tierra firme? ¿Por qué dar por hecho que un ave no aviar obtendrá un talento si se cría en Patji?*”
+\-Vathi, tras conocer el talento de Sak.[1]
 
-## Domestication
->“*An Aviar raised around humans never quite fit back in among their own kind. The same could be said of a man raised around Aviar.*”
-\-Dusk[1]
+Las habilidades de los aviares provienen de una simbiosis con los gusanos que comen. Los gusanos están [[Investidura\|Investidos]]; una vez ingeridos, otorgan a los pájaros acceso a ciertos poderes mágicos según su especie. Los aviares pueden, a partir de ese momento, servir como intermediarios para permitir que los humanos usen o se beneficien de sus poderes.
+No parece necesario que los aviares continúen comiendo gusanos para que sus poderes sigan funcionando, ya que a menudo se exportan desde el Pantheon hacia el lejano continente. Los tramperos han determinado que las aves deben ser jóvenes para poder adquirir talentos; no está claro qué pasaría si un ave adulta comiera gusanos. Los aviares pueden ser transportados a otros planetas del [[Cosmere\|Cosmere]], aunque es difícil y poco común. No está claro si llevar aviares a otros mundos tiene algún efecto en sus habilidades. Sin embargo, individuos que no son nativos de [[Primero del Sol\|Primero del Sol]] pueden vincularse con aviares, incluso aquellos que tienen acceso a otras manifestaciones de Investidura como la [[Feruquimia\|feruquimia]].
+Un humano no puede comer gusanos o un aviar para adquirir poderes, ya que la simbiosis es específica entre los gusanos y las aves. Teóricamente, sería posible que otros organismos evolucionaran a una simbiosis similar, pero podría tardar muchas generaciones. Un [[Kandra\|kandra]] en la forma de un aviar no podría obtener sus habilidades, incluso aunque comiera gusanos. Es posible robar el talento de un aviar usando [[Hemalurgia\|hemalurgia]], pero sería muy complicado llevarlo a cabo.
+
+### Habilidades
+El poder que obtiene un aviar es diferente para cada especie de ave. Muchos aviares tienen habilidades relacionadas con el [[Reino Cognitivo\|Reino Cognitivo]], pero también existen poderes [[Reino Espiritual\|Espirituales]] e incluso [[Reino F%C3%ADsico\|Físicos]]. Algunas habilidades funcionan de forma pasiva, mientras que otras deben ser activadas intencionalmente por el aviar, a veces a petición de una persona vinculada. Al menos una habilidad desconocida podría ayudar con la «navegación». Las habilidades aviares suelen ser muy fiables, aunque se ven afectadas por un inusual artefacto entregado a la [[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] por los [[Venidos de Arriba\|Venidos de Arriba]].
+
+#### Vínculos
+Los aviares son capaces de compartir sus poderes con los humanos a través de una [[Conexi%C3%B3n\|Conexión]] espiritual similar al [[V%C3%ADnculo Nahel\|vínculo Nahel]]. Este vínculo no es tan poderoso como el Nahel, y es por ello que puede ser transferido entre personas a voluntad de su dueño. El vínculo incluye una conexión mental; Ocaso menciona que Sak le «envía» visiones. Los aviares también son capaces de intuir la ubicación de la persona con la que están vinculados. La naturaleza del vínculo permite que algunos aviares compartan sus talentos con personas que no son su amo habitual. La mayoría de las personas se vinculan con un solo aviar, pero algunos [[Trampero\|tramperos]] se han vinculado hasta con tres aviares al mismo tiempo.
+
+#### Camuflaje cognitivo
+>“*Era una suerte que su especie (la de Kokerlii) fuese tan invisible a las mentes que hasta las [[Hormiga asesina\|hormigas asesinas]] lo veían tan incomestible como un cacho de corteza.*”
+\-Ocaso.[1]
 
 
-When Aviar are raised by someone from birth, they form a bond with them and prefer to stay nearby, treating them as part of their flock. Due to the incredibly dangerous conditions in the Pantheon, highly trained outdoorsmen known as trappers are the only people that can survive in the islands and raise the birds. Aviar that are raised by the same trapper usually get along. They often enjoy being scratched affectionately, and may show displeasure by lightly biting. They do well living in nesting boxes in [[Safecamp\|safecamps]]; trappers can allow them to come and go freely with no concern that they will not return. Trappers use Aviar as their personal companions, and also breed and sell them as their trade. Each trapper chooses a specific island to live on and becomes most familiar with the species that live on their chosen island.
+[[Kokerlii\|Kokerlii]] y [[Mirris\|Mirris]] tienen la habilidad cognitiva de ocultar su actividad mental y la de otros a su alrededor. Esta habilidad parece funcionar de manera pasiva, ya que Ocaso nunca necesita pedirle a Kokerlii que la use ni tiene que esperar a que lo haga. Una versión de esta habilidad parece ser relativamente común, ya que hay bandadas de aviares salvajes que son capaces de ocultarse de depredadores que detectan mentes como los [[Quijanoche\|quijanoches]]. Se sabe que los [[Krell (Cosmere)\|krells]] duermen cerca de los nidos de aviares para aprovecharse del escudo mental que proporcionan.
+Además, el camuflaje cognitivo de los aviares dificulta la capacidad de otros para detectar el uso de Investidura, de forma parecida a una [[Nube de cobre\|nube de cobre]] alomántica. Podría bloquear el [[Elevaci%C3%B3n\|sentido vital]] de un [[Despertante\|despertante]]  e interferir con otros métodos de detección de Investidura, como el [[Bronce\|bronce]] alomántico y los [[/wiki/Vac%C3%ADospren#Secretospren]].
 
-## History
-Aviar is presumably an [[Eelakin\|Eelakin]] term, and throughout First of the Sun's history they were found only in the Pantheon. The magical abilities and the various species of birds had been well documented by the people of First of the Sun, and centuries passed without the discovery of a new type of Aviar. The people who were most familiar with Aviar were the trappers, who underwent extensive training in order to survive on the islands and had no qualms about killing each other when they got there. They were strongly bound by tradition, and had a reverence for the islands, particularly Patji. Trappers were notoriously reticent and stubborn, and detailed information about the Aviar and their powers remained their secret. Aviars feature in folkloric stories, such as that of [[Linji\|Linji]], who attempted to sail around the world without one.
-At some point, several Aviar were taken to other planets. During the [[True Desolation\|True Desolation]] on [[Roshar\|Roshar]], Aviar were seen in the possession of [[Mraize\|Mraize]] and [[Gereh\|Gereh]], both [[Worldhoppers\|Worldhoppers]] that were not from First of the Sun. It is not clear how the Aviar were taken off-world, as this was very difficult at the time. Gereh's Aviar was later cared for by [[Lift\|Lift]]. Like other birds, Aviar are referred to as "chickens" by most Rosharans.
-On First of the Sun, Aviar had always been exported from the Pantheon exclusively by trappers. Mercantile companies long desired to find a way to set up operations on the islands so they could raise Aviar and sell them. However, trappers refused to help them, and commercial expeditions to the islands failed due to [[Deepwalker\|deepwalkers]] and other dangerous animals. Aviar therefore remained relatively rare in the homeisles and the mainland, since trappers could only provide a limited supply. After the arrival of the mysterious [[Ones Above\|Ones Above]], companies quickly developed new technologies such as warships with marine propulsion. This emboldened the Northern Interests Trading Company to undertake the [[Patji expedition\|Patji expedition]].
+#### Precognición
+La habilidad de [[Sak\|Sak]] le permite vislumbrar el futuro, usando [[Fortuna\|Fortuna]] para ojear el [[Reino Espiritual\|Reino Espiritual]]. Es capaz de ver las posibles muertes de una persona y manifestar estas muertes potenciales como visiones de cadáveres en lugares donde podrían ser asesinados. Los cadáveres son visibles sólo para aquellos con quien Sak elige compartir su talento. Si el peligro pasa, el cadáver pertinente desaparece. Sak puede activar o desactivar esta habilidad a voluntad. Puede incluso mostrarle a Vathi las visiones si Ocaso se lo pide. Sak, cuya especie no es nativa del Panteón, es el único aviar conocido que posee esta habilidad.
 
->“*We can’t fight them. They’ll find an excuse, they’ll seize the Aviar. It makes perfect sense. The Aviar use the worms. We use the Aviar. The Ones Above use us. It’s inevitable, isn’t it?*”
-\-Vathi, on the Ones Above[1]
+#### Otras habilidades
+Los talentos aviares tienen algunos paralelismos con otras manifestaciones de [[Investidura\|Investidura]] del Cosmere. Los aviares existen en el mismo universo que otras manifestaciones de Investidura, por lo que los poderes que proporcionan comparten algunas características con otros sistemas de magia como la [[Alomancia\|alomancia]] y la [[Potenciaci%C3%B3n\|potenciación]]. Aunque los poderes conocidos de los aviares son similares al [[Cobre\|cobre]] y al [[Electrum\|electrum]] alománticos, no todos los talentos aviares tienen un equivalente alomántico y viceversa.
 
-During the expedition, a scientist and explorer employed by the company named [[Vathi\|Vathi]] befriended a trapper named [[Sixth of the Dusk\|Sixth of the Dusk]] and learned several facts about the islands and Aviar that were previously unknown to the general public. Notably, Dusk told her about the fruit of [[Patji's Finger\|Patji's Fingers]] that gave Aviar their powers; Vathi was able to deduce that [[Sak\|Sak]] became a new type of Aviar despite her origins in the mainland. She was shocked by these revelations, which contradicted centuries of assumptions by the Eelakin people.
-The Company had several devices given to them by the Ones Above, including one that could detect Aviar on the islands. When some of the company opened this device on Patji, all of the Aviar became agitated, and their powers were disrupted. Dusk and Vathi eventually realized that the Ones Above desired the Aviar but were somehow prohibited from taking them from a less civilized culture. They were trying to furtively accelerate the industrial development of First of the Sun in order to skirt these rules. Dusk and Vathi vowed to try and stop them.
+## Ecología
+  Aviares volando sobre el <<Pante%C3%B3n\|Panteón>>.
+Muchas especies de aves en el Panteón pueden convertirse en aviares; ni los tramperos ni los eruditos están familiarizados con todas las especies. Cada especie suele encontrarse en una isla específica. Se les puede enviar a vivir a las [[Islas natales\|islas Natales]] o al [[Continente\|continente]] sin problema, pero los aviares salvajes se encuentran sólo en el Panteón.
 
-## Known Varieties
-[[Mirris\|Mirris]] is a member of a green and white species known as "streamers" that have Cognitive concealment abilities. Various other species with different types of plumage have been observed, but the names of their species are unknown.
+## Domesticación
+>“*Un aviar criado entre humanos nunca volvía a encajar del todo entre los suyos. Podía decirse lo mismo de un hombre criado entre aviares.*”
+\-Ocaso.[1]
 
-## Notable Aviar
-For a full list, see :Category: Aviar.
 
-[[Gereh's Aviar\|Gereh's Aviar]]
+Cuando los aviares son criados por alguien desde su nacimiento, forman un vínculo con esa persona y prefieren quedarse cerca, tratándola como parte de su bandada. Debido a las condiciones increíblemente peligrosas del Panteón, los expertos en vivir en la naturaleza, conocidos como tramperos, son las únicas personas que pueden sobrevivir en las islas y criar a las aves. Los aviares criados por el mismo trampero generalmente se llevan bien entre sí. Suelen disfrutar cuando se les acaricia cariñosamente, y pueden mostrar su descontento mordiendo suavemente. Viven sin problema en cajas nido en los [[Campamento franco\|campamentos francos]]; los tramperos pueden permitir que salgan y entren libremente sin preocuparse de que no regresen. Los tramperos utilizan a los aviares como compañeros personales, aunque también los crían y venden como parte de su oficio. Cada trampero escoge una isla específica para vivir y se familiariza más con las especies que viven en dicha isla.
+
+## Historia
+Se supone que «aviares» es un término [[Eelakin\|eelakin]], y a lo largo de toda la historia de Primero del Sol sólo han sido hallados en el Panteón. Las habilidades mágicas y las diversas especies de aves han sido bien documentadas por la gente de Primero del Sol, y han pasado siglos sin que se descubra un nuevo tipo de aviar. Los tramperos son las personas mejor familiarizadas con los aviares, ya que reciben un riguroso entrenamiento para sobrevivir en las islas y no tienen reparos en matarse unos a otros una vez allí. Tienen unas tradiciones muy arraigadas y un gran respeto por las islas, especialmente por Patji. Los tramperos son conocidos por ser reticentes y tercos, y mantienen en secreto la información detallada sobre los aviares y sus poderes. Los aviares aparecen en el folclore popular, como la historia de [[Linji\|Linji]], que intentó navegar alrededor del mundo sin uno.
+En algún momento, se llevaron varios aviares a otros planetas. Durante la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]] de [[Roshar\|Roshar]], se han visto aviares en posesión de [[Mraize\|Mraize]] y [[Gereh\|Gereh]], ambos [[Saltadores de mundos\|saltamundos]] que no son originarios de Primero del Sol. No está claro cómo se sacó a los aviares fuera del mundo, ya que era muy difícil en ese momento. El aviar de Gereh queda, posteriormente, a cargo de [[Lift\|Lift]]. Al igual que otras aves, la mayoría de los rosharianos se refieren a los aviares como «pollos».
+En Primero del Sol, la exportación de aviares del Panteón ha sido siempre una tarea exclusiva de los tramperos. Las compañías mercantiles han deseado durante mucho tiempo encontrar una forma de establecer operaciones en las islas para poder criar y vender aviares. Sin embargo, los tramperos se han negado siempre a ayudarlos, y las expediciones comerciales en las islas han fracasado debido a los [[Recorrefondos\|recorrefondos]] y otros animales peligrosos. Por lo tanto, los aviares siguen siendo relativamente raros en las islas natales y el continente, ya que los tramperos sólo pueden proporcionar una cantidad limitada. Tras la llegada de los misteriosos [[Venidos de Arriba\|Venidos de Arriba]], las compañías desarrollan rápidamente nueva tecnología, como barcos de guerra con propulsión marina. Esto lleva a que la Compañía Comercial Intereses Norteños se atreva a realizar la [[Expedici%C3%B3n a Patji\|expedición a Patji]].
+
+>“*No podemos luchar contra ellos. Encontrarán una excusa y se apoderarán de los aviares. Tiene todo el sentido del mundo. Los aviares usan los gusanos. Nosotros usamos los aviares. Los Venidos de arriba nos usan a nosotros. Es inevitable, ¿verdad?*”
+\-Vathi, sobre los Venidos de Arriba.[1]
+
+Durante la expedición, una científica y exploradora contratada por la compañía llamada [[Vathi\|Vathi]] se hace amiga de un trampero llamado [[Sexto del Ocaso\|Sexto del Ocaso]] y aprende varios hechos sobre las islas y los aviares que hasta entonces eran desconocidos para el público general. En particular, Ocaso le habla de los frutos de los [[Dedo de Patji\|dedos de Patji]] que otorgan a los aviares sus poderes; Vathi deduce que [[Sak\|Sak]] se ha convertido en un nuevo tipo de aviar a pesar de ser originario del continente. Se sorprende por estas revelaciones, que contradicen siglos de suposiciones por parte del pueblo eelakin.
+La Compañía tiene varios artefactos proporcionados por los Venidos de Arriba, incluyendo uno que puede detectar aviares en las islas. Cuando algunos miembros de la compañía encienden este artefacto en Patji, todos los aviares se agitan, y sus poderes se ven alterados. Finalmente, Ocaso y Vathi se dan cuenta de que los Venidos de Arriba desean a los aviares pero, de alguna forma, tienen prohibido cogérselos a una cultura menos desarrollada. Sólo están tratando de acelerar subrepticiamente el desarrollo industrial de Primero del Sol para evitar dichas reglas. Ocaso y Vathi prometen intentar detenerlos.
+
+## Variedades conocidas
+[[Mirris\|Mirris]] pertenece a una especie verde y blanca conocida como «arroyal» que posee habilidades de camuflaje cognitivo. Se han observado varias especies con diferentes tipos de plumaje, pero sus nombres se desconocen.
+
+## Aviares destacados
+Para una lista completa, ver :Categoría: Aviar.
+
+[[Aviar de Gereh\|Aviar de Gereh]]
 [[Kokerlii\|Kokerlii]]
 [[Mirris\|Mirris]]
-[[Mraize\|Mraize's]] Aviar
+Aviar de [[Mraize\|Mraize]]
 [[Sisisru\|Sisisru]]
 [[Sak\|Sak]]
 
-## Trivia
-[[Jeksonofnone\|Jeksonofnone]] is not an Aviar.
-A crow named [[Lyndip\|Lyndip]] supposedly spoke to [[Allomancer Jak\|Allomancer Jak]], but Brandon has not commented on whether she is a kandra, an Aviar, or if she even exists.
-Aviar were presumably inspired by Brandon's love of pet birds including macaws and cockatiels; he has owned birds since he was a child. His birds can sometimes be seen on his YouTube livestreams.
+## Curiosidades
+[[Jeksonofnone\|Jeksonofnone]] no es un aviar.
+Se dice que un cuervo llamado [[Lyndip\|Lyndip]] habló con [[Alomante Jak\|Alomante Jak]], pero Brandon no se ha pronunciado sobre si es un kandra, una aviar, o si realmente existe.
+Se cree que Brandon se inspiró en su amor por las aves mascota, incluyendo guacamayos y cacatúas, para crear a los aviares; ha tenido aves desde que era pequeño. A veces se puede ver a sus aves en sus directos de YouTube.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
+|-|-|
+|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
+|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[/wiki/Primero del Sol#Continente]]|
+|**Magia**|[[Patji (ser)\|Patji]] ·  ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
+|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
 
 
-https://coppermind.net/wiki/Aviar
+
+https://es.coppermind.net/wiki/Aviar

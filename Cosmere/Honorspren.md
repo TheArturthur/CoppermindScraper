@@ -1,109 +1,127 @@
+
+
 |**Honorspren**|
 |-|-|
-|by  Ben McSweeney |
-|**Type**|Spren|
-|**Abilities**|[[Nahel bond\|Nahel bond]], [[Windrunner\|Windrunner]] magic, [[Splinter\|Splinter]]s of [[Honor\|Honor]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|Spren|
+|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de los [[Corredores del Viento\|Corredores del Viento]], [[Astilla\|Astilla]]s de [[Honor\|Honor]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*We're each a bit of power made manifest. We honorspren mimic Honor himself.*”
+>“*Somos todos trocitos de poder manifestado. Los honorspren imitamos al propio Honor”.*”
 \-Syl[1]
 
 
-**Honorspren** are a type of sapient [[Spren\|spren]] capable of forming a [[Nahel bond\|Nahel bond]].
-They are [[Splinter\|Splinters]] of [[Honor\|Honor]]. Bonding with one makes someone a [[Knight Radiant\|Knight Radiant]] of the [[Order of Windrunners\|Order of Windrunners]].
+Los **honorspren** son un tipo de [[Spren\|spren]] sapiente capaz de formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]].
+Son [[Astilla\|astillas]] de [[Honor\|Honor]]. El vínculo con uno convierte a alguien en un [[Caballero Radiante\|Caballero Radiante]] de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]].
 
-## Contents
+## Sumario
 
-1 Appearance
+1 Apariencia. [[#Apariencia]] 
 
-1.1 Physical Realm
-1.2 Cognitive Realm
-
-
-2 Abilities
-
-2.1 Nahel bond
+1. [[#Reino F.C3.ADsico]] 
+1. [[#Reino Cognitivo]] 
 
 
-3 History
-4 Culture
+2 Habilidades. [[#Habilidades]] 
 
-4.1 Legal Proceedings
-
-4.1.1 Trial by Witness
+2. [[#V.C3.ADnculo Nahel]] 
 
 
+3 Historia. [[#Historia]] 
+4 Cultura. [[#Cultura]] 
+
+4. [[#Procedimientos legales]] 
+
+4. [[#Juicio por testimonio]] 
 
 
-5 Notable Honorspren
-6 Trivia
-7 Notes
 
 
-## Appearance
-For more images of Syl in particular, see [[Sylphrena/Gallery\|Sylphrena/Gallery]].
- by 
-### Physical Realm
-In the Physical Realm, honorspren look like [[Windspren\|windspren]]. They can change their appearance, including forms like fire or clouds, although they always glow (but not illuminate), and are typically white-blue. This being said, they generally seem to prefer a humanoid form. Usually, it's very small -- only about a handspan tall -- but if need be, a honorspren can make themselves as tall as a regular person.
-The more powerful their bond becomes, the stronger their variety, details, and hues of the form can be. This includes being able to change their clothes to different colors, such as green or red.
-When their cognitive bodies are forced into the Physical Realm and they die, honorspren appear as a human with very pale skin and a blue cast to them.
+5 Honorspren destacados. [[#Honorspren destacados]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
-### Cognitive Realm
-In the [[Cognitive Realm\|Cognitive Realm]], honorspren are blue-white and as large as humans. They appear to be wearing clothes, but the clothes are part of their essence and cannot be changed without [[Stormlight\|Stormlight]]. Their clothing tend to range from military uniforms to flowing robes. Their clothing style tends to correlate with their personal beliefs. Some honorspren buy physical clothes to wear instead. Their hair, skin, and clothing all feel roughly the same as a human would.
-Honorspren may also buy real weapons to use. They cannot vanish, or shape-shift.
 
-## Abilities
-Honorspren have the ability to sense an upcoming [[Highstorm\|highstorm]] days before it arrives. This is likely related to their origins as Stormfather's children. They also have strong internal clocks.
-In the Physical Realm, they can use [[Adhesion\|Adhesion]] to stick small, light objects together, and give pinches of energy or move small objects. They can also shape-shift while in there, and choose who can and cannot see and hear them, although they cannot hide from their bonded Surgebinder, a [[Sighted\|Sighted]], or [[Lift\|Lift]]. Due to their ability to change size, honorspren can squeeze through small spaces, such as shutters or keyholes.
+## Apariencia
+Para más imágenes de Syl en particular, ver [[Sylphrena/Galer%C3%ADa\|Sylphrena/Galería]].
+ 
+### Reino Físico
+En el Reino Físico, los honorspren se parecen a los [[Vientospren\|vientospren]]. Pueden cambiar su apariencia, incluyendo formas como el fuego o las nubes, aunque siempre brillan y son de color blanco-azulado. Dicho esto, generalmente parecen preferir una forma humanoide. Por lo general, es muy pequeño (sólo alrededor de un palmo de altura) pero si es necesario, un honorspren puede hacerse tan alto como una persona normal.
+Cuanto más poderoso sea su vínculo, más intensas serán la variedad, los detalles y los matices de la forma. Esto incluye poder cambiar sus ropas a diferentes colores, como el verde o el rojo.
+Cuando sus cuerpos cognitivos son forzados a entrar en el Reino Físico y mueren, los honorspren aparecen como un humano con piel muy pálida y con un tono azulado.
 
-### Nahel bond
-They can form a [[Nahel bond\|Nahel bond]] with humans, turning them into [[Surgebinder\|Surgebinders]] with the powers of Adhesion and [[Gravitation\|Gravitation]]. In return, they gain the ability to think and act like their Shadesmar selves in the Physical Realm. Among the honorspren, the bond is considered extremely intimate, as it involves the mixing of souls. Honorspren are always able to sense where their Surgebinder is, even if they are not awake. They can also hear them over loud noises, such as rushing wind. With a powerful enough bond, honorspren and their Surgebinder are able to sense each others emotions, as well as communicate with their minds. Honorspren can also gain memories of their Surgebinder from before their bond via their connection to the winds and its connection to Honor.
+### Reino Cognitivo
+En el [[Reino Cognitivo\|Reino Cognitivo]], los honorspren son de color blanco azulado y tan grandes como los humanos. Parecen llevar ropa, pero la ropa forma parte de su esencia y no puede cambiarse sin [[Luz tormentosa\|luz tormentosa]]. Sus ropas tienden a variar desde uniformes militares hasta túnicas sueltas Su estilo de ropa tiende a correlacionarse con sus creencias personales. Algunos honorspren compran ropa física para usarla en su lugar. El pelo, la piel y la ropa se sienten más o menos igual que un humano.
+Los honorspren también pueden comprar armas reales para usarlas.  No pueden desvanecerse ni cambiar de forma.
 
-## History
->“*The honorspren were created by Honor himself, many thousands of years ago.*”
+## Habilidades
+Los honorspren tienen la capacidad de percibir una [[Alta tormenta\|alta tormenta]] días antes de que llegue. Esto está probablemente relacionado con sus orígenes como hijos del Padre Tormenta. También tienen fuertes relojes internos.
+En el Reino Físico, pueden usar la [[Adhesi%C3%B3n\|Adhesión]] para pegar objetos pequeños y ligeros, y dar pellizcos de energía o mover objetos pequeños. También pueden cambiar de forma mientras están allí, y elegir quién puede y quién no puede verlos y oírlos, aunque no pueden esconderse de su Potenciador vinculado, un [[Vidente (Roshar)\|vidente]], o de [[Lift\|Lift]]. Debido a su capacidad de cambiar de tamaño, los honorspren pueden colarse por espacios pequeños, como persianas o cerraduras.
+
+### Vínculo Nahel
+Pueden formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con los humanos, convirtiéndolos en [[Potenciaci%C3%B3n\|potenciadores]] con los poderes de Adhesión y [[Gravitaci%C3%B3n\|Gravitación]]. A cambio, obtienen la capacidad de pensar y actuar como su yo de Shadesmar en el Reino Físico. Entre los honorspren, el vínculo se considera extremadamente íntimo, ya que implica la mezcla de almas. Los honorspren siempre pueden sentir dónde está su potenciador, e incluso si no está despierto. También pueden oírlos por encima de los ruidos fuertes, como el viento. Con un vínculo lo suficientemente fuerte, los honorspren y su potenciador pueden sentir las emociones del otro y comunicarse con la mente. Los honorspren también pueden obtener recuerdos de su potenciador de antes de vincularse a través de su Conexión con los vientos y su conexión con el Honor.
+
+## Historia
+>“*Los honorspren fuimos creados por el porpio Honor, hace muchos miles de años.*”
 \-Notum[4]
 
 
-During the [[Heraldic Epochs\|Heraldic Epochs]], honorspren were created by [[Honor\|Honor]]. At some point, inspired by the [[Herald\|Heralds]] and their [[Honorblade\|Honorblades]], the honorspren, along with nine other types of sapient spren, began forming [[Nahel bond\|Nahel bonds]] with humans, giving rise to the [[Order of Windrunners\|Order of Windrunners]]. Back then, they had a reputation for being discerning in their choice of who to bond with, more so than many other spren.
-As his death approached, Honor passed the responsibility of creating honorspren to the [[Stormfather\|Stormfather]]. The great spren made a few of them, including [[Sylphrena\|Sylphrena]], yet soon the [[Recreance\|Recreance]] arrived and the vast majority of honorspren became [[Deadeye\|deadeyes]]. Syl was the only survivor among the Stormfather's children, as she was slumbering at the time. Her fate wasn't known, though, and Stormfather didn't create any new honorspren for centuries. Eventually, he made ten. Those ten created more honorspren, with their children creating more and so on.
-Eventually, the honorspren grew into a large nation once more. Sometime in the recent past, they tried to conquer all of [[Shadesmar\|Shadesmar]] -- a failed attempt that left them with poor reputation among other sapient spren. As a result, these days the honorspren keep to themselves, and it's dangerous for them to travel Shadesmar alone.
-Recently, Sylphrena was rediscovered, and brought back to the other honorspren. When she realized a new Desolation was coming, she escaped, leaving the city she's been staying at to enter the [[Physical Realm\|Physical Realm]] and find someone to bond with. This caused the honorspren to post a huge reward for her return.
-After the [[True Desolation\|True Desolation]] began, however, other honorspren started bonding with humans.
+Durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], los honorspren fueron creados por [[Honor\|Honor]]. En algún momento, inspirados por los [[Heraldo\|Heraldos]] y sus hojas de Honor, los honorspren, junto con otros nueve tipos de spren sapientes, empezaron a formar [[V%C3%ADnculo Nahel\|vínculos Nahel]] con los humanos, dando lugar a la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]]. En aquel entonces, tenían fama de ser exigentes a la hora de elegir con quién se vinculaban, más que muchos otros spren.
+Al acercarse su muerte, Honor pasó la responsabilidad de crear honorspren al [[Padre Tormenta\|Padre Tormenta]]. El gran spren creó unos cuantos, entre ellos [[Sylphrena\|Sylphrena]], pero pronto llegó la [[D%C3%ADa de la Traici%C3%B3n\|Traición]] y la gran mayoría de los honorspren se convirtieron en [[Ojomuerto\|ojomuertos]]. Syl fue la única superviviente entre los hijos del Padre Tormenta, ya que estaba durmiendo en ese momento. Sin embargo, su destino no se conoció, y el Padre Tormenta no creó ningún honorspren nuevo durante siglos. Finalmente, creó diez. Esos diez crearon más honorspren, y sus hijos crearon más y así sucesivamente.
+Con el tiempo, los honorspren volvieron a convertirse en una gran nación. En algún momento del pasado reciente, intentaron conquistar toda [[Shadesmar\|Shadesmar]], un intento fallido que les dejó una mala reputación entre otros spren sapientes. Como resultado, en la actualidad los honorspren se mantienen aislados, y es peligroso para ellos viajar solos por Shadesmar.
+Recientemente, Sylphrena fue redescubierta y devuelta a los demás honorspren. Cuando se dio cuenta de que se avecinaba una nueva Desolación, escapó, abandonando la ciudad en la que se encontraba para entrar en el [[Reino F%C3%ADsico\|Reino Físico]] y encontrar a alguien con quien vincularse, lo que provocó que los honorspren publicaran una enorme recompensa por su regreso.
+Sin embargo, tras el inicio de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], otros honorspren comenzaron a vincularse con los humanos.
 
-## Culture
- by  Noblesgal  An honorspren fighting [[Deathspren\|deathspren]]
->“*Oh! She says she would rather trade with honorspren than take another trip to the perpendicularity. I think this is an insult.*”
-\-Pattern, translating for an ashspren[15]
+## Cultura
+  Un honorspren luchando contra un <<Muertespren\|muertespren>>
+>“*¡Ah! Dice que preferiría hacer negocios con honorspren que navegar otra vez hasta la perpendicularidad. Creo que lo dice como insulto.*”
+\-Patrón, traduciendo para un cenizaspren.[15]
 
 
-Honorspren are generally warlike and oath-bound, with a strong military tradition. While fairly isolationist, they are willing to let other spren live alongside them, though it seems a non-honorspren cannot attain a high rank in their society. They believe themselves to be oathbound to follow Honor's path and serve what they think to be his interests. However, they are also highly respectful of the [[Bondsmith\|Bondsmiths]], and the [[Stormfather\|Stormfather]] Bondsmith in particular. The latter is likely due to many of them seeing the Stormfather as their parent or progenitor.
-Honorspren follow morality instead of a system of laws, and are stubborn in upholding their particular interpretation of it. It is difficult to change their mind with logic, as they focus on what they feel more than what they think. Obedience, hierarchy, and order are highly valued in their society, and they're willing to put up bounties for their rebellious kinsmen. This being said, honorspren pride themselves on not being as uptight as the [[Highspren\|highspren]], and can be flexible when necessary.
-Of all spren, honorspren are noted to have the most human mannerisms. They sometimes engage in grand hunts, tracking down and slaying other creatures of Shadesmar, like gloomspren.
-Honorspren are not liked by other types of sapient spren, and seem to avoid them in turn. In [[Celebrant\|Celebrant]], there are none on the streets. Rather, they have their own cities, forming a grand nation with the capital in [[Lasting Integrity\|Lasting Integrity]]. They have several strongholds, including [[Unyielding Fidelity\|Unyielding Fidelity]], in the region of [[Shadesmar\|Shadesmar]] corresponding to [[Kharbranth\|Kharbranth]].
-According to Syl, while honorspren hate [[Inkspren\|inkspren]] and highspren, they merely distrust [[Cryptic\|Cryptics]].
+Los honorspren están generalmente a favor de la guerra y a vincularse mediante juramentos, y tienen una fuerte tradición militar. Aunque son bastante aislacionistas, están dispuestos a dejar que otros spren vivan junto a ellos, aunque parece que un no-honorspren no puede alcanzar un alto rango en su sociedad. Se creen obligados a seguir el camino de Honor y a servir a lo que creen que son sus intereses. Sin embargo, también son muy respetuosos con los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], y con el [[Padre Tormenta\|Padre Tormenta]] en particular. Esto último se debe probablemente a que muchos de ellos ven al Padre Tormenta como su padre o progenitor.
+Los honorspren siguen la moral en lugar de un sistema de leyes, y son obstinados en mantener su particular interpretación de la misma. Es difícil hacerles cambiar de opinión con la lógica, ya que se centran más en lo que sienten que en lo que piensan. La obediencia y el orden son muy valorados en su sociedad, y están dispuestos a poner recompensas por sus parientes rebeldes. Dicho esto, los honorspren se enorgullecen de no ser tan estirados como los [[Altospren\|altospren]], y pueden ser flexibles cuando es necesario.
+De todos los spren, los honorspren son los que tienen los modales más humanos. A veces se dedican a grandes cacerías, persiguiendo y matando a otras criaturas de Shadesmar, como los melancospren.
+Los honorspren no son del agrado de otros tipos de spren sapientes, y parecen evitarlos a su vez. En [[Celebrant\|Celebrant]] no hay ninguno en las calles. sino que tienen sus propias ciudades, formando una gran nación con capital en [[Integridad Duradera\|Integridad Duradera]]. Tienen varias fortalezas, incluida [[Fidelidad Inflexible\|Fidelidad Inflexible]], en la región de [[Shadesmar\|Shadesmar]] correspondiente a [[Kharbranth\|Kharbranth]].
+Según Syl, mientras que los honorspren odian a los [[Tintaspren\|tintaspren]] y a los altospren, de los [[Cr%C3%ADpticos\|crípticos]] sólo desconfían.
 
-### Legal Proceedings
-The honorspren have a complex legal code that they require all parties involved to understand to at least a basic extent. Defendants are expected to carry their own case, and although they may receive legal counsel outside of the courtroom, lawyers are not employed by honorspren during trials.
-Defendants are permitted to talk during the trial, and during witness testimony, however, the judge can order them gagged at his or her discretion. When permitted, the audience is allowed to ask questions of the defendant, but cannot make statements. If a witness has been called who is too young or cannot be traditionally examined, the High Judge has the authority to question the defendant and speak on the witness’ behalf. Proceedings are overseen by a High Judge, who is accompanied by a group of honorspren officials. If the High Judge is unavailable, one of these officials can adjudicate in the High Judge’s place.
+### Procedimientos legales
+Los honorspren tienen un complejo código legal que exigen que todas las partes implicadas entiendan, al menos, de forma básica. Se espera que los acusados lleven su propio caso, y aunque pueden recibir asesoramiento legal fuera de la sala, los honorspren no emplean abogados durante los juicios.
+Los acusados pueden hablar durante el juicio, y durante el testimonio de los testigos, sin embargo, el juez puede ordenar que sean amordazados a su discreción. Cuando se permite, el público puede hacer preguntas al acusado, pero no puede hacer declaraciones. Si se llama a un testigo demasiado joven o que no puede ser examinado tradicionalmente, el Alto Juez tiene autoridad para interrogar al acusado y hablar en su nombre. Los procedimientos son supervisados por un Alto Juez, que está acompañado por un grupo de funcionarios honorspren. Si el Alto Juez no está disponible, uno de estos funcionarios puede juzgar en su lugar.
 
-#### Trial by Witness
-A particular type of trial that is available under honorspren law is **trial by witness**. It is rarely used as it heavily favors the prosecution. This type of trial must be requested and approved by the judge preceding over the case. If the request is accepted, the trial is held in three parts, each on its own day, where multiple witnesses are brought forward by the prosecution, and the defendant is also allowed to present their case. On the first trial day, the prosecution will call three witnesses to speak against the defendant. The second day of trial is for the accused to plead their case and the audience may ask them questions. On the third day, the prosecution can bring forth a final witness, whom the defendant can question, before judgement is made.
+#### Juicio por testimonio
+Un tipo particular de juicio que está disponible bajo la ley honorspren es el **juicio por testimonio**. Rara vez se utiliza, ya que favorece en gran medida a la acusación. Este tipo de juicio debe ser solicitado y aprobado por el juez que precede el caso. Si la solicitud es aceptada, el juicio se celebra en tres partes, cada una en su propio día, en las que la acusación presenta múltiples testigos, y también se permite al acusado presentar su caso. El primer día del juicio, la fiscalía llama a tres testigos para que hablen contra el acusado. El segundo día del juicio es para que el acusado exponga su caso y el público pueda hacerle preguntas. El tercer día, la acusación puede presentar un último testigo, al que el acusado puede interrogar, antes de que se dicte sentencia.
 
-## Notable Honorspren
-[[Sylphrena\|Sylphrena]] (bonded to [[Kaladin\|Kaladin]])
-[[Phendorana\|Phendorana]] (bonded to [[Teft\|Teft]])
+## Honorspren destacados
+[[Sylphrena\|Sylphrena]] (vinculada a [[Kaladin\|Kaladin]])
+[[Phendorana\|Phendorana]] (vinculada a [[Teft\|Teft]])
 [[Notum\|Notum]]
 [[Borea\|Borea]]
-[[Rua\|Rua]] (bonded to [[Lopen\|Lopen]])
-[[Caelinora\|Caelinora]] (bonded to [[Huio\|Huio]])
+[[Rua\|Rua]] (vinculado a [[Lopen\|Lopen]])
+[[Caelinora\|Caelinora]] (vinculada a [[Huio\|Huio]])
 [[Riah\|Riah]]
-[[Sekeir\|Sekeir]]
-## Trivia
-Several honorspren have names derived from wind-related myths and legends -- for example, Sylphrena is named after , wind spirits, while Notum and Borea's names come from  and , the Greek gods of South and North wind respectively. Vaiu seems similarly named after , a Hindu deity of winds.
-Brandon developed honorspren from windspren. Originally, there were only four windspren that could bond people, each corresponding to one of the four cardinal directions (for example, Syl was initially called the East Wind). Over time, as the spren developed, honorspren were created and made distinctive from windspren.
+## Curiosidades
+Varios honorspren tienen nombres derivados de mitos y leyendas relacionados con el viento: por ejemplo, Sylphrena recibe su nombre de las , los espíritus del viento, mientras que los nombres de Notum y Borea provienen de  y , los dioses griegos del viento del Sur y del Norte, respectivamente. Vaiu parece tener un nombre similar al de , una deidad hindú del viento.
+Brandon desarrolló a los honorspren a partir de los vientospren. Originalmente, sólo había cuatro vientospren que podían vincularse a las personas, cada uno de los cuales correspondía a una de las cuatro direcciones cardinales (por ejemplo, Syl se llamaba inicialmente Viento del Este). Con el tiempo, a medida que se desarrollaron los spren, se crearon los honorspren y se diferenciaron de los vientospren.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Honorspren
+
+https://es.coppermind.net/wiki/Honorspren

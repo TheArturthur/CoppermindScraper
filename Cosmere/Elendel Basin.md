@@ -1,55 +1,57 @@
-|**Elendel Basin**|
+
+
+|**Cuenca de Elendel**|
 |-|-|
-|by  Isaac Stewart |
+||
 |**Capital**|[[Elendel\|Elendel]]|
-|**Era**|[[Post-Catacendre\|Post-Catacendre]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Era**|[[Post-Catacendro\|Post-Catacendro]]|
+|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-The **Elendel Basin** is a lush, fertile basin created by [[Harmony\|Harmony]] when he reshaped [[Scadrial\|Scadrial]] as part of the [[Catacendre\|Catacendre]]. It was purposefully designed to allow civilization to build itself back up over just a couple of generations. It is named after [[Elend\|Elend]].
+La **Cuenca de Elendel** es una cuenca exhuberante y rica creada por [[Armon%C3%ADa\|Armonía]] cuando remodeló [[Scadrial\|Scadrial]] como parte del [[Catacendro\|Catacendro]]. Fue diseñada a propósito para permitir que la civilización se reconstruya en solo un par de generaciones. Se le dio el nombre en honor a [[Elend\|Elend]].
 
-## Contents
+## Sumario
 
-1 Geography and Ecology
+1 Geografía y Ecología. [[#Geograf.C3.ADa y Ecolog.C3.ADa]] 
 
-1.1 Geography
-1.2 Elendel
-1.3 Outer Cities
-1.4 Ecology
-
-
-2 Politics
-3 People
-4 Footnotes
-5 Notes
+1. [[#Geograf.C3.ADa]] 
+1. [[#Elendel]] 
+1. [[#Ciudades exteriores]] 
+1. [[#Ecolog.C3.ADa]] 
 
 
-## Geography and Ecology
-### Geography
-The land of the Basin is almost perfectly circular, with the exception of the western coastline on the [[Sea of Yomend\|Sea of Yomend]] and the [[Sea of Lennes\|Sea of Lennes]]. Several mountain ranges define the outer edge of the Basin: the [[Channerel Range\|Channerel Range]] to the northwest, the [[Faleast Range\|Faleast Range]] to the northeast, and the [[Seran Range\|Seran Range]] to the southeast. There are passes leading through these mountains out into the rugged frontier lands known as the [[Roughs\|Roughs]]. The topography of the basin is generally flat and open, although some forested areas exist.
-The Basin's coastline matches up with the coastline in known maps of the [[Final Empire\|Final Empire]]. The peninsula that contains [[Bilming\|Bilming]] can be seen on Final Empire maps, just west of the [[Ashmount\|Ashmount]] Doriel.
+2 Política. [[#Pol.C3.ADtica]] 
+3 Habitantes. [[#Habitantes]] 
+4 Anotaciones. [[#Anotaciones]] 
+5 Notas. [[#Notas]] 
+
+
+## Geografía y Ecología
+### Geografía
+La tierra de la cuenca es un círculo perfecto, con la excepción de la costa oeste en el [[Mar de Yomend\|mar de Yomend]] y el [[Mar de Lennes\|mar de Lennes]]. Varias cadenas montañosas definen el borde exterior de la cuenca: la [[Cordillera de Channerel\|cordillera de Channerel]] al noroeste, la [[Cordillera de Faleast\|cordillera de Faleast]] al noreste y la [[Cordillera de Seran\|cordillera de Seran]] al sureste. Hay pasos que conducen a través de estas montañas hacia las escarpadas tierras fronterizas conocidas como los Áridos. La topografía de la cuenca es generalmente plana y abierta, aunque existen algunas áreas boscosas.
+La costa coincide con la que se ve en los mapas conocidos del [[Imperio Final\|Imperio Final]]. La península que contiene [[Bilming\|Bilming]] se puede ver en los mapas del [[Imperio Final\|Imperio Final]], justo al oeste del [[Monte de Ceniza\|Monte de Ceniza]] Doriel.
 
 ### Elendel
-The Basin largely revolves around the city of [[Elendel\|Elendel]]. The city is located near the center of the Basin and serves as a major port on the Sea of Yomend. The Basin's rivers, including the large [[Irongate River\|Irongate River]], are laid out like spokes on a wheel such that they each run through Elendel. Similarly, railway lines loosely mirror the paths of the rivers and almost every line runs through the capital. Elendel itself is roughly circular and divided into octants by large canals, with suburbs that lie outside of the urban core that blend into an agricultural area known as the [[Outer Estates\|Outer Estates]].
+La cuenca gira en gran medida en torno a la ciudad de [[Elendel\|Elendel]]. La ciudad está ubicada cerca del centro de la cuenca y sirve como un puerto importante en el mar de Yomend. Los ríos que tiene, incluido el gran [[R%C3%ADo Puerta de Hierro\|río Puerta de Hierro]], están dispuestos como los radios de una rueda, de modo que cada uno atraviesa Elendel. De manera similar, las líneas ferroviarias reflejan vagamente los caminos de los ríos y casi todas las líneas atraviesan la capital. Elendel en sí es aproximadamente circular y está dividido en octantes por grandes canales, con suburbios que se encuentran fuera del núcleo urbano que se mezclan con un área agrícola conocida como los [[Estados Exteriores\|Estados Exteriores]].
 
-### Outer Cities
-Other cities in the Basin are collectively referred to as the "outer cities". Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents.
-Notable outer cities labeled on known maps include the following:
+### Ciudades exteriores
+Otras ciudades de la cuenca se denominan colectivamente "ciudades exteriores". Cada ciudad tiene su propio carácter único, con diferentes tipos de industria según su ubicación y, en algunos casos, diferentes vestimentas y acentos.
+Las ciudades exteriores destacadas etiquetadas en mapas conocidos incluyen las siguientes:
 
 
 [[Alendel\|Alendel]]
 [[Bilming\|Bilming]]
 [[Dazarlomue\|Dazarlomue]]
 [[Doxonar\|Doxonar]]
-[[Doriel (city)\|Doriel]]
-[[Dryport\|Dryport]]
+[[Doriel (ciudad)\|Doriel]]
+[[Puertoseco\|Puertoseco]]
 [[Drypost\|Drypost]]
 [[Elmsdel\|Elmsdel]]
 [[Garmet\|Garmet]]
 [[Mycondwel\|Mycondwel]]
-[[New Seran\|New Seran]]
+[[Nueva Seran\|Nueva Seran]]
 [[Rashekin\|Rashekin]]
 [[Steinel\|Steinel]]
 [[Tarier\|Tarier]]
@@ -57,23 +59,44 @@ Notable outer cities labeled on known maps include the following:
 [[Vindiel-Cameux\|Vindiel-Cameux]]
 [[Wyllion\|Wyllion]]
 
-Additionally, there are many other smaller settlements throughout the Basin. Many lie along railways, but there are also small, remote farming villages such as [[Dulsing\|Dulsing]].
+Además, hay muchos otros asentamientos más pequeños en toda la cuenca. Muchos se encuentran a lo largo de las vías del tren, pero también hay pequeños pueblos agrícolas remotos como [[Dulsing\|Dulsing]].
 
-### Ecology
-The Basin is incredibly lush and verdant. All types of plant life grow exceptionally quickly, without the need for irrigation, and the land always stays fertile no matter how much it is farmed. Little to no cultivation is required, and the only struggle for farmers is harvesting crops fast enough. Fruit orchards are common, and other food crops include wheat, carrots, potatoes, and tomatoes. Harmony has a direct hand in keeping the land so bountiful; the [[Mist\|mists]] are used to refresh the land. The mists themselves actually spread water and nutrients across the ground.
-Common domesticated animals include horses, cats, and dogs. Cows, pigs, and chickens are among the animals raised for meat. Many other wild animals roam the lands and seas such as fish, octopuses, wolves, rabbits, boar, and various species of birds.
+### Ecología
+La cuenca es increíblemente frondosa y verde. Todos los tipos de vida vegetal crecen excepcionalmente rápido, sin necesidad de riego, y la tierra siempre se mantiene fértil sin importar cuánto se cultive. Se requiere poco o ningún cultivo, y la única lucha para los agricultores es cosechar lo suficientemente rápido. Los huertos de frutas son comunes y otros cultivos alimentarios incluyen trigo, zanahorias, patatas y tomates. Armonía influye directamente en mantener la tierra tan abundante; las [[Brumas\|brumas]] se utilizan para refrescar la tierra. De hecho, las brumas esparcen agua y nutrientes por el suelo.
+Los animales domésticos comunes incluyen caballos, gatos y perros. Las vacas, los cerdos y las gallinas se encuentran entre los animales criados para conseguir carne. Muchos otros animales salvajes vagan por las tierras y los mares, como peces, pulpos, lobos, conejos, jabalíes y varias especies de aves.
 
-## Politics
-The Basin functions as a de facto nation; Elendel's economic hegemony has allowed it to influence policy throughout the Basin, largely through taxation. The Basin itself was created by Harmony with canals and rivers running towards Elendel like the spokes of a wheel. New cities cropped up along the canals, but the canals only run to and from Elendel. When the first railways were laid, they followed the paths of the canals. Therefore, any city that wishes to trade goods with any city other than along its own spoke has to trade through Elendel, which places tariffs on many of these goods.
-Since Elendel remains the only city wealthy enough to create and maintain railways, the outer cities lack the resources to make themselves independent. Although Elendel is considered the capital of the Basin, each city is administered locally and is not directly governed by Elendel. However, the city governments still feel constrained by their economic dependence on the capital. They have requested new railways to connect the main lines, but have been repeatedly denied by the seat of power in Elendel. These cities therefore believe they are being taxed twice to transport their goods: they pay levies to maintain the railways and canals, and then pay nearly unavoidable tariffs to ship their goods using these methods.
-Additionally, many citizens of Elendel remain ignorant of life in the outer cities, in some cases openly mocking their innovations. The taxation and disrespect has led to extreme animosity from the outer cities, and talk of possible civil war that could lead to a fracture nation of city-states.
+## Política
+La cuenca funciona como una nación de facto; La hegemonía económica de Elendel le ha permitido influir en la política de toda la cuenca, en gran parte a través de los impuestos. La cuenca en sí fue creada por Armonía con canales y ríos que corren hacia Elendel como los radios de una rueda. Surgieron nuevas ciudades a lo largo de los canales, pero estos solo van y vienen de Elendel. Cuando se tendieron los primeros ferrocarriles, siguieron los caminos que marcaban los canales. Por lo tanto, cualquier ciudad que desee comerciar bienes con otra ciudad que no sea a lo largo de su propio radio tiene que comerciar a través de Elendel, que impone aranceles a muchos de estos bienes.
+Dado que Elendel sigue siendo la única ciudad lo suficientemente rica como para crear y mantener vías férreas, las ciudades exteriores carecen de los recursos para independizarse. Aunque Elendel se considera la capital de la cuenca, cada ciudad se administra localmente y no está directamente gobernada por Elendel. Sin embargo, los gobiernos de las ciudades aún se sienten constreñidos por su dependencia económica de la capital. Han solicitado nuevos ferrocarriles para conectar las líneas principales, pero la sede del poder en Elendel se los ha negado repetidamente. Estas ciudades, por lo tanto, creen que están pagando impuestos dos veces para transportar sus mercancías: pagan gravámenes para mantener los ferrocarriles y canales, y luego pagan aranceles casi inevitables para enviar sus mercancías utilizando estos métodos.
+Además, muchos ciudadanos de Elendel ignoran la vida en las ciudades exteriores, en algunos casos burlándose abiertamente de sus innovaciones. Los impuestos y la falta de respeto han llevado a una animosidad extrema de las ciudades exteriores y se habla de una posible guerra civil que podría llevar a dividir la nación en ciudades-estado.
 
-## People
-The residents of the Basin are the direct descendants of the people who survived the Catacendre, known as the [[Originators\|Originators]]. Around one fifth of the Originators were Terris, with the rest being either [[Skaa\|skaa]] or [[Noble\|noble]]. During the Catacendre, Harmony restored human genetics to the same state it had been prior to the [[Lord Ruler\|Lord Ruler]], but people were still aware of their ancestry, with many noble houses persisting after society was rebuilt. The residents generally have light skin, with the exception being the Terris, who naturally tend to have more skin color and largely marry within their own ethnicity.
-Relatively few people live outside of the Basin in northern Scadrial. There are a few towns in the Roughs, but they have small populations. The residents of the Basin were not aware of the [[Southern Scadrian\|Southern Scadrians]] until the *Brunstell* crashed in Dulsing.
+## Habitantes
+Los residentes de la cuenca son los descendientes directos de las personas que sobrevivieron al Catacendro, conocidos como los [[Originadores\|Originadores]]. Alrededor de una quinta parte de estos eran terrisanos, y el resto eran [[Skaa\|skaa]] o [[Noble\|nobles]]. Durante el Catacendro, Armonía restauró la genética humana al mismo estado que había tenido antes del [[Lord Legislador\|Lord Legislador]], pero la gente todavía era consciente de su linaje, con muchas casas nobles que persistieron después de que se reconstruyera la sociedad. Los residentes generalmente tienen la piel clara, con la excepción de los de Terris, quienes naturalmente tienden a tener mayor pigmentación en la piel y en su mayoría se casan fcon personas de su propia etnia.
+Relativamente pocas personas viven fuera de la cuenca en el norte de Scadrial. Hay algunos pueblos en los Áridos, pero tienen poblaciones pequeñas. Los residentes de la cuenca no sabían de la existencia de los [[Scadriano del sur\|scadrianos del sur]] hasta que el *[[Brunstell\|Brunstell]]* se estrelló en Dulsing.
 
-## Footnotes
+## Anotaciones
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] ·  · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Elendel_Basin
+https://es.coppermind.net/wiki/Elendel_Basin

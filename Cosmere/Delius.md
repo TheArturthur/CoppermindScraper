@@ -1,77 +1,96 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Delius**|
 |-|-|
-|**Family**|
-|**Children**|[[Delius' son\|son]]|
-|**Titles**|[[Lord Admiral\|Lord Admiral]] (former)|
-|**Groups**|[[Taishin\|Taishin]] (former), [[Helm\|Helm]]|
-|**Residence**|[[Kezare\|Kezare]]|
-|**Ethnicity**|[[Daysider\|Daysider]]|
-|**Nationality**|[[Lossandin\|Lossandin]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Hijos**|[[Hijo de Delius\|Hijo]]|
+|**Títulos**|[[Lord almirante\|Lord almirante]] (antiguamente)|
+|**Grupo**|[[Taishin\|Taishin]]🐱︎ (antiguamente), [[Tim%C3%B3n\|Timón]]|
+|**Residencia**|[[Kezare\|Kezare]]|
+|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
+|**Nacionalidad**|[[De Lossand\|de Lossand]]|
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Delius** is a former [[Lord Admiral\|Lord Admiral]], the Taisha of the [[Helm\|Helm]], on the Dayside of [[Taldain\|Taldain]].
+**Delius** es el antiguo [[Lord almirante\|lord almirante]], taisha del [[Tim%C3%B3n\|Timón]], en el Lado Diurno de [[Taldain\|Taldain]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Quotes
-4 Notes
-
-
-## Appearance and Personality
-Delius has long brown hair and stubble on his face. He maintains the facade of a drunken sot, constantly drinking, or as he puts it, wasting wine. He wears a blue coat over a white shirt and brown pants. He carries an ornamental sword with him held in a sheath at his waist held in place by a long shoulder strap.
-
-## History
->“*Yes, I'd committed the same sin twice--the sin of success.*”
-\-Delius to Kenton.[2]
-
-When he was a young man Delius was a member of the [[Guild\|Guild]]. He was very successful and was 20,000 [[Lak\|lak]] short of becoming the next [[Lord Merchant\|Lord Merchant]]. [[Vey\|Vey]] suggested to him that they finance a [[Lakstone\|lakstone]] mine together. Delius put all of his fortune and effort into the project to no avail. After five unsuccessful years Delius, broke, was forced to sell the mine to his partner, Vey. One week later Vey found a vein of lakstone, and with the fortune he soon earned from the mine, he became the new Lord Merchant.
-
->“*I had hundreds of lak worth of ships and they took it all from me, Kenton. I'm going to make them regret that decision...*”
-\-Delius to Kenton.[2]
-
-Delius quit the Guild in disgust and joined the Helm. Within a decade he had amassed a large fleet of merchant ships, one of the largest such fleets on all of Dayside. However, during his time at the Helm he neglected the importance of the Shipowners' Circle who took all of his fortune away from him by "honoring" him with the position of Lord Admiral. As Lord Admiral he was not allowed any possessions and the Helm provided him with three things: a house, a ship when he needed it, and as much food and drink as he wanted. As soon as the shock of it settled in, Delius began plotting his revenge and comeback. As revenge for what they did to him he took on the role of a sot, drinking bottle after bottle of expensive wine at the Helm's expense. He had his [[Delius' son\|son]] buy up a new fleet of ships in his own name to get around the Helm's restrictions on what he could own. He "hired" his son as his steward and prepared documents that, when he signed them, would transfer ownership of the fleet from his son to himself. He had his son carry these documents with him at all times and bided his time, waiting for an opportunity to strike back at the Helm.
-
->“*As long as I'm working against Vey I know I am doing something good--even if I don't pay much attention to what is actually happening*”
-\-Delius to Kenton.[1]
-
-Due to his hatred for Vey, throughout his time as Taisha he would oppose him in every way he could, in every vote of the council he would vote for the opposite of what Vey did, regardless of the consequences for himself or the Helm. In the first vote of the Taishin on the subject, he was the only one to vote for the [[Diem\|Diem's]] retention.
-The Helm sent two messengers to visit his home in [[Kezare\|Kezare]] to attempt to convince him to curb his drinking due to the cost and disgrace it was causing to their Profession. He called their suggestions boring and refused to listen to them. As the two messengers were leaving Lord Mastrell [[Kenton\|Kenton]] arrived with [[Aarik\|Aarik]] and [[Ais\|Ais]] to meet with him. Delius offered each of them some wine to drink, Kenton refused, but Aarik happily accepted. Kenton asked Delius, bluntly, if he would be voting for him in the upcoming vote on the Diem's fate. Delius replied that he was going to vote the opposite of whatever Vey would vote, and that no amount of convincing him will change his mind. Kenton tried to convince him, but Delius told him that he would simply rather not think about it. After Kenton left Delius and his son discussed the political situation of Lossand. His son explained to him that most of the [[Kelzi\|Kelzin]] are [[Kerztian\|Kerztian]] and therefore they hate the Diem and its sand masters.
-
->“*Delius. The only man in Lossand who could collapse drunk before the party even begins!*”
-\-Kenton to Khriss.[4]
-
-Delius invited Kenton and his "Darkside beauty", [[Khriss\|Khriss]], to a ball he was throwing in Kenton's honor. At the ball Delius shakily got up and, his speech slurred, announced that he would be voting for the Diem in the upcoming vote. As soon as he finished he promptly collapsed in a heap, stone drunk. Delius' son and some other aides helped him get back to a chair to recover. After he recovered he and his steward went to join Kenton and Khriss where they had taken seats outside by the fountain. Kenton introduced Delius to Khriss and the three of them discussed the differences between social life on Dayside compared to Darkside. When Kenton expressed his frustration with the other Taishin to Delius, he explained that it was likely due to the fact that the [[A'kar\|A'kar]] was planning on cutting off all trade between [[Kerzta\|Kerzta]] and Lossand if he won the Choosing in a few weeks time. However, it was rumored that the A'kar would reconsider this position if Lossand would rid itself of the sand masters.
-
->“*That man is more than just a drunken slob. Or at least he has the potential to be more.*”
-\-Khriss to Kenton.[6]
-
-Kenton expressed his surprise that Delius would vote for the Diem when it was very much against his Profession's best interests. Delius said that Kenton clearly does not know much about his position, and departed, telling them to eat as much as they want and to "waste" some wine for him.
-Later, back at the Diem, Kenton read through the Helm's charter and discovered what the position of Lord Admiral truly entailed. He discovered that the position possessed no true power, all of the Helm's power belonged to the Shipowners' Circle, and the position of Lord Admiral is merely a figurehead position. When the Circle selects a new Lord Admiral, an "honor" which he is unable to refuse, he forfeits all of his possessions and is forbidden from owning any property. All he is given is a house to live in, an unlimited food and drinks budget, and any ship when he wants it. He realized that Delius is as trapped as he is, and his extravagant lifestyle is merely a way to get back at the Circle for what they did to him.
-Later, when Kenton was trying to hire a ship to [[Lraezare\|Lraezare]] to find Vey and was being blocked by dockmaster [[NaiMeer\|NaiMeer]] who was not allowing him to set sail, Delius arrived with his steward to commandeer a ship for himself. He said to Kenton that, spontaeneously, he had decided to pay a visit to the Shipowners' Circle in Lraezare, and invited Kenton to join him on his trip. Kenton said that he was also going there, Delius remarked that it was a remarkable coincidence, and they set sail for Lraezare.
-
->“*When you steal a man's fortune, give him a title mocked and reviled by the rest of the nation--and when you give him five years to contemplate his hatred--make sure you never give him a chance to get revenge.*”
-\-Delius to the Shipowners' Circle.[2]
-
-During the journey Delius told Kenton all about his history with Vey, the Guild, the Helm, and how he became Lord Admiral. When they arrived in Lraezare they found out that Vey is hiding in the house of [[Lokkall\|Lokkall]], the head of the Shipowners' Circle, and their group headed off to his house. While Kenton, [[Ais\|Ais]], and Vey are upstairs discussing their business together Delius and Lokkall have a standoff of their own. Lokkall told Delius that the Helm had had "need" of his ship and it had set sail, leaving him stranded in Lraezare. Delius responded that he would simply use his powers to commandeer another ship. Lokkall informed him that, by unanimous decision, the Circle had decided that they had had enough of his drunken antics, and were removing him from his position. Delius confirmed with Lokkall that he was serious and then turned to his steward and asked for the "documents". He signed them and gave them to Ais to look over and confirm that they were in order. He then announced that he was now the owner of a large fleet of ships, twelve of which were currently in Lraezare. He said that although he was barred from owning property, the Helm's charter never said anything about his servants, even if they were is own son. He instructed his son to command their fleet to monopolize access to the port of Kezare for the next month. This declaration sent the Circle into a panic over the losses this would cause them. Delius nominated Lokkall to be the new Lord Admiral, saying that if the Circle agreed he would reconsider his hasty order, and not block Kezare after all. The council unanimously agreed and made Lokkall into the new Lord Admiral. Delius told Lokkall that he was merciful, and would hold all of his possessions for him, and if he voted for the Diem he would nominate a new Lord Admiral and return his possessions to him. Kenton asked Deius why he was helping the Diem so much, and Delius replied that he empathized with the Diem's plight in the face of impossible odds, and that what was done to the Profession wasn't right. The group then set sail back to Kezare on board one of Delius' ships.
-During the journey they were attacked by Kerztian assassins trying to kill Kenton. After Aarik came to Kenton's rescue, Delius wanted to dump the bodies into the river and continue on their way, but Ais protested that they needed a proper Kerztian burial. Not wanting to start another fight, Delius reluctantly allowed her to do so.
-Delius attended Kenton's duel with [[Drile\|Drile]] and the Taishin vote that followed to ensure that Lokkall kept his end of their bargain.
-
-## Quotes
->“*Boring, boring, and boring! No, I shall face this world drunk, or I shan't face it at all. Thank you for the suggestion, but since I judge it to be inane, I shall ignore it.*”
-\-Delius to two messengers sent to him by the Helm.[1]
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Citas. [[#Citas]] 
+4 Notas del traductor. [[#Notas del traductor]] 
+5 Notas. [[#Notas]] 
 
 
->“*Steward, do you think we could knock down a few buildings to make this view more picturesque?*”
-\-Delius to his son.[1]
+## Apariencia y personalidad
+Delius tiene el pelo largo y castaño y barba incipiente en la cara. Mantiene la fachada de un borracho empedernido, bebiendo constantemente, o como él dice, derrochando vino. Lleva un abrigo azul sobre una camisa blanca y pantalones marrones. Lleva consigo una espada ornamental enfundada en la cintura y sujeta por una larga correa para el hombro.
+
+## Historia
+>“*Sí. Cometí dos veces el mismo pecado, el del éxito.*”
+\-Delius a Kenton.[2]
+
+De joven, Delius fue miembro del [[Gremio\|Gremio]]. Tenía mucho éxito y le faltaban 20.000 [[Lak\|laks]] para convertirse en el próximo [[Lord mercader\|lord mercader]]. [[Vey\|Vey]] le propuso que financiaran juntos una mina de [[Piedralak\|piedralak]]. Delius puso toda su fortuna y esfuerzo en el proyecto en vano. Tras cinco años infructuosos, Delius, arruinado, se vio obligado a vender la mina a su socio, Vey. Una semana después, Vey encontró una veta de piedralak, y con la fortuna que pronto ganó con la mina, se convirtió en el nuevo lord mercader.
+
+>“*Tenía naves por valor de cientos de laks y me lo quitaron todo, Kenton. Voy a hacer que se arrepientan de esa decisión...*”
+\-Delius a Kenton.[2][NdT 1]
+
+Delius abandonó el Gremio disgustado y se unió al Timón. En una década había amasado una gran flota de barcos mercantes, una de las mayores de todo Lado Diurno. Sin embargo, durante su estancia en allí descuidó la importancia del Círculo de Navieros, que le arrebató toda su fortuna al "honrarle" con el cargo de lord almirante. Como lord almirante no se le permitió ninguna posesión y el Timón le proporcionó tres cosas: una casa, un barco cuando lo necesitara y toda la comida y bebida que quisiera. En cuanto asimiló el impacto, Delius empezó a planear su venganza y su regreso. Como venganza por lo que le hicieron, se convirtió en un borracho, bebiendo botella tras botella de vino caro a costa del Timón. Hizo que su [[Hijo de Delius\|hijo]] comprara una nueva flota de barcos a su nombre para eludir las restricciones del Timón sobre lo que podía poseer. "Contrató" a su hijo como mayordomo y preparó documentos que, al firmarlos, transferirían la propiedad de la flota de su hijo a él. Hizo que llevara consigo estos documentos en todo momento y esperó la oportunidad de contraatacar al Timón.
+
+>“*Mientras siga oponiéndome a Vey, sé que hago algo bueno… aunque no preste demasiada atención a los sucesos concretos.*”
+\-Delius a Kenton.[1]
+
+Debido a su odio hacia Vey, durante todo su tiempo como Taisha se opondría a él de todas las formas posibles, en cada votación del consejo votaba lo contrario, sin importarle las consecuencias para él o para el Timón. En la primera votación de los Taishin sobre el tema, fue el único que votó a favor de la permanencia del [[Diem\|Diem]].
+El Timón envió a dos mensajeros a visitar su casa en [[Kezare\|Kezare]] para intentar convencerle de que frenara su consumo de alcohol debido al coste y la desgracia que estaba causando a su Oficio. Llamó aburridas sus sugerencias y se negó a escucharlas. Cuando los dos mensajeros se marchaban, llegó [[/wiki/Taishin#El lord mastrell]] [[Kenton\|Kenton]] con [[Aarik\|Aarik]] y [[Ais\|Ais]] para reunirse con él. Delius ofreció a cada uno de ellos un poco de vino para beber, Kenton lo rechazó, pero Aarik aceptó encantado. Kenton preguntó a Delius, sin rodeos, si votaría por él en la próxima consulta sobre el destino del Diem. Delius respondió que iba a votar lo contrario de lo que votara Vey, y que por mucho que le convencieran no cambiaría de opinión. Kenton lo intentó, pero Delius le dijo que simplemente prefería no pensar en ello. Cuando se marcharon, Delius y su hijo hablaron de la situación política de Lossand. Su hijo le explicó que la mayoría de los [[Kelzi\|kelzin]] son [[Kerzta\|kerztianos]] y, por tanto, odian al Diem y a sus maestros de la arena.
+
+>“*Delius, el único hombre de Lossand capaz de caer borracho antes de que la fiesta empiece siquiera.*”
+\-Kenton a Khriss.[4]
+
+Delius invitó a Kenton y a su "belleza del Lado Oscuro", [[Khriss\|Khriss]], a un baile que organizaba en honor de Kenton. En el baile, Delius se levantó tembloroso y, con dificultad para hablar, anunció que votaría por el Diem en la próxima consulta. En cuanto terminó, se desplomó sobre el suelo, borracho como una cuba. El hijo de Delius y otros ayudantes le ayudaron a volver a una silla para recuperarse. Una vez recuperado, él y su mayordomo fueron a reunirse con Kenton y Khriss, que habían tomado asiento fuera, junto a la fuente. Kenton presentó a Delius a Khriss y los tres hablaron de las diferencias entre la vida social del Lado Diurno y la del Lado Oscuro. Cuando Kenton expresó a Delius su frustración con el otro taishin, éste le explicó que probablemente se debía a que el  planeaba cortar todo el comercio entre [[Kerzta\|Kerzta]] y Lossand si ganaba la elección dentro de unas semanas. Sin embargo, se rumoreaba que los A'Kar reconsiderarían esta postura si Lossand se libraba de los maestros de la arena.
+
+>“*Ese hombre es más que un borrachín zarrapastroso. O tiene el potencial de serlo.*”
+\-Khriss a Kenton.[6]
+
+Kenton expresó su sorpresa por el hecho de que Delius votara a favor del Diem, ya que iba muy en contra de los intereses de su Oficio. Delius dijo que era evidente que Kenton no sabía mucho sobre su posición, y se marchó, diciéndoles que comieran todo lo que quisieran y que "derrocharan" algo de vino por él.
+Más tarde, de vuelta en el Diem, Kenton leyó los estatutos del Timón y descubrió lo que realmente implicaba el cargo de lord almirante. Descubrió que el cargo no poseía ningún poder real, que todo el poder del Timón pertenecía al Círculo de Navieros y que el cargo de lord almirante no era más que una figura decorativa. Cuando el Círculo elige a un nuevo lord almirante, un "honor" que éste no puede rechazar, pierde todas sus posesiones y se le prohíbe poseer bienes. Lo único que se le da es una casa en la que vivir, un presupuesto ilimitado para comida y bebida, y cualquier barco cuando lo desee. Se da cuenta de que Delius está tan atrapado como él, y su extravagante estilo de vida no es más que una forma de vengarse del Círculo por lo que le hicieron.
+Más tarde, cuando Kenton intentaba alquilar un barco para ir a [[Lraezare\|Lraezare]] a buscar a Vey y se veía bloqueado por el capitán del muelle [[NaiMeer\|NaiMeer]], que no le permitía zarpar, Delius llegó con su mayordomo para requisar un barco para él. Le dijo a Kenton que, espontáneamente, había decidido hacer una visita al Círculo de Navieros de Lraezare, e invitó a Kenton a acompañarle en su viaje. Kenton dijo que él también iba allí, Delius comentó que era una coincidencia notable, y zarparon hacia Lraezare.
+
+>“*Si robas su fortun a un hombre a cambio de un título ridículo denigrado por el resto del país… y luego le dejas cinco años para cocerse en su odio… preocúpate de no concederle ni una oportunidad de vengarse.*”
+\-Delius al Círculo de Navieros.[2]
+
+Durante el viaje, Delius le contó a Kenton toda su historia con Vey, el Gremio, el Timón y cómo se convirtió en lord almirante. Cuando llegaron a Lraezare se enteraron de que Vey está escondido en casa de [[Lokkall\|Lokkall]], el jefe del Círculo de Navieros, y su grupo se dirigió a su casa. Mientras Kenton, [[Ais\|Ais]] y Vey están arriba discutiendo sus asuntos, Delius y Lokkall tienen su propio enfrentamiento. Lokkall le dijo a Delius que el Timón había tenido "necesidad" de su barco y éste había zarpado, dejándole abandonado en Lraezare. Delius respondió que simplemente utilizaría sus poderes para requisar otra nave. Lokkall le informó de que, por decisión unánime, el Círculo había decidido que ya estaba harto de sus payasadas de borracho y lo destituía de su cargo. Delius confirmó con Lokkall que hablaba en serio y luego se volvió hacia su mayordomo y le pidió los "documentos". Los firmó y se los dio a Ais para que los revisara y confirmara que estaban en orden. Entonces anunció que ahora era propietario de una gran flota de barcos, doce de los cuales se encontraban actualmente en Lraezare. Dijo que, aunque tenía prohibido poseer bienes, los estatutos del Timón no decían nada de sus sirvientes, aunque fueran sus propios hijos. Dio instrucciones a su hijo para que comandara su flota y monopolizara el acceso al puerto de Kezare durante el mes siguiente. Esta declaración sembró el pánico en el Círculo por las pérdidas que esto les ocasionaría. Delius propuso a Lokkall como nuevo lord almirante, diciendo que si el Círculo estaba de acuerdo reconsideraría su precipitada orden y no bloquearía Kezare después de todo. El Consejo aceptó por unanimidad y nombró a Lokkall nuevo lord almirante. Delius le dijo a Lokkall que era misericordioso y que le guardaría todas sus posesiones, y que si votaba a favor del Diem nombraría a un nuevo Lord almirante y le devolvería sus posesiones. Kenton preguntó a Delius por qué ayudaba tanto al Diem, y este respondió que empatizaba con la difícil situación que tenían ante unas probabilidades imposibles, y que lo que se había hecho al Oficio no estaba bien. El grupo zarpó de vuelta a Kezare a bordo de uno de los barcos de Delius.
+Durante el viaje fueron atacados por asesinos kerztianos que intentaban matar a Kenton. Después de que Aarik acudiera al rescate, Delius quiso arrojar los cadáveres al río y continuar su camino, pero Ais protestó diciendo que necesitaban un entierro kerztiano adecuado. Como no quería empezar otra pelea, Delius se lo permitió a regañadientes.
+Delius asistió al duelo de Kenton con [[Drile\|Drile]] y a la votación de los Taishin que siguió para asegurarse de que Lokkall cumplía su parte del trato.
+
+## Citas
+>“*¡Aburrido, aburrido y aburrido! No, afrontaré el mundo borracho o no lo afrontaré. Gracias por la sugerencia, pero dado que la considero necia, voy a rechazarla.*”
+\-Delius a dos mensajeros que le envió el Timón.[1]
 
 
->“*This world has given me little to believe in, Lord Mastrell. Those I thought were my friends betrayed me. The Profession I thought would protect me instead ripped my life away in exchange for this foolish mockery. A lesson for you, Perhaps?*”
-\-Delius to Kenton.[2]
+>“*Mayordomo, ¿podríamos derribar unos pocos edificios para que la vista sea más pintoresca?*”
+\-Delius to his sona su hijo.[1]
+
+
+>“*Este mundo me ha dado poco en lo que tener fe, lord mastrell. Quienes creía que eran mis amigos me traicionaron. El oficio que pensé que me protegería me despojó de mi vida a cambio de esta estúpida farsa. Quizá encontréis en ello una lección.*”
+\-Delius a Kenton.[2]
+
+
+## Notas del traductor
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] ·  · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
 
 
 
-
-https://coppermind.net/wiki/Delius
+https://es.coppermind.net/wiki/Delius

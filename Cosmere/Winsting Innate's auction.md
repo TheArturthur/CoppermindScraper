@@ -1,24 +1,49 @@
-|**Winsting Innate's auction**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
+|**Subasta de Winsting Innate**|
 |-|-|
-|**Participants**|[[Winsting Innate\|Winsting Innate]], [[Paalm\|Paalm]], various criminals|
-|**Effects**|Death of Winsting Innate and all his guests|
-|**City**|[[Elendel\|Elendel]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Participantes**|[[Winsting Innate\|Winsting Innate]], [[Paalm\|Paalm]], varios criminales|
+|**Efectos**|Muerte de Wisting Innate y todos sus invitados|
+|**Ciudad**|[[Elendel\|Elendel]]🐱︎|
+|**Mundo**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
 
-**Winsting Innate's auction** is an event that occurred on [[Scadrial\|Scadrial]] in 342 [[Catacendre\|PC]]. It was an auction held by [[Winsting Innate\|Winsting Innate]] to sell his senate vote to the highest bidder. Due to an attack by [[Bleeder\|Bleeder]], everyone at the auction was killed.
+**La subasta de Winsting Innate** es un evento que ocurrió en [[Scadrial\|Scadrial]] en 342 [[Catacendro\|PC]]. Fue una subasta realizada por [[Winsting Innate\|Winsting Innate]] para vender su voto en el Senado al mejor postor. Debido a un ataque de [[Sangradora\|Sangradora]], todos los presentes en la subasta murieron.
 
-## History
-The auction was held at [[Winsting Innate's mansion\|Winsting Innate's mansion]] and was ostensibly held to auction off a piece of art that Winsting had made, which was clearly worthless. Half of the attendees were corrupt members of noble houses, while the other half included various representatives of [[Elendel\|Elendel's]] criminal elements. The attendees had all spent weeks posturing about the meeting, but they showed up since they desired influence in upcoming senate votes. Winsting had intentionally baited [[Edwarn Ladrian\|Edwarn Ladrian]] and thought he would attend, but he was not present.
-As the party commenced, Winsting was confident that he would receive a large sum of money as a payoff. He chatted with several guests including [[Hughes Entrone\|Hughes Entrone]] and [[Dowser Maline\|Dowser Maline]], even subtly implying that his brother [[Replar Innate\|Replar]] could also be bought. There was one attendee, a tall woman with short golden hair, that Winsting did not recognize and believed to be a spy.
-After the auction had gotten underway, gunfire rang out from various parts of the room almost simultaneously. The attendees started shooting at each other in the confusion. Winsting's guards disagreed on who started shooting first, and thought that it was either Dowser or [[Darm (Mistborn)\|Darm]]. However, the initial volley of gunfire in fact came from [[Paalm\|Paalm]], a mad [[Kandra\|kandra]] also known as Bleeder. Paalm had used a [[Feruchemical\|Feruchemical]] [[Steel\|steelmind]] to move around the room at superhuman speed while shooting key attendees.
-Winsting's guards hustled him into a saferoom downstairs; two guards watched the stairs from outside the door. The shooting continued upstairs, and all of the attendees of the auction were killed. Winsting's began fretting about the fallout to his reputation from the shootout. He allowed one of his guards, [[Flog\|Flog]], into the saferoom, believing that he could trust him. However, Flog was being impersonated by Paalm. Paalm slit Winsting's throat, then cut out his tongue. She then killed the rest of the guards to cover her tracks.
+## Historia
+La subasta tuvo lugar en la mansión de [[Winsting Innate\|Winsting Innate]] y se celebró supuestamente para subastar una obra de arte que Winsting había realizado, y que claramente no tenía ningún valor. La mitad de los asistentes eran miembros corruptos de casas nobles, mientras que la otra mitad incluía a varios representantes de los sectores criminales de [[Elendel\|Elendel]]. Todos los asistentes habían pasado semanas posicionándose sobre la reunión, pero se presentaron ya que deseaban tener influencia en las próximas votaciones del Senado. Winsting había provocado intencionadamente a [[Edwarn Ladrian\|Edwarn Ladrian]] y pensaba que asistiría, pero no estuvo presente.
+Al comenzar la fiesta, Winsting confiaba en recibir una gran suma de dinero como pago. Charló con varios invitados, entre ellos [[Hugues Entrone\|Hugues Entrone]] y [[Dowser Maline\|Dowser Maline]], e incluso insinuó sutilmente que su hermano [[Replar Innate\|Replar]] también podría ser comprado. Hubo un asistente, una mujer alta con el pelo corto y dorado, que Winsting no reconoció y creyó que era una espía.
+Una vez iniciada la subasta, sonaron disparos desde varios puntos de la sala casi simultáneamente. Los asistentes empezaron a dispararse unos a otros en la confusión. Los guardias de Winsting no se pusieron de acuerdo sobre quién empezó a disparar primero, y pensaron que había sido Dowser o [[Darm (Nacidos de la bruma)\|Darm]]. Sin embargo, la andanada inicial de disparos provino en realidad de [[Paalm\|Paalm]], una [[Kandra\|kandra]] loca también conocida como Sangradora. Paalm había utilizado una [[Menteacero\|menteacero]] [[Feruquimia\|feruquímica]] para moverse por la sala a una velocidad sobrehumana mientras disparaba a los asistentes clave.
+Los guardias de Winsting lo metieron en una sala de seguridad en la planta baja; dos guardias vigilaban las escaleras desde fuera de la puerta. El tiroteo continuó arriba, y todos los asistentes a la subasta fueron asesinados. Winsting empezó a preocuparse por las consecuencias que el tiroteo tendría para su reputación. Permitió que uno de sus guardias, [[Flog\|Flog]], entrara en la sala de seguridad, creyendo que podía confiar en él. Sin embargo, Flog estaba siendo suplantado por Paalm. Esta degolló a Winsting,  y luego le cortó la lengua. Luego mató al resto de los guardias para cubrir su rastro.
 
-## Aftermath and Investigation
-The Elendel broadsheets eagerly covered Winsting's death; the combination of high society members and criminals revealed to be present at the party raised concerns about government corruption. The *Elendel Daily* ran a late edition in order to include additional details about the party and the deceased attendees. Replar was forced to defend his brother's reputation.
-[[Wax\|Wax]], [[Wayne\|Wayne]], [[Marasi\|Marasi]], and the local constabulary came to investigate the disturbance the next day. In looking over the scene, Wax determined that most of the attendees killed each other, but that key attendees were killed all at the same time by someone else. He also noted that Winsting was killed by someone inside the saferoom and that the guards were killed from behind. This led the team to believe that a [[Steel\|steelrunner]] might have been responsible. Steelrunners were rare, and after visiting his grandmother [[Vwafendal\|Vwafendal]] to narrow the list of suspects, Wax deduced that someone had [[Hemalurgy\|hemalurgically]] stolen the power from an old acquaintance, [[Idashwy\|Idashwy]]; her corpse was later found with a spike wound. [[Harmony\|Harmony]] also revealed that the killer was a kandra. Wax's investigation eventually led him to Paalm, who revealed that she killed Winsting "because he had to die" as part of her overall plan to sow chaos in Elendel and disrupt Harmony's influence. She had cut out his tongue to symbolically represent silencing Harmony's voice.
+## Consecuencias e investigación
+Los periódicos de Elendel cubrieron con entusiasmo la muerte de Winsting; la combinación de miembros de la alta sociedad y delincuentes que se reveló que estaban presentes en la fiesta suscitó preocupaciones sobre la corrupción del gobierno. El *[[Diario de Elendel\|Diario de Elendel]]* publicó una edición vespertina para incluir detalles adicionales sobre la fiesta y los asistentes fallecidos. Replar se vio obligado a defender la reputación de su hermano.
+[[Wax\|Wax]], [[Wayne\|Wayne]], [[Marasi\|Marasi]] y la policía local acudieron a investigar los disturbios al día siguiente. Al revisar la escena, Wax determinó que la mayoría de los asistentes se mataron entre sí, pero que los más importantes fueron asesinados todos al mismo tiempo por otra persona. También observó que Winsting fue asesinado por alguien dentro de la sala de seguridad y que los guardias fueron asesinados por la espalda. Esto llevó al equipo a creer que un [[Mensajero de acero\|mensajero de aceropodría]] haber sido el responsable. Los mensajeros de acero eran raros, y tras visitar a su abuela [[Vwafendal\|Vwafendal]] para reducir la lista de sospechosos, Wax dedujo que alguien había robado [[Hemalurgia\|hemalúrgicamente]] el poder a una vieja conocida, [[Idashwy\|Idashwy]]; su cadáver fue encontrado más tarde con una herida ocasionada por un clavo. [[Armon%C3%ADa\|Armonía]] también reveló que el asesino era un kandra. La investigación de Wax le llevó finalmente hasta Paalm, quien confirmó que había matado a Winsting "porque tenía que morir" como parte de su plan general para sembrar el caos en Elendel y desbaratar la influencia de Armonía. Ella le había cortado la lengua para representar simbólicamente el silenciamiento de la voz de Armonía.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 05:23, 13 November 2019 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Winsting_Innate%27s_auction
+https://es.coppermind.net/wiki/Winsting_Innate%27s_auction

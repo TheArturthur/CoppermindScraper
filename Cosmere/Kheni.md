@@ -1,16 +1,37 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kheni**|
 |-|-|
-|**Family**|
-|**Spouse**|[[Cob (Stormlight)\|Cob]]|
-|**Children**|unnamed child|
-|**Residence**|[[Kholinar\|Kholinar]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Cónyuge**|[[Cob (El archivo)\|Cob]]|
+|**Hijos**|hijo de nombre desconocido|
+|**Residencia**|[[Kholinar\|Kholinar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Kheni** is a poor mother who lives in [[Kholinar\|Kholinar]] after the coming of the [[True Desolation\|True Desolation]]. She may be a human or a singer; it is unknown at this time. She is married to [[Cob (Stormlight)\|Cob]] and had a young child who was killed either during or before the fall of the city.
-After her child is killed, Kheni goes into a catatonic state, staring blankly while holding onto an empty cradle. Though she may seem to not be aware of her surroundings, often remaining silent when spoken to and giving no visual signs of understanding, she does listen to those who speak to her. Her condition worries her husband greatly and he will often hover close to his wife.
-[[Hoid\|Hoid]] befriends the couple while spending time disguised in Kholinar by the [[Fused\|Fused]] and other [[Singer\|singers]]. He visits Kheni before departing the city, suggesting different bodily alterations he could give himself to try and provoke a reaction from the women. Hoid finds a young girl who has been orphaned and brings her to Kheni and Cob so that they can take care of her, which seems to cause Kheni to begin to regain her senses.
+**Kheni** es una madre pobre que vive en [[Kholinar\|Kholinar]] tras la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Puede ser humana o cantora; por el momento se desconoce. Está casada con [[Cob (El archivo)\|Cob]] y tuvo un hijo pequeño que murió durante o antes de la caída de la ciudad.
+Tras la muerte de su hijo, Kheni entra en un estado catatónico, con la mirada perdida mientras se aferra a una cuna vacía. Aunque pueda parecer que no es consciente de lo que la rodea, ya que a menudo permanece en silencio cuando se le habla y no da señales visuales de comprensión, sí que escucha a quienes le hablan. Su estado preocupa mucho a su marido, que suele permanecer cerca de su esposa.
+[[Hoid\|Hoid]] se hace amigo de la pareja mientras pasa un tiempo infiltrado en Kholinar entre los [[Fusionado\|Fusionados]] y otros [[Cantores\|cantores]]. Visita a Kheni antes de partir de la ciudad, sugiriéndole diferentes alteraciones corporales que podría hacerse para intentar provocar una reacción en las mujeres. Hoid encuentra a una niña huérfana y se la lleva a Kheni y Cob para que la cuiden, lo que parece provocar que esta empiece a recuperar el sentido.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 10:14, 29 October 2019 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Kheni
+https://es.coppermind.net/wiki/Kheni

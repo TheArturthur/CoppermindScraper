@@ -1,8 +1,8 @@
 |**Shale**|
 |-|-|
-|**Spouse**|[[Sindria\|Sindria]]|
-|**Homeworld**|[[Alornia\|Alornia]]|
-|**Universe**|[[Wode\|Wode]] [[State\|States]]|
+|**Cónyuge**|[[Sindria\|Sindria]]|
+|**Mundo natal**|[[Alornia\|Alornia]]|
+|**Universo**|[[Wode\|Wode]] [[State\|States]]|
 
 >“*The old way? Like...on a horse? I miss that.*”
 \-Shale to Kairominas[1]
@@ -10,18 +10,18 @@
 
 **Shale** is a [[Machineborn\|Machineborn]] knight living in [[Alornia\|Alornia]], and best friend of Emperor [[Kairominas\|Kairominas]]. He is happily married to [[Sindria\|Sindria]], and has five children.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3.1 Before Unification
-3.2 After Unification
+3. [[#Before Unification]] 
+3. [[#After Unification]] 
 
 
-4 Quotes
-5 Notes
+4 Quotes. [[#Quotes]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -35,7 +35,7 @@ Having served as Kai's bodyguard for many years and going on many adventures, Sh
 Shale has been friends with Kai for a very long time. He journeyed with the [[Liveborn\|Liveborn]] even before Kai became Emperor. Some of the adventures they went on included fighting barbarians, searching for hidden treasures and secrets, and even slaying dragons. During this time Shale and Kai grew very close, and when they discovered a draught of immortality, Shale was one of the few who Kai shared it with. Shale even had to carry Kai fifty miles through the desert once, after the two got stuck within the [[Tendrils of Sashim\|Tendrils of Sashim]]. It is implied that Shale blames himself for the death of [[Molly (Perfect State)\|Molly]], Kai's wife, who died forty years before unification.
 
 ### After Unification
-Shale has stayed by Kai's side, acting as a personal guard whenever Kai leaves his castle. He also chose to settle down, getting married and having five children. Shale accompanied Kai to investigate the first Border State that appeared. He aided Besk in trying to convince Kai to conquer the State, as he felt the hardy natives would make good subjects, and the metal with which they fought could replace the enchanted swords currently in use.
+Shale has stayed by Kai's side, acting as a personal guard whenever Kai leaves his castle. He also chose to settle down, getting married and having five children. Shale accompanied Kai to investigate the first [[/wiki/State#Border States]] that appeared. He aided Besk in trying to convince Kai to conquer the State, as he felt the hardy natives would make good subjects, and the metal with which they fought could replace the enchanted swords currently in use.
 
 ## Quotes
 >“*Sure, sure. I had quite the collection of hands. Couple of arms, the occaisional foot...*”
@@ -50,6 +50,16 @@ Shale has stayed by Kai's side, acting as a personal guard whenever Kai leaves h
 \-Shale to Kai[1]
 
 
+## Notes
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Perfect State\|Perfect State]]**|
+|-|-|
+|**Personajes**|[[Kairominas\|Kairominas]] ·  · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
+|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
+|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-https://coppermind.net/wiki/Shale
+
+https://es.coppermind.net/wiki/Shale

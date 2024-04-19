@@ -1,15 +1,36 @@
-|**Battle of Slickrock**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
+|**Batalla de Rocadiza**|
 |-|-|
-|**Participants**|[[Dalinar\|Dalinar]], [[Nalanar\|Nalanar]], [[Geved\|Geved]]|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Participantes**|[[Dalinar\|Dalinar]], [[Nalanar\|Nalanar]], [[Geved\|Geved]]|
+|**Mundo**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Slickrock** is the name of a battle on [[Roshar\|Roshar]] between the forces of [[Nalanar\|Nalanar]] of [[Jah Keved\|Jah Keved]] and [[Dalinar Kholin\|Dalinar Kholin]] of [[Alethkar\|Alethkar]].
+**Rocadiza** es el nombre de la batalla que tuvo lugar en [[Roshar\|Roshar]] entre las fuerzas de [[Nalanar\|Nalanar]] de [[Jah Keved\|Jah Keved]] y [[Dalinar Kholin\|Dalinar Kholin]] de [[Alezkar\|Alezkar]].
 
-## History
-The battle occurred prior to the [[War of Reckoning\|War of Reckoning]], likely during the period when [[Gavilar\|Gavilar]] deployed Dalinar to [[Herdaz\|Herdaz]] and Jah Keved as a show of Alethi strength. The exact location is not known, but it presumably occurred on a field of [[Slickrock\|slickrock]] near the border of Jah Keved and Alethkar. An older soldier named [[Geved\|Geved]] fought in Nalanar's second infantry during the battle and survived despite Dalinar's victory.
-Geved reminisced with Dalinar when they met in the aftermath of the [[Battle of Vedenar\|Battle of Vedenar]]; both men thought of the battle as a reminder of a simpler time. Dalinar conceded that Nalanar nearly beat him at three different points during the battle. Geved then contrasted his experiences during the battle of Slickrock with the horrific events of the [[Veden civil war\|Veden civil war]] and the effects of the [[Thrill\|Thrill]]. The Thrill began to take hold of Dalinar and he realized that it had moved from the [[Shattered Plains\|Shattered Plains]] to [[Vedenar\|Vedenar]].
+## Historia
+La batalla tuvo lugar antes de la [[Guerra de la Venganza\|Guerra de la Venganza]], probablemente durante el período en el que [[Gavilar\|Gavilar]] envió a Dalinar a [[Herdaz\|Herdaz]] y Jah Keved como muestra de la fuerza alezi. La ubicación exacta es desconocida, pero probablemente ocurrió en una zona de [[Rocadiza\|rocadiza]] cerca de la frontera de Jah Keved con Alezkar. [[Geved\|Geved]], un soldado veterano, luchó en la segunda infantería de Nalanar durante la batalla y sobrevivió a pesar de la victoria de Dalinar.
+Geved rememoró la batalla junto a Dalinar cuando se reunieron tras la [[Batalla de Vedenar\|batalla de Vedenar]], ambos pensando en ella como un recordatorio de tiempos más sencillos. Dalinar reconoció que Nalanar casi lo vence en tres momentos distintos del combate. A continuación, Geved comparó sus experiencias durante la batalla de Rocadiza con los horribles acontecimientos de la [[Guerra civil veden\|guerra civil veden]] y los efectos de [[La Emoci%C3%B3n\|la Emoción]]. La Emoción empezó a apoderarse de Dalinar y se dio cuenta que se había trasladado de las [[Llanuras Quebradas\|Llanuras Quebradas]] a [[Vedenar\|Vedenar]].
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 19:06, 31 August 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Battle_of_Slickrock
+https://es.coppermind.net/wiki/Battle_of_Slickrock

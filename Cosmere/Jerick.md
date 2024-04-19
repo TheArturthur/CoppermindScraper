@@ -1,14 +1,20 @@
+
+
 |**Jerick**|
 |-|-|
-|**Homeworld**|[[Yolen\|Yolen]]|
-This page or section contains details from the unpublished work *Dragonsteel Prime*!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
+|**Mundo natal**|[[Yolen\|Yolen]]|
+> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) *[[Dragonsteel Prime\|Dragonsteel Prime]]*!Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro
 
-**Jerick** is a character from the work [[Dragonsteel Prime\|Dragonsteel Prime]].
+**Jerick** es un personaje de un libro aún sin publicar, *[[Dragonsteel Prime\|Dragonsteel Prime]]*.
 
-## Behind the Scenes
-Jerick was one of the first characters that [[Brandon Sanderson\|Brandon Sanderson]] created, appearing in the very first story he wrote in his mid-teens. He was originally named "Rick", and at one point he was an elf. He was a hero character that was falsely accused of murder; Brandon later cited him as an example of a "flawless hero" in his writing who did not have internal struggles like those of [[Vin\|Vin]] or [[Dalinar\|Dalinar]].
-Brandon has mentioned including Jerick as part of a rewritten [[Dragonsteel (series)\|Dragonsteel series]] on several occasions over the years, but this would not occur until after the completion of *The Stormlight Archive*. Because characters and plot points were cannibalized from *Dragonsteel* Prime to improve *The Way of Kings*, Jerick's character arc would need to be significantly changed. Though Jerick has been written out of the Cosmere, and is unlikely to be added back.
+## Entre bambalinas
+Jerick fue uno de los primeros personajes que [[Brandon Sanderson\|Brandon Sanderson]] creó, apareciendo en la primera historia que escribió en su adolescencia. Inicialmente se llamaba "Rick",  y en algún momento fue un elfo.  Era un personaje heróico que había sido acusado falsamente de asesinato.  Brandon habló de él más adelante como un ejemplo de "héroe sin fallos" en sus escritos, el cual no tiene luchas internas como [[Vin\|Vin]] o [[Dalinar\|Dalinar]].
+Brandon ha comentado que incluirá a Jerick como parte de su reescritura de la saga *[[Dragonsteel (saga)\|Dragonsteel]]* en muchas ocasiones a lo largo de los años, pero que no ocurrirá hasta que termine con *[[El archivo de las tormentas\|El archivo de las tormentas]]*. Dado que muchos personajes y parte de la trama de *Dragonsteel* Prime fueron absorbidos por *[[El camino de los reyes\|El camino de los reyes]]*, el arco de personaje de Jerick tendría que ser cambiado sustancialmente.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
 
 
-
-https://coppermind.net/wiki/Jerick
+https://es.coppermind.net/wiki/Jerick

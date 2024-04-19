@@ -1,138 +1,157 @@
-|**Lights**|
-|-|-|
-|by  Connor Chamberlain |
-|**Related to**|[[Shard\|Shards]], [[Investiture\|Investiture]]|
-|**Type**|[[Investiture\|Investiture]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*If Light is Investiture, and all Investiture is deity, and deity has Intent, then Light must have Intent.*”
+
+|**Luces**|
+|-|-|
+||
+|**Relacionado con**|[[Esquirla\|Esquirlas]], [[Investidura\|Investidura]]|
+|**Tipo**|[[Investidura\|Investidura]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
+
+>“*Si la luz es Investidura y toda Investidura es deidad, y si la deidad tiene Intención, entonces la luz debe tener Intención.*”
 \-Navani[1]
 
 
-Gaseous Investiture within the [[Rosharan system\|Rosharan system]] manifests as a number of different **Lights**, each associated with one or more [[Shard\|Shards]]. These Rosharan Lights include the three pure ones -- [[Stormlight\|Stormlight]], [[Voidlight\|Voidlight]], and Lifelight -- a few hybrids (Warlight and Towerlight being the only confirmed ones), and the anti-Lights.
+La Investidura gaseosa del [[Sistema roshariano\|sistema roshariano]] se manifiesta como diferentes tipos de **luces**, cada una de ellas asociada a una o más [[Esquirla\|Esquirlas]]. Dentro de estas luces rosharianas distinguimos entre las tres puras, que son la [[Luz tormentosa\|luz tormentosa]], [[Luz del vac%C3%ADo\|luz del vacío]] y [[/wiki/Luces#Luz de vida]], algunas híbridas (las únicas confirmadas son [[/wiki/Luces#Luz de guerra]] y [[/wiki/Luces#Luz de torre]]), y las [[/wiki/Luces#Antiluces]].
 
-## Contents
+## Sumario
 
-1 Characteristics & Attributes
+1 Características y propiedades. [[#Caracter.C3.ADsticas y propiedades]] 
 
-1.1 Physical Properties
-1.2 Interaction with Gems
+1. [[#Propiedades f.C3.ADsicas]] 
+1. [[#Interacci.C3.B3n con gemas]] 
 
-1.2.1 The Arnist Method
-1.2.2 The Vriztl Guild Method
-
-
-1.3 Intent
+1. [[#El m.C3.A9todo arnista]] 
+1. [[#El m.C3.A9todo del gremio Vriztl]] 
 
 
-2 The Tones
-
-2.1 Opposite Tones
+1. [[#Intenci.C3.B3n]] 
 
 
-3 Pure Lights
+2 Los tonos. [[#Los tonos]] 
 
-3.1 Stormlight
-3.2 Voidlight
-3.3 Lifelight
+2. [[#Tonos opuestos]] 
 
 
-4 Hybrid Lights
+3 Luces puras. [[#Luces puras]] 
 
-4.1 Towerlight
-4.2 Warlight
-4.3 Odium & Cultivation
-
-
-5 Anti-Lights
-
-5.1 Anti-Voidlight
-5.2 Anti-Stormlight
-5.3 Other anti-Investiture
+3. [[#Luz tormentosa]] 
+3. [[#Luz del vac.C3.ADo]] 
+3. [[#Luz de vida]] 
 
 
-6 Notes
+4 Luces híbridas. [[#Luces h.C3.ADbridas]] 
+
+4. [[#Luz de torre]] 
+4. [[#Luz de guerra]] 
+4. [[#Odium y Cultivaci.C3.B3n]] 
 
 
-## Characteristics & Attributes
-Although the Lights of Roshar come from different Shards, they all share a few fundamental attributes, properties, and behaviors.
+5 Antiluces. [[#Antiluces]] 
 
-### Physical Properties
-All Lights share some characteristics with regular light (i.e. electromagnetic radiation) and matter -- specifically gases and liquids -- though they are neither one of these.
-The comparison between light and Light is, in some ways, the easiest to make -- regular light cannot be captured in gems, and it appears to be emitted by any one of the Lights (specifically, the Lights allow the Spiritual Realm to "shine through"). There are some subtle differences, however. When refracted through a prism, regular light forms a rainbow, with all colors getting an even share in the band, smoothly transitioning from one to the next; the illumination given off by the Lights, however, forms a physical impossibility -- a rainbow with specific colors (e.g. blue for Stormlight) getting a larger share of the overall band. Hybrid Lights, such as Towerlight, behave even more strangely -- they split into *two* rainbows, matching their constituent Lights. For example, Towerlight will split into one rainbow with a wider blue band, and one with a wider green band, matching the rainbows produced by Stormlight and Lifelight.
-The similarity with liquids is more subtle, and manifests most clearly when transferring Light between gems using sound vibrations, where it behaves similarly to the way liquids can be siphoned from one container into another (though the actual mechanics behind this are different). Once the transfer begins, the Light will follow the source of the sound, much like how a liquid will flow through a siphoning tube or hose. This parallel holds even when transferring Light directly from one gem to another using the Arnist Method, though the process there is more akin to osmosis.
-And finally, the similarities with gases are most evident in how Light behaves when it is not *doing* anything -- it diffuses through porous surfaces, rises in the air, and "evaporates."
-
-### Interaction with Gems
-All Lights can be stored in gems. How long a given quantity of Light will remain in a specific gem depends on the type of Light and the quality of the gem. The rate at which a Light leaks from gemstones is not constant either -- it appears slow at first, but accelerates rapidly near the end, making gems that begin to dim, dim *fast.* Regardless of the type of Light, perfect gems are said to be able to hold it indefinitely, but they are extremely rare.
-Light can also be transferred between gems. Prior to the occupation of Urithiru during the True Desolation, the methods of transferring Light -- only Stormlight at the time -- from one gem to another were closely guarded secrets of the different artifabrian communities.
-
-#### The Arnist Method
-The Arnist Method of transferring Light between gems is a procedure involving draining the Light from a small(er) infused gemstone and moving it into several large(r) empty ones of the same type; the procedure is reminiscent of the movement of gases across a pressure differential, as Light will naturally and passively leave a smaller gem and flow into a nearby larger one.
-
-#### The Vriztl Guild Method
-There exists at least one alternative to the Arnist Method, and while it doesn't have a formal name, it is known to the Vriztl Guild of Thaylenah -- and it traditionally involves tuning forks and sound. If a gem can be made to vibrate at a frequency matching one of the pure tones of Roshar, it will draw nearby Light corresponding to that Tone (e.g. a gem vibrating to Honor's tone will draw Stormlight in). To transfer Light from one gem to another, the artifabrian would first use a tuning fork matching the desired tone, and touch it against the full gemstone, making it vibrate with the same frequency. The gem and fork vibrating at a matching frequency allows the artifabrian to lead a line of Light from the full gemstone to an empty one, which -- when touched by the tuning fork and also made to vibrate at the matching frequency -- would proceed to siphon the Light from the originally full gem, though a small amount of Light is lost in the transfer.
-
-### Intent
-Light, much like the Shards it comes from, has [[Intent\|Intent]]. The full scope of the importance of this Intent is unclear, but it appears critical for the creation of hybrid Lights and anti-Lights.
-
-## The Tones
-One of the most unique ways the Lights of Roshar behave unlike regular matter is in the way they naturally vibrate. Each Light vibrates at -- and responds to -- not only a specific frequency (matching the pure tone of its Shard), but also to a specific *rhythm.* For example, when singers listen to a Stormlight sphere, they can faintly hear Honor's pure tone wavering and pulsing to a stately rhythm -- Honor's rhythm. Hybrid Lights, such as Towerlight and Warlight, complicate this further, as they have *two* tones (e.g. in the case of Towerlight, Honor's and Cultivation's), somehow different from what they would be in the constituent Lights, changed to be in harmony with one another; both tones adopt a rhythm, once again different from the rhythms of the hybrid's "components" -- for example, both of Towerlight's tones vibrate to the Rhythm of the Tower. The combination of a Shard's tone and rhythm is sometimes referred to as the Shard's *song.*
-The relationship between Lights and their tones goes in the other direction as well. The same way the harmony of a Light's tone and rhythm can be felt and heard, one can create this harmony using musical instruments, or even one's voice, and thus draw the Light in. In fact, [[Raboniel\|Raboniel]] speculates that the reason Light responds to sound, and the combination of a specific tone and rhythm, is because it is reminiscent of the "voice" of the Light's Shard. The Vriztl Guild of Thaylenah, likely unaware of the Realmatic reasons behind it, has been making use of this property of Light to transfer Stormlight between gems -- in their case, using tuning forks matching Honor's tone.
-
-### Opposite Tones
-There exists a set of tones complementary to the pure tones of Roshar, identical in frequency, but created and infused with Intent. These tones, sometimes called "opposite tones" behave similarly to the pure ones, in that they too interact with their matching Light (e.g. Stormlight will interact with Honor's opposite tone), but where the sound produced by the pure tones attract Light, their opposites *repel* it. Intent plays a critical role in the creation of these opposite tones, as they cannot be created by accident, one must *Intend* to produce them, though there exists a caveat: an opposite tone can be produced mechanically, with a musical instrument and with no Intent, as long as the instrument was created with the Intent of producing an opposite tone in the first place.
-Related to the opposite tones' ability to repel Light is the strange way they sound differently to different people. For example, Odium's tone and its opposite sound identical to a human, but to a Fused -- somebody whose soul has been heavily Invested by Odium -- the opposite tone sounds uniquely unpleasant.
-Naturally, since the opposite tones sound exactly like their pure counterparts, they can be made to be fit their respective rhythms; the same way Honor's pure tone can harmonize with his rhythm, so can his opposite tone. This Intent-fueled song is crucial for the creation of anti-Lights.
-
-## Pure Lights
-There are three primary, or "pure" Lights in the Rosharan system, one for each Shard.
-
- by [[Isaac Stewart\|Isaac Stewart]] "Stormlight"
-### Stormlight
-For more information, see [[Stormlight\|Stormlight]].
-Honor's Light has been a core part of life on Roshar, both literally in the renewing and refreshing energy it provides to the planet's flora and fauna, and figuratively -- in the numerous ways it is being used by people in their everyday life. It is delivered primarily through the highstorms, and glows with a steady white light, with a slight, nearly imperceptible blue tint. When its illumination is split through a prism, it produces a rainbow with a larger blue band. When drawn in and held by a Surgebinder, it encourages motion and action. Stormlight's -- Honor's -- rhythm is a stately one.
-
- by [[Isaac Stewart\|Isaac Stewart]] "Rasan's light"
-### Voidlight
-For more information, see [[Voidlight\|Voidlight]].
-Historically, Odium's Light only found its way to Roshar during Desolations when Odium -- or in the case of the False Desolation, [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] -- would supply it directly to his servants, provided they sang the Song of Prayer. Since the arrival of the Everstorm, it can be obtained much more easily -- though it appears that it doesn't naturally infuse gems in the way Stormlight does during highstorms. Like Stormlight, it can be stored in gems, but it leaks much more slowly -- possibly the source of Szeth's belief that the Voidbringers can hold Stormlight (in actuality, Voidlight) indefinitely.
-Voidlight glows with a distinct purple-on-black glow described as "hyperviolet" -- possibly the Rosharan or Alethi term for either ultraviolet or a chimerical color. When its illumination is split through a prism, Voidlight produces a rainbow with an "enormous" violet band, dwarfing all other colors. When drawn in and held, Odium's Light enflames emotions, though in singers at least it doesn't infuse their entire body like Stormlight does, instead going to the gemheart. Its rhythm is "chaotic, but with a certain logic to it."
-
- by [[Isaac Stewart\|Isaac Stewart]] "Koravari's light"
-### Lifelight
-Lifelight, or Cultivation's Light, is perhaps the rarest of the three pure Lights. [[Lift\|Lift]] is uniquely able to produce it by metabolizing food, but no other ways of obtaining it are currently known. It appears very similar to Stormlight, a nearly pure white light, but where Stormlight has a slight blue tint, Lifelight has a slight green one. When its illumination is split through a prism, it produces a rainbow with a larger green band. Its rhythm is stark and staccato, but it builds. Lifelight shares Stormlight's effect on plants but to a superior degree, stimulating their growth when combined with the proper rhythm.
-
-## Hybrid Lights
-In addition to the "pure" Lights of Roshar, there exist hybrids created by the union of any two pure Lights. The methods of creation of these hybrids vary slightly, but at their core is the need for the appropriate Investitures, tones, and rhythms.
-
-### Towerlight
-Towerlight is the very substance of the spren known as the [[Sibling\|Sibling]], and as they are the child of Honor and Cultivation, so Towerlight is the product of melding these two Shards' Investitures, tones, and rhythms. It can only be created by the [[Sibling\|Sibling]] and their [[Bondsmith\|Bondsmith]], though the imprisonment of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] rendered them unable to produce more than small amounts -- enough to power only the most essential of [[Urithiru\|Urithiru's]] [[Fabrial\|fabrials]]; a deficiency that appears to have ended when [[Navani Kholin\|Navani Kholin]] became the Sibling's current Bondsmith. A key factor in the creation of Towerlight is the Sibling's ability to hear both of their parents' songs -- Cultivation's, which they could hear and sing on their own, and Honor's, which Navani had to provide for them. Because of this, it is unclear whether the Sibling is truly "healed", or losing the bond -- and Navani -- would mean that they lose Towerlight once again.
-In appearance, Towerlight resembles both Stormlight and Lifelight, as it glows with a soft blue-green light. When split through a prism, it produces two rainbows of color, one with a wider blue band, and one with a wider green one. Towerlight's rhythm -- the Rhythm of the Tower -- evokes the "boundless energy of Cultivation, always growing and changing, and the calm solidity of Honor -- organized, structured." The psychological effects of holding Towerlight are unknown.
-
-### Warlight
-Unlike Towerlight, which has been known to humans and singers alike for millennia (even if knowledge of it was largely lost on Roshar after the [[Recreance\|Recreance]]), Warlight -- the hybrid Light of Honor and Odium -- is a recent discovery, one that even renowned singer scholars like [[Raboniel\|Raboniel]] thought an impossibility. During the occupation of Urithiru Navani discovers that a human and a singer (or at least she and Raboniel) can create Warlight by allowing Stormlight and Voidlight to combine inside a gem made to vibrate to the Rhythm of War -- a rhythm created by the harmony of Navani singing Honor's song and Raboniel singing Odium's; a rhythm Raboniel didn't know existed prior to these events, and whose emotional influence she notes will be of particular interest to [[El\|El]]. It is seemingly impossible to create without both a human and a singer.
-Warlight glows with a vibrant black-blue light, and its rhythm is a burst of chaotic notes, bounded by a regular, orderly pulse. When contained in a gemstone the Light can be seen oscillating between swirling like a raging storm and then falling into a peaceful calm.
-
-### Odium & Cultivation
-The existence of an Odium and Cultivation hybrid Light hasn't been confirmed, but [[Venli\|Venli]] successfully attunes a rhythm of these two Shards, so a corresponding Light is likely.
-
-## Anti-Lights
-Physical matter is known to have a counterpart called  -- matter composed of antiparticles that share many properties with the particles of ordinary matter, but manifest some of them in an opposite way (e.g. a proton and an antiproton have the same mass, but opposite electric charges and magnetic moments). Raboniel describes this in terms of axi with opposite polarities. A similar relationship exists between Investiture and anti-Investiture in the cosmere. Anti-Investiture -- or, in Roshar's specific case, anti-Light -- comes in a number of different varieties, each one of which shares some properties with its corresponding ordinary Light, while exhibiting other attributes in an opposite way. Most notably, a Light and its anti-Light that come in contact will naturally annihilate each other -- with the reaction seeming more violent when the two are brought together under pressure, such as within a gemstone. This occurs when any Investiture and anti-Investiture come into contact, though the explosion is smaller if they are not both of the same Shard.
-Anti-Light shares most of the physical and magical properties of ordinary Light: it glows in the physical spectrum (though unlike regular Lights, it appears to warp the air around it, almost as if it is drawing light instead of emitting it), it can be stored in gems, it responds to sound and vibration, and has Intent. One area where anti-Light differs from regular Light -- or at least the pure ones -- is that it requires Intent to be created, a property it shares with the hybrid Lights. The only known method of creating anti-Light requires dampening the natural vibration of its corresponding Light, isolating it from its Shard's pure tone, and then re-writing it with a different tone, one that has been inverted with Intent. One way to do this involves putting the ordinary Light in vacuum and allowing it to draw near a gemstone that has been made to vibrate to the tone of the desired anti-Light -- the ordinary Light's opposite tone.
-Much like each Light's natural vibration can be heard or felt by different species, anti-Light's can too, though its song is not just physically audible, it carries a magical effect too. For example, to a human the song of anti-Voidlight will sound identical to the song of Voidlight, Odium's tone moving to his rhythm, but to a Fused -- whose soul is filled with Odium's own Investiture -- the song of anti-Voidlight not only sounds different, it also causes intense pain, similar to the discomfort they feel when hearing Odium's opposite tone, but much worse. The type of Investiture an anti-light is keyed to can also impact on its reaction to types of Investiture, this can only alter the intensity of the explosion caused however.
-
-### Anti-Voidlight
-Anti-Voidlight is the first anti-Light to be discovered on Roshar, initially discovered by King [[Gavilar Kholin\|Gavilar Kholin]] not long before his death. His research into the Lights of Roshar and the ability to transport them between planets in the system allowed him to obtain a sphere of anti-Voidlight, which he gave to Szeth moments before dying. The sphere, and the anti-Voidlight within it, eventually led [[Navani\|Navani]] to also discover how to create anti-Light.
-Anti-Voidlight glows faintly violet-black and appears to faintly warp the air around itself. Its tone -- and song -- sound identical to those of Voidlight, but they induce an adverse reaction in the Fused, and presumably in other creatures heavily Invested by Odium, such as Voidspren. When made to touch the soul of such creatures, anti-Voidlight reacts violently against the Voidlight there, resulting in permanent death.
-
-### Anti-Stormlight
-Anti-Stormlight was discovered by [[Raboniel\|Raboniel]] shortly after Navani's own discovery of [[Anti-Voidlight\|anti-Voidlight]]. In many ways, [[Anti-Stormlight\|anti-Stormlight]] behaves symmetrically to [[Anti-Voidlight\|anti-Voidlight]] -- except where [[Anti-Voidlight\|anti-Voidlight]] has a destructive effect on beings Invested by [[Odium\|Odium]], [[Anti-Stormlight\|anti-Stormlight]] has that effect on ones Invested by Honor, such as Radiant spren. Using [[Raysium\|Raysium]] weapons, [[Anti-Stormlight\|anti-Stormlight]] is able to kill Radiant spren, which breaks the bond between the spren and its Radiant.
-
-### Other anti-Investiture
-It is unknown whether hybrid Lights or [[Shards\|Shards]] outside of the Rosharan system have anti-Investitures of their own. [[Khriss\|Khriss]] states that, though long theorized, the anti-Lights are her first evidence of an anti-Investiture.
+5. [[#Antiluz del vac.C3.ADo]] 
+5. [[#Antiluz tormentosa]] 
+5. [[#Otras anti-Investiduras]] 
 
 
+6 Notas. [[#Notas]] 
 
-https://coppermind.net/wiki/Anti-Stormlight
+
+## Características y propiedades
+Aunque las luces de Roshar provengan de distintas Esquirlas, todas ellas comparten algunas características, propiedades y comportamientos fundamentales.
+
+### Propiedades físicas
+Todas las luces comparten características con la luz corriente (como por ejemplo la radiación electromagnética) y la materia (en concreto con gases y líquidos) aunque no sean ninguna de las dos cosas.
+La comparación entre la luz común y las luces de Roshar es, en algunos aspectos, sencilla, ya que la luz corriente no puede ser capturada en gemas, y parece ser emitida por cualquiera de las otras luces rosharianas (en concreto, las luces permiten que el Reino Espiritual “brille a través de ellas”). También existen diferencias sutiles entre ellas. Cuando la luz corriente es refractada a través de un prisma se divide en un arcoíris, con todos los colores repartidos en igual proporción y con una sutil transición de un color a otro; sin embargo, la iluminación emitida por las luces de Roshar forma una imposibilidad física: un arcoíris con colores específicos (por ejemplo, azul para la luz tormentosa) desproporcionado con respecto a los otros colores. Las luces híbridas, como la luz de torre, se comportan incluso de forma más extraña: se dividen en dos arcoíris cuyos colores coinciden con las dos luces que la forman. Por ejemplo, la luz de torre se dividirá en un arcoíris formado por una banda azul más ancha y una banda verde más ancha, correspondientes a los arcoíris de la luz tormentosa y la luz de vida.
+El parecido con los líquidos es más sutil y se manifiesta de forma más evidente cuando se transfiere luz entre gemas mediante las vibraciones del sonido, donde se comporta de forma similar a la forma en la que los líquidos se pueden traspasar de un recipiente a otro (aunque la mecánica real es diferente). Una vez que se inicie la transferencia, la luz seguirá la fuente del sonido, de forma parecida a como un líquido fluye a través de un tubo o una manguera. Este paralelismo es vigente incluso cuando se transfiere luz directamente de una gema a otra mediante el [[/wiki/Luces#El m.C3.A9todo arnista]], aunque el proceso se parece más a la ósmosis.
+Por último, las semejanzas con los gases son más evidentes en cómo se comporta la luz cuando no está *haciendo* nada: se dispersa por superficies porosas, se eleva en el aire y se "evapora".
+
+### Interacción con gemas
+Todas las luces pueden ser almacenadas en gemas. El tiempo que permanecerá una determinada cantidad de luz en una gema concreta dependerá del tipo de luz y de la calidad de la gema. La velocidad a la que la luz se escapa de la gema tampoco es constante, parece lento al principio pero se acelera conforme se agota, lo que hace que las gemas empiecen a apargarse *rápidamente.* Sin importar el tipo de luz, se dice que las gemas perfectas son capaces de contener luz de forma indefinida, pero son extremadamente raras.
+La luz también puede ser transferida entre gemas. Antes de la ocupación de Urithiru, durante la Auténtica Desolación, los métodos para transferir luz (en ese momento, luz tormentosa) de una gema a otra eran un secreto celosamente guardado por diferentes comunidades de artifabrianos.
+
+#### El método arnista
+El método arnista para transferir luz entre gemas es un procedimiento que implica drenar la luz de una gema infusa más pequeña para moverla a otras gemas más grandes y vacías del mismo tipo. Este procedimiento es una reminiscencia del movimiento de los gases a través de un diferencial de presión, ya que la luz fluye de forma natural y paulatina de una gema más pequeña a otra más grande y cercana.
+
+#### El método del gremio Vriztl
+Existe al menos una alternativa al método arnista, y aunque no tiene un nombre propio, es conocido por el gremio Vriztl de Thaylenah, y tradicionalmente requiere de diapasones y sonido. Si una gema puede hacerse vibrar a la frecuencia de alguno de los tonos puros de Roshar, la luz cercana correspondiente a ese tono se verá atraída hacía ella (por ejemplo, una gema que vibra al tono de Honor atraerá luz tormentosa). Para transferir luz de una gema a otra, los artifabrianos deben primero usar un diapasón que iguale el tono deseado y golpearlo contra la gema para que la haga vibrar a la misma frecuencia. La gema y el diapasón vibrando a la misma frecuencia permiten al artifabriano dirigir una línea de luz desde una gema llena hasta una vacía, que (cuando es tocada por el diapasón, y puesta a la misma frecuencia) comenzará a absorber luz de la gema llena, aunque una pequeña cantidad de luz se pierde en la transferencia.
+
+### Intención
+La luz, al igual que las Esquirlas de las que procede, tiene [[Intenci%C3%B3n\|Intención]]. No está clara la importancia real de esta Intención, pero parece ser relevante para la creación de luces híbridas y antiluces.
+
+## Los tonos
+Una de las razones por las que las luces de Roshar no se comportan como materia común es la forma natural en la que vibran. Cada luz vibra -y responde- no solo a una frecuencia concreta (igual a la del tono de su Esquirla), si no que también a un *ritmo* específico. Por ejemplo, cuando los cantores escuchan una esfera de luz tormentosa, pueden escuchar débilmente el tono puro de Honor, vacilando y pulsando a un ritmo majestuoso: el ritmo de Honor. Las luces híbridas, como la luz de torre y la luz de guerra, complican más aún esta idea, ya que tienen *dos* tonos (en el caso de la luz de torre, los tonos de Honor y de Cultivación), que de alguna forma son diferentes a como serían en sus luces constituyentes, modificados para estar en armonía uno con el otro, y ambos tonos adoptan un ritmo nuevo, también diferente de los ritmos que lo «conforman», ya que por ejemplo, los dos tonos de la luz de torre vibran al Ritmo de la Torre. La combinación del tono de una Esquirla y su ritmo es a menudo conocido como la *canción* de la Esquirla.
+La relación entre las luces y sus tonos también va en dirección opuesta. De la misma forma que la armonía del tono de una luz y su ritmo pueden sentirse y escucharse, uno puede crear esta armonía utilizando instrumentos musicales, o incluso con la propia voz, y así atraer la luz. De hecho, [[Rabeniel\|Rabeniel]] especula que la razón por la que la luz responde al sonido, y a la combinación específica de tono y ritmo, es porque es un recuerdo de la «voz» de la luz de la Esquirla. El gremio Vriztl de Thaylenah, probablemente sin conocer las implicaciones realmáticas de ello, ha estado utilizando esta propiedad de la luz para transferir luz tormentosa entre gemas, en su caso, utilizando diapasones que coinciden con el tono de Honor.
+
+### Tonos opuestos
+Existe un conjunto de tonos complementarios a los tonos puros de Roshar, con igual frecuencia pero creados e infusos con Intención. Estos tonos, a veces llamados «tonos opuestos» se comportan parecido a los tonos puros en cómo interaccionan con su luz respectiva (por ejemplo, la luz tormentosa interacciona con el tono opuesto de Honor) pero, mientras que los tonos puros atraen luz, los tonos opuestos la *repelen*. La Intención juega un papel fundamental en la creación de los tonos opuestos, ya que no pueden ser creados por accidente, y uno debe tener la *Intención* de producirlos, aunque hay una excepción, y es que se pueden producir mecánicamente con ayuda de un instrumento musical y sin Intención, siempre y cuando el instrumento haya sido creado con la Intención de producir un tono opuesto.
+Relacionado con la capacidad de los tonos opuestos de repeler la luz, está la peculiaridad de que suenen de forma diferente para personas distintas. Por ejemplo, el tono de Odium y su opuesto suenan igual para los humanos, pero para un Fusionado, alguien cuya alma ha sido fuertemente investida por Odium, el tono opuesto suena particularmente desagradable.
+Intrínsecamente, ya que los tonos opuestos suenan igual que sus equivalentes puros, éstos pueden encajar en sus respectivos ritmos. De la misma manera que el tono puro de Honor puede armonizar con su ritmo, también lo puede hacer con su opuesto. Esta canción cargada de Intención es fundamental para la creación de las antiluces.
+
+## Luces puras
+Existen tres luces primarias o «puras» en el sistema roshariano, una para cada Esquirla.
+
+  "Luz tormentosa"
+### Luz tormentosa
+Para más información, ver [[Luz tormentosa\|luz tormentosa]].
+La luz de Honor ha sido una parte esencial de la vida en Roshar, tanto literalmente por ser la energía renovadora y reparadora que aporta a la flora y fauna del planeta, como en sentido figurado, por las diferentes formas en que las personas la utilizan en su vida diaria. Es suministrada principalmente a través de las altas tormentas y brilla con un constante color blanco combinado con un sutil, casi imperceptible, color azul. Cuando su luz es refractada a través de un prisma produce un arcoíris con una banda azul mayor de lo habitual. Cuando es absorbida y retenida por un potenciador mejora sus movimientos y capacidades. La luz tormentosa, la luz de Honor, tiene un ritmo majestuoso.
+
+  "Luz de Rasan"
+### Luz del vacío
+Para más información, ver [[Luz del vac%C3%ADo\|luz del vacío]].
+Históricamente, la luz de Odium solo llegaba a Roshar durante las Desolaciones, cuando Odium (o en el caso de la Falsa Desolación, [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]) la suministraba directamente a sus sirvientes, siempre que cantaran la canción de plegaria. Desde la llegada de la tormenta eterna, la luz de vacío se puede obtener con mucha más facilidad, aunque parece que las gemas no la absorben de forma natural como sucede con la luz tormentosa durante las altas tormentas. Al igual que la luz tormentosa, puede ser almacenada en gemas y se disipa mucho más lentamente, y probablemente esto sea el origen de la creencia de Szeth de que los Portadores del Vacío pueden contener luz tormentosa (en realidad, luz del vacío) indefinidamente.
+La luz del vacío brilla con un distintivo resplandor violeta oscuro descrito como "hipervioleta", probablemente el término roshariano o alezi para el ultravioleta o un color imposible. Cuando su luz se divide a través de un prisma, se produce un arcoíris con una "enorme" banda violeta, empequeñeciendo a los demás colores. Cuando es absorbida y retenida, la luz de Odium aviva las emociones, aunque al menos en los cantores no infunde todo su cuerpo como sí hace la luz tormentosa, si no que se almacena en su gema corazón. Su ritmo es "caótico, pero con cierta lógica".
+
+  "Luz de Koravari"
+### Luz de vida
+La luz de vida, o luz de Cultivación, es quizás la más rara de las tres luces puras. Parte de ella la podemos encontrar en el [[Valle\|Valle]], en forma de neblina verde. [[Lift\|Lift]] tiene la capacidad única de producirla mediante el metabolismo de alimentos, pero actualmente no se conocen otras formas de obtenerla. Parece muy similar a la luz tormentosa, una luz con un blanco casi puro, pero donde la luz tormentosa tiene un sutil tono azulado, la luz de vida lo tiene verde. Cuando su luz se refracta a través de un prisma se produce un arcoíris con una banda verde mayor que las demás. Su ritmo es fuerte y picado según avanza. La luz de vida comparte con la luz tormentosa su efecto en las plantas aunque en un grado superior, estimulando su crecimiento cuando se combina con el ritmo apropiado.
+
+## Luces híbridas
+Además de las luces «puras» de Roshar, existen luces híbridas creadas a partir de la combinación de dos luces puras. Los métodos para crear estos híbridos varía ligeramente, pero en esencia se necesitan Investidura, tonos y ritmos apropiados.
+
+### Luz de torre
+La luz de torre es la sustancia misma del spren conocido como el [[Hermano\|Hermano]] y, como hijo de Honor y Cultivación, la luz de torre es producto de la unión de las Investiduras, tonos y ritmos de estas dos Esquirlas. Solo puede ser creada por el [[Hermano\|Hermano]] y su [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]], aunque el encarcelamiento de [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] los hizo incapaces de producir poco más que pequeñas cantidades, lo suficiente para alimentar solo a los [[Fabrial\|fabriales]] más esenciales de [[Urithiru\|Urithiru]]; una circunstancia que parece resuelta cuando [[Navani Kholin\|Navani Kholin]] se convierte en la Forjadora de Vínculo del Hermano. Un factor clave en la creación de luz de torre es la capacidad del Hermano de escuchar las canciones de sus padres: la de Cultivación, que puede escuchar y cantar por sí mismo, y la de Honor, que Navani tiene que proporcionarle. Debido a esto no está claro si el Hermano está realmente «sanado» o perdiendo su vínculo, y por ende también Navani, lo que conllevaría a perder de nuevo la luz de torre.
+En apariencia, la luz de torre se parece tanto a la luz tormentosa como a la luz de vida, ya que brilla con un suave tono verde azulado. Cuando se divide a través de un prisma, produce dos arcoíris, uno con una banda azul y otro con una banda verde más ancha. El ritmo de la luz de torre, el Ritmo de la Torre, evoca "la energía sin límites de Cultivación, siempre creciente y cambiante, y la calmada solidez de Honor, organizada, estructurada". Se desconocen los efectos psicológicos de absorber luz de torre.
+
+### Luz de guerra
+A diferencia de la luz de torre, que ha sido conocida por cantores y humanos por milenios (incluso si este conocimiento prácticamente se perdió en Roshar tras la [[Traici%C3%B3n\|Traición]]), la luz de guerra, el híbrido de la luz de Honor y Odium, es un descubrimiento reciente, uno que incluso reconocidos eruditos cantores como [[Rabeniel\|Rabeniel]] pensaban que era imposible. Durante la ocupación de Urithiru, Navani descubrió que un humano y un cantor (o al menos, ella y Rabeniel) pueden crear luz de guerra al permitir que luz tormentosa y luz del vacío se combinen en una gema que vibra al Ritmo de la Guerra, un ritmo creado por la armonía de Navani cantando la canción de Honor y Rabeniel cantando la de Odium, un ritmo que la Fusionada no sabía que existía, y cuya influencia en las emociones cree que serán de un interés particular para [[El\|El]]. Es aparentemente imposible crear luz de guerra sin la participación tanto de un humano como de un cantor.
+La luz de guerra brilla con un intenso color negro azulado y su ritmo es una explosión caótica de notas limitado por un regular y ordenado pulso. Cuando es contenida en una gema, puede verse oscilar la luz entre espirales como una tormenta y después caer en una pacífica calma.
+
+### Odium y Cultivación
+La existencia de una luz híbrida de Odium y Cultivación no ha sido confirmada, pero [[Venli\|Venli]] armoniza con éxito el ritmo de ambas Esquirlas, por lo que es probable que exista su luz correspondiente.
+
+## Antiluces
+Se sabe que la materia física tiene una contraparte conocida como , materia formada por antipartículas que comparte múltiples propiedades con la materia común pero algunas de ellas se manifiestan de forma opuesta (por ejemplo, un protón y un antiprotón tienen la misma masa pero cargas eléctricas y momentos magnéticos opuestos). Rabeniel describe ésto en términos de ejes con polaridades opuestas. En el Cosmere, existe una relación similar entre la Investidura y la anti-Investidura. La anti-Investidura o, en el caso concreto de Roshar, la antiluz existe de distintas formas, donde cada una de ellas comparte propiedades con su correspondiente luz ordinaria, además de mostrar otras de forma contraria. En particular, si una luz y su antiluz entran en contacto, se aniquilarán la una a la otra de forma natural y la reacción es aún más violenta cuando ambas se juntan bajo presión, como, por ejemplo, dentro de una gema. Esto ocurre cuando cualquier Investidura y anti-Investidura entran en contacto, aunque la explosión es menor si ambas no son de la misma Esquirla.
+La antiluz comparte la mayoría de las propiedades físicas y mágicas con la luz: brilla en el espectro físico (aunque a diferencia de las luces corrientes, parece deformar el aire a su alrededor, casi como si estuviera atrayendo luz en vez de emitiéndola), puede ser almacenada en gemas, responde al sonido y a la vibración, y tiene Intención. Un aspecto en el que difiere de la luz corriente, o al menos de los tonos puros, es que requiere Intención para ser creada, una propiedad que también tienen las luces híbridas. El único método conocido para crear antiluz requiere amortiguar la vibración natural de su luz correspondiente, aislandola del tono puro de su Esquirla, y reescribiéndolo con un tono diferente, uno que ha sido invertido con Intención. Una forma de hacer esto consiste en poner la luz ordinaria en el vacío y permitir que se acerque a una gema que se ha hecho vibrar al tono de la antiluz deseada, el tono opuesto de la luz ordinaria.
+De la misma forma que diferentes especies pueden escuchar o sentir la vibración natural de cada luz, la antiluz también puede detectarse, y aunque su canción no es físicamente audible sí que tiene un efecto mágico. Por ejemplo, a los humanos la canción de la antiluz del vacío les suena igual que la canción de la luz del vacío (el tono de Odium yendo a su ritmo), pero para un Fusionado, cuya almas está llena de la propia Investidura de Odium, la canción de la antiluz del vacío no solo suena diferente si no que le provoca un intenso dolor, parecido a lo que siente cuando escucha el tono opuesto de Odium, pero mucho peor. El tipo de Investidura a la que está vinculada una antiluz también puede influir en su reacción a los tipos de Investidura, aunque esto sólo puede alterar la intensidad de la explosión causada.
+
+### Antiluz del vacío
+La antiluz del vacío fue la primera antiluz que se descubrió en Roshar, y fue descubierta por el rey [[Gavilar Kholin\|Gavilar Kholin]] poco antes de su muerte. Su investigación sobre las luces de Roshar y la capacidad para transportar luz entre planetas dentro del mismo sistema le permitió hacerse con una esfera de antiluz del vacío, que le dio a Szeth momentos antes de morir. La esfera, y la antiluz que contenía, finalmente llevan a [[Navani\|Navani]] a descubrir cómo crear antiluz.
+La antiluz del vacío brilla suavemente con un tono negro y violeta que parece deformar el aire a su alrededor. Su tono, y su canción, suenan idénticos a los de la luz del vacío, pero provocan una reacción adversa en los Fusionados, y, probablemente, en otras criaturas fuertemente investidas por Odium, como los vacíospren. Cuando entra en contacto con el alma de dicha criatura, la antiluz del vacío reacciona con violencia con la luz del vacío allí almacenada, lo que resulta en una muerte permanente.
+
+### Antiluz tormentosa
+La antiluz tormentosa fue descubierta por Rabeniel poco después de que Navani descubriera la antiluz del vacío. En muchos sentidos, la antiluz tormentosa se comporta de forma simétrica a la antiluz del vacío, excepto en que la antiluz del vacío tiene un efecto destructivo en los seres investidos por Odium, y la antiluz tormentosa tiene esos efectos en seres investidos por Honor, como los spren Radiantes. Utilizando armas de [[Raysio\|raysio]], la antiluz tormentosa es capaz de matar spren radiantes, lo que hace que se rompa el vínculo entre spren y su Radiante.
+
+### Otras anti-Investiduras
+Desconocemos si las luces híbridas o las Esquirlas que no están en el sistema roshariano tienen anti-Investiduras propias. [[Khriss\|Khriss]] afirma que, aunque se ha teorizado durante mucho tiempo, las antiluces son la primera evidencia que tiene de anti-Investidura.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] ·  ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Lights

@@ -1,11 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Gys**|
 |-|-|
-|**World**|[[Nalthis\|Nalthis]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo**|[[Nalthis\|Nalthis]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Gys** was a nation on [[Nalthis\|Nalthis]] that fought in the [[Manywar\|Manywar]]. When [[Peacegiver\|Peacegiver]] seized control of [[Hallandren\|Hallandren]], his own country, Gys was brought out of the conflict as the Manywar ended.
-It is possible that Gys was part of the [[Pahn Unity\|Pahn Unity]], the coalition of nations that fought against Hallandren during the Manywar.
+**Gys'** fue una nación de [[Nalthis\|Nalthis]] que luchó en [[La Multiguerra\|la Multiguerra]]. Cuando [[Dalapaz\|Dalapaz]] tomó el control de [[Hallandren\|Hallandren]], su propio país, Gys fue sacada del conflicto al terminar la Multiguerra.
+Es posible que Gys formara parte de la [[Unidad Pahn\|Unidad Pahn]], la coalición de naciones que luchó contra Hallandren durante la Multiguerra.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 00:47, 29 de Mayo de 2016 (MST)
+|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
+|-|-|
+|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
+|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
+|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
+|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
 
 
 
-https://coppermind.net/wiki/Gys
+https://es.coppermind.net/wiki/Gys

@@ -1,14 +1,27 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tesuaka Tatomi**|
 |-|-|
-|**Profession**|Painter|
-|**Groups**|[[Nightmare Division\|Nightmare Division]], [[Dreamwatch\|Dreamwatch]]|
-|**Nationality**|[[Nagadan\|Nagadan]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Pintor|
+|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎, [[Guardia del Sue%C3%B1o\|Guardia del Sueño]]🐱︎|
+|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Tesuaka Tatomi** is a full [[Dreamwatch\|Dreamwatch]] member from [[Nagadan\|Nagadan]], and the daughter of a senator.
-Tesuaka's team was summoned to [[Kilahito\|Kilahito]] from [[Jito\|Jito]] after [[Tojin\|Tojin]] reported a stable [[Nightmare\|nightmare]] previously encountered by [[Nikaro\|Nikaro]]. After their arrival, Nikaro attempted to warn them of an incoming army of stable nightmares, and Tesuaka mistook his knock at the door to be a delivery of ordered barbecue. Tesuaka was initially dismissive of Nikaro, but after the painter's continued insistence she paused her game of ping pong to cajole him with praises that he could one day join the Dreamwatch. Tesuaka was forced to seek alternative employment after the Dreamwatch disbanded.
+**Tesuaka Tatomi** es una miembro de pleno derecho de la [[Guardia del Sue%C3%B1o\|Guardia del Sueño]] de [[Nagadan\|Nagadan]] e hija de un senador.
+El equipo de Tesuaka fue convocado a [[Kilahito\|Kilahito]] desde [[Jito\|Jito]] después de que [[Tojin\|Tojin]] informase de una [[Pesadilla\|pesadilla]] estable encontrada previamente por [[Nikaro\|Nikaro]]. Tras su llegada, Nikaro intentó advertirles de la llegada de un ejército de pesadillas estables y Tesuaka confundió su llamada a la puerta con una entrega de un pedido de barbacoa. Al principio, Tesuaka se mostró reacia con Nikaro, pero tras la continua insistencia del pintor, hizo una pausa en su partida de ping pong para engatusarle con elogios y decirle que algún día podría unirse a la Guardia del Sueño. Tesuaka se vio obligada a buscar otro empleo tras la disolución de la Guardia del Sueño.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Tesuaka_Tatomi
+https://es.coppermind.net/wiki/Tesuaka_Tatomi

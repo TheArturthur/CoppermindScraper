@@ -1,14 +1,14 @@
 |**Loradar Vamah**|
 |-|-|
-|**Family**|
-|**Relatives**|[[Kalanor\|Kalanor]], [[Paladar\|Paladar]]|
-|**Ancestors**|[[Sadees\|Sadees]]|
-|**Died**|Killed by the [[Ghostblood\|Ghostbloods]]|
-|**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]]|
-|**Groups**|[[Sons of Honor\|Sons of Honor]]|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Parientes**|[[Kalanor\|Kalanor]], [[Paladar\|Paladar]]|
+|**Ancestros**|[[Sadees\|Sadees]]|
+|**Fallecido**|Killed by the |
+|**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alethkar\|Alethkar]]|
+|**Grupo**|[[Sons of Honor\|Sons of Honor]]🐱︎|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
 >“*I take your point. No need to keep bashing the rock into my face.*”
 \-Vamah to Dalinar[5]
@@ -16,19 +16,19 @@
 
 **Loradar Vamah** is a [[Highprince\|highprince]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] His lands contain a region in the northwest of Alethkar, but Vamah himself resides on the [[Shattered Plains\|Shattered Plains]] in the [[Unclaimed Hills\|Unclaimed Hills]]. An eager participant in the contests for gemhearts on the Shattered Plains, Vamah remains neutral in the conflict between Houses [[House Kholin\|Kholin]] and [[Sadeas princedom\|Sadeas]] and controls territory surrounding the warcamps following the advent of the [[Everstorm\|Everstorm]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2.1 Elevation to Highprince
-2.2 War of Reckoning
-2.3 Expedition to Narak
-2.4 Following the Everstorm
-2.5 Assassination
+2. [[#Elevation to Highprince]] 
+2. [[#War of Reckoning]] 
+2. [[#Expedition to Narak]] 
+2. [[#Following the Everstorm]] 
+2. [[#Assassination]] 
 
 
-3 Notes
+3 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -37,10 +37,10 @@ Vamah is generally an agreeable man, who only rarely is subject to foul-moods. H
 
 ## History
 ### Elevation to Highprince
-Loradar Vamah was born the minor cousin of Highprince [[Kalanor\|Kalanor]] of Alethkar. During the [[Alethi reunification\|Alethi reunification]], Kalanor was killed in battle by [[Dalinar Kholin\|Dalinar Kholin]], ending his line and allowing Vamah to seize control of the princedom. He and Gavilar had an understanding and he swore fealty to Gavilar shortly thereafter. As a result Vamah was rewarded with the title of highprince, along with Kalanor's lands to form the new [[Vamah princedom\|Vamah princedom]], including the princedom seat in Revolar and the city of Farcoast. He also kept a local court in his princedom that included House [[Hamaradin\|Hamaradin]].
+Loradar Vamah was born the minor cousin of Highprince [[Kalanor\|Kalanor]] of Alethkar. During the , Kalanor was killed in battle by [[Dalinar Kholin\|Dalinar Kholin]], ending his line and allowing Vamah to seize control of the princedom. He and Gavilar had an understanding and he swore fealty to Gavilar shortly thereafter. As a result Vamah was rewarded with the title of highprince, along with Kalanor's lands to form the new , including the princedom seat in Revolar and the city of Farcoast. He also kept a local court in his princedom that included House [[Hamaradin\|Hamaradin]].
 
 ### War of Reckoning
-Following the assassination of Gavilar Kholin in 1167, Vamah joined with the other highprinces in swearing the [[Vengeance Pact\|Vengeance Pact]] against the [[Listeners\|listeners]]. Vamah put out a call to arms, sending out messages over his princedom, to places like Farcoast recruiting a large army. Vamah left his princedom in the hands of his kinsman [[Paladar\|Paladar]], who ruled as regent from Vamah's seat in Revolar. Vamah brought his army out to the western border of the Shattered Plains, setting up a warcamp in one of the craters there between the Kholin and [[Ruthar\|Ruthar]] camps. Over the next six years, Vamah joined in the contests for the gemhearts out on the Shattered Plains, competing both with the listeners and his fellow highprinces for wealth. Vamah's army became one of the strongest on the Plains, and he developed a characteristic style for plateau assaults, preferring to make strategic use of light cavalry. He also regularly attended the king's feasts, often bringing along his own cupbearer with exotic liquors. As the years went on, Vamah began to complain increasingly vocally about paying high wartime rates for access to the king's [[Soulcaster\|Soulcasters]]. The supply of food and raw materials Soulcasters provided allowed Vamah to maintain his army, but he and several others became behind in payments to the king. Nevertheless, Vamah still planned to reinforce the fortifications in his warcamps and fill in gaps in his walls.
+Following the assassination of Gavilar Kholin in 1167, Vamah joined with the other highprinces in swearing the  against the . Vamah put out a call to arms, sending out messages over his princedom, to places like Farcoast recruiting a large army. Vamah left his princedom in the hands of his kinsman [[Paladar\|Paladar]], who ruled as regent from Vamah's seat in Revolar. Vamah brought his army out to the western border of the Shattered Plains, setting up a warcamp in one of the craters there between the Kholin and [[Ruthar\|Ruthar]] camps. Over the next six years, Vamah joined in the contests for the gemhearts out on the Shattered Plains, competing both with the listeners and his fellow highprinces for wealth. Vamah's army became one of the strongest on the Plains, and he developed a characteristic style for plateau assaults, preferring to make strategic use of light cavalry. He also regularly attended the king's feasts, often bringing along his own cupbearer with exotic liquors. As the years went on, Vamah began to complain increasingly vocally about paying high wartime rates for access to the king's . The supply of food and raw materials Soulcasters provided allowed Vamah to maintain his army, but he and several others became behind in payments to the king. Nevertheless, Vamah still planned to reinforce the fortifications in his warcamps and fill in gaps in his walls.
 In late 1173, Vamah was invited by highprinces [[Dalinar\|Dalinar]] and [[Torol Sadeas\|Torol Sadeas]] to accompany King [[Elhokar\|Elhokar]] on the [[Chasmfiend\|chasmfiend]] hunt. The only one of the group who lacked [[Shardbearer\|Shards]], Vamah brought along a group of attendants and aids to accompany him on the hunt in an elaborate procession. On the way out to the hunt, he was annoyed at the cautious pace they took in crossing the Plains. Following the [[Chasmfiend\|chasmfiend]] attack, Vamah was approached by Sadeas, who informed him that he would be doubling the prices of lumber from the nearby forest. Soon afterward, Vamah complained to Dalinar of the slow progress back to the warcamps. Dalinar bluntly brought the conversation around to the topic of Soulcasters and Vamah's planned construction projects, emphasizing Vamah's reliance on the king for resources. Vamah told Dalinar that he understood the point he was making. Weeks later, Vamah and his retinue attended a duel between [[Adolin Kholin\|Adolin Kholin]] and [[Resi\|Resi]]. Vamah wore an unfashionable outfit of a grey coat that was rent with slashes over bright orange silks with ruffles at the cuffs and collar. He sat directly across the arena from Dalinar and Sadeas, who quietly mocked Vamah's fashion sense.
 
 ### Expedition to Narak
@@ -53,6 +53,24 @@ Even after news returned of the Alethi victory, Vamah remained at the warcamps a
 Vamah at some stage became associated with the Sons of Honor. The [[Ghostbloods\|Ghostbloods]] began to assassinate the leadership of the Sons of Honor starting with Thanadal. Seeing this he tried to flee but, soon after Ialai Sadeas came back to the warcamps, the Ghostbloods assassinated him anyway.
 The Kholins used to think that Ialai was the one who ordered Vamah and Thanadal to be assassinated. But, moments from her death, Ialai told [[Shallan\|Shallan]] that the [[Ghostbloods\|Ghostbloods]] were the ones who actually assassinated the two Highprinces.
 
+## Notes
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Loradar_Vamah
+
+https://es.coppermind.net/wiki/Loradar_Vamah

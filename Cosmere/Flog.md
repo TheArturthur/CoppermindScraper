@@ -1,24 +1,49 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Flog**|
 |-|-|
-|**Died**|342 [[Catacendre\|PC]]|
-|**Profession**|Bodyguard|
-|**Residence**|[[Elendel\|Elendel]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**|342 [[Catacendro\|PC]]|
+|**Oficio**|Guardaespaldas|
+|**Residencia**|[[Elendel\|Elendel]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Flog** is one of [[Winsting Innate\|Winsting Innate's]] bodyguards in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
+**Flog** es uno de los guardaespaldas de [[Winsting Innate\|Winsting Innate]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 
-## Appearance and Personality
->“*He’s watching us. The mists are His eyes, my lord. Sure as Ruin, that is.*”
+## Apariencia y personalidad
+>“*Está vigilándonos. Las [[Brumas\|nieblas]] son sus ojos, mi señor. Voto a [[Ruina\|Ruina]] que es cierto.*”
 \-Flog[1]
 
 
-Although Flog has never been outside of the [[Elendel Basin\|Elendel Basin]], he wears a style of hat and duster commonly seen in the [[Roughs\|Roughs]]. Unlike his employer, Flog believes that the [[Mist\|mists]] have supernatural properties and sometimes tries to avoid them. Flog is loyal and obedient, although this is partially due to Winsting's [[Rioter\|Rioting]] abilities.
+Aunque Flog nunca ha salido de la [[Cuenca de Elendel\|Cuenca de Elendel]], lleva un estilo de sombrero y guardapolvo que se suele ver en los Áridos. A diferencia de su jefe, Flog cree que las [[Brumas\|brumas]] tienen propiedades sobrenaturales y a veces intenta evitarlas. Es leal y obediente, aunque esto se debe en parte a las habilidades de [[Encendedor\|encendido de emociones]] de Winsting.
 
-## History
-Flog was present for [[Winsting Innate's auction\|Winsting Innate's auction]]; he was the presumptive leader of Winsting's security team. He was always at Winsting's side, and was described as an excellent bodyguard. He was charged with monitoring the guest list for the auction and checking into each person's background, due to the illicit activity that was going to occur. There was one guest at the party—a slender blond woman accompanying [[Dowser Maline\|Dowser Maline]]—that Winsting did not recognize, and Flog was baffled by her presence.
-When gunfire suddenly erupted, Flog reacted quickly and led Winsting to his basement saferoom. Flog then went back upstairs to investigate. Winsting let him into the saferoom when he returned, and Flog reported that everyone was dead. As Winsting tried to figure out what to do next, his throat was slit and he died. Although Winsting did not see the assailant, Flog was the only other person in the room. [[Bleeder\|Bleeder]], a [[Kandra\|kandra]] who was the unknown guest, had killed Flog upstairs and shapeshifted into his form in order to gain access to Winsting.
+## Historia
+Flog estuvo presente en la subasta de [[Winsting Innate\|Winsting Innate]]; era el presunto líder del equipo de seguridad de Winsting. Siempre estaba al lado de su jefe, y se le describía como un excelente guardaespaldas. Se encargó de controlar la lista de invitados a la subasta y de comprobar los antecedentes de cada persona, debido a la actividad ilícita que iba a tener lugar. Había una invitada a la fiesta -una mujer rubia y delgada que acompañaba a [[Dowser Maline\|Dowser Maline]]- que Winsting no reconocía, y Flog estaba desconcertado por su presencia.
+Cuando de pronto se produjeron disparos, Flog reaccionó rápidamente y condujo a Winsting a la sala de seguridad de su sótano. Flog volvió a subir a investigar. Winsting le dejó entrar en la cámara acorazada cuando regresó, y Flog informó de que todos estaban muertos. Mientras Winsting intentaba averiguar qué hacer a continuación, le cortaron la garganta y murió. Aunque Winsting no vio al asaltante, Flog era la única persona que se encontraba en la sala. [[Sangradora\|Sangradora]], una [[Kandra\|kandra]] que era la invitada desconocida, había matado a Flog en el piso de arriba y se había convertido en él para poder llegar hasta Winsting.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 00:07, 10 January 2020 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Flog
+https://es.coppermind.net/wiki/Flog

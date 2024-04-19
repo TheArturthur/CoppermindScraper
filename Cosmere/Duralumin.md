@@ -1,71 +1,93 @@
-|**Duralumin**|
+
+
+|**Duraluminio**|
 |-|-|
 |||
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Allomancy**|
-|**Power**|Flare and expend one's own Allomantic metals|
-|**Type**|Internal, Pushing, Enhancement|
-|**Misting**|Duralumin Gnat|
-|**Feruchemy**|
-|**Power**|Store [[Connection\|Connection]]|
-|**Type**|Spiritual|
-|**Ferring**|Connector|
-|**Hemalurgy**|
-|**Power**|Steal [[Connection\|Connection]] and [[Identity\|Identity]]|
-|**Type**|Spiritual|
+||
+|**[[Alomancia\|Alomancia]]**|
+|**Poder**|Combustiona y expande el poder propio de los metales alomanticos.|
+|**Tipo**|Interno, Empuje, Mejora|
+|**Brumoso**|Mosquito de Duraluminio|
+|**[[Feruquimia\|Feruquimia]]**|
+|**Poder**|Almacena [[Conexi%C3%B3n\|Conexión]]|
+|**Tipo**|Espiritual|
+|**Ferrin**|Conector|
+|**[[Hemalurgia\|Hemalurgia]]**|
+|**Poder**|Roba [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]]|
+|**Tipo**|Espiritual|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Duralumin** is the internal enhancement pushing metal. An Allomancer burning duralumin is able to greatly enhance other metals they are burning by releasing all of the power of the metals at once instead of over time. Feruchemists can use duralumin to store [[Connection\|Connection]], and when used as a Hemalurgic spike, duralumin steals Connection and [[Identity\|Identity]].
-Duralumin is the alloy paired with [[Aluminum\|aluminum]] in the Metallic Arts.
+El **duraluminio** es el metal de empuje interno mejorador. Un alomante que quema duraluminio es capaz de aumentar enormemente el efecto de los demás metales que esté quemando. Los feruquimistas pueden usar el duraluminio para almacenar [[Conexi%C3%B3n\|Conexión]], y cuando se usa como clavo hemalúrgico, el duraluminio roba Conexión e [[Identidad\|Identidad]].
+El duraluminio es la aleación pareja del [[Aluminio\|aluminio]] en las Artes Metálicas.
 
-## Contents
+## Sumario
 
-1 Alloy Composition
-2 Allomantic Use
-3 Feruchemical Use
+1 Composición de la Aleación. [[#Composici.C3.B3n de la Aleaci.C3.B3n]] 
+2 Uso alomántico. [[#Uso alom.C3.A1ntico]] 
+3 Uso feruquímico. [[#Uso feruqu.C3.ADmico]] 
 
-3.1 Compounding
-
-
-4 Hemalurgic Use
-5 History
-6 Trivia
-7 Notes
+3. [[#Hibridaci.C3.B3n]] 
 
 
-## Alloy Composition
-The duralumin used in the Metallic Arts is ninety-six percent aluminum, four percent [[Copper\|copper]].
-
-## Allomantic Use
-A duralumin [[Misting\|Misting]] is known as a **Duralumin Gnat**. An Allomancer burning duralumin instantly uses up any metals being burned simultaneously, releasing an enormous burst of power from those metals. Due to this, the more metal they have on them upon burning duralumin, the greater the burst of power. Duralumin itself is not completely consumed like metals it is burned in concert with, but it still continues to burn away at a steady rate. A Duralumin Gnat gains nothing from their powers.
-The use of duralumin could seriously hurt a Mistborn. While burning [[Tin\|tin]], the Mistborn risks being shocked by the sensory overload and becoming temporarily numb, blind, and deaf. A [[Steel\|Push]] or [[Iron\|Pull]] could become so strong it can feel like the Mistborn is being torn apart. When using duralumin, Mistborn usually burn pewter along with tin/iron/steel to avoid injuries.
-When combined with emotional Allomancy, duralumin allows Allomancers to "break into" and gain control of Hemalurgic constructs such as kandra and koloss, even if they would not normally have enough raw power to do so.
-Duralumin could potentially be used to gain a burst of power from other forms of [[Investiture\|Investiture]] as well, such as [[Surgebinding\|Surgebinding]]. Burning duralumin while also [[Compounding\|Compounding]] any other metal does not gain anything other than time, and is quite dangerous due to the swift effects of the duralumin.
-
-## Feruchemical Use
-A duralumin [[Ferring\|Ferring]] is known as a **Connector**. Duralumin is used to store Spiritual [[Connection\|Connection]]. Filling a duraluminmind can be used to reduce other people's awareness of and friendship with the Connector, as these Spiritual Connections become stored away. Tapping it would strengthen Connections or allow the Connector to form relationships faster.
-[[Southern Scadrian\|Southern Scadrians]] use [[Unsealed metalminds\|unsealed]] duraluminminds to enable them to communicate with others on foreign lands. They still retain their native accent when doing so, though someone could develop a local accent by blanking their [[Identity\|Identity]]. This ability can be used on other planets, though it does not grant the ability to travel between worlds. Tapping a duraluminmind would also allow someone to overcome the location restriction on [[Sel\|Selish]] Invested Arts; for example, an [[Elantrian\|Elantrian]] could use [[Aon\|Aons]] at full power regardless of location, though there are also easier ways to achieve this. It could also allow a person to become a squire to multiple Orders of [[Knights Radiant\|Knights Radiant]], though there are, again, easier ways.
-A duraluminmind would be able to interpret [[Rhythm\|rhythms]], albeit not very accurately.
-
-### Compounding
-A duralumin [[Compounding\|Compounder]] would be able to use duralumin to have a nearly infinite supply of Spiritual Connection. The Compounder would be able to put a [[Hemalurgic\|Hemalurgic]] creature under complete control, similar to what [[Brass\|Soothers]] and [[Zinc\|Rioters]] can do.
-
-## Hemalurgic Use
-When used as a Hemalurgic spike, duralumin steals [[Connection\|Connection]] and [[Identity\|Identity]].
-
-## History
-During the [[Final Empire\|Final Empire]], the [[Lord Ruler\|Lord Ruler]] kept [[Aluminum\|aluminum]] and its alloy duralumin from public knowledge to give the [[Inquisitors\|Inquisitors]] an advantage. Aluminum and duralumin were also unknown to people due to the advanced technology (electrolysis) required to refine it. Without that technology, the Lord Ruler acquired small amounts of aluminum from ashmounts.
-[[Vin\|Vin]], after being fed aluminum by the Inquisitors, figured there should be an alloy for it, too. Despite the risk to herself, she tested out various alloys of aluminum with [[Terion\|Terion's]] help, and eventually discovered an alloy that didn't cause sickness when burned -- duralumin. However, since she wasn't burning any other metal at the same time, the duralumin seemed to generate no effect. Later, while sparring with [[Zane\|Zane]], Vin was stunned to find out the effect of duralumin.
-She carefully kept the secret of duralumin and used it to great advantage on several occasions later in combination with both physical and mental Allomancy. [[TenSoon\|TenSoon]] and Zane eventually found out about duralumin, however, allowing Zane to use it against her.
-Duralumin became Allomantically useless in practice over the centuries after the [[Catacendre\|Catacendre]] due to the fading away of Mistborn, though the Southern Scadrians made Feruchemical use of it in their unsealed metalminds. Duralumin's great power has essentially faded into myth. It is primarily associated with the Ascendent Warrior, and only recognized as a thing of scripture.
-However, knowledge of it was not lost even in the North; it eventually became commonplace with the development of the right metallurgical processes, and once the [[Set\|Set]] began working with Hemalurgy, it became relevant again to specific people. The Set gave [[Dumad\|Dumad]] a spike for duralumin Allomancy, which he used effectively in combination with Steelpushing.
-After Dumad's death, [[Wax\|Wax]] used the spike on himself and used his newly duralumin-enhanced Steelpushing to reach the [[Pewternaut\|Pewternaut]] A16. [[Wayne\|Wayne]] then became Mistborn by burning [[Lerasium\|lerasium]] and used duralumin with [[Bendalloy\|bendalloy]] in order to prematurely detonate the bomb on board the ship, which required precise timing that would have been impossible to achieve otherwise.
-
-## Trivia
- is a real alloy of aluminum, and is fairly common.
-If Vin hadn't had duralumin in the fight at the [[Luthadel Assembly\|Luthadel Assembly]] meeting, both she and [[Elend\|Elend]] would have died.
-An alternative ending to *The Well of Ascension* has a conversation about duralumin between Vin and [[Elend\|Elend]].
-Brandon had [[Elend\|Elend]] burn both duralumin and [[Atium\|atium]] at the [[Battle of Hathsin\|Battle of Hathsin]] because a lot of people had asked about the combination.
+4 Uso Hemalúrgico. [[#Uso Hemal.C3.BArgico]] 
+5 Historia. [[#Historia]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Duralumin
+## Composición de la Aleación
+El duraluminio usado en las Artes Metálicas es noventa y seis por ciento aluminio y cuatro por ciento [[Cobre\|cobre]].
+
+## Uso alomántico
+Un brumoso de duraluminio es conocido como un **mosquito de duraluminio**. Un alomante que quema duraluminio gasta instantáneamente cualquier metal que se esté quemando simultáneamente, liberando un enorme estallido de poder de esos metales. Debido a esto, cuanto más metal lleven al quemar duraluminio, mayor será la explosión de poder. El duraluminio en sí mismo no es completamente consumido como ocurre con lo metales que se queman en conjunto a él, aunque este sigue quemándose a un ritmo constante. Un mosquito de duraluminio no obtiene ningún beneficio de sus poderes.
+El uso del duraluminio podría lastimar seriamente a un [[Nacidos de la bruma\|nacido de la bruma]]. Mientras quema estaño, el nacido de la bruma se arriesga a ser conmocionado por la sobrecarga sensorial y quedarse temporalmente aturdido, cegado o incluso ensordecido. Un empujón o un tirón podría llegar a ser tan fuerte que el nacido de la bruma lo sentiría como si lo estuvieran haciendo pedazos. Cuando usan duraluminio, los nacidos de la bruma suelen quemar peltre junto con estaño/hierro/acero para evitar heridas.
+Cuando se combina con alomancia emocional, el duraluminio permite a los alomantes “entrar por la fuerza” y ganar control de constructos hemalúrgicos como los kandra y los koloss, incluso si regularmente no tienen suficiente poder bruto para hacerlo.
+El duraluminio potencialmente también podría ser usado para ganar un estadillo de poder de otras formas de [[Investidura\|Investidura]], como la [[Potenciaci%C3%B3n\|potenciación]]. Al quemar duraluminio mientras se [[Hibridaci%C3%B3n\|composiciona]] algún otro metal no se consigue nada más que tiempo, y es bastante peligroso debido a los rápidos efectos del duraluminio.
+
+## Uso feruquímico
+Un [[Ferrin\|ferrin]] de duraluminio es conocido como conector. El duraluminio se usa para almacenar [[Conexi%C3%B3n\|Conexión]] Espiritual. Llenar una menteduraluminio puede usarse para reducir la conciencia de la amistad de otra gente con el conector, ya que estas Conexiones Espirituales quedan almacenadas. Decantarla fortalecería Conexiones o permitiría al conector formar relaciones más rápido.
+Los [[Scadriano del sur\|scadrianos del sur]] usan menteduraluminios [[Mente de metal liberada\|sin sellar]] para permitirles comunicarse con gente de tierras extranjeras. Aún mantienen su acento nativo mientras lo hacen, aunque alguien podría desarrollar un acento local vaciando su [[Identidad\|Identidad]]. Esta habilidad se puede usar en otros planetas, aunque no otorga la habilidad de viajar entre mundos. Decantar una menteduraluminio también permitiría a alguién superar las restricciones de localización de las Artes Investidas de [[Sel\|Sel]]; por ejemplo, un [[Elantrino\|Elantrino]] podría usar [[Aon\|aones]] a máxima potencia independientemente de su ubicación, aunque hay maneras más fáciles de conseguir esto. También podría permitir a una persona convertirse en un escudero de múltiples órdenes de [[Caballeros Radiantes\|Caballeros Radiantes]], aunque, nuevamente, hay formas más fáciles de hacerlo.
+Una menteduraluminio sería capaz de interpretar [[Ritmo\|ritmos]], no obstante no lo haría con mucha exactitud.
+
+### Hibridación
+Un [[Hibridaci%C3%B3n\|componedor]] de duraluminio sería capaz de usarlo para tener una fuente de Conexión Espiritual casi infinita. El componedor podría poner a una criatura [[Hemalurgia\|hemalúrgica]] bajo su control total, de forma similar a lo que los [[Aplacador\|aplacadores]] y [[Encendedor\|encendedores]] pueden hacer.
+
+## Uso Hemalúrgico
+Cuando se usa como clavo hemalúrgico, el duraluminio roba [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]].
+
+## Historia
+Durante el [[Imperio Final\|Imperio Final]], el [[Lord Legislador\|lord Legislador]] mantuvo el [[Aluminio\|aluminio]] y su aleación, el duraluminio, alejado del conocimiento público para darle a los [[Inquisidores\|inquisidores]] una ventaja. El aluminio y el duraluminio también eran desconocidos por la gente debido a la avanzada tecnología (electrolisis) requerida para refinarlo. Sin esa tecnología, el lord Legislador obtuvo pequeñas cantidades de aluminio de los montes de ceniza.
+[[Vin\|Vin]], tras haber ingerido aluminio por culpa de los inquisidores, supuso que debería haber una aleación para él también. A pesar del riesgo que suponía para sí misma, probó varias aleaciones de aluminio con la ayuda de [[Terion\|Terion]], y finalmente descubrió una aleación que no la enfermaba cuando lo quemaba, duraluminio. Sin embargo, dado que no estaba quemando ningún otro metal al mismo tiempo, el duraluminio pareció no provocar ningún efecto. Más tarde, mientras entrenaba con [[Zane\|Zane]], Vin fue aturdida al encontrar el efecto del duraluminio.
+Ella mantuvo cuidadosamente el secreto del duraluminio y lo usó a posteriori para obtener gran ventaja en varias ocasiones en combinación con ambas la alomancia física y emocional. Sin embargo, [[TenSoon\|TenSoon]] y Zane acabaron por descubrir el duraluminio, permitiendo que Zane lo usara contra ella.
+El duraluminio se volvió alománticamente inútil en la práctica durante los siglos posteriores al [[Catacendro\|Catacendro]] debido al debilitamiento de los nacidos de la bruma, aunque los scadrianos del sur hicieron un uso feruquímico de él en sus mentes metálicas liberadas. El gran poder del duraluminio se ha desvanecido esencialmente en el mito. Se asocia principalmente con la Guerrera Ascendente, y sólo se reconoce como una cosa de las escrituras.
+Sin embargo, su conocimiento no se perdió ni siquiera en el norte; con el tiempo se hizo común con el desarrollo de los procesos metalúrgicos adecuados, y, una vez que [[El Grupo\|el Grupo]] empezó a trabajar con la hemalurgia, volvió a ser relevante para personas concretas. El Grupo dio a [[Dumad\|Dumad]] un clavo para duraluminio alomántico, que utilizó eficazmente en combinación con el empuje del acero.
+Tras la muerte de Dumad, [[Wax\|Wax]] usó el clavo en sí mismo y utilizó su empuje de acero mejorado con duraluminio para llegar al [[Peltrenauta\|Peltrenauta]] A16. [[Wayne\|Wayne]] se convirtió entonces en nacido de la bruma al quemar [[Lerasium\|lerasium]] y utilizó duraluminio con [[Bendaleo\|bendaleo]] para detonar prematuramente la bomba a bordo de la nave, lo que requería una sincronización precisa que habría sido imposible de conseguir de otro modo.
+
+## Curiosidades
+El  es una aleación de aluminio, y es bastante común.
+Si Vin no hubiese tenido duraluminio en la lucha durante la reunión en la [[Asamblea de Luthadel\|Asamblea de Luthadel]], tanto [[Elend\|Elend]] como ella habrían muerto.
+Un final alternativo de *[[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]]* tiene una conversación sobre el duraluminio entre Vin y [[Elend\|Elend]].
+Brandon hizo que [[Elend\|Elend]] quemara duraluminio junto con [[Atium\|atium]] en la [[Batalla de Hathsin\|batalla de Hathsin]] porque mucha gente le había preguntado por la combinación.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
+|-|-|
+|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
+|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
+|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
+|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · |
+|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Duralumin

@@ -1,37 +1,53 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tonk**|
 |-|-|
-|**World of Origin**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo de origen**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Tonks** are domesticated [[Sandling\|sandlings]] used as beasts of burden on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
+Las **tonks** son [[Cavadizo\|cavadizos]] domesticados que se utilizan como bestias de carga en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
 
-## Contents
+## Sumario
 
-1 Appearance and Anatomy
-2 Usage and Behavior
-3 Taxonomy
-4 Trivia
-5 Notes
+1 Apariencia y anatomía. [[#Apariencia y anatom.C3.ADa]] 
+2 Uso y comportamiento. [[#Uso y comportamiento]] 
+3 Taxonomía. [[#Taxonom.C3.ADa]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-## Appearance and Anatomy
-Tonks are quadrupedal. Their heads and the front halves of their bodies are similar in size and shape to a mule, while their hindquarters more closely resemble those of a kangaroo. Their bodies are covered in gray carapace, which is segmented and particularly thick along the top of the body. They have long, thick tails, prominent horns coming out of their heads at various angles, and clawed feet that appear to have opposable thumbs.
-The horns and carapace can be dissolved by water; even a few drops can dissolve most of a horn. As a result of this, they do not drink water and only eat sand in large quantities.
-They always give off a faint sulfurous smell and their flatulence is particularly odorous. [[Khrissalla\|Khrissalla]] suspects that sandlings can somehow metabolize sand, although she does not understand the science behind the process. Their droppings are known as tonk guano.
+## Apariencia y anatomía
+Los tonks son cuadrúpedos. Su cabeza y la mitad delantera de su cuerpo son similares en tamaño y forma a las de una mula, mientras que sus cuartos traseros se asemejan más a los de un canguro. Su cuerpo está cubierto de un caparazón gris, segmentado y especialmente grueso en la parte superior. Tienen cola larga y gruesa, cuernos prominentes que salen de la cabeza en varios ángulos y patas con garras que parecen tener pulgares oponibles.
+Los cuernos y el caparazón pueden disolverse con el agua; incluso unas pocas gotas pueden disolver la mayor parte de un cuerno. Por ello, no beben agua y sólo comen arena en grandes cantidades.
+Siempre desprenden un ligero olor sulfuroso y sus flatulencias son especialmente olorosas. [[Khrissalla\|Khrissalla]] sospecha que los cavadizos pueden metabolizar de algún modo la arena, aunque no comprende la ciencia que hay detrás del proceso. Sus excrementos se conocen como guano de tonk.
 
-## Usage and Behavior
+## Uso y comportamiento
 >“*Riding tonks have very weak minds. Whenever they get confused they assume it's a sandstorm and bury themselves beneath the ground.*”
-\-Kenton, to Khrissalla[6]
+\-Kenton, a Khrissalla[6]
 
-Tonks are often used for transportation in the deserts of [[Dayside\|Dayside]], carrying both riders and supplies. They are weak-minded and easy to lead. Calling someone a tonk in Dayside is considered an insult, presumably because it implies that they are slow-witted.
-When used for riding, they are fitted with a saddle, bridle, and saddlebags. On longer trips through the desert, tonks may be fitted with vessels to carry extra water. Tonks are usually trained to turn or adjust their speed when tapped with a riding mallet on different parts of their carapace; riders may also use reins to help direct them. When they are scared or confused, they tend to bury themselves in the sand with only their horns exposed. Tapping the horns signals the tonk that it is safe to unbury itself. Skilled riders such as [[Aarik\|Aarik]] may be able to prevent tonks from burying themselves when under duress. Tonks are present in hunting camps in the [[Deep sand\|deep sand]], although [[Terha\|terhan]] are preferred for hunts as they are both larger and faster than tonks.
-They are sometimes used by [[Darkside\|Darksiders]] that are visiting Dayside, but this may be rare, as Khrissalla and her team do not appear to be very familiar with their behavior.
+Los tonks se utilizan a menudo para las labores de transporte en los desiertos del [[Lado Diurno\|Lado Diurno]], llevando tanto jinetes como provisiones. Son débiles de mente y fáciles de guiar. Llamar a alguien tonk en Lado Diurno se considera un insulto, presumiblemente porque implica que son lentos de mente.
+Cuando se utilizan para cabalgar, van equipados con silla de montar, brida y alforjas. En los viajes más largos por el desierto, los tonks pueden llevar recipientes para transportar agua. Los tonks suelen estar entrenados para girar o ajustar su velocidad cuando se les golpea con un mazo en diferentes partes de su caparazón. Los jinetes también pueden usar riendas para ayudar a dirigirlos. Cuando están asustados o confusos, tienden a enterrarse en la arena con sólo sus cuernos expuestos. Tocar los cuernos indica al tonk que puede desenterrarse. Los jinetes más hábiles, como [[Aarik\|Aarik]], pueden evitar que los tonks se entierren a sí mismos cuando están bajo presión. Los tonks están presentes en los campamentos de caza en la [[Arena profunda\|arena profunda]], aunque los [[Terha\|terha]] son preferidos para las cacerías ya que son más grandes y más rápidos que los tonks.
+A veces son utilizados por los [[Oscurense\|oscurenses]] que están visitando el Lado Diurno, pero puede ser raro, ya que Khrissalla y su equipo no parecen estar muy familiarizados con su comportamiento.
 
-## Taxonomy
-Tonks are considered part of the sandling family. They have a number of characteristics also seen in terhan and other sandling species, such as horns, water-soluble carapace, and a propensity to bury themselves in sand. It is unknown if there is a relation, natural or bred, between the various sandling species.
+## Taxonomía
+Los tonks se consideran parte de la familia de los cavadizos. Tienen una serie de características que también se ven en los terha y otras especies de cavadizos, como cuernos, caparazón soluble en agua y propensión a enterrarse en la arena. Se desconoce si existe una relación, natural o de crianza, entre las distintas especies de cavadizos.
 
-## Trivia
-The name "tonk" is not related to the character [[Tonk Fah\|Tonk Fah]].
+## Curiosidades
+El nombre "tonk" no está relacionado con el personaje [[Tonk Fah\|Tonk Fah]].
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 22:35, 25 de agosto de 2023 (UTC)
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · |
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
 
 
-https://coppermind.net/wiki/Tonk
+
+https://es.coppermind.net/wiki/Tonk

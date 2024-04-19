@@ -1,12 +1,25 @@
+
+
 |**Guyn**|
 |-|-|
-|**Profession**|Scholars|
-|**Residence**|[[Silverlight\|Silverlight]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Eruditos|
+|**Residencia**|[[Luzdeplata\|Luzdeplata]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Guyn** is a scholar and celestial mapmaker from [[Silverlight\|Silverlight]] mentioned by [[Khriss\|Khriss]] in her essays on the cosmere.
-Khriss's essay on the [[Scadrian system\|Scadrian system]] mentions that Guyn's maps show multiple orbits for [[Scadrial\|Scadrial]] due to the movements by [[Rashek\|Rashek]], [[Vin\|Vin]] and [[Sazed\|Sazed]] during their ascensions.
+**Guyn** es un erudito y cartógrafo celestial de [[Luzdeplata\|Luzdeplata]] mencionado por [[Khriss\|Khriss]] en sus ensayos sobre el Cosmere.
+El ensayo de Khriss sobre el [[Sistema de Scadrial\|sistema de Scadrial]] menciona que los mapas de Guyn muestran múltiples órbitas para [[Scadrial\|Scadrial]] debido a los movimientos que provocaron [[Rashek\|Rashek]], [[Vin\|Vin]] y [[Sazed\|Sazed]] durante sus ascensiones.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Joe ST (talk) 11:16, 12 November 2017 (MST)
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
 
 
 
-https://coppermind.net/wiki/Guyn
+https://es.coppermind.net/wiki/Guyn

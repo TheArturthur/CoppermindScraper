@@ -1,28 +1,49 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Gtet**|
 |-|-|
-|**Type**|Sword|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Tipo**|Espada|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-The **gtet** is a traditional sword used in [[Thaylenah\|Thaylenah]] on [[Roshar\|Roshar]].
+El **gtet** es una espada tradicional usada en [[Thaylenah\|Thaylenah]], en [[Roshar\|Roshar]].
 
-## Contents
+## Sumario
 
-1 Appearance
-2 Known Users
-3 Trivia
-4 Notes
-
-
-## Appearance
-The gtet has a large, triangular-shaped blade that is very wedge-like. The blade extends down past the grip, which is held like a fist. The grip is directly at the bottom and part of the hilt rests around the wrist for support. It is more of a handle than a true hilt. The gtet is carried in a sheath at one's side when it is not in use.
-
-## Known Users
-[[Kylrm\|Kylrm]], one of [[Vstim\|Vstim's]] guards, carries a gtet as his weapon, along with a bow.
-[[Adolin Kholin\|Adolin Kholin]] brings a gtet with him on his expedition to visit [[Lasting Integrity\|Lasting Integrity]]. He shows it to [[Godeke\|Godeke]] before they depart.
-
-## Trivia
-The description of the gtet has some similarities to both a [[Roshar\|Rosharan]] blade known as the [[Kattari\|kattari]] and a real-life dagger from India known as the .
+1 Apariencia. [[#Apariencia]] 
+2 Usuarios conocidos. [[#Usuarios conocidos]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Gtet
+## Apariencia
+El gtet tiene una gran hoja de forma triangular muy parecida a una cuña. La hoja se extiende más allá de la empuñadura, que se sujeta como un puño. El agarre está directamente en la parte inferior y parte de la empuñadura descansa alrededor de la muñeca para proporcionar soporte. Es más como un mango que una verdadera empuñadura. El gtet se lleva en una funda al costado cuando no se utiliza.
+
+## Usuarios conocidos
+[[Kylrm\|Kylrm]], uno de los guardias de [[Vstim\|Vstim]], lleva un gtet como arma, junto con un arco.
+[[Adolin Kholin\|Adolin Kholin]] lleva consigo un gtet en su expedición para visitar [[Integridad Duradera\|Integridad Duradera]]. Se lo enseña a [[Godeke\|Godeke]] antes de partir.
+
+## Curiosidades
+La descripción del gtet tiene algunas similitudes tanto con una hoja de [[Roshar\|Roshar]] conocida como [[Kattari\|kattari]] como con una daga de la vida real de la India conocida como ..
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 16:48, 6 January 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Gtet

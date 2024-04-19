@@ -1,114 +1,143 @@
-|**Dawnshard**|
+
+
+|**Esquirla del Amanecer**|
 |-|-|
-|by  Connor Chamberlain |
-|**World of Origin**|[[Yolen\|Yolen]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+||
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page is about the magical items. For the [[Rysn\|Rysn]] novella, see [[Dawnshard (novella)\|Dawnshard (novella)]].
->“* The Dawnshards are Commands, Rysn. The will of a god.*”
-\-Nikliasorm to Rysn[1]
+> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-
-The **Dawnshards** are the four primal [[Command\|Commands]] that [[Adonalsium\|Adonalsium]] used to create all things. Each Dawnshard grants separate abilities, as well as powers accessible via any Dawnshard, and can supercharge Invested Arts, allowing for acts of magic that transcend what is normally possible. They are Commands of immense power, and at least one has been secreted away to prevent unknown groups from ending the lives of billions. The knowledge of Dawnshards is somewhat esoteric, most who know of them either seek them as weapons, or flee as far as they can from the Dawnshards.
-They have been heavily involved in the history of Roshar, but the knowledge of the true nature of the Dawnshards is very esoteric, so they are considered to be unspecified mythological objects by most people by the time of Era of Solitude on [[Roshar\|Roshar]].
-
-## Contents
-
-1 Nature and Mechanics
-
-1.1 Surgebinders
+Esta página trata de los objetos mágicos.. Para la novella de [[Rysn\|Rysn]], ver [[Esquirla del Amanecer (novella)\|Esquirla del Amanecer (novella)]].
+>“* Las Esquirlas del Amanecer son Mandatos, Rysn. A voluntad de un dios.*”
+\-Nikliasorm a Rysn.[1]
 
 
-2 Mythology
-3 History
+Las Esquirlas del Amanecer son los cuatro [[Mandato\|Mandatos]] primigenios que [[Adonalsium\|Adonalsium]] utilizó para crear todas las cosas. Cada una de ellas garantiza habilidades diferentes, así como poderes accesibles a través cualquiera de ellas y pueden sobrecargar los poderes de un Arte Investido, permitiendo actos de magia que trascienden lo que normalmente es posible, como destruir un planeta entero. Son Mandatos de inmenso poder, y al menos uno ha sido ocultado para evitar que grupos desconocidos acaben con la vida de miles de millones. El conocimiento de las Esquirlas del Amanecer es algo esotérico; la mayoría de los que saben de ellas o las buscan como armas, o huyen lo más lejos que pueden de las Esquirlas del Amanecer.
+Las Esquirlas del Amanecer han estado muy involucradas en la historia de Roshar, pero el conocimiento de la verdadera naturaleza de estas es muy esotérico, por lo que son consideradas como objetos mitológicos no especificados por la mayoría de la gente en la Era de la Soledad en [[Roshar\|Roshar]].
 
-3.1 Early Cosmere
-3.2 Roshar's Shadowdays
-3.3 Aimia
-3.4 Sigzil
+## Sumario
 
+1 Naturaleza y mecánicas. [[#Naturaleza y mec.C3.A1nicas]] 
 
-4 Known Dawnshards
-
-4.1 Change
-4.2 Hoid's Dawnshard
-4.3 Other Dawnshards
+1. [[#Potenciadores]] 
 
 
-5 Trivia
-6 Notes
+2 Mitologia. [[#Mitologia]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Principios del Cosmere]] 
+3. [[#.C3.89poca Oscura de Roshar]] 
+3. [[#Aimia]] 
+3. [[#Sigzil]] 
 
 
-## Nature and Mechanics
->“*The most powerful forms of Surgebinding transcend traditional mortal understanding. All their greatest applications require Intent and a Command. Demands on a level no person could ever manage alone. To make such Commands, one must have the reasoning—the breadth of understanding—of a deity*”
-\-Nikliasorm[1]
+4 Esquirlas del Amanecer conocidas. [[#Esquirlas del Amanecer conocidas]] 
 
-At their core, Dawnshards are nothing more than Commands of enormous power, but on their own they seem to be nearly useless. As all applications of Investiture require a Command and Intent, these Dawnshards cannot be used without a person that has access to Investiture trying to carry out some task. The mechanics here are unclear, but as Commands made by someone with the understanding of a deity, Dawnshards allow a person to make use of the most powerful forms of magic. It is unclear what, if any, influence the specific Command of each Dawnshard has on what could be accomplished using that Command. In a person with no access to Investiture or an inanimate object, the Dawnshard's most dangerous powers are rendered useless and they are unable to really present a threat to the lives of anyone.
-That being said, Dawnshards do confer a certain amount of Investiture on the person that holds them. Each Dawnshard grants both distinct abilities and shared [[Heightening\|Heightening-like]] attributes, such as an increased depth in color and sound perception. These Heightening-like effects can be achieved using any Dawnshard and are granted because they are great concentrations of Investiture, and not from having any specific connection to [[Endowment\|Endowment]]. In the same way Savants are changed by power over time, the person that is a Dawnshard is also increasingly changed by its power, although it is not certain if these changes depend on which Dawnshard is possessed. This change is progressive (but starts quickly) and is sometimes compared to a canker or scar tissue, gradually coating a person's soul and changing, conferring abilities and restrictions, and potentially pushing the person to act in accordance with the Dawnshard's Intent. With the right knowledge and equipment, this process can be reversed and potentially the Connection might be severed altogether.
-There is a Connection between the previous holders of a Dawnshard and the current holder. This Connection means that a person who previously held a Dawnshard can be killed, and a spike can be fashioned from their soul to find the person they gave the Dawnshard to, creating a chain of Connection to the Dawnshard's current bearer and allowing them to be tracked.
-Dawnshards are able and willing to protect themselves and their users from certain dangers, such as [[Hemalurgy\|Hemalurgy]].
-It is uncertain whether the specific Commands of Dawnshards have any bearing over the Intents of the Shards that they created, or how they may have been changed by the [[Shattering\|Shattering]].
-
-### Surgebinders
-When a Surgebinder is also a Dawnshard, potential risks emerge as the Dawnshard can use the spren's substance to fuel the Radiant's abilities. This can among other things cause the spren to lose their body in the Cognitive Realm, leaving them as a fragment of themselves. The Spren can also lose their mind.
-Depending on how much the Dawnshard consumes the pair may lose many of their abilities, including Surgebinding and the Radiant being able to communicate with their mind. Even after the Radiant has given up the Dawnshard, they can still use the spren as fuel for their abilities. The Radiant can use their Shardblade to absorb Investiture, assuming the blade wasn’t consumed, fueling their Dawnshard abilities. The absorbed Investiture can also be used to increase the size and durability of their Shardblade. The spren also has some influences over the newly gained abilities, being able to activate some of the Dawnshard's abilities without the knowledge of their Radiant.
-
-## Mythology
->“* Taking the Dawnshard, known to bind any creature voidish or mortal, he crawled up the steps crafted for Heralds, ten strides tall apiece, toward the grand temple above.*”
-\- From The Poem of Ista[27]
+4. [[#Cambio]] 
+4. [[#Esquirla del Amanecer de Hoid]] 
+4. [[#Otras Esquirlas del Amanecer]] 
 
 
-During the [[Era of Solitude\|Era of Solitude]], no one seemed to know exactly what the Dawnshards were or what they looked like. They have their root in mythology where they are reputed to be valuable but extraordinarily dangerous. Talk about them was once common among those who recorded the early mythologies of Roshar, but they have since fallen out of common discussion. One of the only references to the Dawnshards was *The Poem of Ista*, which referenced a Dawnshard said to be able to bind both Voidish and mortal creatures, but what exactly that entails is unknown. Although the Dawnshards are not the same thing as [[Honorblade\|Honorblades]], they are often conflated in modern times by people unfamiliar with mythology.
+5 Curiosidades. [[#Curiosidades]] 
+6 Notes. [[#Notes]] 
 
-## History
-### Early Cosmere
->“*And so, the Dawnshards. The four primal Commands that created all things. And then eventually, they were used to undo Adonalsium itself. . . .*”
-\-Nikliasorm[1]
 
-The Dawnshards pre-dated the Shattering and were used as part of a weapon that split Adonalsium into the sixteen Shards. Following the Shattering something happened so as to make the Dawnshards lose their original form. Hoid himself was once a Dawnshard at some point in the distant past, holding the Dawnshard diametrically opposed to harm and violence. It is uncertain when he became a Dawnshard, but his time holding it changed his [[Spiritweb\|spiritweb]] in a similar manner to [[Savant\|Savantism]]. These changes meant that long-term Hoid found himself unable to inflict harm on himself or any others, as well as unable to eat any sort of meat. His Dawnshard is in some way connected to the [[First Gem\|First Gem]], his eponymous topaz.
-Humans in the [[Rosharan system\|Rosharan system]] used the Dawnshards to destroy their former homeworld of [[Ashyn\|Ashyn]], before fleeing to Roshar for survival. It is uncertain how they managed to obtain the Dawnshards or who is responsible for this action, but they were utilized in conjunction with some type of Surgebinding to use powerful versions of the ordinary Surges. It is unknown which Dawnshards were present on Ashyn or what happened to them following the fall of the planet.
+## Naturaleza y mecánicas
+>“*Las formas de potenciación más poderosas trascienden la tradicional comprensión mortal. Todas sus aplicaciones mayores requieren Intención y un Mandato. Son requerimientos de tal nivel que ninguna persona podría lograrlos en solitario. Para hacer esos Mandatos, debe poseerse el raciocinio, la amplitud de comprensión, de una deidad.*”
+\-Nikliasorm.[1]
 
-### Roshar's Shadowdays
->“*I wish I could do more. You might be able to get him to choose a champion. He is bound by some rules. All of us are. A champion could work well for you, but it is not certain. And... without the Dawnshards... Well, I have done what I can. It is a terrible, terrible thing to leave you alone.*”
-\-Honor[34]
 
-At some unspecified point in the past, prior to the Recreance, the Dawnshard associated with the concept of Change was brought through [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] in the [[Horneater Peaks\|Horneater Peaks]]. Later, [[Honor\|Honor]] raved to the [[Knights Radiant\|Knights Radiant]] about the Dawnshards in the final days before his death. He claimed that they would one day destroy Roshar as their ancestors had destroyed Ashyn with the Dawnshards, a contributing factor to the Radiants and their spren abandoning their oaths in the [[Recreance\|Recreance]]. Honor also referred to them in the final vision he left for a future Bondsmith, worried how mankind would survive without Dawnshards, which suggested that he felt they were now inaccessible. Honor seemed to believe that the Dawnshards were potentially crucial in defeating [[Odium\|Odium]].
+En el fondo, las Esquirlas del Amanecer no son más que Mandatos de enorme poder pero por sí solas parecen ser casi inútiles. Como todas las aplicaciones de la Investidura requieren un Mandato y una Intención, estas Esquirlas del Amanecer no pueden utilizarse sin que una persona con acceso a la Investidura intente llevar a cabo alguna tarea. La mecánica en este caso no está clara, pero como Mandatos realizados por alguien con la comprensión de una deidad, las Esquirlas del Amanecer permiten a una persona hacer uso de las formas más poderosas de la magia. No está claro qué influencia tiene, si la tiene, el Mandato específico de cada Esquirla del Amanecer en lo que se puede lograr usandolo. En una persona sin acceso a la Investidura o en un objeto inanimado, los poderes más peligrosos de las Esquirlas del Amanecer se vuelven inútiles y no pueden representar una amenaza real para la vida de nadie
+Dicho esto, las Esquirlas del Amanecer confieren una cierta cantidad de Investidura a la persona que las posee. Cada Esquirla del Amanecer garantiza tanto habilidades diferentes como habilidades similares a la [[Elevaci%C3%B3n\|Elevación]], como una mayor profundidad en la percepción del color y el sonido. Estos efectos pueden conseguirse usando cualquiera de las Esquirlas del Amanecer y se conceden porque son grandes concentraciones de Investidura, y no por tener una conexión específica con [[Dotaci%C3%B3n\|Dotación]]. De la misma manera que los Sabios son cambiados por el poder a lo largo del tiempo, la persona que es una Esquirla del Amanecer también es cambiada cada vez más por su poder, aunque no se sabe con certeza si estos cambios dependen de la Esquirla del Amanecer que se posea. Este cambio es progresivo (pero comienza rápidamente) y a veces se compara con una úlcera o tejido cicatricial, que recubre gradualmente el alma de una persona y cambia, confiriendo habilidades y restricciones, y potencialmente empujando a la persona a actuar de acuerdo con la Intención de las Esquirlas del Amanecer. Con los conocimientos y el equipo adecuados, este proceso puede invertirse y, potencialmente, la Conexión podría cortarse por completo.
+Existe una Conexión entre los poseedores anteriores de una Esquirla del Amanecer y el poseedor actual. Esta significa que una persona que anteriormente poseía una Esquirla del Amanecer puede ser asesinada, y un clavo puede ser fabricado a partir de su alma para encontrar a la persona a la que le dio la Esquirla del Amanecer, creando una cadena de Conexión con el actual portador de la Esquirla del Amanecer y permitiendo su rastreo.
+Son capaces y tienen la voluntad de protegerse a sí mismas y sus portadores de ciertos daños, como la [[Hemalurgia\|hemalurgia]].
+No se sabe con certeza si los Mandatos específicos de las Esquirlas del Amanecer tienen alguna relación con las Intenciones de las Esquilas que crearon, o cómo pueden haber sido modificados por la [[Fragmentaci%C3%B3n\|Fragmentación]].
+
+### Potenciadores
+Cuando un potenciador es también un Esquirla del Amanecer, surgen riesgos potenciales, ya que esta puede utilizar la sustancia del spren para alimentar las habilidades del Radiante. Esto puede hacer que el spren pierda su cuerpo en el Reino Cognitivo, dejándolo como un fragmento de sí mismo. Después de esto, existen principalmente en la mente de su potenciador y deben utilizar el cuerpo del Radiante para percibir el mundo que les rodea. También se les despoja de la mayor parte de la expresión vocal, lo que les da una voz monótona.
+La pareja también pierde muchas de sus habilidades, incluyendo la potenciación y que el Radiante sea capaz de comunicarse con su mente. Aún puede enviar sentimientos y emociones a su spren. Incluso después de que el Radiante haya renunciado a la Esquirla del Amanecer, aún puede quemar la mente y la personalidad de su spren durante una breve explosión de potenciación.
+Las habilidades de la hoja y armadura esquirladas del Radiante no se ven afectadas, aunque el spren se haya consumido por completo. Los Radiantes pueden usar su espada para absorber la Investidura, alimentando así sus habilidades de Esquirla del Amanecer. La Investidura absorbida también puede usarse para aumentar el tamaño y la durabilidad de su hoja esquirlada. Los spren también pueden activar algunas de las habilidades de las Esquirlas del Amanecer, sin que lo sepa su Radiante.
+
+## Mitologia
+>“* Con la Esquirla del Amanecer, que domina a cualquier criatura del vacío o mortal, subió las escaleras talladas para los Heraldos, diez zancadas de alto cada una, hacia el gran templo de arriba.*”
+\- De el Poema de Ista.[32]
+
+
+Durante la [[Era de la Soledad\|Era de la Soledad]], nadie parecía saber exactamente qué eran las Esquirlas del Amanecer ni su aspecto. Las Esquirlas del Amanecer tienen su origen en la mitología, donde se las considera valiosas pero extraordinariamente peligrosas. En su día, era común hablar de ellas entre los que registraron las primeras mitologías de Roshar, pero desde entonces han dejado de ser objeto de discusión común. Una de las únicas referencias a las Esquirlas del Amanecer fue *el Poema de Ista*, que hacía referencia a una Esquirla del Amanecer de la que se decía que era capaz de dominar tanto a criaturas del vacío como a criaturas mortales, pero se desconoce lo que implica exactamente. Aunque las Esquirlas del Amanecer no son lo mismo que las [[Hoja de Honor\|hojas de Honor]], la gente que no está familiarizada con la mitología suele confundirlas.
+
+## Historia
+### Principios del Cosmere
+>“*Y de ahí, las Esquirlas del Amanecer. Los cuatro Mandatos primordiales que crearon todas las cosas. Y luego, más tarde, se utilizaron para deshacer al mismísimo Adonalsium...*”
+\-Nikliasorm.[1]
+
+Las Esquirlas del Amanecer preceden a la Fragmentación y fueron usadas como armas para dividir a Adonalsium en las dieciséis Esquirlas. Tras la Fragmentación, algo hizo que perdieran su forma original. El propio Hoid fue una vez una Esquirla del Amanecer en algún momento del pasado lejano, manteniendo a las Esquirlas del Amanecer diametralmente opuestas al daño y la violencia. No se sabe con certeza cuándo se convirtió en una Esquirla del Amanecer, pero el tiempo que la poseyó cambió su [[Red espiritual\|red espiritual]] de forma similar al [[Savantismo\|Savantismo]]. Estos cambios significaron que Hoid, a largo plazo, se vio incapaz de infligir daño a otros, así como de comer cualquier tipo de carne. Su Esquirla del Amanecer está conectada de algún modo con la [[Primera Gema\|Primera Gema]], su topacio epónimo.
+Los humanos del [[Sistema roshariano\|sistema roshariano]] utilizaron las Esquirlas del Amanecer para destruir su antiguo mundo natal en [[Ashyn\|Ashyn]], antes de huir a Roshar para sobrevivir. No se sabe cómo lograron obtener las Esquirlas del Amanecer ni quién es el responsable de esta acción, pero se utilizaron junto con algún tipo de potenciación para utilizar versiones poderosas de las Potencias ordinarias. Se desconoce qué Esquirlas del Amanecer estaban presentes en Ashyn o qué ocurrió con ellas tras la caída del planeta.
+
+### Época Oscura de Roshar
+>“*Ojalá pudiera hacer más. Podríais obligarle a elegir un campeón. Está obligado por algunas reglas. Todos nosotros lo estamos. Un campeón podría funcionar bien para vosotros, pero no es seguro. Y…, sin las Esquirlas del Amanecer… Bueno, he hecho lo que he podido. Es terrible, terrible dejaros solos.*”
+\-Honor.[39]
+
+En algún momento no especificado del pasado, antes de la Traición, la Esquirla del Amanecer asociada al concepto del Cambio fue traída a través de la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]] en los [[Picos Comecuernos\|Picos Comecuernos]]. Más tarde [[Honor\|Honor]] desvariaba ante los Caballeros Radiantes sobre las Esquirlas del Amanecer en los últimos días antes de su muerte. Afirmó que un día destruirían Roshar como sus antepasados habían destruido Ashyn con las Esquirlas del Amanecer, un factor que contribuyó a que los Radiantes abandonaran sus juramentos en la [[D%C3%ADa de la Traici%C3%B3n\|Traición]]. Honor también se refirió a ellos en la visión final que dejó para un futuro Forjador de Vínculos, preocupado por cómo sobreviviría la humanidad sin las Esquirlas del Amanecer, lo que sugería que sentía que ahora eran inaccesibles. Honor parecía creer que las Esquirlas del Amanecer eran potencialmente cruciales para derrotar a [[Odium\|Odium]].
 
 ### Aimia
->“*And so the Sleepless take up the task.*”
-\-The Dawnshard[35]
+>“*Y por eso los Insomnes se encargan ahora de la tarea.*”
+\-La Esquirla del Amanecer.[40]
 
-It is unknown what path the Change Dawnshard traveled from the Peaks, but it eventually came to be imbued within a [[Akinah Dawnshard mural\|mural]] depicting Adonalsium's [[Shattering\|Shattering]] located in an undersea cavern beneath Akinah. It wasn't seen as possible for this Dawnshard to leave the mural, for reasons unknown. The Dawnshard was protected by the ancient [[Lanceryn\|lanceryn]], who were called Guardians of Ancient Sins. They helped to defend the Dawnshard from unspecified shadowy groups who pursued the Dawnshard wishing to use it as a weapon to destroy whole worlds. The lanceryn were able to successfully guard the Dawnshard until the [[Scouring of Aimia\|scouring of Aimia]] rendered the species nearly extinct. Following the scouring, the [[Sleepless\|Sleepless]] took up this task, although it is not clear how it became their responsibility. As the Silver Kingdom had totally collapsed, the Sleepless thought it best if Akinah was thoroughly protected and cut off from the world. They allowed the city and its Oathgate to be swallowed up by [[Crem\|crem]] and constructed elaborate decoys in their place to hide the Oathgate. They may have also arranged for the Soulcasting of defensive spires all around the island, and it is possible that they had something to do with the storm that surrounded the island as well.
-All these deceptive measures failed to extinguish the interest of humans and other treasure seekers. Eventually, during the [[True Desolation\|True Desolation]], the *Wandersail* came out on an expedition, led by Rysn along with her larkin Chiri-Chiri, descendent of the ancient lanceryn. During an attack from the Sleepless, Rysn and her companion [[Cord\|Cord]] were led by [[Mandras\|mandras]] into the mouth of the cavern containing the Dawnshard. Rysn was drawn to the mural, entranced by the beauty and the heat she could feel from the mural, as well as odd thoughts that were not her own. After accepting it, the Dawnshard entered Rysn and she became the new Dawnshard, despite the Sleepless's wishes. Rysn negotiated with the Sleepless, who wished to preserve life and felt that Rysn had been led by Chiri-Chiri to the Dawnshard. Ultimately they allowed her to keep it, as it would be safe and inconspicuous inside the mind of a random mortal. Now, the Dawnshard Rysn is constantly watched and guarded by various Sleepless as well as Chiri-Chiri.
+Se desconoce el camino que recorrió la Esquirla del Amanecer del Cambio desde los Picos, pero finalmente llegó a imbuirse en un [[Mural de la Esquirla del Amanecer en Akinah\|mural]] que representaba la [[Fragmentaci%C3%B3n\|Fragmentación]] de Adonalsium, situado en una caverna submarina bajo Akinah. No se consideró posible que esta Esquirla del Amanecer saliera del mural, por razones desconocidas. La Esquirla del Amanecer fue protegida por los antiguos [[Lanceryn\|lanceryn]], llamados Guardianes de los Antiguos Pecados. Estos ayudaron a defender la Esquirla del Amanecer de grupos oscuros no especificados que perseguían a la Esquirla del Amanecer con el deseo de utilizarla como arma para destruir mundos enteros. Los lanceryn fueron capaces de custodiar con éxito la Esquirla del Amanecer hasta que la [[La destrucci%C3%B3n de Aimia\|La destrucción de Aimia]] hizo que la especie estuviera casi extinta. Tras la destrucción, los [[Insomne\|Insomnes]] asumieron esta tarea, aunque no está claro cómo se convirtió en su responsabilidad. Como el Reino de Plata se había derrumbado por completo, los Insomnes pensaron que lo mejor era que Akinah estuviera completamente protegida y aislada del mundo. Permitieron que la ciudad y su Puerta Jurada fueran engullidas por el [[Crem\|crem]] y construyeron elaborados señuelos en su lugar para ocultar la Puerta Jurada. También es posible que organizaran el moldeado de almas de las agujas defensivas alrededor de la isla, y es posible que también tuvieran algo que ver con la tormenta que rodeó la isla.
+Todas estas medidas engañosas no lograron extinguir el interés de los humanos y otros buscadores de tesoros. Finalmente, durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], el [[Vela Errante\|Vela Errante]] salió en una expedición, liderada por Rysn junto a su larkin Chiri-Chiri, descendiente de los antiguos lanceryn. Durante un ataque de los Insomnes, Rysn y su compañera [[Cuerda\|Cuerda]] fueron conducidas por [[Mandra\|mandras]] a la boca de la caverna que contenía la Esquirla del Amanecer.Rysn se sintió atraída por el mural, embelesada por la belleza y el calor que podía sentir del mismo, así como por extraños pensamientos que no eran los suyos. Tras aceptarla, la Esquirla del Amanecer entró en Rysn y ella se convirtió en la nueva Esquirla del Amanecer, a pesar de los deseos de los Insomnes. Rysn negoció con los Insomnes, que deseaban preservar la vida y consideraban que Rysn había sido conducida por Chiri-Chiri a la Esquirla del Amanecer. Al final le permitieron quedarse con ella, ya que estaría a salvo y sin llamar la atención dentro de la mente de un mortal cualquiera. Ahora, la Esquirla del Amanecer Rysn, está constantemente vigilada y custodiada por varios Insomnes, así como por Chiri-Chiri.
 
 ### Sigzil
->“*The Dawnshard was a weapon too valuable to sell. If you knew about it, you either hunted it yourself—or you ran far, far away.*”
-\-Sigzil's thoughts on the Dawnshard[7]
+>“*La Esquirla del Amanecer era un arma demasiado valiosa para venderla. Todo aquel que supiera de ella o bien se ponía a buscarla o bien huía muy muy lejos.*”
+\-La opinión de Sigzil sobre la Esquirla del Amanecer[7]
 
 
-At some point, the [[Knights Radiant\|Radiant]] [[Sigzil\|Sigzil]] was asked to pick up a Dawnshard by Hoid. This Dawnshard was the one Hoid had once carried, which is diametrically opposed to the concept of harm. This Dawnshard had a similar effect to Sigzil as it had on Hoid, preventing him from aging and granting him the ability to Skip. It also gave him the restrictions he would come to call his Torment, a progressively more restrictive inability to intentionally cause injury to another. Sigzil only held it briefly, but sometime during this period, Sigzil was threatened, and the Dawnshard fed upon the Investiture that made up his spren [[Auxiliary\|Auxiliary]], injuring the highspren and leaving only its personality behind.
-After giving up the Dawnshard (potentially to Hoid once again) Sigzil believed he would be of no interest to those hunting the Dawnshard. When he was approached by the Night Brigade, he believed he would be let go if he explained the situation to them. They instead intended to kill him and use his soul to hunt the Dawnshard themselves. Sigzil instead chose to flee using his ability to Skip, keeping the Night Brigade off the trail of the Dawnshard for as long as he can stay ahead of them.
+En algún momento, el [[Caballeros Radiantes\|Radiante]] [[Sigzil\|Sigzil]] recibió el encargo de Hoid de recoger una Esquirla del Amanecer. Esta era la que Hoid había llevado una vez, que es diametralmente opuesta al concepto de daño. Tuvo en Sigzil un efecto similar al que tuvo en Hoid, impidiéndole envejecer y otorgándole la capacidad de saltar. También le otorgó las restricciones que llegaría a llamar su Tormento, una incapacidad progresivamente más restrictiva para causar daño intencionadamente a otro. Sigzil sólo la poseyó brevemente, pero en algún momento durante este periodo, se vio amenazado, y la Esquirla del Amanecer se alimentó de la Investidura que formaba su spren [[Auxiliar\|Auxiliar]], hiriendo al altospren y dejando sólo su personalidad tras de sí.
+Después de renunciar a la Esquirla del Amanecer (potencialmente a Hoid una vez más), Sigzil creía que no sería de interés para los que cazaban a las Esquirlas del Amanecer. Cuando se le acercó la Brigada Nocturna, creyó que le dejarían marchar si les explicaba la situación. En lugar de eso, pretendían matarlo y utilizar su alma para cazar las. Sigzil optó por huir utilizando su habilidad de saltar, alejando a la Brigada Nocturna del rastro de la Esquirla del Amanecer mientras pudiera adelantarse a ellos.
 
-## Known Dawnshards
-### Change
- by  Maria Lia Malandrino  Rysn becoming the "change" Dawnshard
->“*The will of a god to remake things, to demand they be better. The power to change.*”
-\-Rysn's thoughts on her Dawnshard[1]
-
-
-As with all Dawnshards, the Dawnshard that became Rysn defies description with mortal words. The Command represents the will and knowledge of a deity demanding that something change, adapt, or become something new. This Dawnshard was long housed in a special mural of some sort, before moving to Rysn. It seems to not merely be change but some sort of positive change, and when it is absorbed by someone they are in some way **Remade**. It is unknown if this particular Dawnshard was involved in the destruction of Ashyn, but it seems highly plausible. It is uncertain who has borne this Dawnshard over the course of its history, but it is impotent while being carried by Rysn. At some point in the past, the Dawnshard was also guarded by someone making use of a specific suit of [[Shardplate\|Shardplate]]. [[Cord\|Cord]] has taken up these Shards, and may one day serve as another guardian for Rysn.
-
-### Hoid's Dawnshard
-There is also a Dawnshard that was long in the possession of Hoid with an Intent that is diametrically opposed to violence and harm. One of the side effects of having held this Dawnshard is an ability to feed on Investiture to heal oneself. Holding this Dawnshard can also cause that person to stop aging, remaining the same age as the moment they first picked it up. Enough time holding this Dawnshard can make a person that possibly may never die or be killed, like Hoid. It also grants enhancements of durability and ability to go without breathing and survive in a vacuum unprotected, although this may be partially due to Sigzil's past as a [[Radiant\|Radiant]].
-Another side effect of this Dawnshard is what Sigzil terms the Torment, the inability to intentionally do harm or violence to another. This manifests in both Hoid and Sigzil to differing degrees. Sigzil for instance is able to do harm when it is in line with his oaths or when he has managed to lessen the Torment using his [[Sunheart\|sunheart]]. Sigzil also experiences this as a freezing up in combat. Hoid is unable to cause harm, consider hurting anyone at all, or even consume meat without extreme incapacitating nausea. He is however capable of causing pain to a [[Cognitive Shadow\|Cognitive Shadow]], as he is not truly hurting them. He can also only harm himself if he believes it is helping him instead of hurting him.
-This Dawnshard also Connects the person who has held it to the cosmere as a whole. This means that those that are changed by the Dawnshard are capable of Skipping, transporting themselves from one planet to another in the cosmere, using up great amounts of Investiture in the process. While this is something Sigzil can do, it is unclear if Hoid will ever learn to Skip, it has not been something he has generally been able to do. This ability started from a certain event.
-
-### Other Dawnshards
-There are two other Dawnshards in existence that are essentially unknown, but at least one of the four Dawnshards is different from all of the rest. It is unclear what this difference is though, and whether it refers to one of the known or unknown Dawnshards.
-
-## Trivia
-In June 2022, Brandon said that at least one person, other than Rysn, who "is currently" a Dawnshard has appeared; it is unclear which Dawnshard this person has. Though this statement was made after the sample chapters for *The Sunlit Man* had been released, given the surprise nature of the secret projects, it likely does not refer to Sigzil.
+## Esquirlas del Amanecer conocidas
+### Cambio
+  Rysn convirtiéndose en la Esquirla del Amanecer "Cambio"
+>“*Era la voluntad de un dios para rehacer las cosas, para exigir que fuesen mejores. El poder de cambiar.*”
+\-Pensamientos de Rysn sobre su Esquirla del Amanecer.[1]
 
 
-https://coppermind.net/wiki/Dawnshard
+Como todas las Esquirla del Amanecer, en la que se convirtió Rysn desafía la descripción con palabras mortales. El Mandato representa la voluntad y el conocimiento de una deidad que exige que algo cambie, se adapte o se convierta en algo nuevo. Esta Esquirla del Amanecer estuvo alojada durante mucho tiempo en un mural especial de algún tipo, antes de trasladarse a Rysn. Por lo que parece, no es simplemente un cambio, sino algún tipo de cambio positivo, y cuando es absorbido por alguien, este es "Rehecho" de alguna forma. Se desconoce si esta Esquirla del Amanecer en particular estuvo implicada en la destrucción de Ashyn, pero parece muy plausible. No se sabe quién la ha llevado a lo largo de su historia, pero es impotente mientras lo lleva Rysn. En algún momento del pasado, la Esquirla del Amanecer también fue custodiada por alguien que hacía uso de una [[Armadura esquirlada\|armadura esquirlada]] específica. [[Cuerda\|Cuerda]] ha tomado estas esquirladas, y puede que algún día sirva como otro guardián para Rysn.
+
+### Esquirla del Amanecer de Hoid
+También hay un Esquirla del Amanecer que Hoid poseyó durante mucho tiempo con una Intención diametralmente opuesta a la violencia y el daño. Uno de los efectos secundarios de poseerla es la capacidad de alimentarse de la Investidura para curarse a sí mismo. Llevar esta Esquirla del Amanecer también puede hacer que la persona deje de envejecer y tenga la misma edad que cuando la cogió por primera vez. Suficiente tiempo sosteniendola puede hacer que una persona posiblemente nunca pueda morir o ser asesinada, como Hoid. También otorga mejoras de durabilidad y capacidad para estar sin aliento y sobrevivir en el vacío sin protección, aunque esto puede deberse en parte al pasado de Sigzil como [[Radiante\|Radiante]].
+Otro efecto secundario de esta Esquirla del Amanecer es lo que Sigzil denomina el Tormento, la incapacidad de hacer daño o agredir a otro intencionadamente. Esto se manifiesta tanto en Hoid como en Sigzil en diferentes grados. Sigzil, por ejemplo, es capaz de hacer daño cuando está en consonancia con sus juramentos o cuando ha logrado disminuir el Tormento usando su [[Sol coraz%C3%B3n\|sol corazón]]. Sigzil también experimenta esto como una paralización en combate. Hoid es incapaz de causar daño, considerar la posibilidad de herir a alguien en absoluto, o incluso consumir carne sin náuseas incapacitantes extremas. Sin embargo, es capaz de causar dolor a una [[Sombra cognitiva\|sombra cognitiva]], ya que no le hace daño de verdad. También puede herirse a sí mismo si cree que le está ayudando en lugar de hacerse daño.
+Esta Esquirla del Amanecer también conecta a la persona que la posee con el Cosmere en su conjunto.  Esto significa que aquellos que han sido transformados por la Esquirla del Amanecer son capaces de saltar, transportándose de un planeta a otro del Cosmere, y gastando grandes cantidades de Investidura en el proceso. Aunque esto es algo que Sigzil puede hacer, no está claro si Hoid aprenderá alguna vez a saltar, ya que no es algo que haya sido capaz de hacer en general. Esta habilidad empezó después de cierto evento.
+
+### Otras Esquirlas del Amanecer
+Existen otras dos Esquirlas del Amanecer que son esencialmente desconocidas, pero al menos una de las cuatro Esquirlas del Amanecer es diferente a todas las demás.No está claro cuál es esta diferencia, y si se refiere a una de las Esquirlas del Amanecer ya conocidas.
+
+## Curiosidades
+En junio de 2022, Brandon dijo que había aparecido al menos una persona, aparte de Rysn, que "actualmente" es una Esquirla del Amanecer; no está claro qué Esquirla del Amanecer tiene esta persona. Aunque esta declaración se hizo después de que se publicaran los capítulos de muestra de *[[El Hombre Iluminado\|El Hombre Iluminado]]*, dada la naturaleza sorpresa de los proyectos secretos, es probable que no se refiera a Sigzil.
+## Notes
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · |
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] ·  · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Dawnshard

@@ -1,87 +1,110 @@
-|**Devotion**|
+
+
+|**Devoción**|
 |-|-|
-|by  Kyle Pearson |
-|**Vessel**|[[Aona\|Aona]]|
-|**Slivers**|*None*|
-|**Splinters**|[[Aon\|Aons]] at center of [[Seon\|seons]]|
-|**Status**|[[Splinter\|Splintered]]|
-|**Perpendicularity**|[[Devotion's Perpendicularity\|The Lake]]|
-|**Magics**|[[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], [[Bloodsealing\|Bloodsealing]]|
-|**Residence**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Recipiente**|[[Aona\|Aona]]|
+|**[[Lasca\|Lascas]]**|*Ninguna*|
+|**[[Astilla\|Astillas]]**|Los [[Aon\|aones]] en el centro de los [[Seon\|seones]]|
+|**Estado**|[[Astilla\|Astillada]]|
+|**[[Perpendicularidad\|Perpendicularidad]]**|[[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Magia**|[[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Falsificaci%C3%B3n\|Falsificación]], [[Sellado de sangre\|Sellado de sangre]]|
+|**Residencia**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Come. I give you release. Come. You can finally give up.*”
-\-The voice in the Lake[3]
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-
-**Devotion** is a [[Shard\|Shard of Adonalsium]], originally held by [[Aona\|Aona]]. After the [[Shattering\|Shattering]], she traveled to [[Sel\|Sel]] with [[Dominion\|Dominion]], where the two were [[Splinter\|Splintered]] by [[Odium\|Odium]].
-
-## Contents
-
-1 Intent
-2 Associated Magics
-
-2.1 The Dor
-2.2 Seons
-2.3 Direct intervention
+>“*Ven. Te liberaré. Ven. Por fin puedes rendirte.*”
+\-La voz en el Lago[3]
 
 
-3 History
-4 Influence
-5 Trivia
-6 Notes
+**Devoción** es una [[Esquirla\|Esquirla de Adonalsium]], originalmente en manos de [[Aona\|Aona]]. Tras la [[Fragmentaci%C3%B3n\|Fragmentación]] viajó a [[Sel\|Sel]] con [[Dominio\|Dominio]], donde ambas esquirlas fueron [[Astilla\|astilladas]] por [[Odium\|Odium]].
+
+## Sumario
+
+1 Intención. [[#Intenci.C3.B3n]] 
+2 Magias asociadas. [[#Magias asociadas]] 
+
+2. [[#El Dor]] 
+2. [[#Seones]] 
+2. [[#Intervenci.C3.B3n directa]] 
 
 
-## Intent
-As Devotion was Splintered far in [[Sel\|Sel's]] prehistory, it's unknown how precisely her intent would manifest. She appears to wish to care for people and provide them safety from pain and harm. Though not as directly hostile to each other as [[Preservation\|Preservation]] and [[Ruin\|Ruin]], Devotion and [[Dominion\|Dominion]] are at some level opposite to each other, yet their powers work together as the [[Dor\|Dor]]. Devotion and [[Odium\|Odium]] can also be argued to be opposite to each other.
+3 Historia. [[#Historia]] 
+4 Influencia. [[#Influencia]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
-## Associated Magics
- by  Shuravf  An [[Elantrian\|Elantrian]] using [[Aon\|Aon]] Rao
-### The Dor
-For more information, see [[Dor\|Dor]].
-When Odium Splintered Devotion and Dominion, he trapped their power in the [[Cognitive Realm\|Cognitive Realm]] to prevent them from gaining another Vessel. Since, unlike in the [[Spiritual Realm\|Spiritual Realm]], location exists in the Cognitive Realm, the power of the two Shards is trapped together as a giant, polarized storm of [[Investiture\|Investiture]] known as the [[Dor\|Dor]], which makes [[Worldhopping\|worldhopping]] to Sel very dangerous.
-The existence of Dor has a profound effect on Sel, as rather than a single, planet-wide magic system, the planet has numerous ones, each making its home in a particular region, all influenced in some way by both Shards. An underlying similarity between all of them seems to be reliance on shape -- all forms of accessing the Dor are dependent on the user creating a specific shape, often based on the features of the land associated with a particular magic.
-This tie between the location and magic also means that the user's physical position in relation to the system's home region influences the strength of the magic, and moving further away from its origin point will diminish its effects. Furthermore, in order to access a magic system, it appears one must be from the land associated with it.
-Magic systems using the Dor include:
 
-**AonDor** - the magic of [[Arelon\|Arelon]] and surrounding area; the ability to draw symbols called [[Aon\|Aons]] in the air to produce a variety of magical effects. Aons can only be drawn by [[Elantrian\|Elantrians]], people raised to power and immortality through the city of [[Elantris (city)\|Elantris]].
-**ChayShan** - the magic of [[JinDo\|JinDo]]; through taking specific stances and forming specific motions with one's own body, the user can access Dor for increased strength, awareness, and possibly other effects.
-**Dakhor** - the magic of [[Fjordell\|Fjordell]]; through chants, the bones of a Dakhor monk are induced to change shape, which grants them abilities such as increased strength, bodily transformation, and even teleportation.
-**Forgery** - magic usable in the [[Rose Empire\|Rose Empire]], originating from [[MaiPon\|MaiPon]]; accesses Dor through creation of [[Soulstamp\|soulstamps]], which contain a specific shape that is then imparted onto an object, rewriting its [[Spiritual Realm\|Spiritual]] aspect to change its history and, through this, present behavior and appearance.
-**Bloodsealing** - another Rose Empire magic, originating in [[Dzhamar\|Dzhamar]]; using human blood, Bloodsealers can create wards and animate skeletons of the dead.
-### Seons
- by  Séverine Dumagny  A [[Seon\|seon]] with its bonded human
-For more information, see [[Seon\|Seon]].
-[[Seon\|Seons]] are magical entities somewhat common in the [[Arelish\|Arelish]] region of Sel. They appear as bright spheres of light about the size of a melon, with a shining [[Aon\|Aon]] inside of them; each Seon has its own Aon, and is named after it. Those Aons are [[Splinter\|Splinters]] of Devotion, and have at least some sense that they came from something larger and how they were created, which causes them to consider Devotion as something of a god or parent.
-They are extremely similar to the [[Spren\|spren]] of [[Roshar\|Roshar]], and much like spren, they bond with humans. They offer their masters unconditional love, and will be negatively affected by something happening to their humans, such as the transformation into a [[Reod\|Reod]] Elantrian. Unlike spren, seons do not grant their bonded humans any particular abilities, but they do have magical talents of their own. Most notably, two seons can link together to allow for instant communication between their masters, with each seon taking on the appearance of the person on the other side of the link.
-Their equivalents formed from [[Dominion\|Dominion's]] Investiture are the [[Skaze\|skaze]].
+## Intención
+Como Devoción fue astillada muy temprano en la prehistoria de [[Sel\|Sel]], se desconoce cómo se manifestaría exactamente su intención. Parece que desea cuidar de la gente y proporcionarles protección contra el dolor y el daño. Aunque no son tan directamente hostiles entre sí como [[Conservaci%C3%B3n\|Conservación]] y [[Ruina\|Ruina]], Devoción y [[Dominio\|Dominio]] son en cierta forma opuestos entre sí, aunque sus poderes trabajan juntos como el [[Dor\|Dor]]. Devoción y [[Odium\|Odium]] también pueden ser considerados opuestos entre sí.
 
-### Direct intervention
-As a dead Shard, Devotion can no longer directly intervene into the affairs of Sel; however, something still speaks to the [[Elantrian\|Elantrians]] who go into [[Devotion's Perpendicularity\|Devotion's Perpendicularity]]. It presents Elantrians with a choice to either be dissolved, effectively dying, or carry on living.
+## Magias asociadas
+  Un <<Elantrino\|elantrino>> usando el <<Aon\|aon>> Rao
+### El Dor
+Para más información, ver [[Dor\|Dor]].
 
-## History
- by  zoethatcher_art 
-For history of the Vessel prior to becoming a Shard, see [[Aona\|Aona]].
->“*In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered.*”
+Cuando Odium astilló a Devoción y a Dominio, atrapó sus poderes en el [[Reino Cognitivo\|Reino Cognitivo]] para evitar que pudiesen conseguir otro Recipiente. Dado que, al contrario que en el [[Reino Espiritual\|Reino Espiritual]], la localización existe en el Reino Cognitivo, el poder de las dos Esquirlas está atrapado como una gigantesca tormenta polarizada de [[Investidura\|Investidura]] conocida como el [[Dor\|Dor]], lo cual hace que [[/wiki/Cosmere#Salamundos]] a Sel sea muy peligroso.
+La existencia del Dor tiene un profundo efecto en Sel, ya que en lugar de un único sistema de magia que abarque todo el planeta, éste cuenta con numerosos sistemas, cada uno de los cuales tiene su hogar en una región concreta, todos influenciados de alguna manera por ambas Esquirlas. Una similaridad subyacente a todos ellos parece ser la dependencia con la forma: todas las formas de acceder al Dor dependen de que el usuario cree una forma específica, a menudo basada en las características de la tierra asociada a cada magia concreta.
+Este vínculo entre la localización y la magia también implica que la posición física del usuario en relación a la región de origen del sistema influencie la fuerza de la magia, y alejarse de su origen disminuirá sus efectos. Además, para acceder a un sistema de magia, parece que hay que ser de la tierra asociada al mismo.
+Entre los sistemas mágicos que utilizan el Dor se encuentran:
+
+**[[AonDor\|AonDor]]** - la magia de [[Arelon\|Arelon]] y el área circundante; la habilidad de dibujar en el aire símbolos llamados [[Aon\|aones]] para producir diversos efectos mágicos. Los aones solo pueden ser dibujados por [[Elantrino\|elantrinos]], personas elevadas al poder y a la inmortalidad a través de la ciudad de [[Elantris (ciudad)\|Elantris]].
+**[[ChayShan\|ChayShan]]** - la magia de [[JinDo\|JinDo]]; mediante la adopción de posturas específicas y formando movimientos concretos con el propio cuerpo, el usuario puede acceder al Dor para aumentar su fuerza, su conciencia y probablemente otros efectos.
+**[[Dakhor\|Dakhor]]** - la magia de [[Fjordell\|Fjordell]]; por medio de cantos, los huesos de un monje dakhor son inducidos a cambiar de forma, lo cual les otorga habilidades como el aumento de la fuerza, la transformación del cuerpo e incluso el teletransporte.
+**[[Falsificaci%C3%B3n\|Falsificación]]** - magia utilizada en el [[Imperio Rosa\|Imperio Rosa]], originaria de [[MaiPon\|MaiPon]]; accede al Dor a través de la creación de [[Sello de alma\|sellos de alma]], que contienen una forma específica que luego se impone a un objeto, reescribiendo su aspecto [[Reino Espiritual\|espiritual]] para cambiar su historia y, a través de ella, su apariencia y comportamiento actuales.
+**[[Sellado de sangre\|Sellado de sangre]]** - otra magia del Imperio Rosa, originada en [[Dzhamar\|Dzhamar]]; utilizando sangre humana, los selladores de sangre pueden crear protecciones y animar los esqueletos de los muertos.
+### Seones
+  Un <<Seon\|seon>> con su humano vinculado
+Para más información, ver [[Seon\|Seon]].
+Los [[Seon\|seones]] son entidades mágicas relativamente comunes en la [[Arelon\|región de Arelon]] de Sel. Aparecen como esferas brillantes de luz del tamaño de un melón, con un [[Aon\|aon]] brillante en su interior; cada seon tiene su propio aon, y recibe de él su nombre. Dichos aones son [[Astilla\|astillas]] de Devoción, y tienen al menos cierta consciencia de que provienen de algo más grande y de cómo fueron creados, lo que hace que consideren a Devoción como algo parecido a un dios o una madre.
+Son extremadamente similares a los [[Spren\|spren]] de [[Roshar\|Roshar]], y al igual que estos, se vinculan con humanos. Ofrecen a sus amos amor incondicional, y se verán afectados negativamente por algo que les ocurra a sus humanos, como la transformación en un elantrino del [[Reod\|Reod]]. A diferencia de los spren, los seones no otorgan a sus humanos vinculados ninguna habilidad en particular, pero sí tienen talentos mágicos propios. En particular, dos seones pueden unirse para permitir la comunicación instantánea entre sus amos, y cada seon adopta la apariencia de la persona al otro lado del enlace.
+Sus equivalentes formados a partir de la investidura de [[Dominio\|Dominio]] son los [[Skaze\|skaze]].
+
+### Intervención directa
+Como Esquirla muerta, Devoción ya no puede intervenir en los asuntos de Sel; sin embargo, algo aún habla a los [[Elantrinos\|elantrinos]] que entran en la [[Perpendicularidad de Devoci%C3%B3n\|Perpendicularidad de Devoción]]. Presenta a los elantrinos la opción de disolverse, muriendo como resultado, o seguir viviendo.
+
+## Historia
+ 
+Para historia del Recipiente antes de convertirse en Esquirla, ver [[Aona\|Aona]].
+>“*Por si acaso has decidido hacer la vista gorda, has de saber que Aona y Skai están muertos, y que lo que tenían ha sido Astillado.*”
 \-Hoid[22]
 
 
-Very little is known about Devotion, as she was splintered a long time ago. The Shard was created at the [[Shattering of Adonalsium\|Shattering of Adonalsium]], along with fifteen others, and picked by [[Aona\|Aona]]. She and [[Dominion\|Dominion]], for an unknown reason, decided to strike out together to [[Sel\|Sel]], where they passively influenced a number of local cultures, though ultimately decided to take on a more laissez faire approach to human development. At some point early on, [[Odium\|Odium]] came along and, possibly with some assistance from [[Autonomy\|Autonomy]], killed both Shards and [[Splinter\|Splintered]] them.
-Once the [[Vessel\|Vessels]] were dead, the remnants of the two Shards were pushed together into Sel's [[Cognitive Realm\|Cognitive Realm]] to prevent anyone from taking up the power or the powers themselves from achieving sentience; this created the [[Dor\|Dor]]. This plan was not entirely successful, as over time, the Dor has begun to attain self-awareness of its own.
+Poco se sabe sobre Devoción, ya que se astilló hace mucho tiempo. La Esquirla fue creada en la [[Fragmentaci%C3%B3n\|Fragmentación de Adonalsium]], junto con otras quince, y fue elegida por [[Aona\|Aona]]. Elle y [[Dominio\|Dominio]], por una razón desconocida, decidieron partir juntos hacia [[Sel\|Sel]], donde influenciaron de forma pasiva a un número de culturas locales, aunque finalmente decidió adoptar un enfoque más pasota del desarrollo humano. En algún momento temprano, [[Odium\|Odium]] llegó y, posiblemente con algo de ayuda de [[Autonom%C3%ADa\|Autonomía]], mató a ambas Esquirlas y las [[Astilla\|astilló]].
+Una vez que los [[Recipiente\|Recipientes]] estaban muertos, los restos de las dos Esquirlas fueron empujadas juntas al [[Reino Cognitivo\|Reino Cognitivo]] de Sel para evitar que nadie tomase su poder o que los propios poderes ganaran conciencia propia; lo cual creó el [[Dor\|Dor]]. Este plan no fue del todo exitoso, ya que con el tiempo, el Dor ha comenzado a tomar conciencia de sí mismo.
 
-## Influence
- by  Heatherly 
->“*Merciful Domi!*”
-\-Arelish exclamation[20]
-
-
-Historically, Devotion and Dominion were not directly involved in human civillization on [[Sel\|Sel]]; however, the discovery of their powers drove its development nonetheless. Both were fundamental in early Selish cultures, and many traditions and religions on the planet are derived from the two of them. Among others, multiple languages and writing systems on Sel are based on Devotion and Dominion's power, with the prime example being the [[Aon\|Aons]]. To this day, worship of Devotion is the primary religion of [[Arelon\|Arelon]], where she is known as [[Domi\|Domi]]; some aspects of [[Jaddeth\|Jaddeth]] are likewise inspired by her. The [[Ire\|Ire]], or at least some of its members, also seem to revere her, directly under her Shardic name.
-Due to her early death, Devotion is not particularly influential in modern-day [[Cosmere\|cosmere]], but her corpse, in form of the [[Dor\|Dor]], has made travel to and from [[Sel\|Sel]] through the [[Cognitive Realm\|Cognitive Realm]] highly difficult. It's possible some remnant of her is still present within it, or at least within her [[Perpendicularity\|perpendicularity]], [[The Lake\|the Lake]], as it speaks to [[Elantrian\|Elantrians]] thrown into it.
-During the [[True Desolation\|True Desolation]] on [[Roshar\|Roshar]], [[Harmony\|Harmony]] sends a letter to [[Hoid\|Hoid]], in which he expresses how troubled he is by Devotion's and Dominion's deaths, as he had not known that Shards could be [[Splinter\|Splintered]] in such a way.
-
-## Trivia
-In *Magic: The Gathering* colors, Devotion would be green/red.
-The pairing of Devotion and [[Dominion\|Dominion]] is somewhat inspired by yin and yang.
+## Influencia
+ 
+>“*¡Domi misericordioso!*”
+\-Exclamación arelena [20]
 
 
-https://coppermind.net/wiki/Devotion
+Históricamente, Devoción y Dominio no estaban involucradas directamente en la civilización humana de [[Sel\|Sel]]; sin embargo, el descubrimiento de sus poderes impulsó su desarrollo. Ambas Esquirlas fueron fundamentales en las primeras culturas de Sel, y muchas tradiciones y religiones del planeta derivan de ambas. Entre otros, varios lenguajes y sistemas de escritura en Sel están basados en el poder de Devoción y Dominio, siendo el mejor ejemplo los [[Aon\|aones]]. Hasta este día, el culto a Devoción es la religión primaria en [[Arelon\|Arelon]], donde es conocide como [[Domi\|Domi]]; algunos aspectos de [[Jaddeth\|Jaddeth]] están igualmente inspirados por elle. Los [[Ire\|Ire]], o al menos algunos de sus miembros, también parecen adorarle, directamente por su nombre de Esquirla.
+Debido a su muerte temprana, Devoción no es particularmente influyente en el [[Cosmere\|Cosmere]] actual, pero su cadáver, en la forma del [[Dor\|Dor]], ha hecho que viajar desde y hacia [[Sel\|Sel]] a través del [[Reino Cognitivo\|Reino Cognitivo]] sea muy difícil. Es posible que algún remanente de elle aún esté presente en su interior, o al menos en el interior de su [[Perpendicularidad\|Perpendicularidad]], [[Perpendicularidad de Devoci%C3%B3n\|el Lago]], ya que habla a los [[Elantrino\|elantrinos]] arrojados a su interior.
+Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] en [[Roshar\|Roshar]]. [[Armon%C3%ADa\|Armonía]] envía una [[/wiki/Cartas#La sexta carta]] a [[Hoid\|Hoid]], en la que expresa como le perturba la muerte de Devoción y Dominio, ya no sabía que las Esquirlas se pudieran [[Astilla]r de esa forma.
+
+## Curiosidades
+En los colores de ** Devoción sería verde/rojo.
+El emparejamiento entre Devoción y [[Dominio\|Dominio]] está en cierta forma inspirado en el yin y el yang.
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**| · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] ·  · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Devotion

@@ -1,55 +1,75 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Vstim**|
 |-|-|
-|by  Dragontrill |
-|**Relatives**|[[Chanrm\|Chanrm]]|
-|**Profession**|Merchant, Minister of Trade|
-|**Nationality**|[[Thaylen\|Thaylen]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Way of Kings*|
+||
+|**Familia**|
+|**Parientes**|[[Chanrm\|Chanrm]]|
+|**Oficio**|Comerciante|
+|**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Vstim** is a [[Thaylen\|Thaylen]] merchant on [[Roshar\|Roshar]]. He is currently employed as the Minister of Trade for [[Queen Fen\|Queen Fen]], the highest civil position in the Thaylen government. He was "babsk" to [[Rysn\|Rysn]], a position consisting of a master to an apprentice, and also her legal father until he pronounced her a merchant in her own right.
+**Vstim** es un comerciante [[Thaylenah\|thayleño]] en [[Roshar\|Roshar]]. En la actualidad trabaja como Ministro de Comercio de la [[Reina Fen\|Reina Fen]], el cargo civil más alto del gobierno thayleño. Fue «babsk» de [[Rysn\|Rysn]], un cargo que consiste en un maestro para un aprendiz, y también su padre legal hasta que la declaró comerciante por derecho propio.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Shinovar
-2.2 Reshi Isles
-2.3 Thaylen City
-2.4 Rysn's Journey to Akinah
-2.5 Post-expedition
-
-
-3 Notes
+2. [[#Shinovar]] 
+2. [[#Islas Reshi]] 
+2. [[#Ciudad Thaylen]] 
+2. [[#Viaje de Rysn a Akinah]] 
+2. [[#Post-expedici.C3.B3n]] 
 
 
-## Appearance and Personality
-Vstim is in his 70's and described by [[Rysn\|Rysn]] as "spry for his years." He prefers to wear [[Thaylen\|Thaylen]] merchant's clothing consisting of stiffly starched robes and a conical hat. He is very wealthy and follows the [[Passions\|Passions]].
+3 Notas. [[#Notas]] 
 
-## History
+
+## Apariencia y personalidad
+Vstim tiene más de 70 años y es descrito por Rysn como «ágil para su edad». Prefiere vestir la ropa de mercader thayleño, que consiste en una túnica rígidamente almidonada y un sombrero cónico. Es muy rico y sigue las [[Pasiones\|Pasiones]].
+
+## Historia
 ### Shinovar
-Vstim traveled to [[Shinovar\|Shinovar]] with his apprentice [[Rysn\|Rysn]] to trade with [[Thresh-son-Esan\|Thresh-son-Esan]]. He brought [[Soulcast\|Soulcast]] metal and traded in exchange for [[Chicken\|chicken]]. It is revealed that seven years before on another trade he received [[Szeth\|Szeth]], whom he describes as the "best servant I ever had." Every time he comes back to Shinovar he asks Thresh to trade him another Shin soldier, which is denied by Thresh because Szeth had been [[Truthless\|Truthless]].
+Vstim viajó a [[Shinovar\|Shinovar]] con su aprendiz [[Rysn\|Rysn]] para comerciar con [[Thresh-hijo-Esan\|Thresh-hijo-Esan]]. Llevó metal [[Moldear almas\|moldeado]] y lo intercambió por [[Pollo\|pollos]]. Se revela que siete años antes, en otro trueque, recibió a [[Szeth\|Szeth]], a quien describe como el «mejor sirviente que he tenido». Cada vez que vuelve a Shinovar le pide a Thresh que le intercambie otro soldado shin, lo que es rechazado por Thresh porque Szeth había sido un [[Sinverdad\|Sinverdad]].
 
-### Reshi Isles
-A year later Vstim and Rysn traveled to the [[Reshi Isles\|Reshi Isles]]. He feigned sickness in order to allow her to take charge of the trade for herself. Rysn met [[Talik\|Talik]] and in attempting to prove her boldness to the natives, ended up falling off the top of the [[Tai-na\|Tai-na]] and into the water below. The fall shattered her legs. Afterward Vstim reappeared and revealed he had feigned sickness in order to give her a chance to lead as trademaster to see how she would do. Rysn figured out that Vstim was previously Talik's babsk. It was also revealed by the [[Ral-na\|Reshi king]] that Vstim had gained the islanders' respect a long time ago by hunting down a [[Coracot\|coracot]].
+### Islas Reshi
+Un año después, Vstim y Rysn viajaron a las [[Islas Reshi\|Islas Reshi]]. Él fingió estar enfermo para que ella pudiera hacerse cargo del negocio por sí misma. Rysn conoció a [[Talik\|Talik]] y, al intentar demostrar su audacia a los nativos, acabó cayendo de la cima del [[Tai-na\|Tai-na]] y directa al agua. La caída le destrozó las piernas. Después, Vstim reapareció y le reveló que había fingido estar enfermo para darle la oportunidad de liderar como maestra y ver cómo se desenvolvía. Rysn descubrió que Vstim fue antes el babsk de Talik. Además, el rey Reshi le reveló que Vstim se había ganado el respeto de los isleños hacía mucho tiempo al cazar un [[Coracot\|coracot]].
 
-### Thaylen City
-When Rysn was working in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]], a job that Vstim arranged for her, he unexpectedly visited Rysn. He told her that Queen Fen offered him a job as Minister of Trade, "the highest civilian appointment in the kingdom". Then he handed Rysn a box, containing a wound-up cord of white rope and a deed of ownership to the *Wandersail*, so Rysn could still be a merchant even though she can't walk. He also offered to fund her first trade run.
-Following that, Rysn gave Vstim a tour through the vault and shows him the [[King's Drop\|King's Drop]]. As they begin to inventory the vault, they get attacked by one of the guards, a disguised [[Fused\|Fused]]. The attacker slashed at Vstim and locked him in a smaller vault.
-Later, Highprince [[Dalinar Kholin\|Dalinar Kholin]] found Rysn and the wounded Vstim amid the wreckage of the collapsed Thaylen Gemstone Reserve building. He asked Rysn what happened, and Vstim is attended to.
+### Ciudad Thaylen
+Cuando Rysn trabajaba en la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]], un empleo que Vstim le consiguió, éste la visitó de improviso. Le dijo que la reina Fen le había ofrecido un puesto de Ministro de Comercio, «el más alto nombramiento civil del reino». Luego le entregó a Rysn una caja, que contenía una cuerda blanca enrollada y una escritura de propiedad del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]* para que Rysn pudiera seguir siendo comerciante aunque no pudiera caminar. También se ofreció a financiar su primera ruta comercial.
+A continuación, Rysn ofreció a Vstim un recorrido por la cámara y le mostró la [[L%C3%A1grima del Rey\|Lágrima del Rey]]. Cuando empezaron a inventariar la cámara, fueron atacados por uno de los guardias, un [[Fusionado\|Fusionado]] disfrazado. El atacante acuchilló a Vstim y lo encerró en una cámara más pequeña.
+Más tarde, [[Dalinar\|Dalinar]] encontró a Rysn y al herido Vstim entre los restos del edificio derrumbado de la Reserva Thayleña de Gemas. Le preguntó a Rysn qué había pasado y Vstim fue atendido.
 
-### Rysn's Journey to Akinah
-Prior to Rysn meeting with Queen [[Navani Kholin\|Navani Kholin]], Vstim shared information with her about a secret Alethi [[Fabrial\|fabrial]] project involving a set of conjoined fabrial lifts. Some of the details of the project were public, but Vstim's position as Thaylen Minister of Trade afforded him private information on the true purpose of the project.
-Vstim accepted investment funds from several people for creation of the *Wandersail*. However, despite transferring ownership of the *Wandersail* to Rysn, he remained the primary investor. As such, he received a portion of the *Wandersail'*s profits.
-During the construction and test voyages of the *Wandersail*, Vstim kept his intention to gift the ship to Rysn private. This led to initial animosity towards Rysn on the part of the crew, who anticipated ownership being given to [[Drlwan\|Drlwan]], the captain.
-On her voyage to [[Akinah\|Akinah]], Rysn recalled a particular set of trades made by Vstim during an expedition to the wilderness of [[Hexi\|Hexi]]. While in [[Triax\|Triax]], Vstim purchased barrels of grain containing worms for mere chips. He later traded the wormy grain to Hexi nomads, as their priestly class took oaths not to eat flesh but considered grubs and insects to be plant, not animal.
-When the *Wandersail* and its crew took shore leave, following the encounter with the [[Sleepless\|Sleepless]] in the form of a dead [[Santhid\|santhid]], Rysn communicated with Vstim via spanreed. He informed her of Queen Navani's secret goal to find an [[Oathgate\|Oathgate]] on Akinah. Vstim also spoke via spanreed with Queen [[Jasnah Kholin\|Jasnah Kholin]] on behalf of Rysn regarding the [[Sleepless\|Sleepless]] and the [[Fused\|Fused]] Lightweavers.
+### Viaje de Rysn a Akinah
+Antes de que Rysn se reuniera con [[Navani Kholin\|Navani Kholin]], Vstim compartió con ella información sobre un proyecto secreto de [[Fabrial\|fabriales]] de los alezi que incluía un conjunto de fabriales elevadores. Algunos de los detalles del proyecto eran públicos, pero la posición de Vstim como Ministro de Comercio de Thaylenah le proporcionaba información privada sobre el verdadero propósito del proyecto.
+Vstim aceptó fondos de inversión de varias personas para la creación del *Vela Errante*. Sin embargo, a pesar de transferir la propiedad del *Vela Errante* a Rysn, siguió siendo el principal inversor. Como tal, recibió una parte de los beneficios generados por el barco.
+Durante la construcción y los viajes de prueba del *Vela Errante*, Vstim mantuvo en secreto su intención de regalar el barco a Rysn. Esto provocó una hostilidad inicial hacia Rysn por parte de la tripulación, que preveía que la propiedad se otorgara a [[Dlrwan\|Dlrwan]], la capitana.
+En su viaje a [[Akinah\|Akinah]], Rysn recordó una serie de intercambios realizados por Vstim durante una expedición al desierto de [[Hexi\|Hexi]]. Mientras estaba en [[Triax\|Triax]], Vstim compró barriles de grano con gusanos a cambio de simples chips. Más tarde intercambió el grano con gusanos con los nómadas de Hexi, ya que su clase sacerdotal juraba no comer carne, pero consideraba que las larvas y los insectos eran plantas, no animales.
+Cuando el *Vela Errante* y su tripulación tomaron un permiso para bajar a tierra, tras el encuentro con el [[Insomne\|Insomne]] en forma de [[Santhid\|santhid]] muerto, Rysn se comunicó con Vstim a través de vinculacañas. Éste la informó del objetivo secreto de la reina Navani de encontrar una [[Puerta Jurada\|Puerta Jurada]] en Akinah. Vstim también se comunicó por medio de una vinculacañas con la reina [[Jasnah Kholin\|Jasnah Kholin]] en nombre de Rysn sobre los [[Insomne\|Insomnes]] y los [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] [[Fusionado\|Fusionados]].
 
-### Post-expedition
-After Rysn returned from Aimia, Vstim met with her privately to hear her account of the journey. He learned the truth about the Sleepless, what they were really concealing on Aimia, and how Rysn joined with the [[Dawnshard\|Dawnshard]]. Despite some trepidation, he promised Rysn that he would keep everything secret, even from Queen Fen.
+### Post-expedición
+Después de que Rysn regresara de Aimia, Vstim se reunió con ella en privado para escuchar su relato del viaje. Se enteró de la verdad sobre los Insomnes, de lo que realmente ocultaban en Aimia y de cómo Rysn se unió a la Esquirla del Amanecer. A pesar de la inquietud, le prometió a Rysn que lo mantendría todo en secreto incluso ante la reina Fen.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Vstim
+https://es.coppermind.net/wiki/Vstim

@@ -1,43 +1,55 @@
+
+
 |**Chesterton Divide**|
 |-|-|
-|**Died**|By [[Silence Montane\|Silence Montane]]|
-|**Profession**|Highwayman|
-|**Residence**|[[Forests of Hell\|The Forests of Hell]]|
-|**Homeworld**|[[Threnody\|Threnody]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Shadows for Silence in the Forests of Hell*|
+|**Fallecido**|Por [[Silencio Montane\|Silencio Montane]]|
+|**Oficio**|Bandolero|
+|**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
+|**Mundo natal**|[[Treno\|Treno]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
-**Chesterton Divide** is a highwayman from [[Threnody\|Threnody]].
+**Chesterton Divide** es un asaltante de caminos de [[Treno\|Treno]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Early Life
-2.2 Arrival at Silence's Waystop
-2.3 Fight for Chesterton's Corpse
-
-
-3 Notes
+2. [[#Vida temprana]] 
+2. [[#Llegada a la posada de Silencio]] 
+2. [[#Lucha por el cad.C3.A1ver de Chesterton]] 
 
 
-## Appearance and Personality
-It is uncertain how he normally dresses, but Chesterton and his men disguise themselves as merchants, wearing black coats with lace at the front and tall, wide-brimmed hats. His physical appearance is not described.
-Chesterton is a vicious monster, likened to a rabid dog. He is responsible for many cruel acts, in particular larceny, murder, and rape. He has been shown to do whatever it takes to get what he wants, be it bribery, threats, killing, or other distasteful methods. He is not without cunning though; traveling as a merchant is a clever ruse that allows him freedom of movement and access to information.
-
-## History
-### Early Life
-Very little about Chesterton's early life is known. He is initially a simple, if successful, highway robber, guilty of murder, rape, and extortion. One of his early crimes is the slaughter of [[Sebruki\|Sebruki's]] family. For reasons unknown, he enters her family's homestead, encircles the room with silver powder to keep the [[Shade\|shades]] out, and proceeds to kill her entire family. Sebruki's mother hides her under the floorboards, so Chesterton does not kill her.
-Later he kills the governor of [[Lastport\|Lastport]], although how or why are unclear. The city of Lastport puts a huge bounty on Chesterton's head, calling him a psychopath and anarchist. Chesterton and four of his men go on the run, slipping into the [[Forests of Hell\|Forests of Hell]] to hide, in the guise of simple merchants. The disguise allows them to vanish without cause for alarm, people assume that they were foolish and have simply been killed by shades. They also can stop at waystops to listen for information and case places and people they want to rob. Chesterton and his men manage to avoid capture in this way for at least three months.
-
-### Arrival at Silence's Waystop
-Chesterton and his men then stop at [[Silence Montane\|Silence Montane's]] [[Silence's waystop\|waystop]] for food, where she recognizes him from her book of bounties. Unbeknownst to them, she has her daughter, [[William Ann\|William Ann]], drug their food with [[Fenweed\|fenweed]] to make them drowsy. She also mixes their horses' water with [[Wetleek\|wetleek sap]], which allows her and William Ann to track them by their urine, which is bioluminescent under the light of [[Abraham's Fire\|Abraham's Fire]].
-Not long after leaving Silence's waystop, Chesterton and his men bed down for the night. Drugged as they are he and his men fall into a deep sleep. Silence and William Ann find them, and dispatch almost all of them before Chesterton wakes and attempts to escape. Silence and her daughter successfully kill him with a hammer while keeping any blood they shed covered with a bag.
-
-### Fight for Chesterton's Corpse
-[[Red Young\|Red Young]] and his men stop Silence and William Ann on their way home with Chesterton's body, and take it off of them for the reward. Silence contrives a booby trap to cause an explosion, which allow them to escape with the body. However, when Red Young catches up with them, Silence and her daughter are forced to leave the body behind. [[Theopolis\|Theopolis]] successfully retrieves the body and places it in his hideout, where Silence recovers it after his death. She creates the story that Theopolis was the White Fox and turns Chesterton's body in for the bounty.
+3 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+No se sabe con certeza cómo viste normalmente, pero Chesterton y sus hombres se disfrazan de mercaderes, llevando abrigos negros con encaje en la parte delantera y sombreros altos de ala ancha. No se describe su aspecto físico.
+Chesterton es un monstruo despiadado, al que se compara con un perro rabioso. Es responsable de muchos actos crueles, en particular latrocinios, asesinatos y violaciones. Se ha demostrado que hace lo que sea para conseguir lo que quiere, ya sea sobornar, amenazar, matar u otros métodos desagradables. Sin embargo, no carece de astucia; viajar como mercader es una astuta treta que le permite libertad de movimientos y acceso a la información.
 
-https://coppermind.net/wiki/Chesterton_Divide
+## Historia
+### Vida temprana
+Se sabe muy poco sobre los primeros años de la vida de Chesterton. Al principio es un simple, aunque exitoso, asaltante de caminos, culpable de asesinato, violación y extorsión. Uno de sus primeros crímenes es la matanza de la familia de [[Sebruki\|Sebruki]]. Por razones desconocidas, entra en la casa de su familia, rodea la habitación con polvo de plata para impedir el paso de las [[Umbra\|umbras]] y procede a matar a toda su familia. La madre de Sebruki la esconde bajo las tablas del suelo, para que Chesterton no la mate.
+Más tarde mata al gobernador de [[%C3%9Altimo Puerto\|Último Puerto]], aunque no está claro cómo ni por qué. La ciudad pone una enorme recompensa por la cabeza de Chesterton, llamándole psicópata y anarquista. Chesterton y cuatro de sus hombres se dan a la fuga, escondiéndose en los [[Bosques del infierno\|bosques del infierno]] bajo la apariencia de simples mercaderes. El disfraz les permite desvanecerse sin motivo de alarma, ya que la gente supone que eran unos insensatos y que simplemente habían sido asesinados por las umbras. También pueden detenerse en las posadas para escuchar información y localizar lugares y personas a los que quieren robar. Chesterton y sus hombres consiguen evitar ser capturados de este modo durante al menos tres meses.
+
+### Llegada a la posada de Silencio
+Chesterton y sus hombres se detienen en la [[Posada de Silencio\|posada de Silencio]] para comer, donde ella le reconoce por su libro de recompensas. Sin que ellos lo sepan, hace que su hija, [[William Ann\|William Ann]], drogue su comida con [[Pantanoja\|pantanoja]] para adormecerlos. También mezcla el agua de sus caballos con [[Puerromojado\|sabia de puerromojado]], lo que les permite a ella y a William Ann rastrearlos por su orina, que es bioluminiscente a la luz del [[Fuego de Abraham\|fuego de Abraham]].
+Poco después de abandonar la posada de Silencio, Chesterton y sus hombres se acuestan para pasar la noche. Drogados como están, él y sus hombres caen en un profundo sueño. Silencio y William Ann los encuentran y acaban con casi todos antes de que Chesterton despierte e intente escapar. Silencio y su hija consiguen matarle con un martillo, mientras mantienen cubierta con una bolsa toda la sangre que derraman.
+
+### Lucha por el cadáver de Chesterton
+[[Joven Rojo\|Joven Rojo]] y sus hombres detienen a Silencio y a William Ann de camino a casa con el cuerpo de Chesterton, y se lo quitan para cobrar la recompensa. Silencio urde una trampa para provocar una explosión, lo que les permite escapar con el cadáver. Sin embargo, cuando Joven Rojo las alcanza, Silencio y su hija se ven obligadas a abandonar el cuerpo. [[Theopolis\|Theopolis]] consigue recuperar el cadáver y lo coloca en su escondite, donde Silencio lo recupera tras su muerte. Ella crea la historia de que Theopolis era el Zorro Blanco y entrega el cadáver de Chesterton por la recompensa.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 22:34, 16 de marzo de 2017 (MST)
+|**[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]] ([[Treno\|Treno]])**|
+|-|-|
+|**Personajes**|[[Silencio Montane\|Silencio Montane]] ·  · [[William Ann Montane\|William Ann Montane]] · [[Theopolis\|Theopolis]] · [[Joven Rojo\|Joven Rojo]] · [[Abuela de Silencio\|Abuela de Silencio]] · [[Sebruki\|Sebruki]] · [[Daggon\|Daggon]] · [[Nazh\|Nazh]]|
+|**Lugares**|[[Bosques del infierno\|Bosques del infierno]] · [[Posada de Silencio\|Posada de Silencio]] · [[%C3%9Altimo Puerto\|Último Puerto]] · [[Puente Viejo\|Puente Viejo]] · [[Patria\|Patria]] · [[Colina Basti%C3%B3n\|Colina Bastión]] · [[Mundo Ca%C3%ADdo\|Mundo Caído]]|
+|**Términos**|[[Ambici%C3%B3n\|Ambición]] · [[Sencillas Reglas\|Sencillas Reglas]] · [[Umbra\|Umbra]] · [[Dios del M%C3%A1s All%C3%A1\|Dios del Más Allá]] · [[Maldad\|La Maldad]] · [[Pionero\|Pionero]] · [[Ciudades-fuerte\|Ciudades-fuerte]] · [[Profunda\|Profunda]]|
+
+
+
+https://es.coppermind.net/wiki/Chesterton_Divide

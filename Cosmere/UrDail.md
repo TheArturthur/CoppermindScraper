@@ -1,49 +1,62 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**UrDail**|
 |-|-|
-|by  Bernardo Curvello |
-|**World**|[[ReDawn (planet)\|ReDawn]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Mundo**|[[ReAlba (planeta)\|ReAlba]]🐱︎|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, *Cytonic*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, *[[Cit%C3%B3nica (libro)\|Citónica]]*, y *[[Perpetua\|Perpetua]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*The UrDail have been a spacefaring people for centuries now. You have nearly reached primary intelligence and have a functioning world government. Normally, you'd have been invited among our ranks generations ago.*”
+>“*Los UrDail, en cambio, llevan ya siglos navegando el espacio. Casi han alcanzado la inteligencia primaria y tienen un gobierno planetario funcional. Como norma general, deberían haber recibido la invitación para unirse a la Supremacía hace generaciones.*”
 \-Cuna[1]
 
 
-The **UrDail** are a nation of aliens that live on the planet [[ReDawn (planet)\|ReDawn]]. They are not a part of the [[Superiority\|Superiority]] and have allied with the humans in the past. It's unknown whether "UrDail" is also the name of their species or if they have a different word for themselves.
+Los **UrDail** son una nación de alienígenas que viven en el planeta [[ReAlba (planeta)\|ReAlba]]. No forman parte de la [[Supremac%C3%ADa\|Supremacía]] y se han aliado con los humanos en el pasado. Se desconoce si "UrDail" es también el nombre de su especie o si tienen una palabra diferente para ellos.
 
-## Contents
+## Sumario
 
-1 Appearance and Biology
-2 History
-3 Culture
-4 Known UrDail
-5 Notes
-
-
-## Appearance and Biology
->“*Saints and stars. She's beautiful. Almost… almost like a devil from one of the old stories…*”
-\-Kimmalyn on Alanik[3]
+1 Apariencia y biología. [[#Apariencia y biolog.C3.ADa]] 
+2 Historia. [[#Historia]] 
+3 Cultura. [[#Cultura]] 
+4 UrDail conocidos. [[#UrDail conocidos]] 
+5 Notas. [[#Notas]] 
 
 
-The UrDail are humanoid in both size and shape, albeit with purple skin and white bone ridges under their eyes. Their hair can be white, and their eyes can be purple; it's possible they come in other colors as well. Like humans, the UrDail appear to have at least two sexes, and breast-feed their children. Their dietary needs are likewise similar, though there are some foods that humans can eat and UrDail cannot, and vice versa. Most notably, they eat less meat and more nuts, and do not drink milk from other creatures; not out of inability, but rather because they consider it gross.
-They have very few [[Cytonics\|cytonics]], with [[Alanik\|Alanik]] being one of only five at the moment.
+## Apariencia y biología
+>“*Por los santos y las estrellas. Qué hermosa es. Casi... casi como una demonia de las antiguas historias.*”
+\-Kimmalyn sobre Alanik[3]
 
-## History
-Little is known about UrDail history. During the Third [[Human War\|Human War]], they were allied to humanity, although later, the UrDail politicians would come to call this period an occupation by human forces. Regardless of the facts, this has led to them being perceived as aggressive by the Superiority, and thus denied citizenship for many decades.
-About a century after the Third War's conclusion, [[Cuna\|Cuna]] of the Superiority's [[Department of Species Integration\|Department of Species Integration]] decided to send out a call for non-member species to join the [[Delver\|Delver]] Resistance Project by sending pilots, promising citizenship for those who would. The UrDail were the only such outsider species to answer. However, their emissary, Alanik, instead sought out humans, and as a consequence, she crashed and fell into a coma on [[Detritus\|Detritus]], with [[Spensa\|Spensa]] taking her place and travelling to [[Starsight (station)\|Starsight]] disguised as her.
-Spensa eventually contacted the UrDail and explained the situation; though unhappy, the Unity government agreed to play along, and ran interference when Cuna sought out information on Alanik. Cuna eventually figured out that something was up, and assumed that the UrDail were after the FTL drive rather than citizenship, but Spensa cleared up the matter before it could become dangerous to them.
 
-## Culture
-The UrDail make their home on [[ReDawn (planet)\|ReDawn]], though they have been exploring and exploiting space for several hundred years. They have a single overarching government, known as the **Council**, which is lead by the Council President. Members of the Council are elected in events known as **balancings**. The UrDail have two main political parties, **Unity** and **Independence**; each party is lead by a member known as its **High Chancellor**. The UrDail make use of [[Superiority\|Superiority's]] FTL technology, but are not themselves a member species, and seem deeply suspicious of them. They do, however, seem interested in pursuing citizenship, enough so to send their sole cytonic when a call for pilots goes up.
-Since the miasma that fills ReDawn’s atmosphere is toxic, the UrDail live in enormous island trees, up to 50 kilometers tall. These have atmosphere generators that make a pocket of breathable air. There are walls and railings on many branches to keep the UrDail from accidentally falling off. From a young age the UrDail are taught to not walk near the edge of the branches, lest they fall off and die. Falls are uncommon, and usually only occur do to equipment failures, such as a cord breaking while rubber-jumping.
-There are multiple cultures within the UrDail, and apparently at least a few native languages; the only known one is airy, but similar to English, though the two aren't mutually intelligible. Because of pre-spaceflight contact between Humans and UrDail, at least one UrDail language was preserved in *The Lord of the Rings*. The UrDail appear to be somewhat religious, and have a series of holy books named the **cadamique**, filled with numerous stories of the past.
+Los UrDail son humanoides tanto en tamaño como en forma, aunque con piel morada y crestas óseas blancas bajo los ojos. Pueden tener el pelo blanco y los ojos morados; es posible que también los tengan de otros colores. Al igual que los humanos, los UrDail parecen tener al menos dos sexos y amamantan a sus hijos. Sus necesidades dietéticas también son similares, aunque hay algunos alimentos que los humanos pueden comer y los UrDail no, y viceversa. Lo más notable es que comen menos carne y más frutos secos, y no beben leche de otras criaturas; no por incapacidad, sino más bien porque lo consideran asqueroso.
+Tienen muy pocos [[Cit%C3%B3nica (habilidad)\|citónicos]], siendo [[Alanik\|Alanik]] uno de los únicos cinco que hay en la actualidad.
 
-## Known UrDail
+## Historia
+Poco se sabe de la historia de UrDail. Durante la Tercera Guerra Humana, fueron aliados de la humanidad, aunque más tarde los políticos de UrDail dirían que este periodo fue una ocupación de las fuerzas humanas. Independientemente de los hechos, esto les ha llevado a ser percibidos como agresivos por la Supremacía, por lo que se les ha negado la ciudadanía durante muchas décadas.
+Aproximadamente un siglo después de la conclusión de la Tercera Guerra, [[Cuna\|Cuna]] del [[Departamento de Integraci%C3%B3n de Especies\|Departamento de Integración de Especies]] de la Supremacía decidió hacer un llamamiento a las especies no miembros para que se unieran al Proyecto de Resistencia a [[Zapador\|Zapadores]] mediante el envío de pilotos, prometiendo la ciudadanía para aquellos que lo hicieran. Los UrDail fueron la única especie foránea que respondió. Sin embargo, su emisaria, Alanik, buscó a los humanos y, como consecuencia, se estrelló y cayó en coma en [[Detritus\|Detritus]], con [[Spensa\|Spensa]] ocupando su lugar y viajando a [[Visi%C3%B3n Estelar\|Visión Estelar]] disfrazada de ella.
+Con el tiempo, Spensa se puso en contacto con los UrDail y les explicó la situación; aunque descontentos, el gobierno de Unidad aceptó seguirles el juego e interfirió cuando Cuna buscó información sobre Alanik. Con el tiempo, Cuna se dio cuenta de que algo pasaba, y supuso que los UrDail buscaban el motor FTL en lugar de la ciudadanía, pero Spensa aclaró el asunto antes de que pudiera volverse peligroso para ellos.
+
+## Cultura
+Los UrDail tienen su hogar en [[ReAlba (planeta)\|ReAlba]], aunque llevan varios cientos de años explorando y explotando el espacio. Tienen un gobierno único y global, conocido como el **Consejo**, dirigido por el Presidente del Consejo. Los miembros son elegidos en eventos conocidos como **balance**. Las UrDail tienen dos partidos políticos principales, **Unidad** e **Independencia**; cada partido está liderado por un miembro conocido como su **Sumo Canciller**. Los UrDail hacen uso de la tecnología FTL de la Supremacía, pero no son ellos mismos una especie miembro, y parecen desconfiar profundamente de ellos. Sin embargo, parecen interesados en conseguir la ciudadanía, lo suficiente como para enviar a su única citónica cuando se hace una convocatoria de pilotos.
+Como la miasma que llena la atmósfera de ReAlba es tóxica, los UrDail viven en enormes islas-árbol de hasta 50 kilómetros de altura. Éstos tienen generadores de atmósfera que crean una bolsa de aire respirable. Hay muros y barandillas en muchas ramas para evitar que se caigan accidentalmente. Se les enseña desde pequeños a no acercarse al borde de las ramas, no sea que se caigan y mueran. Las caídas son poco frecuentes y sólo suelen producirse por fallos del equipo, como la rotura de una cuerda durante un salto de goma.
+Existen múltiples culturas dentro de los UrDail, y aparentemente al menos unos pocos idiomas nativos; el único conocido es aireado, pero similar al inglés, aunque los dos no son mutuamente inteligibles. Debido al contacto previo al vuelo espacial entre humanos y UrDail, al menos un idioma UrDail se conservó en *El señor de los anillos*. Los UrDail parecen ser algo religiosos, y tienen una serie de libros sagrados llamados *cadamiques*, llenos de numerosas historias del pasado.
+
+## UrDail conocidos
 [[Alanik\|Alanik]]
 [[Rinakin\|Rinakin]]
 [[Quilan\|Quilan]]
 [[Nanalis\|Nanalis]]
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
-https://coppermind.net/wiki/UrDail
+
+https://es.coppermind.net/wiki/UrDail

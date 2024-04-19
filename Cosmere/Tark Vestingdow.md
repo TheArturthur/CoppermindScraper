@@ -1,13 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tark Vestingdow**|
 |-|-|
-|**Residence**|[[Tinweight Settlement\|Tinweight Settlement]]|
-|**Ethnicity**|[[Terris\|Terris]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Residencia**|[[Asentamiento Pesoesta%C3%B1o\|Asentamiento Pesoestaño]]|
+|**Etnia**|[[De Terris\|de Terris]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Tark Vestingdow** is a man from [[Tinweight Settlement\|Tinweight Settlement]] on [[Scadrial\|Scadrial]] whom [[Wayne\|Wayne]] knows as a child. His [[Terris\|Terris]] heritage causes Wayne to feel inferior when he realizes that he isn't as obedient as most Terris.
-In 319 [[Catacendre\|PC]], Tark left a deck of cards in his overalls that he sent to be laundered. [[Wayne\|Wayne]] found that deck and used them to try to learn cards, since he wanted to earn a good living with them. [[Wayne's mother\|Wayne's mother]] confiscated the cards; knowing that she would spend time looking for their owner, Wayne confessed whose clothes the cards had arrived in so that she could save time in returning them straight to Tark.
+**Tark Vestingdow** es un hombre del [[Asentamiento Pesoesta%C3%B1o\|asentamiento Pesoestaño]] en [[Scadrial\|Scadrial]] al cual [[Wayne\|Wayne]] conoció de niño. Su herencia de [[Terris\|Terris]] hace que Wayne se sienta inferior cuando se da cuenta de que no es tan obediente como la mayoría de los terrisanos.
+En 319 [[Catacendro\|PC]], Tark dejó una baraja de cartas en la ropa de trabajo que envió a lavar. [[Wayne\|Wayne]] encontró esa baraja y la usó para tratar de aprender a jugar a las cartas, ya que quería ganarse la vida con ellas. La [[Madre de Wayne\|madre de Wayne]] confiscó las cartas; sabiendo que pasaría tiempo buscando a su dueño, Wayne confesó en qué ropa había encontrado las cartas para que ella pudiese ahorrar tiempo devolviéndoselas directamente a Tark.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 19:53, 4 January 2023 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Tark_Vestingdow
+https://es.coppermind.net/wiki/Tark_Vestingdow

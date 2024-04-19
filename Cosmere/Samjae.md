@@ -1,15 +1,28 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Samjae**|
 |-|-|
-|**Died**||
-|**Abilities**|[[Yoki-hijo\|Yoki-hijo]], [[Cognitive Shadow\|Cognitive Shadow]]|
-|**Profession**|Yoki-hijo|
-|**Nationality**|[[Torish\|Torish]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**||
+|**Capacidades**|[[Yoki-haijo\|Yoki-haijo]]🐱︎, [[Sombra cognitiva\|Sombra cognitiva]]|
+|**Oficio**|Yoki-haijo|
+|**Nacionalidad**|[[De Torio\|de Torio]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Samjae** is a [[Torish\|Torish]] [[Yoki-hijo\|yoki-hijo]] who befriends [[Yumi\|Yumi]] when the two are young girls, still in training.
-Though forbidden by [[Liyun\|Liyun]], Samjae would secretly tell Yumi stories of yoki-hijo falling in love and running away. The two were eventually separated by Liyun, who considered their growing attachment to be detrimental. Following the activation of the [[Machine\|machine]], Samjae and the other thirteen yoki-hijo were unknowingly held in captivity.
+**Samjae** es una [[Yoki-haijo\|yoki-haijo]] de [[Torio\|Torio]] que se hace amiga de [[Yumi\|Yumi]] cuando las dos son chicas jóvenes, aún en formación.
+Aunque se lo prohibía [[Liyun\|Liyun]], Samjae le contaba en secreto a Yumi historias de yoki-haijo enamorándose y huyendo. Finalmente, Liyun las separó por considerar que su apego creciente era perjudicial. Tras la activación de la [[M%C3%A1quina\|máquina]], Samjae y las otras trece yoki-haijo quedaron cautivas sin saberlo.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Samjae
+https://es.coppermind.net/wiki/Samjae

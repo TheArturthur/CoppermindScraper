@@ -1,39 +1,55 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tinningdar**|
 |-|-|
-|by  Ben McSweeney |
-|**Related to**|[[Terris\|Terris]]|
-|**Type**|Garment|
-|**World of Origin**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Relacionado con**|[[Terris\|Terris]]🐱︎|
+|**Tipo**|Prenda|
+|**Mundo de origen**|[[Scadrial\|Scadrial]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-The **tinningdar** is the name for traditional [[Terris\|Terris]] robes worn on [[Scadrial\|Scadrial]].
+El **tinningdar** es el nombre de las tradicionales túnicas de [[Terris\|Terris]] vestidas en [[Scadrial\|Scadrial]].
 
-## Contents
+## Sumario
 
-1 Description
-2 History
+1 Descripción. [[#Descripci.C3.B3n]] 
+2 Historia. [[#Historia]] 
 
-2.1 Final Empire
-2.2 Post-Catacendre
-
-
-3 Notes
+2. [[#Imperio Final]] 
+2. [[#Tras el Catacendro]] 
 
 
-## Description
-The tinningdar's most distinctive feature is a colorful overlapping V pattern down the front. The pattern is embroidered. They are commonly worn with a belt and often have wide sleeves, which can help accommodate [[Metalmind\|metalmind]] bracers. Stewards may own multiple sets of tinningdar, including more ornate versions that they wear to formal events.
-
-## History
- by  Treefin  [[Sazed\|Sazed]] in a tinningdar
-### Final Empire
-In the [[Final Empire\|Final Empire]], Terris stewards traditionally wear a tinningdar in the three colors of the noble house that the steward serves. They are sometimes referred to as "steward's robes"; [[Jastes\|Jastes]] identifies [[Sazed\|Sazed]] as a steward by his robes. Other items of Terris clothing, such as the robes worn by [[Tindwyl\|Tindwyl]], are colorful and identifiably Terris, but are not mentioned as having the distinctive V pattern of the tinningdar.
-Sazed regularly wears the tinningdar, even when performing menial tasks, such as digging a grave or stirring soup. He sees the robes as part of Terris history despite the fact that they also represent the lifestyle forced upon the Terris by the [[Lord Ruler\|Lord Ruler]]; he wonders if future Terrismen will continue to wear the tinningdar.
-Sazed and other former stewards continue to wear the tinningdar after the fall of the [[Final Empire\|Final Empire]], although the colors no longer represent nobility.
-
-### Post-Catacendre
-The tinningdar is still worn by the Terris 300 years after the [[Catacendre\|Catacendre]]. Teenage Terris students, including a young [[Waxillium Ladrian\|Waxillium Ladrian]], wear them in [[The Village\|the Village]]. Wax does not find the robes comfortable.
-Wax "dies" and meets [[Harmony\|Harmony]]—presumably in the [[Cognitive Realm\|Cognitive Realm]]—and perceives his clothing as the tinningdar, with layers of time instead of color.
+3 Notas. [[#Notas]] 
 
 
+## Descripción
+La característica más distintiva del tinningdar es un patrón en V con superposición de colores en la pechera. El patrón está bordado. Se usan comúnmente con un cinturón y a menudo tienen mangas anchas, que pueden ayudar a acomodar [[Mente de metal\|mentes de metal]] como brazaletes. Los mayordomos pueden poseer múltiples conjuntos de tinningdar, incluyendo versiones más ornamentadas que usan para eventos formales.
 
-https://coppermind.net/wiki/Tinningdar
+## Historia
+  <<Sazed\|Sazed>> vistiendo un tinningdar
+### Imperio Final
+En el [[Imperio Final\|Imperio Final]], los mayordomos de Terris tradicionalmente usan un tinningdar con los tres colores de la casa noble en la que el mayordomo sirve. A veces se les conoce como "túnicas de mayordomo"; [[Jastes\|Jastes]] identifica a [[Sazed\|Sazed]] como mayordomo por sus túnicas. Otros artículos de vestimenta terrisana, como las túnicas usadas por [[Tindwyl\|Tindwyl]], son coloridas e identificables como de Terris, pero no se menciona el distintivo patrón en forma de V de los tinningdar.
+Sazed usa regularmente el tinningdar, incluso cuando realiza tareas de baja categoría, como cavar una tumba o remover la sopa. Él ve las túnicas como parte de la historia de Terris, a pesar de que también representan el estilo de vida impuesto a los mismos por el [[Lord Legislador\|lord Legislador]]; se pregunta si los futuros terrisanos seguirán usando el tinningdar.
+Sazed y otros exmayordomos siguen llevando el tinningdar después de la caída del [[Imperio Final\|Imperio Final]], aunque los colores ya no representan a la nobleza.
+
+### Tras el Catacendro
+Los terrisanos usan el tinningdar todavía 300 años después del [[Catacendro\|Catacendro]]. Los estudiantes adolescentes terrisanos, incluyendo un jóven [[Waxillium Ladrian\|Waxillium Ladrian]], los visten en [[La Aldea\|la Aldea]]. Wax piensa que las túnicas no son cómodas.
+Wax "muere" y se encuentra con [[Armon%C3%ADa\|Armonía]]—presuntamente en el [[Reino Cognitivo\|Reino Cognitivo]]—y percibe su ropa como el tinningdar, con capas de tiempo en lugar de color.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 18:53, 26 January 2019 (MST)
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Tinningdar

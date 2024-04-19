@@ -1,33 +1,45 @@
+
+
 |**Dio**|
 |-|-|
-|by [[Brandon Sanderson\|Brandon Sanderson]]|
-|**Abilities**|[[Splinter\|Splinter]] of [[Devotion\|Devotion]]|
-|**Bonded With**|[[Eventeo\|Eventeo]]|
-|**Species**|[[Seon\|Seon]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Elantris*|
+||
+|**Capacidades**|[[Astilla\|Astilla]] de [[Devoci%C3%B3n\|Devoción]]|
+|**Vinculado con**|[[Eventeo\|Eventeo]]|
+|**Especie**|[[Seon\|Seon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Dio** is a [[Seon\|seon]], a magical being on [[Sel\|Sel]]. He is bonded to King [[Eventeo\|Eventeo]] of [[Teod\|Teod]] on [[Sel\|Sel]].
+**Dio** es un [[Seon\|seon]], un ser mágico de [[Sel\|Sel]]. Está vinculado con el rey [[Eventeo\|Eventeo]] de [[Teod\|Teod]] en [[Sel\|Sel]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Notes
-
-
-## Appearance and Personality
-Like all seons, Dio appears as a melon-sized ball of light, with his namesake Aon at the center. Aon Dio means "steadfast" and "immovable". Dio has a "melodious" voice.
-
-## Attributes and Abilities
-For more information, see [[Seon\|Seon]].
-Dio is sapient, and has the powers of flight, light generation, human speech, and instant communication with shapeshifting. He presumably has other powers common to all seons, such as immortality. He refers to Eventeo as his "master" and is therefore likely bonded to him.
-
-## History
-When [[Sarene\|Sarene]] is in [[Arelon\|Arelon]], she uses the communication powers of her seon, [[Ashe\|Ashe]], to contact her father Eventeo in [[Teod\|Teod]]. She assumes that he is using Dio for the same purpose, although Eventeo has access to multiple seons. Ashe later notes that Dio may have information about [[Kiin\|Kiin's]] possible disinheritance, since Dio is close to the king. Eventeo later physically sends Dio to Arelon in order to contact [[Hrathen\|Hrathen]].
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Como todos los seones, Dio es como una bola de luz del tamaño de un melón, con su [[/wiki/Aon#Dio]] en el centro. Aon Dio significa «firme» e «inamovible». Dio tiene una voz «melodiosa».
 
-https://coppermind.net/wiki/Dio
+## Atributos y habilidades
+Para más información, ver [[Seon\|Seon]].
+Dio es consciente y tiene los poderes de volar, generar luz, habla humana y comunicación instantánea con cambio de forma. Se entiende que tiene otros poderes comunes a todos los seones, como la inmortalidad. Se refiere a Eventeo como su «amo» y por ello es probable que esté vinculado con él.
+
+## Historia
+Cuando [[Sarene\|Sarene]] está en [[Arelon\|Arelon]], usa los poderes de comunicación de su seon, [[Ashe\|Ashe]], para contactar con su padre Eventeo en [[Teod\|Teod]]. Ella da por hecho que él está usando a Dio con el mismo propósito, aunque Eventeo tiene acceso a múltiples seones. Más tarde, Ashe se da cuenta de que Dio puede tener información sobre la posible desheredación de [[Kiin\|Kiin]], ya que Dio está cerca del rey. Posteriormente, Eventeo envía físicamente a Dio a Arelon para contactar con [[Hrathen\|Hrathen]].
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 15:03, 3 de abril de 2019 (MST)
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+
+
+https://es.coppermind.net/wiki/Dio

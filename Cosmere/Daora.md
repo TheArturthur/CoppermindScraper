@@ -1,29 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Daora**|
 |-|-|
-|**Aonic Royal Families**|
-|**Spouse**|[[Kiin\|Kiin]]|
-|**Children**|[[Lukel\|Lukel]], [[Adien\|Adien]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
-|**Titles**|Kimess|
-|**Residence**|[[Kae\|Kae]]|
-|**Nationality**|[[Arelene\|Arelene]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**[[Familias reales a%C3%B3nicas\|Familias reales aónicas]]**|
+|**Cónyuge**|[[Kiin\|Kiin]]|
+|**Hijos**|[[Lukel\|Lukel]], [[Adien\|Adien]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
+|**Títulos**|Kimess|
+|**Residencia**|[[Kae\|Kae]]|
+|**Nacionalidad**|[[De Arelon\|de Arelon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Daora** is an minor [[Arelene\|Arelene]] noble on [[Sel\|Sel]]. She married [[Kiin\|Kiin]] after he settled in Arelon, making her a member of the [[Aonic Royal Families\|Aonic Royal Families]] and [[Sarene\|Sarene's]] aunt. She is the mother of [[Lukel\|Lukel]], [[Adien\|Adien]], [[Kaise\|Kaise]], and [[Daorn\|Daorn]].
+**Daora** es una noble menor de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Se casó con [[Kiin\|Kiin]] después de que éste se estableciera allí, lo que la convirtió en miembro de las [[Familias reales a%C3%B3nicas\|familias reales aónicas]] y tía de [[Sarene\|Sarene]]. Es la madre de [[Lukel\|Lukel]], [[Adien\|Adien]], [[Kaise\|Kaise]] y [[Daorn\|Daorn]].
 
-## Appearance and Personality
-Daora is a beautiful woman, and her age only makes her look more stately. She has statuesque features and auburn hair. Although she is much shorter than the [[Teo\|Teoish]] [[Sarene\|Sarene]], she is presumably average height for an Arelene. Her hair is well-styled and her makeup is subtly applied, yet striking. Her actions are exceptionally smooth and graceful, even while she is exerting herself.
-Daora has a kind, calm demeanor, and is both intelligent and observant. She has a firm hand with her children, who love and respect her. She is a good cook and highly skilled at embroidery. Sarene considers Daora to be the embodiment of aristocratic virtue; in fact, she regards Daora as maddeningly perfect, but quickly grows to enjoy her company.
+## Apariencia y personalidad
+Daora es una mujer hermosa, y su edad sólo la hace parecer más señorial. Tiene rasgos esculturales y el pelo castaño. Aunque es mucho más baja que [[Sarene\|Sarene]] (de ascendencia teoísa), presumiblemente es de estatura media para una arelena. Su cabello está bien peinado y su maquillaje es sutil, pero llamativo. Sus movimientos son excepcionalmente suaves y elegantes, incluso cuando hace un gran esfuerzo.
+Daora tiene un comportamiento amable y tranquilo, y es inteligente y observadora. Tiene mano dura con sus hijos, que la quieren y la respetan. Es una buena cocinera y muy hábil con el bordado. Sarene considera a Daora la encarnación de la virtud aristocrática; de hecho, la considera enloquecedoramente perfecta, pero pronto empieza a disfrutar de su compañía.
 
-## History
- by  botanicaxu  Daora's children (clockwise from top): Lukel, Adien, Daorn, and Kaise
-Daora held the title of [[Kimess\|Kimess]], indicating that she was a low-ranking member of the Arelene nobility. She was married to an unnamed man in her youth and had two children, [[Lukel\|Lukel]] and [[Adien\|Adien]]. The marriage ended under unknown circumstances.
-She met [[Kiin\|Kiin]] during the period that he was using the pseudonym Dreok Crushthroat. After a failed attempt to take the throne of Teod by force, he met and fell in love with Daora while recuperating in Arelon. They soon had two children, Kaise and Daorn. Lukel and Adien were very close to Kiin; he adopted them and they had father-son relationships. Daora was aware of Kiin's history.
-About five years after the [[Reod\|Reod]], Adien was taken by the broken [[Shaod\|Shaod]]. Daora and Kiin were able to successfully hide his condition so that he would not be thrown into [[Elantris (city)\|Elantris]].
-Because of the rift in the Teo royal family, Sarene did not see Kiin for a decade, unaware that he was living in Arelon a short trip away from Teod. She first met Daora and the children after she traveled to Arelon to marry [[Raoden\|Raoden]]; Kiin invited her to his house for dinner. She was surprised by Daora being a match for her boisterous uncle, but realized that Kiin had changed a great deal compared to the man she remembered from her youth.
-Daora was a member of member of Queen [[Eshen\|Eshen's]] embroidery group and was knowledgeable regarding the politics of the nobility. She also participated in Sarene's fencing group. At one point, Daora mistakenly believed that Sarene harbored a crush on [[Shuden\|Shuden]]; this confused Sarene since Daora was normally very perceptive. However, Daora was actually picking up on Sarene's feelings towards '[[Raoden\|Lord Spirit']].
-During the [[Invasion of Arelon\|invasion of Arelon]], Daora sheltered in the family's mansion with her children, with Lukel keeping guard. The family survived the battle, and Adien became a restored [[Elantrian\|Elantrian]].
+## Historia
+  Los hijos de Daora (en el sentido de las agujas del reloj, desde arriba): Lukel, Adien, Daorn y Kaise
+Daora ostentaba el título de [[Kimess\|kimess]], lo que indica que era un miembro de bajo rango de la nobleza arelena. Estuvo casada con un hombre sin nombre en su juventud y tuvo dos hijos, [[Lukel\|Lukel]] y [[Adien\|Adien]]. El matrimonio terminó en circunstancias desconocidas.
+Conoció a [[Kiin\|Kiin]] durante el periodo en que éste utilizaba el seudónimo de Dreok Aplastagargantas. Tras un intento fallido de tomar el trono de Teod por la fuerza, conoció y se enamoró de Daora mientras se recuperaba en Arelon. Pronto tuvieron dos hijos, Kaise y Daorn. Lukel y Adien estaban muy unidos a Kiin; él los adoptó y mantenían una relación paterno-filial. Daora conocía la historia de Kiin.
+Unos cinco años después del [[Reod\|Reod]], Adien fue tomado por la Shaod. Daora y Kiin lograron ocultar con éxito su condición para que no fuera arrojado a [[Elantris (ciudad)\|Elantris]].
+Debido a las desavenencias en la familia real de Teod, Sarene no vio a Kiin durante una década, sin saber que vivía en Arelon, a poca distancia de Teod. Conoció a Daora y a los niños después de viajar a Arelon para casarse con [[Raoden\|Raoden]]; Kiin la invitó a cenar a su casa. Le sorprendió que Daora estuviera a la altura de su bullicioso tío, pero se dio cuenta de que Kiin había cambiado mucho en comparación con el hombre que recordaba de su juventud.
+Daora era miembro del grupo de bordado de la reina [[Eshen\|Eshen]] y conocía bien la política de la nobleza. También participaba en el grupo de esgrima de Sarene. En un momento dado, Daora creyó erróneamente que Sarene estaba enamorada de [[Shuden\|Shuden]]; esto confundió a Sarene, ya que Daora era normalmente muy perceptiva. Sin embargo, Daora estaba captando los sentimientos de Sarene hacia '[[Raoden\|Espíritu]]'.
+Durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]], Daora se refugió en la mansión familiar con sus hijos, mientras Lukel montaba guardia. La familia sobrevivió a la batalla, y Adien se convirtió en un [[Elantrino\|elantrino]] restaurado.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 23:51, 14 de abril de 2022 (UTC)
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
 
-https://coppermind.net/wiki/Daora
+https://es.coppermind.net/wiki/Daora

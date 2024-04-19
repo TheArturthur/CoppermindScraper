@@ -1,60 +1,79 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Pai**|
 |-|-|
-|by  Dragontrill |
-|**Died**|Executed ? 1173|
-|**Profession**|[[Ardent\|Ardent]] of the Devotary of Denial|
-|**Residence**|[[Kholinar\|Kholinar]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Fallecido**|Ejecutada en ? 1173|
+|**Oficio**|[[Fervoroso\|Fervoroso]] del Devotario de la Negación|
+|**Residencia**|[[Kholinar\|Kholinar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“* We are sycophants. The queen's ardents tell her only what she wants to hear.*”
-\- Pai to Lhan[1]
-
-
-**Pai** is an [[Ardent\|ardent]] that is a member of the Devotary of Denial. A Vorin zealot, Pai is willing to sacrifice anything for her cause and has become concerned about the Alethi queen's recent actions. Pai's denouncement of the queen and the [[Alethi\|Alethi]] government led to her own execution and rioting in the streets of [[Kholinar\|Kholinar]].
-
-## Contents
-
-1 Appearance and Personality
-2 History
-
-2.1 Early Life
-2.2 Member of the Queen's Retinue
-2.3 Protest and Execution
-2.4 Legacy
+>“* Los fervorosos de la reina le dicen solo lo que quiere oír.*”
+\- Pai a Lhan[1]
 
 
-3 Notes
+**Pai** es una [[/wiki/Vorinismo#fervor]] miembro del Devotario de la Negación. Fanática vorin, Pai está dispuesta a sacrificar cualquier cosa por su causa y se ha preocupado por las recientes acciones de la reina [[Alezkar\|alezi]]. La denuncia de Pai contra la reina y el gobierno [[Alezi\|alezi]] provocó su propia ejecución y disturbios en las calles de [[Kholinar\|Kholinar]].
+
+## Sumario
+
+1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
+2 Historia. [[#Historia]] 
+
+2. [[#Vida Temprana]] 
+2. [[#Miembro del S.C3.A9quito de la Reina]] 
+2. [[#Protesta y Ejecuci.C3.B3n]] 
+2. [[#Legado]] 
 
 
-## Appearance and Personality
->“* Does anyone among the Alethi elite care about the Almighty anymore? Sure, they curse by his name. Sure, they talk about the Heralds, burn glyphwards. But what do they do? Do they change their lives? Do they listen to the Arguments? Do they transform, recasting their souls into something greater, something better?*”
-\- Pai to Lhan[1]
+3 Notas. [[#Notas]] 
 
 
-Pai's appearance is unknown, but she is a young woman. She often speaks softly or in a whisper.
-Pai has a huge amount of passion for her faith and the poor of Alethkar. Pai wants people to work hard to transform their lives into something better by following Vorin teachings and listening to the ardents. She genuinely fears for the spiritual well-being of the lighteyes. She feels they do not truly believe in the Almighty. She does not know when they stopped acting in accordance with Vorin beliefs, and began to instead merely speak as if they were true believers. She also wonders whether or not the Hierocracy was acting in accordance with the Almighty's will, as he did not send his Heralds to stop the ardents. Pai believes there is something deeply wrong in Alethkar, although she is not sure precisely what is wrong. Pai is also a very strong advocate for the poor. She is deeply angered and disgusted by the excess and wastefulness of the lighteyes' lifestyles while the poor starve in the countryside.
-Pai is also a very disciplined young woman determined to live a simple lifestyle in accordance with her faith. She has no desire for the luxuries and privileges enjoyed by the rest of the queen's ardents, and the very mention of their lifestyle angers her. Pai is stubborn and uncompromising in her beliefs, unwilling to abet the corruption at the heart of the Alethi monarchy, even if it allows her to help some of the poor and hungry. Her passion is such that she is absolutely unafraid of physical harm. Pai speaks her mind regardless of the consequences, openly condemning the government and the Alethi Throne, accepting that her words will lead to her own martyrdom.
-
-## History
-### Early Life
-Nothing of Pai's early history is known. It is uncertain when she joined the ardentia, but she chose the Devotary of Denial as her sect of Vorinism. She began living a life of asceticism and abnegation around the year 1168, eating only simple meals of boiled [[Tallew\|tallew]] with the occasional piece of fruit on special occasions. Around the year 1172, Pai began serving as an ardent in the [[Alethi\|Alethi]] capital city, Kholinar. She requested with some persistence to be assigned to be a member of the retinue of the Alethi queen, [[Aesudan Kholin\|Aesudan Kholin]], and after a year working in the city her request was granted in late 1173. Pai's superiors were worried that her zealotry and her principles of self-denial would cause trouble in the court. They asked [[Lhan\|Lhan]], another ardent already in the queen's retinue, to speak to her.
-
-### Member of the Queen's Retinue
->“* I don't know what I'm suggesting. Only that something is wrong. All of this is just so very wrong.*”
-\- Pai to Lhan[1]
+## Apariencia y Personalidad
+>“* ¿Se preocupa alguien entre la élite alezi por el [[Todopoderoso\|Todopoderoso]]? Claro, maldicen en su nombre. Cierto, hablan de los [[Heraldos\|Heraldos]], queman glifoguardas. Pero ¿qué hacen? ¿Cambian sus vidas? ¿Escuchan [[Las discusiones\|los Argumentos]]? ¿Se transforman, rehaciendo sus almas en algo más grande, algo mejor?*”
+\- Pai a Lhan[1]
 
 
-Pai met Lhan in the morning, at the monastery next to [[Kholinar Palace\|Kholinar Palace]]. They walked through the [[Circle of Memories\|Circle of Memories]] and into the eastern wing of the palace, conversing about Pai's new position within the queen's retinue. Lhan tried to explain to Pai that a life of luxury was now hers, but Pai was more concerned with the queens recent actions, canceling the [[Beggar's Feast\|Beggar's Feasts]], leaving food to rot while the poor starved, and her general excess and debauchery. Despite Lhan's explanation that the queen gave her ardents easy lives because she feared that the [[Almighty\|Almighty]] was displeased with her, Pai maintained that they were merely sycophants and needed to be honest with the queen.
-Lhan took Pai to the service yard behind the kitchens to show her a number of piles of rotting food, explaining that the extra food there had once been distributed to the poor by another ardent who had died. Lhan told Pai that if she kept quiet and did not interfere with the ardents' lives, she could do a great deal of good for the needy of the city by regularly distributing this food. He also told her that if she made too much of a commotion, nothing would change and she would simply be sent away. He asked Pai to think about her decision, and left her sitting by the piles of rotted food.
-Pai sat and stared at the food until that evening, when Lhan returned to speak with her asking after her decision. Pai asked him what he thought of the spiritual cost of his actions. She wondered if any of the Alethi elite even cared for or believed in the Almighty anymore. She also asked him why no one heard from the Almighty anymore, why the [[Herald\|Heralds]] had not returned to denounce the [[Hierocracy\|Hierocracy]] if it had been so evil. She told Lhan that she had decided that she would remain in Kholinar to do good and try to be an example for others to follow.
+Se desconoce el aspecto de Pai, pero es una mujer joven. Suele hablar en voz baja o susurrando.
+Pai siente una enorme pasión por su fe y por los pobres de Alezkar. Quiere que la gente se esfuerce por transformar su vida en algo mejor siguiendo las enseñanzas vorin y escuchando a los fervorosos. Teme de verdad por el bienestar espiritual de los ojos claros, y siente que no creen realmente en el Todopoderoso. No sabe cuándo dejaron de actuar de acuerdo con las creencias vorin, y empezaron a simplemente hablar como si fueran verdaderos creyentes. También se pregunta si la Hierocracia estaba actuando de acuerdo con la voluntad del Todopoderoso, ya que éste no envió a sus Heraldos a detener a los fervorosos. Pai cree que hay algo profundamente equivocado en Alezkar, aunque no está segura de qué es lo que está mal. Pai también es una gran defensora de los pobres. Se siente profundamente enfadada y asqueada por el exceso y el despilfarro del estilo de vida de los ojos claros mientras los pobres se mueren de hambre en el campo.
+Pai es también una joven muy disciplinada y decidida a llevar un estilo de vida sencillo de acuerdo con su fe. No desea los lujos y privilegios que disfrutan el resto de los fervorosos de la reina, y la sola mención de su estilo de vida la enfurece. Pai es obstinada e inflexible en sus creencias, y no está dispuesta a consentir la corrupción en el corazón de la monarquía alezi, incluso si eso le permite ayudar a algunos de los pobres y hambrientos. Su pasión es tal que no teme en absoluto el daño físico. Pai dice lo que piensa sin importarle las consecuencias, condenando abiertamente al gobierno y al trono alezi, aceptando que sus palabras la llevarán al martirio.
 
-### Protest and Execution
-Pai left Lhan and went to the [[People's Hall\|People's Hall]], the location from which the monarch typically addressed the people of Kholinar. Working by [[Sphere\|spherelight]] through the night, she wrote the [[Glyph\|glyphs]] of the ten foolish attributes before the dais upon which sat the [[Common Throne\|Common Throne]]. Beneath each glyph Pai wrote explanation of how the queen exemplified the attribute. These paragraphs were not just an attack on the queen, but a denouncement of the lighteyes and the government itself. Pai remained bowed there before the Throne until she was discovered by Lhan and the other ardents in the morning. Pai was executed the morning of the very next day for her actions. Queen Aesudan would later falsely claim Pai had been trying to refound the Hierocracy.
+## Historia
+### Vida Temprana
+No se sabe nada de la historia temprana de Pai. No se sabe con certeza cuándo se unió al fervor, pero eligió al devotario de la negación como su secta del vorinismo. Comenzó a llevar una vida de ascetismo y abnegación alrededor del año 1168, comiendo sólo comidas sencillas de [[Tali%C3%BA\|taliú]] hervido con alguna pieza de fruta ocasional en ocasiones especiales. Hacia el año 1172, Pai comenzó a servir como fervorosa en la capital [[Alezkar\|alezi]], Kholinar. Solicitó con cierta insistencia que se le asignara ser miembro del séquito de la reina alezi, [[Aesudan Kholin\|Aesudan Kholin]], y tras un año trabajando en la ciudad su petición fue concedida a finales de 1173. A los superiores de Pai les preocupaba que su fanatismo y sus principios de abnegación causaran problemas en la corte. Pidieron a [[Lhan\|Lhan]], otro fervoroso ya en el séquito de la reina, que hablara con ella.
 
-### Legacy
-In the evening after her execution, the citizens of Kholinar began to riot. It is uncertain what precisely set off the riots, or whether it was in support of Pai's denouncement of the government, in anger over her execution, or both. However, Pai's actions certainly played a heavy role in causing the rioting, which exacerbated the chaos when the [[Everstorm\|Everstorm]] first hit Kholinar. The riots continued through the end of 1173 and were ongoing in the first few days of 1174, when [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] heard of them via [[Spanreed\|spanreed]].
+### Miembro del Séquito de la Reina
+>“* No sé qué estoy sugiriendo. Solo que algo va mal. Todo esto está muy mal.*”
+\- Pai a Lhan[1]
+
+
+Pai se reunió con Lhan por la mañana, en el monasterio situado junto al [[Palacio de Kholinar\|palacio de Kholinar]]. Atravesaron el [[/wiki/Palacio de Kholinar#Tarima de los monasterios]] y entraron en el ala oriental del palacio, conversando sobre la nueva posición de Pai en el séquito de la reina. Lhan trató de explicarle a Pai que ahora llevaba una vida de lujo, pero a Pai le preocupaban más las recientes acciones de la reina, cancelando los [[Banquete de los Mendigos\|banquetes de los mendigos]], dejando que la comida se pudriera mientras los pobres pasaban hambre, y sus excesos y libertinaje en general. A pesar de la explicación de Lhan de que la reina daba una vida fácil a sus fervorosos porque temía que el [[Todopoderoso\|Todopoderoso]] estuviera disgustado con ella, Pai sostenía que no eran más que aduladores y que debían ser honestos con la reina.
+Lhan llevó a Pai al patio de servicio, detrás de las cocinas, para mostrarle varios montones de comida podrida, y le explicó que la comida sobrante había sido distribuida en su día a los pobres por otro fervoroso que había muerto. Lhan le dijo a Pai que, si se mantenía callada y no interfería en la vida de los fervorosos, podría hacer mucho bien a los necesitados de la ciudad distribuyendo regularmente esa comida. También le dijo que si armaba demasiado revuelo, nada cambiaría y simplemente la echarían. Le pidió a Pai que pensara en su decisión y la dejó sentada junto a los montones de comida podrida.
+Pai se sentó y se quedó mirando la comida hasta la noche, cuando Lhan volvió a hablar con ella preguntándole por su decisión. Pai le preguntó qué pensaba del coste espiritual de sus acciones. Se preguntó si algún miembro de la élite alezi se preocupaba o creía ya en el Todopoderoso. También le preguntó por qué ya nadie tenía noticias del Todopoderoso, por qué los [[Heraldo\|heraldos]] no habían vuelto para denunciar a la [[Hierocracia\|Hierocracia]] si había sido tan malvada. Le dijo a Lhan que había decidido que se quedaría en Kholinar para hacer el bien e intentar ser un ejemplo a seguir para los demás.
+
+### Protesta y Ejecución
+Pai dejó Lhan y se dirigió al [[/wiki/Palacio de Kholinar#Sal.C3.B3n del Pueblo]], el lugar desde el que el monarca solía dirigirse al pueblo de Kholinar. Trabajando a la luz de las [[Esferas\|esferas]] durante la noche, escribió los [[Glifos\|glifos]] de los atributos de los diez locos ante el estrado en el que se encontraba el [[/wiki/Palacio de Kholinar#Sal.C3.B3n del Pueblo]]. Debajo de cada glifo, Pai escribió una explicación de cómo la reina ejemplificaba el atributo. Estos párrafos no eran sólo un ataque a la reina, sino una denuncia a los ojos claros y al propio gobierno. Pai permaneció arrodillada ante el Trono hasta que fue descubierta por Lhan y los demás fervorosos por la mañana. Pai fue ejecutada la mañana del día siguiente por sus acciones. La reina Aesudan después afirmaría falsamente que Pai había intentado refundar la Hierocracia.
+
+### Legado
+Al anochecer, tras su ejecución, los ciudadanos de Kholinar comenzaron a amotinarse. No se sabe con certeza qué fue lo que provocó los disturbios, ni si fue en apoyo de la denuncia de Pai contra el gobierno, por la rabia de su ejecución o por ambas cosas. Sin embargo, las acciones de Pai desempeñaron sin duda un papel importante en el inicio de los disturbios, que exacerbaron el caos cuando la [[Tormenta eterna\|tormenta eterna]] golpeó por primera vez Kholinar. Los disturbios continuaron hasta después de finales de 1173 y seguían en los primeros días de 1174, cuando el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] se enteró de ellos a través de [[Vinculaca%C3%B1as\|vinculacañas]].
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 02:54, 27 June 2016 (MST)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Pai
+https://es.coppermind.net/wiki/Pai

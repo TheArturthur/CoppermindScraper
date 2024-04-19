@@ -1,103 +1,123 @@
+
+
 |**Hesina**|
 |-|-|
-|by  Jamie Knierim |
-|**Family**|
-|**Spouse**|[[Lirin\|Lirin]]|
-|**Children**|[[Kaladin\|Kaladin]], [[Tien\|Tien]], [[Oroden\|Oroden]]|
-|**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
-|**Born**|1133|
-|**Residence**|[[Hearthstone\|Hearthstone]] , [[Urithiru\|Urithiru]]|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Familia**|
+|**Cónyuge**|[[Lirin\|Lirin]]|
+|**Hijos**|[[Kaladin\|Kaladin]], [[Tien\|Tien]], [[Oroden\|Oroden]]|
+|**Parientes**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
+|**Nacido en**|1133|
+|**Residencia**|[[Piedralar\|Piedralar]]🐱︎ , [[Urithiru\|Urithiru]]🐱︎|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Hesina** is a female [[Darkeyes\|darkeyed]] [[Alethi\|Alethi]] of the second [[Nahn\|nahn]] on [[Roshar\|Roshar]]. She lives in [[Hearthstone\|Hearthstone]] with her husband, [[Lirin\|Lirin]] and her youngest son, [[Oroden\|Oroden]]. She is also the mother of [[Kaladin\|Kaladin]] and [[Tien\|Tien]].
-Hesina's home is built on the outskirts of Hearthstone and is larger than the normal household building due to the inclusion of her husband's surgery room.
+**Hesina** es una mujer [[Ojos oscuros\|ojos oscuros]] [[Alezi\|alezi]] del segundo [[Nahn\|nahn]] en [[Roshar\|Roshar]]. Vive en [[Piedralar\|Piedralar]] con su marido, [[Lirin\|Lirin]] y su hijo menor, [[Oroden\|Oroden]]. También es la madre de [[Kaladin\|Kaladin]] y [[Tien\|Tien]].
+La casa de Hesina está construida a las afueras de Piedralar y es más grande que las casas familiares normales debido a la inclusión de la sala de operaciones de su marido.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 
-1.1 Beliefs
-
-
-2 Attributes and Abilities
-3 History
-
-3.1 The Butcher
-3.2 Torment of the Family
-3.3 The Weeping of 1168
-3.4 After the Everstorm
+1. [[#Creencias]] 
 
 
-4 Relationships
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-4.1 Hesina's Parents
-4.2 Lirin
-4.3 Kaladin
-
-
-5 Trivia
-6 Notes
+3. [[#El carnicero]] 
+3. [[#Tormento de la familia]] 
+3. [[#El Llanto de 1168]] 
+3. [[#Tras la tormenta eterna]] 
 
 
-## Appearance and Personality
- by  Shuravf  Holding [[Oroden\|Oroden]]
-For more images, see [[Hesina/Gallery\|/Gallery]].
-Hesina is a pretty darkeyed woman, with full lips, a narrow face and a bold chin. She is tall and stands several fingers above her husband. She has dark hair that is usually in a tail and wrapped in a kerchief. Hesina often wears brown clothing, sometimes with a hint of color. During the colder months, she wears a knitted hat over her kerchief and a long brown coat to keep warm. Like many [[Darkeyed\|darkeyed]] women, she covers her [[Safehand\|safehand]] with a glove as it is more practical.
-Hesina is quick witted and sharp tongued. She is open minded and wishes for her children to have a choice over their future [[Calling\|Callings]]. She is an eloquent speaker and expects the same of her children. Unlike the other mothers in Hearthstone, Hesina rarely chastises her sons for odd behaviour and sometimes joins them. She enjoys working around the town, cleaning buildings and removing [[Crem\|crem]], as she finds it a useful way to clear her head.
+4 Relaciones. [[#Relaciones]] 
 
-### Beliefs
->“*Spren appear when something changes—when fear appears, or when it begins to rain. They are the heart of change, and therefore the heart of all things.*”
+4. [[#Padres de Hesina]] 
+4. [[#Lirin]] 
+4. [[#Kaladin]] 
+
+
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+  Sosteniendo a <<Oroden\|Oroden>>
+Para más imágenes, ver [[Hesina/Galer%C3%ADa\|/Galería]].
+Hesina es una bella mujer ojos oscuros, con labios carnosos, rostro estrecho y barbilla pronunciada. Es alta y mide varios dedos más que de su marido Tiene el pelo oscuro, que suele llevar en una coleta y envuelto en un pañuelo. Hesina suele llevar ropa marrón, a veces con un toque de color.Durante los meses más fríos, lleva un gorro de punto sobre el pañuelo y un largo abrigo marrón para abrigarse. Como muchas mujeres [[Ojos oscuros\|ojos oscuros]], cubre su [[Mano segura\|mano segura]] con un guante, ya que es más práctico.
+Hesina es ingeniosa y de lengua afilada. Es de mente abierta y desea que sus hijos tengan la posibilidad de elegir sus futuras [[Llamada\|Llamadas]]. Es una oradora elocuente y espera lo mismo de sus hijos. A diferencia de las demás madres de la Piedralar, Hesina rara vez reprende a sus hijos por comportamientos extraños y a veces se une a ellos Le gusta trabajar en la ciudad, limpiando edificios y retirando [[Crem\|crem]], ya que le resulta una forma útil de despejarse.
+
+### Creencias
+>“*Los spren aparecen cuando algo cambia: cuando aparece el miedo, o cuando empieza a llover. Son el corazón del cambio, y por tanto el corazón de todas las cosas..*”
 \-Hesina[11]
 
 
-Hesina follows the [[Vorin\|Vorin]] religion and is more religious that her husband. She has faith in the power of [[Glyphward\|glyphwards]], often burning them for her family or giving them to her sons. She has a preference for simple and straightforward glyphs.
-Hesina believes that all things, with the exception of people, have a [[Spren\|spren]] living within them. When objects such as food are consumed, the spren within them are freed to return to their home. People, by contrast, have souls instead of spren, however, Hesina believes that small spren can reside in parts of the body. A similar thought is echoed by [[Syl\|Syl]], when she discusses the genders of Kaladin's weapons with him.
+Hesina sigue la religión [[Vorin\|vorin]] y es más religiosa que su marido. Tiene fe en el poder las [[Glifoguarda\|glifoguardas]], quemándolas a menudo por su familia o dándoselas a sus hijos. Tiene preferencia por los glifos simples y sencillos.
+Hesina cree que todas las cosas, a excepción de las personas, tienen un [[Spren\|spren]] viviendo dentro de ellas. Cuando se consumen objetos como la comida, los spren de su interior se liberan para volver a su hogar. Las personas, por el contrario, tienen almas en lugar de spren; sin embargo, Hesina cree que pequeños spren pueden residir en partes del cuerpo. Un pensamiento similar tiene [[Syl\|Syl]], cuando discute los géneros de las armas de Kaladin con él.
 
-## Attributes and Abilities
-While not a surgeon like her husband, Hesina will occasionally assist Lirin with his surgeries. Her role in her husband's work diminishes as Lirin takes on apprentices, first Kaladin, then [[Mara (Roshar)\|Mara]]--however, Hesina occasionally assists if multiple helpers are required.
-Hesina is able to both read and write in the Alethi [[Women's script\|women's script]]. She is the only darkeyed woman in Hearthstone who is able to read, though this skill isn't uncommon among higher ranking darkeyed women.
+## Atributos y habilidades
+Aunque no es cirujana como su marido, Hesina ayuda ocasionalmente a Lirin en sus operaciones. Su papel en el trabajo de su marido disminuye a medida que Lirin contrata aprendices, primero Kaladin y luego [[Mara (Roshar)\|Mara]]; sin embargo, Hesina asiste ocasionalmente si se necesitan varios ayudantes.
+Hesina sabe leer y escribir en la [[Escritura femenina\|escritura femenina]] alezi. Es la única mujer ojos oscuros en Piedralar que sabe leer, aunque esta habilidad no es rara entre las mujeres ojos oscuros de mayor rango.
 
-## History
-Although her exact parentage and place of birth are unknown, at least one of Hesina's parents was not a darkeyes. By the time Hesina was seventeen, they lived in [[Tomat\|Tomat]], where Hesina's father was a privileged business owner and was able to bully the citylord into following his wishes. After meeting [[Lirin\|Lirin]], Hesina moved away from her family to live in Hearthstone and started a family, leading to a drop in her social status. Two years after the birth of her first son, [[Kaladin\|Kaladin]], Hesina was blessed with the birth of her second child, [[Tien\|Tien]]. There is a large age gap of eighteen years between Tien and her third child, [[Oroden\|Oroden]].
+## Historia
+Aunque se desconoce su parentesco exacto y su lugar de nacimiento, al menos uno de los padres de Hesina no era un ojos oscuros. Cuando tenía diecisiete años, vivía con su familia en [[Tomat\|Tomat]], donde su padre era era un empresario privilegiado y pudo intimidar al señor de la ciudad para que siguiera sus deseos.  Tras conocer a [[Lirin\|Lirin]], Hesina se alejó de su familia para vivir en Piedralar, y formó una familia, lo que supuso un descenso de su estatus social. Dos años después del nacimiento de su primer hijo, [[Kaladin\|Kaladin]], Hesina fue bendecida con el nacimiento de su segundo hijo, [[Tien\|Tien]]. Hay una gran diferencia de edad de dieciocho años entre Tien y su tercer hijo, [[Oroden\|Oroden]].
 
- by  Sheep  Lirin and Hesina
-Due to their close ties to the local Brightlord, Hesina and her husband had hoped to secure an allegiance between the two families through marriage. When Brightlord [[Wistiow\|Wistiow]] fell gravely ill, making the likelihood of the union improbable, Hesina and her husband conspired to steal a significant amount of wealth from the Brightlord to secure passage for their son to continue his studies in [[Kharbranth\|Kharbranth]]. The family claimed that the diamond broams had been bequeathed to Lirin by Wistiow on his deathbed, a claim that they supported with forged documentation. Despite their best efforts to legitimize the agreement, rumors of theft persisted amongst the other townsfolk.
+  Lirin y Hesina
+Debido a sus estrechos lazos con el brillante señor local, Hesina y su marido esperaban asegurar una alianza entre las dos familias a través del matrimonio. Cuando el Brillante Señor [[Wistiow\|Wistiow]] cayó gravemente enfermo, haciendo improbable la unión, Hesina y su marido conspiraron para robar una importante cantidad de riqueza al Brillante Señor para asegurar el pasaje de su hijo para continuar sus estudios en [[Kharbranth\|Kharbranth]].La familia afirmó que los [[/wiki/Esferas#Monedas]] habían sido legados a Lirin por Wistiow en su lecho de muerte, afirmación que apoyaron con documentación falsificada. A pesar de sus esfuerzos por legitimar el acuerdo, los rumores de robo persistieron entre los demás habitantes de la ciudad.
 
-### The Butcher
-After his death, Wistiow was replaced by Brightord [[Roshone\|Roshone]] as the lord of Hearthstone. On the day of his arrival, Hesina was found by Kaladin, cleaning and working at the town hall. Frustrated with the gossiping townsfolk, Kaladin spoke to his mother about the rumors surrounding their family as well as his place within the town. While talking, Hesina admitted that she had hoped for Kaladin to be able to marry [[Laral\|Laral]], the daughter of Brightlord Wistiow. The arrival of Roshone pulled Hesina away from her work, as the town gathered to greet the new Brightlord. Joining her second son Tien, who had saved places for the family in the town square, Hesina and her family waited to greet the new citylord. Roshone's arrival did not bode well for the family, with the Brightlord taking an immediate disliking towards her husband, despite Lirin's attempts to welcome the him to Hearthstone.
+### El carnicero
+Tras su muerte, Wistiow fue reemplazado por el Brillante Señor [[Roshone\|Roshone]] como Señor de Piedralar. El día de su llegada, Hesina fue encontrada por Kaladin, limpiando y trabajando en el ayuntamiento. Frustrado por los cotilleos de la gente del pueblo, Kaladin habló con su madre sobre los rumores que rodeaban a su familia y sobre su lugar en la ciudad. Mientras hablaban, Hesina admitió que esperaba que Kaladin pudiera casarse con [[Laral\|Laral]], la hija del Brillante Señor Wistiow. La llegada de Roshone apartó a Hesina de su trabajo, ya que el pueblo se reunió para saludar a su nuevo Señor. Junto a su segundo hijo, Tien, que había guardado sitio para la familia en la plaza de la ciudad, Hesina y su familia esperaron para saludar al nuevo señor de la ciudad. La llegada de Roshone no auguraba nada bueno para la familia, ya que el Brillante Señor mostró una inmediata antipatía por su marido, a pesar de los intentos de Lirin por darle la bienvenida a Piedralar.
 
-### Torment of the Family
-Roshone, aware of the inherited spheres and the possibility of their illegitimate procurement, demanded their return, of which Lirin refused. Roshone continued to fuel the rumors that the spheres had been stolen and the agreement forged, whilst also driving the family towards destitution. Despite his best efforts, Hesina and her family did not suffer as much as Roshone assumed, as the townsfolk continued donating to the family in secret, leaving food around the town for Hesina to find. When the possibilities of work for Hesina dried up due to Roshone's meddling, Lirin met with the Brightlord to discuss the disputed spheres and the family's situation. In an attempt to hide the meeting between Lirin and Roshone, Hesina recruited her sons to help her with housework, hoping to keeping them distracted and occupied. Ultimately, her plan was unsuccessful, and Kaladin escaped his duties, joining his father in Lirin's meeting with Roshone. After the meeting, Kaladin discovered his father's plans to deceive Roshone, as well as the truth behind the acquisition of Wistiow's wealth. Kaladin was shocked not only to learn that the rumors that the spheres were stolen were true, but also that his mother had taken part in their theft.
-Following the death of Roshone's son [[Rillir\|Rillir]], the family fell further towards poverty and Hesina and her husband began to slowly spend the stolen spheres. This was done deliberately; while the family indeed struggled, the spheres were spent, not because it was required, but instead as a way to deceive Roshone and deflect his attention.
+### Tormento de la familia
+Roshone, consciente de las esferas heredadas y de la posibilidad de su obtención ilegítima, exigió su devolución, a lo que Lirin se negó. Roshone siguió alimentando los rumores de que las esferas habían sido robadas y el acuerdo falsificado, a la vez que conducía a la familia hacia la indigencia. A pesar de sus esfuerzos, Hesina y su familia no sufrieron tanto como Roshone suponía, ya que la gente del pueblo continuó donando a la familia en secreto, dejando comida por la ciudad para que Hesina la encontrara. Cuando las posibilidades de trabajo para Hesina se agotaron debido a la intromisión de Roshone, Lirin se reunió con el Brillante Señor para discutir las esferas en disputa y la situación de la familia. En un intento de ocultar la reunión entre Lirin y Roshone, Hesina reclutó a sus hijos para que la ayudaran con las tareas domésticas, con la esperanza de mantenerlos distraídos y ocupados. Al final, su plan no tuvo éxito, y Kaladin escapó de sus obligaciones, uniéndose a su padre en la reunión de Lirin con Roshone. Tras la reunión, Kaladin descubrió los planes de su padre para engañar a Roshone, así como la verdad que había detrás de la adquisición de la riqueza de Wistiow. Kaladin se sorprendió no sólo al saber que los rumores de que las esferas habían sido robadas eran ciertos, sino también que su madre había participado en su robo.
+Tras la muerte de [[Rillir\|Rillir]], el hijo de Roshone, la familia cayó aún más en la pobreza y Hesina y su marido comenzaron a gastar lentamente las esferas robadas. Esto se hizo de forma deliberada; mientras la familia pasaba apuros, las esferas se gastaban, no porque fuera necesario, sino como una forma de engañar a Roshone y desviar su atención.
 
- by  Marie Seeberger  Watching the [[Weeping\|Weeping]] with her sons
-### The Weeping of 1168
-Despite their attempts to curb Roshone's anger, Hesina and her husband were ultimately unsuccessful. After spending time with her sons in the rain, Hesina and her family joined the townsfolk of Hearthstone to welcome Highmarshal [[Amaram\|Amaram]]--a general for the Highprince and cousin of Roshone. Amaram, who had gone to Hearthstone to visit his cousin, used his visit as a recruitment opportunity for the princedom's army. After only six men volunteered, Amaram began conscripting men from the village, including Hesina's son Tien. Unlike his father and brother, Tien wasn't exempt from conscription on the basis of his duties, a fact that Roshone exploited, impressing the boy as retribution for Lirin's inability to save his own son's life. Kaladin, unable to let his brother face the battlefield alone, volunteered to join, promising his parents that he would keep his younger sibling safe from harm.
-Less than four months later, Tien was killed. After his death, Hesina received a short message from Kaladin, informing them of his brother's death and that he would not be returning to Hearthstone. They did not send him a reply. Years later, after Kaladin was sold into slavery, Hesina and Lirin received word that he had also been killed. Roshone's guilt over what he had done lessened his hostility towards Hesina and her husband, with life quieting down somewhat after the departure of their children.
+  Observando <<El Llanto\|el Llanto>> con sus hijos
+### El Llanto de 1168
+A pesar de sus intentos por frenar la ira de Roshone, Hesina y su marido no tuvieron éxito. Después de pasar un rato con sus hijos bajo la lluvia, Hesina y su familia se unieron a los habitantes de Piedralar para dar la bienvenida al alto mariscal [[Amaram\|Amaram]], un general del Alto Príncipe y primo de Roshone. Amaram, que había ido a Piedralar a visitar a su primo, utilizó su visita como una oportunidad de reclutamiento para el ejército del principado. Después de que sólo seis hombres se ofrecieran como voluntarios, Amaram comenzó a reclutar hombres de la aldea, incluido el hijo de Hesina, Tien. A diferencia de su padre y de su hermano, Tien no estaba exento del reclutamiento por sus deberes, un hecho que Roshone aprovechó, forzando el reclutamiento del muchacho como venganza por la incapacidad de Lirin de salvar la vida de su hijo. Kaladin, incapaz de dejar que su hermano se enfrentara solo al campo de batalla, se alistó como voluntario, prometiendo a sus padres que mantendría a su hermano menor a salvo de cualquier daño.
+Menos de cuatro meses después, Tien fue asesinado. Tras su muerte, Hesina recibió un breve mensaje de Kaladin, informándoles de la muerte de su hermano y de que no volvería a Piedralar. No le enviaron respuesta. Años más tarde, después de que Kaladin fuera vendido como esclavo, Hesina y Lirin recibieron la noticia de que también había sido asesinado. La culpa de Roshone por lo que había hecho disminuyó su hostilidad hacia Hesina y su marido, y la vida se calmó un poco tras la partida de sus hijos.
 
-### After the Everstorm
-After the coming of the [[Everstorm\|Everstorm]], Hesina was reunited with Kaladin when he returned to Hearthstone. After arriving at the battered manor, Kaladin located his mother and father in the parlor, tending to those who were wounded by the Everstorm. While her husband argued with Roshone's guards, Hesina saw to her son, feeding him and filling him in on their family's situation. Later, after he spoke privately with Roshone and Laral, Hesina introduced Kaladin to his younger brother, [[Oroden\|Oroden]]. When Kaladin departed to track down the transformed [[Parshmen\|parshmen]], Hesina stayed behind with her husband in Hearthstone to aid the townsfolk and care for her son Oroden.
+### Tras la tormenta eterna
+Tras la llegada de la [[Tormenta eterna\|tormenta eterna]], Hesina se reunió con Kaladin cuando éste regresó a Piedralar. Tras llegar a la maltrecha mansión, Kaladin localizó a su madre y a su padre en el salón, atendiendo a los heridos por la tormenta eterna. Mientras su marido discutía con los guardias de Roshone, Hesina se ocupó de su hijo, alimentándolo y poniéndolo al corriente de la situación de su familia. Más tarde, tras hablar en privado con Roshone y Laral, Hesina presentó a Kaladin a su hermano menor, [[Oroden\|Oroden]]. Cuando Kaladin partió en busca de los [[Parshmenios\|parshmenios]], transformados, Hesina se quedó con su marido en Piedralar para ayudar a la gente del pueblo y cuidar de su hijo Oroden.
 
-## Relationships
-### Hesina's Parents
-One of Hesina's parents is not [[Darkeyed\|darkeyed]], and since Hesina describes her father as "stubborn as a lighteyes" rather than actually lighteyed, it is likely that this refers to her mother. They are of a higher social standing than their daughter.
-The initial meeting between Lirin and Hesina's parents goes quite poorly. Hesina's parents are rarely mentioned, particularly around her children. However, she is still in contact with them, and when the family falls on tough times after the arrival of Roshone, Hesina's parents offer aid to the family.
+## Relaciones
+### Padres de Hesina
+Uno de los padres de Hesina no es [[Ojos oscuros\|ojos oscuros]], y dado que Hesina describe a su padre como "cabezota como un ojos claros" y no como un verdadero ojos claros, es probable que esto se refiera a su madre.Son de una posición social más alta que su hija.
+El encuentro inicial entre Lirin y los padres de Hesina no fue muy bueno. Los padres de Hesina apenas se mencionan, sobre todo delante de sus hijos. Sin embargo, Hesina sigue en contacto con ellos y cuando la familia pasa por momentos difíciles tras la llegada de Roshone, los padres de Hesina ofrecen ayudarles.
 
- by  Elisgardor  Hesina and her family
+  Hesina y su familia
 ### Lirin
-Hesina and Lirin meet and fall in love during his travels, after which Hesina moves with Lirin to Hearthstone. They have a loving relationship, though they don't see eye to eye over Kaladin's study habits when he is young or over religion. Later, they disagree sharply over Kaladin's actions as a Knight Radiant, with Hesina trying to persuade Lirin to accept their son's decision to fight rather than to be a surgeon.
+Hesina y Lirin se conocieron y se enamoraron durante los viajes de él, tras lo cual Hesina se trasladó con Lirin a Piedralar. Tienen una relación afectiva, aunque no coinciden en los hábitos de estudio de Kaladin cuando es joven o sobre la religión. Más adelante, discrepan fuertemente sobre las acciones de Kaladin como Caballero Radiante, siendo Hesina la que intenta persuadir a Lirin para que acepte la decisión de su hijo de luchar en vez de ser cirujano.
 
 ### Kaladin
-Hesina and her husband hope that one day their son Kaladin would be able to marry Laral, the daughter of the Brightlord Wistiow. During his earlier years, his parents often encourage both Kaladin and his brother to play with Laral to help strengthen the bond between the two families. Hesina often banters with her son, Kaladin, who inherits her tendency towards clever wordplay.
-As a child, Kaladin remembers his parents being at odds with each other over the importance of his commitment to study. While his father wishes for him to focus on his future and the chance to study and learn in Kharbranth, his mother wishes for him to be able to enjoy his childhood. Whether due to or despite these disagreements, Kaladin is granted two hours a day by his father where he is not required to study. After the arrival of Roshone, Kaladin's parents try and get him to Kharbranth earlier than normally allowed, writing to the surgeons and requesting for their son to take the entry tests early. Their request is denied.
-When they are reunited, Kaladin finds that his mother still treats him like a child despite their many years apart. She is delighted to find out that her son is a Knight Radiant.
+Hesina y su marido tenían la esperanza de que algún día su hijo Kaladin pudiera casarse con Laral, la hija del Señor Brillante Wistiow. Durante sus primeros años, sus padres habían animado a menudo tanto a Kaladin como a su hermano a jugar con Laral para ayudar a fortalecer los lazos entre las dos familias. Hesina bromea a menudo con su hijo Kaladin, que ha heredado su tendencia a los juegos de palabras inteligentes.
+De niño, Kaladin recuerda que sus padres estaban en desacuerdo sobre la importancia de su compromiso con los estudios. Mientras que su padre deseaba que se centrara en su futuro y en la posibilidad de estudiar y aprender en Kharbranth, su madre deseaba que pudiera disfrutar de su infancia. Ya sea debido a estos desacuerdos o a pesar de ellos, su padre le concede dos horas al día en las que no está obligado a estudiar. Tras la llegada de Roshone, los padres de Kaladin intentan que llegue a Kharbranth antes de lo que normalmente se permite, escribiendo a los cirujanos y solicitando que su hijo se presente a las pruebas de ingreso antes de tiempo. Su petición es denegada.
+Cuando se reencuentran, Kaladin descubre que su madre sigue tratándolo como a un niño a pesar de los muchos años que llevan separados. Está encantada de saber que su hijo es un Caballero Radiante.
 
-## Trivia
-She was originally named Hessica, but this was changed before the release of *The Way of Kings* to better align with Alethi naming conventions. Brandon sometimes still writes her name as Hessica in drafts.
+## Curiosidades
+Originalmente se llamaba Hessica, pero se cambió antes de la publicación de *[[El camino de los reyes\|El camino de los reyes]]* para adaptarse mejor a las convenciones de nombres alezi. Brandon a veces sigue escribiendo su nombre como Hessica en los borradores.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, ahora necesita volver a revisarse.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Hesina
+
+https://es.coppermind.net/wiki/Hesina

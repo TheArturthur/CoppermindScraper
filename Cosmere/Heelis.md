@@ -1,32 +1,57 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Heelis**|
 |-|-|
-|**Titles**|[[Lady Judge\|Lady Judge]]|
-|**Groups**|[[Taishin\|Taishin]], [[Hall of Judgement\|The Hall]]|
-|**Residence**|[[Kezare\|Kezare]]|
-|**Ethnicity**|[[Daysider\|Daysider]]|
-|**Nationality**|[[Lossandin\|Lossandin]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
+|**Títulos**|[[Jueza suprema\|Jueza suprema]]|
+|**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Sala del Juicio\|la Sala]]|
+|**Residencia**|[[Kezare\|Kezare]]|
+|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
+|**Nacionalidad**|[[De Lossand\|de Lossand]]|
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*The Lady Judge must remain impartial, no matter her personal biases. A simple majority would not be enough to heal the Diem's wound.*”
-\-Lady Heelis[2]
-
-
-Lady Judge **Heelis** is the leader of the [[Hall of Judgement\|Hall of Judgement]] in [[Lossand\|Lossand]] on [[Taldain\|Taldain]].
-
-## Appearance and Personality
-Lady Heelis is an elderly woman with pale skin and grey hair which she keeps in a heart-shaped pompadour. She is seen wearing the standard clothing of the Taishin, along with golden hoop earrings.
-Heelis takes her job very seriously and follows the letter of the law carefully. She highly values impartiality, and her trust is not easily earned. Though she comes across as cold, she works hard to protect her people from any perceived threats.
-
-## History
-It is unknown how long Heelis has served as Lady Judge, though it is implied she has held the position for a number of years.
-When the Taishin voted on the future of the [[Diem\|Diem]], Heelis voted in favor of dissolving it, however she then declares the proceedings void after [[Kenton\|Kenton]] argues a legal technicality that was not observed. She later confided in Kenton that her vote was primarily a matter of solidarity. She claims that she hopes Kenton can successfully change the minds of the Taishin, though she offers little hope that he will be successful.
-She showed a great deal of trust in [[Ais\|Ais]], whom she has known for eighteen years, tasking her with spying on Kenton and reporting back despite Ais's personal biases against the [[Sand mastery\|sand masters]].
-When Ais reported the death of the Lord General the Lady Heelis thanked her but reminded her that her main job was to protect Kenton.
-When Ais told Lady Heelis that she intended to resign as a trackt for personal reasons, Lady Heelis warned her that running from her problems wouldn't help. She also asked Ais to remain a trackt for another day.
-After the duel, when the Taishin voted on whether to disband the Diem, Lady Heelis gave her vote to Ais because she wanted Kenton to prove that he could win over the people most firmly set against him. After some internal conflict, Ais decided to vote to maintain the Diem making the vote unanimous and saving the Diem.
+>“*La jueza suprema debe permanecer *imparcial*, sin importar sus prejuicios personales. Una mayoría simple no bastaría para curar la herida del Diem.*”
+\-Lady Heelis[2][NdT 1]
 
 
+La jueza **Heelis** es la líder de la [[Sala del Juicio\|Sala del Juicio]] en [[Lossand\|Lossand]] en [[Taldain\|Taldain]].
 
-https://coppermind.net/wiki/Heelis
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Notas del traductor. [[#Notas del traductor]] 
+4 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+Heelis es una mujer anciana de piel pálida y pelo gris que lleva recogido en forma de corazón. Se la ve vistiendo la ropa estándar del Taishin, junto con unos pendientes de aro dorados.
+Heelis se toma su trabajo muy en serio y sigue cuidadosamente la literalidad de la ley. Valora mucho la imparcialidad, y su confianza no se gana fácilmente. Aunque parezca fría, se esfuerza por proteger a su pueblo de cualquier amenaza.
+
+## Historia
+Se desconoce cuánto tiempo lleva Heelis ejerciendo como jueza suprema, aunque se da a entender que lleva varios años en el cargo.
+Cuando el Taishin votó sobre el futuro del [[Diem\|Diem]], Heelis votó a favor de disolverlo, aunque luego declaró nulo el proceso después de que [[Kenton\|Kenton]] argumentara un tecnicismo legal que no se cumplió. Más tarde le confía a Kenton que su voto fue principalmente una cuestión de solidaridad. Afirma que espera que Kenton consiga hacer cambiar de opinión al Taishin, aunque ofrece pocas esperanzas de que lo consiga.
+Demostró una gran confianza en [[Ais\|Ais]], a quien conoce desde hace dieciocho años, encargándole que espiara a Kenton e informara a pesar de los prejuicios personales de Ais contra los [[Maestr%C3%ADa de la arena\|maestros de la arena]].
+Cuando Ais informó de la muerte del lord general, lady Heelis le dio las gracias, pero le recordó que su principal trabajo era proteger a Kenton.
+Cuando Ais comunicó a Heelis su intención de dimitir como trackt por motivos personales, ella le advirtió que huir de sus problemas no serviría de nada. También le pidió que siguiera siendo trackt un día más.
+Tras el duelo, cuando el Taishin votó si disolver el Diem, Heelis dio su voto a Ais porque quería que Kenton demostrara que podía ganarse a las personas más firmemente opuestas a él. Tras un conflicto interno, Ais decidió votar a favor de mantener el Diem, lo que hizo que la votación fuera unánime y salvó el Diem.
+
+## Notas del traductor
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] ·  · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+
+
+https://es.coppermind.net/wiki/Heelis

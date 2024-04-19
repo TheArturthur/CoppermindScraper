@@ -1,59 +1,78 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**General Khal**|
 |-|-|
-|by  Dragontrill |
-|**Family**|
-|**Spouse**|[[Teshav\|Teshav]]|
-|**Children**|[[Halam\|Halam]], [[Aratin\|Aratin]], [[Meleran\|Meleran]]|
-|**Relatives**|[[Idani\|Idani]]|
-|**Abilities**|[[Shardbearer\|Shardbearer]]|
-|**Profession**|Military officer|
-|**Groups**|Kholin army|
-|**Residence**|[[Urithiru\|Urithiru]]|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Familia**|
+|**Cónyuge**|[[Teshav\|Teshav]]|
+|**Hijos**|[[Halam\|Halam]], [[Aratin\|Aratin]], [[Meleran\|Meleran]]|
+|**Parientes**|[[Idani\|Idani]]|
+|**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
+|**Oficio**|Oficial militar|
+|**Grupo**|Ejército de Kholin|
+|**Residencia**|[[Urithiru\|Urithiru]]|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**General Khal** is the highest ranking general in the Kholin army on [[Roshar\|Roshar]].
+El **general Khal** es el general de mayor rango del ejército de Kholin en [[Roshar\|Roshar]].
 
-## Contents
+## Sumario
 
-1 Personality and Appearance
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Early Life
-3.2 Head of the Kholin Army
-3.3 Expedition to Narak
-3.4 In Urithiru
-
-
-4 Notes
+3. [[#Vida temprana]] 
+3. [[#L.C3.ADder del ej.C3.A9rcito de Kholin]] 
+3. [[#Expedici.C3.B3n a Narak]] 
+3. [[#En Urithiru]] 
 
 
-## Personality and Appearance
-General Khal has yellow eyes and stands with a straight back. He is bald and appears limber. Khal is a cautious man and has his doubts about the strength of the Alethi throne. As a veteran of combat, he has an understanding of how conflict and terrible situations can unite men. Also a seasoned commander, Khal is experienced in matters of war and advises Dalinar on a variety of other issues as well. General Khal's [[Dahn\|dahn]] is uncertain at present, but as a [[Shardbearer\|Shardbearer]] he is at least of the fourth dahn.
-
-## Attributes and Abilities
-General Khal is one of the few Alethi to own both [[Shardplate\|Shardplate]] and a [[Shardblade\|Shardblade]]. As a full Shardbearer, Khal's effectiveness on the battlefield is unmatched by any common soldier, and when using his Shards, he is nigh-unstoppable in combat. While General Khal's skill with a Blade is unmentioned, he is likely a master, as he is chosen to lead the strike team that guards the highprinces during their meeting.
-However, his greatest contribution to the battlefield may in fact be his experience as a general. Dalinar trusts him as he trusts no other commander, knowing that he will be able to advise Adolin in any situation that could arise. Khal is always at the center of the command tent, moving troops around and discussing the most effective strategy with Dalinar. When Dalinar cannot participate in combat, he often leaves General Khal alone in charge of the armies.
-
-## History
-### Early Life
-Nothing is known of General Khal's early life or how he ascended to his current rank. At some point during his life, Khal married a woman named [[Teshav\|Teshav]], who gave birth to their three boys: [[Halam\|Halam]], [[Aratin\|Aratin]], and [[Meleran\|Meleran]]. He served as a general in the Kholin army during the [[War of Reckoning\|War of Reckoning]] on the [[Shattered Plains\|Shattered Plains]]. General Khal was in charge of all of the patrols of the [[Alethi\|Alethi]] territory in the Shattered Plains. It is uncertain whether or not he participated in the [[Battle of the Tower\|Battle of the Tower]], but afterwards he was the seniormost commander remaining in all of Dalinar's army. As a result, Khal's patrol responsibilities were given to [[Kaladin\|Kaladin]] and his men, and Khal moved on to more pressing duties.
-
-### Head of the Kholin Army
-For the rest of the war, General Khal served as one of Dalinar's most trusted advisors. He and his wife attended Dalinar's meeting with King [[Elhokar Kholin\|Elhokar Kholin]], where they plotted their plan to discredit Highprince [[Torol Sadeas\|Torol Sadeas]] and remove him from power. Khal counseled against directly opposing the other highprinces, believing they had enough strength to ignore the authority of the throne. He also worried that the highprinces would refuse the dueling challenges and that Adolin might lose the fights. Khal felt that the plan was too chaotic and had too many ways it could possibly fail. Despite Khal's urging, Dalinar went ahead with his plan.
-As Dalinar settled into his role as [[Highprince of War\|Highprince of War]], he moved away from directly commanding armies, choosing rather to send his elder son [[Adolin\|Adolin]] to lead them with the aid of General Khal. After the attempt on Dalinar's life by the [[Assassin in White\|Assassin in White]], Khal guarded the room in which the highprinces met to discuss the attack. He wore Adolin's [[Shardplate\|Shardplate]] and had command of a strike force that was prepared to enter the meeting room at any moment to dispatch the assassin.
-As the war dragged on, Khal continued to advise Dalinar in matters of both war and politics, including during Adolin's meeting with a [[Parshendi\|Parshendi]] Shardbearer, [[Eshonai\|Eshonai]]. When Adolin successfully dueled four Shardbearers at once with the help of [[Renarin Kholin\|Renarin Kholin]] and Kaladin, General Khal received both Plate and a [[Shardblade\|Blade]]. As a Shardbearer, Khal was able to join the ranks of the nobility and so attended the feast at which it became clear that Sadeas had leaked copies of [[Dalinar's visions\|Dalinar's visions]].
-
-### Expedition to Narak
-General Khal accompanied Dalinar when he chose to lead a war party onto the Plains themselves. As the number of skirmishes with the Parshendi increased during the trip, General Khal predicted that they were attempting to draw the armies off-course. When they reached [[Narak\|Narak]] and realized the threat that they faced now consisted of [[Stormform\|stormforms]] summoning the [[Everstorm\|Everstorm]], General Khal helped Dalinar lead the armies from the command tent. He lent his Shards to his [[Halam Khal\|son]], now a captain, to bolster the troops fighting on [[Roion\|Roion's]] front. Khal helped to direct the armies to the [[Oathgate\|Oathgate]] when the armies evacuated to [[Urithiru\|Urithiru]] at the conclusion of the [[Battle of Narak\|battle]]. The general was wounded during the course of the battle, but he kept the fact a secret until the retreat was complete. He was placed on leave until he recuperated.
-
-### In Urithiru
-As the Alethi established themselves in Urithiru, [[Kaladin\|Kaladin]] asked General Khal to send the most likely members of the army to [[Bridge Four\|Bridge Four]] to screen them as possible [[Knights Radiant\|Radiant]] [[Squire\|squires]].
-He was present while they awaited news from the [[Siege of Kholinar\|Siege of Kholinar]] and discussed tactics with [[Aladar\|Aladar]].
-General Khal also accompanied the group that went to [[Thaylen City\|Thaylen City]] ahead of the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and discussed a potential union of his son [[Halam\|Halam]] with the princess of [[Yezier\|Yezier]]. Just prior to the battle itself, Dalinar heard him shouting for runners for more troops from [[Urithiru\|Urithiru]]. After going back to [[Urithiru\|Urithiru]] to collect more troops with his son, a surprise attack hit Urithiru and delayed their return to [[Thaylen City\|Thaylen City]]. They eventually returned with the rest of [[Bridge Four\|Bridge Four]] along with two thousand soldiers; upon their arrival, [[Renarin\|Renarin]] attempted to catch the general up.
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+El general Khal tiene ojos amarillos y mantiene la espalda recta. Es calvo y de apariencia ágil. Khal es un hombre cauto que tiene dudas acerca de la fuerza del trono alezi. Como veterano de combate, comprende cómo los conflictos y las situaciones terribles pueden unir a los hombres. Siendo también un comandante versado, Khal tiene experiencia en cuestiones bélicas y aconseja a Dalinar en una variedad de otros temas también. El [[Dahn\|dahn]] del general Khal se desconoce actualmente, pero como [[Portador de esquirlada\|portador de esquirlada]] es al menos del cuarto dahn.
 
-https://coppermind.net/wiki/General_Khal
+## Atributos y habilidades
+El general Khal es uno de los pocos alezi que tiene tanto [[Armadura esquirlada\|armadura esquirlada]] como [[Hoja esquirlada\|hoja esquirlada]]. Como portador completo, la efectividad de Khal en el campo de batalla no puede igualarse por la de ningún soldado común, y, cuando usa sus esquirlas, es casi imparable en combate. Aunque la habilidad del general Khal con una espada no se menciona, es probablemente un maestro, pues es elegido para liderar el equipo de asalto que protege a los altos príncipes durante sus reuniones.
+Sin embargo, su mayor contribución en el campo de batalla puede ser en realidad su experiencia como general. Dalinar confía en él como en ningún otro comandante, sabiendo que será capaz de aconsejar a Adolin en cualquier situación que surja. Khal siempre está en el centro de la tienda de mando, movilizando tropas y discutiendo la estrategia más efectiva con Dalinar. Cuando Dalinar no puede participar en combate, a menudo deja al general Khal solo al cargo de los ejércitos.
+
+## Historia
+### Vida temprana
+No se conoce nada de la vida temprana del general Khal ni de cómo ascendió a su puesto actual. En algún punto durante su vida, Khal se casó con una mujer llamada [[Teshav\|Teshav]], que dio a luz a sus tres hijos varones: [[Halam\|Halam]], [[Aratin\|Aratin]], y [[Meleran\|Meleran]]. Sirvió como general en el ejército de Kholin durante la [[Guerra de la Venganza\|guerra de la Venganza]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. El general Khal estaba al cargo de todas las patrullas del territorio [[Alezi\|alezi]] en las Llanuras Quebradas. No está claro si participó o no en la [[Batalla de la Torre\|batalla de la Torre]], pero tras ella era el general más antiguo del ejército de Dalinar. Como resultado, las responsabilidades de patrulla de Khal fueron entregadas a [[Kaladin\|Kaladin]] y sus hombres, y Khal pasó a deberes mayores.
+
+### Líder del ejército de Kholin
+Durante el resto de la guerra, el general Khal sirvió como uno de los consejeros de mayor confianza de Dalinar. Él y su esposa asistieron a la reunión de Dalinar con el rey [[Elhokar Kholin\|Elhokar Kholin]], n la que urdieron un plan para desacreditar al alto príncipe [[Torol Sadeas\|Torol Sadeas]] y retirarlo del poder. Khal desaconsejó oponerse directamente a otros altos príncipes, creyendo que tenían suficiente fuerza para oponerse a la autoridad del trono. También le preocupaba que los altos príncipes pudieran rechazar los desafíos de duelo y que Adolin podría perder los combates. Khal sentía que el plan era demasiado caótico y que podía fallar de demasiadas maneras. A pesar de la insistencia de Khal, Dalinar continuó con su plan.
+Cuando Dalinar se asentó en su papel de [[Alto Pr%C3%ADncipe de la Guerra\|Alto Príncipe de la Guerra]], dejó de comandar directamente sus ejércitos, eligiendo en su lugar enviar a su hijo [[Adolin\|Adolin]] para liderarlos con la ayuda del general Khal. Tras el atentado contra la vida de Dalinar llevado a acabo por el [[Szeth\|asesino de blanco]], Khal protegía la habitación en la que los altos príncipes se reunieron para discutir el ataque. Llevaba la [[Armadura esquirlada\|armadura esquirlada]] de Adolin y tenía el mando de un equipo de asalto preparado para entrar en la habitación en cualquier momento y deshacerse del asesino.
+Con el transcurso de la guerra, Khal continuó aconsejando a Dalinar en cuestiones de guerra y política, incluyendo durante la reunión de Adolin con la Portadora [[Parshendi\|parshendi]], [[Eshonai\|Eshonai]]. Cuando Adolin se enfrentó con éxito en duelo a cuatro portadores a la vez con la ayuda de [[Renarin Kholin\|Renarin Kholin]] y Kaladin, el general Khal recibió tanto la armadura como la [[Hoja esquirlada\|espada]]. Como portador, Khal pudo unirse a la nobleza y atender a la fiesta en la que se hizo claro que Sadeas había filtrado copias de las visiones de [[Visiones de Dalinar\|visiones de Dalinar]].
+
+### Expedición a Narak
+El general Khal acompañó a Dalinar cuando eligió liderar una partida de guerra a las propias Llanuras. Cuando el número de escaramuzas con los parshendi aumentó durante su viaje, el general Khal predijo que trataban de sacar a los ejércitos del camino. Cuando llegaron a [[Narak\|Narak]] y se dieron cuenta de que ahora la amenaza consistía en los [[Forma tormenta\|forma tormenta]] invocando la [[Tormenta eterna\|tormenta eterna]], el general Khal ayudó a Dalinar a liderar los ejércitos desde la tienda de mando. Dejó sus esquirlas a su [[Halam Khal\| hijo]], ahora un capitán, para apoyar a las tropas que luchaban en el frente de [[Roion\|Roion]]. Khal ayudó a dirigir a los ejércitos a la [[Puerta Jurada\|Puerta Jurada]] cuando se retiraron a [[Urithiru\|Urithiru]] al final de la [[Batalla de Narak\|batalla]]. El general fue herido durante la batalla, pero lo mantuvo en secreto hasta que completaron la retirada. Estuvo de permiso hasta que se recuperó.
+
+### En Urithiru
+Cuando los alezi se asentaron en Urithiru, [[Kaladin\|Kaladin]] le pidió al general Khal a los miembros más parecidos del ejército al [[Puente Cuatro\|Puente Cuatro]] para evaluarlos como posibles [[Escudero\|escuderos]] [[Caballeros Radiantes\|Radiantes]].
+Estaba presente mientras esperaban noticias del [[Asedio a Kholinar\|asedio a Kholinar]] y discutió tácticas con [[Aladar\|Aladar]].
+El general Khal también acompañó al grupo que fue a [[Ciudad Thaylen\|Ciudad Thaylen]] antes de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] y discutió una posible unión de su hijo [[Halam\|Halam]] con la princesa de [[Yezier\|Yezier]]. Justo antes de la propia batalla, Dalinar pidiendo a gritos más tropas de [[Urithiru\|Urithiru]]. Tras volver a [[Urithiru\|Urithiru]] para reunir más tropas con su hijo, un ataque sorpresa golpeó Urithiru y retrasó su regreso a [[Ciudad Thaylen\|Ciudad Thaylen]]. Finalmente se reunieron con el resto del [[Puente Cuatro\|Puente Cuatro]] junto con dos mil soldados; tras su llegada, [[Renarin\|Renarin]] trató de llegar hasta el general.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 15:05, 27 June 2016 (MST)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/General_Khal

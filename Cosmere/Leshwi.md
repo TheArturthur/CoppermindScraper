@@ -1,91 +1,110 @@
+
+
 |**Leshwi**|
 |-|-|
-|by  Jazzy-kandra |
-|**Abilities**|[[Fused\|Fused]] |
-|**Species**|[[Singer\|Singer]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Oathbringer*|
+||
+|**Capacidades**|[[Fusionado\|Fusionado]] |
+|**Especie**|[[Cantor\|Cantor]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*What is your passionate fury, Moash, the man with an ancient singer's name?*”
-\-Leshwi to Moash[1]
-
-
-Lady **Leshwi** is a [[Singer\|singer]] and high ranking member of the *shanay-im*, a type of [[Fused\|Fused]]. She is instrumental in bringing [[Moash\|Moash]] to [[Odium\|Odium's]] side.
-
-## Contents
-
-1 Appearance and Personality
-2 Abilities and Attributes
-3 History
-
-3.1 Mortal
-3.2 Recruiting Moash
-3.3 Evacuation of Hearthstone
-3.4 Occupation of Urithiru
+>“*¿Qué aviva tu ira apasionada, Moash, humano que lleva el nombre de un antiguo cantor?*”
+\-Leshwi a Moash[1]
 
 
-4 Relationships
+La dama **Leshwi** es una [[Cantor\|cantora]] y miembro de alto rango de los *[[Shanay-im\|shanay-im]]*, un tipo de [[Fusionado\|Fusionado]]. Es fundamental para llevar a [[Moash\|Moash]] al lado de [[Odium\|Odium]].
 
-4.1 Moash
-4.2 Kaladin
-4.3 Venli
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Habilidades y atributos. [[#Habilidades y atributos]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Mortal]] 
+3. [[#Reclutando a Moash]] 
+3. [[#Evacuaci.C3.B3n de Piedralar]] 
+3. [[#Ocupaci.C3.B3n de Urithiru]] 
 
 
-5 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Moash]] 
+4. [[#Kaladin]] 
+4. [[#Venli]] 
 
 
-## Appearance and Personality
- by  BBQShapez 
-For more images, see [[Leshwi/Gallery\|/Gallery]].
-Leshwi has the seemingly rare physical trait of black, white, and red marbling on her face. Her eyes are ruby like and colored deep red.
-Little more can be said about her appearance since she, like all [[Fused\|Fused]], possesses another [[Singer\|singer's]] body. While flying, Leshwi wears a long red robe.
-She is a field commander, and one of the leaders of the singers during the [[Siege of Kholinar\|Siege of Kholinar]]. In her view, this is because she is one of the few Fused that are still sane. Leshwi chooses her station carefully. She's a Fused of high enough station that the leaders defer to her but not high enough that she is required to stay out of fights.
-Passion is an important virtue to Leshwi. This likely is related to the fact that Odium believes 'Passion' to be his intent. Leshwi requires those who serve her to have Passion and will not hire those who do not demonstrate it. She is not afraid to speak her mind, even in the presence of people ranked more highly than her and even if it goes against social conventions. She is also more open-minded than some of the other Fused.
-During the Last Desolation, she was reincarnated into a malen body, but has her beard shaved by a barber, and keeps her hair long. She actively hates the whiskers that grow upon her, even when soft and faint. It is not known if she feels general dysphoria at her malen body, or if it is specific to her facial hair.
+5 Notas. [[#Notas]] 
 
-## Abilities and Attributes
-Leshwi is one of the Shanay-im. This allows her to use the [[Surge\|Surge]] of [[Gravitation\|Gravitation]]. She is good enough at lashing that she considers it a rarity to find a human who can compete with her. Like all Fused she can also breathe in [[Voidlight\|Voidlight]], this allows her to heal from most wounds, as long as she has Voidlight.
-Leshwi is also extremely skilled at fighting. She prefers the spear, fighting ground and flying soldiers with it, but she also uses a long, curved [[Parshendi\|Parshendi]] sword. She is considered to be one of the better fighters among the Fused.
 
-## History
- by  Marie Seeberger  Capturing [[Moash\|Moash]]
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Leshwi/Galer%C3%ADa\|/Galería]].
+Leshwi tiene el rasgo físico aparentemente raro de un jaspeado negro, blanco y rojo en su cara. Sus ojos son como rubíes y están coloreados de rojo intenso.
+Poco más se puede decir de su aspecto ya que, como todos los Fusionados, posee el cuerpo de otro [[Cantor\|cantor]]. Mientras vuela, Leshwi lleva una larga túnica roja.
+Es una comandante de campo, y una de las líderes de los cantores durante el [[Asedio a Kholinar\|Asedio a Kholinar]]. En su opinión, esto se debe a que es uno de los pocos Fusionados que aún están cuerdos.  Leshwi elige su posición con cuidado. Es una Fusionada de un rango lo suficientemente alto como para que los líderes la respeten, pero no lo suficientemente alto como para que se le exija mantenerse al margen de los combates.
+La pasión es una virtud importante para Leshwi. Esto probablemente esté relacionado con el hecho de que Odium cree que la «Pasión» es su intención. Leshwi exige que los que le sirven tengan pasión y no contratará a los que no la demuestren. No teme decir lo que piensa, incluso en presencia de personas de mayor rango que ella y aunque vaya en contra de las convenciones sociales. También es más abierta de mente que otros Fusionados.
+Durante la Última Desolación, se reencarnó en un cuerpo hombren, pero se hace afeitar la barba por un barbero y mantiene el pelo largo. Odia activamente los bigotes que le crecen, incluso cuando son suaves y débiles. No se sabe si siente disforia general ante su cuerpo hombren o si es específica de su vello facial.
+
+## Habilidades y atributos
+Leshwi es capaz de usar la [[Luz del vac%C3%ADo\|luz del vacío]] y es hábil con la [[Potenciaci%C3%B3n\|potencia]] de [[Gravitaci%C3%B3n\|Gravitación]]. Como todos los Fusionados, aunque se cura de la mayoría de las heridas mientras tenga luz del vacío, el daño a su [[Gema coraz%C3%B3n\|gema corazón]] es mortal al instante.
+Cuando Leshwi lucha contra Moash utiliza una espada larga y curva [[Parshendi\|parshendi]]. Cuando lucha contra Kaladin, prefiere utilizar una lanza. Está considerada como una de las mejores luchadoras entre los Fusionados.
+
+## Historia
+  Capturando a <<Moash\|Moash>>
 ### Mortal
-Little is known of Leshwi's mortal life, except that she was friends with an honorspren named [[Riah\|Riah]], and at some point, presumably during the [[First Desolation\|First Desolation]] she died and was reborn as one of the Fused.
+Poco se sabe de la vida anterior de Leshwi, salvo que era amiga de una honorspren llamada [[Riah\|Riah]], y que en algún momento, presumiblemente durante la [[Primera Desolaci%C3%B3n\|Primera Desolación]], murió y renació como uno de los Fusionados.
 
-### Recruiting Moash
-When [[Moash\|Moash]], [[Graves\|Graves]], [[Febrth\|Febrth]] and [[Fia\|Fia]] set up a camp, Leshwi and three other Fused attacked them. Only Moash was able to fight back effectively; his companions were dead within seconds. Moash used his [[Shardblade\|Shardblade]] to fight Leshwi, but when she realized that Moash isn't well practiced with the sword she attacked more fiercely. She was surprised when Moash dismissed his Shardblade, dashed away, and picked up a spear. She then [[Gravitation\|Lashed]] Moash into the air, but he pulled her with him and killed Leshwi midair by ramming a knife in her chest. Leshwi's companions took Moash captive after that.
-Later, during the [[Siege of Kholinar\|Siege of Kholinar]], Moash demanded to speak to a Fused in charge, and he was brought to Leshwi. While hovering in the sky, the two of them had a long conversation. Leshwi said that 'Moash' is a [[Singer\|singer]] name and reveals to Moash that she is the one whom he killed before. Because Leshwi was impressed by Moash's passion, she explained to him why the Fused are at war with mankind. After this conversation, she let Moash go as a free man, but Moash chose not to leave.
-In the aftermath of the [[Battle of Kholinar\|Battle of Kholinar]] Leshwi visited Moash during his work clearing rubble. She knew that he was curious about why they were destroying the [[Kholinar Palace\|Kholinar Palace]] even more, but said that he will get to know why in due time. They were probably looking for [[Elhokar\|Elhokar's]] [[Cryptic\|cryptic]]. Leshwi was pleased that Moash was content with that answer, and ordered him to come up to the palace because [[Hnanan\|Hnanan]] had a request for him.
-After Moash killed [[Jezrien\|Jezrien]] at Hnanan's request Leshwi and eight other Fused came to him again. They offered him Jezrien's [[Honorblade\|Honorblade]], but Leshwi warned him that 'Moash' will be no more. Moash accepted this fate, and Leshwi gave him a new name: Vyre, which means "He Who Quiets."
+### Reclutando a Moash
+Cuando [[Moash\|Moash]], [[Graves\|Graves]], [[Febrth\|Febrth]] y [[Fia\|Fia]] montaron un campamento, Leshwi y otros tres Fusionados los atacaron. Sólo Moash pudo defenderse eficazmente; sus compañeros murieron en cuestión de segundos. Moash utilizó su [[Hoja esquirlada\|hoja esquirlada]] para luchar contra Leshwi, pero cuando ésta se dio cuenta de que Moash no tenía mucha práctica con la espada, atacó con más fiereza. Se sorprendió cuando Moash desechó su hoja esquirlada, se alejó corriendo y cogió una lanza. Entonces [[Gravitaci%C3%B3n\|enlazó]] a Moash en el aire, pero él la arrastró consigo y la mató en el aire clavándole un cuchillo en el pecho. Los compañeros de Leshwi tomaron cautivo a Moash después de eso.
+Más tarde, durante el [[Asedio a Kholinar\|Asedio a Kholinar]], Moash exigió hablar con uno de los Fusionados a cargo, y fue llevado ante Leshwi. Mientras flotaba en el cielo, ambos mantuvieron una larga conversación. Leshwi le dijo que 'Moash' es un nombre de [[Cantor\|cantor]] y le reveló que era ella a quien había matado antes. Como Leshwi estaba impresionada por la pasión de Moash, le explicó por qué los fusionados están en guerra con la humanidad. Después de esta conversación, ella dejó que Moash se fuera como un hombre libre, pero Moash decidió no marcharse.
+Tras la [[Batalla de Kholinar\|Batalla de Kholinar]], Leshwi visitó a Moash durante su trabajo de limpieza de escombros. Sabía que él tenía curiosidad por saber por qué estaban destruyendo aún más el [[Palacio de Kholinar\|palacio de Kholinar]], pero le dijo que ya sabría por qué a su debido tiempo. Probablemente estaban buscando al [[Cr%C3%ADptico\|críptico]] de [[Elhokar\|Elhokar]]. Leshwi se alegró de que Moash se contentara con esa respuesta, y le ordenó que subiera a palacio porque [[Hnanan\|Hnanan]] tenía una petición para él.
+Después de que Moash matara a [[Jezrien\|Jezrien]] a petición de Hnanan, Leshwi y otros ocho Fusionados acudieron a él de nuevo. Le ofrecieron la [[Hoja de Honor\|hoja de Honor]] de Jezrien, pero Leshwi le advirtió que «Moash» ya no existiría. Él aceptó este destino, y Leshwi le dio un nuevo nombre: Vyre, que significa «Aquel que Acalla».
 
-### Evacuation of Hearthstone
-During the evacuation of [[Hearthstone\|Hearthstone]], Leshwi was among the three flights of Heavenly Ones, and she dueled [[Kaladin\|Kaladin]]. During the battle, she wielded a [[Raysium\|raysium]] spear with a gemstone at its base, capable of drawing in a [[Knights Radiant\|Knights Radiant's]] [[Stormlight\|stormlight]]. Leshwi stabbed [[Sigzil\|Sigzil]] with this spear but spared his life as a sign of respect to Kaladin for sparing a Heavenly One earlier in the battle. After another exchange with Kaladin that left them both wounded, Leshwi accepted a draw and allowed Kaladin to defend a group of civilians under attack by [[Lezian\|Lezian]].
-After returning to Kholinar, Leshwi attended a meeting of the Nine, where she, with her Voice, [[Venli\|Venli]], described the *Fourth Bridge* to the Nine and explained how it seemed to operate. During the meeting she claimed the right to battle Kaladin over Lezian, enraging him. She also showed disapproval of [[Raboniel\|Raboniel's]] plan to besiege [[Urithiru\|Urithiru]].
+### Evacuación de Piedralar
+Durante la evacuación de [[Piedralar\|Piedralar]], Leshwi estaba entre los tres vuelos de Celestiales, y se batió en duelo con [[Kaladin\|Kaladin]]. Durante la batalla, empuñó una lanza de [[Raysio\|raysio]] con una gema en su base, capaz de drenar la [[Luz tormentosa\|luz tormentosa]] de un [[Caballeros Radiantes\|Caballero Radiante]]. Leshwi apuñaló a [[Sigzil\|Sigzil]] con esta lanza, pero le perdonó la vida en señal de respeto a Kaladin por haber perdonado la vida a un Celestial anteriormente en la batalla. Después de otro intercambio con Kaladin que dejó a ambos heridos, Leshwi aceptó un empate y permitió a Kaladin defender a un grupo de civiles bajo el ataque de [[Lezian\|Lezian]].
+Tras retornar a Kholinar, Leshwi asistió a una reunión de los Nueve, donde, junto con su Voz, [[Venli\|Venli]], describió el *[[Cuarto Puente\|Cuarto Puente]]* a los Nueve y les explicó cómo parecía funcionar. Durante la reunión reclamó el derecho a luchar contra Kaladin sobre Lezian, enfureciéndolo. También mostró su desaprobación al plan de [[Rabeniel\|Rabeniel]] de asediar [[Urithiru\|Urithiru]].
 
- by  Connor Chamberlain 
-### Occupation of Urithiru
-Leshwi offered up all of her servants save two to Raboniel, including Venli, and gave Venli orders to bring her reports on Raboniel's actions. Once Urithiru was taken by the Fused, Leshwi took custody of [[Lirin\|Lirin]], [[Hesina\|Hesina]], and [[Oroden\|Oroden]] to protect them from Lezian. Leshwi accepted another duel with Kaladin but showed mercy to him when she discovered he didn't have access to all his Surges. The duel ended when Kaladin escaped to destroy a node of the [[Sibling\|Sibling]]. Later, Venli revealed that she is a Radiant and Leshwi was overjoyed, proclaiming that the spren have forgiven the singers. Leshwi asked Venli whether her [[Spren\|spren]] knew her old friend, an honorspren named [[Riah\|Riah]]. Venli says she does not but, that there are spren willing to bond singers again. Leshwi replied that her soul has been too long owned by someone else for that. Lezian's soldiers then attacked the unarmed humans protecting the unconscious [[Knights Radiant\|Knights Radiant]]; Venli whispered that she was caught between two worlds and didn't know what to do. Leshwi responded, "It's all right, Voice. I know the answer." She then unsheathed her sword, flew directly to the fight, and commanded the singer troops to halt. When they didn't, Leshwi attacked them, and her troops joined her.
-Singer fought singer; on one side were Leshwi, five Heavenly Ones, about twenty [[Regals\|Regals]], and the human civilians. On the other side were Lezian's singer troops. Lezian's troops were afraid of the Fused and soon fled, leaving their dead behind. Leshwi insisted that the humans she had fought alongside submit so that Leshwi could explain the situation to Raboniel and not seem in rebellion. The humans refused, and violence seemed inevitable, until [[Rlain\|Rlain]] took command of the situation. He told Leshwi that she had defied Odium and so would be punished unless she and her troops escaped with him. Leshwi reluctantly agreed.
-Before they could depart, Deepest Ones and hundreds of stormforms arrived to exterminate them; they attacked, killing, among others, one of the Heavenly Ones. Leshwi's group of Heavenly Ones, Regals, and humans would have been overwhelmed, but Kaladin arrived in his new Shardplate, which he sent out to protect those about to be killed, including [[Adin\|Adin]], [[Dabbid\|Dabbid]], and Leshwi herself. She had speared a stormform that had released a flash of lightning that enveloped her, but was saved by Kaladin's Plate. Simultaneously, the [[Sibling\|Sibling]] bonded with [[Navani\|Navani]] and the defenses of Urithiru were fully restored. The Fused, including Leshwi, collapsed unconscious. Afterwards, once they had been brought to the [[Oathgate\|Oathgate]], Leshwi and the four surviving Heavenly Ones regained consciousness. They, along with Rlain, Venli, [[Dul\|Dul]], [[Mazish\|Mazish]], and the others that Venli had recruited, were transported to [[Narak\|Narak]] via the Oathgate, where Leshwi helped find the free group of listeners.
+ 
+### Ocupación de Urithiru
+Leshwi ofreció todos sus sirvientes excepto dos a Rabeniel, incluyendo a Venli, y le dio órdenes a esta para que le trajera informes sobre las acciones de Rabeniel. Una vez que Urithiru fue tomada por los Fusionados, Leshwi tomó la custodia de [[Lirin\|Lirin]], [[Hesina\|Hesina]] y [[Oroden\|Oroden]] para protegerlos de Lezian. Leshwi aceptó otro duelo con Kaladin, pero se apiadó de él cuando descubrió que no tenía acceso a todas sus potencias. El duelo terminó cuando Kaladin escapó para destruir un nodo del [[Hermano\|Hermano]]. Más tarde, Venli reveló que era una Radiante y Leshwi se alegró mucho, proclamando que los spren habían perdonado a los cantores. Leshwi preguntó a Venli si su [[Spren\|spren]] conocía a su antigua amiga, una honorspren llamada [[Riah\|Riah]]. Venli dice que no, pero que hay spren dispuestos a vincular a los cantores de nuevo. Leshwi responde que su alma lleva demasiado tiempo en manos de otra persona como para eso. Los soldados de Lezian atacaron entonces a los humanos desarmados que protegían a los [[Caballeros Radiantes\|Caballeros Radiantes]] inconscientes; Venli susurró que estaba atrapada entre dos mundos y no sabía qué hacer. Leshwi respondió: «No pasa nada, Voz. Yo conozco la respuesta».  Entonces desenvainó su espada, voló directamente al combate y ordenó a las tropas de cantores que se detuvieran. Cuando no lo hicieron, Leshwi los atacó, y sus tropas se unieron a ella.
+Cantores lucharon contra cantores; en un bando estaban Leshwi, cinco Celestiales, una veintena de [[Regio\|Regios]] y los humanos civiles. En el otro bando estaban las tropas de cantores de Lezian. Estas tenían miedo de los fusionados y pronto huyeron, dejando atrás a sus muertos. Leshwi insistió en que los humanos con los que había luchado se sometieran para que Leshwi pudiera explicar la situación a Rabeniel y no pareciera una rebelión. Los humanos se negaron, y la violencia parecía inevitable, hasta que Rlain tomó el mando de la situación. Le dijo a Leshwi que había desafiado a Odium y que, por lo tanto, sería castigada a menos que ella y sus tropas escaparan con él. Leshwi aceptó reticentemente.
+Antes de que pudieran partir, los Profundos y cientos de formas tormenta llegaron para exterminarlos; atacaron y mataron, entre otros, a uno de los Celestiales. El grupo de Celestiales, Regios y humanos de Leshwi habría sido arrollado, pero Kaladin llegó con su nueva armadura esquirlada, que envió para proteger a los que iban a ser asesinados, entre ellos [[Adin\|Adin]], [[Dabbid\|Dabbid]] y la propia Leshwi. Había atravesado con una lanza a uno en forma tormenta que había liberado un rayo que la envolvía, pero fue salvada por la armadura de Kaladin. Simultáneamente, el [[Hermano\|Hermano]] se vinculó con [[Navani\|Navani]] y las defensas de Urithiru quedaron totalmente restauradas. Los Fusionados, incluida Leshwi, cayeron inconscientes. Después, una vez llevados a la [[Puerta Jurada\|Puerta Jurada]], Leshwi y los cuatro Celestiales supervivientes recuperaron la conciencia. Ellos, junto con Rlain, Venli, [[Dul\|Dul]], [[Mazish\|Mazish]], y los demás que Venli había reclutado, fueron transportados a [[Narak\|Narak]] a través de la Puerta Jurada, donde Leshwi ayudó a encontrar al grupo de oyentes libres.
 
-## Relationships
- by  Gerva Perez  Facing off against [[Kaladin\|Kaladin]] in the skies
+## Relaciones
+  Enfrentándose a <<Kaladin\|Kaladin>> en los cielos
 ### Moash
-Leshwi initially was angered at [[Moash\|Moash]] because he managed to kill her so unexpectedly, but over time this anger was converted into admiration for Moash's passion. Leshwi is intrigued by Moash's motives, and he impresses her so much that she releases him. However, just before releasing him Leshwi told Moash to prove himself, and when he recalled this he voluntary returned to his [[Parshmen\|parshmen]] crew, what seemed to be what Leshwi hoped he would do.
-Moash's assassinations of [[Elhokar\|Elhokar]] and Jezrien seem to have boosted his and Leshwi's reputation among the Fused, and Hnanan expresses pride at Leshwi for picking out Moash. Eventually the Fused hold Moash in such high regard that they give him Jezrien's Honorblade.
+Al principio, Leshwi se enfada con [[Moash\|Moash]] porque ha conseguido matarla de forma inesperada, pero con el tiempo este enfado se convierte en admiración por la pasión que él tiene. Leshwi está intrigada por los motivos de Moash, y éste la impresiona tanto que lo libera. Sin embargo, justo antes de liberarlo Leshwi le dice que demuestre su valía. Cuando lo recuerda, regresa voluntariamente a su grupo de [[Parshmenios\|parshmenios]], lo cual parece ser lo que Leshwi esperaba que hiciera.
+Que Moash asesinara a [[Elhokar\|Elhokar]] y a Jezrien parece haber aumentado su reputación y la de Leshwi entre los Fusionados, y Hnanan se enorgullece de que Leshwi haya elegido a Moash. Finalmente, los Fusionados tienen a Moash en tan alta estima que le dan la hoja de Honor de Jezrien.
 
 ### Kaladin
->“*It is rare to find a human who can fight in the skies well enough to be a challenge for me.*”
-\-Leshwi about Kaladin[12]
+>“*Es muy infrecuente encontrar a un humano capaz de luchar en los cielos lo bastante bien para suponerme un reto.*”
+\-Leshwi sobre Kaladin[12]
 
 
-Leshwi and [[Kaladin\|Kaladin]] seem to have a mutual respect. Leshwi sees him as a rare challenge to battle in the skies. They have multiple duels, none of which end with a clear winner. When Kaladin's powers are suppressed by corruption of the Sibling, Leshwi does not take the advantage and kill the windrunner, instead she shows honor in not wanting to beat him in an unfair fight. Kaladin also values her opinion of him, making sure she understood he hadn't technically accepted a duel and wasn't fleeing when he left.
-After the events in Urithiru and the fighting between the singers and the humans, Kaladin offers Leshwi aid and a place to stay in Narak, but she declines.
+Leshwi y [[Kaladin\|Kaladin]] parecen compartir un respeto mutuo. Leshwi lo ve como un raro desafío para luchar en los cielos. Tienen múltiples duelos, ninguno de los cuales termina con un claro ganador. Cuando los poderes de Kaladin son suprimidos por la corrupción del Hermano, Leshwi no aprovecha la ventaja para matar al Corredor del Viento, sino que muestra su honor al no querer ganarle en una pelea injusta.  Kaladin también valora su opinión sobre él, asegurándose de que ella entendía que no había aceptado técnicamente un duelo y que no estaba huyendo cuando se fue.
+Tras los sucesos de Urithiru y la lucha entre los cantores y los humanos, Kaladin le ofrece a Leshwi ayuda y un lugar donde quedarse en Narak, pero ella lo rechaza.
 
 ### Venli
-[[Venli\|Venli]] serves as the Voice of Lady Leshwi, expressing Leshwi's desires to others. Initially Leshwi values Venli for her unique Envoyform talents, however treats her coldly due to her position as a servant. After her Voice's actions in Urithiru, spying on Raboniel and helping Leshwi protect Kaladin's family, Leshwi begins to warm to her. When Venli reveals she has bonded a Radiant Spren Leshwi is overjoyed.
+[[Venli\|Venli]] sirve como Voz de la dama Leshwi, expresando los deseos de esta a los demás. Inicialmente, Leshwi valora a Venli por su talento único para la forma emisaria; sin embargo, la trata con frialdad debido a su posición como sirvienta. Tras las acciones de su Voz en Urithiru, espiando a Rabeniel y ayudándola a proteger a la familia de Kaladin, Leshwi empieza a apreciarla. Cuando Venli le revela que ha vinculado a un spren Radiante, Leshwi se alegra mucho.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Leshwi
+https://es.coppermind.net/wiki/Leshwi

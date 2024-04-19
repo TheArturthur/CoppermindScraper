@@ -1,49 +1,62 @@
+
+
 |**Dakhor**|
 |-|-|
-|**Related to**|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|
-|**Prerequisites**|Sacrifice|
-|**Type**|End-Positive|
-|**World of Origin**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
-The **Dakhor** is a manifestation of [[Investiture\|Investiture]] on [[Sel\|Sel]], independent from [[AonDor\|AonDor]]. Its official name is unknown, but the users of this system are the monks of [[Dakhor Monastery\|Dakhor Monastery]] in [[Fjorden\|Fjorden]], including [[Dilaf\|Dilaf]].
-The Dakhor monks themselves are a newer development than [[Elantrian\|Elantrians]]. In fact, [[Wulfden the Fourth\|Wulfden the Fourth]] was preparing to use them against Elantris before [[The Reod\|the city fell on its own]].
-Its exact mechanics are so far unclear, but will be explored more fully in the [[Elantris sequel\|Elantris sequel]].
+|**Relacionado con**|[[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]]|
+|**Prerrequisitos**|Sacrificio|
+|**Tipo**|Fin-positivo|
+|**Mundo de origen**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
+El **dakhor** es una manifestación de la [[Investidura\|Investidura]] en [[Sel\|Sel]], independiente de la [[AonDor\|AonDor]]. Su nombre oficial es desconocido, pero los usuarios de este sistema de magia son los monjes del [[Monasterio Dakhor\|monasterio Dakhor]] en [[Fjorden\|Fjorden]], incluyendo a [[Dilaf\|Dilaf]].
+Los monjes dakhor son más recientes que los [[Elantrino\|elantrinos]]. De hecho, [[Wulfden IV\|Wulfden IV]] planeaba utilizarlos contra Elantris antes de que [[La Reod\|la ciudad cayera por sí sola]].
+Sus mecánicas exactas todavía no están claras, pero se explorarán más en la [[Secuela de Elantris\|secuela de Elantris]].
 
-## Contents
+## Sumario
 
-1 Prerequisites
+1 Prerrequisitos. [[#Prerrequisitos]] 
 
-1.1 Bone growth
-1.2 Sacrifices
-
-
-2 Effects and Abilities
-3 Relationship To Fjorden
-4 Known Dakhor
-5 Notes
+1. [[#Crecimiento de los huesos]] 
+1. [[#Sacrificios]] 
 
 
-## Prerequisites
-In order to access the [[Dor\|Dor]] through the Dakhor magic system, a few things have to occur. It appears that the practitioners of Dakhor have to be [[Fjordell\|Fjordell]]. Chanting is also used and the chants are likely used to determine how the person is changed, and what type of bone growths form.
+2 Efectos y habilidades. [[#Efectos y habilidades]] 
+3 Relación con Fjorden. [[#Relaci.C3.B3n con Fjorden]] 
+4 Usuarios del dakhor conocidos. [[#Usuarios del dakhor conocidos]] 
+5 Notas. [[#Notas]] 
 
-### Bone growth
-The bones of the person accessing Dakhor begin to grow and twist. Since the [[Investiture\|Investiture]] of [[Sel\|Sel]] is form-based, the shape of the bone twists determines what powers a user of Dakhor can access. The shapes that they twist into are ancient Fjordell characters. Dakhor users look like twisted figures with arms like knotted tree branches and tight skin pulled over strange ridges. Their bones appear as if a piece of metal had been inserted beneath the skin and their skeletons appears twisted and carved. While they are abnormal, the Dakhor monks don't seem deformed or inhuman. Their bone growth is subtle enough that a robe can hide it. Even with the initially repulsive nature of the bone twists, they still have a beautiful shape. The bone twists are also known to glow, specifically when teleportation or enhanced strength is being used.
 
-### Sacrifices
-In order to access certain powers of Dakhor, living sacrifices must be made. A ritual needs to be performed before the sacrifices can be killed, and Dakhor users cannot just slaughter people immediately. The amount of Investiture in the people killed is far more important than the number of people killed. Sacrifices will have their souls twisted, not stolen.
+## Prerrequisitos
+Para poder acceder al [[Dor\|Dor]] a través del sistema de magia dakhor tienen que ocurrir varias cosas. Al parecer los practicantes del dakhor tienen que ser [[Fjordell\|fjordell]]. También se emplean cánticos, y es probable que estos determinen cómo cambia la persona y qué tipo de estructuras de hueso se forman.
 
-## Effects and Abilities
-Regardless of how the Dakhor system is accessed, there are some constant effects. Dakhor can grant several abilities, some of which are part of the standard ability set for monks of Dakhor monastery. The first is the extreme strength of anyone who uses Dakhor. The bones of the Dakhor monks are almost indestructible, leaving melee weapons mostly useless against them. Those who use Dakhor can receive enhanced speed as well. Another more costly power is teleportation. In exchange for one person's death, large groups of people can be transported instantaneously. The body and spirit of the sacrificed are used to power this ability.
-Another ability granted by Dakhor can change a person's appearance, such as race. This could presumably be used to change any aspect of a person's appearance. Dakhor can also grant the ability to negate [[Aon\|Aons]] drawn by [[Elantrian\|Elantrians]], though it is also possible for Dakhor to be negated by [[AonDor\|AonDor]]. Another Dakhor ability is resistance to attacks from the Dor. This power requires the deaths of fifty people and thus is rarely given. It is unknown if the ability to negate Aons and the resistance to Dor attacks are two separate abilities or both tied to the same type of bone shape. Dakhor users live longer than regular humans.
-If a [[Bloodsealer\|Bloodsealer]] were to use Bloodsealing on the bones of someone who used Dakhor, the bones would still be able to access the Dor. It would take more than just the bones of a Dakhor monk for a [[Kandra\|kandra]] to get Dakhor abilities.
+### Crecimiento de los huesos
+Los huesos de la persona que accede al dakhor crecen y se retuercen. Como la [[Investidura\|Investidura]] en [[Sel\|Sel]] se basa en las formas, la forma de los huesos retorcidos determina qué poderes puede utilizar un usuario del dakhor. Las formas que toman son antiguos caracteres fjordell. Los usuarios del dakhor tienen el aspecto de figuras retorcidas, con brazos que parecen ramas de árbol anudadas y la piel tensa sobre extrañas protuberancias. Sus deformados huesos hacen que parezca que se les han insertado piezas de metal bajo la piel, y sus esqueletos presentan dobleces y grabados. Aunque no son normales, los monjes dakhor no tienen aspecto deforme ni inhumano. El crecimiento de sus huesos es lo suficientemente sutil para poder ocultarse con una capa. A pesar de su inicial aspecto repulsivo, la forma de los huesos retorcidos puede resultar hasta bella. Los huesos deformados también pueden brillar, especialmente cuando el usuario se está teletransportando o está haciendo uso de su fuerza sobrehumana.
 
-## Relationship To Fjorden
-Dakhor has a specific tie to the land of Fjorden. Like all Selish magic, Dakhor will decrease in power the further from Fjorden a user gets. It is better than AonDor and [[Forgery\|Forgery]] at bringing the power with the user. Dakhor is also known as the Order of Bone.
+### Sacrificios
+Para acceder a ciertos poderes del dakhor, deben sacrificarse seres vivos. Es necesario realizar un ritual antes de poder llevar a cabo los sacrificios, de modo que los usuarios del dakhor no pueden asesinar a la gente inmediatamente si quieren acceder al poder. La cantidad de Investidura de las personas sacrificadas es mucho más importante que el número de sacrificios. Los sacrificados ven su alma deformada, pero no la pierden.
 
-## Known Dakhor
-[[Hrathen\|Hrathen]], although only one arm.
+## Efectos y habilidades
+Hay ciertos efectos que se dan sin importar cómo se acceda al sistema del dakhor. El dakhor puede otorgar varias habilidades, algunas de las cuales forman parte del conjunto estándar de habilidades de los monjes del monasterio Dakhor. La primera de estas habilidades es una fuerza extrema. Los huesos de los monjes dakhor son casi indestructibles, lo que hace que las armas cuerpo a cuerpo resulten prácticamente inútiles contra ellos. Quienes utilizan el dakhor también reciben una velocidad mejorada. Otro poder más costoso es el teletransporte. A cambio de la muerte de una persona, es posible transportar instantáneamente a grandes grupos de gente. El cuerpo y el espíritu de la persona sacrificada se emplean para alimentar esta habilidad.
+Otro poder que otorga el dakhor es el de cambiar la apariencia de una persona, por ejemplo su raza. Es de suponer que este poder podría usarse para cambiar cualquier parte del aspecto de una persona. El dakhor también puede otorgar la habilidad de denegar los [[Aon\|aones]] dibujados por los [[Elantrino\|elantrinos]], aunque a su vez el [[AonDor\|AonDor]] puede denegar el dakhor. Los ataques del Dor también pueden ser resistidos gracias a una habilidad del dakhor. Este poder requiere de la muerte de cincuenta personas y por lo tanto rara vez se otorga. No se sabe si la habilidad de denegar aones y la resistencia a ataques del Dor son dos poderes separados o si por el contrario ambos están asociados al mismo tipo de forma de hueso. Los usuarios del dakhor viven más tiempo que los humanos normales.
+Si un [[Sellador de sangre\|sellador de sangre]] utilizase su poder en los huesos de alguien que utiliza el dakhor, dichos huesos seguirían siendo capaces de acceder al Dor. Un [[Kandra\|kandra]] que tomase los huesos de un monje dakhor necesitaría hacer algo más para obtener las habilidades del dakhor.
+
+## Relación con Fjorden
+El dakhor está ligado específicamente a la nación de Fjorden. Como toda la magia de Sel, el poder del dakhor disminuye a medida que el usuario se aleja de Fjorden. No obstante el dakhor es más eficiente que el AonDor y la [[Falsificaci%C3%B3n\|falsificación]] en términos de poder llevar el poder con el usuario. Dakhor también se conoce como la Orden del Hueso.
+
+## Usuarios del dakhor conocidos
+[[Hrathen\|Hrathen]], aunque solo un brazo.
 [[Dilaf\|Dilaf]]
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] ·  · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
-https://coppermind.net/wiki/Dahkor
+
+https://es.coppermind.net/wiki/Dakhor

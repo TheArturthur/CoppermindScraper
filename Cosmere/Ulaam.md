@@ -1,65 +1,96 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Ulaam**|
 |-|-|
-|by  Marie Seeberger |
-|**Abilities**|[[Worldhopper\|Worldhopper]]|
-|**Species**|[[Kandra\|Kandra]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Tress of the Emerald Sea*|
+||
+|**Capacidades**|[[Saltamundos\|Saltamundos]]|
+|**Especie**|[[Kandra\|Kandra]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
-This page or section needs to be updated with new information for *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Ulaam** is a [[Kandra\|kandra]] on [[Scadrial\|Scadrial]] and later [[Lumar\|Lumar]].
+**Ulaam** es un [[Kandra\|kandra]] de [[Scadrial\|Scadrial]] y más tarde aparece en [[Lumar\|Lumar]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
 
-4.1 Hoid
-4.2 Riina
-
-
-5 Notes
+4. [[#Hoid]] 
+4. [[#Riina]] 
 
 
-## Appearance and Personality
- by  ohnoesaxel Being a kandra, Ulaam has the ability to dramatically alter his physical form. While aboard the *Crow's Song*, he maintains inhumanly sharp features, ashen grey skin, jet-black hair, and blood red eyes; this is similar to a [[Dzhamar\|Dzhamarian]] from [[Sel\|Sel]]. He dresses in a sharp suit (previously belonging to [[Hoid\|Hoid]]) of a style [[Tress\|Tress]] is unfamiliar with. She finds the pure-black, pressed, buttonless suit more elegant than the uniforms her island's nobility wore.
-Referred to as Dr. Ulaam, he is highly knowledgeable in medicine as he assumes the role of the ship’s surgeon. Hoid even claims that Ulaam is the best doctor he’s ever met. Ulaam speaks with a refined but excitable voice often adding "hmmm?" to his questions. Similar to how [[VenDell\|VenDell]] goes around making deals with people for their bones once they die, Ulaam attempts to make offers for organs and limbs such as [[Tress\|Tress]]’s eyes, kidney, tongue, brain, hands, and toes. He does not often attempt to mimic humans or other animals, resulting in a completely unique personality, even among others of his kind.
-Ulaam claims to be the least dangerous thing on the ship; after being accused of eating people by [[Ann\|Ann]], he clarifies that he only eats dead ones and compares himself to an earthworm or bacteria.
+5 Notas. [[#Notas]] 
 
->“*I always say, when trouble troubles you, keep a stiff’s upper lip! Or several.*”
-\-Ulaam[11]
 
-Ulaam has a sarcastic, morbid sense of humor (offering literal hands when giving assistance). His jokes are often perceived as quite gruesome and, though extremely friendly, he lacks empathy and insight. Ulaam is heavily [[Cosmere\|cosmere]]-aware and has an extensive knowledge of the [[Aether\|aethers]] both on this planet and others. He explains to Tress the use, mechanics, and history of various [[Aether spores\|spores]] including [[Midnight Essence\|Midnight Essence]]. Ulaam is well liked and respected by his crewmates. He is always willing and enthused to give medical attention, assist with experiments, or engage in friendly bargaining. Whether he is physically unable or simply morally opposed, he tells Tress that it would be improper to interfere and assist with the crew’s mutiny and that he can only offer medical attention if required. He mentions that he must remain neutral when it comes to certain people like the Sorceress. There are supposed rules that he follows but Hoid does not.
+## Apariencia y personalidad
+  Al ser un kandra, Ulaam tiene la capacidad de alterar drásticamente su forma física. Mientras está a bordo del *[[Canto del cuervo\|Canto del cuervo]]*, mantiene rasgos inhumanamente afilados, piel gris ceniza, cabello negro como el carbón y ojos rojo sangre; parecido a un [[Dzhamar\|Dzhamariano]] de [[Sel\|Sel]]. Se viste con un traje elegante (que anteriormente pertenecía a [[Hoid\|Hoid]]) de un estilo que [[Trenza\|Trenza]] consideraba extraño. Encuentra el traje negro puro, planchado y sin botones más elegante que los uniformes que llevaba la nobleza de su isla.
+Conocido como el Dr. Ulaam, tiene un amplio conocimiento en medicina y desempeña el papel de cirujano del barco. Hoid incluso afirma que Ulaam es el mejor médico que ha conocido. Ulaam habla con una voz refinada pero excitada, a menudo añadiendo "¿hummm?" a sus preguntas. De forma similar a cómo VenDell se dedica a hacer tratos con la gente por sus huesos una vez que mueren, Ulaam intenta hacer ofertas por órganos y extremidades como los ojos, riñones, lengua, cerebro, manos y dedos de [[Trenza\|Trenza]]. No suele intentar imitar a humanos u otros animales, lo que resulta en una personalidad completamente única, incluso entre otros de su especie.
+Ulaam afirma ser la criatura menos peligrosa en el barco; después de ser acusado por [[Ann\|Ann]] de comerse a la gente, aclara que solo se alimenta de los muertos y se compara a sí mismo con una lombriz o una bacteria.
 
-## Attributes and Abilities
-Like the kandra seen on Scadrial, Ulaam is functionally immortal and able to manipulate his physical form. He mentions that he has eaten and mimicked several two-headed snakes. He grows and cuts off an ear on his forearm without displaying a hint of any pain. He is nearly impossible to kill and is confident in his abilities to survive being thrown into an ocean of spores. Captain [[Crow\|Crow]] shoots him several times when he first arrives on the *Crow's Song*, which experience he describes as being invigorating.
-[[Ann\|Ann]] calls him a zombie, but Ulaam claims that that is a crude and inaccurate term. She defends the word by stating that he has no heartbeat and his skin is cold. In response, Ulaam notes that both of those adaptations reduce his caloric intake.
-Potential ways to kill kandra include acid and fire. Acting as the ship's surgeon, Ulaam administers salves to injured crew members healing their wounds supernaturally quickly. He requests no payments for his services besides occasional corpses.
+>“*¡Yo siempre digo que cuando las tribulaciones te atribulen, hay que poner una buena cara! O varias.*”
+\-Ulaam[10]
 
-## History
->“*Oh, right. I nearly forgot Ulaam. But seeing as he was dead, he barely counted.*”
-\-Hoid[14]
+Ulaam tiene un sentido del humor sarcástico y morboso (ofreciendo manos literalmente cuando ofrece su ayuda). Sus bromas a menudo se perciben como bastante macabras y, aunque es extremadamente amigable, carece de empatía y perspicacia. Ulaam es muy consciente del [[Cosmere\|Cosmere]] y tiene un amplio conocimiento de los [[%C3%89ter\|éteres]] tanto en este planeta como en otros. Explica a Trenza el uso, mecánica, e historia de varias [[Esporas de %C3%A9ter\|esporas]] incluyendo la [[Esencia de Medianoche\|Esencia de Medianoche]]. Ulaam es muy querido y respetado por sus compañeros de tripulación. Siempre está dispuesto y entusiasmado a dar atención médica, ayudar con experimentos o participar en negociaciones amistosas. Ya sea porque esté físicamente incapacitado o simplemente moralmente en contra, le dice a Trenza que sería incorrecto interferir y ayudar en el motín de la tripulación, y que solo puede ofrecer atención médica si es necesario. Menciona que debe permanecer neutral cuando se trata de ciertas personas como la hechicera. Se supone que hay reglas que sigue pero Hoid no.
 
-Ulaam is a [[Kandra\|kandra]] from the planet [[Scadrial\|Scadrial]]. He, alongside [[TenSoon\|TenSoon]], warned [[Melaan\|Melaan]] about her relationship with [[Wayne\|Wayne]]. Prior to his time on [[Lumar\|Lumar]], his people were "released" by [[Sazed\|Sazed]]. It is noted by [[Hoid\|Hoid]] that the kandra have become stranger and more themselves over the decades since they stopped being required to imitate humans. At some point, [[Hoid\|Hoid]] sent Ulaam a letter requesting he come to [[Lumar\|Lumar]]. After arriving on the planet and finding his friend in his current, cursed state; he joined the *Crow's Song* and had accompanied Hoid for a year before [[Tress\|Tress's]] arrival on the ship. The crew hadn't known what to make of Ulaam, and [[Crow\|Crow]] shot him several times before he was left to his own devices as the resident surgeon on the ship.
-Ulaam met Tress after she experienced a mishap with the spores while refilling the pouches for the cannon. Ulaam would be unsuccessful in trading Tress for her eyes and other body parts, but would make deals with [[Fort\|Fort]] for gull bones. He helped Tress learn the basics of her station as the new [[Sprouter\|Sprouter]], and tries to warn her away from midnight spores to no avail. After finding out Hoid gave the midnight spores to [[Weev\|Weev]], he helps Tress work out that Hoid is suggesting [[Huck\|Huck]] may have information that will help them break his curse.
-On hearing Crow laugh, and being disappointed that this wasn't due to someone's crotch being impaled, Ulaam finds out that Tress "tricked" Crow into going into the [[Crimson Sea\|Crimson Sea]]. He has to explain to her that this is not a good thing as the dragon [[Xisis\|Xisis]] doesn't offer boons, but trades. Ulaam helps test out Tress's new flares to capture Crow, but insists he cannot do much more to help other than offer medical attention as to do more would be improper. After the failed mutiny, Ulaam did as he said he would, and gave medical assistance to Fort and [[Salay\|Salay]].
-Ulaam is the first to realize that Hoid's actions, throwing food and water overboard, were not of his own doing due to his current mental state. He causes Tress further anxiety when he fails to take her concerns of facing the Sorceress seriously at first, however he is able to calm her down and lets on about how powerful Hoid is after she notices how much he mentions him. He stays happily on the ship when Tress goes to face against the Sorceress.
+## Atributos y habilidades
+Como los kandra vistos en Scadrial, Ulaam es técnicamente inmortal y capaz de manipular su forma física. Menciona que ha comido e imitado a varias serpientes de dos cabezas. Hace crecer una oreja en el antebrazo y se la corta sin mostrar una pizca de dolor. Es casi imposible de matar y confía en sus habilidades para sobrevivir siendo arrojado a un océano de esporas. La capitana [[Cuervo\|Cuervo]] le dispara varias veces cuando llega por primera vez al *Canto del cuervo*, experiencia que él describe como vigorizante.
+[[Ann\|Ann]] lo llama zombi, pero Ulaam afirma que ese es un término grosero e inexacto. Ella defiende el término diciendo que no tiene pulsaciones y su piel está fría. En respuesta, Ulaam señala que ambas adaptaciones reducen su ingesta calórica.
+Las posibles formas de matar a un kandra incluyen ácido y fuego. Actuando como cirujano del barco, Ulaam administra ungüentos a los miembros de la tripulación heridos, curando sus heridas de forma sobrenaturalmente rápida. No pide ningún pago por sus servicios a parte de cadáveres ocasionales.
 
-## Relationships
+## Historia
+>“*Ah, no. Casi me olvido de Ulaam. Pero como estaba muerto, tampoco cuenta.*”
+\-Hoid[13]
+
+Ulaam es un [[Kandra\|kandra]] del planeta [[Scadrial\|Scadrial]]. Él, junto con [[TenSoon\|TenSoon]], advirtió a [[Melaan\|Melaan]] sobre su relación con [[Wayne\|Wayne]]. Antes de su tiempo en [[Lumar\|Lumar]], su pueblo fue "liberado" por [[Sazed\|Sazed]]. [[Hoid\|Hoid]] señala que los kandra se han vuelto más extraños y más sí mismos a lo largo de las décadas desde que dejaron de ser obligados a imitar a los humanos. En un momento, [[Hoid\|Hoid]] manda a Ulaam una carta pidiéndole que viniese a [[Lumar\|Lumar]]. Después de llegar al planeta y encontrar a su amigo en su actual estado maldito; se une a la tripulación del *[[Canto del cuervo\|Canto del cuervo]]* y ha acompañado a Hoid por un año antes de la llegada de [[Trenza\|Trenza]] al barco. La tripulación no sabía qué hacer con Ulaam, y [[Cuervo\|Cuervo]] le disparó varias veces antes de dejarlo a su suerte como cirujano residente de la nave.
+Ulaam conoció a Trenza tras sufrir un percance con las esporas mientras rellenaba las bolsas para el cañón. Ulaam no consiguió intercambiar los ojos y otras partes del cuerpo de Trenza, pero hizo tratos con [[Fort%C3%ADn\|Fortín]] por huesos de gaviota. Ayudó a Trenza a aprender los fundamentos de su puesto como nueva [[Germinador\|germinadora]], e intenta advertirla de que se aleje de las esporas de medianoche, sin éxito. Tras descubrir que Trenza dio las esporas de medianoche a [[Gorgo\|Gorgo]], ayuda a Trenza a averiguar que Hoid está sugiriendo que [[Huck\|Huck]] puede tener información que les ayude a romper su maldición.
+Al oír reír a Cuervo, y decepcionado porque no se debía a que alguien se hubiera empalado la entrepierna, Ulaam descubre que Trenza "engañó" a Cuervo para que se adentrara en el [[Mar Carmes%C3%AD\|mar Carmesí]]. Tiene que explicarle que eso no es bueno, ya que el dragón [[Xisis\|Xisis]] no ofrece bendiciones, sino intercambios. Ulaam ayuda a probar las nuevas bengalas de Trenza para capturar a Cuervos, pero insiste en que no puede hacer mucho más por ayudar que ofrecer atención médica, ya que hacer más sería impropio. Tras el fallido motín, Ulaam hizo lo que dijo que haría y prestó asistencia médica a Fortín y [[Salay\|Salay]].
+Ulaam es el primero en darse cuenta de que las acciones de Hoid, arrojando comida y agua por la borda, no fueron obra suya debido a su estado mental actual. Causa más ansiedad a Trenza cuando al principio no se toma en serio su preocupación por enfrentarse a la hechicera, sin embargo, consigue calmarla y le suelta lo poderoso que es Hoid después de que ella se dé cuenta de lo mucho que lo menciona. Se queda felizmente en el barco cuando Trenza va a enfrentarse a la hechicera.
+
+## Relaciones
 ### Hoid
->“*Hoid has too many issues to count. I wouldn’t trouble yourself with his situation. He’s nearly as deft at untying knots as he is at creating them.*”
+>“*Hoid tiene demasiados problemas para enumerarlos. Yo no me preocuparía por su situación. Es casi tan diestro desatando nudos como creándolos.*”
 \-Ulaam
 
-Ulaam has a previous friendship with [[Hoid\|Hoid]]. Ulaam seems to enjoy witnessing the effects of the Sorceress's curse on his friend, going so far as to write embarrassing accounts of his actions and sending them to mutual good friends of theirs. Ulaam takes advantage of Hoid's misfortunes and excites in the opportunity to explore.
-Though lacking empathy for the man and giving numerous insults, Ulaam states on multiple occasions that Hoid is far more powerful than himself and is the only person on the planet capable of defeating the Sorceress.
+Ulaam tiene una amistad anterior con [[Hoid\|Hoid]]. Ulaam parece disfrutar presenciando los efectos de la maldición de la hechicera en su amigo, llegando incluso a escribir relatos vergonzosos de sus acciones y enviarlos a amigos comunes de ambos. Ulaam aprovecha las desgracias de Hoid y se emociona ante la oportunidad de explorar.
+Aunque carece de empatía hacia el hombre y le dedica numerosos insultos, Ulaam afirma en varias ocasiones que Hoid es mucho más poderoso que él y es la única persona en el planeta capaz de derrotar a la hechicera.
 
 ### Riina
-Ulaam also appears to have some history with the [[Sorceress\|Sorceress]], as she asks after him when meeting Tress. Their relationship is not an amiable one; the Sorceress states that she keeps a vat of acid just for him.
+Ulaam también parece tener cierta historia con la [[Hechicera\|hechicera]], ya que ella pregunta por él cuando conoce a Trenza. Su relación no es amable; la hechicera declara que ella guarda un recipiente de ácido solo para él.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
+|-|-|
+|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] ·  · [[Riina\|La hechicera]]|
+|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
+|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
+|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
+
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Ulaam
+https://es.coppermind.net/wiki/Ulaam

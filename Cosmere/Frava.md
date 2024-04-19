@@ -1,31 +1,46 @@
+
+
 |**Frava**|
 |-|-|
-|by  botanicaxu |
-|**Titles**|Senior Arbiter|
-|**Groups**|[[Heritage Faction\|Heritage Faction]]|
-|**Nationality**|[[Grand\|Grand]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Títulos**|Decana de los árbitros|
+|**Grupo**|[[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]🐱︎|
+|**Nacionalidad**|[[Grande\|Grande]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Frava** is the seniormost [[Arbiter\|arbiter]] and leader of the [[Heritage Faction\|Heritage Faction]] of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]]. During the time of [[Ashravan\|Emperor Ashravan's]] reign, she was accounted the second most powerful person in the empire.
+**Frava** es la [[%C3%81rbitro\|árbitro]] de mayor rango y líder de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] del [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]]. Durante el reinado del [[Ashravan\|emperador Ashravan]], se la consideraba la segunda persona más poderosa del imperio.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Trivia
-4 Notes
-
-
-## Appearance and Personality
-Frava has a sharp, nasal voice, long fingers, a long face, and moved with grace. She rarely smiled. She maintains a long standing rivalry with Gaotona, and has attempted to remove him from his position in the past. She is confrontational, manipulative, and tends to take the initiative.
-
-## History
-During the illness of [[Ashravan\|Ashravan]], Frava extorts [[Wan ShaiLu\|Wan ShaiLu]] into providing notes on the creation of the [[Soulstamp\|Soulstamp]] for her own Soulforgers to try and replicate. It is possible that Frava has connections with the underworld of the [[Imperial Seat\|Imperial Seat]], and enough influence to put people of her choosing in positions of influence among their ranks. She offered such a position to Shai, though it is suspected she did not intend to honor the deal.
-Frava curates the [[Imperial Gallery\|Imperial Gallery]], and her offices are adjacent to it. She owns several notable pieces of artwork, one of which Shai replaces and destroys as a favour to [[Han ShuXen\|Han ShuXen]].
-
-## Trivia
-Frava seems to be named after the concept of  from the Zoroastrian faith. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas del traductor. [[#Notas del traductor]] 
+5 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Frava
+## Apariencia y personalidad
+Frava tiene una voz aguda y nasal, dedos largos, una cara larga, y se movía con gracia. Rara vez sonreía. Mantiene una larga rivalidad con Gaotona, y ha intentado destituirle de su cargo en el pasado. Es conflictiva, manipuladora y tiende a tomar la iniciativa.
+
+## Historia
+Durante la enfermedad de [[Ashravan\|Ashravan]], Frava extorsiona a [[Wan ShaiLu\|Wan ShaiLu]] para que le proporcione notas sobre la creación del [[Sello de alma\|sello de alma]] para que sus propios forjadores intenten replicarlo. Es posible que Frava tenga conexiones con los bajos fondos de la [[Sede Imperial\|Sede Imperial]], y suficiente influencia para colocar a personas de su elección en puestos de influencia entre sus filas. Ofreció tal puesto a Shai, aunque se sospecha que no tenía intención de cumplir el trato.
+Frava es comisaria de la [[Galer%C3%ADa Imperial\|Galería Imperial]], y sus oficinas están junto a ella. Posee varias obras de arte notables, una de las cuales Shai sustituye y destruye como favor a [[Han ShuXen\|Han ShuXen]].
+
+## Curiosidades
+Frava parece tomar su nombre del concepto  de la fe zoroástrica. Esto se basa en Brandon dejándose influenciar activamente por las antiguas palabras zoroástricas para los nombres del Imperio Rosa.
+## Notas del traductor
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
+|-|-|
+|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] ·  · [[Zu (Sel)\|Zu]] · [[Han ShuXen\|Han ShuXen]] · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
+|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
+|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
+
+
+
+https://es.coppermind.net/wiki/Frava

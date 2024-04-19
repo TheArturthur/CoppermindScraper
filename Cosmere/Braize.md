@@ -1,52 +1,68 @@
+
+
 |**Braize**|
 |-|-|
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Shards**|[[Odium\|Odium]]|
-|**Investitures**|*Unknown*|
-|**System**|[[Rosharan system\|Rosharan system]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**[[Esquirla\|Esquirlas]]**|[[Odium\|Odium]]|
+|**[[Investidura\|Investiduras]]**|*Desconocido*|
+|**Sistema**|[[Sistema roshariano\|Sistema roshariano]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*The place is barren, devoid of life, merely a dark sky, endless windswept crags, and a broken landscape. And a lot of souls, a lot of not particularly sane souls.*”
-\-Raboniel to Navani about Braize.[2]
-
-
-**Braize** is a planet in the [[Rosharan system\|Rosharan system]]. It is the third planet from the sun, after [[Ashyn\|Ashyn]] and [[Roshar\|Roshar]], and the current home of [[Odium\|Odium]].
-
-## Contents
-
-1 Ecology and Geography
-2 History
-3 Prison
-4 Culture
-5 Trivia
-6 Notes
+>“*[...] ese lugar es baldío, desprovisto de vida. Solo hay un cielo oscuro, inacabables riscos barridos por el viento y un paisaje roto. Y muchas almas. Muchas almas no demasiado cuerdas.*”
+\-Rabeniel a Navani acerca de Braize.[2]
 
 
-## Ecology and Geography
->“*This is another planet, or it looks like one - and not a pleasant one, mind you. The kind without lights. No Stormlight ones, gaseous ones, or even electric ones. Damn place barely has an atmosphere.*”
-\-Hoid discussing Braize[4]
+**Braize** es un [[/wiki/Cosmere#Planetas]] ubicado en el [[Sistema roshariano\|sistema roshariano]]. Es el tercer planeta de su sistema solar, después de [[Ashyn\|Ashyn]] y [[Roshar\|Roshar]], y es el hogar actual de [[Odium\|Odium]].
 
-Braize is a cold, barren and inhospitable world that is farther out from the sun than Roshar. It contains no life on its surface. Instead the planet is full of nothing more than a broken rocky landscape full of crags and chasms with no sources of light available, even the sky is described as being dark at all times. During [[Kaladin\|Kaladin's]] vision of the planet he experiences strong winds as well as flashes of light, potentially lightning strikes, but it is unclear how much of this was accurate and how much was added by Odium to frighten him. The planet does contain an atmosphere, albeit a weak one. Due to the extreme nature of its landscape the only life on the planet is that of self-aware [[Spren\|spren]], as well as the [[Fused\|Fused]]. Despite this however only Odium's spren are welcomed; for those not aligned with him visiting is both difficult and dangerous. One such danger that [[Raboniel\|Raboniel]] spoke of while discouraging [[Navani\|Navani]] of ever visiting was that of a "storm" that apparently surrounds the planet in [[Shadesmar\|Shadesmar]], it is unclear however what she meant by this.
+## Sumario
 
-## History
-Prior to the [[Shattering\|Shattering]], Braize was formed in the [[Rosharan system\|Rosharan system]] by [[Adonalsium\|Adonalsium]]. For the majority of its history the planet was inhospitable and uninhabited.
-It was during the initial clashes between [[Honor\|Honor]] and [[Odium\|Odium]] on its closest neighbour, [[Roshar\|Roshar]], that its first inhabitants would arrive to Braize. As part of an effort to halt Odium, Honor deliberately bound him to the planet in order to stop his conquest of the [[Cosmere\|Cosmere]]. As part of this the [[Oathpact\|Oathpact]] was formed which also bound the [[Herald\|Heralds]] and [[Fused\|Fused]] to the planet. As per the pact so long as the Heralds did not choose to leave the planet the Fused would also be unable to escape, however, once even a single Herald broke and chose to return to Roshar the Fused would follow suit causing a [[Desolation\|Desolation]] on Roshar. After many years of torture the Heralds began losing their sanity and decided to abandon the Oathpact at the [[Last Desolation\|Last Desolation]] leaving only [[Taln\|Taln]] behind. This exile from Roshar lasted 4500 years before the [[True Desolation\|True Desolation]] began allowing the Fused to permanently live on Roshar.
-Braize primarily served as a prison planet for the Fused and holds no inhabitants besides them,  this makes it the third of the three planets in the Rosharan system to hold sentient life. The only type of [[Spren\|spren]] that are welcomed on world are Voidspren. Because of its inhabitants and the presence of Odium the world is considered unsafe by outsiders. Despite the native population being bound on Braize they can still influence Roshar and [[Ashyn\|Ashyn]] due to their proximity and the way [[Connection\|Connection]] and [[Identity\|Identity]] works between the three worlds. 
-
-## Prison
-Braize's most important function is that of a prison. [[Odium\|Odium]] has been trapped there following his battle with [[Honor\|Honor]], and after every [[Desolation\|Desolation]], the [[Fused\|Fused]] are forced to return to Braize. While Odium is kept bound by Shardic power, they are kept sealed by the presence of the [[Herald\|Heralds]]. As long as the Heralds remain on Braize, Odium's forces cannot travel to [[Roshar\|Roshar]]. To counteract this, Fused hunt them down and torture them until at least one gives up, restarting the cycle. Because of this, [[Taln\|Taln]] has spent the past four and a half thousand years there. Dead [[Knights Radiant\|Knights Radiant]], on the other hand, do not go to Braize.
-Even following a Herald breaking, departing from Braize is difficult, and grows more so the more powerful the prisoner is. Some smaller [[Voidspren\|voidspren]], like [[Ulim\|Ulim]], are capable of sneaking out even while the torture remains ongoing; the [[Fused\|Fused]] and [[Thunderclast\|thunderclasts]] can only come out once the Heralds leave; and Odium's most powerful servants take a long time to cross over even after a Desolation is already in full swing.
-Odium himself cannot be released quite so easily - only someone holding the majority of Honor's power can set him free, and only by [[Intention\|Intention]]. To be freed is something Odium seeks above all else, and he is convinced that it will eventually happen.
-
-## Culture
-In the [[Vorin\|Vorin]] religion, Braize is known as [[Damnation\|Damnation]], although it is referred to by its proper name in older songs. Those who have committed particularly grave sins are supposed to go there after death. It's unclear how much it figures into other Rosharan cultures - the Shin know about it, but the [[Iri\|Iriali]] Long Trail does not include it.
-Unlike the rest of [[Rosharan system\|Rosharan system]], Braize is based around the number nine rather than ten. Like all other planets in the cosmere, it has a representation in [[Shadesmar\|Shadesmar]], although its nature is unknown.
-
-## Trivia
-Some people on Roshar believe that Braize is inhabited with people.
-The Iriali never visited Braize.
+1 Ecología y geografía. [[#Ecolog.C3.ADa y geograf.C3.ADa]] 
+2 Historia. [[#Historia]] 
+3 Cárcel. [[#C.C3.A1rcel]] 
+4 Cultura. [[#Cultura]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Braize
+## Ecología y geografía
+>“*Esto es otro planeta, o al menos tiene ese aspecto. Y no es un planeta agradable, ojo. De los que no tienen luces. Ni tormentosas, ni gaseosas, ni siquiera de las eléctricas. Este dichoso sitio apenas tiene atmósfera.*”
+\-Hoid hablando de Braize[4]
+
+Braize es un mundo frío, estéril e inhóspito que está más alejado del sol que Roshar. No hay vida en su superficie. En su lugar, el planeta está lleno de nada más que un paisaje rocoso roto lleno de riscos y abismos sin fuentes de luz disponibles, incluso el cielo se describe como oscuro en todo momento. Durante su visión del planeta, [[Kaladin\|Kaladin]] experimenta fuertes vientos, así como destellos de luz, potencialmente rayos, pero no está claro cuánto de esto era cierto y cuánto fue añadido por Odium para asustarlo. El planeta tiene atmósfera, aunque débil. Debido a la naturaleza extrema de su paisaje, la única vida en el planeta es la de los spren conscientes de sí mismos, así como los Fusionados. A pesar de esto, sólo los vacíospren son bienvenidos; para aquellos que no están alineados con él, la visita es difícil y peligrosa. Uno de esos peligros de los que hablaba [[Rabeniel\|Rabeniel]] mientras desalentaba a [[Navani\|Navani]] de visitarlo era el de una "tormenta" que aparentemente rodea el planeta en [[Shadesmar\|Shadesmar]], no está claro sin embargo a qué se refería con esto.
+
+## Historia
+[[Adonalsium\|Adonalsium]] creó Braize en el [[Sistema roshariano\|sistema roshariano]] antes de la [[Fragmentaci%C3%B3n\|Fragmentación]]. A lo largo de la mayoría de su existencia, el planeta ha sido inhabitable y, por lo tanto, ha permanecido deshabitado.
+Braize recibió a sus primeros habitantes durante las primeras batallas entre [[Honor\|Honor]] y [[Odium\|Odium]] en [[Roshar\|Roshar]]. Como parte del intento de
+[[Honor\|Honor]] para evitar a Odium conquistase el Cosmere, el primero ató al segundo a este planeta. Este intento incluye la formación del [[Juramento\|Juramento]], que también ata al planeta a los [[Heraldo\|Heraldos]] y a los [[Fusionado\|Fusionados]]. Según el Juramento, y mientras que los Heraldos no decidan abandonar Braize, los Fusionados tampoco pueden dejar el planeta. Sin embargo, una vez que un único Heraldo cede y decide volver a Roshar, los Fusionados podrán hacer lo mismo, dando lugar a una [[Desolaci%C3%B3n\|Desolación]] en Roshar. Tras muchos años de tortura, la mayoría de los Heraldos empezaron a perder la cordura y optarón por abandonar el Juramento en la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]], dejando a [[Taln\|Taln]] en Braize durante 4500 años. A continuación, empezó la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], durante la cual los Fusionados pueden permanecer en Roshar sin restricciones.
+Braize sirve sobre todo de cárcel para los Fusionados, y no tiene más habitantes que estos, lo que lo hace el tercer planeta en el [[Sistema roshariano\|sistema roshariano]] en albergar vida inteligente. El único tipo de [[Spren\|spren]] que tiene permiso para entrar al planeta son aquellos que pertenecen a Odium. Debido a sus habitantes y a la presencia de Odium, los forasteros lo consideran peligroso. A pesar de que estén atrapados en Braize, sus habitantes nativos pueden, tanto por proximidad como por la forma en la que funcionan la [[Conexi%C3%B3n\|Conexión]] y la [[Identidad\|Identidad]] entre los tres planetas, influir en Roshar y [[Ashyn\|Ashyn]]. 
+
+## Cárcel
+La función más importante de Braize es ser una cárcel. [[Odium\|Odium]] ha estado atrapado allí desde su batalla con [[Honor\|Honor]] y, tras cada [[Desolaci%C3%B3n\|Desolación]], los [[Fusionado\|Fusionados]] son forzados a volver a Braize. Mientras Odium siga vinculado por poder Esquirlado, los Fusionados son sellados por la presencia de los [[Heraldo\|Heraldos]]. Mientras los Heraldos permanezcan en Braize, las fuerzas de Odium no pueden viajar a [[Roshar\|Roshar]]. Para contrarrestar esto, los Fusionados los cazaban y torturaban hasta que al menos uno de ellos se rendía, reiniciando el ciclo. A causa de esto, [[Taln\|Taln]] ha pasado los últimos cuatro mil quinientos años allí. Por otra parte, los [[Caballeros Radiantes\|Caballeros Radiantes]] muertos no van a Braize.
+
+Incluso después de que un Heraldo se rompiese, salir de Braize es difícil, y es más difícil cuanto más poderoso sea el prisionero. Algunos [[Vac%C3%ADospren\|vacíospren]] más pequeños, como [[Ulim\|Ulim]], son capaces de escaparse incluso cuando sigue el proceso de tortura; los [[Fusionado\|Fusionados]] y los [[Tronador\|tronadores]] solo pueden salir una vez que los Heraldos se marchan; y los sirvientes más poderosos de Odium tardan mucho en cruzar incluso después de que una Desolación esté en su apogeo.
+
+El propio Odium no puede ser liberado tan fácilmente, solo alguien que ostenta la mayoría del poder de Honor le puede liberar, y solo por [[Intenci%C3%B3n\|Intención]]. Ser liberado es algo que Odium busca por encima de cualquier otra cosa y está convencido de que en algún momento sucederá.
+
+## Cultura
+En la religión [[Vorin\|Vorin]], Braize es conocido como [[Condenaci%C3%B3n\|Condenación]], aunque se refieren a él por su nombre propio en las canciones antiguas. Aquellos que han cometido pecados, especialmente graves, se supone que van allí tras morir. No está del todo claro cómo esto se representa en otras culturas rosharianas; los Shin tienen conocimientos de ello, pero en el Largo Sendero de los [[Iri\|Iriali]] no se incluye.
+Al contrario que el resto del [[Sistema roshariano\|sistema roshariano]], Braize está basado alrededor del número nueve en lugar del diez. Como los demás [[/wiki/Cosmere#Planetas]], tiene una representación en [[Shadesmar\|Shadesmar]], sin embargo su naturaleza es desconocida.
+
+
+## Curiosidades
+Algunos habitantes de Roshar creen que hay personas viviendo en Braize.
+Los [[Iri\|iriali]] nunca han estado en Braize.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] ·  · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Braize

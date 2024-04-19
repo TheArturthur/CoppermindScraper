@@ -1,24 +1,46 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Gare**|
 |-|-|
-|**Profession**|Squadleader|
-|**Groups**|Amaram's army|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Líder de pelotón|
+|**Grupo**|Ejército de Amaram|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Well then, maybe I don't like how everyone does what you tell them. I don’t care how good you are with a spear. My squad is my own.*”
-\-Gare to Kaladin[1]
-
-
-**Gare** is a squadleader in Highmarshal [[Meridas Amaram\|Meridas Amaram's]] army on [[Roshar\|Roshar]].
-
-## Appearance & Personality
-Gare is a beefy man, with a thick black beard. He fights with an axe rather than a spear, and is missing a section of his scalp on the right side of his head, presumably lost in combat. Kaladin considered Gare so incompetent that he might as well be fighting for the other army.
-Gare is a stubborn and belligerent man. He does not enjoy taking Kaladin's bribes because he does not like how everyone listens to Kaladin all the time. However, it seems that his greed is stronger than his anger, as he eventually accepts the bribe.
-
-## History
-At some point Gare became a squadleader in Amaram's army. He appointed [[Nalem\|Nalem]] and [[Korabet\|Korabet]] to be his sergeants, and they often accompanied him around.
-In 1172, [[Cenn\|Cenn]] was assigned to Gare's squad when he joined Amaram's army as a new recruit. [[Kaladin\|Kaladin]] found Gare and bribed him with some [[Spheres\|spheres]] to transfer Cenn to his squad.
+>“*Bueno, tal vez no me guste que todo el mundo haga lo que les dices. No me importa lo bueno que seas con la lanza. Mi pelotón es mío.*”
+\-Gare a Kaladin[1]
 
 
+**Gare** es un líder de pelotón en el ejército del alto mariscal [[Meridas Amaram\|Meridas Amaram]] en [[Roshar\|Roshar]].
 
-https://coppermind.net/wiki/Gare
+## Apariencia y personalidad
+Gare es un hombre robusto, con una barba negra y espesa. Pelea con hacha en lugar de con lanza, y le falta una sección de cuero cabelludo en el lado derecho de su cabeza, presumiblemente perdida en combate.
+Kaladin consideraba a Gare tan incompetente que prácticamente estaba luchando por el otro ejército.
+Gare es un hombre terco y beligerante. A él no le agrada aceptar los sobornos de Kaladin porque no le gusta cómo todo el mundo siempre le hace caso. Sin embargo, parece que su avaricia es más fuerte que su enojo, ya que finalmente acepta el soborno.
+
+## Historia
+En algún momento, Gare se convirtió en líder de pelotón en el ejército de Amaram. Nombró a [[Nalem\|Nalem]] y [[Korabet\|Korabet]] como sus sargentos, y a menudo lo acompañaban.
+En 1172, [[Cenn\|Cenn]] fue asignado al pelotón de Gare cuando se unió al ejército de Amaram como nuevo recluta. [[Kaladin\|Kaladin]] encontró a Gare y lo sobornó con algunas [[Esferas\|esferas]] para transferir a Cenn a su escuadrón.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 03:03, 23 December 2016 (MST)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Gare

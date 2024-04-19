@@ -1,72 +1,93 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Eylita Tavinar**|
 |-|-|
-|**Family**|
-|**Spouse**|[[Balat Davar\|Balat Davar]]|
-|**Parents**|Lord and Lady [[Tavinar\|Tavinar]]|
-|**Born**|c. 1151|
-|**Residence**|[[Urithiru\|Urithiru]]|
-|**Nationality**|[[Veden\|Veden]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Words of Radiance*|
+|**Familia**|
+|**Cónyuge**|[[Balat Davar\|Balat Davar]]|
+|**Padres**|Señor y dama [[Tavinar\|Tavinar]]|
+|**Nacido en**|1151|
+|**Residencia**|[[Urithiru\|Urithiru]]|
+|**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
-**Eylita Tavinar** is a [[Lighteyed\|lighteyed]] [[Veden\|Veden]] woman on [[Roshar\|Roshar]]. She is married to [[Balat Davar\|Balat Davar]].
+**Eylita Tavinar** es una mujer [[Veden\|veden]] [[Ojos claros\|ojos claros]] en [[Roshar\|Roshar]]. Está casada con [[Balat Davar\|Balat Davar]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Meeting Balat
-3.2 Confrontation with Lin
-3.3 After Lin's Death
-3.4 In Urithiru
-
-
-4 Relationships
-
-4.1 Balat Davar
+3. [[#Conociendo a Balat]] 
+3. [[#Enfrentamiento con Lin]] 
+3. [[#Tras la muerte de Lin]] 
+3. [[#En Urithiru]] 
 
 
-5 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Balat Davar]] 
 
 
-## Appearance and Personality
+5 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
 >“*She was incredibly nice but not very clever.*”
 \-Shallan's opinion of Eylita[3]
 
 
-She has long, pure black hair. She is a few years older than [[Shallan\|Shallan]].
-She is kind, genuine, and loyal but she lacks intelligence and often has a vacuous look on her face. [[Wikim\|Wikim]] thinks of her as "proper".
+Tiene pelo negro puro y largo. Tiene unos pocos años más que [[Shallan\|Shallan]].
+Es amable, genuina, y leal, pero no es muy inteligente, y a menudo tiene una mirada vacía en su rostro. [[Wikim\|Wikim]] piensa que es "correcta".
 
-## Attributes and Abilities
-Eylita's family is of the eighth [[Dahn\|dahn]] and serve as vassals of the far more powerful [[House Davar\|House Davar]]. She is educated, as she is able to use a [[Spanreed\|spanreed]] and write in [[Women's script\|women's script]]. She is not particularly skilled at writing or drawing.
-She is trustworthy and knows many of the Davar family's secrets.
+## Atributos y habilidades
+La familia de Eylita es del octavo [[Dahn\|dahn]] y sirven como vasallos a la más poderosa [[Casa Davar\|Casa Davar]]. Está formada, ya que puede usar [[Vinculaca%C3%B1as\|vinculacañas]] y escribir en [[Escritura femenina\|escritura femenina]]. No es particularmente hábil escribiendo o dibujando.
+Es digna de confianza y sabe muchos de los secretos de la familia Davar.
 
-## History
-### Meeting Balat
-Eylita first met [[Balat\|Balat]] as a teenager in 1169, when she attended a feast at the Davar estate with her parents. She and Balat almost immediately began furtively glancing and smiling at each other, surprising [[Shallan\|Shallan]], as she had never previously seen Balat pay attention to a girl. The Tavinars abruptly departed when [[Redin\|Redin]] interrupted the feast to speak to [[Lin\|Lin]].
-In 1170, she attended the [[Middlefest Fair\|Middlefest Fair]] with her parents. [[Shallan\|Shallan]] knew that Balat fancied Eylita, and acted as an intermediary between the pair in order to set up a meeting. Balat was surprised by Shallan's actions, but ultimately began a relationship with Eylita. Balat received multiple letters from Eylita over the next few months, including on the day that [[Wikim\|Wikim]] gave Shallan some [[Blackbane\|blackbane]] powder. Balat often had his stepmother [[Malise Gevelmar\|Malise Gevelmar]] read him the letters to keep them private from a teenaged Shallan.
+## Historia
+### Conociendo a Balat
+Eylita conoció a [[Balat\|Balat]] como adolescente en 1169, cuando atendió a una fiesta en la finca Davar con sus padres. Ella y Balat casi inmediatamente comenzaron a mirarse furtivamente y a sonreírse entre ellos, sorprendiendo a [[Shallan\|Shallan]], ya que nunca antes había visto a Balat prestar atención a una chica. Los Tavinar se fueron abruptamente cuando [[Redin\|Redin]] irrumpió en la fiesta para hablar con [[Lin\|Lin]].
+En 1170, ella atendió a la [[Feria de la Fiesta Media\|Feria de la Fiesta Media]] con sus padres. [[Shallan\|Shallan]] sabía que a Balat le gustaba Eylita, y actuó como internediaria entre la pareja para organizar una reunión. A Balat le sorprendieron las acciones de Shallan, pero finalmente comenzó una relación con Eylita. Balat recibió múltiples cartas de Eylita en los siguientes meses, incluyendo el día en el que [[Wikim\|Wikim]] le dio a Shallan algo de polvo de [[Ruinaoscura\|ruinaoscura]]. Balat a menudo le pedía a su madrastra [[Malise Gevelmar\|Malise Gevelmar]] que le leyese las cartas para mantenerlas privadas de Shallan.
 
-### Confrontation with Lin
-By 1172, the Davar household was descending into chaos; Lin had decided that Eylita was below Balat's station and insisted that he break off contact with her and marry the much older [[Sudi Valam\|Sudi Valam]]. Balat argued, but Lin cruelly had his [[Axehound\|axehound]] pups killed as a threat. Balat told Shallan that he loved Eylita and was considering eloping to [[Vedenar\|Vedenar]] with her.
-Shallan and Malise then learned that Lin planned to assassinate [[Helaran\|Helaran]] and realized that he was beyond help. Shallan suggested that Balat leave with Eylita and Malise as soon as possible. Balat and Eylita planned to escape a few months later, but just before they were to depart, Lin beat Malise and forced her to reveal their plans. He summoned Eylita to the Davar estate before killing Malise and trapping the couple there. A duel between Lin and Balat ensued, but Balat did not offer much resistance. When Shallan realized Lin's intentions, she poisoned him with the blackbane during a brief break in the action. Lin wounded Balat with a fire poker and likely would have murdered both him and Eylita had the poison not taken hold, incapacitating him. Eylita helped tend to Balat's wounds.
+### Enfrentamiento con Lin
+Por 1172, la familia Davar estaba descendiendo hacia el caos; Lin había decidido que Eylita estaba por debajo del estatus de Balat e insistió en que cortase el contacto con ella y se casase con la mucho mayor [[Sudi Valam\|Sudi Valam]]. Balat discutió, pero Lin cruelmente hizo que asesinasen a los cachorros de su [[Sabueso-hacha\|sabueso-hacha]] como amenaza. Balat le dijo a Shallan que amaba a Eylita y que estaba considerando fugarse a [[Vedenar\|Vedenar]] con ella.
+Shallan y Malise entonces supieron que Lin planeaba asesinar a [[Helaran\|Helaran]] y se dieron cuenta de que ya no podían ayudarle. Shallan sugirió que Balat se marchase con Eylita y Malise tan pronto como pudiesen. Balat y Eylita planearon escapar unos meses más tarde, pero justo antes de que se fuesen, Lin apalizó a Malise y la forzó a revelar sus planes. Convocó a Eylita a la finca Davar antes de matar a Malise y encerrar a la pareja allí. Comenzó un duelo entre Lin y Balat, pero Balat no ofreció mucha resistencia. Cuando Shallan se dio cuenta de las intenciones de Lin, le envenenó con la ruinaoscura durante un breve descanso de la acción. Lin hirió a Balat con un atizador y seguramente le hubiese matado tanto a él como a Eylita si el veneno no hubiese actuado, incapacitándole. Eylita ayudó a atender las heridas de Balat.
 
-### After Lin's Death
-Free of Lin's interference, Eylita and Balat became betrothed. Eylita acted as a scribe for Balat, Wikim, and [[Jushu\|Jushu]] after Shallan left with the [[Davar Soulcaster\|Davar Soulcaster]]. She received Shallan's messages from [[Kharbranth\|Kharbranth]] via [[Spanreed\|spanreed]], using code phrases as necessary.
+### Tras la muerte de Lin
+Libres de la interferencia de Lin, Eylita y Balat se prometieron. Eylita actuó como escriba para Balat, Wikim, y [[Jushu\|Jushu]] después de que Shallan se marchase con el [[Moldeador de almas Davar\|moldeador de almas Davar]]. Recibió el mensaje de Shallan desde [[Kharbranth\|Kharbranth]] a través de [[Vinculaca%C3%B1as\|vinculacañas]], usando frases en código por necesidad.
 
-### In Urithiru
-She accompanied Balat and his brothers to [[Urithiru\|Urithiru]] and was present at [[Shallan\|Shallan's]] wedding to [[Adolin Kholin\|Adolin Kholin]]. In 1175, Shallan observed Eylita joking with Balat, Jushu, and a disguised [[Mraize\|Mraize]] at the Davar quarters.
+### En Urithiru
+Acompañó a Balat y sus hermanos a [[Urithiru\|Urithiru]] y estuvo presente en la boda de [[Shallan\|Shallan]] con [[Adolin Kholin\|Adolin Kholin]]. En 1175, Shallan observó a Eylita bromear con Balat, Jushu, y un disfrazado [[Mraize\|Mraize]] en los alojamientos Davar.
 
-## Relationships
+## Relaciones
 ### Balat Davar
 >“*I'm not going to give up on Eylita, Shallan. She’s the only beautiful thing that has happened in my life.*”
 \-Balat[6]
 
 
-Eylita and [[Balat\|Balat]] seem smitten with each other from the time of their first meeting. Balat is willing to risk his relationship with his father and his social standing to marry her, and Eylita also seems to be willing to do whatever it takes to be with Balat. She does not abandon him despite witnessing multiple disturbing events at his home. Balat notes that one thing he has to hide from Eylita is his need to harm animals.
+Eylita y [[Balat\|Balat]] parecían enamorados desde su primera reunión. Balat estaba dipuesto a arriesgar la relación con su padre y su estatus social para casarse con ella, y Eylita también parecía estar dispuesta a hacer lo que fuese para estar con Balat. No le abandona a pesar de ser testigo de varios sucesos perturbadores en su casa. Balat anota que una cosa que tiene que esconder de Eylita es su necesidad de hacer daño a animales.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 21:56, 15 September 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Eylita
+https://es.coppermind.net/wiki/Eylita_Tavinar

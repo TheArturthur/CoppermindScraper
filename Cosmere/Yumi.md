@@ -1,84 +1,100 @@
+
+
 |**Yumi**|
 |-|-|
-|by  Aliya Chen |
-|**Abilities**|[[Yoki-hijo\|Yoki-hijo]], [[Cognitive Shadow\|Cognitive Shadow]]|
-|**Titles**|Chosen, Honored One, Girl of commanding primal spirits|
-|**Profession**|Yoki-hijo|
-|**Nationality**|[[Torish\|Torish]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Yumi and the Nightmare Painter*|
+||
+|**Capacidades**|[[Yoki-haijo\|Yoki-haijo]]🐱︎, [[Sombra cognitiva\|Sombra cognitiva]]|
+|**Títulos**|Elegida, Chica que daba órdenes a los espíritus primordiales|
+|**Oficio**|Yoki-haijo|
+|**Nacionalidad**|[[De Torio\|de Torio]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
-This page or section needs to be updated with new information for *Yumi and the Nightmare Painter*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Yumi** is a [[Yoki-hijo\|yoki-hijo]] from [[Torio\|Torio]] who escaped from her prison and freed the [[Hijo\|hijo]] from the [[Father machine\|father machine]].
+**Yumi** es una [[Yoki-haijo\|yoki-haijo]] de [[Torio\|Torio]] que escapó de su prisión y liberó a los [[Haijo\|haijo]] de la [[M%C3%A1quina padre\|máquina padre]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
 
-4.1 Akane
-4.2 Liyun
-4.3 Painter
-4.4 Chaeyung
-4.5 Hwanji
-
-
-5 Trivia
-6 Notes
+4. [[#Akane]] 
+4. [[#Liyun]] 
+4. [[#Pintor]] 
+4. [[#Chaeyung]] 
+4. [[#Hwanji]] 
 
 
-## Appearance and Personality
-For more images, see [[Yumi/Gallery\|/Gallery]].
- by  FelCandy  Yumi holding a stone
-She has the appearance of a twenty-one year old woman with light skin and dark hair which comes down to her waist.
-She is not exactly happy about her life and wishes for something more, but forces herself to accept it, and all the rules accompanied with it, without question. This faith ultimately left her utterly distraught upon learning that it was merely traditionalism, instead of the explicit will of the hijo. Though she eventually did come to question why she is so devoted, and if she could possibly do something more with her life, though she hates herself for the thought. This conflict between her wish for more, and her devotion to tradition, defines her relationship with the role of the yoki-hijo, and her life as a whole.
-She is rather prudish with the display of her skin and form, preferring to dress in clothing that hid her form and covered any skin. Her strictness with this began to relax as she allowed herself to express herself more.
-When she is stressed or anxious, she has a tendency to try to stack nearby objects as a way to assuage her anxiety. She also has a tendency to stack objects in general, even for just entertainment.
-She has a deep hatred for lies, and sees them as bad in all circumstances, deeply judging those who partake in such untruths. This comes from her being taught over her whole life about the evils of lying.
-She is potentially bisexual, consistently describing how attractive [[Akane\|Akane]] is, and even gasped in awe when first meeting her, likening her to a goddess. She also shows a focus on her figure and on that of [[Design\|Design]]. However, this is not explicitly confirmed.
-She speaks with an accent that is strange to the ears of the Nagadan people, due to being raised in the Torio tongue.
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
-## Attributes and Abilities
-As a yoki-hijo, she has the ability to summon forth hijo through a process of ritualistic stone stacking, and upon summoning them she can have them take on the shape of various tools to help the denizens of Torio. She is very heavily Invested, more than a [[Returned\|Returned]] and comparable to an [[Elantrian\|Elantrian]].
-Her experience in the stacking ritual is immense, with the practice from every day over nearly two-thousand years crossing over, despite her loss of memory.
-As a Cognitive Shadow with a great deal of Investiture, she cannot die of old age, although her perception of herself causes her to age. Strangely, despite her Investiture, she is capable of traveling off-world.
 
-## History
-She was born under a falling star, which was seen as an omen of her powers as a yoki-hijo and thus she was taken from her parents and raised as one her whole life, and eventually became renowned for her abilities. This, however, was until the [[Father machine\|father machine]] was activated in an attempt to replace the position, as it was perceived as more efficient. The activation was a disaster however, and nearly everyone on the planet had their souls consumed by the machine, with her being one of the only survivors.
-The machine, threatened by her, decided to hide her away in a simulation of her former life, hidden away in the [[Shroud\|shroud]], in order to keep her complacent. At the end of every day, she would have her memory of the day erased, so that she would live through it again. This happened for one-thousand seven-hundred and sixty-three years, until one day her ritual reached its apex, summoning thirty-seven hijo at once, and managed to pull one spirit from the grasp of the machine. Shortly after giving them out, she passed out in exhaustion.
+## Apariencia y personalidad
+Para más imágenes, ver [[Yumi/Galer%C3%ADa\|/Galería]].
+  Yumi sosteniendo una piedra
+Tiene la apariencia de una mujer de veintiún años de piel clara y pelo oscuro que le llega hasta la cintura.
+No es precisamente feliz con la vida que lleva y desea algo más (aunque se fuerza a aceptarla, así como a las normas que la rigen, sin rechistar). Esta fe fue la que acabó por angustiarla al enterarse de que todo aquello era mera tradición más que voluntad explícita de los haijo. Llegó a cuestionarse el motivo de su devoción, así como si podría hacer algo más con su vida, aunque se odia por haber tenido esos pensamientos. Este conflicto entre su deseo de algo más y su fervor por las tradiciones define su relación con su papel como yoki-haijo, así como su vida en general.
+Yumi es bastante pudorosa respecto a mostrar su silueta o piel, y prefiere vestirse con ropa que las oculte. Dejó de ser tan estricta en este aspecto a medida que se iba permitiendo a sí misma expresarse más.
+Cuando está estresada o ansiosa, tiende a apilar objetos cercanos para calmarse. También suele apilar objetos en general, incluso a modo de entretenimiento.
+Odia profundamente las mentiras, las cuales, en su opinión, son malas bajo cualquier circunstancia, y juzga con dureza a quienes las emplean. Esto se debe a las enseñanzas que ha recibido toda su vida acerca de la vileza de las mentiras.
+Es posible que Yumi sea bisexual, ya que a menudo describe lo atractiva que es [[Akane\|Akane]] e incluso suspiró maravillada la primera vez que la vio, comparándola con una diosa. También presta mucha atención tanto a su figura como a la de [[Dise%C3%B1o\|Diseño]]. No obstante, este dato no ha sido explícitamente confirmado.
+Habla con un acento extraño para las gentes de Nagadan debido a haber sido criada en Torio.
 
- by  Aliya Chen  Yumi passed out after a day of summoning
-After she awoke, the spirit begged her to save them, but did little else until it followed Liyun, as a nightmare, into [[Kilahito\|Kilahito]], where it found [[Nikaro\|Painter]] and [[Connection\|Connected]] them, in an attempt to protect her from having her memories erased. This worked, but had the unintended consequence of making them switch bodies, with Painter waking up in her body, and her waking up without a physical form. This was not an intentional side-effect, but simply a consequence of messing with Connection.
-Painter took on her form, though she could only see his true form. She quickly became stressed and humiliated as Painter showed a blatant disregard for any ritual. She came to assume that the spirits were in some way trying to punish her. This humiliation and desperation quickly turned into ire, and she exploded into a violent harangue. In response to her diatribe, Painter explained that he was a person, and she quickly theorized that the spirits sent him to her to help her save them.
-Upon her soul going into Painter's body, her high levels of Investiture caused the body to quickly morph to match her Cognitive Aspect, causing it to match her own body. She was not aware of this at first, believing it was an instance similar to Painter in her body, wherein they simply saw themselves as themselves, while everyone who saw them saw the other. This was proven wrong when she answered the door to Foreman [[Sukishi\|Sukishi]], and he reacted with shock seeing a woman in Painter's room. Under Painter's direction, she informed him that he was sick, and of the stable [[Nightmare\|nightmare]] he found before his first switch.
-Shortly after the foreman left, Akane left her room and she was taken in by her beauty. Shortly after seeing her, Akane saw her and asked if she was a friend of Painter. She lied, via the urging of Painter, that she was his sister, which Akane instantly bought. Their conversation began cordially until she misunderstood her relationship to Painter, assuming her one of his concubines, a misunderstanding she quickly corrected. This correction led her to question what Painter has been telling her, causing her to confront him on if he was telling lies. His confirmation of her suspicions caused her to have a panic attack.
-After calming herself down by stacking books, eating, and discovering the wonders of television, she became very tired and fell asleep, waking back up in her prison. She and Painter followed the normal morning routine, until Liyun entered to confront him about the previous day. Painter attempted to give an explanation, but Yumi stopped him and made him repeat her exact words, speaking to Liyun through him. She believed his words, and they went on their way to the kimomakkin.
+## Atributos y habilidades
+Como yoki-haijo, tiene la capacidad de convocar haijo mediante un proceso de apilamiento ritual de piedras. Tras invocarlos, puede hacer que adquieran la forma de diversas herramientas para ayudar a los habitantes de Torio. Está altamente Investida, más que un [[Retornado\|Retornado]] y similar a un [[Elantrino\|elantrino]].
+Su experiencia en el ritual de apilamiento es inmensa debido a su práctica diaria durante casi dos mil años (y a pesar de su pérdida de memoria).
+Como sombra cognitiva con una gran cantidad de Investidura, no puede morir de vieja. Sin embargo, su percepción de sí misma causa que envejezca. Curiosamente, a pesar de su Investidura, es capaz de viajar más allá de su planeta.
 
-## Relationships
- by  Botanicaxu  Yumi and Nikaro with clothing swapped
+## Historia
+Yumi nació bajo una estrella fugaz, que se interpretó como un presagio de sus poderes como yoki-haijo e hizo que fuera separada de sus padres y criada como yoki-haijo durante toda su vida; con el tiempo, acabó teniendo un gran renombre debido a sus habilidades. Esto, no obstante, cambió cuando la [[M%C3%A1quina padre\|máquina padre]] fue activada en un intento de reemplazarla, ya que se la percibía como más eficiente. Sin embargo, su activación fue un desastre y la máquina consumió las almas de casi toda la población del planeta, siendo Yumi una de las pocas supervivientes.
+La máquina, sintiéndose amenazada por ella, decidió esconderla en una simulación de su antigua vida, oculta en la [[Mortaja\|mortaja]], para mantenerla complaciente. Al final de cada día, la memoria de Yumi sería borrada para que pudiera revivirlo de nuevo. Esto ocurrió durante mil setecientos sesenta y tres años, hasta que, un día, el ritual alcanzó su cúspide: llegó a convocar a treinta y siete haijo a la vez y logró arrancar a un espíritu del alcance de la máquina. Poco después de repartirlos, la joven se desmayó del agotamiento.
+
+  Yumi desmayada tras todo un día invocando espíritus
+Tras despertar, el espíritu le suplicó que los salvara, pero no hizo mucho más hasta que siguió a Liyun, transformada en pesadilla, hasta [[Kilahito\|Kilahito]]. Allí, encontró a [[Nikaro\|Pintor]] y los [[Conexi%C3%B3n\|Conectó]] en un intento de protegerla del borrado de memoria. Aunque funcionó, tuvo la inesperada consecuencia de hacer que intercambiaran sus cuerpos, de manera que Pintor despertó en el de Yumi, que no tenía forma física. Este efecto secundario no fue intencional, sino fruto de haber trasteado con la Conexión.
+Pintor adquirió la forma de Yumi, aunque ella podía ver su verdadera forma. Enseguida, se sintió estresada y humillada debido al flagrante desprecio que Pintor mostraba ante cualquier ritual. Llegó a asumir que los espíritus estaban intentando castigarla. Estos sentimientos de vergüenza y desesperación se convirtieron en ira, y Yumi explotó en una violenta perorata. Como respuesta a su diatriba, Pintor le explicó que él era una persona, así que la joven especuló hasta dar con la posibilidad de que los espíritus lo hubieran enviado para ayudarla a salvarlos.
+Cuando su alma se introdujo en el cuerpo de Pintor, sus altos niveles de Investidura provocaron que su complexión se metamorfoseara para concordar con su aspecto cognitivo, haciendo que tuviera la apariencia de su cuerpo. Al principio no fue consciente de esto y creía que su situación era similar a la de Pintor en su cuerpo (en la cual ellos mismos se veían tal cual eran pero el resto los veía como al otro). Esta idea fue refutada cuando, al abrirle la puerta al capataz [[Sukishi\|Sukishi]], éste reaccionó sorprendiéndose al ver a una mujer en la habitación de Pintor. Guiada por Nikaro, ella le informó de que éste estaba enfermo, así como de la [[Pesadilla\|pesadilla]] estable que encontró antes de su primer intercambio.
+Poco después de que se fuera el capataz, Akane salió de su habitación y Yumi se sintió fascinada por su belleza. Al verla, Akane le preguntó si era amiga de Pintor. Yumi, instada por él, mintió diciendo que era su hermana, lo cual Akane creyó al instante. Su conversación empezó con buen pie hasta que ella malinterpretó su relación con Pintor, creyendo que se trataba de una de sus concubinas (error que Akane corrigió rápidamente). Esta la llevó a cuestionarse lo que Pintor le había estado contando, de manera que acabó confrontándole respecto a si le estaba mintiendo. Que él confirmara sus sospechas le causó un ataque de pánico.
+Tras calmarse apilando libros, comiendo y descubriendo las maravillas de la televisión, Yumi se cansó mucho y se quedó dormida para despertar de nuevo en su prisión. Ella y Pintor acataron la rutina matinal normal hasta que Liyun llegó para encararla acerca del día anterior. Pintor trató de explicarse, pero Yumi lo detuvo y le obligó a repetir sus palabras textuales, hablando a Liyun a través de él. Ella le creyó. Entonces, fueron de camino al kimomakkin.
+
+## Relaciones
+  Yumi y Nikaro con la ropa intercambiada
 ### Akane
-Despite getting off on a bad start in assuming that she was one of Painter's concubines, she and [[Akane\|Akane]] quickly became good friends, and she helped her to learn how to be more free to be herself and express herself as she feels. At the start of their relationship she was under the misapprehension (due to a mistruth) that she was Painter's sister from another city.
-She appears to be attracted to her, consistently describing her as beautiful and gorgeous, even gasping in awe upon seeing her and likening her to a goddess, along with being drawn to her physical features. This, however, is not confirmed and can only be inferred.
+A pesar de empezar con mal pie al asumir que se trataba de una de las concubinas de Pintor, ella y [[Akane\|Akane]] rápidamente se hicieron buenas amigas y ella ayudó a Yumi a sentirse más libre de ser y expresarse como es. Al inicio de su relación, Akane estuvo bajo la impresión (debido a una mentira) de que la joven era hermana de Pintor y venía de otra ciudad.
+Yumi parece sentirse atraída hacia ella, dado que constantemente la describe como hermosa y preciosa. Incluso suspira maravillada al verla y la compara con una diosa, sintiéndose fascinada por sus rasgos físicos. No obstante, este dato no ha sido confirmado y sólo puede ser inferido.
 
 ### Liyun
-She has a complex relationship with [[Liyun\|Liyun]], a sense of respect and admiration for how she helped her across her life and was essentially the woman who raised her, mixed with a feeling of betrayal and frustration at the information she kept from her. Even after learning that she was kept in the dark her whole life, she still held a respect for her and was deeply hurt by the disappointed and aggressive tone she took with her when confronted on the issue.
+Tiene una relación complicada con [[Liyun\|Liyun]]: por un lado, respeto y admiración por cómo la ayudó a lo largo de toda su vida y fue, en esencia, la mujer que la crió; por otro, sentimientos encontrados de traición y frustración ante la información que le ocultó. Incluso tras averiguar que la mantuvo en la ignorancia durante toda su existencia, Yumi siguió sintiendo respeto por ella, y su tono decepcionado y agresivo al encararla respecto al tema la hirió profundamente.
 
-### Painter
-She began on very bad terms with [[Nikaro\|Painter]], seeing him as a liar that is doing everything in his power to humiliate her. Her disappointment and frustration were only furthered by how much she had to rely upon him to save the hijo, her expectations that he would be a great hero like that of legends, and by the negative effects he was having on her public image and her relationship with her kihomaban and her attendants.
-Over time, they began to see each other more clearly and grow close, eventually falling in love.
+### Pintor
+Empezó en muy malos términos con [[Nikaro\|Pintor]], ya que lo veía como a un mentiroso que hacía lo posible por humillarla. Su decepción y frustración no hicieron más que crecer debido a lo mucho que tenía que depender de él para salvar a los haijo, sus expectativas sobre cómo él sería un gran héroe igual a los de las leyendas y los efectos negativos que él causaba en su imagen pública, así como su relación con su kihomaban y sus asistentes.
+Con el tiempo, empezaron a verse con más claridad y se estrechó su relación hasta que acabaron enamorándose.
 
 ### Chaeyung
-[[Chaeyung\|Chaeyung]] was one of Yumi's attendants under [[Liyun\|Liyun]]. She helps out Yumi by feeding, bathing and dressing her, as well as anything else Yumi might need. Chaeyung also seemed to have a talent for combing the tangles out of Yumi's hair without hurting her. Yumi seemed to care about her attendants, but also could never really talk to them because of her station. Later she started to interact with them a little more, and realized that Chaeyung, along with [[Hwanji\|Hwanji]], seemed excited to talk with her.
+[[Chaeyung\|Chaeyung]] era una de las asistentes de Yumi bajo [[Liyun\|Liyun]]. La ayudaba a comer, bañarse y vestirse, así como a cualquier otra cosa que pudiera necesitar. Chaeyung también parecía tener un talento especial para desenredar los nudos del cabello de Yumi sin hacerle daño. A Yumi parecían importarle sus asistentes, pero nunca pudo hablar con ellas como tal debido a su posición. Cuando empezó a interactuar con ellas, más tarde, se percató de que tanto Chaeyung como [[Hwanji\|Hwanji]] parecían alegrarse mucho de poder charlar con ella.
 
 ### Hwanji
-[[Hwanji\|Hwanji]] was yumi's second attendant also under Liyun, and also helps out Yumi by feeding, bathing and dressing her. Hwanji is from a village in [[Torio\|Torio]] and used to be an attendant under the yoki-hijo [[Dwookim\|Dwookim]] until Dwookim retired. Hwanji likes to hum while helping Yumi and worries that she would be blamed by Liyun when Nikaro (as Yumi) started acting more rebellious, though Yumi assured her she would tell Liyun it wasn't her fault. Hwanji informed Yumi about the reform movement.
+[[Hwanji\|Hwanji]] era la segunda asistente de Yumi, también bajo Liyun, y también la ayudaba a comer, vestirse y bañarse. Hwanji era de un pueblo de [[Torio\|Torio]] y solía ser asistente de la yoki-haijo [[Dwookim\|Dwookim]] hasta que ésta se jubiló. A Hwanji le gustaba tararear mientras atendía a Yumi y le preocupó que Liyun la responsabilizara cuando Nikaro (como Yumi) empezó a actuar de manera más rebelde, aunque la propia Yumi le aseguró que le contaría a su guardiana que no era culpa suya. Hwanji fue quien le contó a Yumi la verdad sobre el movimiento reformista.
 
-## Trivia
-Her name is derived from Yuna, one of the main protagonists of *Final Fantasy X*, one of Brandon Sanderson's favorite games, and an inspiration behind the story. Additionally,  is the author of *Hikaru no Go*, a manga that helped spark the idea for the novel.
+## Curiosidades
+Su nombre está derivado del de Yuna, una de las protagonistas principales de **, uno de los juegos preferidos de Brandon Sanderson (así como una de las inspiraciones de la historia). Además,  es la autora de **, un manga que ayudó a despertar la chispa de la idea para la novela.
+## Notas
 
 
-https://coppermind.net/wiki/Yumi
+
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**| · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+
+
+
+
+
+https://es.coppermind.net/wiki/Yumi

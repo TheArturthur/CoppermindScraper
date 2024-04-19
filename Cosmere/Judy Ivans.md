@@ -1,105 +1,124 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Judy Ivans**|
 |-|-|
-|by  ShiroXIX |
-|**Titles**|Admiral of the Fleet of the [[DDF\|DDF]] , Callsign: Ironsides|
-|**Profession**|DDF pilots|
-|**Groups**|[[DDF\|DDF]]|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Títulos**|Almirante de la Flota de la [[FDD\|FDD]] , Identificador: Férrea|
+|**Oficio**|Piloto de la FDD|
+|**Grupo**|[[FDD\|FDD]]|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
->“*I'm not sure I'd wish this command on [the pilots I used to fly with]. Not even the ones I hated.*”
-\-Admiral Judy "Ironsides" Ivans on her position as the head of the DDF[2]
-
-
-**Judy Ivans** (Callsign: **Ironsides**) is the Admiral of the Fleet of the [[Defiant Defense Force\|Defiant Defense Force]] until after the [[Battle of Alta Second\|Battle of Alta Second]]. Over time, the number of [[Acclivity ring\|acclivity rings]] and pilots available to the DDF has dwindled, leaving her increasingly desperate to fend off the [[KRELL\|KRELL]]. As a result, she approves a desperate mission to retrieve half of a [[C-137-KJM orbital shipyard\|C-137-KJM orbital shipyard]] with hundreds of acclivity rings. That plan nearly resulted in the KRELL destroying [[Alta Base\|Alta Base]] and [[Igneous Cavern\|Igneous Cavern]]; that near-defeat may have been a factor in her "reluctant" retirement. Prior to becoming an admiral, she fought in the [[Battle of Alta\|Battle of Alta]], making her a [[First Citizen\|First Citizen]]; [[Zeen Nightshade\|Chaser's]] actions during the battle leave her terrified of another person with the "defect" (the brain condition that grants access to [[Cytonics\|cytonic]] abilities) becoming a pilot and she does everything in her power to prevent that from happening.
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-
-2.1 Pilot
-2.2 Knowledge of the Defect
+>“*No sé si les desearía este mando [a los pilotos con los que solía volar]. Ni siquiera a los que odiaba.*”
+\-Almirante Judy "Férrea" Ivans sobre su posición al frente de la FDD[2]
 
 
-3 History
+**Judy Ivans** (Identificador: **Férrea**) es la almirante de la flota de la [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] hasta después de la [[Segunda Batalla de Alta\|Segunda Batalla de Alta]]. Con el tiempo, el número de [[Anillo de pendiente\|anillos de pendiente]] y pilotos disponibles para la FDD ha disminuido, dejándola cada vez más necesitada para defenderse de los [[KRELL\|KRELL]]. Como resultado, aprueba una misión desesperada para recuperar la mitad de un [[Astillero orbital C-137-KJM\|astillero orbital C-137-KJM]] con cientos de anillos de pendiente. Ese plan estuvo a punto de provocar que los KRELL destruyeran la Base Alta y la Caverna Ígnea; esa casi derrota puede haber sido un factor en su "reticente" retirada. Antes de convertirse en almirante, luchó en la [[Batalla de Alta\|Batalla de Alta]], lo que la convirtió en una [[Primer Ciudadano\|Primera Ciudadana]]; las acciones de [[Zeen Nightshade\|Perseguidor]] durante la batalla la dejan aterrorizada ante la posibilidad de que otra persona con el "defecto" (la condición cerebral que otorga acceso a las habilidades [[Cit%C3%B3nica (habilidad)\|citónicas]]) se convierta en piloto y hace todo lo que está en su mano para evitar que eso ocurra.
 
-3.1 Early Days of the DDF and the Battle of Alta
-3.2 Command of the DDF
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 
-4 Relationships
-
-4.1 Spensa
-4.2 Chaser
-4.3 Cobb
-4.4 Rikolfr and DDF Staff
-4.5 National Assembly
+2. [[#Piloto]] 
+2. [[#Conocimiento del defecto]] 
 
 
-5 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#Los primeros d.C3.ADas de la FDD y la batalla de Alta]] 
+3. [[#Mando de la FDD]] 
 
 
-## Appearance and Personality
- by  Jill Andersen 
->“*[Until] the very last Defiant heaves their very last breath, we hold this base.*”
-\-Admiral Ivans to Cobb on the losses she is willing to take to defend Alta Base[2]
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Spensa]] 
+4. [[#Perseguidor]] 
+4. [[#Cobb]] 
+4. [[#Rikolfr y personal de la FDD]] 
+4. [[#Asamblea Nacional]] 
 
 
-Admiral Ivans is "a tall older woman" with silver hair that comes down about to her chin. As commander of the DDF, she wears a white admiral's uniform.
-Once it becomes necessary, Ivans isn't one to back down from a fight, but she is often cautious about committing her pilots to battle for fear of sending them into a trap. She is self-aware and able to recognize her own shortcomings, such as her trouble committing to an engagement and decreased reaction time. According to Cobb, she is surprised whenever someone defies her, though she says most of the people who once did are now dead and is actually pleased that Cobb is still around to defy her. She regrets all of the pilots who have been killed while following her battle orders, but knows that there is only so much she can do and that letting her guilt weigh her down is not productive. Nevertheless, she makes sure to read the casualty reports from, and watch the holos of, every battle, listen to any audio from a pilot's last moments, and hand-write a letter to the family of any pilots who were killed. She is known for being "stern, but fair."
-
-## Attributes and Abilities
-### Pilot
-Ivans was a skilled pilot, who was capable of tailing a pilot as skilled as Chaser, and flightleader of Hope Flight. At some point after the Battle of Alta, however, she realized she was getting too old to fly in battle and entered the DDF's admiralty.
-
-### Knowledge of the Defect
-Many of the most important families on [[Detritus\|Detritus]] trace their lineage back to those who mutinied on the [[Defiant (starship)\|Defiant]], and so do everything they can to keep knowledge of the mutiny and defect contained. Ivans, however, is at least aware of the mutiny and believes it was caused by the defect, though she herself admits that the whole story isn't "clear" to her. Initially, she believed that the defect should not keep people from becoming pilots and "stuck her neck out" by arguing that Chaser should be allowed in the DDF. Ever since he attacked her flight in the Battle of Alta, however, she has been absolutely terrified of another pilot with the defect joining the DDF. This often puts her in conflict with many prominent [[National Assembly Leader\|National Assembly Leaders]] and the head of Alta Base's medical staff, [[Thior\|Dr. Thior]], all of whom deny the existence of the defect. In order to protect the DDF, she does everything she can to make life so miserable for Spensa that she drops out and has her medical staff set up sensors in Spensa's helmet to record brain activity and watch for signs of the defect. After she discharges Spensa from the DDF for ejecting during a battle, Ivans feels that Spensa's tenure in the DDF has worked out in the best way possible, as Ivans has succeeded at keeping her from flying and now has data to monitor all new cadets for signs of the defect.
-
-## History
-### Early Days of the DDF and the Battle of Alta
-Prior to the Battle of Alta, Ivans was the flightleader of Hope Flight, which included Cobb and Chaser, and argued that Chaser should be allowed in the DDF despite having the defect. As the KRELL descended prior to the Battle of Alta, she was outspoken in urging the DDF to fight, despite the high number of incoming KRELL. In the battle, she gave Chaser permission to fly up to space after he promised that he could control the defect. When he returned and began attacking DDF pilots, she gave the order to shoot him down and tailed him with Cobb, though her name was redacted in the official report. After the battle, to protect his family, she ensured that the official report said Chaser turned coward and tried to fly away rather than that he was a traitor.
-
-### Command of the DDF
->“*She saw, in [the pilots'] deaths, her own faults. She hadn't been willing to truly commit.*”
-\-Ivans' reflections on why she is losing the war[6]
+5 Notas. [[#Notas]] 
 
 
-Some time after the Battle of Alta, she realized that she was getting too old to fly and became Admiral of the DDF, though she seems to believe she only has her command because anyone else who could have taken it is now dead. As a result of her dual status as both a First Citizen and commander of the DDF, there are "hundreds of paintings and statues" of her and Spensa considers her "basically the most important person in the world."
-As a military commander, Ivans is cautious and reluctant to commit the entirety of her forces, especially as the number of pilots and acclivity rings the DDF has is steadily diminishing. In order to have enough pilots to fend off the KRELL incursions, she has lowered the age of testing to become a cadet and begun to send up less experienced cadets.
-After seeing Chaser turn on her flight members, she is terrified of someone else with the defect joining the DDF and, as a result, does everything in her power to prevent Spensa from becoming a pilot. When Spensa attempts to take the pilot's test, Ivans specifically orders that she is not to be admitted, personally supervises the administration of the test, and gives Spensa a test to be a sanitation worker, not a pilot. Later, Cobb forces her to allow Spensa to be enrolled in his class, but she forbids Spensa from using any of the Flight School facilities in an effort to make Spensa's life so difficult that she drops out.
-As her number of pilots and acclivity rings dwindles, she eventually decides to make a bold strike for a shipyard in a decaying orbit. When a lifeburster enters the battle, she orders her pilots to keep it away from the shipyard, even if that sends it towards [[Alta Base\|Alta Base]]. When it does, in fact, make for Alta, she decides to order a flight of just scouts, including [[Cloak\|Cloak]] and [[FM\|FM]], to engage it. The scouts successfully shoot it down, but, when the bomb lands, it takes out some of the DDF's AA guns. At that juncture, a second KRELL fleet, with another lifeburster, enters and slips through the hole in the defenses, leading her to realize that she has been outmaneuvered and possibly "doomed all of humankind." As the lifeburster nears the "death zone," past which its detonation will take out Alta Base, she accepts her death and, hoping to save [[Igneous Cavern\|Igneous]], authorizes Spensa and the other pilots to shoot it down regardless.
-After the KRELL are defeated and Spensa manages to save Alta, she decides to pardon Chaser and tries to convince Spensa not fly to space, but to no avail. When Spensa returns, she sees little value in the information that M-Bot hacked from the KRELL, as it does not change the fact the DDF is still facing down a superior force. Sometime after the battle, she reluctantly retires as Admiral of the Fleet of the DDF and Cobb, equally as reluctant, steps up to fill the position.
+## Apariencia y personalidad
+ 
+>“*Es cuando el **ultimísimo Desafiante** haya dado su **ultimísimo aliento**. Hasta entonces, defenderemos esta base.*”
+\-Almirante Ivans a Cobb sobre las pérdidas que está dispuesta a asumir para defender la Base Alta[2]
 
-## Relationships
+
+La almirante Ivans es una mujer alta y mayor, con el pelo plateado hasta la barbilla. Como comandante del FDD, viste un uniforme blanco de almirante. 
+Cuando es necesario, Ivans no se echa atrás en un combate, pero suele ser cautelosa a la hora de enviar a sus pilotos a la batalla por miedo a que caigan en una trampa. Es consciente de sí misma y es capaz de reconocer sus propios defectos, como su dificultad para comprometerse en un combate y su escaso tiempo de reacción. Según Cobb, se sorprende cada vez que alguien la desafía, aunque dice que la mayoría de los que lo hicieron ya están muertos y en realidad se alegra de que Cobb siga por aquí para desafiarla. Lamenta la muerte de todos los pilotos que han seguido sus órdenes de combate, pero sabe que no puede hacer mucho y que dejar que la culpa la agobie no es productivo. No obstante, se asegura de leer los informes de bajas y de ver los hologramas de cada batalla, de escuchar cualquier audio de los últimos momentos de un piloto y de escribir una carta a mano a la familia de cualquier piloto que haya muerto. Es conocida por ser "severa, pero justa".
+
+## Atributos y habilidades
+### Piloto
+Ivans era una piloto experta, capaz de seguir a un piloto tan experto como Perseguidor, y jefa de Escuadrón Esperanza. En algún momento después de la Batalla de Alta, sin embargo, se dio cuenta de que se estaba haciendo demasiado vieja para volar en batalla y entró en el almirantazgo de la FDD.
+
+### Conocimiento del defecto
+Muchas de las familias más importantes de [[Detritus\|Detritus]] remontan su linaje a los que se amotinaron en la [[Desafiante (nave)\|Desafiante]], por lo que hacen todo lo posible para que no se sepa nada del motín y del defecto. Ivans, sin embargo, es al menos consciente del motín y cree que fue causado por el defecto, aunque ella misma admite que para ella no está "clara" toda la historia. Al principio, creía que el defecto no debía impedir que la gente se convirtiera en piloto y "se jugó el cuello" defendiendo que se permitiera a Perseguidor entrar en la FDD. Sin embargo, desde que atacó su vuelo en la Batalla de Alta, le aterroriza la idea de que otro piloto con el defecto se una a la FDD. Esto a menudo la pone en conflicto con muchos prominentes lderes de la Asamblea Nacional y con el jefe del personal médico de la Base Alta, el doctor Thior, quienes niegan la existencia del defecto. Con el fin de proteger a la FDD, hace todo lo posible para que la vida de Spensa sea tan miserable que abandone y hace que su personal médico instale sensores en el casco de Spensa para registrar la actividad cerebral y detectar signos del defecto. Después de expulsar a Spensa de la FDD por eyectarse durante una batalla, Ivans cree que la estancia de Spensa en la FDD ha funcionado de la mejor manera posible, ya que Ivans ha conseguido evitar que vuele y ahora tiene datos para controlar a todos los nuevos cadetes en busca de signos del defecto.
+
+## Historia
+### Los primeros días de la FDD y la batalla de Alta
+Antes de la Batalla de Alta, Ivans fue la jefa de escuadrón del Escuadrón Esperanza, que incluía a Cobb y a Perseguidor, y argumentó que este último debía ser admitido en la FDD a pesar de tener el defecto. Cuando los KRELL descendieron antes de la Batalla de Alta, ella instó abiertamente a la FDD a que luchara, a pesar del elevado número de KRELL que llegaban. En la batalla, dio permiso a Perseguidor para volar al espacio después de que él prometió que podía controlar el defecto. Cuando volvió y comenzó a atacar a los pilotos de la FDD, ella dio la orden de derribarlo y lo persiguió con Cobb, aunque su nombre fue redactado en el informe oficial. Después de la batalla, para proteger a su familia, se aseguró de que el informe oficial dijera que Perseguidor se había vuelto un cobarde y había intentado huir, y no que era un traidor.
+
+### Mando de la FDD
+>“*En las muertes de sus pilotos, la almirante vio sus propios defectos. No había estado dispuesta a **comprometerse** de verdad.*”
+\-Las reflexiones de Ivans sobre por qué está perdiendo la guerra[6]
+
+
+Algún tiempo después de la Batalla de Alta, se dio cuenta de que se estaba haciendo demasiado vieja para volar y se convirtió en almirante de la FDD, aunque parece creer que sólo está al mando porque cualquiera que pudiera haberlo asumido está muerto. Como resultado de su doble condición de Primera Ciudadana y comandante del FDD, hay "cientos de cuadros y estatuas" de ella y Spensa la considera "básicamente la persona más importante del mundo".
+Como comandante militar, Ivans se muestra cauta y reacia a comprometer a la totalidad de sus fuerzas, sobre todo porque el número de pilotos y anillos de pendiente con los que cuenta la FDD disminuye constantemente. Con el fin de tener suficientes pilotos para defenderse de las incursiones de los KRELL, ha reducido la edad de las pruebas para convertirse en cadete y ha comenzado a enviar cadetes con menos experiencia.
+Después de ver cómo Perseguidor traicionaba a sus miembros de escuadrón, le aterroriza la idea de que alguien más con ese defecto se una a la FDD y, como resultado, hace todo lo que está en su mano para evitar que Spensa se convierta en piloto. Cuando Spensa intenta presentarse al examen de piloto, Ivans ordena específicamente que no sea admitida, supervisa personalmente la administración del examen, y le da un examen para ser trabajadora de sanidad, no piloto. Más tarde, Cobb la obliga a permitir que Spensa se matricule en su clase, pero le prohíbe utilizar cualquiera de las instalaciones de la Escuela de Vuelo en un esfuerzo por hacer la vida de Spensa tan difícil que abandone los estudios.
+A medida que su número de pilotos y anillos de pendiente disminuye, decide finalmente realizar un audaz ataque a un astillero en una órbita en decadencia. Cuando una aniquiladora entra en combate, ordena a sus pilotos que la mantengan alejada del astillero, aunque eso la envíe hacia la Base Alta. Cuando, de hecho, se dirige a Alta, decide ordenar a un grupo de exploradores, entre los que se encuentran [[Capa\|Capa]] y [[FM\|FM]], que se enfrenten a él. Los exploradores logran derribarlo, pero cuando la bomba aterriza, destruye algunos de los cañones AA de la FDD. En ese momento, una segunda flota KRELL, con otra aniquiladora, entra y se cuela por el agujero de las defensas, lo que la lleva a darse cuenta de que ha sido superada y posiblemente "condenada toda la humanidad". A medida que la nave se acerca a la "zona de muerte", más allá de la cual su detonación destruirá la Base Alta, acepta su muerte y, con la esperanza de salvar la Caverna Ígnea, autoriza a Spensa y a los otros pilotos a derribarla a pesar de todo.
+Después de que los KRELL son derrotados y Spensa consigue salvar Alta, ésta decide perdonar a Perseguidor e intenta convencer a Spensa de que no vuele al espacio, pero sin éxito. Cuando Spensa vuelve, ve poco valor en la información que M-Bot pirateó de los KRELL, ya que no cambia el hecho de que la FDD sigue enfrentándose a una fuerza superior. Algún tiempo después de la batalla, se retira a regañadientes como almirante de la flota de la FDD y Cobb, igual de reacio, pasa a ocupar el puesto.
+
+## Relaciones
 ### Spensa
->“*The defect.*”
-\-Admiral Ivans' whispered reaction when Spensa arrives in the Battle of Alta Second[5]
+>“*El defecto.*”
+\-Reacción susurrada de la almirante Ivans cuando Spensa llega en la Segunda Batalla de Alta[5]
 
 
-Ivans is impressed with Spensa's dedication and ability as a pilot, but is too scared of the defect to want her in the DDF. Spensa, in turn, is initially angry with Ivans for trying to keep her out of the DDF, but, after finding out the truth of the Battle of Alta, realizes how much Ivans has done for her and comes to respect Ivans as a "warrior”.
+Ivans está impresionada con la dedicación y habilidad de Spensa como piloto, pero tiene demasiado miedo del defecto como para quererla en la FDD. Spensa, por su parte, se enfada al principio con Ivans por intentar mantenerla fuera de la FDD, pero, tras descubrir la verdad de la Batalla de Alta, se da cuenta de lo mucho que Ivans ha hecho por ella y llega a respetarla como "guerrera".
 
-### Chaser
->“*Go. I trust you.*”
-\-Then-flightleader Ivans to Chaser when he asks to try to fly to space during the Battle of Alta[13]
+### Perseguidor
+>“*Ve. Confío en tí.*”
+\-La entonces jefa de escuadrón Ivans a Perseguidor cuando éste le pide intentar volar al espacio durante la Batalla de Alta[13]
 
 
-Ivans was a fierce defender of Chaser and always argued that he should be allowed to fly, despite the defect. Even after the Battle of Alta, she ensured that official records of the battle said that he turned coward and tried to flee, rather than that he started attacking his flightmates. Prior to the Battle of Alta, as his flightleader, Ivans sometimes had to remind him to stick to his wingmate rather than break off to engage the KRELL; their relationship reminds Spensa of that between herself and Jorgen.
+Ivans fue una gran defensora de Chaser y siempre abogó por que se le permitiera volar, a pesar del defecto. Incluso después de la Batalla de Alta, se aseguró de que los registros oficiales de la batalla dijeran que era un cobarde e intentó huir, en lugar de que empezó a atacar a sus compañeros de escuadrón. Antes de la batalla de Alta, como su jefa de escuadrón, Ivans a veces tenía que recordarle que se pegara a su compañero de ala en lugar de separarse para enfrentarse a los KRELL; su relación le recuerda a Spensa la que había entre ella y Jorgen.
 
 ### Cobb
->“*It was good she still had someone to defy her. Most everyone else who had done that was dead now.*”
-\-Ivans' reflections on her relationship with Cobb[2]
+>“*Era bueno que aún tuviera a alguien que la desafiara. Casi todos los demás que lo habían hecho estaban muertos.*”
+\-Reflexiones de Ivans sobre su relación con Cobb[2]
 
 
-Prior to the Battle of Alta, Ivans was Cobb's flightleader, and the banter between the two of them reminded Spensa of her own relationship with Jorgen. The two worked together to bring down Chaser after he started attacking their flight and are likely the only two who know the truth of what he did in the Battle of Alta. Cobb is the only surviving pilot from Ivans' own time as a pilot, and they remain respectful towards each other, as evidenced by Cobb waiting for her to finish a letter to the family of a dead pilot before starting an argument with her. However, they also disagree sharply about Ivans' policies for the DDF, which she believes are necessary to defend Alta Base and Igneous, but he feels get pilots and cadets killed needlessly and likens to "firing on full auto while simultaneously stealing ammunition from the stores." She is also shocked that he is willing to let Spensa fly after seeing what the defect did to Chaser. After Cobb takes over as Admiral of the Fleet, he begins to better understand her complaints about being in charge and how those in command rarely understand what is truly going on.
+Antes de la batalla de Alta, Ivans era la jefa de escuadrón de Cobb, y las bromas entre ambos recordaban a Spensa su propia relación con Jorgen. Los dos trabajaron juntos para derribar a Perseguidor después de que empezara a atacar a su propio escuadrón y son probablemente los únicos que saben la verdad de lo que hizo en la Batalla de Alta. Cobb es el único piloto superviviente de la época en la que Ivans era piloto, y se respetan mutuamente, como demuestra el hecho de que Cobb esperara a que ella terminara de escribir una carta a la familia de un piloto muerto antes de empezar a discutir con ella. Sin embargo, también discrepan fuertemente sobre las políticas de Ivans para la FDD, que ella considera necesarias para defender la Base Alta e Ígnea, pero que él cree que hacen que pilotos y cadetes mueran innecesariamente y compara con "disparar en automático mientras, al mismo tiempo, robas munición del almacén. Al final, se te van a terminar las balas". También le sorprende que esté dispuesto a dejar volar a Spensa después de ver lo que el defecto le hizo a Perseguidor. Después de que Cobb asuma el cargo de almirante, empieza a entender mejor las quejas que ella tenía sobre estar al mando y cómo los que están en esa posición rara vez entienden lo que realmente está pasando.
 
-### Rikolfr and DDF Staff
-[[Rikolfr\|Rikolfr]] is Ivans' aide-de-camp. He keeps track of everything she needs to do; brings reports to, and reviews their content with, her; helps her prepare to deal with various situations, such as a meeting with National Assembly Leaders; and carries orders from her to other DDF staff. Considering her messy office, Rikolfr's organizational skills are likely a great asset to Ivans, and she trusts him enough to include him in meetings with National Assembly Leaders. After Ivans' retirement, Rikolfr remains on the DDF's staff, now serving Cobb, the new Admiral of the Fleet.
-Ivans seems to interact with the rest of the DDF's staff mostly through Rikolfr, so her relationship to the rest of the staff is somewhat unclear. Notably, however, she disagrees sharply with the head of Alta Base's medical division, Dr. Thior, as the doctor is adamant that the defect does not exist.
+### Rikolfr y personal de la FDD
+[[Rikolfr\|Rikolfr]] es el ayudante de campo de Ivans. Lleva la cuenta de todo lo que ella tiene que hacer; le trae informes y revisa su contenido con ella; la ayuda a prepararse para hacer frente a diversas situaciones, como una reunión con los Líderes de la Asamblea Nacional; y lleva las órdenes de ella a otro personal de la FDD.  Teniendo en cuenta su desordenado despacho, las habilidades organizativas de Rikolfr son probablemente un gran activo para Ivans, y ella confía en él lo suficiente como para incluirlo en las reuniones con los Líderes de la Asamblea Nacional. Tras la jubilación de Ivans, Rikolfr permanece en el personal de la FDD, ahora al servicio de Cobb, el nuevo almirante de la Flota.
+Ivans parece interactuar con el resto del personal de la FDD principalmente a través de Rikolfr, por lo que su relación con el resto es algo confusa. Sin embargo, no está de acuerdo con el jefe de la división médica de la Base Alta, el doctor Thior, ya que el médico se mantiene firme en que el defecto no existe.
 
-### National Assembly
-Ivans is continually frustrated by the [[National Assembly Leader\|National Assembly Leaders]] denial of the existence of the defect, removal of their children—some of the top pilots—from the DDF, and refusal to send up their private ships to aid the DDF during KRELL attacks. The National Assembly, in turn, is frustrated by the falling number of available ships and high pilot casualty rates during her tenure as Admiral of the Fleet, though they are also afraid to take power from her and make decisions themselves, as they prefer to be able to blame her for anything that goes wrong rather than risk that blame falling on themselves.
+### Asamblea Nacional
+Ivans está continuamente frustrada por la negación de la existencia del defecto por parte de los Líderes de la Asamblea Nacional, la retirada de sus hijos (algunos de los mejores pilotos) de la FDD, y la negativa a enviar sus naves privadas para ayudar a la FDD durante los ataques de los KRELL. La Asamblea Nacional, por su parte, se siente frustrada por la disminución del número de naves disponibles y el alto índice de bajas de pilotos durante su mandato como almirante de la flota, aunque también tienen miedo de quitarle el poder y tomar decisiones por sí mismos, ya que prefieren poder culparla de cualquier cosa que vaya mal en lugar de arriesgarse a que la culpa recaiga sobre ellos mismos.
+
+## Notas
+|Antecesor  ***Desconocido***|**Almirante de la Flota de la[[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]]**  *Desconocido* a fecha 83 |Sucesor  **[[Matthew Cobb\|Matthew Cobb]]**|
+|-|-|
 
 
 
-https://coppermind.net/wiki/Ironsides
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] ·  · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+
+
+
+https://es.coppermind.net/wiki/Judy_Ivans

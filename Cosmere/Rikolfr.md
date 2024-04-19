@@ -1,58 +1,73 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Rikolfr**|
 |-|-|
-|**Groups**|[[DDF\|DDF]]|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Grupo**|[[FDD\|FDD]]|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Evershore* and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*Rikolfr (...) hurried along beside her, holding his ever-present clipboard full of things Judy needed to do.*”
-\-Admiral Ivans on how Rikolfr keeps her organized[1]
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Perpetua\|Perpetua]]* y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-
-**Rikolfr** is an officer in the [[DDF\|DDF]] and [[Judy Ivans\|Admiral Ivans']] aide-de-camp. As such, he keeps careful track of everything that she needs to do and helps her prepare to handle various situations. After her retirement, he continues to serve the new Admiral of the Fleet, Cobb.
-
-## Contents
-
-1 History
-
-1.1 Serving Admiral Ivans
-
-1.1.1 Battle of Alta Second
+>“*Rikolfr (...) apretó el paso para seguirle el ritmo, sosteniendo su sempiterna tablilla llena de cosas que Judy tenía que hacer.*”
+\-Almirante Ivans sobre cómo Rikolfr la mantiene organizada[1]
 
 
-1.2 Serving Admiral Cobb
+Rikolfr es un oficial de la FDD y ayudante de campo de la almirante Judy Ivans. Como tal, lleva un cuidadoso seguimiento de todo lo que ella necesita hacer y la ayuda a prepararse para manejar diversas situaciones. Tras su jubilación, continúa al servicio del nuevo almirante de la flota, Cobb.
+
+## Sumario
+
+1 Historia. [[#Historia]] 
+
+1. [[#Sirviendo a la almirante Ivans]] 
+
+1. [[#Segunda Batalla de Alta]] 
 
 
-2 Relationships
-
-2.1 Admiral Ivans
+1. [[#Al servicio del almirante Cobb]] 
 
 
-3 Notes
+2 Relaciones. [[#Relaciones]] 
+
+2. [[#Almirante Ivans]] 
 
 
-## History
-### Serving Admiral Ivans
-After the battle for the falling shipyard, Rikolfr remarks that [[Spensa\|Spensa]] flies well and brings Ivans a report from her helmet sensors during that battle, which show excessive readings in the Writellum area of her brain. He further reports that, while [[Halbeth\|Dr. Halbeth]] considers this conclusive proof that Spensa has the "defect," [[Iglom\|Dr. Iglom]] feels that one event isn't enough data to form a conclusion, and [[Thior\|Dr. Thior]], the head of [[Alta Base\|Alta Base's]] medical staff, is going to be troublesome as she doesn't believe the "defect" is real. He also shows Ivans letters from several prominent party members, including [[National Assembly Leader\|National Assembly Leader]] [[Algernon Weight\|Algernon Weight]], arguing that Spensa should be made welcome in the DDF as a symbol of "true Defiant redemption." Rikolfr then asks Ivans' for her orders, to which she instructs him to have Dr. Halbeth write a rebuttal to Dr. Thior's explanations and to ask Dr. Iglom to make a strong finding in favor of the defect's existence in general, and in Spensa in particular, as a personal favor for the admiral.
-
->“*This many assembly leaders? It smells of an ambush, sir. Be prepared.*”
-\-Rikolfr to Ivans[1]
-
-After Ivans dismisses Spensa from the DDF, Rikolfr quickly meets up with her to warn her that three National Assembly Leaders have come in person for a briefing on the DDF's status after the latest [[Varvax\|Krell]] attack, noting that many assembly leaders being present rather than just sending their normal subordinates is alarming. He also reports that, while the shipyard the scouts spotted prior to the start of the battle was too far for traditional scanners, they were able to send a science ship to investigate and the scientists predict that, if the DDF could recover it, they could gain hundreds of [[Acclivity ring\|acclivity rings]]. He notes that the shipyards' guns are predicted to go offline in a couple of days, right around the time it is projected to begin falling into the atmosphere, and that the Krell will likely try to destroy it once that happens. He then follows Ivans into the meeting with the assembly leaders, though he remains mostly quiet and speaks up only to point out that the DDF could end up committing all their ships to claiming the shipyard.
-
-#### Battle of Alta Second
-During the [[Battle of Alta Second\|Battle of Alta Second]], Rikolfr is in the DDF command post with Admiral Ivans. At one point during the battle, he informs her that the private ship owners are planning to evacuate rather than assist the DDF, and asks Ivans if she has ever seen a pilot fly as well as Spensa (who is using her [[Cytonics\|cytonic]] abilities at the time).
-After Spensa crashes, he brings Ivans new reports and is the only one besides Ivans still watching the battle on the holoprojector; the junior admirals and other staff are all in chaos trying to sound the alarm to the caverns. He reports that the Krell bomber with the lifeburster is less than five minutes away from Alta Base and that all of the emergency gun emplacements are either already down or taking heavy fire. Wheh he asks if they should try to evacuate the command post for a deep cavern, Ivans elects to remain in Alta Base. Although he finds it distressing, he chooses to stay with her.
-When Spensa returns in [[M-Bot\|M-Bot]], flying at Mag-20, he's shocked by the ship's speed. When the pilots successfully cause the lifeburster to drop before it can get in position to hit [[Igneous Cavern\|Igneous Cavern]] (although within the "death zone" where Alta Base would be destroyed), Rikolfr weeps, though whether he does so out of joy for Igneous being saved or fear of what he believes is his impending death is unclear. As Ivans' personal aide, he likely attended Spensa's briefing on the information M-Bot hacked from the Krell after the battle was over.
-
-### Serving Admiral Cobb
-After Ivans' retirement, he continues to serve as an aid to the Admiral of the Fleet, now Cobb, though they do not appear to be as close as Rikolfr was with Ivans. He calls Cobb over the comm system to alert him to the arrival of an unidentified ship, later revealed to be piloted by [[Alanik\|Alanik]]. Later, after Spensa returns from [[Starsight (station)\|Starsight]] and realizes [[Winzik\|Winzik's]] plan, he helps her get Cobb's attention.
-
-## Relationships
-### Admiral Ivans
-Rikolfr is Admiral Ivan's aide-de-camp and his relationship with her is professional. He helps her stay organized, and she trusts him enough to bring him to her meetings with National Assembly Leaders. He is extremely dedicated to her and stays by her side even when it seems suicidal.
+3 Notas. [[#Notas]] 
 
 
+## Historia
+### Sirviendo a la almirante Ivans
+Tras la batalla por el astillero en caída, Rikolfr comenta que [[Spensa\|Spensa]] vuela bien y trae a Ivans un informe de los sensores de su casco durante esa batalla, que muestran lecturas excesivas en el área Writellum de su cerebro. Además, informa de que, aunque [[Halbeth\|el doctor Halbeth]] considera esto una prueba concluyente de que Spensa tiene el "defecto", [[Iglom\|la doctora Iglom]] opina que un suceso no es suficiente para llegar a una conclusión, y que la [[Thior\|doctora Thior]], jefe del personal médico de la [[Base Alta\|Base Alta]], va a dar problemas, ya que no cree que el "defecto" sea real. También muestra a Ivans cartas de varios miembros destacados del partido, entre ellos [[L%C3%ADderes de la Asamblea Nacional\|Líderes de la Asamblea Nacional]] [[Algernon Weight\|Algernon Weight]], argumentando que Spensa debería ser bienvenida en la FDD como símbolo de la "verdadera redención Desafiante". Rikolfr pide entonces órdenes a Ivans, a quien ordena que el doctor Halbeth redacte una refutación de las explicaciones de la doctora Thior y que pida a la doctora Iglom que emita un dictamen contundente a favor de la existencia del defecto en general, y en Spensa en particular, como favor personal para el almirante.
 
-https://coppermind.net/wiki/Rikolfr
+>“*¿Con tantos líderes de la asamblea? Esto huele a emboscada, señora. Será mejor que se prepare.*”
+\-Rikolfr a Ivans[1]
+
+Después de que Ivans expulse a Spensa de la FDD, Rikolfr se reúne rápidamente con ella para advertirle de que tres Líderes de la Asamblea Nacional han acudido en persona para una sesión informativa sobre la situación de la FDD tras el último ataque [[Varvax\|krell]], señalando que el hecho de que muchos Líderes de la Asamblea estén presentes en lugar de limitarse a enviar a sus subordinados normales es alarmante. También informa de que, aunque el astillero que los exploradores divisaron antes del inicio de la batalla estaba demasiado lejos para los escáneres tradicionales, pudieron enviar una nave científica a investigar y los científicos predicen que, si la FDD pudiera recuperarlo, podrían ganar cientos de [[Anillo de pendiente\|anillos de pendiente]]. Señala que se prevé que los cañones del astillero queden fuera de servicio en un par de días, justo en el momento en que se proyecta que comience a caer en la atmósfera, y que es probable que los krell intenten destruirlo una vez que eso ocurra. A continuación, sigue a Ivans en la reunión con los líderes de la asamblea, aunque permanece en silencio y sólo habla para señalar que la FDD podría terminar comprometiendo todas sus naves para reclamar el astillero.
+
+#### Segunda Batalla de Alta
+Durante la [[Segunda Batalla de Alta\|Segunda Batalla de Alta]], Rikolfr se encuentra en el puesto de mando de la FDD con la almirante Ivans. En un momento de la batalla, le informa de que los propietarios de las naves privadas están planeando evacuar en lugar de ayudar a la FDD, y le pregunta a Ivans si alguna vez ha visto a un piloto volar tan bien como Spensa (que está usando sus habilidades [[Cit%C3%B3nica (habilidad)\|citónicas]] en ese momento).
+Después de que el Spensa se estrellara, trae a Ivans nuevos informes y es el único, aparte de Ivans, que sigue observando la batalla en el holoproyector; los almirantes subalternos y el resto del personal están todos sumidos en el caos intentando dar la alarma a las cavernas. Informa de que el bombardero krell con la aniquiladora está a menos de cinco minutos de la Base Alta y que todos los emplazamientos de cañones de emergencia ya han caído o están recibiendo fuego intenso. Cuando le pregunta si deberían intentar evacuar el puesto de mando a una caverna profunda, Ivans opta por permanecer en la Base Alta. Aunque le resulta angustioso, decide quedarse con ella.
+Cuando Spensa regresa en [[M-Bot\|M-Bot]], volando a Mag-20, se sorprende por la velocidad de la nave. Cuando los pilotos consiguen que la aniquiladora caiga antes de que esté en posición de impactar contra [[Caverna %C3%8Dgnea\|Caverna Ígnea]] (aunque dentro de la "zona de muerte", donde la Base Alta sería destruida), Rikolfr llora, aunque no está claro si lo hace de alegría por la salvación de Ígnea o de miedo por lo que cree que es su muerte inminente. Como ayudante personal de Ivans, es probable que asistiera a la reunión informativa de Spensa sobre la información que M-Bot pirateó de los krell una vez finalizada la batalla.
+
+### Al servicio del almirante Cobb
+Después del retiro de Ivans, continúa sirviendo como ayudante del Almirante de la Flota, ahora Cobb, aunque no parecen estar tan unidos como lo estaba Rikolfr con Ivans. Llama a Cobb a través del sistema de comunicaciones para alertarle de la llegada de una nave no identificada, que más tarde se revela que está pilotada por [[Alanik\|Alanik]]. Después de que Spensa regrese de [[Visi%C3%B3n Estelar\|Visión Estelar]] y se dé cuenta del plan de [[Winzik\|Winzik]], le ayuda a llamar la atención de Cobb.
+
+## Relaciones
+### Almirante Ivans
+Rikolfr es el ayudante de campo de la almirante Ivan y su relación con ella es profesional. La ayuda a organizarse, y ella confía en él lo suficiente como para llevarlo a sus reuniones con los Líderes de la Asamblea Nacional. Está muy dedicado a ella y permanece a su lado incluso cuando parece un suicidio.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+
+
+
+https://es.coppermind.net/wiki/Rikolfr

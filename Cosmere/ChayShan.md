@@ -1,37 +1,51 @@
+
+
 |**ChayShan**|
 |-|-|
-|**Related to**|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|
-|**Type**|End-Positive|
-|**World of Origin**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Relacionado con**|[[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]]|
+|**Tipo**|Fin positivo|
+|**Mundo de origen**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**ChayShan** is a manifestation of [[Investiture\|Investiture]] on [[Sel\|Sel]].
+El **ChayShan** es una manifestación de [[Investidura\|Investidura]] del planeta [[Sel\|Sel]].
 
-## Contents
+## Sumario
 
-1 Prerequisites
-2 Mechanics
-3 Abilities
-4 Relationship To JinDo
-5 Known Users
-6 Notes
+1 Prerrequisitos. [[#Prerrequisitos]] 
+2 Mecánicas. [[#Mec.C3.A1nicas]] 
+3 Habilidades. [[#Habilidades]] 
+4 Relación con JinDo. [[#Relaci.C3.B3n con JinDo]] 
+5 Usuarios conocidos. [[#Usuarios conocidos]] 
+6 Notas. [[#Notas]] 
 
 
-## Prerequisites
-In order for a ChayShan user to access the [[Dor\|Dor]] a few things have to occur. It appears that a ChayShan user has to be [[JinDo\|JinDo]].
+## Prerrequisitos
+Para que un usuario de ChayShan pueda acceder al [[Dor\|Dor]] tienen que darse una serie de cosas. Para empezar y según parece, el usuario de este sistema de magia tiene que ser oriundo de [[JinDo\|JinDo]].
 
-## Mechanics
-[[Shuden\|Shuden]] claims that ChayShan is simply a way to focus a warrior's mind and body before battle, but he later uses it while fighting [[Dakhor\|Dakhor]] monks. ChayShan is practiced via a meditative martial arts style that appears to focus on speeding up motions and gaining power from them, which then appears to draw upon the Dor. As all the [[Investiture\|Investitures]] on [[Sel\|Sel]] are form-based, it is quite possible that the different forms and moves of the ChayShan are what determine what powers a practitioner is using.
-A person using ChayShan moves their body in specific circular patterns, slowly gaining in speed. The person continuously keeps their hands and legs moving. They move as though they are "struggling against some unseen force" with their muscles tensed. The leaps and arm motions of ChayShan seem similar to a dance. When the Dor is actually being accessed, a dim glow is visible in the wake of the motions of the limbs of the practitioner. If a person using ChayShan loses focus, they lose access to the Dor and must start over.
+## Mecánicas
+[[Shuden\|Shuden]] afirmó que el ChayShan es tan solo un modo con el que enfocar la mente y el cuerpo de un guerrero antes de la batalla, pero posteriormente lo utiliza cuando lucha contra los monjes [[Dakhor\|dakhor]]. Se puede practicar el ChayShan a través de un estilo de arte marcial meditativo que parece centrarse en movimientos cada vez más rápidos y la obtención de poder a partir de ellos, que aparentemente se extrae del Dor. Ya que todas las manifestaciones de [[Investidura\|Investidura]] en [[Sel\|Sel]] se basan en formas, es bastante posible que los diferentes movimientos y formas trazados en el ChayShan determinan qué poderes utilizará el practicante.
+Cuando una persona utiliza el ChayShan moverá su cuerpo siguiendo patrones circulares específicos, los cuales poco a poco irán aumentando su velocidad. El usuario mantiene sus manos y piernas continuamente en movimiento. Se mueven como si estuviesen «luchando contra una fuerza invisible», con los músculos en tensión. Los brincos y movimientos de los brazos se asemejan a una danza. Cuando el usuario accede de verdad al Dor, esto será visible al aparecer un tenue brillo en la estela de los movimientos de sus extremidades. En caso de que la persona que esté utilizando el ChayShan pierda su concentración, perderá también el acceso al Dor y tendrá que comenzar de nuevo.
 
-## Abilities
-One of the abilities granted by ChayShan is enormous strength. Someone performing ChayShan is capable of breaking the ribs of a Dakhor monk and hitting one in the head so hard that the spine breaks, despite the fact that a Dakhor monk's body is enhanced to the point that even [[Kiin\|Kiin]] needs to hit one several times with his axe before it dies. Another ability that ChayShan grants is intuitive spatial awareness, as Shuden performs all of his motions in battle with his eyes closed.
+## Habilidades
+Una de las habilidades que otorga el ChayShan es una fuerza inmensa. El usuario de ChayShan es capaz de romper las costillas de un monje dakhor y golpearle en la cabeza tan fuerte que su columna vertebral se quiebre, todo esto pese al hecho de que el cuerpo de un monje dakhor está mejorado hasta el punto que incluso [[Kiin\|Kiin]] necesitó golpear con su hacha varias veces a uno de ellos para lograr que muriese.
+Otra habilidad que proporciona el ChayShan es una consciencia espacial instintiva, como cuando Shuden realiza todos sus movimientos de combate con los ojos cerrados.
 
-## Relationship To JinDo
-ChayShan has a specific tie to the land of JinDo. Like all Selish magic, ChayShan will decrease in power the further from JinDo a user gets.
+## Relación con JinDo
+El ChayShan cuenta con una unión concreta a la tierra de JinDo. Como todos los sistemas de magia de Sel, el poder del ChayShan irá decreciendo a medida que su usuario se aleje de JinDo.
 
-## Known Users
+## Usuarios conocidos
 [[Shuden\|Shuden]]
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] ·  · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
-https://coppermind.net/wiki/ChayShan
+
+https://es.coppermind.net/wiki/ChayShan

@@ -1,45 +1,45 @@
 |**Jax**|
 |-|-|
-|by  Potato-sunrise |
-|**Groups**|[[Reckoners\|Reckoners]]|
-|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+||
+|**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
+|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
-This page or section needs to be updated with new information for *Lux*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-For the member of the [[DDF\|DDF]], see [[Jax (Skyward)\|Jax (Skyward)]].
+Para the member of the , ver .
 >“*He doesn’t quit. He doesn’t slack. He doesn’t stop.*”
 \-Zeff describing Jax to Prof.[1]
 
 
 **Jax** is a [[Reckoners\|Reckoner]], part of the Texas cell. He is trained by [[Zeff\|Zeff]] at the [[Coop\|Coop]] alongside [[Paige\|Paige]].
 
-## Contents
+## Sumario
 
-1 Attributes and Abilities
-2 History
+1 Attributes and Abilities. [[#Attributes and Abilities]] 
+2 History. [[#History]] 
 
-2.1 Dan’s Death
-2.2 The Coop
-2.3 El Paso and Arlington
-2.4 Galveston
-2.5 Infiltration of Lux
+2. [[#Dan.E2.80.99s Death]] 
+2. [[#The Coop]] 
+2. [[#El Paso and Arlington]] 
+2. [[#Galveston]] 
+2. [[#Infiltration of Lux]] 
 
-2.5.1 Preparation and Entry
-2.5.2 The Mission
-
-
-2.6 Work with Motivators
+2. [[#Preparation and Entry]] 
+2. [[#The Mission]] 
 
 
-3 Relationships
-
-3.1 Dan
-3.2 Zeff
-3.3 Paige
+2. [[#Work with Motivators]] 
 
 
-4 Trivia
-5 Notes
+3 Relationships. [[#Relationships]] 
+
+3. [[#Dan]] 
+3. [[#Zeff]] 
+3. [[#Paige]] 
+
+
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Attributes and Abilities
@@ -47,12 +47,12 @@ For the member of the [[DDF\|DDF]], see [[Jax (Skyward)\|Jax (Skyward)]].
 \-Zeff to Prof[1]
 
 
-Jax is a skilled mechanic. He routinely works on [[Motivator\|motivators]], and when he was growing up, he put together antique muskets with his brother [[Dan\|Dan]]. He is capable of repurposing a variety of electronic devices to suit his needs. Jax is also a skilled swordsman. Often wielding his brother’s old artillery sword, [[Shiloh\|Shiloh]], Jax trained in sword combat with Zeff at the Coop. He had to block 100,000 strikes before he was allowed to strike once, ensuring that he has a very solid understanding of the basics.
+Jax is a skilled mechanic. He routinely works on , and when he was growing up, he put together antique muskets with his brother [[Dan\|Dan]]. He is capable of repurposing a variety of electronic devices to suit his needs. Jax is also a skilled swordsman. Often wielding his brother’s old artillery sword, [[Shiloh\|Shiloh]], Jax trained in sword combat with Zeff at the Coop. He had to block 100,000 strikes before he was allowed to strike once, ensuring that he has a very solid understanding of the basics.
 Jax is determined to be a hero: a person who helps others. He is determined to prevent others from feeling the loss he has felt. He fights to protect nice things for others, realizing that not having those things for himself is the cost of being a hero.
 
 ## History
 ### Dan’s Death
-Jax lived in Houston with his family, prior to [[Obliteration\|Obliteration]] blowing it up. Jax visited his older brother [[Dan\|Dan]] in Boston for spring break when he was eleven. He and Dad had a great time together, up until the Epic [[Lovestruck\|Lovestruck]] came to town and killed Dan by causing his blood to flow backwards and overload his heart. Afterward, [[Prof\|Prof]] found Jax and cared for him, and Jax went and retrieved some of Dan’s belongings, including [[Shiloh\|his sword]] and his silver class ring. Prof told Jax that Houston, where all his family lived, was destroyed by [[Obliteration\|Obliteration]]. Prof took Jax across the country, and told Jax about the Reckoners. Jax decided that he wanted to be a Reckoner.
+Jax lived in Houston with his family, prior to [[Obliteration\|Obliteration]] blowing it up. Jax visited his older brother [[Dan\|Dan]] in Boston for spring break when he was eleven. He and Dad had a great time together, up until the Epic [[Lovestruck\|Lovestruck]] came to town and killed Dan by causing his blood to flow backwards and overload his heart. Afterward,  found Jax and cared for him, and Jax went and retrieved some of Dan’s belongings, including [[Shiloh\|his sword]] and his silver class ring. Prof told Jax that Houston, where all his family lived, was destroyed by [[Obliteration\|Obliteration]]. Prof took Jax across the country, and told Jax about the Reckoners. Jax decided that he wanted to be a Reckoner.
 
 ### The Coop
 >“*I came here to be a hero. To save people. And try to make sure they get to live in a world that still has all that stuff. Even if none of it will be there for me.*”
@@ -65,7 +65,7 @@ As the years passed, they grew more adept in hand to hand combat, swordsmanship,
 >“*Who in the sparking hell are you? Where’s the little pipsqueak I left here six years ago?*”
 \-Prof to Jax[8]
 
-Afterwards, Zeff discovered that Jax was spying on him, but was impressed rather than angry. The next day, Prof gave assignments to the Reckoners at the Coop. [[Abigail Casey\|Abigail Casey]] was assigned to take most of the Reckoners, including Paige, to Arlington to defend against a raid from [[Lux (city)\|Lux (city)]]. Jax and Zeff were assigned to go to El Paso to meet with Knighthawk.
+Afterwards, Zeff discovered that Jax was spying on him, but was impressed rather than angry. The next day, Prof gave assignments to the Reckoners at the Coop. [[Abigail Casey\|Abigail Casey]] was assigned to take most of the Reckoners, including Paige, to Arlington to defend against a raid from . Jax and Zeff were assigned to go to El Paso to meet with Knighthawk.
 
 ### El Paso and Arlington
 Jax and Zeff drove to El Paso, where a group of Epics had faced off against the city of Lux and lost. They met with Knighthawk, as well as a man who Knighthawk introduced as “[[Parik\|The Californian]]”. They discussed motivator technology, and Jax impressed Knighthawk with his knowledge, but he unwittingly revealed valuable information to both of the men. Zeff was angry at Jax for revealing important secrets, and they quickly left El Paso, Zeff stealing a vial of Mitosis DNA as they went. As they drove to Arlington, they got a call from Abigail, saying that an Epic was he healing his soldiers, making them immortal. She requested help immediately, saying that they were being overwhelmed. As Zeff and Jax neared Arlington in their truck, the floating city of Lux began to leave. However, it then changed course and began following Zeff’s truck. When they couldn’t evade the city, Zeff and Jax had to drive into the city and ditch the truck. [[Ravens\|Ravens]] flew down into the city, and chased Jax and Zeff through the streets. Zeff was shot, and the Epic [[Wingflare\|Wingflare]] arrived. Jax didn’t want to leave Zeff, but Zeff used Jax’s boomerang motivator to teleport him into a nearby building. Wingflare killed Zeff, and Jax went to meet up with the remaining Texas Reckoners.
@@ -75,17 +75,17 @@ Jax and the others set up a trap for [[Lifeforce\|Lifeforce]] in Galveston, wher
 
 ### Infiltration of Lux
 #### Preparation and Entry
-Jax and the others worked to prepare for their infiltration and assassination, using the Fathom motivator to preform reconnaissance. Jax tinkered with motivators, inventing scorchnotes and reversing the mitosis motivator. With it reversed, it caused singular objects to cease to exist, making it the perfect weapon to use against Lifeforce. They went a town where Lux was due to stop and take in new residents, then joined the massive crowd of people swarming up the latter. Jax and the other Reckoners fought their way to a ladder and climbed up into the city of Lux, where they were greeted by a Raven processing group. They were partially searched, and several of their bags that contained their scorchnotes were confiscated. The Ravens’ search was interrupted when a high ranking Raven took over, and led them to their new house personally. The Raven revealed herself as Paige, who had survived Wingflare’s attack and become a high ranking Raven. In their new house, they discussed how to best to take control of the city and kill Lifeforce.
+Jax and the others worked to prepare for their infiltration and assassination, using the  motivator to preform reconnaissance. Jax tinkered with motivators, inventing  and reversing the mitosis motivator. With it reversed, it caused singular objects to cease to exist, making it the perfect weapon to use against Lifeforce. They went a town where Lux was due to stop and take in new residents, then joined the massive crowd of people swarming up the latter. Jax and the other Reckoners fought their way to a ladder and climbed up into the city of Lux, where they were greeted by a Raven processing group. They were partially searched, and several of their bags that contained their scorchnotes were confiscated. The Ravens’ search was interrupted when a high ranking Raven took over, and led them to their new house personally. The Raven revealed herself as Paige, who had survived Wingflare’s attack and become a high ranking Raven. In their new house, they discussed how to best to take control of the city and kill Lifeforce.
 
 #### The Mission
 Jax and the other Reckoners used maintenance tunnels to get near the power grid, where Jax and Briggen were assigned to connect the Wingflare motivator to it. Briggen made a mistake however, and the Ravens were alerted. Jax was forced to leave Briggen behind, and Briggen was captured. After they had retreated back to their safehouse, they sent a message to Briggen using his broken boomerang watch. They went to Lifeforce’s palace to kill Lifeforce, but Briggen betrayed them. Lifeforce allowed Jax to duel him, but Lifeforce won. They were captured, and Jax was offered the chance to join Lifeforce. When he refused, Jax was locked up along with his fellow Reckoners.
 
 ### Work with Motivators
-Jax loved tinkering with his brother Dan, which sparked his interest in Motivators when he first arrived at the Coop. Zeff required he read all the books on microbiology and chemistry that they had there if he wanted to work with the motivators, which Jax did. Since Zeff didn’t allow him any time to work in the motivator workshop, Jax snuck out of his room every night instead. When Paige arrived at the Coop, she joined Jax in his nightly work. With her help, Jax invented coilers, which allowed him to reverse the effects of any motivator. He used the coiler on [[Boomerang\|Boomerang]]’s DNA, and made a watch that could teleport him thirty feet in any direction, then teleport him back to his original spot. He also used the coilers to modify several other motivators, such as sonic snare and mitosis. During the infiltration of Lux, Jax had to jury-rig several motivators, such as boomerang watches. At one point, Jax also mixed the powers of two Epics, [[Glimmer\|Glimmer]] and [[Sonic Snare\|Sonic Snare]], to make the shockwave gun. His discoveries were groundbreaking in the world of motivator technology, and [[Dean Knighthawk\|Knighthawk]] was impressed by Jax’s knowledge. Both Lifeforce and Parik were also interested in Jax’s skill and knowledge, and wanted to recruit him to help with their projects.
+Jax loved tinkering with his brother Dan, which sparked his interest in Motivators when he first arrived at the Coop. Zeff required he read all the books on microbiology and chemistry that they had there if he wanted to work with the motivators, which Jax did. Since Zeff didn’t allow him any time to work in the motivator workshop, Jax snuck out of his room every night instead. When Paige arrived at the Coop, she joined Jax in his nightly work. With her help, Jax invented coilers, which allowed him to reverse the effects of any motivator. He used the coiler on ’s DNA, and made a watch that could teleport him thirty feet in any direction, then teleport him back to his original spot. He also used the coilers to modify several other motivators, such as sonic snare and mitosis. During the infiltration of Lux, Jax had to jury-rig several motivators, such as boomerang watches. At one point, Jax also mixed the powers of two Epics, [[Glimmer\|Glimmer]] and [[Sonic Snare\|Sonic Snare]], to make the shockwave gun. His discoveries were groundbreaking in the world of motivator technology, and [[Dean Knighthawk\|Knighthawk]] was impressed by Jax’s knowledge. Both Lifeforce and Parik were also interested in Jax’s skill and knowledge, and wanted to recruit him to help with their projects.
 
 ## Relationships
 ### Dan
->“*He was a hero. He was my hero.*”
+>“*He was a hero. He was *my* hero.*”
 \-Jax[7]
 
 
@@ -103,6 +103,17 @@ Jax trains with Paige at the Coop, and from the beginning they form a strong fri
 
 ## Trivia
 Jax's best subject in school was science.
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]] · [[Paige\|Paige]]|
+|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Jax_(Reckoners)
+
+https://es.coppermind.net/wiki/Jax_(Reckoners)

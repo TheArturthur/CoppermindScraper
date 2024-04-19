@@ -1,24 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Jaddeth**|
 |-|-|
-|**Related to**|Shu-Dereth|
-|**World of Origin**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Relacionado con**|Shu-Dereth|
+|**Mundo de origen**|[[Sel\|Sel]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Jaddeth** is a deity on [[Sel\|Sel]] related to rocks and earth. He is the god of the modern [[Shu-Dereth\|Shu-Dereth]] religion.
-He is mentioned in *Wyrn the King*, the oldest text on Sel, as a minor god that cared for the rocks under the earth. The originally pantheistic religion later shifted to monotheism through the teachings of [[Keseg\|Keseg]]. [[Dereth\|Dereth]] further interpreted Keseg's doctrine to mean that mankind should serve a single monarch. Dereth's ideas were rejected in his native [[JinDo\|JinDo]], but were later embraced in [[Fjorden\|Fjorden]] after the fall of the Old Empire and the adoption of [[Shu-Dereth\|Shu-Dereth]] as the official state religion by [[Wulfden the First\|Wulfden the First]]. Jaddeth was elevated to be the primary god of Shu-Dereth and therefore the entire Fjordell Empire. Over the next several centuries, Fjordell [[Wyrn (title)\|Wyrns]] and priests altered historical texts to make it seem like Fjorden had always served Jaddeth with holy purpose.
+**Jaddeth** es una deidad de [[Sel\|Sel]] relacionada con las rocas y la tierra. Es el dios de la moderna religión del [[Shu-Dereth\|Shu-Dereth]].
+Se le menciona en *[[Wyrn el rey\|Wyrn el rey]]*, el texto más antiguo sobre Sel, como un dios menor que cuidaba de las rocas bajo la tierra. La religión originalmente panteísta cambió más tarde al monoteísmo a través de las enseñanzas de [[Keseg\|Keseg]]. [[Dereth\|Dereth]] interpretó además la doctrina de Keseg en el sentido de que la humanidad debía servir a un único monarca. Las ideas de Dereth fueron rechazadas en su [[JinDo\|JinDo]] natal, pero más tarde fueron adoptadas en [[Fjorden\|Fjorden]] tras la caída del Antiguo Imperio y la adopción del [[Shu-Dereth\|Shu-Dereth]] como religión oficial del estado por [[Wulfden I\|Wulfden I]]. Jaddeth fue elevado adios principal del Shu-Dereth y, por tanto, de todo el imperio fjordell. Durante los siglos siguientes, los [[Wyrn (t%C3%ADtulo)\|Wyrns]] y sacerdotes fjordell alteraron los textos históricos para hacer creer que Fjorden siempre había servido a Jaddeth con sagrado propósito.
 
-## Modern Shu-Dereth
->“*Once again, Arelon and Teod were the only two kingdoms in the known world who resisted Fjordell rule. This time, with the might of Jaddeth's holy calling behind it, Fjorden would prevail. Then, with all mankind united under Wyrn’s rule, Jaddeth could rise from His throne beneath the earth and reign in glorious majesty.*”
+## Shu-Dereth moderno
+>“*Una vez más, Arelon y Teod eran los dos únicos reinos que se resistían al dominio fjordell. Esta vez, con el poder de la llamada santa de Jaddeth detrás, Fjorden vencería. Luego, con toda la humanidad unida bajo el mandato del Wyrn, Jaddeth podría alzarse de Su trono subterráneo y reinar con gloriosa majestad.*”
 \-Hrathen[8]
 
-In the modern Derethi religion, he is often referred to as "Lord Jaddeth"; shortening his name to "Ja" is regarded as vulgar. The Fjordell believe Jaddeth to be the only extant god, and consider him to be omnipotent; he is said to have created mankind and remains capable of granting miracles. [[Svrakiss\|Svrakiss]] are thought to be the souls of the dead who wasted their chance to worship Jaddeth.
-Some of Jaddeth's original characteristics have remained despite the evolution in how he is worshipped, including the fact that he dwells underground rather than in the skies. He is said to slumber in the earth, waiting for a time when the whole world worships him to return and rule the world. This is cited as the justification for the Fjordell Empire's intent to conquer all of mankind. The "heathen" nations of [[Arelon\|Arelon]] and [[Teod\|Teod]] that have historically used [[AonDor\|AonDor]] and resisted the Fjordell are seen as threats to the empire and Jaddeth's will.
-The Fjordell Wyrn acts as Jaddeth's prophet, and is the only Derethi that is said to directly serve and speak to him. Each Wyrn issues proclamations that are said to be the actual words of Jaddeth. Followers of Shu-Dereth adhere to a strictly organized hierarchy that technically serves Wyrn rather than Jaddeth himself. They believe that Jaddeth rewards devotion in his followers, as well as ambition.
+En la religión derethi moderna, se le suele llamar "Señor Jaddeth"; acortar su nombre a "Ja" se considera vulgar. Los fjordell creen que Jaddeth es el único dios existente, y lo consideran omnipotente; se dice que creó a la humanidad y sigue siendo capaz de conceder milagros. Se cree que los [[Svrakiss\|svrakiss]] son las almas de los muertos que desperdiciaron su oportunidad de adorar a Jaddeth.
+Algunas de las características originales de Jaddeth han permanecido a pesar de la evolución en la forma en que es adorado, incluyendo el hecho de que habita bajo tierra en lugar de en los cielos. Se dice que duerme en la tierra, esperando el momento en que todo el mundo le adore para regresar y gobernar el mundo. Esto se cita como la justificación de la intención del imperio fjordell de conquistar a toda la humanidad. Las naciones "paganas" de [[Arelon\|Arelon]] y [[Teod\|Teod]] que históricamente han usado el [[AonDor\|AonDor]] y resistido a Fjorden son vistas como amenazas al imperio y a la voluntad de Jaddeth.
+El Wyrn fjordell actúa como profeta de Jaddeth, y es el único derethi que se dice que le sirve directamente y habla con él. Cada Wyrn emite proclamaciones que se dice que son las palabras reales de Jaddeth. Los seguidores del Shu-Dereth se adhieren a una jerarquía estrictamente organizada que técnicamente sirve al Wyrn más que al propio Jaddeth. Creen que Jaddeth recompensa la devoción en sus seguidores, así como la ambición.
 
-## Trivia
-Of the [[Shard\|Shards]] on Sel, Jaddeth is more of [[Dominion\|Dominion]] than [[Devotion\|Devotion]].
-In a deleted scene from *Elantris*, Hrathen refers to Jaddeth's "subterranean empire", reinforcing the Fjordell belief that Jaddeth lives underground.
-In an early idea for the [[Elantris sequel\|Elantris sequel]], the Derethi would claim that Jaddeth had awakened despite Fjorden's failure to capture Arelon and Teod.
+## Curiosidades
+De las [[Esquirla\|Esquirlas]] de Sel, Jaddeth es más de [[Dominio\|Dominio]] que de [[Devoci%C3%B3n\|Devoción]].
+En una escena eliminada de *Elantris*, Hrathen se refiere al "imperio subterráneo" de Jaddeth, reforzando la creencia de los fjordell de que Jaddeth vive bajo tierra.
+En una idea temprana para la [[Secuela de Elantris\|secuela de Elantris]], los derethi afirmarían que Jaddeth había despertado a pesar del fracaso de Fjorden en capturar Arelon y Teod.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 00:28, 18 June 2021 (UTC)
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
-https://coppermind.net/wiki/Jaddeth
+
+https://es.coppermind.net/wiki/Jaddeth

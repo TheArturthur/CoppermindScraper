@@ -1,14 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Urbene**|
 |-|-|
-|**Dominance**|[[Eastern Dominance\|Eastern Dominance]]|
-|**Nation**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Dominio**|[[Dominio Oriental\|Dominio Oriental]]🐱︎|
+|**Nación**|[[Imperio Final\|Imperio Final]]🐱︎|
+|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Urbene** was a small village in the [[Eastern Dominance\|Eastern Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. It lies about halfway between [[Erlac\|Erlac]] and the [[Conventical of Seran\|Conventical of Seran]].
-The village consisted of ten large wooden hovels built in a loose circle with a well in the center, and a [[Noble\|nobleman's]] manor a little farther up the valley. The [[Skaa\|skaa]] of Urbene were herdsmen. The village itself lay in a quiet hollow amid the rising landscape. It was described as picturesque.
-[[Sazed\|Sazed]] visited Urbene on his way to [[Luthadel\|Luthadel]]. He found the village full of corpses of skaa that had died from starvation and dehydration. They were too scared to leave their hovels as the [[Mists\|mists]] were out during the day, and had already killed skaa like [[Jell\|Jell]] who went outside. Only one of them survived because of cannibalism, and this crazed villager explained to Sazed what had happened there.
+**Urbene** era un pueblo pequeño en el [[Dominio Oriental\|Dominio Oriental]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Se encuentra a medio camino entre [[Erlac\|Erlac]] y el [[Convento de Seran\|Convento de Seran]].
+El pueblo consistía en diez grandes chozas de madera construidas en círculo con un pozo en el centro, y una mansión de un [[Noble\|noble]] un poco más arriba en el valle. Los [[Skaa\|skaa]] de Urbene eran ganaderos. El propio pueblo yacía en un tranquilo valle en medio del paisaje montañoso. Se describía como pintoresco.
+[[Sazed\|Sazed]] visitó Urbene de camino a [[Luthadel\|Luthadel]]. Encontró el pueblo lleno de cadáveres de skaa que habían muerto de hambre y deshidratación. Estaban demasiado asustados para dejar sus chozas mientras las [[Bruma\|brumas]] estaban fuera durante el día, porque ya habían matado a skaas como Jell cuando salieron afuera. Solo uno de ellos sobrevivió gracias al canibalismo, y este aldeano enloquecido le explicó a Sazed lo que había sucedido allí.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 21:00, 21 March 2023 (UTC)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Urbene
+https://es.coppermind.net/wiki/Urbene

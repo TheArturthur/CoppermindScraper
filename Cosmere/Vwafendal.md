@@ -1,61 +1,86 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Vwafendal**|
 |-|-|
-|**Family**|
-|**Descendants**|[[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
-|**Titles**|Elder|
-|**Profession**|[[Synod\|Synod]] Elder|
-|**Residence**|[[The Village\|The Village]]|
-|**Ethnicity**|[[Terris\|Terris]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Descendientes**|[[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Títulos**|Venerable|
+|**Oficio**|Venerable del [[S%C3%ADnodo\|Sínodo]]|
+|**Residencia**|[[La Aldea\|La Aldea]]|
+|**Etnia**|[[De Terris\|de Terris]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Vwafendal** is a [[Terris\|Terriswoman]] who lives in [[The Village\|The Village]] in [[Elendel\|Elendel]] in post-[[Catacendre\|Catacendre]] [[Scadrial\|Scadrial]]. She serves as an Elder of the [[Synod\|Synod]]. She is also the maternal grandmother of [[Waxillium Ladrian\|Waxillium]] and [[Telsin Ladrian\|Telsin Ladrian]].
+**Vwafendal** es una [[Terris\|terrisana]] que vive en [[La Aldea\|la Aldea]] en [[Elendel\|Elendel]] tras el [[Catacendro\|Catacendro]] de [[Scadrial\|Scadrial]]. Desempeña el cargo de venerable del [[Synod\|Synod]]. También es la abuela materna de [[Waxillium Ladrian\|Waxillium]] y [[Telsin Ladrian\|Telsin Ladrian]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Death of Forch
-2.2 After Wax's Departure
-
-
-3 Relationships
-
-3.1 Wax
-3.2 Wayne
-3.3 Wax's Father
+2. [[#Muerte de Forch]] 
+2. [[#Despu.C3.A9s de la partida de Wax]] 
 
 
-4 Notes
+3 Relaciones. [[#Relaciones]] 
+
+3. [[#Wax]] 
+3. [[#Wayne]] 
+3. [[#Padre de Wax]] 
 
 
-## Appearance and Personality
-Vwafendal is "stately", with dark skin and white hair that she wears in a braid. She wears Terris robes and she walks with a cane by choice. She does not yell, but she commands respect; younger Terris bow in her presence and it is easy to sense her disapproval. She is highly observant and was able to detect Wax lurking near her office. Teenagers who attempt to sneak out of The Village try to account for her location, as she is the biggest threat to catch them.
-She is a staunch advocate for Terris tradition, including the need for rules and order. She is insistent that the Terris can police themselves and that outside law enforcement is not necessary; she has a great deal of contempt for guns.
+4 Notas. [[#Notas]] 
 
-## History
-For years, Vwafendal told Wax (and presumably Telsin) that living in The Village among fellow Terris could change a person's life. Wax and Telsin eventually came to live with her when they were fifteen and sixteen years old, respectively. Their father had agreed to let them live there for one year, despite his brother [[Edwarn\|Edwarn's]] protests. During this time, Vwafendal was already a well-respected Elder in the Synod, and she maintained an office in the Synod Lodge. She also lived near the [[Elendel\|Tin Gate]], one of the primary passages between The Village and the rest of Elendel, and she kept an eye on people passing through the gate. She maintained a list of everyone in the city known to have [[Feruchemical\|Feruchemical]] blood.
 
-### Death of Forch
-One night, [[Kwashim\|Kwashim]], [[Forch\|Forch]], [[Idashwy\|Idashwy]], and Telsin planned to sneak out to go drinking, and Wax tagged along. Idashwy had seen Vwafendal called to her office for an emergency, and the group thought that it would be easy to sneak out through the gate near her house. However, Wax learned that the emergency involved a constable, and his curiosity was piqued. He left the group to listen at one of Vwafendal's windows. He overhead Vwafendal and the constable discussing an "anonymous tip" with evidence regarding a potential arson committed by Forch. Vwafendal verbally sparred with the constable, insisting that the Terris would handle the matter internally. The constable placed a bullet on Vwafendal's desk to remind her of a shooting in The Village fifteen years prior, which incensed her.
-After the constable left, Vwafendal called Wax in from his hiding place outside (having glimpsed him in a mirror) and told him that she knew he was the one who tipped off the constabulary. She counseled Wax, who was lonely and having a hard time reconciling his old life with the rules of The Village. Although Wax was studious, his pragmatism caused him to struggle with his faith in Terris traditions. He was frustrated that Forch was not being dealt with in a more severe manner. Vwafendal told him that she would speak to some of the other youths about befriending him, and that he should worry about meditation and let the Synod do its job.
-However, Wax soon discovered that Forch had not sneaked into the city with the other teens. He searched the area and was shocked to find Forch in a storage hall dissecting a young boy he had kidnapped. After a struggle, Wax killed Forch, and immediately knew that his grandmother and the rest of The Village would hate him for bringing violence into The Village and for being right.
+## Apariencia y personalidad
+Vwafendal es "majestuosa", con piel oscura y pelo blanco que lleva en una trenza. Usa túnicas de Terris y camina con un bastón aunque no lo necesita. Ella no grita, pero se hace respetar; los jóvenes terrisanos se inclinan ante su presencia y es fácil sentir su desaprobación. Es muy observadora y pudo detectar a Wax acechando cerca de su oficina. Los adolescentes que intentan escabullirse de la Aldea tratan de tener en cuenta su ubicación, ya que ella representa la mayor amenaza para atraparlos.
+Ella es una firme defensora de las tradiciones de Terris, incluyendo la necesidad de reglas y orden. Ella insiste en que los terrisanos pueden hacer cumplir la ley por sí mismos y que no es necesario un cuerpo de policía externo; siente un gran desprecio por las armas de fuego.
 
-### After Wax's Departure
-Wax left The Village and ended up in the [[Roughs\|Roughs]], and Vwafendal did not have contact with him for a number of years. After Wax returned to Elendel, he only grudgingly visited his grandmother a few times, knowing that they were likely to argue. On one such visit, Wax was seeking information about some murders that appeared to have been committed by a [[Steelrunner\|Steelrunner]]. Vwafendal spoke to Wax inside a traditional thatched log hut where she had a firepit. She and Wax expressed open contempt for each other's philosophies and lifestyles. Vwafendal claimed that she had changed in the last twenty years, but believed that Wax had not since he still did not know who he was. Although she previously seemed to scoff at the idea that [[Twinborn\|Twinborn]] should be feared, she now thought of them as dangerous, possibly owing to her experience with Forch (and Wax). She eventually told Wax that [[Idashwy\|Idashwy]], whom Wax knew in his youth, was the only Steelrunner she knows of that could have been involved in the murders. She hoped that Wax could apprehend her without killing her. Wax later sent a letter to Vwafendal informing her that he had found Idashwy's corpse.
+## Historia
+Durante años, Vwafendal le decía a Wax (y presumiblemente a Telsin) que vivir en la Aldea junto a otros terrisanos podía cambiar la vida de una persona. Wax y Telsin al final vinieron a vivir con ella cuando tenían quince y dieciséis años, respectivamente. Su padre había acordado permitirles vivir allí durante un año, a pesar de las protestas de su hermano [[Edwarn\|Edwarn]]. Durante ese tiempo, Vwafendal ya era una venerable muy respetada en el Sínodo, y mantenía una oficina en la Logia del Sínodo. Vivía cerca de la [[Elendel\|Puerta de Estaño]], uno de los principales pasajes entre la Aldea y el resto de Elendel, y ella vigilaba a las personas que pasaban por ella. Ella mantenía una lista de todas las personas en la ciudad que se sabía que tenían sangre [[Feruquimia\|feruquímica]].
 
-## Relationships
+### Muerte de Forch
+Una noche, [[Kwashim\|Kwashim]], [[Forch\|Forch]], [[Idashwy\|Idashwy]], y Telsin planeaban escaparse para ir a beber, y Wax se unió a ellos. Idashwy había visto a Vwafendal ser llamada a su oficina por una emergencia, y el grupo pensó que sería fácil escaparse a través de la puerta cerca de su casa. Sin embargo, Wax descubrió que la emergencia involucraba a un alguacil, y despertó su curiosidad. Dejó el grupo para escuchar en una de las ventanas de Vwafendal. Escuchó a Vwafendal y al alguacil discutir una "pista anónima" con pruebas relacionadas con un posible incendio provocado por Forch. Vwafendal discutió verbalmente con el alguacil, insistiendo en que los terrisanos se encargarían del asunto internamente. El policía colocó una bala en el escritorio de Vwafendal para recordarle un tiroteo ocurrido en la Aldea quince años atrás, lo cual la enfureció.
+Cuando el alguacil se fue, Vwafendal llamó a Wax desde su escondite fuera (habiéndolo visto fugazmente en un espejo) y le dijo que sabía que él era quien había dado el soplo a la policía. Ella aconsejó a Wax, quien se sentía solo y tenía dificultades para reconciliar su antigua vida con las reglas de la Aldea. Aunque Wax era estudioso, su pragmatismo le hizo cuestionar su fe en las tradiciones terrisanas. Estaba frustrado porque no se estaba tratando a Forch de manera más severa. Vwafendal le dijo que hablaría con otros jóvenes para que se hiciesen sus amigos, y que él debería preocuparse por la meditación y dejar que el Sínodo hiciese su trabajo.
+Sin embargo, Wax pronto descubrió que Forch no se había colado en la ciudad con los otros jóvenes. Registró el área y se sorprendió al encontrar a Forch en un almacén desmembrando a un niño pequeño que había secuestrado. Tras un forcejeo, Wax mató a Forch y de inmediato supo que su abuela y el resto de la Aldea lo odiarían por llevar la violencia allí y por tener razón.
+
+### Después de la partida de Wax
+Wax dejó la Aldea y terminó en [[Los %C3%81ridos\|los Áridos]], y Vwafendal no tuvo contacto con él durante varios años. Después de que Wax regresase a Elendel, visitó a su abuela solo a regañadientes unas pocas veces, sabiendo que probablemente discutirían. En una de esas visitas, Wax buscaba información sobre unos asesinatos que parecían haber sido cometidos por un [[Mensajero de acero\|mensajero de acero]]. Vwafendal habló con Wax dentro de una tradicional cabaña de troncos con techo de paja, donde tenía una hoguera. Ella y Wax expresaron un abierto desprecio por las filosofías y estilos de vida del otro. Vwafendal afirmaba que había cambiado en los últimos veinte años, pero creía que Wax no lo había hecho, ya que aún no sabía quién era realmente. Aunque anteriormente parecía burlarse de la idea de que se debía temer a los [[Nacidoble\|nacidobles]], ahora pensaba que eran peligrosos, posiblemente debido a su experiencia con Forch (y Wax). Ella en un momento le dijo a Wax que [[Idashwy\|Idashwy]], a quien Wax conoció en su juventud, era la única mensajera de acero que ella conocía que podría haber estado involucrada en los asesinatos. Esperaba que Wax pudiera apresarla sin matarla. Wax más tarde envió una carta a Vwafendal informándole que había encontrado el cadáver de Idashwy.
+
+## Relaciones
 ### Wax
-Vwafendal seemed to care for Wax in his youth, and she expressed empathy regarding his difficulty fitting in anywhere due to his mixed heritage. However, she was also steadfast in her adherence to Terris tradition, and believed that Terris people should live in a way rooted in that tradition rather than integrating into the modern society of Elendel. She told Wax to embrace his Terris side and insisted on calling him by his Terris name, Asinthew. Wax sometimes calls her "grandmother V".
-After Wax killed Forch and then went to the Roughs to become a lawman, a wedge was driven between Vwafendal and Wax that persisted for several decades. She still despises guns and blames Wax for the events surrounding Forch's death. Wax is unapologetic and tells her to hate him if she must; they are barely able to be civil with one another.
+Vwafendal parecía preocuparse por Wax en su juventud y mostraba empatía hacia las dificultades que enfrentaba al no encajar en ningún lugar debido a su herencia mixta. Sin embargo, también era firme en su adhesión a la tradición de Terris y creía que las personas terrisanas debían vivir de acuerdo con esa tradición en lugar de integrarse en la sociedad moderna de Elendel. Le dijo a Wax que abrazase su lado terrisano e insistió en llamarlo por su nombre terrisano, Asinthew. Wax a veces la llama "abuela V".
+Después de que Wax matase a Forch y se fuese a los Áridos para convertirse en un agente de la ley, se creó una brecha entre Vwafendal y Wax que persistió durante varias décadas. Ella todavía desprecia las armas de fuego y culpa a Wax por los eventos relacionados con la muerte de Forch. Wax no se disculpa y le dice que si ella necesita odiarlo, que lo haga; apenas pueden mantener las formas el uno con el otro.
 
 ### Wayne
-Due to his dislike of The Village, Wax usually sends [[Wayne\|Wayne]] there whenever they are seeking information. Wayne claims that Vwafendal likes him.
+Debido a su desagrado por la Aldea, Wax generalmente envía a Wayne allí cada vez que buscan información. Wayne afirma que Vwafendal le tiene simpatía.
 
-### Wax's Father
-When Wax was in Vwafendal's hut, some childhood memories come back to him, and one of the memories is of his father and grandmother arguing. Wax notes that his grandmother had long wanted her grandchildren to live in The Village, and she was likely frustrated by the reluctance of Wax's father to allow them to do so. She also seems to speak of him with disdain when explaining that she believes "Asinthew" to be Wax's true name, claiming that his father "did not have the right" to name him.
+### Padre de Wax
+Cuando Wax estaba en la choza de Vwafendal, algunos recuerdos de su infancia regresaron a él, y uno de esos recuerdos es de su padre y su abuela discutiendo. Wax señala que su abuela había deseado durante mucho tiempo que sus nietos vivieran en la Aldea, y probablemente se frustró por la renuencia de su padre a permitirlo. También parece hablar de él con desprecio al explicar que cree que "Asinthew" es el verdadero nombre de Wax, afirmando que su padre "no tenía el derecho" de ponerle el nombre.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 23:37, 9 October 2019 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Vwafendal
+https://es.coppermind.net/wiki/Vwafendal

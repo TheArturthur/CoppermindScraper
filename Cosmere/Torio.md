@@ -1,30 +1,43 @@
+
+
 |**Torio**|
 |-|-|
-|**World**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo**|[[Komashi\|Komashi]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Yumi and the Nightmare Painter*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Torio** is a kingdom on [[Komashi\|Komashi]] that was destroyed by the [[Father machine\|father machine]], it continued to exist as a simulation made from Investiture in several localized areas to serve as prisons for the [[Yoki-hijo\|yoki-hijo]] who survived the great reaping of souls that occurred upon the machine's activation.
+**Torio** es un reino en [[Komashi\|Komashi]] que fue destruido por la [[M%C3%A1quina padre\|máquina padre]], continuó existiendo como una simulación hecha de Investidura en varias áreas localizadas para servir como prisión de las [[Yoki-haijo\|yoki-haijo]] que sobrevivieron la gran siega de almas que ocurrió al activarse la máquina.
 
-## Contents
+## Sumario
 
-1 History
-2 Culture
-3 Settlements
-4 Notes
+1 Historia. [[#Historia]] 
+2 Cultura. [[#Cultura]] 
+3 Asentamientos. [[#Asentamientos]] 
+4 Notas. [[#Notas]] 
 
 
-## History
-It was destroyed by the [[Father machine\|father machine]] one-thousand seven-hundred and sixty-three years before the machine was eventually destroyed. Upon its activation, due to poorly created [[Command\|Commands]], it conflated [[Hijo\|hijo]] and the souls of men, and absorbed both all across the planet, leading to the genocide of all of Torio and the creation of the [[Shroud\|shroud]] that covers all of Komashi. The only survivors were the nomads who lived at the edge of civilization and a few yoki-hijo, who were too heavily Invested to be killed by the machine, and thus were kept in Investiture-based simulations of Torio in localized areas hidden in the shroud, and made to repeat the same day ad infinitum, constantly having their memory of the day erased.
+## Historia
+Fue destruido por la [[M%C3%A1quina padre\|máquina padre]] mil setecientos sesenta y tres años antes de que la máquina fuera destruida. Al activarse, a causa de unos [[Mandato\|Mandatos]] deficientemente creados, no hizo distinción entre los [[Haijo\|haijo]] y las almas de las personas, y absorbió ambos tipos de todas partes del planeta, llevando al genocidio de todo Torio y a la creación de la [[Mortaja\|mortaja]] que cubre todo Komashi. Los únicos supervivientes fueron los nómadas que vivían en los confines de la civilización y unas pocas yoki-haijo, que estaban demasiado Investidas para que la máquina las matara. Estas últimas fueron mantenidas en simulaciones creadas con Investidura en Torio, en áreas localizadas y escondidas en la mortaja, donde se repetía el mismo día una y otra vez hasta el infinito, constantemente borrando sus memorias.
 
-## Culture
-They have a culture that deeply values the role of the yoki-hijo, as they provided many important devices required to survive and thrive. They also see them as very important figures in their religion, and deeply revere them.
+## Cultura
+Su cultura valora mucho el papel de las yoki-haijo, ya que les proporcionan muchos de los importantes aparatos que necesitan para sobrevivir. También las ven como figuras muy importantes en su religión, y las veneran profundamente.
 
-## Settlements
-[[Torio City\|Torio City]]
-[[Gongsha Town\|Gongsha Town]]
+## Asentamientos
+[[Ciudad Torio\|Ciudad Torio]]
+[[Pueblo de Gongsha\|Pueblo de Gongsha]]
 [[Ihosen\|Ihosen]]
+## Notas
+
+Este artículo es muy corto. Por favor, ayuda a The Coppermind .
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] ·  · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
-https://coppermind.net/wiki/Torish
+
+
+
+https://es.coppermind.net/wiki/Torio

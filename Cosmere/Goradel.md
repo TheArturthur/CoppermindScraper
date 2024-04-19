@@ -1,65 +1,91 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Goradel**|
 |-|-|
-|**Family**|
-|**Descendants**|[[Claude Aradel\|Claude Aradel]]|
-|**Died**|1025 [[Final Empire\|FE]]|
-|**Groups**|Venture army|
-|**Ethnicity**|[[Skaa\|Skaa]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Descendientes**|[[Claude Aradel\|Claude Aradel]]|
+|**Fallecido**|1025 [[Imperio Final\|IF]]|
+|**Grupo**|Ejército de Venture|
+|**Etnia**|[[Skaa\|Skaa]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Goradel** was a [[Skaa\|skaa]] on [[Scadrial\|Scadrial]]. He was in the [[Lord Ruler\|Lord Ruler's]] army but joined the [[Skaa rebellion\|skaa rebellion]] on the night of the [[Collapse\|Collapse]]. He became captain under [[Elend Venture\|Elend Venture]] and was head of [[Sazed\|Sazed's]] and [[Spook\|Spook's]] guard during the [[Coup of Urteau\|Coup of Urteau]]. [[Marsh\|Marsh]] killed him while he was carrying [[Spook's note\|Spook's note]] to Vin.
+**Goradel** era un [[Skaa\|skaa]] en [[Scadrial\|Scadrial]]. Estaba en el ejército del [[Lord Legislador\|lord Legislador]], pero se unió a la [[Revuelta skaa\|revuelta skaa]] en la noche del [[Colapso\|Colapso]]. Se convirtió en capitán a las órdenes de [[Elend Venture\|Elend Venture]] y fue jefe de la guardia de [[Sazed\|Sazed]] y [[Fantasma\|Fantasma]] durante el [[Golpe de Urteau\|Golpe de Urteau]]. [[Marsh\|Marsh]] lo mató mientras llevaba la nota de [[Fantasma\|Fantasma]] a Vin.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Early life
-2.2 Guard at Kredik Shaw
-2.3 Siege of Luthadel
-2.4 Coup of Urteau
-2.5 Messenger
-
-
-3 Quotes
-4 Trivia
-5 Notes
+2. [[#Vida temprana]] 
+2. [[#Guardia en Kredik Shaw]] 
+2. [[#Asedio de Luthadel]] 
+2. [[#Golpe de Urteau]] 
+2. [[#Mensajero]] 
 
 
-## Appearance and Personality
-Goradel is a young, fair looking man. He has a square jaw and is slightly bald.
-He is proud and felt guilty about joining the Lord Ruler, but thought it was necessary in order to survive.
-The man usually is in a good temper, although he could get tense after spending more time in [[Urteau\|Urteau]].
-According to [[Spook\|Spook]] Goradel could be easily overlooked with his directness and courtly manners, but he is determined, trustworthy and someone to count on. He doesn't like the idea of being sacrificial, but won't let that hinder his dedication.
-
-## History
-### Early life
-Goradel grew up with his family in Luthadel, but they worked on the fields outside the city. When he couldn't endure the hopelessness of that work any longer, Goradel joined the [[Lord Ruler\|Lord Ruler's]] army and was disowned by his family.
-
-### Guard at Kredik Shaw
-When [[Vin\|Vin]] infiltrated [[Kredik Shaw\|Kredik Shaw]] on the night of the [[Collapse\|Collapse]] Goradel was on guard outside. Vin could easily have killed him and the other guards, but convinced them to join the rebellion. Goradel was the first of them to rip off his insignia and leave Kredik Shaw.
-Somehow Goradel managed to find [[Dockson\|Dockson]] in the chaos of the Collapse, and tells him that Vin is captured by an [[Inquisitor\|Inquisitor]]. Then [[Elend Venture\|Elend Venture]] is brought in, and he and Goradel team up to rescue Vin out of Kredik Shaw.
-Goradel leads Elend and five of the latter's soldiers into the dungeons of Kredik Shaw, where they encounter Vin and [[Sazed\|Sazed]] who have already broken free but are surrounded by at least twenty enemy guards. Goradel, Elend and his soldiers start attacking the guards to distract them from Vin and Sazed, but Vin finds a last flagon with [[Allomancy\|metals]] and deals with the guards in a matter of seconds.
-
-### Siege of Luthadel
-During the [[Siege of Luthadel\|Siege of Luthadel]] Goradel was part of the scout squad for undermining activities in Elend's army. He voluntarily answered Elend's call to help keeping the skaa in [[Luthadel\|Luthadel]] warm. He comes to report to Elend and [[Demoux\|Demoux]] that all of the furniture in abandoned houses is already removed, but that most roofs and inner walls of these buildings are also constructed of wood and can be demolished to burn.
-
-### Coup of Urteau
-Meanwhile Goradel was promoted to captain by [[Ham\|Ham]]. He was head and spokesman of the guard that accompanied Sazed, [[Breeze\|Breeze]] and [[Allrianne\|Allrianne]] during their journey to [[Urteau\|Urteau]] and the [[Coup of Urteau\|Coup of Urteau]]. He and his men were responsible for keeping a watch over Sazed, ambassador of the [[New Empire\|New Empire]], guarding their headquarters at the Lord Ruler's storage cavern in Urteau, and make sure that [[Beldre\|Beldre]] wouldn't escape. Whenever possible Goradel kept watch over Sazed personally. After spending more time in Urteau Goradel tended to primarily look to [[Spook\|Spook]] for commands instead of Sazed.
-
-### Messenger
-When Spook woke up for the first time after the Coup of Urteau, he told his visitors that he urgently needed to send a message to Vin. Breeze replied [[Brass\|Soothing]] that he should rest, but Goradel offered to deliver the message himself because Vin once spared his life, and thus is willing to risk his life for her. He departed with [[Spook's note\|Spook's note]], which warned her that [[Ruin\|Ruin]] was able to manipulate people who had metal inside of their body.
-Somewhere on his way to Vin, the latter being on her way to [[Luthadel\|Luthadel]], Goradel was approached by [[Inquisitor\|Inquisitor]] [[Marsh\|Marsh]] who attacked Goradel and his horse. Goradel was already worn out from making his way through the ash, but was still able to offer quite some resistance to Marsh. After failing to pull out the Inquisitor's back spike, he attempted to cut Marsh sinews with a knife he had hidden in one of his boots, but received a fatal kick in the chest upon which Marsh killed him with an axe.
-
-## Quotes
->“*I don’t feel very expendable.*”
-\-Goradel to Sazed on being captured in Urteau[9]
+3 Citas. [[#Citas]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-## Trivia
-Goradel is based on Richard Gordon, a friend of [[Brandon\|Brandon's]].
-[[Claude Aradel\|Claude Aradel]] is a descendant of Goradel.
+## Apariencia y personalidad
+Goradel es un hombre joven y de aspecto agradable. Tiene la mandíbula cuadrada y es ligeramente calvo.
+Es orgulloso y se siente culpable por haberse unido al lord Legislador, pero pensó que era necesario para sobrevivir.
+El hombre suele estar de buen humor, aunque podría ponerse tenso tras pasar más tiempo en [[Urteau\|Urteau]].
+Según [[Fantasma\|Fantasma]], Goradel podría pasar desapercibido fácilmente por su franqueza y sus modales corteses, pero es decidido, digno de confianza y alguien con quien se puede contar. No le gusta la idea de ser sacrificado, pero no deja que eso impida su dedicación.
+
+## Historia
+### Vida temprana
+Goradel creció con su familia en Luthadel, pero trabajaban en los campos de las afueras de la ciudad. Cuando no pudo soportar por más tiempo la desesperación de ese trabajo, Goradel se unió al ejército del lord Legislador y fue repudiado por su familia.
+
+### Guardia en Kredik Shaw
+Cuando [[Vin\|Vin]] se infiltró en [[Kredik Shaw\|Kredik Shaw]] la noche del [[Colapso\|Colapso]] Goradel estaba de guardia en el exterior. Ella podría haberlo matado fácilmente tanto a él como a los demás guardias, pero los convenció para que se unieran a la rebelión. Goradel fue el primero de ellos en arrancarse la insignia y abandonar Kredik Shaw.
+De algún modo, Goradel consiguió encontrar a [[Dockson\|Dockson]] en el caos del Colapso, y le dice que Vin ha sido capturada por un [[Inquisidor\|Inquisidor]]. Entonces llega [[Elend Venture\|Elend Venture]], y él y Goradel se unen para rescatar a Vin de Kredik Shaw.
+Goradel conduce a Elend y a cinco soldados de éste a las mazmorras de Kredik Shaw, donde se encuentran con Vin y [[Sazed\|Sazed]], que ya se han liberado pero están rodeados por al menos veinte guardias enemigos. Goradel, Elend y sus soldados comienzan a atacar a los guardias para distraerlos de Vin y Sazed, pero ella encuentra un último frasco con [[Alomancia\|metales]] y se encarga de los guardias en cuestión de segundos.
+
+### Asedio de Luthadel
+Durante el [[Asedio de Luthadel\|Asedio de Luthadel]] Goradel formó parte del escuadrón de exploradores para las actividades de socavación del ejército de Elend. Respondió voluntariamente a la llamada de Elend para ayudar a mantener calientes a los skaa en [[Luthadel\|Luthadel]]. Viene a informar a Elend y a [[Demoux\|Demoux]] de que ya se han retirado todos los muebles de las casas abandonadas, pero que la mayoría de los tejados y las paredes interiores de estos edificios también están construidos de madera y se pueden demoler para quemarlos.
+
+### Golpe de Urteau
+Mientras tanto, Goradel fue ascendido a capitán por [[Ham\|Ham]]. Fue jefe y portavoz de la guardia que acompañó a Sazed, [[Brisa\|Brisa]] y [[Allrianne\|Allrianne]] durante su viaje a [[Urteau\|Urteau]] y el [[Golpe de Urteau\|Golpe de Urteau]]. Él y sus hombres se encargaron de custodiar a Sazed, embajador del [[Nuevo Imperio\|Nuevo Imperio]], de vigilar su cuartel general en la caverna de almacenamiento del lord Legislador en Urteau, y de asegurarse de que [[Beldre\|Beldre]] no escapara.{{book ref|mb3|49} Siempre que era posible, Goradel custodiaba personalmente a Sazed. Después de pasar más tiempo en Urteau, Goradel tendía a buscar principalmente a [[Fantasma\|Fantasma]] para que le diera órdenes en lugar de a Sazed.
+
+### Mensajero
+Cuando Fantasma despertó por primera vez tras el Golpe de Urteau, dijo a sus visitas que necesitaba enviar urgentemente un mensaje a Vin. Brisa respondió [[Lat%C3%B3n\|aplacándole]] y diciendole que debía descansar, pero Goradel se ofreció a entregar el mensaje él mismo porque Vin le perdonó la vida una vez, y por eso está dispuesto a arriesgar la suya por ella. Partió con la nota de [[Fantasma\|Fantasma]], que le advertía de que [[Ruina\|Ruina]] era capaz de manipular a la gente que tenía metal dentro de su cuerpo.
+En algún lugar de su camino hacia Vin, estando ella de camino a [[Luthadel\|Luthadel]], Goradel fue abordado por el [[Inquisidor\|Inquisidor]] [[Marsh\|Marsh]] que atacó a Goradel y a su caballo. Goradel ya estaba agotado de abrirse paso entre la ceniza, pero aún pudo ofrecer bastante resistencia a Marsh. Tras fracasar en su intento de arrancar el clavo de la espalda del Inquisidor, intentó cortar los tendones de Marsh con un cuchillo que llevaba escondido en una de sus botas, pero recibió una patada mortal en el pecho, tras la cual Marsh lo mató con un hacha. 
+
+## Citas
+>“*No me siento muy sacrificable.*”
+\-Goradel a Sazed sobre ser capturados en Urteau[9]
 
 
-https://coppermind.net/wiki/Goradel
+## Curiosidades
+Goradel se basa en Richard Gordon, un amigo de [[Brandon\|Brandon]].
+[[Claude Aradel\|Claude Aradel]] es un descendiente de Goradel.
+## Notas
+
+
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Goradel

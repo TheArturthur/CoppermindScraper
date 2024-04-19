@@ -1,38 +1,57 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Relu-na**|
 |-|-|
-|by  ephermeres |
-|**Type**|Greatshell island|
-|**Sapient**|Yes|
-|**Native to**|[[Reshi Sea\|Reshi Sea]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|Isla Grancaparazón|
+|**Racional**|Si|
+|**Nativo de**|[[Reshi Sea\|Reshi Sea]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Relu-na** is a [[Tai-na\|Tai-na]] in the [[Reshi Sea\|Reshi Sea]] on [[Roshar\|Roshar]]. A [[Greatshell\|greatshell]] the size of an island, she is worshiped as a god by her inhabitants.
+**Relu-na** es una [[Tai-na\|Tai-na]] en el [[Mar Reshi\|Mar Reshi]] en [[Roshar\|Roshar]]. Una [[Grancaparaz%C3%B3n\|grancaparazón]] del tamaño de una isla, adorada como una diosa por sus habitantes.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Inhabitants
-4 Notes
-
-
-## Appearance and Personality
- by  Marie Seeberger  [[Rysn\|Rysn]] sailing towards Relu-na
-For more information, see [[Tai-na\|Tai-na]].
-Like other Tai-na, Relu-na has grown to extraordinary size due to a [[Spren\|spren]] bond related to her [[Gemheart\|gemheart]] that allows her body to defy the laws of physics. [[Rysn\|Rysn]] believes that Relu-na is as large as a town. One of Relu-na's eyes is described as a "the size of a house" and it is situated more than fifty feet from the top of her head. She has a massive mouth with huge mandibles. She is referred to as female by [[Gu\|Gu]].
-Relu-na's shell has the appearance of a mountainous island jutting out from the ocean with no beach. She is not immediately identifiable as a living being, but when she moves it becomes easier to see that she has legs. She has a stony carapace covered with an array of plant life including moss, trees, [[Shalebark\|shalebark]], and [[Rockbud\|rockbuds]]. The plants grow as thick as a jungle or forest over most of the shell, but relatively few plants grow on the head. The shell has protrusions near the waterline that are used as docks by the residents of the island; stairs have also been cut into the shell. The sea is unusually warm near Relu-na and Rysn compares the water to that of the [[Purelake\|Purelake]].
-Relu-na appears to be ancient, as Tai-na are very long-lived. The natives feed Relu-na fruit, but only as a treat; they do not divulge her primary food source. The Tai-na are sentient, and the Reshi people believe that they are also sapient and capable of decision-making. Gu mentions that when two Tai-na approach each other, they decide what will happen next—a war, or something "good".
-
-## History
- by  botanicaxu  [[Rysn\|Rysn]] swinging in front of Relu-na's head
-Rysn and [[Vstim\|Vstim]] visited Relu-na hoping to trade for a [[Larkin\|larkin]] corpse. Rysn was shocked by the existence of Tai-na and was unfamiliar with the island's culture. She and her guards were led on a long hike up to Relu-na's head to meet the king, [[Ral-na\|Ral-na]]. On the way, they encountered [[Axies the Collector\|Axies the Collector]], who had been visiting Relu-na as part of his ongoing spren research. Axies had tried to investigate the Tai-na spren, possibly [[Mandra\|mandras]], but the natives refused to discuss it and instead bound his feet and hung him upside-down.
-Upon reaching Relu-na's head, Rysn attempted to trade with the natives. Unbeknownst to Rysn, Vstim had actually trained the king's son, [[Talik\|Talik]], and had covertly arranged for him to be tough on Rysn as a training exercise. However, Rysn became so frustrated by the negotiation that she made a bold attempt to gain the trust of the natives. She climbed down a rope suspended hundreds of feet over the ocean and attempted to address Relu-na directly, but fell when the rope snapped. She survived the fall, and Vstim later told her that the island's spren somehow saved her life. Rysn says she was trying to gain respect after Vstim and Talik repeatedly insisted that Relu-na placed a great deal of value on boldness; after her bold yet reckless act, the island somehow gifted her a living larkin.
-When Rysn later wrote to Talik regarding her worries about [[Chiri-Chiri\|Chiri-Chiri's]] deteriorating health, Talik and the king were in [[Azimir\|Azimir]]. Talik wrote to the inhabitants of the island, and the king's consort approached Relu-na, who somehow indicated that Chiri-Chiri needed be taken home to [[Akinah\|Akinah]].
-
-## Inhabitants
-Relu-na's residents are typical for a Tai-na, and include both native Reshi and expatriates from other parts of Roshar. The residents generally lead a relaxed lifestyle and often spend their time swimming and diving. The island is ruled by a king, who has authority over the soldiers and would lead them in battle if necessary.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Habitantes. [[#Habitantes]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+  <<Rysn\|Rysn>> navegando hacia Relu-na
+Para más información, ver [[Tai-na\|Tai-na]].
+Como otros Tai-na, Relu-na ha crecido hasta un tamaño extraordinario debido a un vínculo [[Spren\|spren]] relacionado con su [[Gema coraz%C3%B3n\|gema corazón]] que permite a su cuerpo desafiar las leyes de la física. [[Rysn\|Rysn]] cree que Relu-na es tan grande como una ciudad. Uno de los ojos de Relu-na es descrito como «del tamaño de una casa» y está situado a más de cincuenta y cinco pies de la parte de arriba de su cabeza. Tiene una boca masiva con enormes mandíbulas. [[Gu\|Gu]] se refiere a ella en femenino.
+El caparazón de Relu-na tiene la apariencia de una isla montañosa que sobresale del océano sin playa. No es inmediatamente identificable como ser vivo, pero cuando se mueve se vuelve más fácil ver que tiene patas. Tiene un caparazón rocoso cubierto con un conjunto de plantas, árboles, [[Cortezapizarra\|cortezapizarra]] y [[Rocabrote\|rocabrotes]]. La vegetación es tan densa como una jungla o un bosque en la mayor parte del caparazón, pero relativamente pocas plantas crecen en la cabeza. El caparazón tiene protrusiones cerca del nivel del mar que son usados como muelles por los residentes de la isla; también hay escaleras excavadas en el caparazón. El mar es inusualmente cálido cerca de Relu-na y Rysn compara el agua con la del [[Lagopuro\|Lagopuro]].
+Relu-na parece ser antigua, pues los Tai-na son muy longevos. Los nativos alimentan a Relu-na con fruta, pero solo como premio; no divulgan su principal fuente de comida. Los Tai-na son conscientes, y la gente reshi cree que también son sapientes y capaces de tomar decisiones. Gu menciona que cuando dos Tai-na se acercan mutuamente, deciden qué pasará a continuación— una guerra, o algo «bueno».
 
-https://coppermind.net/wiki/Relu-na
+## Historia
+  <<Rysn\|Rysn>> colgando frente a la cabeza de Relu-na
+Rysn y [[Vstim\|Vstim]] visitaron Relu-na esperando intercambiar por un cadáver de [[Larkin\|larkin]]. Rysn quedó impactada por la existencia de Tai-na y le resultó extraña la cultura de la isla. Ella y sus guardias fueron llevados con una larga caminata hasta la cima de la cabeza de Relu-na para reunirse con el rey, [[Ral-na\|Ral-na]]. De camino, se encontraron con [[Axies el Coleccionista\|Axies el Coleccionista]], que había estado visitando Relu-na como parte de su investigación de spren en curso. Axies había intentado investigar a los spren Tai-na, posiblemente [[Mandra\|mandras]], pero los nativos se negaron a discutirlo y en su lugar le ataron los pies y lo colgaron bocabajo.
+Al llegar a la cabeza de Relu-na, Rysn trató de comerciar con los nativos. Sin que Rysn lo supiera, Vstim de hecho había entrenado al hijo del rey, [[Talik\|Talik]], y lo había arreglado en secreto para que fuese duro con Rysn como ejercicio de entrenamiento. Sin embargo, Rysn se frustró tanto por la negociación que hizo un intento osado de ganarse la confianza de los nativos. Se descolgó por una cuerda suspendida cientos de pies sobre el océano y trató de dirigirse a Relu-na directamente, pero cayó al romperse la cuerda. Sobrevivió a la caída, y Vstim le dijo más tarde que el spren de la isla le había salvado la vida de alguna manera. Rysn dice que estaba tratando de ganarse el respeto después de que Vstim y Talik repetidamente insistieran en que Relu-na daba mucho valor a la osadía; tras su acto valiente aunque temerario, la isla de alguna manera la recompensó con una larkin viviente.
+Cuando Rysn escribió más tarde a Talik respecto a sus preocupaciones sobre el deteriorod e la salud de [[Chiri-Chiri\|Chiri-Chiri]], Talik y el rey estaban en [[Azimir\|Azimir]]. Talik escribió a los habitantes de la isla, y la consorte del rey se acercó ad Relu-na, que de alguna forma indicó que Chiri-Chiri necesitaba regresar a su hogar en [[Akinah\|Akinah]].
+
+## Habitantes
+Los residentes de Relu-na son típicos para un Tai-na, e incluyen tanto nativos reshi como expatriados de otras partes de Roshar. Los residentes generalmente llevan un estilo de vida relajado y a menudo pasan su tiempo nadando y buceando. La isla está gobernada por un rey, que tiene autoridad sobre los soldados y los liderará a la batalla de ser necesario.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 22:25, 21 April 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Relu-na

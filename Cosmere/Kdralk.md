@@ -1,43 +1,63 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kdralk**|
 |-|-|
-|**Parents**|[[Fen Rnamdi\|Fen Rnamdi]], [[Kmakl\|Kmakl]]|
-|**Titles**|Captainlord|
-|**Profession**|Soldier|
-|**Residence**|[[Thaylen City\|Thaylen City]]|
-|**Ethnicity**|[[Thaylen\|Thaylen]]|
-|**Nationality**|[[Thaylen\|Thaylen]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Padres**|[[Fen\|Fen]], [[Kmakl\|Kmakl]]|
+|**Títulos**|Capitán|
+|**Oficio**|Soldado|
+|**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*I regret only that I didn't speak loudly enough for you to hear the insults, despot.*”
-\-Kdralk to Dalinar[1]
-
-
-**Kdralk** is the only known son of Queen [[Fen Rnamdi\|Fen Rnamdi]] of [[Thaylenah\|Thaylenah]] and her prince consort, [[Kmakl\|Kmakl]]. As Thaylenah is an elective monarchy, he's unlikely to inherit the crown.
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Notes
+>“*Solo lamento no haber hablado lo bastante fuerte para que oyeras los insultos, déspota.*”
+\-Kdralk a Dalinar[1]
 
 
-## Appearance and Personality
-Kdralk is a young man, likely in his twenties. He's Thaylen, and has the characteristic long eyebrows of his people, which he wears spiked. As the son of a queen, he's most likely a [[Lighteyes\|lighteyes]].
-He's enthusiastic, and wears his heart on his sleeve, always making his feelings and opinions clear. He does, however, have a short temper, and it's easy to goad him into losing it. Nonetheless, he's capable of thinking critically and when the push comes to shove, he's cautious. In a fight, he has good reflexes, holding back when necessary, though he can become frantic when pressed for time. Once presented with enough evidence, he's quick to change his opinion on others When not hostile, he's exuberant and friendly.
-He's on good terms with his fellow officers, with numerous friends among them, and cares deeply about his parents. After initially despising [[Dalinar\|Dalinar]] for what he knows of the Blackthorn, he comes to admire him, and becomes eager to hang around him.
+**Kdralk** es el único hijo conocido de la reina [[Fen\|Fen]] de [[Thaylenah\|Thaylenah]] y su consorte, [[Kmakl\|Kmakl]]. Como Thaylenah es una monarquía electiva, es poco probable que herede la corona.
 
-## Attributes and Abilities
-Kdralk is a captainlord in the Thaylen military. He has a keen understanding of naval warfare and strategy. He's a skilled swordsman, and while not a [[Shardbearer\|Shardbearer]], he has trained with the [[Stances\|Stances]]. He's also familiar with politics of Thaylenah and Rosharan economics, and can readily grasp the implications [[Oathgate\|Oathgates]] have on both of them.
-He's fluent in the [[Alethi\|Alethi]] language, although he speaks with a heavy accent, mashing the words together.
+## Sumario
 
-## History
-Kdralk was present when [[Dalinar Kholin\|Dalinar Kholin]] visited [[Thaylen City\|Thaylen City]] for the first time. He was a member of a group of young Thaylen officers who were highly critical of the alliance with [[Urithiru\|Urithiru]], prompting Dalinar to goad him into issuing the challenge to the Blackthorn. After Kdralk managed to land a strike, Dalinar used [[Stormlight\|stormlight]] to heal himself, sending the younger man into shock. This changed Kdralk's attitude, and he began to almost hero-worship Dalinar, even taking his bloodied shirt.
-He later came with his mother to Urithiru, and was an active participant in the multiple strategy meetings held there. After Dalinar suggested sending [[Alethi\|Alethi]] battalions to Thaylenah, Kdralk was the one to point out that strategy works differently on the sea than on land. When Dalinar revisited Thaylen City to examine its defenses, he was part of the group that was showing him around. During the subsequent meeting, he made a point of sitting next to [[Renarin\|Renarin]].
-During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Kdralk took part in the fighting. After [[Adolin\|Adolin]] managed to return to the [[Physical Realm\|Physical Realm]], he met with him, and together they pushed onward to aid Fen and [[Kmakl\|Kmakl]] in a different part of the city. After they managed to join them, Fen sent Kdralk to recover the [[Shardblade\|Shardblade]] of a fallen Thaylen Shardbearer, [[Estnatil\|Estnatil]], who had died when a [[Thunderclast\|Thunderclast]] had broken through the wall. He was additionally told by Adolin to try and hold the city's Low Ward against [[Odium\|Odium's]] forces.
-His ultimate fate isn't specified; however, as Fen wasn't seen grieving after the battle, it's highly likely he survived.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+Kdralk es un hombre joven, probablemente de unos veinte años. Es thayleño y tiene las características cejas largas de su pueblo, que lleva en punta. Como hijo de una reina, lo más probable es que sea un [[Ojos claros\|ojos claros]].
+Es entusiasta y muestra sus sentimientos sin reservas, siempre dejando claras sus emociones y opiniones. Sin embargo, tiene mal genio y es fácil hacerle perder los nervios. No obstante, es capaz de pensar críticamente y, a la hora de la verdad, es prudente. En una pelea, tiene buenos reflejos, conteniéndose cuando es necesario, aunque puede volverse frenético cuando se ve presionado por el tiempo. Una vez que se le presentan suficientes pruebas, cambia rápidamente su opinión sobre los demás Cuando no es hostil, es exuberante y amistoso.
+Mantiene buenas relaciones con sus compañeros, entre los que tiene numerosos amigos. Se preocupa mucho por sus padres. Tras despreciar en un principio a [[Dalinar\|Dalinar]] por lo que sabe del Espina Negra, llega a admirarlo y se muestra ansioso por estar a su lado.
 
-https://coppermind.net/wiki/Kdralk
+## Atributos y habilidades
+Kdralk es capitán del ejército thayleño. Posee un profundo conocimiento de la guerra y la estrategia navales. Es un hábil espadachín y, aunque no es [[Portador de esquirlada\|portador de esquirlada]], se ha entrenado con las [[Postura B%C3%A1sica\|posiciones]]. También está familiarizado con la política económica de Thaylenah y Roshar, comprendiendo fácilmente las implicaciones que la [[Puerta Jurada\|Puerta Jurada]] tiene en ambas.
+Domina el idioma [[Alezi\|alezi]], aunque habla con un fuerte acento, mezclando las palabras.
+
+## Historia
+Kdralk estuvo presente cuando [[Dalinar Kholin\|Dalinar Kholin]] visitó [[Ciudad Thaylen\|Ciudad Thaylen]] por primera vez. Formaba parte de un grupo de jóvenes oficiales thayleños muy críticos con la alianza con [[Urithiru\|Urithiru]], lo que llevó a Dalinar a incitarle a lanzar un desafío al Espina Negra. Después de que Kdralk consiguiera asestarle un golpe, Dalinar utilizó [[Luz tormentosa\|luz tormentosa]] para curarse, lo que provocó que el joven entrara en estado de shock. Esto cambió la actitud de Kdralk, que empezó a adorar casi como a un héroe a Dalinar, incluso cogiendo su camisa ensangrentada.
+Más tarde llegó con su madre a Urithiru y participó activamente en las múltiples reuniones de estrategia celebradas allí. Después de que Dalinar sugiriese enviar batallones [[Alezi\|alezi]] a Thaylenah, Kdralk fue quien señaló que la estrategia funciona de una forma diferente en el mar que en tierra. Cuando Dalinar volvió a visitar Ciudad Thaylen para examinar sus defensas, formaba parte del grupo que le mostraba los alrededores. Durante la reunión posterior, hizo ademán de sentarse junto a [[Renarin\|Renarin]].
+Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], Kdralk participó en los combates. Después de que [[Adolin\|Adolin]] lograse regresar al [[Reino F%C3%ADsico\|Reino Físico]], se reunió con él, y juntos siguieron adelante para ayudar a Fen y [[Kmakl\|Kmakl]] en una parte diferente de la ciudad. Después de conseguir reunirse con ellos, Fen envió a Kdralk a recuperar la [hoja esquirlada]] de un portador de esquirlada thayleño caído, [[Estnatil\|Estnatil]], que había muerto cuando un [[Tronador\|Tronador]] había atravesado el muro. Además, Adolin le dijo que intentase mantener el distrito bajo de la ciudad contra las fuerzas de [[Odium\|Odium]].
+Su destino final no se especifica; sin embargo, como no se vio a Fen afligida tras la batalla, es muy probable que sobreviviese.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Kdralk

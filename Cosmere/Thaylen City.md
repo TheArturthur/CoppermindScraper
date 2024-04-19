@@ -1,133 +1,152 @@
-|**Thaylen City**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+|**Ciudad Thaylen**|
 |-|-|
-|by  Connor Chamberlain |
-|**Ruled by**|Queen [[Fen Rnamdi\|Fen Rnamdi]]|
-|**Nation**|[[Thaylenah\|Thaylenah]]|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Gobernado por**|Reina [[Fen Rnamdi\|Fen Rnamdi]]|
+|**Nación**|[[Thaylenah\|Thaylenah]]🐱︎|
+|**Mundo**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*A place that was hit hardest of all by the new storms. A place whose military might was severely undermined by the Everstorm. A place with an Oathgate.*”
-\-Dalinar explaining why the Voidbringers would attack Thaylen City next[1]
-
-
-**Thaylen City** is the capital of [[Thaylenah\|Thaylenah]] on [[Roshar\|Roshar]], and the site of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
-
-## Contents
-
-1 Geography
-2 Layout
-
-2.1 Landmarks
-
-2.1.1 The Oathgate
-2.1.2 Docks
-2.1.3 Temples
-2.1.4 Gemstone Reserve
-2.1.5 Court Square
+>“*En el lugar donde más fuerte golpearon las nuevas tormentas. Un lugar cuyo poderío militar se vio mermado en gran medida por la tormenta eterna. Un lugar con Puerta Jurada.*”
+\-Dalinar explicando por qué los Portadores del Vacío atacarían Ciudad Thaylen a continuación[1]
 
 
+**Ciudad Thaylen** es la capital de [[Thaylenah\|Thaylenah]] en [[Roshar\|Roshar]], y el emplazamiento de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]].
+
+## Sumario
+
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Diseño. [[#Dise.C3.B1o]] 
+
+2. [[#Puntos de referencia]] 
+
+2. [[#La Puerta Jurada]] 
+2. [[#Muelles]] 
+2. [[#Templos]] 
+2. [[#Reserva de gemas]] 
+2. [[#Plaza Tribunal]] 
 
 
-3 History
-
-3.1 Heraldic Epochs and Era of Solitude
-3.2 The Everstorm
-3.3 Alliance with Urithiru
-3.4 Battle of Thaylen Field
 
 
-4 Politics
-5 Notable citizens
-6 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#.C3.89pocas Her.C3.A1ldicas y Era de la Soledad]] 
+3. [[#La tormenta eterna]] 
+3. [[#Alianza con Urithiru]] 
+3. [[#La batalla de la Explanada Thayle.C3.B1a]] 
 
 
-## Geography
- by [[Isaac Stewart\|Isaac Stewart]] Thaylen City on the map of Thaylenah
-Thaylen City is located on the northwestern coast of the largest of the islands forming [[Thaylenah\|Thaylenah]]. It sits on the shores of [[Longbrow's Straits\|Longbrow's Straits]], a strip of ocean dividing Thaylenah from the [[Roshar\|Rosharan]] mainland. The city was built inside a massive natural [[Lait\|lait]] to protect it from [[Highstorm\|highstorms]]. It's also surrounded by mountains, offering additional protection. While the local climate is warmer than in the [[Frostlands\|Frostlands]] across the Straits, it's still cold, especially at night. Thanks to its location, the city ordinarily suffers only the mildest of stormwinds, but once the [[True Desolation\|True Desolation]] begins, it's exposed to the full brunt of the [[Everstorm\|Everstorm]].
-In [[Shadesmar\|Shadesmar]], Thaylen City can be recognized by the dais of its [[Oathgate\|Oathgate]], which sits a little off the shore on the [[Thaylen Sea\|Thaylen Sea]]. A single bridge allows for accessing the dais from land.
+4 Política. [[#Pol.C3.ADtica]] 
+5 Ciudadanos destacables. [[#Ciudadanos destacables]] 
+6 Notas. [[#Notas]] 
 
-## Layout
->“*This poor city. First the Everstorm, and its subsequent returns. The Thaylens had only just started figuring out how to rebuild, and now had to deal with more smashed buildings.*”
+
+## Geografía
+  Ciudad Thaylen en el mapa de Thaylenah
+Ciudad Thaylen City está localizada en la costa noroccidental de la mayor de las islas que forman [[Thaylenah\|Thaylenah]]. Se asienta en las costas de los [[Estrechos de Ce%C3%B1o Largo\|Estrechos de Ceño Largo]], una franja de océano que separa Thaylenah del continente [[Roshar\|Roshariano]]. La ciudad fue construida dentro de un gigantesco [[Lait\|lait]] natural para protegerla de las [[Alta tormenta\|altas tormentas]]. También está rodeada por montañas, ofreciendo protección adicional. Aunque el clima local es más cálido que el del las [[Tierras Heladas\|Tierras Heladas]] al otro lado de los Estrechos, sigue siendo frío, especialmente por la noche. Gracias a su localización, la ciudad normalmente solo sufre los vientos de tormenta más leves, pero una vez la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] empieza, está expuesta por completo a la [[Tormenta eterna\|tormenta eterna]].
+En [[Shadesmar\|Shadesmar]], Ciudad Thaylen puede ser reconocida por la plataforma de su [[Puerta Jurada\|Puerta Jurada]], situada ligeramente separada de la costa hacia el interior del [[Mar de Thaylen\|Mar de Thaylen]]. Un único puente permite acceder a la plataforma desde tierra.
+
+## Diseño
+>“*Pobre ciudad. Primero la tormenta eterna y sus continuos regresos. Y cuando los thayleños empezaban a encontrar la forma de reconstruir, les tocaba ocuparse de más edificios destruidos (...).*”
 \-Kaladin[3]
 
 
- by  Isaac Stewart  A map of Thaylen City
-Thaylen City is built on the mountainside and divided into a number of districts, called Wards. The **Ancient Ward**, located in the city's center, is Thaylen's oldest section. It's built out of stone and rises slightly above the surrounding ground, with a street layout following a [[Cymatics\|cymatic]] pattern.
-From the west, the Ancient Ward is followed by the **Low Ward**, where numerous businesses and government buildings are located. The Low Ward is bracketed from the west by a long wall going north to south between the mountain slopes. This city wall served as a minor windbreak for those fortunate enough to have lived right by it when the Everstorm arrived. A portion of it was breached during the [[Battle of Thaylen Field\|Battle of Thaylen Field]], though the gap was later filled in with [[Soulcast\|Soulcast]] metal by [[Jasnah Kholin\|Jasnah Kholin]].
-Past the city wall lays the area now known as the **Thaylen Field**. Prior to the [[True Desolation\|True Desolation]], this part of the city was well-developed, with numerous taverns, warehouses and shops. The famous Thaylen docks were located on the shore there, stretching across the southern portion of the peninsula. Unfortunately, the area was not built to withstand violent weather, due to the protection offered by the mountainside. As such, it was swept away by the [[Everstorm\|Everstorm]], leaving it ruined and empty.
-Surrounding the Ancient Ward from north and south are the **North Ward** and the **South Ward**. To the east, the city begins to climb up the mountain slope in a series of tiered terraces called the **Loft Wards**, which climb up to the **Royal Ward**. The Royal Ward is the city's representative sector. It includes numerous palaces and mansions, including the Royal Palace, the seat of the Thaylen monarchs, as well as ten temples dedicated to the [[Herald\|Heralds]] of the [[Almighty\|Almighty]]. Following the Everstorm, those temples were mainly used to house the numerous wounded and homeless citizens.
-The city's [[Oathgate\|Oathgate]] is located on the same level as the Royal Ward, albeit further north, closer to the oceanside cliffs. A small ramp leads up to it from the city proper. To the east, right past the Royal Palace, a trio of roads departs the city, forming Thaylen's only land connection to the rest of the island.
-In the past, the city had a developed system of aqueducts, cisterns and sewers; however, most of it has been torn apart by the first passing of the Everstorm.
+  Un mapa de Ciudad Thaylen
+Ciudad Thaylen está construida en la ladera y dividida en una serie de distritos, llamados . El **distrito antiguo**, localizado en el centro de la cuidad, es la sección más antigua de Thaylen. IEstá tallado en la piedra y se eleva ligeramente sobre la tierra circundante, con un trazado de calles que sigue un patrón [[Cim%C3%A1tica\|cimático]].
+Desde el oeste, el distrito antiguo es seguido por el **distrito bajo**, donde se encuentran numerosos negocios y edificios gubernamentales. El distrito bajo está rodeado por el oeste por un largo muro que se extiende de norte a sur entre las pendientes de las montañas. Este muro de la ciudad sirvió como una pequeña protección contra el viento para aquellos lo bastante afortunados como para vivir pegados a él cuando llegó la tormenta eterna. Una porción fue destruida durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], aunque el hueco fue más tarde cerrado con metal [[Moldear\|moldeado]] por [[Jasnah Kholin\|Jasnah Kholin]].
+Más allá del muro de la ciudad se encuentra la zona conocida como la **Explanada Thayleña**. Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], esta parte de la ciudad estaba bien desarrollada, con numerosas tabernas, almacenes y tiendas. Los famosos muelles thayleños estaban situados en su costa, extendiéndose por la porción meridional de la península. Desafortunadamente, el área no fue construida para soportar un temporal violento, debido a la protección ofrecida por la montaña. Por tanto, fue barrida por la [[Tormenta eterna\|tormenta eterna]], dejándola en ruinas y vacía.
+Alrededor del distrito antiguo de norte a sur se encuentran el **distrito norte** y el **distrito sur**. Al este, la ciudad empieza a ascender por la ladera de la montaña en una serie de terrazas dispuestas en niveles llamadas los **distritos altos**, que ascienden hasta el **distrito real**. El distrito real es el sector representativo de la ciudad. Incluye numerosos palacios y mansiones, incluyendo el palacio real, sede de los monarcas thayleños, así como diez templos dedicados a los [[Heraldo\|Heraldos]] del [[Todopoderoso\|Todopoderoso]]. Tras la tormenta eterna, esos templos fueron usados principalmente para alojar a los numerosos heridos y ciudadanos sin hogar.
+La [[Puerta Jurada\|Puerta Jurada]] de la ciudad está localizada en el mismo nivel que el palacio real, solo que más al norte, más cercana a los acantilados oceánicos. Una pequeña rampa lleva hasta allí desde la propia ciudad. Al este, pasado el palacio real, un trío de carreteras salen de la ciudad, formando la única conexión por tierra de Thaylen con el resto de la isla.
+En el pasado, la ciudad desarrolló un sistema de acueductos, cisternas y desagües; sin embargo, la mayor parte fueron destruidos con la primera pasada de la tormenta eterna.
 
-### Landmarks
- by  Marie Seeberger  A view of the city from above
-#### The Oathgate
-The ancient [[Thalath\|Thalath]] Oathgate is located on the northern-eastern edge of Thaylen City, next to the Royal Ward. Back in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch, it would've been beyond the city limits, in contrast to how other major settlement of the era, like [[Kholinar\|Kholinar]] and [[Stormseat\|Stormseat]], were arranged. Presently, it has been turned into a sculpture garden, and provides an excellent view of the city. It's eventually unlocked by [[Kaladin\|Kaladin]] and [[Shallan\|Shallan]], who fly there after Queen [[Fen Rnamdi\|Fen]] agrees to ally with [[Dalinar\|Dalinar]].
-While the Oathgate was locked along with all the others, the Thaylens retained some memory of the platform's original purpose. The local folklore refers to it as a "portal of worlds", claiming that only the most [[Passions\|Passionate]] would be able to reopen it. While the story is particularly popular among young girls, the Oathgate holds great religious significance for all the Thaylens.
+### Puntos de referencia
+  Una vista de la ciudad desde arriba
+#### La Puerta Jurada
+La antigua Puerta Jurada de [[Thalath\|Thalath]] está localizada en el borde noreste de Ciudad Thaylen, próxima al distrito real. Antiguamente, en la época de los [[Reinos Plateados\|Reinos Plateados]], habría estado más allá de los límites de la ciudad, en contraste con como otros asentamientos principales de la era, como [[Kholinar\|Kholinar]] y [[Sedetormenta\|Sedetormenta]], estaban organizados. Actualmente, se ha convertido en un jardín de esculturas, y provee una excelente de la ciudad. Es eventualmente desbloqueada por [[Kaladin\|Kaladin]] y [[Shallan\|Shallan]], que vuelan allí después de que la reina [[Fen Rnamdi\|Fen]] acordase aliarse con [[Dalinar\|Dalinar]].
+Mientras la Puerta Jurada estuvo bloqueada junto con las demás, los thayleños mantuvieron retuvieron en parte el recuerdo del propósito original de la plataforma. El folclore local se refiere a ella como el "portal de mundos", proclamando que solo la más [[Pasiones\|Apasionada]] podría reabrirlo. Si bien la historia es especialmente popular entre las chicas jóvenes, la Puerta Jurada tiene un gran significado religioso para todos los thayleños.
 
-#### Docks
-The Thaylen docks had been one of the city's greatest points of pride before the Everstorm swept them away. They lay outside the fortifications, on the southern part of the shore, taking advantage of a natural bay there. They were constructed primarily of wood, which is why they were so easily destroyed.
-The area surrounding the docks had developed over time into a market and warehouse district. A notable feature there was the grand bazaar, a marketplace famous even in [[Alethkar\|Alethkar]]. Unfortunately, as the area was entirely constructed from wood, the Evestorm all but flattened it. This part of the city was eventually renamed to **Thaylen Field**.
+#### Muelles
+Los muelles thayleños han sido una de las mayores fuentes de orgullo de la ciudad antes de que la tormenta eterna los arrasara. Se encuentran fuera de las fortificaciones, en la parte meridional de la costa, aprovechando una bahía natural. Estaban construidos principalmente de madera, que es la causa de que fuesen tan fácilmente destruidos.
+La zona alrededor de los muelles se ha desarrollado con el tiempo hasta formar un mercado y distrito de almacenaje. Una característica destacable era el gran bazar, un mercado famoso incluso en [[Alezkar\|Alezkar]]. Desafortunadamente, puesto que la zona estaba enteramente construida con madera, la tormenta eterna arrasó con todo. Esta parte de la ciudad fue posteriormente renombrada como **Explanada Thayleña**.
 
-#### Temples
-Like most largest cities, Thaylenah has ten major temples, each dedicated to one of the [[Herald\|Heralds]]. The temples are all located in the Royal Ward, and when visiting Thaylen, it's traditional to see all of them, which allows the local ruler to show off both the city and its piety. During the True Desolation, the temples are instead used as makeshift hospitals and shelters for people injured and displaced in the Everstorm.
-The most notable temples are:
+#### Templos
+Como la mayoría de las ciudades más grandes, Thaylenah tiene diez templos principales, cada uno dedicado a uno de los [[Heraldo\|Heraldos]]. Los templos están localizados todos en el distrito real y, cuando se visita Thaylen, es tradición verlos todos, lo que permite al gobernante local mostrar tanto la ciudad como su piedad. Durante la Auténtica Desolación, los templos fueron en su lugar usados como hospitales improvisados como refugios para gente herida o desplazada por la tormenta eterna.
+Los templos más destacables son:
 
-**The Temple of Battah** - located in the northwestern part of the Royal Ward, it's the second-oldest temple in the city. It's particularly notable for the [[Simulacrum of Paralet\|Simulacrum of Paralet]], a massive statue that once adorned the plaza in front of it. The Simulacrum was knocked over by the [[Everstorm\|Everstorm]], sending large chunks of it into the Loft Wards; Dalinar rebuilds it with his [[Bondsmith\|Bondsmith]] powers upon his first visit to the city.
-**The Temple of Ishi** - the oldest temple in the city. It sits in the southern portion of the Royal Ward.
-**The Temple of Talenelat** - located in the central part of the Royal Ward, in a stone plaza dedicated to the Herald. A set of steps leads up to an arched enterance, and both the outer and inner walls are covered in mosaics showing Taln standing fast against the [[Voidbringers\|Voidbringers]]. The temple fared poorly against the [[Everstorm\|Everstorm]], with the entire roof having collapsed from a lightning strike, possibly because [[Odium\|Odium]] targeted it deliberately out of vengeance. It's in the temple of Talenelat that Dalinar discovers his ability to mend buildings; as such, it's the first he fixes.
-**The Temple of Pailiah** - located in the north-eastern part of the Royal Ward. It's open, allowing wind to flow through it. [[Renarin\|Renarin]] goes there to pray when he begins seeing visions of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
-#### Gemstone Reserve
-For more information, see [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
-The Gemstone Reserve is a national bank of [[Thaylenah\|Thaylenah]]. It's located in the Low Ward, near one of the entrances to the Ancient Ward. The structure is build like a fortress, to protect its contents. It has no windows. Within are numerous vaults storing various gemstones, including some of the largest and most unique ones, like the [[King's Drop\|King's Drop]]. People can sell and buy their writs of ownership, allowing them to trade large sums easily.
-During the Battle of Thaylen Field, the building is destroyed by a [[Thunderclast\|thunderclast]] on orders of Odium, who wants to prevent the Radiants from acquiring the King's Drop, a [[Perfect gemstone\|perfect gemstone]].
+**El templo de [[Battah\|Battah]]** - localizado en la parte noroccidental del distrito real, es el segundo templo más antiguo de la ciudad. Es particularmente destacable por la [[Imagen de Paralet\|Imagen de Paralet]], una enorme estatua que adornó una vez la plaza frente a él. La Imagen fue derribada por la [[Tormenta eterna\|tormenta eterna]], enviando grandes pedazos de ella a los distritos altos; Dalinar la reconstruy usando sus poderes de [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] en su primera visita a la ciudad.
+**El templo de [[Ishi\|Ishi]]** - el templo más antiguo de la ciudad. Se sitúa en la porción meridional del distrito real.
+**El templo de [[Talenelat\|Talenelat]]** - localizado en la parte central del distrito real, en una plaza de piedra dedicada al Heraldo. Unas escaleras conducen a la entrada arqueada, y tanto los muros de fuera como los interiores están cubiertos por mosaicos que muestran a Taln resistiendo contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. El templo fue afectado por la [[Tormenta eterna\|tormenta eterna]], con el tejado entero colapsado por el impacto de un rayo, posiblemente porque [[Odium\|Odium]] apuntase contra él deliberadamente como venganza. Es el el templo de Talenelat donde Dalinar descubre su habilidad para reparar edificios; por tanto, es el primero que arregla.
+**El templo de [[Pailiah\|Pailiah]]** - localizado en la parte nororiental del distrito real. Está abierto, permitiendo al viento fluir a través de él. [[Renarin\|Renarin]] va allí a rezar cuando empieza a tener visiones de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]].
+#### Reserva de gemas
+Para más información, ver [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]].
+La Reserva de Gemas es el banco nacional de [[Thaylenah\|Thaylenah]]. está localizado en el distrito bajo, cerca de una de las entradas del distrito antiguo. La estructura está construida como una fortaleza, para proteger su contenido. No tiene ventanas. Dentro hay numerosos cofres guardando varias gemas, incluyendo algunas de las mayores y más únicas, como la [[L%C3%A1grima del Rey\|Lágrima del Rey]]. La gente puede vender y compara sus escrituras de propiedad, permitiéndoles intercambiar grandes sumas fácilmente.
+Durante la batalla de la Explanada Thayleña, el edificio es destruido por un [[Tronador\|tronador]] bajo las órdenes de Odium, que quiere evitar que los Radiantes consigan la Lágrima del Rey, una [[Gema perfecta\|gema perfecta]].
 
-#### Court Square
-The Court Square is a plaza somewhere in the city; its exact location is unknown, though the name suggests it might be near the Royal Palace. During the Battle of Thaylen Field, it's assaulted by the possessed Amaram soldiers. Initially, it's protected by the highguards [[Hrdalm\|Hrdalm]] and [[Tshadr\|Tshadr]], both in [[Shardplate\|Shardplate]]; eventually, Hdralm departs to combat one of the [[Thunderclast\|thunderclasts]] attacking the city while Tshadr remains to hold the Square.
+#### Plaza Tribunal
+La plaza Tribunal es una plaza en algún lugar de la ciudad; su localización exacta se desconoce, aunque el nombre sugiere que podría estar situada cerca del distrito real. Durante la batalla de la Explanada Thayleña, es asaltada por los soldados poseídos de Amaram. Inicialmente, está protegido por los miembros de la Alta Guardia [[Hrdalm\|Hrdalm]] y [[Tshadr\|Tshadr]], ambos en [[Armadura esquirlada\|armadura esquirlada]]; posteriormente, Hdralm parte para combatir a uno de los [[Tronador\|tronadores]] que atacan la ciudad mientras Tshadr permanece para defender la plaza.
 
-## History
-### Heraldic Epochs and Era of Solitude
- by  Isaac Stewart  The ancient Thaylen City; in the present, this part is known as the Ancient Ward
-Thaylen City is one of the oldest settlements on [[Roshar\|Roshar]], though its exact origins are uncertain. The modern history dates it as about four thousand years old; however, the existence of the [[Oathgate\|Oathgate]] and the [[Cymatics\|cymatic]] pattern of its appearance suggest that it's much older than that. During the [[Heraldic Epochs\|Heraldic Epochs]], it was located in the [[Silver Kingdoms\|Silver Kingdom]] of [[Thalath\|Thalath]]. Its proximity to the Thalath Oathgate indicates that it might've been the capital even back then. At the time, it was a far smaller city, consisting only of the district now known as the Ancient Ward.
-The ultimate fate of Thalath and how it became [[Thaylenah\|Thaylenah]] is unknown. Thaylen City, however, retained its high status, and in the [[Era of Solitude\|Era of Solitude]] it remained the capital of the newer kingdom, as well as a major shipping and banking hub. It grew far beyond its original constraints, becoming one of the greatest metropoleis of [[Roshar\|Roshar]] alongside cities such as [[Vedenar\|Vedenar]] and [[Kharbranth\|Kharbranth]]. In the closing years of that age, it came to the attention of people researching [[Dawncities\|Dawncities]], who investigated it due to the cymatic pattern of the Ancient Ward. Among others, [[Kabsal\|Kabsal]] used its perfectly symmetrical shape as a proof of the existence of the [[Almighty\|Almighty]].
+## Historia
+### Épocas Heráldicas y Era de la Soledad
+  La antigua Ciudad Thaylen; en el presente, esta parte es conocida como el distrito antiguo
+Ciudad Thaylen es uno de los asentamientos más antiguos de [[Roshar\|Roshar]], aunque sus orígenes exactos son inciertos. La historia moderna la data de alrededor de cuatro mil años de antigüedad; sin embargo, la existencia de la [[Puerta Jurada\|Puerta Jurada]] y el patrón [[Cim%C3%A1tica\|cimático]] de su apariencia sugiere que es mucho anterior a eso. Durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], estaba situada en el [[Reinos Plateados\|reino plateado]] de [[Thalath\|Thalath]]. Su cercanía a la Puerta Jurada de Thalath indica que podría haber sido la capital incluso entonces. En ese tiempo, iera una ciudad mucho más pequeña, consistiendo solo en el distrito ahora conocido como el distrito antiguo.
+El destino final de Thalath y cómo se convirtió en [[Thaylenah\|Thaylenah]] es desconocido. Ciudad Thaylen, no obstante, mantuvo su alto status, y en la [[Era de la Soledad\|Era de la Soledad]] siguió siendo la capital del nuevo reino, así como un centro principal banquero y naval. Creció mucho más allá de sus límites originales, convirtiéndose en una de las mayores metrópolis de [[Roshar\|Roshar]] junto con ciudades como [[Vedenar\|Vedenar]] y [[Kharbranth\|Kharbranth]]. En los años próximos a esa edad, llamó la atención de la gente que investigaba las [[Ciudades del Amanecer\|Ciudades del Amanecer]], que la investigaron debido al patrón cimático del distrito antiguo. Entre otros, [[Kabsal\|Kabsal]] usó su forma perfectamente simétrica como prueba de la existencia del [[Todopoderoso\|Todopoderoso]].
 
-### The Everstorm
->“*We tried to prepare, but a nation cannot upend four millennia worth of tradition at a snap of the fingers. Thaylen City is a shambles, Kholin.*”
+### La tormenta eterna
+>“*Intentamos prepararnos, pero una nación no puede poner patas arriba tradiciones que se remontan a cuatro milenios con solo chasquear los dedos. Ciudad Thaylen está en ruinas, Kholin*”
 \-Fen Rnamdi[2]
 
 
-When the [[Listener\|listeners]] summoned the [[Everstorm\|Everstorm]] in the [[Battle of Narak\|Battle of Narak]], [[Dalinar Kholin\|Dalinar Kholin]] tried to warn the various cities of the world, including Thaylen, about the upcoming catastrophe. The Thaylens believed him after confirming his information with [[New Natanan\|New Natanan]], one of the cities struck earlier, and strove to prepare. There wasn't enough time, though, particularly as [[Odium\|Odium]] targeted the city deliberately, both as a strategically-important location and as the stage for his confrontation with Dalinar. The once-extensive docks, along with the entire seaside district, were all but wiped out; most of the city's other Wards were heavily damaged by lightning, strong winds, and even debris falling from the terraces above. The temple of [[Talenelat\|Talenelat]] in particular was wrecked near-utterly, possibly out of grudge Odium might have against Taln for holding out for as long as he had.
-Along with the Everstorm came the awakening of the city's [[Parshmen\|Parshmen]] population. While the Thaylen were warned of this, they again didn't have enough time to respond properly. As a result, when the Parshmen awoke, they stole the remaining ships, both the military and private vessels, and sailed away, escaping their former captors. They would later become the crews of the [[Voidbringer\|Voidbringer]] fleet.
+Cuando los [[Oyente\|oyentes]] invocaron la [[Tormenta eterna\|tormenta eterna]] en la [[Batalla de Narak\|batalla de Narak]], [[Dalinar Kholin\|Dalinar Kholin]] trató de advertir a varias ciudades del mundo, incluyendo Thaylen, sobre la catástrofe que se avecinaba. Los thayleños lo creyeron tras confirmar su información con [[Nueva Natanan\|Nueva Natanan]], una de las ciudades golpeadas previamente, y se esforzaron por prepararse. No había suficiente tiempo, sin embargo, particularmente porque [[Odium\|Odium]] eligió como objetivo la ciudad deliberadamente, tanto por ser una localización de importancia estratégica como por ser el escenario de su enfrentamiento con Dalinar. Los una vez extensos muelles, junto con todo el distrito marino, fueron arrasados por completo; la mayoría de los otros distritos de la ciudad fueron afectados por rayos, fuertes vientos, e incluso escombros que caían de las terrazas superiores. El templo de [[Talenelat\|Talenelat]] en particular fue destruido casi completamente, posiblemente por el rencor que Odium debía tener contra Taln por resistir tanto como lo hizo.
+Junto con la tormenta eterna llegó el despertar de la población [[Parshmenio\|parshmenia]] de la ciudad. Aunque los thayleños fueron avisados de esto, de nuevo no tuvieron tiempo para responder apropiadamente. Como resultado, cuando los parshmenios despertaron, robaron los barcos restantes, tanto militares como las naves privadas, y se alejaron navegando, escapándose sus antiguos captores. Más tarde se convertirían en la tripulación de la flota de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
 
-### Alliance with Urithiru
-Dalinar quickly pinpointed Thaylen City as one of the critical locations for the upcoming war. However, when he began to make his overtures of peace to various world leaders, Queen [[Fen Rnamdi\|Fen Rnamdi]] initially rejected him, on the grounds that letting [[Alethi\|Alethi]] armies into her capital would essentially surrender her already-weakened country to them. In time, Dalinar managed to convince her to agree, and dispatched [[Kaladin\|Kaladin]] and [[Shallan\|Shallan]] to reopen the Thaylen City Oathgate.
-Later, Dalinar visited Thaylen City personally along with [[Navani\|Navani]] and king [[Taravangian\|Taravangian]], and was given a tour of it by Queen Fen. It was then that he discovered his [[Bondsmith\|Bondsmith]] ability to mend broken structures, and began to aid in rebuilding the city, earning respect from the Thaylen. Alongside him, Taravangian's surgeons and [[Renarin\|Renarin]] likewise assisted with handling Thaylen City's copious wounded, further cementing Thaylenah's position in the alliance. Later, the army of the [[Sadeas princedom\|Sadeas princedom]], under command of [[Meridas Amaram\|Meridas Amaram]], was sent to the city to assist with the rebuilding.
+### Alianza con Urithiru
+Dalinar rápidamente señaló Ciudad Thaylen como una de las localizaciones críticas para la guerra que se avecinaba. Sin embargo, cuando empezó a hacer sus propuestas de paz con varios lideres mundiales, la reina [[Fen Rnamdi\|Fen Rnamdi]] inicialmente lo rechazó, defendiendo que permitir que los ejércitos [[Alezi\|alezi]] a la capital sería rendir su ya debilitado país a ellos. Con el tiempo, Dalinar consiguió convencerla de aceptar, y envió a [[Kaladin\|Kaladin]] y [[Shallan\|Shallan]] de reabrir la Puerta Jurada de Ciudad Thaylen.
+Más tarde, Dalinar visitó Ciudad Thaylen personalmente con [[Navani\|Navani]] y el rey [[Taravangian\|Taravangian]], y la reina Fen les enseñó la ciudad. Fue entonces cuando descubrió su habilidad de [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] para reparar estructuras rotas, y empezó a ayudar a reconstruir la ciudad, ganándose el respeto de Thaylen. Junto con él, los cirujanos de Taravangian y [[Renarin\|Renarin]] por igual ayudaron a atender a los numerosos heridos de Ciudad Thaylen, cimentando más la posición de Thaylenah en la alianza. Más tarde, el ejército del [[Principado Sadeas\|principado Sadeas]], bajo el mando de [[Meridas Amaram\|Meridas Amaram]], fue enviado a la ciudad para ayudar con la reconstrucción.
 
-### Battle of Thaylen Field
-For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
- by  Ashley Coad  Dalinar confronting Nergaoul on Thaylen Field
-Following the revelations of the [[Eila Stele\|Eila Stele]], Thaylenah was one of the few countries to remain with [[Urithiru\|Urithiru]], mostly because they had no other choice in their weakened state. It was then that the Voidbringer armies, led by Odium himself, arrived on the shores of Thaylen City, having sailed there from the nearby country of [[Marat\|Marat]]. Though the defenders attempted to prepare for battle, things changed dramatically when Odium first summoned a pair of [[Thunderclast\|thunderclasts]], and then released [[Nergaoul\|Nergaoul]] upon the Amaram troops, turning them against the people they were supposed to protect.
-One of the thunderclasts breached the wall and made for the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]], intending to secure the [[King's Drop\|King's Drop]], a [[Perfect gemstone\|perfect gemstone]] that could trap Nergaoul. At the same time, Dalinar went down into the Thaylen Field to face Odium directly. In the ensuing confrontation, Dalinar managed to open [[Honor's Perpendicularity\|Honor's Perpendicularity]], providing the [[Knights Radiant\|Knights Radiant]] present with much-needed [[Stormlight\|Stormlight]].
-What resulted was a pitched battle between the defending forces -- mostly the Knights Radiant and Thaylen troops, later reinforced by [[House Kholin\|House Kholin]] soldiers brought by [[General Khal\|General Khal]] through the Oathgate -- and Odium's soldiers, consisting of the two thunderclasts, the Amaram army and the [[Fused\|Fused]]. Much of the city was ruined in the process, although the wall was patched by [[Jasnah Kholin\|Jasnah Kholin]] soulcasting the air in the breach into metal. Ultimately, Nergaoul was trapped in the King's Drop and the remaining Voidbringer forces withdrew.
-The battle once more left Thaylen City in shambles, now augmented by the corpse of one of the thunderclasts. Massive surgeon stations were set up in the Low Ward to care for the numerous wounded, and the various alliance members pitched in to aid with the rebuilding. However, much work remains to be done, and whether the city can be brought back to its former glory is questionable.
+### La batalla de la Explanada Thayleña
+Para más información, ver [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]].
+  Dalinar enfrentándose a Nergaoul en la Explanada Thayleña
+Tras las revelaciones de [[Eila Stele\|Eila Stele]], Thaylenah fue uno de los pocos países en permanecer con [[Urithiru\|Urithiru]], principalmente porque no tenían otra opción en su estado debilitado. Fue enconces cuando los ejércitos de los Portadores del Vacío, liderados por le mismo Odium, llegaron a las costas de Ciudad Thayle, habiendo navegado allí desde el cercano país de [[Marat\|Marat]]. Aunque los defensores trataron de prepararse para la batalla, las cosas cambiaron dramáticamente cuando Odium invocó por primera vez un par de [[Tronador\|tronadores]], y después liberó a [[Nergaoul\|Nergaoul]] sobre las tropas de Amaram, volviéndolos contra la gente que debían defender.
+Uno de los tronadores rompió la muralla y llegó a la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]], intentando asegurar la [[L%C3%A1grima del Rey\|Lágrima del Rey]], una [[Gema perfecta\|gema perfecta]] que podía atrapar a Nergaoul. A la vez, Dalinar bajó a la Explanada Thayleña para enfrentarse a Odium directamente. En la consiguiente confrontación, Dalinar consiguió abrir la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]], proveyendo a los [[Caballeros Radiantes\|Caballeros Radiantes]] de la tan necesaria [[Luz tormentosa\|luz tormentosa]].
+Lo que resultó fue una batalla campal entre las fuerzas de los defensores -- mayormente los Caballeros Radiantes y las tropas thayleñas, más tarde reforzados por los soldados de la [[Casa Kholin\|Casa Kholin]] traídos por el [[General Khal\|General Khal]] a través de la Puerta Jurada-- y los soldados de Odium, consistiendo en los dos tronadores, el ejército de Amaram y los [[Fusionado\|Fusionados]]. Gran parte de la ciudad fue destruida en el proceso, aunque el muro fue sellado por [[Jasnah Kholin\|Jasnah Kholin]] que moldeó el aire de la brecha en metal. Finalmente, Nergaoul fue atrapado en la Lágrima del Rey y las fuerzas de los Portadores del Vacío se retiraron.
+La batalla una vez más dejó a Ciudad Thaylen en ruinas, ahora aumentadas por el cadáver de uno de los tronadores. Enormes estaciones de cirujanos fueron establecidas en el distrito bajo para atender a los cuantiosos heridos, y los varios miembros de la alianza se inclinaron para ayudar en la reconstrucción. Sin embargo, queda mucho trabajo por hacer, y es dudoso si la ciudad podrá volver a su antigua gloria.
 
-## Politics
->“*Strategically, Thaylen City is far more important than Jah Keved—but at the same time, far worse defended.*”
+## Política
+>“*Desde un punto de vista estratégico, Ciudad Thaylen es **mucho** más importante que Jah Keved, y al mismo tiempo está **mucho** peor defendida.*”
 \-Dalinar[1]
 
 
-Thaylen City serves as the center of Thaylen commerce and politics. The reigning monarch resides there; likewise, the various merchant councils, as well as the Thaylen navy, have their headquarters in the city. Its vast port is home to numerous trading and naval vessels. Moreover, the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] holds vast majority of the country's wealth, allowing for long-distance trade via [[Spanreed\|spanreeds]].
-Unfortunately, the city suffered vast losses in the Everstorm, dealing a severe blow its power. The grand docks and warehouses were destroyed; the ships, stolen by the escaping [[Parshmen\|parshmen]]. The Gemstone Reserve was wrecked in the Battle of Thaylen Field, and though majority of the gems contained within appear to have survived, they were scattered across the city, and it's questionable whether the government can retrieve them all. In the present, Thaylen City is all but reliant on [[Alethi\|Alethi]] support to survive the Desolation.
-Nonetheless, it remains important. It's one of the few cities with [[Oathgate\|Oathgates]] controlled by the people opposed to [[Odium\|Odium]], giving it an instant access to [[Urithiru\|Urithiru]] and allowing the alliance to project power in the South of Roshar. Moreover, the city's location makes holding it crucial to any strategy in the region. Whoever controls Thaylen City controls the [[Southern Depths\|Southern Depths]], and can threaten the entire coast, from [[New Natanan\|New Natanan]] all the way to [[Shinovar\|Shinovar]]. As such, it's important for the alliance to keep it, which was the main impetus for the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+Ciudad Thaylen sirve como centro del comercio y la política thayleña. La monarquía regente reside allí,; como lo hacen también los varios consejos mercantiles, así como la armada thayleña, que tiene sus cuarteles generales en la ciudad. Su vasto puerto acoge a numerosas embarcaciones tanto mercantes como de la armada. Además, la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]] guarda la mayoría de la riqueza del país, permitiendo el comercio a grandes distancias por [[Vinculaca%C3%B1as\|vinculacañas]].
+Desafortunadamente, la ciudad sufrió grandes pérdidas en la tormenta eterna, siendo un duro golpe para su poder. Los grandes muelles y almacenes fueron destruidos; los barcos, robados por los [[Parshmenios\|parshmenios]] que escaparon. La Reserva de Gemas fue destruida en la batalla de la Explanada Thayleña, y aunque la mayor parte de las gemas que contenía parecen haberse conservado, fueron dispersadas por la ciudad, y se cuestiona cuándo el gobierno será capaz de reunirlas todas. En el presente, Ciudad Thaylen depende casi por completo de los apoyos [[Alezi\|alezi]] para sobrevivir a la Desolación.
+Sin embargo, sigue siendo importante. es una de las pocas ciudades con [[Puerta Jurada\|Puertas Juradas]] controladas por la gente que se opone a [[Odium\|Odium]], permitiéndole acceso instantáneo a [[Urithiru\|Urithiru]] y permitiendo a la alianza proyectar su poder hacia el sur de Roshar. Además, la localización de la ciudad hace que conservarla sea crucial para cualquier estrategia en la región. Quienquiera que controle Ciudad Thaylen controla las [[Profundidades Meridionales\|Profundidades Meridionales]], y puede amenazar toda la costa, desde [[Nueva Natanan\|Nueva Natanan]] hasta [[Shinovar\|Shinovar]]. Por tanto, es importante para la alianza conservarla, lo que era la mayor motivación para la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]].
 
-## Notable citizens
-For a full list see, see here.
-[[Fen Rnamdi\|Fen Rnamdi]], the Queen of Thaylenah, who presumably resides in the Royal Palace.
-[[Kmakl\|Kmakl]] and [[Kdralk\|Kdralk]], the Queen's consort and son
-[[Rysn\|Rysn]], a master merchant currently employed in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]]
-[[Jochi\|Jochi]], a friend of [[Jasnah\|Jasnah's]] who pretends to be a woman to pursue scholarship, and who owns a pastry shop somewhere in the city
+## Ciudadanos destacables
+Para una lista completa, ver aquí.
+[[Fen Rnamdi\|Fen Rnamdi]], la reina de Thaylenah, que presumiblemente reside en el palacio real.
+[[Kmakl\|Kmakl]] y [[Kdralk\|Kdralk]], consorte e hijo de la reina.
+[[Rysn\|Rysn]], una maestra mercader empleada en la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]].
+[[Jochi\|Jochi]], un amigo de [[Jasnah\|Jasnah]] que finge ser una mujer para perseguir la erudición, y que tiene una pastelería en algún lugar de la ciudad.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, ahora necesita volver a revisarse.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-https://coppermind.net/wiki/Court_Square
+
+https://es.coppermind.net/wiki/Thaylen_City

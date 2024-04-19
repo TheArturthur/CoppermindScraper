@@ -1,143 +1,172 @@
-|**Ruin**|
+
+
+|**Ruina**|
 |-|-|
-|by  Kyle Pearson |
-|**Vessel**|[[Sazed\|Sazed]]|
-|**Slivers**|[[Ati\|Ati]]|
-|**Splinters**|None|
-|**Status**|Whole, conjoined with [[Preservation\|Preservation]]|
-|**Perpendicularity**|[[Ruin's Perpendicularity\|Ruin's Perpendicularity]], [[Pits of Hathsin\|Pits of Hathsin]]|
-|**Magics**|[[Hemalurgy\|Hemalurgy]], [[Feruchemy\|Feruchemy]]|
-|**Residence**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Recipiente**|[[Sazed\|Sazed]]|
+|**[[Lasca\|Lascas]]**|[[Ati\|Ati]]|
+|**[[Astilla\|Astillas]]**|Ninguna|
+|**Estado**|Completa, unida a [[Conservaci%C3%B3n\|Conservación]]|
+|**[[Perpendicularidad\|Perpendicularidad]]**|[[Perpendicularidad de Ruina\|Perpendicularidad de Ruina]], [[Pozos de Hathsin\|Pozos de Hathsin]]|
+|**Magia**|[[Hemalurgia\|Hemalurgia]], [[Feruquimia\|Feruquimia]]|
+|**Residencia**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*This force was time infinite. It was the winds that weathered, the storms that broke, the timeless waves running slowly, slowly, slowly, to a stop as the sun and the planet cooled to nothing. It was the ultimate end and destiny of all things. And it was angry.*”
-\-Kelsier[2]
-
-
-**Ruin**, also known as **Herr** in [[Southern Scadrial\|Southern Scadrial]], is one of the [[Shard\|Shards]] of [[Adonalsium\|Adonalsium]]. Its original [[Vessel\|Vessel]] was [[Ati\|Ati]], but it's currently held by [[Sazed\|Sazed]] alongside [[Preservation\|Preservation]], forming [[Harmony\|Harmony]]. Ruin's [[Investiture\|Investiture]] is typically associated with the color black.
-
-## Contents
-
-1 Intent
-2 Associated magic
-
-2.1 Hemalurgy
-2.2 Feruchemy
-2.3 Mists
-2.4 Atium
-2.5 Direct intervention
+>“*Esa fuerza era tiempo infinito. Era el viento que erosionaba, la tormenta que rompía, las oleadas atemporales que fluían lentas, lentas, lentas hasta detenerse mientras el sol y el planeta se enfriaban y desaparecían. Era el final definitivo y el destino de todas las cosas. Y estaba furioso.*”
+\-Kelsier.[2]
 
 
-3 History
+**Ruina**, también conocida como **Herr** en [[Scadriano del sur\|Scadrial del sur]], es una de las [[Esquirlas\|Esquirlas]] de [[Adonalsium\|Adonalsium]]. Su [[Recipiente\|Recipiente]] original era [[Ati\|Ati]], pero actualmente lo tiene [[Sazed\|Sazed]] junto a [[Conservaci%C3%B3n\|Conservación]], formando [[Armon%C3%ADa\|Armonía]].  La [[Investidura\|Investidura]] de Ruina se asocia normalmente con el color negro.
 
-3.1 The Deal and Betrayal
-3.2 Plotting Escape
+## Sumario
 
-3.2.1 Alendi
-3.2.2 Kelsier and Vin
+1 Intención. [[#Intenci.C3.B3n]] 
+2 Magia asociada. [[#Magia asociada]] 
 
-
-3.3 Destruction upon Scadrial
-3.4 Achieving Harmony
-
-
-4 Influence
-5 Quotes
-6 Trivia
-7 Notes
+2. [[#Hemalurgia]] 
+2. [[#Feruquimia]] 
+2. [[#Brumas]] 
+2. [[#Atium]] 
+2. [[#Intervenci.C3.B3n directa]] 
 
 
-## Intent
->“*Death is necessary. Every clock must wind down, every day must end. Without me there is no life, and never could have been. Life is change, and I represent that change.*”
-\-Ruin[6]
+3 Historia. [[#Historia]] 
+
+3. [[#El trato y la traici.C3.B3n]] 
+3. [[#Tramando la fuga]] 
+
+3. [[#Alendi]] 
+3. [[#Kelsier y Vin]] 
 
 
-Ruin is the embodiment of entropy and decay; it seeks change, so that all may age and pass. It is not inherently evil, as without change there can be no life, but its destructive actions are often contrary to life existing peacefully. This approach to Ruin as simply inevitable decay is largely due to [[Ati\|Ati's]] original kind nature, as he deliberately channeled Ruin towards a more peacable state. In other hands, the Shard would've been a far more destructive force.
-It is the polar opposite of [[Preservation\|Preservation]] -- a relation most other Shards don't have. Since the [[Final Ascension\|Final Ascension]], Preservation has tempered Ruin's intent, which also makes it difficult for anyone holding [[Harmony\|Harmony]] to take direct action heavily favoring one side or the other.
+3. [[#Destrucci.C3.B3n sobre Scadrial]] 
+3. [[#Alcanzando la Armon.C3.ADa]] 
 
-## Associated magic
- by  Matthew Johnson  [[Steel Inquisitor\|Steel Inquisitor]], a person altered by [[Hemalurgy\|Hemalurgy]]
-### Hemalurgy
-For more information, see [[Hemalurgy\|Hemalurgy]].
-Ruin fuels [[Hemalurgy\|Hemalurgy]] -- one of the three Metallic Arts on [[Scadrial\|Scadrial]], and a unique one among them in that it can be used by anyone anywhere, provided they have the appropriate tools and [[Intention\|Intent]]. It allows for removing a portion of a person's [[Spiritweb\|spiritweb]] and grafting it onto someone else with a metal spike, essentially stealing an attribute or power and giving it to another. Various attributes can be stolen, from physical qualities such as strength or senses to magical powers, like [[Allomancy\|Allomantic]] abilities, and even foreign magic systems like [[Surgebinding\|Surgebinding]]. What attribute is stolen depends on the metal used and the placement of the spike. By transplanting powers and qualities, Hemalurgy can be used to effectively create new species; examples of such creatures are [[Kandra\|kandra]], [[Koloss\|koloss]] and the [[Steel Inquisitor\|Steel Inquisitors]].
-People who are pierced by Hemalurgic spikes can hear Ruin's voice in their head. Moreover, Ruin can also subtly manipulate the emotions of spiked individuals, and slightly alter their perception of certain things without them being aware of it. The more spikes pierce a person, the more holes in their spiritweb, which in turn allows for easier control as well as greater susceptibility to emotional Allomancy. For example, humans with one spike are only subtly affected by Ruin, whereas koloss, which are humans with four spikes, are under direct and absolute control of Ruin. Three spikes or less do not enable complete control of a person.
 
-### Feruchemy
-For more information, see [[Feruchemy\|Feruchemy]].
-[[Feruchemy\|Feruchemy]] is a [[Metallic Arts\|Metallic Art]] created by both Ruin and [[Preservation\|Preservation]]. Unlike Hemalurgy, it is inheritable; a person has to be born with the ability to use it. Like Preservation's own magic, [[Allomancy\|Allomancy]], Feruchemy grants sixteen separate powers for each of the base metals, as well as additional abilities for every [[God Metal\|God Metal]]. A person can store an attribute of themselves in a piece of metal called a metalmind, diminishing it in themselves, and tap the stored attribute, increasing it in themselves -- for example, store strength to become weaker, then tap it to become stronger.
-Which attribute can be stored depends on the metal used. A person can be born a Full Feruchemist, allowing them to use all powers, or a Ferring, letting them use only one metal. The base sixteen metals are divided into four categories: physical, which store attributes of the body, cognitive, which store attributes of the mind, spiritual, which store attributes of the soul, and hybrid, which store attributes related to bodily processes, like health or energy.
+4 Influencia. [[#Influencia]] 
+5 Citas. [[#Citas]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
-### Mists
-Ruin's power can sometimes manifest in a gaseous form as black mist, though it's unclear whether it has any magical effect. Its appearance does, however, signal Ruin's presence, and is how much of Ruin's power appears in the [[Cognitive Realm\|Cognitive Realm]]. This mist is present at the Well of Ascension upon Vin's discovery of the well, and a similar manifestation appears after [[Ati\|Ati's]] death before [[Sazed\|Sazed]] takes up both shards. After the Final Ascension, black mists are sent forth by Harmony alongside Preservation's white mists.
+
+## Intención
+>“*La muerte es necesaria. Todo reloj debe pararse, todo día debe terminar. Sin mí, no hay vida, y nunca podría haberla habido. La vida es cambio y yo represento ese cambio.*”
+\-Ruina.[6]
+
+
+Ruina es la encarnación de la entropía y la decadencia; busca el cambio, para que todo pueda envejecer y pasar. No es intrínsecamente malvada, ya que sin cambio no puede haber vida, pero sus acciones destructivas suelen ser contrarias a que la vida exista pacíficamente. Este enfoque de Ruina como simple decadencia inevitable se debe en gran medida a la naturaleza bondadosa original de [[Ati\|Ati]], ya que canalizó deliberadamente a Ruina hacia un estado más pacífico. En otras manos, la Esquirla habría sido una fuerza mucho más destructiva.
+Es el polo opuesto de [[Conservaci%C3%B3n\|Conservación]] ––una relación que la mayoría de las otras Esquirlas no tienen––. Desde la [[Ascensi%C3%B3n Final\|Ascensión Final]], Conservación ha templado la Intención de Ruina, lo que también dificulta que cualquiera que sostenga [[Armon%C3%ADa\|Armonía]] tome medidas directas que favorezcan fuertemente a uno u otro bando. 
+
+## Magia asociada
+  <<Inquisidor de acero\|Inquisidor de acero>>, una persona alterada por la <<Hemalurgia\|hemalurgia>>
+### Hemalurgia
+Para más información, ver [[Hemalurgia\|Hemalurgia]].
+Ruina alimenta la [[Hemalurgia\|Hemalurgia]], una de las tres Artes Metálicas en [[Scadrial\|Scadrial]], y única entre ellas en el sentido de que puede ser utilizada por cualquier persona en cualquier lugar, siempre que tenga las herramientas y la [[Intenci%C3%B3n\|intención]] apropiadas. Permite extraer una porción de la [[Redesp%C3%ADritu\|redespíritu]] de una persona e injertarla en otra con un clavo de metal, esencialmente robando un atributo o poder y dándoselo a otro. Se pueden robar varios atributos, desde cualidades físicas, como la fuerza o los sentidos, hasta poderes mágicos, como las habilidades [[Alomancia\|alománticas]], e incluso sistemas de magia ajena como la [[Potenciaci%C3%B3n\|Potenciación]]. El atributo que se roba depende del metal utilizado y de la colocación del clavo. Mediante el trasplante de poderes y cualidades, la hemalurgia puede utilizarse para crear efectivamente nuevas especies; ejemplos de tales criaturas son los [[Kandra\|kandra]], los [[Koloss\|koloss]] y los [[Inquisidores de acero\|inquisidores de acero]].
+Las personas atravesadas por clavos hemalúrgicos pueden oír la voz de Ruina en su cabeza. Además, Ruina también puede manipular sutilmente las emociones de los individuos con clavos, y alterar ligeramente su percepción de ciertas cosas sin que sean conscientes de ello. Cuantos más clavos atraviesen a una persona, más agujeros habrá en su redespíritu, lo que a su vez permite un control más fácil, así como una mayor susceptibilidad a la alomancia emocional. Por ejemplo, los humanos con un clavo sólo son afectados sutilmente por Ruina, mientras que los koloss, que son humanos con cuatro clavos, están bajo el control directo y absoluto de la Ruina. Tres clavos o menos no permiten el control total de una persona.
+
+### Feruquimia
+Para más información, ver [[Feruquimia\|Feruquimia]].
+La [[Feruquimia\|feruquimia]] es un [[Artes met%C3%A1licas\|arte metálica]] creado tanto por Ruina como por [[Conservaci%C3%B3n\|Conservación]]. A diferencia de la hemalurgia, es heredable; una persona tiene que nacer con la habilidad de usarla. Al igual que la magia propia de Conservación, la [[Alomancia\|alomancia]], la feruquimia otorga dieciséis poderes distintos para cada uno de los metales base, así como habilidades adicionales para cada [[Metal divino\|metal divino]]. Una persona puede almacenar un atributo propio en una pieza de metal llamada mente de metal, disminuyéndolo de sí mismo, y aprovechar el atributo almacenado, aumentándolo en sí mismo por ejemplo; almacenar la fuerza para volverse más débil, y luego aprovecharla para volverse más fuerte.
+El atributo que se puede almacenar depende del metal utilizado. Una persona puede nacer como feruquímico completo, lo que le permite utilizar todos los poderes, o como ferrin, lo que le permite utilizar sólo un metal. Los dieciséis metales base se dividen en cuatro categorías: físicos (que almacenan atributos del cuerpo), cognitivos (que almacenan atributos de la mente) espirituales (que almacenan atributos del alma) e híbridos (que almacenan atributos relacionados con los procesos corporales, como la salud o la energía).
+
+### Brumas
+El poder de Ruina puede manifestarse a veces en forma gaseosa como una bruma negra, aunque no está claro si tiene algún efecto mágico. Sin embargo, su aparición señala la presencia de Ruina, y es la forma en que aparece gran parte del poder de Ruina en el [[Reino Cognitivo\|Reino Cognitivo]]. Esta bruma está presente en el Pozo de la Ascensión cuando Vin lo descubre, y una manifestación similar aparece tras la muerte de [[Ati\|Ati]] antes de que [[Sazed\|Sazed]] tome ambas esquirlas. Después de la Ascensión Final, las brumas negras son enviadas por Armonía junto a las brumas blancas de Conservación.
 
 ### Atium
-For more information, see [[Atium\|Atium]].
-In solid form, Ruin's power appears as the metal [[Atium\|atium]], named after the original Vessel. Like all God Metals, atium has its uses in the [[Metallic Arts\|Metallic Arts]]. In [[Allomancy\|Allomancy]], it allows the user to see a few seconds into the future; in [[Feruchemy\|Feruchemy]], it can be used to store youth, and through [[Compounding\|compounding]], it permits near-agelessness. As a [[Hemalurgic\|Hemalurgic]] spike, atium can steal any power, including those of other magic systems, though it must first be refined.
-Atium burns incredibly quickly; even a relatively large bead lasts for only about two minutes. Prior to the [[Final Ascension\|Final Ascension]], the metal could only be found in the [[Pits of Hathsin\|Pits of Hathsin]], which surrounded Ruin's [[Perpendicularity\|perpendicularity]]; a lake with black sheen, originally high in the mountains, near the [[Well of Ascension\|Well of Ascension]], though it was moved underground by [[Rashek\|Rashek]] during his reshaping of the planet. Production there ceased when [[Kelsier\|Kelsier]] destroyed the crystals that atium grew from. Post-[[Catacendre\|Catacendre]], atium can no longer be formed, though remnants from before [[Ati\|Ati's]] death still exist.
+Para más información, ver [[Atium\|Atium]].
+En forma sólida, el poder de Ruina aparece como el metal [[Atium\|atium]], llamado así por el Recipiente original. Como todos los metales divinos, el atium tiene sus usos en las [[Artes Met%C3%A1licas\|Artes Metálicas]]. En la [[Alomancia\|alomancia]], permite al usuario ver unos segundos en el futuro; en la [[Feruquimia\|feruquimia]], puede utilizarse para almacenar la juventud y, mediante la [[Composici%C3%B3n\|composición]], permite la casi desaparición del envejecimiento. Como clavo [[Hemal%C3%BArgico\|hemalúrgico]], el atium puede robar cualquier poder, incluidos los de otros sistemas mágicos, aunque primero debe ser refinado.
+El atium arde increíblemente rápido; incluso una perla relativamente grande sólo dura unos dos minutos. Antes de la [[Ascensi%C3%B3n Final\|Ascensión Final]], el metal sólo podía encontrarse en los [[Pozos de Hathsin\|Pozos de Hathsin]], que rodeaban la [[Perpendicularidad de Ruina\|Perpendicularidad de Ruina]]; un lago de brillo negro, originalmente en lo alto de las montañas, cerca del [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], aunque fue trasladado al subsuelo por [[Rashek\|Rashek]] durante su remodelación del planeta. La producción allí cesó cuando [[Kelsier\|Kelsier]] destruyó los cristales en los que crecía el atium. Después del [[Catacendro\|Catacendro]], ya no se puede formar atium, aunque todavía existen restos de antes de la muerte de [[Ati\|Ati]]. 
 
-### Direct intervention
-Despite its destructive intent, Ruin is capable of, together with Preservation, vast acts of creations; among others, [[Ati\|Ati's]] partially responsible for creating the planet [[Scadrial\|Scadrial]], and has worked together with [[Leras\|Leras]] to fill it with living, thinking creatures. This grants him additional abilities within the world -- he can read and alter any text not written in metal, and even alter the landscape itself, prompting volcanic explosions and earthquakes. Ruin also lets the Vessel take on appearance and voice of different people, and lets him speak into the minds of others, though they must be either mentally unsound or pierced by a [[Hemalurgic\|Hemalurgic]] spike to hear Ruin's voice.
+### Intervención directa
+A pesar de su Intención destructiva, Ruina es capaz, junto con Conservación, de realizar enormes actos de creación entre otros como la creación del planeta [[Scadrial\|Scadrial]] por parte de [[Ati\|Ati]], trabajando junto a [[Leras\|Leras]] para llenar el planeta de criaturas vivas y pensantes. Esto le otorga habilidades adicionales dentro del mundo ––puede leer y alterar cualquier texto que no esté escrito en metal–– e incluso alterar el propio paisaje, provocando explosiones volcánicas y terremotos. Ruina también permite que su Recipiente adopte la apariencia y la voz de diferentes personas, y le permite hablar en la mente de los demás, aunque deben estar mentalmente inseguros o atravesados por un clavo [[Hemal%C3%BArgico\|hemalúrgico]] para escuchar su voz.
 
-## History
-For the history of Ati prior to becoming Ruin, see Ati#History.
-### The Deal and Betrayal
-The [[Shard\|Shard]] of Ruin was created on the planet [[Yolen\|Yolen]] at the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]], along with fifteen others, and taken up by [[Ati\|Ati]]. He, along with [[Preservation\|Preservation's]] Vessel [[Leras\|Leras]], departed the planet, and eventually wound up in an empty star system. Originally, the two Shards were balanced there -- though they could create by working together, neither would be happy with the end result.
-Eventually, Preservation's desire to make sapient creatures prompted him to offer a deal to Ruin. Together, they could create [[Scadrial\|Scadrial]] and fill it with living beings; by endowing them with sapience, Preservation would give up part of himself. In doing so, he left himself weaker than Ruin, which formed the basis of their agreement that Ruin would be allowed to destroy the world some day.
-However, Preservation broke the terms of the deal by sacrificing his mind to create a prison for Ruin, preventing him from destroying the planet. Furthermore, in an attempt to balance the two Shards, he sequestered away a portion of Ruin's power by condensing it into the metal [[Atium\|atium]].
+## Historia
+Para la historia de Ati antes de convertirse en Ruina, ver [[/wiki/Ati#Historia]].
+### El trato y la traición
+La [[Esquirla\|Esquirla]] de Ruina fue creada en el planeta [[Yolen\|Yolen]] en la [[Fragmentaci%C3%B3n\|Fragmentación]] de [[Adonalsium\|Adonalsium]] junto con otras quince, y recogida por [[Ati\|Ati]]. Él, junto con el Recipiente de [[Conservaci%C3%B3n\|Conservación]], [[Leras\|Leras]], partió del planeta, y con el tiempo fue a parar a un sistema estelar vacío. Originalmente, las dos Esquirlas se equilibraban allí, aunque podían crear trabajando juntas, ninguna estaría contenta con el resultado final.
+Con el tiempo, el deseo de Conservación de crear criaturas sapientes le llevó a ofrecer un trato a Ruina; Juntos podrían crear [[Scadrial\|Scadrial]] y llenarla de seres vivos al dotarlos de sapiencia, Conservación renunciaría a una parte de sí mismo, al hacerlo se dejó a sí mismo más débil que Ruina, lo que constituyó la base de su acuerdo; que a Ruina se le permitiría destruir el mundo algún día.
+Sin embargo, Conservación rompió los términos del trato sacrificando su mente para crear una prisión para Ruina, impidiendo que destruyera el planeta. Además, en un intento de equilibrar las dos Esquirlas, secuestró una parte del poder de Ruina condensándolo en el metal [[Atium\|atium]].
 
- by  Eleonor Piteira  [[Vin\|Vin]] sinking into the [[Well of Ascension\|Well of Ascension]], freeing Ruin
-### Plotting Escape
->“*'Giving the power up’ is a stand-in for giving the power to [Ruin]. The powers would interpret that as me releasing him. My power, accepting his touch back into the world, directly.*”
-\-Leras[39]
+  <<Vin\|Vin>> sumergiéndose en el <<Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión>>, liberando a Ruina
+### Tramando la fuga
+>“*'Renunciar al poder' es un eufemismo de entregárselo a él [Ruina]. Los poderes lo interpretarían como si yo estuviera liberándolo. Se trataría de mi poder aceptando de nuevo su influencia directa sobre el mundo.*”
+\-Leras.[39]
 
 
 #### Alendi
-Ruin's prison, the [[Well of Ascension\|Well of Ascension]], had a fatal flaw: every thousand and twenty four years, the [[Perpendicularity\|perpendicularity]] would fill, requiring someone to take up the power. Were that person then to release it, Ruin's prison would vanish, letting him out; only by using the power themselves could that person, dubbed the [[Hero of Ages\|Hero of Ages]], keep Ruin trapped.
-Despite being imprisoned in the Well, Ruin could still affect the world in minuscule ways, and thus began to plan for exploiting this fatal flaw to free himself. His initial scheme was to use [[Alendi\|Alendi]], chosen by the power of the Well, and convince him, through altering the [[Terris Prophecies\|Terris Prophecies]], to free him. However, a [[Terrisman\|Terrisman]] named [[Kwaan\|Kwaan]] realized Ruin's alterations. He sent his nephew, [[Rashek\|Rashek]], to try and stop Alendi from reaching the Well. Rashek eventually killed Alendi and took the power for himself, becoming [[The Lord Ruler\|the Lord Ruler]] and perpetuating Ruin's imprisonment.
+La prisión de Ruina, el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], tenía un defecto fatal: cada mil veinticuatro años, la [[Perpendicularidad\|perpendicularidad]] se llenaba, requiriendo que alguien tomara el poder. Si esa persona lo liberaba, la prisión de Ruina se desvanecía, dejándolo salir; sólo usando el poder por sí mismo podía esa persona, apodada el [[H%C3%A9roe de las Eras\|Héroe de las Eras]], mantener a Ruina atrapada.
+A pesar de estar preso en el Pozo, Ruina aún podía afectar al mundo de forma minúscula, y por ello comenzó a planear la explotación de este defecto fatal para liberarse. Su plan inicial consistía en utilizar a [[Alendi\|Alendi]], elegido por el poder del Pozo, y convencerle, mediante la alteración de las [[Profec%C3%ADas de Terris\|Profecías de Terris]], de que le liberara. Sin embargo, un [[Terrisano\|terrisano]] llamado [[Kwaan\|Kwaan]] se dio cuenta de las alteraciones de Ruina. Envió a su sobrino, [[Rashek\|Rashek]], para intentar impedir que Alendi llegara al Pozo. Rashek acabó matando a Alendi y tomó el poder para sí mismo, convirtiéndose en el [[Lord Legislador\|lord Legislador]] y perpetuando el encarcelamiento de Ruina.
 
-#### Kelsier and Vin
-Undeterred, Ruin began working on another idea, timing it with the Well's next call, a thousand years later. His plan was two-pronged: first, to ensure that Rashek would be killed, thus opening the way to the Well for others; second, to create someone who would enter the Well and release the power. For the first, he manipulated [[Kelsier\|Kelsier]], a [[Skaa\|skaa]] [[Allomancy\|Mistborn]], with fabricated tales of the so-called Eleventh Metal, [[Malatium\|malatium]], convincing him that it would be the key to defeating the Lord Ruler; which, in a way, it turned out to be.
-For the second, Ruin picked a perfect pawn: another skaa Mistborn, a girl named [[Vin\|Vin]] with an insane mother and an infant [[Allomancer\|Allomancer]] sister. Speaking to the mother, Ruin caused her to kill the younger daughter and fashion a Hemalurgic spike out of her, then pierce Vin with the spike. Vin, unaware of this, eventually started wearing the spike as an earring and refused to give it up due to Ruin's influence, thus letting him subtly manipulate her. He did so mostly through the voice of her deceased brother, [[Reen\|Reen]].
-Eventually, the Well filled again, and Vin entered its chamber. [[Kelsier\|Kelsier]], now a [[Cognitive Shadow\|Cognitive Shadow]] and up to speed on Ruin's plan thanks to [[Leras\|Leras]], attempted to stop her from releasing the power. To no avail, though -- Vin did so, and freed Ruin.
+#### Kelsier y Vin
+Sin inmutarse, Ruina comenzó a trabajar en otra idea, haciéndola coincidir con la siguiente llamada del Pozo, mil años después. Su plan tenía dos vertientes: primero, asegurarse de que Rashek fuera asesinado, abriendo así el camino al Pozo para otros; segundo, crear a alguien que entrara en el Pozo y liberara el poder. Para lo primero, manipuló a [[Kelsier\|Kelsier]], un [[Skaa\|skaa]] [[Alomancia\|nacido de la bruma]], con historias inventadas sobre el llamado undécimo metal, el [[Malatium\|malatium]], convenciéndole de que sería la clave para derrotar al lord Legislador; lo que, en cierto modo, resultó ser cierto.
+Para la segunda, Ruina eligió un peón perfecto: otro skaa nacido de la bruma, una niña llamada [[Vin\|Vin]] con una madre demente y una hermana pequeña [[Alomancia\|alomante]]. Hablando con la madre, Ruina hizo que matara a la hija menor y fabricara un clavo hemalúrgico con ella, para luego atravesar a Vin con el clavo. Vin, sin saberlo, acabó llevando el clavo como un pendiente y se negó a renunciar a él debido a la influencia de Ruina, dejando así que la manipulara sutilmente. Lo hizo principalmente a través de la voz de su hermano fallecido, [[Reen\|Reen]].
+Con el tiempo, el pozo volvió a llenarse y Vin entró en su cámara. [[Kelsier\|Kelsier]], ahora una [[Sombra Cognitiva\|Sombra Cognitiva]] y al tanto del plan de Ruina gracias a [[Leras\|Leras]], intentó impedir que liberara el poder. Pero fue en vano: Vin lo hizo y liberó a Ruina.
 
-### Destruction upon Scadrial
- by  zoethatcher_art  Ruin in the [[Cognitive Realm\|Cognitive Realm]]
->“*I have come to claim what was promised me. The only point in creating something is to watch it die.*”
-\-Ruin[29]
-
-
-Once free, Ruin immediately set out on his plan to destroy [[Scadrial\|Scadrial]]; however, his power locked in [[Atium\|atium]] still diminished him enough to equal him with Preservation, and so he could not simply make it vanish in an instant. He tried to amend it by sending people out to find the missing atium stash. At the same time, he began killing all Scadrians. [[Ashmounts\|Ashmounts]] would erupt much more frequently, causing the omnipresent ash to fall more heavily and lava flows to endanger several towns. Earthquakes also became much more common, and started appearing in more places; while they used to be practically unheard of in the [[Dominance\|Inner Dominances]], they began to appear there frequently.
-Prompted by [[Ati\|Ati's]] inherent need to gloat, Ruin began appearing to both [[Vin\|Vin]] and [[Kelsier\|Kelsier]] to boast about his achievements; it was those meetings that allowed the two to realize that Ruin was a person, and not merely a force. However, Ruin was also manipulating people to sow further chaos -- he took control of the [[Steel Inquisitor\|Steel Inquisitors]] and the [[Koloss\|koloss]] to create more of both. He also arranged for [[Penrod\|Penrod]] and [[Spook\|Spook]] to have Hemalurgic spikes to make sure he could use them. This would make [[Luthadel\|Luthadel]] and [[Urteau\|Urteau]] too disorganized to mount a defense, requiring Vin and [[Elend\|Elend's]] attention. Though Ruin's scheme in Luthadel was successful, he ultimately failed in Urteau thanks to both Spook's force of will and the intervention of [[Kelsier\|Kelsier]].
-
- by  Elisgardor  [[Sazed\|Sazed]] ascending to [[Harmony\|Harmony]]
-### Achieving Harmony
-For the history of Sazed prior to becoming Ruin, see Sazed#History.
->“*You think this was your plan? It was [Preservation]'s. His all along. You created the thing that can kill you, Ruin.*”
-\-Vin[52]
+### Destrucción sobre Scadrial
+  Ruina en el <<Reino Cognitivo\|Reino Cognitivo>>
+>“*He venido a reclamar lo que se me prometió. El único sentido de crear algo es verlo morir.*”
+\-Ruina.[29]
 
 
-Seeking to fight Ruin, Kelsier, now the temporary vessel of [[Preservation\|Preservation]], sought a way to pass the power onto Vin, whom Leras pointed out as its intended recipient. After freeing Spook from Ruin's influence, he told him to send a message to her written in metal, telling her about what was going on. Ruin, knowing what Kelsier was planning, sent [[Marsh\|Marsh]], one of his Inquisitors, to kill the messanger and read the text out-loud, thus letting Ruin know what had been written. However, that was part of Kelsier's plan -- as Marsh found out what was going on, he managed, in a moment of lucidity, to tear the earring out of Vin's ear, letting Kelsier bestow Preservation upon her.
-After her Ascension, Vin clashed with Ruin a few times, though she was never able to overpower him, as at the time, the two Shards were far too balanced. The tipping point, however, came during the [[Battle of Hathsin\|Battle of Hathsin]]. There, Ruin, through the [[Koloss\|koloss]] and Inquisitors it controlled, sought to find the atium cache. At the same time, [[Elend\|Elend]] and his armies, their [[Allomancy\|Allomancy]] boosted by Vin, confronted Ruin's forces on the surface. Eventually, the stash turns out to be empty -- Elend had used all the atium with his mistings during the fight. At the same time, [[Marsh\|Marsh]], under Ruin's control, managed to kill Elend, and taunted Vin about it. Mourning, Vin, now free from all ties to the world, attacked Ruin directly. The collision between two equal and perfectly opposing forces killed both Vessels.
-This end of Ruin was Preservation's plan all along. Leras had held Preservation for so long that he was bound by its intent, and could not kill or destroy anything, not even Ruin. And so, he arranged to have the Shard pass on to a new Vessel, who would not be so strongly bound by the Shard's intent and thus would have more freedom to use its power.
-However, the planet was still dying, and thus Preservation's plan reached its conclusion. [[Sazed\|Sazed]], present at the battle though not directly participating, saw the two powers and took up both of them, mixing them together into [[Harmony\|Harmony]]. With them, Sazed reconstituted the [[Scadrial\|Scadrial]] that had existed before the Lord Ruler’s Ascension. 
+Una vez libre, Ruina emprendió inmediatamente su plan para destruir [[Scadrial\|Scadrial]]; sin embargo, su poder encerrado en el [[Atium\|atium]] aún lo atenuaba lo suficiente como para igualarlo con Conservación, por lo que no podía simplemente hacerlo desaparecer en un instante. Intentó enmendarlo enviando gente a buscar el alijo de atium desaparecido. Al mismo tiempo, comenzó a matar a todos los scadrianos. Los [[Montes de Ceniza\|Montes de Ceniza]] entraban en erupción con mucha más frecuencia, haciendo que la omnipresente ceniza cayera con más fuerza y que los flujos de lava pusieran en peligro a varias ciudades. Los terremotos también se volvieron mucho más comunes, y empezaron a aparecer en más lugares; mientras que antes eran prácticamente inauditos en el [[Dominio\|Dominio interior]], empezaron a darse allí con frecuencia.
+Impulsado por la necesidad inherente de [[Ati\|Ati]] de regodearse, Ruina comenzó a aparecerse tanto a [[Vin\|Vin]] como a [[Kelsier\|Kelsier]] para presumir de sus logros; fueron esos encuentros los que permitieron a ambos darse cuenta de que Ruina era una persona, y no sólo una fuerza. Sin embargo, Ruina también manipulaba a la gente para sembrar más caos: tomó el control de los [[Inquisidores de acero\|inquisidores de acero]] y de los [[Koloss\|koloss]] para crear más de ambos. También dispuso que [[Penrod\|Penrod]] y [[Fantasma\|Fantasma]] tuvieran clavos hemalúrgicos para asegurarse de poder utilizarlos. Esto haría que [[Luthadel\|Luthadel]] y [[Urteau\|Urteau]] estuvieran demasiado desorganizados para montar una defensa, requiriendo la atención de Vin y [[Elend\|Elend]]. Aunque el plan de Ruina en Luthadel tuvo éxito, finalmente fracasó en Urteau gracias tanto a la fuerza de voluntad de Fantasma como a la intervención de [[Kelsier\|Kelsier]].
 
-For the subsequent events, see Harmony#History.
-## Influence
- by  ToastSamurai  [[Preservation\|Preservation]], [[Harmony\|Harmony]] and Ruin
->“*You make our religion all about you. They hardly remember the truth any longer.*”
-\-Leras to Ruin[57]
+  <<Sazed\|Sazed>> ascendiendo a <<Harmony\|Harmony>>
+### Alcanzando la Armonía
+Para la historia de Sazed antes de convertirse en Ruina, ver [[/wiki/Sazed#Historia]].
+>“*¿Crees que fue tu plan? Era suyo [de Conservación]. Todo el tiempo. Creaste aquello que podía matarte, Ruina.*”
+\-Vin.[52]
 
 
-Ruin's influence is omnipresent on [[Scadrial\|Scadrial]]; he was one of the planet's creators, and all things and living beings upon it are partially of him.. Later, he manipulated its people and texts to arrange for his own freedom. He's also responsible by proxy for the planet's miserable state during [[Rashek\|Rashek's]] reign, as the Lord Ruler's changes were partially prompted by his desire to oppose Ruin. Later, it was Ruin's destruction of the planet that caused [[Sazed\|Sazed]] to pick up the two powers and return Scadrial to its prior state.
-Unsurprisingly, Ruin features in a number of Scadrian religions. The cult of the [[Lord Ruler\|Lord Ruler]] feared the [[Deepness\|Deepness]], an ancient enemy that Rashek defeated at the Well -- though that was a misinterpretation of [[Preservation\|Preservation's]] snapping [[Mist\|mists]]. The religion of [[Trelagism\|Trelagism]], from Scadrial's [[Classical Scadrial\|Classical]] period, spoke of two gods, Trell and Nalt, who were each other's brothers and enemies. The Terris religion likewise preaches about Ruin and Preservation. In the present times, the [[Southern Scadrian\|Southern Scadrians]] worship the Jaggenmire, a combination of Ruin and Preservation; within the Jaggenmire, Ruin is known as **Herr**, and is described as both the brother and the husband to the other half, Frue -- he puts things into motion, while she makes them stop, and the two must work together to create life.
-Ruin's influence extends, however slightly, to other [[Cosmere\|cosmere]] worlds. [[Hemalurgy\|Hemalurgy]] has been used on other planets, albeit subtly. Additionally, [[Nightblood\|Nightblood]] contains Ruin's [[Investiture\|Investiture]]. How it got involved in the sword's creation is unclear, though it's likely due to the [[Command\|Command]] that made it being about destruction.
+Buscando combatir a Ruina, Kelsier, ahora el Recipiente temporal de [[Conservaci%C3%B3n\|Conservación]], buscó la manera de pasar el poder a Vin, a quien Leras señaló como su destinatario. Después de liberar a Fantasma de la influencia de Ruina, le dijo que le enviara un mensaje escrito en metal, contándole lo que estaba pasando. Ruina, sabiendo lo que Kelsier estaba planeando, envió a [[Marsh\|Marsh]], uno de sus inquisidores, para que matara al mensajero y leyera el texto en voz alta, haciendo así que Ruina supiera lo que se había escrito. Sin embargo, eso formaba parte del plan de Kelsier: cuando Marsh se enteró de lo que estaba pasando, consiguió, en un momento de lucidez, arrancar el pendiente de la oreja de Vin, dejando que Kelsier le otorgara a Conservación.
+Después de su ascensión, Vin se enfrentó a Ruina unas cuantas veces, aunque nunca fue capaz de dominarla, ya que en ese momento, las dos Esquirlas estaban demasiado equilibradas. El punto de inflexión, sin embargo, llegó durante la [[Batalla de Hathsin\|Batalla de Hathsin]]. Allí, Ruina, a través de los [[Koloss\|koloss]] e inquisidores que controlaba, trató de encontrar el alijo de atium. Al mismo tiempo, [[Elend\|Elend]] y sus ejércitos, con su [[Alomancia\|alomancia]] potenciada por Vin, se enfrentaron a las fuerzas de Ruina en la superficie. Con el tiempo, el almacén resultó estar vacío: Elend había utilizado todo el atium con sus brumosos durante la lucha. Al mismo tiempo, [[Marsh\|Marsh]], bajo el control de Ruina, consiguió matar a Elend, y se burló de Vin por ello. De luto, Vin, ahora libre de todo vínculo con el mundo, atacó directamente a Ruina. La colisión entre dos fuerzas iguales y perfectamente opuestas mató a ambos Recipientes.
+Este fin de Ruina era el plan de Conservación desde el principio. Leras había mantenido a Conservación durante tanto tiempo que estaba atado por su Intención, y no podía matar o destruir nada, ni siquiera a Ruina. Y así, dispuso que la Esquirla pasara a un nuevo Recipiente, que no estaría tan fuertemente limitado por la Intención de la Esquirla y, por tanto, tendría más libertad para utilizar su poder.
+Sin embargo, el planeta seguía muriendo, y así el plan de Conservación llegó a su fin. [[Sazed\|Sazed]], presente en la batalla aunque no participando directamente, vio los dos poderes y tomó ambos, mezclándolos en [[Armon%C3%ADa\|Armonía]]. Con ellos, Sazed reconstituyó el [[Scadrial\|Scadrial]] que había existido antes de la Ascensión del lord Legislador.
 
-## Quotes
-For a list of quotes from Ruin, see [[Ruin/Quotes\|Ruin/Quotes]].
-## Trivia
-Ruin originated in the trunked novel *Aether of Night*, where he was known as **Decay**.
-In *Magic: The Gathering*, colors, Ruin would be pure black.
-[[Odium\|Odium]] was convinced that Ruin would implode.
+Para los acontecimientos posteriores, ver [[/wiki/Armon%C3%ADa#Historia]].
+## Influencia
+  <<Conservaci%C3%B3n\|Conservación>>, <<Armon%C3%ADa\|Armonía>> y Ruina
+>“*Estás centrando solo en ti nuestra religión. Ya apenas recuerdan la verdad.*”
+\-Leras a Ruina.[57]
 
 
-https://coppermind.net/wiki/Ruin
+La influencia de Ruina es omnipresente en [[Scadrial\|Scadrial]]; fue uno de los creadores del planeta, y todas las cosas y seres vivos que hay en él son parcialmente de él.. Más tarde, manipuló a sus gentes y textos para conseguir su propia libertad. También es responsable por delegación del miserable estado del planeta durante el reinado de [[Rashek\|Rashek]], ya que los cambios del lord Legislador fueron parcialmente impulsados por su deseo de oponerse a Ruina. Más tarde, fue la destrucción del planeta por su parte lo que provocó que [[Sazed\|Sazed]] recogiera los dos poderes y devolviera a Scadrial a su estado anterior.
+No es de extrañar que Ruina aparezca en varias religiones de Scadrial. El culto del [[Lord Legislador\|lord Legislador]] temía a [[La Profundidad\|la Profundidad]], un antiguo enemigo al que Rashek derrotó en el Pozo –aunque se trataba de una interpretación errónea de las [[Brumas\|brumas]] que hacían Romper de [[Conservaci%C3%B3n\|Conservación]]–. La religión del [[Trelagismo\|Trelagismo]], del periodo [[Scadrial cl%C3%A1sico\|clásico]], hablaba de dos dioses, Trell y Nalt, que eran hermanos y enemigos entre sí. La religión de Terris predica igualmente sobre Ruina y Conservación. En los tiempos actuales, los [[Scadriano del sur\|scadrianos del sur]] adoran al Jaggenmire, una combinación de Ruina y Conservación; dentro del Jaggenmire, Ruina es conocida como **Herr**, y es descrito como el hermano y el marido de la otra mitad, Frue, él pone las cosas en movimiento, mientras que ella las hace parar, y los dos deben trabajar juntos para crear vida.
+La influencia de Ruina se extiende, aunque ligeramente, a otros mundos del [[Cosmere\|Cosmere]]. La [[Hemalurgia\|hemalurgia]] se ha utilizado en otros planetas, aunque de forma sutil. Además, [[Sangre Nocturna\|Sangre Nocturna]] contiene la [[Investidura\|Investidura]] de Ruina. No está claro cómo se involucró en la creación de la espada, aunque es probable que se deba a que el [[Mandato\|Mandato]] que la fabricó tenía que ver con la destrucción.
+
+## Citas
+Para una lista de las citas de Ruina, ver [[Ruina/Citas\|Ruina/Citas]].
+## Curiosidades
+En los colores de **, Ruina sería negro puro.
+[[Odium\|Odium]] estaba convencido de que Ruina implosionaría. 
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] ·  · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] ·  · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Ruin

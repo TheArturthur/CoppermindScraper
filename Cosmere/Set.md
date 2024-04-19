@@ -1,93 +1,116 @@
-|**Set**|
+
+
+|**El Grupo**|
 |-|-|
-|**Type**|Criminals|
-|**World of Origin**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Tipo**|Criminales|
+|**Mundo de origen**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**The Set** is a secret organization on [[Scadrial\|Scadrial]] who serve the deity known as [[Trell (Trellism)\|Trell]], which is an avatar of [[Autonomy\|Autonomy]]. Their primary purpose is to overthrow the [[Elendel Basin\|Elendel Basin]] government and rule Scadrial in order to prove to Autonomy that life on the planet can continue to exist.
+**El Grupo** es una organización secreta de [[Scadrial\|Scadrial]] que sirve a la deidad conocida como [[Trell (trellismo)\|Trell]], que es un avatar de [[Autonom%C3%ADa\|Autonomía]]. Su objetivo principal es derrocar al gobierno de la [[Cuenca de Elendel\|Cuenca de Elendel]] y gobernar Scadrial para demostrar a Autonomía que la vida en el planeta puede seguir existiendo.
 
-## Contents
+## Sumario
 
-1 History
+1 Historia. [[#Historia]] 
 
-1.1 Origins
-1.2 The Vanishers
-1.3 The Bands of Mourning
-1.4 Accelerated Timeline
-1.5 Bilming
-
-
-2 Organization
-3 Known Members of the set
-
-3.1 The Key
-3.2 Sequences
-3.3 Suits
-3.4 Cycles
-3.5 Unknown Rank
+1. [[#Origen]] 
+1. [[#Los desvanecedores]] 
+1. [[#Los Brazales de Duelo]] 
+1. [[#Cronolog.C3.ADa acelerada]] 
+1. [[#Bilming]] 
 
 
-4 Notes
+2 Organización. [[#Organizaci.C3.B3n]] 
+3 Miembros conocidos del Grupo. [[#Miembros conocidos del Grupo]] 
+
+3. [[#Clave]] 
+3. [[#Secuencias]] 
+3. [[#Conjunto]] 
+3. [[#Ciclos]] 
+3. [[#Rango desconocido]] 
 
 
-## History
-### Origins
-The Set was the result of a domino effect stemming from [[Kelsier\|Kelsier's]] actions. At some point a number of semi-cosmere-aware individuals discovered the existence of [[Shard\|ancient gods]], went looking for them, and ended up finding/being found by Autonomy. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male Trell and interacting with her through Trell's "Faceless Immortals". At some point, Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals.
-[[Telsin Ladrian\|Telsin Ladrian]] eventually discovered the existence of the Set and joined it (in a manner very similar to how the Set found Autonomy), later recruiting [[Edwarn Ladrian\|Edwarn Ladrian]]. They eventually rose to the ranks of Sequence and Suit, respectively.
-
-### The Vanishers
-Edwarn Ladrian faked his death to enter the Set. He provided funding for [[Miles Dagouter\|Miles Dagouter]] and the [[Vanishers\|Vanishers]]. The Vanishers were instructed to kidnap female descendants of the [[Spook\|Lord Mistborn]] in order to breed more [[Misting\|Mistings]] for some unknown purpose. The Vanishers did this through a series of elaborate, and seemingly supernatural, train robberies. [[Waxillium Ladrian\|Waxillium Ladrian]] discovered that his uncle lived after capturing Miles. During Wax's encounter with his uncle, Wax stole Edwarn's pocketbook that contained appointments and notes.
-
-### The Bands of Mourning
-Wax was provided with information from the [[Kandra\|kandra]] that the Set was operating in the city of [[New Seran\|New Seran]], and that his sister [[Telsin\|Telsin]] was observed there. While Wax and company traveled to New Seran they were attacked in a Set train robbery. Professor [[Irich\|Irich]] was present. When they arrived in New Seran Wax and [[Steris\|Steris]] attended a ball at the home of a local noble Lady [[Kelesina Shores\|Kelesina Shores]]. Wax learned about Set activities near [[Dulsing\|Dulsing]]. When he confronted Lady Shores she was communicating with Suit through a strange metal box. Lady Shores was killed by a servant and discovered to be wearing a [[Gold\|gold]] [[Metalmind\|metalmind]] that was not keyed to an individual. The goldmind had a large amount of health stored in it and [[Wayne\|Wayne]] was able to tap it.
-The party then traveled to Dulsing, where a Set compound had been built around the entire town. They infiltrated the compound and discovered what appeared to be a large boat in the center. The boat was actually the *Brunstell*, a [[Southern Scadrian\|Southern Scadrian]] airship. Wax was able to rescue Telsin. [[Marasi\|Marasi]] and [[MeLaan\|MeLaan]] discovered and rescued a Southern Scadrian named [[Allik\|Allik]] who had been held captive in the offices of Professor Irich. They escaped the compound in the *Wilg*, an outrigger from the main airship.
-From there they attempted to get to the [[Sovereign's temple\|Sovereign's temple]] to secure the [[Bands of Mourning\|Bands of Mourning]] before a Set expedition could. They arrived at the Temple first and the Set arrived shortly after. Suit used threats and was able to accompany Wax into the Temple. Wax and company were then betrayed by Telsin who was revealed to hold the Set rank of Sequence, a higher rank than Suit. Suit and Sequence were also revealed to have [[Hemalurgy\|Hemalurgic]] Spikes, granting themselves three [[Metallic Arts\|Metallic Arts]] abilities each.
-The search for the Bands appeared to be lost. The Set was interested in the Bands of Mourning, but their primary objective was to secure the Hunter airship, and its bombs, that were abandoned at the temple. Upon first entering the Temple [[Wayne\|Wayne]] took the spear tip from a statue of the [[Sovereign\|Sovereign]]. He had put the spear tip in Marasi's bag. She discovered that it was in fact the Bands of Mourning. She was able to rescue Wax, who then used the Bands to confront Suit on the departing airship. He apprehended Suit and recovered the airship. The Set members were imprisoned and the airship was returned to the surviving Southern Scadrians. Sequence escaped from the Temple in the *Wilg*.
-
-### Accelerated Timeline
->“* The Set had been planning for events a century or more away.*”
-\- Mister Suit[14]
+4 Notas. [[#Notas]] 
 
 
-The Set had evidently planned for its goals to be reached a century in the future. With the discovery of the Bands of Mourning, Southern Scadrians, and their technology, the timeline was accelerated. While held in an Elendel jail, Suit was visited by a mysterious creature with red eyes. He told Suit that the Set had decided that allowing civilization on Scadrial to continue was too dangerous and that they decided to "remove life on this sphere instead." The creature then activated an explosive device, killing Suit.
-Before Autonomy could attack Scadrial, Telsin somehow managed to convince Autonomy to give the Set a chance to take over the planet again. Autonomy, ever appreciative of bold, ambitious actions, responded by Investing Telsin as her avatar. However, she also granted Telsin a deadline before which the world would have to find itself under Set's control, as on a specific date, the artificial [[Perpendicularity\|perpendicularity]] she was creating to let her armies in would be opened.
+## Historia
+### Origen
+El Grupo fue el resultado de un efecto dominó derivado de las acciones de [[Kelsier\|Kelsier]]. En algún momento, una serie de individuos semiconscientes del Cosmere descubrieron la existencia de [[Esquirla\|dioses antiguos]], fueron en su busca y acabaron encontrando/siendo encontrados por la Autonomía. Los líderes del Grupo no eran conscientes de la verdadera naturaleza e intención de Autonomía, conociéndola como el Trell masculino e interactuando con ella a través de los "inmortales sin rostro" de Trell. En algún momento, Autonomía decidió que el desarrollo tecnológico de [[Scadrial\|Scadrial]] sería perjudicial para sus propios objetivos.
+[[Telsin Ladrian\|Telsin Ladrian]] descubrió con el tiempo la existencia del Grupo y se unió a él (de forma muy similar a como el Grupo encontró a Autonomía), reclutando más tarde a [[Edwarn Ladrian\|Edwarn Ladrian]]. Con el tiempo ascendieron a los rangos de Secuencia y Conjunto, respectivamente.
+
+### Los desvanecedores
+[[Edwarn Ladrian\|Edwarn Ladrian]] fingió su muerte para entrar en el Grupo. Proporcionó financiación a [[Miles Dagouter\|Miles Dagouter]] y a los [[Desvanecedores\|Desvanecedores]]. Los Desvanecedores recibieron instrucciones de secuestrar a las descendientes femeninas del [[Fantasma\|lord Nacido de la bruma]] con el fin de criar más [[Alomancia\|brumosos]] para algún propósito desconocido. Los Desvanecedores hicieron esto a través de una serie de elaborados, y aparentemente sobrenaturales, robos de trenes. [[Waxillium Ladrian\|Waxillium Ladrian]] descubrió que su tío vivía tras capturar a Miles. Durante el encuentro de estos dos, Wax robó la libreta de Edwarn que contenía citas y notas.
+
+### Los Brazales de Duelo
+Wax recibió información de los [[Kandra\|kandra]] de que el Grupo estaba operando en la ciudad de [[Nueva Seran\|Nueva Seran]], y que su hermana [[Telsin\|Telsin]] fue vista allí. Mientras Wax y compañía viajaban a Nueva Seran fueron atacados en un asalto al tren del Grupo. El profesor [[Irich\|Irich]] estaba presente. Cuando llegaron a Nueva Seran, Wax y [[Steris\|Steris]] asistieron a un baile en la casa de una noble local, lady [[Kelesina Shores\|Kelesina Shores]]. Wax se enteró de las actividades que la organizacón estaba llevando a cabo cerca de [[Dulsing\|Dulsing]]. Cuando se enfrentó a lady Shores, ésta se comunicaba con Conjunto a través de una extraña caja metálica. Fue asesinada por una criada y se descubrió que llevaba una [[Mente de metal\|mente de metal]] de [[/wiki/Oro#Uso feruqu.C3.ADmico]] que no estaba vinculada a un individuo. La mente de oro tenía una gran cantidad de salud almacenada en ella y [[Wayne\|Wayne]] fue capaz de aprovecharla.
+Su equipo viajó entonces a Dulsing, donde se había construido un complejo del Grupo alrededor de toda la ciudad. Se infiltraron en el recinto y descubrieron lo que parecía ser un gran barco en el centro. El barco era en realidad el *[[Brunstell\|Brunstell]]*, una nave de los [[Scadriano del sur\|scadrianos del sur]]. Wax pudo también rescatar a Telsin. [[Marasi\|Marasi]] y [[MeLaan\|MeLaan]] descubrieron y rescataron a un scadriano del sur llamado [[Allik\|Allik]] que había estado cautivo en las oficinas del profesor Irich. Escaparon del recinto en la *[[Wilg\|Wilg]]*, un bote auxiliar de la aeronave principal.
+Desde allí intentaron llegar al [[Templo del Soberano\|Templo del Soberano]] para hacerse con los [[Brazales de Duelo\|Brazales de Duelo]] antes de que lo hiciera una expedición del Grupo. Llegaron primero y la otra organización poco después. Conjunto utilizó las amenazas y pudo acompañar a Wax al interior del templo. Wax y compañía fueron entonces traicionados por Telsin, quien se reveló que poseía el rango de Secuencia en el Grupo, uno superior al de Conjunto. También se reveló que ambos tenían [[Hemalurgia\|clavos hemalúrgicos]], otorgándose tres habilidades de las [[Artes Met%C3%A1licas\|Artes Metálicas]] cada uno.
+La búsqueda de los Brazales parecía haber fracasadao. El Grupo estaba interesado en los Brazales de Duelo, pero su objetivo principal era asegurar la aeronave de los Cazadores, y sus bombas, que estaban abandonadas en el templo. Al entrar por primera vez en el templo, [[Wayne\|Wayne]] cogió la punta de la lanza de una estatua del [[Soberano\|Soberano]] colocandola en el bolso de Marasi. Ella descubrió que en realidad se trataba de los Brazales de Duelo. Pudo rescatar a Wax, que entonces los utilizó para enfrentarse a Conjunto en la aeronave que partía, deteniéndolo y recupernandola en el proceso. Los miembros del Grupo fueron encarcelados y la aeronave fue devuelta a los scadrianos del sur supervivientes. Secuencia se escapó del Templo en la *Wilg*.
+
+### Cronología acelerada
+>“* El Grupo había trazado planes que aún tardarían un siglo o más en dar sus frutos.*”
+\- Señor Conjunto.[14]
+
+
+Evidentemente, el Grupo había planeado que sus objetivos se alcanzaran un siglo en el futuro. Con el descubrimiento de los Brazales de Duelo, los scadrianos del sur y su tecnología, la línea de tiempo se aceleró. Mientras estaba retenido en una cárcel de Elendel, Conjunto recibió la visita de una misteriosa criatura de ojos rojos. Le dijo a Conjunto que el Grupo había decidido que permitir que continuara la civilización en Scadrial era demasiado peligroso y que en su lugar habían decidido "eliminar la vida en esta esfera". La criatura activó entonces un dispositivo explosivo, matando a Conjunto.
+Antes de que Autonomía pudiera atacar Scadrial, Telsin consiguió convencerla de que diera al Grupo la oportunidad de apoderarse de nuevo del planeta. Autonomía, siempre agradecida por las acciones audaces y ambiciosas, respondió invistiendo a Telsin como su Avatar. Sin embargo, también concedió a Telsin un plazo antes del cual el mundo tendría que encontrarse bajo el control del Grupo, ya que en una fecha concreta se abriría la [[Perpendicularidad\|perpendicularidad]] artificial que estaba creando para dejar entrar a sus ejércitos.
 
 ### Bilming
-Over the six years following the death of Edwarn, the Set fully took control of the city of [[Bilming\|Bilming]] on behalf of Autonomy, up to developing it with accordance to Autonomy's philosophy and using Taldain architecture. At the same time, they conducted underground tests in order to create a [[Trellium\|trellium]]-[[Harmonium\|harmonium]] bomb. The key part of the plan -- and the part of it meant to impress Autonomy -- was the delivery device: a self-propelled rocket, something that Autonomy herself was yet to figure out.
-While in Bilming, Wax and his team, as well as a group of [[Ghostbloods\|Ghostbloods]], began to unravel Set's plan. Later that day, when Wax confronted Telsin, Harmony briefly disrupted Autonomy's link to her, causing Telsin to fall unconscious. When Telsin came to, Autonomy abandoned her willingly, having apparently given up on her and her plans. After Wax and Wayne destroyed the Set's bomb, while Marasi destroyed the perpendicularity intended for the [[Men of gold and red\|men of gold and red]], Autonomy begrudgingly withdrew from Scadrial, acknowledging their victory.
+Durante los seis años que siguieron a la muerte de Edwarn, el Grupo tomó el control total de la ciudad de [[Bilming\|Bilming]] en nombre de Autonomía, hasta desarrollarla de acuerdo con la filosofía de esta y utilizando la arquitectura de Taldain. Al mismo tiempo, realizaron pruebas subterráneas para crear una bomba de [[Trellium\|trellium]]-[[Armonium\|armonium]]. La parte clave del plan, y la que pretendía impresionar a Autonomía, era el dispositivo de lanzamiento: un cohete autopropulsado, algo que la propia Autonomía aún tenía que descubrir..
+Mientras estaban en Bilming, Wax y su equipo, así como un grupo de los [[Sangre Espectral\|Sangre Espectral]], comenzaron a desentrañar el plan del Grupo. Más tarde ese mismo día, cuando Wax se enfrentó a Telsin, Armonía interrumpió brevemente el vínculo de Autonomía con ella, provocando que Telsin cayera inconsciente. Cuando Telsin recobró el conocimiento, Autonomía la abandonó voluntariamente, pues al parecer había renunciado a ella y a sus planes. Después de que Wax y Wayne destruyeran la bomba del Grupo, mientras Marasi destruía la perpendicularidad destinada a los [[Hombres de dorado y rojo\|hombres de dorado y rojo]], Autonomía se retiró de Scadrial a regañadientes, reconociendo su victoria.
 
-## Organization
-The Set is an organization with a strict hierarchy among their ranks, codenames are used to indicate where one is in this hierarchy. The highest rank among them is 'The Key' who serves as the organization's leader. Each rank within the set must immediately report to the rank above them, serving at their direct orders, despite this rigidity however [[Autonomy\|Autonomy]] encourages its members to be bold and thus it is common for those on the bottom rungs to try and climb up the organization. The lowest ranked members, Cycles, are those in charge of local hired muscle, this muscle is granted no rank themselves.
-The ranks within the set are:
+## Organización
+El Grupo es una organización con una estricta jerarquía entre sus rangos, utilizando nombres en clave para indicar dónde se está en esta jerarquía. El rango más alto entre ellos es "Clave", que actúa como líder de la organización. Cada rango dentro del Grupo debe rendir cuentas inmediatamente al rango superior, sirviendo a sus órdenes directas, sin embargo, a pesar de esta rigidez, [[Autonom%C3%ADa\|Autonomía]] anima a sus miembros a ser audaces y, por tanto, es habitual que los que se encuentran en los escalones inferiores intenten ascender en la organización. Los miembros de menor rango, los Ciclos, son los encargados del personal local contratado, al que no se le concede ningún rango.
+Los rangos dentro del Grupo son:
 
-The Key
-Series
-Sequence
-Suit
-Cycle
-## Known Members of the set
-For more information, see :Category: Set.
-Though the Set have many accomplices, there appear to be a smaller group of ranked leaders. The members that control the Set are known as the "Series."
+Clave
+Serie
+Secuencia
+Conjunto
+Ciclo
+## Miembros conocidos del Grupo
+Para más información, ver :Categoría: El Grupo.
+Aunque el Grupo tiene muchos cómplices, parece haber un grupo más pequeño de líderes clasificados. Los miembros que controlan el Grupo son conocidos como la "Serie".
 
-### The Key
-[[Telsin Ladrian\|Telsin Ladrian]], leader of the Set, was known as "The Key".
-### Sequences
-[[Dumad\|Dumad]] was a "Sequence".
-Telsin was a "Sequence", before her promotion.
-### Suits
-[[Edwarn Ladrian\|Edwarn Ladrian]] was a "Suit".
-### Cycles
-[[Miles Hundredlives\|Miles Hundredlives]] was a "Cycle".
-[[Granks\|Granks]] was a "Cycle".
-### Unknown Rank
-Professor [[Irich\|Irich]] is known as an "Array" and appears to be outranked by both Sequence and Suit.
-[[Fed\|Fed]] is a [[Iron\|Skimmer]] [[Ferring\|ferring]] of an unknown rank.
-[[Getruda\|Getruda]] is of an unknown rank, presumably a Sequence like Dumad.
-[[Gave Entrone\|Gave Entrone]] is of an unknown rank but most probably is a "Series".
-There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] whose members wear red uniforms.
+### Clave
+[[Telsin Ladrian\|Telsin Ladrian]], líder del Grupo, era conocida como "clave".
+### Secuencias
+[[Dumad\|Dumad]] era un "secuencia".
+Telsin era "secuencia" antes de su ascenso.
+### Conjunto
+[[Edwarn Ladrian\|Edwarn Ladrian]] era un "conjunto".
+### Ciclos
+[[Miles Cienvidas\|Miles Cienvidas]] era un "ciclo".
+[[Granks\|Granks]] era un "ciclo".
+### Rango desconocido
+El profesor [[Irich\|Irich]] es conocido como "colector" y parece ser superado tanto por secuencia como por conjunto.
+[[Fed\|Fed]] es un [[Hierro\|ajustador]], un [[Feruquimia\|ferrin]] de rango desconocido.
+[[Getruda\|Getruda]] es de rango desconocido, presumiblemente es secuencia como Dumad.
+[[Gave Entrone\|Gave Entrone]] es de rango desconocido, pero lo más probable es que sea "serie".
+Existe un ala militar del Grupo conocida como la [[Guardia Oculta\|Guardia Oculta]] cuyos miembros llevan uniformes rojos.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**| · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Cycle
+https://es.coppermind.net/wiki/Set

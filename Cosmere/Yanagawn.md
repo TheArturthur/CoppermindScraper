@@ -1,50 +1,53 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Yanagawn**|
 |-|-|
-|by  Marie Seeberger |
-|**Relatives**|[[Huqin\|Huqin]]|
-|**Born**|1160|
-|**Titles**|Ch.V.D. Yanagawn the First, Emperor of [[Makabak\|Makabak]], King of [[Azir\|Azir]], Lord of the [[Bronze Palace\|Bronze Palace]], [[Prime Aqasix\|Prime Aqasix]], grand minister and emissary of [[Yaezir\|Yaezir]]|
-|**Aliases**|Gawx|
-|**Groups**|Huqin's crew |
-|**Nationality**|[[Azish\|Azish]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Parientes**|[[Huqin\|Huqin]]|
+|**Nacido en**|1160|
+|**Títulos**|Ch.V.D. Yanagawn I, emperador de [[Makabak\|Makabak]], rey de [[Azir\|Azir]], señor del [[Palacio de Bronce\|Palacio de Bronce]], [[Aqasix Supremo\|Aqasix Supremo]], gran ministro y emisario de [[Yaezir\|Yaezir]]|
+|**Apodos**|Gawx|
+|**Grupo**|Banda de Huqin |
+|**Nacionalidad**|[[De Azir\|de Azir]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*I don’t matter. Sure, Azir does. But I’m only a kid they put on the throne because they were afraid that assassin would come back.*”
-\-Yanagawn to Dalinar at the Recreance vision on his importance [2]
-
-
-**Yanagawn the First**, formerly a thief known as **Gawx**, is the [[Prime Aqasix\|Prime Aqasix]], king of [[Azir\|Azir]], and emperor of [[Makabak\|Makabak]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attribute and Abilities
-3 History
-
-3.1 The Azish Palace break-in
-3.2 Prime Aqasix Yanagawn the First
-3.3 Dalinar’s visions
-3.4 Unification of Roshar
-3.5 Coalition of Monarchs
+>“*Me refiero a que yo, persona, no importo. Claro que Azir sí. Pero yo soy solo un chico al que han puesto en el trono porque tenían miedo de que volviera ese asesino.*”
+\-Yanagawn a Dalinar en la visión de la Traición sobre su importancia [2]
 
 
-4 Relationships
+**Yanagawn el Primero**, antiguo ladrón conocido como **Gawx**, es el [[Aqasix Supremo\|Aqasix Supremo]], rey de [[Azir\|Azir]] y emperador de [[Makabak\|Makabak]].
 
-4.1 Lift
-4.2 Dalinar
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Entrada en el palacio azishiano]] 
+3. [[#Aqasix Supremo Yanagawn I]] 
+3. [[#Visiones de Dalinar]] 
+3. [[#Unificaci.C3.B3n de Roshar]] 
+3. [[#Coalici.C3.B3n de monarcas]] 
 
 
-5 Quotes
-6 Trivia
-7 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Lift]] 
+4. [[#Dalinar]] 
 
 
-## Appearance and Personality
-Yanagawn is a lanky, dark-skinned youth, who has limbs that seem too long, a face that is too round and childlike. He was 15 years old when the [[Everstorm\|Everstorm]] first appeared.
-As Gawx, he was a frightened thief sneaking through the palace.
-When he was selected to become “Yanagawn, Prime of Azir”, he was given education and there was expectation on him participating. Still, at the beginning and by the time he met Dalinar in the vision, he was still unsure of himself and knew he was not ruling the kingdom. As time passed, his confidence evolved, and by the time they left Urithiru, he wasn’t embarrassed talking to the viziers and scions any longer. He understood much of what they discussed now, and didn’t jump when someone called him “Your Majesty.”
-As he became more comfortable with his role, he began eschewing Azish traditions. While conferring with [[Jasnah Kholin\|Jasnah Kholin]] and [[Dalinar Kholin\|Dalinar Kholin]] at his Warcamp, he removed his headdress and scandalously allowed his guests to sit at the same height.
+5 Citas. [[#Citas]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+Yanagawn es un joven larguirucho, de piel oscura, que tiene extremidades que parecen demasiado largas, un rostro demasiado redondo, demasiado infantil. Tenía 15 años cuando apareció por primera vez la [[Tormenta eterna\|tormenta eterna]].
+Como Gawx, era un ladrón asustado que se colaba en el palacio.
+Cuando fue seleccionado para convertirse en "Yanagawn, Supremo de Azir", se le dio educación y se esperaba que participara. Aun así, al principio y para cuando conoció a Dalinar en la visión, todavía se sentía inseguro de sí mismo y sabía que no estaba gobernando el reino. Con el paso del tiempo, su confianza evolucionó, y para cuando salieron de Urithiru, ya no le daba vergüenza hablar con los visires y vástagos. Ahora entendía gran parte de lo que discutían, y no saltaba cuando alguien le llamaba "Majestad".
+A medida que se fue sintiendo más cómodo con su papel, empezó a evitar las tradiciones azishianas. Mientras conferenciaba con [[Jasnah\|Jasnah]] y [[Dalinar Kholin\|Dalinar Kholin]] en su campamento de guerra, se quitó el tocado y permitió escandalosamente que sus invitados se sentaran a la misma altura.
 
 
 
@@ -60,54 +63,73 @@ As he became more comfortable with his role, he began eschewing Azish traditions
 
 
 
-## Attribute and Abilities
-Yanagawn does not have magical abilities. However, he holds political power due to his gained position as Prime of Azir. After he was appointed with that title, they gave him education.  He later became more comfortable with his role and started participating by making comments and decisions.
-Though he is emperor, he has limits to his rule. His power is absolute, but he is held in check by the Azish government.
-Yanagawn is able to speak Alethi, though he is not entirely fluent and tends to prepare and practice his speeches before meetings with the Coalition of Monarchs.
+## Atributos y habilidades
+Yanagawn no tiene habilidades mágicas. Tiene poder debido a su posición ganada como Supremo de Azir. Después de ser nombrado con ese título, le dieron educación.  Más tarde se sintió más cómodo con su papel y comenzó a participar haciendo comentarios y tomando decisiones.
+Aunque es emperador, su gobierno tiene límites. Su poder es absoluto, pero el gobierno Azir lo controla.
+Yanagawn es capaz de hablar alezi, aunque no lo hace con total fluidez y suele preparar y practicar sus discursos antes de las reuniones con la Coalición de Monarcas.
 
-## History
-### The Azish Palace break-in
-The Azish kingdom was choosing a new Prime. At the Royal Palace the viziers, scribes, and arbiters were all given a chance to fill out the proper paperwork to apply to take the place of the new Prime. No one wanted the job. The last two Primes were murdered in the same week and many Monarchs and High Princes killed within the last two months made it obvious that a new Prime would be killed just as shortly.
-That night Gawx went to the Palace with his uncle, [[Huqin\|Huqin]], to steal from them. [[Lift\|Lift]] partnered with them, but was not cautious and they were caught. He was mortally wounded by one of [[Nale\|Nale's]] attendants without first procuring the requisite documents to perform an execution. Lift revived him using [[Regrowth\|Regrowth]], and he was immediately pronounced Prime Aqasix by the attending [[Vizier\|viziers]], who believed he had performed a miracle. After this, he promptly pardoned Lift in order to stop Nale from executing her. Nale had no choice but to let her go.
+## Historia
+### Entrada en el palacio azishiano
+El reino de Azish elegía un nuevo Supremo. En el Palacio Real, los visires, los escribas y los árbitros tuvieron la oportunidad de rellenar el papeleo adecuado para solicitar el puesto del nuevo Supremo. Nadie quería el puesto. Los dos últimos Supremos fueron asesinados en la misma semana y con muchos monarcas y altos príncipes asesinados en los últimos dos meses era obvio que el nuevo Supremo sería asesinado igual de pronto.
+Esa noche Gawx fue al Palacio con su tío, [[Huqin\|Huqin]], para robarles. [[Lift\|Lift]] se asoció con ellos, pero no fue precavido y los atraparon. Uno de los asistentes de [[Nale\|Nale]] le hirió mortalmente sin haber conseguido antes los documentos necesarios para realizar una ejecución. Lift lo revivió utilizando la [[Progresi%C3%B3n\|Progresión]], e inmediatamente fue declarado Aqasix Supremo por los [[Visir\|visires]] asistentes, que creyeron que había realizado un milagro. Después de esto, perdonó rápidamente a Lift para evitar que Nale la ejecutara. Nale no tuvo más remedio que dejarla ir.
 
-### Prime Aqasix Yanagawn the First
-The Azish expected all kinds of things from the new emperor. Lessons, displays. People came to watch him eat every meal. They even got to watch him sleeping. In Azir, the emperor was owned by the people. He aided Lift on her quest in Yeddaw by asking the scribes at the Grand Indicium, to treat her as they would him. They kept communication; he wanted to make sure she was well and asked her to come back.
-He was contacted by [[Dalinar\|Dalinar]] who wanted to meet him, using the Oathgate and discuss the unification of Roshar. Yanagawn, and his group of advisors, denied him the request and implied the Oathgate was broken, which was not entirely true. They did extend their gratitude for the timely information given on the Everstorm and gave information on the awakened Parshmen who didn’t attack but exchanged contracts with them.
+### Aqasix Supremo Yanagawn I
+Los azishianos esperaban todo tipo de cosas del nuevo emperador. Lecciones, exhibiciones. La gente venía a verle comer cada comida. Incluso podían verle dormir. En Azir, el emperador era propiedad del pueblo. Ayudó a Lift en su búsqueda en Yeddaw pidiendo a los escribas del Gran Indicium que la trataran como si fuese él. Mantuvieron la comunicación; él quería asegurarse de que estaba bien y le pidió que volviera.
+[[Dalinar\|Dalinar]] se puso en contacto con él y quiso reunirse, utilizando la Puerta Jurada para hablar de la unificación de Roshar. Yanagawn, y su grupo de consejeros, le negaron la petición y dieron a entender que la Puerta Jurada estaba rota, lo que no era del todo cierto. Lo que sí hicieron fue agradecerle la oportuna información sobre la tormenta eterna y le dieron información sobre los parshmenios despertados que no atacaron sino que intercambiaron contratos con ellos.
 
-### Dalinar’s visions
-Dalinar via the Stormfather brought Yanagawn to the Aharietiam vision and made sure he felt some challenge and stress. With Dalinar’s as archer, they defended the lines until the Radiant climbed up over the edge of the cliff, glowing in Shardplate. Emperor Yanagawn sat down as the other soldiers rallied around the Radiant and pushed the enemy back. He was terrified but eventually stood up and walked the other way. He started chatting with people on the vision, asking them who they were and why they fought. They didn’t give many answers, but later came Jezerezeh’Elin himself, Herald of Kings announcing the victory over the Voidbringers. Yanagawn recognized him, to what Dalinar got close to him and introduced himself. 
-Yanagawn considered Dalinar his enemy. It is clear the young prime learned history and was very concerned about Dalinar being Alethi, who still worshiped Sunmaker´s rule, to what Dalinar acknowledged youth of brutality but the advantage of seeing the consequences of his actions. Just as they were getting closer, Lift appeared and explained she did not trust him either and both left the vision leaving Dalinar by himself.
-It is implied that Yanagawn visited other visions without changing his mind until he visited the Recreance. This vision had shaken him and he showed Dalinar a more insecure part of himself, he was open about his lack of readiness to be a ruler. He also confessed that he didn’t change his mind because Lift didn’t trust him because he was too righteous, which meant he was hiding something. He disappeared as the vision ended. 
+### Visiones de Dalinar
+Dalinar, a través del Padre Tormenta, llevó a Yanagawn a la visión del Aharietiam y se aseguró de que sintiera algún desafío y tensión. Con Dalinar como arquero, defendieron las líneas hasta que el Radiante trepó por el borde del acantilado, brillando en su armadura esquirlada. El Emperador Yanagawn se sentó mientras los demás soldados se agrupaban en torno al Radiante y hacían retroceder al enemigo. Estaba aterrorizado, pero al final se levantó y caminó hacia el otro lado. Empezó a charlar con la gente de la visión, preguntándoles quiénes eran y por qué luchaban. No dieron muchas respuestas, pero más tarde llegó el propio Jezerezeh'Elin, Heraldo de los Reyes, anunciando la victoria sobre los Portadores del Vacío. Yanagawn lo reconoció, a lo que Dalinar se acercó a él y se presentó.
+Yanagawn consideraba a Dalinar su enemigo. Está claro que el joven Supremo aprendió historia y estaba muy preocupado por el hecho de que Dalinar fuera alezi, que aún adoraba el gobierno del Hacedor de Soles, a lo que Dalinar reconoció su juventud de brutalidad pero la ventaja de ver las consecuencias de sus actos. Justo cuando se acercaban, apareció Lift y le explicó que tampoco se fiaba de él y ambos abandonaron la visión dejando a Dalinar solo.
+Se da a entender que Yanagawn visitó otras visiones sin cambiar de opinión, hasta que visitó la Traición. Esta visión le había sacudido y mostró a Dalinar una parte más insegura de sí mismo, se sinceró sobre su falta de preparación para ser gobernante. También confesó que no cambiaba de opinión porque Lift no confiaba en él por ser demasiado recto; lo que significaba que ocultaba algo. Desapareció al terminar la visión.
 
-### Unification of Roshar
-Though Yanagawn left the recreance vision, it didn’t end for Dalinar who faced Odium. What they didn’t expect was for Lift to be there. This experience made her change her mind and convinced Yanagawn to receive Dalinar at Azir's capital [[Azimir\|Azimir]].
-Dalinar went there and gave the Prime and his viziers three essays to which they responded positively (especially to the one from Navani) and accepted the invite to Urithiru.
-The young Azish Prime was the first one to arrive. He did with his very ornate throne. He was accompanied by three representatives of kingdoms subject to Azir: the prime of Emul, the princess of Yezier, and the ambassador from Tashikk. All brought chairs that were faintly inferior to that of the Azish Prime. This was not to embarrass the Prime, but confirm they were not his subjects. 
-During the meeting, the Prime supported his representatives in gaining territory and voiced concerns about the new power Dalinar and the new radiants now held. He also challenged the rightfulness of the Lost Radiants' motives for abandoning their oaths. However, after being given the task of creating a code of how kingdoms are to interact and share resources, they supported the unification and offered to send five battalions to Jah Keved and support a possible invasion from the enemy.
-The Azish did mobilize troops,  but after [[Taravangian\|Taravangian]]´s treason and the unification fracture, they retired from Urithiru and the war.
-On their way back to Azimir, Yanagawn wanted to turn back and help the Alethi as he trusted Lift who still trusted Dalinar. They did find out [[Amaram\|Amaram]] and his troops turned sides and he leaves thinking the Alethi betrayed Thaylen and that he and Lift had been wrong in trusting them.
+### Unificación de Roshar
+Aunque Yanagawn dejó la visión de la Traición, no terminó para Dalinar, que se enfrentó a Odium. Lo que no esperaban era que Lift estuviera allí. Esta experiencia le hizo cambiar de opinión y convenció a Yanagawn para que recibiera a Dalinar en la capital de Azir, [[Azimir\|Azimir]].
+Dalinar acudió allí y entregó al Supremo y sus visires tres ensayos a los que respondieron positivamente (especialmente al de Navani) y aceptaron la invitación a Urithiru.
+El joven supremo azishiano fue el primero en llegar. Lo hizo con su trono muy adornado. Le acompañaban tres representantes de reinos sometidos a Azir: el Supremo de Emul, la princesa de Yezier y el embajador de Tashikk. Todos traían sillas ligeramente inferiores a la del Supremo de Azir. Esto no es para avergonzar al Supremo, sino para confirmar que no eran sus súbditos. 
+Durante la reunión, el Supremo apoyó a sus representantes en la obtención de territorio y expresó su preocupación por el nuevo poder que Dalinar y los nuevos Radiantes tenían ahora. También cuestionó la legitimidad de los motivos de los Radiantes Perdidos para abandonar sus juramentos. Sin embargo, después de que se les encomendara la tarea de crear un código sobre cómo los reinos deben interactuar y compartir recursos, apoyaron la unificación y se ofrecieron a enviar cinco batallones a Jah Keved y apoyar una posible invasión del enemigo.
+Los azishianos movilizaron tropas,  pero tras la traición de [[Taravangian\|Taravangian]] y la fractura de la unificación, se retiraron de Urithiru y de la guerra. En su camino de vuelta a Azimir, Yanagawn quiso dar marcha atrás y ayudar a los alezi, ya que confiaba en Lift, que seguía confiando en Dalinar. Se enteraron de que [[Amaram\|Amaram]] y sus tropas habían cambiado de bando y se marchó pensando que los alezi habían traicionado a Thaylen y que él y Lift se habían equivocado al confiar en ellos.
 
-### Coalition of Monarchs
-Alongside [[Dalinar Kholin\|Dalinar Kholin]], Queen [[Jasnah Kholin\|Jasnah Kholin]], King [[Taravangian\|Taravangian]], and Queen [[Fen\|Fen]], Yanagawn authorized the expedition to [[Lasting Integrity\|Lasting Integrity]], the capital city of the [[Honorspren\|honorspren]], and military intervention to retake in [[Emul\|Emul]].
+### Coalición de monarcas
+Junto con [[Dalinar Kholin\|Dalinar Kholin]], la reina [[Jasnah Kholin\|Jasnah Kholin]], el rey [[Taravangian\|Taravangian]] y la reina [[Fen Rnamdi\|Fen]], Yanagawn autorizó la expedición a [[Integridad Duradera\|Integridad Duradera]], la capital de los [[Honorspren\|honorspren]], y la intervención militar para retomar [[Emul\|Emul]].
 
-## Relationships
+## Relaciones
 ### Lift
-[[Lift\|Lift]] and Yanagawn care for each other, as shown by his genuine happiness when she returns from [[Yeddaw\|Yeddaw]]. He trusts her, acknowledging that she is smart. They first meet as thieves stealing from the Azish Prime's palace; when he is mortally wounded by [[Nale\|Nale]]´s companion, she cares enough for him that she speaks the Second Ideal and uses [[Regrowth\|Regrowth]] to save him. In consideration of this apparent miracle, he is appointed Prime of Azir and in return, he saves Lift by pardoning her and stopping Nale from executing her. Lift is protective of him and accompanies him to important events such as his meetings with [[Dalinar Kholin\|Dalinar Kholin]] in his [[Dalinar's visions\|visions]] and the [[Coalition of monarchs\|coalition's]] meetings at [[Urithiru\|Urithiru]]. After the battle in [[Emul\|Emul]], Yanagawn asks about Lift, who has been in Urithiru enduring the [[Fused\|Fused]] occupation. Despite news that most of the Radiants are unconscious, he comments, “she often does what she isn’t supposed to."
+[[Lift\|Lift]] y Yanagawn se preocupan el uno por el otro, como demuestra la genuina felicidad de él cuando ella regresa de [[Yeddaw\|Yeddaw]]. Él confía en ella, reconociendo que es inteligente. Se conocen por primera vez como ladrones que roban en el palacio del Supremo de Azir; cuando él es herido de muerte por el compañero de [[Nale\|Nale]], ella se preocupa lo suficiente por él como para pronunciar el [[/wiki/Orden de los Danzantes del Filo#El Segundo Ideal]] y usa la [[Progresi%C3%B3n\|Progresión]] para salvarlo. En consideración a este aparente milagro, es nombrado Supremo de Azir y, a cambio, salva a Lift perdonándola e impidiendo que Nale la ejecute. Lift le protege y le acompaña a eventos importantes como sus encuentros con [[Dalinar Kholin\|Dalinar Kholin]] en sus [[Visiones de Dalinar\|visiones]] y las reuniones de la [[Coalici%C3%B3n de monarcas\|coalición]] en [[Urithiru\|Urithiru]]. Tras la batalla en [[Emul\|Emul]], Yanagawn pregunta por Lift, que ha estado en Urithiru soportando la ocupación de los . A pesar de las noticias de que la mayoría de los Radiantes están inconscientes, comenta que “hace lo que se supone que no debe."
 
 ### Dalinar
-Yanagawn’s trust in [[Dalinar\|Dalinar]] is strongly influenced by Lift. As her opinion of Dalinar evolves, so does his. Still, there are times during the visions when he opens up to Dalinar and shows his fears about his leadership. When he and his advisors leave the Thaylens and the Alethi to defend [[Thaylen City\|Thaylen City]], he tells [[Noura\|Noura]] that he learned from Lift that it is wrong to betray a friend; this implies he does see Dalinar as a friend.
+La confianza de Yanagawn en [[Dalinar\|Dalinar]] está fuertemente influenciada por Lift. A medida que su opinión sobre Dalinar evoluciona, también lo hace la de él. Aun así, hay momentos durante las visiones en los que se abre a Dalinar y muestra sus temores sobre su liderazgo. Cuando él y sus consejeros abandonan a los thayleños y a los alezi para defender [[Ciudad Thaylen\|Ciudad Thaylen]], le dice a [[Noura\|Noura]] que aprendió de Lift que está mal traicionar a un amigo; esto implica que sí ve a Dalinar como un amigo.
 
-## Quotes
->“*Your power is absolute, but you do not exercise it all. You must not.*”
-\-Noura to Yanagawn when he wanted to return and fight the Thaylen battle [5]
-
-
->“*I would say that hope defines us, Jasnah. Without it, we are not human.*”
-\-Yanagawn to Jasnah, as they plan to take back Urithiru [6]
+## Citas
+>“*Tu poder es absoluto, pero no lo ejerces tú todo. Ni debes.*”
+\-Noura a Yanagawn cuando quiso volver y luchar en la batalla thayleña [5]
 
 
-## Trivia
-Gawx wasn’t fully dead when Lift “resurrected” him. 
+>“*Yo opino que la esperanza nos define, Jasnah. Sin ella, no seríamos humanos.*”
+\-Yanagawn a Jasnah, mientras planean recuperar Urithiru [6]
 
 
-https://coppermind.net/wiki/Yanagawn
+## Curiosidades
+Gawx no estaba completamente muerto cuando Lift lo “resucitó”. 
+## Notas
+|Antecesor  ***desconocido***|**[[Aqasix Supremo\|Aqasix Supremo]] Yanagawn I**  Líder de [[Azir\|Azir]]|Sucesor  ***no elegido***|
+|-|-|
+
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Yanagawn

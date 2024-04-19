@@ -1,17 +1,42 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Geormin**|
 |-|-|
-|**Died**|Killed by [[Bloody Tan\|Bloody Tan]], 341 [[Catacendre\|PC]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**|Asesinado por [[Sangriento Tan\|Sangriento Tan]], 341 [[Catacendro\|PC]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Geormin** is a coachman who brought mail from smaller villages into [[Weathering\|Weathering]] on [[Scadrial\|Scadrial]].
+**Geormin** es un chochero que traía el correo desde pequeñas aldeas a [[Erosi%C3%B3n\|Erosión]] en [[Scadrial\|Scadrial]].
 
-## Appearance and Personality
-Geormin is a nice enough fellow, who [[Waxillium Ladrian\|Waxillium Ladrian]] knows tangentially. They drink together on occasion, although Geormin cheats at chards.
+## Apariencia y personalidad
+Geormin era un tipo amigable, a quien [[Waxillium Ladrian\|Waxillium Ladrian]] conocía un poco. Había tomado alguna copa con él, pero Geormin hacía trampas a las cartasT.
 
-## History
-Geormin was one of the earliest victims of [[Bloody Tan\|Bloody Tan]]. His disappearance was the one that started Wax on his hunt for Tan. About two months after his disappearance, Wax found Geormin's body in Tan's subterranean lair in [[Feltrel\|Feltrel]]. The man had been mummified in a grotesque display, hung from the ceiling, arms propped up, mouth pried open, and head cocked. Wax promised to cut his body down later.
+## Historia
+Geormin fue una de las primeras víctimas de [[Sangriento Tan\|Sangriento Tan]]. Su desaparición fue lo que lanzó a Wax a la caza de Tan. Después de unos dos meses de su desaparición, Wax encontró el cadáver de Geormin en la guarida subterránea de Tan en [[Feltrel\|Feltrel]]. El hombre había sido momificado y estaba expuesto de forma grotesca: colgado del techo, los brazos alzados, la boca abierta y la cabeza gacha. Wax prometió volver para bajare el cuerpo de aquel lugar más tarde.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 22:08, 11 September 2018 (MST)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Geormin
+https://es.coppermind.net/wiki/Geormin

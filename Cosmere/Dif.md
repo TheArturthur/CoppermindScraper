@@ -1,0 +1,9 @@
+**Dif Smedry** is [[Alcatraz Smedry\|Alcatraz Smedry]]'s cousin. He is extremely enthusiastic about everything, and seems to have a Talent that causes everyone it affects, himself included, to forget all about it.
+
+## Spoiler Warning
+The following link contains major spoilers for *[[The Dark Talent\|The Dark Talent]]*. Please be very sure you have either read the book or are happy to be spoiled on some major points of the story.
+
+[[Biblioden\|SPOILERS AHEAD]]
+
+
+https://es.coppermind.net/wiki/Dif

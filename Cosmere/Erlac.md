@@ -1,16 +1,40 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Erlac**|
 |-|-|
-|**Dominance**|[[Eastern Dominance\|Eastern Dominance]]|
-|**Nation**|[[Final Empire\|Final Empire]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Dominio**|[[Dominio Occidental\|Dominio Occidental]]🐱︎|
+|**Nación**|[[Imperio Final\|Imperio Final]]🐱︎|
+|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Erlac** is a city in the [[Eastern Dominance\|Eastern Dominance]] in the [[Final Empire\|Final Empire]]. Erlac is located southeast of the [[Black Lake\|Black Lake]] and the [[Ashmount\|Ashmount]] Faleast, and northwest of [[Urbene\|Urbene]].
-It at least existed in the year 1021, shortly prior to the [[Collapse\|Collapse]].
+**Erlac** es una ciudad del [[Dominio Occidental\|Dominio Occidental]] en el [[Imperio Final\|Imperio Final]]. Erlac se encuentra al sureste del [[Lago Negro\|Lago Negro]] y del [[Monte de Ceniza\|Monte de Ceniza]] Faleast, y al noroeste de [[Urbene\|Urbene]].
+Al menos existía en el año 1021, poco antes del [[Colapso\|Colapso]].
 
-## Trivia
-On the original version of the Final Empire map in the 10th Anniversary Mistborn release, [[Suisna\|Suisna]] was located at Erlac's current location. Erlac is named after , who noted a mistake to Isaac Stewart that Suisna had to be located in the Central Dominance, not the Eastern Dominance. Isaac changed this in a reprint of the map, and now the city in the Eastern Dominance is named Erlac in Eric's honor.
+## Curiosidades
+En la versión original del mapa del Imperio Final en la edición 10º Aniversario de Nacidos de la bruma, [[Suisna\|Suisna]] estaba situada en la ubicación actual de Erlac. Erlac lleva el nombre de , que señaló el error a Isaac Stewart de que Suisna debía estar situada en el Dominio Central, no en el Occidental. Isaac cambió esto en una reimpresión del mapa, y ahora la ciudad del Dominio Occidental se llama Erlac en honor a Eric.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 04:17, 3 June 2017 (MST)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Erlac
+https://es.coppermind.net/wiki/Erlac

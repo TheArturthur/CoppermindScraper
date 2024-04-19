@@ -1,25 +1,48 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Gneorndin Cett**|
 |-|-|
-|**House Cett**|
-|**Parents**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|mother]]|
-|**Siblings**|[[Allrianne\|Allrianne]]|
-|**Groups**|Venture army|
-|**Ethnicity**|[[Noble\|Noble]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Well of Ascension*|
+|**[[Casa Cett\|Casa Cett]]**|
+|**Padres**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|madre]]|
+|**Hermanos**|[[Allrianne\|Allrianne]]|
+|**Grupo**|Ejército de Venture|
+|**Etnia**|[[Noble\|Noble]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Gneorndin Cett** is the only son of [[Ashweather Cett\|Ashweather Cett]] on [[Scadrial\|Scadrial]].
+**Gneorndin Cett** es el único hijo de [[Ashweather Cett\|Ashweather Cett]] en [[Scadrial\|Scadrial]].
 
-## Personality
-Gneorndin has a strong protective instinct for his family. He dislikes [[Breeze\|Breeze]] for being in a relationship with his sister, [[Allrianne\|Allrianne]], who is much younger than Breeze. When [[Vin\|Vin]] threatens his father's life, Gneorndin attempts to protect his father, despite his lack of powers and fear of Vin's abilities.
+## Personalidad
+Gneorndin parece tener un fuerte instinto protector por su familia. No le gusta [[Brisa\|Brisa]] porque mantiene una relación con su hermana, [[Allrianne\|Allrianne]], que era mucho más joven que él. Cuando [[Vin\|Vin]] amenaza la vida de su padre, Gneorndin intenta proteger a este, a pesar de su ausencia de poderes y el miedo que siente por las habilidades de Vin. La valentía que requiere tal acción es increíble.
 
-## History
-After the [[Collapse\|Collapse]], Gneorndin invited King [[Elend Venture\|Elend Venture]] to meet with his father, King [[Ashweather Cett\|Ashweather Cett]] in a week to discuss [[Allrianne\|Allrianne]]. He accused Elend of kidnapping her, even though he knew it was not true. Gneorndin also seemed to know at that point that Breeze was in a relationship with Allrianne, due to the fact that he glared at Breeze and did not seem to like him very much.
-When [[Vin\|Vin]] launched her attack with [[Zane Venture\|Zane Venture]] on [[Keep Hasting\|Keep Hasting]], Gneorndin was there. Although he had no [[Allomantic\|Allomantic]] powers, Gneorndin tried to protect his father from Vin's wrath. On Cett's request, Vin simply knocked him aside rather than seriously injuring or killing him.
-After Cett joined his forces with Elend's, Gneorndin was at the meeting of the crew when Elend explained how the encroaching [[Mist\|mists]] of the [[Deepness\|Deepness]] would soon make growing conventional crops impossible.
-As Gneorndin is the only known male member of [[House Cett\|House Cett]] (aside from [[Ashweather\|Ashweather]]), it seems likely that through his lineage the house continued to exist past the [[Catacendre\|Catacendre]] and into [[Mistborn Era 2\|Mistborn Era 2]] and modern Scadrial.
+## Historia
+Tras el [[Colapso\|Colapso]], Gneorndin invitó a [[Elend Venture\|Elend Venture]] a conocer a Ceet durante una semana para discutir sobre Allrianne. Acusó a Elend de haberla secuestrado, aunque sabía a ciencia cierta que eso no era verdad. Gneorndin también parecía ser consciente entonces de que Brisa tenía una relación con Allrianne, debido a que le fulminó con la mirada y no parecía que le gustarle demasiadoH.
+Cuando Vin decidió atacar con [[Zane\|Zane]] la [[Casa Hasting\|Fortaleza Hasting]], Gneorndin estaba ahí. Aunque no tenía poderes [[Alomancia\|alománticos]], intentó proteger a su padre de la ira de Vin. A petición de Cett, ella simplemente lo apartó en vez de herirlo gravemente o matarlo.
+Después de que Cett uniera sus fuerzas con las de Elend, Gnerondin estuvo presente en la reunión de la banda en la que Elend explicó cómo la invasiva [[Bruma\|bruma]] de [[La Profundidad\|la Profundidad]] pronto imposibilitaría el crecimiento de los cultivos convencionales.
+Como Gneorndin es el único miembro varón conocido de la [[Casa Cett\|Casa Cett]] (a parte de [[Ashweather\|Ashweather]]), es muy posible que a través de su linaje la casa continuara existiendo pasado el [[Catacendro\|Catacendro]] y durante Nacidos de la bruma Era 2 y la época moderna de Scadrial.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 11:31, 17 September 2018 (MST)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Gneorndin_Cett
+https://es.coppermind.net/wiki/Gneorndin_Cett

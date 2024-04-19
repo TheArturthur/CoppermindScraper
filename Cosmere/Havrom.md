@@ -1,31 +1,52 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Havrom**|
 |-|-|
-|**Titles**|Battalionlord|
-|**Profession**|Soldier|
-|**Groups**|Kholin army|
-|**Residence**|[[Warcamp\|The Alethi warcamps]]|
-|**Nationality**|[[Alethi\|Alethi]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Títulos**|Jefe de batallón|
+|**Oficio**|Soldado|
+|**Grupo**|Ejército de Kholin|
+|**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
+|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Havrom** is a battalionlord in the [[House Kholin\|Kholin]] army on [[Roshar\|Roshar]].
+**Havrom** es un jefe de batallón en el ejército [[Casa Kholin\|Kholin]] en [[Roshar\|Roshar]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Trivia
-4 Notes
-
-
-## Appearance and Personality
-Based on his title as a battalionlord, Havrom is presumably a [[Lighteyes\|lighteyes]] of the fourth [[Dahn\|dahn]]. He is "built like a tower" and wears his beard long with his chin clean shaven; this is a traditional [[Horneater\|Horneater]] style that he wears because he has some Unkalaki ancestry. He holds his officers and soldiers to the high standards of the Kholin army.
-
-## History
-In 1173, Havrom was serving as the commander of the Fifth Battalion of the Kholin army on the [[Shattered Plains\|Shattered Plains]]. [[Dalinar\|Dalinar]] messaged him and asked him to gather the soldiers in his camp whom [[Torol Sadeas\|Torol Sadeas]] had previously questioned regarding the cut in [[Elhokar\|Elhokar's]] saddle strap. Dalinar wanted to find out what Sadeas had asked them. Havrom ensured that all of Dalinar's orders were followed and that his battalion presented itself properly when Dalinar and [[Adolin\|Adolin]] arrived.
-
-## Trivia
-[[Colot\|Colot]] and [[Tallan\|Tallan]] are both mentioned as captains in the Fifth Battalion and likely served under Havrom.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Havrom
+## Apariencia y personalidad
+Basándose en su título de jefe de batallón, Havrom es presumiblemente un [[Ojos claros\|ojos claros]] del cuarto [[Dahn\|dahn]]. Tiene "la constitución de una torre" y lleva la barba larga con la barbilla bien afeitada; se trata de un estilo tradicional [[Comecuernos\|comecuernos]] que lleva porque tiene cierta ascendencia unkalaki.Impone a sus oficiales y soldados los elevados estándares del ejército Kholin.
+
+## Historia
+En 1173, Havrom servía como comandante del Quinto Batallón del ejército Kholin en las [[Llanuras Quebradas\|Llanuras Quebradas]]. [[Dalinar\|Dalinar]] le envió un mensaje y le pidió que reuniese a los soldados de su campamento a los que [[Torol Sadeas\|Torol Sadeas]] había interrogado previamente sobre el corte en la correa de la montura de [[Elhokar\|Elhokar]]. Dalinar quería averiguar qué les había preguntado Sadeas. Havrom se aseguró de que se cumpliesen todas las órdenes de Dalinar y de que su batallón se presentase adecuadamente cuando llegaron Dalinar y [[Adolin\|Adolin]].
+
+## Curiosidades
+[[Colot\|Colot]] y [[Tallan\|Tallan]] son mencionados como capitanes del Quinto Batallón y probablemente sirvieron a las órdenes de Havrom.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 00:46, 10 January 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Havrom

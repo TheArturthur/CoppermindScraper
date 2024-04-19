@@ -1,47 +1,60 @@
+
+
 |**Adien**|
 |-|-|
-|**Teo Royal Family**|
-|**Parents**|[[Kiin\|Kiin]], [[Daora\|Daora]]|
-|**Siblings**|[[Lukel\|Lukel]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
-|**Abilities**|[[Elantrian\|Elantrian]]|
-|**Residence**|[[Kae\|Kae]]|
-|**Ethnicity**|[[Aonic\|Aonic]]|
-|**Nationality**|[[Arelene\|Arelene]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Elantris*|
+|**[[Familia real teo%C3%ADsa\|Familia real teoísa]]**|
+|**Padres**|[[Kiin\|Kiin]], [[Daora\|Daora]]|
+|**Hermanos**|[[Lukel\|Lukel]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
+|**Capacidades**|[[Elantrino\|Elantrino]]|
+|**Residencia**|[[Kae\|Kae]]|
+|**Etnia**|[[A%C3%B3nico\|Aónico]]|
+|**Nacionalidad**|[[De Arelon\|de Arelon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (book)\|Elantris]]*|
 
-**Adien** is an [[Elantrian\|Elantrian]] from [[Sel\|Sel]]. He is the son of [[Daora\|Daora]], step-son of [[Kiin\|Kiin]], younger brother to [[Lukel\|Lukel]], and older half-brother to [[Kaise\|Kaise]] and [[Daorn\|Daorn]]. Through marriage, he is related to [[Sarene\|Sarene]] and the [[Teo Royal Family\|Teo Royal Family]].
+**Adien** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Es hijo de [[Daora\|Daora]], hijastro de [[Kiin\|Kiin]], hermano menor de [[Lukel\|Lukel]] y hermanastro mayor de [[Kaise\|Kaise]] y [[Daorn\|Daorn]]. Por matrimonio, está emparentado con [[Sarene\|Sarene]] y la [[Familia real teo%C3%ADsa\|familia real teoísa]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Trivia
-5 Notes
-
-
-## Appearance and Personality
-Adien is from [[Kae\|Kae]] and was born autistic. He moves in an awkward, stiff, uncontrolled manner. He is able to speak in complete sentences, but he is often seen mumbling numbers and words to himself. He has a thin face, pale complexion, and "haunted" eyes. Notably, the descriptions of Adien provided by Sarene are from a period when he had been taken by the broken [[Shaod\|Shaod]] and was wearing makeup to cover its effects. This affected his appearance, and likely his personality as well.
-After Elantris is restored, Adien is able to think lucidly and speak clearly. He has the white hair and silver skin of an Elantrian, and he looks very similar to Lukel.
-
- by  botanicaxu  Adien (right) with his step-father and siblings
-## Attributes and Abilities
-For more information, see [[Elantrian\|Elantrian]].
-Adien has the innate abilities of all Elantrians, including increased physical and mental capabilities and access to [[AonDor\|AonDor]]. Independently of his Elantrian abilities, Adien has a natural way with numbers. He counts his steps wherever he goes, and the numbers that he speaks to himself during the broken Shaod are often related to distance. He seems to instinctively know the distance (in strides) between any two locations that he has been before, even if he did not walk there.
-
-## History
-Adien was born to Daora around seven or eight years before the [[Reod\|Reod]]. Daora held the title of [[Kimess\|Kimess]], so Adien was presumably raised as a minor noble. His father's identity and the reason for the end of Daora's relationship with him are unknown. He visited [[Teoras\|Teoras]] as a child.
-Kiin adopted Adien and Lukel after retiring from battle and falling in love with Daora. In his early teens, about five years after the [[Reod\|Reod]], Adien was taken by the Shaod. Unwilling to have him thrown into Elantris, his family concealed his condition with makeup and kept him close to home. The makeup gave Adien a pale white complexion with a strange cast to his face. Because of his condition, Adien rarely left the house, and spent a lot of time sleeping. He had never been social due to his autism, which made it less suspicious that he did not interact with other people. With his family's help, Adien accomplished the unprecedented feat of staving off becoming [[Hoed\|Hoed]] for those five years.
-Adien was present when Sarene first visited Kiin and Daora's family in Kae. He was a thin-faced boy in his late teens and Sarene quickly realized that he had some sort of cognitive impairment. Adien's family was used to his behavior, and took no notice when he showed up late to meals or mumbled to himself. Adien was typically present any time Sarene was at the family's house.
-During the [[Invasion of Arelon\|Invasion of Arelon]], Adien took shelter with his family. However, they were soon captured and moved towards Elantris. Adien showed little concern for the events happening around him. When they approached the site where the Fjordell soldiers planned to burn any Elantrians they could find, Adien suddenly moved towards the nearby pile of bodies. A Fjordell soldier slashed him across the chest, and when the wound did not bleed, Adien was finally revealed to be an Elantrian himself. He simply laid down on the pile with the other Elantrians.
-After [[Raoden\|Raoden]] healed Elantris, all of Adien's wounds were healed and he became a true Elantrian. His skin turned silver, and he gained superhuman physical and mental capacity. Adien felt like his old life had been a dream. He was always aware of what was happening around him, but struggled to interact and express himself. He retained his ability to remember exact distances, and provided Raoden with the distance to [[Teod\|Teod]] so that Raoden could effectively use Aon Tia to rescue Sarene.
-
-## Trivia
-Brandon was never totally happy with the twist of Adien being an Elantrian. He has noted that Adien was underdeveloped as a character, and that his ability to calculate distance was something of a *deus ex machina* that allowed Raoden to pull off an otherwise impossible feat. However, he kept the twist because Adien was a planned protagonist in the [[Elantris sequel\|Elantris sequel]], possibly alongside his siblings. His natural ability with numbers would make him a particularly powerful wielder of AonDor.
-[[Hrathen's seon\|Hrathen's seon]] is expected to be Passed to Adien in the sequel.
-Brandon has noted that the portrayal of Adien's autism in *Elantris* is stereotypical and more of a "pop culture" representation of someone on the spectrum. He does not regret his attempt to write the character since he was trying to be inclusive, but he recognizes that Adien's version of autism is not typical. *Elantris* was his first novel and he did not have the resources that he gained later in his career, including a broader reader base that would have been able to point out the inaccuracies in Adien's characterization. He has tried to portray autism more realistically in later characters such as [[Steris\|Steris]], and would apply those lessons if Adien does feature in a sequel. He believes that listening to feedback about stereotypes helps writers grow and do better.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Adien
+## Apariencia y personalidad
+Adien es de [[Kae\|Kae]] y es autista. Se mueve de forma torpe, rígida e incontrolada. Es capaz de hablar con frases completas, pero a menudo se le ve murmurar números y palabras para sí mismo. Tiene la cara delgada, tez pálida y ojos «embrujados». En particular, las descripciones de Adien proporcionadas por Sarene son de una época en la que había sido tomado por la Shaod rota y llevaba maquillaje para disimular sus efectos. Esto afectó a su apariencia, y probablemente también a su personalidad.
+Tras la restauración de Elantris, Adien puede pensar con lucidez y hablar con claridad. Tiene el pelo blanco y la piel plateada de un elantrino, y su aspecto es muy parecido al de Lukel.
+
+  Adien (derecha) con su padrastro y hermanos
+## Atributos y habilidades
+Para más información, ver [[Elantrino\|elantrino]].
+Adien posee las habilidades innatas de todos los elantrinos, incluidas las capacidades físicas y mentales aumentadas y el acceso al [[AonDor\|AonDor]]. Independientemente de sus habilidades elantrinas, Adien tiene un don natural para los números. Cuenta sus pasos allá donde va, y los números que se dice a sí mismo durante la Shaod rota suelen estar relacionados con la distancia. Parece conocer instintivamente la distancia (en zancadas) entre dos lugares en los que ha estado antes, aunque no haya ido andando.
+
+## Historia
+Adien nació de Daora unos siete u ocho años antes del [[Reod\|Reod]]. Daora ostentaba el título de [[Kimess\|kimess]], por lo que es de suponer que Adien fue criado como un noble menor. Se desconoce la identidad de su padre y el motivo del fin de la relación de Daora con él. Visitó [[Teoras\|Teoras]] de niño.
+Kiin adoptó a Adien y Lukel tras retirarse de la batalla y enamorarse de Daora. Al principio de su adolescencia, unos cinco años después del [[Reod\|Reod]], Adien fue tomado por la Shaod. Como no quería que lo arrojaran a Elantris, su familia ocultó su estado con maquillaje y lo mantuvo cerca de casa. El maquillaje dio a Adien una tez blanca y pálida, con un extraño aspecto en la cara. Debido a su enfermedad, Adien apenas salía, y pasaba mucho tiempo durmiendo. Nunca había sido sociable debido a su autismo, lo que hacía menos sospechoso que no se relacionara con otras personas. Con la ayuda de su familia, Adien logró la hazaña sin precedentes de evitar convertirse en [[Hoed\|Hoed]] durante esos cinco años.
+Adien estaba presente cuando Sarene visitó por primera vez a la familia de Kiin y Daora en Kae. Era un muchacho de rostro delgado, entrado en años, y Sarene no tardó en darse cuenta de que padecía algún tipo de deficiencia cognitiva. La familia de Adien estaba acostumbrada a su comportamiento, y no le hacían caso cuando llegaba tarde a las comidas o murmuraba para sí mismo. Adien solía estar presente cada vez que Sarene estaba en casa de la familia.
+Durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]], Adien se refugió con su familia. Sin embargo, pronto fueron capturados y trasladados hacia Elantris. Adien mostró poca preocupación por los acontecimientos que ocurrían a su alrededor. Cuando se acercaron al lugar donde los soldados de Fjordell planeaban quemar a todos los elantrinos que encontraran, Adien se dirigió de repente hacia la pila de cadáveres cercana. Un soldado le asestó un tajo en el pecho, y cuando la herida no sangró, Adien se reveló finalmente como un elantrino. Se limitó a tumbarse en la pila con los demás elantrinos.
+Después de que [[Raoden\|Raoden]] restaurase Elantris, todas las heridas de Adien sanaron y se convirtió en un verdadero elantrino. Su piel se volvió plateada y adquirió una capacidad física y mental sobrehumana. Adien sentía como si su antigua vida hubiera sido un sueño. Siempre era consciente de lo que ocurría a su alrededor, pero le costaba interactuar y expresarse. Conservó su capacidad de recordar distancias exactas, y proporcionó a Raoden la distancia a [[Teod\|Teod]] para que Raoden pudiera utilizar eficazmente [[/wiki/Aon#Tia]] para rescatar a Sarene.
+
+## Curiosidades
+Brandon nunca estuvo del todo satisfecho con el giro de que Adien fuera un elantrino. Ha señalado que Adien estaba poco desarrollado como personaje, y que su capacidad para calcular la distancia era una especie de *deus ex machina* que permitía a Raoden realizar una hazaña que de otro modo sería imposible. Sin embargo, lo mantuvo porque Adien era un protagonista previsto en la [[Secuela de Elantris\|secuela de Elantris]], posiblemente junto a sus hermanos. Su habilidad natural con los números le convertiría en un usuario especialmente poderoso del AonDor.
+Se espera que el seón de Hrathen pase a Adien en la secuela.
+Brandon ha señalado que la representación del autismo de Adien en *Elantris* es estereotipada y más bien una representación de la «cultura pop» de alguien dentro del espectro. No se arrepiente de su intento de escribir el personaje, ya que intentaba ser inclusivo, pero reconoce que la versión del autismo de Adien no es típica. *Elantris* fue su primera novela y no disponía de los recursos que obtuvo más adelante en su carrera, incluida una base de lectores más amplia que habría podido señalar las imprecisiones en la caracterización de Adien. Ha intentado retratar el autismo de forma más realista en personajes posteriores, como [[Steris\|Steris]], y aplicaría esas lecciones si Adien apareciera en una secuela. Cree que escuchar los comentarios sobre los estereotipos ayuda a los escritores a crecer y a mejorar.
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+
+
+https://es.coppermind.net/wiki/Adien

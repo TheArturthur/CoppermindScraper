@@ -1,160 +1,189 @@
-|**Preservation**|
+
+
+|**Conservación**|
 |-|-|
-|by  Kyle Pearson |
-|**Vessel**|[[Sazed\|Sazed]]|
-|**Slivers**|[[Leras\|Leras]], [[Rashek\|Rashek]], [[Kelsier\|Kelsier]], [[Vin\|Vin]]|
-|**Splinters**|None|
-|**Status**|Whole, conjoined with [[Ruin\|Ruin]]|
-|**Perpendicularity**|[[Well of Ascension\|Well of Ascension]]|
-|**Magics**|[[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]]|
-|**Residence**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Recipiente**|[[Sazed\|Sazed]]|
+|**[[Lasca\|Lascas]]**|[[Leras\|Leras]], [[Rashek\|Rashek]], [[Kelsier\|Kelsier]], [[Vin\|Vin]]|
+|**[[Astilla\|Astillas]]**|Ninguna|
+|**Estado**|Entera, fusionada con [[Ruina\|Ruina]]|
+|**[[Perpendicularidad\|Perpendicularidad]]**|[[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]]|
+|**Magia**|[[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]]|
+|**Residencia**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*The infinity of a note held perfectly, never wavering. The majesty of a painting, frozen and still, capturing a slice of life from a time gone by. It was the power of many, many moments compressed somehow into one.*”
-\-Kelsier[2]
-
-
-**Preservation** is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], one of the two located on [[Scadrial\|Scadrial]]. Its original [[Vessel\|Vessel]] was [[Leras\|Leras]], but has since been held by [[Kelsier\|Kelsier]] and [[Vin\|Vin]] before [[Sazed\|Sazed]] took it and mixed it with [[Ruin\|Ruin]], becoming [[Harmony\|Harmony]]. In the [[Terris\|Terris]] religions Preservation is known as **Terr**, or "to preserve"; in [[Southern Scadrial\|Southern Scadrial]], it's known as **Frue** and believed to be feminine. Preservation’s [[Investiture\|Investiture]] is typically associated with the color white.
-
-## Contents
-
-1 Intent
-2 Associated Magics
-
-2.1 Allomancy
-2.2 Feruchemy
-2.3 Lerasium
-2.4 Mists
-2.5 Direct intervention
+>“*La infinidad de una nota sostenida a la perfección, sin titubeos. Era la majestad de un cuadro, congelado e inmóvil, que capturaba un fragmento de la vida de una época pasada. Era el poder de muchos, muchos momentos comprimidos de algún modo en uno solo.*”
+\-Kelsier.[2]
 
 
-3 History
+**Conservación** es una [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]], una de las dos alojadas en [[Scadrial\|Scadrial]]. Su [[Recipiente\|Recipiente]] original fue [[Leras\|Leras]], aunque [[Kelsier\|Kelsier]] y [[Vin\|Vin]] también fueron Recipientes antes de que [[Sazed\|Sazed]] cogiera el poder y lo fusionase con [[Ruina\|Ruina]], convirtiéndose en [[Armon%C3%ADa\|Armonía]]. En las religiones de [[Terris\|Terris]], Conservación es conocida como **Terr** o "Para conservar". Al [[Scadriano del sur\|sur de Scadrial]] se le conoce como **Frue** y se creía que era femenina. La [[Investidura\|Investidura]] de Conservación normalmente está asociada con el color blanco.
 
-3.1 The deal with Ruin
-3.2 Rashek
-3.3 The release of Ruin
-3.4 The death of Leras
-3.5 Kelsier
-3.6 Vin
-3.7 Sazed
+## Sumario
 
+1 Intención. [[#Intenci.C3.B3n]] 
+2 Magias Asociadas. [[#Magias Asociadas]] 
 
-4 Influence
-5 Trivia
-6 Notes
+2. [[#Alomancia]] 
+2. [[#Feruquimia]] 
+2. [[#Lerasium]] 
+2. [[#Brumas]] 
+2. [[#Intervenci.C3.B3n directa]] 
 
 
-## Intent
->“*If he had his way you'd all be frozen in time, unable to act lest you harm one another.*”
-\-Ati on Preservation[7]
+3 Historia. [[#Historia]] 
+
+3. [[#El trato con Ruina]] 
+3. [[#Rashek]] 
+3. [[#La liberaci.C3.B3n de Ruina]] 
+3. [[#La muerte de Leras]] 
+3. [[#Kelsier]] 
+3. [[#Vin]] 
+3. [[#Sazed]] 
 
 
-Preservation seeks to provide stability and preserve the world and its inhabitants in their current state. It values the status quo, regardless of whether or not the people living underneath it are happy, and supports those who seek to keep it. It has distinct difficulty acting in a destructive way; it causes the Vessel almost physical pain to wound or kill, even if doing so would likely preserve more than the act itself would destroy.
-Preservation is the perfect opposite and complimentary Shard of [[Ruin\|Ruin]]. This is rather unique in the [[Cosmere\|cosmere]], as most Shards cannot be paired off in this way.
+4 Influencia. [[#Influencia]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
-## Associated Magics
- by Gaga Turmanishvili An [[Allomancer\|Allomancer]] using her powers
-### Allomancy
-For more information, see [[Allomancy\|Allomancy]].
-Preservation fuels [[Allomancy\|Allomancy]], one of the three [[Metallic Arts\|Metallic Arts]] of [[Scadrial\|Scadrial]]. Unlike most forms of magic in the [[Cosmere\|cosmere]], the power is inherited rather than gained; an Allomancer can be a Misting, able to use only one allomantic ability, or a Mistborn, capable of utilizing all of them. Power is gained by consuming and then "burning" a metal, but the metal itself is not the source of the power. Rather, it acts as a key, unlocking access to Preservation's power, which can be used differently depending on which metal has been burned.
-There are sixteen "base" metals that can be used in Allomancy, divided into four categories: **physical metals**, which alter a person or their surroundings, **mental metals**, which interact with emotions and supernatural senses, **temporal metals**, which change the perception and passage of time, and **enhancement metals**, which change the behavior of other allomantic abilities. Additionally, there exists a number of metals that are derived directly from [[Shard\|Shards]], among them [[Atium\|atium]], [[Lerasium\|lerasium]] and [[Trellium\|trellium]]. Though most are not of Preservation, they and their alloys can also be burned by some Allomancers.
 
-### Feruchemy
-For more information, see [[Feruchemy\|Feruchemy]].
-[[Feruchemy\|Feruchemy]] is a Metallic Art created from both Preservation and [[Ruin\|Ruin]]. Much like Allomancy, it is inheritable, and a person can be either a Ferring, with access to only one power, or a Feruchemist, capable of using all of them. A Ferring or Feruchemist stores an aspect of themselves, such as their strength or speed, in a piece of metal dubbed a metalmind, with the metal used determining the atribute stored. When storing, this aspect is diminished in them -- for example, storing strength makes one physically weaker. Later, the same person can withdraw the power from a metalmind, or tap the metalmind, to increase that attribute in themselves.
-Feruchemy utilizes the same base sixteen metals as Allomancy, albeit the effects produced are slightly different. The metals in Feruchemy are divided into **physical metals**, which store physical attributes of a person, **cognitive metals**, which store attributes of the mind, **spiritual metals**, which store attributes of the soul, and **hybrid metals**, which store attributes related to bodily processes, like health or energy. [[Shard\|Shardic]] metals can also be used to store other attributes.
+## Intención
+>“*Si él se saliera con la suya, estaríais todos congelados en el tiempo, incapaces de actuar por miedo a dañaros unos a otros.*”
+\-Ati a Conservación.[7]
+
+
+Conservación busca la estabilidad y conservar el mundo y sus habitantes en su estado actual. Valora el status quo sin importarle si la gente que vive en él es feliz, y apoya a aquellos que buscan mantenerlo. Tiene una clara dificultad para actuar de una manera destructiva; al Recipiente le causa dolor físico tanto si hiere como si mata, incluso si el motivo de hacerlo es más para conservar que para destruir.
+Conservación es el opuesto y complementario perfecto de la Esquirla [[Ruina\|Ruina]]. Esto es bastante único en el [[Cosmere\|Cosmere]], ya que la mayoría de las Esquirlas no se pueden emparejar.
+
+## Magias Asociadas
+  Un <<Alomante\|alomante>> usando sus poderes
+### Alomancia
+Para más información, ver [[Alomancia\|Alomancia]].
+Conservación alimenta la [[Alomancia\|alomancia]], una de las tres [[Artes met%C3%A1licas\|Artes metálicas]] de [[Scadrial\|Scadrial]]. A diferencia de la mayoría de las magias en el [[Cosmere\|Cosmere]], el poder se hereda más que se obtiene; Un alomante puede ser un brumoso, capaz de usar solo una habilidad alomántica, o un nacido de la bruma, capaz de utilizarlas todas. El poder se gana consumiendo el metal y luego "quemándolo", aunque el metal por sí mismo no es la fuente del poder. En vez de eso, actúa como una llave, desbloqueando el acceso al poder de Conservación que puede utilizarse de diferentes maneras dependiendo del metal que ha sido quemado.
+Hay dieciséis metales "básicos" que pueden usarse en la alomancia, divididos en cuatro categorías: **metales físicos**, que modifican a la persona o su entorno, **metales mentales**, que interactúan con las emociones y los sentidos sobrenaturales, **metales temporales**, que cambian la percepción y el paso del tiempo, y los **metales superiores**, que cambian el funcionamiento de otras habilidades alománticas. Además, existen un número de metales derivados directamente de las [[Esquirla\|Esquirlas]], entre ellos el [[Atium\|atium]], el [[Lerasium\|lerasium]] y el [[Trellium\|trellium]]. Aunque la mayoría no son de Conservación, algunos alomantes pueden quemarlos junto con sus aleaciones.
+
+### Feruquimia
+Para más información, ver [[Feruquimia\|Feruquimia]].
+La [[Feruquimia\|feruquimia]] es un Arte Metálico creado por [[Ruina\|Ruina]] y Conservación. Como la alomancia, es heredable y una persona puede ser un ferrin, con acceso a una sola habilidad o un feruquimista, capaz de usarlas todas. Tanto el ferrin como el feruquimista, almacenan una porción de sí mismos, como su fuerza o velocidad en una pieza de metal, llamada mente de metal, en la que el metal utilizado determinará el atributo que se almacena. Cuando este se almacena, ese atributo se drena de uno mismo, por ejemplo, almacenar fuerza te hará más débil pero más tarde, la persona podrá retirar el poder de una mente de metal utilizándolo para incrementar ese mismo atributo en sí mismo.
+La feruquimia también utiliza los dieciséis metales básicos igual que la alomancia, no obstante los efectos son ligeramente diferentes. Los metales en la feruquimia están divididos en **metales físicos**, que almacenan atributos físicos de la persona, **metales cognitivos** que almacenan atributos mentales, **metales espirituales** que almacenan los atributos del alma, y los **metales híbridos**, que almacenan atributos fisiológicos como la salud o la energía. Los metales [[Esquirla\|esquirlados]] también se pueden utilizar para almacenar otros atributos.
 
 ### Lerasium
-For more information, see [[Lerasium\|Lerasium]].
-[[Lerasium\|Lerasium]] is the [[God Metal\|God Metal]] of Preservation, or the metallic form of its body. Preservation's Vessel can create them deliberately; it's unknown whether it'll form on its own. Unlike most metals, Lerasium can be burned by any person who ingests it. Doing so transforms a person into a Mistborn of power exceeding that of a natural-born Allomancer; if a Mistborn burned it, it would enhance their pre-existing powers. It can also be alloyed with any of the base sixteen metals to make someone a Misting of the alloyed metal.
+Para más información, ver [[Lerasium\|Lerasium]].
+El [[Lerasium\|lerasium]] es el [[Metal divino\|metal divino]] de Conservación, o su cuerpo en forma metálica. El Recipiente de Conservación puede crearlo deliberadamente, aunque no está claro si se forma por sí solo. A diferencia de la mayoría de metales, el lerasium lo puede quemar cualquier persona que lo ingiera. Haciéndolo, transformará a una persona normal en un nacido de la bruma con un poder superior al de un alomante nato. Si un nacido de la bruma lo quemase, mejoraría sus propios poderes. También se puede mezclar con cualquiera de los dieciséis metales básicos, lo que convertiría a esa persona en un brumoso del metal correspondiente.
 
-### Mists
- by  clarinking  [[Vin\|Vin]] floating in Preservation's mists
-For more information, see [[Mist\|Mist]].
-The [[Mist\|mist]] of Scadrial is the gaseous form of Preservation's [[Investiture\|Investiture]]. Unlike [[Stormlight\|Stormlight]] and similarly to [[Breath\|Breath]], the mist can be programmed to automatically perform specific tasks, albeit the only one capable of doing so is Preservation itself. Under [[Leras\|Leras']] command, the mists would go out at night and seek out potential Allomancers, then Snap them to awaken their power; this process continued even after Preservation has been killed, up until [[Sazed\|Sazed]] took on the power. Under [[Sazed\|Sazed]], the Mists only come out at specific nights, and turned from a continent-wide pattern into localized phenomena. They are no longer used for Snapping, but some believe that [[Harmony\|Harmony]] can use them to observe the world.
-The mists can be used by Preservation to manifest as a so-called **mist spirit**. The spirit has limited power to influence the world around it, curtailed further by Preservation's natural disinclination towards acting in general; however, under right circumstances it is able to interact with physical objects. Both Preservation and later Harmony can also use the mists to fuel the Allomancy of people they chose to empower, circumventing the need for metals.
+### Brumas
+  <<Vin\|Vin>> flotando en las brumas de Conservación
+Para más información, ver [[Brumas\|Brumas]].
+La [[Bruma\|bruma]] de Scadrial es la [[Investidura\|Investidura]] de Conservación en forma gaseosa. A diferencia de la [[Luz tormentosa\|luz tormentosa]] y de manera similar al [[Aliento biocrom%C3%A1tico\|aliento]], la bruma se puede programar para llevar a cabo tareas específicas, no obstante el único capaz de hacerlo es Conservación por sí mismo. Bajo el mando de [[Leras\|Leras]], la bruma sale de noche y busca alomantes potenciales y después los quiebra para despertar sus poderes; este proceso continuó incluso después de que Conservacion fuese asesinado, hasta que [[Sazed\|Sazed]] tomó el poder. Bajo el mando de [[Sazed\|Sazed]], las brumas solo salen en noches específicas, y pasaron de un patrón continental a un fenómeno localizado. Las brumas ya no se utilizan para quebrar, pero algunos creen que [[Armon%C3%ADa\|Armonía]] puede usarlas para observar el mundo.
+Conservación puede usar las brumas para manifestar un **espíritu de la bruma**. El espíritu de la bruma tiene poder limitado para influir en el mundo que lo rodea, restringido todavía más por la poca disposición de Conservación para actuar en general. Sin embargo, bajo las circunstancias adecuadas es capaz de interactuar con objetos físicos. Ambos, Conservación y más tarde Armonia pueden usar la bruma como combustible para aumentar el poder del alomante que ellos elijan eludiendo la necesidad de usar metales.
 
-### Direct intervention
->“*They say that You come to all people when they die.*”
-\-Wax[26]
-
-
-Having directly created [[Scadrial\|Scadrial]] along with Ruin, Preservation has vast amount of control over the planet. A person holding the Shard's power can rearrange continents, recreate extinct forms of life, and even move the planet within the solar system, permanently changing its orbit. Additionally, Preservation is Invested in every Scadrian, and can alter the way their bodies function. Direct killing is, however, directly against its Intent and thus extremely difficult bordering on impossible.
-Preservation is able to hear the voice of any living Scadrian, but cannot speak to them; full two-way communication is only possible through the use of both it and [[Ruin\|Ruin]]. It can manifest a body in Scadrial's [[Cognitive Realm\|Cognitive Realm]], which both [[Leras\|Leras]] and [[Sazed\|Sazed]] use to speak with the recently-deceased before they pass on through to the [[Beyond\|Beyond]].
-
-## History
-For the history of Leras prior to becoming Preservation, see Leras#History.
- by  Heatherly  [[Ruin\|Ruin]] and Preservation
-### The deal with Ruin
->“*I was able to trick Ruin before, lock him away, by fooling him with our agreement.*”
-\-Leras[30]
+### Intervención directa
+>“*Dicen que nos visitas a todos cuando nuestra hora ha llegado.*”
+\-Wax.[26]
 
 
-Following the death of [[Adonalsium\|Adonalsium]], [[Leras\|Leras]] and [[Ati\|Ati]] picked up the Shards Preservation and [[Ruin\|Ruin]]. They departed [[Yolen\|Yolen]] together, before eventually finding their way to a star system empty of inhabitable planets. The two Shards found themselves at a stalemate; both knew they could only create something together, yet with one wishing to preserve, and the other to destroy, they could not easily cooperate. Eventually, Preservation offered a deal -- the two would create a world together, and Ruin would eventually be able to destroy it. Preservation [[Investiture\|Invested]] more of his power into humans, thus guaranteeing for Ruin that he would one day be able to overcome and destroy it. Thus, [[Scadrial\|Scadrial]] was formed.
-However, Preservation exploited a loophole in the pact and trapped Ruin's mind in Preservation's own [[Perpendicularity\|perpendicularity]], the [[Well of Ascension\|Well of Ascension]], and a portion of its power -- in the metal [[Atium\|atium]]. This made the two powers all but equal, but at the cost of Preservation's mind. Leras was, for all intents and purposes, dead; it was only a matter of time before his consciousness would dissipate, leaving the Shard free to be taken or fall apart.
-However, before his mind began to truly die, Preservation made a series of preparations to orchestrate Ruin's downfall. Over time, Ruin changed many of them, but the core of the plan did remain. The [[Mist\|mists]] of Scadrial were part of this plan, designed to awaken [[Allomancy\|Allomancy]]. Though they maintained this role, Ruin twisted the mists into the dangerous [[Deepness\|Deepness]].
+Habiendo creado [[Scadrial\|Scadrial]] junto con Ruina, Conservación tiene un basto control sobre el planeta. Una persona que tenga el poder de una Esquirla, puede reorganizar continentes, recrear formas de vida extintas e incluso mover el planeta dentro de su sistema solar, cambiando permanentemente su órbita. Además, Conservación está investida en todo habitante de Scadrial y puede alterar la manera en que funcionan sus cuerpos. Sin embargo, el asesinato va en contra de su Intención por tanto es casi imposible que lo lleve a cabo.
+Conservación es capaz de escuchar la voz de cualquier habitante del planeta vivo pero no puede comunicarse con ellos. La comunicación completa sólo es posible a través de ambos, él y [[Ruina\|Ruina]]. Puede manifestarse corpóreamente en el [[Reino Cognitivo\|Reino Cognitivo]] de Scadrial, el cual [[Leras\|Leras]] y [[Sazed\|Sazed]] utilizan para comunicarse con los recién fallecidos antes de que pasen al [[M%C3%A1s All%C3%A1\|Más Allá]].
+
+## Historia
+Para la historia de Leras antes de convertirse en Conservación, ver [[/wiki/Leras#Historia]].
+  <<Ruina\|Ruina>> y Conservación
+### El trato con Ruina
+>“*Pude engañar a Ruina una vez, encerrarlo, haciendo trampas con nuestro acuerdo.*”
+\-Leras.[30]
+
+
+Después de la muerte de [[Adonalsium\|Adonalsium]], [[Leras\|Leras]] y [[Ati\|Ati]] cogieron las Esquirlas de Conservación y [[Ruina\|Ruina]]. Partieron juntos desde [[Yolen\|Yolen]], antes de finalmente encontrar su camino hacia un sistema estelar vacío de planetas habitables. Las dos Esquirlas se encontraron en un punto muerto; ambas sabían que solo podrían crear algo juntas, pero una deseaba crear y la otra destruir, difícilmente podían cooperar. Finalmente Conservación propuso un trato: los dos crearían un mundo juntos, y Ruina terminaría destruyéndolo. Conservación [[Investidura\|Invistió]] más de su poder en los humanos, garantizando a Ruina que algún día sería capaz de vencerlos y destruirlos. De esta manera, se formó Scadrial.
+Sin embargo, Conservación aprovechó una fisura en el acuerdo y atrapó la mente de Ruina en su [[Perpendicularidad\|Perpendicularidad]], el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], y una porción de su poder en el metal [[Atium\|atium]]. Esto hizo que ambos poderes se igualaran, a costa de la mente de Conservación. Leras estaba a todos los efectos, muerto; era sólo cuestión de tiempo antes de que su consciencia se disipase, dejando la Esquirla libre o Astillada.
+Sin embargo, antes de que su mente de verdad muriese, Conservación hizo una serie de preparaciones para orquestar la caída de Ruina. Con el tiempo, Ruina cambió varias de ellas, pero el núcleo del plan persistió. Las [[Bruma\|brumas]] de Scadrial fueron parte de este plan, diseñadas para despertar la [[Alomancia\|alomancia]]. Aunque mantuvieron este papel, Ruina retorció las brumas en la peligrosa [[La Profundidad\|Profundidad]].
 
 ### Rashek
-As the power in the Well of Ascension continued to build, it had to be taken up and used roughly once per millennium. However, to give the power up altogether would release Ruin; as such, [[Ati\|Ati]] twisted the prophecies to suggest that that was what had to be done.
-In one such cycle, [[Alendi\|Alendi]] travelled to the [[Well of Ascension\|Well of Ascension]], with the intent of releasing the power. Preservation attempted to stop him, and its mist spirit murdered one of Alendi's travelling companions. Afterward, [[Rashek\|Rashek]] took up the power in the Well to prevent the release of Ruin, and used it to reshape the world of Scadrial in an attempt to get rid of the mists. This was only partially successful, as he ended up moving the planet too close to the sun, and had to make further changes to compensate.
-Eventually, Rashek used the power of the Well to make himself a [[Allomancy\|Mistborn]] in addition to being a [[Feruchemist\|Feruchemist]]. He also empowered a cadre of allies and friends who would become the foundation of the nobility, leading to the creation of [[The Final Empire\|The Final Empire]].
+Como el poder en el Pozo de la Ascensión continuaba creciendo, debía cogerse y utilizarse aproximadamente una vez cada milenio. Sin embargo, ceder el poder al completo haría que Ruina se liberase, por lo tanto, [[Ati\|Ati]] manipuló las profecías para insinuar que eso es lo que se debía hacer.
+En uno de esos ciclos, [[Alendi\|Alendi]] viajó al [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] con la intención de liberar el poder. Conservación intentó pararlo, y su espíritu de la bruma mató a uno de los compañeros de viaje de Alendi. Después, [[Rashek\|Rashek]] cogió el poder del pozo para prevenir la liberación de Ruina, y lo usó para remodelar el mundo de Scadrial intentando deshacerse de las brumas. Esto fue parcialmente exitoso, terminó moviendo el planeta demasiado cerca del sol, y tuvo que hacer cambios drásticos para compensarlo.
+Finalmente, Rashek uso el poder del pozo para convertirse en un [[Alomancia\|nacido de la bruma]] además de ser ya [[Feruquimista\|feruquimista]]. Además, empoderó a un cuadro de aliados y amigos los cuales se convirtieron en la base para la nobleza, llevando a la creación del [[Imperio Final\|Imperio Final]].
 
- by  Jan Sidoryk  Preservation's mist spirit
-### The release of Ruin
-A thousand years later, after [[Kelsier\|Kelsier]] was killed by [[Rashek\|Rashek]] -- now known as the Lord Ruler -- he found himself in the [[Cognitive Realm\|Cognitive Realm]] and face to face with an apparition of Leras. After promptly punching it in the face, Kelsier tricked Preservation into revealing how to become a [[Cognitive Shadow\|Cognitive Shadow]], and was subsequently trapped in the [[Well of Ascension\|Well of Ascension]] as it began to fill once more.
-Both Preservation and Ruin picked [[Vin\|Vin]] as one of its unwitting agents many centuries prior, though Ruin attempted to stifle Preservation's influence by piercing child Vin with a [[Hemalurgic\|Hemalurgic]] spike at birth. The first sign of [[Vin\|Vin's]] connection to Preservation was when she attempted to fight the Lord Ruler and drew on the mist to fuel her [[Allomancy\|Allomancy]]. A year later, she began to hear the beat of the Well as it called for someone to once more take up the power. At the time, Preservation's mist spirit began to appear to her on multiple occasions as Leras was looking for a way to stop her from releasing the power.
-Ultimately, Vin and [[Elend\|Elend]] found themselves at the Well of Ascension, where, unseen to them, Kelsier's spirit had just learned of the danger in releasing the power. In a last bid to stop Vin from freeing Ruin, Kelsier grabbed Leras by the arm and forced him to slash [[Elend\|Elend]], dealing him a deadly stomach wound. However, this was for naught, as Vin elected to release the power anyway out of a sense of duty. To prevent Elend's death, Leras led Vin to the last remaining bead of [[Lerasium\|lerasium]], making him a Mistborn.
+  Espíritu de la bruma de Conservación
+### La liberación de Ruina
+Mil años más tarde, después de que [[Kelsier\|Kelsier]] fuese asesinado por [[Rashek\|Rashek]], ahora conocido como el lord Legislador, se encontró a sí mismo en el [[Reino Cognitivo\|Reino Cognitivo]] cara a cara con el espectro de Leras. Inmediatamente después de darle un puñetazo en la cara, Kelsier manipuló a Conservación para que le revelara cómo convertirse en una [[Sombra cognitiva\|sombra cognitiva]], para posteriormente quedarse atrapado en el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] hasta que se vaciase una vez más.
+Ruina y Conservación escogieron a [[Vin\|Vin]] cientos de años antes para que fuese una de sus agentes involuntarias, sin embargo Ruina intentó suprimir la influencia de Conservación insertandole un clavo [[Hemalurgia\|hemalurgico]] en su nacimiento. El primer signo de la conexión entre [[Vin\|Vin]] y Conservacion, fue cuando ella intentó luchar contra el lord Legislador y absorbió la bruma para sustentar su [[Alomancia\|alomancia]]. Un año después, empezó a escuchar el latido del pozo que pedía que alguien una vez más tomase el poder. Por aquel entonces, los espíritus de la bruma de Conservación empezaron a aparecerse ante ella en múltiples ocasiones, mientras Leras buscaba una manera de evitar que liberase el poder.
+Finalmente, [[Elend\|Elend]] y Vin se encontraban en el Pozo de la Ascensión, donde invisible para ellos, el espíritu de Kelsier había aprendido el peligro que conllevaba liberar el poder. Como último recurso para evitar que Vin liberase a Ruina, Kelsier cogió a Leras por el brazo y lo forzó a atacar a [[Elend\|Elend]], causándole una herida mortal en el estómago. Sin embargo, fue en vano, Vin había elegido liberar el poder por su sentido del deber. Para evitar la muerte de Elend, Leras legó a Vin la última perla de [[Lerasium\|lerasium]], convirtiéndolo en un nacido de la bruma.
 
- by  The death of Leras
-### The death of Leras
->“*Odd. After all these years appearing for others as they died, I never expected . . . that my own passing would be so cold and lonely. . . .*”
-\-Leras[43]
+  La muerte de Leras
+### La muerte de Leras
+>“*Que raro. Después de tantos años apareciendome a otros cuando morían, nunca esperé que mi propia defunción sería tan fría y solitaria.*”
+\-Leras.[43]
 
 
-Following Ruin's release, Kelsier was once more able to move freely about Scadrial's Cognitive Realm. Resigned, Preservation led him to [[Khriss\|Khriss]] and [[Nazh\|Nazh]], a pair of worldhoppers with knowledge of the greater [[Cosmere\|cosmere]] mechanics. Though Khriss insisted that they could not help, Nazh pointed Kelsier towards the [[Ire\|Ire]], an [[Elantrian\|Elantrian]] organization aiming to take the power of Preservation for themselves. In their fortress, Kelsier managed to acquire the [[Ire's orb\|Ire's orb]], a sphere filled with a substance that could grant [[Connection\|Connection]] to Preservation.
-At the same time, Leras was rapidly dying. As the mist spirit, he appeared one last time to [[Elend\|Elend]] as the latter was almost ready to give up when escorting a large group of captured koloss back to [[Fadrex City\|Fadrex City]]. By this time, Preservation was too weak to perform any significant actions and could only vaguely communicate with Elend, attempting to convince him not to besiege Fadrex. Shortly after Elend departed, Leras died, and his body fell back into the [[Physical Realm\|Physical Realm]].
+Después de la liberación de Ruina, Kelsier una vez más fue capaz de moverse libremente por el Reino Cognitivo de Scadrial. Resignado, Conservación lo dejó en manos de [[Khriss\|Khriss]] y [[Nazh\|Nazh]], un par de saltamundos con conocimientos de las grandes mecánicas del [[Cosmere\|Cosmere]]. Aunque Khriss insistió en que ellos no podían ayudarlo, Nazh mencionó a Kelsier los [[Ire\|Ire]], una organización [[Elantrino\|elantrina]] que aspiraba a coger el poder de Conservación para sí mismos. En su fortaleza, Kelsier se las ingenió para robar el [[Orbe de Ire\|orbe de los Ire]], un dispositivo capaz de garantizar la [[Conexi%C3%B3n\|Conexión]] con Conservación.
+A su vez, Leras moría a gran velocidad. Se apareció ante [[Elend\|Elend]] por última vez como un espíritu de la bruma, ya que este último estaba a punto de rendirse cuando escoltaba a un gran grupo de koloss capturados de regreso a la [[Ciudad Fadrex\|ciudad de Fadrex]]. En este momento, Conservación estaba demasiado débil para realizar cualquier acción importante y solo podía comunicarse vagamente con Elend, intentando convencerlo de que no asediase Fadrex. Poco después de que Elend partiese, Leras murió y su cuerpo cayó de nuevo en el [[Reino F%C3%ADsico\|Reino Físico]].
 
 ### Kelsier
-For the history of Kelsier prior to becoming Preservation, see Kelsier#History.
->“*Do you know why I always won at card tricks, Ruin? It's because I could always. Force. People to choose. The card I wanted them to.*”
-\-Kelsier[48]
+Para la historia de Kelsier antes de convertirse en Conservación, ver [[/wiki/Kelsier#Historia]].
+>“*¿Sabes por qué siempre me salían bien los trucos de cartas, Ruina? Es porque siempre podía. Obligar. A la gente a escoger. La carta que yo quisiera.*”
+\-Kelsier.[48]
 
 
-Aware of Leras' death, Kelsier broke the orb and used its power to ascend to Preservation himself before the power could be [[Splinter\|Splintered]] by Ruin. However, the power did not obey him fully, as he was not one of the people intended to use it. Kelsier resigned himself to affecting the world around him in minor ways, and eventually formed a plan to get the power to [[Vin\|Vin]], who was held back by the Hemalurgic spike in her ear. He finally managed to contact [[Spook\|Spook]], who sent a message informing Vin about the spike.
-The message was not, however, meant for Vin -- rather, it was meant for [[Marsh\|Marsh]], who was hunting Vin. When Marsh saw the letter, Kelsier put the whole of his power against Ruin to distract Ati. This allowed Marsh the freedom to understand what the letter meant and rip the earring out of Vin. Kelsier then gave Preservation over to her.
+Consciente de la muerte de Leras, Kelsier rompió el orbe y usó su poder para ascender a Conservación antes de que Ruina [[Astilla\|Astillase]] el poder. Sin embargo, el poder no lo obedeció al completo, ya que no era una de las personas elegidas para usarlo. Kelsier aceptó afectar al mundo a su alrededor de una forma más humilde, y finalmente formó un plan para darle el poder a [[Vin\|Vin]], quién estaba retenida por el clavo hemalurgico de su oreja. Al final se las ingenio para contactar con [[Fantasma\|Fantasma]], quien envió un mensaje informando a Vin sobre el clavo.
+Sin embargo, el mensaje no estaba destinado a Vin sino a [[Marsh\|Marsh]], quién estaba cazando a Vin. Cuando Marsh vió la carta, Kelsier puso todo su poder contra Ruina para distraer a Ati. Eso le dejó a Marsh la libertad para entender lo que quería decir la carta para así quitarle el pendiente a Vin. Entonces Kelsier le dio Conservación a ella.
 
- by  Hunter Bonyun  Vin empowering Elend
+  Vin dando poder a Elend
 ### Vin
-For the history of Vin prior to becoming Preservation, see Vin#History.
->“*You created the thing that can kill you, Ruin.*”
-\-Vin[51]
+Para la historia de Vin antes de convertirse en Conservación, ver [[/wiki/Vin#Historia]].
+>“*Creaste aquello que podía matarte, Ruina.*”
+\-Vin.[51]
 
 
-Initially, Vin was using Preservation's power with little skill, much like Rashek had, and at every turn, her actions were countered by Ruin. At the same time, Elend realized that the people being snapped by the out-of-control mists were in one-sixteenth [[Atium\|atium]] Mistings, who Leras planned on to burn atium, denying Ruin its own power.
-At the [[Battle of Hathsin\|Battle of Hathsin]], as Marsh and Elend fought, Vin fuelled Elend's Allomancy to allow him to keep up. During the fight, he burned [[Atium\|atium]] with [[Duralumin\|duralumin]], which allowed him to perceive all of Preservation's plan. Now aware of what had to be done, Elend let Marsh kill him. Vin, now with her last reason to live gone, likewise realized why she held the power. As someone new to it, she was able to use it in destructive ways, as it has not yet warped her mind to its intent. She rammed into Ruin with the whole of her power, killing them both.
+Al principio, Vin usaba el poder de Conservación con poca habilidad, al igual que Rashek, y Ruina contrarrestó sus acciones. A su vez, Elend se dio cuenta que la gente afectada por las brumas fuera de control eran brumosos de [[Atium\|atium]], los cuales Leras había planeado que quemaran atium, para así negar a Ruina su propio poder.
+En la [[Batalla de Hathsin\|Batalla de Hathsin]], Elend y Marsh lucharon, Vin alimentó la alomancia de Elend para permitirle mantener su poder y seguir luchando. Durante la pelea, quemó [[Atium\|atium]] con [[Duraluminio\|duraluminio]], lo cual le permitió comprender el plan de Conservación. Ahora, consciente de lo que debía hacer, Elend dejó que Marsh le asesinase. De esa forma, Vin con su última razón por vivir expiada, se dió cuenta de poréque tenía el poder. Como alguien nuevo en ello, fue capaz de usarlo de manera destructiva, ya que su mente aún no se había moldeado a su Intención. Embistió a Ruina con todo su poder, siendo como resultado la muerte de ambos.
 
 ### Sazed
-For the history of Sazed prior to becoming Preservation, see Sazed#History.
->“*I am, unfortunately, the Hero of Ages .*”
-\-Sazed[53]
+Para la historia de Sazed antes de convertirse en Conservación, ver [[/wiki/Sazed#Historia]].
+>“*Soy, por desgracia, el Héroe de las Eras.*”
+\-Sazed.[53]
 
 
-As [[Sazed\|Sazed]] observed the battle drawing to a close, he ran out to find Vin, unaware that she was no longer alive. He eventually managed to find her and [[Ati\|Ati's]] corpses. Distraught, he called out to Preservation, raging that despite Ruin's death, the world was still ending. It was then that the two bodies began leaking the powers of Preservation and Ruin. Though initially doubtful that he could hold them, Sazed eventually realized that he was, in fact, the prophesied [[Hero of Ages\|Hero of Ages]], bound to take up both powers and restore the world. Thus, he grabbed both powers and used them to restore Scadrial, merging the two Shards together into [[Harmony\|Harmony]].
+Mientras [[Sazed\|Sazed]] observaba que la batalla llegaba a su fin, corrió buscando a Vin, sin saber que había muerto. Finalmente encontró su cuerpo y el de [[Ati\|Ati]]. Desconsolado, llamó a Conservación, rabioso. A pesar de la muerte de Ruina, el mundo se estaba acabando. Fue entonces cuando el poder de Ruina y Conservación escaparon de los cadáveres. Aunque al principio dudó de que él pudiese contenerlos, Sazed finalmente se dio cuenta de que él era, en realidad, el profetizado [[Profec%C3%ADas de Terris\|Héroe de las Eras]], destinado a coger ambos poderes y restaurar el mundo. De este modo, los asimiló y los usó para restaurar Scadrial, fusionando las dos Esquirlas en [[Armon%C3%ADa\|Armonía]].
 
-For the history of the Shard following its merging with Ruin, see Harmony#History.
-## Influence
- by  Maria Lia Malandrino 
->“*When something grows, or dies, the Jaggenmire make that happen. There is Herr, and his sister Frue, who is also his wife. And she makes things stop, and he makes things go.*”
-\-Allik on Ruin and Preservation[5]
-
-
-Preservation is worshipped as a god by many Scadrian cultures. The [[Terris\|Terris]] have perhaps honored it the longest; they were worshipping it before [[The Lord Ruler\|The Lord Ruler]] as **Terr**, and have kept it up even centuries after the [[Final Ascension\|Final Ascension]], when the Preservation was already merged into [[Harmony\|Harmony]]. In the [[Southern Scadrial\|Southern Scadrial]], Preservation is worshipped as part of a pair of gods with [[Ruin\|Ruin]]; the two are known together as a single entity, the **Jaggenmire**, with Preservation's part of it being called **Frue**. Frue is considered to be female, and the Jaggenmire are believed to be both siblings and spouses.
-The [[Kandra\|kandra]] have some knowledge of Preservation -- or, as they call it, the power of [[Ascension\|Ascension]] -- and its bearers. For an unknown reason, they're only aware of its last four Scadrian holders: [[Rashek\|Rashek]], [[Kelsier\|Kelsier]], [[Vin\|Vin]] and [[Sazed\|Sazed]]. They might be unaware of [[Leras\|Leras]], or see him as something different.
-Preservation is the author of the [[Terris Prophecies\|Terris Prophecies]], a set of legends that foretold the coming of the [[Hero of Ages\|Hero of Ages]]. Leras created them as part of his plan to ultimately defeat Ruin, and although [[Ati\|Ati]] twisted the prophecies over time to serve his ends instead, they were successful in this regard and have led to the creation of Harmony. On a smaller scale, Leras, with aid of [[Kelsier\|Kelsier]], was responsible for stabbing [[Elend\|Elend]] at the [[Well of Ascension\|Well of Ascension]], leading to him becoming a [[Allomancy\|Mistborn]], and the mist spirit snapped Allomancers for many centuries.
-
-## Trivia
-The Southern name for Preservation, Frue, is the Danish word meaning "lady" or "Mrs", and is close to German Frau ("Miss"), matching the name for Ruin, Herr (German for "Mister").
-In *Magic: The Gathering* colors, Preservation would be white.
+Para la historia de la Esquirla tras la fusión con Ruina, ver, ver [[/wiki/Armon%C3%ADa#Historia]].
+## Influencia
+ 
+>“*Cuando algo crece, o muere, es porque el Jaggenmire así lo habrá decretado. Están Herr y su hermana, Frue, que también es su esposa. Ella hace que las cosas se detengan y él hace que las cosas se muevan.*”
+\-Allik sobre Ruina y Conservación.[5]
 
 
-https://coppermind.net/wiki/Preservation
+Conservación es venerada como un dios por muchas culturas scadrianas. Los [[Terris\|Terrisanos]] posiblemente sean los más antiguos, ellos lo veneraban como **Terr** incluso antes del [[Lord Legislador\|lord Legislador]], y lo mantuvieron incluso cientos de años después de la [[Ascensi%C3%B3n Final\|Ascensión Final]], cuando Conservación se fusionó en [[Armon%C3%ADa\|Armonía]]. En el [[Scadriano del sur\|sur de Scadrial]], Conservación es adorado a la par que [[Ruina\|Ruina]] como dioses; ambos son conocidos como una sola entidad, el **Jaggenmire**, con el detalle que a Conservación la llaman **Frue**. Frue está considerada como hembra, y se cree que el Jaggenmire son ambos, hermanos y cónyuges.
+Los [[Kandra\|kandra]] tienen algún conocimiento sobre Conservación o, como ellos lo llaman, el poder de la [[/wiki/Esquirla#Recipiente]] y sus portadores. Por una razón desconocida, solo son conscientes de sus últimos cuatro scadrianos portadores: [[Rashek\|Rashek]], [[Kelsier\|Kelsier]], [[Vin\|Vin]] y [[Sazed\|Sazed]]. Es posible que no conozcan a [[Leras\|Leras]] o que lo vean como algo diferente.
+Conservación es el autor de las [[Profec%C3%ADas de Terris\|Profecías de Terris]], un conjunto de leyendas que presagian la llegada del [[Profec%C3%ADas de Terris\|Héroe de las Eras]]. Leras las creó como parte de su plan definitivo para vencer a Ruina, y a pesar de que [[Ati\|Ati]] manipuló las profecías durante un tiempo para que sirvieran en su beneficio, consiguieron su propósito de afectar a la creación de Armonía. En menor escala, Leras, con la ayuda de [[Kelsier\|Kelsier]], fue responsable de apuñalar a [[Elend\|Elend]] en el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], provocando que se convirtiese en un [[Alomancia\|nacido de la bruma]]. Además el espíritu de la bruma rompió a los alomantes durante muchos siglos.
+
+## Curiosidades
+El nombre de Conservación en el sur, Frue, es una palabra danesa que significa "dama" o "mujer", y es cercana al alemán Frau ("señorita"), que combina con el nombre para Ruina, Herr (palabra en alemán para "señor").
+En los colores de **, Conservación sería blanco.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**| · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] ·  · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Preservation

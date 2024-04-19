@@ -1,39 +1,39 @@
+
+
 |**Drehy**|
 |-|-|
-|by  Marie Seeberger |
-|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
-|**Birthplace**|[[Rianal\|Rianal]]|
-|**Residence**|[[Urithiru\|Urithiru]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Way of Kings*|
+||
+|**Capacidades**|[[Orden de los Corredores del Viento\|Corredor del Viento]], [[Portador de esquirlada\|Portador de esquirlada]]|
+|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
+|**Lugar de nacimiento**|[[Rianal\|Rianal]]|
+|**Residencia**|[[Urithiru\|Urithiru]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
->“*We protect those who cannot protect themselves.*”
-\-Drehy to Kaladin upon showing him the rescued prince Gavinor[1]
-
-
-**Drehy** is a member of [[Bridge Four\|Bridge Four]] and a [[Order of Windrunners\|Windrunner]] on [[Roshar\|Roshar]].
-
-## Contents
-
-1 Appearance and Personality
-2 History
-
-2.1 Windrunner
+>“*Protegemos a aquellos que no puedan protegerse a sí mismos.*”
+\-Drehy a Kaladin, mostrándole al príncipe rescatado Gavinor[1]
 
 
-3 Trivia
-4 Notes
+**Drehy** es un miembro del [[Puente Cuatro\|Puente Cuatro]] y un [[Orden de los Corredores del Viento\|Corredor del Viento]] de [[Roshar\|Roshar]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+
+2. [[#Corredor del Viento]] 
 
 
-## Appearance and Personality
-Drehy is lanky, long-limbed, and muscled. He has blond hair, although he is balding. He speaks with a faint accent.. Shallan referred to Drehy as "handsome". He is gay, and is currently seeing a man named [[Dru\|Dru]].
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-Images of Drehy
+## Apariencia y personalidad
+Drehy es desgarbado, larguirucho y musculoso. Es rubio, aunque se está quedando calvo. Habla con un leve acento. Shallan se refiere a él como «guapo». Es gay, y actualmente está saliendo con un hombre llamado [[Dru\|Dru]].
 
 
+Imágenes de Drehy
 
 
 
@@ -51,27 +51,46 @@ Images of Drehy
 
 
 
-## History
-Drehy was on Bridge Four when [[Kaladin\|Kaladin]] began trying to save the men. He was among the first to defend Kaladin, even while the others taunted him. While the crew was in the chasms scavenging, Kaladin talks with [[Rock\|Rock]], [[Teft\|Teft]], and [[Dunny\|Dunny]], and with prompting, Drehy talks a little as well. When they were being taught to wield the spear by Kaladin, Drehy, along with [[Skar\|Skar]], learned almost as quickly as [[Moash\|Moash]] did. He was also among the first bridgemen that Kaladin trained in first aid, along with Rock and Skar.
-After seeing [[Torol Sadeas\|Sadeas]] abandon [[Dalinar\|Dalinar]] in the [[Battle of the Tower\|Battle of the Tower]], Drehy remarks that it makes him sick. When shocked by Kaladin's display of his abilities, Drehy swears by the Brightcaller's rays and a little later speculates that Kaladin is a [[Spren\|spren]] rather than a man.
-Drehy joins the guard of Dalinar and takes turns guarding the Kholins along with the rest of the former members of Bridge Four, under Kaladin's leadership. He helps train the bridgemen from other crews as well.
-Kaladin sends a message to Teft requesting more men in the training arena because Drehy and Moash had been working too many hours. During dinner in the Bridge Four barracks one night, Drehy flips a chunk of stewed [[Longroot\|longroot]] at [[Lopen\|Lopen]] after the [[Herdazian\|Herdazian]] claimed he was ready for anything.
-As the [[Alethi\|Alethi]] armies approach the center plateau, Drehy and Skar are assigned to guard [[Adolin\|Adolin]]. After he receives the order to attack, Adolin asks the two if they are going to stay behind due to Kaladin's aversion to bridgemen participating in battle against the [[Parshendi\|Parshendi]]. Drehy insists on fighting, asserting that they're no longer dealing with Parshendi. Drehy and Skar keep up with Adolin during the battle. At one point, Drehy helps cut the Parshendi's ropes from Adolin and assures the prince that the Parshendi will send real attacks against him eventually. Drehy and Skar save Adolin from falling off the plateau and a little later help him get his armor off when it loses most of its [[Stormlight\|Stormlight]].
-Drehy is selected by among the best of Bridge Four by [[Teft\|Teft]] to assist Adolin and [[Shallan\|Shallan]] for their battle against the [[Unmade\|Unmade]] [[Re-Shephir\|Re-Shephir]] in the heart of [[Urithiru\|Urithiru]]. Drehy plays a fairly important role in the battle, standing in front of Shallan at one point and stabbing one of the creatures of Re-Shephir through the head with his spear.
-During a meeting between [[Sigzil\|Sigzil]] and Kaladin, Sigzil informs Kaladin that Drehy has been courting a man named [[Dru\|Dru]] from the market district and asks if Drehy needs to fill out forms for social reassignment. Kaladin tells Sigzil that no such form exists for the Alethi. 
-When [[Rock\|Rock]] sets out with other members of Bridge Four to see what has become of Rock's family that was traveling to Urithiru by way of the [[Shattered Plains\|Shattered Plains]], they discover the caravan was attacked and Drehy notes that it was the work of the [[Voidbringers\|Voidbringers]].
-Drehy was chosen, along with Skar, by Kaladin to be part of the group that traveled to [[Kholinar\|Kholinar]] to get an update on the city. This choice by Kaladin shows that with the absence of Moash, Drehy was regarded as one of the better fighters among Bridge Four. During the trip to Kholinar, Drehy flew using [[Lashing\|Lashings]], meaning that he has the powers of a Windrunner squire. 
-During the infiltration and subsequent [[Battle of Kholinar\|Battle of Kholinar]], Drehy played a vital role. As one of the better warriors of the group, Drehy helped guard Shallan and Adolin throughout their time in Kholinar and also helped Kaladin during the battle of the palace to push back the enemy. When Shallan began her way to the [[Oathgate\|Oathgate]] to battle the Unmade, Drehy was sent by Kaladin to assist her and keep the palace guard and the [[Fused\|Fused]] away from her while she focused on the Unmade. Drehy was not of the members of the group to travel to the [[Shadesmar\|Shadesmar]], instead remaining in Kholinar with Skar to attempt to continue the battle.
-Working on information gained by [[Spanreed\|spanreed]], Kaladin traveled to a cave on the coast of [[Alethkar\|Alethkar]]. Entering the cave Kaladin discovers that Drehy and Skar survived and escaped Kholinar with [[Gavinor Kholin\|Gavinor Kholin]]. They had smeared ash on their foreheads to hide their tattoos, and both looked weak and exhausted from their travels. Showing Gavinor to Kaladin, Drehy quotes the Second Ideal of the Windrunners.
-
-### Windrunner
-After reuniting with Kaladin, Drehy bonded a spren of his own. He participated in the evacuation of [[Hearthstone\|Hearthstone]] with his fellow Windrunners, engaging the [[Fused\|Fused]] in combat, before returning to Urithiru. Skar and Drehy travelled with Rock and his family to the [[Horneater Peaks\|Horneater Peaks]] before returning to the Shattered Plains for Teft's funeral.
-
-## Trivia
-He is a cameo of one of Brandon's college friends Ryan Dreher, who is also gay
-He is described as long-limbed and lanky, an in-joke between Brandon and Ryan
-Drehy's boyfriend [[Dru\|Dru]] is possibly a cameo of Ryan's husband
-He is planned to play a major role in the Lunamor Novella
 
 
-https://coppermind.net/wiki/Drehy
+## Historia
+Drehy estaba en el Puente Cuatro cuando [[Kaladin\|Kaladin]] empezó a intentar salvar a sus hombres. Fue uno de los primeros en defender a Kaladin, incluso cuando los demás se burlaban de él. Mientras la cuadrilla se encontraba rebuscando en los abismos, Kaladin habló con [[Lunamor\|Roca]], [[Teft\|Teft]], [[Dunny\|Dunny]] y, tras motivarle, Drehy habló un poco también. Cuando Kaladin les enseñó a empuñar una lanza, Drehy, junto con [[Cikatriz\|Cikatriz]], aprendió casi tan rápido como [[Moash\|Moash]]. También estuvo entre los primeros hombres del puente a los que Kaladin instruyó en primeros auxilios, junto con Roca y Cikatriz.
+Tras ver a [[Torol Sadeas\|Sadeas]] abandonar a [[Dalinar Kholin\|Dalinar]] en la [[Batalla de la Torre\|Batalla de la Torre]], Drehy comenta que eso le pone enfermo. Cuando se sorprende al ver las habilidades de Kaladin, Drehy jura por «los rayos del Clamabrillo» y más tarde especula que Kaladin es un [[Spren\|spren]] en lugar de un hombre.
+Drehy se unió a la guardia de Dalinar, turnándose con el resto de los antiguos miembros del Puente Cuatro para proteger a los Kholin, bajo el liderazgo de Kaladin. También ayudaba a entrenar a hombres de los puentes procedentes de otras cuadrillas.
+Kaladin envió un mensaje a Teft pidiendo más hombres para la zona de entrenamiento porque Drehy y Moash habían estado trabajando demasiadas horas. Una noche, durante la cena en los barracones del Puente Cuatro, lanzó un trozo de [[Largorra%C3%ADz\|largorraíz]] a [[Lopen\|Lopen]] cuando el [[Herdaz\|herdaziano]] afirmó estar listo para cualquier cosa.
+A medida que los ejércitos [[Alezkar\|alezi]] se acercaban a la meseta central, Drehy y Cikatriz fueron asignados para proteger a [[Adolin Kholin\|Adolin]]. Tras recibir la orden de atacar, Adolin les pregunta a los dos si se van a quedar detrás dada la aversión de Kaladin a que los hombres del puente participen en batallas contra los [[Oyentes\|parshendi]]. Drehy insiste en luchar, diciendo que ya no estaban lidiando con los parshendi. Drehy y Cikatriz se mantienen junto a Adolin durante la batalla. En cierto momento, Drehy ayuda a cortar la cuerda parshendi de Adolin y asegura al príncipe que los parshendi al final lanzarán ataques de verdad contra él. Los dos hombres del puente evitaron que Adolin se cayese de la meseta y le ayudaron posteriormente a quitarse la armadura cuando esta pierde la mayor parte de su [[Luz tormentosa\|luz tormentosa]].
+Drehy fue seleccionado entre los mejores hombres del Puente Cuatro por [[Teft\|Teft]] para ayudar a Adolin y [[Shallan Davar\|Shallan]] en su batalla contra la [[Deshecho\|Deshecho]] [[Re-Shephir\|Re-Shephir]] en el corazón de [[Urithiru\|Urithiru]]. Drehy cumple un papel importante en la batalla, colocándose delante de Shallan en cierto momento y acuchillando a través de la cabeza a una de las criaturas de Re-Shephir con su lanza.
+Durante una reunión entre Kaladin y [[Sigzil\|Sigzil]], este informa Kaladin de que Drehy ha estado cortejando a un hombre llamado [[Dru\|Dru]] del distrito comercial y le preguntó si Drehy necesitaba rellenar los documentos de reasignación social. Kaladin le dijo que no existía tal documento para los alezi.
+Cuando [[Lunamor\|Roca]] viaja con otros miembros del Puente Cuatro para ver qué había sido de la familia de Roca, la cual estaba viajando hacia Urithiru por las [[Llanuras Quebradas\|Llanuras Quebradas]], descubrieron que la caravana había sido atacada, y Drehy se da cuenta que aquello era obra de los [[Portador del Vac%C3%ADo\|Portadores del Vacío]].
+Kaladin escogió a Drehy, junto con Cikatriz, para ser parte del grupo que viajó a [[Kholinar\|Kholinar]] con la finalidad de obtener noticias de la ciudad. Esta elección muestra que, con la ausencia de Moash, Drehy era considerado como uno de los mejores combatientes del Puente Cuatro. Durante el viaje a Kholinar, Drehy voló usando [[Enlace\|enlaces]], lo que significa que tenía los poderes de un escudero de un Corredor del Viento.
+Durante la infiltración y la subsiguiente [[Batalla de Kholinar\|Batalla de Kholinar]], Drehy desempeñó un papel vital. Como uno de los mejores guerreros del grupo, Drehy ayudó a Shallan y a Adolin durante su tiempo en Kholinar y también ayudó a Kaladin durante su batalla en el palacio para hacer retroceder al enemigo. Cuando Shallan se encamina hacia la [[Puerta Jurada\|Puerta Jurada]] para pelear contra el Deshecho, Drehy fue enviado por Kaladin para ayudarla y mantener a los guardias del palacio y a los [[Fusionado\|Fusionados]] alejados mientras ella se centraba en el Deshecho. Drehy no fue uno de los miembros que viajaron a [[Shadesmar\|Shadesmar]], sino que permaneció en Kholinar con Cikatriz para tratar de proseguir con la batalla.
+Basándose en la información obtenida por medio de un [[Vinculaca%C3%B1as\|vinculacañas]], Kaladin viajó a una cueva en la costa de [[Alezkar\|Alezkar]]. Al entrar en la cueva Kaladin descubrió que Drehy y a Cikatriz habían sobrevivido y escapado de Kholinar con [[Gavinor Kholin\|Gavinor Kholin]]. Se habían untado ceniza en sus frentes para esconder sus tatuajes, y ambos parecían estar débiles y exhaustos por sus viajes. Cuando Drehy le muestra a Gavinor a Kaladin cita el segundo ideal de los Corredores del Viento.
+
+### Corredor del Viento
+Tras reunirse con Kaladin, Drehy se vinculó con su propio spren. Participó en la evacuación de [[Piedralar\|Piedralar]] junto a sus otros compañeros Corredores de Viento, enfrentándose a los  en combate, antes de regresar a Urithuru. Cikatriz y Drehy viajaron junto a Roca y su familia hasta los [[Picos Comecuernos\|Picos Comecuernos]] antes de regresar a las Llanuras Quebradas para asistir al funeral de Teft.
+
+## Curiosidades
+Este personaje es un cameo de uno de los amigos universitarios de Sanderson, Ryan Dreher, quien también es gay.
+Es descrito como «desgarbado y larguirucho», una broma interna entre Brandon y Ryan.
+El novio de Drehy, [[Dru\|Dru]], es posiblemente también un cameo del marido de Ryan.
+Está previsto que desempeñe un papel importante en la novela corta de Lunamor.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Drehy

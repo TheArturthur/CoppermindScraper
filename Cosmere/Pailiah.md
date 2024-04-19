@@ -1,44 +1,67 @@
+
+
 |**Pailiah**|
 |-|-|
-|by  Magali Villeneuve |
-|**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
-|**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Order of Truthwatchers\|Truthwatchers]]|
-|**Aliases**|Pali|
-|**Homeworld**|[[Ashyn\|Ashyn]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Capacidades**|[[Sombra cognitiva\|Sombra cognitiva]], [[Portador de esquirlada\|Portador de esquirlada]] |
+|**Títulos**|[[Heraldo\|Heraldo]] del [[Todopoderoso\|Todopoderoso]], Patrona de los [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]]|
+|**Apodos**|Pali|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Pailiah**, nicknamed **Pali**, is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]]. She is the patron of the [[Order of Truthwatchers\|Order of Truthwatchers]].
+**Pailiah**, apodada **Pali**, es una de los diez [[Heraldo\|Heraldos]] del [[Todopoderoso\|Todopoderoso]] en [[Roshar\|Roshar]]. Es la patrona de la [[Orden de los Vigilantes de la Verdad\|Orden de los Vigilantes de la Verdad]].
 
-## Contents
+## Sumario
 
-1 Abilities
-2 History
-3 Culture
-4 Trivia
-5 Notes
-
-
-## Abilities
- by  Esther Schrader 
-For more images, see [[Pailiah/Gallery\|/Gallery]].
-For more information about Heraldic powers, see Herald#Abilities.
-The cultural references to Pailiah imply that she might've been a scholar prior to becoming a Herald. As a Herald, she's an immortal [[Cognitive Shadow\|Cognitive Shadow]], and every time she dies, she travels to [[Braize\|Braize]]. There, she's tortured until she or one of the other Heralds breaks, returning them to Roshar.
-When Pailiah wielded her [[Honorblade\|Honorblade]], she had use of the [[Surge\|Surges]] of [[Illumination\|Illumination]], allowing her to create illusions of light and sound, and [[Progression\|Progression]], letting her grow plants and heal herself and others. She also had the ability to breathe in [[Stormlight\|Stormlight]], compounding her self-healing power. However, she has abandoned her Blade at the Aharietiam, losing her access to Stormlight and Surgebinding. Whether she has Surgebinding abilities in the present day is uncertain.
-
-## History
- by  Shuravf 
-Like most other Heralds, Pailiah was born on [[Ashyn\|Ashyn]] and made the trip to [[Roshar\|Roshar]] when the former was destroyed by a man-made catastrophe. She was likely a scholar of some sort—at the very least, she was an important figure in early Rosharan society. When the [[Desolation\|Desolations]] began, she was one of the ten people made Heralds by [[Honor\|Honor]] and given a [[Honorblade\|Honorblade]].
-Along with all of the Heralds but [[Taln\|Taln]], Pailiah abandoned the [[Oathpact\|Oathpact]] at the end of [[Aharietiam\|Aharietiam]]. At some point, she may have joined the [[Ardentia\|Ardentia]] and in particular, the [[Devotary of Insight\|Devotary of Insight]], who act as caretakers for the [[Palanaeum\|Palanaeum]] in [[Kharbranth\|Kharbranth]]. It is unclear if she was involved with Taravangian during this time, and Pailiah may have briefly crossed paths with [[Shallan\|Shallan]] while the young scholar was studying under [[Jasnah\|Jasnah]].
-
-## Culture
- by [[Isaac Stewart\|Isaac Stewart]]
-In the [[Vorin\|Vorin]] culture, Pailiah is associated with number 5 (Palah), the essence Pulp, and the attributes of Learned and Giving. The grand library in Kharbranth, [[Palanaeum\|Palanaeum]], is named after her.
-Pailiah features in several Rosharan idioms, such as "Pali's mind" and "Pailiah knew...", referencing her nature as Learned. There are temples to her in major cities on Roshar, like [[Kholinar\|Kholinar]] and [[Thaylen City\|Thaylen]].
-
-## Trivia
-Under [[Vorin\|Vorin]] rules, where "h" can stand for any letter, Pailiah is a symmetrical name, making her one of the only three Heralds, alongside [[Shalash\|Shalash]] and [[Kalak\|Kalak]], whose names weren't altered by the Vorin culture (although Kalak became Kelek due to linguistic drift).
-Early on, Brandon readily confirmed that the old ardent in the Palanaeum is Pailiah. Later, however, when questioned about it, he was a lot more ambiguous.
-Pailiah's portrait used in the chapter arches is called the Scholar by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
+1 Habilidades. [[#Habilidades]] 
+2 Historia. [[#Historia]] 
+3 Cultura. [[#Cultura]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Pailiah
+## Habilidades
+ 
+Para más imágenes, ver [[Pailiah/Galer%C3%ADa\|/Galería]].
+Para más información sobre los poderes heráldicos, ver [[/wiki/Heraldo#Habilidades]].
+Las referencias culturales a Pailiah implican que podría haber sido una erudita antes de convertirse en Heraldo. Como tal, es una [[Sombra cognitiva\|sombra cognitiva]] inmortal, y cada vez que muere, viaja a [[Braize\|Braize]]. Allí, es torturada hasta que ella o uno de los otros Heraldos se rompe, devolviéndolos a Roshar.
+Cuando Pailiah empuñaba su [[Hoja de Honor\|hoja de Honor]], podía utilizar las [[Potenciaci%C3%B3n\|potencias]] de [[Iluminaci%C3%B3n\|Iluminación]], que le permitía crear ilusiones de luz y sonido, y de [[Progresi%C3%B3n\|Progresión]], que le permitía cultivar plantas y curarse a sí misma y a los demás. También tenía la capacidad de inhalar [[Luz tormentosa\|luz tormentosa]], lo que aumentaba su poder de autocuración. Sin embargo, abandonó su espada en el Aharietiam, perdiendo su acceso a la luz tormentosa y a la potenciación. No se sabe con certeza si tiene capacidad de potenciar en la actualidad.
+
+## Historia
+ 
+Como la mayoría de los Heraldos, Pailiah nació en [[Ashyn\|Ashyn]] y viajó a [[Roshar\|Roshar]] cuando su planeta natal fue destruido por una catástrofe provocada por el hombre. Probablemente era una erudita de algún tipo; como mínimo, era una figura importante en la sociedad roshariana primitiva. Cuando comenzaron las [[Desolaci%C3%B3n\|Desolaciones]], fue una de las diez personas nombradas Heraldos por [[Honor\|Honor]] y recibió una [[Hoja de Honor\|hoja de Honor]].
+Junto al resto de Heraldos, excepto [[Taln\|Taln]], Pailiah abandonó el [[Juramento\|Juramento]] al final del [[Aharietiam\|Aharietiam]]. En algún momento, es posible que se uniera al [[Fervor\|fervor]] y, en particular, al [[Vorinismo\|Devotario de Perspicacia]], que actúan como cuidadores del [[Palaneo\|Palaneo]] en [[Kharbranth\|Kharbranth]]. No está claro si estuvo relacionada con Taravangian durante esta época, y es posible que Pailiah se cruzara brevemente con [[Shallan\|Shallan]] mientras la joven erudita estudiaba con [[Jasnah\|Jasnah]].
+
+## Cultura
+ 
+En la cultura [[Vorin\|vorin]], Pailiah está asociada al número 5 (Palah), a la esencia Pulpa y a los atributos Aprender y Dar. La gran biblioteca de Kharbranth, [[Palaneo\|Palaneo]], lleva su nombre.
+Pailiah aparece en varios modismos rosharianos, como "por la mente de Pali" y "Pailiah sabía...", haciendo referencia a su naturaleza de erudita. Hay templos en su honor en las principales ciudades de Roshar, como [[Kholinar\|Kholinar]] y [[Ciudad Thaylen\|Ciudad Thaylen]].
+
+## Curiosidades
+Según las normas [[Vorin\|vorin]] en las que la "h" puede representar cualquier letra, Pailiah es un nombre simétrico, lo que la convierte en una de los tres únicos Heraldos, junto a Shalash y Kalak, cuyos nombres no fueron alterados por la cultura vorin (aunque Kalak se convirtió en Kelek debido a la deriva lingüística).
+Al principio, Brandon confirmó fácilmente que la vieja fervorosa del Palanaeo es Pailiah. Sin embargo, más tarde, al ser interrogado al respecto, se mostró mucho más ambiguo.
+El personal de [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] llama "La Erudita" al retrato de Pailiah que se utiliza en los arcos de capítulo.
+## Notas
+
+
+
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Pailiah

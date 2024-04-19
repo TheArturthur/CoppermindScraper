@@ -1,56 +1,70 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Salay**|
 |-|-|
-|by  Howard Lyon |
-|**Parents**|[[Salay's father\|Salay's father]]|
-|**Profession**|Pirate|
-|**Birthplace**|[[Islands of Lobu\|Islands of Lobu]]|
-|**Homeworld**|[[Lumar\|Lumar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Tress of the Emerald Sea*|
+||
+|**Padres**|[[Padre de Salay\|Padre de Salay]]|
+|**Oficio**|Pirata|
+|**Lugar de nacimiento**|[[Islas de Lobu\|Islas de Lobu]]|
+|**Mundo natal**|[[Lumar\|Lumar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
-This page or section needs to be updated with new information for *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*Guiding the ship is a privilege, and the helmsperson is an officer tasked with a serious duty.*”
-\-Hoid about Salay[1]
-
-
-**Salay** is the helmswoman of the *Crow's Song* on [[Lumar\|Lumar]].
-Like [[Tress\|Tress]], she had set out in search of someone she had lost: her [[Salay's father\|father]]. After Tress returned from her encounter with the [[Dragon (cosmere)\|dragon]] [[Xisis\|Xisis]], she gave Salay a note indicating her father's location to be [[Filistrate City\|Filistrate City]]. Sometime after the departure of the [[Sorceress\|Sorceress]], Salay and her father were reunited, and he took up the post of apprentice helmsman on their ship, the *Two Cups*.
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-
-3.1 Early Life
-3.2 Crow's Song
-3.3 New Hope
+>“*Guiar el barco es un privilegio, y quien lleva el timón tiene encargado un deber muy serio.*”
+\-Hoid sobre Salay[1]
 
 
-4 Notes
+**Salay** es la timonel del **[[Canto del cuervo\|Canto del cuervo]]** en [[Lumar\|Lumar]].
+Como [[Trenza\|Trenza]], había salido en busca de alguien a quien había perdido: su [[Padre de Salay\|padre]]. Después de que Trenza regresase de su encuentro con el [[Drag%C3%B3n (Cosmere)\|dragón]] [[Xisis\|Xisis]], le dio a Salay una nota indicando que la ubicación de su padre era [[Ciudad Filistrado\|Ciudad Filistrado]]. Algún tiempo después de la partida de la [[Hechicera\|hechicera]], Salay y su padre se reencontraron, y él asumió el puesto de aprendiz de timonel en su barco, el *[[Dos tazas\|Dos tazas]]*.
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Vida temprana]] 
+3. [[#Canto del cuervo]] 
+3. [[#Nueva esperanza]] 
 
 
-## Appearance and Personality
- by  Marie Seeberger Salay is a short, dark skinned woman with black, tightly-curled hair and delicate features. Her naval outfit as helmswoman of the *Crow's Song* is a coat and stiff trousers. She can have a short temper, but is very loyal to her friends and the crew of her ship; she takes the loss of members of her crew very personally and feels responsible for their wellbeing. [[Ann\|Ann]] claims Salay is bad at judging people. Salay is also quite courageous, being willing to stand up to Captain [[Crow\|Crow]] and to sail the [[Crimson Sea\|Crimson]] and [[Midnight Sea\|Midnight Seas]].
-## Attributes and Abilities
->“*It’s the helmswoman’s job to protect the ship. Keep a steady hand, steer clear of danger. Out of storms, away from spore explosions. Keep them safe somehow . . .*”
+4 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+ Salay es una mujer baja y de piel oscura con el pelo negro, muy rizado y rasgos delicados. Su atuendo naval como timonel del *Canto del cuervo* es un abrigo y pantalones rígidos. Puede tener mal genio, pero es muy leal a sus amigos y a la tripulación de su barco; se toma muy a pecho la pérdida de miembros de su tripulación y se siente responsable de su bienestar. [[Ann\|Ann]] afirma que Salay es mala juzgando a la gente. Salay también es bastante valiente, ya que está dispuesta a enfrentarse a la capitana [[Cuervo\|Cuervo]] y navegar por los mares [[Mar Carmes%C3%AD\|Carmesí]] y de [[Mar de Medianoche\|Medianoche]].
+## Atributos y habilidades
+>“*El trabajo de la timonel es proteger el barco. Tener la mano firme, apartarlo del peligro. De las tormentas, de las explosiones de esporas. Mantenerlo a salvo de algún modo…*”
 \-Salay[1]
 
 
-Salay is an expert helmswoman. Her duties include sailing the ship on the spore seas, charting the distances traveled and avoiding storms as well as possible. The helmswoman also traditionally engages the captain of a captured ship. Salay also feels responsible for the welfare of her crewmates in her role as helmswoman. As helmswoman, Salay safely navigates the *Crow's Song* through battles on the [[Emerald Sea\|Emerald Sea]],, storms on the Crimson Sea, and through the maze of rocks surrounding the [[Sorceress's island\|Sorceress's island]] in the Midnight Sea.
+Salay es una timonel experta. Sus tareas incluyen navegar por los mares de esporas, trazar las distancias recorridas y evitar las tormentas lo mejor posible. Tradicionalmente, el timonel también se compromete con el capitán de un barco capturado. Salay también se siente responsable del bienestar de sus compañeros en su papel de timonel. Como timonel, Salay navega con seguridad el *Canto del Cuervo* a través de batallas en el [[Mar Esmeralda\|mar Esmeralda]],, tormentas en el Mar Carmesí, y a través del laberinto de rocas que rodea la [[Isla de la hechicera\|isla de la hechicera]] en el mar de Medianoche.
 
-## History
-### Early Life
-Salay, like [[Fort\|Fort]], is from the [[Islands of Lobu\|Islands of Lobu]] in the Sapphire Sea. After [[Salay's father\|her father]] got in debt, she promised him she would pay off his debts by working as a helmswoman. However, before she returned to pay off his debts, he was pressed into labor by the king's collectors. They left him in an unknown debtor's prison. Passing royal ships who needed crewmembers pressed him into their crews, leaving him in other prisons after they no longer needed him. Salay kept sailing to try to find him.
+## Historia
+### Vida temprana
+Salay, al igual que [[Fort%C3%ADn\|Fortín]], procede de las [[Islas de Lobu\|Islas de Lobu]] en el mar Zafiro. Cuando el [[Padre de Salay\|su padre]] se endeudó, ella le prometió que pagaría sus deudas trabajando como timonel. Sin embargo, antes de que ella regresase para pagar sus deudas, los recaudadores del rey lo presionaron para que se pusiera a trabajar. Lo dejaron en una prisión de deudores desconocida.
+Los barcos reales que necesitaban tripulación lo presionaron para unirse a sus tripulaciones y lo dejaron en otras prisiones cuando ya no lo necesitaban. Salay siguió navegando, tratando de encontrarlo.
 
- by  ohnoesaxel 
-### *Crow's Song*
-Captain Crow convinced Salay and the crew of the *Crow's Song* to become pirates as an alternative to fighting in the king's war. Salay chose to remain on the ship as a pirate to continue to sail, both because of a love of sailing and in hopes of finding her father. Shortly after becoming pirates, Salay and the crew are forced to become [[Deadrunners\|deadrunners]] after killing the crew of the *Oot's Dream* through Laggert and Crow's machinations. Salay tries to prevent further killing - she stops Crow from killing the crew of a captured merchant ship and agrees to sail the Crimson Sea to avoid raiding more ships. Salay comes to believe Tress is a [[King's Mask\|King's Mask]] and invites her to a secret meeting with Ann and [[Fort\|Fort]] to discuss how they plan to react to Captain Crow's actions. Once on the Crimson Sea, Salay manages to navigate through a storm, keeping all of the crew except [[Pakson\|Pakson]] alive. However, a second storm comes on the crew when the sea is stilled, and Salay is unable to do anything to save them. Through quick thinking, Tress is able to save the ship by growing verdant vines to lift the ship above the crimson spikes until the storm passes. Shortly after this, Ann, Salay, Fort, and Tress meet to plan how to mutiny against Captain Crow. Crow, however, spies on the meeting with [[Midnight Essence\|Midnight Essence]]. She sends [[Laggart\|Laggart]] to bring them to the deck at gunpoint. Laggert shoots Salay in the thigh and then has Ann and Fort bring her up to the deck. Crow challenges the four to a duel and handily defeats them, stepping on Salay's wounded leg in the process. When Crow takes Tress to the lair of the dragon [[Xisis\|Xisis]], [[Ulaam\|Ulaam]] applies healing salve to Salay's wound, which helps speed up her healing.
+ 
+### *Canto del cuervo*
+La capitana Cuervo convenció a Salay y a la tripulación del *Canto del cuervo* para que se convirtiesen en piratas como alternativa a luchar en la guerra del rey. Salay eligió permanecer en el barco como pirata para seguir navegando, tanto por amor a la navegación como con la esperanza de encontrar a su padre. Poco después de convertirse en piratas, Salay y la tripulación se ven obligados a convertirse en [[Corremuerto\|corremuertos]] tras matar a la tripulación del *[[Sue%C3%B1o de Oot\|Sueño de Oot]]* por maquinaciones de Laggert y Cuervo. Salay intenta evitar que se siga matando: impide que Cuervo mate a la tripulación de un mercante capturado. y acepta navegar por el mar Carmesí para evitar el asalto de más barcos. Salay llega a creer que Trenza es una [[M%C3%A1scara del rey\|máscara del rey]] y la invita a una reunión secreta con Ann y [[Fort%C3%ADn\|Fortín]] para discutir cómo piensan reaccionar ante las acciones de la capitana Cuervo. Una vez en el mar Carmesí, Salay consigue navegar a través de una tormenta, manteniendo con vida a toda la tripulación excepto a [[Pakson\|Pakson]]. Sin embargo, una segunda tormenta se abate sobre la tripulación cuando el mar está en calma, y Salay no puede hacer nada para salvarlos. Gracias a su rapidez mental, Trenza consigue salvar el barco haciendo crecer enredaderas verdes para elevar el barco por encima de los pinchos carmesí hasta que pase la tormenta. Poco después, Ann, Salay, Fortín y Trenza se reúnen para planear un motín contra la capitana Cuervo. Sin embargo, Cuervo espía la reunión con [[Esencia de Medianoche\|Esencia de Medianoche]]. Ella envía a [[Laggart\|Laggart]] para llevarlos a la cubierta a punta de pistola. Laggart dispara a Salay en el muslo y luego hace que Ann y Fortín la suban a cubierta. Cuervo reta a los cuatro a un duelo y los derrota sin problemas, pisando la pierna herida de Salay en el proceso. Cuando Cuervo lleva a Trenza a la guarida del dragón [[Xisis\|Xisis]], [[Ulaam\|Ulaam]] aplica ungüento curativo a la herida de Salay, lo que ayuda a acelerar su curación.
 
-### New Hope
-When Tress returns, she gives Salay an envelope with a letter from Xisis, which reveals that Salay's father is currently in [[Filistrate City\|Filistrate City]]. This gives Salay new hope and purpose. She helps install Tress as the new captain of the *Crow's Song*. Tress is determined to rescue [[Charlie\|Charlie]] from the [[Riina\|Sorceress]], and so Salay sails the ship to the border of the Midnight Sea, where they drop anchor. On the way there, Salay alerts Tress that they had caught [[Hoid\|Hoid]] throwing supplies overboard on [[Huck\|Huck's]] orders. Salay tries to convince Tress not to go alone onto the Midnight Sea, but is unsuccessful. Once Tress does not return, she and the crew decide to sail to the Sorceress's island to rescue Tress. After being alerted to the dangerous rocks near the island by Tress, Salay is able to safely sail around the rocks by observing the flow of the spores around the rocks. She, Fort, and Ann bring Hoid to the [[Sorceress's tower\|Sorceress's tower]], where they are able to help save Tress and Charlie and to force the Sorceress to leave Lumar. After sailing out of the Midnight Sea, the crew sells the *Crow's Song* and buys a newer, larger ship - the *Two Cups*. They also find Salay's father, who becomes the assistant helmsman on the ship. Over the next few years, the crew of the *Two Cups*, including Salay, become quite wealthy due to their ability to trade through the Crimson and Midnight Seas.
+### Nueva esperanza
+Cuando Trenza regresa, le da a Salay un sobre con una carta de Xisis, que revela que el padre de Salay se encuentra actualmente en [[Ciudad Filistrado\|Ciudad Filistrado]]. Esto da a Salay nuevas esperanzas y propósitos. Ayuda a nombrar a Trenza nueva capitana del *Canto del cuervo*. Trenza está decidida a rescatar a [[Charlie\|Charlie]] de la [[Riina\|hechicera]], por lo que Salay lleva el barco hasta la frontera del mar de Medianoche, donde echan el ancla. De camino allí, Salay avisa a Trenza de que habían sorprendido a [[Hoid\|Hoid]] tirando suministros por la borda por orden de [[Huck\|Huck]]. Salay intenta convencer a Trenza de que no vaya sola al mar de Medianoche, pero no lo consigue. Cuando Trenza no regresa, ella y la tripulación deciden navegar hasta la isla de la hechicera para rescatarla. Tras ser alertada de las peligrosas rocas cercanas a la isla por Trenza, Salay es capaz de navegar con seguridad alrededor de las rocas observando el flujo de las esporas alrededor de las rocas. Ella, Fortín y Ann llevan a Hoid a la [[Torre de la hechicera\|torre de la hechicera]], donde consiguen ayudar a salvar a Trenza y Charlie y obligar a la hechicera a abandonar Lumar. Después de zarpar del mar de Medianoche, la tripulación vende el *Canto del cuervo* y compra un barco más grande y nuevo: el *[[Dos tazas\|Dos tazas]]'*. También encuentran al padre de Salay, que se convierte en ayudante de la timonel del barco. Durante los años siguientes, la tripulación del *Dos tazas*, incluido Salay, se hace bastante rica gracias a su capacidad para comerciar a través de los mares Carmesí y de Medianoche.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
+|-|-|
+|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] ·  · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
+|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
+|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
+|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
 
 
 
-https://coppermind.net/wiki/Salay
+https://es.coppermind.net/wiki/Salay

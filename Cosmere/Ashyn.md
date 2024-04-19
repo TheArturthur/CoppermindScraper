@@ -1,64 +1,78 @@
+
+
 |**Ashyn**|
 |-|-|
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Shards**|None current, potential Investiture from [[Cultivation\|Cultivation's]] past presence|
-|**Investitures**|Unknown, disease-based|
-|**System**|[[Rosharan system\|Rosharan system]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**[[Esquirla\|Esquirlas]]**|Ninguna|
+|**[[Investidura\|Investiduras]]**|Desconocida, basada en enfermedades|
+|**Sistema**|[[Sistema roshariano\|Sistema roshariano]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section contains spoilers for *The Sunlit Man*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-This page or section needs to be updated with new information for *Rhythm of War* and *The Sunlit Man*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*There is Ashyn, the burning planet, which suffered a cataclysm long ago.*”
-\-From Khriss's essay on the Rosharan System[3]
-
-
-**Ashyn** is a planet in the [[Rosharan system\|Rosharan system]] that will be the setting of *The Silence Divine*. It is the first planet from Roshar's sun.
-
-## Contents
-
-1 Geography and Ecology
-2 History
-3 Culture
-4 Magic
-5 Development
-6 Trivia
-7 Notes
+>“*Está Ashyn, el planeta ardiente, que sufrió un cataclismo hace mucho tiempo.*”
+\-Del ensayo de Khriss sobre el sistema de Roshar.[2]
 
 
-## Geography and Ecology
-In the past, Ashyn was largely Earth-like, with animals such as birds and horses, and plants like grapes. Although it is not known what the ecology of Ashyn was precisely like, it likely closely resembled the [[Shinovar\|Shinovar]] region on [[Roshar\|Roshar]], as the plants and animals there are ones brought by the original refugees. On Roshar, weather patterns are referred to as "seasons", despite not matching seasons in length, cause, or pattern. This presumably indicates that "season" is a linguistic holdover from Ashyn and therefore that Ashyn has seasons, and, by extension, axial tilt.
-An ecological catastrophe in the past has destroyed most of the planet, annihilating its biosphere. In the present day, the planet is mostly barren, with a few fertile patches. There are some reptiles on it. The planet is called "the burning planet" but it is unknown what this means for its geography. The [[Listener Song of Histories\|Listener Song of Histories]] describes Ashyn as "warm", though it is unknown whether this is describing the planet before or after the disaster.
+**Ashyn** es un planeta del [[Sistema roshariano\|sistema roshariano]] que será el escenario de *[[The Silence Divine\|The Silence Divine]]*. Es el primer planeta del sol de Roshar.
 
-## History
->“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging.*”
-\-The Eila Stele describing the Ashynite refugees.[13]
+## Sumario
 
-Like the rest of the [[Rosharan System\|Rosharan System]], Ashyn was designed by [[Adonalsium\|Adonalsium]]. It was eventually settled by humans. Originally their civilizations had access to powerful magic that was forbidden on [[Roshar\|Roshar]]; this magic was named the [[Surges\|surges]]. Despite its name, however, this may have been a magic system only similar to the surges used on Roshar.
-The use of Surgebinding on Ashyn was not controlled, and this ultimately led to a calamity and to the destruction of most of the planet. The civilizations native to Ashyn attempted to flee, with many managing to migrate to Roshar as refugees, where they were accepted by the local populace. They did this using Elsecalling, amplified by a Bondsmith. [[Odium\|Odium]] arrived on Roshar along with them. The memory of Ashyn would have a large effect on Rosharan mythology.
-Despite the devastation, some patches of Ashyn remained hospitable. The magic on Ashyn changed after the destruction to become illness-based. This worked off a symbiotic relationship between [[Investiture\|Investiture]] and bacteria/viruses; by allowing oneself to get infected, one gains magical effects. Among the surviving areas of Ashyn are the famous floating cities which are held afloat due to a special disease. Some on Ashyn remain aware of Roshar's existence.
-
-## Culture
-Following the devastation on Ashyn the majority of its population fled to Roshar, the nearest hospitable planet, for refuge. The remainders live on the few habitable pieces of land left on the worlds surface, which includes its famous floating cities.
-The destruction of Ashyn has had a major impact on Rosharan culture being remembered as the [[Tranquiline Halls\|Tranquiline Halls]] and gaining religious significance in [[Vorinism\|Vorinism]]. Ashyn itself has also remained aware of Roshar's existence however the impact this has had on their culture is unknown. Little can be ascertained as to how Ashyn culture functions, however it is known that due to the way Investiture manifests upon the world, disease is an important aspect of it. In particular the floating cities are held afloat by individuals infected with a disease that causes hearing loss making them essential to the cities continued existence.
-
-## Magic
-Ashyn currently has no [[Shard\|Shard]], but [[Cultivation\|Cultivation]] spent some time there. [[Odium\|Odium]] also possibly spent some time there, as he followed the Ashynites to Roshar. Like most of the Rosharan system, the planet is 10-centric.
-The magic of Ashyn is disease-based. As the bacteria and viruses there seek to keep their hosts alive, they provide them with access to supernatural abilities, which differ depending on the disease. The Ashynites harness this by lowering their immune systems and deliberately infecting themselves to gain various powers.
-Very little is known about the specific forms of magic granted by the illnesses, though a few have been described. The most important from the survival standpoint causes hearing loss while allowing its host to manipulate gravity. As such, it's crucial to the functioning of Ashyn's flying cities, which are kept aloft by conclaves of people infected with it. Other abilities granted by diseases include flight or passing through walls. The ability lasts as long as the person is infected by the disease, and disappears when their immune system overcomes it.
-Ashyn's magic system was not sickness-based from the start. The original magic, which brought about the cataclysm, wasn't exactly like [[Surgebinding\|Surgebinding]], but shared the same basic principles. It might've also been related to Roshar's [[Old Magic\|Old Magic]]. The [[Eila Stele\|Eila Stele]] mentions humans using the powers of [[Spren\|spren]] and [[Surge\|Surges]], suggesting that the shift to bacteria and viruses as the focus of Ashynite magic might've happened some time after most people have already evacuated from the planet.
-The symbiotic relationship between the bacteria and their hosts is similar to that of the [[Aviar\|Aviars]] and the worms that grant them powers from [[First of the Sun\|First of the Sun]], albeit here the humans interact with the magic-granting microorganisms directly rather than through intermediaries.
-
-## Development
-This page or section contains details from the unpublished work *The Silence Divine*!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
-
-The earliest reference to Ashyn, though not under that name, can be found in Brandon's blog post from March 10, 2006. Back then, he considered it the sillier of his two ideas for magic disease stories, the more serious of which would involve a doctor combating an illness with various magical effects on its victims. The "silly" story would later be developed into *The Silence Divine*, though for now, only an early version of the first chapter exists in public (it can be found ). There, several aspects of Ashyn have been established, though their current canonicity is debatable.
-In the story, Ashynites do not have [[Fabrial\|fabrials]], but appear to have discovered gunpowder, as some are mentioned carrying flintlock pistols. Abilities granted by diseases include prophecy and changing the color of liquids, and are accompanied by sometimes-dangerous side effects, such as physical weakness, hallucinations, and deadly fevers. Occasionally, there are some symptoms left behind after the disease is over, called Echoes, which take some time to fade or don't disappear at all. People who carry the diseases are called **Incubators**.
-
-## Trivia
-Most or all of the [[Heralds\|Heralds]] came from Ashyn and one or more may have been born there.
-Sometime before his arrival on [[Canticle\|Canticle]], [[Nomad\|Nomad]] had visited one of the flying cities on Ashyn.
+1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
+2 Historia. [[#Historia]] 
+3 Cultura. [[#Cultura]] 
+4 Magia. [[#Magia]] 
+5 En desarollo. [[#En desarollo]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Ashyn
+## Geografía y ecología
+En el pasado, Ashyn era muy parecido a la Tierra; con animales como pájaros, caballos y plantas como la de las uvas. Aunque no se sabe cómo era la ecología de Ashyn, probablemente se parecía mucho a la región de [[Shinovar\|Shinovar]] en [[Roshar\|Roshar]], dado que las plantas y los animales son los que trajeron los refugiados originales. En Roshar, los patrones climáticos se conocen como “estaciones”, a pesar de no coincidir con las estaciones en términos de duración, causa o patrón. Esto seguramente significa que “estación” es un vestigio lingüístico proveniente de Ashyn y que, por lo tanto, Ashyn tiene estaciones e inclinación axial.
+Una catástrofe ecológica en el pasado destruyó la mayor parte del planeta, aniquilando la biosfera. Actualmente, el planeta es prácticamente estéril, con unas pocas parcelas de terreno fértil. En él habitan una especie de reptiles. Al planeta se le llama “el planeta ardiente” pero se desconoce qué significa esto para su geografía. La  describe Ashlyn como "cálido", aunque se desconoce si esto está describiendo el planeta antes o después del desastre.
+
+
+## Historia
+>“*Vinieron de otro mundo, empleando poderes a los que se nos ha prohibido acceder. Poderes peligrosos, de los spren y las potencias. Destruyeron sus tierras y vinieron a nosotros suplicando.*”
+\-Fragmento del Eila Stele describiendo a los refugiados de Ashyn.[12]
+
+Como el resto del [[Sistema roshariano\|sistema roshariano]], Ashyn fue diseñado por [[Adonalsium\|Adonalsium]]. Eventualmente fue asentado por humanos. En sus orígenes sus civilizaciones tenían acceso a un poderosa magia prohibida en [[Roshar\|Roshar]]; dicha magia fue denominada [[Potenciaci%C3%B3n\|potenciación]]. Sin embargo y a pesar de su nombre, este sistema de magia posiblemente podría ser similar al de las Potencias utilizadas en Roshar.
+El uso de la potenciación en Ashyn no estaba controlado, lo que llevó a un desastre y una destrucción de la mayoría parte del planeta.Las civilizaciones nativas de Ashyn probaron a huir; muchos consiguieron migrar a Roshar como refugiados donde fueron aceptados por la población local. Para ello, usaron los poderes de los Nominadores de lo Otro, amplificados por un Forjador de Vínculos. [[Odium\|Odium]] llegó a Roshar con ellos. Desde entonces, la memoria de Ashyn tendría una gran repercusión de largo efecto en la mitología roshariana.
+A pesar de la devastación, algunas partes de Ashyn se mantuvieron habitables. La magia de Ashyn cambió tras la destrucción transformandose en un sistema magico basado en las enfermedades. Este sistema funciona como una relación simbiotica entre la [[Investidura\|Investidura]] y las bacterias y virus; permitiendo que un individio infectado puede obtener efectos magicos. Entre las zonas supervivientes de Ashyn, se encuentran las famosas ciudades flotantes las cuales se mantienen a flote debido a una determinada enfermedad. Algunos de los habitantes que quedan en Ashyn son conscientes de la existencia de Roshar.
+
+## Cultura
+Después de la devastación de Ashyn la mayoría de la población huyó a Roshar, el planeta habitable más cercano, para refugiarse. Un grupo de habitantes conocidos como los *remainders* viven todavía en las pocas zonas de tierra habitables que quedan en la superficie del planeta, en las que se encuentran las famosas ciudades flotantes.
+La destrucción de Ashyn ha tenido un gran impacto en la cultura roshariana recordando el planeta como los [[Salones Tranquilos\|Salones Tranquilos]] y ganando de tal forma un significado religioso dentro del [[Vorinismo\|Vorinismo]]. Por su parte, Ashyn también se mantuvo consciente de la existencia de Roshar aunque se desconoce el impacto que haya podido tener este conocimiento dentro de su cultura. Poco se puede determinar de como la cultura de Ashyn funciona, sin embargo se conoce que debido a la forma en la que se manfiesta la Investidura en su mundo, las enfermedades son una parte importante de ella. En particular las ciudades flotantes son mantenidas a flote por individuos infectados con una enfermedad que causa sordera, haciendoles esenciales para la continuidad de la existencia de dichas ciudades.
+
+## Magia
+Actualmente Ashyn no tiene [[Esquirla\|Esquirla]], pero [[Cultivaci%C3%B3n\|Cultivación]] pasó algún tiempo en el planeta. [[Odium\|Odium]] posiblemente también pasó algún tiempo allí, dado que siguió a lo grupos migratorios de Ashyn a Roshar. Como la mayoría de planetas en el sistema roshariano, Ashyn es decimocéntrico.
+La magia de Ashyn está basada en enfermedades. Dado que las bacterias y virus buscan mantener a sus huéspedes vivos, les brindan accesos a habilidades sobrenaturales, las cuales varían dependiendo de la enfermedad en cuestión. Los habitantes de Ashyn se aprovechan de ello debilitando su sistema inmunológico e infectándose deliberadamente a sí mismos para obtener poderes.
+Se sabe muy poco las formas concretas de magia que las enfermedades otorgan, aunque unas pocas de ellas sí se han descrito. La más importante en lo que respecta a la supervivencia, sería la que causa sordera al mismo tiempo que permite a su huésped manipular la gravedad. Ésta es crucial para el funcionamiento de las ciudades flotantes del planeta, ya que se mantienen en el aire gracias a cónclaves de personas infectadas con dicha enfermedad. Otras habilidades proporcionadas por las enfermedades incluyen volar o atravesar paredes. La habilidad dura mientras la persona está infectada y desaparece cuando el sistema inmunológico la supera.
+En sus inicios el sistema de magia de Ashyn no estaba basado en enfermedades. Su magia original, que fue la que provocó el cataclismo, no era exactamente como la [[Potenciaci%C3%B3n\|potenciación]], pero compartía sus principios básicos. También podría haber estado relacionada con la [[Antigua Magia\|Antigua Magia]] de Roshar. El [[Eila Stele\|Eila Stele]] menciona humanos que usaban el poder de [[Spren\|spren]] y [[Potencia\|Potencias]], sugiriendo que el cambio de foco en la magia de Ashyn a las bacterias y virus podría haber sucedido pasado un tiempo después al abandono del planeta por la mayor parte de la población.
+La relación simbiótica entre la bacteria y sus huéspedes se podría comparar con la de los [[Aviar\|aviares]] y los gusanos que les otorgan sus poderes en [[Primero del Sol\|Primero del Sol]], aunque aquí los humanos interaccionan directamente con los microorganismos que otorgan la magia en vez de a través de intermediarios.
+
+## En desarollo
+> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) *[[The Silence Divine\|The Silence Divine]]*!Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro
+
+La referencia más temprana a Ashyn, aunque no bajo ese nombre, se puede encontrar en un post del 10 de Marzo de 2006 del blog de Brandon. Por aquel entonces, él lo consideraba la más tonta de sus dos ideas para historias de magia basada en enfermedades; la más seria de las cuales involucraría un médico que lucha contra una enfermedad con varios efectos mágicos en sus víctimas. La «historia tonta» más adelante se desarrollaría en *[[The Silence Divine\|The Silence Divine]]*, aunque por ahora solo existe de forma pública una primera versión del primer capítulo (se puede encontrar ). En este capítulo, varios aspectos de Ashyn ya han quedado establecidos, aunque sí forman parte del canon todavía es tema de discusión.
+
+En esta historia, la gente de Ashyn no tiene [[Fabrial\|fabriales]], pero parece que han descubierto la pólvora, ya que se menciona que algunos llevan pistolas de pedernal. Las habilidades desarolladas gracias a las enfermedades incluyen la profecía y el cambio de color de los objetos y son acompañadas por efectos secundarios (a veces peligrosos) tales como: debilidad física, alucinaciones y fiebres mortales. En alguna ocasión, hay síntomas que se quedan después de que se haya superado la enfermedad. Estos síntomas son llamados «Ecos» y tardan un tiempo en desaparecer si es que lo hacen. La gente que portan las enfermedades se denominan **«Incubadoras»**.
+
+## Curiosidades
+La mayoría o todos los [[Heraldo\|Heraldos]] procedían de Ashyn y uno o más pueden haber nacido allí.
+Algún tiempo antes de su llegada a [[C%C3%A1ntico\|Cántico]], [[N%C3%B3mada\|Nómada]] visitó una de las ciudades flotantes de Ashyn.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**| · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Ashyn

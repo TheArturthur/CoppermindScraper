@@ -1,14 +1,28 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Drama**|
 |-|-|
-|**Profession**|Pilot|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Oficio**|Piloto de la FDD|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-**Drama** is a cadet in either [[Inkwell Flight\|Inkwell Flight]] or [[Firestorm Flight\|Firestorm Flight]] in the [[DDF\|DDF]]. She is likely from [[Bountiful Cavern\|Bountiful Caverns]]. It is unclear whether Drama is a callsign or this cadet's name.
-There are only four people in her Flight in the time period just before graduation. She is used to a large amount of conversation occurring over her communication line during flights and may herself be a chatty person. She has a good-natured relationship with the three members remaining in her Flight before graduation.
-Drama has dinner with with [[FM\|FM]], [[Spensa\|Spensa]], and the members of Inkwell and Firestorm Flight shortly after [[Arturo\|Arturo]] is pulled from [[Flight School\|Flight School]]. She claims to know [[Jorgen\|Jorgen]], however, believes he would not interact with the other members of his Flight unless giving orders or criticizing them. It is unclear whether she has developed this opinion based on generalization's of the Skyward flightleader or because of previous interactions with him.
-She is unable to pronounce Arturo's callsign and is familiar with his outgoing personality. She characterizes [[Spensa\|Spensa]] as being a quiet person and believes, to some extent, that FM is similar, as she assumes that with Arturo's departure, [[Skyward Flight\|Skyward Flight]] would not communicate much outside of necessary commands.
+**Drama** es una cadete en el [[Escuadr%C3%B3n Tintero\|Escuadrón Tintero]] o el [[Escuadr%C3%B3n Tormenta de Fuego\|Escuadrón Tormenta de Fuego]] en la FDD. Es probable que sea de [[Caverna Pr%C3%B3diga\|Caverna Pródiga]]. No está claro si Drama es un identificador o el nombre de este cadete.
+Sólo hay cuatro personas en su escuadrón en el período de tiempo justo antes de la graduación. Ella está acostumbrada a una gran cantidad de conversación que se produce a través de su línea de comunicación durante los vuelos y puede ser ella misma una persona habladora. Mantiene una relación cordial con los tres miembros que quedan en su escuadrón antes de la graduación.
+Drama cena con [[FM\|FM]], [[Spensa\|Spensa]] y los miembros del Escuadrón Tintero y del Escuadrón Tormenta de Fuego poco después de que [[Arturo\|Arturo]] sea sacado de la [[Escuela de vuelo\|escuela de vuelo]]. Ella afirma conocer a [[Jorgen\|Jorgen]], sin embargo, cree que él no interactuaría con los otros miembros de su escuadrón a menos que diera órdenes o los criticara. No está claro si ha desarrollado esta opinión sobre la base de la generalización del jefe de escuadrón o debido a las interacciones anteriores con él.
+Es incapaz de pronunciar el identificador de Arturo y está familiarizada con su personalidad extrovertida. Considera que [[Spensa\|Spensa]] es una persona tranquila y cree, hasta cierto punto, que FM es similar, ya que supone que con la marcha de Arturo, el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] no se comunicaría mucho más allá de las órdenes necesarias.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 11:11, 30 de julio de 2019 (UTC)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Drama
+https://es.coppermind.net/wiki/Drama

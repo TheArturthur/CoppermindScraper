@@ -1,39 +1,43 @@
-**Ars Arcanum** is a glossary or appendix section at the end of the books that are part of the [[Cosmere\|cosmere]] universe. The information is presented from an in-universe perspective.
-Every Ars Arcanum is written by [[Khriss\|Khriss]]. The annotations on many of the images from the various books are made by her assistant [[Nazh\|Nazh]].
-[[Brandon Sanderson\|Brandon]] initially planned to use the phrase "Ars Magica" for these glossaries, as he felt it was "a cool Latinate take on 'Magical Arts' or 'Magical Skills'." However, there was a role-playing game with that name, so he instead went with "Ars Arcanum," which he ultimately felt had more of a true-Latinate feel.
 
-## Contents
+**Ars Arcanum** es una sección de glosario o apéndice al final de los libros que forman parte del universo del [[Cosmere\|Cosmere]]. La información se presenta desde una perspectiva interna del universo.
+Cada Ars Arcanum está escrito por [[Khriss\|Khriss]]. Las anotaciones en muchas de las imágenes de los distintos libros son realizadas por su asistente [[Nazh\|Nazh]].
+[[Brandon Sanderson\|Brandon]] pensó inicialmente en utilizar la frase "Ars Magica" para estos glosarios, ya que le parecía "una versión latina de 'Artes Mágicas' o 'Habilidades Mágicas'". Sin embargo, ya existía un juego de rol con ese nombre, por lo que optó por "Ars Arcanum", que en última instancia le pareció que tenía un toque más latino.
 
-1 Ars Arcanum in each book or series
+## Sumario
 
-1.1 White Sand
-1.2 Elantris
-1.3 Mistborn
-1.4 Warbreaker
-1.5 The Stormlight Archive
+1 Ars Arcanum en cada libro o saga. [[#Ars Arcanum en cada libro o saga]] 
 
-
-2 Notes
+1. [[#Arena Blanca]] 
+1. [[#Elantris]] 
+1. [[#Nacidos de la bruma]] 
+1. [[#El aliento de los dioses]] 
+1. [[#El archivo de las tormentas]] 
 
 
-## Ars Arcanum in each book or series
-*All of the cosmere stories containing an Ars Arcanum are listed here in rough chronological order.*
+2 Notas. [[#Notas]] 
 
-### White Sand
-The omnibus edition of *White Sand* has pages of Ars Arcanum interspersed throughout; they consist of Khriss' [[Khrissalla's Journal\|original notes]] from her first visit to Dayside [[Taldain\|Taldain]], before she became a worldhopper. They have notes on Taldain astronomy, Dayside fauna, culture and customs, the properties of its [[Sand (Taldain)\|Sand]], the abilities of [[Sand mastery\|sand masters]], and comparisons of that to [[Starmarks\|Starmarks]].
+
+## Ars Arcanum en cada libro o saga
+*Todas las historias del Cosmere que contienen un Ars Arcanum se enumeran aquí en orden cronológico aproximado.*
+
+### Arena Blanca
+La edición omnibus de *[[Arena Blanca\|Arena Blanca]]* tiene páginas del Ars Arcanum intelercadas a lo largo de la novela gráfica. Estas consisten en [[Diario de Khrissalla\|notas originales]] de Khriss de su primera visita al Lado Diurno de [[Taldain\|Taldain]], antes de que se convirtiera en saltamundos. Tienen apuntes sobre la astronomía de Taldain, sobre fauna del Lado Diurno, así como la cultura y costumbres de este sitio, las propiedades de su [[Arena (Taldain)\|arena]], las habilidades de los [[Maestr%C3%ADa de la arena\|maestros de la arena]] y comparaciones de estas con las [[Marcas estelares\|marcas estelares]].
 
 ### Elantris
-*Elantris* has an Ars Arcanum that lists selected [[Aon\|Aons]] of note and includes their design, their meanings, and some examples of their use within Aonic names or terms. The tenth anniversary edition added a brief essay titled "On [[AonDor\|AonDor]]". The essay raises questions about the origin of Aons and compares the manifestations of [[Investiture\|Investiture]] found on [[Sel\|Sel]] to those found on other planets. Selish magic is noted to have several unique qualities that Khriss cannot explain. The essay is also notable for mentioning [[Vax\|Vax]].
+*[[Elantris (libro)\|Elantris]]* tiene un Ars Arcanum que enumera una selección de [[Aon\|aones]] de interés e incluye su diseño, sus significados y algunos ejemplos de su uso dentro de nombres o términos aónicos. La edición décimo aniversario añadió un breve ensayo titulado *Sobre el [[AonDor\|AonDor]]*. Este plantea cuestiones sobre el origen de los aones y compara las manifestaciones de [[Investidura\|investidura]] encontradas en [[Sel\|Sel]] con las de otros planetas. Se apunta que la magia de Sel tiene varias cualidades únicas que Khriss no puede explicar. El ensayo también es destacable por mencionar a [[Vax\|Vax]].
 
-### Mistborn
-The books in the [[Mistborn series\|Mistborn series]] each have an Ars Arcanum with the table of [[Metallic Arts\|Metallic Arts]], describing what each of the [[Allomantic\|Allomantic]] metals does. Since more metals are discovered and new things about them are learned, the table in each later book has more metals and information with greater accuracy. [[The Lost Metal\|The Lost Metal]] adds information from an interview with [[Marsh\|Marsh]].
+### Nacidos de la bruma
+Los libros de la saga *[[Nacidos de la bruma\|Nacidos de la bruma]]* tienen cada uno un Ars Arcanum con la tabla de las [[Artes Met%C3%A1licas\|Artes Metálicas]], que describe lo que hace cada uno de los metales [[Alom%C3%A1ntico\|alománticos]]. Como se descubren más metales y se aprenden cosas nuevas sobre ellos, la tabla de cada libro posterior tiene más metales e información con mayor precisión. [[El metal perdido\|El metal perdido]] añade información de una entrevista con [[Marsh\|Marsh]].
 
-### Warbreaker
-The Ars Arcanum in *Warbreaker* includes a table showing the abilities granted by the different [[Heightening\|Heightenings]] of [[BioChromatic Breath\|BioChromatic Breath]].
+### El aliento de los dioses
+El Ars Arcanum en *[[El aliento de los dioses\|El aliento de los dioses]]* incluye una tabla que muestra las habilidades otorgadas por las diferentes [[Elevaci%C3%B3n\|Elevaciones]] de [[Aliento biocrom%C3%A1tico\|aliento biocromático]].
 
-### The Stormlight Archive
-The Ars Arcanum in [[The Stormlight Archive\|The Stormlight Archive]] gives detailed information about the [[Ten Essences\|Ten Essences]], as well as descriptions of the different [[Surge\|Surges]] and how they are used by [[Surgebinder\|Surgebinders]]. Some information has been added in each book: a Lightweaving section appears in *Words of Radiance* and *Oathbringer* contains an additional section about [[Soulcasting\|Soulcasting]]. *Rhythm of War* contains an additional section about the [[Surge\|Surge]] of [[Cohesion\|Cohesion]], particularly focusing on its use in shaping stone, and mentioned [[Microkinesis\|microkinesis]].
+### El archivo de las tormentas
+El Ars Arcanum en *[[El archivo de las tormentas\|El archivo de las tormentas]]* da información detallada sobre las [[Diez Esencias\|Diez Esencias]], así como descripciones de las diferentes [[Potencias\|Potencias]] y cómo las utilizan los [[Potenciaci%C3%B3n\|potenciadores]]. Se ha añadido algo de información en cada libro: una sección sobre [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] aparece en *[[Palabras radiantes\|Palabras radiantes]]*, y *[[Juramentada\|Juramentada]]* contiene una sección adicional sobre [[Moldear almas\|moldeado de almas]]. *[[El ritmo de la guerra\|El ritmo de la guerra]]* contiene una sección adicional sobre la [[Potencia\|Potencia]] de [[Cohesi%C3%B3n\|Cohesión]], centrándose especialmente en su uso para dar forma a la piedra, y se menciona la [[Microquinesis\|microquinesis]].
+
+## Notas
+
+A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
 
 
-
-https://coppermind.net/wiki/Ars_Arcanum
+https://es.coppermind.net/wiki/Ars_Arcanum

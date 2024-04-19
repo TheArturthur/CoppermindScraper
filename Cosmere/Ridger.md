@@ -1,25 +1,39 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Ridger**|
 |-|-|
-|**Family**|
-|**Parents**|[[Dedelin\|Dedelin]], [[Vivenna's mother\|Mother]]|
-|**Siblings**|[[Vivenna\|Vivenna]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
-|**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
-|**Ancestors**|[[Vo\|Vo]]|
-|**Abilities**|[[Royal Locks\|Royal Locks]]|
-|**Titles**|Heir to the throne of [[Idris\|Idris]]|
-|**Residence**|[[Bevalis\|Bevalis]]|
-|**Nationality**|[[Idrian\|Idrian]]|
-|**Homeworld**|[[Nalthis\|Nalthis]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Padres**|[[Dedelin\|Dedelin]], [[Madre de Vivenna\|madre]]|
+|**Hermanos**|[[Vivenna\|Vivenna]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
+|**Parientes**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
+|**Ancestros**|[[Vo\|Vo]]|
+|**Capacidades**|[[Mechones Reales\|Mechones Reales]]|
+|**Títulos**|Heredero al trono de [[Idris\|Idris]]|
+|**Residencia**|[[Bevalis\|Bevalis]]|
+|**Nacionalidad**|[[De Idris\|de Idris]]|
+|**Mundo natal**|[[Nalthis\|Nalthis]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Ridger** is a member of the [[Idris\|Idrian]] royal family on [[Nalthis\|Nalthis]]. As the second born child of King [[Dedelin\|Dedelin]], Ridger was trained to one day become king, as his elder sister was betrothed to become the queen of [[Hallandren\|Hallandren]].
+**Ridger** es un miembro de la familia real [[Idris\|idriana]] de [[Nalthis\|Nalthis]]. Como segundo hijo del rey [[Dedelin\|Dedelin]], Ridger fue formado para convertirse algún día en rey, ya que su hermana mayor estaba comprometida para convertirse en la reina de [[Hallandren\|Hallandren]].
 
-## Appearance and Personality
-Ridger has a kind heart, always trying to do what was right. He had a good relationship with his youngest sister, [[Siri\|Siri]]. Before Ridger had to begin his training to become king, he and Siri often got into trouble.
+## Apariencia y personalidad
+Ridger tenía un corazón bondadoso y siempre intentaba hacer lo correcto. Tenía una buena relación con su hermana menor, [[Siri\|Siri]]. Antes de que Ridger tuviera que empezar a formarse para convertirse en rey, Siri y él se metían a menudo en líos.
 
-## History
-As second born child, he was set to inherit the throne because the eldest child, [[Vivenna\|Vivenna]], was betrothed to [[Susebron\|Susebron]], the God King of Hallandren. As a child he spent a lot of time with his sister Siri getting into trouble. Once he grew older and began to take on more responsibility, Ridger spent the majority of his time focusing on his studies and being groomed to rule. When King [[Dedelin\|Dedelin]] chose not to send Vivenna to Hallandren, [[Fafen\|Fafen]] believed Vivenna would inherit the throne instead of Ridger, which Vivenna thought would upset the order of things even more.
+## Historia
+Como segundo hijo, estaba destinado a heredar el trono porque la hija mayor, [[Vivenna\|Vivenna]], estaba prometida a [[Susebron\|Susebron]], el rey-dios de Hallandren. De niño pasaba mucho tiempo con su hermana Siri metiéndose en líos. Cuando se hizo mayor y empezó a asumir más responsabilidades, Ridger pasó la mayor parte del tiempo concentrándose en sus estudios y preparándose para gobernar. Cuando el rey [[Dedelin\|Dedelin]] decidió no enviar a Vivenna a Hallandren, [[Fafen\|Fafen]] creyó que Vivenna heredaría el trono en lugar de Ridger, lo que Vivenna pensó que alteraría aún más el orden de las cosas.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 02:23, 19 de Diciembre de 2016 (MST)
+|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
+|-|-|
+|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
+|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
+|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
+|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
 
 
 
-https://coppermind.net/wiki/Ridger
+https://es.coppermind.net/wiki/Ridger

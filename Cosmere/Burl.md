@@ -1,8 +1,8 @@
-*This disambiguation page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
-Burl may refer to a character within the [[Cosmere\|cosmere]] or a species in the [[Cytoverse\|Cytoverse]]
+*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
+Burl puede hacer referencia a un personaje del [[Cosmere\|Cosmere]] o a una especie en el [[Citoverso\|Citoverso]]
 
-[[Burl (character)\|Burl (character)]] - A [[Seeker\|seeker]] who works for [[Kelesina Shores\|Kelesina Shores]] on [[Scadrial\|Scadrial]]
-[[Burl (species)\|Burl (species)]] - A species that exists within the [[Cytoverse\|Cytoverse]]
+[[Burl (personaje)\|Burl (personaje)]] - un [[Buscador\|buscador]] que trabaja para [[Kelesina Shores\|Kelesina Shores]] en [[Scadrial\|Scadrial]]
+[[Burl (especie)\|Burl (especie)]] - una especie que existe en el [[Citoverso\|Citoverso]]
 
 
-https://coppermind.net/wiki/Burl
+https://es.coppermind.net/wiki/Burl

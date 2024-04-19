@@ -1,185 +1,215 @@
 
 
+
 |**Odium**|
 |-|-|
-|by  AnnDR |
-|**Vessel**|[[Taravangian\|Taravangian]]|
-|**Slivers**|[[Rayse\|Rayse]]|
-|**Splinters**|[[Voidspren\|Voidspren]], [[Unmade\|Unmade]]|
-|**Status**|Whole|
-|**Magics**|[[Voidbinding\|Voidbinding]]|
-|**Residence**|[[Braize\|Braize]], [[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Recipiente**|[[Taravangian\|Taravangian]]|
+|**[[Lasca\|Lascas]]**|[[Rayse\|Rayse]]|
+|**[[Astilla\|Astillas]]**|[[Vac%C3%ADospren\|Vacíospren]], [[Deshecho\|Deshecho]]|
+|**Estado**|Completa|
+|**Magia**|[[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]]|
+|**Residencia**|[[Braize\|Braize]], [[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*It was the scream of a thousand warriors on the battlefield. It was the moment of most sensual touch and ecstasy. It was the sorrow of loss, the joy of victory. And it was hatred. A deep, pulsing hatred with a pressure to turn all things molten. It was the heat of a thousand suns, it was the bliss of every kiss, it was the lives of all men wrapped up in one, defined by everything they felt.*”
-\-Dalinar describing Odium[2]
-
-
-**Odium** is the [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]] originally held by [[Rayse\|Rayse]], and currently held by [[Taravangian\|Taravangian]]. Unlike most other Shards, which typically pick a single world and settle there, Odium has been traveling freely throughout the [[Cosmere\|cosmere]] for a long time, deliberately refusing to [[Invest\|Invest]] himself anywhere. He is responsible for the deaths of at least four Shards -- [[Ambition\|Ambition]], [[Devotion\|Devotion]], [[Dominion\|Dominion]], and [[Honor\|Honor]]. In the present, he's confined to the planet [[Braize\|Braize]], but his influence can be felt on the entire [[Rosharan system\|Rosharan system]]. Odium’s [[Investiture\|Investiture]] is typically associated with “burning” gold or violet-black colors, though it is also often red, the color that signifies corrupted Investiture. His overall motif is red-gold, although gold is his "real" color.
-
-## Contents
-
-1 Intent
-2 Associated Magics
-
-2.1 Voidlight
-2.2 Raysium
-2.3 Voidbinding
-2.4 Spren
-2.5 Fused
-2.6 Passions
+>“*Era el chillido de mil guerreros en el campo de batalla. Era el instante del contacto más sensual y el éxtasis. Era el lamento de la pérdida, el gozo de la victoria. Y sí que era odio. Un odio profundo y palpitante, una presión que anhelaba fundirlo todo. Era el calor de un millar de soles, la dicha de todo beso, las vidas de todos los hombres combinadas en una, definida por todo cuanto sentían.*”
+\-Dalinar describiendo a Odium[2]
 
 
-3 History
+**Odium** es la [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]] que originalmente poseía [[Rayse\|Rayse]], que actualmente posee [[Taravangian\|Taravangian]]. A diferencia de la mayoría del resto de Esquirlas, que suelen elegir un solo mundo y establecerse en él, Odium ha estado viajando libremente por todo el [[Cosmere\|Cosmere]] durante mucho tiempo, negándose deliberadamente a [[Investidura\|Investirse]] en ningún lugar. Es el responsable de la muerte de al menos cuatro Esquirlas: [[Ambici%C3%B3n\|Ambición]], [[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]], y [[Honor\|Honor]]. En el presente, está confinado en el planeta [[Braize\|Braize]], pero su influencia puede sentirse en todo el [[Sistema roshariano\|sistema roshariano]]. La [[Investidura\|Investidura]] de Odium normalmente se asocia con los colores dorados "ardientes" o los negro-violáceos, aunque también suele ser roja, el color que identifica a la Investidura corrupta. Su motivo general es el rojo y dorado, aunque el dorado es su color "real".
 
-3.1 Ancient History
+## Sumario
 
-3.1.1 Creation and initial killings
-3.1.2 Battle with Honor
+1 Intención. [[#Intenci.C3.B3n]] 
+2 Magia asociada. [[#Magia asociada]] 
 
-
-3.2 Preparations
-3.3 True Desolation
-
-3.3.1 Preparing a champion
-3.3.2 Battle of Thaylen Field
-3.3.3 Deal with Taravangian
-3.3.4 Contest of Champions
+2. [[#Luz del vac.C3.ADo]] 
+2. [[#Raysio]] 
+2. [[#Potenciaci.C3.B3n del Vac.C3.ADo]] 
+2. [[#Spren]] 
+2. [[#Fusionados]] 
+2. [[#Pasiones]] 
 
 
-3.4 Taravangian's Ascension
+3 Historia. [[#Historia]] 
+
+3. [[#Historia antigua]] 
+
+3. [[#Creaci.C3.B3n y asesinatos iniciales]] 
+3. [[#Batalla con Honor]] 
 
 
-4 Influence
-5 Trivia
-6 Notes
+3. [[#Preparaciones]] 
+3. [[#Aut.C3.A9ntica Desolaci.C3.B3n]] 
+
+3. [[#Preparando un campe.C3.B3n]] 
+3. [[#Batalla de la Explanada Thayle.C3.B1a]] 
+3. [[#Acuerdo con Taravangian]] 
+3. [[#Desaf.C3.ADo de campeones]] 
 
 
-## Intent
- by  zoethatcher_art 
->“*They call me Odium. A good enough name. It does have a certain bite to it. But the word is too limiting to describe me, and you should know that it is not all I represent.*”
+3. [[#Ascensi.C3.B3n de Taravangian]] 
+
+
+4 Influencia. [[#Influencia]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas del traductor. [[#Notas del traductor]] 
+7 Notas. [[#Notas]] 
+
+
+## Intención
+ 
+>“*Me llaman Odium. Es un nombre bastante bueno. Tiene su mordida. Pero es una palabra demasiado limitada para describirme, y ya deberías saber que no es todo lo que represento.*”
 \-Rayse[2]
 
 
-The Shard of Odium is even harder to control than [[Ruin\|Ruin]]. The word "odium" means being subjected to hatred and contempt as a result of a despicable act. However, interpretation of the Shard's intent is not as simple. [[Frost\|Frost]] claims a straightforward definition: that it is God's own divine hatred. Rayse himself, however, claims that he's Passion, a Shard of emotions, in particular excessive emotions. Upon Ascension, Taravangian grappled with the vicious urge to destroy and burn. Many of his [[Splinter\|splinters]], the [[Unmade\|Unmade]] compel people to give in to powerful sensations - [[Ashertmarn\|Ashertmarn]] compels people to revel mindlessly, and [[Nergaoul\|Nergaoul]] inspires exultation in battle. On the other hand, the overwhelming amount of emotions inspired by Odium are hateful, among them the aforementioned [[Thrill\|Thrill]] and the Rhythms of Odium-derived [[Singer\|singer]] forms. Moreover, Odium's influence sometimes promotes apathy rather than passion, as his followers are encouraged to give up their pain and sense of guilt.
+La Esquirla Odium es aún más difícil de controlar que [[Ruina\|Ruina]]. La palabra "odium" significa ser objeto de odio. Sin embargo, la interpretación de la intención de la Esquirla no es tan sencilla. [[Frost\|Frost]] plantea una definición más directa: que es el propio odio divino de Dios. Pero el propio Rayse afirma ser Pasión, una esquirla de emociones, más concretamente, de emociones excesivas. Tras Ascender, Taravangian luchó contra el salvaje impulso de destruir y quemar. Muchas de sus [[Astilla\|Astillas]], los [[Deshecho\|Deshechos]], obligan a la gente a entregarse a sensaciones poderosas, como por ejemplo, [[Ashertmarn\|Ashertmarn]] que obliga a la gente a gozar sin pensar, o [[Nergaoul\|Nergaoul]] que inspira exultación en la batalla. Por otro lado, la mayoría de emociones inspiradas por Odium están relacionadas con el odio, como la ya mencionada [[/wiki/Nergaoul#La Emoci.C3.B3n]] y los [[/wiki/Cantor#Ritmos]] de los [[Cantor\|cantores]] derivados de esta esquirla. Además, la influencia de Odium a veces promueve la apatía en lugar de la pasión, ya que se anima a sus seguidores a abandonar su dolor y su sentimiento de culpa.
 
->“*He hates Honor. Well, I guess he hates everything. It’s kind of in the name....*”
-\-Adolin to Shallan[20]
+>“*Odia a Honor. Bueno, supongo que lo odia todo. Va con el nombre.*”
+\-Adolin a Shallan[20]
 
-[[Rayse\|Rayse]] has a tendency towards self-deception, and apart from him, everyone understands Odium as being the Shard of hatred. While it's possible for a Vessel to influence a Shard to an extent, Odium's declaration of being Passion should not be taken at face value. It has been noted that while Odium claims to be Passion, that passions other than hatred, such as love, are absent from the emotions inspired in his followers.
-Apart from the issue of the Shard's nature, Rayse desired to become the sole god of the [[Cosmere\|cosmere]]. Whether this is due to the Vessel or the Shard is unknown.
+[[Rayse\|Rayse]] tiene tendencia al autoengaño y, aparte de él, todo el mundo entiende a Odium como la Esquirla del odio. Aunque es posible que un Recipiente influya en una Esquirla hasta cierto punto, la declaración de Odium de ser Pasión no debe tomarse al pie de la letra. Se ha observado que, aunque Odium afirma ser la Pasión, las pasiones distintas del odio, como el amor, no aparecen entre las emociones que inspira a sus seguidores.
+Más allá de la naturaleza de la Esquirla, Rayse deseaba convertirse en el único dios del [[Cosmere\|Cosmere]]. Desconocemos si esto se debe al Recipiente o a la Esquirla.
 
-## Associated Magics
-### Voidlight
-For more information, see [[Voidlight\|Voidlight]].
-Voidlight is the gaseous form of Odium's [[Investiture\|Investiture]], analogous to [[Honor\|Honor's]] [[Stormlight\|Stormlight]]. Unlike Stormlight, however, Voidlight's applications are far more narrow. It can be utilized by the [[Fused\|Fused]] to provide healing and fuel their use of [[Surge\|Surges]], and it might have some relation to the forms of power used by the [[Regal\|Regals]]. It has applications in fabrial technology created via the process of corrupting spren and then trapping them within an appropriate gemstone housing, similar to normal fabrials.
-A singer can sing the Song of Prayer to obtain Voidlight, though this would draw Odium's attention and appears to have certain limitations. In the past, it was also provided by [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], and possibly through other means.
-Voidlight can be combined with Stormlight via the use of the Rhythm of War, binding them into a form of light called "Warlight" that has a dark blue-white appearance.
+## Magia asociada
+### Luz del vacío
+Para más información, ver [[Luz del vac%C3%ADo\|Luz del vacío]].
+La luz del vacío es la forma gaseosa de la [[Investidura\|Investidura]] de Odium, análoga a la [[Luz tormentosa\|luz tormentosa]] de [[Honor\|Honor]]. Sin embargo, a diferencia de la luz tormentosa, las aplicaciones de la luz del vacío son mucho más limitadas. La pueden utilizar los [[Fusionado\|Fusionados]] para curarse y para alimentar sus [[Potencia\|Potencias]], y podría estar relacionada con las formas de poder que utilizan los [[Regio\|Regios]]. Tiene aplicaciones en la tecnología artifabriana, mediante el proceso de corromper spren para luego atraparlos dentro de la gema apropiada, de forma muy similar a los fabriales normales.
+Un cantor puede cantar la Canción de plegaria para obtener luz del vacío, aunque ello llamará la atención de Odium y parece tener ciertas limitaciones. En el pasado, también podía proporcionarla [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], y probablemente podía conseguirse a través de otros medios.
+La luz del vacío puede combinarse con luz tormentosa mediante el Ritmo de la Guerra, uniéndolas en una forma de luz conocida como "luz de guerra", que presenta un tono negro azulado.
 
-### Raysium
-For more information, see [[Raysium\|Raysium]].
-Raysium is a [[God Metal\|God Metal]], a physical form of Odium's raw power. It is gold-white in color and its ability to conduct Investiture has many applications in fabrial technology.
+### Raysio
+Para más información, ver [[Raysio\|Raysio]].
+El raysio es un [[Metal divino\|metal divino]], la manifestación física del poder puro de Odium. Es de color oro muy claro y su habilidad para conducir investidura tiene múltiples aplicaciones en la tecnología artifabriana.
 
-### Voidbinding
-For more information, see [[Voidbinding\|Voidbinding]].
-The [[Roshar\|Rosharan]] magic system associated with Odium is [[Voidbinding\|Voidbinding]]. Very little is known about it at the moment, including the specific powers it grants or the method of acquiring the ability to Voidbind. What is known is that there are ten levels to it, and that it involves something called the Voidbindings, which might be the name of individual powers, analogous to Surges. It is highly likely that predicting the future is one of those powers.
+### Potenciación del Vacío
+Para más información, ver [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]].
+El sistema de magia [[Roshar\|roshariano]] asociado con Odium es la [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]]. Por el momento sabemos muy poco sobre ella, incluidos los poderes específicos que otorga o el método para adquirir la capacidad de potenciar el vacío. Lo que sí sabemos es que cuenta con diez niveles y que existe algo llamado Potencias del Vacío, que podría ser el nombre del poder individual, similar a las Potencias. Es muy probable que predecir el futuro sea uno de esos poderes.
 
- by  Petar Penev  [[Re-Shephir\|Re-Shephir]], an [[Unmade\|Unmade]] of Odium
+  <<Re-Shephir\|Re-Shephir>>, una <<Deshecho\|Deshecha>> de Odium
 ### Spren
-Despite his reservations about [[Invest\|Investing]] into a planet, Odium has created numerous [[Spren\|spren]] in the Rosharan system, known collectively as [[Voidspren\|Voidspren]]. Some of them are intelligent, and capable of autonomous thought in the Physical Realm despite not being bonded to a living creature, in contrast to most spren of [[Honor\|Honor]] or [[Cultivation\|Cultivation]]. Others are as mindless as ordinary emotion or nature spren. [[Singer\|Singers]] can bond the latter to become [[Regal\|Regals]], taking the spren into their [[Gemheart\|gemhearts]] to gain forms with supernatural abilities ranging from speaking all languages, to summoning lightning.
+A pesar de su reticencia a [[Investidura\|Investirse]] en un planeta, Odium ha creado numerosos [[Spren\|spren]] en el sistema roshariano, conocidos como [[Vac%C3%ADospren\|Vacíospren]]. Algunos de ellos son inteligentes y capaces de pensar de forma autónoma en el reino Físico a pesar de no estar vinculados a una criatura viva, a diferencia de la mayoría de los spren de [[Honor\|Honor]] o [[Cultivaci%C3%B3n\|Cultivación]]. Otros son tan inconscientes como los spren corrientes de las emociones o la naturaleza. Los [[Cantor\|cantores]] pueden vincular a estos últimos para convertirse en [[Regio\|Regios]], portando al spren en su [[Gema coraz%C3%B3n\|gema corazón]] para obtener formas con habilidades sobrenaturales, que van desde la capacidad de hablar todos los idiomas hasta la habilidad de invocar rayos.
 
-For more information, see [[Unmade\|Unmade]].
-Standing apart from regular voidspren are the Unmade, a group of nine great [[Splinter\|Splinters]] of Odium, each granted immense power. Their abilities vary from Unmade to Unmade--some are capable of influencing human minds, some can grant powers to other creatures, and others have the ability to change spren. Likewise, their levels of intelligence vary; while [[Sja-anat\|Sja-anat]] is almost human-like, [[Nergaoul\|Nergaoul]] behaves more like a blind force of nature or animal.
+Para más información, ver [[Deshecho\|Deshecho]].
+Aparte de los vacíospren normales, están los Deshechos, un grupo de nueve enormes [[Astilla\|Astillas]] de Odium, cada una de las cuales tiene un poder inmenso. Sus habilidades varían de un Deshecho a otro: algunos son capaces de influir en las mentes humanas, otros pueden otorgar poderes a otras criaturas y otros tienen la capacidad de cambiar los spren. Asimismo, sus niveles de inteligencia varían; mientras que [[Sja-anat\|Sja-anat]] es casi humana, [[Nergaoul\|Nergaoul]] se comporta más como una fuerza ciega de la naturaleza o un animal.
 
-### Fused
-For more information, see [[Fused\|Fused]].
-Fused are [[Cognitive Shadow\|Cognitive Shadows]] of singers bound to Odium. This grants them numerous benefits, chief among them the ability of resurrection by taking over the bodies of their living kinsmen. During the [[True Desolation\|True Desolation]], this can occur when the [[Everstorm\|Everstorm]] passes over singers who have been mentally primed to let something into their [[Gemheart\|gemhearts]]. How this bonding happened before the Everstorm existed is unknown. Odium is able to take away their immortality.
-The Fused can use Voidlight to heal themselves, as well to fuel their use of [[Surge\|Surges]]. Unlike [[Knights Radiant\|Knights Radiant]], the Fused have access to only one Surge each. Lady [[Leshwi\|Leshwi]] claims that the Fused are more skilled with their Surge, however, due to Fused being more internally focused, while Radiants are more externally focused.
+### Fusionados
+Para más información, ver [[Fusionado\|Fusionado]].
+Los Fusionados son [[Sombra cognitiva\|sombras cognitivas]] de cantores ligadas a Odium. Esto les otorga numerosos beneficios, el principal de los cuales es la capacidad de resurrección al tomar los cuerpos de sus parientes vivos. Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], esto sucede cuando la [[Tormenta eterna\|tormenta eterna]] pasa sobre los cantores que mentalmente han sido preparados para dejar entrar algo en sus [[Gema coraz%C3%B3n\|gemas corazón]]. Desconocemos cómo se llevaba a cabo este vínculo antes de la llegada de la tormenta eterna. Odium es capaz de quitarles la inmortalidad.
+Los Fusionados pueden utilizar la luz del vacío para curarse, así como para alimentar a sus [[Potencia\|Potencias]]. A diferencia de los [[Caballeros Radiantes\|Caballeros Radiantes]], los Fusionados solo tienen acceso a una Potencia. La dama [[Leshwi\|Leshwi]] afirma que los Fusionados son más hábiles con su Potenciación, sin embargo, esto es debido a que ellos se centran más en el interior, mientras que los Radiantes se centran más en el exterior.
 
-### Passions
->“*I DO NOT THINK THAT IS TRUE, VYRE, THOUGH I UNDERSTAND WHY YOU THINK IT SO. I FEEL YOUR PASSIONS, AS THEY ARE MINE. I UNDERSTAND YOU.*”
-\-Odium speaking to Moash[42]
-
-
-By Connecting with someone, Odium is able to take away their negative emotions and passions. This includes fear, anger, pain, and insecurities. When negative emotions come up, they are quickly sucked away by Odium, leaving the person feeling nothing. This Connection can be disrupted, allowing the person to feel their pain in full.
-
-## History
-For the history of Odium's original Vessel prior to his Ascension, see Rayse#History.
-### Ancient History
-#### Creation and initial killings
-Odium was created at the [[Shattering\|Shattering]], when the creator god, [[Adonalsium\|Adonalsium]], was killed by sixteen people, splitting it into sixteen [[Shards\|Shards]]. One of those killers was [[Rayse\|Rayse]], who chose for himself the Shard of Odium.
-At some point after Ascending, Odium went after one of his fellow Shards, [[Ambition\|Ambition]], as he felt most threatened by her intent. However, before he could find her, he located two other Shards, [[Devotion\|Devotion]] and [[Dominion\|Dominion]], in the [[Selish system\|Selish system]]. Because they had settled together, Odium attacked them since he could argue that they were breaking the agreement the Vessels made about not being in the same system as another Shard. Through means unknown, Odium killed and [[Splinter\|Splintered]] them both. To prevent their remaining power from gaining intelligence of its own, he then pulled them out of the [[Spiritual Realm\|Spiritual Realm]] and into the [[Cognitive Realm\|Cognitive]], creating the [[Dor\|Dor]] and causing [[Sel\|Sel's]] magic systems to become location-dependent. He wasn't very experienced at the time, and his countermeasure failed as the Dor did, indeed, begin to gain a measure of sentience.
-After creating the Dor, Odium went on to the [[Threnodite system\|Threnodite system]], where he found and attacked his initial target, Ambition. During the fight, Ambition was dealt a grievous wound, and chunks of her power were flung across the system. Ambition managed to flee the system, but was still Splintered in a fight with Odium. The Shard [[Mercy\|Mercy]] was also involved in at least one battle with Ambition and Odium. These clashes resulted in a wound in the Spiritual Realm and had "disturbing" effects that "twisted" the planet [[Threnody\|Threnody]] and its inhabitants.
-Although Odium was successful in these initial conflicts, he was weakened by them.
-
-#### Battle with Honor
-Next, Odium set out for [[Rosharan system\|Rosharan system]], seeking to kill either [[Honor\|Honor]], [[Cultivation\|Cultivation]], or both. According to the [[Eila Stele\|Eila Stele]], he was brought by the humans from another world, and the singers considered him a human god. It can be assumed that Odium was crucial in the breakdown of the relations between the two species. Eventually, for unknown reasons, a swap occurred, whereupon singers came to worship Odium while humans began serving Honor and Cultivation. Both sides created their own immortal armies - Odium, the [[Fused\|Fused]], and Honor, the [[Herald\|Heralds]].
-
->“*I am … I was … God. The one you call the Almighty, the creator of mankind. And now I am dead. Odium has killed me. I am sorry.*”
-\-Honor[54]
-
-Honor fought Odium with assistance from Cultivation, and the two bound him to one of the system's planets, [[Braize\|Braize]], and somehow also prevented him from acting directly against most individuals on Roshar. Honor additionally crafted the [[Oathpact\|Oathpact]], which would use the Heralds to imprison Odium's forces on Braize along with their master. However, Odium was a much better fighter, and [[Honor\|Honor]] was killed, though he inflicted a deep wound on Odium.
-
-### Preparations
-Killing Honor did not free Odium from Braize, and the sacrifice of the Herald [[Taln\|Taln]] meant that he could not send his armies to [[Roshar\|Roshar]]. And so, for the next four and a half thousand years, he prepared for the time when Taln would break, allowing for one last [[Desolation\|Desolation]] -- the [[True Desolation\|True Desolation]].
-Odium, though severely limited by Honor's actions, was nonetheless active. He also kept a limited awareness of what was going on all across the cosmere, and was aware that Ruin and Preservation had combined to become Harmony in Scadrian Year 1025 [[Final Empire\|FE]], around 309 Rosharan years before the True Desolation. The idea of someone taking up two Shards at once, and finding harmony between them, terrified him. He therefore began formulating a plan to eliminate this threat after being freed from the Rosharan System.
-As one of his [[Unmade\|Unmade]], [[Nergaoul\|Nergaoul]], was still free, Odium sent him to [[Alethkar\|Alethkar]] to facilitate the [[Thrill\|Thrill]] among the Alethi. Over the centuries, the battle-rage brought about by Nergaoul became normal, and even desirable to the Alethi men; this developed affinity allowed Odium to control them using the Thrill. Moreover, the Thrill allowed Odium to groom a champion whom he could later put in command of his armies and use to release himself. In the final decades of the [[Era of Solitude\|Era of Solitude]], such a potential champion appeared in the form of [[Dalinar Kholin\|Dalinar Kholin]]. Odium focused on him to ensure he had as many hooks in him as possible.
-Odium also focused on the [[Listener\|listeners]], a group of [[Singers\|singers]] that had denied him some centuries prior. On the day of a treaty between them and the Alethi, Odium used one of his [[Voidspren\|voidspren]] to lead them to buy an assassin, [[Szeth\|Szeth]], who was used when [[Eshonai\|Eshonai]] found out that the Alethi king, [[Gavilar Kholin\|Gavilar Kholin]], intended to release the very gods the listeners had once fled. Whether Gavilar's plan was inspired by Odium or not, it pushed the listeners to assassinate him, leading to the [[War of Reckoning\|War of Reckoning]]. The War brought tremendous losses to the listeners, until the idea of assuming the old forms of power grew appealing to them. Through Ulim, Odium persuaded the listeners to assume [[Stormform\|stormform]] and summon the [[Everstorm\|Everstorm]], beginning the True Desolation.
-
-### True Desolation
-#### Preparing a champion
-As the True Desolation began and the [[Fused\|Fused]] started taking over human territory, Odium focused on [[Dalinar Kholin\|Dalinar Kholin]] while maneuvering his forces towards [[Thaylen City\|Thaylen City]], where the confrontation between the two sides would occur. He penetrated one of [[Dalinar's visions\|Dalinar's visions]] and let him believe that Odium was the Almighty for a short while before revealing himself. Although Dalinar refused to release him, Odium was certain that Dalinar would eventually do so, and showed him his true form when Dalinar began to get too comfortable. He did not, however, agree to the contest of champions Dalinar suggested.
-Odium also interacted with [[Venli\|Venli]]. He stopped the Fused from taking her body and granted her [[Envoyform\|envoyform]] instead to spread his propaganda among the newly awakened singers. When she didn't work hard enough to his satisfaction, he tortured and threatened her, causing Venli to reconsider her current allegiance further.
-Dalinar and Odium spoke once more in a different vision, after Dalinar attempted to negotiate with Venli. Odium initially attempted to tear the vision apart, although Dalinar managed to send Venli out of it before that could happen. Odium then appeared to Dalinar and scolded him for thinking that any sort of accord between the two races was possible, before reassuring Dalinar that peace would, indeed, happen -- after Roshar was destroyed.
-
- by  Rixt Heerschop  Odium watching [[Dalinar\|Dalinar]] opening [[Honor's Perpendicularity\|Honor's Perpendicularity]]
-#### Battle of Thaylen Field
-For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
->“*No. No, we killed you. WE KILLED YOU !*”
-\-Odium upon seeing Honor's Perpendicularity
+### Pasiones
+>“*NO CREO QUE ESO SEA CIERTO, VYRE, AUNQUE ENTIENDO QUE PUEDAS PENSARLO. SIENTO TUS PASIONES, YA QUE ME PERTENECEN. TE COMPRENDO.*”
+\-Odium hablando a Moash[42]
 
 
-Odium decided to lead his forces on [[Thaylen City\|Thaylen City]] personally, although he didn't intend to use the plain [[Singer\|singers]] in battle. He first sent a pair of [[Thunderclast\|thunderclasts]], one to destroy the city walls, and the other to get to the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]], along with [[Fused\|Fused]] to ensure that the [[King's Drop\|King's Drop]] wouldn't fall into the wrong hands. Then, Odium used [[Nergaoul\|Nergaoul]] and the Alethi dependence on the [[Thrill\|Thrill]] to possess the [[Sadeas princedom\|Sadeas princedom]] forces in the city and make them turn against their own allies.
-Odium then went, taking with him Venli and several other Fused, to confront Dalinar in front of the city. Dalinar once more repeated his demand for the contest of champions, and this time, Odium agreed, before revealing that his champion would be Dalinar himself. By reminding Dalinar of his past crimes, chief among them the murder of his wife, [[Evi\|Evi]], Odium attempted to persuade Dalinar to surrender his guilt and accept that it was all Odium's fault. However, though Dalinar was initially horrified, he refused to give in. Odium could only watch, speechless, as Dalinar's newfound resolve allowed him to swear the Third Ideal of the [[Bondsmiths\|Bondsmiths]] and open [[Honor's Perpendicularity\|Honor's Perpendicularity]].
-This development horrified Odium, especially when he recognized whatever Dalinar became at this moment. Realizing that he lost his trump card -- and that Dalinar could now push him into a *real* contest of champions -- Odium swiftly retreated from the field, leaving his armies to lose the battle.
+Al conectar con alguien, Odium es capaz de arrebatarle sus emociones y pasiones negativas. Esto incluye el miedo, la ira, el dolor y las inseguridades. Cuando surgen emociones negativas, Odium las absorbe rápidamente, dejando a la persona sin sentir nada. Esta Conexión puede ser interrumpida, permitiendo que la persona sienta su dolor plenamente.
 
-#### Deal with Taravangian
-King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]] had been planning to strike a deal with Odium for some time, as neither he nor his [[Diagram (literature)\|Diagram]] believed that defeating a god would be plausible. As such, he found a way to communicate with the Shard, both by writing and through actions such as opening the [[Kholinar\|Kholinar]] [[Oathgate\|Oathgate]] to let the [[Voidbringers\|Voidbringers]] invade [[Urithiru\|Urithiru]].
-Some time after the Battle of Thaylen Field, Odium obliged him, visiting him in Urithiru after Taravangian let him in by opening a window. Odium revealed that he knew perfectly well that Taravangian had both brilliant and less intelligent days, and deliberately visited on one of the latter, to make sure that Taravangian knew he had nothing to negotiate with. Though Odium praised the Diagram, he used it to show how much further his own future sight reached. This inadvertently let Taravangian know that Odium was unable to perceive anything involving [[Renarin Kholin\|Renarin Kholin]].
-By reading the Diagram, Taravangian eventually managed to negotiate with Odium, though his initial offering of sparing anyone Taravangian ruled was discarded, with Odium pointing out that Taravangian sought to become the king of the whole of Roshar. Eventually, the two settled on sparing the citizens of Kharbranth and their spouses.
+## Historia
+Para la historia del Recipiente original de Odium antes de su Ascensión, ver [[/wiki/Rayse#Historia]].
+### Historia antigua
+#### Creación y asesinatos iniciales
+Odium fue creado durante la [[Fragmentaci%C3%B3n\|Fragmentación]], cuando el dios creador, [[Adonalsium\|Adonalsium]], fue asesinado por dieciséis personas, dividiéndolo en dieciséis [[Esquirla\|Esquirlas]]. Uno de esos asesinos era [[Rayse\|Rayse]], quien eligió la Esquirla de Odium.
+En algún momento después de Ascender, Odium fue tras una de sus compañeras, [[Ambici%C3%B3n\|Ambición]], ya que se sentía amenazado por su Intención. Sin embargo, antes de que pudiera encontrarla, localizó a otras dos Esquirlas, [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]], en el [[Sistema de Sel\|sistema de Sel]]. Como se habían asentado juntas, Odium las atacó, ya que podía argumentar que estaban rompiendo el acuerdo que hicieron los Recipientes de no permanecer en el mismo sistema que otra Esquirla. Por medios que desconocemos, Odium mató y [[Astilla\|astilló]] ambas Esquirlas. Para evitar que el poder restante adquiriera inteligencia propia, lo arrancó del [[Reino Espiritual\|Reino Espiritual]] y lo introdujo en el [[Reino Cognitivo\|Reino Cognitivo]], creando así el [[Dor\|Dor]] y provocando que los sistemas mágicos de [[Sel\|Sel]] se volvieran dependientes de la ubicación. No tenía mucha experiencia en ese momento, y su táctica fracasó, ya que el Dor empezó a adquirir cierta consciencia.
+Tras crear el Dor, Odium se dirigió al [[Sistema de Treno\|sistema de Treno]], donde localizó y atacó a su objetivo inicial, Ambición. Durante el combate, Ambición recibió una grave herida y fragmentos de su poder fueron arrojados a través del sistema. Ambición consiguió huir del sistema, pero aún así fue Astillada en una pelea con Odium. La Esquirla [[Piedad\|Piedad]] también estuvo involucrada en al menos una pelea con Ambición y Odium. Estos enfrentamientos tuvieron como resultado una herida en el Reino Espiritual y tuvieron efectos "perturbadores" que "retorcieron" el planeta [[Treno\|Treno]] y a sus habitantes.
+A pesar de que Odium salió victorioso de estos conflictos iniciales, quedó debilitado.
 
-#### Contest of Champions
-A year later, Odium brought Dalinar into a vision and agreed to set the terms of their contest. Although Odium's most important point was being able to leave Roshar--a restriction that Dalinar *could* have lifted, as the largest remnant of Honor's Investiture--Dalinar refused, deciding that since Honor had died to keep Odium in the system, that point would need to remain. At this point, Odium came very close to incinerating Dalinar, almost losing control of his Intent, but managed to keep his temper in check. Eventually, they agreed that on the tenth day of the new month, they would each appoint a willing champion, who would be allowed to the top of Urithiru—unharmed by either side—to fight to the death. If Dalinar's champion won, Odium would return Alethkar and Herdaz to the coalition, fulfilling Dalinar's oath to [[Dieno\|the Mink]]. If Odium's champion won, he would keep those two nations and Dalinar would serve his interests in the wider cosmere as a Fused. In either case, Odium would remain bound to the Rosharan system, but would keep the other lands he had won and be able to send agents to the wider Cosmere, and both leaders would be required to enforce the peace to the best of their ability. Additionally, at least some of the protections specified for Hoid in Dalinar's initial proposal seem to be in effect.
+#### Batalla con Honor
+A continuación, Odium partió hacia el [[Sistema roshariano\|sistema roshariano]], con la intención de matar a [[Honor\|Honor]], a [[Cultivaci%C3%B3n\|Cultivación]], o a ambos. Según el Eila Stele, los humanos lo trajeron desde otro mundo, y los cantores lo consideraban un dios humano. Podemos suponer que Odium tuvo un papel relevante en la ruptura de las relaciones entre las dos especies. Con el tiempo, y por razones desconocidas, se produjo un intercambio, con lo que los cantores pasaron a adorar a Odium mientras que los humanos empezaron a servir a Honor y Cultivación. Ambos bandos crearon sus propios ejércitos inmortales: Odium creó a los [[Fusionado\|Fusionados]], y Honor, a los [[Heraldo\|Heraldos]].
 
- by  Nozomi  [[Taravangian\|Taravangian]] killing [[Rayse\|Rayse]] and Ascending to Odium
-### Taravangian's Ascension
-For the history of Odium's second Vessel prior to his Ascension, see Taravangian#History.
-Later that day, Taravangian managed to get Szeth and Rayse to come to him at the same time. When Rayse pulled him into a vision, Taravangian grabbed [[Nightblood\|Nightblood's]] Cognitive aspect and stabbed Rayse with it, killing him. While he had been doing this, Szeth had stabbed him with his belt knife, but just as he died, Taravangian Ascended to become Odium. His previous [[Old Magic\|Old Magic]] afflictions seemed to vanish as soon as he Ascended, giving him both emotion and intelligence in far greater amounts and he possessed all the power of the Shard. Taravangian realized that Rayse had been sliding towards oblivion for a very long time, as he had been severely weakened by his previous battles, especially against [[Honor\|Honor]]; Rayse had been enslaved by the power he wielded. Rayse's body appeared in the place of Taravangian's, although it was so damaged by Nightblood that Szeth was unable to tell the difference. Some time later, when [[Hoid\|Hoid]] was walking the hallways in Elhokar's palace, Taravangian confronted him. When he asked Hoid what he would have done in Taravangian's place, Hoid realized that there was a new Vessel, and was unable to hide his terror. Taravangian then tampered with the Breaths that Wit was using to contain his memories, and retried the whole encounter, this time pretending to be Rayse much more effectively.
+>“*Soy… fui… Dios. El que llamáis el Todopoderoso, el creador de la humanidad. Y ahora estoy muerto. Odium me ha matado. Lo siento.*”
+\-Tanavast[54]
 
-## Influence
- by  taratjah  Odium, the creator of the [[Fused\|Fused]]
->“*"Wait!" Kaladin said. "Why is there so much war? Must we always fight?" He wasn’t sure why he asked. The questions simply came out.*
-\-The storm rumbled, like a thoughtful aged father. The face vanished, shattering into droplets of water.
+Honor luchó contra Odium con la ayuda de Cultivación, y juntos lo vincularon a uno de los planetas del sistema, [[Braize\|Braize]], y de alguna forma también le impidieron actuar directamente contra la mayoría de personas de Roshar. Además, Honor elaboró el [[Juramento\|Juramento]], con el que, mediante los Heraldos, encarcelaría a las fuerzas de Odium en Braize junto a su amo. A pesar de todo, Odium era mejor luchador, y [[Tanavast\|Tanavast]] fue asesinado, aunque hirió profundamente a Odium.
 
+### Preparaciones
+Matar a Honor no liberó a Odium de Braize, y el sacrificio del Heraldo [[Taln\|Taln]] hizo que no pudiera enviar sus ejércitos a [[Roshar\|Roshar]]. Por ello, durante los siguientes cuatro mil quinientos años, se preparó para el momento en que Taln se quebrara, permitiendo una última [[Desolaci%C3%B3n\|Desolación]]: la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
+Odium, aunque muy limitado por las acciones de Honor, seguía activo. También tenía un conocimiento limitado de lo que ocurría en todo el Cosmere, y sabía que Ruina y la Conservación se habían combinado para convertirse en Armonía en el año scadriano 1025 [[Imperio Final\|IF]], unos 309 años rosharianos antes de la Auténtica Desolación. La idea de que alguien tomara dos Esquirlas a la vez y lograra armonizarlas le aterrorizaba. Por ello, comenzó a formular un plan para eliminar esta amenaza tras ser liberado del sistema roshariano.
+Como uno de sus [[Deshechos\|Deshechos]], [[Nergaoul\|Nergaoul]], aún estaba libre, Odium lo envió a [[Alezkar\|Alezkar]] para fomentar la  entre los alezi. Con el paso de los siglos, la furia de batalla provocada por Nergaoul se convirtió en algo normal, e incluso deseable para los hombres alezi; esta afinidad desarrollada permitió a Odium controlarlos utilizando la Emoción. Además, permitió a Odium preparar a un campeón al que más tarde podría poner al mando de sus ejércitos y utilizar para liberarse. En las últimas décadas de la [[Era de la Soledad\|Era de la Soledad]], ese campeón potencial apareció en la forma de [[Dalinar Kholin\|Dalinar Kholin]]. Odium se centró en él para asegurarse de que tenía tantos anzuelos en él como fuera posible.
+Odium también se centró en los [[Oyente\|oyentes]], un grupo de [[Cantor\|cantores]] que había renunciado a él siglos atrás. El día que se firmaba un tratado entre ellos y los alezi, Odium utilizó uno de sus [[Vac%C3%ADospren\|vacíospren]] para instarlos a comprar un asesino, [[Szeth\|Szeth]], que entró en acción cuando [[Eshonai\|Eshonai]] descubrió que el rey alezi, [[Gavilar Kholin\|Gavilar Kholin]], pretendía liberar a los mismos dioses de los que los oyentes habían huido. Tanto si el plan de Gavilar era idea de Odium o no, llevó a los oyentes a asesinarle, lo que derivó en la [[Guerra de la Venganza\|Guerra de la Venganza]]. La guerra supuso enomres pérdidas para los oyentes, hasta que la idea de asumir las antiguas formas de poder les resultó atractiva. A través de Ulim, Odium persuadió a los oyentes para que adoptaran la [[Forma tormenta\|forma tormenta]] e invocaran la [[Tormenta eterna\|tormenta eterna]], dando comienzo a la Auténtica Desolación.
 
-Throughout his existence, Odium has had profound effect on the [[Cosmere\|cosmere]] and several of its planets in particular. He has been called the most frightening and terrible of all Shards, and with good reason. He has a wish to become the sole god in the Cosmere, and to that end, he has gone around the Cosmere Splintering, or attempting to Splinter, all other Shards.
-On [[Sel\|Sel]], Odium's murder of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] suffused the entirety of the planet's [[Cognitive Realm\|Cognitive Realm]], fuelling its magic systems. The [[Seon\|seons]] and [[Skaze\|skaze]] are [[Splinter\|splinters]] of Devotion and Dominion respectively.
-On [[Threnody\|Threnody]], Odium's battle with [[Ambition\|Ambition]] had vast ramifications for the entire system, though what exactly this entails is unclear. It's possible that the [[Evil\|Evil]] that had taken over [[Homeland\|Homeland]], as well as the [[Shade\|Shades]], is a side effect of the battle between the Shards. Harmony noted a wound on the [[Spiritual Realm\|Spiritual Realm]] itself where Ambition was Splintered.
-On [[Roshar\|Roshar]], Odium's influence is felt most acutely through the numerous [[Desolation\|Desolations]] he caused, as well as the murder and subsequent splintering of [[Honor\|Honor]], which made the [[Stormfather\|Stormfather]] what he is today. He is known obliquely in the various religions of the world as the leader of the [[Voidspren\|voidspren]] and the force behind the [[Voidbringers\|Voidbringers]]. In the present, the [[Everstorm\|Everstorm]] and the [[True Desolation\|True Desolation]] are his doing.
+### Auténtica Desolación
+#### Preparando un campeón
+Cuando empezó la Auténtica Desolación y los [[Fusionado\|Fusionados]] empezaron a hacerse con territorio humano, Odium se centró en [[Dalinar Kholin\|Dalinar Kholin]] mientras dirigía sus fuerzas hacia [[Ciudad Thaylen\|Ciudad Thaylen]], donde se produciría el enfrentamiento entre los dos bandos. Entró en una de las [[Visiones de Dalinar\|visiones de Dalinar]] y le hizo creer que era el Todopoderoso antes de revelar su verdadera identidad. Aunque Dalinar se negó a liberarlo, Odium estaba convencido de que Dalinar acabaría cediendo, y le mostró su verdadera forma cuando Dalinar empezó a sentirse demasiado cómodo. Sin embargo, no aceptó el desafío de campeones que Dalinar le propuso.
+Odium también estuvo en contacto con [[Venli\|Venli]]. Impidió que los Fusionados tomasen su cuerpo y, en cambio, le concedió la [[Forma emisaria\|forma emisaria]] para que difundiera su propaganda entre los cantores recién despertados. Cuando no se esforzó lo suficiente, según su criterio, la torturó y amenazó, lo que hizo que Venli se replanteara aún más su lealtad.
+Dalinar y Odium hablaron una vez más, en una visión diferente, después de que Dalinar intentara negociar con Venli. En un principio, Odium intentó destruir la visión, pero Dalinar consiguió sacar a Venli de ella antes de que esto ocurriera. Entonces, Odium apareció ante Dalinar y le reprendió por pensar que cualquier tipo de acuerdo entre las dos razas era posible, antes de asegurarle que la paz tendría lugar tras la destrucción de Roshar.
 
-## Trivia
-Odium's original name was Hatred; Brandon changed it because, in his words, it was "too on-the-nose", while the name Odium brought the Shard a step closer to Passion.
-The mere mention of the word Odium makes [[Syl\|Syl]] hiss.
-Odium is very scared of [[Harmony\|Harmony]].
-Odium might currently have an alliance -- or, at least, an understanding -- with [[Bavadin\|Bavadin]], the [[Vessel\|Vessel]] of [[Autonomy\|Autonomy]], although he was considering double-crossing her after dealing with Honor and Cultivation. He's also allied with a cosmere power other than her.
-In *Magic:The Gathering* colors, Odium would be red.
-Odium is weirded out by [[Lift\|Lift]].
-Rayse hates puppies.
-Jasnah would be a good candidate for controlling Odium's power.
-Odium was not in possession of a [[Dawnshard\|Dawnshard]].
-Rayse was aware of [[Thaidakar\|Thaidakar]]. It is unknown whether Taravangian is.
+  Odium viendo como <<Dalinar\|Dalinar>> abre la <<Perpendicularidad de Honor\|Perpendicularidad de Honor>>
+#### Batalla de la Explanada Thayleña
+Para más información, ver [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]].
+>“*¡No! No, te matamos. ¡TE MATAMOS!*”
+\-Odium al ver la Perpendicularidad de Honor
 
 
-https://coppermind.net/wiki/Odium
+Odium decidió liderar personalmente sus fuerzas en [[Ciudad Thaylen\|Ciudad Thaylen]], aunque no tenía intención de utilizar a los [[Cantor\|cantores]] corrientes en la batalla. Primero envió a un par de [[Tronador\|tronadores]], uno para destruir las murallas de la ciudad y otro para llegar hasta la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]], junto con algunos [[Fusionado\|Fusionados]] para asegurar que la [[L%C3%A1grima del Rey\|Lágrima del Rey]] no cayera en las manos equivocadas. Luego, Odium utilizó a [[Nergaoul\|Nergaoul]] y el vínculo de los alezi con la [[/wiki/Nergaoul#La Emoci.C3.B3n]] para tomar el control de las fuerzas del [[Principado Sadeas\|Principado Sadeas]] de la ciudad y hacer que se volvieran contra sus propios aliados.
+Odium se dispuso entonces, llevando consigo a Venli y a otros Fusionados, a enfrentarse a Dalinar delante de la ciudad. Dalinar pidió una vez más resolver el conflicto con un desafío de campeones, y esta vez Odium aceptó, justo antes de revelar que su campeón sería el propio Dalinar. Al recordarle a Dalinar todos sus crímenes, entre ellos el asesinato de su esposa [[Evi\|Evi]], Odium intentaba persuadir a Dalinar para que renunciara a su culpa y aceptara que todo era culpa de Odium. Sin embargo, y a pesar de que en un primer momento Dalinar estaba horrorizado, se negó a ceder. Odium sólo pudo observar, sin palabras, cómo la nueva determinación de Dalinar le permitía jurar el Tercer Ideal de los [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]] y abrir la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]].
+Este desarrollo de acontecimientos horrorizó a Odium, especialmente cuando comprendió en qué se había convertido Dalinar en ese momento. Al darse cuenta de que había perdido su baza, y de que Dalinar podía ahora empujarlo a un *verdadero* duelo de campeones, Odium se retiró rápidamente del campo de batalla, dejando que sus ejércitos perdieran la batalla.
+
+#### Acuerdo con Taravangian
+El rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]] llevaba tiempo planeando llegar a un acuerdo con Odium, ya que ni él ni su [[Diagrama (literatura)\|Diagrama]] creían que derrotar a un dios fuera plausible. El rey encontró la forma de comunicarse con la Esquirla, tanto por escrito como con acciones como la apertura de la [[Puerta Jurada\|Puerta Jurada]] de [[Kholinar\|Kholinar]] para dejar que los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] invadieran [[Urithiru\|Urithiru]].
+Tras la Batalla de la Explanada Thayleña, Odium lo complació al visitarlo en Urithiru, después de que Taravangian le dejara entrar al abrir una ventana. Odium reveló que sabía perfectamente que Taravangian tenía tanto días brillantes como días menos inteligentes, y que lo visitaba deliberadamente en uno de estos últimos, para asegurarse que Taravangian entendiera que no tenía nada con lo que negociar. Aunque Odium alabó el Diagrama, lo utilizó para mostrar hasta dónde llegaba su propia visión de futuro. Sin darse cuenta, esto le permitió saber a Taravangian que Odium era incapaz de ver nada relacionado con [[Renarin Kholin\|Renarin Kholin]].
+Al leer el Diagrama, Taravangian consiguió negociar con Odium, aunque su oferta inicial de perdón para todos aquellos sobre los que gobernaba quedó descartada cuando Odium señaló que Taravangian pretendía convertirse en el rey de todo Roshar. Finalmente, los dos acordaron perdonar a los ciudadanos de Kharbranth y a sus cónyuges.
+
+#### Desafío de campeones
+Un año más tarde, Odium llevó a Dalinar a una visión y se mostró dispuesto a establecer las condiciones del desafío. Aunque la condición más importante para Odium era poder salir de Roshar, una restricción que Dalinar, como representante de la mayor parte de la Investidura de Honor, *podría* haber levantado, se negó y decidió que, ya que Honor había muerto para mantener a Odium en el sistema, esa condición debía permanecer. En ese momento, Odium estuvo muy cerca de incinerar a Dalinar, casi perdiendo el control de su Intención, pero consiguió controlar su ira. Al final, acordaron que el décimo día del siguiente mes cada uno nombraría a un campeón dispuesto, al cual se permitiría llegar a la cima de Urithiru -sin daños por parte de ninguno de los dos bandos- para luchar hasta la muerte. Si el campeón de Dalinar gana, Odium devolverá Alezkar y Herdaz a la coalición, cumpliendo así el juramento de Dalinar al [[Dieno\|Visón]]. Si gana el campeón de Odium, se quedará esas dos naciones y Dalinar pasará a servir a sus intereses en el Cosmere como Fusionado. En ambos casos, Odium permanecerá atado al sistema roshariano, pero mantendrá las tierras que ha conquistado y será capaz de enviar agentes a lo largo y ancho del Cosmere, y ambos líderes deberán mantener la paz lo mejor que sepan.  Además, algunas de las protecciones específicas para Hoid, incluidas en la propuesta inicial de Dalinar, parecen seguir en vigor.
+
+  <<Taravangian\|Taravangian>> asesinando a <<Rayse\|Rayse>> y Ascendiendo a Odium
+### Ascensión de Taravangian
+Para la historia del segundo Recipiente de Odium antes de su Ascensión, ver [[/wiki/Taravangian#Historia]].
+Ese mismo día, más tarde, Taravangian consiguió que Szeth y Rayse acudieran a él al mismo tiempo. Cuando Rayse se lo llevó a una visión, Taravangian agarró el aspecto cognitivo de [[Sangre Nocturna\|Sangre Nocturna]] y acuchilló a Rayse, matándolo. Mientras esto ocurría, Szeth lo apuñaló con el cuchillo de su cinturón, pero justo cuando moría, Taravangian Ascendió para convertirse en Odium. Al Ascender, parecieron evaporarse todas sus condiciones derivadas de la [[Antigua Magia\|Antigua Magia]], obteniendo tanto emoción como inteligencia, en mayor proporción que antes, junto con todo el poder de la Esquirla. Taravangian se dio cuenta de que Rayse llevaba tiempo deslizándose hacia el olvido, ya que las batallas anteriores lo habían debilitado mucho, especialmente la librada contra [[Honor\|Honor]], y Rayse había sido esclavizado por el poder que ostentaba. El cuerpo de Rayse apareció en lugar del de Taravangian, pero estaba tan dañado por Sangre Nocturna que Szeth fue incapaz de diferenciarlos. Tiempo después, cuando [[Hoid\|Hoid]] caminaba por los pasillos del palacio de Elhokar, Taravangian se enfrentó a él. Cuando le preguntó a Hoid qué habría hecho él en el lugar de Taravangian, Hoid se dio cuenta de que había un nuevo Recipiente, y fue incapaz de ocultar el terror que sintió. Taravangian manipuló los Alientos que Sagaz utilizaba para guardar sus recuerdos y volvió a reproducir el encuentro, esta vez fingiendo ser Rayse de una forma mucho más efectiva.
+
+## Influencia
+  Odium, el creador de los <<Fusionado\|Fusionados>>
+>“*—¡Espera! —dijo Kaladin—. ¿Por qué hay tanta guerra? ¿Por qué debemos luchar siempre? No estaba seguro de por qué lo preguntaba. Las preguntas surgieron sin más.*
+\-La tormenta murmuró, como un padre pensativo y viejo. El rostro desapareció, convirtiéndose en gotas de agua.
+
+
+A lo largo de su existencia, Odium ha tenido un profundo efecto en el [[Cosmere\|Cosmere]] y, en concreto, en varios de sus [[/wiki/Cosmere#Planetas]]. Se la conoce como la Esquirla más terrible y aterradora de todas ellas, y por una buena razón. Desea convertirse en el único dios del Cosmere y, con ese fin, ha recorrido el Cosmere Astillando, o intentando Astillar, todas las demás Esquirlas. 
+En [[Sel\|Sel]], el asesinato de [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] por parte de Odium cubrió completamente el [[Reino Cognitivo\|Reino Cognitivo]] del planeta, alimentando los sistemas mágicos. Los [[Seon\|seones]] y los [[Skaze\|skaze]] son [[Astilla\|Astillas]] de Devoción y Dominio respectivamente.
+En [[Treno\|Treno]], la batalla de Odium con [[Ambici%C3%B3n\|Ambición]] tuvo grandes ramificaciones en todo el sistema, aunque no están claras sus implicaciones. Es posible que la [[Maldad\|Maldad]] que se ha apoderado de la [[Patria\|Patria]], así como las [[Umbra\|umbras]], sean consecuencias derivadas de la batalla entre las dos Esquirlas. Armonía observó una herida en el [[Reino Espiritual\|Reino Espiritual]], allí donde Ambición fue Astillada.
+En [[Roshar\|Roshar]], la influencia de Odium ha estado presente con mayor intensidad, a través de las numerosas [[Desolaci%C3%B3n\|Desolaciones]] que ha provocado, así como por el asesinato y posterior Astillamiento de [[Honor\|Honor]], que convirtió al [[Padre Tormenta\|Padre Tormenta]] en lo que es hoy en día. Se le conoce en las distintas religiones del mundo como el líder de los [[Vac%C3%ADospren\|vacíospren]] y la fuerza tras los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. En la actualidad, la [[Tormenta eterna\|tormenta eterna]] y la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] son obra suya.
+
+## Curiosidades
+El nombre original de Odium era Odio. Brandon lo cambió porque, según sus propias palabras, era "demasiado directo", mientras que el nombre Odium acercaba la Esquirla a la Pasión.
+La mera mención de la palabra Odium hace bufar a [[Syl\|Syl]].
+Odium le tiene mucho miedo a [[Armon%C3%ADa\|Armonía]].
+Odium podría tener actualmente una alianza o, al menos un entendimiento, con [[Bavadin\|Bavadin]], la Recipiente de [[Autonom%C3%ADa\|Autonomía]], aunque consideró traicionarla tras su disputa con Honor y Cultivación. También está aliado con una potencia del Cosmere que no es ella.
+En los colores de **, Odium sería el color rojo.
+Odium siente que [[Lift\|Lift]] es extraña.
+Rayse odia a los cachorros.
+Jasnah sería una buena candidata para controlar el poder de Odium.
+Odium no estaba en posesión de un [[Esquirla del Amanecer\|Esquirla del Amanecer]].
+Rayse estaba al corriente de la existencia de [[Thaidakar\|Thaidakar]]. Se desconoce si Taravangian también.
+## Notas del traductor
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · |
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] ·  · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+
+
+https://es.coppermind.net/wiki/Odium

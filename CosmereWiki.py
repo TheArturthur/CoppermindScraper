@@ -4,9 +4,10 @@ from requests import get as req_get
 from bs4 import BeautifulSoup, Tag as bs_tag
 from os.path import basename, exists
 from re import match
+from urllib.parse import unquote
 
-BASE_URL = "https://coppermind.net"
-URL = "https://coppermind.net/wiki/Cosmere"
+BASE_URL = "https://es.coppermind.net"
+URL = "https://es.coppermind.net/wiki/Cosmere"
 
 done = False
 
@@ -56,8 +57,12 @@ def html_to_markdown(element):
 
 
 def __download_image__(element):
-    image_url = BASE_URL + element.contents[0]["src"]
-    image_name = f"Cosmere/attachments/{basename(element['href'])}"
+    src_url = str(element.contents[0]["src"])
+    if src_url.startswith("https://"):
+        image_url = src_url
+    else:
+        image_url = BASE_URL + element.contents[0]["src"]
+    image_name = f"Cosmere/attachments/{basename(element['href'].replace(':', '-'))}"
 
     with open(image_name, "wb") as f:
         f.write(req_get(image_url).content)
@@ -178,7 +183,10 @@ def __parse_wiki_links__(parent, text, ref):
     title = ref.replace("/wiki/", "").replace("_", " ").replace("%27", "'")
 
     try:
-        if parent["class"][0] == "thumbcaption" or parent.parent["class"][0] == "thumbcaption":
+        if (
+            parent["class"][0] == "thumbcaption"
+            or parent.parent["class"][0] == "thumbcaption"
+        ):
             return f"<<{title}\|{text}>>"
     except KeyError:
         pass
@@ -209,29 +217,36 @@ def link_to_markdown(a):
 def __get_page_title__(document, page_name):
     title = document.find(id="firstHeading").text
     redirected = None
-    if '/' in title:
+    if "/" in title:
         return title
-    
-    if title != page_name.replace('_',' ').replace('%27',"'"):
+
+    sp_page_name = unquote(page_name).replace("_", " ")
+
+    if title != sp_page_name:
         redirected = document.find(class_="mw-redirect").text
-    
+
     if redirected is None or redirected == title:
         return title
     else:
         return redirected
 
+
 if __name__ == "__main__":
     wiki_queue = [URL]
     wiki_done = []
 
+    if not exists("Cosmere/attachments"):
+        from os import mkdir
+        mkdir("Cosmere/attachments")
+
     while len(wiki_queue) > 0:
-        wiki_page = wiki_queue.pop(0)  # randrange(0, len(wiki_queue)))
+        wiki_page = wiki_queue.pop(randrange(0, len(wiki_queue)))
         html_page = req_get(wiki_page)
         doc = BeautifulSoup(html_page.text, "html.parser")
         content = doc.find(class_="mw-parser-output")
         if content is not None:
-            title = __get_page_title__(doc, wiki_page.split('/')[-1])
-            
+            title = __get_page_title__(doc, wiki_page.split("/")[-1])
+
             if (
                 "File:" in title
                 or "Artists" in title

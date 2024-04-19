@@ -1,114 +1,128 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Hudiya**|
 |-|-|
-|by  Jill Andersen |
-|**Died**|80 , in battle|
-|**Aliases**|Callsign: Hurl|
-|**Profession**|DDF pilots|
-|**Residence**|[[Igneous Cavern\|Igneous Cavern]]|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Fallecido**|80 , en combate|
+|**Apodos**|Identificador: Arcada|
+|**Oficio**|Piloto de la FDD|
+|**Residencia**|[[Caverna %C3%8Dgnea\|Caverna Ígnea]]|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
->“*I’ve almost got him. We’re never going to break any records by being cowards.*”
-\-Hurl ignoring orders to retreat shortly before she is shot down[1]
-
-
-**Hudiya**, Callsign: **Hurl**, is a cadet in the [[DDF\|DDF]] [[Flight school\|flight school]]. She is a part of [[Skyward Flight\|Skyward Flight]] and [[Spensa\|Spensa's]] wingmate, prior to her death.
-Her callsign, Hurl, comes from a joke Hudiya made during the cadet's first lesson in the [[Starfighter\|starfighter]] simulators, where most of the cadet's crashed their [[Poco\|Pocos]] instead of flying them. Hurl is from [[Igneous Cavern\|Igneous Cavern]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Relationships
-
-4.1 Spensa
-4.2 Jorgen
-4.3 Other Relationships
+>“*Ya casi lo tengo. No batiremos ninguna marca actuando como cobardes.*”
+\-Arcada ignorando las órdenes de retirada poco antes de ser derribada[1]
 
 
-5 Trivia
-6 Notes
+**Hudiya**, Identificador: **Arcada**, es cadete en la [[Escuela de vuelo\|escuela de vuelo]] de la [[FDD\|FDD]]. Es parte del [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] y compañera de ala de [[Spensa\|Spensa]], antes de su muerte.
+Su identificador, Arcada, proviene de una broma que Hudiya hizo durante la primera lección de los cadetes en los simuladores con [[Caza estelar\|cazas estelares]], donde la mayoría de los cadetes estrellaron sus [[Poco\|Poco]] en lugar de pilotarlos. Arcada es de [[Caverna %C3%8Dgnea\|Caverna Ígnea]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Spensa]] 
+4. [[#Jorgen]] 
+4. [[#Otras relaciones]] 
 
 
-## Appearance and Personality
->“*A little fear, a little history, those things don’t mean anything. Only what we do means anything.*”
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+>“*Un poco de miedo, un fragmento de la historia... esas cosas no significan nada. Lo único que importa es lo que hacemos.*”
 \-[4]
 
 
- by  Hitori Maron 
-Hurl has a lean, athletic build, and blonde hair that long enough to wear in a ponytail. She can be rather messy and is not in the habit of making her bed. She is also known to snore quite loudly. Outside of class, Hurl spends a lot of her spare time training, either in the centrifuge, lifting weights, or swimming (of which she is less fond). She is disappointed that she has yet to throw up in the centrifuge.
-Hurl is an emotionally open person and wears her heart on her sleeve. She is a confident, eager, and fun-loving. She is rather competitive and often plays games or makes bets with her flightmates. She has a very carefree personality and sees life as a game and a joke. Hurl becomes more solemn following the deaths of [[Bim\|Bim]] and [[Morningtide\|Morningtide]], and struggles to find fun in flying.
-Hurl will make it known if she is upset with someone, and will become hostile and cold towards them. As well as this, Hurl will become aggressive and challenge someone trying to assert authority over her if she does not believe they are justified in giving her orders. She can be quite blunt and brash with her remarks, yet she is also self-reflective of her treatment of others and will admit and apologize when she has unfairly treated someone harshly.
-Hurl is an impulsive person who does not have qualms with taking risks and does not always acknowledge the seriousness of her situation. Her impatience and higher tolerance for risk during training and battle has led to several moments where Hurl has been in either simulated or real danger. She thinks highly of her own flying abilities and does not like sitting on the sidelines of a fight. Her stubbornness and overconfidence has led her to actively ignore warnings from her comrades during battle, leading to disastrous results.
+ 
+Arcada tiene una complexión delgada y atlética, y el pelo rubio lo suficientemente largo como para llevarlo recogido en una coleta. Puede ser bastante desordenada y no tiene costumbre de hacer la cama. También es conocida por roncar bastante fuerte. Fuera de clase, Arcada pasa mucho de su tiempo libre entrenando, ya sea en la centrifugadora, levantando pesas o nadando (de lo que es menos aficionada). Está decepcionada porque aún no ha vomitado en la centrifugadora.
+Arcada es una persona abierta emocionalmente y las muestra sin problema. Es segura de sí misma, entusiasta y amante de la diversión. Es bastante competitiva y a menudo juega o hace apuestas con sus compañeros de escuadrón. Tiene una personalidad muy despreocupada y ve la vida como un juego y una broma. Arcada se vuelve más solemne tras las muertes de [[Bim\|Bim]] y [[Marea\|Marea]], y lucha por encontrar diversión en el vuelo.
+Arcada hará saber si está enfadada con alguien, y se volverá hostil y fría hacia ellos. Además, se volverá agresiva y desafiará a alguien que intente imponer su autoridad sobre ella si no cree que esté justificado darle órdenes. Puede ser bastante brusca y descarada con sus comentarios, aunque también es autorreflexiva sobre el trato que da a los demás y admitirá y pedirá disculpas cuando haya tratado injustamente a alguien con dureza.
+Arcada es una persona impulsiva que no tiene reparos en arriesgarse y no siempre reconoce la gravedad de su situación. Su impaciencia y su mayor tolerancia al riesgo durante los entrenamientos y las batallas han provocado varios momentos en los que ha estado en peligro real o simulado.  Tiene en alta estima sus propias habilidades de vuelo y no le gusta quedarse al margen de los combates. Su terquedad y exceso de confianza la han llevado a ignorar activamente las advertencias de sus compañeros durante la batalla, lo que ha tenido resultados desastrosos.
 
-## Attributes and Abilities
->“*That long swath seemed to indicate that she’d managed to get her ship horizontal at the end, that she’d gotten close to a gliding position. So she’d almost done it. With a blown-off wing and a broken acclivity ring, she’d still almost landed.*”
-\-A description of Hurl's piloting abilities[12]
+## Atributos y habilidades
+>“*Miré hacia atrás, a lo largo de la cicatriz en el terreno que había dejado su nave al estrellarse. Que fuese tan larga parecía indicar que había logrado poner su nave horizontal en los últimos momentos, que se había aproximado a una posición de planeo. Por lo tanto, casi lo había logrado. Con un ala explotada y un anillo de pendiente roto, aun así había estado a punto de aterrizar.*”
+\-Descripción de las habilidades de pilotaje de Arcada[12]
 
 
-As someone who passed the flight school entrance exam, Hurl is highly knowledgeable about piloting and [[Starfighter\|starfighters]]. She does not seem to have any prior practical experience in starfighters from before flight school. Ultimately she trains to pilot a [[Poco\|Poco]], perform aerial maneuvers, and use its weaponry. Hurl is aware of flight school traditions prior to starting her training as a cadet and believed the rumor that cadets were expelled if they ejected from their aircraft was to weed out cowards from the [[DDF\|DDF]].
-She is an excellent flier, skilled at using a [[Light-lance\|light-lance]], and hunting down [[Varvax\|Krell]] during battle, however, her enthusiasm can cross into over-eagerness and recklessness. She does not like flying in loops, and keeps trying to name flight moves after herself.
-Prior to joining flight school, Hurl was in the student [[Digball\|digball]] team, in the position of carrier. She was highly talented and known as one of the best in the league. She finds flying gives her a similar, though larger, adrenaline rush than sports. Although she enjoyed athletics, she finds that she misses her team more than she misses the game itself.
+Como alguien que aprobó el examen de acceso a la escuela de vuelo, Arcada tiene grandes conocimientos sobre pilotaje y [[Caza estelar\|cazas estelares]]. No parece tener ninguna experiencia práctica previa en cazas estelares de antes de la escuela de vuelo. Al final se forma para pilotar un [[Poco\|Poco]], realizar maniobras aéreas y utilizar su armamento. Arcada conoce las tradiciones de la escuela de vuelo antes de empezar a entrenar como cadete y cree que el rumor de que los cadetes eran expulsados si se eyectaban de sus aviones era para eliminar a los cobardes de la FDD.
+Es una excelente voladora, experta en el uso de la [[Lanza de luz\|lanza de luz]] y en la caza de los [[Varvax\|krell]] durante la batalla; sin embargo, su entusiasmo puede llegar a ser excesivo e imprudente. No le gusta volar en círculos, y sigue intentando poner su nombre a los movimientos de vuelo.
+Antes de incorporarse a la escuela de vuelo, Arcada estaba en el equipo estudiantil de [[Cavabola\|cavabola]], en el puesto de portadora. Tenía mucho talento y era conocida como una de las mejores de la liga. Considera que volar le produce un subidón de adrenalina similar, aunque mayor, que los deportes. Aunque le gustaba el atletismo, echa más de menos a su equipo que el propio deporte.
 
-## History
-After passing the entrance exam, Hurl was placed in [[Skyward Flight\|Skyward Flight]] under the tutelage of [[Cobb\|Cobb]]. Her first day of [[Flight school\|flight school]] saw her arriving at the class room with [[Bim\|Bim]], indicating that they may have known each other prior to the class. She was roomed with the other female members of her flight, with the exception of [[Spensa\|Spensa]], who was denied accommodation.
-Like many of the other members of Skyward Flight, Hurl crashed her hologram [[Poco\|Poco]] during their first lesson, however, she was highly entertained by the outcome instead of embarrassed. When the lesson was interrupted by a [[Varvax\|Krell]] attack, Hurl, along with the rest of Skyward Flight, were ordered to take to the sky and line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict. She followed Spensa's lead when the other cadet took it upon herself to engage the Krell and help distract them. Neither of the women were overly good at their task and had trouble flying adequately. Despite the danger the cadets had been in, and the near death experience that [[Jorgen\|Jorgen]] had encountered, Hurl was invigorated by the action instead of discouraged.
+## Historia
+Tras aprobar el examen de ingreso, Arcada ingresó en el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] bajo la tutela de [[Cobb\|Cobb]]. Su primer día allí fue vista llegando al aula con [[Bim\|Bim]], lo que indica que quizá se conocieran de antes. Recibió alojamiento con las demás mujeres de su grupo, a excepción de [[Spensa\|Spensa]], a quien se le denegó el alojamiento.
+Al igual que muchos de los demás miembros del Escuadrón Cielo, Arcada estrelló su holograma [[Poco\|Poco]] durante su primera lección; sin embargo, se sintió muy entretenida por el resultado en lugar de avergonzada. Cuando la lección se vio interrumpida por un ataque [[Varvax\|krell]], Arcada, junto con el resto del Escuadrón Cielo, recibió la orden de surcar los cielos y alinearse cerca de la batalla para engañar a los krell y hacerles creer que había más pilotos dispuestos a unirse al conflicto. Siguió los pasos de Spensa cuando la otra cadete se encargó de enfrentarse a los krell y ayudar a distraerlos. Ninguna de las dos era demasiado buena en su tarea y les costaba volar adecuadamente. A pesar del peligro que habían corrido las cadetes y de la experiencia cercana a la muerte que había vivido [[Jorgen\|Jorgen]], Arcada se sintió vigorizada por la acción en lugar de desanimada.
 
->“*Wow! Now that was an explosion. How many points do I get for that performance, Cobb?*”
-\-Hurl after crashing into FM during simulation training[10]
+>“*¡Hala! Eso sí que ha sido una explosión. ¿Cuántos puntos me llevo por hacer eso, Cobb?*”
+\-Arcada tras estrellarse contra FM durante un entrenamiento en la simulación[10]
 
-Hurl enjoyed the [[Light-lance\|light-lance]] ring game, and in her eagerness took the course at a higher speed than was necessary. Although she did well on the first round, she crashed on the second. She did not care much that she had lost, instead having just enjoying the game they got to play.
-A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. Hurl survived the battle, however, lost two of her other flightmates: [[Bim\|Bim]] and [[Morningtide\|Morningtide]].
-When Spensa tried to talk to Hurl during [[IMP\|IMP]] training, Hurl quickly extracted herself from the conversation to avoid talking with her fellow cadet. Hurl was paired with [[Kimmalyn\|Kimmalyn]] during the training, however, during their run Kimmalyn got caught within the radius of Hurl's IMP causing herself to crash. Later, when the flight was given extra drills, Hurl blamed Spensa, due to the other cadet showing off. When Spensa almost came to blows with Jorgen, Hurl watched on in interest.
+A Arcada le gustaba el juego de los anillo con [[Lanza de luz\|lanza de luz]], y en su afán tomó el rumbo a una velocidad superior a la necesaria. Aunque le fue bien en la primera ronda, se estrelló en la segunda. No le importó mucho haber perdido, en lugar de eso se limitó a disfrutar del juego que les había tocado jugar.
+Pocos días después, el Escuadrón Cielo fue enviado de nuevo a la batalla contra los krell, esta vez luchando junto a pilotos de pleno derecho. Arcada sobrevivió a la batalla, sin embargo, perdió a dos de sus otros compañeros de vuelo: [[Bim\|Bim]] y [[Marea\|Marea]].
+Cuando Spensa intentó hablar con Arcada durante un entrenamiento con el PMI, ésta se retiró rápidamente de la conversación para evitar hablar con su compañera. Arcada formó pareja con [[Kimmalyn\|Kimmalyn]] durante el entrenamiento; sin embargo, durante la carrera, Kimmalyn quedó atrapada en el radio de la PMI de Arcada y se estrelló. Más tarde, cuando el escuadrón recibió ejercicios extra, Arcada culpó a Spensa, debido a que la otra cadete se lució. Cuando Spensa estuvo a punto de llegar a las manos con Jorgen, Arcada observó con interés.
 
->“*Hurl keeps trying to name new moves after herself, but we figure the ‘Hurl maneuver’ really ought to have several loops in it or something.*”
-\-Hurl, Kimmalyn, FM, and Spensa creating new flight maneuvers[4]
+>“*Arcada siempre está intentando poner su nombre a los movimientos nuevos. Pero hemos pensado que la «maniobra Arcada» tendría que tener varios bucles, o algo así.*”
+\-Arcada, Kimmalyn, FM, y Spensa creando nuevas maniobras de vuelo[4]
 
-Later during the IMP training exercise, Hurl ignored Spensa when she tried to compliment Hurl on her flying. When the [[Shipyard\|shipyard]] began falling, Hurl, [[Arturo\|Arturo]], [[FM\|FM]], and [[Jorgen\|Jorgen]], ended up cut off from the other members of the flight after they were attacked by Krell. Eventually the members of the flight were able to regroup and joined [[Riptide Flight\|Riptide Flight]] as they headed back to base.
-After witnessing Spensa bravely follow [[Nedd\|Nedd]] into the shipyard to try and help his brothers, Hurl began to warm up to the other cadet. The week after the shipyard crashed, Hurl, Kimmalyn, and FM, devised a plan to sneak Spensa into their dormitory for the evening. While FM and Kimmalyn worked on getting Spensa to their room, Hurl went to the cafeteria and smuggled out extra chocolate cake that could be shared around. When she was caught taking the extra cake by Jorgen, Hurl lied to him, telling him that it was for herself. As the night progressed, Hurl suggested that they come up with flight patterns, showing Spensa her sketchbook in which the female cadets had been brainstorming ideas. When Kimmalyn and FM went to scout the route to the bathroom, Hurl explained to Spensa why she had been acting so coldly. The two cadets talked through the issue of [[Zeen Nightshade\|Spensa's father]], then formed a pact of bravery.
+Más tarde, durante el ejercicio de entrenamiento con el PMI, Arcada ignoró a Spensa cuando intentó felicitarla por su forma de volar. Cuando el [[Astillero\|astillero]] comenzó a caer, Arcada, [[Arturo\|Arturo]], [[FM\|FM]], y [[Jorgen\|Jorgen]], terminaron aislados de los otros miembros del escuadrón después de que fueran atacados por los krell. Con el tiempo, los miembros del escuadrón pudieron reagruparse y se unieron al [[Escuadr%C3%B3n Contracorriente\|Escuadrón Contracorriente]] mientras regresaban a la base.
+Después de ver cómo Spensa seguía valientemente a [[Nedd\|Nedd]] al astillero para intentar ayudar a sus hermanos, Arcada empezó a simpatizar con la otra cadete. La semana siguiente al accidente del astillero, Arcada, Kimmalyn y FM idearon un plan para colar a Spensa en su dormitorio por la noche. Mientras FM y Kimmalyn se encargaban de llevar a Spensa a su habitación, Arcada fue a la cafetería y se llevó de contrabando una tarta de chocolate extra para compartir. Cuando Jorgen la sorprendió, Arcada le mintió diciéndole que era para ella. A medida que avanzaba la noche, Arcada sugirió que idearan patrones de vuelo, mostrando a Spensa su cuaderno de dibujo en el que las cadetes habían estado intercambiando ideas. Cuando Kimmalyn y FM fueron a inspeccionar la ruta hacia el baño, Arcada explicó a Spensa por qué había actuado con tanta frialdad. Las dos cadetes hablaron sobre el asunto del padre de [[Zeen Nightshade\|Spensa]], y luego formaron un pacto de valentía.
 
->“*I’m sorry for how I treated you. It was just a…shock, when I found out. But you’re not him, and I’m not either, regardless of what I feel sometimes.*”
-\-Hurl's apology to Spensa for treating her harshly[4]
+>“*Siento mucho la forma en que te he tratado. Es que... me sorprendió averiguarlo. Pero tú no eres él, ni yo tampoco, a pesar de cómo me sienta de vez en cuando.*”
+\-La disculpa de Arcada a Spensa por tratarla con dureza[4]
 
-Several weeks later, during simulation practice, Hurl explained [[Digball\|digball]] to Spensa while they practiced then asked Spensa about what she did before joining the [[DDF\|DDF]]. Hurl was impressed by how Spensa would help provide food for her mother's business, complimenting her and remarking that she found Spensa to be a baddass. After the class, Hurl subtly invited Spensa to join the female Skyward cadets in their room again, however, Spensa declines, not wanting to cause them trouble.
-Not long after the end of class, Skyward Flight were called to battle and ordered to take up position near one of the AA guns. While the squad waited, Hurl and Spensa discussed how many Krell they would try and kill and Hurl aired her frustration at being excluded from the main fight. When the cadets were given the green light to join the battle, Hurl and Spensa began chasing down a Krell ship before breaking away to assist Kimmalyn, who had picked up several tails. After helping Kimmalyn escape, Hurl and Spensa chased a Krell ship away from the battle and managed to successfully destroy it. When Kimmalyn called for help once more, the pair split up so that Hurl had time to reignite her ship's shields. Hurl began chasing another Krell, however, picked up several tails of her own. Ignoring the advice given to her by her teammates, Hurl continued after the Krell, despite taking several hits to her shields, and successfully destroyed the enemy ship. To try and escape the two ships still tailing her, Hurl flew upwards to try and get in range of the AA guns so they could shoot down the ships chasing her, losing her shield in the process. Despite Kimmalyn's attempt to destroy Hurl's tails, the Krell successfully hit Hurl's ship, destroying the wing and causing it to plummet towards the ground. Refusing to eject, Hurl tried to land her [[Starfighter\|starfighter]], and despite almost succeeding, crashed into the planet's surface.
+Varias semanas después, durante una práctica de simulación, Arcada explicó a Spensa el [[Cavabola\|cavabola]] mientras practicaban y le preguntó qué hacía antes de unirse a la [[FDD\|FDD]]. Arcada quedó impresionada por la forma en que Spensa ayudaba a proveer de comida al negocio de su madre, la felicitó y comentó que Spensa le parecía una malota. Después de la clase, Arcada invitó sutilmente a Spensa a unirse de nuevo a las cadetes femeninas del Escuadrón en su habitación, sin embargo, Spensa declina, no queriendo causarles problemas.
+Poco después del final de la clase, el Escuadrón Cielo fue llamado a la batalla y se le ordenó tomar posiciones cerca de uno de los cañones AA. Mientras esperaban, Arcada y Spensa discutían cuántos krell intentarían matar y Arcada aireaba su frustración por haber sido excluida del combate principal. Cuando los cadetes recibieron luz verde para unirse a la batalla, ambas comenzaron a perseguir una nave krell antes de separarse para ayudar a Kimmalyn, que había recogido varias colas. Tras ayudarla a escapar, las pilotos persiguieron a una nave krell lejos de la batalla y consiguieron destruirla. Cuando Kimmalyn volvió a pedir ayuda, la pareja se separó para que Arcada tuviera tiempo de volver a encender los escudos de su nave. Comenzó a perseguir a otro krell, sin embargo, recogió varias naves a su cola. Ignorando los consejos de sus compañeros de equipo, Arcada continuó persiguiendo al krell, a pesar de recibir varios impactos en sus escudos, y destruyó con éxito la nave enemiga. Para intentar escapar de las dos que aún la seguían, Arcada voló hacia arriba para intentar ponerse al alcance de los cañones AA y así poder derribar a las naves que la perseguían, perdiendo su escudo en el proceso. A pesar del intento de Kimmalyn de destruir las colas de Arcada, los krell alcanzaron a la nave, destruyéndole el ala y haciéndola caer en picado hacia el suelo. Al negarse a eyectarse, Arcada intentó aterrizar su [[Caza estelar\|caza estelar]], y a pesar de que casi lo consigue, se estrelló contra la superficie del planeta.
 
->“*Return to the stars, sail them well, warrior.*”
-\-Part of an elegy, spoken by Jorgen at Hurl's funeral[12]
+>“*Regresa a las estrellas. Navega bien entre ellas, guerrera.*”
+\-Parte de una elegía, pronunciada por Jorgen en el funeral de Arcada[12]
 
-Scouts that went to investigate the crash site discovered that the [[Acclivity ring\|acclivity ring]] of Hurl's starfighter had been destroyed beyond repair and nothing salvageable remained in the wreckage. Spensa, who was later joined by Jorgen, set out to find Hurl's body after discovering that the lack of salvage would mean her flightmate's body would not be recovered for several weeks. The pair found her crashed starfighter quite easily and discovered that Hurl likely died on impact. Spensa retrieved Hurl's pilots pin to take back for her family, then Jorgen and Spensa built a pyre in the wreckage and set it alight. Spensa returned the pin to Cobb to be passed on to Hurl's family.
-Following her death, Cobb writes to Hurl's parents to explain how she died. Although the Admiral of the DDF was usually tasked with this duty, Cobb did not trust what [[Ironsides\|Ironsides]] would say to the grieving parents and decided to take on the responsibility himself.
+Los exploradores que fueron a investigar el lugar del accidente descubrieron que el [[Anillo de pendiente\|anillo de pendiente]] del caza estelar de Arcada había sido destruido sin posibilidad de reparación y no quedaba nada rescatable entre los restos. Spensa, a la que más tarde se unió Jorgen, partió en busca del cuerpo de Arcada tras descubrir que la falta de salvamento significaría que el cuerpo de su compañera de vuelo no sería recuperado hasta pasadas varias semanas. La pareja encontró el caza estelar estrellado con bastante facilidad y descubrió que probablemente Arcada había muerto en el impacto. Spensa recuperó el pin de piloto de Arcada para llevárselo a su familia, y luego Jorgen y Spensa construyeron una pira en los restos y le prendieron fuego. Spensa devolvió el pin a Cobb para que se lo diera a la familia de Arcada.
+Tras su muerte, Cobb escribe a los padres de Arcada para explicarles cómo murió. Aunque normalmente se encargaba de esta tarea al almirante de la FDD, Cobb no confiaba en lo que [[F%C3%A9rrea\|Férrea]] diría a los afligidos padres y decidió asumir él mismo la responsabilidad.
 
-## Relationships
+## Relaciones
 ### Spensa
->“*My mother told stories of your father, you know...‘Don’t you dare sully the name of the Defiant people,’ she’d say to me. ‘Don’t you dare become a Chaser…’ *”
-\-Hurl explaining what had prompted her prejudice against Spensa's family[4]
+>“*Mi madre me contaba historias sobre tu padre, ¿sabes? Cuando me veía retroceder en el parque, o encogerme si me lanzaban una bola en los entrenamientos. Me hablaba del piloto que afirmaba ser valiente, pero por dentro era un cobarde. Me decía: «No te atrevas a manchar el buen nombre de los Desafiantes. No te atrevas a convertirte en una Perseguidor».*”
+\-Arcada explicando qué había motivado sus prejuicios contra la familia de Spensa[4]
 
 
-Although initially friendly, Hurl takes a disliking to Spensa after finding out she is the daughter of [[Zeen Nightshade\|Zeen Nightshade]], becoming cold and hostile towards her. [[Spensa\|Spensa]], despite being hurt by Hurl's change in attitude, continues to be friendly towards her and tries to positively engage with her flightmate. Hurl's attitude towards Spensa does not begin to change until after the battle at the [[Shipyard\|shipyard]], where Hurl witnesses Spensa try and help [[Nedd\|Nedd]] save his brothers. Realizing that her fear of cowardice drove her prejudice against Spensa and her family, Hurl attempts to make amends by helping [[FM\|FM]] and [[Kimmalyn\|Kimmalyn]] sneak Spensa into their dorm room. While her two roommates were away, Hurl apologized to Spensa for the way she had treated her and acknowledged that Spensa should not be judged by the actions of her father. Hurl explained that her parents had often used Chaser as an example when warning Hurl about backing down. Spensa accepts Hurl's apology and the pair formed a pact of bravery, agreeing to not back down when difficult situations challenged them.
+Aunque al principio es amistosa, Arcada le toma antipatía a Spensa tras enterarse de que es hija de [[Zeen Nightshade\|Zeen Nightshade]], volviéndose fría y hostil hacia ella. [[Spensa\|Spensa]], a pesar de sentirse dolida por el cambio de actitud de Arcada, continúa siendo amistosa con ella e intenta relacionarse positivamente con su compañera de vuelo. La actitud de Arcada hacia Spensa no empieza a cambiar hasta después de la batalla en el [[Astillero\|astillero]], donde Arcada es testigo de cómo Spensa intenta ayudar a [[Nedd\|Nedd]] a salvar a sus hermanos. Al darse cuenta de que su miedo a la cobardía impulsó sus prejuicios contra Spensa y su familia, Arcada intenta enmendarse ayudando a [[FM\|FM]] y [[Kimmalyn\|Kimmalyn]] a colar a Spensa en su dormitorio.  Mientras sus dos compañeras de habitación estaban fuera, Arcada se disculpó con Spensa por la forma en que la había tratado y reconoció que Spensa no debía ser juzgada por las acciones de su padre. Arcada explicó que sus padres habían utilizado a menudo a Perseguidor como ejemplo cuando avisaban a Arcada para que no se echara atrás. Spensa acepta las disculpas de Arcada y ambas forman un pacto de valentía, acordando no echarse atrás cuando se enfrenten a situaciones difíciles.
 
->“*Not cowards. No backing down. Brave until the end, right Spin? A pact.*”
-\-The commitment made between Spensa and Hurl[4]
+>“*No seremos cobardes. No recularemos. Seremos valientes hasta el final, ¿de acuerdo, Peonza? Es un pacto.*”
+\-El compromiso adquirido entre Spensa y Arcada[4]
 
-Following their newfound friendship, Hurl and Spensa become wingmates. The pair make a good team and their new dynamic leads to a noticeable improvement in their flying abilities and cooperation during battle. Hurl admires Spensa's tenacity in the face of her treatment by the DDF and becomes a fierce advocate for her wingmate. She is also highly impressed by Spensa's hunting abilities and how she utilized her strengths to support her mother's business.
-Hurl's death devastates Spensa. In the days following her wingmate's death, Spensa emotionally withdraws and isolates herself in an attempt to deal with her grief. When put on mandatory leave, Spensa sets out to find Hurl's crashed ship, telling her flightmates she wants to give Hurl a proper pilots burial. Secretly, Spensa hoped that Hurl might have miraculously survived the crash, despite evidence that this was unlikely. However, after finding Hurl's remains within her crashed [[Poco\|Poco]], Spensa had to face the reality that her wingmate was gone. Spensa had hoped that by providing Hurl with a proper burial it would help provide closure, however, the ceremony performed by Spensa and [[Jorgen\|Jorgen]] did not lessen her grief. Although Spensa eventually moved past her grief, Hurl's memory stayed with her.
-Spensa views Hurl as a hero who died bravely and has a low tolerance for anyone who suggests otherwise. As with after the deaths of [[Bim\|Bim]] and [[Morningtide\|Morningtide]], Spensa struggles with guilt while grieving for her friend, and feels conflicted about experiencing positive emotions. She is haunted by the commitment she made with Hurl about refusing to back down, likely because she acknowledges to some extent how this attitude factored into Hurl's death. When faced with the same situation as Hurl, a broken starfighter and an uncontrolled descent, Spensa is reminded of Hurl's words, however, makes the opposite choice - saving her own life over preserving a doomed ship. The memory of Hurl also plays a critical role in convincing Spensa to defend [[Alta Base\|Alta Base]], despite her fear of going rogue like her father, from a surprise Krell attack when the base is open and undefended.
+Tras su nueva amistad, Arcada y Spensa se convierten en compañeras de ala. La pareja forma un buen equipo y su nueva dinámica mejora notablemente sus habilidades de vuelo y su cooperación durante la batalla. Arcada admira la tenacidad de Spensa ante el trato que recibe de la FDD y se convierte en una ferviente defensora de su compañera de ala. Arcada admira la tenacidad de Spensa ante el trato recibido por la FDD y se convierte en una feroz defensora de su compañera de ala. También está muy impresionada por las habilidades de caza de Spensa y por cómo utilizó sus puntos fuertes para apoyar el negocio de su madre.
+La muerte de Arcada destroza a Spensa. En los días siguientes a la muerte de su compañera de ala, Spensa se retrae emocionalmente y se aísla en un intento de lidiar con su dolor. Cuando se le impone un permiso obligatorio, Spensa sale en busca de la nave estrellada de Arcada y les dice a sus compañeros de vuelo que quiere darle un entierro digno de pilotos. En secreto, Spensa tenía la esperanza de que Arcada hubiera sobrevivido milagrosamente al accidente, a pesar de que las pruebas indicaban que era poco probable. Sin embargo, tras encontrar los restos de Arcada en su [[Poco\|Poco]] accidentado, Spensa tuvo que enfrentarse a la realidad de que su compañero de ala se había ido. Spensa esperaba que darle un entierro apropiado le ayudara a cerrar el capítulo, sin embargo, la ceremonia llevada a cabo por Spensa y [[Jorgen\|Jorgen]] no disminuyó su dolor. Aunque con el tiempo Spensa superó su dolor, el recuerdo de Arcada permaneció con ella.
+Spensa ve a Arcada como una heroína que murió valientemente y tiene poca tolerancia con cualquiera que sugiera lo contrario. Al igual que tras las muertes de [[Bim\|Bim]] y [[Marea\|Marea]], Spensa lucha contra la culpa mientras llora la muerte de su amigo, y siente un conflicto a la hora de experimentar emociones positivas. Se siente atormentada por el compromiso que adquirió con Arcada de negarse a dar marcha atrás, probablemente porque reconoce hasta cierto punto cómo esta actitud influyó en la muerte de Arcada. Cuando Spensa se enfrenta a la misma situación que ella, un caza estelar averiado y en descenso descontrolado, recuerda las palabras de Arcada y, sin embargo, toma la decisión contraria: salvar su propia vida antes que conservar una nave condenada al fracaso. El recuerdo de Arcada también desempeña un papel fundamental a la hora de convencer a Spensa de que defienda la Base Alta, a pesar de su miedo a volverse rebelde como su padre, de un ataque krell por sorpresa cuando la base está descubierta e indefensa. 
 
 ### Jorgen
->“*I want to go with you. It’s a good idea. Hurl…deserves this.*”
-\-Jorgen joining Spensa to find Hurl's wreckage[12]
+>“*Quiero acompañarte. Es buena idea. Arcada... se lo merece.*”
+\-Jorgen uniéndose a Spensa para encontrar los restos de Arcada[12]
 
 
-[[Jorgen\|Jorgen]] accompanies [[Spensa\|Spensa]] when she goes to find Hurl's body, believing that Hurl deserves a proper pilots burial. As he did not stay at [[Alta Base\|Alta Base]] during his time as a cadet, Jorgen did not spend much time with Hurl outside of the classroom. Despite this, he still considers Hurl to be a friend. Jorgen acknowledged that Hurl's reckless nature was why she had died.
+[[Jorgen\|Jorgen]] acompaña a [[Spensa\|Spensa]] cuando ella va a buscar el cuerpo de Arcada, pues cree que merece un entierro apropiado para un pilotos. Como no se quedó en la [[Base Alta\|Base Alta]] durante su época de cadete, Jorgen no pasó mucho tiempo con Arcada fuera de las aulas. A pesar de ello, sigue considerando a Arcada una amiga. Jorgen reconoció que la imprudencia de Arcada fue la causa de su muerte.
 
-### Other Relationships
-[[Nedd\|Nedd]] and [[Arturo\|Arturo]]: Hurl often jokes around with Nedd and Arturo. During their free time they plays games such as wall-ball together, with Hurl often beating Nedd.
-[[FM\|FM]]: Hurl and FM have a friendly and teasing relationship. During their time rooming together, FM, Kimmalyn, and Hurl would brainstorm new flight maneuvers and note them in Hurl's notebook.
-[[Kimmalyn\|Kimmalyn]]: During their time rooming together, Kimmalyn, FM, and Hurl would brainstorm new flight maneuvers and note them in Hurl's notebook. Kimmalyn feels intense guilt over Hurl's death and blames herself for the tragedy, having been unsuccessful in trying to destroy the Krell that had ultimately shot the other women down.
-## Trivia
-Hurl's characterization serves as a contrast to Spensa, to show a path that Spensa could have taken.
-Brandon always planned for Hurl to die.
+### Otras relaciones
+[[Nedd\|Nedd]] y [[Arturo\|Arturo]]: Arcada bromea a menudo con ellos. Durante su tiempo libre juegan juntos a juegos como el bolapared, en el que Arcada suele ganar a Nedd.
+[[FM\|FM]]: Ambas tienen una relación amistosa y burlona. Durante el tiempo que compartieron habitación, FM, Kimmalyn y Arcada pensaban en nuevas maniobras de vuelo y las anotaban en el cuaderno de Arcada.
+Kimmalyn: Durante el tiempo que compartieron habitación, Kimmalyn, FM y Arcada ideaban nuevas maniobras de vuelo y las anotaban en el cuaderno de Arcada. Kimmalyn se siente muy culpable por la muerte de Arcada y se culpa a sí misma de la tragedia, ya que no consiguió destruir al Krell que había abatido a la otra mujer.
+## Curiosidades
+La caracterización de Arcada sirve como contraste con Spensa, para mostrar un camino que Spensa podría haber tomado.
+Brandon siempre planeó la muerte de Arcada.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 08:21, 16 de enero de 2020 (UTC)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] ·  · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
-https://coppermind.net/wiki/Hudiya
+
+https://es.coppermind.net/wiki/Hudiya

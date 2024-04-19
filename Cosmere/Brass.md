@@ -1,64 +1,86 @@
-|**Brass**|
+
+
+|**Latón**|
 |-|-|
 |||
-|by [[Isaac Stewart\|Isaac Stewart]]|
-|**Allomancy**|
-|**Power**|Soothe emotions|
-|**Type**|External, Pushing, Mental|
-|**Misting**|Soother|
-|**Feruchemy**|
-|**Power**|Store warmth|
-|**Type**|Cognitive|
-|**Ferring**|Firesoul|
-|**Hemalurgy**|
-|**Power**|Steal Cognitive Feruchemical powers|
-|**Type**|Mental|
+||
+|**[[Alomancia\|Alomancia]]**|
+|**Poder**|Aplacar emociones|
+|**Tipo**|Externo, Empujar, Mental|
+|**Brumoso**|Aplacador|
+|**[[Feruquimia\|Feruquimia]]**|
+|**Poder**|Almacenar calor|
+|**Tipo**|Cognitivo|
+|**Ferrin**|Alma de fuego|
+|**[[Hemalurgia\|Hemalurgia]]**|
+|**Poder**|Robar poderes cognitivos feruquímicos|
+|**Tipo**|Mental|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Brass** is the external mental pushing metal, an alloy of [[Zinc\|zinc]] and [[Copper\|copper]]. It is the paired alloy of zinc (the alloy paired with copper is [[Bronze\|bronze]]). An Allomancer burning brass is able to dampen the emotions of those around them. It can be targeted at a single person or a group. Feruchemists can use brass to store warmth, and when used as a Hemalurgic spike, brass steals Cognitive Feruchemical powers.
+El **latón** es el metal de empuje mental externo, una aleación de [[Cinc\|cinc]] y [[Cobre\|cobre]]. Es la aleación pareja del cinc (la aleación que hace pareja con el cobre es el [[Bronce\|bronce]]). Un alomante que quema latón es capaz de amortiguar las emociones de quienes le rodean. Puede dirigirse a una sola persona o a un grupo. Los feruquimistas pueden utilizar el latón para almacenar calor, y cuando se utiliza como clavo hemalúrgico, el latón roba los poderes feruquímicos cognitivos.
 
-## Contents
+## Sumario
 
-1 Allomantic Use
+1 Uso alomántico. [[#Uso alom.C3.A1ntico]] 
 
-1.1 Savantism
-
-
-2 Feruchemical Use
-
-2.1 Compounding
+1. [[#Savantismo]] 
 
 
-3 Hemalurgic Use
-4 Fabrial Use
-5 Trivia
-6 Notes
+2 Uso feruquímico. [[#Uso feruqu.C3.ADmico]] 
+
+2. [[#Composici.C3.B3n]] 
 
 
-## Allomantic Use
-A brass [[Misting\|Misting]] is known as a **Soother**. Emotional Allomancy is not mind control, but it does allow the practitioner to influence the emotions of those around them. The effects can be targeted at a specific individual or group, and can focus on specific emotions. It is easier to target a specific direction instead of at a specific individual.
-Soothing emotions can be used to decrease someone's fatigue, fear, or happiness. It can accomplish many of the same things as [[Zinc\|Rioting]] emotions by Soothing all but the specified emotions. Extreme emotions in the target will interfere with emotional Allomancy. Emotional Allomancy can affect animals, however it requires a certain amount of sapience. Emotional Allomancy also has a more compelling effect on [[Lifeless\|Lifeless]] compared to a regular person. Soothers can affect a [[Singer\|singer's]] Rhythms and may be able to dampen [[Odium\|Odium's]] influence. A Soother cannot Soothe themselves.
-Very powerful Soothing can put a Hemalurgic creature under complete control, and once controlled, the Soothing is no longer required. This can be achieved by a single [[Allomancy\|Mistborn]] or [[Hemalurgy\|Hemalurgist]] burning [[Duralumin\|duralumin]] and brass together, a combination of a [[Nicrosil\|Nicroburst]] and a Soother, or a group of Soothers and/or Rioters working together, though in the early days of [[Final Empire\|Final Empire]], when Allomancy was much more powerful, a single Soother was able to do it.
-Soothing inside of a [[Bendalloy\|speed bubble]] could give the same effects as burning duralumin, and can still be aimed without the normal hindrances of exiting time bubbles. Soothing can be stopped by an [[Aluminum\|aluminum]]-lined hat and possibly by aluminum over the Soother's chest. It can also be stopped by the helmet of a [[Shardplate\|Shardplate]].
-After the [[Catacendre\|Catacendre]], it is unlawful for a business to use emotional Allomancy to influence customers. This was one of the provisions of the [[Allomantic Agreement of '94\|Allomantic Agreement of '94]]. There is evidence of consensual emotional counselling.
-
-### Savantism
-Savanthood is less debilitating for Soothers compared to other metals.
-
-## Feruchemical Use
-A brass [[Ferring\|Ferring]] is known as a **Firesoul**. Brass is used to store warmth. While filling a brassmind, a Firesoul will be cool. A Firesoul's body, not unlike a [[Iron\|Skimmer's]], is able to resist the higher temperatures of their Feruchemy, but are not immune to intense heat in general. By cooling the body by filling a brassmind, however, one could resist higher temperatures; heat would flow to the colder region of their body and then get stored in the brassmind, allowing one to become immune to fire and other sources of intense heat by carefully regulating the rate at which one filled their metalmind.
-
-### Compounding
-It is difficult, but possible, for a brass [[Compounding\|Compounder]] to create so much warmth that they can hurt themselves in the process.
-
-## Hemalurgic Use
-When used as a [[Hemalurgic\|Hemalurgic]] spike, brass steals Cognitive Feruchemical powers ([[Zinc\|zinc]], brass, [[Copper\|copper]], and [[Bronze\|bronze]]).
-
-## Fabrial Use
-A [[Fabrial\|fabrial]] with a brass cage will reduce the strength of the fabrial's function.
-
-## Trivia
-Brandon made a mistake while writing [[The Well of Ascension\|The Well of Ascension]]. The Feruchemical effects of brass and [[Electrum\|electrum]] were to be swapped. By the time he realized this was forgotten, however, the book was already in print. Brandon didn't want to retcon this, so the effect of brass was canonized.
+3 Uso Hemalúrgico. [[#Uso Hemal.C3.BArgico]] 
+4 Uso en Fabriales. [[#Uso en Fabriales]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Brass
+## Uso alomántico
+Un [[Brumoso\|brumoso]] de latón se conoce como **aplacador**. La alomancia emocional no es control mental, pero permite al practicante influir en las emociones de quienes lo rodean. Los efectos pueden estar dirigidos a un individuo o grupo específico y pueden enfocarse en emociones específicas. Es más fácil usar como objetivo una dirección específica que a un individuo concreto.
+Aplacar emociones puede utilizarse para disminuir la fatiga, el miedo o la felicidad de alguien. Puede conseguir muchas de las mismas cosas que el [[Cinc\|encender]] al aplacar todas las emociones excepto las específicas. Las emociones extremas en el objetivo interferirán con la alomancia emocional. También puede afectar a los animales, pero requiere una cierta cantidad de sapiencia. La alomancia emocional también tiene un efecto más convincente sobre los [[Sinvida\|sinvida]] en comparación con una persona normal. Los aplacadores pueden afectar a los Ritmos de un [[Cantor\|cantor]] y pueden ser capaces de amortiguar la influencia de [[Odium\|Odium]]. Un aplacador no puede afectarse a sí mismo.
+Un aplacamiento muy poderoso puede poner a una criatura hemalúrgica bajo control total y, una vez controlada, ya no es necesario. Esto se puede lograr con un solo [[Alomancia\|nacido de la bruma]] o [[Hemalurgia\|hemalurgico]] quemando [[Duraluminio\|duraluminio]] y latón juntos, una combinación de un [[Nicrosil\|nicroestallante]] y un aplacador, o un grupo de aplacadores y/o encendedores trabajando juntos, aunque en los primeros días del [[Imperio Final\|Imperio Final]], cuando la alomancia era mucho más poderosa, un solo aplacador podía hacerlo.
+El aplacamiento dentro de una [[Bendaleo\|burbuja de velocidad]] puede generar los mismos efectos que quemar duraluminio, y puede aun apuntarse sin los obstaculos normales al salir de una burbuja de tiempo. El aplacamiento puede detenerse con un sombrero forrado de [[Aluminio\|aluminio]] y posiblemente con aluminio sobre el pecho del aplacador. El casco de una [[Armadura esquirlada\|armadura esquirlada]] también es útil contra él.
+Después del [[Catacendro\|Catacendro]], es ilegal que una empresa utilice la alomancia emocional para influir en los clientes. Esta fue una de las disposiciones del [[Acuerdo Alom%C3%A1ntico del 94\|Acuerdo Alomántico del 94]]. Hay evidencia de consejería emocional consensuada.
+
+### Savantismo
+Los efectos del savantismo son menos debilitantes para los aplacadores comparado con el resto de metales.
+
+## Uso feruquímico
+Un [[Ferrin\|ferrin]] de latón se conoce como **alma de fuego**. El latón se usa para almacenar calor. Mientras llena una mente de latón, un alma de fuego será calentado. El cuerpo de un alma de fuego, al igual que el de un [[Hierro\|ajustador]], es capaz de resistir las temperaturas más altas de su feruquimia, pero no es inmune al calor intenso en general. Sin embargo, enfriando el cuerpo llenando una mente de latón, uno podría resistir temperaturas más altas; el calor fluiría a la región más fría de su cuerpo y luego se almacenaría en la mente de latón, lo que le permitiría a uno volverse inmune al fuego y otras fuentes de calor intenso regulando cuidadosamente la velocidad a la que se llena la mente de metal.
+
+### Composición
+Es difícil, pero posible, para un [[Composici%C3%B3n\|componedor]] de latón crear tanto calor que pueden lastimarse ellos mismos durante el proceso.
+
+## Uso Hemalúrgico
+Cuando se usa como un clavo [[Hemalurgia\|hemalúrgico]], el latón roba poderes cognitivos feruquimicos (, latón, [[Cobre\|cobre]] y [[Bronce\|bronce]]).
+
+## Uso en Fabriales
+Un [[Fabrial\|fabrial]] con una jaula de latón reducirá la fuerza de la función del fabrial.
+
+## Curiosidades
+Brandon cometió un error al escribir *[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*. Los efectos feruquímicos del latón y el [[Electro\|electro]] se debían intercambiar. Sin embargo, cuando se dio cuenta de que se había olvidado de esto, el libro ya estaba impreso. Brandon no quería retomar o adicionarlo, por lo que el efecto del latón fue canonizado.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
+|-|-|
+|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
+|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
+|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
+|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] ·  · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · [[Duraluminio\|Duraluminio]]|
+|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Brass

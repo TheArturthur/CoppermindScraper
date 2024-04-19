@@ -1,21 +1,37 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Ulba**|
 |-|-|
-|**Family**|
-|**Spouse**|[[Lem\|Lem]]|
-|**Children**|[[Tress\|Tress]], son|
-|**Residence**|[[Diggen's Point\|Diggen's Point]]|
-|**Homeworld**|[[Lumar\|Lumar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Cónyuge**|[[Lem\|Lem]]|
+|**Hijos**|[[Trenza\|Trenza]], hijo|
+|**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
+|**Mundo natal**|[[Lumar\|Lumar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Everything is extraordinary about you, Tress. That's why nothing in particular stands out.*”
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+
+>“*Tú lo tienes todo extraordinario, Trenza. Por eso no hay nada en particular que destaque.*”
 \-Ulba[1]
 
 
-**Ulba** is a citizen of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]]. She is [[Tress\|Tress']] mother. Ulba is kind, practical and supportive.
-To make money, Ulba spends her days knitting socks and selling them to sailors. Her husband [[Lem\|Lem]] helps her with this task. However, the cost of the yarn means this is not a very profitable job. Ulba is a capable seamstress and alters a spare inspector's uniform to fit Tress.
-Ulba cares deeply about her family and wants to keep them safe--she used to give up part of her meals to her children, and as a result was very thin until Tress took over buying and preparing food for the family. She is physically affectionate with Tress. She initially thinks Tress's plan to save [[Charlie\|Charlie]] is "lunacy," but once she is convinced by Tress and Lem, she is supportive and helpful. She takes notes on the ships that enter and leave, and studies how outgoing shipments are searched to find a way for Tress to escape.
-Ulba joined Tress on the *Two Cups* following the king's declaration that the citizens of Diggen's Point are permitted to leave.
+**Ulba** es una ciudadana de [[Punta de Diggen\|Punta de Diggen]] en [[Lumar\|Lumar]]. Es la madre de [[Trenza\|Trenza]]. Ulba es amable, práctica y comprensiva.
+Para ganar dinero, Ulba se pasa el día tejiendo calcetines y vendiéndolos a los marineros. Su marido [[Lem\|Lem]] la ayuda en esta tarea. Sin embargo, el coste del hilo hace que no sea un trabajo muy rentable. Ulba es una hábil costurera y modifica un uniforme de inspectora de repuesto para adaptarlo a Trenza.
+Ulba se preocupa mucho por su familia y quiere mantenerla a salvo: solía ceder parte de sus comidas a sus hijos y, como resultado, estaba muy delgada hasta que Trenza se hizo cargo de comprar y preparar la comida para la familia. Se muestra físicamente cariñosa con Trenza. Al principio piensa que el plan de Trenza para salvar a [[Charlie\|Charlie]] es una «locura», pero una vez convencida por esta y Lem, se muestra comprensiva y colaboradora. Toma notas de los barcos que entran y salen y estudia cómo se registran los cargamentos salientes para encontrar una forma de que Trenza escape.
+Ulba se unió a Trenza en el *[[Dos tazas\|Dos tazas]]* tras la declaración del rey de que los ciudadanos de Punta de Diggen pueden marcharse.
+
+## Notas
+
+|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
+|-|-|
+|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
+|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
+|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
+|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Jofwu (talk) 15:10, 16 January 2023 (UTC)
 
 
-
-https://coppermind.net/wiki/Ulba
+https://es.coppermind.net/wiki/Ulba

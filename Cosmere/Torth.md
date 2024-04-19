@@ -1,20 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Torth**|
 |-|-|
-|**Profession**|Soldier|
-|**Ethnicity**|[[Darksider\|Darksider]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Soldado|
+|**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Torth** is an [[Elis\|Elisian]] soldier who traveled with Duchess [[Khrissalla\|Khrissalla's]] expedition to [[Dayside\|Dayside]], along with Captain [[Deral\|Deral]] and his unnamed lieutenant, [[Flennid\|Flennid]] and another unnamed soldier. His fate is unknown.
+**Torth** es un soldado [[Elis\|elisiano]] que viajó con la expedición de la duquesa [[Khrissalla\|Khrissalla]] al [[Lado Diurno\|Lado Diurno]], junto con el capitán [[Deral\|Deral]] y su teniente sin nombre, [[Flennid\|Flennid]] y otro soldado sin nombre. Su destino es desconocido.
 
-## Appearance
-Torth wears tricorne hat of the Elisian military and the gray jacket of an Elisian soldier. His pants are khaki and paired with brown calf-length boots.
+## Apariencia
+Torth lleva un sombrero tricornio del ejército elisano y la chaqueta gris de soldado. Sus pantalones son de color caqui y se combinan con botas marrones hasta la pantorrilla.
 
-## History
-On deck of the ship after passing through the [[Border Ocean\|Terminal Storm]], Professor [[Cynder\|Cynder]] notices Flennid checking his firearm openly while chatting with Private Torth and the third soldier. [[Baon\|Baon]] admonishes the group that they were ordered to keep their firearms hidden. When they arrive in the [[Kerztian\|Kerztian]] port of [[Dosha-Har'Ken\|Dosha-Har'Ken]], Flennid and Torth disembark, leaving the third soldier on the ship to assist in offloading their luggage while Private Torth guards the offloaded supplies on the dock. 
-While travelling the Kerla, near [[Esh'Ker'Losh\|Esh'Ker'Losh]], Flennid warns Private Torth to watch for trouble from the [[DaiKeen\|warriors]] they pass.
-Upon arriving at the [[Diem\|Diem's]] tents near Mount KraeDa, Flennid and Torth ride ahead because of the possibility of finding water—instead they discovered the massacre of the [[Sand master\|sand masters]]. When Torth showed [[Daazk\|Daazk]] one of the sashes, Daazk panicked and fled, shouting the Kerztian word for [[Sand master\|sand masters]]—Ry'Kensha. Flennid, not understanding the situation, thought he was yelling to summon an ambush and shot him in the back as he rode away. Baon orders Torth to assist Flennid in recovering Daazk's body to bring back to the tents. While Khriss and Baon are in the tent inventorying supplies, Flennid and Torth stole the [[Tonk\|tonk]] that carried the party's water and food, then fled back in the direction of the port.
+## Historia
+En la cubierta de la nave tras atravesar la [[Oc%C3%A9ano Lim%C3%ADtrofe\|tormenta limítrofe]], el profesor [[Cynder\|Cynder]] observa que Flennid revisa su arma de fuego abiertamente mientras charla con el soldado Torth y el tercer soldado. [[Baon\|Baon]] amonesta al grupo diciéndoles que se les ordenó mantener sus armas de fuego ocultas. Cuando llegan al puerto de [[Kerzta\|Kerzta]] de [[Dosha-Har'Ken\|Dosha-Har'Ken]], Flennid y Torth desembarcan, dejando al tercer soldado en el barco para ayudar a descargar su equipaje mientras Torth vigila los suministros descargados en el muelle. 
+Mientras viaja por el Kerla, cerca de [[Esh'Ker'Losh\|Esh'Ker'Losh]], Flennid advierte al soldado Torth que esté atento a los problemas de los [[DaiKeen\|guerreros]] con los que se cruzan.
+Al llegar a las tiendas del [[Diem\|Diem]] cerca del monte KraeDa, Flennid y Torth cabalgan por delante ante la posibilidad de encontrar agua, pero en su lugar descubren la masacre de los [[Maestros de la arena\|maestros de la arena]]. Cuando Torth mostró a [[Daazk\|Daazk]] uno de los fajines, Daazk entró en pánico y huyó, gritando la palabra kerztiana para [[Maestro de la arena\|maestro de la arena]]-Ry'Kensha. Flennid, sin entender la situación, pensó que estaba gritando para invocar una emboscada y le disparó por la espalda mientras se alejaba cabalgando. Baon ordena a Torth que ayude a Flennid a recuperar el cuerpo de Daazk para llevarlo de vuelta a las tiendas. Mientras Khriss y Baon están en la tienda haciendo inventario de los suministros, Flennid y Torth roban el [[Tonk\|tonk]] que transportaba el agua y la comida del grupo, y luego huyen en dirección al puerto.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
 
 
 
-https://coppermind.net/wiki/Torth
+https://es.coppermind.net/wiki/Torth

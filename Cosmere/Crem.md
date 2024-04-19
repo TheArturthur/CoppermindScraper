@@ -1,51 +1,71 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Crem**|
 |-|-|
-|by  Marie Seeberger |
-|**Type**|Substance|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|Sustancia|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Crem** is a type of sediment on [[Roshar\|Roshar]] carried by [[Highstorm\|highstorm]] rains.
+El **crem** es un tipo de sedimento de [[Roshar\|Roshar]] que transporta la lluvia de las [[Alta tormenta\|altas tormentas]].
 
-## Contents
+## Sumario
 
-1 Appearance and Properties
-2 Applications
+1 Apariencia y propiedades. [[#Apariencia y propiedades]] 
+2 Aplicaciones. [[#Aplicaciones]] 
 
-2.1 Ecology
-2.2 Human uses
-
-
-3 In culture
-4 Trivia
-5 Notes
+2. [[#Ecolog.C3.ADa]] 
+2. [[#Aplicaciones humanas]] 
 
 
-## Appearance and Properties
-Crem is a light brown, sediment-like substance. It falls along with the heavy rains during [[Highstorm\|highstorms]], while the lighter rainfall during the [[Weeping\|Weepings]] does not carry it. It gives stormwater a metallic taste. Consuming it can cause sickness, making highstorm water unsafe for humans to drink; however, after about a day, it will settle on the bottom of the container, leaving clean water above. When dried, it can turn into dust. Water mixed with crem is known as **cremwater**. **Cremslime** - a thicker mud formed of water mixed with crem - has an unpleasant stench. Densely-packed, accumulated crem forms **cremstone**, which is tannish brown in color.
-Highstorms cause crem buildup on all structures, whether unnatural or natural, such as buildings, plateaus, and even corpses. Unless cleaned regularly, everything on Roshar eventually becomes covered with crem, and any overhangs will grow crem stalactites. In fact, the entire continent is slowly "migrating" leeward, thanks to the highstorms depositing crem as they travel.
-Despite being above the storms, even [[Urithiru\|Urithiru]] has some crem built up on the [[Oathgate\|Oathgate]] platforms. This is because the height of highstorm varies periodically, sometimes being higher than Urithiru.
-Crem is currently influenced by [[Cultivation\|Cultivation]], despite predating her.
-
-## Applications
-### Ecology
-Crem is utilized by native [[Roshar\|Rosharan]] flora as source of nutrients, as well as structural reinforcement. [[Jella\|Jella]] trees absorb crem to strengthen their wood against [[Highstorm\|highstorms]]. [[Shalebark\|Shalebark]] feeds on crem, and [[Lavis\|lavis]] polyps grow from seed-crem (which can be presumed to be crem mixed with lavis seeds).
-Rosharan fauna derive the minerals used to grow [[Gemheart\|gemhearts]] from drinking crem-infused water.
-
-### Human uses
-Crem is one of [[Roshar\|Roshar's]] most versatile materials. Historically, humans have used it in construction, in the form of bricks. **Crembrick** buildings can be found even in the present day, and some cities, such as [[Kharbranth\|Kharbranth]], have walls plastered with crem for insulation. [[Singer\|Singers]], too, utilize crem and stone as building materials.
-To filter crem out of rainwater, the people of Roshar use storm cisterns, which can do so automatically. The crem filtered out of water is often used as clay. Among others, the people of [[Sesemalex Dar\|Sesemalex Dar]] are renowned for their expert crem pottery.
-Crem is also utilized in farming. When growing [[Lavis\|lavis]], crem is added as fertilizer. It's also used when deworming fields to close the holes after removing worms, so that no new pests can infest the field again.
-In scholarship, crem can be used for geological and archaeological dating, by measuring the strata and the crem buildup. However, this isn't practical in areas that experience strong winds, as crem pools unevenly there.
-
-## In culture
-Crem is a go-to derogatory term for most Rosharans, and features in a number of insults, such as "cremstained", "crem-crusted" or "the crem of something". The small crustaceans of Roshar are collectively called [[Cremling\|cremlings]]; this, too, is used as an insult. This being said, while it is generally considered a nuisance, [[Rysn\|Rysn]] finds crem superior to [[Shinovar\|Shinovar]] soil, if only slightly.
-One of Roshar's "where babies come from" myths claims that they are crafted from crem clay.
-
-## Trivia
-The word "crem" is a transliteration, rather than translation, of the Rosharan word for it.
+3 En la cultura. [[#En la cultura]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Crem
+## Apariencia y propiedades
+El crem es una sustancia marrón claro, parecida a los sedimentos. Cae junto con las fuertes lluvias durante las [[Alta tormenta\|altas tormentas]], mientras que las lluvias más ligeras de los [[Llanto\|Llantos]] no lo arrastran. Da al agua de las tormentas un sabor metálico. Su consumo puede causar enfermedades, lo que hace que el consumo de agua de las altas tormentas no sea seguro para los humanos, pero después de un día, se deposita en el fondo del recipiente, lo que deja el agua limpia por encima. Cuando se seca, puede convertirse en polvo. El agua mezclada con crem se conoce como **aguacrem**. El **limo de crem** (un barro más espeso formado por agua mezclada con crem) tiene un olor desagradable. El crem acumulado y densamente empaquetado forma la **piedra de crem**, de color marrón tostado.
+Las altas tormentas provocan la acumulación de crem en todas las estructuras, ya sean naturales o no, como edificios, mesetas e incluso cadáveres. A menos que se limpie con frecuencia, todo en Roshar acaba cubriéndose de crem, y en cualquier saliente crecerán estalagmitas de crem. De hecho, todo el continente está «migrando» lentamente a sotavento, gracias a que las altas tormentas depositan crem en su recorrido.
+A pesar de estar por encima de las tormentas, incluso [[Urithiru\|Urithiru]] tiene algo de crem acumulado en las plataformas de las [[Puerta Jurada\|Puertas Juradas]]. Esto se debe a que la altura de la alta tormenta varía periódicamente, siendo a veces más alta que Urithiru.
+En la actualidad, el crem está influenciado por [[Cultivaci%C3%B3n\|Cultivación]], a pesar de ser anterior a ella.
+
+## Aplicaciones
+### Ecología
+La flora nativa [[Roshar\|roshariana]] utiliza el crem como fuente de nutrientes y como refuerzo estructural. Los árboles de [[Jella\|jella]] absorben el crem para reforzar su madera contra las [[Alta tormenta\|altas tormentas]]. El [[Cortezapizarra\|cortezapizarra]] se alimenta de crem y los pólipos de [[Lavis\|lavis]] crecen a partir de las semillas de crem (se puede suponer que son crem mezcladas con semillas de lavis).
+La fauna roshariana obtiene los minerales utilizados para cultivar [[Gema coraz%C3%B3n\|gemas corazón]] al beber agua infundida con crem.
+
+### Aplicaciones humanas
+El crem es uno de los materiales más versátiles de [[Roshar\|Roshar]]. Históricamente, los humanos lo han utilizado en la construcción, en forma de ladrillos. Los **edificios de crem** pueden encontrarse incluso en la actualidad, y algunas ciudades, como [[Kharbranth\|Kharbranth]], tienen las paredes enyesadas con crem para su aislamiento. Los [[Cantor\|cantores]] también utilizan el crem y la piedra como materiales de construcción.
+Para filtrar el crem del agua de lluvia, los habitantes de Roshar utilizan cisternas para tormentas, que pueden hacerlo de forma automática. A menudo, el crem filtrado del agua se utiliza como arcilla. Entre otros, los habitantes de [[Sesemalex Dar\|Sesemalex Dar]] son famosos por su experta alfarería de crem.
+El crem también se utiliza en la agricultura. Cuando se cultiva [[Lavis\|lavis]], se añade crem como fertilizante. También se utiliza cuando se desparasitan los campos para cerrar los agujeros después de eliminar las lombrices, de modo que no puedan volver a infestar el campo nuevas plagas.
+En la erudición, el crem puede utilizarse para la datación geológica y arqueológica, mediante la medición de los estratos y la acumulación de crem. Sin embargo, esto no es práctico en las zonas que experimentan fuertes vientos, ya que allí el crem se acumula de forma desigual.
+
+## En la cultura
+Para la mayoría de los rosharianos, crem es un término despectivo y lo encontramos en algunos insultos, como «cremstained», «estar repleto de crem» o «ser crem». A los pequeños crustáceos de Roshar se les llama, en conjunto, [[Cremlino\|cremlinos]], término que también es utilizado como un insulto. Dicho esto, y a pesar de que generalmente el crem se considera una molestia, [[Rysn\|Rysn]] cree que el crem es mejor que la tierra de [[Shinovar\|Shinovar]], aunque solo sea ligeramente.
+Uno de los mitos de Roshar sobre «de dónde vienen los bebés» afirma que están hechos de arcilla de crem.
+
+## Curiosidades
+La palabra «crem» es una transliteración, más que una traducción, de su término roshariano.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Crem

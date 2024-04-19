@@ -1,259 +1,282 @@
+
+
 |**Kharbranth**|
 |-|-|
-|by  Isaac Stewart |
-|**Ethnicity**|Kharbranthian|
-|**Ruled by**|Queen [[Savrahalidem\|Savrahalidem]]|
-|**Region**|[[Frostlands\|Frostlands]]|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Etnia**|Kharbranthianos|
+|**Gobernado por**|Reina [[Savrahalidem\|Savrahalidem]]|
+|**Región**|[[Tierras Heladas\|Tierras Heladas]]🐱︎|
+|**Mundo**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Kharbranth is one of the most sheltered major cities in the world, and the bells are a symbol of that. It’s said they were first erected to warn that a highstorm was blowing, since the winds were so soft that people didn’t always notice.*”
-\-The myth behind Kharbranth's nickname, the City of Bells[1]
+>“*Kharbranth es una de las ciudades mejor protegidas del mundo, y las campanas son un símbolo de eso. Se dice que las levantaron por primera vez para advertir que soplaba una alta tormenta, ya que los vientos eran tan suaves que la gente no siempre se daba cuenta.*”
+\-El mito tras el apodo de Kharbranth, la Ciudad de las Campanas[1]
 
 
-**Kharbranth**, the City of Bells, is an independent city-state on [[Roshar\|Roshar]], ruled by Queen [[Savrahalidem\|Savrahalidem]]. It is one of the five [[Vorin\|Vorin]] nations and home to the [[Palanaeum\|Palanaeum]], the largest library on Roshar. Kharbranth is known for the quality of its hospitals, and people come from all over the world to study medicine from Kharbranth's surgeons. The Kharbranthian royal colors are burnt orange and white, and have become synonymous around Roshar as the colors of surgeons, medicine, and healing.
+**Kharbranth**, la Ciudad de las Campanas, es una ciudad-estado independiente en Roshar, gobernada por la reina [[Savrahalidem\|Savrahalidem]]. Es una de las cinco naciones [[Vorinismo\|vorin]] y hogar del [[Palaneo\|Palaneo]], la biblioteca más grande de Roshar. Kharbranth es famosa por la calidad de sus hospitales y la gente acude a la ciudad desde todas las partes del mundo para estudiar medicina de los cirujanos de Kharbranth. Los colores reales kharbranthianos son el naranja oscuro y el blanco, y se han convertido en todo Roshar en los colores asociados a los cirujanos, la medicina y la sanación.
 
-## Contents
+## Sumario
 
-1 Geography
-2 Landmarks
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Lugares de interés. [[#Lugares de inter.C3.A9s]] 
 
-2.1 The Conclave
-2.2 The Palanaeum
-2.3 Kharbranthian Hospitals
-2.4 The Great Concourse of Kharbranth
-2.5 School of Storms
+2. [[#El C.C3.B3nclave]] 
+2. [[#El Palaneo]] 
+2. [[#Hospitales kharbranthianos]] 
+2. [[#El Gran C.C3.B3nclave de Kharbranth]] 
+2. [[#Escuela de las Tormentas]] 
 
 
-3 History
+3 Historia. [[#Historia]] 
 
-3.1 Origins and Early History
-3.2 Tales of Surgeons
-3.3 The Diagram and the Death Rattles
-3.4 Scholar and Apprentice
-3.5 Politics on the World Stage
+3. [[#Or.C3.ADgenes e historia temprana]] 
+3. [[#Historias de cirujanos]] 
+3. [[#El Diagrama y los susurros de muerte]] 
+3. [[#Erudita y aprendiz]] 
+3. [[#Pol.C3.ADtica en el escenario mundial]] 
 
 
-4 Culture
+4 Cultura. [[#Cultura]] 
 
-4.1 Social Structure
-4.2 Religion
-4.3 Language
-4.4 Economy
+4. [[#Estructura social]] 
+4. [[#Religi.C3.B3n]] 
+4. [[#Idioma]] 
+4. [[#Econom.C3.ADa]] 
 
 
-5 Politics
+5 Política. [[#Pol.C3.ADtica]] 
 
-5.1 Government
+5. [[#Gobierno]] 
 
-5.1.1 King Taravangian
-5.1.2 Queen Savrahalidem
+5. [[#El Rey Taravangian]] 
+5. [[#La reina Savrahalidem]] 
 
 
-5.2 Military
-5.3 Foreign Relations
-5.4 The Diagram
+5. [[#Ej.C3.A9rcito]] 
+5. [[#Relaciones exteriores]] 
+5. [[#El Diagrama]] 
 
 
-6 Notable Residents
-7 Trivia
-8 See Also
-9 Notes
+6 Residentes destacados. [[#Residentes destacados]] 
+7 Curiosidades. [[#Curiosidades]] 
+8 Ver también. [[#Ver tambi.C3.A9n]] 
+9 Notas. [[#Notas]] 
 
 
-## Geography
-For more images, see [[Kharbranth/Gallery\|/Gallery]].
-Kharbranth is located on the western coast of the [[Frostlands\|Frostlands]], within a natural harbor that opens onto the [[Tarat Sea\|Tarat Sea]]. One of the most sheltered cities on Roshar, Kharbranth is naturally protected on both its eastern and western fronts. An honorspren stronghold, [[Unyielding Fidelity\|Unyielding Fidelity]], is situated close to Kharbranth within the [[Cognitive Realm\|Cognitive Realm]].
+## Geografía
+Para más imágenes, ver [[Kharbranth/Galer%C3%ADa\|/Galería]].
+Kharbranth se sitúa en la costa occidental de las [[Tierras Heladas\|Tierras Heladas]], en un puerto natural que se abre al [[Mar de Tarat\|mar de Tarat]]. Es una de las ciudades mejor resguardadas de Roshar ya que está protegida de forma natural tanto en su frente oriental como occidental. Un bastión honorspren, [[Fidelidad Inflexible\|Fidelidad Inflexible]], está situado cerca de Karbranth dentro del [[Reino Cognitivo\|Reino Cognitivo]].
 
- by  Akhil Nasar  The City of Bells
-Residing within a natural wedge-shaped lait that opens onto the sea, Kharbranth is built on unbroken stone and extends down the side of and into the surrounding mountain. It is believed by some in the [[Ardentia\|ardentia]] that Kharbranth was built upon a cymatic pattern, however, it is currently unknown as to whether this claim is true. While the city itself is well protected from the [[Highstorm\|highstorm]], the mountain shielding it from the east bears the full force of the storm, leading to occasional cave-ins within the [[Conclave\|Conclave]] and rockslides on the stormside of the mountain. Kharbranth is protected from the Everstorm due to the city's slight southerly orientation.
-Bells can be found in large numbers throughout the city, supposedly to warn of the passing highstorm, which as story tells it, is too gentle to notice otherwise. The ringing of these bells can be heard even deep within the Conclave. The regularity and presence of these bells have earned Kharbranth the nickname of the 'City of Bells'. Clock bells are rung on the hour, through the day.
-Famous for its crowds, the streets of Kharbranth are often packed during both the day and at night. The Ralinsa, the main thoroughfare made up of a series of switchbacks, connects the port and docks with the Conclave at the top of the mountain. The steepness of the pathways makes it difficult to use [[Chull\|chull]] pulled carts to transport goods, and instead merchants will hire workers to carry their products. Rickshaws and palanquins are available to hire for transport throughout the city.
-Buildings are constructed from either [[Crem\|crem]], daub, mud, or a combination of all three, blocky in nature, and either built on top of or carved out of, the mountain. Each structure is painted in vibrant colors, with each color symbolizing the function of the building. Most buildings are either red or orange with fewer being painted blue or yellow. Violet colored buildings signify tailors or cloth merchants, while food can be purchased in green buildings. Homes are painted in pastel colors and use different patterns than commercial buildings. Kharbranth is a busy city, with stores and venues operating well into the later hours of the evening.
-The Kharbranthian plumbing system, which relies on gravity to move water through pipes, has become quite popular in the Alethi warcamps. The system is used within the Conclave and is combined with heatrials to produce running hot water.
+  La Ciudad de las Campanas
+Construida en un lait natural en forma de cuña con un lado abierto que desemboca en el mar, Kharbranth está construida sobre piedra intacta y se extiende por la ladera y hacia la montaña circundante. Algunos dentro del [[Vorinismo\|fervor]] creen que fue construida siguiendo un patrón cimático, sin embargo se desconoce si esta afirmación es cierta. Si bien la ciudad en sí está bien resguardada de las [[Alta tormenta\|altas tormentas]], la montaña que la protege del este sufre los embates de las tormentas, lo que provoca derrumbes ocasionales dentro del [[C%C3%B3nclave\|Cónclave]] y desprendimiento de rocas en el lado de la montaña donde incide la tormenta. Kharbranth está protegida de la tormenta eterna debido a la leve orientación meridional de la ciudad.
+Numerosas campanas pueden verse en toda la ciudad, supuestamente para advertir del paso de las altas tormentas, ya que como cuentan las historias, son demasiado suaves para notar su presencia. El repique de las campanas puede escucharse incluso en las profundidades del Cónclave. La uniformidad y presencia de estas campanas le ha concedido a Kharbranth el apodo de «Ciudad de las Campanas». A lo largo del día, las campanas marcan cada hora.
+Famosa por sus multitudes, las calles de Kharbranth a menudo están abarrotadas de gente, tanto de día como de noche. La Ralinsa, la avenida principal formada por una sucesión de curvas, conecta el puerto y los muelles con el Cónclave, en la cima de la montaña. La inclinación de los caminos dificulta el uso de carros tirados por [[Chull\|chull]] para el transporte de mercancías y en su lugar los mercaderes contratan a trabajadores para transportar sus productos. Pueden alquilarse palanquines o porteadores para desplazarse por la ciudad.
+Los edificios están hechos de [[Crem\|crem]], barro, adobe o una combinación de los tres, en estructuras en forma de bloque, y se construyen sobre la montaña o se excavan en ella. Estas estructuras están pintadas en colores vivos, y cada uno de ellos representa la función del edificio. La mayoría de estos son rojos o naranjas, y solo unos pocos son azules o amarillos. Los edificios de color violeta indican que en el edificio podemos encontrar un sastre o un mercader de telas, mientras que la comida puede comprarse en edificios de color verde. Las viviendas están pintadas con colores pastel y utilizan patrones diferentes a los que señalan edificios comerciales. Kharbranth es una ciudad bulliciosa, con tiendas y recintos abiertos hasta altas horas de la noche.
+El sistema de fontanería de Kharbranth, que se basa en la gravedad para desplazar el agua a través de las tuberías; se ha vuelto muy popular en los campamentos de guerra alezi. Este sistema se utiliza dentro del Cónclave combinado con fabriales calentadores para producir agua caliente corriente.
 
-## Landmarks
-### The Conclave
-For more information, see [[Conclave\|Conclave]].
-The [[Conclave\|Conclave]] can be located at the top of the city and is built down into the surrounding mountain. The Conclave serves as both an official building and a residential abode, with a section of the building serving as the king's palace, and another as a residential wing for guests. The Palanaeum can be located within the Conclave.
-Deep within the Conclave, there were once secret hospitals that were run by Taravangian and the Diagram. Terminally ill patients, as well as the extremely poor, were taken to these hospitals to be killed, in the hopes that they will deliver a [[Death Rattle\|Death Rattle]] as they die, which could be used to extrapolate the Diagram. These hospitals were shut down shortly before the betrayal of Taravangian in 1175, in order for the city to avoid facing retribution for its leader's actions.
+## Lugares de interés
+### El Cónclave
+Para más información, ver [[C%C3%B3nclave\|Cónclave]].
+El [[C%C3%B3nclave\|Cónclave]] está ubicado en la parte alta de la ciudad y está construido hacia dentro de la montaña. Se trata de un edificio que sirve tanto como edificio oficial como residencia, y en la que una parte está destinada al palacio real y la otra se utiliza como zona de alojamiento para huéspedes. Dentro del Cónclave, podemos encontrar el Palaneo.
+En las profundidades del Cónclave había hospitales secretos dirigidos por Taravangian y el Diagrama. Los enfermos terminales, así como aquellos extremadamente pobres, eran llevados a este hospital con la esperanza de obtener de ellos un [[Susurro de muerte\|susurro de muerte]] al morir, que podía usarse para ampliar el Diagrama. Se cerraron poco antes de la traición de Taravangian en 1175, para evitar que la ciudad sufriera represalias por las acciones de sus líderes.
 
-### The Palanaeum
- by  Marie Seeberger  [[Shallan\|Shallan]] and [[Jasnah\|Jasnah]] studying in the [[Palanaeum\|Palanaeum]]
-For more information, see [[Palanaeum\|Palanaeum]].
-The [[Palanaeum\|Palanaeum]] is the largest known library on Roshar and contains over seven hundred thousand texts. Entrance to the Palanaeum is expensive, with the funds collected being used to finance Kharbranth's hospitals. The Palanaeum also doubles as Kharbranth's royal treasury and houses the city's store of emeralds. The scholars of the Palanaeum are involved in the translation of the Dawnchant. Following the Everstorm, the Palanaeum saw a large increase in requests for information on the [[Voidbringers\|Voidbringers]].
+### El Palaneo
+  <<Shallan\|Shallan>> y <<Jasnah\|Jasnah>> estudiando en el <<Palaneo\|Palaneo>>
+Para más información, ver [[Palaneo\|Palaneo]].
+El [[Palaneo\|Palaneo]] es la biblioteca más grande conocida en Roshar y tiene alrededor de setecientos mil textos. Acceder a él es caro, y lo que se recauda se destina a financiar los hospitales de Kharbranth. El Palaneo también funciona como el tesoro real de Kharbranth y alberga el almacén de las esmeraldas de la ciudad. Los eruditos del Palaneo trabajan en la traducción del canto del alba. Tras la aparición de la tormenta eterna, el Palaneo experimentó un aumento en las solicitudes de información sobre los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
 
-### Kharbranthian Hospitals
->“*You’ll need to have Mother read to you about some of these newer medications—they’re discovering some remarkable things at the hospitals in Kharbranth.*”
-\-Kaladin telling Lirin about the advances in Kharbranth's medicine[17]
+### Hospitales kharbranthianos
+>“*Madre tendrá que leerte las indicaciones de las medicinas más nuevas, porque están haciendo descubrimientos bastante importantes en los hospitales de Kharbranth.*”
+\-Kaladin explicándole a Lirin los avances de la medicina de Kharbrant[17]
 
 
-Kharbranth's medical practices are well known throughout eastern Roshar, and at least parts of western Roshar, with the city's colors and banner being synonymous with surgeons and the idea of healing. This reputation is well earned, with Kharbranthian surgeons providing unprompted aid following the [[Battle of Vedenar\|Battle of Vedenar]] (1173) as well as both before and after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] (1174).
-Kharbranth is famous for both the number and quality of its hospitals, with medical care being available for both physical and psychological illnesses. These hospitals, also double as research facilities where there are ongoing efforts to formulate new medication and methods of disease prevention, including the invention of attenuated vaccinations.
-Funding for these hospitals is provided by the entrance fee to the Palanaeum. Any who require assistance will be treated, regardless of eye color, social ranking, or nationality. During his time as king, Taravangian is a frequent visitor to the hospitals and is warmly welcomed by patients during their stay. During his visits, he will stop and speak with each patient individually, checking in on their care and wellbeing.
-Private patient rooms, along with larger wards, can be found in some, if not all, of Kharbranth's hospitals. The wards are segregated by gender and resemble large hallways. Partitions can be set up around each bed to provide privacy for each patient. The hospital that Shallan is initially admitted to after faking suicide is run by an ardent named [[Mungam\|Mungam]].
+La sanidad de Kharbranth es conocida en todo el Roshar oriental, y también en alguna zonas del Roshar occidental, siendo los colores de la ciudad y su estandarte asociados a los cirujanos y al concepto de sanación. Este prestigio es merecido, con cirujanos kharbranthianos proporcionando ayuda de forma espontánea tras la [[Jah Keved\|batalla de Vedenar]] (1173) así como antes y después de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] (1174).
+Kharbranth es famosa tanto por la cantidad como por la calidad de sus hospitales, con atención médica tanto para enfermedades físicas como psicológicas. Estos hospitales también funcionan como centros de investigación, donde se llevan a cabo estudios para formular nuevos medicamentos y desarrollar métodos de prevención de enfermedades, incluido el descubrimiento de las vacunas atenuadas.
+Estos hospitales se financian con las cuotas de acceso al Palaneo. Cualquier persona que necesite asistencia recibirá tratamiento, independientemente del color de ojos, el estatus social o la nacionalidad. Durante su reinado, Taravangian visita con frecuencia los hospitales, y es recibido por los pacientes de forma calurosa. Durante sus visitas, se detiene a hablar con cada uno de los pacientes, asegurándose de que se les atiende adecuadamente.
+En la mayoría de los hospitales de Kharbranth podemos encontrar habitaciones privadas para pacientes, junto con alas dedicadas más grandes. Los pabellones están separados por géneros y se extienden en forma de pasillos grandes. Tienen separadores que se pueden colocar alrededor de cada cama para dar privacidad a los pacientes. El hospital en el que ingresan a Shallan tras fingir su suicidio está dirigido por una fervorosa llamada [[Mungam\|Mungam]].
 
-### The Great Concourse of Kharbranth
-The [[Great Concourse of Kharbranth\|Great Concourse of Kharbranth]] is a training school for surgeons and healers, which offers the best medical training available. Tuition to the Concourse is expensive and there are strict and rigorous entrance exams, which can be taken by those over the age of sixteen.
+### El Gran Cónclave de Kharbranth
+El [[Gran C%C3%B3nclave de Kharbranth\|Gran Cónclave de Kharbranth]] es un centro de formación para cirujanos y sanadores y ofrece la mejor formación médica del momento. Para acceder, son obligatorios unos exámenes de ingreso estrictos y rigurosos, a los que pueden presentarse los mayores de dieciséis años. Además, la matrícula es muy cara.
 
-### School of Storms
-Little is known about the function of the [[School of Storms\|School of Storms]]. Scholars at the School of Storms have legacy access to the Palanaeum. Taravangian's granddaughter, [[Gvori\|Gvori]], is a current student at the school.
+### Escuela de las Tormentas
+Se sabe muy poco sobre la función de la [[Escuela de las Tormentas\|Escuela de las Tormentas]]. Los estudiantes de esta tienen acceso libre al Palaneo. La nieta de Taravangian, [[Gvori\|Gvori]], estudia actualmente allí.
 
-## History
-### Origins and Early History
-Kharbranth was formerly a pirate town in its early years, before becoming a real city over the course of decades. It is rumored to be older than the [[Last Desolation\|Last Desolation]], with at least one source claiming that it was built during the [[Shadowdays\|shadowdays]]. During the time of the [[Silver Kingdoms\|Silver Kingdoms]], the area in which Kharbranth is situated would have been considered part of Thalath. Kharbranth has been a [[Vorin\|Vorin]] nation since at least the [[Hierocracy\|Hierocracy]], and maintained a strong alliance with many of the other Vorin nations following the [[War of Loss\|War of Loss]].
-The two chambers that make up the [[Palanaeum\|Palanaeum]] predate the founding of the city, with the rooms that house the Palanaeum's collection of manuscripts, books, and tomes having been added after people settled in the region. How the caverns were created is unknown, however, some believe that it was the work of the [[Dawnsingers\|Dawnsingers]]. At some point between the creation of the Palanaeum and present day, a fire occurred that destroyed parts of the library's collection.
+## Historia
+### Orígenes e historia temprana
+En sus orígenes, Kharbranth era una ciudad pirata antes de convertirse en una ciudad como tal con el transcurso de las décadas. Se rumorea que es más antigua que la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] y existe al menos una fuente que asegura que fue construida durante los [[D%C3%ADas de las sombras\|días de las sombras]]. Durante la época de los [[Reinos Plateados\|Reinos Plateados]], la zona en la que se encuentra Kharbranth se habría considerado parte de Thalath. Kharbranth ha sido una nación [[Vorinismo\|vorin]] al menos desde la [[Hierocracia\|Hierocracia]], y tras la [[Guerra de la P%C3%A9rdida\|Guerra de la Pérdida]] ha mantenido una fuerte alianza con muchas de las otras naciones vorin.
+Las dos cámaras que forman el [[Palaneo\|Palaneo]] son anteriores a la fundación de la ciudad, y las salas que albergan la colección de manuscritos, libros y volúmenes del Palaneo se añadieron con posterioridad, cuando ya había población asentada en la región. Se desconoce cómo se crearon las cavernas, aunque algunos creen que fue obra de los [[Cantores del alba\|cantores del alba]]. En algún momento entre la creación del Palaneo y el presente, se produjo un incendio que destruyó partes de la colección de la biblioteca.
 
-### Tales of Surgeons
->“*Don’t make the same mistake I did, son. When you get to Kharbranth, stay there. Don’t get sucked back to this tiny, backward, foolish town.*”
-\-Lirin's warning to Kaladin[29]
+### Historias de cirujanos
+>“*No cometas el mismo error que cometí yo, hijo. Cuando llegues a Kharbranth, quédate allí. No vuelvas a este pueblucho atrasado y necio.*”
+\-Advertencia de Lirin a Kaladin[29]
 
 
-As a youth, [[Lirin\|Lirin]] traveled to Kharbranth as a courier, where he was introduced to different cultures and societies. Later in his life, Lirin studied medicine under [[Vathe\|Vathe]], who had been trained as a surgeon at the [[Great Concourse of Kharbranth\|Great Concourse of Kharbranth]].
-Lirin desired to send his son [[Kaladin\|Kaladin]] to Kharbranth to train as a surgeon when he turned sixteen. Lirin and his wife [[Hesina\|Hesina]] stole a large number of spheres, claiming to have been given them by Brightlord [[Wistiow\|Wistiow]] on his deathbed, in order to fund Kaladin's study in Kharbranth. After the arrival of [[Roshone\|Roshone]] in [[Hearthstone\|Hearthstone]], Lirin and Hesina wrote to the surgeons in Kharbranth with a plea to let their son take the entry tests early, however, their request was denied. Lirin considered escaping Hearthstone and taking his family to Kharbranth after Roshone cut off all their means of income, however, decided instead to stay and continue to oppose the Brightlord.
-After receiving news that the Bridge Four members who had been left in Kholinar might still be alive, Kaladin flew towards Alethkar, stopping to stay the night in Kharbranth. Before moving on from the city, he requisitioned a number of infused gemstones from the Kharbranthian royal treasury to aid him on his travels.
-In 1175, Lirin closely followed the news coming out of Kharbranth in relation to the [[Purelake\|Purelake]] plague, which was eventually deemed not deadly.
+Cuando era joven, [[Lirin\|Lirin]] viajó a Kharbranth como mensajero y fue donde conoció diferentes culturas y sociedades. Años más tarde, estudió medicina con [[Vathe\|Vathe]], quien aprendió el oficio de cirujano en el [[Gran C%C3%B3nclave de Kharbranth\|Gran Cónclave de Kharbranth]].
+Lirin deseaba enviar a su hijo [[Kaladin\|Kaladin]] a Kharbranth para formarse como cirujano cuando cumpliera los dieciséis años. Lirin y su mujer [[Hesina\|Hesina]] roban una enorme cantidad de esferas para financiar los estudios de Kaladin en Kharbranth, pero públicamente aseguran que el brillante señor [[Wistiow\|Wistiow]] se las había dado en su lecho de muerte. Tras la llegada de [[Toralin Roshone\|Roshone]] a [[Piedralar\|Piedralar]], Lirin y Hesina escriben a los cirujanos de Kharbranth para solicitar que su hijo pueda hacer las pruebas de ingreso antes de tiempo, sin embargo, la solicitud es denegada. Cuando Roshone deja a Lirin sin ingresos, éste considera la opción de escapar de Piedralar y llevar a su familia a Kharbranth, pero finalmente decide quedarse y continuar oponiéndose al brillante señor.
+Tras recibir la noticia de que miembros del Puente Cuatro que se habían quedado en Kholinar aún podrían seguir con vida, Kaladin vuela hacia Alezkar y pasa la noche en Kharbranth. Antes de salir de la ciudad, requisa varias gemas infundidas del tesoro kharbranthiano para poder proseguir con su viaje.
+En 1175, Lirin sigue con atención las noticias que provienen de Kharbranth en relación a la plaga del [[Lagopuro\|Lagopuro]], que finalmente se consideró como no mortal.
 
-### The Diagram and the Death Rattles
->“*Someone must bear the responsibility. Someone must be dragged down by it, ruined by it. Someone must stain their soul so others may live.*”
-\-Taravangian to Dalinar Kholin[34]
+### El Diagrama y los susurros de muerte
+>“*Alguien debe cargar con la responsabilidad. Alguien debe hundirse con ella, destruirse con ella. Alguien debe mancillar su alma para que otros puedan vivir.*”
+\-Taravangian a Dalinar Kholin[34]
 
 
- by  taratjah 
-On the night of his death, [[Gavilar Kholin\|Gavilar Kholin]] confided in [[Taravangian\|Taravangian]] about the visions he had received regarding the [[True Desolation\|True Desolation]]. Believing the visions had come from the [[Almighty\|Almighty]], Gavilar insisted to Taravangian that for the world to survive the True Desolation, it would have to be united. Taking the king’s warning to heart, Taravangian traveled to The [[Valley\|Valley]] to visit the [[Nightwatcher\|Nightwatcher]] and beg her for the ability to save Roshar. The Nightwatcher bestowed Kharbranth's king with a boon and a curse; the boon being extreme intelligence and compassion; the curse, constant fluctuation of these traits and the inability to have both at the same time.
-After visiting the Nightwatcher, Taravangian experienced a day of extreme intelligence, where he transcribed a large number of predictions on the available surfaces in his bedroom. These writings were bound together into a tome referred to as the [[Diagram (literature)\|Diagram]]. A [[Diagram (group)\|society by the same name]] worships the Diagram, however, it is currently unknown if this society existed before the creation of the Diagram, or whether it was formed in response to Taravangian's creation.
+ 
+La noche de su muerte, [[Gavilar Kholin\|Gavilar Kholin]] le confesó a [[Taravangian\|Taravangian]] las visiones que había tenido acerca de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Con la creencia de que las visiones provenían del [[Todopoderoso\|Todopoderoso]], Gavilar le insiste a Taravangian que para poder sobrevivir a la Auténtica Desolación el mundo debe estar unido. Taravangian se tomó muy en serio la advertencia del rey y viajó al [[Valle\|Valle]] para encontrarse con la [[Vigilante Nocturna\|Vigilante Nocturna]] y pedirle la capacidad de salvar a Roshar. La Vigilante Nocturna le otorgó al rey de Kharbranth una bendición y una maldición: inteligencia y compasión extremas, y una fluctuación constante de estas dos características, y la incapacidad de tenerlas ambas al mismo tiempo.
+Tras visitar a la Vigilante Nocturna, Taravangian tuvo un día de extrema inteligencia y escribió una enorme cantidad de predicciones en todas las superficies disponibles de la habitación en la que se encontraba. Todos estos escritos se unificaron en un solo tomo al que se conoce como el [[Diagrama (literatura)\|Diagrama]]. Una [[Diagrama (grupo)\|sociedad con el mismo nombre]] venera el Diagrama, aunque desconocemos si esta sociedad ya existía antes de la creación del escrito o si se fundó tras la aparición de la creación de Taravangian.
 
->“*While I promised to do whatever was necessary to save our people, I will not go one step further. Not a single death more than needed.*”
-\-Taravangian's decision to dismantal the Diagram[13]
+>“*Aunque prometí que haría todo lo necesario para salvar nuestro pueblo, no daré ni un solo paso más allá. No provocaré ni una sola muerte innecesaria.*”
+\-La decisión de Taravangian de disolver el Diagrama[13]
 
-Following its creation, the Diagram began supplementing Taravangian's predictions with the [[Death Rattle\|Death Rattles]] provided by the [[Unmade\|Unmade]] [[Moelach\|Moelach]]. Moelach took up residence in Kharbranth in the year 1167, approximately around the time Gavilar began investigating the [[Shattered Plains\|Shattered Plains]]. It is possible that the Unmade's arrival in Kharbranth could be related to Gavilar's exploration of the easternmost part of Roshar. Why Moelach chose to settle specifically in Kharbranth at this time is unclear, however, when the Unmade began to move away from Kharbranth in 1173, Taravangian worried that the creature may return to slumber, implying that Moelach could possibly have been inactive prior to settling in Kharbranth.
-The Silent Gatherers were tasked with administrating and running the hospitals where the Death Rattles were collected, however, the creation of these hospitals, as well as the details surrounding the formation of this group, are currently unknown. It is also unknown when this operation began, and whether Death Rattles were collected prior to Taravangian's creation of the Diagram. Frequency in the number of Death Rattles begins to decline in late 1173 before ceasing completely in 1174 after Moelach departed the city and settled in the [[Horneater Peaks\|Horneater Peaks]]. Why the Unmade decided to leave Kharbranth is unknown, however, Taravangian postulated that it may have been drawn away by something residing to the west of the city and eventually circled back around to take up occupation within the borders of Jah Keved. Despite the decline, and eventual cessation, of the Death Rattles, the hospital continued to operate through to 1175 when Taravangian ordered them to be shut down as part of his general dismantling of the Diagram and its operations in the city.
+Tras su creación, el Diagrama empezó a complementar las predicciones de Taravangian con los [[Susurro de muerte\|susurros de muerte]] proporcionados por el [[Deshecho\|Deshecho]] [[Moelach\|Moelach]]. Moelach se instaló en Kharbranth en el año 1167, más o menos en la misma época que Gavilar empezó a investigar las [[Llanuras Quebradas\|Llanuras Quebradas]]. Es posible que la llegada del Deshecho a Kharbranth esté relacionada con la exploración de Gavilar de la parte oriental de Roshar. Se desconoce el motivo por el que Moelach decidió establecerse en Kharbranth, aunque cuando el Deshecho empieza a alejarse de allí en 1173, esto lleva a Taravangian a preocuparse de que la criatura pueda volver a un estado de letargo, lo que implica que Moelach podría haber estado inactivo antes de asentarse en Kharbranth.
+La tarea de administrar y dirigir los hospitales donde se lleva a cabo la obtención de los susurros de muerte recae en los [[/wiki/Diagrama (grupo)#Los Recopiladores Silenciosos y la colecci.C3.B3n de los Susurros de Muerte]], sin embargo desconocemos los detalles sobre la creación de estos hospitales así como de la formación del grupo. También se desconoce el momento exacto en el que comenzó esta empresa y si los susurros de muerte ya se recopilaban antes de la creación del Diagrama de Taravangian. El número de susurros de muerte empieza a disminuir a finales de 1173 y cesa por completo en 1174 cuando Moelach deja la ciudad y se establece en los [[Picos Comecuernos\|Picos Comecuernos]]. No está claro el motivo por el que Moelach decide abandonar Kharbranth, aunque Taravangian teoriza que podría haberse sentido atraído por algo al oeste de la ciudad y luego dió la vuelta para situarse dentro de las fronteras de Jah Keved. A pesar del descenso y posterior cese de los susurros de muerte, el hospital continuó funcionando hasta 1175 cuando Taravangian ordena su cierre como parte del desmantelamiento general del Diagrama y de sus actividades en la ciudad.
 
-### Scholar and Apprentice
->“*She closed her eyes and fixed an image in her mind: Kharbranth as she’d memorized it in that moment soon after landing on the docks. Waves surging against the wooden posts, a salty scent to the air, men climbing rigging calling one another with excitement. And the city itself, rising up the hillside, homes stacked atop homes, not a speck of land wasted. Bells, distant, tinkling softly in the air.*”
-\-Shallan's recollection of Kharbranth.[3]
+### Erudita y aprendiz
+>“*Cerró los ojos y fijó una imagen en su mente: Kharbranth tal como lo había memorizado en aquel momento poco después de desembarcar en los muelles. Las olas golpeando los postes de madera, el olor salino del aire, los hombres trepando por los cordajes y llamándose unos a otros llenos de emoción. Y la ciudad misma alzándose sobre la colina, las casas encaramadas unas sobre otras, ni una mota de tierra malgastada. Campanas, lejanas, tintineando suavemente al aire.*”
+\-Recuerdo de Shallan sobre Kharbranth.[3]
 
 
- by  Marie Seeberger  The City of Bells
-During the year 1173, [[Jasnah Kholin\|Jasnah Kholin]] traveled to Kharbranth to access the [[Conclave\|Conclave]] and the [[Palanaeum\|Palanaeum]] in order to continue her research into the Voidbringers and Urithiru. [[Shallan Davar\|Shallan Davar]], who had been attempting to contact the Alethi princess for six months, arrived in Kharbranth part way through the year, relieved to find that she had finally caught up to Jasnah. Locating the woman in the Conclave, Shallan petitioned Jasnah to become her ward and, eventually, was accepted. Despite Shallan's enjoyment of scholarship, her primary purpose for seeking out Jasnah, was to switch the broken Davar Soulcaster, with Jasnah's functional one.
-Shallan's arrival at the Conclave coincided with Jasnah helping Taravangian rescue his granddaughter, who had become trapped in an inner room of the palace following a cave-in. The situation had been deliberately planned by the Kharbranthian king, who wished to view the Alethi princess use her [[Soulcasting\|Soulcasting]] abilities when removing the fallen stone blocking the room's entrance. Taravangian had suspected Jasnah did not need a physical Soulcaster to be able to use Soulcasting as an ability and to test this theory, engineered a scenario where he would be able to watch the Alethi princess wield her power. Jasnah Soulcast the rock into smoke, masking her abilities with the fake Soulcaster she wore on her right hand. In return for freeing his granddaughter, Taravangian granted Jasnah entry to the Palanaeum, which she had been unable to access until this point.
-Out late one night in the city, Shallan and Jasnah were attacked by a group of criminals while in an alley near the theatre district. Jasnah had deliberately taken them to a specific street where the criminals had been attacking, robbing, and killing people. She had planned to dispatch the men as a service to Taravangian who she felt had put himself in a more precarious position than he realised when he allied with her and allowed her access to the Palanaeum. Jasnah killed the four men during the encounter, turning them into a variety of other substances using Soulcasting, and in doing so, saving both her own and Shallan's life. Shallan, angry at Jasnah for the situation she had deliberately put them in, switched her broken Soulcaster, with Jasnah's device shortly after the pair returned to the Conclave.
+  La Ciudad de las Campanas
+En el año 1173, [[Jasnah Kholin\|Jasnah Kholin]] viajó a Kharbranth para acceder al [[C%C3%B3nclave\|Cónclave]] y al [[Palaneo\|Palaneo]], con el objetivo de progresar en su investigación sobre los Portadores del Vacío y Urithiru. [[Shallan Davar\|Shallan Davar]], que llevaba seis meses intentando contactar con la princesa alezi, llega a Kharbranth a mitad de año, aliviada al descubrir que al fin ha alcanzado a Jasnah. Shallan localiza a la princesa en el Cónclave, solicita convertirse en su pupila varias veces hasta que es aceptada. A pesar de que Shallan disfruta de sus estudios junto a Jasnah, su objetivo principal es intercambiar el moldeador de almas roto de la casa Davar por el que posee Jasnah.
+La llegada de Shallan al Cónclave coincide con el momento en el que Jasnah está ayudando a Taravangian a rescatar a su nieta, que se había quedado atrapada en una sala interior del palacio tras un derrumbe. La situación había sido planeada a propósito por el rey de Kharbranth, ya que quería ver con sus propios ojos a la princesa alezi usar sus habilidades en el [[Moldear almas\|moldeado de almas]], y por eso la tarea consistia en quitar una enorme roca que bloqueaba la entrada de las habitaciones. Taravangian sospechaba que Jasnah no necesitaba ningún moldeador físico para desarrollar sus habilidades como moldeadora de almas y para poder verificar su teoría, diseña un escenario en el que poder observar a la princesa alezi ejercer su poder. Jasnah moldea la roca en humo y oculta la verdad de sus poderes usando un moldeador falso que lleva en su mano derecha. En agradecimiento por haber liberado a su nieta, Taravangian le concede a Jasnah la entrada al Palaneo, al que no había podido acceder hasta ese momento.
+Una noche, Shallan y Jasnah son atacadas por un grupo de criminales en un callejón cercano al barrio de los teatros. Jasnah las había conducido deliberadamente a una calle donde unos bandidos habían estado atacando, robando y matando a gente. Ella había decidido ocuparse en persona de los criminales como agradecimiento a Taravangian que, en su opinión, se había puesto en una situación comprometida al aliarse con ella y permitirle el acceso al Palaneo. Durante el encuentro, Jasnah mata a los cuatro hombres convirtiéndolos en diversas sustancias mediante el moldeado de almas, y salvando la vida de Shallan y la suya propia. Shallan se enfada con Jasnah por haberlas puesto en una situación de peligro a propósito y, cuando regresan al Cónclave, cambia su moldeador de almas roto por el artefacto de Jasnah.
 
->“*Am I a monster or am I a hero? Did I just slaughter four men, or did I stop four murderers from walking the streets? Does one deserve to have evil done to her by consequence of putting herself where evil can reach her? Did I have a right to defend myself? Or was I just looking for an excuse to end lives?*”
-\-Jasnah asking Shallan to consider the morality behind killing the footpads.[9]
+>“*¿Soy un monstruo o soy un héroe? ¿Acabo de asesinar a cuatro hombres, o he impedido que cuatro asesinos recorran las calles? ¿Se merece alguien que le hagan daño como consecuencia de ponerse donde el daño puede alcanzarte? ¿Tenía derecho a defenderme? ¿O estaba buscando una excusa para matar?*”
+\-Jasnah pidiéndole a Shallan que reflexione sobre la moralidad del homicidio de los ladrones.[9]
 
-As the months passed, Shallan began to grow more and more aware of [[Pattern\|Pattern]] and the other Cryptics who watched her from the [[Cognitive Realm\|Cognitive Realm]]. Several times, Shallan unconsciously included them in portraits she created, first while sketching King Taravangian, and later in a sketch of herself and the ardent [[Kabsal\|Kabsal]]. She also began hearing the Cryptics whispers, convincing herself that she was mishearing sounds made by the Conclave staff as they worked. Eventually Shallan was unable to ignore the spren, leading her to accidentally Soulcast a goblet into blood. To hide what she had done, Shallan cut open her arm, pretending that the blood was hers, and was taken to one of the city's many hospitals.
-In the hospital, Shallan was visited by Jasnah, who had been studying outside the hospital room. While Jasnah was with Shallan, the pair were joined by Kabsal, whom Shallan had struck up a friendship with during her time in the city. In an attempt to kill Jasnah, Kabsal offered both women poisoned bread, knowing that Jasnah would not eat the jam that contained the antidote. Jasnah, suspecting that Kabsal was trying to assassinate her, Soulcast the jam when she inspected the jar, believing that it was the item that contained the poison. Unfortunately, she removed the antidote, leading to the poisoning of Shallan and Kabsal. Jasnah saved Shallan's life by Soulcasting her blood to remove the poison, learning at the same time that Shallan had stolen her Soulcaster.
-Jasnah eventually forgave Shallan for the theft and agreed to take her back on as her ward. Deciding that she had found all the information she could within the Palanaeum, Jasnah, along with Shallan, departed Kharbranth for the Shattered Plains in 1173 upon the ship, *Wind's Pleasure*.
+A medida que pasaban los meses, Shallan empezó a ser cada vez más consciente de la presencia de [[Patr%C3%B3n\|Patrón]] y de los otros crípticos que la observaban desde el [[Reino Cognitivo\|Reino Cognitivo]]. En diversas ocasiones Shallan los dibuja de forma inconsciente en los retratos que hace, la primera ocasión cuando dibujaba al rey Taravangian y más adelante en un boceto de ella con el fervoroso [[Kabsal\|Kabsal]]. También empieza a escuchar los susurros de los crípticos, pero se intenta convencer a sí misma diciendo que está interpretando mal los sonidos que hace el personal del Cónclave mientras trabaja. Llega un momento en que Shallan no puede ignorar al spren, lo que la lleva a moldear accidentalmente una copa en sangre. Para ocultar lo que acaba de hacer, Shallan se corta en el brazo, con el objetivo de simular que la sangre es suya y se la llevan a uno de los muchos hospitales de la ciudad.
+En el hospital, Shallan recibe la vista de Jasnah, que estaba esperando mientras estudiaba en la sala de espera del hospital. Durante esta visita, llega Kabsal, una amistad que Shallan hizo durante su estancia en la ciudad. En un intento de asesinar a Jasnah, Kabsal les ofrece a ambas mujeres pan envenenado y una mermelada que contiene el antídoto, ya que sabe que Jasnah no probará la mermelada. Pero Jasnah, que sospecha de Kabsal, moldea la mermelada cuando inspecciona el frasco, pensando que ahí es donde está el veneno. Desafortunadamente, al hacer esto elimina el antídoto, lo que provoca que Shallan y Kabsal se envenenen con el pan. Jasnah le salva la vida a Shallan al moldear su sangre para eliminar el veneno, y se entera en ese momento de que Shallan le había robado su moldeador de almas.
+Jasnah termina perdonando a Shallan por el robo y accede a volver a aceptarla como su pupila. Tras este evento, la princesa decide que ya ha conseguido toda la información que buscaba en el Palaneo y, junto con Shallan, se marchan de Kharbranth en 1173 hacia las Llanuras Quebradas en el barco [[Placer del Viento\|Placer del Viento]].
 
-### Politics on the World Stage
-During 1173, Taravangian acquired [[Szeth\|Szeth's]] oathstone and tasked him with murdering a large number of high ranking officials in several foreign nations. These murders, dictated by the Diagram, aimed to cause chaos in several foreign countries including [[Jah Keved\|Jah Keved]] and [[Azir\|Azir]]. Taravangian, as a precautionary measure, included his own name on the list given to Szeth to divert suspicion away from Kharbranth if the assassin had been captured during his spree. When Szeth travelled to Kharbranth to kill its king, Taravangian revealed that he was in possession of Szeth's oathstone and had been behind the list of assassinations Szeth had been given. After showing Szeth the hidden hospital where the Silent Gatherers collected the Death Rattles, Taravangian tasked Szeth with killing [[Dalinar Kholin\|Dalinar Kholin]], who he believed had to die, based on his reading of the Diagram.
+### Política en el escenario mundial
+En el año 1173, Taravangian consiguió la piedra jurada de [[Szeth\|Szeth]] y le encargó el asesinato de un elevado número de oficiales de alto rango en distintas naciones extranjeras. Estos asesinatos, dictados por el Diagrama, tenían como objetivo causar el caos en varias regiones extranjeras, entre ellos [[Jah Keved\|Jah Keved]] y [[Azir\|Azir]]. Taravangian, como medida de precaución, incluye su nombre en la lista que le dan a Szeth, para alejar así las sospechas de Kharbranth si el asesino es capturado durante la matanza. Cuando Szeth viaja a Kharbranth para matar al rey, Taravangian revela que tiene su piedra jurada y que es quien ha confeccionado la lista de asesinatos. El rey le enseña los hospitales secretos en los que los Recopiladores Silenciosos recogen los susurros de muerte y le encarga a Szeth que asesine a [[Dalinar Kholin\|Dalinar Kholin]] quien, según su interpretación del Diagrama, debe morir.
 
->“*Leaders dead, lives lost. Panic and chaos. Was this your destiny? Do you wonder? Given that monstrosity of a Shardblade by your people, cast out and absolved of any sin your masters might require of you?*”
-\-Taravangian when first confronted by Szeth[10]
+>“*Líderes muertos, vidas perdidas. Pánico y caos. ¿Era este tu destino? ¿Te lo preguntas? ¿Encargado por tu pueblo de esa monstruosidad de espada, expulsado y absuelto de cualquier pecado que tus amos requieran de ti?*”
+\-Taravangian al confrontarle Szeth[10]
 
-By using Szeth to causing mayhem and destruction across Roshar, Taravangian was able to further the goals of the Diagram and created a situation where he could take control of the [[Veden\|Veden]] empire without creating suspicion. Towards the end of the War of Succession (1173), Taravangian sent food, medical supplies, and healers to the country to help the wounded on all sides of the fighting. In doing so, he secured a new ally for Kharbranth with whichever side was victorious. In the case that the country fell to ruin, Taravangian, through a distance connection to Veden royalty, could engineer a situation that would end with the king of Kharbranth on the Veden throne. When the war ended later that year, Taravangian was named as king by the previous monarch, [[Valam\|Valam]], shortly before he died, securing Jah Keved as an ally for Kharbranth.
-Taravangian entered both Jah Keved and Kharbranth into an alliance with [[Alethkar\|Alethkar]] in 1174, after Dalinar Kholin contacted the leaders of Roshar's nations seeking aid in the fight against the [[Voidbringers\|Voidbringers]]. Taravangian was the only leader to initially respond to Dalinar's request. The council of Kharbranth were suspicious of Dalinar's offer, as well as his intentions of refounding the [[Knights Radiant\|Knights Radiant]]. Mistrust of Dalinar increased amongst the council members after Dalinar pronounced the death of Honor, which those within the [[Vorin\|Vorin]] church conflate with the Almighty. [[Kadash\|Kadash]], one of Dalinar's ardents, did what he could to try and calm the council and allay their fears. It is unknown whether Kadash was successful, leading to the council agreeing with Taravangian to enter into an alliance with Alethkar, or whether the king of Kharbranth has executive power over foreign affairs.
+Al utilizar a Szeth para sembrar el caos y la destrucción en Roshar, Taravangian es capaz de hacer avanzar los objetivos del Diagrama, y crea una situación en la que puede tomar el control del imperio [[Jah Keved\|veden]] sin levantar sospechas. Hacia el final de la [[Jah Keved\|Guerra de Sucesión]] en 1173, Taravangian envía alimentos, suministros médicos y sanadores al país para ayudar a ambos bandos de la guerra. De esta forma, se aseguraba un aliado para Kharbranth con cualquiera que fuera el bando vencedor. En el caso que el país quedara en ruinas, Taravangian podría, a través de una conexión lejana con la realeza veden, gestionar la situación para que terminase con el rey de Kharbranth en el trono veden. Cuando a finales de ese año la guerra termina, Taravangian es nombrado rey por [[Valam\|Valam]], el monarca anterior, justo antes de morir y afianza así a Jah Keved como aliado de Kharbranth.
+Taravangian une Jah Keved y Kharbranth a la coalición con [[Alezkar\|Alezkar]] en 1174, cuando Dalinar Kholin contacta con todos los monarcas de Roshar en busca de ayuda para hacer frente a los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Taravangian es el único líder que responde, inicialmente, a la petición de Dalinar. El consejo de Kharbranth alberga ciertas sospechas sobre la oferta de Dalinar, así como de su intención de refundar los [[Caballeros Radiantes\|Caballeros Radiantes]]. La desconfianza en Dalinar crece entre los miembros del consejo cuando Dalinar proclama la muerte de Honor, aquel al que la iglesia [[Vorinismo\|vorin]] confunde con el Todopoderoso. [[Kadash\|Kadash]], uno de los fervorosos de Dalinar, hace todo lo que está en su mano para calmar al consejo y disipar sus temores. Desconocemos exactamente si lo que llevó al consejo a aceptar la alianza con Alezkar fue el éxito de Kadash o bien si el rey de Kharbranth es quien ejerce poder ejecutivo sobre las decisiones de asuntos exteriores.
 
->“*Kharbranth. Preserve only Kharbranth. You may destroy all other nations. Just leave my city. It is what I beg of you.*”
-\-Taravangian's deal with Odium[24]
+>“*Kharbranth. Preserva solo Kharbranth. Puedes destruir todas las demás naciones. Pero protege mi ciudad. Eso es lo que te suplico.*”
+\-El trato de Taravangian con Odium[24]
 
-Entering into an alliance with Dalinar, allowed Taravangian and the Diagram access to [[Urithiru\|Urithiru]] and the inner workings of the Alethi government. Unimpeded from joining political assemblies with other foreign nations, or scholarly meetings, the Kharbranthian cohort were able to gather intelligence on the coalition, and several other nations of Roshar, and their research into Urithiru, the Voidbringers, as well as other matters. As part of the coalition, Taravangian was able to manipulate other world leaders, as well as spread misinformation that threatened the breakdown of the alliance, with the hope that Dalinar Kholin would fail, leaving Alethkar open to be secured under Taravangian's rule. Shortly before the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Taravangian attempted to undermine Dalinar's authority, anonymously releasing information about Dalinar's meeting [[Odium\|Odium]], the highking proposal, and the translation of the [[Eila Stele\|Eila Stele]].
-In an attempt to gain favor with Odium, Taravangian interfered with the redeployment of troops from Urithiru to Thaylenah during the Battle of Thaylen City by having a member of the Diagram, Malata, unlock the Kholinar Oathgate in secret, allowing Odium's forces to invade the ancient city.
+Establecer una alianza con Dalinar le permitió a Taravangian y al Diagrama acceder a [[Urithiru\|Urithiru]] y a los entresijos del gobierno alezi. Sin obstáculos para unirse a asambleas políticas con otras naciones extranjeras, así como reuniones académicas, el séquito kharbranthiano pudo reunir información sobre la coalición, sobre otras regiones de Roshar, así como sobre sus investigaciones acerca de Urithiru, los Portadores del Vacío y otras cuestiones. Como parte de la coalición, Taravangian pudo manipular a otros líderes mundiales y distribuir información falsa que llega a suponer una amenaza para la estabilidad de la coalición, todo con el propósito de hacer fracasar a Dalinar y asegurarse el control de Alezkar. Poco antes de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], Taravangian intenta socavar la autoridad de Dalinar difundiendo de forma anónima información del encuentro de Dalinar con [[Odium\|Odium]], la propuesta de convertirlo en alto rey y la traducción del [[Eila Stele\|Eila Stele]].
+En un intento de ganarse el favor de Odium, Taravangian interfiere en el despliegue de tropas de Urithiru en Thaylenah durante el desarrollo de la batalla en Ciudad Thaylen. Para ello hace que Malata, miembro del Diagrama, desbloquee la Puerta Jurada de Kholinar en secreto, lo que permite que las fuerzas de Odium invadan la ciudad de Urithiru.
 
->“*...I knew my friends and family could escape if I let you take me. I knew that your wrath would come upon me, not Kharbranth... If you were to attack Kharbranth, you would attack innocents.*”
-\-Taravangian explaining his actions to Dalinar[51]
+>“*...Sabía que mis amigos y mi familia podrían escapar si te permitía capturarme. Sabía que tu ira caería sobre mí, no sobre Kharbranth… Si atacaras Kharbranth, estarías atacando a inocentes.*”
+\-Taravangian explicandole su lógica a Dalinar[51]
 
-Following the battle, Taravangian revealed to Dalinar that Kharbranth had been behind Szeth's murderous spree across Roshar. He told Dalinar that he had sought out Szeth after Dova had approached Taravangian and warned him that the Desolation was approaching. He also told Dalinar that about the ardent Dova and how he believed her to be the [[Herald\|Herald]] [[Battah\|Battah'Elin]]. Later, Odium met with Taravangian during the Everstorm agreeing to spare Kharbranth and its citizens during the imminent war in exchange for the Diagram's loyalty.
-Despite strained relations, Kharbranth remained an ally of the Urithiru coalition, however, frequently opposed the suggested military maneuvers that were suggested by the other members of the group. During this time, Taravangian's inner circle began to distance themselves from their leader and spend more time in Kharbranth, at Taravangian's bequest. This allowed for the other members of the Kharbranian delegation to avoid suspicion when Taravangian betrayed the coalition and revealed himself as a double agent for Odium.
-Following her father’s betrayal, the newly anointed Queen Savrahalidem condemned the former monarch’s actions and pulled the city from the alliance with Urithiru and Odium, declaring itself neutral in the global conflict. No longer tied to any party, Kharbranth reclaimed its mantle of offering medical aid to anyone in need. In response to the cut ties, Dalinar blockaded the sea near Kharbranth but was unwilling to commit to a costly ground attack, which Queen Savri had likely factored into her decision when breaking their alliance.
+Tras la batalla, Taravangian le confiesa a Dalinar que Kharbranth ha estado detrás de las matanzas de Szeth por todo Roshar. Le explica a Dalinar que lo buscó después de que Dova le advirtiera de la llegada de la Desolación. También le cuenta que sospecha que Dova es en realidad la [[Heraldo\|Heraldo]] [[Battar\|Battah’Elin]]. Más tarde, Odium se reúne con Taravangian durante la tormenta eterna y accede a preservar Kharbranth y a todos sus ciudadanos en la inminente guerra, como compensación por la lealtad del Diagrama.
+Aunque las relaciones son tensas, Kharbranth sigue siendo aliada de la coalición de Urithiru, sin embargo, con frecuencia se oponen a las sugerencias en el ámbito militar que hacen otros miembros de la coalición. Durante este tiempo, el círculo más cercano de Taravangian empieza a distanciarse de él y a permanecer más tiempo en Kharbranth, por orden del propio rey. Esto permite que, cuando Taravangian traiciona a la coalición y se desenmascara como un agente doble de Odium, los otros miembros de la delegación kharbranthiana queden libres de sospecha.
+Tras la traición de su padre, la recién nombrada reina Savrahalidem condena las acciones del antiguo monarca, retira a la ciudad de la alianza con Urithiru y con Odium y declara que la ciudad es neutral ante el conflicto. Sin estar ya vinculada a ningún bando, Kharbranth recupera su tradición de ofrecer ayuda médica a quien lo necesite. En respuesta a la desvinculación, Dalinar bloquea la vía marítima de Kharbranth, pero se niega a lanzar un ataque por tierra, algo que probablemente la reina Savri tuvo en cuenta a la hora de tomar la decisión de romper su alianza.
 
-## Culture
-Kharbranth is a multicultural city that does not limit or restrict entrance to the city or its surrounding waters based on nationality or status. As such, people from all walks of life and the many nations of Roshar can be found throughout the city.
+## Cultura
+Kharbranth es una ciudad multicultural que no limita ni restringe la entrada a la ciudad ni a sus aguas colindantes por razones de nacionalidad o estatus. Por este motivo, en las calles de la ciudad podemos encontrar personas de todas las condiciones y nacionalidades.
 
- by  John Ly  Shallan being ported around Kharbranth
-Restaurants can be found in Kharbranth. Soup is the preferred lunch option.
+  Shallan transportada por Kharbranth
+En la ciudad podemos encontrar numerosos restaurantes. La sopa es el plato estrella para la comida.
 
-### Social Structure
-For Vorin Social Structures, see Vorinism#Culture.
-Like other Vorin nations, Kharbranth's social structure is based on eye coloring, with lighteyes considered the upper class, while darkeyes the lower, or working class. Each class is further split into a ten rank system; [[Dahn\|dahn]] for lighteyes and [[Nahn\|nahn]] for darkeyes. Each rank reflects different amounts of power and influence within the Vorin system, with those of the first or second rank holding more privilege than those of lesser ranks. The Kharbranth monarch would be considered of equal status to that of first dahn, however, traditionally does not claim this rank. Unlike other Vorin nations such as [[Alethkar\|Alethkar]], Kharbranth does not allow for human slaves. The city does, however, still utilize parshmen for free labor.
+### Estructura social
+Para estructura social vorin, ver [[/wiki/Vorinismo#Cultura]].
+Como ocurre en otras naciones vorin, la estructura social de Kharbranth se basa en el color de ojos, donde los ojos claros se consideran la clase alta y los ojos oscuros se consideran la clase trabajadora. Cada una de las clases está dividida en diez rangos, que se conocen como [[Dahn\|dahn]] para los ojos claros y [[Nahn\|nahn]] para los ojos oscuros. Dentro del sistema vorin, cada rango refleja distintos grados de poder e influencia: tienen más privilegios los de rango más alto que los inferiores. El monarca de Kharbranth sería considerado del mismo estatus que alguien del primer dahn, pero tradicionalmente no usan este rango. A diferencia de otras naciones vorin, como por ejemplo [[Alezkar\|Alezkar]], Kharbranth no permite esclavizar humanos. En cambio, sí que utilizan parshmenios como mano de obra gratuita.
 
-### Religion
-Kharbranth is one of the five [[Vorin\|Vorin]] nations. The [[Ardentia\|ardentia]] in Kharbranth holds a degree of influence within the city and remains in contact with the other Vorin leaders in the eastern Rosharan nations. Ardents, alongside their religious duties, manage and staff the [[Palanaeum\|Palanaeum]]. Not all Devotaries can be found in Kharbranth, with the city currently containing no ardents from the Devotary of Sincerity. The Kharbranthian ardentia do not own any [[Soulcaster\|Soulcasters]] and during his time as king, Taravangian makes sure to familiarize himself and keep careful track, of his clergy.
+### Religión
+Kharbranth es una de las cinco naciones [[Vorinismo\|vorin]]. El [[Vorinismo\|fervor]] en Kharbranth tiene cierto grado de influencia dentro de la ciudad y mantiene contacto con los otros líderes vorin de otras naciones de Roshar. Los fervorosos, además de sus obligaciones religiosas, gestionan y administran el [[Palaneo\|Palaneo]]. No todos los Devotarios están en Kharbranth, como en el caso del Devotario de la Sinceridad, que no tiene fervorosos allí. El fervor kharbranthiano no posee ningún [[Moldear almas\|moldeador de almas]] y, durante su etapa como rey, Taravangian se asegura de familiarizarse y hacer un seguimiento de su clero.
 
-### Language
-The Kharbranthian language is very similar to [[Alethi\|Alethi]] and [[Veden\|Veden]], with all three being considered similar dialects of the same language. Differences between the three languages come largely from variations in pronunciation, instead of variances in the language's vocabulary.
+### Idioma
+El idioma kharbranthiano es muy similar al [[Alezkar\|alezi]] y al [[Jah Keved\|veden]], y se considera que los tres son dialectos muy similares de un mismo idioma. Las variaciones entre los tres idiomas están más en la pronunciación que en diferencia de vocabulario.
 
-### Economy
-For more information, see [[Spheres\|Spheres]].
-Like most of [[Roshar\|Roshar]], Kharbranth uses [[Spheres\|spheres]], glass beads with an embedded gemstone, as its currency. Spheres infused with [[Stormlight\|Stormlight]] are also used as a light source. The type and size of each embedded gemstone determines the value of the sphere with a diamond chip being the smallest denomination and an emerald broam the largest. The [[Palanaeum\|Palanaeum]] doubles as Kharbranth's royal treasury, and the city's store of emeralds are used to light the pathways within the Palanaeum proper.
+### Economía
+Para más información, ver [[Esferas\|Esferas]].
+Como en la mayor parte de [[Roshar\|Roshar]], en Kharbranth se utilizan [[Esferas\|esferas]], cuentas de cristal con una gema en su interior, como moneda. Las esferas infundidas con [[Luz tormentosa\|luz tormentosa]] también se utilizan como fuente de luz. El tipo y el tamaño de la gema determina el valor de la esfera. Un chip de diamante es la denominación más baja y un broam de esmeralda la más alta. El [[Palaneo\|Palaneo]] es también el tesoro real de Kharbranth y la reserva de esmeraldas de la ciudad se utiliza para iluminar los pasillos del propio recinto.
 
-## Politics
-The smallest of the five [[Vorin\|Vorin]] nations, Kharbranth is a fragile, but independent, city-state governed by Queen [[Savrahalidem\|Savrahalidem]].
+## Política
+Kharbranth, la más pequeña de las cinco naciones [[Vorinismo\|vorin]], es una ciudad-estado frágil pero independiente, gobernada por la reina [[Savrahalidem\|Savrahalidem]].
 
-### Government
->“*Taravangian, the king of Kharbranth. A beloved monarch, known for building and maintaining hospitals in his city. It was known as far away as Azir that if you were sick, Taravangian would take you in. Come to Kharbranth and be healed. The king loved all.*”
-\-Taravangian's public image[10]
+### Gobierno
+>“*Taravangian, el rey de Kharbranth. Un monarca amado, conocido por construir y mantener hospitales en su ciudad. Era sabido hasta en la lejana Azir que si estabas enfermo, Taravangian te aceptaba. Ven a Kharbranth a que te curen. El rey los amaba a todos.*”
+\-Imagen pública de Taravangian[10]
 
 
-The Kharbranthian government follows a , with the monarch being hereditary through either the male or female line. The current queen is Savrahalidem, daughter of the former ruler Taravangian. The exact dynamic between the monarch and the council is currently unknown, however, the king or queen is able to propose and influence policy, decide upon and conduct foreign affairs, and also has some form of direct authority over the implementation of laws. Although the monarch of Kharbranth would be considered equal to first [[Dahn\|dahn]] under the Vorin class system, they do not traditionally claim the rank, due to Kharbranth's city-state status.
-Kharbranth, while generally considered a safe city, has previously had issues surrounding violent crime, which have not been adequately policed. It is suspected by some that the city watch has deliberately avoided taking action against violent criminals due to corruption and influence from politicians.
-In the past, members of the Kharbranthian government worked for the [[Diagram (group)\|Diagram]], however, anyone with connections to the group was removed from office on Taravangian's orders shortly before he was deposed.
+El gobierno de Kharbranth sigue un , donde la condición de monarca es hereditaria tanto por línea masculina como femenina. La reina actual es Savrahalidem, hija del anterior rey Taravangian. Se desconoce la dinámica exacta entre el monarca y el consejo, pero el rey o la reina tiene la capacidad de hacer propuestas o influir en la política, dirigir la política exterior y también tiene cierta autoridad directa en la aplicación de la ley. Aunque en el sistema de clases vorin, el monarca de Kharbranth sería considerado igual al primer [[Dahn\|dahn]], tradicionalmente no usan ese rango debido a la condición de ciudad-estado de Kharbranth.
+A pesar de la opinión general de que Kharbranth es una ciudad segura, la Ciudad de las Campanas ha tenido problemas relacionados con delitos violentos que no han sido controlados de forma adecuada. Hay quien sospecha que la guardia de la ciudad no ha tomado acciones contra los delincuentes de forma deliberada, a causa de la corrupción y la influencia de la clase política.
+Anteriormente, había miembros del gobierno kharbrantiano que trabajaban para el [[Diagrama (grupo)\|Diagrama]], pero toda persona vinculada al grupo fue apartada del gobierno, siguiendo las órdenes de Taravangian, antes de su destitución.
 
-#### King Taravangian
->“*He may not offer binding commentary on the Diagram, but he may interact outside of supervision. He may change government policy so long as there is a three-day delay before the changes take effect, and he may also freely pass judgment in trials.*”
-\-Mrall's judgement on Taravangian's daily restrictions.[4]
+#### El Rey Taravangian
+>“*Puede que no ofrezca comentarios vinculantes sobre el Diagrama, pero puede interactuar sin supervisión. Puede cambiar la política gubernamental siempre que haya un lapso de tres días antes de que el cambio cobre efecto, y puede dar su veredicto libremente en los juicios.*”
+\-Opinión de Mrall sobre las limitaciones diarias de Taravangian.[4]
 
-Taravangian was a popular king, beloved by the common darkeyed citizens of Kharbranth for the time and effort he invested in the city's hospitals, though this came at the cost of a looser hold over the city's elite, who had much more political freedom at their disposal. Despite this, those in the royal court were known to complain about the amount of time Taravangian spent at the city's hospitals, believing he placed too much priority on the institutions. In general, lighteyed residents of Kharbranth found the king to be dull and his political capabilities to be lacking.
-Taravangian's intelligence and compassion fluctuated on a daily basis and he would be tested each morning to determine how much control he had over policy and how much he could interact with the politicians and citizens of Kharbranth. Initially, his political power was to be limited only on days of extreme unintelligence, however, after proposing, and attempting to implement, a eugenics program in Kharbranth on a day of high intelligence, it was decided that his ability to affect policy be restricted for both extremes. Additionally, Taravangian's ability to interact with others also had to be restricted, due to previous attempts to reveal his condition to the general public.
-King Taravangian was known to show deference to foreign nationals, which likely furthered the upper class' poor opinion of his political competency. Additionally, by welcoming [[Jasnah Kholin\|Jasnah Kholin]] to Kharbranth and allowing her access to the [[Palanaeum\|Palanaeum]], Taravangian may have strained relations between himself and the [[Vorin\|Vorin]] leaders in the city.
+Taravangian era un rey popular, querido por los ojos oscuros corrientes de la ciudad por la implicación y esfuerzo que invierte en los hospitales de la ciudad. Esto permite a las élites gozar de una mayor libertad política, que sin duda aprovechan. Sin embargo, algunos miembros de la corte real se quejan del tiempo que el rey dedica a los hospitales de la ciudad, ya que creen que les da demasiada prioridad. En general, los ojos claros de Kharbranth creen que el rey es algo corto y que carece de habilidades políticas.
+La inteligencia y la compasión de Taravangian fluctuan a diario, y se somete a una prueba cada mañana para determinar el grado de control que se le daba sobre temas políticos y en qué grado podía interactuar con los políticos y los ciudadanos de Kharbranth. Al principio, se decide que su poder político sería mínimo en sus días de muy poca inteligencia. Sin embargo, esta decisión se reconsidera tras la propuesta del rey de implementar un programa eugenésico en Kharbranth en uno de sus días de máxima inteligencia. Se decide entonces que no puede ejercer su poder político en ninguno de los estados extremos; las mismas restricciones se aplican a su capacidad de interactuar con otras personas, ya que hizo un intento de hacer pública su situación.
+Es característica de Taravangian la cortesía que demuestra a los ciudadanos extranjeros, cosa que probablemente ayude a empeorar la opinión que la clase alta tiene sobre su competencia política. Además, al recibir a [[Jasnah Kholin\|Jasnah Kholin]] en Kharbranth y permitirle el acceso al [[Palaneo\|Palaneo]], Taravangian podría haber tensado su relación con los líderes [[Vorinismo\|vorin]] de la ciudad.
 
-#### Queen Savrahalidem
-Queen Savra's relationship with her council and the people of Kharbranth are unknown. Upon becoming queen, she has broken her father’s alliances with all parties of the war and claimed neutral ground, deciding to focus on Kharbranth’s history and strength in providing medical aid where it is needed. Taravangian deliberately did not involve his daughter in the Diagram as he knew he would likely have to sacrifice himself to save the city, and did not want her to be implicated by his actions.
+#### La reina Savrahalidem
+Desconocemos la relación entre la reina y su consejo, además de con la población de Kharbranth. Cuando es coronada, Savri rompe las alianzas de su padre con ambos bandos de la guerra y declara Kharbranth territorio neutral. También decide volver a la tradición de la ciudad de prestar ayuda médica allí donde sea necesaria. Taravangian, a propósito, no involucra a su hija en el Diagrama, ya que sabía que probablemente tendría que sacrificarse a sí mismo para salvar la ciudad y no quería que ella se viera salpicada por sus acciones.
 
-### Military
-Kharbranth has only a small standing army so as to not affect its cultivated image of being unassuming and unthreatening. Kharbranth rarely engages in war, and offers medical aid to both sides of conflicts. The city-state does not have a true navy, however, has a number of merchant ships that can be commandeered in times of need. Kharbranthian soldiers wear burnt orange livery.
+### Ejército
+Kharbranth tiene solo un pequeño ejército permanente, para que no se vea afectada su tan trabajada imagen de ciudad modesta y nada amenazadora. Rara vez participa en guerras y suele ofrecer ayuda médica a ambos bandos de los conflictos. La ciudad-estado no tiene una fuerza naval como tal, pero sí que cuenta con varios barcos mercantes que pueden ser reclutados en caso de necesidad. Los soldados kharbranthianos visten un uniforme de color naranja oscuro.
 
-### Foreign Relations
- by  Ari Ibarra  Taravangian with the Diagram
-In the past, Kharbranth has had strong alliances with other Vorin nations, due to their shared religion. Taravangian was a close friend and confidant of [[Gavilar Kholin\|Gavilar Kholin]] before his death; however, it is unknown if there was a formal alliance between Alethkar and Kharbranth during Gavilar's time as king.
-During their alliance with Dalinar Kholin, a scribe managed Taravangian's kingly duties, while he and his advisers were away from the city. It was rumored throughout foreign nations that Taravangian was only a figurehead and that the true power behind the throne was either the scribe left in charge or Taravangian's head scribe, [[Adrotagia\|Adrotagia]]. This underestimation of Taravangian, led credence to Kharbranth's reputation as an unthreatening, peaceable city-state.
-Kharbranth has declared neutrality in the conflict between the Urithiru coalition and Odium, however, the city is likely still protected by the oaths made by Rayse to Taravangian. The Urithiru cohort are hostile towards the city due to the betrayal of its former leader, however, are unwilling to commit to a full conflict. This is in part due to the relative unimportance of the city-state, and in part due to Taravangian’s efforts to remove the Diagram prior to his being captured so there would be no justified reason to act against Kharbranth.
+### Relaciones exteriores
+  Taravangian con el Diagrama
+Anteriormente, Kharbranth ha mantenido alianzas fuertes con otras naciones vorin, debido a la religión que comparten. Taravangian fue amigo íntimo y confidente de [[Gavilar Kholin\|Gavilar Kholin]] antes de su muerte, pero desconocemos si existía una alianza formalizada entre Alezkar y Kharbranth mientras Gavilar era rey.
+Durante su alianza con Dalinar Kholin, un escriba gestiona las obligaciones de Taravangian como rey, mientras que él y sus consejeros estaban fuera de la ciudad. Circulaba el rumor por las naciones extranjeras de que Taravangian era solo un testaferro, y que quien manejaba los hilos era el escriba que quedaba al cargo de la ciudad o bien su escriba titular, [[Adrotagia\|Adrotagia]]. Este menosprecio hacia Taravangian aporta a la reputación de Kharbranth como una ciudad-estado pacífica y que no supone amenaza alguna.
+Kharbranth ha declarado su neutralidad en el conflicto entre la coalición de Urithiru y Odium, sin embargo es probable que la ciudad mantenga su protección gracias al juramento entre Rayse y Taravangian. La coalición de Urithiru es hostil hacia la ciudad a causa de la traición de su anterior líder; sin embargo, no están dispuestos a comprometerse a un conflicto abierto. Esto se debe en parte a la relativa poca importancia de la ciudad-estado, y en parte a los esfuerzos de Taravangian por desvincular al Diagrama de la ciudad antes de ser capturado, para que no haya ninguna razón de peso para tomar medidas contra Kharbranth.
 
-### The Diagram
->“*The Diagram has served its purpose. We have protected Kharbranth. We have fulfilled the Diagram.*”
-\-Taravangian's decision to dismantle the Diagram
+### El Diagrama
+>“*El Diagrama ha cumplido su propósito. Hemos protegido Kharbranth. Hemos completado el Diagrama.*”
+\-La decisión de Taravangian de desmantelar el Diagrama
 
 
-For more information about Taravangian's predictions, see [[Diagram (literature)\|Diagram (literature)]].
-For more information about the group that Taravangian operates, see [[Diagram (group)\|Diagram (group)]].
-The [[Diagram (group)\|Diagram]] is a secret society on [[Roshar\|Roshar]] that is headed by Taravangian and based around a book of predictions, that goes by the same name. The [[Diagram (literature)\|Diagram]] (literature) is a recollection of writings by Taravangian that was created on a day of extreme intelligence. These predictions, initially written over many surfaces within the king's bedroom, have been transcribed as written and form the basis of the secret society. Different sects exist within the society and interpret the Diagram differently to Taravangian. While it is active, the society heavily influences the governing of Kharbranth, dictating the size of the city-states military as well as how Kharbranth should present itself to foreign nations.
-Before they were closed down, members of the Diagram known as the Silent Gatherers, staffed and managed the secret hospitals hidden within the Conclave, where patients and citizens were brought to be killed and the [[Death Rattle\|Death Rattles]] collected. This operation was overseen by the ardent Dova, during times that Taravangian was away from the city.
-The Diagram (group) was disbanded by Taravangian in 1175 shortly before he was captured, with orders given to dismantle the organizational structures that were in place in Kharbranth.
+Para más información sobre las predicciones de Taravangian, ver [[Diagrama (literatura)\|Diagrama (literatura)]].
+Para más información sobre el grupo que dirige Taravangian, ver [[Diagrama (grupo)\|Diagrama (grupo)]].
+El [[Diagrama (grupo)\|Diagrama]] es una asociación secreta en [[Roshar\|Roshar]] dirigida por Taravangian y que se basa en un libro de predicciones con el mismo nombre. El [[Diagrama (literatura)\|Diagrama (literatura)]] es una colección de textos escritos por Taravangian en un día de inteligencia extrema. Estas predicciones, inicialmente escritas en todas las superficies disponibles de la habitación del rey, se han transcrito y conforman los cimientos del grupo secreto. Existen diferentes sectas dentro de la asociación que interpretan el Diagrama de forma distinta a Taravangian. Mientras están en activo, la asociación tiene una gran influencia sobre el gobierno de Kharbranth, y dicta el tamaño del ejército de la ciudad así como la forma en la que Kharbranth debe mostrarse antes otras naciones.
+Antes de ser clausurados, los miembros del Diagrama conocidos como los [[/wiki/Diagrama (grupo)#Los Recopiladores silenciosos]], proveían el personal y administraban los hospitales secretos ocultos en el Cónclave, donde llevaban a pacientes y ciudadanos para ser asesinados y recolectar así los [[Susurro de muerte\|susurros de muerte]]. Esta operación la supervisaba la fervorosa Dova mientras que Taravangian estaba fuera de la ciudad.
+El Diagrama como grupo fue disuelto en el año 1175 por Taravangian, poco antes de ser capturado, con la orden de desmantelar las estructuras organizativas que quedaran en Kharbranth.
 
-## Notable Residents
-For a full list see, see :Category:Residents of Kharbranth.
+## Residentes destacados
+Para la lista completa, ver :Categoría:Habitantes de Kharbranth.
 
-[[Taravangian\|Taravangian]]: former king of Kharbranth
-[[Savrahalidem\|Savrahalidem]]: queen of Kharbranth, daughter of Taravangian
-[[Adrotagia\|Adrotagia]]: head scribe
-[[Dova\|Dova]]: Herald Battah'Elin, ardent
-[[Dukar\|Dukar]]: [[Stormwarden\|Stormwarden]]. Dukar is in charge of Taravangian's daily intelligence testing and helps determine whether the king is fit for duty each morning.
-[[Mrall\|Mrall]]: Taravangian's bodyguard and the final adjudicator on the king's daily intelligence testing.
-[[Kabsal\|Kabsal]]: Ardent. Deceased.
-[[Joshor\|Joshor]]: Head of the Silent Gatherers.
+[[Taravangian\|Taravangian]]: antiguo rey de Kharbranth.
+[[Savrahalidem\|Savrahalidem]]: reina de Kharbranth, hija de Taravangian.
+[[Adrotagia\|Adrotagia]]: jefa de los escribas.
+[[Dova\|Dova]]: Heraldo Battah’Elin, fervorosa.
+[[Dukar\|Dukar]]: [[Predicetormentas\|predicetormentas]]. Dukar está al cargo de las pruebas de inteligencia diarias de Taravangian y ayuda a determinar si el rey es apto para cumplir con sus obligaciones cada mañana.
+[[Mrall\|Mrall]]: guardaespaldas de Taravangian y el que toma la decisión final sobre las pruebas de inteligencia diarias del rey.
+[[Kabsal\|Kabsal]]: fervoroso. Fallecido.
+[[Joshor\|Joshor]]: jefe de los recopiladores silenciosos.
 [[Pailiah\|Pailiah]]
 
-## Trivia
-The Alethi, Veden, and Kharbranthian languages are closer in similarity than Spanish and Portuguese.
-Kharbranth resembles the Italian city Positano, however, this was not intentional on Brandon's part. Isaac Stewart used real world inspirations for the maps found in the books, and although Brandon believes Positano may be one of the cities Isaac used, this has not been confirmed.
-The Palanaeum was named for [[Pailiah\|Pailiah]] the [[Herald\|Herald]]. It's name is based off the Greek word "Athenaeum".
-It was partly inspired from the ancient .
-An  created by [[17thshard.com\|17th Shard]] for archiving and transcribing [[Arcanum\|Words of Brandon]] was named after the Palanaeum.
-## See Also
+## Curiosidades
+El idioma alezi, veden y kharbranthiano se parecen más entre ellos que el español y el portugués.
+Kharbranth se parece a la ciudad italiana Positano, aunque no de forma intencional por parte de Brandon. Isaac Stewart se inspiró en lugares del mundo real para hacer los mapas que podemos encontrar en los libros y, aunque Brandon cree que Positano puede ser una de las ciudades en las que Isaac se ha basado, no está confirmado.
+El Palaneo recibe su nombre de la [[Heraldo\|Heraldo]] [[Pailiah\|Pailiah]]. Su nombre se basa en la palabra griega «Ateneo».
+Está inspirada en parte en la antigua .
+Hay un  creado por [[17thshard.com\|17th Shard]] para archivar y transcribir [[Arcanum\|Words of Brandon (Palabras de Brandon)]] que recibe su nombre del Palaneo.
+## Ver también
 [[Taravangian\|Taravangian]]
-[[Diagram (literature)\|Diagram (literature)]] and [[Diagram (group)\|Diagram (group)]]
-[[Palanaeum\|Palanaeum]]
+[[Diagrama (literatura)\|Diagrama (literatura)]] y [[Diagrama (grupo)\|Diagrama (grupo)]]
+[[Palaneo\|Palaneo]]
+## Notas
 
 
-https://coppermind.net/wiki/Kharbranth
+
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 06:00, 17 de noviembre de 2020 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] ·  · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Kharbranth

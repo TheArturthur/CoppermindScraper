@@ -1,26 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Sunjun**|
 |-|-|
-|**Died**||
-|**Abilities**|[[Nightmare\|Nightmare]]|
-|**Profession**|Scholar|
-|**Groups**|[[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]]|
-|**Nationality**|[[Torish\|Torish]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Yumi and the Nightmare Painter*|
+|**Fallecido**||
+|**Capacidades**|[[Pesadilla\|Pesadilla]]|
+|**Oficio**|Erudito|
+|**Grupo**|[[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]]|
+|**Nacionalidad**|[[De Torio\|de Torio]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Sunjun** is one of the [[Torish\|Torish]] scholars from the [[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]] who is involved in the creation of the [[Father machine\|father machine]] and who is later sent by the machine to prevent [[Yumi\|Yumi]] from escaping her prison.
+**Sunjun** es uno de los académicos de [[Torio\|Torio]] del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] que participa en la creación de la [[M%C3%A1quina padre\|máquina padre]] y que más tarde es enviado por la máquina para evitar que [[Yumi\|Yumi]] escape de su prisión.
 
-## Appearance and Personality
-Like other Torish scholars, he has a bearded chin and mustache. He wears white clothing with a black, winged .
-Sunjun is the most engineering-minded among his colleagues, preferring to be hands-on with their machinery and equipment. He is also the most observant, noticing Yumi's presence when their prototype machine is primed.
+## Apariencia y personalidad
+Al igual que otros eruditos toreses, lleva barbilla y bigote. Viste ropas blancas con un  negro alado.
+Sunjun es el más ingeniero de sus colegas y prefiere ser práctico con la maquinaria y los equipos. También es el más observador, ya que se da cuenta de la presencia de Yumi cuando su máquina prototipo está preparada.
 
-## History
-Prior to his death, Sunjun worked with other scholars to develop and activate the father machine. His soul was kept in reserve by the machine upon its activation, for the purpose of its self-defense, though he was still turned into a [[Nightmare\|nightmare]]. When Yumi's mind became resistant to the machine's tampering, Sunjun was one of the four scholars sent to [[Gongsha Town\|Gongsha Town]] to investigate, under the leadership of [[Gyundok\|Gyundok]].
-Their prototype machine did not work upon arrival on Gonghsa, and Sunjun got to work trying to discover why. After a few days he determined the issue was with their power source. Gyundok ordered Sunjun to prime the machine, but Sunjun backed away and refused outright to do this. Ultimately the [[Fourth Torish scholar\|fourth Torish scholar]] offered to prime it, prompting Sunun to back up even further. When the machine activated, Sunjun was carefully watching, and he realized that it was charged from an additional source. As the others celebrated, Sunjun announced that a [[Hijo\|spirit]] was present, then withdrew a detection device, plugged it into the machine, and used it to locate Yumi until she was able to escape.
-When Nikaro and Yumi approached the scholars to destroy the prototype machine, Gyundok called to Sunjun that it was time for a confrontation. Sunjun activated the boxy device that was subsequently used to sever the [[Connection\|Connection]] between Yumi and Painter.
-Sunjun remained with the other scholars after Yumi and Nikaro were separated, working to resolve the issues in Gongsha Town and contain Yumi. When Yumi escaped, he chased her with the others to [[Torio City\|Torio City]], where Yumi's dominating will forced him to stand down.
+## Historia
+Antes de su muerte, Sunjun trabajó con otros académicos para desarrollar y activar la máquina padre. Su alma fue mantenida en reserva por la máquina tras su activación, a efectos de su autodefensa, aunque seguía convertido en una [[Pesadilla\|pesadilla]]. Cuando la mente de Yumi se volvió resistente a la manipulación de la máquina, Sunjun fue uno de los cuatro académicos enviados al [[Pueblo de Gongsha\|pueblo de Gongsha]] para investigar, bajo el liderazgo de [[Gyundok\|Gyundok]].
+Su prototipo de máquina no funcionó a su llegada a Gonghsa, y Sunjun se puso manos a la obra para averiguar por qué. Al cabo de unos días, determinó que el problema estaba en la fuente de alimentación. Gyundok ordenó a Sunjun que alimentara la máquina, pero Sunjun se echó atrás y se negó en redondo a hacerlo. Finalmente, el [[Cuarto acad%C3%A9mico tor%C3%A9s\|cuarto académico torés]] se ofreció a alimentarla, lo que llevó a Sunjun a retroceder aún más. Cuando la máquina se activó, este la observaba atentamente, dándose cuenta de que estaba cargada por otra fuente adicional. Mientras los demás lo celebraban, Sunjun anunció que un [[Haijo\|espíritu]] estaba presente, luego sacó un dispositivo de detección, lo conectó a la máquina y lo utilizó para localizar a Yumi hasta que esta pudo escapar.
+Cuando Nikaro y Yumi se acercaron a los académicos para destruir el prototipo de máquina, Gyundok avisó a Sunjun de que había llegado la hora del enfrentamiento. Sunjun activó el dispositivo en forma de caja que posteriormente se utilizó para cortar la [[Conexi%C3%B3n\|Conexión]] entre Yumi y Pintor.
+Sunjun permaneció con los otros eruditos después de que Yumi y Nikaro se separasen, trabajando para resolver los problemas del pueblo de Gongsha y contener a Yumi. Cuando Yumi escapó, la persiguió con los demás hasta [[Ciudad Torio\|Ciudad Torio]], donde la voluntad dominante de Yumi lo obligó a retirarse.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Sunjun
+https://es.coppermind.net/wiki/Sunjun

@@ -1,55 +1,57 @@
-|**Expedition to Akinah**|
+
+
+|**Expedición a Akinah**|
 |-|-|
-|**Part of the True Desolation**|
-|by  Ben McSweeney |
-|**Date**|Late 1174|
-|**Participants**|[[Rysn\|Rysn]], [[Cord\|Cord]], [[Lopen\|Lopen]], [[Huio\|Huio]], [[Rushu\|Rushu]], [[Nikliasorm\|Nikliasorm]] (for a full list, see Characters Present)|
-|**Effects**|Rysn becomes a [[Dawnshard\|Dawnshard]] and makes a pact with the [[Sleepless\|Sleepless]]Akinah Oathgate rediscovered[[Coalition of monarchs\|Coalition of monarchs]] obtains eight [[Soulcaster\|Soulcasters]] and Cord obtains [[Shardplate\|Shardplate]]|
-|**City**|[[Akinah\|Akinah]]|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Parte de [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]**|
+||
+|**Fecha**|Late 1174|
+|**Participantes**|[[Rysn\|Rysn]], [[Cuerda\|Cuerda]], [[Lopen\|Lopen]], [[Huio\|Huio]], [[Rushu\|Rushu]], [[Nikliasorm\|Nikliasorm]] (para una lista completa, véase [[#Personajes presentes]])|
+|**Efectos**|Rysn se convierte en una [[Esquirla del Amanecer\|Esquirla del Amanecer]] y hace un pacto con los [[Insomne\|Insomnes]][[/wiki/Puerta Jurada#Akinah]] redescubiertaLa [[Coalici%C3%B3n de monarcas\|coalición de monarcas]] obtiene ocho [[Moldear almas\|moldeadores de almas]] y Cuerda obtiene una [[Armadura esquirlada\|armadura esquirlada]]|
+|**Ciudad**|[[Akinah\|Akinah]]🐱︎|
+|**Mundo**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-The [[Wandersail (1174 ship)\|Wandersail's]] **expedition to Akinah** in late 1174 led to the discovery of a [[Dawnshard\|Dawnshard]], several [[Soulcaster\|Soulcasters]], and [[Shardplate\|Shardplate]].
+La expedición del [[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]] a Akinah a finales de 1174 llevó al descubrimiento de una [[Esquirla del Amanecer\|Esquirla del Amanecer]], varios [[Moldear almas\|moldeadores de almas]] y una [[Armadura esquirlada\|armadura esquirlada]].
 
-## Contents
+## Sumario
 
-1 Background
-2 The Trip to Akinah
-3 At Akinah
-4 Aftermath
-5 Characters Present
-6 Notes
+1 Trasfondo. [[#Trasfondo]] 
+2 El viaje hacia Akinah. [[#El viaje hacia Akinah]] 
+3 En Akinah. [[#En Akinah]] 
+4 Eventos posteriores. [[#Eventos posteriores]] 
+5 Personajes presentes. [[#Personajes presentes]] 
+6 Notas. [[#Notas]] 
 
 
-## Background
-While on an unrelated sea voyage, the ship *First Dreams* was discovered by [[Smta\|Smta]], prompting Queen [[Navani Kholin\|Navani Kholin]] to put out a request for an expedition to [[Akinah\|Akinah]]. Earlier attempts at sending [[Windrunner\|Windrunners]] (including [[Leyten\|Leyten]], [[Lyn\|Lyn]], and [[Sigzil\|Sigzil]]) encountered a hordeling able to siphon their [[Investiture\|Investiture]] in the weather pattern around Akinah. The *First Dreams* was then brought to port in [[Thaylen City\|Thaylen City]] to undergo repairs. At this time, Rysn was both looking for a new voyage to undertake and a way to help Chiri-Chiri. Thinking this offer from Navani could fill both, she toured the *First Dreams*.
-Having decided to accept the request, Rysn had Queen [[Fen\|Fen]] write to Navani regarding the expedition. Rysn then traveled to [[Urithiru\|Urithiru]] and first met with [[Talik\|Talik]] to discuss Chiri-Chiri. She then met with Navani and negotiated and agreed on the terms of the expedition. Once the deal was accepted, Fen sent a writ to the crew of the *Wandersail* regarding the expedition.
-After [[Lopen\|Lopen]] met with [[Ral-na\|Ral-na]] and Talik, [[Kaladin\|Kaladin]] spoke with Lopen regarding the mission and Lopen volunteered. Lopen then spoke with [[Huio\|Huio]] and [[Cord\|Cord]] about the expedition, and reported to [[Rushu\|Rushu]] to be briefed on confidential details about the expedition from Navani.
+## Trasfondo
+Mientras se realizaba un viaje por mar y sin relación alguna, el barco *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* fue descubierto por [[Smta\|Smta]], lo que llevó a la reina [[Navani Kholin\|Navani Kholin]] a solicitar una expedición a [[Akinah\|Akinah]]. Intentos anteriores de enviar a [[Corredores del Viento\|Corredores del Viento]] (incluyendo a [[Leyten\|Leyten]], [[Lyn\|Lyn]] y [[Sigzil\|Sigzil]]) se encontraron con un [[/wiki/Insomne#Hordino]] capaz de drenar su [[Investidura\|Investidura]] dentro de la tormenta que rodea [[/wiki/Akinah#Tormenta protectora]]. El *Primeros Sueños* fue conducido entonces a puerto en [[Ciudad Thaylen\|Ciudad Thaylen]] para ser reparado. En ese momento, Rysn buscaba tanto un nuevo viaje que emprender como una forma de ayudar a Chiri-Chiri. Pensando que esta oferta de Navani podría cumplir ambas cosas, emprendió viaje en el *Vela Errante*.
+Tras decidir aceptar la petición, Rysn hizo que la Reina [[Fen Rnamdi\|Fen]] escribiera a Navani sobre la expedición. Rysn viajó entonces a [[Urithiru\|Urithiru]] y se reunió primero con [[Talik\|Talik]] para hablar de Chiri-Chiri. A continuación, se reunió con Navani y negoció y acordó los términos de la expedición. Una vez aceptado el acuerdo, Fen envió un escrito a la tripulación del *Vela Errante* sobre la expedición.
+Después de que [[Lopen\|Lopen]] se reuniera con [[Ral-na\|Ral-na]] y Talik, [[Kaladin\|Kaladin]] habló con Lopen sobre la misión y éste se ofreció como voluntario. A continuación, Lopen habló con [[Huio\|Huio]] y [[Cuerda\|Cuerda]] sobre la expedición, y se presentó ante [[Rushu\|Rushu]] para que Navani le informara de los detalles confidenciales de la expedición.
 
-## The Trip to Akinah
-Shortly before the [[Wandersail (1174 ship)\|Wandersail's]] scheduled departure, Rushu, Lopen, Huio, and Cord travelled to Thaylen City via [[Oathgate\|Oathgate]] from Urithiru. Just prior to that, the ship's pet, a skyeel named [[Screech\|Screech]], had died. The crew took this as a bad omen and were apprehensive of continuing. Rysn issued an order to allow any crew to leave without consequence, but only three took the offer.
-With everyone aboard and ready, the *Wandersail* sets sail out of the port of Thaylen City.
-A few weeks into the trip, Cord discovers that the *Wandersail'*s barrels of [[Lavis\|lavis]] are all contain worms. The crew sees this as another bad omen. In an effort to negate their superstitions, Rysn traded the wormy grain with [[Hexi\|Hexi]] nomads for jerky. The crew was placated and the voyage continued.
-Following its two failed attempts at sabotage, the worms and the dead skyeel, [[Nikliasorm\|Nikliasorm]] conferenced with [[Yelamaiszin\|Yelamaiszin]] and the eighteen other [[Sleepless\|Sleepless]] that accept Yelamaiszin's leadership. They decide to let Nikliasorm try one more omen before resorting to more drastic meausres.
-Some time later, Huio tinkered with Rushu's spanreeds and made a discovery with [[Aluminum\|aluminum]] in regards to conjoined fabrials. Just after this, a dead [[Santhid\|santhid]] is sighted. The crew debate for a moment what to do before the santhid dissolves into hordelings.
-Shaken, the crew went ashore for a bit. Rysn used the opportunity to contact [[Vstim\|Vstim]] by [[Spanreed\|spanreed]]. While ashore, Rushu and Huio construct a hovering chair for Rysn to use based on his earlier discovery.
-On the final approach to Akinah, Rysn confronted and detained Nikli and [[Plamry\|Plamry]], putting them on the main island of Aimia.
+## El viaje hacia Akinah
+Poco antes de la salida programada del [[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]], Rushu, Lopen, Huio y Cuerda viajaron a Ciudad Thaylen a través de la [[Puerta Jurada\|Puerta Jurada]] desde Urithiru. Justo antes, la mascota del barco, un anguila aérea llamada [[Aullido\|Aullido]], había muerto. La tripulación lo tomó como un mal presagio y se mostró recelosa de continuar. Rysn dio la orden de permitir que cualquier tripulante se fuera sin consecuencias, pero sólo tres aceptaron la oferta.
+Con todos a bordo y preparados, el *Vela Errante* zarpa del puerto de Ciudad Thaylen.
+A las pocas semanas de viaje, Cuerda descubre que los barriles de [[Lavis\|Lavis]] del *Vela Errante* contienen gusanos. La tripulación ve esto como otro mal presagio. En un esfuerzo por negar sus supersticiones, Rysn cambió el grano agusanado con los nómadas de [[Gran Hexi\|Hexi]] por cecina. La tripulación se aplacó y el viaje continuó.
+Tras sus dos intentos fallidos de sabotaje, los gusanos y la anguila aérea muerta, [[Nikliasorm\|Nikliasorm]] se reúne con [[Yelamaiszin\|Yelamaiszin]] y los otros dieciocho [[Insomne\|Insomnes]] que aceptan el liderazgo de Yelamaiszin. Deciden dejar que Nikliasorm lo intente un presagio más antes de recurrir a medidas más drásticas.
+Algún tiempo después, Huio jugueteó con los vinculacañas de Rushu e hizo un descubrimiento con el [[Aluminio\|aluminio]] en lo que respecta a los fabriales parejos. Justo después de esto, se avistó un [[Santhid\|santhid]] muerto. La tripulación debate por un momento qué hacer antes de que el santhid se deshaga en hordinos.
+Agitada, la tripulación bajó a tierra por un tiempo. Rysn aprovechó la oportunidad para ponerse en contacto con [[Vstim\|Vstim]] por medio de un [[Vinculaca%C3%B1as\|vinculacañas]]. Mientras estaban en tierra, Rushu y Huio construyeron una silla flotante para que Rysn la utilizara, basándose en su anterior descubrimiento con el aluminio.
+En la aproximación final a Akinah, Rysn se enfrentó y capturó a Nikliasorm y [[Plamry\|Plamry]], llevándolos presos a la isla principal de Aimia.
 
-## At Akinah
-The ship sailed into Akinah's strange storm and breached it without too much difficulty. Immediately after they exited the storm, Chiri-Chiri followed [[Luckspren\|luckspren]] underwater. Lopen and Rushu investigated the city of Akinah and discovered the [[Oathgate\|Oathgate]] in an underground cavern, beneath a fake Oathgate. Rysn and Cord escaped an attack by Nikli and were guided to the [[Dawnshard\|Dawnshard]] by luckspren. Huio and sailors from the *Wandersail* crew were then attacked by Nikli's giant hordeling on Akinah's beach. As other hordelings join in they quickly are surrounded. Lopen returned to aid in the battle against the giant hordelings. When Lopen was in danger of being killed, Huio swore the Third Ideal of the Windrunners and saved them both. Meanwhile, Rysn became the Dawnshard previously housed in the [[Akinah Dawnshard mural\|mural]]. Nikli and two other Sleepless entered the caverns, and Rysn and Cord negotiated a treaty with Nikli. The crew left with their lives and a few extra hordelings on board.
+## En Akinah
+El barco se adentró en la extraña tormenta de Akinah y la atravesó sin demasiada dificultad. Inmediatamente después de salir de la tormenta, Chiri-Chiri siguió a un [[Suertespren\|suertespren]] bajo el agua. Lopen y Rushu investigaron la ciudad de Akinah y descubrieron la [[Puerta Jurada\|Puerta Jurada]] en una caverna subterránea, bajo una falsa Puerta Jurada. Rysn y Cuerda escaparon de un ataque de Nikliasorm y fueron guiados hasta la [[Esquirla del Amanecer\|Esquirla del Amanecer]] por el suertespren. Huio y los marineros de la tripulación del ‘’Vela Errante’’ fueron entonces atacados por el hordino gigante de Nikliasorm en la playa de Akinah. Al unirse otros hordinos son rápidamente rodeados. Lopen volvió para ayudar en la batalla contra los hordinos gigantes. Cuando Lopen estuvo en peligro de morir, Huio juró el Tercer Ideal de los Corredores del Viento y los salvó a ambos. Mientras tanto, Rysn se convirtió en la Esquirla del Amanecer que antes se encontraba en el [[Mural de la Esquirla del Amanecer en Akinah\|mural]]. Nikliasorm y otros dos Insomnes entraron en las cavernas, y Rysn y Cuerda negociaron un acuerdo con ellos. La tripulación se marchó con sus vidas y unos cuantos hordinos más a bordo.
 
-## Aftermath
-On the way back, Lopen confronts Huio about his Third Ideal. Right after that, he swore his own Third Ideal. Three of the Soulcasters found were given to Alethkar, while five were given to Thaylenah. Some months later, Rysn tells Vstim about Dawnshards.
+## Eventos posteriores
+En el camino de vuelta, Lopen se enfrenta a Huio sobre su Tercer Ideal. Justo después, juró su propio Tercer Ideal. Tres de los moldeadores de almas encontrados fueron entregados a Alezkar, mientras que cinco fueron entregados a Thaylenah. Unos meses más tarde, Rysn le cuenta a Vstim acerca de las Esquirlas del Amanecer.
 
-## Characters Present
+## Personajes presentes
 
 [[Rysn Ftori\|Rysn Ftori]]
 [[Lopen\|Lopen]]
 [[Huio\|Huio]]
 [[Rushu\|Rushu]]
-[[Cord\|Cord]]
-[[Nikli\|Nikli]] *(was not present for complete expedition)*
-[[Drlwan\|Drlwan]]
+[[Cuerda\|Cuerda]]
+[[Nikli\|Nikli]] *(no estuvo presente durante la expedición completa)*
+[[Dlrwan\|Dlrwan]]
 [[Chiri-Chiri\|Chiri-Chiri]]
 [[Kstled\|Kstled]]
 [[Turlm\|Turlm]]
@@ -60,9 +62,27 @@ On the way back, Lopen confronts Huio about his Third Ideal. Right after that, h
 [[Alstben\|Alstben]]
 [[Flend\|Flend]]
 [[Pluv\|Pluv]]
-[[Plamry\|Plamry]] *(was not present for complete expedition)*
-[[Nlan\|Nlan]] *(left before expedition departed)*
+[[Plamry\|Plamry]] *(no estuvo presente durante la expedición completa)*
+[[Nlan\|Nlan]] *(se fue antes de la expedición partiera)*
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Expedition_to_Akinah
+https://es.coppermind.net/wiki/Expedition_to_Akinah

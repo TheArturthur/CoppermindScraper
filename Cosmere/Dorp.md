@@ -1,15 +1,31 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Dorp**|
 |-|-|
-|**Died**|Attack on the *Oot's Dream*|
-|**Profession**|[[Sprouter\|Sprouter]]|
-|**Homeworld**|[[Lumar\|Lumar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**|Ataque al *[[Sue%C3%B1o de Oot\|Sueño de Oot]]*|
+|**Oficio**|[[Germinador\|Germinador]]|
+|**Mundo natal**|[[Lumar\|Lumar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Dorp** is a [[Sprouter\|sprouter]] on the *Oot's Dream* which sails [[Lumar\|Lumar]].
-He attempts to repair the *Oot's Dream* when it comes under attack by the *Crow's Song*, patching the first holes caused by [[Laggart\|Laggart's]] cannonballs using [[Roseite\|roseite]].
-Dorp, at the suggestion of [[Tress\|Tress]], proposes to the [[Captain of the Oot's Dream\|ship's captain]] that Tress should be displayed prominently to the crew of the *Oot's Dream*, which the captain describes as "the first good idea [he] ever had". They hope that the *Oot's Dream* will cease firing upon them when the crew sees Tress's [[Inspector\|Royal Inspector]] uniform, however the ploy is unsuccessful. When Tress attempts to leave the *Oot's Dream* to walk across the spores, Dorp tackles her and begins attempting to rip her clothing off to take for himself. He is knocked down when Tress hits him with her pewter cup.
-Despite his efforts to repair the *Oot's Dream*, the onset of a [[Seethe\|seethe]] results in the sinking of the ship anyway. Dorp dies along with the rest of the crew of the *Oot's Dream* when it sinks into the [[Emerald Sea\|Emerald Sea]] following the *Crow's Song'*s attack.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+
+**Dorp** es un [[Germinador\|germinador]] en el *[[Sue%C3%B1o de Oot\|Sueño de Oot]]* que navega [[Lumar\|Lumar]].
+Intenta reparar el *Sueño de Oot* cuando es atacado por el *[[Canto del cuervo\|Canto del cuervo]]'*, parcheando los primeros agujeros causados por las balas de cañón de [[Laggart\|Laggart]] utilizando [[Rosa%C3%ADta\|rosaíta]].
+Ante la sugerencia de Trenza, Dorp propone al [[Capit%C3%A1n del Sue%C3%B1o de Oot\|capitán]] que Trenza sea presentada ante la tripulación del barco, a lo que este describe como «la primera buena idea» que había tenido. Esperan que el *Sueño de Oot* deje de dispararles cuando la tripulación vea el uniforme de [[Inspectora\|inspectora real]] de Trenza, sin embargo la estratagema no tiene éxito. Cuando Trenza intenta abandonar el Sueño de Oot para atravesar las esporas, Dorp la ataca e intenta arrancarle la ropa para quedársela él. Es derribado cuando Trenza lo golpea con su taza de peltre.
+A pesar de sus esfuerzos por reparar el *Sueño de Oot*, la aparición de un [[Bullir\|bullir]] provoca el hundimiento del barco de todos modos. Dorp muere junto al resto de la tripulación del *Sueño de Oot* cuando éste se hunde en el [[Mar Esmeralda\|mar Esmeralda]] tras el ataque del *Canto del cuervo*.
+
+## Notas
+
+{complete|MrMrDUCK (talk) 05:44, 11 de marzo de 2024 (UTC)}}
+
+|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
+|-|-|
+|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
+|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
+|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
+|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
 
 
 
-https://coppermind.net/wiki/Dorp
+https://es.coppermind.net/wiki/Dorp

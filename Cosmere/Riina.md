@@ -1,92 +1,113 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Riina**|
 |-|-|
-|by  Howard Lyon |
-|**Abilities**|[[Elantrian\|Elantrian]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]]|
-|**Titles**|The Sorceress|
-|**Groups**|[[Ire\|Ire]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Mistborn: Secret History*|
+||
+|**Capacidades**|[[Elantrino\|Elantrino]], [[Despertante\|Despertante]], [[Saltamundos\|Saltamundos]]|
+|**Títulos**|la hechicera|
+|**Grupo**|[[Ire\|Ire]]🐱︎|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*Nacidos de la bruma: historia secreta*|
 
-This page or section needs to be updated with new information for *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*There is precisely one being I fear on this planet.*”
-\-Xisis in reference to Riina[2]
-
-
-**Riina**, also known as **the Sorceress**, is a member of the [[Ire\|Ire]] and was a resident on [[Lumar\|Lumar]] considered one of the most dangerous people on the planet.
-
-## Contents
-
-1 Appearance and Personality
-
-1.1 Appearance
-1.2 Personality
+>“*Hay un único ser sobre la faz de este planeta al que temo.*”
+\-Xisis en referencia a Riina[2]
 
 
-2 Attributes and Abilities
+**Riina**, también conocida como **la hechicera**, es una miembro de los [[Ire\|Ire]] y residía en [[Lumar\|Lumar]] donde era considerada una de las personas más peligrosas del planeta.
 
-2.1 The Sorceress's Army
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 
-3 History
-
-3.1 Member of the Ire
-3.2 The Sorceress
-
-3.2.1 Arrival of Tress and Charlie
+1. [[#Apariencia]] 
+1. [[#Personalidad]] 
 
 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+
+2. [[#El ej.C3.A9rcito de la hechicera]] 
 
 
-4 Trivia
-5 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#Miembro de los Ire]] 
+3. [[#La hechicera]] 
+
+3. [[#Llegada de Trenza y Charlie]] 
 
 
-## Appearance and Personality
- by  Marie Seeberger 
-### Appearance
-In the [[Cognitive Realm\|Cognitive Realm]] of [[Scadrial\|Scadrial]], Riina was a withered husk.
-On [[Lumar\|Lumar]], Riina appears to be a woman in her fifties (when she gained the ability to stop aging) who is short and plump. Like most Elantrians, she dislikes makeup as she thinks it takes away from the effect of her glowing skin.
-
-### Personality
->“*In her case, in lieu of a soul, the woman had pure ice. Kept cold and frozen by her heart.*”
-\-Hoid describing Riina.[5]
-
-Riina is known to be unusually cruel. She curses anyone who enters her domain and survives, as well as anyone who attempts to talk to her. She personally delights in coming up with cruel curses, spending her spare time coming up with new ideas for them. As part of this she also ensures that the cursed individual is aware of the full details of the curse, but also are incapable of talking about it with others and thus unable to ask for help. This is done intentionally on her part in order to make the curse more cruel for the afflicted. All those who have met her attest to her being a cruel and heartless individual. Even [[Xisis\|Xisis]] considers imprisonment under him to be a mercy when the alternative is meeting Riina.
-She also seems to enjoy the reputation of the Sorceress. Despite it being unneeded, she is known to speak in rhyme while placing a curse on someone. At the same time, she shows a certain level of disdain for those on Lumar, as she considers folklore about her to be funny nonsense and dismisses their technological achievements. She is also opinionated about seemingly inconsequential things, such as believing that spaceships should have sliding doors.
-Riina herself, like most Elantrians, is known to be very cautious and unwilling to take any risks that may involve her dying. This is a motive for her arriving to Lumar, a system where she does not think she can be opposed and whose technology is vastly inferior to her own. When faced with a force that actually has a chance of stopping her, she retreats. Even the knowledge that a [[Dragon (cosmere)\|dragon]] is on the same planet as her is enough to spook her. Riina is paranoid to the extent that she keeps vats of acid nearby on the of chance that a [[Kandra\|Kandra]] will try to act against her in some way. Despite this caution, however, [[Hoid\|Hoid]] considers Riina easy to manipulate.
-
- by  Howard Lyon  Midnight Essence under Riina's control
-## Attributes and Abilities
-Riina is an [[Elantrian\|Elantrian]] and [[Awakener\|Awakener]]. Riina is also capable of using [[AonDor\|AonDor]] in order to grant **curses** to others. They are formed through long strands of Aons, which can be seen wrapping around the cursed, lining up with Aon Equations; the person given the curse is aware as to what the stipulations of the curse are. When placed upon someone a requirement is made to break the curse, other than meeting this requirement there is no way to break the curse, not even Riina herself can achieve this. The curse itself however can be altered by other Elantrians. An aspect of the curse is always consistent which is that the cursed individual cannot discuss the curse with others; any attempt to do so leads to them stuttering. The curses are flawed, however, in that since they cannot be changed, they can be manipulated if one finds a way to do so that Riina failed to prevent. One way to do so is by identifying what an individual cannot talk about. This indirectly reveals aspects of their curse.
-She is possibly capable of Investing common animals to grant them self-awareness, making them her familiars. Although it isn't clear if this is what she does, or if it just humans that she transforms into animals.
-Other beings in the Cosmere also fear Riina, one of which is the [[Dragon\|dragon]] [[Xisisrefliel\|Xisisrefliel]] who considers imprisoning people to be a mercy when the alternative is for them to face the Sorceress. He himself fears to confront her.
-
-### The Sorceress's Army
-In the role of being the Sorceress she had an army of some sort, most probably her metal soldiers and [[Midnight Essence\|Midnight Essence]]. Her army had gone to war against the [[Emerald Sea\|Emerald Sea]] multiple times in the past with the Emerald Sea losing the conflict each time. Even during peace time her forces were known to go on raids against the kingdom. This army also apparently contains ships, of which only hers can sail with any others being destroyed by her forces.
-In the case of Midnight Essence they are formed when rain hits the [[Aether spores\|spores]] in the [[Midnight Sea\|Midnight Sea]]. Upon being spawned these beings fall under her command and follow her wishes. In order to achieve this goal she manages to set up a way to continuously grant water to the monsters formed by the Midnight Essence. She also possesses an army of Awakened soldiers, these troops are awakened constructs and immune to almost all weapon fire on Lumar. A single reptilian humanoid also is under her command.
-
-## History
-### Member of the Ire
-She was among the five members of the Ire that set out on an expedition to try and capture [[Preservation\|Preservation's]] [[Shard\|Shard]]. She rode on horseback and carried a decoy version of the [[Ire's orb\|Ire's orb]]. She abandoned the expedition with the rest of the group when [[Kelsier\|Kelsier]] used [[Alonoe\|Alonoe's]] robes to make it appear that she had disintegrated.
-
-### The Sorceress
-Many years later Riina came into the possession of a [[Sorceress's tower\|spaceship]] and used it to travel to Lumar. She chose Lumar because she believed that the planet was unimportant and that none of its inhabitants posed a threat to her. Whilst there, she set up her defences and eventually became known to the planet's inhabitants. Over the years, she earned the title of *Sorceress*. Under this name she cursed or killed anyone who dared visit her island in the Midnight Sea, inspiring fear among the population. The kingdom on the [[Emerald Sea\|Emerald Sea]], and possibly others, attempted numerous wars against her and her army but each ended in failure. This led to further raids launched by Riina against the kingdoms.
-
->“*She took my other sense of taste. The important one. And with it went my sense of humor, my sense of decorum, my sense of purpose, and my sense of self*”
-\-Hoid explaining his curse.[20]
-
-Eventually [[Hoid\|Hoid]] noticed Riina's presence on the planet and decided to approach her. For a long time Hoid had desired to become an Elantrian and learned that the only way to achieve this was to be invited to become one. He decided that Riina was someone who could make this happen. Hoid travelled to her island and made a bet with her, stipulating that he would allow himself to be cursed on the condition that if he broke the curse, he would become an Elantrian. Riina agreed to these terms and cursed him, causing him to lose most of his mental faculties. The only way for Hoid to break the curse was for him to re-enter her tower. Over the ensuing years, Riina kept an eye on Hoid, but never felt worried that he would actually break the curse.
-
- by  ohnoesaxel 
-#### Arrival of Tress and Charlie
-Following her curse of Hoid, the Sorceress continued her raiding of the Emerald Sea. Due to these pressures the king eventually began to consider it necessary to wage war against the Sorceress. In order to justify this, he began seeking out more support for a war among the populace. As part of this effort, he sent [[Charlie\|Charlie]] to Riina with a marriage proposal under the guise of that this arrangement would be a path toward peace. In truth, he expected the Sorceress to harm Charlie, giving him the ammunition he needed, as well as popular support, for a war. Upon Charlie's arrival, Riina ordered her troops to take him to his tower. Whilst there, she sent a ransom to the king demanding he hand over souls of the Royal family for the freedom of Charlie. Whilst waiting for his response, she and Charlie talked for a time and she learned of his love for [[Tress\|Tress]]. When it had become clear that the ransom would go unpaid, Riina elected to curse Charlie, turning him into a rat. She set the terms of breaking the curse to be for him to bring Tress to the Sorceress to be cursed herself. Following this, she allowed him to leave and began further raids against the Emerald Sea.
-For the next few months, Riina would largely ignore the outside world and focus solely on the activities of Hoid and Charlie on the planet. At some stage she managed to hack into [[Fort\|Fort's]] translation device allowing her to see and hear what he did. This served as an easy way for her to keep tabs on the crew of the *Crow's Song* and Hoid himself. Hoid speculates that it was around this time she grew worried that he might actually make good on his bet and so began work to sabotage him further. Eventually, by happenstance, both Charlie and Tress arrived on the boat and Riina was able to keep tabs on them as well. She watched Tress' journey to the midnight sea, and eventual capture by the Sorceress' midnight essence.
-Upon arriving, Tress attempted to barter for Charlie. Riina played along, attempting to pass one of her spies off as Charlie using [[Lightweaving\|lightweaving]]. Tress was about to leave the tower with the fake Charlie when she realized the ruse and turned back to confront Riina, who then explained the full details of Charlie's curse to Tress. While having this conversation with the pair, she failed to notice the crew of the *Crow's Song* arriving at the island. Riina became distracted attending the defense of her island, giving Tress and Charlie the opportunity to use her computer to communicate with Fort and [[Salay\|Salay]]. During their conversation, Tress realized the nature of Hoid's curse. Knowing that Hoid's curse would be broken if he reached the tower and that he could potentially defeat the Sorceress, she instructed Salay, Fort, and [[Ann\|Ann]] to bring Hoid with them to the tower. During all of this, Charlie had been trying to reach the door of the tower, but the Sorceress' cat, Lacy, had been making that impossible. As Salay, Fort, Ann, and Hoid finally arrived at the base of the tower, he told Tress to distract the sorceress as he made a last ditch effort. Tress did distract the Sorceress, and the Sorceress began to prepare a curse for Tress using AonDor. Just as the curse was about to transform Tress, Hoid burst into the tower and blocked it with his own AonDor spell. After a brief conversation, Riina offered to let the crew leave the island. Tress refused and instead demanded Riina herself leave the planet for her crimes against the inhabitants of Lumar. Riina dismissed this threat until Tress ordered Hoid to help and he indicated that he would. Riina weighed her odds and decided to comply with Tress' order. After Tress and the crew left, she departed the planet in her tower, which was also a spaceship.
-
-## Trivia
-Although never stated by the text itself, the painting by [[Howard Lyon\|Howard Lyon]] depicts Riina as trying to cast the Aon Shao on Tress. This aon is about transformation and also uses illusion magic, indicating that the Sorceress was planning to have Tress's curse revolve around an illusion or transformation. This art should not be taken as fact and Aon Shao is not necessarily the Aon that was used.
 
 
-https://coppermind.net/wiki/Sorceress
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+ 
+### Apariencia
+En el [[Reino Cognitivo\|Reino Cognitivo]] de [[Scadrial\|Scadrial]], Riina era una mujer marchita y reseca.
+En [[Lumar\|Lumar]], Riina parece una mujer de unos cincuenta años (cuando adquirió la capacidad de detener el envejecimiento), bajita y regordeta. Como a la mayoría de los elantrinos, no le gusta el maquillaje, pues cree que le resta efecto a su piel resplandeciente.
+
+### Personalidad
+>“*En su caso, en lugar de alma, esa mujer tenía puro hielo. Mantenido frío y congelado por su corazón.*”
+\-Hoid describiendo a Riina.[5]
+
+Riina es conocida por su crueldad inusual. Maldice a cualquiera que entre en sus dominios y sobreviva, así como a cualquiera que intente hablar con ella. A ella personalmente le encanta inventar maldiciones crueles, y pasa su tiempo libre ideando nuevas ideas para ellas. Como parte de esto, también se asegura de que el individuo maldito es consciente de todos los detalles de la maldición, pero también son incapaces de hablar de ello con los demás y por lo tanto incapaz de pedir ayuda. Esto se hace intencionadamente por su parte para que la maldición sea más cruel para quien la sufre. Todos los que la han conocido dan fe de que es una persona cruel y despiadada. Cuando la alternativa es encontrarse con Riina, incluso [[Xisis\|Xisis]] considera el encarcelamiento bajo su mando una clemencia.
+También parece disfrutar de la reputación de la hechicera. A pesar de que no es necesario, es conocida por hablar en rima mientras lanza una maldición a alguien. Al mismo tiempo, muestra cierto desdén por los de Lumar, ya que considera que el folclore sobre ella es una divertida tontería y desprecia sus logros tecnológicos. También opina sobre cosas aparentemente intrascendentes, como que las naves espaciales deberían tener puertas correderas.
+La propia Riina, como la mayoría de los elantrinos, tiene fama de ser muy precavida y de no estar dispuesta a correr riesgos que puedan implicar su muerte. Este es el motivo por el cual ella llega a Lumar, un sistema donde ella cree que no puede ser desafiada y cuya tecnología es considerablemente inferior a la suya. Cuando se enfrenta a una fuerza que realmente tiene la capacidad de detenerla, se retira. Incluso el conocimiento de que un [[Drag%C3%B3n (Cosmere)\|dragón]] está en el mismo planeta que ella es suficiente para asustarla. Riina es paranoica hasta el punto de mantener cerca cubas de ácido por si acaso un [[Kandra\|kandra]] intentase actuar contra ella de algún modo. Sin embargo, a pesar de esta cautela, [[Hoid\|Hoid]] considera a Riina fácil de manipular.
+
+  Esencia de Medianoche bajo control de Riina
+## Atributos y habilidades
+Riina es una [[Elantris (ciudad)\|elantrina]] y [[Despertar\|despertadora]]. Riina también es capaz de utilizar [[AonDor\|AonDor]] para lanzar **maldiciones** a otros. Se forman a través de largas hebras de aones, que pueden verse envolviendo al maldito, alineándose con las ecuaciones de Aon; la persona que recibe la maldición es consciente de cuáles son las estipulaciones de la misma. Cuando se impone a alguien un requisito para romper la maldición, si no se cumple este requisito no hay forma de romper la maldición, ni siquiera la propia Riina puede conseguirlo. Sin embargo, la maldición puede ser alterada por otros elantrinos. Una característica constante de la maldición es que el individuo afectado no puede hablar sobre ella con otros; cualquier intento de hacerlo resulta en que comience a tartamudear. Sin embargo, las maldiciones tienen defectos en el sentido de que, dado que no pueden ser cambiadas, pueden ser manipuladas si alguien encuentra una forma de hacerlo que Riina no logró prevenir. Una forma de hacerlo es identificar aquello de lo que un individuo no puede hablar. Esto revela indirectamente aspectos de su maldición.
+Posiblemente sea capaz de investir animales comunes para que tomen conciencia de sí mismos y se conviertan en sus familiares. Aunque no está claro si esto es lo que hace, o si son solo humanos a los que transforma en animales.
+Otros seres del Cosmere también temen a Riina, uno de ellos es el [[Drag%C3%B3n (Cosmere)\|dragón]] [[Xisisrefliel\|Xisisrefliel]] que considera que encarcelar a la gente es una clemencia cuando la alternativa es que se enfrenten a la hechicera. Él mismo teme enfrentarse a ella.
+
+### El ejército de la hechicera
+En su papel de hechicera, contaba con algún tipo de ejército, probablemente sus soldados de metal y [[Esencia de Medianoche\|Esencia de Medianoche]]. Su ejército había entrado en guerra contra el [[Mar Esmeralda\|mar Esmeralda]] en múltiples ocasiones en el pasado, perdiendo el mar Esmeralda el conflicto en cada ocasión. Incluso en tiempos de paz, sus fuerzas eran conocidas por realizar incursiones contra el reino. Al parecer, este ejército también contiene barcos, de los cuales sólo el suyo puede navegar, ya que los demás son destruidos por sus fuerzas.
+En el caso de la Esencia de Medianoche se forman cuando la lluvia golpea las [[Esporas de %C3%A9ter\|esporas]] en el [[Mar de Medianoche\|mar de Medianoche]]. Al ser engendrados, estos seres caen bajo su mando y siguen sus deseos. Para lograr este objetivo, consigue establecer una forma de conceder continuamente agua a los monstruos formados por la Esencia de Medianoche. También posee un ejército de soldados despertados, estas tropas son constructos despertados e inmunes a casi todos los disparos de armas de Lumar. Un único humanoide reptil también está bajo su mando.
+
+## Historia
+### Miembro de los Ire
+Formaba parte de los cinco miembros de Ire que partieron en una expedición para intentar capturar la [[Esquirla\|Esquirla]] de . Iba a caballo y llevaba una versión de señuelo del [[Orbe de los Ire\|Orbe de los Ire]]. Abandonó la expedición con el resto del grupo cuando [[Kelsier\|Kelsier]] utilizó la túnica de [[Alonoe\|Alonoe]] para que pareciese que ella se había desintegrado.
+
+### La hechicera
+Muchos años después, Riina se hizo con una [[Torre de la hechicera\|nave espacial]] y la utilizó para viajar a Lumar. Eligió Lumar porque creía que el planeta carecía de importancia y que ninguno de sus habitantes suponía una amenaza para ella. Allí estableció sus defensas y acabó siendo conocida por los habitantes del planeta. Con los años, se ganó el título de *hechicera*. Bajo este nombre, maldecía o mataba a cualquiera que se atreviera a visitar su isla en el mar de Medianoche, inspirando temor entre la población. El reino del [[Mar Esmeralda\|mar Esmeralda]], y posiblemente otros, intentaron numerosas guerras contra ella y su ejército, pero todas acabaron en fracaso. Esto provocó nuevas incursiones de Riina contra los reinos.
+
+>“*Me quitó el otro sentido del gusto. El importante. Y con él perdí el sentido del humor, el sentido del decoro, el sentido del propósito y mi sentido del yo.*”
+\-Hoid explicando su maldición.[20]
+
+En un momento dado [[Hoid\|Hoid]] se percató de la presencia de Riina en el planeta y decidió acercarse a ella. Durante mucho tiempo, Hoid había deseado convertirse en un elantrino y se enteró de que la única forma de conseguirlo era ser invitado a serlo. Decidió que Riina era alguien que podía hacer que esto sucediese. Hoid viajó a su isla e hizo una apuesta con ella, estipulando que se dejaría maldecir con la condición de que si rompía la maldición, se convertiría en un elantrino. Riina aceptó las condiciones y lo maldijo, haciéndole perder la mayor parte de sus facultades mentales. La única forma de que Hoid rompiera la maldición era que volviese a entrar en su torre. Durante los años siguientes, Riina vigiló a Hoid, pero nunca se preocupó de que pudiese romper la maldición.
+
+ 
+#### Llegada de Trenza y Charlie
+Tras maldecir a Hoid, la hechicera continuó su incursión en el mar Esmeralda. Debido a estas presiones, el rey acabó por considerar necesario librar una guerra contra la hechicera. Para justificarlo, empezó a buscar más apoyo para la guerra entre la población. Como parte de este esfuerzo, envió a [[Charlie\|Charlie]] a Riina con una propuesta de matrimonio bajo el pretexto de que este acuerdo sería un camino hacia la paz. En realidad, esperaba que la hechicera perjudicase a Charlie, dándole la munición que necesitaba, así como el apoyo popular, para una guerra. A la llegada de Charlie, Riina ordenó a sus tropas que lo llevasen a su torre. Mientras estuvo allí, envió un rescate al rey exigiendo que entregara las almas de la familia real a cambio de la libertad de Charlie. Mientras esperaba su respuesta, ella y Charlie hablaron durante un tiempo y ella se enteró de su amor por Trenza. Cuando quedó claro que el rescate no se pagaría, Riina decidió maldecir a Charlie y convertirlo en una rata. Ella puso como condición para romper la maldición que él llevase a Trenza ante la hechicera para que ella misma fuese maldecida. Tras esto, le permitió marcharse y comenzó nuevas incursiones contra el mar Esmeralda.
+Durante los meses siguientes, Riina ignoraría el mundo exterior y se centraría únicamente en las actividades de Hoid y Charlie en el planeta. En algún momento consiguió hackear el dispositivo de traducción de [[Fort%C3%ADn\|Fortín]] permitiéndole ver y oír lo que él hacía. Esto le sirvió para vigilar a la tripulación del *[[Canto del cuervo\|Canto del cuervo]]* y al propio Hoid. Hoid especula que fue entonces cuando ella empezó a preocuparse por la posibilidad de que cumpliese su apuesta y empezó a trabajar para sabotearlo aún más. Al final, por casualidad, Charlie y Trenza llegaron al barco y Riina también pudo seguirlos. Observó el viaje de Trenza al mar de Medianoche, y su posterior captura por la esencia de medianoche de la hechicera.
+Al llegar, Trenza intentó hacer un trueque por Charlie. Riina le siguió el juego, intentando hacer pasar a uno de sus espías por Charlie utilizando [[Tejer luz\|tejido de luz]]. Trenza estaba a punto de salir de la torre con el falso Charlie cuando se dio cuenta de la treta y se volvió para enfrentarse a Riina, que entonces le explicó todos los detalles de la maldición de Charlie. Mientras conversaba con ellos, no se percató de la llegada a la isla de la tripulación del *[[Canto del cuervo\|Canto del cuervo]]*. Riina se distrajo atendiendo la defensa de su isla, dando a Trenza y Charlie la oportunidad de usar su ordenador para comunicarse con Fortín y [[Salay\|Salay]]. Durante su conversación, Trenza se dio cuenta de la naturaleza de la maldición de Hoid. Sabiendo que la maldición de Hoid se rompería si llegaba a la torre y que potencialmente podría derrotar a la hechicera, ordenó a Salay, Fortín y [[Ann\|Ann]] que llevasen a Hoid con ellos a la torre. Durante todo esto, Charlie había estado intentando llegar a la puerta de la torre, pero la gata de la hechicera, Lacy, lo había estado haciendo imposible. Cuando Salay, Fortín, Ann y Hoid llegaron por fin a la base de la torre, le dijo a Trenza que distrajese a la hechicera mientras él hacía un último esfuerzo. Trenza distrajo a la hechicera, y la Hechicera empezó a preparar una maldición para Trenza usando AonDor. Justo cuando la maldición estaba a punto de transformar a Trenza, Hoid irrumpió en la torre y la bloqueó con su propio hechizo AonDor. Tras una breve conversación, Riina ofreció a la tripulación abandonar la isla. Trenza se negó y exigió a Riina que abandonase el planeta por sus crímenes contra los habitantes de Lumar. Riina desestimó esta amenaza hasta que Trenza ordenó a Hoid que le ayudase y éste le indicó que lo haría. Riina sopesó sus posibilidades y decidió cumplir la orden de Trenza. Cuando Trenza y la tripulación se marcharon, ella abandonó el planeta en su torre, que también era una nave espacial.
+
+## Curiosidades
+Aunque el propio texto nunca lo afirma, el cuadro de [[Howard Lyon\|Howard Lyon]] representa a Riina intentando lanzar el [[/wiki/Aon#Shao]] sobre Trenza. Este aon trata de la transformación y también utiliza magia de ilusión, lo que indica que la hechicera planeaba que la maldición de Trenza girase en torno a una ilusión o transformación. Este arte no debe tomarse como un hecho y el Aon Shao no es necesariamente el Aon que se utilizó.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*, ahora necesita volver a revisarse.
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
+|-|-|
+|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · |
+|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
+|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
+|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
+
+
+
+https://es.coppermind.net/wiki/Riina

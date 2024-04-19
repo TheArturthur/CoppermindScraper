@@ -1,51 +1,75 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Forch**|
 |-|-|
-|**Died**|314, killed by [[Waxillium Ladrian\|Wax]]|
-|**Abilities**|Coinshot & Brute [[Twinborn\|twinborn]]|
-|**Residence**|[[The Village\|The Village]]|
-|**Ethnicity**|[[Terris\|Terris]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Bands of Mourning*|
+|**Fallecido**|314, asesinado por [[Waxillium Ladrian\|Wax]]|
+|**Capacidades**|[[Nacidoble\|Nacidoble]]🐱︎: [[/wiki/Acero#Uso alom.C3.A1ntico]] y [[/wiki/Peltre#Uso feruqu.C3.ADmico]]|
+|**Residencia**|[[La Aldea\|La Aldea]]|
+|**Etnia**|[[De Terris\|de Terris]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Forch** is a [[Terris\|Terris]] youth living in [[The Village\|The Village]] in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]] during [[Waxillium Ladrian\|Waxillium Ladrian's]] youth. A [[Twinborn\|Twinborn]], he is both a [[Steel\|steel]] [[Misting\|Misting]] (aka a Coinshot) and a [[Pewter\|pewter]] [[Ferring\|Ferring]] (aka a Brute). Forch is an arsonist and a kidnapper and is killed by Waxillium Ladrian. His interactions with the young Wax strongly influences Wax's later life, forcing him to leave the Village and pushing him further on his path to becoming a lawman.
+**Forch** es un joven [[Terris\|terrisano]] que vive en [[La Aldea\|la Aldea]] de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]] durante la juventud de [[Waxillium Ladrian\|Waxillium Ladrian]]. Es un [[Nacidoble\|nacidoble]], ya que es tanto un [[Brumoso\|brumoso]] de [[Acero\|acero]] (también denominado [[Lanzamonedas\|lanzamonedas]]) y un [[Ferrin\|ferrin]] de [[Peltre\|peltre]] (también denominado [[Bruto\|bruto]]). Forch es un pirómano y secuestrador que es asesinado por Waxillium Ladrian. Sus interacciones con el joven Wax influyen fuertemente en la vida posterior de éste, obligándole a abandonar la Aldea y empujándole a seguir su camino para convertirse en vigilante.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Initial Arson
-3.2 Death
-3.3 Legacy
-
-
-4 Notes
+3. [[#Incendio inicial]] 
+3. [[#Muerte]] 
+3. [[#Legado]] 
 
 
-## Appearance and Personality
->“*I've just got to see what's inside. You know?*”
-\-Forch on his obsession[1]
+4 Notas. [[#Notas]] 
 
 
-Forch is a tall young man in his late teens. He almost never says anything and also rarely displays any sort of emotion. He has few friends of his own. Forch is a clever man though, capable of careful planning, such as establishing a false alibi in order to avoid being implicated in any of his crimes. He can be careless though, and may overlook small details that hint at his guilt. He is also highly disturbed, feeling no sense of remorse at horrific crimes. Forch has a fascination with both arson and violence. He has a curiosity about what the insides of people look like and is willing to commit crimes such as kidnapping and torture to see for himself. He also has no qualms about killing anyone who witnesses his crimes, and is unwilling to show any mercy to his victims.
-
-## Attributes and Abilities
-Forch is a Twinborn, with access to both an Allomantic and a Feruchemical ability. Forch is a Coinshot, which allows him to Push on metal objects. He is a strong Allomancer, able to challenge Wax in strength. Since Forch lives in the Village, he cannot make use of his Allomancy openly; he is restricted to using it privately and in emergency situations. Thus he is not very practiced in its use and can misjudge the force of his Pushes as well as how much he should brace himself. He also lacks finesse with Allomancy, making use of simple weapons like a metal bar used to crush his opponents. He is also a Brute which allows Forch to store strength in a pewtermind and tap it to grow stronger at a later time. Forch uses this typically in hand-to-hand fights, easily beating others with his enhanced strength. He also sometimes uses it with his Allomancy, throwing metal objects into places where he can conveniently Push on them.
-
-## History
-### Initial Arson
-It is unknown when Forch began his life in the Village. Around the year 314, Forch began to commit arson in the Village. He burnt down down the Terris dining lodge. Forch did not conceal his actions very well, and Waxillium Ladrian discovered a number of clues linking Forch to the arson, including flasks of oil in his bedside chest, clothing that smelled of smoke, and boots that matched footprints found at the arson. Waxillium told Elder [[Vwafendal\|Vwafendal]] and the other Terris elders about his suspicions, and they confronted Forch who seemed penitent. They assigned him a punishment, and believing him to be lonely, asked the other Terris youths to befriend him. Waxillium did not believe they punished Forch enough, and anonymously submitted his findings to the city constables.
-
-### Death
-About a month later, Forch planned to sneak out of the Village in the evening to drink with [[Telsin Ladrian\|Telsin Ladrian]], [[Idashwy\|Idashwy]], [[Kwashim\|Kwashim]], and [[Waxillium Ladrian\|Waxillium Ladrian]]. Waxillium became nervous and did not accompany them, but Forch left with the others. While he was away, a constable visited the Village and attempted to convince Vwafendal to turn the arsonist over to him. Vwafendal refused and the constable left a bullet as a reminder of past violent crimes in the Village.
-After Forch's companions became too drunk to notice his absence, he kidnapped a young child, sneaked back into the Village, carrying the boy in a sack on his shoulder. His return was seen by Waxillium and who eventually decided to follow Forch. Forch went to an old dormitory which had been converted into a storage building. Forch carried the boy to a room on the third floor, where he gagged him, tied him to a table, and proceeded to cut him open with knives, planning to burn the building down when he was done. Forch saw Waxillium enter the building and ambushed him in a dark room. He was unable to prevent Wax from entering the room where he had been torturing the boy. Forch attacked Wax with his Metalborn abilities, Pushing Wax with a metal bar and then beating him with strength from his pewtermind. Forch picked Wax up and threw him out a window.
-Forch returned to torturing the child, but Wax survived the fall by Pushing on the bullet he had taken from Vwafendal's office earlier. Wax returned to the building to attack Forch. He Pushed the bullet at Forch's head. Forch Pushed on the bullet too, caught in a shoving match with Wax. Using his Feruchemy, Forch threw the metal bar at Wax, Pushing on it and crushing Wax against the wall. Just before being crushed to death, Wax managed to Push on the primer of the bullet caught between them, firing it and hitting Forch in the eye, killing him instantly.
-
-### Legacy
-Forch had a heavy impact on the future of the young Waxillium Ladrian. Wax's investigation of Forch's crime was some of the earliest investigative work Wax did in his life, and showed his skill at analytical thinking and solving crimes. Forch's death at Waxillium's hand also caused a rift between Wax and the Village. Despite the monstrosity of Forch's crimes, the people of the Village resented Wax for bringing violence into their home. Wax left the Village shortly afterward, leaving the new life he had begun there behind.
+## Apariencia y personalidad
+>“*Tengo que ver lo que hay dentro, ¿sabes? Eso es todo.*”
+\-Forch sobre su obsesión[1]
 
 
+Forch es un joven alto que se encuentra al final de la adolescencia. Casi nunca dice nada y tampoco suele mostrar ningún tipo de emoción. Tiene pocos amigos propios. Sin embargo, Forch es un inteligente, capaz de hacer planes cuidadosos, como establecer una coartada falsa para evitar ser implicado en alguno de sus crímenes. Sin embargo, puede ser descuidado, y puede pasar por alto pequeños detalles que sugieren su culpabilidad. También está muy trastornado y no siente ningún remordimiento ante los crímenes horribles. Siente fascinación por los incendios y la violencia. Tiene curiosidad por saber cómo es el interior de las personas y está dispuesto a cometer crímenes como el secuestro y la tortura para verlo por sí mismo. Tampoco tiene reparos en matar a cualquiera que sea testigo de sus crímenes, y no muestra ninguna piedad con sus víctimas.
 
-https://coppermind.net/wiki/Forch
+## Atributos y habilidades
+Forch es un nacidoble, con acceso a una habilidad alomántica y otra feruquímica. Es un lanzamonedas, lo que le permite empujar objetos metálicos. Es un alomante fuerte, capaz de desafiar a Wax en cuanto a fuerza. Como Forch vive en la Aldea, no puede hacer uso de su alomancia abiertamente, sino que se limita a utilizarla en privado y en situaciones de emergencia. Esto significa que no tiene mucha práctica en su uso y puede juzgar mal la fuerza de sus empujes alománticos, así como la medida en que debe protegerse. También carece de delicadeza con la alomancia, y utiliza armas sencillas como una barra de metal para aplastar a sus oponentes. También es un bruto, lo que permite a Forch almacenar fuerza en una mentepeltre y decantarla para hacerse más fuerte posteriormente. Forch utiliza esto normalmente en peleas cuerpo a cuerpo, venciendo fácilmente a otros con su fuerza mejorada. También lo utiliza en ocasiones junto con su alomancia, lanzando objetos metálicos a lugares en los que puede empujarlos convenientemente.
+
+## Historia
+### Incendio inicial
+Se desconoce cuándo comenzó Forch su vida en la Aldea. Hacia el año 314, Forch comenzó a cometer incendios provocados allí. Quemó el comedor de los terrisanos. Forch no ocultó muy bien sus acciones, y Waxillium Ladrian descubrió una serie de pistas que le relacionaban con el incendio, como frascos de aceite en el baúl de debajo de su cama, ropa que olía a humo y unas botas que coincidían con las huellas encontradas en el incendio. Waxillium comunicó sus sospechas a la venerable [[Vwafendal\|Vwafendal]] y a los demás ancianos terrisanos, y éstos se enfrentaron a Forch, que parecía arrepentido. Le asignaron un castigo y, creyendo que se sentía solo, pidieron a los otros jóvenes terrisanos que se hicieran amigos suyos. Waxillium no creyó que hubieran castigado a Forch lo suficiente, y presentó anónimamente sus conclusiones a los alguaciles de la ciudad.
+
+### Muerte
+Alrededor de un mes después, Forch planeó escaparse de la Aldea por la noche para beber con [[Telsin Ladrian\|Telsin Ladrian]], [[Idashwy\|Idashwy]], [[Kwashim\|Kwashim]] y [[Waxillium Ladrian\|Waxillium Ladrian]]. Waxillium se puso nervioso y no les acompañó, pero Forch se fue con los demás. Mientras estaba fuera, un alguacil visitó la Aldea e intentó convencer a Vwafendal de que le entregara al pirómano. Vwafendal se negó y el alguacil dejó una bala como recuerdo de anteriores crímenes violentos ocurridos en la Aldea.
+Después de que los compañeros de Forch se emborracharan demasiado para notar su ausencia, secuestró a un niño pequeño y volvió a la Aldea a escondidas, llevando al niño en un saco al hombro. Su regreso fue visto por Waxillium, que finalmente decidió seguirle. Forch se dirigió a un antiguo dormitorio que se había convertido en un almacen. Llevó al chico a una habitación del tercer piso, donde lo amordazó, lo ató a una mesa y procedió a abrirlo con cuchillos, planeando quemar el edificio cuando terminara. Forch vio a Waxillium entrar en el edificio y le tendió una emboscada en una habitación oscura. No pudo evitar que Wax entrara en la habitación donde había estado torturando al chico. Atacó a Wax con sus habilidades de nacido del metal, empujando a Wax con una barra de metal y luego golpeándolo con la fuerza de su mentepeltre. Forch levantó a Wax y lo lanzó por una ventana.
+Forch volvió a torturar al niño, pero Wax sobrevivió a la caída empujando la bala que había sacado antes del despacho de Vwafendal. Retornó al edificio para atacar a Forch. Empujó la bala hacia la cabeza de este, pero él también empujó la bala y se vieron envueltos en un duelo de empujones alománticos. Utilizando su feruquimia, Forch lanzó la barra de metal contra Wax, empujándola y aplastando a Wax contra la pared. Justo antes de morir aplastado, Wax consiguió empujar la parte trasera de la bala atrapada entre ellos, disparándola y dando a Forch en el ojo, matándolo al instante.
+
+### Legado
+Forch tuvo un fuerte impacto en el futuro del joven Waxillium Ladrian. La investigación del crimen de Forch fue uno de los primeros trabajos de investigación que realizó Wax en su vida, y demostró su habilidad para el pensamiento analítico y la resolución de crímenes. La muerte de Forch a manos de Waxillium también provocó una ruptura entre Wax y la Aldea. A pesar de la monstruosidad de los crímenes de Forch, los habitantes de la Aldea estaban resentidos con Wax por haber traído la violencia a su hogar. Wax abandonó el lugar poco después, dejando atrás la nueva vida que había empezado allí.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 04:02, 27 June 2016 (MST)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Forch

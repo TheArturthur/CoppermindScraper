@@ -1,33 +1,53 @@
-|**Cultivation's Perpendicularity**|
+
+
+|**Perpendicularidad de Cultivación**|
 |-|-|
-|by  Yen Shu Liao |
-|**Related to**|[[Cultivation\|Cultivation]]|
-|**Use**|Travel between [[Roshar\|Roshar]] and [[Shadesmar\|Shadesmar]]|
-|**Region**|[[Horneater Peaks\|Horneater Peaks]]|
-|**World**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Relacionado con**|[[Cultivaci%C3%B3n\|Cultivación]]|
+|**Uso**|Viajar entre [[Roshar\|Roshar]] y [[Shadesmar\|Shadesmar]]|
+|**Región**|[[Picos Comecuernos\|Picos Comecuernos]]|
+|**Mundo**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“* I used a portal between realms. Cultivation's Perpendicularity, they call it.*”
-\- Azure[1]
-
-
-**Cultivation's Perpendicularity**, referred to as "the pool" or the "water of life" by the [[Unkalaki\|Unkalaki]], is the only known stable [[Perpendicularity\|perpendicularity]] on [[Roshar\|Roshar]]. Like all perpendicularities, Cultivation's Perpendicularity allows for travel between [[Roshar\|Roshar's]] [[Physical Realm\|Physical Realm]] and [[Shadesmar\|Shadesmar]]. Although it is possible to enter Roshar through other means, they are known to be highly unstable; as such, this appears to be the main method by which [[Worldhopper\|worldhoppers]] arrive at the planet.
-
-## Location and Appearance
->“*Ah, but these are not springs, this is lowlander word. The Horneater oceans are waters of life.*”
-\-Rock telling a Unkalaki story to members of Bridge Four[3]
+>“*Usé un portal entre reinos. Lo llaman la Perpendicularidad de Cultivación.*”
+\- Celeste[1]
 
 
-Cultivation's Perpendicularity is located in the [[Horneater Peaks\|Horneater Peaks]] on Roshar. It is either one or all of the [[Horneater Oceans\|Horneater Oceans]], warm bodies of water that allow people to live there despite the high altitude. It's filled with ordinary water at the top; however, beneath this layer, it appears to be made of something else, likely the liquid [[Investiture\|Investiture]] of the [[Shard\|Shard]] [[Cultivation\|Cultivation]]. It's possible that living near Cultivation's Perpendicularity can affect people, as among the [[Unkalaki\|Unkalaki]]--the Horneaters--there are people known as *alaii'iku*, or [[Sighted\|Sighted]], who are capable of perceiving [[Spren\|spren]] that are normally invisible to the human eye. The Sighted are also considered the guardians of the perpendicularity.
+**La Perpendicularidad de Cultivación**, también llamada "el lago" o "las aguas de la vida" por los [[Unkalaki\|Unkalaki]], es la única [[Perpendicularidad\|perpendicularidad]] estable conocida en [[Roshar\|Roshar]]. Como todas las perpendicularidades, la de Cultivación permite viajar entre el [[Reino F%C3%ADsico\|Reino Físico]] de [[Roshar\|Roshar]] y [[Shadesmar\|Shadesmar]]. Aunque es posible entrar en Roshar a través de otros medios, se sabe que son muy inestables; en consecuencia, éste parece ser el principal método por el que los [[Saltamundos\|saltamundos]] llegan al planeta.
 
-## History
-Sometimes while swimming in the Oceans, the Horneaters would visit the "place of the gods", implying that the [[Unkalaki\|Unkalaki]] would sometimes travel through the perpendicularity, albeit briefly.
-Both [[Wit\|Wit]] and [[Azure\|Azure]] used this perpendicularity when arriving on [[Roshar\|Roshar]]. The former passed through while [[Rock\|Rock]] was still at the Peaks, while the latter likely uses it some time later, chasing a "criminal", presumably [[Zahel\|Zahel]].
-During the [[True Desolation\|True Desolation]], the perpendicularity was assaulted through Shadesmar by the [[Voidbringers\|Voidbringers]], who took control of, and blockaded, it to control travel, as they believed it would help secure them a foothold in the realm so they could begin to build their own empire. Though it seemed that the Voidbringer presence in the region was limited to the [[Cognitive Realm\|Cognitive Realm]], it still had some sort of impact on the inhabitants of the Peaks.
-Since the [[Fused\|Fused]] increased their influence in Shadesmar, travelers moving through the perpendicularity have become uncommon. This occupation gained the area a poor reputation, and travel to the area became increasingly rarer with ships in the area vanishing before they reached their destination. The Fused began sailing their warships through the region, halting anyone they came upon and demanding tribute of them. Because of this, most spren chose to avoid the region; with the exception of the [[Honorspren\|honorspren]] who sent warships to attempt to destroy the Fused's blockades, and [[Azure\|Azure]] who still believed it to be the safest way to transfer to the Physical Realm. When she accidentally finds herself stuck in Shadesmar, Azure attempts to convince [[Kaladin\|Kaladin]] and the other members of their group that they should try and go to the perpendicularity to transfer back to the Physical Realm.
+## Localización y apariencia
+>“*Ah, pero no son manantiales. Esa es una palabra llanera. Los océanos comecuernos son aguas de vida.*”
+\-Roca contando una historia unkalaki a los miembros del Puente Cuatro[3]
 
 
+La Perpendicularidad de Cultivación se encuentra en los [[Picos Comecuernos\|Picos Comecuernos]] de Roshar. Es o bien uno o bien todos los [[Oc%C3%A9anos Comecuernos\|océanos Comecuernos]], cálidos cuerpos de agua que permiten a la gente vivir allí a pesar de encontrarse a gran altitud. Están llenos de agua corriente en la parte superior; sin embargo, debajo de esta capa parecen estar compuestos de algo más, probablemente la [[Investidura\|Investidura]] en estado líquido de la [[Esquirla\|Esquirla]] de [[Cultivaci%C3%B3n\|Cultivación]]. Es posible que vivir cerca de la Perpendicularidad de Cultivación pueda afectar a la gente, ya que entre los [[Unkalaki\|Unkalaki]]—los comecuernos— hay personas conocidas como *alaii'iku*, o [[Vidente (Roshar)\|Videntes]], que son capaces de percibir [[Spren\|spren]] que normalmente son invisibles para el ojo humano. Los Videntes también son considerados los guardianes de la perpendicularidad.
 
-https://coppermind.net/wiki/Cultivation%27s_Perpendicularity
+## Historia
+A veces, mientras nadaban en los océanos, los comecuernos visitaban el «lugar de los dioses», lo que sugiere que los [[Unkalaki\|Unkalaki]] a veces viajaban a través de la perpendicularidad, aunque brevemente.
+Tanto [[Sagaz\|Sagaz]] como [[Celeste\|Celeste]] utilizaron esta perpendicularidad para llegar a [[Roshar\|Roshar]]. El primero pasó por ella mientras [[Roca\|Roca]] se encontraba aún en los Picos, mientras que la segunda probablemente la utilizó tiempo después persiguiendo a un «criminal», presumiblemente [[Zahel\|Zahel]].
+Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], la perpendicularidad fue asaltada desde Shadesmar por los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]], quienes tomaron el control de la misma y la bloquearon para poder controlar los viajes, ya que creían que esto les ayudaría a asegurar así una posición en el reino que les permitiese comenzar a construir su propio imperio. Aunque parecía que la presencia de los Portadores del Vacío en la región se limitaba al [[Reino Cognitivo\|Reino Cognitivo]], seguía teniendo algún tipo de impacto entre los habitantes de los Picos.
+Desde que los [[Fusionado\|Fusionados]] aumentaron su influencia en Shadesmar, los viajeros que se desplazaban a través de la perpendicularidad se han vuelto poco comunes. Esta ocupación hizo que la zona adquiriera una mala reputación, y los viajes a la región se volvieron cada vez más raros, ya que los barcos en la zona desaparecían antes de llegar a su destino. Los barcos de guerra de los Fusionados empezaron a navegar por la zona, deteniendo a todo el que encontraban y les exigían tributo. Debido a esto, la mayoría de los spren optaron por evitar la región (a excepción de los [[Honorspren\|honorspren]], que enviaron naves de guerra con la intención de destruir los bloqueos de los Fusionados, y de [[Celeste\|Celeste]] quien seguía creyendo que era la forma más segura de trasladarse al Reino Físico). Cuando se encuentra accidentalmente atrapada en Shadesmar, Celeste intenta convencer a [[Kaladin\|Kaladin]] y a los demás miembros de su grupo de que deberían intentar ir a la perpendicularidad para trasladarse de nuevo al Reino Físico.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, ahora necesita volver a revisarse.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Cultivation%27s_Perpendicularity

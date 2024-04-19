@@ -1,16 +1,30 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Heimline**|
 |-|-|
-|**Profession**|DDF pilots|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Oficio**|Piloto de la FDD|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
->“*I’m not sure I’d wish this command on them, not even the ones I hated.*”
-\-Ironsides when asked by Cobb if she wished someone else had survived[1]
-
-
-Admiral **Heimline** is a pilot in the [[DDF\|DDF]]. It is unclear whether Heimline was a junior or senior Admiral. Heimline fought against the [[Varvax\|Krell]] in the [[Battle of Alta\|Battle of Alta]]. Heimline did not survive the battle, however, if they did, they would have been considered a [[First Citizen\|First Citizen]].
-[[Ironsides\|Ironsides]] may have greatly disliked Heimline, however, it is unclear.
+>“*No sé si les desearía este mando. Ni siquiera a los que odiaba.*”
+\-Férrea cuando le pregunta Cobb si desearía que otra persona hubiera sobrevivido[1]
 
 
+El almirante **Heimline** es un piloto de la [[FDD\|FDD]]. No está claro si Heimline era un almirante subalterno o superior. Luchó contra los [[Varvax\|krell]] en la [[Batalla de Alta\|Batalla de Alta]]. Heimline no sobrevivió a la batalla, sin embargo, de haberlo hecho, habría sido considerado un [[Primer Ciudadano\|Primer Ciudadano]].
+Es posible que a [[F%C3%A9rrea\|Férrea]] no le gustara mucho, pero no está claro.
 
-https://coppermind.net/wiki/Heimline
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 00:11, 31 de marzo 2019 (MST)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+
+
+
+https://es.coppermind.net/wiki/Heimline

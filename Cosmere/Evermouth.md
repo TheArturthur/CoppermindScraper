@@ -1,8 +1,8 @@
 |**Evermouth**|
 |-|-|
-|**World of Origin**|[[Mirandus\|Mirandus]]|
+|**Mundo de origen**|[[Mirandus\|Mirandus]]|
 
-This page or section needs to be updated with new information for *Dark One Book 1*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 **Evermouths** are giant green lizard creatures that call the [[Blackened Lands\|Blackened Lands]] on [[Mirandus\|Mirandus]] home.
 
@@ -17,6 +17,16 @@ Evermouths are large quadrupedal creatures, similarly sized to a horse. They hav
 Evermouths roam the Blackened Lands in packs, hunting for food. They will hunt after prey over large distances, covering the ground faster than a mounted person can.
 Paul Tanasin is somehow able to subdue a lone Evermouth that he comes across not long after appearing on Mirandus. He is able to keep and control the Evermouth as a mount, like one would a horse.
 
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Dark One (franquicia)\|Dark One]] ([[Tierra (Dark One)\|Tierra]]/[[Mirandus\|Mirandus]])**|
+|-|-|
+|**Personajes**|[[Paul Tanasin\|Paul Tanasin]] · [[Nikka\|Nikka]] · [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] · [[Gosovic\|Gosovic]] · [[Feotora\|Feotora]] · [[Illarion\|Illarion]] · [[Kraisis\|Kraisis]] · [[Malmahan\|Malmahan]] · [[Rastik\|Rastik]]|
+|**Lugares**|[[Mirandus\|Mirandus]] · [[Kingdoms of Light\|Kingdoms of Light]] · [[Blackened Lands\|Blackened Lands]] · [[Pitch\|Pitch]]|
+|**Magia y lore**|[[Narrative\|Narrative]] · [[Destined One\|Destined One]] · [[Dark One (t%C3%ADtulo)\|Dark One]] · [[Well of Sorrows\|Well of Sorrows]] · [[Peragator\|Peragator]]|
+|**Otros**|[[Drull\|Drull]] ·  · [[Ironkeeper\|Ironkeeper]]|
 
 
-https://coppermind.net/wiki/Evermouth
+
+https://es.coppermind.net/wiki/Evermouth

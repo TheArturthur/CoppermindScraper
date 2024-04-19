@@ -1,108 +1,132 @@
+
+
 |**Taldain**|
 |-|-|
-|by  Jian Guo |
-|**Shards**|[[Autonomy\|Autonomy]]|
-|**Investitures**|[[Sand mastery\|Sand mastery]], [[Starmarks\|Starmarks]]|
-|**System**|[[Taldain system\|Taldain system]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-For the planetary system that includes the planet Taldain, see [[Taldain system\|Taldain system]].
-This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
+||
+|**[[Esquirla\|Esquirlas]]**|[[Autonom%C3%ADa\|Autonomía]]|
+|**[[Investidura\|Investiduras]]**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]], [[Marcas estelares\|marcas estelares]]|
+|**Sistema**|[[Sistema de Taldain\|Sistema de Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+Para el sistema planetario que incluye el planeta Taldain, ver [[Sistema de Taldain\|sistema de Taldain]].
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*Taldain is one of the most bizarre planets in the cosmere, a fact that, in turn, feels bizarre to me.*”
-\-Khriss[2]
-
-
-**Taldain** is a planet in the [[Cosmere\|cosmere]] located within the [[Taldain system\|Taldain system]] and is the current residence of the [[Shard\|Shard]] [[Autonomy\|Autonomy]]. It is the home world of [[Khriss\|Khriss]], and is the world upon which the story of *White Sand* is set.
-
-## Contents
-
-1 Geography and Ecology
-
-1.1 Dayside
-
-1.1.1 Flora
-1.1.2 Fauna
+>“*Taldain es uno de los planetas más extravagantes del Cosmere, hecho que, a su vez, me resulta extravagante a mí.*”
+\-Khriss.[2]
 
 
-1.2 Darkside
+**Taldain** es un planeta del [[Cosmere\|Cosmere]] localizado en el [[Sistema de Taldain\|sistema del mismo nombre]] y es la residencia actual de la [[Esquirla\|Esquirla]] [[Autonom%C3%ADa\|Autonomía]]. Es el planeta natal de [[Khriss\|Khriss]]. También es el mundo en el que se desarrolla la historia de *[[Arena Blanca\|Arena Blanca]]*.
 
-1.2.1 Flora
-1.2.2 Fauna
+## Sumario
 
+1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
 
+1. [[#Lado Diurno]] 
 
-
-2 History
-3 Culture
-
-3.1 Dayside
-3.2 Darkside
+1. [[#Flora]] 
+1. [[#Fauna]] 
 
 
-4 Astronomy
-5 Magic System
-6 Notes
+1. [[#Lado Oscuro]] 
+
+1. [[#Flora 2]] 
+1. [[#Fauna 2]] 
 
 
-## Geography and Ecology
-Taldain is a tidally locked planet; one side of the world experiences perpetual day while the other side is locked in a type of endless night. This caused the ecology and culture on both sides of the planet to develop separately from one another. The two prominent cultures on Taldain are known as Dayside and Darkside. The individuals pertaining to each culture are known as 'Daysiders' and 'Darksiders' respectively. There is a temperature difference between the two halves, though not enough for it to snow on Darkside.
-The area between both sides is known as the [[Border Ocean\|Border Ocean]] which has the **Terminal Storm** at the center, a perpetual storm making it dangerous to cross.
 
-### Dayside
- by  Ben McSweeney  Kerla Landscape, as sketched by Duchess Khrissalla.
-Most of the planet’s Investiture is found on Dayside. Much of Dayside is covered in [[Sand (Taldain)\|sand]] and rock, the sand itself being covered by lichen. This lichen is where the sand's striking white color comes from as well as the reason it changes between white and black in the process of sand mastery and other forms of Investiture.
-**Dayside** is home to one large circular landmass that is surrounded by ocean on all sides. On this landmass there are five nations; [[Kerzta\|Kerzta]], [[Lossand\|Lossand]], [[Denka\|Denka]], [[Seevis\|Seevis]], and [[Tallon\|Tallon]]. There is a mountain range on the eastern side of the landmass, which marks the borders of Seevis and Tallon and separates the [[Rim Kingdoms\|Rim Kingdoms]] from Kerzta and Lossand. A mountain named [[KraeDa\|KraeDa]] lies at the center of Dayside. A wide variety of Flora and Fauna make their home on this part of the planet. But due to the harshness of the sunlight and environment, most of the flora and fauna live beneath the surface of the sand. In the [[Kerla\|Kerla]], where the water table is high, the majority of life is found in a unique ecosystem beneath the sand that has been described as more like a lake of sand than a desert.
 
-#### Flora
-In the Kerla, most plants, including farms of vegetables, exist beneath the sand. The [[Dorim vine\|dorim vine]] is a plant used as a water source on Dayside by its inhabitants, and areas where they grow are not considered to be a desert. The plant stores water primarily as a defensive measure against other creatures as water dissolves the shells of many sand creatures. Because of this any creature attempting to eat the plant would find their mouths beginning to melt. As a result, the growth of dorim vines limits how large sandlings can grow in these regions.
-The banks of the [[Ry'Do Ali River\|Ry'do Ali]] in Lossand is cultivated for farming despite the area being less fertile than the Kerla. Plants in this area of rocky low sands are described as being noticbly shorter and "more stumpy" than Darkside flora. The [[Lonzare\|Darkside quarter]] of [[Kezare\|Kezare]] has flowers native to Darkside growing within it.
+2 Historia. [[#Historia]] 
+3 Cultura. [[#Cultura]] 
 
-#### Fauna
-[[Sandling\|Sandlings]] inhabit all areas of the continent, ranging in size from insectile sandlings found everywhere to gargantuan deep sandlings. It is rare for a deep sandling to venture far from the [[Deep sand\|deep sands]]. Most sandlings live by eating the layer of sand exposed to the sun, and digesting the lichen that covers the sand. The sand turns dull after being digested, but the lichen from undigested sand will spread back onto it, given time. Some sandlings, like the [[DelRak\|DelRakin]] are predators that eat other sandlings.
-There are multiple breeds of deep sandling. Some of them, such as [[KaRak\|KaRakin]], are hunted for sport. Another breed consists of thousands of small sandlings which act as a group in the deep sands; when they move they agitate the sand above them causing them to be mistaken for a much larger creature forcing wanderers to retreat. Delrak Naisha are another breed found in the deep sands. They are creatures that wait just beneath the sand; if the sand above them is disturbed, they emerge and consume whatever is above them.
-[[Tonk\|Tonks]] are a type of domesticated sandling on Dayside used as beasts of burden; they are primarily used as mounts. They are scared of water, however, and refuse to cross it. Travelling with tonks is also frustrating because of their natural instinct to bury themselves underneath sand during a sandstorm and their tendency to mistake many things for sandstorms.
-[[Terha\|Terhan]] are another beast of burden, larger than a tonk and often used by soldiers as beasts of war. They may be treated by [[DoKall\|DoKall]] to make their carapace immune to water when used in this role. [[Rezal\|Rezalin]] may be used for faster long-distance transportation beasts, as their oversized rear legs allow them to move quickly from dune to dune.
+3. [[#Lado Diurno 2]] 
+3. [[#Lado Oscuro 2]] 
 
-### Darkside
-**Darkside**, also known as **Starside** in Elis, is illuminated by the Eye of [[Ridos\|Ridos]] with a spectrum composed primarily by UV light, with most visible light filtered out by the particulate cloud. The result is that the sky is perpetually in a state of twilight as if the sun had just set. This causes **Darksiders** to have illuminated teeth, eyes, and nails. The plant and animal life also glow under UV light. Visitors to the region often describe it as looking somewhere between striking and garish. It also accounts for why Darksiders have dark skin when they don't live in a traditional climate where a high melanin content is common. When visiting Dayside, Darksiders must wear dark lenses to protect their eyes. They can go without, however, if the angle of the sun is not directly above them or they force themselves to adapt.
-The landmass of Darkside is of an unknown size and shape. There are many countries, though most have been subordinated to the [[Dynastic\|Dynastic]] Empire. Elis is a landlocked country on Darkside. Nimmyn is a geographical location whose flora has been imported to Lraezare, but it is not known if it is a country or region.
-Unlike what was once assumed, Darkside is Invested by [[Autonomy\|Autonomy]], though the effects of this aren't as noticeable. The particulate cloud around Ridos's Eye emits a pulse every week that Invests [[Starmarks\|Starmarks]] on Darkside, even if only some people can access that Investiture.
+
+4 Astronomía. [[#Astronom.C3.ADa]] 
+5 Sistema de magia. [[#Sistema de magia]] 
+6 Notas. [[#Notas]] 
+
+
+## Geografía y ecología
+Taldain es un planeta con rotación sincrónica; un lado del mundo experimenta el día perpetuo mientras el otro lado está sumido en un tipo de noche interminable. Esto causa que la ecología y la cultura en ambos lados del planeta se desarrollen por separado. Las dos culturas más importantes de Taldain se conocen como Lado Diurno y Lado Oscuro. Los individuos pertenecientes a cada cultura se conocen como "diurnenses" y "oscurenses" respectivamente. Hay una diferencia de temperatura entre las dos mitades, aunque no la suficiente para que nieve en el Lado Oscuro.
+La zona entre ambos lados se conoce como el [[Oc%C3%A9ano Lim%C3%ADtrofe\|océano Limítrofe]], que tiene l a**Tormenta Limítrofe** en el centro, una tormenta perpetua que hace peligroso cruzar.
+
+### Lado Diurno
+  Paisaje de Kerla, bocetado por la duquesa Khrissalla.
+La mayor parte de la Investidura de los planetas se encuentra en el Lado Diurno. Gran parte está cubierto de roca y [[Arena (Taldain)\|arena]], que, a su vez, está cubierta de líquenes. De este liquen procede el llamativo color blanco de la arena, así como la razón por la que cambia de blanco a negro con la maestría de la arena y otras formas de Investidura.
+El **Lado Diurno** es el hogar de una gran masa de tierra circular que está rodeada de océano por todos lados. En esta masa de tierra hay cinco naciones: [[Kerzta\|Kerzta]], [[Lossand\|Lossand]], [[Denka\|Denka]], [[Seevis\|Seevis]] y [[Tallon\|Tallon]]. Hay una cordillera en el lado oriental de la masa terrestre, que atraviesa Tallon y limita con Seevis. Una montaña llamada [[KraeDa\|KraeDa]] se encuentra en el centro del Lado Diurno. En esta parte del planeta habita una gran variedad de flora y fauna. Es debido a la crudeza de la luz solar que la mayor parte de la flora y la fauna viven bajo la superficie de la arena, donde hace más fresco. En el [[Kerla\|Kerla]], donde el nivel freático es alto, la mayor parte de la vida se encuentra en un ecosistema único bajo la arena que se ha descrito más como un lago de arena que como un desierto.
 
 #### Flora
-On Darkside, the flora having adapted to utilize the UV section of the electromagnetic spectrum. Lichen is a common growth across the entire Darkside continent, but flowers and crops also grow well. Grapes have been exported to Dayside for the making of wine, and some flowering plants have been imported for the [[Lraezare\|Lraezare]] district of [[Kezare\|Kezare]] to help [[Lonsha\|Lonsha]] expats feel more at-home.
+En el Kerla, la mayoría de las plantas, incluyendo las verduras de las granjas, existen bajo la arena. La [[Parra dorim\|parra dorim]] es una planta utilizada como fuente de agua en el Lado Diurno por sus habitantes y las zonas donde crecen no se consideran desérticas. La planta almacena agua principalmente como una medida defensiva contra otros seres, ya que el agua disuelve los caparazones de muchas criaturas de la arena. Por ello, cualquier criatura que intente comer la planta encontrará que su boca empieza a derretirse. Como resultado, el crecimiento de las parras dorim en estas regiones limita el tamaño que pueden alcanzar los cavadizos.
+Las orillas del río [[R%C3%ADo Ry'DoAli\|Ry'do Ali]] en Lossand se cultivan a pesar de ser una zona menos fértil que Kerla. Las plantas de esta zona de arenas bajas y rocosas se describen como notablemente más cortas y "más rechonchas" que la flora del Lado Oscuro. El [[Lonzare\|barrio oscurense]] de [[Kezare\|Kezare]] tiene flores nativas del Lado Oscuro que crecen en él.
 
 #### Fauna
-Fauna on Darkside is "remarkable" are often referenced as proverbs, usually with reference to Starmarks.  are a saddle-able beast of burden on Darkside. The diversity of animal life extends at least from invertibrates, like the , to apex predators, like the .
+Los [[Cavadizo\|cavadizos]] habitan en todas las zonas del continente, y su tamaño varía desde los insectiles que se encuentran por todas partes hasta los gigantescos cavadizos de las profundidades. Es raro que un cavadizo profundo se aventure lejos de la [[Arena profunda\|arena profunda]]. La mayoría de los cavadizos viven comiendo la capa de arena expuesta al sol y digiriendo el liquen que cubre la arena. La arena se vuelve opaca después de ser digerida, pero el liquen de la arena no digerida se extenderá de nuevo sobre ella, con el tiempo. Algunos cavadizos, como el [[DelRak\|DelRakin]] son depredadores que se comen a otros cavadizos.
+Existen múltiples razas de cavadizos. Algunas de ellas, como los [[KaRak\|KaRakin]], se cazan por deporte. Otra raza consiste en miles de pequeños cavadizos que actúan como un grupo en las arenas profundas; cuando se mueven agitan la arena sobre ellos haciendo que se les confunda con una criatura mucho mayor obligando a los caminantes a retroceder. Los Delrak Naisha son otra raza que se encuentra en las arenas profundas. Son criaturas que esperan justo debajo de la arena; si se agita la arena sobre ellos, emergen y consumen lo que haya sobre ellos.
+Los [[Tonk\|tonks]] son un tipo de cavadizo domesticado en el Lado Diurno que se utiliza como bestia de carga; se emplean principalmente como montura. Sin embargo, les asusta el agua y se niegan a cruzarla. Viajar con tonks también es frustrante debido a su instinto natural de enterrarse bajo la arena durante una tormenta de arena y su tendencia a confundir muchas cosas con tormentas de arena.
+Las [[Terha\|terha]] son otras bestias de carga, más grandes que un tonk y a menudo utilizadas por los soldados como bestias de guerra. Pueden ser tratados con [[DoKall\|DoKall]] para hacer su caparazón inmune al agua cuando se utilizan con este propósito. Los [[Rezal\|Rezalin]] pueden usarse como bestias de transporte de larga distancia más rápidas, ya que sus patas traseras sobredimensionadas les permiten moverse rápidamente de duna en duna..
 
-## History
-At an unknown date the planet was created and purposefully placed in its current location in the [[Taldain System\|Taldain System]]. Following the [[Shattering\|Shattering]], Autonomy settled into the system as the sole Shard present. At another stage in its early history the planet was settled by humans; due to how the genetics of the settlers played out, Daysiders ended up with paler skin.
-Over time those on Dayside began to notice the influence of one of Autonomy's Avatars which became known as the [[Sand Lord\|Sand Lord]]. This entity eventually would form the basis of the [[Ker'reen\|Ker'reen]] and  religions and became the dominant object of worship for the people of [[Kerzta\|Kerzta]]. Differing religious beliefs were formed in the [[Diem\|Diem]], an important part of the government of [[Lossand\|Lossand]]. This difference of faith led to frequent war between Lossand and Kerzta. Peace was eventually gained when the high priest government of Kerzta was replaced by a merchant nobility.
-After 200 years, there was a push again by the A'kar, the head priest of Ker'reen, to take control by democratic means. They made contact with a [[Elorin\|recent convert]] to Ker'reen within the Diem's ranks and persuaded them to remain a member of the Diem and assist with a plan to wipe the organization out. It was hoped that by doing so the A'kar would win favor with the public, under the pretense that the destruction of the Diem was the Sandlord's whim. Their efforts nearly succeeded but ultimately the remnants of the Diem managed to organize themselves and the [[Kenton\|new Lord Mastrell]] succeeded in persuading the Lossand government to maintain the Diem. This allowed the Diem to grow more powerful than before. As a result, support for the A'kar crumbled and they failed to take control of the Kerztian government.
-At a later point, for reasons unknown, the planet became closed off to visitors. Around this time the planet also stopped progressing technologically, this was a sudden shift as the world used to be one of the most advanced planets in the Cosmere. At a later date it became easy to visit Taldain again.
+### Lado Oscuro
+El **Lado Oscuro**, también conocido como **Lado Estelar** en Elis, está iluminado por el Ojo de [[Ridos\|Ridos]] con un espectro compuesto principalmente por luz ultravioleta, con la mayor parte de la luz visible filtrada por la nube de partículas. El resultado es que el cielo está perpetuamente en un estado de penumbra como si el sol acabara de ponerse. Esto hace que los **oscurenses** tengan los dientes, ojos y uñas iluminados. Las plantas y los animales también brillan bajo la luz ultravioleta. Los visitantes de la región suelen describirla como un lugar entre llamativo y chillón. También explica por qué los oscurenses tienen la piel oscura cuando no viven en un clima tradicional donde es común un alto contenido de melanina. Cuando visitan el Lado Diurno, los oscurenses deben llevar gafas oscuras para proteger sus ojos. Pueden ir sin ellas, sin embargo, si el ángulo del sol no está directamente sobre ellos o se obligan a adaptarse.
+La masa continental del Lado Oscuro es de tamaño y forma desconocidos. Hay muchos países, aunque la mayoría han sido subordinados al imperio [[Dinast%C3%ADa\|dinástico]]. Elis es un país sin salida al mar en el Lado Oscuro. Nimmyn es un lugar geográfico cuya flora ha sido importada a Lraezare, pero no se sabe si es un país o una región.
+A diferencia de lo que se suponía, el Lado Oscuro está Investido por [[Autonom%C3%ADa\|Autonomía]], aunque sus efectos no son tan perceptibles. La nube de partículas alrededor del Ojo de Ridos emite un pulso cada semana que Inviste las [[Marcas estelares\|marcas estelares]] en el Lado Oscuro, aunque sólo algunas personas pueden acceder a esa Investidura.
 
-## Culture
-The culture of Taldain is split between the Dayside and Darkside due to the planet's unique geography.
+#### Flora
+En el Lado Oscuro, la flora se ha adaptado para utilizar la sección ultravioleta del espectro electromagnético. El liquen es un crecimiento común en todo el Lado Oscuro, pero las flores y los cultivos también crecen bien. Se han exportado uvas al Lado Diurno para la elaboración de vino, y se han importado algunas plantas con flores para el distrito de [[Lraezare\|Lraezare]] de [[Kezare\|Kezare]] para ayudar a los expatriados de  a sentirse más como en casa.
 
-### Dayside
-Because the sun does not set on **Dayside**, individuals living there have a variety of issues that needed to be resolved. In regards to keeping time, an hour on Dayside is 90 minutes long. Because of its stationary nature many Daysiders find it easy to navigate by using the sun as a reference point. Due to its ever present nature many Daysiders feel a spiritual bond with their sun, and some, such as the Kerztians, worship it. Most Daysiders are afraid of the dark as well being unused to it.
-On Dayside there is a large circular continent that can be found, on this landmass there are a variety of countries. The largest and most powerful nations is [[Kerzta\|Kerzta]] which is located on the western portion of the Dayside continent. Its people worship the [[Sand Lord\|Sand Lord]] and abide by the [[Ker'reen\|Ker'reen]] religion. [[Lossand\|Lossand]] is a country that is immediately next to it and stretches in a wedge from [[KraeDa\|KraeDa]] in the center of the continent to the southern coast around the [[Ry'DoAli River\|Ry'DoAli River]]. It is ruled by the Council of [[Taishin\|Taishin]], the heads of the eight Professions vital to their life and culture. Both of these nations have an enmity with one another due to Kerzta accepting Sand mastery, althought they have not been in direct conflict in centuries.
-In addition to these countries are the Rim Kingdoms which are a series of smaller nations on the eastern and north-eastern coast of the Dayside continent. They consist of; [[Denka\|Denka]], [[Seevis\|Seevis]], [[Nor'Tallon\|Nor'Tallon]] and [[Tallon\|Tallon]].
+#### Fauna
+La fauna del Lado Oscuro es "notable" y se mencionan a menudo como proverbios, normalmente en referencia a las marcas estelares. Los  son una bestia de carga ensillable en el Lado Oscuro. La diversidad de la vida animal se extiende al menos desde los invertebrados, como la , hasta los depredadores superiores, como el .
 
-### Darkside
-On **Darkside** or **Starside**, the most powerful and influential force in regards to culture, economics and politics is the [[Dynasty\|Dynasty]]. This force is ruled by [[Skathan\|Skathan]]. Its dominance is so strong that the language Darksiders speak is called Dynastic after the country. It also is the most technologically advanced country in the planet with weapons such as guns and explosives being common creations within its borders. They also had instant noodles, which Hoid enjoyed, and wants [[Scadrial\|Scadrial]] to replicate. Despite its dominance some minor nations such as [[Elis\|Elis]] and [[Iiaria\|Iiaria]] resists the Dynasty's push to grow and expand its influence even further. Despite this however the nations power runs deep within Darkside with them being able to send their agents to infiltrate different groups throughout the continent.
-The Kerztian word for Darksider is **Lonsha**.
+## Historia
+En una fecha desconocida el planeta fue creado, y colocado en su ubicación actual en el [[Sistema de Taldain\|sistema de Taldain]] a propósito. Tras la [[Fragmentaci%C3%B3n\|Fragmentación]] Autonomía se instaló en el sistema como la única Esquirla presente. En otra etapa de su historia temprana, el planeta fue colonizado por los humanos, debido a la genética de los asentamientos, los diurnenses terminaron teniendo la piel pálida.
+Con el tiempo, los habitantes de Lado Diurno empezaron a notar la influencia de uno de los avatares de Autonomía, que llegó a ser conocido como el [[Se%C3%B1or de la Arena\|Señor de la Arena]]. Esta entidad acabaría formando la base de las religiones [[Ker'reen\|Ker'reen]] y  y se convirtió en el objeto de culto dominante para el pueblo de [[Kerzta\|Kerzta]]. La diferencia de creencias religiosas se formó en el [[Diem\|Diem]], una parte importante del gobierno de [[Lossand\|Lossand]]. Esta diferencia de fe llevó a frecuentes guerras entre Lossand y Kerzta. La paz se consiguió finalmente cuando el gobierno de los sumos sacerdotes de Kerzta fue sustituido por una nobleza mercantil.
+Después de 200 años, el A'kar, el sacerdote principal del Ker'reen, volvió a intentar tomar el control por medios democráticos. Se pusieron en contacto con un [[Elorin\|reciente converso]] al Ker'reen dentro de las filas del Diem y le convencieron para que se mantuviera como miembro del Diem y les ayudara crearon un plan para acabar con el Diem. Se esperaba que haciendo eso el A'kar se ganase el favor del público, bajo el pretexto de que la destrucción del Diem era un capricho del Señor de la Arena. Sus esfuerzos estuvieron a punto de tener éxito, pero al final los restos del Diem consiguieron organizarse y el [[Kenton\|nuevo lord mastrell]] logró persuadir al gobierno de Lossand para que mantuviera el Diem. Esto permitió que el Diem se hiciera más poderoso que antes, y, como resultado, el apoyo al A'kar se desmoronó y no lograron tomar el control del gobierno de Kerzta.
+Más tarde, por razones desconocidas, el planeta se cerró a los visitantes. En esta época el planeta también dejó de progresar tecnológicamente, un cambio repentino respecto a cuando era uno de los planetas más avanzados del Cosmere. Más tarde, volvió a ser más fácil acceder a Taldain.
 
-## Astronomy
- by  Ben McSweeney  Top-down view of Taldain's Orbit.
-Taldain is tidally locked around two suns, this makes it unique among other planets in the Cosmere. It is located between the two suns in the system which orbit one another, because of a layer of dust around one of these suns one half of the world is trapped in endless sunlight and the other half in night. This placement was done purposefully by its creator. It is the only planet within the system and a single moon, **Nizh Da**, has a polar orbit around the world.
-An hour on Dayside is ninety minutes long and each day is separated into fifteen hours. On Darkside, an hour is sixty minutes long, and a day is separated into twenty-four hours. Due to this, ninety Dayside minutes are equal to ninety-six Darkside minutes, with one dayside minute being equal to approximately 1.066 Darkside minutes.
-It is kept in an unstable orbit around AisDa by the gravitational pull of Ridos, and by some other, unknown force, presumably Autonomy. This astronomically unstable orbit is known as "Wombear's Saddle".
+## Cultura
+La cultura de Taldain está dividida entre el Lado Diurno y el Lado Oscuro debido a la singular geografía del planeta.
 
-## Magic System
-The world of Taldain has been settled by Autonomy and as a result her Investiture can be found throughout the planet, primarily in the atmosphere. Autonomy has allowed it to spread unusually; making it in theory easy to access, a [[Returned\|Returned]] for instance would have little difficulty living on Taldain and one could also theoretically access the worlds Investiture on another planet so long as they can see the star system. For a time this was the only way to access its magic system as the world was shut off from the [[Cognitive Realm\|Cognitive Realm]] but eventually it became possible to visit the world again.
-The most dramatic form of Investiture that can be found on the planet is [[Sand mastery\|Sand mastery]] which is located on Dayside. Despite its flashy appearance, it uses very little Investiture however and primarily works through subtle manipulation with [[Connection\|Connection]] between the user, Shard and White Sand. It is believed by residents of Taldain that only Dayside was Invested by the Shard; however, this is incorrect, and in fact both parts of the world are Invested, with the majority of it falling on Dayside.
-Darkside magic primarily functions through tattoos, but its effects are not nearly as noticeable. This is seemingly the system referred to as [[Starmarks\|Starmarks]].
+### Lado Diurno
+Debido a que el sol no se pone en el Lado Diurno, los individuos que viven allí tienen una variedad de problemas que necesitan ser resueltos. Con respecto a la hora, una hora en Taldain dura 90 minutos. Debido a su naturaleza inmóvil muchos diurnenses encuentran fácil navegar usando el sol como punto de referencia. Debido a su naturaleza constante, muchos diurnenses sienten un vínculo espiritual con su sol, y algunos, como los kerztianos, lo adoran. La mayoría de los habitantes de este lado tienen miedo de la oscuridad y no están acostumbrados a ella.
+En el Lado Diurno se puede encontrar un gran continente circular, y en esta masa de tierra hay una variedad de países. La nación más grande y poderosa es [[Kerzta\|Kerzta]] que se encuentra en la parte occidental del continente del Lado Diurno. Su gente adora al [[Se%C3%B1or de la Arena\|Señor de la Arena]] y se rige por el [[Ker'reen\|Ker'reen]]. [[Lossand\|Lossand]] es un país que está inmediatamente al lado y se extiende en una cuña desde [[KraeDa\|KraeDa]], en el centro del continente, hasta la costa sur alrededor del [[R%C3%ADo Ry'DoAli\|río Ry'DoAli]]. Está gobernada por el Consejo de los [[Taishin\|Taishin]], los jefes de las ocho profesiones vitales para su vida y cultura. Ambas naciones están enemistadas entre sí debido a que Kerzta aceptó la maestría de la arena, aunque no han entrado en conflicto directo desde hace siglos.
+Además de estos países están los Reinos Limítrofes que son una serie de naciones más pequeñas en la costa este y noreste del continente del Lado Diurno. Consisten en: [[Denka\|Denka]], [[Seevis\|Seevis]] y [[Tallon\|Tallon]].
+
+### Lado Oscuro
+En el Lado Oscuro, o **Lado Estelar**, la fuerza más poderosa e influyente en cuanto a cultura, economía y política es la [[Dinast%C3%ADa\|Dinastía]]. Esta fuerza está gobernada por [[Skathan\|Skathan]]. Su dominio es tan fuerte que el idioma que hablan los oscurenses se llama dinástico en honor al país. También es el país más avanzado tecnológicamente del planeta, con armas como pistolas y explosivos que son creaciones comunes dentro de sus fronteras. También tenían fideos instantáneos, que Hoid disfrutaba, y quiere que [[Scadrial\|Scadrial]] los replique. A pesar de su dominio algunas naciones menores como [[Elis\|Elis]] e [[Iiaria\|Iiaria]] se resisten al empuje de la Dinastía para crecer y expandir su influencia aún más. Sin embargo, a pesar de esto, el poder de las naciones es profundo dentro del Lado Oscuro, pudiendo enviar a sus agentes para infiltrarse en diferentes grupos a lo largo del continente.
+La palabra kerztiana para oscurense es **Lonsha**.
+
+## Astronomía
+  Órbita de Taldain vista desde arriba
+Taldain tiene una rotación sincrónica alrededor de dos soles, lo que lo hace único entre los demás planetas del Cosmere. Se encuentra entre los dos soles del sistema que orbitan entre sí, y debido a una nube de partículas alrededor de uno de estos soles, una mitad del mundo está atrapada en la luz del sol sin fin y la otra mitad en la noche. Esta ubicación fue hecha a propósito por su creador. Es el único planeta dentro del sistema y una única luna, Nizh Da, tiene una órbita polar alrededor del mundo. 
+En el Lado Diurno, una hora dura noventa minutos y cada día se divide en quince horas. En el Lado Oscuro, una hora dura sesenta minutos y un día se divide en veinticuatro horas. Por eso, noventa minutos del Lado Diurno equivalen a noventa y seis minutos del Lado Oscuro, con un minuto diurno siendo igual a aproximadamente 1'066 minutos oscurenses.
+Se mantiene en una órbita inestable alrededor de AisDa por la atracción gravitatoria de Ridos, y por alguna otra fuerza desconocida, presumiblemente Autonomía. Esta órbita astronómicamente inestable se conoce como "la Silla de Montar del Osotejón".
+
+## Sistema de magia
+El mundo de Taldain ha sido asentado por Autonomía y, como resultado, su Investidura puede encontrarse en todo el planeta, principalmente en la atmósfera. Autonomía ha permitido que se extienda de forma inusual haciendo que, en teoría, sea fácil acceder a ella, un [[Retornado\|Retornado]] por ejemplo no tendría muchas dificultades para vivir en Taldain. y también se podría acceder (teóricamente) a la Investidura del mundo desde otro planeta siempre que se pueda ver el sistema estelar. Durante un tiempo, ésta fue la única forma de acceder a su sistema de magia, ya que el mundo estaba aislado del [[Reino Cognitivo\|Reino Cognitivo]], pero con el tiempo se pudo volver a visitar.
+La forma más dramática de investidura que se puede encontrar en el planeta es la [[Maestr%C3%ADa de la arena\|maestría de la arena]] que se encuentra en el Lado Diurno. A pesar de su apariencia llamativa utiliza muy poca Investidura y principalmente funciona a través de manipulación sutil de la [[Conexi%C3%B3n\|Conexión]] entre el usuario, la Esquirla y la arena blanca. Los residentes de Taldain creen que sólo el Lado Diurno ha sido Investido por la Esquirla, sin embargo, esto es incorrecto y, de hecho, ambas partes del mundo están Investidas, aunque la mayor parte recae en el Lado Diurno.
+La magia del Lado Oscuro funciona principalmente a través de los tatuajes pero sus efectos no son tan notables. Al parecer, se trata del sistema denominado [[Marcas estelares\|marcas estelares]].
+
+## Notas
 
 
 
-https://coppermind.net/wiki/Darksider
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Arena Blanca\|Arena Blanca]] ()**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] ·  · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Taldain

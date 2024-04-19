@@ -1,75 +1,89 @@
+
+
 |**Ashravan**|
 |-|-|
-|by  botanicaxu |
-|**Family**|
-|**Spouse**|[[Kurshina\|Kurshina]]|
-|**Titles**|Emperor of the [[Rose Empire\|Rose Empire]]|
-|**Groups**|[[Heritage Faction\|Heritage Faction]]|
-|**Birthplace**|[[Ukurgi\|Ukurgi]]|
-|**Ethnicity**|[[Grand\|Grand]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Emperor's Soul*|
+||
+|**Familia**|
+|**Cónyuge**|[[Kurshina\|Kurshina]]|
+|**Títulos**|Emperador del [[Imperio Rosa\|Imperio Rosa]]|
+|**Grupo**|[[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]🐱︎|
+|**Lugar de nacimiento**|[[Ukurgi\|Ukurgi]]|
+|**Etnia**|[[Grande\|Grande]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Ashravan** of the Eighty Suns is the forty-ninth Emperor of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] and a member of the [[Heritage Faction\|Heritage Faction]]. At the time of his injury he is forty years old.
+**Ashravan** de los Ochenta Soles es el cuadragésimo noveno emperador del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]] y un miembro de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]. En el momento de su lesión tiene cuarenta años.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Early Life
-2.2 Life as Emperor
-2.3 The Emperor's New Soul
-
-
-3 Trivia
-4 Notes
+2. [[#Vida temprana]] 
+2. [[#Vida como emperador]] 
+2. [[#La nueva alma del emperador]] 
 
 
-## Appearance and Personality
-Ashravan has a "strong face." He also has golden hair, a firm chin, and a prominent nose.
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-Images of Ashravan
+## Apariencia y personalidad
+Ashravan tiene un «rostro fuerte». También tiene el pelo dorado, una mandíbula firme y una nariz prominente.
+
+
+Imágenes de Ashravan
 
 
 
-Portrait by User: Botanicaxu
-
+Retrato por Botanicaxu
 
 
 
 
 
-The Emperor's Soul by User: Botanicaxu
+
+El alma del emperador por Botanicaxu
 
 
 
 
-Despite being known to have a temper, he is a humble man and an idealist at heart. He loves to write terrible poetry and enjoys a good debate. He is arrogant, but secretly wishes he could be something other than what he became. He enjoys hearing himself give speeches. He also hates fish.
+A pesar de ser conocido por tener un temperamento fuerte, en el fondo es un hombre humilde y un idealista. Le encanta escribir poesía mala y disfruta de los buenos debates. Es arrogante, aunque en secreto desea ser una persona distinta de la que se ha convertido. No le gusta el pescado y disfruta escuchándose a sí mismo dando discursos.
 
-## History
-### Early Life
-When Ashravan was six, his brother died. He idolized his brother, but kept his feelings secret due to a belief that his brother would have made a better emperor. His brother's fondness for green was part of the reason that it was Ashravan's favorite color.
-At some point Ashravan began to keep a private journal, perhaps to reflect on the choices he made. He left instructions to have it burned upon his death.
+## Historia
+### Vida temprana
+Cuando Ashravan tenía seis años, su hermano murió. Él le idolatra, pero se guarda sus sentimientos en secreto debido a la creencia de que su hermano habría sido mejor emperador. La afición de su hermano por el color verde es en parte la razón por la cual dicho color se convirtió en el favorito de Ashravan.
+En algún momento, Ashravan comienza a llevar un diario privado, tal vez para reflexionar sobre las decisiones que toma. Deja instrucciones para que sea quemado tras su muerte.
 
-### Life as Emperor
->“*I have decided, at long last, to agree to the demands of my faction. I will offer myself for the position of emperor, as Gaotona has so often encouraged.*”
-\-Excerpt from Ashravan's personal journal[9]
-
-
-After the death of Emperor [[Yazad (Sel)\|Yazad]], Ashravan is chosen to lead the empire.
-According to Gaotona, Ashravan originally became emperor out of a desire to change parts of the empire such as the favoritism shown to the [[Grand\|Grands]]. Over time, however, his desire waned. Ashravan was swept up in the bureaucracy of an empire that worked, if not perfectly, then well enough. He focused more on the beauty of it all instead of its problems, and gave the arbiters more and more control.
-The urgings of his mentor Gaotona were a significant factor in his becoming emperor, and Ashravan eventually grew to resent Gaotona because he felt inadequate.
-
-### The Emperor's New Soul
-One night, a group of assassins, agents of the [[Glory Faction\|Glory Faction]], broke into the emperor's rooms and attacked him and his wife, [[Kurshina\|Kurshina]]. Kurshina was killed, and Ashravan sustained a severe injury to the head. Although a [[Resealing\|Resealer]] was able to heal the wound, the emperor was left brain-dead. The arbiters of the Heritage Faction kept the emperor's status a secret by saying he had sequestered himself during the mourning period for his wife. The arbiters then tasked the [[Forger\|Forger]] [[Wan ShaiLu\|Wan ShaiLu]] to create a powerful [[Soulstamp\|soulstamp]] known as an [[Essence Mark\|Essence Mark]] to rewrite the soul of the emperor before the one hundred days of mourning were over.
-Shai used a number of sources for the Soul Forgery, such as official histories, Ashravan's personal journal and interviews of his friends and family. The arbiter Gaotona volunteered himself as a test subject for stamps of minor portions of Ashravan's soul.
-On the ninety-eighth day of the mourning period, Shai succeeded in creating a soulstamp that replicated Ashravan's original soul with which he would have to be re-stamped each day. She snuck into his rooms and stamped him, waking him and restoring his mind. Ashravan allowed Shai to escape his rooms. Later he spoke with Gaotona and figured out, in the course of the conversation, what had been wrong with him. He then addressed the arbiters, laying to rest the rumors of his illness and promising to seek justice for his wife's murder. Buried in the stamp, however, were also certain triggers that Shai had added to help nudge Ashravan into becoming the emperor he had always dreamed of being, causing him in the next years to pore over his old journals and rediscover his old ideals.
-
-## Trivia
-Ashravan seems to be named after the concept of  from the Zoroastrian faith. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.
+### Vida como emperador
+>“*He decidido, por fin, acceder a las exigencias de mi facción. Me ofreceré para el puesto de emperador, como Gaotona ha insistido tantas veces en que haga.*”
+\-Extracto del diario personal de Ashravan.[9]
 
 
-https://coppermind.net/wiki/Ashravan
+Tras la muerte del emperador [[Yazad (Sel)\|Yazad]], Ashravan es elegido para liderar el imperio.
+Según Gaotona, Ashravan originalmente se convirtió en emperador por su deseo de cambiar aspectos del imperio como el favoritismo mostrado hacia los [[Grande\|grandes]]. Con el tiempo, sin embargo, su deseo disminuyó. Se dejó llevar por la burocracia de un imperio que funcionaba, si no perfectamente, lo suficientemente bien. Se enfocó más en la belleza del imperio que en sus problemas, y dio cada vez más control a los árbitros.
+Los ruegos de su mentor Gaotona fueron un factor determinante para convertirse en emperador y, al final, el resentimiento hacia Gaotona fue creciendo al no sentirse a la altura.
+
+### La nueva alma del emperador
+Una noche, un grupo de asesinos, agentes de la [[Facci%C3%B3n Gloria\|Facción Gloria]], irrumpen en los aposentos del emperador y lo atacan a él y a su esposa, [[Kurshina\|Kurshina]]. Ella es asesinada, y Ashravan sufre una lesión grave en la cabeza. Aunque un [[Resellador\|resellador]] consigue curar la herida, el emperador queda en estado vegetativo. Los árbitros de la Facción de la Herencia mantienen en secreto el estado del emperador diciendo que se ha recluido durante el periodo de luto por su esposa. Después, los árbitros encargan a la [[Falsificador\|falsificadora]] [[Wan ShaiLu\|Wan ShaiLu]] la creación de un poderoso [[Sello de alma\|sello de alma]] conocido como [[Marca de Esencia\|Marca de Esencia]] para reescribir el alma del emperador antes de que terminen los cien días de luto.
+Shai utiliza diversas fuentes para falsificar el alma, como la historia oficial, el diario personal de Ashravan y entrevistas con sus amigos y familiares. El árbitro Gaotona se ofrece voluntario para probar los sellos con pequeñas porciones del alma de Ashravan.
+El día noventa y ocho del periodo de duelo, Shai logra crear un sello de alma que replica el alma original de Ashravan, que tendrá que ser estampado en él cada día. Shai se cuela en sus aposentos y le estampa el sello, despertándolo y restaurando su mente. Él permite que Shai escape de sus aposentos. Más tarde, Ashravan habla con Gaotona y descubre, durante la conversación, lo que le ha pasado. Entonces se dirige a los árbitros, disipando los rumores sobre su enfermedad y prometiendo buscar justicia por el asesinato de su esposa. Sin embargo, ocultos en el sello, también hay ciertos resortes que Shai había añadido para ayudar a impulsar a Ashravan a convertirse en el emperador que siempre había soñado ser, haciendo que los siguientes años repase sus viejos diarios y redescubra sus antiguos ideales.
+
+## Curiosidades
+Parece ser que el nombre de Ashravan puede provenir del concepto  de la fe del zoroastrismo. Esto está respaldado por el hecho de que Brandon se ve activamente influenciado por las antiguas palabras zoroástricas a la hora de dar nombre a los personajes del Imperio Rosa.
+## Notas
+|Antecesor  **[[Yazad (Sel)\|Yazad]]**|**Emperador del [[Imperio Rosa\|Imperio Rosa]]**  49º|Sucesor  ***Titular actual***|
+|-|-|
+
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
+|-|-|
+|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] ·  · [[Frava\|Frava]] · [[Zu (Sel)\|Zu]] · [[Han ShuXen\|Han ShuXen]] · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
+|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
+|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
+
+
+
+https://es.coppermind.net/wiki/Ashravan

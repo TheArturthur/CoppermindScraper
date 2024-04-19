@@ -1,45 +1,70 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Rian**|
 |-|-|
-|**Profession**|Guardsman|
-|**Residence**|[[Elendel\|Elendel]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Guardia|
+|**Residencia**|[[Elendel\|Elendel]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*You can’t save him. She’s going to kill him. She promised me freedom, but here I am, bound. Oh, Ruin.*”
-\-Rian to Waxillium Ladrian[1]
+>“*No puedes [[Replar Innate\|salrvarlo]].  lo matará. Me prometió libertad, pero aquí estoy, maniatado. Ay, [[Ruina\|Ruina]].*”
+\-Rian a Waxillium Ladrian[1]
 
-**Rian** is one of Governor [[Replar Innate\|Replar Innate's]] guardsmen in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
+**Rian** es uno de los guardias del gobernador [[Replar Innate\|Replar Innate]] en [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Early Life
-2.2 Assassination Attempt
-2.3 Imprisonment
-
-
-3 Notes
+2. [[#Juventud]] 
+2. [[#Intento de asesinato]] 
+2. [[#Encarcelamiento]] 
 
 
-## Appearance and Personality
-Nothing is known of Rian's appearance, but he often wears the dark suit and hat that is the uniform of the governor's guards.
-It is difficult to know what Rian's personality is like normally. After Bleeder influences his mind, Rian appears mad. He mutters and mumbles to himself nonsensically. He also rocks back and forth while sitting or standing and appears to only tangentially understand what is going on around him. He only sometimes looks at people that he is speaking to, and he will randomly break into humming on occasion. It is uncertain if or when Rian will ever recover from Bleeder's interference with his mind.
-
-## History
-### Early Life
-Rian was born a common man, he was not part of any noble family. At some point in Rian's life, he was hired as one of the governor's guardsmen. He also began a family, and had at least one child, a daughter. While working as a guard, he was [[Hemalurgy\|spiked]] by Bleeder. It is unknown what type of spike she used, but it is possible that it was made of [[Trellium\|trellium]], like other spikes Bleeder used. She was able to use this spike to gain some level of control over Rian's actions. Bleeder made Rian wear fake steelminds, hoping that if Rian was arrested, the constables would believe that Rian was responsible for the assassination of Lord [[Winsting Innate\|Winsting Innate]]. She also inserted a rare coin from [[Waxillium Ladrian\|Waxillium Ladrian's]] past into Rian's forearm, with a message for Waxillium, in case Wax realized that Rian was not a true criminal.
-
-### Assassination Attempt
-After Winsting Innate was murdered, Governor Innate gave a speech defending his brother's character. Rian was one of the governer's guardsmen present at the event. As the governor began to end his speech, Bleeder spoke to him, telling him to shoot the governor. Rian began shuffling and turning in place. After grimacing in pain and whispering to himself, Rian raised his revolver and took aim at the governor. Constable [[Marasi Colms\|Marasi Colms]] was the only one to see Rian's actions, but she tackled Rian and created a [[Cadmium\|cadmium]] bubble. This slowed time around Rian and her just before Rian managed to fire his gun, giving the guards time to rush the governor to safety. The other guardsmen rapidly realized what was happening and apprehended Rian despite his struggles.
-
-### Imprisonment
->“*Why did you leave, Wax?*”
-\-Bleeder's message to Wax on the coin[5]
-
-Rian was brought to a cell designed to hold [[Metalborn\|Metalborn]] in the First Octant precinct station, where he was questioned by Constable-General [[Claude Aradel\|Claude Aradel]], Captain [[Reddi\|Reddi]], Lieutenant [[Caberel\|Caberel]], and Marasi. They had no luck getting Rian to talk, all he would do was mumble. Reddi and Cabarel were in favor of trying to beat a confession out of Rian or threatening his daughter, but Marasi dissuaded them from those illegal courses of action. Soon afterward, Waxillium and [[Wayne\|Wayne]] arrived at the precinct. Wax determined that Rian's metalminds were fake by trying to Push on them. He and Wayne questioned to Rian briefly and Rian admitted that Bleeder had made him try to kill the governor, and that she would continue trying. Rian told Wax about Bleeder's message in his forearm and Wax cut his arm open to retrieve the coin. Marasi and the constables continued to question Rian after Wax and Wayne left, but they learned nothing. They did discover the Hemalurgic spike embedded in Rian's body.
+3 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+No se sabe nada de la apariencia de Rian, pero a menudo usa el traje oscuro y sombrero que es el uniforme de los guardias del gobernador.
+Es difícil saber cómo es normalmente la personalidad de Rian. Tras la manipulación de Sangradora, Rian parece estar loco. Habla entre dientes y murmura sin sentido. También se balancea hacia adelante y hacia atrás mientras está sentado o de pie y parece entender solo de manera tangencial lo que está sucediendo a su alrededor. Solo a veces mira a la gente con la que está hablando, y de vez en cuando comienza a tararear. Se desconoce si Rian se recuperará alguna vez de la intromisión de Sangradora en su mente.
 
-https://coppermind.net/wiki/Rian
+## Historia
+### Juventud
+Rian nació como un hombre normal, no es parte de una familia noble. En algún momento de su vida, fue contratado como uno de los guardias del gobernador. También comenzó una familia, y tuvo al menos una hija. Mientras trabajaba de guardia, fue [[Hemalurgia\|clavado]] por Sangradora. Se desconoce que tipo de clavo usó, pero es posible que estuviese hecho de [[Trellium\|trellium]], como pros clavos usados anteriormente por ella. Puso usar este clavo para ganar algo de control sobre las acciones de Rian. Sangradora hizo que Rian llevase mentes de acero falsas, esperando que si era arrestado los alguaciles creerían que él era responsable del asesinato de lord [[Winsting Innate\|Winsting Innate]]. También le introdujo una moneda del pasado de [[Waxillium Ladrian\|Waxillium Ladrian]] en el antebrazo, con un mensaje para Wax, en caso de que este se diese cuenta de que Rian no era el auténtico criminal.
+
+### Intento de asesinato
+Tras el asesinato de Winsting Innate, el gobernador Innate dio un discurso defendiendo a su hermano. Rian era uno de los guardias del gobernador presente en el evento. Mientras el gobernador comenzaba a finalizar su discurso, Sangradora habló con él, diciéndole que disparase al gobernador. Rian comenzó a agitarse y girar en su lugar. Después de hacer una mueca de dolor y susurrarse a sí mismo, Rian levantó su revólver y apuntó al gobernador. La alguacil [[Marasi Colms\|Marasi Colms]] fue la única en ver como actuaba Rian, y se enfrentó a él creando una burbuja de [[Cadmio\|cadmio]]. Esto ralentizó el tiempo alrededor de Rian y ella justo antes de que Rian lograse disparar su arma, dando tiempo a los guardias para llevar al gobernador a un lugar seguro. Los otros guardias se dieron cuenta rápidamente de lo que estaba sucediendo y lo detuvieron a pesar de su resistencia.
+
+### Encarcelamiento
+>“*¿Por qué te fuiste, Wax?*”
+\-Mensaje de Sangradora a Wax grabado en la moneda[5]
+
+Rian fue llevado a una celda diseñada para mantener a un [[Nacido del metal\|nacido del metal]] en la comisaría de Primer Octante, donde fue interrogado por el comisario general [[Claude Aradel\|Claude Aradel]], el capitán [[Reddi\|Reddi]], la teniente [[Caberel\|Caberel]] y Marasi. No tuvieron suerte haciendo hablar a Rian, todo lo que hacía era murmurar. Reddi y Cabarel estaban a favor de intentar sacarle una confesión a Rian o amenazar a su hija, pero Marasi los disuadió de esos cursos de acción ilegales. Poco después, Waxillium y [[Wayne\|Wayne]] llegaron a la comisaría. Wax llegó a la conclusión de que las mentes de metal de Rian eran falsas cuando intentó empujarlas. Wayne y él interrogaron a Rian brevemente y este admitió que Sangradora lo había forzado a tratar de matar al gobernador, y que ella continuaría intentandolo. Rian le contó a Wax sobre el mensaje de Sangradora en su antebrazo y Wax se abrió el brazo para recuperar la moneda. Marasi y los alguaciles continuaron interrogando a Rian después de que Wax y Wayne se fuesen, pero no le sacaron nada. Descubrieron el clavo hemalúrgico que tenía intestado en el cuerpo de Rian.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 15:22, 5 June 2016 (MST)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Rian

@@ -1,13 +1,27 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Ketol**|
 |-|-|
-|**Residence**|[[Kae\|Kae]]|
-|**Nationality**|[[Arelene\|Arelene]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Residencia**|[[Kae\|Kae]]|
+|**Nacionalidad**|[[De Arelon\|de Arelon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Ketol** is an [[Arelene\|Arelene]] court attendant on [[Sel\|Sel]]. He is a tall, gaunt man with a bored expression who does his job well but without excitement.
-King [[Iadon\|Iadon]] sent Ketol to meet [[Sarene\|Sarene]] when she arrived in [[Kae\|Kae]]. He was the one to inform her of [[Raoden\|Raoden's]] "death". When Sarene asked to see Raoden's casket, Ketol protested that he had been told to take her to the king right away. He gave in, however, and took her to the funeral tent, where he and some packmen cleared a path to the casket. Afterwards, Ketol took Sarene to the court and instructed her on how to approach the king.
+**Ketol** es un asistente de la corte de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Es un hombre alto y enjuto con expresión aburrida que hace bien su trabajo pero sin entusiasmo.
+El rey [[Iadon\|Iadon]] envió a Ketol a reunirse con [[Sarene\|Sarene]] cuando ésta llegó a [[Kae\|Kae]]. Fue él quien le informó de la "muerte" de [[Raoden\|Raoden]]. Cuando Sarene pidió ver el ataúd del príncipe, Ketol protestó porque le habían dicho que la llevara ante el rey de inmediato. Sin embargo, cedió y la llevó a la carpa funeraria, donde él y unos mozos de carga abrieron camino hasta el ataúd. Después, Ketol llevó a Sarene a la corte y la instruyó sobre cómo acercarse al rey.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 01:18, 11 de junio de 2022 (UTC)
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
 
-https://coppermind.net/wiki/Ketol
+https://es.coppermind.net/wiki/Ketol

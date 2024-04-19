@@ -1,61 +1,85 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Shan Elariel**|
 |-|-|
-|by  Egilde Art |
+||
 |**Family**|[[House Elariel\|House Elariel]]|
-|**Died**|c. 1022 [[Final Empire\|FE]]|
-|**Abilities**|[[Allomancy\|Mistborn]]|
-|**Residence**|[[Luthadel\|Luthadel]]|
-|**Ethnicity**|[[Noble\|Noble]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Mistborn: The Final Empire*|
+|**Fallecido**|c. 1022 [[Imperio Final\|IF]]|
+|**Capacidades**|[[Alomancia\|Nacido de la bruma]]|
+|**Residencia**|[[Luthadel\|Luthadel]]|
+|**Etnia**|[[Noble\|Noble]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
-**Shan Elariel** is a [[Noble\|noble]] of [[House Elariel\|House Elariel]] on [[Scadrial\|Scadrial]]. She is a [[Allomancy\|Mistborn]] and the former fianceé of [[Elend Venture\|Elend Venture]].
+**Shan Elariel** es una [[Noble\|noble]] de la [[Casa Elariel\|Casa Elariel]] en [[Scadrial\|Scadrial]]. Es una [[Alomancia\|nacida de la bruma]] y la antigua prometida de [[Elend Venture\|Elend Venture]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Failed Engagement to Elend
-3.2 Holding Court
-3.3 Assassination Plot and Death
-
-
-4 Notes
+3. [[#Compromiso fallido con Elend]] 
+3. [[#El alma de la fiesta]] 
+3. [[#Complot de asesinato y muerte]] 
 
 
-## Appearance and Personality
- by  Hayley Lazo 
-For more images, see [[Shan Elariel/Gallery\|/Gallery]].
->“*If you think any other important nobleman will ever pay any attention to you, then you are mistaken. Elend likes to shock the court—and so, naturally, he chose to do so with the most homely and lumpish woman he could find. Take this opportunity; you shall not soon find another.*”
-\-Shan, to "Valette"[3]
+4 Notas. [[#Notas]] 
 
 
-Shan is tall and striking, with long, dark auburn hair. She has dark, expressive eyes and an attractive figure. Her appearance is generally immaculate, and she wears fine dresses and jewelry. When she fights as a Mistborn, she pulls her hair back and wears black trousers and a black shirt, along with a [[Mistcloak\|mistcloak]].
-Shan is clever and exceptionally confident. She is used to getting her way at all times, partly due to her ability to [[Brass\|Soothe]] those around her. As a member of a great house, she considers herself superior to most other people, even other nobles. She maintains a demeaning attitude towards those she considers below her station, openly and calmly threatening and insulting them. Despite the fact that many in the court fear her, Elend calls her "harmless". [[Vin\|Vin]] believes that she personifies the ideal woman among the [[Luthadel\|Luthadel]] elite.
-
-## Attributes and Abilities
-Although Shan is self-centered, her beauty and charisma attract people to her. She is highly informed about other members of the court, and she is both skilled and aggressive in house politics. Those loyal to House Elariel, including a [[Shan Elariel's steward\|Terrisman steward]] and a number of Allomancers, are willing to perform subterfuge or even kill at her direction.
-Shan is a Mistborn and is able to burn all of the metals known during the [[Final Empire\|Final Empire]]. She uses [[Brass\|brass]] most often, but she also uses other metals such as [[Steel\|steel]], [[Pewter\|pewter]], [[Iron\|iron]], [[Atium\|atium]], and [[Copper\|copper]] during her fight with Vin. She is wealthy, and has more than one bead of atium when confronted by Vin. She is fully trained in both Allomancy and hand-to-hand combat. Several years later, Vin recalls her fight with Shan as a difficult one.
-
-## History
- by  Jove 
-### Failed Engagement to Elend
-Shan became engaged to [[Elend Venture\|Elend Venture]] around 1021 [[Final Empire\|FE]]. It was presumably a political engagement between the two houses, as no movement was made towards a marriage for a year. Although they technically never broke off the engagement, Shan became known as Elend's "former fiancée". Elend was flippant about the situation, but Shan seemed to hold some personal bitterness about the fact that he did not seem to care about marrying her.
-Despite this setback, she was a budding master of house politics, and kept an eye on Elend since he was the heir to House Venture, one of the few houses that had more power than her own. Shan's desire to keep tabs on Elend was the reason that she was willing to interact with Vin in her disguise as Valette Renoux, after she was seen talking to Elend. At one point, Shan even sent her [[Shan Elariel's steward\|Terrisman steward]] to covertly look at some books that Elend left on his table to try and learn what he had been reading about, likely because she suspected that he had rebellious leanings.
-
-### Holding Court
-Shan met Vin at her second ball as Valette Renoux, and Vin was struck by her haughty attitude. Shan mercilessly insulted Valette and attempted to subtly Soothe her emotions in order to control her, but Vin noticed it thanks to training that she received from [[Breeze\|Breeze]]. [[Kelsier\|Kelsier]] received further confirmation that Shan was a Soother from a disguised [[Hoid\|Hoid]], who also told him that Shan kept some spare brass in her glove.
-
- by  Elizabeth Peiró  Shan (top), fighting [[Vin\|Vin]]
-Vin continued to subject herself to Shan's abuse in order to maintain her Valette persona. As "Valette" gained confidence, Shan became even more insulting towards her and made stronger use of her [[Allomancy\|Allomancy]], eventually tasking Valette with digging up more dirt on Elend. Vin tried to warn Elend about Shan, but he did not share her concern. Shan realized that Valette's allegiance was with Elend, and no longer wanted anything to do with her. Vin was frustrated that she could no longer learn more about whatever Shan was plotting.
-
-### Assassination Plot and Death
-Shan's plans soon took a darker turn; Vin learned from [[Kliss\|Kliss]] that Shan planned to have Elend assassinated in his quarters after a ball at [[Keep Venture\|Keep Venture]]. Kliss's scuttlebutt indicated that Shan had confirmed that Elend was reading forbidden books and hoped to damage House Venture's reputation by revealing this fact to the [[Steel Ministry\|Steel Ministry]]. Meanwhile, [[Straff Venture\|Straff Venture]] was said to be complicit in the plot, as he saw it as a chance to eliminate his "unworthy" heir alongside two young noblemen from rival houses who would be meeting with Elend—[[Jastes Lekal\|Jastes Lekal]] and [[Telden Hasting\|Telden Hasting]]. Vin immediately left to try and save Elend and found Shan, who was revealed to be a full Mistborn. Shan was accompanied by another Mistborn and several other Allomancers who served House Elariel. Vin was able to find them immediately by piercing Shan's [[Coppercloud\|coppercloud]].
-Shan was shocked when she recognized "Valette"; a fight commenced, and Vin was able to take on the entire group of Elariel Allomancers. Eventually, Vin and Shan fought one-on-one, and Shan exhibited a surprising level of skill with both Allomancy and glass daggers. Both Shan and Vin used [[Atium\|atium]] during the fight, but Shan had a larger supply, giving her an advantage. However, Shan was tricked into believing that Vin's atium had run out; she was hit in the chest by an arrow in her confusion when Vin burned the last bit of her reserves. Vin broke off the shaft of the arrow and stabbed Shan in the heart with it, killing her.
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Shan Elariel/Galer%C3%ADa\|/Galería]].
+>“*Si crees que cualquier otro noble importante te prestará atención alguna vez, estás muy equivocada. A Elend le gusta escandalizar a la corte... así que, naturalmente, eligió para hacerlo a la mujer más pueblerina y simple que pudo hallar. Aprovecha esta oportunidad: no encontrarás a otro pronto.*”
+\-Shan, a "Valette"[3]
 
 
+Shan es alta y llamativa, con un pelo largo y oscuro de color castaño. Tiene unos ojos oscuros y expresivos y una figura atractiva. Su aspecto es generalmente inmaculado, y lleva vestidos y joyas finas. Cuando lucha como nacida de la bruma, se echa el pelo hacia atrás y lleva pantalones y camisa negros, junto con una [[Capa de brumas\|capa de brumas]].
+Shan es inteligente y excepcionalmente segura de sí misma. Está acostumbrada a salirse con la suya en todo momento, en parte debido a su habilidad para [[/wiki/Lat%C3%B3n#Uso alom.C3.A1ntico]] a los que la rodean.{{book ref|mb1|19} Como miembro de una gran casa, se considera superior a la mayoría de la gente, incluso a otros nobles. Mantiene una actitud denigrante hacia aquellos que considera por debajo de su posición, amenazándolos e insultándolos abierta y tranquilamente. A pesar de que muchos en la corte la temen, Elend la considera "inofensiva". [[Vin\|Vin]] cree que personifica a la mujer ideal entre la élite de [[Luthadel\|Luthadel]].
 
-https://coppermind.net/wiki/Shan_Elariel
+## Atributos y habilidades
+Aunque Shan es egocéntrica, su belleza y carisma atraen a la gente hacia ella. Está muy informada sobre los demás miembros de la corte, y es hábil y agresiva en la política de las casas. Los leales a la Casa Elariel, entre ellos un [[Mayordomo de Shan Elariel\|mayordomo terrisano]] y varios alomantes, están dispuestos a realizar subterfugios o incluso a matar bajo su dirección.
+Shan es una nacida de la bruma y es capaz de quemar todos los metales conocidos durante el [[Imperio Final\|Imperio Final]]. Utiliza el [[Lat%C3%B3n\|latón]] más a menudo, pero también utiliza otros metales como el [[Acero\|acero]], el [[Peltre\|peltre]], el [[Hierro\|hierro]], el [[Atium\|atium]] y el [[Cobre\|cobre]] durante su lucha con Vin. Es rica y tiene más de una cuenta de atium cuando se enfrenta ella. Está totalmente entrenada tanto en alomancia como en combate cuerpo a cuerpo. Varios años más tarde, Vin recuerda su lucha con Shan como algo difícil.
+
+## Historia
+ 
+### Compromiso fallido con Elend
+Shan se comprometió con [[Elend Venture\|Elend Venture]] alrededor de 1021 [[Imperio Final\|IF]]. Es de suponer que se trató de un compromiso político entre las dos Casas, ya que durante un año no se produjo ningún movimiento hacia el matrimonio. Aunque técnicamente nunca rompieron el compromiso, Shan pasó a ser conocida como la "ex prometida" de Elend. Elend se mostraba indiferente ante la situación, pero Shan parecía guardar cierta amargura personal por el hecho de que a él no parecía importarle casarse con ella.
+A pesar de este contratiempo, era una maestra en ciernes de la política de la Casa, y mantenía vigilado a Elend, ya que era el heredero de la Casa Venture, una de las pocas Casas que tenía más poder que la suya. El deseo de Shan de vigilar a Elend fue la razón por la que estuvo dispuesta a interactuar con Vin en su disfraz de Valette Renoux, después de que la vieran hablando con él.  En un momento dado, Shan incluso envió a su [[Mayordomo de Shan Elariel\|mayordomo terrisano]] a mirar de forma encubierta algunos libros que Elend dejó sobre su mesa para intentar saber qué había estado leyendo,  probablemente porque sospechaba que tenía inclinaciones rebeldes.
+
+### El alma de la fiesta
+Shan conoció a Vin en su segundo baile como Valette Renoux, y a Vin le llamó la atención su actitud altiva. Shan insultó sin piedad a Valette e intentó aplacar sutilmente sus emociones para controlarla, pero Vin se dio cuenta gracias al entrenamiento que recibió de [[Brisa\|Brisa]]. [[Kelsier\|Kelsier]] recibió una nueva confirmación de que Shan era una aplacadora por parte de un [[Hoid\|Hoid]] disfrazado, que también le dijo que Shan guardaba algo de latón de repuesto en su guante.
+
+  Shan (arriba), luchando contra <<Vin\|Vin>>
+Vin continuó sometiéndose a los abusos de Shan para mantener su personaje de Valette. A medida que "Valette" ganaba confianza, Shan se volvió aún más insultante hacia ella e hizo un uso más fuerte de su [[Alomancia\|alomancia]], encargando finalmente a Valette que sacara más trapos sucios de Elend. Vin trató de advertir a Elend sobre Shan, pero éste no compartió su preocupación. Shan se dio cuenta de que la lealtad de Valette estaba con Elend, y ya no quería tener nada que ver con ella. Vin estaba frustrada por no poder saber más sobre lo que ella estaba tramando.
+
+### Complot de asesinato y muerte
+Los planes de Shan pronto tomaron un giro más oscuro; Vin se enteró por [[Kliss\|Kliss]] de que Shan planeaba hacer asesinar a Elend en sus aposentos después de un baile en la [[Mansi%C3%B3n Venture\|Mansión Venture]]. Los rumores de Kliss indicaban que Shan había confirmado que Elend leía libros prohibidos y esperaba dañar la reputación de la Casa Venture revelando este hecho al [[Ministerio del Acero\|Ministerio del Acero]]. Mientras tanto, se decía que [[Straff Venture\|Straff Venture]] era cómplice del complot, ya que lo veía como una oportunidad para eliminar a su "indigno" heredero junto a dos jóvenes nobles de casas rivales que se reunirían con Elend:[[Jastes Lekal\|Jastes Lekal]] y [[Telden Hasting\|Telden Hasting]]. Vin partió inmediatamente para intentar salvar a Elend y encontró a Shan, que se reveló como una nacida de la bruma completa. Shan estaba acompañada por otro nacido de la bruma y varios otros alomantes que servían a la Casa Elariel.  Vin pudo encontrarlos inmediatamente al atravesar la [[Nube de cobre\|nube de cobre]] de Shan.
+Shan se sorprendió al reconocer a "Valette"; se inició un combate, y Vin fue capaz de enfrentarse a todo el grupo de alomantes de Elariel. Con el tiempo, Vin y Shan lucharon uno contra uno, y Shan exhibió un sorprendente nivel de habilidad tanto con la alomancia como con las dagas de cristal. Tanto Shan como Vin utilizaron [[Atium\|atium]] durante el combate, pero Shan tenía un mayor suministro, lo que le daba ventaja. Sin embargo, Shan fue engañada haciéndole creer que el atium de Vin se había agotado; fue alcanzada en el pecho por una flecha en su confusión cuando Vin quemó lo último de sus reservas. Vin rompió el asta de la flecha y apuñaló a Shan en el corazón con ella, matándola.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 00:57, 2 May 2020 (UTC)
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Shan_Elariel

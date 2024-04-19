@@ -1,66 +1,78 @@
+
+
 |**Kokerlii**|
 |-|-|
-|**Abilities**|Mental shielding|
-|**Bonded With**|[[Sixth of the Dusk (character)\|Sixth of the Dusk]]|
-|**Species**|[[Aviar\|Aviar]]|
-|**Homeworld**|[[First of the Sun\|First of the Sun]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Sixth of the Dusk*|
+|**Capacidades**|Blindaje mental|
+|**Vinculado con**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]]|
+|**Especie**|[[Aviar\|Aviar]]|
+|**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Kokerlii** is an [[Aviar\|Aviar]] on [[First of the Sun\|First of the Sun]]. He is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]] and lives with him on the island of [[Patji (island)\|Patji]] in the [[Pantheon\|Pantheon]].
+**Kokerlii** es un [[Aviar\|aviar]] en [[Primero del Sol\|Primero del Sol]]. Es propiedad del [[Trampero\|trampero]] [[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] y vive con él en la isla de [[Patji (isla)\|Patji]] en el [[Pante%C3%B3n\|Panteón]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Notes
-
-
-## Appearance and Personality
-Kokerlii has bright red and green plumage. He appears to be of a typical size for Aviar, which is "three fists tall" (approximately ten to twelve inches). Kokerlii and [[Sak\|Sak]] are Dusk's primary companions. Dusk is highly attuned to the behavior of his birds and is usually able to ascertain their emotions through their chirps, bites, and body language. Kokerlii chirps often and generally has a happy disposition; Dusk characterizes him as "oblivious". Like other Aviar raised by humans, Kokerlii always stays relatively close to his master and would not "fit in" with wild Aviar.
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-Images of Kokerlii
+## Apariencia y personalidad
+Kokerlii tiene un plumaje rojo y verde brillante. Parece tener el tamaño típico de un aviar, que es de "tres puños de altura" (aproximadamente de veinte a treinta centímetros). Kokerlii y [[Sak\|Sak]] son los principales compañeros de Ocaso. Está muy atento al comportamiento de sus pájaros y suele ser capaz de averiguar sus emociones a través de sus gorjeos, mordiscos y lenguaje corporal. Kokerlii gorjea a menudo y, en general, tiene un carácter alegre; Ocaso lo califica de "inconsciente". Al igual que otros aviares criados por humanos, Kokerlii siempre se mantiene relativamente cerca de su amo y no "encajaría" con los aviares salvajes.
 
 
-
- On *Sixth of the Dusk* cover
+Imágenes de Kokerlii
 
 
 
-
-
- *Sixth of the Dusk* interior art
+ En la portada de *Sexto del Ocaso*
 
 
 
 
 
- With [[Sixth\|Sixth]], [[Sak\|Sak]] and [[Vathi\|Vathi]]
+ Arte interior de *Sexto del Ocaso*
 
 
 
 
 
- On [[Patji (island)\|Patji]]
+ Con [[Sexto\|Sexto]], [[Sak\|Sak]] y [[Vathi\|Vathi]]
 
 
 
 
 
- On Dusk's arm
+ En [[Patji (isla)\|Patji]]
 
 
 
-## Attributes and Abilities
-Dusk has not clipped Kokerlii's wings and he is able to fly. Since Kokerlii serves as one of Dusk's companion Aviar, the two of them share a unique bond comparable to the [[Nahel bond\|Nahel bond]]. Dusk has trained Kokerlii to return to him when he whistles.
-As an Aviar, Kokerlii gained a magical "talent" by visiting [[Patji's Eye\|Patji's Eye]] when he was young. He has the ability to conceal all mental activity in his immediate vicinity. This is extremely useful to Dusk because many predators on Patji (such as [[Deepwalker\|deepwalkers]], [[Deathant\|deathants]], [[Nightmaw\|nightmaws]], and [[Tuskrun\|tuskrun]]) can hunt by sensing thoughts. Dusk notes that the power weakens as Kokerlii moves farther away. This ability has similarities to [[Allomancy\|Allomantic]] [[Copper\|copper]] and other powers in the [[Cosmere\|cosmere]], meaning Kokerlii would be able to conceal some types of [[Investiture\|Investiture]].
 
-## History
-Dusk bred Aviar and it is likely that he raised Kokerlii from birth, although trappers also care for the Aviar of their dead peers. Kokerlii had a nesting box in Dusk's [[Safecamp\|safecamp]], where he kept the rest of his Aviar. Kokerlii's talent was highly desirable to trappers in the Pantheon, and Dusk brought Kokerlii everywhere he went. Kokerlii may have had some understanding of his role, as Dusk noted that he gave an "apologetic chirp" after a nightmaw found and attacked them.
-Kokerlii accompanied Dusk and [[Vathi\|Vathi]] on a dangerous nighttime trip through the jungle. At one point Dusk believed he would have to sacrifice himself to a nightmaw and tried to give Kokerlii to Vathi, but an alternate plan was devised and Kokerlii remained with Dusk.
+
+ En el brazo de Ocaso
 
 
 
-https://coppermind.net/wiki/Kokerlii
+## Atributos y habilidades
+Ocaso no ha cortado las alas de Kokerlii y éste puede volar. Puesto que Kokerlii sirve como uno de los compañeros aviares de Ocaso, ambos comparten un vínculo único comparable al [[V%C3%ADnculo Nahel\|vínculo Nahel]]. Ocaso ha entrenado a Kokerlii para que regrese a él cuando le silbe.
+Como aviar, Kokerlii adquirió un "talento" mágico al visitar el [[Ojo de Patji\|Ojo de Patji]] cuando era joven. Tiene la capacidad de ocultar toda actividad mental en sus inmediaciones. Esto es extremadamente útil para Ocaso porque muchos depredadores de Patji (como [[Recorrefondos\|recorrefondos]], [[Hormiga asesina\|hormigas asesinas]], [[Quijanoche\|quijanoches]] y [[Tuskrun\|tuskrun]]) pueden cazar percibiendo los pensamientos.  Ocaso observa que el poder se debilita a medida que Kokerlii se aleja. Esta habilidad tiene similitudes con el [[Cobre\|cobre]] [[Alomancia\|alomántico]]  y otros poderes del [[Cosmere\|Cosmere]], lo que significa que Kokerlii podría ocultar algunos tipos de [[Investidura\|Investidura]].
+
+## Historia
+Ocaso criaba aviares y es probable que criara a Kokerlii desde su nacimiento, aunque los tramperos también cuidan de los aviares de sus congéneres muertos. Kokerlii tenía una caja nido en el [[Campamento franco\|campamento franco]] de Ocaso, donde guardaba al resto de sus aviares. El talento de Kokerlii era muy codiciado por los tramperos del Panteón, y Ocaso se lo llevaba a todas partes. Es posible que Kokerlii comprendiera su papel, ya que Ocaso observó que emitió un "chirrido de disculpa" después de que un quijanoche los encontrara y los atacara.
+Kokerlii acompañó a Ocaso y [[Vathi\|Vathi]] en un peligroso viaje nocturno por la selva. En un momento dado, Ocaso creyó que tendría que sacrificarse a un quijanoche e intentó entregar a Kokerlii a Vathi, pero se ideó un plan alternativo y Kokerlii permaneció con Ocaso.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 16:00, 16 de octubre de 2019 (UTC)
+|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
+|-|-|
+|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
+|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[/wiki/Primero del Sol#Continente]]|
+|**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · ) · [[Ojo de Patji\|Ojo de Patji]]|
+|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
+
+
+
+https://es.coppermind.net/wiki/Kokerlii

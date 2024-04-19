@@ -1,0 +1,74 @@
+
+
+|**Catacendro**|
+|-|-|
+||
+|**Participantes**|[[Sazed\|Sazed]]|
+|**Efectos**|Recreación de [[Scadrial\|Scadrial]]|
+|**Mundo**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+
+El **Catacendro**, o la **Ascensión Final**, también conocido como la **Muerte de Hielo** por los [[Scadriano del sur\|scadrianos del sur]], es un punto crítico en la historia de [[Scadrial\|Scadrial]] y de todo el [[Cosmere\|Cosmere]]. Dicho evento marca la fusión de [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]] en una sola [[Esquirla\|Esquirla]], [[Armon%C3%ADa\|Armonía]] y el regreso de Scadrial a un estado parecido al que se encontraba antes de la Ascensión del lord Legislador.
+
+## Sumario
+
+1 Eventos previos. [[#Eventos previos]] 
+2 La Ascensión Final. [[#La Ascensi.C3.B3n Final]] 
+3 Repercusiones. [[#Repercusiones]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Ver también. [[#Ver tambi.C3.A9n]] 
+6 Notas. [[#Notas]] 
+
+
+## Eventos previos
+Con [[Ruina\|Ruina]] suelto por el mundo y [[Leras\|Leras]], el [[Recipiente\|Recipiente]] de [[Conservaci%C3%B3n\|Conservación]], debilitándose día tras día, la existencia de [[Scadrial\|Scadrial]] y de sus habitantes peligraba debido a la incesante lluvia de ceniza, terremotos consecutivos cada vez más fuertes, y los [[Montes de Ceniza\|montes de Ceniza]] en constante erupción.
+Tras su última conversación con [[Elend Venture\|Elend]], Leras fallece, dejando así a [[Conservaci%C3%B3n\|Conservación]] sin un Recipiente. Esta habría sido rápidamente absorbida por [[Vin\|Vin]], que ya estaba especialmente unida al poder de Conservación, pero Vin aún llevaba puesto su [[Pendiente de Vin\|pendiente]], el cual tenía una potente [[Hemalurgia\|carga hemalúrgica]], y actuó como un factor de rechazo a la Esquirla. La [[Sombra cognitiva\|sombra cognitiva]] de [[Kelsier\|Kelsier]] pudo absorber parcialmente el poder de Conservación, ayudando así a retrasar a Ruina y la destrucción del mundo, e impidiendo que Ruina astillara la antigua Esquirla tras acabar con [[Leras\|Leras]]. Sin embargo, Kelsier no podía ejercer su poder con eficacia debido al hecho de que su Conexión con el poder era artificial, hecha por el [[Orbe de los Ire\|orbe de los Ire]].
+Durante la batalla final entre Vin y los [[Inquisidores de acero\|Inquisidores de acero]] [[Feruquimia\|mejorados feruquímicamente]] de Ruina sobre [[Kredik Shaw\|Kredik Shaw]] en la abandonada [[Luthadel\|Luthadel]], [[Marsh\|Marsh]] arrancó el pendiente de Vin en un último momento de rebelión contra el control de Ruina, con Kelsier usando toda su fuerza para distraer a Ruina y ayudar a impulsar el último vestigio de humanidad de Marsh a que se rebelase. El estado de Kelsier como [[Sombra cognitiva\|sombra cognitiva]] y su [[Conexi%C3%B3n\|Conexión]] con Ruina debido al pozo impedían a Kelsier utilizar la totalidad del poder de Conservación. Por lo tanto renunció a la Esquirla en favor de Vin en el momento que ella pierde el clavo. Malherida como estaba, con el cuerpo roto, Vin absorbe todo el poder de Conservación. Destruyó a todos los inquisidores (excepto a Marsh) y aplastó Kredik Shaw con un único e inmenso empujón. Luego, Ascendió por completo.
+En un principio, Ruina permitió a Vin (ahora como Recipiente de Conservación) juguetear con sus nuevos poderes, sabiendo que cometería errores. Al limpiar la ceniza de la atmósfera, permitió que el calor del sol extremadamente cercano hiciera hervir la superficie del planeta. Al rotar el planeta hacia la noche para proteger a la gente de los rayos del sol, causó un tsunami masivo que borró del mapa las líneas costeras. Cuando se dio cuenta de que debía ser más sutil e intentó usar su poder intentando parar el tsunami, Ruina interfirió para evitarlo, provocándola con sus fallos. Conservación pronto se dio cuenta de que ambos estaban en un punto muerto, debido a que sus habilidades eran equivalentes en poder.
+Ruina mandó su enorme ejército de [[Koloss\|koloss]] a los Pozos de Hathsin, pero Vin pudo contactar con Elend, mandándolo a los Pozos y ayudándole a entender la verdad detrás del batallón de [[Los Ca%C3%ADdos\|Los Caídos]]: ahora eran [[Atium\|videntes]], [[Alomancia\|brumosos]] capaces de quemar atium. Así empezó la [[Batalla de Hathsin\|Batalla de Hathsin]], y Vin observó mientras Elend y la mayor parte de sus hombres morían, rechazando el ataque del ejército de koloss, quemando el atium restante durante su sacrificio. Con Elend muerto, Vin se quedó sin un motivo para vivir, así que asaltó a Ruina con la totalidad de su poder, sabiendo que ambos morirían en el proceso. Como consecuencia, Vin y [[Ati\|Ati]] cayeron muertos al lado de Elend, fuera de los Pozos, mientras [[Sazed\|Sazed]] observaba desde cerca, quedando Ruina y Conservación sin Recipiente, con los koloss restantes matándose entre ellos sin control. Esto se debía a que una parte del "cuerpo" de Ruina, su conexión con el mundo físico en forma de [[Atium\|atium]], había sido ocultada por el [[Lord Legislador\|lord Legislador]] y los [[Kandra\|kandra]]. Estaba oculto en la [[Tierra natal kandra\|tierra natal kandra]] secreta adyacente a los [[Pozos de Hathsin\|Pozos de Hathsin]], mantenida en secreto en el [[Cubil de la Confianza\|Cubil de la Confianza]], oculta a los sentidos de Ruina. Pero los dos seguían siendo capaces de influir fácilmente en aquellos que blandían su [[Investidura\|Investidura]]: [[Alomancia\|alomancia]] y hemalurgia, sin ser fácilmente contrarrestados por el otro. Esto permitió a Ruina descubrir el alijo secreto al hacerse con el control de [[KanPaar\|KanPaar]] tras su golpe de estado a la [[Primera Generaci%C3%B3n\|Primera Generación]] y la ruptura del [[Primer Contrato\|Primer Contrato]] y la [[Resoluci%C3%B3n\|Resolución]]. Sin embargo, la mayoría de los kandra permanecieron leales cuando Ruina comenzó a tomar el control y llevaron a cabo la Resolución, eliminando sus [[Bendici%C3%B3n\|Bendiciones]] y sacrificando su sensibilidad.
+Ruina envió a su enorme ejército de [[Koloss\|koloss]] para atacar los Pozos, pero Conservación pudo llegar hasta Elend, dirigirlo a allí y ayudarle a darse cuenta de la verdad que se ocultaba tras el batallón de : eran [[Vidente (Scadrial)\|videntes]], [[Brumoso\|brumosos]] capaces de quemar atium. Así comenzó la [[Batalla de Hathsin\|Batalla de Hathsin]]. Vin/Conservación observó cómo Elend y la mayoría de sus hombres eran masacrados, conteniendo al ejército koloss, mientras quemaban el atium restante en su sacrificio. Esto causó a Ruina una terrible herida y le hizo perder los estribos, su mayor plan frustrado y su mayor ventaja destruida. Con Elend muerto, a [[Conservaci%C3%B3n\|Conservación]] no le quedaba nada por lo que vivir y asaltó a Ruina con todo su poder, sabiendo que el contragolpe de Ruina mataría a sus dos Recipientes. Ella y [[Ati\|Ati]] cayeron muertos cerca de Elend, fuera de los Pozos, mientras [[Sazed\|Sazed]] observaba, dejando tanto a Ruina como a Conservación sin control y a los koloss restantes, descontrolados, enloquecidos unos contra otros.
+
+## La Ascensión Final
+Tras haber fallecido Ati y Vin, tanto Ruina como Conservación quedaron sin Recipiente. Sazed, que lloraba las pérdidas de Vin (quién había asumido que sería la heroína esperada), y Elend, reparó en las niebla blanca y la niebla negra que rezumaban de los cuerpos de los anteriores Recipientes. En ese momento entendió que era él quien mejor se ajustaba a las profecías del [[H%C3%A9roe de las Eras\|Héroe de las Eras]] y absorbió el poder de las dos Esquirlas. En el proceso, las dos Esquirlas se fusionaron con un único Recipiente para formar el ser que pasó a ser conocido como [[Armon%C3%ADa\|Armonía]], y con su poder, Sazed emprendió la tarea de reparar el mundo.
+
+## Repercusiones
+La principal repercusión de la Ascensión Final fue la reconstrucción de Scadrial. Las dos Esquirlas, trabajando juntas en armonía, fueron capaces de remodelar Scadrial a una forma casi idéntica a como era antes de la [[Ascensi%C3%B3n del lord Legislador\|Ascensión del lord Legislador]]. Sazed tuvo mejor capacidad para hacerlo que la mayoría, gracias a sus deberes como [[Guardador\|Guardador]] y el conocimiento guardado en sus [[Feruquimia\|mentes de metal]], de las cuales extrajo el conocimiento contenido mientras absorbía el poder de Armonía. Todas las religiones que había estudiado y rechazado debido a inconsistencias contenían algunas verdades sobre el mundo pasado, incluyendo cartografía, geología, astronomía, anatomía, zoología e incluso dibujos y pinturas que mostraban la belleza del mundo. Con el poder de Armonía, también pudo acceder a las huellas de estas características que quedaron en el Reino Espiritual donde sus mentes de metal no tenían información. La principal excepción respecto a la forma original del mundo durante la reconstrucción fue la [[Cuenca de Elendel\|Cuenca de Elendel]], que reemplazó la zona dónde una vez estuvo Hathsin, y fue diseñada para ser una tierra fértil, cuna de la nueva civilización en proceso de desarrollo.
+Además de corregir la posición del planeta y de remodelar las masas de tierra, Armonía trajo de vuelta varias formas de vida que se habían perdido y restauró la fisiología original de la Humanidad, antes de que fueran modificados por [[Rashek\|Rashek]] para hacer [[Skaa\|skaa]] y [[Noble\|nobles]] resistentes a la ceniza. Movió a los supervivientes, que se habían ocultado bajo tierra, a la nueva localización de la Cuenca de Elendel, y les legó las [[Palabras de Instauraci%C3%B3n\|Palabras de Instauración]], una serie de libros que recogían los eventos que llevaron al Catacendro para que fueran recordados por la población tal y como sucedieron, guardando todo el conocimiento que había sido recogido por los Guardadores.
+Acorde a la petición del Lasca Kelsier, se le concedieron a [[Fantasma\|Fantasma]] las habilidades de un poderoso [[Alomancia\|nacido de la bruma]]. Armonía, incapaz de traer de vuelta a la vida a aquellos que han pasado al otro lado, dejó los cuerpos restaurados de Vin y Elend para que los supervivientes los honraran. También dejó un misterioso mensaje a Fantasma, sugiriéndole que existían dos metales alománticos por descubrir. En los siglos venideros, se acabaron por encontrar dos nuevos metales y sus respectivas aleaciones, [[Cromo\|cromo]], [[Nicrosil\|nicrosil]], [[Cadmio\|cadmio]] y [[Bendaleo\|bendaleo]], que contaban con aplicaciones alománticas y feruquímicas.
+
+## Curiosidades
+'Cata' es un prefijo común griego que se vendría a traducir como ‘hacia abajo’, ‘caída’. ‘Cendre’ es la palabra francesa para ceniza. La palabra Catacendro, del inglés Catacendre, podría traducirse o bien como una lluvia de ceniza o bien como el fin de la ceniza. Aunque ambos significados podrían tenerse en cuenta, Brandon confirmó más tarde que significaba “el fin de la ceniza".
+
+## Ver también
+[[/wiki/Scadrial#Historia]]
+[[/wiki/Scadrial del sur#Historia]]
+## Notas
+|**Historia de [[Scadrial\|Scadrial]]**|
+|-|-|
+|[[Batalla de Hathsin\|Batalla de Hathsin]]|**Catacendro**|Recreación de [[Scadrial\|Scadrial]]|
+
+|**Historia del [[Cosmere\|Cosmere]]**|
+|-|-|
+|Muerte de [[Ati\|Ati]] y [[Vin\|Vin]]|**Catacendro**|Recreación de [[Scadrial\|Scadrial]]|
+
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] ·  · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Antevergel

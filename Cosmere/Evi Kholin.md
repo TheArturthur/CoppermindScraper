@@ -1,88 +1,107 @@
+
+
 |**Evi Kholin**|
 |-|-|
-|by  Shuravf |
-|**House Kholin**|
-|**Spouse**|[[Dalinar\|Dalinar]]|
-|**Children**|[[Adolin\|Adolin]], [[Renarin\|Renarin]]|
-|**Siblings**|[[Toh\|Toh]]|
-|**Born**|1124|
-|**Died**|1163|
-|**Nationality**|[[Riran\|Riran]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**[[Casa Kholin\|Casa Kholin]]**|
+|**Cónyuge**|[[Dalinar\|Dalinar]]|
+|**Hijos**|[[Adolin\|Adolin]], [[Renarin\|Renarin]]|
+|**Hermanos**|[[Toh\|Toh]]|
+|**Nacido en**|1124|
+|**Fallecido**|1163|
+|**Nacionalidad**|[[De Rira\|de Rira]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Enjoy the moment. Close your eyes and contemplate what the One has given you. Seek the peace of oblivion, and bask in the joy of your own sensation.*”
-\-Evi[3]
-
-
-**Evi Kholin** is [[Dalinar Kholin\|Dalinar Kholin's]] first wife, and the mother of [[Adolin\|Adolin]] and [[Renarin\|Renarin]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-
-3.1 Early Life and Marriage
-3.2 Sons
-3.3 War and Death
-3.4 Legacy
+>“*Disfruta del momento. Cierra los ojos y contempla lo que el Único te ha concedido. Busca la paz del olvido, y regocíjate en el deleite de tu propia sensación.*”
+\-Evi.[3]
 
 
-4 Trivia
-5 Notes
+**Evi Kholin** es la primera mujer de [[Dalinar Kholin\|Dalinar Kholin]] y la madre de [[Adolin\|Adolin]] y [[Renarin\|Renarin]].
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Juventud y matrimonio]] 
+3. [[#Hijos]] 
+3. [[#Guerra y muerte]] 
+3. [[#Legado]] 
 
 
-## Appearance and Personality
- by  Marie Seeberger 
->“*Must everything be fighting to you?*”
-\-Evi[3]
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-For more images, see [[Evi Kholin/Gallery\|/Gallery]].
-Evi is exceptionally tall, almost as tall as an [[Alethi\|Alethi]]. She is willowy and somewhat frail, with a small chest. Her hair is pale blonde and her skin is light golden, though neither are true [[Iri\|Iriali]] gold, and she has matching [[Lighteyes\|light]] yellow eyes.
-Evi is a calm woman, often shying away from conflict. She is a dedicated pacifist and often tries to convince her husband to behave more peacefully and reject the warlike ways of his kinsmen. She enjoys the moments of calm between the two of them, and could be truly happy then. Though peaceful, Evi is dedicated to her convictions. Even shortly before the end of her life, she tries to convince Dalinar that violence doesn't always need to be the answer.
-Evi's time among the Alethi has caused her to be jaded and critical. The contest of wittiness between the women makes her feel stupid; she critiques the Alethi's supposed piety, noting that they are only ever devout when it suits their desire to wage war. She tries to assimilate into the [[Vorin\|Vorin]] culture with mixed results, but does not let herself forget her origin. After her death, [[Navani\|Navani]] would claim that everyone loved her, but Evi's own experiences run contrary to that observation.
-Although she and Dalinar are poorly matched, she nonetheless strives to make their relationship work. She refuses to let her frustration with Dalinar's darker nature show to her children, having told them that their father is an excellent man and officer. Eventually, she comes to truly care for him, although she is keenly aware that he does not reciprocate her feelings to the same extent. Adolin likely inherited his emotional sensibility from her.
-She is a devout follower of [[Iri\|Iri]] religion and believes in the One. Though she absorbs many Vorin customs upon her marriage, including the worship of the [[Herald\|Heralds]], she continues to treat the One as the highest deity. She also respects the [[Nightwatcher\|Nightwatcher]] as an aspect of the One and believes he can be contacted through dealings with the Nightwatcher.
-
-## Attributes and Abilities
-Evi is a fluent speaker of the Alethi language, although she has a habit of literally translating her native idioms into Alethi, sometimes resulting in a loss of their context. She may be naturally left-handed, and likely re-trained herself to use her right hand upon marrying [[Dalinar\|Dalinar]]. She has some measure of artistic skill, having created the sketches of [[Adolin\|Adolin's]] [[Shardplate\|Shardplate]] for the royal record.
-Said Shardplate was originally hers; it is one of the reasons why Dalinar marries her in the first place. The queen of [[Iri\|Iri]] claims that the set belongs to her, although her claim appears weak, as she and Evi aren't related.
-
-## History
- by  botanicaxu  Evi with baby [[Adolin\|Adolin]] and [[Renarin\|Renarin]]
-### Early Life and Marriage
-Evi was born in [[Rira (country)\|Rira]] sometime around the year 1124. She grew up there with her brother, [[Toh\|Toh]]. At some point, possibly at birth, she was given a set of [[Shardplate\|Shardplate]], although she would never use it herself.
-When she was roughly nineteen years old, Evi and Toh fled Rira to Alethkar and pursued an alliance with the Alethi, offering a set of Shardplate in exchange for their protection from their own people. It was [[Torol Sadeas\|Torol Sadeas]] who suggested that Dalinar marry Evi; Dalinar agreed, knowing that [[Navani\|Navani]] was now beyond his reach. The two were betrothed soon thereafter, but only formally married three years later, as Evi's culture required prolonged courtship. However, she accompanied him to his military campaigns throughout her betrothal. Even then, she would often plead with Dalinar to be more peaceful.
-
-### Sons
-By the year 1150, Evi and Dalinar were no longer at war, but rather at their home in Kholin lands. It was in 1150 that she gave birth to her first son, [[Adolin\|Adolin]]. Shortly thereafter, Dalinar would depart for the border wars with [[Herdaz\|Herdaz]] and [[Jah Keved\|Jah Keved]], leaving Evi to raise the boy on her own for the next five years. Dalinar would visit several times; it was after one of those visits that Evi gave birth to another child. As Dalinar didn't answer her letters asking for a name, she eventually called the boy [[Renarin\|Renarin]], composing his name in an attempt to mimic Alethi patterns. Her intent was for it to mean "Re, born unto Nar" (as in Dalinar), although it came out as "one who is born unto himself". Evi told Renarin the [[Myth of Parasaphi and Nadris\|myth of Parasaphi and Nadris]] when he was young.
-
-### War and Death
->“*No one actually cares about religion here. Oh, they make sure to point out how superior their beliefs are to mine. But who actually ever worries about the Heralds, other than to swear by their names? You bring ardents to battle merely to Soulcast rocks into grain. That way, you don't have to stop killing each other long enough to find something to eat.*”
-\-Evi's frustration with the Alethi[9]
+## Apariencia y personalidad
+ 
+>“*¿Es que todo debe ser lucha para ti?*”
+\-Evi.[3]
 
 
- by  Viridializard 
-When Adolin was five years old, Evi decided to join Dalinar on his campaigns. This was motivated by several factors, chief among them the fact that all other Alethi wives joined their husbands on the campaign trail, and that Dalinar spent too little time with his children. Although he tried to convince her that the battlefield was no place for her, she insisted on staying. From then on out, she would spend half of every year with Dalinar -- and, later, Adolin -- in his war camps, and the other half in [[Kholinar\|Kholinar]] with Renarin, who was too sickly to take on the road. Her Riran accent began to fade at the time, though she would sometimes switch back to her native language.
-Although outwardly it appeared that she and Dalinar were a loving couple, by 1163 the two of them were more at odds than ever. Evi wanted the killing to end, and for the family to return to Alethkar and rest; Dalinar sought to continue making war. This culminated in a major fight between them, which ended with Evi breaking into tears. In an attempt to console her, Dalinar promised that after quelling the new rebellion in [[Rathalas\|Rathalas]], they would return to Kholinar for at least a year. Moreover, to respect her wishes to be more peaceful, he initially tried bargaining with [[Tanalan\|Tanalan]].
-Unfortunately, this was not to be. Tanalan betrayed Dalinar, attempting to kill him after sending him out to investigate rumors of a [[Highprince\|highprince]] that had betrayed [[Gavilar\|Gavilar]]. When Dalinar returned after digging himself out of a deep pile of rubble, Evi was already beginning to mourn him and grew even more distressed when he began his plan to take revenge, leading to him ordering his men to escort her out of the command tent to somewhere safe. Unbeknownst to him, she snuck out and went to the city to plead with Tanalan for peace. The young highprince detained her in his former safehouse, now turned city prison. When Dalinar set flame to the Rift, Evi died in the flames, with Dalinar finding out far too late to even attempt saving her.
+Para más imágenes, ver [[Evi Kholin/Galer%C3%ADa\|/Galería]].
+Evi es excepcionalmente alta, rozando la altura de los [[Alezi\|alezi]]. Es esbelta y algo frágil, con pecho pequeño. Su pelo es rubio platino y su piel es ligeramente dorada, sin llegar a ser del verdadero oro [[Iri\|iriali]], tiene ojos de un amarillo [[Ojos claros\|claro]] a juego.
+Evi es una mujer tranquila, que a menudo rehuye el conflicto. Es una consagrada pacifista y con frecuencia trata de convencer a su marido de comportarse más pacíficamente y rechaza los medios bélicos de sus parientes. Disfruta de los momentos de calma entre ella y Dalinar, y podría haber sido realmente feliz durante esos períodos. Aunque es muy pacífica, Evi está dedicada completamente a sus convicciones. Incluso un poco antes de su fallecimiento, intenta convencer a Dalinar de que la violencia no necesariamente tiene que ser siempre la respuesta.
+El tiempo que pasó entre los alezi le hizo estar hastiada y ser crítica. La competencia de ingenio entre mujeres la hacía sentir estúpida. Critica la supuesta piedad de los alezi, señalando que solo son devotos cuando conviene a su deseo de hacer la guerra. Trata de integrarse en la cultura [[Vorinismo\|vorin]] con resultados dispares, pero no se permite olvidar su origen. Tras su muerte, [[Navani\|Navani]] diría que todos la amaban, pero las propias experiencias de Evi fueron contrarias a esa observación.
+A pesar de que ella y Dalinar son poco compatibles, ella se esfuerza para que la relación funcione. Se niega a permitir que su frustración con la parte más oscura de Dalinar se mostrase a su hijos, contándoles que su padre era un excelente hombre y oficial. Al final, ella se preocupa de verdad por él aunque es muy consciente que sus sentimientos no son correspondidos en la misma medida. Adolin probablemente heredó su sensibilidad emocional de ella.
+Es una seguidora devota de la religión de [[Iri\|Iri]] y cree en el Único. Aunque adoptase costumbres vorin tras su matrimonio, incluyendo la veneración de los [[Heraldo\|Heraldos]], sigue tratando al Único como la más alta deidad. También respeta la figura de la [[Vigilante Nocturna\|Vigilante Nocturna]] como un aspecto del Único y cree que se puede contactar con él a través de los pactos con la Vigilante Nocturna.
 
-### Legacy
->“*Evi… He had never deserved her.*”
-\-Dalinar[19]
+## Atributos y habilidades
+Evi habla con fluidez el idioma alezi, aunque tiene la costumbre de traducir literalmente sus refranes nativos al alezi, lo que a veces los lleva a perder su contexto. Es posible que sea zurda pero que se haya entrenado para usar su mano derecha desde su matrimonio con [[Dalinar Kholin\|Dalinar Kholin]]. Tiene cierta habilidad artística, siendo la creadora de los bocetos de la [[Armadura esquirlada\|armadura esquirlada]] de [[Adolin\|Adolin]] para el registro real.
+Dicha armadura esquirlada era originalmente suya; siendo esta una de las razones por las que Dalinar se casa con ella. La reina de [[Iri\|Iri]] afirma que le pertenece a ella, aunque su reclamación no parece muy fuerte dado que ella y Evi no son parientes.
+
+## Historia
+  Evi con <<Adolin\|Adolin>> y <<Renarin\|Renarin>> de pequeños
+### Juventud y matrimonio
+Evi nació en [[Rira (pa%C3%ADs)\|Rira]] alrededor del año 1124. Creció allí con su hermano [[Toh\|Toh]]. En algún momento, seguramente al nacer, le otorgaron un conjunto de [[Armadura esquirlada\|armadura esquirlada]], aunque nunca la usaría ella misma.
+Cuando tenía aproximadamente diecinueve años, Evi y Toh huyeron de Rira a Alezkar y buscaron una alianza con los alezi, ofreciendo un conjunto de armadura esquirlada a cambio de la protección de su propia gente. Fue [[Torol Sadeas\|Torol Sadeas]] quien sugirió que Dalinar se casara con Evi; el cual aceptó sabiendo que [[Navani\|Navani]] estaba fuera de su alcance. Los dos se comprometieron poco después, pero solo se casaron formalmente tras tres años, ya que la cultura de Evi requería un noviazgo prolongado. Sin embargo, ella lo acompañó a sus campañas militares durante su compromiso matrimonial. Incluso entonces, a menudo le suplicaba a Dalinar que fuera más pacífico.
+
+### Hijos
+Por el año 1150, Evi y Dalinar no estaban en una guerra sino en su casa en las tierras de los Kholin. En ese año dio a luz a su primer hijo, [[Adolin\|Adolin]]. Poco después, Dalinar partiría hacia las guerras fronterizas en [[Herdaz\|Herdaz]] y [[Jah Keved\|Jah Keved]], dejando a Evi criando al niño por su cuenta durante los siguientes cinco años. Dalinar les visitaría bastantes veces; tras una de las cuales Evi tuvo otro hijo. Dado que Dalinar no respondía a sus cartas pidiendo un nombre, acabó por llamar al niño [[Renarin\|Renarin]], componiendo su nombre en un intento de imitar los patrones alezi. Su intención era que significase "Ra, nacido de Nar" (como en Dalinar), aunque salió como "uno que nació de sí mismo". Evi le contó a Renarin el [[Mito de Parasaphi y Nadris\|mito de Parasaphi y Nadris]] cuando era pequeño.
+
+### Guerra y muerte
+>“*Aquí a nadie le importa de verdad la religión. Sí, desde luego se aseguran de señalar lo superior que es su fe a la mía. Pero ¿a quién le importan realmente los Heraldos, aparte de para maldecir con sus nombres? Lleváis fervorosos a la batalla solo para que moldeen piedra en grano. Así, ni siquiera tenéis que parar de mataros el tiempo suficiente para buscar comida.*”
+\-Evi mostrando su frustración con los alezi.[9]
 
 
- by  botanicaxu 
-Evi's body was recovered from the ruins to be given a proper burial. Dalinar created a story to mitigate everyone's conjectures, claiming that she was kidnapped by Tanalan's men and that the Rift was burned in retribution for this. The story would later change, with [[Torol Sadeas\|Torol Sadeas]], who was fighting alongside Dalinar at the time, taking the blame for burning the city. Both Dalinar and Sadeas were publicly censured by King [[Gavilar\|Gavilar]] for the loss of Rathalas.
-Dalinar would later begin to hear the voices of all those he had killed, with Evi being the loudest among them. This drove him to drink heavily, withdrawing from public life. Eventually, he visited the [[Nightwatcher\|Nightwatcher]], following Evi's stories of her, and asked her for forgiveness for his part in Evi's death. As the Nightwatcher was incapable of understanding his request, [[Cultivation\|Cultivation]] intervened and took away all of Dalinar's memories of his wife.
-From then on out, Dalinar remembered nothing of Evi, even her name -- whenever someone else said it, he heard only the rushing of the wind, and sometimes he had trouble remembering that he had ever been married in the first place. Those memories began to return shortly after the beginning of the [[True Desolation\|True Desolation]]. Eventually, Dalinar remembered Rathalas as well, sending him back into a brief stint of alcoholism as Evi's voice returned to haunt him. [[Odium\|Odium]] tried to use this to tempt him into becoming his champion, although Dalinar failed to give in. At that point, he heard a voice that might belong to Evi, telling him that she forgave him. This was the final push he needed to open [[Honor's Perpendicularity\|Honor's Perpendicularity]] during the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. After these events, as Dalinar had more and more time to recall his rediscovered memories of his late wife, he realized that he needed the memories and even felt that the memories were "comfortable" to him. He also wrote and eventually began releasing portions of *Oathbringer, My Glory and My Shame*, including in it an open confession of what he had done; many people were terribly shocked to learn what he had done.
-Adolin, in contrast, had warm memories of his mother. He got his "western sensibilities", including his penchant for snuggling and his greater than usual emotional intelligence, from her. He also kept a memento of her, her chain, which he considered to be his lucky charm, always making sure to keep it in his pocket for important duels. When he discovered the truth behind the burning of Rathalas, Adolin tried to rationalize his father's actions by attributing them to the influence of the [[Thrill\|Thrill]] and to Dalinar being a different man in general at that time. However, he nursed a deep-seated fury towards his father on his mother's behalf despite these attempts.
+ 
+Cuando Adolin tenía 5 años, Evi decidió unirse a Dalinar en sus campañas. Esto fue motivado por varios factores, de los cuales los principales fueron el hecho de que todas las demás esposas alezi se unieron a sus maridos en la campaña militar y que Dalinar había pasado muy poco tiempo con sus hijos. Aunque él intenta convencerla de que el campo de batalla no es su sitio, Evi insiste en quedarse. Desde ese momento, ella pasaría la mitad del año con Dalinar (y más adelante con Adolin) en sus campamentos de guerra y la otra mitad en [[Kholinar\|Kholinar]] con Renarin, que era demasiado enfermizo para llevarlo por los caminos. Su acento de Rira comenzó a diluirse en esos momentos, aunque a veces volvía a su lengua materna.
+Aunque aparentemente parecía que ella y Dalinar eran una pareja amorosa, en 1163 los dos estaban más en desacuerdo que nunca. Evi quería que la matanza se acabara y que la familia regresara a Alezkar y descansara; mientras que Dalinar deseaba seguir guerreando. Eso acaba con una gran discusión entre ellos tras la cual Evi rompe a llorar. En un intento de consolarla, Dalinar le promete que tras sofocar la nueva rebelión en [[Rathalas\|Rathalas]], regresarían a Kholinar durante un año por lo menos. Además, para respetar sus deseos de ser más pacífico, inicialmente intentó negociar con [[Tanalan\|Tanalan]].
+Desgraciadamente, esto no iba a poder ser. Tanalan traicionó a Dalinar, intentando matarle tras enviarlo a investigar los rumores de que un [[Alto pr%C3%ADncipe\|alto príncipe]] había traicionado a [[Gavilar\|Gavilar]]. Cuando Dalinar regresó después de salir de un profundo montón de escombros, Evi ya estaba comenzando a llorarle y se angustió aún más cuando él comenzó su plan de venganza, lo que le llevó a ordenar a sus hombres que la escoltaran fuera de la tienda de mando a un lugar seguro. Sin que él lo supiera, ella se escapó y fue a la ciudad para suplicarle la paz a Tanalan. El joven alto príncipe la encerró en su antiguo refugio, ahora convertido en la prisión de la ciudad. Cuando Dalinar prendió fuego a la Grieta, Evi murió entre las llamas y Dalinar se enteró demasiado tarde para salvarla.
 
-## Trivia
-In *The Way of Kings Prime*, Dalenar (proto-[[Dalinar\|Dalinar]]) likewise has a dead wife, though she is called Kalkanah rather than Evi. Very little is known about her, only that she would be furious if Dalenar were to dirty their house, and Dalenar did not forget her, nor did her death crush him as badly as Evi's crushed Dalinar.
-If she had joined the [[Knights Radiant\|Knights Radiant]], she would most likely be an [[Order of Edgedancers\|Edgedancer]] or a [[Order of Truthwatchers\|Truthwatcher]].
+### Legado
+>“*Evi…Nunca la había merecido.*”
+\-Dalinar.[19]
 
 
-https://coppermind.net/wiki/Evi_Kholin
+ 
+El cuerpo de Evi se recuperó de las ruinas para darle un entierro apropiado. Dalinar inventó una historia para mitigar las conjeturas de la gente, alegando que ella había sido secuestrada por los hombres de Tanalan y que La Grieta fue incendiada en represalia. La historia cambiaría después, con [[Torol Sadeas\|Torol Sadeas]], que luchaba a su lado por aquel entonces, tomando la culpa de haber quemado la ciudad. Ambos fueron censurados públicamente por el rey [[Gavilar\|Gavilar]] por la pérdida de Rathalas.
+Dalinar comenzaría después a oir las voces de todos aquellos a los que había matado, siendo la de Evi la más fuerte. Esto le llevó a beber mucho, alejándose de la vida pública. Al final, visitó a la [[Vigilante Nocturna\|Vigilante Nocturna]], inspirado por las historias de Evi sobre ella, y le pidió su perdón por su participación en la muerte de Evi. Dado que la Vigilante Nocturna no era capaz de entender su petición, [[Cultivaci%C3%B3n\|Cultivación]] intervino y le quitó todos los recuerdas de su esposa.
+Desde ese momento, Dalinar dejó de recordar cualquier cosa sobre Evi, incluido su nombre. Siempre que alguien la mencionaba, él sólo oía el rumor del viento y, a veces, le costaba recordar que alguna vez se había casado. Esos recuerdos comenzaron a volver poco después del comienzo de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Con el tiempo, Dalinar recordó Rathalas también, enviándolo de nuevo a un breve período de alcoholismo cuando la voz de Evi volvió a atormentarlo. [[Odium\|Odium]] trató de usar esto para tentarlo a convertirse en su campeón, aunque Dalinar no se rindió. Justo en ese momento, él oyó una voz (que podría pertenecer a Evi) diciéndole que le perdonaba. Esto fue el último empujón que necesitó para abrir una [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] durante la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. Después de estos eventos, a medida que Dalinar tenía cada vez más tiempo para los recuerdos redescubiertos de su difunta esposa, se dio cuenta de que los necesitaba e incluso sintió que los recuerdos eran "cómodos" para él. También escribió y empezó a publicar fragmentos de [[Juramentada (in-world)\| Juramentada, mi gloria y mi vergüenza]], incluyendo una confesión pública de lo que había hecho. Mucha gente se sorprendió terriblemente al enterarse de lo que había hecho.
+Adolin, por el contrario, tiene recuerdos dulces de su madre. Obtuvo su "sensibilidad occidental", incluida su inclinación por acurrucarse y su inteligencia emocional más grande de lo habitual, de ella. También guardaba un recuerdo de ella, su cadena, la cual consideraba como su cadena de la suerte, siempre asegurándose de tenerla en el bolsillo para los duelos importantes. Tras enterarse de la verdad tras el incendio de Rathalas, Adolin intentó racionalizar las acciones de su padre atribuyéndolas a la influencia de la [[/wiki/Nergaoul#La emoci.C3.B3n]] y a que Dalinar era un hombre completamente diferente en ese momento. Sin embargo, alimentó una furia profundamente arraigada hacia su padre en nombre de su madre a pesar de estos intentos.
+
+## Curiosidades
+En *[[El camino de los reyes Prime\|El camino de los reyes Prime]]*, Dalenar (proto-[[Dalinar\|Dalinar]] también tiene una esposa muerta, aunque se la llama Kalkanah en lugar de Evi. Se sabe muy poco sobre ella, solo que se pondría furiosa si Dalenar ensuciase la casa, y Dalenar no la olvidó, ni su muerte lo aplastó tanto como la de Evi aplastó a Dalinar.
+Si se hubiera unido a los [[Caballeros Radiantes\|Caballeros Radiantes]], lo más probable es que fuera una [[Orden de los Danzantes del Filo\|Danzante del Filo]] o una [[Orden de los Vigilantes de la Verdad\|Vigilante de la Verdad]].
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Evi_Kholin

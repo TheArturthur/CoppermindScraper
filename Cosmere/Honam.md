@@ -1,26 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Honam**|
 |-|-|
-|**Died**||
-|**Abilities**|[[Nightmare\|Nightmare]]|
-|**Profession**|Scholar|
-|**Groups**|[[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]]|
-|**Nationality**|[[Torish\|Torish]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Yumi and the Nightmare Painter*|
+|**Fallecido**||
+|**Capacidades**|[[Pesadilla\|Pesadilla]]|
+|**Oficio**|Erudito|
+|**Grupo**|[[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]]|
+|**Nacionalidad**|[[De Torio\|de Torio]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Honam** is one of the [[Torish\|Torish]] scholars from the [[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]] who is involved in the creation of the [[Father machine\|father machine]] and who is later sent by the machine to prevent [[Yumi\|Yumi]] from escaping her prison.
+**Honam** es uno de los académicos de [[Torio\|Torio]] del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] que participa en la creación de la [[M%C3%A1quina padre\|máquina padre]] y que más tarde es enviado por esta para evitar que [[Yumi\|Yumi]] escape de su prisión.
 
-## Appearance and Personality
-Like other Torish scholars, he has a bearded chin and mustache. He wears white clothing with a black, winged .
-Honam is relatively laid back and listless compared to his colleagues.
+## Apariencia y personalidad
+Al igual que otros académicos toreses, lleva barbilla y bigote. Viste ropas blancas con un  negro alado.
+Honam es relativamente tranquilo y lánguido en comparación con sus colegas.
 
-## History
-Prior to his death, Honam worked with other scholars to develop and activate the father machine. His soul was kept in reserve by the machine upon its activation, for the purpose of its self-defense, though he was still turned into a [[Nightmare\|nightmare]]. When Yumi's mind became resistant to the machine's tampering, Honam was one of the four scholars sent to [[Gongsha Town\|Gongsha Town]] to investigate, under the leadership of [[Gyundok\|Gyundok]].
-Their prototype machine did not work upon arrival, which [[Sunjun\|Sunjun]] determined to be an issue with their power source. When Gyundok complained that they never had this problem before, Honam--lounging in pillows and eating a piece of fruit--argued that they have. Honam suggested waiting for Yumi to summon a [[Hijo\|spirit]], but Sunjun responded that she was unlikely to do this anytime soon. Gyundok ordered Honam to prime the machine with his own essence, but Honam refused and ultimately the [[Fourth Torish scholar\|fourth Torish scholar]] offered to do so.
-When Nikaro and Yumi approached the scholars to destroy the prototype machine, Honam came out of their tent and handed the other scholars special goggles that enabled them to see Yumi.
-Honam remained with the others after Yumi and [[Nikaro\|Nikaro]] were separated, working to resolve the issues in Gongsha Town and contain Yumi. When Yumi escaped, he chased her with the other scholars to [[Torio City\|Torio City]], where Yumi's dominating will forced him to stand down.
+## Historia
+Antes de su muerte, Honam trabajó con otros académicos para desarrollar y activar la máquina padre. Su alma fue mantenida en reserva por la máquina tras su activación, a efectos de su autodefensa, aunque seguía convertido en una [[Pesadilla\|pesadilla]]. Cuando la mente de Yumi se volvió resistente a la manipulación de la máquina, Honam fue uno de los cuatro académicos enviados al [[Pueblo de Gongsha\|pueblo de Gongsha]] para investigar, bajo el liderazgo de [[Gyundok\|Gyundok]].
+Su máquina prototipo no funcionó a su llegada, lo que [[Sunjun\|Sunjun]] determinó que era un problema con su fuente de energía. Cuando Gyundok se quejó de que nunca antes habían tenido este problema, Honam, tumbado en las almohadas y comiendo una pieza de fruta, argumentó que sí lo habían tenido. Honam sugirió esperar a que Yumi invocase a un [[Haijo\|espíritu]], pero Sunjun respondió que era poco probable que lo hiciese pronto. Gyundok ordenó a Honam que alimentase la máquina con su propia esencia, pero Honam se negó y finalmente el [[Cuarto acad%C3%A9mico tor%C3%A9s\|cuarto académico torés]] se ofreció a hacerlo.
+Cuando Nikaro y Yumi se acercaron a los académicos para destruir el prototipo de máquina, Honam salió de su tienda y entregó a los demás académicos unas gafas especiales que les permitían ver a Yumi.
+Honam permaneció con los demás después de que Yumi y [[Nikaro\|Nikaro]] se separasen, trabajando para resolver los problemas del pueblo de Gongsha y contener a Yumi. Cuando Yumi escapó, la persiguió con los demás académicos hasta [[Ciudad Torio\|Ciudad Torio]], donde la voluntad dominante de Yumi lo obligó a retirarse.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Honam
+https://es.coppermind.net/wiki/Honam

@@ -1,46 +1,58 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Izumakamo**|
 |-|-|
-|by  Botanicaxu |
-|**Aliases**|Izzy|
-|**Profession**|Painter|
-|**Groups**|[[Nightmare Division\|Nightmare Division]]|
-|**Residence**|[[Kilahito\|Kilahito]]|
-|**Nationality**|[[Nagadan\|Nagadan]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Yumi and the Nightmare Painter*|
+||
+|**Apodos**|Izzy|
+|**Oficio**|Pintor|
+|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎|
+|**Residencia**|[[Kilahito\|Kilahito]]|
+|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Izumakamo**, better known to her friends as **Izzy**, is an eccentric [[Nightmare\|nightmare]] [[Painter\|painter]] in [[Kilahito\|Kilahito]] on [[Komashi\|Komashi]]. She has a unique fascination in [[Hion viewer\|hion viewer]] programs, having developed the idea of [[Dramascope\|dramascopes]], and is interested in becoming a viewer critic.
+**Izumakamo**, más conocida por sus amigos como **Izzy**, es una excéntrica [[Pintor\|pintora]] de [[Pesadilla\|pesadillas]] de [[Kilahito\|Kilahito]], en [[Komashi\|Komashi]]. Le fascinan los programas de [[Visor de hion\|visor de hion]], ya que ha desarrollado la idea de los [[Seri%C3%B3scopo\|serióscopos]] y está interesada en convertirse en crítica de los mismos.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
 
-3.1 Nikaro
-
-
-4 Notes
+3. [[#Nikaro]] 
 
 
-## Appearance and Personality
-Approximately twenty years old, Izzy is a woman with long limbs and bleached yellow hair. She is seen wearing trousers and a sweatshirt, and occasionally wears white in contrast with [[Masaka\|Masaka's]] black.
-Izzy has a whimsical personality that often leaves her friends surprised and vexed, unsure of how serious she is being. She sometimes changes the topic of conversation abruptly and forcefully. Izzy is bisexual, and claims to be comfortable with the idea of dating an alien. She pays very close attention to current events.
+4 Notas. [[#Notas]] 
 
-## History
-At some point in time prior to her professional career, Izzy developed the idea of dramascopes--a form of divinatory practice which involves hion viewer programs alongside more conventional methods. She defended the practice adamantly despite her friends' doubts, hoping that it would one day make her rich and famous.
-In upper school, studying to become a nightmare painter, Izzy became friends with [[Akane\|Akane]], [[Tojin\|Tojin]], Masaka, and [[Nikaro\|Nikaro]]. She, with the rest of these friends, came to believe that Nikaro would join the [[Dreamwatch\|Dreamwatch]] and that she would be one of his companions. Izzy became deeply distrustful of Nikaro after they discovered he was lying. After graduating, she became a painter and primarily worked as partners with Masaka.
-Akane introduced [[Yumi\|Yumi]] to Izzy at the [[Noodle Pupil\|Noodle Pupil]] during the yoki-hijo's first days in Kilahito, and after shaking her hand Izzy shared Yumi's dramascope.
-Later, when Akane reported Yumi had been spending too much time studying, Izzy joined her friends in encouraging Yumi to take a break and join them for dinner. At dinner, she noticed Yumi staring at a shirtless Tojin and teased him to put his clothes back on for Yumi's sake. When the topic of Painter came up, Izzy had little interest in talking about him and changed the subject to their spaceship, which was soon scheduled to launch.
-Izzy was quick to take off from work when Yumi was caught hunting a stable nightmare, and more than anyone else was intent on the yoki-hijo understanding Nikaro's history of lying. When Yumi supposed he might be telling the truth, Izzy was the first to point out that he can't have seen a stable nightmare because it would have attacked the city already.
-Before Yumi returned to [[Torio\|Torio]] for a final time, Izzy informed her about the surprise ending of *Seasons of Regret*. The plot twist in this episode had a profound effect on Izzy, and inspired within her a desire to become a viewer critic and to write a book about the benefits of viewer programs for mental health.
-When Nikaro eventually returned and asked his friends for help in the coming attack, Izzy was incredulous when Tojin decided to assist Nikaro. At one point during the [[Battle of Kilahito\|battle of Kilahito]] Izzy froze up during an attack, and Nikaro pushed her aside and saved her with a painting of a bird.
 
-## Relationships
+## Apariencia y personalidad
+De unos veinte años, Izzy es una mujer de extremidades largas y pelo amarillo decolorado. Se la ve con pantalones y una sudadera, y ocasionalmente viste de blanco en contraste con el negro de [[Masaka\|Masaka]].
+Izzy tiene una personalidad extravagante que a menudo deja a sus amigos sorprendidos y desconcertados, inseguros de hasta qué punto está hablando en serio. A veces cambia el tema de conversación de forma brusca y enérgica. Izzy es bisexual y afirma sentirse cómoda con la idea de salir con un alienígena. Presta mucha atención a la actualidad.
+
+## Historia
+En algún momento anterior a su carrera profesional, Izzy desarrolló la idea de los serióscopos, una forma de práctica adivinatoria en la que se emplean programas de visor de hion junto a métodos más convencionales. A pesar de las dudas de sus amigos, defendía a ultranza esta práctica, con la esperanza de que algún día la haría rica y famosa.
+En la escuela superior, estudiando para convertirse en pintora de pesadillas, Izzy se hizo amiga de [[Akane\|Akane]], [[Tojin\|Tojin]], Masaka y [[Nikaro\|Nikaro]]. Junto con el resto de estos amigos, llegó a creer que Nikaro se uniría a la [[Guardia del Sue%C3%B1o\|Guardia del Sueño]] y que ella sería una de sus compañeras. Izzy desconfió profundamente de Nikaro después de descubrir que mentía. Tras graduarse, se hizo pintora y trabajó principalmente como compañera de Masaka.
+Akane presentó a [[Yumi\|Yumi]] a Izzy en [[El Pupila del Fideo\|El Pupila del Fideo]] durante los primeros días de la yoki-haijo en Kilahito y, tras estrecharle la mano, Izzy comentó el serióscopo de Yumi.
+Más tarde, cuando Akane comentó que Yumi había pasado demasiado tiempo estudiando, Izzy se unió a sus amigos para animar a Yumi a tomarse un descanso y unirse a ellos para cenar. Durante la cena, se dio cuenta de que Yumi miraba fijamente a Tojin sin camiseta y se burló de él para que volviese a vestirse por el bien de Yumi. Cuando surgió el tema de Pintor, Izzy tenía poco interés en hablar de él y cambió el tema a la nave espacial, que iba a despegar pronto.
+Izzy se apresuró a ausentarse del trabajo cuando pillaron a Yumi cazando una pesadilla estable, y se empeñó más que nadie en que la yoki-haijo comprendiese el historial de mentiras de Nikaro. Cuando Yumi supuso que podría estar diciendo la verdad, Izzy fue la primera en señalar que no puede haber visto una pesadilla estable porque ya habría atacado la ciudad.
+Antes de que Yumi regresase a [[Torio\|Torio]] por última vez, Izzy la informó sobre el sorprendente final de *[[Estaciones de lamento\|Estaciones de lamento]]'*. El giro argumental de este episodio tuvo un profundo efecto en Izzy e inspiró en ella el deseo de convertirse en crítica de programas y escribir un libro sobre los beneficios de estos programas para la salud mental.
+Cuando finalmente Nikaro regresó y pidió ayuda a sus amigos para el ataque que se avecinaba, Izzy se mostró incrédula cuando Tojin decidió ayudar a Nikaro. En un momento dado, durante la [[Batalla de Kilahito\|batalla de Kilahito]] Izzy se congeló durante un ataque y Nikaro la apartó y la salvó con una pintura de un pájaro.
+
+## Relaciones
 ### Nikaro
-Izzy is particularly critical of Nikaro for the way he lied to them about joining the Dreamwatch. Prior to the [[Battle of Kilahito\|battle of Kilahito]], Izzy was often very outspoken with her negative opinions. While others in the group tend to discuss Nikaro with solemnity, Izzy frequently offers derisive laughter and dismisses everything he says as untrustworthy. When Yumi is later caught hunting the stable nightmare, her friends try to handle the topic delicately while Izzy is adamant that Yumi understand her brother has a history of lying.
+Izzy critica especialmente a Nikaro por la forma en que les mintió sobre su incorporación a la Guardia del Sueño. Antes de la [[Batalla de Kilahito\|batalla de Kilahito]], Izzy solía ser muy franca con sus opiniones negativas. Mientras que otros miembros del grupo suelen hablar de Nikaro con solemnidad, Izzy suele reírse burlonamente y tachar de poco fiable todo lo que dice. Cuando más tarde pillan a Yumi cazando la pesadilla estable, sus amigos intentan tratar el tema con delicadeza mientras Izzy se empeña en que Yumi entienda que su hermano tiene un historial de mentiras.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Izumakamo
+https://es.coppermind.net/wiki/Izumakamo

@@ -1,67 +1,88 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Liss**|
 |-|-|
-|**Abilities**|[[Shardblade\|Shardbearer]]|
-|**Aliases**|Weeper|
-|**Profession**|Assassin|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Capacidades**|[[Hoja esquirlada\|Portadora de esquirlada]]|
+|**Apodos**|Doliente|
+|**Oficio**|Asesina|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Liss**, who goes by the name of the **Weeper**, is one of the most skilled assassins on [[Roshar\|Roshar]]. As a female assassin operating in the area of [[Kholinar\|Kholinar]] in the dominantly [[Vorin\|Vorin]] region of eastern Roshar, her gender is a closely guarded secret. At one point during her career, she was hired by [[Jasnah Kholin\|Jasnah Kholin]] to spy on Jasnah's sister-in-law, [[Aesudan Kholin\|Aesudan]].
+**Liss**, que se hace llamar **Doliente**, es una de las asesinas más hábiles de [[Roshar\|Roshar]]. Como asesina que opera en la zona de [[Kholinar\|Kholinar]], en la región de predominio [[Vorin\|vorin]] del este de Roshar, su género es un secreto muy bien guardado. En un momento de su carrera, fue contratada por [[Jasnah Kholin\|Jasnah Kholin]] para espiar a su cuñada, [[Aesudan Kholin\|Aesudan]].
 
-## Contents
+## Sumario
 
-1 Appearance & Personality
-2 Attributes & Abilities
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 
-2.1 Shardwielding
-2.2 Skills in Espionage
-
-
-3 History
-
-3.1 Early Life
-3.2 In Kholinar
-3.3 Contract on Aesudan
+2. [[#Empu.C3.B1ar una esquirlada]] 
+2. [[#Habilidades de espionaje]] 
 
 
-4 Trivia
-5 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#Vida temprana]] 
+3. [[#En Kholinar]] 
+3. [[#Contrato sobre Aesudan]] 
 
 
-## Appearance & Personality
->“*Spying on the wife of the heir to the throne? It will be more expensive this way. You sure you don’t simply want her dead?*”
-\-Liss to Jasnah[1]
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-Liss appears to be of Vorin heritage, although which region she is from is uncertain. Jasnah suspects that it could be [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], or [[Bavland\|Bavland]]. She can expertly shift her accent to make it difficult to identify, thus disguising her true accent. She has long dark hair, which she sometimes wears loose, and a plump, attractive figure.
-Liss is a very clever woman, able to disguise both her gender and the fact that she is a Shardbearer from the world. She has an informal demeanor, speaking to Jasnah casually, as if Jasnah is her equal rather than her superior. Liss also appreciates being treated with respect. Many of her employers show disdain for Liss, acting as if they are doing something disgusting by associating with her. Jasnah does not do this, which makes Liss like her. Liss is also daring and cold-blooded; as a professional assassin she has no compunction about killing anyone, regardless of their importance. She is practical as well, seeing the financial benefits of betraying a contract on the royal family to Jasnah to gain a repeat customer in the process.
-
-## Attributes & Abilities
-### Shardwielding
-Liss's most crucial resource is her Shardblade. The type and origin of her Blade are unknown. Due to the masculine and feminine arts set out in [[Arts and Majesty\|Arts and Majesty]], Vorin women do not typically participate in combat, particularly not with a Shardblade. As such, Liss is presumably able to get close to potential targets without raising their suspicions that she is a Shardbearer, and dispatch them quickly. It is unknown if she has any other combat training with a Shardblade or if it is merely used for assassinations. In order to disguise her use of a Blade in her killings, Liss gouges out the eyes of her targets after she kills them, so no one can tell that their eyes are burned out. After the coming of the [[True Desolation\|True Desolation]] and the reformation of the [[Knights Radiant\|Knights Radiant]], female Shardbearers have become more common, but it is unclear if this has affected Liss's methods; Liss herself is not known to have any direct association with the Radiants.
-
-### Skills in Espionage
-As one of the most skilled assassins in Alethkar, Liss has a variety of talents that help her excel at her profession. She has the ability to disguise herself in a many different ways in order to get close to her target, such as acting as a maid. She is also skilled at imitating various accents, including Alethi, Veden, and Bav. Another talent that Liss makes use of is her ability to make fakes of documents and other credentials so that she can gain access to places she normally would not be permitted to enter. She keeps at least one servant in her employ to serve as a guard or perform other tasks at her direction. Liss is also an expert at extended observation, able to spy on a target for weeks on end without blowing her cover. These skills along with the Shardblade allow Liss to charge a very high price for her services.
-
-## History
-### Early Life
-Nothing is known about Liss's early life or how long she has been active as an assassin. At some point in her past, Liss obtained a Shardblade, which she makes use of in her assassinations. As she gained notoriety, people began calling her the **Weeper**, claiming that she gouged out the eyes of her targets to show that she did not care whether her targets were [[Lighteyes\|lighteyed]] or [[Darkeyes\|darkeyed]].
-
-### In Kholinar
-She and Highlady [[Jasnah Kholin\|Jasnah Kholin]] knew one another by the year 1167. Liss was among several prominent assassins operating in the area of [[Kholinar\|Kholinar]] that had a standing agreement with Jasnah. She would report any potential employers who expressed interest in assassination contracts involving the members of [[House Kholin\|House Kholin]] to Jasnah, who would match the payment in exchange for the name of the individual. It is likely that Jasnah used Liss for several different assassinations to keep her family safe.
-At some point, Liss purchased [[Szeth\|Szeth]] to be her servant. Initially she enjoyed him and believed that Szeth was was the best servant she had ever had, telling Jasnah that she wanted to show him off to her. However, Liss came to find that Szeth was almost too good of a servant and began to see him as creepy. She sold him to the slavers in Kholinar a few weeks before the assassination of King [[Gavilar Kholin\|Gavilar Kholin]]. Liss replaced Szeth with a man named [[Talak\|Talak]] who helped her with her contracts.
-
-### Contract on Aesudan
->“*“An odd night, Brightness, to be engaging in treason.*”
-\-Liss to Jasnah[1]
+## Apariencia y personalidad
+>“*¿Espiar a la esposa del heredero al trono? Eso será más caro. ¿Seguro que no la quieres muerta sin más?*”
+\-Liss a Jasnah[1]
 
 
-In late 1167 on the night of King [[Gavilar Kholin\|Gavilar Kholin's]] assassination, Liss and Talak went to a guest room in [[Kholinar Palace\|Kholinar Palace]] to meet with Jasnah. Liss had Talak guard the door and, despite Jasnah's lateness, waited to meet with her. Jasnah had planned to have Liss assassinate Highlady [[Aesudan Kholin\|Aesudan Kholin]], wife of Highlord [[Elhokar Kholin\|Elhokar Kholin]], but had become concerned that her father was growing suspicious of her. Instead, Jasnah hired the Weeper to assume the role of a lady's maid to Aesudan. Jasnah planned to arrange for one of her sister-in-law's maids to be fired in one week's time, after which Liss was to apply for the job using falsified documents and Jasnah would ensure that she was hired. Liss's job was to watch Aesudan and report on her doings to Jasnah, until such a time that Jasnah either cancelled the contract or felt it was necessary to have Aesudan killed. Liss questioned this contract, stating that it was far more expensive to hire her for an extended observation rather than an assassination, but agreed to Jasnah's terms.
-Immediately after the [[Assassination of Gavilar\|assassination of Gavilar]], Jasnah briefly became suspicious of Liss, but she quickly realized that Liss would never have mentioned owning Szeth if she was behind Gavilar's death.
-It is unclear if Liss remained in [[Kholinar\|Kholinar]] after [[Elhokar\|Elhokar]] became king. She was presumably never ordered to kill Aesudan, as the queen was still alive several years later.
+Liss parece ser de ascendencia vorin, aunque no se sabe a ciencia cierta de qué región procede. Jasnah sospecha que podría ser [[Alezkar\|Alezkar]], [[Jah Keved\|Jah Keved]] o [[Bavlandia\|Bavlandia]]. Puede cambiar hábilmente su acento para dificultar su identificación, disimulando así su verdadero acento. Tiene el pelo largo y oscuro, que a veces lleva suelto, y una figura rolliza y atractiva.
+Liss es una mujer muy inteligente, capaz de disimular tanto su género como el hecho de que es una portadora de esquirlada. Tiene un comportamiento informal y habla con Jasnah de la misma manera, como si fuese su igual y no su superior. Liss también aprecia que se la trate con respeto. Muchos de sus empleadores muestran desdén por Liss, actuando como si estuviesen haciendo algo repugnante al asociarse con ella. Jasnah no lo hace, lo que hace que Liss le caiga bien. Liss también es atrevida y tiene sangre fría; como asesina profesional, no tiene reparos en matar a cualquiera, independientemente de su importancia. También es práctica, ya que ve los beneficios económicos de traicionar un contrato de la familia real ante Jasnah para ganar un cliente habitual en el proceso.
 
-## Trivia
-Liss's only "on-screen" appearance to date was in the prologue of *Words of Radiance*; her mysterious origins and possession of a Shardblade have inspired many fan theories about her true identity. Brandon has consistently responded to questions about Liss with a [[RAFO\|RAFO]].
+## Atributos y habilidades
+### Empuñar una esquirlada
+El recurso más importante de Liss es su hoja esquirlada. Se desconoce el tipo y el origen de su hoja. Debido a las artes masculinas y femeninas establecidas en [[Artes y Majestuosidad\|Artes y Majestuosidad]], las mujeres vorin no suelen participar en combates, y menos con una hoja esquirlada. Como tal, es probablemente capaz de acercarse a objetivos potenciales sin levantar sospechas de que es una portadora de esquirlada, y despacharlos rápidamente. Se desconoce si tiene algún otro entrenamiento de combate con una hoja esquirlada o si sólo la utiliza para asesinatos. Para disimular el uso de la hoja en sus asesinatos, arranca los ojos de sus objetivos después de matarlos, de modo que nadie pueda decir que los tienen quemados. Tras la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] y la reforma de los [[Caballeros Radiantes\|Caballeros Radiantes]], las portadoras de esquirlada femeninas se han vuelto más comunes, pero no está claro si esto ha afectado a los métodos de Liss; se desconoce que tenga ninguna asociación directa con los Radiantes.
+
+### Habilidades de espionaje
+Como una de las asesinas más hábiles de Alezkar, Liss posee una serie de talentos que la ayudan a destacar en su profesión. Tiene la habilidad de disfrazarse de muchas formas diferentes para acercarse a su objetivo, como por ejemplo actuando como una criada. También sabe imitar varios acentos, como el alezi, el veden y el bav. Otro talento del que hace uso Liss es su habilidad para falsificar documentos y otras credenciales, de modo que puede acceder a lugares en los que normalmente no se le permitiría entrar. Mantiene al menos un sirviente a su servicio para que haga de guardia o realice otras tareas bajo su dirección. Liss también es experta en observación prolongada, capaz de espiar a un objetivo durante semanas sin descubrir su tapadera. Estas habilidades, junto con la hoja esquirlada, permiten a Liss cobrar un precio muy alto por sus servicios.
+
+## Historia
+### Vida temprana
+No se sabe nada de los primeros años de Liss ni cuánto tiempo lleva en activo como asesina. En algún momento de su pasado, Liss obtuvo una hoja esquirlada, que utiliza en sus asesinatos. A medida que ganaba notoriedad, la gente empezó a llamarla *Doliente*, afirmando que sacaba los ojos de sus objetivos para demostrar que no le importaba si sus objetivos eran [[Ojos claros\|ojos claros]] u [[Ojos oscuros\|ojos oscuros]].
+
+### En Kholinar
+Ella y la brillante señora [[Jasnah Kholin\|Jasnah Kholin]] se conocían desde el año 1167. Liss era una de las asesinas destacadas que operaban en la zona de [[Kholinar\|Kholinar]] y que tenían un acuerdo permanente con Jasnah. Informaba a Jasnah de cualquier empleador potencial que expresase interés en contratos de asesinato que involucrasen a los miembros de la [[Casa Kholin\|casa Kholin]], quien igualaba el pago a cambio del nombre del individuo. Es probable que Jasnah utilizase a Liss para diferentes asesinatos con el fin de mantener a salvo a su familia.
+En algún momento, Liss compró a [[Szeth\|Szeth]] para que fuese su sirviente. Al principio disfrutaba con él y creía que Szeth era el mejor sirviente que había tenido nunca, diciéndole a Jasnah que quería presumir de él ante ella. Sin embargo, Liss llegó a la conclusión de que Szeth era casi demasiado buen sirviente y empezó a considerarlo repulsivo. Lo vendió a los esclavistas de Kholinar unas semanas antes del asesinato del rey [[Gavilar Kholin\|Gavilar Kholin]]. Liss sustituyó a Szeth por un hombre llamado [[Talak\|Talak]] que la ayudaba con sus contratos.
+
+### Contrato sobre Aesudan
+>“*Una noche extraña para dedicarla a la traición, brillante.*”
+\-Liss a Jasnah[1]
 
 
-https://coppermind.net/wiki/Weeper
+A finales de 1167 la noche del asesinato del rey [[Gavilar Kholin\|Gavilar Kholin]], Liss y Talak fueron a una habitación de invitados del [[Palacio de Kholinar\|palacio de Kholinar]] para reunirse con Jasnah. Liss hizo que Talak vigilase la puerta y, a pesar de la tardanza de Jasnah, esperó para reunirse con ella. Jasnah había planeado que Liss asesinase a laalta señora [[Aesudan Kholin\|Aesudan Kholin]], esposa del alto señor [[Elhokar Kholin\|Elhokar Kholin]], pero le preocupaba que su padre empezase a sospechar de ella. En su lugar, Jasnah contrató a Doliente para que asumiese el papel de criada de Aesudan. Jasnah planeaba organizar el despido de una de las criadas de su cuñada en el plazo de una semana, tras lo cual Liss debía solicitar el trabajo utilizando documentos falsificados y Jasnah se aseguraría de que fuese contratada. El trabajo de Liss consistía en vigilar a Aesudan e informar de sus acciones a Jasnah, hasta el momento en que esta cancelase el contrato o considerase necesario matar a Aesudan. Liss cuestionó este contrato, afirmando que era mucho más caro contratarla para una observación prolongada que para un asesinato, pero aceptó las condiciones de Jasnah.
+Inmediatamente después del [[Asesinato de Gavilar\|asesinato de Gavilar]], Jasnah sospechó brevemente de Liss, pero rápidamente se dio cuenta de que Liss nunca habría mencionado poseer a Szeth si ella hubiese estado detrás de la muerte de Gavilar.
+No está claro si Liss permaneció en [[Kholinar\|Kholinar]] después de que [[Elhokar\|Elhokar]] se convirtiese en rey. Es de suponer que nunca se le ordenó matar a Aesudan, ya que la reina seguía viva varios años después.
+
+## Curiosidades
+La única aparición "en pantalla" de Liss hasta la fecha fue en el prólogo de *[[Palabras Radiantes\|Palabras Radiantes]]*; sus misteriosos orígenes y la posesión de una hoja esquirlada han inspirado muchas teorías de los fans sobre su verdadera identidad. Brandon ha respondido sistemáticamente a las preguntas sobre Liss con un [[RAFO\|RAFO]].
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 03:30, 14 March 2017 (MST)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+
+
+
+https://es.coppermind.net/wiki/Liss

@@ -1,10 +1,20 @@
+> [!warning] ¡Esta página o sección contiene spoilers de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+
 |**Dansic**|
 |-|-|
-|**World of Origin**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Mundo de origen**|🐱︎|
 
-**Dansic** is a land on the [[Earth (Frugal Wizard)\|alternate medieval Earth]]. It is in the same region as [[Hordaland\|Hordaland]], [[Norweg\|Norweg]], and the [[Geats\|Geats]]. it was formerly independent, but was conquered by the [[Hordamen\|Hordamen]].
+**Dansic** is a land on the . It is in the same region as , [[Norweg\|Norweg]], and the [[Geats\|Geats]]. it was formerly independent, but was conquered by the .
 Presumably, it is this alternate dimension's version of Denmark.
 
+## Notes
+
+Este artículo es muy corto. Por favor, ayuda a The Coppermind .
+|**[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]**|
+|-|-|
+|**Personajes**|[[Runian\|Runian]] · [[Sefawynn\|Sefawynn]] · [[Ealstan\|Ealstan]] · [[Ulric Stromfin\|Ulric Stromfin]] · [[Quinn Jericho\|Quinn Jericho]] · [[Ryan Chu\|Ryan Chu]] · [[Logna\|Logna]]|
+|**Lugares**|[[Stenford\|Stenford]] · [[Wellbury\|Wellbury]] · [[Maelport\|Maelport]]|
 
 
-https://coppermind.net/wiki/Dansic
+
+https://es.coppermind.net/wiki/Dansic

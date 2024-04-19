@@ -1,126 +1,132 @@
+
+
 |**Kandra**|
 |-|-|
-|by  Ben McSweeney |
-|**Type**|Hemalurgic construct|
-|**Sapient**|Yes|
-|**World of Origin**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|[[/wiki/Hemalurgia#Criaturas hemal.C3.BArgicas]]|
+|**Racional**|Si|
+|**Mundo de origen**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *The Bands of Mourning*, *The Lost Metal*, and *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]]*, *[[El metal perdido\|El metal perdido]]*, y *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-The **kandra** are a species on [[Scadrial\|Scadrial]] first created by the [[Rashek\|Lord Ruler]] during [[Ascension of the Lord Ruler\|his Ascension]]. They have the ability to reshape their bodies and most are well-practiced at imitation, making them extremely sought-after as spies.
+Los **kandra** son una especie en [[Scadrial\|Scadrial]] creada por primera vez por el [[Rashek\|lord Legislador]] durante [[Ascensi%C3%B3n del lord Legislador\|su Ascensión]]. Tienen la capacidad de remodelar sus cuerpos y la mayoría son muy hábiles en la imitación, lo que los hace estar muy cotizados como espías.
 
-## Contents
+## Sumario
 
-1 Physiology
+1 Fisiología. [[#Fisiolog.C3.ADa]] 
 
-1.1 Appearance and Anatomy
-1.2 Creation
-1.3 Death
-
-
-2 Abilities
-
-2.1 Blessings
+1. [[#Apariecia y personalidad]] 
+1. [[#Creaci.C3.B3n]] 
+1. [[#Muerte]] 
 
 
-3 History
+2 Habilidades. [[#Habilidades]] 
 
-3.1 The Final Empire
-3.2 After the Catacendre
-
-
-4 Culture
-
-4.1 Contracts
-4.2 Allegiance
+2. [[#Bendiciones]] 
 
 
-5 Notable Kandra
-6 Trivia
-7 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#El Imperio Final]] 
+3. [[#Tras el Catacendro]] 
 
 
-## Physiology
- by  Madison Coyne 
-### Appearance and Anatomy
-Physically, the kandra resemble [[Mistwraith\|mistwraiths]] in their natural form. Unlike the mistwraiths, they are sentient, courtesy of two [[Hemalurgy\|Hemalurgic]] spikes implanted in them. While mistwraiths are simply gelatinous conglomerates of various creatures, kandra can actually absorb a body and take on all of its characteristics.
-When impersonating a specific person, a kandra will use that person's bones and reshape their body to look exactly like that person's. When in [[Kandra Homeland\|the Homeland]], most kandra use a [[True Body\|True Body]], which is a set of false bones that are crafted by a kandra artisan. Some True Body forms are quartz, and kandra show off their True Bodies by creating translucent skin that allows the stone to sparkle faintly in the light. A True Body does not have to be human-shaped, but most are. The members of the **First Generation** do not wear True Bodies, as the kandra did not originally know how to make them. Instead, they wear their own bones from before they became kandra.
-Kandra store their cognitive system throughout their entire body, and can form an organ which functions as a brain to think. It doesn't need to be inside the head, and can be placed at a safer location in the kandra's body. Kandra flesh will retain its appearance when cut free of their bodies. They give off a smell that other kandra can detect which communicates their gender. The smell that they give off is decided by the kandra in question, as a result of their control over their physiology, this smell can be masculine, feminine, neutral, a mix, or something completely different.
-Kandra cannot naturally reproduce, but if they replicated human organs, it would be possible for them to have a child that is part kandra and human.
+4 Cultura. [[#Cultura]] 
 
-### Creation
-While the First Generation were created directly by the Lord Ruler, the First Generation creates all subsequent generations of kandra through "Blessings," a pair of Hemalurgic spikes charged with a human physical or mental attribute. The Lord Ruler provides Hemalurgic metal spikes to the kandra each century, in a number requested, and the kandra use these spikes to convert mistwraiths into full kandra. One Blessing converts a mistwraith into a sentient kandra. Kandra take longer to reach maturity than a human normally would take. During the years of the Lord Ruler's reign, there are a total of eleven Generations, with a Twelfth Generation unlikely, as the Father is dead. The kandra do not know how to make new kandra spikes, though they have an inkling.
-
-### Death
->“*All this time, and he’s never come to see me. Wise, I suppose. He knows I keep a vat of acid just for him. It’s one of the only ways to be sure about them, you know. That or a good fire.*”
-\-Riina[12]
+4. [[#Contratos]] 
+4. [[#Lealtad]] 
 
 
-Kandra do not appear to die of natural causes, but they are not immortal, just incredibly long-lived. One of the kandra secrets references the unknown acid mixture. Being bathed in acid can effectively kill a kandra, so this is one way how misbehaved kandra were executed in kandra homeland during the [[Final Empire\|Final Empire]] with the other way being starvation. They can also be killed by fire.
-Because of their ability to change shape, most damage to a kandra is of no consequence; they do feel normal physical pain as a result of trauma, though [[MeLaan\|MeLaan]] has said that kandra have the ability to turn nerves off and thus experience no pain. This leads to kandra guards mostly using hammers to break bones, thus hindering movement.
-A kandra digesting another kandra can perform the killing, but it is unknown if the two kandra will fight and try to eat each other during the process. After the [[Catacendre\|Catacendre]], the kandra develop a way to take their own lives at will. Also developed by the kandra post-Catacendre is a liquid which upon injection will incapacitate kandra and make them transparent, but will not make them unconscious. Removing or destroying both of their spikes will revert them into a mistwraith.
-
-## Abilities
- by  Elisgardor  A kandra with transparent skin
-Kandra have the ability to shapeshift. However, in most cases, they only have the ability to change into and take the appearance of any creature they have digested. Because of this, in order for a kandra to appear as anyone in particular, the subject must be dead and be digested. The shapeshifting process may take anything from several hours or even days to as little as a few seconds. The digestion is necessary also because kandra cannot create hair, fur, bones, or [[Singer\|singer]] carapace, so these parts they must get from the digested victims, and be put into place one by one.
-Especially skilled kandra are able to make their own adjustments to the shape of the creature they are taking. Although mimicking an existing unique individual or creature is most common, the most skilled kandra can use just a skull or set of bones to build a working structure to gain the ability to move around freely and communicate. Being without bones will make kandra unable to move fast, speak or form any proper shape, but doesn't affect their mental ability. Kandra can create bodies without a beating heart, which helps reduce caloric intake. They can crack simple locks by inserting part of their body into the mechanism.
-Kandra are known to be unmatched actors. Before assuming the role of a certain person, a kandra will spend a significant amount of time observing the individual in order to learn their mannerisms, history, and relationships. As a result, it is almost impossible to tell a kandra apart from the actual individual they are impersonating. Wearing a body can influence how a kandra acts, such as wearing a dog's body causing them to adopt dog-like mannerisms. However, this is not caused by following the [[Spiritual Realm\|Spiritual]] ideal of the body they are wearing.
-In combat, kandra can form powerful muscles and heal most wounds immediately, utilizing their ability to shapeshift. Their True Bodies can have specializations for combat, such as [[Aluminum\|aluminum]] bones and hidden weapons. They can also turn off their nerves that cause pain.
-Some kandra build bodies for combat purposes; these bodies can be made of metal to be stronger and heavier and can have sharp bones to use as knives.
-Kandra are capable of assuming smaller shapes, but losing too much mass will cause a kandra to be unable to maintain their intelligence. They are unable to divide their consciousness between multiple brains.
-Losing one or both of their Blessings leaves holes in a kandra's memories. The longer without their Blessings, the bigger the holes will be. Removing a single spike will cause a kandra to lose their sanity. Kandra with only one spike will refuse a spike from another kandra, and this process can cause radical changes in personality, memory, and temperament. Kandra missing both spikes revert to a mistwraith, with only a trace of their former consciousness. In both cases, returning their missing spikes will restore their mind.
-It is theoretically possible for a kandra to become a [[Knight Radiant\|Knight Radiant]], if they manage to convince a [[Spren\|spren]] to [[Nahel bond\|bond]] with them. Digesting a [[Lifeless\|Lifeless]] could have weird side effects.
-
-### Blessings
-There are four different Blessings available to make a kandra. All grant mistwraiths sentience and convert them into kandra, but they also have additional benefits. The Blessing comes from the effect that the Hemalurgic spike steals. They are typically slender, and less than three inches long. The longer a Blessing is out of a kandra, the weaker it becomes.
+5 Kandra destacados. [[#Kandra destacados]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
 
-A kandra can survive with only one spike, but they lose some of their sanity while doing so. A kandra with one spike cannot be controlled by [[Ruin\|Ruin]] or [[Harmony\|Harmony]].
-There are more possible Blessings than the four already known. Kandra can get access to Allomancy through Hemalurgy or [[Lerasium\|lerasium]]. They can also get access to Feruchemy through unknown means. Despite the fact that kandra are Invested, they are still able to worldhop.
+## Fisiología
+ 
+### Apariecia y personalidad
+Físicamente, los kandra se parecen a los [[Espectro de la bruma\|espectros de la bruma]] en su forma natural. A diferencia de estos, tienen consciencia gracias a dos clavos [[Hemalurgia\|hemalúrgicos]] que llevan. Mientras que los espectros de la bruma son simplemente conglomerados gelatinosos de varias criaturas, los kandra pueden absorber un cuerpo y adoptar todas sus características.
+Cuando se hace pasar por una persona específica, un kandra utilizará los huesos de esa persona y remodelará su cuerpo para que se parezca de manera exacta. Cuando están en [[Tierra Natal kandra\|la Tierra Natal]], la mayoría de los kandra utilizan un [[Cuerpo verdadero\|cuerpo verdadero]], que es un conjunto de huesos falsos que son elaborados por un artesano kandra. Algunas formas de cuerpo verdadero están hechos de cuarzo y los kandra hacen gala de ellos creando una piel translúcida que permite que la piedra brille débilmente a la luz. Un cuerpo verdadero no tiene por qué tener forma humana, pero la mayoría la tiene.
+Los miembros de la **Primera Generación** no llevan Cuerpos Verdaderos, ya que los kandra no sabían en un principio cómo hacerlos. En su lugar, llevan sus propios huesos de antes de convertirse en kandra.
+Los kandra almacenan su sistema cognitivo en todo su cuerpo, y pueden formar un órgano que funciona como un cerebro para pensar. No es necesario que esté dentro de la cabeza, y puede colocarse en un lugar más seguro del cuerpo del kandra. La carne de los kandras conserva su aspecto cuando se separa de su cuerpo.
+Desprenden un olor que otros kandra pueden detectar y que comunica su género. El olor que desprenden lo decide el kandra en cuestión, como resultado de su control sobre su fisiología, este olor puede ser masculino, femenino, neutro, una mezcla, o algo completamente diferente.
 
-## History
- by  [[TenSoon\|TenSoon]] being judged in the [[Kandra Homeland\|Homeland]]
-### The Final Empire
-The First Generation of kandra were originally [[Rashek\|Rashek's]] fellow [[Terris\|Terris]] packmen. During his ascension, Rashek realized that a person with both [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]] would pose a serious threat to the stability of the [[Final Empire\|Final Empire]], so he spoke directly to the minds of his closest friends, making a deal with them to trade their Feruchemy for immortality. All living Feruchemists were transformed into [[Mistwraith\|mistwraiths]], but he gave Hemalurgic spikes to the packmen, transforming them into the First Generation. They were to become his spies and informants.
-Kandra were the third and last of Rashek's creations. They were created with two Hemalurgic spikes and thus are less susceptible to the influence of [[Ruin\|Ruin]] or other [[Shard\|Shards]]. The First Generation of kandra, the Lord Ruler's friends, created a legal code which was later approved by the Lord Ruler. This code is known as the [[First Contract\|First Contract]]. The Contract is the first thing a kandra learns upon gaining sentience. All future generations of kandra are created by the first by granting Blessings in the form of Hemalurgic spikes to mistwraiths.
-Right before the [[Catacendre\|Catacendre]], the majority kandra executed the [[Resolution\|Resolution]]. The First Generation ordered every kandra to remove their Blessings in an effort to prevent Ruin from influencing them and regaining his body. They are eventually able to replace their spikes, though it is unlikely that there will be any new kandra, as Hemalurgy is not widely known. Since [[Harmony\|Harmony]] has absorbed Ruin into himself, kandra are now under his direct control. Kandra that go without their spikes for long periods of time lose significant portions of their memories.
+### Creación
+Mientras que la Primera Generación fue creada directamente por el lord Legislador, ésta crea todas las generaciones posteriores de kandra a través de las «Bendiciones», un par de clavos hemalúrgicos cargados con un atributo físico o mental humano. El lord Legislador proporciona clavos hemalúrgicos de metal a los kandras cada siglo, un número determinado de ellos, y los kandra los utilizan para convertir a los espectros de la bruma en kandra completos, en kandra conscientes. Tardan más en alcanzar la madurez de lo que tardaría un humano normalmente. Durante los años del reinado del lord Legislador, hay un total de once generaciones, siendo improbable una Duodécima Generación, ya que «el Padre» está muerto. Los kandra no saben cómo hacer nuevos clavos para su especie, aunque tienen un indicio.
 
-### After the Catacendre
-Kandra still exist after the Ascension but now serve [[Harmony\|Harmony]] as his agents, using their abilities to blend in with those around them to perform tasks given by Harmony. They are known by [[Elendel\|Elendel]] society due to their mention in the [[Words of Founding\|Words of Founding]], but their mention is reportedly vague. They are often referred to as "Faceless Immortals", and reactions to them are mixed between reverence and skepticism as an urban legend.
+### Muerte
+{{quote
+All this time, and he’s never come to see me. Wise, I suppose. He knows I keep a vat of acid just for him. It’s one of the only ways to be sure about them, you know. That or a good fire.
+|[[Riina\|Riina]]
+}}
+Los kandra no parecen morir por causas naturales, pero no son inmortales, sólo increíblemente longevos. Uno de los secretos de los kandra hace referencia a la desconocida mezcla de ácidos. Ser bañado en ácido puede matar de forma efectiva a un kandra, por lo que esta es una de las formas en que los que se portaban mal eran ejecutados en la Tierra Natal kandra durante el [[Imperio Final\|Imperio Final]], siendo la otra forma la inanición. También pueden morir quemados.
+Debido a su capacidad de cambiar de forma, la mayor parte del daño que sufre un kandra no tiene consecuencias; sí sienten el dolor físico normal como resultado de un traumatismo, aunque [[MeLaan\|MeLaan]] ha dicho que los kandra tienen la capacidad de desactivar los nervios y, por tanto, no experimentan dolor. Esto hace que los guardias kandra utilicen sobre todo martillos para romper huesos, lo que dificulta el movimiento.
+Un kandra que digiere a otro kandra puede ocasionarle la muerte, pero se desconoce si los dos kandra lucharían e intentarán comerse mutuamente durante el proceso. Tras el [[Catacendro\|Catacendro]], los kandra desarrollan una forma de quitarse la vida a voluntad. Otro elemento desarrollado por los kandra después del Catacendro es un líquido que al inyectarse incapacita a los kandra y los hace transparentes, pero no los deja inconscientes. Al quitar o destruir sus dos clavos se convertirán en espectros de bruma.
 
- by  Miranda Meeks 
-Since the Catacendre, some kandra have traveled to other worlds, likely to gather information for Harmony, though most have remained on Scadrial. One female kandra not acting under Harmony's orders was likely on Roshar in early 1174.
-After Ruin nearly takes control over the kandra, the surviving kandra discover a way to end their own lives at will to spare themselves should the situation require it. Many of the Second Generation end their own lives using this method. By 342 [[Catacendre\|PC]], the kandra also know of a way to uncover members of their own kind in disguise, using a special substance injected into the body that causes a kandra to "droop" briefly enough to disable it temporarily. Unfortunately, the injection is fatal to humans.
-Kandra still seem reluctant to cause harm and kill humans, although this has become considerably more lax.
-Although the [[Kandra Homeland\|Kandra Homeland]] has long been abandoned and revered as a holy place, kandra still get together, albeit under a human guise and in human society.
-The confrontation between Harmony and [[Trell (Trellism)\|Trell]] led to Harmony deciding to start sending Kandra off-world as his agents on other planets, to help deal with the rising threat of Trell.
-On multiple planets, Kandra are the reason for talking animals in stories and folklore.
-At some point long after the events of the first confrontation between Harmony and Trell, [[Sazed\|Sazed]] is said by [[Hoid\|Hoid]] to have released the Kandra as a whole, presumably from his own control. The true meaning of this statement is currently unknown.
+## Habilidades
+  Un kandra con piel transparente
+Los kandra tienen la capacidad de cambiar de forma. Sin embargo, en la mayoría de los casos, sólo tienen la capacidad de cambiar y tomar la apariencia de cualquier criatura que hayan digerido. Por ello, para que un kandra aparezca como alguien en particular, el sujeto debe estar muerto y ser digerido. El proceso de cambio de forma puede durar desde varias horas o incluso días hasta tan sólo unos segundos. La digestión es necesaria también porque los kandra no pueden crear pelo, piel, huesos o caparazón de [[Cantor\|cantor]], por lo que estas partes deben obtenerlas de las víctimas digeridas, y ponerlas en su lugar una a una.
+Los kandra especialmente hábiles son capaces de hacer sus propios ajustes a la forma de la criatura que están adoptando. Aunque lo más común es imitar a un individuo o criatura única existente, los kandra más hábiles pueden utilizar sólo un cráneo o un conjunto de huesos para construir una estructura operativa y obtener la capacidad de moverse libremente y comunicarse. Estar sin huesos hará que los kandra sean incapaces de moverse rápidamente, hablar o adoptar cualquier forma adecuada, pero no afecta a su capacidad mental. Los kandra pueden crear cuerpos sin corazón palpitante, lo que ayuda a reducir el consumo de calorías. Pueden forzar cerraduras sencillas introduciendo parte de su cuerpo en el mecanismo.
+Los kandra también son conocidos por ser actores incomparables. Antes de asumir el papel de una determinada persona, un kandra pasará una cantidad significativa de tiempo observando al individuo para aprender sus manierismos, su historia y sus relaciones. Como resultado, es casi imposible distinguir a un kandra del individuo real al que está suplantando. Llevar un cuerpo puede influir en la forma de actuar de un kandra, por ejemplo, llevar el cuerpo de un perro puede hacer que adopte gestos caninos. Sin embargo, esto no es causado por seguir el ideal [[Reino Espiritual\|Espiritual]] del cuerpo que llevan puesto.}
+En combate, los kandra pueden formar poderosos músculos y curar la mayoría de las heridas inmediatamente, utilizando su capacidad de cambiar de forma. Sus [[Cuerpo verdadero\|cuerpos verdaderos]] pueden estar especializados para el combate, con huesos de [[Aluminio\|aluminio]] y armas ocultas. Romper los huesos puede ralentizarlos en gran medida. También pueden apagar los nervios que causan dolor.
+Algunos kandra construyen cuerpos con fines de combate; estos cuerpos pueden estar hechos de metal para ser más fuertes y pesados y pueden tener huesos afilados para usarlos como cuchillos.
+Los kandra son capaces de asumir formas más pequeñas, pero perder demasiada masa hará que sea incapaz de mantener su inteligencia. Son incapaces de dividir su conciencia entre múltiples cerebros.
+Perder una o ambas Bendiciones deja agujeros en la memoria de un kandra. Cuanto más tiempo pasen sin sus Bendiciones, mayores serán los agujeros. Si se quita un solo clavo, el kandra perderá la cordura. Los kandra con un solo clavo rechazarán un clavo de otro kandra, y este proceso puede causar cambios radicales en la personalidad, la memoria y el temperamento. Los kandra a los que les faltan ambos clavos se convierten en espectros de bruma, con sólo un rastro de su antigua consciencia. En ambos casos, si se les devuelven los clavos que les faltan, recuperarán su mente.{
+Es teóricamente posible que un kandra se convierta en un [[Caballero Radiante\|Caballero Radiante]], si logra convencer a un [[Spren\|spren]] de que se vincule con él. Digerir un [[Sinvida\|sinvida]] podría tener extraños efectos secundarios.
 
-## Culture
-Kandra have spent ten centuries enslaved to humankind, serving the Contracts in an effort to keep themselves safe. Most kandra hate humans for their situation, but, ironically, most kandra True Bodies are human-shaped, with two arms, two legs, and a face, even while they curse humankind for keeping them enslaved.
-There are other jobs for kandra to perform in the Homeland, such as the teaching and instruction of young kandra, which is considered a prestigious job among kandra.
-They refer to the Lord Ruler as the Father, because he is responsible for their creation. After his death, [[TenSoon\|TenSoon]] advocates that [[Vin\|Vin]] should be considered the Mother, because she is the one who slays the Lord Ruler. It is unknown if other kandra accept this title for her or not.
-
- by  Matthew Johnson 
-The First Generation typically only communicates with the Second Generation. All subsequent generations are then created by the Seconds, every hundred years. During the approximate thousand years of the Lord Ruler's reign, there have been eleven Generations, with a twelfth Generation unlikely, as the Father is dead. In general, all decisions about law and order are communicated to the lower generations by the Second Generation, acting as something like government officials. TenSoon suspects that the Second Generation takes advantage of being the only ones who the First Generation would speak to by making many policies on their own, then telling the younger kandra that it is the decision of the First Generation.
-
-### Contracts
-In the early days of the Final Empire, the kandra attempted to remain secret and blend into human society. However, humans feared their abilities, calling them monsters, and began using Allomancy to hunt them down, by way of the Flaw, and kill them. After a few centuries, the kandra were almost extinct. Out of desperation, the kandra agreed to become servants to humans, never leaving the Homeland unless out on a Contract.
-As a result of this history, kandra are secretive about their culture and have an intense loathing for humans, which is only made worse by the poor treatment they often receive from their masters. Despite this, they adhere to their Contracts without question, and are often used as spies by the nobility. Fulfilling Contracts is their way of "paying for their freedom" to prevent humans from seeking ways to enslave them in other ways and finding out about their weakness to Allomancy. The terms of a Contract always prohibit a kandra from killing a human, changing bodies without permission, and revealing kandra secrets, and require the kandra to return to the Homeland if they break the terms of the Contract or if their master dies before the Contract expires.
-On top of that, the fulfilling of Contracts also has another purpose. A Contract must be paid for in [[Atium\|atium]], which is then brought to the Homeland where it is stockpiled in a metal vault known as the . They do this because atium is condensed power of Ruin, and by storing it in a place where Ruin has no influence they deny him access to a part of his power.
-All Contracts are modelled on the [[First Contract\|First Contract]]. During the time of the Final Empire, Contracts were arranged by leaving a message at a designated place in Luthadel. A kandra Contracted to the Lord Ruler would then go to the client and act as an intermediary while the papers were signed and payment collected. The kandra—a member of the Fifth Generation during the later days of the [[Final Empire\|Final Empire]]—would then return to the [[Kandra Homeland\|kandra Homeland]] where a kandra would be assigned to the Contract. The punishment for a kandra who broke a Contract is death. The details of the Contract were never disclosed to non-kandra, not even the Lord Ruler—though the kandra likely would have shared them with him if he asked.
-
-### Allegiance
->“*They were of Preservation all along.*”
-\-Harmony on the kandra[63]
+### Bendiciones
+Hay cuatro Bendiciones diferentes disponibles para hacer un kandra. Todas conceden a los espectros de la bruma la capacidad de sentir y los convierte en kandra, pero también tienen beneficios adicionales. La Bendición proviene del efecto que el clavo hemalúrgico ha robado. Suelen ser delgados y medir menos de cinco centímetros. Cuanto más tiempo pasa una Bendición fuera de un kandra, más débil se vuelve.
 
 
-The kandra initially believe that they are of [[Preservation\|Preservation]], while the koloss, humans and Inquisitors are of [[Ruin\|Ruin]]. This is despite the fact that, like other Hemalurgically-created races, they have Hemalurgic spikes, which are of Ruin. The Lord Ruler creates the kandra to be his spies, and the noble class believe them to be spies for the new government. They often use the kandra as such, but Rashek's ultimate plan is for them to be double agents against Ruin, with their essence being of him but their [[Intent\|Intent]] being of [[Preservation\|Preservation]]. According to the plan, Ruin would believe that he could take control of the kandra whenever he wanted, as they are planted with Hemalurgic spikes. However, due to a clause in the First Contract, as well as the Trust and the Resolution, instead of being used by Ruin, they would pull their spikes free when and if Ruin were to try to seize control of them. Just prior to the [[Battle of Hathsin\|Battle of Hathsin]], this plan comes to fruition exactly as the Lord Ruler had planned, disrupting Ruin's efforts and ultimately leading to his demise, demonstrating that the kandra's true allegiance has always lain with Preservation.
 
-## Notable Kandra
-For a full list, see :Category: Kandra.
+
+
+Un kandra puede sobrevivir con un solo clavo, pero pierde parte de su cordura mientras lo hace, pero con un solo clavo no puede ser controlado por [[Ruina\|Ruina]] o [[Armon%C3%ADa\|Armonía]].
+Hay más Bendiciones posibles que las cuatro ya conocidas. Los Kandra pueden acceder a la alomancia a través de la hemalurgia o el [[Lerasium\|lerasium]]. También pueden acceder a la feruquimia por medios desconocidos. A pesar del hecho de que los kandra están Investidos, todavía son capaces de saltar entre mundos.
+
+## Historia
+  El juicio de <<TenSoon\|TenSoon>> en la <<Tierra Natal kandra\|Tierra Natal>>
+### El Imperio Final
+La Primera Generación de kandra eran originalmente los compatriotas de [[Terris\|Terris]] de Rashek. Durante su Ascensión, Rashek se dio cuenta de que una persona que poseyese tanto [[Alomancia\|alomancia]] como [[Feruquimia\|feruquimia]] supondría una grave amenaza para la estabilidad del [[Imperio Final\|Imperio Final]], por lo que habló directamente a las mentes de sus amigos más cercanos, haciendo un trato con ellos para cambiar su feruquimia por la inmortalidad. Todos los feruquimistas vivos se transformaron en [[Espectro de la bruma\|espectros de la bruma]], pero les dio clavos hemalúrgicos a los porteadores, transformándolos en la Primera Generación. Debían convertirse en sus espías e informantes.
+Los kandra fueron la tercera y última de las creaciones de Rashek, con dos clavos hemalúrgicos y por ello menos susceptibles a la influencia de [[Ruina\|Ruina]] u otras [[Esquirla\|Esquirlas]]. La Primera Generación de kandra, los amigos del lord Legislador, crearon un código legal que posteriormente fue aprobado por él mismo. Este código se conoce como el [[Primer Contrato\|Primer Contrato]]. Es lo primero que aprende un kandra al adquirir consciencia.  Todas las generaciones futuras de kandra son creadas por los Primeros mediante la concesión de Bendiciones en forma de clavos hemalúrgicos a los espectros de la bruma.
+Justo antes del [[Catacendro\|Catacendro]], la mayoría de los kandra ejecutaron la [[Resoluci%C3%B3n\|Resolución]]. La Primera Generación ordenó a todos los kandra que se quitaran sus Bendiciones en un esfuerzo por evitar que Ruina les influenciara y él recuperara su cuerpo. Con el tiempo, pueden reponer sus clavos, aunque es poco probable que haya nuevos kandra, ya que la hemalurgia no es muy conocida. Desde que [[Armon%C3%ADa\|Armonía]] ha absorbido a Ruina en sí mismo, los kandra están ahora bajo su control directo. Los kandra que se quedan sin sus clavos durante largos periodos de tiempo pierden partes importantes de su memoria.
+
+### Tras el Catacendro
+Los kandra siguen existiendo después de la Ascensión, pero ahora sirven a [[Armon%C3%ADa\|Armonía]] como sus agentes,  utilizando sus habilidades para mezclarse con los que les rodean para realizar las tareas que les encomienda. Son conocidos por la sociedad de [[Elendel\|Elendel]] debido a su mención en las [[Palabras de Instauraci%C3%B3n\|Palabras de Instauración]], pero su alusión es supuestamente vaga. A menudo se les denomina **Inmortales Sin Rostro**, y las reacciones de la gente ante ellos oscilan entre la reverencia y el escepticismo por tratarse de una leyenda urbana.
+
+ 
+Desde el Catacendro, algunos kandra han viajado a otros mundos, probablemente para reunir información para Armonía, aunque la mayoría han permanecido en Scadrial. Una kandra que no actuaba bajo las órdenes de Armonía estuvo probablemente en Roshar a principios de 1174.
+Después de que Ruina casi se haga con el control de los kandra, los supervivientes descubren una forma de acabar con sus propias vidas a voluntad para liberarse si la situación lo requiere. Muchos de la Segunda Generación acaban con sus propias vidas utilizando este método. Para 342 [[Catacendro\|PC]], los kandra también conocen una forma de descubrir a los miembros de su propia especie disfrazados, utilizando una sustancia especial inyectada en el cuerpo que hace que un kandra «colapse» lo suficiente como para incapacitarlo temporalmente. Por desgracia, la inyección es mortal para los humanos.
+Los kandra todavía parecen reacios a causar daño y matar a los humanos, aunque esto se ha vuelto considerablemente más laxo.
+Aunque la [[Tierra Natal kandra\|Tierra Natal kandra]] hace tiempo que fue abandonada y venerada como lugar sagrado, siguen reuniéndose, aunque bajo una apariencia humana y dentro de la sociedad humana.
+El enfrentamiento entre Armonía y [[Trell\|Trell]] llevó a que Armonía decidiera empezar a enviar a los kandra fuera del mundo como sus agentes en otros planetas, para ayudar a hacer frente a la creciente amenaza de Trell.
+En varios planetas, los kandra son la razón de que existan los animales parlantes de los cuentos y el folclore.
+En algún momento mucho después de los acontecimientos del primer enfrentamiento entre Armonía y Trell, [[Hoid\|Hoid]] dice que [[Sazed\|Sazed]] que ha liberado a los kandra en su conjunto, supuestamente de su control. Actualmente se desconoce el verdadero significado de esta afirmación.
+
+## Cultura
+Los kandra han pasado diez siglos esclavizados por la humanidad, sirviendo a los contratos en un esfuerzo por mantenerse a salvo. La mayoría de los kandra odian a los humanos por su situación, pero, irónicamente, la mayoría de los cuerpos verdaderos kandra tienen forma humana, con dos brazos, dos piernas y una cara, incluso mientras maldicen a la humanidad por mantenerlos esclavizados.
+Hay otros trabajos que los kandra realizan en la Tierra Natal, como la enseñanza e instrucción de los jóvenes kandra, que se considera un trabajo prestigioso entre ellos.
+Se refieren al lord Legislador como el Padre, porque es el responsable de su creación. Tras su muerte, [[TenSoon\|TenSoon]] defiende que [[Vin\|Vin]] debe ser considerada la Madre, porque es la que mata al lord Legislador. Se desconoce si otros kandra aceptan o no este título para ella.
+
+ 
+La Primera Generación normalmente sólo se comunica con la Segunda Generación. Todas las generaciones posteriores son entonces creadas por la Segunda, cada cien años. Durante los aproximadamente mil años de reinado del lord Legislador, ha habido once generaciones, con una Duodécima Generación muy poco probable, ya que el Padre está muerto. En general, todas las decisiones sobre la ley y el orden son comunicadas a las generaciones inferiores por la Segunda Generación, que actúa como algo parecido a los funcionarios del gobierno. TenSoon sospecha que se aprovechan de ser la única con la que hablaría la Primera Generación y deciden muchas políticas por su cuenta, diciéndole luego a los kandra más jóvenes que es decisión de la Primera Generación.
+
+### Contratos
+En los primeros días del Imperio Final, los kandra intentaron permanecer en secreto y mezclarse con la sociedad humana. Sin embargo, los humanos temían sus habilidades, llamándoles monstruos, y empezaron a utilizar la alomancia para darles caza, por medio del Defecto, y matarlos. Al cabo de unos siglos, los kandra estaban casi exterminados. Por desesperación, accedieron a convertirse en sirvientes de los humanos, sin salir nunca de la Tierra Natal a menos que fuera por un contrato.
+Como resultado de esta trayectoria, los kandra son reservados en cuanto a su cultura y sienten una intensa aversión por los humanos, que sólo se ve agravada por el mal trato que suelen recibir de sus amos. A pesar de ello, se ciñen a sus contratos sin rechistar, y a menudo son utilizados como espías por la nobleza. Cumplir los contratos es su forma de «pagar por su libertad» para evitar que los humanos busquen formas de esclavizarlos de otras maneras y descubran su debilidad a la alomancia. Los términos de un contrato siempre prohíben a un kandra matar a un humano, cambiar de cuerpo sin permiso y revelar secretos kandra, y requieren que regrese a la Tierra Natal si rompe los términos del contrato o si su amo muere antes de que expire.
+Además, el cumplimiento de los contratos también tiene otro propósito: debe pagarse en [[Atium\|atium]], que luego se lleva a la Tierra Natal, donde se almacena en una cámara metálica conocida como el [[Cubil de la Confianza\|Cubil de la Confianza]]. Lo hacen porque el atium es el poder condensado de la Ruina, y al almacenarlo en un lugar donde Ruina no tiene influencia le niegan el acceso a una parte de su poder.
+Todos los contratos se basan en el [[Primer Contrato\|Primer Contrato]]. Durante la época del Imperio Final, estos se concertaban dejando un mensaje en un lugar designado de Luthadel. Un kandra contratado por el lord Legislador se dirigía entonces al cliente y actuaba como intermediario mientras se firmaban los papeles y se cobraba el pago. El kandra (un miembro de la Quinta Generación durante los últimos días del [[Imperio Final\|Imperio Final]]) volvería entonces a la [[Tierra Natal kandra\|Tierra Natal kandra]] donde se asignaría un kandra al Contrato. El castigo para un kandra que rompiera un contrato era la muerte. Los detalles de cada contrato nunca fueron revelados a los no kandra, ni siquiera al lord Legislador (aunque los kandra probablemente los habrían compartido con él si lo hubiera pedido).
+
+### Lealtad
+>“*En efecto eran de Conservación.*”
+\-Armonía sobre los kandra[59]
+
+
+Los kandra creen inicialmente que son de [[Conservaci%C3%B3n\|Conservación]], mientras que los koloss, los humanos y los inquisidores son de [[Ruina\|Ruina]]. Esto es así a pesar de que, al igual que otras razas creadas hemalúrgicamente, tienen clavos, que son de Ruina. El lord Legislador crea a los kandra para que sean sus espías, y la clase noble cree que son espías del nuevo gobierno. A menudo utilizan a los kandra como tales, pero el plan definitivo de Rashek es que sean agentes dobles contra Ruina, siendo su esencia, pero con la [[Intenci%C3%B3n\|Intención]] de [[Conservaci%C3%B3n\|Conservación]]. Según el plan, Ruina creería que podía tomar el control de los kandra cuando quisiera, ya que están dotados de clavos hemalúrgicos. Sin embargo, debido a una cláusula del Primer Contrato, así como de la Confianza y la Resolución, en lugar de ser utilizados por Ruina, se liberarían de sus clavos cuando Ruina se liberara e intentara hacerse con su control. Justo antes de la [[Batalla de Hathsin\|Batalla de Hathsin]], este plan se lleva a cabo exactamente como el lord Legislador había planeado, desbaratando los esfuerzos de Ruina y, en última instancia, conduciendo a su desaparición, demostrando que la verdadera lealtad de los kandra siempre ha estado con Conservación.
+
+## Kandra destacados
+Para un listado completo, ver :Categoría: Kandra.
 
 [[TenSoon\|TenSoon]]
 [[OreSeur\|OreSeur]]
@@ -132,9 +138,29 @@ For a full list, see :Category: Kandra.
 [[ReLuur\|ReLuur]]
 [[Ulaam\|Ulaam]]
 
-## Trivia
-The Blessing of Stability is rarely used because Brandon added it late in the development of *The Hero of Ages*, after realizing that the structure of the powers of metals in [[Hemalurgy\|Hemalurgy]] required a second mental Blessing.
-At least one unidentified kandra is a [[Worldhopper\|worldhopper]], and has made an appearance in [[Oathbringer\|Oathbringer]]. They are not an agent of Harmony.
+## Curiosidades
+La Bendición de la Estabilidad se utiliza raramente porque Brandon la añadió tarde en el desarrollo de *[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*, después de darse cuenta de que la estructura de los poderes de los metales en [[Hemalurgia\|hemalurgia]] requería una segunda Bendición mental.
+Al menos un kandra no identificado es un [[Saltamundos\|saltamundos]], y ha hecho una aparición en [[Juramentada\|Juramentada]]. No es un agente de Armonía.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
+|-|-|
+|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
+|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
+|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] ·  · [[Quimera hemal%C3%BArgica\|Quimera]]|
+|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · [[Duraluminio\|Duraluminio]]|
+|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-https://coppermind.net/wiki/Contract
+
+https://es.coppermind.net/wiki/Kandra

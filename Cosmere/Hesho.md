@@ -1,82 +1,97 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Hesho**|
 |-|-|
-|by  Jill Andersen |
-|**Titles**|Your Normalness, Unexalted One Who Is Not King, Unexalted One|
-|**Aliases**|Darkshadow|
-|**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
-|**Species**|[[Kitsen\|Kitsen]]|
-|**Homeworld**|[[Evershore (planet)\|Evershore]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Títulos**|Su normaleza, su ineminencia que no es rey, ineminencia|
+|**Apodos**|Sombraoscura|
+|**Grupo**|[[El %C3%9Altimo Beso de las Flores Nocturnas\|El Último Beso de las Flores Nocturnas]]|
+|**Especie**|[[Kitsen\|Kitsen]]|
+|**Mundo natal**||
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*I have been . . . overruled. What a curious experience.*”
-\-Hesho, after his crewmembers convince him to spare Spensa[3]
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-
-**Hesho** is a [[Kitsen\|kitsen]] captain and the former king of an absolute monarchy of his species. Working upon a ship training in the [[Superiority\|Superiority]] fleet, he was transferred to the [[Nowhere\|nowhere]] in a [[Delver\|delver]] attack and joined with the [[Cannonade Faction\|Cannonade Faction]], becoming the pirate champion for a short time.
-
- by  Brent Donoho 
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-
-2.1 Leader of the kitsen
+>“*Me han. . . desautorizado. Qué experiencia más curiosa.*”
+\-Hesho, después de que sus compañeros le convenzan de que perdone a Spensa[3]
 
 
-3 History
+**Hesho** es un capitán [[Kitsen\|kitsen]] y antiguo rey de una monarquía absoluta de su especie. Trabajando en un nave que formaba parte de la flota de la [[Supremac%C3%ADa\|Supremacía]], fue trasladado a la [[Ninguna-parte\|ninguna-parte]] en un ataque de los [[Zapador\|zapadores]] y se unió a la [[Facci%C3%B3n de los Ca%C3%B1oneros\|Facción de los Cañoneros]], convirtiéndose en el campeón pirata durante un breve periodo de tiempo.
 
-3.1 King Hesho
-3.2 Captain Hesho
-3.3 Rescue from the nowhere
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 
-4 Relationships
-
-4.1 Spensa
+2. [[#L.C3.ADder de los kitsen]] 
 
 
-5 See Also
-6 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#Rey Hesho]] 
+3. [[#Capit.C3.A1n Hesho]] 
+3. [[#Rescate de la ninguna-parte]] 
 
 
-## Appearance and Personality
->“*Though you have fought admirably, I will defeat you, and compose poetry for your funeral[...]for your retirement party.*”
-\-Hesho during his duel with Spensa[5]
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Spensa]] 
 
 
-Hesho has white fur with a pattern in red on his snout and ears. He often wears formal-looking silk clothing, like others in the kitsen government. His voice, at least as rendered by a translator pin, is surprisingly deep for such a small being and sounds aristocratic and regal.
-Despite the kitsen's change in government structure to a democracy, Hesho is still treated, and acts, like a king. His fellow crew members show him great deference; he has an entourage of other kitsen who feed him, fan him, and drive him around, all of which he accepts unquestionably as his due. Although Hesho's behavior has largely reflected his prior status as a monarch, he does genuinely try to encourage his people towards democracy and making their own decisions. He takes defiance against his decisions in stride and actively tries to listen to, and incorporate the desires of those around. When faced with betrayal by Spensa, he drew on the opinions of the other kitsen and pushed through his hurt feelings to ultimately do the right thing and support her in battle.
+5 Ver también. [[#Ver tambi.C3.A9n]] 
+6 Notas. [[#Notas]] 
 
-## Attributes and Abilities
->“* All people must accept that we have the potential to do terrible things. It is part of seeing our place in the universe, our heritage, and our natures. But in that acceptance, we gain strength, for potential can be refused. Any hero who could have been a monster is more heroic for the choices he or she made to walk another road. *”
-\- Hesho [10] 
 
-Hesho has skill in poetry. He introduces himself as a humble poet and claims that he would have been a poet in another life. His poetic background shows up in the elaborate names he bestows on things, such as *Flowers of Night's Last Kiss* (for what the Superiority dubbed Flight Fifteen) or *The Wind That Mingles with a Man's Dying Breath* (for [[Vapor\|Vapor]]).
+## Apariencia y personalidad
+>“*Aunque has combatido de forma admirable, te derrotaré y compondré un poema para tu funeral. . . para tu fiesta de jubilación.*”
+\-Hesho durante su duelo con Spensa[5]
 
-### Leader of the kitsen
-As the former king of a considerable portion of his entire home planet, he continues to command great loyalty and influence within the nation and would presumably be able to get his government and people to do just about anything within their power for him.
-He spent most of his life preparing to become the monarch of his nation, and that history very much shows in the way he and the kitsen around him behave. Even though he is officially just one member of a democratic government by the time he travels to the [[Superiority\|Superiority's]] pilot recruitment program, he is still treated specially by the other kitsen. In spite of that, he seems to genuinely believe that it will be best for his people to move away from a monarchy, at least given the Superiority's rules on the matter, and he makes efforts accordingly to help the process along. For example, he tries to encourage Senator [[Aria\|Aria]] to make a policy decision on her own, but she is confused and unable to come up with any ideas that don't involve just doing what he wants.
 
-## History
-### King Hesho
-Hesho's kingdom took up over a third of the [[Kitsen homeworld\|kitsen homeworld]]. Three weeks before traveling to [[Starsight (station)\|Starsight]], he stepped away from the throne, becoming instead a member of the kitsen democratic assembly and a ship captain. Hesho's status as former king of his people is somewhat questionable, as he seems to bear the title in all but name, and the new senate tends to unanimously vote against his wishes in an apparent attempt to prove that they are independent. He is determined to convince all around him that he is no longer the monarch of his people.
+Hesho tiene el pelaje blanco con un patrón rojo en el hocico y las orejas. Suele vestir ropas de seda de aspecto formal, como otros miembros del gobierno kitsen. Su voz, al menos según la interpreta un alfiler traductor, es sorprendentemente grave para un ser tan pequeño y suena aristocrática y regia.
+A pesar de que la estructura de gobierno de los kitsen ha cambiado a una democracia, Hesho sigue siendo tratado, y actúa, como un rey. Sus compañeros de tripulación le muestran una gran deferencia; tiene un séquito de otros kitsen que le dan de comer, le abanican, y le llevan de un lado a otro, todo lo cual él acepta incuestionablemente como lo que le corresponde. Aunque el comportamiento de Hesho ha reflejado en gran medida su condición previa de monarca, intenta animar a su pueblo a la democracia y a tomar sus propias decisiones. Se toma con calma el desafío a sus decisiones e intenta activamente escuchar e incorporar los deseos de los que le rodean. Cuando se enfrentó a la traición de Spensa, se basó en las opiniones de los otros kitsen y superó sus sentimientos heridos para hacer lo correcto y apoyarla en la batalla.
 
-### Captain Hesho
-Hesho travels to Starsight with a contingent of around fifty of his former subjects, including his shieldbearer, [[Kauri\|Kauri]], and a senator, [[Aria\|Aria]], to prove that their race is worthy of primary citizenship within the [[Superiority\|Superiority]]. He forms a friendship with Spensa, which eventually morphs into an alliance. This alliance survives past Hesho's death at the hands of [[Brade\|Brade]] during [[Winzik\|Winzik's]] attack on [[Detritus\|Detritus]]. Kauri takes command of the [[Swims Against the Current in a Stream Reflecting the Sun\|Swims Against the Current in a Stream Reflecting the Sun]] following his death, though it is unclear whether she was formally designated as his successor as the kitsen's captain or if she simply temporarily took command until the end of the battle.
+## Atributos y habilidades
+>“*Todos debemos aceptar que tenemos el potencial de hacer cosas terribles. Forma parte de comprender nuestro lugar en el universo, nuestro acervo y nuestra naturaleza. Pero en esa aceptación yace la fuerza, pues el potencial puede rechazarse. Todo héroe que pudo ser un monstruo es más heroico por las decisiones que tomó para emprender un camino distinto.*”
+\-Hesho [10]
 
-### Rescue from the nowhere
-To Spensa's surprise, he is revealed to have survived in his apparent death and was sucked in the nowhere, where he lost his memory. He became a starfighter for Cannonade, one of the pirate organizations of the nowhere, but later aided Spensa after she told him who he was. He successfully escapes from the nowhere with Spensa and Doomslug to Detritus.
 
-## Relationships
+Hesho tiene habilidad para la poesía. Se presenta como un humilde poeta y afirma que habría sido poeta en otra vida. Su formación poética se manifiesta en los elaborados nombres que da a las cosas, como *[[El %C3%9Altimo Beso de las Flores Nocturnas\|El Último Beso de las Flores Nocturnas]]* (para lo que la Supremacía llamó Escuadrón Quince) o *El Viento que se Entremezcla con el Último Aliento de un Hombre* (para [[Vapor\|Vapor]]).
+
+### Líder de los kitsen
+Como antiguo rey de una parte considerable de su planeta natal, sigue teniendo una gran lealtad e influencia dentro de la nación y es de suponer que podría conseguir que su gobierno y su pueblo hicieran cualquier cosa que estuviera en su mano por él.
+Pasó la mayor parte de su vida preparándose para convertirse en el monarca de su nación, y esa historia se nota mucho en su forma de comportarse y en la de los kitsen que le rodean. Aunque oficialmente es sólo un miembro de un gobierno democrático en el momento en que viaja al programa piloto de reclutamiento de la [[Supremac%C3%ADa\|Supremacía]], sigue recibiendo un trato especial por parte de los demás kitsen. A pesar de ello, parece creer sinceramente que lo mejor para su pueblo será alejarse de una monarquía, al menos dadas las normas de la Supremacía al respecto, y se esfuerza en consecuencia para ayudar a que el proceso avance. Por ejemplo, intenta animar a la senadora [[Aria\|Aria]] a que tome una decisión política por su cuenta, pero ella se muestra confusa e incapaz de aportar ninguna idea que no implique simplemente hacer lo que él quiere.
+
+## Historia
+### Rey Hesho
+El reino de Hesho ocupaba más de un tercio del [[Planeta natal kitsen\|planeta natal kitsen]]. Tres semanas antes de viajar a [[Visi%C3%B3n Estelar\|Visión Estelar]], abandonó el trono, convirtiéndose en miembro de la asamblea democrática kitsen y capitán de una nave. El estatus de Hesho como antiguo rey de su pueblo es algo cuestionable, ya que parece llevar el título sólo de nombre, y el nuevo senado tiende a votar unánimemente en contra de sus deseos en un aparente intento de demostrar que son independientes. Está decidido a convencer a todos a su alrededor de que ya no es el monarca de su pueblo.
+
+### Capitán Hesho
+Hesho viaja a Visión Estelar con un contingente de unos cincuenta de sus antiguos súbditos, incluida su portadora de escudo, [[Kauri\|Kauri]], y una senadora, [[Aria\|Aria]], para demostrar que su raza es digna de la ciudadanía primaria dentro de la [[Supremac%C3%ADa\|Supremacía]]. Entabla amistad con Spensa, que con el tiempo se convierte en una alianza. Esta alianza sobrevive tras la muerte de Hesho a manos de [[Brade\|Brade]] durante el ataque de [[Winzik\|Winzik]] a [[Detritus\|Detritus]]. Kauri toma el mando del [[Nada a Contracorriente en un Arroyo que Refleja el Sol\|Nada a Contracorriente en un Arroyo que Refleja el Sol]] tras su muerte, aunque no está claro si fue designada formalmente como su sucesora como capitana de los kitsen o si simplemente tomó el mando temporalmente hasta el final de la batalla.
+
+### Rescate de la ninguna-parte
+Para sorpresa de Spensa, se revela que sobrevivió a su aparente muerte y fue succionado a la ninguna-parte, donde perdió la memoria. Se convirtió en piloto de caza estelar de los Cañoneros, una de las organizaciones piratas de la ninguna-parte, pero más tarde ayudó a Spensa después de que ella le dijera quién era. Consigue escapar de la ninguna-parte con Spensa y Babosa Letal hacia Detritus.
+
+## Relaciones
 ### Spensa
-After Hesho discovers that "[[Alanik\|Alanik]]" was actually the human [[Spensa\|Spensa]] all along, he becomes outraged and terrified and appears to be on the verge of shooting her. The members of his crew, however, talk him out of doing so -- the first seen instance of other kitsen going against his wishes in any meaningful way. Despite his kingly tendencies, he takes their desires into account and continues to work with Spensa, describing the experience of being overruled as curious.
+Cuando Hesho descubre que "[[Alanik\|Alanik]]" era en realidad la humana [[Spensa\|Spensa]], se indigna y aterroriza, y parece a punto de dispararle. Sin embargo, los miembros de su tripulación le convencen para que no lo haga: es la primera vez que se ve a otros kitsen ir en contra de sus deseos de forma significativa. A pesar de sus tendencias de rey, tiene en cuenta sus deseos y continúa trabajando con Spensa, describiendo la experiencia de ser desautorizado como curiosa.
 
-## See Also
+## Ver también
 [[Gaualako-An\|Gaualako-An]]
 [[Kitsen\|Kitsen]]
 [[Kauri\|Kauri]]
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] ·  · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
-https://coppermind.net/wiki/Hesho
+
+https://es.coppermind.net/wiki/Hesho

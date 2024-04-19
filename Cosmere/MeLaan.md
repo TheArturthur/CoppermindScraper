@@ -1,133 +1,166 @@
+
+
 |**MeLaan**|
 |-|-|
-|by  Shuravf |
-|**Family**|
-|**Parents**|[[TenSoon\|TenSoon]]|
-|**Born**|Seventh Generation|
-|**Abilities**|[[Worldhopper\|Worldhopper]]|
-|**Aliases**|Milan|
-|**Species**|[[Kandra\|Kandra]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Hero of Ages*|
+||
+|**Familia**|
+|**Padres**|[[TenSoon\|TenSoon]]|
+|**Nacido en**|Séptima Generación|
+|**Capacidades**|[[Saltamundos\|Saltamundos]]|
+|**Apodos**|Milan|
+|**Especie**|[[Kandra\|Kandra]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*"Here's a tip, kid. Save the wisecracks until your foe is dead. Like this. See how easy it is?" She kicked the corpse in the face.*”
+>“*"Te daré un consejo, muchacho: ahórrate las frasexitas ingeniosas hasta que tu rival esté muerto. Así. ¿Ves qué fácil?" Le pegó una patada en la cara al cadáver.*”
 \-MeLaan[1]
 
 
-**MeLaan** is a [[Kandra\|kandra]] of the Seventh Generation.
+**MeLaan** es una [[Kandra\|kandra]] de la séptima generación.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
+1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
 
-1.1 Pre Catacendre
-1.2 Post Catacendre
-
-
-2 Attributes and Abilities
-3 History
-
-3.1 The Final Empire
-3.2 Post Catacendre
-
-3.2.1 Paalm's Madness
-3.2.2 Search for ReLuur
-3.2.3 Worldhopping
+1. [[#El Imperio Final]] 
+1. [[#Post Catacendro]] 
 
 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+
+3. [[#Pre Catacendro]] 
+3. [[#Post Catacendro 2]] 
+
+3. [[#La locura de Paalm]] 
+3. [[#B.C3.BAsqueda para ReLuur]] 
+3. [[#Saltamundos]] 
 
 
-4 Relationships
-
-4.1 TenSoon
-4.2 VenDell
-4.3 Wayne
-4.4 Wax
 
 
-5 Trivia
-6 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#TenSoon]] 
+4. [[#VenDell]] 
+4. [[#Wayne]] 
+4. [[#Wax]] 
 
 
-## Appearance and Personality
- by  Shuravf  Pulling a gun from her thigh
->“*Thy snoring is rather loud. It doth be like unto a hundred angry koloss in the middle of a rockslide. Lo, and it doth come near to waking the dead.*”
-\-MeLaan to Claude Aradel[3]
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-For more images, see [[MeLaan/Gallery\|/Gallery]].
-### Pre Catacendre
-MeLaan is the only kandra raised by [[TenSoon\|TenSoon]] and is considered his adopted daughter/little sister. She has a hero-worship crush on him, inspired by his gruffness and his adventurousness, which makes TenSoon somewhat uncomfortable. MeLaan wears a willowy [[True Body\|True Body]] made of wood. Its form is unnatural and exaggerated, as are many of the True Bodies of her generation.
+## Apariencia y Personalidad
+  Sacando una pistola de su muslo
+>“*Roncas muy fuerte. Suena como cien koloss enfurecidos que cabalgaran a lomos de una avalancha de rocas. El clamor se diría casi capaz de levantar a los muertos.*”
+\-MeLaan a Claude Aradel[3]
 
-### Post Catacendre
-MeLaan often takes the form of a very tall (several inches taller than the notably tall Waxillium) and very busty woman named Milan. This True Body is made of a green crystal. However, she also has several others, including one that is ostensibly designed for combat. The skeleton underneath is revealed to be made entirely of aluminum, with many useful implements hidden inside including a reinforced compartment for storage of the part of her that stores her consciousness, needles for stitching wounds, and a set of picks for opening locks. This metal body is very durable (A Feruchemist Brute punched her in the face and her hand essentially exploded).
-She does not appear to care about the sex or gender she presents herself as, given how lightly she takes the idea of going to [[Kelesina Shores's party\|Kelesina Shores's party]] as a man. Although this seems to have changed to an extent over the years, as she eventually came to prefer a far more androgynous form. This body is taller than even [[Wax\|Wax]]; has short, blonde hair; and little hint of breasts. When with friends she keeps a relatively similar face, albeit less overtly feminine. She is sometimes seen wearing stylish blue trousers and a buttoned shirt in this form.
-Her favorite True Body is emerald.
-Notably, her personality is much more free spirited than most kandra, and she gets along very well with Wayne, engaging in belching contests on occasion. She is also more lax about following the First Contract than other kandra, and is willing to kill humans if she has to.
 
-## Attributes and Abilities
-As a Kandra, she possesses the ability to shapeshift into various different forms around her True Body. She is also an immortal being, able to live for centuries, and survive wounds that would be fatal to most biological entities, she is also capable of turning off her pain receptors. She is capable of reforming her body to unlock simple locks. And like all Kandra she can make her flesh go transparent in order to reveal her True Body.
-She has various True Bodies made out of various materials, such as emerald and [[Aluminum\|aluminum]]. She sometimes uses ones with hidden weapons, such as swords in her arms. She can also store guns in her body, which she can pull out at will. Unlike most kandra, she doesn't necessarily follow the First Contract, and thus has little qualms about killing.
-As a kandra, she has unknown hemalurgic blessings which grant her powers, form, and sapience. If these spikes are removed, she reverts back to her mistwraith state, returning these to her would return her back to her kandra state.
-She is a [[Worldhopper\|Worldhopper]], and thus knows how to use Shadesmar to pass between worlds.
+Para más imágenes, ver [[MeLaan/Galer%C3%ADa\|/Galería]].
+### El Imperio Final
+MeLaan es la única kandra criada por [[TenSoon\|TenSoon]] y es considerada su hija adoptiva/hermana pequeña. Tiene un flechazo con él mezclado con adorarlo como a un héroe, inspirado por su brusquedad y ganas de aventura, lo que pone a TenSoon incómodo de cierta manera. MeLaan lleva un [[Cuerpo Verdadero\|Cuerpo Verdadero]] excéntrico hecho de madera. Su forma es antinatural y exagerada, como muchos otros de los Cuerpos Verdaderos de su generación.
 
-## History
- by  Madison Coyne  Showing her [[True Body\|True Body]]
->“*Life then was like life now, only you have better street food.*”
+### Post Catacendro
+MeLaan suele tomar la forma de una mujer muy alta (varios centímetros más alta del ya considerablemente alto Waxillium) y de grandes pechos llamada Milan. Este Cuerpo Verdadero está hecho de cristal. Sin embargo, tiene unos cuantos más, incluyendo uno que está aparentemente diseñado para el combate. El esqueleto bajo este está formado enteramente de aluminio, con muchos añadidos útiles escondidos dentro como un compartimento de almacenaje reforzado para la parte donde guarda su consciencia, agujas para coser heridas y un juego de ganzúas para abrir puertas. Este cuerpo metálico es muy resistente (un bruto feruquimista le dio un puñetazo en la cara y su mano prácticamente explotó).
+Tras los sucesos de *Brazales de Duelo* y el descubrimiento de los scadrianos del sur, empezó a adoptar una forma más andrógina. Esta forma es más alta incluso que [[Wax\|Wax]]; tiene el pelo corto y rubio, y poco pecho. Cuando está con amigos, mantiene un rostro relativamente similar, aunque menos abiertamente femenino. A veces se la ve con unos elegantes pantalones azules y una camisa abotonada en esta forma.
+Su Cuerpo Verdadero favorito es de esmeralda.
+De vez en cuando cambia su cuerpo por voluntad propia, y no parece importarle el sexo o el género con el que se presenta, dada la ligereza con la que se toma la idea de ir a la fiesta de [[Kelesina Shores\|Kelesina Shores]] como un hombre. Aunque esto parece haber cambiado en cierta medida con los años, ya que con el tiempo llegó a preferir una forma mucho más andrógina.
+Su personalidad destaca por ser mucho más un espíritu libre que la mayoría de los kandra, y se lleva muy bien con Wayne, compitiendo en un concurso de eructos en alguna ocasión. También es más flexible sobre el Primer Contrato que otros kandra, y está dispuesta a matar humanos si es necesario.
+
+## Atributos y habilidades
+Como kandra, posee la capacidad de transformarse en varias formas diferentes en torno a su Cuerpo Verdadero. También es un ser inmortal, capaz de vivir durante siglos y de sobrevivir a heridas que serían fatales para la mayoría de las entidades biológicas, también es capaz de desactivar sus receptores del dolor.
+Es capaz de modificar su cuerpo para abrir cerraduras sencillas.
+Puede hacer que su carne se vuelva transparente para revelar su Cuerpo Verdadero.
+Tiene varios Cuerpos Verdaderos hechos de diversos materiales, como la esmeralda y el [[Aluminio\|aluminio]]. A veces los utiliza con armas ocultas, como espadas en los brazos. También puede almacenar armas en su cuerpo, que puede sacar a voluntad. A diferencia de la mayoría de los kandra, no sigue necesariamente el Primer Contrato, por lo que tiene pocos reparos en matar.
+Como kandra, tiene bendiciones hemalúrgicas desconocidas que le otorgan poderes, forma y sapiencia. Si se le quitan estos clavos, vuelve a su estado de espectro de la bruma; devolvérselos haría que volviera a su estado de kandra.
+Es una [[Saltamundos\|saltamundos]], por lo que sabe utilizar Shadesmar para pasar de un mundo a otro.
+
+## Historia
+  Mostrando su <<Cuerpo verdadero\|Cuerpo verdadero>>
+>“*La vida entonces era idéntica a la de ahora, aunque la comida de los puestos ambulantes no estaba tan rica.*”
 \-MeLaan[16]
 
 
-### The Final Empire
-Before becoming a Kandra, she existed as a mistwraith for an unknown amount of time. But in the seventh century of the Lord Ruler's reign, she was granted form and sapience by Hemalurgic spikes, becoming a kandra of the Seventh Generation. TenSoon was appointed as her "parent", and tasked with raising her as she developed.
-MeLaan attended TenSoon's judgement trial. After he was publicly imprisoned, she approached him and offered to help him escape. She also offered to retrieve the [[Blessing of Potency\|Blessing of Potency]] he took from [[OreSeur\|OreSeur]]. She believed his claim that [[Vin\|Vin]] was the [[Lord Ruler\|Lord Ruler's]] heir, and that the kandra's [[First Contract\|First Contract]] had been transferred to her. She took the changes in the outside world –- the [[Mist\|mists]] that remained during the day and constant ashfall -– as signs and proof.
-When TenSoon refused to rebel against the First and Second Generations, she accused him of abandoning his people. She was present at his sentencing, after which he escaped.
-After [[KanPaar\|KanPaar]] revolted against the first generation and imprisoned [[Sazed\|Sazed]], [[TenSoon\|TenSoon]] returned to the [[Kandra Homeland\|Kandra Homeland]]. He found that [[Sazed\|Sazed]] had been taken prisoner with the help of MeLaan. MeLaan then fetched the keys and released the first generation, as well as securing bones for them to inhabit.
+### Pre Catacendro
+Antes de convertirse en kandra, existió como espectro de la bruma durante un tiempo desconocido. Pero en el siglo VII del reinado del lord Legislador, los clavos hemalúrgicos le dieron forma y sapiencia, convirtiéndose en una kandra de la Séptima Generación. TenSoon fue designado como su "padre", y se le encomendó la tarea de criarla mientras se desarrollaba.
+MeLaan asistió al juicio de TenSoon. Después de que fuese públicamente encarcelado, se acercó a él y le ofreció ayuda para escapar. También se ofreció a recuperar la [[Bendici%C3%B3n de la Potencia\|Bendición de la Potencia]] que él tomó de [[OreSeur\|OreSeur]]. Creyó su declaración de que [[Vin\|Vin]] era la heredera del [[Lord Legislador\|lord Legislador]], y de que el [[Primer Contrato\|Primer Contrato]] se había transferido a ella. Tomó los cambios en el mundo exterior (las [[Bruma\|brumas]] que permanecían durante el día y la caída continua de ceniza) como señales y pruebas.
+Cuando TenSoon rechazó rebelarse contra las Primera y Segunda Generaciones, lo acusó de abandonar a su gente. Estuvo presente en su sentencia, tras la cual él escapó.
+Después de que [[KanPaar\|KanPaar]] se rebelara contra la Primera Generación y encarcelase a [[Sazed\|Sazed]], [[TenSoon\|TenSoon]] volvió a la [[Tierra Natal kandra\|Tierra Natal kandra]]. Encontró que [[Sazed\|Sazed]] había sido hecho prisionero con la ayuda de MeLaan. Esta después entregó las llaves y liberó a la Primera Generación, así como les facilitó huesos para que habitasen.
 
-### Post Catacendre
-Following the Catacendre, her loyalty shifted to Harmony, as she began to follow his orders and act as his hands in the world. It is not known what she did over the majority of the over three centuries between the Catacendre and her interactions with Wax and Wayne.
-MeLaan was the kandra who gave [[Waxillium Ladrian\|Waxillium Ladrian]] his earring; a hemalurgic spike to let Harmony communicate with him, so that he could eventually come to act as Harmony's Sword.
+### Post Catacendro
+Tras el Catacendro, su lealtad cambió hacia Armonía, ya que empezó a seguir sus órdenes y a actuar como sus manos en el mundo. No se sabe qué hizo durante la mayor parte de los más de tres siglos que transcurrieron entre el Catacendro y sus interacciones con Wax y Wayne.
+MeLaan fue el kandra que entregó a [[Waxillium Ladrian\|Waxillium Ladrian]] su pendiente; un clavo hemalúrgico para que Armonía se comunicase con él, para que con el tiempo pudiera llegar a actuar como espada de Armonía.
 
-#### Paalm's Madness
-MeLaan once again met Wax at [[Lady ZoBell's party\|Lady ZoBell's party]]. She introduced herself as Milan, a slight mispronunciation of her real name. After seeming to flirt with Wax, she walked away.
-After the party, she saved Wax from the [[Set\|Set]] agents who had ambushed him. She revealed that she was a kandra sent by [[Harmony\|Harmony]] to help him.
-Later, she met Wax, [[Wayne\|Wayne]], and [[Marasi\|Marasi]] at a tavern. She went on to help them on their quest to defeat [[Bleeder\|Bleeder]]. MeLaan impersonated one of Governor [[Replar Innate\|Replar Innate's]] guards and saved Wax from Bleeder after the rogue kandra revealed herself.
-With Bleeder unmasked and on the run, MeLaan attempted to impersonate Governor Innate in her stead with the intent of placating the angry crowed. While the crowd believed the ruse, MeLaan's natural inclinations to mimicry moved her away from the speech that Marasi planed and she ended up inflaming the crowd instead of calming the people down. Before a riot could break out, [[Aradel\|Aradel]] intervened. He arrested MeLaan and gained the support of the gathered citizenry by promising them justice.
-MeLaan did not know about the true identity of Bleeder and was told only afterward. However she firmly believed that Harmony had done the right thing in not informing Wax of the true identity of his antagonist. After the defeat of Bleeder she continued to impersonate Governor Innate, "hanging" herself in her cell so that she did not have to falsely testify in a court of law.
+#### La locura de Paalm
+MeLaan de nuevo se reunió con Wax en la [[Fiesta de lady ZoBell\|Fiesta de lady ZoBell]]. Se presentó como Milan, un ligero cambio en la pronunciación de su verdadero nombre. Tras aparentemente ligar con Wax, se marchó.
+Tras la fiesta, salvó a Wax de los agentes del [[El Grupo\|Grupo]] que lo habían emboscado. Reveló ser un kandra enviado por [[Armon%C3%ADa\|Armonía]] para ayudarlo.
+Más tarde, se encontró con Wax, [[Wayne\|Wayne]] y [[Marasi\|Marasi]] en una taberna. Pasó a ayudarles en su misión para derrotar a [[Sangradora\|Sangradora]]. MeLaan se hizo pasar por uno de los guardias del gobernador [[Replar Innate\|Replar Innate]] y salvó a Wax de Sangradora después de que la kandra renegada se revelara.
+Con Sangradora descubierta y a la carrera, MeLaan intentó interpretar al gobernador Innate con la intención de aplacar a la multitud enfurecida. Si bien se creyeron su interpretación, las inclinaciones naturales para imitar de MeLaan la alejaron del discurso que había escrito Marasi y acabó animando a la gente en lugar de calmarla. Antes de que estallase una revuelta [[Aradel\|Aradel]] intervino. Arrestó a MeLaan y se ganó el apoyo de la ciudadanía reunida prometiéndoles justicia.
+MeLaan no conocía la verdadera identidad de Sangradora hasta que se lo contaron después. No obstante creía que Armonía había hecho lo correcto al no informar a Wax de la verdadera identidad de su antagonista. Tras la derrota de Sangradora siguió con la actuación del gobernador Innate, "ahorcándose" en la celda para que nadie tuviera que dar falso testimonio en el juzgado.
 
- by  Shuravf  MeLaan dodging bullets during a gunfight
-#### Search for ReLuur
-MeLaan agreed to accompany Wax, Marasi, Wayne and [[Steris\|Steris]] on their mission to [[New Seran\|New Seran]] in the hope of curing [[ReLuur\|ReLuur's]] insanity by restoring his spike. ReLuur was injured looking into myths about [[The Bands of Mourning\|The Bands of Mourning]]. Wax couldn’t find MeLaan during the fight, and later found her topless with Wayne in a compartment.
-When the group arrived in the city MeLaan shocked several of them by turning into a man, indicating that she was comfortable as either sex. MeLaan aided Wax and Steris at [[Kelesina Shores\|Kelesina Shores's]] ball, helping Wax escape from the scene after he was framed for Kelesina's murder.
-After escaping, she traveled with the party to the crashed *Brunstell*, where she and Marasi found ReLuur's spike and liberated [[Allik Neverfar\|Allik Neverfar]]. Together the three of them reconvened with Wax and Wayne and escape on one of the *Brunstell'*s ships called *Wilg*. After Marasi was injured in the escape, MeLaan was able to graft a piece of Marasi's own flesh onto the wound to heal her.
-After retrieving Steris, they went to the second site to retrieve the Bands of Mourning. MeLaan's invulnerability proved critical in reaching the temple where they were supposedly stored, as she was able to survive the damage of the many traps the [[Sovereign\|Sovereign]] had left behind. However she was immobilized by [[Telsin\|Telsin]] on reaching the temple and losing her spikes, reverting to a [[Mistwraith\|mistwraith]]. After the battle for the Bands, MeLaan's spikes were returned by Wayne, and her sentience was restored. The Bands were left in her keeping to keep them from being used for political purposes or conquest.
+  MeLaan esquivando balas en un tiroteo
+#### Búsqueda para ReLuur
+MeLaan aceptó acompañar a Wax, Marasi, Wayne y [[Steris\|Steris]] en su misión a [[Nueva Seran\|Nueva Seran]] con la esperanza de curar la locura de [[ReLuur\|ReLuur]] recuperando su clavo. Este fue herido cuando investigaba mitos sobre los [[Brazales de Duelo (in-world)\|Brazales de Duelo]]. Wax no pudo encontrar a MeLaan durante la pelea, y después la encontró desnuda de cintura para arriba en un compartimento con Wayne.
+Cuando el grupo llegó a la ciudad, MeLaan sorprendió a varios de ellos al convertirse en un hombre, indicando que se sentía cómoda con ambos sexos. MeLaan ayudó a Wax y Steris en el baile de [[Kelesina Shores\|Kelesina Shores]], permitiendo a Wax escapar de la escena tras ser acusado del asesinato de la anfitriona.
+Tras escapar, viajó con el grupo al *[[Brunstell\|Brunstell]]* estrellado, donde ella y Marasi encontraron el clavo de ReLuur y liberaron a [[Allik Nuncalejos\|Allik Nuncalejos]]. Juntos los tres se reunieron con Wax y Wayne y escaparon en una de las naves del *Brunstell* llamada *[[Wilg\|Wilg]]*. Después de que Marasi fuera herida en la huida, MeLaan fue capaz de crear un trozo de la propia carne de Marasi en la herida y curarla.
+Después de recoger a Steris, fueron al segundo lugar a recuperar los Brazales de Duelo. La invulnerabilidad de MeLaan fue determinante para avanzar por el templo donde se creían guardados, pues era capaz de sobrevivir al daño de las trampas que el [[Soberano\|Soberano]] había dejado. No obstante fue inmovilizada por [[Secuencia\|Secuencia]] al llegar al templo y le fueron arrebatados sus clavos, volviendo a ser un [[Espectro de la bruma\|espectro de la bruma]]. Tras la batalla por los Brazales, Wayne le devolvió los clavos a MeLaan y su consciencia volvió. Los Brazales quedaron a su cuidado para evitar que fuesen utilizados en acciones políticas o conquistas.
 
-#### Worldhopping
-After the events involving the Bands of Mourning, she began her relationship with Wayne in earnest, but had to be called away on missions by Harmony, sometimes disappearing for months at a time.
-At some point during this period, she began to favor a more androgynous form.
-Six years later, Harmony gave her a mission of going to other worlds in the cosmere to help deal with the rising threat of [[Trell (Trellism)\| Trell]]. Before she left, she broke up with Wayne.
-While in the Cognitive Realm, she met with a [[Sho Del\|Sho Del]] named [[Jan Ven\|Jan Ven]], who ferried her across the interplanetary sea. At some point during this boat ride, nineteen months after the detonation of the Set's harmonium bomb, she received a message from Harmony about Wayne's death, shortly before arriving on the shores of a currently unknown planet.
+#### Saltamundos
+Después de los sucesos con los Brazales de Duelo, comenzó en serio su relación con Wayne, pero Armonía tuvo que llamarla para que fuera a cumplir misiones, y a veces desaparecía durante meses.
+En algún momento de este periodo, empezó a adoptar una forma más andrógina.
+Seis años después, Armonía le encomendó la misión de ir a otros mundos del Cosmere para ayudar a hacer frente a la creciente amenaza de [[Trell (trellismo)\|Trell]]. Antes de partir, rompió con Wayne.
+Mientras estaba en el Reino Cognitivo, se encontró con un [[Sho del\|sho del]] llamado [[Jan Ven\|Jan Ven]], que la llevó en barco a través del mar interplanetario. En algún momento de este viaje en barco, diecinueve meses después de la detonación de la bomba de armonium del Grupo, recibió un mensaje de Armonía sobre la muerte de Wayne, poco antes de llegar a las costas de un planeta actualmente desconocido.
 
-## Relationships
+## Relaciones
 ### TenSoon
-TenSoon essentially raised MeLaan, and she is roughly considered to be his daughter or little sister. As a result of his gruffness and adventurousness, sometime before the Catacendre, she began to hero-worship him in a way that bordered on romantic attraction and made TenSoon very uncomfortable. They still appear to be close after the Catacendre, with MeLaan noting he would be proud of she can still adopt difficult accents and asking Wax not to tell TenSoon that she had to kill people again, as kandra killing people upsets him.
+TenSoon crió en gran medida a MeLaan, y, a grandes rasgos, se la considera su hija o hermana pequeña. Como resultado de su brusquedad y su carácter aventurero, en algún momento antes del Catacendro, ella comenzó a adorarle como a un héroe de una forma que rozaba la atracción romántica y que hacía que TenSoon se sintiera muy incómodo. Parece que siguen estando unidos después del Catacendro, y MeLaan señala que estaría orgulloso de que ella siga adoptando acentos difíciles y le pide a Wax que no le diga a TenSoon que ha tenido que volver a matar gente, ya que los kandra que matan gente hacen que se sienta molesto.
 
 ### VenDell
-VenDell considers MeLaan to be his sister, and cares for her, though he wishes that she would act with more tact. They tend to make witty comments back and forth between each other.
+VenDell considera a MeLaan como su hermana, y se preocupa por ella, aunque desearía que actuara con más tacto. Suelen hacer comentarios ingeniosos entre ellos.
 
 ### Wayne
-She is in a close relationship with Wayne, with him being attracted to her easy-going manner and free spirit, and her admiring his skill in accents and disguises, considering him "wasted as a human." After the events in the south, she began a romantic relationship with him, despite the warnings from her fellow Kandra about how differently humans experience time.
-The relationship wasn't as meaningful to her as it was to him, due to differences in how they experienced the passing of time, but she still treasured her time with him, and greatly mourned his death. She thought of it as a mere fling at first, but it was far more to her, as he made her forget what she was and made her forget what was the smart thing to do. Six years into their relationship, MeLaan breaks up with Wayne because she has a mission from Harmony, and if she stayed it wouldn’t be because she wanted to but because she didn’t want to hurt him.
-Their relationship is sexual in nature, she claims that he gave her the best sex she's known. They are known to have engaged in bondage. This has been confirmed as the honest truth, but that she lived a sheltered life so didn't have much to compare it to.
+Mantiene una estrecha relación con Wayne, ya que él se siente atraído por su carácter despreocupado y su espíritu libre, y ella admira su habilidad con los acentos y los disfraces, ya que lo considera "desaprovechado como humano". Tras los sucesos en el sur, comenzó una relación romántica con él, a pesar de las advertencias de sus compañeros kandra sobre lo diferente que los humanos experimentan el tiempo.
+La relación no fue tan significativa para ella como lo fue para él, debido a las diferencias en la forma en que experimentaron el paso del tiempo, pero ella todavía atesoraba su tiempo con él, y lamentó mucho su muerte. Al principio pensó que era una simple aventura, pero para ella era mucho más, ya que él le hizo olvidar lo que era y le hizo ignorar qué era lo más inteligente a hacer. A los seis años de relación, MeLaan rompe con Wayne porque tiene una misión de Armonía, y si se quedaba no sería porque ella quisiera sino por no hacerle daño a él.
+Su relación es de naturaleza sexual, ella afirma que él le dio el mejor sexo que ha tenido. Se sabe que practicaban el bondage. Esto se ha confirmado como una verdad honesta, pero que ha tenido una vida más recatada, por lo que no tenía mucho con qué compararla.
 
 ### Wax
-She was the one who gave Wax the Hemalurgic spike earring in order to put him in contact with Harmony.
+Fue ella quien le dio a Wax el clavo hemalúrgico hecho pendiente para ponerlo en contacto con Armonía.
 
-## Trivia
-In the original concept that evolved into *The Alloy of Law*, she was planned as the partner of Wayne, acting as his steed.
-She is planned to play a role in Era 3.
+## Curiosidades
+En el concepto original que evolucionó a *[[Aleaci%C3%B3n de ley\|Aleación de ley]]*, estaba previsto que fuera la compañera de Wayne, actuando como su corcel.
+Está previsto que desempeñe un papel en Era 3.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] ·  · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-https://coppermind.net/wiki/MeLaan
+
+https://es.coppermind.net/wiki/MeLaan

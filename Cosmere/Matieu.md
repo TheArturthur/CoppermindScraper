@@ -1,15 +1,38 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Matieu**|
 |-|-|
-|**Profession**|Constable|
-|**Residence**|[[Ironstand\|Ironstand]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Oficio**|Alguacil|
+|**Residencia**|[[Pie de Hierro\|Pie de Hierro]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+**Matieu** es capitán de los alguaciles de [[Pie de Hierro\|Pie de Hierro]], en [[Scadrial\|Scadrial]]. Es alto y delgado, tiene la sonrisa siempre lista y siente cierta admiración por [[Waxillium Ladrian\|Waxillium Ladrian]].
+Después de que la [[Banda de los Nocturnos\|Banda de los Nocturnos]] atacase un tren cesca de Pie de Hierro en 342 [[Catacendro\|PC]], Matieu y sus alguaciles pusieron bajo custodia al resto de bandidos. Matieu instruyó a sus guardias civiles para que le dieran a Wax algo de espacio, y luego preguntó si alguno de los sirvientes, aparte de [[Drewton\|Drewton]], necesitaría apoyo emocional. Mientras Wax buscaba a [[Wayne\|Wayne]] y [[MeLaan\|MeLaan]] en el tren, Matieu lo siguió y le proporcionó detalles sobre la banda. Planeaba perseguir a los criminales, que esperaba que estuviesen dirigiéndose hacia los Áridos, y le pidió a Waxillium que se uniese al grupo de búsqueda. Al no recibir una respuesta clara por parte de Wax, le saludó cuadrándose y se retiró.
 
-**Matieu** is captain of the constables in [[Ironstand\|Ironstand]] on [[Scadrial\|Scadrial]]. He is tall and lanky, has a ready smile, and is somewhat in awe of [[Waxillium Ladrian\|Waxillium Ladrian]].
-After the [[Nightstreet Gang\|Nightstreet Gang]] attacked a train near Ironstand in 342 [[Catacendre\|PC]], Matieu and his constables took the remaining bandits into custody. Matieu instructed his constables to give Wax some space, then inquired if any of the servants besides [[Drewton\|Drewton]] would be needing emotional support. As Wax searched the train for [[Wayne\|Wayne]] and [[MeLaan\|MeLaan]], Matieu followed him and gave him details on the gang. He planned on chasing the criminals, whom he expected to be making for the [[Roughs\|Roughs]], and asked Waxillium to join the posse. Getting no certain answer from Wax, he saluted and retreated.
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El metal perdido\|El metal perdido]]*, ahora necesita volver a revisarse.
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
 
-https://coppermind.net/wiki/Matieu
+https://es.coppermind.net/wiki/Matieu

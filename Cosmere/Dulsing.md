@@ -1,29 +1,54 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Dulsing**|
 |-|-|
-|**Region**|[[Elendel Basin\|Elendel Basin]]|
-|**World**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Región**|[[Cuenca de Elendel\|Cuenca de Elendel]]🐱︎|
+|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Dulsing** is a small settlement at the edge of the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]], roughly 50 miles (80km) northeast of [[New Seran\|New Seran]].
+**Dulsing** es un pequeño asentamiento en el borde de la [[Cuenca de Elendel\|Cuenca de Elendel]] en [[Scadrial\|Scadrial]], a unos 80 kilómetros al noreste de [[Nueva Seran\|Nueva Seran]].
 
-## Contents
+## Sumario
 
-1 Geography
-2 History
-3 Trivia
-4 Notes
-
-
-## Geography
-Dulsing is a remote farming village, isolated from everything. The village is at the foot of the [[Seran Range\|Seran Range]] and is close enough to high ground that it contains a small waterfall which has been fitted with a turbine to provide electricity.
-
-## History
-Dulsing was once the site of a landmark water rights case that [[Marasi\|Marasi]] read about in one of her textbooks.
-Around the year 342 [[Catacendre\|PC]], the [[Southern Scadrian\|Southern Scadrian]] airship *Brunstell* was searching nearby mountains for the [[Sovereign's temple\|Sovereign's temple]] when it ran into bad weather and crashed in Dulsing, killing some of its crewmembers. The villagers were initially helpful to the remaining crew, but the [[Set\|Set]] soon arrived, imprisoned the Southerners, and took over the area. The Set subsequently tore down most of the existing buildings in the village, replacing them with a heavily guarded walled compound, including a large hangar wherein they performed research on various Southern Scadrian items including the *Brunstell*, [[Ettmetal\|ettmetal]], and [[Unsealed metalminds\|unsealed metalminds]]. Professor [[Irich\|Irich]] led the research team, and hoped to make the Set so powerful that they would rule the entire [[Elendel Basin\|Elendel Basin]]. Meanwhile, the surviving crew of the *Brunstell* were presumably tortured into revealing the supposed location of the temple and the [[Bands of Mourning\|Bands of Mourning]], and most of them (including [[Jordis\|Jordis]]) were later taken into the mountains near the temple site where they nearly froze to death.
-After [[Kelesina Shores\|Kelesina Shores]] had one of ReLuur's [[Hemalurgic\|Hemalurgic]] spikes removed, [[Templeton Fig\|Templeton Fig]] sent the spike to the research center in Dulsing. [[Wayne\|Wayne]] later scared Fig into revealing this location, while [[Wax\|Wax]] also learned that the Set was working on a large building project. The team headed to Dulsing and discovered the Set's compound; [[MeLaan\|MeLaan]] and [[Marasi\|Marasi]] found the spike as well as a [[Primer cube\|primer cube]] and [[Allik Neverfar\|Allik Neverfar]]. Wax also found [[Telsin Ladrian\|Telsin Ladrian]], and the group escaped on the shuttle *Wilg*. The *Brunstell* remained in the Set's possession in Dulsing.
-
-## Trivia
-Dulsing is not shown on the Elendel Basin maps in *The Alloy of Law* and *Shadows of Self*. It appears on the map in *The Bands of Mourning*, and its location has been added in [[Nazh\|Nazh's]] handwriting.
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Historia. [[#Historia]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Dulsing
+## Geografía
+Dulsing es una remota aldea agrícola, aislada de todo. Se encuentra al pie de la [[Cordillera de Seran\|Cordillera de Seran]] y está lo suficientemente cerca de un terreno elevado como para que haya una pequeña cascada a la que se le ha instalado una turbina para suministrar electricidad.
+
+## Historia
+Dulsing fue en su día escenario de un caso histórico sobre derechos de agua que [[Marasi\|Marasi]] leyó en uno de sus libros de texto.
+Hacia el año 342 [[Catacendro\|PC]], la aeronave [[Scadrial del sur\|scadriana del sur]] buscaba en las montañas cercanas el [[Templo del Soberano\|Templo del Soberano]] cuando se encontró con mal tiempo y se estrelló en Dulsing, provocando la muerte de algunos de sus tripulantes. Los habitantes de la aldea ayudaron al principio a la tripulación restante, pero [[El Grupo\|el Grupo]] no tardó en llegar, encarceló a los sureños y se apoderó de la zona. Posteriormente, derribaron la mayoría de los edificios existentes en la aldea y los sustituyeron por un complejo amurallado fuertemente custodiado, que incluía un gran hangar en el que realizaban investigaciones sobre diversos objetos scadrianos del sur, como el *Brunstell*, el [[Ettmetal\|ettmetal]] y las [[Mente de metal liberada\|mentes de metal liberadas]]. El profesor [[Irich\|Irich]] dirigía el equipo de investigación, y esperaba hacer que el Grupo fuera tan poderoso que gobernara toda la [[Cuenca de Elendel\|Cuenca de Elendel]]. Mientras tanto, la tripulación superviviente del *Brunstell* fue presuntamente torturada para que revelara la supuesta ubicación del templo y de los [[Brazales de Duelo (in-world)\|Brazales de Duelo]], y la mayoría de ellos (incluyendo a [[Jordis\|Jordis]]) fueron llevados más tarde a las montañas cercanas al lugar del templo, donde casi murieron congelados.
+Después de que [[Kelesina Shores\|Kelesina Shores]] hiciera retirar uno de los clavos [[Hemal%C3%BArgico\|hemalúrgicos]] de ReLuur, [[Templeton Fig\|Templeton Fig]] envió el clavo al centro de investigación de Dulsing. Más tarde, [[Wayne\|Wayne]] asustó a Fig para que revelara esta ubicación, mientras que [[Wax\|Wax]] también se enteró de que el Grupo estaba trabajando en un gran proyecto de construcción. El equipo se dirigió a Dulsing y descubrió el recinto del Grupo; [[MeLaan\|MeLaan]] y [[Marasi\|Marasi]] encontraron el clavo, así como un [[Cubo b%C3%A1sico\|cubo básico]] y a [[Allik Nuncalejos\|Allik Nuncalejos]]. Wax también encontró a [[Telsin Ladrian\|Telsin Ladrian]], y el grupo escapó en la cápsula *[[Wilg\|Wilg]]*. El *Brunstell* quedó en posesión del Grupo en Dulsing.
+
+## Curiosidades
+Dulsing no aparece en los mapas de la Cuenca de Elendel en *[[Aleaci%C3%B3n de ley\|Aleación de ley]]* y *[[Sombras de identidad\|Sombras de identidad]]*. Aparece en el mapa de *[[Brazales de Duelo (libro)\|Brazales de Duelo]]*, y se ha añadido su ubicación con la letra de [[Nazh\|Nazh]].
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 22:26, 6 March 2020 (UTC)
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Dulsing

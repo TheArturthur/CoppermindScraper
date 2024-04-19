@@ -1,49 +1,63 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kitsen**|
 |-|-|
-|by  Brent Donoho |
-|**Sapient**|Yes|
-|**World of Origin**|[[Evershore (planet)\|Evershore]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Racional**|Sí|
+|**Mundo de origen**||
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Starsight*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*They seemed to be a powerful spacefaring race that had shown bravery and loyalty in combat. But . . . scud, they were also really cute.*”
-\-Spensa to herself upon seeing the kitsen[1]
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-
-The **kitsen** are a race of aliens that have secondary citizenship within the [[Superiority\|Superiority]] empire. Until recently they had a hereditary monarchy and were ruled by King (now Captain) [[Hesho\|Hesho]].
-
-## Contents
-
-1 Description
-2 History
-3 Culture
-4 Members
-5 Trivia
-6 Notes
+>“*Parecían ser una poderosa especie espacial que había mostrado valentía y lealtad en combate. Pero... tirda, además eran monísimos.*”
+\-Spensa para sí al ver a los kitsen[1]
 
 
-## Description
-The kitsen are about one handspan tall. They have bushy white tails and long, pointed ears. Although they look like a cross between gerbils and foxes, they walk upright on two legs.
+Los **kitsen** son una raza de alienígenas que tienen ciudadanía secundaria dentro del imperio de la [[Supremac%C3%ADa\|Supremacía]]. Hasta hace poco tenían una monarquía hereditaria y eran gobernados por el rey (ahora capitán) [[Hesho\|Hesho]].
 
-## History
- by  Jill Andersen  [[Spensa\|Spensa]] talking with some kitsen
-The kitsen made first contact with humans in East Asia thousands of years before the [[Human Wars\|Human Wars]], before either species had gone through the industrial revolution. Kitsen [[Cytonics\|cytonics]] teleported to Earth, leading to interactions and trade between the two cultures. The kitsen people did not trust their cytonics, and an intense disagreement ensued. The details of the disagreement are not clear, since records from that time are potentially untrustworthy and scarce. It is known, however, that humans were somehow involved and a war was implied. The kitsen cytonics left, and the main population was stranded on their homeworld.
-They remained isolated until the Superiority made contact. They received secondary citizenship in the Superiority. Decades prior to the abolition of the absolute monarchy, Hesho's grandmother, then the queen, coordinated the theft of three hyperdrive-equipped Superiority starships. The hyperdrives were found to be missing, and after they were caught, the Superiority temporarily revoked their citizenship. They followed the Superiority's orders to try and reach primary citizenship. They abolished their hereditary monarchy to follow the superiority's equality laws. A crew led by Captain Hesho, the former monarch, joined the Superiority's [[Delver\|delver]] fighting program in the hopes it would give them citizenship.
+## Sumario
 
-## Culture
-As a result of their centuries-long history of monarchy, the kitsen are in the habit of showing great deference to Hesho despite having transitioned to a democratic society. Even though he claims to no longer be royalty -- and appears to be genuinely trying to live up to that claim -- he is still treated quite specially: he has an entourage of other kitsen who feed him, fan him,, and drive him around, and the senators of his government are at a complete loss for what to do apart from what they think he wants.
-They also appear to have a somewhat militaristic culture. Hesho agrees enthusiastically when Spensa describes him as a warrior poet and Hesho's great-great-great-grandfather (who was presumably royalty) led the kitsen armies himself with a sword to fight the human invasion. Their culture is related to that of feudal Japan; their nation had had, around the time of Hesho's ancestor, a rank of "" and a notion of separate clans within the nation. Kitsen, at least those in the government, also often wear formal-looking silk clothing, most likely inspired by or the inspiration for .
-
-## Members
-[[Hesho\|Hesho]], former absolute monarch
-[[Kauri\|Kauri]], Hesho's shieldbearer
-[[Aria\|Aria]], Senator
-[[Aya\|Aya]], gunner
-[[Juno\|Juno]], Kitsen lorekeeper
-## Trivia
-They are presumably, in the Cytoverse, the origin of  myths.
-The name for young kitsen is translated into English as "pup", the same word used for foxes and gerbils.
+1 Descripción. [[#Descripci.C3.B3n]] 
+2 Historia. [[#Historia]] 
+3 Cultura. [[#Cultura]] 
+4 Miembros. [[#Miembros]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-https://coppermind.net/wiki/Kitsen
+## Descripción
+Los kitsen miden aproximadamente un palmo de altura. Tienen una cola blanca y tupida y orejas largas y puntiagudas. Aunque parecen un cruce entre jerbos y zorros, caminan erguidos sobre dos patas.
+
+## Historia
+  <<Spensa\|Spensa>> hablando con algunos kitsen
+Los kitsen establecieron el primer contacto con los humanos en Asia Oriental miles de años antes de las [[Guerras Humanas\|Guerras Humanas]], antes de que ninguna de las dos especies hubiera pasado por la revolución industrial. Los [[Cit%C3%B3nica (habilidad)\|citónicos]] kitsen se teletransportaron a la Tierra, lo que dio lugar a interacciones y comercio entre ambas culturas. Los kitsen no confiaban en sus citónicos, y se produjo un intenso desacuerdo. Los detalles del desacuerdo no están claros, ya que los registros de aquella época son potencialmente poco fiables y escasos. Sin embargo, se sabe que los humanos estaban implicados de algún modo y que hubo una guerra implícita. Los kitsen citónicos se marcharon, y la población principal quedó varada en su mundo natal.
+Permanecieron aislados hasta que la Supremacía estableció contacto. Recibieron la ciudadanía secundaria de la Supremacía. Décadas antes de la abolición de la monarquía absoluta, la abuela de Hesho, entonces reina, coordinó el robo de tres naves estelares de la Supremacía equipadas con hipermotores. Se descubrió que faltaban dichos motores y, tras ser descubiertos, la Supremacía les revocó temporalmente la ciudadanía. Siguieron las órdenes de la Supremacía para intentar alcanzar la ciudadanía primaria. Abolieron su monarquía hereditaria para seguir las leyes de igualdad de la Supremacía. Una tripulación liderada por el capitán Hesho, el antiguo monarca, se unió al programa de combate de [[Zapador\|zapadores]] de la Supremacía con la esperanza de que les diera la ciudadanía.
+
+## Cultura
+Como resultado de su historia monárquica de varios siglos, los kitsen tienen la costumbre de mostrar una gran deferencia hacia Hesho a pesar de haber pasado a una sociedad democrática. Aunque afirma que ya no pertenece a la realeza -- y parece que intenta cumplirlo de verdad -- sigue recibiendo un trato muy especial: tiene un séquito de otros kitsen que lo alimentan, lo abanican, y lo llevan de un lado a otro, y los senadores de su gobierno no saben qué hacer aparte de lo que creen que él quiere.
+También parecen tener una cultura un tanto militarista. Hesho asiente con entusiasmo cuando Spensa lo describe como un poeta guerrero y el tatarabuelo de Hesho (que presumiblemente era de la realeza) dirigió él mismo los ejércitos kitsen con una espada para luchar contra la invasión humana. Su cultura está relacionada con la del Japón feudal; su nación había tenido, alrededor de la época del antepasado de Hesho, un rango de «» y una noción de clanes separados dentro de la nación. Los kitsen, al menos los del gobierno, también suelen vestir ropas de seda de aspecto formal, muy probablemente inspiradas o inspiradores de .
+
+## Miembros
+[[Hesho\|Hesho]], antiguo monarca absoluto
+[[Kauri\|Kauri]], portador del escudo de Hesho
+[[Aria\|Aria]], senadora.
+[[Aya\|Aya]], artillera
+[[Juno\|Juno]], cronista kitsen
+## Curiosidades
+Son presumiblemente, en el citoverso, el origen de los mitos .
+El nombre de los kitsen jóvenes se traduce como "cachorro", utilizando la misma palabra que se usa para referirse a los zorros y jerbos.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] ·  · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+
+
+
+https://es.coppermind.net/wiki/Kitsen

@@ -1,82 +1,119 @@
-|**<Shadows of Self>**|
+
+
+|**[[Aleaci%C3%B3n de ley\|<]]*Sombras de identidad*[[Brazales de Duelo (libro)\|>]]**|
 |-|-|
-|by  Chris McGrath |
-|**Mistborn Era 2**|
-|**Follows**|*The Alloy of Law*|
-|**Precedes**|*The Bands of Mourning *|
-|**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
-|**Released**|October 6, 2015|
-|**Publisher**||
+||
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|**Anterior**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
+|**Siguiente**|*[[Brazales de Duelo (libro)\|Brazales de Duelo (libro) ]]*|
+|**Localización**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
+|**Fecha original**|6 de octubre de 2015|
+|**Fecha española**|26 de octubre 2016|
+|**Editorial**||
+|**Editorial en español**||
 |**ISBN**|978-0-7653-7855-2|
-|**Page Count**|383|
-|**Word Count**|[[Shadows of Self/Statistical analysis\|110,019]]|
+|**ISBN español**|978-8466658850|
+|**Número de Páginas**|383 , 440 |
+|**Número de Palabras**||
 
-*Shadows of Self* is the second book set in [[Mistborn Era 2\|Mistborn Era 2]]. It was released on October 6 2015.
-An excerpt was released on  which involves preparation for [[Wax\|Wax]] and [[Steris\|Steris's]] wedding.
+***Sombras de identidad*** salió a la venta el 6 de octubre de 2015 en su versión original en inglés, y el 26 de octubre de 2016 en su traducción al español.
+En la  se ha publicado un extracto que incluye los preparativos de la boda de [[Wax\|Wax]] y [[Steris\|Steris]].
 
-## Contents
+## Sumario
 
-1 Synopsis
-2 Summary
-3 Development
-4 Awards
-5 Cover Gallery
-6 Interior Art
-7 Statistical Analysis
-8 Notes
-
-
-## Synopsis
->“
-\-With The Alloy of Law, Brandon Sanderson surprised readers with a New York Times bestselling spinoff of his Mistborn books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
-The trilogy’s heroes are now figures of myth and legend, even objects of religious veneration. They are succeeded by wonderful new characters, chief among them Waxillium Ladrian, known as Wax, hereditary Lord of House Ladrian but also, until recently, a lawman in the ungoverned frontier region known as the Roughs. There he worked with his eccentric but effective buddy, Wayne. They are “twinborn,” meaning they are able to use both Allomantic and Feruchemical magic.
-Shadows of Self shows Mistborn’s society evolving as technology and magic mix, the economy grows, democracy contends with corruption, and religion becomes a growing cultural force, with four faiths competing for converts.
-This bustling, optimistic, but still shaky society now faces its first instance of terrorism, crimes intended to stir up labor strife and religious conflict. Wax and Wayne, assisted by the lovely, brilliant Marasi, must unravel the conspiracy before civil strife stops Scadrial’s progress in its tracks.
-Shadows of Self will give fans of The Alloy of Law everything they’ve been hoping for and, this being a Brandon Sanderson book, more, much more.
+1 Sinopsis. [[#Sinopsis]] 
+2 Resumen. [[#Resumen]] 
+3 Desarrollo. [[#Desarrollo]] 
+4 Premios. [[#Premios]] 
+5 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
+6 Arte interior. [[#Arte interior]] 
+7 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
+8 Notas. [[#Notas]] 
 
 
-## Summary
-For a chapter-by-chapter summary, see [[Shadows of Self/Summary\|/Summary]].
-
-Wax is an inexperienced and naïve bounty hunter determined to make a difference in the [[Roughs\|Roughs]]. He is hunting [[Granite Joe\|Granite Joe]], with a teenage [[Wayne\|Wayne]] tagging along as his assistant. Wax runs into a woman named [[Lessie\|Lessie]] who is also trying for Granite Joe, and the two agree to team up and split the bounty. They find Granite Joe in the basement of a saloon and a fight occurs. It looks like Lessie is about to betray Wax, but she shoots Joe instead. They quickly hit it off and leave together.
-
-
-A year after the capture and execution of [[Miles Dagouter\|Miles Hundredlives]], Wax and Steris plan for their wedding. Wax works as a special constable. Wayne barges in and reports that an infamous thief has been spotted, and they give chase with [[Marasi\|Marasi]], who is also working in the constabulary, now as an assistant to Constable-General [[Claude Aradel\|Aradel]]. The criminal is known as the [[Marksman\|Marksman]] and has styled himself as a Robin Hood figure. They chase the Marksman into the slums and Wayne uses some clever disguises to hunt him down. The Marksman is captured but almost immediately killed by an assassin before the group can bring him in.
-They are called away to investigate another incident, this one the murder of the [[Winsting\|brother]] of the [[Replar Innate\|governor]] and a whole bunch of criminals and shady nobles in his home. It appears to be the work of a [[Feruchemy\|feruchemist]].
+## Sinopsis
+>“*Con *Aleación de la ley*, Brandon Sanderson sorprendió a los lectores con un spinoff de sus libros de Nacidos de la bruma, superventas del New York Times, ambientado después de los sucesos de la trilogía, en un periodo correspondiente a la América de finales del siglo XIX.*
+\-Los héroes de la trilogía son ahora figuras de la mitología y la leyenda, incluso objetos de veneración religiosa. Les suceden nuevos y maravillosos personajes, el principal de los cuales es Waxillium Ladrian, conocido como Wax, señor heredero de la casa Ladrian pero también, hasta hace poco, agente de la ley en la región fronteriza sin gobierno conocida como los Áridos. Allí trabajaba con su excéntrico pero eficaz compañero, Wayne. Son «nacidobles», lo que significa que son capaces de utilizar tanto la magia alomántica como la feruquímica.
+Sombras de identidad muestra la evolución de la sociedad de Nacidos de la bruma a medida que la tecnología y la magia se mezclan, la economía crece, la democracia se enfrenta a la corrupción y la religión se convierte en una fuerza cultural creciente, con cuatro credos que compiten por los conversos.
+Esta sociedad bulliciosa y optimista, pero aún tambaleante, se enfrenta ahora a su primer caso de terrorismo, unos crímenes que pretenden avivar las luchas laborales y los conflictos religiosos. Wax y Wayne, ayudados por la encantadora y brillante Marasi, deben desentrañar la conspiración antes de que el conflicto civil detenga el progreso de Scadrial.
 
 
-[[Elendel\|Elendel]] is in a state of unrest. Food prices and unemployment are high, the people are tired of the corruption in the noble-controlled government, and working conditions for those who are employed are poor and unsafe. An assassination attempt is made on the governor. [[Harmony\|Harmony]] talks directly to Wax through Wax's earring and asks for his help in finding [[Paalm\|Paalm]], a [[Kandra\|kandra]] who calls herself Bleeder and who is causing havoc in the city.
-Wax and the gang go to [[Lady ZoBell's party\|Lady ZoBell's party]] to try to find her. He starts hearing her voice in his head while he wears his earring. Paalm wants to "free" the people of the city from Harmony. He chases a man playing the part of a server, but loses him in the mists. He instead walks into an ambush of [[Set\|Set]] operatives, but he gets some help from [[MeLaan\|MeLaan]], a kandra who has been sent from Harmony to help him.
-As the evening progresses, more events stoke the unrest, threatening to throw the city into complete chaos. Paalm dresses as a [[Pathism\|Pathian]] priest and murders a [[Church of the Survivor\|Survivorist]] priest to sow religious discord. She makes an attempt on the governor’s life again, but Wax gives chase, and she escapes. He finds evidence that she’s been in the [[Kandra Homeland\|kandra Homeland]], so he goes there and meets [[TenSoon\|TenSoon]]. They are both attacked by savage beasts—people transformed into an unknown [[Hemalurgy\|hemalurgic]] construct. Wax figures that this was all a distraction and hurries back to try to protect the governor.
+## Resumen
+Para un resumen capítulo a capítulo, ver [[Sombras de identidad/Resumen\|/Resumen]].
+
+Wax es un inexperto e ingenuo cazarrecompensas decidido a marcar la diferencia en los Áridos. Va a la caza de [[Granito Joe\|Granito Joe]], con un [[Wayne\|Wayne]] adolescente que le acompaña como ayudante. Se cruza con una mujer llamada [[Lessie\|Lessie]] que también está tratando de atrapar a Granito Joe, y acuerdan hacer equipo y repartir la recompensa. Lo encuentran en el sótano de una taberna y se produce una pelea. Parece que Lessie está a punto de traicionarle, pero en su lugar dispara a Joe. Rápidamente congenian y se van juntos.
 
 
-The governor is preparing to speak to the mob gathered around the mansion, and Wax realizes that the governor is really Bleeder. Wayne had already figured that out, but had gotten captured. Bleeder flees the scene and Wax catches up to her on a bridge. She removes her mask and reveals the face of Lessie. Wax shoots her with a special bullet – a bullet forged from his earring – allowing Harmony to gain control over Paalm again. She chooses to die instead and reveals that she was Lessie all along. She had been sent by Harmony to watch over Wax. Wax is furious at Harmony for making him kill her a second time.
-Meanwhile, at the mansion, MeLaan’s attempt to impersonate the governor doesn’t go well, but Aradel arrests “the governor” for corruption, promising the crowd that more arrests of nobles will be made to clean up the corruption. The city is preserved and Aradel becomes interim governor.
+Un año después de la captura y ejecución de [[Miles Dagouter\|Miles Cienvidas]], Wax y Steris planean su boda. Wax trabaja como agente especial. Wayne irrumpe e informa de que se ha descubierto a un infame ladrón, y se lanzan a perseguirlo con [[Marasi\|Marasi]], que también trabaja ahora en la policía como ayudante del comisario [[Claude Aradel\|Aradel]]. El criminal es conocido como [[El Tirador\|el Tirador]] y se ha atribuido a sí mismo la figura de Robin Hood. Le persiguen hasta los barrios bajos y Wayne utiliza algunos disfraces ingeniosos para darle caza. Lo capturan, pero casi inmediatamente lo mata un asesino antes de que puedan atraparlo.
+Se les llama para que investiguen otro incidente, este es el asesinato del [[Winsting Innate\|hermano]] del [[Replar Innate\|gobernador]] y de todo un grupo de criminales y nobles sospechosos en su casa. Parece ser obra de un [[Feruquimia\|feruquímico]].
 
 
-Wax is in a deep depression. Only Steris can comfort him, offering no words, just a shoulder to cry on.
+[[Elendel\|Elendel]] se encuentra en estado de agitación. Los precios de los alimentos y el desempleo son elevados, el pueblo está cansado de la corrupción en el gobierno controlado por los nobles, y las condiciones de trabajo para los que tienen empleo son malas e inseguras. Se produce un intento de asesinato del gobernador. [[Armon%C3%ADa\|Armonía]] habla directamente con Wax a través de su pendiente y le pide ayuda para encontrar a [[Paalm\|Paalm]], una [[Kandra\|kandra]] que se hace llamar Sangradora y está causando estragos en la ciudad.
+Wax y la pandilla van a la fiesta de [[Lady ZoBell\|lady ZoBell]] para intentar encontrarla. Empieza a oír su voz en su cabeza mientras lleva su pendiente. Ella quiere "liberar" a la gente de la ciudad de Armonía. Persigue a un hombre que hace de camarero, pero lo pierde en las brumas. En su lugar, cae en una emboscada de los agentes del [[El Grupo\|Grupo]], pero recibe la ayuda de [[MeLaan\|MeLaan]], otra kandra que ha sido enviado por Armonía para ayudarle.
+A medida que avanza la noche, más acontecimientos avivan el malestar, amenazando con sumir a la ciudad en un completo caos. Paalm se disfraza de sacerdote [[El Camino\|caminante]] y asesina a un sacerdote [[Iglesia del Superviviente\|supervivencialista]] para sembrar la discordia religiosa. Vuelve a atentar contra la vida del gobernador, pero Wax la persigue y ella escapa. Encuentra pruebas de que ella ha estado en la [[Tierra Natal kandra\|Tierra Natal kandra]], así que va allí y se encuentra con [[TenSoon\|TenSoon]]. Ambos son atacados por bestias salvajes transformadas en criaturas [[Hemalurgia\|hemalúrgicas]] desconocidas. Wax se da cuenta de que todo ha sido una distracción y se apresura a volver para intentar proteger al gobernador.
 
-## Development
-Following completion of *The Alloy of Law* Brandon plotted out three more books following the same characters to finish the story, the first of which is *Shadows of Self*. Brandon wrote the first third or so of *Shadows of Self* in 2012 between drafts of *A Memory of Light* to keep from being burned out. The book was then shelved until the later half of 2014. He however had difficulty re-acquainting himself with the characters and story, which is a common problem for him when he stops work on a story part-way through. To remedy this he jumped ahead and wrote the sequel, *The Bands of Mourning*, before going back finishing *Shadows of Self*.
-Brandon has explained that the title "Shadows of Self" refers to the multiple roles a person occupies over the course of their life, as well as to the inclusion of a [[Kandra\|kandra]] character.
 
-## Awards
-Reddit Fantasy Stabby Award for Best Novel of 2015
-## Cover Gallery
-For the cover gallery for Shadows of Self, see [[Shadows of Self/Covers\|/Covers]].
-## Interior Art
-For a gallery of the book's interior art, see [[Shadows of Self/Interior art\|/Interior art]].
-## Statistical Analysis
-For a full statistical analysis, see [[Shadows of Self/Statistical analysis\|/Statistical analysis]].
-*Shadows of Self* consists of twenty-six chapters, one prologue, and one epilogue, reaching a total 110,019 word count. There are five different unique point-of-view characters in a total of 70 POVs.
+El gobernador se dispone a hablar a la multitud reunida en torno a la mansión, y Wax se da cuenta de que el gobernador es realmente Sangradora, algo de lo que Wayne ya se había dado cuenta, siendo capturado. Sangradora huye de la escena y Wax la alcanza en un puente. Ella se quita la máscara y revela el rostro de Lessie. Wax le dispara con una bala especial -una bala forjada a partir de su pendiente-, lo que permite a Armonía volver a controlar a Paalm. Ella prefiero morir a eso, y revela que ella era Lessie todo el tiempo. Había sido enviada por Armonía para vigilar a Wax. Él está furioso con Armonía por haberle obligado a matarla por segunda vez.
+Mientras tanto, en la mansión, el intento de MeLaan de hacerse pasar por el gobernador no sale bien, pero Aradel lo arresta a "él" por corrupción, prometiendo a la multitud arrestar a más nobles y limpiar la corrupción. La ciudad es salvada y Aradel se convierte en gobernador interino.
 
-|**Word Count**|110,019||
+
+Wax está sumido en una profunda depresión. Sólo Steris puede consolarle, sin ofrecerle palabras, sólo un hombro sobre el que llorar.
+
+## Desarrollo
+Tras la finalización de *[[Aleaci%C3%B3n de ley\|Aleación de ley]]* Brandon trazó tres libros más siguiendo a los mismos personajes para terminar la historia, el primero de los cuales es *Sombras de identidad*. Brandon escribió el primer tercio, más o menos, en 2012, entre los borradores de *[[Un recuerdo de luz\|Un recuerdo de luz]]* para no agotarse. El libro quedó entonces aparcado hasta la última mitad de 2014. Sin embargo, tuvo dificultades para volver a familiarizarse con los personajes y la historia, un problema habitual para él cuando deja de trabajar en una historia a medias. Para remediarlo, se adelantó y escribió la secuela, *[[Brazales de Duelo (libro)\|Brazales de Duelo]]*, antes de volver a terminar *Sombras de identidad*.
+Brandon ha explicado que el título "Sombras de identidad" hace referencia a los múltiples roles que una persona ocupa a lo largo de su vida, así como a la inclusión de un personaje [[Kandra\|kandra]].
+
+## Premios
+Reddit Fantasy Stabby Award por Mejor Novela de 2015 
+## Galería de portadas
+Para la galería de portadas de *Sombras de identidad*, ver [[Sombras de identidad/Portadas\|/Portadas]].
+## Arte interior
+Para una galería del arte interior del libro, ver [[Sombras de identidad/Arte interior\|/Arte interior]].
+## Análisis estadístico
+Para un análisis estadístico completo, ver [[Sombras de identidad/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
+*Sombras de identidad* consta de veintiséis capítulos, un prólogo y un epílogo, alcanzando un total de 110.019 palabras. Hay cinco personajes diferentes con punto de vista único en un total de 70 PdV.
+
+|**Conteo de palabras**|110,019|En su versión original en inglés|
 |-|-|
-|**Page Count**|383|Tor hardback|
-|**Chapter Count**|26|Including prologue and epilogue.|
-|**PoV Characters**|5||
-|**PoV Count**|70||
+|**Conteo de páginas**|383 , 440 |Tor tapa dura, NOVA|
+|**Conteo de capítulos**|26|Incluyendo prólogo y epílogo.|
+|**Personajes con PdV**|5||
+|**Conteo de PdV**|70||
+
+## Notas
+
+A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] ·  · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
+|-|-|
+|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] ·  · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
+|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
+|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
+|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
+|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
+|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
+|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
 
 
 
-https://coppermind.net/wiki/Shadows_of_Self
+https://es.coppermind.net/wiki/Shadows_of_Self

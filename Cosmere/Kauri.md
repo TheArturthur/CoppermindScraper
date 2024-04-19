@@ -1,24 +1,39 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kauri**|
 |-|-|
-|**Titles**|Shield Bearer of the [[Hesho\|Unexalted One]]|
-|**Profession**|Starship navigator|
-|**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
-|**Species**|[[Kitsen\|Kitsen]]|
-|**Homeworld**|[[Evershore (planet)\|Evershore]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Títulos**|Escudera de su [[Hesho\|ineminencia]]|
+|**Oficio**|Navegante estelar|
+|**Grupo**|[[El %C3%9Altimo Beso de las Flores Nocturnas\|El Último Beso de las Flores Nocturnas]]|
+|**Especie**|[[Kitsen\|Kitsen]]|
+|**Mundo natal**||
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Starsight*, *Cytonic*, *Evershore*, and *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-**Kauri** is a [[Kitsen\|kitsen]] who travels to [[Starsight (station)\|Starsight]] under the leadership of [[Hesho\|Hesho]] and acts as his shieldbearer and navigator.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]*, *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-## Appearance and Personality
-For more information, see [[Kitsen\|kitsen]].
-Kauri wears a red and gold uniform and carries an ornamental shield. This shield is a physical symbol of her duty as [[Hesho\|Hesho's]] shieldbearer. The duties and responsibilities of such a post are not made clear but it seems that shieldbearers serve as personal assistants, providing information and fulfilling menial tasks. She also is tasked with piloting a small hoverplatform that the kitsen of the *Gaualako-An* use as transport outside of their ship.
-Kauri is the navigator of the *Gaualako-An*. Though her duties as a navigator are not clear, she is often tasked with explaining details about the universe in Hesho's stead. Consequently, she is knowledgeable, skilled at explaining, and generally helpful.
+**Kauri** es una [[Kitsen\|kitsen]] que viaja a [[Visi%C3%B3n Estelar\|Visión Estelar]] bajo el liderazgo de [[Hesho\|Hesho]] y actúa como su escudera y navegante.
 
-## History
-Before coming to Starsight, Kauri worked as Hesho's navigator on the *Gaualako-An*. After arrival and after being accepted as a trainee, she changed ships to work again as Hesho's navigator on the *Swims Against the Current in a Stream Reflecting the Sun*, also known as the *Swims Upstream*. Kauri later takes control of the *Swims Upstream* after Hesho's death.
+## Apariencia y personalidad
+Para más información, ver [[Kitsen\|kitsen]].
+Kauri viste un uniforme rojo y dorado y porta un escudo ornamental. Este escudo es un símbolo físico de su deber como escudera de [[Hesho\|Hesho]]. Los deberes y responsabilidades de tal cargo no están claros, pero parece que sirven como asistentes personales, proporcionando información y cumpliendo con tareas menores. También es la encargada de pilotar una pequeña plataforma aerodeslizadora que los kitsen del *[[Gaualako-An\|Gaualako-An]]'* utilizan como transporte fuera de su nave.
+Kauri es la navegante del *Gaualako-An*. Aunque sus deberes como navegante no están claros, a menudo se le encarga explicar detalles sobre el universo en sustitución de Hesho. Por lo tanto, es una gran conocedora, experta en explicaciones y, en general, de gran ayuda.
+
+## Historia
+Antes de llegar a Visión Estelar, Kauri trabajó como navegante de Hesho en el *Gaualako-An*. Tras su llegada y después de ser aceptada como aprendiz, cambió de nave para trabajar de nuevo como navegante de Hesho en nada *[[Nada a Contracorriente en un Arroyo que Refleja el Sol\|Nada a Contracorriente en un Arroyo que Refleja el Sol]]'*, también conocido como *Nada a Contracorriente*. Kauri toma más tarde el control de la *Nada a Contracorriente* tras la muerte de Hesho.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Kauri
+https://es.coppermind.net/wiki/Kauri

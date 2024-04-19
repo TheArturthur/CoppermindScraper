@@ -1,26 +1,26 @@
 |**State**|
 |-|-|
-|**Universe**|[[Wode\|Wode]] |
+|**Universo**|[[Wode\|Wode]] |
 
 The **States** are a vast collection of simulated worlds in which [[Liveborn\|Liveborn]] and [[Machineborn\|Machineborn]] live in. The States are administered by the [[Wode\|Wode]], though they are hackable by Liveborn who know what they are doing.
 
-## Contents
+## Sumario
 
-1 Classification
+1 Classification. [[#Classification]] 
 
-1.1 Type
+1. [[#Type]] 
 
-1.1.1 Personal States
-1.1.2 Border States
-1.1.3 Communal States
-
-
-1.2 Setting
+1. [[#Personal States]] 
+1. [[#Border States]] 
+1. [[#Communal States]] 
 
 
-2 Compatibility
-3 Travel
-4 Notes
+1. [[#Setting]] 
+
+
+2 Compatibility. [[#Compatibility]] 
+3 Travel. [[#Travel]] 
+4 Notes. [[#Notes]] 
 
 
 ## Classification
@@ -50,6 +50,16 @@ States often reject things that are not compatible with the Setting or Type. Exa
 ## Travel
 The States are made to allow relatively easy travel for Liveborn. Machineborn, however, are more restricted. Machineborn must remain in the Personal State they originate from, or any Border States that connect to said Personal State. They cannot travel to Communal States, however, without risking the loss of their personality and history. Machineborn who do travel to Communal States have their programming merged with the Communal State, giving them a new life, memories, and backstory, essentially killing their old self.
 
+## Notes
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Chaos2651 (talk) 16:11, 5 June 2017 (MST)
+|**[[Perfect State\|Perfect State]]**|
+|-|-|
+|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
+|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
+|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · |
 
 
-https://coppermind.net/wiki/State
+
+https://es.coppermind.net/wiki/State

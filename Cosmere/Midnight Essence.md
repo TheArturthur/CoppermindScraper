@@ -1,39 +1,54 @@
-|**Midnight Essence**|
+
+
+|**Esencia de Medianoche**|
 |-|-|
-|by  Howard Lyon |
-|**Type**|Spren, [[Aether\|Aether]]|
-|**Abilities**|[[Splinter\|Splinter]], Shapeshifting|
-|**Universe**|[[Cosmere\|Cosmere]]|
+||
+|**Tipo**|Spren, [[%C3%89ter\|éter]]|
+|**Capacidades**|[[Astilla\|Astilla]], cambio de forma|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Tress of the Emerald Sea*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-**Midnight Essence** is a substance that appears throughout the cosmere, most notably connected to [[Aether\|midnight aether]] and [[Re-Shephir\|Re-Shephir]]. Midnight Essence has not been shown to exist without some degree of sentience or possession through a [[Luhel bond\|Luhel bond]], and therefore can be considered both a substance and a creature. However, whether or not it is truly sentient is questioned.
-It is associated with Re-Shephir, as the substance she uses to make her creatures. The ancient [[Knights Radiant\|Radiants]] considered them one of the [[Ten Deaths\|Ten Deaths]]. [[Dalinar Kholin\|Dalinar Kholin]] experienced them in one of his visions, while [[Shallan Davar\|Shallan Davar]], [[Adolin Kholin\|Adolin Kholin]], and members of [[Bridge Four\|Bridge Four]] had to deal with them while fighting Re-Shephir in Urithiru.
-On [[Lumar\|Lumar]], Midnight Essence is used by a variety of characters, and is more widely available, with the commonly accessible method of synthesis involving placing water onto midnight spores.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-## Contents
+La **Esencia de Medianoche** es una sustancia que aparece en todo el Cosmere, sobre todo relacionada con [[%C3%89ter\|éter de medianoche]] y [[Re-Shephir\|Re-Shephir]]. No se ha demostrado que la Esencia de Medianoche exista sin algún grado de sensibilidad o posesión a través de un [[V%C3%ADnculo Luhel\|vínculo Luhel]], y, por lo tanto, puede ser considerada tanto una sustancia como una criatura. Sin embargo, se cuestiona si es o no realmente consciente.
+Se asocia con Re-Shephir, como la sustancia que utiliza para hacer sus crituras.. Los antiguos [[Caballeros Radiantes\|Radiantes]] los consideraban una de las [[Diez Muertes\|Diez Muertes]]. [[Dalinar Kholin\|Dalinar Kholin]] las experimentó en una de sus visiones, mientras que [[Shallan Davar\|Shallan Davar]], [[Adolin Kholin\|Adolin Kholin]] y los miembros del [[Puente Cuatro\|Puente Cuatro]] tuvieron que enfrentarse a ellas mientras luchaban contra Re-Shephir en Urithiru.
+En [[Lumar\|Lumar]], la Esencia de Medianoche es utilizada por una variedad de personajes, y está más ampliamente disponible, con el método comúnmente accesible de síntesis que implica la colocación de agua sobre las esporas de medianoche.
 
-1 Nature
-2 Appearance & Behavior
-3 Abilities
-4 Notes
+## Sumario
 
-
-## Nature
-Midnight Essence is a black, viscous, bubbling liquid that imitates a nearby creature. It normally involves some level of corruption to Investiture. All Midnight Essence created exhibits some form of mind, and Midnight Essence may be an example of concentrated Investiture granting sentience. However, even [[Hoid\|Hoid]] cannot determine whether Midnight Essence is truly alive. Midnight Essence can be controlled through a [[Luhel bond\|Luhel bond]], giving the bonder the ability to manipulate the Essence's movement and actions, and, if enough control is exerted, dissipate it at will. The Luhel bond involves a form of trade with the sentient Midnight Essence, relinquishing something it wants (water in the case of Lumarian Essence) in exchange for control over the entity. The summoned essence responds to the bonder's [[Intention\|Intention]] and thus can be controlled or bonded without visible or audible communication.
-
-## Appearance & Behavior
- by  Ben McSweeney  Shallan's drawing of Midnight Essence
-Midnight Essence is smooth, slick, black, and reflective. Due to its ability of mimicry, it can appear in a variety of shapes, and generally imitates what it sees around it, oft shaped through the lens of the mind they are bound to. The Midnight Essence creatures created by Re-Shephir in Urithiru were humanoid, mimicking the appearance of people in the tower. However, they can also change shape at will, being able to squeeze themselves into a hole and wriggle away to escape pursuit. Some Midnight Essence creatures on Lumar exhibit these same characteristics, with [[Tress\|Tress's]] Midnight Essence mimicking a nearby rat, and sliding underneath a gap between a door and the ship deck with ease, despite being far larger than said gap.
-Some Midnight Essence creatures, however, appear in shapes unrelated to mimicry. In Dalinar's vision, they had six extremely thin legs that were bent at the sides with clawed paws. Their bodies seem almost fluid, with long and flexible necks and sharp teeth that appeared like knives. They also give off a putrid smell. Additionally, the Midnight Essence creatures found in the [[Midnight Sea\|Midnight Sea]] look like large sea serpents, though it is unclear whether this is a result of them mimicking some form of deep ocean life, or if they are manipulated to appear this way, similar to the creatures from Dalinar's vision.
-The Midnight Essence in Dalinar's vision had no eyes. It hunted by smell, and made a soft wheezing whispering sound when hunting for a scent. Its body was soft, and gave a little when it was struck. When the skin was pierced, the Midnight Essence bled smoke. If the Essence was damaged enough, its entire body would deflate with a hissing sound, leaving behind a skin that looked like a sack of black silk. The Midnight Essence's mouth was a weak point on its body.
-Midnight Essence can be fairly clever as well, wary when facing a skilled or determined opponent. However, this may be a result of manipulation through the wielder of the Luhel bond.
-Midnight Essence in all forms seems to have some form of rudimentary intelligence, able to impose basic notions onto the minds of those they bond with. They are also capable of following commands given to them, without having to be actively controlled by the user. But it is unclear if it is ever truly self-aware beyond its voracious thirst.
-
-## Abilities
-The claws of the Midnight Essence in Dalinar's vision were powerful enough to seriously damage [[Shardplate\|Shardplate]]. It was quite strong, able to burst right through the wall of a barn. As it hunted by smell, it could track people in the darkest night. They also often hunted as a pack. The Essence was seemingly impervious to fire. They were also swift, both while running and while fighting. While the Midnight Essence may be released directly by Re-Shephir, it also may be extracted from her to be used independently and released elsewhere.
-It is possible for a user of the midnight aether to become too absorbed into their creation, therefore losing control of their body and seeing through the eyes of their creation, and controlling it as their own body. This appears to have some degree of psychological effects upon the user, making their thoughts and behavior come more in line with what the creation is imitating. This can be dangerous as, when possessing the Essence, one loses awareness of the state of their actual body, therefore they can easily die from dehydration.
+1 Naturaleza. [[#Naturaleza]] 
+2 Apariencia y comportamiento. [[#Apariencia y comportamiento]] 
+3 Habilidades. [[#Habilidades]] 
+4 Notas. [[#Notas]] 
 
 
+## Naturaleza
+La Esencia de Medianoche es un líquido negro, viscoso y burbujeante que imita a una criatura cercana. Normalmente implica cierto nivel de corrupción de la Investidura. Toda Esencia de Medianoche creada muestra alguna forma de mente, y puede ser un ejemplo de Investidura concentrada que otorga sensibilidad. Sin embargo, ni siquiera [[Hoid\|Hoid]] puede determinar si la Esencia de Medianoche está realmente viva. Puede controlarse a través de un [[V%C3%ADnculo Luhel\|vínculo Luhel]], que otorga al creador la capacidad de manipular el movimiento y las acciones de la Esencia y, si se ejerce suficiente control, disiparla a voluntad. El vínculo Luhel implica una forma de intercambio con la Esencia de Medianoche, renunciando a algo que quiere (agua en el caso de la Esencia de Lumar) a cambio del control sobre la entidad. La esencia convocada responde a la [[Intenci%C3%B3n\|Intención]] del convocador y, por lo tanto, puede ser controlada o vinculada sin comunicación visible o audible.
 
-https://coppermind.net/wiki/Midnight_Essence
+## Apariencia y comportamiento
+  Shallan dibujando la Esencia de Medianoche
+La Esencia de Medianoche es suave, resbaladiza, negra y reflectante. Debido a su capacidad de mimetismo, puede aparecer en una variedad de formas, y por lo general imita lo que ve a su alrededor, a menudo tomando forma a través de la lente de la mente a la que están vinculados. Las criaturas de la Esencia de Medianoche creadas por Re-Shephir en Urithiru eran humanoides, imitando la apariencia de la gente de la torre. Sin embargo, también pueden cambiar de forma a voluntad, pudiendo meterse en un agujero y escurrirse para escapar de su persecución. Algunas criaturas de la Esencia de Medianoche en Lumar exhiben estas mismas características, con la Esencia de Medianoche de [[Trenza\|Trenza]] imitando a una rata cercana, y deslizándose por debajo de un hueco entre una puerta y la cubierta del barco con facilidad, a pesar de ser mucho más grande que dicho hueco.
+Sin embargo, algunas criaturas de la Esencia de Medianoche aparecen con formas no relacionadas -con el mimetismo. En la visión de Dalinar, tenían seis patas extremadamente delgadas dobladas a los lados y con garras. Sus cuerpos parecían casi fluidos, con cuellos largos y flexibles y dientes afilados que parecían cuchillos. También desprenden un olor pútrido. Además, las criaturas de la Esencia de Medianoche que se encuentran en el [[Mar de Medianoche\|mar de Medianoche]] parecen grandes serpientes marinas, aunque no está claro si esto se debe a que imitan alguna forma de vida de las profundidades oceánicas, o si están manipuladas para parecerlo, de forma similar a las criaturas de la visión de Dalinar.
+La Esencia de Medianoche en la visión de Dalinar no tenía ojos. Cazaba por el olfato, y emitía un suave susurro cuando buscaba un aroma. Su cuerpo era blando y cedía un poco al ser golpeado. Cuando la piel era perforada, la Esencia de Medianoche sangraba humo. Si la Esencia se dañaba lo suficiente, todo su cuerpo se desinflaba con un siseo, dejando tras de sí una piel que parecía un saco de seda negra. La boca de la Esencia de Medianoche era un punto débil de su cuerpo.
+La Esencia de Medianoche también puede ser bastante astuta, recelosa cuando se enfrenta a un oponente hábil o decidido. Sin embargo, esto puede ser el resultado de la manipulación a través del portador del vínculo Luhel.
+La Esencia de Medianoche en todas sus formas parece tener algún tipo de inteligencia rudimentaria, capaz de imponer nociones básicas en las mentes de aquellos con los que se vincula. También son capaces de seguir los Mandatos que se les dan, sin tener que ser controlados activamente por el usuario. Pero no está claro si es realmente consciente de sí misma más allá de su sed voraz.
+
+## Habilidades
+Las garras de la Esencia de Medianoche de la visión de Dalinar son lo suficientemente fuertes como para dañar seriamente una [[Armadura esquirlada\|armadura esquirlada]]. Poseen una fuerza considerable, capaces de atravesar la pared de un granero. Como cazan guiándose por el olfato, son capaces de rastrear a las personas durante las noches más oscuras. En muchas ocasiones solían cazar en manada. La Esencia parece inmune al fuego. También son rápidas, cuando corren y cuando pelean. Si bien la Esencia de Medianoche puede ser liberada directamente por Re-Shephir, también puede extraerse de ella para usarse de forma independiente y ser liberada en otro lugar.
+Es posible que un usuario del éter de medianoche se sumerja demasiado en su creación, perdiendo así el control de su cuerpo y viendo a través de los ojos de su creación, y controlándola como si fuera su propio cuerpo. Esto parece tener un cierto grado de efectos psicológicos sobre el usuario, haciendo que sus pensamientos y su comportamiento estén más en línea con lo que la creación está imitando. Esto puede ser peligroso, ya que, cuando se posee la Esencia, uno pierde la conciencia del estado de su cuerpo real, por lo tanto, pueden morir fácilmente de deshidratación.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+
+
+
+https://es.coppermind.net/wiki/Midnight_Essence

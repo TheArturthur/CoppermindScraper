@@ -1,16 +1,28 @@
 |**DaiKeen**|
 |-|-|
-|**World of Origin**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-This page or section needs to be updated with new information for *White Sand*!Be aware that in its current state, it may not include all additional content yet.
+|**Mundo de origen**|[[Taldain\|Taldain]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-A **DaiKeen** is a [[Kerztian\|Kerztian]] economic and social grouping similar to the Professions in [[Lossand\|Lossand]]. Members of a  indicate which one they belong to with symbols or markings at their foreheads.
+A **DaiKeen** is a  economic and social grouping similar to the Professions in [[Lossand\|Lossand]]. Members of a  indicate which one they belong to with symbols or markings at their foreheads.
 
 ## The DaiKeenin
 
 
 
 
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · |
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
 
 
-https://coppermind.net/wiki/Daikeen
+
+https://es.coppermind.net/wiki/Daikeen

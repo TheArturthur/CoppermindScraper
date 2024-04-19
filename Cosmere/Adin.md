@@ -1,48 +1,69 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Adin**|
 |-|-|
-|**Family**|
-|**Parents**|[[Alalan\|Alalan]]|
-|**Residence**|[[Urithiru\|Urithiru]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Rhythm of War*|
+|**Familia**|
+|**Padres**|[[Alalan\|Alalan]]|
+|**Residencia**|[[Urithiru\|Urithiru]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
-**Adin** is a [[Darkeyed\|darkeyed]] boy living in [[Urithiru\|Urithiru]] on [[Roshar\|Roshar]].
+**Adin** es un chico [[Ojos oscuros\|ojos oscuros]] que vive en [[Urithiru\|Urithiru]] en [[Roshar\|Roshar]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
-3 Relationships
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
 
-3.1 Alalan
-3.2 Kaladin
-3.3 Shar
-3.4 Master Liganor
-
-
-4 Notes
+3. [[#Alalan]] 
+3. [[#Kaladin]] 
+3. [[#Shar]] 
+3. [[#Maese Liganor]] 
 
 
-## Appearance and Personality
-Adin is a thirteen-year-old darkeyed boy. He is very brave, risking his life in the fight to escape Urithiru. He hopes that his bravery will attract an [[Honorspren\|honorspren]] and allow him to join the [[Windrunners\|Windrunners]]. This belief caused him to glare at passing [[Regals\|Regals]] during the occupation of Urithiru, though not when they were watching. He is relieved when he can walk without a limp after hurting his ankle, as he believes that a sign of weakness might scare off a potential radiant bond.
+4 Notas. [[#Notas]] 
 
-## History
-Adin was a resident of [[Urithiru\|Urithiru]] during the [[True Desolation\|True Desolation]]. He worked for his father, a potter named [[Alalan\|Alalan]], though the bowls he made were often lopsided. Sometime before [[Raboniel\|Raboniel's]] invasion of the tower, he fell down the stairs while pretending to be a [[Windrunner\|Windrunner]], after which [[Kaladin\|Kaladin]] bandaged his ankle and told him to walk with a crutch. His ankle got better later on, so when his father wanted to watch a battle in Urithitu, Adin followed to help and earn his own spren. When the humans protected the fallen Radiants, Adin first tried to hide and only joined the fight later on when his father was already wounded. During the battle, Adin feared for his life, but both he and his father survived as they were saved by Dabbid and Kaladin, who had just earned his [[Shardplate\|Shardplate]].
 
-## Relationships
+## Apariencia y personalidad
+Adin es un chico ojos oscuros de trece años. Es muy valiente y arriesga su vida en la lucha por escapar de Urithiru. Espera que su valentía atraiga a un [[Honorspren\|honorspren]] y le permita unirse a los [[Corredores del Viento\|Corredores del Viento]]. Esta creencia le llevó a mirar de reojo a los [[Regio\|Regios]] que pasaban por allí durante la ocupación de Urithiru, aunque no cuando le observaban. Se siente aliviado cuando puede caminar sin cojear después de lastimarse el tobillo, ya que cree que un signo de debilidad podría ahuyentar a un potencial vínculo radiante.
+
+## Historia
+Adin era un residente de [[Urithiru\|Urithiru]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Trabajaba para su padre, un alfarero llamado [[Alalan\|Alalan]], aunque los cuencos que hacía solían estar torcidos. En algún momento antes de la invasión de la torre por [[Rabeniel\|Rabeniel]], se cayó por las escaleras mientras fingía ser un [[Corredor del Viento\|Corredor del Viento]], tras lo cual [[Kaladin\|Kaladin]] le vendó el tobillo. Su tobillo mejoró más adelante, así que cuando su padre quiso ver una batalla en Urithitu, Adin lo siguió para ayudarlo y ganarse su propio spren. Cuando los humanos protegieron a los Radiantes caidos, al principio, Adin intentó esconderse y sólo se unió a la lucha más tarde, cuando su padre ya estaba herido. Durante la batalla, Adin temió por su vida, pero tanto él como su padre sobrevivieron ya que fueron salvados por Dabbid y Kaladin, que acababa de obtener su [[Armadura esquirlada\|armadura esquirlada]].
+
+## Relaciones
 ### Alalan
-Adin's father. When Alalan catches Adin glaring at the [[Regals\|Regals]], he warns him to keep his eyes down, lest he is caught and killed. Adin views his father as extremely brave for tending the fallen radiants directly beneath the gaze of the [[Fused\|Fused]].
+El padre de Adin. Cuando Alalan sorprende a Adin mirando a los [[Regio\|Regios]], le advierte que mantenga la mirada baja, no sea que lo atrapen y lo maten. Adin considera a su padre extremadamente valiente por atender a los Radiantes caídos directamente bajo la mirada de los [[Fusionado\|Fusionados]].
 
 ### Kaladin
-Adin respects and reveres [[Kaladin\|Kaladin]], viewing him with a sense of awe. He is embarrassed that he missed seeing Kaladin fight for the well node, an event that he napped through.
+Adin respeta y reverencia a [[Kaladin\|Kaladin]], y lo ve con una sensación de asombro. Se siente avergonzado por no haber podido ver a Kaladin luchar por el nodo del pozo, un acontecimiento durante el cual estuvo durmiendo la siesta.
 
 ### Shar
-[[Shar\|Shar]] is the daughter of a seamstress in Urithiru which Adin doesn't particularly like. According to him, she is bossy enough that one would think she is lighteyed. Her uncle is a Windrunner. When Adin catches her glaring at [[Regals\|Regals]] he thinks that she is trying to attract her own [[Honorspren\|honorspren]].
+[[Shar\|Shar]] es una compañera de Urithiru que a Adin no le gusta especialmente. Piensa que es lo suficientemente mandona como para pensar que es ojos claros. Su tío es un Corredor del Viento. Cuando Adin la ve mirando a los [[Regio\|Regios]], piensa que está intentando atraer a su propio [[Honorspren\|honorspren]].
 
-### Master Liganor
-Master Liganor is the lighteyed owner of the pottery Adin's father is working at. Adin thinks he is nice and appreciates the bravery of keeping the shop open during the occupation, though he did close the shop when a fight broke out.
+### Maese Liganor
+Maese Liganor es el dueño ojos claros de la alfarería en la que trabaja el padre de Adin. Adin piensa que el es bueno y aprecia la valentía de mantener abierta la tienda durante la ocupación, aunque cerró la tienda cuando estalló una pelea.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Adin
+https://es.coppermind.net/wiki/Adin

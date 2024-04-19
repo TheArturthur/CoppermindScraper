@@ -1,54 +1,53 @@
 |**Bastille**|
 |-|-|
-|by  Hayley Lazo |
-|**House Dartmoor**|
-|**Spouse**|[[Alcatraz Smedry\|Alcatraz Smedry]]|
-|**Parents**|[[Brig Dartmoor\|Brig Dartmoor]], [[Draulin\|Draulin]]|
-|**Siblings**|[[Angola Dartmoor\|Angola]], [[Rikers Dartmoor\|Rikers]]|
-|**Abilities**|[[Crystin\|Crystin]] Knight, princess of [[Nalhalla\|Nalhalla]]|
-|**Nationality**|[[Nalhallan\|Nalhallan]]|
-|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
-|**First Appeared**|*Alcatraz Versus the Evil Librarians*|
+||
+|****|
+|**Cónyuge**|[[Alcatraz Smedry\|Alcatraz Smedry]]|
+|**Padres**|[[Brig Dartmoor\|Brig Dartmoor]], [[Draulin\|Draulin]]|
+|**Hermanos**|[[Angola Dartmoor\|Angola]], [[Rikers Dartmoor\|Rikers]]|
+|**Capacidades**|Caballero [[Cr%C3%ADstin\|Crístin]], princess of [[Nalhalla\|Nalhalla]]|
+|**Nacionalidad**||
+|**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
 
-This page or section needs to be updated with new information for *Bastille Versus the Evil Librarians*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Someone gave me a pink dress once. I burned it.*”
 \-Bastille[2]
 
 
-**Bastille Vianitelle Dartmoor the Ninth** is a knight of [[Crystallia\|Crystallia]] and princess of [[Nalhalla\|Nalhalla]].
+**Bastille Vianitelle Dartmoor the Ninth** is a knight of  and princess of [[Nalhalla\|Nalhalla]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3.1 Foray into the Hushlands
-
-
-4 Relationships
-
-4.1 Alcatraz Smedry
-4.2 Draulin
-4.3 Archedis
+3. [[#Foray into the Hushlands]] 
 
 
-5 Trivia
-6 Notes
+4 Relationships. [[#Relationships]] 
+
+4. [[#Alcatraz Smedry]] 
+4. [[#Draulin]] 
+4. [[#Archedis]] 
+
+
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
- by  akolnoix 
-For more images, see [[Bastille/Gallery\|/Gallery]].
-Bastille has long silver hair and typically wears [[Warrior's Lenses\|Warrior's Lenses]] and a glassweave uniform. [[Alcatraz\|Alcatraz]] notes that her hair is naturally red, like that of her father and elder brother.
+ 
+Para more images, ver .
+Bastille has long silver hair and typically wears  and a glassweave uniform. [[Alcatraz\|Alcatraz]] notes that her hair is naturally red, like that of her father and elder brother.
 Bastille is short-tempered and rather prone to violence. She tends to act as the voice of reason because she spends most of her time surrounded by reckless Smedrys, but she has her fair share of impulsivity and is extremely brave. She is also a bit insecure because of her parents' high standards and often doubts her own worth as a Crystin, though she projects an aura of confidence. She dislikes sharing personal information.
 
 ## Attributes and Abilities
-As a Knight of Crystallia, Bastille has a [[Fleshstone\|fleshstone]] which grants her enhanced physical abilities and connects her to the other Crystin. She is trained to fight with a sword and dagger. She can use Warrior's Lenses, and has extensive knowledge of [[Oculator\|Oculatory]] Lenses.
+As a Knight of Crystallia, Bastille has a  which grants her enhanced physical abilities and connects her to the other Crystin. She is trained to fight with a sword and dagger. She can use Warrior's Lenses, and has extensive knowledge of  Lenses.
 
 ## History
-When she was young, Bastille wanted to be an [[Oculator\|Oculator]] and studied different types of Lenses. She eventually accepted that she could not be an Oculator and began training to be a Crystin like her mother. She excelled in her training and completed it at a young age. In a move maneuvered by [[Archedis\|Archedis]], she was assigned as [[Leavenworth Smedry\|Leavenworth Smedry]]’s personal Knight, because Archedis wanted a greater chance of Grandpa Smedry dying.
+When she was young, Bastille wanted to be an  and studied different types of Lenses. She eventually accepted that she could not be an Oculator and began training to be a Crystin like her mother. She excelled in her training and completed it at a young age. In a move maneuvered by [[Archedis\|Archedis]], she was assigned as [[Leavenworth Smedry\|Leavenworth Smedry]]’s personal Knight, because Archedis wanted a greater chance of Grandpa Smedry dying.
 
 ### Foray into the Hushlands
 >“*Another Smedry? I have to protect four of you now?*”
@@ -86,6 +85,14 @@ Archedis voted to promote Bastille to a full Knight in order to use her in a plo
 
 ## Trivia
 Her name is a reference to the  fortress in France being used as a prison.
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
+|-|-|
+|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] ·  · [[Leavenworth Smedry\|Leavenworth Smedry]] · [[Shasta Smedry\|Shasta Smedry]] · [[Attica Smedry\|Attica Smedry]]|
+|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
 
 
-https://coppermind.net/wiki/Bastille
+
+https://es.coppermind.net/wiki/Bastille

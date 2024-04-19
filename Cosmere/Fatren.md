@@ -1,51 +1,73 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Fatren**|
 |-|-|
-|**Family**|
-|**Siblings**|[[Druffel\|Druffel]]|
-|**Aliases**|Fats|
-|**Residence**|[[Vetitan\|Vetitan]]|
-|**Ethnicity**|[[Skaa\|Skaa]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Hermanos**|[[Druffel\|Druffel]]|
+|**Apodos**|Fats|
+|**Residencia**|[[Vetitan\|Vetitan]]|
+|**Etnia**|[[Skaa\|Skaa]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Fatren** is a [[Skaa\|skaa]] from [[Vetitan\|Vetitan]] on [[Scadrial\|Scadrial]]. After the [[Collapse\|Collapse]], he organized his home town's citizens. He becomes a lord under Emperor [[Elend Venture\|Elend Venture]]. He thinks he "isn't much to look at" after the stress of months leading his city.
+**Fatren** es un [[Skaa\|skaa]] de [[Vetitan\|Vetitan]] en [[Scadrial\|Scadrial]]. Tras el [[Colapso\|Colapso]], organizó a los ciudadanos de su pueblo. Se convierte en un lord bajo el mando del emperador [[Elend Venture\|Elend Venture]]. Piensa que "no vale mucho la pena" tras el estrés de meses liderando su ciudad.
 
-## Contents
+## Sumario
 
-1 History
-2 Relationships
+1 Historia. [[#Historia]] 
+2 Relaciones. [[#Relaciones]] 
 
-2.1 Elend Venture
-2.2 Druffel
-
-
-3 Trivia
-4 Notes
+2. [[#Elend Venture]] 
+2. [[#Druffel]] 
 
 
-## History
-After the Collapse, the lords of Vetitan left the town. Fatren convinced the other skaa to keep working. He also held the press gangs away from Vetitan, frequently paying crops in bribes not to lose men capable to work in the armies. He managed to gather two thousand soldiers, a thousand of which were unable to fight well. The other thousand had very little training. It was difficult to gather even this amount of soldiers from Vetitan's small population. [[Druffel\|Druffel]] had the idea to build a bulwark around the city. It took a lot of work, and two years after the Collapse they had barely finished when an army of ten thousand [[Koloss\|koloss]] came toward the city.
-Three months ago, the koloss had destroyed the city of [[Garthwood\|Garthwood]]. The city was bigger than Vetitan, but fewer than a hundred people survived the attack and came to Vetitan. Now, the army was coming toward Vetitan. But before the attack came, Elend Venture arrived at the town. At fist, Fatren didn't believe that Elend was who he claimed to be. Elend claimed Fatren had asked him for help, so that Fatren would be able to claim that this had been his plan all along. Elend promised to help them fight the koloss if they accepted him as their emperor and Fatren swore fealty to him. He made Fatren into a lord and told him to later pick a family name.
-Elend led Fatren's soldiers in an assault on the koloss, while they weren't in a blood frenzy, because the bulwark would have been useless against the koloss. In the following battle, Elend took control over the koloss and saved most of Vetitan's people. Later, [[Vin\|Vin]] Elend and Fatren inspected the [[Storage cavern\|storage cavern]] in Vetitan. After discovering the cache, Fatren said that Elend had come here to rob him, like bandits. Elend replied that if Fatren kept the food, when the secret got out, thousands of refugees would come to the city, and bandits would follow. So, Fatren agreed to give up the food supply.
-The people of Vetitan came with Elend's army, and Elend exposed them to the mists, because they would have had to expose themselves eventually. Fatren was sad after they did this, but he knew it was the only way. When Elend and his convoy met another part of his army, led by General [[Demoux\|Demoux]], Elend sent soldiers to [[Luthadel\|Luthadel]] and told Fatren and his people to join them. The Emperor told Demoux to have his men respect Fatren's wishes and invited his men to join his army.
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
-## Relationships
+
+## Historia
+Tras el Colapso, los señores de Vetitan abandonaron el pueblo. Fatren convenció a los demás skaa de seguir trabajando. Además mantuvo a los bandidos lejos de Vetitan, gastando parte de las cosechas en sobornos para no perder a hombres capaces de unirse al ejército. Consiguió reunir dos mil soldados, aunque mil de ellos no podían luchar bien. La otra mitad tenía muy poco entrenamiento. Fue difícil reunir incluso esta cantidad de soldados de una población tan pequeña como Vetitan. [[Druffel\|Druffel]] tuvo la idea de construir un muro alrededor de la ciudad. Llevó mucho trabajo, y tras dos años desde el Colapso apenas lo habían terminado, cuando un ejército de diez mil [[Koloss\|koloss]] llegó a la ciudad.
+Hacía tres meses, los koloss habían destruido la ciudad de [[Garthwood\|Garthwood]]. Esta ciudad era más grande que Vetitan, pero menos de cien personas habían sobrevivido al ataque y habían llegado a Vetitan. Y ahora ese ejército había llegado. Pero antes de que el ataque comenzara, Elend Venture llegó a la ciudad. Al principio Fratren no creía que Elend fuera quien decía ser. Este afirmó que Fatren le había pedido ayuda, para que pudiera pretender que este había sido su plan desde el principio. Elend prometió ayudarles a luchar contra los koloss si le aceptaban como su emperador y Fatren le juraba lealtad. Tras esto, convirtió a Fatren en un lord y le dijo que más tarde podría elegir un apellido.
+Elend dirigió a los soldados de Fatren en un asalto a los koloss mientras no estaban en un frenesí de sangre, porque la muralla habría sido inútil contra los koloss. Durante la batalla, Elend tomó el control de los koloss y salvó a la mayoría de la gente de Vetitan. Más tarde, [[Vin\|Vin]], Elend y Fatren inspeccionaron la [[Caverna de suministros\|caverna de suministros]] de la ciudad. Tras descubir el almacén, Fatren dijo que Elend había ido a robarle, como los bandidos. Elend respondió que si Fatren se quedara con la comida, cuando el secreto se conociera, miles de refugiados irían a la ciudad, y les seguirían bandidos, así que Fatren aceptó darle las reservas de comida.
+La gente de Vetitan se fue con el ejército de Elend y este les hizo exponerse a las brumas, porque tarde o temprano terminarían exponiendose si no. Fatren estaba triste mientras lo hacían, pero sabía que era la unca opción. Cuando Elend y su compañía se reunieron con otra parte de su ejército liderada por el general [[Demoux\|Demoux]], Elend envió soldados a [[Luthadel\|Luthadel]] y le dijo a Fatren que fuera con ellos. El emperador le dijo a Demoux que hiciera que sus hombres respetaran sus deseos, e invitó a sus hombres a unirse al ejército.
+
+## Relaciones
 ### Elend Venture
->“*Well, this newcomer certainly knows how to command people.*”
-\-Fatren thinking about Elend.[1]
+>“*Vaya, este desconocido desde luego sabe dar órdenes a la gente.*”
+\-Fatren pensando sobre Elend.[1]
 
 
-Fatren resents how Elend took command of his city, but also admires him for his commanding air. Elend feels he is a tyrant from taking control and the cache's resources from Fatren, but he knows that is what is better for the empire and the city's people.
+A Fatren le molesta la manera en que Elend tomó el mando de su ciudad, pero le admira por su aire de mando. Elend siente que es un tirano por la manera en que toma el control y los recursos de Fatren, pero sabe que es lo mejor para el imperio y su gente.
 
 ### Druffel
->“*Even the Lord Ruler’s mills weren’t able to grind Druff’s laughter out of him. But these last two years have.*”
-\-Fatren thinking about Druffel.[1]
+>“*Ni siquiera las fábricas del lord Legislador pudieron arrancarle la sonrisa a Druffel. Pero estos dos últimos años lo han conseguido.*”
+\-Fatren pensando sobre Druffel.[1]
 
 
-Before the Collapse, Druffel was an optimist, and his laughter was Fatren's favorite sound. Fatren called him Druff. Fatren is disappointed that Druffel became pessimistic.
+Antes del Colapso, Druffel era optimista, y su risa era el sonido favorito de Fatren. Le llamaba Druff. Fatren está decepcionado con que Druffel se haya vuelto pesimista.
 
-## Trivia
-In the first chapter of [[The Hero of Ages\|The Hero of Ages]], Fatren is the viewpoint character. Brandon did this so that the readers would really get a sense of what was really happening in the world by the end of [[The Well of Ascension\|The Well of Ascension]], using a character whose viewpoint isn't clouded by events. He considered making Fatren a main viewpoint character in the book, but there were already too many viewpoint characters with [[Elend\|Elend]], [[Vin\|Vin]], [[Spook\|Spook]], [[TenSoon\|TenSoon]], [[Sazed\|Sazed]] and [[Marsh\|Marsh]] all having an important role.
+## Curiosidades
+El primer capítulo de [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]], sucede desde el punto de vista de Fatren. Brandon hizo esto para que los lectores pudieran sentir lo que estaba sucediendo de verdad en el mundo tras [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]], sin tener la visión sesgada del punto de vista de los personajes principales. Consideró hacer a Fatren un punto de vista principal, pero ya tenía demasiados personajes con [[Elend\|Elend]], [[Vin\|Vin]], [[Fantasma\|Fantasma]], [[TenSoon\|TenSoon]], [[Sazed\|Sazed]] y [[Marsh\|Marsh]] teniendo roles importantes.
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-https://coppermind.net/wiki/Fatren
+
+https://es.coppermind.net/wiki/Fatren

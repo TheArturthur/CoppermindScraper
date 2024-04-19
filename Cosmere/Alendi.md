@@ -1,43 +1,64 @@
+
+
 |**Alendi**|
 |-|-|
-|by  Hinumay |
-|**Died**|0 [[Final Empire\|FE]], killed by [[Rashek\|Rashek]]|
-|**Abilities**|Seeker|
-|**Titles**|Alendi the Conqueror, Hero of Ages|
-|**Nationality**|[[Khlenni\|Khlenni]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**|0 [[Imperio Final\|IF]], asesinado por [[Rashek\|Rashek]]|
+|**Capacidades**|[[/wiki/Bronce#Uso alom.C3.A1ntico]]|
+|**Títulos**|Alendi el Conquistador, el Héroe de las Eras|
+|**Nacionalidad**|[[De Khlennium\|de Khlennium]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Alendi** is a [[Bronze\|Bronze]] [[Misting\|Misting]] (aka a Seeker), the last ruler of [[Khlennium\|Khlennium]] on [[Scadrial\|Scadrial]], and author of [[Alendi's journal\|Alendi's journal]].
+**Alendi** es un [[Brumoso\|brumoso]] de [[Bronce\|bronce]] o [[/wiki/Bronce#Uso alom.C3.A1ntico]], el último gobernante de [[Khlennium\|Khlennium]] en [[Scadrial\|Scadrial]] y autor del [[Diario de Alendi\|Diario de Alendi]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
-4 Legacy
-5 Notes
-
-
-## Appearance and Personality
-Little of Alendi's appearance is known, however [[Kwaan's inscription\|Kwaan's inscription]] does mention a few of his features. [[Kwaan\|Kwaan]] says that he towers over most others and has a bearing that demands respect. He also has a birthmark on his arm and his hair turned grey when he was barely twenty five, minor details which served to further convince Kwaan that he was the Hero of Ages.
-
-## Attributes and Abilities
-Alendi is a Seeker, snapping in [[Preservation\|Preservation's]] Mist. This allows him to detect the use of [[Allomancy\|Allomancy]] and hear the [[Well of Ascension\|Well of Ascension]]. However, due to the fact that Allomancy is close to unknown before the [[Rashek\|Lord Ruler]]’s Ascension, Alendi probably only uses his abilities unconsciously.
-Alendi had Hemalurgic piercings, and was therefore influenced by Ruin. 
-He is a skilled general with the nickname "the Conqueror", able to defeat and conquer several countries.
-
-## History
- by  Hinumay  Betrayed by Rashek at the Well of AscensionAlendi grew up as the son of a blacksmith. Certain circumstances forced him to leave his home village and led him to Khlennium. It is likely that these circumstances started exactly sixteen years before the Well of Ascension was refilled and included the first signs of the Deepness.
-During his first months in Khlennium, Alendi met the Worldbringer Kwaan and became his assistant for an unknown time. A couple of years later, Kwaan slowly became convinced that Alendi fit the Terris prophecies and must be the Hero of Ages. Initially the other Worldbringers met Kwaan with scorn when he announced this but after a while even the other Worldbringers became convinced that Alendi must be the Hero of Ages, as Alendi fueled these rumors to persuade the world of his cause, and Ruin slightly altered the prophecies to fit Alendi.
-At some point in time Alendi became king of Khlennium, possibly by marrying the previous king's daughter. Under the growing threat of the Deepness, Alendi united several nations (including Terris), some by diplomacy, and others by conquering them. Except for a few dissenters, Alendi was able to create a general unity on Scadrial under reign of Khlennium.
-During his encounters with the Deepness, he Snapped and his Allomantic powers were awakened. He believed that he had sensed the Deepness' mind, and noted that it was not hateful, but would destroy the world as part of its nature. After Alendi spent a decade leading armies, the Terris Worldbringers decided that Alendi, the assumed Hero of Ages, should set forth to the Well of Ascension and give up its power in the name of the greater good. However, Kwaan realised that some being deceived them all by altering the prophecies, but he couldn't convince Alendi and the other Worldbringers that the power at the Well should not be released. Soon Alendi departed towards the Well of Ascension, giving no heed to Kwaan's warning since Alendi surrounded himself with other counselors who told him what he wanted to hear.
-Upon arriving in Terris, Alendi replaced his normal attendants with Terris packmen who could carry his gear in the cold unforgiving mountains. They were a group of [[Feruchemy\|Feruchemists]] led by [[Rashek\|Rashek]]. Alendi started keeping a [[Alendi's logbook\|logbook]], in which he recorded his quest for the Well, describing hearing pulses coming from the Well due to his abilities as a [[Seeker\|Seeker]]. In this journal he also expressed regrets about the death and fear he has caused , doubts about his own sanity, but also his fear of the Deepness , and his faith that it needed to be defeated .
-Unbeknownst to Alendi, Kwaan had instructed Rashek to do everything in his power to keep Alendi away from the Well of Ascension, and if necessary even to kill Alendi to prevent him from giving up the Well's power. Since the pulses coming from the Well drew Alendi closer with each beat, Rashek could not lead him astray and was forced to kill the King of Khlennium shortly before arriving at their destination.
-
-## Legacy
-Alendi's logbook was kept by Rashek and, over a thousand years later, was found by [[Vin\|Vin]] in [[Kredik Shaw\|Kredik Shaw]]. It was translated by [[Sazed\|Sazed]] as part of the efforts of [[Kelsier's crew\|Kelsier's crew]] to discover the Lord Ruler's weaknesses.
+1 Apariencia and Personalidad. [[#Apariencia and Personalidad]] 
+2 Atributos y Habilidades. [[#Atributos y Habilidades]] 
+3 Historia. [[#Historia]] 
+4 Legado. [[#Legado]] 
+5 Notas. [[#Notas]] 
 
 
+## Apariencia and Personalidad
+Se sabe poco de la apariencia de Alendi, sin embargo, la [[Inscripci%C3%B3n de Kwaan\|Inscripción de Kwaan]] menciona algunas de sus características. [[Kwaan\|Kwaan]] dice que supera en altura a la mayoría y que tiene un porte que reclama respeto. También tiene una marca de nacimiento en el brazo, y su cabello se volvió gris cuando apenas tenía veinticinco años, detalles menores que sirvieron para convencer aún más a Kwaan de que él era el Héroe de las Eras.
 
-https://coppermind.net/wiki/Alendi
+## Atributos y Habilidades
+Alendi es un Buscador, que rompió en la bruma de [[Conservaci%C3%B3n\|Conservación]]. Esto le permite detectar el uso de [[Alomancia\|alomancia]] y oir el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]]. Aun así, debido a que la alomancia era prácticamente desconocida antes de la Ascensión del [[Rashek\|lord Legislador]], probablemente usaba sus poderes inconscientemente.
+Alendi tenía piercings hemalúrgicos y, por lo tanto, estaba influenciado por Ruina. 
+Es un general experto con el apodo de "el Conquistador", capaz de derrotar y conquistar varios paises.
+
+## Historia
+Alendi creció como hijo de un herrero. Ciertas circunstancias lo obligaron a abandonar su aldea natal y lo llevaron a Khlennium. Es probable que estas circunstancias comenzaran exactamente dieciséis años antes de que el Pozo de la Ascensión fuera rellenado y diera los primeros signos de La Profundidad.
+Durante sus primeros meses en Khlennium, Alendi conoció al forjamundos Kwaan y se convirtió en su asistente por un tiempo desconocido. Un par de años más tarde, Kwaan se convenció poco a poco de que Alendi se ajustaba a las profecías de Terris y debía ser el Héroe de las Eras. Inicialmente, los otros forjamundos se enfrentaron a Kwaan con desprecio cuando anunció esto, pero después de un tiempo los demás forjamundos también se convencieron de que Alendi debía serlo, mientras Alendi alimentaba estos rumores para persuadir al mundo de su causa, y Ruina alteraba ligeramente las profecías para adecuarlas a Alendi.
+En algún momento, Alendi se convirtió en rey de Khlennium, posiblemente al casarse con la hija del rey anterior. Bajo la creciente amenaza de La Profundidad, Alendi unió a varias naciones (incluida Terris), tanto por diplomacia como por conquista. A excepción de unos pocos disidentes, Alendi pudo crear una unidad general en Scadrial bajo el reinado de Khlennium.
+Durante sus encuentros con La Profundidad, Alendi rompió y sus poderes alománticos se despertaron. Creía haber sentido la mente de La Profundidad y notó que no era odiosa, pero que destruiría el mundo como parte de su naturaleza. Después de una década liderando ejércitos, los forjamundos Terris decidieron que Alendi, el supuesto Héroe de las Eras, debería dirigirse al Pozo de la Ascensión y renunciar a su poder en nombre del bien común. Sin embargo, Kwaan se dio cuenta de que algo los había engañado alterando las profecías, pero no pudo convencer a Alendi y los otros forjamundos de que el poder en el Pozo no debería ser liberado. Pronto Alendi partió hacia el Pozo de la Ascensión, sin prestar atención a la advertencia de Kwaan y rodeándose de otros consejeros que le decían lo que quería escuchar.
+Una vez llegó a Terris, Alendi reemplazó a sus asistentes habituales por porteadores de Terris que podían llevar su equipo en las frías montañas implacables. Estos eran un grupo de [[Feruquimia\|feruquimistas]] liderados por [[Rashek\|Rashek]]. Alendi comenzó a llevar un [[Diario de Alendi\|diario]] en el que registraba su viaje al Pozo, describiendo los pulsos provenientes del lugar debido a sus habilidades como [[Buscador\|buscador]]. En este diario, mostraba remordimientos por las muertes y el miedo que había provocado y dudas sobre su propia cordura, pero también su miedo a la Profundidad y su fé en que debía ser derrotada..
+Lo que Alendi no sabía era que Kwaan había instruido a [[Rashek\|Rashek]] para que hiciera todo lo que fuera posible para mantener a Alendi alejado del Pozo de la Ascensión, y si era necesario incluso matar a Alendi para evitar que liberara el poder del Pozo. Dado que los pulsos provenientes del Pozo acercaban a Alendi con cada latido, Rashek no pudo desviarlo y se vio obligado a matar al Rey de Khlennium poco antes de llegar a su destino.
+
+## Legado
+El diario de Alendi fue guardado por Rashek y, tras miles de años, encontrado por [[Vin\|Vin]] en [[Kredik Shaw\|Kredik Shaw]]. [[Sazed\|Sazed]] lo tradujo como parte de los esfuerzos de la [[Banda de Kelsier\|banda de Kelsier]] por encontrar una debilidad en el lord Legislador.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|-|-|
+|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] ·  · [[Kwaan\|Kwaan]]|
+|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
+|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
+|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
+|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Alendi

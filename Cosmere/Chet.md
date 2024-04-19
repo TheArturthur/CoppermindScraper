@@ -1,129 +1,145 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Chet**|
 |-|-|
-|by  Egilde Art |
-|**Abilities**|[[Cytonics\|Cytonics]]|
-|**Species**|[[Delver\|Delver]]|
-|**Homeworld**|*Unknown*|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Capacidades**|[[Cit%C3%B3nica (habilidad)\|Citónicas]]|
+|**Especie**|[[Zapador\|Zapador]]|
+|**Mundo natal**|*Desconocido*|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-This page or section needs to be updated with new information for *Defiant*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
->“*Just so you all know, I'm secretly a monster from outside space and time.*”
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+
+>“*Deberíais saber todos que en secreto soy un monstruo llegado desde fuera del espacio y el tiempo.*”
 \-Chet[1]
 
 
-**Chet Starfinder** is a unique [[Delver\|delver]] that has had several encounters with humans. Prior to meeting [[Spensa\|Spensa]] in the [[Nowhere\|nowhere]], he gave himself a name and assembled a body for himself, modeling it after the body and personality of [[Spears\|Commander Spears]], [[M-Bot\|M-Bot's]] old pilot.
+**Chet Starfinder** es un [[Zapador\|zapador]] peculiar que ha tenido varios encuentros con humanos. Antes de encontrarse con [[Spensa\|Spensa]] en la [[Ninguna-parte\|ninguna-parte]], se dio un nombre y se construyó un cuerpo, modelándolo según el cuerpo y la personalidad del [[Spears\|comandante Spears]], el antiguo piloto de [[M-Bot\|M-Bot]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Formation
-3.2 Attacking Detritus and Starsight
-3.3 Meeting Spensa in the Nowhere
-3.4 The Broadsiders
-3.5 Assaulting Surehold
-3.6 Final Confrontation
-
-
-4 Relationships
-
-4.1 Spensa
-4.2 M-Bot
+3. [[#Formaci.C3.B3n]] 
+3. [[#Ataque a Detritus y Visi.C3.B3n Estelar]] 
+3. [[#Encuentro con Spensa en la ninguna-parte]] 
+3. [[#The Broadsiders]] 
+3. [[#Asalto a Fuerteseguro]] 
+3. [[#Enfrentamiento final]] 
 
 
-5 Trivia
-6 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Spensa]] 
+4. [[#M-Bot]] 
 
 
-## Appearance and Personality
->“*It's in the persona, you understand. I… I must see myself as a hero, the gentleman explorer, beloved and trusted. Because if I'm not that, well…Well then… That is all I have left of what I once was. Those dreams, those aspirations.*”
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
+
+
+## Apariencia y personalidad
+>“*Tengo que… verme a mí mismo como un héroe, como el caballero explorador, querido y leal. Porque si no soy eso, bueno… Lo que pasa es que… es lo único que me queda de lo que fui. Esos sueños, esas aspiraciones.*”
 \-Chet to Spensa[2]
 
 
-Chet has a flair for the dramatic, and likes to cultivate the air of a gentlemanly explorer. He likes bold action and daring plans, though a lot of it is bravado. He mainly keeps up a confident persona, though sometimes lets his guard down with Spensa.
-Chet modeled his body to look like that of Spears. He wears a flight jacket and combat trousers. He appears to be in his fifties, and has silvering hair. He is square jawed, muscular for his age, and with a large mustache that sticks out a good fifteen centimeters on either side.
+Chet tiene un don para lo dramático, y le gusta cultivar el aire de un explorador caballeroso. Le gustan las acciones audaces y los planes atrevidos, aunque en gran parte se trata de bravuconadas. Principalmente mantiene una imagen segura, aunque a veces baja la guardia con Spensa.
+Chet modeló su cuerpo para parecerse al de Spears. Lleva una chaqueta de vuelo y pantalones de combate. Aparenta unos cincuenta años, y tiene el pelo plateado. Tiene la mandíbula cuadrada, es musculoso para su edad y luce un gran bigote que le sobresale unos quince centímetros por cada lado.
 
-## Attributes and Abilities
-As a delver, Chet is capable of FTL travel, detecting cytonics either in the nowhere or in the somewhere, and projecting illusions. He can form a body and change his appearance, as evidenced by his making of his new body. He also has the ability to detect radio signals, and can shoot embers to defend himself when in the somewhere.
-When journeying through the nowhere with Spensa, Chet tells her that he has the ability to communicate cytonically, expand his lifespan, and visualize the entire belt in his head. These are all abilities that are possessed by delvers. Chet is physically fit, and has a lot of practical survival knowledge. However, he has very little experience with flying, and sometimes blacks out from the g-forces, though the pirate [[RayZed\|RayZed]] gives him some g-force training.
+## Atributos y habilidades
+Como zapador, Chet es capaz de realizar viajes FTL (más rápidos que la velocidad de la luz), detectar citónicos en la ninguna-parte o en la alguna-parte, y proyectar ilusiones. Puede crear un cuerpo y cambiar su aspecto, como lo demuestra la fabricación de su nuevo físico. También tiene la capacidad de detectar señales de radio, y puede disparar brasas para defenderse cuando está en algún lugar.
+Cuando viaja por la ninguna-parte con Spensa, Chet le cuenta que tiene la habilidad de comunicarse citónicamente, expandir su tiempo de vida y visualizar todo el cinturón en su cabeza. Todas estas son habilidades que poseen los zapadores. Chet está en buena forma física y tiene muchos conocimientos prácticos de supervivencia. Sin embargo, tiene muy poca experiencia con el pilotaje, y a veces se desmaya por las fuerzas de gravedad, aunque el pirata [[RayoZed\|RayoZed]] le entrena para ello.
 
-## History
-### Formation
-Like all the other delvers, Chet was formed when [[Jason Write\|Jason Write]]’s AI edited out its memories and personality, rewriting its programming and copying itself thousands upon thousands of times. Chet does not know if he was the original delver, or one of the copies.
+## Historia
+### Formación
+Como todos los demás zapadores, Chet se creó cuando la IA de [[Jason Write\|Jason Write]] editó sus recuerdos y personalidad, reescribiendo su programación y copiándose a sí mismo miles y miles de veces. Chet no sabe si fue el zapador original o una de las copias.
 
-### Attacking Detritus and Starsight
->“*The thing trembled with an emotion I understood without needing interpretation. Horror.*”
+### Ataque a Detritus y Visión Estelar
+>“*El ser se estremeció con una emoción que comprendí sin necesidad de interpretarla. Horror.*”
 \-Spensa[7]
 
 
-Chet was the delver that [[Brade\|Brade]] summoned outside [[Detritus\|Detritus]]. Spensa sent the delver to [[Starsight (station)\|Starsight]] to save Detritus. Afterward, Spensa went to the heart of the delver maze, where she showed Chet that the buzzing noises were in fact people with families, hopes, and dreams. Chet was horrified and returned to the nowhere.
+Chet era el zapador que [[Brade\|Brade]] invocó fuera de [[Detritus\|Detritus]]. Spensa envió al zapador a [[Visi%C3%B3n Estelar\|Visión Estelar]] para salvar Detritus. Después, Spensa fue al corazón del laberinto del zapador, donde mostró a Chet que los zumbidos eran en realidad personas con familias, esperanzas y sueños. Chet se horrorizó y volvió a la ninguna-parte.
 
-### Meeting Spensa in the Nowhere
- by  EccoS  In the [[Nowhere\|Nowhere]] with [[Spensa\|Spensa]] and [[M-Bot\|M-Bot]]
->“*Excellent to meet you in person, my cytonic friend! Chet Starfinder! Interdimensional galactic explorer!*”
-\-Chet introducing himself to Spensa[3]
+### Encuentro con Spensa en la ninguna-parte
+  En la <<Ninguna-parte\|ninguna-parte>> con <<Spensa\|Spensa>> y <<M-Bot\|M-Bot>>
+>“*¡Qué alegría conocerte en persona, mi citónica amiga! ¡Chet Buscaestrellas, explorador galáctico interdimensional!*”
+\-Chet presentándose a Spensa[3]
 
 
-Chet was changed, and in the eyes of the other delvers, corrupted. They wanted to destroy him. He hid himself by taking the form of Commander Spears, thinking that Spensa would trust someone from her past. When Spensa entered the nowhere, Chet communicated with Spensa and told her to walk the Path of Elders, and sent her a location. When she entered the Belt, Chet spoke into her mind and warned her to be quiet. When Spensa entered the nowhere and was captured by the [[Cannonade Faction\|Cannonade Faction]], Chet rescued her and offered to act as her guide in the nowhere. In exchange, she would give him one reality ash every day. They decided to walk the [[Path of Elders\|Path of Elders]], and Chet explained a lot of how the nowhere works to Spensa.
+Chet había cambiado y, a los ojos de los otros zapadores, estaba corrompido. Querían destruirlo. Se ocultó adoptando la forma del comandante Spears, pensando que Spensa confiaría en alguien de su pasado. Cuando Spensa entró en la ninguna-parte, Chet se comunicó con Spensa y le dijo que recorriera la Senda de los Ancianos, y le envió una localización. Cuando ella entró en el Cinturón, Chet habló en su mente y le advirtió que no hiciera ruido. Cuando Spensa entró en la ninguna-parte y fue capturada por la [[Facci%C3%B3n de los Ca%C3%B1oneros\|Facción de los Cañoneros]], Chet la rescató y se ofreció a actuar como su guía en la ninguna-parte. A cambio, ella le daría una ceniza de realidad cada día. Decidieron recorrer la [[Senda de los Ancianos\|Senda de los Ancianos]], y Chet le explicó a Spensa gran parte del funcionamiento de la ninguna-parte.
 
->“*Two hundred years, and I'm finally going to do it. Walk the Path of Elders.*”
-\-Chet to Spensa[9]
+>“*Doscientos años, y por fin voy a hacerlo. Recorreré la Senda de los Ancianos.*”
+\-Chet a Spensa[9]
 
-Chet told Spensa what he remembered about his past, saying that he crashed on a planet around 170 years ago, exactly when Commander Spears did. This made Spensa think that Chet was Commander Spears, M-Bot’s pilot. Chet and Spensa discussed their cytonic abilities, Chet saying he has the ability to cytonically communicate, extend his lifespan, and visualize the entire belt in his head. They traveled across many fragments, Chet saying that they can steal a starfighter at the [[Broadsider Faction\|Broadsider]] base, and progress through the Path of Elders faster.
-As they traveled across the fragments in the Belt, Chet told Spensa about the different pirate factions, and taught her how to tie knots, helping her make her club, [[Skullbreaker\|Skullbreaker]]. They reached the first step in the Path of Elders, both Chet and Spensa observing the memories stored inside the portal. They saw a dione cytonic coming into the nowhere and dying on the fragment, trapped forever. A small, compact fragment, sent by the other delvers, crashed into their fragment, destroying it. Chet and Spensa managed to escape onto a nearby fragment. Chet plotted a course to the Broadsider base,, and he and Spensa made [[Not-ilus\|a raft]] to cross an oceanic fragment.
+Chet le contó a Spensa lo que recordaba de su pasado, diciendo que se estrelló en un planeta hace unos 170 años, exactamente cuando lo hizo el comandante Spears. Esto hizo pensar a Spensa que Chet era el comandante Spears, el piloto de M-Bot. Chet y Spensa hablaron de sus habilidades citónicas, él dijo que tenía la capacidad de comunicarse citónicamente, extender su vida útil y visualizar todo el cinturón en su cabeza. Viajaron a través de muchos fragmentos, Chet dijo que podían robar una caza estelar en la base [[Facci%C3%B3n de los Costaderos\|Costadera]], y progresar a través de la Senda de los Ancianos más rápido.
+Mientras viajaban por los fragmentos del Cinturón, Chet le habló a Spensa de las distintas facciones piratas y le enseñó a hacer nudos, ayudándola a fabricar su garrote, [[Rompecr%C3%A1neos\|Rompecráneos]]. Llegaron al primer paso de la Senda de los Ancianos, tanto Chet como Spensa observaban los recuerdos almacenados en el interior del portal. Vieron a un dione citónico entrando en la ninguna-parte y muriendo en el fragmento, atrapado para siempre. Un pequeño fragmento compacto, enviado por los otros zapadores, se estrelló contra el suyo, destruyéndolo. Chet y Spensa consiguieron escapar a un fragmento cercano. Chet trazó un rumbo hacia la base de los Costaderos, , y él y Spensa construyeron [[No-tilus\|una balsa]] para cruzar un fragmento oceánico.
 
 ### The Broadsiders
->“*Miss Nightshade, what we are about to try is much more dangerous than our previous endeavors.*”
-\-Chet to Spensa, overlooking the Broadsider base[19]
+>“*Señorita Nightshade, lo que vamos a intentar es mucho más peligroso que nuestros anteriores empeños.*”
+\-Chet a Spensa, con vistas a la base Cañonera[18]
 
 
-They arrived at the pirate base fragment, observing the base from afar. Chet advised Spensa to bury [[Doomslug\|her reality icon]], and she pretended it to bury it, keeping it on her person. Chet makes a distraction so that Spensa can slip into the pirate hangar to steal a ship, getting shot by a destructor in the process. He fled, hiding on the fragment when Spensa was captured. When Spensa tells him that she switched the plan at the last moment in case he was a traitor, Chet was deeply hurt, and felt betrayed. He talked about his self-doubt to Spensa, and accepted her apology. As Spensa worked under the direction of the Broadsiders, Chet occasionally talked with her cytonically, giving her information and advice. When Spensa escaped the Broadsiders and found her pin missing, Chet truthfully insisted that he didn't steal it. Spensa picked up Chet and flew away with the Broadsiders chasing her. They flew upwards continuously, but both of them started to lose themselves the further away from the fragments they got, and they returned. Peg offered to let Spensa and Chet join them, and Chet advised Spensa to agree, which she did.
+Llegaron al fragmento de la base pirata, observando la base desde lejos. Chet aconseja a Spensa que entierre [[Babosa Letal\|su icono de realidad]], y ella finge enterrarlo, guardándolo en su persona. Chet hace una distracción para que Spensa pueda colarse en el hangar pirata para robar una nave, recibiendo un disparo de un destructor en el proceso. Huye, escondiéndose en el fragmento cuando Spensa es capturada. Cuando ella le dice que cambió el plan en el último momento por si era un traidor, Chet se sintió profundamente herido y traicionado. Habló de sus dudas con Spensa y aceptó sus disculpas.. Mientras ella trabajaba bajo la dirección de los Costaderos, Chet hablaba ocasionalmente con ella de forma citónica, dándole información y consejos. Cuando Spensa escapó de los Broadsiders y descubrió que le faltaba su alfiler, Chet insistió sinceramente en que él no lo había robado. Spensa cogió a Chet y se fue volando con los Costaderos persiguiéndola. Volaron continuamente hacia arriba, pero ambos empezaron a perderse cuanto más se alejaban de los fragmentos y regresaron. Palo se ofreció a que Spensa y Chet se unieran a ellos, y Chet aconsejó a Spensa que aceptara, cosa que hizo.
 
->“*You feel your self dribbling away each day. Having something to do is important. The sparring, the duels… These invigorating activities give the pirates purpose, don't they?*”
-\-Chet to Peg[23]
+>“*Vosotros sentís que vuestro yo se pierde gota a gota cada día. Tener algo que hacer es importante. Las competiciones, los duelos… Esas actividades estimulantes dan un propósito a los piratas, ¿verdad?*”
+\-Chet a Palo[22]
 
-Chet was offered his own ship to fly, but he preferred to fly with Spensa. They flew to the next portal in the Path of Elders, and accessed the memories therein. They saw humans and [[UrDail\|UrDail]] meeting with each other on fragments, and eventually watched the humans stop coming. A female cytonic communicated with them, saying that it took hundreds of cytonics to fight one delver. She said that if they now faced millions, then they are doomed. She gave them the location of the next portal, which Chet identified as being in [[Surehold\|Surehold]], the Superiority main base in the Belt. Upon returning to the Broadsider base, they had to fight off a enemy force from the [[Jolly Roger Faction\|Jolly Roger Faction]]. During the fierce dogfighting, Chet lost consciousness from the g-forces, which made him embarrassed after the battle. Spensa dueled in the arena for the title of Pirate Champion, and Chet watched her fight from the sidelines. After Spensa's victory over [[Hesho\|Hesho]], Chet celebrated with the others. When [[Peg\|Peg's]] planning united the pirate factions to assault Surehold, Chet agreed to go with them and fly with Spensa.
+A Chet le ofrecieron su propia nave, pero prefirió volar con Spensa. Volaron hasta el siguiente portal de la Senda de los Ancianos, y accedieron a los recuerdos que había en él. Vieron a humanos y [[UrDail\|UrDail]] reunirse en fragmentos, y con el tiempo vieron cómo los humanos dejaban de acercarse. Una citónica se comunicó con ellos y les dijo que se necesitaban cientos de citónicos para luchar contra un zapador. Dijo que si ahora se enfrentaban a millones, estaban condenados. Ella les dio la ubicación del siguiente portal, que Chet identificó como en [[Fuerteseguro\|Fuerteseguro]], la base principal de la Supremacía en el Cinturón. Al retornar a la base de los Costaderos, tuvieron que luchar contra una fuerza enemiga de la [[Facci%C3%B3n Calavera y Tibias\|Facción Calavera y Tibias]]. Durante el encarnizado combate aéreo, Chet perdió el conocimiento a causa de las fuerzas g, lo que hizo que se sintiera avergonzado tras la batalla. Spensa se batió en duelo en la arena por el título de Campeón Pirata, y Chet observó su lucha desde la barrera. Tras la victoria de Spensa sobre [[Hesho\|Hesho]], Chet lo celebró con los demás. Cuando la planificación de [[Palo (Escuadr%C3%B3n)\|Palo]] unió a las facciones piratas para asaltar Fuerteseguro, Chet aceptó ir con ellos y volar con Spensa.
 
-### Assaulting Surehold
->“*The AI and I have been bonding. He's been wanting help defining his specific emotions. I agreed to assist him.*”
-\-Chet to Spensa[27]
+### Asalto a Fuerteseguro
+>“*La IA y yo hemos estado estrechando lazos. Necesita ayuda para definir sus emociones concretas, y me he ofrecido a echarle una mano.*”
+\-Chet to Spensa[26]
 
 
-While en route to Surehold, and during the ensuing space battle, Chet bonded with M-Bot, helping him identify which emotions he was feeling. M-Bot described the emotion, and Chet said what emotion it was. As the fighting grew more intense however, Chet stayed quiet and let Spensa focus. With the retreat of the rebellious [[Cannonade Faction\|Cannonade Faction]], the Superiority fighters surrendered and agreed to help take Surehold. Once the base was taken, Spensa told Chet about an offer the delvers made with her, saying that if she didn’t finish the Path of Elders, they wouldn’t harm her friends and other cytonics.
+De camino a Fuerteseguro y durante la posterior batalla espacial, Chet estableció un vínculo con M-Bot y le ayudó a identificar las emociones que sentía. M-Bot describía la emoción y Chet decía de qué emoción se trataba. Sin embargo, a medida que la lucha se hacía más intensa, Chet se quedaba callado y dejaba que Spensa se centrara en ella. Con la retirada de la [[Facci%C3%B3n de los Ca%C3%B1oneros\|Facción de los Cañoneros]] rebeldes, los combatientes de la Supremacía se rindieron y aceptaron ayudar a tomar Fuerteseguro. Una vez tomada la base, Spensa le contó a Chet una oferta que los zapadores hicieron con ella, diciendo que si no terminaba la Senda de los Ancianos, no harían daño a sus amigos y a otros citónicos.
 
->“*But… I needed a shape, a personality, someone to be. Don't hate me, Spensa. Please don't hate me! They have abandoned me. They want to destroy me. You're… the only one… I have now.*”
-\-Chet confessing to Spensa
+>“*Pero… necesitaba una forma, una personalidad, alguien que ser. No me odies, Spensa. ¡Por favor, no me odies! Me abandonaron. Quieren destruirme. Tú eres… lo único… que tengo ahora.*”
+\-Chet confesándose a Spensa
 
-Chet said he was uncertain, but eagerly presented the idea of Spensa exploring the nowhere with him. He genuinely enjoyed traveling with her, and wanted to do it more. Spensa decided to reject the deal, and her and Chet unlocked the next portal and its memories. It showed [[Jason Write\|Jason Write]] with his AI, modeled after [[Lanna Write\|his dead wife]]. Spensa realized that Chet is a delver, and he confessed, telling her about making his new body and explaining what happened. He told her that he genuinely enjoyed their time together, and asked that Spensa not hate him. Chet told Spensa that the last step in the Path of Elders is at [[Solitary Shadow\|Solitary Shadow]], a fragment extremely close to the lightburst. Chet, Spensa, [[Hesho\|Hesho]], Doomslug, and M-Bot all flew towards Solitary Shadow to finish the Path and get back to Detritus.
+Chet dijo que no estaba seguro, pero presentó con entusiasmo la idea de que Spensa explorara la ninguna-parte con él. Disfrutaba de verdad viajando con ella, y quería hacerlo más. Spensa decidió rechazar el trato, y ella y Chet desbloquearon el siguiente portal y sus recuerdos. Mostraba a [[Jason Write\|Jason Write]] con su IA, modelada según [[Lanna Write\|su esposa muerta]]. Spensa se dio cuenta de que Chet era un zapador, y él le confesó que había creado su nuevo cuerpo y le explicó lo sucedido. Le dijo que había disfrutado de verdad del tiempo que habían pasado juntos y le pidió que no le odiara. Chet le dijo a Spensa que el último paso en la Senda de los Ancianos se encontraba en [[Sombra Solitaria\|Sombra Solitaria]], un fragmento muy cercano al estallido de luz. Chet, Spensa, [[Hesho\|Hesho]], Babosa Letal y M-Bot volaron hacia Sombra Solitaria para terminar la Senda y volver a Detritus.
 
-### Final Confrontation
-In the flight to Solitary Shadow, Chet explained more about delvers and AI to Spensa and the others. He also told her that the delvers will do anything to stop them, and will likely form physical bodies. At Solitary Shadow, they tapped into the final set of memories. The memories showed how Jason's AI deleted its memories and personality, then copied itself exponentially and became the delvers. Chet advised Spensa that they needed to make the delvers each feel isolated and alone. The delvers became enraged at the revealing of their secrets, and Chet and the others took off for the lightburst at full speed.
+### Enfrentamiento final
+En su viaje a Sombra Solitaria, Chet explicó a Spensa y a los demás más cosas sobre los zapadores y las IA. También le dijo que los zapadores harían cualquier cosa para detenerlos, y que probablemente formarían cuerpos físicos. En Sombra Solitaria, accedieron al último grupo de recuerdos. Estos mostraban cómo la IA de Jason borró sus recuerdos y personalidad, luego se copió exponencialmente y se convirtió en los zapadores. Chet aconsejó a Spensa que debían hacer que los zapadores se sintieran aislados y solos. Estos se enfurecieron ante la revelación de sus secretos, y Chet y los demás despegaron hacia el estallido de luz a toda velocidad.
 
->“*I am so glad you came when I called. I am happy! Happy to carry the knowledge you need! Happy to have been able to help, and to have changed, and to finally have accepted my loss. It was an honor to explore with you, Miss Nightshade.*”
-\-Chet to Spensa before sacrificing himself[31]
+>“*Me alegro muchísimo de que vinieras cuando te llamé. ¡Estoy contento! ¡Contento de que tengas el conocimiento que necesitas! Contento de haber podido ayudar, y de haber cambiado, y de haber podido por fin aceptar mi pérdida. Ha sido un honor explorar contigo, señorita Nightshade.*”
+\-Chet a Spensa antes de sacrificarse[30]
 
-As they grew closer to the lightburst, it became hard for Chet to hold his shape, and his face began to melt. A hundred of the delvers formed themselves into ships, and Spensa and Hesho engaged them, with Chet in the ship. When the delvers started to overwhelm Spensa, Chet sacrificed himself, leaving the ship and letting the delvers chase him. They caught him and locked him away, allowing the others to escape. After M-Bot sacrificed himself and Spensa entered the lightburst, Spensa and Chet connected when the delvers began mentally attacking Spensa. Chet's and Spensa's essences and souls intertwined, and they melded into one. It became painful for the delvers to touch Spensa and Chet together, so they let them go. Spensa hyperjumped everyone out of the lightburst and back to Detritus.
+A medida que se acercaban al estallido de luz, a Chet le resultaba difícil mantener la forma y su rostro empezó a derretirse. Un centenar de zapadores formaron naves y Spensa y Hesho se enfrentaron a ellos, con Chet en la nave. Cuando los zapadores empezaron a abrumar a Spensa, Chet se sacrificó, abandonando la nave y dejando que los zapadores le persiguieran. Lo atraparon y lo encerraron, permitiendo que los demás escaparan. Después de que M-Bot se sacrificara y Spensa entrara en el estallido de luz, Spensa y Chet conectaron cuando los zapadores empezaron a atacar mentalmente a Spensa. Las esencias y almas de Chet y Spensa se entrelazaron y se fundieron en una sola. A los zapadores les resultaba doloroso tocar a Spensa y Chet juntos, así que los dejaron marchar. Spensa hizo saltar a todos fuera del estallido de luz y de vuelta a Detritus.
 
-## Relationships
+## Relaciones
 ### Spensa
->“*Truly, Miss Nightshade, I've rarely had such an invigorating companion. Plus you encouraged me toward a goal I've been avoiding for far too long. For that I thank you.*”
-\-Chet to Spensa[10]
+>“*De verdad, Spensa Nightshade, muy pocas veces he tenido compañía tan estimulante. Y me has animado hacia un objetivo que llevaba demasiado tiempo evitando. Por eso, te doy las gracias yo a ti.*”
+\-Chet to Spensa[17]
 
 
-From the start, Chet feels a bond with Spensa, as she was the one to change him for the better at Starsight. Though he had to lie to her about his identity as a delver, he wanted to help her on her journey through the Path of Elders. Exploring with her makes him feel alive, and he enjoys it greatly. They get along very well, though Spensa initially feels some distrust of Chet. When she switches a plan in case he is going to betray her, Chet is very hurt. Afterward however, Spensa begins to trust him more, and they are able to repair their friendship. After the events in the lightburst, Spensa's and Chet's essences are combined and joined inseparably. Spensa is still herself, but strongly enhanced by their bond.
+Desde el principio, Chet siente un vínculo con Spensa, ya que fue ella quien le cambió para mejor en Visión Estelar. Aunque tuvo que mentirle sobre su identidad como zapador, quiso ayudarla en su viaje por la Senda de los Ancianos. Explorar con ella le hace sentirse vivo, y lo disfruta enormemente. Se llevan muy bien, aunque al principio Spensa siente cierta desconfianza hacia él. Cuando ella cambia de plan en caso de que él vaya a traicionarla, Chet se siente muy dolido. Después, sin embargo, Spensa empieza a confiar más en él y consiguen reparar su amistad. Tras los sucesos del estallido de luz, las esencias de Spensa y Chet se combinan y se unen inseparablemente. Spensa sigue siendo ella misma, pero fuertemente potenciada por su vínculo.
 
 ### M-Bot
->“*I've spent years upon years worth of processing time imagining what Commander Spears would be like. Now we’ve met him and… and he just calls me an abomination.*”
-\-M-Bot to Spensa[18]
+>“*Dediqué años y años de tiempo de procesamiento a imaginar cómo sería el comandante Spears. Y ahora lo hemos conocido y… y me llama abominación.*”
+\-M-Bot a Spensa[16]
 
 
-At first, Chet is distrustful of M-Bot, constantly calling him an "abomination". He is distrustful of AI, partially because of the instinctual hatred of AI that delvers possess. He didn’t often speak to M-Bot except to ask for information. Eventually Chet starts to bond with M-Bot, and helps M-Bot identify his emotions.
+Al principio, Chet desconfía de M-Bot, llamándolo constantemente "abominación".  Desconfía de la IA, en parte debido al odio instintivo que los zapadores sienten hacia las IA. No hablaba a menudo con M-Bot excepto para pedirle información. Con el tiempo Chet empieza a relacionarse con M-Bot y le ayuda a identificar sus emociones.
 
-## Trivia
-While writing [[Defiant (book)\|Defiant]], getting Chet's character right was annoying for Brandon.
+## Curiosidades
+Mientras escribía [[Desafiante (libro)\|Desafiante]], a Brandon le resultaba molesto entender el personaje de Chet.
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[Desafiante (libro)\|Desafiante]]*, ahora necesita volver a revisarse.
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] ·  · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
-https://coppermind.net/wiki/Chet
+
+https://es.coppermind.net/wiki/Chet

@@ -1,52 +1,70 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Allstren Cynder**|
 |-|-|
-|by  Nabestse Zitro |
-|**Profession**|Linguist|
-|**Ethnicity**|[[Darksider\|Darksider]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*White Sand*|
+||
+|**Oficio**|Lingüista|
+|**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
-**Allstren Cynder** is a professor and a linguist from an [[Elis\|Elisian]] University on the Darkside of [[Taldain\|Taldain]].
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-## Contents
+**Allstren Cynder** es un profesor y lingüista de la universidad [[Elis\|elisana]] del Lado Oscuro de [[Taldain\|Taldain]].
 
-1 Appearance and Personality
-2 History
-3 Quotes
-4 Trivia
-5 Notes
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Citas. [[#Citas]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-Cynder is an older man with dark skin and a bald head. He remains optimistic and frequently shows a sly sense of humor. He frequently squabbles with [[Jon Acron\|Jon Acron]] over inconsequential matters.
+## Apariencia y personalidad
+Cynder es un hombre mayor, de piel oscura y calvo. Sigue siendo optimista y a menudo muestra un astuto sentido del humor. Discute a menudo con [[Jon Acron\|Jon Acron]] por asuntos intrascendentes.
 
-## History
-Professor Cynder traveled to [[Dayside\|Dayside]] with Duchess [[Khrissalla\|Khrissalla]], [[Baon\|Baon]], [[Jon Acron\|Jon Acron]] and an escort of Elisian soldiers. He and Acron were fascinated with the cultural and linguistic differences of Dayside. Professor Cynder had learned "Dayside language" from five hundred year old texts imported to the Elisian University from Dayside. When they were passing through [[Dosha-Har'Ken\|Dosha-Har'Ken]], each time he approached somebody to ask for directions, they would run off without answering. While purchasing supplies from a [[Kerztian\|Kerztian]] merchant that spoke [[Dynastic\|Dynastic]], he hears a phrase he can understand coming from a speaker in the square. Cynder appraches the [[A'kar\|A'kar]], without realizing he is interrupting a sermon, but when he tries speaking to the A'kar the situation devolves rapidly, and they retreat only having learned they were blasphenomously speaking the "holy language" of the clergy.
+## Historia
+El profesor Cynder viajó al [[Lado Diurno\|Lado Diurno]] con la duquesa [[Khrissalla\|Khrissalla]], [[Baon\|Baon]], [[Jon Acron\|Jon Acron]] y una escolta de soldados elisanos. Él y Acron estaban fascinados con las diferencias culturales y lingüísticas del Lado Diurno. Había aprendido la "lengua diurniense" a partir de textos de quinientos años de antigüedad importados a la universidad elisana desde el Lado Diurno. Cuando pasaban por [[Dosha-Har'Ken\|Dosha-Har'Ken]], cada vez que se acercaba a alguien para pedirle indicaciones, salía corriendo sin contestar. Mientras compra provisiones a un mercader [[Kerzta\|kerztiano]] que hablaba [[Din%C3%A1stico\|dinástico]], oye una frase que puede entender procedente de un altavoz de la plaza. Cynder se acerca a los [[A'kar\|A'kar]], sin darse cuenta de que está interrumpiendo un sermón, pero cuando intenta hablar, la situación degenera rápidamente, y éstos se retiran sólo tras saber que estaban hablando blasfemamente la "lengua sagrada" del clero.
 
->“*If we can't get directions out of them, then at least we can call them to repentance.*”
-\-Cynder (upon discovering he learned the language of the clergy)[1]
+>“*Si no pueden darnos indicaciones, al menos les ordenaremos que se arrepientan*”
+\-Cynder (al descubrir que aprendió la lengua del clero)[1]
 
-After arriving near the base of Mount [[KraeDa\|KraeDa]], [[Flennid\|Flennid]] shot their guide, [[Daazk\|Daazk]], and left with [[Torth\|Torth]]—taking the remaining food and water. Searching the tents near the massacre for water and supplies, Cynder and Baon found [[Kenton\|Kenton]] passed out in a tent, dehydrated from his fight with the [[Kerztian\|Kerztians]], and helped revive him. When he and the travelling party were ambushed by Kerztian warriors on their way to [[Kezare\|Kezare]], Cynder was shot in the arm by a [[Zinkall\|zinkall]] arrow. Kenton showed him how to remove the arrow safely by pouring water on the wound to melt any remaining carapace fragments.
-Upon arriving in [[Kezare\|Kezare]] the group discovered [[Lonzare\|Lonzare]], the Darksider section of the city. Cynder was thrilled by the mixing of Darkside and [[Lossand\|Lossandin]] culture. He suspected that a  between Dynastic and Lossandin could be developing among the people living there.
-The lock on Cynder's luggage malfunctioned and was repaired by Khriss as she, unsuccessfully, sought meetings with the [[Taishin\|Taishin]]. After they discovered that Kenton had become the [[Lord Mastrell\|Lord Mastrell]] the group returned to Lonzare where Cynder, while playing a game like chess with Acron, suggested that she use her diplomatic skills to help out the Diem.
-He and Kriss discussed the differences between Dayside [[Sand (Taldain)\|sand]] and [[Sandling\|sandling]] carapace, as well as Dayside sand, sand that had water poured on it, and what he beleived to be Darkside sand when she was doing experiments in her bedroom. Khriss explained that it was not Darkside sand, but sand that had had the lichen digested by sandlings, proving that sand from Dayside and Darkside were fundamentally the same, except for the lichen.
-Cynder and Acron, having found more  for Khriss to use in making new gunpowder charges for Baon, interrupted Khriss and Baon as she was confronting him about the incident with Captain [[Deral\|Deral]] and his lieutenant. Shocked by what he saw, Cynder dropped the container of saltpeter to the ground where it shattered. Baon then left taking his pistols with him.
-Because Kenton "accepted" Khriss as a [[Sand mastery\|sand master]] recruit for testing, Khriss, Cynder, and Acron moved into the [[Diem\|Diem]]. After they had arrived, Cynder remarked how strange it was for Baon to have turned out to be a spy, since he was always so loyal. He then suggested that any of them might also be a spy. Acron suggested they not dwell on the subject since Baon hadn't had a chance to explain himself. Khriss gave [[Gevalden\|Gevalden's]] pistol, which she had received from [[Nilto\|Nilto]], to Cynder so he could use it to guard her. He accompanied Khriss when she went with Kenton to visit [[Vey\|Vey]].
-Acron went with Khriss, Kenton, and [[Delius\|Delius]] when they went to [[Lraezare\|Lraezare]] to find Vey. He helped Khriss revive Kenton when he passed out from [[Overmastery\|overmastery]].
-He went with Khriss to watch Kenton's duel with [[Drile\|Drile]]. Two weeks after the final vote of the [[Taishin\|Taishin]] on the Diem's fate, Khriss, Baon, and Cynder set sail for Elis, taking barrels of white sand and a few sand masters with them.
+Tras llegar cerca de la base del monte [[KraeDa\|KraeDa]], [[Flennid\|Flennid]] disparó a su guía, [[Daazk\|Daazk]], y se marchó con [[Torth\|Torth]], llevándose la comida y el bebida que quedaban. Buscando agua y provisiones en las tiendas cercanas a la masacre, Cynder y Baon encontraron a [[Kenton\|Kenton]] desmayado en una tienda, deshidratado por su lucha contra los [[Kerzta\|kerztianos]], y ayudaron a reanimarlo. Cuando él y el grupo de viajeros fueron emboscados por otros guerreros de camino a [[Kezare\|Kezare]], Cynder recibió un disparo en el brazo de una flecha de un [[Zinkall\|zinkall]]. Kenton le enseñó a extraer la flecha de forma segura vertiendo agua sobre la herida para derretir los fragmentos de caparazón que pudieran quedar.
+Al llegar a [[Kezare\|Kezare]], el grupo descubrió [[Lonzare\|Lonzare]], la sección oscurense de la ciudad. A Cynder le entusiasmó la mezcla de cultura oscurense y [[Lossand\|lossandina]]. Sospechaba que entre la gente que vivía allí podría estar desarrollándose un  entre Dinástico y Lossandin.
+El candado del equipaje de Cynder funcionó mal y fue reparado por Khriss mientras ella, sin éxito, buscaba encuentros con los [[Taishin\|Taishin]]. Tras descubrir que Kenton se había convertido en [[Lord mastrell\|lord mastrell]] el grupo volvió a Lonzare donde Cynder, mientras jugaba una partida como de ajedrez con Acron, le sugirió que utilizara sus habilidades diplomáticas para ayudar al Diem.
+Él y Kriss discutieron las diferencias entre la [[Arena (Taldain)\|arena]] de Lado Diurno y el caparazón de los [[Cavadizo\|cavadizos]], así como la arena de Lado Diurno, la arena a la que se le había echado agua y lo que él creía que era arena de Lado Oscuro cuando ella estaba haciendo experimentos en su dormitorio. Khriss le explicó que no era arena de Lado Oscuro, sino arena de la que los cavadizos habían digerido el liquen, lo que demostraba que la arena de Lado Diurno y la de Lado Oscuro eran básicamente iguales, salvo por el liquen.
+Cynder y Acron, tras haber encontrado más  para que Khriss lo utilizara en la fabricación de nuevas cargas de pólvora para Baon, interrumpieron a Khriss y Baon mientras ella se enfrentaba a él por el incidente con el capitán [[Deral\|Deral]] y su lugarteniente. Conmocionado por lo que vio, Cynder dejó caer el recipiente de salitre al suelo, donde se hizo añicos. Baon se marchó llevándose consigo sus pistolas.
+Como Kenton "aceptó" a Khriss como aspirante a [[Maestr%C3%ADa de la arena\|maestro de la arena]] para hacer las pruebas, Khriss, Cynder y Acron se trasladaron al [[Diem\|Diem]]. Tras su llegada, Cynder comentó lo extraño que era que Baon hubiera resultado ser un espía, ya que siempre había sido tan leal. Luego sugirió que cualquiera de ellos también podría ser un espía. Acron sugirió que no insistieran en el tema, ya que Baon no había tenido oportunidad de explicarse. Khriss le dio la pistola de [[Gevalden\|Gevalden]], que había recibido de [[Nilto\|Nilto]], a Cynder para que la usara para protegerla. Acompañó a Khriss cuando fue con Kenton a visitar a [[Vey\|Vey]].
+Acron fue con Khriss, Kenton y [[Delius\|Delius]] cuando fueron a [[Lraezare\|Lraezare]] a buscar a Vey. Ayudó a Khriss a reanimar a Kenton cuando se desmayó por .
+Fue con Khriss a ver el duelo de Kenton con [[Drile\|Drile]]. Dos semanas después de la votación final de los [[Taishin\|Taishin]] sobre el destino del Diem, Khriss, Baon y Cynder zarparon hacia Elis, llevando consigo barriles de arena blanca y unos cuantos maestros de la arena.
 
-## Quotes
->“*I wonder if they have a mixed language. A Lossandin-Dynastic Hybrid. That would be exciting now, wouldn't it?*”
+## Citas
+>“*Me pregunto si tendrán un idioma híbrido lossandino-dinástico. Qué emocionante sería, ¿verdad?*”
 \-Cynder[4]
 
 
->“*well, aren't you the magnanimous one today, Jon?*”
+>“*Vaya, sí que está usted espléndido hoy, Jon*”
 \-Cynder[9]
 
 
-## Trivia
-In [[White Sand\|White Sand Volume 1]] Jon Acron and Cynder's speech bubbles are occasionally misattributed, particularly when they converse with one another. Noting the clothing of the speaker and context of the quote is required to catch these mistakes. For example, Acron wears white in most of Volume 1, though in at least one frame their clothing was switched.
+## Curiosidades
+En [[Arena Blanca\|Arena Blanca Volumen 1]] los bocadillos de Jon Acron y Cynder a veces están mal atribuidos, sobre todo cuando hablan entre ellos. Para detectar estos errores es necesario fijarse en la vestimenta del interlocutor y en el contexto de la cita. Por ejemplo, Acron viste de blanco en la mayor parte del Volumen 1, aunque en al menos un fotograma sus ropas estaban intercambiadas.
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] ·  · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
 
 
-https://coppermind.net/wiki/Cynder
+
+https://es.coppermind.net/wiki/Allstren_Cynder

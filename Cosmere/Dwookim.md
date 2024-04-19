@@ -1,15 +1,28 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Dwookim**|
 |-|-|
-|**Died**||
-|**Abilities**|[[Yoki-hijo\|Yoki-hijo]], [[Cognitive Shadow\|Cognitive Shadow]]|
-|**Profession**|Yoki-hijo|
-|**Nationality**|[[Torish\|Torish]]|
-|**Homeworld**|[[Komashi\|Komashi]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Fallecido**||
+|**Capacidades**|[[Yoki-haijo\|Yoki-haijo]]🐱︎, [[Sombra cognitiva\|Sombra cognitiva]]|
+|**Oficio**|Yoki-haijo|
+|**Nacionalidad**|[[De Torio\|de Torio]]|
+|**Mundo natal**|[[Komashi\|Komashi]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Dwookim** is a [[Torish\|Torish]] [[Yoki-hijo\|yoki-hijo]] who was very active in the [[Reform movement\|reform movement]] prior to her retirement.
-As a reformed yoki-hijo, she often ate, bathed, and made other decisions for herself. Late in her career, Dwookim worked only about half the days of any given week, taking the other days off for rest or other personal reasons. When working, she summoned an average of roughly ten [[Hijo\|hijo]] in a session. She eventually retired, presumably at or by the age of seventy. [[Hwanji\|Hwanji]] worked as one of Dwookim's attendants for several years.
+**Dwookim** es una [[Yoki-haijo\|yoki-haijo]] de [[Torio\|Torio]] muy activa en el [[Movimiento reformista\|movimiento reformista]] antes de su jubilación.
+Como yoki-haijo reformada, a menudo comía, se bañaba y tomaba otras decisiones por sí misma. En los últimos años de su vida profesional, Dwookim solo trabajaba la mitad de los días de la semana y se tomaba los demás días libres para descansar o por motivos personales. Cuando trabajaba, convocaba a una media de unos diez [[Haijo\|haijo]] en una sesión. Finalmente se jubiló, presumiblemente a los setenta años. [[Hwanji\|Hwanji]] trabajó como asistente de Dwookim durante varios años.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
+|-|-|
+|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
+|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
+|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
 
-https://coppermind.net/wiki/Dwookim
+https://es.coppermind.net/wiki/Dwookim

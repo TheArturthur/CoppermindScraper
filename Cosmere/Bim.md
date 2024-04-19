@@ -1,90 +1,104 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Bim**|
 |-|-|
-|by  Jill Andersen |
-|**Died**|80 , Skyward Flight's Second Battle|
-|**Profession**|DDF pilots|
-|**Ethnicity**|[[Yeongian\|Yeongian]]|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+||
+|**Fallecido**|80 , segunda batalla del Escuadrón Cielo|
+|**Oficio**|Piloto de la FDD|
+|**Etnia**|[[Yeongiano\|Yeongiano]]|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
->“*I talked to some cadets from Firestorm Flight this morning. They've been dogfighting this entire time.*”
-\-Bim complaining to Cobb about not spending more time using Poco weaponry.[2]
-
-
-**Bim** is a [[Yeongian\|Yeongian]] cadet at the [[DDF\|DDF]] [[Flight school\|flight school]] on [[Detritus\|Detritus]]. He is in [[Skyward Flight\|Skyward Flight]], however, does not have a callsign. Bim dies during battle, while attempting to destroy a [[Lifebuster\|lifebuster]].
-
-## Contents
-
-1 Appearance and Personality
-2 Attributes and Abilities
-
-2.1 Flight Training
+>“*Bueno, es que esta mañana he estado hablando con unos cadetes del Escuadrón Tormenta de Fuego, y **ellos** llevan desde el principio haciendo escaramuzas.*”
+\-Bim quejándose a Cobb por no pasar más tiempo usando armamento con el Poco.[2]
 
 
-3 History
+**Bim** es un cadete [[Yeongiano\|yeongiano]] en la [[Escuela de vuelo\|escuela de vuelo]] de la [[FDD\|FDD]] en [[Detritus\|Detritus]]. Está en el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]], sin embargo, no tiene identificador. Muere en combate al intentar destruir una [[Aniquiladora\|aniquiladora]].
 
-3.1 Early Life
-3.2 Flight School
+## Sumario
 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 
-4 Relationships
-
-4.1 Spensa
-4.2 Cobb
-4.3 Jorgen Weight
+2. [[#Entrenamiento con el escuadr.C3.B3n]] 
 
 
-5 Notes
+3 Historia. [[#Historia]] 
+
+3. [[#Vida temprana]] 
+3. [[#Escuela de vuelo]] 
 
 
-## Appearance and Personality
- by  Hinumay 
->“*Fly back in? Can’t we just turn off the holograms and go grab some grub?*”
-\-Bim's attitude during Skyward Flight training[3]
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Spensa]] 
+4. [[#Cobb]] 
+4. [[#Jorgen Weight]] 
 
 
-Bim has dark blue hair, is enthusiastic, earnest, and relatively good looking. He is Yeongian, and a descendant of the Chinese and Korean crew that made up the *Yeong-Gwang*. The ancestors of Bim's clan were part of the ship's  teams and likely are involved with production of food in caverns nearby to [[Igneous\|Igneous]] and [[Alta Base\|Alta Base]].
-Bim is overly eager when it comes to weaponry and constantly questioning when Skyward Flight will begin training on destructors. He is keen to begin learning to dogfight, and is frustrated that Cobb deprioritizes this training in favor of basic maneuvering. He is not overly eager to practice more routine exercises and suggests cutting corners, which Cobb does not appreciate.
-
-## Attributes and Abilities
-### Flight Training
-As someone who passed the flight school entrance exam, Bim is highly knowledgeable about piloting and [[Starfighter\|starfighters]]. He has trained to pilot a [[Poco\|Poco]], perform aerial maneuvers, and use its weaponry. He is highly interested in the destructor guns that are affixed to combat starfighters, and is overly eager to train using the weapons. Compared to his fellow flight members, Bim is not as skilled with a light-lance. Bim is aware of flight school traditions prior to starting his training as a cadet.
-
-## History
-### Early Life
-Little is known about Bim's childhood, however, as his clan maintained underground farms that produced food for the wealthy, it is likely that he assisted in some way with this production during his younger years.
-
-### Flight School
- by  Hitori Maron 
->“*Sir, is it true that if we crash a real ship while in training, we won't graduate?*”
-\-Bim to Cobb regarding cadet status following ejection[4]
+5 Notas. [[#Notas]] 
 
 
-After passing the entrance exam, Bim was placed in Skyward Flight under the tutorledge of [[Cobb\|Cobb]]. His first day of flight school saw him arriving at the class room with [[Hurl\|Hurl]], indicating that they may have known each other prior to the class. He is roomed with the other male members of his flight, however, the number of male members of Skyward Flight led to Bim having to sleep on a cot instead of permanent bed. After [[Rig\|Rig]] dropped out of flight school, it is likely that Bim took over his bed.
-During Skyward Flight's first lesson, Bim asked Cobb about the tradition of discharging cadets who eject during combat. Cobb denied there was an official rule that would dismiss cadets, and tried to discourage the cadets from listening to similar rumors. When the lesson was interrupted by a [[Varvax\|Krell]] attack, Bim, along with the rest of Skyward Flight, were ordered to take to the sky and line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict.
-During the game in which Skyward Flight practiced using their light-lances to Bim was the first to crash. After finishing the exercise, Bim attempted to flirt with [[Spensa\|Spensa]] by asking about her interest in heroes and stories. He hastily excuses himself after admitting that he didn't know of any of the figures Spensa had listed. Realizing that Bim had been trying to flirting with her Spensa attempted to flirt back by comparing him to .
-A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. During the firefight, Bim spotted a lifebuster heading towards [[Alta Base\|Alta Base]]. He and Spensa went to attack the ship, however, were attacked by the escort ships that had been attached to the side of the bomber. Ignoring Cobb's orders to fall back, Bim attempted to take the ship, insisting that he could hit it, however, was killed by the Krell escort ships.
+## Apariencia y personalidad
+ 
+>“*¿Que volvamos a la base? ¿No podemos apagar los hologramas, irnos a zampar y ya está?*”
+\-La actitud de Bim durante el entrenamiento del Escuadrón Cielo[3]
 
-## Relationships
+
+Bim tiene el pelo azul oscuro, es entusiasta, serio, y relativamente guapo. Es yeongiano, y descendiente de la tripulación china y coreana que formó el *[[Yeong-Gwang\|Yeong-Gwang]]*. Los antepasados del clan de Bim formaban parte de los equipos  de la nave y es probable que estén relacionados con la producción de alimentos en las cavernas cercanas a [[%C3%8Dgnea\|Ígnea]] y [[Base Alta\|Base Alta]].
+Bim se muestra excesivamente ansioso cuando se trata de armamento y se pregunta constantemente cuándo empezará el Escuadrón Cielo a entrenar con destructores. Está deseando empezar a aprender el combate aéreo, y le frustra que Cobb dé menos prioridad a formar en este campo en favor de las maniobras básicas. No tiene demasiadas ganas de practicar ejercicios más rutinarios y sugiere recortar esfuerzos, algo que a Cobb no le agrada.
+
+## Atributos y habilidades
+### Entrenamiento con el escuadrón
+Como alguien que aprobó el examen de acceso a la escuela de vuelo, Bim tiene grandes conocimientos sobre pilotaje y [[Caza estelar\|cazas estelares]]. Se ha entrenado para pilotar un [[Poco\|Poco]], realizar maniobras aéreas y utilizar su armamento. Le interesan mucho los cañones [[/wiki/Caza estelar#destructor]] que llevan los cazas estelares de combate, y está ansioso por aprender a usarlos. En comparación con sus compañeros de escuadrón, Bim no es tan hábil con la [[/wiki/Caza estelar#Lanza de luz]]. Conoce las tradiciones de la escuela de vuelo antes de empezar a entrenar como cadete.
+
+## Historia
+### Vida temprana
+Poco se sabe de la infancia de Bim, sin embargo, como su clan mantenía granjas subterráneas que producían alimentos para los ricos, es probable que ayudara de alguna manera en esta producción durante sus años de juventud.
+
+### Escuela de vuelo
+ 
+>“*Señor, ¿es cierto que, si estrellamos una nave de verdad entrenando, no podremos graduarnos?*”
+\-Bim a Cobb sobre el estatus de los cadete tras eyectarse[4]
+
+
+Tras aprobar el examen de ingreso, Bim fue asignado al Escuadrón Cielo bajo la tutela de [[Cobb\|Cobb]]. En su primer día en la escuela de vuelo, llegó a la sala de clases con [[Arcada\|Arcada]], lo que indica que pueden haberse conocido antes. Es alojado con los otros miembros masculinos de su escuadrón, sin embargo, el número de miembros masculinos del Escuadrón Cielo llevó a Bim a tener que dormir en un catre en lugar de cama permanente. Después de que [[Gali\|Gali]] abandonara la escuela de vuelo, es probable que Bim ocupara su cama.
+Durante la primera lección del Escuadrón Cielo, Bim preguntó a Cobb sobre la tradición de expulsar a los cadetes que se eyectan durante el combate. Cobb negó que hubiera una norma oficial que lo hiciera, e intentó disuadir a los cadetes de escuchar rumores similares. Cuando la lección se vio interrumpida por un ataque [[Varvax\|krell]], Bim, junto con el resto del Escuadrón Cielo, recibió la orden de surcar los cielos y alinearse cerca de la batalla para engañar a los krell y hacerles creer que había más pilotos dispuestos a unirse al conflicto.
+Durante el juego en el que el Escuadrón Cielo practicó el uso de sus lanzas de luz, Bim fue el primero en estrellarse. Tras terminar el ejercicio, intentó flirtear con [[Spensa\|Spensa]] preguntándole por su interés en héroes e historias. Se excusa apresuradamente tras admitir que no conocía a ninguna de las figuras que Spensa había enumerado. Al darse cuenta de que Bim había estado intentando flirtear con ella, Spensa intentó devolverle el flirteo comparándolo con .
+Unos días más tarde, el Escuadrón Cielo fue enviado de nuevo a la batalla contra los krell, esta vez luchando junto a pilotos de pleno derecho. Durante el combate, Bim divisó una aniquiladora que se dirigía hacia la Base Alta. Él y Spensa fueron a atacar la nave, sin embargo, fueron atacados por las naves de escolta que se habían acoplado al costado del bombardero. Ignorando las órdenes de Cobb de retroceder, Bim intentó asaltar la nave, insistiendo en que podía alcanzarla, sin embargo, fue abatido por las naves escolta krell.
+
+## Relaciones
 ### Spensa
->“*So, you're really into warriors and things, eh?*”
-\-Bim attempting to flirt with Spensa[2]
+>“*Bueno, así que te gustan mucho los guerreros y tal, ¿eh?*”
+\-Bim intentando ligar con Spensa[2]
 
 
-Bim has some level of romantic inclinations towards Spensa, and flirts with her during their time at flight school. Bim's unsubtle and awkward attempts to flirt with Spensa makes it likely that he is inexperienced when it comes to romance. He approved of her strategy to beat [[Jorgen\|Jorgen]] in the light-lance game, not seeing an issue with her actions. Following the revelation that Spensa's father was [[Zeen Nightshade\|Zeen Nightshade]], Bim began acting more cautious around Spensa, although it is unclear if this was because of her parentage or her temper.
-Spensa returns some of this attraction, acknowledging to herself that she finds him relatively attractive, as well as finding his antics and enthusiasm to be cute. She is aware, however, that relationships between cadets are strictly prohibited until after graduation.
-Spensa was hit hard by Bim's death and struggled with her grief after losing her friend, keenly aware of the holes that had been left in the flight by the loss of  and [[Morningtide\|Morningtide]]. Despite her initial struggles to vocalize her feelings about the loss of her friends, Spensa was able to offer the other members of Skyward Flight some words of comfort, reminiscing on Bim's positive attitude and how much he smiled. Following his death, she finds that she is more sharply reminded of his absence during times that he would have contributed to conversation during their training. She regrets being unable to help him choose a callsign before his death and attempts to share this with [[Hurl\|Hurl]], however, the other girl dismisses her due to a combination of trying to process her own grief and also because of her prejudices against Spensa's heritage. It took several weeks for Spensa to come to terms with Bim's death, and although she moved past her grief, his memory stayed with her and the loss of her flightmate never fully faded.
+Bim tiene ciertas inclinaciones románticas hacia Spensa, y coquetea con ella durante su estancia en el escuadrón. Los intentos poco sutiles y torpes de Bim por flirtear con Spensa hacen pensar que es inexperto en lo que a romances se refiere. Aprobó su estrategia para vencer a [[Jorgen\|Jorgen]] en el juego de lanza de luz, sin ver ningún problema en sus acciones. Tras la revelación de que el padre de Spensa era [[Zeen Nightshade\|Zeen Nightshade]], Bim empezó a actuar con más cautela con Spensa, aunque no está claro si se debía a su parentesco o a su temperamento.
+Spensa le devuelve parte de esta atracción y reconoce que le resulta relativamente atractivo, además de que sus payasadas y entusiasmo le parecen simpáticos. Sin embargo, es consciente de que las relaciones entre cadetes están estrictamente prohibidas hasta después de la graduación.
+La muerte de Bim golpeó duramente a Spensa, que tuvo que luchar con su dolor por la pérdida de su amigo y era plenamente consciente de los agujeros que habían dejado en el escuadrón la pérdida de  y [[Marea\|Marea]]. A pesar de sus dificultades iniciales para expresar sus sentimientos por la pérdida de sus amigos, Spensa fue capaz de ofrecer a los demás miembros del Escuadrón Cielo algunas palabras de consuelo, recordando la actitud positiva de Bim y lo mucho que sonreía. Tras su muerte, se da cuenta de que su ausencia es más aguda en los momentos en los que él habría contribuido a la conversación durante su formación. Lamenta no haber podido ayudarle a elegir un identificador antes de su muerte e intenta compartirlo con [[Arcada\|Arcada]], sin embargo, la otra chica la rechaza debido a una combinación de intentar procesar su propio dolor y también por sus prejuicios contra la herencia de Spensa. Spensa tardó varias semanas en asimilar la muerte de Bim y, aunque superó su dolor, su recuerdo permaneció con ella y la pérdida de su compañero de ala nunca se desvaneció del todo.
 
 ### Cobb
->“*You want to go sweep floors instead of being a fighter pilot, boy? I've seen rocks that fly almost as well as you do—I could drop one in your seat, paint the head blue, and at least I’d stop getting lip!*”
-\-Cobb responding to Bim's attitude during training[2]
+>“*¿Quieres barrer suelos en vez de luchar como piloto, chico? He visto piedras que vuelan casi tan bien como tú. ¡Podría meter una en tu asiento, pintarle de azul la parte de arriba, y por lo menos no sería tan respondona!*”
+\-Cobb respondiendo a la mala actitud de Bim durante el entrenamiento[2]
 
-Cobb finds Bim to be overeager and does not appreciate his fixation on weaponry, believing that it would end up with Bim dead. Conversely, Bim finds Cobb's constant refusal to teach Skyward Flight about starfighter weaponry to be frustrating and has a propensity to complain about this fact. Cobb is not pleased by Bim's attitude when he is given instructions or when by his suggestions to cut corners during training.
-Cobb blames [[Ironsides\|Ironsides]] for Bim's death, believing that the Admiral was wrong to be sending under-trained cadets into real battles. Spensa finds Cobb re-watching the battle, however, it is unclear if he was attempting to recreate scenarios where the battle had ended differently or if he was watching the recording for another reason.
+Cobb considera que Bim es demasiado entusiasta y no aprecia su fijación por el armamento, pues cree que acabaría con él muerto. Por el contrario, Bim encuentra frustrante la constante negativa de Cobb a enseñar al Escuadrón Cielo el armamento de los cazas estelares y tiene propensión a quejarse por esto. A Cobb no le agrada su actitud cuando le da instrucciones o cuando le sugiere recortar esfuerzos durante el entrenamiento.
+Cobb culpa a [[F%C3%A9rrea\|Férrea]] de la muerte de Bim, creyendo que la almirante se equivocó al enviar a cadetes poco formados a batallas reales. Spensa encuentra a Cobb viendo de nuevo la batalla, sin embargo, no está claro si estaba tratando de recrear escenarios en los que la batalla había terminado de manera diferente o si estaba viendo la grabación por otra razón.
 
 ### Jorgen Weight
-As Bim's flightleader, [[Jorgen\|Jorgen]] took his death hard, however, at first tried to put aside his grief to offer his support to the rest of his flight. Following Bim and Morningtide's deaths, Jorgen frequently replayed simulations of the battle to play out different outcomes. Although he ran through multiple scenarios, he was unable to find a way in which the battle had ended differently, which caused Jorgen great frustration.
+Como jefe de escuadrón de Bim, [[Jorgen\|Jorgen]] se tomó muy mal su muerte, sin embargo, al principio intentó dejar a un lado su dolor para ofrecer su apoyo al resto de su escuadrón. Tras las muertes de Bim y Marea, Jorgen repitió con frecuencia simulaciones de la batalla para ver diferentes resultados. Aunque repasó múltiples escenarios, fue incapaz de encontrar una forma en la que la batalla hubiera terminado de forma diferente, lo que le causó una gran frustración.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+LadyLameness (talk) 08:18, 16 de enero de 2020 (UTC)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Bim
+https://es.coppermind.net/wiki/Bim

@@ -1,37 +1,37 @@
 |**Wingflare**|
 |-|-|
-|**Abilities**|[[Epic\|Epic]]|
-|**Residence**|[[Lux (city)\|Lux]]|
-|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Capacidades**|[[%C3%89pico\|Épico]]|
+|**Residencia**||
+|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
 >“*There is nothing quite so special as to sip from the chalice of death. Sip, not swallow. To taste its sweet licorice on your toungue before releasing it back into the cup. Have you ever tasted something so sweet?*”
 \-Wingflare[1]
 
 
-**Wingflare** is an [[Epic\|Epic]]. She has incredibly strong telekinesis abilities. She is responsible for keeping the flying city of [[Lux (city)\|Lux]] aloft, as well as her massive compound. Her real name is **Shelly Sanders**.
+**Wingflare** is an . She has incredibly strong telekinesis abilities. She is responsible for keeping the flying city of  aloft, as well as her massive compound. Her real name is **Shelly Sanders**.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2.1 Powers
+2. [[#Powers]] 
 
-2.1.1 Wingflare’s Compound
-
-
-2.2 Weakness
+2. [[#Wingflare.E2.80.99s Compound]] 
 
 
-3 History
-
-3.1 Childhood
-3.2 Serving Lifeforce
-3.3 A Final Game
+2. [[#Weakness]] 
 
 
-4 Trivia
-5 Notes
+3 History. [[#History]] 
+
+3. [[#Childhood]] 
+3. [[#Serving Lifeforce]] 
+3. [[#A Final Game]] 
+
+
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -66,6 +66,18 @@ Wingflare led him to the old Oval Office, where three platters sat on the table,
 
 ## Trivia
 Wingflare hates potato chips.
+## Notes
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
+|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · |
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Wingflare
+
+https://es.coppermind.net/wiki/Wingflare

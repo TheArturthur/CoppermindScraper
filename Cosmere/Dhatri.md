@@ -1,55 +1,46 @@
+
+
 |**Dhatri**|
 |-|-|
-|**Shards**|*Unknown*|
-|**Investitures**|[[Aether\|Aethers]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**[[Esquirla\|Esquirlas]]**|*Desconocido*|
+|**[[Investidura\|Investiduras]]**|[[%C3%89ter\|Éter]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
->“*There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.*”
-\-Kelsier to Harmony[1]
-
-
-**Dhatri** is a planet in the [[Cosmere\|cosmere]] that is the origin of the [[Aether\|aethers]]. [[Kelsier\|Kelsier]] mentioned the planet to [[Harmony\|Harmony]] as a potential ally for [[Scadrial\|Scadrial]].
-
-## Contents
-
-1 History
-2 Culture
-
-2.1 Religion
-
-2.1.1 Gods
-2.1.2 Rebirth
+El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
+>“*Ahí fuera hay aliados potenciales. El mundo de Luzdeluna, quizá. O la tierra de los éteres. Qué narices, puede que hasta Mythos.*”
+\-Kelsier a Armonía[1]
 
 
+El **planeta natal de los éteres** es un [[/wiki/Cosmere#Planetas]] en el [[Cosmere\|Cosmere]] que es el origen de los [[%C3%89ter\|éteres]]. [[Kelsier\|Kelsier]] mencionó el planeta a [[Armon%C3%ADa\|Armonía]] como un aliado potencial para [[Scadrial\|Scadrial]].
+
+## Sumario
+
+1 Historia. [[#Historia]] 
+2 Cultura. [[#Cultura]] 
+3 Naciones. [[#Naciones]] 
+4 Habitantes. [[#Habitantes]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
-3 Nations
-4 Inhabitants
-5 Trivia
-6 Notes
+## Historia
+En un momento desconocido, fue golpeado por una fuerza o entidad conocida como [[%C3%89ter oscuro\|éter oscuro]], dejando el planeta inhóspito para los etervínculos.
 
+## Cultura
+Se sabe que adoran a los éteres como dioses, que creen que son anteriores no sólo a la [[Fragmentaci%C3%B3n\|Fragmentación]], sino incluso al mismo [[Adonalsium\|Adonalsium]].
 
-## History
-At an unknown point before 348 [[Catacendre\|PC]], it was struck by a force or entity known as the [[Dark aether\|dark aether]], leaving the planet inhospitable to aetherbound.
+## Naciones
+Tiene al menos doce reinos conocidos, cada uno aparentemente asociado con un éter específico. Se desconoce la naturaleza exacta de sus gobiernos, pero tienen un cargo conocido como Raj y un órgano conocido como .
 
-## Culture
-### Religion
-#### Gods
-They are known to worship the aethers as gods, which they believe predate not only the [[Shattering\|Shattering]], but [[Adonalsium\|Adonalsium]] in its entirety. They believe that aethers made all people, creating them to each think differently from one another.
-
-#### Rebirth
-They also believe humans were gifted with rebirth by the aethers to encourage, bless, and uplift their fellow people. Those that follow the aethers also hold that people return to the aethers upon their deaths to reflect upon their choices in life. It is believed that people who have made poor choices are cursed to wait a long time until their next rebirth. They often swear with phrases such as "by the first aether".
-
-## Nations
-It has at least twelve known kingdoms, each one seemingly associated with a specific aether. The exact nature of their governments is unknown, but they have a position known as a Raj, and a body known as the .
-
-## Inhabitants
+## Habitantes
 [[Sanvith Prasanva Maahik va Sila\|Sanvith Prasanva Maahik va Sila]]
-## Trivia
-The planet is a "12 world" just like [[Roshar\|Roshar]] is a 10-world and [[Scadrial\|Scadrial]] is a 16-world.
-The planet is inspired by the Indian Subcontinent.
-Brandon considers it to be one of the "core planets", and is planning a series set on the world.
-Brandon is being assisted in the world-building for Dhatri by individuals named Kelyani and Rahul.
+## Curiosidades
+El planeta es un «mundo basado en el 12» al igual que [[Roshar\|Roshar]] lo es en el 10 y [[Scadrial\|Scadrial]] en el 16.
+El planeta está inspirado en el subcontinente indio.
+Brandon lo considera uno de los «planetas centrales» y está planeando una serie ambientada en este mundo.
+El nombre previsto del planeta es Dahartri, aunque la grafía no ha sido canonizada.
+## Notas
 
 
-https://coppermind.net/wiki/Dhatri
+
+https://es.coppermind.net/wiki/Dhatri

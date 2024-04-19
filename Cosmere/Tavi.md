@@ -1,7 +1,7 @@
 |**Tavi**|
 |-|-|
-|**Abilities**|[[Epic\|Epic]]|
-|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Capacidades**||
+|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 
 **Tavi** is the daughter of [[Jonathan Phaedrus\|Jonathan Phaedrus]] and [[Tia\|Tia]] in the alternate universe to which Firefight is native. Tavi has short red hair in a pixie cut, and wears jeans and a denim jacket.
 
@@ -12,6 +12,17 @@ It is unknown whether a counterpart to Tavi exists in the main Reckoners univers
 ## History
 During the Reckoners' confrontation with the corrupted Prof at Sharp Tower, [[Megan Tarash\|Megan Tarash]] attempted to summon an uncorrupted alternate Prof to fight her world's version, thus deploying his own powers, which she believed at that time to be his weakness, against him. Megan was unable to find an uncorrupted version of Prof with the same power portfolio in a nearby reality, so she summoned Tavi instead. The two fought each other for several minutes, destroying much of the tower with their tensor power, before Prof overcame Tavi's defenses and knocked her unconscious. Tavi was then returned to her own world when [[David Charleston\|David Charleston]] triggered Megan's weakness in order to prevent her from succumbing to the corruption that summoning Tavi had brought upon her. Tavi appeared briefly when David and Calamity visited her universe, but David did not speak with her.
 
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Los Reckoners\|Los Reckoners]]**|
+|-|-|
+|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
+|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
+|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
+|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
+|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-https://coppermind.net/wiki/Tavi
+
+https://es.coppermind.net/wiki/Tavi

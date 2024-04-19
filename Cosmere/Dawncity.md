@@ -1,13 +1,34 @@
-|**Dawncity**|
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
+|**Ciudad del Amanecer**|
 |-|-|
-|**Related to**|[[Dawnsingers\|Dawnsingers]]|
-|**World of Origin**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Relacionado con**|[[Cantores del alba\|Cantores del alba]]|
+|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Dawncity** is a term used to describe a city on [[Roshar\|Roshar]] that is old enough to be able to trace the origin of said city all the way back to the [[Dawnsingers\|Dawnsingers]].
-As of 1173, discussing the Dawncities had recently become fashionable among the [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]]. In fact, Highprince [[Hatham\|Hatham's]] wife studied the Dawncities. [[Au-nak\|Au-nak]] believed that the city of [[Sesemalex Dar\|Sesemalex Dar]] was a Dawncity, due to the complex stone patterns that the city was built within. However, no city has yet been confirmed to be a Dawncity. In [[Dalinar\|Dalinar's]] [[Dalinar's visions\|visions]], he saw no sign of any of the Dawncities.
-It is believed that they may have been created by the Dawnsingers making use of an early form of [[Stoneshaping\|Stoneshaping]] to shape cities in the stone. They may also have been created with the use of [[Surgebinding\|Surgebinding]], although they are beyond the scope of what a single or group of Radiants could create using the power of [[Soulcasting\|Soulcasting]].
+**Ciudad del Amanecer** es un término utilizado para describir una ciudad de [[Roshar\|Roshar]] que es lo suficientemente antigua como para poder rastrear el origen de dicha ciudad hasta sus orígenes con los [[Cantores del alba\|cantores del alba]].
+A partir de 1173, hablar sobre las Ciudades del Amanecer se pone de moda entre los [[Ojos claros\|ojos claros]] [[Alezi\|alezi]]. De hecho, la esposa del altopríncipe [[Hatham\|Hatham]] estudió las Ciudades del Amanecer. [[Au-nak\|Au-nak]] creía que la ciudad de [[Sesemalex Dar\|Sesemalex Dar]] era una Ciudad del Amanecer, debido a los intrincados patrones de piedra con los que fue construida. Sin embargo, aún no se ha confirmado que ninguna ciudad sea una Ciudad del Amanecer. En las [[Visiones de Dalinar\|visiones]] de [[Dalinar\|Dalinar]], este no vio señales de ninguna de las Ciudades del Amanecer.
+Se cree que podrían haber sido creadas por los cantores del alba haciendo uso de una forma temprana de [[Escultura de piedra\|escultura de piedra]] para dar forma a ciudades en la piedra. También podrían haber sido creadas con el uso de [[Potenciaci%C3%B3n\|potenciación]], aunque están más allá del alcance de lo que un único Radiante o grupo de Radiantes podría crear utilizando el poder del [[Moldear almas\|moldeado de almas]].
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Windrunner (talk) 05:31, 30 April 2021 (UTC)
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Dawncities
+https://es.coppermind.net/wiki/Dawncity

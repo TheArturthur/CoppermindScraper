@@ -1,70 +1,83 @@
+
+
 |**Felt**|
 |-|-|
-|**Spouse**|[[Malli\|Malli]]|
-|**Abilities**|[[Worldhopper\|Worldhopper]]|
-|**Profession**|Spy, military scout|
-|**Ethnicity**|[[Noble\|Noble]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Mistborn: The Final Empire*|
+|**Cónyuge**|[[Malli\|Malli]]|
+|**Capacidades**|[[Saltamundos\|Saltamundos]]|
+|**Oficio**|Espía, explorador militar|
+|**Etnia**|[[Noble\|Noble]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Felt** is a [[Scadrian\|Scadrian]] [[Worldhopper\|worldhopper]]. He is on Scadrial during the end of the [[Final Empire\|Final Empire]], and on [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]] and the [[True Desolation\|True Desolation]].
+**Felt** es un [[Saltamundos\|saltamundos]] de [[Scadrial\|Scadrial]], que se encuentra en este planeta durante la caída del [[Imperio Final\|Imperio Final]], y en [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]] y la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
+2 Atributos y Habilidades. [[#Atributos y Habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 On Scadrial
-3.2 On Roshar
-
-
-4 Relationships
-
-4.1 Malli
-4.2 Elend Venture
-4.3 Kholin Family
+3. [[#En Scadrial]] 
+3. [[#En Roshar]] 
 
 
-5 Trivia
-6 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Malli]] 
+4. [[#Elend Venture]] 
+4. [[#Familia Kholin]] 
 
 
-## Appearance and Personality
-Felt has pale skin, a hawkish face, and a drooping mustache. He is considered a short man even on his native [[Scadrial\|Scadrial]]; on [[Roshar\|Roshar]], where people are naturally taller, he is diminutive. As a Scadrian, Felt's eyes are not shaped like those of eastern Rosharans, and are closer to the round eyes of the [[Shin\|Shin]]. [[Alethi\|Alethi]] people consider him [[Darkeyes\|darkeyed]], and think that he looks "foreign". He inherits a distinctive floppy brown hat when [[Bashin\|Bashin]] retires, and he often wears it as a memento.
-He is reliable, logical, and resourceful, and he provides a stable presence during missions. He is also thoughtful and observant, making him a very good spy. His competence and agreeable personality allow him a bit more liberty than other soldiers with regard to some rules and regulations. Unlike many prominent [[Noble\|nobles]], Felt has a solid work ethic. He appears to be loyal to the lords that he serves, and enjoys taking on any tasks that he is assigned.
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
-## Attributes and Abilities
-Felt is a worldhopper, and has been a member of various groups over the years. His motivations and allegiances have shifted at different points of his life, and he has sometimes been a "rogue agent" in the [[Cosmere\|cosmere]]. He has been cosmere-aware since his time on [[Scadrial\|Scadrial]], and was aware of interplanetary trade that occurred in the [[Pits of Hathsin\|Pits of Hathsin]], though he was not necessarily directly involved. He is not known to have revealed his abilities or cosmere knowledge to anyone on either Scadrial or [[Roshar\|Roshar]].
-He is noticeably lithe and nimble. By the time of the [[True Desolation\|True Desolation]], he is an older man; he is not quite as spry as he was in his youth, although he retains enough agility to climb outcroppings and perform other scouting duties without issue. He is also trained as a military scout; he is capable of surviving outdoors and leading groups of soldiers. His skills and his experiences as a worldhopper likely contribute to his uncanny knack for traveling through unknown places.
 
-## History
-### On Scadrial
-Felt was born the third son of a minor nobleman during the [[Final Empire\|Final Empire]] not long before its fall, and was used to working for a living.
-He was one of the main spies for [[House Venture\|House Venture]]. He worked for [[Straff Venture\|Straff Venture]] before the latter fled [[Luthadel\|Luthadel]], and he subsequently worked for his son, [[Elend Venture\|Elend Venture]]. He spied on [[Kelsier's crew\|Kelsier's crew's]] hideout and reported to Elend that they were a well-funded, competent [[Skaa\|skaa]] thieving crew. His information caused Elend to realize that [[Valette Renoux\|Valette Renoux]] was not what she seemed.
-During the [[Siege of Luthadel\|Siege of Luthadel]], Felt was tasked with figuring out how the city was being infiltrated by someone who was poisoning food. He interrogated the refugees entering the city and the people running the [[Luthadel\|Luthadel]] passwalls, but did not get very far. On a hunch, he had his men search the river and determined that someone had pried some drain grates free to create their own entrance into the city. Elend was pleased with Felt's competence and noticed that he took pleasure in his work. He resolved to utilize Felt's skills more often, including a possible assignment to find a [[Kandra\|kandra]] spy.
-Elend later noted that Felt was assigned to watch the [[Lord Ruler\|Lord Ruler's]] [[Storage cavern\|storage cavern]] in the east during the [[Siege of Fadrex City\|Siege of Fadrex City]].
+## Apariencia y Personalidad
+Felt tiene la piel pálida, cara afilada, y un bigote que cae a los lados. Es considerado un hombre bajo incluso en su Scadrial natal, y en [[Roshar\|Roshar]], donde la gente es más alta en general, es diminuto. Como scadriano, los ojos de Felt no tienen la forma típica alezi, y se parecen más a los ojos [[Shinovar\|shin]]. Los [[Alezi\|alezi]] le consideran [[Ojos oscuros\|ojos oscuros]], y piensan que parece "extranjero". Hereda un sombrero marrón y flexible muy distintivo cuando [[Bashin\|Bashin]] se retira, y lo suele llevar como recuerdo.
+Es una persona segura, lógica y con recursos, y proporciona estabilidad durante sus misiones. También es pensativo y observador, lo que le hace muy buen espía. Su competencia y personalidad agradable le permiten algo más de libertad que a otros soldados sobre algunas normas y reglas. A diferencia de muchos [[Noble\|nobles]] destacados, Felt tiene una ética de trabajo sólida. Parece ser leal a quienes sirve, y disfruta encargándose de cualquier tarea que le asignen.
 
-### On Roshar
- by  Marie Seeberger  Felt leading [[Dalinar\|Dalinar]] to the [[Valley\|Valley]]
-Felt was with Highprince [[Dalinar Kholin\|Dalinar Kholin]] when he visited the [[Nightwatcher\|Nightwatcher]] not long after the [[Assassination of Gavilar\|assassination of Gavilar]]. Dalinar trusted him, as Felt was one of only a few people that knew of the visit. Felt seemed to have some insight into the effects of the Nightwatcher, and cautioned Dalinar about visiting her. Felt had visited the Nightwatcher prior to his trip with Dalinar, but she did not show herself; he believed that this was because she did not like foreigners, especially someone as "foreign" as he was. He also chuckled at Dalinar's lack of knowledge regarding birds (or "chickens", as Dalinar called them). Felt was the first person to say [[Evi\|Evi's]] name to Dalinar after [[Cultivation\|Cultivation's]] [[Old Magic\|Old Magic]] took effect.
-He took part in the [[War of Reckoning\|War of Reckoning]], acting as an [[Alethi\|Alethi]] scout on the [[Shattered Plains\|Shattered Plains]] who reported to [[Lyn\|Lyn]] during the [[Battle of Narak\|Battle of Narak]]. He and [[Shim\|Shim]] were sent to scout the plateaus surrounding [[Narak\|Narak]] prior to the battle.
-Felt remained loyal to [[House Kholin\|House Kholin]] during the [[True Desolation\|True Desolation]], and was chosen to accompany Highprince [[Adolin Kholin\|Adolin Kholin]] and [[Shallan Davar\|Shallan Davar]] on their journey through [[Shadesmar\|Shadesmar]] to [[Lasting Integrity\|Lasting Integrity]]. Adolin considered Felt's even temperament and scouting skills invaluable. Felt monitored the movements of a group of [[Tukar\|Tukari]] that were following the expedition, reporting on them to Adolin. He was surprised to see the intelligence exhibited by [[Gallant\|Gallant]] when Adolin needed assistance. When Adolin was put on trial, Felt did not return to [[Urithiru\|Urithiru]], instead staying in a camp near Lasting Integrity as part of Adolin's small support team.
+## Atributos y Habilidades
+Como saltamundos ha sido miembro de varios grupos a lo largo de los años. Sus motivaciones y lealtades han cambiado a lo largo de su vida, y ha sido un “agente encubierto” en el [[Cosmere\|cosmere]]. Ha sido consciente del cosmere desde su época en Scadrial, y también estaba el tanto del comercio interplanetario que ocurría en los [[Pozos de Hathsin\|Pozos de Hathsin]], aunque eso no implica que necesariamente estuviera involucrado en ello. Que se sepa no ha revelado sus habilidades o su conocimiento del cosmere a nadie ni en Scadrial ni en Roshar.
+Es notablemente ágil y hábil. Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] es un hombre mayor. No es tan vivaz como lo era en su juventud, aunque sigue conservando suficiente agilidad como para escalar sobre salientes rocosos o realizar tareas de exploración sin problemas. Tiene entrenamiento como explorador militar, y es capaz de sobrevivir a la intemperie y liderar grupos de soldados. Su habilidad y experiencia como saltamundos podrían contribuir a su extraña habilidad para viajar a lugares desconocidos.
 
-## Relationships
+## Historia
+### En Scadrial
+Felt nació como el tercer hijo de un noble menor durante el [[Imperio Final\|Imperio Final]], poco antes de que este cayera, y estaba acostumbrado a trabajar para ganarse la vida.
+Era uno de los espías principales de la [[Casa Venture\|Casa Venture]]. Trabajaba para [[Straff Venture\|Straff Venture]] antes de huir de Luthadel, y posteriormente trabajó para [[Elend\|Elend]]. Espió el escondite del [[Banda de Kelsier\|grupo de Kelsier]] e informó a Elend de que eran una competente banda de ladrones [[Skaa\|skaa]], con una buena financiación. Su información hizo que Elend se diera cuenta de que [[Valette Renoux\|Valette Renoux]] no era lo que parecía ser.
+Durante el [[Asedio de Luthadel\|asedio de Luthadel]], Felt se encargó de averiguar quién se había infiltrado en la ciudad para envenenar la comida. Interrogó a los refugiados que entraban en la ciudad y a las personas que dirigían las murallas de [[Luthadel\|Luthadel]], pero no obtuvo demasiada información. Siguiendo una corazonada, hizo que sus hombres registraran el río y descubrió que alguien había levantado las rejillas de drenaje para crear su propia entrada. Elend quedó satisfecho con el desempeño de Felt, y además se dio cuenta de que este disfrutaba realizando su trabajo, por lo que decidió valerse más a menudo de él, incluyendo la tarea de encontrar un espía [[Kandra\|kandra]].
+Más tarde, durante el [[Asedio de Ciudad Fadrex\|asedio de Ciudad Fadrex]], Elend se da cuenta de que Felt había sido asignado a vigilar la [[Caverna de suministros\|caverna de suministros]] del [[Lord Legislador\|lord Legislador]] que se encontraba al este.
+
+### En Roshar
+  Felt guiando a <<Dalinar\|Dalinar>> hacia el <<Valle\|Valle>>
+Felt acompañaba a [[Dalinar\|Dalinar]] cuando este visitó a la [[Vigilante Nocturna\|Vigilante Nocturna]], poco después del [[Asesinato de Gavilar\|asesinato de Gavilar]]. Dalinar parece confiar en él, como demuestra el hecho de que era de los pocos que conocían esta visita. El scradriano parece saber las consecuencias de hablar con la spren, y advierte a Dalinar sobre ir a verla. Felt había visitado a la Vigilante Nocturna antes de su viaje con Dalinar, pero ella no se reveló. Felt cree que ello se debió a que no le gustan los extranjeros, especialmente alguien tan “extranjero” como él. También se ríe del desconocimiento de Dalinar sobre los pájaros (o pollos, como les llama Dalinar). Felt estaba presente cuando Dalinar recibió su bendición y su maldición, y fue la primera persona en decirle el nombre de [[Evi Kholin\|Evi]] después de que la [[Antigua Magia\|Antigua Magia]] tuviera efecto.
+Formó parte de la [[Guerra de la Venganza\|Guerra de la Venganza]], actuando como un explorador [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] que avisó a [[Lyn\|Lyn]] durante la [[Batalla de Narak\|batalla de Narak]]. [[Shim\|Shim]] y él fueron enviados como exploradores a las mesetas de los alrededores de [[Narak\|Narak]] antes de la batalla.
+Felt se mantuvo leal a la casa Kholin durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], y fue escogido para acompañar a [[Adolin\|Adolin]] y a [[Shallan\|Shallan]] en su viaje por [[Shadesmar\|Shadesmar]] a [[Integridad Duradera\|Integridad Duradera]]. Adolin le describe como uno de los mejores hombres de los Kholin. Felt detectó el movimiento de un grupo de [[Tukar\|tukari]] que estaban siguiendo a su expedición, y reportó la información a Adolin. Le sorprendió la inteligencia demostrada por [[Galante\|Galante]] cuando Adolin necesitaba ayuda. Cuando Adolin fue llevado a juicio, Felt no volvió a Urithiru, sino que montó un campamento cerca de Integridad Duradera como pequeño grupo de apoyo.
+
+
+## Relaciones
 ### Malli
-Felt's wife [[Malli\|Malli]] has been present with him during several important events, including his visit to the [[Valley\|Valley]] with [[Dalinar\|Dalinar]] and the expedition to [[Lasting Integrity\|Lasting Integrity]]. Malli is able to use a [[Spanreed\|spanreed]] and write in [[Women's script\|women's script]], and can fulfill the role of a scribe on Felt's missions. Felt and Malli have only been seen together on [[Roshar\|Roshar]], and it is not known if she is a worldhopper or if she is even aware of Felt's abilities.
+[[Malli\|Malli]], la esposa de Felt, también estaba presente durante eventos importantes, como la visita al [[Valle\|Valle]] con Dalinar o la expedición a Integridad Duradera. Es capaz de usar [[Vinculaca%C3%B1as\|vinculacañas]] y escribir en la [[Escritura femenina\|escritura femenina]], y hace de escriba en las misiones de Felt. Felt y Malli solo han sido vistos juntos en Roshar, por lo que se desconoce si ella es una saltamundos o si es consciente siquiera de las habilidades de Felt.
 
 ### Elend Venture
-Despite the fact that Felt originally worked for his father, Elend respects him and his opinions. Because of the existence of [[Kandra\|kandra]] on Scadrial, it is difficult for Elend to fully trust anyone, but he has a very high level of confidence in Felt and gives him several important tasks.
+A pesar de que Felt originalmente trabajaba para su padre, Elend le respeta y respeta sus opiniones. Debido a la existencia de [[Kandra\|kandras]] en Scadrial, a Elend le cuesta confiar en alguien completamente, pero tiene un nivel de confianza bastante elevado en Felt y le encarga tareas importantes.
 
-### Kholin Family
-It is not clear how Felt came to know Dalinar, but by 1168, he was one of the Blackthorn's most trusted associates. Like Elend, Dalinar respects Felt and seeks his counsel despite Felt's relatively low social status. Felt's skillset and personality have kept him close to Dalinar and his family, and he is considered a friend rather than just a subordinate. Adolin respects Felt in the same way that his father does.
+### Familia Kholin
+No está claro cómo Felt llegó a conocer a Dalinar, pero en 1168, era uno de los asociados en el que más confiaba el Espina Negra. Como Elend, Dalinar respeta a Felt y busca su consejo a pesar del relativamente bajo estatus social de este. Sus habilidades y personalidad le han mantenido cerca de Dalinar y su familia, y este le considera un amigo más que un subordinado. Adolin respeta a Felt de la misma manera que su padre.
 
-## Trivia
-Felt is not "currently" part of the [[Seventeenth Shard\|Seventeenth Shard]].
-Felt would still have an idea of how to get [[Atium\|atium]], but would probably not be able to pull it off.
+## Curiosidades
+Felt no forma parte de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] "actualmente".
+Felt podría tener una idea de como conseguir [[Atium\|atium]], pero probablemente no sería capaz de llevarla a cabo.
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 19:47, 13 April 2021 (UTC)
+|**El [[Cosmere\|Cosmere]]**|
+|-|-|
+|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
+|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
+|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
+|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
 
 
-https://coppermind.net/wiki/Felt
+
+https://es.coppermind.net/wiki/Felt

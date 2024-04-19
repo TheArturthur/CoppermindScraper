@@ -1,13 +1,26 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Korath**|
 |-|-|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-**Korath** (**KoHwo**) was the founder of the [[Shu-Korath\|Shu-Korath]] religion.
-He was a student of [[Keseg\|Keseg]], who began the religion Shu-Keseg. Keseg preached unity, and his two disciples, Korath and [[Dereth\|Dereth]], interpreted this in different ways. Dereth took it to mean unity of governance, while Korath understood it as unity of love. The two split to create two different religions, [[Shu-Dereth\|Shu-Dereth]] and Shu-Korath.
-Korath adopted the [[Elantrian\|Elantrian]] symbol [[Aon\|Aon]] Omi to represent both his church and its God. This was a surprising choice, as many new followers of Shu-Korath considered Aons and the Elantrian religion to be heathen. However, by adopting the symbol, Korath hoped to prove that his church should love everybody. The center of Shu-Korath was eventually moved to Teod, after Korath's death.
-He had a pendant with the symbol forged, which eventually evolved into the current practice of exchanging Omi pendants at Korathi weddings, as well as the habit of many followers of Shu-Korath wearing the pendants. The pendants eveventually became known as Korathi pendants.
+**Korath** (**KoHwo**) fue el fundador de la religión [[Shu-Korath\|Shu-Korath]].
+Fue alumno de [[Keseg\|Keseg]], que inició la religión Shu-Keseg. Este predicaba la unidad, y sus dos discípulos, Korath y [[Dereth\|Dereth]], lo interpretaron de diferentes maneras. Dereth lo interpretó como unidad de gobierno, mientras que Korath lo entendió como unidad de amor. Los dos se separaron para crear dos religiones diferentes, [[Shu-Dereth\|Shu-Dereth]] y Shu-Korath.
+Korath adoptó el símbolo [[Elantrino\|elantrino]] del [[Aon\|aon]] Omi para representar tanto a su iglesia como a su Dios. Fue una elección sorprendente, ya que muchos de los nuevos seguidores del Shu-Korath consideraban que los aones y la religión elantrina eran paganos. Sin embargo, al adoptar el símbolo, Korath esperaba demostrar que su iglesia debía amar a todo el mundo. El centro del Shu-Korath se trasladó con el tiempo a Teod, tras la muerte de Korath.
+Mandó forjar un colgante con el símbolo, que con el tiempo evolucionó hasta convertirse en la práctica actual de intercambiar colgantes Omi en las bodas korathi, así como en la costumbre de muchos seguidores del Shu-Korath de llevar los colgantes. Estos acabaron conociéndose como colgantes korathi.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
 
-https://coppermind.net/wiki/Korath
+https://es.coppermind.net/wiki/Korath

@@ -1,48 +1,62 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Algernon Weight**|
 |-|-|
-|**Family**|
-|**Spouse**|[[Jeshua Weight\|Jeshua]]|
-|**Children**|[[Jorgen Weight\|Jorgen]]|
-|**Died**|Killed by Superiority|
-|**Profession**|Highforeman, [[National Assembly Leader\|NAL]]|
-|**Homeworld**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
-|**First Appeared**|*Skyward*|
+|**Familia**|
+|**Cónyuge**|[[Jeshua Weight\|Jeshua]]|
+|**Hijos**|[[Jorgen Weight\|Jorgen]]|
+|**Fallecido**|Asesinado por la Supremacía|
+|**Oficio**|Presidente de una empresa, [[L%C3%ADder de la Asamblea Nacional\|LAN]]|
+|**Mundo natal**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
-This page or section needs to be updated with new information for *Sunreach*, *ReDawn*, and *Evershore*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, y *[[Perpetua\|Perpetua]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*Dispense with the platitudes, Ironsides, you lost more ships tonight... You’re driving the DDF into the ground.*”
-\-Algernon criticizing Ironsides after a DDF battle[2]
-
-
-**Algernon Weight** is a [[National Assembly Leader\|National Assembly Leader]] (NAL) and the highforeman of [[Detritus\|Detritus]]’ largest intercavern shipping company. He is married to [[Jeshua Weight\|Jeshua Weight]], a First Citizen, and is [[Jorgen\|Jorgen]]’s father. The family lives in the lower caverns of [[Igneous Cavern\|Igneous]].
-Algernon is either currently, or has previously been, considered part of Detritus' military. He knows some amount about military tactics, including . Algernon is an extremely influential member of the community and has achieved high merit for his accomplishments. As such he has access to high class and luxury technology, such as private fighter jets, of which the family owns three.
-Algernon is a strong supporter of Dr. [[Thior\|Thior's]] claim that the defect does not exist and believes claims of its existence to be foolish. Ironsides finds his immovability on the issue frustrating, believing his threshold for proof to be too high.
-
-## Contents
-
-1 Appearance and Personality
-2 Relationships
-
-2.1 Jorgen
+>“*Déjese de clichés, Férrea. Esta noche ha perdido más naves. Está hundiendo usted la FDD.*”
+\-Algernon criticando a Férrea tras una batalla de la FDD[2]
 
 
-3 Notes
+**Algernon Weight** es un [[L%C3%ADderes de la Asamblea Nacional\|Líder de la Asamblea Nacional]] (LAN) y el alto capataz de la mayor naviera intercavernaria de [[Detritus\|Detritus]]. Está casado con [[Jeshua Weight\|Jeshua Weight]], una Primera Ciudadana, y es el padre de [[Jorgen\|Jorgen]]. La familia vive en las cavernas inferiores de [[Caverna %C3%8Dgnea\|Ignea]].
+Algernon es o ha sido considerado parte del ejército de Detritus. Sabe algo sobre tácticas militares, incluyendo . Algernon es un miembro muy influyente de la comunidad y ha conseguido grandes méritos por sus logros. Como tal, tiene acceso a tecnología de lujo y de clase alta, como aviones de combate privados, de los cuales la familia posee tres.
+Algernon es un firme partidario de la afirmación del doctor [[Thior\|Thior]] de que el defecto no existe y cree que las afirmaciones sobre su existencia son tontas. Férrea considera frustrante su inamovilidad en el tema, pues cree que su umbral de prueba es demasiado alto.
+
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Relaciones. [[#Relaciones]] 
+
+2. [[#Jorgen]] 
 
 
-## Appearance and Personality
-Algernon is a greying man, who is stiff and blunt. He wears military clothing, along with military pins denoting his achievements. He is critical of [[Ironsides\|Ironsides]] leadership of the Defiant Defense Force (DDF) and, along with NALs [[Valda Mendez\|Valda Mendez]] and [[Ukrit\|Ukrit]], confronts her days before the second half of the shipyard is due to fall from Detritus' atmosphere. Despite his criticisms, he supports Ironsides' plan to send the entire DDF to capture the shipyard.
+3 Notas. [[#Notas]] 
 
-## Relationships
+
+## Apariencia y personalidad
+Algernon es un hombre canoso, rígido y brusco. Lleva ropa militar, junto con insignias militares que denotan sus logros. Es crítico con el liderazgo de [[F%C3%A9rrea\|Férrea]] en la Fuerza de Defensa Desafiante (FDD) y, junto con los LAN [[Valda M%C3%A9ndez\|Valda Méndez]] y [[Ukrit\|Ukrit]], se enfrenta a ella días antes de que la segunda mitad del astillero caiga de la atmósfera de Detritus. A pesar de sus críticas, apoya el plan de Férrea de enviar a toda la FDD a capturar el astillero.
+
+## Relaciones
 ### Jorgen
->“*To be honest, during my practices -- before I started official training -- I thought a pair of wings might let me escape his legacy. But I’m not defiant. I’ll do what’s expected of me.*”
-\-Jorgen telling Spensa of his father[6]
+>“*Y si te soy sincero, en mis prácticas, antes de empezar el entrenamiento oficial, pensaba que un par de alas quizá me ayudaran a escapar de su legado. Pero no soy desafiante. Haré lo que se espera de mí.*”
+\-Jorgen hablándole a Spensa sobre su padre[6]
 
 
-Algernon and Jorgen have a strained relationship, with Algernon having a large amount of control over Jorgen's life and future career. Algernon expects his son to follow in his footsteps and join the NAL as a politician, creating an avenue for Algernon to more easily interface with the DDF. Algernon specifically requests for Jorgen to be placed into [[Cobb\|Cobb's]] class to ensure the safety of his son.
-Algernon sends his son to flight school so that Jorgen can gain the privileges and respect awarded to pilots, as this will be beneficial when Jorgen transitions into the political sphere. According to Jorgen, his parents had planned for him to spend six months as a full pilot before claiming some sort of family emergency that would create an avenue for Jorgen to switch careers.
-Before joining flight school, Jorgen hoped that he could get out of his father's shadow by becoming a pilot, however, he has come to accept the ties that bind him. Algernon has always worried how much his son enjoys flying, likely seeing it as a potential threat to the life plan he has created for his son.
+Algernon y Jorgen tienen una relación tensa, en la que Algernon ejerce un gran control sobre la vida y la futura carrera de Jorgen. Espera que su hijo siga sus pasos y se una a la LAN como político, creando una vía para que Algernon interactúe más fácilmente con la FDD. Solicita específicamente que Jorgen sea colocado en la clase de [[Cobb\|Cobb]] para garantizar la seguridad de su hijo.
+Algernon envía a su hijo a la escuela de vuelo para que Jorgen pueda ganarse los privilegios y el respeto que se conceden a los pilotos, ya que esto será beneficioso cuando pase a la esfera política. Según Jorgen, sus padres habían planeado que pasara seis meses como piloto de pleno derecho antes de alegar algún tipo de emergencia familiar que creara una vía para que Jorgen cambiara de carrera.
+Antes de ingresar en la escuela de vuelo, Jorgen esperaba poder salir de la sombra de su padre convirtiéndose en piloto, sin embargo, ha llegado a aceptar los lazos que le unen. A Algernon siempre le ha preocupado lo mucho que le gusta volar a su hijo, probablemente lo ve como una amenaza potencial para el plan de vida que ha creado para él.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[Solar\|Solar]]*, ahora necesita volver a revisarse.
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Algernon_Weight
+https://es.coppermind.net/wiki/Algernon_Weight

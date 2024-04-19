@@ -1,77 +1,93 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Drile**|
 |-|-|
-|by  botanicaxu |
-|**Family**|
-|**Parents**|[[Reenst Rile\|Reenst Rile]]|
-|**Abilities**|[[Sand mastery\|Sand master]]|
-|**Titles**|Undermastrell, Diemfen , Mastrell |
-|**Groups**|[[Diem\|Diem]]|
-|**Residence**|[[Kezare\|Kezare]]|
-|**Ethnicity**|[[Daysider\|Daysider]]|
-|**Nationality**|[[Lossandin\|Lossandin]]|
-|**Homeworld**|[[Taldain\|Taldain]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*White Sand*|
+||
+|**Familia**|
+|**Padres**|[[Reenst Rile\|Reenst Rile]]|
+|**Capacidades**|[[Maestr%C3%ADa de la arena\|Maestro de la arena]]|
+|**Títulos**|Inframastrell, diemfen , mastrell |
+|**Grupo**|[[Diem\|Diem]]🐱︎|
+|**Residencia**|[[Kezare\|Kezare]]|
+|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
+|**Nacionalidad**|[[De Lossand\|de Lossand]]|
+|**Mundo natal**|[[Taldain\|Taldain]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
-**Drile** is a [[Lossand\|Lossandin]] [[Sand mastery\|sand master]] on the Dayside of [[Taldain\|Taldain]].
+**Drile** es un [[Maestr%C3%ADa de la arena\|maestro de la arena]][[Lossand\|lossandino]] en el Lado Diurno de [[Taldain\|Taldain]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 
-2.1 Sand mastery
-
-
-3 History
-4 Notes
+2. [[#Maestr.C3.ADa de la arena]] 
 
 
-## Appearance and Personality
-Drile is a young man about the same age as [[Kenton\|Kenton]]. He has half a head of brown hair, and keeps the other half shaved bald.
-Drile is a brash, impulsive young man who does not care for following rules. He is described by many as arrogant and overbearing.
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-Images of Drile
+## Apariencia y personalidad
+Drile es un joven de aproximadamente la misma edad que [[Kenton\|Kenton]]. Tiene media cabeza cubierta de pelo castaño, y mantiene la otra mitad rapada.
+Drile es un joven impetuoso e impulsivo al que no le importa seguir las normas. Muchos lo describen como arrogante y prepotente.
 
 
-
- Portrait
+Imágenes de Drile
 
 
 
-
-
- On *White Sand Volume 2* cover
+ Retrato
 
 
 
 
 
- On *White Sand Volume 3* cover
+ En la portada de *Arena Blanca volumen 2*
 
 
 
-## Attributes and Abilities
-### Sand mastery
-Drile is an incredibly powerful [[Sand mastery\|sand master]]. As a child, he impressed the mastrells overseeing his entrance exam into the Diem, displaying power seen only once or twice in a generation. He is considered the only man powerful enough to possibly challenge Lord Mastrell [[Praxton\|Praxton]] for leadership. Drile can control up to twenty-five ribbons of sand at once.
 
-## History
-Drile was a powerful sand master from a young age. He impressed Lord Mastrell [[Praxton\|Praxton]] with his showing during his test to become an acolent. He was viewed as a profitable recruit because of both his ability and his [[Reenst Rile\|father's]] prominence.
-Sometime after being raised to the rank of mastrell, Drile was unadvanced to the rank of diemfen in the wake of reports that he, along with a group of other sand masters following his orders, had made plans to offer up his sand mastery in exchange for payment. Drile was the first sand master in the history of the Diem to have been unadvanced.
-Shortly before the attack on the [[Diem\|Diem]], Drile refused to drink from the poisoned ceremonial bowl of water that [[Elorin\|Elorin]] gave to all of the sand masters. This action, along with his survival, led [[Kenton\|Kenton]] to believe that Drile was somehow behind the attack that left most of the Diem dead.
-Following the attack, he made his way to [[Kezare\|Kezare]] and tried to petition the [[Taishin\|Taishin]] to be granted the rank of Lord Mastrell, believing himself to be the highest ranking sand master still alive, but instead the Taishin wanted to disband the Diem. Kenton arrived, interrupting the meeting. Kenton forced the Taishin to not disband the Diem immediately, was made acting Lord Mastrell, and was given two weeks to secure the Diem's future. Afterwards Drile congratulated him for what he had done.
-Later, when Kenton arrived back at the Diem he found Drile distributing rooms in the Diem to his most loyal followers. Kenton confronted him, saying that he did not have the right to make a decision like this. Drile snarled that Kenton had no power over him, and used his sand to propel himself up to the mastrells' chambers. Kenton, to the astonishment of the watching crowd of sand masters, used his own sand to follow Drile. Kenton tried to kick Drile out of his father's chambers, Drile refused, and instead accused Kenton of betraying the Diem to the Kerztians. Drile pushed Kenton off the ledge, but Kenton used his sand to catch himself and come back up. He then attacked and overpowered Drile. He commanded Drile to stay out of his father's rooms, and to take off the golden mastrell's sash he had been wearing, threatening to report him to the Taishin if he disobeyed. The next day, he and a few of his followers returned to the Diem wearing black belts over their sashes.
 
->“*What will we do? Where will we go? Who will protect us? I've made plans for us already. I have promises--promises of wealth and protection!*”
-\-Drile ranting in front of the Diem.[3]
-
-When Kenton returned to the Diem from his trip to the deep sands, he found Drile ranting in front of the Diem about his plans to take the sand masters elsewhere and profit from their powers. Kenton commanded him to stop spreading his paranoia through the Diem, but Drile refused to obey him. Kenton challenged Drile to a duel in the dueling pit, to take place right after the Taishin make their final vote on the fate of the Diem. Drile accepted his challenge on condition that their fight would take place before the vote and not after, and Kenton agreed. Kenton explained his rationale to [[Aarik\|Aarik]], that even if he dies and Drile becomes Lord Mastrell, at which he would do a horrible job, other better leaders will follow after him, and even Drile will not be able to change the Diem's charter after Kenton changed it to give the Diem a more sustainable future.
-Drile came to taunt Kenton when he was showing [[Khriss\|Khriss]] the dueling pit where their fight was to take place, but Kenton brushes him off. Kenton, while traveling to [[Lraezare\|Lraezare]], tried [[Overmastery\|overmastering]] to increase the power of his mastery in order to increase his chances in his upcoming fight with Drile, and succeeds, becoming able to control five ribbons of sand, not just three.
-Before the duel began Elorin gave each of them water to drink from different ceremonial bowls, and gave an opening speech. Drile used all twenty-five of his ribbons to fight Kenton's five, and quickly overpowered him. Drile knocked Kenton to the ground and stood over him, taunting him for his failure.
-Kenton remembered his early career at the Diem and how he never gave up and the memory inspired him to restart the fight. Kenton began fighting with what he knew best and had trained himself for years to become the best at-- fighting with only one ribbon. He used his ribbon with skill interrupting ribbon after ribbon of Drile's. Drile grew frustrated and started fighting more desperately. As a last resort Drile tried doing what Praxton had done that day in the [[Kerla\|Kerla]], produce an explosion of sand to decimate his enemies, or in this case his enemy, Kenton. Drile began gathering power about himself, but then suddenly collapsed in a heap, dehydrated. Kenton, victorious, helped Drile to his feet, spared his life, and had a stretcher haul him away to recover. After the Taishin casted their votes, in the Diem's favor, Kenton went to check on Drile in his sick bed. Drile told him that he felt weak during their fight, the same way he had felt when he was attacked by the Kerztians in the Kerla. Kenton theorized that someone had been trying to ensure that the Diem would be led by a weak ruler, Kenton. Together they realized that someone must have poisoned the water Drile had drank before this fight and the water they had both drank before the fight in the Kerla. They soon realized that it must have been Elorin, and Kenton confronted and killed him.
-Afterwards Kenton, with Drile at his side, led the Diem in a new direction, different from how it was run in the past.
+ En la portada de *Arena Blanca volumen 3*
 
 
 
-https://coppermind.net/wiki/Drile
+## Atributos y habilidades
+### Maestría de la arena
+Drile es un [[Maestr%C3%ADa de la arena\|maestro de la arena]] increíblemente poderoso. De niño, impresionó a los mastrell que supervisaban su examen de ingreso en el Diem, mostrando un poder que sólo se veía una o dos veces cada generación. Se le considera el único hombre lo bastante poderoso como para disputarle el liderazgo al lord mastrell [[Praxton\|Praxton]]. Drile puede controlar hasta veinticinco cintas de arena a la vez.
+
+## Historia
+Drile fue un poderoso maestro de la arena desde muy joven. Impresionó a [[/wiki/Taishin#El lord mastrell]] [[Praxton\|Praxton]] con su demostración durante su prueba para convertirse en acolento. Se le consideraba un recluta rentable tanto por su habilidad como por la relevancia de su [[Reenst Rile\|padre]].
+Poco después de ascender al rango de mastrell, Drile fue degradado al rango de diemfen a raíz de los informes de que, junto con un grupo de otros maestros de la arena que seguían sus órdenes, había hecho planes para ofrecer su maestría de la arena a cambio de un pago. Drile fue el primer maestro de arena de la historia del Diem al que no se ascendió.
+Poco antes del ataque contra el [[Diem\|Diem]], Drile se negó a beber del cuenco de agua ceremonial envenenado que [[Elorin\|Elorin]] dio a todos los maestros de la arena. Esta acción, junto con su supervivencia, llevó a [[Kenton\|Kenton]] a creer que Drile estaba de algún modo detrás del ataque que acabó con la vida de la mayoría del Diem.
+Tras el ataque, se dirigió a [[Kezare\|Kezare]] e intentó solicitar a los [[Taishin\|Taishin]] que le concediera el rango de lord mastrell, creyéndose el maestro de la arena de mayor rango que seguía vivo, pero en lugar de eso los Taishin querían disolver el Diem. Kenton llegó, interrumpiendo la reunión. Obligó a los Taishin a no disolverlo inmediatamente, fue nombrado lord mastrell en funciones y se le concedieron dos semanas para asegurar el futuro del Diem. Después, Drile le felicitó por lo que había hecho.
+Más tarde, cuando Kenton regresó al Diem, encontró a Drile distribuyendo habitaciones en el Diem entre sus seguidores más leales. Kenton se enfrentó a él, diciéndole que no tenía derecho a tomar una decisión así. Drile gruñó que no tenía poder sobre él, y utilizó su arena para impulsarse hasta los aposentos de los mastrells. Kenton, ante el asombro de la multitud de maestros de la arena que lo observaban, utilizó su propia arena para seguir a Drile. Kenton intentó echarle de los aposentos de su padre, pero Drile se negó y acusó a Kenton de traicionar al Diem con los kerztianos. Drile empujó a Kenton por la cornisa, pero él utilizó su arena para agarrarse y volver a subir. Entonces atacó y dominó a Drile. Le ordenó que se mantuviera alejado de las habitaciones de su padre y que se quitara la banda dorada de mastrell que llevaba, amenazándole con denunciarlo a los Taishin si desobedecía. Al día siguiente, él y algunos de sus seguidores volvieron al Diem llevando cinturones negros sobre sus fajas.
+
+>“*¿Qué haremos? ¿Dónde iremos? ¿Quién nos defenderá? Ya he hecho planes para nosotros. Tengo promesas… ¡promesas de riqueza y protección!*”
+\-Drile despotricando delante del Diem.[3]
+
+Cuando Kenton retornó al Diem de su viaje a las arenas profundas, encontró a Drile despotricando delante del Diem sobre sus planes de llevarse a los maestros de la arena a otro lugar y sacar beneficio de sus poderes. Kenton le ordenó que dejara de propagar su paranoia por el Diem, pero Drile se negó a obedecerle. Kenton le retó a un duelo en el foso de duelos, que tendría lugar justo después de que los Taishin realizaran su votación final sobre el destino del Diem. Drile aceptó con la condición de que su combate tuviera lugar antes de la votación y no después, y Kenton aceptó. Kenton explicó su razonamiento a [[Aarik\|Aarik]], que aunque él muriera y Drile se convirtiera en lord mastrell, en lo que haría un trabajo horrible, otros líderes mejores le seguirían, e incluso Drile no podría cambiar los estatutos del Diem después de que Kenton los modificara para dar al Diem un futuro más sostenible.
+Drile vino a burlarse de Kenton cuando le estaba enseñando a [[Khriss\|Khriss]] el foso de duelos donde iba a tener lugar su combate, pero Kenton se lo quitó de encima. Este, mientras viajaba a [[Lraezare\|Lraezare]], probó a  para aumentar el poder de su dominio con el fin de aumentar sus posibilidades en su próximo combate con Drile, y lo consiguió, llegando a ser capaz de controlar cinco cintas de arena, no sólo tres.
+Antes de que comenzara el duelo, Elorin dio de beber a cada uno de ellos agua de diferentes cuencos ceremoniales, y pronunció un discurso de apertura. Drile utilizó sus veinticinco cintas para luchar contra las cinco de Kenton, y rápidamente le dominó. Drile tiró a Kenton al suelo y se colocó sobre él, burlándose de su fracaso.
+Kenton recordó sus inicios en el Diem y cómo nunca se rindió, y el recuerdo le inspiró para reanudar la lucha. Kenton empezó a luchar con lo que mejor sabía hacer y para lo que se había formado durante años: luchar con una sola cinta. Utilizó su cinta con habilidad, rompiendo cinta tras cinta de Drile. Este se frustró y empezó a luchar más desesperadamente. Como último recurso, Drile intentó hacer lo que Praxton había hecho aquel día en el [[Kerla\|Kerla]], producir una explosión de arena para diezmar a sus enemigos, o en este caso a su enemigo, Kenton. Empezó a acumular poder a su alrededor, pero de repente se desplomó sobre sí mismo, deshidratado. Kenton, victorioso, ayudó a Drile a ponerse en pie, le perdonó la vida e hizo que una camilla se lo llevara para que se recuperara. Después de que los Taishin emitieran sus votos, a favor del Diem, Kenton fue a ver a Drile en su cama. Drile le dijo que se había sentido débil durante el combate, igual que cuando fue atacado por los kerztianos en Kerla. Kenton teorizó que alguien había intentado asegurarse de que el Diem estuviera dirigido por un gobernante débil. Juntos se dieron cuenta de que alguien debía de haber envenenado el agua que Drile había bebido antes de este combate y el agua que ambos habían bebido antes del combate en el Kerla. Pronto se dieron cuenta de que debía de haber sido Elorin, y Kenton se enfrentó a él y lo mató.
+Después, Kenton, con Drile a su lado, dirigió el Diem en una nueva dirección, distinta de la que había tenido en el pasado.
+
+## Notas
+
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] ·  · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
+
+
+https://es.coppermind.net/wiki/Drile

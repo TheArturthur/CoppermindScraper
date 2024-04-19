@@ -1,58 +1,82 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Jackstom Harms**|
 |-|-|
-|**Family**|
-|**Children**|[[Steris\|Steris]], [[Marasi\|Marasi]]|
-|**Relatives**|[[Armal\|Armal]]|
-|**Ancestors**|[[Spook\|Spook]]|
-|**Descendants**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
-|**Titles**|Lord|
-|**Religion**|[[Survivorism\|Survivorism]]|
-|**Residence**|[[Elendel\|Elendel]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+|**Familia**|
+|**Hijos**|[[Steris\|Steris]], [[Marasi\|Marasi]]|
+|**Parientes**|[[Armal\|Armal]]|
+|**Ancestros**|[[Fantasma\|Fantasma]]|
+|**Descendientes**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Títulos**|Lord|
+|**Religión**|[[Supervivencialismo\|Supervivencialismo]]|
+|**Residencia**|[[Elendel\|Elendel]]|
+|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Shadows of Self* and *The Lost Metal*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Sombras de identidad\|Sombras de identidad]]* y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Jackstom Harms** is the head of [[House Harms\|House Harms]] and a member of the [[Elendel\|Elendel]] nobility on [[Scadrial\|Scadrial]].
+**Jackstom Harms** es el jefe de la casa [[Casa Harms\|Casa Harms]] y miembro de la nobleza de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2.1 Early Life
-2.2 Dealings with House Ladrian
-
-
-3 Relationship with Daughters
-4 Notes
+2. [[#Infancia]] 
+2. [[#Negocios con la Casa Ladrian]] 
 
 
-## Appearance and Personality
->“*This is our lot, son. To be lord of a house requires certain sacrifices.*”
-\-Lord Harms to Waxillium[3]
-
-Lord Harms is a rather fat man with long mustaches that hang down to his neck. He wears very expensive suits and often carries a mahogany cane that is a Harms family heirloom. Lord Harms is in the habit of daubing at his face with a handkerchief when in high stress situations.
-On the surface, Lord Harms is the very portrait of propriety. The man is dutiful, punctual to a fault, well-dressed, and lord of a wealthy, if less-influential, house. However, beneath the surface he is quite different. Lord Harms can be rude on occasion and is willing to force his way into rooms if he is left waiting too long. He also has a somewhat off-color sense of humor and will sometimes needle his daughter [[Steris\|Steris]] until she is enraged. Lord Harms at one point had an affair, which resulted in the birth of [[Marasi\|Marasi]]. Despite his indiscretions, Lord Harms often acts superior and condescending towards others, particularly towards [[Waxillium Ladrian\|Waxillium Ladrian]], who he feels needs a strong hand to keep him on the right path. When a situation becomes dire however, this arrogant facade cracks and all his bravado vanishes, leaving him desperate and helpless.
-It seems that despite his apparent flaws, Lord Harms is a competent lord to his house. House Harms is in an excellent situation financially. However, they lack high-level social connections and a male heir.
-
-## History
->“*I care nothing for the money or jewelry they took from me. It can be replaced, and most of it was insured anyway. But I’ll pay any price for Steris. Please. She is to be your fiancée! You have to find her!*”
-\-Lord Harms to Waxillium[5]
-
-### Early Life
-Very little is known about Lord Harms' early life. At some point during his youth, he was married to a woman with a rather harsh and cold personality -- likely a political marriage. His wife gave birth to a daughter, Steris. At some point during Lord Harms' marriage, he had an affair with another woman. That woman ultimately became pregnant and gave birth to [[Marasi\|Marasi]], Lord Harms' second daughter. Embarrassed to have an illegitimate daughter, he had her sent to a cousin house, where she was raised as Marasi Colms. Although not raised by Lord Harms, she was fully aware that he was her father and spent much time with him, as well as her half-sister, Steris.
-When it became apparent that Marasi was a [[Pulser\|Pulser]], Lord Harms insisted that she keep the ability quiet. He claimed that being an [[Allomancer\|Allomancer]] was unseemly, but in truth he did not want Marasi to appear as a better marriage prospect than Steris. Despite his generally poor treatment of Marasi, Lord Harms still paid for her education at [[Elendel University\|Elendel University]] and allowed her to stay in his home while she studied He claimed to be doing it out of charity, for her parents could not afford the cost. At an unknown point, Lord Harms' wife passed away.
-
-### Dealings with House Ladrian
-Several months after his return from the [[Roughs\|Roughs]], High Lord [[Waxillium Ladrian\|Waxillium Ladrian]] approached Lord Harms about the possibility of marriage to his daughter Steris. Since three other attempts to marry Steris off had been unsuccessful, Lord Harms jumped at the opportunity to join his house to such a prestigious house as [[House Ladrian\|House Ladrian]]. After a few months and several letters and conversations, Lord Harms felt prepared to allow Wax to begin courting Steris. He and Steris met Wax, as well as [[Wayne\|Wayne]] in the guise of Wax's fictional uncle Maksil, at Ladrian Mansion to discuss the potential betrothal. He also brought Marasi, who had insisted on accompanying them in order to meet her hero, Wax. Despite some misgivings about Wax's past as a lawman, the conversation proved fruitful and Lord Harms agreed that Wax and Steris should start courting with the eventual intention of marriage. The two decided that they would begin their courtship at the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]].
-While attending the wedding dinner, Lord Harms sat at a table with Wax, Steris, and Marasi. They conversed about Wax's time as a lawman and Marasi's studies at the university, although Lord Harms attempted to keep Marasi quiet. Eventually, the conversation grew too inappropriate and angered Steris, who left. Lord Harms blamed Marasi and Wax, although he admitted that he too was often tempted to annoy Steris. He sighted his friend, Lord [[Alernath\|Alernath]], at the bar and left the table to join him. When the Vanishers entered the room, Lord Harms was still seated at the bar and was too far away to do anything when Steris was kidnapped.
-After the firefight in which Wax and Wayne managed to rescue Marasi but not Steris, Lord Harms seemed stunned by Steris' kidnapping. He was terrified for her and begged Wax to find her, totally abandoning his previously condescending attitude towards Wax. He then left the party to sit in his carriage until Marasi wanted to leave so he could have some time to think for himself. The next day, Lord Harms agreed to finance Wax's efforts to find her, including the cost of the equipment Wax had purchased to analyze the [[Aluminum\|aluminum]] alloy in the Vanishers' equipment, as House Ladrian was lacking in liquid assets.
-
-## Relationship with Daughters
-Lord Harms has a rather interesting relationship with his daughters. Steris is very similar in temperament to Lord Harms' late wife, who it is implied he never truly loved. This often tempts Lord Harms to bother her more than he should, although he usually regrets it later, as Steris has him quite firmly under her control. However, he truly loves Steris, despite being baffled by her idiosyncrasies and bluntness. When she is captured by the [[Vanishers\|Vanishers]], Lord Harms is prepared to do whatever he can to see her safe. He has also impacted Steris' view of marriage; she considers extramarital affairs to be typical.
-His relationship with Marasi however, is far less positive. Years after her birth, Lord Harms still treats her as an embarrassment that needs to be covered up and placed well out of sight, even around those unaware that she is his daughter. Lord Harms is dismissive towards Marasi, sometimes to the point of foolishness. He actively seeks to keep her quiet about her interests and studies at the university. Lord Harms also insists that Marasi keep her powers and her parentage a secret. There is a bitterness to their relationship that cannot be ignored.
+3 Relación con sus hijas. [[#Relaci.C3.B3n con sus hijas]] 
+4 Notas. [[#Notas]] 
 
 
+## Apariencia y personalidad
+>“*Esa es nuestra suerte, hijo. Ser señor de una casa requiere ciertos sacrificios.*”
+\-Lord Harms a Waxillium[3]
 
-https://coppermind.net/wiki/Lord_Harms
+Lord Harms es un hombre más bien grueso con un largo bigote que cuelga hasta su cuello. Viste trajes muy caros y a menudo lleva un bastón de caoba que es una reliquia de la familia Harms. Lord Harms tiene la costumbre de frotarse la cara con un pañuelo en situaciones de mucho estrés.
+A primera vista, lord Harms es la mismísma encarnación de los buenos modales. Es diligente, puntual hasta decir basta, elegante y lord de una acaudalada, aunque menos influyente, casa. Sin embargo, bajo esa primera capa, es bastante diferente. Lord Harms puede ser grosero ocasionalmente y está dispuesto a entrar por la fuerza en una habitación si se le hace esperar mucho tiempo. También tiene un sentido del humor un tanto verde y algunas veces provoca a su hija [[Steris\|Steris]] hasta que esta se enfurece. En algún momento, lord Harms tuvo un amorío, que resultó en el nacimiento de [[Marasi\|Marasi]]. Pese a sus indiscreciones, a menudo actúa con superioridad y de forma condescendiente hacia otras personas, particularmente hacia [[Waxillium Ladrian\|Waxillium Ladrian]], pues piensa que necesita una mano fuerte para mantenerlo en el buen camino. Cuando una situación se vuelve nefasta, sin embargo, esa fachada arrogante se quiebra y toda su bravuconería desaparece, dejándolo desesperado e indefenso.
+Parece ser que a pesar de esos evidentes defectos, lord Harms es un lord competente para su casa. La Casa Harms se encuentra en una excelente situación financiera. Aun así, carecen de conexiones sociales de alto nivel y de un heredero varón.
+
+## Historia
+>“*No me importan ni el dinero ni las joyas que me [[Desvanecedores\|han quitado]]. Eso puede sustituirse, y la mayoría estaba asegurada de todas formas. Pero pagaré cualquier precio por [[Steris\|Steris]]. Por favor.¡Ella va a ser su prometida! ¡Tiene que encontrarla!*”
+\-Lord Harms a Waxillium[5]
+
+### Infancia
+Poco se conoce sobre la infancia de lord Harms. En algún momento durante su juventud, estuvo casado con una mujer con una personalidad bastante dura y fría; posiblemente se trate de un matrimonio político. Su mujer dio a luz a una niña, [[Steris\|Steris]]. En algún momento durante su matrimonio, tuvo un amorío con otra mujer. Esta última terminaría quedándose embarazada y daría a luz a [[Marasi\|Marasi]], siendo esta, por tanto, su segunda hija. Avergonzado por tener una hija ilegítima, la envió a la casa de un primo, donde se crio bajo el nombre de Marasi Colms. Aunque no fuese criada por lord Harms, ella era totalmente consciente de que él era su padre y pasó mucho tiempo con él, así como con su media hermana Steris.
+Cuando se volvió obvio que Marasi era una [[Pulsador\|pulsadora]], lord Harms insistió en mantener esta habilidad en secreto. Este afirmaba que ser un [[alomante] era indecoroso, pero en realidad no quería que Marasi pareciese una mejor candidata al matrimonio que Steris. A pesar del pobre tratamiento que tuvo con ella, lord Harms pagó aun así por su educación en la [[Universidad de Elendel\|Universidad de Elendel]] y le permitió hospedarse en su casa mientras ella estudiaba. Él afirmaba estar haciéndolo como acto caritativo, puesto que sus padres no podían permitirse el coste. En algún momento desconocido, la esposa de lord Harms falleció.
+
+### Negocios con la Casa Ladrian
+Unos meses tras su regreso de [[Los %C3%81ridos\|los Áridos]], el Gran Señor [[Waxillium Ladrian\|Waxillium Ladrian]] abordó a lord Harms preguntándole por la posibilidad de contraer matrimonio con su hija Steris. Puesto que tres previos intentos de matrimonio con Steris habían fracasado, lord Harms aprovechó esta oportunidad para unir su casa a una tan prestigiosa como la [[Casa Ladrian\|Casa Ladrian]]. Después de unos cuantos meses y varias cartas y conversaciones, lord Harms se sitió preparado para permitir que Wax comenzase a cortejar a Steris. Él y su hija se reunieron con Wax, así como [[Wayne\|Wayne]] (disfrazado como Maksil, el tío ficticio de Wax); en la Mansión Ladrian para discutir sobre el potencial compromiso. Harms también llevó a Marasi, quien insistió en acompañarlos para poder conocer a su héroe, Wax. Pese a algunas dudas sobre el pasado de Wax como vigilante de la ley, la conversación fue fructífera y lord Harms accedió a que Wax y Steris comenzasen a cortejarse con intención de casarse finalmente. Ambos decidieron que comenzarían su noviazgo en el [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]].
+Durante su el banquete, lord Harms se sentó en una mesa con Wax, Steris y Marasi. Hablaron sobre el tiempo que había pasado Wax como vigilante y sobre los estudios de Marasi en la universidad, auqnue lord Harms trato de que Marasi estuviese callada. Con el tiempo, la conversación pasó a ser inapropiada, enfureciendo a Steris, que terminó por marcharse. Lord Harms culpó Marasi y Wax, aunque admitió que el también se veía tentado a molestar a Steris en ocasiones. Vio a su amigo, lord [[Alernath\|Alernath]], en el bar y se marchó de la mesa para estar con él. Cuando los Desvanecedores irrumpieron en la sala, lord Harms continuaba estando sentado en el bar y estaba muy lejos como para poder hacer algo cuando Steris fue secuestrada.
+Tras el tiroteo en el que Wax y Wayne lograron rescatar a Marasi pero no a Steris, lord Harms parecía estar aturdido por el secuestro de su primera hija. Estaba aterrorizado por ella y le suplicó a Wax que la encontrara, abandonando por completo su previa actitud condescendiente hacia Wax. Después, se marchó de la fiesta para sentarse en su carruaje hasta que Marasi desease marcharse, para poder tener así algo de tiempo para pensar él solo. Al día siguiente, lord Harms se comprometió a financiar los esfuerzos de Wax para encontrar a su hija, incluyendo el coste del equipo que Wax compró para analizar la aleación de [[Aluminio\|aluminio]] del equipamiento de los Desvanecedores, ya que la Casa Ladrian carecía de activos líquidos.
+
+## Relación con sus hijas
+Lord Harms tiene una relación bastante interesante con sus hijas. Steris presenta un temperamento muy similar al de la difunta esposa de lord Harms, a quien queda implícito que nunca amó en realidad. Esto tienta a menudo al señor Harms a molestarla más de lo que debería, aunque suele arrepentirse de ello más tarde, puesto que Steris lo tiene bajo su control firmemente. Sin embargo, realmente la quiere, a pesar de que le desconciertan sus idiosincrasias y su franqueza. Cuando la secuestran los [[Desvanecedores\|Desvanecedores]], lord Harms está dispuesto a hacer todo lo que pueda para salvarla. También ha influenciado la percepción del matrimonio que tiene Steris; puesto que ella considera las relaciones extramatrimoniales como algo común.
+Su relación con Marasi, por otro lado, es bastante menos positiva. Aunque hayan pasado muchos años desde su nacimiento, lord Harms sigue tratándola como algo bochornoso que debe ocultar y mantener fuera de la vista de los demás, incluso alrededor de personas que no saben que es su hija. Lord Harms es desdeñoso con ella, a veces hasta el punto de rozar la estupidez. Intenta activamente evitar que hable de sus intereses y estudios universitarios. Lord Harms también insiste en que Marasi mantenga en secreto tanto sus poderes como su linaje. Hay cierto rencor en su relación que es imposible ignorar.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|-|-|
+|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
+|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
+|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
+|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
+|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+
+|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|-|-|
+|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
+|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
+|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
+|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
+|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
+|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+
+
+
+https://es.coppermind.net/wiki/Jackstom_Harms

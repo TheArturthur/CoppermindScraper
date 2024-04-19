@@ -1,19 +1,19 @@
 |**Alornia**|
 |-|-|
 |**Capital**|Alornia|
-|**Ruler**|[[Kairominas\|Kairominas]]|
-|**Universe**|[[Wode\|Wode]] [[State\|States]]|
+|**Gobernador**|[[Kairominas\|Kairominas]]|
+|**Universo**|[[Wode\|Wode]] [[State\|States]]|
 
-**Alornia** is the Personal State ruled by [[Kairominas\|Kairominas]].
+**Alornia** is the [[/wiki/State#Personal States]] ruled by [[Kairominas\|Kairominas]].
 
-## Contents
+## Sumario
 
-1 Setting
-2 History
-3 Magic
-4 Capital
-5 Border States
-6 Notes
+1 Setting. [[#Setting]] 
+2 History. [[#History]] 
+3 Magic. [[#Magic]] 
+4 Capital. [[#Capital]] 
+5 Border States. [[#Border States]] 
+6 Notes. [[#Notes]] 
 
 
 ## Setting
@@ -30,8 +30,17 @@ The main magic system within Alornia is called [[Lancing\|Lancing]], and is only
 Alornia is also the name of the capital city of the State. It is a bustling city located at the center of Kai's power, whose architecture involves golden domes on top of towers. The city's weather is always sunny and nice, controlled to be so by an Aurorastone. The center of the city has a hill, atop which sits Kai's palace.
 
 ## Border States
-Alornia has several Border States, where [[Liveborn\|Liveborns]] compete for the special resources in the area.
+Alornia has several [[/wiki/State#Border States]], where [[Liveborn\|Liveborns]] compete for the special resources in the area.
+
+## Notes
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Perfect State\|Perfect State]]**|
+|-|-|
+|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
+|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
+|**Geografía**| · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
 
-https://coppermind.net/wiki/Alornia
+https://es.coppermind.net/wiki/Alornia

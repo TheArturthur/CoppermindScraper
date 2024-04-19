@@ -1,85 +1,104 @@
+
+
 |**Mayalaran**|
 |-|-|
-|by  Nozomi |
-|**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Edgedancers\|Edgedancer]] magic, [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]]|
-|**Aliases**|Maya|
-|**Species**|[[Cultivationspren\|Cultivationspren]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*The Way of Kings*|
+||
+|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia [[Orden de los Danzantes del Filo\|Danzante del Filo]], [[Astilla\|Astilla]] de [[Cultivaci%C3%B3n\|Cultivación]]|
+|**Apodos**|Maya|
+|**Especie**|[[Cultivacispren\|Cultivacispren]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-This page or section needs to be updated with new information for *Rhythm of War*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
->“*We! CHOSE!*”
+>“*¡NOSOTROS! ¡ESCOGIMOS!*”
 \-Mayalaran[1]
 
 
-**Mayalaran** is a [[Deadeye\|deadeye]] [[Cultivationspren\|cultivationspren]] who was bonded to an [[Order of Edgedancers\|Edgedancer]] before the [[Recreance\|Recreance]]. She is currently the [[Shardblade\|Shardblade]] of [[Adolin Kholin\|Adolin Kholin]], who nicknames her **Maya**.
+**Mayalaran** es una [[Cultivacispren\|cultivacispren]] [[Ojomuerto\|ojomuerta]] que estuvo vinculada con un [[Danzante del Filo\|Danzante del Filo]] antes de la [[Traici%C3%B3n\|Traición]]. Actualmente es la [[Hoja esquirlada\|hoja esquirlada]] de [[Adolin Kholin\|Adolin Kholin]], que la llama **Maya**.
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 
-1.1 Appearance
-1.2 Personality
-
-
-2 History
-
-2.1 The Recreance
-2.2 The War of Reckoning (1167-1174)
-2.3 The True Desolation (1174-)
-2.4 Resurrection
+1. [[#Apariencia]] 
+1. [[#Personalidad]] 
 
 
-3 Notes
+2 Historia. [[#Historia]] 
+
+2. [[#La Traici.C3.B3n]] 
+2. [[#La Guerra de la Venganza .281167-1174.29]] 
+2. [[#La Aut.C3.A9ntica Desolaci.C3.B3n .281174-.29]] 
+2. [[#Resurrecci.C3.B3n]] 
 
 
-## Appearance and Personality
- by  LittleGreyDragon 
-### Appearance
-For more images, see [[Mayalaran/Gallery\|/Gallery]].
-Maya's appearance in [[Shadesmar\|Shadesmar]] is that of a woman with scratched-out eyes, akin to a painting with the features scratched out rather than simply empty sockets. Her features seem to be made of ashen brown cords the thickness of hair, giving her skin the appearance of rough cloth, string or brown vines. She has crystalline hands with long nails.
-In the [[Physical Realm\|Physical Realm]], Maya appears as a Shardblade. The blade itself is shaped like a larger version of a standard longsword, and bears some resemblance to the enormous two-handed broadswords traditionally wielded by the [[Horneater\|Horneaters]]. The cutting edge is smooth and sinuous, like an eel, while the back has ridges of crystal. When summoned, the mist it forms from is in the shape of vines.
+3 Notas. [[#Notas]] 
 
-### Personality
->“*You want to fight it, don’t you? It reminds you of when you were alive.*”
+
+## Apariencia y personalidad
+ 
+### Apariencia
+Para más imágenes, ver [[Mayalaran/Galer%C3%ADa\|/Galería]].
+El aspecto de Maya en [[Shadesmar\|Shadesmar]] es el de una mujer con los ojos raspados, más parecida a un lienzo con los rasgos acuchillados que simplemente alguien con las cuencas vacías. Sus rasgos parecen hechos de cordeles tensos, cenicientos, del grosor de un pelo, lo que le da a su piel la apariencia de tela basta, cuerda o enredaderas marrones. Tiene las manos de cristal y las uñas largas.
+En el [[Reino F%C3%ADsico\|Reino Físico]], Maya se manifiesta como una hoja esquirlada. Su forma es como una versión más grande de una espada larga normal, y guarda cierto parecido con los enormes mandobles que tradicionalmente empuñan los [[Comecuernos\|comecuernos]]. Su superficie es austeramente lisa, sinuosa como una anguila, con promontorios en la parte trasera como cristales crecientes. Cuando es invocada, la bruma que desprende tiene la forma de enredaderas.
+
+### Personalidad
+>“*Quieres luchar contra él, ¿verdad? Te recuerda a cuando estabas viva.*”
 \-Adolin[4]
 
 
-Not much is known about Maya's personality. Her face is devoid of emotion at all times and she mostly communicates through screeching. She always follows Adolin unless prevented, as deadeye spren follow or search out their corpses. However, she did, of her own volition, protect him from a Fused. During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], after Adolin talks to her, she tells him her name and even appears in his hand in seven heartbeats instead of the usual ten. She later replicated this during a battle in [[Jah Keved\|Jah Keved]]. When Adolin gives her to [[Hrdalm\|Hrdalm]], she sends him a sensation of resigned agreement. This suggests that rather than "dead", she -- and, by extension, other deadeyes -- is simply broken.
-During the trial at [[Lasting Integrity\|Lasting Integrity]], Maya managed, with Adolin's encouragement, to speak up in his defense. Her state since has improved somewhat, but she's still not very communicative.
+Sabemos muy poco sobre la personalidad de Maya. Su rostro está desprovisto de emoción en todo momento y principalmente se comunica a través de chillidos. Sigue siempre a Adolin a menos que se le indique lo contrario, ya que los spren ojomuertos siguen o buscan sus cuerpos. Sin embargo, sí que, por su propia voluntad, protegió a Adolin de unos Fusionados. Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], después de que Adolin hable con ella, ella le dice su nombre y se manifiesta en su mano con solo siete latidos, y no con los diez habituales. Más tarde, volvió a hacerlo durante una batalla en [[Jah Keved\|Jah Keved]]. Cuando Adolin la entregó a [[Hrdalm\|Hrdalm]] ella le envió una sensación de aceptación resignada. Esto sugiere que más que "muerta", ella, y por extensión el resto de ojomuertos, simplemente está quebrada.
+Durante el juicio en [[Integridad Duradera\|Integridad Duradera]], Maya consiguió, con el apoyo de Adolin, hablar en su defensa. Desde entonces, su estado ha mejorado un poco, pero todavía no es demasiado comunicativa.
 
-## History
-### The Recreance
-Mayalaran was killed by her bonded Edgedancer when they abandoned their oaths, believing that the [[Nahel bond\|Nahel bond]] would bring about the destruction of [[Roshar\|Roshar]] the way it had for humanity's homeworld, [[Ashyn\|Ashyn]]. During Adolin's trial, she reveals that she, along with all the other deadeyes, had chosen to sacrifice themselves through the Recreance: they were willing partners to the end of the Knights Radiant.
-At some point before the [[War of Reckoning\|War of Reckoning]], [[Adolin\|Adolin]] dueled a [[Lighteyes\|lighteyes]] named [[Tinalar\|Tinalar]]. Against everyone's expectations, he won the duel and secured Maya as his own. At the time, her name was unknown to anyone living. Believing it to be pretentious to give her one that wasn't hers, Adolin left her unnamed.
+## Historia
+### La Traición
+Mayalaran fue asesinada por el Danzante del Filo con el que estaba vinculada cuando abandonó sus juramentos, al creer que el [[V%C3%ADnculo Nahel\|vínculo Nahel]] traería la destrucción a [[Roshar\|Roshar]] de la misma forma que fue destruida la tierra natal de los humanos, [[Ashyn\|Ashyn]]. Durante el juicio de Adolin, Maya revela que ella, junto con el resto de ojomuertos, eligieron sacrificarse a través de la Traición: fueron compañeros fieles hasta el final de los Caballeros Radiantes.
+En algún momento anterior a la [[Guerra de la Venganza\|Guerra de la Venganza]], [[Adolin\|Adolin]] se batió en duelo con un [[Ojos claros\|ojos claros]] llamado [[Tinalar\|Tinalar]]. Contrario a lo que todos pensaban, ganó el duelo y se quedó con Maya. En aquel entonces, su nombre era desconocido para cualquier persona viva. Pensando que sería pretencioso darle un nombre que no fuera el de la espada, Adolin la dejó sin nombre.
 
-### The War of Reckoning (1167-1174)
- by  Marie Seeberger  Adolin holding Maya in Shardblade form
-Adolin often spoke to Maya and imagined that she listened to him. He believed that something that seemed like an extension of the soul itself was impossible to wield without feeling as though it too was alive. This in turn may account for some of the differences in the relationship between Adolin and Mayalaran in regards to other deadeye spren.
-Maya was one of the shards placed on the line in Adolin and Dalinar's dueling campaign to disarm the [[Shardbearer\|Shardbearers]] of the [[Highprince\|Highprinces]]. The most important duel of these was the one against [[Relis\|Relis]], [[Elit Ruthar\|Elit]], [[Abrobadar\|Abrobadar]] and [[Jakamav\|Jakamav]]. She was also present in many battles, including the [[Battle of the Tower\|Battle of the Tower]] and the [[Battle of Narak\|Battle of Narak]].
+### La Guerra de la Venganza (1167-1174)
+  Adolin sosteniendo a Maya en forma de hoja esquirlada
+A menudo, Adolin hablaba con Maya y se imaginaba que ella le escuchaba. Creía que era imposible manejar lo que parecía una extensión del alma sin sentir que también estaba viva. Este hecho puede ser la explicación a algunas de las diferencias en la relación entre Adolin y Mayalaran respecto a otros spren ojomuertos.
+Maya fue una de las hojas esquirladas apostadas en la campaña de Adolin y Dalinar para desarmar a los [[Portador de esquirlada\|portadores de esquirlada]] de los [[Alto pr%C3%ADncipe\|altos príncipes]]. De todos ellos, el duelo más importante fue contra [[Relis\|Relis]], [[Elit Ruthar\|Elit]], [[Abrobadar\|Abrobadar]] y [[Jakamav\|Jakamav]]. También estuvo presente en muchas batallas, como la [[Batalla de la Torre\|batalla de la Torre]] y la [[Batalla de Narak\|batalla de Narak]].
 
-### The True Desolation (1174-)
->“*Hmmm. She is quite dead.*”
-\-Pattern upon seeing Maya[6]
-
-
-Adolin talked with Maya before he, [[Kaladin\|Kaladin]], [[Shallan\|Shallan]] and [[Elhokar\|Elhokar]] stormed [[Kholinar Palace\|Kholinar Palace]]. He acknowledged that she was a dead spren and that he was sorry there was nothing he could do to fix that. He thanked her for all the years they've fought together and promised to try and use her only to do good.
-Maya and Adolin met for the first time when he crossed over into [[Shadesmar\|Shadesmar]] with [[Shallan\|Shallan]], [[Kaladin\|Kaladin]], [[Vivenna\|Vivenna]], [[Pattern\|Pattern]] and [[Sylphrena\|Sylphrena]] from the corrupted [[Oathgate\|Oathgate]] in [[Kholinar\|Kholinar]]. Pattern informed them all that Maya is quite dead. Usually, she trailed after Adolin, but when he didn't move, she remained motionless, and to go elsewhere she had to be lead by the hand.
-When travelling with the [[Reacher\|Reachers]], Maya was locked in a small room in the cargo hold by Captain [[Ico\|Ico]], who introduced the term "deadeye" to the group. He told Adolin that deadeyes wouldn't watch where they're going, which is why he couldn't have her on deck. He wasn't happy with Adolin's attitude towards her, telling him that he should not pretend Maya is his friend, and that she was only a tool to him.
-
- by  Nozomi  Held by the [[Honorspren\|honorspren]]
-At the [[Thaylen City\|Thaylen City]] Oathgate in Shadesmar, Maya protected Adolin from one of the [[Fused\|Fused]] without prompting and as a result she was stabbed with a sword, but didn't react beyond screeching. Later, once they reached Thaylen City proper, she and Adolin faced the [[Thunderclast\|thunderclast]]. Adolin believed she was made to fight them, being overly long for dueling, and that she wanted to fight because it reminded her of when she was alive. In response, she told him her name. During their fight, Adolin was able to summon her in only seven heartbeats after he pled with her to appear before the thunderclast caught him. After being too injured to continue, he loaned Maya to [[Hrdalm\|Hrdalm]], to which she responded with a sense of resigned agreement.
-
-### Resurrection
->“*She was the only judge who ever mattered, and today was her chance to offer judgment. You passed.*”
-\-Blended to Adolin[1]
+### La Auténtica Desolación (1174-)
+>“*Hum. Está bastante muerta.*”
+\-Patrón al ver a Maya[6]
 
 
-Maya has been at least partially revived. She regains consciousness during Adolin's trial by witness in [[Lasting Integrity\|Lasting Integrity]] while under physical restraint and emotional stress, in order to prevent the honorspren judge from using her as a witness to condemn Adolin for the [[Recreance\|Recreance]]. Maya explains that she willingly took that risk, knowing that it was possible that the spren would die when their Radiants forsook their oaths. She did not know that she would become a deadeye, but did accept the possibility of death.
-Once partially revived, Maya did not return fully to her pre-deadeye form. Her eyes remain scratched out, but she is able to speak and converse. Her thoughts and speech seem slightly slow or off, although that may simply be due to being newly revived and overwhelmed. Being revived did not create a [[Nahel bond\|Nahel bond]] between Adolin and Maya, though Adolin notes that he can sense her emotions and awareness, which is not part of a Nahel bond. It is unclear whether a deadeye can be completely restored to their original form.
+Adolin habló a Maya antes de que él, [[Kaladin\|Kaladin]], [[Shallan\|Shallan]] y [[Elhokar\|Elhokar]] irrumpieran en el [[Palacio de Kholinar\|Palacio de Kholinar]]. Reconoció que era una spren muerta y que lamentaba no poder hacer nada para arreglar esa circunstancia. Le dio las gracias por todos los años que habían peleado juntos y prometió usarla solo para hacer el bien.
+Maya y Adolin se vieron por primera vez cuando él cruzó a [[Shadesmar\|Shadesmar]] con [[Shallan\|Shallan]], [[Kaladin\|Kaladin]], [[Vivenna\|Vivenna]], [[Patr%C3%B3n\|Patrón]] y [[Sylphrena\|Sylphrena]] a través de la [[Puerta Jurada\|Puerta Jurada]] corrupta de [[Kholinar\|Kholinar]]. Patrón les informó de que Maya estaba bastante muerta. Por norma general, seguía a Adolin, pero cuando él no se movía, ella también permanecía quieta, y para llevarla a otro lugar tenían que conducirla de la mano.
+Cuando viajaban con los [[Alcanzadores\|Alcanzadores]], Maya fue encerrada en una pequeña habitación del barco, retenida por el capitán [[Ico\|Ico]], quien introdujo el término “ojomuerto” al grupo. Le dijo a Adolin que los ojomuertos no miran por donde van y por ello no quería tenerla en la cubierta. No estaba muy contento con la actitud de Adolin hacia ella, llegando a decirle que no tenía que pretender que Maya era su amiga y que no era más que una herramienta para él.
+
+  En poder de los <<Honorspren\|honorspren>>
+En la Puerta Jurada de [[Ciudad Thaylen\|Ciudad Thaylen]] en Shadesmar, Maya protegió a Adolin de un [[Fusionado\|Fusionado]] sin que se lo dijera nadie y por ello acabó atravesada por una espada, pero solo reaccionó chillando. Más tarde, y ya en Ciudad Thaylen, ella y Adolin se enfrentaron al [[Tronador\|tronador]]. Adolin pensó que Maya estaba diseñada para luchar contra ellos, siendo demasiado larga para los duelos, y por el hecho de que ella quería luchar porque le recordaba a cuando estaba viva. Como respuesta, Maya le dijo su nombre. Durante la pelea, Adolin fue capaz de invocarla en tan solo siete latidos después de que le rogara que apareciera antes de que el tronador lo alcanzara. Después, estando demasiado herido para continuar, le prestó a Maya a [[Hrdalm\|Hrdalm]], a lo que ella respondió con un sentimiento resignado de aceptación.
+
+### Resurrección
+>“*Ella era la única jueza que importaba desde el principio, y hoy ha sido su oportunidad de dictar sentencia.*”
+\-Mezcla a Adolin[1]
+
+
+Maya ha sido, al menos en parte, revivida. Recupera la conciencia durante el juicio por testimonio de Adolin en [[Integridad Duradera\|Integridad Duradera]] cuando estaba bajo restricción física y con mucho estrés emocional, para evitar que el juez honorspren la utilice como testigo para condenar a Adolin por la [[Traici%C3%B3n\|Traición]]. Maya explica que asumió el riesgo voluntariamente, sabiendo que existía la posibilidad de que los spren muriesen cuando sus Radiantes abandonaran los juramentos. No sabía que se convertiría en una ojomuerta, pero aceptó la posibilidad de morir.
+Cuando revive parcialmente, Maya no lo hizo completamente y con su forma anterior a su muerte. Sus ojos siguen raspados, pero puede hablar y conversar. Sus pensamientos y su forma de hablar parecen lentos o dispersos, aunque esto puede ser por estar recién revivida y sobrecogida por ello. Su resurrección no ha establecido un [[V%C3%ADnculo Nahel\|vínculo Nahel]] entre Adolin y Maya, aunque Adolin es capaz de sentir sus emociones y su consciencia, lo que no es parte del vínculo Nahel. No está claro si un ojomuerto puede volver del todo a su estado original.
+
+## Notas
+
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+Este artículo estaba completo y revisado , pero tras la publicación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, ahora necesita volver a revisarse.
+|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+|-|-|
+|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
+|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] ·  · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
+|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
+|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
+|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
+|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
+|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
+|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
+|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
+|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
+|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
 
-https://coppermind.net/wiki/Maya
+https://es.coppermind.net/wiki/Mayalaran

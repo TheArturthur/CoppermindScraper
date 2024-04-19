@@ -1,14 +1,28 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Sigo**|
 |-|-|
-|**Type**|Spacecraft, DDF Ships|
-|**World of Origin**|[[Detritus\|Detritus]]|
-|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Tipo**|Nave espacial, nave de la FDD|
+|**Mundo de origen**|[[Detritus\|Detritus]]|
+|**Universo**|[[Citoverso\|Citoverso]]|
 
-The **Sigo** is a [[Starfighter\|starfighter]] used by the [[DDF\|DDF]].
-[[Nightstorm Flight\|Nightstorm Flight]] uses Sigo-fighters that are branded with the flight's logo. Two members of Nightstorm Flight, Callsign [[Vent (Skyward)\|Vent]], and [[Nightstorm pilot seven\|his brother]] fly blue fighters.
-Vent and his brother died during the fight at the shipyard, and the ships were presumably destroyed.
-[[Jeshua Weight\|Jeshua Weight]] used to fly a Sigo and, after retiring from the DDF, kept a pewter figure of a Sigo in the center of the glass case with her medals; [[Jorgen Weight\|Jorgen]] notes she was very protective of it. As a kid, Jorgen would stare at the model for hours and think about the glory of being a pilot.
+El **Sigo** es un [[Caza estelar\|caza estelar]] utilizada por la [[FDD\|FDD]].
+El [[Escuadr%C3%B3n Tormenta Nocturna\|Escuadrón Tormenta Nocturna]] utiliza cazas Sigo que llevan el logotipo del escuadrón. Dos miembros del escuadrón, identificador [[Conducto (Escuadr%C3%B3n)\|Conducto]], y [[Tormenta Nocturna Siete\|su hermano]] pilotan cazas azules.
+Conducto y su hermano murieron durante la lucha en el astillero, y las naves fueron presumiblemente destruidas.
+[[Jeshua Weight\|Jeshua Weight]] solía pilotar un Sigo y, tras retirarse de la FDD, guardaba una figura de peltre de un Sigo en el centro de la vitrina con sus medallas; [[Jorgen Weight\|Jorgen]] señala que era muy protectora con ella. De niño, Jorgen se quedaba mirando el modelo durante horas y pensaba en la gloria de ser piloto.
+
+## Notas
+
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+--Stargazer (talk) 12:22, 28 de diciembre de 2021 (UTC)
+|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
+|-|-|
+|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
+|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
+|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
+|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
 
 
 
-https://coppermind.net/wiki/Sigo
+https://es.coppermind.net/wiki/Sigo

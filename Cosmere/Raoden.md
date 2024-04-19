@@ -1,127 +1,142 @@
+
+
 |**Raoden**|
 |-|-|
-|by  Shuravf |
-|**Arelene Royal Family**|
-|**Spouse**|[[Sarene\|Sarene]]|
-|**Parents**|[[Iadon\|Iadon]], [[Raoden's mother\|mother]]|
-|**Abilities**|[[Elantrian\|Elantrian]]|
-|**Bonded With**|[[Ien\|Ien]]|
-|**Titles**|King of [[Elantris (city)\|Elantris]], King of [[Arelon\|Arelon]]|
-|**Aliases**|Spirit, Kaloo|
-|**Residence**|[[Elantris (city)\|Elantris]]|
-|**Ethnicity**|[[Aonic\|Aonic]]|
-|**Nationality**|[[Arelene\|Arelene]]|
-|**Homeworld**|[[Sel\|Sel]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
-|**First Appeared**|*Elantris*|
+||
+|**[[Familia real arelena\|Familia real arelena]]**|
+|**Cónyuge**|[[Sarene\|Sarene]]|
+|**Padres**|[[Iadon\|Iadon]], [[Madre de Raoden\|madre]]|
+|**Capacidades**|[[Elantrino\|Elantrino]]|
+|**Vinculado con**|[[Ien\|Ien]]|
+|**Títulos**|Rey de [[Elantris (ciudad)\|Elantris]], rey de [[Arelon\|Arelon]]|
+|**Apodos**|Espíritu, Kaloo|
+|**Residencia**|[[Elantris (ciudad)\|Elantris]]|
+|**Etnia**|[[A%C3%B3nico\|Aónico]]|
+|**Nacionalidad**|[[De Arelon\|de Arelon]]|
+|**Mundo natal**|[[Sel\|Sel]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
-**Raoden** is the only son of King [[Iadon\|Iadon]] and is the current king of [[Arelon\|Arelon]].
+**Raoden** es el único hijo del rey [[Iadon\|Iadon]] y es el actual rey de [[Arelon\|Arelon]].
 
-## Contents
+## Sumario
 
-1 Appearance and Personality
-2 Attributes and Abilities
-3 History
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
 
-3.1 Pre-Reod
-3.2 Prince
-3.3 Post Shaod
+3. [[#Pre-Reod]] 
+3. [[#Pr.C3.ADncipe]] 
+3. [[#Post-Shaod]] 
 
-3.3.1 Arrival to Elantris
-3.3.2 Restoring Elantris to its Glory
-3.3.3 Reunion with Sarene
-3.3.4 Connecting to the Dor
-3.3.5 Infiltrating Arelon
-3.3.6 Healing the Elantrians and Fixing AonDor
-
-
-3.4 Married Life
+3. [[#Llegada a Elantris]] 
+3. [[#Restaurando Elantris a su gloria]] 
+3. [[#Reuni.C3.B3n con Sarene]] 
+3. [[#Conectando con el Dor]] 
+3. [[#Infiltraci.C3.B3n en Arelon]] 
+3. [[#Curando a los elantrinos y arreglando el AonDor]] 
 
 
-4 Relationships
-
-4.1 Sarene
-4.2 Iadon
-4.3 Galladon
-4.4 Arelish Nobles
+3. [[#Vida de casado]] 
 
 
-5 Trivia
-6 Notes
+4 Relaciones. [[#Relaciones]] 
+
+4. [[#Sarene]] 
+4. [[#Iadon]] 
+4. [[#Galladon]] 
+4. [[#Nobles arelenos]] 
 
 
-## Appearance and Personality
- by  Gar_leyva 
-For more images, see [[Raoden/Gallery\|/Gallery]].
-Before the Shaod, Raoden had brown hair, blue eyes, and a handsome face. When the Shaod took him, his hair fell out and his skin became wrinkled and grey with dark splotches, like all other Elantrians. Once Elantris was restored, he gained silver skin and pure white hair.
-Raoden has an optimistic attitude and a strong desire to improve the lives of the people around him. He is well-educated and skilled in debate and public speaking. He has a keen ability to determine how any one person can be useful in promoting the benefit of the whole. In Elantris he clearly shows his leadership abilities. He has a skillful hand and is able to proficiently learn and draw Aons. This in turn means that he is quite adept with [[AonDor\|AonDor]].
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
-## Attributes and Abilities
-As an Elantrian Raoden has enhanced speed, strength, insight and extreme regeneration. Not even decapitation would kill him. Raoden shows proficiency in drawing Aons. Both Galladon and Sarene comment on the grace and speed Raoden shows when drawing the symbols in the air. When he connects to the Dor, he shows skills in crafting illusions and combat Aons. Raoden has been mentioned as being "closer to the Dor than others" making his Aons more powerful.
-While sparring with Sarene under the guise of a noble named Kaloo, he shows that he is close in skill to Sarene and can fend off most of her attacks. He later reveals that he was taught by [[Eondel\|Eondel]]. As a prince, Raoden proves himself to be a capable leader by uniting the separate factions of Elantris and restoring the city to its glory. Raoden is Bonded to the Seon [[Ien\|Ien]]. He can use him to communicate with other Seons.
-As an Elantrian, Raoden and his Dor related abilities are tied to Elantris. The further Raoden is away from the city the more his power decreases. This goes for both the advantages of his Elantrian body and the effects of his Aons. The decrease is quite drastic; in Elantris, Raoden was able to travel all the way to Teod with a powerful Aon, while in Teod the same Aon only took him about 60 feet. For this reason Raoden would be unable to use AonDor if he ever were to leave Sel.
 
-## History
- by  Hayley Olivia 
+## Apariencia y personalidad
+ 
+Para más imágenes, ver [[Raoden/Galer%C3%ADa\|/Galería]].
+Antes de la Shaod, Raoden tiene el pelo rubio arena, los ojos azules y un rostro atractivo. Cuando la Shaod le alcanza, el pelo se le cae y su piel se vuelve gris y arrugada con manchas negras, como a cualquier otro elantrino. Una vez que Elantris es restaurada, su piel adquiere un tono plateado y su pelo un color blanco puro.
+Raoden tiene un actitud optimista y un fuerte deseo de mejorar las vidas de la gente que le rodea. Tiene una buena educación y es muy hábil con los debates y la oratoria. A Raoden se le da muy bien determinar qué puede aportar cada persona al bien común. En Elantris muestra claramente sus dotes de liderazgo. Tiene una mano diestra y es muy competente a la hora de de aprender y dibujar aones. Esto hace que sea casi un experto con el [[AonDor\|AonDor]].
+
+## Atributos y habilidades
+Como elantrino, Raoden tiene velocidad, fuerza y percepción mejoradas, así como una regeneración extrema. Ni siquiera puede morir por decapitación. Raoden demuestra ser competente dibujando aones. Tanto Galladon como Sarene hablan sobre la elegancia y velocidad que tiene Raoden cuando dibuja símbolos en el aire. Cuando conecta con el Dor, muestra habilidad creando ilusiones y combatiendo aones. Se menciona a Raoden como una persona que está «más cerca del Dor que otras» haciendo que sus aones sean más poderosos.
+Cuando pelea con Sarene bajo el disfraz de un noble llamado Kaloo, demuestra que tiene habilidades similares a las de Sarene y puede repeler la mayoría de sus ataques. Más tarde revela que fue entrenado por [[Eondel\|Eondel]]. Como príncipe, Raoden demuestra ser un líder capaz al unir las distintas facciones de Elantris y restaurar la gloria de la ciudad. Raoden está vinculado al seon [[Ien\|Ien]] y puede usarlo para comunicarse con otros seones.
+Como elantrino, las habilidades de Raoden relacionadas con el Dor están ligadas a Elantris. Cuanto más lejos está Raoden de la ciudad, más disminuye su poder. Esto se aplica tanto a las ventajas de su cuerpo de elantrino como a los efectos de sus aones. La disminución es bastante drástica; en Elantris, Raoden es capaz de viajar hasta Teod con un poderoso aon, mientras que en Teod el mismo aon solo lo aleja unos 18 metros. Por esta razón, Raoden no podría usar el AonDor si alguna vez saliera de Sel.
+
+## Historia
+ 
 ### Pre-Reod
-For the majority of his life, Raoden lived in the city of [[Kae\|Kae]], just outside of [[Elantris (city)\|Elantris]]. When he was younger, Raoden suffered from an infection after breaking his leg and was taken to Elantris to receive treatment. There, he witnessed the allure of the AonDor for the first time as a glowing character in the air caused the pain and wound to vanish. He felt a deep gratitude for the Elantrian woman who healed him and became angry when his father railed against the Elantrians on the way home. This led to the first of many arguments between Raoden and Iadon. At some point his mother died.
+Durante la mayor parte de su vida, Raoden vive en la ciudad de [[Kae\|Kae]], justo fuera de [[Elantris (ciudad)\|Elantris]]. Cuando es más joven, Raoden sufre una infección después de romperse la pierna y es llevado a Elantris para recibir tratamiento. Allí, presencia por primera vez el atractivo del AonDor cuando un brillante caracter en el aire hace que el dolor y la herida desaparezcan. Siente una profunda gratitud por la mujer elantrina que lo cura y se enfurece cuando su padre se queja de los elantrinos en el camino de regreso a casa. Esto desemboca en la primera de muchas discusiones entre Raoden e Iadon. En algún momento, su madre fallece.
 
-### Prince
-After the fall of Elantris and Iadon's coronation, Raoden became crown prince of Arelon. He had a rather strict education, being taught a variety of skills that were meant to tailor him into a successful king. However as he got older and more confident he was known to frequently disagree with his father, King [[Iadon\|Iadon]], on a variety of political points. Raoden even obtained fencing lessons from Count [[Eondel\|Eondel]] to spite his father. His differing opinions with an almost unanimously disliked king promoted a large following with the young prince. He also had a close friendship with [[Lukel\|Lukel]]. Before succumbing to the [[Shaod\|Shaod]], he was engaged to the [[Teo\|Teo]] princess, [[Sarene\|Sarene]].
+### Príncipe
+Tras la caída de Elantris y la coronación de Iadon, Raoden se convierte en el príncipe heredero de Arelon. Tiene una educación bastante estricta, aprendiendo una serie de habilidades que están destinadas a convertirlo en un rey exitoso. Sin embargo, a medida que se hace mayor y más seguro de sí mismo, se le conoce por estar en desacuerdo con su padre, el rey [[Iadon\|Iadon]], en muchos aspectos políticos. Raoden incluso recibe clases de esgrima del conde [[Eondel\|Eondel]] para desafiar a su padre. Sus diferencias de opinión con un rey casi universalmente despreciado le proporcionan al joven príncipe un gran seguimiento. También tiene una estrecha amistad con [[Lukel\|Lukel]]. Antes de sucumbir a la Shaod, se compromete con la princesa de [[Teod\|Teod]], Sarene.
 
- by  Elisgardor  Seeing himself in the mirror the morning the [[Shaod\|Shaod]] struck him.
-### Post Shaod
-#### Arrival to Elantris
-Ten years after the [[Reod\|Reod]], Raoden underwent the Shaod transformation into an [[Elantrian\|Elantrian]], a transformation that was, at the time, incomplete. He was immediately cast into the rotting city of Elantris, as was tradition, while his father claimed that he had died to the [[Coughing shivers\|Coughing shivers]]. When he was thrown into the city, he took the first step to the right and thus became the prey of [[Shaor\|Shaor's]] gang. Raoden was soon attacked by Shaor's men and attempted to run away. Raoden escaped from his pursuers by throwing them his basket with offerings. The mad Elantrians pounced on the basket and fought over it, paying no further attention to Raoden. Afterward he was approached by a [[Dula\|Dula]] named [[Galladon\|Galladon]] and learned that he had become like a corpse, with no heartbeat and an inability to heal his own wounds. Raoden hired Galladon as a guide for the next thirty days with the last of his offerings. Galladon told him of Elantris and the fate that awaited modern Elantrians. He eventually showed Raoden that Elantrians retained the ability to draw [[Aon\|Aons]], but that they were unable to access the [[Dor\|Dor]], making the glowing lines useless to the Elantrians. This led to Raoden's investigation of the connection between the failure of AonDor and the Reod.
+  Mirándose en el espejo la mañana que la <<Shaod\|Shaod>> le alcanza.
+### Post-Shaod
+#### Llegada a Elantris
+Diez años después del [[Reod\|Reod]], Raoden sufre la transformación de la Shaod convirtiéndose en un [[Elantrino\|elantrino]], una transformación que en ese momento está incompleta. Inmediatamente es arrojado a la deteriorada ciudad de Elantris, como es la tradición, mientras su padre declara que el príncipe ha muerto de [[Estertores tusivos\|estertores tusivos]]. Nada más llegar a la ciudad, se convierte en presa de la banda de [[Shaor\|Shaor]]. Al poco rato, Raoden es atacado por ellos e intenta huir. Escapa de sus perseguidores lanzándoles su cesta de ofrendas. Los locos elantrinos se abalanzan sobre la cesta y luchan por ella, sin prestar más atención a Raoden. Después es abordado por un [[Dula\|dula]] llamado [[Galladon\|Galladon]] y descubre que se ha convertido en algo así como un cadáver, sin latido del corazón y sin capacidad de curar sus propias heridas. Raoden contrata a Galladon como guía durante los próximos treinta días con lo que le queda de sus ofrendas. Él le habla de Elantris y del destino que aguarda a los elantrinos modernos. Finalmente, le muestra a Raoden que los elantrinos siguen teniendo la capacidad de dibujar [[Aon\|aones]], pero que no pueden acceder al [[Dor\|Dor]], haciendo que las líneas luminosas sean inútiles para los elantrinos. Esto desencadena la investigación que Raoden lleva a cabo sobre la conexión entre el fallo del AonDor y el Reod.
 
-#### Restoring Elantris to its Glory
-As an Elantrian, Raoden worked to bring peace and civilization to the people living in Elantris, who had devolved into a primitive, bestial society. First, he adopted the identity Spirit and rounded up new arrivals and convinced them to join him in rebuilding the city. After rumors spread that those surrounding Raoden no longer felt pain or hunger, many were drawn to the Elantrian. He later brought some semblance of order to the city by bringing together the two opposing factions led by [[Karata\|Karata]] and [[Aanden\|Aanden]], and providing resources to the Elantrians. Despite his own suffering, Raoden managed to restore a sense of purpose and hope to the Elantrians by assigning them individual jobs and assignments so they could better their once-glorious city.
+#### Restaurando Elantris a su gloria
+Como elantrino, Raoden trabaja para llevar paz y civilización a las personas que viven en Elantris, quienes han degenerado en una sociedad primitiva y salvaje. Primero, adopta la identidad de Espíritu y reúne a los que llegan nuevos convenciéndoles de unirse a él en la reconstrucción de la ciudad. Después de que se corran rumores de que aquellos que rodean a Raoden ya no sienten dolor ni hambre, muchos son atraídos por el elantrino. Luego, trae cierta forma de orden a la ciudad al unir a las dos facciones opuestas lideradas por [[Karata\|Karata]] y [[Aanden\|Aanden]], y al proporcionar recursos a los elantrinos. A pesar de su propio sufrimiento, Raoden logra restaurar un sentimiento de propósito y esperanza en los elantrinos asignándoles trabajos individuales y tareas para que puedan mejorar la ciudad que una vez fue gloriosa.
 
- by  Shuravf  Walking through the ruined city
-#### Reunion with Sarene
-In an attempt to better the lives of the Elantrians, Sarene brought food to Elantris. There Raoden met Sarene under the guise of Spirit but only he recognized the Teo princess while she believed him to be just a common Elantrian. Karata and Mareshe, posing as the head Elantrians, agreed to allow Sarene and the other nobles to distribute food to the people if they also provided various goods, which the Elantrians would later use to make clothing and some repairs to the city. Sarene suspected that Raoden as Spirit was the ruler of the Elantris and eventually started to trust him.
+  Caminando por las ruinas de la ciudad.
+#### Reunión con Sarene
+En un intento por mejorar la vida de los elantrinos, Sarene lleva comida a Elantris. Allí Raoden conoce a Sarene bajo la identidad de Espíritu, y aunque él reconoce a la princesa teoísa, ella cree que él es solo un elantrino común. Karata y Mareshe, fingiendo ser los líderes de los elantrinos, aceptan permitir que Sarene y los demás nobles distribuyan comida a la gente si también proporcionan algunos bienes que los elantrinos luego usarán para hacer ropa y algunas reparaciones en la ciudad. Sarene sospecha que Raoden, como Espíritu, es el gobernante de Elantris y al final comienza a confiar en él.
 
-#### Connecting to the Dor
-As Raoden and Galladon discussed AonDor, Galladon suggested that the land had changed, causing Raoden to realize that the chasm near Elantris had caused the Reod, rather than the other way around as most people believed. Raoden drew a modified Aon Ehe that included a line for the chasm, and a massive stream of fire that exploded from the Aon incinerated part of the library. With further experimentation, Galladon and Raoden determined that the AonDor was still inhibited and the strong burst of power was the result of a large reserve of energy being released at once. Further Aons didn't produce effects as powerful as the books described, any Aons that targeted each other didn't work at all, and they still had not become like the pre-Reod Elantrians. However, they were able to use the AonDor to some degree. For instance, Raoden crafted a handy Aon, based on Shao, that allowed him to create an illusion around him of a healthy human, making it possible to leave Elantris.
+#### Conectando con el Dor
+Mientras Raoden y Galladon discuten sobre el AonDor, Galladon sugiere que la tierra ha cambiado, lo que hace que Raoden se de cuenta de que el abismo cerca de Elantris ha causado el Reod, y no al revés como la mayoría de la gente cree. Raoden dibuja un aon Ehe modificado que incluye una línea para el abismo, y una enorme corriente de fuego que explota desde el aon incinera parte de la biblioteca. Tras más experimentación, Galladon y Raoden determinan que el AonDor sigue inhibido y que la fuerte explosión de energía es el resultado de una gran reserva de energía que se libera de una sola vez. Otros aones no producen efectos tan poderosos como los descritos en los libros, cualquier aon que se dirija a otro no funciona en absoluto, y además no se han convertido en elantrinos como los pre-Reod. Sin embargo, pueden usar el AonDor hasta cierto punto. Por ejemplo, Raoden crea un aon útil, basado en el Shao, que le permite crear una ilusión a su alrededor aparentando ser un humano sano, lo que les posibilita salir de Elantris.
 
-#### Infiltrating Arelon
-Under the guise of exiled Dulas, Raoden and Galladon entered Arelon and met with Sarene and her allies. Suspecting the newcomer to be a spy, Sarene sparred with Raoden and accidentally wounded him, adding to the many pains he already suffered. He eventually revealed his identity as Spirit to Sarene and shared his reconnection to the Dor. During a meeting at [[Kiin\|Kiin's]] house, Count [[Ahan\|Ahan]] betrayed them to King [[Telrii\|Telrii]], who had Duke [[Roial\|Roial]] killed and ordered the execution of the others.
+#### Infiltración en Arelon
+Bajo el disfraz de dulas exiliados, Raoden y Galladon entran en Arelon y se reunen con Sarene y sus aliados. Sospechando que el recién llegado es un espía, Sarene lucha con Raoden y accidentalmente lo hiere, sumándose a los muchos dolores que ya sufría. Al final, revela su identidad como Espíritu a Sarene y comparte su reconexión con el Dor. Durante una reunión en la casa de [[Kiin\|Kiin]], el conde [[Ahan\|Ahan]] los traiciona ante el rey [[Telrii\|Telrii]], quien manda matar al duque [[Roial\|Roial]] y ordena la ejecución de los demás.
 
- by  Shuravf  Fighting to save Elantris
-On the spur of the moment, Raoden dropped one illusion to reveal another, one of his appearance before being taken by the Shaod. Telrii fled and Sarene and the others are shocked by the revelation. Raoden attempted to heal Roial but failed due to his lack of knowledge of the healing Aons and the blockage of the Dor. With news of his return, Raoden's coronation was scheduled, but while speaking his illusion dropped and his status as an Elantrian was revealed to the citizens. Sarene managed to calm the crowd and they accepted Raoden as king despite his appearance.
+  Luchando para salvar Elantris.
+En ese momento, Raoden deja caer una ilusión para revelar otra, la de su apariencia antes de ser tomado por la Shaod. Telrii huye y Sarene y los demás quedan impactados por la revelación. Raoden intenta curar a Roial pero fracasa debido a su falta de conocimiento sobre los aones de curación y al bloqueo del Dor. Con las noticias de su regreso, se programa la coronación de Raoden, pero mientras habla, su ilusión se desvanece y su condición de elantrino es revelada a los ciudadanos. Sarene logra calmar a la multitud y lo aceptan como rey a pesar de su apariencia.
 
-#### Healing the Elantrians and Fixing AonDor
-While Elantris was under attack by Wyrn's army, Raoden discovered the key to restoring Elantris after realizing that Elantris and its surrounding cities formed one massive Aon. He drew a line to represent the chasm that caused the Reod, fixing the Dor and completing the Shaod in all living Elantrians. The healed Elantrians repelled the attacks from [[Fjorden\|Fjorden]] in both [[Arelon\|Arelon]] and [[Teod\|Teod]]. Raoden restored Elantris and from it rules both the city and Arelon.
+#### Curando a los elantrinos y arreglando el AonDor
+Mientras Elantris está bajo ataque del ejército del Wyrn, Raoden descubre la clave para restaurar Elantris después de darse cuenta de que esta y las ciudades circundantes forman un gigantesco aon. Dibuja una línea para representar el abismo que causó el Reod, arreglando el Dor y completando la Shaod en todos los elantrinos vivos. Los elantrinos curados repelen los ataques [[Fjordell\|fjordell]] tanto en [[Arelon\|Arelon]] como en [[Teod\|Teod]]. Raoden restaura Elantris y desde allí gobierna tanto la ciudad como Arelon.
 
-### Married Life
-Later, Sarene became pregnant with Raoden's child as Seons started to return.
+### Vida de casado
+Más tarde, Raoden deja embarazada a Sarene mientras los seones comienzan a regresar.
 
-## Relationships
+## Relaciones
 ### Sarene
-Raoden first is engaged to [[Sarene\|Sarene]] for political reasons, but he believes he knows her and loves her because of her letters and the talks they had through [[Seon\|Seon]]. Raoden is thrown into Elantris just before Sarene arrives in [[Arelon\|Arelon]]. He first meets her when she performs her widow’s trial in Elantris, and although he believes she is trying to help those there, he believes she is doing the worst thing possible for them. He later revises his opinion after she finishes her trial and his band’s numbers increase significantly. Raoden later meets Sarene when she is poisoned by [[Hrathen\|Hrathen]] and thrown into Elantris. He spends almost all of his time with her while she is there, but when the poison’s effects stop, he tells her to leave Elantris and help [[Kae\|Kae]], even though he desperately wants more time with her. Although he knows her for only a short time, his love for her is so great that he is willing to risk his life and try to rescue her from [[Dilaf\|Dilaf]]. After he travels to [[Teod\|Teod]] via [[Aon\|Aon]] Tia, he fights to rescue her, and with the help of the other Elantrians and Hrathen, he is successful. Eventually, Sarene becomes pregnant with his child.
+Raoden se compromete con [[Sarene\|Sarene]] por motivos políticos, pero cree conocerla y amarla gracias a las cartas que ella le envía y a las conversaciones que tienen mediante [[Seon\|seon]]. Raoden es enviado a Elantris justo antes de que Sarene llegue a [[Arelon\|Arelon]]. El primer encuentro entre ellos ocurre cuando ella realiza su prueba de viudedad en Elantris. Aunque cree que ella intenta ayudar a los habitantes de allí, piensa que está haciendo lo peor para ellos. Más tarde, cambia de opinión cuando el número de miembros de su banda aumenta significativamente después de que ella termine su prueba. Raoden se encuentra de nuevo a Sarene cuando [[Hrathen\|Hrathen]] la envenena y es enviada a Elantris. Él pasa casi todo su tiempo con ella allí, pero cuando los efectos del veneno desaparecen, le dice que debe abandonar Elantris y ayudar a [[Kae\|Kae]], aunque en realidad desearía pasar más tiempo con ella. Aunque se conocen desde hace poco, su amor por ella es tan grande que está dispuesto a arriesgar su vida y tratar de rescatarla de [[Dilaf\|Dilaf]]. Tras viajar a [[Teod\|Teod]] usando el aon Tia, lucha para rescatarla con la ayuda de los otros elantrinos y Hrathen. Al final, Raoden deja embarazada a Sarene.
 
 ### Iadon
-[[Iadon\|Iadon]] is Raoden’s father. Before the [[Shaod\|Shaod]] took him, Raoden often opposes his father in public, and is responsible for leading the group of nobles that are attempting to change Arelon’s government. When Raoden led them, this group was composed of around half the nobles in Iadon’s court, however this shrinks to just five nobles when Sarene begins to take control. After being taken by the Shaod, when Sarene informs him about his father’s suicide, although he had wished for his father’s demise before, he is still pained by his death.
+[[Iadon\|Iadon]] es el padre de Raoden. Antes de que la Shaod lo alcanzara, Raoden a menudo se oponía a su padre en público y lideraba al grupo de nobles que intentaba cambiar el gobierno de Arelon. Cuando Raoden los lideraba, este grupo estaba compuesto por aproximadamente la mitad de los nobles de la corte de Iadon. Sin embargo, esto se reduce a solo cinco nobles cuando Sarene comienza a tomar el control. Tras ser alcanzado por la Shaod, cuando Sarene le informa sobre el suicidio de su padre, aunque antes había deseado su muerte, aún así le duele.
 
 ### Galladon
-Originally from [[Duladel\|Duladel]], [[Galladon\|Galladon]] is Raoden’s friend. They meet first in Elantris, after Raoden escapes from Shaor’s men. Although Raoden first buys Galladon’s loyalty with a piece of dried meat, they quickly become good friends. Galladon, although often pessimistic, is often supportive of Raoden’s plans, even if he must sometimes be the voice of reason. Galladon is the one who rallies the Elantrians to save Raoden from [[Dilaf\|Dilaf]] and the other [[Dakhor\|Dakhor]] monks in [[Teod\|Teod]], proving the extent of their friendship.
+Originario de [[Duladel\|Duladel]], [[Galladon\|Galladon]] es un amigo de Raoden. Se conocen por primera vez en Elantris, después de que Raoden escape de los hombres de Shaor. Aunque Raoden primero compra la lealtad de Galladon con un pedazo de carne seca, rápidamente se convierten en buenos amigos. Galladon, aunque a menudo es pesimista, suele apoyar los planes de Raoden, incluso si a veces tiene que ser la voz de la razón. Galladon es quien anima a los elantrinos a salvar a Raoden de [[Dilaf\|Dilaf]] y los otros monjes [[Dakhor\|dakhor]] en [[Teod\|Teod]], demostrando así el alcance de su amistad.
 
-### Arelish Nobles
+### Nobles arelenos
 [[Roial\|Roial]]
-Raoden has immense respect for Roial, which leads to Roial being a father figure in his life. When Roial is stabbed by Telrii’s guard, Raoden is desperate to save him, but fails. That night, Raoden forces himself to begin learning the modifiers for Aon Ien so he can save someone else if he needs to.
+Raoden tiene un inmenso respeto por Roial, lo que lleva a que este sea una figura paterna en su vida. Cuando el guardia de Telrii apuñala a Roial, Raoden está desesperado por salvarlo, pero falla. Esa noche, Raoden se obliga a sí mismo a comenzar a aprender los modificadores del aon Ien para poder salvar a alguien más si es necesario.
 
 [[Eondel\|Eondel]]
-Eondel teaches Raoden swordplay, which is later instrumental in his fight with Sarene. Raoden respects Eondel, and believes that he is brave, if foolhardy sometimes, especially in regards to his attack on Telrii. 
+Eondel enseña a Raoden a manejar la espada, lo cual es clave más tarde cuando lucha contra Sarene. Raoden respeta a Eondel, y cree que es valiente, aunque imprudente a veces, especialmente en relación a su ataque a Telrii.
 
 [[Shuden\|Shuden]]
-Raoden considers Shuden a good friend and an honest person. They have been friends for a long time, and when Shuden doesn’t recognize him during Sarene’s Trial, Raoden is upset, but doesn’t blame Shuden.
+Raoden considera a Shuden un buen amigo y una persona sincera. Han sido amigos durante mucho tiempo, y cuando Shuden no lo reconoce durante la prueba de viudedad de Sarene, se decepciona, pero no le culpa.
 
 [[Lukel\|Lukel]]
-Lukel is Raoden’s best friend, and has been since they were both children. They used to meet in the secret tunnels of Iadon’s palace and play for hours together.  After being taken by the Shaod, Raoden laments not being able to know Lukel’s wife or children. In the aftermath of the Dakhor invasion of Arelon, Raoden uses Aon Ien to save Lukel’s life from a sword wound.
+Lukel es el mejor amigo de Raoden, y lo ha sido desde que eran niños. Solían reunirse en los túneles secretos del palacio de Iadon y jugaban juntos durante horas. Tras ser alcanzado por la Shaod, Raoden se lamenta de no poder llegar a conocer a la esposa o hijos de Lukel. Raoden usa el aon Ien para salvar la vida de Lukel tras haber sido herido con una espada como consecuencia de la invasión dakhor de Arelon.
 
-## Trivia
-Raoden was the first Elantrian after the Reod to successfully harness the power of AonDor.
-Brandon thinks Raoden is possibly the only character he has written that "from day one, actually deserved to be king."
+## Curiosidades
+Raoden es el primer elantrino tras el Reod que aprovecha el poder del AonDor.
+Brandon cree que Raoden es posiblemente el único personaje que ha escrito que «desde el día uno, realmente merece ser rey».
+## Notas
+|Antecesor  **[[Telrii\|Telrii]]**|**Rey de [[Arelon\|Arelon]]**  con [[Sarene\|Sarene]]|Sucesor  **Titular actual**|
+|-|-|
 
 
-https://coppermind.net/wiki/Raoden
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
+|-|-|
+|**Personajes**| · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
+|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
+|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
+|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+
+
+
+https://es.coppermind.net/wiki/Raoden
