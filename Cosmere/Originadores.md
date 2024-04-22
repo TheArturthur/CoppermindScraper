@@ -25,6 +25,7 @@ Muchos consideran que los Originadores proceden de una época de mitos y leyenda
 [[Demoux\|Demoux]]
 [[Aslydin\|Aslydin]]
 [[Ashweather Cett\|Ashweather Cett]]
+[[Gneorndin Cett\|Gneorndin Cett]]
 [[Felt\|Felt]]
 Lady Verdad (en este momento no conocemos el nombre completo de lady Verdad)
 ## Notas

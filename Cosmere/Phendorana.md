@@ -9,6 +9,7 @@
 |**Especie**|[[Honorspren\|Honorspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*La vida nos rompe, Teft. Y entonces rellenamos las grietas con algo más fuerte.*”
 \-Phendorana[2]

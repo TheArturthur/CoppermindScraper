@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Lyndel**|
 |-|-|
 |**Fallecido**|Ishi 1172|
-|**Oficio**|Member of Kaladin's squad in Amaram's army|
-|**Grupo**|Ejército de Amaram's, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
+|**Oficio**|Miembro del escuadrón de Kaladin en el ejército de Amaram|
+|**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Lyndel** was a soldier in [[Amaram\|Amaram]]'s army on [[Roshar\|Roshar]].
-He was a member of [[Kaladin\|Kaladin]]'s squad, and was killed by a [[Helaran Davar\|Shardbearer]] who attacked. Lyndel was trampled, and had his face smashed in before dying.
+**Lyndel** era un soldado del ejército de [[Amaram\|Amaram]] en [[Roshar\|Roshar]].
+Era miembro del escuadrón de [[Kaladin\|Kaladin]] y fue asesinado por un [[Helaran Davar\|portador de esquirlada]] que atacó. Lyndel fue pisoteado y le destrozaron la cara antes de morir.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 14:20, 4 June 2017 (MST)

@@ -108,4 +108,4 @@ Windrunner (talk) 02:47, 20 de Diciembre de 2016 (MST)
 
 
 
-https://es.coppermind.net/wiki/Pahn_kahl
+https://es.coppermind.net/wiki/Pahn_Kahl

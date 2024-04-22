@@ -1,59 +1,63 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Loradar Vamah**|
 |-|-|
 |**Familia**|
 |**Parientes**|[[Kalanor\|Kalanor]], [[Paladar\|Paladar]]|
 |**Ancestros**|[[Sadees\|Sadees]]|
-|**Fallecido**|Killed by the |
-|**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alethkar\|Alethkar]]|
-|**Grupo**|[[Sons of Honor\|Sons of Honor]]🐱︎|
+|**Fallecido**|Asesinado por los [[Sangre Espectral\|Sangre Espectral]]|
+|**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alezkar\|Alezkar]]|
+|**Grupo**|[[Hijos de Honor\|Hijos de Honor]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“*I take your point. No need to keep bashing the rock into my face.*”
-\-Vamah to Dalinar[5]
+>“*Comprendo tu argumento, Dalinar. No hace falta que sigas golpeándome la cara con la roca.*”
+\-Vamah a Dalinar[5]
 
 
-**Loradar Vamah** is a [[Highprince\|highprince]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] His lands contain a region in the northwest of Alethkar, but Vamah himself resides on the [[Shattered Plains\|Shattered Plains]] in the [[Unclaimed Hills\|Unclaimed Hills]]. An eager participant in the contests for gemhearts on the Shattered Plains, Vamah remains neutral in the conflict between Houses [[House Kholin\|Kholin]] and [[Sadeas princedom\|Sadeas]] and controls territory surrounding the warcamps following the advent of the [[Everstorm\|Everstorm]].
+**Loradar Vamah** es un [[Alto pr%C3%ADncipe\|alto príncipe]] de [[Alezkar\|Alezkar]], en [[Roshar\|Roshar]] Sus tierras abarcan una región al noroeste de Alezkar, pero el propio Vamah reside en las [[Llanuras Quebradas\|Llanuras Quebradas]] en las [[Colinas Irreclamadas\|Colinas Irreclamadas]]. Un participante entusiasta en las competiciones por gemas corazón en las Llanuras Quebradas, Vamah permanece neutral en el conflicto entre las casas [[Casa Kholin\|Kholin]] y [[Principado Sadeas\|Sadeas]] y controla el territorio que rodea los campos de guerra tras la llegada de la [[Tormenta eterna\|tormenta eterna]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 History. [[#History]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
 
-2. [[#Elevation to Highprince]] 
-2. [[#War of Reckoning]] 
-2. [[#Expedition to Narak]] 
-2. [[#Following the Everstorm]] 
-2. [[#Assassination]] 
-
-
-3 Notes. [[#Notes]] 
+2. [[#Ascenso a alto pr.C3.ADncipe]] 
+2. [[#Guerra de la Venganza]] 
+2. [[#Expedici.C3.B3n a Narak]] 
+2. [[#Tras la tormenta eterna]] 
+2. [[#Asesinato]] 
 
 
-## Appearance and Personality
-Vamah is a round-faced Alethi man who is balding. What hair he has left is cut short and sticks straight up. His eyes are light grey and he is prone to squinting. The colors of House Vamah are brown and grey, which he and his men often wear. Vamah also attempts to wear fashionable outfits, but his tastes have been mocked by others. These fashion offenses include wearing clothes in a rent style that has fallen out of fashion and his fondness for bright colors. He is also someone who does enjoy surrounding himself with servants and sycophants. Oftentimes when Vamah attends a feast as a guest, he brings along a cupbearer with an exotic imported liquor along with him. He doles out tastings to those who gain his favor or impress him with conversation.
-Vamah is generally an agreeable man, who only rarely is subject to foul-moods. He is reasonable and at least willing to listen to Dalinar's case on the merits of a unified Alethi battle strategy in the [[War of Reckoning\|War of Reckoning]]. However Vamah is still sensitive to peer pressure and not willing to ally with Dalinar after his reputation is damaged by the release of his visions. Sadeas tolerates Vamah, but finds his fashion choices to be repulsive. Vamah is ultimately self-interested and not loyal to the Alethi throne, as shown by his decision to decline to participate in the expedition to the Shattered Plains or relocate to [[Urithiru\|Urithiru]] in favor of consolidating his own power.
+3 Notas. [[#Notas]] 
 
-## History
-### Elevation to Highprince
-Loradar Vamah was born the minor cousin of Highprince [[Kalanor\|Kalanor]] of Alethkar. During the , Kalanor was killed in battle by [[Dalinar Kholin\|Dalinar Kholin]], ending his line and allowing Vamah to seize control of the princedom. He and Gavilar had an understanding and he swore fealty to Gavilar shortly thereafter. As a result Vamah was rewarded with the title of highprince, along with Kalanor's lands to form the new , including the princedom seat in Revolar and the city of Farcoast. He also kept a local court in his princedom that included House [[Hamaradin\|Hamaradin]].
 
-### War of Reckoning
-Following the assassination of Gavilar Kholin in 1167, Vamah joined with the other highprinces in swearing the  against the . Vamah put out a call to arms, sending out messages over his princedom, to places like Farcoast recruiting a large army. Vamah left his princedom in the hands of his kinsman [[Paladar\|Paladar]], who ruled as regent from Vamah's seat in Revolar. Vamah brought his army out to the western border of the Shattered Plains, setting up a warcamp in one of the craters there between the Kholin and [[Ruthar\|Ruthar]] camps. Over the next six years, Vamah joined in the contests for the gemhearts out on the Shattered Plains, competing both with the listeners and his fellow highprinces for wealth. Vamah's army became one of the strongest on the Plains, and he developed a characteristic style for plateau assaults, preferring to make strategic use of light cavalry. He also regularly attended the king's feasts, often bringing along his own cupbearer with exotic liquors. As the years went on, Vamah began to complain increasingly vocally about paying high wartime rates for access to the king's . The supply of food and raw materials Soulcasters provided allowed Vamah to maintain his army, but he and several others became behind in payments to the king. Nevertheless, Vamah still planned to reinforce the fortifications in his warcamps and fill in gaps in his walls.
-In late 1173, Vamah was invited by highprinces [[Dalinar\|Dalinar]] and [[Torol Sadeas\|Torol Sadeas]] to accompany King [[Elhokar\|Elhokar]] on the [[Chasmfiend\|chasmfiend]] hunt. The only one of the group who lacked [[Shardbearer\|Shards]], Vamah brought along a group of attendants and aids to accompany him on the hunt in an elaborate procession. On the way out to the hunt, he was annoyed at the cautious pace they took in crossing the Plains. Following the [[Chasmfiend\|chasmfiend]] attack, Vamah was approached by Sadeas, who informed him that he would be doubling the prices of lumber from the nearby forest. Soon afterward, Vamah complained to Dalinar of the slow progress back to the warcamps. Dalinar bluntly brought the conversation around to the topic of Soulcasters and Vamah's planned construction projects, emphasizing Vamah's reliance on the king for resources. Vamah told Dalinar that he understood the point he was making. Weeks later, Vamah and his retinue attended a duel between [[Adolin Kholin\|Adolin Kholin]] and [[Resi\|Resi]]. Vamah wore an unfashionable outfit of a grey coat that was rent with slashes over bright orange silks with ruffles at the cuffs and collar. He sat directly across the arena from Dalinar and Sadeas, who quietly mocked Vamah's fashion sense.
+## Apariencia y personalidad
+Vamah es un hombre alezi de cara redonda y calvo. El pelo que le queda es corto y le sobresale. Sus ojos son de color gris claro y tiene tendencia a entrecerrarlos. Los colores de la casa Vamah son el marrón y el gris, que él y sus hombres llevan a menudo. Vamah también intenta vestir a la moda, pero los demás se burlan de sus gustos. Estos delitos contra la moda incluyen llevar ropa alquilada de un estilo que ha pasado de moda y su afición por los colores vivos. También es alguien que disfruta rodeándose de sirvientes y aduladores. A menudo, cuando Vamah asiste a un banquete como invitado, lleva consigo un copero con un exótico licor importado. Ofrece degustaciones a quienes se ganan su favor o le impresionan con su conversación.
+Por lo general, Vamah es un hombre agradable, que sólo en raras ocasiones se muestra malhumorado. Es razonable y está dispuesto al menos a escuchar los argumentos de Dalinar sobre los beneficios de una estrategia de batalla alezi unificada en la [[Guerra de la Venganza\|Guerra de la Venganza]]. Sin embargo, Vamah sigue siendo sensible a la presión de grupo y no está dispuesto a aliarse con Dalinar después de que su reputación se viese dañada por la publicación de sus visiones. Sadeas tolera a Vamah, pero sus elecciones de moda le parecen repulsivas. En última instancia, Vamah tiene intereses propios y no es leal al trono alezi, como demuestra su decisión de no participar en la expedición a las Llanuras Quebradas o trasladarse a [[Urithiru\|Urithiru]] en favor de consolidar su propio poder.
 
-### Expedition to Narak
-Following the [[Battle of the Tower\|Battle of the Tower]] in 1173, Vamah avoided choosing a side and remained neutral when Dalinar Kholin became highprince of War and his conflict with Sadeas divided the highprinces. Vamah attended a gathering of the Alethi highprinces and important lighteyes following the attempt on Dalinar's life by Szeth. Later Vamah dined with Dalinar at one point to listen to his case, and he seemed to actually consider Dalinar's words. However, after transcripts of Dalinar's visions were revealed, Vamah became less receptive to the highprince's pleas. Soon after, at one of the king's feasts, Dalinar tried to speak to Vamah about his successes with light cavalry. Vamah attempted to respond to Dalinar's question, but the two were distracted by the laughter of others. Vamah apologized to Dalinar for the mockery before the highprince himself realized what had happened. Ultimately, Vamah chose to remain neutral in the conflict between the highprinces and did not commit his army to the joint assault on the [[Listener\|listeners]].
+## Historia
+### Ascenso a alto príncipe
+Loradar Vamah nació como primo menor del alto príncipe [[Kalanor\|Kalanor]] de Alezkar. Durante la [[Reunificaci%C3%B3n alezi\|reunificación alezi]], Kalanor fue asesinado en batalla por [[Dalinar Kholin\|Dalinar Kholin]], poniendo fin a su linaje y permitiendo a Vamah hacerse con el control del principado. Gavilar y él se entendieron y poco después le juró lealtad. Como resultado, Vamah fue recompensado con el título de alto príncipe, junto con las tierras de Kalanor para formar el nuevo [[Principado Vamah\|Principado Vamah]], incluida la sede del principado en Revolar y la ciudad de Costa Lejana. También mantuvo una corte local en su principado que incluía a la casa [[Hamaradin\|Hamaradin]].
 
-### Following the Everstorm
-Even after news returned of the Alethi victory, Vamah remained at the warcamps along with [[Thanadal\|Thanadal]], while the bulk of the Alethi forces relocated to the newly-discovered city of Urithiru. Following the [[Everstorm\|Everstorm]] Vamah lost direct control over his princedom, his regent was deposed in Revolar and the city became a staging point for the singers' [[Siege of Kholinar\|Siege of Kholinar]]. Despite this loss, Vamah began to increase his local influence over the area of land along the perimeter of the Plains formerly controlled by the other highprinces, giving him increased control over the trade to the Oathgate at [[Narak\|Narak]].
+### Guerra de la Venganza
+Tras el asesinato de Gavilar Kholin en 1167, Vamah se unió a los demás altos príncipes para jurar el [[Pacto de la Venganza\|Pacto de la Venganza]] contra los [[Oyentes\|oyentes]]. Vamah hizo una llamada a las armas, enviando mensajes por todo su principado, a lugares como Costa Lejana reclutando un gran ejército. Vamah dejó su principado en manos de su pariente [[Paladar\|Paladar]], que gobernó como regente desde la sede de Vamah en Revolar. Vamah llevó a su ejército a la frontera occidental de las Llanuras Quebradas, estableciendo un campamento de guerra en uno de los cráteres que hay allí, entre los campamentos Kholin y [[Ruthar\|Ruthar]]. Durante los seis años siguientes, Vamah participó en las competiciones por las gemas corazón en las Llanuras Quebradas, compitiendo tanto con los oyentes como con sus compañeros príncipes por las riquezas. El ejército de Vamah se convirtió en uno de los más fuertes de las Llanuras, y desarrolló un estilo característico para los asaltos a las mesetas, prefiriendo hacer un uso estratégico de la caballería ligera. También asistía regularmente a los banquetes del rey, a menudo llevando su propio copero con licores exóticos. Con el paso de los años, Vamah empezó a quejarse cada vez más de tener que pagar elevadas tarifas de guerra por acceder a los [[Moldeador de almas\|moldeadores de almas]] del rey. El suministro de alimentos y materias primas de los moldeadores de almas permitió a Vamah mantener su ejército, pero él y varios otros se retrasaron en los pagos al rey. No obstante, Vamah seguía planeando reforzar las fortificaciones de sus campamentos de guerra y rellenar huecos en sus murallas.
+A finales de 1173, Vamah fue invitada por los príncipes [[Dalinar\|Dalinar]] y [[Torol Sadeas\|Torol Sadeas]] a acompañar al rey [[Elhokar\|Elhokar]] en la caza del [[Abismoide\|abismoide]]. Era el único del grupo que carecía de [[Portador de esquirlada\|esquirlas]], Vamah trajo consigo un grupo de asistentes y ayudantes para que le acompañasen en la cacería en una elaborada procesión. De camino a la cacería, le molestó el paso cauteloso que llevaban al cruzar las Llanuras. Tras el ataque del [[Abismoide\|abismoide]], Vamah fue abordado por Sadeas, quien le comunicó que duplicaría los precios de la madera del bosque cercano. Poco después, Vamah se quejó a Dalinar de la lentitud con la que regresaban a los campamentos de guerra. Dalinar llevó sin rodeos la conversación al tema de los moldeadores de almas y los proyectos de construcción previstos por Vamah, haciendo hincapié en la dependencia de este para obtener recursos del rey. Vamah le dijo a Dalinar que entendía lo que quería decir. Semanas después, Vamah y su séquito asistieron a un duelo entre [[Adolin Kholin\|Adolin Kholin]] y [[Resi\|Resi]].
+Vamah llevaba un atuendo poco elegante, compuesto por un abrigo gris rasgado con cortes sobre sedas naranjas brillantes con volantes en los puños y el cuello. Estaba sentado directamente al otro lado de la arena de Dalinar y Sadeas, quienes se burlaban en voz baja de su sentido de la moda.
 
-### Assassination
-Vamah at some stage became associated with the Sons of Honor. The [[Ghostbloods\|Ghostbloods]] began to assassinate the leadership of the Sons of Honor starting with Thanadal. Seeing this he tried to flee but, soon after Ialai Sadeas came back to the warcamps, the Ghostbloods assassinated him anyway.
-The Kholins used to think that Ialai was the one who ordered Vamah and Thanadal to be assassinated. But, moments from her death, Ialai told [[Shallan\|Shallan]] that the [[Ghostbloods\|Ghostbloods]] were the ones who actually assassinated the two Highprinces.
+### Expedición a Narak
+Tras la [[Batalla de la Torre\|Batalla de la Torre]] en 1173, Vamah evitó elegir un bando y se mantuvo neutral cuando Dalinar Kholin se convirtió en Alto Príncipe de la Guerra y su conflicto con Sadeas dividió a los altos príncipes. Vamah asistió a una reunión de los altos príncipes alezi e importantes ojos claros tras el atentado de Szeth contra Dalinar. Más tarde, Vamah cenó con Dalinar en un momento dado para escuchar su caso y pareció considerar realmente las palabras de Dalinar. Sin embargo, tras revelarse las transcripciones de las visiones de Dalinar, Vamah se volvió menos receptivo a las súplicas del alto príncipe. Poco después, en uno de los banquetes del rey, Dalinar intentó hablar con Vamah sobre sus éxitos con la caballería ligera. Vamah intentó responder a la pregunta de Dalinar, pero ambos se distrajeron con las risas de los demás. Vamah se disculpó ante Dalinar por la burla antes de que el propio alto príncipe se diese cuenta de lo ocurrido. En última instancia, Vamah optó por permanecer neutral en el conflicto entre los altos príncipes y no comprometió a su ejército en el asalto conjunto a los [[Oyente\|oyentes]].
 
-## Notes
+### Tras la tormenta eterna
+Incluso después de recibir noticias de la victoria alezi, Vamah permaneció en los campos de guerra junto con [[Thanadal\|Thanadal]], mientras que el grueso de las fuerzas alezi se trasladó a la recién descubierta ciudad de Urithiru. Tras la [[Tormenta eterna\|tormenta eterna]] Vamah perdió el control directo sobre su principado, su regente fue depuesto en Revolar y la ciudad se convirtió en punto de partida del [[Asedio a Kholinar\|asedio a Kholinar]]. A pesar de esta pérdida, Vamah comenzó a aumentar su influencia local sobre las tierras a lo largo del perímetro de las Llanuras, anteriormente controladas por los otros altos príncipes, lo que le dio un mayor control sobre el comercio con la Puerta Jurada en [[Narak\|Narak]].
+
+### Asesinato
+En algún momento, Vamah se asoció con los Hijos de Honor. Los [[Sangre Espectral\|Sangre Espectral]] comenzaron a asesinar a los líderes de los Hijos de Honor, empezando por Thanadal. Al ver esto trató de huir pero, poco después de que Ialai Sadeas regresase a los campos de guerra, los Sangre Espectral lo asesinaron de todos modos.
+Los kholins solían pensar que Ialai fue quien ordenó asesinar a Vamah y Thanadal. Pero, momentos antes de su muerte, Ialai le dijo a [[Shallan\|Shallan]] que los [[Sangre Espectral\|Sangre Espectral]] fueron quienes realmente asesinaron a los dos altos príncipes.
+
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

@@ -1,12 +1,15 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Ma**|
 |-|-|
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Ma** is a woman who lives in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. During the [[Siege of Kholinar\|Siege of Kholinar]], she was one of the impoverished people that [[Shallan Davar\|Shallan Davar]] (as Veil) attempted to supply with food. She and [[Seland\|Seland]] had been squatting in a decrepit building with [[Grund\|Grund]] before they suddenly moved away, possibly due to a fear of the [[Grips\|Grips]].
+**Ma** es una mujer que vive en [[Alezkar\|Alezkar]], [[Roshar\|Roshar]]. Durante el [[Asedio a Kholinar\|Asedio a Kholinar]], fue una de las personas necesitadas a las que [[Shallan Davar\|Shallan Davar]] (como Velo) intentó suministrar alimentos. Ella y [[Seland\|Seland]] habían estado ocupando un edificio en ruinas con [[Grund\|Grund]] antes de que se trasladasen repentinamente, posiblemente por miedo a los [[Agarrones\|Agarrones]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 14:09, 1 May 2019 (MST)

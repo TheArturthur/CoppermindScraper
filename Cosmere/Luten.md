@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Luten**|
 |-|-|
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Luten** is a resident of [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
-He, [[Horl\|Horl]], [[Balsas\|Balsas]] and others try to forcefully persuade [[Lirin\|Lirin]] to hand over the spheres he got from Brightlord [[Wistiow\|Wistiow]]. His leg had previously been saved through surgery by [[Lirin\|Lirin]]. He had a limp after his surgery.
+**Luten** es un habitante de [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
+Él, [[Horl\|Horl]], [[Balsas\|Balsas]] y otros intentan persuadir por la fuerza a [[Lirin\|Lirin]] para que les entregue las esferas que obtuvo del brillante señor [[Wistiow\|Wistiow]]. Anteriormente, [[Lirin\|Lirin]] le había salvado la pierna gracias a una operación. Cojeaba después de la operación.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 13:28, 11 September 2018 (MST)

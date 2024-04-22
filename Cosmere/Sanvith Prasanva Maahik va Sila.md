@@ -9,8 +9,9 @@
 |**Títulos**|Gran etervínculo de los doce reinos, rajá de la Corte del Cilantro|
 |**Apodos**|AlmaDoble, Shri Prasanva, Pras|
 |**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎|
-|**Mundo natal**|*Desconocido*|
+|**Mundo natal**|[[Dhatri\|Dhatri]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -41,7 +42,7 @@ Como [[Eterv%C3%ADnculo\|etervínculo]], Prasanva puede usar rosaíta para crear
 
 ## Historia
   Prasanva envuelto en una armadura de rosaíta.
-Una vez vivió en un planeta sin nombre, donde se vinculó con el éter [[Silajana\|Silajana]]. Al parecer, ocupaba una posición de autoridad elevada, siendo el rajá de la Corte del Cilantro y gran etervínculo de los doce reinos, aunque aún no se sabe qué implica exactamente esto.
+Una vez vivió en [[Dhatri\|Dhatri]], donde se vinculó con el éter [[Silajana\|Silajana]]. Al parecer, ocupaba una posición de autoridad elevada, siendo el rajá de la Corte del Cilantro y gran etervínculo de los doce reinos, aunque aún no se sabe qué implica exactamente esto.
 En algún momento, el planeta fue golpeado por una entidad conocida como el éter oscuro, y fue enviado al exilio por Silajana para su seguridad. Finalmente se unió a los Sangre Espectral en un intento de reunir aliados y recursos para luchar contra el éter oscuro y salvar a su pueblo.
 Estuvo involucrado en la lucha contra [[El Grupo\|el Grupo]] y [[Trell\|Trell]] en Scadrial, trabajando junto a [[Kelsier\|Kelsier]], [[Wan ShaiLu\|Wan ShaiLu]], [[Kaise\|Kaise]], [[Dlavil\|Dlavil]], y eventualmente [[Marasi Colms\|Marasi Colms]]. Ayudó a Shai y Marasi a infiltrarse en el cuartel general del Grupo y encontrar la Comunidad; también ayudó a las personas secuestradas (que estaban siendo utilizadas como sujetos de prueba) a escapar de allí, protegiéndolos de los miembros del Grupo que los atacaban en el camino.
 Después de la desaparición de Luzdeluna y la derrota del Grupo, él se ofreció a incorporar a Marasi en los Sangre Espectral y actuar como su mentor. Marasi rechazó su oferta de unirse, pero aún así ofreció su ayuda para encontrar a la desaparecida Luzdeluna; se desconoce si él aceptó su ayuda.

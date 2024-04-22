@@ -23,7 +23,7 @@
 
 ## Historia
 Fueron el grupo que, debido al deseo de venganza de [[Kelsier\|Kelsier]], planeó matar y derrocar al [[Lord Legislador\|lord Legislador]]. Después, tras la liberación de [[Ruina\|Ruina]] de su reclusión en el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], el grupo luchó y mató al Recipiente de Ruina, [[Ati\|Ati]]. Un miembro notable del grupo, [[Sazed\|Sazed]], tomó ambos poderes, el de Ruina y el de [[Conservaci%C3%B3n\|Conservación]], y comenzó la [[Catacendro\|recreación del planeta]], y salvó a la población de Scadrial.
-Algunos de los Preservadores puede que estén vivos cerca de 300 años tras el Catacendro, pero todos ellos son ahora parte de la mitología del norte de Scadrial.
+Algunos de los Preservadores están vivos cerca de 300 años tras el Catacendro, pero todos ellos son ahora parte de la mitología del norte de Scadrial.
 
 ## Influencia
 [[Sazed\|Sazed]] dejó las [[Palabras de Instauraci%C3%B3n\|Palabras de Instauración]] a los [[Originadores\|Originadores]], cosa que hizo que su tecnología mejoras y que avanzasen rápidamente.

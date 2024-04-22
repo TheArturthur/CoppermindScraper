@@ -7,8 +7,9 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
-Para la acción alomántica con hierro conocida como tirar, ver [[/wiki/Iron#Allomantic Use]].
+Para la acción alomántica con hierro conocida como tirar, ver [[/wiki/Hierro#Uso alom.C3.A1ntico]].
 **Tirón** es el seudónimo de un miembro del [[El Grupo\|Grupo]] en [[Scadrial\|Scadrial]]. Es un [[Atraedor\|atraedor]] que también trabaja con los [[Desvanecedores\|Desvanecedores]].
 
 ## Sumario

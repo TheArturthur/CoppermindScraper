@@ -5,10 +5,7 @@
 |-|-|
 ||
 |**Creadores**|Humanos|
-|**Mundo de origen**|[[Detritus\|Detritus]], [[Visi%C3%B3n Estelar\|Visión Estelar]], otros planetas|
 |**Universo**|[[Citoverso\|Citoverso]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

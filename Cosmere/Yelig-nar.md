@@ -75,4 +75,4 @@ Windrunner (talk) 16:06, 24 November 2017 (MST)
 
 
 
-https://es.coppermind.net/wiki/Yelig-Nar
+https://es.coppermind.net/wiki/Yelig-nar

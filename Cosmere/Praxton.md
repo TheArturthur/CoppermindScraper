@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 El [[/wiki/Taishin#Lord mastrell]] **Praxton** es el líder de los [[Diem\|maestros de la arena]] de Lossand, en el Lado Diurno de Taldain.
 
@@ -36,7 +37,7 @@ Praxton destaca como un líder fuerte, no sólo por la increíble fuerza de su [
 Praxton es un maestro de la arena extremadamente poderoso. Puede controlar docenas de cintas de arena y es capaz de crear una explosión de arena lo suficientemente poderosa como para derribar a cientos de oponentes.
 
 ## Historia
-Siglos antes de Praxton, el lord mastrell de la época inició una cuenta con el entonces  [[Hennin\|Hennin]]. El lord mastrell hizo que Hennin ingresara en la cuenta el dinero de los tributos del Diem y, con el paso de los años, los tributos, combinados con los intereses, crecieron hasta convertirse en una deuda insalvable. Los lord mastrell del pasado, y presumiblemente también Praxton, utilizaron esta deuda para controlar al lord mercader y chantajearle para que cumpliera sus órdenes.
+Siglos antes de Praxton, el lord mastrell de la época inició una cuenta con el entonces [[/wiki/Taishin#El lord mercader]] [[Hennin\|Hennin]]. El lord mastrell hizo que Hennin ingresara en la cuenta el dinero de los tributos del Diem y, con el paso de los años, los tributos, combinados con los intereses, crecieron hasta convertirse en una deuda insalvable. Los lord mastrell del pasado, y presumiblemente también Praxton, utilizaron esta deuda para controlar al lord mercader y chantajearle para que cumpliera sus órdenes.
 Praxton se casó con una mujer [[Oscurense\|oscurense]], con la que tuvo varios hijos, entre ellos [[Kenton\|Kenton]], su hijo menor. Ninguno de sus hijos, excepto Kenton, pudo utilizar la maestría de la arena.
 Durante el examen de ingreso de Kenton en el Diem, apenas fue capaz de dominar una pequeña cantidad de arena. Praxton menospreció públicamente a su propio hijo e intentó bloquear la entrada de Kenton en el Diem, diciendo que él, como lord mastrell, era quien debía dar su aprobación antes de que ningún maestro de la arena pudiera avanzar. Sin embargo, Kenton entró en el Diem de todos modos citando la ley, que afirmaba que el primer rango de acolento es el único sobre el que Praxton no tiene autoridad, y que cualquiera con alguna habilidad, por pequeña que sea, tiene derecho a unirse al Diem.
 A lo largo de la época en que Kenton fue acolento, él y su padre tuvieron muchas peleas. En cuatro ocasiones distintas, Praxton intentó que Kenton aceptara el rango de infrafen, el más bajo, pero siempre se negó, pues no quería quedarse atrapado en ese rango durante toda su carrera.

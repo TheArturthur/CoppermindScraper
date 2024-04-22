@@ -26,4 +26,4 @@ El contenido no ha sido revisado todavía.
 
 
 
-https://es.coppermind.net/wiki/ZaiDon
+https://es.coppermind.net/wiki/Zaidon

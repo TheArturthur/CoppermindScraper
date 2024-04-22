@@ -1,24 +1,27 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Luesh**|
 |-|-|
 |**Fallecido**|? 1173|
-|**Capacidades**|[[Soulcasting\|Soulcasting]] ([[Fabrial\|fabrial]])|
-|**Grupo**|[[Ghostbloods\|Ghostbloods]]🐱︎|
+|**Capacidades**|[[Moldear almas\|Moldear almas]] ([[Fabrial\|fabrial]])|
+|**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎|
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Words of Radiance\|Words of Radiance]]*|
+|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
-**Luesh** is a steward of [[House Davar\|House Davar]] in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. He is a member of the [[Ghostbloods\|Ghostbloods]].
+**Luesh** es un mayordomo de la [[Casa Davar\|casa Davar]] en [[Jah Keved\|Jah Keved]], [[Roshar\|Roshar]]. Es miembro de los [[Sangre Espectral\|Sangre Espectral]].
 
-## Appearance and Personality
-He has a wrinkled, leathery face with well-worn frown lines. He is able to gain the trust of the Davar children despite secretly deceiving them.
+## Apariencia y personalidad
+Tiene la cara arrugada y curtida, con el ceño bien fruncido. Es capaz de ganarse la confianza de los niños Davar a pesar de engañarlos en secreto.
 
-## History
-Luesh joined the Davar household circa ? 1172, and he quickly became a confidant of [[Lin Davar\|Lin Davar]]. Although he denied it, Luesh was presumably the person who gave Lin [[Davar Soulcaster\|an illicit Soulcaster]] [[Fabrial\|fabrial]]. Luesh was trained to use the Soulcaster; he and Lin worked with a surveyor to create artificial marble deposits on Davar land, significantly improving the family's previously dire financial situation. Lin was able to leverage the restored name of House Davar to gain political influence in the [[Valam princedom\|Valam princedom]], likely positioning himself to become [[Highprince\|highprince]].
-After Lin's death, the Davar children found the Soulcaster, which had been broken in a scuffle. The family tried to have the fabrial repaired, but Luesh could not make it function. Desperate for money, [[Shallan\|Shallan]] soon devised a plan to steal [[Jasnah's Soulcaster\|Jasnah Kholin's Soulcaster]]. After she set out on her journey, [[Balat\|Balat]] and [[Eylita\|Eylita]] informed her that Luesh died in his sleep, and that a pendant with a distinctive symbol was found on his body. Furthermore, a group of individuals visited the Davar estate—one of whom had a tattoo of the same symbol on his hand—professing knowledge of the Soulcaster and demanding that it be returned, intensifying the need for Shallan to steal Jasnah's fabrial. Balat concluded that Luesh was a plant all along, and that he acted as a liaison between Lin and his mysterious backers.
-Shallan learned that [[Kabsal\|Kabsal]] had the same symbol tattooed on his arm, implying that he and Luesh belonged to the same organization; Jasnah believed it to be named the [[Ghostbloods\|Ghostbloods]]. Shallan worried that her father was also a member. She later confirmed the existence of the Ghostbloods after meeting [[Mraize\|Mraize]].
+## Historia
+Luesh se unió a la familia Davar alrededor de ? 1172, y rápidamente se convirtió en confidente de [[Lin Davar\|Lin Davar]]. Aunque lo negó, Luesh fue presumiblemente la persona que dio a Lin un [[Fabrial\|fabrial]] [[Moldeador de almas Davar\|moldeador de almas de origen ilícito]]. Luesh fue entrenado para utilizar el moldeador de almas; él y Lin trabajaron con un topógrafo para crear depósitos artificiales de mármol en tierras de Davar, mejorando significativamente la situación financiera de la familia, que antes era desesperada. Lin fue capaz de aprovechar el nombre restaurado de la casa Davar para ganar influencia política en el [[Principado Valam\|principado Valam]], probablemente posicionándose para convertirse en [[Alto pr%C3%ADncipe\|alto príncipe]].
+Tras la muerte de Lin, los hijos de Davar encontraron el moldeador de almas, que se había roto en una refriega. La familia intentó repararlo, pero Luesh no consiguió hacerlo funcionar. Desesperada por conseguir dinero, [[Shallan\|Shallan]] no tardó en idear un plan para robar el [[Moldeador de Jasnah\|moldeador de almas de Jasnah Kholin]]. Tras emprender su viaje, [[Balat\|Balat]] y [[Eylita\|Eylita]] le informaron de que Luesh había muerto mientras dormía, y que en su cuerpo se había encontrado un colgante con un símbolo distintivo. Además, un grupo de individuos visitó la finca de Davar (uno de los cuales tenía un tatuaje del mismo símbolo en la mano); manifestando conocer el moldeador de almas y exigiendo que se lo devolviesen, intensificando la necesidad de Shallan de robar el fabrial de Jasnah. Balat llegó a la conclusión de que Luesh era un infiltrado y que actuaba como enlace entre Lin y sus misteriosos patrocinadores.
+Shallan se enteró de que [[Kabsal\|Kabsal]] tenía el mismo símbolo tatuado en el brazo, lo que implicaba que él y Luesh pertenecían a la misma organización; Jasnah creía que se llamaban los [[Sangre Espectral\|Sangre Espectral]]. A Shallan le preocupaba que su padre también fuese miembro. Más tarde confirmó la existencia de los Sangre Espectral tras conocer a [[Mraize\|Mraize]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 21:17, 30 July 2019 (UTC)

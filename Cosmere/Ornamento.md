@@ -6,17 +6,17 @@
 |**Especie**|[[Cr%C3%ADpticos\|Crípticos]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Ornamento** es una [[Cr%C3%ADptico\|críptica]] de [[Roshar\|Roshar]] vinculada con [[Berila\|Berila]].
 
 ## Apariencia y personalidad
 Ornamento tiene un patrón de cabeza delicado que parece hecho de cordones. Tiene voz chillona. Se mueve fluidamente igual que otros crípticos y al contrario que [[Patr%C3%B3n\|Patrón]], que se mueve a saltos.
-In the [[Physical Realm\|Physical Realm]], Ornament usually rides on the inside of Beryl's shirt near her skin, as she does not like being seen. She likes to watch [[Shallan\|Shallan]] draw along with other Cryptics. She makes excited noises and bounces up and down while doing so
-En el [[Reino F%C3%ADsico\|Reino Físico]], Ornamento suele ir dentro de la camisa de Berila, pegada a su piel, ya que no le gusta que le vean. Le gusta ver ver dibujar a [[Shallan\|Shallan]] junto a otros crípticos. Zumba de emoción y salta.
-Igual que los demás crípticos, a Ornamento le custa entender los detalles de la forma de hablar de los humanos y se toma las cosas más literalmente de lo que en realidad son. Tiene un vocabulario [[/wiki/Alezkar#Lengua y Escritura]] limitado y no entiende la palabra "zoquete".
+En el [[Reino F%C3%ADsico\|Reino Físico]], Ornamento suele ir dentro de la camisa de Berila, pegada a su piel, ya que no le gusta que le vean. Disfruta observando dibujar a [[Shallan\|Shallan]] junto a otros crípticos. Zumba de emoción y salta mientras la contempla.
+Igual que los demás crípticos, a Ornamento le cuesta entender los detalles de la forma de hablar de los humanos y se toma las cosas más literalmente de lo que en realidad son. Tiene un vocabulario [[/wiki/Alezkar#Lengua y Escritura]] limitado y no entiende la palabra «zoquete».
 
 ## Historia
-Ornamento iba con Berila en el viaje a Integridad Duradera. Tuvo una conversación con Shallan y otros crípticos. Cuando Shallans sospecha que Berila fuese una espía de los [[Sangre Espectral\|Sangre Espectral]], habla con Ornamento para intentar sacarle información sobre ella, pero no consigue ningún dato útil.
+Ornamento iba con [[Berila\|Berila]] en el viaje a [[Integridad Duradera\|Integridad Duradera]]. Tuvo una conversación con [[Shallan Davar\|Shallan Davar]] y otros [[Cr%C3%ADptico\|crípticos]]. Cuando Shallan sospechaba que Berila fuese una espía de los [[Sangre Espectral\|Sangre Espectral]], habló con Ornamento para intentar sacarle información sobre ella, pero no consiguió ningún dato útil.
 
 ## Notas
 

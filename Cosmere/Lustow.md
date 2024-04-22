@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Lustow**|
 |-|-|
 |**Hijos**|[[Janala Lustow\|Janala]]|
-|**Oficio**|Cavalry officer|
+|**Oficio**|Oficial de caballería|
 |**Grupo**|Ejército de Kholin|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-Brightlord **Lustow** is an  [[Lighteyes\|lighteyes]] from [[Roshar\|Roshar]]. He is one of [[Dalinar Kholin\|Dalinar Kholin]]'s cavalry officers. [[Janala\|Janala]] is his daughter.
+El brillante señor **Lustow** es un [[Alezi\|alezi]] [[Ojos claros\|ojos claros]] de [[Roshar\|Roshar]]. Es uno de los oficiales de caballería de [[Dalinar Kholin\|Dalinar Kholin]]. [[Janala\|Janala]] es su hija.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 13:55, 11 September 2018 (MST)

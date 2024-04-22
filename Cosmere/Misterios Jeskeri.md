@@ -27,4 +27,4 @@ A este artículo le falta información. Por favor, ayuda a The Coppermind .
 
 
 
-https://es.coppermind.net/wiki/Misterios_jeskeri
+https://es.coppermind.net/wiki/Misterios_Jeskeri

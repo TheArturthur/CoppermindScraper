@@ -13,7 +13,7 @@
 |**Aparece en**|*[[El archivo de las tormentas\|El archivo de las tormentas]]*|
 
 La **orden de los Forjadores de Vínculos** es una de las órdenes de [[Caballeros Radiantes\|Caballeros Radiantes]] en Roshar.
-Los Forjadores de Vínculos son [[Potenciaci%C3%B3n\|potenciadores]] que utilizan las [[Potenciaci%C3%B3n\|Potencias]] de Tensión y Adhesión, y están asociados con la [[Piedrabase\|piedrabase]] heliodoro. Establecen un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con uno de los tres [[Spren\|spren]] únicos: el [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], o el [[Hermano\|Hermano]]. La naturaleza exacta del vínculo Nahel que los Forjadores de Vínculos comparten con su spren no está del todo clara, puede que sea similar o no al que establecen otras órdenes de Caballeros Radiantes. Históricamente ha sido una de las órdenes de Radiantes más eminentes. Los Forjadores de Vínculos son potenciadores de increíble poder, refundados después de la [[Traici%C3%B3n\|Traición]] por Dalinar Kholin.
+Los Forjadores de Vínculos son [[Potenciaci%C3%B3n\|potenciadores]] que utilizan las [[Potenciaci%C3%B3n\|Potencias]] de [[Tensi%C3%B3n\|Tensión]] y [[Adhesi%C3%B3n\|Adhesión]], y están asociados con la [[Piedrabase\|piedrabase]] heliodoro. Establecen un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con uno de los tres [[Spren\|spren]] únicos: el [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], o el [[Hermano\|Hermano]]. La naturaleza exacta del vínculo Nahel que los Forjadores de Vínculos comparten con su spren no está del todo clara, puede que sea similar o no al que establecen otras órdenes de Caballeros Radiantes. Históricamente ha sido una de las órdenes de Radiantes más eminentes. Los Forjadores de Vínculos son potenciadores de increíble poder, refundados después de la [[Traici%C3%B3n\|Traición]] por Dalinar Kholin.
 
 ## Sumario
 
@@ -55,7 +55,7 @@ Los Ideales de los Caballeros Radiantes, también conocidos como [[Palabras Inmo
 
 ### El Primer Ideal
 >“*Vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.*”
-\-Primer Ideal de los Caballeros Radiantes.[10]
+\-Primer Ideal de los Caballeros Radiantes.[11]
 
 
 Los Forjadores de Vínculos comparten el Primer Ideal con el resto de órdenes Radiantes, y funciona como una lema para el conjunto de ellos. Las palabras se interpretan en sentido amplio como una forma de enunciar el valor de la vida, la importancia de la fuerza y el servicio y la importancia de los métodos que uno utiliza para lograr una meta.
@@ -69,10 +69,10 @@ El Segundo Ideal de los Forjadores de Vínculos refleja el aspecto principal de 
 
 ### El Tercer Ideal
 >“*Aceptaré la responsabilidad por lo que he hecho. Si debo caer, cada vez me alzaré como un hombre mejor.*”
-\-El Tercer Ideal de los Forjadores de Vínculos, pronunciado por Dalinar Kholin.[11]
+\-El Tercer Ideal de los Forjadores de Vínculos, pronunciado por Dalinar Kholin.[12]
 
 
-El eje fundamental de este Ideal es llegar a convertirse en una mejor persona con el tiempo. Puede haber otra interpretación de este Ideal que aún no ha sido explorada.
+El eje fundamental de este Ideal es llegar a convertirse en una mejor persona con el tiempo. Puede haber otras interpretaciones de este Ideal que aún no hayan sido exploradas.
 
 ## Habilidades
   <<Navani\|Navani>> convirtiéndose en Forjadora de Vínculos
@@ -86,7 +86,7 @@ Un Forjador de Vínculos desatado es más peligroso que [[Sangre Nocturna\|Sangr
 
 ### Adhesión
 >“*Y la Potencia más Verdadera de Honor, la Potencia de las Uniones y los Juramentos, aún podría funcionar.*”
-\-El Hermano describiendo la Potencia de Adhesión[21]
+\-El Hermano describiendo la Potencia de Adhesión[22]
 
 
 La Adhesión es una habilidad con una definición muy amplia para los Forjadores de Vínculos, ya que pueden acceder a una variedad de poderes que les permiten manipular la Conexión, tanto en el sentido Físico como en el sentido Espiritual. Como los Forjadores de Vínculos no están tan enfocados en el combate, su manipulación de la Conexión es mucho más relevante para su papel como Radiantes. La Adhesión les garantiza el acceso a muchas más habilidades que a los Corredores del Viento, la otra orden de Radiantes con acceso a la Adhesión.
@@ -96,14 +96,14 @@ Con la habilidad conocida como enlace completo, un Forjador de Vínculos puede s
 
 
 >“*No estaba seguro de que pudiera hacerse. El poder de los Forjadores de Vínculos estaba atemperado por Honor, por el bien de todos. Desde la destrucción de Ashyn.*”
-\-El Padre Tormenta sobre los poderes de Dalinar[18]
+\-El Padre Tormenta sobre los poderes de Dalinar[19]
 
 La Potencia de Adhesión también puede usarse para crear Conexiones espirituales en lugar de para manipular fuerzas en el Reino Físico. Mediante la Adhesión Espiritual, un Forjador de Vínculos puede tocar a otra persona, introducir luz tormentosa en ella y crear así una Conexión entre ambos. Esto le permite al Forjador hablar la lengua nativa de esa persona. Esta Conexión es temporal, ya que se desvanece al cabo de unos días si no es renovada. Se desconoce si el potenciador debe permanecer físicamente cerca de la persona para que la Conexión se mantenga. La Adhesión Espiritual no le permite al Forjador hacer uso de más habilidades de la persona, más allá de las relacionadas con el idioma. Este poder tiene una gran similitud con otras aplicaciones de la [[Conexi%C3%B3n\|Conexión]] como el [[Duraluminio\|duraluminio]] [[Feruquimia\|feruquímico]] de Scadrial.
 Cuando las restricciones que impuso Honor a la potenciación desaparecen, tras la muerte de la Esquirla, los Forjadores de Vínculos son libres para manipular la Conexión de una forma mucho más directa de lo que habían sido capaces con anterioridad. Un Forjador de Vínculos experimentado podría usar estas Conexiones de forma ofensiva, Conectando potenciadores enemigos a Roshar, de forma que la luz tormentosa crea que el planeta es parte de su cuerpo y sea absorbido por el suelo. Desconocemos si era posible acceder a este poder antes de la muerte de Honor. Este poder deja al receptor sintiéndose agotado, e incluso la luz tormentosa parece ser incapaz de eliminar los dolores de cabeza que aparecen. Otro poder que solo estuvo disponible para los Forjadores de Vínculos en los últimos días de Honor fue la habilidad de ver, directamente, las Conexiones que unen a todas las personas entre sí y a la realidad. Al tocar la frente de una persona, sus Conexiones se vuelven visibles, aunque de forma muy débil, como diminutas línea blancas que se extienden en la distancia. Si bien un Forjador de Vínculos puede ver estas Conexiones, no se pueden alterar de ninguna forma que resulte útil. Un Forjador puede ver Conexiones más especializadas, como las que unen a los Heraldos que forman parte del Juramento. En alguna situación, un Forjador puede ver destellos del pasado de un Heraldo al tocarlo. Un Forjador de Vínculos experto podría manipular directamente Conexiones más especializadas para robar cosas como un vínculo Nahel, el cometido de un campeón, fuerza, [[Aliento\|alientos]], la habilidad de usar [[Alomancia\|alomancia]], etc. Antes, todo ello estaba prohibido por Honor. Con la suficiente Investidura un Forjador de Vínculos podría unir una Esquirla a algo.
 
 
 >“*Pero debes tener Conexión para crear una visión. Debes tener una razón para ella. Un significado. No puede ser cualquier cosa.*”
-\-El Padre Tormenta a Dalinar[34]
+\-El Padre Tormenta a Dalinar[35]
 
 
 Otro de los poderes relacionados con los Forjadores de Vínculos es la habilidad de crear y ver [[Visiones\|visiones]] inmersivas de apariencia real ya sea sobre acontecimientos reales o imaginarios. No está del todo claro si esta habilidad es exclusiva del Forjador del Padre Tormenta. Para este Forjador se trata de una habilidad que progresa con los Ideales. Al principio, el Forjador es conducido a las visiones durante cada tormenta sin su consentimiento, donde estas visiones resultan confusas y difíciles de entender, y las acciones que realiza dentro de la visión también las representa en la vida real. Con el tiempo, es posible dejar de representar las visiones. Mientras que el Forjador de Vínculos puede acceder a las visiones en cualquier momento, solo puede llevar a personas que están dentro de una alta tormenta.
@@ -119,7 +119,7 @@ El potenciador puede manipular la Potencia de Tensión para alterar la rigidez d
 ### Otras habilidades
 
 >“*La Vigilante Nocturna es como tú. Pero ¿hay otros spren como tú o la Vigilante? ¿Spren que son sombras de dioses?*”
-\-Dalinar Kholin al Padre Tormenta[45]
+\-Dalinar Kholin al Padre Tormenta[46]
 
 
 Cada Forjador de Vínculos comparte un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con uno de los tres spren únicos que existen: el [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], y el [[Hermano\|Hermano]]. Estos spren son todos del mismo tipo, pero obviamente existen diferencias importantes entre ellos. El propio poder de los spren Forjadores les permite quebrantar las reglas normales que siguen los spren auténticos que están vinculados a otras órdenes. Los spren Forjadores de Vínculos son más omnipresentes y pueden estar separados por grandes distancias de su Radiante y aún así otorgar poderes y hablar directamente en sus mentes, ya que están más Conectados que el resto de spren Radiantes. Normalmente, los Forjadores de Vínculos no tienen acceso a una [[Hoja esquirlada\|hoja esquirlada]]. Es posible que el Padre Tormenta y la Vigilante Nocturna se conviertan en hojas esquirladas, pero es poco probable que ocurra. Es posible forzar a la esencia de su spren a manifestarse en el Reino Físico de una forma que les permite activar las Puertas Juradas. Esto es algo incómodo e incluso peligroso de hacer, quizás a riesgo de matar al spren, y solo se ha observado con el Padre Tormenta. De la misma forma que los otros spren Radiantes, los spren Forjadores son vulnerables si su Radiante traiciona sus juramentos. Si bien estos Radiantes no tienen acceso a una espada, existen evidencias de que sí pueden obtener una armadura esquirlada, tal vez formada por glorispren, aunque se trata de algo sin confirmar. Además, tras la muerte de Honor, el Forjador del Padre Tormenta tiene la habilidad de liberar a Odium de su confinamiento si elige hacerlo, ya que posee una gran remanente del poder y de la autoridad de Honor.
@@ -146,7 +146,7 @@ La orden de Radiantes conocidos como Forjadores de Vínculos fue creada por el H
 
 ### La Traición
 >“*No estamos seguros del efecto que tendrá sobre los parsh. Como mínimo, debería impedirles alcanzar las formas de poder. Melishi confía en que funcione, pero Naze-hija-Kuzodo advierte de posibles efectos secundarios.*”
-\-Del cajón 30-20, quinta esmeralda[68]
+\-Del cajón 30-20, quinta esmeralda[69]
 
 
 Los Forjadores de Vínculos siguieron existiendo tras el [[%C3%9Altima Desolaci%C3%B3n\|Aharietiam]], pero su papel tras esta Desolación no está claro. Probablemente continuaron ayudando en la lucha contra los [[Cantor\|cantores]] que quedaban. En la época de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], solo existía un Forjador de Vínculos auténtico, Melishi vinculado al Hermano. Como parte del plan para derrotar a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], Melishi utilizó sus poderes para encarcelar a la Deshecha en una [[Gema perfecta\|gema perfecta]], y posiblemente estuvo presente en la captura de [[Re-Shephir\|Re-Shephir]]. Esta acción dañó profundamente al Hermano, dejándolo incapaz de escuchar el Ritmo de la Torre y de crear su propia luz. Poco después tuvieron lugar los acontecimientos conocidos como la Traición, y desconocemos el destino que sufrió Melishi, aunque su vínculo con el Hermano terminó antes de la Traición. Sin embargo, sabemos que la orden de los Forjadores de Vínculos se disolvió en ese momento.
@@ -169,7 +169,7 @@ Durante el siguiente año, Dalinar fue el único Forjador con un vínculo. Esta 
 
 
 >“*Entonces [[Melishi\|Melishi]] se retiró a su tienda y decidió destruir a los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] al día siguiente, aunque esa noche presentó una estratagema diferente, relacionada con las habilidades únicas de los Forjadores de Vínculos; y como tenía prisa, no pudo hacer ninguna relación concreta de su proceso; estaba relacionado con la misma naturaleza de los Heraldos y sus deberes divinos, un atributo que solo los Forjadores de Vínculos podían abordar.*”
-\-Palabras radiantes, capítulo 30, página 18[84]
+\-Palabras radiantes, capítulo 30, página 18[85]
 
 
 ## Notas

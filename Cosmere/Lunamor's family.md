@@ -1,18 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Familia de Lunamor**|
 |-|-|
-|**Tipo**|Family|
+|**Tipo**|Familia|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Lunamor's family** are an [[Unkalaki\|Unkalaki]] family related to [[Numuhukumakiaki'aialunamor\|Numuhukumakiaki'aialunamor]].
+La **familia de Lunamor** es una familia [[Unkalaki\|unkalaki]] relacionada con [[Numuhukumakiaki'aialunamor\|Numuhukumakiaki'aialunamor]].
 
-## History
-Lunamor left the [[Horneater Peaks\|Horneater Peaks]] with [[Kef'ha\|Kef'ha]] and was enslaved by [[Torol Sadeas\|Torol Sadeas]] before being sent to [[Bridge Four\|Bridge Four]]. After the [[Battle of the Tower\|Battle of the Tower]], he became a member of [[House Kholin\|House Kholin]]'s personal guard, and then a squire to the  . At some point he sent word back to the mountains for his family to join him on the [[Shattered Plains\|Shattered Plains]]. By the time they reach the Plains, the warcamps had migrated to [[Urithiru\|Urithiru]]. The family's caravan was attacked by [[Voidbringer\|Voidbringers]] and they defend themselves behind a pile of furniture. During the attack one of them shot a Voidbringer with an [[Unkalaki\|Unkalaki]] arrow. They were found by [[Bridge Four\|Bridge Four]] during a patrol and reunited with Lunamor in [[Narak\|Narak]] before being taken back to [[Urithiru\|Urithiru]]. Shortly after the evacuation of the residents of [[Hearthstone\|Hearthstone]] most of the family traveled back to the Peaks, leaving [[Cord\|Cord]] and [[Gift\|Gift]] behind.
+## Historia
+Lunamor abandonó los [[Picos Comecuernos\|Picos Comecuernos]] con [[Kef'ha\|Kef'ha]] y fue esclavizado por [[Torol Sadeas\|Torol Sadeas]] antes de ser enviado al [[Puente Cuatro\|Puente Cuatro]]. Tras la [[Batalla de la Torre\|batalla de la Torre]], se convirtió en miembro de la guardia personal de la [[Casa Kholin\|casa Kholin]], y luego en escudero del [[Caballero Radiante\|Caballero Radiante]] [[Kaladin Bendito por la Tormenta\|Kaladin Bendito por la Tormenta]]. En algún momento envió un mensaje a las montañas para que su familia se reuniese con él en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Cuando llegan a las Llanuras, los campos de guerra han emigrado a [[Urithiru\|Urithiru]]. La caravana de la familia fue atacada por [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] y se defienden detrás de una pila de muebles. Durante el ataque, uno de ellos disparó a un Portador del Vacío con una flecha [[Unkalaki\|unkalaki]]. Fueron encontrados por el [[Puente Cuatro\|Puente Cuatro]] durante una patrulla y se reunieron con Lunamor en [[Narak\|Narak]] antes de ser llevados de vuelta a [[Urithiru\|Urithiru]]. Poco después de la evacuación de los residentes de [[Piedralar\|Piedralar]], la mayor parte de la familia viajó de vuelta a los Picos, dejando atrás a [[Cuerda\|Cuerda]] y [[Don\|Don]].
 
-## Family Tree
-Lunamor's family tree
+## Árbol genealógico
+Árbol genealógico de Lunamor
 ||||||||||[[Lunamor\|Lunamor]]||[[Tuaka\|Tuaka]]|||||||||
 |-|-|
 |||
@@ -20,7 +23,7 @@ Lunamor's family tree
 |
 |||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||
-||[[Gift\|Gift]]||[[Cord\|Cord]]||[[Rock (junior)\|Rock]]||||[[Kuma'tiki\|Kuma'tiki]]||[[Beautiful Song\|Beautiful Song]]||
+||[[Don\|Don]]||[[Cuerda\|Cuerda]]||[[Roca (junior)\|Roca]]||[[Estrella\|Estrella]]||[[Kuma'tiki\|Kuma'tiki]]||[[Canci%C3%B3n Hermosa\|Canción Hermosa]]||
 |
 
 |||
@@ -37,7 +40,7 @@ Lunamor's family tree
 | |Fallecido|
 
 
-## Notes
+## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|

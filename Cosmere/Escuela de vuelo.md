@@ -73,4 +73,4 @@ El contenido no ha sido revisado todavía.
 
 
 
-https://es.coppermind.net/wiki/Escuela_de_Vuelo
+https://es.coppermind.net/wiki/Escuela_de_vuelo

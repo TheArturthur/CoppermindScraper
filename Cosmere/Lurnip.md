@@ -1,18 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Lurnip**|
 |-|-|
-|**Tipo**|Plant|
-|**Se usa para**|Food|
+|**Tipo**|Planta|
+|**Se usa para**|Comida|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Lurnips** are a type of plant native to [[Roshar\|Roshar]].
-Lurnips are green and cultivated as a vegetable. They may be related to the similarly named [[Curnip\|curnips]], an edible species of [[Rockbud\|rockbud]].
+Los **lurnips** son un tipo de planta nativa de [[Roshar\|Roshar]].
+Son verdes y se cultivan como verdura. Pueden estar emparentados con los [[Curnip\|curnips]], una especie comestible de [[Rocabrote\|rocabrote]].
 
-## History
-[[Jasnah\|Jasnah]] ate a lurnip as part of a women's vegetable stew during a lunch meeting with [[Taravangian\|Taravangian]] in [[Kharbranth\|Kharbranth]].
-In [[Emul\|Emul]], there was a lurnip famine a few decades before the year 1173, implying that they are a staple food in the region. [[Av\|Av]]'s father went to the [[Nightwatcher\|Nightwatcher]] because his family was starving due to the famine.
+## Historia
+[[Jasnah\|Jasnah]] comió un lurnip como parte de un guiso de verduras para mujeres durante un almuerzo con [[Taravangian\|Taravangian]] en [[Kharbranth\|Kharbranth]].
+En [[Emul\|Emul]], hubo una hambruna de lurnip unas décadas antes del año 1173, lo que implica que son un alimento básico en la región. El padre de [[Av\|Av]] acudió a la [[Vigilante Nocturna\|Vigilante Nocturna]] porque su familia se moría de hambre debido a la escasez.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 18:57, 25 November 2016 (MST)

@@ -1,32 +1,35 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Lorain**|
 |-|-|
 |**Capacidades**|[[Orden de los Danzantes del Filo\|Danzante del Filo]]|
-|**Grupo**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
+|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
-**Lorain** is an [[Order of Edgedancers\|Edgedancer]] on [[Roshar\|Roshar]].
+**Lorain** es una [[Orden de los Danzantes del Filo\|Danzantes del Filo]] en [[Roshar\|Roshar]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 Attributes and Abilities. [[#Attributes and Abilities]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-She is short, and has dyed hair.
+## Apariencia y personalidad
+Es bajita y lleva el pelo teñido.
 
-## Attributes and Abilities
-Lorain shares a [[Nahel bond\|Nahel bond]] with an unknown [[Cultivationspren\|cultivationspren]]. She uses the  of [[Progression\|Progression]] to heal people.
+## Atributos y habilidades
+Lorain comparte un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con un [[Cultivacispren\|cultivacispren]] del que no se sabe el nombre. Utiliza la [[Potencia\|Potencia]] de [[Progresi%C3%B3n\|Progresión]] para curar a la gente.
 
-## History
-Lorain worked in a medical clinic in the [[Urithiru\|Urithiru]] markets with other Edgedancers and nurses. When [[Raboniel\|Raboniel]] attacked [[Urithiru\|Urithiru]] and reversed the effects of the [[Sibling\|Sibling]]'s protection [[Fabrial\|fabrial]] to interfere with [[Knights Radiant\|Radiant]] powers, Lorain and another Edgedancer fell unconscious. Lorain hit her head, causing some bleeding. A nurse that was working in the clinic attended to her wound and was confused by what had happened; when [[Kaladin\|Kaladin]] came to investigate, the nurse theorized that there may have been a [[Dazewater\|dazewater]] leak.
+## Historia
+Lorain trabajaba en una clínica médica en los mercados de [[Urithiru\|Urithiru]] con otros Danzantes del Filo y enfermeras. Cuando [[Rabeniel\|Rabeniel]] atacó [[Urithiru\|Urithiru]] e invirtió los efectos del [[Fabrial\|fabrial]] de protección de [[Hermano\|Hermano]] para interferir con los poderes de los [[Caballeros Radiantes\|Radiantes]], Lorain y otro Danzante del Filo cayeron inconscientes. Lorain se golpeó la cabeza, provocando una hemorragia. Una enfermera que trabajaba en la clínica atendió su herida y se mostró confusa por lo que había sucedido; cuando [[Kaladin\|Kaladin]] acudió a investigar, la enfermera teorizó que podría haberse producido una fuga de [[Aturdeagua\|aturdeagua]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 19:31, 26 February 2021 (UTC)

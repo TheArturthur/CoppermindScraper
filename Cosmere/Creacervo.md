@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Creacervo**|
 |-|-|
 |**Tipo**|[[Hoja esquirlada\|Hoja esquirlada]]|
@@ -5,12 +8,12 @@
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Loremaker** is a [[Shardblade\|Shardblade]] on [[Roshar\|Roshar]].
+**Creacervo** es una [[Hoja esquirlada\|hoja esquirlada]] en [[Roshar\|Roshar]].
 
-## History
-In 1175, Loremaker was owned by [[Fisk\|Fisk]], then the captain of the [[Cobalt Guard\|Cobalt Guard]]. It was with him in [[Emul\|Emul]] during the [[Coalition of monarchs\|coalition of monarchs]]' operation to recapture the country from the [[Voidbringer\|Voidbringers]]. It is unknown who owned Loremaker prior to Fisk, though it could be the Blade [[Renarin Kholin\|Renarin Kholin]] bonded before he revealed his [[Nahel bond\|Nahel bond]] with [[Glys\|Glys]].
+## Historia
+En 1175, Creacervo era propiedad de [[Fisk\|Fisk]], entonces capitán de la [[Guardia de Cobalto\|Guardia de Cobalto]]. Estuvo con él en [[Emul\|Emul]] durante la operación de la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]] para reconquistar el país de manos de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Se desconoce quién era el dueño de Creacervo antes de Fisk, aunque podría ser la hoja que [[Renarin Kholin\|Renarin Kholin]] vinculó antes de que revelase su [[V%C3%ADnculo Nahel\|vínculo Nahel]] con [[Glys\|Glys]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Taln Fan (talk) 04:10, 29 May 2022 (UTC)

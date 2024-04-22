@@ -1,26 +1,29 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Lusintia**|
 |-|-|
-|**Capacidades**|[[Astilla\|Astilla]] of [[Honor\|Honor]]|
+|**Capacidades**|[[Astilla\|Astilla]] de [[Honor\|Honor]]|
 |**Especie**|[[Honorspren\|Honorspren]]|
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
->“*How could you endanger yourself in such a manner? Do you not realize that mortals die if broken?*”
-\-Lusintia to Shallan Davar[1]
+>“*¿Cómo has podido arriesgarte de esa manera? ¿No eres consciente de que los mortales morís si os rompéis?*”
+\-Lusintia a Shallan Davar[1]
 
 
-**Lusintia** is an [[Honorspren\|honorspren]] from [[Lasting Integrity\|Lasting Integrity]] on [[Roshar\|Roshar]].
+**Lusintia** es una [[Honorspren\|honorspren]] de [[Integridad Duradera\|Integridad Duradera]] en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-Lusintia is an [[Honorspren\|honorspren]] who appears as a short women wearing a stiff jacket and trousers that give the appearance of a uniform, with chin-long hair.
-She is very loyal to the idea that the honorspren are right to isolate themselves from the humans, and she is willing to act as a guard on the  [[Shallan Davar\|Shallan Davar]]. Lusintia is outraged by the idea of Shallan colluding with [[Kalak\|Kalak]], though she holds a great reverence for the [[Herald\|Herald]] himself. She has a softer side as well, which shows when she frantically asks [[Pattern\|Pattern]] for advice following Shallan's "accident" and when she assures Shallan that they would not have let her die. Like other honorspren, Lusintia is ignorant of the types of subterfuge that humans sometimes use.
+## Apariencia y personalidad
+Lusintia es una [[Honorspren\|honorspren]] que aparece como una mujer de baja estatura que viste una chaqueta rígida y pantalones que dan la apariencia de un uniforme, con el pelo largo hasta la barbilla.
+Es muy leal a la idea de que los honorspren hacen bien en aislarse de los humanos y está dispuesta a actuar como guardia de la [[Orden de los Tejedores de Luz\|Tejedora de Luz]] [[Shallan Davar\|Shallan Davar]]. A Lusintia le indigna la idea de que Shallan se confabule con [[Kalak\|Kalak]], aunque siente una gran admiración por el propio [[Heraldo\|Heraldo]]. También tiene un lado más suave, que se muestra cuando pide consejo frenéticamente a [[Patr%C3%B3n\|Patrón]] tras el "accidente" de Shallan y cuando le asegura que no la habrían dejado morir. Al igual que otros honorspren, Lusintia ignora los tipos de subterfugios que a veces utilizan los humanos.
 
-## History
-Lusintia acted as a guide for [[Shallan\|Shallan]] on her first day in [[Lasting Integrity\|Lasting Integrity]]. She was also assigned to watch her covertly, meaning that she was immediately on scene when Shallan fell from a tree. Flustered, Lusintia and a number of other honorspren were tricked by Pattern into believing that Shallan required [[Stormlight\|Stormlight]] to heal. After carrying her to the room where the honorspren stored their Stormlight, Lusintia was embarrassed to realize that Shallan used up an entire emerald  and had to stay back to fill out a report. As Formless, Shallan later impersonated Lusintia while attempting to assassinate [[Kalak\|Kalak]]. When a group of honorspren led by [[Sekeir\|Sekeir]] interrupted Shallan while she spoke with the Herald, Lusintia accused her of attempting to influence the course of her husband, [[Adolin Kholin\|Adolin Kholin]]'s trial.
+## Historia
+Lusintia hizo de guía para [[Shallan\|Shallan]] en su primer día en [[Integridad Duradera\|Integridad Duradera]]. También fue asignada para vigilarla de forma encubierta, lo que significa que estuvo inmediatamente en el lugar cuando Shallan cayó de un árbol. Nerviosa, Lusintia y otros honorspren fueron engañados por Patrón haciéndoles creer que Shallan necesitaba [[Luz tormentosa\|luz tormentosa]] para curarse. Tras llevarla a la sala donde los honorspren almacenaban su Luz tormentosa, Lusintia se avergonzó al darse cuenta de que Shallan había gastado toda una [[Esfera\|esfera]] esmeralda y tuvo que quedarse atrás para cumplimentar un informe. Como Sinforma, Más tarde, Shallan se hizo pasar por Lusintia mientras intentaba asesinar a [[Kalak\|Kalak]]. Cuando un grupo de honorspren liderado por [[Sekeir\|Sekeir]] interrumpió a Shallan mientras hablaba con el Heraldo, Lusintia la acusó de intentar influir en el curso del juicio de su marido, [[Adolin Kholin\|Adolin Kholin]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Truthwatch3r (talk) 23:21, 10 March 2022 (UTC)

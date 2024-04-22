@@ -5,8 +5,6 @@
 |**Mundo de origen**|Desconocido|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 Los **Venidos de Arriba** es el nombre coloquial de un grupo espacial que visita regularmente al pueblo [[Eelakin\|eelakin]] en [[Primero del Sol\|Primero del Sol]]. Su nombre hace referencia al hecho de que llegan al cielo de Primero del Sol en naves espaciales.
 
 ## Sumario

@@ -33,4 +33,4 @@ El contenido no ha sido revisado todavía.
 
 
 
-https://es.coppermind.net/wiki/Naimeer
+https://es.coppermind.net/wiki/NaiMeer

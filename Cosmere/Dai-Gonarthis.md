@@ -38,4 +38,4 @@ Chaos2651 (talk) 09:55, 16 June 2018 (MST)
 
 
 
-https://es.coppermind.net/wiki/Dai-gonarthis
+https://es.coppermind.net/wiki/Dai-Gonarthis

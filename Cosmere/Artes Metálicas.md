@@ -112,4 +112,4 @@ A este artículo le falta información. Por favor, ayuda a The Coppermind .
 
 
 
-https://es.coppermind.net/wiki/Artes_met%C3%A1licas
+https://es.coppermind.net/wiki/Artes_Met%C3%A1licas

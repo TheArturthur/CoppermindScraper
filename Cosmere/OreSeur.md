@@ -11,13 +11,12 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **OreSeur** es un [[Kandra\|kandra]] de [[Scadrial\|Scadrial]].
-En un principio, su contrato era con [[Kelsier\|Kelsier]]. Principalmente se dedicaba a imitar a lord [[Renoux\|Renoux]] y echarle un ojo a [[Vin\|Vin]] mientras actuaba como Valette Renoux. Tras la muerte de Kelsier, su contrato pasa a [[Vin\|Vin]], quien está enfadada con él porque conocía el plan de Kelsier para morir e inspirar a los skaa a luchar y no le paró los pies, a pesar de que OreSeur sólo actuaba según su contrato. Con el tiempo, el disgusto de Vin hacia la idea de un kandra comiendo humanos hace que ordene a OreSeur ingerir los huesos de un “perro lobo”. A la mitad de su transformación, este es asesinado y sustituido por TenSoon.
-
-  En su cuerpo de perro
-[[KanPaar\|KanPaar]] fue el que dió su contrato a [[Kelsier\|Kelsier]], a pesar de que esto fuera actuar en contra del lord Legislador, todo a causa del alto precio que Kelsier estaba dispuesto a pagar por él. Siendo un miembro bastante rebelde de la Tercera Generación, OreSeur es uno de los pocos kandra dispuestos a aceptar este trabajo y abandona la [[Tierra Natal kandra\|Tierra Natal]] para hacerlo tras un largo periodo de retiro.
-Al igual que TenSoon, OreSeur es un kandra de la tercera generación y tenía más de 700 años.
+En un principio, su contrato era con [[Kelsier\|Kelsier]]. Principalmente se dedicaba a imitar a lord [[Renoux\|Renoux]] y echarle un ojo a [[Vin\|Vin]] mientras actuaba como Valette Renoux. Tras la muerte de Kelsier, su contrato pasa a [[Vin\|Vin]], quien está enfadada con él porque conocía el plan de Kelsier para morir e inspirar a los [[Skaa\|skaa]] a luchar y no le paró los pies, a pesar de que OreSeur sólo actuaba según su contrato. Con el tiempo, el disgusto de Vin hacia la idea de un kandra comiendo humanos hace que ordene a OreSeur ingerir los huesos de un “perro lobo”. A la mitad de su transformación, este es asesinado y sustituido por TenSoon.
+[[KanPaar\|KanPaar]] fue el que dió su contrato a [[Kelsier\|Kelsier]], a pesar de que esto fuera actuar en contra del [[Lord Legislador\|lord Legislador]], todo a causa del alto precio que Kelsier estaba dispuesto a pagar por él. Siendo un miembro bastante rebelde de la Tercera Generación, OreSeur es uno de los pocos kandra dispuestos a aceptar este trabajo y abandona la [[Tierra Natal kandra\|Tierra Natal]] para hacerlo tras un largo periodo de retiro.
+Al igual que TenSoon, OreSeur es un kandra de la tercera generación y tenía más de 700 años cuando murió.
 
 ## Curiosidades
 Brandon quería escribir una historia corta desde el punto de vista de OreSeur para explorar las razones por las que los kandra aceptaron el contrato de Kelsier y mostrar también sus sentimientos tras el asesinato de [[Rashek\|Rashek]]

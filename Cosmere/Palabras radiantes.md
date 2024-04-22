@@ -161,4 +161,4 @@ A este meta-artículo todavía le falta información. Por favor, ayuda a The Cop
 
 
 
-https://es.coppermind.net/wiki/Palabras_Radiantes
+https://es.coppermind.net/wiki/Palabras_radiantes

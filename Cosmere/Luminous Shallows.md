@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Los Bajíos Luminosos**|
 |-|-|
 |**Región**|[[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Luminous Shallows** is a location in the [[Sea of Lost Lights\|Sea of Lost Lights]], near the [[Glasswater Deep\|Glasswater Deep]] and the [[Caretaker of Laughter\|Caretaker of Laughter]].
-In the [[Physical Realm\|Physical Realm]], this corresponds to the southern peninsula of [[Frostlands\|Frostlands]], the section that contains the [[Shallow Crypts\|Shallow Crypts]].
+**Los Bajíos Luminosos** es un lugar en el [[Mar de las Luces Perdidas\|mar de las Luces Perdidas]], cerca de las [[Profundidades de Aguacristalina\|Profundidades de Aguacristalina]] y del [[Custodio de la Risa\|Custodio de la Risa]].
+En el [[Reino F%C3%ADsico\|Reino Físico]], corresponde a la península sur de las [[Tierras Heladas\|Tierras Heladas]], la sección que contienen las [[Criptas Huecas\|Criptas Huecas]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 22:06, 3 July 2018 (MST)
