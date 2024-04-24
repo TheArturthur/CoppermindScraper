@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Makabak**|
 |-|-|
 |**Etnia**|[[Makabaki\|Makabaki]]🐱︎|
@@ -6,30 +9,30 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Makabak** is a region in southwestern [[Roshar\|Roshar]] occupied by numerous nations that share a common ethnicity and culture. It is named for the former [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]] and includes most of that kingdom's territory.
+**Makabak** es una región del suroeste de [[Roshar\|Roshar]] ocupada por numerosas naciones que comparten una etnia y cultura comunes. Recibe su nombre del antiguo [[Reinos Plateados\|Reino Plateado]] de [[Makabakam\|Makabakam]] e incluye la mayor parte del territorio de ese reino.
 
 ## Sumario
 
-1 Geography. [[#Geography]] 
-2 Culture. [[#Culture]] 
-3 Politics. [[#Politics]] 
-4 Notes. [[#Notes]] 
+1 Geografía. [[#Geograf.C3.ADa]] 
+2 Cultura. [[#Cultura]] 
+3 Política. [[#Pol.C3.ADtica]] 
+4 Notas. [[#Notas]] 
 
 
-## Geography
-The region covers the southern center of the Rosharan continent. It is framed by mountain ranges to the north, east, and west, and has a long coastline on the [[Southern Depths\|Southern Depths]]. The region includes the nations of [[Alm\|Alm]], [[Azir\|Azir]], [[Desh\|Desh]], [[Emul\|Emul]], [[Greater Hexi\|Greater Hexi]], [[Liafor\|Liafor]], [[Marat\|Marat]], [[Steen\|Steen]], [[Tashikk\|Tashikk]], [[Tu Fallia\|Tu Fallia]], [[Tukar\|Tukar]], [[Yezier\|Yezier]], and about half of [[Triax\|Triax]]. The Azish Empire includes many of these nations, although it does not encompass the entirety of Makabak. Makabak has a single [[Oathgate\|Oathgate]], in the Azish capital of [[Azimir\|Azimir]].
+## Geografía
+La región abarca el centro sur del continente roshariano. Está rodeada de cadenas montañosas al norte, este y oeste, y tiene una larga costa en las [[Profundidades Meridionales\|Profundidades Meridionales]]. La región incluye las naciones de [[Alm\|Alm]], [[Azir\|Azir]], [[Desh\|Desh]], [[Emul\|Emul]], [[Gran Hexi\|Gran Hexi]], [[Liafor\|Liafor]], [[Marat\|Marat]], [[Steen\|Steen]], [[Tashikk\|Tashikk]], [[Tu Fallia\|Tu Fallia]], [[Tukar\|Tukar]], [[Yezier\|Yezier]], y aproximadamente la mitad de [[Triax\|Triax]]. El imperio azishiano incluye a muchas de estas naciones, aunque no abarca la totalidad de Makabak. Makabak tiene una única [[Puerta Jurada\|Puerta Jurada]], en la capital azishiana de [[Azimir\|Azimir]].
 
-## Culture
-Makabaki people generally have dark brown skin, black hair, and dark eyes. The region borders [[Shinovar\|Shinovar]], but the Makabaki do not have the round eyes of the Shin. There are approximately thirty Makabaki languages, most of which branched off from Azish. Many of the nations are rich in culture and have thriving trade. The area has higher population density than the nations to the east and Azimir is larger than [[Kholinar\|Kholinar]].
-Residents of several Makabaki nations are thought to avoid offending others as much as possible, and would rather dodge a request than deny it, especially if it comes from a foreigner. Azish people are considered verbose and sometimes intentionally vague in order to conceal their true intentions. The Azish Empire has many skilled clerks and scribes, and is thought of as highly lawful, bureaucratic, and organized.
-The Makabaki worship the  not the Almighty.
+## Cultura
+Los makabaki suelen tener la piel de color marrón oscuro, el pelo negro y los ojos oscuros. La región limita con [[Shinovar\|Shinovar]], pero los makabaki no tienen los ojos redondos de los shin. Existen unas treinta lenguas makabaki, la mayoría de ellas derivadas del azishiano. Muchas de las naciones son ricas en cultura y tienen un comercio próspero. La zona tiene mayor densidad de población que las naciones situadas al este y Azimir es mayor que [[Kholinar\|Kholinar]].
+Se cree que los residentes de varias naciones makabaki evitan ofender a los demás en la medida de lo posible, y prefieren esquivar una petición antes que denegarla, sobre todo si procede de un extranjero. Los azishianos son considerados habladores y, a veces, intencionadamente ambiguos para ocultar sus verdaderas intenciones. El imperio azishiano cuenta con muchos empleados y escribas cualificados, y se considera muy respetuoso con la ley, burocrático y organizado.
+Los makabaki adoran a los [[Heraldos\|Heraldos]] no al Todopoderoso.
 
-## Politics
-Azir is the largest nation in the region, and its [[Prime Aqasix\|Prime Aqasix]] traditionally claims authority as emperor of Makabak; in practice, the Prime only rules Azir. Other member states of the Azish Empire recognize the monarchy and still follow certain traditions in regards to the Prime Aqasix, but they are actually governed with a high degree of autonomy. Even though Azir does not actually rule the entire region, it is still highly influential. Feuds between nations are thought to be common, although the true nature of the feuds is disputed. Emul and Tukar are currently at war. The leaders of each nation are sometimes addressed by the name of their nation rather than their proper name.
-The region is thought of as politically unimportant by residents of other nations; the lack of centralized political power causes many Makabak heads of state to be indecisive. The large [[Vorin\|Vorin]] kingdoms see the Makabaki as pagans and sometimes refer to the nations as "tribes" and to the people as "barbarians". Conversely, the Azish harbor ill will towards the  due to a genocide perpetrated by their former king, [[Sadees\|Sadees]] the Sunmaker.
-During [[Dalinar Kholin\|Dalinar Kholin]]'s attempts to unite Roshar, [[Noura\|Noura]] unexpectedly tells him that Azir and several other Makabaki nations have agreed to meet with him in [[Urithiru\|Urithiru]]. It is likely that some of the Makabaki leaders were more receptive to Dalinar's offer because the  invaded the area during the [[True Desolation\|True Desolation]], conquering portions of Emul and Marat as they positioned their armies to attack [[Thaylen City\|Thaylen City]]. Makabaki leaders are seen strategizing with Alethi leadership, which is notable because there have not been any formal alliances between the two regions in centuries. Dalinar thinks of the Azish generals as scribes and is surprised to learn that they have skill in military strategy.
+## Política
+Azir es la nación más grande de la región, y su [[Aqasix Supremo\|Aqasix Supremo]] reclama tradicionalmente autoridad como emperador de Makabak; en la práctica, el Supremo solo gobierna Azir. Otros Estados miembros del imperio azishiano reconocen la monarquía y siguen ciertas tradiciones en relación con el Aqasix Supremo, pero en realidad se gobiernan con un alto grado de autonomía. Aunque Azir no gobierna realmente toda la región, sigue siendo muy influyente. Se cree que las enemistades entre naciones son frecuentes, aunque se discute su verdadera naturaleza. Emul y Tukar están actualmente en guerra. A veces, a los dirigentes de cada nación se les llama por el nombre de su nación en lugar de por su nombre propio.
+Los residentes de otras naciones consideran que la región carece de importancia política; la falta de un poder político centralizado hace que muchos jefes de estado de Makabak se muestren indecisos. Los grandes reinos [[Vorin\|vorin]] ven a los makabaki como paganos y a veces se refieren a las naciones como "tribus" y a la gente como "bárbaros". Por el contrario, los azishianos albergan rencor hacia los [[Alezi\|alezi]] debido a un genocidio perpetrado por su antiguo rey, [[Sadees\|Sadees]] el Hacedor de Soles.
+Durante los intentos de [[Dalinar Kholin\|Dalinar Kholin]] por unir Roshar, [[Noura\|Noura]] le comunica inesperadamente que Azir y varias otras naciones makabaki han acordado reunirse con él en [[Urithiru\|Urithiru]]. Es probable que algunos de los líderes makabaki fuesen más receptivos con la oferta de Dalinar porque los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] invadieron la zona durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], conquistando porciones de Emul y Marat mientras posicionaban sus ejércitos para atacar [[Ciudad Thaylen\|Ciudad Thaylen]]. Se ve a los líderes makabaki elaborando estrategias con los líderes alezi, lo que es llamativo porque no ha habido ninguna alianza formal entre las dos regiones en siglos. Dalinar considera a los generales azishianos como escribas y se sorprende al saber que tienen habilidad en estrategia militar.
 
-## Notes
+## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|

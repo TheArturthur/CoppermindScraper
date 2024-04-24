@@ -4,16 +4,18 @@
 |-|-|
 ||
 |**Capacidades**|[[Astilla\|Astilla]] de [[Odium\|Odium]]|
+|**Apodos**|La Emoción|
 |**Grupo**|[[Deshechos\|Deshechos]]🐱︎|
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*La Emoción no odiaba. Aunque algunos spren podían tomar decisiones, otros eran como animales, primitivos, guiados por una sola e irresistible directriz. Vivir. Arder. Reír. O en este caso, **luchar**.*”
-\-Dalinar cuando captura a Nergaoul.[1]
+\-Dalinar cuando captura a Nergaoul.[2]
 
 
-**Nergaoul** es el [[Deshecho\|Deshecho]] relacionado con la **Emoción**. Es descrito como un “spren antiguo y maligno”.
+**Nergaoul** es uno de los nueve [[Deshecho\|Deshechos]] en [[Roshar\|Roshar]]. En épocas modernas, Nergaoul es conocido con la **Emoción**. Es descrito como un «spren antiguo y maligno», aunque no es lo suficientemente inteligente como para tomar decisiones.
 
 ## Sumario
 
@@ -74,7 +76,7 @@ El rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]], el verdadero 
   <<Dalinar\|Dalinar>> enfrentándose a Nergaoul en <<Ciudad Thaylen\|Ciudad Thaylen>>
 ### En Thaylenah
 >“*Gracias por concederme fuerza cuando la necesité. Y ahora, vieja amiga, es hora de descansar.*”
-\-Dalinar a Nergaoul (a quien él conoce como la Emoción), justo antes de capturar al Deshecho[1]
+\-Dalinar a Nergaoul (a quien él conoce como la Emoción), justo antes de capturar al Deshecho[2]
 
 
 Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], [[Odium\|Odium]] utiliza a Nergaoul para controlar a los soldados de [[Principado Sadeas\|Sadeas]] y atacar [[Ciudad Thaylen\|Ciudad Thaylen]]. También utiliza la Emoción para intentar atraer a Dalinar a su bando y que se convierta en su campeón.

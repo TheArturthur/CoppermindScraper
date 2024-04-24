@@ -11,7 +11,7 @@
 
 
 **Mythos** es un apodo que se utiliza fuera de este mundo para referirse a un [[/wiki/Cosmere#Planetas]] del [[Cosmere\|Cosmere]].
-Tras repeler el ataque de [[Autonom%C3%ADa\|Autonomía]] a [[Scadrial\|Scadrial]] en el 348 [[Catacendro\|PC]], [[Kelsier\|Kelsier]] menciona a Mythos como una posible fuente de aliados en una conversación con [[Armon%C3%ADa\|Armonía]], pese a que al parecer lo considera una opción menos probable que [[Sel\|Sel]] y el planeta de los [[%C3%89ter\|éteres]].
+Tras repeler el ataque de [[Autonom%C3%ADa\|Autonomía]] a [[Scadrial\|Scadrial]] en el 348 [[Catacendro\|PC]], [[Kelsier\|Kelsier]] menciona a Mythos como una posible fuente de aliados en una conversación con [[Armon%C3%ADa\|Armonía]], pese a que al parecer lo considera una opción menos probable que [[Sel\|Sel]] y [[Dhatri\|Dhatri]].
 
 ## Curiosidades
 En el [[State of the Sanderson\|State of the Sanderson]] de 2022, se mencionó como proyecto menor una posible saga ambientada en Mythos.

@@ -6,10 +6,10 @@
 ||
 |**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], [[Astilla\|Astilla]] de [[Cultivaci%C3%B3n\|Cultivación]], [[Antigua Magia\|Antigua Magia]]|
 |**Títulos**|Madre del Mundo|
-|**Apodos**|[[Chemoarish\|Chemoarish]]|
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -28,7 +28,8 @@ No siempre se aparece a los que la buscan, ya que tiende a evitar a los grupos y
 
 
 4 Visitantes conocidos. [[#Visitantes conocidos]] 
-5 Notas. [[#Notas]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
 ## Apariencia y personalidad
@@ -38,7 +39,7 @@ La Vigilante Nocturna se manifiesta en el Reino Físico como una bruma de color 
 A veces es confundida erróneamente con [[Chemoarish\|Chemoarish]], uno de los [[Deshechos\|Deshechos]].
 
 ## Origen
-Llamada "niña" por [[Cultivaci%C3%B3n\|Cultivación]], es probable que la Vigilante Nocturna haya sido creada por ella con un propósito específico desde un spren diferente, al igual que el [[Padre Tormenta\|Padre Tormenta]] lo fue por [[Honor\|Honor]]. La Vigilante Nocturna es implícitamente uno de los tres [[Spren\|spren]] en [[Roshar\|Roshar]] que son [[Sombra Cognitiva\|sombras de un dios]].
+Llamada «niña» por [[Cultivaci%C3%B3n\|Cultivación]], es probable que la Vigilante Nocturna haya sido creada por ella con un propósito específico desde un spren diferente, al igual que el [[Padre Tormenta\|Padre Tormenta]] lo fue por [[Honor\|Honor]]. La Vigilante Nocturna es implícitamente uno de los tres [[Spren\|spren]] en [[Roshar\|Roshar]] que son [[Sombra Cognitiva\|sombras de un dios]].
 La Vigilante Nocturna fue creada deliberadamente por Cultivación para que no estuviera conectada con los humanos y no le afectara la forma en que ellos piensen en ella. Esto se hizo para que pudiera crecer más orgánicamente.
 
 ## Atributos y habilidades
@@ -65,6 +66,10 @@ La maldición, al igual que la bendición, es permanente. A lo largo de la histo
 
 
 
+
+
+## Curiosidades
+Es probable que, si fuera un Forjador de Vínculos, Brandon Sanderson se vinculase con la Vigilante Nocturna en lugar de con el Padre Tormenta.
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

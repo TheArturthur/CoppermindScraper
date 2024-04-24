@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Madasa**|
 |-|-|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Madasa** is a historical figure on [[Roshar\|Roshar]] from a time prior to the [[Day of Recreance\|Day of Recreance]]. They are mentioned in ** in connection to the [[Order of Bondsmiths\|Order of Bondsmiths]]. It is not clear if Madasa was actually a  or some other contemporary authority figure.
+**Madasa** es un personaje histórico de [[Roshar\|Roshar]] anterior al [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]]. Se menciona en *[[Palabras radiantes (in-world)\|Palabras radiantes]]* en relación con la [[Orden de los Forjadores de V%C3%ADnculos\|Orden de los Forjadores de Vínculos]]. No está claro si Madasa era en realidad un [[Caballero Radiante\|Caballero Radiante]] o alguna otra figura de autoridad de la época.
 
->“* But as for the , they had members only three, which number was not uncommon for them; nor did they seek to increase this by great bounds, for during the times of Madasa, only one of their order was in continual accompaniment of [[Urithiru\|Urithiru]] and its thrones. Their spren was understood to be specific, and to persuade them to grow to the magnitude of the other orders was seen as seditious.*”
-\- from Words of Radiance, chapter 16, page 14[1]
+>“* En cuanto a los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], solo tenían tres miembros, un número que no era extraño en ellos. Tampoco buscaban aumentarlo con grandes obligaciones, pues durante los tiempos de Madasa, solo uno de su orden estaba acompañado continuamente de [[Urithiru\|Urithiru]] y sus tronos. Se entendía que sus spren eran específicos, y convencerlos de que crecieran hasta la magnitud de las otras órdenes se consideraba sedicioso.*”
+\- De Palabras radiantes, capítulo 16, página 14[1]
 
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 23:00, 28 August 2020 (UTC)
