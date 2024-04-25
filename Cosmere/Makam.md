@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Makam**|
 |-|-|
-|**Tipo**|Tree|
+|**Tipo**|Árbol|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Makam** are a type of tree native to [[Roshar\|Roshar]].
-Makam have a sap with a strong musky odor. It is a dark brown hardwood, with grain that is barely visible. Makam is a strong and light wood. All mobile bridges are made of makam as it is light enough to be carried by the bridgemen, but strong enough to stand a heavy cavalry charge.
+Los **makam** son un tipo de árbol nativo de [[Roshar\|Roshar]].
+El makam tiene una savia con un fuerte olor a almizcle. Es una madera dura de color marrón oscuro, con vetas apenas visibles. El makam es una madera fuerte y ligera. Todos los puentes móviles están hechos de makam, ya que es lo bastante ligero como para que lo lleven los hombres del puente, pero lo bastante resistente como para soportar una carga pesada de caballería.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 12:45, 26 December 2016 (MST)

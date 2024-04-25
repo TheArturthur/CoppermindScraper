@@ -4,7 +4,7 @@
 |**Avena**|
 |-|-|
 |**Oficio**|Erudito|
-|**Era**|Épocas Heráldicas|
+|**Era**|[[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

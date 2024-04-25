@@ -6,14 +6,15 @@
 |**Grupo**|[[Ire\|Ire]]🐱︎|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*Nacidos de la bruma: historia secreta*|
 
 **Maod** es un miembro de la guardia de los [[Ire\|Ire]].
 
 ## Atributos y Habilidades
-[[Kelsier\|Kelsier]] señala que los guardias de los Ire tienen la piel clara y hablan la misma lengua extraña (presumiblemente [[A%C3%B3nico\|aónico]]) que los miembros de [[Elantris\|Elantris]] de los Ire, lo que implica que los guardias también son de [[Sel\|Sel]]. La presencia de Maod fuera de su propio mundo lo califica como un [[Saltamundos\|saltamundos]], aunque es probable que pueda existir en la fortaleza de los Ire debido a una conexión especial del edificio con el [[Dor\|Dor]].
+[[Kelsier\|Kelsier]] señala que los guardias de los [[Ire\|Ire]] tienen la piel clara y hablan la misma lengua extraña (presumiblemente [[A%C3%B3nico\|aónico]]) que los miembros de [[Elantris\|Elantris]] de los Ire, lo que implica que los guardias también son de [[Sel\|Sel]]. La presencia de Maod fuera de su propio mundo lo califica como un [[Saltamundos\|saltamundos]], aunque es probable que pueda existir en la fortaleza de los Ire debido a una conexión especial del edificio con el [[Dor\|Dor]].
 
 ## Historia
-Maod era uno de los varios guardias asignados a la vigilancia en el tejado de la fortaleza de los Ire en el [[Reino Cognitivo\|Reino Cognitivo]] cuando Kelsier se acercó durante su búsqueda de una forma de detener a [[Ruina\|Ruina]]. Aunque Kelsier había aprendido a hacerse casi invisible, Maod fue capaz de verle acercarse sigilosamente al muro de la fortaleza. Sin embargo, perdió de vista a Kelsier en la oscuridad antes de que éste entrara en el edificio.
+Maod era uno de los varios guardias asignados a la vigilancia en el tejado de la fortaleza de los [[Ire\|Ire]] en el [[Reino Cognitivo\|Reino Cognitivo]] cuando [[Kelsier\|Kelsier]] se acercó durante su búsqueda de una forma de detener a [[Ruina\|Ruina]]. Aunque Kelsier había aprendido a hacerse casi invisible, Maod fue capaz de verle acercarse sigilosamente al muro de la fortaleza. Sin embargo, perdió de vista a Kelsier en la oscuridad antes de que éste entrara en el edificio.
 Maod creía que podía haber visto una [[Umbra\|umbra]] (una [[Sombra cognitiva\|sombra cognitiva]] de [[Treno\|Treno]]) aunque su capitán se mostraba escéptico. El capitán y Maod informaron del avistamiento a [[Alonoe\|Alonoe]], que utilizó un dispositivo especial para comprobar si había algún procedente de Treno en los alrededores. Como Kelsier era de [[Scadrial\|Scadrial]], el dispositivo no lo detectó, pero se dijo a los guardias que permanecieran en alerta máxima.
 
 ## Notas

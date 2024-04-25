@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Mareshe** era un [[Elantrino\|elantrino]] de [[Sel\|Sel]] después del [[Reod\|Reod]].
 

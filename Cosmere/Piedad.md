@@ -13,7 +13,7 @@
 **Piedad** es una [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]] que no ha sido [[/wiki/Astilla#Formaci.C3.B3n]] y cuyo Recipiente actual es desconocido.
 
 ## Historia
-Como todas las Esquirlas, excepto [[Armon%C3%ADa\|Armonía]], Piedad fue creada en la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], y recogida por un Recipiente desconocido. No se sabe qué hizo Piedad inmediatamente después de su Ascensión, ni dónde se asentó, si es que se asentó.
+Piedad fue creada en la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], y recogida por un Recipiente desconocido. No se sabe qué hizo Piedad inmediatamente después de su Ascensión, ni dónde se asentó, si es que se asentó.
 Piedad participó en una batalla entre [[Odium\|Odium]] y [[Ambici%C3%B3n\|Ambición]], que causó una herida en el [[Reino Espiritual\|Reino Espiritual]] y, en última instancia, la Astillación de Ambición. Este enfrentamiento tuvo profundos efectos en [[Treno\|Treno]].
 En algún momento en torno a la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], [[Armon%C3%ADa\|Armonía]] se acercó a Piedad para hablarle de la amenaza que suponía Odium, a petición de [[Hoid\|Hoid]], pero se preocupó por Piedad a raíz de su conversación.
 

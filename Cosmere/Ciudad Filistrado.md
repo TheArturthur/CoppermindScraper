@@ -7,16 +7,13 @@
 |**Mundo**|[[Lumar\|Lumar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 **Ciudad Filistrado** es una ciudad presumiblemente en el [[Mar Esmeralda\|mar Esmeralda]] en [[Lumar\|Lumar]]. El padre de [[Salay\|Salay]] llegó a la ciudad justo después de que ella lo buscase allí y se marchase. Trenza obtuvo la información de que estaba allí de [[Xisis\|Xisis]] como una de las tres bendiciones.
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+MrMrDUCK (talk) 06:07, 11 March 2024 (UTC)
 |**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
 |-|-|
 |**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|

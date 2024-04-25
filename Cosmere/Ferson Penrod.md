@@ -5,11 +5,13 @@
 |-|-|
 |**Family**|[[Casa Penrod\|Casa Penrod]]|
 |**Fallecido**|c 1025 [[Imperio Final\|IF]]|
+|**Títulos**|Rey del [[Dominio Central\|Dominio Central]]|
 |**Grupo**|[[Asamblea de Luthadel\|Asamblea de Luthadel]]🐱︎|
 |**Residencia**|[[Luthadel\|Luthadel]]|
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|**|
 
 Lord **Ferson Penrod** es un [[Noble\|noble]] de [[Scadrial\|Scadrial]]. Tras la [[Colapso\|caída del lord Legislador]], se convierte en miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]]. Llega a ser el segundo rey del [[Dominio Central\|Dominio Central]], sucediendo a [[Elend Venture\|Elend Venture]], y más tarde por debajo de él en el [[Nuevo Imperio\|Nuevo Imperio]].
 
@@ -28,7 +30,7 @@ Lord **Ferson Penrod** es un [[Noble\|noble]] de [[Scadrial\|Scadrial]]. Tras la
 
 ## Apariencia y personalidad
 >“*Penrod es un hombre de honor. O al menos tanto como lo son los nobles..., lo que significa que insiste en que se le **considere** un hombre de honor.*”
-\-Brisa a Vin[1]
+\-Brisa a Vin[2]
 
 
 Penrod tiene el pelo blanco y lleva un traje muy bien confeccionado. Tiene unos modales pulidos y una postura fuerte. Tiene dolencias estomacales, aunque se desconoce si son frecuentes. Penrod es tradicionalista y políticamente conservador, pero nunca ha hablado negativamente de los skaa. Sin embargo, Elend lo considera un producto de su sociedad; aunque no considera a los skaa animales, nunca podría verlos como iguales.
@@ -48,7 +50,7 @@ Ruina, manifestándose como el [[Lord Legislador\|lord Legislador]], llevó a Pe
 
 ## Citas
 >“*Elend, muchacho. Todos hemos vivido aquí durante el reinado del lord Legislador. Todos sabemos qué tipo de hombre es tu padre. Si quiere esta ciudad, la tomará. Todo lo que podemos decidir, por tanto, es cómo rendirnos mejor. Tal vez encontremos un modo de que la gente conserve algo de libertad bajo su gobierno.*”
-\- Penrod sobre Straff Venture.[2]
+\- Penrod sobre Straff Venture.[3]
 
 
 >“*Lo siento, decía. Algo ha tomado el control sobre mí... sobre esta ciudad. Estoy lúcido solo parte del tiempo. Mejor matarme que causar más destrucción. Busca a tu pueblo en el Dominio de Terris.*”
@@ -56,6 +58,9 @@ Ruina, manifestándose como el [[Lord Legislador\|lord Legislador]], llevó a Pe
 
 
 ## Notas
+|Antecesor  **[[Elend Venture\|Elend Venture]]**|**Rey del [[/wiki/Dominio (Imperio Final)#Dominio Central]]**  1023 [[Imperio Final\|IF]] a 1025 [[Imperio Final\|IF]]|Sucesor  ***Título abolido***|
+|-|-|
+
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[/wiki/Nacidos de la bruma#Era 1]]**|

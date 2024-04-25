@@ -6,6 +6,7 @@
 |**Capacidades**|[[/wiki/Cromo#Uso alom.C3.A1ntico]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Macil** es una [[Brumoso\|brumosa]] de [[Cromo\|cromo]] (también denominada [[Sanguijuela\|sanguijuela]]) y una de las mujeres capturadas por [[El Grupo\|el Grupo]] en [[Scadrial\|Scadrial]].
 

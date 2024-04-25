@@ -6,18 +6,19 @@
 |**Familia**|
 |**Ancestros**|[[Ana\|Ana]], [[Da\|Da]] |
 |**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
-|**Títulos**|Vyre (Aquel Que Acalla)|
+|**Títulos**|Vyre (Aquel Que Acalla), lord Acallador|
 |**Oficio**|Soldado, caravanero , hombre del puente , guardaespaldas |
 |**Grupo**|Ejército de Sadeas [[Puente Cuatro\|Puente Cuatro]]🐱︎ Ejército de Kholin [[Diagrama (grupo)\|Diagrama]]🐱︎  [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 «Vyre» redirige aquí. Para el anterior propietario de este título, ver [[El\|El]].
 >“*No se lo podía considerar responsable a él. No era más que un producto de su cultura.*”
-\-Moash sobre sí mismo[1]
+\-Moash sobre sí mismo[2]
 
 
 **Moash**, también conocido como **Vyre**, es un hombre [[Alezi\|alezi]] de [[Roshar\|Roshar]]. Al principio formaba parte del [[Puente Cuatro\|Puente Cuatro]] como [[Cuadrilla del puente\|hombre del puente]], y luego se convierte en soldado y guardaespaldas bajo las órdenes de [[Kaladin\|Kaladin]]. Más adelante, deja el Puente Cuatro y cambia de bando en varias ocasiones, primero al bando del [[Diagrama (grupo)\|Diagrama]] y luego al de los [[Fusionado\|Fusionados]], siendo su esclavo, guerrero y asesino. Moash es el portador actual de la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]].

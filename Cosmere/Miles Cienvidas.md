@@ -4,7 +4,7 @@
 |-|-|
 ||
 |**Fallecido**|341 [[Catacendro\|PC]]|
-|**Capacidades**|[[/wiki/Oro#Uso alom.C3.A1ntico]] & [[/wiki/Oro#Uso feruqu.C3.ADmico]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]]|
+|**Capacidades**|[[/wiki/Oro#Uso alom.C3.A1ntico]] & [[/wiki/Oro#Uso feruqu.C3.ADmico]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]], !|
 |**Apodos**|Cienvidas|
 |**Religión**|[[Trellismo\|Trellismo]]|
 |**Grupo**|[[Desvanecedores\|Desvanecedores]]🐱︎, [[El Grupo\|El Grupo]]🐱︎|
@@ -12,6 +12,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

@@ -5,10 +5,8 @@
 |-|-|
 |**Tipo**|Utensilio para comer|
 |**Creadores**|[[MaiPon\|MaiPon]], [[JinDo\|JinDo]]|
-|**Mundo de origen**|Sel, Komashi|
+|**Mundo de origen**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

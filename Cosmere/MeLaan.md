@@ -11,6 +11,7 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -65,15 +66,12 @@ MeLaan es la única kandra criada por [[TenSoon\|TenSoon]] y es considerada su h
 
 ### Post Catacendro
 MeLaan suele tomar la forma de una mujer muy alta (varios centímetros más alta del ya considerablemente alto Waxillium) y de grandes pechos llamada Milan. Este Cuerpo Verdadero está hecho de cristal. Sin embargo, tiene unos cuantos más, incluyendo uno que está aparentemente diseñado para el combate. El esqueleto bajo este está formado enteramente de aluminio, con muchos añadidos útiles escondidos dentro como un compartimento de almacenaje reforzado para la parte donde guarda su consciencia, agujas para coser heridas y un juego de ganzúas para abrir puertas. Este cuerpo metálico es muy resistente (un bruto feruquimista le dio un puñetazo en la cara y su mano prácticamente explotó).
-Tras los sucesos de *Brazales de Duelo* y el descubrimiento de los scadrianos del sur, empezó a adoptar una forma más andrógina. Esta forma es más alta incluso que [[Wax\|Wax]]; tiene el pelo corto y rubio, y poco pecho. Cuando está con amigos, mantiene un rostro relativamente similar, aunque menos abiertamente femenino. A veces se la ve con unos elegantes pantalones azules y una camisa abotonada en esta forma.
+No parecen importarle el sexo ni el género con los cuales se presenta, dada la ligereza con la que se toma la idea de asistir a la [[Fiesta de Kelesina Shores\|fiesta de Kelesina Shores]] como un hombre.Aunque esto parece haber cambiado en cierta medida con los años, ya que con el tiempo llegó a preferir una forma mucho más andrógina. Este cuerpo es más alto incluso que [[Wax\|Wax]]; tiene el pelo corto y rubio y poco pecho. Cuando está con amigos, mantiene un rostro relativamente similar, aunque menos abiertamente femenino. A veces se la ve con unos elegantes pantalones azules y una camisa abotonada en esta forma.
 Su Cuerpo Verdadero favorito es de esmeralda.
-De vez en cuando cambia su cuerpo por voluntad propia, y no parece importarle el sexo o el género con el que se presenta, dada la ligereza con la que se toma la idea de ir a la fiesta de [[Kelesina Shores\|Kelesina Shores]] como un hombre. Aunque esto parece haber cambiado en cierta medida con los años, ya que con el tiempo llegó a preferir una forma mucho más andrógina.
 Su personalidad destaca por ser mucho más un espíritu libre que la mayoría de los kandra, y se lleva muy bien con Wayne, compitiendo en un concurso de eructos en alguna ocasión. También es más flexible sobre el Primer Contrato que otros kandra, y está dispuesta a matar humanos si es necesario.
 
 ## Atributos y habilidades
-Como kandra, posee la capacidad de transformarse en varias formas diferentes en torno a su Cuerpo Verdadero. También es un ser inmortal, capaz de vivir durante siglos y de sobrevivir a heridas que serían fatales para la mayoría de las entidades biológicas, también es capaz de desactivar sus receptores del dolor.
-Es capaz de modificar su cuerpo para abrir cerraduras sencillas.
-Puede hacer que su carne se vuelva transparente para revelar su Cuerpo Verdadero.
+Como kandra, posee la capacidad de transformarse en varias formas diferentes en torno a su Cuerpo Verdadero. También es un ser inmortal, capaz de vivir durante siglos y de sobrevivir a heridas que serían fatales para la mayoría de las entidades biológicas, también es capaz de desactivar sus receptores del dolor. Es capaz de modificar su cuerpo para abrir cerraduras sencillas. Al igual que el resto de kandras, puede hacer que su carne se vuelva transparente para revelar su Cuerpo Verdadero.
 Tiene varios Cuerpos Verdaderos hechos de diversos materiales, como la esmeralda y el [[Aluminio\|aluminio]]. A veces los utiliza con armas ocultas, como espadas en los brazos. También puede almacenar armas en su cuerpo, que puede sacar a voluntad. A diferencia de la mayoría de los kandra, no sigue necesariamente el Primer Contrato, por lo que tiene pocos reparos en matar.
 Como kandra, tiene bendiciones hemalúrgicas desconocidas que le otorgan poderes, forma y sapiencia. Si se le quitan estos clavos, vuelve a su estado de espectro de la bruma; devolvérselos haría que volviera a su estado de kandra.
 Es una [[Saltamundos\|saltamundos]], por lo que sabe utilizar Shadesmar para pasar de un mundo a otro.

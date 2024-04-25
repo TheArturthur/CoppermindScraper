@@ -3,6 +3,7 @@
 
 |**Palo (Escuadrón)**|
 |-|-|
+||
 |**Familia**|
 |**Hijos**|[[Gremm\|Gremm]], [[Semm\|Semm]]|
 |**Oficio**|Pirata|
@@ -18,7 +19,10 @@
 
 ## Historia
 Palo era la jefa de seguridad de la base de la Supremacía de [[Fuerteseguro\|Fuerteseguro]]. Fue quien instaló las armas no letales en las naves de la Supremacía, alegando que no podían permitirse tirar las naves que habían sido robadas por piratas. Tampoco quería tener que matar a gente con la que simpatizaba. La Supremacía la trató mal y no permitió que sus hijos se marcharan con ella cuando terminó su estancia en la base. Palo se enfadó y desertó, junto con un tercio de la gente de la base. Casi consigue que toda la base se subleve, pero otros temían las represalias de la Supremacía. Palo y sus compañeros disidentes se marcharon para fundar facciones piratas. No eran muchas en aquel momento, pero crecieron mucho con los nuevos miembros. Sus hijos la abandonaron para fundar sus propias facciones, pero algunos, como [[Escalofr%C3%ADo\|Escalofrío]] y [[RayoZed\|RayoZed]], se quedaron con ella.
-En realidad, Palo y sus hijos habían escenificado su discordia para que, cuando finalmente se pusieran de acuerdo para enfrentarse juntos a Fuerteseguro, se pudiera convencer a los demás de que siguieran su ejemplo. Después de que Spensa derrotara a [[Hesho\|Hesho]] en un duelo, reclamando el título de campeona pirata para los Costaderos, su plan tuvo éxito y Palo persuadió no sólo a sus hijos para que la siguieran, sino también a los líderes de dos facciones piratas más.
+En realidad, Palo y sus hijos habían escenificado su discordia para que, cuando finalmente se pusieran de acuerdo para enfrentarse juntos a Fuerteseguro, se pudiera convencer a los demás de que siguieran su ejemplo. Después de que Spensa derrotara a [[Hesho\|Hesho]] en un duelo, reclamando el título de campeona pirata para los Costaderos, su plan tuvo éxito y Palo persuadió no sólo a sus hijos para que la siguieran, sino también a los líderes de dos facciones piratas más. Cuando [[Spensa\|Spensa]] decide dejar la ninguna-parte, Palo le da un *mullun*.
+
+After Spena returned to the somewhere, Peg re-opened Surehold's nowhere portal to allow Spensa to give her starfighters for attacking the Superiority's mining facilities in the nowhere.
+Después de que Spensa regresara a la alguna-parte, Peg volvió a abrir el portal de la ninguna-parte de Surehold para permitir que Spensa le diera cazas estelares para atacar las instalaciones mineras de la Superioridad.
 
 ## Notas
 

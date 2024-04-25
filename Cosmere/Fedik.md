@@ -4,7 +4,7 @@
 |**Fedik**|
 |-|-|
 |**Logros**|Descubridor de la [[Perpendicularidad de Ruina\|Perpendicularidad de Ruina]]|
-|**Era**|Scadrial clásico|
+|**Era**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

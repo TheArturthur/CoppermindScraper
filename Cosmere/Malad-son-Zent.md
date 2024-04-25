@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Malad-hijo-Zent**|
 |-|-|
 |**Familia**|
@@ -6,10 +9,10 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Malad-son-Zent** was a [[Shin\|Shin]] soldier during the [[Last Desolation\|Last Desolation]] who fought at [[Aharietiam\|Aharietiam]]. He wore [[Lavis\|lavis]] fiber wraps with hogshide sandals and fought with a bronze tipped spear.
-[[Dalinar Kholin\|Dalinar Kholin]] took the place of Malad in one of his earliest [[Dalinar's visions\|visions]], in which he witnessed another Shin man discover the abandoned [[Honorblade\|Honorblades]].
+**Malad-hijo-Zent** fue un soldado [[Shin\|shin]] durante la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] que luchó en el [[Aharietiam\|Aharietiam]]. Vestía envolturas de fibra de [[Lavis\|lavis]] con sandalias de piel de cerdo y luchaba con una lanza de punta de bronce.
+[[Dalinar Kholin\|Dalinar Kholin]] ocupó el lugar de Malad en una de sus primeras [[Visiones de Dalinar\|visiones]], en la que fue testigo de cómo otro Shin descubría las [[Hoja de Honor\|Hojas de Honor]] abandonadas.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Jofwu (talk) 06:38, 26 March 2019 (MST)

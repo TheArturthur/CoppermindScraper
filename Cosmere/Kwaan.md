@@ -9,7 +9,7 @@
 |**Capacidades**|[[Feruquimia\|Feruquimista]]|
 |**Títulos**|El Anunciador|
 |**Grupo**|[[Forjamundos\|Forjamundos]]|
-|**Era**|Scadrial clásico|
+|**Era**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|

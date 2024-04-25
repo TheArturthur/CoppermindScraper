@@ -1,22 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Malan**|
 |-|-|
 |**Fallecido**||
-|**Oficio**|Captainlord|
+|**Oficio**|Capitán|
 |**Grupo**|[[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Malan** is a   military officer on [[Roshar\|Roshar]].
+**Malan** es un oficial militar [[Alezi\|alezi]] [[Ojos claros\|ojos claros]] en [[Roshar\|Roshar]].
 
-## Appearance and personality
-He is described as tall and stately. He wears a matching steel helm and breastplate, with a dark blue uniform that identifies him as a ranking officer in the [[House Kholin\|Kholin]] army. He is dutiful and appears to faithfully adhere to military procedures, as he is seen saluting "crisply" in the midst of a deadly battle. He is trusted by Dalinar.
+## Apariencia y personalidad
+Se le describe como alto y señorial. Lleva un yelmo y una coraza de acero a juego, con un uniforme azul oscuro que lo identifica como oficial de rango del ejército [[Casa Kholin\|Kholin]]. Es obediente y parece cumplir fielmente los procedimientos militares, ya que se lo ve saludando "bruscamente" en medio de una batalla mortal. Dalinar confía en él.
 
-## History
-He is a captainlord of the [[Cobalt Guard\|Cobalt Guard]] assigned to protect [[Adolin Kholin\|Adolin Kholin]]. He participates in the [[Battle of the Tower\|Battle of the Tower]] and encounters [[Kaladin\|Kaladin]], who tells him to retreat. However, he refuses to leave [[Adolin\|Adolin]]. Instead, he leads the Cobalt Guard as they follow Kaladin to rescue [[Dalinar\|Dalinar]] from the [[Parshendi\|Parshendi]] [[Shardbearer\|Shardbearer]], [[Eshonai\|Eshonai]].
-After the [[Battle of Narak\|Battle of Narak]], Dalinar mentions that he would have assigned Malan to investigate the murders of [[Torol Sadeas\|Torol Sadeas]] and [[Vedekar Perel\|Vedekar Perel]] in [[Urithiru\|Urithiru]] if he were still alive. It is not clear when exactly he was killed.
+## Historia
+Es un capitán de la [[Guardia de Cobalto\|Guardia de Cobalto]] encargado de proteger a [[Adolin Kholin\|Adolin Kholin]]. Participa en la [[Batalla de la Torre\|batalla de la Torre]] y se encuentra con [[Kaladin\|Kaladin]], que le dice que se retire. Sin embargo, se niega a abandonar a [[Adolin\|Adolin]]. En su lugar, lidera a la Guardia de Cobalto mientras siguen a Kaladin para rescatar a [[Dalinar\|Dalinar]] de la [[Parshendi\|parshendi]] [[Portador de esquirlada\|portadora de esquirlada]], [[Eshonai\|Eshonai]].
+Tras la [[Batalla de Narak\|batalla de Narak]], Dalinar menciona que habría asignado a Malan la investigación de los asesinatos de [[Torol Sadeas\|Torol Sadeas]] y [[Vedekar Perel\|Vedekar Perel]] en [[Urithiru\|Urithiru]] si aún estuviera vivo. No está claro cuándo fue asesinado exactamente.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 19:25, 26 January 2019 (MST)

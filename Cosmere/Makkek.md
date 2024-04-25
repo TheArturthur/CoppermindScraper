@@ -1,28 +1,31 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Makkek**|
 |-|-|
 |**Fallecido**|1173|
 |**Lugar de nacimiento**|[[Staplind\|Staplind]]|
 |**Residencia**|[[Aguanatal\|Aguanatal]]|
-|**Nacionalidad**||
+|**Nacionalidad**|[[Bavlandia\|Bav]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“* The more successful Szeth was, the more audacious Makkek became. How long before he stopped using Szeth to kill minor rivals, instead sending him to kill Shardbearers or powerful lighteyes?*”
-\- Szeth on his master[1]
+>“* Cuanto más éxito tenía Szeth, más audaz se hacía Makkek. ¿Cuánto tiempo pasaría antes de que dejara de utilizarlo para matar a rivales menores, y lo enviara a matar a portadores de esquirlada o poderosos ojos claros?*”
+\- Szeth sobre su maestro[1]
 
 
-**Makkek** is a [[Darkeyes\|darkeyed]] criminal in  on [[Roshar\|Roshar]]. He owns [[Szeth\|Szeth]] for a short while before being killed by one of [[Taravangian\|Taravangian]]'s assassins.
+**Makkek** es un criminal [[Ojos oscuros\|ojos oscuros]] en [[Bavlandia\|Bavlandia]], [[Roshar\|Roshar]]. Fue dueño de [[Szeth\|Szeth]] durante un breve periodo de tiempo antes de ser eliminado por uno de los asesinos de [[Taravangian\|Taravangian]].
 
-## Appearance and Personality
-Makkek is a short, lean man, although he grows more plump before his death. He's extremely ambitious and self-confident, to the point of recklessness, and has no problem flaunting his wealth. He has a flair for the dramatic, even when it's highly impractical. At the same time, he's extremely paranoid, and has no compunctions against having people who stand in his way killed. This being said, he does not demand that Szeth murder everyone even remotely connected to his target, though this might be a matter of carelessness rather than mercy.
-Like all , he has a habit of saying "I" as "Oi".
+## Apariencia y personalidad
+Makkek es un hombre bajo y delgado, aunque se vuelve más rollizo antes de su muerte. Es extremadamente ambicioso y seguro de sí mismo, hasta el punto de la temeridad, y no tiene ningún problema en alardear de su riqueza. Tiene un don para lo dramático, incluso cuando es muy poco práctico. Al mismo tiempo, es extremadamente paranoico y no tiene reparos en hacer matar a quienes se interponen en su camino. Dicho esto, no exige que Szeth asesine a todos los que estén remotamente relacionados con su objetivo, aunque esto podría ser una cuestión de descuido más que de piedad.
+Como todos los habitantes de [[Bavlandia\|Bavlandia]], tiene la costumbre de decir "Yo" como "Io".
 
-## History
-Makkek was a part of a group of footpads operating in the town of [[Ironsway\|Ironsway]] in Bavland when they killed [[Took\|Took]], Szeth's master at the time. When Makkek noticed Szeth holding Took's dead body, he called him over, intending to quiet him if the need arose, but while searching Took's belongings, he picked up Szeth's . Upon learning how it worked, he decided to keep it. Shortly afterwards, he ordered Szeth to kill his fellow footpads in order to keep the Oathstone's existence a secret.
-For some time afterwards, Makkek had Szeth assassinate his rivals and act as his bodyguard, building the [[Shin\|Shin]]'s reputation as a deadly shadow -- and his own reputation as a criminal mastermind by association. He moved to [[Bornwater\|Bornwater]], the largest mining town in Bavland, and used Szeth's skills to suborn or destroy pretty much every business and criminal in the city. This allowed him to amass considerable wealth, which he flaunted with silk clothes and numerous lovers. His ambitions stretched further, as he intended to move to [[Kneespike\|Kneespike]], the residence of a local lord. Throughout that time, Szeth never told him about having a [[Shardblade\|Shardblade]], although Makkek eventually began to figure it out after rumors of burned-out eyes began to spread.
-At one point, a man named [[Gavashaw\|Gavashaw]] opened a tavern in Bornwater and ignored Makkek's demands, having the favor of the lord in Kneespike. This prompted Makkek to send Szeth to kill him; however, the [[Diagram (group)\|Diagram]] had been waiting for such an opportunity. As soon as Szeth left to kill Gavashaw, their assassin murdered Makkek and took the Oathstone, then brought it and Makkek's head to Szeth.
+## Historia
+Makkek formaba parte de un grupo de lacayos que operaban en la ciudad de [[Camino de Hierro\|Camino de Hierro]] en Bavlandia cuando mataron a [[Took\|Took]], el maestro de Szeth en ese momento. Cuando Makkek se percató de que Szeth sostenía el cadáver de Took, lo llamó, con la intención de acallarlo si surgía la necesidad, pero mientras registraba las pertenencias de Took, recogió la [[Piedra Jurada\|Piedra Jurada]] de Szeth. Al enterarse de cómo funcionaba, decidió quedársela. Poco después, ordenó a Szeth que matase a sus compañeros de patrulla para mantener en secreto la existencia de la Piedra Jurada.
+Durante algún tiempo, Makkek hizo que Szeth asesinase a sus rivales y actuase como su guardaespaldas, forjando la reputación del [[Shin\|Shin]] como una sombra mortal, y la suya propia por asociación como cerebro criminal. Se trasladó a [[Aguanatal\|Aguanatal]], la mayor ciudad minera de Bavlandia, y utilizó las habilidades de Szeth para subyugar o destruir prácticamente todos los negocios y criminales de la ciudad. Esto le permitió amasar una riqueza considerable, de la que hacía ostentación con ropas de seda y numerosas amantes. Sus ambiciones iban más allá, ya que pretendía trasladarse a [[Puntarrodilla\|Puntarrodilla]], la residencia de un señor local. Durante todo ese tiempo, Szeth nunca le habló de que tenía una [[Hoja esquirlada\|hoja esquirlada]], aunque Makkek acabó por darse cuenta después de que empezasen a correr rumores de que tenía los ojos quemados.
+En un momento dado, un hombre llamado [[Gavashaw\|Gavashaw]] abrió una taberna en Aguanatal e ignoró las exigencias de Makkek, pues contaba con el favor del señor de Puntarrodilla. Esto llevó a Makkek a enviar a Szeth a matarlo; sin embargo, el [[Diagrama (grupo)\|Diagrama]] había estado esperando esa oportunidad. En cuanto Szeth se marchó a matar a Gavashaw, su asesino acabó con Makkek y se llevó la Piedra Jurada, llevándosela a Szeth junto con la cabeza de Makkek.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 21:23, 15 April 2020 (UTC)

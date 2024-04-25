@@ -4,7 +4,7 @@
 |**Braches**|
 |-|-|
 |**Fallecido**|c. 0 [[Imperio Final\|IF]]|
-|**Era**|Scadrial clásico|
+|**Era**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

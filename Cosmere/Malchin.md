@@ -1,22 +1,23 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Malchin**|
 |-|-|
-|**Era**|Heraldic Epochs|
+|**Era**|[[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Malchin** was a warrior on [[Roshar\|Roshar]] during the [[Heraldic Epochs\|Heraldic Epochs]]. He attempted to become a member of the [[Order of Lightweavers\|Order of Lightweavers]], but was unable to do so.
+**Malchin** fue un guerrero en [[Roshar\|Roshar]] durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]. Intentó ser un miembro de la [[Orden de los Tejedores de Luz\|Orden de los Tejedores de Luz]], pero no fue capaz de conseguirlo.
 
-## History
->“* Malchin was stymied, for though he was inferior to none in the arts of war, he was not suitable for the Lightweavers; he wished for his oaths to be elementary and straightforward, and yet their spren were liberal, as to our comprehension, in definitions pertaining to this matter; the process included speaking truths as an approach to a threshold of self-awareness that Malchin could never attain.*”
-\- Words of Radiance chapter 12, page 12
+## Historia
+>“*Malchin se sentía frustrado, pues aunque no era inferior a nadie en las artes de la guerra, no resultaba adecuado para los Tejedores de Luz; deseaba que sus juramentos fueran elementales y sinceros, y sin embargo sus spren eran ambiguos, para nuestra comprensión, en lo referente a las definiciones de este asunto. El proceso implicaba decir verdades como medio de alcanzar un umbral de autoconsciencia que Malchin nunca podría conseguir*”
+\- Palabras radiantes capítulo 12, página 12
 
 
-Malchin is said to have been a skilled warrior who wished to become a Lightweaver. Malchin wanted his [[Knights Radiant\|Radiant]] oaths, the , to be straightforward. However, the [[Spren\|spren]] of the Lightweavers (known as [[Cryptic\|Cryptics]]) required their bonded Radiants to speak personal "truths" in order to progress beyond the First Ideal, and Malchin did not have enough self-awareness to do so. It is not clear whether the Cryptics declined to bond with him at all or if he bonded a Cryptic and then failed to progress, but he did not become a Lightweaver.
+Se dice que Malchin era un habilidoso guerrero que deseaba convertirse en Tejedor de Luz. Malchin quería que sus juramentos [[Caballeros Radiantes\|radiantes]], las Palabras Inmortales, fueran elementales. Sin embargo, los [[Spren\|spren]] de los Tejedores (conocidos como [[Cr%C3%ADpticos\|crípticos]]) requieren que sus Radiantes enlazados pronuncien "verdades" personales para progresar más allá del Primer Ideal, y Malchin no era suficientemente autoconsciente para hacerlo. No está claro si los crípticos rechazaron vincularse con él o sí consiguió enlazarse a un críptico y luego no fue capaz de avanzar, pero no llegó a ser un Tejedor de Luz.
 
-## Significance
-Malchin is only known from **, which was written at least hundreds of years after his lifetime, so the historicity of his story is not known. If it is accurate, he likely lived near the beginning of the Heraldic Epochs when the nature of the [[Nahel bond\|Nahel bond]] with Cryptics was not well-understood. Malchin's story illustrates the fact that not every individual would be suited to join a given Order of the Knights Radiant.
+## Significancia
+Malchin solo se le conoce por *[[Palabras radiantes (in-world)\|Palabras radiantes]]*, el cual fue escrito por lo menos unos centenares de años después de su muerte, así que la historicidad de su situación no se conoce. Si el texto es riguroso, él vivió cerca del principio de las Épocas Heráldicas cuando la naturaleza del [[V%C3%ADnculo Nahel\|vínculo Nahel]] con crípticos no se entendía bien. La historia de Malchin da luz al hecho de que no todo el mundo sería adecuado para unirse a una Orden de los Caballeros Radiantes concreta.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 16:55, 27 December 2019 (UTC)

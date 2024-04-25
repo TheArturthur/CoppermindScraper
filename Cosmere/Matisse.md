@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[La esperanza de Elantris\|La esperanza de Elantris]]*|
 
 **Matisse** es una [[Elantrino\|elantrina]].
 Cuida de los niños de [[/wiki/Elantris (ciudad)#Nueva Elantris]], manteniéndolos a salvo durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]]. [[Dashe\|Dashe]] se ha convertido en su padre adoptivo.

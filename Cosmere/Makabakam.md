@@ -1,22 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Makabakam**|
 |-|-|
-|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**Era**|[[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Makabakam** was the largest of the historic [[Silver Kingdoms\|Silver Kingdoms]] of [[Roshar\|Roshar]].
+**Makabakam** fue el mayor de los históricos [[Reinos Plateados\|Reinos Plateados]] de [[Roshar\|Roshar]].
 
-## Geography
-Makabakam took up most of the south-western part of the [[Roshar\|Rosharan]] continent. It shared most of its long northern border with [[Sela Tales\|Sela Tales]], while in the west, it bordered [[Shin Kak Nish\|Shin Kak Nish]] (modern [[Shinovar\|Shinovar]]) on the [[Misted Mountains\|Misted Mountains]] and to the east, it had a short border with [[Valhav\|Valhav]]. To the south, the country lay on the coast of the [[Aimian Sea\|Aimian Sea]] and [[Southern Depths\|Southern Depths]], and controlled a number of islands dividing those two.
-The city of [[Urithiru\|Urithiru]], the home of the [[Knights Radiant\|Knights Radiant]], was located within Makabakam borders, but it is unlikely it was actually subject to Makabaki rule. The ancient capital of Makabakam was likely the city currently known as [[Azimir\|Azimir]], as it is there that the state's [[Oathgate\|Oathgate]] is located.
-In the modern era, Makabakam has split into a number of countries, including [[Alm\|Alm]], [[Azir\|Azir]], [[Desh\|Desh]], [[Emul\|Emul]], [[Greater Hexi\|Greater Hexi]], [[Liafor\|Liafor]], [[Marat\|Marat]], [[Steen\|Steen]], [[Tashikk\|Tashikk]], [[Tu Fallia\|Tu Fallia]], [[Tukar\|Tukar]], [[Yezier\|Yezier]], and [[Triax\|Triax]] (although Triax lays partly on lands that used to belong to Valhav).
+## Geografía
+Makabakam ocupaba la mayor parte del suroeste del continente de [[Roshar\|Roshar]]. Compartía la mayor parte de su larga frontera septentrional con [[Sela Tales\|Sela Tales]], mientras que al oeste limitaba con [[Shin Kak Nish\|Shin Kak Nish]] (la moderna [[Shinovar\|Shinovar]]) en las [[Monta%C3%B1as Brumosas\|Montañas Brumosas]] y al este tenía una corta frontera con [[Valhav\|Valhav]]. Al sur, el país se encontraba en la costa del [[Mar de Aimia\|Mar de Aimia]] y las [[Profundidades Meridionales\|Profundidades Meridionales]], y controlaba una serie de islas que dividían a ambos.
+La ciudad de [[Urithiru\|Urithiru]], hogar de los [[Caballeros Radiantes\|Caballeros Radiantes]], estaba situada dentro de las fronteras makabakam, pero es poco probable que estuviese realmente sometida al dominio makabaki. La antigua capital de Makabakam era probablemente la ciudad actualmente conocida como [[Azimir\|Azimir]], ya que allí se encuentra la [[Puerta Jurada\|Puerta Jurada]] del estado.
+En la era moderna, Makabakam se ha dividido en varios países, entre ellos [[Alm\|Alm]], [[Azir\|Azir]], [[Desh\|Desh]], [[Emul\|Emul]], [[Gran Hexi\|Gran Hexi]], [[Liafor\|Liafor]], [[Marat\|Marat]], [[Steen\|Steen]], [[Tashikk\|Tashikk]], [[Tu Fallia\|Tu Fallia]], [[Tukar\|Tukar]], [[Yezier\|Yezier]] y [[Triax\|Triax]] (aunque Triax se asienta en parte sobre tierras que pertenecieron a Valhav).
 
-## Culture
-The people of Makabakam ancestry are called the Makabaki. They can be recognized by having far darker skin than most Rosharans, although they still have epicanthic folds. There are approximately thirty Makabaki languages, with Azish being the most commonly spoken. The Makabaki worship the Heralds not the Almighty.
-In the present day, the region once occupied by Makabakam is called [[Makabak\|Makabak]].
+## Cultura
+El pueblo de ascendencia makabakam se llama makabaki. Se les reconoce por tener la piel mucho más oscura que la mayoría de los rosharianos, aunque siguen teniendo pliegues epicánticos. Existen unas treinta lenguas makabaki, siendo el azish la más hablada. Los Makabaki adoran a los Heraldos, no al Todopoderoso.
+En la actualidad, la región que ocupó Makabakam se denomina [[Makabak\|Makabak]].
 
-## Notes
+## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|

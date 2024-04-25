@@ -1,20 +1,23 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Malasha Seveks**|
 |-|-|
-|**Padres**|[[Brightlord Seveks\|Brightlord Seveks]]|
+|**Padres**|[[Brillante se%C3%B1or Seveks\|Brillante señor Seveks]]|
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Malasha Seveks** is a [[Lighteyes\|lighteyed]] woman on [[Roshar\|Roshar]] who was courted by [[Adolin Kholin\|Adolin Kholin]].
+**Malasha Seveks** es una mujer [[Ojos claros\|ojos claros]] en [[Roshar\|Roshar]] que fue cortejada por [[Adolin Kholin\|Adolin Kholin]].
 
-## Appearance and Personality
-Malasha is likely  since she was present in the warcamps in the [[Shattered Plains\|Shattered Plains]]. She wears her hair up in braids and is considered to be very nice looking.
-She is curious about war and asks Adolin if she can accompany him to the battlefield; she becomes annoyed when he will not let her come. Dalinar considers a woman desiring to watch the fighting to be "unnatural". Malasha's interest in war is indeed unusual given Adolin's description of her as "rather religious", since the [[Vorin\|Vorin]] work *[[Arts and Majesty\|Arts and Majesty]]* expressly defines combat as a masculine art.
+## Apariencia y personalidad
+Malasha es probablemente [[Alezi\|alezi]] ya que estuvo presente en los campos de guerra de las [[Llanuras Quebradas\|Llanuras Quebradas]]. Lleva el pelo recogido en trenzas y se la considera muy guapa.
+Siente curiosidad por la guerra y le pregunta a Adolin si puede acompañarlo al campo de batalla; se enfada cuando él no la deja ir. Dalinar considera "antinatural" que una mujer desee ver los combates. El interés de Malasha por la guerra es realmente inusual, dada la descripción que Adolin hace de ella como "bastante religiosa", ya que la obra [[Vorin\|vorin]] *[[Artes y Majestuosidad\|Artes y Majestuosidad]]* define expresamente el combate como un arte masculino.
 
-## History
-Adolin started courting Malasha in 1173 shortly after [[Janala Lustow\|Janala Lustow]] grew bored of him. Malasha was religious, and Adolin liked her enough to spend time listening to readings from **. However, Malasha started to grow cold towards Adolin after he refused to satisfy her curiosity by taking her with him on a plateau run. Adolin still seemed interested, but also became intrigued by [[Danlan Morakotha\|Danlan Morakotha]]. Malasha and Adolin broke up a short time later.
+## Historia
+Adolin empezó a cortejar a Malasha en 1173 poco después de que [[Janala Lustow\|Janala Lustow]] se aburriese de él. Malasha era religiosa, y a Adolin le gustaba lo suficiente como para pasar tiempo escuchando lecturas de *[[Las discusiones\|Las discusiones]]*. Sin embargo, Malasha empezó a mostrarse fría hacia Adolin después de que éste se negase a satisfacer su curiosidad llevándola con él a correr por una meseta. Adolin aún parecía interesado, pero también se sintió intrigado por [[Danlan Morakotha\|Danlan Morakotha]]. Malasha y Adolin rompieron poco después.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 23:50, 28 September 2020 (UTC)

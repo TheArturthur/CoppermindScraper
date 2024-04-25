@@ -3,14 +3,15 @@
 |**Maxillium Ladrian**|
 |-|-|
 |**[[Casa Ladrian\|Casa Ladrian]]**|
-|**Padres**|[[Steris Harms\|Steris Harms]], [[Waxillium Ladrian\|Waxillium Ladrian]]|
-|**Hermanos**|[[Tindwyl Ladrian\|Tindwyl Ladrian]]|
-|**Parientes**|[[Marasi Colms\|Marasi Colms]], [[Edwarn Ladrian\|Edwarn]], [[Telsin Ladrian\|Telsin]], [[Hinston\|Hinston]], [[Armal\|Armal]]|
-|**Ancestros**|[[Ashweather Cett\|Ashweather Cett]], [[Madre de Allrianne\|madre de Allrianne]], [[Edgard Ladrian\|Edgard Ladrian]], [[Allrianne Cett\|Allrianne Cett]], [[Jackstom Harms\|Jackstom Harms]], [[Vwafendal\|Vwafendal]], [[Fantasma\|Fantasma]]|
+|**Padres**|[[Steris\|Steris]], [[Waxillium\|Waxillium]]|
+|**Hermanos**|[[Tindwyl Ladrian\|Tindwyl]]|
+|**Parientes**|[[Marasi Colms\|Marasi Colms]], [[Edwarn\|Edwarn]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Armal\|Armal]]|
+|**Ancestros**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|madre de Allrianne]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Jackstom Harms\|Jackstom]], [[Vwafendal\|Vwafendal]], [[Fantasma\|Fantasma]]|
 |**Residencia**|[[Elendel\|Elendel]]|
-|**Etnia**|[[Terris\|Terris]]🐱︎|
+|**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Maxillium Ladrian** es el hijo de [[Steris Harms\|Steris Harms]] y [[Waxillium Ladrian\|Waxillium Ladrian]] en [[Scadrial\|Scadrial]]. Es el mayor de sus dos hijos, siendo hermano de [[Tindwyl Ladrian\|Tindwyl Ladrian]].
 
@@ -27,11 +28,11 @@
 
 
 ## Apariencia y personalidad
-Wax dice que a Max le gusta dibujar, y se le ha visto jugando con su cachorrito Soonie, pero sobre todo disfruta volando con su padre. Es animado, como puede observarse por su viaje al interior de la aeronave de los malwish, y siempre ha tenido fascinación por las alturas. También empatiza con las situaciones en las que se encuentran sus padres, le da ánimos a Wax, incluso cuando no entiende muy bien lo que pasa. Asimismo, ha aprendido una versión del hábito de Wayne de "intercambiar" cosas, como evidencia el robo del papel higiénico de los malwish a cambio de su "popó".
+[[Wax\|Wax]] dice que a Max le gusta dibujar, y se le ha visto jugando con su [[Cachorrito Soonie\|cachorrito Soonie]], pero sobre todo disfruta volando con su padre. Es animado, como puede observarse por su viaje al interior de la aeronave de los [[Malwish\|malwish]], y siempre ha tenido fascinación por las alturas. También empatiza con las situaciones en las que se encuentran sus padres, le da ánimos a Wax, incluso cuando no entiende muy bien lo que pasa. Asimismo, ha aprendido una versión del hábito de [[Wayne\|Wayne]] de «intercambiar» cosas, como evidencia el robo del papel higiénico de los malwish a cambio de su «popó».
 
 ## Relaciones
 ### Waxillium Ladrian
-Max disfruta pasando tiempo con su padre, volando y jugando al juego que él inventó con la pelota de mimbre con metal en su interior, tienen una relación bastante cercana. Max es uno de los principales motivos por los que Wax fue capaz de convertirse en senador y padre, dejando atrás su faceta de vigilante de la ley, dando a entender que ya no necesita la emoción de las persecuciones, y que está totalmente a gusto con su nueva vida.
+Max disfruta pasando tiempo con su padre, volando y jugando al juego que él inventó con la pelota de mimbre con metal en su interior, tienen una relación bastante cercana. Max es uno de los principales motivos por los que [[Wax\|Wax]] fue capaz de convertirse en senador y padre, dejando atrás su faceta de vigilante de la ley, dando a entender que ya no necesita la emoción de las persecuciones, y que está totalmente a gusto con su nueva vida.
 
 ### Wayne
 [[Wayne\|Wayne]] es el tío de Max, y le ha enseñado algunos acentos, diciéndole que use uno en concreto para molestar a los senadores. Wayne menciona que algunas veces lee libros con Max.

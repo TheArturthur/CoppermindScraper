@@ -5,6 +5,7 @@
 |**Grupo**|Escudero de [[Orden de los Rompedores del Cielo\|Rompedor del Cielo]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Fari** es un escudero [[Rompedor del Cielo\|Rompedor del Cielo]] del Segundo Ideal bajo la tutela de los maestros Rompedores del Cielo [[Ki\|Ki]] y [[Warren\|Warren]].
 Compite contra [[Szeth\|Szeth]] en un test de competencia marcial por encima del [[Lagopuro\|Lagopuro]], para medir su abilidad con las [[Potencias\|Potencias]]. Los escuderos tienen que tirarse bolsas de polvo coloreado el uno al otro mientras evitan ser golpeados por las del oponente. En algun momento, Fari tenía todas las bolsas de un color en particular.

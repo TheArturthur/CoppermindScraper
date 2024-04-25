@@ -10,8 +10,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Alguien tendría que haberme dicho lo divertido que iba a ser esto. Me habría esforzado mucho más en conseguir el puesto.*”
 \-Malata, acerca de su trabajo como Caballera Radiante del Diagrama[1]
@@ -39,15 +38,18 @@ Como Liberadora, Malata tiene acceso a las [[Potencia\|Potencias]] de [[Divisi%C
 También ha progresado lo suficiente en sus [[Palabras Inmortales\|juramentos]] como para convertir a Chispa en una [[Hoja esquirlada\|hoja esquirlada]], que ha estado utilizando para controlar [[Puerta Jurada\|Puertas Juradas]].
 
 ## Historia
-En algún momento después de crear el Diagrama, el rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]] creó y dirigió un proyecto para que algunos miembros del Diagrama intentaran vincular a un spren. Supuestamente, Malata formaba parte de este proyecto, pero ella afirma haberse acercado a Taravangian a instancias de Chispa, lo que sugiere que ya se había vinculado con la spren antes de llegar a este grupo.
-Formaba parte del contingente de Taravangian en la [[/wiki/Dalinar#Uniendo Roshar .281174.29]]. Con la ayuda de [[Navani Kholin\|Navani Kholin]], Malata consiguió utilizar a Chispa para desbloquear y activar la Puerta Jurada veden, transportándose a sí misma y al resto del grupo a [[Urithiru\|Urithiru]], la base de operaciones de la coalición.
-Al tener acceso a una hoja esquirlada Radiante, a menudo a Malata se le encargaba la responsabilidad de abrir las [[Puerta Jurada\|Puertas Juradas]] para otros miembros de la coalición. Malata aceptó esta tarea obedientemente, aunque en una ocasión expresó desconfiar de los alezi y se mostró escéptica ante las afirmaciones relativas a la [[Desolaci%C3%B3n\|Desolación]].
+En algún momento después de crear el [[Diagrama (grupo)\|Diagrama]], el rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]] creó y dirigió un proyecto para que algunos miembros del Diagrama intentaran vincular a un [[Spren\|spren]]. Supuestamente, Malata formaba parte de este proyecto, pero ella afirma haberse acercado a Taravangian a instancias de [[Chispa\|Chispa]], lo que sugiere que ya se había vinculado con la spren antes de llegar a este grupo.
+Formaba parte del contingente de Taravangian en la [[/wiki/Dalinar#Uniendo Roshar .281174.29]]. Con la ayuda de [[Navani Kholin\|Navani Kholin]], Malata consiguió utilizar a Chispa para desbloquear y activar la [[Puerta Jurada\|Puerta Jurada]] veden, transportándose a sí misma y al resto del grupo a [[Urithiru\|Urithiru]], la base de operaciones de la coalición.
+Al tener acceso a una [[Hoja esquirlada\|hoja esquirlada]] Radiante, a menudo a Malata se le encargaba la responsabilidad de abrir las Puertas Juradas para otros miembros de la coalición. Malata aceptó esta tarea obedientemente, aunque en una ocasión expresó desconfiar de los alezi y se mostró escéptica ante las afirmaciones relativas a la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
 Más tarde, el Diagrama decidió que Taravangian debía reemplazar a Dalinar como líder de la coalición, e hizo que Malata espiara al Espina Negra usando a Chispa. A través de esto, se enteraron de las visiones de Dalinar en las que hablaba con [[Odium\|Odium]]. Utilizaron la información sobre estas visiones, junto con otros secretos que descubrieron, para socavar la confianza de la coalición en Dalinar.
 Más tarde, mientras se desarrollaba la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], Malata abrió la [[Puerta Jurada\|Puerta Jurada]] de Kholinar, siguiendo las ódenes del Diagrama, para permitir que una fuerza de ataque del ejército [[Cantor\|cantor]] de Odium entrara en Urithiru, donde se enfrentaron a los soldados alezi. Un agente del Diagrama disfrazado de miembro del [[Puente Cuatro\|Puente Cuatro]] también consiguió entrar en Urithiru y robar la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]] a [[Eth\|Eth]], matándolo e hiriendo a [[Roca\|Roca]] y [[Bisig\|Bisig]]. Todo esto formaba parte del plan de Taravangian de apelar a Odium para que accediera a perdonar a parte de la humanidad de Roshar.
+En Urithiru, Malata suele estar presente en reuniones de la coalición. Está en la reunión en la que la coalición accede a ir y luchar en [[Emul\|Emul]] y a enviar una expedición a [[Integridad Duradera\|Integridad Duradera]] para convencer a más [[Honorspren\|honorspren]] de que se vinculen.
+Cuando Taravangian decidió desmantelar el Diagrama, creyó que Malata aceptaría la verdad sobre su disolución, sabedora de que su propósito había sido cumplido.
 
 ## Notas
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
 |-|-|
 |**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|

@@ -3,7 +3,7 @@
 |**Títulos**|Queen|
 |**Habilidades**|Architect|
 |**Religión**|Worships [[Nomon\|Nomon]]|
-|**Era**|Heraldic Epochs|
+|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
 |**Nacionalidad**|[[De Natan\|de Natan]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
