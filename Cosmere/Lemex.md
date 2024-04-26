@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*He ganado notoriedad abusando del alma de otros. Y ahora me estoy muriendo.*”
 \-La última confesión de Lemex a Vivenna[2]

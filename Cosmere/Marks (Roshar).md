@@ -5,9 +5,9 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-This page is about the Cobalt Guard member on Roshar. Para the police officer possessed by [[Phi\|Phi]] in **[[Dreamer\|Dreamer]]**, ver [[Marks (Dreamer)\|Marks (Dreamer)]].
-**Marks** is a lighteyed  on [[Roshar\|Roshar]] and a member of the [[Cobalt Guard\|Cobalt Guard]].
-He, along with [[Tibon\|Tibon]], guarded [[Adolin\|Adolin]] during his date with [[Janala\|Janala]], and waited with [[Falksi\|Falksi]] outside the tent of the leatherworkers [[Yis\|Yis]] and [[Avaran\|Avaran]].
+Esta página trata sobre el miembro de la Guardia de Cobalto en Roshar. Para el oficial de policía poseído por [[Phi\|Phi]] en **[[Dreamer\|Dreamer]]**, ver [[Marks (Dreamer)\|Marks (Dreamer)]].
+**Marks** es un ojos claros [[Alezi\|alezi]] en [[Roshar\|Roshar]] y miembro de la [[Guardia de Cobalto\|Guardia de Cobalto]].
+Junto con [[Tibon\|Tibon]], vigiló a [[Adolin\|Adolin]] durante su cita con [[Janala\|Janala]], y esperó con [[Falksi\|Falksi]] ante la tienda de los curtidores [[Yis\|Yis]] y [[Avaran\|Avaran]].
 
 ## Notes
 

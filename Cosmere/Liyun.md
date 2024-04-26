@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Torio\|de Torio]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

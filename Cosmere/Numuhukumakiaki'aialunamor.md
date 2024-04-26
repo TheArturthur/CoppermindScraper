@@ -9,6 +9,7 @@
 |**Hijos**|[[Don\|Don]], [[Cuerda\|Cuerda]], [[Roca (junior)\|Roca]], [[Estrella\|Estrella]], [[Kuma'tiki\|Kuma'tiki]], [[Canci%C3%B3n Hermosa\|Canción Hermosa]]|
 |**Parientes**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
 |**Capacidades**|[[/wiki/Caballeros Radiantes#Escuderos]] de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]], [[Vidente (Roshar)\|Vidente]]|
+|**Títulos**|Fal'ala'liki'nor|
 |**Apodos**|Lunamor, Roca|
 |**Oficio**|Chef|
 |**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
@@ -16,10 +17,11 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 "Roca" redirige aquí. Para el lugar en Lumar, ver [[Punta de Diggen\|Punta de Diggen]].
 >“*Llaneros majaras por el aire.*”
-\-Roca[1]
+\-Roca[2]
 
 
 **Numuhukumakiaki'aialunamor'**, abreviado como **Lunamor** o simplemente **Roca**, es un [[Unkalaki\|unkalaki]] de [[Roshar\|Roshar]]. Era el cuarto hijo de su familia y recibió entrenamiento para el combate según las costumbres de los unkalaki; sin embargo, uno de sus hermanos murió, lo que le convirtió en el tercer hijo y en un artesano en lugar de un guerrero. Se llama a sí mismo Roca porque no cree que los demás puedan pronunciar su verdadero nombre, que en realidad es un poema sobre una roca muy especial que su padre descubrió el día antes de su nacimiento. El poema se traduce más o menos así: "Vi una piedra mojada muy bonita a la que nadie presta atención, pero que era muy guay por el patrón de agua que había en ella".
@@ -80,7 +82,7 @@ Tiene la piel morena y el pelo rojo oscuro. Cuando puede afeitarse, se deja las 
 Al igual que todos los del [[Puente Cuatro\|Puente Cuatro]], Roca lleva tatuado en la frente un conjunto de glifos que significan su libertad y su pertenencia a la cuadrilla de los puentes.
 
 >“*Rlain, no pasa nada por tirar cosas a Eth.*”
-\-Roca a Rlain[10]
+\-Roca a Rlain[11]
 
 
 Roca es abiertamente sentimental, siendo a menudo tan rápido para reír como para mostrar tristeza. Es muy comprensivo, y varios miembros del [[Puente Cuatro\|Puente Cuatro]] le piden consejo. Es muy leal a aquellos que le han mostrado confianza y amabilidad, siendo uno de los primeros en seguir a Kaladin después de que este ocupara su lugar durante una carrera de los puentes. Su amor y confianza por sus allegados fue suficiente para que fuera en contra de su posición como tercer hijo y cometiera actos violentos si lo consideraba necesario, matando a [[Amaram\|Amaram]] para salvar a Kaladin, incluso sabiendo que sería castigado por ello.
@@ -91,7 +93,7 @@ Puede ver [[Spren\|spren]], o *mafah'liki* en la lengua unkalaki, en el Reino F�
 Su condición de *alaii'iku* no le otorga una posición privilegiada dentro de la cultura unkalaki, ya que Roca aún está ligado a su nuatoma, y no le impidió tener que hacer el trabajo de un cuarto hijo, y más tarde el de un tercer hijo. Es bastante hábil en el tiro con arco debido a su posición de cuarto hijo, aunque ya no se considera un soldado desde la muerte de su hermano. Se niega a luchar porque ser soldado no se considera una profesión en buena estima en la cultura unkalaki.
 
 >“*Coger todo lo que haya por ahí y meter en cacerola. No dejar que ningún tarado por el aire toque los condimentos.*”
-\-Receta de guiso de Roca.[16]
+\-Receta de guiso de Roca.[17]
 
 
 Roca es un cocinero excepcional, habiendo mostrado siempre interés por la cocina incluso antes de su elevación a tercer hijo, haciendo pan con su madre en cuanto podía alcanzar las encimeras. Cocina guiso todos los días para el Puente Cuatro como parte de los esfuerzos de Kaladin por devolver la vida a la cuadrilla. Es capaz de preparar bebidas comecuernos, haciendo [[Shiki\|shiki]] para el Puente Cuatro. Es capaz de comer varios alimentos más duros debido a su herencia comecuernos, poseyendo piezas extra en la mandíbula que le permiten comer conchas. De hecho, Roca cree que la mejor parte de un chull es su cabeza, porque es muy sabrosa.
@@ -146,7 +148,7 @@ Después de que Kaladin luchara junto a Adolin en el duelo por las esquirladas y
 ### Urithiru
 #### Convirtiéndose en escudero Corredor del Viento
 >“*Marchamos a los cielos, Bendito por la Tormenta*”
-\-Roca[3]
+\-Roca[4]
 
 
 Después de la [[Batalla de Narak\|batalla de Narak]], los miembros del Puente Cuatro obtuvieron la habilidad de inhalar luz tormentosa, Teft notó que varios hombres de los puentes brillaban y a Lopen le volvió a crecer por completo el brazo que le faltaba. Sin embargo, tras la marcha de Kaladin a [[Piedralar\|Piedralar]], esta habilidad se perdió.
@@ -169,7 +171,7 @@ Roca acompañó al resto del Puente Cuatro en la expedición para evacuar a los 
 
 #### Partida
 >“*Lo elegí porque vales pena ese sacrificio. Pero no es sacrificio si ahora no voy, como es correcto, a buscar justicia de mi pueblo. Prefiero marchar con tu bendición. Pero marcharé de todas formas.*”
-\-Roca a Kaladin antes de irse[13]
+\-Roca a Kaladin antes de irse[14]
 
 
 Tras dejar descansar a su familia, Roca partió de vuelta a los Picos Comecuernos con parte de su familia, llevándose consigo a su esposa y a sus hijos menores. Le dijo a Kaladin que había quebrantado las costumbres de su pueblo, y que debía enfrentarse a la justicia por sus actos. Pidió la bendición de Kaladin, y este se la dio. [[Cikatriz\|Cikatriz]] y [[Drehy\|Drehy]] fueron con Roca y su familia como guardia de honor, así como para volar y protegerlos en su viaje. Cuando Kaladin preguntó si volvería a ver a Roca, ésta le dijo que la próxima vez que se vieran no sería en esta vida.

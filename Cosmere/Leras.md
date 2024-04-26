@@ -8,14 +8,15 @@
 |**Títulos**|[[Conservaci%C3%B3n\|Conservación]]|
 |**Apodos**|Espíritu de bruma, Borrón, Terr, Frue|
 |**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
+|**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|**|
 
 >“*Sí. Por suerte, antes de morir, puse en marcha un plan. No me acuerdo de él, pero estoy seguro de que era espléndido.*”
 \-Leras.[4]
 
 
-**Leras** es el primer Recipiente de la [[Esquirla\|Esquirla]] [[Conservaci%C3%B3n\|Conservación]], originario de [[Yolen\|Yolen]]. Junto con [[Ati\|Ati]], el Recipiente de [[Ruina\|Ruina]], creó [[Scadrial\|Scadrial]], aunque posteriormente traicionó a Ati y lo encarceló en el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]], a costa de su propia vida. Es apodado **Borrón** por [[Kelsier\|Kelsier]].
+**Leras** es el primer [[Recipiente\|Recipiente]] de la [[Esquirla\|Esquirla]] [[Conservaci%C3%B3n\|Conservación]], originario de [[Yolen\|Yolen]]. Junto con [[Ati\|Ati]], el Recipiente de [[Ruina\|Ruina]], creó [[Scadrial\|Scadrial]], aunque posteriormente traicionó a Ati y lo encarceló en el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]], a costa de su propia vida. Es apodado **Borrón** por [[Kelsier\|Kelsier]].
 
 ## Sumario
 
@@ -25,7 +26,7 @@
 1. [[#Personalidad]] 
 
 
-2 Habilidades y atributos. [[#Habilidades y atributos]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 3 Historia. [[#Historia]] 
 4 Relaciones. [[#Relaciones]] 
 
@@ -44,7 +45,7 @@
 ### Apariencia
 Para más imágenes, ver [[Leras/Galer%C3%ADa\|/Galería]].
 Leras es un hombre de baja estatura, con pelo negro y nariz prominente. En el [[Reino Cognitivo\|Reino Cognitivo]], aparece vistiendo un fino abrigo de lana que le llega casi a los pies, así como una túnica de encaje con una falda cónica en la parte inferior, atada por un cinturón que sostiene un [[Cuchillo de Leras\|cuchillo]] con mango de hueso. A medida que se acerca su muerte final, su forma comienza a deshacerse, y partes de él empiezan a disolverse en la niebla. En un momento dado, la mitad de su cara desaparece, sustituida por un humo blanco que se desvanece, con agujeros en otras partes de su cuerpo y en su ropa. Esto no afecta a su capacidad de hablar o percibir su entorno. Ocasionalmente, su silueta se deshilacha completamente, revelando un esqueleto debajo. Mirar a los ojos de esta forma mientras se tiene cualquier poder permite percibir la naturaleza completa de Conservación; una extensión del infinito, congelada en un solo momento.
-Cuando aparece en el Reino Físico, Leras adopta la forma del espíritu de la [[Brumas\|bruma]]; una silueta perfilada en las omnipresentes brumas de Scadrial. Aunque es más o menos humanoide, es difícil de distinguir de la niebla, al menos hasta que empieza a moverse. No puede hablar en esta forma, pero puede moverse y señalar, así como interactuar con los objetos de forma limitada.
+Cuando aparece en el Reino Físico, Leras adopta la forma del espíritu de la [[Brumas\|bruma]]; una silueta perfilada en las omnipresentes brumas de [[Scadrial\|Scadrial]]. Aunque es más o menos humanoide, es difícil de distinguir de la niebla, al menos hasta que empieza a moverse. No puede hablar en esta forma, pero puede moverse y señalar, así como interactuar con los objetos de forma limitada.
 
 ### Personalidad
  
@@ -56,19 +57,19 @@ Cuando está consciente, Leras a menudo es sarcástico y burlón. Se emociona co
 Leras posee un fuerte sentido del deber en lo concerniente a Scadrial y su gente, y continúa desempeñando sus asignados cometidos, como el dar la bienvenida a los recién fallecidos; algo que hace incluso encontrándose él mismo moribundo. Leras trata su divinidad con seriedad, e intenta impartir dicha seriedad en otros. Asimismo, esto implica que detesta que se burlen de él y se muestra muy ofendido cuando se le sugiere actuar de un modo opuesto a su intención. Puede enfurecerse, también, cuando la gente no cumple con su papel, y encolerizarse cuando su labor como dios de Scadrial es puesta en entredicho o usurpada.
 En su estado moribundo, Leras a menudo se encuentra descentrado y tiene dificultades para pensar y recordar, o incluso participar en una conversación de la que ya formaba parte. Sus capacidades en este sentido mejoran sobremanera cuando comienza a interactuar con [[Kelsier\|Kelsier]], con mayor frecuencia, y al momento de su muerte, es capaz de comunicarse de manera coherente, aunque no está claro si sus recuerdos regresaron por completo antes de que falleciese.
 
-## Habilidades y atributos
+## Atributos y habilidades
 >“*Sí, había un plan. Yo recuerdo que tenía un plan. Cuando era más listo. . .*”
 \-Leras.[11]
 
 
   Muerte de Leras
-Leras es el Recipiente de una [[Esquirla\|Esquirla]]; como tal, no envejece, es prácticamente omnisciente dentro de su área de influencia y carece de una forma distintiva en el [[Reino F%C3%ADsico\|Reino Físico]]; su cuerpo físico propiamente dicho está almacenado en algún lugar y reaparece en [[Scadrial\|Scadrial]] en el momento de su muerte. Durante los eventos inmediatamente anteriores al Catacendro, ya está muerto, habiendo sido fatalmente herido y agonizando durante milenios. Así, Leras ha ido desmoronándose lentamente. Le faltan fragmentos importantes de sus recuerdos, tiene problemas para concentrarse y lúcido solo durante cortos períodos de tiempo. Tiene dificultades incluso para mantener su apariencia humana dentro del [[Reino Cognitivo\|Reino Cognitivo]], e incluso así partes de él solo aparecen como zarcillos de niebla. Técnicamente, Leras es una [[Sombra cognitiva\|sombra cognitiva]];una huella que se debilita de la mente y memoria en el poder de [[Conservaci%C3%B3n\|Conservación]].
+Leras es el [[Recipiente\|Recipiente]] de una [[Esquirla\|Esquirla]]; como tal, no envejece, es prácticamente omnisciente dentro de su área de influencia y carece de una forma distintiva en el [[Reino F%C3%ADsico\|Reino Físico]]; su cuerpo físico propiamente dicho está almacenado en algún lugar y reaparece en [[Scadrial\|Scadrial]] en el momento de su muerte. Durante los eventos inmediatamente anteriores al [[Catacendro\|Catacendro]], ya está muerto, habiendo sido fatalmente herido y agonizando durante milenios. Así, Leras ha ido desmoronándose lentamente. Le faltan fragmentos importantes de sus recuerdos, tiene problemas para concentrarse y lúcido solo durante cortos períodos de tiempo. Tiene dificultades incluso para mantener su apariencia humana dentro del [[Reino Cognitivo\|Reino Cognitivo]], e incluso así partes de él solo aparecen como zarcillos de niebla. Técnicamente, Leras es una [[Sombra cognitiva\|sombra cognitiva]];una huella que se debilita de la mente y memoria en el poder de [[Conservaci%C3%B3n\|Conservación]].
 Como Recipiente de Conservación, Leras posee una de las mejores capacidades para atisbar el futuro en el [[Cosmere\|Cosmere]]. Era capaz de predecir con exactitud hechos que acontecerán miles de años en el futuro, incluso pese a la intromisión de [[Ruina\|Ruina]]. Esto le permitió planificar a largo plazo y a gran escala, y poner dichos planes en marcha con precisión, incluso si acaba olvidando cuál era el plan en primer lugar.
-En la forma que adopta en el Reino Cognitivo porta un [[Cuchillo de Leras\|cuchillo con empuñadura de hueso]]. Leras habla del cuchillo como de un viejo amigo, y su primera reacción al verse amenazado es estirar una mano para empuñarlo, lo que parece indicar que en algún momento fue razonablemente capaz con él. Sin embargo, durante el Imperio Final le resulta casi imposible hacer daño a otros seres.
+En la forma que adopta en el Reino Cognitivo porta un [[Cuchillo de Leras\|cuchillo con empuñadura de hueso]]. Leras habla del cuchillo como de un viejo amigo, y su primera reacción al verse amenazado es estirar una mano para empuñarlo, lo que parece indicar que en algún momento fue razonablemente capaz con él. Sin embargo, durante el [[Imperio Final\|Imperio Final]] le resulta casi imposible hacer daño a otros seres.
 
 ## Historia
  
-Poco se conoce de la vida de Leras de cuando era un simple humano. Nació en [[Yolen\|Yolen]]. Junto a otras personas, mató a [[Adonalsium\|Adonalsium]] por razones que aún son desconocidas. Este asesinato provocó que Adonalsium se dividiese en dieciséis partes, que fueron tomadas por ese mismo número entre sus asesinos, transformándose en los primeros Recipientes de las [[Esquirla\|Esquirlas]]. Leras estaba entre ellos, tomando a [[Conservaci%C3%B3n\|Conservación]] para sí antes de abandonar Yolen junto a [[Ati\|Ati]], el Recipiente de [[Ruina\|Ruina]].
+Como el resto de [[Recipiente\|Recipientes]] originales, Leras era nativo de [[Yolen\|Yolen]]. Participó en la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]] y tomó una de sus [[Esquirla\|Esquirlas]], [[Conservaci%C3%B3n\|Conservación]], antes de abandonar Yolen junto a [[Ati\|Ati]], el Recipiente de [[Ruina\|Ruina]].
 
 Para hechos posteriores, ver [[/wiki/Conservaci%C3%B3n#Historia]].
 
@@ -79,7 +80,7 @@ Para hechos posteriores, ver [[/wiki/Conservaci%C3%B3n#Historia]].
 \-Leras a Ruina.[11]
 
 
-Aunque sabemos que Leras y Ati se conocían antes de la [[Fragmentaci%C3%B3n\|Fragmentación]], (Ati también participó en el asesinato de Adonalsium), lo que no sabemos es qué tipo de relación había entre ambos. Al parecer Leras conoce a Ati bien, lo suficiente como para diferenciar qué partes del comportamiento de Ruina proceden de la propia personalidad de Ati, y parece lamentar su cambio de una manera sutil. Como Esquirlas, los dos se encuentran en posiciones diametralmente opuestas tanto en intención como en personalidad. Ati se muestra desdeñoso y burlón con Leras, mientras que este último está preocupado por la posibilidad de que Ati escape del [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] y traza un plan para impedirlo. Dicho esto, Leras no está asustado de Ati, ya que se encuentra más allá de su alcance al estar muerto.
+Aunque se sabe que Leras y [[Ati\|Ati]] se conocían antes de la [[Fragmentaci%C3%B3n\|Fragmentación]], (Ati también participó en el asesinato de [[Adonalsium\|Adonalsium]]), lo que no se sabe es qué tipo de relación había entre ambos. Al parecer Leras conoce a Ati bien, lo suficiente como para diferenciar qué partes del comportamiento de [[Ruina\|Ruina]] proceden de la propia personalidad de Ati, y parece lamentar su cambio de una manera sutil. Como [[Esquirla\|Esquirlas]], los dos se encuentran en posiciones diametralmente opuestas tanto en [[Intenci%C3%B3n\|Intención]] como en personalidad. Ati se muestra desdeñoso y burlón con Leras, mientras que este último está preocupado por la posibilidad de que Ati escape del [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] y traza un plan para impedirlo. Dicho esto, Leras no está asustado de Ati, ya que se encuentra más allá de su alcance al estar muerto.
 
 ### Kelsier
   Leras conviertiendo a Kelsier en una <<Sombra cognitiva\|sombra cognitiva>>
@@ -91,18 +92,18 @@ Leras y [[Kelsier\|Kelsier]] se encuentran cuando el segundo muere, aunque el pr
 Al final, cuando se llena el Pozo de la Ascensión, los dos comienza a cooperar, con Leras contándole más cosas a Kelsier, y éste mostrándose más dispuesto a escuchar y respetar la divinidad de Leras. Aunque Leras estaba todavía enfadado con Kelsier y su adoración como el “Superviviente”, al final acaba confiando en él lo suficiente como para encaminarlo hacia los [[Ire\|Ire]].Mientras el desvanecimiento de Leras prosigue, Kelsier intenta animarlo. En el momento de la muerte de Leras el trato entre ambos es cordial, con Kelsier confortando a Leras y este último dándole a Kelsier su tácita bendición para utilizar su poder y rogándole que continúe sobreviviendo.
 
 ### [[Hoid\|Hoid]]
-Leras parece recordar a Hoid con cariño.
+Leras parece recordar a [[Hoid\|Hoid]] con cariño.
 
 ### Senna
 >“*Oh, Senna. . . Estoy perdiendo este lugar. Los estoy perdiendo a todos. . .*”
 \-Leras.[3]
 
 
-Leras conoce a una persona o entidad, por lo demás desconocida, llamada [[Senna\|Senna]]. No está caro quién o qué era; no obstante, Leras pronuncia su nombre durante su crisis al ver como Ruina destruye Scadrial a su alrededor, lo que parece indicar que se trataba de alguien muy importante para él.
+Leras conoce a una persona o entidad, por lo demás desconocida, llamada [[Senna\|Senna]]. No está claro quién o qué era; no obstante, Leras pronuncia su nombre durante su crisis al ver cómo Ruina destruye [[Scadrial\|Scadrial]] a su alrededor, lo que parece indicar que se trataba de alguien muy importante para él.
 
 ## Curiosidades
 Leras será uno de los personajes principales en *[[Dragonsteel\|Dragonsteel]]*.
-Sabemos también que Leras conoce [[Vax\|Vax]], y que hubiera reconocido el nombre de haber estado presente cuando [[Ati\|Ati]] lo menciona.
+Leras está familiarizado con [[Vax\|Vax]] y hubiera reconocido el nombre del planeta de haber estado presente cuando [[Ati\|Ati]] lo mencionó.
 ## Notas
 |Antecesor  ***Ninguno***|**Recipiente de [[Conservaci%C3%B3n\|Conservación]]** |Sucesor  **[[Kelsier\|Kelsier]]**|
 |-|-|

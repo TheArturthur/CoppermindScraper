@@ -1,23 +1,26 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Malop**|
 |-|-|
-|**Fallecido**|[[Battle of the Tower\|Battle of the Tower]], Tanatashev 1173|
-|**Oficio**|Bridgeman|
-|**Grupo**|[[Bridge Four\|Bridge Four]]🐱︎, Ejército de Sadeas|
+|**Fallecido**|[[Batalla de la Torre\|Batalla de la Torre]], Tanatashev 1173|
+|**Oficio**|Hombre del puente|
+|**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Malop** is a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
+**Malop** es un miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-He has thick, black hair and a bushy beard. His hands are both tattooed with a [[Glyphward\|glyphward]]. He isn't considered very smart, and he has limited knowledge of the world beyond [[Alethkar\|Alethkar]].
+## Apariencia y personalidad
+Tiene el pelo negro y espeso y una barba poblada. Tiene ambas manos tatuadas con un [[Glifo\|glifo]]. No se le considera muy inteligente y tiene un conocimiento limitado del mundo más allá de [[Alezkar\|Alezkar]].
 
-## History
-During [[Kaladin\|Kaladin]]'s first run leading Bridge Four, Malop was one of the last men to get into position.
-He was killed by the [[Parshendi\|Parshendi]] during the [[Battle of the Tower\|Battle of the Tower]]. He suffered a severe axe wound to the arm and subsequently lost too much blood. Kaladin regretted being unable to save Malop, [[Jaks\|Jaks]], and [[Narm\|Narm]] during the battle.
-Malop was one of the many people that Kaladin remembered being unable to protect while he was trying to swear the  of the .
+## Historia
+Durante la primera carrera de [[Kaladin\|Kaladin]] al frente del Puente Cuatro, Malop fue uno de los últimos hombres en colocarse en posición.
+Fue asesinado por los [[Parshendi\|parshendi]] durante la [[Batalla de la Torre\|batalla de la Torre]]. Sufrió una grave herida de hacha en el brazo y posteriormente perdió demasiada sangre. Kaladin lamentó no haber podido salvar a Malop, [[Jaks\|Jaks]] y [[Narm\|Narm]] durante la batalla.
+Malop era una de las muchas personas que Kaladin recordaba no haber podido proteger mientras intentaba jurar el [[Palabras Inmortales\|Cuarto Ideal]] de los [[Corredores del Viento\|Corredores del Viento]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 00:17, 21 February 2022 (UTC)

@@ -104,7 +104,7 @@ La luz del vacío brilla con un distintivo resplandor violeta oscuro descrito co
 
   "Luz de Koravari"
 ### Luz de vida
-La luz de vida, o luz de Cultivación, es quizás la más rara de las tres luces puras. Parte de ella la podemos encontrar en el [[Valle\|Valle]], en forma de neblina verde. [[Lift\|Lift]] tiene la capacidad única de producirla mediante el metabolismo de alimentos, pero actualmente no se conocen otras formas de obtenerla. Parece muy similar a la luz tormentosa, una luz con un blanco casi puro, pero donde la luz tormentosa tiene un sutil tono azulado, la luz de vida lo tiene verde. Cuando su luz se refracta a través de un prisma se produce un arcoíris con una banda verde mayor que las demás. Su ritmo es fuerte y picado según avanza. La luz de vida comparte con la luz tormentosa su efecto en las plantas aunque en un grado superior, estimulando su crecimiento cuando se combina con el ritmo apropiado.
+La luz de vida, o luz de Cultivación, es quizás la más rara de las tres luces puras. [[Lift\|Lift]] tiene la capacidad única de producirla mediante el metabolismo de alimentos, pero actualmente no se conocen otras formas de obtenerla. Parece muy similar a la luz tormentosa, una luz con un blanco casi puro, pero donde la luz tormentosa tiene un sutil tono azulado, la luz de vida lo tiene verde. Cuando su luz se refracta a través de un prisma se produce un arcoíris con una banda verde mayor que las demás. Su ritmo es fuerte y picado según avanza. La luz de vida comparte con la luz tormentosa su efecto en las plantas aunque en un grado superior, estimulando su crecimiento cuando se combina con el ritmo apropiado.
 
 ## Luces híbridas
 Además de las luces «puras» de Roshar, existen luces híbridas creadas a partir de la combinación de dos luces puras. Los métodos para crear estos híbridos varía ligeramente, pero en esencia se necesitan Investidura, tonos y ritmos apropiados.
@@ -130,10 +130,10 @@ La antiluz del vacío fue la primera antiluz que se descubrió en Roshar, y fue 
 La antiluz del vacío brilla suavemente con un tono negro y violeta que parece deformar el aire a su alrededor. Su tono, y su canción, suenan idénticos a los de la luz del vacío, pero provocan una reacción adversa en los Fusionados, y, probablemente, en otras criaturas fuertemente investidas por Odium, como los vacíospren. Cuando entra en contacto con el alma de dicha criatura, la antiluz del vacío reacciona con violencia con la luz del vacío allí almacenada, lo que resulta en una muerte permanente.
 
 ### Antiluz tormentosa
-La antiluz tormentosa fue descubierta por Rabeniel poco después de que Navani descubriera la antiluz del vacío. En muchos sentidos, la antiluz tormentosa se comporta de forma simétrica a la antiluz del vacío, excepto en que la antiluz del vacío tiene un efecto destructivo en los seres investidos por Odium, y la antiluz tormentosa tiene esos efectos en seres investidos por Honor, como los spren Radiantes. Utilizando armas de [[Raysio\|raysio]], la antiluz tormentosa es capaz de matar spren radiantes, lo que hace que se rompa el vínculo entre spren y su Radiante.
+La antiluz tormentosa fue descubierta por [[Rabeniel\|Rabeniel]] poco después de que Navani descubriera la [[Antiluz del vac%C3%ADo\|antiluz del vacío]]. En muchos sentidos, la [[Antiluz tormentosa\|antiluz tormentosa]] se comporta de forma simétrica a la antiluz del vacío, excepto en que la antiluz del vacío tiene un efecto destructivo en los seres investidos por [[Odium\|Odium]], y la antiluz tormentosa tiene esos efectos en seres investidos por Honor, como los spren Radiantes. Utilizando armas de [[Raysio\|raysio]], la antiluz tormentosa es capaz de matar spren radiantes, lo que hace que se rompa el vínculo entre spren y su Radiante.
 
 ### Otras anti-Investiduras
-Desconocemos si las luces híbridas o las Esquirlas que no están en el sistema roshariano tienen anti-Investiduras propias. [[Khriss\|Khriss]] afirma que, aunque se ha teorizado durante mucho tiempo, las antiluces son la primera evidencia que tiene de anti-Investidura.
+Desconocemos si las luces híbridas o las [[Esquirla\|Esquirlas]] que no están en el sistema roshariano tienen anti-Investiduras propias. [[Khriss\|Khriss]] afirma que, aunque se ha teorizado durante mucho tiempo, las antiluces son la primera evidencia que tiene de anti-Investidura.
 
 ## Notas
 

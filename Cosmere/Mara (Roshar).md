@@ -1,16 +1,19 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mara (Roshar)**|
 |-|-|
-|**Oficio**|Apprentice surgeon|
+|**Oficio**|Aprendiz de cirujano|
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mara** is [[Lirin\|Lirin]]'s apprentice in [[Hearthstone\|Hearthstone]].
-When [[Kaladin\|Kaladin]] returns to Hearthstone after the first [[Everstorm\|Everstorm]], Mara has been an apprentice surgeon for a few years.
-Lirin implies that they are not yet ready to be a full surgeon, questioning whether Mara would be able to take over for him if he left.
+**Mara** es le aprendiz de [[Lirin\|Lirin]] en [[Piedralar\|Piedralar]].
+Cuando [[Kaladin\|Kaladin]] regresa a Piedralar tras la primera [[Tormenta eterna\|tormenta eterna]], Mara ha sido aprendiz de cirujano durante unos años.
+Lirin da a entender que aún no está preparade para ser cirujane de pleno derecho y se pregunta si Mara sería capaz de sustituirlo si él se marchase.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Joe ST (talk) 07:18, 4 July 2018 (MST)

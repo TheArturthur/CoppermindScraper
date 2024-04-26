@@ -3,10 +3,11 @@
 
 |**Lily**|
 |-|-|
+||
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Lily** es un pequeño perro terrier que lleva [[Kaise\|Kaise]] mientras está viviendo en [[Scadrial\|Scadrial]].
+**Lily** es un pequeño perro terrier y mascota de [[Kaise\|Kaise]] mientras está viviendo en [[Scadrial\|Scadrial]].
 
 ## Notas
 

@@ -9,6 +9,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Leyten** es un [[Orden de los Corredores del Viento\|Corredor del Viento]] y miembro del [[Puente Cuatro\|Puente Cuatro]] en el planeta [[Roshar\|Roshar]]. Es el intendente de los Corredores del Viento bajo las órdenes de [[Kaladin Bendito por la Tormenta\|Kaladin Bendito por la Tormenta]], y como tal es el responsable de mantenerlos abastecidos de uniformes y otras necesidades.
 

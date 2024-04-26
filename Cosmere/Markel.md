@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Markel**|
 |-|-|
 ||
-|**Tipo**|Tree|
+|**Tipo**|Árbol|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **markel** tree is a type of plant on [[Roshar\|Roshar]]. It can be found in northwestern [[Alethkar\|Alethkar]].
-It grows up to sixteen feet high and has large, clam-shaped leaves that can open and close. It has bark coated in stone and branches as "thick as a man's leg". [[Snarlbrush\|Snarlbrush]] grows in dense thickets around markel trees.
+El **markel** es un tipo de árbol en [[Roshar\|Roshar]]. Se encuentra en el noroeste de [[Alezkar\|Alezkar]].
+Crece hasta los cinco metros de altura y tiene grandes hojas en forma de almeja que pueden abrirse y cerrarse. Tiene la corteza recubierta de piedra y ramas tan «gruesas como las piernas de un hombre». El [[Arbusto mara%C3%B1oso\|arbusto marañoso]] crece en densos matorrales alrededor de los árboles markel.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 13:47, 6 March 2019 (MST)

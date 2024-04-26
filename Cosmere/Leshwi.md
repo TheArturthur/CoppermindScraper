@@ -7,6 +7,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*¿Qué aviva tu ira apasionada, Moash, humano que lleva el nombre de un antiguo cantor?*”
 \-Leshwi a Moash[1]
@@ -46,13 +47,13 @@ La pasión es una virtud importante para Leshwi. Esto probablemente esté relaci
 Durante la Última Desolación, se reencarnó en un cuerpo hombren, pero se hace afeitar la barba por un barbero y mantiene el pelo largo. Odia activamente los bigotes que le crecen, incluso cuando son suaves y débiles. No se sabe si siente disforia general ante su cuerpo hombren o si es específica de su vello facial.
 
 ## Habilidades y atributos
-Leshwi es capaz de usar la [[Luz del vac%C3%ADo\|luz del vacío]] y es hábil con la [[Potenciaci%C3%B3n\|potencia]] de [[Gravitaci%C3%B3n\|Gravitación]]. Como todos los Fusionados, aunque se cura de la mayoría de las heridas mientras tenga luz del vacío, el daño a su [[Gema coraz%C3%B3n\|gema corazón]] es mortal al instante.
-Cuando Leshwi lucha contra Moash utiliza una espada larga y curva [[Parshendi\|parshendi]]. Cuando lucha contra Kaladin, prefiere utilizar una lanza. Está considerada como una de las mejores luchadoras entre los Fusionados.
+Leshwi es una de los Shanay-im. Esto le permite emplear la [[Potencia\|Potencia]] de [[Gravitaci%C3%B3n\|Gravitación]]. Es lo suficientemente buena con los enlaces como para considerar una rareza que un humano pueda competir con ella. Como todos los Fusionados, puede aspirar [[Luz del vac%C3%ADo\|luz del vacío]], lo que le permite curarse de la mayoría de heridas siempre y cuando tenga acceso a dicha luz.
+Además, Leshwi es extremadamente habilidosa en la lucha. Prefiere las lanzas, un campo de batalla y soldados que lo sobrevuelen, pero también utiliza una espada larga y curva [[Parshendi\|parshendi]]. Está considerada como una de las mejores luchadoras entre los Fusionados.
 
 ## Historia
   Capturando a <<Moash\|Moash>>
 ### Mortal
-Poco se sabe de la vida anterior de Leshwi, salvo que era amiga de una honorspren llamada [[Riah\|Riah]], y que en algún momento, presumiblemente durante la [[Primera Desolaci%C3%B3n\|Primera Desolación]], murió y renació como uno de los Fusionados.
+Poco se sabe de la vida mortal de Leshwi, salvo que era amiga de una honorspren llamada [[Riah\|Riah]], y que en algún momento, presumiblemente durante la [[Primera Desolaci%C3%B3n\|Primera Desolación]], murió y renació como uno de los Fusionados.
 
 ### Reclutando a Moash
 Cuando [[Moash\|Moash]], [[Graves\|Graves]], [[Febrth\|Febrth]] y [[Fia\|Fia]] montaron un campamento, Leshwi y otros tres Fusionados los atacaron. Sólo Moash pudo defenderse eficazmente; sus compañeros murieron en cuestión de segundos. Moash utilizó su [[Hoja esquirlada\|hoja esquirlada]] para luchar contra Leshwi, pero cuando ésta se dio cuenta de que Moash no tenía mucha práctica con la espada, atacó con más fiereza. Se sorprendió cuando Moash desechó su hoja esquirlada, se alejó corriendo y cogió una lanza. Entonces [[Gravitaci%C3%B3n\|enlazó]] a Moash en el aire, pero él la arrastró consigo y la mató en el aire clavándole un cuchillo en el pecho. Los compañeros de Leshwi tomaron cautivo a Moash después de eso.

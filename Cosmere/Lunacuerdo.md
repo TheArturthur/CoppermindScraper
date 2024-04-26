@@ -13,7 +13,7 @@
 \-Hoid[1]
 
 
-Un **lunacuerdo** es una ubicación sobre cada uno de los 12 mares de [[Lumar\|Lumar]] donde las [[Esporas de %C3%A9ter\|esporas de éter]] caen desde una de las lunas geoestacionarias del planeta.
+Un **lunacuerdo** es una ubicación sobre cada uno de los doce mares de [[Lumar\|Lumar]] donde las [[Esporas de %C3%A9ter\|esporas de éter]] caen desde una de las lunas geoestacionarias del planeta.
 Los marineros de Lumar suelen mantenerse alejados de los lunacuerdos, debido al peligro que supone acercarse a las esporas suspendidas en el aire.
 
 ## Sumario
@@ -29,7 +29,7 @@ Los marineros de Lumar suelen mantenerse alejados de los lunacuerdos, debido al 
 
 
 ## Características
-Son brillantes y coloridos, al igual que los lugares donde las esporas de éter caen en los mares de Lumar. Por debajo de un lunacuerdo el mar se encuentra a mayor altura que en otros lugares. Las tripulaciones que navegan cerca de uno se encuentran con que su embarcación está inclinada al acercarse.
+Son brillantes y coloridos, al igual que los lugares donde las esporas de éter caen en los mares de Lumar. Por debajo de un lunacuerdo el mar se encuentra a mayor altura que en otros lugares. Las tripulaciones que navegan cerca de uno se encuentran con que su embarcación sube por la inclinación al acercarse.
 
 ## Lunacuerdos
 ### Lunacuerdo glauco
@@ -41,7 +41,7 @@ La guarida de Xisis se puede encontrar cerca del lunacuerdo carmesí, aunque no 
 
 ## Notas
 
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
 |-|-|
 |**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|

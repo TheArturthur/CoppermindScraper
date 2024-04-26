@@ -13,6 +13,7 @@
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Soy Lopen, lo que significa que estoy listo para todo en cualquier momento. Ya tendrías que saberlo.*”
 \-Lopen a Moash[1]

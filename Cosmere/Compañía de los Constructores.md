@@ -9,7 +9,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Lossand** es una nación del Lado Diurno de [[Taldain\|Taldain]]. Los habitantes de Lossand se llaman **lossandinos**. Destaca por ser el hogar del [[Diem\|Diem]], y por ser considerado un desierto por los [[Kerzta\|kerztrianos]] debido a la falta de [[Parra dorim\|parras dorim]]. La mayoría de los acontecimientos de [[Arena Blanca\|Arena Blanca]] tienen lugar en Lossand.
+**Lossand** es una nación del Lado Diurno de [[Taldain\|Taldain]]. Los habitantes de Lossand se llaman **lossandinos**. Destaca por ser el hogar del [[Diem\|Diem]], y por ser considerado un desierto por los [[Kerzta\|kerztrianos]] debido a la falta de [[Parra dorim\|parras dorim]]. Lossand está gobernada por el Taishin.
 
 ## Sumario
 
@@ -35,7 +35,8 @@
 
 5 Cultura. [[#Cultura]] 
 6 Lossandinos destacados. [[#Lossandinos destacados]] 
-7 Notas. [[#Notas]] 
+7 Curiosidades. [[#Curiosidades]] 
+8 Notas. [[#Notas]] 
 
 
 ## Geografía
@@ -97,6 +98,8 @@ Para una lista de todos los personajes lossandinos, ver :Categoría:De Lossand.
 [[Vey\|Vey]]
 [[Sharezan\|Sharezan]]
 
+## Curiosidades
+La mayoría de los acontecimientos de [[Arena Blanca\|Arena Blanca]] tienen lugar en Lossand.
 ## Notas
 
 

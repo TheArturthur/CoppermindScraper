@@ -10,6 +10,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -54,7 +55,7 @@
 ## Apariencia y personalidad
  
 ### Apariencia
-Se describe a Lezian como una figura de más de dos metros de altura. Tiene el pelo del color de la sangre seca, y parece fundirse con su ropa, que está tejida con su pelo. Su piel es de un negro casi puro, con líneas de veta roja bajo sus ojos, que emiten un suave brillo rojo. También tiene una coraza natural dentada, de aspecto retorcido, con un extraño par de aletas de caparazón, o cuernos, sobre las orejas. Kaladin lo describe como una inmensa montaña de quitina y tela marrón oscura, con ojos que brillan en un profundo tono rojo.
+Se describe a Lezian como una figura de más de dos metros de altura. Tiene el pelo del color de la sangre seca y su ropa está tejida con su pelo. Su piel es de un negro casi puro, con líneas de veta roja bajo sus ojos, que emiten un suave brillo rojo. También tiene una coraza natural dentada, de aspecto retorcido, con un extraño par de aletas de caparazón, o cuernos, sobre las orejas. Kaladin lo describe como una inmensa montaña de quitina y tela marrón oscura, con ojos que brillan en un profundo tono rojo.
 Se desconoce cuáles de estas características (más allá del color y el patrón de su piel) son exclusivamente suyas, o si son compartidas con otros *nex-im*.
 
 ### Personalidad

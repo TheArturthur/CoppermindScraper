@@ -1,57 +1,60 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Marat**|
 |-|-|
 ||
-|**Ocupado por**|[[Singer\|Singers]]|
+|**Ocupado por**|[[Cantor\|Cantores]]|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“*Szeth knew that Marat was rich in culture, full of people as proud as you’d find in any nation—but of almost no value on the political scale.*”
-\-Szeth thinking about Marat[1]
+>“*Szeth sabía que Marat tenía una cultura rica y un pueblo más orgulloso que pudiera encontrarse en cualquier nación, pero un valor casi nulo en el terreno político.*”
+\-Szeth pensando sobre Marat[1]
 
 
-**Marat** is a small kingdom in southern [[Roshar\|Roshar]]. It is part of the [[Makabaki\|Makabaki]] region.
+**Marat** es un pequeño reino en el sur de [[Roshar\|Roshar]]. Forma parte de la región de [[Makabaki\|Makabaki]].
 
 ## Sumario
 
-1 Geography and Ecology. [[#Geography and Ecology]] 
-2 History. [[#History]] 
-3 Politics. [[#Politics]] 
-4 Culture. [[#Culture]] 
+1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
+2 Historia. [[#Historia]] 
+3 Política. [[#Pol.C3.ADtica]] 
+4 Cultura. [[#Cultura]] 
 
-4. [[#Peoples]] 
-4. [[#Economy]] 
-
-
-5 Settlements. [[#Settlements]] 
-6 Notes. [[#Notes]] 
+4. [[#Gentes]] 
+4. [[#Econom.C3.ADa]] 
 
 
-## Geography and Ecology
-Marat borders the [[Southern Depths\|Southern Depths]] to the south, [[Tukar\|Tukar]] to the west, [[Emul\|Emul]] to the northwest, and [[Greater Hexi\|Greater Hexi]] to the east. The northernmost part of Marat includes the southernmost part of mountain range in the center of the continent. A river separates the border between Marat and Tukar. A grain similar to wheat that pulls down into burrows grows in Marat. Disc-like creatures with claws eat the grain then leave droppings with seeds to the east. The seeds grow into polyps, then blow back west to grow into grain.
-Despite its low population, Marat has a few notable settlements. Along the Southern Depths is the city of [[Rossen Dar\|Rossen Dar]]--possibly Marat's capital--and the towns of [[Jabom\|Jabom]] and [[Ja Dran\|Ja Dran]]. Near Tukar's border, there is the town of , and close to Hexi there is the town of [[Mikhan\|Mikhan]].
-It has an area of around 524,000km.
+5 Asentamientos. [[#Asentamientos]] 
+6 Notas. [[#Notas]] 
 
-## History
-[[Szeth\|Szeth]] visited the country during his exile. During the [[True Desolation\|True Desolation]], one of the first moves of the [[Fused\|Fused]] was to gather a large force of [[Singer\|singers]] in southern Marat. During their conquest, the singers pressed any survivors into labor at docks but allowed them to burn their dead. The Fused amassed a large naval fleet of over a hundred ships in the Marat ports and coves in preparation to launch an attack at [[Thaylen City\|Thaylen City]]. In the week before the assault, [[Venli\|Venli]] lived in a cave and told the story of the [[Listener\|listeners]] to the singers to prepare them to fight. [[Nale\|Nale]] brought [[Szeth\|Szeth]] and the other  there to tell them the truth of the . The fleet left for Thaylen City during the surprise [[Everstorm\|Everstorm]] and returned after Odium's defeat.
 
-## Politics
-Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
+## Geografía y ecología
+Marat limita al sur con las [[Profundidades Meridionales\|Profundidades Meridionales]], al oeste con [[Tukar\|Tukar]], al noroeste con [[Emul\|Emul]] y al este con [[Gran Hexi\|Gran Hexi]]. La parte más septentrional de Marat incluye la parte más meridional de la cadena montañosa del centro del continente. Un río separa la frontera entre Marat y Tukar. En Marat crece un grano parecido al trigo que se introduce en las cavidades. Criaturas parecidas a discos con garras se comen el grano y dejan excrementos con semillas al este. Las semillas se convierten en pólipos y vuelven al oeste para convertirse en grano.
+A pesar de su escasa población, Marat cuenta con algunos asentamientos notables. A lo largo de las Profundidades Meridionales se encuentra la ciudad de [[Rossen Dar\|Rossen Dar]] (posiblemente la capital de Marat) y las ciudades de [[Jabom\|Jabom]] y [[Ja Dran\|Ja Dran]]. Cerca de la frontera de Tukar, se encuentra la ciudad de [[Khrisji\|Khrisji]], y cerca de Hexi está la ciudad de [[Mikhan\|Mikhan]].
+Tiene una superficie de unos 524 000 km.
 
-## Culture
-### Peoples
-West of Marat, women's hands are not covered for modesty. The people who live in Marat, as in [[Tukar\|Tukar]] and the [[Reshi Isles\|Reshi Isles]], tend to have brown skin tones and black hair. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in the south east of Makabak.
-The Marati are described as a rather proud people, like you would find in any other nation across Roshar.
+## Historia
+[[Szeth\|Szeth]] visitó el país durante su exilio. Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], uno de los primeros movimientos de los [[Fusionado\|Fusionados]] fue reunir una gran fuerza de [[Cantores\|cantores]] en el sur de Marat. Durante su conquista, los cantores obligaron a los supervivientes a trabajar en los muelles, pero les permitieron quemar a sus muertos. Los Fusionados amasaron una gran flota naval de más de cien barcos en los puertos y calas de Marat, preparándose para lanzar un ataque contra [[Ciudad Thaylen\|Ciudad Thaylen]]. La semana anterior al asalto, [[Venli\|Venli]] vivía en una cueva y contaba la historia de los [[Oyentes\|oyentess]] a los cantores para prepararlos para la lucha. [[Nale\|Nale]] llevó allí a [[Szeth\|Szeth]] y a los demás [[Rompedores del Cielo\|Rompedores del Cielo]] para contarles la verdad de la [[Primera Desolaci%C3%B3n\|Primera Desolación]]. La flota partió hacia Ciudad Thaylen durante la inesperada [[Tormenta eterna\|tormenta eterna]] y regresó tras la derrota de Odium.
 
-### Economy
-Marat has grand bazaars that attract merchants looking for lucrative trade. Some of Marat's exports are fine furniture and rugs. [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] used some to decorate his barracks.  gave [[Shallan\|Shallan]] a fine Marati rug as a wedding gift. [[Mraize\|Mraize]] owns rugs from Marat.
+## Política
+Marat es una nación tribal. Cada ciudad del país está dirigida por un líder denominado hermano mayor, análogo a los [[Alto pr%C3%ADncipe\|altos príncipes]] de las naciones orientales. La única contribución de Marat en la política mundial es su papel como punto de paso entre los reinos [[Vorin\|vorin]] y [[Makabaki\|Makabaki]]. Marat tiene poca población. Algunas personas en el este, entre ellos [[Taravangian\|Taravangian]], consideran bárbaros a los marati.
 
-## Settlements
+## Cultura
+### Gentes
+Al oeste de Marat, las mujeres no se cubren las manos por pudor. Los habitantes de Marat, al igual que los de [[Tukar\|Tukar]] y las [[Islas Reshi\|islas Reshi]], suelen tener la piel morena y el pelo negro. Sus ropas tienen colores similares a los de los azishianos aunque la tela es más gruesa y basta que la de estos. Sus atuendos son más envolventes que los de los azishianos y llevan flecos trenzados que cuelgan de la cintura. Este estilo es común en el sureste de Makabak.
+Los marati se describen como un pueblo bastante orgulloso, como el que encontrarías en cualquier otra nación de Roshar.
+
+### Economía
+Marat cuenta con grandes bazares que atraen a mercaderes en busca de un comercio lucrativo. Algunas de las exportaciones de Marat son muebles de alta calidad y alfombras. El [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] usó algunos para decorar sus barracones. La [[Reina Fen\|Reina Fen]] le dio a [[Shallan\|Shallan]] una magnífica alfombra marati como regalo de bodas. [[Mraize\|Mraize]] owns rugs from Marat.
+
+## Asentamientos
 [[Rossen Dar\|Rossen Dar]]
 
 [[Jabom\|Jabom]]
 [[Mikhan\|Mikhan]]
 [[Ja Dran\|Ja Dran]]
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 07:54, 18 March 2022 (UTC)

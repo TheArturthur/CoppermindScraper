@@ -1,108 +1,111 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Marabezia**|
 |-|-|
 ||
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“* The Marabethians have a saying for someone who refuses to see the truth of a situation. 'You have eyes of red and blue', they say. Red for blood dripping. Blue for the water. It is said that these two things are all the [criminals] see. Usually they are attacked within one day. And yet, most still wish to take that chance. They prefer the false hope*”
-\- Sigzil on Marabethian criminal policy[1]
+>“*Los marabezios tienen una expresión para los que se niegan a ver la verdad de una situación. «Tienes ojos de rojo y azul», dicen. Rojo por la sangre que mana. Azul por el agua. Se dice que esas dos cosas son todo lo que ven los prisioneros. Normalmente son atacados el mismo día. Y sin embargo, la mayoría sigue deseando correr el riesgo. Prefieren la falsa esperanza.*”
+\- Sigzil sobre la política criminal marabezia[1]
 
 
-**Marabethia** is a nation on [[Roshar\|Roshar]] occupying the  separating the [[Purelake\|Purelake]] from the [[Reshi Sea\|Reshi Sea]]. It is bordered by [[Tu Bayla\|Tu Bayla]] to the east, and [[Babatharnam\|Babatharnam]] to the west.
+**Marabezia** es una nación en [[Roshar\|Roshar]] que ocupa el  que separa [[Lagopuro\|Lagopuro]] del [[Mar Reshi\|mar Reshi]]. Limita al este con [[Tu Bayla\|Tu Bayla]] y al oeste con [[Babatharnam\|Babatharnam]].
 
 ## Sumario
 
-1 Geography and Ecology. [[#Geography and Ecology]] 
+1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
 
-1. [[#South Marabethia]] 
-
-
-2 Flora and Fauna. [[#Flora and Fauna]] 
-3 Culture. [[#Culture]] 
-
-3. [[#Cuisine]] 
-3. [[#Religion]] 
-3. [[#Superstitions]] 
+1. [[#Sur de Marabezia]] 
 
 
-4 Law and Order. [[#Law and Order]] 
-5 Politics. [[#Politics]] 
-6 History. [[#History]] 
+2 Flora y Fauna. [[#Flora y Fauna]] 
+3 Cultura. [[#Cultura]] 
 
-6. [[#Pre-Human Arrival]] 
-6. [[#Heraldic Epochs]] 
-
-6. [[#The Desolations]] 
-6. [[#Aharietiam and the Last Desolation]] 
+3. [[#Cocina]] 
+3. [[#Religi.C3.B3n]] 
+3. [[#Supersticiones]] 
 
 
-6. [[#Age of Solitude]] 
+4 Ley y Orden. [[#Ley y Orden]] 
+5 Política. [[#Pol.C3.ADtica]] 
+6 Historia. [[#Historia]] 
+
+6. [[#Antes de la llegada de los humanos]] 
+6. [[#.C3.89pocas Her.C3.A1ldicas]] 
+
+6. [[#Las Desolaciones]] 
+6. [[#Aharietiam y la .C3.9Altima Desolaci.C3.B3n]] 
 
 
-7 Notes. [[#Notes]] 
+6. [[#Era de la Soledad]] 
 
 
-## Geography and Ecology
-During the time of the Silver Kingdoms, Marabethia was controlled by [[Sela Tales\|Sela Tales]] and is still considered to be in Selay lands. The far eastern border was part of [[Valhav\|Valhav]].
-Off the coast of Marabethia, a greatshell known as [[Yu-nerig\|yu-nerig]] can be found. They are known for their succulent flavor and gemhearts.
+7 Notas. [[#Notas]] 
 
-### South Marabethia
-The [[Order of Skybreakers\|Skybreakers]] have a stronghold on the southern edge of  along the [[Purelake\|Purelake]] that is used to train acolytes. They will often use their surroundings for this training, including by placing items in the Purelake, to be used by the squires.
-Reshi-idealists can be found living on the southern border of the country. The Purelaker religion is also present in the area, likely due to the proximity between the Purelakers and those on the Marabethian southern border.
 
-## Flora and Fauna
-[[Sarpenthyn\|Sarpenthyn]] are common in Marabethia.
-The waters off their coast are inhabited by yu-nerig.
+## Geografía y ecología
+Durante la época de los Reinos Plateados, Marabetzia estaba controlada por [[Sela Tales\|Sela Tales]] y aún se considera que está en tierras de Selay. La frontera más oriental formaba parte de [[Valhav\|Valhav]].
+Frente a las costas de Marabethia, se puede encontrar un gran caparazón conocido como [[Yu-nerig\|yu-nerig]]. Son conocidos por su suculento sabor y sus gemas corazón.
 
-## Culture
-The Marabethian people are known to have a great fondness for debate; the city has many pedestals at intersections where men can stand and proclaim their arguments. It is said that the residents are known to carry around overripe fruit for discouraging those they disagree with.
+### Sur de Marabezia
+Los [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] tienen una fortaleza en el extremo sur de  a lo largo del [[Lagopuro\|Lagopuro]] que se utiliza para entrenar acólitos. A menudo utilizarán su entorno para este entrenamiento, incluso colocando objetos en el Lagopuro, para que los utilicen los escuderos.
+Los idealistas reshi viven en la frontera sur del país. La religión lagopureña también está presente en la zona, probablemente debido a la proximidad entre los lagopureño y los de la frontera sur marabezia.
 
-### Cuisine
-They are known to eat yu-nerig.
+## Flora y Fauna
+Los [[Sarpenthyn\|sarpenthyn]] son comunes en Marabethia.
+Las aguas de su costa están habitadas por yu-nerig.
 
-### Religion
-The Purelaker religion is followed by a portion of their population, particularly in southern Marabethia.
+## Cultura
+Los marabezios son conocidos por su gran afición al debate; la ciudad tiene muchos pedestales en los cruces donde las personas pueden pararse y proclamar sus argumentos. Se dice que los residentes son conocidos por llevar fruta demasiado madura para disuadir a aquellos con los que no están de acuerdo.
 
-### Superstitions
-They have a superstition that Sarpenthyn are vengeful spirits of murdered children.
+### Cocina
+Se sabe que comen yu-nerig.
 
-## Law and Order
->“*The local monarchs have accepted us as a unifying martial force, and have given us legal authority. The city's high minister wrote to us via spanreed, pleading for help.*”
+### Religión
+Una parte de su población, sobre todo en el sur de Marabezia, profesa la religión lagopureña.
+
+### Supersticiones
+Tienen la superstición de que los sarpenthyn son espíritus vengativos de niños asesinados.
+
+## Ley y Orden
+>“*Los monarcas de la zona nos han aceptado como una fuerza marcial unificadora y nos han concedido autoridad legal. El alto ministro de la ciudad nos ha escrito por vinculacaña, suplicando nuestra ayuda.*”
 \-[7]
 
 
-Lawkeeps in Marabethia dress in a patterned shoulder cloak and colorful skirtlike wrap.
-To punish serious crimes, perpetrators are dangled over a seaside cliff, during high tide with a cut in each cheek, as bait for the yu-nerig. If the criminal survives for a week, they are set free. The criminals that hang there are usually attacked within a day. A criminal can demand execution instead but almost every prisoner chooses to be hung over the sea, because they prefer false hope to certain death.
-The Marabethian government is aware that the [[Order of Skybreakers\|Skybreakers]] have a keep in the region and will call on them if they require assistance with enforcement.
+Los guardianes de la ley en Marabezia visten con una capa estampada en los hombros y una colorida falda que los envuelve.
+Para castigar los delitos graves, los autores son colgados de un acantilado junto al mar, durante la marea alta, con un corte en cada mejilla, como cebo para los yu-nerig. Si el delincuente sobrevive una semana, queda en libertad. Los criminales que cuelgan allí suelen ser atacados al cabo de un día. Un criminal puede exigir la ejecución en su lugar, pero casi todos los presos eligen ser colgados sobre el mar, porque prefieren una falsa esperanza a una muerte segura.
+El gobierno marabezio sabe que los [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] tienen un fuerte en la región y recurrirá a ellos si necesita ayuda para hacer cumplir la ley.
 
-## Politics
-Marabethia is ruled by a number of local Monarchs, this makes it likely that Marabethia isn’t one nation, but rather a group of ‘kingdoms’ with similar culture.
+## Política
+Marabezia está gobernada por varios monarcas locales, lo que hace pensar que no es una nación, sino más bien un grupo de "reinos" con una cultura similar.
 
-## History
-### Pre-Human Arrival
-Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Marabethia was inhabited by . After an uncertain period of time after human arrival and settlement in present-day Shinovar, they headed an invasion, slaughtering them and expelling them from their land; claiming it as their own. This history was lost to time until the discovery of the [[Eila Stele\|Eila Stele]].
+## Historia
+### Antes de la llegada de los humanos
+Antes de que la humanidad llegase a Roshar desde Ashyn, la tierra que llegaría a conocerse como Marabezia estaba habitada por [[Cantores\|Cantores]]. Tras un periodo de tiempo incierto después de la llegada y asentamiento de los humanos en la actual Shinovar, encabezaron una invasión, masacrándolos y expulsándolos de su tierra; reclamándola como propia. Esta historia se perdió en el tiempo hasta el descubrimiento del [[Eila Stele\|Eila Stele]].
 
-### Heraldic Epochs
-  Map of the Silver Kingdoms
+### Épocas Heráldicas
+  Mapa de los Reinos Plateados
 Para más información, ver [[Sela Tales\|Sela Tales]].
-During the Heraldic Epochs, Marabethia was part of the Silver Kingdom of [[Sela Tales\|Sela Tales]] and [[Valhav\|Valhav]]. It was conquered by Ashynite migrants who were granted the land that would become [[Shinovar\|Shinovar]] by the Singers, but grew dissatisfied with their hegemony and chose to violently expand it, heralding the First Desolation.
+Durante las Épocas Heráldicas, Marabezia formaba parte del Reino Plateado de [[Sela Tales\|Sela Tales]] y [[Valhav\|Valhav]]. Fue conquistada por migrantes de Ashyn a los que los Cantores concedieron la tierra que se convertiría en [[Shinovar\|Shinovar]], pero se sintieron insatisfechos con su hegemonía y decidieron expandirla violentamente, lo que supuso el inicio de la Primera Desolación.
 
-#### The Desolations
-Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his .
-One of the many Desolations that struck the nation, along with the rest of Roshar, arrived in the year 337 of the Eighth Epoch. This Desolation was heralded by the release of [[Midnight Essence\|Midnight Essence]] in a small settlement in [[Natanatan\|Natanatan]]. The length of this Desolation is unknown.
+#### Las Desolaciones
+Debido a las Desolaciones, volvieron constantemente a niveles tecnológicos primitivos, a menudo hasta el punto de utilizar herramientas de piedra. Aunque avanzaron en cada ocasión con la ayuda de los Heraldos cada vez que regresaban, a menudo ayudándolos a entrar en la edad de bronce, recibiendo a menudo esta ayuda de [[Kalak\|Kalak]] y sus [[Escultores de Voluntad\|Escultores de Voluntad]].
+Una de las muchas Desolaciones que asolaron la nación, junto con el resto de Roshar, llegó en el año 337 de la Octava Época. Esta Desolación fue anunciada por la liberación de la [[Esencia de Medianoche\|Esencia de Medianoche]] en un pequeño asentamiento de [[Natanatan\|Natanatan]]. Se desconoce la duración de esta Desolación.
 
-#### Aharietiam and the Last Desolation
-The Last Desolation was a large scale Desolation which occured around 4500 years before the arrival of the [[True Desolation\|True Desolation]]. This Desolation was particularly devasting due to the fact that it happened only a year after the previous Desolation, and thus society was weakened and still recovering. Tired of the Desolations and their torture on Braize, the nine Heralds still on Roshar refused to return to Braize, leaving Taln as the sole Herald on the planet for millennia.
-After the Last Desolation, Desolations ceased to ravage the nations. Due to this, society was able to advance much further than ever before, giving them the strength to potentially resist any potential Desolation without complete societal collapse. The era heralded by the Last Desolation came to be known as the Era of Solitude.
-At some point following Aharietiam, Sela Tales broke into a large amount of smaller states, some of which eventually became what is present-day Marabethia. Though they were not a true nation, but a collection of states that shared a similar culture.
+#### Aharietiam y la Última Desolación
+La Última Desolación fue una Desolación a gran escala que tuvo lugar unos 4500 años antes de la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Esta Desolación fue especialmente devastadora debido a que ocurrió solo un año después de la Desolación anterior, por lo que la sociedad estaba debilitada y aún recuperándose. Cansados de las Desolaciones y de su tortura en Braize, los nueve Heraldos que aún quedaban en Roshar se negaron a regresar a Braize, dejando a Taln como único Heraldo en el planeta durante milenios.
+Tras la Última Desolación, estas dejaron de asolar las naciones. Gracias a ello, la sociedad pudo avanzar mucho más que antes, lo que les dio la fuerza necesaria para resistir cualquier Desolación potencial sin que se produjese un colapso social total. La era anunciada por la Última Desolación pasó a conocerse como la Era de la Soledad.
+En algún momento posterior al Aharietiam, Sela Tales se dividió en una gran cantidad de estados más pequeños, algunos de los cuales acabaron convirtiéndose en la actual Marabezia. Aunque no eran una verdadera nación, sino un conjunto de estados que compartían una cultura similar.
 
-### Age of Solitude
-[[Nale\|Nale]] pursued [[Lift\|Lift]] while she was in Marabethia before following her to [[Azir\|Azir]].
-During the [[True Desolation\|True Desolation]], the [[Coalition of monarchs\|coalition of monarchs]] reached out to Marabethia for aid and alliance, however, Marabethia did not respond to the request.
-A town on the southern border of the country is known to hold prisoners from across the region and is populated by Reshi-idealists. In 1174, Szeth and other Skybreaker acolytes were taken there to hunt down prisoners who had escaped from the local jail. The jail keep was ultimately captured and found guilty of diverting funds meant for the prison's upkeep into his own pockets instead.
+### Era de la Soledad
+[[Nale\|Nale]] persiguió a [[Lift\|Lift]] mientras estaba en Marabezia antes de seguirla hasta [[Azir\|Azir]].
+Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]] pidió ayuda y una alianza a Marabezia, pero ésta no respondió a la petición.
+Se sabe que una ciudad situada en la frontera sur del país alberga a prisioneros de toda la región y está poblada por idealistas reshi. En 1174, Szeth y otros acólitos de Rompedores del Cielo fueron llevados allí para cazar a unos presos que se habían escapado de la cárcel local. El guardián de la prisión fue finalmente capturado y declarado culpable de desviar fondos destinados al mantenimiento de la misma hacia sus propios bolsillos.
 
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 LadyLameness (talk) 04:54, 4 April 2022 (UTC)

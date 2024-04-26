@@ -137,7 +137,7 @@ Ver
 ## Otros
 Los oyentes hombren se dejan crecer la barba, en la que trenzan gemas infundidas con [[Luz tormentosa\|luz tormentosa]].
 Los oyentes aprendieron a capturar spren en gemas observando a los humanos y, después, dedujeron el proceso por sí mismos. Esto les permitió cambiar de forma de manera mucho más fiable. Antes, el procedimiento tenía el riesgo de que, al capturar el spren para la forma que querían, un oyente terminara en una forma que no deseaba.
-Gavilar creía que los humanos habían robado la capacidad de transformación de los parshmenios al capturar "un spren antiguo y *crucial*" en una gema.
+Gavilar creía que los humanos habían robado la capacidad de transformación de los parshmenios al capturar «un spren antiguo y *crucial*» en una gema. Esta creencia es correcta; la existencia de la forma esclava se debe a la captura de Ba-Ado-Mishram.
 El idioma oyente proviene del [[Canto del alba\|canto del alba]] y está relacionado con los idiomas [[Shinovar\|shin]] y [[Unkalaki\|unkalaki]].
 Los oyentes crecen más rápido que los humanos, siendo capaces de cantar canciones a la edad de 3 años y siendo considerados adultos con 10.
 

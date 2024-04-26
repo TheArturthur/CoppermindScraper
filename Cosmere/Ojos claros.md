@@ -28,8 +28,11 @@ Un **ojos claros** es una persona que tiene los ojos de colores y tonalidades cl
 
 5. [[#Primer dahn]] 
 5. [[#Segundo dahn]] 
+
 5. [[#Alezkar]] 
 5. [[#Jah Keved]] 
+
+
 5. [[#Tercer dahn]] 
 5. [[#Cuarto dahn]] 
 5. [[#Octavo dahn]] 
@@ -62,7 +65,7 @@ Se conjetura que la distinción entre ojos claros y ojos oscuros tiene su origen
 |**Dahn**|**Gente dentro del rango**|
 |-|-|
 |1.er|Monarca reinante|
-|2.º|Altos príncipes, sus herederos directos y el heredero directo del rey.|
+|2.º|Altos príncipes, sus herederos directos y el heredero directo del monarca.|
 |3.er|*Generales*, altos señores y los hijos no herederos de los ojos claros del primer o el segundo dahn.|
 |4.º|Jefes de batallón y/o portadores de esquirlada.|
 |5.º|*Jefes de compañía*|
@@ -102,7 +105,7 @@ Rey [[Valam\|Valam]], antiguo rey de Jah Keved
 Rey [[Taravangian\|Taravangian]], antiguo rey de Jah Keved, y [[Kharbranth\|Kharbranth]].
 Reina [[Fen Rnamdi\|Fen Rnamdi]], reina de [[Thaylenah\|Thaylenah]].
 ### Segundo dahn
-### Alezkar
+#### Alezkar
 Reina [[Navani Kholin\|Navani Kholin]], reina de Urithiru.
 Reina [[Aesudan Kholin\|Aesudan Kholin]], reina de Alezkar.}
 Príncipe [[Gavinor Kholin\|Gavinor Kholin]], heredero de Alezkar.
@@ -114,7 +117,7 @@ Alto príncipe [[Bethab\|Bethab]].
 Alto príncipe [[Hatham\|Hatham]], [[Alto Pr%C3%ADncipe de Obras\|Alto Príncipe de Obras]].
 Alto príncipe [[Turinad Sebarial\|Turinad Sebarial]], [[Alto Pr%C3%ADncipe de Comercio\|Alto Príncipe de Comercio]].
 Alto príncipe [[Relis Ruthar\|Relis Ruthar]].
-### Jah Keved
+#### Jah Keved
 [[Abrial\|Abrial]]
 [[Boriar\|Boriar]]
 [[Evinor\|Evinor]]

@@ -1,30 +1,33 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mapas**|
 |-|-|
 ||
 |**Fallecido**|Tanataches 1173|
-|**Oficio**|Bridgeman|
-|**Grupo**|[[Bridge Four\|Bridge Four]]🐱︎, Ejército de Sadeas|
+|**Oficio**|Hombre del puente|
+|**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas|
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“*And all the world was shattered. The rocks trembled with their steps, and the stones reached towards the heavens. We die! We die!*”
-\-Maps's Death Rattle[1]
+>“*¡Y todo el mundo se quebró! Las rocas temblaron con sus pasos, y las piedras se alzaron hacia los cielos. ¡Morimos! ¡Morimos!*”
+\-Susurro de muerte de Mapas[1]
 
 
-**Maps** is a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
+**Mapas** es un miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-Maps is flat-faced and balding, and has thick eyebrows and a bushy beard. Although he is initially apathetic like most bridgemen, he becomes gregarious and well-liked, and is able to put other people at ease.
-"Maps" is a nickname that comes from a birthmark on his chest that he swears is an exact map of [[Alethkar\|Alethkar]], although Kaladin does not see the resemblance. His real name is unknown.
+## Apariencia y personalidad
+Maps tiene la cara plana y se está quedando calvo, luce cejas pobladas y una barba espesa. Aunque al principio se muestra apático, como la mayoría de los hombres del puente, se vuelve gregario y simpático, siendo capaz de tranquilizar a los demás.
+«Mapas» es un apodo que proviene de una marca de nacimiento que tiene en el pecho y que él jura que es un mapa exacto de [[Alezkar\|Alezkar]], aunque Kaladin no ve el parecido. Se desconoce su verdadero nombre.
 
-## History
-  Showing off his birthmark to <<Kaladin\|Kaladin>>, , and <<Sigzil\|Sigzil>>
-Maps was among the members of Bridge Four that Kaladin met in his early days as a bridgeman. He was not one of the first to accept Kaladin's leadership. However, he was drawn to camaraderie and soon became one of Kaladin's supporters. After Kaladin's judgement in the [[Highstorm\|highstorm]], Maps gave a brief speech addressing Bridge Four. He expressed support for Kaladin and presented  with his razor; the other bridgemen appreciated him speaking up. However, he was skeptical when Kaladin later brought up the idea of an escape attempt.
-Maps continued to become more relaxed and friendly around the group, and encouraged others to talk. He was among the bridgemen that figured out that [[Sigzil\|Sigzil]] was a , and asked him to tell the men a tale while they were on chasm duty, much to Sigzil's chagrin.
-He died during the fifth battle in which [[Dalinar\|Dalinar]] and [[Torol Sadeas\|Torol Sadeas]] cooperated, taking a [[Parshendi\|Parshendi]] arrow through the lung and into his spine. Kaladin attempted to perform emergency surgery, but was unable to save him. He was one of the people that Kaladin thought about before swearing the  of the .
+## Historia
+  Mostrando su marca de nacimiento a <<Kaladin\|Kaladin>>, <<Roca\|Roca>> y <<Sigzil\|Sigzil>>.
+Mapas fue uno de los miembros del Puente Cuatro que Kaladin conoció en sus primeros días como hombre del puente. No fue uno de los primeros en aceptar el liderazgo de Kaladin. Sin embargo, se sintió atraído por la camaradería y pronto se convirtió en uno de los partidarios de Kaladin. Tras el juicio de Kaladin en la [[Alta tormenta\|alta tormenta]], Mapas pronunció un breve discurso dirigiéndose al Puente Cuatro. Expresó su apoyo a Kaladin y obsequió a [[Roca\|Roca]] con su navaja; los demás hombres del puente agradecieron que hablase claro. Sin embargo, se mostró escéptico cuando Kaladin planteó más tarde la idea de un intento de fuga.
+Mapas siguió volviéndose más relajado y amistoso en el grupo y animó a los demás a hablar. Fue uno de los que se dieron cuenta de que [[Sigzil\|Sigzil]] era un [[Cantamundos\|cantamundos]], y le pidieron que les contase una historia mientras estaban de guardia en el abismo, para disgusto de Sigzil.
+Murió durante la quinta batalla en la que [[Dalinar\|Dalinar]] y [[Torol Sadeas\|Torol Sadeas]] cooperaron, recibiendo una flecha [[Parshendi\|parshendi]] que le atravesó el pulmón y se clavó en la columna vertebral. Kaladin intentó realizar una cirugía de emergencia, pero no pudo salvarlo. Fue una de las personas en las que Kaladin pensó antes de jurar el [[Palabras Inmortales\|Segundo Ideal]] de los [[Corredores del Viento\|Corredores del Viento]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 20:30, 8 November 2020 (UTC)
