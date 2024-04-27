@@ -9,6 +9,7 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Hace días que no paso hambre, mi señor. Es la sensación más sorprendente del mundo... ni siquiera noto ya el dolor.*”
 \-Kahar, tras descubrir el "secreto" de Raoden"[1]

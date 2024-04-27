@@ -6,12 +6,13 @@
 |**Capacidades**|[[Alomancia\|Nacido de la bruma]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El und%C3%A9cimo metal\|El undécimo metal]]*|
 
 >“*Estoy aquí para enseñarte a luchar, no a hablar.*”
 \-Gemmel sobre su entrenamiento a Kelsier[1]
 
 
-**Gemmel** es el [[Alomancia\|nacido de la bruma]] que formó a [[Kelsier\|Kelsier]] en las artes [[Alomancia\|alománticas]].
+**Gemmel** es el [[Alomancia\|nacido de la bruma]] que formó a [[Kelsier\|Kelsier]] en la [[Alomancia\|alomancia]].
 
 ## Sumario
 
@@ -33,18 +34,18 @@
 
 
 ## Apariencia y personalidad
-Gemmel es escuálido y tiene una barba gris raída y el pelo desordenado. Como la mayoría de los nacidos de la bruma, lleva una [[Capa de brumas\|capa de brumas]] en sus escapadas nocturnas. 
-El anciano no está completamente cuerdo, murmura para sí mismo y a veces parece más bestia que hombre. Gemmel cree que las sonrisas forzadas de Kelsier parecen espeluznantes, y a menudo deja de hablar en medio de una discusión. Según Kelsier, Gemmel no entiende el humor, ni le gusta que su pupilo intente tomar el control.
+Gemmel es escuálido y tiene una barba gris raída y el pelo desordenado. Como la mayoría de los , lleva una [[Capa de brumas\|capa de brumas]] en sus escapadas nocturnas. 
+El anciano no está completamente cuerdo, murmura para sí mismo y a veces parece más bestia que hombre. Gemmel cree que las sonrisas forzadas de [[Kelsier\|Kelsier]] parecen espeluznantes, y a menudo deja de hablar en medio de una discusión. Según Kelsier, Gemmel no entiende el humor, ni le gusta que su pupilo intente tomar el control.
 Es probable que sea un [[Skaa\|skaa]] mestizo.
 
 ## Atributos y habilidades
-Gemmel es unnacido de la bruma con una habilidad decente que prefiere utilizar empujones de acero y otros ataques físicos alománticos. No le gusta tanto utilizar otros metales, como el cinc y el latón.
+Gemmel es un  con una habilidad decente que prefiere utilizar empujones de [[Acero\|acero]] y otros ataques físicos [[Alomancia\|alománticos]]. No le gusta tanto utilizar otros metales, como el [[Cinc\|cinc]] y el [[Lat%C3%B3n\|latón]].
 
 ## Historia
 ### Fortaleza Shezler
-Sólo tres meses después de que Kelsier escapara de los [[Pozos de Hathsin\|Pozos de Hathsin]], él y Gemmel visitan [[Mantiz\|Mantiz]] para infiltrarse en la [[Fortaleza Shezler\|fortaleza Shezler]]. En su camino hacia allí hablan un poco sobre el pasado de Kelsier, y todo el tiempo Gemmel sigue formando a su alumno, lo que incluye atacarlo.
+Sólo tres meses después de que [[Kelsier\|Kelsier]] escapara de los [[Pozos de Hathsin\|Pozos de Hathsin]], él y Gemmel visitan [[Mantiz\|Mantiz]] para infiltrarse en la [[Fortaleza Shezler\|fortaleza Shezler]]. En su camino hacia allí hablan un poco sobre el pasado de Kelsier, y todo el tiempo Gemmel sigue formando a su alumno, lo que incluye atacarlo.
 Al llegar a la fortaleza, Gemmel sube al tejado para tener una mejor vista, matando a algunos guardias por el camino. Cuando ha echado un buen vistazo a los alrededores y Kelsier le ha alcanzado, Gemmel lanza a su pupilo desde el tejado. Una vez abajo de nuevo, atraviesan los terrenos de la fortaleza hasta llegar a un edificio que parece un cobertizo para el mantenimiento de los terrenos, y Gemmel vuelve a matar a un par de guardias, sin importarle que esto pueda revelarlos a los dos. En el cobertizo, encuentran una escalera para bajar, y Gemmel le hace señas a Kelsier para que vaya primero.
-En el sótano, Kelsier comienza a moverse sigilosamente por la habitación, pero Gemmel entra sin ningún intento de pasar desapercibido. En la siguiente habitación, encuentran media docena de [[Skaa\|skaa]] atados y Kelsier comienza a atenderlos, pero es interrumpido cuando [[Antillius Shezler\|Antillius Shezler]], el [[Noble\|noble]] de la fortaleza y también un nacido de la bruma, grita y le dispara una moneda. Kelsier consigue matar a Shezler sin ayuda de Gemmel, que ve esto como una oportunidad de entrenamiento. Cuando Kelsier vuelve con los skaa cautivos, Gemmel está hojeando uno de los cuadernos de Shezler que contiene teorías y supersticiones sobre un [[Malatium\|Undécimo Metal]]. Kelsier coge este libro antes de marcharse, y Gemmel se embolsa un tenedor.
+En el sótano, Kelsier comienza a moverse sigilosamente por la habitación, pero Gemmel entra sin ningún intento de pasar desapercibido. En la siguiente habitación, encuentran media docena de [[Skaa\|skaa]] atados y Kelsier comienza a atenderlos, pero es interrumpido cuando [[Antillius Shezler\|Antillius Shezler]], el [[Noble\|noble]] de la fortaleza y también un , grita y le dispara una moneda. Kelsier consigue matar a Shezler sin ayuda de Gemmel, que ve esto como una oportunidad de entrenamiento. Cuando Kelsier vuelve con los [[Skaa\|skaa]] cautivos, Gemmel está hojeando uno de los cuadernos de Shezler que contiene teorías y supersticiones sobre un [[Malatium\|Undécimo Metal]]. Kelsier coge este libro antes de marcharse, y Gemmel se embolsa un tenedor.
 
 ## Relaciones
 ### Kelsier
@@ -54,7 +55,7 @@ En el sótano, Kelsier comienza a moverse sigilosamente por la habitación, pero
 Gemmel es el mentor de [[Kelsier\|Kelsier]] en las artes alománticas. Su formación se centra principalmente en los metales de empuje y tirón, [[Acero\|acero]] y [[Hierro\|hierro]] respectivamente, pero también ayuda a Kelsier a pensar como un alomante, por ejemplo presionándole para que los ocho metales básicos ardan constantemente. Con frecuencia pone a su pupilo en escenarios de vida o muerte, como empujarlo desde la muralla de la ciudad. Aunque a menudo refunfuña, Kelsier le gusta más que sus tres aprendices anteriores, y a veces incluso muestra alguna señal de respeto hacia él.
 
 ### Ruina
-Es muy probable que Gemmel posea algún clavo [[Hemal%C3%BArgico\|hemalúrgico]]. Las dos razones principales para suponerlo son que Gemmel oye una voz que nadie más oye y que parece decirle que mate a todo el que se encuentre (la voz de [[Ruina\|Ruina]]), y que las [[Brumas\|brumas]] no se sienten atraídas por él como lo están por la mayoría de los alomantes.
+Gemmel está "tocado por" Ruina, y es muy probable que Gemmel posea algún clavo [[Hemal%C3%BArgico\|hemalúrgico]]. Las dos razones principales para suponer que tiene un clavo son que Gemmel oye una voz que nadie más oye y que parece decirle que mate a todo el que se encuentre (la voz de [[Ruina\|Ruina]]), y que las [[Brumas\|brumas]] no se sienten atraídas por él como lo están por la mayoría de los alomantes.
 A través de Ruina, Gemmel conoció cosas que probablemente no podría haber averiguado por sí mismo, como ciertos aspectos sobre el pasado de Kelsier o dónde encontrar el [[Malatium\|Undécimo Metal]]. La influencia de Ruina también afecta a la personalidad de Gemmel. A primera vista, sólo parece un loco, pero mucho de lo que le dice a Kelsier es muy similar a los dichos de Ruina. Esto se aplica especialmente a su respuesta sobre la pregunta sarcástica de Kelsier sobre el sentido de la vida.
 
 >“*No lo conozco. Creo que está para que podamos morir.*”
@@ -66,7 +67,7 @@ A través de Ruina, Gemmel conoció cosas que probablemente no podría haber ave
 
 
 ## Curiosidades
-Gemmel se encontró con [[Zane\|Zane]] una vez, pero ese encuentro no fue necesariamente relevante.
+Gemmel se encontró con [[Zane Venture\|Zane Venture]] una vez, pero ese encuentro no fue necesariamente relevante.
 Gemmel fue orientado a encontrar a Kelsier, probablemente por Ruina.
 Luchar contra Kelsier hasta la muerte como última parte del entrenamiento parece algo que Gemmel haría.
 ## Notas

@@ -12,8 +12,9 @@
 |**Residencia**|[[Bilming\|Bilming]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
-****> [!info] *Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!**¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.*
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 Lord **Gave Entrone** es un arqueólogo amateur en [[Nueva Seran\|Nueva Seran]] y, más tarde, el alcalde de [[Bilming\|Bilming]].
 

@@ -18,14 +18,15 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Mi pueblo necesita unirse, y yo necesito un imperio que no se deshaga en luchas intestinas cuando yo no esté.*”
-\-Gavilar[3]
+\-Gavilar a Eshonai[3]
 
 
-**Gavilar Kholin** fue el rey de [[Alezkar\|Alezkar]], una nación de [[Roshar\|Roshar]], que fue [[Asesinato de Gavilar\|asesinado]] por [[Szeth\|Szeth]] bajo las órdenes de los [[Parshendi\|parshendi]]. Era el hermano de [[Dalinar Kholin\|Dalinar Kholin]] y estaba casado con [[Navani Kholin\|Navani Kholin]], con quien tuvo dos hijos, [[Elhokar\|Elhokar]] y [[Jasnah\|Jasnah]].
+**Gavilar Kholin** e el rey de [[Alezkar\|Alezkar]], una nación de [[Roshar\|Roshar]], hasta su [[Asesinato de Gavilar\|asesinato]] por [[Szeth\|Szeth]] bajo las órdenes de los [[Parshendi\|parshendi]]. Es el hermano de [[Dalinar Kholin\|Dalinar Kholin]] y se casó con [[Navani Kholin\|Navani Kholin]], con quien tuvo dos hijos, [[Elhokar\|Elhokar]] y [[Jasnah\|Jasnah]].
 
 ## Sumario
 
@@ -80,12 +81,12 @@
 ## Apariencia y personalidad
  
 >“*Mi esposo fue un rey excelente, [...] pero no tenía un solo dedo erudito en su mano izquierda. [...] Era un hombre que seguía el ideal masculino clásico.*”
-\-De la biografía escrita por Navani de Gavilar[5]
+\-De la biografía escrita por Navani de Gavilar[6]
 
 
 Para más imágenes, ver [[Gavilar Kholin/Galer%C3%ADa\|/Galería]].
 ### Apariencia
-Gavilar tiene un aspecto regio con la barba peinada, gemas brillantes en los dedos y un uniforme de estilo moderno. Tiene rasgos fuertes, una barbilla cuadrada, barba negra con un toque de blanco y ojos verde pálido. Tiene un conjunto de armadura esquirlada de color azul brillante, que suele prestar a los demás para poder llevar un traje moderno, y lleva un circulo de hierro negro como corona.
+Gavilar tiene un aspecto regio con la barba peinada, gemas brillantes en los dedos y uniforme de estilo moderno. Tiene rasgos fuertes, una barbilla cuadrada, barba negra con un toque de blanco y ojos verde pálido. Tiene un conjunto de armadura esquirlada de color azul brillante, que suele prestar a los demás para poder llevar un traje moderno, y lleva un circulo de hierro negro como corona.
 
 ### Personalidad
 Es un hombre ambicioso que está obsesionado con el ascenso de la Casa Kholin y con eclipsar al Hacedor de Soles y su legado. Quiere liderar un reino sostenible y no pasa por alto la responsabilidad. Es un gran conocedor de la historia; tiene teorías sobre por qué el reino del Hacedor de Soles no se mantuvo, así como conocimientos sobre la historia de algunas espadas, incluida la de Juramentada, que acabaría siendo la de Dalinar. Es conocido por su habilidad política para hacer alianzas y se inclina más por engañar a sus enemigos para que se vuelvan unos contra otros, aunque no se siente culpable si su estrategia incluye el saqueo o la matanza brutal, como impulsaría su mejor amigo y consejero de confianza Torol Sadeas. Tenía tendencia a utilizar a los que le rodeaban, incluso si se preocupaba por ellos.
@@ -105,17 +106,17 @@ En algún momento antes de su muerte, Gavilar comienza a recibir [[Visiones de D
 ### Vida temprana
   Gavilar y <<Dalinar\|Dalinar>> de jóvenes
 Gavilar y Dalinar nacieron en una rama provincial de la familia Kholin, con Gavilar nació algún tiempo antes de Plantilla:Roshariano date.. Su madre murió cuando él y su hermano eran pequeños, y su padre se ausentó de su vida y pasó su tiempo batiéndose en duelos. Después de que su padre sufriera una lesión permanente en la cabeza en un duelo, Gavilar asumió un papel paternal para su hermano menor Dalinar, enseñándole cosas como la forma de afeitarse. 
-Gavilar era sólo de cuarto dahn, y no se le consideraba un contendiente serio para el alto príncipe. Conquistó el [[Principado Kholin\|principado Kholin]], matando a algunos de sus parientes y tomando el título de alto príncipe para sí mismo. 
+Gavilar era sólo de cuarto dahn, y no se le consideraba un contendiente serio para el alto príncipe. Con el tiempo conquistó el [[Principado Kholin\|principado Kholin]], matando a algunos de sus parientes y tomando el título de alto príncipe para sí mismo. 
 Desde el principio, Gavilar contó con el apoyo de su hermano. Dalinar solía presentar a Gavilar a personas que creía que debía conocer. Esto provocó cierta confusión cuando Dalinar presentó a Gavilar y [[Navani\|Navani]]. Su hermano lo hizo porque deseaba cortejar él mismo a Navani, pero Gavilar creyó que Dalinar pretendía que la cortejara él.
 
 ### Unificación de Alezkar
 [[Dalinar Kholin\|Dalinar Kholin]] recuerda el comienzo de la guerra como él y Gavilar queriendo «cosas» que otros tenían y luchando para conseguir estas «cosas». Gavilar nunca refutó esa historia al principio, pero, hacia la época de la batalla en Rathalas, miraba más hacia la construcción de un reino que significara algo. Esto parece estar relacionado con el nacimiento de su primera hija [[Jasnah\|Jasnah]].
-Gavilar, Sadeas y Dalinar dirigieron la guerra. Gavilar reclamó el trono e hizo alianzas; [[Torol Sadeas\|Torol Sadeas]] se ocupó de los problemas y Dalinar ganó batallas. Gavilar se inclinaba más por una estrategia que enfrentara a los altos príncipes entre sí. Sadeas, sin embargo, le empujó hacia la brutalidad; no parecía preocuparse si sus tropas saqueaban una ciudad. Se da a entender que la guerra fue muy larga y sangrienta, pero Gavilar acabó ganándola tras derrotar al alto príncipe Kalanor, que fue empujado a la batalla después de que las fuerzas de Gavilar saquearan sus aldeas y mataran a todos los pacificadores.
+Gavilar, [[Sadeas\|Sadeas]] y Dalinar dirigieron la guerra. Gavilar reclamó el trono e hizo alianzas; [[Torol Sadeas\|Torol Sadeas]] se ocupó de los problemas y Dalinar ganó batallas. Gavilar se inclinaba más por una estrategia que enfrentara a los altos príncipes entre sí. Sadeas, sin embargo, le empujó hacia la brutalidad; no parecía preocuparse si sus tropas saqueaban una ciudad. Se da a entender que la guerra fue muy larga y sangrienta, pero Gavilar acabó ganándola tras derrotar al alto príncipe Kalanor, que fue empujado a la batalla después de que las fuerzas de Gavilar saquearan sus aldeas y mataran a todos los pacificadores.
 Hacia el final de la guerra, Gavilar empezó a hablar de los [[C%C3%B3digos de Guerra Alezi\|Códigos de Guerra Alezi]], probablemente después de que empezara a recibir las [[Visiones de Dalinar\|visiones]] del [[Padre Tormenta\|Padre Tormenta]].
 
 ### Gobernando Alezkar
 >“*Es justo el hombre que necesitamos. Lo bastante duro para encabezar una guerra y lo bastante blando para ser amado en tiempos de paz. Es previsor y sabio.*”
-\-Sadeas sobre Gavilar[24]
+\-Sadeas sobre Gavilar[25]
 
 Tras ganar la guerra, Gavilar subió al trono como rey de [[Alezkar\|Alezkar]]. Gavilar demostró ser un líder competente; se aseguró de que la visión fuera hacia un reino unificado, y la política fue la principal herramienta para lograrlo. Quería asegurarse de que Elhokar fuera capaz de mantenerlo unido sin necesidad de «apagar fuegos».
 No era blando, pero enfocaba las cosas de forma diferente, utilizando la propaganda, hablando con los herederos de los altos príncipes sobre proyectos cívicos, censurando a Dalinar y Sadeas por la pérdida de la Grieta, e incluso la aproximación inicial hacia los rebeldes, tratando de asustarlos luchando en las fronteras. Algunos altos príncipes lo consideraban blando o débil, pero podía ser duro; algunos ejemplos son su decepción al saber que Dalinar había perdonado al heredero de [[Tanalan\|Tanalan]] o la forma en que hablaba de atacar [[Herdaz\|Herdaz]] o [[Jah Keved\|Jah Keved]].
@@ -146,7 +147,7 @@ Al final de su vida, creyó que lo estaban vigilando. Gavilar esperaba un atenta
 
 ### Legado
 >“*Gavilar el Majestuoso, primer rey de Alezkar en la nueva dinastía Kholin, trigésimo segundo alto príncipe del principado Kholin, descendiente del Hacedor de Soles y bendecido por el Todopoderoso. Sus hazañas se elogiarán y su dominio no dejará de extenderse.*”
-\-Discurso en el sagrado sepelio de Gavilar[4]
+\-Discurso en el sagrado sepelio de Gavilar[5]
 
 
 En su sagrado sepelio, Gavilar fue alabado por la fervorosa encargada de presidirlo. Su cuerpo fue moldeado en una escultura de piedra. En el entierro, los altos príncipes alezi juraron el [[Pacto de la Venganza\|Pacto de la Venganza]] y se disponían a luchar en la [[Guerra de la Venganza\|Guerra de la Venganza]] para vindicar su muerte.
@@ -167,7 +168,7 @@ El propio Elhokar recordaba a Gavilar como un rey perfecto al que nunca llegarí
 
 #### Navani Kholin
 >“*No tienes ninguna fama, ningún logro, ninguna capacidad propia. Todo lo que te distingue de los demás procede de alguna otra persona.*”
-\-Gavilar a Navani[34]
+\-Gavilar a Navani[4]
 
 
 Aunque él y su esposa Navani estuvieron una vez muy unidos y tramaron juntos la conquista de Alezkar, cuando Navani hablaba con pasión de su investigación sobre los spren, Gavilar simplemente la ignoraba. Más adelante, a medida que Gavilar desarrollaba objetivos más ambiciosos, dejó de incluir a Navani en sus planes. La dejó sola en las tareas públicas de la monarquía y le dijo en repetidas ocasiones que no valía nada, además de despreciar sus pasiones y su inteligencia.
@@ -180,7 +181,7 @@ Jasnah se interesa mucho por los cambios cerca del final de su vida.
 
 ### Sadees el Hacedor de Soles
 >“*Confío en que mis logros no sean tan efímeros como los suyos.*”
-\-Gavilar a Toh en referencia al Hacedor de Soles[6]
+\-Gavilar a Toh en referencia al Hacedor de Soles[7]
 
 
 Durante sus conquistas y su reinado, Gavilar buscó la orientación del [[Hacedor de Soles\|Hacedor de Soles]]. Aunque el Hacedor de Soles es venerado por la mayoría de Alezkar por haber creado un imperio unido, Gavilar tenía una visión más negativa de él. Gavilar culpaba de la destrucción del imperio del Hacedor de Soles a su avaricia y a su incapacidad para estar satisfecho con lo que conquistó. Esperaba poder crear un imperio más duradero y eclipsar al Hacedor de Soles en los corazones y mentes de la gente.

@@ -4,11 +4,13 @@
 |**Aviar de Gereh**|
 |-|-|
 ||
+|**Capacidades**|[[Saltamundos\|Saltamundos]]|
 |**Vinculado con**|[[Gereh\|Gereh]] , [[Lift\|Lift]]|
 |**Especie**|[[Aviar\|Aviar]]|
 |**Residencia**|[[Urithiru\|Urithiru]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **aviar de Gereh** es un [[Aviar\|aviar]] en [[Roshar\|Roshar]]. Fue propiedad de [[Gereh\|Gereh]] anteriormente pero tras su muerte es rescatado por [[Lift\|Lift]], con quien vive en la actualidad.
@@ -28,8 +30,8 @@ Es extremadamente leal a Gereh e insiste en regresar con él. Rápidamente perci
 ## Atributos y habilidades
 El aviar de Gereh tiene habilidades mentales. Sin embargo, este talento es desconocido, y es posible que haya sido afectado de alguna manera por su viaje a Roshar. El pájaro es muy inteligente y tiene un sentido de la ubicación de la persona a la que está vinculado. En cierto grado, puede entender y comunicarse con los humanos.
 
-  Con <<Lift\|Lift>>
 ## Historia
+  Con <<Lift\|Lift>>
 El origen del aviar de Gereh está en [[Primero del Sol\|Primero del Sol]]. [[Gereh\|Gereh]] o bien aún no lo había obtenido o no lo tenía habitualmente con él durante sus deberes como mayordomo en [[Kholinar\|Kholinar]]; sin embargo, sobre 1175 ya lo tenía con él en [[Urithiru\|Urithiru]]. Durante la estancia de la pareja allí, [[Mraize\|Mraize]] asesinó a Gereh por razones desconocidas. El propio aviar de Mraize intentó matar al aviar de Gereh, hiriéndolo gravemente. [[Lift\|Lift]] defendió al aviar de Gereh y lo curó con [[Luz tormentosa\|luz tormentosa]], salvando su vida. El aviar entonces la guió a través de Urithiru hasta el cadáver de Gereh. Lamentó su pérdida hasta que Mraize y su aviar entraron en la habitación, momento en el que Lift huyó con el aviar de Gereh. Durante la captura y encarcelamiento de Lift, perdió el rastro del aviar; comenzó a buscarlo de nuevo inmediatamente después de ser liberada. Para cuando terminó la ocupación de la torre, Lift había logrado volver a conectarse con el aviar, y ella y [[Wyndle\|Wyndle]] lo acogieron.
 
 ## Notas

@@ -8,9 +8,11 @@
 |**Oficio**|[[Fervoroso\|Fervoroso]], asesino|
 |**Religión**|[[Vorinismo\|Vorinismo]]🐱︎|
 |**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎[[Devotarios\|Devotario del Conocimiento]]|
+|**Residencia**|[[Kharbranth\|Kharbranth]]|
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Kabsal** es un miembro encubierto de los [[Sangre Espectral\|Sangre Espectral]] infiltrado como [[Fervoroso\|fervoroso]] del Devotario del Conocimiento. Vive en el [[Palaneo\|Palaneo]] de [[Kharbranth\|Kharbranth]], en [[Roshar\|Roshar]].
 
@@ -20,8 +22,8 @@
 2 Historia. [[#Historia]] 
 3 Relaciones. [[#Relaciones]] 
 
-3. [[#Shallan]] 
-3. [[#Jasnah]] 
+3. [[#Shallan Davar]] 
+3. [[#Jasnah Kholin]] 
 
 
 4 Curiosidades. [[#Curiosidades]] 
@@ -30,8 +32,8 @@
 
 ## Apariencia y personalidad
  
-Kabsal tiene poco más de veinte años y viste la sencilla túnica gris de fervoroso. Tiene el rostro afilado, la cabeza afeitada y una barba corta y cuadrada. Sus ojos son azules y agudos. Es alto, delgado y «bastante guapo». Se describe su forma de hablar como culta y con un ligero acento herdaziano.
-Es listo, capaz de igualar en intelecto a Shallan y de hacer bromas parecidas a su sentido del humor. Es mucho más relajado que los otros fervorosos que Shallan ha conocido, capaz de participar en conversaciones más ligeras con Shallan, así como en intercambios más teológicos. Para Shallan, parece alguien seguro y sincero, aunque en realidad es un mentiroso muy convincente. En su identidad falsa como fervoroso, es poco tradicional, con comportamientos que los fervorosos no compartirían, como maldecir o intentar reclutar gente para su devotario. Shallan opina que estos comportamientos son extraños pero entrañables.
+Kabsal tiene poco más de veinte años y viste la sencilla túnica gris de fervoroso. Tiene el rostro afilado, la cabeza afeitada y una barba corta y cuadrada. Sus ojos son azules y agudos. Es alto, delgado y «bastante guapo». Se describe su forma de hablar como culta y con un ligero acento [[Herdaz\|herdaziano]].
+Es listo, capaz de igualar en intelecto a [[Shallan Davar\|Shallan Davar]] y de hacer bromas parecidas a su sentido del humor. Es mucho más relajado que los otros fervorosos que Shallan ha conocido, capaz de participar en conversaciones más ligeras con Shallan, así como en intercambios más teológicos. Para Shallan, parece alguien seguro y sincero, aunque en realidad es un mentiroso muy convincente. En su identidad falsa como fervoroso, es poco tradicional, con comportamientos que los fervorosos no compartirían, como maldecir o intentar reclutar gente para su devotario. Shallan opina que estos comportamientos son extraños pero entrañables.
 
 ## Historia
 En algún momento antes de 1174, Kabsal se unió a los [[Sangre Espectral\|Sangre Espectral]] y se infiltró como [[Fervoroso\|fervoroso]] en el [[Palaneo\|Palaneo]]. En diversas ocasiones solicitó una audiencia con [[Jasnah Kholin\|Jasnah Kholin]], pero no se la concedieron. Cuando acudió a la sala de lectura de Jasnah, conoció a [[Shallan Davar\|Shallan Davar]], que también esperaba a Jasnah, y alabó su arte, además de animarla a tratarlo con menor formalidad. Tras pedirle a Shallan que le hablara a Jasnah de él, manifestó la esperanza de volver a verla, y se marchó.
@@ -49,15 +51,15 @@ Cuando visita a Shallan en el hospital tras su fingido intento de suicido, consi
 
 ## Relaciones
  
-### Shallan
+### Shallan Davar
 >“*Los fervorosos al servicio de su padre eran todos hombres o mujeres curtidos de mediana edad, mirada severa e impacientes con los niños. Nunca había considerado que los devotarios atrajeran a hombres jóvenes como Kabsal. Durante estas últimas semanas, había empezado a pensar en él de formas que sería mejor evitar.*”
 \-Shallan pensando en Kabsal[5]
 
 
-Kabsal y Shallan congenian muy bien, ya que ambos tienen un sentido del humor seco e ingenioso y disfrutan con sus intercambios verbales. Shallan opina que Kabsal es muy atractivo, pero se muestra reticente cuando se ofrece a dejar el fervor por ella. Y aunque a menudo comenta la incorrección de Kabsal al decir palabrotas o se muestra demasiado informal, en el fondo no le importa. Disfruta de su intelecto y de su humor y lo ve como una fuente potencial de información sobre el moldeado de almas. Él parece disfrutar de la compañía de Shallan e intenta salvarle la vida cuando come el pan envenenado.
+Kabsal y [[Shallan\|Shallan]] congenian muy bien, ya que ambos tienen un sentido del humor seco e ingenioso y disfrutan con sus intercambios verbales. Shallan opina que Kabsal es muy atractivo, pero se muestra reticente cuando se ofrece a dejar el fervor por ella. Y aunque a menudo comenta la incorrección de Kabsal al decir palabrotas o se muestra demasiado informal, en el fondo no le importa. Disfruta de su intelecto y de su humor y lo ve como una fuente potencial de información sobre el moldeado de almas. Él parece disfrutar de la compañía de Shallan e intenta salvarle la vida cuando come el pan envenenado.
 
-### Jasnah
-Kabsal utiliza su relación con Shallan para acercarse a Jasnah, pero ella sospecha de él y se muestra hostil. Le dice a Shallan que Kabsal está intentando robar su moldeador de almas, y Kabsal le hace creer a Shallan que quiere ser él quien consiga convertir a Jasnah al vorinismo.
+### Jasnah Kholin
+Kabsal utiliza su relación con Shallan para acercarse a [[Jasnah\|Jasnah]], pero ella sospecha de él y se muestra hostil. Le dice a Shallan que Kabsal está intentando robar su moldeador de almas, y Kabsal le hace creer a Shallan que quiere ser él quien consiga convertir a Jasnah al [[Vorinismo\|vorinismo]].
 
 ## Curiosidades
 Sabe cómo aplicar barniz a un dibujo.

@@ -7,14 +7,15 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Gran Hexi** es una pequeña nación en el sur de [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
+**Gran Hexi** es una nación en el sur de [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
 
 ## Sumario
 
 1 Geografía. [[#Geograf.C3.ADa]] 
 2 Política y cultura. [[#Pol.C3.ADtica y cultura]] 
 3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
 ## Geografía
@@ -32,6 +33,8 @@ Por el momento, se desconoce si existe un "Hexi Menor", o algún equivalente. Si
 ## Historia
 En el año 1168, [[Dalinar\|Dalinar]] lleva un pequeño contingente de soldados a Hexi cuando visita a la [[Vigilante Nocturna\|Vigilante Nocturna]]. Viajan con una caravana hasta que están cerca del [[Valle\|Valle]].
 
+## Curiosidades
+Con 454.000 km, se encuentra entre  y  en extensión.
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

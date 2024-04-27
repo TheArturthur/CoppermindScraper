@@ -7,6 +7,7 @@
 |**Especie**|[[Aviar\|Aviar]]|
 |**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
 
 **Kokerlii** es un [[Aviar\|aviar]] en [[Primero del Sol\|Primero del Sol]]. Es propiedad del [[Trampero\|trampero]] [[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] y vive con él en la isla de [[Patji (isla)\|Patji]] en el [[Pante%C3%B3n\|Panteón]].
 

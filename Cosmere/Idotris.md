@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[La esperanza de Elantris\|La esperanza de Elantris]]*|
 
 **Idotris** es un [[Elantrino\|elantrino]] que vive en [[Nueva Elantris\|Nueva Elantris]] en [[Sel\|Sel]] durante el periodo de la incompleta [[Shaod\|Shaod]].
 

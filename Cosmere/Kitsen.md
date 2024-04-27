@@ -3,11 +3,10 @@
 
 |**Kitsen**|
 |-|-|
+||
 |**Racional**|Sí|
 |**Mundo de origen**||
 |**Universo**|[[Citoverso\|Citoverso]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

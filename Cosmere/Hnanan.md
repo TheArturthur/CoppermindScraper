@@ -8,6 +8,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Has matado a un rey. ¿Harías lo mismo a un dios?*”
 \-Hnanan a Moash[1]

@@ -7,6 +7,7 @@
 |**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
@@ -14,7 +15,7 @@
 \-Hoid[1]
 
 
-La **inspectora** es la inspectora real destinada en [[Punta de Diggen\|Punta de Diggen]] en [[Lumar\|Lumar]]. Sus funciones incluyen comprobar la autenticidad de las órdenes de comisión y buscar polizones en los cargamentos salientes.
+**Inspectora** es el cargo actual de la inspectora real destinada en [[Punta de Diggen\|Punta de Diggen]] en [[Lumar\|Lumar]]. Sus funciones incluyen comprobar la autenticidad de las órdenes de comisión y buscar polizones en los cargamentos salientes. Insiste en que la gente de Punta de Diggen use su título como su nombre.
 
 ## Apariencia y personalidad
 >“*Parecía demasiado severa para ser humana del todo. Como si en vez de nacer se hubiera materializado y en vez de crecer hubiera metastatizado.*”
@@ -28,8 +29,8 @@ No está claro si la inspectora seguía ocupando el puesto en Punta de Diggen cu
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+MrMrDUCK (talk) 08:29, 16 de marzo de 2024 (UTC)
 |**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
 |-|-|
 |**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|

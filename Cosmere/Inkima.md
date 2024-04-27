@@ -7,10 +7,12 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 La [[Brillante se%C3%B1ora\|brillante señora]] **Inkima** es una mujer de Roshar que vivía en los campamentos de guerra [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]].
-Acompaña a [[Jakamav\|Jakamav]] a una cata de vinos en el [[Mercado Exterior\|Mercado Exterior]] con [[Adolin Kholin\|Adolin Kholin]] y varios otros [[Ojos claros\|ojos claros]]. Más tarde, Adolin la invita a ella y a Jakamav a un segundo bar de vinos, pero fue rechazado debido al mal carácter del Kholin tras la [[Batalla de la Torre\|Batalla de la Torre]].
+Acompaña a [[Jakamav\|Jakamav]] a una cata de vinos en el [[Mercado Exterior\|Mercado Exterior]] con [[Adolin Kholin\|Adolin Kholin]] y varios otros [[Ojos claros\|ojos claros]] (incluyendo a [[Danlan Morakotha\|Danlan Morakotha]], [[Toral\|Toral]] e ) Más tarde, Adolin la invita a ella y a Jakamav a un segundo bar de vinos, pero fue rechazado debido al mal carácter del [[Kholin\|Kholin]] tras la [[Batalla de la Torre\|Batalla de la Torre]].
 Inkima es una mujer regordeta de ojos amarillos y pelo teñido de negro, lo que indica que probablemente no sea de pura sangre alezi. El color rojo no le sentaba bien a Inkima, en opinión de Adolin. Tiene una risa tintineante que a Adolin le resulta odiosa. Inkima parece estar encantada con Jakamav y se ríe de todo lo que dice.
+Es una conocida del príncipe Adolin Kholin, y acompañó a Toral y a otros jóvenes ojos claros (entre ellos Danlan Morakotha, Jakamav e Inkima).
 
 
 Imágenes de Inkima

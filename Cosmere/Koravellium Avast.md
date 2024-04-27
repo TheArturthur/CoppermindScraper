@@ -7,13 +7,14 @@
 |**Títulos**|[[Cultivaci%C3%B3n\|Cultivación]], Madre del Mundo, Aquella que Trae los Rocíos al Alba|
 |**Apodos**|Koravari, *Slammer*|
 |**Especie**|[[Drag%C3%B3n (Cosmere)\|Dragón (Cosmere)]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Todas las cosas deben cultivarse.*”
 \-Koravellium Avast.[5]
 
-**Koravellium Avast**, también conocida como **Aquella Que Trae los Rocíos al Alba** y **Koravari**, es la Recipiente original , y actual, de la [[Esquirla\|Esquirla]] [[Cultivaci%C3%B3n\|Cultivación]].
+**Koravellium Avast**, también conocida como **Aquella Que Trae los Rocíos al Alba** y **Koravari**, es la [[Recipiente\|Recipiente]] original y actual de la [[Esquirla\|Esquirla]] [[Cultivaci%C3%B3n\|Cultivación]].
 
 ## Sumario
 
@@ -39,17 +40,17 @@ Para más imágenes, ver [[Koravellium Avast/Galer%C3%ADa\|/Galería]].
 \-Dalinar.[5]
 
 
-Antes de su Ascensión, Koravellium era una [[Drag%C3%B3n (Cosmere)\|dragona]]; sin embargo, parece tener preferencia por la forma humana cuando interactúa con otros como Esquirla. Cuando habla con la gente, normalmente adquiere la apariencia de una mujer de tez oscura con una complexión matronal, con la cara redonda y una melena negra muy rizada. Lleva un amplio vestido marrón que parece fundirse con la maleza y tiene una voz que se describe como el sonido de las piedras moviéndose.
+Antes de su Ascensión, Koravellium era una [[Drag%C3%B3n (Cosmere)\|dragona]]; sin embargo, parece tener preferencia por la forma humana cuando interactúa con otros como [[Esquirla\|Esquirla]]. Cuando habla con la gente, normalmente adquiere la apariencia de una mujer de tez oscura con una complexión matronal, con la cara redonda y una melena negra muy rizada. Lleva un amplio vestido marrón que parece fundirse con la maleza y tiene una voz que se describe como el sonido de las piedras moviéndose.
 Parece ser bastante calculadora y cautelosa, y prefiere preparar las cosas desde un segundo plano en lugar de actuar directamente, probablemente debido a que ha visto de primera mano lo que le ocurre a las Esquirlas que se enfrentan a Odium de frente. Es muy reservada y secretista, alejandose de la gente y ocultandoles sus planes y pensamientos. Esto hace que muchos piensen que ha renunciado a la humanidad en su mayoría, mientras que en realidad se está escondiendo y planeando. Cuando interactúa con la gente, es bastante cortante y segura de sí misma, sin dejar espacio para la discusión o las dudas, aunque puede ser considerada cuando es necesario.
 Sin embargo, puede ser amable. Se preocupó mucho por [[Tanavast\|Tanavast]] y lloró su muerte. Tampoco se opone a enseñar a otras Esquirlas a usar sus poderes. Parece que esto se puede utilizar para engañarla, aunque por el momento no está claro hasta qué punto llegan sus planes.
 
 ## Habilidades y atributos
-Koravellium fue una vez capaz de transformarse entre formas de varias especies, incluyendo las humanas y las de una bestia gigante con escamas. Al ser una dragona, tampoco envejecía y era capaz de volar. Aunque actualmente puede aparecer como quiera, su forma dracónica sigue siendo la más "verdadera". Sin embargo, a pesar de ser la única dragona de Roshar, prefiere ocultar este aspecto de su naturaleza.
+Koravellium fue una vez capaz de transformarse entre formas de varias especies, incluyendo las humanas y las de una bestia gigante con escamas. Al ser una [[Drag%C3%B3n (Cosmere)\|dragona]], tampoco envejecía y era capaz de volar. Aunque actualmente puede aparecer como quiera, su forma dracónica sigue siendo la más "verdadera". Sin embargo, a pesar de ser la única dragona de Roshar, prefiere ocultar este aspecto de su naturaleza.
 Como [[Esquirla\|Esquirla]], es una de las entidades más poderosas del [[Cosmere\|Cosmere]], capaz de alterar las almas a través de la [[Antigua Magia\|Antigua Magia]]. Ha demostrado tener el poder de manipular los recuerdos de la gente, alterar sus niveles de inteligencia y emoción, y darles habilidades como metabolizar la comida en [[Luz de vida\|Luz de vida]], tocar spren, y entrar en [[Visiones\|visiones]]. Es capaz de crear poderosos [[Spren\|spren]] y otorgarles habilidades similares a las suyas, aunque la única creación de este tipo que se conoce es la [[Vigilante Nocturna\|Vigilante Nocturna]]. Como la mayoría de las Esquirlas, Koravellium está además dotada de una potente visión de futuro. Aunque es mejor que la de [[Honor\|Honor]], no está claro cómo se compara con Esquirlas como [[Dotaci%C3%B3n\|Dotación]] o [[Conservaci%C3%B3n\|Conservación]].
 
 ## Historia
-Poco se sabe sobre la historia de Koravellium anterior a la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Como todos los demás Recipientes, proviene de [[Yolen\|Yolen]]. Ella y [[Tanavast\|Tanavast]] eran pareja.
-Se puede suponer que era una figura divina en Yolen, ya que era un dragón, una especie que era adorada como a dioses.
+Poco se sabe sobre la historia de Koravellium anterior a la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Como todos los demás [[Recipiente\|Recipientes]], proviene de [[Yolen\|Yolen]]. Ella y [[Tanavast\|Tanavast]] eran pareja.
+Se puede suponer que era una figura divina en Yolen, ya que era una [[Drag%C3%B3n (Cosmere)\|dragona]], una especie que allí es adorada como dioses.
 Estuvo presente en la Fragmentación y tomó la [[Esquirla\|Esquirla]] de [[Cultivaci%C3%B3n\|Cultivación]], luego partió hacia el [[Sistema roshariano\|sistema roshariano]] con Tanavast, ahora convertido en [[Honor\|Honor]].
 
 Para eventos posteriores, ver [[/wiki/Cultivaci%C3%B3n#Historia]].
@@ -62,7 +63,7 @@ Para eventos posteriores, ver [[/wiki/Cultivaci%C3%B3n#Historia]].
 
 Koravellium y [[Tanavast\|Tanavast]] tuvieron una relación sentimental, aunque no está claro de qué forma. En particular, los dos comparten las cinco últimas letras de sus nombres, y aunque es poco probable que sea accidental, no está claro qué significa, si es que significa algo.
 Se retiró públicamente de los asuntos de los [[Spren\|spren]] y de [[Roshar\|Roshar]] después de su muerte, lo que llevó a algunos [[Cultivacispren\|cultivacispren]] a creer que había abandonado por completo a la humanidad. Como el [[Padre Tormenta\|Padre Tormenta]] es, en cierto modo, la [[Sombra cognitiva\|sombra cognitiva]] de Tanavast, le recuerda mucho a él, y siente por él lo mismo que sentía por [[Honor\|Honor]].
-Cuando creó las visiones, Tanavast respetaba mucho la capacidad de Koravellium para predecir el futuro, calificándola de muy superior a la suya. En la actualidad, el Padre Tormenta siente por ella lo mismo que Honor.  Se desconoce la frecuencia con la que ambos interactuaron desde la [[Astilla\|Astillación]] de Honor, si es que lo hicieron.
+Cuando creó las [[/wiki/Visiones#Visiones de Honor]], Tanavast respetaba mucho la capacidad de Koravellium para predecir el futuro, calificándola de muy superior a la suya. En la actualidad, el Padre Tormenta siente por ella lo mismo que Honor.  Se desconoce la frecuencia con la que ambos interactuaron desde el [[Astilla\|Astillamiento]] de Honor, si es que lo hicieron.
 
 ### Taravangian
 >“*Ay, maravillosa criatura. No tienes ni idea de lo que has hecho.*”
@@ -70,7 +71,7 @@ Cuando creó las visiones, Tanavast respetaba mucho la capacidad de Koravellium 
 
 
 Koravellium organiza el Ascenso de [[Taravangian\|Taravangian]] a [[Odium\|Odium]], dándole la bendición que altera su inteligencia y empatía para prepararlo para llevar el poder. Espera que pueda llevarlo de forma más honorable en comparación con [[Rayse\|Rayse]], poniendo así las riendas a lo que ella considera el más peligroso de los dieciséis poderes. Después de que Taravangian se convierta en Odium, se presenta ante él y le ofrece enseñarle a utilizar sus nuevas habilidades.
-Cultivación afirma que no tenía el control total de su bendición para Taravangian, y que sólo podía esperar que se convirtiera en alguien que no supusiera un peligro para todo el Cosmere una vez que ascendiera. En esto, parece haber fracasado, ya que Taravangian comienza a planear una campaña de conquista casi inmediatamente. Pretende utilizarla a ella y su generosidad para llevar a cabo sus propios planes. Por el momento, es difícil saber si realmente está siendo más listo que ella, o si ella es consciente de lo que él está haciendo.
+Koravellium afirma que no tenía el control total de su bendición para Taravangian, y que sólo podía esperar que se convirtiera en alguien que no supusiera un peligro para todo el Cosmere una vez que ascendiera. En esto, parece haber fracasado, ya que Taravangian comienza a planear una campaña de conquista casi inmediatamente. Pretende utilizarla a ella y su generosidad para llevar a cabo sus propios planes. Por el momento, es difícil saber si realmente está siendo más listo que ella, o si ella es consciente de lo que él está haciendo.
 
   Koravellium y la <<Vigilante Nocturna\|Vigilante Nocturna>>
 ### La Vigilante Nocturna

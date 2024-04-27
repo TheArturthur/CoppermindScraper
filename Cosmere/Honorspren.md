@@ -59,7 +59,7 @@ Los honorspren también pueden comprar armas reales para usarlas.  No pueden des
 
 ## Habilidades
 Los honorspren tienen la capacidad de percibir una [[Alta tormenta\|alta tormenta]] días antes de que llegue. Esto está probablemente relacionado con sus orígenes como hijos del Padre Tormenta. También tienen fuertes relojes internos.
-En el Reino Físico, pueden usar la [[Adhesi%C3%B3n\|Adhesión]] para pegar objetos pequeños y ligeros, y dar pellizcos de energía o mover objetos pequeños. También pueden cambiar de forma mientras están allí, y elegir quién puede y quién no puede verlos y oírlos, aunque no pueden esconderse de su Potenciador vinculado, un [[Vidente (Roshar)\|vidente]], o de [[Lift\|Lift]]. Debido a su capacidad de cambiar de tamaño, los honorspren pueden colarse por espacios pequeños, como persianas o cerraduras.
+En el Reino Físico, pueden usar la [[Adhesi%C3%B3n\|Adhesión]] para pegar objetos pequeños y ligeros y dar pellizcos de energía o mover objetos pequeños. También pueden cambiar de forma mientras están allí, y elegir quién puede y quién no puede verlos y oírlos, aunque no pueden esconderse de su Potenciador vinculado, un [[Vidente (Roshar)\|vidente]], o de [[Lift\|Lift]]. Debido a su capacidad de cambiar de tamaño, los honorspren pueden colarse por espacios pequeños, como persianas o cerraduras.
 
 ### Vínculo Nahel
 Pueden formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con los humanos, convirtiéndolos en [[Potenciaci%C3%B3n\|potenciadores]] con los poderes de Adhesión y [[Gravitaci%C3%B3n\|Gravitación]]. A cambio, obtienen la capacidad de pensar y actuar como su yo de Shadesmar en el Reino Físico. Entre los honorspren, el vínculo se considera extremadamente íntimo, ya que implica la mezcla de almas. Los honorspren siempre pueden sentir dónde está su potenciador, e incluso si no está despierto. También pueden oírlos por encima de los ruidos fuertes, como el viento. Con un vínculo lo suficientemente fuerte, los honorspren y su potenciador pueden sentir las emociones del otro y comunicarse con la mente. Los honorspren también pueden obtener recuerdos de su potenciador de antes de vincularse a través de su Conexión con los vientos y su conexión con el Honor.
@@ -102,6 +102,7 @@ Un tipo particular de juicio que está disponible bajo la ley honorspren es el *
 [[Rua\|Rua]] (vinculado a [[Lopen\|Lopen]])
 [[Caelinora\|Caelinora]] (vinculada a [[Huio\|Huio]])
 [[Riah\|Riah]]
+[[Sekeir\|Sekeir]]
 ## Curiosidades
 Varios honorspren tienen nombres derivados de mitos y leyendas relacionados con el viento: por ejemplo, Sylphrena recibe su nombre de las , los espíritus del viento, mientras que los nombres de Notum y Borea provienen de  y , los dioses griegos del viento del Sur y del Norte, respectivamente. Vaiu parece tener un nombre similar al de , una deidad hindú del viento.
 Brandon desarrolló a los honorspren a partir de los vientospren. Originalmente, sólo había cuatro vientospren que podían vincularse a las personas, cada uno de los cuales correspondía a una de las cuatro direcciones cardinales (por ejemplo, Syl se llamaba inicialmente Viento del Este). Con el tiempo, a medida que se desarrollaron los spren, se crearon los honorspren y se diferenciaron de los vientospren.

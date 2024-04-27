@@ -126,12 +126,12 @@
 
 
 ## Etimología
-El significado del nombre *Hallandren* es desconocido, pero probablemente proviene de su reino predecesor, [[Hanald\|Hanald]]. El reino también es conocido como *El Reino de la Iridiscencia*.
+El significado del nombre *Hallandren* es desconocido, pero probablemente proviene de su reino predecesor, [[Hanald\|Hanald]]. El reino también es conocido como *El Reino de la Iridiscencia*. La gente de Hallandren recibe el gentilicio de hallandrenses.
 
 ## Geografía y ecología
   <<Vivenna\|Vivenna>> y compañía entrando en Hallandren
 >“*Un paraíso oculto entre las montañas, una tierra con agradables lluvias que nunca eran frías, una tierra donde la comida crecía de manera espontánea y abundante.*”
-\-Hoid contando lo que los chedesh pensaron cuando vieron por primera vez las playas de Hallandren[6]
+\-Hoid contando lo que los chedesh pensaron cuando vieron por primera vez las playas de Hallandren[7]
 
 
  se encuentra en el valle selvático de Nalthis. Es especial en el mundo conocido de Nalthis por ser el único lugar en el que crecen las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]], así como por ser el único clima selvático conocido. El crecimiento de las plantas en esta región se ve favorecido en parte por la [[Investidura\|Investidura]], al igual que en la [[Cuenca de Elendel\|Cuenca de Elendel]]. La selva está habitada por panteras, loros, monos, serpientes y cocodrilos. Partes de la selva se talan para dejar sitio a las tierras de cultivo, donde se producen alimentos y tintes.
@@ -141,7 +141,7 @@ Los habitantes de Hallandren tienen acceso a buenos vinos, boniatos, higos, nuec
 
 ## Gobierno
 >“*—La teocracia de Hallandren es una estructura complicada y repleta de tonterías e inercias burocráticas.*”
-\-Vasher[19]
+\-Vasher[20]
 
 
 ### Teocracia
@@ -173,7 +173,7 @@ No todos los hallandrenses consideran a [[Dalapaz\|Dalapaz]] su primer rey-dios,
 Durante la mayor parte del reinado de un rey-dios, los hallandrenses no tienen reina. Esto se debe a que sólo es seleccionada después de que un niño Retorne.
 
 >“*La dinastía de Hallandren se fundó al término de la Multiguerra, la primera obtuvo su vida y su aliento del propio Dalapaz, que fue adorado por vencer a los fantasmas de Kalad y poner un final pacífico a la Multiguerra. Desde ese día, cada rey-dios ha engendrado un hijo nacido muerto que luego retorna y toma su lugar.*”
-\-Hoid sobre los reyes de Hallandren[6]
+\-Hoid sobre los reyes de Hallandren[7]
 
 A la reina se la llama formalmente "Majestad" o "Excelencia".  A veces también se la llama "Receptáculo", ya que se la considera un recipiente del rey-dios.
 La Reina sólo tiene un deber: dar un heredero al reino. Pasa el resto de su tiempo ociosa, disfrutando de los mismos lujos que los Retornados. No se le permite salir de la [[Corte de los Dioses\|Corte de los Dioses]]. También es una de las pocas personas en la Corte de los Dioses a las que se les permite tocar al rey-dios.
@@ -232,7 +232,7 @@ Algunos hallandrenses ricos juegan al [[Tarachin\|tarachin]], un juego notoriame
 
 ### Moda y belleza
 >“*Había representados un centenar de colores distintos y numerosos estilos diferentes de vestir. Era bueno ver de nuevo algo de variedad, aunque esa variedad resultara algo chillona.*”
-\-Siri pensando en los hallandrenses[15]
+\-Siri pensando en los hallandrenses[16]
 
 Los hallandrenses visten ropas extravagantes y de colores vivos. Llevan una gran variedad de estilos, y cada persona intenta destacar. Sin embargo, debido a esto, nadie destaca. La modestia tanto en el diseño como en el color no está de moda, pero no es inexistente.
 La ropa de Hallandren es reveladora, con blusas abiertas hasta debajo del cuello, faldas por encima de las rodillas, etc. Las prendas van desde chalecos y pantalones cortos hasta largas túnicas y trajes. Algunos antiguos Retornados llevaban túnicas que les colgaban de un solo hombro, con una banda alrededor de la cintura que les llegaba hasta medio muslo. Los sombreros ornamentados son populares, tanto en hombres como en mujeres. Algunos hallandrenses llevan paraguas para cuando llueve. También hay muchos que se tiñen el pelo. La ropa suele ser de cuero, aunque la seda también es usada por los ricos. Algunas mujeres también llevan pantalones, que se consideran prácticos.
@@ -272,7 +272,7 @@ Los Hallandren también beben té caliente. Una variedad conocida es el té de c
 Los hallandrenses pueden tener un calendario que considera [[La Multiguerra\|la Multiguerra]] como el año cero, ya que Hoid menciona que el tiempo antes de la Multiguerra fue antes de que el tiempo mismo comenzara.
 
 ## Religiones
-En Hallandren se rinden culto a muchas religiones diferentes, aunque la mayoría de la gente sigue la religión del estado, los tonos Iridiscentes. Otras religiones son el [[Austrismo\|austrismo]] y la fe de [[/wiki/Pahn Kahl#Cultura]].
+En Hallandren se rinden culto a muchas religiones diferentes, aunque la mayoría de la gente sigue la religión del estado, los . Otras religiones son el [[Austrismo\|austrismo]] y la fe de [[/wiki/Pahn Kahl#Cultura]].
 
 ### Los tonos iridiscentes
 La mayoría de los hallandrenses sigue los . Esta religión adora a los [[Retornado\|Retornados]] como dioses y considera a [[Dalapaz\|Dalapaz]] un dios entre los dioses.

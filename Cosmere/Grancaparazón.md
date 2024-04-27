@@ -9,7 +9,7 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Grancaparazon** es un término utilizado para describir a un grupo de crustáceos gigantes nativos de [[Roshar\|Roshar]]. La familia incluye numerosas especies relacionadas, entre las que se encuentran los [[Abismoide\|abismoides]], los [[Tai-na\|Tai-na]] y los ya extintos [[Lanceryn\|lanceryns]].
+**Grancaparazon** es un término utilizado para describir a un grupo de crustáceos gigantes nativos de [[Roshar\|Roshar]]. La familia incluye numerosas especies relacionadas, entre las que se encuentran los [[Abismoide\|abismoides]], los [[Tai-na\|Tai-na]], [[Yu-nerig\|Yu-nerig]], y los ya extintos [[Lanceryn\|lanceryns]].
 
 ## Sumario
 
@@ -18,10 +18,9 @@
 1. [[#Gemas coraz.C3.B3n y v.C3.ADnculos con los spren]] 
 
 
-2 Comportamiento. [[#Comportamiento]] 
-3 Especies conocidas. [[#Especies conocidas]] 
-4 Notas del traductor. [[#Notas del traductor]] 
-5 Notas. [[#Notas]] 
+2 Especies conocidas. [[#Especies conocidas]] 
+3 Notas del traductor. [[#Notas del traductor]] 
+4 Notas. [[#Notas]] 
 
 
 ## Apariencia y anatomía
@@ -32,15 +31,12 @@ Los grancaparazones se reproducen con lentitud y, en casi todas las especies, su
 Los grancaparazones mantienen su enorme tamaño mediante un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con los [[Mandra\|mandras]], un tipo de [[Spren\|spren]] también conocido como "suertespren". Esto disminuyen el peso del animal, lo que les permite existir y mover su volumen desafiando la . Para facilitar este vínculo, los grancaparazones poseen [[Gema coraz%C3%B3n\|gemas corazón]], piedras preciosas masivas dentro de sus cuerpos en las que pueden entrar los spren. El tipo de [[Piedrabase\|piedrabase]] puede variar en algunas especies, mientras que en otras es constante. El tamaño de la gema corazón aumenta con el tamaño del animal. Debido a la flotabilidad del agua, los grancaparazones más grandes son acuáticos, y es posible que algunos de estos puedan sobrevivir sin un vínculo spren.
 Las gemas corazón tienen gran valor, y los grancaparazones son cazados a menudo; algunas especies, como el [[Lanceryn\|lanceryn]] y los [[Abismoide\|abismoides]], han sido cazados hasta su extinción o una situación cercana a ella por sus gemas corazón.
 
-## Comportamiento
 ## Especies conocidas
 [[Abismoide\|Abismoide]]
 [[Lanceryn\|Lanceryn]]
 [[Tai-na\|Tai-na]]
 [[Yu-nerig\|Yu-nerig]]
 [[Santhid\|Santhids]] son conocidos por estar en la misma familia, aunque no son llamados específicamente grancaparazones.
-Los [[Chull\|chulls]] y  son grandes crustáceos domesticados, pero son más pequeños que las especies normalmente denominadas como grancaparazón.
-
 ## Notas del traductor
 
 ## Notas

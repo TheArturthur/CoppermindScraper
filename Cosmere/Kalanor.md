@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Kalanor** es un [[Alto pr%C3%ADncipe\|alto príncipe]] [[Alezi\|alezi]] de [[Roshar\|Roshar]]. Su dominio es una región al oeste de Alezkar, que incluye las tierras que se conocen como el [[Principado Vamah\|principado Vamah]] hasta su muerte.
 

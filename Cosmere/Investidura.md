@@ -156,7 +156,7 @@ La [[Hemalurgia\|Hemalurgia]] es de final negativo. La Investidura contenida en 
 
 ## Color
 >“*El color es como el sabor para los spren. Forma parte del alma de un objeto.*”
-\-El Padre Tormenta[43]
+\-El Hermano[43]
 
 
 El color es una parte importante del [[Cosmere\|Cosmere]] y sus magias, y es relevante para cada manifestación de la Investidura. Algunos sistemas mágicos están conectados a través del funcionamiento del color en ellos. Ciertos colores están vinculados a un cambio en la Investidura, como que la Investidura corrompida sea roja.  La forma en que se ve el color y, por tanto, cómo afecta a la Investidura se debe principalmente a la percepción que tiene la gente de él.  Mantener grandes cantidades de Investidura durante periodos prolongados, como con los [[Aliento\|alientos]] y las [[Esquirla del Amanecer\|Esquirlas del Amanecer]], hará que una persona tenga una mayor percepción de los colores.

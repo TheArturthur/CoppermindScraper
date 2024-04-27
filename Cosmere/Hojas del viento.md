@@ -18,6 +18,12 @@ Es el lugar donde [[Talenel\|Talenel]], Heraldo del Todopoderoso, anunció al mu
 
 1 Geografía. [[#Geograf.C3.ADa]] 
 2 Historia. [[#Historia]] 
+
+2. [[#.C3.89pocas Her.C3.A1ldicas]] 
+2. [[#Era de la Soledad]] 
+2. [[#La Aut.C3.A9ntica Desolaci.C3.B3n]] 
+
+
 3 Puntos de referencia. [[#Puntos de referencia]] 
 
 3. [[#Hojas del viento]] 
@@ -51,10 +57,16 @@ Es el lugar donde [[Talenel\|Talenel]], Heraldo del Todopoderoso, anunció al mu
 Kholinar está situada en el norte de Alezkar. La ciudad está construida cerca del río Corredor del Viento. Está protegida de las altas tormentas por enormes formaciones rocosas llamadas hojas del viento. Tiene muchos jardines y se considera hermosa en parte debido a las hojas del viento que sobresalen dentro y alrededor de la ciudad.
 
 ## Historia
+### Épocas Heráldicas
 Kholinar es una de las [[Ciudad del Amanecer\|Ciudades del Amanecer]], los lugares más antiguos de todo Roshar. Cuando surgieron los [[Reino Plateado\|Reinos Plateados]], Kholinar se convirtió en la capital de [[Alethela\|Alethela]] y se construyó un [[Puerta Jurada\|fabrial]] en la ciudad. Fue el hogar del rey [[Nohadon\|Nohadon]] durante una de las [[Desolaci%C3%B3n\|Desolaciones]]. A través de los tiempos, fue reconstruido varias veces.
+
+### Era de la Soledad
 Tras la muerte del [[Hacedor de Soles\|Hacedor de Soles]], cayó en manos de uno de sus hijos, el progenitor de la [[Casa Kholin\|Casa Kholin]].
 Durante la guerra de unificación alezi de [[Gavilar\|Gavilar]] y [[Dalinar Kholin\|Dalinar Kholin]], fue conquistada por los dos hermanos y posteriormente se convirtió en la capital de [[Alezkar\|Alezkar]].
-Cerca del final de la [[Guerra de la Venganza\|Guerra de la Venganza]], la negligencia de [[Aesudan\|Aesudan]] y las acusaciones de [[Pai\|Pai]] hicieron que la ciudad estallara en disturbios. La [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] consiguió restablecer el orden en la ciudad y exilió a todos los parshmenios más allá de su límite antes de que llegara la primera [[Tormenta eterna\|tormenta eterna]]. Poco después, los fusionados reunieron a los parshmenios transformados y comenzaron el [[Asedio a Kholinar\|asedio a Kholinar]]. Con un gran número de refugiados procedentes de todo el principado y el silencio del palacio, la ciudad se vio rápidamente desbordada, con varios servicios colapsados y bandas que recorrían la ciudad. Las principales fuerzas dentro de Kholinar en ese momento eran la Guardia de la Muralla y el Culto de los Momentos. Además, la ciudad estaba bajo la influencia de dos [[Deshecho\|Deshechos]], [[Ashertmarn\|Ashertmarn]] (que influyó en el Culto de los Momentos y provocó la ruptura de las estructuras de los ojos claros en la ciudad) y [[Sja-anat\|Sja-anat]], que corrompió a los distintos spren.
+Cerca del final de la [[Guerra de la Venganza\|Guerra de la Venganza]], la negligencia de [[Aesudan\|Aesudan]] y las acusaciones de [[Pai\|Pai]] hicieron que la ciudad estallara en disturbios. La [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] consiguió restablecer el orden en la ciudad y exilió a todos los parshmenios más allá de su límite antes de que llegara la primera [[Tormenta eterna\|tormenta eterna]].
+
+### La Auténtica Desolación
+Tras la llegada de la tormenta eterna, los Fusionados reunieron a los parshmenios transformados y comenzaron el [[Asedio a Kholinar\|asedio a Kholinar]]. Con un gran número de refugiados procedentes de todo el principado y el silencio del palacio, la ciudad se vio rápidamente desbordada, con varios servicios colapsados y bandas que recorrían la ciudad. Las principales fuerzas dentro de Kholinar en ese momento eran la Guardia de la Muralla y el Culto de los Momentos. Además, la ciudad estaba bajo la influencia de dos [[Deshecho\|Deshechos]], [[Ashertmarn\|Ashertmarn]] (que influyó en el Culto de los Momentos y provocó la ruptura de las estructuras de los ojos claros en la ciudad) y [[Sja-anat\|Sja-anat]], que corrompió a los distintos spren.
 Mientras que las defensas y la estructura de mando de la ciudad prácticamente se habían derrumbado, la Guardia de la Muralla había asumido su defensa bajo el mando de la alta mariscal [[Celeste\|Celeste]]. Sin embargo, se centraban casi exclusivamente en las amenazas externas. En la ciudad, los spren reaccionaban con fuerza a cualquier uso de la luz tormentosa, incluidos los vinculacañas y los moldeadores de almas. Esto, junto con la amenaza de los ataques de los fusionados, hacía imposible la comunicación con el exterior, y el moldeado de almas sólo era posible gracias a las placas metálicas proporcionadas por [[Sagaz\|Sagaz]], aparentemente de aluminio, que impedían su detección. El único moldeador de almas de la Guardia era capaz de mantenerlos a ellos y a gran parte de la ciudad alimentados.
 Cuando el equipo de asalto, junto con [[Celeste\|Celeste]], intenta recuperar la Puerta Jurada, una ráfaga de truenos abrió una brecha en las murallas y los Portadores del Vacío irrumpieron en la ciudad. Aunque el equipo consiguió llegar a la Puerta Jurada, no pudo activarla correctamente y Kholinar fue invadida.
 Era la primera vez en la historia moderna que Kholinar caía ante una fuerza invasora. Bajo el control de los Portadores del Vacío, decenas de miles de humanos fueron trasladados fuera de la ciudad para trabajar en granjas, mientras que los cantores fueron instalados en el interior. Los Portadores del Vacío también comenzaron a desmantelar el palacio.

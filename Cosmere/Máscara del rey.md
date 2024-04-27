@@ -6,15 +6,14 @@
 |**Mundo de origen**|[[Lumar\|Lumar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
-Una **máscara de rey** es una supuesta profesión en [[Lumar\|Lumar]]; no está claro si el rol existe realmente o sólo forma parte del folclore.
+Una **máscara de rey** es un miembro de un grupo secreto de asesinos para el [[Rey glauco\|rey glauco]] en [[Lumar\|Lumar]]; no está claro si el rol existe realmente o sólo forma parte del folclore.
 Sirven como asesinos y espías para el [[Rey glauco\|rey]], y se dice que nunca se les permite decir si lo son. También se dice que toman pociones de juventud para enmascarar su verdadera edad y mejorar sus disfraces, ya que deben parecer inocentes. Se cree que sólo hay cinco al mismo tiempo. Se cree que están en una posición en la que pueden dar fe de otros ante el rey.
+Algunos miembros del [[Canto del cuervo\|Canto del cuervo]] confundieron a [[Trenza\|Trenza]] con una máscara del rey.
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+MrMrDUCK (talk) 09:01, 16 de marzo de 2024 (UTC)
 |**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
 |-|-|
 |**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|

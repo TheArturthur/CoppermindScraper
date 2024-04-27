@@ -16,6 +16,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 > [!info] ¡Siempre hay otro secreto!Kelsier no bromeaba cuando lo dijo. Ten **mucho cuidado** con los spoilers relacionados con el [[Cosmere\|Cosmere]] en esta sección.
 
@@ -91,7 +92,7 @@ Kelsier es un nacido de la bruma, por lo que puede quemar todos los metales alom
 Tras su muerte, Kelsier se convirtió en una [[Sombra cognitiva\|sombra cognitiva]] a través del [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], lo que le permitió resistir la atracción del [[M%C3%A1s All%C3%A1\|Más Allá]]. Tras retener y liberar la Esquirla de [[Conservaci%C3%B3n\|Conservación]], Kelsier se convirtió en una [[Esquirla\|Esquirla]].
 
 ### Conservación
-Kelsier sostuvo Conservación durante un corto periodo de tiempo, pero no supo utilizarla porque en ese momento era una sombra cognitiva y no encajaba bien con la Intención de Conservación.
+Kelsier sostuvo Conservación durante un corto periodo de tiempo, pero no pudo utilizarla apropiadamente porque en ese momento acababa de renacer como sombra cognitiva y su meta no encajaba bien con la Intención de Conservación.
 
 ### Hemalurgia
 Kelsier tiene un clavo hemalúrgico en la cuenca del ojo derecho, que adquiere en algún momento después del [[Catacendro\|Catacendro]]. Como resultado, tiene tanto la visión normal como la vista de acero que utilizaban los [[Inquisidores de acero\|inquisidores]], lo que le permite ver tanto a través de la luz normal como de las trazas metálicas. Este clavo le une el alma a los huesos.

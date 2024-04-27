@@ -7,6 +7,7 @@
 |**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
@@ -39,8 +40,8 @@ Trenza regresa a Punta de Diggen, como capitana del *[[Dos tazas\|Dos tazas]]*, 
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+MrMrDUCK (talk) 06:12, 11 de marzo de 2024 (UTC)
 |**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
 |-|-|
 |**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|

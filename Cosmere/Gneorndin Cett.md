@@ -10,15 +10,16 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|**|
 
 **Gneorndin Cett** es el único hijo de [[Ashweather Cett\|Ashweather Cett]] en [[Scadrial\|Scadrial]].
 
 ## Personalidad
-Gneorndin parece tener un fuerte instinto protector por su familia. No le gusta [[Brisa\|Brisa]] porque mantiene una relación con su hermana, [[Allrianne\|Allrianne]], que era mucho más joven que él. Cuando [[Vin\|Vin]] amenaza la vida de su padre, Gneorndin intenta proteger a este, a pesar de su ausencia de poderes y el miedo que siente por las habilidades de Vin. La valentía que requiere tal acción es increíble.
+Gneorndin tiene un fuerte instinto protector por su familia. No le gusta [[Brisa\|Brisa]] porque mantiene una relación con su hermana, [[Allrianne\|Allrianne]], que es mucho más joven que él. Cuando [[Vin\|Vin]] amenaza la vida de su padre, Gneorndin intenta proteger a este, a pesar de su ausencia de poderes y el miedo que siente por las habilidades de Vin.
 
 ## Historia
-Tras el [[Colapso\|Colapso]], Gneorndin invitó a [[Elend Venture\|Elend Venture]] a conocer a Ceet durante una semana para discutir sobre Allrianne. Acusó a Elend de haberla secuestrado, aunque sabía a ciencia cierta que eso no era verdad. Gneorndin también parecía ser consciente entonces de que Brisa tenía una relación con Allrianne, debido a que le fulminó con la mirada y no parecía que le gustarle demasiadoH.
-Cuando Vin decidió atacar con [[Zane\|Zane]] la [[Casa Hasting\|Fortaleza Hasting]], Gneorndin estaba ahí. Aunque no tenía poderes [[Alomancia\|alománticos]], intentó proteger a su padre de la ira de Vin. A petición de Cett, ella simplemente lo apartó en vez de herirlo gravemente o matarlo.
+Tras el [[Colapso\|Colapso]], Gneorndin invitó al rey [[Elend Venture\|Elend Venture]] para encontrarse con su padre, el rey [[Ashweather Cett\|Ashweather Cett]] durante una semana para discutir sobre [[Allrianne\|Allrianne]]. Acusó a Elend de haberla secuestrado, aunque sabía a ciencia cierta que eso no era verdad. Gneorndin también parecía ser consciente entonces de que Brisa tenía una relación con Allrianne, debido a que le fulminó con la mirada y no parecía que le gustara demasiado.
+Cuando [[Vin\|Vin]] decidió atacar con [[Zane Venture\|Zane Venture]] la [[Casa Hasting\|Fortaleza Hasting]], Gneorndin estaba ahí. Aunque no tenía poderes [[Alomancia\|alománticos]], intentó proteger a su padre de la ira de Vin. A petición de Cett, ella simplemente lo apartó en vez de herirlo gravemente o matarlo.
 Después de que Cett uniera sus fuerzas con las de Elend, Gnerondin estuvo presente en la reunión de la banda en la que Elend explicó cómo la invasiva [[Bruma\|bruma]] de [[La Profundidad\|la Profundidad]] pronto imposibilitaría el crecimiento de los cultivos convencionales.
 Como Gneorndin es el único miembro varón conocido de la [[Casa Cett\|Casa Cett]] (a parte de [[Ashweather\|Ashweather]]), es muy posible que a través de su linaje la casa continuara existiendo pasado el [[Catacendro\|Catacendro]] y durante Nacidos de la bruma Era 2 y la época moderna de Scadrial.
 

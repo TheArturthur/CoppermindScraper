@@ -8,8 +8,9 @@
 |**Capacidades**|[[Feruquimia\|Feruquimista]], [[Saltamundos\|Saltamundos]]|
 |**Vinculado con**|[[Aviar de Gereh\|Aviar de Gereh]]|
 |**Etnia**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Mundo natal**|Desconocido|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*¡Ay, brillante, se han llevado a nuestro rey! Esos parshmenios. Esos bárbaros. Esos… esos monstruos.*”
 \-Gereh a Navani[3]
@@ -31,18 +32,18 @@
 
 
 ## Apariencia
-Para cuando trabajaba como mayordomo en [[Kholinar\|Kholinar]], Gereh tenía barba blanca y estaba frágil. Lleva múltiples anillos en sus dedos, presumiblemente los usa como mentes de metal. De vez en cuando juega nerviosamente con estos anillos. También altera ligeramente su apariencia de una manera desconocida, haciéndose parecer como si tuviese los pliegues epicánticos comunes en muchos humanos en Roshar.
+Para cuando trabajaba como mayordomo en [[Kholinar\|Kholinar]], Gereh tenía barba blanca y estaba frágil. Lleva múltiples anillos en sus dedos, presumiblemente los usa como [[Mente de metal\|mentes de metal]]. De vez en cuando juega nerviosamente con estos anillos. También altera ligeramente su apariencia de una manera desconocida, haciéndose parecer como si tuviese los pliegues epicánticos comunes en muchos humanos en Roshar.
 
 ## Atributos y habilidades
-Gereh era un feruquimista con un conjunto de habilidades desconocido. También podía ocultar eficazmente algunas de sus características físicas que lo hacían destacar como una persona de descendencia no roshariana. Gereh también había llegado a poseer un [[Aviar de Gereh\|aviar]] rojo. Los poderes otorgados por el aviar son habilidades mentales desconocidas. El pájaro inteligente es muy leal al hombre y capaz de sentir la ubicación de Gereh desde la distancia.
+Gereh es un [[Feruquimia\|feruquimista]] con un conjunto de habilidades desconocido. También podía ocultar eficazmente algunas de sus características físicas que lo hacían destacar como una persona de descendencia no [[Roshar\|roshariana]]. Gereh también había llegado a poseer un [[Aviar de Gereh\|aviar]] rojo. Los poderes otorgados por el aviar son habilidades mentales desconocidas. El pájaro inteligente es muy leal al hombre y capaz de sentir la ubicación de Gereh desde la distancia.
 
 ## Historia
 ### Mayordomo en Kholinar
-No se sabe nada de la vida temprana de Gereh, ni de su planeta de origen, pero trabajó el tiempo suficiente como mayordomo en el palacio de Kholinar como para ser conocido como una figura allí, convirtiéndose en una figura notable, aunque de menor importancia. Aunque la aparente profesión de Gereh era la de mayordomo, también servía como agente para un maestro desconocido, vigilando a la [[Casa Kholin\|casa Kholin]]. Es probable que en el año 1167, Gereh supiese de la existencia de [[Axindweth\|Axindweth]], una agente [[Terris\|terrisana]] que trabaja para [[Odium\|Odium]] en el palacio de Kholinar. Convenció a Gavilar para ponerse en su contra y la obligó a huir del planeta.
+No se sabe nada de la vida temprana de Gereh, ni de su planeta de origen, pero trabajó el tiempo suficiente como mayordomo en el [[Palacio de Kholinar\|palacio de Kholinar]] como para ser conocido como una figura allí, convirtiéndose en una figura notable, aunque de menor importancia. Aunque la aparente profesión de Gereh era la de mayordomo, también servía como agente para un maestro desconocido, vigilando a la [[Casa Kholin\|casa Kholin]]. Es probable que en el año 1167, Gereh supiese de la existencia de [[Axindweth\|Axindweth]], una agente [[Terris\|terrisana]] que trabaja para [[Odium\|Odium]] en el palacio de Kholinar. Convenció a [[Gavilar\|Gavilar]] para ponerse en su contra y la obligó a huir del planeta.
 Poco después, en la noche de la celebración de la firma del tratado con los [[Oyentes\|oyentes]], Gereh se acercó a la reina [[Navani Kholin\|Navani Kholin]] en los jardines del palacio antes del banquete para informarle que el brillante [[Rine Hatham\|Rine Hatham]] estaba esperando una audiencia con Gavilar para discutir disputas fronterizas y el rey no se encontraba en ningún lado. Luego llevó a Navani con Hatham. Más tarde esa noche, Navani encontró a un Gereh lleno de pena y después de tomar su mano, él la informó del asesinato de Gavilar, aunque ella no lo creyó de inmediato. Gereh parecía profundamente afligido por la muerte de Gavilar, llorando y temblando de dolor.
 
 ### Jubilación y fallecimiento
-Para el 1175, Gereh parecía haberse retirado del servicio activo en el palacio. Se mudó a Urithiru con muchos otros alezi desplazados y llevó una vida tranquila donde ocasionalmente lo visitaba Lift, quien disfrutaba de ver a las personas mayores. Justo antes de la ocupación de Urithiru por parte de los [[Fusionado\|Fusionados]], el Aviar de Gereh estaba lejos de él por razones desconocidas. Fue atacado por Mraize en sus habitaciones y murió por una herida de cuchillo en el pecho. Fue atacado mientras estaba sin sus [[Mente de metal\|mentes de metal]], o fueron retiradas de su cuerpo por Mraize después de su muerte. Las modificaciones que Gereh había hecho en la apariencia de sus ojos también desaparecieron después de su muerte. El aviar de Gereh había sido interceptado por el aviar de Mraize, pero logró regresar a las habitaciones de Gereh con la ayuda de Lift para encontrar el cuerpo del hombre y lamentarse sobre él. Mraize, que había estado esperando, persiguió a Lift fuera de las habitaciones de Gereh y la atrapó.
+Para el 1175, Gereh parecía haberse retirado del servicio activo en el palacio. Se mudó a [[Urithiru\|Urithiru]] con muchos otros alezi desplazados y llevó una vida tranquila donde ocasionalmente lo visitaba Lift, quien disfrutaba de ver a las personas mayores. Justo antes de la ocupación de Urithiru por parte de los [[Fusionado\|Fusionados]], el Aviar de Gereh estaba lejos de él por razones desconocidas. Fue atacado por [[Mraize\|Mraize]] en sus habitaciones y murió por una herida de cuchillo en el pecho. Fue atacado mientras estaba sin sus [[Mente de metal\|mentes de metal]], o fueron retiradas de su cuerpo por Mraize después de su muerte. Las modificaciones que Gereh había hecho en la apariencia de sus ojos también desaparecieron después de su muerte. El aviar de Gereh había sido interceptado por el , pero logró regresar a las habitaciones de Gereh con la ayuda de Lift para encontrar el cuerpo del hombre y lamentarse sobre él. Mraize, que había estado esperando, persiguió a Lift fuera de las habitaciones de Gereh y la atrapó.
 
 ## Notas
 

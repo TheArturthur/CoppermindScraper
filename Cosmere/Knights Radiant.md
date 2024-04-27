@@ -8,7 +8,7 @@
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*, *[[El ritmo de la guerra\|El ritmo de la guerra]]*, *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*, y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*, *[[El ritmo de la guerra\|El ritmo de la guerra]]*, *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*, *[[El Hombre Iluminado\|El Hombre Iluminado]]*, y *[[Aleaci%C3%B3n de ley\|Aleación de ley]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*"Esperas demasiado de mí. No soy ningún glorioso caballero de días pasados. Soy un hombre roto. ¿Me oyes, Syl? *Estoy roto*.Ella se acercó volando y susurró: "Así estaban todos, tonto".*”
 \-Kaladin y Syl sobre cómo eran los Caballeros Radiantes.[1]
@@ -95,7 +95,7 @@ Para todos los Caballeros Radiantes, ver :Categoría:Caballeros Radiantes.
 
 ## Curiosidades
 Brandon pretendía que los conjuntos de Ideales a través de las órdenes (por ejemplo, el Tercer Ideal) tuvieran un tema, aunque no todos los juramentos seguirán este patrón.
-El término para denominar a un Caballero Radiante en parshendi es «Neshua Kadal», probablemente relacionado con las palabras נִשְׁבָּע ("Nishba") que significa "Aquel que ha jurado" y קטל ("Katal") que significa "matar" (una referencia al asesinato de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]).
+El término para denominar a un Caballero Radiante en parshendi es «Neshua Kadal».
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

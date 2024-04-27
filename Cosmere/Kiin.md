@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[De Teod\|de Teod]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Kiin** es un marinero y comerciante de [[Teod\|Teod]] en [[Sel\|Sel]]. Su nombre se basa en el [[/wiki/Aon#Kii]], que significa "justicia". Kiin es tío de [[Sarene\|Sarene]] y el legítimo rey de Teod. También se le conoce por el nombre de **Dreok Aplastagargantas** por su época de pirata, aunque su intención era que el nombre fuera **Garganta Aplastada** por su voz rasposa.
 
@@ -44,7 +45,6 @@ Kiin es extremadamente hábil con su hacha, lo suficiente como para matar a un m
 Es un cocinero extremadamente hábil, capaz de elaborar platos de muchos países. El hecho de que cocine para su familia es anormal en [[Arelon\|Arelon]], donde la nobleza suele contratar cocineros para hacer el trabajo. Teme a los criados debido a la revolución iniciada principalmente por estos durante el [[Reod\|Reod]].
 
 ## Historia
-  Kiin (ariiba) con sus hijos <<Kaise\|Kaise>>, <<Daorn\|Daorn>>, y <<Adien\|Adien>>
 Kiin era el hermano mayor de [[Eventeo\|Eventeo]] y legítimo rey de [[Teod\|Teod]]. Debería haber heredado el trono, pero en su juventud se dedicó a realizar viajes de placer y a la exploración, visitando puertos extranjeros mientras Eventeo permanecía en la corte y ayudaba a su padre a gobernar el reino durante sus períodos de enfermedad. Debido a una pequeña crisis que coincidió con la muerte de su padre, Eventeo asumió el papel de rey y fue coronado mientras Kiin estaba de viaje. A su regreso, éste le exigió furioso que le devolviera la corona. Eventeo se negó y desterró a Kiin.
 Durante los años siguientes, Kiin reunió una fuerza naval formada por piratas, desertores de Teod y mercenarios. Fue durante esta época cuando sufrió un accidente que le aplastó la garganta y estuvo a punto de morir. Después, tomó el nombre de "Dreok", en honor al aon Reo ("castigo"), y llevó su armada a Teod para tomar el trono por la fuerza. Luchó con un hacha transcrita con el [[/wiki/Aon#Reo]].
 Eventeo ganó la batalla, aunque por poco. Kiin escapó con vida por los pelos y se marchó a Arelon para recuperarse y planear su próxima invasión. Sin embargo, se enamoró de Daora, y poco a poco empezó a perder su rudeza. Él y [[Daora\|Daora]] tuvieron dos hijos, [[Kaise\|Kaise]] y [[Daorn\|Daorn]]. Actuó como padre de los otros dos hijos de Daora fruto de otro matrimonio, [[Lukel\|Lukel]] y [[Adien\|Adien]]. Kiin se convirtió en comerciante y utilizando la experiencia de sus viajes, tuvo mucho éxito.

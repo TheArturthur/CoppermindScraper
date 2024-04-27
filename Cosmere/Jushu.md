@@ -4,21 +4,21 @@
 |-|-|
 ||
 |**[[Casa Davar\|Casa Davar]]**|
-|**Padres**|[[Lin Davar\|Lin Davar]], [[Madre de Shallan\|madre]], [[Malise Gevelmar\|Malise Gevelmar]] |
+|**Padres**|[[Lin Davar\|Lin Davar]], [[Madre de Shallan\|madre]]|
 |**Hermanos**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
 |**Nacido en**|c. 1154|
 |**Residencia**|[[Urithiru\|Urithiru]]|
-|**Etnia**|[[De Jah Keved\|de Jah Keved]]|
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Asha Jushu Davar** es un [[Ojos claros\|ojos claros]] [[Veden\|veden]] de [[Roshar\|Roshar]]. Es el cuarto hijo de la [[Madre de Shallan\|brillante Davar]] y [[Lin Davar\|Lin Davar]]. Sus hermanos son [[Helaran\|Helaran]], [[Balat\|Balat]] su gemelo mayor [[Wikim\|Wikim]] y [[Shallan\|Shallan]].
 
 ## Sumario
 
 1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
 3 Historia. [[#Historia]] 
 
 3. [[#Primeros a.C3.B1os de vida]] 
@@ -40,13 +40,13 @@
 ## Apariencia y personalidad
  
 Jushu es un [[Ojos claros\|ojos claros]] y presumiblemente tiene el característico pelo rojo de la familia Davar. Se vuelve bastante rollizo durante sus períodos de exceso. Es conocido por beber grandes cantidades de vino. Tiene cicatrices en ambas muñecas.
-Comparte cierto parecido con su hermano gemelo Wikim, aunque no el suficiente como para que se los confunda. Ambos tienen los ojos hundidos, pero Wikim es visiblemente más delgado que Jushu. Jushu también tiene el pelo más largo que Wikim y parece más mayor que su gemelo. Aunque durante la guerra civil veden Jushu pierde peso, mantiene la misma complexión y sigue siendo distinto a Wikim. En Urithiru, Jushu se deja crecer la barba, diferenciándose aún más de su gemelo.
-Jushu era un niño feliz y sonriente y, a medida que crecía, se volvía más risueño que su gemelo. Incluso en los momentos más oscuros, le sigue el juego a Shallan con su humor negro como mecanismo de supervivencia.
-Jushu tiene problemas de adicción y Balat cree que los desarrolló tras años de aguantar el mal genio de su padre. Shallan también cree que Jushu es un hombre bueno que no puede ser culpado por sus vicios. Es adicto al juego y apostaría cualquier cosa de la que disponga, incluida cualquier gema de su ropa. Su adicción le lleva a mentir y a robar para disponer de dinero o crédito que financie sus juegos, aunque de alguna forma ha podido contenerse un poco para ayudar a su familia. Bebe mucho vino, especialmente mientras juega, y también se le ha visto frotando una planta entre los dedos, que probablemente se trate de [[Musgoardiente\|musgoardiente]], una sustancia altamente adictiva. Wikim cree que Jushu inevitablemente se destruirá a sí mismo.
+Comparte cierto parecido con su hermano gemelo Wikim, aunque no el suficiente como para que se los confunda. Ambos tienen los ojos hundidos, pero [[Wikim\|Wikim]] es visiblemente más delgado que Jushu. Jushu también tiene el pelo más largo que Wikim y parece más mayor que su gemelo. Aunque durante la [[Guerra civil veden\|guerra civil veden]] Jushu pierde peso, mantiene la misma complexión y sigue siendo distinto a Wikim. En [[Urithiru\|Urithiru]], Jushu se deja crecer la barba, diferenciándose aún más de su gemelo.
+Jushu era un niño feliz y sonriente y, a medida que crecía, se volvía más risueño que su gemelo. Incluso en los momentos más oscuros, le sigue el juego a [[Shallan\|Shallan]] con su humor negro como mecanismo de supervivencia.
+Jushu tiene problemas de adicción y [[Balat\|Balat]] cree que los desarrolló tras años de aguantar el mal genio de [[Lin Davar\|su padre]]. Shallan también cree que Jushu es un hombre bueno que no puede ser culpado por sus vicios. Es adicto al juego y apostaría cualquier cosa de la que disponga, incluida cualquier gema de su ropa. Su adicción le lleva a mentir y a robar para disponer de dinero o crédito que financie sus juegos, aunque de alguna forma ha podido contenerse un poco para ayudar a su familia. Bebe mucho vino, especialmente mientras juega, y también se le ha visto frotando una planta entre los dedos, que probablemente se trate de [[Musgoardiente\|musgoardiente]], una sustancia altamente adictiva. Wikim cree que Jushu inevitablemente se destruirá a sí mismo.
 
-## Características y habilidades
-A Jushu le gustan los duelos y desea poder participar en ellos. Shallan tiene una fantasía en la que ve a Helaran entrenando con Jushu y enseñándole a manejar la espada, pero no está claro si esto llegó a suceder de verdad.
-Tiene cierto conocimiento de los entresijos políticos de los ojos claros veden.
+## Atributos y habilidades
+A Jushu le gustan los duelos y desea poder participar en ellos. [[Shallan\|Shallan]] tiene una fantasía en la que ve a [[Helaran\|Helaran]] entrenando con Jushu y enseñándole a manejar la espada, pero no está claro si esto llegó a suceder de verdad.
+Tiene cierto conocimiento de los entresijos políticos de los [[Ojos claros\|ojos claros]] [[Veden\|veden]].
 
 ## Historia
   Con sus padres y hermanos
@@ -55,7 +55,7 @@ Tiene cierto conocimiento de los entresijos políticos de los ojos claros veden.
 
 
 ### Primeros años de vida
-Jushu nació como Van Jushu, el más joven de los hermanos Davar; él y Wikim son quince meses mayores que Shallan. Poco se sabe de su juventud, pero sentía que Lin siempre favorecía a Helaran y Shallan antes que a sus otros hijos, mientras que recuerda que sólo tenía exabruptos para él. Jushu estaba sometido al temperamento de su padre y estaba muy resentido con él.
+Jushu nació como Van Jushu, el más joven de los hermanos Davar; él y [[Wikim\|Wikim]] son quince meses mayores que Shallan. Poco se sabe de su juventud, pero sentía que Lin siempre favorecía a [[Helaran\|Helaran]] y [[Shallan\|Shallan]] antes que a sus otros hijos, mientras que recuerda que sólo tenía exabruptos para él. Jushu estaba sometido al temperamento de su padre y estaba muy resentido con él.
 Jushu se creyó la historia inventada de que Shallan había visto a Lin matar a [[Madre de Shallan\|su esposa]], la madre de Jushu. No estaba enterado de la verdadera secuencia de acontecimientos, y fue la persona que consoló a Shallan la noche en la que murió su madre. Muy pronto, su padre se volvió a casar y [[Malise Gevelmar\|Malise Gevelmar]] se convirtió en su madrastra.
 Cuando Jushu se convirtió en un adolescente, la ira y la negligencia de Lin le pasaron factura, y Jushu empezó a jugar y a beber mucho. Alrededor de 1168, apareció borracho en un banquete organizado por Lin para otros ojos claros, lo que seguramente enfadó a su padre. Estaba presente cuando Shallan vio el «alma» de su madre en una caja fuerte, aunque no pudo ver nada. Un año más tarde, asistió a otro banquete en la casa Davar y bromeó amistosamente con sus hermanos. Después de que [[Redin\|Redin]] interrumpiera la fiesta buscando a alguien que testificara contra Lin, Jushu pareció considerar hacerlo, pero rápidamente perdió el valor.
 
@@ -77,7 +77,7 @@ Tras la muerte de su padre, los hermanos empezaron a comprender la anterior fuen
 Shallan se marchó de Jah Keved con el objetivo de intentar robar el [[Moldeador de Jasnah\|moldeador de Jasnah]] y sustituirlo por el roto, mientras que Jushu ayudó a Balat a vender posesiones para mantener a flote a la familia. La experiencia de Jushu en la venta de bienes que robaba a Lin para financiar sus apuestas le permitió «disimular» el verdadero motivo de las ventas. Finalmente, [[Jasnah\|Jasnah]] se enteró de la situación de Shallan y envió a los hermanos algo de dinero, y también le ofreció la ayuda de [[Navani\|Navani]] para arreglar el moldeador roto, con lo que sus hermanos se mostraron entusiasmados. Sin embargo, el moldeador de almas Davar se perdió en el hundimiento del *[[Placer del Viento\|Placer del Viento]]*.
 
 ### Mudanza a Urithiru
-Cuando los acontecimientos históricos se desataron en Roshar, Shallan se sintió culpable por abandonar a sus hermanos. Había perdido el contacto con ellos al perder su [[Vinculaca%C3%B1as\|vinculacañas]] en el *Placer del Viento* y su preocupación fue en aumento tras enterarse de la [[Guerra civil veden\|guerra civil veden]]. Tras el descubrimiento de [[Urithiru\|Urithiru]], Shallan les mandó cartas en las que pedía que fueran a vivir con ella, pero no obtuvo respuesta. Finalmente, Shallan se enteró por [[Mraize\|Mraize]] que las tierras Davar habían caído y que él traería a su familia a Urithiru, y que sus servicios como Velo hacia los Sangre Espectral pagarían la deuda del moldeador roto.
+Cuando los acontecimientos históricos se desataron en [[Roshar\|Roshar]], Shallan se sintió culpable por abandonar a sus hermanos. Había perdido el contacto con ellos al perder su [[Vinculaca%C3%B1as\|vinculacañas]] en el *[[Placer del Viento\|Placer del Viento]]* y su preocupación fue en aumento tras enterarse de la [[Guerra civil veden\|guerra civil veden]]. Tras el descubrimiento de [[Urithiru\|Urithiru]], Shallan les mandó cartas en las que pedía que fueran a vivir con ella, pero no obtuvo respuesta. Finalmente, Shallan se enteró por [[Mraize\|Mraize]] que las tierras Davar habían caído y que él traería a su familia a Urithiru, y que sus servicios como Velo hacia los Sangre Espectral pagarían la deuda del moldeador roto.
 Mraize cumplió su promesa y Jushu, Wikim, Balat y Eylita llegaron a Urithiru tras la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. La ropa de Jushu estaba desgastada y había perdido algo de peso. La familia se reunió con Shallan y asistieron a su boda con [[Adolin Kholin\|Adolin Kholin]].
 En Urithiru, a Jushu y a sus hermanos les dieron alojamiento cerca de Shallan. Ella los visitaba con frecuencia, pero sentía cierto pesar por la forma en la que veía a Jushu y al resto de su familia tras haber cambiado tanto desde el día que abandonó el hogar de su infancia. Jushu tenía que ser vigilado de cerca para asegurar que no robara cosas y las empeñara para apostar. Sin saberlo, se hizo amigo de Mraize, que se hacía pasar por un guardia llamado Gobby.
 

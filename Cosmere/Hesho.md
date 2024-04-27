@@ -10,6 +10,7 @@
 |**Especie**|[[Kitsen\|Kitsen]]|
 |**Mundo natal**||
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Estelar\|Estelar]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
@@ -21,6 +22,7 @@
 
 **Hesho** es un capitán [[Kitsen\|kitsen]] y antiguo rey de una monarquía absoluta de su especie. Trabajando en un nave que formaba parte de la flota de la [[Supremac%C3%ADa\|Supremacía]], fue trasladado a la [[Ninguna-parte\|ninguna-parte]] en un ataque de los [[Zapador\|zapadores]] y se unió a la [[Facci%C3%B3n de los Ca%C3%B1oneros\|Facción de los Cañoneros]], convirtiéndose en el campeón pirata durante un breve periodo de tiempo.
 
+ 
 ## Sumario
 
 1 Apariencia y personalidad. [[#Apariencia y personalidad]] 

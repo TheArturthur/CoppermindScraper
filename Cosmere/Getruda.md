@@ -2,11 +2,13 @@
 
 |**Getruda**|
 |-|-|
+||
 |**Fallecido**|Asesinada por [[Waxillium Ladrian\|Waxillium Ladrian]] en 348 [[Catacendro\|PC]]|
 |**Capacidades**|[[Hemalurgia\|Hemalurgo]]|
 |**Grupo**|[[El Grupo\|El Grupo]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

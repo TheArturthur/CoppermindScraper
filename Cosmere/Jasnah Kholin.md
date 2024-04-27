@@ -11,13 +11,14 @@
 |**Nacido en**|1139|
 |**Capacidades**|[[Orden de los Nominadores de lo Otro\|Nominador de lo Otro]], [[Portador de esquirlada\|Portador de esquirlada]]|
 |**Vinculado con**|[[Marfil\|Marfil]]|
-|**Títulos**|Reina de [[Alezkar\|Alezkar]]|
+|**Títulos**|Princesa de [[Alethkar\|Alethkar]] ,Reina de [[Alezkar\|Alezkar]]|
 |**Oficio**|Historiadora|
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ [[Veristitaliano\|Veristitaliana]]|
 |**Residencia**|[[Kholinar\|Kholinar]]🐱︎ , [[Urithiru\|Urithiru]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

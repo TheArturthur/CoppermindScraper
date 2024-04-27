@@ -3,7 +3,7 @@
 |**Iriali**|
 |-|-|
 |**Lugar**|[[Iri\|Iri]] (en Roshar)|
-|**Mundo de origen**|[[Roshar\|Roshar]], [[Lumar\|Lumar]]|
+|**Mundo de origen**|Desconocido|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 Esta página habla sobre el grupo de gente del Cosmere. Para su nación en Roshar, ver [[Iri\|Iri]].

@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Karata** era una [[Arelon\|arelena]] [[Elantrino\|elantrina]] de [[Sel\|Sel]]. Lideraba una de las bandas de [[Elantris (ciudad)\|Elantris]] antes de la llegada de [[Raoden\|Raoden]]. Vivía en el palacio de la ciudad, donde acogía a los niños que habían sido tomados por la Shaod]].
 Se acercaba personalmente a cada nuevo elantrino que entraba en su territorio, aceptando sus ofrendas pero rara vez o nunca haciéndoles daño.

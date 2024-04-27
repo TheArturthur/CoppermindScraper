@@ -4,18 +4,20 @@
 |**Kdralk**|
 |-|-|
 |**Familia**|
-|**Padres**|[[Fen\|Fen]], [[Kmakl\|Kmakl]]|
+|**Padres**|[[Fen Rnamdi\|Fen Rnamdi]], [[Kmakl\|Kmakl]]|
 |**Títulos**|Capitán|
 |**Oficio**|Soldado|
+|**Etnia**|[[De Thaylenah\|de Thaylenah]]|
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Solo lamento no haber hablado lo bastante fuerte para que oyeras los insultos, déspota.*”
 \-Kdralk a Dalinar[1]
 
 
-**Kdralk** es el único hijo conocido de la reina [[Fen\|Fen]] de [[Thaylenah\|Thaylenah]] y su consorte, [[Kmakl\|Kmakl]]. Como Thaylenah es una monarquía electiva, es poco probable que herede la corona.
+**Kdralk** es el único hijo conocido de la reina [[Fen Rnamdi\|Fen Rnamdi]] de [[Thaylenah\|Thaylenah]] y su príncipe consorte, [[Kmakl\|Kmakl]]. Como Thaylenah es una monarquía electiva, es poco probable que herede la corona.
 
 ## Sumario
 

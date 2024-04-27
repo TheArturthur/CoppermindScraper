@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Fjorden\|de Fjorden]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Algún día lo llamarían su salvador.*”
 \-Hrathen[2]
@@ -58,7 +59,7 @@ Hrathen es un hombre alto, de pecho ancho y pelo oscuro. En público, siempre ll
 ## Atributos y habilidades
 Debido a su formación en varios monasterios, Hrathen es un hábil combatiente sin armas, capaz de desarmar a un soldado experimentado y de incapacitar a varios atacantes con facilidad. También es bastante hábil con la espada, con la que se defendió de varios monjes dakhor. Su armadura oficial de gyorn, a diferencia de la de muchos de sus colegas, era completamente funcional, y puesto que la llevaba siempre que estaba en público -la mayor parte de sus horas de vigilia-, estaba en excelente condición física.
 Hrathen también es un orador y estratega de talento, capaz de ganarse a la gente para su causa y de predecir con precisión los motivos de sus oponentes y crear potentes contraataques a esas maniobras.
-El único poder de Hrathen vinculado al Dor es un hueso en su antebrazo, el único vestigio de haber sido formado en el monasterio de Dakhor, aunque las habilidades de este hueso no se revelan ampliamente, se demostró que era prácticamente indestructible y le otorgó la fuerza para romper el cuello de un monje dakhor completo.
+El único poder de Hrathen vinculado al Dor es un hueso en su antebrazo, el único vestigio de haber sido formado en el monasterio de Dakhor, aunque las habilidades de este hueso no se revelan ampliamente, presumiblemente le otorga fuerza, ya que fue capaz de romper el cuello de un monje dakhor completo con este brazo. Como todos los huesos cambiados de Dakhor, su brazo es prácticamente indestructible. Debido al lugar que ocupa Hrathen como gyorn derethi, recibió un [[Seon de Hrathen\|seon]] de Wyrn. Rara vez lo utiliza, creyendo que es pagano.
 
 ## Historia
 ### Vida temprana

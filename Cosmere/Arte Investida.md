@@ -25,7 +25,7 @@ Un **Arte Investida**, a veces denominada **arcano**, es un sistema mágico del 
 
 2 Creación. [[#Creaci.C3.B3n]] 
 3 Clasificación. [[#Clasificaci.C3.B3n]] 
-4 Poderes comunes. [[#Poderes comunes]] 
+4 Habilidades recurrentes. [[#Habilidades recurrentes]] 
 
 4. [[#Sanaci.C3.B3n]] 
 
@@ -85,7 +85,7 @@ Aunque todo Arte Investida puede clasificarse en estas categorías, es más úti
 Estas categorías no siempre se aplican bien a otras Artes Investidas debido a las diferencias en cómo se define el sistema al analizar la ganancia o pérdida neta de Investidura. El despertar también se considera de fin-neutro, aunque se pierda color. Si se define el sistema a un único practicante, el despertar podría parecer de fin-positivo o negativo dependiendo de si da o recibe [[Aliento\|alientos]]. Sin embargo, el mismo número de alientos existirá en todos los despertantes, y el aliento es lo que alimenta la magia, por lo que se considera de fin-neutro. La [[Potenciaci%C3%B3n\|potenciación]] es un sistema mágico cuya clasificación es discutible entre los arcanistas. Los potenciadores suelen utilizar la Investidura que ya existe en el sistema en forma de [[Esferas\|esferas]] para potenciar su magia. Funcionalmente, sin embargo, poner la Investidura en una esfera sólo causa un retraso entre el momento en que se añade al sistema y el momento en que se utiliza para alimentar poderes, como se ve cuando [[Caballeros Radiantes\|los Radiantes]] extraen Investidura directamente de la [[Alta tormenta\|alta tormenta]] o de la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] para alimentar sus habilidades. Como tal, la mayoría de los arcanistas aceptan que la clasificación correcta de la potenciación es fin-positivo.
 La mayoría de las Artes Investidas son de fin-positivo, con algunas de fin-neutral. Las Artes Investidas de fin-negativo son extremadamente raras, con sólo la [[Hemalurgia\|hemalurgia]] y otra actualmente desconocida clasificadas de esta manera.
 
-## Poderes comunes
+## Habilidades recurrentes
 Muchos de los poderes mostrados en el Cosmere son una parte natural de la física del universo. Como resultado, los poderes a menudo tienen efectos similares en diferentes planetas a pesar de la Esquirla que influye en la forma en que el poder se administra y se accede. A medida que la gente en el Cosmere se vuelve más consciente de otros planetas y sistemas mágicos, comienzan a utilizar la misma terminología para describir magias similares de diferentes fuentes. A continuación se describen algunas de las magias más comunes y los principios que las rigen, independientemente de su origen.
 
 ### Sanación
@@ -124,7 +124,7 @@ El [[Tejer luz\|tejer luz]] se refiere a diferentes poderes ilusorios a través 
 |[[Hion\|Hion]]|[[Komashi\|Komashi]]|[[Virtuosismo\|Virtuosismo]]|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 |[[Microquinesis\|Microquinesis]]|[[Yolen\|Yolen]]|*Desconocida*|[[Dragonsteel (saga)\|Dragonsteel]]|
 |[[Tejer luz (Yolen)\|Tejido de luz de Yolen]]|[[Yolen\|Yolen]]|*Desconocida*|[[Dragonsteel (saga)\|Dragonsteel]]|
-|[[%C3%89ter\|Éter]]|[[Lumar\|Lumar]], *[[Planeta natal de los %C3%A9ter\|Mundo natal desconocido]]*|Ninguna|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*, *[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]*|
+|[[%C3%89ter\|Éter]]|[[Dhatri\|Dhatri]], [[Lumar\|Lumar]]|Ninguna|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*, *[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]*|
 
 ## Notas
 

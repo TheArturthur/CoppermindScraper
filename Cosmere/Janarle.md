@@ -11,12 +11,16 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Janarle** es un noble del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]].
 Sirvió a [[Straff Venture\|Straff Venture]] como general y participó en el [[Asedio de Luthadel\|asedio de Luthadel]]. Mientras Straff estaba indispuesto, Janarle dirigió eficazmente al ejército y planeó un golpe que se ejecutaría bajo el permiso de Straff. Continuó informando sobre el progreso del ataque de los koloss contra Luthadel. Straff creía que Janarle podría derrocarlo si supiera que [[Zane\|Zane]] había desaparecido. Después de que Straff fuese asesinado en la batalla final del asedio, Janarle se doblegó ante el [[Nuevo Imperio\|Nuevo Imperio]]. Tras la batalla, intentó razonar que debería concentrar sus fuerzas en afianzar su control sobre el Dominio Septentrional. De ahí en adelante, se convertiría en rey de este territorio, administrándolo desde [[Urteau\|Urteau]].
 Cuando Quellion comenzó a rebelarse contra el Nuevo Imperio, Janarle huyó de Urteau. Durante su marcha a través del Dominio Septentrional, fue atacado por los [[Koloss\|koloss]] y fue transformado en uno de ellos. Participó en la [[Batalla de Hathsin\|batalla de Hathsin]] como un koloss. Como no logró llegar a las líneas del frente, probablemente murió cuando el sol ascendió y comenzó a quemar la tierra.
 
 ## Notas
+|Antecesor  **[[Straff Venture\|Straff Venture]]**|**Rey del [[Dominio Septentrional\|Dominio Septentrional]]**  1023 [[Imperio Final\|IF]] a 1025 [[Imperio Final\|IF]]|Sucesor  ***Título abolido***|
+|-|-|
+
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

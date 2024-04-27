@@ -4,20 +4,22 @@
 |**[[Familia de Lunamor\|Familia de Lunamor]]**|
 |**Padres**|[[Lunamor\|Lunamor]], [[Tuaka\|Tuaka]]|
 |**Hermanos**|[[Cuerda\|Cuerda]], [[Roca (junior)\|Roca]], [[Estrella\|Estrella]], [[Kuma'tiki\|Kuma'tiki]], [[Canci%C3%B3n Hermosa\|Canción Hermosa]]|
+|**Religión**|[[Vorinismo\|Vorinismo]]|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*¡Ja! Cuando me marché, Don era bajito como Cikatriz. ¡Ahora está casi tan alto como yo!*”
 \-Lunamor[1]
 
 
-**Don** es un [[Unkalaki\|unkalaki]] de [[Roshar\|Roshar]]. Es el hijo mayor de [[Lunamor\|Lunamor]] y [[Tuaka\|Tuaka]], y mellizo de [[Cuerda\|Cuerda]]. Es un chico joven muy alto y de piel pálida. Es [[Vorin\|vorin]] y lleva una [[Glifoguarda\|glifoguarda]] atada en el brazo.
+**Don** es un [[Unkalaki\|unkalaki]] de [[Roshar\|Roshar]]. Es el hijo mayor de [[Lunamor\|Lunamor]] y [[Tuaka\|Tuaka]], y mellizo de [[Cuerda\|Cuerda]]. Es un chico joven muy alto y de piel pálida. Es [[Vorin\|vorin]] y lleva una [[Glifoguarda\|glifoguarda]] atada en el brazo. Según las tradiciones de su cultura, tiene el honor de recolectar alimentos como ocupación.
 Al igual que su padre y hermana, es posible que Don pueda [[Vidente\|ver]] los [[Spren\|spren]]. Don es el único de sus hermanos que habla suficiente [[Alezi\|alezi]] para poder saludar aceptablemente cuando llega a las [[Llanuras Quebradas\|Llanuras Quebradas]].
 
 ## Historia
-Don se convirtió al Vorinismo, con la bendición de su padre, debido a unos monjes [[Veden\|veden]] que fueron a los [[Picos Comecuernos\|Picos Comecuernos]] cuando estaba creciendo allí. Su padre, que había se había ido de los Picos con [[Kef'ha\|Kef'ha]] casi un año antes, envió un mensaje convocando a su familia enseguida que tuvo suficientes ahorros. Don y su familia viajó durante meses y llegaron a las [[Llanuras Quebradas\|Llanuras Quebradas]] en 1174. Su caravana fue atacada por unos [[Portadores del Vac%C3%ADo\|portadores del vacío]] en las Llanuras, así que él y su familia se refugiaron tras un montón de muebles. Durante el ataque, un miembro de su familia disparó a un portador del vacío con una flecha [[Unkalaki\|unkalaki]]. El [[Puente Cuatro\|Puente Cuatro]] los encontró poco después y los llevaron a [[Urithiru\|Urithiru]]. Lunamor se sorprendió al ver cuánto había crecido Don durante su ausencia. Después de asentarse en Urithiru, Don ayudó a su padre a servir comida y bebida al Puente Cuatro. [[Lift\|Lift]] le cayó bien y a menudo dejaba comida para que la pudiera «robar».
+Don se convirtió al [[Vorinismo\|vorinismo]], con la bendición de su padre, debido a unos monjes [[Veden\|veden]] que fueron a los [[Picos Comecuernos\|Picos Comecuernos]] cuando estaba creciendo allí. Su padre, que había se había ido de los Picos con [[Kef'ha\|Kef'ha]] casi un año antes, envió un mensaje convocando a su familia enseguida que tuvo suficientes ahorros. Don y su familia viajó durante meses y llegaron a las [[Llanuras Quebradas\|Llanuras Quebradas]] en 1174. Su caravana fue atacada por unos [[Portadores del Vac%C3%ADo\|portadores del vacío]] en las Llanuras, así que él y su familia se refugiaron tras un montón de muebles. Durante el ataque, un miembro de su familia disparó a un portador del vacío con una flecha [[Unkalaki\|unkalaki]]. El [[Puente Cuatro\|Puente Cuatro]] los encontró poco después y los llevaron a [[Urithiru\|Urithiru]]. Lunamor se sorprendió al ver cuánto había crecido Don durante su ausencia. Después de asentarse en Urithiru, Don ayudó a su padre a servir comida y bebida al [[Puente Cuatro\|Puente Cuatro]]. [[Lift\|Lift]] le cayó bien y a menudo dejaba comida para que la pudiera «robar».
 Junto a su hermana [[Cuerda\|Cuerda]], Don decidió quedarse en Urithiru cuando Lunamor volvió a los Picos con el resto de su familia.
 
 ## Notas

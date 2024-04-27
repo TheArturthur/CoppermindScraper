@@ -7,8 +7,9 @@
 |**Capacidades**|[[Saltamundos\|Saltamundos]]|
 |**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎,  [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]🐱︎ |
 |**Etnia**|[[De Scadrial del Sur\|de Scadrial del Sur]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Mundo natal**|[[Luzdeplata\|Luzdeplata]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Yo misma me he preguntado muchas veces por qué aquí vais exponiendo tan descaradamente vuestros rasgos a todo el que quiera verlos.*”
 \-Iyatil[2]
@@ -31,12 +32,18 @@
 
 3 Historia. [[#Historia]] 
 4 Relaciones. [[#Relaciones]] 
+
+4. [[#Mraize]] 
+4. [[#Thaidakar]] 
+4. [[#Dlavil]] 
+
+
 5 Notas. [[#Notas]] 
 
 
 ## Apariencia y Personalidad
  
-Iyatil suele llevar ropas simples: camisa marrón oscuro y pantalones, con un cinturón intrincado que tiene incrustaciones de caparazones, además de guantes y una daga. No cubre su [[Mano segura\|mano segura]], por lo que [[Shallan\|Shallan]] la confunde con un muchacho la primera vez que la ve. Cuando sigue de cerca a alguien, lleva puesta una capa negra. Se le describe como pequeña, o de baja estatura, y de piel bronceada. Esta es una descripción bastante común para los saltamundos que se encuentren en Roshar, ya que allí los humanos son extraordinariamente altos.
+Iyatil suele llevar ropas simples: camisa marrón oscuro y pantalones, con un cinturón intrincado que tiene incrustaciones de caparazones, además de guantes y una daga. No cubre su [[Mano segura\|mano segura]], por lo que [[Shallan\|Shallan]] la confunde con un muchacho la primera vez que la ve. Cuando sigue de cerca a alguien, lleva puesta una capa negra. Se le describe como pequeña, o de baja estatura, y de piel bronceada. Esta es una descripción bastante común para los saltamundos que se encuentren en [[Roshar\|Roshar]], ya que allí los humanos son extraordinariamente altos.
 Tiene los ojos oscuros, pequeños y brillantes, y no suele pestañear. La parte visible de su casa es inexpresiva, y su presencia suele ser inquietante. Nunca revela más información de la que es necesaria y suele negarse a contestar preguntas, con lo que mantiene ocultas sus motivaciones.
 
 ### Máscara de Scadrial del sur
@@ -48,34 +55,40 @@ El rasgo distintivo de Iyatil es una máscara que cubre el área que rodea sus o
 
 ## Atributos y habilidades
  
-Iyatil es una [[/wiki/Cosmere#Saltamundos]]. Es originaria de [[Luzdeplata\|Luzdeplata]], en el [[Reino Cognitivo\|Reino Cognitivo]], pero vive en Roshar en el [[Reino F%C3%ADsico\|Reino Físico]]. También ha estado en otros planetas sin identidad comfirmada. Su experiencia personal y su pertenencia a la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y a los [[Sangre Espectral\|Sangre Espectral]] hacen que, presumiblemente, sea altamente consciente del [[Cosmere\|Cosmere]].
+Iyatil es una [[/wiki/Cosmere#Saltamundos]]. Es originaria de [[Luzdeplata\|Luzdeplata]], en el [[Reino Cognitivo\|Reino Cognitivo]], pero vive en [[Roshar\|Roshar]] en el [[Reino F%C3%ADsico\|Reino Físico]]. También ha estado en otros planetas sin identidad comfirmada. Su experiencia personal y su pertenencia a la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y a los [[Sangre Espectral\|Sangre Espectral]] hacen que, presumiblemente, sea altamente consciente del [[Cosmere\|Cosmere]].
 
 ### Rol en los Sangre Espectral
-Los Sangre Espectral tienen una estructura jerárquica muy definida e Iyatil parece ser uno de los miembros de más alto nivel en Roshar. Es la maestra y mentora de [[Mraize\|Mraize]]: él se refiere a Iyatil como su '[[Babsk\|babsk]]' en jerga local, y ha sido su supervisora en varios viajes extraplanetarios. Es consciente de gente como [[Gavilar\|Gavilar]] y de organizaciones como los [[Hijos de Honor\|Hijos de Honor]], y de sus intentos de manipular la magia, con consecuencias que potencialmente pueden afectar a una parte más amplia del Cosmere, y los está investigando. Lo mismo hizo con [[Talenel\|Talenel]], e intentó hablar con [[Shalash\|Shalash]]. Ha recibido poderes para negociar de parte del maestro de los Sangre Espectral, [[Thaidakar\|Thaidakar]], y le mantiene al tanto de la situación en Roshar, ya que el no puede visitar el planeta.. Aunque Thaidakar es el maestro de Iyatil, ella lidera de forma independiente; la ubicación remota de Thaidakar significa que no siempre tiene un conocimiento detallado de las actividades de los Sangre Espectral.
+Los Sangre Espectral tienen una estructura jerárquica muy definida e Iyatil parece ser uno de los miembros de más alto nivel en Roshar. Es la maestra y mentora de [[Mraize\|Mraize]]: él se refiere a Iyatil como su '[[Babsk\|babsk]]' en jerga local, y ha sido su supervisora en varios viajes extraplanetarios. Es consciente de gente como el rey [[Gavilar Kholin\|Gavilar Kholin]] y de organizaciones como los [[Hijos de Honor\|Hijos de Honor]], y de sus intentos de manipular la magia, con consecuencias que potencialmente pueden afectar a una parte más amplia del Cosmere, y los está investigando. Lo mismo hizo con [[Talenel\|Talenel]], e intentó hablar con [[Shalash\|Shalash]]. Ha recibido poderes para negociar de parte del maestro de los Sangre Espectral, [[Thaidakar\|Thaidakar]], y le mantiene al tanto de la situación en Roshar, ya que el no puede visitar el planeta.. Aunque Thaidakar es el maestro de Iyatil, ella lidera de forma independiente; la ubicación remota de Thaidakar significa que no siempre tiene un conocimiento detallado de las actividades de los Sangre Espectral.
 
 ### Espía y asesina
 >“*¿Quién eres en realidad, Velo? Me sorprendiste espiándote, y puedes perderme en las calles. No es algo fácil de hacer.*”
 \-Iyatil[3]
 
 Iyatil es tremendamente sigilosa y a veces parece como si saliera de la nada. Siempre está bien informada de la seguridad, los horarios y los alrededores del área donde se encuentra, como en los [[Campamento de guerra\|campamentos de guerra]] [[Alezi\|Alezi]]. Tiene buen ojo para los detalles, buena habilidad de rastreo y es capaz de esconderse, lo que le hace una espía y asesina muy eficaz. También ha entrenado con varias armas, y considera escapar de un monasterio alezi por si misma como algo trivial. Es capaz de moverse "demasiado rápido" como para que le persigan.
-No está claro si tiene o no habilidades mágicas. Su ascendencia scadriana podría permitirle usar una de las [[Artes met%C3%A1licas\|artes metálicas]], pero no hay confirmación de que pueda hacerlo. Como resultado del [[Catacendro\|Catacendro]], los scadrianos del sur desarrollaron los [[Mente de metal liberada\|medallones feruquímicos]] con la ayuda de [[Supresor\|supresores]], y con el objetivo de sobrevivir las bajas temperaturas de la zona . No está claro si Iyatil tiene, o siquiera necesita, uno de estos medallones .
+No está claro si tiene o no habilidades mágicas. Su ascendencia [[Scadrial\|scadriana]] podría permitirle usar una de las [[Artes met%C3%A1licas\|artes metálicas]], pero no hay confirmación de que pueda hacerlo. Como resultado del [[Catacendro\|Catacendro]], los scadrianos del sur desarrollaron los [[Mente de metal liberada\|medallones feruquímicos]] con la ayuda de [[Supresor\|supresores]], y con el objetivo de sobrevivir las bajas temperaturas de la zona . No está claro si Iyatil tiene, o siquiera necesita, uno de estos medallones .
 
 ## Historia
  
-Iyatil nació en [[Luzdeplata\|Luzdeplata]], una ciudad de gente conscientes del Cosmere en el [[Reino Cognitivo\|Reino Cognitivo]]. Tiene ascendencia del sur de Scadrial, específicamente de la nación de [[/wiki/Scadrial del sur#Los cazadores]]. Se desconoce cómo su familia se estableció en Luzdeplata, pero llevan allí relativamente poco tiempo. La nación de los Cazadores es conocida por su pasado como firmes guerreros, pero ahora se dedican a investigar el [[Catacendro\|Catacendro]].
-En algún momento Iyatil fue miembro de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]], una organización misteriosa de la que son miembros varios saltamundos. Dejó la organización, por razones que se desconocen, aunque es posible que fuera por su ingreso en los Sangre Espectral.
-Iyatil se mudó a Roshar antes del 1173. No se sabe qué está haciendo allí, más allá de que está instruyendo a Mraize. Estaba presente en el primer encuentro entre Shallan y los Sangre Espectral, y la siguió al acabar la reunión para intentar localizar a [[Tyn\|Tyn]]. También estuvo presente cuando Mraize descubre las habilidades artísticas de Shallan y este decide darle una nueva misión. Iyatil decide ir a vigilar a Shallan pero, a pesar de sus habilidades de espía, la descubre [[Patr%C3%B3n\|Patrón]]. Shallan la engaña usando un [[/wiki/Potenciaci%C3%B3n#Tejer Luz]] y la hace revelarse. A pesar de la sorpresa, se recompone rápidamente y le confirma a Shallan sus instrucciones: investigar al loco que acaba de llegar a los campamentos de guerra Alezi. Con esto, Iyatil ayuda a Shallan a infiltrarse en el monasterio donde tienen retenido a [[Talenel\|Talenel]].
-Tras la [[Batalla de Narak\|Batalla de Narak]], Iyatil intenta matar al Alto Señor [[Amaram\|Amaram]] con una cerbatana y dardos envenenados. No está claro el porqué, pero es probable que tenga que ver con la relación entre este y [[Restares\|Restares]] y los [[Hijos de Honor\|Hijos de Honor]], y lo que sabe sobre los Sangre Espectral. Habría tenído éxito de no ser por la intervención de [[Talenel\|Talenel]]. Aunque Amaram invoca su [[Hoja esquirlada\|hoja esquirlada]], Iyatil huye sin problemas.
-Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Iyatil sigue haciendo su trabajo en un segundo plano. Con la intención de llevar [[Luz tormentosa\|luz tormentosa]] fuera de Roshar, Thaidakar planea tomar el control de las [[Puerta Jurada\|Puertas Juradas]]. Para disgusto de este, Iyatil le informa de que es imposible, y ella y Mraize proceden a intentar poder acceder a ellas. Mraize intenta convencer a [[Rabeniel\|Rabeniel]] de que negocie con Iyatil dándole una [[/wiki/Plata#Cadena trenodita]].
+Iyatil nació en [[Luzdeplata\|Luzdeplata]], una ciudad de gente conscientes del Cosmere en el [[Reino Cognitivo\|Reino Cognitivo]]. Tiene ascendencia del [[Scadrial del sur\|sur de Scadrial]], específicamente de la nación de [[/wiki/Scadrial del sur#Los cazadores]]. Se desconoce cómo su familia se estableció en Luzdeplata, pero llevan allí relativamente poco tiempo. La nación de los Cazadores es conocida por su pasado como firmes guerreros, pero ahora se dedican a investigar el [[Catacendro\|Catacendro]].
+En algún momento Iyatil fue miembro de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]], una organización misteriosa de la que son miembros varios saltamundos. Dejó la organización, por razones que se desconocen, aunque es posible que fuera por su ingreso en los [[Sangre Espectral\|Sangre Espectral]].
+Iyatil se mudó a [[Roshar\|Roshar]] antes del 1173. No se sabe qué está haciendo allí, más allá de que está instruyendo a Mraize. Estaba presente en el primer encuentro entre Shallan y los Sangre Espectral, y la siguió al acabar la reunión para intentar localizar a [[Tyn\|Tyn]]. También estuvo presente cuando [[Mraize\|Mraize]] descubre las habilidades artísticas de [[Shallan Davar\|Shallan Davar]] y este decide darle una nueva misión. Iyatil decide ir a vigilar a Shallan pero, a pesar de sus habilidades de espía, la descubre [[Patr%C3%B3n\|Patrón]]. Shallan la engaña usando un [[/wiki/Potenciaci%C3%B3n#Tejer Luz]] y la hace revelarse. A pesar de la sorpresa, se recompone rápidamente y le confirma a Shallan sus instrucciones: investigar al loco que acaba de llegar a los  Alezi. Con esto, Iyatil ayuda a Shallan a infiltrarse en el monasterio donde tienen retenido a [[Talenel\|Talenel]].
+Tras la [[Batalla de Narak\|Batalla de Narak]], Iyatil intenta matar al alto príncipe [[Meridas Amaram\|Meridas Amaram]] con una cerbatana y dardos envenenados. No está claro el porqué, pero es probable que tenga que ver con la relación entre este y [[Restares\|Restares]] y los [[Hijos de Honor\|Hijos de Honor]], y lo que sabe sobre los Sangre Espectral. Habría tenído éxito de no ser por la intervención de [[Talenel\|Talenel]]. Aunque Amaram invoca su [[Hoja esquirlada\|hoja esquirlada]], Iyatil huye sin problemas.
+Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Iyatil sigue haciendo su trabajo en un segundo plano. Con la intención de llevar [[Luz tormentosa\|luz tormentosa]] fuera de Roshar, [[Thaidakar\|Thaidakar]] planea tomar el control de las [[Puerta Jurada\|Puertas Juradas]]. Para disgusto de este, Iyatil le informa de que es imposible, y ella y Mraize proceden a intentar poder acceder a ellas. Mraize intenta convencer a [[Rabeniel\|Rabeniel]] de que negocie con Iyatil dándole una [[/wiki/Plata#Cadena trenodita]].
 
 ## Relaciones
-
+### [[Mraize\|Mraize]]
  
 >“*Un grupo de cazadores trabajando juntos podrían volverse unos contra otros con demasiada facilidad. De modo que yo respeto a mi babsk y tú me respetas a mí. No atacamos a los nuestros y no negociamos hacia arriba.*”
 \-Mraize a Shallan[16]
 
 
+Iyatil es la mentora de Mraize, por lo que él usa el término '[[Babsk\|babsk]]' para describir la relación entre ambos. Ella dice que Mraize es su pupilo y lo supervisó de cerca cuando estuvieron en otros planetas. En algún momento, Iyatil manda a alguien que siga a Mraize, perpetrando una costumbre de los [[Sangre Espectral\|Sangre Espectral]] que facilita que quien esté siguiendo al alumno pueda intervenir en caso de que este necesite ayuda. Ella es quien le guía en sus tareas, como el reclutamiento de [[/wiki/Shallan Davar#Velo]]. Suele tener permiso para negociar de su parte. Mraize no está obligado a seguir las instrucciones de Iyatil, ya que los Sangre Espectral permiten que sus miembros actúen libremente.
 
+### [[Thaidakar\|Thaidakar]]
+Thaidakar es el líder de los Sangre Espectral e Iyatil parece reportar a él directamente. Aunque está muy interesado en los sucesos de Roshar, existe cierta distancia entre él y la rama local de los Sangre Espectral. Iyatil trabaja para lograr sus objetivos y proporciona información actualizada sobre la situación en Roshar. Sin embargo, la remota ubicación de Thaidakar significa que puede no estar al tanto de las actividades específicas de Iyatil y los otros Sangre Espectral. No está claro cómo se comunican con Thaidakar, ya que este no se encuentra en el [[Sistema roshariano\|sistema roshariano]], pero se sabe que los Sangre Espectral utilizan métodos de comunicación inusuales y que Thaidakar también ha utilizado avatares.
+
+### Dlavil
+Dlavil es su hermano, pero se desconoce la relación exacta entre ellos.
 
 ## Notas
 

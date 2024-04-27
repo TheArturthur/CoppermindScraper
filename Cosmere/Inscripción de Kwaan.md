@@ -24,7 +24,8 @@ Ruin modificó porciones específicas de las copias de la inscripción de Kwaan 
 |**Versión**|**Texto**|
 |-|-|
 |**Texto original**|"No obstante, también temo que todo lo que he conocido caiga en el olvido, que mi historia caiga en el olvido. Y temo por el mundo que habrá de venir. Temo que **mis planes** fracasen. Temo **un destino aún peor que** la Profundidad." |
-|**Texto corrompido**|"No obstante, también temo que todo lo que he conocido caiga en el olvido, que mi historia caiga en el olvido. Y temo por el mundo que habrá de venir. Temo que **Alendi** fracase. Temo **la ruína que traiga** la Profundidad." |
+|**Texto corrompido**|"No obstante, también temo que todo lo que he conocido caiga en el olvido, que mi historia caiga en el olvido. Y temo por el mundo que habrá de venir. Temo que **Alendi** fracase. Temo **la ruina que traiga** la Profundidad."|
+|«No obstante, también temo que todo lo que he conocido caiga en el olvido, que mi historia caiga en el olvido. Y temo por el mundo que habrá de venir. Temo **que mis planes fracasen**. Temo un destino **aún peor** que la Profundidad».|
 
 Aquí, Ruina oculta la revelación de que Kwaan está preocupado por una amenaza mayor que la Profundidad: el propio Ruina.
 
@@ -44,6 +45,13 @@ Ruina reemplaza "Alendi" por un pronombre de género neutro (traducido aquí com
 
 |**Versión**|**Texto**|
 |-|-|
+|**Texto original**|«Si al menos la Profundidad no hubiera llegado **cuando lo hizo**, trayendo una amenaza que empujó a los hombres a la desesperación tanto en sus actos como en sus creencias…»|
+|**Texto corrompido**|«Si al menos la Profundidad no hubiera llegado, trayendo una amenaza que empujó a los hombres a la desesperación tanto en sus actos como en sus creencias…»|
+
+Ruina elimina la frase «cuando lo hizo», enfatizando la amenaza de la Profundidad.
+
+|**Versión**|**Texto**|
+|-|-|
 |**Texto original**|"Había un sitio para mí en la tradición de la Anticipación: me consideré el **Anunciador**, el profeta que habría de descubrir, según lo predicho, al Héroe de las Eras." |
 |**Texto corrompido**|"Había un lugar para mí en la tradición de la Anticipación: me consideré el **Sagrado Primer Testigo**, el profeta que habría de descubrir, según lo predicho, al Héroe de las Eras. " |
 
@@ -58,10 +66,17 @@ Aquí, Ruina borra una referencia al hecho de que Kwaan se da cuenta de que las 
 
 |**Versión**|**Texto**|
 |-|-|
+|**Texto original**|«**No me cabe duda** de que, si Alendi llega al Pozo de la Ascensión, tomará el poder y entonces, en nombre de un supuesto bien mayor, renunciará a él.» |
+|**Texto corrompido**|«Dudo que, si Alendi llega al Pozo de la Ascensión, tomará el poder y entonces, en nombre de un supuesto bien mayor, renunciará a él.» |
+
+Ruina enturbia el descubrimiento de Kwaan de que renunciar al poder del Pozo haría más mal que bien.
+
+|**Versión**|**Texto**|
+|-|-|
 |**Texto original**|"Rashek debe intentar guiar a Alendi en la dirección equivocada, para desanimarlo o, de lo contrario, hacerlo fallar en su búsqueda. Alendi no sabe que ha sido engañado, **que todos hemos sido engañados, y ahora no quiere escucharme**." |
 |**Texto corrompido**|"Rashek debe intentar guiar a Alendi en la dirección equivocada, para desanimarlo o, de lo contrario, hacerlo fallar en su búsqueda. Alendi no sabe que ha sido engañado." |
 
-Aquí, Ruina elimina directamente una porción del texto para ocultar que se ha dado cuenta de alguna gran decepción que está ocurriendo.
+Aquí, Ruina elimina directamente una porción del texto para ocultar que se ha dado cuenta de algún gran engaño que está ocurriendo.
 
 |**Versión**|**Texto**|
 |-|-|

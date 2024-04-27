@@ -12,6 +12,9 @@
 
 Los **heklo** son una especie miembro de la [[Supremac%C3%ADa\|Supremacía]] y una de las cinco especies que actualmente están al frente del gobierno. No tienen una gran presencia en [[Visi%C3%B3n Estelar\|Visión Estelar]].
 
+## Apariencia
+Tienen apariencia de pájaros y alas.
+
 ## Notas
 
 Este artículo es muy corto. Por favor, ayuda a The Coppermind .

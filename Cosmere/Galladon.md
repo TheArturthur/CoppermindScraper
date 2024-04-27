@@ -3,6 +3,8 @@
 |**Galladon**|
 |-|-|
 ||
+|**Familia**|
+|**Padres**|[[Padre de Galladon\|Padre]]|
 |**Capacidades**|[[Elantrino\|Elantrino]], [[Saltamundos\|Saltamundos]]|
 |**Apodos**|Dendo, Gruñón, Temoo|
 |**Grupo**|[[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]🐱︎|
@@ -10,12 +12,13 @@
 |**Etnia**|[[De Duladel\|de Duladel]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Había algo agradable en el dula, algo que Raoden encontraba indefinidamente atractivo aunque estuviera cubierto por una pátina de pesimismo tan gruesa como la capa de mugre del suelo.*”
 \-Raoden[2]
 
 
-**Galladon** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Es originariamente un granjero de [[Duladel\|Duladel]]. Su padre también era elantrino y la mayor parte del conocimiento de Galladon sobre [[Elantris (ciudad)\|Elantris]] proviene de pasar tiempo con su padre en la ciudad cuando era niño. Tiene un papel decisivo en la creación del asentamiento de Nueva Elantris y en la reparación del [[AonDor\|AonDor]].. Más tarde se une a la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y es visto en [[Roshar\|Roshar]].
+**Galladon** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Es originariamente un granjero de [[Duladel\|Duladel]]. Su [[Padre de Galladon\|padre]] también era elantrino y la mayor parte del conocimiento de Galladon sobre [[Elantris (ciudad)\|Elantris]] proviene de pasar tiempo con su padre en la ciudad cuando era niño. Tiene un papel decisivo en la creación del asentamiento de Nueva Elantris y en la reparación del [[AonDor\|AonDor]].. Más tarde se une a la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y es visto en [[Roshar\|Roshar]].
 
 ## Sumario
 
@@ -54,7 +57,7 @@ Galladon es un granjero experto y disfruta con la agricultura. Cuando la Shaod s
 
 ## Historia
 ### Vida temprana
-El padre de Galladon se hizo elantrino cuando Galladon era aún muy joven. Aunque en aquella época los elantrinos no estaban obligados a trasladarse a Elantris, era práctica habitual que vivieran en Elantris para evitar la persecución. Galladon vivió con su madre y su padre en Elantris durante varios años, hasta que su madre murió. Tras la muerte de ésta, el padre de Galladon se volvió cada vez más retraído, hasta que finalmente murió a causa de una enfermedad cardiaca. Era tratable médicamente, pero prefirió dejar que su vida terminara antes que continuar sin su esposa.
+El [[Padre de Galladon\|padre de Galladon]] se hizo elantrino cuando Galladon era aún muy joven. Aunque en aquella época los elantrinos no estaban obligados a trasladarse a Elantris, era práctica habitual que vivieran en Elantris para evitar la persecución. Galladon vivió con su madre y su padre en Elantris durante varios años, hasta que su madre murió. Tras la muerte de ésta, el padre de Galladon se volvió cada vez más retraído, hasta que finalmente murió a causa de una enfermedad cardiaca. Era tratable médicamente, pero prefirió dejar que su vida terminara antes que continuar sin su esposa.
 Tras la muerte de su madre, Galladon regresó a Duladel para convertirse en granjero, con la bendición de su padre.
 
 ### La vida en la granja

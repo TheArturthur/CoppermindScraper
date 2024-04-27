@@ -19,7 +19,7 @@
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
-El **hierro** es el metal de atracción física externa. Un alomante que queme hierro puede atraer trozos de metal hacia el "centro de sí mismo", y también puede utilizar el hierro para percibir la presencia de metales cercanos. La atracción no depende de las fuerzas magnéticas ni del poder alomántico: la mayoría de los metales (con la excepción del [[Aluminio\|aluminio]] y algunas de sus aleaciones) pueden ser atraídos. Los feruquímicos pueden utilizar este metal para almacenar peso físico, y cuando se utiliza como clavo hemalúrgico, roba fuerza física.
+El **hierro** es el metal de atracción física externa. Un alomante que queme hierro puede atraer trozos de metal hacia el "centro de sí mismo", y también puede utilizar el hierro para percibir la presencia de metales cercanos. La atracción no depende de las fuerzas magnéticas ni del poder alomántico: la mayoría de los metales (con la excepción del [[Aluminio\|aluminio]] y algunas de sus aleaciones) pueden ser atraídos. Los feruquímicos pueden utilizar este metal para almacenar masa físico, y cuando se utiliza como clavo hemalúrgico, roba fuerza física.
 La aleación pareja del hierro utilizada en las Artes Metálicas es el [[Acero\|acero]].
 
 ## Sumario

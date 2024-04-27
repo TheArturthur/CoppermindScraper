@@ -10,6 +10,7 @@
 |**Grupo**|[[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]]|
 |**Mundo natal**|[[Tierra (Escuadr%C3%B3n)\|Tierra (Escuadrón)]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

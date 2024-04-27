@@ -39,8 +39,7 @@ El **diario de Khrissalla** es una serie de páginas escritas por la célebre [[
 1. [[#Energ.C3.ADa del Mundo Inadvertido]] 
 
 
-2 Curiosidades. [[#Curiosidades]] 
-3 Notas. [[#Notas]] 
+2 Notas. [[#Notas]] 
 
 
 ## Anotaciones
@@ -374,8 +373,17 @@ Teniendo en cuenta las conexiones entre ambos lados de nuestro planeta, me pregu
 Estas anomalías -rostros en las nubes, investidura de poder, el Mundo de lo Inadvertido- me atraen de un modo que no había logrado ninguna otra materia de estudio. Ya tengo planeadas decenas de experimentos, y he diseñado herramientas especializadas que confío en que me ayuden en mi exploración, pero esas notas pueden esperar a mañana. Hasta entonces, pretendo permanecer en cubierta todo el tiempo posible. Pronto entraremos en la tormenta del Límite, y deseo pasar el tiempo que me queda en el Lado Diurno al calor y la luz de una estrella.
 
   Vista de AisDa en el horizonte desde un barco que se acerca a la tormenta del Límite.
-## Curiosidades
 ## Notas
+A este artículo le falta información. Por favor, ayuda a The Coppermind .
+|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
+|-|-|
+|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
+|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
+|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
+|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
+|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
+|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+
 
 
 https://es.coppermind.net/wiki/Diario_de_Khrissalla

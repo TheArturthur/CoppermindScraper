@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Elis\|de Elis]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Brazales de Duelo (libro)\|Brazales de Duelo]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
@@ -39,13 +40,13 @@ La duquesa **Khrissalla**, más conocida como **Khriss**, es una mujer [[Saltamu
 
 
 ## Apariencia y Personalidad
-  Estudiando <<Esfera\|esferas>>
+  Estudiando <<Fabrial\|fabriales>>
 Para más imágenes, ver [[Khrissalla/Galer%C3%ADa\|/Galería]].
 Khriss tiene la tez oscura, dado que es de Lado Oscuro de Taldain. Tiene los ojos marrones y lleva el pelo trenzado. Cuando está en Lado Diurno, Khriss lleva unas gafas de sol oscuras, ya que no está acostumbrada a la luz del sol de Lado Diurno. También lleva un sombrero de ala ancha para detener los rayos solares.
 Khriss es una erudita formada en la universidad y es extremadamente curiosa. Busca entender y encontrar explicaciones científicas para todo lo que puede.
 
 ## Atributos y Habilidades
-Khriss es una de las eruditas más consumadas de la magia en el Cosmere. Sabe más del Cosmere y sus sistemas de magia que [[Nazh\|Nazh]], su asistente, y que [[Hoid\|Hoid]], que está vivo desde antes de la [[Fragmentaci%C3%B3n\|Fragmentación]]. Colecciona su conocimiento en el [[Ars Arcanum\|Ars Arcanum]]. En su lista de preguntas por responder, está a la cabeza el [[M%C3%A1s All%C3%A1\|Más Allá]] y qué pasa en él, seguida de cómo sacar [[Luz tormentosa\|luz tormentosa]] de Roshar.
+Khriss es una de las eruditas más consumadas de la [[Investidura\|Investidura]] en el Cosmere. Sabe más del Cosmere y sus sistemas de magia que [[Nazh\|Nazh]], su asistente, e incluso que [[Hoid\|Hoid]], que está vivo desde antes de la [[Fragmentaci%C3%B3n\|Fragmentación]]. Colecciona su conocimiento en el [[Ars Arcanum\|Ars Arcanum]]. En su lista de preguntas por responder, está a la cabeza el [[M%C3%A1s All%C3%A1\|Más Allá]] y qué pasa en él, seguida de cómo sacar [[Luz tormentosa\|luz tormentosa]] de Roshar.
 Khriss tiene [[Marca estelar\|marcas estelares]].
 
 ## Historia

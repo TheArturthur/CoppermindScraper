@@ -59,7 +59,7 @@ Algunos de los sirvientes empleados en distintos cargos relacionados con el serv
 [[Hoid\|Hoid]]
 [[Clotilde\|Clotilde]]
 [[Drewton\|Drewton]]
-[[Cob\|Cob]]
+[[Cob (Nacidos de la bruma)\|Cob]]
 [[Herve\|Herve]]
 [[Landre\|Landre]]
 

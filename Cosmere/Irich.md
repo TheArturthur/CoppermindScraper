@@ -7,8 +7,9 @@
 |**Grupo**|[[El Grupo\|El Grupo]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
-El **profesor Irich** es un científico y miembro del [[El Grupo\|Grupo]] en [[Scadrial\|Scadrial]]. Dentro del Grupo ostenta el rango de matriz/colector. Es un [[Brumoso\|brumoso]] de [[Cromo\|cromo]] (también denominado ).
+El **profesor Irich** es un científico y miembro del [[El Grupo\|Grupo]] en [[Scadrial\|Scadrial]]. Dentro del Grupo ostenta el rango de matriz/colector. Es un [[Brumoso\|brumoso]] de [[Cromo\|cromo]] (también denominado [[Sanguijuela\|sanguijuela]]).
 
 ## Apariencia y personalidad
 Irich es delgado, de unos seis pies de alto (unos 180 cm) y tiene la carra estrecha y el pelo oscuro. Tiene una enfermedad degenerativa que debilita sus músculos y dificulta la respiración. Su médico le ha dicho que la enfermedad acabará matándole, y él puede sentir cómo su condición empeora día tras día. Lleva un bastón para ayudarse al caminar, y su manera de andar cambia cada pocos meses debido a la rápida degeneración de sus músculos. El bastón y su postura encorvada hacen que parezca más viejo de lo que realmente es.

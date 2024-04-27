@@ -11,6 +11,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final\|El Imperio Final]]*|
 
 >“*Muy bien. Hay varios enigmas filosóficos que creo que pueden gustarte...*”
 \-Ham.[1]
