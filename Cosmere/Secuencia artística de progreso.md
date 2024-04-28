@@ -1,16 +1,15 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Secuencia artística de progreso**|
 |-|-|
 |**Relacionado con**|yoki-haijo|
-|**Mundo de origen**|[[Komashi\|Komashi]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-La **secuencia artística de progreso** se refiere a una secuencia de números en la cual cada número es la suma de los dos números anteriores. La secuencia empieza con dos unos.
-Las [[Yoki-haijo\|yoki-haijo]] a veces incorporan la secuencia en sus pilas de piedras. Por ejemplo, una vez [[Yumi\|Yumi]] creó una pila en forma de espiral con el número de piedras llegando a treinta y cuatro antes de descender en la misma secuencia pero al revés.
+La **secuencia artística de progreso** se refiere a una secuencia de números en la cual cada uno es la suma de los dos números anteriores. Se sobreentiende que ha surgido de manera independiente en numerosos planetas, incluyendo [[Komashi\|Komashi]] y [[Roshar\|Roshar]].
+Las [[Yoki-haijo\|yoki-haijo]] a veces incorporan la secuencia en sus pilas de piedras. Por ejemplo, una vez [[Yumi\|Yumi]] creó una pila en forma de espiral cuyo número de piedras llegaba a treinta y cuatro antes de descender en la misma secuencia pero al revés.
 
 ## Curiosidades
 La secuencia artística de progreso es el nombre de la  en el cosmere.
-
 ## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
