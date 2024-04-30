@@ -1,20 +1,23 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Maxin**|
 |-|-|
-|**Oficio**|Thief|
-|**Grupo**|Huqin's crew|
+|**Oficio**|Ladrón|
+|**Grupo**|Banda de Huqin|
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Maxin** is a thief and member of Huqin's crew who attempts to rob the [[Bronze Palace\|Bronze Palace]] in [[Azir\|Azir]] on [[Roshar\|Roshar]].
+**Maxin** es un ladrón y miembro de la banda de Huqin que intenta robar en el [[Palacio de Bronce\|Palacio de Bronce]] en [[Azir\|Azir]], en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-Like the rest of [[Huqin\|Huqin]]'s crew (except [[Lift\|Lift]]), he is Azish and has dark hair and skin. He is optimistic that the crew will be able to pull of their planned heist.
+## Apariencia y personalidad
+Como el resto de la banda de [[Huqin\|Huqin]] (excepto [[Lift\|Lift]]), es azishiano y tiene el pelo y la piel oscuros. Se muestra optimista y confía en que el equipo pueda llevar a cabo el atraco planeado.
 
-## History
-During the attempted heist of the [[Bronze Palace\|Bronze Palace]] in 1173, Maxin and [[Tigzikk\|Tigzikk]] were assigned to infiltrate the gardens disguised as scribes so they could mingle with the bureaucrats gathered there during the choosing of the [[Prime Aqasix\|Prime Aqasix]]. They were acting as lookouts; if anything seemed amiss, they would use whistles to warn the rest of the crew that was robbing the palace. It is not clear if Maxin and Tigzikk escaped the palace with Huqin after [[Nale\|Nale]]'s intervention.
+## Historia
+Durante el intento de robo del [[Palacio de Bronce\|Palacio de Bronce]] en 1173, Maxin y [[Tigzikk\|Tigzikk]] fueron asignados a infiltrarse en los jardines disfrazados de escribas para poder mezclarse con los burócratas allí reunidos durante la elección del [[Aqasix Supremo\|Aqasix Supremo]]. Actuaban como vigías; si algo parecía raro, usaban silbatos para avisar al resto de la banda que estaba asaltando el palacio. No está claro si Maxin y Tigzikk escaparon del palacio con Huqin tras la intervención de [[Nale\|Nale]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 16:59, 8 April 2020 (UTC)

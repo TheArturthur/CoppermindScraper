@@ -1,3 +1,6 @@
+
+
+
 |**Marks (Roshar)**|
 |-|-|
 |**Oficio**|[[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
@@ -12,7 +15,7 @@ Junto con [[Tibon\|Tibon]], vigiló a [[Adolin\|Adolin]] durante su cita con [[J
 ## Notes
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Jofwu (talk) 11:47, 17 September 2018 (MST)
+Jofwu (talk) 11:47, 17 Septiembre 2018 (MST)
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
 |-|-|
 |**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|

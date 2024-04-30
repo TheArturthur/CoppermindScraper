@@ -1,18 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Matain**|
 |-|-|
-|**Títulos**|[[Stormwarden\|Stormwarden]]|
+|**Títulos**|[[Predicetormentas\|Predicetormentas]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Matain** is an  [[Stormwarden\|stormwarden]] on [[Roshar\|Roshar]] who serves under King [[Gavilar Kholin\|Gavilar Kholin]].
+**Matain** es un [[Alezi\|alezi]] [[Predicetormentas\|predicetormentas]] en [[Roshar\|Roshar]] que sirve a las órdenes del rey [[Gavilar Kholin\|Gavilar Kholin]].
 
-## History
-He was among the scholars that accompanied Gavilar on his early expeditions to the [[Shattered Plains\|Shattered Plains]] in 1166. He was trusted by Gavilar, and acted as an advisor.
-He dictated an account of one of the first encounters with the [[Parshendi\|Parshendi]]. He had been skeptical about initial sightings of "wild"  by [[Dalinar\|Dalinar]]'s scouting group, and was stunned when several individuals appeared at Gavilar's camp. He provided a physical description of the Parshendi, including their weapons and clothing. Gavilar tasked him with investigating their language, society, and music. Matain still thought they might be a hoax, but was forced to acknowledge their authenticity after learning more about their culture. Matain's account of Gavilar's sudden scholarly interest in the Parshendi was not an embellishment, according to [[Jasnah Kholin\|Jasnah Kholin]].
-He continued to serve House Kholin as a stormwarden after Gavilar's death; he was present at the experiment of the floating platforms that [[Navani Kholin\|Navani Kholin]] conducted in the Kholin warcamp prior to the [[Battle of Narak\|Battle of Narak]].
+## Historia
+Fue uno de los eruditos que acompañaron a Gavilar en sus primeras expediciones a las [[Llanuras Quebradas\|Llanuras Quebradas]] en 1166. Gavilar confiaba en él, quien actuaba como consejero.
+Dictó un relato de uno de los primeros encuentros con los [[Parshendi\|parshendi]]. Se había mostrado escéptico ante los avistamientos iniciales de [[Parshmenio\|parshmenios]] "salvajes" por parte del grupo de exploradores de [[Dalinar\|Dalinar]], y se quedó atónito cuando varios individuos aparecieron en el campamento de Gavilar. Proporcionó una descripción física de los parshendi, incluidas sus armas y vestimenta. Gavilar le encargó que investigase su idioma, su sociedad y su música. Matain seguía pensando que podían ser un engaño, pero se vio obligado a reconocer su autenticidad tras conocer mejor su cultura. Según [[Jasnah Kholin\|Jasnah Kholin]], el relato de Matain sobre el repentino interés académico de Gavilar por los parshendi no era un mero adorno.
+Continuó sirviendo a la casa Kholin como predicetormentas tras la muerte de Gavilar; estuvo presente en el experimento de las plataformas flotantes que [[Navani Kholin\|Navani Kholin]] llevó a cabo en el campamento de guerra Kholin antes de la [[Batalla de Narak\|batalla de Narak]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 00:29, 28 February 2019 (MST)

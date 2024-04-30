@@ -1,16 +1,19 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Maestro de sirvientes**|
 |-|-|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-A **master-servant** is a [[Vorin\|Vorin]] profession that can be held by  citizens of the second [[Nahn\|nahn]]. They are hired to work for well-off [[Lighteyes\|lighteyes]] and to attend to their needs. They perform a number of duties including, but not limited to, fetching refreshments and meals, delivering messages, staffing events and institutions, and even act as guides. A variety of hand signals can be used to indicate to the master-servant what task is required, or simply to request assistance.
-The standard uniform for a master-servant includes a crisp white shirt with an emblem over the breast and either black pants or a black skirt.  They also wear white gloves and sometimes tuck them in their belts. Those with long hair will often wear it bound. Master-servants in training have an all black uniform and there is no emblem on their shirts. The refined manner in which they act is a point of pride for most master-servants, though this attitude is mocked by those of other classes.
-Master-servants staff the [[Kharbranth\|Kharbranthian]]  and the [[Palanaeum\|Palanaeum]].
-[[Szeth\|Szeth]] posed as a master-servant when he broke into the Conclave in Kharbranth to kill [[Taravangian\|Taravangian]].
-During the invasion of [[Urithiru\|Urithiru]] master-servants often took double duty as messengers.
-In Urithiru, master-servants have quarters of their own, where they contain maps of the lower floors.
+Un **maestro de sirvientes** es una profesión [[Vorin\|vorin]] que pueden ejercer los ciudadanos [[Ojos oscuros\|ojos oscuros]] de segundo [[Nahn\|nahn]]. Son contratados para trabajar para [[Ojos claros\|ojos claros]] acomodados y atender sus necesidades. Desempeñan diversas funciones, como ir a buscar refrigerios y comidas, entregar mensajes, dotar de personal a actos e instituciones e incluso actuar como guías. Se pueden utilizar diversas señales manuales para indicar al maestro de sirvientes qué tarea se requiere, o simplemente para solicitar ayuda.
+El uniforme estándar de un maestro de sirvientes incluye una impecable camisa blanca con un emblema sobre el pecho y pantalones o faldas negras.  También llevan guantes blancos y a veces se los meten en el cinturón. Los que tienen el pelo largo suelen llevarlo recogido. Los maestros de sirvientes en prácticas visten un uniforme completamente negro y no llevan ningún emblema en la camisa. El refinamiento con el que actúan es un motivo de orgullo para la mayoría de los maestros de sirvientes, aunque esta actitud es objeto de burla por parte de los de otras clases.
+Los maestros de sirvientes son empleados en el [[C%C3%B3nclave\|Cónclave]] de [[Kharbranth\|Kharbranth]] y en el [[Palaneo\|Palaneo]].
+[[Szeth\|Szeth]] se hizo pasar por un maestro de sirvientes cuando irrumpió en el Cónclave de Kharbranth para matar a [[Taravangian\|Taravangian]].
+Durante la invasión de [[Urithiru\|Urithiru]] los maestros de sirvientes a menudo cumplían una doble función como mensajeros.
+En Urithiru, los maestros de sirvientes tienen sus propios aposentos, donde guardan mapas de los pisos inferiores.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

@@ -1,17 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Mel**|
 |-|-|
-|**Oficio**|Barmaid|
+|**Oficio**|Cantinera|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mel** is a young barmaid at [[Jez's Duty\|Jez's Duty]] in the  section of [[Urithiru\|Urithiru]] on [[Roshar\|Roshar]].
-On the day of [[Jor\|Jor]] and [[Kryst\|Kryst]]'s wedding party, Mel served [[Adolin\|Adolin]], [[Shallan\|Shallan]], and [[Kaladin\|Kaladin]] drinks. After refilling Veil's glass, she took Kaladin's order; perplexed that he would only order an [[/wiki/Roshar#Wines]], she offered him some yellow. Veil chased her away, but when she returned with Kaladin's order, she offered him yellow again. This time Adolin spoke up to decline the offer, and Mel beamed at him, ecstatic to have a [[Highprince\|highprince]] speak to her.
+**Mel** es una joven cantinera en [[El Deber de Jez\|El Deber de Jez]] en la sección de los [[Diez Anillos\|Diez Anillos]] de [[Urithiru\|Urithiru]], en [[Roshar\|Roshar]].
+El día de la fiesta de compromiso de [[Jor\|Jor]] y [[Kryst\|Kryst]], Mel sirvió bebidas a [[Adolin\|Adolin]], [[Shallan\|Shallan]] y [[Kaladin\|Kaladin]]. Rellenó de nuevo el vaso de Velo antes de preguntarle a Kaladin qué quería; tras quedarse perpleja por su petición de un [[/wiki/Roshar#Vinos]], le ofreció un amarillo. Velo la ahuyentó, pero cuando Mel regresó con la bebida de Kaladin, volvió a ofrecerle el amarillo. Esa vez fue Adolin quien intervino para declinar la oferta, y Mel le respondió con una sonrisa radiante antes de marcharse animada por que un [[Alto pr%C3%ADncipe\|alto príncipe]] le hubiera dirigido la palabra.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 23:50, 26 February 2021 (UTC)
+Big Smooth (talk) 23:50, 26 de febrero de 2021 (UTC)
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
 |-|-|
 |**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|

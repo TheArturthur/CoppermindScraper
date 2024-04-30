@@ -1,12 +1,15 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mazzu**|
 |-|-|
 |**Nación**|[[Azir\|Azir]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mazzu** is a town in northwestern [[Azir\|Azir]] on [[Roshar\|Roshar]], south of the mountains that separate Azir and [[Yulay\|Yulay]], and south of the mountain settlement [[Hazzel\|Hazzel]]. Mazzu appears to be near Azir's border with [[Desh\|Desh]].
+**Mazzu** es una ciudad en el noroeste de [[Azir\|Azir]] en [[Roshar\|Roshar]], al sur de las montañas que separan Azir y [[Yulay\|Yulay]], y al sur del asentamiento montañoso de [[Hazzel\|Hazzel]]. Mazzu parece estar cerca de la frontera de Azir con [[Desh\|Desh]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 23:34, 23 November 2020 (UTC)

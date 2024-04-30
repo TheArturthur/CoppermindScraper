@@ -1,35 +1,39 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mazish**|
 |-|-|
 |**Cónyuge**|[[Dul\|Dul]]|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
-**Mazish** is a [[Singer\|singer]] on [[Roshar\|Roshar]]. A former [[/wiki/Singer#The parsh]], she is a member of [[Venli\|Venli]]'s group of singers that wishes to be free of the [[Fused\|Fused]].
+**Mazish** es una [[Cantor\|cantora]] en [[Roshar\|Roshar]]. Previamente [[/wiki/Cantor#Los parsh]], es miembro del grupo de cantores de [[Venli\|Venli]] que desea liberarse de los [[Fusionado\|Fusionados]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 Attributes and Abilities. [[#Attributes and Abilities]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-Mazish is a squat femalen singer. She usually wears .
-Mazish is a member of Venli's inner circle and has her full trust. She cares for Venli and believes in her plans. She is willing to follow her instincts in a crisis even if it means changing course.
+## Apariencia y personalidad
+Mazish es una cantora mujeren. Suele adoptar la [[Forma de trabajo\|forma de trabajo]].
+Es miembro del círculo íntimo de Venli y goza de su plena confianza. Se preocupa por ella y cree en sus planes. Está dispuesta a seguir sus instintos en una crisis, incluso si eso significa cambiar de rumbo.
 
-## Attributes and Abilities
-Mazish is a common singer and has bonded a [[Gravitationspren\|gravitationspren]] within her [[Gemheart\|gemheart]] to wear workform.
+## Atributos y habilidades
+Mazish es una cantora común y ha vinculado un [[Gravitacionspren\|gravitacionspren]] dentro de su [[Gema coraz%C3%B3n\|gema corazón]] para llevar la forma de trabajo.
 
-  with <<Dul\|Dul>>
-## History
-During the [[War of Reckoning\|War of Reckoning]], Mazish served as a parshwoman in [[Alethkar\|Alethkar]] along with her mate, [[Dul\|Dul]]. Their master was harsh, and rejected Dul's request for the pair to be married in the human tradition. After the coming of the [[Everstorm\|Everstorm]], Mazish and Dul's minds were awakened and they joined (or were conscripted into) [[Odium\|Odium]]'s forces. However, they soon became some of the first singers recruited by Venli to join her resistance movement. The couple were able to get married after they were freed.
-Mazish became a friend of Venli's and one of the most trusted members of her inner circle. She was able to gain a position serving [[Leshwi\|Leshwi]] in [[Kholinar\|Kholinar]]. She and Dul advised new recruits on how to act around the [[Fused\|Fused]]. She was present when [[Shumin\|Shumin]] became Leshwi's assistant stormsetter, and subsequently attended a meeting with her in Venli's quarters.
-Mazish and Dul were presumably part of Venli's team that left Kholinar for [[Urithiru\|Urithiru]] before the singers invaded the tower. In Urithiru, Mazish was the first to inform Venli that [[Rlain\|Rlain]] had been captured. She later helped watch over the fallen [[Knights Radiant\|Knights Radiant]] after [[Raboniel\|Raboniel]]'s partial corruption of the tower's defenses. She also worked on hoarding supplies in anticipation of fleeing the Fused.
-Mazish was among the team of fifteen singers that Venli planned to covertly evacuate to Kholinar before fleeing to the [[Shattered Plains\|Shattered Plains]]. Venli trusted Mazish with a writ of authority from Raboniel that would allow passage through the [[Oathgate\|Oathgates]]. Mazish was also the first member of the group to voice support for helping [[Kaladin\|Kaladin]] and his family escape, citing Kaladin's friendship with Rlain as a reason to trust him. After Leshwi's rebellion and the liberation of the tower, Mazish presumably went to the Shattered Plains via [[Oathgate\|Oathgate]] with the rest of Venli's objectors, seeking to join the other [[Listener\|listeners]].
+  Con <<Dul\|Dul>>
+## Historia
+Durante la [[Guerra de la Venganza\|Guerra de la Venganza]], Mazish sirvió como parshmenia en [[Alezkar\|Alezkar]] junto a su compañero, [[Dul\|Dul]]. Su amo fue duro y rechazó la petición de Dul para que la pareja se casase según la tradición humana. Tras la llegada de la [[Tormenta eterna\|tormenta eterna]], las mentes de Mazish y Dul despertaron y se unieron (o fueron reclutados) a las fuerzas de [[Odium\|Odium]]. Sin embargo, pronto se convirtieron en algunos de los primeros cantores reclutados por Venli para unirse a su movimiento de resistencia. La pareja pudo casarse tras su liberación.
+Mazish se convirtió en amiga de Venli y en una de los miembros de mayor confianza de su círculo íntimo. Consiguió un puesto al servicio de [[Leshwi\|Leshwi]] en [[Kholinar\|Kholinar]]. Ella y Dul aconsejaban a los nuevos reclutas sobre cómo actuar ante los [[Fusionado\|Fusionados]]. Estuvo presente cuando [[Shumin\|Shumin]] se convirtió en la ayudante de Leshwi, y posteriormente asistió a una reunión con ella en los aposentos de Venli.
+Se supone que Mazish y Dul formaban parte del equipo de Venli que partió de Kholinar hacia [[Urithiru\|Urithiru]] antes de que los cantores invadiesen la torre. En Urithiru, Mazish fue el primero en informar a Venli de que [[Rlain\|Rlain]] había sido capturado. Más tarde ayudó a vigilar a los [[Caballeros Radiantes\|Caballeros Radiantes]] caídos tras la corrupción parcial de las defensas de la torre por parte de [[Rabeniel\|Rabeniel]]. También se dedicó a acaparar suministros en previsión de la huida de los Fusionados.
+Mazish formaba parte del equipo de quince cantores que Venli planeaba evacuar encubiertamente a Kholinar antes de huir a las [[Llanuras Quebradas\|Llanuras Quebradas]]. Venli confió a Mazish un mandato de Rabeniel que le permitiría atravesar las [[Puerta Jurada\|Puertas Juradas]]. Mazish fue también el primer miembro del grupo en expresar su apoyo a ayudar a [[Kaladin\|Kaladin]] y a su familia a escapar, citando la amistad de Kaladin con Rlain como razón para confiar en él. Tras la rebelión de Leshwi y la liberación de la torre, Mazish presumiblemente se dirigió a las Llanuras Quebradas a través de la [[Puerta Jurada\|Puerta Jurada]] con el resto de objetores de Venli, buscando unirse a los demás [[Oyente\|oyentes]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 17:32, 8 February 2021 (UTC)

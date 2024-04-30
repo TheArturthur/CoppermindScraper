@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**May Aladar**|
 |-|-|
 |**Familia**|
@@ -6,18 +9,19 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
-**May Aladar** is a [[Lighteyes\|lighteyed]] member of the nobility on Roshar. She is the only known child of Highprince [[Aladar\|Aladar]].
+**May Aladar** es una [[Ojos claros\|ojos claros]] miembro de la nobleza en [[Roshar\|Roshar]]. Es la única hija conocida del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Aladar\|Aladar]].
 
-## Appearance
-May Aladar is an [[Alethkar\|Alethi]] lighteyes, meaning she has tan skin and epicanthic folds. She's a short, pretty woman roughly in her twenties, with curly jet-black hair that she wears short. Her eyes are pale yellow.
+## Apariencia
+May Aladar es una [[Alezi\|alezi]] [[Ojos claros\|ojos claros]], lo que significa que tiene la piel morena y pliegues epicánticos. Es una mujer bajita y guapa, de unos veinte años, con el pelo rizado y negro azabache que lleva corto. Sus ojos son de color amarillo pálido.
 
-## History
-May's father included her in many of his politically important events and meetings. She was invited to [[Dalinar\|Dalinar]]'s and [[Navani\|Navani]]'s wedding. She was also part of Dalinar's diplomatic team during his early attempts to form the [[Coalition of monarchs\|coalition of monarchs]], alongside her father, Navani, [[Kalami\|Kalami]] and [[Teshav Khal\|Teshav Khal]]. During the negotiations, she was mostly an observer. She also assisted Navani in collecting information that came in via [[Spanreed\|spanreed]].
-May was present when [[Torol Sadeas\|Torol Sadeas]]'s corpse was found. Following the death of [[Vedekar Perel\|Vedekar Perel]], May was instructed by her father—by then, named the —to have Perel's family and associates questioned. In light of the murders, she suggested implementing laws to limit movement around the tower. She also participated in scientific discussions with scholars and  regarding the functioning of [[Urithiru\|Urithiru]].
-She was present when the news of [[Kholinar\|Kholinar]]'s fall arrived, and reacted to it with extreme nausea.
+## Historia
+El [[Alto pr%C3%ADncipe\|alto príncipe]] [[Aladar\|Aladar]] la incluyó en muchos de sus actos y reuniones de importancia política. Fue invitada a la boda de [[Dalinar\|Dalinar]] y [[Navani Kholin\|Navani Kholin]]. También formó parte del equipo diplomático de Dalinar durante sus primeros intentos de formar la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]], junto a su padre, Navani, [[Kalami\|Kalami]] y [[Teshav Khal\|Teshav Khal]]. Durante las negociaciones, se dedicó sobre todo a observar. También ayudó a Navani a recopilar la información que llegaba a través de [[Vinculaca%C3%B1as\|vinculacañas]].
+May estaba presente cuando se encontró el cadáver de [[Torol Sadeas\|Torol Sadeas]]. Tras la muerte de [[Vedekar Perel\|Vedekar Perel]], May recibió instrucciones de su padre (por aquel entonces, nombrado [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]]) para que interrogase a la familia de Perel y a sus asociados. A la luz de los asesinatos, sugirió la aplicación de leyes para limitar la circulación en torno a la torre. También participó en debates científicos con eruditos y [[Fervoroso\|fervorosos]] sobre el funcionamiento de [[Urithiru\|Urithiru]].
+Estaba presente cuando llegó la noticia de la caída de [[Kholinar\|Kholinar]] y reaccionó a ella con náuseas extremas.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 00:17, 31 January 2021 (UTC)
