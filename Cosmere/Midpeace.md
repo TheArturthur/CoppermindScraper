@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mediapaz**|
 |-|-|
 |**Mundo**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Midpeace** is a period that marks the middle of the [[Roshar\|Rosharan]] year.
-The Rosharan year is 500 days long and ends with a four week period of rain known as the . Midpeace occurs at the midpoint between Weepings. [[Highstorm\|Highstorms]] occur more frequently as Midpeace approaches and after it ends, but they do not occur at all during Midpeace. Although the exact duration of Midpeace is not mentioned, it is the longest sustained period on Roshar without rain; since "natural" storms that are not highstorms or the [[Everstorm\|Everstorm]] are rare, many rivers typically dry up by the end of Midpeace.
-Residents of Roshar use the fair weather of Midpeace to celebrate and travel. [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and possibly other nations hold outdoor festivals known as [[Middlefest Fair\|Middlefest Fairs]]. [[Yokska\|Yokska]] mentions traveling to [[Liafor\|Liafor]] during Midpeace to see the latest fashion trends.
+La **Mediapaz** es el período que marca la mitad del año [[Roshar\|roshariano]].
+Un año roshariano cuenta con 500 días y finaliza con un período de cuatro semanas de lluvia conocido como el [[Llanto\|Llanto]]. La Mediapaz tiene lugar en un punto medio entre Llantos. Las [[Alta tormenta\|altas tormentas]] son más frecuentes conforme el período de Mediapaz se acerca y después de que este termine, pero jamás ocurren durante la Mediapaz. Aunque nunca se menciona la duración exacta de la Mediapaz, es el período continuo más largo sin lluvia en Roshar; puesto que las tormentas "naturales" que no son altas tormentas o la [[Tormenta eterna\|tormenta eterna]] son raras, normalmente, muchos ríos terminan secándose hacia el final de la Mediapaz.
+Los rosharianos aprovechan el buen tiempo de la Mediapaz para celebrar y viajar. [[Alezkar\|Alezkar]], [[Jah Keved\|Jah Keved]] y posiblemente otras naciones celebran festivales al aire libre conocidos como [[Feria de la Fiesta Media\|Ferias de la Fiesta Media]]. [[Yokska\|Yokska]] dice haber viajado a [[Liafor\|Liafor]] durante la Mediapaz para ver las últimas tendencias en moda.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

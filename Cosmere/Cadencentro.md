@@ -10,7 +10,7 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-Una **alta tormenta** (en alethi: , cuya romanización sería *Kezeras*) es un huracán masivo [[Investidura\|Investido]] en el planeta de [[Roshar\|Roshar]]. Ocurren una vez cada pocos días, o a las órdenes del [[Padre Tormenta\|Padre Tormenta]], y se mueven de barlovento a sotavento (de este a oeste), comenzando en el [[Origen\|Origen]]. Al este de Roshar, las tormentas altas son increíblemente destructivas. Avanzan a través del continente, aunque se debilitan gradualmente a medida que lo atraviesan, y son interrumpidas en su mayoría por las montañas al este de [[Shinovar\|Shinovar]]. Esta debilidad es causada por una combinación de estar sobre tierra en lugar de agua, y la infusión de esferas con [[Luz tormentosa\|luz tormentosa]].
+Una **alta tormenta** (en alezi: , cuya romanización sería *Kezeras*) es un huracán masivo [[Investidura\|Investido]] en el planeta de [[Roshar\|Roshar]]. Ocurren una vez cada pocos días, o a las órdenes del [[Padre Tormenta\|Padre Tormenta]], y se mueven de barlovento a sotavento (de este a oeste), comenzando en el [[Origen\|Origen]]. Al este de Roshar, las tormentas altas son increíblemente destructivas. Avanzan a través del continente, aunque se debilitan gradualmente a medida que lo atraviesan, y son interrumpidas en su mayoría por las montañas al este de [[Shinovar\|Shinovar]]. Esta debilidad es causada por una combinación de estar sobre tierra en lugar de agua, y la infusión de esferas con [[Luz tormentosa\|luz tormentosa]].
 
 ## Sumario
 

@@ -1,3 +1,4 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Feria de la Fiesta Media**|
 |-|-|
 |**Mundo**|[[Roshar\|Roshar]]|

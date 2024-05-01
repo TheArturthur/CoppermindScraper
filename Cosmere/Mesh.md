@@ -1,16 +1,19 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mesh**|
 |-|-|
-|**Oficio**|Squadleader|
-|**Grupo**|Ejército de Amaram's|
+|**Oficio**|Jefe de escuadra|
+|**Grupo**|Ejército de Amaram|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mesh** is a squadleader in Brightlord [[Meridas Amaram\|Meridas Amaram]]'s army.
+**Mesh** es un jefe de escuadrón del ejército del brillante señor [[Meridas Amaram\|Meridas Amaram]].
 
-## History
-During one of Amaram's battles,  ended up reinforcing Mesh's squad while trying to find his brother, [[Tien\|Tien]]. Mesh had lost a lot of men in that battle and was having difficulty holding his position. The enemy army was coming in a pincer formation at his squad from the south and the east, but he and his neighboring squadleader, [[Varth\|Varth]], were told by a messenger that they were to only hold against an east assault. Kaladin caught sight of Tien in Varth's squad and abandoned his position in the line just as the enemy troops reached them. Already lacking in reinforcements, this additional weakness in the lines caused Mesh's squad to crumple under the enemy assault, falling apart and losing their discipline immediately. It is unknown if Mesh himself survived the battle.
+## Historia
+Durante una de las batallas de Amaram, [[Kaladin Bendito por la Tormenta\|Kaladin Bendito por la Tormenta]] acabó reforzando el escuadrón de Mesh mientras intentaba encontrar a su hermano, [[Tien\|Tien]]. Mesh había perdido muchos hombres en esa batalla y tenía dificultades para mantener su posición. El ejército enemigo se acercaba en formación de pinza a su escuadrón desde el sur y el este, pero un mensajero les dijo a él y al jefe de escuadrón vecino, [[Varth\|Varth]], que solo debían resistir el asalto desde el este. Kaladin divisó a Tien en el pelotón de Varth y abandonó su posición en la línea justo cuando las tropas enemigas los alcanzaban. Ya faltos de refuerzos, esta debilidad adicional en las líneas hizo que el escuadrón de Mesh se desmoronase bajo el asalto enemigo, desintegrándose y perdiendo su disciplina de inmediato. Se desconoce si el propio Mesh sobrevivió a la batalla.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 19:38, 18 March 2016 (MDT)

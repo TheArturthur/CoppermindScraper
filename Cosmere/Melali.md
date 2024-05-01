@@ -1,19 +1,22 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Melali**|
 |-|-|
 |**Religión**|[[Vorinismo\|Vorinismo]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Melali** is a brighteyed lady on the [[Shattered Plains\|Shattered Plains]].
+**Melali** es una dama de ojos claros de las [[Llanuras Quebradas\|Llanuras Quebradas]].
 
-## Appearance and Personality
-Adolin considers her to be quite pretty. She wears a traditional Vorin [[Havah\|havah]] with her hair in complex braids, including hairspikes.
+## Apariencia y personalidad
+Adolin la considera bastante guapa. Lleva una [[Havah\|havah]] tradicional vorin con el pelo recogido en complejas trenzas, que incluyen horquillas.
 
-## History
-Melali and [[Adolin\|Adolin]] courted at one point, but Adolin did something, that he does not remember, that annoyed her, which lead to the end of their relationship.
-She is present with [[Relis Ruthar\|Relis Ruthar]] when [[Adolin\|Adolin]] challenges him for his [[Shardblade\|Shardblade]]. Melali is quite bitter towards Adolin, and insults him and [[Dalinar Kholin\|Dalinar Kholin]], saying that she was surprised Dalinar let him finally duel, as he might hurt himself. Adolin jokes that it is nice to see her too, and asks how Melali's sister is. Melali tartly responds that her sister is off limits, and Adolin remembers that her sister was the reason why Melali despised him so, presumably because Adolin flirted with her sister.
+## Historia
+Melali y [[Adolin\|Adolin]] se cortejaron en un momento dado, pero Adolin hizo algo, que él no recuerda, que la molestó, lo que llevó al fin de su relación.
+Está presente con [[Relis Ruthar\|Relis Ruthar]] cuando [[Adolin\|Adolin]] lo desafía para conseguir su [[Hoja esquirlada\|hoja esquirlada]]. Melali está bastante resentida con Adolin, y lo insulta a él y a [[Dalinar Kholin\|Dalinar Kholin]], diciendo que le sorprendió que Dalinar le dejase finalmente batirse en duelo, ya que podría hacerse daño. Adolin bromea diciendo que también se alegra de verla y le pregunta cómo está su hermana. Melali responde bruscamente que su hermana está totalmente prohibida, y Adolin recuerda que su hermana era la razón por la que Melali lo despreciaba tanto, presumiblemente porque Adolin flirteaba con ella.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 20:31, 10 November 2017 (MST)

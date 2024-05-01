@@ -1,39 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mem**|
 |-|-|
 |**Residencia**|[[Vedenar\|Vedenar]]|
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
-**Mem** is a washwoman in the employ of [[Mraize\|Mraize]].
+**Mem** es una lavandera al servicio de [[Mraize\|Mraize]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 History. [[#History]] 
-3 Trivia. [[#Trivia]] 
-4 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-She appreciates Mraize's refined manner and his taste in clothing, and enjoys the fact that he does not require her to use a servant's entrance. She believes that the notion of servants being "invisible" is a fallacy since they are usually closely watched by the house steward and their master's guests, and notes that [[Ghostbloods\|Mraize's associates]] are particulary wary. She enjoys her work and finds it fulfilling, since there will always be a need for clean clothes.
+## Apariencia y personalidad
+Aprecia los modales refinados de [[Mraize\|Mraize]] y su gusto a la hora de vestir, y disfruta con el hecho de que no le exija utilizar una entrada para sirvientes. Cree que la noción de que los criados son "invisibles" es una falacia, ya que suelen estar vigilados de cerca por el mayordomo de la casa y los invitados de su amo, y señala que los [[Sangre Espectral\|socios de Mraize]] son especialmente cautelosos. Le gusta su trabajo y le satisface, ya que siempre habrá necesidad de ropa limpia.
 
->“*The need for clean clothing outlived disasters. The end of the world could come, but that would only mean more bloodstains to wash.*”
+>“*La necesidad de ropa limpia sobrevivía a los desastres. Podía llegar el final del mundo, pero para ella supondría solo más manchas de sangre que quitar.*”
 \-Mem[1]
 
 
-## History
-Mem was quite skilled at the art of doing laundry, with knowledge of many different dyes, fabrics, and cleaners. She washed clothes at a central location in [[Vedenar\|Vedenar]] with other washwomen. Mem successfully cleaned a particularly tough stain from the [[Mycalin\|Mycalin]]-dyed pants of Mraize's  cavalrylord's suit; she thought the stain was a combination of oil and blood, but Mraize referred to it as "[[Aether\|aether]]". She earned herself a three- bonus and high praise from Mraize.
+## Historia
+Mem era bastante hábil en el arte de hacer la colada, con conocimientos de muchos tintes, tejidos y limpiadores diferentes. Lavaba la ropa en un lugar céntrico de [[Vedenar\|Vedenar]] con otras lavanderas. Mem limpió con éxito una mancha especialmente resistente de los pantalones teñidos con [[Micalino\|micalino]] del traje [[Azishiano\|azishiano]] de caballero de Mraize; pensó que la mancha era una combinación de aceite y sangre, pero en realidad era [[%C3%89ter\|éter]]. Se ganó una bonificación de tres[[Esfera\|marcos de fuego]] y grandes elogios de Mraize.
 
->“* Mem, you are an absolute genius. Not every hunter carries a spear, and this is proof indeed.*”
-\- Mraize, after Mem cleans the aether from his pants[1]
+>“* Mem, eres una auténtica maravilla. No todo cazador lleva lanza, y esto lo demuestra sin lugar a dudas*”
+\- Mraize, después de que Mem limpiase el éter de sus pantalones[1]
 
 
-She briefly had [[Pom\|Pom]] as an assistant, and thought she was surprisingly beautiful for a washgirl. She was flabbergasted when Pom destroyed one of Mraize's paintings, as she was not aware of Pom's true identity.
+Tuvo brevemente a [[Pom\|Pom]] como ayudante, y pensó que era sorprendentemente guapa para ser una lavandera. Se quedó atónita cuando Pom destruyó uno de los cuadros de Mraize, ya que desconocía que la verdadera identidad de Pom era la [[Heraldo\|Heraldo]] Shalash.
 
-## Trivia
-She is a cameo for Emily Grange.
-## Notes
+## Curiosidades
+Es un cameo de Emily Grange.
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 16:01, 1 October 2019 (UTC)

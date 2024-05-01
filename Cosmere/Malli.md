@@ -5,15 +5,16 @@
 |**Oficio**|Escriba|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
-**Malli** is a scribe on [[Roshar\|Roshar]]. She is married to a [[Scadrial\|Scadrian]] [[Worldhopper\|worldhopper]] named [[Felt\|Felt]]. Malli's own origins are not known, and it is not clear if she shares (or is even aware of) Felt's abilities.
+**Malli** es un escriba en [[Roshar\|Roshar]]. Está casada con el [[Saltamundos\|saltamundos]] [[Scadrial\|scadriano]] llamado [[Felt\|Felt]]. No se conocen los orígenes de Malli, y no está claro si comparte (o siquiera si es consciente) de las habilidades de Felt.
 
 ## Atributos y habilidades
-She is able to use a [[Spanreed\|spanreed]] and write in [[Women's script\|women's script]]. [[Dalinar\|Dalinar]] and [[Adolin\|Adolin]] both trust her, as she is assigned to be the primary scribe on at least two important journeys, including one that required significant discretion.
+Es capaz de usar una [[Vinculaca%C3%B1as\|vinculacañas]] y escribir en la [[Escritura femenina\|escritura femenina]]. [[Dalinar\|Dalinar]] y [[Adolin\|Adolin]] confían en ella, y tiene el cargo de escriba principal en al menos dos viajes importantes, incluyendo uno que requería de mucha discreción.
 
 ## Historia
-In approximately 1169, Malli and Felt accompanied [[Dalinar Kholin\|Dalinar Kholin]] on his expedition to  to visit the [[Nightwatcher\|Nightwatcher]]. She was part of a small group that traveled from their ship to the Valley, serving as its scribe. She was present in Dalinar's stormwagon when he exited the Valley; she sent a message via [[Spanreed\|spanreed]] to the  ship that he had returned. Dalinar also asked Malli to tell the sailors to find him a copy of *[[The Way of Kings (in-world)\|The Way of Kings]]* in the port, so he could hear it read to him again after having [[Evi\|Evi]] erased from his memory.
-Malli and Felt moved to [[Urithiru\|Urithiru]] at some point after the [[Battle of Narak\|Battle of Narak]]. In 1175, they were selected as members of the diplomatic mission to [[Lasting Integrity\|Lasting Integrity]] in [[Shadesmar\|Shadesmar]]. Malli, who was working in the quartermaster's office, again served as the mission's scribe. She traveled with the team through Shadesmar, sometimes looking after [[Mayalaran\|Mayalaran]] on Adolin's behalf. She was one of the few members of the team that remained in camp outside of Lasting Integrity during Adolin's trial.
+En aproximadamente 1169, Malli y Felt acompañaron a [[Dalinar Kholin\|Dalinar Kholin]] en su expedición a el [[Valle\|Valle]] a visitar a la [[Vigilante Nocturna\|Vigilante Nocturna]]. Ella era aprtte de un pequeño grupo que viajaba desde el barco hasta el Valle, trabajando como escriba. Estubo presente en el carro de tormenta de Dalinar cuando se iba del Valle; envió un mensaje por [[Vinculaca%C3%B1as\|vinculacañas]] al barco [[Alezi\|alezi]] de que había regresado. Dalinar también le pidió a Malli que les dijera a los marineros que le encontraran una copia de *[[El camino de los reyes (in-world)\|El camino de los reyes]]* en el puerto, para poder escucharlo otra vez después de que [[Evi\|Evi]] fuera borrada de su memoria.
+Malli y Felt se mudaron a [[Urithiru\|Urithiru]] en algún punto después de la [[Batalla de Narak\|Batalla de Narak]]. En 1175, fuereon seleccionados miembros de la misión diplomática a [[Integridad Duradera\|Integridad Duradera]] en [[Shadesmar\|Shadesmar]]. Malli, quién trabajaba en la oficina del intendiente, sirvió otra vez como la escriba para la misión. Viajó con el equipo por Shadesmar, a veces cuidando a [[Mayalaran\|Mayalaran]] de parte de Adolin. Fue uno de los pocos miembros del equipo que permaneció en el campamento fuera de Integridad Duradera durante el juicio de Adolin.
 
 ## Notas
 

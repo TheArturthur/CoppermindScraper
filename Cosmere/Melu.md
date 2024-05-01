@@ -1,23 +1,27 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Melu**|
 |-|-|
-|**Fallecido**|Possessed by [[Aharat\|Aharat]], ? 1174|
-|**Capacidades**|[[Regal\|Forms of Power]]|
+|**Fallecido**|Poseída por [[Aharat\|Aharat]], ? 1174|
+|**Capacidades**|[[Regio\|Formas de Poder]]|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
->“*I'd like them to understand how easily I could have cracked their skulls. But ... that was well done. I guess I’m glad I didn’t have to rip anyone apart.*”
-\-Melu to Eshonai[2]
+>“*Quiero que comprendan con qué facilidad podría haberles partido los cráneos. Pero… has hecho bien. Me alegro de no haber tenido que descuartizar a nadie.*”
+\-Melu a Eshonai[2]
 
 
-**Melu** is a [[Listener\|listener]] on [[Roshar\|Roshar]].
+**Melu** es una [[Oyente\|oyente]] en [[Roshar\|Roshar]].
 
-## History
-Melu was one of the first volunteers to try to take on warform after [[Venli\|Venli]] successfully petitioned  for permission. She and a dozen others were successful in adopting the new form; immediately after the [[Highstorm\|highstorm]], the group heard battle drums announcing an attack on their family's city. Melu was excited at the prospect of a conflict and wanted to take the family's set of [[Shardplate\|Shardplate]] and their [[Shardblade\|Shardblade]] from [[Sharefel\|Sharefel]]. [[Eshonai\|Eshonai]] stopped her and instead resolved the conflict with the opposing family by a show of strength that convinced them they could not win. Melu and the others headed back to the city to train in their new forms. She expressed some irritation that she hadn't had an opportunity to show off her newfound strength but did agree that Eshonai's peaceful resolution had been better.
-After the listeners unified and moved to [[Narak\|Narak]], Melu gained some level of command among the army. She helped Venli and Eshonai count the listener population, troops and civilians alike, requiring each to adopt stormform. Like the rest of the listener stormforms, she likely then participated in the [[Battle of Narak\|Battle of Narak]]. Melu survived the battle to later be possessed by the [[Fused\|Fused]] [[Aharat\|Aharat]], effectively killing her. Just prior to her death, she questioned [[Ulim\|Ulim]] if the group of singers following [[Venli\|Venli]] should seek shelter from the [[Everstorm\|Everstorm]] which brought the Fused.
+## Historia
+Melu fue una de las primeras voluntarias en intentar asumir la forma de guerra después de que [[Venli\|Venli]] solicitase con éxito permiso a [[Los Cinco\|los Cinco]]. Ella y una docena de personas más consiguieron adoptar la nueva forma; inmediatamente después de la [[Alta tormenta\|alta tormenta]] el grupo oyó tambores de batalla que anunciaban un ataque a la ciudad de su familia. Melu estaba entusiasmada ante la perspectiva de un conflicto y quería llevarse el conjunto de [[Armadura esquirlada\|armadura esquirlada]] de la familia y la [[Hoja esquirlada\|hoja esquirlada]] de [[Sharefel\|Sharefel]]. [[Eshonai\|Eshonai]] la detuvo y, en su lugar, resolvió el conflicto con la familia contraria mediante una demostración de fuerza que los convenció de que no podían ganar. Melu y los demás volvieron a la ciudad para entrenarse en sus nuevas formas. Expresó cierta irritación por no haber tenido la oportunidad de demostrar su nueva fuerza, pero estuvo de acuerdo en que la resolución pacífica de Eshonai había sido mejor.
+Después de que los oyentes se unificasen y se trasladasen a [[Narak\|Narak]], Melu obtuvo cierto nivel de mando entre el ejército. Ayudó a Venli y Eshonai a contabilizar la población de oyentes, tanto tropas como civiles, exigiéndoles a cada uno que adoptasen la forma de tormenta. Al igual que el resto de los oyentes en forma tormenta, es probable que luego participase en la [[Batalla de Narak\|Batalla de Narak]]. Melu sobrevivió a la batalla para luego ser poseída por el [[Fusionado\|Fusionado]] [[Aharat\|Aharat]], matándola. Justo antes de su muerte, preguntó a [[Ulim\|Ulim]] si el grupo de cantores que seguía a [[Venli\|Venli]] debía buscar refugio de la [[Tormenta eterna\|tormenta eterna]] que trajo a los Fusionados.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Truthwatch3r (talk) 19:26, 15 March 2022 (UTC)

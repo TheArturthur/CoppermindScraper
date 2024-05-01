@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Bahía de Mevan**|
 |-|-|
 ||
-|**Tipo**|Bay|
+|**Tipo**|Bahía|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mevan Bay** is a section of the [[Tarat Sea\|Tarat Sea]] that borders southern [[Alethkar\|Alethkar]] and [[Jah Keved\|Jah Keved]] as well as part of the [[Frostlands\|Frostlands]].
-The port city of [[Dumadari\|Dumadari]] lies on the north shore of the bay. The [[Deathbend River\|Deathbend River]] forms a delta that empties into the eastern section of the bay near the Alethi city [[Karanak\|Karanak]]. Several other small rivers empty into the bay, including the rivers that form part of the borders between Jah Keved, Alethkar, and the Frostlands.
+La **bahía de Mevan** es una sección del [[Mar de Tarat\|mar de Tarat]] que bordea el sur de [[Alezkar\|Alezkar]] y [[Jah Keved\|Jah Keved]], así como parte de las [[Tierras Heladas\|Tierras Heladas]].
+La ciudad portuaria de [[Dumadari\|Dumadari]] se encuentra en la orilla norte de la bahía. El [[R%C3%ADo Curva de la Muerte\|río Curva de la Muerte]] forma un delta que desemboca en la sección oriental de la bahía, cerca de la ciudad alezi de [[Karanak\|Karanak]]. Varios otros ríos pequeños desembocan en la bahía, incluidos los ríos que forman parte de las fronteras entre Jah Keved, Alezkar y las Tierras Heladas.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 17:28, 25 December 2016 (MST)

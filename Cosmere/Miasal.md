@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Miasal**|
 |-|-|
 |**Padres**|[[Harl\|Harl]]|
@@ -8,10 +11,10 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Miasal** was a [[Darkeyes\|darkeyed]] child from [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
-At five years old, she suffers a fall, severely breaking her leg and suffering a head injury. [[Kaladin\|Kaladin]] happens to be in the area and manages to cauterize her leg wound and stop the blood loss, but he is not able to save her life. Her father, [[Harl\|Harl]], is distraught when she dies. [[Lirin\|Lirin]] later praises Kaladin's actions, but Kaladin sees Miasal's death as his failure.
+**Miasal** era una niña [[Ojos oscuros\|ojos oscuros]] de [[Piedralar\|Piedralar]], en [[Roshar\|Roshar]].
+A los cinco años sufre una caída, se rompe gravemente una pierna y sufre un traumatismo craneoencefálico. [[Kaladin\|Kaladin]] se encuentra por casualidad en la zona y consigue cauterizarle la herida de la pierna y detener la pérdida de sangre, pero no consigue salvarle la vida. Su padre, [[Harl\|Harl]], se angustia cuando ella muere. [[Lirin\|Lirin]] alaba más tarde las acciones de Kaladin, pero Kaladin ve la muerte de Miasal como su fracaso.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 12:08, 15 March 2019 (MST)

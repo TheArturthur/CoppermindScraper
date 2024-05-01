@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Meleran Khal**|
 |-|-|
 |**Familia**|
@@ -8,16 +11,16 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-Captainlord **Meleran Khal** is the youngest son of [[General Khal\|General Khal]] and [[Teshav\|Teshav]].
+El capitán **Meleran Khal** es el hijo menor del [[General Khal\|General Khal]] y [[Teshav\|Teshav]].
 
-## Appearance
-Meleran Khal is a powerfully built man who is balding by his thirties. He is around the same height as Adolin.
+## Apariencia
+Meleran Khal es un hombre de complexión fuerte que se está quedando calvo a los treinta años. Tiene más o menos la misma altura que Adolin.
 
-## History
-Meleran Khal was born the youngest son of Teshav and Khal sometime around 1144, after his brothers [[Halam\|Halam]] and [[Aratin\|Aratin]]. Little of his history is known, but it likely he accompanied the rest of his family in the [[War of Reckoning\|War of Reckoning]] and followed them to [[Urithiru\|Urithiru]].
-While King [[Elhokar\|Elhokar]] was infiltrating [[Kholinar\|Kholinar]], he asked [[Shallan Davar\|Shallan Davar]] to use Lightweaving to disguise [[Adolin Kholin\|Adolin Kholin]] as Meleran Khal multiple times, since the two have a similar height.
+## Historia
+Meleran Khal nació como hijo menor de Teshav y Khal alrededor de 1144, después de sus hermanos [[Halam\|Halam]] y [[Aratin\|Aratin]]. Poco se sabe de su historia, pero es probable que acompañase al resto de su familia en la [[Guerra de la Venganza\|Guerra de la Venganza]] y los siguiese hasta [[Urithiru\|Urithiru]].
+Mientras el rey [[Elhokar\|Elhokar]] se infiltraba en [[Kholinar\|Kholinar]], le pidió a [[Shallan Davar\|Shallan Davar]] que utilizase el tejido de luz para disfrazar a [[Adolin Kholin\|Adolin Kholin]] de Meleran Khal varias veces, ya que ambos tienen una altura similar.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 17:16, 29 May 2022 (UTC)

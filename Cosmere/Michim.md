@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Michim**|
 |-|-|
-|**Tipo**|Game|
+|**Tipo**|Juego|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Michim** is a guessing game on [[Roshar\|Roshar]]. It involves betting numbers of colored stones.
-[[Sigzil\|Sigzil]] and [[Teft\|Teft]] play it while waiting for [[Kaladin\|Kaladin]] to return from the Shattered Plains. Teft complains about Sigzil using the name 'michim' as it is a 'holy word' in , though Sigzil points out that the word is not holy where the game originated. Teft loses most of the time.
+**Michim** es un juego de adivinación en [[Roshar\|Roshar]]. Consiste en apostar un número de piedras de colores.
+[[Sigzil\|Sigzil]] y [[Teft\|Teft]] juegan mientras esperan a que [[Kaladin\|Kaladin]] regrese de las Llanuras Quebradas. Teft se queja de que Sigzil utilice el nombre «michim» por ser una «palabra sagrada» en el [[Vorinismo\|vorinismo]], aunque Sigzil señala que la palabra no es sagrada en el lugar de origen del juego. Teft pierde casi siempre.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Joe ST (talk) 13:04, 12 June 2018 (MST)

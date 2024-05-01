@@ -1,4 +1,3 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 
 
 |**Incidente**|
@@ -10,7 +9,7 @@
 |**Mundo**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-El **Incidente** es el término utilizado por los estudiosos de la [[M%C3%A1quina padre\|máquina padre]] para referirse al suceso ocurrido en [[Komashi\|Komashi]] en el que algunos [[Haijo\|espíritus]] lograron escapar de la máquina y entrar en contacto con los habitantes de [[Futinoro\|Futinoro]]. [[Honam\|Honam]] cree que el Incidente se produjo porque la máquina padre sufría una escasez de energía.
+El **Incidente** es el término utilizado por los estudiosos de la [[M%C3%A1quina padre\|máquina padre]] para referirse al suceso ocurrido en [[Komashi\|Komashi]] en el que algunos [[Haijo\|espíritus]] lograron escapar de la máquina y entrar en contacto con los habitantes de [[Futinoro\|Futinoro]]. [[Honam\|Honam]] cree que el Incidente se produjo porque la máquina padre sufría una falta de energía.
 El Incidente provocó la destrucción de Futinoro.
 
 ## Notas

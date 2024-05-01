@@ -1,12 +1,15 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mikhan**|
 |-|-|
 |**Nación**|[[Marat\|Marat]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mikhan** is a town in northern [[Marat\|Marat]] on [[Roshar\|Roshar]]. It is south of the city [[Lexili\|Lexili]] in [[Greater Hexi\|Greater Hexi]].
+**Mikhan** es una ciudad en el norte de [[Marat\|Marat]] en [[Roshar\|Roshar]]. Está al sur de la ciudad de [[Lexili\|Lexili]] en [[Gran Hexi\|Gran Hexi]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 23:15, 19 November 2020 (UTC)
