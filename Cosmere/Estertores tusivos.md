@@ -1,12 +1,15 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Estertores tusivos**|
 |-|-|
 |**Mundo de origen**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **coughing shivers** is a disease on [[Sel\|Sel]]. After prince [[Raoden\|Raoden]] became an  his father, king [[Iadon\|Iadon]], claimed that he had died from the coughing shivers.
-The coughing shivers disfigures it’s victims. The disease is unlikely to kill young and fit men, although it can happen.
+Los **estertores tusivos** son una enfermedad en [[Sel\|Sel]]. Después de que el príncipe [[Raoden\|Raoden]] se convirtiera en [[Elantrino\|elantrino]], su padre, el rey [[Iadon\|Iadon]], afirmó que había muerto a causa de esto. 
+Los estertores tusivos desfiguran a sus víctimas. Es poco probable que la enfermedad mate a hombres jóvenes y en forma, aunque puede ocurrir.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

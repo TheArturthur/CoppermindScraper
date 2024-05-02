@@ -4,7 +4,7 @@
 |-|-|
 ||
 |**Capacidades**|[[Saltamundos\|Saltamundos]]|
-|**Vinculado con**||
+|**Vinculado con**|[[Aviar de Mraize\|Aviar de Mraize]]|
 |**Apodos**|Gobby|
 |**Grupo**|[[Ghostbloods\|Ghostbloods]]🐱︎|
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
@@ -58,7 +58,7 @@ Se refiere a los parshendi como los oyentes, uno de los pocos en los campos de g
 
 ## Atributos y habilidades
 Mraize es un saltamundos. Su poder reside en sus conocimientos y posesiones. Entre ellas se encuentra un «pollo verde» que se sabe que es un [[Aviar\|aviar]]. Tiene un [[Seon\|seon]] de [[Sel\|Sel]]. También tiene [[Arena (Taldain)\|arena blanca]] de [[Taldain\|Taldain]], una rama de Yolen con escrituras extrañas, un cuchillo de plata y un [[%C3%89ter\|éter]] que no puede usar. Además, se cree que tiene lágrimas de Edgli. Muchas de estas posesiones y conocimientos fueron obtenidos fuera de Roshar.
-Mraize tiene un  con una habilidad desconocida.
+Mraize tiene un [[Aviar de Mraize\|aviar]] con una habilidad desconocida.
 Mraize también parece tener una extraña capacidad para sentir la presencia de los demás. No está claro si esto se debe a que tiene suficiente [[Aliento biocrom%C3%A1tico\|aliento]] para haber alcanzado el [[/wiki/Elevaci%C3%B3n#Cuarta Elevaci.C3.B3n]] o a algún otro medio más mundano. Mraize siempre vigila las puertas.
 Sus conocimientos le dan la capacidad de chantajear, persuadir y manipular, que es lo que, como miembro de alto rango de la Sangre Espectral, le hace tan peligroso. No es tan bueno adoptando un personaje como [[Shallan\|Shallan]].
 Como miembro de los Sangre Espectral, Mraize busca una forma de sacar la [[Investidura\|Investidura]] del mundo a través de [[Shadesmar\|Shadesmar]]. Persiguen a los [[Hijos de Honor\|Hijos de Honor]], ya que temen que estén cerca de descubrir el secreto para hacerlo posible. No les interesa ver a [[Odium\|Odium]] gobernar Roshar.

@@ -1,17 +1,20 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Miliv**|
 |-|-|
 |**Fallecido**||
-|**Oficio**|Head Steward|
+|**Oficio**|Mayordomo principal|
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Miliv** was Citylord [[Wistiow\|Wistiow]]'s head steward in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
-Miliv disliked [[Lirin\|Lirin]], the local surgeon from Hearthstone, for unknown reasons. [[Lirin\|Lirin]]'s son, Kaladin, believed that many of the rumors about their family in Hearthstone were started by Miliv.
-Miliv was married to a woman who worked as a nurse to Brightlady [[Laral Wistiow\|Laral Wistiow]]. After Laral's father died, the nurse didn't let [[Kaladin\|Kaladin]] visit Laral because she believed that the boys from the town were inappropriate friends for Laral.
-Sometime after Citylord [[Roshone\|Roshone]] arrived to replace Wistiow, Miliv died and was replaced as steward by [[Natir\|Natir]].
+**Miliv** era el mayordomo principal del consistor [[Wistiow\|Wistiow]] en [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
+A Miliv no le gustaba [[Lirin\|Lirin]], el cirujano de Piedralar, por razones desconocidas. El hijo de [[Lirin\|Lirin]], Kaladin, creía que muchos de los rumores que corrían por Piedralar sobre su familia los había empezado Miliv.
+Miliv estaba casado con una mujer que trabajaba como madrina de la brillante señora [[Laral Wistiow\|Laral Wistiow]]. Tras el fallecimiento del padre de esta, la madrina no permitió que [[Kaladin\|Kaladin]] visitase a Laral porque pensaba que los chicos del pueblo eran amigos inapropiados para ella.
+En algún momento después de que el consistor [[Roshone\|Roshone]] llegase para sustituir a Wistiow, Miliv murió y fue reemplazado por el mayordomo [[Natir\|Natir]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 16:46, 18 March 2016 (MDT)

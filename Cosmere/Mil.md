@@ -1,20 +1,24 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mil**|
 |-|-|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
-Para the Veden bookmaker, ver [[Mill\|Mill]].
-**Mil** is a man from [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
+Para el corredor de apuestas veden, ver [[Mill\|Mill]].
+**Mil** es un hombre de [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-He is an older man with a friendly face and a patchwork beard, which he had always wanted to grow out but never managed.
+## Apariencia y personalidad
+Es un hombre mayor de cara amigable con una barba desigual, que siempre ha querido que le creciese pero nunca lo ha conseguido.
 
-## History
-In 1175, Mil was among the residents of Hearthstone that were evacuated from Hearthstone to [[Urithiru\|Urithiru]] on the *[[Fourth Bridge\|Fourth Bridge]]* due to the occupation of northern Alethkar by [[Singer\|singer]] forces. After taking up residence in the tower, he visited [[Lirin\|Lirin]]'s clinic and was treated by [[Kaladin\|Kaladin]], whom he had known prior to the war. Mil had been suffering from persistent headaches for months and Kaladin thought it might be migraines. Kaladin prescribed him medicine for the pain, and suggested visiting the  for  even though it was likely too late to heal him with [[Surgebinding\|Surgebinding]]. Mil was told to record all his headaches and symptoms for a month; this simple affirmation of his pain made him grin ear to ear.
+## Historia
+En el año 1175, Mil se encontraba entre los habitantes de Piedralar que fueron evacuados a [[Urithiru\|Urithiru]] en el *[[Cuarto Puente\|Cuarto Puente]]* debido a la ocupación del norte de Alezkar llevada a cabo por las fuerzas [[Cantor\|cantoras]]. Tras comenzar a vivir en la torre, visitó la clínica de [[Lirin\|Lirin]] y fue atendido por [[Kaladin\|Kaladin]], a quien ya conocía de antes de la guerra. Mil había estado sufriendo dolores de cabeza persistentes durante meses y Kaladin pensó que podría tratarse de migrañas. Kaladin le recetó medicina para el dolor, y le sugirió visitar a los [[Orden de los Danzantes del Filo\|Danzantes del Filo]] por su capacidad de [[/wiki/Potenciaci%C3%B3n#Progresi.C3.B3n]], aunque era porbable que ya fuese muy tarde para curarle por medio de la [[Potenciaci%C3%B3n\|potenciación]]. Se le pidió a Mil que apuntase todos sus dolores de cabeza y síntomas durante un mes; esta simple confirmación de su dolor lo hizo sonreír de oreja a oreja.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 22:57, 21 June 2021 (UTC)
