@@ -65,7 +65,7 @@ Para más información, ver [[Visiones de Dalinar\|visiones de Dalinar]].
 
 ## Visiones de Odium
 [[Odium\|Odium]] puede llevar a otros a la visión, que utiliza a menudo para comunicarse con ellos directamente. Cuando se usa para comunicarse, Odium suele crear un vasto campo de luz dorada y piedra.
-En particular, se demostró que Odium era vulnerable durante sus visiones, lo que le permitió ser asesinado por Sangre Nocturna. Esto destrozó la visión, dejando un vacío oscuro, dentro del cual [[Taravangian\|Taravangian]] pudo ascender a la Esquirla de Odium.
+En particular, se demostró que Odium era vulnerable durante sus visiones, lo que permitió que su recipiente, Rayse, fuera asesinado por Sangre Nocturna. Esto destrozó la visión, dejando un vacío oscuro, dentro del cual [[Taravangian\|Taravangian]] pudo ascender a la Esquirla de Odium.
 
 ## Visiones de Conservación
 [[Kelsier\|Kelsier]], como [[Conservaci%C3%B3n\|Conservación]], fue capaz de arrastrar a un [[Fantasma\|Fantasma]] semicomatoso a un "medio sueño" de cómo fue el mundo una vez para comunicarle información vital sobre cómo derrotar a [[Ruina\|Ruina]].

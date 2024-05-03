@@ -4,15 +4,16 @@
 |**Vwafendal**|
 |-|-|
 |**Familia**|
-|**Descendientes**|[[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Descendientes**|[[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Maxillium\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Títulos**|Venerable|
-|**Oficio**|Venerable del [[S%C3%ADnodo\|Sínodo]]|
+|**Grupo**|[[S%C3%ADnodo\|Sínodo]]🐱︎|
 |**Residencia**|[[La Aldea\|La Aldea]]|
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
-**Vwafendal** es una [[Terris\|terrisana]] que vive en [[La Aldea\|la Aldea]] en [[Elendel\|Elendel]] tras el [[Catacendro\|Catacendro]] de [[Scadrial\|Scadrial]]. Desempeña el cargo de venerable del [[Synod\|Synod]]. También es la abuela materna de [[Waxillium Ladrian\|Waxillium]] y [[Telsin Ladrian\|Telsin Ladrian]].
+**Vwafendal** es una [[Terris\|terrisana]] que vive en [[La Aldea\|la Aldea]] en [[Elendel\|Elendel]] tras el [[Catacendro\|Catacendro]] de [[Scadrial\|Scadrial]]. Desempeña el cargo de venerable del [[Synod\|Synod]]. También es la abuela materna de [[Waxillium\|Waxillium]] y [[Telsin Ladrian\|Telsin Ladrian]].
 
 ## Sumario
 
@@ -34,11 +35,11 @@
 
 
 ## Apariencia y personalidad
-Vwafendal es "majestuosa", con piel oscura y pelo blanco que lleva en una trenza. Usa túnicas de Terris y camina con un bastón aunque no lo necesita. Ella no grita, pero se hace respetar; los jóvenes terrisanos se inclinan ante su presencia y es fácil sentir su desaprobación. Es muy observadora y pudo detectar a Wax acechando cerca de su oficina. Los adolescentes que intentan escabullirse de la Aldea tratan de tener en cuenta su ubicación, ya que ella representa la mayor amenaza para atraparlos.
+Vwafendal es "majestuosa", con piel oscura y pelo blanco que lleva en una trenza. Usa túnicas de [[Terris\|Terris]] y camina con un bastón aunque no lo necesita. Ella no grita, pero se hace respetar; los jóvenes terrisanos se inclinan ante su presencia y es fácil sentir su desaprobación. Es muy observadora y pudo detectar a [[Wax\|Wax]] acechando cerca de su oficina. Los adolescentes que intentan escabullirse de la [[Aldea\|Aldea]] tratan de tener en cuenta su ubicación, ya que ella representa la mayor amenaza para atraparlos.
 Ella es una firme defensora de las tradiciones de Terris, incluyendo la necesidad de reglas y orden. Ella insiste en que los terrisanos pueden hacer cumplir la ley por sí mismos y que no es necesario un cuerpo de policía externo; siente un gran desprecio por las armas de fuego.
 
 ## Historia
-Durante años, Vwafendal le decía a Wax (y presumiblemente a Telsin) que vivir en la Aldea junto a otros terrisanos podía cambiar la vida de una persona. Wax y Telsin al final vinieron a vivir con ella cuando tenían quince y dieciséis años, respectivamente. Su padre había acordado permitirles vivir allí durante un año, a pesar de las protestas de su hermano [[Edwarn\|Edwarn]]. Durante ese tiempo, Vwafendal ya era una venerable muy respetada en el Sínodo, y mantenía una oficina en la Logia del Sínodo. Vivía cerca de la [[Elendel\|Puerta de Estaño]], uno de los principales pasajes entre la Aldea y el resto de Elendel, y ella vigilaba a las personas que pasaban por ella. Ella mantenía una lista de todas las personas en la ciudad que se sabía que tenían sangre [[Feruquimia\|feruquímica]].
+Durante años, Vwafendal le decía a [[Wax\|Wax]] (y presumiblemente a [[Telsin\|Telsin]]) que vivir en la [[Aldea\|Aldea]] junto a otros terrisanos podía cambiar la vida de una persona. Wax y Telsin al final vinieron a vivir con ella cuando tenían quince y dieciséis años, respectivamente. Su padre había acordado permitirles vivir allí durante un año, a pesar de las protestas de su hermano [[Edwarn\|Edwarn]]. Durante ese tiempo, Vwafendal ya era una venerable muy respetada en el [[S%C3%ADnodo\|Sínodo]], y mantenía una oficina en la Logia del Sínodo. Vivía cerca de la [[Elendel\|Puerta de Estaño]], uno de los principales pasajes entre la Aldea y el resto de Elendel, y ella vigilaba a las personas que pasaban por ella. Ella mantenía una lista de todas las personas en la ciudad que se sabía que tenían sangre [[Feruquimia\|feruquímica]].
 
 ### Muerte de Forch
 Una noche, [[Kwashim\|Kwashim]], [[Forch\|Forch]], [[Idashwy\|Idashwy]], y Telsin planeaban escaparse para ir a beber, y Wax se unió a ellos. Idashwy había visto a Vwafendal ser llamada a su oficina por una emergencia, y el grupo pensó que sería fácil escaparse a través de la puerta cerca de su casa. Sin embargo, Wax descubrió que la emergencia involucraba a un alguacil, y despertó su curiosidad. Dejó el grupo para escuchar en una de las ventanas de Vwafendal. Escuchó a Vwafendal y al alguacil discutir una "pista anónima" con pruebas relacionadas con un posible incendio provocado por Forch. Vwafendal discutió verbalmente con el alguacil, insistiendo en que los terrisanos se encargarían del asunto internamente. El policía colocó una bala en el escritorio de Vwafendal para recordarle un tiroteo ocurrido en la Aldea quince años atrás, lo cual la enfureció.
@@ -50,8 +51,8 @@ Wax dejó la Aldea y terminó en [[Los %C3%81ridos\|los Áridos]], y Vwafendal n
 
 ## Relaciones
 ### Wax
-Vwafendal parecía preocuparse por Wax en su juventud y mostraba empatía hacia las dificultades que enfrentaba al no encajar en ningún lugar debido a su herencia mixta. Sin embargo, también era firme en su adhesión a la tradición de Terris y creía que las personas terrisanas debían vivir de acuerdo con esa tradición en lugar de integrarse en la sociedad moderna de Elendel. Le dijo a Wax que abrazase su lado terrisano e insistió en llamarlo por su nombre terrisano, Asinthew. Wax a veces la llama "abuela V".
-Después de que Wax matase a Forch y se fuese a los Áridos para convertirse en un agente de la ley, se creó una brecha entre Vwafendal y Wax que persistió durante varias décadas. Ella todavía desprecia las armas de fuego y culpa a Wax por los eventos relacionados con la muerte de Forch. Wax no se disculpa y le dice que si ella necesita odiarlo, que lo haga; apenas pueden mantener las formas el uno con el otro.
+Vwafendal parecía preocuparse por [[Wax\|Wax]] en su juventud y mostraba empatía hacia las dificultades que enfrentaba al no encajar en ningún lugar debido a su herencia mixta. Sin embargo, también era firme en su adhesión a la tradición de [[Terris\|Terris]] y creía que las personas terrisanas debían vivir de acuerdo con esa tradición en lugar de integrarse en la sociedad moderna de [[Elendel\|Elendel]]. Le dijo a Wax que abrazase su lado terrisano e insistió en llamarlo por su nombre terrisano, Asinthew. Wax a veces la llama "abuela V".
+Después de que Wax matase a [[Forch\|Forch]] y se fuese a [[Los %C3%81ridos\|los Áridos]] para convertirse en un agente de la ley, se creó una brecha entre Vwafendal y Wax que persistió durante varias décadas. Ella todavía desprecia las armas de fuego y culpa a Wax por los eventos relacionados con la muerte de Forch. Wax no se disculpa y le dice que si ella necesita odiarlo, que lo haga; apenas pueden mantener las formas el uno con el otro.
 
 ### Wayne
 Debido a su desagrado por la Aldea, Wax generalmente envía a Wayne allí cada vez que buscan información. Wayne afirma que Vwafendal le tiene simpatía.

@@ -8,7 +8,7 @@
 |**Padres**|[[Padre de Ico\|Padre]]|
 |**Capacidades**|[[Astilla\|Astilla]]|
 |**Oficio**|Capitán del barco|
-|**Especie**|[[Lumispren\|Lumispren]]|
+|**Especie**|[[Alcanzador\|Alcanzador]]|
 |**Residencia**|[[Shadesmar\|Shadesmar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|

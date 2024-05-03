@@ -4,8 +4,8 @@
 |**Westweather Cett**|
 |-|-|
 |**[[Casa Cett\|Casa Cett]]**|
-|**Parientes**|[[Aving Cett\|Aving]]|
-|**Ancestros**|[[Ashweather Cett\|Ashweather]], [[Madre de Allrianne\|Madre de Allrianne]]|
+|**Parientes**|[[Aving\|Aving]], [[Darlin\|Darlin]]|
+|**Ancestros**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|Madre de Allrianne]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

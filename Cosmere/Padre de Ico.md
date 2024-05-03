@@ -6,7 +6,7 @@
 |**Familia**|
 |**Hijos**|[[Ico\|Ico]]|
 |**Capacidades**|[[Astilla\|Astilla]], magia de los [[Escultores de Voluntad\|Escultores de Voluntad]] [[V%C3%ADnculo Nahel\|vínculo Nahel]]|
-|**Especie**|[[Lumispren\|Lumispren]]|
+|**Especie**|[[Alcanzador\|Alcanzador]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Primera aparición**|*[[Juramentada\|Juramentada]]*|

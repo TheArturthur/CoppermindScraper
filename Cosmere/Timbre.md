@@ -4,7 +4,7 @@
 ||
 |**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]], [[Astilla\|Astilla]]|
 |**Vinculado con**|[[Venli\|Venli]], [[Eshonai\|Eshonai]] |
-|**Especie**|[[Lumispren\|Lumispren]]|
+|**Especie**|[[Alcanzador\|Alcanzador]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|

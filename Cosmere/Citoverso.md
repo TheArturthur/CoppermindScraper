@@ -147,7 +147,7 @@ Aunque, hasta ahora, el futuro del Citoverso sólo incluye el último libro de l
 |[[Cit%C3%B3nica (libro)\|Citónica]]|[[Escuadr%C3%B3n (saga)\|Escuadrón]] #3|Novela|
 |[[Perpetua\|Perpetua]]|[[Escuadr%C3%B3n (saga)\|Escuadrón]] #3.1|Novella|Co-escrita con with Janci Patterson|
 |**2023**|[[Desafiante (libro)\|Desafiante]]|[[Escuadr%C3%B3n (saga)\|Escuadrón]] #4|Novela|
-|[[Hyperthief\|Hyperthief]]|[[Escuadr%C3%B3n (saga)\|Escuadrón]] #3.2|Relato|Co-escrita con with Janci Patterson|
+||[[Escuadr%C3%B3n (saga)\|Escuadrón]] #3.2|Relato|Co-escrita con with Janci Patterson|
 
 ### Próximas obras
 A continuación se indican las próximas obras confirmadas ambientadas en el Citoverso:

@@ -84,7 +84,7 @@ For related information, see:
 |**||Novel|| |
 |**||Novel|| |
 |**| #4|Novel|||
-|*[[Hyperthief\|Hyperthief]]*| #3.2|Short Story|Co-written with [[Janci Patterson\|Janci Patterson]].||
+|**| #3.2|Short Story|Co-written with [[Janci Patterson\|Janci Patterson]].||
 |*[[Long Chills %26 Case Dough\|Long Chills & Case Dough]]*|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novelette|Released in the final box of the Year of Sanderson campaign.||
 |**2024**|*[[Dragonsteel Prime\|Dragonsteel Prime]]*|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novel|Ebook released in 2024 on the final day of the *Words of Radiance* Leatherbound Backerkit campaign.||
 |*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|Novel|| |
@@ -104,8 +104,9 @@ Este meta-artículo está completo, pero no ha sido revisado todavía.
 |**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
 |**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
 |**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
 |**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
 
 
 

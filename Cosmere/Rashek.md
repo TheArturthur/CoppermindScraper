@@ -6,7 +6,7 @@
 |**Parientes**|[[Kwaan\|Kwaan]]|
 |**Nacido en**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
 |**Fallecido**|1022 [[Imperio Final\|IF]]|
-|**Capacidades**|[[Feruquimia\|Feruquimista]], [[Lasca\|Lasca]], [[Alomancia\|Nacido de la bruma]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]], !|
+|**Capacidades**|[[Feruquimia\|Feruquimista]], [[Lasca\|Lasca]], [[Alomancia\|Nacido de la bruma]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]], [[Sabio\|Sabio]]|
 |**Títulos**|Lord Legislador, Lasca del Infinito, el Padre, el Conquistador, Primer Emperador|
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|

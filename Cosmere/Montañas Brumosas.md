@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Montañas Brumosas**|
 |-|-|
 |**Tipo**|Montañas|
@@ -5,15 +8,15 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Misted Mountains** are a mountain range located on the eastern border of [[Shinovar\|Shinovar]] on [[Roshar\|Roshar]].
+Las **Montañas Brumosas** son una cadena montañosa situada en la frontera oriental de [[Shinovar\|Shinovar]], en [[Roshar\|Roshar]].
 
-## Geography
-The Misted Mountains border several nations during the [[Era of Solitude\|Era of Solitude]], including Shinovar, [[Alm\|Alm]], [[Yezier\|Yezier]], [[Desh\|Desh]], [[Babatharnam\|Babatharnam]], [[Rira (country)\|Rira]], and [[Iri\|Iri]].
-They serve as a windbreak for the whole nation of Shinovar, weakening the [[Highstorm\|highstorms]] enough to protect the country and its inhabitants from the destructive power of the storms. Due to this effect, the flora and fauna of Shinovar are not defined by surviving the highstorms, so they are vastly different from the rest of Roshar.
+## Geografía
+Las Montañas Brumosas limitan con varias naciones durante la [[Era de la Soledad\|Era de la Soledad]], incluyendo Shinovar, [[Alm\|Alm]], [[Yezier\|Yezier]], [[Desh\|Desh]], [[Babatharnam\|Babatharnam]], [[Rira (pa%C3%ADs)\|Rira]], e [[Iri\|Iri]].
+Sirven de cortavientos para toda la nación de Shinovar, debilitando las [[Alta tormenta\|altas tormentas]] lo suficiente como para proteger al país y a sus habitantes del poder destructivo de las mismas. Debido a este efecto, la flora y la fauna de Shinovar no se definen por sobrevivir a las altas tormentas, por lo que son enormemente diferentes del resto de Roshar.
 
-## Trivia
-The Misted Mountains, much like Robert Jordan's Mountains of Mist, are an homage to J. R. R. Tolkien's Misty Mountains.
-## Notes
+## Curiosidades
+Las Montañas Brumosas, al igual que las Montañas de la Niebla de Robert Jordan, son un homenaje a las Montañas Brumosas de J. R. R. Tolkien.
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 02:18, 23 December 2016 (MST)

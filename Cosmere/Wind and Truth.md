@@ -33,6 +33,7 @@ Durante Dragonsteel 2022, Brandon leyó el resto del primer capítulo de Kaladin
 Durante Dragonsteel 2022, Brandon también leyó el tercer flashback de Szeth, que puede leerse y escucharse en .
 En la Tampa Bay Comic Con de 2023, Brandon leyó un capítulo de Jasnah, que puede leerse y escucharse en .
 Durante la Dragonsteel 2023, Brandon reyó un interludio, que puedes consultar .
+En la C2E2 de 2024, Brandon leyó los primeros dos capítulos de Shallan, que se pueden leer .
 Dalinar desempeñará un papel importante que en *El ritmo de la guerra*. 
 Szeth será el personaje central.
 Más personajes homosexuales de Roshar serán canonizados en el libro, incluyendo a Renarin y Rlain.{
@@ -84,8 +85,9 @@ A este meta-artículo todavía le falta información. Por favor, ayuda a The Cop
 |**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
 |**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
 |**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
 |**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
 
 
 

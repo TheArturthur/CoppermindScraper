@@ -13,11 +13,11 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
->“*Sin la ley, no hay nada. Te someterás a sus reglas y aceptarás los dictados de la justicia. Es todo lo que tenemos, lo único que hay seguro en este mundo.*”
+>“*Sin la ley, no hay nada. Es todo lo que tenemos, lo único que hay seguro en este mundo.*”
 \-Nale[1]
 
 
-**Nale**, también conocido como **Nalan'Elin**, **Nin** o **Nakku**, es uno de los diez [[Heraldos\|Heraldos]] del [[Todopoderoso\|Todopoderoso]] en [[Roshar\|Roshar]] who served as a protector of humanity against the Desolations from 7000 to 4500 Rosharan years before the [[True Desolation\|True Desolation]].. Es el Heraldo de la Justicia y el patrón de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]], además de ser él mismo un Rompedor del Cielo.
+**Nale**, también conocido como **Nalan'Elin**, **Nin** o **Nakku**, es uno de los diez [[Heraldos\|Heraldos]] del [[Todopoderoso\|Todopoderoso]] en [[Roshar\|Roshar]] que sirvió como protector de la humanidad contra las Desolaciones desde el año roshariano 7000 hasta el 4500 antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].. Es el Heraldo de la Justicia y el patrón de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]], además de ser él mismo un Rompedor del Cielo.
 
 ## Sumario
 
@@ -79,7 +79,7 @@ Para más imágenes, ver [[Nale/Galer%C3%ADa\|/Galería]].
 
 
 ### Apariencia
-Nale es de piel oscura, y a menudo se le describe como de aspecto [[Makabaki\|makabaki]], o más concretamente . El aspecto más notable de su apariencia es una marca en forma de media luna en su mejilla derecha, algo único entre los [[Heraldos\|Heraldos]]. Suele vestir el uniforme de un agente azish: un abrigo negro con una doble hilera de botones plateados y un rígido cuello plateado que asoma por debajo, así como guantes con cuellos largos. Se dice que sus ojos son vidriosos, insensibles y fríos. Las obras de arte [[Roshar\|rosharianas]] lo representan normalmente como calvo, y de hecho se afeita el pelo a ras del cuero cabelludo.
+Nale es de piel oscura, y a menudo se le describe como de aspecto [[Makabaki\|makabaki]] o, más concretamente, . Lo más notable de su apariencia es una marca en forma de media luna en su mejilla derecha, algo único entre los [[Heraldos\|Heraldos]]. Suele vestir el uniforme de un agente azish: un abrigo negro con una doble hilera de botones plateados y un rígido cuello plateado que asoma por debajo, así como guantes con cuellos largos. Se dice que sus ojos son vidriosos, insensibles y fríos. Las obras de arte [[Roshar\|rosharianas]] lo representan normalmente como calvo, y de hecho se afeita el pelo a ras del cuero cabelludo.
 
 ### Personalidad
 Nale está obsesionado con el orden y la ley, y llegará a extremos para asegurarse de que no infringe ninguna ley del país en el que se encuentra. Esto se debe a que ha perdido la confianza en su propio sentido de la justicia y la moralidad, y como tal, cree que la única manera de actuar correctamente es obedeciendo un código de conducta creado por otros. Sin embargo, es capaz de doblar las reglas en su beneficio, como por ejemplo nombrándose a sí mismo como agente de la ley para poder matar, o presionando a las autoridades locales para que cambien la ley. Dicho esto, Nale sigue centrado en obedecer las reglas, y castigará incluso a sus propios subordinados por romperlas, sin importar si hacerlo es para su beneficio. Tal vez por esto, [[Sangre Nocturna\|Sangre Nocturna]] no lo consideraría malvado.

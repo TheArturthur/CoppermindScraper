@@ -1,22 +1,26 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mishinah Bethab**|
 |-|-|
-|**Cónyuge**|Highprince [[Bethab\|Bethab]]|
+|**Cónyuge**|Alto príncipe [[Bethab\|Bethab]]|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
-**Mishinah Bethab** is a [[Lighteyes\|lighteyed]] member of the  nobility on [[Roshar\|Roshar]]. She is married to Highprince [[Bethab\|Bethab]].
+**Mishinah Bethab** es una [[Ojos claros\|ojos claros]] miembro de la nobleza [[Alezi\|alezi]] en [[Roshar\|Roshar]]. Está casada con el alto príncipe [[Bethab\|Bethab]].
 
-## Appearance and Personality
-She is mousy, and has orange eyes with a pinched face. She is skilled at navigating Alethi politics.
+## Apariencia y personalidad
+Es tímida, tiene los ojos anaranjados y la cara afilada. Es experta en política alezi.
 
-## History
-Mishinah's history is not known, but Bethab married her for her political acumen. She often attended political meetings in lieu of her husband. At the end of the [[War of Reckoning\|War of Reckoning]], Mishinah—not Bethab himself—informed [[Dalinar\|Dalinar]] that House Bethab would not join his assault on the [[Parshendi\|Parshendi]]. Although some of Bethab's soldiers did not respect this arrangement, it generally benefited House Bethab.
-After the [[Battle of Narak\|Battle of Narak]] and the activation of the [[Oathgate\|Oathgates]], she was seen at a meeting of Alethi nobility in [[Urithiru\|Urithiru]]. Mishinah and several highprinces had concerns about providing basic services (such as food, water, and plumbing) to the many new citizens of Urithiru, but [[Navani Kholin\|Navani Kholin]] was able to quell their fears. Mishinah's questions also implied that she was concerned about Navani seizing power in Dalinar's absence when he temporarily fled to [[Vedenar\|Vedenar]].
-Mishinah and her husband eventually came to support Dalinar and the [[Coalition of monarchs\|coalition of monarchs]]. They were sent to [[Thaylen City\|Thaylen City]] as ambassadors, and Mishinah's political skills proved to be useful.
+## Historia
+Se desconoce la historia de Mishinah, pero Bethab se casó con ella por su perspicacia en política. A menudo asistía a reuniones políticas en lugar de su marido. Al final de la [[Guerra de la Venganza\|Guerra de la Venganza]], Mishina, en vez del propio Bethab, informó a [[Dalinar\|Dalinar]] de que la casa Bethab no se uniría a su asalto contra los [[Parshendi\|parshendi]]. Aunque algunos de sus soldados no respetaron este acuerdo, en general benefició a la casa Bethab.
+Tras la [[Batalla de Narak\|batalla de Narak]] y la activación de las [[Puerta Jurada\|Puertas Juradas]], fue vista en una reunión de la nobleza alethi en [[Urithiru\|Urithiru]]. Mishinah y varios altos príncipes estaban preocupados por la prestación de servicios básicos (como alimentos, agua y cañerías) a los numerosos nuevos ciudadanos de Urithiru, pero [[Navani Kholin\|Navani Kholin]] fue capaz de calmar sus temores. Las preguntas de Mishinah también implicaban que le preocupaba que Navani se hiciese con el poder en ausencia de Dalinar cuando éste huyó temporalmente a [[Vedenar\|Vedenar]].
+Mishinah y su marido acabaron apoyando a Dalinar y a la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]]. Fueron enviados a [[Ciudad Thaylen\|Ciudad Thaylen]] como embajadores, y las habilidades políticas de Mishinah demostraron ser útiles.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 04:19, 19 July 2021 (UTC)

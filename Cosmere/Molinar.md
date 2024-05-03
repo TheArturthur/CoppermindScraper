@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Molinar**|
 |-|-|
 |**Familia**|
@@ -6,15 +9,15 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“* Kmakra and Molinar, the true gemstones of my life.*”
-\- Excerpt from drawer 12-15, ruby, in the Urithiru gem archive[1]
+>“* Kmakra y Molinar son las auténticas gemas corazón de mi vida.*”
+\- Del cajón 12-15, rubí; en el archivo de gemas de Urithiru[1]
 
 
-**Molinar** is a child mentioned in one of the records in the [[Urithiru gem archive\|Urithiru gem archive]]. Since their father and sibling have [[Thaylen\|Thaylen]] styled names, it is likely Molinar is Thaylen or part-Thaylen.
-Their mother was planning to depart [[Urithiru\|Urithiru]] and was given the opportunity to leave a message. She chose to leave a record of her family. A ruby was used to record the message, so she was likely a .
-She felt Molinar, as well as Molinars's sibling [[Kmakra\|Kmakra]], were the true gemstones of her life.
+**Molinar** era une niñe mencionade en uno de los registros del [[Archivo de gemas de Urithiru\|archivo de gemas de Urithiru]]. Ya que su padre y hermane tienen nombres de estilo [[Thayle%C3%B1o\|thayleño]], es probable que Molinar sea thayleñe o parcialmente thayleñe.
+Su madre tenía previsto partir de [[Urithiru\|Urithiru]] y se le dio la oportunidad de dejar un mensaje. Decidió dejar constancia de su familia. Se utilizó un rubí para grabar el mensaje, por lo que es probable que fuera una [[Portador del Polvo\|Portadora del Polvo]].
+Sentía que Molinar, así como le hermane de Molinar, [[Kmakra\|Kmakra]], eran las verdaderas piedras preciosas de su vida.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 13:02, 1 April 2019 (MST)

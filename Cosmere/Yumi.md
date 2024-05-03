@@ -95,6 +95,4 @@ A este artículo le falta información. Por favor, ayuda a The Coppermind .
 
 
 
-
-
 https://es.coppermind.net/wiki/Yumi

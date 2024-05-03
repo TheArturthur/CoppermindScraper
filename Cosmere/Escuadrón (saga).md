@@ -20,7 +20,7 @@
 |**2018**|*[[Escuadr%C3%B3n\|Escuadrón]]*|#1|Novel|||
 |**2019**|*[[Estelar\|Estelar]]*|#2|Novel|||
 |**2021**|*[[Cit%C3%B3nica (libro)\|Citónica]]*|#3|Novel|||
-|**2023**|*[[Hyperthief\|Hyperthief]]*|#3.2|Historia Corta|Co-escrita con [[Janci Patterson\|Janci Patterson]]||
+|**2023**|**|#3.2|Historia Corta|Co-escrita con [[Janci Patterson\|Janci Patterson]]||
 |*[[Desafiante (libro)\|Desafiante]]*|#4|Novel|||
 
 ### Novelas de Escuadrón Cielo
@@ -93,8 +93,9 @@ A este meta-artículo todavía le falta información. Por favor, ayuda a The Cop
 |**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
 |**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
 |**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
+|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
 |**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]] · [[Dark One Libro 1\|Dark One Libro 1]]|
+|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
 
 
 

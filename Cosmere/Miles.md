@@ -4,7 +4,7 @@
 |-|-|
 ||
 |**Fallecido**|341 [[Catacendro\|PC]]|
-|**Capacidades**|[[/wiki/Oro#Uso alom.C3.A1ntico]] & [[/wiki/Oro#Uso feruqu.C3.ADmico]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]], !|
+|**Capacidades**|[[/wiki/Oro#Uso alom.C3.A1ntico]] & [[/wiki/Oro#Uso feruqu.C3.ADmico]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]], [[Sabio\|Sabio]]|
 |**Apodos**|Cienvidas|
 |**Religión**|[[Trellismo\|Trellismo]]|
 |**Grupo**|[[Desvanecedores\|Desvanecedores]]🐱︎, [[El Grupo\|El Grupo]]🐱︎|

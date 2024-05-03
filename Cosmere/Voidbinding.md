@@ -35,7 +35,7 @@ Es "teóricamente posible" que un [[Fabrial\|fabrial]] imite al menos algunas pa
 
 ## Mitología
 Uno de los poderes más comunes asociados con la potenciación del Vacío es la profecía y adivinación. Según los [[Fervoroso\|fervorosos]], incluso los [[Heraldo\|Heraldos]] denunciaban su uso. Aún está por verse si eso es cierto o solo un mito, aunque [[Jasnah\|Jasnah]] cree que es verdad. De todas maneras, en naciones [[Vorin\|vorin]], *cualquier* tipo de predicción es considerada tabú. Los fervorosos se preocuparon de que las [[Visiones de Dalinar\|visiones]] de [[Dalinar\|Dalinar]] estubieran conectadas con la potenciación del Vacío, pero venían de [[Honor\|Honor]] así que era una preocupación sin fundamento.
-La retinencia vorin a adivinar el futuro dió pie a la invención de juegos como rompecuello, que no requieren adivinar el futuro directamente. Mucha gente vorin no confía en los [[Predicetormentas\|predicetormentas]], ya que predicen cuando una [[Alta tormenta\|alta tormenta]] ocurrirá.
+La retinencia vorin a adivinar el futuro dió pie a la invención de juegos como [[Rompecuello\|rompecuello]], que no requieren adivinar el futuro directamente. Mucha gente vorin no confía en los [[Predicetormentas\|predicetormentas]], ya que predicen cuando una [[Alta tormenta\|alta tormenta]] ocurrirá.
 
 ## Habilidades
 Se conoce muy poco sobre las habilidades de la potenciación del Vacío. Aunque Khriss dice que hay diez niveles de esta potenciación y se refiere a "enlaces del Vacío", no se conoce el significado de tal afirmación.

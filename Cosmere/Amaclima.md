@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Amaclima**, dios de las tormentas, es un [[Retornado\|Retornado]] de [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]].
 

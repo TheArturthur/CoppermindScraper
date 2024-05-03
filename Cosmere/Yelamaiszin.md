@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Aimia\|de Aimia]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
 
 >“*Los humanos son un fuego que debe contenerse.*”
 \-Yelamaiszin[1]

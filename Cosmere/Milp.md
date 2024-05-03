@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Milp**|
 |-|-|
 |**Residencia**|[[Piedralar\|Piedralar]]|
@@ -5,14 +8,14 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Milp** is a resident of [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
+**Milp** es un habitante de [[Piedralar\|Piedralar]], en [[Roshar\|Roshar]].
 
-## History
-Milp, along with [[Alds\|Alds]] and several other townsmen, accompanied Citylord [[Roshone\|Roshone]] and his son [[Rillir\|Rillir]] on a [[Whitespine\|whitespine]] hunt around the year 1168. The party was ambushed by several whitespines and Milp was badly wounded. Milp and Alds, who had also been injured, were left behind by the hunting party on the orders of Roshone so that they could hurry to bring the mortally injured Rillir to [[Lirin\|Lirin]] for treatment. Afterwards, more men from the townsmen returned to try to save Milp and Alds. It is unknown if Milp survived, as the whitespines were still in the area and his wounds were severe. Lirin told his son [[Kaladin\|Kaladin]] to get some rest in case he needed help treating Milp and Alds later.
+## Historia
+Milp, junto con [[Alds\|Alds]] y otros habitantes del pueblo, acompañó al consistor [[Roshone\|Roshone]] y a su hijo [[Rillir\|Rillir]] en una cacería de [[Espinablanca\|espinablanca]] alrededor del año 1168. El grupo cayó en una emboscada y Milp resultó gravemente herido. Milp y Alds, que también había sido herido, fueron dejados atrás por la partida de caza por orden de Roshone para que pudiesen apresurarse a llevar a Rillir, que había sido herido de muerte, a [[Lirin\|Lirin]] para su tratamiento. Después, más hombres del pueblo regresaron para intentar salvar a Milp y Alds. Se desconoce si Milp sobrevivió, ya que sus heridas eran graves y la espinablanca seguía en la zona. Lirin le dijo a su hijo [[Kaladin\|Kaladin]] que descansase un poco por si necesitaba ayuda para tratar a Milp y Alds más tarde.
 
-## Trivia
-[[/wiki/El camino de los reyes/Resumen#Cap.C3.ADtulo 41]] is entitled, "Of Alds and Milp".
-## Notes
+## Curiosidades
+[[/wiki/El camino de los reyes/Resumen#Cap.C3.ADtulo 41]] se titula, "De Alds y Milp".
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 13:42, 3 July 2016 (MST)

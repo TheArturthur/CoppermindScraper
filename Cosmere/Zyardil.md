@@ -6,6 +6,7 @@
 |**Especie**|[[Insomne\|Insomne]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
 
 **Zyardil** es un [[Insomne\|Insomne]] que vive en [[Roshar\|Roshar]].
 

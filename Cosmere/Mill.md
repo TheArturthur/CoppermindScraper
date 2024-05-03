@@ -6,22 +6,22 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 Para el habitante de Piedralar, ver [[Mil\|Mil]].
 **Mill** es un corredor de apuestas [[Ojos oscuros\|ojos oscuros]] en [[Jah Keved\|Jah Keved]] en [[Roshar\|Roshar]].
 
 ## Apariencia y personalidad
->“*I killed my brother when he tried to cheat me. You shouldn't let relations cloud your eyes.*”
+>“*Yo maté a mi hermano cuando intentó engañarme. No deberías dejar que el parentesco te empañe los ojos.*”
 \-Mill[1]
 
 
-He has a calm, smooth voice and a haughty demeanor, particularly for a darkeyes. He is cold and calculating, and looks out only for himself, even killing his own brother over an attempted scam.
-He and his associates wear Veden clothing from a bygone era, including the traditional [[Ulatu\|ulatu]]. His illicit activities presumably make him wealthier than most darkeyes, and he owns at least one [[Chull\|chull]]-drawn carriage.
+Tiene una voz calmada y suave, y un comportamiento arrogante, algo muy particular para un ojos oscuros. Es frío y calculador, y tan solo se preocupa por él mismo, llegando a matar a su propio hermano por haberle intentado timar.
+Sus socios y él visten ropas veden de una época pasada, incluyendo la tradicional [[Ulatu\|ulatu]]. Sus actividades ilegales son las que le hacen presumiblemente más rico que la mayoría de ojos oscuros, y, además, posee al menos un carruaje tirado por [[Chull\|chull]].
 
 ## Historia
-Around the year 1170, Mill allowed [[Jushu Davar\|Jushu Davar]] to fraternize with his crew for a time while Jushu ran up a huge gambling debt of nearly one hundred emerald [[Broam\|broams]]. Jushu promised that his father would cover his debts, and when Mill decided to collect, he took Jushu captive and went to the [[House Davar\|Davar estate]]. [[Lin Davar\|Lin Davar]] exhibited no sympathy for Jushu and declined to bail him out of his gambling debts.
-[[Shallan\|Shallan]] was extremely upset by Lin's reaction, but she discovered that the family was broke and had no way to cover the debt. She asked [[Balat\|Balat]] and [[Wikim\|Wikim]] to give her their valuable ceremonial knives, then chased down Mill, who had already severely beaten Jushu before binding him and forcing him to walk behind his carriage. Shallan offered Mill the knives along with her [[Aluminum\|aluminum]] necklace in exchange for Jushu's freedom. Mill told her that her offering was only worth about fifty emerald broams and that killing a [[Lighteyes\|lighteyes]] such as Jushu had value to him since it would set an example for his other bettors. Shallan correctly ascertained that Mill himself was not a gambler; she argued that Jushu's death might not benefit Mill as much as he believed, while the knives and necklace had clear material value. Mill continued to waver until Shallan told him that Jushu comforted her after [[Shallan's mother\|her mother's]] murder. Mill finally softened and took the knives as payment. He allowed Shallan to keep her necklace.
+Alrededor del año 1170, Mill permitió a [[Jushu Davar\|Jushu Davar]] fraternizar con su grupo durante un tiempo mientras Jushu generaba una enorme deuda en juegos de apuestas que rozaba los cien [[Broam\|broams]] de esmeralda. Jushu prometió que su padre pagaría sus deudas, y cuando Mill decidió cobrarlas, tomó a Jushu cautivo y fue a la [[Casa Davar\|finca Davar]]. [[Lin Davar\|Lin Davar]] no mostró lástima por su hijo y se negó a sacarlo de sus deudas.
+[[Shallan\|Shallan]] estaba extemadamente molesta por la reacción de su padre, pero descubrió que su familia estaba en bancarrota y que no tenían forma de pagar la deuda. Les pidió a [[Balat\|Balat]] y [[Wikim\|Wikim]] que le dieran sus valioso cuchillos ceremoniales, entonces persiguió a Mill, quien ya había apalizado duramente a Jushu antes de atarlo y forzarlo a caminar detrás de su carruaje. Shallan le ofreció a Mill los cuchillos junto con su collar de [[Aluminio\|aluminio]] a cambio de conferirle libertad a Jushu. Mill le dijo que su oferta tan solo cubriría unos cincuenta broams de esmeralda y que matar a un [[Ojos claros\|ojos claros]] como Jushu tendría mucho valor para él porque daría ejemplo a los demás apostadores. Shallan dedujo correctamente que Mill no era un jugador como los demás; y le argumentó que la muerte de Jushu no le beneficiaría tanto como creía, mientras que los cuchillos y el collar tenían un claro valor material. Mill dudó hasta que Shallan le contó que Jushu la había consolado tras el asesinato de [[Madre de Shallan\|su madre]]. Mill terminó cediendo y tomó los cuchillos como pago, permitiéndole a Shallan quedarse con el collar.
 
 ## Notas
 

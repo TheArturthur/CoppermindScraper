@@ -1,17 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mord**|
 |-|-|
 |**Nacido en**|c. 1153|
-|**Lugar de nacimiento**|[[Hearthstone\|Hearthstone]]|
+|**Lugar de nacimiento**|[[Piedralar\|Piedralar]]|
 |**Etnia**|[[De Alezkar\|de Alezkar]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Mord** is a [[Darkeyes\|darkeyed]] resident of [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
-Mord likely came from a family of farmers, as he was among a group of youths (also including [[Jost\|Jost]], [[Jest\|Jest]], [[Tift\|Tift]], [[Naget\|Naget]], and [[Khav\|Khav]]) that was tasked with removing [[Diggerworm\|diggerworms]] from the [[Lavis\|lavis]] fields outside of Hearthstone. He hung out with the same group of boys after work hours were over, and once witnessed a fight between Kaladin and Jost.
-[[Kaladin\|Kaladin]] cited his name as an example of a 'solid, Alethi darkeyes' name, unlike his own.
+**Mord** es un [[Ojos oscuros\|ojos oscuros]] que reside en [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
+Mord provenía probablemente de una familia de granjeros, puesto que se encontraba entre un grupo de jóvenes (que también incluía a [[Jost\|Jost]], [[Jest\|Jest]], [[Tift\|Tift]], [[Naget\|Naget]] y [[Khav\|Khav]]) al que se le encargó quitar a los [[Gusano cavador\|gusanos cavadores]] de los campos de [[Lavis\|lavis]] a las afueras de Piedralar. Quedaba con el mismo grupo de chicos después de acabar el trabajo, y presenció un pelea entre Kaladin y Jost.
+[[Kaladin\|Kaladin]] citó su nombre como ejemplo de un 'recio nombre de ojos oscuros alezi', no como el suyo.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 22:03, 21 May 2020 (UTC)

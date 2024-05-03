@@ -1,14 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mintez**|
 |-|-|
 |**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
-**Mintez** is an  highlord on the [[Shattered Plains\|Shattered Plains]].
-Mintez works as Aladar's bodyguard and often wears Highprince [[Aladar\|Aladar]]'s [[Shardplate\|Shardplate]], as Aladar himself was better as a general not a warrior. Mintez accompanied Aladar's forces on Dalinar's expedition to the center of the Shattered Plains. He was present for the [[Battle of Narak\|Battle of Narak]], although he did not wear Aladar's Shardplate in that fight. Mintez survived that battle and was teleported to [[Urithiru\|Urithiru]] along with the other soldiers when [[Shallan Davar\|Shallan Davar]] engaged the Oathgate. He continued serving as Aladar's bodyguard there, including accompanying the highprince to a meeting on the fortification of [[Vedenar\|Vedenar]] in Urithiru's Gallery of Maps wearing the full Plate.
+**Mintez** es un alto señor [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]].
+Mintez trabaja como guardaespaldas de Aladar y a menudo lleva la [[Armadura esquirlada\|armadura esquirlada]] del alto príncipe [[Aladar\|Aladar]], ya que el propio Aladar era mejor como general que como guerrero. Mintez acompañó a las fuerzas de Aladar en la expedición de Dalinar al centro de las Llanuras Quebradas. Estuvo presente en la [[Batalla de Narak\|batalla de Narak]], aunque no llevó la armadura esquirlada de Aladar en ese combate. Mintez sobrevivió a esa batalla y fue teletransportado a [[Urithiru\|Urithiru]] junto con los demás soldados cuando [[Shallan Davar\|Shallan Davar]] activó la Puerta Jurada. Allí continuó sirviendo como guardaespaldas de Aladar, e incluso acompañó al alto príncipe a una reunión sobre la fortificación de [[Vedenar\|Vedenar]] en la Galería de Mapas de Urithiru vistiendo la armadura completa.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 20:32, 6 September 2018 (MST)

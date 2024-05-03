@@ -76,7 +76,7 @@ El contenido no ha sido revisado todavía.
 |**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
 |-|-|
 |**Personajes**| · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
-|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[/wiki/Primero del Sol#Continente]]|
+|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[Continente\|Continente]]|
 |**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
 |**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
 

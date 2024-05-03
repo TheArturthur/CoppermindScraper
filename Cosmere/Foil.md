@@ -40,13 +40,13 @@ Xisis es también aparentemente un [[Despertante\|despertante]] de Décima Eleva
 A través de medios desconocidos también es capaz de controlar y dar forma a las esporas del mar Carmesí a su antojo, lo que le permite formar túneles a su base de operaciones en el fondo del océano. Esta base es a su vez una serie de túneles hechos de las esporas carmesí.
 
 ## Historia
-Xisis ha vivido en [[Lumar\|Lumar]] en un palacio en el fondo del [[Mar Carmes%C3%AD\|mar Carmesí]] durante cientos de años antes de los acontecimientos de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*. Su llegada tiene alguna relación con la partida de los [[Iriali\|iriali]], pero se desconoce la naturaleza exacta de esta relación. Durante este tiempo ha estado investigando el ecosistema del fondo de los mares de esporas, así como el ciclo del agua y la descomposición de las esporas.
+Xisis ha vivido en [[Lumar\|Lumar]] en un palacio en el fondo del [[Mar Carmes%C3%AD\|mar Carmesí]] durante cientos de años antes del éxodo de la [[Hechicera\|Hechicera]]. Su llegada tiene alguna relación con la partida de los [[Iriali\|iriali]], pero se desconoce la naturaleza exacta de esta relación. Durante este tiempo ha estado investigando el ecosistema del fondo de los mares de esporas, así como el ciclo del agua y la descomposición de las esporas.
 Para ayudarle en sus tareas e investigaciones, ha estado haciendo trueques, aceptando un esclavo a cambio de una bendición. [[Cuervo\|La capitana Cuervo]] lleva el *[[Canto del cuervo\|Canto del cuervo]]* por encima de su palacio y consigue una audiencia con él para venderle a [[Trenza\|Trenza]]. Sin embargo, ella consigue convencerle de que acepte a la capitana en su lugar.
 Como muchos [[Drag%C3%B3n (Cosmere)\|dragones]], su base de operaciones está en [[Luzdeplata\|Luzdeplata]].
 
 
 ## Curiosidades
-Brandon reveló el nombre por primera vez cuando un artista que trabajaba en una colección de fanarts "Cosmere de la A a la Z" le preguntó si había algún personaje del [[Cosmere\|Cosmere]] cuyo nombre empezara por X.
+Brandon reveló el nombre de Xisis por primera vez cuando un artista que trabajaba en una colección de fanarts "Cosmere de la A a la Z" le preguntó si había algún personaje del [[Cosmere\|Cosmere]] cuyo nombre empezara por X.
 ## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
