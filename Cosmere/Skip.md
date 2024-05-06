@@ -3,6 +3,7 @@
 |**Capacidades**|Smells delicious to dragonsHears spelling and punctuation|
 |**Mundo natal**|Cube|
 
+Para the transportation power in the [[Cosmere\|cosmere]], ver [[/wiki/Sigzil#Skipping]].
 **Skip** is a child employed as dragon bait by a group of hunters.
 Skip lives on [[Sixthface\|Sixthface]] on the cube, where people are born with simple magic talents known as [[Knack\|knacks]]. Skip has three knacks, the first and most unfortunate of which is smelling delicious to . His second knack is the ability to hear spelling and punctuation. His third knack is unknown.
 As a result of his knack of hearing spelling and punctuation, he is very interested in words and a stickler for grammar and spelling. He would like to become a lexicographer and collect all the words and their spellings into a dictionary.

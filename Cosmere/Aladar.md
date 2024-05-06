@@ -86,7 +86,7 @@ Como a Dalinar le dolían tanto los recuerdos restaurados de sus acciones en [[R
 
 ### Batalla de la Explanada Thayleña
 Aladar dirigió la reunión de monarcas en ausencia de Dalinar el día en que éste se recuperó lo suficiente para asistir. Discutieron los planes que preparaban la batalla en [[Jah Keved\|Jah Keved]] hasta que Dalinar se dio cuenta de que las fuerzas de [[Odium\|Odium]] iban a atacar [[Ciudad Thaylen\|Ciudad Thaylen]] en su lugar. La siguiente reunión tuvo lugar allí mismo, y Aladar estuvo presente para escuchar las diversas filtraciones de información, incluida la traducción de la [[Eila Stele\|Eila Stele]], que pretendía desgarrar la coalición.
-Cuando comenzó la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], Aladar seguía en Urithiru. Pudo contrarrestar a la fuerza invasora de parshendi junto con Sebarial y Teft, el nuevo [[Corredor del Viento\|Corredor del Viento]]. Al término de la batalla, asistió a la conferencia en la que se discutieron las tácticas para el futuro.
+Cuando comenzó la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], Aladar seguía en Urithiru. Pudo contrarrestar a la fuerza invasora de cantores junto con Sebarial y Teft, el nuevo [[Corredor del Viento\|Corredor del Viento]]. Al término de la batalla, asistió a la conferencia en la que se discutieron las tácticas para el futuro.
 Tras la batalla de la Explanada Thayleña, aladar intenta que Dalinar vuelva a confiar en él.
 
 ### La campaña emuli

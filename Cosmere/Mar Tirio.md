@@ -4,12 +4,12 @@
 |**Mar Tirio**|
 |-|-|
 |**Tipo**|Mar|
-|**Región**|🐱︎|
+|**Región**|[[Los %C3%81ridos\|Los Áridos]]🐱︎|
 |**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-El **Mar Tyrio** es una masa de agua al norte de la [[Cuenca de Elendel\|Cuenca de Elendel]].
-Se encuentra en [[Los %C3%81ridos\|los Áridos]] septentrionales, al norte de [[Covingtar\|Covingtar]]. Su ubicación está más o menos donde estaban el [[Montes de Ceniza\|monte de ceniza]] Tyrian y el [[Lago Tyrian\|Lago Tyrian]] durante el periodo del [[Imperio Final\|Imperio Final]] de [[Scadrial\|Scadrial]].
+El **Mar Tyrio** es una masa de agua al norte de la [[Cuenca de Elendel\|Cuenca de Elendel]] en [[Scadrial\|Scadrial]].
+Se encuentra en [[Los %C3%81ridos\|los Áridos]] septentrionales, al norte de [[Covingtar\|Covingtar]]. Su ubicación está más o menos donde se alzaba el [[Montes de Ceniza\|monte de ceniza]] Tyrian durante el periodo del [[Imperio Final\|Imperio Final]] de [[Scadrial\|Scadrial]]. Probablemente se trate de la misma masa de agua que el [[Lago Tyrian\|lago Tyrian]].
 
 ## Notas
 

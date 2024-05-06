@@ -8,14 +8,16 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
+Para el sargento de los puentes, ver [[Vet (Roshar)\|Vet (Roshar)]].
 **Vet** es un [[Skaa\|skaa]] miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]].
 Él vota a favor de que [[Elend Venture\|Elend Venture]] retome la corona de Luthadel durante el [[Asedio de Luthadel\|Asedio de Luthadel]].
 
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Taln Fan (talk) 20:02, 21 March 2023 (UTC)
+Taln Fan (talk) 20:02, 21 Marzo 2023 (UTC)
 |**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
 |-|-|
 |**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|

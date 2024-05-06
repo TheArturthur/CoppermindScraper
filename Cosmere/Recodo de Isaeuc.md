@@ -3,7 +3,7 @@
 
 |**Recodo de Isaeuc**|
 |-|-|
-|**Región**|🐱︎|
+|**Región**|[[Los %C3%81ridos\|Los Áridos]]🐱︎|
 |**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

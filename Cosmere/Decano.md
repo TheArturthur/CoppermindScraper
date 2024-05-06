@@ -4,7 +4,7 @@
 |**Decano**|
 |-|-|
 |**Oficio**|Científico|
-|**Grupo**|[[Sangre Espectral\|Sangre Espectral]]🐱︎|
+|**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

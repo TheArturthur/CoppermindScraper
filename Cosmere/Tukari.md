@@ -12,7 +12,8 @@
 \-Tezim, god-priest of Tukar[1]
 
 
-**Tukar** is a kingdom on [[Roshar\|Roshar]]. It's ruled by god-priest Tezim, who is actually the [[Herald\|Herald]] [[Ishar\|Ishar]] in disguise. The people of Tukar are called the Tukari.
+**Tukar** is a kingdom on [[Roshar\|Roshar]]. It is bordered by [[Emul\|Emul]] to the north and [[Marat\|Marat]] to the west. The people of Tukar are called the Tukari.
+Tukar is ruled by god-priest Tezim, who is actually the [[Herald\|Herald]] [[Ishar\|Ishar]] in disguise.
 
 ## Sumario
 
@@ -38,6 +39,7 @@
 4. [[#Government and Religion]] 
 4. [[#Military]] 
 4. [[#International relations]] 
+4. [[#Calendar]] 
 
 
 5 Settlements. [[#Settlements]] 
@@ -50,7 +52,7 @@ Tukar is derived from Tuk, a local name for the Herald [[Talenel\|Talenel]].
 
 ## Geography
 Tukar lies in south-western Roshar, on the coast of the [[Southern Depths\|Southern Depths]] and the [[Aimian Sea\|Aimian Sea]], in the geographical region of [[Makabak\|Makabak]]. It borders [[Emul\|Emul]] to the north and [[Marat\|Marat]] to the west, both on rivers. The island chain leading from Tukar to Aimia are possibly under Tukari control. The general climate of the country is unknown. It's likely to be hot and dry, much like the rest of Makabak.
-Tukar has several settlements, such as [[Torriqqam\|Torriqqam]] and [[Khathazan\|Khathazan]]. Along the Southern Depths, there are also the towns of [[Riqu Mar\|Riqu Mar]] and [[Linder Mar\|Linder Mar]]. [[Icewater\|Icewater]], located on one of the islands off the coast, may belong to it. [[Sesemalex Dar\|Sesemalex Dar]], the capital of Emul, is located on the western border of Tukar, and the Tukari have laid claim to it for generations. Due to their claim of ownership, there is a strong sense of anti-Emuli irredentism in the hearts of the people, which has led to many separate conflicts over the city over the centuries.
+Tukar has several settlements, such as [[Torriqqam\|Torriqqam]] and [[Khathazan\|Khathazan]]. Along the Southern Depths, there are also the towns of [[Riqu Mar\|Riqu Mar]] and [[Linder Mar\|Linder Mar]]. [[Icewater\|Icewater]], located on one of the islands off the coast, may belong to it. [[Sesemalex Dar\|Sesemalex Dar]], the capital of Emul, is located on the western border of Tukar, and the Tukari have laid claim to it for generations. Due to their claim of ownership, there is a strong sense of anti-Emuli irredentism in the hearts of the people, which has led to many separate conflicts over the city across the centuries.
 Tukar has an area of around 702,000 km.
 
 ## History
@@ -86,7 +88,7 @@ The Tukari are renowned across Roshar for their mercenaries, their perfumes and 
 
 ### Government and Religion
 Tukar is a theocracy, with their current spiritual and political leader, Tezim, being alternately titled the god-priest, god-king, and priest-king. The Tukari people also live in clans.
-Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the , much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]], making those titles somewhat justified. Though the average Tukari likely don't know his true identity, there are numerous odd rumors swirling about him outside of the country.
+Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the , much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]], making those titles somewhat justified. Though the average Tukari likely don't know his true identity, there are numerous rumors swirling about him outside of the country.
 
 ### Military
 The Tukari are highly militaristic. Tukar itself has numerous , which it has put to good use in Eighty's War. It is not known if they have any [[Shardblade\|Shardblades]] or [[Shardplate\|Shardplate]], though their military is considered highly capable.
@@ -100,6 +102,9 @@ The Tukari Military is highly mobile with [[Ishar\|Ishar]] being able summon per
 
 Technically, Tukar appears to be part of the greater [[Azir\|Azish Empire]], and the [[Prime Aqasix\|Prime Aqasix]] seems to have the capacity to summon the god-priest to [[Azimir\|Azimir]] whenever they wish. However, for generations now Tukar has been at war with [[Emul\|Emul]], another Azish member state, putting the Prime's ability to control it in question. The conflict is centered around the city of [[Sesemalex Dar\|Sesemalex Dar]], considered holy by both the Emuli and the Tukari. While the Emuli consider it their ancestral homeland, the Tukari motivations for the conflict are unknown. In the East, there is some confusion over whether the conflict is purely religious or economical, as Sesemalex Dar is an excellent port.
 Tukari in general are considered volatile and crazy by the outsiders, with the  relieved at not having to ally with them, and [[Szeth\|Szeth]] speculating that they might suddenly abandon their crusade against Emul and go to war with [[Marat\|Marat]]. The main way of communicating with them diplomatically is through their scribes, with the god-priest himself rarely, if ever, speaking in person.
+
+### Calendar
+They make use of a different calendar than the Vorin calendar. Little is known about it except that the Vorin year 1168 is considered to be in the eighties in the Tukari calendar, although the exact year is unknown.
 
 ## Settlements
 [[Khathazan\|Khathazan]]

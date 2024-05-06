@@ -5,6 +5,7 @@
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Residencia**|[[Babilar\|Babilar]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Firefight\|Firefight]]*|
 
 >“* The only good Epic is a dead Epic.*”
 \- Val[2]

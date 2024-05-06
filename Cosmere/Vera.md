@@ -2,6 +2,7 @@
 |-|-|
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Lux (book)\|Lux]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

@@ -1,8 +1,9 @@
 |**Eva Winters**|
 |-|-|
-|**Oficio**|Estudiante|
+|**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Primera aparición**|**|
 
 **Eva Winters** is a student at .
 While [[Joel Saxon\|Joel Saxon]] was trying to tell [[Michael\|Michael]] about the , she walked by the two boys, prompting Michael to smile at her.

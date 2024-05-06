@@ -26,6 +26,8 @@ The Silver Kingdoms were:
 [[Natanatan\|Natanatan]]
 [[Thalath\|Thalath]]
 
+## Trivia
+In , the Epoch Kingdoms were [[Silnasen\|Silnasen]], Riemak, Kavenar, [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], Svadenar, Thalenah, Prallah, and Inava.
 ## Notes
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

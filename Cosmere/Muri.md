@@ -1,21 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Muri**|
 |-|-|
-|**Oficio**|Seamstress|
+|**Oficio**|Costurera|
 |**Residencia**|[[Revolar\|Revolar]] [[Kholinar\|Kholinar]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
->“*Poor kid. Better you than he.*”
-\-Muri to Shallan after Grund's death[1]
+>“*Pobre chico. Ojalá hubiera sido a ti.*”
+\-Muri a Shallan tras la muerte Grund[1]
 
 
-**Muri** is a  seamstress of the second [[Nahn\|nahn]] in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].
-During the [[True Desolation\|True Desolation]], she fled the occupation of [[Revolar\|Revolar]] to Kholinar, losing her successful seamstressing business and moving into a hovel. She has three daughters and struggled to feed them during the [[Siege of Kholinar\|Siege of Kholinar]], resorting to search water ditches for dead rats and cremlings for food. She is usually regarded as "nice" and "pleasant," and generally had amusing gossip.
-When [[Shallan Davar\|Veil]] asks [[Grund\|Grund]] about people who might need food, Muri is the first person he lists. Veil proceeds to donate some food to Muri and several other beggars and refugees. However, a gang known as the [[Grips\|Grips]] terrorizes anyone who receives donations, ultimately killing Grund. Muri always had to wait for Veil for her food. Muri's handler from the Grips had an argument with another man, and Muri overheard her name so was hurriedly packing her and her family's bags to flee. Muri angrily chides Veil, telling Veil that she should have died instead of Grund, then leaves.
-Veil suffers a mental crisis after learning that her poor judgment lead to suffering and death, and is consoled by .
+**Muri** es una costurera [[Ojos oscuros\|ojos oscuros]] de segundo [[Nahn\|nahn]] en [[Kholinar\|Kholinar]] en [[Roshar\|Roshar]].
+Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], abandonó su trabajo en [[Revolar\|Revolar]] y se trasladó a Kholinar, perdiendo su exitoso negocio de costurera y viéndose obligada a mudarse a una choza. Tiene tres hijas y le costaba conseguir alimentarls durante el [[Asedio a Kholinar\|asedio a Kholinar]], por lo que tenía que rebuscar en las acequias para encontrar cadáveres de ratas y cremlinos como comida. Se la considera "amable" y "agradable", y siempre tenía algún chisme divertido.
+Cuando [[Shallan Davar\|Velo]] pregunta a [[Grund\|Grund]] sobre personas que pudiesen necesitar comida, Muri es la que encabezaba la lista. Velo decide donar algo de comida a Muri y a algunos otros mendigos y refugiados. Sin embargo, la una banda conocida como [[Agarrones\|los Agarrones]] se dedica a aterrorizar a todo aquel que recive donaciones, llegando a matar a Grund al final. Muri siempre tenía que esperar a Velo para poder comer. El matón de los Agarrones que vigilaba a Muri había discutido con otro, y Muri había escuchado su nombre por lo que decidió hacer su maleta y la de su familia rápidamente para poder huir. Muri reprendió con rabia a Velo, diciéndole que debería haber muerto ella en vez de Grund, para después marcharse.
+Velo sufrió una crisis mental tras ser consciente de que su poco juicio había derivado en muerte y sufrimiento, y es [[Sagaz\|Sagaz]] quien termina consolándola.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 20:43, 22 June 2019 (MST)

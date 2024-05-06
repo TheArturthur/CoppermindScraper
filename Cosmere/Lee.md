@@ -3,6 +3,7 @@
 |**Oficio**|Soldier|
 |**Grupo**|[[Delta Squadron\|Delta Squadron]]🐱︎|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Lux (book)\|Lux]]*|
 
 Para the hion viewer drama character by the same name, ver .
 **Lee** is a soldier who is in [[Hershel\|Hershel]]'s squad during the raid on a Russian satellite, when [[Calamity\|Calamity]] granted powers to all the .

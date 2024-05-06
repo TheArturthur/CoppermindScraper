@@ -96,7 +96,7 @@ Cuando hablan alezi o veden, un rasgo del 'acento' unkalaki es una tendencia a u
 El unkalaki es una , lo que significa que los pronombres pueden ser omitidos si el sujeto es conocido o se puede inferir fácilmente.
 Los nombres unkalaki muestran un rasgo de , combinando una gran cantidad de morfemas para codificar un importante grado de información en una palabra. Varias palabras básicas en su lengua parecen reflejar también este rasgo.
 La reduplicación de vocales parece indicar la distinción entre vocales largas y cortas. El ' en la mayoría de las palabras parece representar .
-Las frases tienden a empezar con un verbo, lo que significa que el unkalaki es probablemente una lengua de tipo  o . Debido a su fuerte inspiración en el hawaiano, es probablemente VSO.
+Las frases tienden a empezar con un verbo, lo que significa que el unkalaki es probablemente una lengua de tipo  o .
 
 ### Nombres
 Los nombres típicos unkalaki son bastante largos, formando un poema.
@@ -112,7 +112,7 @@ Unulukuak'kina'autu'atai - Uno de los alias de [[Shallan\|Shallan]], de signific
 [[Tifi\|Tifi]]
 [[Kali'kalin\|Kali'kalin]]
 ### Términos
-*afah'liki* - probablemente significa “dios”
+*afah'liki* - probablemente significa “dios”, posiblemente relacionado con *mafah'liki*
 *alaii'iku* - "Vidente", puede ver spren 
 *ali'i'kamura*
 >“*Con *ali'i'kamura* protegiéndonos, tal vez sea seguro.*”
@@ -125,7 +125,7 @@ Unulukuak'kina'autu'atai - Uno de los alias de [[Shallan\|Shallan]], de signific
 \-Ur[18]
 
 
-*apaliki’tokoa’a* - [[Suertespren\|suertespren]], conocidos por los unkalaki por llevar a tesoros y estar asociados con los [[Insomne\|Insomnes]]
+*apaliki’tokoa’a* - [[Suertespren\|suertespren]], conocidos por los unkalaki por llevar a tesoros y estar asociados con los [[Insomne\|Insomnes]]. Incluye la raíz liki, traducico como Cognitivo.
 *Fal’ala’liki’nor* - Aquel que tensó el [[Arco de las Horas\|Arco de las Horas]] en el amanecer del nuevo milenio, anunciando los años de cambio. Un título usado para referirse a Lunamor.
 *holetental* - Probablemente relacionado con los [[Caballeros Radiantes\|Radiantes]] o spren.
 >“*No es cosa que se aprenda. Es cosa del *holentetal*. Para él solamente.*”
@@ -172,7 +172,7 @@ Unulukuak'kina'autu'atai - Uno de los alias de [[Shallan\|Shallan]], de signific
 *umalakai'ki*
 *umarti'a* - Un primo de alguien.
 >“*Umalakai'ki! Kama mohoray namavau—Exclamación de *”
-\-Lunamor cuando Kaladin despierta [49]
+\-Lunamor cuando Kaladin despierta [48]
 
 
 ## Curiosidades

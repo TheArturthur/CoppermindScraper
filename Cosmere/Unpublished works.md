@@ -46,8 +46,6 @@ These are works that are unlikely to ever be published either because elements h
 
 ## Notes
 
-Error en la cita: La etiqueta  definida en las  con nombre «safour» no se utiliza en el texto anterior.
-
 A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
 |**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
 |-|-|

@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 Brightlord **Tanalan** is is the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 
@@ -29,7 +30,7 @@ Tanalan holds the rank of highlord, placing him in the third [[Dahn\|dahn]]. As 
 
 ## History
 Tanalan and Dalinar were acquainted prior to Gavilar's war of unification. After losing a game of [[Pawns\|pawns]] to Dalinar, Tanalan cheekily paid off his bet with small bits of ruby dropped into a hundred bottles of wine, to Dalinar's amusement.
-In 1141, Gavilar attacked the Rift. At the time, the majority of Alethkar was not yet in Gavilar's control and Rathalas was a stepping stone towards unification. Gavilar, Dalinar, and [[Torol Sadeas\|Torol Sadeas]] led the attack on the city. Tanalan refused to submit; he was in possession of the 's Shardblade, and used it to duel Dalinar. However, Dalinar's Shardplate and fighting skill (enhanced by the ) allowed him to quickly bring down Tanalan with a surprise charge. When Tanalan's soldiers tried to kill Dalinar, he brought down the platform they were fighting on, mortally wounding Tanalan in the process. Tanalan was then taken to a secret hideout with  and child, but Dalinar followed him. Upon arriving, the Thrill left Dalinar as he saw Tanalan's son take up his Shardblade to try and defend his broken, dying father. Dalinar took Oathbringer but did not kill the child.
+In 1141, Gavilar attacked the Rift. At the time, the majority of Alethkar was not yet under Gavilar's control and Rathalas was a stepping stone towards unification. Gavilar, Dalinar, and [[Torol Sadeas\|Torol Sadeas]] led the attack on the city. Tanalan refused to submit; he was in possession of the 's Shardblade, and used it to duel Dalinar. However, Dalinar's Shardplate and fighting skill (enhanced by the ) allowed him to quickly bring down Tanalan with a surprise charge. When Tanalan's soldiers tried to kill Dalinar, he brought down the platform they were fighting on, mortally wounding Tanalan in the process. Tanalan was then taken to a secret hideout with  and child, but Dalinar followed him. Upon arriving, the Thrill left Dalinar as he saw Tanalan's son take up his Shardblade to try and defend his broken, dying father. Dalinar took Oathbringer but did not kill the child.
 After Tanalan's death, his son eventually took his title and continued the rebellion, culminating in the burning of Rathalas.
 
 ## Notes

@@ -24,7 +24,7 @@
 ## Appearance and Anatomy
  
 Para more images, ver .
-They look similar to the moray eels found on Earth, but have an extra pair of larger flowing fins along their sides with air pouches tucked under them that help the skyeel fly. These pouches deflate as the skyeel dives and are refilled as the skyeel extracts lighter-than-air gasses from its prey during the digestive process. Like moray eels, skyeels have a second set of jaws, known as pharyngeal jaws.
+They look similar to the moray eels, but have an extra pair of larger flowing fins along their sides with air pouches tucked under them that help the skyeel fly. These pouches deflate as the skyeel dives and are refilled as the skyeel extracts lighter-than-air gasses from its prey during the digestive process. Skyeels possess a second set of jaws, known as pharyngeal jaws.
 When they fly, small arrow-headed [[/wiki/Spren#Luckspren]] often appear and dart around them and may be the reason skyeels can fly, as "mathematically" they should be heavier than they actually are.
 Skyeels have pale bellies so that they camouflage with the sky from below and dappled skin on their back that lets them blend in with the water they fly over from above.
 

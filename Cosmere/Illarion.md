@@ -5,6 +5,7 @@
 |**Capacidades**|[[Destined One\|Destined One]]|
 |**Títulos**|The Arcane Shield of [[Mirandus\|Mirandus]], The  Bane, The [[Destined One\|Destined One]] of [[Kingdoms of Light\|Light's Kingdoms]], The Hero of the Burning Night, The White Wizard|
 |**Mundo natal**|[[Tierra (Dark One)\|Tierra (Dark One)]]|
+|**Primera aparición**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

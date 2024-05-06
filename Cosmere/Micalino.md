@@ -1,13 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Micalino**|
 |-|-|
-|**Tipo**|Dye|
+|**Tipo**|Tinte|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mycalin** is a red dye used for coloring fabrics on [[Roshar\|Roshar]].
-The dye is somehow sourced from slugs that live on the shores of the [[Purelake\|Purelake]]. [[Mraize\|Mraize]] owns an  cavalrylord's suit with Mycalin-dyed trousers. When he stains the trousers with [[Aether\|aether]], [[Mem\|Mem]] has a great deal of difficulty cleaning the stain without fading the fine red color or damaging the fabric, but she is eventually successful.
+El **micalino** es un pigmento rojo que se usa en [[Roshar\|Roshar]] para teñir telas .
+Proviene de las babosas que viven a la orilla del [[Lagopuro\|Lagopuro]]. [[Mraize\|Mraize]] tiene un traje de jefe de caballería [[Azishiano\|azishiano]] con unos pantalones teñidos con micalino, que se manchan de [[%C3%89ter\|éter]]. A [[Mem\|Mem]] le cuesta bastante limpiar la mancha sin desteñir o dañar la prenda, pero al final lo consigue.
 
-## Notes
+
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 16:21, 1 October 2019 (UTC)

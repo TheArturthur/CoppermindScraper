@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*A Radiant still fights, Tomor, and he needs your device to climb between floors.*”
 \-Navani[1]

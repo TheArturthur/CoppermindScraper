@@ -104,7 +104,7 @@ Esta experimentación resultó accidentalmente en una serie de fabriales modific
 Los Caballeros Radiantes una vez revistieron túneles en las profundidades de [[Urithiru\|Urithiru]] con ralkalest, probablemente para proteger contra la intrusión en los túneles desde las laderas de abajo utilizando la Potenciación. Se desconoce si el término ralkalest tiene su origen en [[Sel\|Sel]] solamente, o si [[Rabeniel\|Rabeniel]] lo aprendió a través de otra fuente.
 
 ### Lumar
-Las habitaciones forradas de aluminio y las cajas se utilizan para proteger las [[Esporas de %C3%A9ter\|esporas de éter]] de la plata. Se dice que «bloquea» el efecto de la plata.
+Las habitaciones forradas de aluminio y las cajas se utilizan para proteger las [[Esporas de %C3%A9ter\|esporas de éter]] de la [[Plata\|plata]]. Se dice que «bloquea» el efecto de la plata.
 
 ## Curiosidades
 Brandon pensó en que [[Vin\|Vin]] quemara [[Plata\|plata]] en lugar de aluminio cuando fue capturada en [[Kredik Shaw\|Kredik Shaw]], pero decidió que el aluminio sería menos abundante.

@@ -1,7 +1,7 @@
 **Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Callingfale**|
 |-|-|
-|**Región**|🐱︎|
+|**Región**|[[Roughs\|Roughs]]🐱︎|
 |**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

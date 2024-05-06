@@ -1,8 +1,9 @@
 |**Davis**|
 |-|-|
-|**Oficio**|Estudiante|
+|**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Primera aparición**|**|
 
 **Davis** is a student at .
 He is friends with [[Joel\|Joel]] and often stayed at school over summer. He is dating , a fellow student. The summer of the , Davis was invited to [[Michael\|Michael]]'s summer party, leaving Joel alone over summer. He is preparing to go to law school, and wanted to make friends with Michael who is also aiming to study law.

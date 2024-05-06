@@ -8,7 +8,7 @@
 |**Hermanos**|[[Eshonai\|Eshonai]]|
 |**Capacidades**|[[Regio\|Formas de Poder]], [[Orden de los Escultores de Voluntad\|Escultor de Voluntad]]|
 |**Vinculado con**|[[Timbre\|Timbre]]|
-|**Títulos**|Última OyenteVoz de la dama LeshwiVoz de la Dama de los Deseos Voz de Odium |
+|**Títulos**|Última OyenteVoz de la dama LeshwiVoz de la Dama de los Deseos Voz de Odium La TraidoraLa Hermana Derrumbada|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|

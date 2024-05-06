@@ -1,10 +1,11 @@
 |**Zuln**|
 |-|-|
-|**Grupo**|[[Consejo de los Cinco\|Consejo de los Cinco]]🐱︎|
+|**Grupo**|🐱︎|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*No. It is not right.*”
 \-Zuln on a proposed transformation of the listeners to stormform.[1]

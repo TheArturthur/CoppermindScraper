@@ -3,7 +3,8 @@
 |**Poderes**|[[Rithm%C3%A1tica\|Rithmática]]|
 |**Oficio**|Professor|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Primera aparición**|**|
 
 **Hatch** is a professor at .
 

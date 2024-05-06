@@ -4,7 +4,7 @@
 |**Ape Manton**|
 |-|-|
 ||
-|**Residencia**||
+|**Residencia**|[[Roughs\|Roughs]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

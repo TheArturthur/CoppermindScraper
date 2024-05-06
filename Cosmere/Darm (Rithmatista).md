@@ -1,7 +1,9 @@
 |**Darm**|
 |-|-|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Primera aparición**|**|
+
 Para the criminal at [[Winsting Innate's auction\|Winsting Innate's auction]], ver .
 **Darm** is a cleaning lady at .
 [[Joel\|Joel]] met her while he was looking for his mother, and Darm pointed Joel in the right direction.

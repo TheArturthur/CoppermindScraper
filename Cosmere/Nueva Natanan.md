@@ -48,7 +48,7 @@ The Natan are largely [[Vorin\|Vorin]], although their particular variety of Vor
 Apart from the religion, the Natan follow at least some Vorin customs. The leaders of New Natanan have occasionally claimed the first [[Dahn\|dahn]], the highest rank a Vorin [[Lighteyes\|lighteyes]] can hold. Their language belongs to the Vorin family, same as the Alethi and [[Veden\|Veden]], although it is noted as dying out, implying many, if not most Natan don't actually speak it.
 
 ### Accent
-The New Natanatan accent is described as airy, elongating the low and midvowels in their words. It is unclear how prevelant this accent is outside of New Natanatan.
+The New Natanan accent is described as airy, elongating the low and midvowels in their words. It is unclear how prevalent this accent is outside of New Natanan
 
 ## Politics
 Despite being one of Roshar's smallest nations, New Natanan holds great political importance in the region. It's the largest city on the shores of the [[Ocean of Origins\|Ocean of Origins]]. As such, any ships sailing through it stop there to rest and resupply, and there's always trade happening. New Natanan is also important for predicting the [[Highstorm\|highstorms]], as it supplies the other states with information on any new one making landfall.

@@ -1,18 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mito de Parasaphi y Nadris**|
 |-|-|
-|**Tipo**|Folk tale|
+|**Tipo**|Mito popular|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
 >“*The story mentions the Desolations at the beginning. Giving them credit for having wiped out Parasaphi's people.*”
-\-Navani about the myth[1]
+\-Navani sobre el mito[1]
 
-The **myth of Parasaphi and Nadris** is the creation myth of the [[Makabak\|Makabaki]] people of [[Roshar\|Roshar]]. [[Navani Kholin\|Navani Kholin]] and [[Renarin Kholin\|Renarin Kholin]] discuss it while trying to understand [[Dalinar's visions\|Dalinar's visions]] and the [[Desolation\|Desolations]]. [[Evi Kholin\|Evi Kholin]] told the story to Renarin when he was a child.
+El **mito de Parasaphi y Nadris** es el mito de creación del pueblo [[Makabak\|makabaki]] de [[Roshar\|Roshar]]. [[Navani Kholin\|Navani Kholin]] y [[Renarin Kholin\|Renarin Kholin]] hablan de él mientras intentan entender las [[Visiones de Dalinar\|visiones de Dalinar]] y las [[Desolaci%C3%B3n\|Desolaciones]]. [[Evi Kholin\|Evi Kholin]] le narró la historia a Renarin cuando este era pequeño.
 According to the story, Parasaphi was a woman whose people had been all but wiped out in a Desolation, while Nadris was a man--perhaps her partner--on his deathbed. In order to preserve her people, Parasaphi climbed the peaks of Dara to find seedstones, stones touched by the [[Herald\|Heralds]]. She collected them and brought them down to Nadris, then harvested his seed to bring life to the stones. Ten children sprang out and with them, Parasaphi founded the nation of Marnah.
 This legend says that the Makabaki people are all descended from Parasaphi's children. This would mean that Marnah predates the [[Silver Kingdoms\|Silver Kingdoms]] of [[Makabakam\|Makabakam]]. However, in the modern day, it's unclear which mountain range corresponds to the peaks of Dara. The telling of the myth changes, each naming different mountain ranges for the peaks.
 [[Dalinar Kholin\|Dalinar Kholin]] found the idea that people would be born from rocks to be ridiculous.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 05:06, 18 July 2020 (UTC)

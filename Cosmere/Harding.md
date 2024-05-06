@@ -4,6 +4,7 @@
 |**Poderes**|[[Rithm%C3%A1tica\|Rithmática]], chalkling control |
 |**Oficio**|Law enforcement|
 |**Mundo natal**||
+|**Primera aparición**|**|
 
 Inspector **Harding** is a federal inspector of the .
 

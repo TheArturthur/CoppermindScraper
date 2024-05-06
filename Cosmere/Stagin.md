@@ -4,7 +4,7 @@
 |**Stagin**|
 |-|-|
 |**Oficio**|Destilador|
-|**Residencia**||
+|**Residencia**|[[Los %C3%81ridos\|Los Áridos]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

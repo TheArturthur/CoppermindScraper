@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Cripta de la Pena**|
 |-|-|
 |**Principado**|[[Principado Sadeas\|Principado Sadeas]]🐱︎|
@@ -5,10 +8,10 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mourn's Vault** is a settlement in the [[Sadeas princedom\|Sadeas princedom]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. It is on the border of Alethkar and [[Herdaz\|Herdaz]], and is northwest of [[Hearthstone\|Hearthstone]]. Mourn's Vault is not a pleasant area of Alethkar.
-[[Tarah\|Tarah]] moved to Mourn's Vault from Amaram's army to work as a scribe under Highprince [[Torol Sadeas\|Torol Sadeas]]'s house.
+**Cripta de la Pena** es un asentamiento en el [[Principado Sadeas\|principado Sadeas]] de [[Alezkar\|Alezkar]], en [[Roshar\|Roshar]]. Se encuentra en la frontera entre Alezkar y [[Herdaz\|Herdaz]], y está al noroeste de [[Piedralar\|Piedralar]]. Cripta de la Pena no es una zona agradable de Alezkar.
+[[Tarah\|Tarah]] se trasladó a Cripta de la Pena desde el ejército de Amaram para trabajar como escriba en la casa del alto príncipe [[Torol Sadeas\|Torol Sadeas]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 07:41, 29 February 2020 (UTC)

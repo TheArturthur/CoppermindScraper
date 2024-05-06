@@ -4,7 +4,7 @@
 |-|-|
 |**Fallecido**|0 [[Imperio Final\|IF]], asesinado por [[Rashek\|Rashek]]|
 |**Capacidades**|[[/wiki/Bronce#Uso alom.C3.A1ntico]]|
-|**Títulos**|Alendi el Conquistador, el Héroe de las Eras|
+|**Títulos**|Alendi el Conquistador, el Héroe de las Eras, rey de [[Khlennium\|Khlennium]]|
 |**Nacionalidad**|[[De Khlennium\|de Khlennium]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
@@ -26,7 +26,7 @@ Se sabe poco de la apariencia de Alendi, sin embargo, la [[Inscripci%C3%B3n de K
 ## Atributos y Habilidades
 Alendi es un Buscador, que rompió en la bruma de [[Conservaci%C3%B3n\|Conservación]]. Esto le permite detectar el uso de [[Alomancia\|alomancia]] y oir el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]]. Aun así, debido a que la alomancia era prácticamente desconocida antes de la Ascensión del [[Rashek\|lord Legislador]], probablemente usaba sus poderes inconscientemente.
 Alendi tenía piercings hemalúrgicos y, por lo tanto, estaba influenciado por Ruina. 
-Es un general experto con el apodo de "el Conquistador", capaz de derrotar y conquistar varios paises.
+Es un general experto con el título de "el Conquistador", capaz de derrotar y conquistar varios paises.
 
 ## Historia
 Alendi creció como hijo de un herrero. Ciertas circunstancias lo obligaron a abandonar su aldea natal y lo llevaron a Khlennium. Es probable que estas circunstancias comenzaran exactamente dieciséis años antes de que el Pozo de la Ascensión fuera rellenado y diera los primeros signos de La Profundidad.

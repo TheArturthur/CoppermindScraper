@@ -6,7 +6,7 @@
 |**Fallecido**|c. 321 [[Catacendro\|PC]]|
 |**Capacidades**|[[/wiki/Peltre#Uso alom.C3.A1ntico]]|
 |**Oficio**|Forajido|
-|**Residencia**||
+|**Residencia**|[[Los %C3%81ridos\|Los Áridos]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

@@ -4,6 +4,7 @@
 |**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Primera aparición**|**|
 
 **Lilly Whiting** is a  student at , a student of Professor [[Fitch\|Fitch]].
 She was one of the first victims of the , and the first that occurred within the book's timeline.

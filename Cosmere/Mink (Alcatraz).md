@@ -3,6 +3,7 @@
 |**Oficio**|Advisor|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Primera aparición**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
 Para the  general, ver [[Dieno enne Calah\|Dieno enne Calah]].
 >“*Good speech, but it sounded too much like a rock ballad.*”

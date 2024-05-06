@@ -17,23 +17,39 @@
 1 Geografía. [[#Geograf.C3.ADa]] 
 2 Cultura. [[#Cultura]] 
 3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+
+3. [[#.C3.89pocas her.C3.A1ldicas]] 
+3. [[#Era de la Soledad]] 
+3. [[#Aut.C3.A9ntica Desolaci.C3.B3n]] 
+
+
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
 ## Geografía
 Alm es una pequeña nación que limita con [[Yezier\|Yezier]] y [[Liafor\|Liafor]]. También es adyacente a [[Shinovar\|Shinovar]], aunque ambas naciones están separadas por las [[Monta%C3%B1as Brumosas\|Montañas Brumosas]]. La mayor parte del territorio de Alm se encuentra entre un gran río y las montañas. También tiene una pequeña costa en una bahía conectada con el [[Mar de Aimia\|mar de Aimia]].
+Alm tiene una superficie de unos 144.000 km.
 
 ## Cultura
 Como miembro del imperio azishiano, Alm se autogobierna, pero reconoce al [[Aqasix Supremo\|Aqasix Supremo]] como su emperador y, por lo general, sigue el liderazgo de Azir en la política internacional.
 Dado que la población de Alm es étnicamente makabaki, sus habitantes suelen tener la piel y el pelo oscuros, y el idioma local es presumiblemente una variante del azishiano. Alm y la cercana nación de [[Desh\|Desh]] se consideran más rurales que otras naciones azishianas, y la moda local consiste en ropas más claras que las de sus vecinos.
 
 ## Historia
-Durante la era de los [[Reinos Plateados\|Reinos Plateados]], Alm formó parte de [[Makabakam\|Makabakam]]. Durante la [[Era de la Soledad\|Era de la Soledad]], se unió a otras naciones makabaki para formar el imperio azishiano.
+### Épocas heráldicas
+Durante la era de los [[Reinos Plateados\|Reinos Plateados]], Alm formó parte de [[Makabakam\|Makabakam]].
+
+### Era de la Soledad
+Durante la [[Era de la Soledad\|Era de la Soledad]], se unió a otras naciones makabaki para formar el imperio azishiano.
 En algún momento después de la [[Traici%C3%B3n\|Traición]] y la posterior [[La destrucci%C3%B3n de Aimia\|destrucción de Aimia]], Alm experienced an influx of refugees from Aimia, Alm experimentó una afluencia de refugiados de Aimia, aunque no se sabe con certeza cuándo ocurrió exactamente y a qué ritmo. Tampoco está claro cuántos refugiados emigraron a Alm y qué impacto pudo tener esto en la cultura y la población locales.
-[[Lift\|Lift]] visitó una vez Alm y disfrutó de su estancia allí, ya que relativamente poca gente intentó matarla.
+[[Lift\|Lift]] visitó una vez Alm y disfrutó de su estancia allí, ya que relativamente poca gente intentó asesinarla.
+
+### Auténtica Desolación
 Debido a su ubicación en el borde occidental de Roshar, [[Steen\|Steen]] y Alm fueron las primeras naciones en informar de la llegada de la [[Tormenta eterna\|tormenta eterna]], lo que preocupó a [[Ghenna\|Ghenna]] y al gobierno de [[Tashikk\|Tashikk]].
 Tanto Alm como Desh tenían embajadores en [[Azimir\|Azimir]] cuando [[Yanagawn\|Yanagawn]] aceptó visitar [[Urithiru\|Urithiru]].
 
+## Curiosidades
+Con unos 144.000 km, es comparable en extensión a .
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.

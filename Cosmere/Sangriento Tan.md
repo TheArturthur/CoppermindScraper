@@ -5,7 +5,7 @@
 ||
 |**Fallecido**|341 [[Catacendro\|PC]]|
 |**Oficio**|Funerario, criminal|
-|**Residencia**||
+|**Residencia**|[[Roughs\|Roughs]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

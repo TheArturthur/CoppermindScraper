@@ -5,6 +5,7 @@
 |**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Primera aparición**|**|
 
 **Joel Saxon** is a student at .
 He is not a , but enjoys studying Rithmatics, and excels at mathematics. He is a fantastic line/circle drawer, even though he does not possess the magic properties needed to be a Rithmatist.

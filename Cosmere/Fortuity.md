@@ -5,6 +5,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 >“*Slontze. His danger sense is weakened if he's attracted to you. So unless he finds you a **whole** lot prettier than I do, it’s **not** going to help.*”
 \-Megan to David[2]

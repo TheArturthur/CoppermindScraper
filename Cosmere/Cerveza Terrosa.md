@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Cerveza Terrosa**|
 |-|-|
-|**Tipo**|Alcoholic drink|
+|**Tipo**|Bebida alcohólica|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mudbeer** is an alcoholic drink on [[Roshar\|Roshar]].
-It is served in taverns throughout western Roshar, people often turning to it in the depths of winter. Even the winehouses of [[Urithiru\|Urithiru]] serve the brew.
-The [[Unkalaki\|Unkalaki]] use mudbeer to duel. When two people disagree, they compete to see who can drink the most and still sing. Usually, they both end up too drunk to remember what they were arguing about in the first place.
-When [[Kaladin\|Kaladin]] decides to help [[Bridge Four\|Bridge Four]] escape, he promises them that they will all be drinking mudbeer in some tavern within a few weeks. The evening that [[Lunamor\|Rock]] announces to Kaladin his intention to return to the [[Horneater Peaks\|Horneater Peaks]], he and his family drink mugs of mudbeer in [[Jez's Duty\|Jez's Duty]].
+La **cerveza terrosa** es una bebida alcohólica de [[Roshar\|Roshar]].
+Se sirve en tabernas a lo largo y ancho del oeste de Roshar, y la gente la consume a menudo en los peores días de invierno. Incluso las cantinas de [[Urithiru\|Urithiru]] sirven esta cerveza.
+Los [[Unkalaki\|Unkalaki]] emplean la cerveza terrosa para batirse en duelo. Cuando dos personas no están de acuerdo, compiten para ver quién puede beber más y seguir cantando. Normalmente, los competidores acaban tan ebrios que se olvidan del motivo por el que estaban discutiendo al principio.
+Cuando [[Kaladin\|Kaladin]] decide ayudar al [[Puente Cuatro\|Puente Cuatro]] a escapar, les promete que en unas pocas semanas estarían todos bebiendo cerveza terrosa en alguna taberna. La tarde en la que [[Lunamor\|Roca]] le cuenta a Kaladin su intención de regresar a los [[Picos Comecuernos\|Picos Comecuernos]], él y su familia beben jarras de cerveza terrosa en [[El Deber de Jez\|El Deber de Jez]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Truthwatch3r (talk) 20:37, 7 March 2022 (UTC)

@@ -15,14 +15,15 @@
 \-La Almirante[1]
 
 
-La **Almirante** es la comandante de la [[Brigada Nocturna\|Brigada Nocturna]]. No se conoce su nombre real. Se coló en la superficie de [[C%C3%A1ntico\|Cántico]] junto con su sargento, [[La-Verdad-Espera\|La-Verdad-Espera]], para buscar a [[N%C3%B3mada\|Nómada]], pero no tuvo éxito en encontrarlo; en última instancia, eligió interrogar a la nave de investigación [[Scadrial\|scadriana]] presente en el planeta en lugar de a los lugareños.
+La **Almirante** es la comandante de la [[Brigada Nocturna\|Brigada Nocturna]].
 
 ## Sumario
 
 1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
 2 Habilidades. [[#Habilidades]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+3 Historia. [[#Historia]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
 ## Apariencia y personalidad
@@ -30,6 +31,10 @@ La Almirante es una mujer alta, con el pelo negro corto y una actitud formal. Vi
 
 ## Habilidades
 Además de comandar a los miembros vivos de la Brigada Nocturna, la Almirante también puede controlar las [[Umbra\|umbras]] de la Brigada. Puede hacerlo sin tener que vocalizar sus órdenes, ya que las umbras aparentemente obedecen sus deseos. Cómo logra esto es desconocido, aunque puede estar relacionado con la cadena de continuidad, el arma similar a un látigo que siempre lleva consigo.
+
+## Historia
+La almirante llegó al sistema de Cántico volando en órbita baja en la nave de guerra de la Brigada Nocturna, junto con su sargento mayor, [[La-Verdad-Espera\|La-Verdad-Espera]]. Ellos y otros miembros de la Brigada Nocturna (incluyendo al menos dos [[Umbra\|umbras]]) descienden al planeta para recabar información sobre el paradero de [[N%C3%B3mada\|Nómada]].
+La-Verdad-Espera informó más tarde de lo que aprendió a la Almirante y, en última instancia, ella optó por interrogar a la base de investigación [[Scadrial\|scadriana]] presente en el planeta en lugar de a los lugareños.
 
 ## Curiosidades
 La Almirante está destinada a ser la protagonista (aunque no necesariamente la heroína) de *[[The Night Brigade\|The Night Brigade]]*.

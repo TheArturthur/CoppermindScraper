@@ -3,7 +3,6 @@
 
 |**Adin**|
 |-|-|
-|**Familia**|
 |**Padres**|[[Alalan\|Alalan]]|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
@@ -28,23 +27,23 @@
 
 
 ## Apariencia y personalidad
-Adin es un chico ojos oscuros de trece años. Es muy valiente y arriesga su vida en la lucha por escapar de Urithiru. Espera que su valentía atraiga a un [[Honorspren\|honorspren]] y le permita unirse a los [[Corredores del Viento\|Corredores del Viento]]. Esta creencia le llevó a mirar de reojo a los [[Regio\|Regios]] que pasaban por allí durante la ocupación de Urithiru, aunque no cuando le observaban. Se siente aliviado cuando puede caminar sin cojear después de lastimarse el tobillo, ya que cree que un signo de debilidad podría ahuyentar a un potencial vínculo radiante.
+Adin es un chico ojos oscuros de trece años. Es muy valiente y arriesga su vida en la lucha por escapar de [[Urithiru\|Urithiru]]. Espera que su valentía atraiga a un [[Honorspren\|honorspren]] y le permita unirse a los [[Corredores del Viento\|Corredores del Viento]]. Esta creencia le llevó a mirar de reojo a los [[Regio\|Regios]] que pasaban por allí durante la ocupación de Urithiru, aunque no cuando le observaban. Se siente aliviado cuando puede caminar sin cojear después de lastimarse el tobillo, ya que cree que un signo de debilidad podría ahuyentar a un potencial vínculo [[Caballeros Radiantes\|Radiante]].
 
 ## Historia
-Adin era un residente de [[Urithiru\|Urithiru]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Trabajaba para su padre, un alfarero llamado [[Alalan\|Alalan]], aunque los cuencos que hacía solían estar torcidos. En algún momento antes de la invasión de la torre por [[Rabeniel\|Rabeniel]], se cayó por las escaleras mientras fingía ser un [[Corredor del Viento\|Corredor del Viento]], tras lo cual [[Kaladin\|Kaladin]] le vendó el tobillo. Su tobillo mejoró más adelante, así que cuando su padre quiso ver una batalla en Urithitu, Adin lo siguió para ayudarlo y ganarse su propio spren. Cuando los humanos protegieron a los Radiantes caidos, al principio, Adin intentó esconderse y sólo se unió a la lucha más tarde, cuando su padre ya estaba herido. Durante la batalla, Adin temió por su vida, pero tanto él como su padre sobrevivieron ya que fueron salvados por Dabbid y Kaladin, que acababa de obtener su [[Armadura esquirlada\|armadura esquirlada]].
+Adin era un residente de [[Urithiru\|Urithiru]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Trabajaba para su padre, un alfarero llamado [[Alalan\|Alalan]], aunque los cuencos que hacía solían estar torcidos. En algún momento antes de la invasión de la torre por [[Rabeniel\|Rabeniel]], se cayó por las escaleras mientras fingía ser un [[Corredor del Viento\|Corredor del Viento]], tras lo cual [[Kaladin\|Kaladin]] le vendó el tobillo. Su tobillo mejoró más adelante, así que cuando su padre quiso ver una batalla en Urithitu, Adin lo siguió para ayudarlo y ganarse su propio [[Spren\|spren]]. Cuando los humanos protegieron a los [[Caballeros Radiantes\|Radiante]] caidos, al principio, Adin intentó esconderse y sólo se unió a la lucha más tarde, cuando su padre ya estaba herido. Durante la batalla, Adin temió por su vida, pero tanto él como su padre sobrevivieron ya que fueron salvados por [[Dabbid\|Dabbid]] y Kaladin, que acababa de obtener su [[Armadura esquirlada\|armadura esquirlada]].
 
 ## Relaciones
 ### Alalan
-El padre de Adin. Cuando Alalan sorprende a Adin mirando a los [[Regio\|Regios]], le advierte que mantenga la mirada baja, no sea que lo atrapen y lo maten. Adin considera a su padre extremadamente valiente por atender a los Radiantes caídos directamente bajo la mirada de los [[Fusionado\|Fusionados]].
+El padre de Adin. Cuando [[Alalan\|Alalan]] sorprende a Adin mirando a los [[Regio\|Regios]], le advierte que mantenga la mirada baja, no sea que lo atrapen y lo maten. Adin considera a su padre extremadamente valiente por atender a los Radiantes caídos directamente bajo la mirada de los [[Fusionado\|Fusionados]].
 
 ### Kaladin
 Adin respeta y reverencia a [[Kaladin\|Kaladin]], y lo ve con una sensación de asombro. Se siente avergonzado por no haber podido ver a Kaladin luchar por el nodo del pozo, un acontecimiento durante el cual estuvo durmiendo la siesta.
 
 ### Shar
-[[Shar\|Shar]] es una compañera de Urithiru que a Adin no le gusta especialmente. Piensa que es lo suficientemente mandona como para pensar que es ojos claros. Su tío es un Corredor del Viento. Cuando Adin la ve mirando a los [[Regio\|Regios]], piensa que está intentando atraer a su propio [[Honorspren\|honorspren]].
+[[Shar\|Shar]] es una compañera de [[Urithiru\|Urithiru]] que a Adin no le gusta especialmente. Piensa que es lo suficientemente mandona como para pensar que es [[Ojos claros\|ojos claros]]. Su tío es un [[Corredor del Viento\|Corredor del Viento]]. Cuando Adin la ve mirando a los [[Cantor\|cantores]] en [[Forma de guerra\|forma de guerra]], piensa que está intentando atraer a su propio [[Honorspren\|honorspren]].
 
 ### Maese Liganor
-Maese Liganor es el dueño ojos claros de la alfarería en la que trabaja el padre de Adin. Adin piensa que el es bueno y aprecia la valentía de mantener abierta la tienda durante la ocupación, aunque cerró la tienda cuando estalló una pelea.
+Maese [[Liganor\|Liganor]] es el dueño ojos claros de la alfarería en la que trabaja el padre de Adin. Adin piensa que el es bueno y aprecia la valentía de mantener abierta la tienda durante la ocupación, aunque cerró la tienda cuando estalló una pelea.
 
 ## Notas
 

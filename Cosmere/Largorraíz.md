@@ -1,33 +1,35 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Largorraíz**|
 |-|-|
-|**Tipo**|Tuber|
-|**Se usa para**|Food|
+|**Tipo**|Tubérculo|
+|**Se usa para**|Comida|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Longroots** are a type of plant native to [[Roshar\|Roshar]].
+Las **largoraíces** son un tipo de planta autóctona de [[Roshar\|Roshar]].
 
 ## Sumario
 
-1 Description. [[#Description]] 
-2 Culinary Use. [[#Culinary Use]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+1 Descripción. [[#Descripci.C3.B3n]] 
+2 Uso culinario. [[#Uso culinario]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Description
-Longroots are, as their name suggests, a type of long tuber that contains a sticky sap. They grow in cracks in the rock where stormwater collects. As a result, longroots are covered in dirt and [[Crem\|crem]] from the [[Highstorm\|highstorms]] when they are harvested. They are brown in color.
+## Descripción
+Las largorraíces, como su nombre indica, son unos tubérculos largos que tienen en su interior una savia pegajosa. Crecen en las grietas de rocas donde se acumula agua. Como resultado, las largorraíces están cubiertas de barro y [[Crem\|crem]] en el momento de la cosecha. Son de color marrón.
 
-## Culinary Use
-Longroots are easy to grow and are cultivated and eaten in many regions of Roshar. They are not known for their taste, which is faintly reminiscent of minerals. Longroots are cheap, and are often eaten only when alternatives are not readily available. Since they are tubers, they have a long shelf life; they can be boxed and put into storage and can be transported by caravan.
-Longroots are technically edible when raw but are usually cooked for a long time, commonly as an ingredient in stew. The roots are peeled and cut into chunks before stewing. [[Lunamor\|Lunamor]] experiments with longroot stew on multiple occasions, including a version with shelled finger crab meat.
+## Uso culinario
+Las largorraíces son fáciles de cultivar, por lo que así se hace en muchas regiones de Roshar, donde se comen. No destacan por su sabor, que recuerda vagamente al de un mineral. Son baratas, por lo que se consumen habitualmente cuando no se dispone de otras alternativas. Al ser tubérculos se conservan con facilidad en cajas, que también se pueden transportar en caravana. 
+Son técnicamente comestibles aun estando crudas, pero se suelen cocinar durante bastante tiempo, sobre todo como parte de un guiso. Se pelan y cortan en trozos grandes y se cocinan a fuego lento. [[Lunamor\|Lunamor]] experimenta con guisos de largorraíces en varias ocasiones, incluída una versión con carne de pata de cangrejo.
 
-## History
-Longroots have been seen as a foodstuff in a number of locations across the Rosharan continent, including the warcamps at the [[Shattered Plains\|Shattered Plains]], [[Narak\|Narak]], [[Yeddaw\|Yeddaw]], rural [[Alethkar\|Alethkar]], and the [[Rockfall\|Rockfall]] mansion in [[Kholinar\|Kholinar]].
-When [[Kaladin\|Kaladin]]'s family was struggling to get by due to [[Roshone\|Roshone]]'s hostility, they ate longroots and other food donated secretly by the townspeople of [[Hearthstone\|Hearthstone]]. [[Hesina\|Hesina]] and [[Kaladin\|Kaladin]] peeled longroots while they discussed [[Spren\|spren]] with [[Tien\|Tien]].
+## Historia
+Se usan como alimento en varios lugares del continente roshariano, incluídos los campamentos de guerra en las [[Llanuras Quebradas\|Llanuras Quebradas]], [[Narak\|Narak]], [[Yeddaw\|Yeddaw]], el [[Alethkar\|Alethkar]] rural, y la mansión [[Catarroca\|Catarroca]] en [[Kholinar\|Kholinar]].
+La familia de [[Kaladin\|Kaladin]] comía largorraíces y otros alimentos donados en secreto por los vecinos de [[Piedralar\|Piedralar]] cuando pasaban apuros económicos por culpa de [[Roshone\|Roshone]]. [[Hesina\|Hesina]] y [[Kaladin\|Kaladin]] tuvieron una conversación sobre los [[Spren\|spren]] con [[Tien\|Tien]] mientras pelan largorraíces.
 
-
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 16:52, 13 September 2019 (UTC)

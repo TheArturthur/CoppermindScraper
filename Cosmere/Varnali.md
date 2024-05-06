@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Varnali** is a [[Listener\|listener]] elder on [[Roshar\|Roshar]] and a member of , the listener ruling council.
 

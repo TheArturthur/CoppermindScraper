@@ -7,6 +7,8 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
+> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+
 **Whitespines** are dangerous  that live on [[Roshar\|Roshar]].
 
 ## Sumario
@@ -25,10 +27,13 @@
 ## Appearance and Anatomy
  
 Para more images, ver .
-The eponymous spine is a row of spikes that runs from the head along the back of a whitespine. They are as large as horses, with a carapaced back, powerful legs, and a reptilian appearance. They have long white tusks that are used for impalement which can break off and remain lodged in their prey, causing severe damage. Whitespines have claws, including a set of vestigial claws behind their primary legs, and they smell quite unpleasant, especially when wet. They also have a nose of some sort that allows them to sniff and sneeze. They are able to enter a dormant state, most likely to hibernate, during which they appear to become coated in a thick, hard crystal-like substance that takes time to accumulate. Water washes away the crystal coating in its early stages of forming, which would make it difficult for a whitespine to undergo this metamorphosis during a [[Highstorm\|highstorm]].
+The eponymous spine is a row of spikes that runs from the head along the back of a whitespine. They are as large as horses, with a carapaced back, powerful legs, and a reptilian appearance. They have long white tusks that are used for impalement which can break off and remain lodged in their prey, causing severe damage.
+Whitespines have claws, including a set of vestigial claws behind their primary legs, and they smell quite unpleasant, especially when wet. They also have a nose of some sort that allows them to sniff and sneeze.
+They are able to enter a dormant state, most likely to hibernate, during which they appear to become coated in a thick, hard crystal-like substance that takes time to accumulate. Water washes away the crystal coating in its early stages of forming, which would make it difficult for a whitespine to undergo this metamorphosis during a [[Highstorm\|highstorm]].
 
 ## Ecology
 Whitespines live in packs in dens that are often strewn with the bones of the creatures they have killed. Sometimes they will live near roadways to pick off travelers as prey. They hide near the carcass of their recent kill after consuming its meat, then hunt the scavengers that are attracted to the carcass. Whitespines are native to [[Alethkar\|Alethkar]] and possibly other areas. They are "nastier" than [[Chasmfiend\|chasmfiends]].
+Whitespines sometimes hunt hogs which are known to frantically flee in terror.
 
 ## History
  
@@ -40,11 +45,15 @@ Brightlord [[Roshone\|Roshone]] and his son [[Rillir\|Rillir]], along with [[Ald
 
 ### Idioms
 >“*A little like the mink wandering into the whitespine’s den and asking when dinner is...*”
-\-[12]
+\-[13]
 
 
 >“*The interior bristled with spears. Like the proverbial whitespine’s den.*”
-\-[13]
+\-[14]
+
+
+>“*scattered like hogs before a white spine*”
+\-[10]
 
 
 ## Notes

@@ -42,7 +42,7 @@ The initial draft of *Snapshot* was written during March 2016 during a trip to D
 ## Cover Gallery
 Para a cover gallery of Snapshot, ver .
 ## Trivia
-*Snapshot* was originally set in a Core Possibility in the universe of , but [[Brandon\|Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.
+*Snapshot* was originally set in a  in the universe of , but [[Brandon\|Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.
 
 ## Notes
 

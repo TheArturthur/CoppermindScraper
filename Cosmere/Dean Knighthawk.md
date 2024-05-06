@@ -1,6 +1,7 @@
 |**Dean Knighthawk**|
 |-|-|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Calamity\|Calamity]]*|
 
 **Dean Knighthawk** is the owner of .
 "Dean Knighhawk" is actually an alias, as he thought his given name was stupid. He was born paralyzed, and can only move his head. Instead, he uses epic technology to assume the powers of a telepathic puppeteer, [[The Wooden Soul\|The Wooden Soul]]. With his human-sized wooden puppet, he can carry himself around and work. Knighthawk is pudgy, with drooping jowls.

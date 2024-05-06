@@ -6,7 +6,7 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Yezier** is a princedom in southwestern [[Roshar\|Roshar]] and one of the member states of the [[Azir\|Azish Empire]]. It's ruled by a princess.
+**Yezier** is a landlocked princedom in southwestern [[Roshar\|Roshar]] and one of the member states of the [[Azir\|Azish Empire]]. It's ruled by a princess.
 
 ## Sumario
 

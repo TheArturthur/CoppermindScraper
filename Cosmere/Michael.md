@@ -1,8 +1,9 @@
 |**Michael**|
 |-|-|
-|**Oficio**|Estudiante|
+|**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Primera aparición**|**|
 
 **Michael** is a student at  on the isle of .
 

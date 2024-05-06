@@ -42,7 +42,7 @@ The people of Triax live in small villages, which are often located in forest cl
 ## History
 ### Heraldic Epochs
 During the [[Silver Kingdoms\|Silver Kingdoms]] era, the region was split in half between [[Makabakam\|Makabakam]] and [[Valhav\|Valhav]].
-Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his .
+Due to the Desolations, they were constantly returned back to early technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his .
 
 ### Era of Solitude
 At some point during the [[Era of Solitude\|Era of Solitude]], the area that would later become Triax was invaded by the Veden king [[NanHar\|NanHar]], although he died during the war and was succeeded by his brother, [[NanKhet\|NanKhet]]. NanKhet died only three months later, giving way to the [[Siln\|Siln]] dynasty; it is unknown if the Veden conquest of Triax was successful, and whether or not it came to be ruled by the Siln dynasty.

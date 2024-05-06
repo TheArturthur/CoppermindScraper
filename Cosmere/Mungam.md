@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mungam**|
 |-|-|
 |**Oficio**|[[Fervoroso\|Fervoroso]]|
@@ -5,10 +8,10 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Mungam** is an  in [[Kharbranth\|Kharbranth]] on [[Roshar\|Roshar]].
-She ran the hospital in Kharbranth where [[Shallan\|Shallan]] was treated after her trip to [[Shadesmar\|Shadesmar]]. She initially prohibited [[Kabsal\|Kabsal]] from visiting Shallan while she was recuperating. She eventually relented, but Kabsal—who referred to her as "Old Mungam"—still complained that she was a tyrant.
+**Mungam** es un [[Fervoroso\|fervoroso]] en [[Kharbranth\|Kharbranth]] en [[Roshar\|Roshar]].
+Dirige el hospital de Kharbranth donde se trató a [[Shallan\|Shallan]] después de su viaje a [[Shadesmar\|Shadesmar]]. Al principio le prohibió a [[Kabsal\|Kabsal]] que la visitara mientras esta se recuperaba. Al final, terminó cediendo pero Kabsal (que se refiere a él como "el Viejo Mungam") se quejó de que era un tirano.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Joe ST (talk) 13:09, 12 June 2018 (MST)

@@ -10,7 +10,25 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Roion's son,** currently unnamed, is the son of Highprince [[Roion\|Roion]]. Since the death of Highprince Roion, Roion's son is now the Highprince overlooking the [[Roion princedom\|Roion princedom]]. Highprince [[Aladar\|Aladar]] believes the new Highprince is unprepared for the role.
+**Roion's son,** currently unnamed, is the son of Highprince [[Roion\|Roion]]. Since the death of Highprince Roion, Roion's son is now the Highprince overlooking the [[Roion princedom\|Roion princedom]].
+
+## Sumario
+
+1 History. [[#History]] 
+
+1. [[#Early life and ascension to highprince]] 
+1. [[#Invasion of Urithiru]] 
+
+
+2 Notes. [[#Notes]] 
+
+
+## History
+#### Early life and ascension to highprince
+Roion’s son was born to [[Roion\|Roion]] at an unknown date. After his father died during the [[Battle of Narak\|Battle of Narak]] he rose to the position of highprince. He was the youngest of the highprinces, and highprince Aladar believes Roion’s son is unprepared for the role.
+
+#### Invasion of Urithiru
+Roion’s son was the only highprince present at Urithiru during the invasion. He gathered many Alethi officers to the map room. It is unknown what happened to him after the invasion.
 
 ## Notes
 

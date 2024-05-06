@@ -3,6 +3,7 @@
 ||
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 >“*I fight because I was a cop, and I took an oath.*”
 \-Cody explaining to David his reasons for being a Reckoner[1]

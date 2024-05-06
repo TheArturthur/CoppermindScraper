@@ -9,6 +9,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 >“*Eso es lo que pasa cuando eres adicto a una droga, Straff. Cuando la consigues, te sientes mejor. Cuando no la tienes... mueres.*”
 \-Amaranta a Straff Venture[2]
@@ -25,11 +26,11 @@
 
 
 ## Apariencia y personalidad
-Está al final de la veintena y algunas arrugas empiezan a aparecer en su rostro. Es una mujer atractiva, aunque la preferencia de Straff por amantes muy jóvenes hace que se fije en los efectos que el envejecimiento y el parto han tenido en su cuerpo. Es la madre de algunos de los muchos hijos de Straff.
+Está al final de la veintena y algunas arrugas empiezan a aparecer en su rostro. Es una mujer atractiva, aunque la preferencia de [[Straff\|Straff]] por amantes muy jóvenes hace que se fije en los efectos que el envejecimiento y el parto han tenido en su cuerpo. Es la madre de algunos de los muchos hijos de Straff.
 Es muy hábil con las hierbas, aunque no está claro cómo se educó en la materia. Ha pasado casi toda su vida adulta como concubina, y sabe cómo parecer dócil y sumisa. Sin embargo, se vuelve taimada y vengativa tras ser abandonada.
 
 ## Historia
-Amaranta se convirtió en una de las amantes de Straff hacia 1013 [[Imperio Final\|IF]], cuando estaba en la última etapa de su adolescencia. Straff señala en varias ocasiones que era hermosa en su juventud, pero que después de tener hijos y llegar a la mitad de la veintena, ya no la encontraba físicamente atractiva. Dejó de tener relaciones sexuales con ella alrededor de 1019 [[Imperio Final\|IF]] y la consideró "vieja". A Amaranta le habían advertido que esto ocurriría, aunque no quería creerlo. Se convirtió en una de las pocas amantes que Straff mantenía cerca por su utilidad, aunque no las invitaba a su cama. Tenía varias herboristas, pero consideraba que Amaranta era la más hábil. Straff temía ser envenenado, y la especialidad de Amaranta era un brebaje que podía curar o identificar una variedad de toxinas comunes.
+Amaranta se convirtió en una de las amantes de [[Straff\|Straff]] hacia 1013 [[Imperio Final\|IF]], cuando estaba en la última etapa de su adolescencia. Straff señala en varias ocasiones que era hermosa en su juventud, pero que después de tener hijos y llegar a la mitad de la veintena, ya no la encontraba físicamente atractiva. Dejó de tener relaciones sexuales con ella alrededor de 1019 [[Imperio Final\|IF]] y la consideró "vieja". A Amaranta le habían advertido que esto ocurriría, aunque no quería creerlo. Se convirtió en una de las pocas amantes que Straff mantenía cerca por su utilidad, aunque no las invitaba a su cama. Tenía varias herboristas, pero consideraba que Amaranta era la más hábil. Straff temía ser envenenado, y la especialidad de Amaranta era un brebaje que podía curar o identificar una variedad de toxinas comunes.
 Amaranta se sintió despreciada por Straff y comenzó un romance con [[Zane\|Zane]]. Aunque Zane a veces le hacía cortes con un cuchillo, como a menudo se hacía a sí mismo debido a su vacilante cordura, la hizo sentir deseable de nuevo. Sin embargo, Zane se distanció repentinamente de Amaranta; aunque esto se debió, probablemente, a varios factores, ella culpó a Straff.
 
 >“*Necio. Él no te envenenó nunca... ni una sola vez. Aunque, a petición mía, te hacía creer que lo había hecho. Y cada vez acudías corriendo a mí. Sospechabas de todo lo que hacía Zane... y, sin embargo, ni una sola vez te paraste a pensar qué había en el «antídoto» que yo te daba.*”

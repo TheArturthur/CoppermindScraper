@@ -2,6 +2,7 @@
 |-|-|
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Firefight\|Firefight]]*|
 
 **Devin** is the leader of a [[Reckoners\|Reckoners]] cell.
 When [[Jonathan Phaedrus\|Prof]], [[Tia\|Tia]], and [[David Charleston\|David]] left  to assist the Reckoners cell in [[Babilar\|Babilar]], Devin's team traveled from  to reinforce [[Abraham\|Abraham]] and [[Cody\|Cody]] in Newcago. They were already on their way when Prof's team left and Prof instructed Abraham and Cody not to engage any  until they arrived.

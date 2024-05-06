@@ -3,6 +3,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Apodos**|One Who Dreams|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Firefight\|Firefight]]*|
 
 **Dawnslight** is an  in the city of [[Babilar\|Babilar]]. To the people of Babilar, he is practically a god. Due to his seeming generosity, he is loved rather than feared, though no one knows for sure if he even exists. Many people worship him and pray to him.
 

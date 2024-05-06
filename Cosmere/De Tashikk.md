@@ -15,6 +15,12 @@
 1 Etymology. [[#Etymology]] 
 2 Geography. [[#Geography]] 
 3 History. [[#History]] 
+
+3. [[#The Heraldic Epochs .28c.-5825 - c.-3333.29]] 
+3. [[#Era of Solitude .28c.-3333 - 1173.29]] 
+3. [[#The True Desolation]] 
+
+
 4 Politics. [[#Politics]] 
 
 4. [[#Ties to Azir]] 
@@ -48,8 +54,21 @@ Tashikk appears to be rather flat, with wide, grass-covered fields. Local fauna 
 Tashikk has only one known major city, [[Yeddaw\|Yeddaw]], likely its capital. South of Yeddaw is also the town of [[Ifaba\|Ifaba]].
 
 ## History
-During the [[Heraldic Epochs\|Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]]. It's uncertain when they split off from it. At some point, they joined the Azish Empire as a member state.
-Shortly before the [[True Desolation\|True Desolation]] began, the [[Herald\|Herald]] [[Nale\|Nale]] was travelling across Tashikk with [[Szeth\|Szeth]] and several other , tracking down and killing new  in a misguided attempt to prevent a new Desolation. This ended with the arrival of the [[Everstorm\|Everstorm]], when Nale departed, leaving Szeth behind. He would later come back and take him to the [[Purelake\|Purelake]].
+### The Heraldic Epochs (c.-5825 - c.-3333)
+  Map of the Silver Kingdoms
+Para más información, ver [[Makabakam\|Makabakam]].
+During the [[Heraldic Epochs\|Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]]. As one of the Silver Kingdoms, it was settled by Ashynite emigrants who arrived on Roshar in Shinovar circa -5825 on the Vorin calendar, before eventually expanding outward and conquering the rest of Roshar.
+It is not known what year during the Heraldic Epochs the area that would come to be Tashikk began to be inhabited by humans.
+Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his .
+It's uncertain when they split off from Makabakam.
+
+### Era of Solitude (c.-3333 - 1173)
+At some point during the Era of Solitude they joined the Azish Empire as a member state.
+Circa 1074, Yeddaw was created with Azish Imperial Shardblades, and eventually became a prominent city in Tashikk.
+Shortly before the [[True Desolation\|True Desolation]] began, in late 1173 the [[Herald\|Herald]] [[Nale\|Nale]] was travelling across Tashikk with [[Szeth\|Szeth]] and several other , tracking down and killing new  in a misguided attempt to prevent a new Desolation.
+
+### The True Desolation
+Nale's attempts to stop the Desolation ended with the arrival of the [[Everstorm\|Everstorm]] in Yeddaw in Jeses 1174, which led to Nale depart the country, leaving Szeth behind. He would later come back and take him to the [[Purelake\|Purelake]].
 [[Dalinar\|Dalinar]] used the Tashikki relay stations to warn the world about the Everstorm. He later contacted the prince of Tashikk to get him to join his coalition, but the prince refused to commit, waiting for the decision of Azir. When the Azish decided to ally with [[Urithiru\|Urithiru]], Tashikk did as well, and they sent the Tashikki ambassador in [[Azimir\|Azimir]] to the tower-city as their representative.
 [[Taravangian\|Taravangian]] later used Tashikk to spread the information about the [[Eila Stele\|Eila Stele]] and break up the alliance. While Azir did leave the coalition in the aftermath, whether Tashikk did as well is unknown, as several other member states, such as [[Yezier\|Yezier]] and [[Emul\|Emul]], remained.
 
@@ -69,7 +88,7 @@ Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]
 They have a good relationship with Alm, and Alm people are allowed to enter the nation without much trouble.
 
 #### Alethkar
-They are a member of the Coalition of Monarchs with Alethkar. They also grant them spanreed services to Alethkar, who makes effective use of their services.
+They are a member of the Coalition of Monarchs with Alethkar. They also grant their spanreed services to Alethkar, which makes effective use of these services.
 
 #### Azir
 They are under the control of the Azish Empire, and are thus subservient to Azir.

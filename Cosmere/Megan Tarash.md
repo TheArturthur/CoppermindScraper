@@ -7,6 +7,7 @@
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Lugar de nacimiento**|[[Portland\|Portland]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 >“*Sometimes stupid is right. Hell. I hope nobody ever quotes me on that one.*”
 \-Megan before battling Prof.[2]

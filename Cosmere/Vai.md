@@ -5,6 +5,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 **Vai** is a seven-year-old [[Singer\|singer]] on [[Roshar\|Roshar]]. She is [[Sah\|Sah]]'s daughter, and one of the younger girls in their traveling group.
 

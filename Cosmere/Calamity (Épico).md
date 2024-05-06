@@ -3,6 +3,7 @@
 |**Capacidades**|All-powerful [[%C3%89pico\|Épico]]|
 |**Apodos**|Larcener|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Primera aparición**|*[[Calamity\|Calamity]]*|
 
 This article is for the Epic named Calamity. Para the novel of the same name, ver [[Calamity\|Calamity]].
 **Calamity**, also known as **Larcener**, is an inhuman being who is the origin of the powers of the . He is an Epic with every possible ability. He appears as a star in the sky and as Larcener on Earth. His appearance in the sky one year before people started to become Epics causes people to name him Calamity, though none know his true origin.

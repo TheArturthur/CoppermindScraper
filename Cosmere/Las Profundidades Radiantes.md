@@ -1,16 +1,22 @@
 |**Las Profundidades Radiantes**|
 |-|-|
-|**Región**|[[Mar de las Almas\|Mar de las Almas]]🐱︎|
+|**Región**|[[Sea of Souls\|Sea of Souls]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Radiant Depths** is a trench in the [[Sea of Souls\|Sea of Souls]], part of the [[Shadesmar\|Rosharan subastral]] of the [[Cognitive Realm\|Cognitive Realm]]. It is south of [[Urithiru\|Nohadon's Stairways]], and is likely named after the [[Knights Radiant\|Knights Radiant]]. It is east of a peninsula where the lighthouse [[Abiding Light\|Abiding Light]] is located, and north of [[Nameless\|Nameless]].
-In their expedition to [[Lasting Integrity\|Lasting Integrity]], [[Shallan\|Shallan]] and [[Adolin\|Adolin]] travel through the Radiant Depths to get to Nameless.
-The Radiant Depths correspond at least to [[Marat\|Marat]] in the [[Physical Realm\|Physical Realm]], and possibly other nations to the east.
+The **Radiant Depths** is a trench in the [[Sea of Souls\|Sea of Souls]], part of the [[Shadesmar\|Rosharan subastral]] of the [[Cognitive Realm\|Cognitive Realm]]. It is likely named after the [[Knights Radiant\|Knights Radiant]].
+
+## Geography and Geology
+The trench lies in the southern Sea of Souls. It runs roughly from [[Urithiru\|Nohadon's Stairways]] at its north end to [[Nameless\|Nameless]] in the south. A long peninsula runs parallel to the southern half of the trench; the lighthouse [[Abiding Light\|Abiding Light]] is located on the peninsula. The total size of the Radiant Depths is unclear due to a lack of detailed maps of Shadesmar, but the [[Physical Realm\|Physical Realm]] locations that appear to correspond to the trench are western [[Marat\|Marat]] and the southern [[Mountains of Ur\|mountains of Ur]].
+The Radiant Depths is referred to as a "great trench" by resident [[Spren\|spren]]. Local sailors are well aware of the trench, and seem to prefer navigating the shallows that lie along its western edge.
+
+## History
+During the emissary mission from [[Urithiru\|Urithiru]] to [[Lasting Integrity\|Lasting Integrity]], [[Shallan\|Shallan]] and [[Adolin\|Adolin]]'s team traveled from Nohadon's Stairways to Nameless by sailing the shallows adjacent to the Radiant Depths. The [[Peakspren\|peakspren]] sailors that accompanied them had special tools to measure the depth of the bead ocean.
 
 ## Notes
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 19:29, 17 April 2024 (UTC)
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
 |-|-|
 |**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|

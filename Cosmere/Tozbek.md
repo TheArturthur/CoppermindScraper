@@ -1,17 +1,17 @@
 |**Tozbek**|
 |-|-|
 ||
-|**Familia**|
 |**Cónyuge**|[[Ashlv\|Ashlv]]|
 |**Oficio**|Marinero|
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Tozbek** is a [[Thaylen\|Thaylen]] ship captain on [[Roshar\|Roshar]].
 
 ## Appearance and Personality
-Tozbek is a short, portly man with a bald head and has long white Thaylen eyebrows, a foot long each, that curve up into a stiff, fanned shape above his eyes. He has a scar on his jaw caused by loose tackle during rough weather. He is a cautious, calm man and an excellent sailor.
+Tozbek is a short, portly man with a bald head and has long white [[Thaylen\|Thaylen]] eyebrows, a foot long each, that curve up into a stiff, fanned shape above his eyes. He has a scar on his jaw caused by loose tackle during rough weather. He is a cautious, calm man and an excellent sailor.
 
 ## History
 Tozbek captains the ship *[[Wind's Pleasure\|Wind's Pleasure]]* and is married with [[Ashlv\|Ashlv]], who sails with him. He transported [[Shallan Davar\|Shallan Davar]] from [[Jah Keved\|Jah Keved]] to [[Kharbranth\|Kharbranth]] in her pursuit of [[Jasnah Kholin\|Jasnah Kholin]] at a generously discounted price, because of [[House Davar\|House Davar]]'s investments in his shipping business.
