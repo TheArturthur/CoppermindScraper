@@ -3,16 +3,34 @@
 
 |**Thude**|
 |-|-|
-|**Familia**|
 |**Cónyuge**|[[Bila\|Bila]]|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Thude** es un guerrero [[Parshendi\|parshendi]] en [[Narak\|Narak]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Forma una pareja de guerra con [[Bila\|Bila]], bajo órdenes de [[Eshonai\|Eshonai]], formando parte de su división personal. Eshonai creía que era el mejor candidato para heredar sus esquirladas en caso de que ella estuviese incapacitada para hacerlo. También era amiga de [[Rlain\|Rlain]].
+**Thude** es un guerrero [[Oyente\|oyente]] que vivía en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Forma una pareja de guerra con [[Bila\|Bila]], bajo las órdenes de [[Eshonai\|Eshonai]], formando parte de su división personal. Eshonai creía que era el mejor candidato para heredar sus esquirladas en caso de que ella estuviese incapacitada para hacerlo. También era amiga de [[Rlain\|Rlain]].
+
+## Sumario
+
+1 Atributos y habilidades. [[#Atributos y habilidades]] 
+
+1. [[#Portador de esquirlada]] 
+
+
+2 Historia. [[#Historia]] 
+3 Notas. [[#Notas]] 
+
+
+## Atributos y habilidades
+#### Portador de esquirlada
+Thude fue entrenado con un set de [[Espada esquirlada\|espada]] y [[Armadura esquirlada\|armadura]] esquirladas. Es lo suficiente hábil con ellas como para que [[Eshonai\|Eshonai]] le considere el mejor candidato para heredar el set cuando ella muriese.
+
+
+## Historia
 Se reúne con los alezi para organizar una asamblea para hablar sobre la paz. Muestra preocupación sobre la nueva [[/wiki/Parshendi#Formas]] cuando Eshonai regresa a Narak tras vincular al [[Tormentaspren\|tormentaspren]] cautivo. Se opone a acorralar a aquellos que se niegan a adoptar la nueva forma, y escapa con el grupo de disidentes antes de que les pudieran hacer daño.. Sobrevivieron a la alta tormenta y a la Tormenta eterna, abandonando las [[Llanuras Quebradas\|Llanuras Quebradas]] y dirigiéndose a las llanuras inundables en la zona este.
 
 ## Notas

@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nalanar**|
 |-|-|
-|**Oficio**|Military officer|
+|**Oficio**|Oficial militar|
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Nalanar** is a [[Lighteyes\|lighteyed]] military commander from [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. He is referred to as "Brightlord"; since he commands an army, he is of a high [[Dahn\|dahn]].
-His forces fought against [[Dalinar Kholin\|Dalinar Kholin]]'s army at [[Slickrock\|Slickrock]], barely losing the battle. One of his former infantrymen, [[Geved\|Geved]], met Dalinar in [[Vedenar\|Vedenar]] after the Veden civil war. They discussed Slickrock and the .
+**Nalanar** es un comandante militar [[Ojos claros\|ojos claros]] de [[Jah Keved\|Jah Keved]], en [[Roshar\|Roshar]]. Se le llama «brillante señor»; puesto que dirige un ejército, es de un alto [[Dahn\|dahn]].
+Sus fuerzas lucharon contra el ejército de [[Dalinar Kholin\|Dalinar Kholin]] en [[Rocadiza\|Rocadiza]], perdiendo la batalla por poco. Uno de sus antiguos soldados de infantería, [[Geved\|Geved]], conoció a Dalinar en [[Vedenar\|Vedenar]] tras la guerra civil de Veden. Hablaron de Rocadiza y de [[La Emoci%C3%B3n\|la Emoción]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 LadyLameness (talk) 09:29, 29 October 2019 (UTC)

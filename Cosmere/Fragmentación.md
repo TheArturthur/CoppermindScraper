@@ -36,7 +36,7 @@ No se sabe a ciencia cierta cuán diferente era el Cosmere antes de la Fragmenta
 |[[Piedad\|Piedad]]|Desconocido|
 |[[Valent%C3%ADa\|Valentía]]|Desconocido|
 |[[Capricho\|Capricho]]|Desconocido|
-|[[Virtuosismo|Desconocido|
+|[[Virtuosismo\|Virtuosismo]]|Desconocido|
 |[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]|Desconocido|
 |Ninguna|[[Hoid\|Hoid]]|
 

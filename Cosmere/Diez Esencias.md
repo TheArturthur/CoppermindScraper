@@ -27,7 +27,7 @@ Las **Diez Esencias** es el termino tradicional [[Vorin\|vorin]] asociado tanto 
 Cada Esencia está conectada a una [[Gema\|gema]] en particular. Para [[Moldear\|moldear]] (mediante un [[Fabrial\|fabrial]]) un objeto en un material nuevo, el moldeador de almas debe usar la gema correspondiente a la Esencia del nuevo material.
 
 ## Vorinismo
-Las enseñanzas modernas [[Vorin\|vorin]] conectan cada Esencia con un [[Heraldo\|Heraldo]] y sus atributos divinos. El antiguo vorinismo también las relacionaba con las Órdenes de Caballeros Radiantes, aunque estas no eran del todo precisas. Cada [[Posturas B%C3%A1sicas\|postura]] empleada en combate vorin está asociada a una Esencia.
+Las enseñanzas modernas [[Vorin\|vorin]] conectan cada Esencia con un [[Heraldo\|Heraldo]] y sus atributos divinos. El antiguo vorinismo también las relacionaba con las Órdenes de Caballeros Radiantes, aunque estas no eran del todo precisas. Cada [[Posturas B%C3%A1sicas\|postura]] empleada en combate de [[Portador de esquirlada\|portadores de esquirlada]] está asociada a una Esencia.
 
 ### Foco corporal
 La doctrina vorin también asocia cada Esencia con un "foco corporal" relacionado con el cuerpo humano. [[Khriss\|Khriss]] cree que el concepto es más una cuestión de interpretación filosófica vorin que un atributo real de la [[Investidura\|Investidura]] roshariana. Sin embargo, sí que podría tener cierta importancia. Los focos corporales no se corresponden de forma directa con los puntos de anclaje [[Hemalurgia\|hemalúrgicos]], pero existe cierta conexión.

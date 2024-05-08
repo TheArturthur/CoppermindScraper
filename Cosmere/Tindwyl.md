@@ -7,7 +7,7 @@
 |**Capacidades**|[[Feruquimia\|Feruquimista]]|
 |**Apodos**|Madre de Terris, doña Dominante|
 |**Oficio**|[[Guardador\|Guardadora]]|
-|**Grupo**|[[S%C3%ADnodo\|Sínodo]], [[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
+|**Grupo**|[[S%C3%ADnodo\|Sínodo]]🐱︎, [[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|

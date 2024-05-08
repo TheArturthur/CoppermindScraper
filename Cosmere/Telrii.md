@@ -3,6 +3,7 @@
 
 |**Telrii**|
 |-|-|
+||
 |**Familia**|
 |**Cónyuge**|[[Atara\|Atara]]|
 |**Hijos**|[[Shaor\|Shaor]]|

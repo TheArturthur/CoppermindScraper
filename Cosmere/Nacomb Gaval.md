@@ -1,16 +1,20 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nacomb Gaval**|
 |-|-|
-|**Oficio**|Captain in Ejército de Kholin|
+|**Oficio**|Capitán en el Ejército de Kholin|
 |**Grupo**|Ejército de Kholin|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Nacomb Gaval** is a young [[Lighteyes\|lighteyed]] soldier in  Kholin army during the [[War of Reckoning\|War of Reckoning]] on [[Roshar\|Roshar]].
-After most of his superior officers were killed during the [[Battle of the Tower\|Battle of the Tower]], Gaval was promoted and given a field commission as commander of the rear guard by [[Kaladin\|Kaladin]]. He was ordered to oversee the retreat of the rest of [[Dalinar\|Dalinar]]'s army. Once he took command, the army begins to retreat over the bridge in a quick, orderly fashion.
-Gaval was a member of [[Dalinar Kholin\|Dalinar Kholin]]'s expedition to the center of the [[Shattered Plains\|Shattered Plains]]. He participated in the [[Battle of Narak\|Battle of Narak]], leading the troop of soldiers accompanying Renarin and Shallan in their investigation of the [[Stormseat\|Stormseat]] [[Oathgate\|Oathgate]]. At some point, Gaval became [[Adolin\|Adolin]]'s [[Shardplate\|Plate]] standby, wearing Adolin's Shardplate when he was unavailable to do so. During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Adolin hoped that Gaval was heading to the battle with his Plate, but the two never met during that battle.
+**Nacomb Gaval** es un joven soldado [[Ojos claros\|ojos claros]] en el  ejército de Kholin durante la [[Guerra de la Venganza\|guerra de la Venganza]] en [[Roshar\|Roshar]].
+Después de que muchos de los oficiales superiores pereciesen durante la [[Batalla de la Torre\|batalla de la Torre]], Kaladin ascendió a Gaval y le encargó la misión de campo como comandante de la retaguardia [[Kaladin\|Kaladin]]. Se le ordenó supervisar la retirada del resto del ejército de [[Dalinar\|Dalinar]]. En cuanto tomó el mando, el ejército comenzó a retirarse a través del puente rápida y ordenadamente.
+Gaval fue un miembro de la expedición de [[Dalinar Kholin\|Dalinar Kholin]] hacia el centro de las [[Llanuras Quebradas\|Llanuras Quebradas]]. Participó en la [[Batalla de Narak\|batalla de Narak]], dirigiendo la tropa de soldados que acompañó a Renarin y Shallan a investigar la [[Puerta Jurada\|Puerta Jurada]] de [[Sedetormenta\|Sedetormenta]]. En algún momento, Gaval se convirtió en el portador sustituto de la [[Armadura esquirlada\|armadura esquirlada]] de [[Adolin\|Adolin]], utilizándola cuando este último no podía hacerlo. Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], Adolin esperaba que Gaval hubiese entrado en batalla con su armadura, pero nunca se cruzaron durante la refriega.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 23:14, 4 June 2018 (MST)

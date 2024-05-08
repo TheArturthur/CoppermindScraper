@@ -9,11 +9,13 @@
 |**Fallecido**|[[Batalla de Narak\|Batalla de Narak]],Ishishach 1173|
 |**Capacidades**|[[Regio\|Formas de Poder]], [[Portador de esquirlada\|Portador de esquirlada]], [[Orden de los Escultores de Voluntad\|Escultor de Voluntad]]|
 |**Vinculado con**|[[Timbre\|Timbre]]|
+|**Títulos**|La Exploradora|
 |**Grupo**|[[Consejo de los Cinco\|Consejo de los Cinco]]🐱︎|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -21,7 +23,7 @@
 \-Eshonai.[4]
 
 
-**Eshonai** es una [[Oyente\|oyente]] y una [[Portador de esquirlada\|portadora de esquirlada]] que vive en [[Narak\|Narak]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Fue una de las primeras parshendi en tener contacto con los soldados de [[Gavilar Kholin\|Gavilar Kholin]] en las [[Colinas Irreclamadas\|Colinas Irreclamadas]].
+**Eshonai** es una [[Cantor\|cantora]] y una [[Portador de esquirlada\|portadora de esquirlada]] que vive en [[Narak\|Narak]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Fue una de las primeras parshendi en tener contacto con los soldados de [[Gavilar Kholin\|Gavilar Kholin]] en las [[Colinas Irreclamadas\|Colinas Irreclamadas]].
 
 ## Sumario
 
@@ -74,7 +76,7 @@ Eshonai es una [[Oyente\|oyente]]; su piel, parcialmente tapada por un caparazó
 Prefiere usar su [[Forma de trabajo\|forma de trabajo]] porque es más flexible, ágil, resistente, y porque la aversión de esta forma por la violencia le obliga a pensar en formas diferentes para resolver los problemas. Encuentra difícil tolerar a los oyentes que prefieren la [[Forma carnal\|forma carnal]], teniendo problemas al entender porqué alguien querría mantenerse en esa forma más tiempo del necesario para producir descendencia. Su confusión en este tema se extiende a los humanos, perpleja por el hecho de que éstos sólo tengan una forma lo que lleva a la facilidad de distracción por el deseo sexual.
 Aunque ella acepta sus deberes como general de su gente, se siente atrapada y restringida por su papel y por vivir en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Incluso su uniforme contribuye a su malestar emocional, y las tareas repetitivas de su vida militar nublan su mente. Culpa a su uniforme de sus preocupaciones personales, sin embargo, nunca habla del desasosiego de su rol. Disfruta del sentimiento de fortaleza que obtiene al llevar la armadura esquirlada, lo que le da algo fiable en el mundo.
 La verdadera pasión de Eshonai es la exploración, y anhela ser libre del papel de general para poder explorar, incluso cuando era una niña, era común para ella perderse a la mitad de una tarea si algo llamaba su atención. Incluso consideraba explorar civilizaciones humanas, aunque tenía preferencia por la naturaleza. Sin embargo, cree que esos sentimientos son insignificantes en comparación con la importancia de proteger a su pueblo. Sostiene que recordar a los caídos es importante, pero menos preocupante que proteger a los vivos. Llega tan lejos como para acompañar a sus fuerzas de asalto cuando tenía la pierna dañada en la [[Batalla de la Torre\|Batalla de la Torre]], esto se debe porque es la única portadora entre los oyentes.
-Eshonai se cree personalmente responsable de la Guerra de la Venganza, ya que ella fue la primera en hacer contacto con los alezi. A pesar de ser plenamente consciente de la nefasta situación de su pueblo, no culpa a los alezi de su búsqueda de venganza. Si bien lucha contra ellos por necesidad, preferiría negociar la paz.
+Eshonai se cree personalmente responsable de la Guerra de la Venganza, ya que ella fue la primera en hacer contacto con los alezi. A pesar de ser plenamente consciente de la nefasta situación de su pueblo, no culpa a los alezi de su búsqueda de venganza. Si bien lucha contra ellos por necesidad, preferiría, y de hecho intenta, negociar la paz.
 
 ## Habilidades y atributos
  
@@ -82,7 +84,7 @@ A pesar de sus dudas sobre su papel, Eshonai es una combatiente y comandante mil
 Poco antes de su muerte, Eshonai atrajo la atención de una [[Alcanzador\|Alcanzadora]] llamada [[Timbre\|Timbre]], sin embargo, tomó la forma tormenta antes de que pudiera empezar a vincularse, y no se convirtió en [[Potenciaci%C3%B3n\|potenciadora]] hasta momentos antes de su muerte.
 
 ### Formas
-Como todos los [[Oyente\|oyentes]], Eshonai puede cambiar de forma capturando un [[Spren\|spren]] en su gemacorazón durante una [[Alta tormenta\|alta tormenta]]. Por preferencia, pasó la mayor parte de su vida en la [[Forma de trabajo\|forma de trabajo]], que aunque sea fuerte y resistente, la hacía reacia a la violencia. Durante la [[Guerra de la Venganza\|Guerra de la Venganza]] usa la forma de guerra en lugar de la anterior, por su caparazón y su estructura más robusta, que le proporciona mayor fuerza y protección al tiempo que le permite luchar. Con el tiempo, toma la [[Forma tormenta\|forma tormenta]], manteniendo su fuerza mientras le concede la habilidad de arrojar rayos rojos e invocar la [[Tormenta eterna\|tormenta eterna]], aunque lo último requería cooperación con otras formas tormenta.
+Como todos los [[Cantor\|cantores]], Eshonai puede cambiar de forma capturando un [[Spren\|spren]] en su gemacorazón durante una [[Alta tormenta\|alta tormenta]]. Por preferencia, pasó la mayor parte de su vida en la [[Forma de trabajo\|forma de trabajo]], que aunque sea fuerte y resistente, la hacía reacia a la violencia. Durante la [[Guerra de la Venganza\|Guerra de la Venganza]] usa la forma de guerra en lugar de la anterior, por su caparazón y su estructura más robusta, que le proporciona mayor fuerza y protección al tiempo que le permite luchar. Con el tiempo, toma la [[Forma tormenta\|forma tormenta]], manteniendo su fuerza mientras le concede la habilidad de arrojar rayos rojos e invocar la [[Tormenta eterna\|tormenta eterna]], aunque lo último requería cooperación con otras formas tormenta.
 
 ### Portadora de Esquirlada
 Eshonai es una [[Portador de esquirlada\|portadora de esquirlada]] completa, poseyendo tanto una [[Armadura esquirlada\|armadura esquirlada]] como una [[Espada esquirlada\|espada esquirlada]] muerta. Se desconoce cómo llegó a tenerlos, aunque es posible que solo los obtuviera tras el comienzo de la [[Guerra de la Venganza\|Guerra de la Venganza]]. Sin tener en cuenta como sucedió, sabe cómo usarlos, y llevar la armadura esquirlada se siente natural para ella. Es bastante habilidosa con la espada, siendo capaz de mantener el ritmo e incluso ganar a [[Adolin Kholin\|Adolin Kholin]], sin embargo su estilo de batalla es diferente al que le han enseñado a este, sin poses reconocibles. Igualmente, Eshonai puede llegar a centrarse demasiado en el combate, ignorando sus alrededores, lo que resulta ser su perdición.
@@ -108,8 +110,8 @@ Durante la batalla, Eshonai se batió en duelo con [[Dalinar Kholin\|Dalinar Kho
 \-Eshonai en forma tormenta.[8]
 
 
-Eshonai fue la primera en adoptar la [[Forma tormenta\|forma tormenta]] después de que su hermana Venli la volviera a descubrir, a pesar de ser reacia a hacerlo. La nueva forma causó que Eshonai se volviera más beligerante y destructiva, lo que la llevó a cambiar su postura de buscar la paz con los alezi a desear su exterminio. Su nueva personalidad agresiva la hizo estar más dispuesta a matar a los oyentes disidentes, incluidos sus camaradas, amigos y familia. Cualquiera que se rehusara a seguir sus órdenes acabaría apartado por Eshonai, cuya intención era matarlos.
-En la [[Batalla de Narak\|Batalla de Narak]], ella lideró al ejército oyente, quienes habían tomado la forma tormenta para pelear, con la intención de destruir a las fuerzas alezi. Después de que [[Adolin\|Adolin]] la empujará al abismo, se estrelló su armadura contra el suelo, en un intento de no ser arrastrada por la crecida del agua de la tormenta. A pesar de sus esfuerzos, Eshonai murió ahogada.
+Eshonai fue la primera en adoptar la [[Forma tormenta\|forma tormenta]] después de que su hermana [[Venli\|Venli]] la volviera a descubrir, a pesar de ser reacia a hacerlo. La nueva forma causó que Eshonai se volviera más beligerante y destructiva, lo que la llevó a cambiar su postura de buscar la paz con los alezi a desear su exterminio. Su nueva personalidad agresiva la hizo estar más dispuesta a matar a los oyentes disidentes, incluidos sus camaradas, amigos y familia. Cualquiera que se rehusara a seguir sus órdenes acabaría apartado por Eshonai, cuya intención era matarlos a todos.
+En la [[Batalla de Narak\|Batalla de Narak]], ella lideró al ejército oyente, quienes habían tomado la forma tormenta para pelear, con la intención de destruir a las fuerzas alezi. Después de que [[Adolin\|Adolin]] la empujará al abismo, se estrelló su armadura contra el suelo, en un intento de no ser arrastrada por la crecida del agua de la tormenta. Gracias a sus esfuerzos, Eshonai no se ahogó, sino que murió poco después a causa de las heridas infligidas durante su lucha por la supervivencia en el abismo.
 Tras su muerte, el [[Padre Tormenta\|Jinete de las Tormentas]] detuvo brevemente su alma para que no entrara al [[M%C3%A1s All%C3%A1\|Más Allá]], con el fin de permitirle que cabalgara los vientos de todo Roshar mientras la [[Alta tormenta\|alta tormenta]] azotaba el continente.
 Más tarde, [[Ulim\|Ulim]] guía a Venli y [[Demid\|Demid]] hasta el cuerpo a Eshonai para recuperar sus esquirladas.
 

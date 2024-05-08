@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Narbin**|
 |-|-|
-|**Tipo**|Plant|
-|**Se usa para**|Clothing|
+|**Tipo**|Planta|
+|**Se usa para**|Vestimenta|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Narbin** is a type of simple woven cloth on [[Roshar\|Roshar]].
-It is presumably made from a plant that grows near the [[Unclaimed Hills\|Unclaimed Hills]] and the [[Shattered Plains\|Shattered Plains]], as the [[Listener\|listeners]] wore narbin clothing before they were "discovered" by [[Gavilar Kholin\|Gavilar Kholin]] circa 1165. Narbin cloth may also be used in [[Alethkar\|Alethkar]], as [[Matain\|Matain]] was able to easily identify it.
+**Narbin** es un tipo de tela simple tejida en [[Roshar\|Roshar]].
+Es de suponer que está hecho de una planta que crece cerca de las [[Colinas Irreclamadas\|Colinas Irreclamadas]] y las [[Llanuras Quebradas\|Llanuras Quebradas]], ya que los [[Oyente\|oyentes]] llevaban ropa narbin antes de ser «descubiertos» por [[Gavilar Kholin\|Gavilar Kholin]] hacia 1165. La tela narbin podría utilizarse también en [[Alezkar\|Alezkar]], ya que [[Matain\|Matain]] fue capaz de identificarla fácilmente.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 13:43, 11 September 2018 (MST)

@@ -7,6 +7,7 @@ Los **Tamu Keks** son un tipo de hueso que puede ser utilizado para la comunicac
 
 ## Curiosidades
 Al escribir *[[El ritmo de la guerra\|El ritmo de la guerra]]*, Brandon se debatió entre hacer que la caja de comunicaciones que [[Mraize\|Mraize]] le dio a [[Shallan\|Shallan]] contuviera un seon o un Tamu Kek, pero con el tiempo se decantó por un seon porque tienen personalidad mientras que los Tamu Keks son sólo huesos.
+Los Tamu Keks tienen su origen en el libro *[[Dragonsteel Prime\|Dragonsteel Prime]]*.
 ## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.

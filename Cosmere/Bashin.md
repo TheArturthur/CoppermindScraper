@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Bashin** es un [[Alezi\|alezi]] [[Ojos oscuros\|ojos oscuros]] del primer [[Nahn\|nahn]] en [[Roshar\|Roshar]] y un veterano colaborador de [[Dalinar Kholin\|Dalinar Kholin]].
 
@@ -28,17 +29,17 @@
 
 
 ## Apariencia y personalidad
-Es un hombre bajo, corpulento y de panza particularmente notable, que viste con ropas ajadas y un chaquetón de cuero. Está orgulloso de su sombrero marrón, blando y de ala ancha, que consiguió cerca del [[Lagopuro\|Lagopuro]]. Durante más de veinte años siempre se lo ha visto usando un sombrero similar. Cuando Bashin se retira del servicio, le deja su sombrero a [[Felt\|Felt]], que lo lleva como recuerdo.
+Es un hombre bajo, corpulento y de panza particularmente notable, que viste con ropas ajadas como unos pantalones de soldado y normalmente con un chaquetón de cuero. Está especialmente orgulloso de su sombrero marrón, blando y de ala ancha, que consiguió cerca del [[Lagopuro\|Lagopuro]]. Durante más de veinte años siempre se lo ha visto usando un sombrero similar a pesar del hecho de que suele ser objeto de burla. Cuando Bashin se retira del servicio, le deja su sombrero a [[Felt\|Felt]], que lo lleva como recuerdo.
 Bromea con sus amigos, a menudo con cierta autocrítica, y normalmente es optimista. Se trata de una persona respetada y capaz de proporcionar información práctica cuando es necesario. Bashin parece ser alguien seguro e independiente, cosa que no se ajusta al estereotipo de un ojos oscuros. Dalinar se refiere a él como "tipo raro", ya que ha viajado más que la mayoría de los alezi y parece ansioso por seguir explorando Roshar. Al servicio del ejército Kholin, no lleva uniforme a pesar de la veneración que Dalinar profesa a los [[C%C3%B3digos de Guerra Alezi\|Códigos de Guerra Alezi]]. Además, y en almenos una ocasión, se dirige a Dalinar por su nombre (en lugar de "brillante señor").
 
 ## Atributos y habilidades
-Bashin ha desempeñado una amplia variedad de responsibilidades y algunas de perfil muy elevado, sobre todo para un ojos oscuros. Es muy conocido entre la familia Kholin y cuenta con la confianza de Dalinar. En el ejército Kholin inspira respeto a pesar de no lucir uniforme ni ostentar ningún rango destacado. Normalmente es competente, y aunque la cacería del abismoide acabó desastrosamente, estaba bien organizada y nada hace indicar que Bashin podría haber hecho algo para prevenir el ataque del abismoide.
-Ha viajado mucho y está familiarizado con las tierras y los pueblos rosharianos más allá de Alezkar. Posee conocimientos sobre el ciclo vital de los abismoides y sus hábitos de anidación y alimentación. También ha visto las formas [[Cantor\|cantoras]] conocidas antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], por lo que es capaz de reconocer inmediatamente a la forma tormenta como algo que no se ha visto con anterioridad.
+Bashin ha desempeñado una amplia variedad de responsibilidades y algunas de perfil muy elevado, sobre todo para un ojos oscuros. Es muy conocido entre la familia Kholin y cuenta con la confianza de Dalinar. En su juventud, pasó mucho tiempo bebiendo y apostando, pero esto era común entre los soldados alezi y, en última instancia, contribuyó a su camaradería con Dalinar y otros [[Ojos claros\|ojos claros]]. En el ejército Kholin inspira respeto a pesar de no lucir uniforme ni ostentar ningún rango destacado. Normalmente es competente, y aunque la cacería del abismoide acabó desastrosamente, estaba bien organizada y nada hace indicar que Bashin podría haber hecho algo para prevenir el ataque del abismoide.
+Ha viajado mucho y está familiarizado con las tierras y los pueblos rosharianos más allá de Alezkar. Posee conocimientos sobre el ciclo vital de los abismoides y sus hábitos de anidación y alimentación. También ha visto las formas [[Cantor\|cantoras]] conocidas antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], por lo que es capaz de reconocer inmediatamente a la [[Forma tormenta\|forma tormenta]] como algo que no se ha visto con anterioridad.
 
 ## Historia
 ### Amigo de Dalinar
 >“*Los ojos claros necesitan gente que los obedezca, ¿verdad? Pues yo me aseguro de que tengas mucho sirviéndote, por lo menos medido en peso.*”
-\-Bashin, después de que Dalinar se burle de su enorme barriga[2]
+\-Bashin, después de que Havar se burle de su enorme barriga[2]
 
 
 Bashin acompañó a [[Dalinar\|Dalinar]] a un salón de lucha libre, en [[Kholinar\|Kholinar]], la noche del nacimiento de [[Adolin\|Adolin]] en 1150. Dalinar parecía disfrutar de la compañía de Bashin y [[Havar\|Havar]], ya que lo trataban como un amigo y no como un alto príncipe. Con ellos, Dalinar bebió mucho y consumió [[Musgoardiente\|musgoardiente]] para mantener a raya a la [[La Emoci%C3%B3n\|Emoción]]. Bashin ganó una apuesta con Havar sobre uno de los combates, después de haberse apostado su sombrero.
@@ -46,13 +47,11 @@ Cuando Dalinar quiso reemplazar a un luchador enfermo, el que debía ser su pone
 Bashin estuvo presente en un encuentro con los [[Parshendi\|parshendi]] en algún momento del reinado del rey [[Gavilar\|Gavilar]].
 
 ### Cacería de abismoides
+>“*Oh, Condenación.*”
+\-Bashin, cuando un abismoide atacó[1]
+
 Durante la [[Guerra de la Venganza\|Guerra de la Venganza]], Bashin era el jefe de cacería de una cacería de [[Abismoide\|abismoides]] en las [[Llanuras Quebradas\|Llanuras Quebradas]], liderando un grupo que incluía a [[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], y [[Torol Sadeas\|Torol Sadeas]]. Él y sus compañeros se prepararon para la cacería, explorando los movimientos del abismoide y preparando una pequeña meseta para la lucha con el abismoide. Usaron un [[Chull\|chull]] para remolcar el cadáver de un cerdo, para colgarlo del bode de la meseta y que hiciera de cebo. También prepararon una meseta de observación, separada y con un pabellón y un puesto de refrigerios para que escribas, asistentes, invitados y soldados que acompañaban al rey y los altos príncipes pudieran observar la cacería cómodamente. Bashin se mostró optimista con que sería una buena caza ya que el abismoide que habían estado siguiendo era enorme.
 Bashin también se le encomendó la tarea de aconsejar a los nobles sobre la cacería, y se lo tomó muy en serio. Ante la aparición del abismoide, Bashin había ideado, como distracción adicional, añadir cerdos como cebo vivo, lo que permitiría al grupo de caza utilizar [[Granarco\|granarcos]] para debilitarlo. Bashin les dijo que apuntaran a las patas del abismoide. Les recordó que los abismoides tienden a ser más agresivos si no están incubando.
-
->“*Oh, Condenación.*”
-\-Bashin, cuando un abismoide ataca[1]
-
-
 El chull que arrastraba el cebo empezó a actuar de forma errática y el abismoide apareció antes de lo previsto. En lugar de atacar la meseta de caza, atacó la meseta de observación, donde se comió un chull e hirió a varias personas. Rápidamente, los [[Portador de esquirlada\|portadores de esquirlada]] respondieron y Elhokar consiguió matar al abismoide y reclamar su [[Gema coraz%C3%B3n\|gema corazón]].
 
 ### El asalto de Dalinar

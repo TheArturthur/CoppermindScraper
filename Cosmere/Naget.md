@@ -1,21 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Naget**|
 |-|-|
-|**Lugar de nacimiento**|[[Hearthstone\|Hearthstone]]|
+|**Lugar de nacimiento**|[[Piedralar\|Piedralar]]|
 |**Etnia**|[[De Alezkar\|de Alezkar]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Naget** is a resident of [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
+**Naget** es un habitante de [[Piedralar\|Piedralar]] en [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-He is [[Darkeyes\|darkeyed]] and has light hair. He is spindly, and is the tallest among his peers as a youth. [[Kaladin\|Kaladin]] cites 'Naget' as an example of a 'solid, Alethi darkeyes' name, unlike his own. Naget is quite curious about whether a darkeyed person can really become [[Lighteyes\|lighteyed]] by winning a [[Shardblade\|Shardblade]].
+## Apariencia y personalidad
+Es un [[Ojos oscuros\|ojos oscuros]] de pelo claro. Es larguirucho, y el más alto entre los jóvenes de su edad. [[Kaladin\|Kaladin]] cita a 'Naget' como ejemplo de 'recio nombre de ojos oscuros alezi', no como el suyo. Naget siente bastante curiosidad por saber si es verdad que un ojos oscuros puede convertirse en un [[Ojos claros\|ojos claros]] al ganar una [[Hoja esquirlada\|hoja esquirlada]].
 
-## History
-Naget comes from a farming family and was often tasked with removing [[Diggerworm\|diggerworms]] from the [[Lavis\|lavis]] fields near the town. He was among the group of youths who observed [[Kaladin\|Kaladin]] picking up a weapon for the first time to fight [[Jost\|Jost]].
-A few years later, he was present when [[Amaram\|Amaram]] came to Hearthstone to recruit soldiers for his army. He was no longer friendly with Kaladin at that point. He did not volunteer to join the army, and avoided conscription.
+## Historia
+Naget proviene de una familia de granjeros y normalmente se le asignaba la tarea de quitar los [[Gusano cavador\|gusanos cavadores]] del [[Lavis\|lavis]] de los campos de cerca del pueblo. Estaba entre el grupo de jóvenes que vieron a [[Kaladin\|Kaladin]] asiendo un arma por primera vez para pelearse con [[Jost\|Jost]].
+Unos años después, estuvo presente cuando [[Amaram\|Amaram]] visitó Piedralar para reclutar soldados para su ejército. Ya se llevaba bien con Kaladin para ese momento. No se ofreció como voluntario para alistarse, y evitó el enlistamiento.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 21:38, 20 August 2020 (UTC)

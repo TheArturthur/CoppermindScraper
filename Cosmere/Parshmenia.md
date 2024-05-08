@@ -13,68 +13,138 @@
 \-Song of Secrets, 40th Stanza[1]
 
 
-Los **cantores** son una especie sapiente en [[Roshar\|Roshar]], a los que los humanos llaman **parsh** o **parshmenios**. Uno de los grupos de cantores son los [[Oyente\|oyentes]].
-Los cantores se comunican a través de [[Ritmo\|ritmos]] especiales, de ahí su nombre. Pueden vincular a diferentes [[Spren\|spren]], los cuales cambian sus formas.
-Los cantores preceden a los humanos como habitantes de Roshar. Alrededor del momento de la [[Traici%C3%B3n\|Traición]], muchos de los cantores fueron despojados de su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]], piezas de sus almas arrancadas. Esto hizo a los cantores dóciles y serviciales, por lo que los humanos les llamaron parshmenios y los usaron como esclavos durante los siguientes milenios. Con la llegada de la [[Tormenta eterna\|Tormenta eterna]], estos cantores fueron sanados y restaurados.
+Los **cantores** son la especie sapiente más común y extendida en [[Roshar\|Roshar]]. Los alezi se refieren a ellos como **parsh'** o **parshmenios**. Son formas de vida nativas rosharianas caracterizadas por su bipedismo, caparazón, gran inteligencia, paradigma sexual tetramorfo y la presencia de una gema corazón que pueden utilizar para crear vínculos simbióticos con los spren, lo que tiene un impacto significativo tanto en su biología como en su cognición. Son animales altamente sociales capaces de formar estructuras sociales y civilizaciones complejas, con instituciones de gran complejidad que definen sus interacciones sociales.
+Descienden de los antiguos [[Cantores del alba\|cantores del alba]] que habitaron por primera vez la antigua Roshar antes de la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], apareciendo por primera vez tras su creación unos diez mil años antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. El nivel de similitud biológica que tienen con sus antepasados no está claro.
+Los cantores preceden a los humanos como habitantes de Roshar. Alrededor del momento de la [[Traici%C3%B3n\|Traición]], muchos de los cantores fueron despojados de su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]], piezas de sus almas arrancadas. Esto hizo a los cantores dóciles y serviciales, por lo que los humanos les llamaron parshmenios y los esclavizaron durante los siguientes milenios. Con la llegada de la [[Tormenta eterna\|Tormenta eterna]], estos cantores fueron sanados y restaurados.
 
 ## Sumario
 
-1 Biología y Apariencia. [[#Biolog.C3.ADa y Apariencia]] 
+1 Etimología y definición. [[#Etimolog.C3.ADa y definici.C3.B3n]] 
+2 Evolución. [[#Evoluci.C3.B3n]] 
+3 Biología y Apariencia. [[#Biolog.C3.ADa y Apariencia]] 
 
-1. [[#Sexos y reproducci.C3.B3n]] 
+3. [[#Envejecimiento y senectud]] 
+3. [[#Caparaz.C3.B3n]] 
+3. [[#Sistema circulatorio]] 
+3. [[#Endoesqueleto]] 
+3. [[#Epidermis y manchas epid.C3.A9rmicas]] 
+3. [[#Extremidades]] 
+3. [[#Gemas coraz.C3.B3n]] 
+3. [[#Altura]] 
+3. [[#Estructura de la mand.C3.ADbula y los molares]] 
+3. [[#Metabolismo y dieta]] 
+3. [[#Estructura Ocular]] 
+3. [[#Sexos y reproducci.C3.B3n]] 
 
-
-2 Formas. [[#Formas]] 
-
-2. [[#Formas comunes conocidas]] 
-
-2. [[#Forma gris]] 
-2. [[#Forma carnal]] 
-2. [[#Forma de guerra]] 
-2. [[#Forma de trabajo]] 
-2. [[#Forma diestra]] 
-2. [[#Forma de mediaci.C3.B3n]] 
-2. [[#Forma sabia]] 
-2. [[#Forma art.C3.ADstica]] 
-
-
-2. [[#Formas de poder]] 
-
-
-3 Forma esclava. [[#Forma esclava]] 
-
-3. [[#Explotaci.C3.B3n]] 
+3. [[#Cruce e introgresi.C3.B3n entre especies]] 
+3. [[#Tetramorfismo sexual]] 
 
 
-4 Ritmos. [[#Ritmos]] 
-5 Historia. [[#Historia]] 
-
-5. [[#Los Cantores del Alba]] 
-5. [[#Los Fusionados]] 
-5. [[#Los parsh]] 
-5. [[#Los oyentes]] 
-5. [[#Los nuevos cantores]] 
+3. [[#Aspectos espirituales]] 
 
 
-6 Grupos de cantores conocidos. [[#Grupos de cantores conocidos]] 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+4 Formas. [[#Formas]] 
 
+4. [[#Formas comunes conocidas]] 
+
+4. [[#Forma gris]] 
+4. [[#Forma carnal]] 
+4. [[#Forma de guerra]] 
+4. [[#Forma de trabajo]] 
+4. [[#Forma diestra]] 
+4. [[#Forma de mediaci.C3.B3n]] 
+4. [[#Forma sabia]] 
+4. [[#Forma art.C3.ADstica]] 
+
+
+4. [[#Formas de poder]] 
+
+
+5 Forma esclava. [[#Forma esclava]] 
+
+5. [[#Explotaci.C3.B3n]] 
+
+
+6 Ritmos. [[#Ritmos]] 
+7 Historia. [[#Historia]] 
+
+7. [[#Creaci.C3.B3n]] 
+7. [[#Los Cantores del Alba]] 
+7. [[#Los Fusionados]] 
+7. [[#Los parsh]] 
+7. [[#Los oyentes]] 
+7. [[#Los nuevos cantores]] 
+
+
+8 Grupos de cantores conocidos. [[#Grupos de cantores conocidos]] 
+9 Curiosidades. [[#Curiosidades]] 
+10 Notas. [[#Notas]] 
+
+
+## Etimología y definición
+*Cantor* y *oyente* son las traducciones de cómo se llaman a sí mismos los cantores en sus respectivas lenguas, [[Canto del alba\|canto del alba]] y *Oyente*, ambas de la familia lingüística alborea. *Cantor* técnicamente no se refiere a toda la especie, siendo el nombre de la especie actualmente desconocido. *Oyente* se refiere específicamente a los cantores que, en algún momento anterior a la [[Traici%C3%B3n\|Traición]], se apartaron de Odium y abandonaron sus formas [[Regio\|Regias]] y eligieron asentarse en las [[Llanuras Quebradas\|Llanuras Quebradas]].
+Etimológicamente, *Cantor* se refiere a su canto de los Ritmos de Roshar, y es probable que derive de *Cantor del Alba*.
+
+## Evolución
+Los cantores no evolucionaron de forma natural, sino que fueron creados intencionadamente por [[Adonalsium\|Adonalsium]] algún tiempo antes de su Fragmentación. Se desconoce en qué medida difieren los cantores modernos de sus antepasados.
+Fueron creados como parte esencial del ecosistema roshariano, aunque se desconoce el efecto que tuvieron. También fueron creados intencionadamente para poder reproducirse con los humanos.
 
 ## Biología y Apariencia
   Una mujeren cantora
-Los cantores son humanoides, pero no enteramente parecidos. El mayor signo aparente de su naturaleza alienígena es su piel; está cubierta de jaspas, remolinos de diferentes colores: rojo, negro o blanco. La mayoría de los cantores tienen piel bicolor, ya sea roja y negra o roja y blanca; las jaspas pueden aparecer de diferentes maneras, tanto como delicados remolinos, así como grandes patrones como barridos por el viento. También hay cantores cuyas pieles tienen los tres colores, pero son extremadamente raros. El blanqueamiento de los bordes es un signo de la edad. Su pelo es típicamente naranja o rojo, colores que no parecen ocurrir naturalmente en los humanos de Roshar. Hay una relación entre el color del pelo del cantor y sus colores individuales de jaspeado.
-Aparte de su piel multicolor, los cantores tiene otros rasgos que los diferencian de los humanos. Crecen más rápido que los humanos, pero tienen esperanzas de vida más cortas. En la cultura [[Oyente\|oyente]], [[Venli\|Venli]] empezó a aprender sobre cantar como una guardiana de las canciones a los tres años de edad y se le consideró adulta a los diez.
-Sus cuerpos generan un caparazón sobre algunas partes de ellos; dónde y cómo depende de en qué forma está el cantor en ese momento, pero típicamente cubre la cabeza y los brazos.
-Su dentadura es diferente de la humana; sus molares les permiten mascar caparazones, y su metabolismo está orientado hacia metabolizarlos, permitiéndoles aprovechar la fauna local. Sus ojos son también inhumanos: completamente negros, sin blanco en las esquinas ni un iris visible. Los cantores tienen la sangre naranja.
-Como muchas especies locales, los cantantes poseen [[Gema coraz%C3%B3n\|gemas corazón]], aunque las suyas son blancas nubladas, y están fusionadas a su esternón. Esas gemas corazón les permiten vincularse con [[Spren\|spren]], permitiéndoles cambiar sus **formas**, llevando a un cambio tanto físico como de algunas facultades mentales. Debido a sus gemas corazón, los cantantes no filtran [[Luces\|Luces]] como los humanos.
-Los cantores pueden beber crem sin caer enfermos.
-A pesar de estas diferencias, los cantores son como los humanos en muchos aspectos [[Reino Espiritual\|Espirituales]]. Como los humanos, pueden recibir bendiciones y maldiciones de la [[Vigilante Nocturna\|Vigilante Nocturna]]. También pueden vincular [[Spren\|spren]] para obtener poderes [[Caballeros Radiantes\|Radiantes]], aunque la mayoría de los spren son reacios a llevar a cabo este tipo de vínculo. Los cantores pueden ver la realidad del spren más de cerca que un humano. Tampoco sienten el frío tan fácilmente como los humanos.
+Los cantores son humanoides, pero no totalmente similares al *Homo sapiens*, ya que difieren en varios aspectos notables.
+Son bípedos y poseen un foramen magnum en la base del cráneo; también tienen un gran espacio intracraneal, comparable al del *Homo sapiens*. Esto, junto con un cerebro presumiblemente bien desarrollado, les confiere una gran capacidad cognitiva. No está claro si poseen una cresta supraorbital prominente. Tienen una protuberancia nasal muy similar a la de los humanos.
+Tienen mayor resistencia al frío que los humanos.
 
+### Envejecimiento y senectud
+Aparte de su piel policromática, los cantores tiene otros rasgos que los diferencian de los humanos. Crecen a un ritmo más rápido que los humanos, pero tienen una esperanza de vida media más corta. En la cultura [[Oyente\|oyente]], [[Venli\|Venli]] empezó a aprender sobre cantar como una guardiana de las canciones a los tres años de edad y se le consideró adulta a los diez.
+El blanqueamiento de su marmoleo epidérmico en los bordes es un signo de edad y senescencia. Además, los cantores ancianos pueden experimentar deterioro cognitivo, pérdida de memoria y dificultad para desarrollar nuevos recuerdos. La forma gris experimenta una rápida degradación de las facultades mentales a medida que se envejece, los niños cantores nacen con forma gris y no experimentan los trastornos cognitivos normales de la forma gris en los cantantes adultos. Hacia los siete u ocho años rosharianos, el deterioro cognitivo comienza a manifestarse, obligando a los jóvenes cantores a adoptar una forma diferente.
+
+### Caparazón
+Sus cuerpos tienen caparazones de color rojo anaranjado que crecen sobre varias partes de su cuerpo; dónde y cuánto depende de la forma que tenga el cantor en ese momento, pero normalmente cubren el cráneo y las extremidades superiores. El caparazón está sujeto al cuerpo por una serie de ligamentos azules, lo que sugiere la ausencia de epidermis bajo el caparazón.
+La cantidad de caparazón y dónde se forma depende de la forma del cantor, por ejemplo, en forma de guerra se manifiesta como una armadura que recubre todo el cuerpo; esta armadura está diseñada no sólo para ofrecer mayor protección al cantor, sino también para atrapar el aire y empujarlo hacia arriba para enfriarlo. Por otro lado, la forma diestra carece por completo de caparazón.
+
+### Sistema circulatorio
+Los cantores tienen sangre de color naranja. Poseen un corazón que bombea sangre a través de su cuerpo en un sistema circulatorio cerrado.{cite}}
+
+### Endoesqueleto
+Su endoesqueleto está formado por huesos de color rojo. Se sabe que poseen un esternón, que está fusionado con su gema corazón. Dentro del hueso hay una sustancia blanca parecida a la médula.
+
+### Epidermis y manchas epidérmicas
+El signo más evidente de su naturaleza no humana es la epidermis, que está cubierta de manchas, remolinos de varios colores: rojo, negro o blanco. La mayoría de los cantores tienen epidermis dicromáticas, rojinegras o rojiblancas; estos jaspeados pueden manifestarse de diversas maneras, tanto en forma de delicados remolinos como de grandes patrones barridos por el viento. Hay cantores cuya piel es tricromática, pero son extremadamente raros en relación con el fenotipo dicromático. El blanqueamiento del color en los bordes es un signo de edad y senectud. Su pelo suele ser anaranjado o rojo, colores que no parecen darse de forma natural en los humanos rosharianos, salvo en aquellos con una mezcla genética parcial con los cantores. Existe una relación entre el color del pelo de los cantores y el color de su marmoleado.
+
+### Extremidades
+Poseen cuatro extremidades, compuestas por dos superiores y dos inferiores. Sus extremidades superiores terminan en manos de cinco dedos, y sus extremidades inferiores terminan en pies de cinco dedos.
+
+### Gemas corazón
+Como muchas especies locales de la biosfera roshariana, los cantores poseen [[Gema coraz%C3%B3n\|gemas corazón]], aunque los suyos tienen una coloración blanca turbia, y están fusionados a su esternón y crecen en él. Estas gemas corazón les permiten vincularse con spren, lo que les deja cambiar sus **formas**, modificando su apariencia y algunas facultades mentales. Debido a sus gemas corazón, los cantores no pierden [[Luces\|luz]] como los humanos.
+La gema corazón se forma debido al funcionamiento químico interno del cuerpo, que utiliza los nutrientes y las sustancias químicas presentes en el crem para formarla.
+
+### Altura
+Debido a la gravedad relativamente baja de Roshar, son relativamente altos en comparación con los humanos de otros planetas, con una media de más de 1,83 metros. Su altura varía entre formas, con algunas como la forma de guerra más altas y más voluminosas que otras formas, y con la forma emisaria siendo incluso más alta que la forma de guerra y los humanos alezi. 
+
+### Estructura de la mandíbula y los molares
+Sus dientes están construidos de manera diferente a los dientes humanos; sus molares traseros les permiten masticar a través de caparazones, su fórmula dental es desconocida, pero es probable divergente de la fórmula dental del *homo sapiens*. Su capacidad para triturar caparazones se ve favorecida por una estructura mandibular divergente, con varios huesos no presentes en las mandíbulas humanas, situados cerca de la parte posterior de la estructura.
+
+### Metabolismo y dieta
+Su metabolismo está orientado a metabolizar los caparazones, que su estructura mandibular les ayuda a triturar, lo que les permite aprovechar mejor la fauna local.
+Los cantores pueden beber crem sin caer enfermos.
+
+### Estructura Ocular
+Tienen dos ojos situados en cavidades orbitales. Son diferentes a los ojos del *homo sapiens* - con escleróticas negras y sin iris visible, dándoles una apariencia completamente negra.
 
 ### Sexos y reproducción
-Los cantores poseen cuatro sexos diferentes; hombre y mujer, que son capaces de reproducirse, y sus variedades castradas, **hombren** y **mujeren**.  El sexo de los cantores cambia entre hombre y hombren, o mujer y mujeren, cuando cambian de formas; la gran mayoría de las formas son o mujeren u hombren. Como tal, la mayoría de los cantores son asexuales la gran mayoría del tiempo. Usualmente los cantores se identifican como uno de esos cuatro géneros, aunque algunos se identifican con un género no binario y la cultura cantora reconoce al menos un género no binario.
-A pesar de esas diferencias, los cantores y los humanos son capaces de cruzarse; los [[Herdaziano\|herdazianos]] y [[Unkalaki\|unkalakis]] son ejemplos destacados de etnias humanas con ascendencia cantora. Esta ascendencia es la fuente de las uñas pétreas de los herdazianos, al igual que la dentadura capaz de mascar caparazones y el cabello rojo de los unkalakis. Como resultado de sus ancestros cantores, los herdazianos y unkalakis también son más propensos a identificarse como asexuales. Se desconoce si actualmente hay personas con ascendencia tanto humana como cantora que se identifiquen como cantores.
+Los cantores poseen cuatro sexos diferentes; hombre y mujer, que son capaces de reproducirse, y sus variedades castradas, **hombren** y **mujeren**.  El sexo de los cantores cambia entre hombre y hombren, o mujer y mujeren, cuando cambian de formas; la gran mayoría de las formas son o mujeren u hombren. Como tal, la mayoría de los cantores son asexuales la gran mayoría del tiempo. Usualmente los cantores se identifican como uno de esos cuatro géneros, aunque algunos se identifican con un género no cuaternario y la cultura cantora reconoce al menos un género no cuaternnario.
+Los cantores no pueden cambiar entre macho y hembra u hombren y mujeren por medios biológicos, aunque es posible hacerlo por medios Investidos. Su sistema de determinación del sexo es desconocido, y a raíz de la incapacidad de cambiar entre macho y hembra, en última instancia, decide entre dos sexos, a pesar de su tetramorfismo.
+
+#### Cruce e introgresión entre especies
+A pesar de estas diferencias genotípicas y fenotípicas, cantores y humanos son capaces de cruzarse; los herdazianos y los unkalakis son ejemplos notables de etnias humanas con ancestros cantores, aunque experimentaron un alto grado de introgresión. Esta ascendencia es el origen de las uñas de piedra de los herdazianos, así como de los dientes masticadores de caparazones y el pelo pelirrojo de los unkalakis. Como resultado de su ascendencia cantora, los herdazianos y los unkalakis también son más propensos a identificarse como asexuales. Se desconoce si actualmente hay personas con ascendencia humana y cantora que se identifiquen como cantores.
+No comparten un ancestro común, aunque pueden cruzarse debido a la similar Intención que hay detrás de su creación.
+
+#### Tetramorfismo sexual
+El tetramorfismo sexual es mínimo en las formas asexuales, lo suficiente como para que sea fácil identificar erróneamente el sexo de un cantor. La presencia de vello facial en cantores masculinos y mujeresen es una marca de dimorfismo sexual presente en formas hombren y mujeren. Las mujeres, especialmente las de forma carnal, tienen pechos prominentes que son menos notables en las de forma femenina.
+
+### Aspectos espirituales
+A pesar de estas diferencias biológicas, los cantores son como los humanos en muchos aspectos [[Reino Espiritual\|Espirituales]]. Como los humanos, pueden recibir bendiciones y maldiciones de la [[Vigilante Nocturna\|Vigilante Nocturna]]. También pueden vincular a [[Spren\|spren]] para obtener poderes [[Caballeros Radiantes\|Radiantes]], aunque la mayoría de los spren no están dispuestos a establecer este tipo de vínculo. Los cantores pueden ver la realidad de los spren más de cerca que un humano.
 
 ## Formas
   Una mujeren cantora
@@ -85,12 +155,12 @@ La [[Hemalurgia\|Hemalurgia]] podría ser usada para replicar la transformación
 Los [[Oyente\|oyentes]] recontaron muchas formas comunes en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]]; también tienen canciones que hablan de [[Regio\|formas de poder]]: la [[Canci%C3%B3n de los secretos\|Canción de los secretos]] y la [[Canci%C3%B3n de los vientos\|Canción de los vientos]].
 
 ### Formas comunes conocidas
-Estas formas se mencionan en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]] oyente. Tras la [[Traici%C3%B3n\|Traición]] y antes de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], cuando los únicos cantores que podían pensar eran los [[Oyente\|oyentes]], éstos solo descubrieron cinco formas: forma gris, forma carnal, forma de guerra, forma de trabajo, y la forma diestra. Cuando la [[Tormenta eterna\|Tormenta eterna]] llegó y curó a los otros cantores, éstos tenían estas formas y otras formas comunes que los oyentes no podían reproducir, como la forma artística y la forma sabia, y tenían una "docena" de opciones.
+Estas formas se mencionan en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]] oyente. Tras la [[Traici%C3%B3n\|Traición]] y antes de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], cuando los únicos cantores que podían pensar claramente eran los [[Oyente\|oyentes]], éstos solo descubrieron cinco formas: forma gris, forma carnal, forma de guerra, forma de trabajo, y la forma diestra. Cuando la [[Tormenta eterna\|Tormenta eterna]] llegó y curó a los otros cantores, éstos tenían estas formas y otras formas comunes que los oyentes no podían reproducir, como la forma artística y la forma sabia, y tenían una "docena" de opciones.
 
 #### Forma gris
  
 >“* Dullform dread, with the mind most lost.The lowest, and one not bright.To find this form, one needs banish cost.It finds you and brings you to blight.*”
-\- final stanza of the Song of Listing[47]
+\- final stanza of the Song of Listing[63]
 
 
 La forma gris ocurre cuando un cantor vincula a un [[Spren\|spren]] incorrecto, o un spren que no otorga ninguna otra forma. Es físicamente similar a la "forma esclava" de los parhsmenios, hasta el punto de que un cantor en forma gris puede pasar fácilemente por uno. También es mentalmente limitante; aquéllos en forma gris encuentran difícil pensar, como si estuvieran medio dormidos, y les cuesta más escuchar los [[Ritmo\|ritmos]].
@@ -102,7 +172,7 @@ Los niños cantores nacen con la forma gris, aunque para ellos, es más vibrante
 #### Forma carnal
  
 >“* Mateform meek, for love to share,Given to life, it brings us joy.To find this form, one must care.True empathy, one must employ.*”
-\- 5th stanza of the Song of Listing[49]
+\- 5th stanza of the Song of Listing[64]
 
 
 La forma carnal la usan los cantores para reproducirse; aunque las otras formas son capaces de tener descendencia, la forma carnal es la que más se especializa para ese propósito. En mujeres cantoras, entrar en la forma carnal aumenta el tamaño de sus pechos; se desconoce el efecto físico que tiene en hombres cantores. Mentalmente, la forma carnal provoca un comportamiento irresponsable de los cantores, así como una distracción en favor del objetivo primario de la forma; las formas carnales a veces ignoran sus tareas asignadas, o hacen cosas que están expresamente prohibidas, sin darse cuenta del problema que supone. Sin embargo, algunos cantores son capaces de contenerse mientras están en forma carnal, aunque esto conlleva una disciplina mental fuerte. Los cantores en forma carnal están vinculados a [[/wiki/Spren#Vidaspren]].
@@ -113,7 +183,7 @@ Fue una de las formas originales que la [[%C3%9Altima Legi%C3%B3n\|Última Legi�
 #### Forma de guerra
  
 >“* Warform is worn for battle and reign,Claimed by the gods, given to kill.Unknown, unseen, but vital to gain.It comes to those with the will.*”
-\- 15th stanza of the Song of Listing[50]
+\- 15th stanza of the Song of Listing[65]
 
 
 
@@ -124,7 +194,7 @@ Los primeros oyentes en conseguir la forma de guerra escucharon el tono puro de 
 #### Forma de trabajo
  
 >“* Workform worn for strength and care.Whispering spren breathe at your ear.Seek first this form, its mysteries to bear.Found here is freedom from fear.*”
-\- 19th stanza of the Song of Listing[53]
+\- 19th stanza of the Song of Listing[67]
 
 
 La forma de trabajo dota de un aumento de fuerza, aunque le falta la armadura; los cantores con esta forma son más bien ágiles y fuertes. Es más adecuada para la mano de obra, y la mayoría de los trabajadores la usan; sin embargo, a veces se usa para pelear. Los cantores en esta forma tienen caparazón en forma de crestas a lo largo de la parte trasera de la mano, y carecen de él en el resto del cuerpo. También son bastante resistentes al frío. En este forma, los cantores son más obedientes, y tienen más dificultad para cometer actos violentos, forzándoles a encontrar soluciones pacíficas a diferentes problemas. También se le considera más flexible que la forma de guerra. Los cantores en forma de trabajo están vinculados a [[/wiki/Spren#Gravitacionspren]].
@@ -134,7 +204,7 @@ Los primeros oyentes que consiguieron esta forma escucharon el tono puro de Cult
 #### Forma diestra
  
 >“* Nimbleform has a delicate touch.Gave the gods this form to many,Tho' once defied, by the gods they were crushed.This form craves precision and plenty.*”
-\- 27th stanza of the Song of Listing[57]
+\- 27th stanza of the Song of Listing[70]
 
 
 La forma diestra es una forma general sin ninguna función singular; es más bien útil para todo trabajo que requiera destreza y cuidado. Por esta razón, los oyentes la usan para trabajos como la investigación, el arte, y educar a los hijos. No tiene caparazón, y tiene menos resistencia que otras formas; los cantores en esta forma son más débiles físicamente, les crece pelo más largo, y tienen rasgos faciales más delgados, más finos. No obstruye la mente, y de hecho aumenta la concentración.
@@ -143,25 +213,25 @@ Esta forma fue redescubierta por los cantores durante la [[Guerra de la Venganza
 
 #### Forma de mediación
 >“* Mediationform made for peace, it's said.Form of teaching and consolation.When used by the gods, it became insteadForm of lies and desolation.*”
-\- 33rd stanza of the Song of Listing[59]
+\- 33rd stanza of the Song of Listing[72]
 
 
 Se sabe poco de la forma de mediación; parece dotar de capacidades de habla mejoradas, o de una mejor habilidad para convencer o dar información a otros. Los cantores en esta forma tienen caparazones bonitos y suaves, y rostros descubiertos. La investigadora líder de los oyentes, [[Venli\|Venli]], dice haber estado buscándola durante la [[Guerra de la Venganza\|Guerra de la Venganza]], pero en realidad, nunca intentó redescubrir la forma de mediación verdaderamente, buscando la forma tormenta en su lugar.
 
 #### Forma sabia
 >“* Scholarform shown for patience and thought.Beware its ambitions innate.Though study and diligence bring the reward,Loss of innocence may be one's fate.*”
-\- 69th stanza of the Song of Listing[61]
+\- 69th stanza of the Song of Listing[74]
 
 
 Aunque está presenta en la [[Canci%C3%B3n de las clasificaciones\|Canción de las clasificaciones]], la forma sabia solo ha sido reclamada durante la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]]; durante la [[Guerra de la Venganza\|Guerra de la Venganza]], los oyentes usaban la forma diestra como substituta. Parece incrementar la paciencia y facultades mentales. Físicamente, produce largos mechones de pelo y rasgos angulares.
 
 #### Forma artística
 >“* Artform applied for beauty and hue.One yearns for the songs it creates.Most misunderstood by the artist it's true,Come the spren to foundation's fates.*”
-\-90th stanza of the Song of Listing[62]
+\-90th stanza of the Song of Listing[75]
 
 
 >“* Artform for colors beyond our ken;For its grand songs we yearn.We must attract creationspren;These songs suffice 'til we learn.*”
-\-279th stanza of the Song of Revision[63]
+\-279th stanza of the Song of Revision[76]
 
 
 La forma artística se forma vinculando un [[Creacionspren\|creacionspren]]; como implica su nombre, se especializa en la expresión artística, como la pintura o la música. Venli dice haber estado investigando esta forma, aunque seguramente sea mentira. No fue descubierta durante la [[Guerra de la Venganza\|Guerra de la Venganza]], sino que volvió a los cantores a través de la [[Tormenta eterna\|Tormenta eterna]].
@@ -169,7 +239,7 @@ La forma artística se forma vinculando un [[Creacionspren\|creacionspren]]; com
 ### Formas de poder
   Un cantor en <<Forma tormenta\|forma tormenta>>
 >“*Qualify yourselves for greater service, and you will be elevated to the place of a Regal, given a form of power.*”
-\-Fused propaganda[54]
+\-Fused propaganda[68]
 
 
 Las formas de poder se consiguen vinculando a [[Vac%C3%ADospren\|vacíospren]], no a spren ordinarios. En el ejército de Odium, a estos cantores se les llama [[Regio\|Regios]]. Contrastando a las formas comunes, las formas de poder dotan de habilidades explícitamente sobrenaturales, como la capacidad de lanzar rayos desde los dedos o hablar cualquier idioma del mundo. Pueden alterar drásticamente la manera en la que piensa uno, haciéndolo más egoísta y monstruoso, y se pueden sentir tóxicas. Permiten a los cantores escuchar y usar nuevos ritmos, pero hacen extremadamente difícil escuchar los antiguos.
@@ -179,7 +249,7 @@ Las formas de poder incluyen, entre otras, la [[Forma tormenta\|forma tormenta]]
 ## Forma esclava
   Un criado parshmenio
 >“*They may have taken your freedom, but they took our **minds**.*”
-\-Sah to Kaladin on their respective forms of slavery[8]
+\-Sah to Kaladin on their respective forms of slavery[9]
 
 
 El término **forma esclava** es como los oyentes describen a los cantores sin ningún vínculo [[Spren\|spren]], que no tienen forma, y capacidad mental vastamente limitada; los humanos se refieren a estos cantores como los **parshmenios**. Se parece visualmente a la forma gris, suficiente para que los humanos las confundan. La forma esclava no existía hasta después de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]]. Se creó cuando [[Melishi\|Melishi]] dirigió un equipo de asalto para capturar a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], quien proveía a los cantores de sus formas [[Regio\|Regias]]. Aunque triunfaron, tuvo el efecto involuntario de robarle a los cantores [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]], creando así la forma esclava.
@@ -197,12 +267,15 @@ Los cantores hablan y cantan a los ritmos; pueden llevar las emociones, así com
 Los [[Aplacador\|aplacadores]] pueden afectar los ritmos cantores y podrían desalentar la influencia de Odium. Los cantores con la Tercera [[Elevaci%C3%B3n\|Elevación]] podrían cantar los tonos puros de otros planetas que no sean Roshar, y potencialmente podría hacerse antes de la Tercera Elevación.
 
 ## Historia
+### Creación
+Los cantores son anteriores a la llegada de los humanos a Roshar, habiendo sido creados por Adonalsium como parte del ecosistema natural del planeta.
+
 ### Los Cantores del Alba
 >“*Our pity destroyed us.*”
 \-From the Eila Stele[6]
 
 
-Los cantores preceden la llegada de los humanos a Roshar, habiendo sido creados como parte del ecosistema natural del planeta. Tras la [[Expulsi%C3%B3n\|Expulsión]], en la que la humanidad accidentalmente destruyó su mundo natal, [[Ashyn\|Ashyn]], los cantores fueron ordenados por sus dioses [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] a ayudar a los refugiados humanos que llegaron a su planeta. Estos antiguos cantores se conocían como los Cantores del Alba. Inicialmente, las dos especies interactuaron pacíficamente, con algunos cantores y humanos entremezclándose, creando a los [[Herdaziano\|herdazianos]] y a los [[Unkalaki\|unkalaki]].
+Tras la [[Expulsi%C3%B3n\|Expulsión]], en la que la humanidad accidentalmente destruyó su mundo natal, [[Ashyn\|Ashyn]], los cantores fueron ordenados por sus dioses [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] a ayudar a los refugiados humanos que llegaron a su planeta. Estos antiguos cantores se conocían como los Cantores del Alba. Inicialmente, las dos especies interactuaron pacíficamente, con algunos cantores y humanos entremezclándose, creando a los [[Herdaziano\|herdazianos]] y a los [[Unkalaki\|unkalaki]].
 Sin embargo, la llegada de la humanidad también trajo a [[Odium\|Odium]], y el conflicto pronto comenzó. Los humanos, que originalmente se les concedió solo la tierra de [[Shinovar\|Shinovar]], buscaron expandirse, causando el conflicto que finalmente se conocería como la [[Primera Desolaci%C3%B3n\|Primera Desolación]]. Durante ese tiempo, los cantores comenzaron a llamar a los humanos como "Portadores del Vacío", ya que los humanos no podían escuchar los ritmos. En ese conflicto, los [[Spren\|spren]] finalmente se aliaron con los humanos, llevando un sentimiento de profunda traición a los cantores. Parece que los cantores hicieron algo que causó a los spren a girarse contra ellos.
 
 ### Los Fusionados
@@ -225,11 +298,11 @@ Estos cantores sin forma ("formas esclavas" para los oyentes, y **parshmenios** 
 Para más información, ver [[Oyente\|Oyente]].
   Un ejército <<Oyente\|oyente>>
 Los oyentes vivieron en las [[Llanuras Quebradas\|Llanuras Quebradas]] durante los siguientes milenios, formando un número de tribus que se establecieron en los cráteres alrededor del borde occidental de las Llanuras. Finalmente, contactaron con los Alezi y, a través de esfuerzos diplomáticos, forjaron un tratado. Sin embargo, en la noche en la que el tratado iba a firmarse, la oyente [[Eshonai\|Eshonai]] supo de los planes del Rey [[Gavilar\|Gavilar]] sobre el retorno de los "dioses oyentes" (los Fusionados) a Roshar. Temiendo las consecuencias, los oyentes organizaron el asesinato de Gavilar. Como resultado, fueron forzados a huir, abandonando sus hogares por la distante meseta de [[Narak\|Narak]] al llegar los humanos para exigir venganza. Así dio comienzo la [[Guerra de la Venganza\|Guerra de la Venganza]].
-Tras seis años de guerra, los oyentes, manipulados por los [[Vac%C3%ADospren\|vacíospren]], recuperaron la forma tormenta, una de las formas [[Regio\|Regias]]. Espoleados por su estado mental, planearon la invocación de la [[Tormenta eterna\|Tormenta eterna]], teniendo éxito durante la [[Batalla de Narak\|batalla de Narak]]. A medida que pasaba sobre Roshar, la Tormenta eterna iba restaurando a los parshmenios, curando su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]].
+Tras seis años de guerra, los oyentes, manipulados por uno de los [[Vac%C3%ADospren\|vacíospren]], recuperaron la forma tormenta, una de las formas de poder. Espoleados por su estado mental, planearon la invocación de la [[Tormenta eterna\|Tormenta eterna]], teniendo éxito durante la [[Batalla de Narak\|batalla de Narak]]. A medida que pasaba sobre Roshar, la Tormenta eterna iba restaurando a los parshmenios, curando su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]].
 
 ### Los nuevos cantores
 >“*Can't we simply enjoy being able to **think**? Being able to **exist**?*”
-\-Vldgen[90]
+\-Vldgen[102]
 
 
 Los nuevos oyentes restaurados aparentemente asumieron formas aleatorias. Sus actitudes eran similares a las de los humanos con los que habían pasado toda su vida: los oyentes [[Alezi\|alezi]] eran airosos y belicosos, los [[Azishiano\|azishianos]] querían negociar con los gobernadores, y los [[Thayle%C3%B1o\|thayleños]] robaron barcos y navegaron lejos. La mayoría, sin embargo, fueron rápidamente reclutados por los [[Fusionado\|Fusionados]], quienes habían retornado y buscaban crear nuevos ejércitos con los que conquistar Roshar.

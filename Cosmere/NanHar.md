@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**NanHar**|
 |-|-|
 |**Familia**|
@@ -7,11 +10,11 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**NanHar** was an ancient king of [[Jah Keved\|Jah Keved]].
-He died from an illness while on campaign in what would later become [[Triax\|Triax]], and his brother [[NanKhet\|NanKhet]] inherited his throne.
-NanHar is written of in a history by [[Natata Ved\|Natata Ved]] two centuries after NanKhet's death.
+**NanHar** fue un antiguo rey de [[Jah Keved\|Jah Keved]].
+Murió de una enfermedad durante una campaña en lo que más tarde se convertiría en [[Triax\|Triax]], y su hermano [[NanKhet\|NanKhet]] heredó su trono.
+NanHar aparece en una historia de [[Natata Ved\|Natata Ved]] dos siglos después de la muerte de NanKhet.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 11:46, 1 April 2019 (MST)

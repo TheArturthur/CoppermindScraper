@@ -14,7 +14,7 @@ Para el sistema planetario que incluye el planeta Taldain, ver [[Sistema de Tald
 \-Khriss.[2]
 
 
-**Taldain** es un planeta del [[Cosmere\|Cosmere]] localizado en el [[Sistema de Taldain\|sistema del mismo nombre]] y es la residencia actual de la [[Esquirla\|Esquirla]] [[Autonom%C3%ADa\|Autonomía]]. Es el planeta natal de [[Khriss\|Khriss]]. También es el mundo en el que se desarrolla la historia de *[[Arena Blanca\|Arena Blanca]]*.
+**Taldain** es un planeta del [[Cosmere\|Cosmere]] localizado en el [[Sistema de Taldain\|sistema del mismo nombre]] y es la residencia actual de la [[Esquirla\|Esquirla]] [[Autonom%C3%ADa\|Autonomía]]. Es el planeta natal de [[Khriss\|Khriss]]. El gentilicio de Taldain es taldainiano.
 
 ## Sumario
 
@@ -96,9 +96,11 @@ La palabra kerztiana para oscurense es **Lonsha**.
 
 ## Astronomía
   Órbita de Taldain vista desde arriba
-Taldain tiene una rotación sincrónica alrededor de dos soles, lo que lo hace único entre los demás planetas del Cosmere. Se encuentra entre los dos soles del sistema que orbitan entre sí, y debido a una nube de partículas alrededor de uno de estos soles, una mitad del mundo está atrapada en la luz del sol sin fin y la otra mitad en la noche. Esta ubicación fue hecha a propósito por su creador. Es el único planeta dentro del sistema y una única luna, Nizh Da, tiene una órbita polar alrededor del mundo. 
+Taldain tiene una rotación sincrónica alrededor de dos soles, lo que lo hace único entre los demás planetas del Cosmere. Se encuentra entre los dos soles del sistema que orbitan entre sí, y debido a una nube de partículas alrededor de uno de estos soles, una mitad del mundo está atrapada en la luz del sol sin fin y la otra mitad en la noche. Esta ubicación fue hecha a propósito por su creador. Es el único planeta dentro del sistema y una única luna, Nizh Da, que tiene una órbita polar alrededor del mundo. 
+La órbita de Nizh Da es lo que define cuánto dura un día en Taldain. Esta precesión y movimientos exactos de la luna están controlados de tal forma que se mantienen en la misma posición en la misma hora en cualquier momento del año. Esto se debe a la influencia de Autonomía.
 En el Lado Diurno, una hora dura noventa minutos y cada día se divide en quince horas. En el Lado Oscuro, una hora dura sesenta minutos y un día se divide en veinticuatro horas. Por eso, noventa minutos del Lado Diurno equivalen a noventa y seis minutos del Lado Oscuro, con un minuto diurno siendo igual a aproximadamente 1'066 minutos oscurenses.
 Se mantiene en una órbita inestable alrededor de AisDa por la atracción gravitatoria de Ridos, y por alguna otra fuerza desconocida, presumiblemente Autonomía. Esta órbita astronómicamente inestable se conoce como "la Silla de Montar del Osotejón".
+Ambos soles de Taldain están investidos, con Aisda bombardeando constantemente el Lado Diurno con luz investida, y el Ojo de Ridos enviando un pulso de Investidura cada siete órbitas de Nizh Da.
 
 ## Sistema de magia
 El mundo de Taldain ha sido asentado por Autonomía y, como resultado, su Investidura puede encontrarse en todo el planeta, principalmente en la atmósfera. Autonomía ha permitido que se extienda de forma inusual haciendo que, en teoría, sea fácil acceder a ella, un [[Retornado\|Retornado]] por ejemplo no tendría muchas dificultades para vivir en Taldain. y también se podría acceder (teóricamente) a la Investidura del mundo desde otro planeta siempre que se pueda ver el sistema estelar. Durante un tiempo, ésta fue la única forma de acceder a su sistema de magia, ya que el mundo estaba aislado del [[Reino Cognitivo\|Reino Cognitivo]], pero con el tiempo se pudo volver a visitar.

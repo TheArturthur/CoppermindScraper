@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Naladan**|
 |-|-|
-|**Oficio**|Naturalist|
+|**Oficio**|Naturalista|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Naladan** was a naturalist on [[Roshar\|Roshar]].
-She spent most of her life chasing [[Santhid\|santhidyn]], but failed to get a good look at any them.
+**Naladan** era una naturalista en [[Roshar\|Roshar]].
+Pasó la mayor parte de su vida persiguiendo [[Santhid\|santhidyn]], pero no consiguió ver bien a ninguno.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 17:45, 25 December 2016 (MST)

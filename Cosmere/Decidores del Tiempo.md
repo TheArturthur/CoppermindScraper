@@ -6,13 +6,12 @@
 |**Mundo de origen**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 Los **Decidores del Tiempo** son un movimiento político de [[Scadrial\|Scadrial]].
 Reclaman neutralidad en conflictos interplanetarios. Está compuesto por científicos que desean entender los misterios del cosmere. [[Zellion\|Zellion]] sospecha que en secreto son una rama del ejército scadriano que trabaja para desarrollar tecnología con el fin de mantenerse por delante en la acelerada carrera armamentística interplanetaria.
 Los Decidores del Tiempo llevan pequeños adornos metálicos triangulares decorados con esmalte rojo en los lados de sus caras.
 
 ## Historia
+Los Decidores del Tiempo probablemente se desarrollaron en algún momento después de 348 [[Catacendro\|PC]].
 Un grupo de Decidores del Tiempo aterrizó en [[C%C3%A1ntico\|Cántico]] con el fin de estudiar su sol y el núcleo planetario, y cómo interactúan entre sí.
 
 ## Descubrimientos

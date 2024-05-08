@@ -20,7 +20,7 @@
 \-Hoid describiendo a Trenza.[1]
 
 
-**Glorf**, más conocida como **Trenza**, es una chica de dieciocho años que es la capitana y [[Germinador\|germinadora]] del *[[Dos tazas\|Dos tazas]]* en [[Lumar\|Lumar]]. Nació en una isla del [[Mar Esmeralda\|mar Esmeralda]] llamada [[Punta de Diggen\|Punta de Diggen]], donde vivió hasta que se marchó para rescatar a [[Charlie\|Charlie]] de la [[Hechicera\|hechicera]].
+**Trenza**, que recibió el nombre de **Glorf** al nacer, es una chica de dieciocho años que es la capitana y [[Germinador\|germinadora]] del *[[Dos tazas\|Dos tazas]]* en [[Lumar\|Lumar]]. Se la conoce como **Trenza** por su pelo rebelde.Nació en una isla del [[Mar Esmeralda\|mar Esmeralda]] llamada [[Punta de Diggen\|Punta de Diggen]], donde vivió hasta que se marchó para rescatar a [[Charlie\|Charlie]] de la [[Hechicera\|hechicera]].
 
 ## Sumario
 

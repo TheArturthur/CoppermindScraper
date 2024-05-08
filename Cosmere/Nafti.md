@@ -1,30 +1,33 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nafti**|
 |-|-|
 |**Nacionalidad**|[[Uvara\|uvara]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Nafti** was one of the [[Uvara\|Uvara]], a legendary society on [[Roshar\|Roshar]].
+**Nafti** era una de los [[Uvara\|uvara]], un pueblo legendario de [[Roshar\|Roshar]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 History. [[#History]] 
-3 Historicity. [[#Historicity]] 
-4 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Historicidad. [[#Historicidad]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-The Uvara are noted as having "long, limber bodies". They wear shells in their hair that are not found elsewhere on Roshar, and monochrome robes.
+## Apariencia y personalidad
+Los uvara se caracterizan por tener "largos cuerpos flexibles". Llevan conchas en el pelo que no se pueden encontrar en ningún otro sitio de Roshar y ropas de un solo color.
 
-## History
-[[Hoid\|Hoid]] related the story of a ship named the **, captained by King [[Derethil\|Derethil]], to [[Kaladin\|Kaladin]]. The ship attempted to sail through a [[Highstorm\|highstorm]] on the open seas and was wrecked on the uncharted islands of the Uvara. The Uvara initially seemed like a peaceful people, but Derethil soon realized that they violently killed each other if they made any kind of mistake, in fear of displeasing their emperor.
-Derethil and his crew discovered that the emperor had actually been dead for years, throwing the Uvara into chaos and rioting. Nafti, who had been serving as a guide to Derethil's crew, left the islands on the *Wandersail*. She explained that the reason the Uvara were in such anguish was that they had realized that they alone were responsible for all the death and violence.
+## Historia
+[[Hoid\|Hoid]] cuetna la historia de un navío llamado el *[[Vela Errante\|Vela Errante]]*, capitaneado por el rey [[Derethil\|Derethil]], a [[Kaladin\|Kaladin]]. El barco intentó navegar a través de una [[Alta tormenta\|alta tormenta]] en mar abierto y acabó encallado en las inexploradas islas de los uvara. Al inico, los uvara parecían un pueblo pacífico, pero Derethil pronto se dio cuenta que se mataban brutalmente unos a otros si habían cometido algún tipo de fallo, por miedo a disgustar a su emperador.
+Derethil y su tripulación descubrieron que el emperador había muerto realmente hacía años, lo que causó que el pueblo uvara se sumiera en el caos y se alborotase. Nafti, que había sido la guía de la tripulación Derethil, abandonó las islas en el *Vela Errante*. Les explicó que la razón por la que los uvara sentían tanta angustia era porque se habían percatado de que eran responsables de toda la muerte y violencia.
 
-## Historicity
-The tale of the *Wandersail* is known in several nations of Roshar, but some regard it only as a myth. Hoid answers cryptically when Kaladin questions the story's authenticity. At the same time, there may be elements of truth to the story.
+## Historicidad
+El relato del *Vela Errante* se conoce en varias naciones de Roshar, pero muchos lo consideran un simple mito. Hoid responde crípticamente cuando Kaldin cuestiona la autenticidad de la historia. Sin embargo, puede haber ciertos elementos verdaderos en la historia.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 16:23, 22 March 2019 (MST)

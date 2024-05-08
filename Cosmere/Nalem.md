@@ -1,14 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nalem**|
 |-|-|
-|**Oficio**|Sergeant in Ejército de Amaram's|
-|**Grupo**|Ejército de Amaram's|
+|**Oficio**|Sargento en Ejército de Amaram|
+|**Grupo**|Ejército de Amaram|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Nalem** is one of [[Gare\|Gare]]'s sergeants in [[Amaram\|Amaram]]'s army on [[Roshar\|Roshar]].
-He is present in the battle where [[Kaladin\|Kaladin]] kills a [[Helaran Davar\|Veden Shardbearer]].
+**Nalem** es uno de los sargentos de [[Gare\|Gare]] en el ejército de [[Amaram\|Amaram]] en [[Roshar\|Roshar]].
+Está presente en la batalla en la que [[Kaladin\|Kaladin]] mata a un [[Helaran Davar\|portador de esquirlada veden]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 14:12, 25 December 2016 (MST)

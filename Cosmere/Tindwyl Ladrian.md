@@ -3,10 +3,10 @@
 |**Tindwyl Ladrian**|
 |-|-|
 |**[[Casa Ladrian\|Casa Ladrian]]**|
-|**Padres**|[[Steris Harms\|Steris Harms]] y [[Waxillium Ladrian\|Waxillium Ladrian]]|
-|**Hermanos**|[[Maxillium Ladrian\|Maxillium Ladrian]]|
+|**Padres**|[[Steris\|Steris]] y [[Waxillium\|Waxillium]]|
+|**Hermanos**|[[Maxillium\|Maxillium]]|
 |**Parientes**|[[Marasi Colms\|Marasi]], [[Edwarn Ladrian\|Edwarn]], [[Telsin Ladrian\|Telsin]], [[Hinston\|Hinston]], [[Armal\|Armal]]|
-|**Ancestros**|[[Ashweather Cett\|Ashweather Cett]], [[Madre de Allrianne\|madre de Allrianne]], [[Edgard Ladrian\|Edgard Ladrian]], [[Allrianne Cett\|Allrianne Cett]], [[Jackstom Harms\|Jackstom Harms]], [[Vwafendal\|Vwafendal]], [[Fantasma\|Fantasma]]|
+|**Ancestros**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|madre de Allrianne]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Jackstom Harms\|Jackstom]], [[Vwafendal\|Vwafendal]], [[Fantasma\|Fantasma]]|
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|

@@ -7,13 +7,13 @@
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
->“*The story mentions the Desolations at the beginning. Giving them credit for having wiped out Parasaphi's people.*”
+>“*La historia menciona las Desolaciones al principio. Las acusa de haber aniquilado al pueblo de Parasaphi.*”
 \-Navani sobre el mito[1]
 
 El **mito de Parasaphi y Nadris** es el mito de creación del pueblo [[Makabak\|makabaki]] de [[Roshar\|Roshar]]. [[Navani Kholin\|Navani Kholin]] y [[Renarin Kholin\|Renarin Kholin]] hablan de él mientras intentan entender las [[Visiones de Dalinar\|visiones de Dalinar]] y las [[Desolaci%C3%B3n\|Desolaciones]]. [[Evi Kholin\|Evi Kholin]] le narró la historia a Renarin cuando este era pequeño.
-According to the story, Parasaphi was a woman whose people had been all but wiped out in a Desolation, while Nadris was a man--perhaps her partner--on his deathbed. In order to preserve her people, Parasaphi climbed the peaks of Dara to find seedstones, stones touched by the [[Herald\|Heralds]]. She collected them and brought them down to Nadris, then harvested his seed to bring life to the stones. Ten children sprang out and with them, Parasaphi founded the nation of Marnah.
-This legend says that the Makabaki people are all descended from Parasaphi's children. This would mean that Marnah predates the [[Silver Kingdoms\|Silver Kingdoms]] of [[Makabakam\|Makabakam]]. However, in the modern day, it's unclear which mountain range corresponds to the peaks of Dara. The telling of the myth changes, each naming different mountain ranges for the peaks.
-[[Dalinar Kholin\|Dalinar Kholin]] found the idea that people would be born from rocks to be ridiculous.
+Según la historia, Parasaphi era una mujer cuyo pueblo había sido aniquilado en una Desolación, mientras que Nadris era un hombre (tal vez su pareja) en su lecho de muerte. Para repoblar su pueblo, Parasaphi subió a los picos de Dara en busca de las piedras-semilla, unas piedras que habían sido tocadas por los [[Heraldo\|Heraldos]] mismos. Las recogió y se las llevó a Nadris, después recogió la semilla de este para dar vida a las piedras. Así, engendraron a diez hijosy con ellos Parasaphi fundo la nación de Marnah.
+Esta leyenda dice que todo el pueblo makabaki desciende de los hijos de Parasaphi. Esto significaría que Marnah es anterior al [[Reinos Plateados\|Reino Plateado]] de [[Makabakam\|Makabakam]]. Sin embargo, en el presente, no está claro qué cordillera se corresponde con los picos de Dara. El mito cambia, y en cada versión se nombran diferentes cordilleras para hacer alusión a esos picos.
+[[Dalinar Kholin\|Dalinar Kholin]] pensaba que la idea de que hubiese personas que nacieran de rocas era ridícula.
 
 ## Notas
 

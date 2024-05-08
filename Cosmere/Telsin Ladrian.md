@@ -6,11 +6,12 @@
 ||
 |**[[House Ladrian\|House Ladrian]]**|
 |**Hermanos**|[[Waxillium Ladrian\|Waxillium Ladrian]]|
-|**Parientes**|[[Edwarn Ladrian\|Edwarn Ladrian]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
-|**Ancestros**|[[Ashweather Cett\|Ashweather]], [[Madre de Allrianne\|Madre de Allrianne]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Vwafendal\|Vwafendal]]|
+|**Parientes**|[[Edwarn Ladrian\|Edwarn Ladrian]], [[Hinston\|Hinston]], [[Maxillium\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Ancestros**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|Madre de Allrianne]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Vwafendal\|Vwafendal]]|
 |**Fallecido**|348 [[Catacendro\|PC]]|
 |**Capacidades**|[[Hemalurgia\|Hemalurgo]], Avatar de [[Autonom%C3%ADa\|Autonomía]], [[Feruquimia\|susurravientos]]|
-|**Títulos**|Secuencia, clave, [[Trell (trellismo)\|Trell]]|
+|**Títulos**|Secuencia, clave,|
+|**Apodos**|[[Trell (trellismo)\|Trell]]|
 |**Grupo**|[[Set\|Set]]🐱︎|
 |**Lugar de nacimiento**|[[Elendel\|Elendel]]|
 |**Etnia**|[[De Terris\|de Terris]]|

@@ -12,7 +12,7 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Punta de Diggen** es una isla en el [[Mar Esmeralda\|mar Esmeralda]] en [[Lumar\|Lumar]]. Se encuentra cerca del [[Lunacuerdo\|lunacuerdo]] glauco y está gobernada por el [[Duque\|duque]].
+**Punta de Diggen** o **la Roca** como es conocida por la gente del lugar, es una isla en el [[Mar Esmeralda\|mar Esmeralda]] en [[Lumar\|Lumar]]. Se encuentra cerca del [[Lunacuerdo\|lunacuerdo]] glauco y está gobernada por el [[Duque\|duque]].
 
 ## Sumario
 
@@ -20,16 +20,19 @@
 2 Historia. [[#Historia]] 
 3 Cultura. [[#Cultura]] 
 
+3. [[#Comida y bebida]] 
 3. [[#Econom.C3.ADa]] 
 3. [[#Dardos]] 
 
 
-4 Residentes notables. [[#Residentes notables]] 
-5 Notas. [[#Notas]] 
+4 Política. [[#Pol.C3.ADtica]] 
+5 Residentes notables. [[#Residentes notables]] 
+6 Notas. [[#Notas]] 
 
 
 ## Geografía
 Punta de Diggen es una isla formada casi exclusivamente de piedra de sal negra, con la forma del dedo torcido de un anciano. La isla parece extenderse desde debajo del océano, para apuntar hacia el horizonte. La isla alberga un pequeño pueblo y una mansión donde reside el duque. Bajo la superficie hay un acuífero profundo, que es uno de los principales métodos para obtener agua, ya que la piedra de sal negra es quebradiza y se mete en todo. En la isla no existe la agricultura y los alimentos tienen que proceder de cubas de compostaje o ser objeto de comercio.
+Una espesa nube de humo negro se cierne sobre la isla, causada por la maquinaria que los lugareños utilizan para extraer el agua de los profundos acuíferos. La niebla tóxica está más cerca de la mansión del duque, que se encuentra cerca de la cima de la Roca. El aire es lo suficientemente salado como para matar las esporas, y se pueden ver motas grises suspendidas en el aire, aunque ya no son mortales.
 
 ## Historia
 Un tipo llamado Diggen descubrió la «Roca», como la llamaban los lugareños, y la bautizó con el nombre de Isla de Diggen, un nombre utilizado principalmente por todo el mundo menos por los lugareños. Abandonó la isla poco después de bautizarla y nunca regresó.
@@ -37,12 +40,22 @@ En algún momento antes de la derrota de la [[Hechicera\|hechicera]], el rey pus
 Tras la derrota de la hechicera a manos de [[Trenza\|Trenza]] y la tripulación del **[[Canto del cuervo\|Canto del cuervo]]**, el rey emitió una nueva cédula junto a los indultos que concedió a la tripulación, permitiendo a los ciudadanos de Punta de Diggen abandonar la isla. Se introdujo un incentivo para que la gente siguiese viniendo y permaneciendo en la Roca, a fin de garantizar que no se marchasen sin más, como temía el duque cuando conoció la noticia de lo que ahora se permitía a la gente en su isla. Se pagaría una generosa indemnización a quien se quedase a trabajar durante veinte años. La paga era tan buena que la gente acudía en masa a trabajar a la isla y era más difícil que nunca conseguir trabajo allí.
 
 ## Cultura
+>“*Sal y plata paran lo que mata.*”
+\-Rima enseñada a los niños.[1]
+
+### Comida y bebida
+Debido a los peligros de las esporas, y al suministro de sal de la isla, los residentes de Punta de Diggen están muy familiarizados con la comida y el agua de sabor salado. No es raro tomar una taza de té salado para beber, y los lugareños no se oponen, ya que da tranquilidad a su seguridad.
+Los residentes pueden obtener alimentos de otras islas a través del comercio, como pescado de [[Isla Erik\|Isla Erik]], de lo contrario tienen que cultivarlo ellos mismos utilizando las cubas de compost.
+
 ### Economía
 La isla cuenta con abundantes recursos demandados por gentes de otros lugares. La sal es muy codiciada, sobre todo por su utilidad para hacer inertes las esporas, del mismo modo que la plata. La cerveza de [[Ladrillo\|Ladrillo]] era muy deseada, ya que se considera una de las mejores de la región. También se comerciaba con plumón y plumas de gaviota, pero todas las mercancías requerían una carta de encargo del rey para ser vendidas a cualquier barco que atracara en la isla.
 Además del dinero, a veces la gente intercambiaba favores, algo común entre los hombres de la isla. Ellos insinuarían cómo habían ayudado a otros y el boca a boca haría saber que necesitaban algo de la gente. Esto era visto como mendigar ayuda y no se hacía frecuentemente de esta manera a menos que la ayuda fuese desesperadamente necesaria.
 
 ### Dardos
 Los hombres que frecuentan la taberna de Ladrillo juegan habitualmente a los dardos, aunque con unas reglas un tanto inusuales. Después de descubrir que el aspecto de las vetas de la pared de madera sobre la diana casi parecía un retrato del duque. Eso significaba que los dos nudos en la madera debajo de la diana podían interpretarse como cierta parte del duque, justo encima de donde estarían las piernas, y por lo tanto eran el verdadero objetivo del juego. Un buen lanzamiento de dardo provocaría muecas de dolor en cualquier testigo.
+
+## Política
+La isla está gobernada por el duque, que a su vez sirve al [[Rey glauco\|rey glauco]]. El duque tiene un número de sirvientes a su servicio, incluyendo al amable [[Flik\|Flik]]. Otros miembros del gobierno que pueden aparecer en la isla incluyen, recaudadores de impuestos, mensajeros reales e inspectores de carga.
 
 ## Residentes notables
 Para una lista completa, ver :Categoría:Habitantes de Punta de Diggen.
@@ -51,7 +64,8 @@ Para una lista completa, ver :Categoría:Habitantes de Punta de Diggen.
 El [[Duque\|Duque]]
 ## Notas
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+MrMrDUCK (talk) 05:34, 11 de marzo de 2024 (UTC)
 |**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
 |-|-|
 |**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|

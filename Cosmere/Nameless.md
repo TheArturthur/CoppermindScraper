@@ -1,31 +1,34 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Innominado**|
 |-|-|
 ||
-|**Región**|[[Sea of Souls\|Sea of Souls]]🐱︎|
+|**Región**|[[Mar de las Almas\|Mar de las Almas]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“*This place is literally called, 'Nameless'.*”
-\-Nazh’s notes on his Sea of Souls map[1]
+>“*Este lugar se llama, literalmente, «Innominado».*”
+\-Notas de Nazh sobre el mapa del Mar de las Almas[1]
 
 
-**Nameless** is an independent coastal outpost in [[Shadesmar\|Shadesmar]].
+**Nameless** es un puesto remoto costero independiente en [[Shadesmar\|Shadesmar]].
 
 
 ## Sumario
 
-1 Geography. [[#Geography]] 
+1 Geografía. [[#Geograf.C3.ADa]] 
 
-1. [[#Locations]] 
-1. [[#Marketplace]] 
+1. [[#Localizaci.C3.B3n]] 
+1. [[#Mercado]] 
 
 
 2 Occupants. [[#Occupants]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Geography
+## Geografía
 >“*A dark strip of obsidian broke the sea ahead, with quiet lights shimmering above. Not souls, but actual candles in the windows of small structures.*”
 \-A view of Nameless from the ocean[2]
 
@@ -33,12 +36,12 @@
 The town is located in the southern portion of the [[Sea of Souls\|Sea of Souls]] in Shadesmar. It sits on the edge of the [[Radiant Depths\|Radiant Depths]] and is near the peninsula that leads to [[Abiding Light\|Abiding Light]].
 Nameless resides on free lands that are not owned or controlled by the [[Fused\|Fused]] or the [[Honorspren\|honorspren]]. The town sits on a barren obsidian field that is sparse in vegetation. A small cluster of crystalline plants can occasionally be seen.
 
-### Locations
+### Localización
 The settlement is quite small and its four streets can be walked in less than half an hour. It is a busy waystop for travelers who are looking to buy or sell goods. Space exists outside where caravans can set up camp while they stay in the town, and a small port, that consists of a simple stone dock, can be utilized by those traveling by ship. Most, if not all, of the residents of the town are merchants, who have either temporarily or permanently settled due to the location’s propensity towards trade.
 The small buildings of the town are made out of [[/wiki/Shadesmar#Trade]] materials and have little to no cohesive styling. There is a general trend towards  influences, however, the [[Spren\|spren]] in the town are limited by what building materials can be produced or procured by traders, which leads to buildings being a patchwork of different colored stone and other materials. Candles are used by the townsfolk to light their houses, with these likely being manifestations.
 Spren in the town wear a mixture of different [[Physical Realm\|Physical Realm]] fashion styles that likely would not be seen in any of the human nations of [[Roshar\|Roshar]].
 
-### Marketplace
+### Mercado
 >“*Traders from another land perhaps? Oh, it does happen, and more and more these days. People come in caravans seeking to trade.*”
 \-Archinal commenting on the influx of traders into Shadesmar while in Nameless[2]
 
@@ -51,7 +54,7 @@ The town is made up of a large variety of sapient spren, including both [[/wiki/
 Although the town appears to be predominantly run by spren, it is not uncommon to find humans passing through with the caravans. As such, they do not draw as much attention or stick out as an oddity as they would in other trade cities such as [[Celebrant\|Celebrant]], and are largely treated like any other trader. Humans may still experience hostility from individual spren.
 [[Notum\|Notum]] is a known figure among the townspeople, although he likely does not stay in the town for long when his patrol passes by. He is tolerated, but not well liked by the townspeople and they will go out of their way to avoid him if possible.
 
-## History
+## Historia
 >“*We have landed and the others went out to explore a small dockside town here on the coast. We have several weeks’ further travel via caravan, hopefully as uneventful as these, before reaching the fortress.*”
 \-Shallan reporting on their journey to Mraize[2]
 
@@ -61,7 +64,7 @@ The group explored the town, trading their remaining [[Stormlight\|Stormlight]] 
 After their encounter, Adolin and [[Godeke\|Godeke]] attempted to approach the [[Tukari caravaneers\|Tukari caravaneers]] who had set up camp outside of the town. The group were antagonistic and turned the pair away. Returning to , Adolin found Notum talking with the boat’s captain. Adolin explained his plan to Notum of how he planned to approach the honorspren, however, Notum shut down his idea, strongly believing that the honorspren would never consider his request.
 Adolin and his cohort left Nameless shortly after Notum, with the Tukari caravaneers following them out of the town.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 LadyLameness (talk) 06:56, 17 November 2020 (UTC)

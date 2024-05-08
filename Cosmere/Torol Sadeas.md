@@ -15,14 +15,15 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*We’re two old whitespines who both want a kingdom. It's him or me. We’ve been pointed that way since Gavilar died.*”
 \-Sadeas about Dalinar[4]
 
 
 **Torol Sadeas** es un [[Alto pr%C3%ADncipe\|alto príncipe]] [[Alezi\|alezi]] de [[Roshar\|Roshar]]. A través de un número de batallas exitosas al lado de [[Gavilar\|Gavilar]] y [[Dalinar\|Dalinar]] Kholin, se convirtió en uno de los hombres más poderosos del reino. Conocido por su crueldad y brutalidad, Sadeas es un competente maestro de la política; junto con su mujer [[Ialai Sadeas\|Ialai]], se encargan de la gente inconveniente. Manda sobre uno de los dos ejércitos más significativos en las [[Llanuras Quebradas\|Llanuras Quebradas]], el otro siendo el ejército de Dalinar Kholin.
-Como alto príncipe de información, fue capaz de manipular al rey y a los otros altos príncipes. Fue capaz de superar a Dalinar, incluso después de ser culpado abiertamente de traición. Posee tanto una [[Armadura esquirlada\|armadura esquirlada]] como la [[Hoja esquirlada\|hoja esquirlada]] de Dalinar, [[Juramentada (hoja esquirlada)\|Juramentada]].
-Es asesinado por [[Adolin Kholin\|Adolin Kholin]] pocos días después de llegar a Urithiru.
+Como alto príncipe de información, fue capaz de manipular al rey y a los otros altos príncipes. Fue capaz de superar a Dalinar, incluso después de ser culpado abiertamente de traición. Posee un set completo de [[Armadura esquirlada\|armadura esquirlada]] y [[Espada esquirlada\|espada esquirlada]], que es [[Juramentada (hoja esquirlada)\|Juramentada]].
+Es asesinado por [[Adolin Kholin\|Adolin Kholin]] al poco tiempo de llegar a Urithiru.
 
 ## Sumario
 
@@ -62,9 +63,9 @@ Sadeas no cree en los Códigos y está convencido de que la compasión y la dipl
 ## Historia
   Con <<Ialai\|Ialai>> y los Kholin en un festín diplomático
 ### Unificación de Alezkar
-Torol Sadeas era el amigo más cercano de Gavilar y Dalinar Kholin durante la unificación de Alezkar. Él y Gavilar planeaban juntos, discutiendo estrategia y la dirección de la guerra. La casa Sadeas era uno de los tres reinos que luchaban junto a los Kholin.
+Torol Sadeas era el amigo más cercano de Gavilar y Dalinar Kholin durante la unificación de Alezkar. Él y Gavilar planeaban juntos, discutiendo estrategia y la dirección de la guerra. La casa Sadeas era uno de los tres principados que luchaban junto a los Kholin.
 Era instrumental empujando a la alianza a una brutalidad mayor. No se avergonzaba de su frialdad y era conocido por pavonearse de su crueldad, lo que incluía colgar las cabezas de los altos príncipes muertos y sus oficiales. Abiertamente disfrutaba del saqueo de las ciudades caídas.
-Sadeas era muy competente en política desde sus años jóvenes. Hablaba persuasivamente para ganar nuevos aliados; si no estaba convencido de su lealtad total, encontraba formas "alezi" de deshacerse de ellos. Su mujer, Ialai Sadeas, era conocida entre sus amigos por ocurrírsele ardides elaborados para deshacerse de aliados problemáticos.
+Sadeas era muy competente en política. Hablaba persuasivamente para ganar nuevos aliados; si no estaba convencido de su lealtad total, encontraba formas "alezi" de deshacerse de ellos. Su mujer, Ialai Sadeas, era conocida entre sus amigos por ocurrírsele ardides elaborados para deshacerse de sus aliados problemáticos y enemigos.
 
 ### La Grieta
 >“*I have no interest in being king—it’s a job with little praise and even less amusement. I mean for this kingdom to stand for centuries.*”

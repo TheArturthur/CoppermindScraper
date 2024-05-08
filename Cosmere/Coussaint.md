@@ -6,14 +6,17 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 La señorita **Coussaint** es la casera de [[Allriandre\|Allriandre]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
+A veces cuida de [[Ruri\|Ruri]], la hija de Allriandre, cuando ésta no está. Sin embargo, le grita a Ruri cuando dibuja en las paredes con pasta de dientes, lo que provoca el llanto de la niña.
+Cobra el alquiler el primero de mes y planea hacer reformas.
+Ella tiene un montón de barbillas, con una mucho más grande que el resto.
 
 ## Notas
 
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
 |**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
 |-|-|
 |**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
