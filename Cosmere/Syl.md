@@ -262,7 +262,7 @@ Syl es una de las primeras [[Honorspren\|honorspren]] y el [[Padre Tormenta\|Pad
 [[Relador\|Relador]] es el primer hombre que Syl vincula como [[Corredor del Viento\|Corredor del Viento]]. Murió poco antes de los eventos de la [[Traici%C3%B3n\|Traición]], mandando a Syl a un estado catatónico. Por esto, ella evita el destino de la mayoría de sus parientes, que se convirtieron en [[Ojomuerto\|ojomuertos]]. Cuando [[Dalinar\|Dalinar]] la [[Conexi%C3%B3n\|Conecta]] con su pasado, Syl comienza a llorar esta pérdida. Esto la ayuda a entender mejor a Kaladin.
 
 ## Curiosidades
-Sylphrena es una de las únicas cuatro personas que habla en versalitas, siendo las otras tres: [[Odium\|Odium]], [[Cultivaci%C3%B3n\|Cultivación]], y [[Dalinar\|Dalinar]]
+Sylphrena es una de las únicas cinco personas que habla en versalitas, siendo las otras cuatro: [[Odium\|Odium]], [[Cultivaci%C3%B3n\|Cultivación]], [[Dalinar\|Dalinar]] y el [[Padre Tormenta\|Padre Tormenta]].
 En una versión anterior de *El Camino de los Reyes*, Syl se llamaba "The East Wind"
 Sylphrena origilamente venía de un trabajo del Cosmere llamado *Climb the Sky*.
 El nombre de Sylphrena está inspirado por la palabra "sylph" ("sílfide" en español), o espíritu de aire, y "sylphlike" puede usarse para describir a una esbelta mujer joven en inglés, ambas ajustándose a Sylphrena en cierta medida.

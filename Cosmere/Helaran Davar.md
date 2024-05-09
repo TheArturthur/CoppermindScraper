@@ -12,10 +12,9 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
-**Helaran Davar** es un [[Portador de esquirlada\|portador de esquirlada]] [[Jah Keved\|veden]] de [[Roshar\|Roshar]]. Helaran es el mayor de los hijos de la [[Casa Davar\|casa Davar]], y sus hermanos pequeños son: [[Balat Davar\|Balat]], [[Wikim Davar\|Wikim]], [[Jushu Davar\|Jushu]], y [[Shallan Davar\|Shallan]]. Antes era conocido como **Nan Helaran Davar**, que le identificaba como el primogénito y heredero de la casa Davar, fue despojado del título cuando [[Lin Davar\|su padre]] le repudió.
+**Helaran Davar** es un [[Portador de esquirlada\|portador de esquirlada]] [[Jah Keved\|veden]] de [[Roshar\|Roshar]]. Helaran es el mayor de los hijos de la [[Casa Davar\|casa Davar]], y sus hermanos pequeños son: [[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], y [[Shallan\|Shallan]]. Antes era conocido como **Nan Helaran Davar**, que le identificaba como el primogénito y heredero de su casa hasta que fue despojado del título cuando [[Lin Davar\|su padre]] le repudió.
 
 ## Sumario
 
@@ -41,45 +40,47 @@ Para más imágenes, ver [[Helaran Davar/Galer%C3%ADa\|/Galería]].
 
 
 Helaran es alto, musculoso y de barbilla cuadrada, aunque su padre es más alto que él.
-De todos los hijos de la casa Davar, él es considerado el más responsable y el único que es verdaderamente adulto, incluso después de que su hermano pequeño Balat cumpliese la mayoría de edad. Él y Shallan eran los hijos favoritos de su padre.
-Helaran está enfadado con su padre y le guarda rencor porque piensa que mató a su madre y a su amante a sangre fría.
+De todos los hijos de la casa Davar, él es considerado el más responsable y el único que es verdaderamente adulto, incluso después de que su hermano pequeño [[Balat\|Balat]] cumpliese la mayoría de edad. Él y [[Shallan\|Shallan]] eran los hijos favoritos de [[Lin Davar\|su padre]].
+Helaran está enfadado con su padre y le guarda rencor porque piensa que mató a [[Madre de Shallan\|su madre]] y a su amante a sangre fría.
 
 ## Características y habilidades
-Su madre mantenía contacto estrecho con un acólito de los [[Rompedores del Cielo\|Rompedores del Cielo]] y es posible que Nale conociera a algún miembro de la casa que estaba cerca de vincular un spren. Se cree que Nale pensaba que se trataba de Helaran. Fue reclutado porque impresionó a Nale. Le reclutaron mostrándole grandes exhibiciones de poder y armaduras y hojas esquirladas.
-Helaran todavía no había vinculado un spren y por ello su hoja esquirlada tenía una gema brillante. Seguramente Helaran fue enviado a asesinar a Amaran a modo de prueba —o bien lo hizo por iniciativa propia para demostrar que era digno de convertirse en Caballero.
+[[Madre de Shallan\|Su madre]] mantenía contacto estrecho con un acólito de los [[Rompedores del Cielo\|Rompedores del Cielo]] y es posible que [[Nale\|Nale]] conociera a algún miembro de la casa que estaba cerca de vincular un [[Spren\|spren]]. Se cree que Nale pensaba que se trataba de Helaran. Fue reclutado porque impresionó a Nale. Le reclutaron mostrándole grandes exhibiciones de poder y armaduras y hojas esquirladas.
 
 ## Historia
   Helaran en el campo de batalla alezi, momentos antes de ser asesinado por Kaladin
-Alrededor de 1168, o un poco antes, Helaran consiguió una [[Hoja esquirlada\|hoja esquirlada]] de la Orden de los Rompedores del Cielo.
-Más tarde ese mismo año, visitó a Shallan y le entregó utensilios para hacer bocetos traídas desde [[Tenaza del Norte\|Tenaza del Norte]] como regalo. También le entregó a Balat un cachorro de sabueso-hacha, del que Balat abusó y seguramente mató. Durante su visita, le dijo a Shallan y a su padre que debía irse para atender ciertos asuntos, a lo que su padre se opuso y terminaron enzarzados. Helaran invocó su hoja esquirlada, amenazó a su padre y se marchó, prometiendo volver para visitar a la familia.
+Alrededor de 1168, o un poco antes, Helaran consiguió una [[Hoja esquirlada\|hoja esquirlada]] de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]].
+Más tarde ese mismo año, visitó a [[Shallan\|Shallan]] y le entregó utensilios para hacer bocetos traídas desde [[Tenaza del Norte\|Tenaza del Norte]] como regalo. También le entregó a [[Balat\|Balat]] un cachorro de [[Sabueso-hacha\|sabueso-hacha]], del que Balat abusó y seguramente mató. Durante su visita, le dijo a Shallan y a [[Lin Davar\|su padre]] que debía irse para atender ciertos asuntos, a lo que su padre se opuso y terminaron enzarzados. Helaran invocó su hoja esquirlada, amenazó a su padre y se marchó, prometiendo volver para visitar a la familia.
 Tras el encontronazo con su padre visitó el territorio de los Davar de forma esporádica y durante breves periodos de tiempo, y le llevaba a [[Shallan\|Shallan]] más útiles para pintar mientras evitaba a su padre.
-De todos los hijos de la casa Davar es el que más sabe sobre los secretos de su padre, sus planes y es el que más se opone a él. Ha tenido alguna conexión con [[Hoid\|Sagaz]], a quien le pidió que enviara el mensaje: «tiene ojos cerca, y está vigilando». Tras escuchar esto su padre le desheredó y comenzó a referirse a Tet Balat como Nan Balat, como si fuera Balat el mayor de los hijos.
-Dos años más tarde regresa a Jah Keved y allí se encuentra con Balat. Helaran advierte a su hermano de que esta vez cuando se marche, quizá no regrese en mucho tiempo, y le pide que cuide de la familia. Cuando su padre se entera, envía a uno de sus soldados nuevos, [[Rin\|Rin]], para matarlo.
-En 1172, apareció en un campo de batalla en [[Alezkar\|Alezkar]] con un conjunto completo de esquirladas. Su objetivo allí era matar al alto señor [[Meridas Amaram\|Meridas Amaram]], pero antes fue asesinado por [[Kaladin\|Kaladin]]. Aunque Kaladin era a quien le pertenecía el derecho de reclamar el set de esquirladas de Helaran, Amaran le traicionó y se las quedó para él.
+De todos los hijos de la casa Davar es el que más sabe sobre los secretos de su padre, sus planes y es el que más se opone a él. Ha tenido alguna conexión con [[Sagaz\|Sagaz]], a quien le pidió que enviara el mensaje: «tiene ojos cerca, y está vigilando». Tras escuchar esto su padre le desheredó y comenzó a referirse a Tet Balat como Nan Balat, como si fuera Balat el mayor de los hijos.
+Dos años más tarde regresa a [[Jah Keved\|Jah Keved]] y allí se encuentra con Balat. Helaran advierte a su hermano de que esta vez cuando se marche, quizá no regrese en mucho tiempo, y le pide que cuide de la familia. Cuando su padre se entera, envía a uno de sus soldados nuevos, [[Rin\|Rin]], para matarlo.
+En Ishi 1172, apareció en un campo de batalla en [[Alezkar\|Alezkar]] con un conjunto completo de esquirladas. Su objetivo allí era matar al alto señor [[Meridas Amaram\|Meridas Amaram]], pero antes fue asesinado por [[Kaladin\|Kaladin]]. Aunque Kaladin era a quien le pertenecía el derecho de reclamar el set de esquirladas de Helaran, Amaram le traicionó y se las quedó para él.
+Helaran todavía no había vinculado un [[Altospren\|altospren]] y por ello su [[Hoja esquirlada\|hoja esquirlada]] tenía una gema brillante. Seguramente Helaran fue enviado a asesinar al alto señor [[Meridas Amaram\|Meridas Amaram]] a modo de prueba —o bien lo hizo por iniciativa propia para demostrar que era digno de convertirse en Caballero.
+Aunque Kaladin tiene derecho a reclamar las esquirladas de Helaran, Amaram traiciona a Kaladin, lo esclaviza y las reclama para sí.
 
 ## Relaciones
   Con sus hermanos
 ### Shallan
-Helaran tiene una actitud protectora con Shallan. La anima a dibujar, ya que cree que tiene potencial para ser muy buena en el arte. Tras su marcha, continúa enviándole regalos, entre ellos el libro de [[Jasnah Kholin\|Jasnah Kholin]] y papel de buena calidad para sus dibujos.
+Helaran tiene una actitud protectora con [[Shallan\|Shallan]]. La anima a dibujar, ya que cree que tiene potencial para ser muy buena en el arte. Tras su marcha, continúa enviándole regalos, entre ellos el libro de [[Jasnah Kholin\|Jasnah Kholin]] y papel de buena calidad para sus dibujos.
 Shallan admira a su hermano y siente que su sentido de la justicia lo obtuvo de él, de «la mejor persona que había conocido jamás».
 Shallan quiere encontrar información sobre su pasado y sus motivaciones pero no parece haber hecho un gran progreso tras afiliarse a los [[Sangre Espectral\|Sangre Espectral]].
 
 ### Balat
-Cuando Helaran se marcha de su casa por primera vez no cree que Balat esté listo para liderar a sus hermanos. Sin embargo, varios años más tarde, y antes de marcharse a la guerra en Alezkar, le pide que cuide de su familia. Balat lo considera fuerte y valiente y no se cree a su altura. Cuando Helaran y Balat están juntos, Balat «se hincha» y actúa con mayor confianza.
+Cuando Helaran se marcha de su casa por primera vez no cree que [[Balat\|Balat]] esté listo para liderar a sus hermanos. Sin embargo, varios años más tarde, y antes de marcharse a la guerra en [[Alezkar\|Alezkar]], le pide que cuide de su familia. Balat lo considera fuerte y valiente y no se cree a su altura. Cuando Helaran y Balat están juntos, Balat «se hincha» y actúa con mayor confianza.
 
 ### Lin Davar
 >“*Hay cosas más importantes en este mundo. Más importantes que tú y tus crímenes.*”
 \-Helaran a su padre antes de dejar la casa Davar [3]
 
 
-Helaran está seguro de que su padre mató a su madre y a su amante. Se enfrentó a él y se marchó de su casa. Aunque no se volvieron a ver, mantuvieron el contacto: Helaran le envió un mensaje advirtiendo que tiene ojos y está vigilando, provocando con ello que su padre le desheredara y perdiera el título de Nan. Pasado un tiempo, Lin Davar descubrió que Balat había hablado con él y mandó un guardia a matar a Helaran.
+Helaran está seguro de que [[Lin Davar\|su padre]] mató a [[Madre de Shallan\|su madre]] y a su amante. Se enfrentó a él y se marchó de su casa. Aunque no se volvieron a ver, mantuvieron el contacto: Helaran le envió un mensaje advirtiendo que tiene ojos y está vigilando, provocando con ello que su padre le desheredara y perdiera el título de Nan. Pasado un tiempo, Lin Davar descubrió que Balat había hablado con él y mandó un guardia a matar a Helaran.
 
 ## Curiosidades
-El motivo tras el intento de asesinato de Amaran por parte de Helaran es desconocido, de todos modos, [[Mraize\|Mraize]] de los [[Sangre Espectral\|Sangre Espectral]] cree que fue para darle un golpe a los [[Hijos de Honor\|Hijos de Honor]].
+El motivo tras el intento de asesinato de [[Amaram\|Amaram]] por parte de Helaran es desconocido, de todos modos, [[Mraize\|Mraize]] de los [[Sangre Espectral\|Sangre Espectral]] cree que fue para darle un golpe a los [[Hijos de Honor\|Hijos de Honor]].
 
 ## Notas
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
+> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
+El contenido no ha sido revisado todavía.
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
 |-|-|
 |**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|

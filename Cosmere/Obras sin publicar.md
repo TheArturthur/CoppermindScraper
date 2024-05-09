@@ -1,50 +1,51 @@
-This page lists all of [[Brandon Sanderson\|Brandon Sanderson]]'s works, written or unwritten, that have not been published. Some of these are written novels that have been "trunked", some of which have been re-written or cannibalized from. Some are ideas Brandon has talked about briefly but it is unknown if they will ever actually be written. The remainder are forthcoming works that, while unwritten, will come out eventually.
-A list of those works that have been published can be found in the [[Bibliography\|Bibliography]] article.
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+Esta página enumera todas las obras, escritas o no, de [[Brandon Sanderson\|Brandon Sanderson]] que no han sido publicadas. Algunas son novelas escritas que han sido "truncadas", otras han sido reescritas o se ha hecho una versión de ellas. Algunas son ideas de las que Brandon ha hablado brevemente, pero se desconoce si llegarán a escribirse. El resto son futuras obras que, aunque no están escritas, saldrán con el tiempo.
+En el artículo [[Bibliograf%C3%ADa\|Bibliografía]] figura una lista de las obras publicadas.
 
 ## Sumario
 
-1 Forthcoming Works. [[#Forthcoming Works]] 
+1 Próximas obras. [[#Pr.C3.B3ximas obras]] 
 
-1. [[#Cosmere Works]] 
-1. [[#Non-cosmere Works]] 
-
-
-2 Potential Works. [[#Potential Works]] 
-
-2. [[#Cosmere Works 2]] 
-2. [[#Non-Cosmere Works 2]] 
+1. [[#Obras del Cosmere]] 
+1. [[#Obras no relacionadas con el Cosmere]] 
 
 
-3 "Trunked" Works. [[#.22Trunked.22 Works]] 
-4 Notes. [[#Notes]] 
+2 Obras potenciales. [[#Obras potenciales]] 
+
+2. [[#Trabajos del Cosmere]] 
+2. [[#Obras fuera del Cosmere]] 
 
 
-## Forthcoming Works
-### Cosmere Works
+3 Obras "truncadas". [[#Obras .22truncadas.22]] 
+4 Notas. [[#Notas]] 
 
 
+## Próximas obras
+### Obras del Cosmere
 
 
 
-### Non-cosmere Works
+
+
+### Obras no relacionadas con el Cosmere
 
 
 
-## Potential Works
-These are projects that Brandon has mentioned as possibilities but there are no firm plans in place.
+## Obras potenciales
+Son proyectos que Brandon ha mencionado como posibilidades, pero no hay planes en firme.
 
-### Cosmere Works
-
-
-
-### Non-Cosmere Works
+### Trabajos del Cosmere
 
 
-## "Trunked" Works
-These are works that are unlikely to ever be published either because elements have been co-opted for use in other books (as with *Mythwalker* and *Aether of Night*) or because the book has been re-written from scratch (as with *White Sand* Prime and *The Way of Kings* Prime).
+
+### Obras fuera del Cosmere
 
 
-## Notes
+## Obras "truncadas"
+Se trata de obras que probablemente no lleguen a publicarse nunca, ya sea porque sus elementos han sido utilizados en otros libros (como *Mythwalker* y *Aether of Night*) o porque el libro ha sido reescrito desde cero (como *Arena Blanca* Prime y *El camino de los reyes* Prime).
+
+
+## Notas
 
 A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
 |**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|

@@ -1,24 +1,28 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Narm**|
 |-|-|
-|**Fallecido**|[[Battle of the Tower\|Battle of the Tower]] Tanatashev 1173|
-|**Oficio**|Bridgeman|
+|**Fallecido**|[[Batalla de la Torre\|Batalla de la Torre]] Tanatashev 1173|
+|**Oficio**|Hombre del puente|
 |**Grupo**|[[Bridge Four\|Bridge Four]]🐱︎, Ejército de Sadeas|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Narm** is a member of [[Bridge Four\|Bridge Four]].
+**Narm** es un miembro del [[Puente Cuatro\|Puente Cuatro]].
 
-## Appearance and Personality
-He is skinnier than most of the other bridgemen. Narm is also one of the loudest complainers about [[Kaladin\|Kaladin]]’s leadership, alongside [[Moash\|Moash]] and [[Sigzil\|Sigzil]].
+## Apariencia y personalidad
+Es más delgado que la mayoría de los otros hombres del puente. Narm es también uno de los que más se quejan del liderazgo de [[Kaladin\|Kaladin]], junto a [[Moash\|Moash]] y [[Sigzil\|Sigzil]].
 
-## History
-During his first run as bridgeleader, [[Kaladin\|Kaladin]] sought to find and heal the wounded bridgemen best he could. He asked Narm to make a fire, handing over his own shirt for tinder. Narm struggled to get the fire going while Kaladin worked on [[Gadol\|Gadol]]. Despite his efforts, Gadol died, but Kaladin yelled at Narm to keep the fire going and not to let it die in case others come. To his surprise, Narm actually got a small flame going which they used to treat other bridgemen.
-When [[Bridge Four\|Bridge Four]] is assigned chasm duty, Narm was working beside [[Moash\|Moash]] who was taunting Kaladin. Kaladin performed a kata which left them all, including Moash and Narm, stunned. Impressed with Kaladin, three-quarters of the bridgemen joined Kaladin for training in the morning, except for some of the loudest complainers including Narm.
-Later, on a bridge run, Narm was injured alongside [[Peet\|Peet]]. It was a fraction of what other crews lost, but Kaladin argued that was still too many.
-During the bridge run in which Kaladin first employed the carapace armor, the [[Parshendi\|Parshendi]] fell into formation, nocking some fifty arrows at Kaladin and the rest of Bridge Four. They are saved by the timely arrival of [[Dalinar Kholin\|Dalinar Kholin]] and his honor guard. After the close call, Kaladin sent Narm and [[Leyten\|Leyten]] to find good scouting points and watch the field for any Parshendi movement towards the chasm.
-Narm was one of three bridgemen casualties during the [[Battle of the Tower\|Battle of the Tower]], alongside [[Malop\|Malop]] and . He died trying to hold the bridge against the Parshendi while the Kholin army retreated.
+## Historia
+Durante su primer mandato como jefe de puente, [[Kaladin\|Kaladin]] trató de encontrar y curar lo mejor que pudo a los hombres del puente heridos. Le pidió a Narm que encendiese un fuego, dándole su propia camisa como cebador. Narm luchaba por encender el fuego mientras Kaladin se ocupaba de [[Gadol\|Gadol]]. A pesar de sus esfuerzos, Gadol murió, pero Kaladin le gritó a Narm que mantuviese el fuego encendido y que no lo dejase morir por si venían otros. Para su sorpresa, Narm consiguió encender una pequeña llama que utilizaron para tratar a otros hombres del puente.
+Cuando el [[Puente Cuatro\|Puente Cuatro]] es asignado al servicio del abismo, Narm estaba trabajando junto a [[Moash\|Moash]], que se burlaba de Kaladin. Kaladin ejecutó una kata que los dejó a todos, incluidos Moash y Narm, atónitos. Impresionados con Kaladin, tres cuartas partes de los hombres del puente se unieron a Kaladin para entrenar por la mañana, excepto algunos de los que más se quejaban, entre ellos Narm.
+Más tarde, en una carrera del puente, Narm resultó herido junto a [[Peet\|Peet]]. Fue una fracción de lo que perdieron otras tripulaciones, pero Kaladin argumentó que seguían siendo demasiados.
+Durante la carrera del puente en la que Kaladin utilizó por primera vez la armadura de caparazón, los [[Parshendi\|parshendi]] se pusieron en formación y lanzaron unas cincuenta flechas contra Kaladin y el resto del Puente Cuatro. Son salvados por la oportuna llegada de [[Dalinar Kholin\|Dalinar Kholin]] y su guardia de honor. Después de lo sucedido, Kaladin envió a Narm y [[Leyten\|Leyten]] a buscar buenos puntos de exploración y vigilar el campo por si había algún movimiento parshendi hacia el abismo.
+Narm fue una de las tres víctimas de la [[Batalla de la Torre\|batalla de la Torre]], junto a [[Malop\|Malop]] y [[Desorejado Jaks\|Desorejado Jaks]]. Murió intentando mantener el puente contra los parshendi mientras el ejército kholin se retiraba.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

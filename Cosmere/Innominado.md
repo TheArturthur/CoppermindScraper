@@ -23,33 +23,33 @@
 1. [[#Mercado]] 
 
 
-2 Occupants. [[#Occupants]] 
+2 Residentes. [[#Residentes]] 
 3 Historia. [[#Historia]] 
 4 Notas. [[#Notas]] 
 
 
 ## Geografía
->“*A dark strip of obsidian broke the sea ahead, with quiet lights shimmering above. Not souls, but actual candles in the windows of small structures.*”
+>“*Una oscura franja de obsidiana asomaba del mar por delante, con tenues luces titilando encima. No eran almas, sino auténticas velas en las ventanas de pequeñas estructuras.*”
 \-A view of Nameless from the ocean[2]
 
 
-The town is located in the southern portion of the [[Sea of Souls\|Sea of Souls]] in Shadesmar. It sits on the edge of the [[Radiant Depths\|Radiant Depths]] and is near the peninsula that leads to [[Abiding Light\|Abiding Light]].
-Nameless resides on free lands that are not owned or controlled by the [[Fused\|Fused]] or the [[Honorspren\|honorspren]]. The town sits on a barren obsidian field that is sparse in vegetation. A small cluster of crystalline plants can occasionally be seen.
+Este pueblo se sitúa en la parte sur del [[Mar de las Almas\|Mar de las Almas]] en Shadesmar. Se encuentra en la orilla de [[Las Profundidades Radiantes\|las Profundidades Radiantes]] y cerca de la península que lleva a [[Luz Perdurable\|Luz Perdurable]].
+Innominado se encuentra en tierras libres que no pertenecen ni están controladas por los [[Fusionado\|Fusionados]] o los [[Honorspren\|honorspren]]. El pueblo está situado en un campo estéril de obsidiana donde la vegetación es escasa. Pequeños grupos de plantas cristalinas pueden observarse de vez en cuando aquí y allá.
 
 ### Localización
-The settlement is quite small and its four streets can be walked in less than half an hour. It is a busy waystop for travelers who are looking to buy or sell goods. Space exists outside where caravans can set up camp while they stay in the town, and a small port, that consists of a simple stone dock, can be utilized by those traveling by ship. Most, if not all, of the residents of the town are merchants, who have either temporarily or permanently settled due to the location’s propensity towards trade.
-The small buildings of the town are made out of [[/wiki/Shadesmar#Trade]] materials and have little to no cohesive styling. There is a general trend towards  influences, however, the [[Spren\|spren]] in the town are limited by what building materials can be produced or procured by traders, which leads to buildings being a patchwork of different colored stone and other materials. Candles are used by the townsfolk to light their houses, with these likely being manifestations.
-Spren in the town wear a mixture of different [[Physical Realm\|Physical Realm]] fashion styles that likely would not be seen in any of the human nations of [[Roshar\|Roshar]].
+El asentamiento es bastante pequeño y sus cuatro calles pueden recorrerse en menos de media hora. Es una parada recurrida por viajeros que buscan comprar o vender productos. Existe un área a las afueras donde las caravanas pueden instalarse mientras permanecen en el pueblo, y también un pequeño puerto, que consiste en un simple muelle de piedra y lo utilizan aquellos que viajan en barco. La mayoría, si no todos, de los habitantes del lugar son mercaderes, que se han asentado temporal o permanentemente aquí debido al continuo comercio que tiene lugar en el pueblo.
+Los edificios pequeños de Innominado están hechos de materiales [[/wiki/Shadesmar#Intercambio]] y apenas tienen un estilo común. Hay una tendencia general hacia influencias [[Azir\|azishianas]], sin embargo, los [[Spren\|spren]] se ven muy limitados por los materiales de construcción que pueden crear u obtener por medio de comerciantes, por lo que los edificios son mosaicos de piedras de colores diferentes y otros materiales. Los vecinos emplean velas para iluminar sus hogares, probablemente siendo estas objetos manifestados.
+Los spren del pueblo visten mezclando diferentes estilos de moda del [[Reino F%C3%ADsico\|Reino Físico]] que es probable que no se vieran en ninguna de las naciones humanas de [[Roshar\|Roshar]].
 
 ### Mercado
->“*Traders from another land perhaps? Oh, it does happen, and more and more these days. People come in caravans seeking to trade.*”
-\-Archinal commenting on the influx of traders into Shadesmar while in Nameless[2]
+>“*¿Mercaderes de otro mundo, quizá? Eh, a veces pasa, y cada vez más en estos tiempos. La gente viene en caravanas con intención de negociar.*”
+\-Archinal hablando sobre la afluencia de comerciantes en Shadesmar durante su paso por Innominado[2]
 
 
-A range of items are available for purchase at the marketplace including, books, weapons, and food and water.
-The market stalls are predominantly run by [[Cultivationspren\|cultivationspren]], however, [[Highspren\|highspren]] and [[Inkspren\|inkspren]] merchants have also set up stalls. Many of the merchants are able to speak  and/or . At least some merchants cater, at least in part, to humans and have travel necessities, such as food and water, available for purchase. Permanent market stalls are open sided and set against the front side of the stall owners home.
+En el mercado hay distintos objetos disponibles para comprar, incluyendo libros, armas y comida y agua.
+Los [[Cultivacispren\|cultivacispren]] son quienes tienen más puestos en el mercado, sin embargo, los mercadereses [[Altospren\|altospren]] y [[Tintaspren\|tintaspren]] también tienen puestos. Muchos de los comerciantes pueden hablar [[Alezkar\|alezi]] y/o [[Azir\|azishiano]]. Algunos mercaderes abastecen, al menos en parte, a los humanos y tienen a la venta artículos indispenables para viajes, como comida y bebida. Los puestos permanentes están abiertos por un lado y están pegados a la parte frontal de la casa de su propietario.
 
-## Occupants
+## Residentes
 The town is made up of a large variety of sapient spren, including both [[/wiki/Spren#Radiant]] and non-Radiant spren. Many of the spren do not permanently live in the town and are instead passing through as caravaneers or sailors.
 Although the town appears to be predominantly run by spren, it is not uncommon to find humans passing through with the caravans. As such, they do not draw as much attention or stick out as an oddity as they would in other trade cities such as [[Celebrant\|Celebrant]], and are largely treated like any other trader. Humans may still experience hostility from individual spren.
 [[Notum\|Notum]] is a known figure among the townspeople, although he likely does not stay in the town for long when his patrol passes by. He is tolerated, but not well liked by the townspeople and they will go out of their way to avoid him if possible.

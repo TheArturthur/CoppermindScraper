@@ -12,35 +12,35 @@
 |**Primera aparición**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 
-**Truth-Is-Waiting**, also called **Truth**, serves as a staff sergeant in the  under the command of the .
+**La-Verdad-Espera**, también llamado **Verdad**, sirve como sargento en la [[Brigada Nocturna\|Brigada Nocturna]] bajo el mando de la [[Almirante\|Almirante]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 History. [[#History]] 
-3 Relationships. [[#Relationships]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
 
-3. [[#Admiral]] 
-
-
-4 Notes. [[#Notes]] 
+3. [[#Almirante]] 
 
 
-## Appearance and Personality
-He typically walks with military discipline but can readily disguise his background by altering his mannerisms.
-Truth-Is-Waiting displays a coldness and flagrant disregard of the suffering of others. Though he seems to consider it wrong to bring destruction upon the people of  simply for being in the wrong place at the wrong time, especially given their shared  heritage, it is not a strongly held belief. However, he finds the prospect of interrogating the more technologically advanced  particularly pleasurable.
+4 Notas. [[#Notas]] 
 
-## History
-Truth-Is-Waiting arrived in the Canticle system flying in low orbit on the Night Brigade's warship. He, along with the Admiral and several other members of the Night Brigade --including at least two [[Shade\|shades]]-- descended onto the planet to gather information about 's whereabouts.
-At their first encountered settlement, Truth-Is-Waiting commandeered a ship and used it to pose as a person from a town in another  who had come seeking explanations.
-Approximately one day after Nomad [[/wiki/Sigzil#Skipping]] off the planet, Truth-Is-Waiting conferred with the people of  and learned from them of Nomad's apparent death in a fight with the  and of the Scadrian  stationed below the planet's surface.
-Truth-Is-Waiting returned to the stolen ship, walking with a slouch so as to not draw undue attention from his usual military discipline, and reported what he learned to the Admiral.
 
-## Relationships
-### Admiral
-Truth-Is-Waiting serves under the Admiral of the Night Brigade and reports to her directly. He has insight into the kinds of information that she might find particularly pleasing or frustrating and is at least a little bit fearful of her anger.
+## Apariencia y personalidad
+Suele caminar con disciplina militar, pero puede disimular fácilmente su origen alterando sus modales.
+La-Verdad-Espera muestra una frialdad y un desprecio flagrante por el sufrimiento ajeno. A pesar de que parece pensar que es incorrecto causar destrucción a la gente de [[C%C3%A1ntico\|Cántico]] solo por estar en el lugar equivocado en el momento equivocado, especialmente considerando su herencia compartida de [[Treno\|Treno]], no es una opinión muy arraigada. Sin embargo, encuentra especialmente placentera la perspectiva de interrogar a los [[Scadriano\|scadrianos]] más avanzados tecnológicamente.
 
-## Notes
+## Historia
+La-Verdad-Espera llegó al sistema de Cántico volando en una órbita baja en la nave de guerra de la Brigada Nocturna. Él, junto con la Almirante y otros miembros de la Brigada Nocturna (incluidos al menos dos [[Umbra\|umbras]]) descendieron al planeta para recabar información sobre el paradero de [[N%C3%B3mada\|Nómada]].
+En el primer asentamiento que encontraron, La-Verdad-Espera requisó una nave y la utilizó para hacerse pasar por una persona de una ciudad de otro [[/wiki/C%C3%A1ntico#Ciudades y naves]] que había venido en busca de explicaciones.
+Aproximadamente un día después de que Nómada [[/wiki/Sigzil#Saltos]] abandonando el planeta, La-Verdad-Espera se reunió con la gente de [[Uni%C3%B3n\|Unión]] y se enteró por ellos de la aparente muerte de Nómada en una pelea con el [[Rey Incandescente\|Rey Incandescente]] y de la [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|instalación de investigación]] scadriana estacionada bajo la superficie del planeta.
+La-Verdad-Espera regresó a la nave robada, caminando encorvado para no desviar la atención de su habitual disciplina militar, e informó a la almirante de lo que había averiguado.
+
+## Relaciones
+### Almirante
+La-Verdad-Espera está a las órdenes de la Almirante de la Brigada Nocturna y depende directamente de ella. Comprende qué tipo de información podría resultar especialmente satisfactoria o exasperante para ella, y alberga al menos un leve temor ante su enojo.
+
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

@@ -10,7 +10,7 @@
 |**Nacido en**|1138|
 |**Capacidades**|[[Orden de los Rompedores del Cielo\|Rompedor del Cielo]], [[Portador de esquirlada\|Portador de esquirlada]]|
 |**Vinculado con**|[[Altospren de Szeth\|Altospren de Szeth]]|
-|**Títulos**|[[Sinverdad\|Sinverdad]] de [[Shinovar\|Shinovar]]|
+|**Títulos**|[[Sinverdad\|Sinverdad]] de [[Shinovar\|Shinovar]], Asesino, Caminante de piedras|
 |**Apodos**|Asesino de Blanco, Szeth de los Rompedores del Cielo, Szeth de Shinovar, Todo de Blanco|
 |**Oficio**|Asesino , guardaespaldas|
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
@@ -166,7 +166,7 @@ Después de su enfrentamiento con Kaladin, Szeth se retiró a la cumbre de Urith
 \-Szeth to Dalinar[18]
 
 
-Szeth atacó a Dalinar durante el clímax de la [[Batalla de Narak\|Batalla de Narak]]. Dalilnar fue capaz de defenderse durante un rato él solo antes de ser lanzado por los aires, para caer hacia su muerte cuando se acabara la luz tormentosa que lo sujetaba. Sin embargo, antes de que nada de eso pasara, Kaladin, habiendo jurado recientemente el Tercer Ideal de los Corredores del Viento, se precipitó y le capturó, devolviendo a Dalinar al suelo a salvo. Kaladin y Szeth lucharon por encima de la [[Alta tormenta\|alta tormenta]] y la [[Tormenta eterna\|Tormenta eterna]] que estaban chocando. Durante la pelea Szeth llegó a la conclusión de que Kaladin realmente era un Radiante, así que Szeth nunca había sido Sinverdad. Incapaz de aceptar sus propias acciones, Szeth se desvinculó de su hoja de honor y cayó a través la alta tormenta hacia su muerte.
+Szeth atacó a Dalinar durante el clímax de la [[Batalla de Narak\|Batalla de Narak]] el Ishishach 1173.. Dalinar fue capaz de defenderse durante un rato él solo antes de ser lanzado por los aires, para caer hacia su muerte cuando se acabara la luz tormentosa que lo sujetaba. Sin embargo, antes de que nada de eso pasara, Kaladin, habiendo jurado recientemente el Tercer Ideal de los Corredores del Viento, se precipitó y le capturó, devolviendo a Dalinar al suelo a salvo. Kaladin y Szeth lucharon por encima de la [[Alta tormenta\|alta tormenta]] y la [[Tormenta eterna\|Tormenta eterna]] que estaban chocando. Durante la pelea Szeth llegó a la conclusión de que Kaladin realmente era un Radiante, así que Szeth nunca había sido Sinverdad. Incapaz de aceptar sus propias acciones, Szeth se desvinculó de su hoja de honor y cayó a través la alta tormenta hacia su muerte.
 Poco después de su muerte, Szeth fue revivido por [[Nale\|Nale]], quien utilizó un fabrial para curar su cuerpo antes de que su espíritu se marchara.ç Aunque Szeth al principio estalló en furia por haber sido resucitado, Nale le prometió que le daría un nuevo propósito y le regaló a [[Sangre Nocturna\|Sangre Nocturna]].
 
 ### Aprendiz de Rompedor del Cielo (1173 - 1174)

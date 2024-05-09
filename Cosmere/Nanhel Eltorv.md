@@ -1,16 +1,20 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nanhel Eltorv**|
 |-|-|
 |**Oficio**|Marinero|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
-**Nanhel Eltorv** is a sailor on [[Roshar\|Roshar]] and a member of Captain [[Tozbek\|Tozbek]]'s crew on the *[[Wind's Pleasure\|Wind's Pleasure]]*.
+**Nanhel Eltorv** es un marinero en [[Roshar\|Roshar]] y miembro de la tripulación del capitán [[Tozbek\|Tozbek]] en el *[[Placer del Viento\|Placer del Viento]]*.
 
-## History
-When the crew spotted a [[Santhid\|santhid]] during [[Jasnah Kholin\|Jasnah Kholin]] and [[Shallan Davar\|Shallan Davar]]'s trip, Nanhel thought that it was an omen of good luck.
-Following the sinking of the *Wind's Pleasure*, Nanhel's fate is unknown, but he likely died.
+## Historia
+Cuando la tripulación avistó un [[Santhid\|santhid]] durante el viaje de [[Jasnah Kholin\|Jasnah Kholin]] y [[Shallan Davar\|Shallan Davar]], Nanhel pensó que era un presagio de buena suerte.
+Tras el hundimiento del *Placer del Viento*, se desconoce el destino de Nanhel, pero es probable que muriese.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 13:47, 11 September 2018 (MST)

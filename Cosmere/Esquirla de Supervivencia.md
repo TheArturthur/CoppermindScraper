@@ -9,14 +9,14 @@
 |**Residencia**|*Desconocida*|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 La **Esquirla de Supervivencia** es una de las dieciséis [[Esquirlas\|Esquirlas de Adonalsium]]. Prácticamente no conocemos nada de esta Esquirla, ni su Intención ni su residencia actual.
-La única pista de su existencia es una enigmática cita que Brandon escribió en un libro durante un firma como respuesta a la pregunta "Danos el nombre de la Intención de una Esquirla que no hayamos visto antes", él escribió: "hay una que solo quiere esconderse y sobrevivir." Esto probablemente hace referencia a sobrevivir a los violentos ataques de [[Odium\|Odium]] contra las otras Esquirlas.
-Desde entonces, se han revelado los nombres correspondientes a las Esquirlas [[Ambici%C3%B3n\|Ambición]], [[Invenci%C3%B3n\|Invención]], [[Piedad\|Piedad]], [[Valent%C3%ADa\|Valentía]], [[Capricho\|Capricho]] y [[Virtuosismo\|Virtuosismo]]. Ambición ya ha sido Astillada por Odium y Virtuosismo se Astilló a sí misma, pero cualquiera de las otras cuatro podría ser esta Esquirla. Por otro lado, Brandon ha dado a entender que la Intención de la Esquirla sería algo parecido a "Sabiduría" o "Prudencia".
-La Intención de la Esquirla solo está relacionada de forma tangencial con su deseo de esconderse. Este deseo proviene de su conocimiento de los sucesos en el Cosmere. Y aunque este deseo de no ser atrapada es "bastante inteligente", con el tiempo se ha dado cuenta de que puede que no sea lo más importante.
+La única pista de su existencia es una enigmática cita que Brandon escribió en un libro durante un firma como respuesta a la pregunta «Danos el nombre de la Intención de una Esquirla que no hayamos visto antes», él escribió: «hay una que solo quiere esconderse y sobrevivir». Esto probablemente hace referencia a sobrevivir a los violentos ataques de [[Odium\|Odium]] contra las otras Esquirlas.
+Desde entonces, se han revelado los nombres correspondientes a las Esquirlas [[Ambici%C3%B3n\|Ambición]], [[Invenci%C3%B3n\|Invención]], [[Piedad\|Piedad]], [[Valent%C3%ADa\|Valentía]], [[Capricho\|Capricho]] y [[Virtuosismo\|Virtuosismo]]. Ambición ya ha sido Astillada por Odium y Virtuosismo se Astilló a sí misma, pero cualquiera de las otras cuatro podría ser esta Esquirla. Por otro lado, Brandon ha dado a entender que la Intención de la Esquirla sería algo parecido a «Sabiduría» o «Prudencia».
+La Intención de la Esquirla solo está relacionada de forma tangencial con su deseo de esconderse. Este deseo proviene de su conocimiento de los sucesos en el Cosmere. Y aunque este deseo de no ser atrapada es «bastante inteligente», con el tiempo se ha dado cuenta de que puede que no sea lo más importante.
 
+## Curiosidades
+Está planificado que la Esquirla de la Supervivencia al menos se mencione en *[[Wind and Truth\|Wind and Truth]]*.
 ## Notas
 
 

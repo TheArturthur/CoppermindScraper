@@ -2,10 +2,11 @@
 |**Sangre Segura**|
 |-|-|
 ||
-|**Fallecido**|[[Batalla de Narak\|Batalla de Narak]]|
+|**Fallecido**|Ishishach 1173, [[Batalla de Narak\|Batalla de Narak]]|
 |**Especie**|[[Ryshadio\|Ryshadio]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*There had been a ... bond between him and Sureblood. More delicate and indefinable than the bond between man and sword, but still there.*”
 \-Adolin[2]
@@ -15,8 +16,8 @@
 
 ## Apariencia y personalidad
   Con <<Adolin\|Adolin>>
-Sengre segura es un semental ryshadio blanco con ojos oscuros; [[Shallan\|Shallan]] comenta que su color es blanco puro, no gris polvoriento. Es bastante alto, especialmente en comparación a una jaca. No tiene una constitución tan poderosa como [[Galante\|Galante]], que es mucho más voluminoso y ancho que Sangre Segura. A diferencia de Galante, no hace chasquidos felices con la lengua.
-Sangre Segura no tiende a entrar en pánico y se mantiene calmado bajo las flechas enemigas, incluso cuando los caballos de guerra no lo hacen, y raramente necesita el cuidado de los mozos de cuadra. Sangre Segura y su amo comparten un vínculo íntimo. Es consciente de las emociones de Adolin y a menudo brinca mientras Adolin lo monta para intentar mejorar su humor; Adolin cree que también es consciente de las emociones de Sangre Segura. Simplemente estar cerca de Sangre Segura es suficiente para que Adolin se sienta mejor, y a lo largo de la vida de Sangre Segura, Adolin se ha sentido mal al montar otros caballos.
+Sengre segura es un semental [[Ryshadio\|ryshadio]] blanco con ojos oscuros; [[Shallan\|Shallan]] comenta que su color es blanco puro, no gris polvoriento. Es bastante alto, especialmente en comparación a una jaca. No tiene una constitución tan poderosa como [[Galante\|Galante]], que es mucho más voluminoso y ancho que Sangre Segura. A diferencia de Galante, no hace chasquidos felices con la lengua.
+Sangre Segura no tiende a entrar en pánico y se mantiene calmado bajo las flechas enemigas, incluso cuando los caballos de guerra no lo hacen, y raramente necesita el cuidado de los mozos de cuadra. Sangre Segura y su amo comparten un vínculo íntimo. Es consciente de las emociones de [[Adolin\|Adolin]] y a menudo brinca mientras Adolin lo monta para intentar mejorar su humor; Adolin cree que también es consciente de las emociones de Sangre Segura. Simplemente estar cerca de Sangre Segura es suficiente para que Adolin se sienta mejor, y a lo largo de la vida de Sangre Segura, Adolin se ha sentido mal al montar otros caballos.
 
 ## Historia
 [[Adolin\|Adolin]] estuvo más nervioso el día en el que conoció a Sangre Segura que en el que ganó su [[Mayalaran\|hoja esquirlada]] porque los [[Ryshadio\|ryshadios]] escogen a su jinete. Era joven cuando formaron el vínculo, aunque se desconoce su edad concreta. Sangre Segura y Adolin ya tenían un vínculo íntimo en el año 1173, cuando vivían en los campamentos de las [[Llanuras Quebradas\|Llanuras Quebradas]] y el rey [[Elhokar\|Elhokar]] quiso organizar la caza de un [[Abismoide\|abismoide]]. Cuando el abismoide apareció inesperadamente en su meseta, Adolin corrió a por Sangre Segura y lo montó hacia el conflicto, cortando las patas de la criatura mientras cabalgaba a su alrededor. Adolin también montó a Sureblood en las escaramuzas con los [[Parshendi\|parshendi]] en las Llanuras Quebradas mientras los [[Alezi\|alezi]] intentaban conseguir [[Gema coraz%C3%B3n\|gemas corazón]], aunque normalmente lideraba la carga a pie para poder saltar de una meseta a otra.

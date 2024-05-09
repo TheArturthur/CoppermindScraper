@@ -1,15 +1,47 @@
 
 
-|**[[The Lightweaver of Rens\|<]]*Dragonsteel* Prime**|
+|***Dragonsteel* Prime**|
 |-|-|
-|**Series**|
-|**Anterior**|*[[The Lightweaver of Rens\|The Lightweaver of Rens]]*|
-|**Localización**|[[Yolen\|Yolen]], [[Cosmere\|Cosmere]]|
-> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) **!Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro
+||
+|**Fecha original**|March 29, 2024|
+|**Editorial**|[[Dragonsteel Entertainment\|Dragonsteel Entertainment]]|
 
-***Dragonsteel Prime*** fue la séptima novela de [[Brandon Sanderson\|Brandon Sanderson]], y la escribió como parte de su tesis del máster de escritura creativa. Existen cinco copias en la biblioteca de Harold B Lee en la Universidad Brigham Young, y cuatro de ellas se pueden tomar prestadas. Tras la gran acogida a la publicación de *[[El camino de los reyes Prime\|El camino de los reyes Prime]]*, Brandon ha barajado la posibilidad de publicar este trabajo como parte de una saga de "Curiosidades de Sanderson"; ahora se confirma que estará disponible como parte del Kickstarter de *Palabras radiantes* encuadernado en piel en 2024.
-Brandon afirma que no fue de sus mejores trabajos. Planea reescribir y publicar la novela tras completar *[[El archivo de las tormentas\|El archivo de las tormentas]]*. Hay secciones del libro como [[Las Llanuras Quebradas\|las Llanuras Quebradas]], que más tarde se terminaron utilizando en *[[El camino de los reyes\|El camino de los reyes]]*, pero Brandon considera algunos de los otros hechos como canon. Tuvo dudas sobre eliminar las Llanuras Quebradas porque, aunque no era esencial para la historia, creía que era la parte que mejor funcionaba del libro.
+***Dragonsteel Prime*** fue la séptima novela de [[Brandon Sanderson\|Brandon Sanderson]], y la escribió como parte de su tesis del máster de escritura creativa. Existen cinco copias en la biblioteca de Harold B Lee en la Universidad Brigham Young, y cuatro de ellas se pueden tomar prestadas. Tras la gran acogida a la publicación de *[[El camino de los reyes Prime\|El camino de los reyes Prime]]*, Brandon ha considerado la posibilidad de publicar este trabajo como parte de una saga de "Curiosidades de Sanderson", y, finalmente, se publicó durante la campaña de  de la edición en cuero de *[[Palabras radiantes\|Palabras radiantes]]*. El libro puede descargarse .
+Brandon afirma que no fue de sus mejores trabajos. Planea reescribir y publicar la novela tras completar *[[El archivo de las tormentas\|El archivo de las tormentas]]*. Hay secciones del libro como [[Las Llanuras Quebradas\|las Llanuras Quebradas]], que más tarde se terminaron utilizando en *[[El camino de los reyes\|El camino de los reyes]]*, pero Brandon considera algunos de los otros hechos como canon. En concreto, Brandon ha declarado que considera canon la mayor parte de la construcción del mundo en el libro, pero no los personajes. Tuvo dudas sobre eliminar las Llanuras Quebradas porque, aunque no era esencial para la historia, creía que era la parte que mejor funcionaba del libro.
 En 2007 Brandon comenzó a trabajar en la reescritura de la serie de *Dragonsteel*. Comenzó con *[[The Liar of Partinel\|The Liar of Partinel]]* y *[[The Lightweaver of Rens\|The Lightweaver of Rens]]*, que tenían lugar unos quinientos años antes de *Dragonsteel Prime*, el cual planeaba reescribir y publicar como *The Eternal War*. Sin embargo, al terminar Liar quedó insatisfecho con el resultado y aparcó la saga para el futuro. Como *The Eternal War* iniciaría el arco principal de la historia, pretendía llamarlo *Dragonsteel Libro 1* y esperar que los lectores lo conectaran con los otros dos libros para evitar la confusión de comenzar la historia como 'Libro 3'. La historia se desarrolla en [[Yolen\|Yolen]] y se centra en [[Jerick\|Jerick]], aunque incluye otros puntos de vista como Topacio, también conocido como [[Hoid\|Hoid]].
+
+## Sumario
+
+1 Resumen de la trama. [[#Resumen de la trama]] 
+
+1. [[#Jerick]] 
+
+
+2 Personajes. [[#Personajes]] 
+3 Notas. [[#Notas]] 
+
+
+## Resumen de la trama
+### Jerick
+Jerick, un joven de una aldea de Melerand, se ve envuelto en una lucha ideológica de castas entre el rey Rodis y Kalord Strafen, y es sacado de su aldea para ser educado en la capital. Con el paso de los años, adquiere una gran educación y se hace popular entre la nobleza y los sirvientes. Durante su tiempo de aprendizaje en la capital, descubre sus habilidades de [[Microquinesis\|microquinesis]].
+Vivió en paz hasta que un asesino de sho del se infiltró en el castillo e intentó matar al rey. Jerick intentó protegerlo, pero fracasó.
+Esto le llevó a viajar a las Llanuras Quebradas, donde fue convertido en hombre del puente debido a su casta. Con el tiempo obtuvo el reconocimiento de un general por sus dotes de liderazgo y su capacidad de combate, y se convirtió en miembro de los Tzai, una fuerza militar de élite formada en diversas magias. Tuvo mucho éxito como Tzai y ascendió rápidamente gracias a sus habilidades microcinéticas.
+
+## Personajes
+
+[[Bat'Chor\|Bat'Chor]]
+[[Frost\|Frost]]
+[[Topacio\|Topacio]]
+Courteth
+[[Jerick\|Jerick]]
+Mardle
+Martis
+Rin
+Rodis
+Ryalla
+Strafen
+Torell
+Yoharn
 
 ## Notas
 

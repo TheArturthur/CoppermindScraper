@@ -43,12 +43,11 @@ Este artículo trata sobre la tercera novela de [[El archivo de las tormentas\|E
 
 
 ## Sinopsis
-*A new storm has come.*
-*Ash and red lightning sweep the land, awakening our ancient enemies. The Unmade—shadows of the Enemy's soul—stir, while the eyes of men open. This war is not, and never was, what they thought it to be.*
-*We may soon hold Surges again, for Radiance has returned to some, and shines toward others. **[[Kaladin\|The Captain]]**, broken by loss, seeks reconciliation. **[[Shallan\|The Spy]]**, broken by cruelty, seeks completion. **[[Szeth\|The Stonewalker]]**, broken by oaths, seeks truth. **[[Venli\|The Traitor]]**, broken by ambition, seeks freedom.*
-*And finally **[[Dalinar\|the King]]**. Broken by war, he seeks the past. That which was abandoned. That which he* must not know.
-*For those secrets will crush him as they did the knights who came before.*
-
+*Una nueva tormenta se avecina*
+*Ceniza y relámpagos rojos barren la tierra, despertando a nuestros antiguos enemigos. Los Deshechos—sombras del alma del Enemigo—se agitan, mientras los ojos de los hombres se abren. Esta guerra no es, y nunca fue, lo que pensaban que era.*
+*Pronto podremos blandir las Potenciaciones de nuevo, pues el Resplandor ha vuelto a algunos, y brilla hacia otros. **[[Kaladin\|El Capitán]]'*****, roto por la pérdida, busca la reconciliación. **[[Shallan\|La espía]]*, rota por la crueldad, busca que todo acabe. **[[Szeth\|El caminante de piedras]]**, roto por juramentos, busca la verdad. **[[Venli\|La Traidora]]**, rota por la ambición, busca la libertad.*
+*Y finalemente **[[Dalinar\|el Rey]]**. Roto por la guerra, busca su pasado. El cual fue abandonado. El cual no debe conocer.*
+*Porque esos secretos le aplastarán como hicieron con los caballeros que vinieron antes.*
 
 ## Solapa de la cubierta
 La victoria fugaz de los ejércitos alezi de Dalinar Kholin ha tenido consecuencias: el enemigo parshendi ha convocado la violenta tormenta eterna, que arrasa el mundo y hace que los hasta ahora pacíficos parshmenios descubran con horror que llevan un milenio esclavizados por los humanos. Al mismo tiempo, en una desesperada huida para alertar a su familia de la amenaza, Kaladin se pregunta si la repentina ira de los parshmenios está justificada.
