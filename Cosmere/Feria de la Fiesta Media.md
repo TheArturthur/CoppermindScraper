@@ -4,33 +4,33 @@
 |**Mundo**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Middlefest Fair** is an annual festival that takes place on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
+La **Feria de la Fiesta Media** es un festival anual que tiene lugar en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
 
 ## Sumario
 
-1 Time & Location. [[#Time .26 Location]] 
-2 Events. [[#Events]] 
-3 Notable Middlefests. [[#Notable Middlefests]] 
-4 Trivia. [[#Trivia]] 
-5 Notes. [[#Notes]] 
+1 Fecha y localización. [[#Fecha y localizaci.C3.B3n]] 
+2 Eventos. [[#Eventos]] 
+3 Notables Ferias de la Fiesta Media. [[#Notables Ferias de la Fiesta Media]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-## Time & Location
-The Middlefest Fair takes place at the same time each year, during [[Midpeace\|Midpeace]]. Midpeace is the period opposite the  in the Rosharan year. There are no [[Highstorm\|highstorms]] during Midpeace, but it does not have the incessant rain of the Weeping. This gap in the storms allows for the longer festival. It also seems likely that the Middlefest fair gets its name from Midpeace.
-The Middlefest Fair is celebrated in the kingdoms of [[Jah Keved\|Jah Keved]] and [[Alethkar\|Alethkar]], but it is uncertain which others participate. In rural regions of the kingdoms, there are traditional fairgrounds on the highlords' lands where the festivities are set up each year. Local lords of at least the fourth [[Dahn\|dahn]] and their vassal houses attend the fairs, along with their households.
+## Fecha y localización
+La Feria de la Fiesta Media tiene lugar en la misma fecha cada año, durante [[Mediapaz\|Mediapaz]]. Mediapaz es el periodo opuesto al [[Llanto\|Llanto]] en el año roshariano. No hay [[Alta tormenta\|altas tormentas]] durante Mediapaz, pero tampoco tiene la lluvia incesante del Llanto. Esta pausa en las tormentas permite para un festival más largo. También parece probable que el nombre de Feria de la Fiesta Media provenga de la palabra Mediapaz.
+La Feria de la Fiesta Media se celebra en los reinos de [[Jah Keved\|Jah Keved]] y [[Alezkar\|Alezkar]], pero no se sabe si otros participan también. En las regiones rurales de los reinos, hay zonas de atracciones tradicionales en las tierras de los altos señores donde se localizan las festividades cada año. Los señores locales de al menos cuarto [[Dahn\|dahn]] y sus casas vasallas atienden las ferias, junto con sus familias.
 
-## Events
+## Eventos
 The Middlefest Fair is the highlight of the year for many darkeyes and lighteyes alike. Among the most popular events are the duels. Fought by lighteyes of low dahn, the duels are one of the few ways that lesser landless lighteyes can gain notoriety in their area. Higher-ranking lighteyes get boxes to view the fights, and even occasionally participate themselves.
 There are also simple games of guessing and chance. Occasionally a  will attend to provide tales of far-off lands and peoples. The darkeyes bring drums and sing songs together. Eating, drinking and gambling are also common activities. People play card games and bet on [[Axehound\|axehound]] fights. Children are often given sweets.
 The fair is also an opportunity for merchants, including highly ranked darkeyes, to sell their wares. Exotic goods and creatures are bought and sold, such as "[[Chicken\|chickens]]" from exotic [[Shinovar\|Shinovar]]. Lighteyes also use the event to make various trade agreements and maneuver for influence among one another and with the local [[Highprince\|highprince]].
 
-## Notable Middlefests
+## Notables Ferias de la Fiesta Media
 In [[Shallan Davar\|Shallan Davar]]'s youth, she attends a Middlefest Fair on her family's lands. Her father was forced to agree to a disadvantageous trade agreement with Brightlord [[Revilar\|Revilar]], who has the favor of Highprince [[Valam\|Valam]]. Shallan attempted to bring happiness to her family by helping repair the damage their father did to [[Balat\|Balat]], [[Jushu\|Jushu]], and [[Wikim\|Wikim]]. She also met [[Hoid\|Hoid]], who tested Shallan's [[/wiki/Surgebinding#Illumination]] abilities, delivered a message from [[Helaran\|Helaran]], and encouraged her to remain strong.
 
-## Trivia
+## Curiosidades
 When  tears up [[Tvlakv\|Tvlakv]]'s map en route to the [[Shattered Plains\|Shattered Plains]], he spitefully wishes the [[Thaylen\|Thaylen]] a happy Middlefest.
 [[House Davar\|House Davar]] uses canvas draped between [[Jella\|jella]] trees to create canopies that are used as pavilions.
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 10:26, 24 April 2019 (MST)

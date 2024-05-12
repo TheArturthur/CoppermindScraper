@@ -11,6 +11,7 @@
 |**Etnia**|[[Grande\|Grande]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El alma del emperador\|El alma del emperador]]*|
 
 **Ashravan** de los Ochenta Soles es el cuadragésimo noveno emperador del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]] y un miembro de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]. En el momento de su lesión tiene cuarenta años.
 
@@ -48,7 +49,7 @@ El alma del emperador por Botanicaxu
 
 
 
-A pesar de ser conocido por tener un temperamento fuerte, en el fondo es un hombre humilde y un idealista. Le encanta escribir poesía mala y disfruta de los buenos debates. Es arrogante, aunque en secreto desea ser una persona distinta de la que se ha convertido. No le gusta el pescado y disfruta escuchándose a sí mismo dando discursos.
+A pesar de ser conocido por tener un temperamento fuerte, en el fondo es un hombre humilde y un idealista. Le encanta escribir poesía mala y disfruta de los buenos debates. Es arrogante, aunque en secreto desea ser una persona distinta de la que se ha convertido. Disfruta escuchándose a sí mismo dando discursos. También odia el pescado y .
 
 ## Historia
 ### Vida temprana

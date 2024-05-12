@@ -1,26 +1,45 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 
 
-|**[[Sexto del Ocaso\|<]]Secuela de *Sexto del Ocaso***|
+|**[[Sexto del Ocaso\|<]]*Isles of the Emberdark***|
 |-|-|
+||
 |**Series**|
 |**Anterior**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
 |**Localización**|[[Primero del Sol\|Primero del Sol]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|*No publicado*|
+|**Fecha original**|2025|
 
 > [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) *[[Isles of the Emberdark!--*
 -->]]*!**Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro*
 
-La **secuela *Sexto del Ocaso*** es una novela inédita del [[Cosmere\|Cosmere]] escrita por [[Brandon Sanderson\|Brandon Sanderson]] y ambientada en [[Primero del Sol\|Primero del Sol]].
+***Isles of the Emberdark*** es el título provisional de una secuela de *[[Sexto del Ocaso\|Sexto del Ocaso]]*. 
+
+## Sumario
+
+1 Desarrollo. [[#Desarrollo]] 
+2 Resumen de la trama. [[#Resumen de la trama]] 
+3 Sinopsis. [[#Sinopsis]] 
+4 Notas. [[#Notas]] 
+
 
 ## Desarrollo
 Brandon declaró inicialmente que no tenía planes de escribir una continuación de *[[Sexto del Ocaso\|Sexto del Ocaso]]*, pero más tarde se le ocurrió una idea que le gustaba y que implicaba a [[Sexto del Ocaso (personaje)\|Ocaso]] adentrándose en el [[Reino Cognitivo\|Reino Cognitivo]], y escribió un esbozo y el primer capítulo de dicha historia. Sin embargo, no se atreve a escribir más y a publicar la novela, porque contendría muchos spoilers sobre la era espacial del Cosmere. En la fiesta virtual de presentación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, leyó un fragmento de lo que ya había escrito; puedes encontrar una transcripción de la lectura  y su traducción al español .
+Brandon luchó por sacar adelante la trama durante varios años, hasta que añadió a Starling y su narración a la historia, lo que permitió que su escritura cobrara impulso y la historia tomara forma.
 
 ## Resumen de la trama
 En el borrador leído en la fiesta de presentación de *El ritmo de guerra*, la historia tiene lugar unos seis años después de los acontecimientos de *Sexto del Ocaso*. Los [[Venidos de Arriba\|Venidos de Arriba]] empiezan a impacientarse y quieren construir una instalación para criar y recolectar [[Aviar\|aviares]] en una de las islas de [[Primero del Sol\|Primero del Sol]]. [[Vathi\|Vathi]] y [[Ocaso\|Ocaso]] intentan averiguar cómo retrasar su avance y también tratan con gente de otro mundo, probablemente [[Roshar\|Roshar]]. Ocaso se da cuenta de que la gente de Primero del Sol está irremediablemente superada y decide atravesar el [[Ojo de Patji\|Ojo de Patji]], la [[Perpendicularidad\|perpendicularidad]] de la [[Patji (isla)\|isla de Patji]], para intentar conseguir ayuda.
+En la segunda narración, Starling, un dragón de Yolen, es exiliado del planeta doce años antes de los acontecimientos de la historia, y con el tiempo se convierte en teniente de una nave que vuela en el [[Reino Cognitivo\|Reino Cognitivo]], propiedad de [[Xisis\|Xisis]].
+
+## Sinopsis
+*Toda su vida, Sexto del Ocaso ha sido un trampero tradicional de aviares -las aves sobrenaturales con las que su pueblo se vincula- en la mortífera isla de Patji. Entonces, una fatídica noche, empuja a su pueblo a una carrera por modernizarse antes de que los Venidos de Arriba, invasores de las estrellas que quieren explotar a los aviares, los conquisten.*
+*Pero es una carrera que están perdiendo, y Ocaso teme que su pueblo se pierda a sí mismo en el intento. Cuando se le presenta la oportunidad de navegar hacia la inmensidad del ascuaoscura más allá de un portal místico, Ocaso parte en busca de la salvación de su pueblo con tan solo una canoa, sus pájaros y todo el coraje y la astucia de un trampero de Patji.*
+*En otro lugar del ascuaoscura hay una joven dragona encadenada en forma humana: Starling de la nave estelar *Dynamic*. Ella y su variopinta tripulación de exiliados están muy endeudados y a punto de perder su libertad. Por eso, cuando encuentra un antiguo mapa de un portal oculto entre el asuaoscura y el Reino Físico, aprovecha la oportunidad de hacer un lucrativo descubrimiento.*
+*Estos improbables aliados podrían ser la solución a la crisis del otro. En su búsqueda de la independencia, Ocaso y Starling se enfrentan a peligrosas negociaciones, políticas envenenadas y el eco destructivo de un dios muerto.*
+*Sanderson amplía su emocionante novela *Sexto del Ocaso* para convertirla en una novela mítica de leyendas, tradiciones y superpotencias galácticas en guerra*.
 
 ## Notas
 
-Este meta-artículo está completo, pero no ha sido revisado todavía.
+A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
 |**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
 |-|-|
 |**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|

@@ -1,20 +1,23 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Natata Ved**|
 |-|-|
-|**Apodos**|Oileyes|
-|**Oficio**|Scholar|
+|**Apodos**|Ojos de Aceite|
+|**Oficio**|Erudita|
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Natata Ved**, also known as **Natata Oileyes** or simply **Oileyes**, was an ancient [[Jah Keved\|Veden]] scholar on [[Roshar\|Roshar]]. Her nickname was given to her by her contemporaries, but its meaning is unknown.
-Natata lived in [[Jah Keved\|Jah Keved]] two hundred years after the death of King [[NanKhet\|NanKhet]] and the founding of the [[Siln\|Siln]] dynasty. She is best known for writing a dramatized account of NanKhet's life and death, which is the earliest source of information about him to have survived to the present day.
-Despite the long time passing between NanKhet's death and her work, she insisted that her research was rigorous, although [[Jasnah Kholin\|Jasnah Kholin]] notes that modern scholarship was still in its infancy during Natata's lifetime. Oileyes is said to have had a passion for the dramatic, and took delight in describing the irony of NanKhet's final moments.
+**Natata Ved**, también conocida como **Natata Ojos de Aceite** o simplemente **Ojos de Aceite**, era una erudita [[Jah Keved\|veden]] de la antiguedad en [[Roshar\|Roshar]]. Sus contemporáneos le pusieron el apodo, pero se desconoce su significado.
+Natata vivió en [[Jah Keved\|Jah Keved]] doscientos años después de la muerte del rey [[NanKhet\|NanKhet]] y la fundación de la dinastía [[Siln\|Siln]]. Se la conoce sobre todo por haber escrito un relato dramatizado de la vida y muerte de NanKhet, que es la primera fuente de información sobre él que ha llegado hasta nuestros días.
+A pesar del largo tiempo transcurrido entre la muerte de NanKhet y su obra, ella insistía en que su investigación era rigurosa, aunque [[Jasnah Kholin\|Jasnah Kholin]] señala que la erudición moderna estaba aún en pañales en tiempos de Natata. Se dice que a Ojos de Aceite la apasionaba lo dramático y se deleitaba describiendo la ironía de los últimos momentos de NanKhet.
 
->“* “The great, but weary, NanKhet called for an accounting of all his household. He gathered them together at a grand feast, promising the delights of distant Aimia. Instead, when all were assembled, NanKhet had them executed one by one. Their bodies were burned in a grand pyre, upon which was cooked the meat for the feast that he ate alone, at a table set for two hundred.”*”
-\- From Natata Ved's account of NanKhet's life[1]
+>“* «el gran pero agotado NanKhet mandó reunir a todos sus parientes, por lejanos que fuesen. Los invitó a todos a un grandioso banquete, prometiéndoles las delicias de la distante Aimia. Pero en lugar de celebrarlo, cuando estuvieron todos juntos, NanKhet los hizo ejecutar uno por uno. Sus cuerpos ardieron en una gran pira, sobre la que se asó la carne para un banquete que degustó el solo, en una mesa puesta para doscientas personas»*”
+\- Del relato de Natata Ved sobre la vida de NanKhet[1]
 
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 15:12, 18 June 2019 (MST)

@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 El sumo prelado **Arriev** es un [[Obligador\|obligador]] del  en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
 

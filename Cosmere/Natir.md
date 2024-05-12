@@ -1,26 +1,30 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Natir**|
 |-|-|
 |**Familia**|
 |**Cónyuge**|[[Alaxia\|Alaxia]]|
-|**Oficio**|Head steward|
+|**Oficio**|Mayordomo jefe|
 |**Lugar de nacimiento**|[[Dalilak\|Dalilak]]|
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Etnia**|[[De Alezkar\|de Alezkar]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Natir** is an  steward on [[Roshar\|Roshar]].
+**Natir** es un mayordomo [[Alezi\|alezi]] en [[Roshar\|Roshar]].
 
-## Appearance and Personality
-He is tall and has slender hands. He wears a long black coat and a purple cravat.
+## Apariencia y personalidad
+Es alto y tiene las manos delgadas. Lleva un abrigo largo negro y un corbatón morado.
 
-## History
-Natir hails from [[Dalilak\|Dalilak]] in the far north of Alethkar. He is married to a stern-looking woman named [[Alaxia\|Alaxia]].
-In 1168, he was hired as the head steward of Citylord [[Roshone\|Roshone]] in [[Hearthstone\|Hearthstone]]. Natir was brought in due to [[Miliv\|Miliv]]'s death.
-Natir was present when [[Amaram\|Amaram]] visited Hearthstone seeking new soldiers for his army.
+## Historia
+Natir es originario de [[Dalilak\|Dalilak]], en el extremo norte de Alezkar. Está casado con una mujer de aspecto severo llamada [[Alaxia\|Alaxia]].
+En 1168, fue contratado como mayordomo jefe del consistor [[Roshone\|Roshone]] en [[Piedralar\|Piedralar]]. Natir fue traído debido a la muerte de [[Miliv\|Miliv]].
+Natir estaba presente cuando [[Amaram\|Amaram]] visitó Piedralar en busca de nuevos soldados para su ejército.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 22:53, 11 September 2018 (MST)

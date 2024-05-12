@@ -14,7 +14,7 @@
 \-Adolin a Shallan[1]
 
 
-Las diez **posturas básicas** son estilos de combate utilizados por [[Portador de esquirlada\|portadores de esquirlada]] en la cultura [[Vorin\|vorin]]. Es posible aplicarlas también con armas convencionales.
+Las diez **posturas básicas** son estilos de combate utilizados por soldados en la cultura [[Vorin\|vorin]]. Es posible aplicarlas con [[Empleando esquirlada\|espadas esquirladas]] y con armas convencionales.
 
 ## Sumario
 
@@ -36,8 +36,8 @@ Las diez **posturas básicas** son estilos de combate utilizados por [[Portador 
 
 ## Resumen
 Existen un total de diez posturas (también llamadas poses o posiciones), cada una inspirada en una de las [[Diez Esencias\|Diez Esencias]]. Cada postura comprende un estilo de batalla y unas ciertas tácticas, no solo movimientos de espada concretos.
-Muchos portadores de esquirlada tienen preferencia por alguna postura, aunque pueden escoger otras en ciertas situaciones. La forma y el tamaño de la espada pueden afectar a esta decisión. Otros factores decisivos pueden ser las circunstancias concretas en el campo de batalla, o la experiencia del usuario. No obstante, los mejores espadachines conocen en profundidad todas las posturas, para así poder anticiparse a su oponente y contraatacar de mejor manera. Estas poses requieren de mucha práctica; aunque [[Kaladin\|Kaladin]] ha dominado el combate con lanza, aún le resulta difícil el manejo de la espada.
-Más allá de su aspecto práctico, las posturas son un componente cultural significativo entre los portadores de esquirlada. Cuando [[Adolin\|Adolin]] enseña a [[Shallan\|Shallan]] a usar una hoja esquirlada, incide en el uso apropiado de las posturas, y le habla largo y tendido sobre la tradición y el respeto. Para Adolin, las posturas son fundamentales para guardar el debido respeto a las hojas esquirladas.
+Muchos soldados tienen preferencia por alguna postura, aunque pueden escoger otras en ciertas situaciones. La forma y el tamaño de la espada pueden afectar a esta decisión. Otros factores decisivos pueden ser las circunstancias concretas en el campo de batalla, o la experiencia del usuario. No obstante, los mejores espadachines conocen en profundidad todas las posturas, para así poder anticiparse a su oponente y contraatacar de mejor manera. Estas poses requieren de mucha práctica; aunque [[Kaladin\|Kaladin]] ha dominado el combate con lanza, aún le resulta difícil el manejo de la espada.
+Más allá de su aspecto práctico, las posturas son un componente cultural significativo entre los luchadores vorin. Cuando [[Adolin\|Adolin]] enseña a [[Shallan\|Shallan]] a usar una hoja esquirlada, incide en el uso apropiado de las posturas, y le habla largo y tendido sobre la tradición y el respeto. Para Adolin, las posturas son fundamentales para guardar el debido respeto a las hojas esquirladas.
 Una antigua [[Radiante\|Radiante]] de una de las [[Visiones de Dalinar\|visiones de Dalinar]] señala que no está familiarizada con sus posturas, por lo que probablemente estas hayan evolucionado con el tiempo.
 
 ## Las posturas

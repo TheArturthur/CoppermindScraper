@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Sir Ashinata** es un personaje ficticio que aparece en el programa *[[Estaciones de lamento\|Estaciones de lamento]]* para visores de [[Hion\|hion]]. Lleva una espada de hion y suele mostrarse con líneas de hion azules. Como ronin, Ashinata es un guerrero errante al que se le prohíbe estar con la mujer que ama, Lady [[Hinobi\|Hinobi]].
 Tras su primer beso con Lady Hinobi, Ashinata anunció que tendría que marcharse para siempre, debido a una amenaza puesta en marcha por su malvado hermano muerto. Regresó con Hinobi en un episodio final sorpresa.

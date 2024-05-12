@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Naze-hija-Kuzodo**|
 |-|-|
 |**Familia**|
@@ -8,15 +11,15 @@
 
 > [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
 
->“* We are uncertain the effect this will have on the . At the very least, it should deny them [[Regal\|forms of power]]. [[Melishi\|Melishi]] is confident, but Naze-daughter-Kuzodo warns of unintended side effects.*”
-\- From drawer 30-20, fifth emerald[1]
+>“* No estamos seguros del efecto que tendrá sobre los [[Cantores\|parsh]]. Como mínimo, debería impedirles alcanzar las [[Regios\|formas de poder]]. [[Melishi\|Melishi]] confía en que funcione, pero Naze-hija-Kuzodo advierte de posibles efectos secundarios.*”
+\- Del cajón 30-20, quinta esmeralda[1]
 
 
-**Naze-daughter-Kuzodo** is an ancient resident of [[Roshar\|Roshar]] who is quoted in the [[Urithiru gem archive\|Urithiru gem archive]].
-Naze warned of unintended side-effects to Melishi's plan to trap [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] in a .
-Naze is a contemporary of Melishi and has significant knowledge about the ; it is highly likely that she was one of the many [[Knights Radiant\|Knights Radiant]] based in [[Urithiru\|Urithiru]] prior to the . Her name implies that she is of [[Shin\|Shin]] origin.
+**Naze-hija-Kuzodo** es una antigua residente de [[Roshar\|Roshar]] que aparece citada en el [[Archivo de gemas de Urithiru\|archivo de gemas de Urithiru]].
+Naze advirtió de los efectos secundarios imprevistos del plan de Melishi para atrapar a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] en una [[Gema perfecta\|gema perfecta]].
+Naze es contemporáneo de Melishi y posee importantes conocimientos sobre los [[Portador del Vac%C3%ADo\|Portadores del Vacío]]; es muy probable que fuese uno de los muchos [[Caballeros Radiantes\|Caballeros Radiantes]] asentados en [[Urithiru\|Urithiru]] antes de la [[Traici%C3%B3n\|Traición]]. Su nombre implica que es de origen [[Shin\|shin]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 13:02, 26 November 2017 (MST)

@@ -19,7 +19,8 @@ Es posible crear tres o más vinculacañas dividiendo un rubí en más de dos pa
 Las vinculacañas son incapaces de comunicación interrealmática entre el [[Reino F%C3%ADsico\|Reino Físico]] y el [[Reino Cognitivo\|Cognitivo]].
 
 ## Historia
-Para el sexto año de la [[Guerra de la Venganza\|Guerra de la Venganza]] las vinculacañas han alcanzado un uso generalizado, al menos entre las naciones [[Vorin\|vorin]], desde las [[Llanuras Quebradas\|Llanuras Quebradas]], hasta [[Kharbranth\|Kharbranth]], e incluso hasta los aislados estados de la [[Casa Davar\|casa Davar]].
+Para el 1168, poco después de que empezara la [[Guerra de la Venganza\|Guerra de la Venganza]], las vinculacañas se consideraban todavía como un invento reciente.
+De tomas formas, en el sexto año de la guerra, las vinculacañas han alcanzado un uso generalizado, al menos entre las naciones [[Vorin\|vorin]], desde las [[Llanuras Quebradas\|Llanuras Quebradas]], hasta [[Kharbranth\|Kharbranth]], e incluso hasta los aislados estados de la [[Casa Davar\|casa Davar]].
 A partir del 1173, [[Tashikk\|Tashikk]] está empezando a convertirse en un centro de vinculacañas, con varias personas y lugares conectadas a varios negocios en Tashikk. El operador es contratado por el usuario remoto para intercambiar mensajes, investigar en su nombre y realizar otras consultas.
 
 ## Notas

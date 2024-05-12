@@ -4,11 +4,12 @@
 |**Aving Cett**|
 |-|-|
 |**[[House Cett\|House Cett]]**|
-|**Parientes**|[[Westweather Cett\|Westweather]]|
-|**Ancestros**|[[Ashweather Cett\|Ashweather]], [[Madre de Allrianne\|madre de Allrianne]]|
+|**Parientes**|[[Westweather\|Westweather]] [[Darlin\|Darlin]]|
+|**Ancestros**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|madre de Allrianne]]|
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 Lady **Aving Cett** es una miembro de la [[Casa Cett\|Casa Cett]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 

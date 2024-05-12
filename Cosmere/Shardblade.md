@@ -8,7 +8,7 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+
 
 >“*Según la leyenda, las hojas esquirladas fueron usadas por primera vez por los [[Caballeros Radiantes\|Caballeros Radiantes]] muchos siglos atrás. Regalo de su dios, les permitián combatir contra horrores de roca y llama de docenas de metros de altura, enemigos cuyos ojos ardían de puro odio. Los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].*”
 \-Pensamientos de Szeth sobre las hojas esquirladas[1]
@@ -287,7 +287,7 @@ Lista de todas las hojas muertas conocidas organizada según su dueño actual o 
 |[[Gavilar Kholin\|Gavilar Kholin]] (Deceased)|[[Tormenta de Fuego\|Tormenta de Fuego]]|*Desconocido*|Tiene filo en ambos lados, con patrones de llamas|Estaba en posesión de Elhokar como espada del Rey, posiblemente pasó a Jasnah tras su coronación.||
 |[[Graves\|Graves]] (Fallecido)|*Desconocido*|*Desconocido*|*Desconocido*|Robada por los fusionados por fines desconocidos||
 |[[Hanavanar\|Hanavanar]] (Fallecido)|*Desconocido*|*Desconocido*|*Desconocido*|Mantuvo la espada en secreto, dos de sus hombres también tenían espadas, se desconoce que pasó con las tres.||
-|[[General Khal\|General Khal]]|*Desconocido*|[[Relis Ruthar\|Relis Ruthar]]|*Desconocido*|Ganada por Adolin en sus duelos.||
+|[[General Khal\|General Khal]]|*Desconocido*|[[Relis Ruthar\|Relis Ruthar]]|Color negro intenso|Ganada por Adolin en sus duelos.||
 |[[Liss\|Liss]]|*Desconocido*|*Desconocido*|*Desconocido*|Era mantenida en secreto para su uso en asesinatos.||
 |[[Meridas Amaram\|Meridas Amaram]] (Fallecido)|*Desconocido*|[[Helaran Davar\|Helaran Davar]]|Gruesa, cuvada, un filo con forma de llamas u ondas, una gema en la empuñadura. Tiene grabados por toda la hoja.|Fue robada por Amaran a Kaladin, ahora Roca es su dueño después de que matara a Amaram.||
 |[[Moash\|Moash]] (Perdida)|*Desconocido*|[[Abrobadar\|Abrobadar]]|Con filo en ambos lados, un patrón con forma de enredadera en su centro, con heliodoro en su empuñadura.|Fue entregada a los fusionados a cambio de su vida.||
@@ -346,7 +346,8 @@ Hoid no puede ser herido por una hoja esquirlada, porque ésta daña el alma y l
 No hay ningún límite teórico para la cantidad de hojas muertas que una persona puede vincular, y una persona puede tener múltiples espadas vivas, pero sería muy difícil obedecer los juramentos de dos órdenes a la vez.
 Dalinar Kholin es incapaz de invocar su hoja esquirlada mientras experimenta las [[Visiones de Dalinar\|visiones]].
 Adolin Kholin tiene la costumbre de invocar y descartar su hoja cuando está nervioso, un rasgo que puede haber heredado de Gavilar, su tío.
-En la versión actual de la secuela de [[Sexto del Ocaso\|Sexto del Ocaso]], un individuo con armadura esquirlada invoca lo que parece ser una “pistola esquirlada”. Parece ser algún tipo de hoja esquirlada viva, ya que tarda menos de diez segundos en aparecer y su portador tiene acceso a la [[Potenciaci%C3%B3n\|potenciación]]. Nunca hemos visto que se dispare; sin embargo, parece necesitar de algún tipo de fuente de alimentación, cuyas mecánicas desconocemos. Hay que señalar que la escena no es de una historia acabada y que puede estar sujeta a cambios.
+
+
 ## Notas
 
 

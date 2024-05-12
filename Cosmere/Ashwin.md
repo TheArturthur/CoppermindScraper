@@ -6,6 +6,7 @@
 |**Grupo**|[[FDD\|FDD]], Cuerpo de Comunicaciones|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Perpetua\|Perpetua]]*|
 
 **Ashwin** es miembro del Cuerpo de Comunicaciones de la [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] en la [[Plataforma Primaria\|Plataforma Primaria]].
 Poco después de la explosión de la nave de la [[Supremac%C3%ADa\|Supremacía]] en la que estaban atrapados los miembros de la [[Asamblea Nacional\|Asamblea Nacional]], Ashwin contacta por radio con la [[L%C3%ADderes de la Asamblea Nacional\|Líder de la Asambrea Nacional]] [[Winter\|Winter]] que quiere hablar con [[Jorgen Weight\|Jorgen Weight]]. Sin embargo, Jorgen se niega y le pide que le diga a Winter que la FDD tiene tres días para responder a su petición, de acuerdo con la Sección 57 de la Política de Comunicaciones de la FDD.

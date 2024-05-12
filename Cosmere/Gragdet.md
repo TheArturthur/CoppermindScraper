@@ -8,7 +8,7 @@
 |**Mundo de origen**|[[Sel\|Sel]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Shu-Dereth** es una religión practicada en el continente de [[Sel\|Sel]] conocido como [[Opelon\|Opelon]] (en su término [[A%C3%B3nico\|aónico]]) o [[Sycla\|Sycla]] (el término [[Fjorden\|fjordell]]). Durante los acontecimientos de [[Elantris (libro)\|Elantris]], es la religión oficial de todas las naciones al este de las montañas Dathreki; [[Arelon\|Arelon]] y [[Teod\|Teod]] son las únicas naciones dentro del "mundo conocido" que se mantienen al margen. 
+**Shu-Dereth** es una religión practicada en el continente de [[Sel\|Sel]] conocido como [[Opelon\|Opelon]] (en su término [[A%C3%B3nico\|aónico]]) o [[Sycla\|Sycla]] (el término [[Fjorden\|fjordell]]). Durante los acontecimientos de [[Elantris (libro)\|Elantris]], es la religión oficial de todas las naciones al este de las [[Monta%C3%B1as Atad\|montañas Dathreki]]; [[Arelon\|Arelon]] y [[Teod\|Teod]] son las únicas naciones dentro del "mundo conocido" que se mantienen al margen. 
 
 ## Sumario
 

@@ -1,53 +1,55 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Natanatan**|
 |-|-|
-|**Etnia**|De Natan|
-|**Capital**|[[Stormseat\|Stormseat]]|
-|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**Etnia**|Natan|
+|**Capital**|[[Sedetormenta\|Sedetormenta]]|
+|**Era**|[[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Natanatan** was one of the [[Silver Kingdoms\|Silver Kingdoms]] on [[Roshar\|Roshar]] during the [[Heraldic Epochs\|Heraldic Epochs]].
+**Natanatan** era uno de los [[Reinos Plateados\|Reinos Plateados]] de [[Roshar\|Roshar]] durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]].
 
 ## Sumario
 
-1 Geography. [[#Geography]] 
+1 Geografía. [[#Geograf.C3.ADa]] 
 
-1. [[#Silver Kingdom]] 
-1. [[#Modern Roshar]] 
-
-
-2 History. [[#History]] 
-3 Culture. [[#Culture]] 
-4 New Natanan. [[#New Natanan]] 
-5 Notes. [[#Notes]] 
+1. [[#Reinos Plateados]] 
+1. [[#Roshar actual]] 
 
 
-## Geography
-### Silver Kingdom
-Natanatan encompassed the southeast corner of the Rosharan continent. It bordered [[Alethela\|Alethela]] to the north, with the border running through a prominent mountain range to the [[Sea of Spears\|Sea of Spears]]. It bordered [[Thalath\|Thalath]] to the west, and had a long coastline to the south and east. The capital was the city of [[Stormseat\|Stormseat]], which contained an [[Oathgate\|Oathgate]].
+2 Historia. [[#Historia]] 
+3 Cultura. [[#Cultura]] 
+4 Nueva Natanan. [[#Nueva Natanan]] 
+5 Notas. [[#Notas]] 
 
-### Modern Roshar
-In current-day Roshar, the land that formerly comprised Natanatan now includes the [[Unclaimed Hills\|Unclaimed Hills]], the [[Shattered Plains\|Shattered Plains]], the [[Eastern Crownlands\|Eastern Crownlands]] of [[Alethkar\|Alethkar]], and the eastern [[Frostlands\|Frostlands]].
-The name "Natanatan" is still commonly used to describe the former nation's lands, which remain largely unexplored by both humans and [[Listener\|listeners]]. A few settlements remain; the ruins of Stormseat were repurposed as Narak by listeners, the city-state of [[New Natanan\|New Natanan]] is the last remnant of the former kingdom, and [[Dawn's Shadow\|Dawn's Shadow]] and The [[Shallow Crypts\|Shallow Crypts]] lie on the coast. Native Natans also live scattered throughout their former nation.
+
+## Geografía
+### Reinos Plateados
+Natanatan abarcaba la esquina sureste del continente roshariano. Limitaba con [[Alezela\|Alezela]] al norte, y la frontera está surcada por una prominente cordillera que termina en el [[Mar de las Lanzas\|Mar de las Lanzas]]. Limita con [[Thalath\|Thalath]] al oeste, y presenta un largo litoral que se extiende del sur al este. La capital era la ciudad de [[Sedetormenta\|Sedetormenta]], que tenía una [[Puerta Jurada\|Puerta Jurada]].
+
+### Roshar actual
+En la actualidad, el territorio que antes constituía Natanatan ahora incluye las [[Colinas Irreclamadas\|Colinas Irreclamadas]], las [[Llanuras Quebradas\|Llanuras Quebradas]], las [[Tierras de la Corona Orientales\|Tierras de la Corona Orientales]] de [[Alezkar\|Alezkar]], y la parte este de las [[Tierras Heladas\|Tierras Heladas]]. El nombre de "Natanatan" se sigue empleando hoy en día para describir las antiguas tierras que abarcaba dicha nación, que continúan estando inexploradas en gran parte tanto por humano como por [[Oyente\|oyentees]]. Aún quedan algunos asentamientos; las ruinas de Sedetormenta fueron reutilizadas por los oyentes para crear Narak, la ciudad estado de [[Nueva Natanan\|Nueva Natanan]] que constituye el último remanente del antiguo reino, y [[Sombra del Amanecer\|Sombra del Amanecer]] y las [[Criptas Huecas\|Criptas Huecas]] se encuentran en el litoral. Los natanos nativos viven repartidos a lo largo y ancho de su antigua nación.
 Natanatan's former territory is generally thought of as an "empty wasteland" with many forests and jungles. [[Gavilar\|Gavilar]] and [[Eshonai\|Eshonai]] each recall expeditions into the Unclaimed Hills in their youth. The strength of the highstorms makes sailing the east coast of Natanatan in the [[Ocean of Origins\|Ocean of Origins]] extremely dangerous, although not unheard of.
 
-## History
+## Historia
 As one of the Silver Kingdoms, Natanatan played a prominent role in the history of Roshar, but many of the details have been lost to history. Like the other Silver Kingdoms, its name is symmetrical, which is considered holy by the [[Vorin\|Vorin]] church. One of [[Dalinar\|Dalinar]]'s first visions, in which he fights off [[Re-Shephir\|Re-Shephir]]'s [[Midnight Essence\|Midnight Essence]] alongside the [[Knights Radiant\|Knights Radiant]], takes place in Natanatan during the Eighth Epoch.
 It is thought that Stormseat was destroyed during the [[Last Desolation\|Last Desolation]] (Aharietiam), thousands of years ago. Vorin tradition holds that the nation of Natanatan persisted despite the loss of its capital and later allied with [[Thaylenah\|Thaylenah]], [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and [[Kharbranth\|Kharbranth]] as the "five Vorin kingdoms" after the [[Day of Recreance\|Day of Recreance]]. Natanatan was presumably still part of this coalition during the [[Hierocracy\|Hierocracy]] and the [[War of Loss\|War of Loss]]. Despite this alliance, the kingdom fell several hundred years ago under unknown circumstances.
 In the present day, a Natan lighthouse keeper named [[Puuli\|Puuli]] ponders whether the [[Everstorm\|Everstorm]] heralds the time that his grandfather had warned of, "the time of changes, when the men from the hidden island of the Origin at last came to reclaim Natanatan."
 
-## Culture
+## Cultura
 Natan people have pale blue skin, wide noses and wool-like white hair. [[Hoid\|Hoid]] tells a folk tale about the blue moon [[Nomon\|Nomon]] conceiving a child with the Natan Queen [[Tsa\|Tsa]], resulting in blue-skinned descendants who were blessed with poise and beauty. In fact, the Natan people are human-[[Siah Aimian\|Siah Aimian]] hybrids, giving them their blue skin and an increased lifespan.
 [[Highstorm\|Highstorms]] are particularly strong in eastern Roshar, and many people believe that this is due to its proximity to the [[Origin\|Origin]]. Natans adapted to life with the storms, devising ways to farm the area by using low-profile crops.
 Hoid's story implies that Natanatan once had a rich culture and fine architecture. Natanatan was nicknamed the "Granite Kingdom".
 
-## New Natanan
-Para más información, ver [[New Natanan\|New Natanan]].
+## Nueva Natanan
+Para más información, ver [[Nueva Natanan\|Nueva Natanan]].
 The city-state of New Natanan, located on the easternmost coast of Roshar, is all that remains of the former Natan government. It functions as a sovereign nation, with a few smaller settlements as protectorates. Despite its geographical isolation, New Natanan appears to retain influence in the Vorin church. New Natanan has diplomatic relationships with other nations, and often communicates with them by [[Spanreed\|spanreed]]. Dalinar includes New Natanan in his meetings in [[Urithiru\|Urithiru]] when he attempts to form a coalition to fight the [[Voidbringer\|Voidbringers]]. The Natans are appreciative of Dalinar's efforts, but are primarily concerned with reclaiming their homeland and its Oathgate.
 
-## Notes
+## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|

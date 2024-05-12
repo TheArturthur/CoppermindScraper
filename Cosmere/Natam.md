@@ -1,39 +1,42 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Natam**|
 |-|-|
 |**Capacidades**|[[Orden de los Corredores del Viento\|Corredor del Viento]]|
-|**Grupo**|[[Knights Radiant\|Knights Radiant]]🐱︎ , [[Bridge Four\|Bridge Four]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
+|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Natam** is a longtime member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
+**Natam** es un miembro veterano del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 Attributes and Abilities. [[#Attributes and Abilities]] 
-3 History. [[#History]] 
-4 Trivia. [[#Trivia]] 
-5 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-He has a long face. While serving as a bridgeman, he was somber and withdrawn, and rarely spoke. After the liberation of Bridge Four, he became far more outgoing and jocular. He expresses loyalty to Kaladin and his comrades-in-arms.
+## Apariencia y personalidad
+Tiene la cara alargada. Mientras ejercía de hombre del puente, se mostraba sombrío y retraído y rara vez hablaba. Tras la liberación del Puente Cuatro, se volvió mucho más extrovertido y bromista. Expresa lealtad a Kaladin y a sus compañeros de armas.
 
-## Attributes and Abilities
-Natam is presumably skilled with a spear, as he and [[Leyten\|Leyten]] hold morning practice sessions to train Bridge Four's new recruits; Kaladin suggests that [[Shen\|Shen]] train with them.
-As a Windrunner, he is able to breathe in [[Stormlight\|Stormlight]]. This gives him some magical abilities, including healing and the power of flight using [[/wiki/Surgebinding#Gravitation]].
+## Atributos y habilidades
+Natam es presumiblemente hábil con la lanza, ya que él y [[Leyten\|Leyten]] realizan sesiones de práctica matutinas para entrenar a los nuevos reclutas del Puente Cuatro; Kaladin sugiere que [[Shen\|Shen]] entrene con ellos.
+Como Corredor del Viento, puede inhalar [[Luz tormentosa\|luz tormentosa]]. Esto le otorga algunas habilidades mágicas, como la curación y el poder de volar utilizando [[/wiki/Potenciaci%C3%B3n#Gravitaci.C3.B3n]].
 
-## History
-Natam was once a farmer, and he spoke with a rural Alethi accent. It is unknown how he came to serve in [[Torol Sadeas\|Torol Sadeas]]'s bridge crews.
-Natam was present in the early days of Kaladin's time in the bridge crews. When Kaladin got [[Gaz\|Gaz]] to assign Bridge Four stone-gathering duty so they could covertly search for [[Knobweed\|knobweed]], he tried to engage with Natam, who was putting forth minimal effort. Natam did not want to speak to Kaladin and seemed ambivalent about the changes that were occurring, and Kaladin realized that he needed to give the bridgemen something to live for besides simply surviving. After some time training with Kaladin, Natam began to see value in his leadership. He was presumably present with the rest of Bridge Four when Kaladin was judged by the [[Stormfather\|Stormfather]] and was subsequently a fixture in Bridge Four.
-He became trained with the spear, and was among the bridgemen who served as the honor guard for the [[House Kholin\|Kholin family]]. He and [[Mart\|Mart]] were assigned to guard [[Navani\|Navani]] on the night that King [[Elhokar\|Elhokar]] nearly fell off his balcony in a suspected assassination attempt. He helped save Elhokar, and was the first person to inform Kaladin about what had happened. Kaladin asked Natam more questions about that night while they were training to ride horses with [[Jenet\|Jenet]]. Natam remembered seeing [[Moash\|Moash]] on the balcony, which was one of the clues that led Kaladin to confront Moash about his involvement in the assassination plot.
-Natam presumably participated in the [[Battle of Narak\|Battle of Narak]] and was present in the city after humans captured it from the . He was among the members of Bridge Four that discussed using their   abilities before expressing unease about [[Renarin\|Renarin]] learning how to read.
+## Historia
+Natam fue granjero y hablaba con acento alezi rural. Se desconoce cómo llegó a servir en los hombres de los puentes de [[Torol Sadeas\|Torol Sadeas]].
+Natam estuvo presente en los primeros tiempos de Kaladin en las cuadrillas del puente. Cuando Kaladin consiguió que [[Gaz\|Gaz]] asignase al Puente Cuatro la tarea de recoger piedras para que pudiesen buscar encubiertamente [[Matopomo\|matopomo]], intentó entablar conversación con Natam, que estaba haciendo un esfuerzo mínimo. Natam no quería hablar con Kaladin y parecía mostrarse ambiguo ante los cambios que se estaban produciendo, entonces Kaladin se dio cuenta de que necesitaba dar a los hombres del puente un motivo para vivir además de la simple supervivencia. Tras un tiempo entrenando con Kaladin, Natam empezó a ver el valor de su liderazgo. Es de suponer que estaba presente con el resto del Puente Cuatro cuando Kaladin fue juzgado por el [[Padre Tormenta\|Padre Tormenta]] y posteriormente fue un elemento fijo del Puente Cuatro.
+Se entrenó con la lanza y formó parte de la guardia de honor de la [[Casa Kholin\|familia Kholin]]. Él y [[Mart\|Mart]] fueron asignados a vigilar a [[Navani\|Navani]] la noche en que el rey [[Elhokar\|Elhokar]] estuvo a punto de caer por su balcón en un presunto intento de asesinato. Ayudó a salvar Elhokar y fue la primera persona en informar a Kaladin de lo sucedido. Kaladin le hizo más preguntas a Natam sobre aquella noche mientras entrenaban para montar a caballo con [[Jenet\|Jenet]]. Natam recordaba haber visto a [[Moash\|Moash]] en el balcón, que fue una de las pistas que llevaron a Kaladin a enfrentarse al mismo sobre su implicación en el complot de asesinato.
+Natam participó presumiblemente en la [[Batalla de Narak\|batalla de Narak]] y estuvo presente en la ciudad después de que los humanos se la arrebatasen a los [[Oyente\|oyentes]]. Estuvo entre los miembros del Puente Cuatro que discutieron el uso de las habilidades de los [[Escudero\|escuderos]] [[Corredores del Viento\|Corredores del Viento]] antes de expresar su malestar porque [[Renarin\|Renarin]] aprendiese a leer.
 
-## Trivia
-Natam is a cameo for a friend of Brandon's named Nathan Goodrich. In a Reddit AMA, Nathan mentioned that he was in Brandon's reading group at BYU and joked that his name had to be changed because "Nathan" is too symmetrical for a [[Vorin\|Vorin]] society.
-## Notes
+## Curiosidades
+Natam es un cameo de un amigo de Brandon llamado Nathan Goodrich. En un AMA de Reddit, Nathan mencionó que estaba en el grupo de lectura de Brandon en BYU y bromeó diciendo que había que cambiarle el nombre porque «Nathan» es demasiado simétrico para una sociedad [[Vorin\|vorin]].
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 19:20, 22 January 2020 (UTC)

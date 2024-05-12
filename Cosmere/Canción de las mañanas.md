@@ -11,7 +11,7 @@ La **Canción de las mañanas** es una canción de los [[Oyente\|oyentes]]. Es s
 
 ## Historia
 Tras una acalorada discusión entre [[Eshonai\|Eshonai]] y Venli, juntas armonizaron al [[Ritmo\|ritmo]] de Reconciliación, luego a Anhelo, y luego a Alegría. Mientras Eshonai armonizaba, Venli cantó la Canción de las mañanas, un recordatorio de tiempos más sencillos en su relación. Aunque estaba anocheciendo, la canción encajó con la situación.
-Tras encontrarse con los oyentes que habían huido de [[Narak\|Narak]], Venli cantó la Canción de las mañanas para ayudar a Jaxlim a que recordara quién era, ya que Jaxlim había perdido sus capacidades mentales y la voluntad es necesaria para vincular a un [[Lumispren\|lumispren]] y convertirse en [[Caballeros Radiantes\|Caballero Radiante]]. La canción funcionó, y Jaxlim recuperó sus recuerdos.
+Tras encontrarse con los oyentes que habían huido de [[Narak\|Narak]], Venli cantó la Canción de las mañanas para ayudar a Jaxlim a que recordara quién era, ya que Jaxlim había perdido sus capacidades mentales y la voluntad es necesaria para vincular a un [[Alcanzador\|alcanzador]] y convertirse en [[Caballeros Radiantes\|Caballero Radiante]]. La canción funcionó, y Jaxlim recuperó sus recuerdos.
 
 ## Curiosidades
 El capítulo 86 de El ritmo de la guerra se llama "Canción de las mañanas".

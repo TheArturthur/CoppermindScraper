@@ -2,7 +2,7 @@
 |**Ryshadio**|
 |-|-|
 ||
-|**Tipo**|Horse|
+|**Tipo**|Caballo|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
@@ -32,14 +32,14 @@
 ## Apariencia y anatomía
  
 Los ryshadios son más grandes que otras especies de caballo -- por ejemplo, [[Galante\|Galante]] es dos palmos más alto que una montura ordinaria. Pueden tener varios colores de pelaje, incluyendo blanco y negro. Además, pueden tener tanto ojos claros como oscuros, que tienen pupilas rectangulares. A diferencia de los caballos ordinarios, un ryshadio tiene pezuñas de piedra por lo que no necesita herraduras. Esto es probablemente una adaptación que desarrollaron para vivir en Roshar. Se desconoce si sus pezuñas son realmente de piedra, o de un material parecido.
-En [[Shadesmar\|Shadesmar]], un ryshadium deja tras de sí una imagen remanente de brillo tenue.
+En [[Shadesmar\|Shadesmar]], un ryshadio deja tras de sí una imagen remanente de brillo tenue.
 
 ## Ecología
 Los ryshadios salvajes viven en manadas por todo Roshar, aunque raramente se adentran en la parte oeste del continente. Solo después de haber escogido a un humano permiten que se les saque de la naturaleza.
 
 ## Comportamiento
 ### Vínculo spren
-Los ryshadios tienen un vínculo simbiótico con [[Spren\|spren]]. Esto es una variante del [[V%C3%ADnculo Nahel\|vínculo Nahel]] que convierte a los humanos en[[Potenciador\|Potenciadores]]. El spren específico que se vincula con ellos no está claro, aunque podrían ser [[Musispren\|musispren]] pues han sido vistos alrededor de ryshadios incluso cuando no está sonando música. Los ryshadios se vuelven significativamente más inteligentes—casi sapientes—y de alguna manera más resistentes, mientras que el spren es traído al Reino Físico. Los ryshadios y los humanos están entre las pocas especies no nativas de Roshar que han desarrollado un vínculo spren. Van al  al morir.
+Los ryshadios tienen un vínculo simbiótico con [[Spren\|spren]]. Esto es una variante del [[V%C3%ADnculo Nahel\|vínculo Nahel]] que convierte a los humanos en [[Potenciador\|potenciadores]]. El spren específico que se vincula con ellos no está claro, aunque podrían ser [[Musispren\|musispren]] pues han sido vistos alrededor de ryshadios incluso cuando no está sonando música. Los ryshadios se vuelven significativamente más inteligentes—casi sapientes—y de alguna manera más resistentes, mientras que el spren es traído al Reino Físico. Los ryshadios y los humanos están entre las pocas especies no nativas de Roshar que han desarrollado un vínculo spren. Van al [[M%C3%A1s All%C3%A1\|Más Allá]] al morir.
 El vínculo spren los hace más inteligentes que cualquier animal normal. Su inteligencia y entendimiento puede ser vista en sus relaciones con sus jinetes. Los jinetes humanos a menudo tienen conversaciones con su ryshadio y el caballo aparentemente responde, ya sea por lenguaje corporal o por sonidos como resoplidos.
 A cambio, los humanos llevan mucho cuidado de no molestarlos. No pueden ser montados si no han escogido a su jinete primero,  e incluso entonces resultan difíciles de entrenar. Un ryshadio no será estabulado con los caballos normales, sino con su propio pasto, lo bastante grande como para que pueda correr. Los caballerizos comunes normalmente no saben como cuidar a un ryshadio, y una vez de vuelta en su pasto, el caballo es a veces dejado para defenderse solo.
 

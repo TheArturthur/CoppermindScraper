@@ -50,19 +50,19 @@ En el mercado hay distintos objetos disponibles para comprar, incluyendo libros,
 Los [[Cultivacispren\|cultivacispren]] son quienes tienen más puestos en el mercado, sin embargo, los mercadereses [[Altospren\|altospren]] y [[Tintaspren\|tintaspren]] también tienen puestos. Muchos de los comerciantes pueden hablar [[Alezkar\|alezi]] y/o [[Azir\|azishiano]]. Algunos mercaderes abastecen, al menos en parte, a los humanos y tienen a la venta artículos indispenables para viajes, como comida y bebida. Los puestos permanentes están abiertos por un lado y están pegados a la parte frontal de la casa de su propietario.
 
 ## Residentes
-The town is made up of a large variety of sapient spren, including both [[/wiki/Spren#Radiant]] and non-Radiant spren. Many of the spren do not permanently live in the town and are instead passing through as caravaneers or sailors.
-Although the town appears to be predominantly run by spren, it is not uncommon to find humans passing through with the caravans. As such, they do not draw as much attention or stick out as an oddity as they would in other trade cities such as [[Celebrant\|Celebrant]], and are largely treated like any other trader. Humans may still experience hostility from individual spren.
-[[Notum\|Notum]] is a known figure among the townspeople, although he likely does not stay in the town for long when his patrol passes by. He is tolerated, but not well liked by the townspeople and they will go out of their way to avoid him if possible.
+En el pueblo hay una gran variedad de spren sapientes, incluyendo tanto spren [[Spren\|Radiantes]] como spren no Radiantes. Muchos de los spren no viven permanentemente en Innominado sino que pasan por la ciudad como parte de las caravanas o como marineros.
+Aunque parezca que el lugar está dirigido sobre todo por spren, es común encontrar humanos que llegan con caravanas. Por ello, no llaman tanto la atención ni destacan como algo peculiar como ocurre en otras ciudades centradas en el comercio como [[Celebrant\|Celebrant]], y se les trata como a cualquier otro comerciante. Sin embargo, los humanos pueden experimentar hostilidad por parte de spren individuales.
+[[Notum\|Notum]] es una figura conocida entre los ciudadanos, aunque es probable que no se quede durante mucho tiempo en el pueblo cuando sus patrulla pasa por él. Los vecinos lo toleran pero no les gusta a todo el mundo, por lo que se esfuerzan para evitarlo siempre que sea posible.
 
 ## Historia
->“*We have landed and the others went out to explore a small dockside town here on the coast. We have several weeks’ further travel via caravan, hopefully as uneventful as these, before reaching the fortress.*”
-\-Shallan reporting on their journey to Mraize[2]
+>“*Hemos desembarcado, y los demás han salido a explorar un pueblecito costero. Nos quedan aún varias semanas de viaje por tierra, con un poco de suerte igual de tranquilas que las anteriores, antes de llegar a la fortaleza.*”
+\-Shallan informando sobre su viaje a Mraize[2]
 
-At some point after his demotion as captain, Notum began to visit Nameless as part of his patrol through the area.
-In 1175, [[Adolin\|Adolin]] and the [[Urithiru\|Urithiru]] delegation stopped in Nameless on their way to [[Lasting Integrity\|Lasting Integrity]]. [[Ua'pam\|Ua'pam]] and [[Zu (Roshar)\|Zu]] arranged a campsite for the group to set up in until they were ready to continue their journey.
-The group explored the town, trading their remaining [[Stormlight\|Stormlight]] for the supplies they would need, both for their journey to Lasting Integrity, and also their return to Urithiru. While exploring the marketplace, Adolin and [[Maya\|Maya]] encountered [[Testament\|Testament]] and learned of her death at the hands of an unknown [[Shallan\|Radiant]] ten years prior.
-After their encounter, Adolin and [[Godeke\|Godeke]] attempted to approach the [[Tukari caravaneers\|Tukari caravaneers]] who had set up camp outside of the town. The group were antagonistic and turned the pair away. Returning to , Adolin found Notum talking with the boat’s captain. Adolin explained his plan to Notum of how he planned to approach the honorspren, however, Notum shut down his idea, strongly believing that the honorspren would never consider his request.
-Adolin and his cohort left Nameless shortly after Notum, with the Tukari caravaneers following them out of the town.
+En algún momento tras perder el cargo de capitán, Notum comenzó a visitar Innominado como parte de su ronda por la zona.
+En el año 1175, [[Adolin\|Adolin]] y la delegación de [[Urithiru\|Urithiru]] paró en Innominado en su viaje a [[Integridad Duradera\|Integridad Duradera]]. [[Ua'pam\|Ua'pam]] y [[Zu (Roshar)\|Zu]] montaron un campamento para el grupo para instalarse en él hasta que estuviesen listos para contiuar el viaje.
+El grupo exploró el pueblo, intercambiando la [[Luz tormentosa\|luz tormentosa]] que les quedaba por suministros que necesitarían para el viaje de ida a Integridad Duradera y el de vuelta a Urithiru. Mientras visitaban el mercado, Adolin y [[Maya\|Maya]] se encontraron a [[Testimonio\|Testimonio]] y se enteraron de que había muerto a manos de un [[Shallan\|Radiante]] desconocido hacía diez años.
+Tras su encuentro, Adolin y [[Godeke\|Godeke]] intentaron acercarse a los [[Caravaneros tukari\|caravaneros tukari]] que se habían instalado en un campamento fuera del pueblo. Resultaron ser hostiles, haciendo que Adolin y Godeke se diesen la vuelta y se marchasen. Al regresar a la , Adolin encontró a Notum hablando con el capitán del barco. Adolin le explicó a Notum su plan sobre cómo dirigirse a los honorspren, sin embargo, Notum le dijo que no, pues pensaba firmemente que los honorspren nunca considerarían su petición.
+Adolin y su séquito se marcharon de Innominado poco después de que Notum lo hiciese, y los caravaneros tukari fueron tras ellos, abandonando el pueblo.
 
 ## Notas
 

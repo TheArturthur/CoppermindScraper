@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Ashu** es un señor de los suburbios [[Idris\|idriano]] en [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]].
 

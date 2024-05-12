@@ -144,6 +144,7 @@ Para más gente de Shinovar, ver :Categoría:Shin.
 Los shin serían los únicos Rosharianos que parecen caucásicos.
 La gente shin es el único grupo en Roshar que hace vino a partir de uvas.
 Los gatos viveron en Shinovar en algún momento.
+En el borrador original de [[El camino de los reyes\|El camino de los reyes]], Shinovar se llamaba Shinavar y se le conocía como [[Silnasen\|Silnasen]] durante el periodo de los reinos de Época. Al final, Silnasen pasó a ser una ciudad-estado en Jah Keved y el reino moderno se llamó Shinovar.
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

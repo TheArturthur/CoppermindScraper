@@ -8,7 +8,7 @@
 |**Parientes**|[[Clubs\|Clubs]]|
 |**Descendientes**|Casas nobles de [[Elendel\|Elendel]]|
 |**Nacido en**|1007|
-|**Capacidades**|[[/wiki/Esta%C3%B1o#Uso alom.C3.A1ntico]], [[Alomancia\|Nacido de la bruma]], [[Hemalurgia\|Hemalurgo]]|
+|**Capacidades**|[[/wiki/Esta%C3%B1o#Uso alom.C3.A1ntico]], , [[Alomancia\|Nacido de la bruma]], [[Hemalurgia\|Hemalurgo]]|
 |**Títulos**|Superviviente de las Llamas, lord Nacido de la Bruma|
 |**Apodos**|Jedal, Lestibournes|
 |**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture|

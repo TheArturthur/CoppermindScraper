@@ -1,3 +1,5 @@
+
+
 **Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 
 
@@ -9,8 +11,6 @@
 |**Racional**|Algunos|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 >“*Los spren aparecen cuando algo cambia: cuando aparece el miedo, o cuando empieza a llover. Son el corazón del cambio, y por tanto el corazón de todas las cosas.*”
 \-Hesina a Kaladin[1]
@@ -48,7 +48,7 @@ Los spren son mucho más amplios y numerosos que otras entidades con los que los
 
 3. [[#V.C3.ADnculos con animales]] 
 3. [[#Formas de los cantores]] 
-3. [[#Nahel Bond]] 
+3. [[#V.C3.ADnculo Nahel]] 
 
 3. [[#Spren Radiantes destacados]] 
 
@@ -60,69 +60,69 @@ Los spren son mucho más amplios y numerosos que otras entidades con los que los
 4. [[#Spren menores 2]] 
 
 4. [[#Agonispren]] 
-4. [[#Cervespren]] 
-4. [[#Furiaspren]] 
-4. [[#Angustiaspren]] 
-4. [[#Expectaspren]] 
-4. [[#Congojaspren]] 
-4. [[#Asombrospren]] 
-4. [[#Unespren]] 
-4. [[#Cautivospren]] 
-4. [[#Friospren]] 
-4. [[#Concentraspren]] 
-4. [[#Creacionspren]] 
-4. [[#Muertespren]] 
-4. [[#Deteriospren]] 
 4. [[#Agotaspren]] 
-4. [[#Miedospren]] 
-4. [[#Fermentacispren.5BNdT 1.5D]] 
-4. [[#Llamaspren]] 
-4. [[#Melancospren]] 
-4. [[#Glorispren]] 
-4. [[#Gravitacionspren]] 
-4. [[#Gravedadspren.5BNdT 1.5D]] 
-4. [[#Suelospren]] 
-4. [[#Calorspren.5BNdT 1.5D]] 
-4. [[#Hambrespren]] 
 4. [[#Alegrespren]] 
-4. [[#Risaspren]] 
-4. [[#Vidaspren]] 
-4. [[#Logispren]] 
-4. [[#Suertespren]] 
-4. [[#Musispren]] 
+4. [[#Angustiaspren]] 
+4. [[#Arco.C3.ADrispren.5BNdT 1.5D]] 
+4. [[#Asombrospren]] 
+4. [[#Calorspren.5BNdT 1.5D]] 
+4. [[#Cautivospren]] 
+4. [[#Cervespren]] 
+4. [[#Concentraspren]] 
+4. [[#Congojaspren]] 
+4. [[#Creacionspren]] 
+4. [[#Deteriospren]] 
 4. [[#Dolorspren]] 
+4. [[#Estrellaspren]] 
+4. [[#Expectaspren]] 
+4. [[#Fermentacispren.5BNdT 1.5D]] 
+4. [[#Friospren]] 
+4. [[#Furiaspren]] 
+4. [[#Glorispren]] 
+4. [[#Gravedadspren.5BNdT 1.5D]] 
+4. [[#Gravitacionspren]] 
+4. [[#Hambrespren]] 
+4. [[#Llamaspren]] 
+4. [[#Lluviaspren]] 
+4. [[#Logispren]] 
+4. [[#Marinerospren]] 
+4. [[#Melancospren]] 
+4. [[#Miedospren]] 
+4. [[#Muertespren]] 
+4. [[#Musispren]] 
+4. [[#Nievespren.5BNdT 1.5D]] 
+4. [[#Olaspren]] 
 4. [[#Pasionespren]] 
 4. [[#Persuasispren]] 
 4. [[#Plagaspren]] 
-4. [[#Lluviaspren]] 
-4. [[#Arco.C3.ADrispren.5BNdT 1.5D]] 
-4. [[#R.C3.ADospren]] 
-4. [[#Rocaspren]] 
 4. [[#Putrispren]] 
-4. [[#Marinerospren]] 
-4. [[#Verg.C3.BCenzaspren]] 
+4. [[#R.C3.ADospren]] 
+4. [[#Risaspren]] 
+4. [[#Rocaspren]] 
 4. [[#Sorpresaspren]] 
-4. [[#Nievespren.5BNdT 1.5D]] 
-4. [[#Estrellaspren]] 
 4. [[#Stormstriders.5BNdT 1.5D]] 
+4. [[#Suelospren]] 
+4. [[#Suertespren]] 
 4. [[#Tai-na Spren]] 
-4. [[#Olaspren]] 
+4. [[#Unespren]] 
+4. [[#Verg.C3.BCenzaspren]] 
+4. [[#Vidaspren]] 
 4. [[#Vientospren]] 
 
 
 4. [[#Spren verdaderos 2]] 
 
+4. [[#Alcanzadores]] 
+4. [[#Altospren]] 
+4. [[#Brumaspren]] 
 4. [[#Cenizaspren]] 
 4. [[#Cr.C3.ADpticos]] 
 4. [[#Cultivacispren]] 
-4. [[#Altospren]] 
-4. [[#Honorspren]] 
-4. [[#Tintaspren]] 
-4. [[#Sagacispren]] 
-4. [[#Lumispren]] 
-4. [[#Brumaspren]] 
-4. [[#Spren de la Puerta Jurada]] 
 4. [[#Cumbrespren]] 
+4. [[#Honorspren]] 
+4. [[#Sagacispren]] 
+4. [[#Spren de la Puerta Jurada]] 
+4. [[#Tintaspren]] 
 
 
 
@@ -131,9 +131,9 @@ Los spren son mucho más amplios y numerosos que otras entidades con los que los
 6 Spren únicos conocidos. [[#Spren .C3.BAnicos conocidos]] 
 
 6. [[#Cusicesh]] 
-6. [[#La Vigilante Nocturna]] 
-6. [[#El Padre Tormenta]] 
 6. [[#El Hermano]] 
+6. [[#El Padre Tormenta]] 
+6. [[#La Vigilante Nocturna]] 
 6. [[#Los Deshechos]] 
 
 
@@ -221,7 +221,7 @@ Los [[Cantor\|cantores]] pueden obtener diferentes formas al alojar un spren en 
 Estos vínculos se realizan solamente con spren no inteligentes, y una vez el cantor cambia de forma, el spren es liberado de la gema corazón, sin sufrir daño. Cuando el vínculo se realiza con un [[Vac%C3%ADospren\|vacíospren]] menor, el cantor obtiene una forma [[Regio\|regia]].
 
   <<Syl\|Syl>> con <<Kaladin\|Kaladin>>, utilizando la <<Gravitaci%C3%B3n\|Gravitación>>
-### Nahel Bond
+### Vínculo Nahel
 Para más información, ver [[V%C3%ADnculo Nahel\|Vínculo Nahel]].
 Cada orden de [[Caballeros Radiantes\|Caballeros Radiantes]] establece un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con un tipo diferente de spren verdadero. Este vínculo es de naturaleza parecida al vínculo entre un [[Seon\|seon]] y su maestro, aunque a diferencia del vínculo con un seon, el vínculo Nahel garantiza numerosos beneficios para ambas partes. El spren obtiene la capacidad de retener funciones mentales más elevadas mientras está vinculado, y su compañero obtiene acceso a la [[Potenciaci%C3%B3n\|potenciación]]. Aunque históricamente, solo los humanos podían convertirse en potenciadores, durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] algunos spren han conseguido establecer un vínculo Nahel con un cantor, aunque cómo esto cambia las cosas aún se desconoce. Teóricamente es posible que alguien vincule a varios spren, aunque esto requeriría mucho cuidado por parte su parte, en un esfuerzo por no romper las reglas de ninguno de los vínculos.
 Cada vínculo Nahel garantiza acceso a dos [[Potenciaci%C3%B3n\|potencias]] y cada potencia es compartida por dos órdenes. Los potenciadores que se organizan en órdenes, en lugar de actuar por su cuenta, son conocidos como los [[Caballeros Radiantes\|Caballeros Radiantes]].
@@ -235,7 +235,7 @@ Los spren conocidos por establecer vínculos Nahel son:
 [[Cultivacispren\|Cultivacispren]] ([[Danzantes del Filo\|Danzantes del Filo]])
 [[Cr%C3%ADptico\|Crípticos]] ([[Tejedores de Luz\|Tejedores de Luz]])
 [[Tintaspren\|Tintaspren]] ([[Nominadores de lo Otro\|Nominadores de lo Otro]])
-[[Alcanzador\|Lumispren]] ([[Escultores de Voluntad\|Escultores de Voluntad]])
+[[Alcanzador\|Alcanzadores]] ([[Escultores de Voluntad\|Escultores de Voluntad]])
 [[Cumbrespren\|Cumbrespren]] ([[Custodios de Piedra\|Custodios de Piedra]])
 [[Brumaspren\|Brumaspren]] ([[Vigilantes de la Verdad\|Vigilantes de la Verdad]])
 
@@ -264,46 +264,29 @@ Los poderes de los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]] los 
 
 Agonispren, un spren muy raro que se ve atraído por el sufrimiento y la agonía de una persona, y aparece como rostros bocabajo tallados en piedra..
 
-#### Cervespren
-  Cervespren
->“*Prueba con éxito. He visto spren que solo aparecen cuando estás muy embriagado. Aparecen como pequeñas burbujas marrones que se aferran a los objetos cercanos. Puede que sean necesarias más pruebas para demostrar que son algo más que una alucinación de borracho.*”
-\-Axies el Coleccionista[15]
+#### Agotaspren
+>“*Cuando la tocó, sintió que algo barría el aire por encima de ella. Se encogió y al alzar la cabeza, descubrió unas extrañas criaturas parecidas a pájaros que revoloteaban a su alrededor allí, en Shadesmar. Eran de color gris oscuro y no parecían tener forma definida, sino que su aspecto era difuso.*”
+\-Palabras radiantes: capítulo once[108]
 
 
-Un extraño tipo de spren que aparece solo en [[Iri\|Iri]]. Ocasionalmente, son vistos por gente que está bajo la influencia del alcohol. Parecen pequeñas burbujas marrones que se pegan a objetos cercanos al observador. Reciben el nombre de «cervespren» de Axies el Coleccionista, un erudito que estudia a los spren, tras considerar también denominarlos «embriagaspren». Los lugareños se refieren a ellos como «borrachospren». También pueden llamarse vinospren.
-Axies teorizó su existencia, pero solo fue capaz de observarlos una vez, lo que lo hizo dudar de si eran reales. Al haber otras historias de gente que los ha visto, su existencia es probable.
+Un tipo de spren que aparece alrededor de personas agotadas. En el Reino Físico, aparecen como chorros de polvo en el aire, de color marrón. En Shadesmar, no tienen una forma definitda, pero son grandes y parecidos a pájaros.
 
-#### Furiaspren
->“*Vamah los estaba mirando, y su expresión era tan negra como una alta tormenta, los furiaspren brotaban del suelo a su alrededor como pequeños charcos de sangre borboteante.*”
-\-Adolin Kholin[108]
+#### Alegrespren
+>“*Alegrespren brotaron a su alrededor, como hojas azules que empezaron a sus pies y luego ascendieron en remolino antes de desaparecer sobre su cabeza como si se los llevara una ráfaga de viento.*”
+\-Palabras radiantes: capítulo veintiocho[110]
 
 
-Un tipo común de spren que aparece alrededor de las personas que experimentan ira. Normalmente, tienen la apariencia de charcos de sangre hirviendo que surgen del suelo alrededor de los pies del individuo enfadado.
-Entre los oyentes, los furiaspren tienen la apariencia de rayos que irradian desde los pies del individuo enfadado.
-En Shadesmar, su apariencia permanece sin especificar, pero al ser atraídos emiten un fuerte chirrido similar al de las láminas de acero chocando entre sí. Se dice que los furiaspren son «desagradables» y muy peligrosos incluso para otros spren. Los charcos de sangre hirviendo que se ven en el Reino Físico son en realidad saliva que sale de sus bocas.
+Un tipo de spren relativamente raro, que suele ir acompañado de sentimientos intensos de felicidad o logro. En el [[Reino F%C3%ADsico\|Reino Físico]], toman la forma de hojas o pétalos azules que se elevan alrededor de una persona en un remolino, rodeándola o arrastrándose detrás de ella cuando se mueve. Los cantores los ven estallar alrededor del individuo alegre como una hermosa tormenta azul. En [[Shadesmar\|Shadesmar]], aparecen como un ciclón giratorio de color.
 
 #### Angustiaspren
 >“*En efecto, estaban apareciendo dolorspren en tropel por toda la sala, acompañados incluso de algunos de los infrecuentes angustiaspren, con forma de dientes que crecían de las paredes.*”
-\-Navani Kholin[112]
+\-Navani Kholin[114]
 
 
 Un tipo raro de spren que se ve atraído por la angustia y la pérdida extrema. Tienen un aspecto similar al de los dientes humanos.
 
-  Expectaspren en <<Shadesmar\|Shadesmar>>
-#### Expectaspren
->“*Unos cuantos expectaspren, como gallardetes rojos que crecían del suelo y revoloteaban al viento, empezaron a brotar de las rocas y a serpentear entre los soldados.*”
-\-El camino de los reyes: capítulo seis[42]
-
-
-Un tipo común de spren que aparece alrededor de las personas que esperan algo, o que están nerviosas por algo. Se manifiestan como gallardetes rojos que crecen desde el suelo y revolotean con el viento. Suelen aparecer alrededor de los soldados justo antes de una batalla.
-El gallardete que se aprecia en el Reino Físico es en realidad la lengua del expectaspren. El spren tiene un cuerpo redondo y bulboso y es del tamaño de un niño pequeño. Abrirá su boca y sacará su lengua cuando esté cerca de sentimientos de expectación.
-
-#### Congojaspren
->“* Alrededor de Rysn aparecieron unos pocos congojaspren con forma de cruces negras retorcidas.*”
-\-Esquirla del Amanecer: capítulo uno[113]
-
-
-Un tipo de spren que se ve atraído por los sentimientos de ansiedad o preocupación. Parecen cruces negras retorcidas.
+#### Arcoírispren
+Un tipo de spren relacionado con el arcoíris.
 
 #### Asombrospren
 >“*Un único asombrospren, como un anillo de humo azul, estalló sobre él, extendiéndose como la onda de una piedra arrojada a un estanque. Shallan solo había visto spren de ese estilo unas pocas veces en su vida.*”
@@ -312,12 +295,8 @@ Un tipo de spren que se ve atraído por los sentimientos de ansiedad o preocupac
 
 Un tipo de spren muy raro que aparece alrededor de las personas que están muy anonadadas. Adoptan la forma de un anillo de humo azul que se extiende lentamente hacia fuera. Suelen aparecer por encima y alrededor de la cabeza de la persona asombrada, como un halo. La mayoría de las veces, solo se puede ver uno a la vez, aunque un grupo entero de personas puede atraer a varios. Los cantores ven a los asombrospren como bolas azules flotantes que se acercan al individuo asombrado desde lejos y luego se expanden con gran entusiasmo.
 
-#### Unespren
->“*Le pareció que podía distinguir diminutos spren, azul oscuro y con forma de pequeñas manchas de tinta, apilados alrededor del lugar donde la piedra conectaba con la pared.*”
-\-Kaladin[4]
-
-
-Spren que aparecen alrededor de los objetos enlazados con un [[/wiki/Potenciaci%C3%B3n#Enlace completo]]. Aparecen como pequeñas manchas de tinta azul oscuro. Su relación con los enlaces aún no se entiende del todo, ya que [[Kaladin\|Kaladin]] cree que son lo que mantienen unidos los objetos, mientras que [[Sylphrena\|Sylphrena]] discrepa, argumentando que podrían verse atraídos por el enlace completo que Kaladin acaba de crear.
+#### Calorspren
+Un tipo de spren mencionado en el [[Cuaderno de Navani\|cuaderno de Navani]]. Pueden ser capturados en gemas con un determinado corte y utilizados en fabriales. Se desconoce si se trata de un nombre científico para un llamaspren, o de una criatura totalmente diferente.
 
 #### Cautivospren
 >“*Parece que tendré otra oportunidad de investigar a los cautivospren.*”
@@ -327,16 +306,28 @@ Spren que aparecen alrededor de los objetos enlazados con un [[/wiki/Potenciaci%
 Un tipo de spren que, según la teoría de Axies, aparece alrededor de personas en cautiverio. A pesar de haber sido encarcelado en numerosas ocasiones, nunca los ha observado, lo que le lleva a dudar de su existencia. Sin embargo, mientras está encarcelado, Kaladin ve extraños spren parecidos a cables tensos que se cruzan ante él, y se ha confirmado que son cautivospren.
 Es posible que, en lugar de sentirse atraídos por el estado de encarcelamiento, los cautivospren se sientan atraídos por la sensación de estar atrapado. Esto explicaría por qué Axies, que ve el estar en prisión como una oportunidad, nunca ve ninguno, mientras que el deteriorado estado mental de Kaladin en prisión reúne a varios.
 
-#### Friospren
-Un tipo de spren mencionado en el [[Cuaderno de Navani\|cuaderno de Navani]]. Pueden ser capturados en gemas con determinado corte y utilizados en fabriales. Parecen estacas que crecen alrededor de los pies de la persona afectada.
-[[Urithiru\|Urithiru]] está cubierto de cientos de friospren. No está claro si les atraen las bajas temperaturas o la sensación de frío.
+#### Cervespren
+  Cervespren
+>“*Prueba con éxito. He visto spren que solo aparecen cuando estás muy embriagado. Aparecen como pequeñas burbujas marrones que se aferran a los objetos cercanos. Puede que sean necesarias más pruebas para demostrar que son algo más que una alucinación de borracho.*”
+\-Axies el Coleccionista[15]
+
+
+Un extraño tipo de spren que aparece solo en [[Iri\|Iri]]. Ocasionalmente, son vistos por gente que está bajo la influencia del alcohol. Parecen pequeñas burbujas marrones que se pegan a objetos cercanos al observador. Reciben el nombre de «cervespren» de Axies el Coleccionista, un erudito que estudia a los spren, tras considerar también denominarlos «embriagaspren». Los lugareños se refieren a ellos como «borrachospren». También pueden llamarse vinospren.
+Axies teorizó su existencia, pero solo fue capaz de observarlos una vez, lo que lo hizo dudar de si eran reales. Al haber otras historias de gente que los ha visto, su existencia es probable.
 
 #### Concentraspren
 >“*Los concentraspren titilaban en el aire como ondas sobre las cabezas.*”
-\-Juramentada: capítulo cincuenta y tres[125]
+\-Juramentada: capítulo cincuenta y tres[123]
 
 
 Un tipo de spren que se parece a ondas en el aire, similar a una gota en un estanque, aunque sin el estanque. Son raros en [[Alezkar\|Alezkar]], pero pueden encontrarse en [[Urithiru\|Urithiru]] y [[Tashikk\|Tashikk]]. Aparecen más frecuentemente alrededor de personas que están muy concentradas en lo que están haciendo.
+
+#### Congojaspren
+>“* Alrededor de Rysn aparecieron unos pocos congojaspren con forma de cruces negras retorcidas.*”
+\-Esquirla del Amanecer: capítulo uno[125]
+
+
+Un tipo de spren que se ve atraído por los sentimientos de ansiedad o preocupación. Parecen cruces negras retorcidas.
 
 #### Creacionspren
 >“*Su dibujo había congregado a una media docena, atraídos por su acto de creación igual que el brillo del fuego atraía a los llamaspren.*”
@@ -347,16 +338,6 @@ Un tipo de spren poco común que aparece en torno a actos creativos como la pint
 Al dibujar, cuanto más hábil sea uno, más probable es que aparezcan creacionspren. Son atraídos por la emoción y percepción de personas haciendo cosas creativas, en lugar de por la creación en sí misma.
 Los [[Cantor\|cantores]] vinculan a un creacionspren para adoptar la [[/wiki/Cantor#Forma art.C3.ADstica]]. Además, los creacionspren forman la [[Armadura esquirlada\|armadura]] de los Tejedores de Luz.
 
-#### Muertespren
-  Muertespren
->“*Solo los moribundos podían ver a los muertespren. Los veías y luego morías. Solo los muy, muy afortunados sobrevivían después de eso. Los muertespren sabían cuándo estaba cerca el final.*”
-\-Kaladin[131]
-
-
-Un tipo de spren que solo se le aparece a la gente que está cerca de la muerte. Muy pocas personas sobreviven después de ver a los muertespren y debido a esta rareza algunos consideran que no son reales. Parecen criaturas negras, de muchas patas y del tamaño de un puño, con ojos rojos brillantes que dejan estelas de luz cuando el muertespren se mueve. Susurran con voces parecidas al papel rasgado. [[Lirin\|Lirin]] afirma que el agua repele a los muertespren. A veces se hace referencia a los muertespren como un eufemismo para referirse a la muerte.
-Es posible que los muertespren tengan un efecto más real sobre los moribundos que simplemente verse atraídos por ellos, ya que [[Sylphrena\|Syl]] se esfuerza por proteger a Kaladin de ellos cuando está al borde de la muerte.
-También es posible que solo los moribundos puedan ver a los muertespren porque en esa situación pueden ver temporalmente en los otros Reinos (ya sea el Espiritual o el Cognitivo); cuando Kaladin ve a [[Sylphrena\|Syl]] defendiéndole de los muertespren, ella aparece de forma diferente a las veces anteriores, como una figura sólida de luz resplandeciente a diferencia de su manifestación normal translúcida en el Reino Físico.
-
 #### Deteriospren
 >“*No sabía que los hombres pudieran ser tan viejos. ¿Estás seguro de que no es un deteriospren llevando la piel de un hombre?*”
 \-Sylphrena a Kaladin[62]
@@ -364,63 +345,64 @@ También es posible que solo los moribundos puedan ver a los muertespren porque 
 
 Un tipo de spren al que hace referencia [[Sylphrena\|Sylphrena]]. Parece que se sienten atraídos por las cosas que han sido abandonadas o desatendidas, así como por la comida en descomposición. Se parecen a los percebes, y suelen aparecer en gran número, apiñados.
 
-#### Agotaspren
->“*Cuando la tocó, sintió que algo barría el aire por encima de ella. Se encogió y al alzar la cabeza, descubrió unas extrañas criaturas parecidas a pájaros que revoloteaban a su alrededor allí, en Shadesmar. Eran de color gris oscuro y no parecían tener forma definida, sino que su aspecto era difuso.*”
-\-Palabras radiantes: capítulo once[137]
+  Un dolorspren corrupto y uno sin corromper
+#### Dolorspren
+>“*Los dolorspren pululaban por el suelo, como pequeñas manos anaranjadas o trozos de tejidos, alzándose del suelo entre la sangre de los caídos.*”
+\-El camino de los reyes: capítulo cuarenta y siete[134]
 
 
-Un tipo de spren que aparece alrededor de personas agotadas. En el Reino Físico, aparecen como chorros de polvo en el aire, de color marrón. En Shadesmar, no tienen una forma definitda, pero son grandes y parecidos a pájaros.
+Un tipo común de spren que aparece alrededor de aquellos que experimentan dolor. Tienen la apariencia de manos nervudas y anaranjadas. Se alzan del suelo y pululan entre los que sufren dolor, agarrándose a las zonas heridas. Los cantores se vinculan con ellos para acceder a la forma de guerra.
 
-#### Miedospren
->“*Los miedospren, aleteantes y violetas, se escabulleron de la madera y revolotearon en el aire.*”
+  <<Shallan\|Shallan>> y <<Adolin\|Adolin>> observando un estrellaspren
+#### Estrellaspren
+>“*Era el momento entre lunas, y por eso quedaba iluminado principalmente por el fuego de la hoguera; en el cielo había una lluvia de estrellas. Varias se movían, diminutos puntos de luz persiguiéndose unos a otros, zigzagueando como lejanos y brillantes insectos.*”
+\-El camino de los reyes: capítulo cuarenta[138]
+
+
+Un tipo raro de spren que aparece por la noche entre las estrellas. En el [[Reino F%C3%ADsico\|Reino Físico]] aparecen como pequeños puntos de luz que se persiguen, como insectos. En [[Shadesmar\|Shadesmar]], las estrellaspren aparecen como enormes [[Grancaparaz%C3%B3n\|grancaparazones]] de cuello largo y caparazón ceniciento que sólo son visibles desde cierto ángulo. Tienen siete pares de alas. Llevan nubes a sus espaldas y otras se adhieren a su barbilla, dando la apariencia de una barba. Bajo su piel o caparazón brillan puntitos de luz como los de una constelación, que son las partes visibles en el Reino Físico.
+Los grancaparazones no imaginaron su existencia.
+
+  Expectaspren en <<Shadesmar\|Shadesmar>>
+#### Expectaspren
+>“*Unos cuantos expectaspren, como gallardetes rojos que crecían del suelo y revoloteaban al viento, empezaron a brotar de las rocas y a serpentear entre los soldados.*”
 \-El camino de los reyes: capítulo seis[42]
 
 
-Un tipo común de spren que aparece alrededor de las personas que experimentan miedo. En el [[Reino F%C3%ADsico\|Reino Físico]], tienen el aspecto de pequeños glóbulos violáceos que surgen del suelo y se reúnen alrededor de los pies de los temerosos. Parece que se sienten atraídos por la mayor concentración de miedo de una zona, ya que las personas que experimentan menos miedo no atraen a los miedospren. En [[Shadesmar\|Shadesmar]] aparecen como grandes criaturas parecidas a las anguilas, con múltiples patas rechonchas, crestas en la espalda y largas y globosas antenas de color púrpura. Estas antenas parecen ser la parte que se manifiesta visualmente en el Reino Físico.
-Entre los [[Oyente\|oyentes]], los miedospren parecen largos gusanos de color púrpura, probablemente porque pueden ver toda la antena y no sólo la punta que ven los humanos.
+Un tipo común de spren que aparece alrededor de las personas que esperan algo, o que están nerviosas por algo. Se manifiestan como gallardetes rojos que crecen desde el suelo y revolotean con el viento. Suelen aparecer alrededor de los soldados justo antes de una batalla.
+El gallardete que se aprecia en el Reino Físico es en realidad la lengua del expectaspren. El spren tiene un cuerpo redondo y bulboso y es del tamaño de un niño pequeño. Abrirá su boca y sacará su lengua cuando esté cerca de sentimientos de expectación.
 
 #### Fermentacispren
 Un tipo de spren relacionado con la fermentación.
 
-  Llamaspren con algunas <<Esfera\|esferas>>
-#### Llamaspren
->“*… y se dedicó a observar a dos llamaspren que danzaban por un tronco. Tenían un vago aspecto humano, con rasgos que no dejaban de cambiar.*”
-\-Juramentada: capítulo treinta y seis[144]
+#### Friospren
+Un tipo de spren mencionado en el [[Cuaderno de Navani\|cuaderno de Navani]]. Pueden ser capturados en gemas con determinado corte y utilizados en fabriales. Parecen estacas que crecen alrededor de los pies de la persona afectada.
+[[Urithiru\|Urithiru]] está cubierto de cientos de friospren. No está claro si les atraen las bajas temperaturas o la sensación de frío.
+
+#### Furiaspren
+>“*Vamah los estaba mirando, y su expresión era tan negra como una alta tormenta, los furiaspren brotaban del suelo a su alrededor como pequeños charcos de sangre borboteante.*”
+\-Adolin Kholin[143]
 
 
-Un tipo común de spren que aparece alrededor y en el fuego. Parecen diminutas figuras humanoides hechas de luz condensada. A menudo bailan alrededor, cambiando constantemente de tamaño, forma y luminosidad como las propias llamas.
-La [[/wiki/Vorinismo#Sacerdocio]] [[Geranid\|Geranid]] estaba estudiando a los llamaspren cuando descubrió que si los medía, los spren parecían quedar «atrapados» por esa medición. Esto es similar al proceso físico de  en la .
-Los llamaspren se sienten atraídos por la piedrabase rubí, y son los más fáciles de dividir, por lo que se suelen utilizar en fabriales parejos.
-
-#### Melancospren
->“*Largo y gris, como un banderín de tela deshilachada al viento. Rodó a su alrededor, ondeando.*”
-\-Juramentada: capítulo cinco[145]
-
-
-Un tipo raro de spren que parece un banderín gris, aparentemente atraído por el sentimiento de resignación o profunda tristeza. Una de las tías de [[Sylphrena\|Syl]] los caza de forma similar a la caza de grancaparazones.
+Un tipo común de spren que aparece alrededor de las personas que experimentan ira. Normalmente, tienen la apariencia de charcos de sangre hirviendo que surgen del suelo alrededor de los pies del individuo enfadado.
+Entre los oyentes, los furiaspren tienen la apariencia de rayos que irradian desde los pies del individuo enfadado.
+En Shadesmar, su apariencia permanece sin especificar, pero al ser atraídos emiten un fuerte chirrido similar al de las láminas de acero chocando entre sí. Se dice que los furiaspren son «desagradables» y muy peligrosos incluso para otros spren. Los charcos de sangre hirviendo que se ven en el Reino Físico son en realidad saliva que sale de sus bocas.
 
   Glorispren rodeando a <<Dalinar\|Dalinar>>
 #### Glorispren
 >“*Más abajo, sus hombres vitorearon, iniciando un clamor que se alzó sobre el cántico guerrero de los parshendi. Los glorispren brotaron a su alrededor.*”
-\-El camino de los reyes: capítulo sesenta y cinco[146]
+\-El camino de los reyes: capítulo sesenta y cinco[147]
 
 
 Un tipo de spren que aparece alrededor de aquellos que experimentan orgullo por sus logros. En el Reino Físico, parecen orbes dorados de luz translúcida, mientras que en el Cognitivo, toman la forma de criaturas parecidas a las aves, con cuerpos bulbosos, alas largas y colas fluidas, con una bola dorada como cabeza.
 Un gran número de glorispren aparecieron alrededor de [[Dalinar\|Dalinar]] justo antes de que invocara la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] en la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], sin embargo, cuando la invoca más tarde, no aparecen.
 Los cantores ven a los glorispren como enormes esferas brillantes con largas alas a los lados y colas que fluyen.
 
-#### Gravitacionspren
-Un tipo de spren que representa el poder o la fuerza que hace que las cosas caigan. A veces, [[Zen-hija-Vath\|Zen-hija-Vath]] los encuentra alrededor de objetos pesados. Los [[Cantor\|cantores]] pueden vincularlos para adoptar la [[/wiki/Cantor#Forma de trabajo]]. De manera adicional, los gravitacionspren forman las [[Armadura esquirlada\|armaduras esquirladas]] de los Rompedores del Cielo.
-Es posible que sean lo mismo que los gravedadspren.
-
 #### Gravedadspren
 Un tipo de spren mencionado en el [[Cuaderno de Navani\|cuaderno de Navani]]. Pueden ser capturados en gemas con un determinado corte y utilizados en fabriales. Son posiblemente otro nombre para los suelospren, suertespren o gravitacionspren.
 
-#### Suelospren
-Un tipo de spren al que los rosharianos atribuyen la atracción de la gravedad.
-
-#### Calorspren
-Un tipo de spren mencionado en el [[Cuaderno de Navani\|cuaderno de Navani]]. Pueden ser capturados en gemas con un determinado corte y utilizados en fabriales. Se desconoce si se trata de un nombre científico para un llamaspren, o de una criatura totalmente diferente.
+#### Gravitacionspren
+Un tipo de spren que representa el poder o la fuerza que hace que las cosas caigan. A veces, [[Zen-hija-Vath\|Zen-hija-Vath]] los encuentra alrededor de objetos pesados. Los [[Cantor\|cantores]] pueden vincularlos para adoptar la [[/wiki/Cantor#Forma de trabajo]]. De manera adicional, los gravitacionspren forman las [[Armadura esquirlada\|armaduras esquirladas]] de los Rompedores del Cielo.
+Es posible que sean lo mismo que los gravedadspren.
 
 #### Hambrespren
 >“*Mientras hablaba, atrajo a unos pocos hambrespren. Parecían moscas marrones que revoloteaban alrededor de su cabeza, casi demasiado pequeños para que pudieran ser vistos.*”
@@ -429,28 +411,24 @@ Un tipo de spren mencionado en el [[Cuaderno de Navani\|cuaderno de Navani]]. Pu
 
 Un tipo de spren que aparece alrededor de las personas que sienten hambre extrema. Aparecen como pequeñas moscas marrones que revolotean alrededor de la persona hambrienta.
 
-#### Alegrespren
->“*Alegrespren brotaron a su alrededor, como hojas azules que empezaron a sus pies y luego ascendieron en remolino antes de desaparecer sobre su cabeza como si se los llevara una ráfaga de viento.*”
-\-Palabras radiantes: capítulo veintiocho[152]
+
+  Llamaspren con algunas <<Esfera\|esferas>>
+#### Llamaspren
+>“*… y se dedicó a observar a dos llamaspren que danzaban por un tronco. Tenían un vago aspecto humano, con rasgos que no dejaban de cambiar.*”
+\-Juramentada: capítulo treinta y seis[152]
 
 
-Un tipo de spren relativamente raro, que suele ir acompañado de sentimientos intensos de felicidad o logro. En el [[Reino F%C3%ADsico\|Reino Físico]], toman la forma de hojas o pétalos azules que se elevan alrededor de una persona en un remolino, rodeándola o arrastrándose detrás de ella cuando se mueve. Los cantores los ven estallar alrededor del individuo alegre como una hermosa tormenta azul. En [[Shadesmar\|Shadesmar]], aparecen como un ciclón giratorio de color.
+Un tipo común de spren que aparece alrededor y en el fuego. Parecen diminutas figuras humanoides hechas de luz condensada. A menudo bailan alrededor, cambiando constantemente de tamaño, forma y luminosidad como las propias llamas.
+La [[/wiki/Vorinismo#Sacerdocio]] [[Geranid\|Geranid]] estaba estudiando a los llamaspren cuando descubrió que si los medía, los spren parecían quedar «atrapados» por esa medición. Esto es similar al proceso físico de  en la .
+Los llamaspren se sienten atraídos por la piedrabase rubí, y son los más fáciles de dividir, por lo que se suelen utilizar en fabriales parejos.
 
-#### Risaspren
->“*Unos cuantos risaspren (espíritus plateados como pececillos que corrían por el aire en patrones circulares) empezaron a revolotear entre ellos.*”
-\-El camino de los reyes: capítulo catorce[24]
-
-
-Un tipo de spren que aparece en presencia de carcajadas. Tienen la apariencia de pequeños pececillos plateados que se mueven en círculos alrededor de los que ríen.
-
-#### Vidaspren
->“*Unos pocos vidaspren (motitas verde brillante) ﬂotaban en torno a los montículos de cortezapizarra. Algunos bailaban entre las grietas de la corteza, otros en el aire como motas de polvo zigzagueando hacia arriba, solo para volver a caer.*”
-\-El camino de los reyes: capítulo treinta y nueve[156]
+  Lluviaspren en Shadesmar
+#### Lluviaspren
+>“*Se decía que (los lluviaspren) eran las almas de las gotas de lluvia...*”
+\-El camino de los reyes: capítulo cuarenta y cuatro[153]
 
 
-Un tipo común de spren que aparece alrededor de la vida vegetal, especialmente después de las [[Alta tormenta\|altas tormentas]]. Parecen motas de polvo verde brillante o enjambres de insectos diminutos y translúcidos. En el Reino Cognitivo, su aspecto es muy similar, pero tienen mechones de pelo blanco que se ondulan cuando se mueven. Los cantores los ven como si tuvieran espinas blancas además de la mota verde brillante, y pueden vincularlos para adoptar la [[/wiki/Cantor#Forma carnal]]. Pueden usarse junto con luz tormentosa y música (concretamente uno de los [[Ritmo\|ritmos]]) para hacer que las plantas crezcan más rápido, esto drena la luz tormentosa y puede agrietar las gemas, de forma similar a un fabrial.
-En algunas ocasiones, pueden aparecer vidaspren en zonas especialmente pobladas.
-Hay muchas ocasiones en las que los vidaspren se sienten atraídos por Lift cuando usa sus poderes. No está claro si esta atracción se debe a que es una Danzante del Filo, o si tiene que ver con su bendición de la Vigilante Nocturna.
+Un tipo de spren que aparece con mayor frecuencia durante el [[Llanto\|Llanto]]. Tienen la apariencia de velas azules brillantes que llegan a la altura de los tobillos y que, a pesar de parecer que se derriten, nunca se acortan, y que tienen un solo ojo en la parte superior de su cuerpo. Suelen aparecer en los charcos. Los cantores ven pies en los lluviaspren.
 
 #### Logispren
 >“*Se decía que eran los logispren, en forma de diminutas nubes de tormenta, los que eran atraídos por los grandes argumentos…*”
@@ -461,12 +439,37 @@ Un tipo raro de spren que aparece alrededor de argumentos buenos y bien estructu
 Se utilizan para crear relojes fabriales, y afectan al ritmo, de forma similar al [[Aon\|Aon]] Ene.
 Además, también forman la armadura esquirlada de los Nominadores de lo Otro.
 
-  Boceto de un <<Suertespren\|suertespren>>
-#### Suertespren
-Para más información, ver [[Mandras\|Mandras]].
-Un tipo de spren que vuela alrededor de las [[Anguila a%C3%A9rea\|anguilas aéreas]] y de algunos [[Grancaparaz%C3%B3n\|grancaparazones]]. En el Reino Físico, los suertespren tienen la apariencia de peces azules pequeños, con forma de flecha, que se mueven alrededor de las anguilas aéreas siguiendo la dirección de su movimiento. Muchos rosharianos creen que estos spren permiten, de alguna forma, volar a la anguila, pero se desconoce la veracidad de esta creencia. Los [[Larkin\|larkin]] y otros grancaparazones se vinculan a los suertespren cuando crecen, lo que les permite alcanzar dimensiones mucho más elevadas, y sin ser aplastados, cosa que de otra forma no sería fisiológicamente posible. A veces, un suertespren que está cerca de un abismoide se aleja del resto y desaparece, convirtiéndose brevemente en una nube de humo, y cuando el abismoide muere, el resto de suertespren se marchan de una forma parecida. Sin embargo, no parece que esto ocurra alrededor de otras criaturas, y el hecho de que se trate de suertespren no parece ser algo muy conocido.
-En Shadesmar, los suertespren son conocidos como mandras. Allí son mucho más grandes, con cuerpos largos y sinuosos, y cuya cabeza tiene forma de flecha. Algunos spren suelen aprovecharlos para arrastrar barcos por los mares de cuentas, ya que no hay viento para navegar. Tienen la costumbre de «caer», desvaneciéndose temporalmente en el Reino Físico, para luego reaparecer en Shadesmar, lo que hace que cualquier barco tenga varios mandras enganchados a él.
-Los oyentes los denominan abismospren.
+#### Marinerospren
+>“*¡Que me arrojen por la borda y me llamen pescado! Si puedes verlo, ¡supongo que sí que eres un marinero de verdad! Ganas tú la apuesta, pues.*”
+\-Yalb[158]
+
+
+Los marinerospren son spren falsos. Se les describe como grandes y amarillos, con tentáculos y una franja roja brillante en la espalda. A los marineros nuevos se les engaña para que crean en su existencia y así apuesten mucho dinero, contra otros marineros, por la existencia de los marinerospren. Luego se enteran de que los marinerospren no son reales.
+
+#### Melancospren
+>“*Largo y gris, como un banderín de tela deshilachada al viento. Rodó a su alrededor, ondeando.*”
+\-Juramentada: capítulo cinco[159]
+
+
+Un tipo raro de spren que parece un banderín gris, aparentemente atraído por el sentimiento de resignación o profunda tristeza. Una de las tías de [[Sylphrena\|Syl]] los caza de forma similar a la caza de grancaparazones.
+
+#### Miedospren
+>“*Los miedospren, aleteantes y violetas, se escabulleron de la madera y revolotearon en el aire.*”
+\-El camino de los reyes: capítulo seis[42]
+
+
+Un tipo común de spren que aparece alrededor de las personas que experimentan miedo. En el [[Reino F%C3%ADsico\|Reino Físico]], tienen el aspecto de pequeños glóbulos violáceos que surgen del suelo y se reúnen alrededor de los pies de los temerosos. Parece que se sienten atraídos por la mayor concentración de miedo de una zona, ya que las personas que experimentan menos miedo no atraen a los miedospren. En [[Shadesmar\|Shadesmar]] aparecen como grandes criaturas parecidas a las anguilas, con múltiples patas rechonchas, crestas en la espalda y largas y globosas antenas de color púrpura. Estas antenas parecen ser la parte que se manifiesta visualmente en el Reino Físico.
+Entre los [[Oyente\|oyentes]], los miedospren parecen largos gusanos de color púrpura, probablemente porque pueden ver toda la antena y no sólo la punta que ven los humanos.
+
+#### Muertespren
+  Muertespren
+>“*Solo los moribundos podían ver a los muertespren. Los veías y luego morías. Solo los muy, muy afortunados sobrevivían después de eso. Los muertespren sabían cuándo estaba cerca el final.*”
+\-Kaladin[164]
+
+
+Un tipo de spren que solo se le aparece a la gente que está cerca de la muerte. Muy pocas personas sobreviven después de ver a los muertespren y debido a esta rareza algunos consideran que no son reales. Parecen criaturas negras, de muchas patas y del tamaño de un puño, con ojos rojos brillantes que dejan estelas de luz cuando el muertespren se mueve. Susurran con voces parecidas al papel rasgado. [[Lirin\|Lirin]] afirma que el agua repele a los muertespren. A veces se hace referencia a los muertespren como un eufemismo para referirse a la muerte.
+Es posible que los muertespren tengan un efecto más real sobre los moribundos que simplemente verse atraídos por ellos, ya que [[Sylphrena\|Syl]] se esfuerza por proteger a Kaladin de ellos cuando está al borde de la muerte.
+También es posible que solo los moribundos puedan ver a los muertespren porque en esa situación pueden ver temporalmente en los otros Reinos (ya sea el Espiritual o el Cognitivo); cuando Kaladin ve a [[Sylphrena\|Syl]] defendiéndole de los muertespren, ella aparece de forma diferente a las veces anteriores, como una figura sólida de luz resplandeciente a diferencia de su manifestación normal translúcida en el Reino Físico.
 
 #### Musispren
 >“*Los musispren ﬂotaban en el aire a su alrededor, los diminutos espíritus tomaban la forma de lazos transparentes que giraban.*”
@@ -475,56 +478,36 @@ Los oyentes los denominan abismospren.
 
 Un tipo de spren que aparece alrededor de las interpretaciones musicales. Tienen la apariencia de lazos transparentes y giratorios, que giran alrededor del instrumento en acción. Una sola nota pura es suficiente para atraer al menos a un musispren, aunque sea por poco tiempo. También parecen verse atraídos por los [[Ryshadio\|ryshadios]], lo que sugiere que podrían ser los spren con los que se vinculan los caballos.
 
-  Un dolorspren corrupto y uno sin corromper
-#### Dolorspren
->“*Los dolorspren pululaban por el suelo, como pequeñas manos anaranjadas o trozos de tejidos, alzándose del suelo entre la sangre de los caídos.*”
-\-El camino de los reyes: capítulo cuarenta y siete[175]
+#### Nievespren
+Un tipo de spren que aparece en los pocos lugares nevados de Roshar, como los [[Picos Comecuernos\|Picos Comecuernos]].
+
+#### Olaspren
+>“*Los olaspren danzaban sobre las puntas de cumbres blanquecinas en un campo de titilante azul.*”
+\-Esquirla del Amanecer: capítulo cinco[170]
 
 
-Un tipo común de spren que aparece alrededor de aquellos que experimentan dolor. Tienen la apariencia de manos nervudas y anaranjadas. Se alzan del suelo y pululan entre los que sufren dolor, agarrándose a las zonas heridas. Los cantores se vinculan con ellos para acceder a la forma de guerra.
+Estos spren son cuadrúpedos de piel suave y ojos grandes. Se encuentran en el océano, y se les ha visto chapotear en el aire tras el choque de dos olas así como cabalgar sobre las olas en la playa.
 
 #### Pasionespren
 >“*Pasionespren, como diminutos copos de nieve cristalina, flotaban en el aire alrededor de ellos.*”
-\-El camino de los reyes: capítulo sesenta y uno[178]
+\-El camino de los reyes: capítulo sesenta y uno[173]
 
 
 Un tipo de spren que aparece alrededor de aquellos que experimentan sentimientos apasionados. Esto incluye tanto el amor intenso como las pasiones más violentas, como la [[/wiki/Nergaoul#La Emoci.C3.B3n]]. En el [[Reino F%C3%ADsico\|Reino Físico]], parecen pequeños copos de nieve. En [[Shadesmar\|Shadesmar]], son spren largos y voladores con bigotes y cuerpos gráciles. Tienen la capacidad de expulsar pequeñas esquirlas cristalinas que flotan hacia abajo y se desvanecen.
 
 #### Persuasispren
 >“*Qué bien se te dan las palabras. Los humanos sois como los persuasispren. No puedo hablar con ninguno de vosotros sin que me hagáis cambiar.*”
-\-El Hermano[179]
+\-El Hermano[174]
 
 
 Un tipo de spren relacionado con la persuasión.
 
 #### Plagaspren
 >“*¿Has visto plagaspren en alguno de estos refugiados? Si esos spren llegan al pueblo, podrían matar a todo el mundo.*”
-\-Abiajan[180]
+\-Abiajan[175]
 
 
 Los plagaspren son un tipo de spren con origen relativamente reciente, ya que la primera manifestación moderna conocida se produjo en 1173, cuando comenzó la epidemia (de resfriado común) en Occidente. Aparecen en los cuerpos de las personas que tienen la enfermedad, pero se desconoce su aspecto exacto.
-
-  Lluviaspren en Shadesmar
-#### Lluviaspren
->“*Se decía que (los lluviaspren) eran las almas de las gotas de lluvia...*”
-\-El camino de los reyes: capítulo cuarenta y cuatro[182]
-
-
-Un tipo de spren que aparece con mayor frecuencia durante el [[Llanto\|Llanto]]. Tienen la apariencia de velas azules brillantes que llegan a la altura de los tobillos y que, a pesar de parecer que se derriten, nunca se acortan, y que tienen un solo ojo en la parte superior de su cuerpo. Suelen aparecer en los charcos. Los cantores ven pies en los lluviaspren.
-
-#### Arcoírispren
-Un tipo de spren relacionado con el arcoíris.
-
-#### Ríospren
->“*(El Lagopuro) estaba lleno de peces diminutos, pintorescos cremlinos, y ríospren parecidos a anguilas.*”
-\-El camino de los reyes: interludio uno[184]
-
-
-Un tipo común de spren que aparece en extensiones de agua como los ríos o el [[Lagopuro\|Lagopuro]]. Con frecuencia, se les describe con cierto parecido a las anguilas. Se encuentran entre las variedades más grandes de spren y tienen la capacidad de imitar caras y expresiones, así como voces, y a menudo eligen atormentar a la gente mientras lo hacen.
-Los oyentes ven a los ríospren con caparazón.
-
-#### Rocaspren
-Un tipo de spren relacionado con las rocas.
 
 #### Putrispren
 >“*Descansa y mantén limpia esa herida. No queremos atraer a ningún putrispren. Házmelo saber si ves alguno. Son pequeños y rojos, como insectos diminutos.*”
@@ -534,44 +517,62 @@ Un tipo de spren relacionado con las rocas.
 Un tipo común de spren que aparece alrededor de los tejidos infectados y de los cadáveres en descomposición. Tienen la apariencia de pequeños insectos, rojos y translúcidos, que se reúnen alrededor de las heridas infectadas.
 A diferencia de la mayoría de spren, donde la mayoría de los rosharianos cree que solo se sienten atraídos por aquello que representan, a menudo piensan que los putrispren son la causa de la enfermedad y la infección. Vemos como son ahuyentados con agua y antisépticos como el [[Aceite de lister\|aceite de lister]], la savia de [[Matopomo\|matopomo]], y la [[Mucosa de larmic\|mucosa de larmic]].
 
-#### Marinerospren
->“*¡Que me arrojen por la borda y me llamen pescado! Si puedes verlo, ¡supongo que sí que eres un marinero de verdad! Ganas tú la apuesta, pues.*”
-\-Yalb[187]
+#### Ríospren
+>“*(El Lagopuro) estaba lleno de peces diminutos, pintorescos cremlinos, y ríospren parecidos a anguilas.*”
+\-El camino de los reyes: interludio uno[179]
 
 
-Los marinerospren son spren falsos. Se les describe como grandes y amarillos, con tentáculos y una franja roja brillante en la espalda. A los marineros nuevos se les engaña para que crean en su existencia y así apuesten mucho dinero, contra otros marineros, por la existencia de los marinerospren. Luego se enteran de que los marinerospren no son reales.
+Un tipo común de spren que aparece en extensiones de agua como los ríos o el [[Lagopuro\|Lagopuro]]. Con frecuencia, se les describe con cierto parecido a las anguilas. Se encuentran entre las variedades más grandes de spren y tienen la capacidad de imitar caras y expresiones, así como voces, y a menudo eligen atormentar a la gente mientras lo hacen.
+Los oyentes ven a los ríospren con caparazón.
 
-#### Vergüenzaspren
-Spren que se ven atraídos por los sentimientos de vergüenza o pudor. Parecen pétalos de flores rojas y blancas flotando hacia el suelo.
+#### Risaspren
+>“*Unos cuantos risaspren (espíritus plateados como pececillos que corrían por el aire en patrones circulares) empezaron a revolotear entre ellos.*”
+\-El camino de los reyes: capítulo catorce[24]
+
+
+Un tipo de spren que aparece en presencia de carcajadas. Tienen la apariencia de pequeños pececillos plateados que se mueven en círculos alrededor de los que ríen.
+
+#### Rocaspren
+Un tipo de spren relacionado con las rocas.
 
 #### Sorpresaspren
 Un tipo raro de spren que aparece alrededor de las personas que experimentan una conmoción temerosa (a diferencia de los asombrospren, asociados a las sorpresas agradables). Tienen el aspecto de triángulos de color amarillo pálido que se rompen y vuelven a formarse alrededor de la persona que los atrae.
 
-#### Nievespren
-Un tipo de spren que aparece en los pocos lugares nevados de Roshar, como los [[Picos Comecuernos\|Picos Comecuernos]].
-
-  <<Shallan\|Shallan>> y <<Adolin\|Adolin>> observando un estrellaspren
-#### Estrellaspren
->“*Era el momento entre lunas, y por eso quedaba iluminado principalmente por el fuego de la hoguera; en el cielo había una lluvia de estrellas. Varias se movían, diminutos puntos de luz persiguiéndose unos a otros, zigzagueando como lejanos y brillantes insectos.*”
-\-El camino de los reyes: capítulo cuarenta[193]
-
-
-Un tipo raro de spren que aparece por la noche entre las estrellas. En el [[Reino F%C3%ADsico\|Reino Físico]] aparecen como pequeños puntos de luz que se persiguen, como insectos. En [[Shadesmar\|Shadesmar]], las estrellaspren aparecen como enormes [[Grancaparaz%C3%B3n\|grancaparazones]] de cuello largo y caparazón ceniciento que sólo son visibles desde cierto ángulo. Tienen siete pares de alas. Llevan nubes a sus espaldas y otras se adhieren a su barbilla, dando la apariencia de una barba. Bajo su piel o caparazón brillan puntitos de luz como los de una constelación, que son las partes visibles en el Reino Físico.
-Los grancaparazones no imaginaron su existencia.
-
 #### *Stormstriders*
 Los *stormstriders* son spren enormes y con patas relucientes que pueden verse durante las altas tormentas. Durante la juventud de Kaladin, los residentes de [[Piedralar\|Piedralar]] creen que pueden ser los responsables de la destrucción de una colina cercana. Kaladin y Shallan ven uno cuando están en un abismo durante una alta tormenta. Dalinar también ve uno cuando está en una alta tormenta viajando entre [[Refugio para tormenta\|refugios para tormentas]]. El nombre «stormstrider» es un nombre dado por los fans que no ha sido confirmado.
+
+#### Suelospren
+Un tipo de spren al que los rosharianos atribuyen la atracción de la gravedad.
+
+  Boceto de un <<Suertespren\|suertespren>>
+#### Suertespren
+Para más información, ver [[Mandras\|Mandras]].
+Un tipo de spren que vuela alrededor de las [[Anguila a%C3%A9rea\|anguilas aéreas]] y de algunos [[Grancaparaz%C3%B3n\|grancaparazones]]. En el Reino Físico, los suertespren tienen la apariencia de peces azules pequeños, con forma de flecha, que se mueven alrededor de las anguilas aéreas siguiendo la dirección de su movimiento. Muchos rosharianos creen que estos spren permiten, de alguna forma, volar a la anguila, pero se desconoce la veracidad de esta creencia. Los [[Larkin\|larkin]] y otros grancaparazones se vinculan a los suertespren cuando crecen, lo que les permite alcanzar dimensiones mucho más elevadas, y sin ser aplastados, cosa que de otra forma no sería fisiológicamente posible. A veces, un suertespren que está cerca de un abismoide se aleja del resto y desaparece, convirtiéndose brevemente en una nube de humo, y cuando el abismoide muere, el resto de suertespren se marchan de una forma parecida. Sin embargo, no parece que esto ocurra alrededor de otras criaturas, y el hecho de que se trate de suertespren no parece ser algo muy conocido.
+En Shadesmar, los suertespren son conocidos como mandras. Allí son mucho más grandes, con cuerpos largos y sinuosos, y cuya cabeza tiene forma de flecha. Algunos spren suelen aprovecharlos para arrastrar barcos por los mares de cuentas, ya que no hay viento para navegar. Tienen la costumbre de «caer», desvaneciéndose temporalmente en el Reino Físico, para luego reaparecer en Shadesmar, lo que hace que cualquier barco tenga varios mandras enganchados a él.
+Los oyentes los denominan abismospren.
 
 #### Tai-na Spren
 Para más información, ver [[/wiki/Tai-na#V.C3.ADnculo con spren]].
 Los [[Tai-na\|Tai-na]] del [[Mar Reshi\|Mar Reshi]] vinculan a un spren desconocido, al que sus [[Reshi\|habitantes]] se refieren como su «alma», que permite que estos grancaparazones crezcan hasta alcanzar tamaños colosales. Algunas veces, estas «almas» parece que pueden mostrarse a la gente y pueden interactuar, de alguna forma, con el mundo y la magia, como por ejemplo al ralentizar la caída de una persona. No está del todo claro si se trata de los [[Suertespren\|mismos spren]] que vinculan otros grancaparazones o no, pero [[Axies el Coleccionista\|Axies el Coleccionista]] cree que las «almas» deben ser más «espectaculares» que las otras.
 
-#### Olaspren
->“*Los olaspren danzaban sobre las puntas de cumbres blanquecinas en un campo de titilante azul.*”
-\-Esquirla del Amanecer: capítulo cinco[200]
+#### Unespren
+>“*Le pareció que podía distinguir diminutos spren, azul oscuro y con forma de pequeñas manchas de tinta, apilados alrededor del lugar donde la piedra conectaba con la pared.*”
+\-Kaladin[4]
 
 
-Estos spren son cuadrúpedos de piel suave y ojos grandes. Se encuentran en el océano, y se les ha visto chapotear en el aire tras el choque de dos olas así como cabalgar sobre las olas en la playa.
+Spren que aparecen alrededor de los objetos enlazados con un [[/wiki/Potenciaci%C3%B3n#Enlace completo]]. Aparecen como pequeñas manchas de tinta azul oscuro. Su relación con los enlaces aún no se entiende del todo, ya que [[Kaladin\|Kaladin]] cree que son lo que mantienen unidos los objetos, mientras que [[Sylphrena\|Sylphrena]] discrepa, argumentando que podrían verse atraídos por el enlace completo que Kaladin acaba de crear.
+
+#### Vergüenzaspren
+Spren que se ven atraídos por los sentimientos de vergüenza o pudor. Parecen pétalos de flores rojas y blancas flotando hacia el suelo.
+
+#### Vidaspren
+>“*Unos pocos vidaspren (motitas verde brillante) ﬂotaban en torno a los montículos de cortezapizarra. Algunos bailaban entre las grietas de la corteza, otros en el aire como motas de polvo zigzagueando hacia arriba, solo para volver a caer.*”
+\-El camino de los reyes: capítulo treinta y nueve[196]
+
+
+Un tipo común de spren que aparece alrededor de la vida vegetal, especialmente después de las [[Alta tormenta\|altas tormentas]]. Parecen motas de polvo verde brillante o enjambres de insectos diminutos y translúcidos. En el Reino Cognitivo, su aspecto es muy similar, pero tienen mechones de pelo blanco que se ondulan cuando se mueven. Los cantores los ven como si tuvieran espinas blancas además de la mota verde brillante, y pueden vincularlos para adoptar la [[/wiki/Cantor#Forma carnal]]. Pueden usarse junto con luz tormentosa y música (concretamente uno de los [[Ritmo\|ritmos]]) para hacer que las plantas crezcan más rápido, esto drena la luz tormentosa y puede agrietar las gemas, de forma similar a un fabrial.
+En algunas ocasiones, pueden aparecer vidaspren en zonas especialmente pobladas.
+Hay muchas ocasiones en las que los vidaspren se sienten atraídos por Lift cuando usa sus poderes. No está claro si esta atracción se debe a que es una Danzante del Filo, o si tiene que ver con su bendición de la Vigilante Nocturna.
 
 #### Vientospren
 >“*Los vientospren eran espíritus maliciosos que tenían la manía de quedarse donde no eran queridos*”
@@ -579,7 +580,7 @@ Estos spren son cuadrúpedos de piel suave y ojos grandes. Se encuentran en el o
 
 
 >“*¡Los propios vientospren se extasiaron contigo, brillante Shallan, y nos condujeron hasta aquí!*”
-\-Capitán Tozbek[157]
+\-Capitán Tozbek[197]
 
 
 Un tipo común de spren que se manifiesta en presencia del viento. Como uno de los tipos más grandes de spren, los vientospren son capaces de cambiar su apariencia a voluntad, aunque a menudo aparecen como cintas de luz. La muralla (o línea frontal) de una alta tormenta es el hogar de miles de ellos. También son frecuentes en la cola de una alta tormenta, como si la persiguieran. Son una rareza en Shadesmar, ya que pasan casi todo su tiempo en el Reino Físico. Un vientospren en Shadesmar es descrito como un punto de luz que arrastra una larga luminiscencia detrás de él, moviéndose de forma muy similar a como lo haría en el Reino Físico. Los Vientospren también parecen verse atraídos por los Radiantes que se mueven particularmente rápido, como los Corredores del Viento y los Danzantes del Filo que utilizan la Gravitación y la Abrasión.
@@ -588,6 +589,21 @@ Parece que los cantores podrían vincularse con los vientospren para conseguir l
 
 ### Spren verdaderos
 Todos los spren verdaderos fueron creados por Honor y Cultivación.
+
+#### Alcanzadores
+Para más información, ver [[Alcanzador\|Alcanzador]].
+Un tipo de spren sapiente que forma vínculos Nahel con la Orden de Caballeros Radiantes de los [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]], otorgándoles sus poderes. Los alcanzadores conceden las [[Potenciaci%C3%B3n\|Potencias]] de Transporte y Cohesión. En el Reino Físico, aparecen como bolas brillantes de luz. En Shadesmar, aparecen como humanos con piel broncínea, metálica, y agujeros en las pupilas, como estatuas vivientes. Allí también se les conoce como alcanzadores.
+A menudo, en Shadesmar los alcanzadores actúan como guías, ya que les gusta viajar a lugares distintos, comerciando y vendiendo bienes. Sus barcos están impulsados por grupos de [[Mandra\|mandras]], y en estos barcos hay líneas de cobre engastadas en la cubierta que puede que les sirvan como medio de comunicación.
+
+#### Altospren
+Para más información, ver [[Altospren\|Altospren]].
+Un tipo de spren sapiente que establece vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]], otorgándoles sus poderes. Los altospren otorgan las [[Potenciaci%C3%B3n\|Potencias]] de Gravitación y División.
+En el Reino Físico, adoptan la forma de rendijas negras en el aire, que pueden abrirse para revelar las estrellas que brillan en su interior. Parece que tienen sus propios asentamientos en Shadesmar y se muestran más bien aislados, sin que se les vea en lugares como [[Celebrant\|Celebrant]]. Otros spren los consideran estrictos y muy sujetos a las reglas.
+
+#### Brumaspren
+Para más información, ver [[Brumaspren\|Brumaspren]].
+Un tipo de spren sapiente que establece vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Vigilantes de la Verdad\|Orden de los Vigilantes de la Verdad]], otorgándoles sus poderes En Shadesmar, adquieren la forma de figuras humanoides, hechas de niebla arremolinada y borrosa. Sus rostros parecen máscaras de porcelana, y llevan guantes, pantalones y chalecos que se adhieren a la forma de sus cuerpos a pesar de su aparente incorporeidad, y toman la forma de la luz reflejada a través de un espejo mientras están en el Reino Físico.
+En ocasiones se han asociado con los [[Honorspren\|honorspren]], trabajando como marineros comunes en sus barcos.
 
 #### Cenizaspren
 Para más información, ver [[Cenizaspren\|Cenizaspren]].
@@ -605,10 +621,9 @@ Para más información, ver [[Cultivacispren\|Cultivacispren]].
 Un tipo de spren sapiente que forma vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Danzantes del Filo\|Orden de los Danzantes del Filo]], otorgándoles sus poderes, que incluyen las [[Potenciaci%C3%B3n\|Potencias]] de Abrasión y Progresión. Aparecen en el Reino Físico como una vid creciente con cristales, mientras que en Shadesmar adoptan la forma de un humanoide aparentemente hecho de enredaderas finas y gruesas y trozos de cristal. En general, son considerados los spren que expresan la forma más pura de Cultivación.
 Su gobierno está formado por un grupo de cultivacispren a los que denominan el [[El Anillo\|Anillo]], que, entre otras cosas, dicta qué spren debe vincularse y con quién. Tienen la capacidad de permitir que sus parientes viajen al Reino Físico sin la habitual pérdida de funciones mentales.
 
-#### Altospren
-Para más información, ver [[Altospren\|Altospren]].
-Un tipo de spren sapiente que establece vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]], otorgándoles sus poderes. Los altospren otorgan las [[Potenciaci%C3%B3n\|Potencias]] de Gravitación y División.
-En el Reino Físico, adoptan la forma de rendijas negras en el aire, que pueden abrirse para revelar las estrellas que brillan en su interior. Parece que tienen sus propios asentamientos en Shadesmar y se muestran más bien aislados, sin que se les vea en lugares como [[Celebrant\|Celebrant]]. Otros spren los consideran estrictos y muy sujetos a las reglas.
+#### Cumbrespren
+Para más información, ver [[Cumbrespren\|Cumbrespren]].
+Un tipo de spren sapiente que forma vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Custodios de Piedra\|Orden de los Custodios de Piedra]], otorgándoles sus poderes. En Shadesmar, adoptan la forma de figuras humanoides con la piel como piedra agrietada y una luz fundida emanando de su interior.
 
 #### Honorspren
   <<Sylphrena\|Sylphrena>>, una honorspren
@@ -616,53 +631,39 @@ Para más información, ver [[Honorspren\|Honorspren]].
 Un tipo de spren sapiente que forma vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]], otorgándoles sus poderes. Los honorspren conceden las [[Potenciaci%C3%B3n\|Potencias]] de Gravitación y Adhesión. Se dice que son bastante «exigentes» a la hora de decidir con quién se vinculan. En general, se les considera los spren que expresan la forma más pura de Honor.
 En el Reino Físico, pueden cambiar de forma, aunque en cualquiera de ellas, son de color blanco azulado con un resplandor que combina. En Shadesmar, parecen humanos con la piel blanca y azulada y ropas que forman parte de ellos. Destacan por ser muy belicosos, con numerosas ciudades y fortalezas, así como su propia flota.
 
-#### Tintaspren
-Para más información, ver [[Tintaspren\|Tintaspren]].
-Un tipo de spren sapiente que forma vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Nominadores de lo Otro\|Orden de los Nominadores de lo Otro]], otorgándoles sus poderes. Los tintaspren otorgan las [[Potenciaci%C3%B3n\|Potencias]] de Transformación y Transportación. Tienen el aspecto de pequeñas figuras con forma humana, con piel y ropa de color negro tinta, recubiertas de lo que parece ser aceite, con una calidad marmórea o prismática en su aspecto. Son capaces de confundirse con las sombras. Además, pueden cambiar de tamaño, pero no de forma.
-
 #### Sagacispren
 "Sagacispren" es un apodo para uno de los spren Radiantes, aunque desconocemos a cuál se refiere. [[Wyndle\|Wyndle]] considera que «cultivar un jardín para un sagacispren» es una buena comparación a una conversación extraña.
-
-#### Lumispren
-Para más información, ver [[Lumispren\|Lumispren]].
-Un tipo de spren sapiente que forma vínculos Nahel con la Orden de Caballeros Radiantes de los [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]], otorgándoles sus poderes. Los lumispren conceden las [[Potenciaci%C3%B3n\|Potencias]] de Transporte y Cohesión. En el Reino Físico, aparecen como bolas brillantes de luz. En Shadesmar, aparecen como humanos con piel broncínea, metálica, y agujeros en las pupilas, como estatuas vivientes. Allí también se les conoce como alcanzadores.
-A menudo, en Shadesmar los alcanzadores actúan como guías, ya que les gusta viajar a lugares distintos, comerciando y vendiendo bienes. Sus barcos están impulsados por grupos de [[Mandra\|mandras]], y en estos barcos hay líneas de cobre engastadas en la cubierta que puede que les sirvan como medio de comunicación.
-
-#### Brumaspren
-Para más información, ver [[Brumaspren\|Brumaspren]].
-Un tipo de spren sapiente que establece vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Vigilantes de la Verdad\|Orden de los Vigilantes de la Verdad]], otorgándoles sus poderes En Shadesmar, adquieren la forma de figuras humanoides, hechas de niebla arremolinada y borrosa. Sus rostros parecen máscaras de porcelana, y llevan guantes, pantalones y chalecos que se adhieren a la forma de sus cuerpos a pesar de su aparente incorporeidad, y toman la forma de la luz reflejada a través de un espejo mientras están en el Reino Físico.
-En ocasiones se han asociado con los [[Honorspren\|honorspren]], trabajando como marineros comunes en sus barcos.
 
 #### Spren de la Puerta Jurada
   Spren de la Puerta Jurada sin corromper
 >“*Nos disculpamos. Hemos estado... solos mucho tiempo. Nos gustaría volver a abrir el paso a los hombres. Pero no podemos hacer lo que se nos prohibió.*”
-\-Spren de la Puerta Jurada de Ciudad Thaylen[221]
+\-Spren de la Puerta Jurada de Ciudad Thaylen[222]
 
 
 Estos spren residen sobre las [[Puerta Jurada\|Puertas Juradas]]. Se llaman a sí mismos guardianes. Adoptan la forma de humanoides enormes y con aspecto de estatua, muchas veces más altos que una persona, que portan armadura y sostienen lanzas proporcionalmente grandes. Siempre aparecen en parejas, siendo uno de ellos de color blanco nacarado brillante, mientras que el otro es de color negro brillante. Actúan y hablan en conjunto, sin diferencias visibles en sus opiniones o comportamiento.
 Los spren de la Puerta Jurada facilitan el transporte entre Puertas Juradas, ya que cualquier pareja puede transportar cualquier cosa en la plataforma física y en su cámara de control entre ellos y una Puerta Jurada equivalente en [[Urithiru\|Urithiru]] o en otra ciudad. Su existencia es un elemento crucial para el funcionamiento de las Puertas Juradas, ya que pueden reconstruirse siempre que los spren no estén dañados. Parece que están ligados a las once gemas que se utilizan para hacer funcionar la Puerta Jurada. Aunque los spren de la Puerta Jurada pueden corromperse, esto no afecta a su capacidad de enviar viajeros a las que no están corrompidas.
 En el pasado, estos spren también permitían a la gente sin la [[Potenciaci%C3%B3n\|Potencia]] de Transportación viajar hacia y desde [[Shadesmar\|Shadesmar]]. Sin embargo, [[El Hermano\|el Hermano]] se lo prohibió poco antes de su marcha. Aunque los spren de la Puerta Jurada lo lamentan mucho, son físicamente incapaces de desobedecer sus órdenes. Aunque muchos de los guardianes mantienen la orden del Hermano, algunos de ellos han escuchado la petición del Padre Tormenta de permitir a la gente usar las Puertas Juradas para viajar entre el Reino Físico y Shadesmar una vez más.
 
-#### Cumbrespren
-Para más información, ver [[Cumbrespren\|Cumbrespren]].
-Un tipo de spren sapiente que forma vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Custodios de Piedra\|Orden de los Custodios de Piedra]], otorgándoles sus poderes. En Shadesmar, adoptan la forma de figuras humanoides con la piel como piedra agrietada y una luz fundida emanando de su interior.
+#### Tintaspren
+Para más información, ver [[Tintaspren\|Tintaspren]].
+Un tipo de spren sapiente que forma vínculos Nahel con los Caballeros Radiantes de la [[Orden de los Nominadores de lo Otro\|Orden de los Nominadores de lo Otro]], otorgándoles sus poderes. Los tintaspren otorgan las [[Potenciaci%C3%B3n\|Potencias]] de Transformación y Transportación. Tienen el aspecto de pequeñas figuras con forma humana, con piel y ropa de color negro tinta, recubiertas de lo que parece ser aceite, con una calidad marmórea o prismática en su aspecto. Son capaces de confundirse con las sombras. Además, pueden cambiar de tamaño, pero no de forma.
 
 ## Spren corruptos
   Bocetos de dolorspren y vergüenzaspren corruptos
 La Deshecha [[Sja-anat\|Sja-anat]] tiene la capacidad de corromper spren, a lo que ella llama Iluminar. En el pasado, solo podía corromper spren menores, pero en la actualidad incluso los spren Radiantes y los spren de la [[Puerta Jurada\|Puerta Jurada]] pueden ser Iluminados por ella. Estos spren corrompidos son atraídos por los mismos fenómenos, pero tienen una apariencia diferente a la de los spren típicos. [[Syl\|Syl]] cree que los spren corruptos pueden reconocerse por su color rojo intenso, aunque no todos los spren se ajustan a esta descripción.
 En general, los spren corruptos parecen más doloridos, retorcidos y más intensos: el fuego es azul en lugar de rojo, las serpentinas se convierten en látigos, los bordes se vuelven más afilados y dentados.
 
-**Furiaspren**: en lugar de charcos de sangre, parecen charcos burbujeantes de alquitrán. Al estallar, las burbujas arden en rojo, como brasas.
-**Expectaspren**: en lugar de las típicas serpentinas planas, tienen largos y finos zarcillos que parecen látigos o tentáculos.
-**Asombrospren**: los asombrospren corruptos aparecen como bocanadas negras de hollín.
 **Agotaspren**: son de color rojo brillante en lugar de su típico color marrón, y están distorsionados, pareciendo más bien pequeños torbellinos rojos.
-**Llamaspren**: son de color azul intenso en lugar del rojo y el naranja tradicionales. Parecen más dentados que sus homólogos no alterados.
-**Glorispren**: adoptan la forma de un cubo en lugar de un globo. En [[Shadesmar\|Shadesmar]], se describen como de color blanco hueso y marrón, con alas que se extienden a los lados, largas trenzas como cola y cubos dorados como cabezas.
-**Spren de la Puerta Jurada**: los spren corruptos de la [[Puerta Jurada\|Puerta Jurada]] de Kholinar se describen como versiones alargadas de personas, de nueve metros de altura, que flotan en el aire. Uno es negro como el carbón y el otro es rojo.
+**Asombrospren**: los asombrospren corruptos aparecen como bocanadas negras de hollín.
+**[[Brumaspren\|Brumaspren]]**: en lugar de parecer una luz reflejada, Glys aparece como una estructura cristalina que gotea un resplandor rojo hacia arriba. Aunque la [[Potenciaci%C3%B3n\|Potencia]] de Progresión que otorga parece permanecer inalterada, [[Renarin\|Renarin]] parece incapaz de utilizar la Iluminación y tiene visiones del futuro.
 **Dolorspren**: de color verde enfermizo en comparación con su naranja normal, así como deformados o distorsionados, y ya no se parecen a las manos humanas.
+**Expectaspren**: en lugar de las típicas serpentinas planas, tienen largos y finos zarcillos que parecen látigos o tentáculos.
+**Furiaspren**: en lugar de charcos de sangre, parecen charcos burbujeantes de alquitrán. Al estallar, las burbujas arden en rojo, como brasas.
+**Glorispren**: adoptan la forma de un cubo en lugar de un globo. En [[Shadesmar\|Shadesmar]], se describen como de color blanco hueso y marrón, con alas que se extienden a los lados, largas trenzas como cola y cubos dorados como cabezas.
+**Llamaspren**: son de color azul intenso en lugar del rojo y el naranja tradicionales. Parecen más dentados que sus homólogos no alterados.
+**Spren de la Puerta Jurada**: los spren corruptos de la [[Puerta Jurada\|Puerta Jurada]] de Kholinar se describen como versiones alargadas de personas, de nueve metros de altura, que flotan en el aire. Uno es negro como el carbón y el otro es rojo.
 **Vergüenzaspren**: parecen trozos de vidrio roto en lugar de pétalos.
 **Vientospren**: los vientospren corrompidos tienen un aspecto diferente, siendo difíciles de ver al ser transparentes, y también rastrean la luz roja.
-**[[Brumaspren\|Brumaspren]]**: en lugar de parecer una luz reflejada, Glys aparece como una estructura cristalina que gotea un resplandor rojo hacia arriba. Aunque la [[Potenciaci%C3%B3n\|Potencia]] de Progresión que otorga parece permanecer inalterada, [[Renarin\|Renarin]] parece incapaz de utilizar la Iluminación y tiene visiones del futuro.
 ## Spren únicos conocidos
 Los spren únicos son aquellos de los que solamente existe uno de su tipo, o que son extremadamente raros y poderosos. La mayoría de ellos parecen haber sido creados, o al menos fuertemente afectados, por la influencia directa de las [[Esquirla\|Esquirlas]]. Entre ellos se encuentran:
 
@@ -672,10 +673,10 @@ También conocido como Cusicesh el Protector, es uno de los mayores spren conoci
 Los habitantes de Kasitor veneran a Cusicesh y no solo fijan sus relojes en función de su llegada, sino que han construido pedestales de oro en los lugares donde se posan los pies de Cusicesh. Sin embargo, las personas que se encuentran cerca de Cusicesh cuando éste aparece, a menudo informan de una sensación de fatiga después de que se desvanezca, que puede o no deberse a la expectación.
 Cusicesh no es tan poderoso como un spren de Forjador de Vínculos.
 
-### La Vigilante Nocturna
-Para más información, ver [[Vigilante Nocturna\|Vigilante Nocturna]].
-La Vigilante Nocturna es una [[Astilla\|Astilla]] de [[Cultivaci%C3%B3n\|Cultivación]], y ha sido criada por ella como si fuera una niña. Tiene su corte en una región fértil y llena de vegetación conocida como el [[Valle\|Valle]] de la Vigilante Nocturna, ligeramente al sur de Urithiru, en las montañas de la [[Gran Hexi\|Gran Hexi]]. Cualquier visitante puede pedir allí una bendición, y ella puede otorgar algo que se esfuerce por cumplir esa bendición. Sin embargo, cada bendición también está asociada a una maldición, que no es necesariamente coincidente. Las bendiciones pueden ir desde alteraciones mentales, como el renombre o la habilidad, o regalos físicos, como la riqueza o los objetos mágicos. No obstante, la Vigilante Nocturna tiene algunos problemas para entender peticiones más abstractas, como el perdón o la inalterabilidad. Por esta razón, Cultivación la vigila de cerca, interviniendo si es necesario. Además ella es una de los tres spren de los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]].
-El sistema de bendiciones y maldiciones es conocido por los rosharianos como [[Antigua Magia\|Antigua Magia]].
+### El Hermano
+Para más información, ver [[El Hermano\|El Hermano]].
+El Hermano es uno de los tres spren Forjadores de Vínculos y habita y potencia la ciudad-torre de [[Urithiru\|Urithiru]]. Ha fingido estar inactivo desde la [[D%C3%ADa de la Traici%C3%B3n\|Traición]], después de un prolongado declive que hizo que muchos de los sistemas de soporte vital de la torre fallaran, obligando finalmente a los [[Caballeros Radiantes\|Caballeros Radiantes]] a abandonar la ciudad. El Padre Tormenta afirma que la retirada del Hermano está ligada a que la humanidad, de alguna forma, le hizo daño en el pasado.
+A diferencia de la mayoría de los spren verdaderos conocidos, el Hermano no se veía a sí mismo como masculino o femenino, y de hecho encontraba extraña la adhesión de los spren a las normas de género de las criaturas físicas.
 
 ### El Padre Tormenta
   El Padre Tormenta
@@ -683,10 +684,10 @@ Para más información, ver [[Padre Tormenta\|Padre Tormenta]].
 El Padre Tormenta es una de las entidades más antiguas de Roshar, habiendo existido de alguna forma antes de la [[Fragmentaci%C3%B3n\|Fragmentación]]. Es la manifestación cognitiva de la impresión de la gente sobre una [[Alta tormenta\|alta tormenta]]. Existe principalmente en el Reino Físico, con solo una presencia menor en Shadesmar. Controla las altas tormentas que rodean el planeta, con la capacidad de elegir cuándo enviar una. Aunque normalmente acompaña a las tormentas, su nivel de poder le permite ser mucho más omnipresente. Es uno de los tres spren [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], que otorgan las [[Potencia\|Potencias]] de [[Adhesi%C3%B3n\|Adhesión]] y [[Tensi%C3%B3n\|Tensión]].
 Para los [[Cantor\|cantores]], el Padre Tormenta es conocido como el Jinete de las Tormentas. En algún momento ha cambiado hacia el bando de los humanos, lo que ha hecho que los [[Oyente\|oyentes]] se sientan traicionados por él. También fue cambiado por [[Honor\|Honor]] poco antes de la muerte de éste, proporcionándole más conciencia y fusionándolo en parte con la [[Sombra cognitiva\|sombra cognitiva]] de [[Tanavast\|Tanavast]]. La capacidad de [[Dalinar Kholin\|Dalinar]] de abrir la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] podría tener algo que ver con ello.
 
-### El Hermano
-Para más información, ver [[El Hermano\|El Hermano]].
-El Hermano es uno de los tres spren Forjadores de Vínculos y habita y potencia la ciudad-torre de [[Urithiru\|Urithiru]]. Ha fingido estar inactivo desde la [[D%C3%ADa de la Traici%C3%B3n\|Traición]], después de un prolongado declive que hizo que muchos de los sistemas de soporte vital de la torre fallaran, obligando finalmente a los [[Caballeros Radiantes\|Caballeros Radiantes]] a abandonar la ciudad. El Padre Tormenta afirma que la retirada del Hermano está ligada a que la humanidad, de alguna forma, le hizo daño en el pasado.
-A diferencia de la mayoría de los spren verdaderos conocidos, el Hermano no se veía a sí mismo como masculino o femenino, y de hecho encontraba extraña la adhesión de los spren a las normas de género de las criaturas físicas.
+### La Vigilante Nocturna
+Para más información, ver [[Vigilante Nocturna\|Vigilante Nocturna]].
+La Vigilante Nocturna es una [[Astilla\|Astilla]] de [[Cultivaci%C3%B3n\|Cultivación]], y ha sido criada por ella como si fuera una niña. Tiene su corte en una región fértil y llena de vegetación conocida como el [[Valle\|Valle]] de la Vigilante Nocturna, ligeramente al sur de Urithiru, en las montañas de la [[Gran Hexi\|Gran Hexi]]. Cualquier visitante puede pedir allí una bendición, y ella puede otorgar algo que se esfuerce por cumplir esa bendición. Sin embargo, cada bendición también está asociada a una maldición, que no es necesariamente coincidente. Las bendiciones pueden ir desde alteraciones mentales, como el renombre o la habilidad, o regalos físicos, como la riqueza o los objetos mágicos. No obstante, la Vigilante Nocturna tiene algunos problemas para entender peticiones más abstractas, como el perdón o la inalterabilidad. Por esta razón, Cultivación la vigila de cerca, interviniendo si es necesario. Además ella es una de los tres spren de los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]].
+El sistema de bendiciones y maldiciones es conocido por los rosharianos como [[Antigua Magia\|Antigua Magia]].
 
 ### Los Deshechos
 Para más información, ver [[Deshecho\|Deshecho]].

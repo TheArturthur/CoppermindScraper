@@ -16,7 +16,7 @@
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*I am that which brings Light and Darkness.*”
-\-The Stormfather explaining his role to Dalinar.[8]
+\-The Stormfather explaining his role to Dalinar.[9]
 
 El **Padre Tormenta** es un [[Spren\|spren]] poderoso y único en [[Roshar\|Roshar]], responsable de las [[Alta tormenta\|altas tormentas]]. Es uno de los tres spres [[Forjador de V%C3%ADnculos\|Forjadores de Vínculos]], y está actualmente vinculado con [[Dalinar Kholin\|Dalinar Kholin]]. Para los [[Oyente\|oyentes]], es conocido como el **Jinete de las Tormentas**.
 
@@ -65,7 +65,7 @@ Para más imágenes, ver [[Padre Tormenta/Galer%C3%ADa\|/Galería]].
 La vasta mayoría del tiempo, el Padre Tormenta es simplemente una presencia incorpórea en los cielos, o una abrumadora voz proveniente del cielo mismo. En las ocasiones en las que se muestra a sí mismo, toma la forma de una enorme, imperiosa cara hecha de nubes, que parece alargarse de horizonte a horizonte hasta el infinito.
 
 >“*Of course, if the Stormfather was listening, he'd correct Dalinar’s mistakes. The Stormfather hated to be misquoted.*”
-\-Dalinar on the Stormfather[7]
+\-Dalinar on the Stormfather[8]
 
 Es extremadamente orgulloso y altivo, convencido de su propio poder y justicia. No le importa la humanidad, solo les sirve y manda [[Visiones\|visiones]] porque fue encargado para hacerlo por Honor. Está particularmente centrado en los juramentos y en mantenerlos, y no es amable con los que los rompen. Sin embargo, su sentido de justicia no significa que demande que los hombres sigan lo que es **correcto**; para él, un genocidio no es una acción malvada si se lleva a cabo como castigo por romper un juramento.
 Es a menudo incapaz de entender las emociones humanas y sus pensamientos, y encuentra su naturaleza inestable indigna de confianza. A lo largo del tiempo, cuando se vincula con un humano, empieza a ganar un sentido de empatía y entendimiento de la gente. También comienza a ganar un sentido de moralidad, entendiendo el daño que sus acciones han causado a la gente. No obstante, esto no significa que se haga mucho más amable o apacible, ya que sigue creyendo que las tormentas son su dominio y suyo solo, y no le importa matar a aquellos que se atrevan a desafiarle en eso, como los navegantes en mar abierto.
@@ -74,7 +74,7 @@ Es a menudo incapaz de entender las emociones humanas y sus pensamientos, y encu
 ### Naturaleza
  
 >“*I am a sliver of the Almighty himself!*”
-\-The Stormfather.[9]
+\-The Stormfather.[1]
 
 El Padre Tormenta es un [[Spren\|spren]], haciéndole naturalmente inmortal e intangible. A diferencia de la mayoría de spren, está sobre todo presente en el [[Reino F%C3%ADsico\|Reino Físico]] más que en [[Shadesmar\|Shadesmar]], y por ende no puede verlo, aunque sus altas tormentas le afecten. Es uno de los spren más poderosos en Roshar, con una inmensa cantidad de [[Investidura\|Investidura]], mayor incluso que la de los [[Deshechos\|Deshechos]], aunque él esté mucho más restringido que ellos en lo que puede hacer con ella.
 Se ha unido con la [[Sombra cognitiva\|sombra cognitiva]] de [[Tanavast\|Tanavast]], haciéndole algo parecido a una [[Lasca\|Lasca]] a la vez que siendo una [[Astilla\|Astilla]]. Se considera a sí mismo como una memoria que la humanidad creó del Todopoderoso, ahora que el propio dios ya no está. No está claro cuánto de Tanavast queda en él, ya que parece que comparte algunas de sus memorias y opiniones, particularmente en lo que respecta a [[Cultivaci%C3%B3n\|Cultivación]], pero su naturaleza distante no cuadra con lo que se ha visto de Tanavast.
@@ -99,7 +99,7 @@ Fuera de las visiones, el Padre Tormenta es capaz de comunicarse a través de su
   El Padre Tormenta y los spren <<Caballeros Radiantes\|Radiantes>>
 ### Vínculo Nahel
 >“*I will not be a simple sword to you. I will not come as you call, and you will have to divest yourself of that... monstrosity that you carry. You will be a Radiant with no Shards.*”
-\-The Stormfather upon bonding Dalinar.[9]
+\-The Stormfather upon bonding Dalinar.[1]
 
 El Padre Tormenta es uno de los tres grandes spren [[Forjador de V%C3%ADnculos\|Forjadores de Vínculos]]. Formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con él garantiza el poder sobre las potenciaciones de [[Tensi%C3%B3n\|Tensión]] y [[Adhesi%C3%B3n\|Adhesión]]. Está actualmente vinculado con [[Dalinar Kholin\|Dalinar Kholin]].
 Mientras que un Forjador de Vínculos puede usar la Adhesión de la forma que un [[Corredor del Viento\|Corredor del Viento]] lo haría, también pueden aplicar sus poderes de diferente manera, usándolos más en lo [[Reino Espiritual\|Espiritual]]. Usando la Adhesión Espiritual, un Forjador de Vínculos puede formar una conexión entre ellos y otra persona, permitiéndoles hablar el mismo idioma. También parecen capaces de escuchar los aspectos espirituales de los objetos, y usar esto para reparar al completo cosas rotas. Los Forjadores de Vínculos también pueden invocar luz tormentosa a voluntad, aunque esto requiere un esfuerzo significativo. Debido a su conexión con las altas tormentas, su Forjador de Vínculos se siente más energético en los días con alta tormenta.
@@ -115,7 +115,7 @@ Hoy en día, muchos honorspren lo tratan como un honrado antepasado y obedecen s
 \-About his origins[13]
 
 El Padre Tormenta es probablemente una de las entidades más antiguas del [[Cosmere\|Cosmere]], ya que las [[Alta tormenta\|altas tormentas]] que manda preceden incluso a la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Durante los milenios tempranos de su existencia, no era particularmente competente ni consciente de sí mismo, simplemente siendo la indiferente tormenta. Incluso entonces, era capaz de vincularse con humanos.
-Poco antes de la [[Traici%C3%B3n\|Traición]], [[Honor\|Honor]] alteró al Padre Tormenta en una preparación frenética para su propia muerte. Entre otros cambios, le dio la capacidad de crear [[Honorspren\|honorspren]], igual que le otorgó una serie de visiones para mandar a la persona que se beneficiaría de ellas, en el caso de una nueva [[Desolaci%C3%B3n\|Desolación]]. Entonces, el Padre Tormenta tenía una inteligencia infantil, aunque creció a lo largo del tiempo. Cuando vino la Traición, en duelo por la pérdida de los honorspren, que creyó que incluía a [[Sylphrena\|Sylphrena]], rehusó de hacer nuevos por siglos. Finalmente, creó a diez, quienes crearon entonces a sus propios hijos, hasta que los honorspren volvieron a ser una nación.
+Poco antes de la [[Traici%C3%B3n\|Traición]],unos dos mil años antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], [[Honor\|Honor]] alteró al Padre Tormenta en una preparación frenética para su propia muerte. Entre otros cambios, le dio la capacidad de crear [[Honorspren\|honorspren]], igual que le otorgó una serie de visiones para mandar a la persona que se beneficiaría de ellas, en el caso de una nueva [[Desolaci%C3%B3n\|Desolación]]. Entonces, el Padre Tormenta tenía una inteligencia infantil, aunque creció a lo largo del tiempo. Cuando vino la Traición, en duelo por la pérdida de los honorspren, que creyó que incluía a [[Sylphrena\|Sylphrena]], rehusó de hacer nuevos por siglos. Finalmente, creó a diez, quienes crearon entonces a sus propios hijos, hasta que los honorspren volvieron a ser una nación.
 
   Vinculándose con <<Dalinar\|Dalinar>>
 ### Visiones y vínculos
@@ -123,7 +123,7 @@ En algún momento poco antes de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desola
 En esos momentos, el Padre Tormenta comenzó a enviar sus visiones. Aunque hubo menos de diez personas que las recibieron, las únicas conocidas son [[Gavilar\|Gavilar]] y [[Dalinar Kholin\|Dalinar Kholin]]. Gavilar comenzó a verlas poco antes de su muerte, aunque las interpretó muy diferente de lo que se suponía que eran. Esto llevó indirectamente a la creación del [[Diagrama (literatura)\|Diagrama]], al igual que su cooperación con los [[Hijos de Honor\|Hijos de Honor]] en un intento de traer de vuelta a los [[Heraldo\|Heraldos]], aunque eso significase empezar una nueva Desolación.
 Siguiendo la muerte de Gavilar, el Padre Tormenta comenzó a mandar sus visiones al hermano pequeño. Esto llevó a la caída en picado de la reputación de Dalinar en los campamentos de guerra, pero también a que empezase a buscar información sobre las Desolaciones y a hacer el primer intento de verdaderamente unificar Alezkar. Al mismo tiempo, ya que [[Kaladin\|Kaladin]] se estaba vinculando con Syl, el Padre Tormenta lo estaba vigilando. Cuando Kaladin estaba colgado enfrentándose a su juicio por orden de [[Torol Sadeas\|Sadeas]], el Padre Tormenta apareció, como si le observase, aunque Kaladin asumió más tarde que era una alucinación delirante.
 El Padre Tormenta más adelante visitó a Kaladin directamente en un sueño, donde los dos tuvieron una conversación. Acusó a Kaladin de ser un traidor, y compartió su creencia de que no se puede confiar en los humanos. Sus predicciones aparentemente se cumplieron cuando Kaladin mató a Syl rompiendo su vínculo. El Padre Tormenta lo visitó en una alta tormenta subsecuente para decirle que ella estaba muerta y que Kaladin nunca volvería a [[Potenciar\|Potenciar]]. Aunque dejara que [[Shallan\|Shallan]] también le viese, no habló con ella.
-Durante la [[Batalla de Narak\|batalla de Narak]], el Padre Tormenta habló con Dalinar fuera de una visión, proclamando que los Alezi estaban perdidos, y prometiendo mandar una alta tormenta para llevarse sus cuerpos. Al mismo tiempo, Syl comenzó a recuperar su consciencia, así que el Padre Tormenta se marchó para detenerla de volver a vincularse con Kaladin. A pesar de sus mejores esfuerzos, Syl tuvo éxito, y el Padre Tormenta de mala gana le permitió restaurar su vínculo.
+Durante la [[Batalla de Narak\|batalla de Narak]], el Padre Tormenta habló con Dalinar fuera de una visión, proclamando que los Alezi estaban perdidos, y prometiendo mandar una alta tormenta para llevarse sus cuerpos. Al mismo tiempo, Syl comenzó a recuperar su consciencia, así que el Padre Tormenta se marchó para detenerla de volver a vincularse con Kaladin. A pesar de sus mejores esfuerzos, Syl tuvo éxito, y el Padre Tormenta de mala gana le permitió restaurar su vínculo. Tras el choque de la alta tormenta con la tormenta eterna, se llevó a la sombra cognitiva de [[Eshonai\|Eshonai]] y le mostró el mundo mientras la tormenta cruzaba el continente antes de dejarla marcharse al [[M%C3%A1s All%C3%A1\|Más Allá]].
 Tras la batalla, Dalinar subió a la cima de [[Urithiru\|Urithiru]] para hablar con él. El Padre Tormenta contestó, explicando la [[Tormenta eterna\|Tormenta eterna]] y la muerte de Honor, después de lo cual Dalinar intentó vincularse con él. Aunque inicialmente el Padre Tormenta fue hostil con la idea, finalmente cedió una vez Dalinar pronunció las [[Palabras Inmortales\|Palabras Inmortales]], aunque bajo la estipulación de que Dalinar no empuñase [[Hoja esquirlada\|hojas esquirladas]].
 
 ### Spren Forjador de Vínculos
@@ -180,7 +180,7 @@ Mientras que no tiene elección en obedecer los deseos de [[Honor\|Honor]], el P
   Kaladin viendo al Padre Tormenta por la primera vez
 ### Kaladin
 >“*Just listen to the piece of nature incarnate, okay?*”
-\-Syl to Kaladin about her father.[6]
+\-Syl to Kaladin about her father.[7]
 
 
 El Padre Tormenta tiene sentimientos encontrados con respecto a [[Kaladin\|Kaladin]]. Por una parte, está furioso con él por vincularse con Syl, y le culpa de todo lo malo que le pasa, asumiendo inmediatamente que la mataría. Eventualmente, llega a respetarle un poco, aunque el respeto es a regañadientes. Kaladin a veces cabalga sus tormentas en sueños, aunque esto parece más bien accidental. Él es la única persona a la que el Padre Tormenta se refiere como "hijo de Tanavast", por una razón específica, pero desconocida.

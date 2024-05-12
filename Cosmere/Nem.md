@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nem**|
 |-|-|
 |**Fallecido**|Vev 1175|
@@ -5,17 +8,17 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
-**Nem** is an [[Artifabrian\|artifabrian]] on [[Roshar\|Roshar]].
+**Nem** es una [[Artifabriano\|artifabriana]] en [[Roshar\|Roshar]].
 
-## Attributes and Abilities
-Nem is a lensmaker, astronomer and gemstone expert. She is one of Queen [[Navani Kholin\|Navani Kholin]]'s trusted scholars and handles expensive and delicate equipment. She has extensive knowledge about [[Gemheart\|gemhearts]] and gemstones and is able to estimate a gem's level of perfection.
+## Atributos y habilidades
+Nem es fabricante de lentes, astrónoma y experta en gemas. Es una de las eruditas de confianza de la reina [[Navani Kholin\|Navani Kholin]] y maneja equipos caros y delicados. Posee amplios conocimientos sobre [[Gema coraz%C3%B3n\|gemas corazón]] y gemas y es capaz de estimar el nivel de perfección de una gema.
 
-## History
-Nem was a member of [[Navani\|Navani]]'s team of scholars. She examined the black sphere that King [[Gavilar\|Gavilar]] gave to [[Szeth\|Szeth]]. She concluded that the sphere was practically perfect and could hold [[Stormlight\|Stormlight]] for a very long time. Navani asked her and [[Talnah\|Talnah]] to study the black sphere, including trying to use it to power different fabrials. Both of them died in an explosion caused by the sphere while they were experimenting with it in their shared laboratory.
+## Historia
+Nem era miembro del equipo de eruditas de [[Navani\|Navani]]. Examinó la esfera negra que el rey [[Gavilar\|Gavilar]] entregó a [[Szeth\|Szeth]]. Llegó a la conclusión de que la esfera era prácticamente perfecta y podía contener [[Luz tormentosa\|luz tormentosa]] durante mucho tiempo. Navani les pidió a ella y a [[Talnah\|Talnah]] que estudiasen la esfera negra, incluso que intentasen utilizarla para alimentar diferentes fabriales. Ambas murieron en una explosión provocada por la esfera mientras experimentaban con ella en el laboratorio que compartían.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Taln Fan (talk) 08:15, 29 May 2022 (UTC)
