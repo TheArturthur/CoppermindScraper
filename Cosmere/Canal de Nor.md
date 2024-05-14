@@ -1,11 +1,14 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Canal de Nor**|
 |-|-|
 |**Región**|[[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Nor Channel** is a location in the [[Sea of Lost Lights\|Sea of Lost Lights]]. It is north of [[Emberdark\|Emberdark]].
-In the [[Physical Realm\|Physical Realm]], the Nor Channel appears to lie on a river that [[Rashir\|Rashir]] lies on.
+El **Canal de Nor** es un lugar en el [[Mar de las Luces Perdidas\|mar de las Luces Perdidas]]. Se encuentra al norte de [[Acuaoscura\|Acuaoscura]].
+En el [[Reino F%C3%ADsico\|Reino Físico]], el Canal de Nor parece estar sobre un río en el que se encuentra [[Rashir\|Rashir]].
 
 ## Notes
 

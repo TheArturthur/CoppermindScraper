@@ -1,15 +1,19 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Neshan**|
 |-|-|
-|**Fallecido**|Vev 1175, [[Singer\|singer]] invasion of [[Urithiru\|Urithiru]]|
+|**Fallecido**|Vev 1175, invasión de [[Urithiru\|Urithiru]] por los [[Cantor\|cantores]]|
 |**Oficio**|[[Artifabriano\|Artifabriano]]|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Neshan** is a scholar and [[Artifabrian\|artifabrian]] on [[Roshar\|Roshar]].
-They worked in [[Urithiru\|Urithiru]] under [[Navani Kholin\|Navani Kholin]]'s direction, and were in the room containing the [[Sibling\|Sibling]]'s pillar when [[Raboniel\|Raboniel]]'s forces invaded the tower. Neshan and both of their wards were killed in the fighting, to Navani's dismay.
+**Neshan** es un/a erudito/a y [[Artifabriano\|artifabriano/a]] de [[Roshar\|Roshar]].
+Trabajó en [[Urithiru\|Urithiru]] a las órdenes de [[Navani Kholin\|Navani Kholin]], y estuvo en la sala del pilar del [[El Hermano\|Hermano]] cuando las fuerzas de [[Rabeniel\|Rabeniel]] invaden la torre. Neshan y sus dos pupilas mueren en la batalla, lo que causa aflicción a Navani.
 
-## Notes
+
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 20:06, 11 February 2021 (UTC)

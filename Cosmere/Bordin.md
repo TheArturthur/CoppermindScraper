@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*De hecho, se me está ocurriendo una cosa ahora mismo. Puede que te necesite, Bordin.*”
 \-Dalinar tramando un plan para atrapar a Amaram[2]

@@ -8,6 +8,7 @@
 |**Apodos**|Battah, Dova|
 |**Grupo**|[[Diagrama (grupo)\|Diagrama]]🐱︎|
 |**Mundo natal**|[[Ashyn\|Ashyn]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
 >“*Dulce sabiduría de Battar.*”
 \-Un dicho de Roshar.[1]

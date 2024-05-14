@@ -3,13 +3,14 @@
 |**Oficio**|Marinero|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
-The **"new kid"** is an unidentified sailor who joined the crew of the *[[Wind's Pleasure\|Wind's Pleasure]]* in Tanat 1173 when it stopped in [[Amydlatn\|Amydlatn]] in eastern [[Roshar\|Roshar]]. He was hired by Captain [[Tozbek\|Tozbek]] as an extra deckhand to make sure the ship was not undermanned on the trip to [[New Natanan\|New Natanan]].
-He is six feet tall with a blunt face and a hulking frame, and he is extremely strong. [[Yalb\|Yalb]] calls him "new kid" even though he is at least five years Yalb's senior. Yalb tries to engage with him, telling him that the rest of the crew will like him if he does his dishwashing duties. However, he does not speak much, and Yalb thinks he is simpleminded.
-He was presumably hired by [[Tyn\|Tyn]] and the [[Ghostbloods\|Ghostbloods]] and planted on the ship. He participated in the mutiny against Tozbek, including the execution of several crew members and the attempted assassination of [[Jasnah Kholin\|Jasnah Kholin]]. [[Shallan\|Shallan]] evaded him and some other thugs using [[/wiki/Surgebinding#Illumination]]. It is unclear if he survived the burning and sinking of the *Wind's Pleasure*.
+El **«novato»** es un marinero no identificado que se unió a la tripulación del *[[Placer del Viento\|Placer del Viento]]* en Tanat 1173 cuando se detuvo en [[Amydlatn\|Amydlatn]] en el este de [[Roshar\|Roshar]]. Fue contratado por el capitán [[Tozbek\|Tozbek]] como marinero de cubierta auxiliar para asegurarse de que el barco no se quedaba sin tripulación en el viaje a [[Nueva Natanan\|Nueva Natanan]].
+Mide 1,80 metros, tiene la cara desencajada, un cuerpo corpulento y es extremadamente fuerte. [[Yalb\|Yalb]] lo llama «novato» a pesar de que es al menos cinco años mayor que Yalb. Yalb intenta dialogar con él y le dice que caerá bien al resto de la tripulación si se dedica a lavar los platos. Sin embargo, no habla mucho y Yalb piensa que es un simplón.
+Presumiblemente fue contratado por [[Tyn\|Tyn]] y los [[Sangre Espectral\|Sangre Espectral]] quienes lo emplazaron en la nave. Participó en el motín contra Tozbek, incluida la ejecución de varios miembros de la tripulación y el intento de asesinato de [[Jasnah Kholin\|Jasnah Kholin]]. [[Shallan\|Shallan]] lo evadió a él y a otros matones usando [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]]. No está claro si sobrevivió al incendio y hundimiento del *Placer del Viento*.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 18:27, 24 March 2023 (UTC)

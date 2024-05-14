@@ -1,4 +1,6 @@
 **Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Bilg**|
 |-|-|
 |**Fallecido**|1025 [[Imperio Final\|IF]]|
@@ -6,6 +8,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Blig** es un [[Skaa\|skaa]] de [[Scadrial\|Scadrial]] y un miembro disidente de tanto el ejército de [[Yeden\|Yeden]] como el de [[Elend\|Elend]].
 

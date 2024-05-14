@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 **Blaze** es una piloto exploradora de la [[FDD\|FDD]]. Como tal pilota una nave [[Clase Val\|clase Val]].
 Es sensible al hecho de que algunas personas consideran que los exploradores son más cobardes que los pilotos de caza y ha lanzado miradas despectivas en el pasado.

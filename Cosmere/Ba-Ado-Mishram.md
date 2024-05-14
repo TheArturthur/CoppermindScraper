@@ -14,7 +14,6 @@
 
 
 **Ba-Ado-Mishram,** en ocasiones llamada sólo **Mishram**, es una de los [[Deshecho\|Deshechos]], un terrible y anciano [[Spren\|spren]] de [[Odium\|Odium]] . Es una Deshecho inteligente y es astuta y conspiradora. Fue una de las principales instigadoras de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], lo que condujo a su encarcelamiento por parte de los [[Caballeros Radiantes\|Caballeros Radiantes]], esto convirtió a la mayoría de los [[Cantor\|cantores]] en la forma esclava, y afectó a todos los spren de [[Roshar\|Roshar]].
-Es única entre los Deshechos por tener dos guiones en su nombre, mientras que los otros tienen uno o ninguno.
 
 ## Sumario
 
@@ -35,7 +34,8 @@ Es única entre los Deshechos por tener dos guiones en su nombre, mientras que l
 4. [[#Otros]] 
 
 
-5 Notas. [[#Notas]] 
+5 Curiosidades. [[#Curiosidades]] 
+6 Notas. [[#Notas]] 
 
 
 ## Conocimientos y mitología
@@ -64,7 +64,7 @@ Tras la Última Desolación, Ba-Ado-Mishram continúa viviendo en Roshar. Poco s
 >“*Ba-Ado-Mishram ha Conectado de algún modo con el pueblo parsh, como hizo en su momento [[Odium\|Odium]]. Les proporciona [[Luz del vac%C3%ADo\|luz del vacío]] e incita sus formas de poder. Nuestro equipo de asalto va a apresarla.*”
 \-Del cajón 30-20, cuarta esmeralda.[5]
 
-Aproximadamente 2.500 años después del Aharietiam, Ba-Ado-Mishram [[Conexi%C3%B3n\|Conectó]] con la vasta mayoría de [[Cantor\|cantores]] de Roshar, todos excepto los [[Oyente\|oyentes]]. Les proporcionó formas de poder (convirtiendoles en [[Regio\|Regios]]) y les suministró [[Luz del vac%C3%ADo\|luz del vacío]]. Esto inició una nueva guerra y una clase diferente de Desolación, una sin los Fusionados. Los eruditos la llamarían más tarde la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]]. Se desconocen los motivos de Ba-Ado-Mishram para iniciar esta guerra, ni está claro si actuaba bajo los deseos de Odium.
+Aproximadamente 2500 años después del Aharietiam, Ba-Ado-Mishram [[Conexi%C3%B3n\|Conectó]] con la vasta mayoría de [[Cantor\|cantores]] de Roshar, todos excepto los [[Oyente\|oyentes]]. Les proporcionó formas de poder (convirtiendoles en [[Regio\|Regios]]) y les suministró [[Luz del vac%C3%ADo\|luz del vacío]]. Esto inició una nueva guerra y una clase diferente de Desolación, una sin los Fusionados. Los eruditos la llamarían más tarde la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]]. Se desconocen los motivos de Ba-Ado-Mishram para iniciar esta guerra, ni está claro si actuaba bajo los deseos de Odium.
 Los [[Caballeros Radiantes\|Caballeros Radiantes]] de la época sentían que los cantores de la época luchaban con fervor, y no sabían cómo estaban Conectados con Ba-Ado Mishram. La lucha fue particularmente intensa en este periodo. En algún punto, los cantores presionaron hacia la [[Fortaleza de la Fiebre de Piedra\|Fortaleza de la Fiebre de Piedra]], aunque los Radiantes no entendían porque esa área les interesaba tanto a los cantores (o a Ba-Ado-Mishram). Algunas especulaciones decían que era parte de un plan para capturar la ciudad de [[Rall Elorim\|Rall Elorim]].
 Los Radiantes buscaron una ventaja en la batalla contra los cantores, y formaron una coalición de Radiantes eruditos con el objetivo de impedir el acceso a la luz del vacío a los cantores. Tenían la teoría de que un Deshecho podía ser capturado como un spren normal, pero que requerirían una prisión especial, como una [[Gema perfecta\|gema perfecta]] y a [[Melishi\|Melishi]], el [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] de esa generación. Así, los Radiantes formaron un equipo de ataque para encarcelar a Ba-Ado-Mishram. Melishi confiaba en el plan, pero otros radiantes no estaban seguros de los efectos que tendría en los cantores. Aún así, esperaban que esto finalmente los condujera al final de la guerra con los cantores.
 Los [[Heraldo\|Heraldos]] [[Nale\|Nale]] y [[Kalak\|Kalak]], y posiblemente algún otro, estuvieron presentes en el encarcelamiento de Ba-Ado-Mishram, aunque su rol en esto es desconocido. Finalmente, el equipo de ataque tuvo éxito y Ba-Ado-Mishram fue capturada.
@@ -86,7 +86,7 @@ El encarcelamiento de Ba-Ado-Mishram hizo que los Fusionados se dieran cuenta de
 
 ### Auténtica Desolación
 >“*¿Para qué quieres la gema que retiene a Ba-Ado-Mishram, Mraize? ¿Qué pretendes hacer con ella? ¿Qué poder perseguís los Sangre Espectral con un ente que puede atar las mentes de un pueblo entero?*”
-\-Shallan confrontando a Mraize.[29]
+\-Shallan confrontando a Mraize.[30]
 
 
 En 1175, durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], la localización de la gema prisión de Ba-Ado-Mishram continuaba siendo desconocida, pero los [[Sangre Espectral\|Sangre Espectral]] la estaban buscando. El diario de [[Ialai Sadeas\|Ialai Sadeas]], que [[Shallan\|Shallan]] adquiere en la muerte de esta, describe que los Sangre Espectral estaban “obsesionados” con Ba-Ado-Mishram. Shallan sospecha que [[Mraize\|Mraize]] cree que Ba-Ado-Mishram podría estar en [[Urithiru\|Urithiru]], pero se da cuenta de que esto podría ser erróneo, porque de ser cierto, [[Re-Shephir\|Re-Shephir]] la habría liberado. Shallan se pregunta si, ya que Mraize desea transportar [[Luz tormentosa\|luz tormentosa]] fuera de Roshar, Ba-Ado-Mishram podría ser usada para este propósito.
@@ -113,6 +113,8 @@ Otra Deshecho, [[Sja-anat\|Sja-anat]], no creía ser el Deshecho más inteligent
 No está clara qué relación tenía con los [[Fusionado\|Fusionados]]. Aunque Hessi piensa que Ba-Ado-Mishram fue su comandante durante las Desolaciones, no se sabe si los Deshechos daban órdenes a los Fusionados directamente.
 Su relación con Odium es desconocida. Podría o no haber comenzado la Falsa Desolación por orden de Odium.
 
+## Curiosidades
+Es única entre los Deshechos por tener dos guiones en su nombre, mientras que los otros tienen uno o ninguno.
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.

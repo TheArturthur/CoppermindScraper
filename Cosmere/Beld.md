@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Beld** es uno de los miembros del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
 Beld sirve como miembro del Puente Cuatro bajo el mando del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Torol Sadeas\|Torol Sadeas]]. No es un esclavo, así que su estancia en las cuadrillas puede deberse a insubordinación. Probablemente haya participado en la [[Batalla de la Torre\|Batalla de la Torre]], aunque no se le menciona explícitamente. Después de esta batalla es liberado de su servicio a Sadeas, cuando el alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] cambia su [[Hoja esquirlada\|hoja esquirlada]], [[Juramentada\|Juramentada]], por la libertad de los hombres del puente.

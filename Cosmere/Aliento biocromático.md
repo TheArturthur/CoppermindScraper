@@ -7,8 +7,6 @@
 |**Mundo de origen**|[[Nalthis\|Nalthis]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 El **aliento biocromático**, también conocido simplemente como **aliento**, es la forma más común de Investidura en [[Nalthis\|Nalthis]].

@@ -19,7 +19,7 @@
 
 
 ## Geografía
-Aguanatal está localizada en Bavlandia, una región autónoma que está en la base de la cordillera que está técnicamente dentro de las fronteras suroccidentales de [[Jah Keved\|Jah Keved]]. Es la mayor ciudad en su área inmediata, aunque podría seguir siendo considerada un «lugar remoto». Fuera de la ciudad, hay llanuras donde los caballos salvajes corren libres. Los asentamientos cercanos incluyen el pequeño asentamiento de [[Staplind\|Staplind]]. La ciudad grande más cercana es [[Puntarrodilla\|Puntarrodilla]].
+Aguanatal está localizada en Bavlandia, una región autónoma que está en la base de la cordillera que está técnicamente dentro de las fronteras suroccidentales de [[Jah Keved\|Jah Keved]]. Es la mayor ciudad en su área inmediata, aunque podría seguir siendo considerada un «lugar remoto». Los asentamientos cercanos incluyen el pequeño asentamiento de [[Staplind\|Staplind]]. La ciudad grande más cercana es [[Puntarrodilla\|Puntarrodilla]].
 
 ## Puntos de interés
 La ciudad está bien protegida de las [[Alta tormenta\|altas tormentas]] por un gran acantilado al este que forma un [[Lait\|lait]] natural. El consistor local tiene una mansión de tres pisos bien protegida con jardines cultivados al este de la ciudad, aunque no reside allí.
@@ -29,7 +29,7 @@ En 1173, un criminal de la bahía llamado [[Makkek\|Makkek]] se hizo con la [[Pi
 
 ## Cultura
 Como parte de Jah Keved, Aguanatal es una región [[Vorin\|vorin]]. Sin embargo, algunos de los residentes son muy laxos en el seguimiento del tradicional decoro social vorin social; existe un prominente lugar de apuestas en la ciudad en el que el alcohol y el [[Musgoardiente\|musgoardiente]] son comunes. A pesar de estas irregularidades, algunos aspectos de la cultura vorin están presentes en los habitantes. No apuestan en juegos de azar en los que se consideraría «predecir el futuro». Aunque las mujeres en el garito de apuestas a menudo dejan su [[Mano segura\|mano segura]] expuesta, lo que se sigue viendo como un acto provocativo y soez.
-A pesar de la localización de la ciudad en un lait que está bien protegido de las altas tormentas, la arquitectura sigue aun así las tendencias culturales, con largos tejados planos que se inclinan levemente hacia el este. Inusualmente, algunos edificios de la ciudad están construidos con tierra y arcilla en lugar de piedra. La tierra es extremadamente rara en Roshar fuera de [[Shinovar\|Shinovar]], y no se conoce que existan edificios así en otro lugar al oeste del continente. Szeth se dio cuenta de los materiales des estos edificios durante su tiempo allí.
+A pesar de la localización de la ciudad en un lait que está bien protegido de las altas tormentas, la arquitectura sigue aun así las tendencias culturales, con largos tejados planos que se inclinan levemente hacia el este.
 
 ## Política
 Aguanatal es una ciudad industrial que es probablemente ignorada por el gobierno veden, Como el resto de Bavlandia. Aunque la parte este de la ciudad tiene un barrio más rico, la cioudad no es el tipo de lugar donde los [[Ojos claros\|ojos claros]] importantes eligen pasar el tiempo. Incluso el señor local parece querer mantenerse alejado, pues vive en la ciudad mayor de Puntarrodilla.

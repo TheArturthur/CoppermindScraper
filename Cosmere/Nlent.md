@@ -1,11 +1,15 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nlent**|
 |-|-|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
-**Nlent** is a squat [[Thaylen\|Thaylen]] guard on [[Vstim\|Vstim]]'s caravan. He and [[Kylrm\|Kylrm]] accompany [[Rysn\|Rysn]] when she goes onto [[Relu-na\|Relu-na]] to trade. When they come across [[Axies\|Axies]] on the way up, Nlent warns Rysn to stay away from him, showing some knowledge of the abilities of , though it is tainted by superstition. He carries a charm of courage on his wrist: a small item that has no magical properties but serves as a reminder to the wearer to show courage and passion.
+**Nlent** es un guardia [[Thayle%C3%B1o\|thayleño]] en la caravana de [[Vstim\|Vstim]]. Él y [[Kylrm\|Kylrm]] acompañan a [[Rysn\|Rysn]] cuando ella va a [[Relu-na\|Relu-na]] a comerciar. Cuando se cruzan con [[Axies\|Axies]] en la subida, Nlent le advierte a Rysn que se mantenga alejada de él, mostrando cierto conocimiento de las habilidades de los [[Aimiano\|aimianos]], aunque está contaminado por la superstición. Lleva un amuleto del valor en la muñeca: un pequeño objeto que no tiene propiedades mágicas, pero que sirve para recordar a su portador que debe mostrar valor y pasión.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

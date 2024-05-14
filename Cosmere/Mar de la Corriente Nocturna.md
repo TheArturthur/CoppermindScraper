@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mar de la Corriente Nocturna**|
 |-|-|
 ||
-|**Tipo**|Sea|
+|**Tipo**|Mar|
 |**Región**|[[Alezkar\|Alezkar]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Nightstream Sea** is a body of water in the northeast corner of the [[Roshar\|Rosharan]] continent. It separates [[Alethkar\|Alethkar]] and the [[Unclaimed Hills\|Unclaimed Hills]] from a small island chain. [[Hoel Bay\|Hoel Bay]] is an inlet of the Nightstream Sea.
+El **mar de la Corriente Nocturna** es una masa de agua situada en el extremo noreste del continente de [[Roshar\|Roshar]]. Separa [[Alezkar\|Alezkar]] y las [[Colinas Irreclamadas\|Colinas Irreclamadas]] de una pequeña cadena de islas. La [[Bah%C3%ADa de Hoel\|Bahía de Hoel]] es una ensenada del mar de la Corriente Nocturna.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Windrunner (talk) 14:51, 18 March 2016 (MDT)

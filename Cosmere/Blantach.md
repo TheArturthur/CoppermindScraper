@@ -6,11 +6,13 @@
 |**Residencia**|[[Bilming\|Bilming]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Herrumbrosos elendenses. Muy propio de ustedes, montar una operación en mi ciudad y ni siquiera avisar.*”
-\-La captain Blantach cuando se encontró Marasi en Bilming [1]
+\-La captain Blantach cuando se encontró Marasi en Bilming[1]
+
 
 **Blantach** es capitana en la comisaría de [[Bilming\|Bilming]] en [[Scadrial\|Scadrial]]. En el año 347 [[Catacendre\|PC]], conoció a [[Marasi Colms\|Marasi Colms]] en unas jornadas de entrenamiento interurbano. Un año más tarde, volvió a encontrarse con Marasi cuando esta estaba llevando a cabo una operación en Bilming.
 

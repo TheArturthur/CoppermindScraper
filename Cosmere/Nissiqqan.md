@@ -1,22 +1,26 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nissiqqan**|
 |-|-|
-|**Oficio**|Scribe|
+|**Oficio**|Escriba|
 |**Residencia**|[[Yeddaw\|Yeddaw]]|
 |**Nacionalidad**|[[De Tashikk\|de Tashikk]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
-**Nissiqqan** is a scribe in the city of [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] on [[Roshar\|Roshar]]. He is the deputy scribe of immigration on duty at [[Hauka\|Hauka]]'s post on the day that [[Lift\|Lift]] arrives at the city.
+**Nissiqqan** es un escriba en la ciudad de [[Yeddaw\|Yeddaw]] en [[Tashikk\|Tashikk]], [[Roshar\|Roshar]]. Es el escriba suplente de inmigración que está de guardia en el puesto de [[Hauka\|Hauka]] el día que [[Lift\|Lift]] llega a la ciudad.
 
-## Appearance and Personality
-He is an older man with a furrowed face and a cleft chin. He is seen wearing glasses and a yellow [[Shiqua\|shiqua]], and carries folders containing various forms and documents. He likes to be out in the sun. He is very knowledgeable regarding local taxes and ordinances, but is willing to overlook petty crimes if appropriate reparations are paid. He displays a measure of benevolence in his concern for refugees.
-He has some infused [[Spheres\|spheres]], which are rare in the area at the time; Hauka plans to trade him some interesting information for the spheres so that she can read at night.
+## Apariencia y personalidad
+Es un hombre mayor con la cara arrugada y la barbilla hendida. Se lo ve con gafas y una [[Shiqua\|shiqua]] amarilla, llevando carpetas con diversos formularios y documentos. Le gusta estar al sol. Es un gran conocedor de los impuestos y ordenanzas locales, pero está dispuesto a pasar por alto los delitos menores si se pagan las reparaciones oportunas. Muestra cierta benevolencia en su preocupación por los refugiados.
+Tiene algunas [[Esferas\|esferas]] infundidas, que son raras en la zona en ese momento; Hauka planea intercambiarle alguna información interesante por las esferas para poder leer por la noche.
 
-## History
-He and Hauka reviewed an unusually well-dressed farmer's papers, and concluded that he was actually smuggling in grain that was raided in [[Emul\|Emul]]. Nissiqqan suggested a triple tariff, with the money going to help feed refugees.
-Lift suddenly appeared; she brushed past him while evading Hauka, and he dropped his folders.
+## Historia
+Él y Hauka revisaron los papeles de un granjero inusualmente bien vestido, y llegaron a la conclusión de que en realidad estaba introduciendo grano de contrabando que fue asaltado en [[Emul\|Emul]]. Nissiqqan sugirió una tarifa triple, cuyo dinero se destinaría a ayudar a alimentar a los refugiados.
+Lift apareció de repente; pasó rozándole mientras esquivaba a Hauka, y él dejó caer sus carpetas.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 19:28, 26 January 2019 (MST)

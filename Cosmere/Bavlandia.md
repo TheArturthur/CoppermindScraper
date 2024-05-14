@@ -15,7 +15,8 @@
 
 
 2 Política y Cultura. [[#Pol.C3.ADtica y Cultura]] 
-3 Notas. [[#Notas]] 
+3 Curiosidades. [[#Curiosidades]] 
+4 Notas. [[#Notas]] 
 
 
 ## Geografía
@@ -33,6 +34,8 @@ Bavlandia es una región de Jah Keved que es normalmente ignorada. Incluso el [[
 A los habitantes de Bavlandia se les conoce como bavlandeses, aunque ellos se refieren a sí mismos como bav. Aunque son claramente [[Vorinismo\|vorin]], los bav tienen una cultura independiente de los veden, hasta el extremo de contar con un idioma propio con distintos dialectos. Una palabra del dialecto local de Camino de Hierro es *kurp*, un término que se refiere a “niño”.
 Los bav maldicen en nombre de “Madrepolvo” o [[Chemoarish\|Chemoarish]]. Sin embargo, como a Chemoarish muchas veces se confunde erróneamente con la [[Vigilante Nocturna\|Vigilante Nocturna]], no está del todo claro a quién se refieren.
 
+## Curiosidades
+La región tiene un área de unos 141.000 Km, alrededor del tamaño de Tayikistán.
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

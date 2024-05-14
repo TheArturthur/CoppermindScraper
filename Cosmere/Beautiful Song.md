@@ -3,7 +3,7 @@
 |-|-|
 |**[[Lunamor's family\|Lunamor's family]]**|
 |**Padres**|[[Lunamor\|Lunamor]], [[Tuaka\|Tuaka]]|
-|**Hermanos**|[[Don\|Don]],[[Cuerda\|Cuerda]], [[Roca (junior)\|Roca]], [[Estrella\|Estrella]], [[Kuma'tiki\|Kuma'tiki]]|
+|**Hermanos**|[[Don\|Don]], [[Cuerda\|Cuerda]], [[Roca (junior)\|Roca]], [[Estrella\|Estrella]], [[Kuma'tiki\|Kuma'tiki]]|
 |**Nacido en**|1170|
 |**Apodos**|Pequeña Canción|
 |**Residencia**|[[Picos Comecuernos\|Los Picos Comecuernos]]|

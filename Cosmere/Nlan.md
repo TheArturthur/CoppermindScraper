@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nlan**|
 |-|-|
 |**Oficio**|Marinero|
@@ -5,10 +8,10 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Nlan** is a [[Thaylen\|Thaylen]] sailor on [[Roshar\|Roshar]] employed as a cook on the *[[Wandersail (1174 ship)\|Wandersail]]*.
-He was one of three crewmembers that accepted [[Rysn\|Rysn]]'s offer to stay ashore during the [[Expedition to Akinah\|expedition to Akinah]]. [[Cord\|Cord]] replaced him as the ship's cook during the expedition.
+**Nlan** es un marinero [[Thayle%C3%B1o\|thayleño]] en [[Roshar\|Roshar]] empleado como cocinero en el *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*.
+Fue uno de los tres tripulantes que aceptaron la oferta de [[Rysn\|Rysn]] de quedarse en tierra durante la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]]. [[Cuerda\|Cuerda]] lo sustituyó como cocinera del barco durante la expedición.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 20:23, 26 July 2021 (UTC)
