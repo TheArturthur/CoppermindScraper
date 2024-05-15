@@ -1,38 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Niter**|
 |-|-|
-|**Fallecido**|[[Battle of the Tower\|Battle of the Tower]], 1173|
-|**Títulos**|Head of the [[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
+|**Fallecido**|[[Batalla de la Torre\|Batalla de la Torre]], 1173|
+|**Títulos**|Jefe de la Guardia de Cobalto|
 |**Oficio**|Soldado|
+|**Grupo**|[[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Niter** is the head of the [[Cobalt Guard\|Cobalt Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]].
+**Niter** es el jefe de la [[Guardia de Cobalto\|Guardia de Cobalto]] en [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 Attributes and Abilities. [[#Attributes and Abilities]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-Niter is a tan-skinned [[Lighteyes\|lighteyes]], and he wears a short black beard. He presumably wears the dark blue uniform of the Cobalt Guard. He is naturally suspicious, although [[Dalinar\|Dalinar]] notes that this is not a bad trait in a bodyguard. He is excited by the prospect of watching a [[Shardbearer\|Shardbearer]] in action. [[Zahel\|Zahel]] thought of him as a good man.
+## Apariencia y personalidad
+Niter es un [[Ojos claros\|ojos claros]] de piel morena y lleva una barba negra corta. Presumiblemente viste el uniforme azul oscuro de la Guardia de Cobalto. Es desconfiado por naturaleza, aunque [[Dalinar\|Dalinar]] señala que no es un mal rasgo en un guardaespaldas. Le entusiasma la perspectiva de ver a un [[Portador de esquirlada\|portador de esquirlada]] en acción. [[Zahel\|Zahel]] lo consideraba un buen hombre.
 
-## Attributes and Abilities
-Although Niter is lighteyed, he is of a low [[Dahn\|dahn]]. He served the Cobalt Guard for years, presumably working his way up to become their captain. He is personally acquainted with the leadership of [[House Kholin\|House Kholin]] on the [[Shattered Plains\|Shattered Plains]] including Dalinar and [[Adolin\|Adolin]], who hold him in high regard. He is also friends with Zahel and likely worked with him often due to the Cobalt Guard's training in swordsmanship.
+## Atributos y habilidades
+Aunque Niter tiene los ojos claros, es de un [[Dahn\|dahn]] bajo. Sirvió en la Guardia de Cobalto durante años, presumiblemente ascendiendo hasta convertirse en su capitán. Conoce personalmente a los líderes de la [[Casa Kholin\|casa Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]], incluidos Dalinar y [[Adolin\|Adolin]], que le tienen en gran estima. También es amigo de Zahel y es probable que trabajase con él a menudo debido al entrenamiento de la Guardia de Cobalto en el manejo de la espada.
 
-## History
-It is not known when Niter became head of the Cobalt Guard, but he was part of the group for a number of years. The Guard was well-run under his leadership; the members were exceptionally brave and loyal.
-He was present when the Kholins received a messenger from Highprince [[Thanadal\|Thanadal]] declining a meeting with Dalinar. Niter personally helped intercept the messenger and had the Cobalt Guard clear a space around Dalinar and Adolin so that they could discuss the message. Dalinar then asked Niter to retrieve his [[Shardhammer\|Shardhammer]] and Niter seemed to think that he was going to do something impressive with it. Dalinar thought Niter would probably be disappointed since he planned to use the hammer to dig a latrine ditch.
-Prior to the [[Battle of the Tower\|Battle of the Tower]], Niter and the Cobalt Guard helped Adolin prepare for the battle. They brought him his [[Ryshadium\|Ryshadium]], [[Sureblood\|Sureblood]]. Niter presumably died during the battle, as most of the Cobalt Guardsmen were killed fighting alongside Dalinar and Adolin after Sadeas's betrayal. Zahel later said that he died keeping the Kholin men alive.
-Niter was succeeded as head of the Cobalt Guard by [[Kaladin\|Kaladin]], who had great respect for the Guard and integrated the few surviving members with [[Bridge Four\|Bridge Four]].
-Dalinar mentioned that Niter was among the few people he would have trusted to investigate the murders of [[Torol Sadeas\|Torol Sadeas]] and [[Vedekar Perel\|Vedekar Perel]] in [[Urithiru\|Urithiru]] if he were still alive.
+## Historia
+No se sabe cuándo se convirtió Niter en jefe de la Guardia de Cobalto, pero formó parte del grupo durante varios años. La Guardia estaba bien dirigida bajo su liderazgo; los miembros eran excepcionalmente valientes y leales.
+Estaba presente cuando los Kholin recibieron un mensajero del alto príncipe [[Thanadal\|Thanadal]] declinando una reunión con Dalinar. Niter ayudó personalmente a interceptar al mensajero e hizo que la Guardia de Cobalto despejase un espacio alrededor de Dalinar y Adolin para que pudiesen discutir el mensaje. Dalinar pidió entonces a Niter que recuperase su [[Martillo esquirlado\|martillo esquirlado]] y Niter pareció creer que iba a hacer algo impresionante con él. Dalinar pensó que Niter probablemente se sentiría decepcionado, ya que pensaba utilizar el martillo para cavar una zanja de letrinas.
+Antes de la [[Batalla de la Torre\|batalla de la Torre]], Niter y la Guardia de Cobalto ayudaron a Adolin a prepararse para la batalla. Le trajeron a su [[Ryshadio\|ryshadio]], [[Sangre Segura\|Sangre Segura]]. Es de suponer que Niter murió durante la batalla, ya que la mayoría de los Guardias de Cobalto murieron luchando junto a Dalinar y Adolin tras la traición de Sadeas. Zahel dijo más tarde que murió manteniendo vivos a los hombres de Kholin.
+Niter fue sucedido como jefe de la Guardia de Cobalto por [[Kaladin\|Kaladin]], que sentía un gran respeto por la Guardia e integró a los pocos miembros supervivientes en el [[Puente Cuatro\|Puente Cuatro]].
+Dalinar mencionó que Niter era una de las pocas personas en las que habría confiado para investigar los asesinatos de [[Torol Sadeas\|Torol Sadeas]] y [[Vedekar Perel\|Vedekar Perel]] en [[Urithiru\|Urithiru]] si aún estuviese vivo.
 
-## Notes
-|Antecesor  ***Unknown***|**Head of the [[Cobalt Guard\|Cobalt Guard]]**  until 1173|Sucesor  **[[Kaladin\|Kaladin]]**|
+## Notas
+|Antecesor  ***Desconocido***|**Jefe de la [[Guardia de Cobalto\|Guardia de Cobalto]]**  until 1173|Sucesor  **[[Kaladin\|Kaladin]]**|
 |-|-|
 
 

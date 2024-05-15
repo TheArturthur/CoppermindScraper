@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Canal de Hallen Norte**|
 |-|-|
 |**Región**|[[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**North Hallen Channel** is a channel in the [[Sea of Lost Lights\|Sea of Lost Lights]]. One can take this channel and travel to [[Celebrant\|Celebrant]] via the [[Celebrant Channel\|Celebrant Channel]]. Alternatively, one can travel upstream towards the [[Smolderbrand Channel\|Smolderbrand Channel]].
-It is unclear what exactly "Hallen" is, but there is also a [[South Hallen Channel\|South Hallen Channel]] directly south of the North Hallen Channel. Hallen might refer to the body of water between the rivers that the two channels lie along.
-In the [[Physical Realm\|Physical Realm]], the North Hallen Channel appears to move along the [[Deathbend River\|Deathbend River]].
+El **Canal de Hallen Norte** es un canal en el [[Mar de las Luces Perdidas\|mar de las Luces Perdidas]]. Se puede tomar este canal y viajar a [[Celebrant\|Celebrant]] a través del [[Canal de Celebrant\|Canal de Celebrant]]. Alternativamente, se puede viajar río arriba hacia el [[Canal de Marcadiente\|Canal de Marcadiente]].
+No está claro qué es exactamente «Hallen», pero también hay un [[Canal de Hallen Sur\|Canal de Hallen Sur]] directamente al sur del Canal de Hallen Norte. Hallen podría referirse a la masa de agua situada entre los ríos que bordean los dos canales.
+En el [[Reino F%C3%ADsico\|Reino Físico]], el Canal de Hallen Norte parece moverse a lo largo del [[R%C3%ADo Curva de la Muerte\|Río Curva de la Muerte]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 21:40, 3 July 2018 (MST)

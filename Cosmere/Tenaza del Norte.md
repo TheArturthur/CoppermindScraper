@@ -1,16 +1,19 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Tenaza del Norte**|
 |-|-|
 |**Nación**|[[Jah Keved\|Jah Keved]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Northgrip** is a city in northeast [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. It lies on a bay adjacent to the eastern [[Reshi Sea\|Reshi Sea]], near the border with [[Herdaz\|Herdaz]]. It is the largest city in northern Jah Keved.
+**Tenaza del Norte** es una ciudad en el noreste de [[Jah Keved\|Jah Keved]] en [[Roshar\|Roshar]]. Se encuentra en una bahía adyacente al [[Mar Reshi\|mar Reshi]] oriental, cerca de la frontera con [[Herdaz\|Herdaz]]. Es la ciudad más grande del norte de Jah Keved.
 
-## History
-[[Helaran Davar\|Helaran Davar]] ordered his sister [[Shallan\|Shallan]] some expensive drawing supplies from a merchant in Northgrip that were later delivered to the Davar estate.
-After arriving on the [[Shattered Plains\|Shattered Plains]], Shallan attempted to send messages to her family, including a letter sent through Northgrip. Northgrip was far away from the battles in the , and Shallan hoped that its remote location would improve the chances that a letter would get through the chaos to her family.
+## Historia
+[[Helaran Davar\|Helaran Davar]] encargó a su hermana [[Shallan\|Shallan]] unos caros suministros de dibujo a un mercader de Tenaza del Norte que más tarde fueron entregados en la finca de los Davar.
+Tras llegar a las [[Llanuras Quebradas\|Llanuras Quebradas]], Shallan intentó enviar mensajes a su familia, incluida una carta enviada a través de Tenaza del Norte. Tenaza del Norte estaba lejos de las batallas de la [[Guerra civil veden\|guerra civil veden]], y Shallan esperaba que su remota ubicación aumentase las posibilidades de que una carta llegase a su familia a través del caos.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 17:41, 10 November 2017 (MST)

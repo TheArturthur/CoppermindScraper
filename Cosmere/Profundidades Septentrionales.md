@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Profundidades Septentrionales**|
 |-|-|
 ||
-|**Tipo**|Ocean|
+|**Tipo**|Océano|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Northern Depths** is the ocean to the north of [[Roshar\|Roshar]] and the [[Reshi Isles\|Reshi Isles]]. It is presumably quite deep.
+Las **Profundidades Septentrionales** es el océano al norte de [[Roshar\|Roshar]] y las [[Islas Reshi\|Islas Reshi]]. Es de suponer que es bastante profundo.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 16:46, 9 March 2019 (MST)

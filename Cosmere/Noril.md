@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Noril**|
 |-|-|
 |**Parientes**|[[Cressa\|Cressa]] ()|
@@ -6,42 +9,43 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
->“*Coming awake means leaving the nothingness, you know? Remembering the pain. But then I think, 'Well, **he** gets up.'*”
-\-Noril, referring to Kaladin[1]
+>“*Despertar significa abandonar la nada, ¿sabes? Recordar el dolor. Pero entonces pienso: «Bueno, él se levanta».*”
+\-Noril, en referencia a Kaladin[1]
 
 
-**Noril** is an  refugee on [[Roshar\|Roshar]]. He arrives at [[Hearthstone\|Hearthstone]] on the day the city is evacuated to [[Urithiru\|Urithiru]].
+**Noril** es un refugiado [[Alezi\|alezi]] en [[Roshar\|Roshar]]. Llega a [[Piedralar\|Piedralar]] el día en que la ciudad es evacuada a [[Urithiru\|Urithiru]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 History. [[#History]] 
-3 Relationships. [[#Relationships]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Historia. [[#Historia]] 
+3 Relaciones. [[#Relaciones]] 
 
 3. [[#Kaladin]] 
 
 
-4 Notes. [[#Notes]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-Noril is a bearded Alethi darkeyed man with three moles on his upper left cheek and a cowlick in his greying hair. His entire left arm is missing, lost years prior to his arrival in Hearthstone. He suffers from suicidal depression but is inspired by Kaladin to keep his emotions from dominating his life.
+## Apariencia y personalidad
+Noril es un hombre alezi de barba oscura con tres lunares en la parte superior de la mejilla izquierda y un mechón de pelo canoso. Le falta todo el brazo izquierdo, perdido años antes de su llegada a Piedralar. Sufre una depresión suicida, pero Kaladin lo inspira para que sus emociones no dominen su vida.
 
-## History
->“*You **need** someone to talk to, Noril, when the darkness is strong. Someone to remind you the world hasn't always been this way; that it won’t always be this way.*”
+## Historia
+>“***Necesitas** a alguien con quien hablar, Noril, cuando la oscuridad se hace fuerte. Alguien que te recuerde que el mundo no siempre ha sido así, que no siempre será así.*”
 \-Kaladin[3]
 
-Noril tried to escape the horrors of the war in [[Alethkar\|Alethkar]], in which he saw his family brutally killed while he was tied to a tree and unable to help, by emigrating to [[Hearthstone\|Hearthstone]]. He arrived to the town manifesting symptoms of severe battle shock, so [[Lirin\|Lirin]] took extra care to make sure he was put on the *[[Fourth Bridge\|Fourth Bridge]]* for evacuation. Upon their arrival at [[Urithiru\|Urithiru]], Lirin sent Noril to the ardents for treatment. Those ardents, who only treated physical ailments, in turn sent him on to the  for treatment for mental symptoms. At the Devotary, Noril told them he had no living relatives and made one attempt to commit suicide. The ardents there kept him in a dark, bare room until [[Kaladin\|Kaladin]] and [[Teft\|Teft]] came looking for him. Kaladin managed to get Noril to agree to come outside to talk to him by displaying profound understanding of how Noril felt. Outside on the balcony, Kaladin and Teft reminded Noril that his niece [[Cressa\|Cressa]] would be devastated if something happened to him; Noril felt better as they talked, even though he still couldn't bring himself to fully believe in and accept the outlook on life the other two tried to present him with. His situation sparked Kaladin's idea to begin group therapy sessions with those who suffered depression, and Kaladin insisted that the ardents release Noril and, later, several others into his care.
-During the occupation of Urithiru, Noril ended up in the Radiant infirmary not long before the tower was restored, where he painted *shash* [[Glyphs\|glyphs]] on people's foreheads. [[Hesina\|Hesina]], irked by Lirin's attitude towards Kaladin, initiated a conversation between Lirin and Noril in which Noril explained why he wore the glyph on his forehead: Kaladin's persistence in the face of his own depression was an inspiration to Noril to keep fighting. After Lirin spoke to the others in the room who wore the glyph, he allowed Noril to paint it on his own forehead. Later, after Teft's death and Kaladin's final defeat of [[Lezian\|Lezian]], Noril and a handful of others led the humans in defending the Radiant infirmary from the Pursuer's troops. After the ensuing battle in the atrium, [[Rlain\|Rlain]] spoke to the group of survivors, including the  who had just fought alongside the humans; Noril took the lead in encouraging the humans to trust Rlain.
-After the tower was restored, Noril joined Kaladin, [[Dabbid\|Dabbid]], and the other patients rescued from the ardents' sick rooms in helping each other to decompress.
+Noril intentó escapar de los horrores de la guerra en [[Alezkar\|Alezkar]], en la que vio cómo asesinaban brutalmente a su familia mientras él estaba atado a un árbol y no podía ayudar, emigrando a [[Piedralar\|Piedralar]]. Llegó a la ciudad manifestando síntomas de un grave estado de shock por la batalla, por lo que [[Lirin\|Lirin]] puso especial cuidado en asegurarse de que lo subían al *[[Cuarto Puente\|Cuarto Puente]]* para evacuarlo. A su llegada a [[Urithiru\|Urithiru]], Lirin envió a Noril a los fervorosos para que lo tratasen. Aquellos ardientes, que solo trataban dolencias físicas, lo enviaron a su vez al [[Devotario de la Piedad\|Devotario de la Piedad]] para que lo tratase de los síntomas mentales. En el Devotario, Noril les dijo que no tenía parientes vivos e intentó suicidarse una vez. Los fervorosos de allí lo retuvieron en una habitación oscura y vacía hasta que [[Kaladin\|Kaladin]] y [[Teft\|Teft]] vinieron a buscarlo. Kaladin consiguió que Noril aceptase salir para hablar con él mostrando una profunda comprensión de cómo se sentía Noril. Fuera, en el balcón, Kaladin y Teft le recordaron a Noril que su sobrina [[Cressa\|Cressa]] se sentiría desolada si le ocurriese algo; Noril se sintió mejor mientras hablaban, aunque seguía sin atreverse a creer y aceptar del todo la perspectiva de la vida que los otros dos intentaban presentarle. Su situación despertó la idea de Kaladin de iniciar sesiones de terapia de grupo con los que sufrían depresión, el cual insistió en que los fervorosos entregasen a Noril y, más tarde, a varios otros a su cuidado.
+Durante la ocupación de Urithiru, Noril fue a parar a la enfermería de los Radiantes no mucho antes de que la torre fuese restaurada, donde pintó [[Glifos\|glifos]] en la frente de la gente. [[Hesina\|Hesina]], irritada por la actitud de Lirin hacia Kaladin, inició una conversación entre Lirin y Noril en la que Noril explicó por qué llevaba el glifo en la frente: La persistencia de Kaladin frente a su propia depresión sirvió de inspiración a Noril para seguir luchando. Después de que Lirin hablase con los demás en la sala que llevaban el glifo, permitió que Noril se lo pintase en su propia frente. Más tarde, tras la muerte de Teft y la derrota final de [[Lezian\|Lezian]] por parte de Kaladin, Noril y un puñado de otros lideraron a los humanos en la defensa de la enfermería de los Radiantes frente a las tropas de Perseguidor. Tras la batalla que siguió en el atrio, [[Rlain\|Rlain]] habló con el grupo de supervivientes, incluidos los [[Cantores\|cantores]] que acababan de luchar junto a los humanos; Noril tomó la iniciativa para animar a los humanos a confiar en Rlain.
+Una vez restaurada la torre, Noril se unió a Kaladin, [[Dabbid\|Dabbid]] y los demás pacientes rescatados de las salas de enfermos de los fervorosos para ayudarse mutuamente a recuperarse.
 
-## Relationships
+## Relaciones
 ### Kaladin
-Noril and [[Kaladin\|Kaladin]], suffering from a similar malady, inspire each other. Noril is suicidal and has given up on life when Kaladin first finds him. Seeing Noril's plight, locked away in a dark room because no one knows what else to do with him, Kaladin realizes he might have ended up the same way had his life not gone how it had; this inspires Kaladin to begin group therapy sessions with Noril and the others being treated at the . In fact, he begins to view his  in a different light and makes peace with the fact that it really is better for him to pursue mental health treatment in place of fighting on the front lines of battle with the rest of the .
-Noril is likewise inspired by Kaladin to get up and face each day. Although he struggles at first with accepting the perspective shift that Kaladin tries to give him, he slowly becomes much more functional and ends up one of Kaladin's staunchest supporters.
+Noril y [[Kaladin\|Kaladin]], que padecen un trastorno similar, se inspiran mutuamente. Noril es un suicida que ha renunciado a la vida cuando Kaladin lo encuentra por primera vez. Al ver la difícil situación de Noril, encerrado en una habitación oscura porque nadie sabe qué más hacer con él, Kaladin se da cuenta de que él podría haber acabado igual si su vida no hubiese ido como fue; esto inspira a Kaladin a iniciar sesiones de terapia de grupo con Noril y los demás que reciben tratamiento en el [[Devotario de la Piedad\|Devotario de la Piedad]]. De hecho, comienza a ver sus [[Ideales\|Ideales]] bajo una perspectiva diferente y hace las paces con el hecho de que realmente es mejor para él seguir un tratamiento de salud mental en lugar de luchar en el frente de batalla con el resto de los [[Corredores del Viento\|Corredores del Viento]].
+Noril también se siente inspirado por Kaladin para levantarse y afrontar cada día. Aunque al principio le cuesta aceptar el cambio de perspectiva que Kaladin intenta darle, poco a poco se vuelve mucho más funcional y acaba siendo uno de los más firmes partidarios de Kaladin.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

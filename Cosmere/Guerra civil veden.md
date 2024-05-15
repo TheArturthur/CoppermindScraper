@@ -83,40 +83,40 @@
 
 
 5. [[#Sistema de castas y divisi.C3.B3n entre sexos]] 
-5. [[#Marriage]] 
-5. [[#Fashion]] 
+5. [[#Matrimonio]] 
+5. [[#Moda]] 
 
-5. [[#Masculine fashion]] 
-5. [[#Feminine fashion]] 
-
-
-5. [[#Languages]] 
-5. [[#Games.2C Sports.2C and Entertainment]] 
-
-5. [[#Festivals]] 
-5. [[#Games]] 
-5. [[#Sports]] 
+5. [[#Moda masculina]] 
+5. [[#Moda femenina]] 
 
 
-5. [[#Religion]] 
+5. [[#Idiomas]] 
+5. [[#Juegos.2C deportes y entretenimiento]] 
 
-5. [[#Vorinism]] 
-5. [[#The Unkalaki religion]] 
-
-
-5. [[#Architecture]] 
-
-5. [[#Manors and estates]] 
-5. [[#Greenery]] 
+5. [[#Ferias]] 
+5. [[#Juegos]] 
+5. [[#Deportes]] 
 
 
+5. [[#Religi.C3.B3n]] 
+
+5. [[#Vorinismo]] 
+5. [[#La religi.C3.B3n unkalaki]] 
 
 
-6 Economy. [[#Economy]] 
+5. [[#Arquitectura]] 
 
-6. [[#Currency]] 
-6. [[#Merchants and trading routes]] 
-6. [[#Foreign Trade]] 
+5. [[#Mansiones y fincas]] 
+5. [[#Vegetaci.C3.B3n]] 
+
+
+
+
+6 Economía. [[#Econom.C3.ADa]] 
+
+6. [[#Divisa]] 
+6. [[#Mercaderes y rutas comerciales]] 
+6. [[#Comercio exterior]] 
 
 
 7 Ciudadanos destacados. [[#Ciudadanos destacados]] 
@@ -185,7 +185,7 @@ Tras la muerte del Hacedor de Soles, sus diez hijos no se pusieron de acuerdo so
 #### Guerra civil veden (1173 - 1174)
 
 Años más tarde, poco antes de la llegada de la Auténtica Desolación, el rey veden, [[Hanavanar\|Hanavanar]], junto con varios altos príncipes, fue asesinado el Tanatesev 1173 por [[Szeth\|Szeth]]. Esto sumió al país en una guerra civil caótica, con al menos siete facciones diferentes esperando reclamar Vedenar y coronar a su líder como rey. La situación empeoró aún más con la presencia del [[Deshecho\|deshecho]] [[Nergaoul\|Nergaoul]], más conocido como la Emoción, que llevó a los soldados veden a luchar con un grado de determinación y brutalidad sin precedentes.
-La guerra civil duró unos pocos meses, siendo el enfrentamiento final en la batalla de Vedenar. El alto príncipe [[Valam\|Valam]] emerge victorioso, convirtiéndose en el nuevo rey. Sin embargo, rápidamente pasa la corona al rey [[Taravangian\|Taravangian]] de  antes de ordenar a su hijo ilegítimo, [[Redin\|Redin]], que lo mate. Dada la pobre salud de Valam y sus insinuaciones antes de morir, es posible que fuera envenenado por el [[Diagrama\|Diagrama]] para conseguirlo, dado que fueron ellos los que instigaron la guerra civil al enviar a Szeth.
+La guerra civil duró unos pocos meses, siendo el enfrentamiento final en la batalla de Vedenar. El alto príncipe [[Valam\|Valam]] emerge victorioso, convirtiéndose en el nuevo rey. Sin embargo, rápidamente pasa la corona al rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]] antes de ordenar a su hijo ilegítimo, [[Redin\|Redin]], que lo mate. Dada la pobre salud de Valam y sus insinuaciones antes de morir, es posible que fuera envenenado por el [[Diagrama\|Diagrama]] para conseguirlo, dado que fueron ellos los que instigaron la guerra civil al enviar a Szeth.
 
 ### La Auténtica Desolación (1173 - )
 Para más información, ver [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
@@ -274,64 +274,64 @@ Aunque de nombre los Picos Comecuernos son parte de Jah Keved, los Unkalaki tien
 
 ### Sistema de castas y división entre sexos
 Al igual que las demás culturas vorin, la cultura veden se divide en dos grandes castas, los *[[Ojos claros\|ojos claros]]** y los *****[[Ojos oscuros\|ojos oscuros]]**, separadas, como es de suponer, por el color de los ojos. Los ojos claros forman la casta superior, con mayores derechos y privilegios, mientras que los ojos oscuros son la casta inferior y trabajadora. Aparte de eso, cada casta se subdivide en diez rangos: los ojos claros se llaman [[Dahn\|dahn]], mientras que los ojos oscuros son los [[Nahn\|nahn]]. El monarca veden, por ejemplo, es la única persona del país que ostenta el primer dahn.
-Much of Vorin culture, and by extension Veden culture, is based upon the book [[Arts and Majesty\|Arts and Majesty]], which is a book that outlines what is proper for men and women. This book led to a division between, among others, the professions of men and women. Women are permitted to learn how to read and write, and expected to manage a household. Feminine arts include painting, reading, writing, and music. Daughters are also expected to help with the family finances. More confrontational positions, such as politics and militaristic positions, are considered masculine -- however, men are forbidden (or at least heavily discouraged) from learning the alphabet.
+Gran parte de la cultura vorin, y por extensión de la cultura veden, se basa en el libro [[Artes y Majestuosidad\|Artes y Majestuosidad]], que es un libro que describe lo que es propio de hombres y mujeres. Este libro dio lugar a una división entre, entre otros, las profesiones de hombres y mujeres. A las mujeres se les permite aprender a leer y escribir, y se espera de ellas que lleven las riendas del hogar. Las artes femeninas incluyen la pintura, la lectura, la escritura y la música. También se espera que las hijas ayuden en la economía familiar. Las posiciones más conflictivas, como la política y el militarismo, se consideran masculinas; sin embargo, a los hombres se les prohíbe (o, al menos, se les desaconseja encarecidamente) aprender el alfabeto.
 
-### Marriage
-Generally, marriages are arranged by the parents of the couple, or if the subjects are old enough, by themselves. If the family has many daughters, the women may court and decide on a suitor themself, but if this is not the case, a marriage will be arranged. When a Veden couple marries, the spouses retain their family names. The children of the couple all use the surname of only one parent; it's unclear whether it's always the father's, or if it depends on the parents' relative [[Dahn\|dahns]]. It is a custom to buy gifts for family members of the couple, with boys often getting weapons and women jewelry.
+### Matrimonio
+Generalmente, los matrimonios son concertados por los padres de la pareja o, si los sujetos tienen edad suficiente, por ellos mismos. Si la familia tiene muchas hijas, las mujeres pueden cortejar y elegir a un pretendiente ellas mismas, pero si no es el caso, se concierta un matrimonio. Cuando una pareja veden se casa, los cónyuges conservan sus apellidos. Todos los hijos de la pareja usan el apellido de uno solo de los padres; no está claro si es siempre el del padre, o si depende de los [[Dahn\|dahn]] relativos de los padres. Es costumbre comprar regalos a los familiares de la pareja, y los chicos suelen recibir armas y las mujeres joyas.
 
-### Fashion
-Veden fashion varies between the castes, lighteyes and darkeyes. This divide is enforced by the religion of , which is the state religion in Jah Keved.
-Fashion designers in [[Liafor\|Liafor]] and [[Yezier\|Yezier]] have great influence on lighteyed fashion in Jah Keved, with much of Veden clothing being designed in these countries, based on Veden fashion trends with their own cultural flair. Despite this, the Vedens do still have their own traditional clothing.
-Jah Keved and Alethkar have very similar fashion styles, enough so for Liafor to market to them using the same fashion folios.
+### Moda
+La moda veden varía entre las castas, ojos claros y ojos oscuros. Esta división se ve reforzada por la religión del [[Vorinismo\|vorinismo]], que es la religión del estado en Jah Keved.
+Los diseñadores de moda de [[Liafor\|Liafor]] y [[Yezier\|Yezier]] tienen una gran influencia en la moda de los ojos claros de Jah Keved, y gran parte de la ropa veden se diseña en estos países, basándose en las tendencias de la moda veden con su propio toque cultural. A pesar de ello, los veden siguen teniendo su propia vestimenta tradicional.
+Jah Keved y Alezkar tienen estilos de moda muy similares, lo suficiente como para que Liafor se dirija a ellos utilizando los mismos folletos de moda.
 
-  Contemporary Male Fashion
-#### Masculine fashion
-Veden men often wear trousers and shirts that lace up the front. Most of the clothing made for lighteyes is made from silk, which comes from a plant that floats in the ocean. Beards are eschewed by the nobility, although this doesn’t stop some lighteyes from having them.
-A piece of traditional men’s clothing is the [[Ulatu\|ulatu]], a knee-length skirt. They are generally worn with a simple shirt and a long robe or coat. Another common form of male clothing, typically worn by warriors, is the [[Vakama\|vakama]]. The takama is a form of long, pleated, calf-length skirt. The Vakama and Ulatu have similarities with the Alethi [[Takama\|takama]]. Traditional Veden clothing is worn with a mink pelt.
 
-#### Feminine fashion
-Veden women wear a wide variety of clothing, including skirts and colourful blouses. A common form of clothing for the Veden lighteyes is the Vorin Havah. The Havah is formfitting through the bust, shoulders and waist, and has a flowing skirt; fitting with Vorin ideals, these Havah have a long left sleeve, hiding their [[Safehand\|safehand]]. These sleeves often have a pouch to store belongings known as a safepouch. Havah are often made of brightly coloured silk, which is thin enough to allow women to easily grip objects with their safehand, when necessary.
-In the years around c.1173 the Alethi tan and hair color are seen as marks of true beauty. Lighteyed women often arrange their hair high in a complex series of braids secured by four steel spikes.
-Darkeyed women tend to wear simpler clothing, and tend to wear gloves on their safehand rather than large sleeves. Wearing a glove on the safehand in this manner is seen as immodest and an inherent sign of lower class, and therefore is not typically practiced by lighteyes.
+#### Moda masculina
+Los hombres veden suelen llevar pantalones y camisas con cordones en la parte delantera. La mayor parte de la ropa de los ojos claros está hecha de seda, que procede de una planta que flota en el océano. Los nobles evitan las barbas, aunque esto no impide que algunos ojos claros las lleven.
+Una prenda de la indumentaria masculina tradicional es el [[Ulatu\|ulatu]], una falda hasta las rodillas. Suelen llevarse con una camisa sencilla y una túnica o abrigo largo. Otra forma común de vestimenta masculina, que suelen llevar los guerreros, es la [[Vakama\|vakama]]. El takama es una forma de falda larga, plisada y que llega hasta la pantorrilla. La vakama y la ulatu tienen similitudes con la [[Takama\|takama]] alezi. La ropa tradicional veden se viste con una piel de visón.
 
-### Languages
-Para the Unkalaki language, ver [[/wiki/Unkalaki#Language]].
-Jah keved is home to multiple languages, including Veden and Unkalaki. These two languages are very different. The Bav also have their own language, although it is unknown how much this languages differs from Veden and Unkalaki.
-The Veden language belongs to the Vorin language family, and is close enough to that of the [[Alethkar\|Alethi]] to be mutually intelligible for both sides. Many Vedens learn Alethi in their youth. The Unkalaki language is a part of the Dawnate language family, which means that although the vocabulary is distinctive, it shares similar grammar with the other Dawnate languages. When speaking Veden, or other Vorin languages like Alethi, the Unkalaki have a distinct accent. One feature of this Unkalaki 'accent' is a tendency to use gendered pronouns (e.g. "he") in places where a non-gendered pronoun ("it") would be more appropriate.
+#### Moda femenina
+Las mujeres veden visten una gran variedad de prendas, como faldas y blusas de colores. Una forma común de vestir para las veden de ojos claros es la havah vorin. Se ajusta a la forma del busto, los hombros y la cintura, y tiene una falda fluida; en consonancia con los ideales vorin, estas havah tienen una larga manga izquierda, ocultando su [[Mano segura\|mano segura]]. Estas mangas suelen tener una bolsa para guardar pertenencias conocida como "bolsa segura". Las havah suelen estar hechas de seda de colores brillantes, que es lo suficientemente fina como para permitir a las mujeres agarrar objetos fácilmente con su mano segura, cuando sea necesario.
+En los años alrededor de c.1173 la piel bronceada y el color del pelo de los rosharianos se ven como marcas de la verdadera belleza. Las mujeres ojos claros suelen llevar el pelo recogido en una compleja serie de trenzas sujetas por cuatro clavos de acero.
+Las mujeres ojos oscuros suelen llevar ropa más sencilla y guantes en la mano segura en lugar de mangas grandes. Llevar un guante en la mano segura de esta manera se considera poco modesto y un signo inherente de clase baja, y por lo tanto no suele ser practicado por las ojos claros.
 
-### Games, Sports, and Entertainment
-#### Festivals
-The people of Jah Keved celebrate various fairs and festivals to celebrate special occasions. One such festival celebrated in Jah Keved is the [[Middlefest Fair\|Middlefest Fair]], which celebrates the coming of the [[Midpeace\|Midpeace]].
+### Idiomas
+Para El idioma unkalaki, ver [[/wiki/Unkalaki#Idioma]].
+Jah keved es el hogar de múltiples idiomas, incluyendo veden y unkalaki. Estas dos lenguas son muy diferentes. Los bav también tienen su propia lengua, aunque se desconoce en qué medida difiere de la veden y la unkalaki.
+La lengua veden pertenece a la familia de las lenguas vorin, y es lo suficientemente parecida a la de los [[Alezkar\|alezi]] como para ser mutuamente inteligible para ambas partes. Muchos veden aprenden alezi en su juventud. La lengua unkalaki forma parte de la familia de lenguas albóreas, lo que significa que aunque el vocabulario es distintivo, comparte una gramática similar con las otras lenguas albóreas. Cuando hablan veden, u otras lenguas vorin como el alezi, los unkalaki tienen un acento distintivo. Una característica de este 'acento' unkalaki es una tendencia a utilizar pronombres de género (por ejemplo, "él") en los lugares donde un pronombre sin género ("ello") sería más apropiado.
 
-#### Games
-Due to Vorin precepts against predicting the future, Vedens avoids gambling and games involving random chance. Because of this their games tend to revolve around skill rather than chance. One popular game in Veden culture is [[Breakneck\|Breakneck]], which is often played in gambling dens. Many people in Bavland also wat h and bet on [[Shallowcrab\|Shallowcrab]] fights.
+### Juegos, deportes y entretenimiento
+#### Ferias
+Los habitantes de Jah Keved celebran diversas ferias y festivales para festejar ocasiones especiales. Uno de estos festivales que se celebra en Jah Keved es la [[Feria de la Fiesta Media\|Feria de la Fiesta Media]], que celebra la llegada de la [[Mediapaz\|Mediapaz]].
 
-#### Sports
-The Vedens enjoy dueling. Classical ideals dictate that men should duel with swords and without shields. They also dictate that the men should use sweeping methods of fighting, which are said to be an imitation of fighting with a Shardblade.
+#### Juegos
+Debido a los preceptos vorin contrarios a predecir el futuro, los veden evitan los juegos de azar. Por ello, sus juegos suelen girar en torno a la habilidad más que al azar. Un juego popular en la cultura veden es el [[Rompecuello\|rompecuello]], al que se suele jugar en los locales de juego. Muchos habitantes de Bavlandia también ven y apuestan en los combates de [[Cangrejo\|cangrejos]].
 
-### Religion
-#### Vorinism
-Jah Keved is one of the five [[Vorin\|Vorin]] Kingdoms. The vast majority of Jah Keved is Vorin, with only the Unkalaki as a notable exception. The Vedens are far more religious than the average Vorin. The Veden version of Vorinism places a higher importance on the trappings of the faith, such as the [[Safehand\|safehand]] and the strict division between masculine and feminine arts. In particular, the Vedens are noted to be highly respectful and reverent of the . They are also extremely traditional in the particulars of the Vorin doctrine. The centre of Vorin church, the Holy Enclave, is located in the Veden city of [[Valath\|Valath]]. The Bav are also Vorin, although they are not as strict as the Vedens.
+#### Deportes
+A los veden les gusta batirse en duelo. Los ideales clásicos dictan que los hombres deben batirse en duelo con espadas y sin escudos. También dictan que deben utilizar métodos de lucha de barrido, que se dice que son una imitación de la lucha con una hoja esquirlada.
 
-#### The Unkalaki religion
-The Unkalaki have their own religion. Their religion is polytheistic, with a set of higher gods, like the gods of the waters, trees and mountains. Aside from these gods they also worship [[Spren\|spren]]. The Unkalaki believe that underneath the regular water on the peaks is the *Place of the Gods*, which is likely [[Shadesmar\|Shadesmar]]. Despite having their own religion, the Unkalaki still receive Veden ardents who come to the [[Horneater Peaks\|Horneater Peaks]] to preach Vorinism.
+### Religión
+#### Vorinismo
+Jah Keved es uno de los cinco reinos [[Vorin\|vorin]]. La gran mayoría de los habitantes de Jah Keved son vorin, con la notable excepción de los unkalaki. Los veden son mucho más religiosos que la media de los vorin. La versión vorin del vorinismo da más importancia a los adornos de la fe, como la [[Mano segura\|mano segura]] y la estricta división entre artes masculinas y femeninas. En particular, los veden son muy respetuosos y reverentes con los [[Fervoroso\|fervorosos]]. También son extremadamente tradicionales en los detalles de la doctrina vorin. El centro de la iglesia vorin, el Santo Enclave, se encuentra en la ciudad veden de [[Valath\|Valath]]. Los bav también son vorin, aunque no son tan estrictos como los vedens.
 
-### Architecture
-#### Manors and estates
-Jah Keved has many isolated estates. These estates are generally made up of a manor, the residence for the lighteyed owners, a separate servants’ building, a guardhouse and a large garden. These estates of Jah Keved lack most of the more recent discoveries in architecture and engineering like storm cisterns. Generally, Veden architectural styles are very close to Alethi styles. A typical manor is built after the Veden ideal, tall and imposing. They are often built of square stone blocks and contain small windows, with the walls being dappled by dark lichen. Almost all of the manors have large dining halls for feasts, these halls have numerous tables, with the most important one called the high table.
+#### La religión unkalaki
+Los unkalaki tienen su propia religión. Es politeísta, con un conjunto de dioses superiores, como los dioses de las aguas, los árboles y las montañas. Aparte de estos dioses, también adoran a los [[Spren\|spren]]. Los unkalaki creen que bajo el agua regular de las cumbres se encuentra el *Lugar de los Dioses*, que probablemente sea [[Shadesmar\|Shadesmar]]. A pesar de tener su propia religión, los unkalaki siguen recibiendo fervorosos veden que vienen a los [[Picos Comecuernos\|Picos Comecuernos]] a predicar el vorinismo.
 
-#### Greenery
-The Vedens love greenery, they decorate their gardens with cultivated vines and rows of shalebark. These plants are often cut and trimmed into shapes. The current architectural fashion includes having a number of rare plants placed in a jumble. Buildings often have plants draping them and falling from windows.
+### Arquitectura
+#### Mansiones y fincas
+Jah Keved tiene muchas fincas aisladas. Estas propiedades suelen estar formadas por una mansión, la residencia de los propietarios de ojos claros, un edificio separado para el servicio, un cuerpo de guardia y un gran jardín. Estas fincas de Jah Keved carecen de la mayoría de los descubrimientos más recientes en arquitectura e ingeniería, como los depósitos de agua de tormenta. En general, los estilos arquitectónicos veden son muy parecidos a los alezi. Una mansión típica se construye según el ideal veden, alta e imponente. Suelen estar construidas con bloques de piedra cuadrados y contienen ventanas pequeñas, con las paredes moteadas por líquenes oscuros. Casi todas las mansiones disponen de grandes comedores para los banquetes que cuentan con numerosas mesas, siendo la más importante la llamada mesa alta.
 
-## Economy
-#### Currency
-As with many other nations on Roshar, their economy is based upon [[Spheres\|glass spheres with cut polestones in their center]], known simply as spheres. In the mint, they check sphere weights in order to see if they fell into the proper categories. The value of polestones, and thus the worth of sphere denominations in their economy, is based around the value of the substances a polestone can transmute another substance into.
+#### Vegetación
+A los vedanos les encanta la vegetación, decoran sus jardines con enredaderas cultivadas e hileras de cortezapizarra. Estas plantas suelen estar cortadas y recortadas en formas. La moda arquitectónica actual incluye tener varias plantas raras colocadas de forma desordenada. Los edificios suelen tener plantas cubriéndolos y cayendo desde las ventanas.
 
-#### Merchants and trading routes
-The northern city of [[Northgrip\|Northgrip]] is very important to Jah Keved’s economy. Many goods eventually pass through Northgrip. There are a lot of merchants that bring goods from Northgrip to the rest of the country. A lord who wishes to make use of the roads for trade needs to pay for the patrols and maintenance of said roads. This money is given back to the villages where the materials are harvested or made. Like in other Vorin countries, aside from Lighteyes, only darkeyes of the first and second [[Nahn\|Nahn]] can become merchants. These merchants often use [[Chull\|Chulls]] for the transport of their goods. The chulls are harnessed and controlled with complex leather bridles. Lighteyes sometimes engage in trade deals with each other, hoping to get favour with lighteyes of a higher Dahn.
+## Economía
+#### Divisa
+Al igual que muchas otras naciones de Roshar, su economía se basa en [[Esferas\|esferas de cristal con piedrabases talladas en su centro]], conocidas simplemente como esferas. En la casa de moneda, comprueban el peso de las esferas para ver si pertenecen a las categorías adecuadas. El valor de las piedrabases, y por tanto el valor de las esferas en su economía, se basa en el valor de las sustancias en las que una piedrabase puede transmutar otra sustancia.
 
-#### Foreign Trade
-Many of the goods produced by the Vedens eventually goes abroad. The Vedens also import many things from abroad. Among the exported goods are rare and expensive floral dyes. Jah Keved has trade treaties in place with Alethkar, which allows the Vedens to trade for cheap.
+#### Mercaderes y rutas comerciales
+La ciudad norteña de [[Tenaza del Norte\|Tenaza del Norte]] es muy importante para la economía de Jah Keved. Muchas mercancías pasan con el tiempo por Tenaza del Norte. Hay muchos mercaderes que llevan mercancías desde allí al resto del país. Un lord que desee hacer uso de los caminos para el comercio necesita pagar por las patrullas y el mantenimiento de dichos caminos. Este dinero se devuelve a las aldeas donde se cosechan o fabrican los materiales. Como en otros países vorin, aparte de los ojos claros, sólo los ojos oscuros del primer y segundo [[Nahn\|nahn]] pueden convertirse en mercaderes. Estos mercaderes suelen utilizar [[Chull\|chulls]] para el transporte de sus mercancías. Están provistos de arneses y se controlan con complejas bridas de cuero. Los ojos claros a veces hacen tratos comerciales entre ellos, con la esperanza de obtener el favor de los ojos claros de un dahn superior.
+
+#### Comercio exterior
+Muchos de los bienes producidos por los veden acaban saliendo al extranjero. También importan muchas cosas del extranjero. Entre los bienes exportados se encuentran tintes florales raros y caros. Jah Keved tiene tratados comerciales con Alezkar, lo que permite a los veden comerciar a bajo precio.
 
 ## Ciudadanos destacados
 Para la lista completa, ver :Categoría:Veden.

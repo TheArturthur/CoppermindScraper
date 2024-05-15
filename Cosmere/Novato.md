@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |***Desconocido***|
 |-|-|
 |**Oficio**|Marinero|
