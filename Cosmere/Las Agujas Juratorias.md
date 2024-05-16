@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Las Agujas Juratorias**|
 |-|-|
 |**Región**|[[Mar de las Almas\|Mar de las Almas]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Oathbound Spires** is a location in the [[Sea of Souls\|Sea of Souls]], part of the [[Shadesmar\|Rosharan subastral]] of the [[Cognitive Realm\|Cognitive Realm]]. It is located on a peninsula north of the [[Astral Banks\|Astral Banks]] and [[Lasting Integrity\|Lasting Integrity]], and west of [[Justice Untarnished\|Justice Untarnished]]. In the Physical Realm, it is near [[Sesemalex Dar\|Sesemalex Dar]], and its peninsula is a river that separates [[Emul\|Emul]] and [[Tukar\|Tukar]].
-The Oathbound Spires's name and proximity to [[Lasting Integrity\|Lasting Integrity]] may suggest the place is under [[Honorspren\|honorspren]] control.
-It is unclear exactly if the Oathbound Spires is some sort of settlement or not.
+**Las Agujas Juratorias** son una ubicación en el [[Mar de las Almas\|mar de las Almas]], parte del [[Shadesmar\|subastral roshariano]] del [[Reino Cognitivo\|Reino Cognitivo]]. Se encuentra en una península al norte de [[Las Orillas Astrales\|las Orillas Astrales]] e [[Integridad Duradera\|Integridad Duradera]], y al oeste de [[Justicia Inmaculada\|Justicia Inmaculada]]. En el Reino Físico, está cerca de [[Sesemalex Dar\|Sesemalex Dar]], y su península es un río que separa [[Emul\|Emul]] y [[Tukar\|Tukar]].
+El nombre de las Agujas Juratorias y su proximidad a [[Integridad Duradera\|Integridad Duradera]] pueden sugerir que el lugar está bajo el control de [[Honorspren\|honorspren]].
+No está claro si las Agujas Juratorias es una especie de asentamiento o no.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 23:08, 19 November 2020 (UTC)
