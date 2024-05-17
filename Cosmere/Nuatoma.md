@@ -1,38 +1,41 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Nuatoma**|
 |-|-|
 |**Relacionado con**|[[Unkalaki\|Unkalaki]]🐱︎|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
->“*Many of our nuatoma--this thing, it is the same as your lighteyes, only their eyes are not light--*”
-\-Lunamor to Kaladin and Teft[1]
+>“*Muchos de nuestros nuatoma, que son como los ojos claros, solo que sus ojos no son claros...*”
+\-Lunamor a Kaladin y Teft[1]
 
 
-A ***nuatoma*** is a leader of an [[Unkalaki\|Unkalaki]] clan on [[Roshar\|Roshar]]. They are a type of noble, the Horneater equivalent of an  .
+Un ***nuatoma*** es un líder de un clan [[Unkalaki\|unkalaki]] en [[Roshar\|Roshar]]. Son un tipo de noble, el equivalente comecuernos de un [[Brillante se%C3%B1or\|brillante señor]] [[Alezi\|alezi]].
 
 ## Sumario
 
-1 Social Status. [[#Social Status]] 
-2 Quest for Shards. [[#Quest for Shards]] 
-3 Notable Nuatoma. [[#Notable Nuatoma]] 
-4 Notes. [[#Notes]] 
+1 Condición social. [[#Condici.C3.B3n social]] 
+2 En busca de esquirlas. [[#En busca de esquirlas]] 
+3 Nuatoma destacados. [[#Nuatoma destacados]] 
+4 Notas. [[#Notas]] 
 
 
-## Social Status
-It is not clear how an individual becomes *nuatoma*, although both birth order and heritage are major factors in Unkalaki social standing. Since all Unkalaki are [[Darkeyes\|darkeyed]], eye color is not a consideration. The relatives of a *nuatoma* act as their guards and servants, often performing multiple jobs. It is implied that a *nuatoma* leads each of the [[Horneater Peaks\|Horneater Peaks]]. There are occasional skirmishes between peaks, presumably led by the *nuatoma*.
-When [[Lunamor\|Lunamor]] sees [[Phendorana\|Phendorana]], who has obvious importance among [[Honorspren\|honorspren]], he asks [[Syl\|Syl]] if Phendorana is like an honorspren *nuatoma*; because Syl can remember Phendorana berating her for wanting to seek [[Kaladin\|Kaladin]], she agrees.
+## Condición social
+No está claro cómo un individuo se convierte en *nuatoma*, aunque tanto el orden de nacimiento como la herencia son factores importantes en la posición social unkalaki. Dado que todos los unkalaki son [[Ojos oscuros\|ojos oscuros]], el color de ojos no es un factor a tener en cuenta. Los familiares de un *nuatoma* actúan como sus guardianes y sirvientes, y a menudo realizan múltiples trabajos. Se da a entender que un *nuatoma* lidera cada uno de los [[Picos Comecuernos\|Picos Comecuernos]]. Hay escaramuzas ocasionales entre los picos, presumiblemente dirigidas por el *nuatoma*.
+Cuando [[Lunamor\|Lunamor]] ve a [[Phendorana\|Phendorana]], que tiene una importancia evidente entre los [[Honorspren\|honorspren]], le pregunta a [[Syl\|Syl]] si Phendorana es como un *nuatoma* honorspren; ya que Syl puede recordar a Phendorana reprendiéndola por querer buscar a [[Kaladin\|Kaladin]], ella asiente.
 
-## Quest for Shards
->“*The nuatoma, they see our lack of Shards as a great shame. They want these weapons very badly.*”
+## En busca de esquirlas
+>“*Los nuatoma consideran una gran vergüenza que no tengamos espadas. Quieren esas armas con todas sus ganas.*”
 \-Lunamor[1]
 
-The lack of Shards among the Unkalaki is a source of embarrassment for the *nuatoma*, and many have traveled to [[Vedenar\|Vedenar]] or [[Alethkar\|Alethkar]] offering significant financial incentives in exchange for the chance to duel a [[Shardbearer\|Shardbearer]] and win a Shard. They believe that the first *nuatoma* to win a [[Shardblade\|Shardblade]] would gain sufficient power to become the first *tana'kai*—similar to a king—in many years. Either the respect for a Shardbearer or the fear of an easy defeat would keep the other peaks from skirmishing with a *nuatoma* who holds a Shard.
-All of the *nuatoma* who have challenged Alethi Shardbearers have been killed. [[Kef'ha\|Kef'ha]], Lunamor's *nuatoma*, chooses to duel [[Torol Sadeas\|Torol Sadeas]], believing that it will be easier to win against someone who only possesses [[Shardplate\|Shardplate]] first, and then to challenge someone else for their Blade afterwards. He believes that his relatives will simply become servants of House Sadeas if he dies. However, sometime in early 1173, Sadeas kills Kef'ha without a proper duel and then kills some of his family members who protest before seizing their property anyway. Sadeas does not know what to do with the surviving Horneaters, but he makes soldiers or servants out of most of them. Lunamor briefly serves as his cook, but he puts [[Chull\|chull]] dung in Sadeas' food, earning him an assignment to the [[Bridge crew\|bridge crews]].
-After [[Cord\|Cord]] receives her Shardplate, Lunamor finds it remarkable that their nation's first Shardbearer is not a *nuatoma*, but a young woman.
+La falta de esquirlas entre los unkalaki es una fuente de vergüenza para los *nuatoma*, y muchos han viajado a [[Vedenar\|Vedenar]] o [[Alezkar\|Alezkar]] ofreciendo importantes incentivos económicos a cambio de la oportunidad de batirse en duelo con un [[Portador de esquirlada\|portador de esquirlada]] y ganar una esquirla. Creen que el primer *nuatoma* en ganar una [[Hoja esquirlada\|hoja esquirlada]] obtendría el poder suficiente para convertirse en el primer *tana'kai* (similar a un rey) en muchos años. O bien el respeto por un portador de esquirlada o el miedo a una derrota fácil impedirían a los otros picos enfrentarse a un *nuatoma* que posea una esquirla.
+Todos los *nuatoma* que han desafiado a los portadores de esquirlada alezi han muerto. [[Kef'ha\|Kef'ha]], el *nuatoma* de Lunamor, elige batirse en duelo con [[Torol Sadeas\|Torol Sadeas]], creyendo que será más fácil ganar contra alguien que solo posee una [[Armadura esquirlada\|armadura esquirlada]] primero, y desafiar a otro por su hoja después. Cree que sus parientes simplemente se convertirán en sirvientes de la casa Sadeas si él muere. Sin embargo, a principios de 1173, Sadeas mata a Kef'ha sin un duelo apropiado y luego mata a algunos miembros de su familia que protestan antes de apoderarse de sus propiedades de todos modos. Sadeas no sabe qué hacer con los comecuernos supervivientes, pero convierte en soldados o sirvientes a la mayoría de ellos. Lunamor sirve brevemente como su cocinero, pero pone excrementos de [[Chull\|chull]] en la comida de Sadeas, ganándose una asignación a la [[Cuadrilla del puente\|cuadrilla del puente]].
+Después de que [[Cuerda\|Cuerda]] reciba su armadura esquirlada, a Lunamor le llama la atención que el primer portador de esquirlada de su nación no sea un *nuatoma*, sino una mujer joven.
 
-## Notable Nuatoma
+## Nuatoma destacados
 [[Kef'ha\|Kef'ha]]
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Truthwatch3r (talk) 21:57, 14 April 2022 (UTC)

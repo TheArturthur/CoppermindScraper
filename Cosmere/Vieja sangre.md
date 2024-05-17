@@ -1,32 +1,35 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Vieja sangre**|
 |-|-|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
->“*His people had once ruled Alethkar. What did he think of all this?*”
-\-Adolin, on Teleb[1]
+>“*Su pueblo había gobernado antaño Alezkar. ¿Qué pensaba de todo esto?*”
+\-Adolin, sobre Teleb[1]
 
 
-**Oldbloods** are people on [[Roshar\|Roshar]] descended from a former royal dynasty of [[Alethkar\|Alethkar]].
+Los **Vieja Sangre** son habitantes de [[Roshar\|Roshar]] descendientes de una antigua dinastía real de [[Alezkar\|Alezkar]].
 
 ## Sumario
 
-1 Appearance. [[#Appearance]] 
-2 History. [[#History]] 
-3 Known Oldbloods. [[#Known Oldbloods]] 
-4 Notes. [[#Notes]] 
+1 Apariencia. [[#Apariencia]] 
+2 Historia. [[#Historia]] 
+3 Vieja Sangre conocidos. [[#Vieja Sangre conocidos]] 
+4 Notas. [[#Notas]] 
 
 
-## Appearance
-Physically, an Oldblood looks like an ordinary [[Lighteyes\|lighteyed]] Alethi. However, if someone wishes to acknowledge that they are an Oldblood, they wear a blue tattoo on their cheek.
+## Apariencia
+Físicamente, un Vieja Sangre parece un [[Ojos claros\|ojos claros]] alezi ordinario. Sin embargo, si alguien desea reconocer quién es un Vieja Sangre, llevan un tatuaje azul en la mejilla.
 
-## History
-Little is known about the origin of the Oldbloods, but they are said to have ruled Alethkar many years ago. In fact, they claim to be able to trace their lineage directly to the ancient [[Knights Radiant\|Knights Radiant]]. At some point in history, the Oldbloods were removed from power and no longer present a threat to the current monarchy of Alethkar. People with Oldblood ancestry continue to wear face tattoos as a symbolic acknowledgement of their former rule. However, they do not commonly discuss their connection to the Knights Radiant due to their poor reputation following the [[Day of Recreance\|Day of Recreance]]. Some Oldbloods may also feel an elevated sense of loyalty to the throne since they once held it.
+## Historia
+Poco se sabe sobre el origen de los Vieja Sangre, pero se dice que gobernaron Alezkar hace muchos años. De hecho, afirman poder rastrear su linaje directamente hasta los antiguos [[Caballeros Radiantes\|Caballeros Radiantes]]. En algún momento de la historia, fueron apartados del poder y ya no representan una amenaza para la actual monarquía de Alethkar. Las personas con esta ascendencia siguen llevando tatuajes en la cara como reconocimiento simbólico de su antiguo dominio. Sin embargo, no suelen hablar de su conexión con los Caballeros Radiantes debido a su mala reputación tras el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]]. Algunos Vieja Sangre también pueden tener un elevado sentido de la lealtad al trono, ya que una vez lo ocuparon.
 
-## Known Oldbloods
+## Vieja Sangre conocidos
 [[Teleb\|Teleb]]
-One of [[Dalinar Kholin\|Dalinar Kholin]]'s battalionlords during the [[True Desolation\|True Desolation]]
-## Notes
+Uno de los jefes de batallón de [[Dalinar Kholin\|Dalinar Kholin]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 01:40, 5 January 2021 (UTC)

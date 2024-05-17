@@ -1,18 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Océano de los Orígenes**|
 |-|-|
 ||
-|**Tipo**|Sea|
+|**Tipo**|Mar|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Ocean of Origins** is a body of water east of the main continent on [[Roshar\|Roshar]], towards the [[Origin\|Origin]].
-The shores of the Ocean of Origins are sparsely populated, with the cities of [[New Natanan\|New Natanan]] and [[Dawn's Shadow\|Dawn's Shadow]] being the only notable settlements. This is likely because [[Highstorm\|highstorms]] make landfall there, and as such hit that coast with the greatest force. To the East, the Ocean of Origins presumably connects to the [[Endless Ocean\|Endless Ocean]] on the opposite side of the planet, while from North and South, it's bracketed by  and [[Southern Depths\|Southern Depths]].
-The [[Origin\|Origin of Storms]], where the highstorms originate, lies at the far end of the Ocean of Origins. There are multiple legends talking about there being an inhabited island there, populated by people called [[Uvara\|Uvara]] in some versions of the story. The version told in New Natanan says that they are sailors who were lost while travelling the Ocean of Origins and that one day, they will come back to reclaim [[Natanatan\|Natanatan]].
+El **océano de los Orígenes** es una masa de agua al este del continente principal de [[Roshar\|Roshar]], hacia el [[Origen\|Origen]].
+Las costas del Océano de los Orígenes están escasamente pobladas, siendo las ciudades de [[Nueva Natanan\|Nueva Natanan]] y [[Sombra del Amanecer\|Sombra del Amanecer]] los únicos asentamientos destacables. Esto se debe probablemente a que las [[Alta tormenta\|altas tormentas]] tocan tierra allí y, por tanto, golpean la costa con mayor fuerza. Al este, el Océano de los Orígenes conecta presumiblemente con el [[Oc%C3%A9ano sin Fin\|océano sin Fin]] en el lado opuesto del planeta, mientras que por el norte y el sur, está rodeado por el [[Oc%C3%A9ano de las Aguas Hirvientes\|océano de las Aguas Hirvientes]] y las [[Profundidades Meridionales\|Profundidades Meridionales]].
+El [[Origen\|Origen de las Tormentas]], donde se originan las grandes tormentas, se encuentra en el extremo más alejado del Océano de los Orígenes. Existen múltiples leyendas que hablan de la existencia de una isla habitada allí, poblada por gentes llamadas [[Uvara\|Uvara]] en algunas versiones de la historia. La versión que se cuenta en Nueva Natanan dice que son marineros que se perdieron mientras viajaban por el Océano de los Orígenes y que un día volverán para reclamar [[Natanatan\|Natanatan]].
 
-## History
-[[Dalinar\|Dalinar]] sailed across the Ocean of Origins when taking his forces to the conflict that would become the [[War of Reckoning\|War of Reckoning]]. Several years later, [[Shallan\|Shallan]] and [[Jasnah\|Jasnah]] plan to sail through it all the way to [[New Natanan\|New Natanan]], but their ship is destroyed before reaching it. After the arrival of the [[Everstorm\|Everstorm]], it and the [[Highstorm\|highstorms]] often clash over either Ocean of Origins or [[Endless Ocean\|Endless Ocean]].
+## Historia
+[[Dalinar\|Dalinar]] navegó por el Océano de los Orígenes cuando llevaba sus fuerzas al conflicto que se convertiría en la [[Guerra de la Venganza\|Guerra de la Venganza]]. Varios años después, [[Shallan\|Shallan]] y [[Jasnah\|Jasnah]] planean navegar a través de él hasta [[Nueva Natanan\|Nueva Natanan]], pero su barco es destruido antes de alcanzarlo. Tras la llegada de la [[Tormenta eterna\|tormenta eterna]], ésta y las [[Alta tormenta\|altas tormentas]] se enfrentan a menudo por el Océano de los Orígenes o el [[Oc%C3%A9ano sin Fin\|océano sin Fin]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 05:37, 2 February 2020 (UTC)
