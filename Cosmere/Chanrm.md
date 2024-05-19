@@ -5,6 +5,7 @@
 |**Etnia**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 **Chanrm** es una mujer [[Thaylen\|thayleña]] de [[Roshar\|Roshar]]. Es la sobrina de [[Vstim\|Vstim]], y hace de escriba para su tío tan a menudo que [[Rysn\|Rysn]] puede reconocer su caligrafía.
 

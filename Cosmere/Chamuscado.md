@@ -4,14 +4,11 @@
 |**Chamuscado**|
 |-|-|
 ||
-|**Prerrequisitos**|[[Ascua coraz%C3%B3n\|Ascua corazón]]|
-|**Tipo**|*Desconocido*|
+|**Racional**|Yes|
 |**Mundo de origen**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 Los **chamuscados** son un tipo de ser [[Investidura\|investido]] en [[C%C3%A1ntico\|Cántico]].
 
@@ -35,7 +32,7 @@ Los **chamuscados** son un tipo de ser [[Investidura\|investido]] en [[C%C3%A1nt
 
 ## Requisitos previos
 Los chamuscados se crean utilizando un [[Sol coraz%C3%B3n\|sol corazón]] corrupto, llamado ascua corazón, y apuñalando a una persona en el pecho con él.
-Esto se hace típicamente mientras está conectado a la punta de una lanza. Unión tiene una máquina que implanta el ascua corazón, aunque aún se realiza con una lanza. Una vez que se inserta el ascua corazón, el calor comenzará a surgir, provocando chispas y llamas que salen mientras el cuerpo se quema. Los pectorales, la caja torácica y el corazón de la persona se quemarán, dejando la piel chamuscada y ennegrecida. El ascua corazón luego irradiará desde el centro de la cavidad.
+Esto se hace típicamente mientras está conectado a la punta de una lanza. [[Uni%C3%B3n\|Unión]] tiene una máquina que implanta el ascua corazón, aunque aún se realiza con una lanza. Una vez que se inserta el ascua corazón, el calor comenzará a surgir, provocando chispas y llamas que salen mientras el cuerpo se quema. Los pectorales, la caja torácica y el corazón de la persona se quemarán, dejando la piel chamuscada y ennegrecida. El ascua corazón luego irradiará desde el centro de la cavidad.
 La inmensa cantidad de calor hace que la mayoría de sus recuerdos y su alma se quemen. Añadir más calor a un chamuscado puede destruir aún más sus recuerdos.
 
 ### Iluminados por el sol
@@ -60,7 +57,7 @@ Los chamuscados pueden ser liberados del control de un iluminado por el sol toma
 
 ## Historia
 En algún momento investigadores [[Scadrial\|scadrianos]] llegaron a [[C%C3%A1ntico\|Cántico]] y empezaron a investigar con la Investidura local. Uno de estos experimentos llevó a la creación de ascuas corazón y a descubrir cómo crear a los chamuscados y a los iluminados por el sol. También conocieron al [[Rey Incandescente\|Rey Incandescente]] y comenzaron a comerciar con él.
-Durante uno de estos intercambios comerciales, el Rey Incandescente adquirió el conocimiento de cómo crear a los chamuscados y a los iluminados por el sol. Comenzó a hacer esto poco después, creando el ejército con el que logró conquistar el mundo.
+Durante uno de estos intercambios comerciales, el Rey Incandescente adquirió el conocimiento de cómo crear a los chamuscados y a los iluminados por el sol. Comenzó a hacer esto poco después, creando el ejército con el que logró conquistar el mundo. Tras el derrocamiento del Rey Incandescente, Unión decidió rehabilitar a los Chamuscados existentes y detener la creación de otros nuevos.
 
 ## Chamuscados destacados
 Para una lista completa, ver :Categoría:Chamuscado.

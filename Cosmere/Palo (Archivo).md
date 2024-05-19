@@ -12,7 +12,7 @@
 \-Palo[2]
 
 
-Para una versión más loca de esta página, ver Especial:PermanentLink/195216.
+Para una versión más loca de esta página, ver Especial:PermanentLink/201130.
 **Palo** es un palo extraordinario.
 [[Shallan\|Shallan]] intentó [[Moldear\|moldear]] a Palo tras escapar de *[[Placer del Viento\|Placer del Viento]]*, pero fue incapaz de convencerle para que cambiara. Durante la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], Shallan recordó su encuentro con Palo.
 

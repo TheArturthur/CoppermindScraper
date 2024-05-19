@@ -4,6 +4,7 @@
 |**Títulos**|Brillante señor|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 El brillante señor **Cadilar** es un anciano noble [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] asociado con el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Vamah\|Vamah]].
 En ? 1173, Cadilar atendió a uno de los festines organizados por el rey [[Elhokar Kholin\|Elhokar Kholin]]. Allí se encontró a [[Sagaz\|Sagaz]], que comparó la cara arrugada de Cadilar con la del caballo del propio brillante seño.

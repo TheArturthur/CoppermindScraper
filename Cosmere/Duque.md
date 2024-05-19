@@ -10,6 +10,7 @@ El título de este artículo no es canon y ha sido creado por un fan ya que toda
 |**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 El **padre de Charlie** es el **duque** de [[Punta de Diggen\|Punta de Diggen]]. Se preocupa poco por su hijo y, en especial, desaprueba su relación con [[Trenza\|Trenza]].
 
