@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 Para otros usos de la palabra Chip, ver [[Chip\|Chip]].
 **Chip Erikell** es un criminal inculpado en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].

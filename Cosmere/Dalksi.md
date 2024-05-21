@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“* What! I misspelled three words in the first paragraph alone!*”
 \- Dalksi al mencionar su aplicación para convertirse en Supremo[1]

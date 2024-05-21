@@ -13,7 +13,7 @@
 \-Teft[1]
 
 
-Los **abismoides** (Parshendi: *Nulo mas vara*, se traduce como *monstruo de los abismos*) son enormes [[Grancaparaz%C3%B3n\|grancaparazones]] nativos de los abismos de las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
+Los **abismoides** (Oyente: *Nulo mas vara*, se traduce como *monstruo de los abismos*) son enormes [[Grancaparaz%C3%B3n\|grancaparazones]] nativos de los abismos de las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
 
 ## Sumario
 

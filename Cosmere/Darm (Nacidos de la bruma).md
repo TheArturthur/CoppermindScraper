@@ -3,9 +3,11 @@
 
 |**Darm**|
 |-|-|
-|**Fallecido**|[[Subasta de Winsting Innate\|Subasta de Winsting Innate]]|
+|**Fallecido**|[[Subasta de Winsting Innate\|Subasta de Winsting Innate]], 342 [[Catacendro\|PC]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
+
 Para la mujer de la limpieza de la [[Academia Armedius\|Academia Armedius]], ver [[Darm (Rithmatista)\|Darm (Rithmatista)]].
 **Darm** es un criminal en [[Scadrial\|Scadrial]].
 Está presente en la subasta de [[Winsting Innate\|Winsting Innate]], y uno de los guardias de [[Winsting Innate\|este]] afirma que Darm es el primero en empezar a disparar, refutando a otro guardia que dice que fue [[Dowser Maline\|Dowser]].

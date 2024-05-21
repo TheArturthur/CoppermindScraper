@@ -11,7 +11,7 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-El ***Canto del cuervo*** es un barco pirata de Lumar capitaneado en un principio por [[Cuervo\|Cuervo]], y después tomado por [[Trenza\|Trenza]] en *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*.
+El ***Canto del cuervo*** es un barco pirata de [[Lumar\|Lumar]] capitaneado en un principio por [[Cuervo\|Cuervo]], y después tomado por [[Trenza\|Trenza]].
 
 ## Sumario
 
@@ -66,7 +66,7 @@ Unos pocos meses más tarde, Trenza vende el *Canto del cuervo* y consigue que e
 [[Pakson\|Pakson]]
 
 ### Dougs
-El *Canto del cuervo* tiene otros 52 miembros de la tripulación, que [[Hoid\|Hoid]] no encontraba lo suficientemente importantes al contar *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]* como para nombrarlos individualmente, por lo que se refiere a ellos como Dougs. Elige llamaros a todos así porque el nombre es extremadamente común por todo el [[Cosmere\|Cosmere]], y porque [[Doug\|una de ellos]] realmente se llama Doug.
+El *Canto del cuervo* tiene otros cincuenta y dos miembros de la tripulación, que [[Hoid\|Hoid]] no encontraba lo suficientemente importantes al contar la historia como para nombrarlos individualmente, por lo que se refiere a ellos como Dougs. Elige llamaros a todos así porque el nombre es extremadamente común por todo el [[Cosmere\|Cosmere]] y porque [[Doug\|una de ellos]] realmente se llama Doug.
 
 ## Notas
 

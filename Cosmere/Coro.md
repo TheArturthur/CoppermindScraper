@@ -7,8 +7,6 @@
 |**Mundo de origen**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 >“*Fuimos los primeros que morimos en Cántico. Los primeros que vivimos en esta tierra y concebimos los diseños para el vuelo, basados en las naves que nos trajeron aquí. Pero entonces morimos y nos alzamos como umbras. Recordando.*”
 \-Una umbra en el Coro en Baliza[1]
 
@@ -33,8 +31,8 @@ Tras la migración original a Cántico, los primeros trenoditas que morían se c
 
 ## Cultura
 Cada asentamiento de Cántico tiene su propio Coro, guardado en una cámara de contención especializada llamada Relicario, un cilindro de cristal con la parte superior abierta. El Relicario suele estar situado en el centro de un asentamiento. El Coro puede dividirse entre asentamientos transfiriendo parte de la [[Investidura\|humo]] de su Relicario, esto se hace con la fundación de cualquier nuevo asentamiento.
-Los habitasntes de Cántico creen que las personas que mueren sin ser entregadas al sol se unen al Coro. A veces ven brumas que se acumulan tras una muerte, que luego se trasladan al Relicario del asentamiento al que estaba asociado ese individuo. Ocasionalmente, una persona que murió sin convertirse en un [[Sol coraz%C3%B3n\|sol corazón]] es visible dentro del Coro.
-Cada Coro guarda la historia de aquellos que huyeron al planeta, también son fundamentales para mantener vivos a los habitantes de Cántico.
+Los habitantes de Cántico creen que las personas que mueren sin ser entregadas al sol se unen al Coro. A veces ven brumas que se acumulan tras una muerte, que luego se trasladan al Relicario. Esta creencia podría originarse en el Coro en sí mismo, ya que dice cómo es creado por aquellos que primero murieron en Cántico y que el resto debían ser entregados al sol para prevenir que el pequeño planeta se llene de umbras. Sin embargo, esta creencia es errónea, ya que aquellos que mueren en Cántico, ya sea por el sol o de otra manera, se convierten en [[Sol coraz%C3%B3n\|soles corazón]] y no se vuelven parte del Coro. No está claro si el Coro miente de forma intencionada, si es que son ignorantes sobre las mecánicas del sistema, o si algo ha cambiado desde que fue creado de lo que no son conscientes.
+Cada Coro guarda la historia de aquellos que huyeron al planeta y también son fundamentales para mantener vivos a los habitantes de Cántico.
 
 ## Habilidades
 >“*Las umbras no recuerdan. No somos umbras. Somos el Coro del pueblo.*”

@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Dallet** actúa como el segundo en comando en el escuadrón de [[Kaladin\|Kaladin]] durnate su tiempo como líder de escuadrón en el ejército del [[Amaram\|brillante señor Amaram]].
 Mientras luchaban en una batalla a cuentas de una disputa menor sobre la frontera contra los [[Veden\|veden]], Dallet es asesinado de sopetón por [[Helaran Davar\|Helaran Davar]], quien había recibido una hoja y armadura esquirladas de los [[Rompedores del Cielo\|Rompedores del Cielo]] y estaba allí por razones desconocidas. La culpa de la muerte de Dallet persigió a Kaladin hasta que juró el [[/wiki/Orden de los Corredores del Viento#El Cuarto Ideal]], aceptando que no podía salvar a todo el mundo.

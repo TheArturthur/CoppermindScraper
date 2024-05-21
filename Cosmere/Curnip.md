@@ -6,9 +6,11 @@
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-Los **curnips** son un tipo de [[Rocabrote\|rocabrote]] nativo de [[Roshar\|Roshar]]. Se cultivan como vegetales.
-Durante una visión de las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], [[Dalinar\|Dalinar]] identificó algunas plantas como curnips, implicando que siguen existiendo en la Roshar moderna.
+Los **curnips** son un tipo de [[Rocabrote\|rocabrote]] nativo de [[Roshar\|Roshar]]. Se cultivan como vegetales. No está claro si están relacionados con los [[Lurnip\|lurnips]], otra planta comestible en Roshar.
+Mientras experimenta la [[Visiones\|visión]] de las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], [[Dalinar\|Dalinar]] identifica algunas plantas como curnips, lo que implica que se siguen cultivando en Roshar durante la [[Era de la Soledad\|Era de la Soledad]], posiblemente en la nación de la que procede Dalinar, [[Alezkar\|Alezkar]].
 
+## Curiosidades
+Algunas versiones de *El camino de los reyes* hacen referencia a estas plantas como «turnip», pero se corrigió posteriormente, siendo «curnip» la palabra utilizada en la edición en piel.
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.

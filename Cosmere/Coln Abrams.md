@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 **Coln Abrams** era un agente de la [[Oficina de Inteligencia de Gobiernos Unidos\|Oficina de Inteligencia de Gobiernos Unidos]] que investigaba a la [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] y seguía a [[Jason Write\|Jason Write]] con la esperanza de descubrir cómo viajar más rápido que la luz. La OIGU había decidido abandonar sus investigaciones sobre Jason, por lo que Coln robó algunos equipos y fue en contra de las órdenes. Jason no tardó en encontrar a Coln y le permitió seguirle. Él aceptó, pues no tenía otra opción, aunque seguía guardando rencor a Jason.
 

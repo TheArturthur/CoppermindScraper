@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Dalar** es el sargento de las reservas en el ejercito del alto mariscal [[Meridas Amaram\|Meridas Amaram]] en [[Alethkar\|Alethkar]], [[Roshar\|Roshar]], al servicio del [[Principado Sadeas\|principado Sadeas]].
 

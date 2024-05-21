@@ -7,6 +7,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*Mando de Vuelo, un bombardero se dirige al astillero. Lleva una aniquiladora.*”
 \-Capa informando a la almirante Férrea.[1]

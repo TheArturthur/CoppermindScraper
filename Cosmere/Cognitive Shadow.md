@@ -6,15 +6,13 @@
 |**Tipo**|Entidad mágica|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Y si dejas que un hombre muera con un alma demasiado Investida — o si la Invistes justo cuando está muriendo, dejará atrás una sombra que luego puedes volver a clavar en un cuerpo.*”
 \-Descripción de Zahel de una sombra cognitiva.[1]
 
 
-**Sombra cognitiva** es un término usado para referirse a un espíritu que todavía no ha partido a la otra vida. Mientras las manifestaciones de este tipo de entidades pueden variar dependiendo del [[Mundo esquirlado\|mundo]] en el que ocurre, las sombras cognitivas pueden darse en cualquier planeta del [[Cosmere\|Cosmere]]. [[Vasher\|Vasher]] se refiere a ellas como Entidades Investidas de tipo Dos.
+**Sombra cognitiva**, también conocida como **Entidades Investidas de tipo Dos**, es un término usado para referirse a un espíritu que todavía no ha partido a la otra vida. Mientras las manifestaciones de este tipo de entidades pueden variar dependiendo del [[Mundo esquirlado\|mundo]] en el que ocurre, las sombras cognitivas pueden darse en cualquier planeta del [[Cosmere\|Cosmere]].
 
 ## Sumario
 

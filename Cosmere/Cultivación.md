@@ -105,7 +105,7 @@ Cultivación ha sido honrada en [[Roshar\|Roshar]] durante mucho tiempo, al meno
 Cultivación también es muy reverenciada por los [[Cultivacispren\|cultivacispren]]. Aunque la relación exacta entre ellos no está clara, a menudo se refieren a ella como Madre o Madre Bendita, y solo a veces por su verdadero nombre. "Por las enredaderas de la Madre" parece ser una maldición relacionada con Cultivación.
 
 ## Curiosidades
-Cultivación es una de las únicas cuatro personas que habla en versalitas, siendo las otras tres: [[Odium\|Odium]], [[Syl\|Syl]], y [[Dalinar\|Dalinar]].
+Cultivación es una de las únicas cinco personas que ha hablado en versalitas, siendo las otras cuatro: [[Odium\|Odium]], [[Syl\|Syl]],, [[Dalinar\|Dalinar]] y el [[Padre Tormenta\|Padre Tormenta]].
 En el juego ** el color de Cultivación sería el verde.
 Cultivación nunca se ha llevado bien con [[Hoid\|Hoid]].
 ## Notas del traductor

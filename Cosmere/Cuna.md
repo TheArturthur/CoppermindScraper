@@ -8,6 +8,7 @@
 |**Grupo**|[[Departamento de Integraci%C3%B3n de Especies\|Departamento de Integración de Especies]], la [[Supremac%C3%ADa\|Supremacía]]|
 |**Mundo natal**|[[Visi%C3%B3n Estelar\|Visión Estelar]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Estelar\|Estelar]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

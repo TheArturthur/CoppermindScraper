@@ -6,6 +6,7 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“* Tómala. Es tuya. [[Padre Tormenta\|Padre Tormenta]], [[Kaladin\|Kaladin]]. ¡Eres un [[Portador de esquirlada\|portador de esquirlada]]!*”
 \- Coreb instando a Kaladin a tomar la hoja esquirlada[1]

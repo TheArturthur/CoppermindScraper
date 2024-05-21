@@ -3,9 +3,11 @@
 
 |**Corbin**|
 |-|-|
+|**Apodos**|Identificador: Gatero|
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[Estelar\|Estelar]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

@@ -325,7 +325,7 @@ Esto supuso un contundente golpe al ejército de Sadeas y se saldó con la ejecu
 
 #### La caída de Kholinar (1173)
 Ya muy avanzada la guerra de la Venganza, después de que [[Navani Kholin\|Navani Kholin]] dejara a [[Aesudan\|Aesudan]] al mando por su cuenta al considerarla capaz de gobernar sin su consejo, se infiltraron en Kholinar los Deshechos [[Ashertmarn\|Ashertmarn]], [[Sja-anat\|Sja-anat]] y [[Yelig-nar\|Yelig-nar]]. Estos Deshechos provocaron que Aesudan cayera en un abismo de decadencia, instándola a organizar lujosos festejos mientras la sociedad de Kholinar colapsaba a su alrededor; Sja-anat corrompió a los spren de la ciudad y Yelig-nar se vinculó con Aesudan, que no fue capaz de lidiar con ello y acabó muriendo.
-Los eventos transcurridos en Kholinar sirvieron como base del , así como su consiguiente caída y ocupación por parte de las fuerzas de Fusionados.
+Los eventos transcurridos en Kholinar sirvieron como base del [[Asedio a Kholinar\|asedio a Kholinar]], así como su consiguiente caída y ocupación por parte de las fuerzas de Fusionados.
 
 #### Batalla de la Torre (Tanatashev 1173)
 Para más información, ver [[Batalla de la Torre\|Batalla de la Torre]].
