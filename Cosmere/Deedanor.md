@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 El Capitán **Deedanor** es un hombre [[Alezi\|alezi]] que lidera el pelotón de la Séptima Compañía de la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
 El segundo al mando de Deedanor era el teniente [[Noromin\|Noromin]], quien comandaba la compañía en caso de ausencia de Deedanor.

@@ -9,12 +9,13 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Somos patriotas, como he dicho antes. Patriotas de Alezkar. El Alezkar que **podría** ser.*”
 \-Graves[2]
 
 
-**Graves** es un [[Portador de esquirlada\|portador de esquirlada]] [[Alezi\|alezi]] y miembro del [[Diagrama (grupo)\|Diagrama]], que orquestó varios intentos de asesinato contra [[Elhokar Kholin\|Elhokar Kholin]].
+**Graves** es un [[Portador de esquirlada\|portador de esquirlada]] [[Alezi\|alezi]] y miembro del [[Diagrama (grupo)\|Diagrama]], que orquestó varios intentos de asesinato contra el rey [[Elhokar Kholin\|Elhokar Kholin]].
 
 ## Sumario
 
@@ -30,17 +31,17 @@
 
 
 ## Apariencia y personalidad
-Graves es un hombre alezi de [[Ojos claros\|ojos claros]] y veintitantos años, con el pelo negro azabache muy bien peinado. Suele ir impecablemente vestido. Afirma ser un patriota alezi.
+Graves es un hombre [[Alezi\|alezi]] de [[Ojos claros\|ojos claros]] y veintitantos años, con el pelo negro azabache muy bien peinado. Suele ir impecablemente vestido. Afirma ser un patriota alezi.
 Tiene un conjunto de esquirlas (tanto [[Armadura esquirlada\|armadura]] como [[Hoja esquirlada\|hoja]]). [[Moash\|Moash]] menciona que Graves es un excelente tirador con arco y flecha.
 Graves está casado con una mujer [[Ojos oscuros\|ojos oscuros]], y tiene varios hijos; uno de los cuales es un "único-ojo", presumiblemente afectado por . Trata a todos los hombres por igual, independientemente del color de sus ojos, y, según Moash, no le importa lo que piensen de él.
 
 ## Historia
 ### El Diagrama
-Graves se convirtió en miembro del [[Diagrama (grupo)\|Diagrama]] en un momento desconocido del pasado y desarrolló relaciones con [[Taravangian\|Taravangian]] y otros miembros clave. No estaba de acuerdo con la postura de Taravangian de que [[Dalinar Kholin\|Dalinar Kholin]] tenía que ser asesinado; en lugar de creer que debían dejar que el alto príncipe pudiese asumir el poder tras el asesinato de [[Elhokar Kholin\|Elhokar Kholin]]. Taravangian permitió a Graves desarrollar libremente su propia interpretación del Diagrama.
+Graves se convirtió en miembro del [[Diagrama (grupo)\|Diagrama]] en un momento desconocido del pasado y desarrolló relaciones con [[Taravangian\|Taravangian]] y otros miembros clave. No estaba de acuerdo con la postura de Taravangian de que [[Dalinar Kholin\|Dalinar Kholin]] tenía que ser asesinado; en lugar de creer que debían dejar que el [[Alto pr%C3%ADncipe\|alto príncipe]] pudiese asumir el poder tras el asesinato de [[Elhokar Kholin\|Elhokar Kholin]]. Taravangian permitió a Graves desarrollar libremente su propia interpretación del Diagrama.
 
 ### Intentos de asesinato
-En las [[Llanuras Quebradas\|Llanuras Quebradas]], Graves empezó a trabajar con [[Danlan\|Danlan]], [[Febrth\|Febrth]], [[Fia\|Fia]], y [[Rill\|Rill]] para preparar el asesinato de Elhokar. Tras reclutar a Moash, con quien entró en contacto a través de Rill, Graves pudo atentar por primera vez contra la vida del rey.
-El primer complot consistió en debilitar la barandilla del balcón de los aposentos del rey y permitir que éste cayese "accidentalmente" al vacío. La barandilla fue cortada con una hoja esquirlada, presumiblemente por el propio Graves, poco después de una tormenta, cuando Moash tuvo la oportunidad de dejar pasar discretamente al saboteador. Sin embargo, Elhokar pudo agarrarse a la barandilla cuando ésta cedió y fue rescatado por sus guardias. [[Kaladin\|Kaladin]] valora este plan como cobarde y estúpido, ya que no se enfrentó directamente al rey y podría haber herido a otra persona con la misma facilidad.
+En las [[Llanuras Quebradas\|Llanuras Quebradas]], Graves empezó a trabajar con [[Danlan Morakotha\|Danlan Morakotha]], [[Febrth\|Febrth]], [[Fia\|Fia]], y [[Rill\|Rill]] para preparar el asesinato de Elhokar. Tras reclutar a [[Moash\|Moash]], con quien entró en contacto a través de Rill, Graves pudo atentar por primera vez contra la vida del rey.
+El primer complot consistió en debilitar la barandilla del balcón de los aposentos del rey y permitir que éste cayese "accidentalmente" al vacío. La barandilla fue cortada con una [[Hoja esquirlada\|hoja esquirlada]], presumiblemente por el propio Graves, poco después de una [[Alta tormenta\|alta tormenta]], cuando Moash tuvo la oportunidad de dejar pasar discretamente al saboteador. Sin embargo, Elhokar pudo agarrarse a la barandilla cuando ésta cedió y fue rescatado por sus guardias. [[Kaladin\|Kaladin]] valora este plan como cobarde y estúpido, ya que no se enfrentó directamente al rey y podría haber herido a otra persona con la misma facilidad.
 
 >“*No queríamos mancharnos las manos con la sangre del rey, queríamos que pareciera un accidente, pero he comprendido que es una cobardía. Yo mismo lo haré. Todo lo que quiero es una oportunidad, y el sufrimiento de Alezkar habrá terminado.*”
 \-Graves pidiendo ayuda a Kaladin[2]

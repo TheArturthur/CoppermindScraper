@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Torio\|de Torio]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **cuarto académico torés** es uno de los eruditos de [[Torio\|Torio]] del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] que participa en la creación de la [[M%C3%A1quina padre\|máquina padre]] y que más tarde es enviado por la máquina para impedir que [[Yumi\|Yumi]] escape de su prisión.

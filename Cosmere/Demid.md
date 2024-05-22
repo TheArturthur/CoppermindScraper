@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Nuestros antepasados dejaron atrás la civilización, el poder y la fuerza para asegurar la libertad. No voy a renunciar a eso, Eshonai.*”
 \- Demid[2]

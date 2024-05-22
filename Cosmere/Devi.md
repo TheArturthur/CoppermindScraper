@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Devi** es un explorador [[Oyente\|oyente]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] en [[Roshar\|Roshar]].
 A finales del 1173, Devi fue el primer miembro del equipo de ataque de [[Eshonai\|Eshonai]] en avistar una crisálida de [[Abismoide\|abismoide]] en las Llanuras. Después de que los parshendi ganasen la [[Gema coraz%C3%B3n\|gema corazón]], se le permitió llevarla de vuelta a él mismo como recompensa por ser el primero en ver la crisálida.

@@ -9,6 +9,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Getrue** es un mercader [[Skaa\|skaa]] y miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]] tras el [[Colapso\|Colapso]] en [[Scadrial\|Scadrial]].
 

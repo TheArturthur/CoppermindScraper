@@ -6,6 +6,7 @@
 |**Oficio**|Carretero|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 Guff es un  y caravanero malhablado de [[Roshar\|Roshar]].
 Guff es un hombre mayor que mide media caña y tiene algún tipo de lesión que afecta a su forma de andar y moverse. Es probable que tenga el acento asociado a los caravaneros.

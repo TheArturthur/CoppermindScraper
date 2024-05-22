@@ -11,6 +11,8 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
+
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 **El hijo de Delius** es el hijo del [[Lord almirante\|lord almirante]] [[Delius\|Delius]], y sirve como su mayordomo.
 

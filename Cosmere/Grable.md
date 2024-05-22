@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Grable es dueño de este restaurante, princesa. No me extrañaría que al menos uno de cada dos hombres aquí presentes fuera guardaespaldas suyo.*”
 \-Tonk Fah[1]

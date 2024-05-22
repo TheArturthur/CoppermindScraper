@@ -12,7 +12,7 @@
 |**Capacidades**|[[Alomancia\|Nacido de la bruma]]|
 |**Títulos**|Rey del [[/wiki/Dominio#Dominio Central]] Alto emperador del [[Nuevo Imperio\|Nuevo Imperio]]Último Emperador|
 |**Religión**|[[Supervivencialismo\|Supervivencialismo]]|
-|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture|
+|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture, [[Asamblea de Luthadel\|Asamblea de Luthadel]]🐱︎|
 |**Residencia**|[[Luthadel\|Luthadel]]|
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|

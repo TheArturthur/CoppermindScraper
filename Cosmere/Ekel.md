@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Ekel** es uno de los guardias de la [[Casa Davar\|casa Davar]] en su residencia en [[Jah Keved\|Jah Keved]], en [[Roshar\|Roshar]].
 Ekel y otro guardia llamado [[Jix\|Jix]] estaban presentes cuando [[Mill\|Mill]] intentó cobrar las deudas de las apuestas de [[Jushu Davar\|Jushu Davar]] a su padre, [[Lin\|Lin]]. Ekel y Jix estaban armados, pero no tuvieron que pelear, ya que Lin se negó a pagar la enorme deuda y le dijo a Mill que podía llevarse a Jushu. Después de que Mill se fuese, es probable que Ekel regresase a su puesto en los terrenos de la mansión.

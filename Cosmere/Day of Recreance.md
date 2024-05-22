@@ -13,7 +13,7 @@
 \-Palabras radiantes capítulo 38, página 6[1]
 
 
-El **Día de la Traición** fue el último acto de los [[Caballeros Radiantes\|Caballeros Radiantes]]. Nueve de las diez órdenes abandonaron sus [[Hoja esquirlada\|hojas]] y [[Armadura esquirlada\|armaduras esquirladas]] y rompieron sus juramentos, lo que mató a sus [[Spren\|spren]]. La [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]] fue la única que no participó, sino que sus miembros se escondieron. Durante unos dos mil años, el motivo de la traición fue desconocido hasta que se redescubrió en [[Eila Stele\|Eila Stele]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
+El **Día de la Traición** fue el último acto de los [[Caballeros Radiantes\|Caballeros Radiantes]], cerca de dos mil años antes de la Auténtica Desolación. Nueve de las diez órdenes abandonaron sus [[Hoja esquirlada\|hojas]] y [[Armadura esquirlada\|armaduras esquirladas]] y rompieron sus juramentos, lo que mató a sus [[Spren\|spren]]. La [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]] fue la única que no participó, sino que sus miembros se escondieron. Durante unos dos mil años, el motivo de la traición fue desconocido hasta que se redescubrió en [[Eila Stele\|Eila Stele]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
 
 ## Sumario
 

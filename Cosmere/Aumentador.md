@@ -68,7 +68,7 @@ Un **fabrial** es un dispositivo mecánico alimentado por [[Luz\|luz]], que prov
 3. [[#Reloj de tormentas]] 
 3. [[#Columna de gemas]] 
 3. [[#Dispositivo de transferencia de luz tormentosa]] 
-3. [[#Detector de sombras de Treno]] 
+3. [[#Detector de umbras de Treno]] 
 
 
 
@@ -208,10 +208,11 @@ Hay una columa de gemas en los niveles inferiores de [[Urithiru\|Urithiru]] que 
 #### Dispositivo de transferencia de luz tormentosa
 Estos dispositivos permiten mover luz tormentosa entre gemas, y son utilizados por los cambistas de [[Celebrant\|Celebrant]] para transferir luz tormentosa a [[/wiki/Piedrabase#Gemas perfectas]].
 
-#### Detector de sombras de Treno
+#### Detector de umbras de Treno
 Los [[Ire\|Ire]] tienen un dispositivo capaz de detectar [[Sombra cognitiva\|sombras cognitivas]] de [[Treno\|Treno]], tal vez un dispositivo similar al fabrial alertador de Roshar.
 
 ## Curiosidades
+Los fabriales se originaron en el libro incompleto *[[Mythwalker\|Mythwalker]]*.
 Es posible crear el equivalente a un ordenador con fabriales.
 El término "fabrial" llegará, en algún punto, a ser utilizado para todos los elementos mecánicos alimentados por magia del [[Cosmere\|Cosmere]], como el mecanismo que elige a los [[Elantrino\|elantrinos]].
 ## Notas

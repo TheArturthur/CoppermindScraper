@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Rira\|de Rira]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Disfruta del momento. Cierra los ojos y contempla lo que el Único te ha concedido. Busca la paz del olvido, y regocíjate en el deleite de tu propia sensación.*”
 \-Evi.[3]

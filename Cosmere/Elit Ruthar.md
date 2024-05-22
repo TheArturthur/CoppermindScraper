@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Mi primo está planeando matarte por haberme desafiado. Después de matarme por aceptar el desafío. Pero cuando te aplaste en la arena y reclame todas las esquirlas de tu familia, seré rico y a él lo olvidarán. ¿Que si estoy preparado para el duelo? Lo espero anhelante, Adolin Kholin.*”
 \-Elit[1]

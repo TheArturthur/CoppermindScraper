@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Gennel** es el actual [[Lord granjero\|lord granjero]] de [[Lossand\|Lossand]]. Es el taisha encargado del [[Campo\|Campo]]. Reside en el Congreso de Granjeros y dirige la industria agrícola de Lossand.
 

@@ -3,20 +3,32 @@
 
 |**Droz**|
 |-|-|
-|**Fallecido**|*[[Primeros Sue%C3%B1os\|Primeros Sueños]]*|
+|**Fallecido**|*[[Primeros Sue%C3%B1os\|Primeros Sueños]]*, Jesach 1174|
 |**Oficio**|Marinero|
 |**Nacionalidad**|[[De Liafor\|de Liafor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Droz** es el timonel del barco *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* en [[Roshar\|Roshar]].
 
+## Sumario
+
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
+
+
 ## Apariencia y personalidad
-Droz es [[Liaforano\|liaforano]]. Es larguirucho y su piel y ojos son marrones oscuros. Está interesado en la línea real de [[Kaza\|Kaza]] y su [[Sabio\|sabiduría]] sobre el [[Moldear almas\|moldeado de almas]], y entabla una conversación con ella antes de que lo ahuyente. Como timonel, logra dirigir con éxito el *Primeros Sueños* a través de una tormenta furiosa.
+Droz es [[Liaforano\|liaforano]]. Es larguirucho y su piel y ojos son marrones oscuros. Está interesado en la línea real de [[Kaza\|Kaza]] y su [[Sabio\|sabiduría]] sobre el [[Moldear almas\|moldeado de almas]], y entabla una conversación con ella antes de que lo ahuyente.
+
+## Atributos y habilidades
+Es un timonel de gran habilidad, ya que logra dirigir con éxito el *Primeros Sueños* a través de una tormenta furiosa.
 
 ## Historia
-Droz acompaña a su capitán [[Vazrmeb\|Vazrmeb]] en busca de un supuesto tesoro oculto en la isla de [[Akinah\|Akinah]] en [[Aimia\|Aimia]]. Está ansioso por emprender el peligroso viaje porque cree que "generaciones" de [[Grancaparaz%C3%B3n\|grancaparazones]] han dejado sus [[Gema coraz%C3%B3n\|gemas corazón]] en la isla.
-El *Primeros Sueños* navega hacia el norte desde [[Liafor\|Liafor]] con una tripulación de mercenarios y se encuentra con una intensa tormenta en el [[Mar de Aimia\|Mar de Aimia]] que termina abruptamente cerca de Akinah. Droz logra mantener el barco a flote, aunque algunos miembros de la tripulación son arrojados por la borda. Aborda una de las balsas del barco en un intento de llegar a la isla, pero es envenenado y asesinado junto con el resto de la tripulación por el cocinero del barco, un nativo [[Dysian aimiano\|dysian aimiano]] que se hace pasar por humano.
+Droz acompañó a su capitán [[Vazrmeb\|Vazrmeb]] en busca de un supuesto tesoro oculto en la isla de [[Akinah\|Akinah]] en [[Aimia\|Aimia]]. Está ansioso por emprender el peligroso viaje ya que creía los rumores de que "generaciones" de [[Grancaparaz%C3%B3n\|grancaparazones]] habían dejado sus [[Gema coraz%C3%B3n\|gemas corazón]] en la isla.
+El *Primeros Sueños* navegó hacia el norte desde [[Liafor\|Liafor]] con una tripulación de mercenarios y se encontró con una intensa tormenta en el [[Mar de Aimia\|Mar de Aimia]] que terminó abruptamente cerca de Akinah. Droz logró mantener el barco a flote, aunque algunos miembros de la tripulación fueron arrojados por la borda. Abordó una de las balsas del barco en un intento de llegar a la isla, pero fue envenenado y asesinado junto con el resto de la tripulación por el cocinero del barco, un nativo [[Dysian aimiano\|dysian aimiano]] que se hací pasar por humano.
 
 ## Notas
 

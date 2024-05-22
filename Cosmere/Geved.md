@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Geved** es un soldado veterano de [[Jah Keved\|Jah Keved]], en [[Roshar\|Roshar]].
 

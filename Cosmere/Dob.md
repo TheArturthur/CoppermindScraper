@@ -5,6 +5,7 @@
 |**Oficio**|Mozo de cuadra|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 >“* Soy idiota, señora mía, pero no tonto.*”
 \- Dob[1]

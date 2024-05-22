@@ -3,13 +3,13 @@
 
 |**Davim**|
 |-|-|
-|**Capacidades**|[[Regal\|Formas de poder]]|
 |**Grupo**|[[Consejo de los Cinco\|Consejo de los Cinco]]🐱︎|
 |**Especie**|[[Cantor\|Cantor]]|
 |**Residencia**|[[Narak\|Narak]]|
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“* We must be unified in this decision. I will accept nothing else.*”
 \- Davim about taking on stormform[1]

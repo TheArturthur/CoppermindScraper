@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Ethid** es una vástago en [[Azir\|Azir]], en [[Roshar\|Roshar]], durante la [[Era de la Soledad\|Era de la Soledad]].
 La vástago Ethid probablemente pasó mucho tiempo deambulando de pueblo en pueblo en Azir, bendiciendo a cada uno de ellos. En 1173, La vástago Ethid asistió al sagrado cónclave en el [[Palacio de Bronce\|Palacio de Bronce]] de [[Azimir\|Azimir]] para elegir a un nuevo [[Aqasix Supremo\|Aqasix Supremo]]. Un [[Visir\|visir]] le pidió a Ethid que escribiese una plegaria de guía a [[Yaezir\|Yaezir]] pidiéndole ayuda para elegir a un Supremo correcto, ya que los os anteriores habían sido asesinados por el [[Szeth\|Asesino de Blanco]].

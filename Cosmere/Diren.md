@@ -12,7 +12,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
-**Diren** era un [[Elantrino\|elantrino]] en [[Sel\|Sel]].
+**Diren** es un [[Elantrino\|elantrino]] en [[Sel\|Sel]].
 Antes de su [[Shaod\|Shaod]] trabajó en la [[Plantaci%C3%B3n de Aor\|Plantación de Aor]]. Después de unos ocho meses es llevado a [[Hrathen\|Hrathen]] para ser interrogado y así poder aprender sobre Elantris. Después de esto es capturado por [[Dilaf\|Dilaf]], que le hace varios cortes profundos en la cara, lo que lleva a Diren a perder la cordura.
 Casi es ejecutado por [[Dilaf\|Dilaf]] en medio de una reunión, lo que es detenido por [[Hrathen\|Hrathen]] para asegurarse de que la multitud no entre en un fervor incontrolable. Diren es entonces sacado de su miseria por [[Hrathen\|Hrathen]] personalmente.
 

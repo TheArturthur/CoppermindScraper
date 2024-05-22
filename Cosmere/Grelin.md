@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Grelin** es el secretario del lord mercader [[Vey\|Vey]].
 

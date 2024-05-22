@@ -3,7 +3,7 @@
 
 |**Florin Malin**|
 |-|-|
-|**Fallecido**|c. 342 [[Catacendro\|PC]] |
+|**Fallecido**|c. 342 [[Catacendro\|PC]]|
 |**Oficio**|Ministro de Ciencia y Tecnología|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|

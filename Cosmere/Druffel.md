@@ -5,6 +5,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Druffel**, a veces llamado **Druff**, es un [[Skaa\|skaa]] de [[Vetitan\|Vetitan]] en [[Scadrial\|Scadrial]].
 

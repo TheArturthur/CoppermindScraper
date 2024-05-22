@@ -3,10 +3,9 @@
 |**Galladon**|
 |-|-|
 ||
-|**Familia**|
 |**Padres**|[[Padre de Galladon\|Padre]]|
 |**Capacidades**|[[Elantrino\|Elantrino]], [[Saltamundos\|Saltamundos]]|
-|**Apodos**|Dendo, Gruñón, Temoo|
+|**Apodos**|Dendo, Gruñón|
 |**Grupo**|[[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]🐱︎|
 |**Residencia**|[[Elantris (ciudad)\|Elantris]]|
 |**Etnia**|[[De Duladel\|de Duladel]]|

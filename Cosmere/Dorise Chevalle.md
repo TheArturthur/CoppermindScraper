@@ -6,6 +6,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 Lady **Dorise Chevalle** es residente de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 En el año 342 [[Catacendro\|PC]] durante una persecución al [[El Tirador\|Tirador]], [[Waxillium Ladrian\|Waxillium Ladrian]] hizo accidentalmente que el vehículo de Dorise se desviara hacia el canal. Wax fue capaz de salvar las vidas de Dorise y los otros pasajeros aplastando la parte delantera del coche contra el suelo, lo que destruyó el vehículo.

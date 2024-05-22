@@ -8,6 +8,7 @@
 |**Residencia**|[[Jokasha Monastery\|Jokasha Monastery]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Ellista** es una [[Fervoroso\|fervorosa]] y erudita en el [[Monasterio de Jokasha\|Monasterio de Jokasha]] en [[Jah Keved\|Jah Keved]], en [[Roshar\|Roshar]]. Es parte del [[/wiki/Vorinismo#Devotarios]].
 Ella es una lingüista diacrónica y una de las académicas involucradas en la traducción del [[Canto del alba\|Canto del alba]].
@@ -25,25 +26,25 @@ Ella es una lingüista diacrónica y una de las académicas involucradas en la t
 
 
 ## Apariencia y personalidad
-Como la mayoría de fervorosos, Ellista tiene la cabeza rapada. Nunca le gustó lidiar con su cabello, lo que lleva a sus padres a bromear diciendo que se convirtió en fervorosa solo para poder afeitárselo.
+Como la mayoría de [[Fervoroso\|fervorosos]], Ellista tiene la cabeza rapada. Nunca le gustó lidiar con su cabello, lo que lleva a sus padres a bromear diciendo que se convirtió en fervorosa solo para poder afeitárselo.
 
 >“*Una gran franja de árboles de allí fuera había quedado arrasada por la tormenta nueva, ¡pero no era motivo para que todos se alteraran tanto!*”
 \-Reflexiones de Ellista sobre la tormenta eterna[1]
 
-A Ellista no le gusta la interrupción ni la distracción y generalmente prefiere que la dejen sola. Tiene una actitud práctica y puede ser escéptica y crítica. Cuando escucha a otros fervorosos discutiendo sobre la [[Tormenta eterna\|tormenta eterna]] o hablando de eventos políticos en todo Roshar, no muestra interés. Cree que todos están exagerando con respecto a la tormenta eterna.
+A Ellista no le gusta la interrupción ni la distracción y generalmente prefiere que la dejen sola. Tiene una actitud práctica y puede ser escéptica y crítica. Cuando escucha a otros fervorosos discutiendo sobre la [[Tormenta eterna\|tormenta eterna]] o hablando de eventos políticos en todo [[Roshar\|Roshar]], no muestra interés. Cree que todos están exagerando con respecto a la tormenta eterna.
 Está bien versada en su campo y parece ser una investigadora y lingüista talentosa, ya que [[Urv\|Urv]] la llama "brillante" y señala que hace un progreso increíble al traducir fragmentos del Canto del alba recopilados por [[Bendthel\|Bendthel]].
 Es una fan de las epopeyas atrevidas [[Alezi\|alezi]].
 
 ## Historia
-Ellista se mudó al Monasterio Jokasha en algún momento antes de que [[Dalinar Kholin\|Dalinar Kholin]] comenzase a recibir visiones en 1173. Se considera afortunada de tener un lugar en Jokasha, ya que es un lugar deseado por muchos fervorosos. Antes de convertirse en fervorosa, pensaba que los académicos no discutían, pero desde entonces se ha dado cuenta de que era una idea equivocada.
+Ellista se mudó al  en algún momento antes de que el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] comenzase a recibir visiones en 1173. Se considera afortunada de tener un lugar en Jokasha, ya que es un lugar deseado por muchos fervorosos. Antes de convertirse en [[Fervoroso\|fervorosa]], pensaba que los académicos no discutían, pero desde entonces se ha dado cuenta de que era una idea equivocada.
 
 ### Trabajando en el *Canto del alba*
 >“*Mira, del documento se deduce a las clara que hubo un tiempo en que se empleaba el mismo sistema de escritura a lo largo y ancho de Roshar... No es una diáspora de textos, sino auténticas pruebas que terminaron escritas de forma natural en el *Canto del alba*.*”
 \-Ellista a Urv sobre el uso histórico del Canto del alba[1]
 
 
-Después de que [[Navani Kholin\|Navani Kholin]] proporcionase la clave del *Canto del alba* que recupera a través de las [[Visiones de Dalinar\|visiones de Dalinar]], varios eruditos en el monasterio, incluyendo a Ellista, comienzan a descifrar los antiguos textos que tenían en su posesión. Ellista se alegra de tener la información de Navani, pero se niega a creer que las visiones fuesen reales.
-La llegada de la tormenta eterna distrae a muchos fervorosos de su trabajo de traducción, pero Ellista persiste. Cree que ha encontrado evidencia de que el *Canto del alba* fue alguna vez utilizado como un lenguaje escrito unificado en la antigua Roshar, respaldando una teoría planteada por [[Jasnah Kholin\|Jasnah Kholin]] en *[[Reliquia y monumento\|Reliquia y monumento]]*. Ella discrepa vehementemente con argumentos anteriores (incluyendo los hechos por [[Fiksin\|Fiksin]]) que sostienen que todos los textos escritos en el *Canto del alba* tuvieron su origen en una sola región. A través de sus estudios, también ha logrado determinar que las catastróficas [[Desolaci%C3%B3n\|Desolaciones]] llevaron al abandono del *Canto del alba*. Las naciones individuales comenzaron a usar el *Canto del alba* para registrar fonéticamente su idioma hablado y más tarde desarrollaron sus propios glifos, abandonando por completo el *Canto del alba*.
+Después de que la reina [[Navani Kholin\|Navani Kholin]] proporcionase la clave del *Canto del alba* que recupera a través de las [[Visiones de Dalinar\|visiones de Dalinar]], varios eruditos en el monasterio, incluyendo a Ellista, comienzan a descifrar los antiguos textos que tenían en su posesión. Ellista se alegra de tener la información de Navani, pero se niega a creer que las visiones fuesen reales.
+La llegada de la [[Tormenta eterna\|tormenta eterna]] distrae a muchos [[Fervoroso\|fervorosos]] de su trabajo de traducción, pero Ellista persiste. Cree que ha encontrado evidencia de que el *Canto del alba* fue alguna vez utilizado como un lenguaje escrito unificado en la antigua [[Roshar\|Roshar]], respaldando una teoría planteada por [[Jasnah Kholin\|Jasnah Kholin]] en *[[Reliquia y monumento\|Reliquia y monumento]]*. Ella discrepa vehementemente con argumentos anteriores (incluyendo los hechos por [[Fiksin\|Fiksin]]) que sostienen que todos los textos escritos en el *Canto del alba* tuvieron su origen en una sola región. A través de sus estudios, también ha logrado determinar que las catastróficas [[Desolaci%C3%B3n\|Desolaciones]] llevaron al abandono del *Canto del alba*. Las naciones individuales comenzaron a usar el *Canto del alba* para registrar fonéticamente su idioma hablado y más tarde desarrollaron sus propios glifos, abandonando por completo el *Canto del alba*.
 
  
 ### Encuentro con Urv

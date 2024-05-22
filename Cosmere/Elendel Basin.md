@@ -32,9 +32,11 @@ La **Cuenca de Elendel** es una cuenca exhuberante y rica creada por [[Armon%C3%
 ### Geografía
 La tierra de la cuenca es un círculo perfecto, con la excepción de la costa oeste en el [[Mar de Yomend\|mar de Yomend]] y el [[Mar de Lennes\|mar de Lennes]]. Varias cadenas montañosas definen el borde exterior de la cuenca: la [[Cordillera de Channerel\|cordillera de Channerel]] al noroeste, la [[Cordillera de Faleast\|cordillera de Faleast]] al noreste y la [[Cordillera de Seran\|cordillera de Seran]] al sureste. Hay pasos que conducen a través de estas montañas hacia las escarpadas tierras fronterizas conocidas como los Áridos. La topografía de la cuenca es generalmente plana y abierta, aunque existen algunas áreas boscosas.
 La costa coincide con la que se ve en los mapas conocidos del [[Imperio Final\|Imperio Final]]. La península que contiene [[Bilming\|Bilming]] se puede ver en los mapas del [[Imperio Final\|Imperio Final]], justo al oeste del [[Monte de Ceniza\|Monte de Ceniza]] Doriel.
+Está situada algo al norte del ecuador.
 
 ### Elendel
 La cuenca gira en gran medida en torno a la ciudad de [[Elendel\|Elendel]]. La ciudad está ubicada cerca del centro de la cuenca y sirve como un puerto importante en el mar de Yomend. Los ríos que tiene, incluido el gran [[R%C3%ADo Puerta de Hierro\|río Puerta de Hierro]], están dispuestos como los radios de una rueda, de modo que cada uno atraviesa Elendel. De manera similar, las líneas ferroviarias reflejan vagamente los caminos de los ríos y casi todas las líneas atraviesan la capital. Elendel en sí es aproximadamente circular y está dividido en octantes por grandes canales, con suburbios que se encuentran fuera del núcleo urbano que se mezclan con un área agrícola conocida como los [[Estados Exteriores\|Estados Exteriores]].
+Elendel define el meridiano primario.
 
 ### Ciudades exteriores
 Otras ciudades de la cuenca se denominan colectivamente "ciudades exteriores". Cada ciudad tiene su propio carácter único, con diferentes tipos de industria según su ubicación y, en algunos casos, diferentes vestimentas y acentos.

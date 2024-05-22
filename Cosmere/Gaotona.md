@@ -8,12 +8,13 @@
 |**Nacionalidad**|[[Grande\|Grande]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El alma del emperador\|El alma del emperador]]*|
 
 >“*¿No es así como has forjado toda tu carrera? ¿Hablando con sinceridad, enseñando a la gente lo que debe esperar de ti y luego esperando que a cambio sean sinceros contigo?*”
 \-Shai sobre Gaotona.[1]
 
 
-**Gaotona** es un [[%C3%81rbitro\|árbitro]] de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] del [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]]. Destaca por ser el más influyente de los árbitros, debido al favor del emperador.
+**Gaotona** es un [[%C3%81rbitro\|árbitro]] de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] del [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]]. Destaca por ser el menos influyente de los árbitros, debido a que perdió el favor del emperador.
 
 ## Sumario
 

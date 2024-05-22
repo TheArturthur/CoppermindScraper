@@ -14,7 +14,7 @@
 |**Fallecido**|[[Asedio a Kholinar\|Asedio a Kholinar]] 1174, asesinado por [[Moash\|Moash]]|
 |**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]], [[Orden de los Tejedores de Luz\|Tejedor de Luz]]|
 |**Vinculado con**|[[Dise%C3%B1o\|Diseño]]|
-|**Títulos**|Rey de [[Alezkar\|Alezkar]]|
+|**Títulos**|Príncipe de Alezkar , Rey de [[Alezkar\|Alezkar]]|
 |**Residencia**|[[Kholinar\|Kholinar]]🐱︎ , [[/wiki/Las Llanuras Quebradas#Campamentos de guerra]]🐱︎ , [[Urithiru\|Urithiru]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
@@ -27,7 +27,7 @@
 \-Elhokar.[4]
 
 
-**Elhokar Kholin** es el rey de [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]] desde 1167 hasta su muerte en 1174, y el sobrino de [[Dalinar\|Dalinar]].
+**Elhokar Kholin** es el rey de [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]] desde 1167 hasta su muerte en 1174. Es hijo del rey [[Gavilar\|Gavilar]].
 
 ## Sumario
 

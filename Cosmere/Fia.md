@@ -7,6 +7,7 @@
 |**Grupo**|[[Diagrama (grupo)\|Diagrama]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Fia** es una miembro del [[Diagrama (grupo)\|Diagrama]] en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
 Fia acompañó a [[Febrth\|Febrth]], [[Moash\|Moash]], y [[Graves\|Graves]] en su viaje a través de las [[Tierras Heladas\|Tierras Heladas]] a [[Kharbranth\|Kharbranth]]. Fue asesinada en la tarde cuando los [[Fusionado\|Fusionados]] emboscaron su grupo.

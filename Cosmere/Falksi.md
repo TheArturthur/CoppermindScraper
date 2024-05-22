@@ -5,6 +5,7 @@
 |**Etnia**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Falksi** es una mujer azishiana ojos oscuros en [[Roshar\|Roshar]].
 

@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 Lady **Felise Demoux** es una noble que vive en [[Nueva Seran\|Nueva Seran]] en [[Scadrial\|Scadrial]].
 

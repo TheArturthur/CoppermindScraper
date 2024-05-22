@@ -43,7 +43,6 @@ Como Devoción fue astillada muy temprano en la prehistoria de [[Sel\|Sel]], se 
   Un <<Elantrino\|elantrino>> usando el <<Aon\|aon>> Rao
 ### El Dor
 Para más información, ver [[Dor\|Dor]].
-
 Cuando Odium astilló a Devoción y a Dominio, atrapó sus poderes en el [[Reino Cognitivo\|Reino Cognitivo]] para evitar que pudiesen conseguir otro Recipiente. Dado que, al contrario que en el [[Reino Espiritual\|Reino Espiritual]], la localización existe en el Reino Cognitivo, el poder de las dos Esquirlas está atrapado como una gigantesca tormenta polarizada de [[Investidura\|Investidura]] conocida como el [[Dor\|Dor]], lo cual hace que [[/wiki/Cosmere#Salamundos]] a Sel sea muy peligroso.
 La existencia del Dor tiene un profundo efecto en Sel, ya que en lugar de un único sistema de magia que abarque todo el planeta, éste cuenta con numerosos sistemas, cada uno de los cuales tiene su hogar en una región concreta, todos influenciados de alguna manera por ambas Esquirlas. Una similaridad subyacente a todos ellos parece ser la dependencia con la forma: todas las formas de acceder al Dor dependen de que el usuario cree una forma específica, a menudo basada en las características de la tierra asociada a cada magia concreta.
 Este vínculo entre la localización y la magia también implica que la posición física del usuario en relación a la región de origen del sistema influencie la fuerza de la magia, y alejarse de su origen disminuirá sus efectos. Además, para acceder a un sistema de magia, parece que hay que ser de la tierra asociada al mismo.
@@ -71,7 +70,7 @@ Para historia del Recipiente antes de convertirse en Esquirla, ver [[Aona\|Aona]
 \-Hoid[22]
 
 
-Poco se sabe sobre Devoción, ya que se astilló hace mucho tiempo. La Esquirla fue creada en la [[Fragmentaci%C3%B3n\|Fragmentación de Adonalsium]], junto con otras quince, y fue elegida por [[Aona\|Aona]]. Elle y [[Dominio\|Dominio]], por una razón desconocida, decidieron partir juntos hacia [[Sel\|Sel]], donde influenciaron de forma pasiva a un número de culturas locales, aunque finalmente decidió adoptar un enfoque más pasota del desarrollo humano. En algún momento temprano, [[Odium\|Odium]] llegó y, posiblemente con algo de ayuda de [[Autonom%C3%ADa\|Autonomía]], mató a ambas Esquirlas y las [[Astilla\|astilló]].
+Poco se sabe sobre Devoción, ya que se astilló hace más de 7700 años antes de la . La Esquirla fue creada en la [[Fragmentaci%C3%B3n\|Fragmentación de Adonalsium]], junto con otras quince, y fue elegida por [[Aona\|Aona]]. Elle y [[Dominio\|Dominio]], por una razón desconocida, decidieron partir juntos hacia [[Sel\|Sel]], donde influenciaron de forma pasiva a un número de culturas locales, aunque finalmente decidió adoptar un enfoque más pasota del desarrollo humano. En algún momento temprano, [[Odium\|Odium]] llegó y, posiblemente con algo de ayuda de [[Autonom%C3%ADa\|Autonomía]], mató a ambas Esquirlas y las [[Astilla\|astilló]].
 Una vez que los [[Recipiente\|Recipientes]] estaban muertos, los restos de las dos Esquirlas fueron empujadas juntas al [[Reino Cognitivo\|Reino Cognitivo]] de Sel para evitar que nadie tomase su poder o que los propios poderes ganaran conciencia propia; lo cual creó el [[Dor\|Dor]]. Este plan no fue del todo exitoso, ya que con el tiempo, el Dor ha comenzado a tomar conciencia de sí mismo.
 
 ## Influencia

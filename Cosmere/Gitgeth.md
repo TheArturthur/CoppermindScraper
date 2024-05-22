@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“* Los pequeños sinritmos quieren estar cerca de nosotros. Sienten que algo anda mal en sus mentes, te lo digo yo.*”
 \- Gitgeth sobre los parshmenios[1]

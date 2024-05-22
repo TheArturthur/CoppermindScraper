@@ -26,7 +26,7 @@
 
 
 ## Apariencia
-Como todas las hojas esquirladas alezi, Tormenta de Fuego es enorme, de unos 180cm de largo (6 pies). Tiene un mango largo y recto con un pomo en forma de anillo y sin guarda. Presumiblemente, hay alguna [[Piedrabase\|Piedrabase]] conectada en algún lugar de la empuñadura, pero el tipo y la ubicación de la gema son desconocidas. La forma simétrica de la hoja se asemeja a unas llamas abstractas ardiendo en dirección al mango, siendo ancha cerca de la base y afilándose hasta llegar a un punto afilado en la punta. Su apariencia a veces se describe como "retorcida". El metal plateado de la hoja parece como si brillase con poca luz.
+Como todas las hojas esquirladas muertas, Tormenta de Fuego es enorme, de unos 180cm de largo (6 pies). Tiene un mango largo y recto con un pomo en forma de anillo y sin guarda. Presumiblemente, hay alguna [[Piedrabase\|Piedrabase]] conectada en algún lugar de la empuñadura, pero el tipo y la ubicación de la gema son desconocidas. La forma simétrica de la hoja se asemeja a unas llamas abstractas ardiendo en dirección al mango, siendo ancha cerca de la base y afilándose hasta llegar a un punto afilado en la punta. Su apariencia a veces se describe como "retorcida". El metal plateado de la hoja parece como si brillase con poca luz.
 
   Gavilar com su hoja y armadura
 ## Propiedades

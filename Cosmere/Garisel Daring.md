@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Garisel Daring** es un contable en [[Gestor%C3%ADa Contable e Inmobiliaria Call e Hijo e Hijas\|Gestoría Contable e Inmobiliaria Call e Hijo e Hijas]] de [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]]. Se le asigna a la cuenta de [[Wayne\|Wayne]] como administrador de patrimonio.
 

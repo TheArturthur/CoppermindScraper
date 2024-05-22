@@ -7,11 +7,12 @@
 |**Residencia**|[[Islas Reshi\|Las islas Reshi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Geranid** es una [[Fervoroso\|fervorosa]] científica y filósofa en [[Roshar\|Roshar]].
 Vive con [[Ashir\|Ashir]] es una pequeña isla [[Reshi\|reshi]].
 Pasa su tiempo estudiando los [[Spren\|spren]] y descubre que el acto de escribir las dimensiones de un [[/wiki/Spren#llamaspren]] en cualquier momento concreto hace que el spren deje de alterar su forma, un comportamiento inspirado por la .
-Más tarde [[Rushu\|Rushu]] lee sus hallazgos, que piensa que son importantes y se los sugiere a [[Navani\|Navani]].
+Más tarde, sus hallazgos son leídos por la fervorosa [[Rushu\|Rushu]], que los considera importantes y se los sugiere a [[Navani Kholin\|Navani Kholin]].
 
 ## Curiosidades
 La frase hecha "luz de las estrellas" hasta ahora solo ha sido utilizada por Geranid.

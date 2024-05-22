@@ -43,7 +43,7 @@
 
 
 Descrito como anciano, Dedelin viste ropas sencillas y austeras a pesar de ser el rey de [[Idris\|Idris]]. Tiene los [[Mechones Reales\|Mechones Reales]] y suele llevar el pelo negro, aunque el control de sus emociones es imperfecto y a veces aparece un matiz del rojo de la ira o del blanco del miedo.
-Adora a [[Austre\|Austre]], Dios de los Colores, y considera que el [[Rey-dios\|rey-dios]] y los demás [[Retornado\|Retornados]] son abominaciones. De acuerdo con estas creencias, considera que el [[Despertar\|despertar]] y la posesión de un [[Aliento\|aliento]] que no sea el propio están mal.
+Adora a [[Austrismo\|Austre]], Dios de los Colores, y considera que el [[Rey-dios\|rey-dios]] y los demás [[Retornado\|Retornados]] son abominaciones. De acuerdo con estas creencias, considera que el [[Despertar\|despertar]] y la posesión de un [[Aliento\|aliento]] que no sea el propio están mal.
 Es un gobernante astuto y capaz de anteponer el bien de su reino a sus deseos y creencias personales: envía a su hija a cumplir el tratado con [[Hallandren\|Hallandren]] y financia la compra de alientos a pesar de sus convicciones religiosas. También se muestra reflexivo y decidido cuando considera las implicaciones políticas y militares del tratado y busca consejo; sin embargo, una vez que se decide, actúa con firmeza y no se le puede convencer de que reniegue de su postura. También es un hombre apasionado, aunque controlado, como se ve en sus mechones rojos por la ira y en la forma en que permite que su amor por Vivenna dicte su respuesta al tratado.
 
 ## Historia
@@ -58,7 +58,7 @@ Unas semanas antes de enviar a Siri a [[T'Telir\|T'Telir]], Dedelin envió allí
 Los hijos de Dedelin son [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]] y [[Sisirinah\|Sisirinah]]. Su principal amigo y consejero militar de confianza es el general Yarda. [[Madre de Vivenna\|Su esposa]] lleva muerta más de una década, a consecuencia de un accidente de equitación.
 
 ### Vivenna
-Dedelin duda en enviar a Vivenna a [[Hallandren\|Hallandren]], y aunque piensa que está haciendo lo mejor para Idris, sigue siendo parcial y quiere más a Vivenna, en parte porque esta le recuerda a su esposa. Al principio, comenta que Vivenna es el doble de devota que él y que controla su pelo mucho más que él. Este es un claro ejemplo de cómo Dedelin trata a Vivenna de forma diferente a Siri, lo que a su vez afecta a su relación y a la de Vivenna con el miembro más joven de la realeza.
+Dedelin duda en enviar a Vivenna a [[Hallandren\|Hallandren]], y aunque piensa que está haciendo lo mejor para [[Idris\|Idris]], sigue siendo parcial y quiere más a Vivenna, en parte porque esta le recuerda a su esposa. Al principio, comenta que Vivenna es el doble de devota que él y que controla su pelo mucho más que él. Este es un claro ejemplo de cómo Dedelin trata a Vivenna de forma diferente a Siri, lo que a su vez afecta a su relación y a la de Vivenna con el miembro más joven de la realeza.
 
 ### Siri
 A Dedelin no le gusta que Siri vaya por su cuenta en lugar de asistir a las clases con sus tutores, y a menudo la reprende con firmeza cuando se las salta. La percepción que Siri tiene de sí misma se basa en la forma en que Dedelin ve a Vivenna, y en cómo alaba su control, todo lo contrario que Siri. Aunque Dedelin desaprueba muchas de las acciones de Siri, la sigue queriendo. Es sarcástica sobre sus acciones y sus implicaciones, contradice a Dedelin constantemente, a diferencia de Vivenna.

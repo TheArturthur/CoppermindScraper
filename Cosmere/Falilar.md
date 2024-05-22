@@ -9,12 +9,13 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*It's not a disaster, Brightness, but there’s **so much to worry about**.*”
 \-Falilar[2]
 
 
-**Falilar** es un [[Fervoroso\|fervoroso]] que sirve como ingeniero trabajando bajo la dirección de [[Navani Kholin\|Navani Kholin]] en [[Urithiru\|Urithiru]] en [[Roshar\|Roshar]].
+**Falilar** es un [[Fervoroso\|fervoroso]] que sirve como ingeniero trabajando bajo la dirección de la reina [[Navani Kholin\|Navani Kholin]] en [[Urithiru\|Urithiru]] en [[Roshar\|Roshar]].
 
 ## Sumario
 
@@ -34,8 +35,8 @@ Falilar es un hombre mayor con la cabeza rapada y una barba blanca con angulos r
 
 ## Historia
 ### Fervoroso y artifabriano
-La brillante señora [[Navani Kholin\|Navani Kholin]] era la patrona de Falilar en sus estudios sobre ingeniería y [[Fabrial\|fabriales]]. Él estaba presente en las [[Llanuras Quebradas\|Llanuras Quebradas]] para la prueba con el parapeto flotante que fue diseñado con el uso de fabriales inversores, donde él observó un tamboleo en la ascención del parapeto y estaba preocupado por el hecho que el movimiento no hubiera sido más fluido. Después de moverse a [[Urithiru\|Urithiru]], Navani hizo un boceto de algunas nuevas invenciones, y una de sus escribas sugirió enseñarselas a Falilar para que verificara la viabilidad de las ideas.
-Cuando [[Rysn\|Rysn]] emprendió su [[Expedici%C3%B3n a Akinah\|Expedición a Akinah]], [[Huio\|Huio]] se tropezó con un uso previamente desconocido del [[Aluminio\|aluminio]]: utilizandolo en fabriales con rubíes conjuntos para hacer que ignoraran ciertas direcciones de movimiento. Después de que se informara del descubrimiento a Urithiru, Falilar hizo un gran descubrimiento involucrando jaulas de fabriales que permitían a los [[Artifabrianos\|artifabrianos]] aislar planos de movimiento. Eso a su vez condujo al exitoso diseño del *[[Cuarto Puente\|Cuarto Puente]]* y otras invenciones más pequeñas.
+La reina [[Navani Kholin\|Navani Kholin]] era la patrona de Falilar en sus estudios sobre ingeniería y [[Fabrial\|fabriales]]. Él estaba presente en las [[Llanuras Quebradas\|Llanuras Quebradas]] para la prueba con el parapeto flotante que fue diseñado con el uso de fabriales inversores, donde él observó un tamboleo en la ascención del parapeto y estaba preocupado por el hecho que el movimiento no hubiera sido más fluido. Después de moverse a [[Urithiru\|Urithiru]], Navani hizo un boceto de algunas nuevas invenciones, y una de sus escribas sugirió enseñarselas a Falilar para que verificara la viabilidad de las ideas.
+Cuando [[Rysn Ftori\|Rysn Ftori]] emprendió su [[Expedici%C3%B3n a Akinah\|Expedición a Akinah]], [[Huio\|Huio]] se tropezó con un uso previamente desconocido del [[Aluminio\|aluminio]]: utilizandolo en fabriales con rubíes conjuntos para hacer que ignoraran ciertas direcciones de movimiento. Después de que se informara del descubrimiento a Urithiru, Falilar hizo un gran descubrimiento involucrando jaulas de fabriales que permitían a los [[Artifabrianos\|artifabrianos]] aislar planos de movimiento. Eso a su vez condujo al exitoso diseño del *[[Cuarto Puente\|Cuarto Puente]]* y otras invenciones más pequeñas.
 Falilar era parte del grupillo de científicos y ingenieros que acompañó al *Cuarto Puente* a [[Piedralar\|Piedralar]] para evacuar el pueblo. Trabajó de cerca con [[Rushu\|Rushu]], inspeccionando las esquemáticas para asegurarse de que el *Cuarto Puente* continuara su trabajo como debía. Cuando la mayoría del pueblo estaban a bordo, Falilar informó a Navani de los quince habitantes que se habían negado a irse y le dijo que la evacuación estaba siendo más rápida de lo previsto. Sin embargo, él seguía nervioso de que hubiera un fallo en el funcionamiento del *Cuarto Puente*, así que Navani le ordenó revisar tres veces sus cálculos y hacer inspecciones visuales.
 
 ### Experimentos y descubrimientos

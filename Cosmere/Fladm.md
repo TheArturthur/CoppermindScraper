@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Fladm** es un guardia en la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]] en [[Ciudad Thaylen\|Ciudad Thaylen]], en [[Roshar\|Roshar]].
 

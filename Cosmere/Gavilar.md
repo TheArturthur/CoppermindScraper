@@ -106,7 +106,7 @@ En algún momento antes de su muerte, Gavilar comienza a recibir [[Visiones de D
 ### Vida temprana
   Gavilar y <<Dalinar\|Dalinar>> de jóvenes
 Gavilar y Dalinar nacieron en una rama provincial de la familia Kholin, con Gavilar nació algún tiempo antes de Plantilla:Roshariano date.. Su madre murió cuando él y su hermano eran pequeños, y su padre se ausentó de su vida y pasó su tiempo batiéndose en duelos. Después de que su padre sufriera una lesión permanente en la cabeza en un duelo, Gavilar asumió un papel paternal para su hermano menor Dalinar, enseñándole cosas como la forma de afeitarse. 
-Gavilar era sólo de cuarto dahn, y no se le consideraba un contendiente serio para el alto príncipe. Con el tiempo conquistó el [[Principado Kholin\|principado Kholin]], matando a algunos de sus parientes y tomando el título de alto príncipe para sí mismo. 
+Gavilar era sólo de cuarto dahn, y no se le consideraba un contendiente serio para el alto príncipe. Con el tiempo conquistó el [[Principado Kholin\|principado Kholin]], matando a algunos de sus parientes y tomando el título de alto príncipe para sí mismo.
 Desde el principio, Gavilar contó con el apoyo de su hermano. Dalinar solía presentar a Gavilar a personas que creía que debía conocer. Esto provocó cierta confusión cuando Dalinar presentó a Gavilar y [[Navani\|Navani]]. Su hermano lo hizo porque deseaba cortejar él mismo a Navani, pero Gavilar creyó que Dalinar pretendía que la cortejara él.
 
 ### Unificación de Alezkar

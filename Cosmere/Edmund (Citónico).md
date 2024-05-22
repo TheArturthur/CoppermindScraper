@@ -6,6 +6,7 @@
 |**Capacidades**|[[Cit%C3%B3nica (habilidad)\|Citónicas]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Primera aparición**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 **Edmund** era un usuario [[Cit%C3%B3nica (habilidad)\|citónico]].
 Capturó y amenazó a [[Jason Write\|Jason Write]] en un intento de descubrir cómo, supuestamente, podía leer la mente, algo que se creía imposible mediante el uso de la citónica.
