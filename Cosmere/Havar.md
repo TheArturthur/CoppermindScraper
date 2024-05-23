@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 El brillante señor **Havar** es un oficial en el ejército del alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
 

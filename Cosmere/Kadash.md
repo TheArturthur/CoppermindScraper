@@ -2,19 +2,19 @@
 |**Kadash**|
 |-|-|
 ||
-|**Oficio**|[[Fervoroso\|Fervoroso]]Soldier |
-|**Grupo**|[[Dalinar's elites\|Dalinar's elites]]🐱︎ , Ejército de Kholin |
+|**Oficio**|[[Fervoroso\|Fervoroso]]Soldado |
+|**Grupo**|[[%C3%89lites de Dalinar\|Élites de Dalinar]]🐱︎ , Ejército de Kholin |
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
->“*Your father is not to be mocked or diminished. If his visions are true, then it is between him and the Almighty. All I can say is this: I know something of what it is to be haunted by the death and destruction of war. I see in your father’s eyes much of what I have felt, but worse.*”
-\-Kadash to Adolin Kholin[1]
+>“*No hay que reírse de tu padre ni despreciarlo. Si sus visiones son verdaderas, entonces es algo entre el Todopoderoso y él. Todo lo que puedo decir es esto: sé algo de lo que es verse acechado por la muerte y la destrucción de la guerra. Veo en los ojos de tu padre mucho de lo que yo he sentido, pero peor.*”
+\-Kadash a Adolin Kholin[1]
 
 
-**Kadash** is an  . He was a soldier among [[Dalinar Kholin\|Dalinar Kholin]]'s elites before the unification of Alethkar but changed his Calling to join the ardentia after witnessing the massacre at [[Rathalas\|Rathalas]].
+**Kadash** es un [[Fervoroso\|fervoroso]] [[Alezi\|alezi]]. Fue soldado en las élites de [[Dalinar Kholin\|Dalinar Kholin]] antes de la unificación de Alezkar, pero cambió su Llamada para unirse al fervor tras presenciar la masacre en [[Rathalas\|Rathalas]].
 
 ## Sumario
 
@@ -36,7 +36,7 @@
 
 
 ## Apariencia y Personalidad
-Kadash is a tall man with light violet eyes and a twisting scar that runs around the top of his shaved head. He wears the square beard and gray robes of an ardent.
+Kadash es un hombre alto con ojos de color violeta claro y una cicatriz que zigzaguea en la parte superior de su cabeza afeitada. Lleva la barba cuadrada y viste las ropas grises de los fervorosos.
 Kadash is a man of deep faith and perseverance, which has allowed him to rapidly climb the ranks of the ardentia. He is deeply embarrassed by the ancient failures of , the  and the [[Hierocracy\|Hierocracy]], and often speaks of them to remind himself and others not to make the same mistakes. He is pleased with the way that Vorinism has changed since the defeat of the Hierocracy, that every man can now have a personal relationship with their god. As with many adherents of Vorinism, Kadash is deeply distrustful of any type of prophecy or foresight, believing it to be a thing of the . He is horrified by the idea that the [[Knights Radiant\|Radiants]] could potentially be returning.
 Kadash is humble as well. Despite his high rank, he defers to [[Lighteyes\|lighteyes]], regardless of their age and authority. Kadash believes that it is the duty of Dalinar and the other lighteyes to watch the ardents and ensure they do not rise above their station as they did during the Hierocracy. Kadash is very loyal to Dalinar, as well as to the rest of his family. He has sworn oaths to serve Dalinar and has known the man for many years. For these reasons, Kadash is both unwilling and unable to speak ill of Dalinar even when Dalinar claims that the  is dead. Kadash is also concerned with the spiritual well-being of his congregation, particularly [[Adolin\|Adolin]].
 Even though many years have passed since Kadash left the military, he is still haunted by the memories of his time spent fighting and all the death and destruction he saw. He is an observant man, keeping his eyes and ears open to the events around the warcamps. He is also generally very calm and unflappable--until it comes to speaking of matters such as [[Surgebinding\|Surgebinding]] or [[Soulcasting\|Soulcasting]].

@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 Lord **Idren Seeris** es un [[Noble\|noble]] de Scadrial. Es primo de la [[Casa Elariel\|Casa Elariel]].
 Lleva gafas.

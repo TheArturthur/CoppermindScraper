@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Hikiri** es un [[Guardia del Sue%C3%B1o\|Guardia del Sueño]] compañero de [[Nagadan\|Nagadan]] bajo el mando de [[Tesuaka Tatomi\|Tesuaka Tatomi]].
 

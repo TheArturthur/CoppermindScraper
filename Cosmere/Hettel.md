@@ -8,6 +8,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Hettel** es un trabajador de forja y miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]].
 Es el primero en aceptar la nominación de [[Penrod\|Penrod]] por parte de [[Elend Venture\|Elend Venture]] como canciller de la Asamblea, una vez Elend es depuesto como rey.

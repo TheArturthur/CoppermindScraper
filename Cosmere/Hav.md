@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Kaladin podía darle a Hav las gracias por eso, por haberlo entrenado para pensar en términos de «ellos» y «nosotros»... Protegernos a «nosotros», destruirlos a «ellos». Un soldado tenía que pensar así.*”
 \-Kaladin mientras observa una pelea entre soldados alezi y parshendi[1]

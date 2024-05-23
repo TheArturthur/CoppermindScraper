@@ -90,7 +90,6 @@ Para más herdazianos, ver :Categoría: de Herdaz.
 [[Lopen\|Lopen]], el alegre miembro manco del [[Puente Cuatro\|Puente Cuatro]] y [[Corredor del Viento\|Corredor del Viento]] de tercer juramento.
 Los múltiples primos de Lopen, entre ellos [[Punio\|Punio]], [[Rod (Roshar)\|Rod]] y [[Huio\|Huio]].
 [[Kabsal\|Kabsal]] podría ser herdaziano, ya que tiene el acento.
-Un herdaziano analfabeto que da a los médicos de [[Taravangian\|Taravangian]] un [[Susurro de muerte\|susurro de muerte]].
 [[Havarah\|Havarah]], jefe de los puentes de [[Dalinar\|Dalinar]], es medio herdaziano.
 [[Palona\|Palona]], la amante de [[Sebarial\|Sebarial]].
 [[Dieno enne Calah\|Dieno enne Calah]], el general herdaziano que lideró la resistencia contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].

@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Chull Gruñón**|
 |-|-|
 |**Uso**|Bar|
@@ -5,14 +8,14 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Ornery Chull** is a bar in the Kholin warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
-It is a wooden structure constructed on the leeward side of a larger stone building. It uses fire for light due to concerns over intoxicated patrons stealing . The main room tends to be crowded, smoky, and loud; the tavern also has private dining rooms off of a hallway in the back that are usually used by wealthy merchants. Popular drinks include [[/wiki/Roshar#Wines]] and [[Lavis\|lavis]] ale; it does not serve  lager, as it melts their cups.
+El **Chull Gruñón** es un bar del campamento de guerra Kholin en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
+Se trata de una estructura de madera construida a sotavento de un edificio de piedra más grande. Utiliza el fuego como fuente de luz por temor a que los clientes borrachos roben [[Esfera\|esferas]]. La sala principal suele estar abarrotada, llena de humo y ser ruidosa; la taberna también dispone de reservados privados en un pasillo de la parte trasera que suelen utilizar los mercaderes adinerados. Las bebidas populares incluyen [[/wiki/Roshar#Vinos]] y cerveza de [[Lavis\|lavis]]; no sirve cerveza [[Comecuernos\|comecuernos]], ya que derrite sus copas.
 
-## History
-After [[Bridge Four\|Bridge Four]] was freed during the [[War of Reckoning\|War of Reckoning]], they often patronized the Ornery Chull; it was a favorite of [[Moash\|Moash]] and particularly [[Peet\|Peet]], as he was enamored with a barmaid named [[Ka\|Ka]]. [[Lunamor\|Lunamor]] preferred other taverns that served Horneater lager.
-One of the private rooms at the tavern was used by [[Graves\|Graves]] and other members of the [[Diagram (group)\|Diagram]] to host their meeting with Moash and [[Kaladin\|Kaladin]] regarding [[Elhokar Kholin\|Elhokar Kholin]].
+## Historia
+Después de que el [[Puente Cuatro\|Puente Cuatro]] fuese liberado durante la [[Guerra de la Venganza\|Guerra de la Venganza]], a menudo frecuentaban el Chull Gruñón; era uno de los favoritos de [[Moash\|Moash]] y en particular de [[Peet\|Peet]], ya que estaba enamorado de una camarera llamada [[Ka\|Ka]]. [[Lunamor\|Lunamor]] prefería otras tabernas que sirviesen cerveza comecuernos.
+Uno de los salones reservados de la taberna fue utilizado por [[Graves\|Graves]] y otros miembros del [[Diagrama (grupo)\|Diagrama]] para celebrar su reunión con Moash y [[Kaladin\|Kaladin]] en relación con [[Elhokar Kholin\|Elhokar Kholin]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 15:48, 5 September 2021 (UTC)

@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Ivis** es una [[Fervoroso\|fervorosa]] y maestra espadachina de la [[Casa Kholin\|casa Kholin]] en [[Roshar\|Roshar]].
 
@@ -25,14 +26,14 @@
 
 
 ## Apariencia y personalidad
-Como la mayoría de los fervorosos, lleva la cabeza rapada y viste una túnica holgada. Lleva un guante en su [[Mano segura\|mano segura]].
+Como la mayoría de los [[Fervoroso\|fervorosos]], lleva la cabeza rapada y viste una túnica holgada. Lleva un guante en su [[Mano segura\|mano segura]].
 
 ## Atributos y habilidades
-Ivis parece ser una de las fervorosas más hábiles de Alezkar con la espada. Zahel y Kelerand, dos expertos espadachines, confían plenamente en ella para realizar entrenamientos sin su supervisión directa. Dalinar también la conoce por su nombre y le confía tareas importantes. Sabe manejar una hoja esquirlada y está muy familiarizada con las diez [[Posturas B%C3%A1sicas\|posturas]], algo inusual para una mujer en Alezkar.
+Ivis parece ser una de las fervorosas más hábiles de [[Alezkar\|Alezkar]] con la espada. [[Zahel\|Zahel]] y [[Kelerand\|Kelerand]], dos expertos espadachines, confían plenamente en ella para realizar entrenamientos sin su supervisión directa. El [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] también la conoce por su nombre y le confía tareas importantes. Sabe manejar una [[Hoja esquirlada\|hoja esquirlada]] y está muy familiarizada con las diez [[Posturas B%C3%A1sicas\|posturas]], algo inusual para una mujer en Alezkar.
 
 ## Historia
 ### Llanuras Quebradas
-Ivis es una de las muchas fervorosas que se presentaron ante [[Zahel\|Zahel]] en los campos de entrenamiento de [[Ojos claros\|ojos claros]] en el campamento de guerra de [[Dalinar Kholin\|Dalinar Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Zahel la asignó a entrenar con el [[Puente Cuatro\|Puente Cuatro]] usando una de las [[Hoja esquirlada\|hojas esquirladas]] del rey, con la esperanza de familiarizarlos con las [[Posturas B%C3%A1sicas\|posturas]] usadas por los portadores de esquirlada, por si alguna vez tenían que luchar contra uno. Aunque la túnica de Ivis ocultaba su figura, [[Kaladin\|Kaladin]] consideraba extraña la visión de una mujer sosteniendo una [[Hoja esquirlada\|hoja esquirlada]], aunque no era más extraño que ver a un [[Ojos oscuros\|ojos oscuros]] sosteniendo uno.
+Ivis es una de las muchas [[Fervoroso\|fervorosas]] que se presentaron ante [[Zahel\|Zahel]] en los campos de entrenamiento de [[Ojos claros\|ojos claros]] en el campamento de guerra del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Zahel la asignó a entrenar con el [[Puente Cuatro\|Puente Cuatro]] usando una de las [[Hoja esquirlada\|hojas esquirladas]] del rey [[Elhokar\|Elhokar]], con la esperanza de familiarizarlos con las [[Posturas B%C3%A1sicas\|posturas]] usadas por los portadores de esquirlada, por si alguna vez tenían que luchar contra uno. Aunque la túnica de Ivis ocultaba su figura, [[Kaladin\|Kaladin]] consideraba extraña la visión de una mujer sosteniendo una [[Hoja esquirlada\|hoja esquirlada]], aunque no era más extraño que ver a un [[Ojos oscuros\|ojos oscuros]] sosteniendo uno.
 Ivis hizo que el Puente Cuatro utilizase piezas de madera como espadas de práctica y les enseñó las posturas. Al cabo de una hora, se tomaron un descanso; Ivis dijo a [[Yake\|Yake]] y [[Teft\|Teft]] que dejasen de perder el tiempo y volviesen a practicar, pero no llamó a Kaladin, que parecía intimidar a los fervorosos. Después de que Kaladin se reincorporase al grupo y continuase practicando, Ivis le corrigió la empuñadura y soltó una carcajada cuando se dio cuenta de que él esperaba aprender a manejar la espada muy rápidamente.
 
 ### Urithiru

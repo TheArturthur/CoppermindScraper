@@ -10,8 +10,9 @@
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Primera aparición**|*[[Juramentada\|Juramentada]]*|
+
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
-El **padre de Ico** es un [[Lumispren\|lumispren]] [[Ojomuerto\|ojomuerto]] en [[Roshar\|Roshar]]. Estaba vinculado a un [[Caballeros Radiantes\|Radiante]] antes de la [[Traici%C3%B3n\|Traición]], y fue "asesinado", convirtiéndose en un "ojomuerto", cuando su Caballero traicionó sus juramentos.
+El **padre de Ico** es un [[Alcanzador\|alcanzador]] [[Ojomuerto\|ojomuerto]] en [[Roshar\|Roshar]]. Estaba vinculado a un [[Caballeros Radiantes\|Radiante]] antes de la [[Traici%C3%B3n\|Traición]], y fue "asesinado", convirtiéndose en un "ojomuerto", cuando su Caballero traicionó sus juramentos.
 [[Ico\|Ico]] se refiere a él como su padre, pero la naturaleza de las relaciones familiares entre los [[Spren\|spren]] no se comprende del todo. Ico lo mantiene encerrado en la bodega de su barco en [[Shadesmar\|Shadesmar]] para evitar que se aleje en un intento de encontrar al humano que empuña su cadáver ([[Hoja esquirlada\|hoja esquirlada]]) en el [[Reino F%C3%ADsico\|Reino Físico]]. El destino de su padre parece haber hecho que Ico se mostrase escéptico ante la posibilidad de que un humano como [[Adolin Kholin\|Adolin Kholin]] pudiese tener verdadera consideración por un spren muerto como [[Mayalaran\|Mayalaran]].
 
 ## Curiosidades

@@ -12,12 +12,13 @@
 |**Residencia**|[[Shadesmar\|Shadesmar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*En todo caso, no pretendía insultarte. No es culpa tuya. Traicionar los juramentos está en tu naturaleza, como humano, nada más.*”
 \-Ico[1]
 
 
-**Ico** es un [[Lumispren\|lumispren]] en [[Shadesmar\|Shadesmar]], el [[Subastral\|subastral]] de [[Roshar\|Roshar]]. Capitanea un [[Barco de Ico\|barco]] mercante tripulado por compañeros [[Alcanzador\|alcanzadores]].
+**Ico** es un [[Alcanzador\|Alcanzador]] en [[Shadesmar\|Shadesmar]], el [[Subastral\|subastral]] de [[Roshar\|Roshar]]. Capitanea un [[Barco de Ico\|barco]] mercante tripulado por compañeros [[Alcanzador\|alcanzadores]].
 
 ## Sumario
 

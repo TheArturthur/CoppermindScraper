@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Owd**|
 |-|-|
 |**Nación**|[[Azir\|Azir]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Owd** is a town in eastern [[Azir\|Azir]] on [[Roshar\|Roshar]], located along the river that separates Azir and [[Emul\|Emul]].
-In the [[Cognitive Realm\|Cognitive Realm]], the river that flows by Owd is a peninsula, and Owd seems to be near [[Perpetual Sobriety\|Perpetual Sobriety]].
+**Owd** es una ciudad del este de [[Azir\|Azir]], en [[Roshar\|Roshar]], situada a lo largo del río que separa Azir y [[Emul\|Emul]].
+En el [[Reino Cognitivo\|Reino Cognitivo]], el río que fluye junto a Owd es una península y Owd parece estar cerca de [[Sobriedad Perpetua\|Sobriedad Perpetua]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 02:44, 21 November 2020 (UTC)

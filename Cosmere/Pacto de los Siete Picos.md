@@ -1,22 +1,25 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Pacto de los Siete Picos**|
 |-|-|
-|**Participantes**|[[Unkalaki\|Unkalaki]], unknown party or parties|
-|**Región**|[[Picos Comecuernos\|Los Picos Comecuernos]]🐱︎|
+|**Participantes**|[[Unkalaki\|Unkalaki]], una o más partes desconocidas|
+|**Región**|[[Picos Comecuernos\|Picos Comecuernos]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **pact of the Seven Peaks** is an ancient treaty on [[Roshar\|Roshar]]. It involves the [[Unkalaki\|Unkalaki]] and one or more unknown parties that they refer to as gods.
+El **pacto de los Siete Picos** es un antiguo tratado en [[Roshar\|Roshar]]. Involucra a los [[Unkalaki\|Unkalaki]] y a una o más partes desconocidas a las que se refieren como dioses.
 
-## History
-The pact of the Seven Peaks has only been mentioned by [[Cord\|Cord]] while talking to [[Nikli\|Nikli]], one of the [[Sleepless\|Sleepless]]. When Cord believed her life to be in danger, she told Nikli that she was the daughter of [[Lunamor\|Lunamor]], the Fal’ala’liki’nor who drew the , and that her status afforded her protection from the gods under the pact. Nikli had no idea what she was talking about, and Cord admitted to [[Rysn\|Rysn]] that the ancient pacts had involved different gods and not the Sleepless.
+## Historia
+El pacto de los Siete Picos solo ha sido mencionado por [[Cuerda\|Cuerda]] mientras hablaba con [[Nikli\|Nikli]], uno de los [[Insomne\|Insomnes]]. Cuando Cuerda creyó que su vida corría peligro, le dijo a Nikli que era hija de [[Lunamor\|Lunamor]], la Fal'ala'liki'nor que tensó el [[Arco de las Horas\|Arco de las Horas]], y que su estatus le otorgaba la protección de los dioses en virtud del pacto. Nikli no tenía ni idea de lo que estaba hablando, y Cuerda admitió ante [[Rysn\|Rysn]] que los antiguos pactos habían implicado a otros dioses y no a los Insomnes.
 
-## Participants
+## Participantes
 > [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
 
-The Unkalaki, the historic residents of the [[Horneater Peaks\|Horneater Peaks]], are the only confirmed participants in the pact. The treaty is one of multiple ancient pacts that involved the Unkalaki and their gods. Determining the other party or parties to these pacts is complicated by the fact that the Unkalaki refer to a wide range of beings as "gods", including [[Spren\|spren]], [[Unmade\|Unmade]], [[Hoid\|Hoid]], and other [[Worldhopper\|worldhoppers]]. The Sleepless are the only Unkalaki gods that have been ruled out of involvement in the pacts.
-Lunamor related a story to [[Bridge Four\|Bridge Four]] in which "long ago" the tana'kai of the Unkalaki approached the three strongest gods on Roshar seeking a place to settle, ultimately striking bargains that resulted in the creation of the [[Horneater Oceans\|Horneater Oceans]] and the unique climate of the Peaks. Elements of Lunamor's story align with Cord's description of the pact of the Seven Peaks, but this connection has not been confirmed.
+Los Unkalaki, los residentes históricos de los [[Picos Comecuernos\|Picos Comecuernos]], son los únicos participantes confirmados en el pacto. Este tratado es uno de los múltiples pactos antiguos que involucraban a los Unkalaki y sus dioses. Determinar la otra parte o partes de estos pactos se complica por el hecho de que los Unkalaki se refieren a una amplia gama de seres como «dioses», incluyendo [[Spren\|spren]], [[Deshecho\|Deshechos]], [[Hoid\|Hoid]], y otros [[Saltamundos\|Saltamundos]]. Los Insomnes son los únicos dioses Unkalaki que han sido descartados de participar en los pactos.
+Lunamor relató una historia al [[Puente Cuatro\|Puente Cuatro]] en la que «hace mucho tiempo» los tana'kai de los Unkalaki se acercaron a los tres dioses más fuertes de Roshar buscando un lugar donde asentarse, y, en última instancia, llegar a acuerdos que dieron lugar a la creación de los [[Oc%C3%A9anos Comecuernos\|Océanos Comecuernos]] y el clima único de los Picos. Algunos elementos de la historia de Lunamor coinciden con la descripción de Cuerda del pacto de los Siete Picos, pero esta conexión no ha sido confirmada.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.

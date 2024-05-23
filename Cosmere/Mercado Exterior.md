@@ -1,33 +1,36 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Mercado Exterior**|
 |-|-|
 |**Región**|[[Llanuras Quebradas\|Llanuras Quebradas]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-The **Outer Market** is a collection of shops that is part of the   complex on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
+El **Mercado Exterior** es una colección de tiendas que forma parte del complejo del [[Campamento de guerra\|campamento de guerra]] [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
 
 ## Sumario
 
-1 Location and Layout. [[#Location and Layout]] 
-2 Operation. [[#Operation]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+1 Ubicación y distribución. [[#Ubicaci.C3.B3n y distribuci.C3.B3n]] 
+2 Funcionamiento. [[#Funcionamiento]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Location and Layout
-  The Outer Market is visible at the crossroads near the center of the warcamps
-The Outer Market is located near the center of the warcamps, just north of [[Vamah\|Vamah]] and [[Dalinar\|Dalinar]]'s camps. It is not far from the [[Pinnacle\|Pinnacle]], although it is separated from the palace complex by a steep hill.
-The market consists of ramshackle buildings built from stone blocks quarried nearby. It is not well-organized, nor does it have a defensive wall like the warcamps. It includes many different shops, including multiple wine shops and some restaurants. Because the market is situated on a hill, some shops have patio terraces that provide views of the warcamps. The market also contains stables and a menagerie. When a [[Highstorm\|highstorm]] approaches, merchants quickly take down their tents and close up doors and windows; the market provides stone bunkers where patrons can wait out the storm.
+## Ubicación y distribución
+  El Mercado Exterior es visible en la encrucijada cerca del centro de los campos de guerra
+El Mercado Exterior está situado cerca del centro de los campamentos de guerra, justo al norte de los campamentos de [[Vamah\|Vamah]] y [[Dalinar\|Dalinar]]. No está lejos del [[Pin%C3%A1culo\|Pináculo]], aunque está separado del complejo palaciego por una empinada colina.
+El mercado está formado por edificios destartalados construidos con bloques de piedra extraídos de las canteras cercanas. No está bien organizado, ni tiene una muralla defensiva como los campamentos de guerra. Incluye muchas tiendas diferentes, entre ellas varias vinotecas y algunos restaurantes. Como el mercado está situado en una colina, algunas tiendas tienen terrazas con vistas a los campos de guerra. El mercado también alberga establos y una colección de animales salvajes. Cuando se acerca una [[Alta tormenta\|alta tormenta]], los comerciantes desmontan rápidamente sus tiendas y cierran puertas y ventanas; el mercado dispone de búnkeres de piedra donde los clientes pueden esperar a que pase la tormenta.
 
-## Operation
-The Outer Market is largely unregulated; it falls under the purview of the [[Highprince of Commerce\|Highprince of Commerce]], but this position was vacant during the reigns of [[Gavilar\|Gavilar]] and [[Elhokar\|Elhokar]]. It is among the few places where people from multiple warcamps mix, as it is considered to be neutral territory. The customers are therefore very eclectic; many of the merchants are [[Thaylen\|Thaylen]]. It competes with the markets that are inside each warcamp.
+## Funcionamiento
+El Mercado Exterior carece en gran medida de regulación; depende del [[Alto Pr%C3%ADncipe de Comercio\|Alto Príncipe de Comercio]], pero este cargo estuvo vacante durante los reinados de [[Gavilar\|Gavilar]] y [[Elhokar\|Elhokar]]. Es uno de los pocos lugares donde se mezclan gentes de múltiples campos de guerra, ya que se considera territorio neutral. La clientela es, por tanto, muy variada; muchos de los comerciantes son [[Thayle%C3%B1o\|thayleños]]. Compite con los mercados que hay dentro de cada campo de guerra.
 
-## History
-The Market’s disorganized nature was due to the fact that it was built quickly during the [[War of Reckoning\|War of Reckoning]] without the planning that went into the warcamps themselves. Because it was still new, the ornamental [[Shalebark\|shalebark]] used in landscaping was only a few inches high.
-Although some parts of the market were a bit seedy, it also had luxurious establishments that were frequented by high-ranking [[Lighteyes\|lighteyes]] from different princedoms, providing opportunities for social interaction. However, due to the lack of regulation, crime in the market began to increase, [[Dalinar Kholin\|Dalinar Kholin]] assigned several battalions of his troops to patrol the Outer Market and areas between the warcamps. Although these patrols cut down on bandits, they weakened Dalinar's ability to go on plateau runs to capture [[Gemheart\|gemhearts]]. When Kaladin was promoted to the rank of captain, he suggested that the former  in his command be assigned to these patrols to gain experience, to the amusement of [[Torol Sadeas\|Torol Sadeas]]. Despite its chaotic nature, Dalinar wondered whether the Outer Market would become more permanent as the Alethi solidified their control over the Shattered Plains.
-The fate of the Outer Market after the [[Battle of Narak\|Battle of Narak]] is unclear. Most of the population of the warcamps moved to [[Urithiru\|Urithiru]], presumably including some of the merchants who set up shop in the . When [[Shallan\|Veil]] visited the warcamps looking for [[Ialai\|Ialai]], she noted that even the markets within the warcamps had fallen into disrepair; the Outer Market likely suffered a similar fate.
+## Historia
+El carácter desorganizado del mercado se debe a que se construyó rápidamente durante la [[Guerra de la Venganza\|Guerra de la Venganza]], sin la planificación de los propios campos de guerra. Como aún era nuevo, la [[Cortezapizarra\|cortezapizarra]] ornamental utilizada en el ajardinamiento apenas tenía unos centímetros de altura.
+Aunque algunas partes del mercado eran un poco sórdidas, También contaba con lujosos establecimientos frecuentados por [[Ojos claros\|ojos claros]] de alto rango de diferentes principados, lo que ofrecía oportunidades de interacción social. Sin embargo, debido a la falta de regulación, la delincuencia en el mercado comenzó a aumentar, [[Dalinar Kholin\|Dalinar Kholin]] asignó varios batallones de sus tropas para patrullar el Mercado Exterior y las zonas entre los campos de guerra. Aunque estas patrullas redujeron el número de bandidos, debilitaron la capacidad de Dalinar para ir a la meseta a capturar [[Gema coraz%C3%B3n\|gemas corazón]]. Cuando Kaladin fue ascendido al rango de capitán, sugirió que los antiguos [[Hombre del puente\|hombres del puente]] a su mando fueran asignados a estas patrullas para adquirir experiencia, para regocijo de [[Torol Sadeas\|Torol Sadeas]]. A pesar de su naturaleza caótica, Dalinar se preguntaba si el Mercado Exterior se haría más permanente a medida que los alezi consolidasen su control sobre las Llanuras Quebradas.
+El destino del Mercado Exterior tras la [[Batalla de Narak\|batalla de Narak]] no está claro. La mayor parte de la población de los campos de guerra se trasladó a [[Urithiru\|Urithiru]], presumiblemente incluidos algunos de los mercaderes que se establecieron en [[El Apartado\|El Apartado]]. Cuando [[Shallan\|Velo]] visitó los campos de guerra en busca de [[Ialai\|Ialai]], observó que incluso los mercados de los campos de guerra estaban en mal estado; el Mercado Exterior probablemente sufrió un destino similar.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 01:22, 19 November 2021 (UTC)

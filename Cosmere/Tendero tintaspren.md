@@ -6,6 +6,7 @@
 |**Especie**|[[Tintaspren\|Tintaspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 >“*Es lo que vosotros hacéis, matar spren. Deberíais sentir vergüenza.*”

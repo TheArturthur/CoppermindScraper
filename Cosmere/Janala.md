@@ -7,6 +7,7 @@
 |**Padres**|Brillante señor [[Lustow\|Lustow]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“* Janala es una necia, con la inteligencia justa para enorgullecerse de su ingenio, pero la estupidez justa para no reparar en lo superado que se ve ese ingenio.*”
 \- Jasnah [1]

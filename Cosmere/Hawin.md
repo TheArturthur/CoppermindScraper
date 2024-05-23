@@ -6,6 +6,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Hawin** es una joven de [[Urithiru\|Urithiru]], en [[Roshar\|Roshar]]. [[Kaladin\|Kaladin]] se refiere a ella como una «chica del pueblo»; es probable que sea una de las personas que fueron evacuadas de [[Piedralar\|Piedralar]] durante la ocupación de los [[Cantores\|cantores]].
 Trabajaba en la clínica de [[Lirin\|Lirin]] en la torre y a veces actuaba como ayudante de Kaladin. Podía leer textos médicos a Kaladin y realizar otras tareas, como ir a buscar a los pacientes a la sala de espera.

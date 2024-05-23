@@ -9,6 +9,7 @@
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Desorejado Jaks** fue un miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]]. Murió durante la [[Batalla de la Torre\|batalla de la Torre]].
 

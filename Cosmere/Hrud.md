@@ -7,6 +7,7 @@
 |**Residencia**|[[Luthadel\|Luthadel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 >“*Algunos dicen que el verdadero Kelsier está muerto, que la criatura que lleva su rostro es... otra cosa.*”
 \-Hrud[1]

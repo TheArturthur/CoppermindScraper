@@ -9,7 +9,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 La **Casa Cett** es una casa noble en [[Scadrial\|Scadrial]]. A pesar de pertenecer a la nobleza, los miembros de Casa Cett no pueden engendrar [[Alomancia\|nacidos de la bruma]], tan solo algún [[Brumoso\|brumoso]]. Antes de la muerte del [[Lord Legislador\|lord Legislador]], la Casa Cett tenía muy poco poder. Tras su muerte, sin embargo, intentaron asediar [[Luthadel\|Luthadel]] bajo las órdenes del lord (y rey temporal) Ashweather Cett. Aunque son considerados nobles, esta casa ha tiene un largo historial de mestizaje con los skaa, y como resultado [[Allrianne\|Allrianne]] es la única alomante de la familia Cett en siglos. Durante el [[Asedio de Luthadel\|asedio de Luthadel]], Cett, su familia y sus criados se instalan en la [[Casa Hasting\|fortaleza Hasting]]. Su pequeño ejército de 200 soldados y [[Mataneblino\|mataneblinos]] es atacado y destruido una noche por [[Vin\|Vin]] y [[Zane\|Zane]], en un intento por tratar de confirmar la sospecha de Vin de que Ashweather era en secreto un nacido de la bruma.
-Entre sus miembros se encuentran [[Ashweather\|Ashweather]], sus hijos [[Allrianne\|Allrianne]] y [[Gneorndin Cett\|Gneorndin]], y los descendientes de estos, lady [[Aving Cett\|Aving]] y lord [[Westweather Cett\|Westweather]].
+Entre sus miembros se encuentran [[Ashweather\|Ashweather]], sus hijos [[Allrianne\|Allrianne]] y [[Gneorndin\|Gneorndin]], y los descendientes de estos, lady [[Aving\|Aving]] y lord [[Westweather\|Westweather]] y Lady [[Darlin\|Darlin]].
 En el año 341 PC, la Mansión Cett se localiza en la parte sur del 5º Octante, cerca de los 4º-5º Canales.
 
 ## Notas

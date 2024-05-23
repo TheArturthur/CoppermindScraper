@@ -7,13 +7,14 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
-**Isasik Shulin** era el cartógrafo real [[Alezi\|alezi]] en [[Roshar\|Roshar]].
-Actuó como cartógrafo real de [[Gavilar Kholin\|Gavilar Kholin]]. En su calidad de cartógrafo real hizo copias más pequeñas de los mapas de los reyes para [[Dalinar\|Dalinar]].
+**Isasik Shulin** es el cartógrafo real [[Alezi\|alezi]] en [[Roshar\|Roshar]].
+Actuó como cartógrafo real de los reyes [[Gavilar\|Gavilar]] y [[Elhokar\|Elhokar]], y es probalble que también de la reina [[Jasnah Kholin\|Jasnah Kholin]]. En su calidad de cartógrafo real hizo copias más pequeñas de los mapas de los reyes para el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]].
 Es posible que proceda de la ciudad de [[Shulin\|Shulin]].
 Estuvo presente en las [[Llanuras Quebradas\|Llanuras Quebradas]]. También iba en el viaje a [[Narak\|Narak]] y hacia [[Urithiru\|Urithiru]].
 No pudo unirse a la expedición a [[Piedralar\|Piedralar]] en el *[[Cuarto Puente\|Cuarto Puente]]* ya que se encontraba fuera cartografiando la parte oriental de las [[Llanuras Quebradas\|Llanuras Quebradas]].
-Cree que [[Shadesmar\|Shadesmar]] es increíble e intentó explicarle a [[Adolin\|Adolin]] el porqué tres veces, pero Adolin nunca lo entendió.
+Cree que [[Shadesmar\|Shadesmar]] es increíble e intentó explicarle al [[Alto pr%C3%ADncipe\|alto príncipe]] [[Adolin Kholin\|Adolin Kholin]] el porqué tres veces, pero este nunca lo entendió.
 
 ## Curiosidades
 Debe su nombre a [[Isaac Stewart\|Isaac Stewart]], uno de los artistas interiores de [[El camino de los reyes\|El camino de los reyes]].

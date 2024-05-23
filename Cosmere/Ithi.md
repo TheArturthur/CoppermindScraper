@@ -3,15 +3,15 @@
 
 |**Ithi**|
 |-|-|
-|**Familia**|
 |**Hermanos**|Hermana sin nombre|
-|**Capacidades**|[[Moldeador de almas\|Moldeador de almas]]|
+|**Capacidades**|[[Moldeador de almas\|Moldeador de almas]] |
 |**Oficio**|[[Fervoroso\|Fervoroso]]|
 |**Religión**|[[Vorinismo\|Vorinismo]]🐱︎|
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Ithi** es una [[Moldeador de almas\|moldeadora de almas]] en [[Kholinar\|Kholinar]], en [[Roshar\|Roshar]]. [[Celeste\|Celeste]] les encarga a ella y a su hermana que alimenten en secreto a la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] moldeando piedra en comida.
 
@@ -27,10 +27,10 @@
 Ithi es una mujer de mediana o avanzada edad. Como resultado de ser una [[Sabio\|sabia]] del moldeado de almas, parece que le crecen enredaderas bajo la piel, por los ojos y por la cara. Lleva en la mano un [[Fabrial\|fabrial]] moldeador de almas, alimentado por [[Luz tormentosa\|luz tormentosa]] contenida en grandes esmeraldas. Como la mayoría de moldeadores de almas [[Alezi\|alezi]], es una [[Fervoroso\|fervorosa]] de la iglesia [[Vorin\|Vorin]].
 
 ## Habilidades
-Ithi es experta en el uso de su fabrial moldeador de almas. Aunque ella y su hermana no son lo bastante poderosas como para alimentar a toda la ciudad, son capaces de mantener a toda la Guardia de la Muralla abastecida de comida en abundancia, incluso con "algo de sobra". Comparte el fabrial con su hermana y así pueden seguir moldeando almas "sin descanso".
+Ithi es experta en el uso de su [[Fabrial\|fabrial]] moldeador de almas. Aunque ella y su hermana no son lo bastante poderosas como para alimentar a toda la ciudad, son capaces de mantener a toda la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] abastecida de comida en abundancia, incluso con "algo de sobra". Comparte el fabrial con su hermana y así pueden seguir moldeando almas "sin descanso".
 
 ## Historia
-Durante el [[Asedio a Kholinar\|asedio a Kholinar]], la alta mariscal [[Celeste\|Celeste]] dirigió a la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] en la defensa de la ciudad contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Durante el asedio, la comida escaseó en la ciudad; los Portadores del Vacío permitieron intencionadamente que los refugiados de los alrededores entrasen en la ciudad y agotasen sus recursos. En circunstancias normales, los moldeadores de almas de la ciudad habrían sido capaces de hacer comida moldeada para mantener a la población durante bastante tiempo, pero el ejército invasor controlaba [[Vac%C3%ADospren\|vacíospren]] conocidos como "chillones" que podían detectar la mayoría de usos de luz tormentosa, incluidos los fabriales, y alertar a los [[Fusionado\|Fusionados]].
+Durante el [[Asedio a Kholinar\|asedio a Kholinar]], la alta mariscal [[Celeste\|Celeste]] dirigió a la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] en la defensa de la ciudad contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Durante el asedio, la comida escaseó en la ciudad; los Portadores del Vacío permitieron intencionadamente que los refugiados de los alrededores entrasen en la ciudad y agotasen sus recursos. En circunstancias normales, los moldeadores de almas de la ciudad habrían sido capaces de hacer comida moldeada para mantener a la población durante bastante tiempo, pero el ejército invasor controlaba [[Vac%C3%ADospren\|vacíospren]] conocidos como "chillones" que podían detectar la mayoría de usos de [[Luz tormentosa\|luz tormentosa]], incluidos los fabriales, y alertar a los [[Fusionado\|Fusionados]].
 [[Kaladin\|Kaladin]] se dio cuenta de que Celeste parecía controlar una cantidad inusual de comida, e incluso la utilizaba para reclutar gente en su ejército. Esta acabó revelando una serie de cámaras ocultas en las murallas de la ciudad. Celeste entraba en los túneles cada noche para cortar bloques de piedra con su [[Hoja esquirlada\|hoja esquirlada]] que Ithi y su hermana convertirían en comida. Evitaron ser detectadas por los chillones forrando la habitación con paneles de [[Aluminio\|aluminio]] que [[Hoid\|Hoid]] le había dado a Celeste.
 
 ## Notas

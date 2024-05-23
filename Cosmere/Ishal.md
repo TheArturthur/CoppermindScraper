@@ -7,13 +7,14 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“* ¿Su nombre, brillante señor? Querría quemar las glifoguardas como es debido, con tu permiso.*”
 \- Ishal a Dalinar sobre el nombre de Adolin[1]
 
 
-**Ishal** es una [[Fervoroso\|fervorosa]] [[Alezi\|alezi]] de [[Kholinar\|Kholinar]] durante la [[Era de la Soledad\|Era de la Soledad]].
-En algún momento de su vida, Ishal se convirtió en una fervorosa en Kholinar, uniéndose al [[Vorinismo\|Devotario de la Pureza]]. Al final de su vida, en el año 1150, Ishal estuvo presente en el nacimiento de [[Adolin Kholin\|Adolin Kholin]]. Pidió al alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] que le pusiese nombre a Adolin, para poder quemar los [[Glifoguarda\|glifoguardas]] apropiados.
+**Ishal** es una [[Fervoroso\|fervorosa]] [[Alezi\|alezi]] de [[Kholinar\|Kholinar]] durante la [[Era de la Soledad\|Era de la Soledad]] en [[Roshar\|Roshar]].
+En algún momento de su vida, Ishal se convirtió en una fervorosa en Kholinar, uniéndose al [[Vorinismo\|Devotario de la Pureza]]. Al final de su vida, en el año 1150, Ishal estuvo presente en el nacimiento del príncipe [[Adolin Kholin\|Adolin Kholin]]. Pidió al alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] que le pusiese nombre a Adolin, para poder quemar los [[Glifoguarda\|glifoguardas]] apropiados.
 
 ## Notas
 

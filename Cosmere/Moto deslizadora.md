@@ -8,8 +8,6 @@
 |**Mundo de origen**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|Cosmere|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 >“*Impresionante ¿En este planeta todo se divide en piezas menores funcionales? Si nos estrellamos en este trasto, ¿se desintegrará en cien motos aún más pequeñitas?*”
 \-Nómada sobre las motos deslizadoras[1]
 
@@ -59,7 +57,7 @@ Nómada y Rebeke toman la moto cuádruple junto con otra gente de Baliza en sus 
 Nómada utiliza un motor extraído de una moto deslizadora para aprender cómo funcionan los motores de Baliza y así poder idear una forma de llevar la ciudad por encima de las montañas. Se entera de que los motores utilizan el aire circundante como propulsor y que no funcionarán en el vacío si no se los modifica. Con la ayuda de [[Solemnidad Divina\|Solemnidad Divina]], Nómada crea múltiples prototipos para los motores modificados utilizando motos deslizadoras, lo que provoca al menos una explosión. Realiza una prueba de esfuerzo del diseño con una moto prototipo final y determina que las modificaciones funcionan.
 
 ## Ejemplos destacados
-Moto cuádruple de Rebeke
+Moto cuádruple de [[Rebeke\|Rebeke]]
 ## Curiosidades
 Nómada ha pilotado vehículos similares en el pasado y probablemente pueda descifrar los controles con sólo un poco de instrucción.
 Tras la muerte de su madre, Divinidad instaló su sol corazón y el de la madre de Rebeke en la moto cuádruple de Rebeke para que pudiese tenerlo cerca de ella.

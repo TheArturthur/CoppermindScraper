@@ -6,6 +6,7 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Hab** es un soldado ojos oscuros del escuadrón de [[Kaladin\|Kaladin]] del ejército del alto mariscal [[Meridas Amaram\|Meridas Amaram]] en [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]].
 

@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Huqin** es un ladrón de [[Azir\|Azir]], en [[Roshar\|Roshar]].
 
