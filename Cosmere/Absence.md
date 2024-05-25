@@ -2,7 +2,6 @@
 |-|-|
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 **Absence** is an  killed by the [[Reckoners\|Reckoners]] one year before they killed . His blood was sampled and used as payment for weapons bought off [[Diamond\|Diamond]].
 

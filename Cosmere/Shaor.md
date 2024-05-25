@@ -12,7 +12,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Shaor** era una muchacha que se hizo elantrina antes que [[Raoden\|Raoden]]. Era la jefa de una de las tres bandas de la ciudad, y sus hombres eran conocidos por su salvaje brutalidad.
 Al ver a Shaor, Raoden la reconoció como **Soine**, la hija del duque [[Telrii\|Telrii]] que había afirmado que murió de [[Dionia\|dionia]]. Había sido calva y llevaba una peluca de cabellos dorados. Al entrar en [[Elantris (ciudad)\|Elantris]] los sacerdotes no se habían molestado en quitarle la peluca, pensando que era su pelo real que aún no se había caído. Debido a su supuesta cabellera dorada, era adorada por los hombres que se habían vuelto locos en Elantris.

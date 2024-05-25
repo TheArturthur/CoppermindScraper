@@ -8,7 +8,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Aslydin** es la hija de un anciano de [[Terris\|Terris]] en [[Scadrial\|Scadrial]] nacida durante el [[Imperio Final\|Imperio Final]]. Está en una relación con el general [[Demoux\|Demoux]]. Es miembro de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y ha trabajado por su cuenta por todo el [[Cosmere\|Cosmere]].
 Aslydin huyó de su casa cuando fue atacada por los [[Inquisidores\|inquisidores]], y viajó con los otros refugiados de Terris a los [[Pozos de Hathsin\|Pozos de Hathsin]], donde establecieron su campamento. Durante la [[Batalla de Hathsin\|batalla de Hathsin]], Aslydin atendió a los heridos, y distribuyó refrigerios.

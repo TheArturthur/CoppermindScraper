@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*I will not lift the Blade against other listeners.*”
 \-Sharefel[1]

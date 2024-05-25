@@ -2,7 +2,6 @@
 |-|-|
 |**Capacidades**||
 |**Mundo natal**||
-|**Primera aparición**|*Legion: Lies of the Beholder*|
 
 **Sandra** is an old acquaintance of [[Stephen Leeds\|Stephen Leeds]].
 

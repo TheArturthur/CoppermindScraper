@@ -5,7 +5,6 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*Deadeyes cannot think, but they are still spren—bound to the spiritweb of Roshar herself. They can feel what is happening in this keep, that justice will finally be administered.*”
 \-Vaiu[1]

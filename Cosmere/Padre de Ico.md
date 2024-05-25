@@ -9,7 +9,6 @@
 |**Especie**|[[Alcanzador\|Alcanzador]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **padre de Ico** es un [[Alcanzador\|alcanzador]] [[Ojomuerto\|ojomuerto]] en [[Roshar\|Roshar]]. Estaba vinculado a un [[Caballeros Radiantes\|Radiante]] antes de la [[Traici%C3%B3n\|Traición]], y fue "asesinado", convirtiéndose en un "ojomuerto", cuando su Caballero traicionó sus juramentos.

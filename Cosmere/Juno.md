@@ -8,6 +8,7 @@
 |**Especie**|[[Kitsen\|Kitsen]]|
 |**Mundo natal**||
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Perpetua\|Perpetua]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

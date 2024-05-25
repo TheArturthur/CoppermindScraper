@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (book)\|Elantris]]*|
 
 **Adien** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Es hijo de [[Daora\|Daora]], hijastro de [[Kiin\|Kiin]], hermano menor de [[Lukel\|Lukel]] y hermanastro mayor de [[Kaise\|Kaise]] y [[Daorn\|Daorn]]. Por matrimonio, está emparentado con [[Sarene\|Sarene]] y la [[Familia real teo%C3%ADsa\|familia real teoísa]].
 

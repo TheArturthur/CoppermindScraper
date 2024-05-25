@@ -8,7 +8,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Ka** es un escriba de un escuadrón de [[Corredores del Viento\|Corredores del Viento]] en [[Roshar\|Roshar]]. Conoció a [[Puente Cuatro\|Puente Cuatro]] durante la [[Era de la Soledad\|Era de la Soledad]] mientras trabajaba como camarera en el [[Chull Gru%C3%B1%C3%B3n\|Chull Gruñón]], una taberna del campamento de guerra de Kholin en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Está prometida con [[Peet\|Peet]].
 

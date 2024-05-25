@@ -8,7 +8,6 @@
 |**Residencia**|[[Nueva Seran\|Nueva Seran]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 >“*Donde más rabia le de. Aquí nadie se queja. Ese es el lema de los enterradores, ¿sabe? «No pasa nada, recuerda que aquí nadie se queja.»*”
 \-Dechamp[2]

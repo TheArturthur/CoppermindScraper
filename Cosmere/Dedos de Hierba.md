@@ -8,7 +8,6 @@
 |**Etnia**|[[De Dzhamar\|de Dzhamar]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El alma del emperador\|El alma del emperador]]*|
 
 **Dedos de Hierba** es un [[Sellador de sangre\|sellador de sangre]] de [[Dzhamar\|Dzhamar]] que ayuda a encarcelar a [[Shai\|Shai]] durante la [[Falsificaci%C3%B3n\|falsificación]] del alma del emperador [[Ashravan\|Ashravan]].
 

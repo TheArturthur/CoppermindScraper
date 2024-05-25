@@ -12,7 +12,6 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Cuando los demás miran a las personas, una puede parecerles a veces más hermosa que otra. Para mí no es así. Yo solo veo el color. Los ricos y maravillosos colores que componen todas las cosas y les dan vida.*”
 \-Susebron a Siri[1]

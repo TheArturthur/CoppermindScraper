@@ -14,7 +14,6 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

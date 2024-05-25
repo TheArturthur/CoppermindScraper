@@ -4,7 +4,6 @@
 |**Residencia**|[[Nueva Seran\|Nueva Seran]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Destra** es una ciudadana de [[Nueva Seran\|Nueva Seran]] en [[Scadrial\|Scadrial]].
 Vive con [[Templeton Fig\|Templeton Fig]], y está implícito que mantienen una relación. Él no la ve ni la trata como una igual, lo que probablemente explique por qué está nerviosa con él cerca. Es una mujer delgada, casi esquelética, que recientemente ha perdido bastante peso y se le ha quedado la ropa grande.

@@ -8,7 +8,6 @@
 |**Parientes**|[[Sondeluz\|Sondeluz]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Tatara** es la hija de [[Llarimar\|Llarimar]] y la sobrina favorita de [[Sondeluz\|Sondeluz]]. Es salvada por Sondeluz tras caer al océano mientras navegaba.
 

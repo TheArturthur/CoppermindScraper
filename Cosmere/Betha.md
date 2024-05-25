@@ -6,7 +6,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*A una camarera de aquí. Eso sí que no podíamos dejarlo pasar, porque protegemos este sitio, ¿sabes?.*”
 \-Betha explicando a Shallan por qué su grupo había matado a Ned.[1]

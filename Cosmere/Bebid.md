@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Soy sacerdote de Brillavisión la Verdadera. ¡No puedo traicionar mis juramentos!*”
 \-Bebid a Vasher

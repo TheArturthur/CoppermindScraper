@@ -4,7 +4,6 @@
 |**Grupo**|Ejército de Venture|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 Para la casa con el mismo nombre, ver [[Casa Conrad\|Casa Conrad]].
 **Conrad** es un teniente del ejército de [[Elend\|Elend]] en [[Scadrial\|Scadrial]]. El rey [[Penrod\|Penrod]] lo envía a solicitar a Elend más tropas para [[Luthadel\|Luthadel]] antes de la [[Asedio de Ciudad Fadrex\|Batalla de Ciudad Fadrex]].

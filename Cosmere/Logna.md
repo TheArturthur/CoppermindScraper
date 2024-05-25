@@ -4,7 +4,6 @@
 |**Hermanos**|[[Woden\|Woden]]|
 |**Apodos**|Thokk|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 **Logna**, known as **Thokk** in her human alias, is a deity worshiped by the . She is called "mother of monsters" and "stealer of words". She refers to [[Woden\|Woden]] as her brother, but works against him.
 

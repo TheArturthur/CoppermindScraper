@@ -8,7 +8,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Riil** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Originalmente era un trabajador en una [[/wiki/Arelon#Plantaciones]] y había estado estudiando con los oficiales con la esperanza de convertirse en aprendiz antes de ser tomado por la [[Shaod\|Shaod]].
 [[Raoden\|Raoden]] reconoce que la inteligencia de Riil y su espíritu y ética de obrero son una valiosa combinación. Encarga a Riil, [[Maare\|Maare]] y [[Mareshe\|Mareshe]] la tarea de encontrar primero la forma de construir un tejado con sus limitados recursos y luego construir dicho tejado sobre uno de los edificios más grandes de [[Nueva Elantris\|Nueva Elantris]].

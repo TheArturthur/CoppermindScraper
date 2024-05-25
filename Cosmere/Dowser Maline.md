@@ -8,7 +8,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de Identidad\|Sombras de Identidad]]*|
 
 Para el artilugio de la saga de [[Reckoners\|Reckoners]] empleado para detectar [[%C3%89pico\|Épicos]], ver [[Brazalete de zahor%C3%AD\|brazalete de zahorí]].
 **Dowser Maline** es un criminal de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].

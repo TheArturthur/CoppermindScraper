@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Kip** es un muchacho que trabaja como sirviente en la [[Casa Ladrian\|Casa Ladrian]].
 Kip entrega al gran señor [[Waxillium Ladrian\|Waxillium Ladrian]] el correo, incluyendo una invitación al [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]].

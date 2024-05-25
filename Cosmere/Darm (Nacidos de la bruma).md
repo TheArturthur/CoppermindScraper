@@ -6,7 +6,6 @@
 |**Fallecido**|[[Subasta de Winsting Innate\|Subasta de Winsting Innate]], 342 [[Catacendro\|PC]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 Para la mujer de la limpieza de la [[Academia Armedius\|Academia Armedius]], ver [[Darm (Rithmatista)\|Darm (Rithmatista)]].
 **Darm** es un criminal en [[Scadrial\|Scadrial]].

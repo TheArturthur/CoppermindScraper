@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Iri\|de Iri]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*You are an interesting experience, my friend, one in which I’m honored to participate.*”
 \-Ym to his spren[1]

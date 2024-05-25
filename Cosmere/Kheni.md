@@ -9,6 +9,7 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Kheni** es una madre pobre que vive en [[Kholinar\|Kholinar]] tras la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Puede ser humana o cantora; por el momento se desconoce. Está casada con [[Cob (El archivo)\|Cob]] y tuvo un hijo pequeño que murió durante o antes de la caída de la ciudad.
 Tras la muerte de su hijo, Kheni entra en un estado catatónico, con la mirada perdida mientras se aferra a una cuna vacía. Aunque pueda parecer que no es consciente de lo que la rodea, ya que a menudo permanece en silencio cuando se le habla y no da señales visuales de comprensión, sí que escucha a quienes le hablan. Su estado preocupa mucho a su marido, que suele permanecer cerca de su esposa.

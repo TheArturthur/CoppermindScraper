@@ -7,7 +7,6 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 Para El cochero de [[Wax\|Wax]], ver [[Cob (Nacidos de la bruma)\|Cob (Nacidos de la bruma)]]. 
 **Cob** es un hombre de [[Kholinar\|Kholinar]] en [[Roshar\|Roshar]] conocido por [[Hoid\|Hoid]] tras la llegada de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]].

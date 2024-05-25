@@ -7,7 +7,6 @@
 |**Residencia**|[[Nueva Seran\|Nueva Seran]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 >“*Jovencita, necesita alejarse de estas personas.*”
 \-Gin a Marasi[1]

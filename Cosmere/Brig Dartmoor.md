@@ -6,7 +6,6 @@
 |**Capacidades**|Caballero [[Cr%C3%ADstin\|Crístin]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
-|**Primera aparición**|**|
 
 **Brig Dartmoor** is high king of [[Nalhalla\|Nalhalla]] and the leader of the .
 

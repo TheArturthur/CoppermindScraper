@@ -4,7 +4,6 @@
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 Para el residente del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]], ver [[Callins Geffenry\|Callins Geffenry]].
 >“*Disculpadme, brillante señor. ¿Pero de qué deber se trata?*”

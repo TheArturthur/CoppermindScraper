@@ -5,7 +5,6 @@
 |**Hijos**|[[Paul Tanasin\|Paul]], [[Nikka\|Nikka]]|
 |**Oficio**|Defense lawyer|
 |**Mundo natal**|[[Tierra (Dark One)\|Tierra (Dark One)]]|
-|**Primera aparición**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

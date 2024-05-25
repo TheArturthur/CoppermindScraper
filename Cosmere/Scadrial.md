@@ -5,15 +5,15 @@
 |**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]], [[Ruina\|Ruina]], [[Armon%C3%ADa\|Armonía]]|
 |**[[Perpendicularidad\|Perpendicularidades]]**|[[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] (antiguamente), [[Perpendicularidad de Ruina\|Perpendicularidad de Ruina]] (antiguamente), Perpendicularidad de Armonía|
 |**[[Investidura\|Investiduras]]**|[[Alomancia\|Alomancia]], [[Feruquimia\|feruquimia]], [[Hemalurgia\|hemalurgia]]|
+|**Gravedad en superficie**|1 estándar del Cosmere|
+|**Radio**|1 estándar del Cosmere|
 |**Sistema**|[[Sistema scadriano\|Sistema scadriano]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]]*, *[[El metal perdido\|El metal perdido]]*, y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“**Por motivos que van desde las adaptaciones, obligadas o no, de los humanos que viven en él hasta las enormes transformaciones del territorio en sus distintas eras, Scadrial sigue siendo mi planeta preferido como objeto de estudio del Cosmere. Las interacciones de sus magias con la física natural son muchas, variadas y fascinantes.**”
-\-Del ensayo de Khriss sobre el sistema scadriano.[2]
+\-Del ensayo de Khriss sobre el sistema scadriano.[3]
 
 
 **Scadrial** es un planeta del [[Cosmere\|Cosmere]] y el más conocido en el sistema scadriano. No tiene luna, pero hay un [[La Cicatriz\|área de estrellas extremadamente brillantes visible en el cielo nocturno]]{{book ref|mb7|20} La gente de Scadrial es llamada scadriana. El planeta es el hogar de varias manifestaciones de [[Investidura\|investidura]] relacionadas con el metal, tales como la [[Alomancia\|alomancia]], la [[Feruquimia\|feruquimia]] y la [[Hemalurgia\|hemalurgia]]; ciertos individuos conocidos como [[/wiki/Alomancia#tipos de alomantes]] han tenido un impacto significativo en el planeta y en el Cosmere en su conjunto.
@@ -22,6 +22,7 @@
 
 1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
 
+1. [[#Astronom.C3.ADa]] 
 1. [[#Scadrial cl.C3.A1sico]] 
 1. [[#El mundo de ceniza]] 
 1. [[#El Scadrial post-Catacendro]] 
@@ -63,12 +64,18 @@
 
 
 4 Cosmere. [[#Cosmere]] 
-5 Notas. [[#Notas]] 
+5 Notas del traductor. [[#Notas del traductor]] 
+6 Notas. [[#Notas]] 
 
 
 ## Geografía y ecología
+### Astronomía
+Scadrial tiene un radio equivalente a 1 estándar del Cosmere y una gravedad de 1 estándar del Cosmere. Su semieje mayor y periodo orbital difieren dependiendo de la era: el Scadrial clásico y el post-Catacendro tienen un semieje mayor y periodo mayor que el Scadrial antevergel.
+Scadrial no tiene lunas.
+Tanto el planeta Scadrial como el sistema Scadrial se encuentran en la constelación de El Dador
+
 ### Scadrial clásico
-Antes de que el [[Rashek\|lord Legislador]] tomase el poder en el [[Pozo de la Ascensi%C3%B3n (in-world)\|pozo de la Ascensión]], Scadrial era extremadamente parecido a la Tierra. Tenía el cielo azul, nubes, un sol amarillo, flores, plantas verdes y animales tales como caballos.
+Antes de que el [[Rashek\|lord Legislador]] tomase el poder en el [[Pozo de la Ascensi%C3%B3n (in-world)\|pozo de la Ascensión]], Scadrial tenía el cielo azul, nubes, un sol amarillo, flores, plantas verdes y animales tales como caballos.
 La tecnología del Scadrial clásico era equiparable a una era industrial temprana.
 
 ### El mundo de ceniza
@@ -128,7 +135,7 @@ La gente del sur está altamente avanzada. Esto lo menciona el propio [[Armon%C3
 ## Historia y mitología
 ### La creación de Scadrial
 >“**Este fue, entonces, su trato. Conservación se quedó con la humanidad, las únicas creaciones que tenían más Conservación que Ruina en ellas, en vez de un equilibrio. La vida independiente que podía pensar y sentir. A cambio, Ruina obtuvo una promesa, y la prueba, de que podría poner fin a todo lo que habían creado juntos. Fue el pacto.**”
-\-Explicación de Sazed sobre la creación de la humanidad en Scadrial.[15]
+\-Explicación de Sazed sobre la creación de la humanidad en Scadrial.[17]
 
 Hace milenios, las [[Esquirlas\|Esquirlas]] [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]] llegaron al [[Sistema scadriano\|sistema scadriano]], quienes habían escogido de manera deliberada una estrella sin planetas relevantes, y crearon Scadrial. Dado que se habían emparejado dos Esquirlas con Intenciones opuestas, nada podía ser creado o destruido, como desearon que fuera. Estaban atadas pues a un conflicto eterno. Pero entonces, llegaron a un pacto. Conservación ofreció un trato a Ruina. Si Ruina le ayudaba a crear vida en Scadrial, plantas y animales, Conservación le dejaría destruir el planeta entero al final. Además de su palabra, Conservación le ofreció pruebas de que Ruina podría destruirlo todo: El mayor deseo de Conservación era crear vida inteligente, humanos diseñados a imagen de los otros humanos que [[Ati\|Ati]] y [[Leras\|Leras]] habían conocido. A la hora de crear humanos con la chispa de la inteligencia, se requeriría un poco más del poder de Conservación que de Ruina. Esto hizo a Conservación ligeramente más débil, lo que significó que Ruina al final podría superar a su opuesto, y destruir Scadrial. No obstante, Conservación decidió romper el pacto, para así salvar el mundo. No podía superar a Ruina con su poder, ya que estaba demasiado débil. Por tanto, Conservación decidió atrapar la mente de Ruina en una prisión, donde quedaría prácticamente impotente. Para atrapar la mente de Ruina, Conservación usó su propia mente para forjar la prisión, sacrificando su cognición por el bien mayor.
 Conservación no dejó a los humanos sin esperanza para defenderse a sí mismos si Ruina conseguía liberarse. Dejó a la gente de Scadrial con las [[Profec%C3%ADas de Terris\|profecías de Terris]]. Estas hablaban de una serie de héroes que tomarían el poder de Conservación del Pozo de la Ascensión cada mil años para convertirse en el protector de la humanidad. Con el tiempo, llegaría un último héroe, conocido como el Héroe de las Eras, una persona que cargaría con el futuro del mundo en sus brazos. Esta persona tomaría el poder de Conservación, para salvar el mundo.
@@ -143,7 +150,7 @@ Kwaan, el hombre que presentó a Alendi ante el Cónclave de los Forjamundos, se
 No obstante, Alendi falló igualmente a la hora de detener a la Profundidad, y solo quedó una esperanza: el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]]. Como el poder regresaba al Pozo, Alendi pudo oír los pulsos debido a que era un buscador. Esperaba que dejando ir el poder detendría así a la Profundidad. Kwaan sabía que no se debía permitir que Alendi llegara al Pozo, ya que sabía que dejar ir el poder era justo lo que Ruina quería. La única esperanza de Kwaan para detener a Alendi era su sobrino [[Rashek\|Rashek]], un feruquimista que odiaba a Alendi y a la nación de Khlennium de donde éste provenía. Kwaan ordenó a su sobrino que se convirtiera en el porteador de Alendi y que intentara confundirlo en su camino al Pozo. Kwan le pidió que, si Rashek fallaba en eso, matara a Alendi. El último remanente de la mente de Leras, en forma del espíritu de bruma, hacía también lo posible para detener a Alendi. [[Ruina\|Ruina]], no obstante, hizo que Alendi desconfiara del espíritu haciéndose pasar por él y apuñalando al acompañante de Alendi, [[Fedik\|Fedik]], cuando se interesó demasiado en la [[Perpendicularidad de Ruina\|Perpendicularidad de Ruina]]. Al final, Rashek no consiguió llevar a Alendi por un camino equivocado y lo mató. En ese momento, el propio Rashek tomó el poder en el Pozo de la Ascensión y se negó a dejarlo ir, negando a Ruina su oportunidad de liberarse.
 
 >“**La sutileza desplegada por los microbios devoradores de ceniza y las plantas mejoradas demuestra que Rashek progresó cada vez más en el manejo del poder. Se consumió en cuestión de minutos, pero para un dios los minutos pueden pasar como horas. Durante ese tiempo, Rashek comenzó siendo un niño ignorante que empujó un planeta demasiado cerca del Sol, se convirtió en un adulto capaz de crear montañas de ceniza para enfriar el aire, y finalmente en un artesano maduro capaz de desarrollar plantas y criaturas para propósitos específicos.**”
-\-Reflexiones de Sazed acerca del uso de Rashek del Pozo de la Ascensión[38]
+\-Reflexiones de Sazed acerca del uso de Rashek del Pozo de la Ascensión[39]
 
 Mientras tuvo el poder, la mente de Rashek se expandió, pero no estaba acostumbrado a tantísimo poder y no tenía ninguna experiencia usándolo. Rashek intentó destruir la Profundidad moviendo Scadrial más cerca de su estrella, con la idea de evaporar así las brumas. Desafortunadamente, la nueva ubicación de Scadrial era demasiado calurosa para la vida, por lo que Rashek alejó el planeta mucho respecto a su estrella, lo que dejó al mismo demasiado frío. Rashek volvió a moverlo cerca de la estrella, pero todavía hacía demasiado calor. Como no tenía ningún punto de referencia hacía dónde debería ir el planeta, Rashek escogió dejarlo demasiado cerca de la estrella. Empezó a trabajar retroactivamente para solucionar los problemas que él mismo había creado, porque la Intención de Conservación, cuyo poder constituía el Pozo, lo estaba afectando. Para contrarrestar el incremento del calor, creó los montes de ceniza, volcanes que inyectaban gas y ceniza ferromagnética en el aire. Estos protegieron las tierras cerca del polo norte contra el sol, que era uno de los dos lugares relativamente frescos que quedaban en Scadrial, siendo el otro el polo sur. El gas de los montes de ceniza también hizo la atmósfera más densa, lo que aumentó la temperatura en el resto del mundo, volviéndolo todavía más cálido. Esto resultó en un desierto masivo conocido como las Tierras Quemadas que cubrían la mayoría del planeta. Rashek se dio cuenta que la ceniza de los montes de ceniza al final enterraría toda la tierra, por lo que creó plantas y microbios que descomponían la misma. Cuando Rashek alteró a los humanos del polo norte para hacerlos capaces de sobrevivir en un mundo tan lleno de ceniza, le preocupaba que los cambios que hizo en su fisiología los mataran. Así que dejó algunos de los humanos en Scadrial sin alterar, como medida de control, y los trasladó a la zona relativamente fresca situada cerca del polo sur, facilitándoles además un método que se desconoce aún para sobrevivir allí. Rashek también quiso disfrazar la ubicación del Pozo, por lo que allanó las montañas de Terris, las movió hacia el sur desde el polo, y levantó nuevas montañas en el norte para disfrazar lo que había ocurrido.
 Rashek obtuvo también entendimiento acerca de las Artes Metálicas. Ruina, por su parte, susurró a Rashek los secretos de cómo crear koloss e inquisidores, sirvientes que Ruina esperaba poder controlar él mismo más adelante. Rashek se dió cuenta que los feruquimistas de su tierra natal serían difíciles de controlar debido al conocimiento guardado en sus mentes de metal. No lo aceptarían como su líder porque había asesinado a su héroe, Alendi. Así pues, Rashek ofreció un trato a sus compañeros porteadores y a su tío Kwaan. Les daría inmortalidad a cambio de su feruquimia y humanidad. Los porteadores de Rashek aceptaron la propuesta, pero Kwaan la rechazó diciendo que era una traición a quienes eran los terrisanos como pueblo. Utilizando el poder de Conservación, Rashek cambió a sus amigos y a todos los demás feruquimistas vivos en espectros de la bruma, pero intentó destruir a Kwaan, cosa que no pudo hacer con el poder de Conservación, por lo que Kwaan permaneció inalterado. Usando los secretos de la hemalurgia, Rashek devolvió la conciencia a sus compañeros, usando clavos para transformarlos de espectros de la bruma en kandra. Después de esto, los remanentes del poder de Rashek se desvanecieron, y volvió a su estado habitual de existencia, salvo que ahora era una Lasca de Conservación. Rashek se convirtió a sí mismo en [[Alomancia\|nacido de la bruma]], lo que le permitió vivir para siempre usando la [[Composici%C3%B3n\|composición]] del [[Atium\|atium]]. Planeaba sobrevivir hasta que el poder de Conservación volviera al Pozo de la Ascensión, para poderlo tomar de nuevo y evitar que Ruina escapase. Rashek empezó a llamarse a sí mismo el lord Legislador, e inició su cruzada para reconquistar lo que quedaba de Scadrial.
@@ -195,7 +202,7 @@ Vin acabó descubriendo las estratagemas de Ruina, y no quiso encontrar el atium
 
 ### La Batalla de Hathsin
 >“**¡Conservación no podía destruirte! [...] Solo podía proteger. Por eso necesitaba crear a la humanidad. ¡Todo el tiempo, Ruina, esto ha sido parte de su plan!**”
-\-Vin a Ruina[66]
+\-Vin a Ruina[67]
 
 
 Tras su ascensión, Vin intentó oponerse a Ruina, pero comprendió que no podía hacer mucho, ya que Ruina se opondría a ella. Ruina descubre dónde se ha escondido su atium e intenta recuperarlo, ya que sin él está más débil de lo normal. Todos los koloss bajo el control de Ruina acuden al lugar de la [[Batalla de Hathsin\|Batalla de Hathsin]] y atacan a los que se refugian allí. En el terreno, Elend y Sazed descubrieron el atium y se dieron cuenta de que los que fueron tomados por las nieblas y que estuvieron enfermos durante más tiempo son [[Vidente (Scadrial)\|videntes]], o brumosos de atium. Ruina envió inmediatamente a sus fuerzas para destruirlos, pero los Videntes utilizaron sus nuevos poderes para rechazar a los koloss, así como para debilitar a Ruina. Ruina, a través de Marsh, mató a Elend, y Vin se dio cuenta del plan de Conservación. Conservación necesitaba a alguien que pudiera preservar, pero también destruir, y Conservación estaba demasiado influido por la Intención de su Esquirla como para poder destruir a Ruina. Vin sabía que le quedaba poco por lo que vivir sin Elend, y así, atacó directamente a Ruina con su poder. Se lanzó al ataque, sin dudarlo, y durante el asalto mató a Ruina y a sí misma en el proceso.
@@ -210,23 +217,23 @@ En 194 o en 294, se aprobó el [[Acuerdo Alom%C3%A1ntico del 94\|Acuerdo Alomán
 
 ### Auge del trellismo y el Grupo
 En algún momento, [[Trell (trellismo)\|Trell]] empezó a convertirse en una amenaza para Armonía, invadiendo el sistema scadriano. Esto le llevó a buscar a una persona que pudiera actuar como su espada y luchar contra la amenaza, actuando en su nombre. El elegido para este papel fue [[Waxillium Ladrian\|Waxillium Ladrian]]. Envió a [[Paalm\|Paalm]] con el fin de prepararlo para que se convirtiera en la espada perfecta para Armonía, disfrazándose de una humana llamada Lessie.
-El 14 de Vinuarch 341 PC, un nuevo grupo conocido como los [[Desvanecedores\|Desvanecedores]] robó un tren lleno de aluminio dirigido a la [[Casa Tekiel\|Casa Tekiel]], antes de desaparecer durante varios meses. La magnitud del robo, y la misteriosa desaparición del grupo, hicieron que aparecieran en varios periódicos.
+El 14 de Vinuarch 341 [[Catacendro\|PC]], un nuevo grupo conocido como los [[Desvanecedores\|Desvanecedores]] robó un tren lleno de aluminio dirigido a la [[Casa Tekiel\|Casa Tekiel]], antes de desaparecer durante varios meses. La magnitud del robo, y la misteriosa desaparición del grupo, hicieron que aparecieran en varios periódicos.
 Algún tiempo antes del 4 de Doxil, [[Alloran Feltri\|Alloran Feltri]], favorito al segundo escaño de los Trabajadores del Canal en el Senado, fue descubierto como alborotador, que utilizaba sus poderes para reunir partidarios. Surgió una gran controversia en torno a esto, que acabó apareciendo en la portada de *El Diario de Elendel*.
-341 años después del [[Catacendro\|Catacendro]], los Desvanecedores atacaron en la boda Yomen-Ostlin y secuestraron a Steris y Marasi, y mataron a [[Peterus\|Peterus]].
+En el 341 [[Catacendro\|PC]],, los Desvanecedores atacaron en la boda Yomen-Ostlin y secuestraron a Steris y Marasi, y mataron a [[Peterus\|Peterus]].
 Los Desvanecedores atacaron la boda de Yomen-Ostlin y secuestraron a Steris y Marasi, y mataron a [[Peterus\|Peterus]].
 Miles Dagouter fue capturado y procesado por [[Daius\|Daius]], considerado culpable de los cargos que se le imputaban y fue condenado a ser ejecutado. Se realizó con éxito su ejecución por medio de un pelotón de fusilamiento no mucho después de su condena.
 En algún momento después de la ejecución de Miles Dagouter, una kandra demente llamada Sangradora, comenzó a ir por ahí matando gente en Elendel de forma brutal, lo que le valió mucha atención de los ciudadanos y de la ley. También mató al gobernador [[Replar Innate\|Replar Innate]] y se hizo pasar por él, y voló una presa, causando desequilibrio económico. Sus suplantaciones fueron cuidadosamente elegidas para causar inestabilidad en el gobierno y poner a los supervivencialistas en contra de los caminantes.
 Con el gobernador muerto, [[Claude Aradel\|Claude Aradel]] se alzó para ocupar su lugar. Su ascenso al cargo fue importante, ya que prometió arrestar a los nobles corruptos, y fue el primer no noble en ascender al cargo de gobernador en la historia de Elendel.
-En el año 341, los coches y la luz eléctrica seguían siendo tecnologías nuevas y controvertidas, y su uso era rechazado. El sindicato de cocheros estaba especialmente en contra de los automóviles, diciendo que "no tienen el sentido común de un caballo y un cochero".
+En el 341 [[Catacendro\|PC]],, los coches y la luz eléctrica seguían siendo tecnologías nuevas y controvertidas, y su uso era rechazado. El sindicato de cocheros estaba especialmente en contra de los automóviles, diciendo que "no tienen el sentido común de un caballo y un cochero".
 En el año 342, Wax, Wayne, Marasi y Steris encontraron a un grupo de scadrianos del sur prisioneros del Grupo. Esto llevaría a que la existencia de los scadrianos del sur se convirtiera en un conocimiento común en la cuenca debido a un acuerdo de comercio.
 
 ### Llegada de Trell
-Alrededor del 348 PC, Autonomía, a través de Trell, comenzó a convertir a Telsin Ladrian en su Avatar mientras planeaba arrebatarle el control de Scadrial a Armonía.
+Alrededor del 348 [[Catacendro\|PC]], Autonomía, a través de Trell, comenzó a convertir a Telsin Ladrian en su Avatar mientras planeaba arrebatarle el control de Scadrial a Armonía.
 Finalmente fue derrotada, se detuvo la bomba planeada para destruir Elendel y su perpendicularidad se derrumbó. Por lo tanto, abandonó el planeta con planes de regresar de nuevo una vez que consideró que era el momento adecuado.
 Siguiendo la hoja de ruta de Trell, las Ciudades Exteriores y los Áridos empezaron a presionar para ganar soberanía. Esto fue motivado por las tensiones que habían ido creciendo a lo largo de los siglos, y finalmente llegando a un punto de no retorno tras la aprobación de la [[Ley de la Supremac%C3%ADa de Elendel\|Ley de la Supremacía de Elendel]]
 
 ### Conflicto interplanetario
-En algún momentos, Scadrial aprendió a ocnstruir naves que podían viajar más rápido que la velocidad de la luz, permitiendo el viaje entre planetas por el Reino Físico.
+En algún momento, durante el siglo en el que se derroca al [[Rey Incandescente\|Rey Incandescente]] en [[C%C3%A1ntico\|Cántico]], Scadrial aprendió a construir naves que podían viajar más rápido que la velocidad de la luz, permitiendo el viaje entre planetas por el Reino Físico.
 Durante la era espacial de Scadrial, el conflicto empezó a crecer entre él y otros planetas, llevando al inicio de una carrera armamentística interplanetaria u creciendo las agresiones militares. Durante esta, los [[Decidores del Tiempo\|Decidores del Tiempo]] viajaron a [[C%C3%A1ntico\|Cántico]], donde estudiaron el planeta y enseñaron al [[Rey Incandescente\|Rey Incandescente]] cómo crear [[Chamuscado\|chamuscados]], acelerando así su conquista planetaria.
 
 ## Cultura y Sociedad
@@ -285,6 +292,9 @@ Después de que Sazed tomara el poder de ambas Esquirlas, sus poderes se «entre
 [[Autonom%C3%ADa\|Autonomía]] comenzó a invadir e intentar apoderarse de Scadrial o destruirla en el siglo IV PC, haciendo que el Grupo cumpliera sus órdenes en Scadrial. Milenios antes, propició la fundación de la fe del [[Trelagismo\|trelagismo]], como semilla que la ayudaría a hacerse con el control del planeta más adelante, si lo consideraba necesario. Tras la detonación prematura de la bomba de armonium, que impidió la destrucción de Elendel, se retiró del planeta, con la plena intención de regresar.
 Scadrial es uno de los focos de los Sangre Espectral, una organización que se ha extendido por todo el Cosmere. Estos se han visto principalmente en Roshar, con los Sangre Espectral buscando una forma de transportar la Investidura fuera de Roshar, debido a lo fácilmente accesible que es la Investidura allí en comparación con otros planetas, y para obtener conocimientos de los Heraldos para intentar averiguar cómo ayudar a Kelsier a escapar de sus vínculos con Scadrial. Es probable que todo esto esté relacionado con el objetivo de los Sangre Espectral de proteger Scadrial a toda costa.
 Por alguna razón, Scadrial ha sido visitada por «varias» Esquirlas antes de los acontecimientos de *Nacidos de la Bruma* (se desconoce cuándo sucedió).lo más probable es que una de ellas se refiera a Autonomía. Odium tiene influencia en Scadrial.
+
+
+## Notas del traductor
 
 ## Notas
 

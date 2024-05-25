@@ -4,7 +4,6 @@
 |**Hijos**|[[Feotora\|Feotora]]|
 |**Títulos**|Chronicle King|
 |**Mundo natal**|[[Mirandus\|Mirandus]]|
-|**Primera aparición**|**|
 
 **Gosovic** is the late Chronicle King of the [[Kingdoms of Light\|Kingdoms of Light]] on [[Mirandus\|Mirandus]].
 

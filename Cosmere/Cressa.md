@@ -5,7 +5,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|**|
 
 **Cressa** es una refugiada en [[Urithiru\|Urithiru]] y natural de [[Roshar\|Roshar]]. Es sobrina de un [[Alezi\|alezi]] llamado [[Noril\|Noril]].
 Fue una de las muchas personas refugiadas en Urithiru afectadas por la enfermedad leve que se esparce por la torre en 1175. Mientras [[Kaladin\|Kaladin]] trata su tos, comenta que no podía encontrar a su tío, [[Noril\|Noril]]. Pensaba que Kaladin podría haberle visto, ya que era posible que llegase a [[Piedralar\|Piedralar]] poco antes de la evacuación del pueblo en el *[[Cuarto Puente\|Cuarto Puente]]*. Kaladin se acuerda de esto, y va con [[Teft\|Teft]] a buscar a Noril.

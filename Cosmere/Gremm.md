@@ -10,7 +10,6 @@
 |**Especie**|[[Tenasi\|Tenasi]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Cit%C3%B3nica (libro)\|Citónica ]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

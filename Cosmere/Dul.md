@@ -8,7 +8,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Dul** es un [[Cantor\|cantor]] en [[Roshar\|Roshar]]. Fue [[Parshmenio\|parshmenio]] anteriormente. Es un miembro del grupo de cantores de [[Venli\|Venli]] que desea liberarse de los [[Fusionado\|Fusionados]].
 

@@ -6,7 +6,6 @@
 |**Grupo**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 >“*I cannot promise you a position in one of the orders--that decision is not mine--but if your skill with the sword is similar to your skill with hearth-tending implements, then I am confident you will find a place with us.*”

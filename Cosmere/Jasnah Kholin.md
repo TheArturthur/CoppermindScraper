@@ -18,7 +18,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -230,7 +229,7 @@ Durante la expedición militar en Emul, Jasnah y Sagaz trabajaron en la creació
 Algún tiempo después del regreso de Jasnah de Shadesmar, ella y [[Hoid\|Hoid]] se vuelven cercanos. A Jasnah le gusta porque nunca le molestan sus frecuentes preguntas, aunque a veces las esquiva. Jasnah se preocupa más por la estimulación mental que por la física, lo que hace que interactuar con Hoid sea revitalizante para ella.
 
 ## Desarrollo
-Jasnah fue un personaje principal en *[[El camino de los reyes Prime\|El camino de los reyes Prime]]*, el borrador de Brandon de 2002 de *[[El camino de los reyes\|El camino de los reyes]]*, y su arco argumental fue el más completo de todos los hilos. Se centraba en su lucha contra las normas sociales y su lucha contra las presiones externas para casarse. En la versión de 2010 de *El camino de los reyes*, esto quedó relegado a su historia secundaria para que Shallan pudiera ser el centro de atención. La personalidad de Jasnah se mantuvo prácticamente inalterada entre las dos versiones, y su nombre fue uno de los dos que también lo fueron -de hecho, el nombre de Jasnah, junto con el de Dalinar, fue fundamental para la creación de la lengua alezi por parte de Brandon. Es el personaje con flashbacks en *El archivo de las tormentas 10*. Como tal, se convertirá en un personaje aún más importante a medida que la saga continúe.
+Jasnah fue un personaje principal en *[[El camino de los reyes Prime\|El camino de los reyes Prime]]*, el borrador de Brandon de 2002 de *[[El camino de los reyes\|El camino de los reyes]]*, y su arco argumental fue el más completo de todos los hilos. Se centraba en su lucha contra las normas sociales y su lucha contra las presiones externas para casarse. En la versión de 2010 de *El camino de los reyes*, esto quedó relegado a su historia secundaria para que Shallan pudiera ser el centro de atención. La personalidad de Jasnah se mantuvo prácticamente inalterada entre las dos versiones, y su nombre fue uno de los dos que también se mantuvieron. De hecho, el nombre de Jasnah, junto con el de Dalinar, fue fundamental para la creación de la lengua alezi por parte de Brandon. Es el personaje con flashbacks en *El archivo de las tormentas 10*. Como tal, se convertirá en un personaje aún más importante a medida que la saga continúe.
 
 ## Citas
 Para una lista de citas, ver [[Jasnah Kholin/Citas\|/Citas]].

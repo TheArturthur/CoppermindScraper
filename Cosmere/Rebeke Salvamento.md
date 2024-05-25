@@ -11,7 +11,6 @@
 |**Etnia**|[[De Treno\|de Treno]]|
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

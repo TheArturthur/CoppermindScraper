@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Alguien tendría que haberme dicho lo divertido que iba a ser esto. Me habría esforzado mucho más en conseguir el puesto.*”
 \-Malata, acerca de su trabajo como Caballera Radiante del Diagrama[1]

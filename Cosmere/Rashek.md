@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 >“*No cometí ningún error. Nunca he cometido ningún error. Sin embargo, es hora de cambiar.*”
 \-Palabras de Rashek tras la muerte del sumo prelado Tevidian Tekiel.[6]

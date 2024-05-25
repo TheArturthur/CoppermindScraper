@@ -12,7 +12,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Take that next storming step. You can't change the past, only the future.*”
 \-Teft[2]

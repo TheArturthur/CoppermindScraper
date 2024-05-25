@@ -7,7 +7,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“* Kyril es quien lleva las inspecciones... aunque bueno, es posible que él también esté loco, en realidad.*”
 \- cultivacispren de la administración portuaria[1]

@@ -6,6 +6,7 @@
 |**Oficio**|Oficial de policía|
 |**Mundo natal**|[[V%C3%ADsperas\|Vísperas]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 **Ken Harris** es un agente de policía en [[V%C3%ADsperas\|Vísperas]].
 En 2211, se encuentra un trozo de caparazón, presuntamente del embajador [[Varvax\|varvax]] recientemente desaparecido, en una estación incendiada en Vísperas, y Harris es uno de los oficiales que investigan el incidente bajo las órdenes del capitán [[Orson Ansed\|Orson Ansed]]; en ese momento, Ansed lo considera un "chico nuevo". Lleva a Ansed al edificio, le muestra el trozo de caparazón quemado e informa de que la red de sensores no registró nada. También señala que los quemadores sólo se vacían una vez al mes y que, si el cuerpo hubiera estado allí más tiempo, probablemente no habría quedado ningún rastro. Por último, informa a Ansed de que el trabajador que encontró el caparazón ya se lo contó a los medios de comunicación.

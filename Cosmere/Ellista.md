@@ -8,7 +8,6 @@
 |**Residencia**|[[Jokasha Monastery\|Jokasha Monastery]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Ellista** es una [[Fervoroso\|fervorosa]] y erudita en el [[Monasterio de Jokasha\|Monasterio de Jokasha]] en [[Jah Keved\|Jah Keved]], en [[Roshar\|Roshar]]. Es parte del [[/wiki/Vorinismo#Devotarios]].
 Ella es una lingüista diacrónica y una de las académicas involucradas en la traducción del [[Canto del alba\|Canto del alba]].

@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 **Fimkn** es un marinero [[Thayle%C3%B1o\|thayleño]] y médico a bordo del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*.
 Fue miembro de la [[Expedici%C3%B3n a Akinah\|Expedición a Akinah]] y se hizo amigo de [[Lopen\|Lopen]] durante el viaje. Cuando Lopen rescató a [[Turlm\|Turlm]], que había caído por la borda, Fimkn se acercó para ver cómo se encontraba Turlm y luego lo envió bajo cubierta, ya que otro marinero ya había subido para reemplazarlo. Durante la lucha contra los [[Insomne\|Insomnes]] en [[Akinah\|Akinah]], Fimkn vendó las heridas de uno de los hombres que fue herido.

@@ -13,7 +13,6 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 
 

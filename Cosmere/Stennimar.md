@@ -14,7 +14,6 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Todo esto, porque no pude averiguar cómo morir.*”
 \-Sondeluz[3]

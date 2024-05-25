@@ -11,7 +11,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final (libro)]]*|
 
 **Dockson** es un miembro de la [[Banda de Kelsier\|banda de Kelsier]] en [[Scadrial\|Scadrial]]. Es la mano derecha de Kelsier, y los dos han sido amigos desde hace mucho tiempo, trabajando juntos para derrocar al [[Lord Legislador\|lord Legislador]]. Dockson es el único que no es alomante dentro de la banda.
 

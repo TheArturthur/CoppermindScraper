@@ -11,7 +11,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Shan Elariel** es una [[Noble\|noble]] de la [[Casa Elariel\|Casa Elariel]] en [[Scadrial\|Scadrial]]. Es una [[Alomancia\|nacida de la bruma]] y la antigua prometida de [[Elend Venture\|Elend Venture]].
 

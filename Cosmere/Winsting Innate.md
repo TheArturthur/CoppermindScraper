@@ -11,7 +11,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 Lord **Winsting Innate** es un [[Alomante\|alomante]] y miembro del Senado de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]]. Es el hermano de [[Replar Innate\|Replar Innate]], el gobernador de Elendel.
 

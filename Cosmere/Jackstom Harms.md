@@ -13,7 +13,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Sombras de identidad\|Sombras de identidad]]* y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

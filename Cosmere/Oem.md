@@ -6,11 +6,13 @@
 |**[[Esquirla\|Esquirlas]]**|[[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]]|
 |**[[Perpendicularidad\|Perpendicularidades]]**|[[Perpendicularidad de Devoci%C3%B3n\|El Lago]], Segunda perpendicularidad|
 |**[[Investidura\|Investiduras]]**|[[AonDor\|AonDor]], [[ChayShan\|ChayShan]], [[Dakhor\|Dakhor]], [[Falsificaci%C3%B3n\|Falsificación]], [[Sellado de sangre\|Sellado de sangre]]|
+|**Gravedad en superficie**|1.2 estándar del Cosmere|
+|**Radio**|1.5 estándar del Cosmere|
 |**Sistema**|[[Sistema de Sel\|Sistema de Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 >“*Sel—cuyos distintos imperios tienen la particularidad de que, a grandes rasgos, cada uno se ha mantenido ignorante de los asuntos de los demás. Se trata de una ignorancia deliberada, mediante la que cada uno de los tres grandes dominios finge que los otros son meras anotaciones en el mapa, apenas dignas de mención.*”
-\-Khriss[3]
+\-Khriss[4]
 
 
 **Sel**, tambien conocido como **Seol** es un [[/wiki/Cosmere#Planetas]] del [[Sistema de Sel\|sistema de Sel]] en el [[Cosmere\|Cosmere]] en el que tienen lugar los libros *[[Elantris (libro)\|Elantris]]* y *[[El alma del emperador\|El alma del emperador]]*, además de la historia corta *[[La esperanza de Elantris\|La esperanza de Elantris]]*.
@@ -94,9 +96,10 @@ El calendario aónico es empleado por la gente de Arelon y Teod. Tiene al menos 
 ## Historia
 ### Historia inicial y mitología
 >“*Se destruyeron tanto Devoción como Dominio. Su Investidura, es decir, su poder, fue Astillada, sus mentes arrancadas, sus almas enviadas al Más Allá.*”
-\-Khriss sobre la historia de Sel[4]
+\-Khriss sobre la historia de Sel[2]
 
-En una fecha desconocida [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] se asentaron en el planeta en contra de las reglas que se habían acordado entre los Recipientes originales. [[Odium\|Odium]] utilizó este acto como excusa para atacar ambas esquirlas, esta la batalla concluyó en su astillamiento. Su investidura se movió del Reino Espiritual al Cognitivo para prevenir que cualquier otra persona cogiera las Esquirlas. Esta investidura latente se convirtió en un peligroso plasma al que se nombró como [[Dor\|Dor]] y alguna de esas [[Astilla\|Astillas]] se convirtieron en [[Seon\|seones]] y [[Skaze\|skaze]]. Fueron creados de la investidura de Devoción y Dominio respectivamente. A causa de esto, los sistemas mágicos del mundo se volvieron específicos de cada región. Estas consecuencias fueron un efecto secundario de los actos de Odium, quien no tenía intención de que ocurriesen.
+En una fecha desconocida, unos 7700 años estándar antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] se asentaron en el planeta en contra de las reglas que se habían acordado entre los Recipientes originales. [[Odium\|Odium]] utilizó este acto como excusa para atacar ambas esquirlas, esta la batalla concluyó en su astillamiento. Su investidura se movió del Reino Espiritual al Cognitivo para prevenir que cualquier otra persona cogiera las Esquirlas. Esta investidura latente se convirtió en un peligroso plasma al que se nombró como [[Dor\|Dor]] y alguna de esas [[Astilla\|Astillas]] se convirtieron en [[Seon\|seones]] y [[Skaze\|skaze]]. Fueron creados de la investidura de Devoción y Dominio respectivamente. A causa de esto, los sistemas mágicos del mundo se volvieron específicos de cada región. Estas consecuencias fueron un efecto secundario de los actos de Odium, quien no tenía intención de que ocurriesen.
+[[Elantris\|Elantris]] se construyó varios siglos o incluso un milenio antes de su restauración.
 En algún punto, se formaron tres imperios en Sel, debido al gran tamaño del planeta estos imperios se han ignorado considerándose mutuamente como irrelevantes. Uno de los motivos de este aislamiento es la dificultad de viajar entre imperios. Dos de esos imperios son el [[Imperio Rosa\|Imperio Rosa]] y [[Fjordell\|Fjordell]]. [[Shu-Keseg\|Shu-Keseg]] surgió como una religión enfocada en la unidad de todas las personas. Posteriormente se formó un cisma en la religión debido a un desacuerdo sobre lo que significaba la unidad, lo que condujo a la creación de las tradiciones [[Shu-Korath\|Shu-Korath]] y [[Shu-Dereth\|Shu-Dereth]].
 Se formó el imperio Fjordell original y se creó el primer [[Wyrn (t%C3%ADtulo)\|Wyrn]]. El imperio colapsó trescientos años antes de los eventos de Elantris. Alrededor de este momento se formó un cisma en la fe del Shu-Keseg creando el [[Shu-Korath\|Shu-Korath]] y el [[Shu-Dereth\|Shu-Dereth]]. Los restos del imperio Fjorden culparon de su colapso a la falta de una verdadera unidad y como resultado adoptaron el recién formado [[Shu-Dereth\|Shu-Dereth]] como religión del estado. Al hacerlo, se esperaba que evitarían futuras rebeliones o problemas políticos. Unieron la fe Shu-Dereth con la mitología Fjorden e hicieron de Jaddeth la deidad central de su religión. Se inició un movimiento para actualizar sus textos religiosos e históricos para que pareciera que Fjorden siempre fue de esta fe y que el primer Wyrn también adoraba a Jaddeth.
 

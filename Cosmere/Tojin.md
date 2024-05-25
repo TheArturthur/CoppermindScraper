@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Tojin** es un [[Pintor\|pintor]] de [[Pesadilla\|pesadillas]] de [[Kilahito\|Kilahito]], en [[Komashi\|Komashi]]. Trabaja en estrecha colaboración con [[Akane\|Akane]], y es el primer pintor dispuesto a ayudar a [[Nikaro\|Nikaro]] cuando éste acude en busca de ayuda antes de la [[Batalla de Kilahito\|batalla de Kilahito]].
 

@@ -7,6 +7,7 @@
 |**Grupo**|[[FDD\|FDD]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Perpetua\|Perpetua]]*|
 
 **Kel** es un técnico médico de la [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]].
 

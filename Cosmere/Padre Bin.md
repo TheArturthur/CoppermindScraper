@@ -7,7 +7,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 El **padre Bin** es un sacerdote [[Supervivencialismo\|supervivencialista]] de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 Después de que [[Waxillium Ladrian\|Waxillium Ladrian]] y [[Steris Harms\|Steris Harms]] decidieran casarse, Wax envió una petición formal al padre Bin para que oficiara la boda. Más tarde, ese año, antes del sermón de brumalba, el [[Kandra\|kandra]] rebelde [[Paalm\|Paalm]] se disfrazó de un sacerdote [[Caminante\|caminante]] llamado [[Larskpur\|Larskpur]]. Clavó al todavía vivo padre Bin a través de los ojos a una pared de la capilla y después le tapó con una cortina. Después de que la gente llegara al sermón, Paalm empezó a vociferar, diciendo a los supervivencialistas que [[Kelsier\|Kelsier]] era un dios falso que solo se preocupaba de sí mismo, antes de revelar el cuerpo del padre Bin. Al hacer esto, Paalm aumentó las tensiones entre supervivencialistas y caminantes, empujando a [[Elendel\|Elendel]] a los disturbios más aun. Luego Waxillium descubrió los huesos de Larkspur y una maza, que supuso que había sido usada para matar al padre Bin, en la parte trasera del carruaje de [[Chapaou\|Chapaou]].

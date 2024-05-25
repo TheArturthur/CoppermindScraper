@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Havrom** es un jefe de batallón en el ejército [[Casa Kholin\|Kholin]] en [[Roshar\|Roshar]].
 

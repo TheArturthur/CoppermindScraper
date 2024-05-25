@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Bashin** es un [[Alezi\|alezi]] [[Ojos oscuros\|ojos oscuros]] del primer [[Nahn\|nahn]] en [[Roshar\|Roshar]] y un veterano colaborador de [[Dalinar Kholin\|Dalinar Kholin]].
 

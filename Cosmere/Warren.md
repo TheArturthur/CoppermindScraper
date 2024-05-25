@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 **Warren** is an  master  wearing the garb of a  lawkeeper, with his chest bare and a patterned short cloak . He is formally referred to as **Master Warren**. He announced the start and end of the pole fight test in the [[Purelake\|Purelake]].
 

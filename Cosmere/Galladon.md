@@ -11,7 +11,6 @@
 |**Etnia**|[[De Duladel\|de Duladel]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Había algo agradable en el dula, algo que Raoden encontraba indefinidamente atractivo aunque estuviera cubierto por una pátina de pesimismo tan gruesa como la capa de mugre del suelo.*”
 \-Raoden[2]

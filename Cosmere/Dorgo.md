@@ -7,7 +7,6 @@
 |**Residencia**|[[Base Alta\|Base Alta]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*Escucha, Peonza. No tienes escudo. ¿Lo entiendes? El sistema estaba fundido del todo, así que se lo sacamos. Volarás expuesta por completo. Aparte del escudo, el anillo de pendiente será lo que más problemas puede darte. Está muy cascado, y no sé si te fallará o no. La esfera de control también la teníamos apuntada para arreglarla. La eyección aún funciona.*”
 \-Dorgo advirtiendo a Spensa de las funciones de Cielo Cinco antes de que despegara en la Segunda Batalla de Alta.[1]

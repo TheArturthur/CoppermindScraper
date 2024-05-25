@@ -7,7 +7,6 @@
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 Para el hombre del puente, ver [[Arik\|Arik]].
 >“*Parecían Portadores del Vacío, de verdad que sí, con unas cosas así como huesos grandotes saliéndoles de la piel.*”

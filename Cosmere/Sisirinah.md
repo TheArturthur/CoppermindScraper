@@ -17,7 +17,6 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Pero, sin duda, las normas no son tan inflexibles*”
 \-Siri a Treledees[2]

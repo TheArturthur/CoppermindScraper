@@ -13,7 +13,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -223,7 +223,7 @@ Cuando el Hermano despertó a Kaladin y le suplicó que le enviase a Rlain, Kala
 \-Rlain uniendo a los humanos y las fuerzas de Leshwi con su interpretación de Teft[21]
 
 Rlain canalizó su Teft interior y encontró un sentido de la autoridad para unir a los humanos y los Celestiales traidores de [[Leshwi\|Leshwi]] bajo una causa común, poner a los Radiantes heridos e inconscientes a salvo. Usó su status como extranjero para ganar un aire de neutralidad, y ofreció a Leshwi la guía de los dos oyentes supervivientes para escapar del control de Odium.
-Le molestó que Venli hubiera vinculado un spren, pero apartó su frustración para enfrentarse a prioridades mayores. Dio a los humanos la posibilidad de huir o reunirse con sus familias , después fueron todos juntos a la salida, tan solo para ser rodeados por Fusionados enemigos. Él y Leshwi decidieron luchar, y preguntó a Venli si sabía de spren que estuvieran dispuestos a vincularse a los cantores. Venli explicó que envió al otro [[Lumispren\|lumispren]] lejos por su seguridad, luego, confundida, dice que según Timbre Rlain ya ha sido elegido. Tumi envía a Rlain una visión de Kaladin en reluciente amadura Radiante y la torre encendida con luz y le insta a jurar el Primer Ideal.
+Le molestó que Venli hubiera vinculado un spren, pero apartó su frustración para enfrentarse a prioridades mayores. Dio a los humanos la posibilidad de huir o reunirse con sus familias , después fueron todos juntos a la salida, tan solo para ser rodeados por Fusionados enemigos. Él y Leshwi decidieron luchar, y preguntó a Venli si sabía de spren que estuvieran dispuestos a vincularse a los cantores. Venli explicó que envió a los otros [[Alcanzador\|alcanzadores]] lejos por su seguridad, luego, confundida, dice que según Timbre Rlain ya ha sido elegido. Tumi envía a Rlain una visión de Kaladin en reluciente amadura Radiante y la torre encendida con luz y le insta a jurar el Primer Ideal.
 
 >“*Sigue luchando. La salvación será, Rlain, oyente. Pontonero de mentes. Me envía a ti mi madre, a petición de Renarin, Hijo de Espinas. Te he observadoy he constatado tu valía. Pronuncia las Palabras, y no desesperes.*”
 \-Primeras palabras de Tumi a Rlain[5]
@@ -263,7 +263,7 @@ Meses después de que Renarin se uniese al Puente Cuatro, sigue sintiéndose una
 
 Eventualmente, cuando [[Sja-anat\|Sja-anat]] pregunta a Renarin por algún posible candidato para los vínculos, Renarin inmediatamente sugiere a Rlain. Con ese voto de confianza, el iluminado [[Brumaspren\|brumaspren]] [[Tumi\|Tumi]], enviado para evaluar a [[Mraize\|Mraize]] para un vínculo, también pasa algunas semanas observando las heroicas cualidades de Rlain durante la ocupación de Urithiru, aunque debe tener cuidado de no llamar la atención de Odium. En el caos del levantamiento, como reconocimiento a Rlain por unir a humanos y cantores con un propósito común, Tumi nombra a Rlain Pontonero de Mentes, rechaza a Mraize, y se vincula a él, convirtiéndolo en el segundo Vigilante de la Verdad Iluminado nuna habido. Rlain desea buscar a los oyentes supervivientes con Venli, Leshwi, y su gente, pero decide que debe quedarse, al menos hasta que Renarin regrese.
 Rlain y Renarin comparten la capacidad de [[/wiki/Esquirla#Future Sight]] a través de las conexiones de sus sprens con [[Sja-Anat\|Sja-Anat]], y las habilidades de Rlain pareen ser cercanas a las de Renarin, aunque puede que existan algunas diferencias debido a la diferencia de especies y de conexión con los Ritmos.
-[[Renarin\|Renarin]] desarrolla sentimientos románticos hacia Rlain, y es posible que Rlain corresponda estos sentimientos. Sanderson explica que los personajes aún no han llegado a las conclusiones a las que sí han llegado sus emociones. Escribió escenas desarrollando la química entre Renarin y Rlain en *El Ritmo de la Guerra*, pero las eliminó por razones de espacio.
+[[Renarin\|Renarin]] desarrolla sentimientos románticos hacia Rlain, y es posible que Rlain corresponda estos sentimientos. 
 
 ### Otros miembros del Puente Cuatro
   Rlain viendo a los escuderos de los Corredores del Viento entrenar en la explanada
@@ -307,9 +307,12 @@ Dalinar y Rlain no tienen una relación personal cercana, pero Dalinar es el tom
 
 ## Curiosidades
 Rlain está completamente ausente desde la segunda mitad de *[[Juramentada\|Juramentada]]*, lo que puede parecer un error pero de hecho es intencional y significativo.[.
-A pesar de sentirse marginado, a Rlain se le ofrecen tres vínculos distintos en El Ritmo de la Guerra: vincularse con el honorspren [[Yunfah\|Yunfah]] (alentado por Kaladin), un vínculo con el Hermano (a sugerencia de Navani) y, finalmente, un vínculo con el spren corrupto Tumi (recomendado por Renarin).
+A pesar de sentirse marginado, a Rlain se le ofrecen cuatro vínculos distintos en El Ritmo de la Guerra: vincularse con el honorspren [[Yunfah\|Yunfah]] (alentado por Kaladin), un vínculo con el Hermano (a sugerencia de Navani), hacerlo con uno de los alcanzadores de Venli (aunque Timbre informa que Rlain ya está "pedido") y, finalmente, un vínculo con el spren corrupto Tumi (recomendado por Renarin).
 En una sensacional demostración de *foreshadowing*, el apodo "Shen" tiene más sentido como abreviatura de "Parshendi" (los oyentes, su verdadera identidad) que de "Parshmenio" (su disfraz).
 ## Notas
+
+
+
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|

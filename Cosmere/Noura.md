@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 >“*Lo que nos **diferencia** de las monarquías del este, y del caos que sufren, es que nuestro emperador tiene cortapisas.*”
 \-Noura a Yanagawn[1]

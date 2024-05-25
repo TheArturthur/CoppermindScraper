@@ -3,7 +3,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Shar** is a  girl on [[Roshar\|Roshar]]. She lives in [[Urithiru\|Urithiru]] during the [[Fused\|Fused]] occupation of the tower.
 She is the daughter of a seamstress and her uncle is a . She is friends with [[Adin\|Adin]], and has a bossy personality.

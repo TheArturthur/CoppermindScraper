@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 Para la hija de Steris Harms y Waxillium Ladrian, ver [[Tindwyl Ladrian\|Tindwyl Ladrian]].
 **Tindwyl** es una [[Guardador\|guardadora]] de [[Terris\|Terris]] y miembro del [[S%C3%ADnodo\|Sínodo]]. Es muy conocida y respetada entre el pueblo terrisano. Pasó gran parte de su vida en el programa de reproducción del [[Lord Legislador\|lord Legislador]], y tuvo más de veinte hijos, de los cuales unas quince fueron niñas. Un año después del [[Colapso\|Colapso]], viajó a [[Luthadel\|Luthadel]] por deseo de [[Sazed\|Sazed]] para formar a [[Elend Venture\|Elend Venture]] en liderazgo. Rápidamente se convirtió en miembro de su círculo íntimo. Después de esto, ella y Sazed estudiaron el calco que él hizo de la [[Inscripci%C3%B3n de Kwaan\|inscripción de Kwaan]], y durante ese tiempo se involucraron románticamente. Murió durante el [[Asedio de Luthadel\|Asedio de Luthadel]], asesinada por los [[Koloss\|koloss]].

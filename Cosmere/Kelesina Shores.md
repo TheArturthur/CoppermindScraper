@@ -7,6 +7,7 @@
 |**Residencia**|[[Nueva Seran\|Nueva Seran]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 Lady **Kelesina Shores** es una noble residente de [[Nueva Seran\|Nueva Seran]]. Defiende la libertad de su ciudad y la de otras ciudades de la [[Cuenca de Elendel\|Cuenca]] al margen de [[Elendel\|Elendel]], llegando incluso a colaborar con [[El Grupo\|el Grupo]].
 

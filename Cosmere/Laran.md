@@ -7,7 +7,6 @@
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Laran** es una mensajera en el ejército [[Casa Kholin\|Kholin]] convertida en Corredora del Viento del [[Puente Cuatro\|Puente Cuatro]].
 En algún momento del pasado de Laran, se unió al ejército kholin como mensajera. Era muy hábil en este papel; algunos creían que era la más rápida de los mensajeros.

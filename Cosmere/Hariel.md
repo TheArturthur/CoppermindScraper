@@ -7,7 +7,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“* Aunque desciendes de traidores, la guerra que has librado aquí es digna de alabanza. Te enfrentaste a nuestros enemigos ancestrales y no les diste cuartel, ni siquiera condenada.*”
 \- Hariel a Venli[1]

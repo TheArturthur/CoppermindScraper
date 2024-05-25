@@ -9,7 +9,6 @@
 |**Residencia**|[[Shadesmar\|Shadesmar]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Has venido para que te lea la fortuna, ¿no es así? ¿El Oráculo Rii? Deseas que contemple los caminos por recorrer... durante la alta tormenta, cuando los reinos se entremezclan.*”
 \-Riino a Kaladin[1]

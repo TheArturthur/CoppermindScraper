@@ -7,7 +7,6 @@
 |**Especie**|[[Ryshadio\|Ryshadio]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Galante** es el corcel [[Ryshadio\|ryshadio]] de [[Dalinar Kholin\|Dalinar Kholin]] en [[Roshar\|Roshar]].
 

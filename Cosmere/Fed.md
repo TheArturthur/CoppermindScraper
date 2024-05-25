@@ -8,7 +8,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo (libro)\|Brazales de Duelo]]*|
 
 **Fed** es una [[/wiki/Hierro#Uso feruqu.C3.ADmico]] y miembro de [[El Grupo\|El Grupo]] en [[Scadrial\|Scadrial]].
 En algún momento de su vida, Fed se convirtió en una miembro de bajo nivel del Grupo, posiblemente como parte de la [[Guardia Oculta\|Guardia Oculta]]. Acompañó al equipo de El Grupo liderado por [[Edwarn\|Edwarn]] y [[Telsin Ladrian\|Telsin Ladrian]] hasta el [[Templo del Soberano\|Templo del Soberano]] en la [[Cordillera de Seran\|Cordillera de Seran]]. Cuando Edwarn huyó del templo en la aeronave [[Scadriano del sur\|cazadora]] después de que [[Waxillium\|Waxillium]] recibiera los [[Brazales de Duelo\|Brazales de Duelo]], Fed utilizó su feruquimia para cebar la maquinaria de cambio de peso y que la nave pudiera despegar. Se supone que fue capturada junto con los demás miembros de El Grupo a bordo cuando Wax derrotó a Edwarn y utilizó su [[Alomancia\|alomancia]] para impedir que la nave escapara.

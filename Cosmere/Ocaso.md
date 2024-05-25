@@ -7,7 +7,6 @@
 |**Etnia**|[[De las islas Eelakin\|de las islas Eelakin]]|
 |**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
 
 >“*Porque Patji intentaría matarlo a cada ocasión que tuviera.*”
 \-Los pensamientos del Sexto del Ocaso sobre la isla[1]

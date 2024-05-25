@@ -6,7 +6,6 @@
 |**Grupo**|[[Knights Radiant\|Knights Radiant]]🐱︎ |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 >“*It is our duty and our privilege to stay vigilant for the Desolation. One kingdom to study the arts of war so that the others might have peace. We die so that you may live. It has ever been our place.*”
 \-The Starfalls Stoneward[1]

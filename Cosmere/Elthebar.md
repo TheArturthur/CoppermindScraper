@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Elthebar** es un [[Predicetormentas\|predicetormentas]] en [[Roshar\|Roshar]].
 

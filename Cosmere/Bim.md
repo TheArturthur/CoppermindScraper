@@ -9,7 +9,6 @@
 |**Etnia**|[[Yeongiano\|Yeongiano]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*Bueno, es que esta mañana he estado hablando con unos cadetes del Escuadrón Tormenta de Fuego, y **ellos** llevan desde el principio haciendo escaramuzas.*”
 \-Bim quejándose a Cobb por no pasar más tiempo usando armamento con el Poco.[2]

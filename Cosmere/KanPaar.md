@@ -8,6 +8,7 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 >“*Los humanos se matan unos a otros. Los koloss se matan unos a otros. Pero ambos pertenecen a Ruina. Nosotros pertenecemos a Conservación, el elegido del Padre. ¡No nos matamos unos a otros!*”
 \-KanPaar durante el juicio a TenSoon.[1]

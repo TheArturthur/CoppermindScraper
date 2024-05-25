@@ -8,7 +8,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Haws** es un [[Skaa\|skaa]], miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]].
 Vota a favor de mantener a [[Elend Venture\|Elend Venture]] como rey del [[Dominio Central\|Dominio Central]]. Es muy creyente en la [[Iglesia del Superviviente\|Iglesia del Superviviente]], lo que le lleva a votar por Elend. Es el skaa más destacado de la Asamblea.

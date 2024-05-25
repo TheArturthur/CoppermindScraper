@@ -11,7 +11,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final (libro)]]*|
 
 **Demoux** fue inicialmente un capitán en la rebelión de [[Kelsier\|Kelsier]] y un general en el ejército de [[Elend Venture\|Elend Venture]] tras el [[Asedio de Luthadel\|Asedio de Luthadel]]. Es un [[Brumoso\|brumoso]] de [[Atium\|atium]] (también denominado [[Vidente (Scadrial)\|vidente]]. Más tarde se volvió un saltamundos, viajando a [[Roshar\|Roshar]] en busca de [[Hoid\|Hoid]].
 

@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Mi señor, ser elantrino solo me hace sentirme más orgulloso de llevar esta herida. La he recibido protegiendo a nuestra gente.*”
 \-Saolin[4]

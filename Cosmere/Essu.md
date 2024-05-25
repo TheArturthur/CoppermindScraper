@@ -9,7 +9,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Esa fue otra hipótesis mía que se refutó. Hace mucho tiempo. La de que una madre y una hija sirviendo juntas podrían ayudarse entre ellas a conservar la cordura.*”
 \-Raboniel[2]

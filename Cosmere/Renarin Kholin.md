@@ -18,7 +18,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*No soy el primer hijo de héroe que nace sin ningún talento para la guerra. Los demás lo llevaron bien. Yo también lo haré.*”
 \-Renarin Kholin[4]

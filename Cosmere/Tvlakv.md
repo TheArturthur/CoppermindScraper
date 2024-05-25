@@ -4,7 +4,6 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*I didn't say Tvlakv isn't a bastard. He's just a likable bastard. Those are the worst kind. When you kill them, you end up feeling guilty for it.*”
 \-Kaladin to Sylphrena, on Tvlakv[1]

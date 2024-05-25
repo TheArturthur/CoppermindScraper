@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Maybe someday you’ll learn how to be there for the living, not just for the dead.*”
 \-Tarah's last words to Kaladin[1]

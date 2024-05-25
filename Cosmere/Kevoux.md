@@ -6,6 +6,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Kevoux** es un amigo de [[Elend Venture\|Elend Venture]], y miembro de su club de filósofos.
 Él es el líder o el heredero de una casa y no es muy influyente, en comparación con los otros miembros del club.

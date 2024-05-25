@@ -6,7 +6,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Peet** is a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]] and a .
 

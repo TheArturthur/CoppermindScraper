@@ -18,7 +18,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 Valette redirige aquí. Para la noble post-[[Catacendro\|Catacendro]], ver [[Valette Entrone\|Valette Entrone]].
 >“*Eso era una ilusión, un sueño. Soy la niña que creció en las sombras.*”

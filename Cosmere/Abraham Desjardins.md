@@ -4,7 +4,6 @@
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 >“*The heroes *will* come. Someday we will have Epics that do no kill, do not hate, do not dominate. We will be protected.*”
 \-Abraham to David[1]

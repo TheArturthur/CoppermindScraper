@@ -8,7 +8,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Los humanos son un poema. Una canción*”
 \-Meditaciones de El, en el primero de los Diez Días Finales.[3]

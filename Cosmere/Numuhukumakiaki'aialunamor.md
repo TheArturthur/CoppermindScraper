@@ -17,7 +17,6 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 "Roca" redirige aquí. Para el lugar en Lumar, ver [[Punta de Diggen\|Punta de Diggen]].
 >“*Llaneros majaras por el aire.*”

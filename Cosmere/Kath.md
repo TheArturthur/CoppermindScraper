@@ -6,6 +6,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 **Kath** es la niñera de [[Maxillium Ladrian\|Maxillium]] y [[Tindwyl Ladrian\|Tindwyl Ladrian]] en [[Scadrial\|Scadrial]].
 

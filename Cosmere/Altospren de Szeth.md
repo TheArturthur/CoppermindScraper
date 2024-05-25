@@ -6,7 +6,6 @@
 |**Especie**|[[Altospren\|Altospren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 >“*Prosigue con tu deber por ahora. Pero recuerda, pronto llegará el momento en que lo abandones a cambio de algo mayor.*”

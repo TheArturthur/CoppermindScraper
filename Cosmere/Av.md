@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[De Emul\|de Emul]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Av** es un ladrón [[Emul\|emuli]] en [[Roshar\|Roshar]] que es contratado por [[Shalash\|Shalash]].
 

@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 **Tuaka'li'na'calmi'nor**, shortened to **Tuaka** or simply **Song**, is [[Lunamor\|Lunamor]]'s wife. She has a round face and wears her deep red hair in a braid.
 

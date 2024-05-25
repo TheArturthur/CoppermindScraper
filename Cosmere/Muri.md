@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Pobre chico. Ojalá hubiera sido a ti.*”
 \-Muri a Shallan tras la muerte Grund[1]

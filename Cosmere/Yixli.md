@@ -4,7 +4,6 @@
 |**Especie**|[[Vac%C3%ADospren\|Vacíospren]]|
 |**Mundo natal**|[[Braize\|Braize]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 **Yixli** is the [[Voidspren\|Voidspren]] that leads [[Khen\|Khen]], [[Sah\|Sah]], and [[Kaladin\|Kaladin]] to [[Revolar\|Revolar]].
 

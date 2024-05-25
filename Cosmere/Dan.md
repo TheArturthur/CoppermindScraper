@@ -4,7 +4,6 @@
 |**Hermanos**|[[Jax (Reckoners)\|Jax]]|
 |**Fallecido**|Killed by [[Lovestruck\|Lovestruck]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Lux (book)\|Lux]]*|
 
 >“*Sorry Jax. Older brother’s entitlement. The oldest brother at the table always gets the soggiest piece of bacon. It’s pretty much the law.*”
 \-Dan after stealing Jax’s piece of bacon.[1]

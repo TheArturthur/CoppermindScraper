@@ -4,7 +4,6 @@
 |**Oficio**|Mercenary|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*She is trouble. I still think we should just leave her and go.*”
 \-Tag talking about Shallan[1]

@@ -10,7 +10,6 @@
 |**Residencia**|[[Caverna %C3%8Dgnea\|Caverna Ígnea]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*Ya casi lo tengo. No batiremos ninguna marca actuando como cobardes.*”
 \-Arcada ignorando las órdenes de retirada poco antes de ser derribada[1]

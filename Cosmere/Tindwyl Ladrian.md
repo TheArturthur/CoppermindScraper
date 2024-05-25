@@ -11,7 +11,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 Para la [[Guardador\|guardadora]] del [[Imperio Final\|Imperio Final]], ver [[Tindwyl\|Tindwyl]].
 **Tindwyl Ladrian** es una joven de [[Scadrial\|Scadrial]]. Es la segunda hija de [[Steris Harms\|Steris Harms]] y [[Waxillium Ladrian\|Waxillium Ladrian]], y es un par de años menor que su hermano [[Maxillium\|Maxillium]]. Es probable que su madre sugiriera ese nombre debido a su preferencia por los nombres tradicionales. Comparte el nombre con [[Tindwyl\|una destacada guardadora]] que sacrificó heroicamente su vida defendiendo [[Luthadel\|Luthadel]] poco antes del [[Catacendro\|Catacendro]].

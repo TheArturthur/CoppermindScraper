@@ -5,7 +5,6 @@
 |-|-|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Lady Hinobi** es un personaje ficticio que aparece en el programa de [[Visor de hion\|visor de hion]] *[[Estaciones de lamento\|Estaciones de lamento]]*. Hinobi suele mostrarse con líneas de [[Hion\|hion]] magenta. Está enamorada de sir [[Ashinata\|Ashinata]], un ronin con el que tiene prohibido estar.
 Tras su primer beso con Ashinata, el guerrero anunció que tendría que marcharse para siempre, debido a una amenaza puesta en marcha por su malvado hermano muerto. Ashinata regresó con ella en un episodio final sorpresa.

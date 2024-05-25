@@ -7,7 +7,6 @@
 |**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 **Chesterton Divide** es un asaltante de caminos de [[Treno\|Treno]].
 

@@ -8,7 +8,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Lorain** es una [[Orden de los Danzantes del Filo\|Danzantes del Filo]] en [[Roshar\|Roshar]].
 

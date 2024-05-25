@@ -8,7 +8,6 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Hamel** es un soldado ojos oscuros en el pescuadrón de [[Kaladin\|Kaladinen]] el ejército del alto mariscal [[Meridas Amaram\|Meridas Amaram]], en [[Roshar\|Roshar]].
 En 1172, Hamel luchó en la batalla sonde un [[Portador de esquirlada\|portador de esquirlada]] completa, [[Helaran Davar\|Helaran Davar]], intentó matar a Amaram. Hamel se unió a Kaladin en su carga contra el portador de esquirlada. Hamel fue asesinado por la hoja esquirlada de Helaran, junto con [[Toorim\|Toorim]], [[Acis\|Acis]], [[Raksha\|Raksha]], [[Navar\|Navar]] y otros once miembros del escuadrón de Kaladin.

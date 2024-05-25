@@ -5,7 +5,6 @@
 |**Residencia**|[[Monasterio de Jokasha\|Monasterio de Jokasha]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Bettam** es un [[Fervoroso\|fervoroso]] en el [[Monasterio de Jokasha\|Monasterio de Jokasha]] en [[Roshar\|Roshar]].
 Creyó que la [[Tormenta eterna\|tormenta eterna]] forzaría al fervor a cambiarse a una nueva localización, pues el viento derribaría todos los árboles y dejaría el monasterio expuesto. Discutió las medidas de otro fervoroso que afirmaba que los vientos de la tormenta eterna no eran lo bastante fuertes como para causar ese nivel de daño.

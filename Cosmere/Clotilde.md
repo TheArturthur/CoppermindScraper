@@ -4,7 +4,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Clotilde** es un sirviente de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 Durante una celebración organizada por [[Jackstom Harms\|lord Harms]] tras el caso de [[Sangradora\|Sangradora]], cambia la taza de té fría de [[Wax\|Wax]] por una caliente.

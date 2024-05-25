@@ -7,7 +7,6 @@
 |**Hermanos**|[[William Ann\|William Ann]] |
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 **Sebruki** es una niña de ocho años que trabaja para [[Silencio Montane\|Silencio Montane]] en su [[Posada de Silencio\|posada]] en los [[Bosques del infierno\|bosques del infierno]] en [[Treno\|Treno]].
 

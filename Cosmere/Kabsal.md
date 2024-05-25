@@ -12,7 +12,7 @@
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Kabsal** es un miembro encubierto de los [[Sangre Espectral\|Sangre Espectral]] infiltrado como [[Fervoroso\|fervoroso]] del Devotario del Conocimiento. Vive en el [[Palaneo\|Palaneo]] de [[Kharbranth\|Kharbranth]], en [[Roshar\|Roshar]].
 

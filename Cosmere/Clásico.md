@@ -7,7 +7,6 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 Identificador **Clásico** es un miembro del [[Escuadr%C3%B3n Esperanza\|Escuadrón Esperanza]] que participa en la [[Batalla de Alta\|Batalla de Alta]]. Clásico fue derribado y asesinado por [[Perseguidor\|Perseguidor]], después de que este comenzara a disparar contra su escuadrón, pensando que eran naves enemigas.
 Entre los compañeros de vuelo de Clásico se encontraban [[F%C3%A9rrea\|Férrea]], [[Perseguidor\|Perseguidor]], [[Cobb\|Cobb]], [[%C3%81nimo\|Ánimo]], así como otros tres.

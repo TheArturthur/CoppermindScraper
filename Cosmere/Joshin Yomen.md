@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Lord Joshin Yomen** es un rico y poderoso lord de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 

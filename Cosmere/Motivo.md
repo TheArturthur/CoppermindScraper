@@ -7,7 +7,6 @@
 |**Especie**|[[Cr%C3%ADpticos\|Crípticos]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Motivo** es un [[Cr%C3%ADptico\|críptico]] en [[Roshar\|Roshar]] vinculado a [[Ishnah\|Ishnah]].
 

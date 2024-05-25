@@ -5,7 +5,6 @@ Para the position on an Alethi bridge crew known as the 'deathpoint', ver [[/wik
 |**Fallecido**||
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 **Deathpoint** is an  with the power to disintegrate people. His actions indirectly led to the .
 

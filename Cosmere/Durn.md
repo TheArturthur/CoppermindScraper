@@ -6,7 +6,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Durn** es un líder de los suburbios [[Skaa\|skaa]] de [[Urteau\|Urteau]] en [[Scadrial\|Scadrial]], y un aspirante a músico.
 

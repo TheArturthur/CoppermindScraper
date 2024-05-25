@@ -6,7 +6,6 @@
 |**Oficio**|Pirata|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Cit%C3%B3nica (libro)\|Citónica]]*|
 
 **Gibsey** es un piloto de caza pirata en el [[Cintur%C3%B3n\|cinturón]] de la [[Ninguna-parte\|ninguna-parte]]. Forma parte de la [[Facci%C3%B3n de los Costaderos\|Facción de los Costaderos]], y es miembro del [[Escuadr%C3%B3n Alfanje\|Escuadrón Alfanje]].
 

@@ -9,7 +9,6 @@
 |**Especie**|[[Drag%C3%B3n (Cosmere)\|Dragón (Cosmere)]]|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 >“*Me trae sin cuidado el corazón de los mortales. Excepto por su sabor.*”
 \-Xisis rebatiendo a Trenza.[1]

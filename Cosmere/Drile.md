@@ -14,7 +14,6 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Drile** es un [[Maestr%C3%ADa de la arena\|maestro de la arena]][[Lossand\|lossandino]] en el Lado Diurno de [[Taldain\|Taldain]].
 

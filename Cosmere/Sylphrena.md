@@ -10,7 +10,6 @@
 |**Especie**|[[Honorspren\|Honorspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*I bind things, Kaladin. I am honorspren. Spirit of oaths. Of promises. And of nobility.*”
 \-Sylphrena speaks to Kaladin about her nature[1]

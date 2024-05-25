@@ -9,7 +9,6 @@
 |**Etnia**|[[De Scadrial del Sur\|de Scadrial del Sur]]|
 |**Mundo natal**|[[Luzdeplata\|Luzdeplata]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Yo misma me he preguntado muchas veces por qué aquí vais exponiendo tan descaradamente vuestros rasgos a todo el que quiera verlos.*”
 \-Iyatil[2]

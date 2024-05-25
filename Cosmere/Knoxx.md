@@ -4,7 +4,6 @@
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Residencia**|[[Babilar\|Babilar]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Firefight\|Firefight]]*|
 
 **Knoxx** is a thug turned  in [[Babilar\|Babilar]], and a known member of [[Newton\|Newton]]’s gang.
 

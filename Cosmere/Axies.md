@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[De Aimia\|de Aimia]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*And lo, the foul beast avoided imprisonment for public indecency!*”
 \-Axies[1]

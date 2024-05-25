@@ -51,7 +51,7 @@
 
 ## Intención
 >“*La muerte es necesaria. Todo reloj debe pararse, todo día debe terminar. Sin mí, no hay vida, y nunca podría haberla habido. La vida es cambio y yo represento ese cambio.*”
-\-Ruina.[6]
+\-Ruina.[7]
 
 
 Ruina es la encarnación de la entropía y la decadencia; busca el cambio, para que todo pueda envejecer y pasar. No es intrínsecamente malvada, ya que sin cambio no puede haber vida, pero sus acciones destructivas suelen ser contrarias a que la vida exista pacíficamente. Este enfoque de Ruina como simple decadencia inevitable se debe en gran medida a la naturaleza bondadosa original de [[Ati\|Ati]], ya que canalizó deliberadamente a Ruina hacia un estado más pacífico. En otras manos, la Esquirla habría sido una fuerza mucho más destructiva.
@@ -70,7 +70,7 @@ La [[Feruquimia\|feruquimia]] es un [[Artes met%C3%A1licas\|arte metálica]] cre
 El atributo que se puede almacenar depende del metal utilizado. Una persona puede nacer como feruquímico completo, lo que le permite utilizar todos los poderes, o como ferrin, lo que le permite utilizar sólo un metal. Los dieciséis metales base se dividen en cuatro categorías: físicos (que almacenan atributos del cuerpo), cognitivos (que almacenan atributos de la mente) espirituales (que almacenan atributos del alma) e híbridos (que almacenan atributos relacionados con los procesos corporales, como la salud o la energía).
 
 ### Brumas
-El poder de Ruina puede manifestarse a veces en forma gaseosa como una bruma negra, aunque no está claro si tiene algún efecto mágico. Sin embargo, su aparición señala la presencia de Ruina, y es la forma en que aparece gran parte del poder de Ruina en el [[Reino Cognitivo\|Reino Cognitivo]]. Esta bruma está presente en el Pozo de la Ascensión cuando Vin lo descubre, y una manifestación similar aparece tras la muerte de [[Ati\|Ati]] antes de que [[Sazed\|Sazed]] tome ambas esquirlas. Después de la Ascensión Final, las brumas negras son enviadas por Armonía junto a las brumas blancas de Conservación.
+El poder de Ruina puede manifestarse a veces en forma gaseosa como una bruma negra, aunque no está claro si tiene algún efecto mágico. Sin embargo, su aparición señala la presencia de Ruina, y es la forma en que aparece gran parte del poder de Ruina en el [[Reino Cognitivo\|Reino Cognitivo]]. Esta bruma está presente en el Pozo de la Ascensión cuando Vin lo descubre, y una manifestación similar aparece tras la muerte de [[Ati\|Ati]] antes de que [[Sazed\|Sazed]] tome ambas esquirlas.
 
 ### Atium
 Para más información, ver [[Atium\|Atium]].
@@ -137,6 +137,7 @@ La influencia de Ruina se extiende, aunque ligeramente, a otros mundos del [[Cos
 ## Citas
 Para una lista de las citas de Ruina, ver [[Ruina/Citas\|Ruina/Citas]].
 ## Curiosidades
+El origen de Ruina está en la novela no publicada *[[Aether of Night\|Aether of Night]]*, donde se le conocía como **Decay**.
 En los colores de **, Ruina sería negro puro.
 [[Odium\|Odium]] estaba convencido de que Ruina implosionaría. 
 ## Notas

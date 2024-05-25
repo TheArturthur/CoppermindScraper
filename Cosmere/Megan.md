@@ -2,7 +2,6 @@
 |-|-|
 |**Oficio**|Cleaner|
 |**Mundo natal**||
-|**Primera aparición**|**|
 Para the member of the [[Reckoners\|Reckoners]], ver [[Megan Tarash\|Megan Tarash]].
 **Megan** is on the cleaning staff of [[Stephen Leeds\|Stephen Leeds]]' mansion.
 [[Ivy\|Ivy]] thinks she will quit soon due to Stephen's strangeness.

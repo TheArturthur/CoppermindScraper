@@ -9,7 +9,6 @@
 |**Etnia**|[[De Scadrial del Sur\|de Scadrial del Sur]]|
 |**Mundo natal**|[[Luzdeplata\|Luzdeplata]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Dlavil** es un miembro de los [[Sangre Espectral\|Sangre Espectral]] que trabaja en [[Scadrial\|Scadrial]], en la ciudad de [[Elendel\|Elendel]]. Es natal de [[Luzdeplata\|Luzdeplata]], aunque su ascendencia es de [[Scadriano del sur\|Scadrial del Sur]]. Lleva puesta una máscara con un diseño intrincado y feroz que nunca se quita. Ha crecido hasta el punto de que ya es casi parte de su piel. Es hermano de [[Iyatil\|Iyatil]].
 

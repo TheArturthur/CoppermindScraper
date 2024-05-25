@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[Pahn Kahl\|Pahn Kahl]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Ten cuidado, niña. No todo en este palacio es lo que parece.*”
 \-Dedos Azules a Siri.[1]

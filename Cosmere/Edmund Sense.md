@@ -5,7 +5,6 @@
 |**Apodos**|Conflux|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 **Edmund Sense**, also known as the  **Conflux**, is commonly believed to be a member of  inner circle and the chief of . In reality he is a prisoner.
 Because he routinely gives his powers away and has voluntarily confronted his weakness, Edmund is not very susceptible to 's corrupting influence. He is a gentle, timid man whose first concern is usually self-preservation and who deeply dislikes conflict.

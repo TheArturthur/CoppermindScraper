@@ -9,7 +9,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Idashwy** es una [[/wiki/Acero#Uso feruqu.C3.ADmico]] [[Terris\|terrisana]]. [[Sangradora\|Sangradora]] la mata y le roba su habilidad para usar acero [[Feruquimia\|feruquímico]].
 Idashwy creció en [[La Aldea\|la Aldea]], pero solía escabullirse cuando era joven. [[Wax\|Wax]] la recuerda como una chica tímida con el cabello dorado. Se mudó al distrito de Bournton y trabajaba llevándole las cuentas a un joyero cuya tienda se encontraba cerca de su apartamento. Según Vwafendal, desapareció aproximadamente un mes antes de la [[Fiesta de lady ZoBell\|fiesta de lady ZoBell]] y se había estado comportando erráticamente y afirmaba estar recibiendo visitas del espíritu de su difunto hermano. La última vez que se la vio fue una semana antes de la fiesta, y nadie respondió cuando un empleado de la joyería fue enviado a su piso. [[Wax\|Wax]] encontró su cuerpo en la cocina del apartamento e identificó que la herida había sido causada por un clavo [[Hemalurgia\|hemalúrgico]] por la descripción que aparecía en el libro que [[Ojos de Hierro\|Ojos de Hierro]] le había mandado.

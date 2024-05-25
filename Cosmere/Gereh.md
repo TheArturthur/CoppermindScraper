@@ -10,7 +10,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|Desconocido|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*¡Ay, brillante, se han llevado a nuestro rey! Esos parshmenios. Esos bárbaros. Esos… esos monstruos.*”
 \-Gereh a Navani[3]

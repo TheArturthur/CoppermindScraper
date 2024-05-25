@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Tashikk\|de Tashikk]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Nissiqqan** es un escriba en la ciudad de [[Yeddaw\|Yeddaw]] en [[Tashikk\|Tashikk]], [[Roshar\|Roshar]]. Es el escriba suplente de inmigración que está de guardia en el puesto de [[Hauka\|Hauka]] el día que [[Lift\|Lift]] llega a la ciudad.
 

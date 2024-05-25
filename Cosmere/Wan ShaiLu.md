@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De MaiPon\|de MaiPon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El alma del emperador\|El alma del emperador]], [[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

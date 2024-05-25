@@ -12,7 +12,6 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Delius** es el antiguo [[Lord almirante\|lord almirante]], taisha del [[Tim%C3%B3n\|Timón]], en el Lado Diurno de [[Taldain\|Taldain]].
 

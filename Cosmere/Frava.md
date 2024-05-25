@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[Grande\|Grande]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El alma del emperador\|El alma del emperador]]*|
 
 **Frava** es la [[%C3%81rbitro\|árbitro]] de mayor rango y líder de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] del [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]]. Durante el reinado del [[Ashravan\|emperador Ashravan]], se la consideraba la segunda persona más poderosa del imperio.
 

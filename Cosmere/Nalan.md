@@ -10,7 +10,6 @@
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
 |**Mundo natal**|[[Ashyn\|Ashyn]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Sin la ley, no hay nada. Es todo lo que tenemos, lo único que hay seguro en este mundo.*”
 \-Nale[1]

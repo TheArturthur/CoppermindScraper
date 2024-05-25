@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 Una terrisana que trabaja para [[Kelesina Shores\|Kelesina Shores]] como **auxiliar del mayordomo** en la mansión Shores en [[Nueva Seran\|Nueva Seran]] en [[Scadrial\|Scadrial]].

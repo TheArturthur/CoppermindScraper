@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[La esperanza de Elantris\|La esperanza de Elantris]]*|
 
 **Taid** es un [[Elantrino\|elantrino]].
 Es el supervisor adulto del [[Nido\|Nido]] en [[Nueva Elantris\|Nueva Elantris]].

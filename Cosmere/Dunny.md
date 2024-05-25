@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Duny** es un miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
 

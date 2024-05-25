@@ -7,7 +7,6 @@
 |**Grupo**|[[Orden de los Rompedores del Cielo\|Rompedor del Cielo]] escudero|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Joret** es un escudero [[Rompedor del Cielo\|Rompedor del Cielo]] a las órdenes de los maestros Rompedores del Cielo [[Ki\|Ki]] y [[Warren\|Warren]].
 Compite contra [[Szeth\|Szeth]] en una prueba de competencia marcial sobre el [[Lagopuro\|Lagopuro]], para comprobar su habilidad con la [[Potencia\|Potencia]] de Gravitación. Los escuderos tienen que lanzarse bolsas de polvos de colores y evitar ser alcanzados. La táctica de Joret consistía en quedarse en un lugar defendiendo un poste de bolsas. No le funcionó bien, ya que el resto seguía convirtiéndole en un objetivo.

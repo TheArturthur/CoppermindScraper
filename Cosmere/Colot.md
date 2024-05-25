@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Colot** es un capitán del Quinto Batallón del ejército [[Casa Kholin\|Kholin]] en [[Roshar\|Roshar]]. Más tarde se convierte en [[Corredor del Viento\|Corredor del Viento]].
 

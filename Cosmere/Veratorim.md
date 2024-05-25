@@ -5,7 +5,6 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*How could you not know? If you've come to persuade us to become Radiant spren, shouldn’t you know the cost of what you’re asking?*”
 \-Veratorim's interjection[1]

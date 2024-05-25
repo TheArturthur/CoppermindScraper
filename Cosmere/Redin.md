@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Redin** is an illegitimate son of [[Highprince\|Highprince]] [[Valam\|Valam]] of [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. He purportedly acts as Valam's assassin and executioner.
 

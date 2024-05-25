@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Elis\|de Elis]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 >“*Mi príncipe buscaba un arma, Loaten. Si sabes cómo murió o qué encontró, necesito saberlo.*”
 \-Khriss[2][NdT 1]

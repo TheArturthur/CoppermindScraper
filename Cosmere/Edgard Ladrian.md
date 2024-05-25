@@ -13,7 +13,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final\|El Imperio Final]]*|
 
 >“*Mi querido amigo, el sentido de la vida es lograr que otros hagan el trabajo por ti. ¿Sabes algo de economía básica?*”
 \-Brisa a Hammond.[1]

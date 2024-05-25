@@ -11,7 +11,6 @@
 |**Etnia**|[[Grande\|Grande]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El alma del emperador\|El alma del emperador]]*|
 
 **Ashravan** de los Ochenta Soles es el cuadragésimo noveno emperador del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]] y un miembro de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]. En el momento de su lesión tiene cuarenta años.
 

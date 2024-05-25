@@ -7,7 +7,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Darriance** es el mayordomo de la casa de [[Waxillium Ladrian\|Waxillium Ladrian]] en la mansión Ladrian en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 Darriance realiza las tareas habituales de un mayordomo, como hacer de portero y coger los abrigos de la gente.  Lleva mensajes y paquetes para Wax cuando éste se ausenta de la mansión, y [[Ranette\|Ranette]] confía en él lo suficiente como para dejarle equipo nuevo. También ayuda a Wax a practicar el uso de una [[/wiki/Acero#Uso alom.C3.A1ntico]] disparándole mientras lleva un abundante acolchado y una armadura.

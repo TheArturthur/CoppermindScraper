@@ -9,7 +9,6 @@
 |**Especie**|[[UrDail\|UrDail]]|
 |**Mundo natal**|[[ReAlba (planeta)\|ReAlba]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Estelar\|Estelar]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

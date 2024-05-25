@@ -13,7 +13,6 @@
 |**Nacionalidad**|[[De Teod\|de Teod]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 El rey **Eventeo** es el gobernante de [[Teod\|Teod]] en [[Sel\|Sel]] y padre de [[Sarene\|Sarene]].
 

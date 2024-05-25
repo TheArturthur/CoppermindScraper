@@ -7,7 +7,6 @@
 |**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Flennid** es un oficial de la nobleza [[Elis\|elisiana]] que viajó con la expedición de la duquesa [[Khrissalla\|Khrissalla]] al [[Lado Diurno\|Lado Diurno]], junto con el capitán [[Deral\|Deral]] y su teniente sin nombre, el soldado [[Torth\|Torth]] y otro soldado del que no sabemos el nombre. Se desconoce su destino.
 

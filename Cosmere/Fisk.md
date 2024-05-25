@@ -9,7 +9,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Fisk** es un [[Hoja esquirlada\|portador de esquirlada]] en el ejército de [[Dalinar\|Dalinar]] y capitán de la [[Guardia de Cobalto\|Guardia de Cobalto]] en [[Roshar\|Roshar]]. Su hoja se llama [[Creacervo\|Creacervo]].
 

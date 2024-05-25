@@ -3,7 +3,6 @@
 |**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 **Michael** is a student at  on the isle of .
 

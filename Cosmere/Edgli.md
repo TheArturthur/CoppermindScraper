@@ -7,7 +7,6 @@
 |**Títulos**|[[Dotaci%C3%B3n\|Dotación]]|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Mis ojos no son los de cualquier noble mezquino al que puedas engañar con una nariz falsa y un poco de tierra en las mejillas.*”
 \-Edgli[1]

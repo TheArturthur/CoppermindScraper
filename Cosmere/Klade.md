@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“* ¿Dónde está su música?*”
 \- Klade, sobre los parshmenios[2]

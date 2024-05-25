@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Natan\|de Natan]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*El dinero está detrás de todas las guerras. La religión no es más que una excusa. O tal vez una justificación.*”
 \-Au-nak[1]

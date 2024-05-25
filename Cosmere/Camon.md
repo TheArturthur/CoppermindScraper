@@ -8,7 +8,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Camon** es un [[Skaa\|skaa]] de [[Luthadel\|Luthadel]] en [[Scadrial\|Scadrial]].
 

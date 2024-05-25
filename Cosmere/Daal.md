@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[Malwish\|Malwish]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 >“*A veces pienso en lo que habría pasado si nuestros pueblos se hubieran conocido en una época más… belicosa. Vaya, bastaría con una campaña rápida de bombardeo para que su ciudad se arrugara como una bandera vieja.*”
 \-Daal a Wax[1]

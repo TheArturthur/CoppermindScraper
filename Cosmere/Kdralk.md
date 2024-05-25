@@ -11,7 +11,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Solo lamento no haber hablado lo bastante fuerte para que oyeras los insultos, déspota.*”
 \-Kdralk a Dalinar[1]

@@ -12,7 +12,6 @@
 |**Etnia**|[[Skaa\|Skaa]] y [[Noble\|noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 Para más imágenes, ver [[Beldre/Galer%C3%ADa\|/Galería]].
 **Beldre** es un medio-[[Skaa\|skaa]] y medio-[[Noble\|noble]] [[Brumoso\|brumosa]] de [[Acero\|acero]] (también conocida como [[Lanzamonedas\|Lanzamonedas]]) de [[Urteau\|Urteau]] en [[Scadrial\|Scadrial]].

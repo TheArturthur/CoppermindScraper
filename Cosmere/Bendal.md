@@ -8,7 +8,6 @@
 |**Especie**|[[Inquisidores de acero\|Inquisidores de acero]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final\|El Imperio Final]]*|
 
 **Bendal** es un [[Inquisidor de acero\|inquisidor de acero]] hacia el final del [[Imperio Final\|Imperio Final]].
 Está seguro de que [[Tevidian\|Tevidian]] había tenido un hijo mestizo, y caza al hermanastro de [[Vin\|Vin]], [[Reen\|Reen]], para que este lo admita. Sin embargo, aunque Reen muere asegurando que Vin había muerto de hambre hacía tiempo, Bendal sigue convencido de que hay más hijos de Tevidian sueltos.

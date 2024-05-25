@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[Malwish\|Malwish]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]]* y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

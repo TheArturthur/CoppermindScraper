@@ -7,7 +7,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Aharat** es un cantor que vive en [[Roshar\|Roshar]] y es uno de los [[Fusionado\|Fusionados]].
 Como todos los Fusionados, se le concedió acceso a las [[Potencias\|potencias]] y a la [[Luz del vac%C3%ADo\|luz del vacío]], así como la capacidad de renacer en los cuerpos de otros cantores. Luchó en las [[Desolaci%C3%B3n\|Desolaciones]] contra la humanidad, retornando a [[Braize\|Braize]] con los otros Fusionados al final de cada Desolación. A partir de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], se reencarnó durante una tormenta eterna en el cuerpo de [[Melu\|Melu]], uno de los [[Oyentes\|oyentes]].

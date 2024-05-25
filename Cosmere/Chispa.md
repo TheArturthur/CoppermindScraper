@@ -9,7 +9,6 @@
 |**Especie**|[[Cenizaspren\|Cenizaspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 Este artículo trata sobre los spren. Para la Esencia de Chispa, ver [[Diez Esencias\|Diez Esencias]].
 **Chispa** es una [[Cenizaspren\|cenizaspren]] de [[Roshar\|Roshar]] que está vinculada a [[Malata\|Malata]]. Ella y Malata forman parte de la organización [[Diagrama (grupo)\|Diagrama]].

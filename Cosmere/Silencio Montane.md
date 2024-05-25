@@ -12,7 +12,6 @@
 |**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 >“*Sería mejor casarse con una piedra que con Silencio Montane. La piedra sería más afectuosa.*”
 \-Daggon sobre Silencio Montane[1]

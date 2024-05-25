@@ -8,7 +8,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Loren** es un [[Elantrino\|elantrino]] en [[Sel\|Sel]].
 Fue afectado por la [[Shaod\|Shaod]] rota poco después de [[Raoden\|Raoden]]. Cuando fue desterrado a [[Elantris (ciudad)\|Elantris]], Raoden se lo robó a [[Karata\|Karata]] y lo puso a cuidar un espacio fuera de la iglesia. Más tarde, Karata se acercó a Raoden en busca de venganza, y él le dijo que la tarea de Loren pretendía ser el primer paso para cultivar dentro de las murallas de la ciudad.

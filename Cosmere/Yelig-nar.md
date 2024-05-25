@@ -11,7 +11,6 @@
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*Yelig-nar, called Blightwind, was one that could speak like a man, though often his voice was accompanied by the wails of those he consumed.*”
 \-Traxil, line 33, from Jasnah's notebook[1]

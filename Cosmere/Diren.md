@@ -10,7 +10,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Diren** es un [[Elantrino\|elantrino]] en [[Sel\|Sel]].
 Antes de su [[Shaod\|Shaod]] trabajó en la [[Plantaci%C3%B3n de Aor\|Plantación de Aor]]. Después de unos ocho meses es llevado a [[Hrathen\|Hrathen]] para ser interrogado y así poder aprender sobre Elantris. Después de esto es capturado por [[Dilaf\|Dilaf]], que le hace varios cortes profundos en la cara, lo que lleva a Diren a perder la cordura.

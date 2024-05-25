@@ -4,7 +4,6 @@
 |**Oficio**|Clerk|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 **Exton L. Pratt** is a clerk employed by . He is a , and an Armedius alumnus.
 

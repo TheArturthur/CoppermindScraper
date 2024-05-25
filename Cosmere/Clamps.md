@@ -7,7 +7,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Clamps** es un miembro de los [[Desvanecedores\|Desvanecedores]] en los bajos fondos de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]]. Es uno de los líderes más importantes de los Desvanecedores bajo el mando de [[Miles Dagouter\|Miles Dagouter]] y es el encargado del reclutamiento y acompaña al grupo en muchas de sus incursiones.
 

@@ -6,7 +6,6 @@
 |**Especie**|[[Sho del\|Sho del]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Jan Ven** es una [[Sho del\|sho del]] en el [[Cosmere\|Cosmere]].
 Como todo sho del, tiene una piel blanca como la tiza y pelo del mismo color, cuatro brazos y ojos reptilianos. Trabaja como guía y barquera en el [[Reino Cognitivo\|Reino Cognitivo]]; [[MeLaan\|MeLaan]] la contrata cuando viaja por Shadesmar en nombre de [[Armon%C3%ADa\|Armonía]]. Jan Ven es empática y está dispuesta a dar hospedaje a MeLaan, así como a explicarle varios aspectos de la cultura y las mecánicas del Reino Cognitivo.

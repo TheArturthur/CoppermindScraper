@@ -13,7 +13,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Straff Venture** es un [[Noble\|noble]] de [[Scadrial\|Scadrial]] durante el [[El Imperio Final (in-world)\|Imperio Final]]. Era el jefe de la [[Casa Venture\|Casa Venture]], la más poderosa de entre las Grandes Casas nobles. Es el padre de [[Elend Venture\|Elend]] y [[Zane Venture\|Zane]].
 

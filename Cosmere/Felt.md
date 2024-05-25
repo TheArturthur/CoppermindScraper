@@ -8,7 +8,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*Nacidos de la bruma: El Imperio Final*|
 
 **Felt** es un [[Saltamundos\|saltamundos]] de [[Scadrial\|Scadrial]], que se encuentra en este planeta durante la caída del [[Imperio Final\|Imperio Final]], y en [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]] y la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
 

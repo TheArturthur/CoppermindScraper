@@ -8,7 +8,6 @@
 |**Residencia**||
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
-|**Primera aparición**|*[[Dreamer\|Dreamer]]*|
 
 Dave, better known by his gaming handle **Dreamer**, is a [[Poltergeist\|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including his brother [[Phi\|Phi]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 

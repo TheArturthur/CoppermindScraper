@@ -11,7 +11,6 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **OreSeur** es un [[Kandra\|kandra]] de [[Scadrial\|Scadrial]].
 En un principio, su contrato era con [[Kelsier\|Kelsier]]. Principalmente se dedicaba a imitar a lord [[Renoux\|Renoux]] y echarle un ojo a [[Vin\|Vin]] mientras actuaba como Valette Renoux. Tras la muerte de Kelsier, su contrato pasa a [[Vin\|Vin]], quien está enfadada con él porque conocía el plan de Kelsier para morir e inspirar a los [[Skaa\|skaa]] a luchar y no le paró los pies, a pesar de que OreSeur sólo actuaba según su contrato. Con el tiempo, el disgusto de Vin hacia la idea de un kandra comiendo humanos hace que ordene a OreSeur ingerir los huesos de un “perro lobo”. A la mitad de su transformación, este es asesinado y sustituido por TenSoon.

@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Iadon** es el primer rey de [[Arelon\|Arelon]] tras el [[Reod\|Reod]] en [[Sel\|Sel]]. Es el padre de [[Raoden\|Raoden]].
 

@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Rira\|de Rira]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 >“* The Heralds themselves favor you.*”
 \- Toh to Gavilar[1]

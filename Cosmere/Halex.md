@@ -7,7 +7,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras de Identidad\|Sombras de Identidad]]*|
 
 >“*If you think credentials will get you in free, then you must be new to the force.*”
 \-Mistress Halex a Wax[2]

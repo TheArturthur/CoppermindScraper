@@ -9,7 +9,6 @@
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*He decidido aceptarte como escudero mío, Szeth-hijo-Neturo. Si te soy sincera, hemos discutido entre nosotros para ver quién tendría el privilegio.*”
 \-Ki a Szeth[1]

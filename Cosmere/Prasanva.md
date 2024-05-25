@@ -11,7 +11,6 @@
 |**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎|
 |**Mundo natal**|[[Dhatri\|Dhatri]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

@@ -7,7 +7,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Dakhnah** es una escriba [[Ojos claros\|ojos claros]] que vive en [[Urithiru\|Urithiru]], en [[Roshar\|Roshar]]. Es la hija de un general y una vez cortejó a [[Adolin\|Adolin]]; Adolin la considera como una posible cita para [[Kaladin\|Kaladin]].
 Dakhnah es una mujer joven de figura curvilínea y piel oscura. Lleva los labios pintados y un apretado [[Havah\|havah]], y no considera fuera de lugar visitar un bar principalmente [[Ojos oscuros\|ojos oscuros]] como [[El Deber de Jez\|El Deber de Jez]], que ella y un amigo visitan el día de la fiesta de bodas de [[Jor\|Jor]] y [[Kryst\|Kryst]]. Al haber escrito para su padre durante las reuniones de guerra desde los catorce años, le encanta hablar de estrategia de guerra.

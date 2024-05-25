@@ -6,7 +6,6 @@
 |**Especie**|[[Cr%C3%ADpticos\|Crípticos]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Ornamento** es una [[Cr%C3%ADptico\|críptica]] de [[Roshar\|Roshar]] vinculada con [[Berila\|Berila]].
 

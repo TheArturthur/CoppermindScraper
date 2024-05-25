@@ -9,7 +9,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (book)\|Elantris]]*|
 
 **Maare** es una [[Elantrino\|elantrina]] de [[Sel\|Sel]].
 Era ama de casa antes de que el Reod la tomara. Al principio dice no tener ninguna habilidad útil, pero [[Raoden\|Raoden]] descubre que sabe tejer, entre otras cosas. Con el tiempo, confecciona trajes con la tela que le entrega [[Sarene\|Sarene]]. También viste a Sarene cuando la envían a Elantris.

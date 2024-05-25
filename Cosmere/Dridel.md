@@ -8,7 +8,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 Lord **Dridel** es uno de los miembros del sector [[Noble\|noble]] de la [[Asamblea de Luthadel\|asamblea de Luthadel]], en [[Scadrial\|Scadrial]].
 

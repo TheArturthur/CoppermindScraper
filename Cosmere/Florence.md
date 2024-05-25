@@ -3,7 +3,6 @@
 |**Oficio**|Clerk|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 **Florence** is a clerk employed by .
 She likes annoying [[Exton\|Exton]], the other clerk. Her employment had caused contention due to the prevalent sexism which existed at the time.

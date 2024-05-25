@@ -14,7 +14,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final (libro)]]*|
 
 >“*El [[Lord Legislador\|lord Legislador]] me encontrará también a mí tarde o temprano. Al menos de esta forma podré escupirle a la cara. Derrocar al Imperio Final... Tiene estilo.*”
 \-Clubs a Dockson.[2]

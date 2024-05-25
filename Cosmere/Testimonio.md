@@ -6,7 +6,6 @@
 |**Especie**|[[Cr%C3%ADpticos\|Crípticos]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Testimonio** es un [[Cr%C3%ADptico\|críptico]] [[Ojomuerto\|ojomuerto]] de [[Roshar\|Roshar]] vinculado con [[Shallan Davar\|Shallan Davar]].
 

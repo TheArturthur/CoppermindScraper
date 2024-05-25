@@ -12,7 +12,6 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 **Kenton** es un [[Maestr%C3%ADa de la arena\|maestro de la arena]] medio [[Oscurense\|oscurense]], medio [[Lossand\|lossandino]], en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]]. Kenton es el actual [[/wiki/Taishin#El lord mastrell]] del [[Diem\|Diem]].
@@ -61,7 +60,7 @@ Cuando tenía dieciocho años, insistió en hacer la [[Senda del Mastrell\|Senda
 Tras la hazaña de Kenton durante la Senda, su padre se enfureció y volvió a ofrecer a Kenton el rango de infrafen. Kenton volvió a negarse y Praxton le concedió el título de mastrell. Le explicó que el resto del Diem le odiaría por ello.
 
 ### Batalla contra los kerztianos
-Durante la Ceremonia de la Ascensión, un grupo de [[DaiKeen\|sacerdotes-guerreros]] [[Kerzta\|kerztianos]] lanzó un ataque sorpresa contra el acto. Kenton, que también había sido formado en artes marciales, dirigió a un grupo de maestros de la arena para defenderse del ataque. Finalmente fracasó y fue sepultado por la arena por el acto final de Praxton, que puso fin bruscamente a la batalla. Los kertzianos mataron prácticamente a todos, lo que hizo creer a Kenton que era el único superviviente.
+Durante la Ceremonia de la Ascensión, un grupo de [[DaiKeen\|sacerdotes-guerreros]] [[Kerzta\|kerztianos]] lanzó un ataque sorpresa contra el acto. Kenton, que también había sido formado en artes marciales, dirigió a un grupo de maestros de la arena para defenderse del ataque. Finalmente fracasó y fue sepultado por la arena por el acto final de Praxton, que puso fin bruscamente a la batalla. Los kerztianos mataron prácticamente a todos, lo que hizo creer a Kenton que era el único superviviente.
 Fue encontrado herido y deshidratado por [[Khriss\|Khriss]] y su grupo. Cuando le reanimaron con agua, Kenton aceptó ser su guía y les acompañó a la ciudad de [[Kezare\|Kezare]]. Mientras estaba en su compañía, mantuvo en secreto su maestría de la arena. Por el camino se detuvieron en un puesto de avanzada kerztiano, donde Kenton hizo intercambios por suministros. Allí se enteró de que había otros supervivientes del ataque. Cuando abandonaron el puesto de avanzada, descubrió que ya no podía usar la maestría de la arena cuando un grupo de sacerdotes-guerreros kerztianos atacó a su grupo.
 
 ### Lord mastrell en funciones

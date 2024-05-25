@@ -8,7 +8,6 @@
 |**Especie**|[[Brumaspren\|Brumaspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*¿Me consideras hermosa o me consideras un monstruo?*”
 \-Soñando-aunque-Despierta.[1]

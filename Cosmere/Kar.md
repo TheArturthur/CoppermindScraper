@@ -8,7 +8,6 @@
 |**Especie**|[[Inquisidores de acero\|Inquisidores de acero]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 Para el Kelzi del Lado Diurno, anteriormente conocido como Kar, ver [[Karmat\|Karmat]].
 >“*¡Pero permitiendo que hombres corrientes gobiernen tu Ministerio has dejado inadvertidamente que la corrupción y el vicio entren en el mismo corazón de tu sagrado palacio!*”

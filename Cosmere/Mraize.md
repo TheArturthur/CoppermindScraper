@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*La moralidad es tan efímera como el clima cambiante.*”
 \-Mraize[4]

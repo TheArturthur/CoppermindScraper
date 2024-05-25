@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Ilamar** es el jefe de caballería del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] en [[Roshar\|Roshar]].
 

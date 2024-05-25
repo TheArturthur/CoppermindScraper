@@ -16,7 +16,6 @@
 |**Nacionalidad**|[[De Teod\|de Teod]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*El problema de ser lista, es que todo el mundo cree que siempre planeas algo.*”
 \-Sarene[1]

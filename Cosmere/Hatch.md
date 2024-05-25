@@ -4,7 +4,6 @@
 |**Oficio**|Professor|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 **Hatch** is a professor at .
 

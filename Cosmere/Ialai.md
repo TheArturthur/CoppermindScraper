@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 La brillante señora **Ialai Sadeas** es una noble [[Alezi\|alezi]] [[Ojos claros\|ojos claros]] de [[Roshar\|Roshar]]. Estuvo casada con el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Torol Sadeas\|Torol Sadeas]], y asociada con los [[Hijos de Honor\|Hijos de Honor]].
 

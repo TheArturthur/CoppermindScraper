@@ -4,7 +4,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 Para the [[Veden\|Veden]], ver [[Ton (Veden)\|Ton (Veden)]].
 **Ton** is an  [[Singer\|singer]] on [[Roshar\|Roshar]] who was freed by the [[Everstorm\|Everstorm]].

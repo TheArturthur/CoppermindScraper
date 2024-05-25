@@ -9,7 +9,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 El **río Ry'DoAli** es un río importante del [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
-Fluye desde las montañas [[KraeDa\|KraeDa]] a través del centro de [[Lossand\|Lossand]] y desciende hasta el Océano Limítrofe Sur. La capital de Lossand, [[Kezare\|Kezare]], está situada en un par de islas, donde confluyen los ríos Ry'DoAli y [[Nor'Tallon\|Nor'Tallon]]. Los transportes de personas y mercancías entre la costa y las islas de Kezare se realizan mediante barcazas.
+Fluye desde las montañas [[KraeDa\|KraeDa]] a través del centro de [[Lossand\|Lossand]] y desciende hasta el [[Oc%C3%A9ano Lim%C3%ADtrofe\|Océano Limítrofe Sur]]. La capital de Lossand, [[Kezare\|Kezare]], está situada en un par de islas, donde confluyen los ríos Ry'DoAli y [[Nor'Tallon\|Nor'Tallon]]. Los transportes de personas y mercancías entre la costa y las islas de Kezare se realizan mediante barcazas.
 La ciudad de [[Lraezare\|Lraezare]] se encuentra en la costa, en la desembocadura del río Ry'DoAli. Otras ciudades están situadas a lo largo de las orillas del río (al norte y al sur de Kezare), ya que el río proporciona la principal fuente de agua y tierras de cultivo para Lossand, que no cultiva [[Parra dorim\|parra dorim]] en las arenas bajas; pero esos asentamientos son, hasta ahora, desconocidos.
 El nombre "Ry'DoAli" es [[Kerzta\|kerztiano]] para "La vena de las aguas malditas".
 

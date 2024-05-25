@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 Brightlord **Tanalan** is is the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

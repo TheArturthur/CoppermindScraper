@@ -6,7 +6,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 La señorita **Coussaint** es la casera de [[Allriandre\|Allriandre]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 A veces cuida de [[Ruri\|Ruri]], la hija de Allriandre, cuando ésta no está. Sin embargo, le grita a Ruri cuando dibuja en las paredes con pasta de dientes, lo que provoca el llanto de la niña.

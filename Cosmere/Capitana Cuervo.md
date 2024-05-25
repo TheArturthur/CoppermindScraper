@@ -7,7 +7,6 @@
 |**Oficio**|Pirata|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

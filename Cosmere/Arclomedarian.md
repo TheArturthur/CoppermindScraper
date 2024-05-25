@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Aimia\|de Aimia]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Arclomedarian**,  también conocido como **Arclo**, es un [[Insomne\|dysian aimiano]] que reside en [[Tashikk\|Tashikk]]. Tiene miles de años de antigüedad, pues vive desde antes de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]].
 

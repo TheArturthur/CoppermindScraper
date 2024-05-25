@@ -7,7 +7,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Adin** es un chico [[Ojos oscuros\|ojos oscuros]] que vive en [[Urithiru\|Urithiru]] en [[Roshar\|Roshar]].
 

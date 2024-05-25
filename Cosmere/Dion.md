@@ -8,7 +8,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 Para el personaje de *Legión: A flor de piel*, ver [[Dion Maheras\|Dion Maheras]].
 **Dion** es un habitante de [[/wiki/Elantris (ciudad)#Nueva Elantris]] en [[Arelon\|Arelon]] en [[Sel\|Sel]].

@@ -6,6 +6,7 @@
 |**Residencia**|[[Revolar\|Revolar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Ked** trabaja para el brillante señor [[Paladar\|Paladar]] en el refugio humano de [[Revolar\|Revolar]], en [[Roshar\|Roshar]], durante su ocupación por los [[Cantor\|cantores]].
 Probablemente es un [[Alezi\|alezi]] [[Ojos claros\|ojos claros]], ya que se encargó de organizar las guardias en las tiendas de Paladar y fue el responsable de poner a [[Guff\|Guff]] de guardia. Después de que Guff llevase a [[Moash\|Moash]] a ver al brillante señor y Moash no respondiese al interrogatorio, Paladar hizo golpear a Guff y ordenó a Ked que pusiese un nuevo guardia. Paladar amenazó a Ked con una paliza si el sustituto de Guff también resultaba incompetente.

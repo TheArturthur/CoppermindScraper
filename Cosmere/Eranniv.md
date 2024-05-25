@@ -6,7 +6,6 @@
 |**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]] |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Eranniv** es un antiguo [[Portador de esquirlada\|portador de esquirlada]] en las [[Llanuras Quebradas\|Llanuras Quebradas]].
 Es mencionado por primera vez a [[Adolin\|Adolin]] por [[Jakamav\|Jakamav]], quien lo describe como fanfarrón e insistiendo en que su habilidad es mayor de lo que su clasificación podría mostrar, y que aceptaría una oferta que otros rechazarían para poder destacar. A pesar de esto, [[Jakamav\|Jakamav]] le advierte a [[Adolin\|Adolin]] que de verdad es habilidoso y no es todo apariencia, por lo que debe tener cuidado al enfrentarse en un duelo con él.

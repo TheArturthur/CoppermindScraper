@@ -11,7 +11,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Asha Jushu Davar** es un [[Ojos claros\|ojos claros]] [[Veden\|veden]] de [[Roshar\|Roshar]]. Es el cuarto hijo de la [[Madre de Shallan\|brillante Davar]] y [[Lin Davar\|Lin Davar]]. Sus hermanos son [[Helaran\|Helaran]], [[Balat\|Balat]] su gemelo mayor [[Wikim\|Wikim]] y [[Shallan\|Shallan]].
 

@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Esperanzador el Justo**, dios de la inocencia y la belleza, era un [[Retornado\|Retornado]] de [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]].
 

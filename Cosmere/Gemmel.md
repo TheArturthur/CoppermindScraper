@@ -6,7 +6,6 @@
 |**Capacidades**|[[Alomancia\|Nacido de la bruma]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El und%C3%A9cimo metal\|El undécimo metal]]*|
 
 >“*Estoy aquí para enseñarte a luchar, no a hablar.*”
 \-Gemmel sobre su entrenamiento a Kelsier[1]

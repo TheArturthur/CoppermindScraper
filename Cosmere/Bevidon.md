@@ -8,7 +8,6 @@
 |**Residencia**|[[Luthadel\|Luthadel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Bevidon** es un soldado en [[Scadrial\|Scadrial]]. Sirve en la [[Guarnici%C3%B3n de Luthadel\|Guarnición de Luthadel]] bajo las órdenes del capitán [[Sertes\|Sertes]].
 Conoce a [[Ham\|Ham]], y se encuentra de guardia en el momento en que Ham y [[Vin\|Vin]] visitan la guarnición, poco antes de partir hacia [[Holstep\|Holstep]].

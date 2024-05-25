@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Despertar significa abandonar la nada, ¿sabes? Recordar el dolor. Pero entonces pienso: «Bueno, él se levanta».*”
 \-Noril, en referencia a Kaladin[1]

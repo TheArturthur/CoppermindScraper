@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 Brightlord **Sheler** is a commander in [[Meridas Amaram\|Meridas Amaram]]'s army from [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

@@ -3,7 +3,6 @@
 |**Fallecido**|Murdered|
 |**Oficio**|Inventor|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 >“*A man seeking to meld science and faith, the first person—perhaps in the history of mankind—to actually find a way to apply science to the ultimate truths of religion.*”
 \-Tobias speaking about Balubal Razon[2]

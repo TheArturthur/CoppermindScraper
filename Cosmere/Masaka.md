@@ -13,7 +13,6 @@
 |**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
 |**Mundo natal**|Desconocido|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Masaka**, también conocida como **Chinikdakordich**, es una joven [[Insomne\|Insomne]] que asume el rol de una [[Pintor\|pintora]] de [[Pesadilla\|pesadillas]] en [[Komashi\|Komashi]].
 

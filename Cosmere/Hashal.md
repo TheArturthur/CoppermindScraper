@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 La brillante **Hashal** es una mujer [[Ojos claros\|ojos claros]] en el campamento de guerra [[Principado Sadeas\|Sadeas]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]]. Está casada con [[Avarak Matal\|Avarak Matal]], oficial del ejército de Sadeas, que participa activamente en la supervisión de la [[Cuadrilla del puente\|cuadrilla del puente]] de Sadeas.
 

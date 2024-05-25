@@ -14,7 +14,6 @@
 |**Lugar de nacimiento**|[[Punta de Diggen\|Punta de Diggen]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 >“*La chica, en cambio, quizá fuera como la que te has imaginado, siempre que la hayas imaginado reflexiva, de hablar suave y demasiado aficionada a coleccionar tazas y vasos.*”
 \-Hoid describiendo a Trenza.[1]

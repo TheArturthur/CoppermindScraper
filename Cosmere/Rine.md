@@ -4,7 +4,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 Para the Alethi highlord, ver [[Rine Hatham\|Rine Hatham]].
 >“*We must exterminate them. Our people will never be safe on this world as long as the humans exist.*”

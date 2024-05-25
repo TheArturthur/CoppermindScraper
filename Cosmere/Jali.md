@@ -7,7 +7,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Jali** formaba parte del grupo de [[Cantores\|cantores]] que [[Kaladin\|Kaladin]] conoció en el tiempo que pasó viajando a [[Revolar\|Revolar]].
 Fue asesinado por [[Noro\|Noro]] en la batalla en el palacio de [[Kholinar\|Kholinar]] durante el [[Asedio a Kholinar\|asedio a Kholinar]].

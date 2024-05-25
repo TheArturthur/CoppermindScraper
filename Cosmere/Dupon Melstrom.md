@@ -4,7 +4,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 >“*Con el debido respeto, lord Ladrian, usted es padre desde hace poco y salta a la vista que no sabe cómo deben educarse los niños. No se puede ceder a sus exigencias. Hay que mantenerse firme, sabiendo que las decisiones que se toman son las mejores para ellos. En algún momento entrarán en razón. Lo que un padre es para su hijo, Elendel es para las ciudades exteriores.*”
 \-Melstrom argumentando a favor de la Ley de la Supremacía de Elendel[1]

@@ -7,7 +7,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Jeshishin** es un [[Fusionado\|Fusionado]] *[[Shanay-im\|shanay-im]]* en [[Roshar\|Roshar]].
 Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Jeshishin estuvo presente cuando [[Rabeniel\|Rabeniel]] propuso su plan para invadir [[Urithiru\|Urithiru]] en una reunión con los [[Nueve\|Nueve]]. Había participado en un ataque anterior a la torre que fue rechazado, y exigió saber cómo planeaba ella llegar al corazón bien protegido de la torre. Rabeniel le dijo que gracias al espionaje de [[Taravangian\|Taravangian]] tendría el acceso necesario para reconvertir con éxito las defensas de la torre.

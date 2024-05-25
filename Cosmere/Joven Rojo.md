@@ -6,7 +6,6 @@
 |**Residencia**|[[Ciudades-fuerte\|Ciudades-fuerte]]|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 Para otros personajes llamados Rojo, ver [[Rojo\|Rojo]].
 **Joven Rojo** es un cazarrecompensas de un [[Ciudades-fuerte\|fuerte]] en [[Treno\|Treno]].

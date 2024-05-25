@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De JinDo\|de JinDo]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 El barón **Shuden** es un comerciante de [[JinDo\|JinDo]] en [[Arelon\|Arelon]] en [[Sel\|Sel]].
 Su familia dirigía muchas rutas comerciales alrededor de Arelon. [[Iadon\|Iadon]] les ofreció una baronía para que sus caravanas siguieran funcionando.

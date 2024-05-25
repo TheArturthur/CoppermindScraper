@@ -27,7 +27,7 @@ La **Lágrima del Rey** es una [[Gema perfecta\|gema de rubí perfecta]] almacen
 
 
 ## Características
-El rubí tiene el tamaño de la cabeza de un niño y, cuando se infunde, brilla con una luz roja tan radiante como la luz del día. Aunque no es más grande que la [[Gema coraz%C3%B3n\|gema corazón]] de un [[Grancaparaz%C3%B3n\|grancaparazón]], es capaz de almacenar [[Luz tormentosa\|luz tormentosa]] indefinidamente; una gema normal de su tamaño se quedaría sin luz tormentosa en aproximadamente un mes. Las gemas perfectas mantienen su capacidad de almacenar luz tormentosa indefinidamente si se llevan a [[Shadesmar\|Shadesmar]]. Los eruditos creen que la perfección del entramado de cristal es la explicación para estas propiedades únicas.
+El rubí tiene el tamaño de la cabeza de un niño y, cuando se infunde, brilla con una luz roja tan radiante como la luz del día. Aunque no es más grande que la [[Gema coraz%C3%B3n\|gema corazón]] de un [[Grancaparaz%C3%B3n\|grancaparazón]], es capaz de almacenar [[Luz tormentosa\|luz tormentosa]] indefinidamente; una gema normal de su tamaño se quedaría sin luz tormentosa en aproximadamente un mes. Las gemas perfectas mantienen su capacidad de almacenar luz tormentosa indefinidamente, incluso si se llevan a [[Shadesmar\|Shadesmar]]. Los eruditos creen que la perfección del entramado de cristal es la explicación para estas propiedades únicas.
 Se rumorea que la Lágrima del Rey es un trozo de la [[Piedra de las Diez Albas\|Piedra de las Diez Albas]], una gema perfecta legendaria.
 
 ## Historia

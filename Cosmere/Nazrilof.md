@@ -7,7 +7,6 @@
 |**Apodos**|Nazh, *el Hombre Encantado*|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

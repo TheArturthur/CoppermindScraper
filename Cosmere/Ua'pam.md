@@ -8,7 +8,6 @@
 |**Especie**|[[Cumbrespren\|Cumbrespren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Ua'pam** es un [[Cumbrespren\|cumbrespren]] en [[Roshar\|Roshar]] vinculado a [[Zu (Roshar)\|Zu]].
 

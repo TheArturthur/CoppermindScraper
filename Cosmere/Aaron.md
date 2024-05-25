@@ -6,7 +6,6 @@
 |**Grupo**|[[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]]|
 |**Mundo natal**|[[Tierra (Escuadr%C3%B3n)\|Tierra (Escuadrón)]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 **Aaron** es un operativo de la [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]]. Cuando [[Jason Write\|Jason Write]] viaja a [[V%C3%ADsperas\|Vísperas]] para recuperar a [[Denise Carlson\|Denise Carlson]], le pregunta a [[Lanna Write\|Lanna Write]] si Aaron está disponible como operativo de apoyo en lugar de ella como parte de su actuación para ocultar su relación con Lanna a la [[Oficina de Inteligencia de Gobiernos Unidos\|Oficina de Inteligencia de Gobiernos Unidos]]. En ese momento, Aaron no estaba disponible porque estaba asignado a [[Riely\|Riely]], que estaba investigando los laboratorios CLA en la Plataforma Júpiter Diecisiete.
 

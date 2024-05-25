@@ -8,7 +8,6 @@
 |**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Dirin** es un [[Maestro de la arena\|maestro de la arena]] que vive en [[Kezare\|Kezare]], en el Lado Diurno de [[Taldain\|Taldain]].
 

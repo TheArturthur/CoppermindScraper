@@ -11,7 +11,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]], [[La esperanza de Elantris\|La esperanza de Elantris]]*|
 
 **Dashe** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]].
 Es el segundo al mando de [[Karata\|Karata]], ayudando a mantener a salvo el [[Nido\|Nido]]. Tras la llegada de [[Raoden\|Raoden]], forma un equipo para asaltar a [[Aanden\|Aanden]] contra la voluntad de Karata y Raoden.

@@ -8,7 +8,6 @@
 |**Especie**|[[Aviar\|Aviar]]|
 |**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
 
 **Sak** es un pájaro hembra que vive en el planeta [[Primero del Sol\|Primero del Sol]] y es propiedad del [[Trampero\|trampero]] [[Sexto del Ocaso (personaje)\|Sexto del Ocaso]]. No pertenece a ninguna de las especies de [[Aviar\|aviares]] conocidas por los [[Eelakin\|eelakin]], pero se convierte en uno tras llegar a [[Patji (isla)\|Patji]] y adquirir un talento mágico.
 

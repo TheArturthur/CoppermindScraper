@@ -10,7 +10,6 @@
 |**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 **William Ann Montane** es la hija de catorce años de [[Silencio Montane\|Silencio Montane]], con quien convive y a quien ayuda en la gestión de una [[Posada de Silencio\|posada]] en los [[Bosques del infierno\|bosques del infierno]].
 

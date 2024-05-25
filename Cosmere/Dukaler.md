@@ -7,7 +7,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 Lord **Dukaler** es un [[Noble\|noble]] y miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]] tras el [[Colapso\|Colapso]] del [[Imperio Final\|Imperio Final]].
 Vota por lord [[Penrod\|Penrod]] para sustituir a [[Elend\|Elend]] como rey de Luthadel durante el [[Asedio de Luthadel\|asedio a la ciudad]].

@@ -10,7 +10,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **aviar de Gereh** es un [[Aviar\|aviar]] en [[Roshar\|Roshar]]. Fue propiedad de [[Gereh\|Gereh]] anteriormente pero tras su muerte es rescatado por [[Lift\|Lift]], con quien vive en la actualidad.

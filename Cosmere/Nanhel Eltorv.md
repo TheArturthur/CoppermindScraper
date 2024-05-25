@@ -6,7 +6,6 @@
 |**Oficio**|Marinero|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Nanhel Eltorv** es un marinero en [[Roshar\|Roshar]] y miembro de la tripulación del capitán [[Tozbek\|Tozbek]] en el *[[Placer del Viento\|Placer del Viento]]*.
 

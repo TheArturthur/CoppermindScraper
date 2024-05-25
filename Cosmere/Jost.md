@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Jost** es un [[Ojos oscuros\|ojos oscuros]] de [[Piedralar\|Piedralar]] en [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]] que creció con [[Kaladin\|Kaladin]].
 

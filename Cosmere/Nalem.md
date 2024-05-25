@@ -7,7 +7,6 @@
 |**Grupo**|Ejército de Amaram|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Nalem** es uno de los sargentos de [[Gare\|Gare]] en el ejército de [[Amaram\|Amaram]] en [[Roshar\|Roshar]].
 Está presente en la batalla en la que [[Kaladin\|Kaladin]] mata a un [[Helaran Davar\|portador de esquirlada veden]].

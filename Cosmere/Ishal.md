@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“* ¿Su nombre, brillante señor? Querría quemar las glifoguardas como es debido, con tu permiso.*”
 \- Ishal a Dalinar sobre el nombre de Adolin[1]

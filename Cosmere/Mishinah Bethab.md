@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Mishinah Bethab** es una [[Ojos claros\|ojos claros]] miembro de la nobleza [[Alezi\|alezi]] en [[Roshar\|Roshar]]. Está casada con el alto príncipe [[Bethab\|Bethab]].
 

@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Abrial** es un [[Alto pr%C3%ADncipe\|alto príncipe]] de [[Jah Keved\|Jah Keved]].
 En 1173, Abrial asistió a una de las fiestas del rey [[Hanavanar\|Hanavanar]] en [[Vedenar\|Vedenar]]. Durante la fiesta, [[Szeth\|Szeth]] intentó asesinar al rey bajo ordenes de [[Taravangian\|Taravangian]]. Durante la pelea, Abrial fue probablemente asesinado junto con otros altos príncipes veden, aunque los informes de su muerte no fueron confirmados al menos inicialmente.

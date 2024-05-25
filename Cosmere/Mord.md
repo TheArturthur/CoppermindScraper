@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Mord** es un [[Ojos oscuros\|ojos oscuros]] que reside en [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
 Mord provenía probablemente de una familia de granjeros, puesto que se encontraba entre un grupo de jóvenes (que también incluía a [[Jost\|Jost]], [[Jest\|Jest]], [[Tift\|Tift]], [[Naget\|Naget]] y [[Khav\|Khav]]) al que se le encargó quitar a los [[Gusano cavador\|gusanos cavadores]] de los campos de [[Lavis\|lavis]] a las afueras de Piedralar. Quedaba con el mismo grupo de chicos después de acabar el trabajo, y presenció un pelea entre Kaladin y Jost.

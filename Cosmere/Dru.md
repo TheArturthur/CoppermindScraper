@@ -6,7 +6,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Dru** es un hombre [[Alezi\|alezi]] esbelto en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
 Dru trabajaba en la oficina de intendencia del distrito. Tras el descubrimiento de [[Urithiru\|Urithiru]], Dru se trasladó allí junto con la mayoría de los otros alezi de los campamentos de guerra de las [[Llanuras Quebradas\|Llanuras Quebradas]]. En algún momento, comenzó a salir con [[Drehy\|Drehy]], uno de los hombres del [[Puente Cuatro\|Puente Cuatro]].

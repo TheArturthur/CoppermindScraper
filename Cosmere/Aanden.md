@@ -12,7 +12,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Taan** es un escultor de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Tras ser tomado por la Shaod, adopta el nombre de **Aanden**. Taan gobierna a un tercio de los habitantes de [[Elantris (ciudad)\|Elantris]] antes de la llegada del príncipe [[Raoden\|Raoden]].
 

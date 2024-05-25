@@ -4,7 +4,6 @@
 |**Fallecido**|Killed by [[Lifeforce\|Lifeforce]] during the infiltration of |
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Lux (book)\|Lux]]*|
 
 This page is about the [[Reckoners\|Reckoner]] from Texas. Para the  originally known as Abigail Reed, ver [[Regalia\|Regalia]].
 >“*She was like a mother to our dwindling team. She took care of us, mended our injuries, nursed us back to health, hugged us, bolstered our confidence.*”

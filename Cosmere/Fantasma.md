@@ -17,7 +17,6 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Fantasma**, o **Lestibournes**, es un [[Skaa\|skaa]] [[Brumoso\|brumoso]] de [[Esta%C3%B1o\|estaño]] (también conocido como [[Ojo de esta%C3%B1o\|ojo de estaño]]) de [[Scadrial\|Scadrial]]. Fue integrante de la [[Banda de Kelsier\|banda de Kelsier]] y trabajó para [[Elend Venture\|Elend Venture]] después del [[Colapso\|Colapso]]. Tras el [[Catacendro\|Catacendro]], pasó a ser conocido como el lord Nacido de la Bruma y gobernó la [[Cuenca de Elendel\|Cuenca de Elendel]] durante cien años antes de abandonar el poder.
 

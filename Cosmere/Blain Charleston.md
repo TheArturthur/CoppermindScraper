@@ -4,7 +4,6 @@
 |**Fallecido**|Killed by |
 |**Religión**|The |
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 >“* Sometimes, son, you have to help the heroes along.*”
 \- Blain[1]

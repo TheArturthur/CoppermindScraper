@@ -14,7 +14,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|**|
 
 > [!info] Se ha sugerido que esta página se una  con Allrianne Ladrian.La información de esta página es mejor que sea incluido en otra página
 

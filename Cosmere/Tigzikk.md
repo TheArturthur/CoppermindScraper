@@ -5,7 +5,6 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Tigzikk** is a thief on [[Roshar\|Roshar]] who attempted to rob the [[Bronze Palace\|Bronze Palace]]. He is also known as "Tig" to [[Lift\|Lift]], who is unable to properly pronounce his name.
 

@@ -6,7 +6,6 @@
 |**Especie**|[[Honorspren\|Honorspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 **Caelinora** es una [[Honorspren\|honorspren]] de [[Roshar\|Roshar]]. Está vinculada con [[Huio\|Huio]].
 

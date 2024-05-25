@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Tashikk\|de Tashikk]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Ghenna** es una escriba que trabaja en el [[Grand Indicium\|Grand Indicium]] de [[Yeddaw\|Yeddaw]] en [[Tashikk\|Tashikk]], en [[Roshar\|Roshar]]. Presumiblemente, ella es una escriba de un orden superior.
 

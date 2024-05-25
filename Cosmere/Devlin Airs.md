@@ -7,7 +7,6 @@
 |**Residencia**|[[Nueva Seran\|Nueva Seran]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 >“*Todos podemos hacernos preguntas, pero donde no hay dinero, tampoco hay respuestas.*”
 \-Devlin Airs a Waxillium[1]

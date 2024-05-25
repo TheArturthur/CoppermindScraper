@@ -15,7 +15,6 @@
 |**Nacionalidad**|[[De Teod\|de Teod]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Kiin** es un marinero y comerciante de [[Teod\|Teod]] en [[Sel\|Sel]]. Su nombre se basa en el [[/wiki/Aon#Kii]], que significa "justicia". Kiin es tío de [[Sarene\|Sarene]] y el legítimo rey de Teod. También se le conoce por el nombre de **Dreok Aplastagargantas** por su época de pirata, aunque su intención era que el nombre fuera **Garganta Aplastada** por su voz rasposa.
 

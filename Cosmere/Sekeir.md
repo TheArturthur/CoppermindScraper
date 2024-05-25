@@ -8,7 +8,6 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Humans are monsters, with a lust for death that can never be sated. You thrive upon the terrible emotions of the Unmade. You don't fight Odium. You **are** Odium.*”
 \-Sekeir a Adolin Kholin[1]

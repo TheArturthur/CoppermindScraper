@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Oathbringer\|Oathbringer]]*|
 
 **Rock** is [[Lunamor\|Lunamor]] and [[Tuaka\|Tuaka]]'s second son. He is named after a smaller kind of rock than his father. Per his culture's traditions he has the honor of gathering food.
 Rock arrived at the [[Shattered Plains\|Shattered Plains]] with his family in Jes 1174 after traveling for months to meet with Lunamor, who sent them a message shortly after his arrival. Rock's caravan was attacked by [[Voidbringer\|Voidbringers]] and his family defended themselves behind a pile of furniture. During the attack a member of his family shot a Voidbringer with an [[Unkalaki\|Unkalaki]] arrow. They were found by [[Bridge Four\|Bridge Four]] during a patrol and taken to [[Urithiru\|Urithiru]]. After settling in Urithiru, he helped his father serve food and drink to Bridge Four.

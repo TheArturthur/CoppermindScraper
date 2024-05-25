@@ -7,7 +7,6 @@
 |**Capacidades**|[[Talento Smedry\|Talento Smedry]], [[Oculantista\|Oculantista]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
-|**Primera aparición**|*[[Alcatraz Versus the Evil Librarians\|Alcatraz Versus the Evil Librarians]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

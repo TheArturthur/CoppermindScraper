@@ -14,7 +14,6 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Aradan Yomen** es un [[Obligador\|obligador]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Es un [[Brumoso\|brumoso]] de [[Atium\|atium]] (también denominado [[Vidente (Scadrial)\|vidente]]).
 

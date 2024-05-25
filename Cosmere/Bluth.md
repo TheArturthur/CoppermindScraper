@@ -5,7 +5,6 @@
 |**Oficio**|Mercenario|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Bluth** era un mercenario al servicio del esclavista [[Thaylen\|tayhleño]] [[Tvlakv\|Tvlakv]] en [[Roshar\|Roshar]].
 

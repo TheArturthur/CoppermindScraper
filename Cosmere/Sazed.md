@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 > [!info] ¡Por los Dioses Olvidados!Esta página contiene **amplios** spoilers de todos los libros y relatos cortos de *Nacidos de la bruma*, particularmente del final de *[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*.
 

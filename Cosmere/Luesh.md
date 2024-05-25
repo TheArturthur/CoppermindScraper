@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
 **Luesh** es un mayordomo de la [[Casa Davar\|casa Davar]] en [[Jah Keved\|Jah Keved]], [[Roshar\|Roshar]]. Es miembro de los [[Sangre Espectral\|Sangre Espectral]].
 

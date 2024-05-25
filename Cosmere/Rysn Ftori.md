@@ -7,7 +7,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Rysn Ftori bah-Vstim** es una joven de [[Thaylenah\|Thaylenah]] en [[Roshar\|Roshar]]. Es maestra de comercio y [[Rebsk\|rebsk]] del *[[Wandersail (1174 ship)\|Vela Errante (barco año 1174)]]*. Anteriormente fue aprendiz de comerciante bajo su *[[Babsk\|babsk]]* [[Vstim\|Vstim]]. Durante su tiempo como aprendiz, perdió la capacidad de usar sus piernas en un accidente en las [[Islas Reshi\|Islas Reshi]]. Después trabajó en la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]] durante algún tiempo, gestionando las finanzas personales de la [[Reina Fen\|Reina Fen]], antes de convertirse en comerciante por derecho propio. Rysn tiene un [[Larkin\|larkin]] como mascota, al que llama [[Chiri-Chiri\|Chiri-Chiri]]. Es una [[Esquirla del Amanecer\|Esquirla del Amanecer]]
 

@@ -7,7 +7,6 @@
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 > [!info] ¡Esta página necesita atención de forma urgente!Tiene fallos graves como falta de claridad, marcadores de posición o está incompleto de forma crítica.
 
 >“*I've seen Steelheart bleed. And I **will** see him bleed again.*”

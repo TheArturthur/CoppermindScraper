@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Haddek** es el lider de la [[Primera Generaci%C3%B3n\|Primera Generación]] de [[Kandra\|kandra]], también llamados los Primeros.
 

@@ -15,7 +15,6 @@
 |**Residencia**|[[T'Telir\|T'Telir]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 VaraTreledees redirige aquí. Para el sumo sacerdote de [[Susebron\|Susebron]], ver [[Treledees\|Treledees]].
 >“*He intentado dar marcha atrás. Pero la oscuridad... está dentro. No puedo escapar de ella. Mi risa es falsa. No puedo olvidar.*”

@@ -10,7 +10,6 @@
 |**Etnia**|[[De Treno\|de Treno]]|
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

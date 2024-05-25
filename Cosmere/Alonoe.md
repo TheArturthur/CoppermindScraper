@@ -7,7 +7,6 @@
 |**Grupo**|[[Ire\|Ire]]🐱︎|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*Nacidos de la bruma:historia secreta*|
 
 Para la masa de agua situada en [[Sel\|Sel]], ver [[Lago Alonoe\|lago Alonoe]].
 **Alonoe** es un miembro de los [[Ire\|Ire]], un grupo de [[Elantrino\|Elantrinos]] provenientes de [[Sel\|Sel]] que residen en el [[Reino Cognitivo\|Reino Cognitivo]].

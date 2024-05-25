@@ -7,7 +7,6 @@
 |**Grupo**|Ejército de Amaram|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Bueno, tal vez no me guste que todo el mundo haga lo que les dices. No me importa lo bueno que seas con la lanza. Mi pelotón es mío.*”
 \-Gare a Kaladin[1]

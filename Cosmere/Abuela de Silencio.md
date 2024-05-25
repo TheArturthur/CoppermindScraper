@@ -10,7 +10,6 @@
 |**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 **La abuela de Silencio** es una mujer de la [[Patria\|Patria]] que viaja a los [[Bosques del infierno\|bosques del infierno]] en [[Treno\|Treno]].
 

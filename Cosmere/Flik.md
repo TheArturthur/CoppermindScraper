@@ -7,7 +7,6 @@
 |**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 >“*Lo intentó con todas sus fuerzas, señorita Trenza. Tendrías que haber visto al joven amo. Hizo todo lo posible para ahuyentar a esas mujeres. Memorizó ochenta y siete tipos distintos de contrachapado y sus usos. Habló a todas las princesas que conocía, largo y tendido, sobre las mascotas de su infancia. Hasta les habló de religión, nada menos. En el quinto reino me temí que iban a pillarlo, porque esa princesa era sorda, pero el joven amo fue y le vomitó encima durante la cena.*”
 \-Flik, contando los esfuerzos de Charlie para permanecer soltero[1]

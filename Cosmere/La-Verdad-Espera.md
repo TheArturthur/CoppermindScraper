@@ -9,7 +9,6 @@
 |**Grupo**|[[Brigada Nocturna\|Brigada Nocturna]]🐱︎|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 
 **La-Verdad-Espera**, también llamado **Verdad**, sirve como sargento en la [[Brigada Nocturna\|Brigada Nocturna]] bajo el mando de la [[Almirante\|Almirante]].

@@ -8,7 +8,6 @@
 |**Especie**|[[Cr%C3%ADpticos\|Crípticos]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

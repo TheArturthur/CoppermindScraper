@@ -7,7 +7,6 @@
 |**Apodos**|Espada-nimi|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 Esta página es sobre la espada. Para la eventual secuela de [[El aliento de los dioses\|El aliento de los dioses]], ver [[Nightblood (libro)\|Nightblood (libro)]].
 >“*Hola. ¿Te gustaría destruir algún mal hoy?*”

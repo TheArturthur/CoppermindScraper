@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 Para el corredor de apuestas veden, ver [[Mill\|Mill]].
 **Mil** es un hombre de [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].

@@ -6,7 +6,6 @@
 |**Residencia**|[[Bosques del infierno\|Los bosques del infierno]]|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 **Daggon** es un hombre que vive en los [[Bosques del infierno\|bosques del infierno]] en [[Treno\|Treno]].
 

@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (book)\|Elantris]]*|
 
 **Daora** es una noble menor de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Se casó con [[Kiin\|Kiin]] después de que éste se estableciera allí, lo que la convirtió en miembro de las [[Familias reales a%C3%B3nicas\|familias reales aónicas]] y tía de [[Sarene\|Sarene]]. Es la madre de [[Lukel\|Lukel]], [[Adien\|Adien]], [[Kaise\|Kaise]] y [[Daorn\|Daorn]].
 

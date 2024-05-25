@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Ivis** es una [[Fervoroso\|fervorosa]] y maestra espadachina de la [[Casa Kholin\|casa Kholin]] en [[Roshar\|Roshar]].
 

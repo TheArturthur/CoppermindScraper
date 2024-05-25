@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Arena Blanca\|Arena Blanca]]*|
 
 El oficial **Gremt** es miembro de la [[Torre (Taldain)\|Torre]] en el Lado Diurno de [[Taldain\|Taldain]]. Fue uno de los soldados que enseñó a [[Kenton\|Kenton]] a utilizar la espada. Conoce a Kenton y al resto de su grupo cuando vienen a buscar al desaparecido [[Taishin\|lord general]] [[Raagent\|Raagent]]. Ayuda a regañadientes a [[Ais\|Ais]] cuando ésta busca en la Torre pistas sobre el paradero de Raagent.
 

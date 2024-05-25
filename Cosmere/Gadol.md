@@ -8,7 +8,6 @@
 |**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*¡Rompen la misma tierra! La quieren, pero en su furia la destruirán. ¡Igual que el hombre celoso quema sus riquezas antes de dejar que se las queden sus enemigos! ¡Vienen!*”
 \-Susurro de muerte de Gadol[1]

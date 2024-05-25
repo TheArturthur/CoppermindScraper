@@ -6,7 +6,6 @@
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Cusicesh, el Protector** es un [[Spren\|spren]] extremadamente grande que se encuentra en una bahía vecina a la ciudad de [[Kasitor\|Kasitor]] en [[Iri\|Iri]], en [[Roshar\|Roshar]].
 

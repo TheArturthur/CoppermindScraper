@@ -14,7 +14,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Aesudan Kholin** es la reina regente de [[Alezkar\|Alezkar]] durante el reinado de su marido, el rey [[Elhokar Kholin\|Elhokar Kholin]]. Dirige el reino en ausencia de su marido, mientras éste lucha contra los [[Parshendi\|parshendi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]].
 

@@ -8,7 +8,6 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*¿Cómo has podido arriesgarte de esa manera? ¿No eres consciente de que los mortales morís si os rompéis?*”
 \-Lusintia a Shallan Davar[1]

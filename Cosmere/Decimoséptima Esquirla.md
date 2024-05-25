@@ -1,7 +1,6 @@
 |**Decimoséptima Esquirla**|
 |-|-|
 |**Cuartel General**|En [[Luzdeplata\|Luzdeplata]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 Esta página hace referencia al grupo de saltamundos. Para la web oficial de fans de [[Brandon Sanderson\|Brandon Sanderson]], ver [[17thshard.com\|17thshard.com]].

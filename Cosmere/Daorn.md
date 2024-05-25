@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Daorn** es un niño [[Arelon\|areleno]] de [[Sel\|Sel]].
 Es hijo de [[Kiin\|Kiin]] y [[Daora\|Daora]], hermano de [[Lukel\|Lukel]], [[Kaise\|Kaise]] y [[Adien\|Adien]], y primo de Sarene.

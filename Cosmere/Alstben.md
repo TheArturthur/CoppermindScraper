@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer (novella)]]*|
 
 **Alstben** es un marinero [[Thayle%C3%B1o\|thayleño]] en el *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*. Es un hombre alto y le gusta llevar las cejas en punta.
 Fue miembro de la tripulación del *Vela Errante* en la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]]. Cuando el barco se encontró con lo que parecía ser un [[Santhid\|santhid]] muerto, Alstben lo tomó como un mal presagio y quiso abortar la misión.

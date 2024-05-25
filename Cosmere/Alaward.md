@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Alaward** es un miembro de la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] y forma parte del séptimo pelotón, segunda escuadra, de [[Noro\|Noro]].
 

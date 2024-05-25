@@ -8,7 +8,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Adawathwyn** es una antigua vicegobernadora de [[Elendel\|Elendel]], segunda del gobernador [[Varlance\|Varlance]]. Adawathwyn es una [[/wiki/Cinc#Uso feruqu.C3.ADmico]] [[Terris\|terrisana]].
 

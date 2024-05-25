@@ -16,7 +16,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 > [!info] ¡Siempre hay otro secreto!Kelsier no bromeaba cuando lo dijo. Ten **mucho cuidado** con los spoilers relacionados con el [[Cosmere\|Cosmere]] en esta sección.
 
@@ -242,7 +242,7 @@ A Kelsier le gustan los fideos.
 Si Kelsier conociera a [[Kaladin\|Kaladin]], le caería bien porque es una persona innatamente buena que intenta hacer el bien, y Kelsier aprecia esto y quiere preservarlo en el mundo. Intentaría dar ánimos y consolar a Kaladin por no poder salvar a todo el mundo. A Kal no le gustaría él, pero no le importaría.
 A pesar de lo que ha contado a los Sangre Espectral, Kelsier no tiene un avatar real. Sin embargo, Brandon imagina que Kelsier utiliza como "avatar" a un seon con gabardina.
 Kelsier considera que las pistolas son armas poco elegantes.
-Si fuera un Radiante, hay tres Órdenes a las que Kelsier podría pertenecer: Danzantes del Filo, Portadores del Polvo o Escultores de Voluntad. La razón por la que encajaría bien como Danzante del Filo es principalmente por lo que aprendió de Mare respecto a la restauración del mundo a la época de las flores y el verdor. Como Portador del Polvo también encaja por el tema del dominio de sí mismo y de esforzarse. Escultor de Voluntad también está en lo alto de la lista.
+Si fuera un Radiante, hay tres Órdenes a las que Kelsier podría pertenecer: [[Danzantes del Filo\|Danzantes del Filo]], [[Portadores del Polvo\|Portadores del Polvo]] o [[Escultores de Voluntad\|Escultores de Voluntad]]. La razón por la que encajaría bien como Danzante del Filo es principalmente por lo que aprendió de Mare respecto a la restauración del mundo a la época de las flores y el verdor. Como Portador del Polvo también encaja por el tema del dominio de sí mismo y de esforzarse. Escultor de Voluntad también está en lo alto de la lista.
 Si fuera un Retornado, probablemente se llamaría Lifeseeker (Buscavidas en español), o algo parecido.
 ## Notas
 

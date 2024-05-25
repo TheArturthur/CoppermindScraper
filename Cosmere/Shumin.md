@@ -3,7 +3,6 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Shumin** is a [[Singer\|singer]] on [[Roshar\|Roshar]] and a member of [[Venli\|Venli]]'s resistance movement.
 

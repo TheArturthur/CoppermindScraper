@@ -4,7 +4,6 @@
 |**Padres**|[[Gosovic\|Gosovic]]|
 |**Títulos**|Commander of the Long Hunt, Princess , Queen|
 |**Mundo natal**|[[Mirandus\|Mirandus]]|
-|**Primera aparición**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

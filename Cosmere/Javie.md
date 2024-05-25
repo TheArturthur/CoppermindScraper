@@ -4,6 +4,7 @@
 |**Javie**|
 |-|-|
 |**Oficio**|Profesor|
+|**Grupo**|[[Set\|Set]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

@@ -9,7 +9,6 @@
 |**Etnia**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 
  **Teshav Khal** is an  woman on [[Roshar\|Roshar]]. The wife of [[General Khal\|General Khal]], she acts as a scribe and an advisor to [[Dalinar Kholin\|Dalinar Kholin]] and oversees the [[Coalition of monarchs\|coalition's]] archive vault.
 

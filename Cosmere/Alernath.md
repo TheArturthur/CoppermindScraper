@@ -5,7 +5,6 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 Lord **Alernath** es un miembro de la nobleza en [[Elendel\|Elendel]] y un asociado del Lord [[Jackstom Harms\|Jackstom Harms]].
 Harms toma unos tragos con Alernath durante el [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]].

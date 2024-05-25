@@ -7,7 +7,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Being a Radiant isn't so much about your strength or skill, but about your heart. And yours is the best of all of us.*”
 \-Kaladin a Hobber[2]

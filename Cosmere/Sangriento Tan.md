@@ -8,7 +8,6 @@
 |**Residencia**|[[Roughs\|Roughs]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 >“*Cada vida es una representación. Pero nosotros no somos los actores. Somos las marionetas. He visto a Dios, vigilante de la ley. He visto a la misma Muerte, con los clavos en los ojos. He visto al Superviviente, que es la vida. Otros hombres dudan, pero yo lo sé. Sé que soy una marioneta. Todos lo somos.*”
 \-Sangriento Tan a Waxillium Ladrian.[1]

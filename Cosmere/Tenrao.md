@@ -8,7 +8,6 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Tenrao** es un [[Elantrino\|elantrino]] en [[Nueva Elantris\|Nueva Elantris]] en [[Sel\|Sel]].
 Informa a [[Raoden\|Raoden]] de la llegada de [[Sarene\|Sarene]] cuando parece haberse convertido en elantrina.

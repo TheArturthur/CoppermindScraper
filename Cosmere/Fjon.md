@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[De Fjorden\|de Fjorden]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 **Fjon** es un [[Arteth\|arteth]] [[Derethi\|derethi]] de [[Fjorden\|Fjorden]] en [[Sel\|Sel]]. Es el arteth principal de [[Kae\|Kae]], la capital de [[Arelon\|Arelon]], hasta la llegada del gyorn [[Hrathen\|Hrathen]].
 

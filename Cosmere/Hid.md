@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Hid** es un miembro de la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] en [[Roshar\|Roshar]]. Es miembro de la escuadra de [[Noro\|Noro]], Pelotón Siete, Escuadrón Dos.
 

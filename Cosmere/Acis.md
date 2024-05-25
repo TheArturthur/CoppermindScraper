@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Acis** es un soldado [[Alezi\|alezi]] del ejército del alto mariscal [[Meridas Amaram\|Meridas Amaram]].
 Acis era miembro del [[Escuadr%C3%B3n de Kaladin\|escuadrón de Kaladin]] y luchó con ellos en las escaramuzas fronterizas contra el brillante señor [[Hallaw\|Hallaw]]. Murió durante el atentado contra Amaram perpetrado por [[Helaran Davar\|Helaran Davar]], junto con [[Toorim\|Toorim]], [[Hamel\|Hamel]], [[Raksha\|Raksha]], [[Navar\|Navar]] y otros once miembros del escuadrón de [[Kaladin\|Kaladin]].

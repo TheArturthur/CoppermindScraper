@@ -8,7 +8,7 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Kadrix** es la isla [[Reshi\|Reshi]] más grande de [[Roshar\|Roshar]].
+**Kadrix** es la isla [[Reshi\|Reshi]] más grande de [[Roshar\|Roshar]]. Se encuentra en el ecuador.
 Los habitantes de Kadrix montan [[Grancaparaz%C3%B3n\|grancaparazones]].
 
 ## Notas

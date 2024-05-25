@@ -8,7 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*No hay que reírse de tu padre ni despreciarlo. Si sus visiones son verdaderas, entonces es algo entre el Todopoderoso y él. Todo lo que puedo decir es esto: sé algo de lo que es verse acechado por la muerte y la destrucción de la guerra. Veo en los ojos de tu padre mucho de lo que yo he sentido, pero peor.*”
 \-Kadash a Adolin Kholin[1]

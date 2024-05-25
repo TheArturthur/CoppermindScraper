@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Vstim** es un comerciante [[Thaylenah\|thayleño]] en [[Roshar\|Roshar]]. En la actualidad trabaja como Ministro de Comercio de la [[Reina Fen\|Reina Fen]], el cargo civil más alto del gobierno thayleño. Fue «babsk» de [[Rysn\|Rysn]], un cargo que consiste en un maestro para un aprendiz, y también su padre legal hasta que la declaró comerciante por derecho propio.
 

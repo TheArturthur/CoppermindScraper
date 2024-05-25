@@ -8,7 +8,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 **La enfermera de Lemex** es una mujer [[Terris\|terrisana]] [[Saltamundos\|saltamundos]] que hace de enfermera de [[Lemex\|Lemex]] cuando éste es envenenado durante la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]] en [[Nalthis\|Nalthis]].
 Cuando [[Vivenna\|Vivenna]] fue a visitar a Lemex en su lecho de muerte, su solemne enfermera le dijo que no se podía hacer nada más para ayudarle. Vivenna despidió a la enfermera antes de que Lemex le diera todos sus [[Aliento\|alientos]]. Con la ayuda de la banda de Denth, la enfermera se deshizo del cuerpo de Lemex esa misma noche. Denth mencionó más tarde que la sobornó mientras se ocupaba de la propiedad de Lemex, alegando que, de todos modos, ella no sabía realmente quién era Lemex.

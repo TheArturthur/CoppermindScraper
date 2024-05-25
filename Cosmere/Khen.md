@@ -7,6 +7,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“* Yo solo pregunto en qué hemos mejorado. Éramos esclavos de los alezi y ahora somos esclavos de los Fusionados. Estupendo. Me alegra muchísimo saber que ahora sufrimos a manos de nuestra propia gente.*”
 \- Khen al ser reclutado por los Fusionados[1]

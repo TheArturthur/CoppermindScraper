@@ -7,7 +7,6 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*¿A quién le importa? Si los dioses nos ayudaran a matar a esos ejércitos de ahí fuera, les juraría fidelidad ahora mismo.*”
 \-Bila a Eshonai[1]

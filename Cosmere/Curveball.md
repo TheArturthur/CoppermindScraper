@@ -5,7 +5,6 @@
 |**Apodos**|Donny Harrison|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Primera aparición**|*[[Steelheart\|Steelheart]]*|
 
 **Curveball** is an  in . His real name is **Donny Harrison**. He is a bodyguard and hitman who works for [[Steelheart\|Steelheart]].
 

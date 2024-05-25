@@ -6,7 +6,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Skar** is a member of [[Bridge Four\|Bridge Four]] and is company second for the [[Order of Windrunners\|Order of Windrunners]] on [[Roshar\|Roshar]].
 

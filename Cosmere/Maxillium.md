@@ -11,7 +11,6 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El metal perdido\|El metal perdido]]*|
 
 **Maxillium Ladrian** es el hijo de [[Steris Harms\|Steris Harms]] y [[Waxillium Ladrian\|Waxillium Ladrian]] en [[Scadrial\|Scadrial]]. Es el mayor de sus dos hijos, siendo hermano de [[Tindwyl Ladrian\|Tindwyl Ladrian]].
 

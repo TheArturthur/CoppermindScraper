@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Torio\|de Torio]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Sunjun** es uno de los académicos de [[Torio\|Torio]] del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] que participa en la creación de la [[M%C3%A1quina padre\|máquina padre]] y que más tarde es enviado por la máquina para evitar que [[Yumi\|Yumi]] escape de su prisión.
 

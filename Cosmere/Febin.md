@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 **Febin** es un hombre [[Alezi\|alezi]] que es miembro de las [[%C3%89lites de Dalinar\|élites de Dalinar Kholin]] en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
 Febin y [[Kadash\|Kadash]] sirvieron como guardaespaldas para [[Gavilar Kholin\|Gavilar Kholin]] después de que él y [[Dalinar\|Dalinar]] conquistasen [[Rathalas\|Rathalas]] durante la [[Reunificaci%C3%B3n alezi\|reunificación alezi]].

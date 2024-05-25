@@ -1,7 +1,6 @@
 |**Holly Winseed (Provisional Replica)**|
 |-|-|
 |**Mundo natal**||
-|**Primera aparición**|*[[The Original\|The Original]]*|
 
 
 **Holly Winseed** is a [[Provisional Replica\|Provisional Replica]], created by the government after [[Holly Winseed (Original)\|her original]] murdered her husband, [[Jonathan Gentry\|Jonathan]]. She is tasked with finding and killing her original, and is given four days to do it.

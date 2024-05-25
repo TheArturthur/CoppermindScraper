@@ -10,7 +10,6 @@
 |**Residencia**|[[Elantris (ciudad)\|Elantris]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Para un seon, no hay encima ni debajo, solo aquellos a quienes amamos. Y servimos a quienes amamos.*”
 \-Ien a Raoden[1]

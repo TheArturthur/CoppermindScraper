@@ -10,7 +10,6 @@
 |**Nacionalidad**|[[De Torio\|de Torio]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **alcalde** del [[Pueblo de Gongsha\|pueblo de Gongsha]] es un hombre regordete y calvo. Cuando los eruditos del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] llegaron a su ciudad, los saludó con profundo respeto. Durante la [[Batalla de Kilahito\|batalla de Kilahito]], el alcalde es la primera persona de [[Torio\|Torio]] que [[Nikaro\|Nikaro]] elige para pintar, después de [[Liyun\|Liyun]].

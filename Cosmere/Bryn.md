@@ -5,7 +5,6 @@
 |-|-|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 **Bryn** es miembro de las Primeras Familias. Ella y [[Arturo M%C3%A9ndez\|Arturo Méndez]] salieron durante un tiempo y se conocen desde antes de que él fuera a la escuela de vuelo.
 Bryn tiene el pelo corto y la piel morena.

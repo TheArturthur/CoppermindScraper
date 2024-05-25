@@ -6,7 +6,6 @@
 |**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
-|**Primera aparición**|**|
 
 >“*Rithmatic this, Rithmatic that! Protect the kingdom, keep the wild chalklings at bay. Why does everything have to do with Rithmatics? Can't a girl spend some time thinking about something else for a while?*”
 \-Melody to Joel[1]

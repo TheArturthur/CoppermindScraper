@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Ketol** es un asistente de la corte de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Es un hombre alto y enjuto con expresión aburrida que hace bien su trabajo pero sin entusiasmo.
 El rey [[Iadon\|Iadon]] envió a Ketol a reunirse con [[Sarene\|Sarene]] cuando ésta llegó a [[Kae\|Kae]]. Fue él quien le informó de la "muerte" de [[Raoden\|Raoden]]. Cuando Sarene pidió ver el ataúd del príncipe, Ketol protestó porque le habían dicho que la llevara ante el rey de inmediato. Sin embargo, cedió y la llevó a la carpa funeraria, donde él y unos mozos de carga abrieron camino hasta el ataúd. Después, Ketol llevó a Sarene a la corte y la instruyó sobre cómo acercarse al rey.

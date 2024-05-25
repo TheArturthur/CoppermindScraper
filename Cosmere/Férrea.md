@@ -9,6 +9,7 @@
 |**Grupo**|[[FDD\|FDD]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*No sé si les desearía este mando [a los pilotos con los que solía volar]. Ni siquiera a los que odiaba.*”
 \-Almirante Judy "Férrea" Ivans sobre su posición al frente de la FDD[2]

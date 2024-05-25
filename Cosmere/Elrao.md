@@ -6,7 +6,6 @@
 |**Grupo**|[[Ire\|Ire]]🐱︎|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*Nacidos de la bruma: historia secreta*|
 
 **Elrao** es un miembro de los [[Ire\|Ire]], un grupo de [[Elantrino\|elantrinos]] de [[Sel\|Sel]]  que se han establecido en el [[Reino Cognitivo\|Reino Cognitivo]].
 

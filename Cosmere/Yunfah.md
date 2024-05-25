@@ -5,7 +5,6 @@
 |**Especie**|[[Honorspren\|Honorspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Yunfah** is an [[Honorspren\|honorspren]] on [[Roshar\|Roshar]]. He was bonded to  [[Vratim\|Vratim]] before their death.
 

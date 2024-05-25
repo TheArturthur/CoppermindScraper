@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Juramentada\|Juramentada]]*|
 
 >“*¡Ja! Cuando me marché, Don era bajito como Cikatriz. ¡Ahora está casi tan alto como yo!*”
 \-Lunamor[1]

@@ -9,7 +9,6 @@
 |**Nacionalidad**|[[Pahn Kahl\|Pahn Kahl]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Cumple tu parte del trato*”
 \-Vahr, pidiendo a Vasher que lo mate[1]

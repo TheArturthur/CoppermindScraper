@@ -5,7 +5,6 @@
 |**Hermanos**|[[Attica Smedry\|Attica]], [[Pattywagon Smedry\|Pattywagon]]|
 |**Capacidades**|[[Talento Smedry\|Talento Smedry]]|
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
-|**Primera aparición**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

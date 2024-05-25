@@ -10,7 +10,6 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*¿Qué importan unos botones lustrados cuando tienes sangre de niño en las botas?*”
 \- Vathah.[2]

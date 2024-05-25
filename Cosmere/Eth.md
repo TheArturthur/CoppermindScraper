@@ -9,7 +9,6 @@
 |**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Eth** es un miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]]. [[Mart\|Mart]] es su hermano.
 

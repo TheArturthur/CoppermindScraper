@@ -11,7 +11,6 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Tet Wikim Davar** es un [[Ojos claros\|ojos claros]] [[Veden\|Veden]] de [[Roshar\|Roshar]], hijo de la [[Madre de Shallan\|brillante Davar]] y [[Lin Davar\|Lin Davar]].
 Sus hermanos son [[Helaran\|Helaran]], [[Balat\|Balat]], su mellizo [[Jushu\|Jushu]] y [[Shallan\|Shallan]].

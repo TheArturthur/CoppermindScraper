@@ -10,7 +10,6 @@
 |**Oficio**|Presidente de una empresa, [[L%C3%ADder de la Asamblea Nacional\|LAN]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
-|**Primera aparición**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, y *[[Perpetua\|Perpetua]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

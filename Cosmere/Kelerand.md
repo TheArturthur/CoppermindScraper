@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Kelerand** es un [[Fervoroso\|fervoroso]] y maestro espadachín de los [[Casa Kholin\|Kholin]] en [[Urithiru\|Urithiru]]. Es incluso mejor con la espada que [[Dalinar Kholin\|Dalinar Kholin]], superando al alto príncipe en dos de tres duelos.
 

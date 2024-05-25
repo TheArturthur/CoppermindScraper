@@ -8,7 +8,6 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Primera aparición**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Hauka** es una capitana de la guardia de [[Azir\|Azir]] en [[Roshar\|Roshar]]. Vive en la ciudad de [[Yeddaw\|Yeddaw]], en [[Tashikk\|Tashikk]], y supervisa la inmigración en la ciudad. Interactúa con [[Lift\|Lift]] y [[Nale\|Nale]] cuando llegan a Yeddaw.
 
