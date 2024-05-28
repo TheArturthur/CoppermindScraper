@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 **Lady Gardre** es una miembro del Senado de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]]. Servía en el Consejo del Gobernador. [[Steris Harms\|Steris Harms]] sospecha que ella es una espía del [[El Grupo\|Grupo]].
 

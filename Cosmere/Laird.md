@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 El prelado **Laird** era un [[Obligador\|obligador]] del [[/wiki/Ministerio del Acero#Cant.C3.B3n de las Finanzas]] en [[Scadrial\|Scadrial]] durante los tiempos del [[Imperio Final\|Imperio Final]].
 

@@ -12,12 +12,13 @@
 |**Nacido en**|1154|
 |**Capacidades**|[[Orden de los Vigilantes de la Verdad\|Vigilante de la Verdad]], [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciador del Vacío]], [[Portador de esquirlada\|Portador de esquirlada]]|
 |**Vinculado con**|[[Glys\|Glys]]|
-|**Títulos**|Hijo de Espinas|
+|**Títulos**|Príncipe de la [[Casa Kholin\|Casa Kholin]], Hijo de Espinas|
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin|
 |**Residencia**|[[Kholinar\|Kholinar]]🐱︎ , [[/wiki/Las Llanuras Quebradas#Campamentos de guerra]]🐱︎ , [[Urithiru\|Urithiru]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*No soy el primer hijo de héroe que nace sin ningún talento para la guerra. Los demás lo llevaron bien. Yo también lo haré.*”
 \-Renarin Kholin[4]
@@ -80,13 +81,13 @@ Renarin se encuentra en el , lo que se refleja en los comportamientos antes menc
 A pesar de su personalidad apagada, Renarin tiene valor y quiere ser útil, incluso en situaciones en las que no tiene experiencia o no se ha formado mucho. Renarin valora la vida de su familia por encima de la suya propia, y está dispuesto a ponerse en gran peligro si eso puede ayudar a la gente que quiere.
 Renarin tiene una vena inquisitiva, especialmente en lo que respecta a los [[Fabrial\|fabriales]]. A menudo inspecciona los fabriales a su alrededor y hace preguntas sobre sus funciones. A pesar de esto, no está interesado en unirse al [[Vorinismo\|fervor]] para convertirse en [[Artifabriano\|ingeniero]]. Le gusta estar informado sobre temas específicos, y hablará de ellos si se le pregunta. Está bien versado en los diferentes [[Roshar\|vinos]] de Roshar. Su deseo de instruirse y profundizar en sus pasiones le lleva incluso a aprender a leer y escribir, a pesar de lo que la sociedad dice sobre los hombres y la alfabetización. Esto demuestra que, aunque se siente herido por el ostracismo social por ser diferente, está dispuesto a abandonar los roles tradicionales de género por el bien de sus pasiones.
 Tiende a sentirse profundamente afectado por las burlas de los demás, pero debido a su naturaleza no conflictiva le resulta difícil defenderse. Esto puede verse en las burlas a las que se enfrenta por no ser tradicionalmente masculino (según los ideales vorin), debido a sus pasiones "femeninas", como los fabriales y la alfabetización. Odia su naturaleza de Vigilante de la Verdad iluminado, y desearía ser como los demás Radiantes. Mantiene sus verdaderas habilidades en secreto porque cree que, debido al prejuicio cultural contra la visión del futuro, estaría marginado y se desconfiaría de él si la gente supiera lo que es capaz de hacer. Esto demuestra que le preocupa mucho la opinión que los demás tienen de él, y siente que no puede ser realmente él mismo sin enfrentarse al ostracismo de la sociedad. Esto se manifiesta como un malestar general y una ansiedad en la sociedad que le persigue, y es lo que le llevó a desarrollar una relación tan estrecha con el Puente Cuatro y a sentirse tan seguro como se siente con ellos, ya que es uno de los únicos lugares en los que siente que puede ser él mismo. Pero incluso entonces, le llevó mucho tiempo sentir que finalmente pertenecía a la tripulación, ya que al principio se sentía como si no fuera parte de ella por ser demasiado diferente al resto.
-Renarin es gay, aunque tiende a ocultarlo a los demás. Parece ofenderse y avergonzarse ante la perspectiva de tener relaciones sexuales con una mujer, y se apresura a tachar de mentiras las afirmaciones de Sagaz de que lo ha hecho.
+Renarin podría ser gay. Parece ofenderse y avergonzarse ante la perspectiva de tener relaciones sexuales con una mujer, y se apresura a tachar de mentiras las afirmaciones de Sagaz de que lo ha hecho.
 
 ## Atributos y habilidades
   Renarin usando la <<Iluminaci%C3%B3n\|iluminación>>
 ## Atributos y habilidades
 >“*No creo que sea un Radiante, Jasnah. No sé qué soy.*”
-\-Renarin[26]
+\-Renarin[28]
 
 
 Renarin padece una "debilidad sanguínea" (epilepsia), que le impide participar en actividades de gran esfuerzo físico, incluido el combate. La debilidad le afecta en episodios, durante los cuales se pone pálido y sus miembros se debilitan, hasta el punto de temblar o de poder derrumbarse. Kaladin cree que son síntomas de . Tras convertirse en Radiante, sus habilidades curan su epilepsia y ya no tiene ataques ordinarios. Sin embargo, su vínculo le hace tener otro tipo de ataques, las visiones del futuro, en su lugar.
@@ -97,7 +98,7 @@ Después de dar su [[Espada esquirlada\|espada esquirlada]] a [[Torol Sadeas\|To
   Renarin con <<Glys\|Glys>>
 ### Potenciación
 >“*Renarin no podia hacerlo. Solo podia invocar luces, que a veces hacían cosas extrañas, antinaturales…*”
-\-Navani sobre la Iluminación de Renarin[30]
+\-Navani sobre la Iluminación de Renarin[32]
 
 
 Renarin es un [[Potenciaci%C3%B3n\|potenciador]] y miembro de los [[Caballeros Radiantes\|Caballeros Radiantes]]. Afirma ser un [[Vigilante de la Verdad\|Vigilante de la Verdad]], unido a un [[Brumaspren\|brumaspren]] corrupto llamado [[Glys\|Glys]], pero no es un verdadero miembro de la orden debido a la corrupción de su spren. Renarin se vinculó a Glys en algún momento antes del duelo final, en desventaja, de Adolin. Debido a la naturaleza corrupta de Glys, los juramentos de Renarin son diferentes a los habituales en los Vigilantes de la Verdad.
@@ -110,7 +111,7 @@ Es capaz de utilizar una potencia de luz tormentosa para desterrar la fuerza vit
   Renarin viendo el futuro
 #### Visión del futuro
 >“*¿Qué me pasa? ¿Por qué veo estas cosas? Creía que estaba hacienda algo bien, con Glys, pero no sé por qué, todo está mal…*”
-\-Renarin a Jasnah[42]
+\-Renarin a Jasnah[44]
 
 
 El más notable de estos poderes especiales es su capacidad de visualizar el futuro. Esta habilidad es la que le hace escribir mensajes en [[Glifo\|glifos]] y números con la cuenta atrás para la llegada de la [[Tormenta eterna\|tormenta eterna]]. Debido a que está viendo el futuro, una acción explícitamente prohibida por la iglesia vorin por los lazos con los Portadores del Vacío, Renarin se cree inicialmente maldito por el Todopoderoso.
@@ -145,13 +146,13 @@ Acompañó a Adolin a la cacería de [[Abismoide\|abismoides]] de [[Elhokar\|Elh
 Dalinar le preguntó a Sadeas si hablaba en serio. Le dijo a Sadeas que si realmente había llamado inútil a su hijo, se vería obligado a invocar su espada esquirlada y matarlo por el insulto. Dijo que eso rompería el Pacto de Venganza y que esperaba haber escuchado mal lo que Sadeas había dicho. Sadeas dudó y dijo que, efectivamente, Dalinar había escuchado mal lo que había dicho. Más tarde, esa misma noche, cuando Sagaz estaba insultando a Sadeas, Renarin sorprendió a Sagaz con una inteligente respuesta a una de sus burlas. Sagaz dijo que si Sadeas cedía a su tentación y lo mataba, Renarin podría ser el Sagaz del Rey en su lugar. Más tarde, Dalinar le dijo a Renarin que no debería haberse puesto en peligro ante el abismoide. Renarin intentó decirle que no era un soldado y que no podía luchar debido a su epilepsia, pero Dalinar malinterpretó lo que decía. Tranquilizó a Renarin, diciéndole que podía ser un guerrero incluso con su enfermedad. Le prometió que la próxima vez que ganara una armadura esquirlada y una espada esquirlada se las daría a Renarin. Le dijo a Renarin que la fuerza de la armadura sería suficiente para superar su debilidad.
 
 >“*Ves el pasado, padre. Eso no está prohibido. Y si el Todopoderoso las envía, ¿cómo pueden cuestionarlas los hombres?*”
-\-Renarin[52]
+\-Renarin[54]
 
 Renarin estuvo con Dalinar durante muchas de las visiones que experimentó durante las altas tormentas. Después de que Navani utilizara las visiones para traducir el [[Canto del alba\|Canto del alba]], quiso compartir las visiones con los otros eruditos, pero Dalinar dudó, diciendo que las visiones estaban demasiado cerca de ver el futuro, lo cual estaba prohibido. Renarin le dijo a Dalinar que eso no era un problema, ya que estaba viendo visiones del pasado y no del futuro.
 Durante la [[Batalla de la Torre\|Batalla de la Torre]], Sadeas traicionó a Dalinar, dejándolo a él y a sus hombres desamparados en la [[Torre (Roshar)\|Torre]], mientras él y su ejército regresaban al campamento ilesos. Renarin, en busca de noticias sobre el destino de su padre, siguió a Navani hasta el campamento de guerra de Sadeas, donde estaba interrogando al alto príncipe. Después de que Navani quemara su [[Glifo\|glifo]] de [[Glifos/%C3%8Dndice\|Thath]], Renarin le agradeció la oración. Cuando Dalinar y Adolin regresaron sanos y salvos, Renarin los abrazó, siendo la primera vez que Dalinar veía verdadera alegría en su interior desde hacía tiempo. Después de que Dalinar entregara su espada esquirlada, [[Juramentada (hoja esquirlada)\|Juramentada]], a Sadeas a cambio de [[Kaladin\|Kaladin]] y los [[Cuadrilla del puente\|hombres de los puentes]], Dalinar entregó su armadura a Renarin, cumpliendo la mitad de su promesa.
 
 >“*Te sorprenderá —replicó Zahel—. Le di la charla completa de «soy tu maestro y harás lo que yo te diga» y me escuchó. [...] Creí que un muchacho de diecinueve años como él sería insoportable.*”
-\-Zahel a Kaladin[58]
+\-Zahel a Kaladin[60]
 
 Poco después de recibir su armadura esquirlada, Renarin empezó a escribir números en la pared durante las altas tormentas, en una cuenta atrás para la llegada de la [[Tormenta eterna\|tormenta eterna]]. Esto se debía a las visiones del futuro que le concedía [[Glys\|Glys]], con quien se había unido un tiempo antes.
 Después de que Adolin derrotara a [[Salinor Eved\|Salinor Eved]] en un duelo, le dio su recién adquirida espada esquirlada a Renarin. Al día siguiente, [[Zahel\|Zahel]] empezó a formar a Renarin en el uso de sus esquirladas. Zahel quedó impresionado por la obediencia de Renarin y le hizo saltar repetidamente desde el tejado del campo de duelos con su armadura esquirlada para que confiara en la protección de la armadura.
@@ -164,12 +165,12 @@ Durante el duelo de Adolin con los cuatro portadores de esquirlada, Renarin, sin
 Cuando Kaladin fue liberado de la prisión, Renarin ya estaba totalmente integrado en el Puente Cuatro y empezó a aprender a llevar su puente con los primos de [[Lopen\|Lopen]] y los demás nuevos reclutas. Realizó su primer transporte completo del puente durante la expedición de Shallan para explorar las Llanuras.
 
 >“*Prince Renarin, ¿quieres ser tan amable de partirme esta roca?*”
-\-Shallan a Renarin[66]
+\-Shallan a Renarin[68]
 
 Renarin fue con Dalinar, Adolin, Shallan y el resto de los campamentos de guerra de Kholin, Sebarial, Roion y Aladar en la expedición al centro de las Llanuras Quebradas para buscar a [[Urithiru\|Urithiru]]. Durante la [[Batalla de Narak\|Batalla de Narak]], cuando Shallan determinó la ubicación de la [[Puerta Jurada\|Puerta Jurada]], Renarin reunió a un grupo de soldados y la escoltó a ella y a su grupo de eruditos hasta la meseta. Cuando Shallan localizó el edificio de control de la Puerta Jurada, Renarin, haciendo caso omiso de los gritos, utilizó su espada esquirlada para cortar una abertura hacia la cámara que había en su interior. Shallan intentó utilizar la espada esquirlada de Renarin para desbloquear el portal, pero como era un [[Ojomuerto\|ojomuerto]], no funcionó.
 
 >“*Ha venido —susurró Renarin—. Ha venido, ha venido, ha venido. Estamos muertos. Estamos muertos. Estamos muertos...*”
-\-Mantra de Renarin[43]
+\-Mantra de Renarin[45]
 
 Mientras Shallan y los eruditos trataban de averiguar cómo hacer funcionar la Puerta Jurada, Renarin se agachó en el suelo del edificio escribiendo ceros por todo el suelo mientras murmuraba repetidamente que había visto venir la tormenta eterna y que estaban condenados. Shallan le amenazó con amordazarle si no se callaba y él le hizo caso.
 Después de que Dalinar se uniera al [[Padre Tormenta\|Padre Tormenta]], se reunió con Kaladin y Shallan; una reunión de Radiantes. Renarin entró y se unió a ellos, revelando que él también era un Caballero Radiante. Les dijo que era un [[Vigilante de la Verdad\|Vigilante de la Verdad]] y que su habilidad consistía en ver la verdad de las cosas. Dalinar se dio cuenta de que esa era la razón por la que había dejado de llevar sus gafas, y que la razón por la que se congelaba cada vez que invocaba su espada esquirlada era por los gritos que oía.
@@ -179,7 +180,7 @@ Después de que Dalinar se uniera al [[Padre Tormenta\|Padre Tormenta]], se reun
 Después de que el cuerpo de Sadeas fuera encontrado tirado en los pasillos de Urithiru, cuando Dalinar estaba dando órdenes a sus generales y a los demás altos príncipes, les dijo a Renarin y a Shallan que entrenasen y dominasen sus poderes para que pudiesen ser líderes y maestros de los Radiantes venideros. Renarin se acercó a Adolin mientras estaba con el [[Ryshadio\|ryshadio]] de su padre, [[Galante\|Galante]], en uno de los establos de la torre. Renarin le dijo a Adolin que tenía que devolver la Espada esquirlada que le habían regalado, ya que los gritos la hacían inservible para él. Adolin protestó porque le dejaría indefenso y, tras algunas insinuaciones, Renarin invocó a Glys como Espada para mostrársela. Mientras hablaban, Renarin utilizó su potencia de [[Progresi%C3%B3n\|Progresión]] para curar la mano de Adolin.
 
 >“*Hay algo ahí abajo. Algo… Antiguo. Lo has sentido, ¿verdad? Este sitio es raro. Toda la torre es rara. Tú también te has dado cuenta, ¿verdad que sí?*”
-\-Renarin[72]
+\-Renarin[74]
 
 Cuando Shallan descubrió a [[Re-Shephir\|Re-Shephir]] en los niveles inferiores de la torre, Renarin acudió con Adolin y el resto del [[Puente Cuatro\|Puente Cuatro]] en su armadura esquirlada para ayudarla a luchar contra el [[Deshecho\|Deshecho]]. Fue él quien descubrió la negrura lenta del Deshecho, aunque fue [[Lyn\|Lyn]] quien lo anunció. Se sintió muy perturbado por la visión, y no respondió cuando Adolin trató de llevarlo de vuelta con el resto del grupo. Sólo cuando [[Teft\|Teft]] le llamó a la formación como su oficial superior, respondió y se movió. Durante la lucha, curó al Puente Cuatro cuando estaban heridos. Cubrió la espalda de Adolin cuando cargaron contra la sala con el pilar de gemas y se mantuvo firme mientras Shallan se enfrentaba a Re-Shephir.
 Después de que Kaladin regresara de su viaje por Alezkar, Renarin fue con los demás miembros del Puente Cuatro a las Llanuras Quebradas para formar una sesión de entrenamiento. Roca invitó a Renarin a ayudarle a hornear el pan para el resto del escuadrón. Mientras trabajaban juntos, discutieron el papel de Renarin en el Puente Cuatro ahora que la mayoría de los miembros se estaban convirtiendo en [[Escudero\|escuderos]] de [[Corredor del Viento\|Corredor del Viento]]. Más tarde, la caravana que transportaba a la familia de Roca estaba siendo atacada por los fusionados y los hombres de los puentes corrieron a defenderla. Renarin fue y trajo a Adolin y dos compañías de tropas al lugar. Aunque los soldados que trajo llegaron demasiado tarde para ayudar, la curación de Renarin salvó la vida de varios hombres.
@@ -206,7 +207,7 @@ Jasnah cogió la mano de Renarin y tiró de él a través de la ciudad en una lo
 Cuando Renarin vio que Adolin, que acababa de salir de la perpendicularidad, estaba herido, se apresuró a acercarse a él y curar sus heridas. Mientras Renarin se dirigía a la Puerta Jurada se vio frenado por la multitud de gente que atascaba las calles y Adolin fue a ayudarle. Cuando Renarin llegó al tronador, Adolin y [[Hrdalm\|Hrdalm]] habían empezado a luchar contra el monstruo. Renarin curó a su hermano y les dijo que podía ocuparse del tronador por sí mismo y que debían marcharse a un lugar más seguro. Cuando Renarin cargó contra la monstruosidad, ésta le golpeó con uno de sus puños, pero Renarin no se inmutó y se limitó a utilizar su espada esquirlada para cortarle la mano a la altura de la muñeca mientras su luz tormentosa sanaba su cuerpo. Renarin trabajó con Hrdalm para cortar las extremidades del tronador y luego, siguiendo las instrucciones de Glys, utilizó la luz tormentosa para expulsar la vida de su cuerpo. A continuación, Renarin ordenó a Hrdalm que fuera a ayudar en la lucha a otro lugar y fue a desbloquear la Puerta Jurada. Renarin se sorprendió por esta victoria, ya que sus visiones habían predicho que moriría mientras luchaba contra él.
 
 >“*Creo que ya he irradiado todo lo que tenía que irradiar hoy. Esto… Operaré la Puerta Jurada y traeré más tropas. Vosotros dos podríais ir abajo y ayudar en la muralla. ¿Quizá sacar heridos del frente?*”
-\-Renarin después de que el Puente Cuatro llegase a Ciudad Thaylen[40]
+\-Renarin después de que el Puente Cuatro llegase a Ciudad Thaylen[42]
 
 Al acercarse a la plataforma, vio que había doce fusionados revoloteando sobre ella, vigilando la Puerta Jurada. Un niño le indicó a Renarin que entrara en un pequeño edificio lateral, donde encontró a [[Teshav\|Teshav]] y a varios escribas. Le dijeron que había habido un ataque de los cantores a Urithiru y que no habían podido contactar con [[Malata\|Malata]] para que abriera el portal. Renarin salió entonces, invocó su espada esquirlada y continuó hacia la Puerta Jurada. Cuando se acercó a la rampa de acceso a la plataforma, los fusionados descendieron hacia él. Mientras cuatro de ellos le saludaban, Renarin tuvo una visión en la que predecía que [[Teft\|Teft]] se convertiría en Radiante y activaría la Puerta Jurada desde Urithiru. Sonrió a los fusionados que se encontraban en posición firme ante él, confundiéndolos, y momentos después, lo que había visto ocurrió. La Puerta Jurada explotó en luz y una división entera de tropas Kholin, liderada por Teft (que sostenía una brillante esquirlada), emergió de la Puerta.
 Al ver esto, los fusionados salieron volando y Renarin les dijo a Lopen y a los demás miembros del Puente Cuatro que no los persiguieran para alejarlos de la Puerta Jurada, sino que debían permanecer cerca de ella y protegerla de nuevos ataques. [[Lyn\|Lyn]] intentó pedirle órdenes, pero Renarin le dijo que él no estaba al mando, pero sugirió que ella y Roca podían ayudar con los heridos cerca de la muralla de la ciudad. Les dijo que ya había terminado de ser Radiante por ese día y que necesitaba un descanso de toda la acción. Antes de salir volando, Roca sorprendió a Renarin con un cálido abrazo, y Renarin le agradeció de nuevo su visita antes de sentarse a descansar. Después de la batalla, Renarin utilizó su luz tormentosa para curar a los heridos que más necesitaban su ayuda.
@@ -255,7 +256,7 @@ Renarin es muy amigable con [[Rlain\|Rlain]] y a menudo se desvía de su camino 
 
 
 >“*Chaval, el experto en cosas raras eres tú. Confiamos en tu criterio.*”
-\-Teft a Renarin[72]
+\-Teft a Renarin[74]
 
 
 ## Trivia

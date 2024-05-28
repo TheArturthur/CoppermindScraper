@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 El brillante señor **Lamaril** era un capitán en el ejército de Sadeas en las [[Llanuras Quebradas\|Llanuras Quebradas]], en [[Roshar\|Roshar]]. Supervisó a la [[Cuadrilla del puente\|cuadrilla del puente]] de [[Torol Sadeas\|Torol Sadeas]].
 

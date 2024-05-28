@@ -6,6 +6,7 @@
 |**Oficio**|[[Fervoroso\|Fervoroso]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Ladent** es un fervoroso del campamento de [[Dalinar\|Dalinar]].
 Es calvo pero lleva barba. Viste túnicas gruesas con mangas largas.

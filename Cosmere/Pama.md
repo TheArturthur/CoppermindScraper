@@ -1,13 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Pama**|
 |-|-|
-|**Grupo**|[[Sons of Honor\|Sons of Honor]]🐱︎|
+|**Grupo**|[[Hijos de Honor\|Hijos de Honor]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
-**Pama** is a carriage driver used by [[Amaram\|Amaram]] and a member of the [[Sons of Honor\|Sons of Honor]].
-She drives the carriage taking Amaram and [[Talenelat\|Talenelat]] away from the warcamps after the [[Battle of Narak\|Battle of Narak]]. Amaram writes a letter to [[Restares\|Restares]] about the return of the [[Voidbringer\|Voidbringers]], and the success of their organization. Amaram gives the letter to Pama to send via spanreed, which she would use when they stopped moving. She would later destroy the letter.
+**Pama** es una conductora de carruajes empleada por [[Amaram\|Amaram]] y miembro de los [[Hijos de Honor\|Hijos de Honor]].
+Conduce el carruaje que aleja a Amaram y [[Talenelat\|Talenelat]] de los campos de guerra tras la [[Batalla de Narak\|batalla de Narak]]. Amaram escribe una carta a [[Restares\|Restares]] sobre el regreso de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] y el éxito de su organización. Amaram le da la carta a Pama para que la envíe a través de la vinculacaña, que ella utilizaría cuando dejasen de moverse. Más tarde destruiría la carta.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 22:11, 22 June 2019 (MST)

@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Pedin**|
 |-|-|
-|**Fallecido**|[[Battle of Narak\|Battle of Narak]]|
-|**Grupo**|[[Bridge Four\|Bridge Four]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
+|**Fallecido**|[[Batalla de Narak\|Batalla de Narak]]|
+|**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Pedin** is a member of [[Bridge Four\|Bridge Four]].
-He and [[Mart\|Mart]] are killed by [[Szeth\|Szeth]] at the [[Battle of Narak\|Battle of Narak]].
-In 1174, as [[Kaladin\|Kaladin]] tries to get to the [[Battle of Thaylen Field\|Battle of Thaylen Field]] from [[Shadesmar\|Shadesmar]], Kaladin fights the [[Fused\|Fused]] and remembers Pedin, alongside [[Malop\|Malop]], [[Jaks\|Jaks]], [[Beld\|Beld]], [[Rod (Roshar)\|Rod]], [[Mart\|Mart]], [[Goshel\|Goshel]], [[Nalma\|Nalma]], [[Dallet\|Dallet]] and his squad, and [[Tien\|Tien]], in an attempt to say his next oath, but he fails to.
+**Pedin** es un miembro del [[Puente Cuatro\|Puente Cuatro]].
+Él y [[Mart\|Mart]] son asesinados por [[Szeth\|Szeth]] en la [[Batalla de Narak\|batalla de Narak]]..
+En 1174, mientras [[Kaladin\|Kaladin]] intenta llegar a la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] desde [[Shadesmar\|Shadesmar]], Kaladin lucha contra los [[Fusionado\|Fusionados]] y recuerda a Pedin, junto a [[Malop\|Malop]], [[Jaks\|Jaks]], [[Beld\|Beld]], [[Rod (Roshar)\|Rod]], [[Mart\|Mart]], [[Goshel\|Goshel]], [[Nalma\|Nalma]], [[Dallet\|Dallet]] y su escuadrón, y [[Tien\|Tien]], en un intento de decir su siguiente juramento, pero no lo consigue.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 23:42, 29 February 2020 (UTC)

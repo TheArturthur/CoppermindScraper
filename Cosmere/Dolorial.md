@@ -1,20 +1,23 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Dolorial**|
 |-|-|
 ||
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-A **painrial** is a type of [[Fabrial\|fabrial]] used to decrease and even eliminate the pain felt by someone while allowing them to maintain feeling, or alternatively to create and increase pain to excruciating levels. Navani's notebook appears to state the primary gemstone is a ruby.
+Un **dolorial** es un tipo de [[Fabrial\|fabrial]] utilizado para disminuir e incluso eliminar el dolor que siente alguien mientras le permite mantener la sensibilidad, o alternativamente para crear y aumentar el dolor hasta niveles insoportables. El cuaderno de Navani parece indicar que la gema principal es un rubí.
 
-## Diminishers
-The [[Artifabrian\|artifabrian]] [[Longshadow\|Longshadow]] designed a painrial that was quite large, about the size of a fist, and had a set of claw-like legs which were wrapped around the pained area and locked in place with a clip. That particular painrial was powered by a ruby and made of polished brass. [[Navani Kholin\|Navani Kholin]] later refined its design. She hoped to eventually to refine the design to be less bulky. Navani saw it being used by surgeons so they could operate without fear of causing pain to their patients. While it did not heal the wounds, Navani hoped that the painrial was a step in the right direction.
-Navani also integrated a painrial device into her vambrace timepieces which she made for herself and [[Dalinar\|Dalinar]]. They offered some light pain relief and also could act as a defense mechanism, by releasing shocks into someone rather than taking their pain away. This function seemed to be toggled between using a switch made of gems.
+## Atenuadores
+El [[Artifabriano\|artifabriano]] [[Largasombra\|Largasombra]] diseñó un dolorial bastante grande, del tamaño de un puño, y tenía unas patas en forma de garra que se enrollaban alrededor de la zona dolorida y se sujetaban con un gancho. Ese dolorial en particular funcionaba con un rubí y estaba hecho de latón pulido. Más tarde, [[Navani Kholin\|Navani Kholin]] perfeccionó su diseño. Con el tiempo, esperaba perfeccionar el diseño para que fuese menos voluminoso. Navani pensaba que los cirujanos podrían utilizarlo para operar sin miedo a causar dolor a sus pacientes. Aunque no curó las heridas, Navani esperaba que el dolorial fuese un paso en la dirección correcta.
+Navani también integró un dispositivo dolorial en su reloj avambrazo que fabricó para sí misma y para [[Dalinar\|Dalinar]]. Ofrecían un ligero alivio del dolor y también podían actuar como mecanismo de defensa, al liberar descargas en alguien en lugar de quitarle el dolor. Esta función parecía conmutarse mediante un interruptor hecho de gemas.
 
-## Augmenters
-Augmenter painrials are most notably utilized by Navani to act as an equalizing force in otherwise hopeless situations. The first such usage was to disable some of [[Amaram\|Amaram]]'s soldiers, who, possessed by the , would otherwise have killed her, [[Kmakl\|Kmakl]], and [[Fen\|Fen]]. The next such use was to incapacitate [[Raboniel\|Raboniel]] to give Navani the second she needed to stab her with a [[Raysium\|raysium]] knife. In both situations, however, they were uncontrollable and affected the user as well as the victim.
-Pain knives are a type of painrial that avoid such a drawback by utilizing a conventional weapon as well. Containing three retractable knives that can be set to four different lengths to vary the pain felt, they pierce an attacker's clothing, increasing the pain from the wounds to unimaginable levels. They have a removable cover for easy infusion of [[Stormlight\|Stormlight]].
+## Aumentadores
+Navani utiliza sobre todo los doloriales aumentadores para equilibrar situaciones que, de otro modo, serían desesperadas. El primero de estos usos fue inutilizar a algunos de los soldados de [[Amaram\|Amaram]], que, poseídos por [[La Emoci%C3%B3n\|la Emoción]], de otro modo la habrían matado a ella, a [[Kmakl\|Kmakl]] y a [[Fen\|Fen]]. El siguiente uso de este tipo fue incapacitar a [[Rabeniel\|Rabeniel]] para darle a Navani el segundo que necesitaba para apuñalarla con un cuchillo de [[Raysio\|raysio]]. En ambas situaciones, sin embargo, eran incontrolables y afectaban tanto al usuario como a la víctima.
+Los cuchillos doloriales son un tipo de dolorial que evitan ese inconveniente utilizando también un arma convencional. Contienen tres cuchillos retráctiles que pueden ajustarse a cuatro longitudes diferentes para variar el dolor que se siente, atraviesan la ropa del atacante y aumentan el dolor de las heridas hasta niveles inimaginables. Tienen una cubierta extraíble para facilitar la infusión de [[Luz tormentosa\|luz tormentosa]].
 
-## Notes
+## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|

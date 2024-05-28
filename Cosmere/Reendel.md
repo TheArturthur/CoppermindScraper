@@ -12,6 +12,7 @@
 |**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 El lestrell **Reendel** es un [[Maestro de la arena\|maestro de la arena]] en [[Taldain\|Taldain]].
 Reendel estuvo presente durante la Ceremonia de la Ascensión previa al ataque sorpresa de los [[Kerztiano\|kerztianos]], en la que fue ascendido al rango de lestrell. Es hijo del artesano [[Keshdel\|Keshdel]]. Se desconoce su supervivencia tras el ataque de los kerztianos.

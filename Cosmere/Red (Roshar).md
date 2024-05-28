@@ -9,6 +9,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 Para otros personajes con este nombre, ver [[Rojo\|Rojo]].
 **Rojo** es un [[Orden de los Tejedores de Luz\|Tejedor de Luz]] y un miembro de [[La Corte Inadvertida\|la Corte Inadvertida]] de [[Roshar\|Roshar]].

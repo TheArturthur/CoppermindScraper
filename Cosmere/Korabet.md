@@ -7,6 +7,7 @@
 |**Grupo**|Ejército de Amaram|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 El sargento **Korabet** era uno de los sargentos de [[Gare\|Gare]] en el ejército de [[Amaram\|Amaram]] en [[Roshar\|Roshar]].
 Él y [[Nalem\|Nalem]] acompañaban a menudo a Gare. Estaba presente cuando [[Kaladin\|Kaladin]] sobornó a Gare para que transfiriera a [[Cenn\|Cenn]] a su escuadrón.

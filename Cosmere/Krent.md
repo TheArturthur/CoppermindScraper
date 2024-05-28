@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Krent** es el cochero de la [[Casa Ladrian\|Casa Ladrian]] en [[Elendel\|Elendel]].
 Estuvo presente después de que [[Tillaume\|Tillaume]] causara una explosión en un intento de matar al gran señor [[Waxillium Ladrian\|Waxillium Ladrian]], [[Wayne\|Wayne]] y lady [[Marasi Colms\|Marasi Colms]]. Él se quedó afuera de la mansión Ladrian en estado de shock, con las manos en la cabeza, los ojos bien abiertos, mirando la mansión arder. Wax lo dejó allí, con la esperanza de que Krent descubriese a [[Limmi\|Limmi]] y a la señorita [[Grimes\|Grimes]] inconscientes en el jardín trasero.

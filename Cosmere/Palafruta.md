@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Palafruta**|
 |-|-|
-|**Tipo**|Fruit|
+|**Tipo**|Fruta|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Palafruit** are a type of fruit found on [[Roshar\|Roshar]].
-Palafruit have pits, which are occasionally thrown at bridgemen by soldiers from the  army. They can stain clothes.
-[[Adolin Kholin\|Adolin Kholin]] feeds [[Gallant\|Gallant]] a palafruit before departing on the expedition to [[Lasting Integrity\|Lasting Integrity]], and gives him another one later in the journey.
+La **palafruta** es un tipo de fruta que se encuentra en [[Roshar\|Roshar]].
+Tienen huesos, que de vez en cuando los soldados del ejército [[Alezi\|alezi]] lanzan a los hombres de los puentes. Pueden manchar la ropa.
+[[Adolin Kholin\|Adolin Kholin]] alimenta a [[Galante\|Galante]] con una palafruta antes de partir en la expedición a [[Integridad Duradera\|Integridad Duradera]], y le da otra más adelante en el viaje.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 07:40, 17 March 2022 (UTC)

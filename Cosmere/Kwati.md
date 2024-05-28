@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Marabezia\|de Marabezia]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Kwati** es un empleado corrupto del gobierno que vive en el [[Lagopuro\|Lagopuro]], en [[Roshar\|Roshar]].
 

@@ -7,6 +7,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Kwashim** es una chica de [[Terris\|Terris]] en [[Scadrial\|Scadrial]]. Era una adolescente estudiante en [[La Aldea\|la Aldea]] al mismo tiempo que [[Wax\|Wax]] y [[Telsin Ladrian\|Telsin Ladrian]].
 

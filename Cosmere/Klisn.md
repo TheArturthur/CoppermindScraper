@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 **Klisn** es un marinero de [[Thaylen\|Thaylen]] y miembro de la tripulación del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*.
 Es hábil con las cartas y se lleva bien con [[Lopen\|Lopen]], quien cree que tiene buen sentido del humor.

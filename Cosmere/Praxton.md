@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 El [[/wiki/Taishin#Lord mastrell]] **Praxton** es el líder de los [[Diem\|maestros de la arena]] de Lossand, en el Lado Diurno de Taldain.
 

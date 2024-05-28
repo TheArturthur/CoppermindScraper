@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Peones**|
 |-|-|
-|**Tipo**|Game|
+|**Tipo**|Juego|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Pawns** is a game played on [[Roshar\|Roshar]].
-[[Dalinar\|Dalinar]] once beat [[Tanalan\|Tanalan]] in a game of pawns, and the bet was settled with a hundred flakes of ruby each glowing and placed in a different bottle of wine.
+**Peones** es un juego de [[Roshar\|Roshar]].
+[[Dalinar\|Dalinar]] venció una vez a [[Tanalan\|Tanalan]] en una partida de peones, y la apuesta se saldó con cien brillantes trocitos de rubí, cada uno metido en una botella de vino diferente.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Joe ST (talk) 10:47, 26 December 2017 (MST)

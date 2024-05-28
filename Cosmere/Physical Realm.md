@@ -5,12 +5,10 @@
 |**Relacionado con**|[[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*  y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido estos libros.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-El **Reino Físico** es el reino de la existencia en el [[Cosmere\|Cosmere]] que contiene lo que se puede percibir con los sentidos físicos. De los tres [[Teor%C3%ADa Realm%C3%A1tica\|Reinos]] es el que más entendemos, y se comporta de una manera muy similar a nuestro universo.
-La mayoría de las [[/wiki/Cosmere#Bibliograf.C3.ADa del Cosmere]] hasta ahora han tenido lugar exclusivamente en el Reino Físico. Estas historias tienen lugar en planetas orbitando estrellas que son parte de un pequeño grupo dentro de una galaxia enana.
+El **Reino Físico** es el reino de la existencia en el [[Cosmere\|Cosmere]] que contiene lo que se puede percibir con los sentidos físicos. De los tres [[Teor%C3%ADa Realm%C3%A1tica\|Reinos]] es el que más entendemos.
+El Cosmere es un pequeño cúmulo de estrellas en una galaxia enana.
 Este artículo lista todos los cuerpos celestes que conocemos del Cosmere tal y como aparecen en el Reino Físico, incluyendo planetas, estrellas y lunas.
 
 ## Sumario

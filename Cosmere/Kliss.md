@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 >“* ¿Una chismosa tonta? Bueno, sí, lo soy. Es fascinante, las cosas de las que te enteras cuando te conocen como a la chismosa de la corte.*”
 \- Lady Kliss a Vin[1]

@@ -2,11 +2,11 @@
 |**Relu-na**|
 |-|-|
 ||
-|**Tipo**|Isla Grancaparazón|
-|**Racional**|Si|
-|**Nativo de**|[[Reshi Sea\|Reshi Sea]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
+|**Especie**|Grancaparazón|
+|**Residencia**|[[Mar Reshi\|Mar Reshi]]|
+|**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Relu-na** es una [[Tai-na\|Tai-na]] en el [[Mar Reshi\|Mar Reshi]] en [[Roshar\|Roshar]]. Una [[Grancaparaz%C3%B3n\|grancaparazón]] del tamaño de una isla, adorada como una diosa por sus habitantes.
 

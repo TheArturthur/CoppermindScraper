@@ -8,8 +8,9 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Korater** era un soldado del ejército de [[Amaram\|Amaram]], en [[Roshar\|Roshar]].
+**Korater** es un soldado del ejército de [[Amaram\|Amaram]], en [[Roshar\|Roshar]].
 Durante una escaramuza fronteriza en 1172, [[Kaladin\|Kaladin]] dijo a Korater y [[Cyn\|Cyn]] que escoltasen al herido [[Cenn\|Cenn]] hasta un médico, pero [[Helaran Davar\|Helaran Davar]] atacó al grupo con su [[Hoja esquirlada\|hoja esquirlada]]. Korater se unió entonces al [[Escuadr%C3%B3n de Kaladin\|escuadrón de Kaladin]] en un desacertado asalto a Helaran; no fue uno de los pocos supervivientes.
 
 ## Notas

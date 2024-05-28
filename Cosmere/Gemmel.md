@@ -33,18 +33,18 @@
 
 
 ## Apariencia y personalidad
-Gemmel es escuálido y tiene una barba gris raída y el pelo desordenado. Como la mayoría de los , lleva una [[Capa de brumas\|capa de brumas]] en sus escapadas nocturnas. 
+Gemmel es escuálido y tiene una barba gris raída y el pelo desordenado. Como la mayoría de los [[Nacido de la bruma\|nacidos de la bruma]], lleva una [[Capa de brumas\|capa de brumas]] en sus escapadas nocturnas. 
 El anciano no está completamente cuerdo, murmura para sí mismo y a veces parece más bestia que hombre. Gemmel cree que las sonrisas forzadas de [[Kelsier\|Kelsier]] parecen espeluznantes, y a menudo deja de hablar en medio de una discusión. Según Kelsier, Gemmel no entiende el humor, ni le gusta que su pupilo intente tomar el control.
 Es probable que sea un [[Skaa\|skaa]] mestizo.
 
 ## Atributos y habilidades
-Gemmel es un  con una habilidad decente que prefiere utilizar empujones de [[Acero\|acero]] y otros ataques físicos [[Alomancia\|alománticos]]. No le gusta tanto utilizar otros metales, como el [[Cinc\|cinc]] y el [[Lat%C3%B3n\|latón]].
+Gemmel es un [[Nacido de la bruma\|nacido de la bruma]] con una habilidad decente que prefiere utilizar empujones de [[Acero\|acero]] y otros ataques físicos [[Alomancia\|alománticos]]. No le gusta tanto utilizar otros metales, como el [[Cinc\|cinc]] y el [[Lat%C3%B3n\|latón]].
 
 ## Historia
 ### Fortaleza Shezler
 Sólo tres meses después de que [[Kelsier\|Kelsier]] escapara de los [[Pozos de Hathsin\|Pozos de Hathsin]], él y Gemmel visitan [[Mantiz\|Mantiz]] para infiltrarse en la [[Fortaleza Shezler\|fortaleza Shezler]]. En su camino hacia allí hablan un poco sobre el pasado de Kelsier, y todo el tiempo Gemmel sigue formando a su alumno, lo que incluye atacarlo.
 Al llegar a la fortaleza, Gemmel sube al tejado para tener una mejor vista, matando a algunos guardias por el camino. Cuando ha echado un buen vistazo a los alrededores y Kelsier le ha alcanzado, Gemmel lanza a su pupilo desde el tejado. Una vez abajo de nuevo, atraviesan los terrenos de la fortaleza hasta llegar a un edificio que parece un cobertizo para el mantenimiento de los terrenos, y Gemmel vuelve a matar a un par de guardias, sin importarle que esto pueda revelarlos a los dos. En el cobertizo, encuentran una escalera para bajar, y Gemmel le hace señas a Kelsier para que vaya primero.
-En el sótano, Kelsier comienza a moverse sigilosamente por la habitación, pero Gemmel entra sin ningún intento de pasar desapercibido. En la siguiente habitación, encuentran media docena de [[Skaa\|skaa]] atados y Kelsier comienza a atenderlos, pero es interrumpido cuando [[Antillius Shezler\|Antillius Shezler]], el [[Noble\|noble]] de la fortaleza y también un , grita y le dispara una moneda. Kelsier consigue matar a Shezler sin ayuda de Gemmel, que ve esto como una oportunidad de entrenamiento. Cuando Kelsier vuelve con los [[Skaa\|skaa]] cautivos, Gemmel está hojeando uno de los cuadernos de Shezler que contiene teorías y supersticiones sobre un [[Malatium\|Undécimo Metal]]. Kelsier coge este libro antes de marcharse, y Gemmel se embolsa un tenedor.
+En el sótano, Kelsier comienza a moverse sigilosamente por la habitación, pero Gemmel entra sin ningún intento de pasar desapercibido. En la siguiente habitación, encuentran media docena de [[Skaa\|skaa]] atados y Kelsier comienza a atenderlos, pero es interrumpido cuando [[Antillius Shezler\|Antillius Shezler]], el [[Noble\|noble]] de la fortaleza y también un [[Nacido de la bruma\|nacido de la bruma]], grita y le dispara una moneda. Kelsier consigue matar a Shezler sin ayuda de Gemmel, que ve esto como una oportunidad de entrenamiento. Cuando Kelsier vuelve con los [[Skaa\|skaa]] cautivos, Gemmel está hojeando uno de los cuadernos de Shezler que contiene teorías y supersticiones sobre un [[Malatium\|Undécimo Metal]]. Kelsier coge este libro antes de marcharse, y Gemmel se embolsa un tenedor.
 
 ## Relaciones
 ### Kelsier

@@ -11,6 +11,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El archivo de las tormentas\|El archivo de las tormentas]]*|
 
 >“*Rabeniel no piensa como los demás Fusionados, Venli. Ella escucha una canción mucho más grandiosa. Una combada y retorcida, pero que pretende cantar sin la tradicional consideración por los planes de Odium.*”
 \-Dama Leshwi a Venli[2]

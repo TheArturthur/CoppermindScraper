@@ -1,5 +1,14 @@
-|introduced=[[El camino de los reyes\|El camino de los reyes]]
-}}
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
+|**Kalami**|
+|-|-|
+|**Familia**|
+|**Cónyuge**|[[Teleb\|Teleb]]|
+|**Oficio**|Historiador|
+|**Mundo natal**|[[Roshar\|Roshar]]|
+|**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
 
 >“*Los hombres tienen unos sueños terribles, llenos de premoniciones, y sus Pasiones temerosas crean augurios.*”
 \-Kstled[1]

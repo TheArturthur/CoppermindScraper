@@ -6,6 +6,7 @@
 |**Oficio**|Cuatrero|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|
 
 **Lamento Winebare** es un ladrón de caballos en los [[Bosques del infierno\|bosques del infierno]] de [[Treno\|Treno]].
 

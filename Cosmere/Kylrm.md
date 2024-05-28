@@ -6,6 +6,7 @@
 |**Oficio**|Guardia|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Kylrm** es un guardia en [[Roshar\|Roshar]].
 Es el jefe de la guardia del convoy mercante de [[Vstim\|Vstim]].

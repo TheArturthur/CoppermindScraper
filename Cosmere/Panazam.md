@@ -1,19 +1,22 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Panazam**|
 |-|-|
 |**Nación**|[[Babazarnam\|Babazarnam]]🐱︎|
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Panatham** is a city in [[Babatharnam\|Babatharnam]] on [[Roshar\|Roshar]].
+**Panazam** es una ciudad en [[Babazarnam\|Babazarnam]], en [[Roshar\|Roshar]].
 
-## Geography
-Panatham lies in central Babatharnam, west of the [[Purelake\|Purelake]]. It is presumably the nation's largest city during the [[Era of Solitude\|Era of Solitude]] and it may be the capital, as it is the only city labeled on available maps.
-The city contains one of the ten [[Oathgate\|Oathgates]] that are linked to [[Urithiru\|Urithiru]]. The Oathgates are known to be ancient, implying that a city has existed in Panatham's location since at least the [[Heraldic Epochs\|Heraldic Epochs]].
+## Geografía
+Panatham se encuentra en el centro de Babazarnam, al oeste de [[Lagopuro\|Lagopuro]]. Es presumiblemente la ciudad más grande de la nación durante la [[Era de la Soledad\|Era de la Soledad]] y puede que sea la capital, ya que es la única ciudad etiquetada en los mapas disponibles.
+La ciudad contiene una de las diez [[Puertas Juradas\|Puertas Juradas]] vinculadas a [[Urithiru\|Urithiru]]. Las Puertas Juradas son conocidas por su antigüedad, lo que implica que ha existido una ciudad en la ubicación de Panazam desde al menos las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]].
 
-## History
-Prior to the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Dalinar Kholin\|Dalinar Kholin]] discussed potential places that the [[Voidbringer\|Voidbringers]] could attack, as well as locations of strategic interest. He suspected that the [[Iri\|Iriali]] and [[Rira (country)\|Riran]] armies—who allied with the Voidbringers—may have captured Panatham and its Oathgate.
+## Historia
+Antes de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], [[Dalinar Kholin\|Dalinar Kholin]] discutió los posibles lugares que los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] podrían atacar, así como los lugares de interés estratégico. Sospechaba que los ejércitos [[Iri\|iriali]] y de [[Rira (pa%C3%ADs)\|Rira]] (que se aliaron con los Portadores del Vacío) pueden haber capturado Panazam y su Puerta Jurada.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 22:39, 5 March 2019 (MST)

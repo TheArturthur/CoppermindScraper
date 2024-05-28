@@ -19,28 +19,40 @@
 \-Laral[1]
 
 
-**Alezkar** es un país al este de [[Roshar\|Roshar]]. Limita con [[Jah Keved\|Jah Keved]] al oeste, con las [[Colinas Irreclamadas\|Colinas Irreclamadas]] al este y con las [[Tierras Heladas\|Tierras Heladas]] al sur. Alezkar es el país más grande de Roshar y la más grande y prominente de las cinco naciones [[Vorinismo\|vorin]], con una población de cientos de miles de personas. La gente de este país es conocida como **alezi**, siendo sus regios colores el azul y el oro. En [[Azir\|Azir]] son conocidos como los **tagarut**.
-El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que significa Tierra del Segundo Avance. Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alezi se encontraban involucrados en la [[Guerra de la Venganza\|Guerra de la Venganza]] contra los [[Oyente\|oyentes]]. Para el año 1175 del calendario vorin, la mayor parte de su territorio está bajo el control de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
+**Alezkar** es un país al este de [[Roshar\|Roshar]]. Limita con [[Jah Keved\|Jah Keved]] al oeste, con las [[Colinas Irreclamadas\|Colinas Irreclamadas]] al este y con las [[Tierras Heladas\|Tierras Heladas]] al sur. Alezkar es el país más grande de Roshar y la más grande y prominente de las cinco naciones [[Vorinismo\|vorin]], con una población de cientos de miles de personas. La gente de este país es conocida como **alezi**, siendo sus regios colores el azul y el oro. Los alezi son mundialmente conocidos por su militarismo y su naturaleza bélica.
+Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alezi se encontraban involucrados en la [[Guerra de la Venganza\|Guerra de la Venganza]] contra los [[Oyente\|oyentes]]. Para el año 1175 del calendario vorin, la mayor parte de su territorio está bajo el control de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
 
 ## Sumario
 
 1 Etimología. [[#Etimolog.C3.ADa]] 
 2 Geografía. [[#Geograf.C3.ADa]] 
 
-2. [[#Fronteras y Territorios]] 
-2. [[#Interior]] 
+2. [[#Territorios y caracter.C3.ADsticas]] 
+
+2. [[#Territorios]] 
+
+
+2. [[#Caracter.C3.ADsticas geogr.C3.A1ficas]] 
 2. [[#Clima]] 
-2. [[#Ciudades notables]] 
+2. [[#Ecology]] 
+
+2. [[#Flora]] 
+2. [[#Fauna]] 
+
+
+2. [[#Ciudades destacables]] 
 
 
 3 Historia. [[#Historia]] 
 
+3. [[#Creaci.C3.B3n]] 
 3. [[#Anterior a la llegada de los humanos]] 
 3. [[#Los Reinos Plateados]] 
 
 3. [[#El reinado de Nohadon]] 
+3. [[#Otras Desolaciones]] 
 3. [[#La .C3.9Altima Desolaci.C3.B3n]] 
-3. [[#Tras el Aharietiam]] 
+3. [[#Tras Aharietiam]] 
 
 
 3. [[#La Hierocracia y Sadees el Hacedor de Soles .28.3F.3F.3F - c.673.29]] 
@@ -56,7 +68,7 @@ El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que sign
 3. [[#Conquista de Rathalas .281141.29]] 
 3. [[#Conquista del territorio de Kalanor .281145.29]] 
 3. [[#Conflictos fronterizos entre Alezkar y Herdaz .281150 - 1154.29]] 
-3. [[#Conquista de Akak .281155.29]] 
+3. [[#Conquista de la isla reshi Akak .281155.29]] 
 3. [[#Conflictos fronterizos entre Alezkar y los veden .281155 - .3F.3F.3F.29]] 
 3. [[#Quema de Rathalas .281163.29]] 
 
@@ -90,7 +102,7 @@ El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que sign
 
 4. [[#Habitantes]] 
 4. [[#M.C3.BAsica]] 
-4. [[#Ropa]] 
+4. [[#Moda]] 
 
 4. [[#Moda masculina]] 
 4. [[#Moda femenina]] 
@@ -99,6 +111,11 @@ El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que sign
 4. [[#Gastronom.C3.ADa]] 
 
 4. [[#Alcohol]] 
+4. [[#Curry]] 
+4. [[#Dairy Products]] 
+4. [[#Grain and Tubers]] 
+4. [[#Meat]] 
+4. [[#Seasoning and Sauces]] 
 
 
 4. [[#Arquitectura]] 
@@ -119,6 +136,13 @@ El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que sign
 
 4. [[#Sexo y sexualidad]] 
 4. [[#Roles de g.C3.A9nero]] 
+4. [[#Juegos.2C deportes y entretenimiento]] 
+
+4. [[#Festivals]] 
+4. [[#Games]] 
+4. [[#Sports]] 
+
+
 
 
 5 Política. [[#Pol.C3.ADtica]] 
@@ -147,6 +171,7 @@ El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que sign
 5. [[#Principados conocidos]] 
 
 
+5. [[#Leyes y c.C3.B3digos]] 
 5. [[#Gobierno en el exilio]] 
 5. [[#Pol.C3.ADtica exterior y relaciones internacionales]] 
 
@@ -189,54 +214,75 @@ El nombre que los [[Cantor\|cantores]] le dan a Alezkar es **Avendla**, que sign
 
 
 ## Etimología
-El significado del nombre de *Alezkar* es incierto, aunque proviene de *Alezela*, de los Reinos Plateados, que más tarde se convirtió en la actual Alezkar.
+El significado del nombre de *Alezkar* es incierto, aunque proviene de *Alezela*, de los Reinos Plateados, que más tarde se convirtió en la actual Alezkar. El gentilicio «alezi» proviene de Alezkar.
+Los alezi reciben el nombre de *tagarut* por parte de los [[/wiki/Azir#azishianos]], término que significa "Breakers" in Azish. This refers to their destructive nature during their invasions of Azir. Los cantores se refieren a Alezkar como *Avendla*, que en [[Cantor\|cantor]] antiguo quiere decir *Tierra del Segundo Avance*.
 
 ## Geografía
   Mapa de Alezkar. Los territorios alezi (salvo las <<Llanuras Quebradas\|Llanuras Quebradas>>) están marcados de forma más oscura.
-### Fronteras y Territorios
+### Territorios y características
+#### Territorios
 Alezkar se encuentra en el este de [[Roshar\|Roshar]], extendiéndose por el continente desde el [[Oc%C3%A9ano de las Aguas Hirvientes\|Océano de las Aguas Hirvientes]] en el norte hasta el [[Mar de Tarat\|Mar de Tarat]] en el sudoeste. Hacia el este la frontera se curva ante las [[Colinas Irreclamadas\|Colinas Irreclamadas]], mientras que por el sur alcanza zonas no pertenecientes a nación alguna. Estas son conocidas como las [[Tierras Heladas\|Tierras Heladas]] y las [[Llanuras Quebradas\|Llanuras Quebradas]], habiendo sido esta última zona recientemente proclamada territorio del país. En el oeste, Alezkar cuenta con una larga frontera (en disputa desde hace mucho) con [[Jah Keved\|Jah Keved]], que actualmente sigue dos ríos y se curva hacia los [[Montes del Hacedor de Soles\|Montes del Hacedor de Soles]]. En el noroeste la frontera da con [[Herdaz\|Herdaz]] en un pedazo de terreno que se obtuvo tras varios años de conflictos fronterizos.
-Tiene un área de unos 7.134.000 km.
+Al final de la [[Era de la Soledad\|Era de la Soledad]], Alezkar es el estado más grande en Roshar, cubriendo un área de unos 7.134.000 km.
 Además del territorio principal, los Alezi tienen una serie de territorios en ultramar. En el [[Oc%C3%A9ano de las Aguas Hirvientes\|Océano de las Aguas Hirvientes]], Alezkar tiene [[Akak\|Akak]] y otras islas, lo que le otorga un control completo de la [[Bah%C3%ADa de Elibath\|Bahía de Elibath]]. En el [[Mar de Tarat\|Mar de Tarat]] (en concreto, una región llamada [[Bah%C3%ADa de Mevan\|Bahía de Mevan]]) domina también una serie de pequeñas islas en el delta del [[R%C3%ADo Curva de la Muerte\|Río Curva de la Muerte]], cerca de [[Karanak\|Karanak]].
 
-### Interior
-Al final de la [[Era de la Soledad\|Era de la Soledad]], Alezkar es el estado más grande en Roshar, cubriendo cerca de siete millones de kilómetros cuadrados de territorio. Pese al hecho de que está mucho más expuesto a las [[Alta tormenta\|altas tormentas]] que cualquier otro país más al oeste, cuenta con grandes franjas llenas de animales y de frondosa vegetación. Tiene multitud de ríos que lo atraviesan, siendo los dos mayores el [[R%C3%ADo Corredor del Viento\|Corredor del Viento]] y el [[R%C3%ADo Curva de la Muerte\|Curva de la Muerte]]. El río Corredor del Viento pasa de este a oeste, desde las Montañas Irreclamadas hasta la Bahía de Elibath, y posee multitud de afluentes a lo largo de la mitad norte del país. El río Curva de la Muerte también nace en las Montañas Irreclamadas, salvo que en su caso circula hacia el sur, donde va a desembocar a la Bahía de Mevan, siendo uno de sus mayores afluentes un lago llamado [[Mar de las Lanzas\|Mar de las Lanzas]]. El norte y sur de Alezkar están divididos por un macizo rocoso en forma de cruz llamado los [[Montes del Hacedor de Soles\|Montes del Hacedor de Soles]].
+### Características geográficas
+Tiene multitud de ríos que lo atraviesan, siendo los dos mayores el [[R%C3%ADo Corredor del Viento\|Corredor del Viento]] y el [[R%C3%ADo Curva de la Muerte\|Curva de la Muerte]]. El río Corredor del Viento pasa de este a oeste, desde las Colinas Irreclamadas hasta la Bahía de Elibath, y posee multitud de afluentes a lo largo de la mitad norte del país. El río Curva de la Muerte también nace en las Montañas Irreclamadas, salvo que en su caso circula hacia el sur, donde va a desembocar a la Bahía de Mevan, siendo uno de sus mayores afluentes un lago llamado [[Mar de las Lanzas\|Mar de las Lanzas]]. El norte y sur de Alezkar están divididos por un macizo rocoso en forma de cruz llamado los [[Montes del Hacedor de Soles\|Montes del Hacedor de Soles]].
 
 ### Clima
 Debido a lo muy al este que se encuentra, Alezkar sufre altas tormentas particularmente fuertes. Esto obliga a que sus asentamientos sean construidos primordialmente en el lado a sotavento de los laits, que, debido a la protección que otorgan frente al viento de las altas tormentas, también cuentan con una vegetación más frondosa.
+Like the rest of Roshar, Alethkar does not experience true seasons, with them instead being defined by current temperature, climate, and storms, unrelated to irradiance. The Alethi utilise stormwardens to predict the coming of seasons.
 
-### Ciudades notables
+### Ecology
+#### Flora
+Despite the fact that Alethkar is far more exposed to the [[Highstorm\|highstorms]] than any country further West, large swathes of it are lush with animals and vegetation. The flora one finds depends heavily on the region of Alethkar. In the northwest, common flora includes thickets of [[Snarlbrush\|snarlbrush]], stout [[Markel\|markel]] trees and  trees. Some forests are made up of purely [[Vivim\|vivim]] trees, which bind their branches together to ensure that the forest is almost impenetrable. In some areas of Alethkar rockbuds can grow nearly to the size of a barrel, with vines as thick as a human wrist; Alethkar also contains many fragile types of flora, such as vines and weeds, these species usually only grow in laits.
+The Alethi also cultivate many plants. Foremost among these plants, a staple in the diet of any Alethi, is [[Lavis\|Lavis]]. There are many different strains of Lavis, some are capable of withstanding even the strongest highstorms while others are extremely nutritious. They also cultivate [[Tallew\|Tallew]], among many other types rockbuds, and tubers. The Alethi also grow a wide variety of fruits, typically in large orchards. Some species of trees are cultivated to be much taller and leafier than usual in order to provide more shade. A large number of grown plants are for their purposes then eating, such as clothing, medicine and more.
+
+#### Fauna
+Alethkar also has a large variety of fauna. Large wild Fauna includes [[Whitespine\|Whitespines]], [[Chull\|Chulls]], [[Axehound\|axehounds]] and more. Alethkar is also home to multiple herds of [[Ryshadium\|Ryshadium]], which live mostly in the eastern part of the country. [[Diggerworm\|Diggerworms]] are also common in Alethkar, and much work goes into protecting crops from them. Another common species found across Alethkar is the [[Lurg\|lurg]], a small amphibian. Alethkar isn’t home to any [[Sarpenthyn\|sarpenthyn]], but [[Skyeel\|skyeels]] are common near the coast.
+The Alethi have also domesticated a wide range of animals. While most of them live as farmers, occasionally keeping animals alongside their plants, some Alethi also live as herdsmen. Domesticated fauna includes [[Lobberbeast\|Lobberbeasts]], a large grazing animal, , which are kept for their milk, , which are usually kept for their [[Gemheart\|gemhearts]], and chulls, which are used as beasts of burden. The Alethi also keep hogs, which originally came from [[Ashyn\|Ashyn]], for their meat and leather. Besides these large pastoral animals the Alethi also keep a number of animals as pets, such as [[Axehound\|axehounds]], some birds, and mink.{{book ref|sa1|45}
+
+### Ciudades destacables
 Para un listado más completo, ver [[/wiki/Alezkar#Principados conocidos]].
 [[Kholinar\|Kholinar]] - El hogar de la [[Casa Kholin\|Casa Kholin]] y la capital nacional tras la unificación de Alezkar. La [[Puerta Jurada\|Puerta Jurada]] de [[Alezela\|Alezela]] se encuentra aquí.
 [[Rathalas\|Rathalas]] - Ciudad en ruinas una vez conocida por haber sido construida en un gran cañón buscando seguridad. Fue incendiada por [[Dalinar Kholin\|Dalinar Kholin]] tras la rebelión del [[Alto pr%C3%ADncipe\|alto príncipe]] local, [[Tanalan\|Tanalan]].
 [[Revolar\|Revolar]] - Es una de las ciudades más grandes en el principado de [[Vamah\|Vamah]]. Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] es tomada por los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] y usada como punto de encuentro para sus ejércitos.
-[[Piedralar\|Piedralar]] - Una ciudad grande en el [[Principado Sadeas\|principado de Sadeas]] y hogar de [[Kaladin Bendito por la Tormenta\|Kaladin Bendito por la Tormenta]].
 [[Dumadari\|Dumadari]] - Una gran ciudad en la frontera entre Alezkar y [[Jah Keved\|Jah Keved]].
+[[Karanak\|Karanak]] — a major city in the south of Alethkar, it is located near the delta of the [[Deathbend River\|Deathbend River]]. Karanak was a major part of the Alethi defense during the True Desolation.
 ## Historia
+### Creación
+The land that would become known as Alethkar was created at an unknown point before the [[Shattering\|Shattering]] by Adonalsium, along with the rest of Roshar and the Rosharan supercontinent over ten-thousand years prior to Vorin year 1174. It is unclear how much the geography of modern-day Alethkar has changed compared to the land at creation.
+
 ### Anterior a la llegada de los humanos
-Antes de que la humanidad llegara a Roshar desde Ashyn, la tierra que acabaría siendo conocida como Alezkar estaba habitada por [[Cantor\|cantores]]. Tras un periodo de tiempo desconocido (aunque menor que una vida) desde la llegada y asentamiento de los humanos en la actual Shinovar, estos lideraron una invasión, asesinando y expulsando a los cantores de su tierra y reclamándola como suya. Esta historia se perdió hasta el descubrimiento del [[Eila Stele\|Eila Stele]].
+Antes de que la humanidad llegara a Roshar desde Ashyn, la tierra que acabaría siendo conocida como Alezkar estaba habitada por [[Cantor\|cantores]].
+Circa -5825 in the Vorin calendar, humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shinovar\|Shinovar]]. Menos de una generación después, lideraron una invasión, asesinando y expulsando a los cantores de su tierra y reclamándola como suya; esto incluyó la tierra que acabaría siendo conocida como Alezkar. Esta historia se perdió hasta el descubrimiento del [[Eila Stele\|Eila Stele]].
 
 ### Los Reinos Plateados
   Mapa de los Reinos Plateados
 Para más información, ver [[Alezela\|Alezela]].
 Alezkar fue fundada como [[Alezela\|Alezela]] en la época de los [[Reinos Plateados\|Reinos Plateados]] y ocupada por los emigrantes de Ashyn que, al llegar a Roshar, se establecieron en Shinovar antes de expandirse por todo el planeta e ir conquistándolo. Eran una nación extremadamente militarista, que recordaba y estudiaba las artes de la guerra para ser capaces de transmitirlas de generación en generación y así hacer frente a las Desolaciones. Debido a esto, los Caballeros Radiantes vivían mayoritariamente en Alezela incluso aunque sus actividades tuvieran base en [[Urithiru\|Urithiru]]. Este militarismo sentó los cimientos del belicismo moderno alezi, así como su fuerza marcial.
 Su territorio durante esta época era mayor que su extensión actual, incluyendo las [[Colinas Irreclamadas\|Colinas Irreclamadas]] en el extremo oriental de Roshar.
-Debido a las Desolaciones, constantemente retrocedían a niveles tecnológicos primitivos, a veces incluso hasta el punto de volver al empleo de herramientas de piedra. Aun así, cada vez avanzaban de nuevo con la ayuda de los Heraldos cuando estos regresaban; en algunas ocasiones les daban impulso para llegar a la edad de bronce mientras que en otras [[Kalak\|Kalak]] y sus [[Escultores de Voluntad\|Escultores de Voluntad]] les ayudaban.
+Debido a las Desolaciones, constantemente retrocedían a niveles tecnológicos anteriores, a veces incluso hasta el punto de volver al empleo de herramientas de piedra. Aun así, cada vez avanzaban de nuevo con la ayuda de los Heraldos cuando estos regresaban; en algunas ocasiones les daban impulso para llegar a la edad de bronce mientras que en otras [[Kalak\|Kalak]] y sus [[Escultores de Voluntad\|Escultores de Voluntad]] les ayudaban.
 En los albores de su historia fue creada la Ciudad del Amanecer de [[Kholinar\|Kholinar]], la capital, que con el tiempo se convirtió también en el emplazamiento de la Puerta Jurada de Alezela. A pesar de su edad, aún sigue en pie en el año 1175, haciendo de ella una de las ciudades más antiguas de Roshar.
 Era el lugar en el que muchos querían que Urithiru fuera construida, posiblemente debido a que Alezkar era el hogar de los Caballeros Radiantes. Sin embargo y por motivos evidentes para muchos en la época, esto no pudo ser y en su lugar se construyó en las montañas cercanas a [[Makabakam\|Makabakam]].
 
 #### El reinado de Nohadon
-En momentos tempranos de su historia, el país fue gobernado por el rey [[Nohadon\|Nohadon]]. Durante una Desolación en el transcurso de su vida, la lucha se alargó más de once años y nueve de cada diez ciudades alezelanas fueron masacradas. [[Eiliz\|Eiliz]], [[Tarma\|Tarma]], y [[Sur\|Sur]], posiblemente subdivisiones de Alezela, cayeron en esta Desolación y ya no son recordadas en la memoria histórica moderna de 1173.
+En momentos tempranos de su historia previos al año 31 de la Sexta Época, el país fue gobernado por el rey [[Nohadon\|Nohadon]]. Durante una Desolación en el transcurso de su vida, la lucha se alargó más de once años y nueve de cada diez ciudades alezelanas fueron masacradas. [[Eiliz\|Eiliz]], [[Tarma\|Tarma]], y [[Sur\|Sur]], posiblemente subdivisiones de Alezela, cayeron en esta Desolación y ya no son recordadas en la memoria histórica moderna de 1173.
 Nohadon quiso abdicar debido a los trágicos eventos de esta Desolación. No obstante, conservó el trono e intentó reconstruir. Década a década, logró restaurar Alezela como un lugar lleno de vida y color. En algún momento entró en guerra con [[Makabakam\|Makabakam]] por unas rutas comerciales. Se desconocen las consecuencias que este conflicto tuvo en ambos reinos.
 Nohadon fue una figura muy influyente en los ideales que conforman el eje central de los Caballeros Radiantes.
+
+#### Otras Desolaciones
+The Sixth Epoch lasted at least thirty-one years, and likely significantly longer, before its Desolation arrived.
 Una de las muchas Desolaciones que asoló la nación, así como al resto de Roshar, llegó en el año 337 de la Octava Época. Esta Desolación fue anunciada por la liberación de la [[Esencia de Medianoche\|Esencia de Medianoche]] en un pequeño asentamiento de [[Natanatan\|Natanatan]]. Se desconoce la duración de esta Desolación.
+During some of the Desolations, the Fused managed to take the capital of Alethela, though were ultimately pushed out.
+Another Desolation occurred later and ended circa -3333, during an unknown Epoch. This left society wounded and weak, forcing them into a period of recovery.
 
 #### La Última Desolación
-La Última Desolación fue una Desolación a gran escala que ocurrió en torno a 4500 años antes de la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Esta Desolación fue particularmente destructiva debido a que sucedió tan sólo un año después de la anterior Desolación, con lo cual la sociedad seguía debilitada y en proceso de recuperación. Cansados de las Desolaciones y de las torturas, los nueve Heraldos que quedaban en Roshar se negaron a regresar a Braize, dejando a Taln como único Heraldo del planeta durante milenios.
+La Última Desolación fue una Desolación a gran escala que ocurrió en torno al -3332, unos 4500 años antes de la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Esta Desolación fue particularmente destructiva debido a que sucedió tan sólo un año después de la anterior Desolación, con lo cual la sociedad seguía debilitada y en proceso de recuperación. Cansados de las Desolaciones y de las torturas, los nueve Heraldos que quedaban en Roshar se negaron a regresar a Braize, dejando a Taln como único Heraldo del planeta durante milenios.
 Tras la Última Desolación, cesó el ciclo de Desolaciones. Esto dio a la sociedad una oportunidad de progresar mucho más que nunca antes, fortaleciéndola lo suficiente como para ser capaces, en teoría, de resistir una posible Desolación sin colapsar por completo. La era iniciada por la Última Desolación acabó siendo conocida como Era de la Soledad.
 
-#### Tras el Aharietiam
+#### Tras Aharietiam
 En algún punto anterior a la [[Hierocracia\|Hierocracia]], y posiblemente antes de la [[Traici%C3%B3n\|Traición]], los ancestros de los [[Vieja sangre\|vieja sangre]] actuaron como los monarcas de lo que llegaría a ser Alezkar. Se sabe poco de ellos, como que fueron una dinastía (de lo que se sobreentiende que reinaron durante mucho tiempo). Se desconoce cómo, cuándo o por qué, pero a la larga perdieron su autoridad (aunque serían recordados por sus descendientes durante muchas generaciones).
-En algún momento tras el Aharietiam, el reino se dividió en diversas naciones más pequeñas y no volvería a reunificarse hasta varios siglos después.
+En algún momento tras Aharietiam, el reino se dividió en diversas naciones más pequeñas y no volvería a reunificarse hasta varios siglos después.
 Se dice que invadieron [[Azir\|Azir]], que se encontraba bajo la [[Dinast%C3%ADa Ulutu\|dinastía Ulutu]], al menos en cinco ocasiones durante este periodo. Hubo leyendas que afirmaban que intentaron escalar las montañas para recolectar gemas y armas del mismísimo sol, que les aclaró los ojos y les derrotó con su majestuosidad. Esta historia es una mezcla complicada de verdad y leyenda que los historiadores se esfuerzan por desentrañar.
 
 ### La Hierocracia y Sadees el Hacedor de Soles (??? - c.673)
@@ -248,15 +294,14 @@ Además de controlar territorios alezelanos, se expandieron para convertirse en 
 
 #### La guerra de la Pérdida (c.673)
 Para más información, ver [[Guerra de la P%C3%A9rdida\|Guerra de la Pérdida]].
-La Hierocracia duró hasta que el [[Hacedor de Soles\|Hacedor de Soles]] lideró al reino en una victoriosa revuelta contra el gobierno [[Vorin\|vorin]] en torno al año 673, evento conocido como la [[Guerra de la P%C3%A9rdida\|guerra de la Pérdida]]. Tras esta exitosa reunificación de Alezela bajo el nombre de Alezkar, dirigió su ambición al resto de Roshar.
-Muchas ciudades fueron saqueadas y destruidas en esta guerra y en el caos posterior, siendo Kholinar una de las pocas ciudades orientales que sobrevivió.
+La Hierocracia duró hasta que el [[Hacedor de Soles\|Hacedor de Soles]] lideró al reino en una victoriosa revuelta contra el gobierno [[Vorin\|vorin]] en torno al año 673, evento conocido como la [[Guerra de la P%C3%A9rdida\|guerra de la Pérdida]]. Tras esta exitosa reunificación de Alezela bajo el nombre de Alezkar, dirigió su ambición al resto de Roshar. Muchas ciudades fueron saqueadas y destruidas en esta guerra y en el caos posterior, siendo Kholinar una de las pocas ciudades orientales que permaneció intacta.
 Tras derrocar a la Hierocracia, el vorinismo se escindió en varios devotarios, dejándolo increíblemente descentralizado. Asimismo, los fervorosos fueron despojados de su derecho a la propiedad y a ostentar cargos políticos, dejaron de tener permitido amasar fortunas y fueron reducidos a poco más que esclavos. No obstante, aún podían excomulgar a la gente sin tener que consultar a las autoridades políticas. Además, sus aseveraciones de que veían visiones del futuro fueron contundentemente desacreditadas, lo cual puso aún más en tela de juicio su autoridad como figuras religiosas incuestionables.
 Todo esto fue hecho por Sadees en un intento de prevenir una posible nueva Hierocracia en el futuro. La Hierocracia y su caída sirvieron para perfilar el vorinismo moderno.
 A pesar de su caída hace muchos siglos, muchos grupos durante la guerra de la Venganza y la Auténtica Desolación, tales como los [[Hijos de Honor\|Hijos de Honor]], aún abogan por la reinstauración de la Hierocracia.
 
 #### El reinado del Hacedor de Soles
-Su primera conquista, que resultó exitosa, fue el norte de la nación de [[Herdaz\|Herdaz]]. En algún momento tras la ocupación de Herdaz, marchó sobre [[Azir\|Azir]] y sobre el reinado del Aqasix Supremo [[Snoxil\|Snoxil]]. Logró conquistar la capital, la ciudad de [[Azimir\|Azimir]], afirmando hacerlo para «civilizarlos». Con un poderoso ejército apostado en el país, instituyó una política genocida contra sus gentes; se dice que uno de cada diez azishianos murieron bajo la tiranía de Sadees.
-Tras la muerte del Hacedor de Soles, sus diez hijos no fueron capaces de acordar quién de ellos se convertiría en su sucesor. Dado que ninguno quería renunciar a su derecho al trono, dividieron el reino en diez principados que gobernaron individualmente como [[Alto pr%C3%ADncipe\|altos príncipes]], sin una administración unitaria. Esta pérdida del gobierno central en el imperio llevó a que los azishianos recuperaran su independencia.
+Tras esta exitosa reunificación de Alezela bajo el nombre de Alezkar, dirigió su ambición al resto de Roshar. Su primera conquista, que resultó exitosa, fue el norte de la nación de [[Herdaz\|Herdaz]]. En algún momento tras la ocupación de Herdaz, marchó sobre [[Azir\|Azir]] y sobre el reinado del Aqasix Supremo [[Snoxil\|Snoxil]]. Logró conquistar la capital, la ciudad de [[Azimir\|Azimir]], afirmando hacerlo para «civilizarlos». Con un poderoso ejército apostado en el país, instituyó una política genocida contra sus gentes; se dice que uno de cada diez azishianos murieron bajo la tiranía de Sadees.
+Tras la muerte del Hacedor de Soles, sus diez hijos no fueron capaces de acordar quién de ellos se convertiría en su sucesor. Dado que ninguno quería renunciar a su derecho al trono, dividieron el reino en diez principados que gobernaron individualmente como [[Alto pr%C3%ADncipe\|altos príncipes]], sin una administración unitaria. Esta pérdida del gobierno central en el imperio llevó a que los territorios ocupados, tales como Azir y Herdaz, recuperaran su independencia.
 El legado de esta época perdura con los alezi ensalzando a Sadees como un gran conquistador y un héroe para su gente, mientras que desde otras partes del mundo se lo contempla como un tirano genocida, lo cual causa que otros líderes duden a la hora de confiar en Dalinar y los alezi. Sin embargo, las conquistas de Alezkar instauraron rutas comerciales a otras regiones, incluyendo Azir, Herdaz y Jah Keved; estas rutas persisten en la actualidad, lo que aporta una enorme riqueza a la nación.
 
 ### La guerra de Unificación Alezi (1140-1163)
@@ -264,7 +309,7 @@ El legado de esta época perdura con los alezi ensalzando a Sadees como un gran 
 Varios siglos después, aproximadamente en 1140, [[Gavilar Kholin\|Gavilar Kholin]] (inspirado por el Hacedor de Soles) quiso conquistar y unir a los altos príncipes, objetivo que logró en torno a 1145. Fue entonces coronado como rey y su hermano, [[Dalinar Kholin\|Dalinar Kholin]], se convirtió en alto príncipe del principado [[Casa Kholin\|Kholin]]. No obstante, debido a que el linaje de cada principado se remontaba al Hacedor de Soles y sus hijos, los altos príncipes eran muy reticentes a renunciar a su autonomía y poder en favor de un líder supremo. La integridad y unidad del reino de Gavilar es entonces cuestionable, como evidenciaba la ferocidad con la que los altos príncipes resistían su propuesta de unificación militar, y continuaron tensándose bajo su gobierno. La instancia más severa al respecto fue la rebelión en [[Rathalas\|Rathalas]], donde Gavilar tuvo que acabar enviando tropas comandadas por [[Dalinar\|Dalinar]] y [[Torol Sadeas\|Torol Sadeas]] en un intento de extinguir la revuelta, ya que las anteriores medidas diplomáticas habían fallado.
 
 #### Brillante señor Yezriar (1140)
-Una batalla destacable durante esta guerra fue la librada contra el brillante señor Yezriar.
+Una batalla destacable durante esta guerra fue la librada contra el brillante señor Yezriar en 1140; fue derrotado y su tierra integrada en la creciente y unificada Alezkar.
 
 #### Conquista de Rathalas (1141)
 Lideraron una cruzada contra Rathalas en 1141, la sede del brillante señor [[Padre de Tanalan\|Tanalan]]. Durante esta pelea, Dalinar mató a Tanalan, pero se llevaron su cadáver antes de que se manifestara su esquirlada. Por ello, Dalinar lo rastreó hasta dar con su familia, donde contempló al hijo del brillante señor reclamando la hoja esquirlada [[Juramentada (hoja esquirlada)\|Juramentada]] en un intento de proteger a sus familiares. Incapaz de matarlos, Dalinar se llevó la hoja y se fue.
@@ -280,24 +325,25 @@ Dalinar ofreció a Gavilar las esquirlas de Kalanor, y el territorio le fue dado
 Una violenta guerra entre Alezkar y Herdaz estalló a principios de 1150 y duró hasta 1154. Inicialmente se trataba de una demostración de fuerza alezi, así como una manera de garantizar la seguridad de la frontera y expandir el territorio del país. Dalinar Kholin fue un general importante en este conflicto.
 Este conflicto llevó a la muerte de muchos integrantes de ambos bandos y definió las fronteras modernas entre ambas naciones.
 
-#### Conquista de Akak (1155)
+#### Conquista de la isla reshi Akak (1155)
 En algún momento del 1155, Dalinar Kholin dirigió una campaña militar de la isla [[Reshi\|Reshi]] de [[Akak\|Akak]]. La conquista finalizó con éxito, ya que destruyó a los reshi de Akak y reclamó la isla para Alezkar.
 
 #### Conflictos fronterizos entre Alezkar y los veden (1155 - ???)
-En torno a 1155 estalló una guerra en la frontera entre Alezkar y Jah Keved. Dalinar también fue uno de los comandantes más importantes en este conflicto. Parte de lo que propició esta disputa fue el hecho de que Jah Keved se apropiara de territorios de Alezkar cerca del año 1143.
+En torno a 1155 estalló una guerra en la frontera entre Alezkar y [[Jah Keved\|Jah Keved]]. Dalinar Kholin también fue uno de los comandantes más importantes en este conflicto. Parte de lo que propició esta disputa fue el hecho de que Jah Keved se apropiara de territorios de Alezkar cerca del año 1143.
+One of the battles during this conflict happened at a place called Slickrock. [[Battle of Slickrock\|This battle]] saw the Vedens, commanded by  [[Nalanar\|Nalanar]], and the Alethi, commanded by Dalinar Kholin, fighting. This battle ended in an Alethi victory, although the Vedens almost defeated them during at least three points in the battle.
 
 #### Quema de Rathalas (1163)
   La quema de Rathalas
 En 1163, debido a la escalada de las hostilidades y las llamadas a la rebelión en Rathalas lideradas por el hijo del brillante señor Tanalan, también llamado [[Tanalan\|Tanalan]], Gavilar Kholin envió a su hermano Dalinar y a Torol Sadeas de vuelta a la Grieta para apaciguarlos. Dalinar intentó negociar pacíficamente, ofreciendo a Tanalan el puesto de alto príncipe si se rendía. Su oferta fue rechazada y su grupo, incluido él, fue afectado por un desprendimiento orquestado por Tanalan, el cual mató a muchos de sus hombres y dejó a Dalinar vivo pero herido.
 Enfurecido, Dalinar asesinó brutalmente a quienes les emboscaron y ordenó a sus tropas supervivientes (apostadas a las afueras de la Grieta) que rociaran la ciudad en aceite y la incendiaran con el objetivo de masacrar a sus habitantes y dejarla en ruinas. En pánico por las órdenes de su marido, Evi se infiltró en la ciudad en secreto y trató de negociar con Tanalan por su cuenta para evitar que el exterminio fuera llevado a cabo. Tanalan acabó aceptando y decidió enviar una petición de rendición.
-Cuando los mensajeros salieron ondeando la bandera de la rendición, Dalinar ordenó que los mataran y exigió que continuaran adelante con la quema de la ciudad sin ninguna deferencia. El ataque ocurrió de noche y se cobró las vidas de todos los habitantes a excepción de Tanalan y su familia, a quienes Dalinar mató sin dudar. No obstante, pronto se descubrió que Evi estaba en Rathalas durante el incendio y que sucumbió a este.
+Cuando los mensajeros salieron ondeando la bandera de la rendición, Dalinar ordenó que los mataran y exigió que continuaran adelante con la quema de la ciudad sin ninguna deferencia. El ataque ocurrió de noche y se cobró las vidas de todos los habitantes a excepción de Tanalan y su familia, a quienes Dalinar mató sin dudar. No obstante, Tanalan le reveló que su esposa Evi estaba en Rathalas durante el incendio y que había sucumbido a este.
 La culpa por haber matado a Evi, así como a miles de inocentes, pesó sobre la conciencia de Dalinar y lo acabó llevando a buscar a la Vigilante Nocturna, lo cual desencadenó su radical cambio como persona y como alto príncipe en su manera de gestionar la política.
 
 ### Escaramuzas de las tierras asoladas (???)
 Para más información, ver [[Escaramuzas de las tierras asoladas\|Escaramuzas de las tierras asoladas]].
-Se trata de una serie de escaramuzas en la sección norte de Alezkar ocurridas antes de 1166 pero algo después de la coronación de Gavilar en 1145. Las escaramuzas fueron contra grupos de atacantes [[Reshi\|reshi]] que pensaron que podrían aprovechar la inestabilidad de Alezkar tras la reciente coronación de [[Gavilar Kholin\|Gavilar Kholin]] para obtener ventaja. Se puede asumir con seguridad que el intento de repeler a los atacantes fue exitoso.
+Se trata de una serie de escaramuzas en los principados del norte de Alezkar ocurridas antes de 1166 pero algo después de la coronación de Gavilar en 1145. Las escaramuzas fueron contra grupos de atacantes [[Reshi\|reshi]] que pensaron que podrían aprovechar la inestabilidad de Alezkar tras la reciente coronación de [[Gavilar Kholin\|Gavilar Kholin]] para obtener ventaja. Se puede asumir con seguridad que el intento de repeler a los atacantes fue exitoso.
 Los soldados participantes en la batalla fueron llevados desde el principado de Sadeas y posiblemente desde más allá, incluyendo a varios ojos oscuros de [[Piedralar\|Piedralar]]. Las fuerzas reshi en particular no contaban con hojas esquirladas.
-Este conflicto no disuadió a los reshi de continuar con los asaltos fronterizos; de hecho, se sabe que siguen intentando reclamar tierras alezi en el año Kak 1173.
+Este conflicto no disuadió a los reshi de continuar con los asaltos fronterizos; de hecho, se sabe que siguen intentando asaltar territorios alezi en el año Kak 1173.
 
 ### Primeras interacciones con los parshendi (1166 - 1167)
 Gavilar conoció a los parshendi en Vev 1166 y al instante se quedó fascinado por ellos. Los exploradores parshendi que iniciaron el primer contacto estaban liderados por [[Eshonai\|Eshonai]], quien se convirtió en una figura muy importante en las relaciones entre su pueblo y los alezi.
@@ -324,8 +370,8 @@ Durante un ataque en la Torre liderado por Sadeas, el Puente Cuatro puso en prá
 Esto supuso un contundente golpe al ejército de Sadeas y se saldó con la ejecución del capitán [[Lamaril\|Lamaril]] por permitir que semejante desastre ocurriera. Kaladin también fue castigado por las acciones de su cuadrilla; fue colgado en el exterior a merced de la próxima alta tormenta y dado por muerto.
 
 #### La caída de Kholinar (1173)
-Ya muy avanzada la guerra de la Venganza, después de que [[Navani Kholin\|Navani Kholin]] dejara a [[Aesudan\|Aesudan]] al mando por su cuenta al considerarla capaz de gobernar sin su consejo, se infiltraron en Kholinar los Deshechos [[Ashertmarn\|Ashertmarn]], [[Sja-anat\|Sja-anat]] y [[Yelig-nar\|Yelig-nar]]. Estos Deshechos provocaron que Aesudan cayera en un abismo de decadencia, instándola a organizar lujosos festejos mientras la sociedad de Kholinar colapsaba a su alrededor; Sja-anat corrompió a los spren de la ciudad y Yelig-nar se vinculó con Aesudan, que no fue capaz de lidiar con ello y acabó muriendo.
-Los eventos transcurridos en Kholinar sirvieron como base del [[Asedio a Kholinar\|asedio a Kholinar]], así como su consiguiente caída y ocupación por parte de las fuerzas de Fusionados.
+Ya muy avanzada la guerra de la Venganza, después de que [[Navani Kholin\|Navani Kholin]] dejara a [[Aesudan\|Aesudan]] al mando por su cuenta al considerarla capaz de gobernar sin su consejo, se infiltraron en Kholinar los Deshechos [[Ashertmarn\|Ashertmarn]], [[Sja-anat\|Sja-anat]] y [[Yelig-nar\|Yelig-nar]]. Estos Deshechos provocaron que Aesudan cayera en un abismo de decadencia, instándola a organizar lujosos festejos mientras la sociedad de Kholinar colapsaba a su alrededor; Sja-anat corrompió a los spren de la ciudad y Yelig-nar se vinculó con Aesudan. Tras unos cuantos años, ya bien entrada la Auténtica Desolación, el control de Aesudan sobre Yelig-nag fracasó, lo cual llevó a su muerte.
+Los eventos transcurridos en Kholinar antes de la muerte de Aesudan sirvieron como base del [[Asedio a Kholinar\|asedio a Kholinar]], así como su consiguiente caída y ocupación por parte de las fuerzas de Fusionados.
 
 #### Batalla de la Torre (Tanatashev 1173)
 Para más información, ver [[Batalla de la Torre\|Batalla de la Torre]].
@@ -361,7 +407,7 @@ En Chach 1175, la coalición organizó un intento de evacuación de Piedralar. T
 ## Cultura
   <<Jasnah Kholin\|Jasnah Kholin>>, la actual reina de Alezkar
 >“*Conquistar pueblos viene a ser su principal acervo cultural.*”
-\-Lopen[79]
+\-Lopen[102]
 
 
 ### Habitantes
@@ -371,46 +417,60 @@ Como todas las naciones [[Vorin\|vorin]], los alezi ejercen una división entre 
 Los alezi rechazan el mostrar emociones de forma pública y cualquier indicativo de ello se percibe como una debilidad; que una pareja comprometida se mantengan cerca entre sí en público no llega a considerarse obsceno, aunque sí extremadamente inapropiado. A los varones se les anima a ser fuertes y combativos, y a las mujeres a ser astutas y estar dispuestas a meterse en mordaces charlas. La incapacidad o reticencia a actuar de esta manera a menudo conlleva que a dicha persona se la tache de inepta o estúpida.
 
 ### Música
-La música alezi emplea mayoritariamente flautas e instrumentos de cuerda hechos de madera noble y tiende a no gustarle la percusión. Los himnos de batalla se tocan en instrumentos de metal.
-Emplean arcos para tocar instrumentos de cuerda.
+La música está considerada un arte femenino y, por tanto, se dedican a ella principalmente mujeres y fervorosos. La música alezi emplea mayoritariamente flautas e instrumentos de cuerda hechos de madera noble y tiende a no gustarle la percusión. Los himnos de batalla se tocan en instrumentos de metal.
+Emplean arcos para tocar instrumentos de cuerda. Sus flautas se tocan verticalmente, no horizontalmente.
 Puede que los alezi practiquen una especie de canto de garganta. Se sabe que a menudo cantan diversas variaciones de himnos vorin.
 Los tambores son populares entre los ojos oscuros de clase baja. Debido a esto, los ojos claros normalmente asocian este instrumento con los ojos oscuros y, por tanto, consideran los tambores como instrumentos base.
-Sus flautas se tocan verticalmente, no horizontalmente.
-La música está vista como un arte femenina y, por lo tanto, se dedican a ella primordialmente mujeres y fervorosos.
 Es típico que se toque música en celebraciones de ojos claros.
 
-### Ropa
+### Moda
 La moda alezi varía enormemente entre ojos claros y ojos oscuros, dicha diferencia reforzada por la división entre castas.
-En 1173, la tendencia en Alezkar eran los colores brillantes y los adornos recargados.
-[[Liafor\|Liafor]] y [[Yezier\|Yezier]] fueron una gran influencia en la moda ojos claros en Alezkar, ya que mucha de su ropa era diseñada en estos países basándose en las tendencias alezi junto con su estilo cultural.
+En 1173, la tendencia en Alezkar eran los colores brillantes y los adornos recargados. También tienden a emplear colores sólidos.
+[[Liafor\|Liafor]] y [[Yezier\|Yezier]] fueron una gran influencia en la moda ojos claros en Alezkar, ya que mucha de su ropa era diseñada en estos países basándose en las tendencias alezi junto con su estilo cultural. La moda azishiana también influye en cierto grado en la moda alezi.
 Los estilos en cuanto a moda de Alezkar y Jah Keved van en una línea lo suficientemente similar como para que Liafor comercialice sus productos con ambos países de la misma manera.
 
   Moda masculina contemporánea
 #### Moda masculina
 Una variante típica de atuendo masculino, normalmente llevado por guerreros, es la [[Takama\|takama]]. La takama es un tipo de falda recta y larga hasta la pantorrilla que se suele combinar con un cinturón y camisas específicamente diseñadas para ser llevadas con takamas. La takama tiene similitudes con la [[Vakama\|vakama]] y el [[Ulatu\|ulatu]] de los veden.
+In late 1167, Alethi men preferred dark colours, to contrast with the brighter feminine mode of dress. This changed by 1173, with lighteyed men coming to favour bright colours.
 
   La havah vorin
 #### Moda femenina
 La havah vorin es un tipo de ropa muy común entre las mujeres ojos claros de Alezkar. Es ajustada en las zonas del busto, los hombros y la cintura, y tiene una falda fluida; de acuerdo con los ideales vorin, estas prendas tienen la manga izquierda alargada para cubrir la [[Mano segura\|mano segura]]. A menudo, estas mangas cuentan con una bolsita llamada bolsa segura en la que guardar pertenencias. Las havah habitualmente se hacen con seda de colores brillantes, la cual es lo suficientemente delgada como para que las mujeres puedan, cuando sea necesario, agarrar objetos con su mano segura con facilidad.
 Con frecuencia las havah presentan bordados elaborados con múltiples diseños, sombreados y glifos estilizados.
-Las mujeres ojos claros suelen peinarse con complicadas sucesiones de trenzas aseguradas por cuatro agujas de acero. Estas agujas para el pelo se consideran tradicionales en la cultura alezi. Algunas mujeres se inclinan por usar otros metales, como el oro, para crear estas agujas; otras incluso eligen llevar un número distinto de agujas en el pelo, como por ejemplo seis.
+Las mujeres ojos claros suelen peinarse con complicadas sucesiones de trenzas aseguradas por cuatro agujas de acero. Estas agujas para el pelo se consideran tradicionales en la cultura alezi. Algunas mujeres se inclinan por usar otros metales, como el oro, para crear estas agujas; otras incluso eligen llevar un número distinto de agujas en el pelo, como por ejemplo seis. En ocasiones, los diseños de agujas para el pelo se asemejan a hojas esquirladas.
 Las mujeres ojos oscuros tienden a emplear ropa más simple, y normalmente llevan un guante en la mano segura en lugar de cubrírsela con mangas largas. Esto se debe a que así son capaces de llevar a cabo las tareas del hogar con más facilidad. Taparse la mano segura con un guante está visto como poco modesto, así como un signo inherente a la clase baja, y por tanto las mujeres ojos claros no suelen hacerlo.
 Es normal que las prostitutas vistan sin cubrirse la mano segura.
 
 ### Gastronomía
 Como otras naciones vorin, la gastronomía se rige por una división entre géneros. La comida masculina suele estar muy condimentada, mientras que la femenina suele componerse de frutas y normalmente es muy dulce. Sin embargo y como en lo demás, a los fervorosos no se les aplican estas normas de género y pueden comer lo que prefieran.
-Una gran proporción de su dieta se basa en el taliú y la lavis, que se emplean tanto en comida como en bebidas alcohólicas. El taliú normalmente se cuece o se hace al vapor para preparar sopa. A veces también se unta en verduras como el estagma.
-La carne se encuentra en numerosos platos, particularmente la porcina obtenida de cerdos y a veces cocinada en sabrosos caldos. Los alezi también ingieren la carne de cangrejo y de lanka.
-La comida alezi es conocida por lo picante que resulta. A menudo se la mezcla con salsas y curry.
-El estagma y otros tubérculos también son típicos de su dieta.
-Es normal que los niños coman arroz afrutado y pan ácimo.
-Los alezi emplean una amplia variedad de salsas de diversos sabores, desde especiados hasta dulces e incluyendo picantes y salados.
 
   Los colores del vino alezi
 #### Alcohol
 El alcohol alezi a menudo se prepara fermentando taliú o lavis, pero en ocasiones se hace con fruta.
 Sus licores están teñidos con diversos tintes de acuerdo a lo fuerte que sea la bebida. Los colores más fuertes no sólo están fermentados sino que también están destilados. En las fiestas a menudo se sirven sólo los colores más débiles para evitar que los asistentes se emborrachen demasiado rápido.
-Hay una gran variedad de bebidas incluso dentro del mismo color, como el honu duro, un tipo de licor de grano de lavis. Algunos alcoholes están condimentados, lo cual les da un sabor especiado.
+Hay una gran variedad de bebidas incluso dentro del mismo color, como el [[Honu\|honu duro]], un tipo de licor de grano de lavis. Algunos alcoholes están condimentados, lo cual les da un sabor especiado.
+
+#### Curry
+Various forms of curry are popular in Alethkar. Such as sweet curry, or spicy curry made with pungent peppers. Some of their curries are mixed with different types of cream, primarily made from sow's milk. Vegetables and meat are often mixed into curry.
+In terms of texture and consistency it can vary between watery, thick, and creamy.
+Curry is often eaten with bread, or rice and grain.
+
+#### Dairy Products
+Dairy in Alethkar is primarily produced from sows. Dairy products are not in wide consumption, primarily used only in creams used in curry.
+
+#### Grain and Tubers
+A large portion of their diet is made up of tallew and lavis, with them being used in food, and alcoholic beverages. Tallew is often boiled or steamed and made into soup. It is sometimes used as a spread on vegetables such as [[Stagm\|stagm]].
+Stagm and other tubers are a common part of the Alethi diet.
+It is common for children to eat fruited tallew rice with flatbread.
+
+#### Meat
+They make use of meat in several dishes, particularly using pork harvested from hogs. Sometimes cooked in a savoury broth, or served with chutney.
+Alethi sometimes eat cremlings such as [[Skrip\|skrip]], typically boiled or steamed, though they are considered a low quality dish. They also eat the meat of crabs and lanka. When they eat crustaceans, they typically dip the meat in curry or prepare the curry with the meat in it. Though sometimes they simply serve it with a dish of grain.
+
+#### Seasoning and Sauces
+Alethi food is known for its spiciness. Which is often mixed into sauces and curry.
+They make use of a wide range of sauces of a variety of different flavours, ranging from spicy, to sweet, to peppery, to salty.
 
 ### Arquitectura
 La arquitectura varía enormemente en Alethkar y está muy determinada por las altas tormentas que azotan la nación. Por ejemplo, los edificios de Piedralar, que están protegidos tan sólo por un [[Lait\|lait]] relativamente pequeño conocido como pared rompiente, están construidos en hileras y tienen forma de cuña con un lado oriental inclinado. Las ventanas suelen situarse exclusivamente en el lado occidental.
@@ -434,7 +494,7 @@ Como añadido a su cultura, los alezi rinden honor a [[La Emoci%C3%B3n\|la Emoci
 
 ### Religión
 >“*Los alezi preferían dejar que los fervorosos se ocuparan del Todopoderoso, como si fuese un invitado molesto al que pudieran entretener los sirvientes ofreciéndole una taza de té bien sabroso.*”
-\-Shallan.[136]
+\-Shallan.[165]
 
 
 Para más información, ver [[Vorinismo\|Vorinismo]].
@@ -458,7 +518,7 @@ Los hombres tienen permitido aprender [[Glifo\|glifos]], un sistema diferente do
 El alfabetismo está generalizado entre las mujeres ojos claros, y no es raro incluso entre las mujeres ojos oscuros de las ciudades alezi. No obstante, es menos común en asentamientos menores y principalmente ojos oscuros, como por ejemplo Piedralar; la tasa de alfabetismo de algunos de ellos puede llegar a ser tan baja como el 0%.
 
 ### Muerte y ritos funerarios
-Los ojos claros adinerados suelen recurrir al moldeado de almas para preservar sus cuerpos en estatuas de piedra o metal. Son colocados por escultores mortuorios antes de ser moldeados en piedra y quedar listos para ser expuestos.
+Los ojos claros adinerados suelen recurrir al moldeado de almas para preservar sus cuerpos en estatuas de piedra o metal. Son colocados por escultores mortuorios antes de ser moldeados y quedar listos para ser expuestos.
 Los cuerpos de los ojos oscuros suelen ser incinerados, aunque algunos de los ojos oscuros más pudientes recurren a otras posibilidades.
 
 #### El Más Allá
@@ -474,9 +534,21 @@ Los alezi tienen unos roles de género muy rígidos que permean en casi todos lo
 Ir en contra de estos roles predeterminados es percibido, a menudo, como antinatural o directamente blasfemo.
 Su concepción de los roles de género está enormemente basada en *[[Artes y Majestuosidad\|Artes y Majestuosidad]]*, una antigua obra de literatura roshariana que define ciertas cuestiones y prácticas como femeninas o masculinas.
 
+### Juegos, deportes y entretenimiento
+#### Festivals
+Alethkar practices various fairs and festivals to celebrate special occasions.
+One such festival practiced in Alethkar is the [[Middlefest Fair\|Middlefest Fair]], which celebrates the coming of the [[Midpeace\|Midpeace]].
+
+#### Games
+Due to Vorin precepts against predicting the future, Alethi culture has a distaste for gambling and games involving random chance. Thus their games tend to revolve around skill rather than chance.
+One popular game in Alethi culture is [[Breakneck\|Breakneck]], particularly among darkeyes. Other popular games include [[Pieces\|Pieces]], [[Pawns\|Pawns]], , , and an unnamed [[Rosharan card game\|Rosharan card game]].
+
+#### Sports
+[[Vehah\|Vehah]] is a traditional wrestling style practiced in Alethkar.
+
 ## Política
 >“*Dalinar llevaba tanto tiempo codeándose con políticos alezi que la honestidad se le antojaba arcana, como un idioma que ya no sabía hablar.*”
-\-Dalinar.[33]
+\-Dalinar.[58]
 
 
 ### Monarquía
@@ -484,8 +556,8 @@ Los alezi tienen un largo historial de monarquías que ascienden y caen con poca
 La primera figura en unificar Alezkar tras la caída de Alezela fue Sadees el Hacedor de Soles en c.673, aunque su reinado colapsó rápidamente tras su muerte debido a que el territorio alezi fue dividido entre sus diez hijos, lo que llevó a otro interregno por no haber podido seleccionar un heredero propiamente dicho antes de fallecer. Este interregno duró hasta que Gavilar Kholin lideró una guerra de unificación, sometiendo de nuevo al país bajo un único rey para el año 1145.
 Aunque el rey tiene poder sobre los altos príncipes, estos aún conservan un considerable grado de autonomía en sus propios principados hasta el punto de hacerlos funcionar, en esencia, como naciones soberanas en pleno derecho. Por tanto, el rey no es una fuente de autoridad autocrática.
 A pesar de sus restricciones, el poder que la monarquía tiene sobre los altos príncipes se mantiene primordialmente mediante la fuerza militar y el acceso a moldeadores de almas, cuyo uso conlleva el pago de impuestos. En parte debido al limitado poder del rey, mucha gente siente más conexión y lealtad hacia su alto príncipe o señor local que hacia el propio rey o la institución monárquica.
-El rey tiene derecho a ascender a individuos a la posición clásica de un alto príncipe si lo considera necesario, consolidando así el poder nacional entre principados en ciertos aspectos del gobierno en personas particulares. Este derecho es bastante controvertido y sólo empezó a emplearse ya avanzada la guerra de la Venganza en 1173, cuando el rey Elhokar concedió al alto príncipe Torol Sadeas la posición de [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]].
-Jasnah Kholin, la reina actual, expresó interés en la idea de desmantelar la monarquía tras finalizar la Auténtica Desolación.
+El monarca tiene derecho a ascender a individuos a la posición clásica de un alto príncipe si lo considera necesario, consolidando así el poder nacional entre principados en ciertos aspectos del gobierno en personas particulares. Este derecho es bastante controvertido y sólo empezó a emplearse ya avanzada la guerra de la Venganza en 1173, cuando el rey Elhokar concedió al alto príncipe Torol Sadeas el puesto de [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]] y a Dalinar Kholin el puesto de [[Alto Pr%C3%ADncipe de la Guerra\|Alto Príncipe de la Guerra]].
+Jasnah Kholin, la reina actual, ha expresado interés en la idea de desmantelar la monarquía tras finalizar la Auténtica Desolación.
 
 #### Reglas de sucesión al trono
 Tradicionalmente, la corona pasa al heredero varón de mayor edad tras la muerte del rey. Sin embargo, esta línea de sucesión puede ser desestimada si se considera que el heredero es demasiado joven como para convertirse en rey en el panorama político actual de la nación. En tal caso, la corona puede pasar al hermano del fallecido rey para que actúe como monarca hasta que el heredero legítimo alcance una edad apropiada o la situación política se calme lo suficiente como para que este pueda acceder al trono.
@@ -508,7 +580,7 @@ Un rey puede elegir dejar el trono a otro individuo ajeno a su línea sucesoria,
 |[[Jasnah Kholin\|Jasnah Kholin]]|Nanat 1174 - *Reina actual*|
 
 #### El Sagaz del rey
-El Sagaz del rey (conocido como el Sagaz de la reina durante el reinado de Jasnah Kholin) es un bufón de la corte que trabaja para el monarca actual, burlándose de quienes pertenecen a dahns más bajos. El Sagaz actual en 1175, que comenzó su servicio en 1173, es [[Hoid\|Hoid]].
+El Sagaz del rey (conocido como el Sagaz de la reina durante el reinado de una reina) es un bufón de la corte que trabaja para el monarca actual, burlándose de quienes pertenecen a dahns más bajos. El Sagaz actual en 1175, que comenzó su servicio en 1173, es [[Hoid\|Hoid]].
 Es legal que un alto príncipe asesine al Sagaz, aunque hacerlo les despojaría de su posición y de sus propiedades.
 
 ### Principados
@@ -540,7 +612,7 @@ A pesar de la reunificación bajo un mismo estandarte, es normal que los princip
 #### Distritos administrativos
 Cada principado está dividido en regiones con sus propios nombres, como [[Akanny\|Akanny]] en el principado Sadeas. Estas regiones están controladas por brillantes señores o altos señores, que poseen tierras y propiedades dentro del principado y recaudan impuestos de los consistores.
 Otro nivel de administración menor de las regiones son los asentamientos individuales, gobernados por consistores. Cuando un consistor muere sin herederos, se envía a otro consistor a reemplazarlo. Estos consistores poseen el territorio del asentamiento y se lo alquilan a sus habitantes. Estos pagan un impuesto sobre la renta que depende del tamaño y el propósito del asentamiento en cuestión; los pueblos pequeños destinados a la agricultura como [[Piedralar\|Piedralar]] principalmente pagan en producto, como grano de lavis, mientras que otras ciudades más grandes contribuyen con impuestos monetarios mayores. Asimismo, el consistor sólo recibe una porción de los impuestos recaudados, ya que la mayor parte llega al alto señor de su región o directamente a su alto príncipe.
-Los consistores tienen autoridad legal sobre quienes están en su territorio y tienen potestad para obligarlos a alistarse a ejércitos que estén de paso siempre y cuando tengan más de quince años. También pueden prohibir que alguien se aliste al ejército voluntariamente.
+Los consistores tienen autoridad legal sobre quienes están en su territorio y tienen potestad para obligarlos a alistarse a ejércitos que estén de paso siempre y cuando tengan más de quince años y no sean de vital importancia para la comunidad. También pueden prohibir que alguien se aliste al ejército voluntariamente.
 Los consistores están sometidos a la autoridad del señor que gobierna el territorio en el que habitan, y en varios sentidos deben pagarles un tributo.
 
 #### Principados conocidos
@@ -587,17 +659,20 @@ Los territorios de Alezkar y sus mayores ciudades son:
 [[Tintero (pueblo)\|Tintero]]
 [[Talinar\|Talinar]]
 
+### Leyes y códigos
+Alethkar has a large quantity of laws. One such law is the Alethi code, of which provision eighty seven states that a criminal may be pardoned if he has a vital task to perform for the good of all. The Alethi king or queen may also grant someone the authority to act on their behalf.
+
 ### Gobierno en el exilio
 Tras el inicio de la Auténtica Desolación y la invasión y ocupación de Alezkar por parte de las fuerzas Fusionadas, el gobierno alezi se convirtió en un gobierno en el exilio centrado en Urithiru.
 Conservaron reconocimiento político de otros estados a pesar de su exilio.
 
 ### Política exterior y relaciones internacionales
 #### Azir
-[[Azir\|Azir]] alberga una profunda desconfianza hacia Alezkar debido a su naturaleza militarista, así como al genocidio que sufrieron a manos de Sadees, quien sigue siendo un héroe histórico desde el punto de vista alezi. Debido a esto, eran reacios tanto a unirse a Alezkar en la coalición de monarcas como a darles acceso a su Puerta Jurada hasta que el ataque de los cantores los obligó a aceptar.
+[[Azir\|Azir]] alberga una profunda desconfianza hacia Alezkar debido a su naturaleza militarista, así como al genocidio que sufrieron a manos de Sadees, quien sigue siendo un héroe histórico desde el punto de vista alezi. Debido a esto, eran reacios tanto a unirse a Alezkar en la coalición de monarcas como a darles acceso a su Puerta Jurada hasta que un ataque de los cantores los obligó a aceptar.
 
 #### Herdaz
 >“*Herdaz? Según mis ayudantes, es el primer paso tradicional en una invasión alezi.*”
-\-Taravangian[173]
+\-Taravangian[130]
 
 
 [[Herdaz\|Herdaz]] fue sometida por Alezkar durante las conquistas de Sadees el Hacedor de Soles hasta que su muerte provocó inestabilidad. Este país ha sido, típicamente, el primer objetivo de los alezi históricamente cuando tenían la intención de expandirse, lo cual ha llevado a un profundo resentimiento entre ambas naciones.
@@ -606,14 +681,15 @@ Aunque actualmente están aliados en la lucha contra los Fusionados, la desconfi
 
 #### Jah Keved
 Han peleado en repetidas ocasiones con su vecina [[Jah Keved\|Jah Keved]], luchando por territorio en su frontera común. Estas guerras suelen provenir más de los altos príncipes del oeste de Alezkar que de la propia nación impulsada por la corona. Al mismo tiempo, los matrimonios entre ojos claros de ambas naciones no se perciben como algo particularmente fuera de la norma ni está prohibido (ni por motivos religiosos, ni por leyes nacionales).
-Mediante tratados de comercio, llevan a cabo intercambios bastante baratos con Jah Kaved.
+Mediante tratados de comercio, llevan a cabo intercambios bastante baratos con Jah Keved.
 
 #### Kharbranth
 Antes de la traición de Taravangian a la coalición de monarcas, Kharbranth y Alezkar mantenían una estrecha relación política y económica. Esta relación llevó a que Kharbranth se uniera a la coalición de monarcas antes que ninguna otra nación. Aunque parecían ser buenos aliados, Taravangian planeaba en secreto provocar que el gobierno de Dalinar sobre Alezkar fracasara para permitirle hacerse con el control del país.
 Tras revelarse su conspiración y tras su caída de las autoridades de Kharbranth, [[Savrahalidem\|Savrahalidem]] se convirtió en reina y se retiró de la alianza, declarándose neutral en el conflicto. Esto provocó un aumento en las tensiones entre ellos, llevando en última instancia a que Dalinar creara un bloqueo comercial por todo el mar cercano a Kharbranth para forzar su regreso a la alianza.
 
 #### Oyentes
-Cuando se encontraron por primera vez, los oyentes y los alezi mantuvieron una relación positiva que con el tiempo llevó a la firma de un tratado entre ambos en Ishi ? 1167. No obstante, esta paz se derrumbó cuando el rey Gavilar Kholin fue asesinado por orden de los oyentes, provocando la entrada en vigor del Pacto de la Venganza y el comienzo de la guerra de la Venganza contra los oyentes. La matanza de estos continuó durante seis años y terminó con el comienzo de la Auténtica Desolación en Ishishach 1173.
+When they first met, the listeners and Alethi had a positive relationship. After a number of expeditions the Alethi wished to formalize their relationship, which led to the establishment of a treaty between the two peoples in Ishi ? 1167. This treaty contained clauses to simplify trade between the peoples and for mutual border crossing. The treaty also prevented the listeners from trading their Shards to other kingdoms without first coming to Alethkar. Aside from these clauses the treaty also allowed for one party to legally attack the other party.
+Peace quickly broke down however when on the very night that the treaty was signed King Gavilar Kholin was assassinated under listener orders, which lead to the enactment of the Vengence Pact and the beginning of the War of Reckoning against the listener people. This slaughter of their people would continue for six years, until it ended with the start of the True Desolation on Ishishach 1173.
 Los alezi consideran a los oyentes como salvajes infrahumanos apenas capaces de pensar, y promulgan ideología supremacista contra ellos y sus soldados.
 
 #### Marabezia

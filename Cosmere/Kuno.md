@@ -7,6 +7,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*La mayoría prefiere hacer como si estas personas no existieran. Los envían de un empujón con los fervorosos. Quizá nos consideres insensibles, pero somos los únicos que nos preocupamos. Que lo intentamos.*”
 \-Kuno a Kaladin[1]

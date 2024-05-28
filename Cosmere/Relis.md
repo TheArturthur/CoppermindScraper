@@ -10,6 +10,7 @@
 |**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alethkar\|Alethkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*“You win this bout, you take every Shard my family owns. What’s stronger? Your fear or your greed?”*
 \-“My pride,” Relis said. “No contest, Adolin.”

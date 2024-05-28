@@ -8,6 +8,7 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Larn** es un soldado del ejército de [[Amaram\|Amaram]] en [[Alezkar\|Alezkar]], [[Roshar\|Roshar]].
 Larn lucha al lado de [[Kaladin\|Kaladin]] cuando este lucha para proteger a [[Cenn\|Cenn]]. Kaladin se lanza fuera de la formación para alcanzar a Cenn, y Larn grita sorprendido. Probablemente murió cuando [[Helaran Davar\|Helaran Davar]] mató al escuadrón de Kaladin.

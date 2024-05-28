@@ -14,8 +14,6 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 La **Orden de los Corredores del Viento** es una orden de [[Caballeros Radiantes\|Caballeros Radiantes]] en Roshar.
 Los Corredores del Viento son [[Potenciaci%C3%B3n\|potenciadores]] que utilizan las [[Potenciaci%C3%B3n\|Potencias]] de Adhesión y Gravitación, y están asociados a la [[Piedrabase\|piedrabase]] zafiro. Forman un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con los [[Honorspren\|honorspren]]. Su armadura esquirlada está formada por [[Vientospren\|vientospren]]. La combinación de Adhesión y Gravitación da lugar a los tres [[#Habilidades]].
 

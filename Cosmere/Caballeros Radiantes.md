@@ -6,15 +6,13 @@
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*, *[[El ritmo de la guerra\|El ritmo de la guerra]]*, *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*, *[[El Hombre Iluminado\|El Hombre Iluminado]]*, y *[[Aleaci%C3%B3n de ley\|Aleación de ley]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*"Esperas demasiado de mí. No soy ningún glorioso caballero de días pasados. Soy un hombre roto. ¿Me oyes, Syl? *Estoy roto*.Ella se acercó volando y susurró: "Así estaban todos, tonto".*”
 \-Kaladin y Syl sobre cómo eran los Caballeros Radiantes.[1]
 
 
-Los **Caballeros Radiantes** (*Neshua Kadal* en parshendi) eran una organización de [[Potenciaci%C3%B3n\|potenciadores]] en [[Roshar\|Roshar]]. Sus órdenes estaban centradas en [[Urithiru\|Urithiru]], pero vivían a lo largo de [[Alezela\|Alezela]], el [[Reinos Plateados\|Reino Plateado]] que tenía que mantener las artes de la guerra. Consideraban que su deber y privilegio era permanecer vigilantes ante [[Desolaci%C3%B3n\|Desolaciones]]. Se cree comúnmente que traicionaron a la humanidad en el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]], y entonces se les denominó los **Radiantes Perdidos**. Su símbolo era una forma de reloj de arena dorado de ocho esferas conectadas con dos en el centro.
+Los **Caballeros Radiantes** (*Neshua Kadal* en oyente) eran una organización de [[Potenciaci%C3%B3n\|potenciadores]] en [[Roshar\|Roshar]]. Sus órdenes estaban centradas en [[Urithiru\|Urithiru]], pero vivían a lo largo de [[Alezela\|Alezela]], el [[Reinos Plateados\|Reino Plateado]] que tenía que mantener las artes de la guerra. Consideraban que su deber y privilegio era permanecer vigilantes ante [[Desolaci%C3%B3n\|Desolaciones]]. Se cree comúnmente que traicionaron a la humanidad en el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]], y entonces se les denominó los **Radiantes Perdidos**. Su símbolo era una forma de reloj de arena dorado de ocho esferas conectadas con dos en el centro.
 
 ## Sumario
 
@@ -95,7 +93,6 @@ Para todos los Caballeros Radiantes, ver :Categoría:Caballeros Radiantes.
 
 ## Curiosidades
 Brandon pretendía que los conjuntos de Ideales a través de las órdenes (por ejemplo, el Tercer Ideal) tuvieran un tema, aunque no todos los juramentos seguirán este patrón.
-El término para denominar a un Caballero Radiante en parshendi es «Neshua Kadal».
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

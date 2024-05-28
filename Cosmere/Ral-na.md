@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De las islas Reshi\|de las islas Reshi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Ral-na** es el rey de la comunidad que vive en [[Relu-na\|Relu-na]], una isla-[[Grancaparaz%C3%B3n\|grancaparazón]] en el [[Mar Reshi\|Mar Reshi]], [[Roshar\|Roshar]]. Es un [[Orden de los Portadores del Polvo\|Portador del Polvo]] y está vinculado a un [[Cenizaspren\|cenizaspren]].
 

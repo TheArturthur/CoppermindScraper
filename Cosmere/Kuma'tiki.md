@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Kuma'tiki** es la segunda hija de [[Lunamor\|Lunamor]]. Debe su nombre a un tipo de concha que se encuentra en los [[Picos Comecuernos\|Picos Comecuernos]].
 Kuma'tiki llegó a las [[Llanuras Quebradas\|Llanuras Quebradas]] con su familia en Jes 1174 tras viajar durante meses para reunirse con Lunamor, que les envió un mensaje poco después de su llegada. La caravana de Kuma'tiki fue atacada por [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] y su familia se defendió tras una pila de muebles. Durante el ataque, un miembro de su familia disparó a uno con una flecha [[Unkalaki\|Unkalaki]]. Fueron encontrados por el [[Puente Cuatro\|Puente Cuatro]] durante una patrulla y llevados a [[Urithiru\|Urithiru]]. Tras establecerse en Urithiru, ayudó a su padre a servir comida y bebida al Puente Cuatro.

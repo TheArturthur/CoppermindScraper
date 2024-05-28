@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 Lady **Patresen** era una [[Noble\|noble]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. La Casa Patresen era una familia prima de la [[Casa Elariel\|Casa Elariel]] con presencia en la ciudad de [[Ciudad Fadrex\|Fadrex]].
 

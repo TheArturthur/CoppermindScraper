@@ -8,6 +8,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Kryst** es una mujer casada con [[Jor\|Jor]] en [[Roshar\|Roshar]].
 Jor y Kryst celebran una fiesta de boda en [[El Deber de Jez\|El Deber de Jez]], donde Jor trabaja como portero, cuando se casan. [[Adolin\|Adolin]], [[Shallan\|Shallan]] y [[Kaladin\|Kaladin]] asisten a la fiesta y Jor lleva a Kryst a su mesa para presentársela.

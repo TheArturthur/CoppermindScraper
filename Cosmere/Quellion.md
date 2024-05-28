@@ -11,6 +11,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Quellion** es un [[Skaa\|skaa]] de [[Urteau\|Urteau]], en [[Scadrial\|Scadrial]].
 También conocido como el **Ciudadano**, Quellion está al mando en [[Urteau\|Urteau]] tras la muerte del [[Lord Legislador\|lord Legislador]]. [[Elend Venture\|Elend Venture]] y [[Vin\|Vin]] envían a [[Fantasma\|Fantasma]] para conocer más sobre Quellion. Como oficial del gobierno en la ciudad de Urteau, usa pantalones de skaa teñidos de rojo y camisas de trabajo.

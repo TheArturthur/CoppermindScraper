@@ -8,6 +8,7 @@
 |**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Koolf** es un miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
 Durante la [[Guerra de la Venganza\|Guerra de la Venganza]], se convirtió en un hombre de los puentes en el ejercito de [[Torol Sadeas\|Torol Sadeas]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] bajo circunstancias desconocidas y fue asignado al [[Puente Cuatro\|Puente Cuatro]]. Cuando [[Kaladin\|Kaladin]] tomó la decisión de salvar al Puente Cuatro, se redujeron drásticamente las bajas que sufrían en las carreras de los puentes, pero no lograron evitar la pérdida de Koolf y [[Amark\|Amark]].

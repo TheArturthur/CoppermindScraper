@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Punio** es un miembro [[Herdaz\|herdaziano]] del [[Puente Cuatro\|Puente Cuatro]]. Es un [[Orden de los Corredores del Viento\|Corredor del Viento]] y uno de los muchos primos de [[Lopen\|Lopen]] en [[Roshar\|Roshar]].
 

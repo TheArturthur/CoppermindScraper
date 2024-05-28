@@ -8,6 +8,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Kurdon** es un capataz fornido en la [[Plantaci%C3%B3n Tresting\|plantación Tresting]] en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
 

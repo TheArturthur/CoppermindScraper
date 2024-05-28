@@ -6,6 +6,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Lady Mulgrave** es una noble que vive en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 Durante los ataques terroristas de [[Sangradora\|Sangradora]] en Elendel, lady Mulgrave asistió a la [[Fiesta de lady ZoBell\|fiesta]] de [[Lady ZoBell\|lady ZoBell]] . Lady [[Steris Harms\|Steris Harms]] le dedicó una sonrisa muy particular mientras ella y lord [[Waxillium Ladrian\|Waxillium Ladrian]] pasaban por su lado en la fiesta.

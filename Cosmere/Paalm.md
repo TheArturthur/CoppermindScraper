@@ -12,6 +12,7 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 >“*Se visten con cuentas de colores. Se atiborran de vino. Ríen, sonríen, juegan, bailan, comen y matan sin llamar la atención. Todo forma parte del plan de Armonía. Actores en un escenario, hasta el último de ellos. Tú también, Waxillium Ladrian. Es lo que sois todos los hombres.*”
 \-Sangradora hablando mentalmente a Wax por primera vez.[2]

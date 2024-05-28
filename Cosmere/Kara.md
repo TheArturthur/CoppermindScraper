@@ -1,40 +1,43 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Kara**|
 |-|-|
-|**Capacidades**|[[/wiki/Caballeros Radiantes#Escuderos]] de la [[Order of Windrunners\|Order of Windrunners]]|
-|**Oficio**|Scribe |
-|**Grupo**|[[Bridge Four\|Bridge Four]]🐱︎, Ejército de Kholin|
+|**Capacidades**|[[/wiki/Caballeros Radiantes#Escuderos]] de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]]|
+|**Oficio**|Escriba |
+|**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin|
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Kara** is a former scribe on [[Roshar\|Roshar]] who joins [[Bridge Four\|Bridge Four]] and becomes a  .
+**Kara** es una antigua escriba de [[Roshar\|Roshar]] que se une al [[Puente Cuatro\|Puente Cuatro]] y se convierte en [[Escudero\|escudera]] de los [[Corredores del Viento\|Corredores del Viento]].
 
 ## Sumario
 
-1 Appearance and Personality. [[#Appearance and Personality]] 
-2 Attributes and Abilities. [[#Attributes and Abilities]] 
-3 History. [[#History]] 
-4 Trivia. [[#Trivia]] 
-5 Notes. [[#Notes]] 
+1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+2 Atributos y habilidades. [[#Atributos y habilidades]] 
+3 Historia. [[#Historia]] 
+4 Curiosidades. [[#Curiosidades]] 
+5 Notas. [[#Notas]] 
 
 
-## Appearance and Personality
-Kara stood out among the scribes even prior to joining Bridge Four, as [[Lyn\|Lyn]] was familiar with her. She seems to fit in well with the other Windrunners, displaying a sense of humor in her relationship with [[Lunamor\|Lunamor]].
+## Apariencia y personalidad
+Kara destacaba entre las escribas incluso antes de unirse al Puente Cuatro, ya que [[Lyn\|Lyn]] estaba familiarizada con ella. Parece encajar bien con los demás Corredores del Viento, mostrando sentido del humor en su relación con [[Lunamor\|Lunamor]].
 
-## Attributes and Abilities
-Kara is surprisingly skilled with a spear. She has practiced with one since childhood, although she kept this ability secret when she was employed as a scribe.
-She becomes a squire to an unknown Windrunner in Bridge Four at some point after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. She proves to be a quick learner and becomes one of the more proficient Windrunner squires. Even as a squire, her skill with both the spear and the [[/wiki/Surgebinding#Gravitation]] allow her to hold her own in battles with the . [[Kaladin\|Kaladin]] remarks that she is ready to advance to the , but no [[Honorspren\|honorspren]] partners are available. It is unclear if an honorspren later becomes available for her to bond.
-As a trained scribe, she is able to write in the [[Women's script\|women's script]] and use a [[Spanreed\|spanreed]]. She takes her own notes during scouting missions.
+## Atributos y habilidades
+Kara es sorprendentemente hábil con la lanza. Ha practicado con una desde la infancia, aunque mantuvo esta habilidad en secreto cuando trabajaba como escriba.
+Se convierte en escudera de un Corredor del Viento desconocido en el Puente Cuatro en algún momento después de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]]. Aprende rápido y se convierte en una de las escuderas más competentes de los Corredores del Viento. Incluso como escudera, su habilidad tanto con la lanza como con la [[/wiki/Potenciaci%C3%B3n#Gravitaci.C3.B3n]] le permiten defenderse en las batallas contra [[Aquellos de los Cielos\|Aquellos de los Cielos]]. [[Kaladin\|Kaladin]] comenta que está lista para avanzar al [[Palabras Inmortales\|Tercer Ideal]], pero no hay compañeros [[Honorspren\|honorspren]] disponibles. No está claro si más tarde aparece un honorspren disponible para que ella se vincule.
+Como escriba entrenada, es capaz de escribir en [[Escritura femenina\|escritura femenina]] y utilizar [[Vinculaca%C3%B1as\|vinculacañas]]. Toma sus propias notas durante las misiones de exploración.
 
-## History
-Little is known of Kara's history. Since she served as a scribe for [[Dalinar\|Dalinar]]'s forces under [[Teshav Khal\|Teshav Khal]] she is likely , but this is not confirmed.
-During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Teshav's scribe station was used as a field command post. The forces of the [[Coalition of monarchs\|coalition of monarchs]] were stretched thin and every available soldier was needed. Lyn confided in Rock and [[Renarin\|Renarin]] that Kara was willing and able to fight since she had been training with a spear from a young age, facetiously referring to her childhood practice as "cheating".
-Kara soon became a Windrunner squire and was one of the many squires present during the evacuation mission to [[Hearthstone\|Hearthstone]] on the *[[Fourth Bridge\|Fourth Bridge]]* in 1175. She was one of the few squires who were allowed to directly duel the [[Fused\|Fused]] and was seen scoring a hit on one of them with her spear. She engaged in some banter with Rock after Bridge Four returned to [[Urithiru\|Urithiru]].
-She also participated in scouting missions to [[Singer\|singer]]-occupied Alethkar, taking notes on the general condition of cities and their inhabitants as well as singer troop placements. Notably, she reported on the city of [[Tomat\|Tomat]] where [[Hesina\|Hesina]]'s father lived.
+## Historia
+Poco se sabe de la historia de Kara. Desde que sirvió como escriba para las fuerzas de [[Dalinar\|Dalinar]] bajo [[Teshav Khal\|Teshav Khal]] es probable que sea [[Alezi\|alezi]], pero no está confirmado.
+Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], el puesto de escriba de Teshav se utilizó como puesto de mando sobre el terreno. Las fuerzas de la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]] no daban abasto y se necesitaban todos los soldados disponibles. Lyn confió a Roca y [[Renarin\|Renarin]] que Kara estaba dispuesta y capacitada para luchar, ya que había estado entrenando con una lanza desde una edad temprana, refiriéndose en tono jocoso a su práctica infantil como «hacer trampas».
+Kara pronto se convirtió en escudera de los Corredores del Viento y fue una de los muchos escuderos presentes durante la misión de evacuación de [[Piedralar\|Piedralar]] en el *[[Cuarto Puente\|Cuarto Puente]]* en 1175. Fue una de las pocas escuderas a las que se permitió batirse directamente en duelo con los [[Fusionado\|Fusionados]] y se la vio asestar un golpe a uno de ellos con su lanza. Mantuvo algunas bromas con Roca después de que el Puente Cuatro regresase a [[Urithiru\|Urithiru]].
+También participó en misiones de exploración en zonas de Alezkar ocupadas por [[Cantor\|cantores]], tomando notas sobre el estado general de las ciudades y sus habitantes, así como de la ubicación de las tropas de cantores. En particular, informó sobre la ciudad de [[Tomat\|Tomat]], donde vivía el padre de [[Hesina\|Hesina]].
 
-## Trivia
-Many Bridge Four members are cameos of Brandon's friends, and she may be a cameo of [[Kara Stewart\|Kara Stewart]].
-## Notes
+## Curiosidades
+Muchos miembros del Puente Cuatro son cameos de amigos de Brandon, y ella puede ser un cameo de [[Kara Stewart\|Kara Stewart]].
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 23:18, 8 November 2021 (UTC)

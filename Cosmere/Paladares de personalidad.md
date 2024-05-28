@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Paladares de personalidad**|
 |-|-|
-|**Tipo**|Literature|
+|**Tipo**|Literatura|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-***Palates of Personality*** is a book on [[Roshar\|Roshar]] that posits a link between a person's preferred foods and their personality traits. [[Kabsal\|Kabsal]] quotes the book to [[Shallan\|Shallan]] and assures her that it is real.
+***Paladares de personalidad*** es un libro de [[Roshar\|Roshar]] que postula un vínculo entre los alimentos preferidos de una persona y sus rasgos de personalidad. [[Kabsal\|Kabsal]] cita el libro a [[Shallan\|Shallan]] y le asegura que es real.
 
->“*a fondness for [[Simberry\|simberries]] indicates a spontaneous, impulsive personality, ... and a love for the outdoors*”
-\-Kabsal reading from Palates of Personality
+>“*El gusto por la [[Simbaya\|simbaya]] indica una personalidad espontánea e impulsiva. Y también una preferencia por... estar al aire libre.*”
+\-Kabsal leyendo Paladares de personalidad
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 15:48, 30 October 2019 (UTC)
