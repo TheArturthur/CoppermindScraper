@@ -5,6 +5,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Mel** es una joven cantinera en [[El Deber de Jez\|El Deber de Jez]] en la sección de los [[Diez Anillos\|Diez Anillos]] de [[Urithiru\|Urithiru]], en [[Roshar\|Roshar]].
 El día de la fiesta de compromiso de [[Jor\|Jor]] y [[Kryst\|Kryst]], Mel sirvió bebidas a [[Adolin\|Adolin]], [[Shallan\|Shallan]] y [[Kaladin\|Kaladin]]. Rellenó de nuevo el vaso de Velo antes de preguntarle a Kaladin qué quería; tras quedarse perpleja por su petición de un [[/wiki/Roshar#Vinos]], le ofreció un amarillo. Velo la ahuyentó, pero cuando Mel regresó con la bebida de Kaladin, volvió a ofrecerle el amarillo. Esa vez fue Adolin quien intervino para declinar la oferta, y Mel le respondió con una sonrisa radiante antes de marcharse animada por que un [[Alto pr%C3%ADncipe\|alto príncipe]] le hubiera dirigido la palabra.

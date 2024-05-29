@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Melloni**, a menudo llamada **Melly**, es la hija de [[Ais\|Ais]] y [[Mellis\|Mellis]]. Vive en [[Kezare\|Kezare]], en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
 

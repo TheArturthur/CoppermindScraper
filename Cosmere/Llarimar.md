@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Eres un dios. Para mí, al menos. No importa lo fácilmente que se te pueda matar, cuánto aliento tengas o cuál sea tu aspecto. Tiene que ver con lo que eres y lo que significas.*”
 \-Llarimar a Sondeluz[1]

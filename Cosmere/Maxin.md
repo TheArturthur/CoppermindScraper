@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Maxin** es un ladrón y miembro de la banda de Huqin que intenta robar en el [[Palacio de Bronce\|Palacio de Bronce]] en [[Azir\|Azir]], en [[Roshar\|Roshar]].
 

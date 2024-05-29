@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[Bavlandia\|Bav]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“* Cuanto más éxito tenía Szeth, más audaz se hacía Makkek. ¿Cuánto tiempo pasaría antes de que dejara de utilizarlo para matar a rivales menores, y lo enviara a matar a portadores de esquirlada o poderosos ojos claros?*”
 \- Szeth sobre su maestro[1]

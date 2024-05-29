@@ -6,6 +6,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Milen Davenpleu** es un [[Noble\|noble]] en el [[Imperio Final\|Imperio Final]], en [[Scadrial\|Scadrial]].
 

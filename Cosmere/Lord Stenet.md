@@ -6,6 +6,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*¿Y usted? ¡Su compromiso es la comidilla de toda la ciudad!*”
 \-Steris alord Stenet[1]

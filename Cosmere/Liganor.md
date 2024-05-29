@@ -7,6 +7,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Está pasando algo, Alalan. En el atrio. No me gusta. Creo que hoy cerraré la tienda. Por si acaso.*”
 \-Liganor a Alalan[1]

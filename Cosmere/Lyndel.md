@@ -8,6 +8,7 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Lyndel** era un soldado del ejército de [[Amaram\|Amaram]] en [[Roshar\|Roshar]].
 Era miembro del escuadrón de [[Kaladin\|Kaladin]] y fue asesinado por un [[Helaran Davar\|portador de esquirlada]] que atacó. Lyndel fue pisoteado y le destrozaron la cara antes de morir.

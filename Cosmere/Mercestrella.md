@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[Hallandren\|Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Mercestrella** es una [[Retornado\|Retornada]] de [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]]. Es la diosa de la amabilidad y la benevolencia.
 

@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Miasal** era una niña [[Ojos oscuros\|ojos oscuros]] de [[Piedralar\|Piedralar]], en [[Roshar\|Roshar]].
 A los cinco años sufre una caída, se rompe gravemente una pierna y sufre un traumatismo craneoencefálico. [[Kaladin\|Kaladin]] se encuentra por casualidad en la zona y consigue cauterizarle la herida de la pierna y detener la pérdida de sangre, pero no consigue salvarle la vida. Su padre, [[Harl\|Harl]], se angustia cuando ella muere. [[Lirin\|Lirin]] alaba más tarde las acciones de Kaladin, pero Kaladin ve la muerte de Miasal como su fracaso.

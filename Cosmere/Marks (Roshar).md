@@ -3,10 +3,12 @@
 
 |**Marks (Roshar)**|
 |-|-|
-|**Oficio**|[[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
+|**Oficio**|Soldado|
+|**Grupo**|[[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 Esta página trata sobre el miembro de la Guardia de Cobalto en Roshar. Para el oficial de policía poseído por [[Phi\|Phi]] en **[[Dreamer\|Dreamer]]**, ver [[Marks (Dreamer)\|Marks (Dreamer)]].
 **Marks** es un ojos claros [[Alezi\|alezi]] en [[Roshar\|Roshar]] y miembro de la [[Guardia de Cobalto\|Guardia de Cobalto]].

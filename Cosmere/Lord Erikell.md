@@ -7,6 +7,7 @@
 |**Parientes**|[[Chip Erikell\|Chip Erikell]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Lord Erikell** es el cabeza de familia de la [[Casa Erikell\|Casa Erikell]] en [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]].
 Estaba presente en la [[Fiesta de lady ZoBell\|fiesta de lady ZoBell]] en 342 [[Catacendro\|PC]]. Habló con el gobernador [[Replar Innate\|Replar Innate]] poco antes de que [[Wax\|Wax]] y [[Steris\|Steris]] lo hiciesen.

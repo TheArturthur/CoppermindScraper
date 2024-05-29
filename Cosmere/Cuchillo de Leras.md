@@ -17,7 +17,7 @@ Cuando [[Vin\|Vin]] y [[Elend Venture\|Elend Venture]] llegaron al [[Pozo de la 
 No está claro qué ocurrió con el cuchillo tras la muerte de Leras. Su cuerpo apareció en la ceniza en las afueras de [[Ciudad Fadrex\|Ciudad Fadrex]]; es posible que el cuchillo estuviera con él. En tal caso, puede que haya desaparecido, ya que [[Sazed\|Sazed]] no hizo nada con los cuerpos de [[Ati\|Ati]] o Leras durante [[Ascensi%C3%B3n Final\|su Ascension]].
 
 ## Curiosidades
-[[Brandon Sanderson\|Brandon]] ha hecho [[RAFO\|RAFO]] sobre si agitar el cuchillo sobre una vela haría que esta se encendiera, y sobre si el cuchillo es algún tipo de [[Hoja esquirlada\|hoja esquirlada]].
+[[Brandon Sanderson\|Brandon]] ha hecho [[RAFO\|RAFO]] sobre si agitar el cuchillo sobre una vela haría que esta se encendiera, (como hacen los [[Tamu Kek\|Tamu Keks]] en [[Dragonsteel Prime\|Dragonsteel Prime]] y sobre si el cuchillo es algún tipo de [[Hoja esquirlada\|hoja esquirlada]].
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.

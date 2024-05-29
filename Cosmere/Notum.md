@@ -11,6 +11,7 @@
 |**Residencia**|[[Shadesmar\|Shadesmar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*¡Honor no está muerto mientras viva en los corazones de los hombres!*”
 \-Notum.[1]

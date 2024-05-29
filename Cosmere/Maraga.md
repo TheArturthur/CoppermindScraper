@@ -7,6 +7,7 @@
 |**Residencia**|[[Bilming\|Bilming]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 >**Wax**: "*Se refiere a mentiras. Usted imprime mentiras.**"***Maraga**: "*Preferimos llamarlo «alternativas extravagantes». Son historias sugerentes que fascinarían al público en caso de ser ciertas.**"***Wax**: "*Es decir, mentiras.**"*
 \-Wax: "Se refiere a mentiras. Usted imprime mentiras.

@@ -7,6 +7,7 @@
 |**Residencia**|[[Pie de Hierro\|Pie de Hierro]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Matieu** es capitán de los alguaciles de [[Pie de Hierro\|Pie de Hierro]], en [[Scadrial\|Scadrial]]. Es alto y delgado, tiene la sonrisa siempre lista y siente cierta admiración por [[Waxillium Ladrian\|Waxillium Ladrian]].
 Después de que la [[Banda de los Nocturnos\|Banda de los Nocturnos]] atacase un tren cesca de Pie de Hierro en 342 [[Catacendro\|PC]], Matieu y sus alguaciles pusieron bajo custodia al resto de bandidos. Matieu instruyó a sus guardias civiles para que le dieran a Wax algo de espacio, y luego preguntó si alguno de los sirvientes, aparte de [[Drewton\|Drewton]], necesitaría apoyo emocional. Mientras Wax buscaba a [[Wayne\|Wayne]] y [[MeLaan\|MeLaan]] en el tren, Matieu lo siguió y le proporcionó detalles sobre la banda. Planeaba perseguir a los criminales, que esperaba que estuviesen dirigiéndose hacia los Áridos, y le pidió a Waxillium que se uniese al grupo de búsqueda. Al no recibir una respuesta clara por parte de Wax, le saludó cuadrándose y se retiró.

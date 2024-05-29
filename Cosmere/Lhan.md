@@ -9,6 +9,7 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Enhorabuena. Has encontrado tu camino para el trabajo más fácil del mundo.*”
 \-El hermano Lhan a Pai[2]
@@ -28,7 +29,7 @@ El hermano **Lhan**, también conocido como **Kharat**, es un [[Fervoroso\|fervo
 Lhan es un hombre rollizo de ojos verdes. Es un [[Fervoroso\|fervoroso]] de la [[Aesudan\|reina]] egoísta y egocéntrico que ama la facilidad de la vida que se le ha dado, aunque ve la hipocresía de la misma. Trabaja lo menos posible y come todo lo que puede. No ve ningún problema en la cantidad de comida que se desperdicia en el [[Palacio de Kholinar\|Palacio de Kholinar]], ni en que la gente del reino sea pobre y pase hambre. Aunque muchos fervorosos escriben poesía sobre la reina, Lhan cree que esto se parece demasiado a un trabajo y nunca lo hace.
 
 ## Historia
-En algún momento durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Lhan fue asignado para mostrar a [[Pai\|Pai]] el palacio de la reina en [[Kholinar\|Kholinar]]. Le explicó que la reina daba a sus fervorosos vidas fáciles porque temía que el Todopoderoso estuviese disgustado con ella. Intentó mostrar a Pai todos los maravillosos lujos del palacio, pero no consiguió hacerla feliz con ninguno de ellos. Se horrorizó a la mañana siguiente cuando vio su graffiti describiendo cómo la reina se parecía a cada uno de los [[Diez locos\|diez locos]].
+En algún momento durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Lhan fue asignado para mostrar a [[Pai\|Pai]] el palacio de la reina en [[Kholinar\|Kholinar]]. Le explicó que la reina daba a sus [[Fervoroso\|fervorosos]] vidas fáciles porque temía que el [[Todopoderoso\|Todopoderoso]] estuviese disgustado con ella. Intentó mostrar a Pai todos los maravillosos lujos del palacio, pero no consiguió hacerla feliz con ninguno de ellos. Se horrorizó a la mañana siguiente cuando vio su graffiti describiendo cómo la reina se parecía a cada uno de los [[Diez locos\|diez locos]].
 
 >“*No provoques una tormenta, chica. Eso no interesa a nadie...*”
 \-Kharat a Shallan[1]

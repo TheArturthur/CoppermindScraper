@@ -7,6 +7,7 @@
 |**Especie**|[[Cr%C3%ADpticos\|Crípticos]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*¡Maravillosa y bendita contradicción de sinsentido y complicación humana de estar viva!*”
 \-Mosaico[1]

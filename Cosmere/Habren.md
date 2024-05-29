@@ -8,6 +8,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Lord Habren** es un joven miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]] en [[Scadrial\|Scadrial]].
 La Casa Habren no era una casa [[Noble\|noble]] importante. Sin embargo, eran primos lejanos de la poderosa [[Casa Elariel\|Casa Elariel]], y presumiblemente usaron esa influencia para conseguirle un asiento en la Asamblea a lord Habren.

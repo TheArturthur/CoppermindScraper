@@ -6,6 +6,7 @@
 |**Oficio**|Comerciante|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Macob** es el jefe de una caravana de mercaderes en [[Roshar\|Roshar]].
 

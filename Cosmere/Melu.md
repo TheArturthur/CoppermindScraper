@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
 >“*Quiero que comprendan con qué facilidad podría haberles partido los cráneos. Pero… has hecho bien. Me alegro de no haber tenido que descuartizar a nadie.*”
 \-Melu a Eshonai[2]

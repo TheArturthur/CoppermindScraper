@@ -8,6 +8,7 @@
 |**Etnia**|[[De Shinovar\|de Shinovar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Malad-hijo-Zent** fue un soldado [[Shin\|shin]] durante la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] que luchó en el [[Aharietiam\|Aharietiam]]. Vestía envolturas de fibra de [[Lavis\|lavis]] con sandalias de piel de cerdo y luchaba con una lanza de punta de bronce.
 [[Dalinar Kholin\|Dalinar Kholin]] ocupó el lugar de Malad en una de sus primeras [[Visiones de Dalinar\|visiones]], en la que fue testigo de cómo otro Shin descubría las [[Hoja de Honor\|Hojas de Honor]] abandonadas.

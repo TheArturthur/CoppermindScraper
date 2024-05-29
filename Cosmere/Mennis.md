@@ -6,6 +6,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 >“*Algunos no podemos combatir, así que hacemos otras cosas.*”
 \-Mennis sobre su papel en la revuelta skaa.[1] 

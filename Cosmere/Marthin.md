@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 >“*¡Cómo se atreve! ¡No me quedaré quieto, Marthin! ¡Soy alguacil de la Octava Guardia!*”
 \-Lord Peterus a Marthin[1]

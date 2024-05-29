@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Comprendo tu argumento, Dalinar. No hace falta que sigas golpeándome la cara con la roca.*”
 \-Vamah a Dalinar[5]

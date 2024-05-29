@@ -9,6 +9,7 @@
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*La Emoción no odiaba. Aunque algunos spren podían tomar decisiones, otros eran como animales, primitivos, guiados por una sola e irresistible directriz. Vivir. Arder. Reír. O en este caso, **luchar**.*”
 \-Dalinar cuando captura a Nergaoul.[2]

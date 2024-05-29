@@ -10,6 +10,7 @@
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*¡Y todo el mundo se quebró! Las rocas temblaron con sus pasos, y las piedras se alzaron hacia los cielos. ¡Morimos! ¡Morimos!*”
 \-Susurro de muerte de Mapas[1]

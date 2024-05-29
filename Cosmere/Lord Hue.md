@@ -8,6 +8,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Lord Hue** es un [[Noble\|noble]] miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]].
 Durante la destitución del rey [[Elend Venture\|Elend Venture]], él vota por el rey [[Ashweather Cett\|Ashweather Cett]] y luego, una vez que lord [[Habren\|Habren]] cambia su voto por lord [[Ferson Penrod\|Ferson Penrod]], Hue lo imita, asegurando la victoria de Penrod.

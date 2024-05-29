@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Kharbranth\|de Kharbranth]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Es demasiado frecuente que quienes escriben la historia se obsesionen con los generales y los eruditos, en detrimento de los trabajadores silenciosos que se ocupan de todo.*”
 \-Taravangian, sobre el papel de Maben en el Diagrama[1]

@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Matain** es un [[Alezi\|alezi]] [[Predicetormentas\|predicetormentas]] en [[Roshar\|Roshar]] que sirve a las órdenes del rey [[Gavilar Kholin\|Gavilar Kholin]].
 

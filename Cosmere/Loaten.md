@@ -7,6 +7,7 @@
 |**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 >“*Tienes mala reputación en el [[Lado Oscuro\|Lado Oscuro]]. Un traidor a la Dinastía, supuestamente ejecutado por intentar asesinar al mismísimo emperador [[Skathan\|Skathan]].*”
 \- Khrissalla a Loaten.[1]

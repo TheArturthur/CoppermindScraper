@@ -9,8 +9,6 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 Para el libro del mismo nombre, ver [[The Night Brigade\|The Night Brigade]].
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 >“*No conozco ninguna otra fuerza más peligrosa.*”
 \-Nómada[1]
 

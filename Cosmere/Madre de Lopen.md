@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 >“*En la casa de una mujer herdaziana, ningún cargo de nadie puede más que el suyo. ¡No voy a dejar que vengan y descubran que no estás adecuadamente alimentado!*”

@@ -5,6 +5,7 @@
 |**Oficio**|Escriba|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Malli** es un escriba en [[Roshar\|Roshar]]. Está casada con el [[Saltamundos\|saltamundos]] [[Scadrial\|scadriano]] llamado [[Felt\|Felt]]. No se conocen los orígenes de Malli, y no está claro si comparte (o siquiera si es consciente) de las habilidades de Felt.
 

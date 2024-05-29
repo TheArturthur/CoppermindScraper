@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[Del Lado Diurno\|del Lado Diurno]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Lokmlen** es un criminal [[Kerztiano\|kerztiano]] que trabaja para [[Sharezan\|Sharezan]] en [[Kezare\|Kezare]], en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
 

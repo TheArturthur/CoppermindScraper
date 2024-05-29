@@ -7,6 +7,7 @@
 |**Grupo**|Ejército de Amaram|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Mesh** es un jefe de escuadrón del ejército del brillante señor [[Meridas Amaram\|Meridas Amaram]].
 

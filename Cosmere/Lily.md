@@ -6,6 +6,7 @@
 ||
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 **Lily** es un pequeño perro terrier y mascota de [[Kaise\|Kaise]] mientras está viviendo en [[Scadrial\|Scadrial]].
 

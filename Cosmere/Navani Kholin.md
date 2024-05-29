@@ -18,10 +18,11 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-**Navani Kholin** es una [[Alezi\|alezi]] [[Ojos claros\|ojos claros]] que vive en [[Roshar\|Roshar]]. Es la viuda de [[Gavilar Kholin\|Gavilar Kholin]] y la madre de [[Jasnah\|Jasnah]] y [[Elhokar Kholin\|Elhokar Kholin]]. Era la cuñada de [[Dalinar\|Dalinar]] y tía de [[Adolin\|Adolin]] y [[Renarin Kholin\|Renarin Kholin]] hasta que se casó con el primero. También es una afamada erudita y [[Artifabriano\|artifabriana]].
+**Navani Kholin** es una [[Alezi\|alezi]] [[Ojos claros\|ojos claros]] que vive en [[Roshar\|Roshar]]. Es la viuda de [[Gavilar Kholin\|Gavilar Kholin]] y la madre de [[Jasnah\|Jasnah]] y [[Elhokar Kholin\|Elhokar Kholin]]. Era la cuñada de [[Dalinar\|Dalinar]] y tía de [[Adolin\|Adolin]] y [[Renarin Kholin\|Renarin Kholin]] hasta que se casó con Dalinar. También es una afamada erudita y [[Artifabriano\|artifabriana]].
 
 ## Sumario
 

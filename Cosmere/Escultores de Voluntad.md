@@ -5,7 +5,7 @@
 ||
 |||
 |**[[Heraldo\|Heraldo]]**|[[Kalak\|Kalak]]|
-|**[[Spren\|Spren]]**|[[Lumispren\|Lumispren]]|
+|**[[Spren\|Spren]]**|[[Alcanzador\|Alcanzador]]|
 |**[[Potencia\|Potencias]]**|[[Transportaci%C3%B3n\|Transportación]] y [[Cohesi%C3%B3n\|Cohesión]]|
 |**Spren de [[Armadura esquirlada\|armadura]]**|*Desconocido*|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
@@ -14,7 +14,7 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-La **Orden de los Escultores de Voluntad** es una orden de los [[Caballeros Radiantes\|Caballeros Radiantes]] en [[Roshar\|Roshar]]. Forman [[V%C3%ADnculo Nahel\|vínculos Nahel]] con los [[Lumispren\|lumispren]], también conocidos como Alcanzadores.
+La **Orden de los Escultores de Voluntad** es una orden de los [[Caballeros Radiantes\|Caballeros Radiantes]] en [[Roshar\|Roshar]]. Forman [[V%C3%ADnculo Nahel\|vínculos Nahel]] con los [[Alcanzador\|Alcanzador]], también conocidos como lumispren.
 Los Escultores de Voluntad son [[Potenciaci%C3%B3n\|potenciadores]] que utilizan las [[Potenciaci%C3%B3n\|Potencias]] de Transportación y Cohesión, y están asociados a la [[Piedrabase\|piedrabase]] amatista.
 
 ## Sumario
@@ -66,7 +66,7 @@ La Transportación permite a los Escultores de Voluntad transportar sus seres f�
 La Cohesión les permite alterar la forma de los objetos sólidos de una manera que se denomina modelado de la piedra. Esta potencia permite a un Escultor de Voluntad o a un [[Custodio de Piedra\|Custodio de Piedra]] hacer que la piedra sea más maleable, como la arcilla, o incluso un líquido. El Escultor de Voluntad puede entonces remodelar la piedra según sus deseos. Esta potencia también conecta al Escultor de Voluntad con los spren de la piedra de una manera profunda y fundamental, aunque todavía no se conoce su alcance.
 
 ### Regios
-Cuando un Escultor de Voluntad es además un [[Regio\|Regio]], aparecen habilidades adicionales. Aun habiendo un vacíospren en la gema corazón del cantor, el lumispren lo mantiene atrapado y protege a sus Escultores de Voluntad de la influencia de los vacíospren. Esto permite al Radiante conservar sus habilidades y cambiar entre ojos rojos y normales, permitiéndoles mezclarse con las fuerzas de Odium. Los Escultores de Voluntad Regios son capaces de usar tanto luz tormentosa como luz del vacío para su potenciación. Estos Escultores de Voluntad también son altamente resistentes a los [[Fabrial supresor\|fabriales supresores]] que evitan que los Radiantes potencien.
+Cuando un Escultor de Voluntad es además un [[Regio\|Regio]], aparecen habilidades adicionales. Aun habiendo un vacíospren en la gema corazón del cantor, el Alcanzador lo mantiene atrapado y protege a sus Escultores de Voluntad de la influencia de los vacíospren. Esto permite al Radiante conservar sus habilidades y cambiar entre ojos rojos y normales, permitiéndoles mezclarse con las fuerzas de Odium. Los Escultores de Voluntad Regios son capaces de usar tanto luz tormentosa como luz del vacío para su potenciación. Estos Escultores de Voluntad también son altamente resistentes a los [[Fabrial supresor\|fabriales supresores]] que evitan que los Radiantes potencien.
 
 ## Historia
  

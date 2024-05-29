@@ -9,6 +9,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Milev** era un skaa de piel oscura de [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]].
 Actuó como el segundo al mando de [[Camon\|Camon]] en la banda de ladrones y recibió el liderazgo de la banda por parte de [[Kelsier\|Kelsier]].

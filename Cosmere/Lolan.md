@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Lolan** es un sirviente en el palacio de [[Mercestrella\|Mercestrella]] en [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]] en torno al año 327.
 Cuando [[Vasher\|Vasher]] se infiltró en el palacio, se encontró con un grupo de cuatro sirvientes en el pasillo. Utilizó su táctica de distracción habitual de lanzar a [[Sangre Nocturna\|Sangre Nocturna]] (en su vaina) al grupo, y también ató a [[Taff\|Taff]] con una cuerda [[Despertar\|despertada]]. Lolan cogió a Sangre Nocturna, pensando que podría usarla contra el atacante, mientras Rariv y el sirviente restante corrían en busca de ayuda. Vasher entonces noqueó a Lolan mientras estaba distraído con la espada. Taff fue asesinado posteriormente por [[Denth\|Denth]], pero Lolan se salvó, presumiblemente porque estaba inconsciente y no habría podido identificar a Denth.

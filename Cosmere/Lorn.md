@@ -7,6 +7,7 @@
 |**Especie**|[[Heklo\|Heklo]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Cit%C3%B3nica (libro)\|Citónica]]*|
 
 >“*No van a dejar que salgas de aquí nunca, Lorn. Les traes sin cuidado. ¿Por qué sigues fiel a ellos?*”
 \-Palo a Lorn[1]

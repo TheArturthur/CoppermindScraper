@@ -11,6 +11,7 @@
 |**Especie**|[[Insomne\|Insomne]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
 
 **Nikliasorm**, también conocido como **Nikli**, es un [[Dysian aimiano\|dysian aimiano]] que vive en [[Roshar\|Roshar]]. Tiene al menos 400 años, aunque es joven para su especie.
 

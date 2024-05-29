@@ -7,6 +7,7 @@
 |**Residencia**|[[Yeddaw\|Yeddaw]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Mik** es un niño con una herida en la cabeza que vive en [[Yeddaw\|Yeddaw]], en [[Roshar\|Roshar]].
 

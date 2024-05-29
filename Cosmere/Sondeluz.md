@@ -14,6 +14,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Todo esto, porque no pude averiguar cómo morir.*”
 \-Sondeluz[3]
@@ -70,7 +71,7 @@ También es muy hábil en el juego del [[Tarachin\|tarachin]], aunque no tiene n
 
 ## Historia
 ### Antes de Retornar
-Antes de ser un Retornado, Sondeluz era un contable llamado **Stennimar** que a menudo se dedicaba a descubrir fraudes o malversaciones mirando en los libros de contabilidad para encontrar discrepancias. Stennimar y su sobrina [[Tatara\|Tatara]] solían salir a navegar, ya que era una afición de Llarimar, su hermano. Durante una de las travesías, tomaron prestado el barco *[[Pantera Roja\|Pantera Roja]]* y se hicieron a la mar, y se encontraron con una terrible tormenta. En el caos, una enorme ola arrastró a Tatara por la borda y cayó a las furiosas aguas. Stennimar saltó al océano y consiguió atarla a una cuerda a pesar de que apenas sabía nadar. Si bien logró salvar la vida de Tatara, Stennimar no pudo salvarse a sí mismo y se ahogó en las profundidades. Tras su muerte, [[Dotaci%C3%B3n\|Dotación]] concedió a Stennimar una visión de guerra y destrucción. Se le ofreció la opción de Retornar y evitar que esto ocurriera, y la aceptó. Su Retorno restauró la fe de su hermano mayor, [[Llarimar\|Llarimar]], que se convirtió en su sumo sacerdote.
+Antes de ser un Retornado, Sondeluz era un contable llamado **Stennimar** que a menudo se dedicaba a descubrir fraudes o malversaciones mirando en los libros de contabilidad para encontrar discrepancias. Stennimar y su sobrina [[Tatara\|Tatara]] solían salir a navegar, ya que era una afición de su hermano, Llarimar. Durante una de las travesías, tomaron prestado el barco *[[Pantera Roja\|Pantera Roja]]* y se hicieron a la mar, y se encontraron con una terrible tormenta. En el caos, una enorme ola arrastró a Tatara por la borda y cayó a las furiosas aguas. Stennimar saltó al océano y consiguió atarla a una cuerda a pesar de que apenas sabía nadar. Si bien logró salvar la vida de Tatara, Stennimar no pudo salvarse a sí mismo y se ahogó en las profundidades. Tras su muerte, [[Dotaci%C3%B3n\|Dotación]] concedió a Stennimar una visión de guerra y destrucción. Se le ofreció la opción de Retornar y evitar que esto ocurriera, y la aceptó. Su Retorno restauró la fe de su hermano mayor, [[Llarimar\|Llarimar]], que se convirtió en su sumo sacerdote.
 
 ### Tras Retornar
   Tomando su <<Aliento\|aliento>> semanal de un niño para poder seguir viviendo.

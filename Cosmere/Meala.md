@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Meala** es la doncella principal del palacio de [[Iadon\|Iadon]] en [[Arelon\|Arelon]] en [[Sel\|Sel]].
 

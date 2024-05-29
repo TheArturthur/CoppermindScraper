@@ -8,9 +8,10 @@
 |**Vinculado con**|[[Wyndle\|Wyndle]], [[Aviar de Gereh\|un aviar]]|
 |**Oficio**|Ladrona|
 |**Grupo**|Banda de Huqin , [[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
-|**Nacionalidad**|[[De las islas Reshi\|de las islas Reshi]]|
+|**Etnia**|[[De las islas Reshi\|de las islas Reshi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -205,7 +206,7 @@ Lift quedó atada e inconsciente, cerca de los padres de Kaladin. La llevaron a 
 Con el tiempo, su relación mejora enormemente. Wyndle aprendre a entender lo que se esconde tras la bravuconería de Lift y empieza a preocuparse por su bienestar, mientras que Lift empieza a tratarlo como un compañero real en lugar de como una escalera portátil, y finalmente deja de referirse a él como Portador del Vacío. En el momento de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], los dos forman un dúo competente, a pesar de que Wyndle aún prefiere transformarse en una porra en lugar de en una [[Hoja esquirlada\|hoja esquirlada]].
 
 ### Yanagawn
-Lift conoció a [[Yanagawn\|Gawx]] cuando se unió a la banda de [[Huqin\|Huqin]], en [[Azimir\|Azimir]]. Los dos se colaron juntos en el Palacio de Bronce y cuando uno de los aprendices de [[Nale\|Nale]] mató a Gawx, Lift le salvó la vida, a lo que el nuevo [[Aqasix Supremo\|Aqasix Supremo]] respondió perdonándola. Esto forja un fuerte vínculo entre los dos chicos y, después de todos estos acontecimientos, Lift se queda en Azimir a su lado. Cuando ella se marcha a [[Yeddaw\|Yeddaw]] por un espacio corto de tiempo, él está encantado de otorgarle su autoridad ante el gobierno local. 
+Lift conoció a [[Yanagawn\|Gawx]] cuando se unió a la banda de [[Huqin\|Huqin]], en [[Azimir\|Azimir]]. Los dos se colaron juntos en el Palacio de Bronce y cuando uno de los aprendices de [[Nale\|Nale]] le seccionó la garganta a Gawx, Lift le salvó la vida, a lo que el nuevo [[Aqasix Supremo\|Aqasix Supremo]] respondió perdonándola. Esto forja un fuerte vínculo entre los dos chicos y, después de todos estos acontecimientos, Lift se queda en Azimir a su lado. Cuando ella se marcha a [[Yeddaw\|Yeddaw]] por un espacio corto de tiempo, él está encantado de otorgarle su autoridad ante el gobierno local. 
 Cuando [[Dalinar\|Dalinar]] empieza a ganarse el favor de los azishianos, Yanagawn la considera uno de sus consejeros más cercanos y valiosos, y aunque muchas veces debe escuchar al resto de sus consejeros, ella se esfuerza por ayudarlo lo mejor que puede. Aunque haya situado un guardia a la entrada de sus aposentos cuando la flota se marcha de Ciudad Thaylen, no le molesta que la chica los derribe y se marche.
 
 ### Dalinar

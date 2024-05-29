@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Limmi** es la jefa de personal de la planta baja para la [[Casa Ladrian\|Casa Ladrian]] en [[Scadrial\|Scadrial]].
 

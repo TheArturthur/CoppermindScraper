@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Malan** es un oficial militar [[Alezi\|alezi]] [[Ojos claros\|ojos claros]] en [[Roshar\|Roshar]].
 

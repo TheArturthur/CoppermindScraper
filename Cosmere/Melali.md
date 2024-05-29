@@ -6,6 +6,7 @@
 |**Religión**|[[Vorinismo\|Vorinismo]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Melali** es una dama de ojos claros de las [[Llanuras Quebradas\|Llanuras Quebradas]].
 

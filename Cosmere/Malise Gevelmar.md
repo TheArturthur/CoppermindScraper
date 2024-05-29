@@ -14,6 +14,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Malise Gevelmar** es una [[Ojos claros\|ojos claros]] de [[Jah Keved\|Jah Keved]] en [[Roshar\|Roshar]]. Es la segunda esposa de [[Lin Davar\|Lin Davar]] y la madrastra de sus hijos, incluyendo a [[Shallan\|Shallan]].
 

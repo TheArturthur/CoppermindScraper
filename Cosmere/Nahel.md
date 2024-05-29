@@ -46,7 +46,7 @@ En su origen, el vínculo Nahel otorgaba poder a individuos que no tenían ningu
 
 
 ### Creación
-Los spren parecen vincularse con personas que comparten su perspectiva o personalidad; sin embargo, también parecen buscar compañeros que los complementen. El spren vinculado tiene más probabilidades de ser del sexo opuesto al de su par, pero esto no es en absoluto una norma estricta, y hay numerosos potenciadores con spren del mismo sexo, como [[Malata\|Malata]] con [[Chispa\|Chispa]] o [[Renarin\|Renarin]] con [[Glys\|Glys]]. Los potenciadores son capaces de distinguir instintivamente sus spren de los demás. Una persona es capaz de vincular a dos spren diferentes, aunque a la mayoría de los spren no les va a gustar. Una persona también puede vincularse con dos spren de la misma Orden, aunque esto no aumentará sus poderes o su fuerza. Los spren pueden, en teoría, vincularse con otro spren.
+Los spren parecen vincularse con personas que comparten su perspectiva o personalidad; sin embargo, también parecen buscar compañeros que los complementen. El spren vinculado tiene más probabilidades de ser del sexo opuesto al de su par, pero esto no es en absoluto una norma estricta, y hay numerosos potenciadores con spren del mismo sexo, como [[Malata\|Malata]] con [[Chispa\|Chispa]] o [[Renarin\|Renarin]] con [[Glys\|Glys]]. Los potenciadores son capaces de distinguir instintivamente sus spren de los demás.{{book ref|sa4|10}} Una persona es capaz de vincular a dos spren diferentes, aunque a la mayoría de los spren no les va a gustar. Una persona también puede vincularse con dos spren de la misma Orden, aunque esto no aumentará sus poderes o su fuerza. Los spren pueden, en teoría, vincularse con otro spren.
 El modo en que se decide el vínculo varía, aunque requiere voluntad. Algunos spren son muy exigentes, mientras que otros no prestan mucha atención a la moralidad de su potencial compañero. Hay spren que eligen individualmente a las personas con las que se vinculan, mientras que otros son más organizados y toman la decisión mediante un comité para luego enviar a uno de los suyos a que se vincule.
 La formación de un vínculo utiliza las propiedades del [[Cosmere\|Cosmere]] de [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]] de alguna manera; disminuir esos atributos, como por ejemplo almacenándolos en una [[Mente de metal\|mente de metal]], afectaría al vínculo. También es más difícil formar un vínculo con un ser muy Investido, como un [[Retornado\|Retornado]] debido a que la Investidura se resiste a la Investidura. También es menos probable que los spren se vinculen con una persona que utilice un clavo [[Hemalurgia\|hemalúrgico]]. Esto se puede contrastar con el [[V%C3%ADnculo Luhel\|vínculo Luhel]], que utiliza principalmente la materia física.
 
@@ -99,11 +99,10 @@ Para una lista completa de potenciadores, ver :Categoría:Potenciadores.
 |[[Dalinar\|Dalinar]]|[[Forjador de V%C3%ADnculos\|Forjador de Vínculos]]|*Único*|[[Padre Tormenta\|Padre Tormenta]]|
 |[[Lift\|Lift]]|[[Danzante del Filo\|Danzante del Filo]]|[[Cultivacispren\|Cultivacispren]]|[[Wyndle\|Wyndle]]|
 |[[Lopen\|Lopen]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Rua\|Rua]]|
-|[[Huio\|Huio]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Caelinora\|Caelinora]]|
 |[[Teft\|Teft]]|[[Corredor del Viento\|Corredor del Viento]]|[[Honorspren\|Honorspren]]|[[Phendorana\|Phendorana]]|
 |[[Szeth\|Szeth]]|[[Rompedor del Cielo\|Rompedor del Cielo]]|[[Altospren\|Altospren]]|*[[Altospren de Szeth\|Desconocido]]*|
 |[[Hoid\|Hoid]]|[[Tejedores de Luz\|Tejedor de Luz]]|[[Cr%C3%ADptico\|Críptico]]|[[Dise%C3%B1o\|Diseño]]|
-|[[Venli\|Venli]]|[[Escultor de Voluntad\|Escultora de Voluntad]]|[[Lumispren\|Lumispren]]|[[Timbre\|Timbre]]|
+|[[Venli\|Venli]]|[[Escultor de Voluntad\|Escultora de Voluntad]]|[[Alcanzador\|Alcanzador]]|[[Timbre\|Timbre]]|
 |[[Rlain\|Rlain]]|[[Vigilante de la Verdad\|Vigilante de la Verdad]]|[[Brumaspren\|Brumaspren]]|[[Tumi\|Tumi]]|
 |[[Navani\|Navani]]|[[Forjador de V%C3%ADnculos\|Forjadora de Vínculos]]|*Único*|El [[Hermano\|Hermano]]|
 

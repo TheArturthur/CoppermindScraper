@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Lokkall** es el actual [[Lord almirante\|lord almirante]] de [[Lossand\|Lossand]] en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]]. Es el taisha a la cabeza del [[Tim%C3%B3n\|Timón]]. Como tal, no tiene poder real, ya que todo el verdadero poder del Timón pertenece al Círculo de Navieros.
 

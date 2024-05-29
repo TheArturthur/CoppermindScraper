@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Madame Penfor** es la responsable de Pashadon Hall, un alojamiento de muejeres de la [[Universidad de Elendel\|Universidad de Elendel]], en [[Scadrial\|Scadrial]].
 

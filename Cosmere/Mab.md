@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Mab** es una cocinera de [[Idris\|Idris]] en [[Nalthis\|Nalthis]].
 Nació en Idris, pero se marchó a vivir a [[Hallandren\|Hallandren]] durante su adolescencia, convirtiéndose con el tiempo en una reputada cortesana en [[T'Telir\|T'Telir]]. Entregó su [[Aliento\|aliento]] a un cliente del que se había enamorado, y él la abandonó después. Cuando era una [[Apagado\|apagada]], empezó a tener más problemas para encontrar trabajo, viéndose obligada con el tiempo a regentar un prostíbulo humilde, mientras utilizaba viejos contactos para conseguir clientes. Una vez que ganó suficiente dinero, compró otro aliento y se marchó para volver a Idris, convirtiéndose en cocinera en las instalaciones.

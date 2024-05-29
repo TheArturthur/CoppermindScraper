@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Mellis** es un [[Diurnense\|diurnense]] que vive en [[Kezare\|Kezare]], la capital de [[Lossand\|Lossand]] en [[Taldain\|Taldain]]. Es el marido de la [[Trackt\|trackt]] superior [[Ais\|Ais]] y padre de [[Melloni\|Melloni]].
 

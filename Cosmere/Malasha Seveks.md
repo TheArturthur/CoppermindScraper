@@ -7,6 +7,7 @@
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Malasha Seveks** es una mujer [[Ojos claros\|ojos claros]] en [[Roshar\|Roshar]] que fue cortejada por [[Adolin Kholin\|Adolin Kholin]].
 

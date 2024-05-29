@@ -7,10 +7,11 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Migs** es líder de una banda de [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]].
 Migs dirigía una banda de ocho delincuentes. En 342 [[Catacendro\|PC]], la banda intentó algún tipo de atraco y las cosas salieron muy mal. Migs disparó a dos policías, aunque sobrevivieron a sus heridas.
-Migs y su banda se atrincheraron en su escondite, ubicado en un viejo pub. Se barricaron durante la noche y la policía intentó negociar, diciéndole a Migs que no sería colgado por sus crímenes, pero se negó a entregarse. Por la mañana, [[Wax\|Wax]] y [[Wayne\|Wayne]] fueron llamados para asaltar el escondite a pesar de que la boda de Wax con [[Steris\|Steris]] estaba programada más tarde ese día. Wax atravesó fácilmente la barricada de la banda, atrayendo su fuego y desviándolo con una burbuja de acero. Mientras tanto, Wayne se infiltró sin ser detectado; golpeó a Migs y noqueó a varios de sus matones (incluyendo [[Guillian\|Guillian]] y [[Slink\|Slink]]) mientras Wax pateaba a [[Drawers\|Drawers]] en la barbilla. Migs indicó que prefería morir antes que ser capturado, y preguntó por qué Wax no los había matado a todos con sus poderes [[Alomancia\|alománticos]]. Wax le dijo a Migs que no valía la pena matarlo, y finalmente lo convenció de que se rindiera.
+Migs y su banda se atrincheraron en su escondite, ubicado en un viejo pub. Se barricaron durante la noche y la policía intentó negociar, diciéndole a Migs que no sería colgado por sus crímenes, pero se negó a entregarse. Por la mañana, [[Waxillium Ladrian\|Waxillium Ladrian]] y [[Wayne\|Wayne]] fueron llamados para asaltar el escondite a pesar de que la boda de Wax con [[Steris Harms\|Steris Harms]] estaba programada más tarde ese día. Wax atravesó fácilmente la barricada de la banda, atrayendo su fuego y desviándolo con una burbuja de acero. Mientras tanto, Wayne se infiltró sin ser detectado; golpeó a Migs y noqueó a varios de sus matones (incluyendo [[Guillian\|Guillian]] y [[Slink\|Slink]]) mientras Wax pateaba a [[Drawers\|Drawers]] en la barbilla. Migs indicó que prefería morir antes que ser capturado, y preguntó por qué Wax no los había matado a todos con sus poderes [[Alomancia\|alománticos]]. Wax le dijo a Migs que no valía la pena matarlo, y finalmente lo convenció de que se rindiera.
 
 ## Miembros conocidos de la banda de Migs
 [[Guillian\|Guillian]]

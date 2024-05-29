@@ -3,18 +3,18 @@
 
 |**Opais**|
 |-|-|
-|**Familia**|
 |**Padres**|[[Karata\|Karata]]|
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Opais** es la hija de [[Karata\|Karata]] que vivió en [[Sel\|Sel]] durante la [[%C3%89poca tard%C3%ADa\|época tardía]].
 
 ## Historia
-Cuando Karata fue tomada por la [[Shaod\|Shaod]], nadie le explicó a Opais lo que le había ocurrido a su madre. Vivía con su padre en los aposentos de la guardia del palacio de [[Iadon\|Iadon]] en [[Kae\|Kae]].
+Cuando [[Karata\|Karata]] fue tomada por la [[Shaod\|Shaod]], nadie le explicó a Opais lo que le había ocurrido a su madre. Vivía con su padre en los aposentos de la guardia del palacio del rey [[Iadon\|Iadon]] en [[Kae\|Kae]].
 Durante su estancia en [[Elantris (ciudad)\|Elantris]], los niños que veía Karata le recordaban a Opais, por lo que hizo de su cuidado la prioridad de su banda.
-Karata intentó escabullirse de Elantris tres veces para encontrar a su hija, pero siempre era atrapada antes de conseguirlo. Cuando estaba a punto de destruir Nueva Elantris, [[Raoden\|Raoden]] se ofreció a llevarla al palacio a cambio de que dejara en paz a su gente.
+Karata intentó escabullirse de Elantris tres veces para encontrar a su hija, pero siempre era atrapada antes de conseguirlo. Cuando estaba a punto de destruir [[Nueva Elantris\|Nueva Elantris]], [[Raoden\|Raoden]] se ofreció a llevarla al palacio a cambio de que dejara en paz a su gente.
 Raoden la consiguió introducir en palacio y Karata dejó una carta explicando lo que le había ocurrido, así como un collar que había colado entre los guardias, junto a una Opais dormida.
 
 ## Notas

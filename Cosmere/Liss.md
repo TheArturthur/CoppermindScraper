@@ -8,6 +8,7 @@
 |**Oficio**|Asesina|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Liss**, que se hace llamar **Doliente**, es una de las asesinas más hábiles de [[Roshar\|Roshar]]. Como asesina que opera en la zona de [[Kholinar\|Kholinar]], en la región de predominio [[Vorin\|vorin]] del este de Roshar, su género es un secreto muy bien guardado. En un momento de su carrera, fue contratada por [[Jasnah Kholin\|Jasnah Kholin]] para espiar a su cuñada, [[Aesudan Kholin\|Aesudan]].
 

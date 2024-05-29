@@ -10,6 +10,7 @@
 |**Etnia**|[[Viciense\|Viciense]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*Cielo Siete. Identificador: Marea. Confirmada.*”
 \-[2]

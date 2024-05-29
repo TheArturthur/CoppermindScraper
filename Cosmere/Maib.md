@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Lagopuro\|de Lagopuro]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Vun Makak te mire. Mira qué bien. ¿Cómo voy a capturarte, hombre?*”
 \-Maib a Ishikk después de que su cuenco de sopa regalado fuese contrarrestado con un kolgril por parte de Ishikk.[1]

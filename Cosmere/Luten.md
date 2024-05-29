@@ -6,6 +6,7 @@
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Luten** es un habitante de [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
 Él, [[Horl\|Horl]], [[Balsas\|Balsas]] y otros intentan persuadir por la fuerza a [[Lirin\|Lirin]] para que les entregue las esferas que obtuvo del brillante señor [[Wistiow\|Wistiow]]. Anteriormente, [[Lirin\|Lirin]] le había salvado la pierna gracias a una operación. Cojeaba después de la operación.

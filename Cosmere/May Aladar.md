@@ -9,6 +9,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **May Aladar** es una [[Ojos claros\|ojos claros]] miembro de la nobleza en [[Roshar\|Roshar]]. Es la única hija conocida del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Aladar\|Aladar]].
 

@@ -9,6 +9,7 @@
 |**Especie**|[[Seon\|Seon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Opa** es un [[Seon\|seon]] propiedad del duque [[Roial\|Roial]].
 Después del [[Reod\|Reod]], Roial guarda al seon en su casa, pues ya no estaba de moda tenerlos. Su nombre significa "flor", y supervisaba a los jardineros de la finca de Roial. Tiene una voz severa y formal, lo que [[Sarene\|Sarene]] pensó que podría deberse a que la gente de Arelon temía la magia [[Elantris (ciudad)\|elantrina]].

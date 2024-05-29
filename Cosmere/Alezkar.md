@@ -34,7 +34,7 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 
 2. [[#Caracter.C3.ADsticas geogr.C3.A1ficas]] 
 2. [[#Clima]] 
-2. [[#Ecology]] 
+2. [[#Ecolog.C3.ADa]] 
 
 2. [[#Flora]] 
 2. [[#Fauna]] 
@@ -138,9 +138,9 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 4. [[#Roles de g.C3.A9nero]] 
 4. [[#Juegos.2C deportes y entretenimiento]] 
 
-4. [[#Festivals]] 
-4. [[#Games]] 
-4. [[#Sports]] 
+4. [[#Festivales]] 
+4. [[#Juegos]] 
+4. [[#Deportes]] 
 
 
 
@@ -190,12 +190,48 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 
 6 Ejército. [[#Ej.C3.A9rcito]] 
 
-6. [[#Uniformes]] 
-6. [[#Armamento]] 
-6. [[#Sueldos]] 
-6. [[#Esquirladas]] 
-6. [[#Caballeros Radiantes]] 
-6. [[#Cuadrillas de los puentes]] 
+6. [[#Enlistment and Wages]] 
+
+6. [[#Enlistment]] 
+6. [[#Wages]] 
+
+
+6. [[#Command structure]] 
+
+6. [[#Leadership]] 
+6. [[#Ranks]] 
+
+
+6. [[#Equipment]] 
+
+6. [[#Uniforms]] 
+6. [[#Armor]] 
+6. [[#Weaponry]] 
+
+
+6. [[#Strategy]] 
+
+6. [[#Troops]] 
+6. [[#Formations]] 
+6. [[#Battlefield tactics]] 
+6. [[#Shardbearer tactics]] 
+6. [[#Bridge Crews]] 
+6. [[#Communication on the battlefield]] 
+6. [[#Planning and army movement]] 
+6. [[#Soulcasters and supplies]] 
+6. [[#Warcamps]] 
+
+
+6. [[#Training]] 
+
+6. [[#Drills]] 
+6. [[#Kata]] 
+6. [[#Shardbearer training]] 
+6. [[#Training grounds]] 
+6. [[#Punishments]] 
+
+
+6. [[#Fortifications]] 
 
 
 7 Economía. [[#Econom.C3.ADa]] 
@@ -215,7 +251,7 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 
 ## Etimología
 El significado del nombre de *Alezkar* es incierto, aunque proviene de *Alezela*, de los Reinos Plateados, que más tarde se convirtió en la actual Alezkar. El gentilicio «alezi» proviene de Alezkar.
-Los alezi reciben el nombre de *tagarut* por parte de los [[/wiki/Azir#azishianos]], término que significa "Breakers" in Azish. This refers to their destructive nature during their invasions of Azir. Los cantores se refieren a Alezkar como *Avendla*, que en [[Cantor\|cantor]] antiguo quiere decir *Tierra del Segundo Avance*.
+Los alezi reciben el nombre de *tagarut* por parte de los [[Azir\|azishianos]], término que significa «los rompedores» en azishiano. Esto se refiere a su naturaleza destructiva durante sus invasiones a Azir. Los cantores se refieren a Alezkar como *Avendla*, que en [[Cantor\|cantor]] antiguo quiere decir *Tierra del Segundo Avance*.
 
 ## Geografía
   Mapa de Alezkar. Los territorios alezi (salvo las <<Llanuras Quebradas\|Llanuras Quebradas>>) están marcados de forma más oscura.
@@ -230,16 +266,16 @@ Tiene multitud de ríos que lo atraviesan, siendo los dos mayores el [[R%C3%ADo 
 
 ### Clima
 Debido a lo muy al este que se encuentra, Alezkar sufre altas tormentas particularmente fuertes. Esto obliga a que sus asentamientos sean construidos primordialmente en el lado a sotavento de los laits, que, debido a la protección que otorgan frente al viento de las altas tormentas, también cuentan con una vegetación más frondosa.
-Like the rest of Roshar, Alethkar does not experience true seasons, with them instead being defined by current temperature, climate, and storms, unrelated to irradiance. The Alethi utilise stormwardens to predict the coming of seasons.
+Como el resto de Roshar, Alezkar no experimenta estaciones como tal, sino que pasa por etapas según la temperatura, clima y tormentas actuales sin relación con la irradiación. Los alezi emplean predicetormentas para pronosticar la llegada de las estaciones.
 
-### Ecology
+### Ecología
 #### Flora
-Despite the fact that Alethkar is far more exposed to the [[Highstorm\|highstorms]] than any country further West, large swathes of it are lush with animals and vegetation. The flora one finds depends heavily on the region of Alethkar. In the northwest, common flora includes thickets of [[Snarlbrush\|snarlbrush]], stout [[Markel\|markel]] trees and  trees. Some forests are made up of purely [[Vivim\|vivim]] trees, which bind their branches together to ensure that the forest is almost impenetrable. In some areas of Alethkar rockbuds can grow nearly to the size of a barrel, with vines as thick as a human wrist; Alethkar also contains many fragile types of flora, such as vines and weeds, these species usually only grow in laits.
-The Alethi also cultivate many plants. Foremost among these plants, a staple in the diet of any Alethi, is [[Lavis\|Lavis]]. There are many different strains of Lavis, some are capable of withstanding even the strongest highstorms while others are extremely nutritious. They also cultivate [[Tallew\|Tallew]], among many other types rockbuds, and tubers. The Alethi also grow a wide variety of fruits, typically in large orchards. Some species of trees are cultivated to be much taller and leafier than usual in order to provide more shade. A large number of grown plants are for their purposes then eating, such as clothing, medicine and more.
+A pesar del hecho de que Alezkar está mucho más expuesta a las [[Alta tormenta\|altas tormentas]] que cualquier otro país más al oeste, enormes franjas de su territorio cuentan con abundante fauna y vegetación. La flora que uno encuentra allí depende mucho de la región de Alezkar. Al noroeste, la flora típica incluye matorrales de [[Arbusto mara%C3%B1oso\|arbustos marañosos]], robustos árboles [[Markel\|markel]] y [[Tocopeso\|tocopesos]]. Algunos bosques están formados únicamente por árboles [[Vivim\|vivim]], que unen sus ramas entre sí para asegurarse de que el bosque sea prácticamente impenetrable. En algunas zonas de Alezkar, los rocabrotes pueden llegar a crecer casi hasta el tamaño de barriles, con parras tan gruesas como una muñeca humana; Alezkar también cuenta con muchos tipos de flora frágiles, como enredaderas y hierbas. Estas especies suelen crecer sólo en laits.
+Los alezi también cultivan muchas plantas. Entre ellas, destaca la [[Lavis\|lavis]], un básico en la dieta alezi. Hay muchas variedades distintas de lavis, algunas capaces de soportar incluso las altas tormentas más potentes, mientras que otras son extremadamente nutritivas. También cultivan [[Tali%C3%BA\|taliú]], muchos otros tipos de rocabrotes y tubérculos. Los alezi cultivan, además, una gran variedad de frutas, típicamente en enormes huertos. Algunas especies de árboles son cultivados de manera que crezcan más altos y frondosos que de normal para que den más sombra. Una gran porción de estas plantaciones cumple otros propósitos más allá de la alimentación, como servir para ropa, medicina y demás.
 
 #### Fauna
-Alethkar also has a large variety of fauna. Large wild Fauna includes [[Whitespine\|Whitespines]], [[Chull\|Chulls]], [[Axehound\|axehounds]] and more. Alethkar is also home to multiple herds of [[Ryshadium\|Ryshadium]], which live mostly in the eastern part of the country. [[Diggerworm\|Diggerworms]] are also common in Alethkar, and much work goes into protecting crops from them. Another common species found across Alethkar is the [[Lurg\|lurg]], a small amphibian. Alethkar isn’t home to any [[Sarpenthyn\|sarpenthyn]], but [[Skyeel\|skyeels]] are common near the coast.
-The Alethi have also domesticated a wide range of animals. While most of them live as farmers, occasionally keeping animals alongside their plants, some Alethi also live as herdsmen. Domesticated fauna includes [[Lobberbeast\|Lobberbeasts]], a large grazing animal, , which are kept for their milk, , which are usually kept for their [[Gemheart\|gemhearts]], and chulls, which are used as beasts of burden. The Alethi also keep hogs, which originally came from [[Ashyn\|Ashyn]], for their meat and leather. Besides these large pastoral animals the Alethi also keep a number of animals as pets, such as [[Axehound\|axehounds]], some birds, and mink.{{book ref|sa1|45}
+Alezkar también cuenta con una fauna muy variada. La salvaje incluye [[Espinablanca\|espinablancas]], [[Chull\|chulls]], [[Sabueso-hacha\|sabuesos-hacha]] y más. Alezkar también es el hogar de múltiples manadas de [[Ryshadio\|ryshadios]], que viven en su mayoría en la zona oriental del país. [[Diggerworm\|Diggerworms]] are also common in Alethkar, and much work goes into protecting crops from them. Another common species found across Alethkar is the [[Lurg\|lurg]], a small amphibian. Alethkar isn’t home to any [[Sarpenthyn\|sarpenthyn]], but [[Skyeel\|skyeels]] are common near the coast.
+The Alethi have also domesticated a wide range of animals. While most of them live as farmers, occasionally keeping animals alongside their plants, some Alethi also live as herdsmen. Domesticated fauna includes [[Lobberbeast\|Lobberbeasts]], a large grazing animal, , which are kept for their milk, , which are usually kept for their [[Gemheart\|gemhearts]], and chulls, which are used as beasts of burden. The Alethi also keep hogs, which originally came from [[Ashyn\|Ashyn]], for their meat and leather. Besides these large pastoral animals the Alethi also keep a number of animals as pets, such as [[Axehound\|axehounds]], some birds, and mink.
 
 ### Ciudades destacables
 Para un listado más completo, ver [[/wiki/Alezkar#Principados conocidos]].
@@ -247,7 +283,7 @@ Para un listado más completo, ver [[/wiki/Alezkar#Principados conocidos]].
 [[Rathalas\|Rathalas]] - Ciudad en ruinas una vez conocida por haber sido construida en un gran cañón buscando seguridad. Fue incendiada por [[Dalinar Kholin\|Dalinar Kholin]] tras la rebelión del [[Alto pr%C3%ADncipe\|alto príncipe]] local, [[Tanalan\|Tanalan]].
 [[Revolar\|Revolar]] - Es una de las ciudades más grandes en el principado de [[Vamah\|Vamah]]. Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] es tomada por los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] y usada como punto de encuentro para sus ejércitos.
 [[Dumadari\|Dumadari]] - Una gran ciudad en la frontera entre Alezkar y [[Jah Keved\|Jah Keved]].
-[[Karanak\|Karanak]] — a major city in the south of Alethkar, it is located near the delta of the [[Deathbend River\|Deathbend River]]. Karanak was a major part of the Alethi defense during the True Desolation.
+[[Karanak\|Karanak]] — Una gran ciudad al sur de Alezkar localizada cerca del delta del [[R%C3%ADo Curva de la Muerte\|río Curva de la Muerte]]. Karanak tuvo un papel importante en la defensa alezi durante la Auténtica Desolación.
 ## Historia
 ### Creación
 The land that would become known as Alethkar was created at an unknown point before the [[Shattering\|Shattering]] by Adonalsium, along with the rest of Roshar and the Rosharan supercontinent over ten-thousand years prior to Vorin year 1174. It is unclear how much the geography of modern-day Alethkar has changed compared to the land at creation.
@@ -330,7 +366,7 @@ En algún momento del 1155, Dalinar Kholin dirigió una campaña militar de la i
 
 #### Conflictos fronterizos entre Alezkar y los veden (1155 - ???)
 En torno a 1155 estalló una guerra en la frontera entre Alezkar y [[Jah Keved\|Jah Keved]]. Dalinar Kholin también fue uno de los comandantes más importantes en este conflicto. Parte de lo que propició esta disputa fue el hecho de que Jah Keved se apropiara de territorios de Alezkar cerca del año 1143.
-One of the battles during this conflict happened at a place called Slickrock. [[Battle of Slickrock\|This battle]] saw the Vedens, commanded by  [[Nalanar\|Nalanar]], and the Alethi, commanded by Dalinar Kholin, fighting. This battle ended in an Alethi victory, although the Vedens almost defeated them during at least three points in the battle.
+Una de las batallas durante este conflicto ocurrió en un lugar llamado Rocadiza. [[Batalla de Rocadiza\|Esta batalla]] supuso un enfrentamiento entre los veden, comandados por el [[Brillante se%C3%B1or\|brillante señor]] [[Nalanar\|Nalanar]], y los alezi, comandados por Dalinar Kholin, y finalizó con una victoria alezi (aunque los veden casi los derrotaron en, al menos, tres momentos de la batalla).
 
 #### Quema de Rathalas (1163)
   La quema de Rathalas
@@ -535,16 +571,16 @@ Ir en contra de estos roles predeterminados es percibido, a menudo, como antinat
 Su concepción de los roles de género está enormemente basada en *[[Artes y Majestuosidad\|Artes y Majestuosidad]]*, una antigua obra de literatura roshariana que define ciertas cuestiones y prácticas como femeninas o masculinas.
 
 ### Juegos, deportes y entretenimiento
-#### Festivals
-Alethkar practices various fairs and festivals to celebrate special occasions.
-One such festival practiced in Alethkar is the [[Middlefest Fair\|Middlefest Fair]], which celebrates the coming of the [[Midpeace\|Midpeace]].
+#### Festivales
+Alezkar celebra varias ferias y festivales para celebrar ocasiones especiales.
+Uno de estos festivales es la [[Feria de la Fiesta Media\|Feria de la Fiesta Media]], que celebra la llegada de la [[Mediapaz\|Mediapaz]].
 
-#### Games
-Due to Vorin precepts against predicting the future, Alethi culture has a distaste for gambling and games involving random chance. Thus their games tend to revolve around skill rather than chance.
-One popular game in Alethi culture is [[Breakneck\|Breakneck]], particularly among darkeyes. Other popular games include [[Pieces\|Pieces]], [[Pawns\|Pawns]], , , and an unnamed [[Rosharan card game\|Rosharan card game]].
+#### Juegos
+Debido a los preceptos vorin en contra de predecir el futuro, la cultura alezi siente aversión a los juegos de apuestas y azar. Por ello, sus juegos suelen tener más que ver con la habilidad que con la aleatoriedad.
+Un juego popular en esta cultura es el [[Rompecuello\|rompecuello]], particularmente entre ojos oscuros. Otros juegos típicos son el [[Piezas\|piezas]], el [[Peones\|peones]], el [[Rodeo\|rodeo]], el [[Torres\|torres]] y un [[Juego de cartas roshariano\|juego de cartas]] de nombre desconocido.
 
-#### Sports
-[[Vehah\|Vehah]] is a traditional wrestling style practiced in Alethkar.
+#### Deportes
+La [[Vehah\|Vehah]] es un estilo de lucha tradicional practicado en Alezkar.
 
 ## Política
 >“*Dalinar llevaba tanto tiempo codeándose con políticos alezi que la honestidad se le antojaba arcana, como un idioma que ya no sabía hablar.*”
@@ -660,7 +696,7 @@ Los territorios de Alezkar y sus mayores ciudades son:
 [[Talinar\|Talinar]]
 
 ### Leyes y códigos
-Alethkar has a large quantity of laws. One such law is the Alethi code, of which provision eighty seven states that a criminal may be pardoned if he has a vital task to perform for the good of all. The Alethi king or queen may also grant someone the authority to act on their behalf.
+Alezkar tiene una gran cantidad de leyes. Una de ellas es el código alezi, según el cual se permite en ochenta y siete estados que un criminal sea perdonado si de él depende una tarea de vital importancia que redunde en el bien mayor. El o la monarca alezi también puede conceder a alguien autoridad para actuar en su nombre.
 
 ### Gobierno en el exilio
 Tras el inicio de la Auténtica Desolación y la invasión y ocupación de Alezkar por parte de las fuerzas Fusionadas, el gobierno alezi se convirtió en un gobierno en el exilio centrado en Urithiru.
@@ -688,8 +724,8 @@ Antes de la traición de Taravangian a la coalición de monarcas, Kharbranth y A
 Tras revelarse su conspiración y tras su caída de las autoridades de Kharbranth, [[Savrahalidem\|Savrahalidem]] se convirtió en reina y se retiró de la alianza, declarándose neutral en el conflicto. Esto provocó un aumento en las tensiones entre ellos, llevando en última instancia a que Dalinar creara un bloqueo comercial por todo el mar cercano a Kharbranth para forzar su regreso a la alianza.
 
 #### Oyentes
-When they first met, the listeners and Alethi had a positive relationship. After a number of expeditions the Alethi wished to formalize their relationship, which led to the establishment of a treaty between the two peoples in Ishi ? 1167. This treaty contained clauses to simplify trade between the peoples and for mutual border crossing. The treaty also prevented the listeners from trading their Shards to other kingdoms without first coming to Alethkar. Aside from these clauses the treaty also allowed for one party to legally attack the other party.
-Peace quickly broke down however when on the very night that the treaty was signed King Gavilar Kholin was assassinated under listener orders, which lead to the enactment of the Vengence Pact and the beginning of the War of Reckoning against the listener people. This slaughter of their people would continue for six years, until it ended with the start of the True Desolation on Ishishach 1173.
+Cuando se encontraron por primera vez, los oyentes y los alezi mantuvieron una relación positiva. Tras unas cuantas expediciones, los alezi quisieron formalizar dicha relación, lo que llevó a la firma de un tratado entre ambos en Ishi ? 1167. Este tratado estipulaba cláusulas para simplificar el comercio entre ellos y los oyentes, así como cruces de fronteras mutuos. También evitaba que los oyentes pudieran intercambiar sus esquirlas con otros reinos sin acudir antes a Alezkar. Además de estas cláusulas, el tratado también permitía que una de las partes atacara legalmente a la otra.
+No obstante, esta paz se derrumbó cuando, la misma noche que se firmó el tratado, el rey Gavilar Kholin fue asesinado por orden de los oyentes, provocando la entrada en vigor del Pacto de la Venganza y el comienzo de la guerra de la Venganza contra los oyentes. La matanza de estos continuó durante seis años y terminó con el comienzo de la Auténtica Desolación en Ishishach 1173.
 Los alezi consideran a los oyentes como salvajes infrahumanos apenas capaces de pensar, y promulgan ideología supremacista contra ellos y sus soldados.
 
 #### Marabezia
@@ -706,6 +742,21 @@ Thaylenah es un miembro importante de la coalición de monarcas, aunque desconfi
 Tienen un sistema de comercio estable con Yezier según el cual este país les vende artículos de ropa variados y muy populares en Alezkar. Yezier se apresuró a solicitar un puesto en la coalición de monarcas con Alezkar poco después de que comenzara la Auténtica Desolación. Esto creó una unión militar y económica entre ambas naciones.
 
 ## Ejército
+### Enlistment and Wages
+#### Enlistment
+Any man, lighteyed or darkeyed, can volunteer to join the military. Most of the volunteers are boys, their head full of ideas about glory and Shards. When needed, conscription can also used to gain more men.
+It is seen as a citylord’s duty to handpick men to conscript into the army. There are limitations to this system however, a citylord isn’t allowed to conscript someone who provides an essential service to the community, such as a surgeon. Recruits may bring two changes of clothing and three stoneweights of other possessions with them.
+Each enlistment lasts four years, after which a soldier can choose to enlist for another four years. Upon completion of his time in the army, he will receive a war bonus, equal to one tenth of his total wages. If a darkeyed soldier manages to distinguish himself and rise to a high rank, he could also rise in nahn.
+
+#### Wages
+Alethi soldiers are well paid, although their wages are based upon military rank and caste. The average darkeyed spearman is paid five clearmarks a day. As higher ranking men, someone in the personal guard of a lighteyes generally thrice as much as the wage of a standard spearman, which translates to about 15 clearmarks each day. Military slaves are paid a fifth of the wage of a darkeyed soldier, around one clearmark a day.
+There are a number ways to earn money outside of your wages. A lot of low ranking men in the military are susceptible to bribes. Some men also try to steal from the dead, although this is strictly prohibited by the officers. If a group of regular soldiers has killed a noteworthy target, usually an important brightlord, they can send for their captainlord, who will confirm the kill, to earn a reward. Many armies allow their soldiers to pillage a conquered city or town, which is a large source of wealth to the soldiers. When a soldier dies, his highprince needs to pay his family.
+
+### Command structure
+#### Leadership
+The Alethi military not a single unified entity, rather, it is a loose coalition of ten different militaries. These ten militaries are sworn directly to their respective highprinces. This means that the king has very little say in how the military is run; he doesn’t command anything other then the two hundred and fifty strong King’s Guard. There is constant in-fighting between the highprinces' armies, even during wartime, and cooperation between the highprinces themselves is seen as a weakness. This is bolstered by the tenets of Vorinism that say the purpose of life is to prepare in order to join the Heralds in the fight to regain the [[Tranquiline Halls\|Tranquiline Halls]] and Alethi belief that everything is a competition in life. Recently, in an effort to truly unify the kingdom, [[Dalinar Kholin\|Dalinar Kholin]] has been appointed as the [[Highprince of War\|Highprince of War]] by the king. This title was used in Alethkar before being fragmented into ten princedoms when each highprince was given the ultimate authority over one aspect of the governing of the kingdom. On paper, this gives Kholin authority over all war-related activities.
+Aside from this division between the armies, the Alethi have excellent leadership. This is mostly due to how for the Alethi, being a leader essentially the same is as being a general. Alethi officers, be it low ranking or high ranking officers, learn how to properly and effectively boost the morale of their troops. If a commander, like a captain or companylord, isn’t in place to give commands, the most senior of his officers has command.
+
 |****Cadena de mando****|
 |-|-|
 |**Unidad**|**Soldados**|**Comandante característico**|
@@ -718,41 +769,108 @@ Tienen un sistema de comercio estable con Yezier según el cual este país les v
 |ejército|—|alto príncipe|
 ||
 
-El actual ejército alezi es una de las fuerzas militares más imponentes en Roshar con más de 100.000 tropas y superando los treinta [[Portador de esquirlada\|portadores de esquirlada]]. El grueso de las tropas que componen el ejército lo constituyen los lanceros y los arqueros, así como una pequeña caballería debido a la escasez de caballos que hay en Roshar. Además, solo los oficiales portan espada porque, de acuerdo a las tradiciones vorin, la espada es considerada un arma de ojos claros. A los soldados se les entrena normalmente en una o dos disciplinas adicionales, por ejemplo como caballerizos. Bajo circunstancias normales el servicio militar es voluntario, aunque los líderes del ejército tienen el derecho de reclutar a aquellos ojos oscuros que no aporten un servicio esencial a una comunidad (como ser el único cirujano de la ciudad) cuando sienten que hay necesidad de tropas adicionales. Es extremadamente raro para un soldado ojos oscuros ascender más allá del rango de líder de pelotón. A los oficiales ojos claros encargados de una rama del ejército se les suele llamar por su cargo (ejemplos: jefe de caballería, jefe de infantería).
-Aunque Alezkar es una monarquía, el rey tiene muy poco que decir sobre cómo se dirigen los ejércitos y no tiene mando directo sobre ninguna fuerza excepto sobre los 250 integrantes de la Guardia Real. Las tropas están vinculadas por juramento a sus altos príncipes y estos son quienes las lideran. En este sentido, el ejército de Alezkar no está verdaderamente unido, sino que es más bien una coalición imprecisa de diez ejércitos menores. De hecho, incluso en tiempos de guerra hay una constante pelea entre los ejércitos de los altos príncipes, y la cooperación entre estos últimos es vista como una debilidad; este hecho se ve reforzado por los principios del vorinismo que indican que el propósito de la vida es prepararse para unirse a los Heraldos en la batalla por la reconquista de los [[Salones Tranquilos\|Salones Tranquilos]] y por la creencia alezi de que todo en la vida es una competición.
-Debido al inmenso tamaño de los ejércitos y las dificultades a la hora de viajar (y agravado, además, por la deficiente infraestructura de las líneas de suministro de Alezkar) el [[Moldear almas\|moldeado de almas]] juega un papel vital en el abastecimiento de madera, metal, comida, y otras muchas necesidades, así como para la construcción de fortificaciones. El rey controla a la mayoría de fervorosos moldeadores de almas; de hecho, es con estos moldeadores de almas como el rey consigue manipular a los altos príncipes y mantiene el control sobre ellos.
-Recientemente, en un esfuerzo por unificar de verdad el reino, [[Dalinar Kholin\|Dalinar Kholin]] ha sido designado por el rey como el [[Alto Pr%C3%ADncipe de la Guerra\|Alto Príncipe de la Guerra]]. Este título se utilizaba en Alezkar antes de la fragmentación en diez principados, cuando a cada alto príncipe se le daba la máxima autoridad sobre uno de los aspectos de gobierno del reino. Sobre el papel, esto le da a Dalinar autoridad sobre todas las acciones relacionadas con la guerra.
-El ejército alezi es, en la actualidad, una de las mayores fuerzas militares en guerra contra la invasión de los Fusionados, sobre todo durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] y la campaña emuli (aunque estos ejércitos se enfrentaron en muchas más batallas y escaramuzas entre los años 1173 y 1175). También lideraron la evacuación de Piedralar a inicios del 1175. Actualmente, el ejército está centrado en torno a y apostado en Urithiru.
+#### Ranks
+The Alethi military is complex and contains many ranks. The figure to the right shows some of the ranks and gives some information about them. Besides these, there are a few extra ranks or duties. One such rank is highmarshal. It is unknown what the position of highmarshal entails, but it is a high rank, and most highmarshals command a large force of soldiers practically by themselves. Some officers are responsible for a branch of the army, such as the infantry or cavalry, these officers are referred to by their duties, along with the suffix -lord (e.g. cavalrylord, infantrylord). Besides these ranks, some officers gain command of certain parts of the army (e.g. the rearguard). These officers are referred to as ‘commander of the … (part of the army)’ (e.g. commander of the rearguard). It is not known whether this is a rank or a duty. It is extremely rare for a darkeyed soldier to rise higher than the rank of squadleader.
 
-### Uniformes
-Los oficiales de más alto rango se distinguen por los nudos de cordón en los hombros de la pelliza; la cantidad de nudos, así como su color, representan el rango militar y el del sistema de castas alezi de quien los porta. Los nudos blancos son indicativo de oficiales ciudadanos que sean sargentos o líderes de escuadrón, los nudos rojos se corresponden con oficiales de séptimo dahn y los dorados son empleados por miembros del segundo o tercer dahn. También pueden servir para diferenciar entre bajo capitán, capitán, alto capitán, teniente, sargento y jefe de batallón. Los soldados sin autoridad no llevan nudos.
-Los uniformes varían entre ejércitos, normalmente tomando los colores del estandarte bajo el que luchan. Algunos hombres eligen personalizar sus uniformes con bordados o coloridos pañuelos. Los uniformes siempre se llevan con una camisa interior por debajo.
+### Equipment
+#### Uniforms
+Although uniforms differ between princedoms and even armies, most Alethi wear something very similar. Uniforms are usually coloured with the colours of their wearer’s highprince.
+Uniforms are generally comprised of trousers, a jacket, which often comes down to the waist and sometimes buttons closed beneath the belt, a shirt and boots. Some traditional generals still outfit their soldiers with [[Takama\|takamas]] instead of trousers. Uniforms, both the ones owned common soldiers and the ones owned by high ranking lighteyed officers, always have a patch to indicate the duty and unit of the wearer. Uniforms also always have their Highprince’s glyphpair displayed prominently, both on the back and the breast. Some men choose to further personalize their uniforms by adding embrodiery or colourful scarfs. When it rains soldiers may choose to wear a stormcoat over their uniform, and there are often umbrellas ready for officers.
+An officer’s uniform is usually comprised of a waistcoat and a double breasted longcoat, sometimes decorated with precious metals, although never with embroidery. These longcoats, called officer’s coats, are approximately waistlength and are supposed to hang unbuttoned. Recruits wear a patch, appropriately called a recruit’s patch, to signify their rank. Army surgeons wear white clothing. Messenger women often wear travelling dresses of a particular fashion. These dresses have the front and back slit open, all the way to the waist, to allow for greater mobility. They, and likely messenger boys as well, also wear something called a runner’s sash.
+Officers are distinguished by knots on a cord across the epaulette, with the amount of knots and their colour signifying their military rank, and their rank in the Alethi caste system. White knots indicate a citizen officer, that is a sergeant or squadleader; red knots indicate an officer of seventh dahn; and gold knots indicate second or third dahn; It can also distinguish between low captain, captain, captainlord, lieutenant, sergeant, and battalionlord. Soldiers without authority bear no knots.
 
-### Armamento
-Se entrena a los soldados ojos oscuros principalmente con lanzas y hachas, ya que las espadas sólo son empleadas por ojos claros de mayor rango. Sin embargo, las hachas son un arma menos típica normalmente dada únicamente a líderes de escuadrón y oficiales superiores. Algunos soldados llevan alabardas, aunque no está claro lo comunes que son.
-Los soldados de a pie solían llevar corazas de acero, mientras que los arqueros vestían chalecos de cuero. Los soldados de a pie corrientes llevan muy poca armadura, normalmente ni siquiera tienen protecciones en las extremidades. Los ojos oscuros en ejércitos de brillantes señores suelen vestir armaduras de cuero. Los soldados ojos claros más acaudalados llevan armaduras mucho mejores, indicativas de su estatus. La armadura normalmente está marcada con una insignia de rango que indica el dahn y la posición militar de su portador.
-La Guardia de la Muralla de Kholinar viste corazas de acero y yelmos.
+#### Armor
+The Alethi are outfitted with a large variety of armours, what a soldier wears depends on their job, wealth, and rank. Regardless of these factors however, soldiers almost always wear the colors of their highprince.
+Regular spearmen wear special knee-length skirts, which are appropriately named spearmen skirts. It is forbidden for spearmen, even squadleaders, to wear trousers, although this rule isn’t taken very serious; respected soldiers won’t get into trouble for breaking it. Regular spearmen wear steel breastplates, which have emblems on them, and leather jerkins, they also don’t seem to wear any arm or leg guards. Besides these armor pieces they also wear steel, or sometimes leather, caps. Wealthier soldiers, or those in professional armies, may also wear chainmail. Archers generally wear leather vests, while heavy infantry wears thick steel armour.
+Wealthy lighteyes often wear steel plate armour. At least some lighteyes decorate their plate armour to resemble Shardplate. Some lighteyes prefer helms with open visors to helms with closed visors. Some lighteyed soldiers also decorate their helmets with bird plumes. Many lighteyes wear breakaway, so that if an enemy grips the garment it breaks away from the armour, cloaks or capes, which are often emblazoned with their house’s glyphpair. High ranking Brightlords may sometimes have a shieldbearer with them. The Alethi also have access to a number of sets of [[Shardplate\|Shardplate]]. While the natural color of dead Shardplate is slate-grey, it is extremely common among the Alethi to change the appearance of one's Shardplate by painting it or adorning it with decorative details or even gemstones.
 
-### Sueldos
-Los sueldos se basan en el rango militar y la casta de cada soldado. Un soldado ojos oscuros medio recibe cinco marcoclaros al día. Los esclavos militares cobran menos de la mitad del sueldo de un soldado ojos oscuros, en torno a un marcoclaro al día.
+#### Weaponry
+Most of the Alethi soldiers are equipped with spears, both longspears and shortspears, and shields. The Alethi also use maces, polearms, pikes and halberds. Spears are generally used alongside large round shields, which have a metal plate set into the wood. Instead of round shields, pikes are used alongside large rectangular shields. The round shields used by spearmen are designed to hang from someone’s back, shields are also painted to indicate one’s loyalty, this allows the soldiers to distinguish between friends and foes. Some soldiers strap knife sheaths to the haft of their spear. The Alethi also use truncheons when they don’t want to kill. The Alethi are skilled in the use of bows, of which most are shortbows. Despite this, longbows are also used. Most soldiers can’t choose what weapons to wield themselves; their weapons depend on their position in the army (e.g. spears for spearmen and bows for archers). Some higher ranking soldiers however, like squadleaders, are allowed to choose weapons.
+Only lighteyes wield swords, although almost never as primary weapons, because according to Vorin traditions the sword is a lighteyed's weapon. These swords include both longswords and shortswords. One handed swords are often wielded with small round shields. Alethi heavy infantry, which always consists of lighteyed men, carries heavy impact based weapons such as maces, they also often carry square steel shields. Due to Vorin cultural ideas women can’t be armed, even scouts are only allowed to wear knives. The Alethi also have a number of [[Shardblade\|Shardblades]], around twenty, these blades are used effectively in combat.
 
-### Esquirladas
-De acuerdo con los registros oficiales, Alezkar posee más [[Hoja esquirlada\|hojas esquirladas]] que cualquier otra nación de Roshar, siendo [[Jah Keved\|Jah Keved]] el país que más se le acerca del resto. Estas esquirladas se usan en combate para abrumar a los ejércitos sin portadores de esquirlada.
-Durante la guerra de la Venganza, sus esquirladas fueron empleadas para cortar crisálidas de abismoides y recolectar así sus gemas corazón.
+### Strategy
+#### Troops
+The Alethi Military has a lot of soldiers, approximately a hundred fifty thousand troops. Most of these troops are darkeyed spearmen, with a smaller percentage of lighteyed heavy infantry and archers. At the tail end of the Era of Solitude Alethi warfare started to include more and more cavalry, an army in the year 1145 would have about fifty horsemen, if not less, while an army in 1173 would have several hundred horsemen. The Alethi armies aren’t entirely made up of Alethi, they also contain people from different nations, such as Herdaz, and Jah Keved. The Alethi also employ many army surgeons, their apprentices are almost all men who have some incapacitation, preventing them from fighting. Following the start of the True Desolation, the Alethi armies began employing  to aid in their war efforts. Foremost among these surgebinders are those of the [[Order of Windrunners\|Order of Windrunners]]. Besides the Windrunners the Alethi employ a large number of [[Order of Edgedancers\|Edgedancers]], with a smaller number of [[Order of Lightweavers\|Lightweavers]].
+Each of the Alethi armies has it’s own strength, with the [[Kholin princedom\|Kholin]] army having the best heavy infantry, the [[Roion princedom\|Roion]] army the best archers and the [[Sadeas princedom\|Sadeas]] army the fastest bridges, at least during the [[War of Reckoning\|War of Reckoning]].
 
-### Caballeros Radiantes
-Tras el inicio de la Auténtica Desolación, una notable fracción de su ejército se compone de [[Caballero Radiante\|Caballeros Radiantes]], principalmente de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]] y de la de los [[Orden de los Danzantes del Filo\|Danzantes del Filo]], aunque también con un cierto número de [[Orden de los Tejedores de Luz\|Tejedores de Luz]]. Cubren con efectividad necesidades de transporte y combate contra los Fusionados y los [[Regio\|Regios]].
+#### Formations
+The Alethi make use of a wide variety of formations. They generally fight in a shield wall. However, they also have many other formations. One such formation is called ‘pincer pattern’. This formation looks, as the name suggests, like a pincer, the formation is meant to distract and then destroy an enemy target. The troops at the side generally distract the target while the troops in the middle go for the kill. Pincer pattern is meant to be used by a large number of men, like a full squad or company. Soldiers are also trained to assemble and function in pike blocks to counter heavy cavalry. Another, unnamed, formation has the men spread out, the first line holds their spears low while the second line holds their spears higher in an overhand grip.
+Another formation is called the trident formation, this is a small-squad battlefield formation used by spearmen. The men, or man, in the middle hold(s) the target’s attention while those on the outside attack from the flanks. Squads are trained to fight in a V formation, they also learn a number of marching formations, one of these formations is the hefty rearguard formation, which focuses on the rearguard to prevent enemies from sneaking up on the troops. There are also a number of formations that aren’t used on the battlefield. One such formation is used during an inspection, the men will stand in lines while the officer(s) check(s) their gear.
 
+#### Battlefield tactics
+The Alethi employ a wide range of tactics. One popular tactic that is often used by the Alethi is the hammer and anvil tactic. The Alethi are also practiced at executing a fake rout, often leading to an ambush.
+The Alethi infantry is usually employed in large block like formations, these blocks can get very large, with some of them being five thousand men strong. These standard spearmen blocks engage enemies as much as to position them as to do harm. The Alethi infantry blocks are also extremely mobile, far more so then infantry blocks from other militaries. The Alethi infantry uses their shields, forming a canopy of sorts, to protect from arrows and throwing spears. In these spearmen blocks, the front row of soldiers rotates to the back every ten minutes. This means that for every minute you're fighting, you also have a minute to rest. For most of Alethi history, due to lack of horses, light infantry was used to harry enemy armies.
+
+>“*All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
+\-The Sunmaker, who shaped modern Alethi militarism[49]
+
+Cavalry has never played a large role in Alethi warfare, at least, until recent times. Warfare has started to include more and more cavalry. Cavalry has historically been used to fight shardbearers, and has more recently begun being used to break lines. Cavalry was used extensively during the [[War of Reckoning\|War of Reckoning]], mainly to break ‘Parshendi’ lines and establish a beachhead for the rest of the army to exploit.
+While the soldiers are trained to fight in formations, some battles, the ones fought between largely unprofessional armies, immediately start with a charge, the lines and formations disintegrating. These battles are extremely chaotic, the armies often mingle indistinguishably and squads split up to fight other small groups.
+The Alethi are excellent, by modern standards, at using their surgebinders. Windrunners are used to launch aerial assaults on the enemy, defend the Alethi armies against other [[/wiki/Surgebinding#gravitation]] surgebinders and aid in conventional ground attacks. Besides this, the Windrunners scout the surrounding landscape and aid in moving troops, mostly generals or other high ranking officers, around. The Edgedancers are mainly used as medics, with their use of the surge of Progression the Edgedancers can heal anyone in a matter of seconds. In contrast to these surgebinders, the Lightweavers don’t enter combat, instead they serve mostly as spies.
+The Alethi generals are constantly trying to get an edge over each other, ensuring that Alethi warfare rapidly evolves. During the Unification of Alethkar, around the year 1145, the Kholin army implemented new tactics. These tactics saw the Kholin army dominate other Alethi armies, such as the one commanded by [[Kalanor\|Kalanor]]. The army would largely be made up of lighteyed heavy infantry and lightly armoured but fast archers. The middle of the army would contain the heavy infantry, which served to keep the enemy infantry busy, while mobile archer units deployed to the sides, firing down upon the enemy flanks. The enemy infantry would often attempt to engage the archers, but the heavy infantry prevented this, threatening to break through the central block. It is likely that this strategy evolved into another, which has become commonplace by the year 1172. This evolved strategy had infantry carrying shortspears in the first ranks, men carrying longspears or javelins behind, while the strategy kept the original idea of having archers at the sides. At some point during the year 1163, the Alethi began to make use of small and mobile squads.
+After the assassination of king Gavilar the Alethi armies saw themselves pitted against the [[Listener\|listeners]], who used different and previously unknown strategies. These strategies, along with the listener advantages such as carapace armour, resulted in a number of embarrassing Alethi defeats. They eventually adapted to the [[Listener\|listener]] strategies by increasing the flexibility of their armies, making them able to respond quickly to the uncanny way the listeners fought. Likewise, during the True Desolation, warfare began to change. There were far fewer large scale formations, those became far to easy to disrupt. Instead men spent their time in protected warcamps, occasionally making a sudden surge to claim ground and shove away the enemy. During this time battles changed from decisive engagements to several month long fights.
+Sieges are rare in Alethkar, and often last only a short time. This is due to soulcasters, which make it almost impossible to starve a city out. Instead, the Alethi break down the walls quickly, seize the high ground to pound the city for a while or simply attack, attempting to scale and conquer the walls. During a siege, a general has to make a difficult decision, which is widely regarded as a conundrum, does he choose the best position to weather storms, or does he seize the high ground. Most generals choose the former.
+
+#### Shardbearer tactics
+With over thirty [[Shardbearer\|Shardbearers]], the Alethi have become incredibly skilled at employing and fighting alongside their Shardbearers.
+Alethi Shardbearers often lead formations, cutting a hole through enemy ranks with their overwhelming force. This creates a gap that the well-trained Alethi soldiers can exploit, which can even allow for an army to overcome superior numbers. Shardbearers will also sometimes be used in defensive fights to close the gaps in their own lines, moving quickly between weak places to give soldiers a chance to recover and return to their formation. Alethi Shardbearers almost always have an honorguard with them, which follows them into enemy lines. This honor guard does not spend time defending the Shardbearer directly, but rather stays nearby to support the Shardbearer, so if his Plate is severely damaged or he is seriously injured, the Shardbearer can retreat to safety and not risk their life or their Shards.
+The Alethi have also become adept at countering Shards. They have learned that the best way is to send another Shardbearer against them. By leveling the playing field in this way, the overwhelming power of a Shardbearer is negated and victory is left to the most skilled of the fighters. Aside from that, they use heavy weapons such as war hammers and axes in an attempt to shatter the plate. The most common tactic employed by the Alethi is to simply drown a Shardbearer in enemies. There are also soldiers trained specifically to deal with Shardbearers. They utilize ropes and hooks to try to unbalance or trip the shardbearer, though this isn't always successful as shardplates are extremely heavy. Some Alethi Fortifications are built to withstand Shardbearers. These fortifications are built with narrow corridors to prevent a bulky Shardbearer from maneuvering.
+
+#### Bridge Crews
+Para más información, ver [[Bridge crew\|Bridge crew]].
  
-### Cuadrillas de los puentes
-Para más información, ver [[Cuadrilla del puente\|Cuadrilla del puente]].
-Las cuadrillas de los puentes eran una parte muy importante del ejército durante la guerra de la Venganza, ya que servían como mano de obra reemplazable que cargaba puentes para ayudar a los soldados a cruzar los enormes abismos entre mesetas. También servían como carne de cañón para los arqueros parshendi, evitando así que fijen como objetivos a soldados más entrenados y valiosos. Debido a esto, los hombres de los puentes tenían una alta tasa de mortalidad: aproximadamente fallecía la mitad de la cuadrilla por carrera.
-Cada cuadrilla estaba compuesta por entre 35 y 40 hombres y dirigida por un sargento del puente, que respondía directamente ante el brillante señor a cargo de las cuadrillas. Cada cuadrilla tiene un líder interno elegido entre ellos mismos y conocido como líder del puente; no tiene autoridad oficial más allá de la que sus compañeros deciden darle. El sueldo era normalmente de cinco marcoclaros a la semana para cada miembro de la cuadrilla, y lo recibían el tercer día de cada semana.
-Los puentes empleados por el ejército de Torol Sadeas solían medir ocho pies de anchura y dos de grosor, con apoyos en ambos lados que extendían su amplitud a dieciséis pies. Medían treinta pies de longitud, y en un puente podían organizarse ocho hombres por columna y cinco por fila.
-Mientras no hacían carreras de los puentes, solían ser utilizados como mano de obra barata para tareas desagradables en los campamentos de guerra, como el servicio en los abismos o en las letrinas.
-No todos los altos príncipes empleaban cuadrillas de los puentes; es de destacar que Dalinar se negaba en redondo a usarlas. En su lugar, utilizaba puentes con ruedas tirados por chulls. Dado que eran más pesados y los cargaban chulls en vez de personas, sus movimientos quedaban más ralentizados, pero Dalinar los prefería debido a que resultaban en una enorme reducción de bajas durante las carreras entre mesetas.
-Finalmente, las cuadrillas de los puentes de Sadeas fueron compradas por Dalinar a cambio de su hoja esquirlada y liberadas de la esclavitud, ascendidas entonces a batallón.
+Bridge Crews were a very important part of most of the Alethi armies during the War of Reckoning, serving as an expendable workforce that carried bridges to help soldiers cross over the large chasms between plateaus. They also acted as canon fodder for Parshendi bowmen, as to direct attention away from more trained and valued soldiers. Due to this, bridgemen had a very high mortality rate, with around half a crew dying per run.
+Each Bridge Crew was made up of 35-40 men, which were lead by a Bridge sergeant, who reports directly to the Brightlord in charge of the crews. Each crew has an internal leader elected amongst themselves known as the bridge leader, who has no official authority outside of that which his crewmembers choose to give him. Members of bridge crews were typically payed five clearmarks a week, given on the third day of every week.
+The bridges used by Torol Sadeas's army are eight feet wide and two feet thick, with supports on both sides extending its width to sixteen feet. They are also thirty feet long, and allowed one to set up 8 men per column and 5 men per row.
+While not on bridge runs, they are typically used as cheap manpower to perform undesirable duties at war camps, such as chasm or latrine duty.
+Not all highprinces made use of bridge crews, with Dalinar Kholin notably refusing to make direct use of them. He instead made use of large bridges on wheels, pulled by chulls. Due to being heavier and pulled by chulls instead of people, movement is significantly slower, but Dalinar makes use of it regardless as it results in a major reduction of casualties during plateau runs.
 
+#### Communication on the battlefield
+On the battlefield, runners are used to give orders. Many leaders give speeches to their troops, these speeches are then recorded by a number of scribes, who are always women, and repeated to the rest of the army. Horns are used to signal certain commands. Aside from this, when it is dark stormlight may also be used to give certain signals, such as the signal to attack. The Alethi, like the other Rosharan militaries, have become incredibly dependent on spanreeds for communication. They use them to gather information about enemy movements and to spread commands.
+War banners are used to mark divisions, battalions and companies. This makes a battlefield easily surveyable for someone who understands the system. Most high ranking brightlords have their own personal glyphpair, which, like the name suggests, is usually made up of two glyphs. These glyphpairs are often painted on war banners, which ensures that particular brightlords are easy to find on a battlefield. A red banner, which is usually attached to a spear or pole, serves as a call to the runners to carry the wounded off the field. There is a symbol, which every Alethi recognises, to indicate a truce.
+When the sound of battle is loud enough, a squadleader may decide to give his commands by banging his spear against his shield in a certain rhythm, with particular rhythms meaning particular commands. Some troops, like a lighteyes’ personal guard, are trained to recognise certain arm gestures, which mean certain commands, such as to retreat.
+
+#### Planning and army movement
+After centuries of warfare the Alethi have become adept at effectively moving their armies around. While highstorms are a problem, good planning prevents an army from needing to be out during one, except in some rare cases, in which case the army will search for a lait to set up camp. If a campaign takes longer then anticipated, the army can split and retreat back to a number of close towns for shelter. Due to highstorms, the Weeping is a common time for military campaigns.
+
+#### Soulcasters and supplies
+Alethkar possesses numerous soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food making soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficulty to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains a control over them.
+
+>“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
+\-Highmarshal Halad[178]
+
+#### Warcamps
+How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Most warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.
+The Alethi use latrines to collect their waste. These latrines are made up of a long sloping trough, which is covered with oiled and tarred wooden boards to seal in the scent, and a latrine house, which is always located on the high end of the latrine. The contents of these latrines are soulcast to smoke once every few months.
+Some warcamps have a building called a ‘warcenter’. This building, often made of wood, serves as the home of the general or high officer while on campaign. Warcenters are luxurious, decorated with trophies, rugs and more. Most warcenters are constructed of dozens of sturdy sections, which can be attached and deattached whenever the officer likes. These wooden parts are transported individually by [[Chull\|chulls]].
+
+### Training
+The way soldiers are trained depends on the princedom they’re from. In at least some princedoms it is seen as the squadleader’s or sergeant’s task to train new recruits. In the [[Sadeas princedom\|Sadeas princedom]], squadleaders are given six weeks to train a new cohort of recruits. The Alethi are excellent soldiers, each individual is far better at single combat then any given Azish or Veden soldier. Besides their skill in combat, soldiers are usually trained in one or two additional skills, e.g. horse grooms. Soldiers are also trained to give a proper salute, which includes moving a hand to your breast.
+Soldiers are trained in a specific order. Firstly, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking.{book ref|sa1|49}} Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves.
+
+>“*There hasn’t been peace since the Tranquiline Halls, Man’s life on Roshar is conflict.*”
+\-a quotation from The Arguments[49]
+
+#### Drills
+The Alethi have a large number of drills to practice certain formations, movements and fighting in general.
+The ‘close order’ drill is an essential exercise to an army’s performance, although few outside the military appreciate its importance. There is also a drill called the ‘extended order’ drill, sometimes called the ‘extended combat’ drill, this drill focuses on practicing formations and movements used on the battlefield.
+
+#### Kata
+The Alethi make use of a number of exercises called katas. A kata is meant to work the muscles, as well as practice basic stances and attacks. Katas are not meant to be practical; they are usually a lot more showier then useful. There is genuine skill required to properly perform a kata however, this skill is usually seen back in the speed, grace and smoothness of a kata. Some people practice katas to calm themselves and relax. There are both spear and sword katas, and likely for other weapons as well.
+
+#### Shardbearer training
+The Alethi military also relies on trained [[Shardwielding\|Shardbearers]] to aid their regular soldiers. Due to their militaristic society, and the large amount of Shards they have, the Alethi have become excellent at training Shardbearers.
+In most cases, lighteyed boys of appropriate rank around the age of ten are chosen by an ardent swordmaster for training. These boys typically already have at least some training with the sword. The swordmaster teaches them the ten [[Stances\|Shardblade Stances]] and familiarity with plate. They train with Blades in two ways. If the trainee has no Blade of his own, they can make use of wooden practice swords that approximate the balance and weight of a real Blade. They may also borrow one of the King's Blades. This tradition is one of the reasons the Alethi have the best trained Shardbearers on Roshar. Whenever a Shardbearer is killed or dies, there is always someone prepared to bond their Blade and use it right away. A swordmaster also coaches their student on how to control the Blade with their mind, commanding it to remain in place so it can be loaned to others.
+
+#### Training grounds
+The Alethi soldiers train in specially designated buildings called training grounds. These buildings are split between those built for lighteyes and those built for darkeyes, although there is little difference between the actual buildings. The training grounds, or at least some of them, are run by . Training grounds all look fairly similar. They almost all have an open courtyard in the center, which is filled with a thick layer of sand. Bordering this courtyard is a raised walkway, which separates the courtyard from an outer building. This outer building wraps around most of the complex, leaving only the front open, which has a gate to enter the courtyard. The outer building is usually only a single room deep. Most men come to these complexes to train, but some also come to seek enjoyment.
+
+  A lighteyed Shardbearer on the Alethi practice grounds
+#### Punishments
+The Alethi military also has a large number of punishments. Regular punishments, usually given by a squadleader, include menial duties and corporal punishment. A highprince can also choose to execute someone, or even leave them to the stormfather’s judgment, which includes tying them up and leaving them outside during a highstorm. Officers can put people in a stockade.
+
+### Fortifications
+Alethkar contains many fortifications, spread roughly even throughout the nation due to inter-princedom warfare. These holdings serve as defenses, and let armies rest and hunker down for highstorms. Soulcasters are used to build and supply fortifications. These fortifications are often equipped with ballistas and catapults, which are run by a crew of women because of Vorin ideas. Some fortifications are built to withstand shardbearers. These fortifications have narrow corridors, or traps to make a Shardbearer fall a great distance. Siege equipment is also used to defeat Shardbearers, specifically ballistas, nets to trap the Shardbearer, ropes and catapults. Some fortifications also have men equipped with large poles to push shardbearers off the walls.
 
 ## Economía
 ### Divisa

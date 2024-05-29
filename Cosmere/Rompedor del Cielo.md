@@ -14,8 +14,6 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 >“*Te vi destruirte a ti mismo en nombre del orden, te vi obedecer tu código personal cuando otros habrían huido o se habrían desmoronado. Szeth-hijo-Neturo, te vi cumplir tu palabra con perfección. Esto es algo que la mayoría de la gente ha perdido: es la única belleza auténtica del mundo. Dudo haber encontrado jamás un hombre más digno de los Rompedores del Cielo que tú.*”
 \-Nale a Szeth[2]
 
@@ -66,7 +64,7 @@ Los Ideales de los Caballeros Radiantes, también conocidos como [[Palabras Inmo
 
 ### El Primer Ideal
 >“*Vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.*”
-\-El Primer Ideal de los Caballeros Radiantes[14]
+\-El Primer Ideal de los Caballeros Radiantes[13]
 
 
 El Primer Ideal también es conocido por los Rompedores del Cielo como el Ideal del Radiante. Antes de jurar este Ideal, los aspirantes viajan con los Rompedores del Cielo a una misión. Deben probar su dedicación y solemnidad en esa misión a un Rompedor del Cielo pleno antes de ser considerados dignos de decir las Palabras. El Ideal del Radiante no otorga poderes ni la capacidad de absorber Luz tormentosa, pero los califica para presentarse a más pruebas entre los Rompedores del Cielo para poder convertirse en escuderos. Los Rompedores del Cielo le absuelven de cualquier delito o pecado anterior al jurar este Ideal, usando los documentos y las autoridades legítimas de la región.
@@ -74,28 +72,28 @@ El Primer Ideal también es conocido por los Rompedores del Cielo como el Ideal 
 ### El Segundo Ideal
   <<Szeth\|Szeth>> entrenando con otros Rompedores del Cielo
 >“*Juro buscar la justicia y permitir que me guíe hasta que halle un ideal más perfecto.*”
-\-El Segundo Ideal de los Rompedores del Cielo, escogido por Szeth[16]
+\-El Segundo Ideal de los Rompedores del Cielo, escogido por Szeth[15]
 
 
 También llamado el Ideal de la Justicia, es un juramento específico de promover y administrar justicia. Una vez un maestro elige aceptar a un escudero, este debe jurar dicho Ideal. Este Ideal da al Escudero la habilidad de absorber luz tormentosa y usar la Potencia de Gravitación.
 
 ### El Tercer Ideal
 >“*Juro cumplir la voluntad de Dalinar Kholin. Este es mi juramento.*”
-\-El Tercer Ideal de los Rompedores del Cielo, jurado por Szeth[17]
+\-El Tercer Ideal de los Rompedores del Cielo, jurado por Szeth[16]
 
 
 También llamado el Ideal de la Dedicación, este es un juramento específico de dedicarse uno mismo a una verdad mayor, ya sea un código o, en ocasiones, una persona. Un escudero de los Rompedores del Cielo debe vincularse a su [[Altospren\|altospren]] antes de hacer este juramento, y es el mínimo requerido para poder usar la Potencia de División. Jurar este Ideal convierte a alguien en un Rompedor del Cielo pleno. Este juramento es el más elevado que la mayoría de los Rompedores del Cielo realiza. Si el código que juraron cambia posteriormente, deben seguir los cambios. Nale advirtió que seguir a una persona como Ideal puede llevar a ciertas complicaciones puesto que las personas están fácilmente sujetas a cambios. Aún así, muchos Rompedores del Cielo eligen seguir a Nale como su tercer Ideal.
 
 ### El Cuarto Ideal
 >“*Purgaré a los shin de sus falsos líderes, siempre que Dalinar Kholin me lo permita.*”
-\-El Cuarto Ideal de los Rompedores del Cielo, pronunciado por Szeth.[17]
+\-El Cuarto Ideal de los Rompedores del Cielo, pronunciado por Szeth.[16]
 
 
 Este Ideal también es conocido como el Ideal de la Cruzada y requiere que el Rompedor del Cielo escoja una misión personal que cumplirá a entera satisfacción de su altospren. Una vez completada, el Rompedor del Cielo alcanzará el rango de maestro. Estos pueden aceptar escuderos. La mayoría de Rompedores del Cielo nunca alcanzan este Ideal, y aquellos que lo hacen pueden tardar décadas en completar su misión.
 
 ### El Quinto Ideal
 >“*Si progresas como Rompedor del Cielo, deberás convertirte en la ley. Para alcanzar tu potencial definitivo, tendrás que conocer la verdad tú mismo, en lugar de apoyarte en la muleta ofrecida por el Tercer Ideal. Sé consciente de ello.*”
-\-Altospren de Szeth sobre el Quinto Ideal[19]
+\-Altospren de Szeth sobre el Quinto Ideal[18]
 
 
 Llamado el Ideal de la Ley, este Ideal requiere que el Rompedor del Cielo jure que se convertirá en la personificación de la ley y la verdad. Nale es seguramente el único Rompedores del Cielo que lo ha alcanzado actualmente, puesto que han pasado siglos desde que alguien pronunciase el Quinto Ideal. Existe controversia en la orden sobre si esto significa que el Rompedor del Cielo que lo jure puede hacer cualquier cosa, puesto que son la encarnación de la ley, o si deben mantenerse sin violar las leyes para mantener sus juramentos. Dependiendo de la percepción del Rompedor del Cielo del Ideal, cualquier interpretación podría ser válida. Tras jurar el Quinto Ideal, un Rompedor del Cielo ya no tiene por qué seguir el Tercer Ideal que juró.
@@ -103,7 +101,7 @@ Llamado el Ideal de la Ley, este Ideal requiere que el Rompedor del Cielo jure q
 ## Habilidades
   Rompedores del Cielo volando
 >“*Las considerables habilidades de los Rompedores del Cielo para hacer aquello implicaban casi una habilidad divina, para lo que ninguna potencia ni ningún spren conceden capacidad. Sin embargo, la orden consiguió tal aptitud, y ese hecho fue real y reconocido incluso por sus rivales.*”
-\-Palabras radiantes, capítulo 28, página 3[21]
+\-Palabras radiantes, capítulo 28, página 3[20]
 
 
 Los Rompedores del Cielo son capaces de usar las Potencias de **Gravitación** y **División**. El alcance máximo de sus poderes es más que desconocido. Como la mayoría de Caballeros Radiantes, tienen escuderos, aunque solo aquellos de Cuarto Ideal o superior pueden aceptarlos. Según se cuenta tenían la capacidad (no relacionada con sus Potencias) de diferenciar inocentes de culpables, lo que era considerado por algunos como un don casi divino. Sin embargo, no tienen ninguna habilidad sobrenatural para determinar la culpabilidad, por lo que esto parece una combinación de experiencia mundana y folklore exagerado.
@@ -130,7 +128,7 @@ El grupo que se convertiría en Rompedores del Cielo empezó cuando los altospre
 Les preocupaba que otros Radiantes se creyesen por encima de la ley y usaran su poder para volverse tiranos, oprimiendo a aquellos sin capacidad de resistirse. Como resultado, funcionaron como policía militar entre los Radiantes, tomándose muy en serio este deber, aunque a menudo fuese una tarea desagradecida. Este rol requería diferenciar los grupos inocentes y culpables. Eran extremadamente capaces en ello, un hecho que incluso aquellos a quienes no gustaban aceptaban. A pesar de ser descrita como una habilidad casi divina, esta no tenía origen mágico. Aún así, los Rompedores del Cielo pre-Traición podían ser piadosos y entendían que la ley no es perfecta, sino que representa un ideal por el que luchar. Los Rompedores del Cielo también tomaron la responsabilidad de contener fuerzas peligrosas y oscuras de Roshar.
 
 >“*Vinieron también dieciséis de la orden de los Corredores del Viento, y con ellos un considerable número de escuderos, y encontraron en ese lugar a los Rompedores del Cielo separando a los inocentes de los culpables, y se produjo un gran debate.*”
-\-Palabras radiantes, capítulo 28, página 3[30]
+\-Palabras radiantes, capítulo 28, página 3[29]
 
 Los antiguos Rompedores del Cielo parecen estar involucrados en conflictos con otras Órdenes frecuentemente, especialmente con las dos órdenes con las que compartían Potencias. Los Rompedores del Cielo consideraban a los Portadores del Polvo en el límite de la moralidad y no se llevaban bien con ellos. También tenían algunos problemas con los [[Corredores del Viento\|Corredores del Viento]]. Los [[Altospren\|altospren]] y, a través de ellos, los Rompedores del Cielo juzgaban y administraban justicia según la ley escrita y aquello que les resultase lógico, mientras que los Corredores del Viento se inclinaban a hacer aquello que consideraban correcto. Por ello, surgían debates cuando ambas órdenes trataban de decidir el destino de los culpables. estos conflictos empeoraron considerablemente según se acercaba el día de la Traición. Algunos creen que este y otros conflictos produjeron que [[El Hermano\|el Hermano]] se retirase, pero no tuvo relación con la verdadera causa.
 En algún punto antes de la [[Traici%C3%B3n\|Traición]], Nale recuperó secretamente su [[Hoja de Honor\|hoja de Honor]] de [[Shinovar\|Shinovar]] y vinculó su propio altospren, uniéndose oficialmente a los Rompedores del Cielo. Es el único Heraldo conocido que se unió a su Orden.
