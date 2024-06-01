@@ -1,14 +1,17 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Sobriedad Perpetua**|
 |-|-|
 |**Región**|[[Mar de las Almas\|Mar de las Almas]]🐱︎|
 |**Mundo**|[[Shadesmar\|Shadesmar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Perpetual Sobriety** is a settlement in the [[Sea of Souls\|Sea of Souls]], part of the [[Shadesmar\|Rosharan subastral]] of the [[Cognitive Realm\|Cognitive Realm]]. It is located on a peninsula north of [[Ageless Beauty\|Ageless Beauty]], and is south of the [[Basin of the Veiled Sun\|Basin of the Veiled Sun]]. In the [[Physical Realm\|Physical Realm]], the peninsula Perpetual Sobriety exists on is a river that separates [[Azir\|Azir]] and [[Emul\|Emul]].
-Perpetual Sobriety's name and proximity to [[Lasting Integrity\|Lasting Integrity]] may suggest the place is under [[Honorspren\|honorspren]] control.
-[[Nazh\|Nazh]] notes that the place is also perpetually boring, likely due to its lack of alcohol.
+**Sobriedad Perpetua** es un asentamiento en el [[Mar de las Almas\|mar de las Almas]], parte del [[Shadesmar\|subastral roshariano]] del [[Reino Cognitivo\|Reino Cognitivo]]. Se encuentra en una península al norte de [[Belleza Atemporal\|Belleza Atemporal]], y está al sur de la [[Cuenca del Sol Velado\|cuenca del Sol Velado]]. En el [[Reino F%C3%ADsico\|Reino Físico]], la península en la que existe Sobriedad Perpetua es un río que separa [[Azir\|Azir]] y [[Emul\|Emul]].
+El nombre de Sobriedad Perpetua y su proximidad a [[Integridad Duradera\|Integridad Duradera]] pueden sugerir que el lugar está bajo control de los [[Honorspren\|honorspren]].
+[[Nazh\|Nazh]] señala que el lugar también es perpetuamente aburrido, probablemente debido a su falta de alcohol.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 23:26, 18 November 2020 (UTC)
