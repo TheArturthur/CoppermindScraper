@@ -7,6 +7,7 @@
 |**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Daazk** es un guía de Lado Diurno. Fue contratado por [[Khriss\|Khriss]] y asesinado por [[Flennid\|Flennid]].
 

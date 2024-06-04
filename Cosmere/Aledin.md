@@ -10,6 +10,7 @@
 |**Etnia**|Skaa, Noble|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Aledin** es un joven [[Noble\|noble]] de [[Ciudad Fadrex\|Ciudad Fadrex]] en [[Scadrial\|Scadrial]]. Era primo de [[Lentoveloz\|Lentoveloz]] y tenía un hermano llamado [[Troalin\|Troalin]]. Su madre viuda fue ejecutada por tener un escarceo con un sirviente skaa.
 

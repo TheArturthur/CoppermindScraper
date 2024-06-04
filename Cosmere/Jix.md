@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Jix** es un guardia de la [[Casa Davar\|Casa Davar]] en [[Jah Keved\|Jah Keved]] en [[Roshar\|Roshar]].
 

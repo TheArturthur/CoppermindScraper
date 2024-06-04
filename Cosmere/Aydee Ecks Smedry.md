@@ -5,6 +5,7 @@
 |**Capacidades**|[[Talento Smedry\|Talento Smedry]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
 **Aydee Ecks Smedry** is a [[Mokia\|Mokian]]  whose  is that she is very bad at math. She is the younger sister to [[Sing Sing Smedry\|Sing]] and [[Australia Smedry\|Australia]] Smedry.
 

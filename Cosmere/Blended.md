@@ -6,6 +6,7 @@
 |**Especie**|[[Tintaspren\|Tintaspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Es bueno que haya pasado estas semanas adiestrándote en los conceptos básicos. Esto te preparará para tener la mejor probabilidad de victoria...*”
 \-Entrenando a Adolin[1]

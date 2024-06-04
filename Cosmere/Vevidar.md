@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Vevidar** is a quartermaster in the army of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 

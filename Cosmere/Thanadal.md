@@ -1,6 +1,5 @@
 |**Thanadal**|
 |-|-|
-|**Familia**|
 |**Ancestros**|[[Sadees\|Sadees]]|
 |**Fallecido**|Killed by the |
 |**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alethkar\|Alethkar]]|
@@ -9,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Highprince Thanadal** is a [[Highprince\|highprince]] of [[Alethkar\|Alethkar]]. His  is in central Alethkar, and his colors are red and brown. Thanadal's army has one full [[Shardbearer\|Shardbearer]], Brightlord [[Resi\|Resi]], who carries a set of Shards passed down by the royal line and usually given to a warrior who is also given the title of [[Royal Defender\|Royal Defender]]. His army also contains three other men who have either [[Shardplate\|Plate]] or [[Shardblade\|Blade]]; Thanadal himself has neither.
 

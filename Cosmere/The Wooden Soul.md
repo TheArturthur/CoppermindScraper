@@ -1,5 +1,6 @@
 |**Wooden Soul**|
 |-|-|
+|**Fallecido**||
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
 

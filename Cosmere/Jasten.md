@@ -10,6 +10,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Jasten** es un skaa miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]], y un trabajador en el canal.
 Ambos, su hermano [[Thurts\|Thurts]] y él, votaron a [[Ferson Penrod\|Ferson Penrod]] en la elección para el cargo de rey durante el [[Asedio de Luthadel\|asedio de Luthadel]]. Según [[Elend Venture\|Elend Venture]], a ninguno de los dos les gustaba la [[Iglesia del Superviviente\|Iglesia del Superviviente]], por lo que no fueron persuadidos por la devoción de Elend a dicha Iglesia.

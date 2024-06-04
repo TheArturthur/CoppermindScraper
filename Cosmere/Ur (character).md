@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*Oh wait, look, I see your mark here, in blood. Ur’s seat. I was wrong. But mine’s here too. Suppose you can sit in my lap, if you want.*”
 \-Veil after stabbing Ur through the hand.[1]

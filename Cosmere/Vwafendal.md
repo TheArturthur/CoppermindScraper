@@ -11,6 +11,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Vwafendal** es una [[Terris\|terrisana]] que vive en [[La Aldea\|la Aldea]] en [[Elendel\|Elendel]] tras el [[Catacendro\|Catacendro]] de [[Scadrial\|Scadrial]]. Desempeña el cargo de venerable del [[Synod\|Synod]]. También es la abuela materna de [[Waxillium\|Waxillium]] y [[Telsin Ladrian\|Telsin Ladrian]].
 

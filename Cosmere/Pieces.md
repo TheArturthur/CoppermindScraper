@@ -1,29 +1,32 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Piezas**|
 |-|-|
-|**Tipo**|Game|
+|**Tipo**|Juego|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-**Pieces** is a guessing game played on [[Roshar\|Roshar]].
+**Piezas** es un juego de adivinanzas jugado en [[Roshar\|Roshar]].
 
 ## Sumario
 
-1 Gameplay. [[#Gameplay]] 
-2 Culture. [[#Culture]] 
-3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+1 Cómo jugar. [[#C.C3.B3mo jugar]] 
+2 Cultura. [[#Cultura]] 
+3 Historia. [[#Historia]] 
+4 Notas. [[#Notas]] 
 
 
-## Gameplay
-The game involves a player taking the role of the "mink" and arranging ten unique tiles or tokens such that nine of them are placed face down in a triangle, with the tenth piece placed face up and referred to as the "seed". The other players attempt to duplicate the mink's hidden arrangement by asking questions, peeking, and guessing. Certain rules can force the mink to reveal information about the placement of the hidden tokens. The players place bets on who will make the closest match. When a player "calls", the round ends and the pattern is revealed. The mink and the player with the most correct matches split the pot; the mink's share is determined by several factors including the length of the round.
+## Cómo jugar
+El juego consiste en que un jugador adopta el papel de «visón» y dispone diez ladrillitos o piezas únicas de forma que nueve de ellas se colocan boca abajo en un triángulo, y la décima pieza se coloca boca arriba y se denomina «semilla». Los demás jugadores intentan duplicar la disposición oculta del visón haciendo preguntas, espiando y adivinando. Ciertas reglas pueden obligar al visón a revelar información sobre la colocación de las fichas ocultas. Los jugadores hacen apuestas sobre quién hará la apuesta más igualada. Cuando un jugador «avisa», la ronda termina y se revela el patrón. El visón y el jugador con más aciertos se reparten el bote; la parte del visón viene determinada por varios factores, entre ellos la duración de la ronda.
 
-## Culture
-Pieces is one of the few wagering games allowed by the [[Vorin\|Vorin]] church since there is no randomization that would lead to players attempting to "guess the future". Pieces is often played by  soldiers, and at least one version of the game uses the ten Alethi [[Highprince\|Highprinces]] as the ten tokens.
+## Cultura
+Piezas es uno de los pocos juegos de apuestas permitidos por la iglesia [[Vorin\|vorin]] ya que no hay aleatoriedad que lleve a los jugadores a intentar «adivinar el futuro». Es a menudo jugado por soldados [[Alezi\|alezi]] y al menos una versión del juego utiliza los diez símbolos de los [[Alto pr%C3%ADncipe\|altos príncipes]] alezi como las diez fichas.
 
-## History
-While in [[Urithiru\|Urithiru]], [[Shallan\|Veil]] found Shallan's men—[[Vathah\|Vathah]], [[Gaz\|Gaz]], [[Red (Roshar)\|Red]] and [[Shob\|Shob]]—playing pieces in the [[Sebarial\|Sebarial]] barracks common room. The round began with Vathah playing as the mink, but Shob called for the finish after only a few rounds, frustrating Gaz and Red. Vathah was amazed when Veil was able to discern the exact layout with minimal effort. Gaz ran out of [[Spheres\|spheres]] and the men switched to playing for [[Ends\|ends]] instead.
+## Historia
+Estando en [[Urithiru\|Urithiru]], [[Shallan\|Velo]] encontró a los hombres de Shallan ([[Vathah\|Vathah]], [[Gaz\|Gaz]], [[Rojo (Roshar)\|Rojo]] y [[Shob\|Shob]]) jugando a piezas en la sala común del cuartel de [[Sebarial\|Sebarial]]. La ronda comenzó con Vathah jugando como el visón, pero Shob avisó del final después de unas pocas rondas, frustrando a Gaz y Rojo. Vathah se sorprendió cuando Velo fue capaz de discernir el trazado exacto con el mínimo esfuerzo. Gaz se quedó sin [[Esfera\|esferas]] y los hombres pasaron a jugar con [[Ends\|ends]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 00:05, 2 September 2020 (UTC)

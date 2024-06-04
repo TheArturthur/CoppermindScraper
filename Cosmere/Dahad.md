@@ -8,6 +8,7 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 Dahad** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]] durante el Reod.**
 Siguió a [[Aanden\|Aanden]] hasta que se unió al asentamiento de [[Nueva Elantris\|Nueva Elantris]], y utilizó sus habilidades para trabajar la piedra.

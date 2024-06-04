@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Varanis** is a [[Listener\|listener]] lieutenant on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. He serves under [[Eshonai\|Eshonai]] during the [[War of Reckoning\|War of Reckoning]].
 

@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Urv** is a [[Siln\|Siln]]  at [[Jokasha Monastery\|Jokasha Monastery]] in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

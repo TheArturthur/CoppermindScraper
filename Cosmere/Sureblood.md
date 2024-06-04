@@ -6,6 +6,7 @@
 |**Especie**|[[Ryshadio\|Ryshadio]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*There had been a ... bond between him and Sureblood. More delicate and indefinable than the bond between man and sword, but still there.*”
 \-Adolin[2]

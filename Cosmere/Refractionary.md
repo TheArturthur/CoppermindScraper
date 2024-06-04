@@ -3,6 +3,7 @@
 |**Fallecido**|Killed by Megan Tarash|
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 **Refractionary** is an illusionist  in .
 

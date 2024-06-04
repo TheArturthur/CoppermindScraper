@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Ilamar** es el jefe de caballería del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] en [[Roshar\|Roshar]].
 
@@ -18,7 +19,7 @@ Ilamar es un hombre [[Ojos claros\|ojos claros]] [[Alezi\|alezi]]; sin embargo, 
 ## Historia
 Sobre 1145, en la batalla decisiva de [[Gavilar Kholin\|Gavilar Kholin]] contra el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Kalanor\|Kalanor]], Ilamar y su grupo de cincuenta jinetes lucharon armados con garfios y cuerdas para atacar a los [[Portador de esquirlada\|portadores de esquirlada]] enemigos.
 En 1173, Ilamar continuó al frente de la caballería durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Notificó a Dalinar que la caballería estaba lista para dirigirse a las [[Llanuras Quebradas\|Llanuras Quebradas]] en la búsqueda de una [[Gema coraz%C3%B3n\|gema corazón]], pero [[Torol Sadeas\|Torol Sadeas]] retrasó la expedición, exigiendo entrar en el campamento de guerra Kholin para investigar un intento de asesinato al [[Elhokar Kholin\|rey]]. Una vez en la ubicación de la gema corazón, Ilamar esperó a que Dalinar y [[Adolin\|Adolin]] despejasen una meseta de [[Parshendi\|parshendi]] antes de conducir a la caballería a través de los puentes.
-Dalinar se reunió con Ilamar y [[Teleb\|Teleb]] en el campo de batalla aproximadamente un mes después, antes de asaltar la [[Torre (Roshar)\|Torre]]. Ilamar murió durante la [[Batalla de la Torre\|Batalla de la Torre]] junto con [[Havar\|Havar]], [[Perethom\|Perethom]] y seis mil miembros más del ejército Kholin.
+Dalinar se reunió con Ilamar y [[Teleb\|Teleb]] en el campo de batalla aproximadamente un mes después, antes de asaltar la [[Torre (Roshar)\|Torre]]. Ilamar murió durante la [[Batalla de la Torre\|Batalla de la Torre]] junto con [[Havar\|Havar]], [[Perethon\|Perethon]] y seis mil miembros más del ejército Kholin.
 
 ## Notas
 

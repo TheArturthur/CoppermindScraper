@@ -7,9 +7,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 **Ruli** is one of [[Taravangian\|Taravangian]]'s granddaughters.
-In a letter sent to Taravangian while he is in [[Urithiru\|Urithiru]], [[Karavaniga\|Karavaniga]] sends a letter with a sketch of the three grandchildren, including Ruli and [[Gvori\|Gvori]]. Ruli had included a small drawing of some flowers.
- is not the grandchild who Tarvangian has trapped following a rockfall.
-
+In a letter sent to Taravangian while he is in [[Urithiru\|Urithiru]], [[Karavaniga\|Karavaniga]] sends a letter with a sketch of the three grandchildren, including Ruli and [[Gvori\|Gvori]]. Ruli had included a small drawing of some flowers. Ruli is not the grandchild who was trapped following a rockfall.
 
 ## Notes
 

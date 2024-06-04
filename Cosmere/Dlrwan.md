@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 **Drlwan** es una marinera [[Thaylenah\|thayleña]]. Fue elegida por [[Vstim\|Vstim]] para ser capitana del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*. Su hermano [[Kstled\|Kstled]] sirve bajo su mando como hombre de armas.
 

@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Care. The key to fighting isn't lack of passion, it's controlled passion. Care about winning. Care about those you defend. You have to care about something.*”
 \-Tukks[2]

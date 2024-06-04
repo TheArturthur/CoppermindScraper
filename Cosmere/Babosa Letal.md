@@ -8,6 +8,7 @@
 |**Especie**|[[Taynix\|Taynix]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]*, *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

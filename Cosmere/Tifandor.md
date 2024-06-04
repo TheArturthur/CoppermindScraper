@@ -5,7 +5,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 **Tifandor** is the author of a biography on King [[Gavilar\|Gavilar]] on [[Roshar\|Roshar]].
-[[Shallan\|Shallan]] asked to search Tifandor's biography as an excuse to do research on [[Voidbringer\|Voidbringers]]. On her way back she is intercepted by [[Kabsal\|Kabsal]] and then uses him as an excuse for taking so long.
+[[Shallan\|Shallan]] asked to search for Tifandor's biography in the [[Palanaeum\|Palanaeum]] as a cover to leave [[Jasnah\|Jasnah]] for long enough to do some research on the [[Voidbringer\|Voidbringers]]. After being intercepted by [[Kabsal\|Kabsal]], she retrieved the book from one of the lower levels before returning to Jasnah.
 
 ## Notes
 

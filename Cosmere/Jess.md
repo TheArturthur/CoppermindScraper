@@ -8,6 +8,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Jess** es una [[Skaa\|skaa]] de la [[Plantaci%C3%B3n Tresting\|Plantación Tresting]] en el [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]].
 Tenía una hija atractiva, y temía que [[Themos Tresting\|Themos Tresting]] la tomase para sí. Este mandó a buscar a la joven, pero fue rescatada cuando [[Kelsier\|Kelsier]] lo mató a él y al resto de trabajadores de la plantación.

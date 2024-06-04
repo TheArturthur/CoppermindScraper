@@ -1,10 +1,7 @@
 |**Thunor**|
 |-|-|
-|**Familia**|
 |**Parientes**|[[Woden\|Woden]], [[Friag\|Friag]]|
 |**Mundo natal**||
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

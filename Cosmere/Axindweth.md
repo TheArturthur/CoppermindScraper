@@ -7,6 +7,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|Desconocido|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Axindweth** es un miembro del séquito del rey [[Gavilar Kholin\|Gavilar Kholin]] que participa en sus tratos con las fuerzas de [[Odium\|Odium]]. Se encuentra con [[Venli\|Venli]] y le da una [[Gema\|gema]] que contiene a [[Ulim\|Ulim]].
 

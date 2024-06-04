@@ -4,6 +4,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 **Nightwielder** is a  that is part of 's inner circle. He is the one responsible for 's constant darkness.
 

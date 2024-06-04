@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Naget** es un habitante de [[Piedralar\|Piedralar]] en [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]].
 

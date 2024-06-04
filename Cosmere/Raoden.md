@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Raoden** es el único hijo del rey [[Iadon\|Iadon]] y es el actual rey de [[Arelon\|Arelon]].
 

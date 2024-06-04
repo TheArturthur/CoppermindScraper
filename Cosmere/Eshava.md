@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Eshava** es una mujer [[Ojos claros\|ojos claros]] [[Alezi\|alezi]] de los campos de guerra del alto príncipe [[Aladar\|Aladar]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
 Es conocida del príncipe [[Adolin Kholin\|Adolin Kholin]] y acompañó a [[Toral\|Toral]] y algunos otros jóvenes ojos claros (incluyendo a [[Danlan Morakotha\|Danlan Morakotha]], [[Jakamav\|Jakamav]] e [[Inkima\|Inkima]]) a una reunión social en una tienda de vinos en el [[Mercado Exterior\|Mercado Exterior]]. Expresó frustración con respecto a las políticas sociales restrictivas de el alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] aplicando los [[C%C3%B3digos de Guerra Alezi\|Códigos de Guerra Alezi]]. Incluso sugirió que Dalinar debería abdicar, enfureciendo a Adolin. Intentó sin éxito cambiar de tema, y Toral intervino para decirle a Adolin que muchas personas compartían la opinión de Eshava.

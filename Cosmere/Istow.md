@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 La brillante señora **Istow** es una mujer [[Ojos claros\|ojos claros]] [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]]. Ejerce de alta juez, oficiando los duelos.
 

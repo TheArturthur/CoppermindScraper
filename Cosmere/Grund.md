@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Allí, hecha un ovillo en el suelo, la muerte de Grund se le antojó una sombra de todo lo demás, de sus buenas intenciones convertidas en arrogancia.*”
 \-Shallan[2]

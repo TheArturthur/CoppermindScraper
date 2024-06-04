@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Scion Unoqua** is the religious leader of [[Yanagawn\|Yanagawn]]'s court in [[Azir\|Azir]] on [[Roshar\|Roshar]].
 

@@ -9,6 +9,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Protegemos a aquellos que no puedan protegerse a sí mismos.*”
 \-Drehy a Kaladin, mostrándole al príncipe rescatado Gavinor[1]

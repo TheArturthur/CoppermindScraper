@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Kharbranth\|de Kharbranth]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Artmyrn** es un mercader de libros [[Thayle%C3%B1o\|thayleño]] de [[Kharbranth\|Kharbranth]], en [[Roshar\|Roshar]].
 

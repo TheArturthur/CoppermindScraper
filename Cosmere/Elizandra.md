@@ -7,6 +7,7 @@
 |**Etnia**|[[Koloss\|Koloss]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Alomante Jak y los Pozos de Eltania\|Alomante Jak y los Pozos de Eltania]]*|
 
 **Elizandra Dramali** es la novia sangre-[[Koloss\|koloss]] de [[Alomante\|alomante]] [[Jak\|Jak]].
 

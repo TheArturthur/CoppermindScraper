@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 **Brekv** es un marinero [[Thaylen\|thayleño]] en [[Roshar\|Roshar]]. Trabaja en la tripulación de un barco de exploración capitaneado por [[Smta\|Smta]].
 Cuando [[Yalb\|Yalb]] avista el *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* en la lejanía, trepó para unirse a Brekv, que estaba apostado en el [[/wiki/Anguila a%C3%A9rea#referencias culturales]], para preguntarle qué podía ver con su catalejo. Brekv le dijo a Yalb que el barco no ondeaba ninguna bandera y preguntó si quería que informara a la capitana.

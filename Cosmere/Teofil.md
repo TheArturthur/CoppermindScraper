@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*We will carve a hole to the basement steps, then fight down and clear a path for the queen. By the blood of our fathers!*”
 \-Teofil[2]

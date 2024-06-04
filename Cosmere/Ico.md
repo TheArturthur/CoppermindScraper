@@ -12,6 +12,7 @@
 |**Residencia**|[[Shadesmar\|Shadesmar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*En todo caso, no pretendía insultarte. No es culpa tuya. Traicionar los juramentos está en tu naturaleza, como humano, nada más.*”
 \-Ico[1]

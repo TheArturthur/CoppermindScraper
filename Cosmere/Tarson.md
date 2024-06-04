@@ -9,6 +9,7 @@
 |**Etnia**|[[Koloss\|Koloss]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Tarson** es un [[Koloss\|sangre koloss]] [[Brumoso\|brumoso]] de [[Peltre\|peltre]] (también conocido como [[Brazo de peltre\|brazo de peltre]]) en [[Scadrial\|Scadrial]]. Es un [[Sabio\|sabio]] de [[Peltre\|peltre]].
 

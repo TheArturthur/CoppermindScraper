@@ -8,6 +8,7 @@
 |**Especie**|[[Seon\|Seon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Se… supone que debo quedarme. No debería hablar. Con vosotros. Con nadie.*”
 \-Ala a Shallan[1]

@@ -1,7 +1,8 @@
 |**Stewart**|
 |-|-|
 |**Oficio**|Father|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Presentado en**|**|
 
 **Father Stewart** is a [[Jamestown\|Jamestown]] priest. He is in charge of the local .
 Despite his initial reluctance, he preformed [[Joel Saxon\|Joel Saxon]]'s second .

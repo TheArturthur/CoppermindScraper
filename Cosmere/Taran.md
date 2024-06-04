@@ -2,6 +2,7 @@
 |-|-|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Taran** is a serving boy in [[Tvlakv\|Tvlakv]]'s slave caravan on [[Roshar\|Roshar]].
 He is described as lanky, and he tends to the [[Chull\|chulls]] that pull the caravan. He is present when Tvlakv transports [[Kaladin\|Kaladin]] and a number of other slaves to the [[Shattered Plains\|Shattered Plains]]. Along with [[Bluth\|Bluth]] and [[Tag\|Tag]], he appears to be in Tvlakv's employ, as he is not kept in a cage like the slaves.

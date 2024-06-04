@@ -8,6 +8,7 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Soy yo quien escucha su lamento sin voz, quien contempla su dolor sin vista. Antes vería Integridad Duradera derrumbada piedra a piedra que aceptar enviar a un solo honorspren a que sufra un destino similar.*”
 \-Amuna durante el juicio de Adolin[1]

@@ -2,6 +2,7 @@
 |-|-|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Yix** is a member of [[Macob\|Macob]]'s caravan.
 He has golden hair and is likely of [[Iriali\|Iriali]] descent. He is potentially multilingual, though it is unknown which languages he speaks. He wears tan clothing and carries a sword, though unlike in [[Vorin\|Vorin]] society, this is not necessarily indicative of his rank. He is a highly suspicious person and good at moving stealthily.

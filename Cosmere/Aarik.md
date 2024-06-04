@@ -13,6 +13,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 >“*¿Como llevas lo de no estar muerto?*”
 \-Aarik a Kenton durante su reunión.[2]

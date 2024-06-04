@@ -2,6 +2,7 @@
 |-|-|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Suna** is a slave in [[Tvlakv\|Tvlakv]]'s caravan.
 He's a timid, quiet man, wearing a set of tunic and trousers given to [[Shallan\|Shallan]] by merchants she'd rescued. Rather than being branded, he is, like the rest of Tvlakv's group, tattooed, indicated he's either a child of a slave or someone who willingly entered servitude, perhaps to pay off a debt.

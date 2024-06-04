@@ -4,6 +4,7 @@
 |**Oficio**|Boxer , door guard , [[Skop\|skop]]'s husband|
 |**Grupo**| cartel|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -39,7 +40,7 @@ He has artistic skills that are impressive by medieval standards, and he is good
 ## History
 ### Early Life
 In his childhood, he would often go fishing with a woman he called Grandmother Dobson, he still looks fondly upon those memories.
-He joined art school, but he felt as if he could never compete with anyone else in the school, he dropped out. Following his dropping out, he tried to join the police with [[Ryan Chu\|Ryan Chu]], training as a forensic artist, but eventually dropped out of that as well.
+He joined art school, but he felt as if he could never compete with anyone else in the school, he dropped out. Following his dropping out, he tried to join the police with [[Ryan Chu\|Ryan Chu]], training as a forensic artist, but was eventually kicked out of that as well because "he didn't have the right attitude", as his teachers told him.
 Washed up and with nowhere to go, he joined Fabian Augments, but ultimately was just used as a door guard after his career as a boxer who played in rigged fights to earn his boss, [[Ulric\|Ulric]], money. During his last fight, his chest and head augments were purposely turned off, and he threw the fight with [[Quinn\|Quinn]], but due to the lack of augments he was damaged far more than usual and had to quit.
 At some point, Jen left for what he thought was Europe, and disappeared. Several months later he called her family to see if she was alright, and had her grandmother inform him, wrongly, that she was dead. Believing that she passed away in an accident, he spiraled further into despair.
 

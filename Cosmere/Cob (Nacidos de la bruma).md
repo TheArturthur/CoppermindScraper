@@ -5,6 +5,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 Para otros usos de Cob, ver [[Cob\|Cob]].
 **Cob** es un cochero que trabaja para la [[Casa Ladrian\|Casa Ladrian]] en [[Elendel\|Elendel]].

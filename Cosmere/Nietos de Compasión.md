@@ -9,6 +9,7 @@
 |**Etnia**|[[De Treno\|de Treno]]|
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 Los **nietos de Compasión** son trenoditas que viven en [[Baliza\|Baliza]] al final del gobierno del [[Rey Incandescente\|Rey Incandescente]]. Su abuela, [[Compasi%C3%B3n\|Compasión]], es el miembro de mayor edad del [[El Bien Mayor\|Bien Mayor]], el consejo gobernante de Baliza. Están presentes cuando [[Zellion\|Zellion]] consigue entrar en la [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|instalación de investigación scadriana]] y traen una silla para que Compasión se siente en ella.

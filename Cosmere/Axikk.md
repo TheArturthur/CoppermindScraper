@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Axikk** es un visir en el gobierno [[Azishiano\|Azishiano]] de [[Roshar\|Roshar]].
 

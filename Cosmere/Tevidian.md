@@ -11,6 +11,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*Nacidos de la bruma: El Imperio Final*|
 
 **Tevidian Tekiel** fue el sumo prelado del [[Ministerio del Acero\|Ministerio del Acero]] en [[Scadrial\|Scadrial]] durante poco tiempo en el [[Imperio Final\|Imperio Final]], y padre de [[Vin\|Vin]]. Fue un [[Casa Tekiel\|Tekiel]], un [[Noble\|noble]] de una línea muy pura, pero tuvo que renunciar a su apellido para unirse al Ministerio del Acero.
 Tevidian se acostó con varias mujeres [[Skaa\|skaa]]. En última instancia, engendró ilegítimamente a [[Vin\|Vin]] y a su hermana menor, proporcionándoles a ambas la alomancia, Vin siendo [[Alomancia\|nacida de la bruma]] y su hermana pequeña siendo [[Bronce\|buscadora]]. Afirmó que mató a todas las skaa con las que se acostó, pero la [[Madre de Vin\|madre de Vin]] engañó a Tevidian haciéndole creer que era noble, siendo así laxo con ella. Tevidian finalmente la encontró y la mató, pero no logró matar a Vin ni a su hermana. Tevidian no reconoció a Vin, y esta sospechaba que Tevidian nunca supo que había sido padre.

@@ -17,6 +17,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final (libro)]]*|
 
 **Elend Venture** es un [[Noble\|noble]] de [[Scadrial\|Scadrial]]. Después del [[Colapso\|Colapso]], se convirtió en rey del [[Dominio Central\|Dominio Central]], y después Alto Emperador del [[Nuevo Imperio\|Nuevo Imperio]]. Tras tragarse una perla de [[Lerasium\|lerasium]], se convirtió en [[Alomancia\|nacido de la bruma]]. Está casado con [[Vin\|Vin]].
 

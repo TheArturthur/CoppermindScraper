@@ -1,6 +1,5 @@
 |**Rillir Roshone**|
 |-|-|
-|**Familia**|
 |**Padres**|[[Toralin Roshone\|Toralin Roshone]]|
 |**Nacido en**|c. 1151-1152|
 |**Fallecido**|? 1168|
@@ -9,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*I'm cityheir. My duty is to lead—to see that jobs get done and that people are occupied in productive work. And as such, I give important tasks to idling darkeyes to make them useful.*”
 \-Rillir to Kaladin[1]

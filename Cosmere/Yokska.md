@@ -6,6 +6,7 @@
 |**Etnia**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Yokska** is a [[Thaylen\|Thaylen]] tailor in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].
 

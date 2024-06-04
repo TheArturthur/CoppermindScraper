@@ -6,6 +6,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*With the way justice plays out in this world, I can guarantee you'll outlive the rest of us.*”
 \-Vathah to Shob[1]

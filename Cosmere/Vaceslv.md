@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Vaceslv** is a member of the [[Kholinar Wall Guard\|Kholinar Wall Guard]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is a part of [[Noro\|Noro]]'s squad, Platoon Seven, Squad Two.
 

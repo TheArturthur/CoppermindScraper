@@ -6,6 +6,7 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Hadinar** es un señor de batallón en la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] en [[Roshar\|Roshar]] y un oficial de confianza de la alta mariscal [[Celeste\|Celeste]].
 

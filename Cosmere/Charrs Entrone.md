@@ -9,6 +9,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Charrs Entrone** fue un [[Noble\|noble]] en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
 Era famoso por su retorcido sentido del placer, disfrutando de cosas como las peleas a sangre de los [[Skaa\|skaa]]. Sin embargo, una noche después de una pelea, [[Kelsier\|Kelsier]] asesinó al borracho Charrs Entrone, y arrojó el cadáver del lord en los jardines de la [[Fortaleza Tekiel\|Fortaleza Tekiel]]. Como la [[Casa Entrone\|Casa Entrone]] era un importante aliado político de la [[Casa Tekiel\|Casa Tekiel]], Kelsier esperaba que la muerte de Charrs les llevara a sospechar de su rival, la [[Casa Izenry\|Casa Izenry]], pero el adversario en las apuestas de Charrs había sido [[Crews Geffenry\|Crews Geffenry]], que era un conocido [[/wiki/Alomancia#Nacido de la bruma]]. O bien Tekiel podía culpar a Izenry, o a la [[Casa Geffenry\|Casa Geffenry]], que había estado solicitando una alianza más fuerte con Tekiel. A Kelsier no le importaba quién era el verdadero culpable, ya que simplemente quería que la nobleza se cuestionara y se preocupara.

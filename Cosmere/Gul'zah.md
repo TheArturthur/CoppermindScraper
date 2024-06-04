@@ -6,6 +6,7 @@
 |**Especie**|[[Burl (especie)\|Burl]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Estelar\|Estelar]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]* y *[[Cit%C3%B3nica (libro)\|Citónica]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

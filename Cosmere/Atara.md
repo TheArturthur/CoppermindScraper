@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Atara** es la esposa del duque [[Telrii\|Telrii]] de [[Arelon\|Arelon]] en [[Sel\|Sel]].
 

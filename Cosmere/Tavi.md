@@ -2,6 +2,7 @@
 |-|-|
 |**Capacidades**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Calamity\|Calamity]]*|
 
 **Tavi** is the daughter of [[Jonathan Phaedrus\|Jonathan Phaedrus]] and [[Tia\|Tia]] in the alternate universe to which Firefight is native. Tavi has short red hair in a pixie cut, and wears jeans and a denim jacket.
 

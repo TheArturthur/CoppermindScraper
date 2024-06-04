@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Tashikk\|de Tashikk]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Edgedancer (novella)\|Edgedancer]]*|
 
 **Tiqqa** is an urchin girl in [[Yeddaw\|Yeddaw]] on [[Roshar\|Roshar]].
 

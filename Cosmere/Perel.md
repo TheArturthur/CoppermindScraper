@@ -4,6 +4,7 @@
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 Para the Sebarial officer in Urithiru, ver [[Vedekar Perel\|Vedekar Perel]].
 **Perel** is a field commander on [[Roshar\|Roshar]].
 

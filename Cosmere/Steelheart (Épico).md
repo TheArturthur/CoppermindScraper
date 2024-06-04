@@ -6,6 +6,7 @@
 |**Apodos**|Paul Jackson|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 This article is for the Epic named Steelheart. Para the novel of the same name, ver [[Steelheart\|Steelheart]].
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.

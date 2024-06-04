@@ -4,6 +4,7 @@
 |**Grupo**|Ejército de Amaram's|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Gotta do what you can to stay alive, son. Turn a liability into an advantage whenever you can. Remember that, if you live.*”
 \-Varth to Kaladin[1]

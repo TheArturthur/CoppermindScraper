@@ -5,6 +5,7 @@
 |**Grupo**|Escudera de [[Orden de los Rompedores del Cielo\|Rompedor del Cielo]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Cali** es una escudera de [[Orden de los Rompedores del Cielo\|Rompedor del cielo]] bajo enseñanza de los maestros Rompedores del Cielo [[Ki\|Ki]] y [[Warren\|Warren]].
 Ella compite contra [[Szeth\|Szeth]] en una prueba de competencia marcial sobre el [[Lagopuro\|Lagopuro]], para probar su habilidad con las [[Potencia\|potencias]]. Los escuderos tienen que arrojar bolsas rellenas de polvo de color a los demás y evitar ser golpeados. Durante la prueba Szeth dobla un poste fuera del alcance de Cali evitando que consiga una bolsa.

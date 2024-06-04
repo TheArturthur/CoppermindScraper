@@ -6,6 +6,7 @@
 |**Etnia**|[[Koloss\|Koloss]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 ***Granito* Joe** fue un criminal de [[Koloss\|sangre koloss]] de [[Los %C3%81ridos\|los Áridos]] en [[Scadrial\|Scadrial]].
 

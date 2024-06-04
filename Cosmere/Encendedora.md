@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Soportaré la horrible carga de ser la más maravillosa de los dioses.*”
 \-Encendedora a Sondeluz.[3]

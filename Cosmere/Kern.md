@@ -2,6 +2,7 @@
 |-|-|
 |**Oficio**|Admiral|
 |**Mundo natal**|*Desconocido*|
+|**Presentado en**|*[[Firstborn\|Firstborn]]*|
 
 **Kern** was a High Admiral in the imperial navy.
 

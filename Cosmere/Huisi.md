@@ -6,6 +6,7 @@
 |**Residencia**|[[Yeddaw\|Yeddaw]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
 
 **Huisi** es una niña huérfana en [[Roshar\|Roshar]]. Vive al cuidado de la [[Toc%C3%B3n\|Tocón]] en el [[Orfanato Luz de Tashi\|Orfanato Luz de Tashi]] de [[Yeddaw\|Yeddaw]].
 Tiene dificultades para hablar. [[Lift\|Lift]] da a entender que una vez culpó a Huisi de unas galletas perdidas porque esta tiene tendencia a roncar.

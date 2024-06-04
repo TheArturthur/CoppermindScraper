@@ -3,9 +3,10 @@
 |**Familia**|
 |**Hermanos**|[[Melody Muns\|Melody]], 3 others|
 |**Poderes**|[[Rithm%C3%A1tica\|Rithmática]]|
-|**Oficio**|Estudiante |
+|**Oficio**|Student |
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Presentado en**|**|
 
 **William Muns** is a  fighting at the .
 William is [[Melody Muns\|Melody]]'s brother. They come from the Floridian Atolls where their parents still live. Both parents as well as William's and Melody's siblings are Rithmatists, which seemed to be nearly impossible.

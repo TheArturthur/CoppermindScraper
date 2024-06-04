@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Fjorden\|de Fjorden]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Algún día lo llamarían su salvador.*”
 \-Hrathen[2]

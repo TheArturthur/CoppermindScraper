@@ -4,6 +4,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Rin** is a captain of [[House Davar\|House Davar]]'s guards in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]].
 

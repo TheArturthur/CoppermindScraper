@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Majestad, me temo que nuestra conversación de hoy ha girado en círculos y que no se ha conseguido nada.*”
 \-Jayla Ruthar al rey Elhokar Kholin[1]

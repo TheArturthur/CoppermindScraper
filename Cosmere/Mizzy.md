@@ -6,6 +6,7 @@
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Residencia**|[[Babilar\|Babilar]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Calamity\|Calamity]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 **Missouri Williams**, known as **Mizzy**, is a member of the [[Reckoners\|Reckoners]].

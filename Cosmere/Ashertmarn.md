@@ -9,6 +9,7 @@
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“* Ashertmarn, el Corazón del Festejo, es el último de los tres grandes Deshechos sin mente. Su don a la humanidad no es la profecía ni la concentración en la batalla, sino un anhelo de gratificación.*”
 \- De Mítica de Hessi, página 203.[1]

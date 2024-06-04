@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Jest** es un hombre [[Ojos oscuros\|ojos oscuros]] de [[Piedralar\|Piedralar]] en [[Alethkar\|Alethkar]], en [[Roshar\|Roshar]], que creció con [[Kaladin\|Kaladin]].
 Jest nació en una familia típica de Piedralar de cuarto o quinto [[Nahn\|nahn]]. Sus padres son agricultores y su padre pasó algún tiempo como soldado. Sigue la fe [[Vorin\|vorin]] y hace referencia a las enseñanzas de los fervorosos de que los hombres deben convertirse en guerreros para luchar por los [[Salones Tranquilos\|Salones Tranquilos]]. Kaladin menciona el nombre de Jest como ejemplo de nombres sólidos de ojos oscuros alezi, a diferencia del suyo propio.

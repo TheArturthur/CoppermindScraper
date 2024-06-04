@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 >“*Ojalá pudiéramos presentarles un frente más fuerte. Ellos han logrado mucho durante nuestros siglos de separación, y nosotros recordamos muy poco.*”
 \-Gangnah hablando sobre los humanos[2]

@@ -8,6 +8,7 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Eonic** es un herrero que vive en [[/wiki/Elantris (ciudad)#Nueva Elantris]] en [[Arelon\|Arelon]] en [[Sel\|Sel]].
 Eonic es uno de los [[Elantrinos\|elantrinos]] "incompletos" que viven en la ciudad en ruinas durante el periodo posterior al [[Reod\|Reod]]. Como elantrino, es descendiente [[A%C3%B3nico\|aónico]], y su nombre se basa en el [[/wiki/Aon#Eon]].

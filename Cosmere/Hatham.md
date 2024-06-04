@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 Este artículo contiene información sobre el alto príncipe alezi. Para el señor alezi con el mismo nombre de casa, ver [[Rine Hatham\|Rine Hatham]].
 >“*Debemos presentar un Alezkar unificado. No debemos permitir que nos ataquen uno a uno, y no debemos pelearnos.*”

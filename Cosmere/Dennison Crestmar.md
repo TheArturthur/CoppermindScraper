@@ -5,6 +5,7 @@
 |**Padres**|[[Sennion Crestmar\|Sennion]]|
 |**Hermanos**|[[Varion Crestmar\|Varion]]|
 |**Mundo natal**|[[Imperial Homeworld\|Imperial Homeworld]]|
+|**Presentado en**|*[[Firstborn\|Firstborn]]*|
 
 **Dennison Crestmar** is a High Duke in the [[High Empire\|High Empire]].
 

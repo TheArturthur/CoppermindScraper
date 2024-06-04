@@ -6,6 +6,7 @@
 |**Hijos**|[[Alcatraz Smedry\|Alcatraz]]|
 |**Capacidades**|[[Bibliotecario\|Bibliotecario]], [[Talento Smedry\|Talento Smedry]]|
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[Alcatraz Versus the Evil Librarians\|Alcatraz Versus the Evil Librarians]]*|
 
 **Shasta Smedry** (aka **Ms. Fletcher**) is a . She married [[Attica Smedry\|Attica Smedry]], gaining his  for losing things, and is [[Alcatraz Smedry\|Alcatraz]]'s mother.
 

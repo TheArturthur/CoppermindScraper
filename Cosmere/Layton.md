@@ -3,6 +3,7 @@
 |**Oficio**|Professor|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 **Layton** is a professor of mathematics at .
 In one of his classes, he teaches [[Joel\|Joel]] as well as three  students: [[Melody\|Melody]], , and [[Luc\|Luc]].

@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Iri\|de Iri]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 >“*¡Y así la bestia hedionda fue derrotada!*”

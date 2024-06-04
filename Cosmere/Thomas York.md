@@ -2,7 +2,8 @@
 |-|-|
 |**Oficio**|Principal|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**|[[Tierra (Rithmatista)\|Tierra (Rithmatista)]]|
+|**Mundo natal**||
+|**Presentado en**|**|
 
 **Thomas York** is the principal of .
 Despite being in charge of one of the eight Rithmatic Academies of the , he is notably not a .

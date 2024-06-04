@@ -16,6 +16,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*"El tratado protege a nuestro pueblo."  "Austre protege a nuestro pueblo."*”
 \-Fafen y Vivenna hablando de la partida de Siri de Idris.[2]

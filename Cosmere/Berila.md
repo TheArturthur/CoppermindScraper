@@ -9,6 +9,7 @@
 |**Etnia**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Creo que todos ocultamos el dolor hasta cierto punto.*”
 \-Berila a Shallan[2]

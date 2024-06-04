@@ -5,6 +5,7 @@
 |**Etnia**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Ristina** is an  scribe in [[Urithiru\|Urithiru]].
 

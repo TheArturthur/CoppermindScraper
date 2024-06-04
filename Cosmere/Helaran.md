@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Helaran Davar** es un [[Portador de esquirlada\|portador de esquirlada]] [[Jah Keved\|veden]] de [[Roshar\|Roshar]]. Helaran es el mayor de los hijos de la [[Casa Davar\|casa Davar]], y sus hermanos pequeños son: [[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], y [[Shallan\|Shallan]]. Antes era conocido como **Nan Helaran Davar**, que le identificaba como el primogénito y heredero de su casa hasta que fue despojado del título cuando [[Lin Davar\|su padre]] le repudió.
 

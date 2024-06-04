@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 Brightlord **Yezriar** is a crown prince of one of the  princedoms on [[Roshar\|Roshar]]. He was killed by [[Dalinar\|Dalinar]] early in [[Gavilar\|Gavilar]]'s unification war.
 

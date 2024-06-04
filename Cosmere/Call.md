@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 El **señor Call** es un contable en [[Gestor%C3%ADa Contable e Inmobiliaria Call e Hijo e Hijas\|Gestoría Contable e Inmobiliaria Call e Hijo e Hijas]] de [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]]. Es presumiblemente el fundador o el "Hijo" que aparece en el nombre de su firma de contabilidad. Se le asigna la cuenta de [[Wayne\|Wayne]] como administrador de patrimonio.
 

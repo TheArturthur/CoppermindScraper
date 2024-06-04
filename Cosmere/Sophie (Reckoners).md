@@ -1,6 +1,5 @@
 |**Sophie**|
 |-|-|
-|**Familia**|
 |**Padres**|[[Abigail Casey\|Abigail Casey]]|
 |**Fallecido**|Killed by an Epic|
 |**Residencia**||

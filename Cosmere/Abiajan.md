@@ -8,6 +8,7 @@
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Qué recuerdo más curioso. Ahora esa vida me parece un sueño. Recuerdo el dolor. La confusión. Una figura severa que me provocó más dolor… aunque ahora sé que pretendías curarme. Fueron muchas molestias las que te tomaste por una niña esclava.*”
 \-Abiajan a Lirin[1]

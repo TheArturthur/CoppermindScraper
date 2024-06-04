@@ -111,7 +111,7 @@ Dalinar, como resultado directo de la traición de Sadeas, insiste en convertirs
 
 [[Havar\|Havar]]
 [[Ilamar\|Ilamar]]
-[[Perethom\|Perethom]]
+
 [[Niter\|Niter]]
 
 ## Notas

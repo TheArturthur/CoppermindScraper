@@ -7,6 +7,7 @@
 |**Residencia**||
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
+|**Presentado en**|*[[Dreamer\|Dreamer]]*|
 
 **Phi** is a [[Poltergeist\|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 

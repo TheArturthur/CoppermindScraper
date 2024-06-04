@@ -34,7 +34,7 @@ Publicidad de [[T%C3%B3nica gaseosa Vif\|tónica gaseosa]]
 Petición pública para la prohibición del [[Balonmorro\|balonmorro]]
 Una petición para que los [[Cachorro Soonie\|cachorritos Soonie]] sean corregidos.
 [[Kevron\|Kevron]] buscando a un [[Deslizador\|deslizador]] para contratarlo en una cafetería.
-Servicio de comida a domicilio por 
+Servicio de comida a domicilio por [[Cocina del Acero\|Cocina del Acero]]
 Viajes de [[Bill de la Cuenca\|Bill de la Cuenca]] al [[Templo del Soberano\|templo del Soberano]]
 Elariel exposición anual
 Publicidad de Choc-o-Tonic

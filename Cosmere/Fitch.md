@@ -4,6 +4,7 @@
 |**Oficio**|Professor|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 >“*I just . . . well, you know how I am about confrontation.*”
 \-Fitch to Principal York[1]

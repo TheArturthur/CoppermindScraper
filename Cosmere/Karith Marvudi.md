@@ -4,6 +4,7 @@
 |**Títulos**|Captain|
 |**Habilidades**|Piloting a |
 |**Mundo natal**|*Desconocido*|
+|**Presentado en**|*[[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]]*|
 
 Captain **Karith Marvudi** is a member of the  and co-pilot of a  with [[HARRE\|HARRE]]. He was assigned to liaise with the  on  and help with their defense against a  outbreak near .
 

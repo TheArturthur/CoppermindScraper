@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Izumakamo**, más conocida por sus amigos como **Izzy**, es una excéntrica [[Pintor\|pintora]] de [[Pesadilla\|pesadillas]] de [[Kilahito\|Kilahito]], en [[Komashi\|Komashi]]. Le fascinan los programas de [[Visor de hion\|visor de hion]], ya que ha desarrollado la idea de los [[Seri%C3%B3scopo\|serióscopos]] y está interesada en convertirse en crítica de los mismos.
 

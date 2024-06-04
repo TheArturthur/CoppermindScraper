@@ -7,6 +7,7 @@
 |**Especie**|[[Pollo\|Pollo]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Jekhijodenadie** es un pájaro verde brillante de [[Roshar\|Roshar]] que es capaz de imitar el lenguaje humano.
 

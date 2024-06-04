@@ -8,6 +8,7 @@
 |**Especie**|[[Brumaspren\|Brumaspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Sin hogar. Sin aliados. [...] Necesitaremos más. Como tú y como yo. Juntos.*”
 \-Glys.[1]

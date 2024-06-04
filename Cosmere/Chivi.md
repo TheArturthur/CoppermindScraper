@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“* No me gusta el aspecto de los que han tomado esa forma. No me gusta cómo clama la gente que la ha conseguido.*”
 \- Chivi, sobre la forma tormenta[1]

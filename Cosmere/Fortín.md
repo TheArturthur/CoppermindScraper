@@ -8,6 +8,7 @@
 |**Lugar de nacimiento**|[[Islas de Lobu\|Islas de Lobu]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 Este artículo trata del comerciante de Lumar. Para los fuertes de Treno, ver [[Ciudades-fuerte\|Ciudades-fuerte]].
 **Fortín** es cocinero y comerciante en el **[[Canto del cuervo\|Canto del cuervo]]**, y más tarde en el **[[Dos tazas\|Dos tazas]]**, en [[Lumar\|Lumar]]. Es sordo y se comunica utilizando un aparato tecnológico de [[Nalthis\|Nalthis]] que obtuvo comerciando con un saltamundos desconocido.

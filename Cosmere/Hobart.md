@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Hobart** es el líder de un grupo de bandidos en el [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]].
 

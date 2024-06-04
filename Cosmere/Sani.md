@@ -5,11 +5,12 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Sani** is a girl from [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 
 ## Appearance and Personality
-She is beautiful. She is [[Darkeyes\|darkeyed]] and has pure black hair. After suffering an injury, she only has four fingers on her left hand.
+She is a beautiful  girl with pure black hair. After suffering an injury, she only has four fingers on her left hand.
 
 ## History
 Around the year 1163, when she was fifteen years old, Sani suffered a serious hand injury. She was treated by [[Lirin\|Lirin]] and a ten-year-old [[Kaladin\|Kaladin]], who was in training to be a surgeon. Kaladin showed up late and Lirin had already anesthetized Sani with [[Winterwort\|winterwort]], putting her to sleep while they worked on her hand. Sani's injury was to her safehand and she was only dressed in a shift, but Kaladin did not care, unlike some of his friends. He tried to stay calm and focused.

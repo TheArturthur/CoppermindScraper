@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“* Brightlord and Brightness Tavinar had been there on that day, when the bastard had come. They were not fond of Father, or his children.*”
 \- Shallan[1]

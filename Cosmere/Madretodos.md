@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Oh, claro. Claro, para ti sería un incordio que algo tan secundario como los dolores de nuestro pueblo interfieran con nuestro tiempo de ocio. No sé para qué me molesto en explicarte nada.*”
 \-Madretodos a Sondeluz [2]

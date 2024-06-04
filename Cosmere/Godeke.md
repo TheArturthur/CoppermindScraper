@@ -8,6 +8,7 @@
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*El Todopoderoso no puede morir. La gente puede morir. Los Heraldos pueden morir. Incluso Honor pudo morir. Pero Honor, la gente y los Heraldos volverán todos a la vida, transformados por moldeado de almas a través de su poder. Aún estoy aprendiendo. Todos lo hacemos. El «Libro de las páginas interminables» no puede llenarse… Aunque tu padre hizo una muy buena adición al texto.*”
 \-Godeke a Adolin Kholin[1]

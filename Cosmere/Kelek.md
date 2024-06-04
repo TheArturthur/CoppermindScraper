@@ -10,6 +10,7 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Ashyn\|Ashyn]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 Para el glifo que lleva el nombre de Kalak, ver [[/wiki/Glifos/%C3%8Dndice#Kalak]].
 >“*Soy un borrón. Una mancha en la página. Una macilenta franja de tinta que se vuelve más insustancial a cada día que pasa.*”

@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[Grande\|Grande]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El alma del emperador\|El alma del emperador]]*|
 
 >“*¿No es así como has forjado toda tu carrera? ¿Hablando con sinceridad, enseñando a la gente lo que debe esperar de ti y luego esperando que a cambio sean sinceros contigo?*”
 \-Shai sobre Gaotona.[1]

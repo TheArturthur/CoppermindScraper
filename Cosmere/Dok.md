@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 **Dok** es un marinero [[Alezi\|alezi]] en [[Roshar\|Roshar]]. Bajo la orden de la reina [[Jasnah Kholin\|Jasnah Kholin]], él y muchos otros alezi se alistan para servir en barcos [[Thayle%C3%B1o\|thayleños]] para aprender las tradiciones de navegación. [[Yalb\|Yalb]] nota que Dok es un marinero competente en comparación con la mayoría de los alezi, aunque a veces se marea.
 A finales de 1174, se une a la tripulación del Capitán [[Smta\|Smta]]. Después de que Yalb lo tomara bajo su protección, Dok fue víctima de una broma comúnmente realizada a los nuevos marineros como un ritual de iniciación. Primero, lo engañaron para que fingiera ver un "marinerospren" inexistente para ganar una pequeña apuesta. Yalb esperaba que Dok "viera" más marinerospren y en un momento dado hiciese una apuesta más grande de que podría atrapar uno, lo que resultaría en que Dok perdiese sus [[Esfera\|esferas]] a favor de Yalb. Antes de que pudiese continuar la broma, Yalb avistó el barco *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* en el horizonte.

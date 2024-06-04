@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 Inframastrell **Elorin** es un [[Maestro de la arena\|maestro de la arena]] [[Lossand\|lossandino]] en el Lado Diurno de [[Taldain\|Taldain]]. Elorin sirve como ayudante de [[/wiki/Taishin#El lord mastrell]] [[Praxton\|Praxton]] y [[Kenton\|Kenton]].
 

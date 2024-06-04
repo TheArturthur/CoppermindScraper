@@ -2,9 +2,10 @@
 |-|-|
 |**Fallecido**|Ishi 1172|
 |**Oficio**|Member of Kaladin's squad in Amaram's army|
-|**Grupo**|Ejército de Amaram's, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
+|**Grupo**|Ejército de Amaram's, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Raksha** was a soldier in [[Amaram\|Amaram]]'s army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He was a member of [[Kaladin\|Kaladin]]'s squad.
 An unknown [[Veden\|Veden]] [[Shardbearer\|Shardbearer]] killed him, along with [[Toorim\|Toorim]], [[Hamel\|Hamel]], [[Acis\|Acis]], [[Navar\|Navar]] and eleven other members of [[Kaladin\|Kaladin]]'s squad. It was later discovered by [[Shallan Davar\|Shallan Davar]] by identification of his [[Shardblade\|Shardblade]], in the current possession of [[Amaram\|Amaram]], that the Veden Shardbearer was [[Helaran Davar\|Helaran Davar]].

@@ -7,6 +7,7 @@
 |**Grupo**|[[Brigada Nocturna\|Brigada Nocturna]]🐱︎|
 |**Mundo natal**|[[Treno\|Treno]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

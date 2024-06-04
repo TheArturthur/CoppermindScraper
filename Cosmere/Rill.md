@@ -4,6 +4,7 @@
 |**Grupo**|[[Diagram (group)\|Diagram]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*If a king is destroying his country, is it not the right—the duty—of the people to see him removed?*”
 \-Rill, on Elhokar[1]

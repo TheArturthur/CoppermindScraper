@@ -1,6 +1,7 @@
 |**Sylvia**|
 |-|-|
 |**Mundo natal**||
+|**Presentado en**|*Legion: Skin Deep*|
 
 **Sylvia** goes on a date with [[Stephen Leeds\|Stephen Leeds]] for a paparazzi journalist.
 

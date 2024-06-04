@@ -9,6 +9,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 >“*Eso es lo que pasa cuando eres adicto a una droga, Straff. Cuando la consigues, te sientes mejor. Cuando no la tienes... mueres.*”
 \-Amaranta a Straff Venture[2]

@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Eshen** es la antigua reina de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Es la segunda esposa del rey [[Iadon\|Iadon]] y madrastra del príncipe [[Raoden\|Raoden]].
 

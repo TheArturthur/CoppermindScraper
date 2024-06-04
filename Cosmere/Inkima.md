@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 La [[Brillante se%C3%B1ora\|brillante señora]] **Inkima** es una mujer de Roshar que vivía en los campamentos de guerra [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]].
 Acompaña a [[Jakamav\|Jakamav]] a una cata de vinos en el [[Mercado Exterior\|Mercado Exterior]] con [[Adolin Kholin\|Adolin Kholin]] y varios otros [[Ojos claros\|ojos claros]] (incluyendo a [[Danlan Morakotha\|Danlan Morakotha]], [[Toral\|Toral]] e ) Más tarde, Adolin la invita a ella y a Jakamav a un segundo bar de vinos, pero fue rechazado debido al mal carácter del [[Kholin\|Kholin]] tras la [[Batalla de la Torre\|Batalla de la Torre]].

@@ -2,6 +2,7 @@
 |-|-|
 |**Mundo natal**|[[Alornia\|Alornia]]|
 |**Universo**|[[Wode\|Wode]] [[State\|States]]|
+|**Presentado en**|*[[Perfect State\|Perfect State]]*|
 
 >“*Indeed, he does seem to boorishly continue the same stubborn course, without maturity and without careful consideration of the best path. Wouldn't you say?*”
 \-Besk to Kai[1]

@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Canción Hermosa** es una [[Unkalaki\|Unkalaki]] de [[Roshar\|Roshar]]. Es la hija pequeña de [[Lunamor\|Lunamor]] y [[Tuaka\|Tuaka]]. Debido a que su madre es apodada Canción, a veces e refieren a ella como "Little Song". Canción Hermosa seguramente sea también un apodo; su nombre completo se desconoce.
 Canción Hermosa proviene de los [[Picos Comecuernos\|Picos Comecuernos]]. Llega a las [[Llanuras Quebradas\|Llanuras Quebradas]] junto con su familia en el año 1174, después de viajar durante meses para reunirse con [[Lunamor\|Lunamor]], quien les había enviado un mensaje poco después de su llegada. La caravana en la que Canción Hermosa viajaba fue atacada por los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] y su familia se defendió tras una montaña de muebles. Durante el ataque, un miembro de su familia disparó a un Portador del Vacío con una flecha [[Unkalaki\|unkalaki]]. Los encontró el [[Puente Cuatro\|Puente Cuatro]] durante una de sus patrullas y los llevaron a [[Urithiru\|Urithiru]].

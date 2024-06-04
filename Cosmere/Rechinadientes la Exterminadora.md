@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Cit%C3%B3nica (libro)\|Citónica ]]*|
 
 >“*todo. Rechinadientes era una exterminadora excelente, por lo menos en lo relativo a la fruta.*”
 \-Spensa[1]

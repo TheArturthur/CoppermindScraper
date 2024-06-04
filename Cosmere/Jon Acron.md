@@ -9,6 +9,7 @@
 |**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Jon Acron** es un profesor y antropólogo del [[Lado Oscuro\|Lado Oscuro]] de [[Taldain\|Taldain]]. Es un asesino que trabaja para [[Skathan\|Skathan]], gobernante de la [[Dinast%C3%ADa\|Dinastía]].
 

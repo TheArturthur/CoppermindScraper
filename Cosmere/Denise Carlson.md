@@ -10,6 +10,7 @@
 |**Residencia**|[[V%C3%ADsperas\|Vísperas]]|
 |**Mundo natal**|[[Tierra (Escuadr%C3%B3n)\|Tierra (Escuadrón)]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 **Denise Carlson** era una ayudante de laboratorio de la [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] que trabajaba en sus instalaciones de investigación en [[V%C3%ADsperas\|Vísperas]].
 

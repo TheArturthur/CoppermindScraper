@@ -4,6 +4,7 @@
 |**Fallecido**|Asesinado por [[Paalm\|Paalm]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Drim** es el líder de los guardaespaldas del gobernador [[Replar Innate\|Replar Innate]] y el jefe de seguridad.
 

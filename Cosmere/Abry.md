@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Abry** era un niño en [[Piedralar\|Piedralar]].
 Se ofreció como voluntario al ejercito de [[Amaram\|Amaram]] con [[Jost\|Jost]].

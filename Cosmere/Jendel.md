@@ -8,6 +8,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*El préstamo nos facilitaría la mudanza. Saldríamos de los suburbios. Tengo tres varones. Trabajaremos como burros, se lo prometo.*”
 \-Jendel a Edwarn Ladrian.[1]

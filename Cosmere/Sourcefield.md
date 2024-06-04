@@ -5,6 +5,7 @@
 |**Apodos**|Emiline Bask|
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 
 >“*I'm going to destroy you, little man! I'll rip you apart like a piece of tissue paper in a hurricane!*”
 \-Sourcefield to David[1]

@@ -1,6 +1,7 @@
 |**Bob**|
 |-|-|
 |**Mundo natal**||
+|**Presentado en**|*[[The Original\|The Original]]*|
 
 This page is about the government employee from [[The Original\|The Original]]. Para the [[Taynix\|taynix]] from [[Skyward\|Skyward]], ver .
 **Bob** is a man in the government's employ. He wears a black suit, and keeps his grey hair slicked back in a bun at the base of his neck.

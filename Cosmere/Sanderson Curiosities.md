@@ -9,7 +9,7 @@
 This early version of the novel was included with the 2020 Kickstarter campaign for the leatherbound edition of *[[The Way of Kings\|The Way of Kings]]*. A physical version was offered as a bonus item for supporting higher tiers of the Kickstarter, while the e-book and later the audiobook versions were released for free on Brandon's websites. The book was well-received, and inspired the team to do more Curiosities in the future.
 
 *[[Long Chills %26 Case Dough\|Long Chills & Case Dough]]* (2023)
-A novelette that was a surprise inclusion as a hardcover in the final box of the 2023 "Year of Sanderson" Kickstarter campaign. The book was also made available for purchase on Dragonsteel's website, and the e-book can be downloaded for free.
+A novelette that was a surprise inclusion as a hardcover in the final box of the 2023 "[[Year of Sanderson\|Year of Sanderson]]" Kickstarter campaign. The book was also made available for purchase on Dragonsteel's website, and the e-book can be downloaded for free.
 
 *[[Dragonsteel Prime\|Dragonsteel Prime]]* (2024)
 This version of the novel released during the *[[Words of Radiance\|Words of Radiance]]* Leatherbound campaign on . The book can be downloaded .

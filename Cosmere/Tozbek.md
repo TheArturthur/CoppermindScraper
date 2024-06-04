@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Tozbek** is a [[Thaylen\|Thaylen]] ship captain on [[Roshar\|Roshar]].
 

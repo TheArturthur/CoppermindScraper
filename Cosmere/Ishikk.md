@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Lagopuro\|de Lagopuro]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Ishikk era lagopureño. Primero y sobre todo. Por las mareas y el sol que lo era.*”
 \-Ishikk[1]

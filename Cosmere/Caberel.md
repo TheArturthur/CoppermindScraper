@@ -6,6 +6,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 La teniente **Caberel** es miembro de la comisaría de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 

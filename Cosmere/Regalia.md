@@ -6,6 +6,7 @@
 |**Residencia**|[[Babilar\|Babilar]]|
 |**Etnia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 
 Para the member of the [[Reckoners\|Reckoners]], ver [[Abigail Casey\|Abigail Casey]].
 **Regalia**, also known as **Regalia, the Hydromancer**, is an  that rules over the city of . Before becoming an Epic, she was known as **Abigail Reed**.

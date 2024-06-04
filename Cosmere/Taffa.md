@@ -5,6 +5,7 @@
 |**Hijos**|[[Seeli\|Seeli]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“* I should have helped, should have grabbed something to hit them. But you were so fast. It—it was just a few heartbeats. Where—How—?*”
 \- Taffa[1]

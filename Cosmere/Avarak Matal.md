@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 El brillante señor **Avarak Matal** es un oficial [[Ojos claros\|ojos claros]] en el campamento de guerra [[Principado Sadeas\|Sadeas]], en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Es el capitán de las [[Cuadrilla del puente\|cuadrillas de los puentes]] de Sadeas, a pesar de que su mujer parece ejercer más autoridad que él.
 

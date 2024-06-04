@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Elao**, una mujer anciana, es una sirvienta que trabaja en el palacio de [[Arelon\|Arelon]] en [[Sel\|Sel]].
 Fue ella quien le llevó fruta a [[Raoden\|Raoden]] la mañana en la que la [[Shaod\|Shaod]] le tomó, y fue la primera en ver a Raoden de esta manera. Nada más verlo, juró en el nombre de Domi, tembló y aferró el colgante [[Korathi\|korathi]] que llevaba puesto.

@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Drewton** es el ayuda de cámara de [[Waxillium Ladrian\|Waxillium Ladrian]]. Vive en [[Elendel\|Elendel]], [[Scadrial\|Scadrial]].
 

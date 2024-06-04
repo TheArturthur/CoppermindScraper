@@ -2,6 +2,7 @@
 |-|-|
 |**Oficio**|Arms dealer|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 Para details of the gemstone used on [[Roshar\|Roshar]], ver [[/wiki/Polestone#Diamond]].
 **Diamond** is a weapons dealer active in the . He has business with , like , and anti-Epic groups, like the [[Reckoners\|Reckoners]], alike. He does however have a strict policy of not discussing his clients.

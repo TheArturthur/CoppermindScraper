@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Guillian** es un criminal arrestado en [[Elendel\|Elendel]] en el año 342.
 Guillian se unió a [[Migs\|Migs]] y a otros ocho hombres más para cometer algo así como un crimen, pero fueron descubiertos y atrapados en un edificio una noche entera. Más o menos al amanecer, [[Wax\|Wax]] y [[Wayne\|Wayne]] ayudaron a los alguaciles a capturar a esos hombres. Wayne se coló en la habitación, haciéndose pasar por un ladrón, noqueó a Guillian y se llevó su cuchillo favorito, que tenía una empuñadura hecha de marfil.

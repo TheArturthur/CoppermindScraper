@@ -8,6 +8,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 Para otros usos de la palabra Chip, ver [[Chip\|Chip]].
 **Chip** es un [[Brumoso\|brumoso]] de [[Acero\|acero]] (también denominado [[Lanzamonedas\|lanzamonedas]]) y miembro de la policía de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].

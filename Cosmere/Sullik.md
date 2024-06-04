@@ -4,6 +4,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*I’ve seen your type, with that haunted look. You’ll get yourself drunk, then pick a fight. I don’t care what it is you want to forget; go find some other place to do it.*”
 \-Sullik to Veil when he cuts off her alcohol[1]

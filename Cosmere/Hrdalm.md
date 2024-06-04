@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Gran Honor en ti, príncipe [[Adolin\|Adolin]]. Gran Pasión en mí por esta ayuda.*”
 \-Hrdalm[1]

@@ -3,6 +3,7 @@
 |**Apodos**|Dif Smedry, The Scrivener|
 |**Grupo**|🐱︎|
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[The Dark Talent\|The Dark Talent]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

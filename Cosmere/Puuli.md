@@ -7,6 +7,7 @@
 |**Etnia**|[[De Natan\|de Natan]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*Even if it had destroyed many a ship, Puuli was happy for this new storm. Secretly happy.*”
 \-Puuli, thinking about the Everstorm[1]

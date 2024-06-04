@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Hrovell\|de Hrovell]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Mi verdadera paga es saber que he servido a Nuestro Señor [[Jaddeth\|Jaddeth]]*”
 \-Forton a Hrathen[1]

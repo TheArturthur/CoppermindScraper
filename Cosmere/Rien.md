@@ -1,9 +1,10 @@
 |**Rien**|
 |-|-|
 |**Oficio**|Soldier|
-|**Grupo**|[[%C3%89lites de Dalinar\|Élites de Dalinar]]🐱︎|
+|**Grupo**|[[Dalinar's elites\|Dalinar's elites]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Rien** is one of [[Dalinar's elites\|Dalinar's elites]] during the battle with [[Kalanor\|Kalanor]] in 1145.
 Just before the engagement, Rien, along with the other elites, asks [[Dalinar\|Dalinar]] for orders, and Dalinar tells him to stay out of his way.

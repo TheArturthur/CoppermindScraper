@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 **Drama** es una cadete en el [[Escuadr%C3%B3n Tintero\|Escuadrón Tintero]] o el [[Escuadr%C3%B3n Tormenta de Fuego\|Escuadrón Tormenta de Fuego]] en la FDD. Es probable que sea de [[Caverna Pr%C3%B3diga\|Caverna Pródiga]]. No está claro si Drama es un identificador o el nombre de este cadete.
 Sólo hay cuatro personas en su escuadrón en el período de tiempo justo antes de la graduación. Ella está acostumbrada a una gran cantidad de conversación que se produce a través de su línea de comunicación durante los vuelos y puede ser ella misma una persona habladora. Mantiene una relación cordial con los tres miembros que quedan en su escuadrón antes de la graduación.

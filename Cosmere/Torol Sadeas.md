@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*We’re two old whitespines who both want a kingdom. It's him or me. We’ve been pointed that way since Gavilar died.*”
 \-Sadeas about Dalinar[4]

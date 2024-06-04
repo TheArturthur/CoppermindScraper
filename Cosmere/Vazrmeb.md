@@ -1,10 +1,11 @@
 |**Vazrmeb**|
 |-|-|
 |**Fallecido**|*[[First Dreams\|First Dreams]]*|
-|**Oficio**|Capitán de barco|
+|**Oficio**|Ship's captain|
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Vazrmeb** is the captain of the ship *[[First Dreams\|First Dreams]]* on [[Roshar\|Roshar]].
 

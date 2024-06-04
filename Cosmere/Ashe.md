@@ -8,6 +8,7 @@
 |**Especie**|[[Seon\|Seon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 Para el [[Aon\|Aon]] Ashe, ver [[/wiki/Aon#Ashe]].
 **Ashe** es un [[Seon\|seon]], un ser «mágico» procedente de [[Sel\|Sel]]. Está vinculado a [[Sarene\|Sarene]].

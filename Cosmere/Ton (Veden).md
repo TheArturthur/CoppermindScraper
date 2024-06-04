@@ -2,9 +2,10 @@
 |-|-|
 |**Oficio**|Miner|
 |**Residencia**|[[Ironsway\|Ironsway]]|
-|**Nacionalidad**|[[Jah Keved\|Veden]] ([[Bavlandia\|Bav]])|
+|**Nacionalidad**|[[Veden\|Veden]]🐱︎ ([[Bav\|Bav]]🐱︎)|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 Para the [[Singer\|singer]], ver .
 **Ton** is a [[Bav\|Bav]] mine worker on [[Roshar\|Roshar]] who once encountered [[Took\|Took]] and [[Szeth\|Szeth]].
 

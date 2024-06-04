@@ -3,6 +3,7 @@
 |**Oficio**|Mayor|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 
 **Briggs** is the Mayor of  in the wake of [[Steelheart\|Steelheart]]'s defeat.
 

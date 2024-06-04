@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 **Jaxy** es una mujer de [[Scadrial\|Scadrial]]. Tiene el pelo corto, rizado y rubio. Está casada con [[Ranette\|Ranette]]. Cuando comía en [[La Espuela Borracha\|la Espuela Borracha]] con [[Wayne\|Wayne]] y [[Ranette\|Ranette]], Jaxy llevaba un vestido blanco y pasadores de diamantes en el pelo. Según Wayne, le gustan los brillantes.
 Jaxy es amable y desenfadada, y le sigue la corriente a la actitud gruñona de Ranette. Se muestra comprensiva y reconfortante con Wayne, especialmente tras su ruptura con [[MeLaan\|MeLaan]], y le señala con delicadeza que su relación con [[Allriandre\|Allriandre]] no es sana. Ella elogia a Wayne por su capacidad para comprender a los demás. Tras la muerte de Wayne, Jaxy coordina la renovación del taller de Ranette con el dinero que este regaló a su mujer. Ambas se van de luna de miel a [[Scadriano del sur\|Scadrial del sur]], y aunque Ranette finge estar de mal humor por el descanso forzado, Jaxy sabe que se divirtió y se burla de ella por ello.

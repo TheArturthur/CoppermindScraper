@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 El brillante señor **Havar** es un oficial en el ejército del alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
 
@@ -17,7 +18,7 @@ Havar lleva barba, y es un buen soldado que hace bien su trabajo.
 
 ## Historia
 Havar acompaña a [[Dalinar\|Dalinar]] a un antro de [[Musgoardiente\|musgoardiente]] la noche en que nace [[Adolin\|Adolin]]. Compra una ronda de bebidas y se sienta junto a [[Bashin\|Bashin]].
-Havar era el comandante de la retaguardia del ejército Kholin, y era buen amigo tanto de Dalinar como de [[Adolin Kholin\|Adolin Kholin]]. En 1173, Havar luchó en la [[Batalla de la Torre\|Batalla de la Torre]], donde el ejército Kholin fue traicionado por el alto príncipe [[Torol Sadeas\|Torol Sadeas]]. Havar recibió una grave herida en el vientre durante los combates. Sobrevivió lo suficiente para ser rescatado por el [[Puente Cuatro\|Puente Cuatro]], pero murió poco después tosiendo sangre. Havar fue una de las cerca de seis mil bajas de los Kholin en los combates, junto con [[Perethom\|Perethom]] e [[Ilamar\|Ilamar]]. [[Kaladin\|Kaladin]] ascendió a [[Nacomb Gaval\|Nacomb Gaval]] para sustituir temporalmente a Havar con el fin de evacuar rápidamente la [[Torre (Roshar)\|Torre]]. La muerte de Havar, junto con la de los demás, sirvió como una de las fuentes del odio de Adolin hacia Sadeas.
+Havar era el comandante de la retaguardia del ejército Kholin, y era buen amigo tanto de Dalinar como de [[Adolin Kholin\|Adolin Kholin]]. En 1173, Havar luchó en la [[Batalla de la Torre\|Batalla de la Torre]], donde el ejército Kholin fue traicionado por el alto príncipe [[Torol Sadeas\|Torol Sadeas]]. Havar recibió una grave herida en el vientre durante los combates. Sobrevivió lo suficiente para ser rescatado por el [[Puente Cuatro\|Puente Cuatro]], pero murió poco después tosiendo sangre. Havar fue una de las cerca de seis mil bajas de los Kholin en los combates, junto con [[Perethon\|Perethon]] e [[Ilamar\|Ilamar]]. [[Kaladin\|Kaladin]] ascendió a [[Nacomb Gaval\|Nacomb Gaval]] para sustituir temporalmente a Havar con el fin de evacuar rápidamente la [[Torre (Roshar)\|Torre]]. La muerte de Havar, junto con la de los demás, sirvió como una de las fuentes del odio de Adolin hacia Sadeas.
 
 ## Notas
 

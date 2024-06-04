@@ -8,6 +8,7 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Alvettaren** es una guardia [[Honorspren\|honorspren]] de [[Integridad Duradera\|Integridad Duradera]] en [[Roshar\|Roshar]]. Elige manifestar una coraza y un gorro de acero sobre su pelo cortado, todo ello formado a partir de su sustancia.
 Cuando [[Adolin Kholin\|Adolin Kholin]] se ofreció a ser juzgado por la humanidad en un intento de convencer a los honorspren para que se [[V%C3%ADnculo Nahel\|vincularan]] con los humanos y crearan nuevos [[Corredores del Viento\|Corredores del Viento]], Alvettaren fue asignada para custodiarlo. No solía decir nada, prefiriendo dejar que [[Vaiu\|Vaiu]] o los demás conversaran con Adolin.

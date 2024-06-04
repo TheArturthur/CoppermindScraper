@@ -1,11 +1,13 @@
 |**Tibon**|
 |-|-|
-|**Oficio**|[[Guardia de Cobalto\|Guardia de Cobalto]]🐱︎|
+|**Oficio**|Soldado|
+|**Grupo**|[[Cobalt Guard\|Cobalt Guard]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Tibon** was a lighteyed  on [[Roshar\|Roshar]].
+**Tibon** is a lighteyed  soldier on [[Roshar\|Roshar]].
 He was a member of the [[Cobalt Guard\|Cobalt Guard]]. He--along with [[Marks (Roshar)\|Marks]], another member of the Cobalt Guard--guarded [[Adolin\|Adolin]] during his date with [[Janala\|Janala]], and waited with [[Falksi\|Falksi]] outside the tent of the leatherworkers [[Yis\|Yis]] and [[Avaran\|Avaran]].
 
 ## Notes

@@ -6,6 +6,7 @@
 |**Oficio**|Marinero|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **«novato»** es un marinero no identificado que se unió a la tripulación del *[[Placer del Viento\|Placer del Viento]]* en Tanat 1173 cuando se detuvo en [[Amydlatn\|Amydlatn]] en el este de [[Roshar\|Roshar]]. Fue contratado por el capitán [[Tozbek\|Tozbek]] como marinero de cubierta auxiliar para asegurarse de que el barco no se quedaba sin tripulación en el viaje a [[Nueva Natanan\|Nueva Natanan]].

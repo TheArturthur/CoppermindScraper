@@ -3,6 +3,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Lord Bookers** es un noble de [[Scadrial\|Scadrial]].
 En 342 [[Catacendro\|PC]], asistió a la [[Fiesta de lady ZoBell\|fiesta de lady ZoBell]] en la [[Torre ZoBell\|Torre ZoBell]] en [[Elendel\|Elendel]]. [[Steris\|Steris]] informó a [[Wax\|Wax]] de que debían evitar a Bookers, pues lo encontraba tremendamente aburrido.

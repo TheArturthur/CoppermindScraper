@@ -4,6 +4,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Dawnshard (novella)\|Dawnshard]]*|
 
 **Vlxim** is a [[Thaylen\|Thaylen]] sailor and a helmsman of the [[Wandersail (1174 ship)\|Wandersail]] on [[Roshar\|Roshar]].
 

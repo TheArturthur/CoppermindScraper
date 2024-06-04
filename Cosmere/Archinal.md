@@ -6,6 +6,7 @@
 |**Especie**|[[Cultivacispren\|Cultivacispren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*No debes dar por sentado que lo que veas aquí reflejará lo que conoces de tu vida, alto príncipe humano.*”
 \-Archinal en Shadesmar, a Adolin[1]

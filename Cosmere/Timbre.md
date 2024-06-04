@@ -7,6 +7,7 @@
 |**Especie**|[[Alcanzador\|Alcanzador]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*"Soy un fraude, Timbre. Una falsa Radiante. No sé lo que estoy haciendo."*
 \-"Yo sí."

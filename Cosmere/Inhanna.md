@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Inhanna** es la suma sacerdotisa de la [[Retornado\|Retornada]] conocida como [[Encendedora\|Encendedora]] en [[Nalthis\|Nalthis]].
 

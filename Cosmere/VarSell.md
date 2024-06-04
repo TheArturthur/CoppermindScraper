@@ -8,6 +8,7 @@
 |**Especie**|[[Kandra\|Kandra]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **VarSell** es un [[Kandra\|kandra]] de la Quinta Generación en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
 

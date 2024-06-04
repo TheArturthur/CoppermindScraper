@@ -5,6 +5,7 @@
 |**Hermanos**|[[Angola Dartmoor\|Angola]], [[Bastille\|Bastille]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|**|
 
 **Rikers Dartmoor** is the crown prince of [[Nalhalla\|Nalhalla]]. He is in his thirties, wears lavish royal blue and silver robes, a baseball cap, and has a short red beard. He likes to throw exclusive lunch parties and writes fictitious stories about [[Alcatraz Smedry\|Alcatraz Smedry]], including a novel called Alcatraz Smedry and the Mechanic's Wrench.
 

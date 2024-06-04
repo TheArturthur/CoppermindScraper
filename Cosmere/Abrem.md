@@ -4,6 +4,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 **Abrem** es un hombre secuestrado por [[El Grupo\|el Grupo]] en [[Scadrial\|Scadrial]]. Lo llevaron a [[Peregrino\|Peregrino]] y le hicieron creer que los [[Montes de Ceniza\|Montes de Ceniza]] habían entrado en erupción y que el mundo de la superficie era un páramo. Había estado guardando notas en Peregrino. Tras la llegada de [[Marasi Colms\|Marasi Colms]] al pueblo, [[Armal\|Armal]] le pidió a [[Fialia\|Fialia]], otra habitante del lugar, que fuera a buscar a Abrem. Después de que Marasi revelase al pueblo de Peregrino que el Grupo les había estado mintiendo, se desconoce lo que le pasó a él.
 

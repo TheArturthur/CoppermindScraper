@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 **Avaran** es un peletero ojos oscuros [[Alezi\|alezi]] de [[Roshar\|Roshar]].
 

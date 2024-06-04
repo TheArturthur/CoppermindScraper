@@ -10,6 +10,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 **Gneorndin Cett** es el único hijo de [[Ashweather Cett\|Ashweather Cett]] en [[Scadrial\|Scadrial]].
 

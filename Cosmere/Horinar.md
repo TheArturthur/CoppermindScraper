@@ -7,6 +7,7 @@
 |**Grupo**|Ejército de Kholin[[%C3%89lites de Dalinar\|Élites de Dalinar]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Horinar** es un miembro del ejército [[Casa Kholin\|Kholin]] en [[Roshar\|Roshar]]. Es probablemente un oficial [[Ojos claros\|ojos claros]] que estaba al mando de las [[%C3%89lites de Dalinar\|Élites de Dalinar]].
 

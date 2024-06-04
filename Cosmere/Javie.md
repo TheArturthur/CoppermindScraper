@@ -7,6 +7,7 @@
 |**Grupo**|[[Set\|Set]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 El profesor **Javie** es un ingeniero y miembro del [[El Grupo\|Grupo]].
 

@@ -4,6 +4,7 @@
 |**Residencia**|[[Campamento de guerra\|Los campamentos de guerra alezi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Telesh** is a maid in service to [[Meridas Amaram\|Meridas Amaram]] in the [[Sadeas princedom\|Sadeas]] warcamp on the [[Shattered Plains\|Shattered Plains]].
 

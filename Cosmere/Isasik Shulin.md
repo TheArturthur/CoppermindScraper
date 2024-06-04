@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Isasik Shulin** es el cartógrafo real [[Alezi\|alezi]] en [[Roshar\|Roshar]].
 Actuó como cartógrafo real de los reyes [[Gavilar\|Gavilar]] y [[Elhokar\|Elhokar]], y es probalble que también de la reina [[Jasnah Kholin\|Jasnah Kholin]]. En su calidad de cartógrafo real hizo copias más pequeñas de los mapas de los reyes para el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]].

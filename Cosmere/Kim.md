@@ -4,6 +4,7 @@
 |**Lugar de nacimiento**|[[JoSeun\|JoSeun]]|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 **Kim** is a professor of history at .
 He is of Asian descent; his parents emigrated from [[JoSeun\|JoSeun]] after he was born. His employment at the academy was contentious as some parents believed he would skew their children's perception of history.

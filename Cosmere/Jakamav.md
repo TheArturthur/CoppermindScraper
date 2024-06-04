@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Jakamav** es un ojos claros del tercer [[Dahn\|dahn]] en el campamento del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Roion\|Roion]] y uno de sus varios terratenientes.
 

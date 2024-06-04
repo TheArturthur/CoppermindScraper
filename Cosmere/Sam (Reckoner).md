@@ -4,6 +4,7 @@
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Residencia**|[[Babilar\|Babilar]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 
 This page is about the [[Reckoners\|Reckoner]]. Para the hot dog vendor from , ver .
 **Sam** is a member of the [[Reckoners\|Reckoners]] who worked with [[Valentine\|Val]], [[Exel\|Exel]], and [[Mizzy\|Mizzy]] in [[Babilar\|Babilar]].

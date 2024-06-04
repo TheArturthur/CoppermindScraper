@@ -10,6 +10,7 @@
 |**Apodos**|Jezerezeh, Yaezir, Ahu, Yaysi, [[Padre Tormenta\|Padre Tormenta]]|
 |**Mundo natal**|[[Ashyn\|Ashyn]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Escogimos voluntariamente esta carga. Bueno, podemos decidir dejarla si queremos.*”
 \-Jezrien sobre el Juramento[4]

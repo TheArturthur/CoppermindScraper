@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*¿Qué le estás haciendo a mi hija? ¡Tú, cremlino, resto de tormentas! ¡No toques a [[Miasal\|Miasal]]! No...*”
 \-Harl, a Kaladin[1]

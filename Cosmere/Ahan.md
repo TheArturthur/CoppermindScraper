@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (book)\|Elantris]]*|
 
 El conde **Ahan** es un mercader [[Arelon\|areleno]] del planeta [[Sel\|Sel]]. Tiene una hija, [[Torena\|Torena]], a quien corteja [[Shuden\|Shuden]].
 

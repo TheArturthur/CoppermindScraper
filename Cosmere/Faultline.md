@@ -5,6 +5,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 **Faultline** is a powerful  who initially works for . She is a thin woman who wears her hair in a bun.
 

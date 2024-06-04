@@ -8,6 +8,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Flog** es uno de los guardaespaldas de [[Winsting Innate\|Winsting Innate]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 

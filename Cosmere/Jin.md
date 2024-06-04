@@ -6,6 +6,7 @@
 |**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Jin** es miembro de los [[Sangre Espectral\|Sangre Espectral]].
 Se le describe como un hombre de cabellos dorados con el pecho desnudo bajo una túnica exterior fluida.

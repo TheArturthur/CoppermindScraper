@@ -11,6 +11,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 Lord **Ferson Penrod** es un [[Noble\|noble]] de [[Scadrial\|Scadrial]]. Tras la [[Colapso\|caída del lord Legislador]], se convierte en miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]]. Llega a ser el segundo rey del [[Dominio Central\|Dominio Central]], sucediendo a [[Elend Venture\|Elend Venture]], y más tarde por debajo de él en el [[Nuevo Imperio\|Nuevo Imperio]].
 

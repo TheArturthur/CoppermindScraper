@@ -7,6 +7,7 @@
 |**Cónyuge**|[[Natir\|Natir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Alaxia** es la esposa de [[Natir\|Natir]], de aspecto recio, en Roshar.
 Natir es el mayordomo del consistor [[Roshone\|Roshone]] en [[Piedralar\|Piedralar]]. Roshone es de [[Dalilak\|Dalilak]], así que Alaxia probablemente también lo sea.

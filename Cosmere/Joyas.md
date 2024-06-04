@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Mira, ¿crees que podrías no hablarme? Te lo agradecería de veras.*”
 \-Joyas a Vivenna tras ser preguntada tres simples preguntas.[1]

@@ -7,6 +7,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Stormlight Archive\|The Stormlight Archive]]*|
 
 **Abaray** es un [[Cantor\|cantor]] que vive en [[Roshar\|Roshar]] y es miembro de los [[Fusionado\|Fusionados]].
 Hace milenios, [[Odium\|Odium]] convirtió a Abaray en uno de los Fusionados. Como todos los Fusionados, se le concedió acceso a las [[Potencias\|potencias]] y a la [[Luz del vac%C3%ADo\|luz del vacío]], así como la capacidad de renacer en los cuerpos de otros cantores. Luchó en las [[Desolaci%C3%B3n\|Desolaciones]] contra la humanidad, retornando a [[Braize\|Braize]] con los otros Fusionados al final de cada una. A partir de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Abaray acompañó al ejército de Odium en su invasión de la [[Ciudad Thaylen\|Ciudad Thaylen]] y participó en la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. Durante la batalla, proporcionó al brillante señor [[Meridas Amaram\|Meridas Amaram]] una pequeña amatista en bruto para que fuera alojamiento del [[Deshecho\|Deshecho]] [[Yelig-Nar\|Yelig-Nar]].

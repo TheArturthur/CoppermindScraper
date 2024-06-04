@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Iri\|de Iri]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 Para el ariete del Imperio Rosa de Sel, ver [[Zu (Sel)\|Zu (Sel)]].
 >“*¡Ya puestos, podríamos darle un último adiós!*”

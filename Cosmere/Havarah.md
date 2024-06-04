@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Havarah** es el jefe de los puentes del alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
 Como jefe de los puentes, Havarah fue el responsable de los grandes puentes tirados por [[Chull\|chull]] que utilizó Dalinar durante las carreras por los abismos contra los [[Parshendi\|parshendi]].

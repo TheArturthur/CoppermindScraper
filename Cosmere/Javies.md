@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Javies** es un teniente en la comisaría de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 Durante el discurso del gobernador [[Replar Innate\|Replar Innate]], estaba al mando del equipo de campo del Cuarto Octante. Un capitán veterano del Segundo Octante le mandó dispersar a los manifestantes fuera de la calle [[Longard\|Longard]].

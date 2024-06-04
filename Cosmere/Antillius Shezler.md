@@ -9,6 +9,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El und%C3%A9cimo metal\|El undécimo metal]]*|
 
 **Antillius Shezler** es un [[Alomancia\|Nacido de la bruma]] y [[Noble\|noble]] erudito en el [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Llevó a cabo una investigación sobre la existencia de un [[Malatium\|Undécimo Metal]].
 

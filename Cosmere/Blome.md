@@ -5,6 +5,7 @@
 |**Oficio**|Camarero|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Blome** es un [[Brumoso\|brumoso]] de [[Bronce\|bronce]] (también denominado [[Buscador\|buscador]]) y camarero de lord [[Winsting Innate\|Winsting Innate]] en su mansión de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 

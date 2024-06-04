@@ -2,8 +2,9 @@
 |-|-|
 |**Capacidades**|Control of |
 |**Vinculado con**|[[Aether\|Roseite Aetherbound]]|
-|**Mundo natal**|[[Dhatri\|Dhatri]]|
+|**Mundo natal**|?|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Lost Metal\|The Lost Metal]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

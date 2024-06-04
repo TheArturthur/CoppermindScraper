@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 Para el habitante de Piedralar, ver [[Mil\|Mil]].
 **Mill** es un corredor de apuestas [[Ojos oscuros\|ojos oscuros]] en [[Jah Keved\|Jah Keved]] en [[Roshar\|Roshar]].

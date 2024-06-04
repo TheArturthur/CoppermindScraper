@@ -72,7 +72,7 @@ A magic system where supernatural power is gained by taking Oaths,
 Siri's healing power is similar to , although unlike Regrowth, the changes it brings don't last,
 The shadowlings look and function very similarly to the [[Midnight Essence\|Midnight Essence]],
 The Sept system of ranking nobility might've been turned into the [[Dahn\|Dahn]] system, albeit without Septs' supernatural connotations,
-Flying seafood (fish-like lills vs. eel-like [[Skyeel\|Skyeels]])
+Flying variants of typically aquatic animals (fish-like lills vs. eel-like [[Skyeel\|Skyeels]])
 ### In *[[Warbreaker\|Warbreaker]]*
 [[Siri\|Siri]]'s plotline has been reworked into the main axis of *Warbreaker*, and the pacing of it was greatly improved,
 Vvenna became [[Vivenna\|Vivenna]], and her plot was changed to make her a more active character,

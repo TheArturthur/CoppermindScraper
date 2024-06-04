@@ -4,6 +4,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Talak** was a [[Veden\|Veden]] man, who served [[Liss\|Liss]], the Weeper, an assassin on [[Roshar\|Roshar]].
 Talak had a brutish look to him, and although he was a Veden, he had a speckle of red on his beard, hinting at [[Unkalaki\|Unkalaki]] heritage.

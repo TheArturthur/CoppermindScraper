@@ -7,6 +7,7 @@
 |**Grupo**|[[%C3%89lites de Dalinar\|Élites de Dalinar]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Dym** es un miembro de las élites de [[Dalinar\|Dalinar]].
 Está presente durante la batalla donde reclutaron a [[Teleb\|Teleb]] y le arrojó a [[Dalinar\|Dalinar]] una alabarda después de que perdiera su espada larga en su enfrentamiento con [[Yezriar\|Yezriar]]. Dalinar devuelve la alabarda a Dym mientras habla con un soldado herido y luego hace un gesto para que Dym ponga fin al sufrimiento del soldado. Cuando otro soldado se acerca con la espada de Dalinar, Dym lo reprende por romperla y le pregunta a Dalinar si está bien cuando no responde con jovialidad.

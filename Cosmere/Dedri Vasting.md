@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Dedri Vasting** es un [[Noble\|noble]] en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
 Es uno de los miembros de la [[Asamblea de Luthadel\|Asamblea de Luthadel]] tras el [[Colapso\|Colapso]]. Está presente en la [[Batalla de Hathsin\|Batalla de Hathsin]] y fue uno de los únicos miembros supervivientes del gobierno de [[Luthadel\|Luthadel]] en ese momento.

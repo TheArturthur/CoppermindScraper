@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 La brillante **Jasalai** es la líder del campamento de guerra Kholin en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]] después de que [[Dalinar Kholin\|Dalinar Kholin]] se traslade a [[Urithiru\|Urithiru]].
 Se la describe como alta y señorial. Conduce a Dalinar y [[Navani\|Navani]] en un recorrido por el campamento de guerra antes de que este hable con [[Kadash\|Kadash]]. Dalinar se alegra de que el campamento de guerra parezca estar en buen estado a pesar de la llegada de la [[Tormenta eterna\|tormenta eterna]].

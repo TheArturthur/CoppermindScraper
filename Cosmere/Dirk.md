@@ -11,6 +11,7 @@
 |**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
 |**Mundo natal**|[[Lumar\|Lumar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
 
 >“
 \-Aunque el nuevo heredero tenía el intelecto de un pedazo de pan mojado, era popular, guapo y muy bueno haciendo que mataran a otra gente.

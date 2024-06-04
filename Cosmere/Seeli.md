@@ -1,15 +1,15 @@
 |**Seeli**|
 |-|-|
-|**Familia**|
 |**Padres**|[[Heb\|Heb]], [[Taffa\|Taffa]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“* Father. Father, what is happening?*”
 \- Seeli[1]
 
 
-**Seeli** was a young girl who lived on [[Roshar\|Roshar]] during the Eighth [[Heraldic Epochs\|Heraldic Epoch]]. She was the daughter of [[Taffa\|Taffa]] and [[Heb\|Heb]], the man whom [[Dalinar\|Dalinar]] and [[Fen\|Fen]] replaced in the [[Dalinar's visions\|Starfalls vision]].
+**Seeli** is a young girl who lives on [[Roshar\|Roshar]] during the Eighth [[Heraldic Epochs\|Heraldic Epoch]]. She is the daughter of [[Taffa\|Taffa]] and [[Heb\|Heb]], the man whom [[Dalinar\|Dalinar]] and [[Fen\|Fen]] replace in the [[Dalinar's visions\|Starfalls vision]].
 
 ## History
 Seeli lived with her parents in a small village in [[Natanatan\|Natanatan]] during a time between [[Desolation\|Desolations]]. When she was roughly seven or eight years old, her home town was assaulted by the [[Midnight Essence\|Midnight Essence]]. She hid from the attack in her family's barn, where her father later found her. This is when the Starfalls vision begins, making her subsequent fate uncertain.

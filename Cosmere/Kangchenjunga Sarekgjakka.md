@@ -3,6 +3,7 @@
 |**Capacidades**|[[Bibliotecario\|Bibliotecario]]|
 |**Apodos**|She Who Cannot Be Named, Swcbn|
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|**|
 
 **Kangchenjunga Sarektjåkkå** is a  and a leader in the .
 

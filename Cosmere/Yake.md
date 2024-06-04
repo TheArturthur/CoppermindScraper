@@ -5,6 +5,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Yake** is a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
 

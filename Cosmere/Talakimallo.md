@@ -6,6 +6,7 @@
 |**Títulos**|King of [[Mokia\|Mokia]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
 **Talakimallo** is the king of [[Mokia\|Mokia]]. Shortly after the siege of [[Tuki Tuki\|Tuki Tuki]] began the  supposedly evacuated him, though he secretly stayed behind in the city.
 

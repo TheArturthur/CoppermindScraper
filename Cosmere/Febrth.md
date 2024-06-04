@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“* No me hacen falta tus mapas. Las [[Pasiones\|Pasiones]] me guían.*”
 \- Febrth a Graves[1]

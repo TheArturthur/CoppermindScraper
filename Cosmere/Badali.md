@@ -7,6 +7,7 @@
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Badali** es un [[Orden de los Custodios de Piedra\|Custodio de Piedra]] en [[Roshar\|Roshar]]. Es un hombre mayor, afable y de barba fina con una expresión alegre.
 Cuando los eruditos de [[Navani\|Navani]] encontraron una sala en [[Urithiru\|Urithiru]] sin puertas pero con un gran ventanal exterior, Badali utilizó sus poderes para crear una entrada y luego vigiló el acceso al menos hasta la llegada de Navani.

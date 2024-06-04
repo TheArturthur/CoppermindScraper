@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Serugiadis** is a lanky young  [[Shardbearer\|Shardbearer]] who serves under [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]].
 Serugiadis receives his [[Shardplate\|Shardplate]] from [[Adolin Kholin\|Adolin Kholin]], who won them during his duels with the other highprinces' Shardbearers. During the [[Battle of Narak\|Battle of Narak]], Serugiadis and [[Rust Elthal\|Rust Elthal]], under the command of [[Teleb\|Teleb]], fight at the head of Highprince [[Sebarial\|Sebarial]]'s army.

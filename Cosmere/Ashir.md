@@ -5,6 +5,7 @@
 |**Residencia**|[[Islas Reshi\|Las islas Reshi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*I wonder if they eat in the Cognitive Realm. Is a food there what it sees itself as being? I’ll have to read and see if anyone has ever eaten while visiting [[Shadesmar\|Shadesmar]].*”
 \-Geranid sobre cocinar[1]

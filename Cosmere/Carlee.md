@@ -6,6 +6,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Carlee** es una joven mujer [[Noble\|noble]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]].
 Está casada con lord [[Tyden\|Tyden]]. Tiene una vocecita ronroneante y rara vez habla excepto para lanzar una pulla contra su marido. Está presente en la fiesta en el [[Torre%C3%B3n Hasting\|Torreón Hasting]] y deja caer que Tyden, como un incompetente, ha sido víctima de un robo o una estafa llevaba a cabo por [[Skaa\|skaa]].

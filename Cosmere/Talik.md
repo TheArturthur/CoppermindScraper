@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De las islas Reshi\|de las islas Reshi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Talik** is a [[Reshi\|Reshi]] trademaster who lives on [[Relu-na\|Relu-na]]. He is the son of the king of the island, [[Ral-na\|Ral-na]].
 

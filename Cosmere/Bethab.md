@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 El **alto príncipe Bethab** es un alto príncipe de [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]]. Su [[Principado Bethab\|principado]] se encuentra en el extremo suroeste de Alezkar.
 

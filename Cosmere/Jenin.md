@@ -6,6 +6,7 @@
 |**Grupo**|[[Dalinar's elites\|Dalinar's elites]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Odio disparar a caballos. Más que tirar mil broams al tormentoso océano, brillante señor.*”
 \-Jenin a Dalinar Kholin[1]

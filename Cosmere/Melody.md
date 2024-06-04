@@ -6,6 +6,7 @@
 |**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 >“*Rithmatic this, Rithmatic that! Protect the kingdom, keep the wild chalklings at bay. Why does everything have to do with Rithmatics? Can't a girl spend some time thinking about something else for a while?*”
 \-Melody to Joel[1]
@@ -13,8 +14,8 @@
 
 **Melody** is a student at  at the same time as [[Joel Saxon\|Joel Saxon]].
 She is a , but is not very good at drawing circles and other defensive formations. However, she is gifted at drawing , especially . Joel once took a look at her notebook and found it full of castles and unicorns.
-Melody was [[William Muns\|William]]'s sister. They came from the Floridian Atolls where their parents still lived. Both of Melody's parents and all of her siblings are Rithmatists. Due to the great distance between their home and the Academy, they only come visit Melody once a year, when the  happens.
-Both parents as well as William's and Melody's siblings are Rithmatists, a fact that seemed to be nearly impossible.
+Melody is [[William Muns\|William]]'s sister. They are from the Floridian Atolls where their parents still live. Both of Melody's parents and all of her siblings are Rithmatists. Due to the great distance between their home and the Academy, they only come visit Melody once a year, when the  happens.
+Both parents as well as William's and Melody's siblings are Rithmatists, a fact that seems to be nearly impossible.
 
 ## Sumario
 

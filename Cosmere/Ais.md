@@ -13,6 +13,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 >“*Sirvo a la justicia, Lokmlen. Y la justicia pertenece solo al Señor de la Arena.*”
 \-Ais[1]

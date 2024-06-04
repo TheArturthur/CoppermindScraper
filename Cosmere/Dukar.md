@@ -7,6 +7,7 @@
 |**Residencia**|[[Kharbranth\|Kharbranth]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Mi rey. Mi rey eterno.*”
 \-Dukar a Taravangian[1]

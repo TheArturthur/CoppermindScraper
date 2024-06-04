@@ -9,6 +9,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Forch** es un joven [[Terris\|terrisano]] que vive en [[La Aldea\|la Aldea]] de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]] durante la juventud de [[Waxillium Ladrian\|Waxillium Ladrian]]. Es un [[Nacidoble\|nacidoble]], ya que es tanto un [[Brumoso\|brumoso]] de [[Acero\|acero]] (también denominado [[Lanzamonedas\|lanzamonedas]]) y un [[Ferrin\|ferrin]] de [[Peltre\|peltre]] (también denominado [[Bruto\|bruto]]). Forch es un pirómano y secuestrador que es asesinado por Waxillium Ladrian. Sus interacciones con el joven Wax influyen fuertemente en la vida posterior de éste, obligándole a abandonar la Aldea y empujándole a seguir su camino para convertirse en vigilante.
 

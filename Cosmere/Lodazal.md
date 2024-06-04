@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 Identificador **Lodazal** es miembro del [[Escuadr%C3%B3n Pesadilla\|Escuadrón Pesadilla]] junto con [[Napia\|Napia]], [[Afinadora\|Afinadora]], [[Sushi\|Sushi]], [[Jager\|Jager]], y [[Nord\|Nord]]. Tiene unos dieciocho años y pilota un [[Poco\|Poco]].
 

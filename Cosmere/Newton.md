@@ -5,6 +5,7 @@
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Residencia**|[[Babilar\|Babilar]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 
 > [!info] Este artículo necesita varias citasPor favor, añade referencias a capítulos u otras fuentes que expliquen estos datos.
 **Newton** is an  that serves [[Regalia\|Regalia]] in [[Babilar\|Babilar]]. Prior to becoming an Epic, she was known as **Yunmi Park**.

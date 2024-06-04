@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Ashlv** es una mujer  en [[Roshar\|Roshar]]. Es miembro de la tripulación del *[[Placer del Viento\|Placer del Viento]]*, un barco capitaneado por su marido, [[Tozbek\|Tozbek]].
 

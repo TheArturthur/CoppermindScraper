@@ -4,6 +4,7 @@
 |**Fallecido**|Killed by |
 |**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 This page is about the character in [[Steelheart\|Steelheart]]. Para information on the [[Aon\|Aon]], ver [[/wiki/Aon#Tia]].
 **Tia** is a member of the [[Reckoners\|Reckoners]]. She generally is on operations during missions and is the group's main researcher. She is the only one among the Reckoners to know  from before the arrival of [[Calamity\|Calamity]]. She is also one of the main people to get in touch with the Reckoner's contacts such as the . She offers to teach [[David\|David]] her side of the Reckoners, but he refuses, as it means he wouldn't be able to do point duty any more.

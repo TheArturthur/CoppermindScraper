@@ -1,6 +1,5 @@
 |**Rem**|
 |-|-|
-|**Familia**|
 |**Cónyuge**|[[Ned\|Ned]]|
 |**Fallecido**||
 |**Residencia**|[[Urithiru\|Urithiru]]|

@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Iri\|de Iri]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Yis** is an [[Iriali\|Iriali]] leatherworker on [[Roshar\|Roshar]]. He works in the warcamps on the [[Shattered Plains\|Shattered Plains]] during the [[War of Reckoning\|War of Reckoning]].
 

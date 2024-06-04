@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Ithi** es una [[Moldeador de almas\|moldeadora de almas]] en [[Kholinar\|Kholinar]], en [[Roshar\|Roshar]]. [[Celeste\|Celeste]] les encarga a ella y a su hermana que alimenten en secreto a la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] moldeando piedra en comida.
 

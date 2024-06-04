@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 >“*Esto no es los Áridos. ¿Cree que puede hacer lo que se le antoje? ¿Cree que puede coger una pistola y tomarse la justicia por su mano?*”
 \-El capitán Brettin a Waxillium Ladrian[1]

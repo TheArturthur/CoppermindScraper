@@ -3,6 +3,7 @@
 ||
 |**Poderes**|[[%C3%89pico\|Épico]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Firefight\|Firefight]]*|
 
 >“*I follow the orders of no man, mortal or Epic ... I am the cleansing fire.*”
 \-Obliteration to Newton[1]

@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 La brillante **Danlan Morakotha** es una mujer [[Alezi\|alezi]] que cortejó a [[Adolin Kholin\|Adolin Kholin]] en las [[Las Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Es una miembro del [[Diagrama (grupo)\|Diagrama]].
 

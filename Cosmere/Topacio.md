@@ -9,6 +9,7 @@
 |**Grupo**|[[Cantamundos\|Cantamundos]]🐱︎, [[Forjamundos\|Forjamundos]]|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 > [!info] ¡Qué te dije sobre estropear el final de las historias!Hoid ha hecho notar su presencia en todo el [[Cosmere\|Cosmere]], por lo que esta página contiene **spoilers extensos**.
 

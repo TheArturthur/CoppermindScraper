@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Tlik** is a guard at the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] in [[Thaylen City\|Thaylen City]] on [[Roshar\|Roshar]].
 

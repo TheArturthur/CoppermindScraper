@@ -6,6 +6,7 @@
 |**Especie**|[[Kitsen\|Kitsen]]|
 |**Mundo natal**||
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Estelar\|Estelar]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Perpetua\|Perpetua]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

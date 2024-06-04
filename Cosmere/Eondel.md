@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Eondel** es el conde de la [[Plantaci%C3%B3n de Eon\|Plantación de Eon]] en [[Arelon\|Arelon]] en [[Sel\|Sel]].
 

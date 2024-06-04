@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Hugues Entrone** es un noble y miembro de la [[Casa Entrone\|Casa Entrone]] en [[Scadrial\|Scadrial]]. Es primo y confidente del actual lord Entrone.
 Estaba presente en la [[Subasta de Winsting Innate\|subasta de Winsting Innate]], lo que indica que probablemente estaba involucrado en actividades ilícitas. Habló con Winsting durante la subasta. Posiblemente murió junto con el resto de los asistentes tras el tiroteo que inició [[Sangradora\|Sangradora]].

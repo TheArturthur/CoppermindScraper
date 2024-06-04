@@ -3,6 +3,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Lux (book)\|Lux]]*|
 
 >“*There is nothing quite so special as to sip from the chalice of death. Sip, not swallow. To taste its sweet licorice on your toungue before releasing it back into the cup. Have you ever tasted something so sweet?*”
 \-Wingflare[1]

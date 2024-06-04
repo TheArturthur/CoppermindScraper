@@ -11,6 +11,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|Unknown|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Una mujer se sienta y se rasca los ojos. Hija de reyes y vientos, vándala.*”
 \-Un Susurro de muerte[2]

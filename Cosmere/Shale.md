@@ -3,7 +3,9 @@
 |**Cónyuge**|[[Sindria\|Sindria]]|
 |**Mundo natal**|[[Alornia\|Alornia]]|
 |**Universo**|[[Wode\|Wode]] [[State\|States]]|
+|**Presentado en**|*[[Perfect State\|Perfect State]]*|
 
+Para the Rosharan plant family, ver [[Shalebark\|Shalebark]].
 >“*The old way? Like...on a horse? I miss that.*”
 \-Shale to Kairominas[1]
 

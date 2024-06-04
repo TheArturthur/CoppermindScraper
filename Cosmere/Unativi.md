@@ -6,6 +6,7 @@
 |**Especie**|[[Cumbrespren\|Cumbrespren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*Instead you go chasing humans. Losing your mind. Going to **fight**?*”
 \-Unativi to Ua'pam[1]

@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Nacomb Gaval** es un joven soldado [[Ojos claros\|ojos claros]] en el  ejército de Kholin durante la [[Guerra de la Venganza\|guerra de la Venganza]] en [[Roshar\|Roshar]].
 Después de que muchos de los oficiales superiores pereciesen durante la [[Batalla de la Torre\|batalla de la Torre]], Kaladin ascendió a Gaval y le encargó la misión de campo como comandante de la retaguardia [[Kaladin\|Kaladin]]. Se le ordenó supervisar la retirada del resto del ejército de [[Dalinar\|Dalinar]]. En cuanto tomó el mando, el ejército comenzó a retirarse a través del puente rápida y ordenadamente.

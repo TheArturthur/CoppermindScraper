@@ -17,7 +17,7 @@ Jack and Camilla talk again. Jack explains that Fran's money was tied up with In
 
 ## Development
 The idea for this story began with a research paper for an undergraduate English course, which Sanderson presented as a noir detective story. A few years later, he used a version of essay's main character in a new story, this time set in the future, which became *Long Chills & Case Dough*.
-In December 2023, the final box of the Year of Sanderson campaign included copies of Long Chills & Case Dough, published by [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] as part of the [[Sanderson Curiosities\|Sanderson Curiosities]] series.
+In December 2023, the final box of the [[Year of Sanderson\|Year of Sanderson]] campaign included copies of Long Chills & Case Dough, published by [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] as part of the [[Sanderson Curiosities\|Sanderson Curiosities]] series.
 
 ## Notes
 A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .

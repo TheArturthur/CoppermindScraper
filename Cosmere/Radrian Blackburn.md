@@ -3,6 +3,7 @@
 ||
 |**Capacidades**|[[Oculantista oscuro\|Oculantista oscuro]], [[Bibliotecario\|Bibliotecario]]|
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[Alcatraz Versus the Evil Librarians\|Alcatraz Versus the Evil Librarians]]*|
 
 **Radrian Blackburn** is a  and a  on . He purposely put out one of his eyes to increase the power of the other one when using Lenses.
 

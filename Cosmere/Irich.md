@@ -7,6 +7,7 @@
 |**Grupo**|[[El Grupo\|El Grupo]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 El **profesor Irich** es un científico y miembro del [[El Grupo\|Grupo]] en [[Scadrial\|Scadrial]]. Dentro del Grupo ostenta el rango de matriz/colector. Es un [[Brumoso\|brumoso]] de [[Cromo\|cromo]] (también denominado [[Sanguijuela\|sanguijuela]]).
 

@@ -5,6 +5,7 @@
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 Barm es un chef [[Ojos oscuros\|ojos oscuros]] que trabaja en la cocina de la mansión del consistor de [[Piedralar\|Piedralar]], en [[Roshar\|Roshar]].
 

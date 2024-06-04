@@ -6,6 +6,7 @@
 |**Especie**|[[Honorspren\|Honorspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“* De veras es como dices. Una hoja esquirlada que no requiere un spren, no requiere esclavitud. esto es algo más. ¿Cómo lo conseguiste?*”
 \- Borea a Celeste sobre su hoja esquirlada[1]

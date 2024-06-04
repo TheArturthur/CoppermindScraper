@@ -1,10 +1,10 @@
 |**Thresh-hijo-Esan**|
 |-|-|
-|**Familia**|
 |**Padres**|Esan|
 |**Etnia**|[[De Shinovar\|de Shinovar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Winds of Fortune guide you, my friend. He who adds is happy for your safe arrival.*”
 \-Thresh greeting Vstim[1]

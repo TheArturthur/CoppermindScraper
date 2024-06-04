@@ -4,6 +4,7 @@
 |**Hijos**|[[Dennison Crestmar\|Dennison]], [[Varion Crestmar\|Varion]]|
 |**Fallecido**|Killed by Varion|
 |**Mundo natal**|*Desconocido*|
+|**Presentado en**|*[[Firstborn\|Firstborn]]*|
 
 **Sennion Crestmar** was a duke in the empire of [[Firstborn\|Firstborn]].
 

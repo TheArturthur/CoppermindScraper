@@ -1,16 +1,17 @@
 |**Ruthar**|
 |-|-|
 |**Familia**|
-|**Cónyuge**|[[Jayla Ruthar\|Jayla]]|
-|**Hijos**|[[Relis\|Relis]], [[Ivanar Ruthar\|Ivanar]]|
-|**Parientes**|[[Elit Ruthar\|Elit]]|
+|**Cónyuge**|[[Jayla\|Jayla]]|
+|**Hijos**|[[Relis\|Relis]], [[Ivanar\|Ivanar]]|
+|**Parientes**|[[Elit\|Elit]]|
 |**Ancestros**|[[Sadees\|Sadees]]|
 |**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
-|**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alethkar\|Alethkar]]|
+|**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alethkar\|Alethkar]] |
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

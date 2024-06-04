@@ -3,6 +3,7 @@
 |**Especie**|[[Sabueso-hacha\|Sabueso-hacha]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Sakisa** is an [[Axehound\|axehound]] owned by [[Wikim Davar\|Wikim Davar]]. She enjoys playing catch with a cloth wrapped ball.
 

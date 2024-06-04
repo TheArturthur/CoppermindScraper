@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Cenn** es un joven lancero [[Ojos oscuros\|ojos oscuros]] en el ejército de [[Amaram\|Amaram]]. Está al cuidado de [[Dallet\|Dallet]] y [[Kaladin\|Kaladin]] ddurante su primera y fatal batalla.
 

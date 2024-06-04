@@ -6,6 +6,7 @@
 |**Especie**|[[Larkin\|Larkin]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Chiri-Chiri** es el [[Larkin\|larkin]] de [[Rysn Ftori\|Rysn Ftori]], uno de los tan solo tres con vida que se conocen.
 

@@ -4,10 +4,11 @@
 |**Capacidades**|Swordfighting|
 |**Títulos**|Captain of [[Dalinar\|Dalinar]]'s elites|
 |**Oficio**|Soldier|
-|**Grupo**|[[%C3%89lites de Dalinar\|Élites de Dalinar]]🐱︎, Ejército de Kholin|
+|**Grupo**|[[Dalinar's elites\|Dalinar's elites]]🐱︎, Ejército de Kholin|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Thakka** was the captain of [[Dalinar Kholin\|Dalinar Kholin]]'s elite soldiers on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]]. He participated in many of the early battles of the Alethi Unification War before being killed in an assassination attempt against Dalinar at the Rift.
 

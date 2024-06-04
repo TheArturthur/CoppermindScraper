@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Amigo mío, debo admitir una debilidad propia. Nunca podré enviar a Vivenna para que sea rehén en esa ciudad nido de dragones.*”
 \-La confesión de Dedelin a Lemex por carta[2]

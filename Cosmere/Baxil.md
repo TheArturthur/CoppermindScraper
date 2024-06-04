@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Emul\|de Emul]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Baxil** es un ladrón [[Emul\|emuli]] de [[Roshar\|Roshar]] que es contratado por [[Shalash\|Shalash]].
 

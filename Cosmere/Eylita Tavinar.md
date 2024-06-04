@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Eylita Tavinar** es una mujer [[Veden\|veden]] [[Ojos claros\|ojos claros]] en [[Roshar\|Roshar]]. Está casada con [[Balat Davar\|Balat Davar]].
 

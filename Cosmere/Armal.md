@@ -10,6 +10,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 >“*Estos siete años. ¿Los has aprovechado? ¿Los has apreciado? Yo los pasé deseando tener aunque fuese un solo día más de mi antigua vida. Poder enseñar a mis hijos un mundo de luces y vida, en vez de uno de piedra y sombra. Por favor, dime que has vivido bien esos años de libertad.*”
 \-Armal, a Marasi[3]

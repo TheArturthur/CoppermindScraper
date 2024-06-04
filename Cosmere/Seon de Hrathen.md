@@ -8,6 +8,7 @@
 |**Especie**|[[Seon\|Seon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 El **seon de Hrathen** es un ser mágico en [[Sel\|Sel]] que es utilizado por el [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]] para comunicarse.
 

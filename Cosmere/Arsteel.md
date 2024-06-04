@@ -11,6 +11,7 @@
 |**Grupo**|[[Los Cinco Sabios\|Los Cinco Sabios]]🐱︎, [[Banda de Denth\|Banda de Denth]]🐱︎|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Arsteel** es un [[Retornado\|Retornado]] y y uno de [[Los Cinco Sabios\|los Cinco Sabios]] de [[Nalthis\|Nalthis]]. Es el hermano de [[Yesteel\|Yesteel]]. Tras su muerte fue convertido en un sinvida llamado Clod. Es uno de los mejores espadachines de su tiempo.
 

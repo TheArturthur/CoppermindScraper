@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Por favor. El mundo está mal. Nada tiene sentido. Pero vosotros… tu grupo… sabéis cosas. No quiero seguir estando ciega.*”
 \-Ishnah pidiendo ser reclutada por los Sangre Espectral[3]

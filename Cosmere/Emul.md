@@ -43,7 +43,7 @@
 
 ## Geografía
 Emul se encuentra en la zona sudeste de la cuenca makabaki, que se encuentra en la parte suroeste de Roshar. Prácticamente no tiene costa, tan solo es fronterizo con una bahía de las [[Profundidades Meridionales\|Profundidades Meridionales]] por su lado oeste. [[Tukar\|Tukar]] se encuentra al sur, [[Marat\|Marat]] al sudeste, [[Tashikk\|Tashikk]] al noroeste y [[Azir\|Azir]] al norte. En la frontera este de Emul se encuentra una cordillera que contiene el [[Valle\|Valle]], hogar de la [[Vigilante Nocturna\|Vigilante Nocturna]], y un paso hacia [[Gran Hexi\|Gran Hexi]]. La ciudad de Urithiru se encuentra en estas montañas del este. La capital de la Emul, Sesemalex Dar, se encuentra en la costa oeste cerca de la frontera con Tukar. La ciudad es el mejor puerto de Emul y rica en comercio. Tras la guerra con Tukar, el reino quedó dividido, aunque todavía parecen mantener el control de la capital.
-Una gran parte del país, principalmente en el sur y a través de las fronteras meridionales, se encuentra en la [[Cuenca del Drunmu\|cuenca del Drunmu]]. La cuenca es amplia y llana, con algunas pequeñas colinas y laderas. En esta zona florecen las [[Fruta podrida\|frutas podridas]], que crecen bastante altas, y la cuenca está cubierta de hierba roshariana. Carece de grandes núcleos de población.
+Una gran parte del país, principalmente en el sur y a través de las fronteras meridionales, se encuentra en la [[Cuenca del Drunmu\|cuenca del Drunmu]]. La cuenca es amplia y llana, con algunas pequeñas colinas y laderas. En esta zona florecen las [[Pilavid\|pilavides]], que crecen bastante altas, y la cuenca está cubierta de hierba roshariana. Carece de grandes núcleos de población.
 Emul tiene un área de aproximadamente 596,000 km.
 
 ## Historia

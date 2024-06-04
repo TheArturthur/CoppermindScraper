@@ -4,6 +4,7 @@
 |**Residencia**|[[Integridad Duradera\|Integridad Duradera]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Sixteen** is a [[Worldhopper\|worldhopper]] originally from [[Scadrial\|Scadrial]] who lives in [[Lasting Integrity\|Lasting Integrity]] in the , also known as Shadesmar. His name is likely an alias inspired by the significance of the number sixteen within the [[Cosmere\|cosmere]], particularly on Scadrial.
 

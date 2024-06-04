@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Jor** es [[Alezkar\|alezi]], portero en *[[El Deber de Jez\|El Deber de Jez]]*, en [[Urithiru\|Urithiru]], [[Roshar\|Roshar]]. Está casado con [[Kryst\|Kryst]].
 

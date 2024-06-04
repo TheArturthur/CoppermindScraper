@@ -7,6 +7,7 @@
 |**Especie**|[[Insomne\|Insomne]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
 >“*Esto es un desastre. No debería haber llegado tan lejos.*”
 \-Alalhawithador[1]

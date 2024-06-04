@@ -3,6 +3,7 @@
 |**Fallecido**|c. 1173|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*He's like a slave, only better 'cuz he's a Shin. He don't run or talk back or anything. Don't have to pay him, neither. He's like a parshman, but smarter. Worth a right many spheres, Oi'd say.*”
 \-Took speaking of Szeth[1]

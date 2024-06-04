@@ -3,6 +3,7 @@
 |**Grupo**||
 |**Residencia**||
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Steelheart\|Steelheart]]*|
 
 **Roy** is a member of  and an acquaintance of [[David Charleston\|David Charleston]].
 Roy is one year older than David and was raised in the  alongside him. The Factory's manager, [[Martha\|Martha]], assigned Roy the role of "adjunct", which required him to help supervise the younger children and deal with conflicts and bullying. David respected him for performing this role.

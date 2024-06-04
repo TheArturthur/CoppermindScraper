@@ -2,6 +2,7 @@
 |-|-|
 |**Capacidades**|Smells delicious to dragonsHears spelling and punctuation|
 |**Mundo natal**|Cube|
+|**Presentado en**|*[[I Hate Dragons\|I Hate Dragons]]*|
 
 Para the transportation power in the [[Cosmere\|cosmere]], ver [[/wiki/Sigzil#Skipping]].
 **Skip** is a child employed as dragon bait by a group of hunters.

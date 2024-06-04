@@ -3,6 +3,7 @@
 ||
 |**Oficio**|Asesino|
 |**Mundo natal**||
+|**Presentado en**|*Legion: Skin Deep*|
 
 Para the [[Shin\|Shin]] scholar mentioned in *[[Words of Radiance\|Words of Radiance]]*, ver [[Zen\|Zen]].
 **Zen Rigby** is an assassin that is hired to trail [[Stephen Leeds\|Stephen Leeds]].

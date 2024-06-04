@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Lagopuro\|de Lagopuro]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Gu** es un guía de flotas en el [[Mar Reshi\|Mar Reshi]], en [[Roshar\|Roshar]].
 

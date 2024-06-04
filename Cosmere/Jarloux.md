@@ -7,6 +7,7 @@
 |**Residencia**|[[Luthadel\|Luthadel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Jarloux** es un guardia de la [[Casa Hasting\|fortaleza Hasting]] durante el [[Asedio de Luthadel\|asedio de Luthadel]] en [[Scadrial\|Scadrial]].
 Estaba cumpliendo su turno de "deber de la bruma" con [[Wellen\|Wellen]] en el perímetro de la fortaleza cuando [[Vin\|Vin]] y [[Zane\|Zane]] atacaron, buscando a [[Ashweather Cett\|Ashweather Cett]]. [[Acero\|Empujaron]] [[Alomancia\|alománticamente]] cientos de monedas a los guardias; una de estas perforó el cráneo de Jarloux cuando este iba a dar la alarma, matándolo instantáneamente.

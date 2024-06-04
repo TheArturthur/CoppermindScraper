@@ -10,6 +10,7 @@
 |**Etnia**|[[De Treno\|de Treno]]|
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 Para el planeta, ver [[Sistema de Treno\|Sistema de Treno]].
 Para más imágenes, ver [[Eleg%C3%ADa Salvamento/Galer%C3%ADa\|/Galería]].

@@ -2,6 +2,7 @@
 |-|-|
 |**Oficio**|Coroner|
 |**Mundo natal**||
+|**Presentado en**|*Legion: Skin Deep*|
 
 **Liza** is a coroner living in America.
 She is in her late fifties. She is very tall. She likes to be called a medical examiner. She constantly plays games while on duty. She has difficulty interacting with people and so finds a job as a coroner to be satisfactory. She does not enjoy paperwork or meetings. [[Tobias\|Tobias]] adores her but Stephen doesn't know what Tobias saw in her.

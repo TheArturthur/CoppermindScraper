@@ -8,6 +8,7 @@
 |**Residencia**|[[Luthadel\|Luthadel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 >“*Eso son tonterías de los skaa de las plantaciones. Todos hemos estado ahí fuera, en las brumas.*”
 \-Harmon acerca de la teoría de Hrud sobre Kelsier[1]

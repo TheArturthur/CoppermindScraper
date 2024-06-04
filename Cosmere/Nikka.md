@@ -4,6 +4,7 @@
 |**Padres**|[[Lin Yang-Tanasin\|Lin Yang-Tanasin]], [[Zoran Tanasin\|Zoran Tanasin]]|
 |**Hermanos**|[[Paul Tanasin\|Paul Tanasin]]|
 |**Mundo natal**|[[Tierra (Dark One)\|Tierra (Dark One)]]|
+|**Presentado en**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

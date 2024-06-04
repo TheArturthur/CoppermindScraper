@@ -9,6 +9,7 @@
 |**Apodos**|Herr|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final\|El Imperio Final]]*|
 
 Este artículo es sobre el [[Recipiente\|Recipiente]]. Para el Aon, ver [[/wiki/Aon#Ati]].
 >“*La muerte no es malvada, Kelsier. La muerte es necesaria.*”

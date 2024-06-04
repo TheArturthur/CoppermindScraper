@@ -5,6 +5,7 @@
 |**Padres**|[[Leavenworth Smedry\|Leavenworth]]|
 |**Capacidades**|[[Talento Smedry\|Talento Smedry]]|
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|**|
 
 >“*Fantasy novels. Ah, well. Rot your brain if you want. You’re old enough that I can’t tell you what to do, though I’m glad you kicked that bed-wetting habit before you moved out!*”
 \-Pattywagon Smedry to her son Folsom[1]

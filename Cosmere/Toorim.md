@@ -2,9 +2,10 @@
 |-|-|
 |**Fallecido**|Ishi 1172|
 |**Oficio**|Member of Kaladin's squad in Amaram's army|
-|**Grupo**|Ejército de Amaram's, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
+|**Grupo**|Ejército de Amaram's, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Toorim** was a soldier in [[Amaram\|Amaram]]'s army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He was a member of [[Kaladin\|Kaladin]]'s squad.
 Toorim searched the brightlord that Kaladin killed for spheres, but did not find any. Toorim thought the brightlord either brought no spheres or they were hidden under his breastplate. Stealing from the dead was prohibited, but Kaladin did not mind Toorim searching for the spheres.

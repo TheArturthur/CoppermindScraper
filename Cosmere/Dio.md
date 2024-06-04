@@ -8,6 +8,7 @@
 |**Especie**|[[Seon\|Seon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Dio** es un [[Seon\|seon]], un ser mágico de [[Sel\|Sel]]. Está vinculado con el rey [[Eventeo\|Eventeo]] de [[Teod\|Teod]] en [[Sel\|Sel]].
 

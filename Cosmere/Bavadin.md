@@ -8,6 +8,7 @@
 |**Apodos**|, [[Patji (ser)\|Patji]], [[Trell (trellismo)\|Trell]]|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 >“*Solo a través de la lucha por la supervivencia una persona, un pueblo, puede alcanzar su potencial.*”
 \-Bavadin.[1]

@@ -9,6 +9,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Disten** es un miembro de la [[Banda de Camon\|banda de ladrones]] de [[Camon\|Camon]] en la ciudad de [[Luthadel\|Luthadel]] en [[Scadrial\|Scadrial]]. Era uno de los principales rastreadores de la banda. Le falta una mano, pero tiene unos sentidos muy agudos.
 

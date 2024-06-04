@@ -14,6 +14,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 **Ashweather Cett** es un noble de [[Ciudad Fadrex\|Ciudad Fadrex]] durante el [[Imperio Final\|Imperio Final]].
 

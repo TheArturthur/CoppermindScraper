@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Barba** es un excéntrico miembro de la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] en [[Alezkar\|Alezkar]], [[Roshar\|Roshar]]. Forma parte de la escuadra de [[Noromin\|Noro]], en concreto del séptimo pelotón, segunda escuadra.
 

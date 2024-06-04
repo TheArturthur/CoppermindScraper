@@ -23,7 +23,7 @@
 
 
 ## Structure
-Thaylen script is an abjad, and thus does not write vowels, which reflects the Thaylen proclivity towards consonant clusters. The characters used in Thaylen script strongly resemble the basic form of Vorin [[Glyphs\|glyphs]], though use of bilateral symmetry is neglected. There are thirteen known letters in Thaylen script. As with [[Women's script\|women's script]], Thaylen script is merely transliterated English, with vowel sounds ignored. Writing is usually oriented vertically, though the script is sometimes turned on its side and read left to right. Letters may be distorted slightly to make letters fit together, for aesthetics.
+Thaylen script is an , and thus does not write vowels, which reflects the Thaylen proclivity towards consonant clusters. The characters used in Thaylen script strongly resemble the basic form of Vorin [[Glyphs\|glyphs]], though use of bilateral symmetry is neglected. There are thirteen known letters in Thaylen script. As with [[Women's script\|women's script]], Thaylen script is merely transliterated English, with vowel sounds ignored. Writing is usually oriented vertically, though the script is sometimes turned on its side and read left to right. Letters may be distorted slightly to make letters fit together, for aesthetics.
 
 ### Thaylen Script Characters
 

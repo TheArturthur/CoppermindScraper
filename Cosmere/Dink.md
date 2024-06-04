@@ -3,6 +3,7 @@
 |**Oficio**|Advisor|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
 >“*The dome is going to crack soon.*”
 \-Dink to Alcatraz[1]

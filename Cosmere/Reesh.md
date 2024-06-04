@@ -2,9 +2,10 @@
 |-|-|
 |**Fallecido**|Ishi 1172|
 |**Oficio**|Member of Kaladin's squad in Amaram's army|
-|**Grupo**|Ejército de Amaram's, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
+|**Grupo**|Ejército de Amaram's, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Reesh** is a soldier in [[Amaram\|Amaram]]'s army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 He fights in the battle against [[Hallaw\|Hallaw]] in which [[Helaran Davar\|Helaran Davar]] is killed by [[Kaladin\|Kaladin]]. Just prior to Kaladin attacking Helaran, Reesh yells at Kaladin to stop, and is unheeded. He is executed by [[Amaram\|Amaram]]--along with [[Hab\|Hab]], [[Alabet\|Alabet]], and [[Coreb\|Coreb]]--after Kaladin gives Coreb Helaran's [[Shardblade\|Shardblade]].

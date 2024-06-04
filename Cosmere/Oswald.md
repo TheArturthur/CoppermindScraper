@@ -5,6 +5,7 @@
 |**Oficio**|Guard|
 |**Residencia**|[[Stenford\|Stenford]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 >“*I am growing old, aelv. I was too slow and weak to protect Oswald or the skop's brother.*”
 \-Ealstan to Runian[1]

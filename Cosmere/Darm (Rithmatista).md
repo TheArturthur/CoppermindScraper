@@ -2,6 +2,7 @@
 |-|-|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 Para the criminal at [[Winsting Innate's auction\|Winsting Innate's auction]], ver .
 **Darm** is a cleaning lady at .

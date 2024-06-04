@@ -10,6 +10,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Jastes Lekal** era un [[Noble\|noble]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]].
 Era amigo y compatriota de Elend Venture y [[Telden Hasting\|Telden Hasting]]. Los tres se reunían a menudo en los bailes y discutían sobre política contemporánea e incluso rebelde. Elend y él planeaban convertirse en aliados políticos tras heredar sus respectivas casas nobles. Su tío era el rey [[Audil Lekal\|Audil Lekal]].

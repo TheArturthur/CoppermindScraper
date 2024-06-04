@@ -10,6 +10,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Goradel** era un [[Skaa\|skaa]] en [[Scadrial\|Scadrial]]. Estaba en el ejército del [[Lord Legislador\|lord Legislador]], pero se unió a la [[Revuelta skaa\|revuelta skaa]] en la noche del [[Colapso\|Colapso]]. Se convirtió en capitán a las órdenes de [[Elend Venture\|Elend Venture]] y fue jefe de la guardia de [[Sazed\|Sazed]] y [[Fantasma\|Fantasma]] durante el [[Golpe de Urteau\|Golpe de Urteau]]. [[Marsh\|Marsh]] lo mató mientras llevaba la nota de [[Fantasma\|Fantasma]] a Vin.
 

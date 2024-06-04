@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*A darkeyed captain! Who would have thought it possible? You’ll be the only one in the army. The only one ever, so far as I know!*”
 \-Rind to Kaladin[1]

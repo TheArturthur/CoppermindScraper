@@ -3,6 +3,7 @@
 |**Capacidades**|[[Oculantista\|Oculantista]]|
 |**Grupo**|Order of the |
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|**|
 
 **Fitzroy** is a Dark  who accompanies [[Shasta Smedry\|Shasta Smedry]] when she infiltrates the  of [[Nalhalla\|Nalhalla]].
 

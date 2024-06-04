@@ -5,6 +5,7 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 Para the High Minister of the , ver .
 >“*How is it those refugees can't get it through their heads that we're the only thing separating them from the army outside?*”

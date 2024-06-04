@@ -4,6 +4,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Dawnshard (novella)\| Dawnshard]]*|
 
 **Plamry** is a [[Thaylen\|Thaylen]] man on [[Roshar\|Roshar]] that worked with [[Nikliasorm\|Nikli]] as a porter to [[Rysn\|Rysn]].
 

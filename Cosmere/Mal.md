@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Fjorden\|de Fjorden]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Dilaf** es el [[/wiki/Shu Dereth#Cadena a Jaddeth]] del monasterio [[/wiki/Shu Dereth#Monasterios]] que conduce a la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]].
 En algún momento de su vida como monje de Dakhor, se le asigna actuar como espía en [[Arelon\|Arelon]], y sus características físicas son alteradas para parecer un joven [[Areleno\|areleno]]. Tiempo después de su transformación, conoce y se enamora de una mujer de Arelon. Cuando ella muere a pesar de la ayuda [[Elantrino\|elantrina]], cuaja en él un odio hacia [[Elantris (ciudad)\|Elantris]] que le lleva a la locura. Tras liderar los asaltos tanto en [[Kae\|Kae]] como en [[Teod\|Teod]], es asesinado por [[Hrathen\|Hrathen]], que no puede tolerar sus tendencias genocidas.

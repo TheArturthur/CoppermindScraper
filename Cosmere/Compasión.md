@@ -15,6 +15,7 @@
 |**Nacionalidad**|[[Uni%C3%B3n\|Unión]] |
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 **Compasión** es una de los tres miembros del [[El Bien Mayor\|Bien Mayor]], el consejo gobernante de [[Baliza\|Baliza]], en [[C%C3%A1ntico\|Cántico]].Como miembro de mayor edad del Bien Mayor, es también probablemente la ciudadana más anciana de Baliza.
 

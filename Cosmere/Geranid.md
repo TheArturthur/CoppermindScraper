@@ -7,6 +7,7 @@
 |**Residencia**|[[Islas Reshi\|Las islas Reshi]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Geranid** es una [[Fervoroso\|fervorosa]] científica y filósofa en [[Roshar\|Roshar]].
 Vive con [[Ashir\|Ashir]] es una pequeña isla [[Reshi\|reshi]].

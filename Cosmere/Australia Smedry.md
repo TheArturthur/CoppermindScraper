@@ -5,6 +5,7 @@
 |**Capacidades**|[[Talento Smedry\|Talento Smedry]], [[Oculantista\|Oculantista]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|**|
 
 **Australia Smedry** is an  and a member of the , a cousin to [[Alcatraz Smedry\|Alcatraz]]. Her  allows her to wake up looking really ugly.
 

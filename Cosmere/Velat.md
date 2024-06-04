@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 Brightness **Velat** is an  [[Lighteyes\|lighteyes]] and scholar on [[Roshar\|Roshar]] specializing in cartography.
 

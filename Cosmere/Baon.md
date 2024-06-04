@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Iiaria\|de Iiaria]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*Sabe usted mucho sobre la guerra, buen hombre. Aunque claro, por eso se le paga, ¿verdad?*”
 \-Cynder a Baon.[3]

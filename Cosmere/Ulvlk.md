@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*We use sound. If you can make the gemstone vibrate at a certain frequency, it will draw in Stormlight regardless of the size of gems placed next to it.*”
 \-Ulvlk's revelation to Navani[1]

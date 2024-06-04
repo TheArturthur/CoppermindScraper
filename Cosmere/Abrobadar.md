@@ -6,6 +6,7 @@
 |**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]] |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Abrobadar** es un [[Portador de esquirlada\|portador de esquirlada]] en el [[Llanuras Quebradas\|campamento de guerra de Aladar]] en las Llanuras Quebradas. Es uno de los duelistas más habilidosos de los campamentos de guerra.
 Está presente en la reunión durante la cual [[Shallan\|Shallan]] llega a las Llanuras. Se encuentra entre el grupo de trabajo que monta guardia en caso de que [[Szeth\|Szeth]] ataque, junto con el general [[Khal\|Khal]], [[Jakamav\|Jakamav]], [[Resi\|Resi]] y [[Relis\|Relis]].

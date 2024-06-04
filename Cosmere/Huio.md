@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Receta no es mía. Huio ha cambiado esa cosa. Ahora no sé si ascenderlo o tirarlo por el borde de meseta.*”
 \-Lunamor sirviendo shiki a Kaladin[1]

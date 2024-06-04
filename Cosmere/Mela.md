@@ -7,6 +7,7 @@
 |**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 **Mela** es una [[Orden de los Corredores del Viento\|Corredora del Viento]] en [[Roshar\|Roshar]].
 

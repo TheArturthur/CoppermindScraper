@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Torio\|de Torio]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Hwanji** es una joven de [[Torio\|Torio]] que trabaja como asistente de la [[Yoki-haijo\|yoki-haijo]] [[Yumi\|Yumi]].
 

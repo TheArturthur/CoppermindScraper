@@ -7,6 +7,7 @@
 |**Residencia**|[[Aguanatal\|Aguanatal]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Gavashaw** era un criminal en [[Aguanatal\|Aguanatal]], en [[Roshar\|Roshar]].
 El señor local en [[Puntarrodilla\|Puntarrodilla]] lo estableció como rival de [[Makkek\|Makkek]], y se le dio una gran mansión en el este de Aguanatal. [[Szeth\|Szeth]] fue enviado por Makkek para asesinarlo, pero cuando Szeth se infiltró en la mansión, encontró la cabeza de Gavashaw en una mesa en el dormitorio. Luego fue confrontado por un miembro enmascarado del [[Diagrama (grupo)\|Diagrama]] quien reveló que había matado tanto a Gavashaw como a Makkek y que su amo ([[Taravangian\|Taravangian]]) ahora controlaba la [[Piedra Jurada\|piedra jurada]] de Szeth.

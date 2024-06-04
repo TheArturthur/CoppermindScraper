@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Kharbranth\|de Kharbranth]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 El título de este artículo no es canon y ha sido creado por un fan ya que todavía no se ha establecido un término oficial.
 **Taravangian's granddaughter** is a member of the  royal family on [[Roshar\|Roshar]].
 She is quite young, below the age that a modesty sleeve is required for the sake of propriety and is attended by several nursemaids.

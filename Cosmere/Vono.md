@@ -4,6 +4,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Vono** is an  guardsman on [[Roshar\|Roshar]] that serves [[Prime Aqasix\|Prime Aqasix]] [[Yanagawn\|Yanagawn]] the First.
 

@@ -9,6 +9,7 @@
 |**Especie**|[[Seon\|Seon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 Para el Aon, ver [[/wiki/Aon#Dao]].
 **Dao** es un [[Seon\|seon]], un ser mágico de [[Sel\|Sel]]. Está vinculado a [[Kaise\|Kaise]], una [[Areleno\|arelena]], y se une a ella al servicio de los [[Sangre Espectral\|Sangre Espectral]] en [[Scadrial\|Scadrial]]. Recibe su nombre del [[/wiki/Aon#Dao]], que significa "estabilidad" o "seguridad". 

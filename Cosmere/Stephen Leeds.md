@@ -5,6 +5,7 @@
 |**Títulos**|Legion|
 |**Oficio**|Private Investigator|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 >“*My name is Stephen Leeds, and I am perfectly sane. My hallucinations, however, are all quite mad.*”
 \-Stephen Leeds[1]

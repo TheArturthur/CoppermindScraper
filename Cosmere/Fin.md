@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Fin** es un mozo de cuadra empleado por el rey [[Elhokar Kholin\|Elhokar Kholin]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]] en [[Roshar\|Roshar]].
 Tiene unos doce años. Es [[Ojos oscuros\|ojos oscuros]], y tiene el pelo color arena con algunos toques de negro.

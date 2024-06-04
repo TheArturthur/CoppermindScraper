@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Vrandl** is a [[Thaylen\|Thaylen]] [[Artifabrian\|artifabrian]] on [[Roshar\|Roshar]] and a member of the .
 

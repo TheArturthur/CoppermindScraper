@@ -4,6 +4,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Residencia**|[[Ildithia\|Ildithia]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Calamity\|Calamity]]*|
 
 **Loophole** is an  that lives in [[Ildithia\|Ildithia]]. She is lean and has short hair. She throws lavish parties and loves fancy cupcakes. Three pastry chefs were executed by Loophole for producing subpar cupcakes.
 

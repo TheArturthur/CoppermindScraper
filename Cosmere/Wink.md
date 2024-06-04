@@ -3,6 +3,7 @@
 |**Oficio**|Advisor|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
 >“*Always wear a hat when feeding pigeons.*”
 \-Wink giving advice to Alcatraz.[1]

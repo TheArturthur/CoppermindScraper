@@ -6,6 +6,7 @@
 |**Residencia**|[[Piedralar\|Piedralar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“* ¿Bien?. Me habéis amenazado. Venid. Golpeadme. Robadme. Hacedlo sabiendo que he vivido entre vosotros toda mi vida. Hacedlo sabiendo que he curado a vuestros hijos. Pasad. ¡Haced sangrar a uno de los vuestros!*”
 \- Lirin a Balsas y los demás ladrones[1]

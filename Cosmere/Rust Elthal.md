@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*I'm sending both Serugiadis and Rust to join Teleb. Your men will fight better against these things with a few Shardbearers at their head.*”
 \-Dalinar to Sebarial at the Battle of Narak[1]

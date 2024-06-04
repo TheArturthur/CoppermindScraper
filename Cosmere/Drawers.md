@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Drawers** es un criminal a quien atrapan en [[Elendel\|Elendel]] como parte de la banda de [[Migs\|Migs]].
 [[Wax\|Wax]] y [[Wayne\|Wayne]] atrapan a los ocho miembros de la banda de [[Migs\|Migs]] la mañana de la boda de Wax. Wax da una patada a Drawers en la barbilla durante la pelea. Este se levanta, pistola en mano, pero Migs le ordena que pare.

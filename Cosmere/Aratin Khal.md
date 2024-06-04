@@ -13,6 +13,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Aratin Khal** es un soldado [[Alezi\|alezi]] de [[Roshar\|Roshar]]. Es el segundo hijo del [[General Khal\|general Khal]] y [[Teshav\|Teshav]] y un consumado luchador de [[Vehah\|Vehah]].
 

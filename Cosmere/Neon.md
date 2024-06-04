@@ -3,6 +3,7 @@
 |**Capacidades**|[[%C3%89pico\|Épico]]|
 |**Residencia**|[[Ildithia\|Ildithia]]|
 |**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Presentado en**|*[[Calamity\|Calamity]]*|
 
 >“*Neon, Minor Epic. Light-manipulation powers. No invisibility, but he can put on quite a show—and drill you dead with a laser*”
 \-David Charleston[1]

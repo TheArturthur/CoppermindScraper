@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Jenet** es la jefa del establo del [[Llanuras Quebradas\|campamento de guerra Kholin]] en las [[Llanuras Quebradas\|Llanuras Quebradas]].
 

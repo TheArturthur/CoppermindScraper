@@ -3,6 +3,7 @@
 |**Capacidades**|Caballero [[Cr%C3%ADstin\|Crístin]]|
 |**Nacionalidad**||
 |**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
+|**Presentado en**|**|
 
 **Archedis** is a  knight. He is influential and well respected but is eventually revealed to be a traitor.
 

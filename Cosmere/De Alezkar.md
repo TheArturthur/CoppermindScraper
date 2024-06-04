@@ -112,10 +112,10 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 
 4. [[#Alcohol]] 
 4. [[#Curry]] 
-4. [[#Dairy Products]] 
-4. [[#Grain and Tubers]] 
-4. [[#Meat]] 
-4. [[#Seasoning and Sauces]] 
+4. [[#Productos l.C3.A1cteos]] 
+4. [[#Grano y tub.C3.A9rculos]] 
+4. [[#Carne]] 
+4. [[#Especias y salsas]] 
 
 
 4. [[#Arquitectura]] 
@@ -274,8 +274,8 @@ A pesar del hecho de que Alezkar está mucho más expuesta a las [[Alta tormenta
 Los alezi también cultivan muchas plantas. Entre ellas, destaca la [[Lavis\|lavis]], un básico en la dieta alezi. Hay muchas variedades distintas de lavis, algunas capaces de soportar incluso las altas tormentas más potentes, mientras que otras son extremadamente nutritivas. También cultivan [[Tali%C3%BA\|taliú]], muchos otros tipos de rocabrotes y tubérculos. Los alezi cultivan, además, una gran variedad de frutas, típicamente en enormes huertos. Algunas especies de árboles son cultivados de manera que crezcan más altos y frondosos que de normal para que den más sombra. Una gran porción de estas plantaciones cumple otros propósitos más allá de la alimentación, como servir para ropa, medicina y demás.
 
 #### Fauna
-Alezkar también cuenta con una fauna muy variada. La salvaje incluye [[Espinablanca\|espinablancas]], [[Chull\|chulls]], [[Sabueso-hacha\|sabuesos-hacha]] y más. Alezkar también es el hogar de múltiples manadas de [[Ryshadio\|ryshadios]], que viven en su mayoría en la zona oriental del país. [[Diggerworm\|Diggerworms]] are also common in Alethkar, and much work goes into protecting crops from them. Another common species found across Alethkar is the [[Lurg\|lurg]], a small amphibian. Alethkar isn’t home to any [[Sarpenthyn\|sarpenthyn]], but [[Skyeel\|skyeels]] are common near the coast.
-The Alethi have also domesticated a wide range of animals. While most of them live as farmers, occasionally keeping animals alongside their plants, some Alethi also live as herdsmen. Domesticated fauna includes [[Lobberbeast\|Lobberbeasts]], a large grazing animal, , which are kept for their milk, , which are usually kept for their [[Gemheart\|gemhearts]], and chulls, which are used as beasts of burden. The Alethi also keep hogs, which originally came from [[Ashyn\|Ashyn]], for their meat and leather. Besides these large pastoral animals the Alethi also keep a number of animals as pets, such as [[Axehound\|axehounds]], some birds, and mink.
+Alezkar también cuenta con una fauna muy variada. La salvaje incluye [[Espinablanca\|espinablancas]], [[Chull\|chulls]], [[Sabueso-hacha\|sabuesos-hacha]] y más. Alezkar también es el hogar de múltiples manadas de [[Ryshadio\|ryshadios]], que viven en su mayoría en la zona oriental del país. Los [[Gusano cavador\|gusanos cavadores]] también son comunes allí, y se requiere de mucho trabajo para proteger de ellos a los cultivos. Otra de las especies que se encuentran por todo Alezkar es el [[Lurg\|lurg]], un anfibio pequeño. No alberga ningún [[Sarpenthyn\|sarpenthyn]], pero las [[Anguila a%C3%A9rea\|anguilas aéreas]] son comunes cerca de la costa.
+Los alezi también han domesticado a un amplio rango de animales. Aunque la mayoría se dedica a la agricultura, en ocasiones cuidando también de algunos animales, hay alezi que son pastores. La fauna domesticada incluye a las [[Bestia lanzadora\|bestias lanzadoras]], enormes animales de pastoreo, las [[Cerda\|cerdas]], cuidadas por su leche, los [[Gumfremo\|gumfremos]], mantenidos normalmente por sus [[Gema coraz%C3%B3n\|gemas corazón]] y los chulls, empleados como bestias de carga. Los alezi también crían cerdos, originarios de [[Ashyn\|Ashyn]], por su carne y cuero. Además de estos grandes animales de pastoreo, los alezi cuentan con un gran número de mascotas, como los [[Sabueso-hacha\|sabuesos-hachas]], algunos pájaros y visones.
 
 ### Ciudades destacables
 Para un listado más completo, ver [[/wiki/Alezkar#Principados conocidos]].
@@ -468,7 +468,7 @@ Los estilos en cuanto a moda de Alezkar y Jah Keved van en una línea lo suficie
   Moda masculina contemporánea
 #### Moda masculina
 Una variante típica de atuendo masculino, normalmente llevado por guerreros, es la [[Takama\|takama]]. La takama es un tipo de falda recta y larga hasta la pantorrilla que se suele combinar con un cinturón y camisas específicamente diseñadas para ser llevadas con takamas. La takama tiene similitudes con la [[Vakama\|vakama]] y el [[Ulatu\|ulatu]] de los veden.
-In late 1167, Alethi men preferred dark colours, to contrast with the brighter feminine mode of dress. This changed by 1173, with lighteyed men coming to favour bright colours.
+A finales de 1167, los hombres alezi se decantaban por colores oscuros que contrastaran con los tonos brillantes de la moda femenina. Esto cambió para 1173, cuando los hombres ojos claros comenzaron a preferir colores brillantes.
 
   La havah vorin
 #### Moda femenina
@@ -488,25 +488,25 @@ Sus licores están teñidos con diversos tintes de acuerdo a lo fuerte que sea l
 Hay una gran variedad de bebidas incluso dentro del mismo color, como el [[Honu\|honu duro]], un tipo de licor de grano de lavis. Algunos alcoholes están condimentados, lo cual les da un sabor especiado.
 
 #### Curry
-Various forms of curry are popular in Alethkar. Such as sweet curry, or spicy curry made with pungent peppers. Some of their curries are mixed with different types of cream, primarily made from sow's milk. Vegetables and meat are often mixed into curry.
-In terms of texture and consistency it can vary between watery, thick, and creamy.
-Curry is often eaten with bread, or rice and grain.
+Muchos tipos de curry son populares en Alezkar, como el curry dulce o el picante hecho con pimientos picantes. Algunos de sus currys están mezclados con diferentes tipos de crema hecha principalmente con leche de cerda. A menudo se mezclan carnes y verduras con el curry.
+En cuanto a textura y consistencia, puede oscilar entre aguado, espeso y cremoso.
+El curry se suele comer con pan o con arroz y grano.
 
-#### Dairy Products
-Dairy in Alethkar is primarily produced from sows. Dairy products are not in wide consumption, primarily used only in creams used in curry.
+#### Productos lácteos
+Los lácteos en Alezkar provienen principalmente de las cerdas. El consumo de este tipo de productos no está muy extendido, y su uso se reserva sobre todo para cremas empleadas en el curry.
 
-#### Grain and Tubers
-A large portion of their diet is made up of tallew and lavis, with them being used in food, and alcoholic beverages. Tallew is often boiled or steamed and made into soup. It is sometimes used as a spread on vegetables such as [[Stagm\|stagm]].
-Stagm and other tubers are a common part of the Alethi diet.
-It is common for children to eat fruited tallew rice with flatbread.
+#### Grano y tubérculos
+Una gran proporción de su dieta se basa en el taliú y la lavis, que se emplean tanto en comida como en bebidas alcohólicas. El taliú normalmente se cuece o se hace al vapor para preparar sopa. A veces también se unta en verduras como el [[Estagma\|estagma]].
+El estagma y otros tubérculos también son típicos de su dieta.
+Es normal que los niños coman arroz afrutado y pan ácimo.
 
-#### Meat
-They make use of meat in several dishes, particularly using pork harvested from hogs. Sometimes cooked in a savoury broth, or served with chutney.
-Alethi sometimes eat cremlings such as [[Skrip\|skrip]], typically boiled or steamed, though they are considered a low quality dish. They also eat the meat of crabs and lanka. When they eat crustaceans, they typically dip the meat in curry or prepare the curry with the meat in it. Though sometimes they simply serve it with a dish of grain.
+#### Carne
+La carne se encuentra en numerosos platos, particularmente la porcina obtenida de cerdos y a veces cocinada en sabrosos caldos o servida con conservas.
+A veces, los alezi comen cremlinos como los [[Skrip\|skrip]], normalmente hervidos o al vapor, aunque se considera que son platos de baja calidad. También ingieren la carne de cangrejo y de lanka. Cuando comen crustáceos, a menudo mojan la carne en curry o preparan curry con dicha carne en él, aunque a veces simplemente la sirven con un plato de grano.
 
-#### Seasoning and Sauces
-Alethi food is known for its spiciness. Which is often mixed into sauces and curry.
-They make use of a wide range of sauces of a variety of different flavours, ranging from spicy, to sweet, to peppery, to salty.
+#### Especias y salsas
+La comida alezi es conocida por lo picante que resulta, lo que a menudo se refleja en sus salsas y su curry.
+Los alezi emplean una amplia variedad de salsas de diversos sabores, desde especiados hasta dulces e incluyendo picantes y salados.
 
 ### Arquitectura
 La arquitectura varía enormemente en Alethkar y está muy determinada por las altas tormentas que azotan la nación. Por ejemplo, los edificios de Piedralar, que están protegidos tan sólo por un [[Lait\|lait]] relativamente pequeño conocido como pared rompiente, están construidos en hileras y tienen forma de cuña con un lado oriental inclinado. Las ventanas suelen situarse exclusivamente en el lado occidental.

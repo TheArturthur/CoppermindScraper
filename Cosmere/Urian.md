@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer ]]*|
 
 Nan **Urian** is a [[Veden\|Veden]] [[Highprince\|Highprince]].
 

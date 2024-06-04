@@ -2,6 +2,7 @@
 |-|-|
 |**Especie**|[[Drull\|Drull]]|
 |**Mundo natal**|[[Mirandus\|Mirandus]]|
+|**Presentado en**|**|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

@@ -4,6 +4,7 @@
 |**Oficio**|Student|
 |**Residencia**|[[Academia Armedius\|Academia Armedius]]|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 **Luc** is a Rithmatics student at .
 Luc and  were in a math class with [[Joel Saxon\|Joel Saxon]]. Both he and John sat in the back corner of the room, and did not like being in class with non-Rithmatists.

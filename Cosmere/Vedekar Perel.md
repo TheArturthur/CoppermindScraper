@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 Para the field commander under [[Adolin\|Adolin]] during the [[Battle of Narak\|Battle of Narak]], ver [[Perel\|Perel]].
 **Vedekar Perel** is a   officer in the [[Sebarial\|Sebarial]] army on [[Roshar\|Roshar]]. He moves to [[Urithiru\|Urithiru]] after the [[Battle of Narak\|Battle of Narak]] and is murdered by [[Re-Shephir\|Re-Shephir]].
 

@@ -6,6 +6,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 Para el [[Dor\|sistema de magia]] de [[Sel\|Sel]], ver [[Dor\|Dor]].
 **Dor** es une [[Cantor\|cantore]] en [[Roshar\|Roshar]].

@@ -6,6 +6,7 @@
 |**Fallecido**|[[La Profundidad\|La Profundidad]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 El viejo **Jed** es una habitante de una pequeña aldea del [[Dominio Oriental\|Dominio Oriental]].
 Trabajaba duro, incluso después de que la nobleza local huyera tras el [[Colapso\|Colapso]]. Trabajaba entre las brumas durante el día hasta que [[La Profundidad\|la Profundidad]] lo mató. Su cadáver estaba retorcido y la tierra a su alrededor estaba revuelta porque se había sacudido antes de la muerte.

@@ -7,6 +7,7 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*I don't have traditions, Or society. But still, my 'freedom' is that of a leaf. Dropped from the tree, I just blow on the wind and pretend I'm in charge of my destiny.*”
 \-Sah[2]

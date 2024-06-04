@@ -8,6 +8,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 Para el sargento de los puentes, ver [[Vet (Roshar)\|Vet (Roshar)]].
 **Vet** es un [[Skaa\|skaa]] miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]].

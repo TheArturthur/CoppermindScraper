@@ -3,6 +3,7 @@
 |**Residencia**|[[Llanuras Quebradas\|Llanuras Quebradas]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*You don't think the warcamps are **ignoring** what happens to your father during highstorms, Adolin. Word is that he should abdicate because of it.*”
 \-Toral[1]

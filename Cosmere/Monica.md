@@ -1,6 +1,7 @@
 |**Monica**|
 |-|-|
 |**Mundo natal**||
+|**Presentado en**|**|
 
 **Monica** is an employee of .
 She employs and accompanies [[Stephen Leeds\|Stephen Leeds]] during the search for . She sends Stephen letters in the mail, containing pictures of the past. She also provides a picture of Sandra at the train station, which startles and agitates Stephen. Once his interest is aroused, she then convinces him to help her retrieve the camera. She is dark skinned, has a faint Southern accent and wears dreadlocks. She accompanies Stephen to Jerusalem to find the camera, and is subsequently captured by members of the . After retrieving the broken camera, Monica tries to convince Legion to help her rebuild the camera, but he refuses.

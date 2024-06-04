@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Words of Radiance\|Words of Radiance]]*|
 
 Para the character on [[Lumar\|Lumar]], ver [[Rod (Lumar)\|Rod (Lumar)]].
 **Rod** is a member of [[Bridge Four\|Bridge Four]] in the [[House Kholin\|Kholin]] army on [[Roshar\|Roshar]].

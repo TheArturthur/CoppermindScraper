@@ -9,6 +9,7 @@
 |**Grupo**|Policía de Elendel|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]]* y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

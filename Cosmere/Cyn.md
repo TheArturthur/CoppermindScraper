@@ -8,6 +8,7 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Cyn** fue un miembro del escuadrón de [[Kaladin\|Kaladin]] en el ejercito del alto mariscal [[Meridas Amaram\|Meridas Amaram]] en [[Roshar\|Roshar]].
 Durante la batalla en [[Alezkar\|Alezkar]] en 1172, Cyn y [[Korater\|Korater]] fueron enviados por [[Kaladin\|Kaladin]] a escoltar al herido [[Cenn\|Cenn]] hasta un médico. Sin embargo, el [[Portador de esquirlada\|portador de esquirlada]] [[Helaran Davar\|Helaran Davar]] cabalgó hacia Cyn mientras este se retiraba junto a Cenn hasta los médicos, matando a Cyn con su [[Hoja esquirlada\|hoja esquirlada]] mientras pasaba.

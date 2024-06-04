@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[Oyente\|Oyente]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*This is outrageous! The dictates of the Five rule us, not the will of a single person! Can't you see that the form, the new form is overriding her! You've all lost your minds! Or...or worse.*”
 \-Abronai on Eshonai's coup[1]

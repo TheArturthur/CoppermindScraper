@@ -5,6 +5,7 @@
 |**Residencia**|[[Urithiru\|Urithiru]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Talnah** is an engineer and [[Artifabrian\|artifabrian]] on [[Roshar\|Roshar]].
 

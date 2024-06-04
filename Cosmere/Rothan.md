@@ -4,6 +4,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Rothan** is a [[Singer\|singer]] on [[Roshar\|Roshar]] who wears  and leads Lady [[Leshwi\|Leshwi]]'s soldiers during the [[True Desolation\|True Desolation]].
 

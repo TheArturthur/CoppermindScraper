@@ -8,6 +8,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Fatren** es un [[Skaa\|skaa]] de [[Vetitan\|Vetitan]] en [[Scadrial\|Scadrial]]. Tras el [[Colapso\|Colapso]], organizó a los ciudadanos de su pueblo. Se convierte en un lord bajo el mando del emperador [[Elend Venture\|Elend Venture]]. Piensa que "no vale mucho la pena" tras el estrés de meses liderando su ciudad.
 

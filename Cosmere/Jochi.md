@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Jochi** es el seudónimo de un erudito de [[Ciudad Thaylen\|ciudad Thaylen]] en [[Roshar\|Roshar]].
 

@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[Malwish\|Malwish]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Jordis** es la capitana de [[Scadrial del Sur\|Scadrial del Sur]] de la aeronave *[[Brunstell\|Brunstell]]*. Como una capitana diligente, lidera a su tripulación en una lucha contra los soldados del [[El Grupo\|Grupo]] cerca del [[Templo del Soberano\|templo del Soberano]] y lleva a [[Waxillium Ladrian\|Wax]] y a sus compañeros de regreso a casa en [[Elendel\|Elendel]].
 

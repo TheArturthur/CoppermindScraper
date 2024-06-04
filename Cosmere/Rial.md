@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Rial** is a sergeant in [[Bridge crew\|Bridge Thirteen]] on [[Roshar\|Roshar]].
 

@@ -5,6 +5,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Dawnshard (novella)\|Dawnshard]]*|
 
 **Turlm** is a [[Thaylen\|Thaylen]] sailor and a member of the crew of the *[[Wandersail (1174 ship)\|Wandersail]]*.
 

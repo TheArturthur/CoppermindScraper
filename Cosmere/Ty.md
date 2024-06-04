@@ -4,6 +4,7 @@
 |**Grupo**|[[Orden de los Rompedores del Cielo\|Rompedor del Cielo]] squire|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
 
 **Ty** is a squire of the [[Knights Radiant\|Knights Radiant]] on [[Roshar\|Roshar]] and a member of the [[Order of Skybreakers\|Order of Skybreakers]].
 

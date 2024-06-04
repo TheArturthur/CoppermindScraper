@@ -8,6 +8,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 Un miembro sin nombre de la familia **Cett** es el propietario y operador de [[Carruajes y Diligencias Fornalla\|Carruajes y Diligencias Fornalla]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 

@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Llamadaverdadera**, dios de la naturaleza, es un [[Retornado\|Retornado]] de [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]].
 

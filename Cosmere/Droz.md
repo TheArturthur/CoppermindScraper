@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Liafor\|de Liafor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Droz** es el timonel del barco *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* en [[Roshar\|Roshar]].
 
