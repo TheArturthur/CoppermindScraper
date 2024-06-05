@@ -9,11 +9,13 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Wellen**, También conocido como **Wells**, es un soldado de [[Scadrial\|Scadrial]].
-Era miembro del ejército de [[Ashweather Cett\|Ashweather Cett]] que atacó [[Luthadel\|Luthadel]]. Estaba haciendo el *deber de la bruma* con [[Jarloux\|Jarloux]] cuando [[Vin\|Vin]] y [[Zane\|Zane]] atacaron la [[/wiki/Casa Hasting#Fortaleza Hasting]]. Fue el único superviviente de su escuadrón de cuarenta hombres.
-Después de que Cett jurase lealtad a [[Elend Venture\|Elend Venture]], lo volvieron a reclutar como guardia en Luthadel. Él y [[Rittle\|Rittle]] se encontraron con [[TenSoon\|TenSoon]] interpretando a [[Kelsier\|Kelsier]], y le hablaron sobre la locura que afligía al rey [[Penrod\|Penrod]]. Cuando TenSoon pregunta por el paradero de [[Elend\|Elend]] y [[Vin\|Vin]], Wellen en cambio menciona la ubicación de lord [[Brisa\|Brisa]]; en [[Urteau\|Urteau]]. TenSoon los deja aconsejándoles que encuentren refugio de las brumas en las [[Cuevas de Arguois\|cuevas de Arguois]].
+Era miembro del ejército de [[Ashweather Cett\|Ashweather Cett]] que atacó [[Luthadel\|Luthadel]]. Estaba haciendo el *deber de la bruma* con [[Jarloux\|Jarloux]] cuando [[Vin\|Vin]] y [[Zane Venture\|Zane Venture]] atacaron la [[/wiki/Casa Hasting#Fortaleza Hasting]]. Fue el único superviviente de su escuadrón de cuarenta hombres.
+Después de que Cett jurase lealtad al emperador [[Elend Venture\|Elend Venture]], lo volvieron a reclutar como guardia en Luthadel. Él y [[Rittle\|Rittle]] se encontraron con [[TenSoon\|TenSoon]] interpretando a [[Kelsier\|Kelsier]], y le hablaron sobre la locura que afligía al rey [[Ferson Penrod\|Ferson Penrod]]. Cuando TenSoon pregunta por el paradero de [[Elend\|Elend]] y [[Vin\|Vin]], Wellen en cambio menciona la ubicación de lord [[Brisa\|Brisa]]; en [[Urteau\|Urteau]]. TenSoon los deja aconsejándoles que encuentren refugio de las brumas en las [[Cuevas de Arguois\|cuevas de Arguois]].
 Elend lo interroga a él y a Rittle en el campamento de refugiados después de haber guiado a la gente fuera de Luthadel.
+Wellen sobrevive al [[Catacendro\|Catacendro]] y tiene descendencia.
 
 ## Personalidad
 Wellen es supersticioso con las brumas, aunque guarda sus opiniones para sí mismo mientras está de guardia en el deber de la bruma para evitar burlas de los demás guardias.

@@ -8,6 +8,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 >“*Yeden… Bueno, era de los que se dejan impresionar con demasiada facilidad… tanto por ti como por la reputación que dejaste para él.*”
 \-Mennis a Kelsier[1]

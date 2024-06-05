@@ -10,6 +10,7 @@
 |**Especie**|[[Spren\|Spren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -22,11 +23,22 @@
 ## Sumario
 
 1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+
+1. [[#Apariencia]] 
+1. [[#Personalidad]] 
+
+
 2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
+
+2. [[#Corrupci.C3.B3n]] 
+2. [[#Realm.C3.A1tica]] 
+
+
 3 Historia. [[#Historia]] 
 
 3. [[#Historia antigua]] 
-3. [[#Tormenta eterna y Kholinar]] 
+3. [[#La tormenta que se avecina]] 
+3. [[#La Aut.C3.A9ntica Desolaci.C3.B3n]] 
 
 
 4 Curiosidades. [[#Curiosidades]] 
@@ -40,7 +52,10 @@ Para más imágenes, ver [[Sja-anat/Galer%C3%ADa\|/Galería]].
 \-De Mítica de Hessi, página 90[6]
 
 
+### Apariencia
 Sja-anat adopta la forma de una mujer con el pelo negro hasta la cintura, vestida con una túnica sin mangas y con un sencillo cinturón en la cintura. También puede manifestarse como la sombra de una mujer con pelo largo y ondulado y ojos como agujeros blancos. Otras veces, su apariencia parece humana pero con agujeros blancos en vez de ojos. Hasta ahora, sólo se mostrado visible en los espejos, y sólo para la persona a la que desea aparecerse. Cuando parece humana, el resto del reflejo es por lo demás normal, pero cuando se desvanece a su forma de sombra, el resto del reflejo también se desvanece.
+
+### Personalidad
 Es notorio que Sja-anat quiere ser una diosa por derecho propio. Es muy conspiradora, capaz de engañar con éxito a Odium y ayudar a los Radiantes a sus espaldas, así como de engañarlo en sus más objetivos personales, como por ejemplo, al enviar a un verdadero spren Iluminado a Mraize al ocultarlo en un grupo de vientospren Iluminados. También es independiente y sincera, ya que no quiere seguir siendo la esclava de Odium y quiere desesperadamente que Shallan crea que ha desertado de Odium. Sja-anat también se preocupa por sus hijos, los spren que ha corrompido, y quiere encontrarles un hogar, uno que ella pueda compartir.
 
 ## Características y habilidades
@@ -49,16 +64,28 @@ Es notorio que Sja-anat quiere ser una diosa por derecho propio. Es muy conspira
 \-Visiones de Dalinar[12]
 
 
+### Corrupción
 El toque de Sja-anat tiene la capacidad de corromper a los spren con los que entra en contacto. Sja-anat llama a este proceso **Iluminación**. Los spren afectados por Sja-anat comienzan a llevar la corrupción de [[Odium\|Odium]], y en raras ocasiones pueden incluso otorgar habilidades asociadas al poder de Odium, aunque se desconoce el alcance de su influencia en los spren afectados. Los spren corrompidos adquieren una apariencia notablemente diferente, normalmente con cambios de color y forma, pero aún fuertemente conectados a su forma original. Otras veces el parecido de un spren Iluminado con su apariencia anterior es mucho más débil, especialmente en el caso de un brumaspren Iluminado, que pasa de aparecer como una chispa de luz reflejada a una forma más cristalina que se estructura como un brillante copo de nieve rojo.
-Los spren menores que Sja-anat corrompe son capaces de servir como sus espías o de entregar mensajes por ella. Los mensajes enviados por Sja-anat son pronunciados por el spren corrupto con la voz de Sja-anat en la mente de la persona a la que se envían. Ella se refiere a los spren corruptos como sus hijos. En el pasado, Sja-anat corrompía a menudo a los spren menores, pero ahora ha demostrado la capacidad de corromper a spren verdaderos, como los spren capaces de establecer un vínculo Nahel, como Glys, y los spren de la [[Puerta Jurada\|Puerta Jurada]]. Sin embargo, no suele Iluminar a spren verdaderos sin su consentimiento. La Iluminación tiene "consecuencias nefastas" para los vínculos Nahel que ya existen, por lo que Sja-Anat suele Iluminar a spren no vinculados. Los spren corrompidos no parecen ser especialmente peligrosos, por lo que se desconoce qué impacto tiene la influencia de Odium en ellos, aparte de su apariencia. Funcionan de forma parecida a los spren no corrompidos de los [[Fabrial\|fabriales]], aunque no se vieron afectados por el [[Fabrial supresor\|fabrial supresor]] del [[Hermano\|Hermano]] cuando se invirtió su efecto.
+Los spren menores que Sja-anat corrompe son capaces de servir como sus espías o de entregar mensajes por ella. Los mensajes enviados por Sja-anat son pronunciados por el spren corrupto con la voz de Sja-anat en la mente de la persona a la que se envían. Ella se refiere a los spren corruptos como sus hijos.
+En el pasado, Sja-anat corrompía a menudo a los spren menores, pero ahora ha demostrado la capacidad de corromper a spren verdaderos, como los spren capaces de establecer un vínculo Nahel, como Glys, y los spren de la [[Puerta Jurada\|Puerta Jurada]]. Sin embargo, no suele Iluminar a spren verdaderos sin su consentimiento.
+La Iluminación tiene "consecuencias nefastas" para los vínculos Nahel que ya existen, por lo que Sja-Anat suele Iluminar a spren no vinculados. Los spren corrompidos no parecen ser especialmente peligrosos, por lo que se desconoce qué impacto tiene la influencia de Odium en ellos, aparte de su apariencia. Funcionan de forma parecida a los spren no corrompidos de los [[Fabrial\|fabriales]], aunque no se vieron afectados por el [[Fabrial supresor\|fabrial supresor]] del [[Hermano\|Hermano]] cuando se invirtió su efecto.
+
+### Realmática
+Sja-anat existe entre el Reino Físico y el Cognitivo, de modo que experimenta ambos simultáneamente, pero también de modo que ambos le parecen sombríos. Sólo se la puede ver en el Reino Físico a través de la luz reflejada, como en un espejo, aunque es posible vislumbrarla fugazmente en las sombras sin necesidad de este.
 
 ## Historia
  
 ### Historia antigua
-Desconocemos el origen de Sja-anat, por lo que no está claro cuando surgió. Estuvo involucrada en las anteriores [[Desolaci%C3%B3n\|Desolaciones]], donde sus spren corruptos servían como espías de la humanidad. En el pasado, cuando sus spen corruptos eran vistos en una aldea, la gente solía huir de sus hogares. La propia Sja-anat era la Deshecha más temida por los Radiantes. Tras [[Aharietiam\|Aharietiam]], Sja-anat parece haber permanecido en Roshar, aunque no hay registros de haber visto a ninguno de sus spren corruptos desde la Última Desolación. Tras el [[Aharietiam\|Aharietiam]] estuvo dormida la mayor parte del tiempo, ya que le era difícil pensar sin su vínculo con Odium. En algún momento Sja-anat corrompió al spren verdadero [[Glys\|Glys]].
+Desconocemos el origen de Sja-anat, por lo que no está claro cuando surgió. Estuvo involucrada en las anteriores [[Desolaci%C3%B3n\|Desolaciones]], donde sus spren corruptos servían como espías de la humanidad. En el pasado, cuando sus spen corruptos eran vistos en una aldea, la gente solía huir de sus hogares. La propia Sja-anat era la Deshecha más temida por los Radiantes.
+Tras [[Aharietiam\|Aharietiam]], Sja-anat parece haber permanecido en Roshar, aunque no hay registros de haber visto a ninguno de sus spren corruptos desde la Última Desolación. Tras el [[Aharietiam\|Aharietiam]] estuvo dormida la mayor parte del tiempo, ya que le era difícil pensar sin su vínculo con Odium. En algún momento Sja-anat corrompió al spren verdadero [[Glys\|Glys]].
 
-### Tormenta eterna y Kholinar
-Una vez apareció la [[Tormenta eterna\|tormenta eterna]] en [[Shadesmar\|Shadesmar]], Sja-anat se sintió revitalizada, capaz de pensar y planear de nuevo. Con la llegada de la tormenta eterna al Reino Físico y el inicio de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Sja-anat vuelve a estar totalmente activa en el área cercana a [[Kholinar\|Kholinar]]. Empezó a corromper spren en la ciudad y sus alrededores. Durante el [[Asedio a Kholinar\|Asedio a Kholinar]], como parte de una trampa para [[Adolin Kholin\|Adolin Kholin]], [[Shallan Davar\|Shallan Davar]], [[Kaladin\|Kaladin]], y sus spren, Sja-anat se vio obligada a tocar los spren de la [[Puerta Jurada\|Puerta Jurada]] de Kholinar para corromperla. Cuando Shallan se infiltró en el palacio disfrazada de mensajera, Sja-anat la vio. Sja-anat intentó acercarse a Shallan y decirle que no era su enemiga en dos ocasiones, mientras bailaba con el [[Culto de los Momentos\|Culto de los Momentos]] y cuando se infiltró en la celebración de la Puerta Jurada.
+
+### La tormenta que se avecina
+Una vez apareció la [[Tormenta eterna\|tormenta eterna]] en [[Shadesmar\|Shadesmar]], Sja-anat se sintió revitalizada, capaz de pensar y planear de nuevo.
+
+### La Auténtica Desolación
+Con la llegada de la tormenta eterna al Reino Físico y el inicio de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Sja-anat vuelve a estar totalmente activa en el área cercana a [[Kholinar\|Kholinar]]. Empezó a corromper spren en la ciudad y sus alrededores.
+Durante el [[Asedio a Kholinar\|Asedio a Kholinar]], como parte de una trampa para [[Adolin Kholin\|Adolin Kholin]], [[Shallan Davar\|Shallan Davar]], [[Kaladin\|Kaladin]], y sus spren, Sja-anat se vio obligada a tocar los spren de la [[Puerta Jurada\|Puerta Jurada]] de Kholinar para corromperla. Cuando Shallan se infiltró en el palacio disfrazada de mensajera, Sja-anat la vio. Sja-anat intentó acercarse a Shallan y decirle que no era su enemiga en dos ocasiones, mientras bailaba con el [[Culto de los Momentos\|Culto de los Momentos]] y cuando se infiltró en la celebración de la Puerta Jurada.
 
 >“*Escúchame, Radiante. Oye mi ruego. Ashertmarn ha huido a propósito. Es una trampa. A mí me obligaron a tocar al spren de este dispositivo, por lo que no funcionará tal y como deseas.*”
 \-Sja-anat a Shallan Davar[5]

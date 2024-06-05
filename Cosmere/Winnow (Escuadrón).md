@@ -7,6 +7,7 @@
 |**Grupo**|[[FDD\|FDD]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Perpetua\|Perpetua]]*|
 
 **Winnow** es une técnico médico de la [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]].
 

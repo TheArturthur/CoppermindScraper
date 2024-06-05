@@ -8,8 +8,6 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 Para el individuo que heredó su nombre, ver [[Zellion\|Zellion]].
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Escapamos de la [[Maldad\|Maldad]]. Luego escapamos de [[Treno\|Treno]].*”

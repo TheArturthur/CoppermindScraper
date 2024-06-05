@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*La guerra se avecina, majestad. La siento en los vientos y la leo en los informes de nuestros espías. Hallandren sigue considerándonos rebeldes, y nuestros pasos hacia el norte son demasiado tentadores. Atacarán.*”
 \-Yarda y el rey Dedelin hablando sobre la guerra[1]

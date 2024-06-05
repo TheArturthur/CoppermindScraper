@@ -21,7 +21,7 @@ La **nave de guerra del almirante Daal** es una aeronave malwish en [[Scadrial\|
 ## Apariencia
 El buque de guerra es muy grande. El casco de la nave está hecho de un tipo de madera oscura. Sus pasillos son redondos, dando el aspecto de tubos. El barco también tiene luces eléctricas.
 La nave tiene una especie de bahía de atraque, donde las naves menores pueden atracar y la gente puede entrar en la nave. Esta bahía parece tener puertas que pueden abrirse al exterior. También hay varias de estas naves a bordo, que se parecen un poco a los barcos de pesca con la parte superior abierta.
-Como todas las demás aeronaves que hemos visto los tienen, es probable que la nave tenga grandes pontones, que tienen ventiladores unidos a ella. Estos ventiladores son impulsados por [[Alomancia\|alomancia]], manteniendo la nave a flote. Es posible gracias al reducido peso de la nave, que funciona gracias a [[Hierro\|Hierro]] [[Feruquimia\|feruquímico]].
+Como todas las demás aeronaves vistas los tienen, es probable que la nave tenga grandes pontones, que tienen ventiladores unidos a ella. Estos ventiladores son impulsados por [[Alomancia\|alomancia]], manteniendo la nave a flote. Es posible gracias al reducido peso de la nave, que funciona gracias a [[Hierro\|Hierro]] [[Feruquimia\|feruquímico]].
 
 ## Utilización
 Se trata de una nave de guerra, lo que significa que es probable que se emplee en conflictos bélicos. Por lo general, la nave vuela muy alto en el cielo, e incluso su baja altitud es superior a la que puede alcanzar un [[Alomancia\|lanzamonedas]].

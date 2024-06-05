@@ -9,8 +9,6 @@
 |**Radio**|1 estándar del Cosmere |
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 >“*Hay un mundo original, ofuscado y oculto en algún lugar del Cosmere. Todavía no sé dónde, pero he encontrado historias sobre él.*”
 \-Khriss.[3]
 
@@ -43,7 +41,7 @@ Una de las formas conocidas de vida fain son los Tamu Keks, que son similares a 
 Yolen es el hogar de tres razas inteligentes: humanos, [[Drag%C3%B3n (Cosmere)\|dragones]] y [[Sho del\|sho del]]. Para el año 1174 de [[Roshar\|Roshar]] 1174, [[Frost\|Frost]] es el único habitante conocido, y aunque hay más personas viviendo allí, la población de Yolen es bastante pequeña. Si bien no todos los humanos se originaron en Yolen, fue el primer mundo en el que aparecieron. Muchos idiomas que se utilizan actualmente en todo el [[Cosmere\|Cosmere]] se derivan de los idiomas yoleños.
 Los árboles en Yolen, presumiblemente en las zonas fain, son de color blanco como el hueso.
 Yolen tiene una astonomía extraña que sería imposible bajo las leyes de físicas ordinarias.
-Yolen tiene una [[Perpendicularidad\|perpendicularidad]].
+Yolen tiene algo parecido a una [[Perpendicularidad\|perpendicularidad]].
 
 ## Cultura
 En Yolen, los dragones eran vistos y adorados como dioses. Antes de que las Esquirlas empezaran a involucrarse con otros planetas, Yolen fue uno de los más avanzados, tecnológicamente hablando, en el Cosmere, habiendo alcanzado la Edad de Bronce.

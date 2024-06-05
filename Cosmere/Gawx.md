@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Azir\|de Azir]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Me refiero a que yo, persona, no importo. Claro que Azir sí. Pero yo soy solo un chico al que han puesto en el trono porque tenían miedo de que volviera ese asesino.*”
 \-Yanagawn a Dalinar en la visión de la Traición sobre su importancia [2]

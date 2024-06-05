@@ -3,7 +3,6 @@
 |-|-|
 ||
 |**Racional**|Sí|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
@@ -12,7 +11,8 @@
 \-Lift[1]
 
 
-Los **Insomnes**, también conocidos como **dysian aimianos**, son una raza no humana, consciente, de un planeta desconocido del [[Cosmere\|cosmere]]. Sus cuerpos están hechos a partir de enjambres de criaturas llamadas “hordinos” que están unidas mentalmente. Se refieren a sí mismos como “Insomnes” porque al menos una parte de sus hordinos está siempre despierta. Algunos de ellos se encuentran en [[Roshar\|Roshar]], y en el pasado vivían en el [[Reinos Plateados\|Reino Plateado]] de [[Aimia\|Aimia]].
+Los **Insomnes**, también conocidos como **dysian aimianos**, son una raza no humana, consciente, de un planeta desconocido del [[Cosmere\|cosmere]]. Sus cuerpos son un agregado de enjambres de criaturas llamadas "hordinos" que están mentalmente vinculadas y pueden ser criadas y evolucionadas selectivamente con el fin de especializarlas para ciertas tareas.
+Se refieren a sí mismos como “Insomnes” porque al menos una parte de sus hordinos está siempre despierta. Algunos de ellos se encuentran en [[Roshar\|Roshar]], y en el pasado vivían en el [[Reinos Plateados\|Reino Plateado]] de [[Aimia\|Aimia]].
 
 ## Sumario
 
@@ -33,6 +33,7 @@ Los **Insomnes**, también conocidos como **dysian aimianos**, son una raza no h
 5. [[#.C3.89pocas Her.C3.A1ldicas]] 
 5. [[#Guerra de la Venganza]] 
 5. [[#La Aut.C3.A9ntica Desolaci.C3.B3n y la expedici.C3.B3n a Akinah]] 
+5. [[#La era espacial]] 
 
 
 6 Insomnes notables. [[#Insomnes notables]] 
@@ -48,13 +49,16 @@ Los **Insomnes**, también conocidos como **dysian aimianos**, son una raza no h
 ## Aparencia y anatomía
  
 >“*The cook began to hum. Pieces of her broke off. She crumbled to a pile of chittering little cremlings that moved out of her clothing, leaving it in a heap.*”
-\-Kaza, mirando al cocinero del Primeros Sueños[9]
+\-Kaza, mirando al cocinero del Primeros Sueños[10]
 
 
 Los Insomnes tienen una fisiología única, ya que sus “cuerpos” están compuestos de miles de criaturas llamadas "hordinos" que son apaces de funcionar como una consciencia única. Los hordinos no tienen limite en cómo se agrupan consigo mismos; con práctica, un Insomne puede imitar la apariencia de otras criaturas, incluyendo humanos. Insomnes fuera de Roshar no tendrían práctica en como imitar la forma humana, así que su aparencia sería completamente distinta. A differencia de los [[Siah aimiano\|siah aimianos]], dysian aimianos no pueden reproducirse con humanos.
 
 ### Hordinos
-Los hordinos normalmente tienen el tamaño de un dedo, pero pueden ser tan grandes como un puño o a veces del tamaño de un edificio. Los hordinos de Roshar a menudo se parecen a criaturas nativas conocidas como [[Cremlino\|cremlinos]] simplemente para llamar menos la atención de los habitantes corrientes; pueden tomar otras formas. El [[Yelamaiszin\|primer enjambre]] que llegó a Roshar tenía al principio hordinos con apariencia de arañas; los enjambres crían a sus hordinos para que se parezcan a la fauna local para poder pasar desapercibidos. Los hordinos de cada Insomne no son idénticos, y a menudo tienen propósitos específicos. Por ejemplo, como [[Arclo\|Arclo]] intenta pasar por humano, muchos de sus hordinos tienen protuberancias en sus espaldas que parecen partes humanas, por ejemplo piel o ojos; también es capaz de hablar con una voz aceptablemente humana. Sin embargo, hordinos individuales no pueden cambiar de forma, así que la verdadera naturaleza del cuerpo de los Insomnes puede notarse con una mirada atenta. Por lo tanto, ellos tienden a cubrirse la “piel” siempre que sea posible, o utilizar una apariencia anciana o con tatuajes que impidan ver su verdadera naturaleza.
+Los hordinos normalmente tienen el tamaño de un dedo, pero pueden ser tan grandes como un puño o a veces del tamaño de un edificio.
+Los hordinos de Roshar a menudo se parecen a criaturas nativas conocidas como [[Cremlino\|cremlinos]] simplemente para llamar menos la atención de los habitantes corrientes; pueden tomar otras formas. El [[Yelamaiszin\|primer enjambre]] que llegó a Roshar tenía al principio hordinos con apariencia de arañas; los enjambres crían a sus hordinos para que se parezcan a la fauna local para poder pasar desapercibidos.
+Los hordinos de cada Insomne no son idénticos, y a menudo tienen propósitos específicos. Por ejemplo, como [[Arclo\|Arclo]] intenta pasar por humano, muchos de sus hordinos tienen protuberancias en sus espaldas que parecen partes humanas, por ejemplo piel o ojos; también es capaz de hablar con una voz aceptablemente humana. Sin embargo, hordinos individuales no pueden cambiar de forma, así que la verdadera naturaleza del cuerpo de los Insomnes puede notarse con una mirada atenta. Por lo tanto, ellos tienden a cubrirse la “piel” siempre que sea posible, usar maquillaje, o utilizar una apariencia anciana o con tatuajes que impidan ver su verdadera naturaleza.
+Cuando una horda decide establecerse en un planeta, intentan aprender todo lo posible sobre él y envían a sus hordinos a explorarlo e investigarlo.
 
 ### Adaptación y regeneración
 >“*It took my people three hundred years of selective breeding to achieve hordelings capable of imitating human fingers. And still, most of us are terrible at pretending to be humans. We don't have the mannerisms, the thoughts. I’m younger than the others, but am more... skilled at using these things.*”
@@ -64,7 +68,9 @@ Los hordinos normalmente tienen el tamaño de un dedo, pero pueden ser tan grand
 Los hordinos pueden ser especificamente criados para potenciar capacidades concretas en un Insomne, como puede ser un mejor olfato o más memoria, aunque este proceso lleva tiempo. [[Nikli\|Nikli]] comenta que le llevó unos trescientos años criar hordinos que pudieran imitar dedos humanos. A lo largo de muchísimas generaciones, algunos han conseguido desarrollar hordinos que son capaces de imitar los poderes de un [[Larkin\|larkin]]. Hordinos especializados pueden imitar de forma convincente objetos inanimados. Hay un límite tanto en la masa total como en el número de hordinos que un Insomne puede tener a la vez, pero el número máximo de hordinos permitiría seguro que un Insomne fuera mucho más grande que un humano, hasta el tamaño del cadáver de un [[Santhid\|santhid]] y puede que incluso mayor. Ya que pueden crear constantemente nuevos hordinos para recuperar los perdidos, la personalidad de un Insomne puede vivir indefinidamente, siempre y cuando no mueran demasiados hordinos a la vez. Los enjambres en otros planetas distintos de Roshar criarían a sus hordinos de la manera necesaria para imitar las formas de vida nativas en esos mundos.
 
 ### Consciencia
-En la práctica, los hordinos funcionan como una “mente colmena”, pero no son técnicamente una sola entidad. Los hordinos tienen la habilidad de separarse del cuerpo principal para actuar como agentes remotos mientras mantienen el vínculo mental con el resto del enjambre. Ciertas circunstancias podrían llevar a un hordino a separarse del grupo y ser forzado a actuar de forma independiente. Por ejemplo, un hordino que esté físicamente demasiado lejos del resto puede perder contacto con la mente principal, lo cual afectaría su aspecto [[Reino Cognitivo\|cognitivo]]. Un hordino puede ser afectado por un clavo [[Hemalurgia\|hemalúrgico]], pero esto lo desconectaría de la mente colmena. Los Insomnes no pueden separar su conciencia entre el Reino Cognitivo y el [[Reino F%C3%ADsico\|Reino Físico]]. Pueden formar varios cuerpos conscientes a la vez (por ejemplo, imitando a dos humanos al mismo tiempo), pero es difícil y hay el riesgo de que la división se vuelva permanente, creando sin quererlo un nuevo Insomne. Esto es más sencillo si los cuerpos no están envueltos en tareas inteligentes a la vez.
+En la práctica, los hordinos funcionan como una “mente colmena”, pero no son técnicamente una sola entidad. Los hordinos tienen la habilidad de separarse del cuerpo principal para actuar como agentes remotos mientras mantienen el vínculo mental con el resto del enjambre. Ciertas circunstancias podrían llevar a un hordino a separarse del grupo y ser forzado a actuar de forma independiente. Por ejemplo, un hordino que esté físicamente demasiado lejos del resto puede perder contacto con la mente principal, lo cual afectaría su aspecto [[Reino Cognitivo\|cognitivo]]. Sin embargo, parecen ser capaces de cubrir el área de un planeta individual sin mucha dificultad.
+Un hordino puede ser afectado por un clavo [[Hemalurgia\|hemalúrgico]], pero esto lo desconectaría de la mente colmena. Los Insomnes no pueden separar su conciencia entre el Reino Cognitivo y el [[Reino F%C3%ADsico\|Reino Físico]].
+Pueden formar varios cuerpos conscientes a la vez (por ejemplo, imitando a dos humanos al mismo tiempo), pero es difícil y hay el riesgo de que la división se vuelva permanente, creando sin quererlo un nuevo Insomne. Esto es más sencillo si los cuerpos no están envueltos en tareas inteligentes a la vez.
 
 ### Reproducción
 Los Insomnes son capaces de reproducirse, pero “reproducirse” para ellos tiene una serie de connotaciones. Pueden criar hordinos concretos para propósitos específicos con el tiempo y también intercambiar hordinos si fuera necesario para mejorar la diversidad genética. Pueden hibridar hordinos con otras especies como varios cremlinos y los [[Lanceryn\|lanceryn]]. Crear nuevos Insomnes conlleva dividir una subsección de un enjambre ya existente, que ganará independencia con el tiempo; el término de los Insomnes para este proceso es “Separarse”. Cuando un enjambre se Separa, no es siempre de forma intencional. Los enjambres recientemente independizados mantienen las adaptaciones genéticas de su enjambre “projenitor” y son capaces de refinar la evolución de sus hordinos incluso más. Arclo se refiere a otros enjambres de Roshar como sus “hermanos”.
@@ -76,24 +82,25 @@ Los Insomnes son muy conscientes del [[Cosmere\|cosmere]]. Al menos algunos de e
 
 ## Estructura social y propósito
 >“*Arclomedarian is dangerous. I can see this. But it is not as dangerous as the true traitors.*”
-\-Nikli sobre Arclo[29]
+\-Nikli sobre Arclo[32]
 
 
 De los veinticuatro Insomnes conocidos en Roshar, veinte aceptan la autoridad de [[Yelamaiszin\|Yelamaiszin]], el Primer enjambre, incluyendo al mismo Yelamaiszin. Votan sobre los temas de importancia utilizando la rápida comunicación de sus mentes colmena. [[Arclomedarian\|Arclomedarian]] no acepta su autoridad, aunque no lo consideran uno de los “auténticos traidores” y todavía se llevan bien.
 Se desconoce si los otros tres Insomnes disidentes pertenecen a esta categoría, se sabe que los cuatro que no aceptan la autoridad de Yelamaiszin (incluyendo a Arclo) están aún vivos. Los Insomnes defienden la vida, aunque estan dispuestos a matar para preservarla. Nikli afirma que los Insomnes decidieron esto tras ver mundos ser destruidos y han jurado que no permitirán que suceda de nuevo. Paradójicamente, mientras que tienden a apreciar a los Caballeros Radiantes, e incluso Yelamaiszin afirma tener cierta admiración personal por Dalinar, les preocupa que la insistencia de los Radiantes en tomar decisiones honorables sea demasiado peligrosa. Pese a estar dispuestos a matar para evitar la propagación del conocimiento de la [[Esquirla del Amanecer\|Esquirla del Amanecer]], los Insomnes también están abiertos a ser persuadidos. Rysn fue capaz de convencerles para que perdonasen a su tripulación del [[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]] a cambio de su ayuda con proteger el secreto.
-Se organizan en cepas, que a su vez se separan en hordas. La única cepa con nombre es Natricatich, de la que [[Masaka\|Masaka]] (también conocida como Chinikdakordich) es la horda número sesenta.
+Se organizan en cepas, que a su vez se separan en hordas. La única cepa con nombre es Natricatich, de la que [[Masaka\|Masaka]] (también conocida como Chinikdakordich) es la horda número sesenta. Cada horda se compone de miles de hordinos individuales que actúan juntos en una mente colmena.
 
 ## En la cultura popular
 La mayoría de las gentes de Roshar (a parte de los siah aimianos) no saben de la existencia de los Insomnes, con unas pocas excepciones notables. Al menos unos pocos Iriali han sabido de su existencia y los [[Unkalaki\|Unkalaki]], quienes los llaman los “Dioses Que No Duermen”, incluso conocen un poco de sus habilidades con los hordinos. Ni [[Dalinar\|Dalinar]] ni [[Lift\|Lift]] parecen haber siquiera escuchado de seres con poderes similares a los Insomnes antes de que hablasen con Hoid y Arclo, respectivamente. Sin embargo, algunos cuentos populares sobre ellos han sobrevivido al paso del tiempo, y [[Jasnah Kholin\|Jasnah Kholin]] se encontró estos cuentos durante sus investigaciones. Ella asumió que eran mitos, hasta que comenzó a escuchar historias creibles sobre criaturas similares, probablemente incluyendo la interacción de Lift con Arclo. Incluso entonces, Jasnah no podía creer del todo que tales seres existieran hasta que conoció a uno en persona. Aunque [[Vstim\|Vstim]] le pasó información sobre los Insomnes a Rysn, ella no descartó que sus observaciones del cambio de forma de Nikli fuese algún tipo de [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] hasta que presenció sus poderes de cerca.
 
 ## Historia
 ### Orígenes
-Los Insomnes, o dysian aimianos, existen en múltiples planetas del cosmere y se sabe que han viajado entre ellos. Su planeta de origen es desconocido, pero se sabe que no son nativos de [[Yolen\|Yolen]]. [[Hoid\|Hoid]] es la única persona conocida que utiliza el término “dysian”, y el origen de este término es desconocido. Todos los Insomnes conocidos en Roshar descienden de un único enjambre que ahora se llama [[Yelamaiszin\|Yelamaiszin]]. La mayoría de los Insomnes del cosmere viven en Roshar, pero existen otros enjambres no relacionados en otros planetas.
+El mundo natal de los Insomnes es desconocido, pero no son nativos de [[Yolen\|Yolen]].
+Los Insomnes, o dysian aimianos, existen en múltiples planetas del cosmere y se sabe que han viajado entre ellos. [[Hoid\|Hoid]] es la única persona conocida que utiliza el término “dysian”, y el origen de este término es desconocido. Todos los Insomnes conocidos en Roshar descienden de un único enjambre que ahora se llama [[Yelamaiszin\|Yelamaiszin]]. La mayoría de los Insomnes del cosmere viven en Roshar, pero existen otros enjambres no relacionados en otros planetas.
 Aunque no son nativos de Roshar, algunos vivieron en Aimia antes de [[La destrucci%C3%B3n de Aimia\|su destrucción]], que fue catalogada por [[Hessi\|Hessi]] como una “destrucción total”. Coexistieron con los [[Siah aimiano\|siah aimianos]] pero no estaban relacionados con ellos. Pese al hecho de que sobrevivieron, la destrucción de su hogar en Aimia parece haberles provocado un gran dolor emocional.
 
 ### Épocas Heráldicas
 >“*You needn't fear me. Your war is my war, and has been for millennia. Ancient Radiants named me friend and ally before everything went wrong. What wonderful days those were, before the [[Last Desolation\|Last Desolation]]. Days of... honor. Now gone, long gone.*”
-\-Arclo a Lift[5]
+\-Arclo a Lift[6]
 
 
 Los Insomnes tenían una larga historia con los [[Heraldos\|Heraldos]] y los [[Caballeros Radiantes\|Caballeros Radiantes]]. Algunos Insomnes fueron en un momento capaces de utilizar los poderes de las [[Potenciaci%C3%B3n\|potencias]]. Al menos algunos de ellos, incluyendo a Arclo, fueron aliados de los Heraldos y los Caballeros Radiantes durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]. Arclo le contó a [[Lift\|Lift]] que otros de su especie estaban particularmente interesados en los Radiantes. Al menos un Insomne podría haber luchado durante [[Aharietiam\|Aharietiam]], ya que [[Dalinar Kholin\|Dalinar Kholin]] notó un montón de extraños cremlinos quemados en una de [[Visiones de Dalinar\|sus visiones]]; no está claro en qué lado combatieron, aunque se sabe que algunos Insomnes estaban aliados con los Caballeros Radiantes.
@@ -112,6 +119,9 @@ Los Insomnes fueron obligados a luchar contra los humanos otra vez debido al int
 A pesar de estos eventos, la Esquirla del Amanecer se mantuvo en secreto gracias a la cuidadosa planificación y negociación de Rysn. Nikli reveló una serie de secretos sobre la Esquirla del Amanecer, y Rysn vió la oportunidad para hacer un trato consistente en esconder la Esquirla del Amanecer y entrenar a los Insomnes para que pasen mejor como humanos. Los Insomnes aceptaron el trato, dándole además algunos [[Fabrial\|fabriales]] [[Moldeador de almas\|moldeadores de almas]] y un juego de [[Armadura esquirlada\|armadura esquirlada]] para Cuerda y aceptaron evitar atacar a Radiantes. Rysn y Cuerda tuvieron que jurar mantener en secreto la Esquirla del Amanecer, aunque se les permitió contarle a la gente una versión alterada de la historia. Los Insomnes les advirtieron que vigilarían sus actividades con hordinos para asegurarse que cumplirían el trato.
 Después de que Rysn cerrase el trato, los Insomnes se mostraron algo más afines a trabajar con otros humanos, ya que uno de ellos conoció a [[Jasnah\|Jasnah]] en persona. [[Hoid\|Hoid]] le comentó a Jasnah que no creía que ninguno de los Insomnes trabajara para [[Odium\|Odium]], pero al menos uno de ellos está aliado con los [[Sangre Espectral\|Sangre Espectral]]. Uno de los enjambres sustituyó una de las plumas de Hoid con un hordino preparado para parecerse a tal objeto. Hoid estaba muy sorprendido de como había conseguido evitar las protecciones pensadas para una infiltración del estilo. Hoid confió en que un enjambre amistoso sería responsable, pero él y Jasnah decidieron asumir que era un espía que informaría de sus actividades a [[Thaidakar\|Thaidakar]], probablemente a través de [[Mraize\|Mraize]].
 
+### La era espacial
+Durante la era espacial del Cosmere, los Insomnes se vieron envueltos en varios conflictos actualmente desconocidos. Estos han llevado a algunos, cansados de ellos, a la clandestinidad, como [[Masaka\|Masaka]].
+
 ## Insomnes notables
 [[Arclomedarian\|Arclomedarian]]
 [[Yelamaiszin\|Yelamaiszin]], primero y más antiguo de los enjambres en Roshar
@@ -120,11 +130,13 @@ Después de que Rysn cerrase el trato, los Insomnes se mostraron algo más afine
 [[Zyardil\|Zyardil]]
 [[Masaka\|Masaka]], saltamundos de [[Komashi\|Komashi]] y sexagésima horda de la cepa Natricatich. Su nombre Insomne es Chinikdakordich, pero lo ha abandonado.
 El cocinero de *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* era un Insomne que no ha sido identificado
+Un Insomne no identificado que se unió a los Sangre Espectral.
 ### Avistamientos confirmados
-[[Brandon Sanderson\|Brandon Sanderson]] ha indicado que las apariciones conspícuas de cremlinos pueden indicar la presencia de un Insomne; algunos de estos avistamientos han sido directamente confirmados por él.
+Las apariciones llamativas de cremlinos pueden indicar la presencia de un Insomnes; los avistamientos conocidos incluyen:
 
 [[Hoid\|Hoid]] relata un monólogo a un hordino mientras espera a que [[Jasnah\|Jasnah]] se [[/wiki/Potenciaci%C3%B3n#transportaci.C3.B3n]] després de su periodo en [[Shadesmar\|Shadesmar]].
 Kaladin nota un hordino de color morado oscuro en uno de los carros de [[Tvlakv\|Tvlakv]].
+Un hordino que se disfraza de bolígrafo para escuchar a Hoid y Jasnah.
 ### Avistamientos no confirmados
 > [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
 

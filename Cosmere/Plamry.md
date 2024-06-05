@@ -1,19 +1,22 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Plamry**|
 |-|-|
-|**Oficio**|Porter|
+|**Oficio**|Porteador|
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Dawnshard (novella)\| Dawnshard]]*|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|
 
-**Plamry** is a [[Thaylen\|Thaylen]] man on [[Roshar\|Roshar]] that worked with [[Nikliasorm\|Nikli]] as a porter to [[Rysn\|Rysn]].
+**Plamry** es un hombre [[Thayle%C3%B1o\|thayleño]] en [[Roshar\|Roshar]] que trabajaba con [[Nikliasorm\|Nikli]] como porteador de [[Rysn\|Rysn]].
 
-## History
-Plamry did not seem to be present when [[Nikliasorm\|Nikli]] first appeared in [[Urithiru\|Urithiru]] and was presumably hired to serve as Nikli's assistant porter shortly before the *[[Wandersail (1174 ship)\|Wandersail]]* departed on the [[Expedition to Akinah\|expedition to Akinah]] in 1174.
-When Nikli was discovered by Rysn to have been working against the voyage, Plamry was also under suspicion and taken captive by [[Kstled\|Kstled]]. Despite Nikli's insistence that Plamry was not aware of its plan, [[Lopen\|Lopen]] and [[Huio\|Huio]] flew both of them to the main island of [[Aimia\|Aimia]], chained them up, and left them with food and water, so that the *Wandersail* could continue its mission.
-Plamry was indeed ignorant of Nikli's true goals and its nature as a [[Sleepless\|Sleepless]]. Nikli presumably used its abilities to escape from Aimia, and Plamry's mental state after seeing hordelings in action is unclear. He was recovered from Aimia after the mission to explore [[Akinah\|Akinah]] had been completed.
+## Historia
+Plamry no parecía estar presente cuando [[Nikliasorm\|Nikli]] apareció por primera vez en [[Urithiru\|Urithiru]] y probablemente fue contratado como ayudante de Nikli poco antes de que el *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]'* partiese en la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]] en 1174.
+Cuando Rysn descubrió que Nikli trabajaba para obstaculizar el viaje, Plamry también cayó bajo sospecha y fue capturado por [[Kstled\|Kstled]]. A pesar de la insistencia de Nikli en que Plamry no estaba al tanto de su plan, [[Lopen\|Lopen]] y [[Huio\|Huio]] volaron con ambos hasta la isla principal de [[Aimia\|Aimia]], los encadenaron y les dejaron comida y agua, para que el *Vela Errante* pudiese continuar su misión.
+En efecto, Plamry ignoraba los verdaderos objetivos de Nikli y su naturaleza de [[Insomne\|Insomne]]. Nikli presumiblemente utilizó sus habilidades para escapar de Aimia, y el estado mental de Plamry tras ver a los hordinos en acción no está claro. Fue rescatado de Aimia tras finalizar la misión de exploración de [[Akinah\|Akinah]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 21:09, 19 January 2021 (UTC)

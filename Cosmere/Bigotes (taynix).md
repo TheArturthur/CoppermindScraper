@@ -7,6 +7,7 @@
 |**Especie**|[[Taynix\|Taynix]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Perpetua\|Perpetua]]*|
 
 **Bigotes** es una hiperbabosa [[Taynix\|taynix]] que [[Jorgen Weight\|Jorgen Weight]] encuentra en las cavernas de [[Detritus\|Detritus]]. Bigotes es el taynix personal de [[Corbin\|Gatero]].
 Durante la batalla por [[Orilla Perpetua (planeta)\|Orilla Perpetua]], Bigotes se encuentra en un combate con Gatero cuando un [[Cit%C3%B3nica (habilidad)\|citónico]] de la [[Supremac%C3%ADa\|Supremacía]] con hojas mentales comienza a perseguirlos. Jorgen envía una comunicación citónica a Bigotes, incitandole a teletransportar a Gatero y la nave más cerca de la ciudad de [[Manantial So%C3%B1ador\|Manantial Soñador]], y fuera de peligro inmediato.

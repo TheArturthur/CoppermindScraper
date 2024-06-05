@@ -15,6 +15,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“*Para mí, solo hay un clan que cuente: la humanidad. Antes de estrellarnos aquí, todos formábamos parte de la misma flota... y algún día, todos los clanes nómadas terminarán por recordarlo. Vendrán cuando los llamemos. Nos reuniremos todos y formaremos de nuevo una ciudad y una civilización.*”
 \-Zeen[1]

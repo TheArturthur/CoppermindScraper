@@ -6,6 +6,7 @@
 |**Especie**|[[Quimera\|Quimera]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Estelar\|Estelar]]*|
 
 >“*Eh... Evitaremos que esto vaya a más, Cuna. Nos resistiremos a Winzik. Arreglaremos este sinsentido.*”
 \-Zezin a Cuna[1]

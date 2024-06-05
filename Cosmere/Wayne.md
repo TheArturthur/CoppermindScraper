@@ -15,6 +15,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -280,7 +281,7 @@ Encerró los tres barriles, pero excluyó el dispositivo que coordinaba las expl
 \-Wayne a Armonía.[4]
 
 
-Tras su muerte, Wayne habló brevemente con Armonía antes de pasar al [[M%C3%A1s All%C3%A1\|Más Allá]]. Se regocijó en su victoria, feliz de haber salvado al mundo. Preguntó a Armonía si había hecho la mayor explosión que una persona haya hecho jamás, lo que Armonía confirma como correcto. Satisfecho, Wayne pasó al Más Allá. Wayne hizo poner varias cosas en su testamento, que se llevaron a cabo después de su muerte. Concedió una gran suma de dinero a Ranette y Allriandre, dejó su sombrero de la suerte a Marasi, y dispuso que una variedad de objetos al azar fueran discretamente entregados a Wax con el tiempo (un ejemplo de ello es la entrega de una rana disecada a Wax dos años después de la muerte de Wayne). Dos años después de su muerte, se hizo una estatua de bronce de él y se colocó en el Campo del Renacimiento para honrar su memoria.
+Tras su muerte, Wayne habló brevemente con Armonía antes de pasar al [[M%C3%A1s All%C3%A1\|Más Allá]]. Se regocijó en su victoria, feliz de haber salvado al mundo. Tras preguntar a Armonía si MeLaan decía la verdad con su cumplido al despedirle, le pregunta también si había hecho la mayor explosión que una persona haya hecho jamás, lo que Armonía confirma como correcto. Satisfecho, Wayne pasó al Más Allá. Wayne hizo poner varias cosas en su testamento, que se llevaron a cabo después de su muerte. Concedió una gran suma de dinero a Ranette y Allriandre, dejó su sombrero de la suerte a Marasi, y dispuso que una variedad de objetos al azar fueran discretamente entregados a Wax con el tiempo (un ejemplo de ello es la entrega de una rana disecada a Wax dos años después de la muerte de Wayne). Dos años después de su muerte, se hizo una estatua de bronce de él y se colocó en el Campo del Renacimiento para honrar su memoria.
 
 ## Relaciones
  
@@ -315,7 +316,7 @@ Wayne a menudo flirtea con [[Ranette\|Ranette]], pero es constantemente respondi
 ## Citas
 Para una lista de citas de Wayne, ver [[Wayne/Citas\|Wayne/Citas]].
 ## Curiosidades
-Wayne usa el apellido “Terrisano”.
+Wayne usa el apellido “Terrisano”, ya que no tiene apellido familiar
 Si se hubiera unido a los [[Caballeros Radiantes\|Caballeros Radiantes]], hubiera sido muy probablemente de la orden de la [[Orden de los Danzantes del Filo\|Orden de los Danzantes del Filo]]. La mayoría de las órdenes lo considerarían muy raro.
 Tendremos cómics dentro del mundo de la Era 3 de Nacidos de la Bruma basados en [[Wax\|Wax]] y él.
 Wayne iba a ser originalmente un sastre.

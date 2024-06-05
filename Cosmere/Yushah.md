@@ -5,6 +5,7 @@
 |**Especie**|[[Tronador\|Tronador]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Yushah** es un [[Tronador\|tronador]] que participa en la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]] en [[Roshar\|Roshar]] en 1174.
 

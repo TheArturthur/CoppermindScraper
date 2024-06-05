@@ -1,15 +1,18 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Pluv**|
 |-|-|
 |**Oficio**|Marinero|
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Dawnshard (novella)\| Dawnshard]]*|
+|**Presentado en**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
 
-**Pluv** is a [[Thaylen\|Thaylen]] sailor on the *[[Wandersail (1174 ship)\|Wandersail]]*.
-He was a member of the [[Expedition to Akinah\|expedition to Akinah]]. He brought [[Rushu\|Rushu]] a note of warning from [[Rysn\|Rysn]] while she and [[Lopen\|Lopen]] were exploring the ruins on the island looking for the [[Oathgate\|Oathgate]].
+**Pluv** es un marinero [[Thayle%C3%B1o\|thayleño]] en el *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*.
+Fue miembro de la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]]. Llevó a [[Rushu\|Rushu]] una nota de advertencia de [[Rysn\|Rysn]] mientras ella y [[Lopen\|Lopen]] exploraban las ruinas de la isla en busca de la [[Puerta Jurada\|Puerta Jurada]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 18:19, 27 September 2021 (UTC)

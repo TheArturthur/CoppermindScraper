@@ -275,7 +275,7 @@ Los alezi también cultivan muchas plantas. Entre ellas, destaca la [[Lavis\|lav
 
 #### Fauna
 Alezkar también cuenta con una fauna muy variada. La salvaje incluye [[Espinablanca\|espinablancas]], [[Chull\|chulls]], [[Sabueso-hacha\|sabuesos-hacha]] y más. Alezkar también es el hogar de múltiples manadas de [[Ryshadio\|ryshadios]], que viven en su mayoría en la zona oriental del país. Los [[Gusano cavador\|gusanos cavadores]] también son comunes allí, y se requiere de mucho trabajo para proteger de ellos a los cultivos. Otra de las especies que se encuentran por todo Alezkar es el [[Lurg\|lurg]], un anfibio pequeño. No alberga ningún [[Sarpenthyn\|sarpenthyn]], pero las [[Anguila a%C3%A9rea\|anguilas aéreas]] son comunes cerca de la costa.
-Los alezi también han domesticado a un amplio rango de animales. Aunque la mayoría se dedica a la agricultura, en ocasiones cuidando también de algunos animales, hay alezi que son pastores. La fauna domesticada incluye a las [[Bestia lanzadora\|bestias lanzadoras]], enormes animales de pastoreo, las [[Cerda\|cerdas]], cuidadas por su leche, los [[Gumfremo\|gumfremos]], mantenidos normalmente por sus [[Gema coraz%C3%B3n\|gemas corazón]] y los chulls, empleados como bestias de carga. Los alezi también crían cerdos, originarios de [[Ashyn\|Ashyn]], por su carne y cuero. Además de estos grandes animales de pastoreo, los alezi cuentan con un gran número de mascotas, como los [[Sabueso-hacha\|sabuesos-hachas]], algunos pájaros y visones.
+Los alezi también han domesticado a un amplio rango de animales. Aunque la mayoría se dedica a la agricultura, en ocasiones cuidando también de algunos animales, hay alezi que son pastores. La fauna domesticada incluye a las [[Bestia lanzadora\|bestias lanzadoras]], enormes animales de pastoreo, los , criados por su leche, los [[Gumfremo\|gumfremos]], mantenidos normalmente por sus [[Gema coraz%C3%B3n\|gemas corazón]] y los chulls, empleados como bestias de carga. Los cerdos, originarios de [[Ashyn\|Ashyn]], también les proporcionan carne y cuero. Además de estos grandes animales de pastoreo, los alezi cuentan con un gran número de mascotas, como los [[Sabueso-hacha\|sabuesos-hachas]], algunos pájaros y visones.
 
 ### Ciudades destacables
 Para un listado más completo, ver [[/wiki/Alezkar#Principados conocidos]].
@@ -488,12 +488,12 @@ Sus licores están teñidos con diversos tintes de acuerdo a lo fuerte que sea l
 Hay una gran variedad de bebidas incluso dentro del mismo color, como el [[Honu\|honu duro]], un tipo de licor de grano de lavis. Algunos alcoholes están condimentados, lo cual les da un sabor especiado.
 
 #### Curry
-Muchos tipos de curry son populares en Alezkar, como el curry dulce o el picante hecho con pimientos picantes. Algunos de sus currys están mezclados con diferentes tipos de crema hecha principalmente con leche de cerda. A menudo se mezclan carnes y verduras con el curry.
+Muchos tipos de curry son populares en Alezkar, como el curry dulce o el picante hecho con pimientos picantes. Algunos de sus currys están mezclados con diferentes tipos de crema hecha principalmente con leche de cerdo. A menudo se mezclan carnes y verduras con el curry.
 En cuanto a textura y consistencia, puede oscilar entre aguado, espeso y cremoso.
 El curry se suele comer con pan o con arroz y grano.
 
 #### Productos lácteos
-Los lácteos en Alezkar provienen principalmente de las cerdas. El consumo de este tipo de productos no está muy extendido, y su uso se reserva sobre todo para cremas empleadas en el curry.
+Los lácteos en Alezkar provienen principalmente de los cerdos. El consumo de este tipo de productos no está muy extendido, y su uso se reserva sobre todo para cremas empleadas en el curry.
 
 #### Grano y tubérculos
 Una gran proporción de su dieta se basa en el taliú y la lavis, que se emplean tanto en comida como en bebidas alcohólicas. El taliú normalmente se cuece o se hace al vapor para preparar sopa. A veces también se unta en verduras como el [[Estagma\|estagma]].

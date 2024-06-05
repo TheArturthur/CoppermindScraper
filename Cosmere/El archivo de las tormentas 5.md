@@ -23,7 +23,7 @@
 
 
 ## Desarrollo
-La  se publicó en Reddit el 6 de septiembre de 2022, cuando el primer borrador estaba completado en un 15%. La  se publicó en Reddit el 13 de marzo de 2023, cuando el primer borrador estaba completado en aproximadamente un 33%. El primer borrador se terminó en algún momento entre el 21 y el 26 de diciembre de 2023 y el segundo borrador está terminado. Esto ha resultado una tarea muy sencilla ya que Brandon ha estado haciendo revisiones mientras trabajaba en el primer borrador. De acuerdo con la , el tercer borrados está completado al 100% a fecha 4 de a abril de 2024.
+La  se publicó en Reddit el 6 de septiembre de 2022, cuando el primer borrador estaba completado en un 15%. La  se publicó en Reddit el 13 de marzo de 2023, cuando el primer borrador estaba completado en aproximadamente un 33%. El primer borrador se terminó en algún momento entre el 21 y el 26 de diciembre de 2023 y el segundo borrador está terminado. Esto ha resultado una tarea muy sencilla ya que Brandon ha estado haciendo revisiones mientras trabajaba en el primer borrador. De acuerdo con la , la cuarta y última revisión está al 63% a 30 de mayo de 2024.
 
 ## Contenido anterior a la publicación
 En marzo de 2022, Brandon hizo una lectura del primer borrador del prólogo en su canal de YouTube. Se puede leer .
@@ -39,7 +39,7 @@ Szeth será el personaje central.
 Más personajes homosexuales de Roshar serán canonizados en el libro, incluyendo a Renarin y Rlain.{
 El final planeado se basa en el final que planeó para un juego de rol en 1999, y ha estado en el esquema desde el principio. Brandon espera que sea del agrado de la gente y recontextualice muchos momentos importantes de la serie.
 ### Arte conceptual
-Dragonsteel encargó varias obras de arte conceptual para el libro.
+Dragonsteel encargó un par de obras de arte conceptual para el libro.
 
 
 Arte conceptual

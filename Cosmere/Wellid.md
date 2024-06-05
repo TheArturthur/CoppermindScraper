@@ -7,6 +7,7 @@
 |**Grupo**|[[Set\|Set]]🐱︎|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
 
 >“*Transportar una carga. A Elendel. Es un arma, ¿verdad? Tenemos que dejarla y marcharnos de allí.*”
 \-Wellid describiendo su misión a Gabria[2]

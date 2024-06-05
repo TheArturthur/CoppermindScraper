@@ -1,13 +1,16 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Placini**|
 |-|-|
-|**Oficio**|Author|
+|**Oficio**|Autore|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Placini** is an author on [[Roshar\|Roshar]].
-[[Jasnah Kholin\|Jasnah Kholin]] asks [[Shallan Davar\|Shallan Davar]] if she has read Placini's works, as they are important for the study of the logical arts.
+**Placini** es une autore en [[Roshar\|Roshar]].
+[[Jasnah Kholin\|Jasnah Kholin]] pregunta a [[Shallan Davar\|Shallan Davar]] si ha leído las obras de Placini, ya que son importantes para el estudio de las artes lógicas.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 17:35, 25 December 2016 (MST)

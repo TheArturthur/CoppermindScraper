@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Hará falta tiempo para acabar con una religión e instaurar una nueva en su lugar.*”
 \-Waren, a Hrathen[1]

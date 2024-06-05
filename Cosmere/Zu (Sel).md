@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[Ariete\|Ariete]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El alma del emperador\|El alma del emperador]]*|
 
 **Zu** es un [[Ariete\|ariete]] [[Mulla'dil\|mulla'dil]] del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]]. Es el capitán de la guardia del [[Palacio Rosa\|palacio Rosa]].
 

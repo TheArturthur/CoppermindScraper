@@ -45,7 +45,7 @@ Para una lista completa de personajes del Lado Oscuro, ver :Categoría: Oscurens
 La Arena Blanca está ambientada en el [[Cosmere\|Cosmere]], en el planeta de [[Taldain\|Taldain]].
 
 ### Sistema de magia
-El principal sistema de magia en Taldain se conoce como [[Maestr%C3%ADa de la arena\|maestría de la arena]]. Implica la manipulación telequinética de la arena blanca, un proceso que deja la arena de color negro durante un tiempo, a expensas del suministro de agua del usuario.
+El principal sistema de magia en el [[Lado Diurno\|Lado Diurno]] de Taldain se conoce como [[Maestr%C3%ADa de la arena\|maestría de la arena]]. Implica la manipulación telequinética de la arena blanca, un proceso que deja la arena de color negro durante un tiempo, a expensas del suministro de agua del usuario.
 
 ## Desarrollo
 *Arena Blanca* se basa en la octava novela inédita de Brandon Sanderson [[Arena Blanca (prosa)\|del mismo nombre]], que es a su vez una reescritura completa de su [[Arena Blanca Prime\|primer libro]].

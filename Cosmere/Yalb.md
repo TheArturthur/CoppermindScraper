@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 >“*...los mercaderes son como los peces. Donde encuentras uno, encuentras a los demás.*”
 \-Yalb a Shallan en Kharbranth mientras buscaba una librería[1]

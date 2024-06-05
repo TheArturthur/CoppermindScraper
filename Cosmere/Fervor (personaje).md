@@ -12,8 +12,7 @@
 |**Nacionalidad**|[[Uni%C3%B3n\|Unión]] |
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|Cosmere|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 **Fervor** es un ciudadano de [[Baliza\|Baliza]], en [[C%C3%A1ntico\|Cántico]], y trabaja como comandante de campo o planificador de operaciones especiales bajo la dirección del [[El Bien Mayor\|Bien Mayor]]. Es el encargado de planificar y ejecutar las incursiones en [[Uni%C3%B3n\|Unión]] y junto con su equipo participa en las partes más delicadas y difíciles de las misiones.
 
