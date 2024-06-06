@@ -11,8 +11,6 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 La **feruquimia** es una de las tres manifestaciones principales de [[Investidura\|Investidura]] en [[Scadrial\|Scadrial]]. Los nativos de ese mundo la consideran una de las tres [[Artes Met%C3%A1licas\|Artes Metálicas]].
 
 ## Sumario

@@ -7,8 +7,6 @@
 |**Mundo de origen**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 La ***Cazadora del alba*** es una  que forma parte de [[Baliza\|Baliza]], en [[C%C3%A1ntico\|Cántico]]. Está reforzada por [[Eleg%C3%ADa\|Elegía]] para soportar la vorágine.

@@ -9,8 +9,6 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 **Adonalsium-Terminará-Recordando-Nuestro-Aprieto** es un residente de [[Baliza\|Baliza]], en [[C%C3%A1ntico\|Cántico]].
 Es alto, delgado y severo.
 [[Fervor (personaje)\|Fervor]] le pide que encuentre alojamiento para [[N%C3%B3mada\|Nómada]] y [[Eleg%C3%ADa\|Elegía]], sin embargo, Nómada se niega a ir con él.

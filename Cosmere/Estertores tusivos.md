@@ -11,8 +11,8 @@ Los estertores tusivos desfiguran a sus víctimas. Es poco probable que la enfer
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 20:14, 16 de mayo de 2024 (UTC)
 |**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
 |-|-|
 |**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|

@@ -190,10 +190,10 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 
 6 Ejército. [[#Ej.C3.A9rcito]] 
 
-6. [[#Enlistment and Wages]] 
+6. [[#Alistamiento y sueldos]] 
 
-6. [[#Enlistment]] 
-6. [[#Wages]] 
+6. [[#Alistamiento]] 
+6. [[#Sueldos]] 
 
 
 6. [[#Command structure]] 
@@ -202,9 +202,9 @@ Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los alez
 6. [[#Ranks]] 
 
 
-6. [[#Equipment]] 
+6. [[#Equipamiento]] 
 
-6. [[#Uniforms]] 
+6. [[#Uniformes]] 
 6. [[#Armor]] 
 6. [[#Weaponry]] 
 
@@ -286,11 +286,11 @@ Para un listado más completo, ver [[/wiki/Alezkar#Principados conocidos]].
 [[Karanak\|Karanak]] — Una gran ciudad al sur de Alezkar localizada cerca del delta del [[R%C3%ADo Curva de la Muerte\|río Curva de la Muerte]]. Karanak tuvo un papel importante en la defensa alezi durante la Auténtica Desolación.
 ## Historia
 ### Creación
-The land that would become known as Alethkar was created at an unknown point before the [[Shattering\|Shattering]] by Adonalsium, along with the rest of Roshar and the Rosharan supercontinent over ten-thousand years prior to Vorin year 1174. It is unclear how much the geography of modern-day Alethkar has changed compared to the land at creation.
+La tierra que acabaría siendo conocida como Alezkar fue creada por Adonalsium en un momento desconocido antes de la [[Fragmentaci%C3%B3n\|Fragmentación]], así como el resto de Roshar y el supercontinente roshariano diez mil años antes del año vorin 1174. No está claro cuánto ha cambiado la geografía del Alezkar actual comparada con cuando fue creada.
 
 ### Anterior a la llegada de los humanos
 Antes de que la humanidad llegara a Roshar desde Ashyn, la tierra que acabaría siendo conocida como Alezkar estaba habitada por [[Cantor\|cantores]].
-Circa -5825 in the Vorin calendar, humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shinovar\|Shinovar]]. Menos de una generación después, lideraron una invasión, asesinando y expulsando a los cantores de su tierra y reclamándola como suya; esto incluyó la tierra que acabaría siendo conocida como Alezkar. Esta historia se perdió hasta el descubrimiento del [[Eila Stele\|Eila Stele]].
+En torno al -5825 en el calendario vorin, la humanidad llegó a Roshar tras huir de Ashyn y se les cedió la tierra que acabaría convirtiéndose en [[Shinovar\|Shinovar]]. Menos de una generación después, lideraron una invasión, asesinando y expulsando a los cantores de su tierra y reclamándola como suya; esto incluyó la tierra que acabaría siendo conocida como Alezkar. Esta historia se perdió hasta el descubrimiento del [[Eila Stele\|Eila Stele]].
 
 ### Los Reinos Plateados
   Mapa de los Reinos Plateados
@@ -307,10 +307,10 @@ Nohadon quiso abdicar debido a los trágicos eventos de esta Desolación. No obs
 Nohadon fue una figura muy influyente en los ideales que conforman el eje central de los Caballeros Radiantes.
 
 #### Otras Desolaciones
-The Sixth Epoch lasted at least thirty-one years, and likely significantly longer, before its Desolation arrived.
+La Sexta Época duró al menos treinta y un años, probablemente mucho más, antes de que su Desolación llegara.
 Una de las muchas Desolaciones que asoló la nación, así como al resto de Roshar, llegó en el año 337 de la Octava Época. Esta Desolación fue anunciada por la liberación de la [[Esencia de Medianoche\|Esencia de Medianoche]] en un pequeño asentamiento de [[Natanatan\|Natanatan]]. Se desconoce la duración de esta Desolación.
-During some of the Desolations, the Fused managed to take the capital of Alethela, though were ultimately pushed out.
-Another Desolation occurred later and ended circa -3333, during an unknown Epoch. This left society wounded and weak, forcing them into a period of recovery.
+Durante algunas de las Desolaciones, los Fusionados lograron hacerse con la capital de Alezela, aunque finalmente fueron expulsados.
+Otra Desolación ocurrió más tarde y terminó en torno al año -3333, durante una Época desconocida. Esto dejó a la sociedad herida y debilitada, lo que los forzó a pasar un periodo de recuperación.
 
 #### La Última Desolación
 La Última Desolación fue una Desolación a gran escala que ocurrió en torno al -3332, unos 4500 años antes de la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Esta Desolación fue particularmente destructiva debido a que sucedió tan sólo un año después de la anterior Desolación, con lo cual la sociedad seguía debilitada y en proceso de recuperación. Cansados de las Desolaciones y de las torturas, los nueve Heraldos que quedaban en Roshar se negaron a regresar a Braize, dejando a Taln como único Heraldo del planeta durante milenios.
@@ -742,15 +742,15 @@ Thaylenah es un miembro importante de la coalición de monarcas, aunque desconfi
 Tienen un sistema de comercio estable con Yezier según el cual este país les vende artículos de ropa variados y muy populares en Alezkar. Yezier se apresuró a solicitar un puesto en la coalición de monarcas con Alezkar poco después de que comenzara la Auténtica Desolación. Esto creó una unión militar y económica entre ambas naciones.
 
 ## Ejército
-### Enlistment and Wages
-#### Enlistment
-Any man, lighteyed or darkeyed, can volunteer to join the military. Most of the volunteers are boys, their head full of ideas about glory and Shards. When needed, conscription can also used to gain more men.
-It is seen as a citylord’s duty to handpick men to conscript into the army. There are limitations to this system however, a citylord isn’t allowed to conscript someone who provides an essential service to the community, such as a surgeon. Recruits may bring two changes of clothing and three stoneweights of other possessions with them.
-Each enlistment lasts four years, after which a soldier can choose to enlist for another four years. Upon completion of his time in the army, he will receive a war bonus, equal to one tenth of his total wages. If a darkeyed soldier manages to distinguish himself and rise to a high rank, he could also rise in nahn.
+### Alistamiento y sueldos
+#### Alistamiento
+Cualquier hombre, ya sea ojos claros u ojos oscuros, puede alistarse voluntariamente al ejército. La mayoría de los voluntarios son chicos cuyas cabezas están llenas de ideas como la gloria y las esquirlas. Cuando es necesario, también se puede reclutar hombres para el ejército.
+Se considera un deber del consistor el elegir a hombres que reclutar para el ejército. Este sistema tiene límites, no obstante; un consistor no puede reclutar a alguien que aporte un servicio esencial a la comunidad, como un cirujano. Los reclutas tienen permitido llevar consigo dos mudas de ropa y hasta veinte kilos de pertenencias.
+Cada alistamiento dura cuatro años, tras los cuales el soldado puede decidir alistarse de nuevo otros cuatro años. Tras completar su estancia en el ejército, recibirá un bono de guerra igual a una décima parte de su sueldo total. Si un soldado ojos oscuros logra distinguirse y alzarse hasta un rango elevado, podría obtener un aumento de un nahn.
 
-#### Wages
-Alethi soldiers are well paid, although their wages are based upon military rank and caste. The average darkeyed spearman is paid five clearmarks a day. As higher ranking men, someone in the personal guard of a lighteyes generally thrice as much as the wage of a standard spearman, which translates to about 15 clearmarks each day. Military slaves are paid a fifth of the wage of a darkeyed soldier, around one clearmark a day.
-There are a number ways to earn money outside of your wages. A lot of low ranking men in the military are susceptible to bribes. Some men also try to steal from the dead, although this is strictly prohibited by the officers. If a group of regular soldiers has killed a noteworthy target, usually an important brightlord, they can send for their captainlord, who will confirm the kill, to earn a reward. Many armies allow their soldiers to pillage a conquered city or town, which is a large source of wealth to the soldiers. When a soldier dies, his highprince needs to pay his family.
+#### Sueldos
+Los soldados alezi están bien pagados, aunque sus sueldos se basan en el rango militar y la casta. Un soldado ojos oscuros medio recibe cinco marcoclaros al día. Como hombres de mayor rango, quienes formen parte de la guardia personal de un ojos claros reciben el triple de sueldo que un lancero medio, en torno a unos quince marcoclaros al día. Los esclavos militares cobran menos de la mitad del sueldo de un soldado ojos oscuros, en torno a un marcoclaro al día.
+Hay algunas otras formas de ganar dinero más allá de los sueldos. Muchos de los soldados de menor rango son proclibes a recibir sobornos. Algunos hombres también tratan de saquear a los muertos, aunque esto está estrictamente prohibido por los oficiales. Si un grupo de soldades ordinarios mata a un objetivo destacable, normalmente un brillante señor, pueden mandar llamar a su capitán, quien confirmará el asesinato, para obtener una recompensa. Muchos ejércitos permiten a sus soldados que saqueen las ciudades o pueblos conquistados, lo cual supone una enorme fuente de riqueza para ellos. Cuando un soldado muere, su alto príncipe debe pagar a su familia.
 
 ### Command structure
 #### Leadership
@@ -772,9 +772,9 @@ Aside from this division between the armies, the Alethi have excellent leadershi
 #### Ranks
 The Alethi military is complex and contains many ranks. The figure to the right shows some of the ranks and gives some information about them. Besides these, there are a few extra ranks or duties. One such rank is highmarshal. It is unknown what the position of highmarshal entails, but it is a high rank, and most highmarshals command a large force of soldiers practically by themselves. Some officers are responsible for a branch of the army, such as the infantry or cavalry, these officers are referred to by their duties, along with the suffix -lord (e.g. cavalrylord, infantrylord). Besides these ranks, some officers gain command of certain parts of the army (e.g. the rearguard). These officers are referred to as ‘commander of the … (part of the army)’ (e.g. commander of the rearguard). It is not known whether this is a rank or a duty. It is extremely rare for a darkeyed soldier to rise higher than the rank of squadleader.
 
-### Equipment
-#### Uniforms
-Although uniforms differ between princedoms and even armies, most Alethi wear something very similar. Uniforms are usually coloured with the colours of their wearer’s highprince.
+### Equipamiento
+#### Uniformes
+Aunque los uniformes varían entre principados e incluso entre ejércitos, la mayoría de los alezi visten de manera similar. Normalmente, los uniformes son de los colores del alto príncipe al que sirven los soldados que los llevan.
 Uniforms are generally comprised of trousers, a jacket, which often comes down to the waist and sometimes buttons closed beneath the belt, a shirt and boots. Some traditional generals still outfit their soldiers with [[Takama\|takamas]] instead of trousers. Uniforms, both the ones owned common soldiers and the ones owned by high ranking lighteyed officers, always have a patch to indicate the duty and unit of the wearer. Uniforms also always have their Highprince’s glyphpair displayed prominently, both on the back and the breast. Some men choose to further personalize their uniforms by adding embrodiery or colourful scarfs. When it rains soldiers may choose to wear a stormcoat over their uniform, and there are often umbrellas ready for officers.
 An officer’s uniform is usually comprised of a waistcoat and a double breasted longcoat, sometimes decorated with precious metals, although never with embroidery. These longcoats, called officer’s coats, are approximately waistlength and are supposed to hang unbuttoned. Recruits wear a patch, appropriately called a recruit’s patch, to signify their rank. Army surgeons wear white clothing. Messenger women often wear travelling dresses of a particular fashion. These dresses have the front and back slit open, all the way to the waist, to allow for greater mobility. They, and likely messenger boys as well, also wear something called a runner’s sash.
 Officers are distinguished by knots on a cord across the epaulette, with the amount of knots and their colour signifying their military rank, and their rank in the Alethi caste system. White knots indicate a citizen officer, that is a sergeant or squadleader; red knots indicate an officer of seventh dahn; and gold knots indicate second or third dahn; It can also distinguish between low captain, captain, captainlord, lieutenant, sergeant, and battalionlord. Soldiers without authority bear no knots.

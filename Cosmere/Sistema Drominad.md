@@ -14,7 +14,7 @@ En la zona habitable de este sistema hay cuatro planetas, todos ellos con agua c
 
 
 ## Curiosidades
-A pesar de su nombre en el mapa estelar, los otros planetas habitados del sistema tienen un nombre propio que no sigue el esquema de nomenclatura de [[Primero del Sol\|Primero del Sol]].
+A pesar de sus nombres en el mapa estelar, los otros planetas habitados del sistema tienen un nombre propio que no sigue el esquema de nomenclatura de [[Primero del Sol\|Primero del Sol]].
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.

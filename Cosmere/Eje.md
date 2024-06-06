@@ -3,7 +3,6 @@
 |****|
 |-|-|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Featured En**|*[[El archivo de las tormentas\|El archivo de las tormentas]]*, *[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

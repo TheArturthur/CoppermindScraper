@@ -1,18 +1,21 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Espinero**|
 |-|-|
 ||
-|**Tipo**|Plant|
-|**Nativo de**|[[Shattered Plains\|Shattered Plains]]|
+|**Tipo**|Planta|
+|**Nativo de**|[[Llanuras Quebradas\|Llanuras Quebradas]]|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-Para more images, ver .
-**Prickletac** or **Twisted Spine** is a type of plant native to the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]] and other areas.
-Only the buds at the very ends of the limbs of a prickletac shrub are actually alive. It is composed of a colony of tiny buds, each with a single retractable spine. Every new generation grows on top of the deceased generation below it. After a generation of prickletacs die, their remnants become stone-like, creating strong and inflexible limbs.
-Prickletac spreads when a limb gets too heavy and breaks off. The living buds from the broken limb are scattered and form new plants.
+Para más imágenes, ver [[Espinero/Galer%C3%ADa\|/Galería]].
+El **espinero** o **espina retorcida** es un tipo de planta nativa de las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]] y otras zonas.
+Solo los brotes situados en los extremos de las ramas de un arbusto espinero están realmente vivos. Se compone de una colonia de pequeños brotes, cada uno con una sola espina retráctil. Cada nueva generación crece sobre la generación previa ya muerta que tiene por debajo. Tras la muerte de una generación de espineros, sus restos se convierten en piedra, creando extremidades fuertes e inflexibles.
+El espinero se propaga cuando una rama pesa demasiado y se rompe. Los brotes vivos de la rama rota se dispersan y forman nuevas plantas.
 
-## Trivia
-Prickletac was inspired by barnacles and tree coral.
+## Curiosidades
+El espinero se inspiró en los percebes y el coral arbóreo.
 ## Notes
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.

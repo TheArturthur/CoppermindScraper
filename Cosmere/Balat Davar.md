@@ -48,7 +48,7 @@
 
 ## Apariencia y personalidad
  
-Balat es un hombre joven, de veintitrés años en 1173. Tiene la cara redonda y una mirada atormentada. Es el más alto de sus hermanos supervivientes. Balat camina con bastón y le duele la pierna mala debido a una herida que le causó su [[Lin Davar\|padre]] al golpearle la pierna con un atizador.
+Balat es un hombre joven, de veintitrés años en 1173. Tiene la cara redonda, el pelo oscuro y una mirada atormentada. Es el más alto de sus hermanos supervivientes. Balat camina con bastón y le duele la pierna mala debido a una herida que le causó su [[Lin Davar\|padre]] al golpearle la pierna con un atizador.
 Se da a entender que, de niño, a Balat le gustaba provocar incendios, uno de los cuales estuvo a punto de quemar el edificio de los criados.  También tenía la costumbre de ser cruel con los animales. De adulto, le sigue gustando matar animales, aunque nunca personas; el dolor que sufre aquello a lo que mata parece disminuir su propio dolor. Lo hace con crueldad, por ejemplo, arrancando una a una las patas de un [[Cremlino\|cremlino]]. Este interés por la muerte aumenta mágicamente.
 Está muy unido y encariñado con [[Scrak\|Scrak]], su mascota sabueso-hacha.
 Balat cree que la [[Casa Davar\|Casa Davar]] está profundamente dañada y que es una "familia de tullidos" como consecuencia de la muerte de su [[Madre de Shallan\|madre]] y los sucesos posteriores. Se ve a sí mismo como el único que es normal e indemne a estos sucesos.

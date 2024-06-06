@@ -8,6 +8,7 @@
 |**Oficio**|Piloto de la FDD [[L%C3%ADder de la Asamblea Nacional\|LAN]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 >“* Queremos saber qué planea hacer para detener esta espiral de fracaso de la FDD.*”
 \- Valda a Férrea[1]

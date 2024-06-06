@@ -10,8 +10,6 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 **Deborah-James** es una niña que vive en [[Baliza\|Baliza]] con su madre. Cuando la [[Brigada Nocturna\|Brigada Nocturna]] llega a [[C%C3%A1ntico\|Cántico]], Deborah-James es la primera en darse cuenta de la presencia de su nave en el cielo. Ella estudia las estrellas en la escuela con fines de navegación y es capaz de notar que la brillante nave de guerra está fuera de lugar.
 
 

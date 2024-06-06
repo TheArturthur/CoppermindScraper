@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Vennin** es un [[Trackt\|trackt]] que trabaja a las órdenes de [[Ais\|Ais]] en [[Kezare\|Kezare]], en [[Taldain\|Taldain]]. Ella le asigna la vigilancia de [[Kenton\|Kenton]] mientras la propia Ais está ocupada reuniéndose con [[Heelis\|Heelis]]. Cuando Ais regresa para relevarle de su puesto, le informa de que Kenton ha estado estudiando mientras ella estaba fuera.
 

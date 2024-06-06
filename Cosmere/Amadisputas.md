@@ -11,6 +11,7 @@
 |**Grupo**|[[Los Cinco Sabios\|Los Cinco Sabios]]🐱︎|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Tengo problemas para expresarme. Me frustro y le grito a la gente. Eso no me vuelve muy popular. Pero te prometo que no te mentiré*”
 \-Vasher a Vivenna.[2]

@@ -11,8 +11,8 @@ Los **Talleres Evergall** son un  en [[Scadrial\|Scadrial]], probablemente en [[
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Big Smooth (talk) 20:49, 6 de mayo de 2024 (UTC)
 |**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
 |-|-|
 |**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|

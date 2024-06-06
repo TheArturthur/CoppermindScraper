@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Akane** es una [[Pintor\|pintora]] de [[Pesadilla\|pesadillas]] de [[Kilahito\|Kilahito]] en [[Komashi\|Komashi]]. Vive en un apartamento al otro lado del pasillo de [[Nikaro\|Nikaro]], a quien trata amablemente a pesar de su discusión tras terminar la escuela superior. Cuando [[Yumi\|Yumi]] apareció en Kilahito, Akane se preocupó por ella, por lo que decidió ayudarla y hacerse amiga suya.
 

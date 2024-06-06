@@ -3,7 +3,6 @@
 
 |**Vey**|
 |-|-|
-|**Familia**|
 |**Parientes**|[[NaiMeer\|NaiMeer]]|
 |**Títulos**|[[Lord mercader\|Lord mercader]]|
 |**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Gremio\|El Gremio]]|
@@ -12,6 +11,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Vey** es el actual [[Lord mercader\|lord mercader]] del [[Gremio\|Gremio]]. Está a cargo del sector bancario de [[Lossand\|Lossand]]. Reside en el Mercado Dorado del Gremio. Tiene voto en el consejo del [[Taishin\|Taishin]].
 

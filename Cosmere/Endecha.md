@@ -9,8 +9,6 @@
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 **Endecha** es un residente de [[Baliza\|Baliza]] en [[C%C3%A1ntico\|Cántico]]. Es miembro de un equipo de cinco ingenieros dirigidos por [[Solemnidad Divina\|Solemnidad Divina]]. [[N%C3%B3mada\|Nómada]] considera que el equipo de ingenieros son "superdotados" que tienen bastantes conocimientos y habilidades. Sin embargo, el brutal entorno de Cántico y la falta de conocimiento del Cosmere no les permite estudiar ciertos conceptos que en otros planetas se considerarían elementales.
 Endecha participó en las pruebas de los prototipos del motor de vapor de Nómada y ayudó a perfeccionar el diseño.
 

@@ -7,7 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|**|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*Ya tenía mi alma. Armonía... aún **tiene mi alma**.*”
 \-Chapaou[1]

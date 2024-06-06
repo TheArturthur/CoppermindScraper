@@ -46,7 +46,7 @@ Aimia en un lugar desolado y estñeril, demasiado frío para que nada germine. N
 
 ## Cultura
 ### Personas
-Aimia estuvo habitada por humanos durante la mayor parte de su historia. Aunque parece que desde la destrucción han sido asesinados o han huido, algunos de ellos a [[Alm\|Alm]]. Estos se recortaban la barba del mismo modo que aquellos que vivían en [[Steen\|Steen]]. Poco más se sabe sobre ellos.
+Aimia estuvo habitada por humanos durante la mayor parte de su historia, aunque desde la destrucción han sido o asesinados o han huido. Aquellos que se han asentado en [[Alm\|Alm]] llevan la barba del mismo modo que aquellos que vivían en [[Steen\|Steen]]. Poco más se sabe sobre ellos.
 
 ### Razas de Aimia
 Para más información, ver [[Insomne\|Insomne]].Para más información, ver [[Siah aimiano\|Siah aimiano]].

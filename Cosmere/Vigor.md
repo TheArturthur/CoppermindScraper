@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 Identificador **Vigor** es una antigua cadete de la [[Escuela de vuelo\|escuela de vuelo]] de la FDD que fue expulsada antes de graduarse, después de que fuera derribada y eyectada de su nave.
 Tiene unos veinte años y una cicatriz prominente en la frente.

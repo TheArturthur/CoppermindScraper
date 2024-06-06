@@ -9,7 +9,7 @@
 |**Localización**|[[Citoverso\|Citoverso]]|
 |**Fecha original**|21 de noviembre de 2023|
 
-***Desafiante*** es el cuarto libro de la serie [[Escuadr%C3%B3n (saga)\|Escuadrón]] y la secuela de *[[Cit%C3%B3nica (libro)\|Citónica]]**Se publicó el 21 de noviembre de 2023. Es la última novela del arco inicial de *****Escuadrón*, aunque *[[Skyward Legacy\|Skyward Legacy]]** incluirá a algunos de los mismos personajes.
+***Desafiante*** es el cuarto libro de la serie [[Escuadr%C3%B3n (saga)\|Escuadrón]] y la secuela de *[[Cit%C3%B3nica (libro)\|Citónica]].* Se publicó el 21 de noviembre de 2023. Es la última novela del arco inicial de *Escuadrón*, aunque *[[Skyward Legacy\|Skyward Legacy]]* incluirá a algunos de los mismos personajes.
 
 ## Sumario
 

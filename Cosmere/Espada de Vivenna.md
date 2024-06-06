@@ -6,6 +6,7 @@
 |**Capacidades**|Corta a través de cualquier sustancia|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 > [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
 

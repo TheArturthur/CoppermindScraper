@@ -12,8 +12,7 @@
 |**Nacionalidad**|[[Uni%C3%B3n\|Unión]] |
 |**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
 **Divinidad Salvamento** es un ciudadano de [[Baliza\|Baliza]], en [[C%C3%A1ntico\|Cántico]], y hermano de [[Rebeke Salvamento\|Rebeke]] y [[Eleg%C3%ADa Salvamento\|Elegía Salvamento]]. Aunque no tiene una posición oficial de liderazgo en Baliza como su hermana Elegía, el pueblo balizano respeta a Divinidad y lo sigue hasta cierto punto.
 

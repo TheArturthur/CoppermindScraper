@@ -11,7 +11,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 **Fjorden** es una nación teocrática de [[Sel\|Sel]]. Los habitantes de Fjorden se llaman fjordell.
-Estricto y militarista, Fjorden es el país dominante del continente. Hace unos trescientos años, su líder, el Wyrn, se convirtió a la religión derethi, y en una generación todo Fjorden había hecho lo mismo. Ahora, en lugar de enviar tropas por todo el continente, Fjorden envía sacerdotes, y se dice que gran parte de su vasto poder proviene de las conversiones obtenidas -o forzadas- por ellos.
+Estricto y militarista, Fjorden es el país dominante del continente. Hace unos trescientos años, su líder, el Wyrn, se convirtió a la religión derethi, y en una generación todo Fjorden había hecho lo mismo. Ahora, en lugar de enviar tropas por todo el continente, Fjorden envía sacerdotes, y se dice que gran parte de su vasto poder proviene de las conversiones obtenidas, o forzadas, por ellos.
 
 ## Sumario
 
@@ -73,11 +73,11 @@ Estricto y militarista, Fjorden es el país dominante del continente. Hace unos 
 
 
 ## Geografía y ecología
-Fjorden y sus estados dependientes se encuentran en el continente de [[Sycla\|Sycla]], de hecho, abarcan la gran mayoría de Sycla, siendo el único otro estado [[Arelon\|Arelon]]. Entre estos estados, Fjorden es con diferencia el más grande.
+Fjorden y sus estados dependientes componen la gran mayoría del continente de [[Sycla\|Sycla]], de hecho, abarcan la gran mayoría de Sycla, siendo el único otro estado [[Arelon\|Arelon]]. Entre estos estados, Fjorden es con diferencia el más grande.
 
 ### Fjorden
-Fjorden se encuentra a lo largo de la costa del [[Mar de Fjorden\|mar de Fjorden]], no parece controlar muchas islas grandes. Al oeste, Fjorden limita con las [[Monta%C3%B1as Dathreki\|montañas Dathreki]] (o Atad, como las conocen los arelenos). Al menos dos grandes ríos atraviesan Fjorden. Tiene un clima frío. A veces hace tanto frío en invierno que los árboles se congelan y explotan.
-Las [[Siempreninas\|siempreninas]] son una flor que se encuentra y se ve favorecida en Fjorden. El [[Mar de Fjorden\|mar de Fjorden]], junto al que se encuentra Fjorden, contiene muchas especies de peces. Una de ellas es la [[Trucha\|trucha]]. 
+Aunque Fjorden se encuentra a lo largo de la costa del [[Mar de Fjorden\|mar de Fjorden]], la nación no parece controlar muchas de las grandes islas. Al oeste, Fjorden limita con las [[Monta%C3%B1as Dathreki\|montañas Dathreki]] (o Atad, como las conocen los arelenos). Al menos dos grandes ríos atraviesan Fjorden. Tiene un clima frío. A veces hace tanto frío en invierno que los árboles se congelan y explotan.
+Las [[Siempreninas\|siempreninas]] son una flor que se encuentra y se ve favorecida en Fjorden. El [[Mar de Fjorden\|mar de Fjorden]], que se encuentra cera de la nación, contiene muchas especies de peces. Una de ellas es la [[Trucha\|trucha]]. 
 
 ### Imperio Fjordell
 El Imperio Fjordell tiene una geografía muy diversa. [[Hraggen\|Hraggen]] contiene una gran cadena montañosa, mientras que [[Hrovell\|Hrovell]] limita al sur con montañas. Todas las naciones del sur del imperio Fjordell están bordeadas por un gran desierto. Svorden tiene el control sobre un gran grupo de islas al oeste de la península.
@@ -100,34 +100,34 @@ Aunque Fjorden no gobierna directamente sobre otros territorios, el Imperio de F
 
 [[Svorden\|Svorden]] - Reino situado en la parte oriental del imperio Fjordell, está considerado como el epicentro cultural del este.
 [[Hrovell\|Hrovell]] - Una nación en el sureste rural del Imperio Fjordell.
-[[Geant\|Geant]] - Una nación en el este del Imperio Fjordell, su gente se ha vuelto casi indistinguible de la Fjordell.
+[[Geant\|Geant]] - Una nación en el este del Imperio Fjordell. Su gente se ha vuelto casi indistinguible de la Fjordell.
 [[Hraggen\|Hraggen]] - Una nación del Imperio Fjordell. Se encuentra al sur de Fjorden.
 [[Jaador\|Jaador]] - Una nación en la parte sur del imperio, son étnicamente [[JinDo\|JinDo]], aunque gran parte de su cultura ha sido sustituida por la Fjordell.
 [[Jindo\|Jindo]] - Una nación del imperio Fjordell. Cuando los Fjordell comenzaron a expandirse, los JinDo, prefiriendo la paz a la lucha, se convirtieron externamente a [[Shu-Dereth\|Shu-Dereth]] y se unieron al Imperio.
-[[Duladel\|Duladel]] - Reino al oeste del imperio, se unieron al imperio Fjordell tras una sangrienta revolución, que terminó con la fundación de una monarquía pro Fjordell.
+[[Duladel\|Duladel]] - Reino al oeste del imperio, se unieron al imperio Fjordell tras una sangrienta revolución, que terminó con la fundación de una monarquía pro-Fjordell.
 ### Los Wyrns
 #### Importancia política
 Fjorden está gobernado por un [[Wyrn (t%C3%ADtulo)\|Wyrn]]. Parece que este puede hacer lo que desee dentro de Fjorden. Wyrn no gobierna directamente los otros reinos derethi sin embargo, en lugar de esto tiene una influencia significativa en ellos. Wyrn puede mandar a los monasterios de Fjordell, incluido [[Dakhor\|Dakhor]], que realicen ciertas tareas para él.
-Los Wyrns viven en el Zigareth, un palacio situado en la ciudad Fjordell de [[Widor\|Widor]]. Debido a esto se puede asumir que Widor funciona como la capital de Fjordell.
+Los Wyrns viven en el Zigareth, un palacio situado en la ciudad Fjordell de [[Widor\|Widor]].
 
 #### Importancia religiosa
 El título Wyrn es también el título del más alto sacerdote en la religión derethi. Se cree que sólo Wyrn es lo suficientemente santo como para comunicarse directamente con [[Jaddeth\|Jaddeth]]. Esto, combinado con la estricta cadena de mando derethi, hace que cada uno sirva al Wyrn. Debido a su posición como profeta de Jaddeth, Wyrn tiene una gran influencia dentro de todas las naciones derethi.
 Wyrn es también el [[/wiki/Shu-Dereth#Organizaci.C3.B3n y Jerarqu.C3.ADa]] de muchos sacerdotes importantes, como los gyorns.
 
 #### Títulos
-Los Wyrns tienen numerosos títulos, los títulos conocidos son: Emperador de Fjorden, Profeta de Shu-Dereth, Gobernante del reino sagrado de Jaddeth y Regente de toda la Creación. Este último título se refiere a su estado de gobernante hasta que Jaddeth se levante de su trono. Algunos sacerdotes también se refieren a él como su maestro.
+Los Wyrns tienen numerosos títulos. los que conocemos son: Emperador de Fjorden, Profeta de Shu-Dereth, Gobernante del reino sagrado de Jaddeth y Regente de toda la Creación. Este último título se refiere a su estado de gobernante hasta que Jaddeth se levante de su trono. Algunos sacerdotes también se refieren a él como su maestro.
 
 ### Política exterior y relaciones internacionales
 #### Arelon
-Los fjordell tienen malas relaciones con el pueblo areleno. Esto se debe principalmente a la diferencia de religión, los arelenos adoran tanto a [[Shu-Korath\|Domi]] como a los [[Elantrinos\|elantrinos]], lo que hace que los fjordell los vean como paganos. Además de que los fjordell han intentado en repetidas ocasiones conquistar Arelon, con poco o ningún éxito, lo que contribuye en gran medida a su odio hacia Arelon.
-Diez años después del [[Reod\|Reod]] Wyrn envió a algunos de sus monjes guerreros más feroces, los monjes del monasterio de Dakhor, a invadir Arelon y masacrar a los arelenos. Consiguió que entraran en Arelon sin que nadie se diera cuenta y, a las órdenes de Wyrn, comenzaron a masacrar a los arelenos, tanto nobles como plebeyos. Esta invasión fue detenida con el tiempo, pero empeoró significativamente las relaciones entre los fjordell y los arelenos.
+Los fjordell tienen malas relaciones con el pueblo areleno. Esto se debe principalmente a la diferencia de religión. Los arelenos adoran tanto a [[Shu-Korath\|Domi]] como a los [[Elantrinos\|elantrinos]], lo que hace que los fjordell los vean como paganos. Además, los fjordell han intentado en repetidas ocasiones conquistar Arelon, con poco o ningún éxito, lo que contribuye en gran medida a su odio hacia Arelon.
+Diez años después del [[Reod\|Reod]], Wyrn envió a algunos de sus monjes guerreros más feroces, los monjes del monasterio de Dakhor, a invadir Arelon y masacrar a los arelenos. Consiguió que entraran en Arelon sin que nadie se diera cuenta y, a las órdenes de Wyrn, comenzaron a masacrar a los arelenos, tanto nobles como plebeyos. Esta invasión fue detenida con el tiempo, pero empeoró significativamente las relaciones entre los fjordell y los arelenos.
+
+>“*The day Teod fell beneath Fjorden's glory would be a joyous day indeed.*”
+\-Hrathen[20]
 
 #### Teod
->“*The day Teod fell beneath Fjorden's glory would be a joyous day indeed.*”
-\-Hrathen
-
 Los fjordell también mantienen relaciones antagónicas con los [[Teod\|teoísos]]. Los fjordell les consideran sus archienemigos y rivales históricos. Muchos fjordell también asumen que no hay esperanza para ellos. Sin embargo, esto no es en realidad doctrina derethi, sino una simple justificación que infunde odio teológico a los enemigos históricos de Fjorden.
-Diez años después del [[Reod\|Reod]] los fjordell comenzaron a invadir Teod, navegando directamente hacia [[Teoras\|Teoras]]. Sin embargo, esta invasión fue detenida cuando [[Elantris (ciudad)\|Elantris]] fue restaurada y un ejército de [[Elantrino\|elantrinos]] llegó a Teoras. La invasión empeoró significativamente las relaciones entre los teoísos y los fjordell.
+Diez años después del [[Reod\|Reod]] los fjordell comenzaron a invadir Teod, navegando directamente hacia [[Teoras\|Teoras]]. Sin embargo, esta invasión fue detenida, [[Elantris (ciudad)\|Elantris]] fue restaurada y un ejército de [[Elantrino\|elantrinos]] llegó a Teoras. La invasión empeoró significativamente las relaciones entre los teoísos y los fjordell.
 
 #### El Imperio Rosa
 Los fjordell ven a la gente del Imperio Rosa como bárbaros, llamándolos los bárbaros Rosa. Parece que no interactúan mucho con estos pueblos. Se sabe que Svorden mantiene relaciones diplomáticas con el Imperio Rosa, aunque en los últimos años estas relaciones se han vuelto algo tensas. Hay un gyorn, que funciona esencialmente como embajador, estacionado en la [[Sede Imperial\|Sede Imperial]].

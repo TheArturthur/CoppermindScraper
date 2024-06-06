@@ -18,6 +18,10 @@ La **luz del vacío** es una forma gaseosa de [[Investidura\|Investidura]] asoci
 ## Sumario
 
 1 Adquisición y propiedades. [[#Adquisici.C3.B3n y propiedades]] 
+
+1. [[#Antiluz del vac.C3.ADo]] 
+
+
 2 Usos. [[#Usos]] 
 3 Curiosidades. [[#Curiosidades]] 
 4 Notas. [[#Notas]] 
@@ -28,6 +32,10 @@ Un cantor puede cantar la [[Canci%C3%B3n de plegaria\|Canción de plegaria]] par
 La luz del vacío se almacena en gemas de forma similar a la luz tormentosa, pero no se pueden almacenar ambos tipos de luz en una misma gema. Las gemas con luz del vacío pierden menos que las que tienen luz tormentosa.
 La luz del vacío tiene el aspecto de un vapor oscuro, morado y negro, con un brillo violeta. Cuando alguien está infundido con ella, la luz del vacío se extiende por la superficie de su piel en vez de hundirse en ella. Se puede hacer que la luz palpite sobre la piel y cuando la persona se mueve, deja un rastro de luz violeta. Sin embargo, los Fusionados no pierden luz del vacío.
 La luz del vacío tiene un efecto emocional similar a la luz tormentosa, pero en vez de dar una necesidad de moverse, causa un sentimiento de pasión elevada y las emociones se vuelven más vibrantes. Cuando entra en el cuerpo de un cantor, infunde principalmente la gema corazón en vez del cuerpo entero como la luz tormentosa. Los humanos pueden absorber luz del vacío si aprenden el tono y ritmo correctos.
+Su ritmo es descrito como "caos, pero con una cierta lógica extraña".
+
+### Antiluz del vacío
+La antiluz del vacío con un tenue color negro violáceo y parece deformar ligeramente el aire a su alrededor. Cuando interacciona con la luz del vacío, ambas se convierten en energía mediante una reacción explosiva.
 
 ## Usos
   Un <<Fusionado\|Fusionado>> brillando con luz del vacío

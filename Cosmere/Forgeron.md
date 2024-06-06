@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Forgeron** es un empleado de [[Carruajes y Diligencias Fornalla\|Carruajes y Diligencias Fornalla]] en [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
 La noche de la fiesta de [[Lady ZoBell\|Lady ZoBell]] en 342 [[Catacendro\|PC]], [[Cett (propietario de carruajes)\|el jefe de Forgeron]] recibió un informe de su [[Lanzamonedas\|lanzamonedas]] de que había un aumento de la demanda de carruajes a última hora de la noche, ya que se había estrenado una obra en la calle Bonnweather. Llamó a Forgeron, a  y a cualquier otro conductor disponible para trabajar.

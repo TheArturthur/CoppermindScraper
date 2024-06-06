@@ -3,13 +3,12 @@
 |-|-|
 |**Fundadores**|[[Gavilar\|Gavilar]] y [[Dalinar Kholin\|Dalinar Kholin]]|
 |**Líder**|[[Fisk\|Fisk]]|
-|**Cuartel General**|[[Kholinar\|Kholinar]]|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-La **Guardia de Cobalto** era la guardia de honor de la Casa Kholin de [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]]. Los miembros de la Casa Kholin eran el alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] y sus hijos [[Adolin Kholin\|Adolin Kholin]] y [[Renarin Kholin\|Renarin Kholin]].
+La **Guardia de Cobalto** es la guardia de honor de algunos miembros de la Casa Kholin de [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]].
 
 >“*We are the Cobalt Guard ... our duty is to protect Brightlord Adolin.*”
 \-Capitán Malan de la Guardia de Cobalto a Kaladin.[2]
@@ -44,7 +43,7 @@ Jefe de la Guardia de Cobalto (Actual) [[Fisk\|Fisk]]
 [[Marks (Roshar)\|Marks]]
 [[Malan\|Malan]]
 [[Koen\|Koen]]
-[[Moash\|Moash]] (Antiguo)
+[[Moash\|Moash]] (anteriormente)
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

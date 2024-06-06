@@ -9,7 +9,7 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 
 **Erlac** es una ciudad del [[Dominio Occidental\|Dominio Occidental]] en el [[Imperio Final\|Imperio Final]]. Erlac se encuentra al sureste del [[Lago Negro\|Lago Negro]] y del [[Monte de Ceniza\|Monte de Ceniza]] Faleast, y al noroeste de [[Urbene\|Urbene]].
-Al menos existía en el año 1021, poco antes del [[Colapso\|Colapso]].
+Al menos existía en el año 1021 [[Imperio Final\|IF]], poco antes del [[Colapso\|Colapso]].
 
 ## Curiosidades
 En la versión original del mapa del Imperio Final en la edición 10º Aniversario de Nacidos de la bruma, [[Suisna\|Suisna]] estaba situada en la ubicación actual de Erlac. Erlac lleva el nombre de , que señaló el error a Isaac Stewart de que Suisna debía estar situada en el Dominio Central, no en el Occidental. Isaac cambió esto en una reimpresión del mapa, y ahora la ciudad del Dominio Occidental se llama Erlac en honor a Eric.

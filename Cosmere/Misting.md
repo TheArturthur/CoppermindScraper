@@ -11,8 +11,6 @@
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 >“*La alomancia es brutal, cruda, y poderosa.*”
 \-Khriss en Sobre las artes metálicas[1]
 
@@ -162,6 +160,7 @@ Para más información, ver :Categoría:Alomantes.
 [[Ranette\|Ranette]]
 [[Demoux\|Demoux]]
 [[Jak\|Jak]]
+[[Shan Elariel\|Shan Elariel]]
 
 ## Desarrollo
 La alomancia ya estaba presente en la versión original de *Nacidos de la bruma* (ahora conocida como *[[Nacidos de la bruma Prime\|Nacidos de la bruma Prime]]*). En esa versión, la alomancia sólo tenía nacidos de la bruma y no brumosos. *Nacidos de la bruma Prime* no llegó a publicarse, y Brandon reutilizó posteriormente sus buenas ideas en *Nacidos de la bruma: El Imperio Final*. Para dar a este nuevo libro un aire de novela de atracos, Brandon añadió a los brumosos, para poder tener un equipo de especialistas con sus propias fortalezas distintivas.

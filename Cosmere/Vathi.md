@@ -9,6 +9,7 @@
 |**Etnia**|[[De las islas Eelakin\|de las islas Eelakin]]|
 |**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
 
 **Vathi** es una mujer de las [[Islas Eelakin\|islas Eelakin]] de [[Primero del Sol\|Primero del Sol]].
 

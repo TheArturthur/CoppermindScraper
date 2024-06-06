@@ -17,8 +17,6 @@
 |**Tipo**|Mental|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 El **bronce** es el metal de empuje mental interno. Un alomante que quema bronce es capaz de detectar la presencia de alomancia en las cercanías, sonando como golpes de tambor para los oídos del buscador. Los feruquimistas pueden usar el bronce para almacenar la capacidad de desvelarse y mantenerse de esa forma despiertos, cuando se usa como clavo hemalúrgico, el bronce roba los poderes alománticos mentales.
 El bronce es la aleación pareja del [[Cobre\|cobre]] en las Artes Metálicas.
 

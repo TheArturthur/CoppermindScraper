@@ -14,8 +14,6 @@
 
 Para el planeta, ver [[Sistema de Treno\|Sistema de Treno]].
 Para más imágenes, ver [[Eleg%C3%ADa Salvamento/Galer%C3%ADa\|/Galería]].
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 **Elegía Salvamento** es una [[Chamuscado\|chamuscada]] en [[C%C3%A1ntico\|Cántico]], y [[Estrella gu%C3%ADa\|estrella guía]] de [[Baliza\|Baliza]].

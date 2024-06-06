@@ -54,7 +54,7 @@ La aleación pareja del aluminio utilizada en las Artes Metálicas es el [[Dural
 
 
 ## Uso alomántico
-Los [[Brumoso\|brumosos]] de aluminio se conocen como **mosquitos de aluminio**. La quema de aluminio hace que el cuerpo metabolice instantáneamente sus reservas de metales sin ningún otro efecto. Como tal, un mosquito de aluminio no obtiene poderes utilizables de su alomancia, sin embargo, puede usarse para negar los efectos de otra investidura como el efecto marchitante de las [[Umbra\|umbras]] en [[Treno\|Treno]]. Solo los metales de importancia alomántica pueden quemarse. La alomancia no afecta al aluminio a pesar de que el metal en sí es alománticamente viable.
+Los [[Brumoso\|brumosos]] de aluminio se conocen como **mosquitos de aluminio**. La quema de aluminio hace que el cuerpo metabolice instantáneamente sus reservas de metales (incluído el aluminio) sin ningún otro efecto. Como tal, un mosquito de aluminio no obtiene poderes utilizables de su alomancia, sin embargo, puede usarse para negar los efectos de otra investidura como el efecto marchitante de las [[Umbra\|umbras]] en [[Treno\|Treno]]. Solo los metales de importancia alomántica pueden quemarse. La alomancia no afecta al aluminio a pesar de que el metal en sí es alománticamente viable.
 Dado que el aluminio puede proteger contra la alomancia emocional, aquellos que pueden permitírselo, a menudo usan sombreros forrados en aluminio. También se puede utilizar para bloquear el [[/wiki/Bronce#Uso alom.C3.A1ntico]].
 
 ### Savantismo

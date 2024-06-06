@@ -7,6 +7,7 @@
 |**Especie**|[[Heklo\|Heklo]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Cit%C3%B3nica (libro)\|Citónica]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
@@ -35,7 +36,7 @@ Vlep y una banda de piratas tendieron una emboscada a [[Spensa Nightshade\|Spens
 Cuando [[Hesho\|Hesho]] entró en la ninguna-parte, sin recuerdos, fue recogido por Vlep y la Facción Cañonera. Vlep reconoció su habilidad y lo reclutó, y Hesho se convirtió rápidamente en el campeón pirata, derrotando a [[Gremm\|Gremm]]. Antes del duelo entre Spensa y Hesho, Vlep ofreció a Spensa la oportunidad de unirse a su facción, sin darse cuenta de quién era. Después de que Spensa ganara, y [[Palo (Escuadr%C3%B3n)\|Palo]] hablara con los otros líderes de facción sobre un asalto combinado a [[Fuerteseguro\|Fuerteseguro]], Vlep se negó a escuchar, abandonando la arena abruptamente con el resto de su facción.
 
 >“*Ya deberías haber aprendido a no hacer tratos con piratas, Lorn*”
-\-Vlep a Lorn tras retirarse[7]
+\-Vlep a Lorn tras retirarse[6]
 
 Aunque las demás facciones piratas se pusieron del lado de Palo y formaron un asalto combinado contra Fuerteseguro, Vlep se alió con [[Lorn\|Lorn]] y la fuerza de defensa de la Supremacía. Después de que Spensa derrotara de nuevo a Hesho durante la batalla, Vlep se ofreció a abandonar la batalla si Palo le ofrecía inmunidad. Esta accedió, y Vlep recogió sus naves derribadas para marcharse. Intentó llevarse consigo a Hesho, que se negó y se quedó con Spensa, cambiando de aliado. Vlep se enfadó con él, pero abandonó la batalla con el resto de su facción. Después de la batalla, cuando los piratas se habían hecho con el control de Fuerteseguro, Palo seguía considerando a Vlep y a la facción de la Cañonera como una posible amenaza.
 

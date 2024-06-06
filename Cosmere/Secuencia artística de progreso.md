@@ -13,7 +13,7 @@ La secuencia artística de progreso es el nombre de la  en el [[Cosmere\|Cosmere
 ## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Truthwatch3r (talk) 19:08, 3 May 2024 (UTC)
+Truthwatch3r (talk) 19:08, 3 de mayo de 2024 (UTC)
 |**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
 |-|-|
 |**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|

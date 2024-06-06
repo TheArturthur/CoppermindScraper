@@ -1,7 +1,6 @@
 |**Mas allá**|
 |-|-|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Aparece en**|*[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]*, *[[El archivo de las tormentas\|El archivo de las tormentas]]*|
 
 >“*[El Reino Cognitivo] es el paso intermedio. Posterior a la muerte y anterior a… al Más Allá. Al Otro Lugar. Al que deben ir las almas.*”
 \-Leras explicando la relación entre el Reino Cognitivo y el Más Allá a Kelsier[1]

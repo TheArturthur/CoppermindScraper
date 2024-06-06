@@ -41,8 +41,8 @@
 \-The great mountains to the north  with their bald snowcaps and forested mantles  stand like watchful gods over this land of green fertility. My own lands to the south are mostly flat; I think that they might look less dreary if there were a few mountains to vary the terrain.
 
 
-El Scadrial clásico era muy parecido a la Tierra, con un cielo azul y un sol amarillo. Esto terminó con la ascensión del lord Legislador, que marcó el final de la era clásica de Scadrial.
-Durante este tiempo Scadrial también tenía muchos de los mismos animales y plantas que nuestra propia tierra, incluyendo caballos, flores y perros. La Profundidad, que llegó al final de la era, y la ascensión del lord Legislador destruyeron muchas especies.
+El Scadrial clásico tenía con un cielo azul y un sol amarillo. Esto terminó con la ascensión del lord Legislador, que marcó el final de la era clásica de Scadrial.
+Durante este tiempo Scadrial también tenía muchos de los mismos animales y plantas que Yolen, incluyendo caballos, flores y perros. La Profundidad, que llegó al final de la era, y la ascensión del lord Legislador destruyeron muchas especies.
 
 ### Lugares de interés
 [[Khlennium\|Khlennium]] - Una gran ciudad situada en algún lugar en el centro del continente del norte, las tierras a su alrededor eran en su mayoría planas.

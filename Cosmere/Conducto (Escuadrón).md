@@ -7,6 +7,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 Para el skaa del Imperio Final, ver [[Vent (Scadrial)\|Vent (Scadrial)]].
 Identificador **Conducto** es un miembro del [[Escuadr%C3%B3n Tormenta Nocturna\|Escuadrón Tormenta Nocturna]] y es el hermano de [[Nedd Strong\|Nedd]] y [[Tormenta Nocturna Siete\|Tormenta Nocturna Siete]]. Conducto vuela un caza azul de la clase [[Sigo\|Sigo]], su número de vuelo es el seis y es compañero de ala de su hermano.
