@@ -10,6 +10,7 @@
 |**Etnia**|Skaa, Noble|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Troalin** es un joven [[Noble\|noble]] de [[Ciudad Fadrex\|Ciudad Fadrex]], en [[Scadrial\|Scadrial]]. Era el primo de [[Lentoveloz\|Lentoveloz]] y tenía un hermano llamado [[Aledin\|Aledin]]. Su madre viuda fue ejecutada por haber tenido un romance con un sirviente skaa.
 

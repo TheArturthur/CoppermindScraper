@@ -65,7 +65,6 @@ Tras la abrupta salida de Shallan de Kholinar a través de la [[Puerta Jurada\|P
 Ishnah fue uno de los primeros miembros de [[La Corte Inadvertida\|La Corte Inadvertida]]. Formó parte del grupo que capturó a [[Ialai Sadeas\|Ialai]] y a los [[Hijos de Honor\|Hijos de Honor]] en los campamentos de guerra. 
 Ishnah fue elegida por [[Shallan\|Shallan]] para la misión en [[Integridad Duradera\|Integridad Duradera]]. Shallan sospechaba de ella como espía de los [[Sangre Espectral\|Sangre Espectral]], dado su interés en el grupo. [[Shallan\|Shallan]] buscó información y descubrió que Ishnah había estado destinando su estipendio a su banda anterior. Ella esperaba que utilizarían el dinero para bien, pero en realidad lo usaron para comenzar una nueva estafa. El grupo navegó desde las Escaleras de Nohadon hasta [[Innominado\|Innominado]], y luego se dirigieron en caravana hasta [[Integridad Duradera\|Integridad Duradera]].
 
-
 ## Relaciones
 Ishnah respeta la posición de Shallan entre los Sangre Espectral, y aunque arriesga mucho para unirse a Shallan, se desconoce el alcance de su lealtad. Ella es, de alguna forma, una mentora para Vathah, habiéndolo situado bajo su protección más que a cualquiera de los otros guardias de Shallan.
 [[Shallan\|Shallan]] considera que ella es uno de los miembros de [[La Corte Inadvertida\|La Corte Inadvertida]] en la que más puede confiar y la considera su mano derecha.

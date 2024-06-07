@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Lukel** es un comerciante [[Areleno\|areleno]] de [[Sel\|Sel]]. Es el hijastro de [[Kiin\|Kiin]].
 

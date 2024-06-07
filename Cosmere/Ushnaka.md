@@ -5,6 +5,7 @@
 |**Grupo**|[[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]🐱︎|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El alma del emperador\|El alma del emperador]]*|
 
 **Ushnaka** es un [[%C3%81rbitro\|árbitro]] de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] del [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]].
 Es miembro del consejo de cinco árbitros implicados en el complot para que [[Shai\|Shai]] restaure el alma del [[Ashravan\|emperador Ashravan]] mediante la [[Falsificaci%C3%B3n\|falsificación]].

@@ -9,6 +9,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 **Ulef** es un joven ladrón skaa de [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]].
 

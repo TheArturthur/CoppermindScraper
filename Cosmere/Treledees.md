@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 Para el miembro de [[Los Cinco Sabios\|los Cinco Sabios]], ver [[VaraTreledees\|VaraTreledees]].
 >“*¿Por qué debían los Retornados preocuparse por el despertar? Tienen todo lo que necesitan.*”

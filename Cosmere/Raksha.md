@@ -1,16 +1,19 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Raksha**|
 |-|-|
 |**Fallecido**|Ishi 1172|
-|**Oficio**|Member of Kaladin's squad in Amaram's army|
-|**Grupo**|Ejército de Amaram's, [[Kaladin's squad\|Kaladin's squad]]🐱︎|
+|**Oficio**|Miembro del escuadrón de Kaladin en el ejército de Amaram|
+|**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
-**Raksha** was a soldier in [[Amaram\|Amaram]]'s army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He was a member of [[Kaladin\|Kaladin]]'s squad.
-An unknown [[Veden\|Veden]] [[Shardbearer\|Shardbearer]] killed him, along with [[Toorim\|Toorim]], [[Hamel\|Hamel]], [[Acis\|Acis]], [[Navar\|Navar]] and eleven other members of [[Kaladin\|Kaladin]]'s squad. It was later discovered by [[Shallan Davar\|Shallan Davar]] by identification of his [[Shardblade\|Shardblade]], in the current possession of [[Amaram\|Amaram]], that the Veden Shardbearer was [[Helaran Davar\|Helaran Davar]].
+**Raksha** era un soldado del ejército de [[Amaram\|Amaram]] en [[Alezkar\|Alezkar]], [[Roshar\|Roshar]]. Era miembro del escuadrón de [[Kaladin\|Kaladin]].
+Un [[Portador de esquirlada\|portador de esquirlada]] [[Veden\|veden]] desconocido lo mató, junto con [[Toorim\|Toorim]], [[Hamel\|Hamel]], [[Acis\|Acis]], [[Navar\|Navar]] y otros once miembros del escuadrón de [[Kaladin\|Kaladin]]. Más tarde [[Shallan Davar\|Shallan Davar]] descubrió mediante la identificación de su [[Hoja esquirlada\|hoja esquirlada]], en posesión actual de [[Amaram\|Amaram]], que el portador de esquirlada veden era [[Helaran Davar\|Helaran Davar]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 13:52, 11 September 2018 (MST)

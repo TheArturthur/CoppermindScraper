@@ -33,7 +33,7 @@ Son brillantes y coloridos, al igual que los lugares donde las esporas de éter 
 
 ## Lunacuerdos
 ### Lunacuerdo glauco
-El lunacuerdo glauco se encuentra cerca de [[Punta de Diggen\|Punta de Diggen]] en el [[Mar Esmeralda\|mar Esmeralda]], visible desde entre cincuenta y sesenta millas a la redonda (unos 90 a 110 kilómetros).
+El lunacuerdo glauco se encuentra a unos 80 o 100 kilómetros de [[Punta de Diggen\|Punta de Diggen]] y es el origen de las [[Esporas de %C3%A9ter\|esporas de éter]] gla7uco que componen el [[Mar Esmeralda\|mar Esmeralda]].
 
 ### Lunacuerdo carmesí
 Mientras navegan por el [[Mar Carmes%C3%AD\|mar Carmesí]], [[Hoid\|Hoid]] describe el lunacuerdo de allí como "como un flujo de lava". Bajo la maldición de la [[Hechicera\|hechicera]], también sugiere que parece que la luna esté vomitando.

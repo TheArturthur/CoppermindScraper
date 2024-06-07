@@ -4,7 +4,6 @@
 |**Turinad Sebarial**|
 |-|-|
 ||
-|**Familia**|
 |**Ancestros**|[[Sadees\|Sadees]]|
 |**Títulos**|[[Alto pr%C3%ADncipe\|Alto príncipe]] de [[Alezkar\|Alezkar]], [[Alto Pr%C3%ADncipe de Comercio\|Alto Príncipe de Comercio]]|
 |**Grupo**|Ejército de Sebarial|
@@ -12,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*Los odio [a los otros altos príncipes]. Pero procuro odiar a todo el mundo. Así no corro el riesgo de dejar fuera a alguien que se lo merezca especialmente.*”
 \-Sebarial a Shallan Davar[2]

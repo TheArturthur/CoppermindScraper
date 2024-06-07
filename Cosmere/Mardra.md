@@ -9,6 +9,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Mardra** es una mujer [[Skaa\|skaa]] del [[Imperio Final\|Imperio Final]], en [[Scadrial\|Scadrial]].
 Está casada con [[Hammond\|Hammond]] y tiene dos hijos. Ella evita el lado más turbio de la vida de Ham viviendo en una ciudad satélite de [[Luthadel\|Luthadel]] y no llega a conocer a ninguno de sus amigos de la banda. Ella es costurera para mantener las apariencias y comenta que Ham trabaja en la [[Guarnici%C3%B3n de Luthadel\|Guarnición de Luthadel]]. Ham trabaja para permitirles emigrar lejos del [[Dominio Central\|Dominio Central]].

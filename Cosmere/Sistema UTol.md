@@ -6,8 +6,6 @@
 |**Planeta(s) importante(s)**|[[UTol\|UTol]], [[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 El **sistema UTol** es el sistema planetario en el que están los planetas [[UTol\|UTol]] y [[Komashi\|Komashi]], que forman un sistema binario que orbita su estrella. Esta estrella es, característicamente, de un tono entre rojo y naranja, y es más grande que la estrella del sistema roshariano. Además, sus planetas habitados están proporcionalmente más cerca de ella que en este otro sistema.
 [[Virtuosismo\|Virtuosismo]] se [[Astilla\|Astilló]] a sí misma en los alrededores del sistema UTol, dejando Astillas en Komashi y puede que en más sitios.
 Es posible que la [[Estaci%C3%B3n de paso Hierro Siete\|Estación de paso Hierro Siete]] esté también en las proximidades de este sistema planetario.

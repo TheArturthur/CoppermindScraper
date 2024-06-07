@@ -7,6 +7,7 @@
 |**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Torth** es un soldado [[Elis\|elisiano]] que viajó con la expedición de la duquesa [[Khrissalla\|Khrissalla]] al [[Lado Diurno\|Lado Diurno]], junto con el capitán [[Deral\|Deral]] y su teniente sin nombre, [[Flennid\|Flennid]] y otro soldado sin nombre. Su destino es desconocido.
 

@@ -7,6 +7,7 @@
 |**Especie**|[[Cantor\|Cantor]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*¿Qué aviva tu ira apasionada, Moash, humano que lleva el nombre de un antiguo cantor?*”
 \-Leshwi a Moash[1]

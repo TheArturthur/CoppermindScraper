@@ -7,7 +7,7 @@
 |**Mundo de origen**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-El ***Vista de Hierro*** es un navío de exploración costera en [[Scadrial\|Scadrial]].
+El ***Vista de Hierro*** es un navío de exploración costera de la [[Cuenca de Elendel\|Cuenca de Elendel]] en [[Scadrial\|Scadrial]].
 *[[El Diario de Elendel\|El Diario de Elendel]]* hizo un inusual reportaje acerca del navío en 341 [[Catacendro\|PC]]. Alrededor del año 339 [[Catacendro\|PC]], el *Vista de Hierro* fue arrastrado al mar por una tormenta. Se dio por perdido, y las familias de los navegantes creyeron que éstos estaban muertos.
 Según el periódico, cuando la tripulación se dio cuenta de que habían perdido el rumbo, navegaron hacia el este con la esperanza de hallar tierra. Eventualmente encontraron una isla llena de extraños animales. En la isla habái un náufrago que les contó la historia de cómo su barco había sido atacado por un "extraño pueblo marienro" que poseía metales desconocidos. El *Vista de Hierro* consiguió volver a la [[Cuenca de Elendel\|Cuenca de Elendel]] dos años después del incidente, en 341 [[Catacendro\|PC]], con el náufrago a bordo. La veracidad de esta historia es desconocida, pero la referencia a metales desconocidos implica que la gente que se llevó el barco del náufrago podrían haber sido [[Scadriano del sur\|scadrianos del sur]].
 

@@ -10,10 +10,10 @@
 |**Nacido en**|Finales del año 1153|
 |**Capacidades**|[[Orden de los Corredores del Viento\|Corredor del Viento]], [[Portador de esquirlada\|Portador de esquirlada]]|
 |**Vinculado con**|[[Sylphrena\|Sylphrena]]|
-|**Títulos**|Alto mariscal, capitán de los [[Hombres de los puentes\|hombres de los puentes]], Caballero Radiante, hijo de Tanavast, el Corredor del Viento, Capitan, el soldado caído|
+|**Títulos**|Alto mariscal, capitán de los [[Hombres de los puentes\|hombres de los puentes]], hijo de Tanavast, el Corredor del Viento, Capitan, el soldado caído, cabeza de la Guardia de Cobalto|
 |**Apodos**|Kaladin Bendito por la Tormenta, muchacho del puente, Kal|
 |**Oficio**|Soldado, hombre de los puentes , guardaespaldas , aprendiz de cirujano |
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin, Ejército de Amaram , Ejército de Sadeas , Escuadrón de Kaladin , [[Tomadores\|Tomadores]] , [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]]🐱︎ |
+|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin, Ejército de Amaram , Ejército de Sadeas , Escuadrón de Kaladin , [[Tomadores\|Tomadores]] , [[Cobalt Guard\|Cobalt Guard]]🐱︎, [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]]🐱︎ |
 |**Lugar de nacimiento**|[[Piedralar\|Piedralar]]|
 |**Residencia**|[[Piedralar\|Piedralar]]🐱︎ , [[/wiki/Las Llanuras Quebradas#Los campamentos de guerra]]🐱︎, [[Urithiru\|Urithiru]]🐱︎|
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
@@ -24,7 +24,7 @@
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Yo tampoco sé lo que soy. ¿Un hombre del puente? ¿Cirujano? ¿Soldado? ¿Esclavo? Solo son etiquetas. Dentro, soy yo. Un yo muy distinto del que era hace un año, pero no puedo preocuparme por eso, así que sigo adelante y espero que mis pies me lleven adonde necesito ir.*”
-\-Kaladin a Sylphrena[3]
+\-Kaladin a Sylphrena[5]
 
 
 **Kaladin**, apodado **Kal**, conocido como **Kaladin Bendito por la tormenta**, es un [[Orden de los Corredores del Viento\|Corredor de Viento]] de los [[Caballeros Radiantes\|Caballeros Radiantes]] de [[Alezkar\|Alezkar]]. A pesar de haber sido entrenado como cirujano desde una edad temprana por [[Lirin\|su padre]], su profesión elegida es la de soldado. Es famoso por ser el capitán de la guardia personal del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]], una unidad conocida como [[Puente Cuatro\|Puente Cuatro]], comandante del batallón de los [[Hombres de los puentes\|hombres de los puentes]] y alto mariscal de la Orden de los Corredores del Viento.
@@ -186,7 +186,7 @@ Kaladin es un hombre muy alto incluso para los estándares alezi, midiendo aprox
 
 ### Personalidad
 >“*La autoridad no viene del rango. [Viene] de los hombres que te la dan. Es la única forma de conseguirla.*”
-\-Kaladin[3]
+\-Kaladin[5]
 
 
 Kaladin es un líder natural que inspira fe y confianza en sus hombres. Los miembros de su escuadrón en el ejército de [[Amaram\|Amaram]] le llaman afortunado y creen que estar en su escuadrón les otorga una protección sobrenatural. Kaladin también transforma el [[Puente Cuatro\|Puente Cuatro]] de un grupo abatido y desanimado con la peor reputación, en una fuerza de combate altamente motivada y eficaz. [[Dalinar Kholin\|Dalinar Kholin]] comenta que sus hombres son notablemente leales y tienen un gran concepto de él.
@@ -245,7 +245,7 @@ Dos meses después, Kal, de trece años, intentó tratar por su cuenta a una ni�
 
   Kal y Tien de jóvenes
 >“*Tienes que aprender cuándo preocuparte, hijo. Y cuándo dejarlo correr.*”
-\-Lirin a Kal tras la muerte de Miasal[66]
+\-Lirin a Kal tras la muerte de Miasal[67]
 
 Casi a finales de 1166, Kal caminaba por la ciudad de [[Piedralar\|Piedralar]] cuando escuchó a dos mujeres afirmando que Lirin había robado las esferas del consistor [[Wistiow\|Wistiow]] al morir. Apretando los dientes y sabiendo que se trataba de su padre, Kal salió del callejón y lanzó una mirada mordaz a una de las mujeres, haciendo que ambas huyeran al interior de la panadería. Su satisfacción duró poco, ya que no entendía por qué la gente decía esas cosas de su padre. Todavía estaba reflexionando cuando dobló unas cuantas esquinas, caminando hacia donde su madre estaba de pie en una escalera de mano. Cuando [[Hesina\|Hesina]] le preguntó por sus lecciones, soltó que todos odiaban a su padre y que creían que había robado las esferas de Wistiow. También se lamentó de no tener amigos y se preguntó qué pasaría si quisiera convertirse en otra cosa que no fuera cirujano. Hesina le recordó que tenía a [[Tien\|Tien]] y que no debía descartar tan rápido sus estudios por querer ser como los demás. También le dijo que no odiara a los habitantes de la ciudad, ya que sólo repetían lo que habían oído. Al ver su mirada hacia la mansión del consistor, Kal se debatió si debía o no intentar ver a [[Laral\|Laral]] de nuevo. Cada vez que lo había intentado, había sido rechazado por su ama. Se preguntó cómo sería casarse con Laral y, de hacerlo, si se sentiría siempre inferior a ella. Todavía estaba considerando este hecho y debatiendo si ser o no cirujano o soldado cuando [[Lirin\|Lirin]] entró corriendo declarando que el nuevo consistor había llegado.
 
@@ -254,13 +254,13 @@ Kaladin fue con sus padres a la plaza de la ciudad para esperar la llegada del c
 La llegada del consistor [[Roshone\|Roshone]] trajo consigo una gran desgracia para la familia de Kaladin. Creyendo que [[Lirin\|Lirin]] había robado las esferas de [[Wistiow\|Wistiow]], obligó a los habitantes del pueblo a dejar de hacer donaciones por el trabajo de Lirin, que era la principal fuente de ingresos de la familia. Aunque los habitantes del pueblo aceptaron, siguieron proporcionando provisiones en secreto a Lirin y [[Hesina\|Hesina]]. Una noche, mientras estaba borracho, Lirin le dijo a su hijo que no cometiera los mismos errores que él y se dejara arrastrar por este “pueblucho atrasado y necio”. Kal argumentó que Lirin siempre le había dicho que volviera, pero Lirin admitió que había sido un idiota cuando dijo eso, y añadió que la gente del pueblo no lo quería allí. Kal le preguntó por qué no podían gastar las esferas, pero su padre dijo que las esferas eran para su educación. Además, si las gastaban, estarían haciendo exactamente lo que Roshone quería que hicieran. En cambio, hicieron lo mejor que pudieron con lo que tenían: Kal continuó sus estudios, [[Hesina\|Hesina]] aceptó trabajos aleatorios y [[Tien\|Tien]] se convirtió en aprendiz de [[Ral\|Ral]], un carpintero de la ciudad. Al mismo tiempo, Kal seguía intentando decidir en secreto qué camino tomaría en los próximos meses, el de cirujano o el de lancero. Una serie de golpes interrumpió los pensamientos de Kal, haciéndole saltar de la silla. Su padre abrió la puerta revelando no un monstruo, sino tres hombres enmascarados que exigían las esferas. Sin embargo, no eran bandidos, como Kaladin pensó en un principio, sino [[Luten\|Luten]], [[Horl\|Horl]] y [[Balsas\|Balsas]], hombres normales del pueblo presumiblemente contratados por Roshone. Avergonzados y con la guardia baja, los hombres se marcharon sin llevarse nada.
 
 >“*Si vas a enfrentarte a él, tendrías que tener a alguien que te apoyara.*”
-\-Kala su padre antes de la cena con Roshone[69]
+\-Kala su padre antes de la cena con Roshone[70]
 
 Medio año después, [[Roshone\|Roshone]] invitó a [[Lirin\|Lirin]] a cenar a la mansión. Aunque Lirin y [[Hesina\|Hesina]] intentaron ocultarle la reunión, Kal se enteró y asistió, pues quería apoyar a su padre si se enfrentaba al consistor de la ciudad. Mientras atravesaban la ciudad, le preguntó a su padre por qué habían intentado ocultar la reunión. Lirin admitió que ni siquiera estaba seguro de querer asistir, ya que una parte de él sólo quería coger a la familia y huir a [[Kharbranth\|Kharbranth]] o a otra ciudad [[Alezi\|alezi]]. Lirin confesó que había intentado marcharse una vez, pero había un vínculo entre el corazón de un hombre y su hogar y no se atrevía a marcharse. Después de haber cuidado de la gente del pueblo durante tanto tiempo, no podía dejarla en manos de Roshone. Una vez que llegaron, fueron conducidos a un comedor donde Roshone ya estaba comiendo. Un sirviente les indicó una mesa lateral dispuesta en una sala apartada del comedor principal, pero Lirin se sentó en la mesa de Roshone insistiendo en que él era de segundo nahn y seguramente podría tener un lugar en su mesa. Sin perder tiempo, Roshone discutió su situación actual y les pidió que devolvieran las esferas, poniendo fin a su desafío. Cuando Kal respondió con un estallido, Lirin lo envió a las cocinas. Allí, el hijo de Roshone, [[Rillir\|Rillir]], entró con [[Laral\|Laral]], y confundiendo a Kaladin con un sirviente, le ordenó que les trajera la cena. Kal, protestando porque no era un sirviente, perdió una discusión sobre su llamada con Rillir, dejándolo humillado. Cuando Lirin y Kal abandonaron la mansión, este último admitió a su padre que había estado considerando la posibilidad de alistarse en el ejército. Sin embargo, había decidido convertirse en cirujano para tener la educación necesaria para enfrentarse a los ojos claros. Durante su conversación, Kal vio algo desconocido en los ojos de su padre, culpabilidad. Entonces se dio cuenta de que, efectivamente, Lirin había robado las esferas a [[Wistiow\|Wistiow]], cambiándolo todo, pero a la vez sin cambiar nada. Resolvió utilizar las esferas para su educación, pero finalmente se las devolvería a Laral.
 
 #### Alguien tiene que empezar
 >“*Alguien tiene que empezar. Alguien tiene que dar un paso al frente y hacer lo que es justo, porque es justo. Si nadie empieza, los demás no pueden seguirlo. (...) Porque no, hijo. Tenemos que ser mejores que ellos.*”
-\-Lirin a Kaladin[70]
+\-Lirin a Kaladin[71]
 
 
 Durante una jornada de caza, [[Roshone\|Roshone]] y [[Rillir\|Rillir]] resultaron gravemente heridos por un [[Espinablanca\|espinablanca]] y fueron llevados a la sala de operaciones de [[Lirin\|Lirin]]. Kaladin y Lirin determinaron que las heridas de Rillir ya eran mortales y atendieron a Roshone a pesar de sus protestas. Anestesiaron a ambos pacientes, a Roshone para la cirugía y a Rillir por piedad. Durante el procedimiento, Lirin dudó cuando descubrió un trozo de colmillo del espina blanca cerca de la arteria femoral de Roshone. Kaladin consideró lo fácil que sería fingir un accidente, pero siguieron adelante para salvar la vida de Roshone mientras Rillir moría. Cuando Kaladin le preguntó a su padre por qué no dejó morir a Roshone, Lirin le respondió que tenían que ser mejores hombres que los ojos claros.
@@ -270,7 +270,7 @@ En [[El Llanto\|el Llanto]] de 1168, Kaladin se descubrió esperando con cada ve
 Sin embargo, duró poco, ya que Kaladin admitió su preocupación por el hecho de que su padre tuviera que gastar las esferas no sólo a [[Tien\|Tien]], sino también a su madre. [[Hesina\|Hesina]] le prometió que habría suficientes esferas para ir a [[Kharbranth\|Kharbranth]] en dos meses. Kaladin sugirió que tal vez toda la familia debería ir con él, pues no quería dejarlos atrás, especialmente con Roshone "estrangulándolos". Hesina informó a Kaladin de que sólo habían gastado las esferas para hacer creer a [[Roshone\|Roshone]] que estaba ganando, no porque lo necesitaran. Una vez que Kaladin se fuera, las esferas estarían a salvo en manos de los fervorosos mientras él estudiaba para convertirse en cirujano. Sin embargo, Hesina le recordó que su vida era suya y que no tenía que convertirse en cirujano para enorgullecerles. Estuvieron sentados un rato, Kaladin considerando sus palabras y lo que podría gustarle a Tien de la lluvia, cuando Lirin llegó con la noticia de que había una reunión en la plaza.
 
 >“*Dentro de cuatro años, lo traeré sano y salvo a casa. Lo prometo por las tormentas y el décimo nombre del mismísimo Todopoderoso. Lo traeré de vuelta.*”
-\-La promesa de Kaladin a sus padres[17]
+\-La promesa de Kaladin a sus padres[19]
 
 [[Roshone\|Roshone]] reunió a la gente del pueblo cuando [[Meridas Amaram\|Meridas Amaram]], un general del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Torol Sadeas\|Sadeas]], llegó a [[Piedralar\|Piedralar]] para reclutar soldados para el ejército. Allí, Kaladin y su familia se sorprendieron al saber que [[Laral\|Laral]] se había comprometido con el propio Roshone tras la muerte de [[Rillir\|Rillir]]. Mientras tanto, como sólo se habían presentado seis hombres como voluntarios, Amaram pidió a Roshone que anunciara la lista de reclutas. Como consistor de la ciudad, Roshone no podía incluir a [[Lirin\|Lirin]] ni a Kaladin en la lista de reclutas porque cumplían una función vital para la ciudad. Sin embargo, Roshone incluyó el nombre de [[Tien\|Tien]] en la lista. Cuando Kaladin trató de ocupar el lugar de su hermano, le fue denegado porque la ley dejaba la elección en manos de Roshone. Sin otra opción,se alistó en el ejército para proteger a Tien y prometió a sus devastados padres que traería a su hermano de vuelta sano y salvo en cuatro años. Amaram también prometió a Lirin que convertiría a Tien en mensajero durante un tiempo.
 
@@ -279,13 +279,13 @@ Sin embargo, duró poco, ya que Kaladin admitió su preocupación por el hecho d
 Kaladin recibió su entrenamiento inicial bajo las órdenes de [[Tukks\|Tukks]], quien le enseñó la importancia de la pasión controlada (ser apasionado y preocuparse sin perder el control de sus emociones), una lección que al principio no comprendió. Durante su entrenamiento, demostró una aptitud natural para ser un soldado, aprendiendo a usar la lanza más rápido que cualquier otro de su compañía, sin apenas necesitar instrucción, para sorpresa de Tukks. Tras quedarse paralizado en el campo de batalla la primera vez, Kaladin fue asignado por Tukks a tareas de limpieza. No para castigarlo, sino para ayudarlo a encajar más. Tukks le explicó cómo muchos soldados luchan contra la necesidad de herir al enemigo. Sin embargo, Kaladin no creía que le hubiera paralizado el miedo de herir a alguien, sino el darse cuenta de que podía matar si era necesario.
 
 >“*Es bueno preocuparse cuando luchas, mientras no dejes que te consuma. No intentes impedir tener sentimientos. Odiarás en lo que te convertirías entonces.*”
-\-Tukks a Kaladin en su primer día de entrenamiento[47]
+\-Tukks a Kaladin en su primer día de entrenamiento[48]
 
 
   Kaladin abrazando el cuerpo muerto de Tien
 #### Muerte de Tien
 >“*No te preocupes. Te llevaré a casa. Te protegeré, Tien. Te llevaré...*”
-\-Kaladin llorando sobre el cuerpo de Tien[39]
+\-Kaladin llorando sobre el cuerpo de Tien[41]
 
 A pesar de la promesa de [[Amaram\|Amaram]] a [[Lirin\|Lirin]], los mensajeros más mayores, incluido [[Tien\|Tien]], pronto fueron organizados en varios escuadrones de unidades de reserva para compensar la falta de reclutamiento. [[Dalar\|Dalar]] aseguró a Kaladin que estos escuadrones no verían el combate a menos que el ejército estuviera en grave peligro. Menos de cuatro meses después de su alistamiento, Kaladin participó en su tercera batalla real. El ejército de Amaram intentaba mantener la cima de una colina, pero a medida que la batalla empeoraba, los mensajeros fueron asignados a la compañía de [[Sheler\|Sheler]]. Al oír que el escuadrón de mensajeros había sido enviado al frente, Kaladin corrió temerariamente por el campo de batalla en un intento de alcanzar a su hermano. En el lado sureste de la colina, el jefe de pelotón [[Varth\|Varth]] colocó a Tien y a otros dos chicos en el frente, utilizándolos con éxito como cebo. Kaladin, matando a un hombre por primera vez durante su carrera, alcanzó a Tien sólo después de que éste hubiera muerto. Llorando y sangrando por las heridas recibidas durante su carrera, abrazó el cadáver de Tien hasta mucho después del final de la batalla.
 
@@ -301,7 +301,7 @@ Inmediatamente después, un enemigo desconocido, un portador de esquirlada compl
 #### Traición
   Marcando a Kaladin
 >“*¡No es por Alezkar! ¡Es por ti! ¡Tormentas, se supone que eres mejor que los demás!*”
-\-Kaladin a Amaram[54]
+\-Kaladin a Amaram[55]
 
 
 Unas horas más tarde, fue llamado al centro de operaciones de [[Amaram\|Amaram]], donde se encontró con Amaram y un grupo de sus hombres junto con los cuatro miembros supervivientes de su escuadrón. Tras una breve conversación, Amaram y sus hombres les tendieron una emboscada, matando a los miembros supervivientes del escuadrón de Kaladin mientras éste era retenido. Amaram se disculpó, pero dijo que era la única manera de asegurar el secreto. Informó a Kaladin de que lo había pensado durante horas antes de que [[Restares\|Restares]] le convenciera de que los intereses de Alezkar se verían beneficiados si él mismo empuñaba las Esquirlas. Como acto de piedad y gratitud, Amaram perdonó la vida a Kaladin y le marcó con el [[Glifopar\|glifopar]] “[[/wiki/Glifos/%C3%8Dndice#Sas]] [[/wiki/Glifos/%C3%8Dndice#Nahn]]” para marcarlo como esclavo que sería vendido.
@@ -346,7 +346,7 @@ Kaladin consiguió que todos los hombres se sometieran a su autoridad y particip
 #### El juicio del Padre Tormenta
   Kaladin siendo abatido por la tormenta
 >“*Quiero que volváis al barracón y le digáis a los hombres que salgan después de la tormenta. Decidles que vengan a verme atado aquí. Decidles que abriré los ojos y los miraré, y así sabrán que sobreviví.*”
-\-Kaladin a Roca, Teft, y Moash antes de la alta tormenta[82]
+\-Kaladin a Roca, Teft, y Moash antes de la alta tormenta[83]
 
 
 Como castigo por el error, el [[Torol Sadeas\|alto príncipe Sadeas]] degradó a varios oficiales y ejecutó a [[Lamaril\|Lamaril]], el oficial ojos claros que estaba a cargo directamente de los hombres de los puentes. Sadeas se negó a ejecutar a Kaladin directamente, pero en su lugar decidió dejar que el [[Padre Tormenta\|Padre Tormenta]] lo juzgara. Kaladin sería liberado si lograba sobrevivir a ser atado al lado del barracón del [[Puente Cuatro\|Puente Cuatro]] durante la tormenta. Antes de esta, [[Roca\|Roca]], [[Teft\|Teft]] y [[Moash\|Moash]] fueron a ver a Kaladin y le prometieron que le recordarían. Kaladin les pidió que dijeran a los hombres que salieran después de la tormenta y que verían que había sobrevivido. Teft le dio a Kaladin una esfera opaca para que le diera buena suerte y los hombres se retiraron a los barracones mientras se acercaba la tormenta. Mientras esta se desataba y golpeaba a Kaladin, [[Syl\|Syl]] le dijo que se agarrara al techo y luego a la anilla a la que estaba atada su cuerda. Él hizo lo que ella le dijo sabiendo que si se soltaba, volvería a estar colgado en el aire. Sin embargo, la lluvia le entumeció los dedos y le hizo resbalar, agitándose de nuevo en el aire. Al chocar contra el techo, todo se volvió negro y silencioso. Durante la oscuridad, Kaladin se encontró con el Padre Tormenta en forma de una gigantesca e inhumana cara. Inmediatamente después, se manifestaron las habilidades de [[Potenciaci%C3%B3n\|potenciación]] de Kaladin y extrajo la [[Luz tormentosa\|luz tormentosa]] de la esfera azul resplandeciente antes de caer inconsciente.
@@ -401,7 +401,7 @@ Tras las enormes bajas sufridas en la [[Batalla de la Torre\|Batalla de la Torre
 Una vez se hubieron puesto de acuerdo, reunieron al resto de los hombres del [[Puente Cuatro\|Puente Cuatro]] y fueron a cubrir sus marcas de esclavos con tatuajes. [[Hobber\|Hobber]] se sentó primero y cada hombre le siguió, recibiendo tatuajes que decían "Libertad, Puente Cuatro". Kaladin se sentó el último, cerró los ojos y esperó a que la tatuadora terminara. Esta maldijo, revelando que la tinta del tatuaje no se fijaba. Kaladin suspiró, dándose cuenta de que estaba reteniendo inconscientemente luz tormentosa en sus venas. Expulsó la [[Luz tormentosa\|luz tormentosa]] y volvió a intentarlo, y esta vez la tinta se mantuvo. Al mirarse en el espejo vio sus marcas de esclavo cubiertas por un momento. [[Syl\|Syl]] se posó en su hombro e inconscientemente Kaladin aspiró luz tormentosa que derritió el tatuaje. La tatuadora volvió a maldecir y recogió su trapo, preparándose para volver a intentarlo. Sin embargo, él insistió en que estaba bien y lanzó una pequeña bolsa de esferas a la tatuadora.
 
 >“*Parece que las cicatrices no han acabado conmigo. Lo intentaré de nuevo en otra ocasión.*”
-\-Kaladin al resto del Puente Cuatro cuando su tatuaje se derritió[91]
+\-Kaladin al resto del Puente Cuatro cuando su tatuaje se derritió[92]
 
 A la vuelta del [[Puente Cuatro\|Puente Cuatro]] al barracón, [[Rind\|Rind]] les esperaba con sus nuevos uniformes de la [[Guardia de Cobalto\|Guardia de Cobalto]]. Mientras los hombres se los probaban entusiasmados, [[Teft\|Teft]] dudaba, inseguro de si merecía volver a llevar algo así. Kaladin se opuso, diciendo que el uniforme era lo que él era y que no debía dejar que su parte de esclavo lo gobernara. Teft contraatacó, preguntando a Kaladin cuándo iba a admitir que estaba haciendo lo mismo. Teft trató de convencerle de que tenía que admitir a [[Dalinar\|Dalinar]] que era un [[Potenciador\|potenciador]] y un [[Ojos claros\|ojos claros]]. Sin embargo, Kaladin le confesó que los ojos claros se lo habían quitado todo y que, por ahora, no podía dejar que le quitaran esto también. Dejando el tema, Teft se puso el uniforme y se unió a los demás. Con los uniformes bien arreglados, los hombres cortaron la insignia de la Guardia de Cobalto, declarándose Puente Cuatro.
 
@@ -427,7 +427,7 @@ Tras aceptar la oferta de Zahel de entrenarlo, Kaladin, Teft, Moash y [[Yake\|Ya
 Kaladin estaba supervisando algunas de las otras cuadrillas de los puentes una noche cuando Syl le convenció de que fuera a relajarse un poco y a por algo de estofado. De vuelta en los barracones del Puente Cuatro, se cruzó con tres herdazianos: los "primos" de Lopen. Kaladin encontró a [[Shen\|Shen]] apilando sacos de arroz en la sala de almacenamiento, y aprovechó para disculparse por dudar sobre si darle armas o no. Tras entregarle una lanza a Shen, Moash lo llamó. Ante su insistencia, Kaladin accedió a acompañarlos a él y algunos otros hombres de los puentes a beber. Al llegar, [[Peet\|Peet]] les consiguió una mesa y Roca contó la historia de su gente. Poco después, Moash se llevó a Kaladin aparte y se reunieron con [[Graves\|Graves]] y algunos otros, incluyendo a [[Danlan\|Danlan]], una mujer a la que Adolin había cortejado previamente. Graves pidió a Kaladin que considerara ayudarlos en su misión de asesinar a Elhokar, a lo que el capitán accedió, aunque reacio, para disgusto de Syl. Mientras se marchaban, Kaladin prohibió a Moash que hablara o se reuniera con Graves y los otros de nuevo.
 
 >“*¿Cuánto tiempo había pasado desde que se sintió así de bien, así de triunfante, así de vivo?*”
-\-Kaladin reflexionando sobre su vuelo[28]
+\-Kaladin reflexionando sobre su vuelo[30]
 
 Una noche, Kaladin se paseó por las Llanuras Quebradas buscando el lugar en el que se encontró con Sagaz hacía meses. Al llegar al sitio, Kaladin saltó al abismo. Tras absorber luz tormentosa para aterrizar con cuidado, echó a correr y practicó enlazándose a sí mismo a las paredes. Pasado un rato, era capaz de hacerlo sin tropezarse; en breve logró enlazarse más rápido y con más precisión. Dejando de lado la cautela, se enlazó hacia arriba, hacia el cielo, y experimentó una libertad y un triunfo reales por primera vez desde la muerte de Tien. Pronto, sobrevoló abismos y mesetas a velocidades increíbles. Kaladin se enlazó cada vez más alto antes de volver al suelo con reticencia, temiendo agotar su luz tormentosa. Charló con Syl un rato antes de regresar a los campamentos de guerra. En lugar de ir hacia el de Dalinar, viajó hasta el de Sadeas y cayó en la cuenta de que podría matar a Amaram ahí mismo, esa misma noche. Syl le suplicó que no lo hiciera y le recordó la experiencia que acababa de vivir. Decidido a no empañar ese recuerdo, Kaladin volvió al campamento de Dalinar. A su regreso se cruzó con Shen, que dijo que necesitaba marcharse, y le confesó a Kaladin su verdadero nombre: Rlain. Entonces, se fue.
 Adolin tenía asignado a Kaladin como guardaespaldas el día que se suponía que iba a salir con Shallan. A medida que avanzaban hacia el carruaje, Kaladin se percató de que el conductor no era otro que Sagaz. Ambos conversaron mientras el carruaje circulaba, y Sagaz reveló que sabía de las habilidades de Kaladin. Al llegar al campamento de Sebarial, Shallan, para sorpresa de todos, abrazó a Sagaz. Kaladin acompañó a la pareja a una casa de fieras en el Mercado Exterior. De camino, fue dentro del carruaje con Adolin y Shallan porque sospechaba de ella. Al llegar a su destino, Kaladin se dio cuenta de que Sagaz ya no estaba, habiendo sido reemplazado por uno de los sirvientes de Adolin. Kaladin habló con Syl y paseó con la pareja mientras estos contemplaban a los animales. Poco después, Dalinar llegó acompañado de Amaram, que vestía una extraña capa. El alto príncipe anunció entonces que los Caballeros Radiantes habían sido restaurados con Amaram a la cabeza.
@@ -435,7 +435,7 @@ Adolin tenía asignado a Kaladin como guardaespaldas el día que se suponía que
   El duelo
 #### El duelo de Adolin
 >“*El honor ha muerto. Pero veré qué puedo hacer. Si sale mal, cuida de mis hombres.*”
-\-Kaladin a Dalinar antes de lanzarse a la arena.[103]
+\-Kaladin a Dalinar antes de lanzarse a la arena.[104]
 
 
 Durante el duelo de Adolin contra [[Relis Ruthar\|Relis Ruthar]], [[Elit Ruthar\|Elit Ruthar]], [[Abrobadar\|Abrobadar]] y [[Jakamav\|Jakamav]], Kaladin se encontraba escoltando a Dalinar y a Elhokar mientras contemplaban la lucha. Tras ver a Renarin saltando a la arena y siendo inmediatamente desarmado, Kaladin proclamó que el honor había muerto antes de pedirle a Dalinar que cuidara de sus hombres si las cosas salían mal. Entonces, saltó a la arena para ayudar a Adolin.
@@ -562,12 +562,12 @@ Cuando se acercaron a su destino, Kaladin se sentía un poco mejor. Syl se acerc
 Después de utilizar la Puerta Jurada a Urithiru, Kaladin reflexionó sobre cómo casi no le quedaban escuderos, ya que la mayoría del Puente Cuatro se habían convertido en Caballeros y habían tomado sus propios escuderos. Muchos de ellos invitaron a Kaladin a unirse a ellos para una u otra actividad, pero él los rechazó a todos y quiso estar solo. En el momento en que entró en sus habitaciones se derrumbó. Se hundió junto a la puerta y sus emociones lo abrumaron, con el agotamiento y la agonía inundándolo. Volvió a pensar en las palabras de Moash, en que todo el mundo iba a morir y él no podría impedirlo. Salió de sus pensamientos cuando alguien empezó a llamar a la puerta. Era Adolin, que había sido llevado allí por Syl. El alto príncipe insistía en que Kaladin se uniera a él para salir por la noche y no aceptaba más excusas. Kaladin se vio obligado a admitir que no debía quedarse solo esa noche, y cuando se fueron le dio las gracias a Syl.
 
 >“*¿Es que hay alguien a quien no le gusten las listas?*”
-\-Kaladin en respuesta a Velo cuando ella mencionó que a Kal le gustaban las listas[169]
+\-Kaladin en respuesta a Velo cuando ella mencionó que a Kal le gustaban las listas[170]
 
 Adolin los llevó a su cantina favorita, [[El Deber de Jez\|El Deber de Jez]], donde tenía su propio reservado en el que [[/wiki/Shallan#Velo]] ya estaba sentada. Cuando llegó la [[Mel\|camarera]] pidió un vino naranja, pues sabía que el alcohol le sentaría mal en su estado de ánimo actual. Velo y Kaladin intercambiaron informes sobre sus respectivas misiones. Radiante tomó el relevo y explicó que habían encontrado un equilibrio como las Tres, pero que le estaban ocurriendo otras cosas. Kaladin admitió que no estaba seguro de poder ayudar, ya que él mismo apenas podía mantener el equilibrio. Adolin regresó, y él y Velo hablaron de la fiesta de la boda que se estaba celebrando y de cómo Kaladin no se había fijado en la gente del bar. Velo cambió el tema de la conversación por el de encontrar a alguien con quien emparejar a Kaladin, para horror del Corredor del Viento. Adolin y Velo se turnaron para sugerir mujeres, y Kal las rechazó a todas. Esto continuó hasta que Velo se fue a buscar otra bebida.
 
 >“*Hazle saber que te importa. Escúchala. Dale ánimos, pero no intentes obligarla a ser feliz. Y no dejes que esté sola, si te preocupas por ella, porque...*”
-\-El consejo que Kaladin da a Adolin para ayudar a Shallan[169]
+\-El consejo que Kaladin da a Adolin para ayudar a Shallan[170]
 
 Tras un rato de silencio, Adolin se sentó más cerca de Kaladin. Preguntó qué sucedía, y finalmente Kaladin admitió que había sido relevado del cargo. Adolin respondió con apoyo e incluso propuso que su padre podría estar equivocado. No sabía cómo hacerlo, pero quería ayudar, pensando que eso también podría proporcionarle una forma de ayudar a Shallan. El alto príncipe acabó consiguiendo que Kaladin le diera algunos consejos sobre cómo ayudar a Shallan, y las sugerencias de Kaladin fueron exactamente las cosas que Adolin había hecho por él aquella noche. El chico del puente llamó idiota a su compañero y sugirió que debían conseguirle un spren, diciendo que deshacerse de su espada esquirlada ayudaría; Adolin se negó rotundamente. Más tarde, Velo se unió a ellos y la velada continuó.
 Dos horas más tarde, cuando Roca llegó a la mesa, Adolin y Velo se marcharon para dejarles hablar a solas. Kaladin intentó evitar la conversación, pero Roca insistió, ya que Kaladin se había negado varias veces antes. Roca estuvo de acuerdo en que había sido bueno esperar y dar tiempo a su familia para descansar, pero ahora tenía que volver con su gente. Tenía que afrontar las consecuencias de su acción de alzar el arco para salvar la vida de Kaladin. Kal le advirtió sobre Moash, pero Cikatriz y Drehy habían accedido a escoltar a Roca y su familia hasta los picos. Kaladin consideró la posibilidad de ir con ellos, pero se dio cuenta de que eso no resolvería sus problemas. Se abrazaron en una última despedida, ya que Roca no esperaba volver de su viaje.
@@ -595,7 +595,7 @@ El Hermano sintió que los Fusionados habían encontrado otro de sus nodos en el
 Dabbid llevó a Kaladin de vuelta a la sala oculta, pero el Radiante cayó en coma y su consciencia fue trasladada a [[Braize\|Braize]] por Odium. Durante ese tiempo en Braize, Kaladin encontró a Sagaz, quien creó una burbuja protectora para prevenir que Odium lo descubriera por un breve lapso de tiempo. Fue entonces cuando le contó a Kaladin la historia "El perro y el dragón".
 
 >“*Has dicho que iba a empeorar. Y lo hará, pero luego mejorará. Y luego empeorará otra vez. Y luego mejorará. Así es la vida, y no voy a mentirte diciendo que todos los días serán soleados. Pero volverá a haber luz del sol, que es otra cosa muy distinta. Esa es la verdad. Te lo prometo, Kaladin: volverás a estar calentito.*”
-\-Sagaz a Kaladin[187]
+\-Sagaz a Kaladin[188]
 
 
 Dabbid fue a pedirle ayuda a Rlain, ya que creía que Kaladin estaba muriéndose, y [[Venli\|Venli]] colaboró sacando a [[Lift\|Lift]] de su prisión para que curara a Kaladin. Lift curó también a Teft, y juntos empezaron a hacer planes para proteger el nodo final del Hermano. Cuando se enteraron de que éste corría peligro, Kaladin, exhausto, fue a enfrentarse al Perseguidor junto a los remanentes del Puente Cuatro, Lift y Venli. Kaladin destruyó la reputación del Perseguidor, renombrándolo como "el Derrotado", y lo venció humillándolo. Revigorizado tras esa victoria, Kaladin descubrió que Teft había sido asesinado por Vyre y entró en estado catatónico.
@@ -606,7 +606,7 @@ Después de que Teft fuera asesinado por Vyre, Kaladin quedó emocionalmente des
 Kaladin se encontraba en lo alto de Urithiru, viendo caer a Lirin, y se dio cuenta de por qué había subido a la cima de la torre. En el Abismo de Honor eligió la vida, así que en ese instante escogió lo opuesto: saltó con intención de suicidarse. Kaladin estaba en lo alto de Urithiru, viendo caer a Lirin, y saltó tras él en un intento de salvarlo. Cuando se dio cuenta de que iba a fracasar, y a perder una vez más a alguien a quien intentaba proteger, Kaladin perdió toda esperanza, y estaba dispuesto a dar la bienvenida a la muerte. Sin embargo, Dalinar, que cabalgaba la tormenta en ese momento, exigió al Padre Tormenta que diera a Kaladin más tiempo para pensar. El Padre Tormenta llevó a Kaladin al "lugar entre tiempos" y habló con él, aunque sin éxito. Dalinar, utilizando sus habilidades de Forjador de Vínculos, llevó a Kaladin a una visión conectada con Tien. La aparición de Tien convenció a Kaladin de que acogiera el presente y aceptara que todas las personas debían acabar muriendo, admitiendo que eligió ser utilizado como carne de cañón para animar a los otros chicos. Al volver al mundo real con una nueva sensación de paz, Kaladin siguió cayendo, pero encontró la fuerza para pronunciar su Cuarto Ideal.
 
 >“*¡Acepto que habrá a quienes no pueda proteger!*”
-\-El Cuarto Ideal de Kaladin[194]
+\-El Cuarto Ideal de Kaladin[195]
 
 
 Más que el Padre Tormenta, fue Dalinar quien aceptó las palabras de Kaladin. Alrededor de Kaladin, los vientospren se transformaron en su [[Armadura esquirlada\|armadura esquirlada]].
@@ -666,7 +666,7 @@ La relación entre Sagaz y Kaladin es extraña pero positiva. Sólo se han encon
 ## Desarrollo
   Arte conceptual inicial de Kaladin con <<Syl\|Syl>>
 >“*Cuando Kaladin aún se llamaba Merin, no funcionaba bien como personaje. Era demasiado el estereotipo de "granjero que se convierte en noble" del género fantástico.*”
-\-Anotaciones de El camino de los reyes[204]
+\-Anotaciones de El camino de los reyes[205]
 
 
 El precursor de Kaladin en [[El archivo de las tormentas\|El archivo de las tormentas]] fue **Merin**, un personaje ideado por Brandon en el año 2000. En el borrador original de *El camino de los reyes*, *[[El camino de los reyes Prime\|El camino de los reyes Prime]]*, Merin gana una [[Espada esquirlada\|espada esquirlada]] tras defender a [[Elhokar\|Elhokar]] en el campo de batalla. Al igual que Kaladin, Merin es de bajo rango social (no está claro si el concepto de color de ojos que denota el estatus social ya estaba presente). Como tal, hay gente que no desea que tenga las esquirladas. Sin embargo, ante la insistencia de Dalenar (proto-[[Dalinar\|Dalinar]]), Merin es convertido en portador de esquirlada y adoptado por la [[Casa Kholin\|Casa Kholin]].
@@ -675,39 +675,39 @@ A esas alturas, el nombre de Merin estaba en la cuerda floja, ya que sonaba dema
 
 ## Citas
 >“*Tal vez deberías rezar al Todopoderoso para que te guíe. He oído decir que le gustan los amos de esclavos. Tiene una sala especial en Condenación para vosotros.*”
-\-Kaladin a Tvlakv[77]
+\-Kaladin a Tvlakv[78]
 
 
 >“*Los hombres no son fiables de muchas maneras. Pero si hay algo con lo que puedas contar, es con su codicia.*”
-\-Kaladin a Sylphrena[79]
+\-Kaladin a Sylphrena[80]
 
 
 >“*La muerte no es mejor. Oh, es fácil decir eso ahora. Pero cuando estás en el borde y miras ese oscuro pozo sin fondo, cambias de opinión. Tal como hizo Hobber. Tal como he hecho yo. Creo que tú también lo has visto.*”
-\-Kaladin a Teft[80]
+\-Kaladin a Teft[81]
 
 
 >“*La tradición es la excusa que utilizan para condenarnos. Es la caja bonita que usan para envolver sus mentiras. Nos hace servirlos.*”
-\-Kaladin sobre los ojos claros[53]
+\-Kaladin sobre los ojos claros[54]
 
 
 >“*Pronto ya no serás una spren, sino una pequeña filósofa transparente. Tendremos que enviarte a un monasterio para que pases el tiempo sumida en profundos e importantes pensamientos.*”
-\-Kaladin a Sylphrena[209]
+\-Kaladin a Sylphrena[210]
 
 
 >“*¡La tormenta os lleve! ¡Mirad eso! ¿Quién se preocupa por ellos? Sadeas, no. Ni sus compañeros de cuadrilla. Dudo que incluso los Heraldos mismos les dediquen un pensamiento. No me quedaré aquí viendo hombres morir a mi espalda. ¡Tenemos que ser mejores que eso! No podemos apartar la mirada como los ojos claros, fingiendo que no vemos. Este hombre es uno de nosotros. Igual que lo era Dunny. Los ojos claros hablan de honor. Farfullan bravatas huecas sobre su nobleza. Bien, yo solo he conocido a una persona en mi vida que fuera un auténtico hombre de honor. Era un cirujano que ayudaba a cualquiera, incluso a aquellos que lo odiaban. Especialmente a aquellos que lo odiaban. Bien, vamos a enseñarle a Gaz, y a Sadeas, Hashal y cualquier otro necio inflado que sea capaz de mirar, lo que ese hombre me enseñó a mí. ¡Ahora poneos a trabajar y dejad de quejaros!*”
-\-Kaladin acerca de los miembros de otras cuadrillas de los puentes[85]
+\-Kaladin acerca de los miembros de otras cuadrillas de los puentes[86]
 
 
 >“*¡He estado aquí antes! ¿Qué pasó la última vez? ¡He aprendido! ¡No volveré a ser un idiota! No te debo nada, Kholin.*”
-\-Kaladin gritando antes de ayudar al ejército de Dalinar[39]
+\-Kaladin gritando antes de ayudar al ejército de Dalinar[41]
 
 
 >“*El honor ha muerto. [...] Pero veré qué puedo hacer.*”
-\-Kaladin a Dalinar antes de saltar a la arena[103]
+\-Kaladin a Dalinar antes de saltar a la arena[104]
 
 
 >“*Una futura nuera, entregada sana y salva. Lamento los daños causados al envío.*”
-\-Kaladin a Dalinar sobre Shallan tras regresar de los abismos[16]
+\-Kaladin a Dalinar sobre Shallan tras regresar de los abismos[18]
 
 
 ## Curiosidades

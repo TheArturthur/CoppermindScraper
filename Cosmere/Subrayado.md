@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 Identificador **Subrayado** es un explorador del escuadrón de exploradores de la [[FDD\|FDD]]. Es el octavo miembro de su escuadrón y pilota una nave de reconocimiento [[Clase Val\|clase Val]], que está diseñada para evitar los escáneres y para ser rápida, más que para tener potencia de fuego.
 Subrayado, junto con [[Capa\|Capa]], se unió al Escuadrón Cielo bajo el mando de [[Jorgen\|Jorgen]] en la batalla en la que [[Arcada\|Arcada]] murió. Ambos recibieron la orden de Jorgen de identificar naves enemigas y transmitir la información al Mando de Vuelo.

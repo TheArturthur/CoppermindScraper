@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
 |**Mundo natal**|[[Komashi\|Komashi]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
 
 **Namakudo** es un ayudante de cocina al servicio de [[Dise%C3%B1o\|Diseño]] en [[El Pupila del Fideo\|El Pupila del Fideo]] de [[Kilahito\|Kilahito]], en [[Komashi\|Komashi]]. Cuando Diseño estaba ocupada presentando a [[Masaka\|Masaka]] a [[Yumi\|Yumi]] y [[Nikaro\|Nikaro]], Namakudo tuvo que salir de la cocina para ayudar a tomar los pedidos de una avalancha de [[Pintor\|pintores]] de [[Pesadilla\|pesadillas]] que terminaban su turno.
 

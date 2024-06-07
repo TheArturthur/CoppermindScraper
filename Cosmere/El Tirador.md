@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*En esta [[Elendel\|ciudad]] hay mil criminales peores que yo, pero te has empeñado en darme caza a mí, vigilante. ¿Por qué? Soy un héroe del pueblo.*”
 \-Tira a Wax[1]

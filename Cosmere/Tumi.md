@@ -7,6 +7,7 @@
 |**Especie**|[[Brumaspren\|Brumaspren]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
 
 >“*Debo encontrar mi propio camino, mi propio vínculo.*”
 \-Tumi[1]

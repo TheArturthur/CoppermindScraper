@@ -9,6 +9,7 @@
 |**Especie**|[[Drag%C3%B3n (Cosmere)\|Dragón (Cosmere)]]|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 >“*Todas las cosas deben cultivarse.*”
 \-Koravellium Avast.[5]

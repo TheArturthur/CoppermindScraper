@@ -7,6 +7,7 @@
 |**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Torkel** es un [[Diurnense\|diurnense]] de [[Taldain\|Taldain]] y antiguo consejero del lord mercader [[Vey\|Vey]].
 

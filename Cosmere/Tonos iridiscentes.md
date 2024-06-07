@@ -8,14 +8,14 @@
 |**Mundo de origen**|[[Nalthis\|Nalthis]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-Los **Tonos Iridiscentes** es una religión politeísta practicada en [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]]. Esta religión enseña que los Retornados son dioses.
+Los **Tonos Iridiscentes** es una religión politeísta practicada en [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]]. Esta religión enseña que los  son dioses.
 
 ## Sumario
 
 1 Enseñanzas. [[#Ense.C3.B1anzas]] 
 
 1. [[#Dalapaz y Kalad]] 
-1. [[#La onda iridiscente y el m.C3.A1s all.C3.A1]] 
+1. [[#La Ola iridiscente y el m.C3.A1s all.C3.A1]] 
 1. [[#Fiestas y maldiciones]] 
 
 
@@ -44,14 +44,14 @@ Los **Tonos Iridiscentes** es una religión politeísta practicada en [[Hallandr
 ## Enseñanzas
 ### Dalapaz y Kalad
 [[Dalapaz\|Dalapaz]] ocupa un lugar central en los Tonos Iridiscentes. A menudo se le conoce como Dalapaz el Bendito, aunque algunos sacerdotes le llaman Dalapaz. Muchos [[Hallandren\|hallandrenses]] también lo consideran un dios de dioses. A veces, aunque no siempre, se considera que fue el primer rey-dios. Los Hallandren consideran su nombre sagrado. También consideran a Dalapaz como el que les dio la vida.
-Los hallandrenses creen que Dalapaz volvió a la vida con un propósito específico, detener el conflicto entre los hombres y traer la paz a Hallandren. También creen que les dio la [[Luz de la Paz\|Luz de la Paz]], diciéndoles que la mantuvieran a salvo, así como que nunca la usaran. En su teología, Dalapaz murió para dar su [[Aliento\|aliento]] a los hallandrenses. Pero también exigió que se guardara por si volvía y lo necesitaba. Creen que es muy importante que el aliento no sea usado.
+Los hallandrenses creen que Dalapaz volvió a la vida con un propósito específico, detener el conflicto entre los hombres y traer la paz a Hallandren. También creen que les dio la [[Luz de la Paz\|Luz de la Paz]], diciéndoles que la mantuvieran a salvo,así como que nunca la usaran. En su teología, Dalapaz murió para dar su [[Aliento\|aliento]] a los hallandrenses. Pero también exigió que se guardara por si volvía y lo necesitaba. Creen que es muy importante que el aliento no sea usado.
 Los hallandrenses ven a Dalapaz como una figura sagrada y un dios porque los protegió de Kalad, expulsándolo y salvando al pueblo de Hallandren. También trajo la paz al mundo al detener [[La Multiguerra\|la Multiguerra]].
 [[Kalad\|Kalad]] también ocupa un lugar central en los Tonos Iridiscentes. Se le considera malvado y destructivo. Los [[Hallandren\|hallandrenses]] creen que la familia real de [[Hanald\|Hanald]] se alineó con Kalad, ignorando la voluntad del pueblo y buscando la guerra con sed de sangre.
-Fue el creador de los [[Fantasmas de Kalad\|Fantasmas de Kalad]], un nuevo y más poderoso tipo de [[Sinvida\|sinvida]]. Aunque nadie recuerda qué tipo de sinvida eran, se les considera aterradores y terribles. Mucha gente cree que después de que Dalapaz los enviara lejos, los Fantasmas de Kalad aún vagan por la jungla, esperando a que Kalad regrese.
+Es el creador de los [[Fantasmas de Kalad\|Fantasmas de Kalad]], un nuevo y más poderoso tipo de [[Sinvida\|sinvida]]. Aunque nadie recuerda qué tipo de sinvida eran, se les considera aterradores y terribles. Mucha gente cree que después de que Dalapaz los enviara lejos, los Fantasmas de Kalad aún vagan por la jungla, esperando a que Kalad regrese.
 
-### La onda iridiscente y el más allá
+### La Ola iridiscente y el más allá
 Los hallandrenses creen que cuando una persona muere salta a través de una cosa llamada la 'Ola Iridiscente'. Cuando una persona decide [[Retornado\|Retornar]], salta de nuevo al mundo de los vivos, aunque este proceso deja la memoria fragmentada.
-Hay una vida después de la muerte o el cielo, y la gente está en paz aquí. En la otra vida el futuro es visible, como un pergamino.
+Hay una vida después de la muerte o el cielo, y la gente está en paz allí. En la otra vida el futuro es visible, como un pergamino.
 
 ### Fiestas y maldiciones
 Hay una fiesta conocida como la Fiesta de los Dioses, en la que la gente se toma la noche libre y festeja junta. La Celebración de la Boda es una fiesta de una semana de duración en la que los hallandrenses celebran el matrimonio del rey-dios. Durante este tiempo, la reina no puede abandonar el palacio. Al final de esta fiesta, la reina es presentada oficialmente a la [[Corte de los Dioses\|Corte de los Dioses]].
@@ -68,8 +68,9 @@ Por el amor de los Colores
 Algunas personas mueren de una manera que ejemplifica las grandes virtudes de la existencia humana, como la valentía o la honestidad. Estas personas son enviadas de vuelta por los Tonos Iridiscentes. Los hallandrenses creen que los Retornados son enviados de vuelta para actuar como ejemplos, y como dioses, para los vivos. La religión enseña que cada dios representa un ideal relacionado con la forma en que murieron.
 
 ### Deberes
->“*No había nada que temer de los dioses Retornados de los hallandrenses. Los dioses eran una bendición. Proporcionaban visiones del futuro, además de liderazgo y sabiduría. Todo lo que necesitaban para subsistir era una cosa.Aliento.*”
-\-Enseñanzas de Llarimar
+>“*No había nada que temer de los dioses Retornados de los hallandrenses. Los dioses eran una bendición. Proporcionaban visiones del futuro, además de liderazgo y sabiduría. Todo lo que necesitaban para subsistir era una cosa.*
+\-
+
 
 Cuando un seguidor busca una bendición puede enviar una ofrenda a uno de los [[Retornado\|dioses]], normalmente el dios correspondiente a lo que el seguidor desea. Estas ofrendas suelen adoptar la forma de un cuadro u otro tipo de arte, como un poema. Los sacerdotes graban las palabras del dios y hacen una interpretación de lo que piensa, ya sea para bien o para mal, y se lo entregan al mecenas. Incluso el mero hecho de enviar una ofrenda te proporciona algo de buena fortuna, aunque cuanto mejor sea la calificación de tu ofrenda, mejor suerte obtendrás. La mayoría de los mecenas no hacen sus ofrendas ellos mismos, sino que pagan a alguien para que lo haga por ellos. Esto significa que cuanto más esté dispuesto a pagar un mecenas, mejor será su ofrenda y mayor será su suerte. Las ofrendas se hacen específicamente para el dios al que van dirigidas, y sólo ellos, además de algunos de sus sacerdotes, pueden verlas.
 Otro deber de los Retornados son las peticiones. Cualquiera puede acudir a hacer peticiones a los dioses. Normalmente estas personas piden curación, aunque no siempre para ellos mismos,o a veces piden otras cosas, como un trabajo. Las peticiones ofrecen una última, aunque improbable esperanza, porque un día uno de los seguidores recibirá un milagro. Se supone que las peticiones ayudan a los dioses a recordar por qué Retornaron.

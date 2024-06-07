@@ -43,7 +43,7 @@ Goradel creció con su familia en Luthadel, pero trabajaban en los campos de las
 
 ### Guardia en Kredik Shaw
 Cuando [[Vin\|Vin]] se infiltró en [[Kredik Shaw\|Kredik Shaw]] la noche del [[Colapso\|Colapso]] Goradel estaba de guardia en el exterior. Ella podría haberlo matado fácilmente tanto a él como a los demás guardias, pero los convenció para que se unieran a la rebelión. Goradel fue el primero de ellos en arrancarse la insignia y abandonar Kredik Shaw.
-De algún modo, Goradel consiguió encontrar a [[Dockson\|Dockson]] en el caos del Colapso, y le dice que Vin ha sido capturada por un [[Inquisidor\|Inquisidor]]. Entonces llega [[Elend Venture\|Elend Venture]], y él y Goradel se unen para rescatar a Vin de Kredik Shaw.
+De algún modo, Goradel consiguió encontrar a [[Dockson\|Dockson]] en el caos del Colapso, y le dice que Vin ha sido capturada por un [[Inquisidor\|Inquisidor]]. Entonces llega [[Elend Venture\|Elend Venture]], y él y Goradel se unen para sacar a Vin de Kredik Shaw.
 Goradel conduce a Elend y a cinco soldados de éste a las mazmorras de Kredik Shaw, donde se encuentran con Vin y [[Sazed\|Sazed]], que ya se han liberado pero están rodeados por al menos veinte guardias enemigos. Goradel, Elend y sus soldados comienzan a atacar a los guardias para distraerlos de Vin y Sazed, pero ella encuentra un último frasco con [[Alomancia\|metales]] y se encarga de los guardias en cuestión de segundos.
 
 ### Asedio de Luthadel

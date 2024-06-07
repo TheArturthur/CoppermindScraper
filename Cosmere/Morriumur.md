@@ -10,6 +10,7 @@
 |**Especie**|[[Dione\|Dione]]|
 |**Mundo natal**|[[Visi%C3%B3n Estelar\|Estación Visión Estelar]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Estelar\|Estelar]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

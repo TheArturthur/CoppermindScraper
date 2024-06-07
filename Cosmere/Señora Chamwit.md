@@ -6,6 +6,7 @@
 |**Especie**|[[Varvax\|Varvax]]|
 |**Mundo natal**|[[Visi%C3%B3n Estelar\|Visión Estelar]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Estelar\|Estelar]]*|
 
 >“*Bueno, quizá pueda prepararlas de acompañamiento. ¿O tal vez prepararle un postre para después?*”
 \-Señora Chamwit, ofreciendo hornear algo para Spensa en lugar de sus tiras de algas.[1]

@@ -7,6 +7,7 @@
 |**Especie**|[[Varvax\|Varvax]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[La defensa del El%C3%ADseo\|La defensa del Elíseo]]*|
 
 **Vahnn** es un embajador [[Varvax\|varvax]] enviado a [[V%C3%ADsperas\|Vísperas]]. Dos semanas antes de que [[Jason Write\|Jason Write]] llegue allí para recuperar a [[Denise Carlson\|Denise Carlson]], desaparece; más o menos cuando Jason llega, se encuentra un gran trozo de caparazón en una estación en llamas y se le da por muerto.
 Tras recuperar a Denise y darse cuenta de que sus modales parecen más propios de un varvax que de un humano, Jason se da cuenta de que alguien utilizó [[Cit%C3%B3nica (habilidad)\|la citónica]] para intercambiar la mente de Vahnn por la de Denise, dejando la mente de él en el cuerpo de ella y la mente de ella en el cuerpo de él. Pensando que los humanos están intentando infiltrarse en la sociedad varvax para aprender a usar la citónica, Jason concluye que algo debe haber ido mal con el intercambio, lo que resulta en que el cuerpo de Vahnn es desechado en la estación de combustión y Denise es arrojada a vagar por las calles, donde fue encontrada por las autoridades locales e ingresada en una sala de tratamiento de salud mental. Sin embargo, después de que [[Edmund (Cit%C3%B3nico)\|Edmund]] le cuente cómo tratan los varvax a sus disidentes, se da cuenta de que Vahnn se cambió al cuerpo de Denise en un intento de acceder a tecnología humana avanzada.

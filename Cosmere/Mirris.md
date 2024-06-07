@@ -7,6 +7,7 @@
 |**Especie**|Aviar (arroyal)|
 |**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
 
 **Mirris** es una [[Aviar\|aviar]] en [[Primero del Sol\|Primero del Sol]]. Es propiedad de [[Vathi\|Vathi]].
 

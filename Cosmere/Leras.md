@@ -10,6 +10,7 @@
 |**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
 |**Mundo natal**|[[Yolen\|Yolen]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 >“*Sí. Por suerte, antes de morir, puse en marcha un plan. No me acuerdo de él, pero estoy seguro de que era espléndido.*”
 \-Leras.[4]

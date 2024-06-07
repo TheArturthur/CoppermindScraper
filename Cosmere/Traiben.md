@@ -12,6 +12,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Traiben** es un [[Maestr%C3%ADa de la arena\|maestro de la arena]][[Lossand\|lossandino]] en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
 

@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Pero cuando se llevaron a Misel... tuve que guardar silencio sobre lo sucedido, tuve que cambiar mis argumentos, o la matarían.*”
 \-Nanrovah[1]

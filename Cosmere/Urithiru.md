@@ -7,8 +7,6 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 >“*Se dice que Urithiru era el centro de los Reinos Plateados, una ciudad que tenía diez tronos, uno por cada rey. Era la ciudad más majestuosa, la más sorprendente, la más importante de todo el mundo.*”
@@ -73,8 +71,8 @@
 \-El Vavibrar, línea 1804[6]
 
 
-Urithiru se encuentra casi exactamente en el centro del continente roshariano, en las [[Monta%C3%B1as de Ur\|montañas de Ur]] a más de cuatro mil quinientos metros de altitud. Está situado en la parte occidental de la cordillera, en la frontera de [[Emul\|Emul]] y [[Gran Hexi\|Gran Hexi]]. La torre se asienta en el lado este de una de esas montañas, apoyada en dos laderas.
-La meseta en la que se encuentra la torre está a una altitud considerable. El aire es lo bastante fino como para dificultar la actividad física. Los acantilados que hay bajo ella se extienden más allá de lo que alcanza la vista. Esta ubicación es lo bastante alta como para que tanto las [[Alta tormenta\|altas tormentas]] como la [[Tormenta eterna\|tormenta eterna]] pasen por debajo de ella, lo que dificulta a los actuales ocupantes de la torre la obtención de [[Luz tormentosa\|luz tormentosa]].
+Urithiru se encuentra casi exactamente en el centro del continente roshariano, en las [[Monta%C3%B1as de Ur\|montañas de Ur]]. Está situado en la parte occidental de la cordillera, en la frontera de [[Emul\|Emul]] y [[Gran Hexi\|Gran Hexi]]. La torre se asienta en el lado este de una de esas montañas, apoyada en dos laderas.
+La meseta en la que se encuentra la torre está a más de cuatro mil quinientos metros de altitud. El aire es lo bastante fino como para dificultar la actividad física. Los acantilados que hay bajo ella se extienden más allá de lo que alcanza la vista. Esta ubicación es lo bastante alta como para que tanto las [[Alta tormenta\|altas tormentas]] como la [[Tormenta eterna\|tormenta eterna]] pasen por debajo de ella, lo que dificulta a los actuales ocupantes de la torre la obtención de [[Luz tormentosa\|luz tormentosa]].
 Históricamente, ha habido cierto desacuerdo sobre si Urithiru es o no accesible por otros medios que no sean el viaje por la [[Puerta Jurada\|Puerta Jurada]] o el vuelo. Los antiguos cronistas Varala y Sinbian afirmaron que era imposible, pero en la octava parábola de [[Nohadon\|Nohadon]] de [[El camino de los reyes (in-world)\|El camino de los reyes]], afirma que fue andando desde [[Abamabar\|Abamabar]] hasta Urithiru (lo que confirma en el sueño de Dalinar, diciendo que no utilizó una Puerta Jurada, sino sólo un guía, lo que cree que no fue «hacer trampas» de ningún modo).  Como se revela más tarde, hay una entrada al pie de la montaña que se puede utilizar para salir de la torre a pie.
 Hay una aldea sin nombre en la falda de la montaña al sur de la torre,  pero aparentemente no es visible desde la torre, pues todo lo que Dalinar puede ver son nubes y rocas. Además, Urithiru se encuentra relativamente cerca del [[Valle\|Valle]] de la [[Vigilante Nocturna\|Vigilante Nocturna]].
 

@@ -9,8 +9,6 @@
 |**Mundo de origen**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 La **placa de autorización de Haridan**, también llamado **disco de acceso**, es un [[/wiki/Cosmere#La Era Espacial]] dispositivo [[Scadriano\|scadriano]] utilizado por el teniente [[Haridan\|Haridan]] y más tarde por el [[Rey Incandescente\|Rey Incandescente]], para acceder a la [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|instalación de investigación scadriana]] en [[C%C3%A1ntico\|Cántico]]. Los topógrafos scadrianos suelen utilizar dispositivos similares para transmitir su ubicación y permitirles regresar a sus naves de exploración espacial.
 
 ## Sumario

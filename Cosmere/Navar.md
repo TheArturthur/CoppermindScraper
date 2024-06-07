@@ -8,6 +8,7 @@
 |**Grupo**|Ejército de Amaram, [[Escuadr%C3%B3n de Kaladin\|Escuadrón de Kaladin]]🐱︎|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Navar** era un soldado del ejército de [[Amaram\|Amaram]] en [[Alezkar\|Alezkar]], [[Roshar\|Roshar]]. Era miembro del escuadrón de [[Kaladin\|Kaladin]].
 Un desconocido [[Portador de esquirlada\|portador de esquirlada]] [[Veden\|veden]] mató a Navar, junto con [[Toorim\|Toorim]], [[Hamel\|Hamel]], [[Raksha\|Raksha]], [[Acis\|Acis]] y otros once miembros del escuadrón de [[Kaladin\|Kaladin]]. Más tarde, [[Shallan Davar\|Shallan Davar]] descubrió mediante la identificación de su [[Hoja esquirlada\|hoja esquirlada]], en posesión actual de [[Amaram\|Amaram]], que el portador de esquirlada veden era [[Helaran Davar\|Helaran Davar]].

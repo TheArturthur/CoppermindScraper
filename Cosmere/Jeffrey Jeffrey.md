@@ -9,8 +9,6 @@
 |**Universo**|[[Cosmere\|Cosmere]]|
 |**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 
 **Jeffrey Jeffrey** es un ciudadano de [[Baliza\|Baliza]] y un administrador para el Bien Mayor.

@@ -8,6 +8,7 @@
 |**Grupo**|[[Bridge Four\|Bridge Four]]🐱︎, Ejército de Sadeas|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Narm** es un miembro del [[Puente Cuatro\|Puente Cuatro]].
 

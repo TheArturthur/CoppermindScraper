@@ -1,11 +1,13 @@
 **Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+|**Dinastía Ulutu**|
+|-|-|
+|**Etnia**|[[Azishiano\|Azishiano]]|
+|**Mundo**|[[Roshar\|Roshar]]🐱︎|
+|**Universo**|[[Cosmere\|Cosmere]]|
 
-La **dinastía Ulutu** es una dinastía de [[Azir\|Azir]] de la que se habla en las leyendas e historias azishianas, pero no está claro si se trata de una dinastía histórica real o de una que existe únicamente en las leyendas. En general, los eruditos están de acuerdo en que existieron, pero no en la época en que lo hicieron. Se dice que duraron al menos quince emperadores y que combatieron al menos cinco invasiones [[Alezkar\|tagarut]].
+La **dinastía Ulutu** es una dinastía de [[Azir\|Azir]] en [[Roshar\|Roshar]] de la que se habla en las leyendas e historias azishianas, pero no está claro si se trata de una dinastía histórica real o de una que existe únicamente en las leyendas. En general, los eruditos están de acuerdo en que existieron, pero no en la época en que lo hicieron. Se dice que duraron al menos quince emperadores y que combatieron al menos cinco invasiones [[Alezkar\|tagarut]].
 
-## References
-
-
+## Notas
 > [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
 El contenido no ha sido revisado todavía.
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
@@ -27,6 +29,7 @@ El contenido no ha sido revisado todavía.
 |**Personajes**|[[N%C3%B3mada\|Nómada]] · [[Auxiliar\|Auxiliar]] · [[Rebeke Salvamento\|Rebeke]] · [[Eleg%C3%ADa Salvamento\|Elegía]] · [[Rey Incandescente\|Rey Incandescente]] · [[Compasi%C3%B3n\|Compasión]] · [[Confianza\|Confianza]] · [[Contemplaci%C3%B3n\|Contemplación]] · [[Fervor\|Fervor]] · [[Jeffrey Jeffrey\|Jeffrey Jeffrey]]|
 |**Lugares**|[[Baliza\|Baliza]] · [[Uni%C3%B3n\|Unión]] · [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|Instalación de investigación scadriana]]|
 |**Magia**|[[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Sol coraz%C3%B3n\|Sol corazón]] · [[Chamuscado\|Chamuscado]] · [[Coro\|Coro]]|
+
 
 
 

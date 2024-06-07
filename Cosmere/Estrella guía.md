@@ -8,8 +8,6 @@
 |**Mundo de origen**|[[Treno\|Treno]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 Una **estrella guía** es un líder designado de una comunidad en [[C%C3%A1ntico\|Cántico]] que navega una ciudad a lo largo de su ruta. En algunas comunidades, la estrella guía también actúa como un visionario que guía los planes a largo plazo de la ciudad. En [[Baliza\|Baliza]], una estrella guía es nombrada por votación del [[El Bien Mayor\|Bien Mayor]].
 
 ## Historia

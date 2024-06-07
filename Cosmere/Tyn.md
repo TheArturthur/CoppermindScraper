@@ -9,6 +9,7 @@
 |**Lugar de nacimiento**|[[Tu Bayla\|Tu Bayla]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*War means desperation, and desperation is our mother’s milk, kid.*”
 \-Tyn a Shallan[2]

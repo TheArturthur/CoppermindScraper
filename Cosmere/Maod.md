@@ -6,6 +6,7 @@
 |**Grupo**|[[Ire\|Ire]]🐱︎|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*Nacidos de la bruma: historia secreta*|
 
 **Maod** es un miembro de la guardia de los [[Ire\|Ire]].
 

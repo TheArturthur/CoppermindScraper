@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 **Mrall** es un guardaespaldas de [[Thaylen\|Thaylen]] y uno de los seguidores de más confianza del rey [[Taravangian\|Taravangian]] y el [[Diagrama (grupo)\|Diagrama]].
 

@@ -1,3 +1,4 @@
+Elemento de lista de viñetas
 **Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Casa Kholin**|
 |-|-|
@@ -33,7 +34,8 @@ La **casa Kholin** (/ˈχolɪnˈ/) es la familia gobernante del reino de [[Alezk
 3 Esquirlas. [[#Esquirlas]] 
 4 Iconografía. [[#Iconograf.C3.ADa]] 
 5 Árbol genealógico. [[#.C3.81rbol geneal.C3.B3gico]] 
-6 Notas. [[#Notas]] 
+6 Curiosidades. [[#Curiosidades]] 
+7 Notas. [[#Notas]] 
 
 
 ## Historia
@@ -41,7 +43,7 @@ Como todos los príncipes alezi, los Kholin son descendientes de Sadees [[Hacedo
 El título de alto príncipe Kholin se ha mantenido por 34 generaciones.
 En un año desconocido, el padre de Dalinar y Gavilar nació en una parte relativamente pobre e insignificante de la familia Kholin. No era uno de los principales contendientes para el título de alto príncipe. En algun momento de su juventud, participó en alguna guerra.
 En 1120, nació [[Dalinar Kholin\|Dalinar Kholin]], [[Gavilar Kholin\|Gavilar]] nació de los mismos padres en un año desconocido. Ambos nacieron en el cuarto dahn. Debido a que su padre fue incapaz de criarlos ya que tenía heridas permanentes en la cabeza provocadas en un combate, y que su madre murió cuando eran jóvenes, los dos hermanos tubieron que crecer por ellos mismos.
-A pesar de haber existido por muchas generaciones, la familia Kholin no empezó su expansión hasta alrededor de 1139, cuando Gavilar y Dalinar Kholin lideran una conquista contra los otros [[Altos pr%C3%ADncipes\|altos príncipes]] de Alezkar, eventualmente consolidando la nación entera en un solo reino en el año 1148.  
+A pesar de haber existido por muchas generaciones, la familia Kholin no empezó su expansión hasta alrededor de 1139, cuando Gavilar y Dalinar Kholin lideran una conquista contra los otros [[Altos pr%C3%ADncipes\|altos príncipes]] de Alezkar, eventualmente consolidando la nación entera en un solo reino en el año 1148.
 
 ### Guerra de unificación
 En 1141, Gavilar lideró un ataque a Rathalas con el objetivo de tenerla bajo su mandato. Durante el asedio, Dalinar mató al [[Padre de Tanalan\|brillante señor Tanalan]], consiguiendo así conquistar la ciudad y traer la hoja esquirlada [[Juramentada (hoja esquirlada)\|Juramentada]] en la posesión de los Kholin.
@@ -82,7 +84,7 @@ Jasnah, Dalinar y Renarin fueron a una expedición militar en Emul contra Tukar 
 Dalinar negocia con Odium, alcanzando un acuerdo en las condiciones del duelo de campeones basadas en el documento escrito por Jasnah y Sagaz, el cual decidirá el destino de Roshar.
 
 ## Milicia
-La casa Kholin tiene acceso a una milicia grande y poderosa, durante la Guerra de la Venganza y antes de la Batalla de Narak, estaban mayoritariamente estacionados en el campo de guerra Kholin en las Llanuras Quebradas. Después de la batalla y el comienzo de la Verdadera Desolación, la mayoría se transladó a Urithiru. Además, después de su estacionamiento en Urithiru, Dalinar Kholin, en su posición de Alto Príncipe de la Guerra, tomó completo control de los ejércitos de los otros altos príncipes, con la intención de evitar peleas innecesarias, esto incrementó el tamaño del ejército bajo el comando de la casa Kholin a unos 100,000..
+La casa Kholin tiene acceso a una milicia grande y poderosa, durante la Guerra de la Venganza y antes de la Batalla de Narak, estaban mayoritariamente estacionados en el campo de guerra Kholin en las Llanuras Quebradas. Después de la batalla y el comienzo de la Verdadera Desolación, la mayoría se transladó a Urithiru. Además, después de su estacionamiento en Urithiru, Dalinar Kholin, en su posición de Alto Príncipe de la Guerra, tomó completo control de los ejércitos de los otros altos príncipes, con la intención de evitar peleas innecesarias, esto incrementó el tamaño del ejército bajo el comando de la casa Kholin a unos 100,000.
 Con su proeza militar, fueron capaces de tomar las provincias desunificadas, trayendolas juntas bajo una sola Alezkar unificada después de años de conquista.
 El [[General Khal\|general Khal]] es el general de más alto rango del ejército Kholin. Dalinar a menudo confía en él para liderar sus ejércitos cuando él mismo no puede.
 
@@ -107,7 +109,7 @@ El [[Puente Cuatro\|Puente Cuatro]] era una antigua cuadrilla de los puentes que
 
 
 [[Kaladin\|Kaladin]] - Capitán, Corredor del Viento del Cuarto Ideal
-[[Roca\|Roca]] (antiguo) - teniente y intendente, a cargo de la comida para el batallón
+[[Roca\|Roca]] (anteriormente) - teniente y intendente, a cargo de la comida para el batallón
 [[Lopen\|Lopen]] - segundo teniente de Roca, Corredor del Viento del Tercer Ideal
 [[Teft\|Teft]] (antiguo) - teniente a cargo del entrenamiento, Corredor del Viento del Tercer Ideal
 [[Sigzil\|Sigzil]] - teniente y secretario
@@ -192,7 +194,6 @@ La cresta de Elhokar Kholin usa las mismas letras que el de Dalinar, pero en la 
 
 
 
-
 Glifo de la casa Kholin
 
 
@@ -262,6 +263,8 @@ Variación de Elhokar de *Khokh*
 | |Fallecido|
 
 
+## Curiosidades
+En nombre Kholin se basó parcialmente en la palabra hebrea para sacerdote, .
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .

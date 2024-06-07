@@ -11,12 +11,12 @@
 \-Lunamor[1]
 
 
-**Kali'kalin** es una persona o deidad [[Unkalaki\|unkalaki]] de [[Roshar\|Roshar]]. Los comecuernos creen que tiene un fantasma. Los Unkalaki a veces maldicen con el nombre de este fantasma, aunque el fantasma no tiene un nombre diferente, sino que simplemente se refieren a él como «el fantasma de Kali'kalin».
+**Kali'kalin** es una persona o deidad [[Unkalaki\|unkalaki]] de [[Roshar\|Roshar]]. Los comecuernos creen que tiene un fantasma. Los Unkalaki a veces maldicen con el nombre de este fantasma, refiriéndose a él como «el fantasma de Kali'kalin». Es probable que esté asociada a otra expresión comecuernos similar, Kali'kalin'da.
 
 ## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
+> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
+Truthwatch3r (talk) 20:30, 14 de mayo de 2024 (UTC)
 |**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
 |-|-|
 |**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|

@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|**|
 
 **NaiMeer** is a dockmaster in [[Lossand\|Lossand]] on the  of [[Taldain\|Taldain]]. He is [[Vey\|Vey]]'s nephew.
 

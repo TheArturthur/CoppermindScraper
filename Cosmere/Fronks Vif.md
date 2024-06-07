@@ -3,7 +3,6 @@
 
 |**Fronks Vif**|
 |-|-|
-|**Familia**|
 |**Hermanos**|[[Selvest Vif\|Selvest Vif]]|
 |**Oficio**|Médico|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|

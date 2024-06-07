@@ -79,6 +79,7 @@ Para todos los Caballeros Radiantes, ver :Categoría:Caballeros Radiantes.
 [[Kaladin\|Kaladin]] (Corredor del Viento, vinculado a [[Sylphrena\|Sylphrena]])
 [[Lopen\|Lopen]] (Corredor del Viento, vinculado a [[Rua\|Rua]])
 [[Teft\|Teft]] (Corredor del Viento, vinculado a [[Phendorana\|Phendorana]])
+[[Sigzil\|Sigzil]] (Corredor del Viento, vinculado con un spren sin nombre, después Rompedor del Cielo vinculado con [[Auxiliar\|Auxiliar]])
 [[Nale\|Nale]] (Rompedor del Cielo, vinculado con un spren sin nombre; también Heraldo de los Rompedores del Cielo)
 [[Szeth\|Szeth]] (Rompedor del Cielo, vinculado con un [[Altospren de Szeth\|spren sin nombre]])
 [[Malata\|Malata]] (Portadora del Polvo, vinculada con [[Chispa\|Chispa]])

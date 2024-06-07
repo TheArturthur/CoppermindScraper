@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 La brillante **Nananav** es la señora de [[Catarroca\|Catarroca]] en [[Kholinar\|Kholinar]], [[Roshar\|Roshar]]. La suplanta [[Shallan Davar\|Shallan Davar]].
 

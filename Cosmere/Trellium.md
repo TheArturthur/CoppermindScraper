@@ -5,7 +5,7 @@
 |**[[Hemalurgia\|Hemalurgia]]**|
 |**Poder**|Roba habilidades alománticas y feruquímicas, concede a los [[Kandra\|kandra]] sapiencia parcial, *posiblemente otros*|
 |**Tipo de metal**|[[Metal divino\|Metal divino]] ([[Autonom%C3%ADa\|Autonomía]])|
-|**Propiedades**|Repele [[Investidura\|Investidura]]|
+|**Propiedades**|Repele otras formas de [[Investidura\|Investidura]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.

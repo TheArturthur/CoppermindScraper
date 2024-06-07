@@ -4,7 +4,8 @@
 |***Sendero de Honor***|
 |-|-|
 ||
-|**Tipo**|Barco [[Honorspren\|honorspren]]|
+|**Tipo**|Barco|
+|**Propietarios**|[[Honorspren\|Honorspren]]|
 |**Mundo de origen**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 

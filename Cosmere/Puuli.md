@@ -1,31 +1,34 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Puuli**|
 |-|-|
 ||
 |**Familia**|
-|**Parientes**|Puuli's grandfather|
-|**Oficio**|Lighthouse keeper|
+|**Parientes**|Abuelo de Puuli|
+|**Oficio**|Farero|
 |**Etnia**|[[De Natan\|de Natan]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
->“*Even if it had destroyed many a ship, Puuli was happy for this new storm. Secretly happy.*”
-\-Puuli, thinking about the Everstorm[1]
+>“*Aunque hubiera destruidos muchos barcos, Puuli estaba contento por aquella nueva tormenta. Contento en secreto.*”
+\-Puuli, pensando sobre la tormenta eterna[1]
 
 
-**Puuli** is a lighthouse keeper in a small port village in eastern [[Roshar\|Roshar]].
+**Puuli** es un farero de un pequeño pueblo portuario del este de [[Roshar\|Roshar]].
 
-## Appearance and Personality
-Puuli is a [[Natan\|Natan]] man, squat and short, with blue skin and white hair. His family has lived in his small town for multiple generations. He favors hard work and tradition, and seems rather unimpressed with the way that "rich people" choose to spend their money. He is friendly with almost everyone in town, although he sometimes masks his true feelings from them. He primarily worships [[Kelek\|Kelek]], and leaves him offerings of fruit. He believes that Kelek lives in the [[Highstorm\|highstorm]], and uses his name interchangeably with that of the [[Stormfather\|Stormfather]].
+## Apariencia y personalidad
+Puuli es un hombre [[Natano\|natano]], bajo y encorvado, de piel azul y pelo blanco. Su familia ha vivido en su pequeña ciudad durante varias generaciones. Es partidario del trabajo duro y las tradiciones, al tiempo que parece poco impresionado por la forma en que los «ricos» deciden gastar su dinero. Es amigo de casi todos los habitantes de la ciudad, aunque a veces les oculta sus verdaderos sentimientos. Adora principalmente a [[Kelek\|Kelek]] y le deja ofrendas de fruta. Cree que Kelek vive en la [[Alta tormenta\|alta tormenta]] y utiliza su nombre indistintamente con el del [[Padre Tormenta\|Padre Tormenta]].
 
-## History
->“*They’ll come with Light in their pockets. They’ll come to destroy, but you should watch for them anyway. Because they’ll come from the Origin. The sailors lost on an infinite sea.*”
-\-Puuli's grandfather[1]
+## Historia
+>“*Vendrán con luz en los bolsillos. Vendrán a destruir, pero deberías esperarlos de todos modos. Porque vendrán desde el Origen. Marineros perdidos en un mar infinito.*”
+\-Abuelo de Puuli[1]
 
-After the [[Everstorm\|Everstorm]] reached his small coastal community, Puuli commiserated about the death and destruction that it caused with the other townfolk, including [[Sakin\|Sakin]], [[Au-lam\|Au-lam]], [[Hema-Dak\|Hema-Dak]], and the [[Drummer brothers\|Drummer brothers]]. He pitched in and helped those in need during the recovery from the storm, performing various tasks from cleanup to watching over children. At the same time, he collected scrap wood whenever it was available, putting it into his cart to take it to his lighthouse, which he called [[Defiance\|Defiance]]. He dried the wood out and used it as firewood.
-Although he was sad about some of the Everstorm's effects, Puuli was secretly happy about its arrival. He was not worried about his lighthouse, and was very matter-of-fact about the damage that had occurred in and around the town. His grandfather had told him legends of lost sailors who lived on a hidden island near the [[Origin\|Origin]]. These sailors were foretold to return to the [[Roshar\|Rosharan]] continent when the night was darkest to reclaim the ancient lands of [[Natanatan\|Natanatan]]. Puuli believed that the Everstorm must signify a coming time of changes.
+Cuando la [[Tormenta eterna\|tormenta eterna]] llegó a su pequeña comunidad costera, Puuli se compadeció de la muerte y la destrucción que causó con los demás habitantes del pueblo, entre ellos [[Sakin\|Sakin]], [[Au-lam\|Au-lam]], [[Hema-Dak\|Hema-Dak]] y los [[Hermanos Tambor\|hermanos Tambor]]. Colaboró y ayudó a los necesitados durante la recuperación de la tormenta, realizando diversas tareas, desde la limpieza hasta el cuidado de los niños. Al mismo tiempo, recogía madera de escombros siempre que estaba disponible y la metía en su carro para llevarla a su faro, al que llamó [[Desaf%C3%ADo\|Desafío]]. Secó la madera y la utilizó como leña.
+Aunque estaba triste por algunos de los efectos de la tormenta eterna, Puuli se alegraba en secreto de su llegada. No estaba preocupado por su faro, y se mostraba muy sensato ante los daños que se habían producido en la ciudad y sus alrededores. Su abuelo le había contado leyendas de marineros perdidos que vivían en una isla oculta cerca del [[Origen\|Origen]]. A estos marineros se les predijo que regresarían al continente de [[Roshar\|Roshar]] cuando la noche fuese más oscura para reclamar las antiguas tierras de [[Natanatan\|Natanatan]]. Puuli creía que la tormenta eterna debía significar la llegada de una época de cambios.
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Big Smooth (talk) 21:13, 13 April 2020 (UTC)

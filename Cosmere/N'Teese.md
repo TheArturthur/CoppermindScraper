@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **N'Teese** es una guía que trabaja para [[Loaten\|Loaten]] en [[Kezare\|Kezare]], en el Lado Diurno de [[Taldain\|Taldain]].
 

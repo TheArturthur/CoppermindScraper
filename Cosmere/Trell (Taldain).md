@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 Para el ser llamado Trell y su religión asociada, ver [[Trell (trellismo)\|Trell (trellismo)]].
 Para el [[Metal divino\|metal divino]] con el que fue atravesada [[Sangradora\|Sangradora]], ver [[Trellium\|trellium]].

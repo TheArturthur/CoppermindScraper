@@ -7,8 +7,6 @@
 |**Sistema**|[[Sistema UTol\|Sistema UTol]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 **UTol** es un planeta habitado por [[Sho del\|sho del]] en el [[Sistema UTol\|sistema UTol]] del [[Cosmere\|Cosmere]]. Es digno de mención como uno de los pocos planetas confirmados en el que viven sho del y posiblemente por otras razones también.
 Este mundo forma un sistema de dos planetas junto con [[Komashi\|Komashi]], y ambos orbitan un gran sol rojo anaranjado. El planeta en sí está cubierto en su mayoría por océanos, con relativamente pocas zonas de tierra.
 [[N%C3%B3mada\|Nómada]] Saltó a UTol después de dejar [[C%C3%A1ntico\|Cántico]].

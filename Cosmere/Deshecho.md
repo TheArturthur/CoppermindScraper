@@ -114,33 +114,33 @@ Los Deshechos tienen una gran presencia en las canciones de los [[Oyente\|oyente
 **[[Ba-Ado-Mishram\|Ba-Ado-Mishram]]** es una de los Deshechos más inteligentes. Es astuta e intrigante. Servía como uno de los comandantes de Odiumdurante las [[Desolaci%C3%B3n\|Desolaciones]]. Alrededor de 2,500 años tras Aharietiam, se [[Conexi%C3%B3n\|conectó]] con la gran mayoría de los [[Cantor\|cantores]] instigando la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]]. Fue capaz de proporcionarles formas de poder y proveer [[Luz del vac%C3%ADo\|luz del vacío]]. Un equipo de asalto de los [[Caballeros Radiantes\|Caballeros Radiantes]] capturó a Ba-Ado-Mishram en una gema perfecta al final de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], lo que cortó su Conexión con los cantores, robando sus mentes y tocando las almas de todos los que pertenecían a [[Roshar\|Roshar]]. La localización actual de la gema que la contiene es desconocida. [[Kalak\|Kalak]] y [[Nale\|Nale]] estaban presentes durante su captura, por lo que podrían tener pistas sobre su localización. Kalak cree que Ba-Ado-Mishram debería ser encontrada y liberada. Ba-Ado-Mishram también es buscada por los [[Sangre Espectral\|Sangre Espectral]] por motivos desconocidos, posiblemente para ayudar en su misión de transportar [[Luz tormentosa\|luz tormentosa]] fuera de [[Roshar\|Roshar]].
 
 ### Chemoarish
-Poco se sabe de la Deshecho **[[Chemoarish\|Chemoarish]]**. En la moderna [[Era de la Soledad\|Era de la Soledad]], se la conoce como la **Madrepolvo** y a menudo es confundida con la [[Vigilante Nocturna\|Vigilante Nocturna]]. Hay cierta variedad de trasfondo relacionado con ella, pero todo él es actualmente desconocido. En [[Bavlandia\|Bavlandia]], su nombre se invoca como una palabrota.
-Por la longitud de su nombre, parece poco probable que esté entre los Deshechos inteligentes.
+Poco se sabe de la Deshecho **[[Chemoarish\|Chemoarish]]**. En la moderna [[Era de la Soledad\|Era de la Soledad]], se la conoce como la **Madrepolvo** y a menudo es confundida con la [[Vigilante Nocturna\|Vigilante Nocturna]]. Hay cierta variedad de trasfondo relacionado con ella, pero no se sabe absolutamente nada. En [[Bavlandia\|Bavlandia]], su nombre se invoca como una palabrota.
+Según [[Hessi\|Hessi]], no es una de los tres grandes Deshechos sin mente.
 
 ### Dai-Gonarthis
 >“*¡Que ya no me duela! ¡Que ya no llore! ¡Dai-gonarthis! ¡El Pescador Negro sostiene mi pena y la consume!*”
-\-Tanatesach, 1173, 28 segundos antes de la muerte. Una malabarista callejera ojos oscuros. Advertir su similitud con la muestra 1172-89.[70]
+\-Tanatesach, 1173, 28 segundos antes de la muerte. Una malabarista callejera ojos oscuros. Advertir su similitud con la muestra 1172-89.[71]
 
 
 **[[Dai-Gonarthis\|Dai-Gonarthis]]**, también conocido como el **Pescador Negro**, es un Deshecho de inteligencia media. Nopha sido como activo recientemente en Roshar, pero puede estar involucrado en [[La destrucci%C3%B3n de Aimia\|La destrucción de Aimia]]. Hay algo de incertidumbre en la mitología sobre si Dai-Gonarthis es uno de los Deshechos, pero algunos eruditos están convencidos.
 
 ### Moelach
 >“*Moelach está cerca. Lo oigo resollando, raspando, arañando el tiempo como una rata que se abre paso en las paredes.*”
-\-Jezrien sobre Moelach[73]
+\-Jezrien sobre Moelach[74]
 
 
 **[[Moelach\|Moelach]]** es un Deshecho asociado a la precognición y las visiones del futuro. Su presencia permite los [[Susurro de Muerte\|susurros de muerte]] que el rey [[Taravangian\|Taravangian]] usó para modificar el [[Diagrama (literatura)\|Diagrama]]. La apariencia de Moelach es desconocida. En el año 1166 Moelach estaba en algún lugar cerca de Kholinar, entonces residió en Kharbranth en el año 1167 y se desplazó por motivos desconocidos siete años más tarde a los [[Picos Comecuernos\|Picos Comecuernos]].
 
 ### Nergaoul
 >“*Nergaoul era conocido por infundir en las tropas una ira combativa que les confería gran ferocidad. Curiosamente, lo hacía con ambos bandos en conflicto, Portadores del Vacío y humanos. Se trata de una característica que aprce común en los spren menos conscientes de sí mismos.*”
-\-De Mítica de Hessi, página 121[74]
+\-De Mítica de Hessi, página 121[75]
 
 
 **[[Nergaoul\|Nergaoul]]** es un Deshecho sin mente fuertemente asociado a la rabia de la batalla. Nergaoul no es muy inteligente, disfrutando de una forma animal de la muerte y el asesinato. Toma la forma de una enorme niebla roja enturbiada con las formas de hombres luchando y muriendo. Nergaoul produce el efecto conocido como [[La Emoci%C3%B3n\|la Emoción]], que empuja a los hombres a seguir luchando cuando deberían rendirse y les hace disfrutar de la matanza. Durante la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], fue capturado en el rubí "[[L%C3%A1grima del Rey\|Lágrima del Rey]]" por Dalinar. Después, esta gema perfecta fue hundida hasta el fondo del océano.
 
 ### Re-Shephir
 >“*Re-Shephir, la Madre Medianoche, dando a luz abominaciones con su esencia tan oscura, tan terrible, tan consumidora. ¡Está aquí! ¡Me ve morir!*”
-\-Fechado Shashabev, 1173, ocho segundos antes de la muerte. Sujeto: un estibador ojos oscuros de unos cuarenta años, padre de tres hijos.[77]
+\-Fechado Shashabev, 1173, ocho segundos antes de la muerte. Sujeto: un estibador ojos oscuros de unos cuarenta años, padre de tres hijos.[78]
 
 
 **[[Re-Shephir\|Re-Shephir]]** también conocida como la **Madre Medianoche**, y la **Madre que Engendra**. Toma la forma de una sustancia negra, como alquitrán, que es capaz de fluir sobre varias superficies y aparenta tener caras gritando que asoman en su superficie. Su habilidad primaria es engendrar la [[Esencia de Medianoche\|Esencia de Medianoche]], un tipo de spren que toman la forma de criaturas y personas que ven a su alrededor e intentan entender a la humanidad imitándola. Es una criatura instintiva atraída por la violencia y el dolor. Antes de la [[Traici%C3%B3n\|Traición]], se infiltró en Urithiru y fue capturada por un [[Orden de los Tejedores de Luz\|Tejedor de Luz]].Tras la Traición, escapó de su prisión y habitó [[Urithiru\|Urithiru]] durante siglos, hasta huir de la torre como resultado de su enfrentamiento con [[Shallan\|Shallan]]. Su localización actual se desconoce, pero en algún momento informó a los [[Fusionado\|Fusionados]], incorrectamente, de que el [[Hermano\|Hermano]] estaba m,uerto.

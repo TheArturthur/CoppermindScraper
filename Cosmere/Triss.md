@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 Lady **Triss** es una [[Noble\|noble]] de [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]].
 Acudió al último baile [[House Venture\|Venture]] con lord [[Yestal\|Yestal]]. Ella estaba entre los nobles que evitaban groseramente socializar con [[Valette Renoux\|Valette Renoux]] para concentrarse en consolidar sus alianzas políticas existentes.

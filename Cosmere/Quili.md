@@ -1,3 +1,6 @@
+**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
+
+
 |**Quili**|
 |-|-|
 |**Tipo**|Islas|
@@ -5,9 +8,9 @@
 |**Mundo**|[[Roshar\|Roshar]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
-**Quili** is one of the [[Reshi Isles\|Reshi Isles]], west of [[Abri\|Abri]], but east of the kingdom of [[Rira (country)\|Rira]].
+**Quili** es una de las [[Islas Reshi\|Islas Reshi]], al oeste de [[Abri\|Abri]], pero al este del reino de [[Rira (pa%C3%ADs)\|Rira]].
 
-## Notes
+## Notas
 
 > [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
 Chaos2651 (talk) 23:02, 10 November 2017 (MST)

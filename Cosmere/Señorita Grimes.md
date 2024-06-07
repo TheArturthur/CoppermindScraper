@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 >“*Oh, Lord Ladrian, ¡Su madre estaría tan satisfecha al ver este día! Ella esperaba que se casara con una bella dama algún día. Si hubiera oído cómo se preocupaba, todos esos años…*”
 \-La señorita Grimes a Waxillium Ladrian por su inminente compromiso con Steris Harms[1]

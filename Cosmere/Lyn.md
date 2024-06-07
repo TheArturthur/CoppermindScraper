@@ -7,6 +7,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“*¡Quiero ayudar! ¡Quiero hacer algo que no sea quedarme quieta esperando a que el enemigo venga a por nosotros!*”
 \-Lyn sobre por qué quiere unirse a los Corredores del Viento[2]

@@ -6,6 +6,7 @@
 |**Oficio**|[[L%C3%ADder de la Asamblea Nacional\|LAN]]|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 **Ukrit** es un [[L%C3%ADderes de la Asamblea Nacional\|Líder de la Asamblea Nacional]].
 Ukrit se enfrentó a [[F%C3%A9rrea\|Férrea]], junto con los LAN [[Algernon Weight\|Weight]] y [[Valda M%C3%A9ndez\|Méndez]], sobre su liderazgo de la [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]], preocupándose especialmente por el número de naves dañadas que requieren reparación. Durante la reunión, Férrea propuso que la FDD enviara toda su fuerza de cazas a capturar un astillero en caída lleno de anillos de pendiente.

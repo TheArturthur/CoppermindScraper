@@ -56,7 +56,7 @@ Los **Heraldos** son siervos del [[Honor\|Todopoderoso]] venerados en todo [[Ros
 \-El Padre Tormenta sobre la creación de los Heraldos[1]
 
 La mayoría de los Heraldos nacieron en [[Ashyn\|Ashyn]], siendo [[Shalash\|Shalash]] posiblemente la única excepción. Después de que la humanidad destruyera el ecosistema de ese planeta, viajaron junto con el resto de los refugiados a [[Roshar\|Roshar]], aunque en ese momento todavía no eran los Heraldos.
-Antes de la primera [[Desolaci%C3%B3n\|Desolación]], la mayoría de ellos ocupaban diversos puestos de importancia: eruditos, generales, sacerdotes y reyes. Después de que los [[Fusionado\|Fusionados]] comenzaran a regresar, Honor formó el [[Juramento\|Juramento]], concediendo a los nuevos Heraldos una conexión con él y, a través de ella, sus habilidades sobrenaturales. No se sabe con certeza cómo se elegía a la gente para convertirse en Heraldos; es posible que tenga algo que ver con [[El D%C3%ADa de las Pruebas\|El Día de las Pruebas]].
+Antes de la primera [[Desolaci%C3%B3n\|Desolación]], la mayoría de ellos ocupaban diversos puestos de importancia: eruditos, generales, sacerdotes y reyes. Después de que los [[Fusionado\|Fusionados]] comenzaran a regresar, Honor formó el [[Juramento\|Juramento]], concediendo a los nuevos Heraldos una conexión con él y, a través de ella, sus habilidades sobrenaturales. No se sabe con certeza cómo se elegía a la gente para convertirse en Heraldos; es posible que tenga algo que ver con el [[D%C3%ADa de Pruebas\|Día de Pruebas]].
 
 ### Las Desolaciones
   Los Heraldos abandonan el <<Juramento\|Juramento>> tras la <<%C3%9Altima Desolaci%C3%B3n\|Última Desolación>>

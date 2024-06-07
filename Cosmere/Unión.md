@@ -1,9 +1,4 @@
 **Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
-> [!info] Este artículo necesita varias citasPor favor, añade referencias a capítulos u otras fuentes que expliquen estos datos.
 
 
 |**Unión**|
@@ -14,6 +9,9 @@
 |**Mundo**|[[C%C3%A1ntico\|Cántico]]🐱︎|
 |**Universo**|[[Cosmere\|Cosmere]]|
 
+> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+
+> [!info] Este artículo necesita varias citasPor favor, añade referencias a capítulos u otras fuentes que expliquen estos datos.
 >“*Tu planeta no debería tener varias naciones. Deberíais haberlas conquistado y unificado todas.*”
 \-El Rey Incandescente criticando el planeta natal de Nómada.[1]
 

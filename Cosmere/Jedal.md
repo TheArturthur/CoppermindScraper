@@ -9,6 +9,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
 
 **Jedal** es un minero [[Skaa\|skaa]] del [[Dominio Oriental\|Dominio Oriental]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Es el padre de [[Fantasma\|Fantasma]].
 
