@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Juramentada\|Juramentada]]*|
 
 **Noromin** (conocido como **Noro**) es un soldado [[Alezi\|alezi]] en [[Roshar\|Roshar]]. Es teniente de la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] y comandante de la segunda escuadra del séptimo pelotón.
 

@@ -7,6 +7,7 @@
 |**Especie**|[[Tanuzedrano\|Tanuzedrano]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Cit%C3%B3nica (libro)\|Citónica]]*|
 
 **RayoZed** es un joven pirata del [[Cintur%C3%B3n\|cinturón]] de la [[Ninguna-parte\|ninguna-parte]], y miembro de la [[Facci%C3%B3n de los Costaderos\|Facción de los Costaderos]].
 

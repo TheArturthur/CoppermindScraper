@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*¡El efecto de Higgens ya es agua pasada! Me interesa mucho más el modo en que los campos de electricidad estática producen un resultado parecido. ¡Deberías ver el estudio que estamos a punto de completar, asombroso!*”
 \-Wayne, disfrazado de Hanlanaze intentando confundir a Maldor[1]

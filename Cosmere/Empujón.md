@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 Para el uso alomántico del acero conocido como **empuje**, ver [[/wiki/Acero#Uso alom.C3.A1ntico]].
 **Empujón** es el seudónimo de un miembro del [[El Grupo\|Grupo]] en [[Scadrial\|Scadrial]]. Es un [[Lanzamonedas\|lanzamonedas]] que también trabaja con los [[Desvanecedores\|Desvanecedores]].

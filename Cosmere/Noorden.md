@@ -10,6 +10,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Noorden** es un erudito y ex-[[Obligador\|obligador]] en el Cantón de la Ortodoxia del [[Ministerio del Acero\|Ministerio del Acero]] en el [[Imperio Final\|Imperio Final]], en [[Scadrial\|Scadrial]]. Tras el [[Colapso\|Colapso]], fue contratado por [[Elend Venture\|Elend Venture]] para ser escriba y burócrata.
 

@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*Si no estás familiarizado con un sitio, conviene hacerlo lo antes posible.*”
 \-Parlin a Vivenna[2]

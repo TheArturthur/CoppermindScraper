@@ -10,6 +10,7 @@
 |**Oficio**|Armera|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

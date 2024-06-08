@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*No puedes [[Replar Innate\|salrvarlo]].  lo matará. Me prometió libertad, pero aquí estoy, maniatado. Ay, [[Ruina\|Ruina]].*”
 \-Rian a Waxillium Ladrian[1]

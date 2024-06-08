@@ -6,6 +6,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 >“*Basta de jugar con las palabras, sacerdote. Quiero promesas. ¿Estás diciendo que si nos convertimos al derethi, nos garantizarás mayores posesiones?*”
 \-Ramear a Hrathen[1]

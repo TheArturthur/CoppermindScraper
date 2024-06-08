@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Lady Remin** es una noble de [[Scadrial\|Scadrial]]. Acudió a la [[Fiesta de lady ZoBell\|fiesta de lady ZoBell]] en [[Elendel\|Elendel]].
 Fue afectada por la burbuja de [[Acero\|acero]] de [[Wax\|Wax]] que inconscientemente mantenía casi siempre a su alrededor. Wax, sin quererlo, empujó el anillo de la mujer dentro de su bebida mientras pasaba junto a ella, lo que [[Steris\|Steris]] encontró divertido.

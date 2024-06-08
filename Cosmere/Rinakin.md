@@ -3,11 +3,11 @@
 
 |**Rinakin**|
 |-|-|
-|**Familia**|
 |**Hijos**|[[Inin\|Inin]]|
 |**Especie**|[[UrDail\|UrDail]]|
 |**Mundo natal**|[[ReAlba (planeta)\|ReAlba]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[ReAlba (novella)\|ReAlba]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

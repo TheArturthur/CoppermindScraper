@@ -11,6 +11,7 @@
 |**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
 
 **Niter** es el jefe de la [[Guardia de Cobalto\|Guardia de Cobalto]] en [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]].
 

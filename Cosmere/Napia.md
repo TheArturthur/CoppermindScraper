@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Solar\|Solar]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

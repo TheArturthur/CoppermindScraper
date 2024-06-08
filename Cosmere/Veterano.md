@@ -8,6 +8,7 @@
 |**Residencia**|[[T'Telir\|T'Telir]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 **Viejo Veterano** es un pescador ligeramente demente que vive en en los muelles de los barrios bajos [[Idris\|idrianos]]. en [[T'Telir\|T'Telir]] en [[Nalthis\|Nalthis]].. Ha vivido en [[Hallandren\|Hallandren]] al menos desde que era adolescente.
 

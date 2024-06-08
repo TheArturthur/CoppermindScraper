@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 **Comentario** es un cadete del [[Escuadr%C3%B3n Tintero\|Escuadrón Tintero]] o del [[Escuadr%C3%B3n Tormenta de Fuego\|Tormenta de Fuego]] al que se le ofrece un puesto de [[Explorador\|explorador]] antes de su graduación. Como tal, pilotaría una nave [[Clase Val\|clase Val]]. No está claro si Comentario es un identificador o el nombre de este cadete.
 Es bullicioso y tiene un corte a tazón en el pelo. Está emocionado por unirse a los exploradores después de graduarse en la [[Escuela de vuelo\|escuela de vuelo]] y habla con los otros cadetes sobre su oferta durante la cena en el comedor.

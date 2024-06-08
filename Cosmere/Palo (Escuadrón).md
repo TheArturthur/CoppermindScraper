@@ -10,6 +10,7 @@
 |**Especie**|[[Tenasi\|Tenasi]]|
 |**Mundo natal**|*Desconocido*|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Cit%C3%B3nica (libro)\|Citónica ]]*|
 
 > [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
 

@@ -7,6 +7,7 @@
 |**Etnia**|[[Noble\|Noble]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
 
 Lord **Rene** es un [[Noble\|noble]] de [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]].
 

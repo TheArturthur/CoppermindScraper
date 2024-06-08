@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[Malwish\|Malwish]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
 
 **Petrine** es una [[Scadriano del sur\|scadriana del sur]], miembro de la tripulación de la *[[Brunstell\|Brunstell]]*.
 

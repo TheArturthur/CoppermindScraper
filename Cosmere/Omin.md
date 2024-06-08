@@ -8,6 +8,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 El padre **Omin** es un sacerdote [[Shu-Korath\|korathi]] que vive en [[Kae\|Kae]]. En su juventud se le conocía por el nombre de **Elenan**. Omin es calvo y tiene unos ojos sorprendentemente azules. Es bajo, incluso para ser un [[Arelon\|areleno]]; lo suficiente como para haberse construido un podio especial desde el que predicar que reduce al mínimo su falta de altura.
 Es una figura amable y paternal, uno de los mejores sacerdotes que [[Sarene\|Sarene]] ha conocido. Cuando se convirtió en sacerdote korathi, adoptó el nombre de Omin para representar su nuevo camino en la vida. Es extremadamente despistado, a menudo se pierde en su propia mente en medio de las conversaciones. Explica la [[Prueba de Viudedad\|Prueba de Viudedad]] a Sarene, y ella le pide que celebre su boda con [[Roial\|Roial]] y [[Raoden\|Raoden]]. Se encuentra con [[Hrathen\|Hrathen]] en la muralla de Elantris y discute con él el hecho de que predique el odio hacia los elantrinos, pero no hace nada más que hablar.. Sin embargo, alaba la lógica de Hrathen. Dice que la lógica no es necesariamente fe, y la cuestiona.

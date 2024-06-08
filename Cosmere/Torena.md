@@ -7,6 +7,7 @@
 |**Padres**|[[Ahan\|Ahan]], [[Seaden\|Seaden]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 **Torena** es una noble de la corte de Arelon en [[Sel\|Sel]].
 Es hija del conde [[Ahan\|Ahan]] y de lady [[Seaden\|Seaden]]. Suele ser un miembro callado de las reuniones de la corte, pero ayuda a iniciar las clases de esgrima, siendo la primera voluntaria. Comienza a cortejar a [[Shuden\|Shuden]] antes de la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]]. Participó en la [[Prueba de Viudedad\|Prueba de Viudedad]] de Sarene, y es la primera de las mujeres en participar. Ella y [[Kaise\|Kaise]] actúan sosteniendo la cola del vestido de Sarene durante su matrimonio con [[Roial\|Roial]]. Baila y cabalga con Shuden.

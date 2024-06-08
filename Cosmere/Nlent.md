@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras Radiantes\|Palabras Radiantes]]*|
 
 **Nlent** es un guardia [[Thayle%C3%B1o\|thayleño]] en la caravana de [[Vstim\|Vstim]]. Él y [[Kylrm\|Kylrm]] acompañan a [[Rysn\|Rysn]] cuando ella va a [[Relu-na\|Relu-na]] a comerciar. Cuando se cruzan con [[Axies\|Axies]] en la subida, Nlent le advierte a Rysn que se mantenga alejada de él, mostrando cierto conocimiento de las habilidades de los [[Aimiano\|aimianos]], aunque está contaminado por la superstición. Lleva un amuleto del valor en la muñeca: un pequeño objeto que no tiene propiedades mágicas, pero que sirve para recordar a su portador que debe mostrar valor y pasión.
 

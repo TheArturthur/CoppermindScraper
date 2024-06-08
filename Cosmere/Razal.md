@@ -8,6 +8,7 @@
 |**Etnia**|[[De Terris\|de Terris]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 **Razal** es un [[Terris\|terrisano]] que vive en [[La Aldea\|La Aldea]], en [[Elendel\|Elendel]].
 Razal no tiene las características alargadas que se asocian con los terrisanos previos al [[Catacendro\|Catacendro]] de [[Scadrial\|Scadrial]], sin embargo, puede tener la altura o la tonalidad de piel más oscura que se ha transmitido de los terrisanos [[Originadores\|Originadores]].

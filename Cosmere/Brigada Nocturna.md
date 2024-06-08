@@ -48,7 +48,7 @@ Cuando Nómada llegó a [[C%C3%A1ntico\|Cántico]], la Brigada Nocturna apareci�
 [[Almirante\|Almirante]]
 [[La-Verdad-Espera\|La-Verdad-Espera]]
 ## Curiosidades
-En borradores iniciales, el grupo se llamaba la "Dusk Brigade" (Brigada del Ocaso); sin embargo, debido a un error de transcripción, esto fue malinterpretado como la "Dust Brigade" (Brigada del Polvo) durante muchos años. Brandon finalmente lo rebautizó como la "Brigada Nocturna" debido a que ya tenía un personaje llamado [[Sexto del Ocaso\|Ocaso]] en el cosmere.
+En borradores iniciales, el grupo se llamaba la "Dusk Brigade" (Brigada del Ocaso); sin embargo, debido a un error de transcripción, esto fue malinterpretado como la "Dust Brigade" (Brigada del Polvo) durante muchos años. Brandon finalmente lo rebautizó como la "Brigada Nocturna" debido a que ya tenía un personaje llamado [[Sexto del Ocaso (personaje)\|Ocaso]] en el Cosmere.
 La organización en su conjunto es una referencia a .
 A pesar del nombre, la Brigada Nocturna no tiene ninguna relación particular con el [[Esencia de Medianoche\|éter de medianoche]].
 ## Notas

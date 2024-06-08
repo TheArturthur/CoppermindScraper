@@ -9,6 +9,7 @@
 |**Grupo**|[[Ire\|Ire]]🐱︎|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*Nacidos de la bruma: historia secreta*|
 
 > [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
 

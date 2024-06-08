@@ -7,6 +7,7 @@
 |**Etnia**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 >“*¿A quién le importa la esperanza? Quiero compromisos. ¿Qué títulos se repartirán? ¿Quién conseguirá los acuerdos comerciales si Idris vence?*”
 \-Paxen[1]

@@ -13,6 +13,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 >“*La política siempre se basa en la hipocresía, Kenton.*”
 \-Raagent[3]

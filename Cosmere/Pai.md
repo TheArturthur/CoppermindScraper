@@ -7,6 +7,7 @@
 |**Residencia**|[[Kholinar\|Kholinar]]|
 |**Mundo natal**|[[Roshar\|Roshar]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
 
 >“* Los fervorosos de la reina le dicen solo lo que quiere oír.*”
 \- Pai a Lhan[1]

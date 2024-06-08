@@ -6,6 +6,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 El identificador **Nord** es miembro del Escuadrón Pesadilla junto con [[Napia\|Napia]], [[Lodazal\|Lodazal]], [[Sushi\|Sushi]], [[Jager\|Jager]] y [[Afinadora\|Afinadora]].
 Como parte de su entrenamiento, el Escuadrón Cielo fue emparejado con el Escuadrón Pesadilla para una misión rutinaria de etiquetado de escombros, durante la cual son atacados por los [[Varvax\|krell]]. Nord, y su compañera de vuelo Sushi, fueron asignados para acompañar a [[Jorgen\|Jorgen]] durante el ejercicio de etiquetado.

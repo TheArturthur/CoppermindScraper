@@ -32,7 +32,7 @@ Los **alcanzadores**, también conocidos como **lumispren**, son un subconjunto 
 
 3 Historia. [[#Historia]] 
 4 Cultura. [[#Cultura]] 
-5 Lumispren destacados. [[#Lumispren destacados]] 
+5 Alcanzadores destacados. [[#Alcanzadores destacados]] 
 6 Notas. [[#Notas]] 
 
 
@@ -63,7 +63,7 @@ Se desconoce si los alcanzadores tienen asentamientos propios, aunque son muy co
 Si bien los alcanzadores pueden ser tanto masculinos como femeninos, no parecen practicar ninguna división de género; ambos pueden desempeñar los mismos trabajos, usar la misma ropa y leer.
 La Traición ha dejado en los alcanzadores una profunda desconfianza hacia los humanos y sus juramentos. Algunos parecen comprender que los humanos utilicen [[Hoja esquirlada\|hojas esquirladas]] de [[Ojomuerto\|ojomuertos]] para sus propósitos, aunque existe un trasfondo de resignación en esto, ya que parecen creer que es inevitable que los juramentos humanos sean quebrantados. No obstante, parecen estar decididos a ser útiles, comerciando sin problema con los humanos y proporcionándoles medios de supervivencia. También están dispuestos a dar consejos gratis.
 
-## Lumispren destacados
+## Alcanzadores destacados
 Capitán [[Ico\|Ico]]
 [[Timbre\|Timbre]] (vínculado a [[Venli\|Venli]])
 ## Notas

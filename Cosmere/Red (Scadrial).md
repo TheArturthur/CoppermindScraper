@@ -6,6 +6,7 @@
 |**Oficio**|Barquero|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 Para otros personajes con este nombre, ver [[Rojo\|Rojo]].
 **Red** es un barquero que trabaja en los canales de [[Elendel\|Elendel]], en Scadrial.
 Lleva a [[Wayne\|Wayne]] a la [[Universidad de Elendel\|Universidad de Elendel]], quien paga el viaje con una moneda que llevaba en la boca.

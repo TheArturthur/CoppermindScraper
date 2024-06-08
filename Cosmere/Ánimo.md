@@ -7,6 +7,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Estelar\|Estelar]]*|
 
 Identificador **Ánimo** es un miembro del [[Escuadr%C3%B3n Esperanza\|Escuadrón Esperanza]] que participó en la [[Batalla de Alta\|Batalla de Alta]]. Murió a manos de [[Perseguidor\|Perseguidor]], después de que este comenzara a disparar contra su escuadrón, creyendo que eran naves enemigas.
 Entre los compañeros de vuelo de Ánimo se encontraban [[F%C3%A9rrea\|Férrea]], [[Perseguidor\|Perseguidor]], [[Cobb\|Cobb]], [[Cl%C3%A1sico\|Clásico]], así como otros tres.

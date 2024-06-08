@@ -5,6 +5,7 @@
 |-|-|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
 
 >“*Pues claro que lo estoy. ¿Me molestaría en venir hasta aquí de lo contrario? En serio, deberían dejar que se encargara mi mayordomo de estas gestiones. Para eso están los mayordomos, al fin y al cabo.*”
 \-Nikolin a Edwarn Ladrian.[1]

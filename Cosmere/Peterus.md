@@ -9,6 +9,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 >“* ¡En nombre de la ley, me encargaré que los persigan y los cuelguen por esto!*”
 \- Lord Peterus a Miles Dagouter durante una redada a los Desvanecedores[1]

@@ -7,6 +7,7 @@
 |**Residencia**|[[Elendel\|Elendel]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
 
 **Nouxil** es un armero muy conocido en [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]].
 

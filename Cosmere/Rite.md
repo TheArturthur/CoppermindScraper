@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Lossand\|de Lossand]]|
 |**Mundo natal**|[[Taldain\|Taldain]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
 
 **Rite** es el actual [[Lord artesano\|lord artesano]] de [[Lossand\|Lossand]]. Es el taisha encargado del [[/wiki/Lossand#El Proyecto]]. Reside en el Taller Central de Artesanos y dirige la industria de productos manufacturados de Lossand. Fue elegido lord artesano por votación de los miembros del gremio.
 

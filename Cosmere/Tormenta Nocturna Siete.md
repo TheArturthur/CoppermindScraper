@@ -7,6 +7,7 @@
 |**Oficio**|Piloto de la FDD|
 |**Mundo natal**|[[Detritus\|Detritus]]|
 |**Universo**|[[Citoverso\|Citoverso]]|
+|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
 
 > [!info] Se ha sugerido mover esta página a [[Tormenta Nocturna Siete\|Tormenta Nocturna Siete]].Puedes discutir el movimiento propuesto en la página de debate.
 

@@ -9,6 +9,7 @@
 |**Etnia**|[[A%C3%B3nico\|Aónico]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[La esperanza de Elantris\|La esperanza de Elantris]]*|
 
 **Riika** es una joven niña [[Elantrino\|elantrina]].
 Está vinculada con [[Mai\|Mai]], que la ayudada a conciliar el sueño con cuentos. Tras ser tomada por el [[Reod\|Reod]], le cuesta conciliar el sueño, ya que Mai se ha vuelto loca y nadie le cuenta historias para que se duerma. Durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]] Riika no puede dormir, así que [[Matisse\|Matisse]] le pide a [[Ashe\|Ashe]] que le cuente un cuento que la duerma a ella y a todos los demás niños.

@@ -10,6 +10,7 @@
 |**Nacionalidad**|[[De Arelon\|de Arelon]]|
 |**Mundo natal**|[[Sel\|Sel]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
 
 El duque **Roial** de la [[/wiki/Arelon#Plantaciones]] era un antiguo mercader y noble areleno.
 

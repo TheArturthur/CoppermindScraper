@@ -10,6 +10,7 @@
 |**Etnia**|[[Skaa\|Skaa]]|
 |**Mundo natal**|[[Scadrial\|Scadrial]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
 
 **Philen Frandeu** (originalmente **Lin**) es un mercader [[Skaa\|skaa]] en [[Scadrial\|Scadrial]] que ocupa uno de los ocho escaños mercantiles en la [[Asamblea de Luthadel\|Asamblea de Luthadel]]. Desprecia a los skaa que no son comerciantes y cambia su nombre tras el [[Colapso\|Colapso]] para hacerlo parecer más [[Noble\|noble]].
 

@@ -8,8 +8,6 @@
 |**Mundo de origen**|[[C%C3%A1ntico\|Cántico]]|
 |**Universo de origen**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
 Para más información, ver [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|Instalación de investigación scadriana]].
 >“*Es una esperanza descabellada, sí, la que ofrecen las historias de una tierra intacta por el sol*”
 \-Contemplación hablando del Refugio[1]

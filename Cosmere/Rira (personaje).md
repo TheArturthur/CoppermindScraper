@@ -9,6 +9,7 @@
 |**Nacionalidad**|[[De Idris\|de Idris]]|
 |**Mundo natal**|[[Nalthis\|Nalthis]]|
 |**Universo**|[[Cosmere\|Cosmere]]|
+|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
 
 Este artículo trata sobre el jefe de ladrones nalthiano. Para la nación roshariana, ver [[Rira (pa%C3%ADs)\|Rira (país)]].
 **Rira** es un jefe de ladrones [[Idris\|idriano]] que vive en [[T'Telir\|T'Telir]] en [[Nalthis\|Nalthis]] durante el reinado del rey-dios [[Susebron\|Susebron]].

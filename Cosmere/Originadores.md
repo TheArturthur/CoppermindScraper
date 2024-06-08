@@ -16,18 +16,22 @@ Muchos consideran que los Originadores proceden de una época de mitos y leyenda
 [[Fantasma\|El lord Nacido de la Bruma]] creía que era muy importante conseguir la mayor igualdad posible para el pueblo de Elendel. En concreto, no quería barrios marginales en su ciudad, y trabajó duro para evitarlo. Construyó edificios agradables y duraderos para que vivieran en ellos. Lady Allrianne Ladrian se esforzó por enseñar a las mujeres de Elendel que podían hacer casi cualquier cosa que hicieran los hombres, pero que también se esperaba de ellas que fueran el modelo de comportamiento propio de una dama, lo que se ha considerado una pesada doble moral. Aunque los asentamientos se han convertido en ciudades, las enseñanzas y los efectos de los Originadores aún pueden sentirse en Scadrial hoy en día, aunque su homónimo es utilizado por algunos como combustible para "proverbios" pegadizos como "¡No hay dos estaciones iguales!.
 
 ## Lista de Originadores conocidos
-[[Fantasma\|Fantasma]], conocido como el lord Nacido de la Bruma.
-[[Beldre\|Beldre]]
-[[Brisa\|Brisa]], conocido como el Consejero de los Dioses.
+[[Aledin\|Aledin]]
 [[Allrianne\|Allrianne]]
-[[Hammond\|Hammond]]
 [[Aradan Yomen\|Aradan Yomen]]
-[[Demoux\|Demoux]]
-[[Aslydin\|Aslydin]]
 [[Ashweather Cett\|Ashweather Cett]]
-[[Gneorndin Cett\|Gneorndin Cett]]
+[[Aslydin\|Aslydin]]
+[[Beldre\|Beldre]]
+[[Brisa\|Brisa]]
+[[Demoux\|Demoux]]
+[[Fantasma\|Fantasma]]
 [[Felt\|Felt]]
-Lady Verdad (en este momento no conocemos el nombre completo de lady Verdad)
+[[Gneorndin Cett\|Gneorndin Cett]]
+[[Hammond\|Hammond]]
+Lady Verdad
+[[Mardra\|Mardra]]
+[[Troalin\|Troalin]]
+[[Wellen\|Wellen]]
 ## Notas
 
 A este artículo le falta información. Por favor, ayuda a The Coppermind .
