@@ -6,8 +6,8 @@ from os.path import basename, exists
 from re import match
 from urllib.parse import unquote
 
-BASE_URL = "https://es.coppermind.net"
-URL = "https://es.coppermind.net/wiki/Cosmere"
+BASE_URL = "https://coppermind.net"
+URL = "https://coppermind.net/wiki/Cosmere"
 
 done = False
 
